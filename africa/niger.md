@@ -378,7 +378,7 @@ _subordinate courts_: Court of Cassation; Council of State; Court of Finances; v
 ACP, AfDB, AU (suspended), CD, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSCA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Hassane IDI (since 19 October 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Hassane IDI (since 3 August 2023)<br>
 _chancery_: 2204 R Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 483-4224<br>
 _FAX_: [1] (202) 483-3169<br>

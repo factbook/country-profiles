@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The huge delta region formed at the confluence of the Ganges and Brahmaputra River systems - now referred to as Bangladesh - was a loosely incorporated outpost of various empires centered on the Gangetic plain for much of the first millennium A.D. Muslim conversions and settlement in the region began in the 10th century, primarily from Arab and Persian traders and preachers. Europeans established trading posts in the area in the 16th century. Eventually the area known as Bengal, primarily Hindu in the western section and mostly Muslim in the eastern half, became part of British India. Partition in 1947 resulted in an eastern wing of Pakistan in the Muslim-majority area, which became East Pakistan. Calls for greater autonomy and animosity between the eastern and western wings of Pakistan led to a Bengali independence movement. That movement, led by the Awami League (AL) and supported by India, won the independence war for Bangladesh in 1971.</p> <p>The post-independence AL government faced daunting challenges and in 1975 it was overthrown by the military, triggering a series of military coups that resulted in a military-backed government and subsequent creation of the Bangladesh Nationalist Party (BNP) in 1978. That government also ended in a coup in 1981, followed by military-backed rule until democratic elections occurred in 1991. The BNP and AL have alternated in power since 1991, with the exception of a military-backed, emergency caretaker regime that suspended parliamentary elections planned for January 2007 in an effort to reform the political system and root out corruption. That government returned the country to fully democratic rule in December 2008 with the election of the AL and Prime Minister Sheikh HASINA. In January 2014, the incumbent AL won the national election by an overwhelming majority after the BNP boycotted the election, which extended HASINA's term as prime minister. In December 2018, HASINA secured a third consecutive term (fourth overall) with the AL coalition securing 96% of available seats, amid widespread claims of election irregularities. With the help of international development assistance, Bangladesh has reduced the poverty rate from over half of the population to less than a third, achieved Millennium Development Goals for maternal and child health, and made great progress in food security since independence. The economy has grown at an annual average of about 6% for the last two decades. In 2021 the UN approved a resolution to allow Bangladesh to officially graduate from least-developed-country (LDC) status in 2026, based on World Bank criteria.</p><br>
+<p>The huge delta region formed at the confluence of the Ganges and Brahmaputra River systems - now referred to as Bangladesh - was a loosely incorporated outpost of various empires centered on the Gangetic plain for much of the first millennium A.D. Muslim conversions and settlement in the region began in the 10th century, primarily from Arab and Persian traders and preachers. Europeans established trading posts in the area in the 16th century. Eventually the area known as Bengal, primarily Hindu in the western section and mostly Muslim in the eastern half, became part of British India. Partition in 1947 resulted in an eastern wing of Pakistan in the Muslim-majority area, which became East Pakistan. Calls for greater autonomy and animosity between the eastern and western wings of Pakistan led to a Bengali independence movement. That movement, led by the Awami League (AL) and supported by India, won the independence war for Bangladesh in 1971.</p> <p>The post-independence AL government faced daunting challenges, and in 1975 it was overthrown by the military, triggering a series of military coups that resulted in a military-backed government and subsequent creation of the Bangladesh Nationalist Party (BNP) in 1978. That government also ended in a coup in 1981, followed by military-backed rule until democratic elections occurred in 1991. The BNP and AL alternated in power from 1991 to 2008, with the exception of a military-backed, emergency caretaker regime that suspended parliamentary elections planned for January 2007 in an effort to reform the political system and root out corruption. That government returned the country to fully democratic rule in December 2008 with the election of the AL and Prime Minister Sheikh HASINA. In January 2014, the incumbent AL won the national election by an overwhelming majority after the BNP boycotted the election, which extended HASINA's term as prime minister. In December 2018, HASINA secured a third consecutive term (fourth overall) with the AL coalition securing 96% of available seats, amid widespread claims of election irregularities. With the help of international development assistance,  Bangladesh is on track to graduate from the UN’s Least Developed Countries (LDC) list in 2026. The economy has grown at an annual average of about 6.25% for the last two decades. Poverty declined from 11.8 percent in 2010 to 5.0 percent in 2022, based on the international poverty line of $2.15 a day (using 2017 Purchasing Power Parity exchange rate). Moreover, human development outcomes improved along many dimensions.  The country made a rapid recovery from the COVID-19 pandemic, but faces several economic challenges.</p> <p> </p><br>
 
 ## Geography
 
@@ -90,14 +90,14 @@ _adjective_: Bangladeshi<br>
 
 **Ethnic groups**<br>
 Bengali at least 99%, other indigenous ethnic groups 1% (2022 est.)<br>
-<strong>note:</strong> Bangladesh's government recognizes 27 indigenous ethnic groups under the 2010 Cultural Institution for Small Anthropological Groups Act; other sources estimate there are about 75 ethnic groups; critics of the 2011 census claim that it underestimates the size of Bangladesh's ethnic population<br>
+<strong>note:</strong> Bangladesh's government recognizes 27 indigenous ethnic groups under the 2010 Cultural Institution for Small Anthropological Groups Act; other sources estimate there are about 75 ethnic groups<br>
 
 **Languages**<br>
 Bangla 98.8% (official, also known as Bengali), other 1.2% (2011 est.)<br>
 _major-language sample(s)_: <p><br>বিশ্ব ফ্যাক্টবুক, মৌলিক তথ্যের অপরিহার্য উৎস (Bangla)</p> <br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim 91, Hindu 8%, other 1% (2022 est.)<br>
+Muslim 91%, Hindu 8%, other 1% (2022 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 25.38% (male 21,587,699/female 20,846,378)<br>
@@ -329,7 +329,7 @@ _history_: previous 1935, 1956, 1962 (preindependence); latest enacted 4 Novembe
 _amendments_: proposed by the House of the Nation; approval requires at least two-thirds majority vote of the House membership and assent of the president of the republic; amended many times, last in 2018<br>
 
 **Legal system**<br>
-mixed legal system of mostly English common law and Islamic law<br>
+common law; since independence, statutory law enacted by the Parliament of Bangladesh has been the primary form of legislation; Bangladeshi law incorporates elements of English common law; Islamic law applies to Bangladeshi Muslims in family and inheritance laws, with Hindu personal law applying to Bangladeshi Hindus and Buddhists&nbsp;&nbsp;<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -348,12 +348,12 @@ _chief of state_: President Mohammad Shahabuddin CHUPPI (since 24 April 2023)<br
 _head of government_: Prime Minister Sheikh HASINA Wazed (since 6 January 2009)<br>
 _cabinet_: Cabinet selected by the prime minister, appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); election last held on 13 February 2023 (next to be held by 2028); the president appoints as prime minister the majority party leader in the National Parliament<br>
-_election results_: President Mohammad Shahabuddin CHUPPI (AL) elected unopposed by the National Parliament; Sheikh HASINA reappointed prime minister for a fourth term following the 7 January 2024 parliamentary election<br>
+_election results_: President Mohammad Shahabuddin CHUPPI (AL) elected unopposed by the National Parliament; Sheikh HASINA reappointed prime minister for a fifth term following the 7 January 2024 parliamentary election<br>
 
 **Legislative branch**<br>
 _description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the House of the Nation membership by proportional representation vote using single transferable vote method; all members serve 5-year terms)<br>
 _elections_: last held on 7 January 2024 (next to be held in 2029)<br>
-_election results_: percent of vote by party - NA; seats by party (directly elected) - AL 223, JP 11, other 3, independent 62, vacant 1; composition as of January 2024 - men 279, women 20, percent of women 6.7%<br>
+_election results_: percent of vote by party - NA; seats by party as of December 2023 - AL 306, JP 27, BNP 0, other 14, independent 3; approximate composition - men 277, women 73, percent of women 20.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices)<br>
@@ -361,7 +361,7 @@ _judge selection and term of office_: chief justice and justices appointed by th
 _subordinate courts_: civil courts include: Assistant Judge's Court; Joint District Judge's Court; Additional District Judge's Court; District Judge's Court; criminal courts include: Court of Sessions; Court of Metropolitan Sessions; Metropolitan Magistrate Courts; Magistrate Court; special courts/tribunals<br>
 
 **Political parties and leaders**<br>
-Awami League or AL [Sheikh HASINA]<br>Bangladesh Jamaat-i-Islami or JIB [Shafiqur RAHMAN]<br>Bangladesh Kalyan Party or BKP [Syed Muhammad [IBRAHIM] <br>Bangladesh Nationalist Front or BNF [S. M. Abul Kalam AZAD]<br>Bangladesh Nationalist Party or BNP [Tarique RAHMAN, acting chairperson; Begum Khaleda ZIA]<br>Bangladesh Tariqat Federation or BTF [Syed Nozibul Bashar MAIZBHANDARI]<br>Jatiya Party or JP (Ershad faction) [Rowshan ERSHAD]<br>Jatiya Party or JP (Manju faction) [Anwar Hossain MANJU]<br>Liberal Democratic Party or LDP [Oli AHMED]<br>National Socialist Party (Jatiya Samajtantrik Dal) or JSD [Hasanul Haque INU]<br>Workers Party or WP [Rashed Khan MENON]<br>
+<p>Awami League or AL [Sheikh HASINA]<br>Bangladesh Jamaat-i-Islami or JIB [Shafiqur RAHMAN]]<br>Bangladesh Nationalist Party or BNP [Tarique RAHMAN, acting chairperson; Khaleda ZIA]<br>Islami Andolan Bangladesh [Syed Rezaul KARIM]<br>Jatiya Party or JP (Ershad faction) [Ghulam Muhammed QUADER]<br>Jatiya Party or JP (Manju faction) [Anwar Hossain MANJU]<br>National Socialist Party (Jatiya Samajtantrik Dal) or JSD [Hasanul Haque INU]<br>Workers Party or WP [Rashed Khan MENON]</p> <p> </p><br>
 
 **International organization participation**<br>
 ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OIC, OPCW, PCA, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNIFIL, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

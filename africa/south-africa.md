@@ -366,7 +366,7 @@ African Christian Democratic Party or ACDP [Kenneth MESHOE]<br>African Independe
 ACP, AfDB, AIIB, AU, BIS, BRICS, C, CD, FAO, FATF, G-20, G-24, G-5, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, NSG, OECD (enhanced engagement), OPCW, Paris Club (associate), PCA, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNITAR, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ndumiso NTSHINGAIsmail ESAU (since 29 October 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ndumiso Ndima&nbsp;NTSHINGA (since 30 October 2023)<br>
 _chancery_: 3051 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 413-1953<br>
 _FAX_: [1] (202) 265-1607<br>

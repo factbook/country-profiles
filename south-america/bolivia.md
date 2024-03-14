@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Bolivia, named after independence fighter Simon BOLIVAR, broke away from Spanish rule in 1825. Much of its subsequent history has consisted of a series of coups and countercoups, with the last coup occurring in 1978. Democratic civilian rule was established in 1982, but leaders have faced problems of deep-seated poverty, social unrest, and illegal drug production.</p> <p>In December 2005, Bolivians elected Movement Toward Socialism leader Evo MORALES president - by the widest margin of any leader since the restoration of civilian rule in 1982 - after he ran on a promise to change the country's traditional political class and empower the nation's poor and indigenous majority. In December 2009 and October 2014, President MORALES easily won reelection. His party maintained control of the legislative branch of the government, which has allowed him to continue his "process of change." In February 2016, MORALES narrowly lost a referendum to approve a constitutional amendment that would have allowed him to compete in the 2019 presidential election. However, a 2017 Supreme Court ruling stating that term limits violate human rights provided the justification for MORALES to be chosen by his party to run again in 2019. MORALES attempted to claim victory in the October 2019 election, but widespread allegations of electoral fraud, rising violence, and pressure from the military ultimately forced him to flee the country. An interim government, led by President Jeanine ANEZ Chavez, prepared new elections that took place in October 2020; President Luis Alberto ARCE Catacora took office the following month.</p><br>
+<p>Bolivia, named after independence fighter Simón BOLÍVAR, broke away from Spanish rule in 1825. Much of its subsequent history has consisted of a series of coups and countercoups, with the last coup occurring in 1980. Democratic civilian rule was established in 1982, but leaders have faced problems of deep-seated poverty, social unrest, and illegal drug production.</p> <p>In December 2005, Bolivians elected Movement Toward Socialism leader Evo MORALES president - by the widest margin of any leader since the restoration of civilian rule in 1982 - after he ran on a promise to change the country's traditional political class and empower the nation's poor and indigenous majority. In December 2009 and October 2014, President MORALES easily won reelection. His party maintained control of the legislative branch of the government, which has allowed him to continue his "process of change." In February 2016, MORALES narrowly lost a referendum to approve a constitutional amendment that would have allowed him to compete in the 2019 presidential election. However, a 2017 Supreme Court ruling stating that term limits violate human rights provided the justification for MORALES to be chosen by his party to run again in 2019. MORALES attempted to claim victory in the October 2019 election, but widespread allegations of electoral fraud, rising violence, and pressure from the military ultimately forced him to flee the country. An interim government, led by President Jeanine AÑEZ Chávez, prepared new elections that took place in October 2020; President Luis Alberto ARCE Catacora took office the following month.</p><br>
 
 ## Geography
 
@@ -90,11 +90,11 @@ _noun_: Bolivian(s)<br>
 _adjective_: Bolivian<br>
 
 **Ethnic groups**<br>
-Mestizo (mixed White and Amerindian ancestry) 68%, Indigenous 20%, White 5%, Cholo/Chola 2%, African descent 1%, other 1%, unspecified 3%; 44% of respondents indicated feeling part of some indigenous group, predominantly Quechua or Aymara (2009 est.)<br>
+Mestizo (mixed White and Amerindian ancestry) 68%, Indigenous 20%, White 5%, Cholo/Chola 2%, African descent 1%, other 1%, unspecified 3%; 44% of respondents indicated feeling part of some Indigenous group, predominantly Quechua or Aymara (2009 est.)<br>
 <strong>note:</strong> results among surveys vary based on the wording of the ethnicity question and the available response choices; the 2001 national census did not provide "Mestizo" as a response choice, resulting in a much higher proportion of respondents identifying themselves as belonging to one of the available indigenous ethnicity choices; the use of "Mestizo" and "Cholo" varies among response choices in surveys, with surveys using the terms interchangeably, providing one or the other as a response choice, or providing the two as separate response choices<br>
 
 **Languages**<br>
-Spanish (official) 68.1%, Quechua (official) 17.2%, Aymara (official) 10.5%, Guarani (official) 0.6%, other 1.5%, unspecified 2.1%; note - Bolivia's 2009 constitution designates Spanish and all indigenous languages as official; 36 indigenous languages are specified, including a few that are extinct (2012 est.)<br>
+Spanish (official) 68.1%, Quechua (official) 17.2%, Aymara (official) 10.5%, Guarani (official) 0.6%, other 1.5%, unspecified 2.1%; note - Bolivia's 2009 constitution designates Spanish and all Indigenous languages as official; 36 Indigenous languages are specified, including a few that are extinct (2012 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -304,7 +304,7 @@ _conventional long form_: Plurinational State of Bolivia<br>
 _conventional short form_: Bolivia<br>
 _local long form_: Estado Plurinacional de Bolivia<br>
 _local short form_: Bolivia<br>
-_etymology_: the country is named after Simon BOLIVAR, a 19th-century leader in the South American wars for independence<br>
+_etymology_: the country is named after Sim&oacute;n BOL&Iacute;VAR, a 19th-century leader in the South American wars for independence<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -313,7 +313,7 @@ presidential republic<br>
 _name_: La Paz (administrative capital); Sucre (constitutional [legislative and judicial] capital)<br>
 _geographic coordinates_: 16 30 S, 68 09 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: La Paz is a shortening of the original name of the city, Nuestra Senora de La Paz (Our Lady of Peace); Sucre is named after Antonio Jose de SUCRE (1795-1830), military hero in the independence struggle from Spain and the second president of Bolivia<br>
+_etymology_: La Paz is a shortening of the original name of the city, Nuestra Señora de La Paz (Our Lady of Peace); Sucre is named after Antonio José de SUCRE (1795-1830), military hero in the independence struggle from Spain and the second president of Bolivia<br>
 <strong>note:</strong> at approximately 3,630 m above sea level, La Paz's elevation makes it the highest capital city in the world<br>
 
 **Administrative divisions**<br>
@@ -362,14 +362,14 @@ _judge selection and term of office_: Supreme Court, Plurinational Constitutiona
 _subordinate courts_: National Electoral Court; District Courts (in each of the 9 administrative departments); agro-environmental lower courts<br>
 
 **Political parties and leaders**<br>
-Community Citizen Alliance or ACC [Carlos Diego MESA Gisbert]<br>Movement Toward Socialism or MAS [Juan Evo MORALES Ayma]<br>National Unity or UN [Samuel DORIA MEDINA Auza]<br>Revolutionary Left Front or FRI [Edgar GUZMAN Jauregui]<br>Social Democrat Movement or MDS [Ruben COSTAS Aguilera]<br>We Believe or Creemos [Luis Fernando CAMACHO Vaca]<br>
+Community Citizen Alliance or ACC [Carlos Diego MESA Gisbert]<br>Front for Victory or FPV [Jaime SOLIZ]<br>Movement Toward Socialism or MAS [Juan Evo MORALES Ayma]<br>National Unity or UN [Samuel DORIA MEDINA Auza]<br>Revolutionary Left Front or FRI [Edgar GÚZMAN Jáuregui]<br>Revolutionary Nationalist Movement or MNR [Luis Eduardo SILES]<br>Social Democrat Movement or MDS [Ruben COSTAS Aguilera]<br>Third System Movement or MTS [Félix PATZI]<br>We Believe or Creemos [Luis Fernando CAMACHO Vaca]<br>
 <strong>note:</strong> We Believe or Creemos [Luis Fernando CAMACHO Vaca] is a coalition comprised of several opposition parties that participated in the 2020 election, which includes the Christian Democratic Party (PDC) and Solidarity Civic Unity (UCS)<br>
 
 **International organization participation**<br>
 CAN, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, PCA, UN, UN Security Council (temporary), UNAMID, UNASUR, UNCTAD, UNESCO, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Maysa Rossana URENA MENACHO (since 1 September 2022)&nbsp;<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Henry BALDELOMAR CH&Aacute;VEZ (since 11 October 2023)<br>
 _chancery_: 3014 Massachusetts Ave., NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 483-4410<br>
 _FAX_: [1] (202) 328-3712<br>

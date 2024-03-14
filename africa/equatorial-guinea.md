@@ -327,7 +327,7 @@ Center Right Union or UCD [Avelino MOCACHE Mehenga]<br>Convergence Party for Soc
 ACP, AfDB, AU, BDEAC, CEMAC, CPLP, FAO, Francophonie, FZ, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, ITSO, ITU, MIGA, NAM, OAS (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WHO, WIPO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Dr. Crisantos OBAMA ONDO (since 19 October 2023<br>
+_chief of mission_: Ambassador Dr. Crisantos Obama ONDO (since 27 February 2024)<br>
 _chancery_: 2020 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 518-5700<br>
 _FAX_: [1] (202) 518-5252<br>

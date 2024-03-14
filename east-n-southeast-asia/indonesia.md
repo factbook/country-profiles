@@ -377,7 +377,7 @@ Democrat Party or PD [Agus Harimurti YUDHOYONO]<br>Functional Groups Party or GO
 ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, D-8, EAS, EITI (compliant country), FAO, G-11, G-15, G-20, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IORA, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, MSG (associate member), NAM, OECD (enhanced engagement), OIC, OPCW, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Rosan Perkasa ROESLANI (since 13 January 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Ida Bagus Made BIMANTARA (since 30 November 2023)<br>
 _chancery_: 2020 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 775-5200<br>
 _FAX_: [1] (202) 775-5236<br>

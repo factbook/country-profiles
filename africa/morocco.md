@@ -393,7 +393,7 @@ Action Party or PA [Mohammed EL IDRISSI]<br>Amal (hope) Party [Mohamed BANI]<br>
 ABEDA, AfDB, AFESD, AIIB, AMF, AMU, AU, CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNOOSA, UNSC (temporary), UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Lalla JOUMALA Alaoui (since 24 April 2017)<br>
+_chief of mission_: Ambassador Youssef AMRANI (since 27 February 2024)<br>
 _chancery_: 3508 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 462-7979<br>
 _FAX_: [1] (202) 265-0161<br>

@@ -368,11 +368,11 @@ ADB (nonregional member), Australia Group, BIS, BSEC, CBSS (observer), CD, CE, C
 <strong>note</strong>: Turkey is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Hasan Murat MERCAN (since 20 April 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Halime Digdem BUNER (since 13 January 2024)<br>
 _chancery_: 2525 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 612-6700<br>
 _FAX_: [1] (202) 612-6744<br>
-_email address and website_: <br>embassy.washingtondc@mfa.gov.tr<br><br>http://washington.emb.mfa.gov.tr/Mission<br>
+_email address and website_: <br>embassy.washingtondc@mfa.gov.tr<br><br>T.C. Dışişleri Bakanlığı - Turkish Embassy In Washington, D.C. (mfa.gov.tr)<br>
 _consulate(s) general_: Boston, Chicago, Houston, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -403,7 +403,7 @@ _selected World Heritage Site locales_: Archaeological Site of Troy (c); Ephesus
 ## Economy
 
 **Economic overview**<br>
-<p>upper middle-income, diversified Middle Eastern economy; economic instability from 2016 attempted coup and 2018 currency recession; increasing poverty and unemployment; endemic corruption; large agriculture labor force</p><br>
+upper middle-income, diversified Middle Eastern economy; heightened inflation and currency depreciation triggered by expansionary monetary and fiscal policy ahead of 2023 elections, now being reversed; industrializing economy that maintains large agricultural base<br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.817 trillion (2022 est.)<br>
@@ -450,7 +450,7 @@ _exports of goods and services_: 24.9% (2017 est.)<br>
 _imports of goods and services_: -29.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, wheat, sugar beet, tomatoes, barley, maize, potatoes, grapes, watermelons, apples<br>
+eggs, milk, wheat, sugar beets, tomatoes, barley, maize, potatoes, apples, grapes<br>
 
 **Industries**<br>
 textiles, food processing, automobiles, electronics, mining (coal, chromate, copper, boron), steel, petroleum, construction, lumber, paper<br>
@@ -515,28 +515,28 @@ calendar year<br>
 $5.303 billion (2019 est.)<br>
 
 **Exports**<br>
-$350.004 billion (2022 est.)<br>
+$343.688 billion (2022 est.) note: data are in current year dollars<br>
 $282.851 billion (2021 est.)<br>
 $203.816 billion (2020 est.)<br>
 <strong>note: </strong>data are in current year dollars<br>
 
 **Exports - partners**<br>
-Germany 8%, United States 6%, United Kingdom 6%, Italy 5%, Iraq 5% (2021)<br>
+Germany 8%, United States 7%, United Kingdom 5%, Iraq 5%, Italy 5% (2022)<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, refined petroleum, delivery trucks, jewelry, clothing and apparel (2019)<br>
+refined petroleum, cars, jewelry, motor vehicle parts/accessories, delivery trucks (2022)<br>
 
 **Imports**<br>
-$386.305 billion (2022 est.)<br>
+$383.5 billion (2022 est.) note: data are in current year dollars<br>
 $285.578 billion (2021 est.)<br>
 $230.141 billion (2020 est.)<br>
 <strong>note: </strong>data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 13%, Germany 10%, Russia 8%, United States 5%, Italy 5% (2021)<br>
+China 13%, Germany 9%, Russia 8%, United States 5%, Italy 5% (2022)<br>
 
 **Imports - commodities**<br>
-gold, refined petroleum, crude petroleum, vehicle parts, scrap iron (2019)<br>
+gold, refined petroleum, scrap iron, cars, natural gas (2022)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $109.535 billion (31 December 2021 est.)<br>
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU);
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Turkey-Armenia</em>: in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered;  in early 2022, the two countries held talks twice aimed at normalizing relations, which could lead to the opening of their land border, shut since 1993; in 2000, Turkish authorities complained to UNESCO that blasting from quarries in Armenia was damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p> <p><em>Turkey-Azerbaijan</em>: none identified</p> <p><em>Turkey-Bulgaria</em>: none identified</p> <p><em>Turkey-Cyprus</em>: status of northern Cyprus question remains</p> <p><em>Turkey-Georgia</em>: none identified</p> <p><em>Turkey-Greece</em>: complex maritime, air, and territorial disputes with Greece in the Aegean Sea, including rights to explore oil and gas reserves in the eastern Mediterranean and illegal migrants transiting from Turkey into Greece; the Aegean Maritime Boundary is complicated by the close proximity of Greek islands to the western shores of the Turkish Anatolian peninsula, representing the primary source of conflict between the two countries</p> <p><em>Turkey-Iran</em>: none identified</p> <p><em>Turkey-Iraq</em>: Turkey has expressed concern over the status of Kurds in Iraq</p> <p><em>Turkey-Syria</em>: Turkey completed building a wall along its border with Syria in 2018 to prevent illegal border crossings and smuggling</p><br>
+<p><em>Turkey-Armenia</em>: in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered;  in early 2022, the two countries held talks twice aimed at normalizing relations, which could lead to the opening of their land border, shut since 1993; in 2000, Turkish authorities complained to UNESCO that blasting from quarries in Armenia was damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p> <p><em>Turkey-Azerbaijan</em>: none identified; as of 2023, Turkey and Armenia were discussing normalizing relations</p> <p><em>Turkey-Bulgaria</em>: none identified</p> <p><em>Turkey-Cyprus</em>: status of northern Cyprus question remains</p> <p><em>Turkey-Georgia</em>: none identified</p> <p><em>Turkey-Greece</em>: complex maritime, air, and territorial disputes with Greece in the Aegean Sea, including rights to explore oil and gas reserves in the eastern Mediterranean and illegal migrants transiting from Turkey into Greece; the Aegean Maritime Boundary is complicated by the close proximity of Greek islands to the western shores of the Turkish Anatolian peninsula, representing the primary source of conflict between the two countries</p> <p><em>Turkey-Iran</em>: none identified</p> <p><em>Turkey-Iraq</em>: Turkey has expressed concern over the status of Kurds in Iraq</p> <p><em>Turkey-Syria</em>: Turkey completed building a wall along its border with Syria in 2018 to prevent illegal border crossings and smuggling</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 41,665 (Ukraine) (as of 15 February 2024) (2023); 3,159,174 (Syria) (2024)<br>

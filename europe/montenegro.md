@@ -360,7 +360,7 @@ CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IF
 <strong><strong>note: </strong></strong>Montenegro is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Nebojsa TODOROVIC (since 7 December 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Linda CAMAJ (since 7 December 2023)<br>
 _chancery_: 1610 New Hampshire Avenue NW, Washington, DC, 20009<br>
 _telephone_: [1] (202) 234-6108<br>
 _FAX_: [1] (202) 234-6109<br>

@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Ahmad Shah DURRANI unified the Pashtun tribes and founded Afghanistan in 1747. The country served as a buffer between the British and Russian Empires until it won independence from notional British control in 1919. A brief experiment in increased democracy ended in a 1973 coup and a 1978 communist countercoup. The Soviet Union invaded in 1979 to support the tottering Afghan communist regime, touching off a long and destructive war. The USSR withdrew in 1989 under relentless pressure by internationally supported anti-communist mujahidin rebels. A series of subsequent civil wars saw Kabul finally fall in 1996 to the Taliban, a hardline Pakistani-sponsored movement that emerged in 1994 to end the country's civil war and anarchy. Following the 11 September 2001 terrorist attacks, a US, Allied, and anti-Taliban Northern Alliance military action toppled the Taliban for sheltering Usama BIN LADIN.</p> <p>A UN-sponsored Bonn Conference in 2001 established a process for political reconstruction that included the adoption of a new constitution, a presidential election in 2004, and National Assembly elections in 2005. In December 2004, Hamid KARZAI became the first democratically elected president of Afghanistan and was reelected in August 2009. The Taliban conducted an insurgency for two decades against the Afghan Government and international forces from the United States and other countries. In February 2020, the US and the Taliban signed an agreement that led to the withdrawal from Afghanistan of international forces in exchange for commitments on counterterrorism and other assurances. The Taliban seized control of Afghanistan on 15 August 2021. </p><br>
+<p>Ahmad Shah DURRANI unified the Pashtun tribes and founded Afghanistan in 1747. The country served as a buffer between the British and Russian Empires until it won independence from notional British control in 1919. A brief experiment in increased democracy ended in a 1973 coup and a 1978 communist countercoup. The Soviet Union invaded in 1979 to support the tottering Afghan communist regime, touching off a long and destructive war. The USSR withdrew in 1989 under relentless pressure by internationally supported anti-communist mujahidin rebels. A series of subsequent civil wars saw Kabul finally fall in 1996 to the Taliban, a hardline Pakistani-sponsored movement that emerged in 1994 to end the country's civil war and anarchy. Following the 11 September 2001 terrorist attacks, a US, Allied, and anti-Taliban Northern Alliance military action toppled the Taliban for sheltering Usama BIN LADIN.</p> <p>A UN-sponsored Bonn Conference in 2001 established a process for political reconstruction that included the adoption of a new constitution, a presidential election in 2004, and National Assembly elections in 2005. In December 2004, Hamid KARZAI became the first democratically elected president of Afghanistan and was reelected in August 2009. He was succeeded as president by Ashraf Ghani AHMADZAI in 2014 following a disputed election. The Taliban conducted an insurgency for two decades against the Afghan Government and international forces from the United States and other countries. In February 2020, the US and the Taliban signed an agreement that led to the withdrawal from Afghanistan of international forces in exchange for commitments on counterterrorism and other assurances. The Taliban took over Afghanistan on 15 August 2021.<br><br>The Taliban established an all-male interim leadership structure dominated by Pashtun clerics under the leadership of so-called Amir, Haivatrullah AKHUNDZADA. The Taliban issued numerous edicts that constrained women's mobility, ability to study and work, and severely restricted women and girls' access to education beyond primary school. To date, no country has recognized the Taliban as the government of Afghanistan.</p> <p> </p> <p> </p> <p> </p> <p> </p><br>
 
 ## Geography
 
@@ -89,12 +89,12 @@ _noun_: Afghan(s)<br>
 _adjective_: Afghan<br>
 
 **Ethnic groups**<br>
-current, reliable statistical data on ethnicity in Afghanistan are not available; Afghanistan's 2004 Constitution cited Pashtun, Tajik, Hazara, Uzbek, Turkman, Baluch, Pachaie, Nuristani, Aymaq, Arab, Qirghiz, Qizilbash, Gujur, and Brahwui ethnicities; Afghanistan has dozens of other small ethnic groups<br>
+current, reliable statistical data on ethnicity in Afghanistan are not available; Afghanistan's 2004 Constitution cited Pashtun, Tajik, Hazara, Uzbek, Turkman, Baluch, Pashaie, Nuristani, Aymaq, Arab, Qirghiz, Qizilbash, Gujur, and Brahwui ethnicities; Afghanistan has dozens of other small ethnic groups<br>
 
 **Languages**<br>
-Afghan Persian or Dari (official, lingua franca) 77%, Pashto (official) 48%, Uzbeki 11%, English 6%, Turkmani 3%, Urdu 3%, Pachaie 1%, Nuristani 1%, Arabic 1%, Balochi 1%, other &lt;1% (2020 est.)<br>
+Afghan Persian or Dari (official, lingua franca) 77%, Pashto (official) 48%, Uzbeki 11%, English 6%, Turkmani 3%, Urdu 3%, Pashaie 1%, Nuristani 1%, Arabic 1%, Balochi 1%, other &lt;1% (2020 est.)<br>
 _major-language sample(s)_: <br> <p>کتاب حقایق جهان، مرجعی ضروری برای اطلاعات اولیە (Dari)</p> د دنیا د حقائېقو کتاب، بنیادی معلوماتو لپاره ضروری سرچینه- (Pashto)<br><br>The World Factbook, the indispensable source for basic information.<br>
-<strong>note 1:</strong> percentages sum to more than 100% because many people are multilingual <br><br><strong>note 2: </strong>Uzbeki, Turkmani, Pachaie, Nuristani, Balochi, and Pamiri are the third official languages in areas where the majority speaks them<br>
+<strong>note 1:</strong> percentages sum to more than 100% because many people are multilingual <br><br><strong>note 2: </strong>Uzbeki, Turkmani, Pashaie, Nuristani, Balochi, and Pamiri are the third official languages in areas where the majority speaks them<br>
 
 **Religions**<br>
 Muslim 99.7% (Sunni 84.7 - 89.7%, Shia 10 - 15%), other &lt;0.3% (2009 est.)<br>
@@ -302,11 +302,10 @@ _agricultural_: 20 billion cubic meters (2020 est.)<br>
 ## Government
 
 **Country name**<br>
-_conventional long form_: formerly Islamic Republic of Afghanistan<br>
+_conventional long form_: Islamic Republic of Afghanistan (prior to 15 August 2021); current country name disputed<br>
 _conventional short form_: Afghanistan<br>
-_local long form_: formerly Jamhuri-ye Islami-ye Afghanistan<br>
+_local long form_: Jamhuri-ye Islami-ye Afghanistan (prior to 15 August 2021; current country name is disputed)<br>
 _local short form_: Afghanistan<br>
-_former_: Islamic Republic of Afghanistan<br>
 _etymology_: the name "Afghan" originally referred to the Pashtun people (today it is understood to include all the country's ethnic groups), while the suffix "-stan" means "place of" or "country"; so Afghanistan literally means the "Land of the Afghans"<br>
 
 **Government type**<br>
@@ -329,10 +328,10 @@ _etymology_: named for the Kabul River, but the river's name is of unknown origi
 previous: Independence Day, 19 August (1919); under the Taliban Government, 15 August (2022) is declared a national holiday, marking the anniversary of the victory of the Afghan jihad<br><br><br>
 
 **Constitution**<br>
-_history_: several previous; latest ratified in 2004, suspended by the Taliban after taking over the country in 2021<br>
+_history_: several previous; latest ratified in 2004, but not currently enforced by the Taliban<br>
 
 **Legal system**<br>
-<p>the Taliban is implementing its own interpretation of Islamic law, which partially based on the Hanifi school of Islamic jurisprudence; before the Taliban takeover, Afghanistan had a mixed legal system of civil, customary, and Islamic law</p> (2021)<br>
+<p>the Taliban is implementing its own interpretation of Islamic law, which is partially based on the Hanifi school of Islamic jurisprudence and have enforced strict punishments; before the Taliban takeover, Afghanistan had a mixed legal system of civil, customary, and Islamic law</p> (2021)<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; formerly accepted ICCt jurisdiction<br>
@@ -347,31 +346,30 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Overall Taliban Leader HAYBATULLAH Akhundzada serves as the head of the Taliban government as Amir-ul Momineen; note - on 7 September 2021, the Taliban announced Mohammad HASSAN Akhund as the &ldquo;acting prime minister&rdquo; of the "caretaker government&rdquo;; as of November 2021, the group had announced three "acting deputy prime ministers&rdquo; - Abdul Ghani BERADER, Abdul Salam HANAFI, and Abdul KABIR<br>
-_head of government_: Overall Taliban Leader HAYBATULLAH Akhundzada serves as the head of the Taliban Government as Amir-ul Momineen<br>
-_cabinet_: includes the acting prime minister, acting deputy prime ministers, and 26 ministries<br>
-_elections/appointments_: the 2004 Afghan constitution directed that the president should be elected by majority popular vote for a 5-year term (eligible for a second term); election last held on 28 September 2019<br>
+_chief of state_: overall Taliban Leader HAYBATULLAH Akhundzada serves as the head of the Taliban as Amir-ul Momineen and as such is seen by the Taliban as head of state; he resides and issues decrees from the city of Kandahar while the legacy government ministries operate from Kabul<br>
+_head of government_: overall Taliban Leader HAYBATULLAH Akhundzada is the [so-called] Amir-ul Momineen of the Taliban and is seen by them as a head of government <p> </p><br>
+_cabinet_: <p>the Taliban have announced a “cabinet” for the “caretaker government,” including the “acting prime minister,” “acting deputy prime ministers,” and “ministers” who claim to represent 26 ministries</p><br>
+_elections/appointments_: the 2004 Afghan constitution directed that the president should be elected by majority popular vote for a 5-year term (eligible for a second term); election last held on 28 September 2019, and the Taliban have given no indication that they intend to reinstate elections or any other mechanism of democratic governance<br>
+note 1: the United States has not yet made a decision whether to recognize the Taliban or any other entity as the government of Afghanistan<br>note 2: note - on 7 September 2021, the Taliban announced Mohammad HASSAN Akhund as the “acting prime minister” of the "caretaker government”; as of November 2021, the group had announced three "acting deputy prime ministers” - Abdul Ghani BARADER, Abdul Salam HANAFI, and Mohammad Abdul KABIR<br>
 
 **Legislative branch**<br>
-_description_: the Taliban Government has not announced the formation of a legislative branch; before the 2021 Taliban takeover, Afghanistan had a bicameral National Assembly that consisted of the House of Elders and House of the People<br>
+_description_: before August 2021, Afghanistan had a bicameral National Assembly that consisted of the House of Elders and House of the People; the parliament has been in hiatus since August 2021 and the Taliban have shown no interest in reviving it&nbsp; &nbsp;&nbsp;<br>
 
 **Judicial branch**<br>
-_highest court(s)_: the Taliban Government has a Supreme Court: number of judges and organizational structure NA; note - before 15 August 2021, Afghanistan had a Supreme Court (consisting of a supreme court chief and 8 justices organized into criminal, public security, civil, and commercial divisions)<br>
-_judge selection and term of office_: the Taliban Supreme Court judge selection and term of office NA; note - before 15 August 2021, the Supreme Court chief and justices were appointed by the president with the approval of the Wolesi Jirga; court chief and justices served single 10-year terms<br>
-_subordinate courts_: the Taliban Government has many provincial-level courts, religious courts, and specialty courts<br>note - before 15 August 2021, consisted of Appeals Courts; Primary Courts; and Special Courts for issues including narcotics, security, property, family, and juveniles<br>
+_highest court(s)_: the Taliban are purported to have appointed clerics, including a "Chief Justice", to Afghanistan's Supreme Court<br>
+_subordinate courts_: provincial courts, religious courts, and specialty courts<br>
 
 **Political parties and leaders**<br>
-the Taliban Government enforces an authoritarian state and has banned other political parties; note - before 15 August 2021, the Ministry of Justice had licensed 72 political parties as of April 2019<br>
+the Taliban Government enforces an authoritarian state and has banned other political parties; note - before 15 August 2021, the Ministry of Justice had licensed 72 political parties as of April 2019<br><br>the Taliban have banned other political parties but have allowed some party leaders, including the head of Hezb-e-Islami, Gulbuddin Hekmatyar, to continue to live and work in Afghanistan; Hekmatyar likely continues to enjoy some political support from loyalists; leaders of other parties, including Jamiat-e-Islami’s Salahuddin Rabbani and Jumbesh’s Rashid Dostum, operate from abroad but likely also command some following within Afghanistan; note - before 15 August 2021, the Ministry of Justice had licensed 72 political parties as of April 2019<br>
 
 **International organization participation**<br>
-member of the following organizations but cannot participate because the international community does not recognize the Taliban Government:&nbsp; ADB, CICA, CP, ECO, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, OSCE (partner), SAARC, SACEP, SCO (dialogue member), UN, UNAMA, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+Afghanistan is a member of the following organizations but Taliban representatives do not participate: ADB, CICA, CP, ECO, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, OSCE (partner), SAARC, SACEP, SCO (dialogue member), UN, UNAMA, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: none; note - the Afghan Embassy closed in March 2022<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: the United States does not maintain a presence in Afghanistan and bases the Department of State's Afghanistan Affairs Unit in Doha, Qatar; note - the US Embassy in Kabul closed in August 2021<br>
-_embassy_: Embassy Kabul, operations have been suspended; Department of State&rsquo;s Afghanistan Affairs Unit operates from Doha, Qatar.<br>
+_embassy_: the United States does not maintain a presence in Afghanistan and its diplomatic mission to Afghanistan has relocated to Doha, Qatar<br>
 
 **Flag description**<br>
 three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other 2 bands; the center of the emblem features a mosque with pulpit and flags on either side, below the mosque are Eastern Arabic numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right, in the upper-center is an Arabic inscription of the Shahada (Muslim creed) below which are rays of the rising sun over the Takbir (Arabic expression meaning "God is great"), and at bottom center is a scroll bearing the name Afghanistan; black signifies the past, red is for the blood shed for independence, and green can represent either hope for the future, agricultural prosperity, or Islam<br>

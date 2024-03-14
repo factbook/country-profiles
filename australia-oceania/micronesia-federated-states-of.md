@@ -308,7 +308,7 @@ no formal parties<br>
 ACP, ADB, AOSIS, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, IMF, IOC, IOM, IPU, ITSO, ITU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, WHO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Jackson SORAM (since 31 March 2023)<br>
+_chief of mission_: Ambassador Jackson T. SORAM (since 27 February 2024)<br>
 _chancery_: 1725 N Street NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 223-4383<br>
 _FAX_: [1] (202) 223-4391<br>

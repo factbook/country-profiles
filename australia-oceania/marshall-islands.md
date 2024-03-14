@@ -321,7 +321,7 @@ traditionally there have been no formally organized political parties; what has 
 ACP, ADB, AOSIS, FAO, G-77, IAEA, IBRD, ICAO, ICCt, IDA, IFAD, IFC, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNHRC, WHO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Dixie LOMAE (since 1 September 2023)<br>
+_chief of mission_: Ambassador Charles Rudolph PAUL (since 27 February 2024)<br>
 _chancery_: 2433 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 234-5414<br>
 _FAX_: [1] (202) 232-3236<br>

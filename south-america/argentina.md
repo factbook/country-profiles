@@ -370,7 +370,7 @@ _subordinate courts_: federal level appellate, district, and territorial courts;
 AfDB (nonregional member), Australia Group, BCIE, BIS, CAN (associate), CD, CABEI, CELAC, FAO, FATF, G-15, G-20, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, NAM (observer), NSG, OAS, OPANAL, OPCW, Paris Club (associate), PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNDOF, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, Union Latina (observer), UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Charg&eacute; d&rsquo;Affaires Adri&aacute;n Roberto NADOR (since 7 February 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Adri&aacute;n Roberto NADOR (since 7 December 2023)<br>
 _chancery_: 1600 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 238-6400<br>
 _FAX_: [1] (202) 332-3171<br>

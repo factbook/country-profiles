@@ -88,7 +88,7 @@ Cayman Islander 35.4%, Jamaican 24.8%, Filipino 5.5%, British 5.3%, American 5.2
 English (official) 88.8%, Spanish 3.9%, Filipino 3.8%, other 2.8%, unspecified 0.7% (2021 est.)<br>
 
 **Religions**<br>
-Protestant 52.1% (includes Church of God 19.5%, Seventh Day Adventist 8.7%, Presbyterian/United Church 5.7%, Baptist 6.9%, Pentecostal 6.8%, non-denominational 8.3%, Anglican 2.8%, Wesleyan Holiness 1.5%, Methodist 0.5%), Roman Catholic 13.6%, Jehovah's Witness 0.9%, other 7%, unspecified 1.4%<br>
+Protestant 60.8% (includes Church of God 19.5%, Seventh Day Adventist 8.7%, non-denominational 8.3%, Baptist 6.9%, Pentecostal 6.8%, Presbyterian/United Church 5.7%, Anglican 2.8%, Wesleyan Holiness 1.5%, Methodist 0.5%), Roman Catholic 13.6%, Hindu 1.7%, Jehovah's Witness 0.9%, other 4.8%, none 16.7%, unspecified 1.4% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 17.48% (male 5,761/female 5,684)<br>

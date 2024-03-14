@@ -92,7 +92,7 @@ Arabic (official), English, Hindi, Malayalam, Urdu, Pashto, Tagalog, Persian<br>
 _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim (official) 76%, Christian 9%, other (primarily Hindu and Buddhist, less than 5% of the population consists of Parsi, Baha'i, Druze, Sikh, Ahmadi, Ismaili, Dawoodi Bohra Muslim, and Jewish) 15% (2005 est.)<br>
+Muslim 74.5% (official) (Sunni 63.3%, Shia 6.7%, other 4.4%), Christian 12.9%, Hindu 6.2%, Buddhist 3.2%, agnostic 1.3%, other 1.9% (2020 est.)<br>
 <strong>note</strong><strong>:</strong> data represent the total population; as of 2020, immigrants make up about 88.1% of the total population, according to UN data<br>
 
 **Age structure**<br>
@@ -372,12 +372,12 @@ _selected World Heritage Site locales_: Cultural Sites of Al Ain (Hafit, Hili, B
 ## Economy
 
 **Economic overview**<br>
-historically oil-driven Middle Eastern economy; diversifying into a trade-oriented logistics and supply chain leader; weak domestic business growth; declining real estate sector; new Israeli technology trade improving resilience; key aid donor<br>
+historically oil-driven Middle Eastern economy; diversifying into a trade-oriented logistics and supply chain leader; strong foreign direct investment orientation; building trade and investment ties through partnership agreements; growing banking sector; recent economic linkages with Israel slowing due to Gaza conflict<br>
 
 **Real GDP (purchasing power parity)**<br>
+$707.3 billion (2022 est.)<br>
 $653.067 billion (2021 est.)<br>
 $628.455 billion (2020 est.)<br>
-$661.233 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -386,9 +386,9 @@ $661.233 billion (2019 est.)<br>
 1.11% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$74,900 (2022 est.)<br>
 $69,700 (2021 est.) note: data are in 2017 dollars<br>
 $67,700 (2020 est.) note: data are in 2017 dollars<br>
-$71,800 (2019 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $421.077 billion (2019 est.)<br>
@@ -418,7 +418,7 @@ _exports of goods and services_: 100.4% (2017 est.)<br>
 _imports of goods and services_: -72.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-dates, cucumbers, tomatoes, goat meat, eggs, milk, poultry, carrots/turnips, goat milk, sheep milk<br>
+eggs, dates, cucumbers, camel milk, goat milk, tomatoes, goat meat, milk, poultry, camel meat<br>
 
 **Industries**<br>
 petroleum and petrochemicals; fishing, aluminum, cement, fertilizer, commercial ship repair, construction materials, handicrafts, textiles<br>
@@ -482,10 +482,10 @@ $308.5 billion (2017 est.)<br>
 $298.6 billion (2016 est.)<br>
 
 **Exports - partners**<br>
-India 14%, Japan 8%, China 8%, Saudi Arabia 8%, Iraq 5% (2021)<br>
+India 13%, Japan 10%, China 8%, Saudi Arabia 7%, Iraq 5% (2022)<br>
 
 **Exports - commodities**<br>
-crude petroleum, refined petroleum, gold, broadcasting equipment, diamonds, natural gas, jewelry, aluminum (2021)<br>
+crude and refined petroleum, gold, broadcasting equipment, natural gas, diamonds (2022)<br>
 
 **Imports**<br>
 $246.886 billion (2020 est.)<br>
@@ -493,10 +493,10 @@ $229.2 billion (2017 est.)<br>
 $226.5 billion (2016 est.)<br>
 
 **Imports - partners**<br>
-China 17%, India 9%, United States 6%, Saudi Arabia 5%, Germany 3% (2021)<br>
+China 18%, India 10%, United States 6%, United Kingdom 4%, Saudi Arabia 3% (2022)<br>
 
 **Imports - commodities**<br>
-gold, broadcasting equipment, refined petroleum, diamonds, cars, jewelry, computers (2021)<br>
+gold, broadcasting equipment, refined petroleum, diamonds, cars (2022)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $131.117 billion (31 December 2021 est.)<br>

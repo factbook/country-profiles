@@ -684,7 +684,7 @@ Austrian Armed Forces (Bundesheer): Land Forces, Air Forces, Cyber Forces, Speci
 
 **Military expenditures**<br>
 1% of GDP (2024 est.)<br>
-0.85% of GDP (2023 est.)<br>
+0.9% of GDP (2023 est.)<br>
 0.7% of GDP (2022)<br>
 0.8% of GDP (2021)<br>
 0.7% of GDP (2020)<br>

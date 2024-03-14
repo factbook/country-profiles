@@ -343,8 +343,8 @@ _residency requirement for naturalization_: 8 years<br>
 _chief of state_: President Tamas SULYOK (since 5 March 2024)<br>
 _head of government_: Prime Minister Viktor ORBAN (since 29 May 2010)<br>
 _cabinet_: Cabinet of Ministers proposed by the prime minister and appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 11 March 2022 (next to be held in spring 2027); prime minister elected by the National Assembly on the recommendation of the president; election last held on 3 April 2022 (next to be held in April or May 2027)<br>
-_election results_: <br><em>2024:</em> Tamas SULYOK elected president; vote - 134 to 5<br><br><em>2022: </em>Katalin NOVAK (Fidesz) elected president; National Assembly vote - 137 to 51<em><br><br>2017:</em> Janos ADER (Fidesz) reelected president; National Assembly vote - 131 to 39<br>
+_elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 26 February 2024 (next to be held in spring 2029); prime minister elected by the National Assembly on the recommendation of the president; election last held on 3 April 2022 (next to be held in April or May 2027)<br>
+_election results_: <br><em>2024:</em> Tamas SULYOK elected president; National Assembly vote - 134 to 5<br><br><em>2022: </em>Katalin NOVAK (Fidesz) elected president; National Assembly vote - 137 to 51<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party-list proportional representation vote, using the D&rsquo;Hondt method; members serve 4-year terms)<br>

@@ -354,11 +354,11 @@ _residency requirement for naturalization_: 4 out of the previous 7 years and in
 18 years of age; universal; note - there are joint electorates and reserved parliamentary seats for women and non-Muslims<br>
 
 **Executive branch**<br>
-_chief of state_: President Arif ALVI (since 9 September 2018)<br>
+_chief of state_: President Asif Ali ZARDARI (since 10 March 2024)<br>
 _head of government_: Prime Minister Shahbaz SHARIF (since 3 March 2024)<br>
-_cabinet_: Cabinet appointed by the president upon the advice of the prime minister; caretaker cabinet (since 17 August 2023)<br>
-_elections/appointments_: president indirectly elected by the Electoral College consisting of members of the Senate, National Assembly, and provincial assemblies for a 5-year term (limited to 2 consecutive terms); election last held on 4 September 2018 (next to be held by 9 March 2024)<br>
-_election results_: <em>2024:</em> Shahbaz SHARIF elected prime minister on 3 March 2024; National Assembly vote - Shahbaz SHARIF (PML-N) 201, Omar AYUB (PTI) 92<br><br><em>2018:</em> Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br><br><em>2013:</em> Mamnoon HUSSAIN elected president; National Assembly vote - Mamnoon HUSSAIN (PML-N) 432, Wajihuddin AHMED (PTI) 77<br>
+_cabinet_: Cabinet appointed by the president upon the advice of the prime minister<br>
+_elections/appointments_: president indirectly elected by the Electoral College consisting of members of the Senate, National Assembly, and provincial assemblies for a 5-year term (limited to 2 consecutive terms); election last held on 9 March 2024 (next to be held in 2029)<br>
+_election results_: <em>2024:</em> Asif Ali ZARDARI elected president; National Assembly vote - Asif Ali ZARDARI (PPP) 411 votes, Mehmood Khan ACHAKZALI (PMAP) -181 votes; Shahbaz SHARIF elected prime minister on 3 March 2024; National Assembly vote - Shahbaz SHARIF (PML-N) 201, Omar AYUB (PTI) 92<br><br><em>2018:</em> Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Majlis-e-Shoora consists of:<br>Senate (100 seats; members indirectly elected by the 4 provincial assemblies and the federal capital territory indirectly elected by the National Assembly using proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly (342 seats; 272 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)<br>

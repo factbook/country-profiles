@@ -356,12 +356,12 @@ _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Viviana Raquel
 _chancery_: 2220 R Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 745-4953<br>
 _FAX_: [1] (202) 745-1908<br>
-_email address and website_: <br>infoembaguateeuu@minex.gob.gt<br>
+_email address and website_: <br>infoembaguateeuu@minex.gob.gt<br><br>https://estadosunidos.minex.gob.gt/home/home.aspx<br>
 _consulate(s) general_: Atlanta, Chicago, Del Rio (TX), Denver, Houston, Los Angeles, McAllen (TX), Miami, New York, Oklahoma City, Philadelphia, Phoenix, Providence (RI), Raleigh (NC), San Bernardino (CA), San Francisco, Seattle<br>
 _consulate(s)_: Lake Worth (FL), Silver Spring (MD), Tucson (AZ)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Chargé d'Affaires Patrick VENTRELL (since August 2023)<br>
+_chief of mission_: Ambassador Tobin BRADLEY (since 12 February 2024)<br>
 _embassy_: Avenida Reforma 7-01, Zone 10, Guatemala City<br>
 _mailing address_: 3190 Guatemala Place, Washington DC&nbsp; 20521-3190<br>
 _telephone_: [502] 2326-4000<br>
@@ -387,12 +387,12 @@ _selected World Heritage Site locales_: Antigua Guatemala (c); Tikal National Pa
 ## Economy
 
 **Economic overview**<br>
-growing Central American economy; unique South Korean business relations; high poverty, inequality, and malnutrition; low government revenues impede educational, sanitation, and healthcare efforts; high migration, child labor, and remittances<br>
+developing Central American economy; steady economic growth fueled by remittances; high poverty and income inequality; limited government services, lack of employment opportunities, and frequent natural disasters impede human development efforts and drive emigration<br>
 
 **Real GDP (purchasing power parity)**<br>
+$159 billion (2022 est.)<br>
 $152.734 billion (2021 est.)<br>
 $141.445 billion (2020 est.)<br>
-$143.985 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -401,9 +401,9 @@ $143.985 billion (2019 est.)<br>
 4% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$9,200 (2022 est.)<br>
 $8,900 (2021 est.)<br>
 $8,400 (2020 est.)<br>
-$8,700 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -434,7 +434,7 @@ _exports of goods and services_: 18.8% (2017 est.)<br>
 _imports of goods and services_: -26.9% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, bananas, oil palm fruit, maize, melons, potatoes, milk, plantains, pineapples, rubber<br>
+sugar cane, eggs, bananas, oil palm fruit, maize, melons, potatoes, milk, tomatoes, poultry<br>
 
 **Industries**<br>
 sugar, textiles and clothing, furniture, chemicals, petroleum, metals, rubber, tourism<br>
@@ -498,26 +498,26 @@ $3.918 billion (2020 est.)<br>
 $1.821 billion (2019 est.)<br>
 
 **Exports**<br>
+$18.127 billion (2022 est.) note: data are in current year dollars<br>
 $15.318 billion (2021 est.) note: data are in current year dollars<br>
 $12.713 billion (2020 est.) note: data are in current year dollars<br>
-$13.598 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-United States 32%, El Salvador 12%, Honduras 10%, Nicaragua 6%, Mexico 4% (2021)<br>
+United States 32%, El Salvador 12%, Honduras 10%, Nicaragua 6%, Mexico 4% (2022)<br>
 
 **Exports - commodities**<br>
-clothing, bananas, coffee, palm oil, cardamoms, raw sugar, iron alloys (2021)<br>
+textiles (knit and non-knit garments), coffee, bananas, palm oil, raw sugar (2022)<br>
 
 **Imports**<br>
+$33.938 billion (2022 est.) note: data are in current year dollars<br>
 $27.388 billion (2021 est.) note: data are in current year dollars<br>
 $19.267 billion (2020 est.) note: data are in current year dollars<br>
-$21.527 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-United States 33%, China 17%, Mexico 9%, El Salvador 5%, Costa Rica 3% (2021)<br>
+United States 34%, China 15%, Mexico 9%, El Salvador 4%, Costa Rica 3% (2022)<br>
 
 **Imports - commodities**<br>
-refined petroleum, broadcasting equipment, cars, packaged medicines, delivery trucks, clothing and apparel, polymers (2021)<br>
+refined petroleum, video displays, cars, packaged medicines, delivery trucks (2022)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $20.935 billion (31 December 2021 est.)<br>

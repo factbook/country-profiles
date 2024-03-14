@@ -376,12 +376,12 @@ _selected World Heritage Site locales_: Al Zubarah Archaeological Site<br>
 ## Economy
 
 **Economic overview**<br>
-high-income, oil-and-gas-based Middle Eastern economy; better regional integration after 2021 terrorism resolution; sports-led infrastructure investments; Islamic finance leader; citizenship-based labor force growth<br>
+high-income, oil-and-gas-based Middle Eastern economy; National Vision 2030 government strategy for economic development, diversification, favorable business conditions to grow investment and employment; infrastructure investments; Islamic finance leader; citizenship-based labor force growth<br>
 
 **Real GDP (purchasing power parity)**<br>
+$260.2 billion (2022 est.)<br>
 $249.636 billion (2021 est.)<br>
 $245.727 billion (2020 est.)<br>
-$255.01 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -390,9 +390,9 @@ $255.01 billion (2019 est.)<br>
 0.77% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$96,600 (2022 est.)<br>
 $92,900 (2021 est.)<br>
 $89,000 (2020 est.)<br>
-$90,800 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -423,7 +423,7 @@ _exports of goods and services_: 51% (2017 est.)<br>
 _imports of goods and services_: -37.3% (2017 est.)<br>
 
 **Agricultural products**<br>
-tomatoes, dates, camel milk, sheep milk, goat milk, pumpkins/gourds, mutton, poultry, milk, eggplants<br>
+eggs, tomatoes, dates, poultry, cucumbers, camel milk, sheep milk, goat milk, pumpkins/gourds, poultry<br>
 
 **Industries**<br>
 liquefied natural gas, crude oil production and refining, ammonia, fertilizer, petrochemicals, steel reinforcing bars, cement, commercial ship repair<br>
@@ -486,26 +486,26 @@ $26.319 billion (2021 est.)<br>
 $4.26 billion (2019 est.)<br>
 
 **Exports**<br>
+$161.693 billion (2022 est.) note: data are in current year dollars<br>
 $105.549 billion (2021 est.) note: data are in current year dollars<br>
 $70.933 billion (2020 est.) note: data are in current year dollars<br>
-$92.046 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-China 13%, Japan 11%, India 11%, South Korea 10%, Singapore 6% (2021)<br>
+China 18%, India 15%, Japan 10%, South Korea 9%, United Kingdom 6% (2022)<br>
 
 **Exports - commodities**<br>
-natural gas, crude petroleum, refined petroleum, ethylene polymers, fertilizers (2021)<br>
+natural gas, crude petroleum, refined petroleum, fertilizers, ethylene polymers (2022)<br>
 
 **Imports**<br>
+$74.52 billion (2022 est.) note: data are in current year dollars<br>
 $61.204 billion (2021 est.) note: data are in current year dollars<br>
 $59.065 billion (2020 est.) note: data are in current year dollars<br>
-$66.77 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 14%, United Arab Emirates 8%, United States 7%, United Kingdom 6%, India 6% (2021)<br>
+United Arab Emirates 13%, China 11%, United States 10%, United Kingdom 8%, India 5% (2022)<br>
 
 **Imports - commodities**<br>
-cars, gas turbines, jewelry, broadcasting equipment, gold (2021)<br>
+gas turbines, jewelry, cars, aircraft, broadcasting equipment (2022)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $42.213 billion (31 December 2021 est.)<br>

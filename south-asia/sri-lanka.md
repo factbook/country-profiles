@@ -388,12 +388,12 @@ _selected World Heritage Site locales_: Ancient City of Polonnaruwa (c); Ancient
 ## Economy
 
 **Economic overview**<br>
-lower middle-income South Asian island economy; extremely high public debts; rapid inflation; facing domestic food, fuel, and medicine shortages; tourism industry disrupted by COVID-19; known garment and commodities exporter; low foreign exchange reserves<br>
+economic contraction in 2022-23 marked by increased poverty and significant inflation; IMF two-year debt relief program following 2022 sovereign default; structural challenges from non-diversified economy and rigid labor laws; heavy dependence on tourism receipts and remittances<br>
 
 **Real GDP (purchasing power parity)**<br>
+$270.6 billion (2022 est.)<br>
 $296.595 billion (2021 est.)<br>
 $287.046 billion (2020 est.)<br>
-$297.372 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -402,9 +402,9 @@ $297.372 billion (2019 est.)<br>
 -0.22% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$12,200 (2022 est.)<br>
 $13,400 (2021 est.)<br>
 $13,100 (2020 est.)<br>
-$13,600 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -435,10 +435,10 @@ _exports of goods and services_: 21.9% (2017 est.)<br>
 _imports of goods and services_: -29.1% (2017 est.)<br>
 
 **Agricultural products**<br>
-rice, coconuts, sugar cane, plantains, milk, tea, cassava, maize, poultry, coir<br>
+rice, coconuts, eggs, plantains, tea leaves, sugar cane, milk, cassava, maize, poultry<br>
 
 **Industries**<br>
-processing of rubber, tea, coconuts, tobacco and other agricultural commodities; telecommunications, insurance, banking; tourism, shipping; clothing, textiles; cement, petroleum refining, information technology services, construction<br>
+processing of rubber, tea, coconuts, tobacco and other agricultural commodities; tourism; clothing and textiles; mining<br>
 
 **Industrial production growth rate**<br>
 5.62% (2021 est.)<br>
@@ -499,26 +499,26 @@ calendar year<br>
 -$2.799 billion (2018 est.)<br>
 
 **Exports**<br>
+$16.169 billion (2022 est.) note: data are in current year dollars<br>
+$14.974 billion (2021 est.) note: data are in current year dollars<br>
 $13.083 billion (2020 est.) note: data are in current year dollars<br>
-$19.414 billion (2019 est.) note: data are in current year dollars<br>
-$20.264 billion (2018 est.)<br>
 
 **Exports - partners**<br>
-United States 24%, India 8%, United Kingdom 7%, Germany 7% (2019)<br>
+United States 24%, India 8%, United Kingdom 7%, Germany 6%, Italy 4% (2022)<br>
 
 **Exports - commodities**<br>
-clothing and apparel, tea, used tires, rubber products, precious stones, cinnamon (2019)<br>
+textiles (knit and non-knit garments); tea; rubber tires; precious stones; cinnamon (2022)<br>
 
 **Imports**<br>
+$19.244 billion (2022 est.) note: data are in current year dollars<br>
+$21.526 billion (2021 est.) note: data are in current year dollars<br>
 $18.271 billion (2020 est.) note: data are in current year dollars<br>
-$24.562 billion (2019 est.) note: data are in current year dollars<br>
-$26.841 billion (2018 est.)<br>
 
 **Imports - partners**<br>
-India 24%, China 23%, Singapore 7%, United Arab Emirates 6%, Malaysia 5% (2019)<br>
+India 34%, China 19%, United Arab Emirates 6%, Malaysia 4%, Singapore 4% (2022)<br>
 
 **Imports - commodities**<br>
-refined petroleum, textiles, gold, cars, broadcasting equipment (2019)<br>
+refined and crude petroleum; knitted/woven fabrics; special purpose ships; packaged medicine; coal (2022)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $3.137 billion (31 December 2021 est.)<br>

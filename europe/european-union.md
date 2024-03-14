@@ -231,7 +231,7 @@ European United Left-Nordic Green Left or GUE/NGL [Manon AUBRY and Martin SCHIRD
 ARF, ASEAN (dialogue member), Australian Group, BIS, BSEC (observer), CBSS, CERN, EBRD, FAO, FATF, G-7, G-10, G-20, IDA, IEA, IGAD (partners), LAIA (observer), NSG (observer), OAS (observer), OECD, PIF (partner), SAARC (observer), SICA (observer), UN (observer), UNRWA (observer), WCO, WTO, ZC (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador-designate Jovita NELIUP&Scaron;IENĖ (since 1 January 2024)<br>
+_chief of mission_: Ambassador Jovita NELIUP&Scaron;IENĖ (since 27 February 2024)<br>
 _chancery_: 2175 K Street NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 862-9500<br>
 _FAX_: [1] (202) 429-1766<br>

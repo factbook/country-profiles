@@ -621,7 +621,7 @@ the separate British and French police forces were unified in 1980 as the New He
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Vanuatu-France</em>: Matthew and Hunter Islands, two uninhabited islands east of New Caledonia, claimed by Vanuatu and France; in January 2019, a French naval mission landed officers on the islands to reinforce France’s sovereignty; in November 2021, French vessels fishing near the islands raised tensions</p><br>
+<p><em>Vanuatu-France</em>: both claim Matthew and Hunter Islands, two uninhabited islands east of New Caledonia</p><br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Vanuatu does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; these efforts included sentencing four traffickers to prison, following their conviction in the previous reporting period; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; for the fourth consecutive year, authorities did not identify any trafficking victims and did not provide protection services to victims; for the third consecutive year, officials did not investigate any trafficking crimes; the government also did not conduct public awareness campaigns or administer anti-trafficking training for law enforcement officials; therefore, Vanuatu was downgraded to Tier 2 Watch List (2023)<br>

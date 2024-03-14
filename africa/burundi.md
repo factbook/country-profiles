@@ -369,7 +369,7 @@ Council for Democracy and the Sustainable Development of Burundi or CODEBU [Keff
 ACP, AfDB, ATMIS, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICC, ICGLR, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Jean Bosco BAREGE (since 11 January 2024); Charg&eacute; d'Affaires Genevi&egrave;ve NIZIGIYIMANA (since 3 October 2023)&nbsp;&nbsp;<br>
+_chief of mission_: Ambassador Jean Bosco BAREGE (since 27 February 2024)<br>
 _chancery_: 2233 Wisconsin Avenue NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 342-2574<br>
 _FAX_: [1] (202) 342-2578<br>

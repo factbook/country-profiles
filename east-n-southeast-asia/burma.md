@@ -90,7 +90,7 @@ _adjective_: Burmese<br>
 
 **Ethnic groups**<br>
 Burman (Bamar) 68%, Shan 9%, Karen 7%, Rakhine 4%, Chinese 3%, Indian 2%, Mon 2%, other 5%<br>
-<strong>note: </strong>the largest ethnic group — the Burman (or Bamar) — dominate politics and the military ranks are largely drawn from this ethnic group; the Burman mainly populate the central parts of the country, while various ethnic minorities have traditionally lived in the peripheral regions that surround the plains in a horseshoe shape; the government recognizes 135 indigenous ethnic groups<br>
+<strong>note: </strong>the largest ethnic group — the Burman (or Bamar) — dominate politics, and the military ranks are largely drawn from this ethnic group; the Burman mainly populate the central parts of the country, while various ethnic minorities have traditionally lived in the peripheral regions that surround the plains in a horseshoe shape; the government recognizes 135 indigenous ethnic groups<br>
 
 **Languages**<br>
 Burmese (official)<br>

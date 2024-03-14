@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-Although explored by the Spanish early in the 16th century, initial attempts at colonizing Costa Rica proved unsuccessful due to a combination of factors, including disease from mosquito-infested swamps, brutal heat, resistance by indigenous populations, and pirate raids. It was not until 1563 that a permanent settlement of Cartago was established in the cooler, fertile central highlands. The area remained a colony for some two and a half centuries. In 1821, Costa Rica became one of several Central American provinces that jointly declared their independence from Spain. Two years later it joined the United Provinces of Central America, but this federation disintegrated in 1838, at which time Costa Rica proclaimed its sovereignty and independence. Since the late 19th century, only two brief periods of violence have marred the country's democratic development. On 1 December 1948, Costa Rica dissolved its armed forces. Although it still maintains a large agricultural sector, Costa Rica has expanded its economy to include strong technology and tourism industries. The standard of living is relatively high. Land ownership is widespread.<br>
+Although explored by the Spanish early in the 16th century, initial attempts at colonizing Costa Rica proved unsuccessful due to a combination of factors, including disease from mosquito-infested swamps, brutal heat, resistance by Indigenous populations, and pirate raids. It was not until 1563 that a permanent settlement of Cartago was established in the cooler, fertile central highlands. The area remained a colony for some two and a half centuries. In 1821, Costa Rica became one of several Central American provinces that jointly declared independence from Spain. Two years later it joined the United Provinces of Central America, but this federation disintegrated in 1838, at which time Costa Rica proclaimed its sovereignty and independence. Since the late 19th century, only two brief periods of violence have marred the country's democratic development. On 1 December 1948, Costa Rica dissolved its armed forces. Although it still maintains a large agricultural sector, Costa Rica has expanded its economy to include strong technology and tourism industries. The standard of living is relatively high. Land ownership is widespread.<br>
 
 ## Geography
 
@@ -292,7 +292,7 @@ _etymology_: the name means "rich coast" in Spanish and was first applied in the
 presidential republic<br>
 
 **Capital**<br>
-_name_: San Jose<br>
+_name_: San Jos&eacute;<br>
 _geographic coordinates_: 9 56 N, 84 05 W<br>
 _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br>
 _etymology_: named in honor of Saint Joseph<br>
@@ -330,7 +330,7 @@ _chief of state_: President Rodrigo CHAVES Robles (since 8 May 2022); First Vice
 _head of government_: President Rodrigo CHAVES Robles (since 8 May 2022); First Vice President Stephan BRUNNER Neibig (since 8 May 2022); Second Vice President Mary Denisse MUNIVE Angermuller (since 8 May 2022)<br>
 _cabinet_: Cabinet selected by the president<br>
 _elections/appointments_: president and vice presidents directly elected on the same ballot by modified majority popular vote (40% threshold) for a 4-year term (eligible for non-consecutive terms); election last held on 6 February 2022 with a runoff on 3 April 2022 (next to be held in February 2026 with a runoff in April 2026)<br>
-_election results_: <br><em>2022: </em>Rodrigo CHAVES Robles elected president in second round; percent of vote in first round - Jose Maria FIGUERES Olsen (PLN) 27.3%,<em> </em>Rodrigo CHAVES Robles (PPSD) 16.8%, Fabricio ALVARADO Munoz (PNR) 14.9%, Eliecer FEINZAIG Mintz (PLP) 12.4%, Lineth SABORIO Chaverri (PUSC) 12.4%, Jose Maria VILLALTA Florez-Estrada 8.7% (PFA), other 7.5%; percent of vote in second round - Rodrigo CHAVES Robles (PPSD) 52.8%, Jose Maria FIGUERES Olsen (PLN) 47.2%<br><br><em>2018:</em> Carlos ALVARADO Quesada elected president in second round; percent of vote in first round - Fabricio ALVARADO Munoz (PRN) 25%; Carlos ALVARADO Quesada (PAC) 21.6%; Antonio ALVAREZ (PLN) 18.6%; Rodolfo PIZA (PUSC) 16%; Juan Diego CASTRO (PIN) 9.5%; Rodolfo HERNANDEZ (PRS) 4.9%, other 4.4%; percent of vote in second round - Carlos ALVARADO Quesada (PAC) 60.7%; Fabricio ALVARADO Munoz (PRN) 39.3%<br>
+_election results_: <br><em>2022: </em>Rodrigo CHAVES Robles elected president in second round; percent of vote in first round - Jose Maria FIGUERES Olsen (PLN) 27.3%,<em> </em>Rodrigo CHAVES Robles (PPSD) 16.8%, Fabricio ALVARADO Munoz (PNR) 14.9%, Eliecer FEINZAIG Mintz (PLP) 12.4%, Lineth SABORIO Chaverri (PUSC) 12.4%, Jose Maria VILLALTA Florez-Estrada 8.7% (PFA), other 7.5%; percent of vote in second round - Rodrigo CHAVES Robles (PPSD) 52.8%, Jose Maria FIGUERES Olsen (PLN) 47.2%<br><br><em>2018:</em> Carlos ALVARADO Quesada elected president in second round; percent of vote in first round - Fabricio ALVARADO Munoz (PRN) 25%; Carlos ALVARADO Quesada (PAC) 21.6%; Antonio ALVAREZ (PLN) 18.6%; Rodolfo PIZA (PUSC) 16%; Juan Diego CASTRO (PIN) 9.5%; Rodolfo HERNANDEZ (PRSC) 4.9%, other 4.4%; percent of vote in second round - Carlos ALVARADO Quesada (PAC) 60.7%; Fabricio ALVARADO Munoz (PRN) 39.3%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Asamblea Legislativa (57 seats; members directly elected in multi-seat constituencies - corresponding to the country's 7 provinces - by closed party-list proportional representation vote; members serve 4-year terms)<br>
@@ -343,7 +343,7 @@ _judge selection and term of office_: Supreme Court of Justice judges elected by
 _subordinate courts_: appellate courts; trial courts; first instance and justice of the peace courts; Superior Electoral Tribunal<br>
 
 **Political parties and leaders**<br>
-<p>Accessibility Without Exclusion or PASE [Oscar Andres LOPEZ Arias]<br>Broad Front (Frente Amplio) or PFA [Ana Patricia MORA Castellanos]<br>Christian Democratic Alliance or ADC [Mario REDONDO Poveda]<br>Citizen Action Party or PAC [Marta Eugenia SOLANO Arias]<br>Costa Rican Renewal Party or PRC [Justo OROZCO Alvarez]<br>Liberal Progressive Party or PLP [Eliecer FEINZAIG Mintz]<br>Libertarian Movement Party or ML [Victor Danilo CUBERO Corrales]<br>National Integration Party or PIN [Walter MUNOZ Cespedes]<br>National Liberation Party or PLN [Kattia RIVERA Soto]<br>National Restoration Party or PRN [Carlos Luis AVENDANO Calvo]<br>New Generation or PNG [Rodolfo SOLIS Herrera]<br>New Republic Party or PNR [Francisco Javier PRENDAS Rodriguez]<br>Patriotic Alliance [Jorge ARAYA Westover]<br>Social Christian Republican Party or PRS [Otto ROBERTO Vargas]<br>Social Christian Unity Party or PUSC of UNIDAD [Randall QUIROS Bustamante]<br>Social Democratic Progress Party or PPSD [Luz Mary ALPIZAR Loaiza]<br><br></p><br>
+<p>Accessibility Without Exclusion or PASE [Oscar Andres LOPEZ Arias]<br>Broad Front (Frente Amplio) or PFA [Ana Patricia MORA Castellanos]<br>Citizen Action Party or PAC [Fabian SOLANO Fernandez]<br>Costa Rican Renewal Party or PRC [Justo OROZCO Alvarez]<br>Here Costa Rica Commands Party or ACRM [Federico CRUZ Saravanja]<br>Liberal Progressive Party or PLP [Eliecer FEINZAIG Mintz]<br>Libertarian Movement Party or ML [Victor Danilo CUBERO Corrales]<br>National Integration Party or PIN [Walter MUNOZ Cespedes]<br>National Liberation Party or PLN [Ricardo SANCHO Chavarría]<br>National Restoration Party or PRN [Carlos Luis AVENDANO Calvo]<br>New Generation or PNG [Rodolfo SOLIS Herrera]<br>New Republic Party or PNR [Fabricio ALVARADO Muñoz]<br>Social Christian Republican Party or PRSC [Otto ROBERTO Vargas]<br>Social Christian Unity Party or PUSC of UNIDAD [Juan Carlos HIDALGO Bogantes]<br>Social Democratic Progress Party or PPSD [Luz Mary ALPIZAR Loaiza]</p><br>
 
 **International organization participation**<br>
 BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, NAM (observer), OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -354,7 +354,7 @@ _chancery_: 2114 S Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 499-2980<br>
 _FAX_: [1] (202) 265-4795<br>
 _email address and website_: <br>embcr-us@rree.go.cr<br><br>http://www.costarica-embassy.org/index.php?q=node/21<br>
-_consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, New York, Washington DC<br>
+_consulate(s) general_: Atlanta, Houston, Los Angeles, Miami, New York, Washington DC<br>
 _honorary consulate(s)_: San Juan (Puerto Rico), Saint Paul (MN), Tucson (AZ)<br>
 
 **Diplomatic representation from the US**<br>

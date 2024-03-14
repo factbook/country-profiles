@@ -304,7 +304,7 @@ _etymology_: the precise meaning of the name Paraguay is unclear, but it seems t
 presidential republic<br>
 
 **Capital**<br>
-_name_: Asuncion<br>
+_name_: Asunci&oacute;n<br>
 _geographic coordinates_: 25 16 S, 57 40 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins first Sunday in October; ends last Sunday in March<br>

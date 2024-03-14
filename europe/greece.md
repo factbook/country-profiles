@@ -346,7 +346,7 @@ Coalition of the Radical Left-Progressive Alliance or SYRIZA-PS [Stefanos KASSEL
 Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Theodoros BIZAKIS (since 22 September 2023)<br>
+_chief of mission_: Ambassador Ekaterini NASSIKA (since 27 February 2024)<br>
 _chancery_: 2217 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-1300<br>
 _FAX_: [1] (202) 939-1324<br>

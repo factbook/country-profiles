@@ -359,7 +359,7 @@ Asturias Forum or FAC [Carmen MORIYON]<br>Basque Country Unite (Euskal Herria Bi
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BCIE, BIS, CABEI, CAN (observer), CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Santiago CABANAS Ansorena (since 17 September 2018)<br>
+_chief of mission_: Ambassador &Aacute;ngeles MORENO Bau (since 27 February 2024)<br>
 _chancery_: 2375 Pennsylvania Avenue NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 452-0100<br>
 _FAX_: [1] (202) 833-5670<br>

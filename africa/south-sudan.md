@@ -321,7 +321,7 @@ Note: in mid-2022, the Government of South Sudan inaugurated an Ad-hoc Judiciary
 AU, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, Interpol, IOM, IPU, ITU, MIGA, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Philip Jada NATANA (since 17 September 2018)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Angong ACUIL (since 13 December 2023)<br>
 _chancery_: 1015 31st Street NW, Suite 300, Washington, DC 20007<br>
 _telephone_: [1] (202) 600-2238<br>
 _FAX_: [1] (202) 644-9910<br>

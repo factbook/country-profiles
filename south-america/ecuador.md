@@ -364,8 +364,8 @@ Actuemos Ecuador or Actuemos<br>AMIGO movement, Independent Mobilizing Action Ge
 CAN, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, Pacific Alliance (observer), PCA, PROSUR, SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Maria Soledad PENA PLAZA (since 9 February 2024)<br>
-_chancery_: 2535 15th Street NW, Washington, DC 20009<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Maria Soledad PE&Ntilde;A PLAZA (since 9 February 2024)<br>
+_chancery_: 2535 15th Street NW, Washington, DC 20009<br><br>Contact – Washington (cancilleria.gob.ec)<br>
 _telephone_: [1] (202) 234-7200<br>
 _FAX_: [1] (202) 333-2893<br>
 _email address and website_: <br>embassy@ecuador.org<br><br>http://www.ecuador.org/<br>

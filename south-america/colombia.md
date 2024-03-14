@@ -310,7 +310,7 @@ _etymology_: the country is named after explorer Christopher COLUMBUS<br>
 presidential republic<br>
 
 **Capital**<br>
-_name_: Bogota<br>
+_name_: Bogot&aacute;<br>
 _geographic coordinates_: 4 36 N, 74 05 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _etymology_: originally referred to as "Bacata," meaning "enclosure outside of the farm fields," by the indigenous Muisca<br>
