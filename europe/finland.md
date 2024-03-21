@@ -720,6 +720,6 @@ the Finnish Defense Forces (FDF) are focused primarily on territorial defense, w
 various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands<br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 65,535 (Ukraine) (as of 31 January 2024)<br>
+_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 66,195 (Ukraine) (as of 29 February 2024)<br>
 _stateless persons_: 3,546 (2022)<br>
 

@@ -676,9 +676,9 @@ Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Dan
 <strong>note:</strong> the Danish military maintains a joint service Arctic Command with the mission of protecting the sovereignty of the Kingdom of Denmark in the Arctic Region, including the Faroe Islands and Greenland; the command also conducts maritime pollution prevention, environmental monitoring, fishery inspections, search and rescue, hydrographical surveys, and provides support to governmental science missions<br>
 
 **Military expenditures**<br>
-1.7% of GDP (2023 est.)<br>
-1.4% of GDP (2022 est.)<br>
-1.4% of GDP (2021)<br>
+2% of GDP (2023 est.)<br>
+1.4% of GDP (2022)<br>
+1.3% of GDP (2021)<br>
 1.4% of GDP (2020)<br>
 1.3% of GDP (2019)<br>
 
@@ -690,7 +690,7 @@ the Danish military inventory is comprised of a mix of modern European, US, and 
 
 **Military service age and obligation**<br>
 18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish military offers reserve contracts in all three branches (2023)<br>
-<strong>note 1:</strong> women have been able serve in all military occupations, including combat arms, since 1988; as of 2022, they made up about 9% of the military's full-time personnel; conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br><br><strong>note 2: </strong>foreigners who have lived in Denmark for at least 1 year or in another EU country for 6 years may apply to join the armed forces, provided they are fluent in Danish <br><br><strong>note 2: </strong>Denmark has had compulsory military service since 1849<br>
+<strong>note 1:</strong> women have been able serve in all military occupations, including combat arms, since 1988; as of 2022, they made up about 9% of the military's full-time personnel; in 2024, Denmark announced that it would extend military conscription to women in 2026<br><br><strong>note 2:</strong> conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br><br><strong>note 3: </strong>foreigners who have lived in Denmark for at least 1 year or in another EU country for 6 years may apply to join the armed forces, provided they are fluent in Danish <br><br><strong>note 4: </strong>Denmark has had compulsory military service since 1849<br>
 
 **Military deployments**<br>
 approximately 225 Estonia (NATO); approximately 800 Latvia (NATO) (2023)<br>
@@ -720,6 +720,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; in 2019, Denmark signed continental shelf delimitation agreements with Iceland and Norway to parts of the continental shelf in the Ægir Basin, which is located north of the Faroe Islands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 37,160 (Ukraine) (as of 31 December 2023)<br>
+_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 37,530 (Ukraine) (as of 3 March 2024)<br>
 _stateless persons_: 11,644 (2022)<br>
 

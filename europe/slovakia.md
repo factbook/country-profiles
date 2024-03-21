@@ -673,8 +673,8 @@ Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land 
 <strong>note:</strong> the SPF has sole responsibility for internal and border security<br>
 
 **Military expenditures**<br>
-2% of GDP (2023 est.)<br>
-1.8% of GDP (2022 est.)<br>
+2.1% of GDP (2023 est.)<br>
+1.8% of GDP (2022)<br>
 1.7% of GDP (2021)<br>
 1.9% of GDP (2020)<br>
 1.7% of GDP (2019)<br>
@@ -711,7 +711,7 @@ focused on the development of satellites, satellite subcomponents, and other spa
 none identified<br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 115,875 (Ukraine) (as of 4 February 2024)<br>
+_refugees (country of origin)_: 117,265 (Ukraine) (as of 3 March 2024)<br>
 _stateless persons_: 2,940 (2022)<br>
 
 **Illicit drugs**<br>

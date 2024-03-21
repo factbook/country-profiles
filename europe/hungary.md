@@ -686,8 +686,8 @@ Hungarian Defense Forces (HDF or Magyar Honvédség): the HDF is organized as a 
 <strong>note:</strong> the National Police are under the Ministry of Interior and responsible for maintaining order nationwide; the Ministry of Interior also has the Counterterrorism Center, a special police force responsible for protecting the president and the prime minister and for preventing, uncovering, and detecting terrorist acts<br>
 
 **Military expenditures**<br>
-2.4% of GDP (2023 est.)<br>
-1.8% of GDP (2022 est.)<br>
+2.1% of GDP (2023 est.)<br>
+1.8% of GDP (2022)<br>
 1.7% of GDP (2021)<br>
 1.8% of GDP (2020)<br>
 1.4% of GDP (2019)<br>
@@ -730,7 +730,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 none identified<br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 65,585 (Ukraine) (as of 26 February 2024)<br>
+_refugees (country of origin)_: 66,135 (Ukraine) (as of 5 March 2024)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

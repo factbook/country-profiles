@@ -240,7 +240,7 @@ _definition_: age 15 and over can read and write<br>
 _total population_: 89.1%<br>
 _male_: 92.4%<br>
 _female_: 86.3% (2019)<br>
-<strong>note: </strong>most public schools were closed immediately after the coup in 2021, and attendance remained low since schools reopened; literacy is expected to decline from 2019 to 2023<br>
+<strong>note: </strong>most public schools were closed immediately after the coup in 2021, and attendance has remained low since schools reopened; literacy is expected to decline from 2019 to 2023<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>

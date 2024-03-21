@@ -321,7 +321,7 @@ _residency requirement for naturalization_: 20 years; 15 years if an Arab nation
 
 **Executive branch**<br>
 _chief of state_: Amir TAMIM bin Hamad Al Thani (since 25 June 2013)<br>
-_head of government_: Prime Minister and Foreign Minister MUHAMMAD bin Abd al-Rahman Al Thani (since 7 March 2023); Deputy Prime Minister and Minister of State for Defense Affairs KHALID bin Mohamed AL Attiyah (since 14 November 2017)<br>
+_head of government_: Prime Minister and Foreign Minister MUHAMMAD bin Abd al-Rahman Al Thani (since 7 March 2023); Deputy Prime Minister and Minister of State for Defense Affairs KHALID bin Muhammad al-Attiyah (since 14 November 2017)<br>
 _cabinet_: Council of Ministers appointed by the amir<br>
 _elections/appointments_: the monarchy is hereditary; prime minister and deputy prime minister appointed by the amir<br>
 
@@ -342,7 +342,7 @@ political parties are banned<br>
 ABEDA, AFESD, AMF, CAEU, CD, CICA (observer), EITI (implementing country), FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OIF, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Meshal Bin Hamad AL THANI (since 24 April 2017)<br>
+_chief of mission_: <p>Ambassador MISHAL bin Hamad bin Muhammad Al Thani (since 24 April 2017)</p><br>
 _chancery_: 2555 M Street NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 274-1600<br>
 _FAX_: [1] (202) 237-0682<br>

@@ -705,7 +705,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; has had maritime/economic exclusion zone disputes with Turkey, particularly over energy exploration</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,869 (Syria) (mid-year 2022); 17,270 (Ukraine) (as of 14 January 2024)<br>
+_refugees (country of origin)_: 10,869 (Syria) (mid-year 2022); 17,270 (Ukraine) (as of 11 February 2024)<br>
 _IDPs_: 246,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2022)<br>
 _stateless persons_: 74 (2022)<br>
 <strong>note:</strong> 55,098 estimated refugee and migrant arrivals (January 2015-August 2023)<br>

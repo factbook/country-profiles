@@ -704,8 +704,8 @@ Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes 
 <strong>note:</strong> responsibility for internal and border security is shared by the police forces of the 16 states, the Federal Criminal Police Office, and the Federal Police; the states’ police forces report to their respective interior ministries while the Federal Police forces report to the Federal Ministry of the Interior<br>
 
 **Military expenditures**<br>
-1.6% of GDP (2023 est.)<br>
-1.5% of GDP (2022 est.)<br>
+1.7% of GDP (2023 est.)<br>
+1.5% of GDP (2022)<br>
 1.5% of GDP (2021)<br>
 1.5% of GDP (2020)<br>
 1.4% of GDP (2019)<br>

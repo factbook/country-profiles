@@ -687,7 +687,7 @@ Italian Armed Forces (Forze Armate Italiane): Army (Esercito Italiano, EI), Navy
 **Military expenditures**<br>
 1.5% of GDP (2023 est.)<br>
 1.5% of GDP (2022)<br>
-1.6% of GDP (2021)<br>
+1.5% of GDP (2021)<br>
 1.6% of GDP (2020)<br>
 1.2% of GDP (2019)<br>
 
@@ -732,9 +732,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 168,840 (Ukraine) (as of 19 January 2024)<br>
+_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 169,165 (Ukraine) (as of 23 February 2024)<br>
 _stateless persons_: 3,000 (2022)<br>
-<strong>note:</strong> 858,051 estimated refugee and migrant arrivals (January 2015-February 2024)<br>
+<strong>note:</strong> 859,525 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
 
 **Illicit drugs**<br>
 <p>important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe</p><br>

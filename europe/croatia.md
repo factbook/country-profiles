@@ -95,7 +95,7 @@ Croatian (official) 95.6%, Serbian 1.2%, other 3% (including Hungarian, Czech, S
 _major-language sample(s)_: <br>Knjiga svjetskih činjenica, nužan izvor osnovnih informacija. (Croatian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 86.3%, Orthodox 4.4%, Muslim 1.5%, other 1.5%, unspecified 2.5%, not religious or atheist 3.8% (2011 est.)<br>
+Roman Catholic 79%, Orthodox 3.3%, Protestant 0.3%, other Christian 4.8%, Muslim 1.3%, other 1.1%, agnostic 1.7%, none or atheist 4.7%, unspecified 3.9% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 13.98% (male 300,575/female 282,165)<br>
@@ -684,7 +684,7 @@ Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH)
 
 **Military expenditures**<br>
 1.8% of GDP (2023 est.)<br>
-1.8% of GDP (2022 est.)<br>
+1.8% of GDP (2022)<br>
 2% of GDP (2021)<br>
 1.7% of GDP (2020)<br>
 1.6% of GDP (2019)<br>
@@ -712,7 +712,7 @@ the Armed Forces of Croatia (OSRH) are responsible for the defense of Croatia’
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Croatia joined the Schengen Zone on 1 January 2023</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 24,355 (Ukraine) (as of 31 January 2024)<br>
+_refugees (country of origin)_: 24,525 (Ukraine) (as of 29 February 2024)<br>
 _stateless persons_: 2,889 (2022)<br>
 <strong>note: </strong>843,010 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
 

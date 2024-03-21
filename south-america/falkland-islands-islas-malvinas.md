@@ -220,7 +220,7 @@ _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<
 _etymology_: named after Edward SMITH-STANLEY (1799-1869), the 14th Earl of Derby, a British statesman and three-time prime minister of the UK who never visited the islands<br>
 
 **Administrative divisions**<br>
-none (overseas territory of the UK; also claimed by Argentina)<br>
+none (administered by the UK; claimed by Argentina)<br>
 
 **Independence**<br>
 none (overseas territory of the UK; also claimed by Argentina)<br>
@@ -263,10 +263,10 @@ none; all independents<br>
 UPU<br>
 
 **Diplomatic representation in the US**<br>
-none (overseas territory of the UK)<br>
+none (administered by the UK; claimed by Argentina)<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: none (overseas territory of the UK; also claimed by Argentina)<br>
+_embassy_: none (administered by the UK; claimed by Argentina)<br>
 
 **Flag description**<br>
 blue with the flag of the UK in the upper hoist-side quadrant and the Falkland Island coat of arms centered on the outer half of the flag; the coat of arms contains a white ram (sheep raising was once the major economic activity) above the sailing ship Desire (whose crew discovered the islands) with a scroll at the bottom bearing the motto DESIRE THE RIGHT<br>

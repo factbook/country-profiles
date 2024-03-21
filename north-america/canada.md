@@ -711,8 +711,8 @@ Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force; D
 <strong>note 1: </strong>the CAF is comprised of both a Regular Force and a Reserve Force; the Reserve Force is part of all three services (Army, Navy, and Air Force) and is considered an integral component of the CAF; reservists are primarily part-time service positions; they may volunteer for full-time employment or deployment on operations; they typically serve one or more evenings a week and/or during weekends at locations close to home; the Reserve Force is comprised of the Primary Reserve, Canadian Rangers, Cadet Organizations Administration and Training Service, and the Supplementary Reserve; the Canadian Rangers are part of the Army Reserve Force and provide a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles <br><br><strong>note 2: </strong>the Royal Canadian Mounted Police (RCMP or "Mounties") are under the Department of Public Safety; only Ontario, Quebec, and Newfoundland and Labrador have provincial police forces, but the Royal Newfoundland Constabulary contracts policing in regions of the province to the RCMP; the RCMP and municipal forces provide coverage for other provinces and territories; some Indigenous reserves provide Indigenous policing; provincial and municipal police report to their respective provincial authorities<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2023)<br>
-1.2% of GDP (2022 est.)<br>
+1.3% of GDP (2023)<br>
+1.2% of GDP (2022)<br>
 1.3% of GDP (2021)<br>
 1.4% of GDP (2020)<br>
 1.3% of GDP (2019)<br>

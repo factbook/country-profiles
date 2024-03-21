@@ -371,7 +371,7 @@ _chief of mission_: Ambassador Muhammad IMRAN (since 12 December 2022)<br>
 _chancery_: 3510 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 244-0183<br>
 _FAX_: [1] (202) 244-2771<br>
-_email address and website_: <br>mission.washington@mofa.gov.bd<br><br>http://www.bdembassyusa.org/<br>
+_email address and website_: <br>mission.washington@mofa.gov.bd<br><br>Embassy of the People’s Republic of Bangladesh, Washington, DC (mofa.gov.bd)<br>
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>

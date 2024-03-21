@@ -677,8 +677,8 @@ Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos 
 <strong>note 1: </strong>the National Rifleman's Union is a civilian paramilitary organization supported by the Lithuanian Government that cooperates with the military but is not part of it; however, in a state of war, its armed formations would fall under the armed forces<br><br><strong>note 2:</strong> the Lithuanian Police and State Border Guard Service are under the Ministry of Interior; in wartime, the State Border Guard Service becomes part of the armed forces<br>
 
 **Military expenditures**<br>
-2.5% of GDP (2023 est.)<br>
-2.5% of GDP (2022 est.)<br>
+2.8% of GDP (2023 est.)<br>
+2.5% of GDP (2022)<br>
 2% of GDP (2021)<br>
 2.1% of GDP (2020)<br>
 2% of GDP (2019) (approximately $1.7 billion)<br>
@@ -714,7 +714,7 @@ has a small but growing space program; operates satellites; manufactures small s
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 52,670 (Ukraine) (as of 31 January 2024)<br>
+_refugees (country of origin)_: 41,490 (Ukraine) (as of 11 March 2024)<br>
 _stateless persons_: 2,720 (2022)<br>
 
 **Illicit drugs**<br>

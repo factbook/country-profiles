@@ -82,13 +82,14 @@ _adjective_: Saint Helenian<br>
 <strong>note:</strong> referred to locally as "Saints"<br>
 
 **Ethnic groups**<br>
-African descent 50%, White 25%, Chinese 25%<br>
+St. Helena 82.1%, UK 7.6%, South Africa 3.6%, Ascension 2.8%, other 3.9% (2021 est.)<br>
+<strong>note:</strong> data represent population of Saint Helena by country of birth<br>
 
 **Languages**<br>
 English<br>
 
 **Religions**<br>
-Protestant 75.9% (includes Anglican 68.9, Baptist 2.1%, Seventh Day Adventist 1.8%, Salvation Army 1.7%, New Apostolic 1.4%), Jehovah's Witness 4.1%, Roman Catholic 1.2%, other 2.5% (includes Baha'i), unspecified 0.8%, none 6.1%, no response 9.4% (2016 est.)<br>
+Protestant 69.4% (includes Anglican 63.2%, Baptist 2.3%, Salvation Army 2%, Seventh Day Adventist 1.9%), Jehovah's Witness 3.8%, Roman Catholic 2.2%, New Apostolic 1.6%, other Christian 1.4%, other 1.1%, none 9%, unspecified 11.4% (2021 est.)<br>
 <strong>note:</strong> data represent Saint Helena only<br>
 
 **Demographic profile**<br>

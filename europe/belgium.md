@@ -682,8 +682,8 @@ Belgian Armed Forces (Defensie or  La Défense): Land Component, Marine (Naval)
 <strong>note: </strong>the Belgian Federal Police is the national police force and responsible for internal security and nationwide law and order, including migration and border enforcement; the force reports to the ministers of interior and justice<br>
 
 **Military expenditures**<br>
-1.13% of GDP (2023 est.)<br>
-1.2% of GDP (2022 est.)<br>
+1.2% of GDP (2023 est.)<br>
+1.2% of GDP (2022)<br>
 1.1% of GDP (2021)<br>
 1% of GDP (2020)<br>
 0.9% of GDP (2019)<br>
@@ -726,7 +726,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 75,055 (Ukraine) (as of 31 January 2024)<br>
+_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 75,030 (Ukraine) (as of 29 February 2024)<br>
 _stateless persons_: 1,190 (2022)<br>
 
 **Illicit drugs**<br>

@@ -84,7 +84,7 @@ _adjective_: Irish<br>
 Irish 76.6%, Irish travelers 0.6%, other White 9.9%, Asian 3.3%, Black 1.5%, other (includes Arab, Roma, and persons of mixed backgrounds) 2%, unspecified 2.6% (2022 est.)<br>
 
 **Languages**<br>
-English (official, the language generally used), Irish (Gaelic or Gaeilge) (official, spoken by approximately 39.8% of the population as of 2016; mainly spoken in areas along Ireland's western coast known as gaeltachtai, which are officially recognized regions where Irish is the predominant language)<br>
+English (official, the language generally used), Irish (Gaelic or Gaeilge) (official, spoken by approximately 37.7% of the population as of 2022; mainly spoken in areas along Ireland's western coast known as gaeltachtai, which are officially recognized regions where Irish is the predominant language)<br>
 
 **Religions**<br>
 Roman Catholic 68.3%, Protestant 3.8% (Church of Ireland/Church of England/Anglican/Episcopalian 2.4%, other Protestant 1.4%), Orthodox 2%, other Christian 0.9%, Muslim 1.4%, other 1.6%, none 15.4%, unspecified 6.6% (2022 est.)<br>
@@ -695,7 +695,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 104,315 (Ukraine) (as of 28 January 2024)<br>
+_refugees (country of origin)_: 105,210 (Ukraine) (as of 8 March 2024)<br>
 _stateless persons_: 7 (2022)<br>
 
 **Illicit drugs**<br>

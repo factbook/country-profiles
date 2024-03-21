@@ -671,7 +671,7 @@ Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force wi
 
 **Military expenditures**<br>
 1.3% of GDP (2024 est.)<br>
-1.4% of GDP (2023 est.)<br>
+1.3% of GDP (2023 est.)<br>
 1.3% of GDP (2022)<br>
 1.2% of GDP (2021)<br>
 1% of GDP (2020)<br>
@@ -699,7 +699,7 @@ the Slovenian Armed Forces (Slovenska Vojska or SV) are responsible for the defe
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; Croatia joined the Schengen Area in January 2023, resulting in all of Slovenia’s borders being within the border-free Schengen Area</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,865 (Ukraine) (as of 2 February 2024)<br>
+_refugees (country of origin)_: 11,035 (Ukraine) (as of 1 March 2024)<br>
 _stateless persons_: 10 (2020)<br>
 <strong>note: </strong> 631,160 estimated refugee and migrant arrivals (January 2015-January 2024)<br>
 

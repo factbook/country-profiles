@@ -81,14 +81,14 @@ _noun_: Cook Islander(s)<br>
 _adjective_: Cook Islander<br>
 
 **Ethnic groups**<br>
-Cook Island Maori (Polynesian) 81.3%, part Cook Island Maori 6.7%, other 11.9% (2011 est.)<br>
+Cook Island Maori 77.4%, part Cook Island Maori 8.3%, Fijian 3.6%, New Zealand Maori/European 3.4%, Filipino 2.9%, other Pacific Islands 1.8%, other 2.6% (2021 est.)<br>
 
 **Languages**<br>
 English (official) 86.4%, Cook Islands Maori (Rarotongan) (official) 76.2%, other 8.3% (2011 est.)<br>
 <strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census<br>
 
 **Religions**<br>
-Protestant 62.8% (Cook Islands Christian Church 49.1%, Seventh Day Adventist 7.9%, Assemblies of God 3.7%, Apostolic Church 2.1%), Roman Catholic 17%, Church of Jesus Christ 4.4%, other 8%, none 5.6%, no response 2.2% (2011 est.)<br>
+Protestant 55% (Cook Islands Christian Church 43.1%, Seventh Day Adventist 8.3%, Assemblies of God 3.6%), Roman Catholic 16.7%, Church of Jesus Christ 3.9%, Jehovah's Witness 2.2%, Apostolic Church 2.1%, other 4.5%, none/unspecified 15.6% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 18.43% (male 766/female 697)<br>

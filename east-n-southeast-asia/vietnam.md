@@ -347,7 +347,7 @@ _chief of state_: President Vo Van THUONG (since 2 March 2023)<br>
 _head of government_: Prime Minister Pham Minh CHINH (since 26 July 2021)<br>
 _cabinet_: Cabinet proposed by the prime minister, confirmed by the National Assembly, and appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly from among its members for a single 5-year term; prime minister recommended by the president and confirmed by the National Assembly; deputy prime ministers confirmed by the National Assembly and appointed by the president<br>
-_election results_: 2023: Vo Van THUONG elected president<br><br>2021: Nguyen Xuan PHUC (CPV) elected president; Pham Minh CHINH (CPV) confirmed as prime minister<br><br><em>2018</em>: NGUYEN Phu TRONG (CPV) elected president<br><br><em>2016</em>: NGUYEN Xuan PHUC (CPV) confirmed as prime minister<br>
+_election results_: <em>2023:</em> Vo Van THUONG elected president<br><br><em>2021:</em> Nguyen Xuan PHUC (CPV) elected president; Pham Minh CHINH (CPV) confirmed as prime minister<br><br><em>2018</em>: NGUYEN Phu TRONG (CPV) elected president<br><br><em>2016</em>: NGUYEN Xuan PHUC (CPV) confirmed as prime minister<br>
 <strong>note: </strong>Nguyen Phu TRONG is the General Secretary of the Vietnam Communist Party<br>
 
 **Legislative branch**<br>

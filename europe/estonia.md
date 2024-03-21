@@ -667,8 +667,8 @@ Estonia operates two PC 5 or 6 class icebreakers in the Baltic Sea<br>note - PC 
 Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League <br><br>Ministry of Interior: Police and Border Guard Board, Internal Security Service (2024)<br>
 
 **Military expenditures**<br>
-2.8% of GDP (2023 est.)<br>
-2.3% of GDP (2022)<br>
+2.9% of GDP (2023 est.)<br>
+2.2% of GDP (2022)<br>
 2% of GDP (2021)<br>
 2.3% of GDP (2020)<br>
 2% of GDP (2019)<br>
@@ -693,7 +693,7 @@ the Estonian military is a compact force that relies heavily on conscripts and r
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia often criticizes the Estonian Government over alleged mistreatment of ethnic Russians in Estonia; as a member state that forms part of the EU's external border, Estonia implements  Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,245 (Ukraine) (as of 4 February 2024)<br>
+_refugees (country of origin)_: 38,020 (Ukraine) (as of 2 March 2024)<br>
 _stateless persons_: 70,604 (2022); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

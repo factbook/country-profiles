@@ -315,11 +315,11 @@ _residency requirement for naturalization_: 5 out of the previous 7 years includ
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Prithvirajsing ROOPUN (since 2 December 2019); Vice President Marie Cyril EDDY Boiss&eacute;zon (since 2 December 2019); note - President Ameenah GURIB-FAKIM, the country's first female president, resigned on 23 March 2018 amid a credit card scandal; acting presidents served from March 2018 until ROOPUN's appointment in 2019<br>
+_chief of state_: President Prithvirajsing ROOPUN (since 2 December 2019); Vice President Marie Cyril EDDY Boiss&eacute;zon (since 2 December 2019)<br>
 _head of government_: Prime Minister Pravind JUGNAUTH (since 23 January 2017); note - Prime Minister Sir Anerood JUGNAUTH stepped down on 23 January 2017 in favor of his son, Pravind Kumar JUGNAUTH, who was then appointed prime minister; following 7 November 2019 parliamentary elections, Pravind JUGNAUTH remained prime minister and home affairs minister and also became defense minister<br>
 _cabinet_: Cabinet of Ministers (Council of Ministers) appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly for 5-year renewable terms; election last held on 7 November 2019 (next to be held in 2024); the president appoints the prime minister and deputy prime minister who have the majority support in the National Assembly<br>
-_election results_: <em><br>2019</em>: Prithvirajsing ROOPUN (MSM) elected president by the National Assembly - unanimous vote<br><br><em>2015</em>: Ameenah GURIB-FAKIM (independent) elected president by the National Assembly - unanimous vote; note - GURIB-FAKIM was Mauritius' first female president <br><br>
+_election results_: <em><br>2019</em>: Prithvirajsing ROOPUN (MSM) elected president by the National Assembly - unanimous vote<br><br><em>2015</em>: Ameenah GURIB-FAKIM (independent) elected president by the National Assembly - unanimous vote; note - GURIB-FAKIM, who was Mauritius' first female president, resigned on 23 March 2018; acting presidents served from March 2018 until ROOPUN's appointment in 2019<br><br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (70 seats maximum; 62 members directly elected multi-seat constituencies by simple majority vote and up to 8 seats allocated to non-elected party candidates by the Office of Electoral Commissioner; members serve a 5-year term)<br>

@@ -687,8 +687,8 @@ _river port(s)_: Braila, Galati (Galatz), Mancanului (Giurgiu), Tulcea (Danube R
 Romanian Armed Forces (Forțele Armate Române or Armata Română): Land Forces, Naval Forces, Air Force<br><br>Ministry of Internal Affairs: General Inspectorate of the Romanian Police, the Romanian Gendarmerie (Jandarmeria Română), the Romanian Border Police, the General Directorate for Internal Protection, and the Directorate General for Anticorruption (2024)<br>
 
 **Military expenditures**<br>
-2.4% of GDP (2023 est.)<br>
-1.7% of GDP (2022 est.)<br>
+1.6% of GDP (2023 est.)<br>
+1.7% of GDP (2022)<br>
 1.9% of GDP (2021)<br>
 2% of GDP (2020)<br>
 1.8% of GDP (2019)<br>
@@ -729,9 +729,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 78,745 (Ukraine) (as of 19 February 2024)<br>
+_refugees (country of origin)_: 77,250 (Ukraine) (as of 10 March 2024)<br>
 _stateless persons_: 297 (2022)<br>
-<strong>note:</strong> 16,027 estimated refugee and migrant arrivals (January 2015-February 2024)<br>
+<strong>note:</strong> 16,085 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis</p><br>

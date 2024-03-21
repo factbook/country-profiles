@@ -701,8 +701,8 @@ Turkish Armed Forces (TAF; Türk Silahlı Kuvvetleri, TSK): Turkish Land Forces 
 <strong>note:</strong> the Gendarmerie (Jandarma) is responsible for the maintenance of the public order in areas that fall outside the jurisdiction of police forces (generally in rural areas); in wartime, the Gendarmerie and Coast Guard would be placed under the operational control of the Land Forces and Naval Forces, respectively<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2023 est.)<br>
-1.4% of GDP (2022 est.)<br>
+1.6% of GDP (2023 est.)<br>
+1.4% of GDP (2022)<br>
 1.6% of GDP (2021)<br>
 1.9% of GDP (2020)<br>
 1.9% of GDP (2019)<br>
@@ -711,7 +711,7 @@ Turkish Armed Forces (TAF; Türk Silahlı Kuvvetleri, TSK): Turkish Land Forces 
 approximately 450,000 active-duty personnel (350,000 Army; 50,000 Navy; 50,000 Air Force); approximately 150,000 Gendarmerie (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is mostly comprised of a mix of domestically produced and Western weapons systems, although in recent years, Turkey has also acquired some Chinese, Russian, and South Korean equipment; over the past decade, Italy, Spain, and the US have been among the leading providers of armaments to Turkey; Turkey has a robust defense industry capable of producing a range of weapons systems for both export and internal use, including armored vehicles, naval vessels, and unmanned aerial vehicles (UAVs), although it is heavily dependent on Western technology; Turkey's defense industry also partners with other countries for defense production (2023)<br>
+the military's inventory is mostly comprised of a mix of domestically produced and Western weapons systems, although in recent years, Turkey has also acquired some Chinese, Russian, and South Korean equipment; over the past decade, Italy, Spain, and the US have been among the leading providers of armaments to Turkey; Turkey has a robust defense industry capable of producing a range of weapons systems for both export and internal use, including armored vehicles, naval vessels, and unmanned aerial vehicles (UAVs); Turkey's defense industry also partners with other countries for defense production (2023)<br>
 
 **Military service age and obligation**<br>
 mandatory military service for men at age 20; service can be delayed if in university or in certain professions (researchers, professionals, and athletic, or those with artistic talents have the right to postpone military service until the age of 35); 6-12 months service; women may volunteer (2023)<br>
@@ -748,7 +748,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU);
 <p><em>Turkey-Armenia</em>: in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered;  in early 2022, the two countries held talks twice aimed at normalizing relations, which could lead to the opening of their land border, shut since 1993; in 2000, Turkish authorities complained to UNESCO that blasting from quarries in Armenia was damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p> <p><em>Turkey-Azerbaijan</em>: none identified; as of 2023, Turkey and Armenia were discussing normalizing relations</p> <p><em>Turkey-Bulgaria</em>: none identified</p> <p><em>Turkey-Cyprus</em>: status of northern Cyprus question remains</p> <p><em>Turkey-Georgia</em>: none identified</p> <p><em>Turkey-Greece</em>: complex maritime, air, and territorial disputes with Greece in the Aegean Sea, including rights to explore oil and gas reserves in the eastern Mediterranean and illegal migrants transiting from Turkey into Greece; the Aegean Maritime Boundary is complicated by the close proximity of Greek islands to the western shores of the Turkish Anatolian peninsula, representing the primary source of conflict between the two countries</p> <p><em>Turkey-Iran</em>: none identified</p> <p><em>Turkey-Iraq</em>: Turkey has expressed concern over the status of Kurds in Iraq</p> <p><em>Turkey-Syria</em>: Turkey completed building a wall along its border with Syria in 2018 to prevent illegal border crossings and smuggling</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 41,665 (Ukraine) (as of 15 February 2024) (2023); 3,159,174 (Syria) (2024)<br>
+_refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 41,665 (Ukraine) (as of 15 February 2024) (2023); 3,143,365 (Syria) (2024)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2022)<br>
 _stateless persons_: 117 (2018)<br>
 

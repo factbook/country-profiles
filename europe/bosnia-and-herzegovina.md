@@ -321,10 +321,10 @@ _residency requirement for naturalization_: 8 years<br>
 18 years of age, 16 if employed; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Chairman of the Presidency Zeljko KOMSIC (chairman since 16 July 2023; presidency member since 20 November 2018 - Croat seat); Zeljka CVIJANOVIC (presidency member since 16 November 2022 - Serb seat); Denis BECIROVIC (presidency member since 16 November 2022 - Bosniak seat)<br>
-_head of government_: Chairman of the Council of Ministers Borjana KRISTO (since 25 January 2023)<br>
-_cabinet_: Council of Ministers nominated by the council chairman, approved by the state-level House of Representatives<br>
-_elections/appointments_: 3-member presidency (1 Bosniak and 1 Croat elected from the Federation of Bosnia and Herzegovina and 1 Serb elected from the Republika Srpska) directly elected by simple majority popular vote for a 4-year term (eligible for a second term but then ineligible for 4 years); the presidency chairpersonship rotates every 8 months with the new member of the presidency elected with the highest number of votes starting the new mandate as chair; election last held on 2 October 2022 (next to be held in October 2026); the chairman of the Council of Ministers appointed by the presidency and confirmed by the state-level House of Representatives<br>
+_chief of state_: Chairperson of the Presidency Denis BECIROVIC (chairperson since 16 March 2024; presidency member since 16 November 2022 - Bosniak seat); Zeljka CVIJANOVIC (presidency member since 16 November 2022 - Serb seat); Zeljko KOMSIC (presidency member since 20 November 2018 - Croat seat)<br>
+_head of government_: Chairperson of the Council of Ministers Borjana KRISTO (since 25 January 2023)<br>
+_cabinet_: Council of Ministers nominated by the council chairperson, approved by the state-level House of Representatives<br>
+_elections/appointments_: 3-member presidency (1 Bosniak and 1 Croat elected from the Federation of Bosnia and Herzegovina and 1 Serb elected from the Republika Srpska) directly elected by simple majority popular vote for a 4-year term (eligible for a second term but then ineligible for 4 years); the presidency chairpersonship rotates every 8 months with the new member of the presidency elected with the highest number of votes starting the new mandate as chair; election last held on 2 October 2022 (next to be held in October 2026); the chairperson of the Council of Ministers appointed by the presidency and confirmed by the state-level House of Representatives<br>
 _election results_: <em><br>2022: </em>percent of vote<em> -</em> Denis BECIROVIC - (SDP BiH) 57.4% - Bosniak seat; Zeljko KOMSIC (DF) 55.8% - Croat seat; Zeljka CVIJANOVIC (SNSD) 51.7% - Serb seat<em><br><br>2018: </em>percent of vote - Milorad DODIK (SNSD) 53.9% - Serb seat; Zeljko KOMSIC (DF) 52.6% - Croat seat; Sefik DZAFEROVIC (SDA) 36.6% - Bosniak seat<br>
 <strong>note:</strong> President of the Federation of Bosnia and Herzegovina Lidiia BRADARA (since 28 February 2023); Vice Presidents Refik LENDO (since 28 February 2023) and Igor STOJANOVIC (since 28 February 2023); President of the Republika Srpska Milorad DODIK (since 15 November 2022); Vice Presidents Camil DURAKOVIC (since 15 November 2022) and Davor PRANJIC (since 15 November 2022)<br>
 
@@ -694,7 +694,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 **Refugees and internally displaced persons**<br>
 _IDPs_: 91,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2022)<br>
 _stateless persons_: 48 (2022)<br>
-<strong>note: </strong>151,006 estimated refugee and migrant arrivals (January 2015-February 2024)<br>
+<strong>note: </strong>152,297 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p><br>

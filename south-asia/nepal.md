@@ -337,7 +337,7 @@ _residency requirement for naturalization_: 15 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Ram Chandra POUDEL (since 13 March 2023); Vice President Ram Sahaya Prasad YADAV (since 20 March 2023)<br>
-_head of government_: Prime Minister Pushpa Kamal DAHAL (since 26 December 2022); Deputy Prime Ministers Narayan Kaji SHRESTHA (since 26 December 2022), Purna Bahadur KHADKA (since 31 March 2023) (an)<br>
+_head of government_: Prime Minister Pushpa Kamal DAHAL (since 26 December 2022); Deputy Prime Ministers Narayan Kaji SHRESTHA (since 26 December 2022), Rabi LAMICHHANE (since 26 December 2022), Raghubir MAHASETH (since 6 March 2024), Upendra YADAV (since 10 March 2024) (an)<br>
 _cabinet_: Council of Ministers appointed by the prime minister; cabinet split between Nepali Congress, Communist Party of Nepal-Maoist Centre, and various coalition partners<br>
 _elections/appointments_: president indirectly elected by an electoral college of the Federal Parliament and of the state assemblies for a 5-year term (eligible for a second term); election last held on 9 March 2023 (next to be held in 2028); prime minister indirectly elected by the Federal Parliament<br>
 _election results_: <em>2023:</em> Ram Chandra POUDEL elected president; electoral college vote - Ram Chandra POUDEL (NC) 33,802, Subash Chandra NEMBANG (CPN-UML) 15,518<br>

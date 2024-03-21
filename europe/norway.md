@@ -673,7 +673,7 @@ Norwegian Armed Forces (Forsvaret or "the Defense"): Norwegian Army (Haeren), Ro
 
 **Military expenditures**<br>
 1.8% of GDP (2024 est.)<br>
-1.7% of GDP (2023 est.)<br>
+1.8% of GDP (2023 est.)<br>
 1.5% of GDP (2022)<br>
 1.7% of GDP (2021)<br>
 2% of GDP (2020)<br>
@@ -714,6 +714,6 @@ has a broad and active space program coordinated with the European Space Agency 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 68,060 (Ukraine) (as of 2 February 2024)<br>
+_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 70,085 (Ukraine) (as of 8 March 2024)<br>
 _stateless persons_: 3,901 (2022)<br>
 

@@ -644,7 +644,7 @@ Army of the Republic of North Macedonia (ARSM or ARNM): joint force with air, gr
 <strong>note: </strong>the Police of Macedonia maintain internal security, including migration and border enforcement, and report to the Ministry of the Interior<br>
 
 **Military expenditures**<br>
-1.9% of GDP (2023 est.)<br>
+1.7% of GDP (2023 est.)<br>
 1.6% of GDP (2022 est.)<br>
 1.5% of GDP (2021)<br>
 1.2% of GDP (2020)<br>
@@ -675,9 +675,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified<br><br><em>North Macedonia-Bulgaria</em>: Bulgaria vetoed North Macedonia's EU accession and disputes the legitimacy of Macedonian identity and language</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,915 (Ukraine) (as of 28 January 2024)<br>
+_refugees (country of origin)_: 18,915 (Ukraine) (as of 22 February 2024)<br>
 _stateless persons_: 521 (2022)<br>
-<strong>note:</strong> 562,235 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
+<strong>note:</strong> 577,980 estimated refugee and migrant arrivals (January 2015-February 2024)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

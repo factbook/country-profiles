@@ -657,6 +657,6 @@ Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham - Libya (ISIS-L); al-
 <p><em>Libya-Algeria:</em> while dormant, Libya has long claimed about 32,000 sq km in southeastern Algeria south of the Libyan town of Ghat  <br><br><em>Libya-Chad:</em> various Chadian rebels from the Aozou region reside in southern Libya; Libyan forces clashed with Chadian rebels in September 2021</p> <p><em>Libya-Egypt</em>: none identified</p> <p><em>Libya-Niger</em>: the boundary is poorly defined but has never been disputed by either country</p> <p><em>Libya-Sudan</em>: none identified</p> <p><em>Libya-Tunisia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 24,887 (Sudan) (refugees and asylum seekers), 11,623 (Syria) (refugees and asylum seekers), 8,302 (Eritrea) (2023)<br>
+_refugees (country of origin)_: 11,623 (Syria) (refugees and asylum seekers), 8,302 (Eritrea) (2023); 6,293 (Sudan) (refugees and asylum seekers) (2024)<br>
 _IDPs_: 125,802 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2023)<br>
 

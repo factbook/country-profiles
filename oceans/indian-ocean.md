@@ -5,7 +5,7 @@ _Oceans / Oceans_
 ## Introduction
 
 **Background**<br>
-The Indian Ocean is the third largest of the world's five oceans (after the Pacific Ocean and Atlantic Ocean, but larger than the Southern Ocean and Arctic Ocean). Four critically important access waterways are the Suez Canal (Egypt), Bab el Mandeb (Djibouti-Yemen), Strait of Hormuz (Iran-Oman), and Strait of Malacca (Indonesia-Malaysia). The decision by the International Hydrographic Organization in the spring of 2000 to delimit a fifth ocean, the Southern Ocean, removed the portion of the Indian Ocean south of 60 degrees south latitude.<br>
+The Indian Ocean is the third largest of the world's five ocean basins (after the Pacific Ocean and Atlantic Ocean, but larger than the Southern Ocean and Arctic Ocean). Four critically important access waterways are the Suez Canal (Egypt), Bab el Mandeb (Djibouti-Yemen), Strait of Hormuz (Iran-Oman), and Strait of Malacca (Indonesia-Malaysia). The decision by the International Hydrographic Organization in the spring of 2000 to delimit a fifth world ocean basin, the Southern Ocean, removed the portion of the Indian Ocean south of 60 degrees south latitude.<br>
 
 ## Geography
 
@@ -67,7 +67,7 @@ major chokepoints include Bab el Mandeb, Strait of Hormuz, Strait of Malacca, so
 ## Environment
 
 **Environment - current issues**<br>
-marine pollution caused by ocean dumping, waste disposal, and oil spills; deep sea mining; oil pollution in Arabian Sea, Persian Gulf, and Red Sea; coral reefs threatened due to climate change, direct human pressures, and inadequate governance, awareness, and political will; loss of biodiversity; endangered marine species include the dugong, seals, turtles, and whales<br>
+marine pollution caused by ocean dumping, improper waste disposal, and oil spills; deep sea mining; oil pollution in Arabian Sea, Persian Gulf, and Red Sea; coral reefs threatened due to climate change, direct human pressures, and inadequate governance, awareness, and political will; loss of biodiversity; endangered marine species include the dugong, seals, turtles, and whales<br>
 
 **Climate**<br>
 northeast monsoon (December to April), southwest monsoon (June to October); tropical cyclones occur during May/June and October/November in the northern Indian Ocean and January/February in the southern Indian Ocean<br>

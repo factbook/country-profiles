@@ -676,7 +676,7 @@ Czech Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (2024)
 
 **Military expenditures**<br>
 1.5% of GDP (2023 est.)<br>
-1.3% of GDP (2022 est.)<br>
+1.3% of GDP (2022)<br>
 1.4% of GDP (2021)<br>
 1.3% of GDP (2020)<br>
 1.2% of GDP (2019)<br>

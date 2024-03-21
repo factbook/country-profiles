@@ -227,9 +227,9 @@ _men married by age 18_: 17.1% (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 37.4%<br>
-_male_: 49.5%<br>
-_female_: 25.8% (2018)<br>
+_total population_: 37.5%<br>
+_male_: 49.2%<br>
+_female_: 26.2% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 7 years<br>
@@ -680,6 +680,6 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with South Sudan over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with Sudan over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 13,844 (Sudan) (refugees since 15 April 2023), 6,686 (Democratic Republic of Congo) (2023)<br>
+_refugees (country of origin)_: 28,217 (Sudan) (refugees since 15 April 2023), 6,700 (Democratic Republic of the Congo) (2024)<br>
 _IDPs_: 490,868 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2023)<br>
 

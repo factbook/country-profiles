@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-The Bulgars, a Central Asian Turkic tribe, merged with the local Slavic inhabitants in the late 7th century to form the first Bulgarian state. In succeeding centuries, Bulgaria struggled with the Byzantine Empire to assert its place in the Balkans, but by the end of the 14th century the country was overrun by the Ottoman Turks. Northern Bulgaria attained autonomy in 1878, and all of Bulgaria became independent from the Ottoman Empire in 1908. Having fought on the losing side in both World Wars, Bulgaria fell within the Soviet sphere of influence and became a People's Republic in 1946. Communist domination ended in 1990, when Bulgaria held its first multiparty election since World War II and began the contentious process of moving toward political democracy and a market economy while combating inflation, unemployment, corruption, and crime. The country joined NATO in 2004 and the EU in 2007.<br>
+The Bulgars, a Central Asian Turkic tribe, merged with the local Slavic inhabitants in the late 7th century to form the first Bulgarian state. In succeeding centuries, Bulgaria struggled with the Byzantine Empire to assert its place in the Balkans, but by the end of the 14th century, the Ottoman Turks overran the country. Northern Bulgaria attained autonomy in 1878, and all of Bulgaria became independent from the Ottoman Empire in 1908. Having fought on the losing side in both World Wars, Bulgaria fell within the Soviet sphere of influence and became a People's Republic in 1946. Communist domination ended in 1990, when Bulgaria held its first multiparty election since World War II and began the contentious process of moving toward political democracy and a market economy while combating inflation, unemployment, corruption, and crime. The country joined NATO in 2004 and the EU in 2007.<br>
 
 ## Geography
 
@@ -688,7 +688,7 @@ Bulgarian Armed Forces (aka Bulgarian Army): Land Forces, Air Force, Navy<br><br
 **Military expenditures**<br>
 2.1% of GDP (2024 est.)<br>
 1.9% of GDP (2023 est.)<br>
-1.7% of GDP (2022)<br>
+1.6% of GDP (2022)<br>
 1.6% of GDP (2021)<br>
 1.6% of GDP (2020)<br>
 
@@ -727,9 +727,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 67,770 (Ukraine) (as of 14 February 2024)<br>
+_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 72,775 (Ukraine) (as of 8 March 2024)<br>
 _stateless persons_: 1,129 (2022)<br>
-<strong>note:</strong> 100,671 estimated refugee and migrant arrivals (January 2015-August 2023); Bulgaria is predominantly a transit country<br>
+<strong>note:</strong> 106,227 estimated refugee and migrant arrivals (January 2015-January 2024); Bulgaria is predominantly a transit country<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Bulgaria does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials convicted more traffickers, informally adopted new National Action Plans for 2022 and 2023, and utilized seized assets to supplement shelters and service centers assisting victims; the government mandated specialized training for investigative prosecutors and magistrates and required assignment of trafficking cases to those individuals; the National Investigative Service established a cyber unit, focusing on internet-based exploitation, including trafficking; Bulgaria and Germany cooperated on a bilateral program to combat labor trafficking, information campaigns targeting the large number of Bulgarians seeking jobs in Germany, and a referral mechanism for trafficking cases between countries; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; courts continued to issue suspended sentences for most convicted traffickers; officials did not adequately screen for trafficking indicators or identify victims, particularly among vulnerable groups such as Roma; the government provided limited funding to NGOs for victim services and a national commission for capacity building and implementation of anti-trafficking activities, limiting the sustainability of the government&rsquo;s anti-trafficking systems; a lack of resources, legal authority, and training impeded law enforcement; corruption in law enforcement and the judiciary hindered progress, and alleged complicity in trafficking crimes persisted; therefore, Bulgaria remained on Tier 2 Watch List for the second consecutive year (2023)&nbsp;<br>

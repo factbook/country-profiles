@@ -658,8 +658,8 @@ Luxembourg Army (l'Armée Luxembourgeoise) (2024)<br>
 <strong>note:</strong> the Grand Ducal Police maintain internal security and report to the Ministry of Internal Security<br>
 
 **Military expenditures**<br>
-0.7% of GDP (2023 est.)<br>
-0.6% of GDP (2022 est.)<br>
+1% of GDP (2023 est.)<br>
+0.6% of GDP (2022)<br>
 0.5% of GDP (2021)<br>
 0.6% of GDP (2020)<br>
 0.6% of GDP (2019)<br>

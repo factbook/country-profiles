@@ -687,8 +687,8 @@ Spanish Armed Forces (Fuerzas Armadas de España): Army (Ejército de Tierra), S
 <strong>note 1:</strong> the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defense and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance<br><br><strong>note 2:</strong> the Emergency Response Unit was established in 2006 as a separate branch of service for responding to natural disasters and providing disaster relief both domestically and abroad; it has personnel from all the other military services<br><br><strong>note 3:</strong> the Spanish National Police (Cuerpo Nacional de Policía, CNP) and the Civil Guard maintain internal security as well as migration and border enforcement under the authority of the Ministry of the Interior; the regional police under the authority of the Catalan and the Basque Country regional governments and municipal police throughout the country also support domestic security <br><br><strong>note 4:</strong> the military has a Common Corps of four specialized corps that provide professional services to all the branches of the Armed Forces and the Civil Guard, including comptroller, legal, medical, and music services<br><br><strong>note 5: </strong>the Royal Guard is an independent regiment of the military dedicated to the protection of the King and members of the royal family; it is made up of members of the Army, Navy, Air Force, and Common Corps<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2023 est.)<br>
-1.1% of GDP (2022 est.)<br>
+1.2% of GDP (2023 est.)<br>
+1.2% of GDP (2022)<br>
 1% of GDP (2021)<br>
 1% of GDP (2020)<br>
 0.9% of GDP (2019)<br>
@@ -735,9 +735,9 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 438,400 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022); 192,405 (Ukraine) (as of 31 January 2024)<br>
+_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 438,400 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022); 192,390 (Ukraine) (as of 29 February 2024)<br>
 _stateless persons_: 6,489 (2022)<br>
-<strong>note: </strong>349,417 estimated refugee and migrant arrivals, including Canary Islands (January 2015-February 2024)<br>
+<strong>note: </strong>349,931 estimated refugee and migrant arrivals, including Canary Islands (January 2015-March 2024)<br>
 
 **Illicit drugs**<br>
 <p>a European transit point for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection or altered to escape detection after which chemists within Spain extract and reconstitute any altered form of cocaine, preparing it for distribution within Europe;  minor domestic drug production; occasionally synthetic drugs, including ketamine, new psychoactive substances (NPS), and MDMA transit through Spain to the United States</p><br>
