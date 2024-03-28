@@ -304,7 +304,7 @@ _email address and website_: <br>washington@nanoq.gl<br><br>All Greenlandic Repr
 _chief of mission_: Consul Monica BLAND (since July 2023)<br>
 _embassy_: Aalisartut Aqqutaa 47<br>Nuuk 3900<br>Greenland<br>
 _telephone_: (+299) 384100<br>
-_email address and website_: <br>USConsulateNuuk@state.gov<br><br>https://dk.usembassy.gov/embassy-consulate/nuuk/<br>
+_email address and website_: <br>USConsulateNuuk@state.gov<br><br>Homepage - U.S. Embassy &amp; Consulate in the Kingdom of Denmark (usembassy.gov)<br>
 
 **Flag description**<br>
 two equal horizontal bands of white (top) and red with a large disk slightly to the hoist side of center - the top half of the disk is red, the bottom half is white; the design represents the sun reflecting off a field of ice; the colors are the same as those of the Danish flag and symbolize Greenland's links to the Kingdom of Denmark<br>

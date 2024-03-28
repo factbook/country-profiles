@@ -360,8 +360,8 @@ _email address and website_: <br>info@pngembassy.org<br><br>http://www.pngembass
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador-designate Ann Marie YASTISHOCK (since 2 February 2024); note - also accredited to the Solomon Islands and Vanuatu<br>
-_embassy_: Harbour City Road, Port Moresby 121, NCD, Papua New Guinea<br>
-_mailing address_: Harbour City Road, Port Moresby 121, NCD, Papua New Guinea<br>
+_embassy_: Harbour City Road, Konedobu, Port Moresby, NCD, Papua New Guinea<br>
+_mailing address_: 4240 Port Moresby Pl, Washington DC 20521-4240<br>
 _telephone_: [675] 308-9100<br>
 _email address and website_: <br>ConsularPortMoresby@state.gov<br><br>https://pg.usembassy.gov/<br>
 

@@ -379,11 +379,10 @@ _email address and website_: <br>washington.dc@embamoc.gov.mz<br><br>https://usa
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Peter Hendrick VROOMAN (since 3 March 2022)<br>
-_embassy_: Avenida Kenneth Kaunda, 193, Caixa Postal, 783, Maputo<br>
+_embassy_: Avenida Marginal 5467, Maputo<br>
 _mailing address_: 2330 Maputo Place, Washington DC&nbsp; 20521-2330<br>
-_telephone_: [258] (21) 49-27-97<br>
-_FAX_: [258] (21) 49-01-14<br>
-_email address and website_: <br>consularmaputos@state.gov<br><br>https://mz.usembassy.gov/<br>
+_telephone_: [258] (84) 095-8000<br>
+_email address and website_: <br>MaputaConsular@state.gov<br><br>https://mz.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of green (top), black, and yellow with a red isosceles triangle based on the hoist side; the black band is edged in white; centered in the triangle is a yellow five-pointed star bearing a crossed rifle and hoe in black superimposed on an open white book; green represents the riches of the land, white peace, black the African continent, yellow the country's minerals, and red the struggle for independence; the rifle symbolizes defense and vigilance, the hoe refers to the country's agriculture, the open book stresses the importance of education, and the star represents Marxism and internationalism<br>

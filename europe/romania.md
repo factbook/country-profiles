@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-The principalities of Wallachia and Moldavia -- for centuries under the control of the Turkish Ottoman Empire -- secured their autonomy through the Treaty of Paris in 1856. They were de facto linked in 1859 and formally united in 1862 under the new name of Romania. The country joined the Allied Powers in World War I and subsequently acquired new territories -- most notably Transylvania -- that more than doubled its size. In 1940, Romania allied with the Axis powers and participated in the 1941 German invasion of the USSR. Three years later, overrun by the Soviets, Romania signed an armistice. The post-war Soviet occupation led to the formation of a communist "people's republic" in 1947 and the abdication of the king. The decades-long rule of dictator Nicolae CEAUSESCU, who took power in 1965, and his Securitate police state became increasingly oppressive and draconian through the 1980s. CEAUSESCU was overthrown and executed in late 1989. Former communists dominated the government until 1996 when they were swept from power. Romania joined NATO in 2004 and the EU in 2007.<br>
+The principalities of Wallachia and Moldavia -- for centuries under the control of the Turkish Ottoman Empire -- secured their autonomy through the Treaty of Paris in 1856. They were de facto linked in 1859 and formally united in 1862 under the new name of Romania. The country joined the Allied Powers in World War I and subsequently acquired new territories -- most notably Transylvania -- that more than doubled its size. In 1940, Romania allied with the Axis powers and participated in the 1941 German invasion of the USSR. Three years later, overrun by the Soviets, Romania signed an armistice. The post-war Soviet occupation led to the formation of a communist "people's republic" in 1947 and the abdication of the king. The decades-long rule of dictator Nicolae CEAUSESCU, who took power in 1965, and his Securitate police state became increasingly oppressive and draconian through the 1980s. CEAUSESCU was overthrown and executed in late 1989. Former communists dominated the government until 1996 when they were swept from power. Romania joined NATO in 2004, the EU in 2007, and the Schengen Area for air and sea travel in 2024.<br>
 
 ## Geography
 
@@ -729,7 +729,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 77,250 (Ukraine) (as of 10 March 2024)<br>
+_refugees (country of origin)_: 77,250 (Ukraine) (as of 24 March 2024)<br>
 _stateless persons_: 297 (2022)<br>
 <strong>note:</strong> 16,085 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
 

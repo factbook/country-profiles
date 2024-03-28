@@ -685,7 +685,6 @@ F<br>
 
 **Heliports**<br>
 290 (2024)<br>
-<strong>note:</strong> Includes 11 heliports in French overseas departments (French Guiana, Guadeloupe, Martinique, Reunion)<br>
 
 **Pipelines**<br>
 15,322 km gas, 2,939 km oil, 5,084 km refined products (2013)<br>

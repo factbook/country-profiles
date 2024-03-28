@@ -22,6 +22,7 @@ AsiaEurope<br>
 _total_: 603,550 sq km<br>
 _land_: 579,330 sq km<br>
 _water_: 24,220 sq km<br>
+<strong>note:</strong> Russia annexed Crimea in 2014, an area of approximately 27,000 sq km (10,400 sq miles)<br>
 
 **Area - comparative**<br>
 almost four times the size of Georgia; slightly smaller than Texas<br>

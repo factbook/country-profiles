@@ -367,7 +367,7 @@ _email address and website_: <br>embasslao@gmail.com<br><br>https://laoembassy.c
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute;e d&rsquo;Affaires Michelle OUTLAW (since August 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Michelle OUTLAW (since August 2023)<br>
 _embassy_: Ban Somvang Tai, Thadeua Road, Km 9,&nbsp;Hatsayfong District, Vientiane<br>
 _mailing address_: 4350 Vientiane Place, Washington DC&nbsp; 20521-4350<br>
 _telephone_: [856] 21-48-7000<br>

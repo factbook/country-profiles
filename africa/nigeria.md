@@ -382,7 +382,7 @@ _email address and website_: <br>info@nigeriaembassyusa.org<br><br>https://www.n
 _consulate(s) general_: Atlanta, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires ad interim&nbsp;David GREENE (since 31 March 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires David GREENE (since 31 March 2023)<br>
 _embassy_: Plot 1075 Diplomatic Drive, Central District Area, Abuja<br>
 _mailing address_: 8320 Abuja Place, Washington DC&nbsp; 20521-8320<br>
 _telephone_: [234] (9) 461-4000<br>

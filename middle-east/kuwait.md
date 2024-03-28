@@ -345,7 +345,7 @@ none; the government does not recognize any political parties or allow their for
 ABEDA, AfDB (nonregional member), AFESD, AMF, BDEAC, CAEU, CD, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, Paris Club (associate), PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNRWA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Alzain Sabah Naser Saud&nbsp;ALSABAH (since 19 April 2023)<br>
+_chief of mission_: Ambassador Alzain Sabah Naser Saud ALSABAH (since 19 April 2023)<br>
 _chancery_: 2940 Tilden Street NW, Washington, DC 20008 (po)<br>
 _telephone_: [1] (202) 966-0702<br>
 _FAX_: [1] (202) 966-8468<br>

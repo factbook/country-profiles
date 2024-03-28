@@ -376,7 +376,7 @@ _FAX_: [1] (202) 342-2578<br>
 _email address and website_: burundiembusadc@gmail.com<br><br>https://burundiembassy-usa.com/index.php<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Keith GILGES (since June 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Keith GILGES (since June 2022)<br>
 _embassy_: B.P. 1720, Avenue Des Etats-Unis, Bujumbura<br>
 _mailing address_: 2100 Bujumbura Place, Washington DC&nbsp; 20521-2100<br>
 _telephone_: [257] 22-207-000<br>
@@ -677,10 +677,10 @@ the FDNB is responsible for defending Burundi’s territorial integrity and prot
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>cross-border conflicts persist among Tutsi, Hutu, other ethnic groups, associated political rebels, armed gangs, and various government forces in the Great Lakes region<em><br><br>Burundi-Rwanda: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><br><br></p><br>
+<p><em>Burundi-Rwanda: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 86,503 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
+_refugees (country of origin)_: 86,701 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
 _IDPs_: 76,987 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1993 coup and fighting between government forces and rebel groups; violence since April 2015) (2023)<br>
 _stateless persons_: 767 (mid-year 2021)<br>
 

@@ -339,7 +339,7 @@ _residency requirement for naturalization_: 15 years<br>
 _chief of state_: President Ram Chandra POUDEL (since 13 March 2023); Vice President Ram Sahaya Prasad YADAV (since 20 March 2023)<br>
 _head of government_: Prime Minister Pushpa Kamal DAHAL (since 26 December 2022); Deputy Prime Ministers Narayan Kaji SHRESTHA (since 26 December 2022), Rabi LAMICHHANE (since 26 December 2022), Raghubir MAHASETH (since 6 March 2024), Upendra YADAV (since 10 March 2024) (an)<br>
 _cabinet_: Council of Ministers appointed by the prime minister; cabinet split between Nepali Congress, Communist Party of Nepal-Maoist Centre, and various coalition partners<br>
-_elections/appointments_: president indirectly elected by an electoral college of the Federal Parliament and of the state assemblies for a 5-year term (eligible for a second term); election last held on 9 March 2023 (next to be held in 2028); prime minister indirectly elected by the Federal Parliament<br>
+_elections/appointments_: president indirectly elected by an electoral college of the Federal Parliament and of the state assemblies for a 5-year term (eligible for a second term); election last held on 9 March 2023 (next to be held in 2028)<br>
 _election results_: <em>2023:</em> Ram Chandra POUDEL elected president; electoral college vote - Ram Chandra POUDEL (NC) 33,802, Subash Chandra NEMBANG (CPN-UML) 15,518<br>
 
 **Legislative branch**<br>
@@ -353,7 +353,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: High Court; district courts<br>
 
 **Political parties and leaders**<br>
-<p>Federal Socialist Forum, Nepal or FSFN [Upendra YADAV]<br>Communist Party of Nepal (Maoist Centre) or CPN-MC [Pushpa Kamal DAHAL]<br>Communist Party of Nepal (Unified Marxist-Leninist) or CPN-UML [Khadga Prasad OLI]<br>Communist Party of Nepal (Unified Socialist) or CPN-US [Madhav Kumar NEPAL]<br>Janamat Party [Chandra Kant RAUT]<br>Loktantrik Samajwadi Party [Mahantha THAKUR]<br>Naya Shakti Party, Nepal [Baburam BHATTARAI]<br>Nepali Congress or NC [Sher Bahadur DEUBA]<br>Nepal Mazdoor Kisan Party (Nepal Workers' and Peasants' Party) or NWPP [Narayan Man BIJUKCHHE]<br>People's Socialist Party [Upendra YAKAV]<br>Rastriya Janamorcha (National People's Front) [Chitra Bahadur K.C.]<br>Rastriya Janata Party (National People's Party, Nepal) or RJPN [Mahanta THAKUR]<br>Rastriya Prajatantra Party (National Democratic Party) or RPP [Rajendra Prasad LINGDEN]<br>Rastriya Swatantra Party or RSP [Rabi LAMICHHANE]</p><br>
+<p>Communist Party of Nepal (Maoist Centre) or CPN-MC [Pushpa Kamal DAHAL]<br>Communist Party of Nepal (Unified Marxist-Leninist) or CPN-UML [Khadga Prasad OLI]<br>Communist Party of Nepal (Unified Socialist) or CPN-US [Madhav Kumar NEPAL]<br>Janamat Party [Chandra Kant RAUT]<br>Janata Samajbaadi Party or JSP [Upendra YADAV]<br>Loktantrik Samajwadi Party or LSP [Mahantha THAKUR]<br>Naya Shakti Party, Nepal [Baburam BHATTARAI]<br>Nepali Congress or NC [Sher Bahadur DEUBA]<br>Nepal Mazdoor Kisan Party (Nepal Workers' and Peasants' Party) or NWPP [Narayan Man BIJUKCHHE]<br>Rastriya Janamorcha (National People's Front) [Chitra Bahadur K.C.]<br>Rastriya Prajatantra Party (National Democratic Party) or RPP [Rajendra Prasad LINGDEN]<br>Rastriya Swatantra Party or RSP [Rabi LAMICHHANE]</p><br>
 
 **International organization participation**<br>
 ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNDOF, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -364,7 +364,7 @@ _chancery_: 2730 34th Place NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 667-4550<br>
 _FAX_: [1] (202) 667-5534<br>
 _email address and website_: <br>info@nepalembassyusa.org<br><br>https://us.nepalembassy.gov.np/<br>
-_consulate(s) general_: Chicago, New York<br>
+_consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Dean R. THOMPSON (since October 2022)<br>

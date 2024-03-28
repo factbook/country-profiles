@@ -307,9 +307,9 @@ presidential republic<br>
 **Capital**<br>
 _name_: Astana<br>
 _geographic coordinates_: 51 10 N, 71 25 E<br>
-_time difference_: UTC+6 (11 hours ahead of Washington, DC, during Standard Time)<br>
-_time zone note_: Kazakhstan has two time zones<br>
-_etymology_: the name means "capital city" in Kazakh<br><br>
+_time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)<br>
+_time zone note_: On 1 March 2024, Kazakhstan moved from two time zones to using one time zone<br>
+_etymology_: the name means "capital city" in Kazakh<br>
 <strong>note:</strong> on 17 September 2022, Kazakhstan changed the name of its capital city from Nur-Sultan back to Astana; this was not the first time the city had its name changed; founded in 1830 as Akmoly, it became Akmolinsk in 1832, Tselinograd in 1961, Akmola (Aqmola) in 1992, Astana in 1998, and Nur-Sultan in 2019; the latest name change occurred just three and a half years after the city was renamed to honor a long-serving (28-year) former president, who subsequently fell out of favor<br>
 
 **Administrative divisions**<br>

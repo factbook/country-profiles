@@ -363,7 +363,7 @@ _FAX_: [1] (202) 223-6091<br>
 _email address and website_: <br>tajemus@mfa.tj; tajikistan@verizon.net<br><br>https://mfa.tj/en/washington<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Manuel P. MICALLER JR (since 9 March 2023)<br>
+_chief of mission_: Ambassador Manuel P. MICALLER Jr. (since 9 March 2023)<br>
 _embassy_: 109-A Ismoili Somoni Avenue (Zarafshon district), Dushanbe 734019<br>
 _mailing address_: 7090 Dushanbe Place, Washington DC&nbsp; 20521-7090<br>
 _telephone_: [992] (37) 229-20-00<br>

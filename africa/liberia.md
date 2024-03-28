@@ -355,7 +355,7 @@ _email address and website_: amb.office@liberianembassyus.org<br><br>http://www.
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant) Charges d'Affairs Catherine RODRIGUEZ (since 11 August 2023)<br>
+_chief of mission_: Ambassador (vacant) Charg&eacute; d'Affaires Catherine RODRIGUEZ (since 11 August 2023)<br>
 _embassy_: 502 Benson Street, Monrovia<br>
 _mailing address_: 8800 Monrovia Place, Washington DC&nbsp; 20521-8800<br>
 _telephone_: [231] 77-677-7000<br>

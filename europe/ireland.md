@@ -319,7 +319,7 @@ _residency requirement for naturalization_: 4 of the previous 8 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Michael D. HIGGINS (since 11 November 2011)<br>
-_head of government_: Taoiseach (Prime Minister) Leo VARADKAR (since 16 December 2022)<br>
+_head of government_: Taoiseach (Prime Minister) Leo VARADKAR (since 16 December 2022); note - VARADKAR resigned on 20 March 2024 but remains in caretaker status until a successor is appointed<br>
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)<br>
 _elections/appointments_: president directly elected by majority popular vote for a 7-year term (eligible for a second term); election last held on 26 October 2018 (next to be held no later than November 2025); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president<br>
 _election results_: <em><br>2018:</em> Michael D. HIGGINS reelected president in first round; percent of vote in first round - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%<br><br><em>2011: </em>Michael D. HIGGINS elected president in second round; percent of vote in first round - Michael D. HIGGINS (Labor) 39.6%, Sean GALLAGHER (independent) 28.5%, Martin McGuinness (Sinn Féin) 13.7%, Gay Mitchell (Fine Gael) 6.4%, David Norris (independent) 6.2%, Mary DAVIS (independent) 2.7%; percent of vote in second round - Michael D. HIGGINS 56.8%, Sean GALLAGHER 35.5%<br>
@@ -335,7 +335,7 @@ _judge selection and term of office_: judges nominated by the prime minister and
 _subordinate courts_: High Court, Court of Appeal; circuit and district courts; criminal courts<br>
 
 **Political parties and leaders**<br>
-Aontu [Peadar TOIBIN]<br>Solidarity-People Before Profit or PBPS [collective leadership]<br>Fianna Fail [Micheal MARTIN]<br>Fine Gael [Leo VARADKAR]<br>Green Party [Eamon RYAN]<br>Human Dignity Alliance [Ronan MULLEN]<br>Labor (Labour) Party Ivana BACIK]<br>Right to Change or RTC [Joan COLLINS]<br>Sinn Fein [Mary Lou McDONALD]<br>Social Democrats [Holly CAIRNS]<br>Socialist Party [collective leadership]<br>The Workers' Party [collective leadership]<br>
+Aontu [Peadar TOIBIN]<br>Solidarity-People Before Profit or PBPS [collective leadership]<br>Fianna Fail [Micheal MARTIN]<br>Fine Gael [Simon HARRIS]<br>Green Party [Eamon RYAN]<br>Human Dignity Alliance [Ronan MULLEN]<br>Labor (Labour) Party Ivana BACIK]<br>Right to Change or RTC [Joan COLLINS]<br>Sinn Fein [Mary Lou McDONALD]<br>Social Democrats [Holly CAIRNS]<br>Socialist Party [collective leadership]<br>The Workers' Party [collective leadership]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), Australia Group, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNIFIL, UNOCI, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>

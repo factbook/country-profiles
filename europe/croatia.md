@@ -88,7 +88,7 @@ _adjective_: Croatian<br>
 <strong>note:</strong> the French designation of "Croate" to Croatian mercenaries in the 17th century eventually became "Cravate" and later came to be applied to the soldiers' scarves - the cravat; Croatia celebrates Cravat Day every 18 October<br>
 
 **Ethnic groups**<br>
-Croat 90.4%, Serb 4.4%, other 4.4% (including Bosniak, Hungarian, Slovene, Czech, and Romani), unspecified 0.8% (2011 est.)<br>
+Croat 91.6%, Serb 3.2%, other 3.9% (including Bosniak, Romani, Albanian, Italian, and Hungarian), unspecified 1.3% (2021 est.)<br>
 
 **Languages**<br>
 Croatian (official) 95.6%, Serbian 1.2%, other 3% (including Hungarian, Czech, Slovak, and Albanian), unspecified 0.2% (2011 est.)<br>

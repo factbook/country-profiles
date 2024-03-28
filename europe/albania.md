@@ -366,7 +366,7 @@ _email address and website_: <br>embassy.washington@mfa.gov.al<br><br>http://www
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires David WISNER (since August 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires David WISNER (since August 2023)<br>
 _embassy_: Rruga Stavro Vinjau, No. 14, Tirana<br>
 _mailing address_: 9510 Tirana Place, Washington DC&nbsp; 20521-9510<br>
 _telephone_: [355] 4 2247-285<br>

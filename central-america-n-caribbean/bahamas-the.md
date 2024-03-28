@@ -320,7 +320,7 @@ _email address and website_: <br>embassy@bahamasembdc.org<br><br>https://www.bah
 _consulate(s) general_: Atlanta, Miami, New York, Washington, DC<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d' Affaires Usha E. PITTS (since 1 January 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Usha E. PITTS (since 1 January 2021)<br>
 _embassy_: 42 Queen Street, Nassau<br>
 _mailing address_: 3370 Nassau Place, Washington, DC 20521-3370<br>
 _telephone_: [1] (242) 322-1181<br>

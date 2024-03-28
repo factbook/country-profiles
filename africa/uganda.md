@@ -346,7 +346,7 @@ _chief of state_: President Yoweri Kaguta MUSEVENI (since 26 January 1986); Vice
 _head of government_: President Yoweri Kaguta MUSEVENI (since 26 January 1986); Vice President Jessica Rose Epel ALUPO (since 21 June 2021); Prime Minister Robinah NABBANJA (since 21 June 2021); First Deputy Prime Minister Rebecca KADAGA (since 24 June 2021); Second Deputy Prime Minister Moses ALI (since 21 June 2021); note - the prime minister is appointed by the president, with the approval of parliament, to coordinate the work of the cabinet and advise the president.     <p class="xmsonormal"> </p><br>
 _cabinet_: Cabinet appointed by the president from among elected members of the National Assembly or persons who qualify to be elected as members of the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 14 January 2021 (next to be held in 2026)<br>
-_election results_: <em><br>2021: </em>Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 58.6%, Bobi WINE (NUP) 34.8%, Patrick Oboi AMURIAT (FDC) 3.2%, other 3.4%<br><em><br><em>2016: </em></em>Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 60.6%, Kizza BESIGYE (FDC) 35.6%, other 3.8%<br>
+_election results_: <em><br>2021: </em>Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 58.6%, Robert Kyagulanyi SSENTAMU (aka Bobi WINE) (NUP) 34.8%, Patrick Oboi AMURIAT (FDC) 3.2%, other 3.4%<br><em><br><em>2016: </em></em>Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 60.6%, Kizza BESIGYE (FDC) 35.6%, other 3.8%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Parliament (556 seats; 353 members directly elected in single-seat constituencies by simple majority vote, 146 for women directly elected in single-seat districts by simple majority vote, and 30 "representatives" reserved for special interest groups - army 10, disabled 5, youth 5, labor 5, older persons 5; 27 ex officio members appointed by the president; members serve 5-year terms)<br>
@@ -365,14 +365,14 @@ Democratic Party or DP [Norbert MAO]<br>Forum for Democratic Change or FDC [Patr
 ACP, AfDB, ATMIS, AU, C, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITC, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, PCA, UN, UNCDF, UNCTAD, UNECA, UNDP, UNFPA, UNESCO, UNHCR, UNICEF, UNIDO, UNISFA, UNOCI, UNOPS, UNSOM, UNWTO, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Robinah <strong>KAKONGE</strong> (since 12 December 2022)<br>
+_chief of mission_: Ambassador Robinah&nbsp;KAKONGE (since 12 December 2022)<br>
 _chancery_: 5911 16th Street NW, Washington, DC 20011<br>
 _telephone_: [1] (202) 726-7100<br>
 _FAX_: [1] (202) 726-1727<br>
 _email address and website_: <br>washington@mofa.go.ug; info@ugandaembassyus.org<br><br>https://washington.mofa.go.ug/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador William W. POPP (since 20 September 2024)<br>
+_chief of mission_: Ambassador William W. POPP (since 20 September 2023)<br>
 _embassy_: 1577 Ggaba Road, Kampala<br>
 _mailing address_: 2190 Kampala Place, Washington DC&nbsp; 20521-2190<br>
 _telephone_: [256] (0) 312-306-001<br>
@@ -718,6 +718,6 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p><em>Uganda-Kenya:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo (DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 505,738 (Democratic Republic of the Congo), 34,368 (Eritrea), 23,388 (Rwanda), 8,936 (Ethiopia), 5,776 (Sudan) (2023); 926,550 (South Sudan) (refugees and asylum seekers), 41,606 (Somalia), 40,180 (Burundi) (2024)<br>
+_refugees (country of origin)_: 34,368 (Eritrea), 23,388 (Rwanda), 8,936 (Ethiopia), 5,776 (Sudan) (2023); 931,666 (South Sudan) (refugees and asylum seekers), 508,495 (Democratic Republic of the Congo), 41,593 (Somalia), 40,326 (Burundi) (2024)<br>
 _stateless persons_: 67,000 (2022)<br>
 

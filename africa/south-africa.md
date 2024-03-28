@@ -674,7 +674,6 @@ ZS<br>
 _total_: 30,400 km (2021)<br>
 _standard gauge_: 80 km (2021) 1.435-m gauge (80 km electrified)<br>
 _narrow gauge_: 19,756 km (2014) 1.065-m gauge (8,271 km electrified)<br>
-_other_: (2014) 1,150 km (passenger rail, gauge unspecified, 1,115.5 km electrified)<br>
 
 **Roadways**<br>
 _total_: 750,000 km (2016)<br>
@@ -746,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>South Africa-Botswana</em>: none identified</p> <p><em>South Africa-Eswatini</em>: Eswatini seeks to reclaim land it says was stolen by South Africa</p> <p><em>South Africa-Lesotho</em>: crossborder livestock thieving, smuggling of drugs and arms, and illegal migration are problematic</p> <p><em>South Africa-Mozambique</em>: animal poachers cross the South Africa-Mozambique border to hunt wildlife in South Africa’s Kruger National Park; border fences were removed in some areas to allow animals to roam between nature reserves in the two countries; improved patrols, technology, and crossborder cooperation are reducing the problem</p> <p><em>South Africa-Namibia</em>: the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; the location of the border could affect diamond mining rights; South Africa has always claimed that the northern bank of the Orange River is the border between the two countries, while Namibia’s constitution states that the border lies in the middle of the Orange River</p> <p><em>South Africa-various</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>South Africa-Zimbabwe</em>: Zimbabweans migrate illegally into South Africa in search of work or smuggle goods to sell at a profit back home</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,388 (Somalia), 15,240 (Ethiopia) (mid-year 2022); 42,080 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
+_refugees (country of origin)_: 22,388 (Somalia), 15,240 (Ethiopia) (mid-year 2022); 42,132 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
 _IDPs_: 5,000 (2020)<br>
 
 **Trafficking in persons**<br>

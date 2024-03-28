@@ -658,7 +658,7 @@ the Royal Brunei Armed Forces were formed in 1961 with British support as the Br
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>per Letters of Exchange signed in 2009, Malaysia in 2010 ceded two hydrocarbon concession blocks to Brunei in exchange for Brunei's sultan dropping claims to the Limbang corridor, which divides Brunei; nonetheless, Brunei claims a maritime boundary extending as far as a median with Vietnam, thus asserting an implicit claim to Louisa Reef</p><br>
+none identified<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 20,863 (2022); note - thousands of stateless persons, often ethnic Chinese, are permanent residents and their families have lived in Brunei for generations; obtaining citizenship is difficult and requires individuals to pass rigorous tests on Malay culture, customs, and language; stateless residents receive an International Certificate of Identity, which enables them to travel overseas; the government is considering changing the law prohibiting non-Bruneians, including stateless permanent residents, from owning land<br>

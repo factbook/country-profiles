@@ -320,8 +320,8 @@ _residency requirement for naturalization_: unknown<br>
 21 years of age; universal; note - members of the military and security forces by law cannot vote<br>
 
 **Executive branch**<br>
-_chief of state_: Sultan and Prime Minister HAYTHAM bin Tariq Al Said (since 11 January 2020); note - the monarch is both chief of state and head of government<br>
-_head of government_: Sultan and Prime Minister HAYTHAM bin Tariq Al Said (since 11 January 2020)<br>
+_chief of state_: Sultan and Prime Minister HAITHAM bin Tarik Al Said (since 11 January 2020); note - the monarch is both chief of state and head of government<br>
+_head of government_: Sultan and Prime HAITHAM bin Tarik Al Said (since 11 January 2020)<br>
 _cabinet_: Cabinet appointed by the monarch<br>
 
 **Legislative branch**<br>
@@ -348,7 +348,7 @@ _FAX_: [1] (202) 745-4933<br>
 _email address and website_: <br>washington@fm.gov.om<br><br>https://www.culturaloffice.info/aboutomaniembassy<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge D'Affaires Leslie ORDEMAN (since August 2023)<br>
+_chief of mission_: Ambassador Ana ESCROGIMA (since 4 December 2023)<br>
 _embassy_: P.C. 115, Madinat Al Sultan Qaboos, Muscat<br>
 _mailing address_: 6220 Muscat Place, Washington DC&nbsp; 20521<br>
 _telephone_: [968] 2464-3400<br>

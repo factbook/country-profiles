@@ -334,8 +334,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Zuzana CAPUTOVA (since 15 June 2019)<br>
 _head of government_: Prime Minister Robert FICO (since 25 October 2023); Deputy Prime Ministers Robert KALINAK, Denisa SAKOVA, Tomas TARABA, and Peter KMEC (all since 25 October 2023)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 16 March and 30 March 2019 (next to be held on 23 March 2024); following National Council elections (every 4 years), the president designates a prime minister candidate, usually the leader of the party or coalition that wins the most votes, who must win a vote of confidence in the National Council<br>
-_election results_: <em><br>2019:</em> Zuzana CAPUTOVA elected president in second round; percent of vote - Zuzana CAPUTOVA (PS) 58.4%, Maros SEFCOVIC (independent) 41.6%<br><br><em>2014:</em> Andrej KISKA elected president in second round; percent of vote - Andrej KISKA (independent) 59.4%, Robert FICO (Smer-SD) 40.6%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election first round 23 March 2024 (runoff to be held on 6 April 2024); following National Council elections (every 4 years), the president designates a prime minister candidate, usually the leader of the party or coalition that wins the most votes, who must win a vote of confidence in the National Council<br>
+_election results_: <em><br>2024: </em>percent of vote in first round - Ivan KORCOK (independent) 42.5%; Peter PELLEGRINI (Voice-Social Democracy) 37%; Stefan HARABIN (independent) 11.7%, other 8.8%; runoff to be held on 6 April 2024<em><br><br>2019:</em> Zuzana CAPUTOVA elected president in second round; percent of vote - Zuzana CAPUTOVA (PS) 58.4%, Maros SEFCOVIC (independent) 41.6%<br><br><em>2014:</em> Andrej KISKA elected president in second round; percent of vote - Andrej KISKA (independent) 59.4%, Robert FICO (Smer-SD) 40.6%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Council or Narodna Rada (150 seats; members directly elected in a single- and multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms)<br>
@@ -711,7 +711,7 @@ focused on the development of satellites, satellite subcomponents, and other spa
 none identified<br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 117,265 (Ukraine) (as of 3 March 2024)<br>
+_refugees (country of origin)_: 117,265 (Ukraine) (as of 24 March 2024)<br>
 _stateless persons_: 2,940 (2022)<br>
 
 **Illicit drugs**<br>

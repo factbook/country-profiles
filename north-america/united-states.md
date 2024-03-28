@@ -691,14 +691,14 @@ _by type_: bulk carrier 4, container ship 60, general cargo 96, oil tanker 68, o
 note - oceangoing self-propelled, cargo-carrying vessels of 1,000 gross tons and above<br>
 
 **Ports and terminals**<br>
-_major seaport(s)_: <em><br>Atlantic Ocean:</em> Charleston, Hampton Roads, New York/New Jersey, Savannah<br><em>Pacific Ocean:</em> Long Beach, Los Angeles, Oakland, Seattle/Tacoma<br><em>Gulf of Mexico:</em> Houston<br>
+_major seaport(s)_: <em><br>Atlantic Ocean:</em> Baltimore, Charleston, Hampton Roads, New York/New Jersey, Savannah<br><em>Pacific Ocean:</em> Long Beach, Los Angeles, Oakland, Seattle/Tacoma<br><em>Gulf of Mexico:</em> Houston<br>
 _oil terminal(s)_: LOOP terminal, Haymark terminal<br>
 _container port(s) (TEUs)_: Charleston (2,751,442), Hampton Roads (3,522,834), Houston (3,453,220), Long Beach (9,384,368), Los Angeles (10,677,610), New York/New Jersey (8,985,929), Oakland (2,448,243), Savannah (5,613,163), Seattle/Tacoma (3,736,206) (2021)<br>
 _LNG terminal(s) (export)_: Calcasieu Pass (LA), Cameron (LA), Corpus Christi (TX), Cove Point (MD), Elba Island (GA), Freeport (TX), Sabine Pass (LA)<br>note - two additional export facilities are under construction and expected to begin commercial operations in 2023-2024<br>
 _LNG terminal(s) (import)_: Cove Point (MD), Elba Island (GA), Everett (MA), Freeport (TX), Golden Pass (TX), Hackberry (LA), Lake Charles (LA), Neptune (offshore), Northeast Gateway (offshore), Pascagoula (MS), Sabine Pass (TX)<br>
 _river port(s)_: Baton Rouge, Plaquemines, New Orleans (Mississippi River)<br>
-_cargo ports_: Baton Rouge, Corpus Christi, Hampton Roads, Houston, Long Beach, Los Angeles, New Orleans, New York, Plaquemines (LA), Tampa, Texas City<br>
-_cruise departure ports (passengers)_: Miami, Port Everglades, Port Canaveral, Seattle, Long Beach<br>
+_cargo ports_: Baltimore, Baton Rouge, Corpus Christi, Hampton Roads, Houston, Long Beach, Los Angeles, New Orleans, New York, Plaquemines (LA), Tampa, Texas City<br>
+_cruise departure ports (passengers)_: Baltimore, Long Beach, Miami, Port Everglades, Port Canaveral, Seattle<br>
 
 **Transportation - note**<br>
 the US operates one PC 1 or 2 class heavy icebreaker, two PC 3 or 4 class medium icebreakers, and two PC 5 or 6 class light icebreakers; the heavy and medium icebreakers carry out various polar missions including opening passage for the annual resupply of McMurdo Station in Antarctica<br>note - PC indicates a Polar Class vessel: PC 1 - year-round operation in all polar waters (ice thickness &gt;3 m); PC 2 - year-round operation in moderate multi-year ice conditions (ice thickness up to 3 m); PC 3 - year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 -  summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>

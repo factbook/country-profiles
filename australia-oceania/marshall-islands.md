@@ -329,7 +329,7 @@ _email address and website_: <br>info@rmiembassyus.org<br>
 _consulate(s) general_: Honolulu, Springdale (AR)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Lance POSEY (since 18 August 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Lance POSEY (since 18 August 2023)<br>
 _embassy_: Mejen Weto, Ocean Side, Majuro<br>
 _mailing address_: 4380 Majuro Place, Washington DC&nbsp; 20521-4380<br>
 _telephone_: [692] 247-4011<br>

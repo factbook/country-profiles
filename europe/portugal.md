@@ -334,7 +334,7 @@ _election results_: <br><em>2021:</em> Marcelo REBELO DE SOUSA reelected preside
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by closed-list proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 10 March 2024 (next to be held on 30 September 2028); note - early elections were called after Prime Minister Antonio Luis Santos da COSTA resigned on 7 November 2023<br>
-_election results_: percent of vote by party -; seats by party - PSD 79, PS 77, Enough 48, other 26; composition - men, women%<br>
+_election results_: percent of vote by party - NA; seats by party - PSD 79, PS 77, Enough 48, other 26; composition - men NA, women NA, percent of women NA%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of 12 justices); Constitutional Court or Tribunal Constitucional (consists of 13 judges)<br>

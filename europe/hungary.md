@@ -730,7 +730,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 none identified<br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 66,135 (Ukraine) (as of 5 March 2024)<br>
+_refugees (country of origin)_: 66,135 (Ukraine) (as of 17 March 2024)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

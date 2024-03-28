@@ -340,7 +340,7 @@ _email address and website_: <br>seychelles@un.int; seychellesmission@sycun.org<
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Henry V. JARDINE (since 22 February 2023); note - Ambassador JARDINE is posted in Mauritius but is accredited to Seychelles<br>
+_chief of mission_: Ambassador Henry V. JARDINE (since 22 February 2023); Charg&eacute; d&rsquo;Affaires Adham LOUTFI (since 6 October 2023) note - Ambassador JARDINE is posted in Mauritius and is accredited to Seychelles, and Charg&eacute; d&rsquo;Affaires LOUTFI is posted in Victoria, Seychelles to manage the expanding policy interests<br>
 _embassy_: 2nd Floor, Oliaji Trade Center, Victoria Mahe, Seychelles; note - US Embassy in Seychelles reopened on 1 June 2023 after having been closed in 1996<br>
 _telephone_: [248] 422 5256<br>
 
@@ -645,7 +645,7 @@ the SDF's inventory primarily consists of Soviet-era equipment delivered in the 
 18-28 (18-25 for officers) years of age for voluntary military service for men and women; 6-year initial commitment; no conscription (2023)<br>
 
 **Military - note**<br>
-formed in 1977, the SDF is one of the world's smallest militaries; its primary responsibility is maritime security, particularly countering illegal fishing, piracy, and drug smuggling; it was given police powers in 2022; the Seychelles has close security ties with India (2023)<br>
+formed in 1977, the SDF is one of the World's smallest militaries; its primary responsibility is maritime security, particularly countering illegal fishing, piracy, and drug smuggling; it was given police powers in 2022; the Seychelles has close security ties with India (2023)<br>
 
 ## Transnational Issues
 

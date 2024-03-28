@@ -364,7 +364,7 @@ _subordinate courts_: civil courts include: Assistant Judge's Court; Joint Distr
 <p>Awami League or AL [Sheikh HASINA]<br>Bangladesh Jamaat-i-Islami or JIB [Shafiqur RAHMAN]]<br>Bangladesh Nationalist Party or BNP [Tarique RAHMAN, acting chairperson; Khaleda ZIA]<br>Islami Andolan Bangladesh [Syed Rezaul KARIM]<br>Jatiya Party or JP (Ershad faction) [Ghulam Muhammed QUADER]<br>Jatiya Party or JP (Manju faction) [Anwar Hossain MANJU]<br>National Socialist Party (Jatiya Samajtantrik Dal) or JSD [Hasanul Haque INU]<br>Workers Party or WP [Rashed Khan MENON]</p> <p> </p><br>
 
 **International organization participation**<br>
-ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OIC, OPCW, PCA, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNIFIL, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSCA, MONUSCO, NAM, OIC, OPCW, PCA, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNIFIL, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Muhammad IMRAN (since 12 December 2022)<br>
