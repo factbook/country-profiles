@@ -365,29 +365,32 @@ _selected World Heritage Site locales_: Aldabra Atoll; Vall&eacute;e de Mai Natu
 high-income Indian Ocean island economy; rapidly growing tourism sector; major tuna exporter; offshore financial hub; environmentally fragile and investing in ocean rise mitigation; recently discovered offshore oil potential; successful anticorruption efforts<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.855 billion (2021 est.)<br>
-$2.647 billion (2020 est.)<br>
-$2.867 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$3.022 billion (2022 est.)<br>
+$2.772 billion (2021 est.)<br>
+$2.629 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-7.86% (2021 est.)<br>
--7.69% (2020 est.)<br>
-3.1% (2019 est.)<br>
+9% (2022 est.)<br>
+5.43% (2021 est.)<br>
+-7.73% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$28,800 (2021 est.)<br>
-$26,900 (2020 est.)<br>
-$29,400 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$25,200 (2022 est.)<br>
+$27,900 (2021 est.)<br>
+$26,700 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.748 billion (2019 est.)<br>
+$1.588 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8.28% (2020 est.)<br>
 2.07% (2019 est.)<br>
 3.7% (2018 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2020)<br>
@@ -413,7 +416,8 @@ coconuts, vegetables, bananas, fruit, eggs, poultry, tomatoes, pork, tropical fr
 fishing, tourism, beverages<br>
 
 **Industrial production growth rate**<br>
-3.63% (2021 est.)<br>
+3.7% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 51,000 (2018 est.)<br>
@@ -429,18 +433,22 @@ _female_: 15.6%<br>
 
 **Population below poverty line**<br>
 25.3% (2018 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 32.1 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4.7%<br>
-_highest 10%_: 15.4% (2007)<br>
+_lowest 10%_: 2.6%<br>
+_highest 10%_: 23.9% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.79% of GDP (2020 est.)<br>
-1.4% of GDP (2019 est.)<br>
-1.39% of GDP (2018 est.)<br>
+0.68% of GDP (2022 est.)<br>
+0.74% of GDP (2021 est.)<br>
+0.84% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $601 million (2019 est.)<br>
@@ -452,22 +460,27 @@ _expenditures_: $586 million (2019 est.)<br>
 **Public debt**<br>
 63.6% of GDP (2017 est.)<br>
 69.1% of GDP (2016 est.)<br>
+62.71% of GDP (2015 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-31.52% (of GDP) (2018 est.)<br>
+30.58% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
+-$142.526 million (2022 est.)<br>
 -$154.259 million (2021 est.)<br>
 -$173.236 million (2020 est.)<br>
--$53.115 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$2.247 billion (2022 est.)<br>
 $1.751 billion (2021 est.) note: data are in current year dollars<br>
 $1.24 billion (2020 est.) note: data are in current year dollars<br>
-$2.085 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United Arab Emirates 17%, United Kingdom 13%, France 12%, British Virgin Islands 11%, Zambia 9%, Mauritius 5%, Japan 5% (2019)<br>
@@ -476,9 +489,10 @@ United Arab Emirates 17%, United Kingdom 13%, France 12%, British Virgin Islands
 refined petroleum, fish, recreational boats, cigarettes, animal meal (2019)<br>
 
 **Imports**<br>
+$2.298 billion (2022 est.)<br>
 $1.821 billion (2021 est.) note: data are in current year dollars<br>
 $1.332 billion (2020 est.) note: data are in current year dollars<br>
-$2.025 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United Arab Emirates 21%, Qatar 13%, British Virgin Islands 7%, Germany 6%, France 6%, China 5%, Spain 5%, South Africa 5% (2019)<br>
@@ -487,9 +501,10 @@ United Arab Emirates 21%, Qatar 13%, British Virgin Islands 7%, Germany 6%, Fran
 recreational boats, refined petroleum, fish, aircraft, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$702.585 million (31 December 2021 est.)<br>
-$559.682 million (31 December 2020 est.)<br>
-$580.546 million (31 December 2019 est.)<br>
+$638.961 million (2022 est.)<br>
+$702.585 million (2021 est.)<br>
+$559.682 million (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $4.802 billion (2019 est.)<br>
@@ -497,11 +512,11 @@ $4.613 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Seychelles rupees (SCR) per US dollar -<br>
+14.273 (2022 est.)<br>
 16.921 (2021 est.)<br>
 17.617 (2020 est.)<br>
 14.033 (2019 est.)<br>
 13.911 (2018 est.)<br>
-13.648 (2017 est.)<br>
 
 ## Energy
 

@@ -353,29 +353,32 @@ _selected World Heritage Site locales_: Brimstone Hill Fortress National Park<br
 high-income, tourism-based Caribbean OECS economy; better debt balancing; CARICOM and ECCU member; growing offshore financial and telecommunications hub; environmentally fragile; unique citizenship-driven growth model<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.261 billion (2021 est.)<br>
-$1.272 billion (2020 est.)<br>
-$1.488 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$1.371 billion (2022 est.)<br>
+$1.26 billion (2021 est.)<br>
+$1.271 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--0.88% (2021 est.)<br>
--14.53% (2020 est.)<br>
-4.05% (2019 est.)<br>
+8.85% (2022 est.)<br>
+-0.89% (2021 est.)<br>
+-14.56% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$28,800 (2022 est.)<br>
 $26,500 (2021 est.)<br>
 $26,700 (2020 est.)<br>
-$31,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$964 million (2017 est.)<br>
+$965.639 million (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.67% (2022 est.)<br>
 1.2% (2021 est.)<br>
 -1.17% (2020 est.)<br>
--0.33% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.1% (2017 est.)<br>
@@ -397,13 +400,8 @@ coconuts, tropical fruit, roots/tubers, vegetables, sweet potatoes, pulses, wate
 tourism, cotton, salt, copra, clothing, footwear, beverages<br>
 
 **Industrial production growth rate**<br>
-1.55% (2021 est.)<br>
-
-**Labor force**<br>
-18,170 (June 1995 est.)<br>
-
-**Unemployment rate**<br>
-4.5% (1997)<br>
+-2.92% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -413,9 +411,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
+3.41% of GDP (2022 est.)<br>
 4.32% of GDP (2021 est.)<br>
 3.57% of GDP (2020 est.)<br>
-3.82% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $286 million (2020 est.)<br>
@@ -427,22 +426,27 @@ _expenditures_: $324 million (2020 est.)<br>
 **Public debt**<br>
 62.9% of GDP (2017 est.)<br>
 61.5% of GDP (2016 est.)<br>
+57.6% of GDP (2014 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-15.03% (of GDP) (2020 est.)<br>
+15.04% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$61.009 million (2021 est.)<br>
--$78.456 million (2020 est.)<br>
--$25.045 million (2019 est.)<br>
+-$33.19 million (2022 est.)<br>
+-$50.346 million (2021 est.)<br>
+-$96.291 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$408.471 million (2021 est.) note: data are in current year dollars<br>
-$383.152 million (2020 est.)<br>
-$598.343 million (2019 est.)<br>
+$531.408 million (2022 est.)<br>
+$392.744 million (2021 est.) note: data are in current year dollars<br>
+$353.961 million (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 56%, Italy 19%, Canada 4%, Germany 3%, Saint Vincent and the Grenadines 3% (2021)<br>
@@ -451,9 +455,10 @@ United States 56%, Italy 19%, Canada 4%, Germany 3%, Saint Vincent and the Grena
 broadcasting equipment, recreational boats, electrical plugs and sockets, measuring instruments, electrical transformers (2021)<br>
 
 **Imports**<br>
-$441.192 million (2021 est.) note: data are in current year dollars<br>
-$432.584 million (2020 est.)<br>
-$602.385 million (2019 est.)<br>
+$531.167 million (2022 est.)<br>
+$412.276 million (2021 est.) note: data are in current year dollars<br>
+$430.263 million (2020 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 50%, Trinidad and Tobago 10%, China 5%, Jamaica 4%, Germany 4% (2021)<br>
@@ -462,9 +467,10 @@ United States 50%, Trinidad and Tobago 10%, China 5%, Jamaica 4%, Germany 4% (20
 refined petroleum, ships, cars, poultry, valves, jewelry (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$337.533 million (31 December 2021 est.)<br>
-$373.502 million (31 December 2020 est.)<br>
-$362.798 million (31 December 2019 est.)<br>
+$293.98 million (2022 est.)<br>
+$337.533 million (2021 est.)<br>
+$373.502 million (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $201.8 million (31 December 2017 est.)<br>
@@ -472,11 +478,11 @@ $187.9 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2022 est.)<br>
 2.7 (2021 est.)<br>
 2.7 (2020 est.)<br>
 2.7 (2019 est.)<br>
 2.7 (2018 est.)<br>
-2.7 (2017 est.)<br>
 
 ## Energy
 

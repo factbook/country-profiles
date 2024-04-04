@@ -306,12 +306,13 @@ high-income British island economy; known financial services and tourism industr
 $6.792 billion (2015 est.)<br>
 $7.428 billion (2014 est.)<br>
 $6.298 billion (2013 est.)<br>
-<strong>note:</strong> data are in 2014 US dollars<br>
+<strong>note:</strong> data are in 2014 dollars<br>
 
 **Real GDP growth rate**<br>
+-8.84% (2020 est.)<br>
 0.25% (2019 est.)<br>
 2.21% (2018 est.)<br>
-4.69% (2017 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $84,600 (2014 est.)<br>
@@ -319,7 +320,8 @@ $86,200 (2013 est.)<br>
 $73,700 (2012 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$6.792 billion (2015 est.)<br>
+$6.684 billion (2020 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4.1% (2017 est.)<br>
@@ -342,10 +344,8 @@ cereals, vegetables; cattle, sheep, pigs, poultry<br>
 financial services, light manufacturing, tourism<br>
 
 **Industrial production growth rate**<br>
--5.1% (2019 est.)<br>
-
-**Labor force**<br>
-41,790 (2006)<br>
+6.66% (2020 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Unemployment rate**<br>
 1.1% (2017 est.)<br>
@@ -370,23 +370,14 @@ _expenditures_: $943 million (FY05/06 est.)<br>
 **Budget surplus (+) or deficit (-)**<br>
 0.3% (of GDP) (FY05/06 est.)<br>
 
-**Taxes and other revenues**<br>
-14.2% (of GDP) (FY05/06 est.)<br>
-
 **Fiscal year**<br>
 1 April - 31 March<br>
-
-**Exports**<br>
-<p>NA</p><br>
 
 **Exports - partners**<br>
 almost entirely United Kingdom (2022)<br>
 
 **Exports - commodities**<br>
 crude petroleum, artwork, vegetables, fruits, whiskies (2022)<br>
-
-**Imports**<br>
-<p>NA</p><br>
 
 **Imports - partners**<br>
 almost entirely United Kingdom (2022)<br>
@@ -399,11 +390,11 @@ ships, delivery trucks (2022)<br>
 
 **Exchange rates**<br>
 _Currency_: Manx pounds (IMP) per US dollar -<br>
+0.811 (2022 est.)<br>
 0.727 (2021 est.)<br>
 0.78 (2020 est.)<br>
 0.783 (2019 est.)<br>
 0.75 (2018 est.)<br>
-0.777 (2017 est.)<br>
 
 ## Energy
 

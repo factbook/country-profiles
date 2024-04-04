@@ -364,28 +364,32 @@ _lyrics/music_: Uelingatoni Ngu TUPOUMALOHI/Karl Gustavus SCHMITT<br>
 upper middle-income Pacific island economy; enormous diaspora and remittance reliance; key tourism and agricultural sectors; major fish exporter; rapidly growing Chinese infrastructure investments; rising methamphetamine hub<br>
 
 **Real GDP (purchasing power parity)**<br>
-$651.247 million (2021 est.)<br>
-$669.095 million (2020 est.)<br>
-$665.842 million (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$651.259 million (2021 est.)<br>
+$669.107 million (2020 est.)<br>
+$665.853 million (2019 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -2.67% (2021 est.)<br>
 0.49% (2020 est.)<br>
 0.71% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$6,100 (2021 est.) note: data are in 2017 dollars<br>
-$6,400 (2020 est.) note: data are in 2017 dollars<br>
+$6,100 (2021 est.)<br>
+$6,400 (2020 est.)<br>
 $6,300 (2019 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$455 million (2017 est.)<br>
+$469.228 million (2021 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+10.97% (2022 est.)<br>
 5.64% (2021 est.)<br>
 -0.35% (2020 est.)<br>
-1.18% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 19.9% (2017 est.)<br>
@@ -408,14 +412,17 @@ tourism, construction, fishing<br>
 
 **Industrial production growth rate**<br>
 1.23% (2021 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-32,000 (2021 est.)<br>
+38,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.97% (2021 est.)<br>
-3.63% (2020 est.)<br>
-3.06% (2019 est.)<br>
+2.43% (2022 est.)<br>
+2.11% (2021 est.)<br>
+2.73% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.1% (2021 est.)<br>
@@ -426,16 +433,19 @@ _female_: 16.3%<br>
 22.5% (2010 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-37.6 (2015 est.)<br>
+33.5 (2015 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
+_lowest 10%_: 3.2%<br>
+_highest 10%_: 26.8% (2015 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-45.5% of GDP (2021 est.)<br>
-39.3% of GDP (2020 est.)<br>
+46.22% of GDP (2021 est.)<br>
+39.31% of GDP (2020 est.)<br>
 37.18% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $212 million (2019 est.)<br>
@@ -447,6 +457,8 @@ _expenditures_: $196 million (2019 est.)<br>
 **Public debt**<br>
 49.41% of GDP (2016 est.)<br>
 51.8% of GDP (FY2016 est.)<br>
+51.18% of GDP (2015 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 39.8% (of GDP) (2017 est.)<br>
@@ -455,14 +467,16 @@ _expenditures_: $196 million (2019 est.)<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$19.188 million (2021 est.)<br>
+-$31.432 million (2022 est.)<br>
+-$24.467 million (2021 est.)<br>
 -$25.78 million (2020 est.)<br>
--$4.214 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$58.745 million (2021 est.) note: data are in current year dollars<br>
+$59.622 million (2022 est.)<br>
+$58.152 million (2021 est.) note: data are in current year dollars<br>
 $99.78 million (2020 est.) note: data are in current year dollars<br>
-$112.482 million (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 22%, South Africa 18%, New Zealand 15%, Australia 13%, South Korea 11% (2021)<br>
@@ -471,9 +485,10 @@ United States 22%, South Africa 18%, New Zealand 15%, Australia 13%, South Korea
 natural gas, shellfish, various fruits and nuts, vegetables, cassava, coral and shells (2021)<br>
 
 **Imports**<br>
-$285.675 million (2021 est.) note: data are in current year dollars<br>
+$329.146 million (2022 est.)<br>
+$291.957 million (2021 est.) note: data are in current year dollars<br>
 $309.685 million (2020 est.) note: data are in current year dollars<br>
-$327.395 million (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 New Zealand 36%, China 20%, Fiji 18%, Australia 6%, United States 6% (2021)<br>
@@ -482,9 +497,10 @@ New Zealand 36%, China 20%, Fiji 18%, Australia 6%, United States 6% (2021)<br>
 refined petroleum, poultry meats, cars, mutton, goat meat, lumber, x-ray equipment, broadcasting equipment (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$361.812 million (31 December 2021 est.)<br>
-$298.948 million (31 December 2020 est.)<br>
-$218.448 million (31 December 2019 est.)<br>
+$375.564 million (2022 est.)<br>
+$361.812 million (2021 est.)<br>
+$298.948 million (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $189.9 million (31 December 2017 est.)<br>
@@ -492,11 +508,11 @@ $198.2 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: pa'anga (TOP) per US dollar -<br>
+2.328 (2022 est.)<br>
 2.265 (2021 est.)<br>
 2.3 (2020 est.)<br>
 2.289 (2019 est.)<br>
 2.237 (2018 est.)<br>
-2.206 (2017 est.)<br>
 
 ## Energy
 

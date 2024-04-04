@@ -371,29 +371,32 @@ _selected World Heritage Site locales_: Cidade Velha; Historic Center of Ribeira
 tourism-dominated economy benefits from the country&rsquo;s relative close proximity to Europe; 2009 Financial Crisis halted economic growth for seven years; leveraging export-based growth; COVID-19 decimated economic growth and recovery; high external debt<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.595 billion (2021 est.)<br>
-$3.361 billion (2020 est.)<br>
-$3.944 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$4.377 billion (2022 est.)<br>
+$3.737 billion (2021 est.)<br>
+$3.539 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.95% (2021 est.)<br>
--14.78% (2020 est.)<br>
-5.67% (2019 est.)<br>
+17.12% (2022 est.)<br>
+5.62% (2021 est.)<br>
+-20.81% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$6,100 (2021 est.)<br>
-$5,800 (2020 est.)<br>
-$6,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$7,400 (2022 est.)<br>
+$6,400 (2021 est.)<br>
+$6,100 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.971 billion (2019 est.)<br>
+$2.227 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.93% (2022 est.)<br>
 1.86% (2021 est.)<br>
 0.61% (2020 est.)<br>
-1.11% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B- (2020)<br>
@@ -420,15 +423,18 @@ sugar cane, tomatoes, bananas, cabbages, coconuts, cassava, pulses, vegetables, 
 food and beverages, fish processing, shoes and garments, salt mining, ship repair<br>
 
 **Industrial production growth rate**<br>
-11.76% (2021 est.)<br>
+7.55% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-234,300 (2021 est.)<br>
+252,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-15.42% (2021 est.)<br>
-15.31% (2020 est.)<br>
-12.22% (2019 est.)<br>
+12.44% (2022 est.)<br>
+14.09% (2021 est.)<br>
+14.59% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 34.3% (2021 est.)<br>
@@ -436,19 +442,23 @@ _male_: 29.9%<br>
 _female_: 40.7%<br>
 
 **Population below poverty line**<br>
-35% (2015 est.)<br>
+35.2% (2015 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 42.4 (2015 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.9%<br>
-_highest 10%_: 40.6% (2000)<br>
+_lowest 10%_: 2.2%<br>
+_highest 10%_: 32.3% (2015 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-16.12% of GDP (2021 est.)<br>
-14.43% of GDP (2020 est.)<br>
-12.18% of GDP (2019 est.)<br>
+14.07% of GDP (2022 est.)<br>
+15.74% of GDP (2021 est.)<br>
+12.85% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $583 million (2019 est.)<br>
@@ -462,21 +472,23 @@ _expenditures_: $619 million (2019 est.)<br>
 127.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-20.09% (of GDP) (2017 est.)<br>
+17.8% (of GDP) (2017 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$256.181 million (2021 est.)<br>
--$284.109 million (2020 est.)<br>
-$6.477 million (2019 est.)<br>
+-$68.589 million (2022 est.)<br>
+-$249.511 million (2021 est.)<br>
+-$285.681 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$459.923 million (2021 est.)<br>
-$415.242 million (2020 est.)<br>
-$1.006 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$855.067 million (2022 est.)<br>
+$465.348 million (2021 est.)<br>
+$423.252 million (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Spain 65%, Portugal 14%, Italy 8% (2019)<br>
@@ -485,9 +497,10 @@ Spain 65%, Portugal 14%, Italy 8% (2019)<br>
 tuna, mackerel, aircraft, other processed and frozen fish, postage stamps and title bond paper documents, mollusks (2021)<br>
 
 **Imports**<br>
+$1.301 billion (2022 est.)<br>
 $1.117 billion (2021 est.) note: data are in current year dollars<br>
 $1.008 billion (2020 est.) note: data are in current year dollars<br>
-$1.287 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Portugal 36%, Netherlands 16%, Spain 11%, China 6% (2019)<br>
@@ -496,9 +509,10 @@ Portugal 36%, Netherlands 16%, Spain 11%, China 6% (2019)<br>
 refined petroleum, delivery trucks, coal tar oil, cars, rice (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$769.65 million (31 December 2021 est.)<br>
-$735.085 million (31 December 2020 est.)<br>
-$737.991 million (31 December 2019 est.)<br>
+$704.63 million (2022 est.)<br>
+$769.65 million (2021 est.)<br>
+$735.085 million (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.713 billion (31 December 2017 est.)<br>
@@ -506,11 +520,11 @@ $1.688 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cabo Verdean escudos (CVE) per US dollar -<br>
+105.531 (2022 est.)<br>
 93.218 (2021 est.)<br>
 96.796 (2020 est.)<br>
 98.495 (2019 est.)<br>
 93.414 (2018 est.)<br>
-97.807 (2017 est.)<br>
 
 ## Energy
 
@@ -619,8 +633,8 @@ D4<br>
 10 (2024)<br>
 
 **Roadways**<br>
-_total_: 1,350 km (2013)<br>
-_paved_: 932 km (2013)<br>
+_total_: 1,350 km<br>
+_paved_: 932 km<br>
 _unpaved_: 418 km (2013)<br>
 
 **Merchant marine**<br>

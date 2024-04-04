@@ -385,7 +385,7 @@ _chancery_: 2107 Massachusetts Avenue NW, Washington, DC 20008; Consular Wing lo
 _telephone_: [1] (202) 939-7000<br>
 _FAX_: [1] (202) 265-4351<br>
 _email address and website_: <br>minca.washington@mea.gov.in (community affairs)<br><br>https://www.indianembassyusa.gov.in/<br>
-_consulate(s) general_: Atlanta, Chicago, Houston, New York, San Francisco<br>
+_consulate(s) general_: Atlanta, Chicago, Houston, New York, San Francisco, Seattle<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Eric M. GARCETTI (since 11 May 2023)<br>
@@ -418,29 +418,32 @@ _selected World Heritage Site locales_: Taj Mahal (c); Red Fort Complex (c); Ell
 largest South Asian economy; key US trading partner; many informal domestic economies; promoting self-reliance and increasing market access barriers; credit access weaknesses contributing to lower private consumption and inflation; ongoing social and infrastructure equity efforts<br>
 
 **Real GDP (purchasing power parity)**<br>
-$9.279 trillion (2021 est.)<br>
-$8.538 trillion (2020 est.)<br>
-$9.14 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$10.079 trillion (2022 est.)<br>
+$9.399 trillion (2021 est.)<br>
+$8.619 trillion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-8.68% (2021 est.)<br>
--6.6% (2020 est.)<br>
-3.74% (2019 est.)<br>
+7.24% (2022 est.)<br>
+9.05% (2021 est.)<br>
+-5.83% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$6,600 (2021 est.)<br>
-$6,100 (2020 est.)<br>
-$6,600 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$7,100 (2022 est.)<br>
+$6,700 (2021 est.)<br>
+$6,200 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.836 trillion (2019 est.)<br>
+$3.417 trillion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.7% (2022 est.)<br>
 5.13% (2021 est.)<br>
 6.62% (2020 est.)<br>
-3.73% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2006)<br>
@@ -468,15 +471,18 @@ sugarcane, rice, wheat, buffalo milk, milk, potatoes, vegetables, bananas, maize
 textiles, chemicals, food processing, steel, transportation equipment, cement, mining, petroleum, machinery, software, pharmaceuticals<br>
 
 **Industrial production growth rate**<br>
-10.27% (2021 est.)<br>
+4.38% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-476.67 million (2021 est.)<br>
+554.145 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.98% (2021 est.)<br>
-8% (2020 est.)<br>
-5.27% (2019 est.)<br>
+4.82% (2022 est.)<br>
+6.38% (2021 est.)<br>
+7.86% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 28.3% (2021 est.)<br>
@@ -487,20 +493,23 @@ _female_: 26.7%<br>
 21.9% (2011 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-35.7 (2019 est.)<br>
+34.2 (2021 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 29.8% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 2.4% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.6%<br>
-_highest 10%_: 29.8% (2011)<br>
+_lowest 10%_: 3.5%<br>
+_highest 10%_: 27.8% (2021 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.81% of GDP (2021 est.)<br>
-3.12% of GDP (2020 est.)<br>
-2.94% of GDP (2019 est.)<br>
+3.26% of GDP (2022 est.)<br>
+2.84% of GDP (2021 est.)<br>
+3.11% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $495.007 billion (2020 est.)<br>
@@ -513,23 +522,26 @@ _expenditures_: $818.94 billion (2020 est.)<br>
 46.52% of GDP (2018 est.)<br>
 47.58% of GDP (2017 est.)<br>
 47.63% of GDP (2016 est.)<br>
-<strong>note:</strong> data cover central government debt, and exclude debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 12.02% (of GDP) (2018 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$33.422 billion (2021 est.)<br>
+-$79,050,942,000 (2022 est.)<br>
+-$33,422,359,000 (2021 est.)<br>
 $32.73 billion (2020 est.)<br>
--$29.763 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$767.643 billion (2022 est.)<br>
 $643.08 billion (2021 est.) note: data are in current year dollars<br>
 $484.691 billion (2020 est.) note: data are in current year dollars<br>
-$546.033 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 US 18%, UAE 6%, China 6%, Bangladesh 4%, Hong Kong 3% (2021)<br>
@@ -538,9 +550,10 @@ US 18%, UAE 6%, China 6%, Bangladesh 4%, Hong Kong 3% (2021)<br>
 refined petroleum, diamonds, packaged medicines, jewelry, rice (2021)<br>
 
 **Imports**<br>
+$902.304 billion (2022 est.)<br>
 $717.119 billion (2021 est.) note: data are in current year dollars<br>
 $493.033 billion (2020 est.) note: data are in current year dollars<br>
-$619.485 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 17%, UAE 7%, US 7%, Switzerland 6%, Saudi Arabia 5% (2021)<br>
@@ -549,9 +562,10 @@ China 17%, UAE 7%, US 7%, Switzerland 6%, Saudi Arabia 5% (2021)<br>
 crude petroleum, gold, coal, diamonds, natural gas, integrated circuits (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$638.485 billion (31 December 2021 est.)<br>
-$590.227 billion (31 December 2020 est.)<br>
-$463.47 billion (31 December 2019 est.)<br>
+$567.298 billion (2022 est.)<br>
+$638.485 billion (2021 est.)<br>
+$590.227 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $555.388 billion (2019 est.)<br>
@@ -559,11 +573,11 @@ $518.34 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Indian rupees (INR) per US dollar -<br>
+78.604 (2022 est.)<br>
 73.918 (2021 est.)<br>
 74.1 (2020 est.)<br>
 70.42 (2019 est.)<br>
 68.389 (2018 est.)<br>
-65.122 (2017 est.)<br>
 
 ## Energy
 

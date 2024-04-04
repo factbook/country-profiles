@@ -290,22 +290,10 @@ blue with the flag of the UK in the upper hoist-side quadrant and the Montserrat
 **Economic overview**<br>
 formerly high-income economy; volcanic activity destroyed much of original infrastructure and economy; new capital and port is being developed; key geothermal and solar power generation; key music recording operations<br>
 
-**Real GDP (purchasing power parity)**<br>
-$167.4 million (2011 est.)<br>
-$155.9 million (2010 est.)<br>
-$162.7 million (2009 est.)<br>
-
-**Real GDP growth rate**<br>
-7.4% (2011 est.)<br>
--4.2% (2010 est.)<br>
-
 **Real GDP per capita**<br>
 $34,000 (2011 est.)<br>
 $31,100 (2010 est.)<br>
 $32,300 (2009 est.)<br>
-
-**GDP (official exchange rate)**<br>
-$167.4 million (2011 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.2% (2017 est.)<br>

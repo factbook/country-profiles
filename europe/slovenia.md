@@ -384,29 +384,32 @@ _selected World Heritage Site locales_: &Scaron;kocjan Caves (n); Ancient and Pr
 high-income, fast-growing EU-member economy; high human capital; key health infrastructure investments; high government spending; key Croatian investments; high-technology and manufacturing sectors; growing financial hub<br>
 
 **Real GDP (purchasing power parity)**<br>
-$84.4 billion (2021 est.)<br>
-$77.996 billion (2020 est.)<br>
-$81.519 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$86.624 billion (2022 est.)<br>
+$84.543 billion (2021 est.)<br>
+$78.115 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-8.21% (2021 est.)<br>
--4.32% (2020 est.)<br>
-3.45% (2019 est.)<br>
+2.46% (2022 est.)<br>
+8.23% (2021 est.)<br>
+-4.24% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$40,000 (2021 est.)<br>
-$37,100 (2020 est.)<br>
-$39,000 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$41,000 (2022 est.)<br>
+$40,100 (2021 est.)<br>
+$37,200 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$54.16 billion (2019 est.)<br>
+$60.063 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.83% (2022 est.)<br>
 1.92% (2021 est.)<br>
 -0.05% (2020 est.)<br>
-1.63% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A (2019)<br>
@@ -434,15 +437,18 @@ milk, maize, wheat, grapes, barley, potatoes, poultry, apples, beef, pork<br>
 ferrous metallurgy and aluminum products, lead and zinc smelting; electronics (including military electronics), trucks, automobiles, electric power equipment, wood products, textiles, chemicals, machine tools<br>
 
 **Industrial production growth rate**<br>
-9.43% (2021 est.)<br>
+-0.99% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.036 million (2021 est.)<br>
+1.056 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.42% (2021 est.)<br>
-4.97% (2020 est.)<br>
-4.45% (2019 est.)<br>
+4.01% (2022 est.)<br>
+4.74% (2021 est.)<br>
+4.99% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 13.9% (2021 est.)<br>
@@ -450,23 +456,27 @@ _male_: 12.7%<br>
 _female_: 15.5%<br>
 
 **Population below poverty line**<br>
-12% (2018 est.)<br>
+12.1% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-24.4 (2019 est.)<br>
+24 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 14.6% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 5.1% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.8%<br>
-_highest 10%_: 20.1% (2016)<br>
+_lowest 10%_: 4.2%<br>
+_highest 10%_: 20.5% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.21% of GDP (2021 est.)<br>
-1.22% of GDP (2020 est.)<br>
-1.22% of GDP (2019 est.)<br>
+1.3% of GDP (2022 est.)<br>
+1.34% of GDP (2021 est.)<br>
+1.37% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $23.735 billion (2019 est.)<br>
@@ -481,20 +491,23 @@ _expenditures_: $23.456 billion (2019 est.)<br>
 <strong>note:</strong> defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the central, state, local government, and social security funds<br>
 
 **Taxes and other revenues**<br>
-16.92% (of GDP) (2020 est.)<br>
+18.27% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$2.372 billion (2021 est.)<br>
-$4.058 billion (2020 est.)<br>
-$3.23 billion (2019 est.)<br>
+-$617.374 million (2022 est.)<br>
+$2.073 billion (2021 est.)<br>
+$3.882 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$51.634 billion (2021 est.) note: data are in current year dollars<br>
-$41.823 billion (2020 est.) note: data are in current year dollars<br>
-$45.516 billion (2019 est.) note: data are in current year dollars<br>
+$56.51 billion (2022 est.)<br>
+$51.662 billion (2021 est.) note: data are in current year dollars<br>
+$41.855 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Germany 18%, Italy 11%, Croatia 8%, Austria 7%, France 5%, Switzerland 5% (2019)<br>
@@ -503,9 +516,10 @@ Germany 18%, Italy 11%, Croatia 8%, Austria 7%, France 5%, Switzerland 5% (2019)
 packaged medicines, cars and vehicle parts, refined petroleum, electrical lighting/signaling equipment, electricity (2019)<br>
 
 **Imports**<br>
-$47.665 billion (2021 est.) note: data are in current year dollars<br>
-$36.804 billion (2020 est.) note: data are in current year dollars<br>
-$40.809 billion (2019 est.) note: data are in current year dollars<br>
+$55.158 billion (2022 est.)<br>
+$47.997 billion (2021 est.) note: data are in current year dollars<br>
+$37 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Germany 14%, Italy 12%, Austria 8%, Switzerland 8%, China 7% (2019)<br>
@@ -514,9 +528,10 @@ Germany 14%, Italy 12%, Austria 8%, Switzerland 8%, China 7% (2019)<br>
 packaged medicines, cars and vehicle parts, refined petroleum, delivery trucks, electricity (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.267 billion (31 December 2021 est.)<br>
-$1.311 billion (31 December 2020 est.)<br>
-$1.015 billion (31 December 2019 est.)<br>
+$2.268 billion (2022 est.)<br>
+$2.267 billion (2021 est.)<br>
+$1.311 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $48.656 billion (2019 est.)<br>
@@ -524,11 +539,11 @@ $50.004 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
 0.847 (2018 est.)<br>
-0.885 (2017 est.)<br>
 
 ## Energy
 
@@ -701,7 +716,7 @@ the Slovenian Armed Forces (Slovenska Vojska or SV) are responsible for the defe
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 11,035 (Ukraine) (as of 1 March 2024)<br>
 _stateless persons_: 10 (2020)<br>
-<strong>note: </strong> 631,160 estimated refugee and migrant arrivals (January 2015-January 2024)<br>
+<strong>note: </strong> 634,128 estimated refugee and migrant arrivals (January 2015-February 2024)<br>
 
 **Illicit drugs**<br>
 minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>

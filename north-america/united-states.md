@@ -102,7 +102,7 @@ _noun_: American(s)<br>
 _adjective_: American<br>
 
 **Ethnic groups**<br>
-White 61.6%, Black or African American 12.4%, Asian 6%, Amerindian and Alaska native 1.1%, Native Hawaiian and Other Pacific Islander 0.2%, other 8.4%, two or more races 10.2% (2020 est.)<br>
+White 61.6%, Black or African American 12.4%, Asian 6%, Indigenous and Alaska native 1.1%, Native Hawaiian and Other Pacific Islander 0.2%, other 8.4%, two or more races 10.2% (2020 est.)<br>
 <strong>note:</strong> a separate listing for Hispanic is not included because the US Census Bureau considers Hispanic to mean persons of Spanish/Hispanic/Latino origin including those of Mexican, Cuban, Puerto Rican, Dominican Republic, Spanish, and Central or South American origin living in the US who may be of any race or ethnic group (White, Black, Asian, etc.); an estimated 18.7% of the total US population is Hispanic as of 2020<br>
 
 **Languages**<br>
@@ -401,29 +401,32 @@ _selected World Heritage Site locales_: Yellowstone National Park (n); Grand Can
 high-income, diversified North American economy; NATO leader; largest importer and second-largest exporter; home to leading financial exchanges; high and growing public debt; rising socioeconomic inequalities; historically low interest rates; hit by COVID-19<br>
 
 **Real GDP (purchasing power parity)**<br>
-$21.132 trillion (2021 est.)<br>
-$19.946 trillion (2020 est.)<br>
-$20.513 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$21.538 trillion (2022 est.)<br>
+$21.129 trillion (2021 est.)<br>
+$19.943 trillion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+1.94% (2022 est.)<br>
 5.95% (2021 est.)<br>
 -2.77% (2020 est.)<br>
-2.29% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$63,700 (2021 est.)<br>
+$64,600 (2022 est.)<br>
+$63,600 (2021 est.)<br>
 $60,200 (2020 est.)<br>
-$62,500 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$21,433,228,000,000 (2019 est.)<br>
+$25.44 trillion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8% (2022 est.)<br>
 4.7% (2021 est.)<br>
 1.23% (2020 est.)<br>
-1.81% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (1994)<br>
@@ -452,15 +455,17 @@ highly diversified, world leading, high-technology innovator, second-largest ind
 
 **Industrial production growth rate**<br>
 3.25% (2021 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-164.797 million (2021 est.)<br>
-<strong>note:</strong> includes unemployed<br>
+168.19 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.46% (2021 est.)<br>
+3.65% (2022 est.)<br>
+5.35% (2021 est.)<br>
 8.05% (2020 est.)<br>
-3.67% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.6% (2021 est.)<br>
@@ -471,20 +476,23 @@ _female_: 8.6%<br>
 15.1% (2010 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-41.5 (2019 est.)<br>
+39.8 (2021 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 6.4% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 1.7% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2%<br>
-_highest 10%_: 30% (2007 est.)<br>
+_lowest 10%_: 2.2%<br>
+_highest 10%_: 30.1% (2021 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.03% of GDP (2022 est.)<br>
 0.03% of GDP (2021 est.)<br>
 0.03% of GDP (2020 est.)<br>
-0.03% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $6.429 trillion (2019 est.)<br>
@@ -494,27 +502,29 @@ _expenditures_: $7.647 trillion (2019 est.)<br>
 -3.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-126.39% of GDP (2020 est.)<br>
-100.9% of GDP (2019 est.)<br>
-99.15% of GDP (2018 est.)<br>
-<strong>note:</strong> data cover only what the United States Treasury denotes as "Debt Held by the Public," which includes all debt instruments issued by the Treasury that are owned by non-US Government entities; the data include Treasury debt held by foreign entities; the data exclude debt issued by individual US states, as well as intragovernmental debt; intragovernmental debt consists of Treasury borrowings from surpluses in the trusts for Federal Social Security, Federal Employees, Hospital and Supplemental Medical Insurance (Medicare), Disability and Unemployment, and several other smaller trusts; if data for intragovernment debt were added, "gross debt" would increase by about one-third of GDP<br>
+115.7% of GDP (2022 est.)<br>
+120.36% of GDP (2021 est.)<br>
+126.24% of GDP (2020 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-9.86% (of GDP) (2020 est.)<br>
-<strong>note:</strong> excludes contributions for social security and other programs; if social contributions were added, taxes and other revenues would amount to approximately 22% of GDP<br>
+12.32% (of GDP) (2022 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
 
 **Current account balance**<br>
--$846.354 billion (2021 est.)<br>
--$619.702 billion (2020 est.)<br>
--$445.955 billion (2019 est.)<br>
+-$971.594 billion (2022 est.)<br>
+-$831.453 billion (2021 est.)<br>
+-$597.145 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$2.557 trillion (2021 est.) note: data are in current year dollars<br>
-$2.159 trillion (2020 est.) note: data are in current year dollars<br>
-$2.546 trillion (2019 est.) note: data are in current year dollars<br>
+$3.018 trillion (2022 est.)<br>
+$2.567 trillion (2021 est.) note: data are in current year dollars<br>
+$2.16 trillion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Canada 16%, Mexico 15%, China 9%, Japan 4%, South Korea 4% (2021)<br>
@@ -523,9 +533,10 @@ Canada 16%, Mexico 15%, China 9%, Japan 4%, South Korea 4% (2021)<br>
 refined petroleum, natural gas, crude petroleum, cars and vehicle parts, integrated circuits, aircraft, vaccines and cultures (2021)<br>
 
 **Imports**<br>
-$3.402 trillion (2021 est.) note: data are in current year dollars<br>
+$3.97 trillion (2022 est.)<br>
+$3.409 trillion (2021 est.) note: data are in current year dollars<br>
 $2.813 trillion (2020 est.) note: data are in current year dollars<br>
-$3.106 trillion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 19%, Mexico 13%, Canada 13%, Germany 5%, Japan 5% (2021)<br>
@@ -534,9 +545,10 @@ China 19%, Mexico 13%, Canada 13%, Germany 5%, Japan 5% (2021)<br>
 cars, crude petroleum, computers, broadcasting equipment, packaged medicines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$716.152 billion (31 December 2021 est.)<br>
-$628.37 billion (31 December 2020 est.)<br>
-$516.701 billion (31 December 2019 est.)<br>
+$706.644 billion (2022 est.)<br>
+$716.152 billion (2021 est.)<br>
+$628.37 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $20,275,951,000,000 (2019 est.)<br>
@@ -544,12 +556,7 @@ $19,452,478,000,000 (2018 est.)<br>
 <strong>note:</strong> approximately 4/5ths of US external debt is denominated in US dollars; foreign lenders have been willing to hold US dollar denominated debt instruments because they view the dollar as the world's reserve currency<br>
 
 **Exchange rates**<br>
-_Currency_: <strong>British pounds per US dollar: </strong>0.7836 (2017 est.), 0.738 (2016 est.), 0.738 (2015 est.), 0.607 (2014 est), 0.6391 (2013 est.)<br><strong>Canadian dollars per US dollar: </strong>1, 1.308 (2017 est.), 1.3256 (2016 est.), 1.3256 (2015 est.), 1.2788 (2014 est.), 1.0298 (2013 est.)<br><strong>Chinese yuan per US dollar: </strong>1, 6.7588 (2017 est.), 6.6445 (2016 est.), 6.2275 (2015 est.), 6.1434 (2014 est.), 6.1958 (2013 est.)<br><strong>euros per US dollar: </strong>0.885 (2017 est.), 0.903 (2016 est.), 0.9214(2015 est.), 0.885 (2014 est.), 0.7634 (2013 est.)<br><strong>Japanese yen per US dollar: </strong>111.10 (2017 est.), 108.76 (2016 est.), 108.76 (2015 est.), 121.02 (2014 est.), 97.44 (2013 est.)<br><br><strong>note 1: </strong>the following countries and territories use the US dollar officially as their legal tender: British Virgin Islands, Ecuador, El Salvador, Marshall Islands, Micronesia, Palau, Timor Leste, Turks and Caicos, and islands of the Caribbean Netherlands (Bonaire, Sint Eustatius, and Saba)<br><br><strong>note 2: </strong>the following countries and territories use the US dollar as official legal tender alongside local currency: Bahamas, Barbados, Belize, Costa Rica, and Panama<br><br><strong>note 3: </strong>the following countries and territories widely accept the US dollar as a dominant currency but have yet to declare it as legal tender: Bermuda, Burma, Cambodia, Cayman Islands, Honduras, Nicaragua, and Somalia<br>
-1 (2021 est.)<br>
-1 (2020 est.)<br>
-1 (2019 est.)<br>
-1 (2018 est.)<br>
-1 (2017 est.)<br>
+<strong>British pounds per US dollar: </strong>0.811 (2022 est.), 0.727 (2021 est.), 0.780 (2020 est.), 0.783 (2019 est), 0.750 (2018 est.)<br><strong>Canadian dollars per US dollar: </strong>1.302 (2022 est.), 1.254 (2021 est.), 1.341 (2020 est.), 1.327 (2019 est.), 1.296 (2018 est.)<br><strong>Chinese yuan per US dollar: </strong>6.737 (2022 est.), 6.449 (2021 est.), 6.901 (2020 est.), 6.908 (2019 est.), 6.616 (2018 est.)<br><strong>euros per US dollar: </strong>0.950 (2022 est.), 0.845 (2021 est.), 0.876 (2020 est.), 0.893 (2019 est.), 0.847 (2018 est.)<br><strong>Japanese yen per US dollar: </strong>131.50 (2022 est.), 109.75 (2021 est.), 106.78 (2020 est.), 109.01 (2019 est.), 110.42 (2018 est.)<br><br><strong>note 1: </strong>the following countries and territories use the US dollar officially as their legal tender: British Virgin Islands, Ecuador, El Salvador, Marshall Islands, Micronesia, Palau, Timor Leste, Turks and Caicos, and islands of the Caribbean Netherlands (Bonaire, Sint Eustatius, and Saba)<br><br><strong>note 2: </strong>the following countries and territories use the US dollar as official legal tender alongside local currency: Bahamas, Barbados, Belize, Costa Rica, and Panama<br><br><strong>note 3: </strong>the following countries and territories widely accept the US dollar as a dominant currency but have yet to declare it as legal tender: Bermuda, Burma, Cambodia, Cayman Islands, Honduras, Nicaragua, and Somalia<br>
 
 ## Energy
 

@@ -321,13 +321,13 @@ _subordinate courts_: High Court (first appellate court); District or Dzongkhag 
 ADB, BIMSTEC, CP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IMF, Interpol, IOC, IOM (observer), IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Chargé d'Affaires Phuntsho NORBU (since October 2022) <br>note - also the Deputy Permanent Representative to the UN<br>
+_chief of mission_: Ambassador/Permanent Representative to the United Nations (vacant); Charg&eacute; d'Affaires Phuntsho NORBU (since October 2022); note - also serving as the Deputy Permanent Representative to the UN<br>
 _telephone_: [1] (212) 682-2268<br>
 _FAX_: [1] (212) 661-0551<br>
 _email address and website_: <br>consulate.pmbny@mfa.gov.bt<br><br>https://www.mfa.gov.bt/pmbny/<br>
 _consulate(s) general_: New York<br>
 _embassy_: 343 East 43rd Street, New York, NY 10017<br>
-note - the Permanent Mission to the UN for Bhutan has consular jurisdiction in the US<br>
+<strong>note</strong> - although Bhutan and the United States do not have diplomatic relations, the two countries established consular relations on 23 July 1986; the Consulate General of the Kingdom of Bhutan was established in New York with an officer from the Permanent Mission of the Kingdom of Bhutan to the United Nations holding dual accreditation as the Consul General with consular jurisdiction in the US<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none; frequent informal contact is maintained via the US embassy in New Delhi (India) and Bhutan's Permanent Mission to the UN<br>
@@ -349,29 +349,32 @@ _lyrics/music_: Gyaldun Dasho Thinley DORJI/Aku TONGMI<br>
 hydropower investments spurring economic development; Gross National Happiness economy; sharp poverty declines; low inflation; strong monetary and fiscal policies; stable currency; fairly resilient response to COVID-19; key economic and strategic relations with India; climate vulnerabilities<br>
 
 **Real GDP (purchasing power parity)**<br>
-$8.481 billion (2021 est.)<br>
-$8.148 billion (2020 est.)<br>
-$9.054 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$9.015 billion (2021 est.)<br>
+$8.634 billion (2020 est.)<br>
+$9.616 billion (2019 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.09% (2021 est.)<br>
--10.01% (2020 est.)<br>
+4.42% (2021 est.)<br>
+-10.22% (2020 est.)<br>
 5.76% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$10,900 (2021 est.)<br>
-$10,500 (2020 est.)<br>
-$11,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$11,600 (2021 est.)<br>
+$11,200 (2020 est.)<br>
+$12,500 (2019 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.405 billion (2017 est.)<br>
+$2.768 billion (2021 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.64% (2022 est.)<br>
 7.35% (2021 est.)<br>
 5.63% (2020 est.)<br>
-2.73% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 16.2% (2017 est.)<br>
@@ -393,16 +396,18 @@ milk, rice, maize, potatoes, roots/tubers, oranges, areca nuts, chillies/peppers
 cement, wood products, processed fruits, alcoholic beverages, calcium carbide, tourism<br>
 
 **Industrial production growth rate**<br>
-1.96% (2021 est.)<br>
+3.94% (2021 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-361,000 (2021 est.)<br>
-<strong>note:</strong> major shortage of skilled labor<br>
+426,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.33% (2021 est.)<br>
-3.65% (2020 est.)<br>
-2.5% (2019 est.)<br>
+5.95% (2022 est.)<br>
+4.8% (2021 est.)<br>
+5.03% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 18.8% (2021 est.)<br>
@@ -410,19 +415,23 @@ _male_: 15.6%<br>
 _female_: 22%<br>
 
 **Population below poverty line**<br>
-8.2% (2017 est.)<br>
+12.4% (2022 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-37.4 (2017 est.)<br>
+28.5 (2022 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.8%<br>
-_highest 10%_: 30.6% (2012)<br>
+_lowest 10%_: 3.6%<br>
+_highest 10%_: 22.7% (2022 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.59% of GDP (2020 est.)<br>
-2.23% of GDP (2019 est.)<br>
-2.38% of GDP (2018 est.)<br>
+2.65% of GDP (2021 est.)<br>
+3.39% of GDP (2020 est.)<br>
+2.07% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $710 million (2020 est.)<br>
@@ -433,26 +442,29 @@ _expenditures_: $777 million (2020 est.)<br>
 -3.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-117.33% of GDP (2020 est.)<br>
-97.49% of GDP (2019 est.)<br>
-101.19% of GDP (2018 est.)<br>
+111.01% of GDP (2020 est.)<br>
+90.36% of GDP (2019 est.)<br>
+95.85% of GDP (2018 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-12.98% (of GDP) (2020 est.)<br>
+12.28% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
+-$852.583 million (2022 est.)<br>
 -$321.535 million (2021 est.)<br>
 -$381.153 million (2020 est.)<br>
--$500.802 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$791.08 million (2022 est.)<br>
 $741.602 million (2021 est.)<br>
 $786.681 million (2020 est.)<br>
-$777.529 million (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 India 94% (2019)<br>
@@ -461,9 +473,10 @@ India 94% (2019)<br>
 iron alloys, dolomite, aircraft, cement, gypsum (2021)<br>
 
 **Imports**<br>
+$1.588 billion (2022 est.)<br>
 $1.027 billion (2021 est.) note: data are in current year dollars<br>
 $1.188 billion (2020 est.) note: data are in current year dollars<br>
-$1.23 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 India 85%, Thailand 5% (2019)<br>
@@ -472,9 +485,10 @@ India 85%, Thailand 5% (2019)<br>
 refined petroleum, iron products, delivery trucks, cars, wood charcoal (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.056 billion (31 December 2021 est.)<br>
-$1.473 billion (31 December 2020 est.)<br>
-$1.238 billion (31 December 2019 est.)<br>
+$976.26 million (2021 est.)<br>
+$1.427 billion (2020 est.)<br>
+$1.238 billion (2019 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2.671 billion (31 December 2017 est.)<br>
@@ -482,11 +496,11 @@ $2.355 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: ngultrum (BTN) per US dollar -<br>
-73.939 (2021 est.)<br>
+78.604 (2022 est.)<br>
+73.918 (2021 est.)<br>
 74.1 (2020 est.)<br>
 70.42 (2019 est.)<br>
 68.389 (2018 est.)<br>
-65.122 (2017 est.)<br>
 
 ## Energy
 

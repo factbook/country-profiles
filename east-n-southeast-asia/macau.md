@@ -294,29 +294,32 @@ lotus blossom; national colors: green, white, yellow<br>
 high-income, Chinese special administrative region economy; known for apparel exports and gambling tourism; currency pegged to Hong Kong dollar; significant recession due to 2015 Chinese anticorruption campaign; COVID-19 further halved economic activity<br>
 
 **Real GDP (purchasing power parity)**<br>
-$44.49 billion (2021 est.)<br>
-$37.303 billion (2020 est.)<br>
-$81.511 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$36.038 billion (2022 est.)<br>
+$45.88 billion (2021 est.)<br>
+$37.139 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-19.27% (2021 est.)<br>
--54.24% (2020 est.)<br>
--2.51% (2019 est.)<br>
+-21.45% (2022 est.)<br>
+23.54% (2021 est.)<br>
+-54.34% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$64,800 (2021 est.)<br>
-$55,200 (2020 est.)<br>
-$122,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$51,800 (2022 est.)<br>
+$66,800 (2021 est.)<br>
+$54,900 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$53.841 billion (2019 est.)<br>
+$24.042 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+1.05% (2022 est.)<br>
+0.03% (2021 est.)<br>
 0.81% (2020 est.)<br>
-2.75% (2019 est.)<br>
-3% (2018 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA (2018)<br>
@@ -343,15 +346,18 @@ pork, poultry, beef, pig fat, pig offals, eggs, pepper, cattle offals, cattle hi
 tourism, gambling, clothing, textiles, electronics, footwear, toys<br>
 
 **Industrial production growth rate**<br>
-5.17% (2021 est.)<br>
+-5.63% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-404,500 (2021 est.)<br>
+401,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.01% (2021 est.)<br>
+2.41% (2022 est.)<br>
+2.24% (2021 est.)<br>
 2.57% (2020 est.)<br>
-1.75% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.2% (2021 est.)<br>
@@ -369,9 +375,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-0.08% of GDP (2020 est.)<br>
-0.04% of GDP (2019 est.)<br>
-0.04% of GDP (2018 est.)<br>
+0.07% of GDP (2022 est.)<br>
+0.24% of GDP (2021 est.)<br>
+0.26% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $18.119 billion (2019 est.)<br>
@@ -385,21 +392,23 @@ _expenditures_: $10.165 billion (2019 est.)<br>
 0% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-21.73% (of GDP) (2020 est.)<br>
+19.31% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$2.956 billion (2021 est.)<br>
-$3.926 billion (2020 est.)<br>
-$18.714 billion (2019 est.)<br>
+$1.339 billion (2022 est.)<br>
+$1.758 billion (2021 est.)<br>
+$3.785 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$26.625 billion (2021 est.) note: data are in current year dollars<br>
-$15.807 billion (2020 est.) note: data are in current year dollars<br>
-$45.557 billion (2019 est.)<br>
-<strong>note:</strong> includes reexports<br>
+$19.082 billion (2022 est.)<br>
+$26.483 billion (2021 est.) note: data are in current year dollars<br>
+$15.665 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Hong Kong 66%, China 9% (2019)<br>
@@ -408,9 +417,10 @@ Hong Kong 66%, China 9% (2019)<br>
 jewelry, broadcasting equipment, watches, telephones, clothing and apparel (2021)<br>
 
 **Imports**<br>
-$22.788 billion (2021 est.) note: data are in current year dollars<br>
-$15.216 billion (2020 est.) note: data are in current year dollars<br>
-$17.594 billion (2019 est.)<br>
+$21.267 billion (2022 est.)<br>
+$22.889 billion (2021 est.) note: data are in current year dollars<br>
+$15.151 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 33%, Hong Kong 31%, France 5% (2019)<br>
@@ -419,10 +429,10 @@ China 33%, Hong Kong 31%, France 5% (2019)<br>
 jewelry, watches, electricity, aircraft, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$26.665 billion (31 December 2021 est.)<br>
-$25.145 billion (31 December 2020 est.)<br>
-$22.215 billion (31 December 2019 est.)<br>
-<strong>note:</strong> the Fiscal Reserves Act that came into force on 1 January 2012 requires the fiscal reserves to be separated from the foreign exchange reserves and to be managed separately; the transfer of assets took place in February 2012<br>
+$25.971 billion (2022 est.)<br>
+$26.665 billion (2021 est.)<br>
+$25.145 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $0 (31 December 2013)<br>
@@ -430,11 +440,11 @@ $0 (31 December 2012)<br>
 
 **Exchange rates**<br>
 _Currency_: patacas (MOP) per US dollar -<br>
+8.065 (2022 est.)<br>
 8.006 (2021 est.)<br>
 7.989 (2020 est.)<br>
 8.07 (2019 est.)<br>
 8.073 (2018 est.)<br>
-8.026 (2017 est.)<br>
 
 ## Energy
 

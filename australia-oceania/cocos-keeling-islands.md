@@ -232,12 +232,6 @@ the flag of Australia is used<br>
 
 ## Economy
 
-**Real GDP (purchasing power parity)**<br>
-<p>NA</p><br>
-
-**Real GDP growth rate**<br>
-1% (2003)<br>
-
 **Agricultural products**<br>
 vegetables, bananas, pawpaws, coconuts<br>
 
@@ -263,9 +257,6 @@ United States 57%, Ireland 15% (2019)<br>
 
 **Exports - commodities**<br>
 integrated circuits, vaccines and cultures, furniture, carbon batteries, rubber gloves (2021)<br>
-
-**Imports**<br>
-<p>NA</p><br>
 
 **Imports - partners**<br>
 Australia 73%, United Arab Emirates 15%, Netherlands 5% (2019)<br>
@@ -304,8 +295,8 @@ _percent of population_: 13.4% (2021 est.)<br>
 1 (2024)<br>
 
 **Roadways**<br>
-_total_: 22 km (2007)<br>
-_paved_: 10 km (2007)<br>
+_total_: 22 km<br>
+_paved_: 10 km<br>
 _unpaved_: 12 km (2007)<br>
 
 **Ports and terminals**<br>

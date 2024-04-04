@@ -387,7 +387,7 @@ _on food_: 14.7% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 6.4% (2010)<br>
+_lowest 10%_: 6.4%<br>
 _highest 10%_: 40.3% (2010)<br>
 
 **Budget**<br>

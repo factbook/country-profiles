@@ -397,29 +397,32 @@ _selected World Heritage Site locales_: Tsodilo Hills (c); Okavango Delta (n)<br
 good economic governance and financial management; diamond-driven growth model declining; rapid poverty reductions; high unemployment, particularly among youth; COVID-19 sharply contracted the economy and recovery is slow; public sector wages have posed fiscal challenges<br>
 
 **Real GDP (purchasing power parity)**<br>
-$38.415 billion (2021 est.)<br>
-$34.493 billion (2020 est.)<br>
-$37.79 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$40.819 billion (2022 est.)<br>
+$38.585 billion (2021 est.)<br>
+$34.491 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-11.37% (2021 est.)<br>
+5.79% (2022 est.)<br>
+11.87% (2021 est.)<br>
 -8.73% (2020 est.)<br>
-3.03% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$14,800 (2021 est.)<br>
+$15,500 (2022 est.)<br>
+$14,900 (2021 est.)<br>
 $13,500 (2020 est.)<br>
-$15,100 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$18.335 billion (2019 est.)<br>
+$20.356 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+11.67% (2022 est.)<br>
 7.24% (2021 est.)<br>
 1.89% (2020 est.)<br>
-2.77% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: A2 (2020)<br>
@@ -446,15 +449,18 @@ milk, roots/tubers, vegetables, sorghum, beef, game meat, watermelons, cabbages,
 diamonds, copper, nickel, salt, soda ash, potash, coal, iron ore, silver; beef processing; textiles<br>
 
 **Industrial production growth rate**<br>
-19.38% (2021 est.)<br>
+7.57% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.05 million (2021 est.)<br>
+1.145 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-24.72% (2021 est.)<br>
-24.93% (2020 est.)<br>
-22.61% (2019 est.)<br>
+23.62% (2022 est.)<br>
+23.11% (2021 est.)<br>
+21.02% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 41.2% (2021 est.)<br>
@@ -462,19 +468,23 @@ _male_: 39.5%<br>
 _female_: 43.3%<br>
 
 **Population below poverty line**<br>
-19.3% (2009 est.)<br>
+16.1% (2015 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 53.3 (2015 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
+_lowest 10%_: 1.5%<br>
+_highest 10%_: 41.5% (2015 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.33% of GDP (2021 est.)<br>
-0.24% of GDP (2020 est.)<br>
-0.36% of GDP (2019 est.)<br>
+0.34% of GDP (2022 est.)<br>
+0.32% of GDP (2021 est.)<br>
+0.3% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $3.828 billion (2020 est.)<br>
@@ -484,26 +494,29 @@ _expenditures_: $6.006 billion (2020 est.)<br>
 -1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-19.66% of GDP (2020 est.)<br>
-16.22% of GDP (2019 est.)<br>
+19.62% of GDP (2020 est.)<br>
+16.19% of GDP (2019 est.)<br>
 15.23% of GDP (2018 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-22.32% (of GDP) (2020 est.)<br>
+22.25% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$122.877 million (2021 est.)<br>
--$1.292 billion (2020 est.)<br>
--$1.155 billion (2019 est.)<br>
+$606.394 million (2022 est.)<br>
+-$250.118 million (2021 est.)<br>
+-$1,531,276,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$7.931 billion (2021 est.)<br>
-$4.81 billion (2020 est.)<br>
-$6.229 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$8.9 billion (2022 est.)<br>
+$7.928 billion (2021 est.)<br>
+$4.703 billion (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 India 21%, Belgium 19%, United Arab Emirates 19%, South Africa 9%, Israel 7%, Hong Kong 6%, Singapore 5% (2019)<br>
@@ -512,9 +525,10 @@ India 21%, Belgium 19%, United Arab Emirates 19%, South Africa 9%, Israel 7%, Ho
 diamonds, insulated wiring, copper, beef, gold (2021)<br>
 
 **Imports**<br>
-$9.277 billion (2021 est.) note: data are in current year dollars<br>
-$7.413 billion (2020 est.) note: data are in current year dollars<br>
-$7.696 billion (2019 est.)<br>
+$8.7 billion (2022 est.)<br>
+$9.252 billion (2021 est.) note: data are in current year dollars<br>
+$7.554 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 South Africa 58%, Namibia 9%, Canada 7% (2019)<br>
@@ -523,9 +537,10 @@ South Africa 58%, Namibia 9%, Canada 7% (2019)<br>
 diamonds, refined petroleum, cars, delivery trucks, electricity (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$4.802 billion (31 December 2021 est.)<br>
-$4.941 billion (31 December 2020 est.)<br>
-$6.17 billion (31 December 2019 est.)<br>
+$4.279 billion (2022 est.)<br>
+$4.802 billion (2021 est.)<br>
+$4.941 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2.187 billion (31 December 2017 est.)<br>
@@ -533,11 +548,11 @@ $2.421 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: pulas (BWP) per US dollar -<br>
+12.369 (2022 est.)<br>
 11.087 (2021 est.)<br>
 11.456 (2020 est.)<br>
 10.756 (2019 est.)<br>
 10.2 (2018 est.)<br>
-10.347 (2017 est.)<br>
 
 ## Energy
 

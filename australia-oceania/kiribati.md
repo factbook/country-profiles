@@ -364,29 +364,32 @@ _selected World Heritage Site locales_: Phoenix Islands Protected Area<br>
 lower-middle income, Pacific island economy; environmentally fragile; sizable remittances; key phosphate mining fund; tourism and fishing industries; public sector-dominated economy; recent withdrawal from Pacific Islands Forum; ongoing constitutional crisis<br>
 
 **Real GDP (purchasing power parity)**<br>
-$249.64 million (2021 est.)<br>
-$245.951 million (2020 est.)<br>
-$247.304 million (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$262.821 million (2022 est.)<br>
+$258.777 million (2021 est.)<br>
+$239.908 million (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.5% (2021 est.)<br>
--0.55% (2020 est.)<br>
--0.54% (2019 est.)<br>
+1.56% (2022 est.)<br>
+7.87% (2021 est.)<br>
+-1.66% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,900 (2021 est.)<br>
+$2,000 (2022 est.)<br>
+$2,000 (2021 est.)<br>
 $1,900 (2020 est.)<br>
-$2,000 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$197 million (2017 est.)<br>
+$223.353 million (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.05% (2021 est.)<br>
+2.55% (2020 est.)<br>
 -1.81% (2019 est.)<br>
-0.56% (2018 est.)<br>
-0.36% (2017 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 23% (2016 est.)<br>
@@ -400,7 +403,8 @@ coconuts, roots/tubers, bananas, vegetables, taro, tropical fruit, poultry, pork
 fishing, handicrafts<br>
 
 **Industrial production growth rate**<br>
--1.57% (2020 est.)<br>
+21.11% (2021 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 39,000 (2010 est.)<br>
@@ -416,19 +420,23 @@ _male_: 21.2%<br>
 _female_: 24.6%<br>
 
 **Population below poverty line**<br>
-NA<br>
+21.9% (2019 est.) NA<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 27.8 (2019 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
+_lowest 10%_: 4%<br>
+_highest 10%_: 22.9% (2019 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-8.24% of GDP (2020 est.)<br>
-11.28% of GDP (2019 est.)<br>
-10.18% of GDP (2018 est.)<br>
+6.72% of GDP (2022 est.)<br>
+5.87% of GDP (2021 est.)<br>
+8.4% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $281 million (2017 est.)<br>
@@ -442,20 +450,23 @@ _expenditures_: $205 million (2017 est.)<br>
 22.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-26.28% (of GDP) (2020 est.)<br>
+27.38% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 NA<br>
 
 **Current account balance**<br>
+-$6.46 million (2022 est.)<br>
 $20.251 million (2021 est.)<br>
 $71.279 million (2020 est.)<br>
-$86.818 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$19.677 million (2022 est.)<br>
 $10.754 million (2021 est.) note: data are in current year dollars<br>
 $21.228 million (2020 est.) note: data are in current year dollars<br>
-$32.516 million (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Thailand 60%, Indonesia 11%, Philippines 10%, Japan 6%, South Korea 3% (2021)<br>
@@ -464,9 +475,10 @@ Thailand 60%, Indonesia 11%, Philippines 10%, Japan 6%, South Korea 3% (2021)<br
 skipjacks, tuna, fish fillets, ships, coconut oil, copra (2021)<br>
 
 **Imports**<br>
+$254.438 million (2022 est.)<br>
 $201.984 million (2021 est.) note: data are in current year dollars<br>
 $148.77 million (2020 est.) note: data are in current year dollars<br>
-$177.149 million (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 23%, Taiwan 16%, Fiji 16%, Australia 12%, New Zealand 6% (2021)<br>
@@ -475,7 +487,6 @@ China 23%, Taiwan 16%, Fiji 16%, Australia 12%, New Zealand 6% (2021)<br>
 fishing ships, beef, netting, poultry meat, rice, refined petroleum, sugar, refrigerators (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$0 (31 December 2017 est.)<br>
 $8.37 million (31 December 2010 est.)<br>
 
 **Debt - external**<br>
@@ -484,11 +495,11 @@ $32.3 million (2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>
+1.442 (2022 est.)<br>
 1.331 (2021 est.)<br>
 1.453 (2020 est.)<br>
 1.439 (2019 est.)<br>
 1.338 (2018 est.)<br>
-1.305 (2017 est.)<br>
 <strong>note:</strong> the Australian dollar circulates as legal tender<br>
 
 ## Energy

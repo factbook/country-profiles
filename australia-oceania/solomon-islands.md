@@ -357,29 +357,32 @@ _selected World Heritage Site locales_: East Rennell<br>
 lower middle-income Pacific island economy; natural resource rich but environmentally fragile; key agrarian sector; growing Chinese economic relationship; infrastructure damage due to social unrest; metal mining operations<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.703 billion (2021 est.)<br>
+$1.628 billion (2022 est.)<br>
+$1.697 billion (2021 est.)<br>
 $1.707 billion (2020 est.)<br>
-$1.766 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--0.2% (2021 est.)<br>
+-4.06% (2022 est.)<br>
+-0.57% (2021 est.)<br>
 -3.38% (2020 est.)<br>
-1.75% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,200 (2022 est.)<br>
 $2,400 (2021 est.)<br>
 $2,500 (2020 est.)<br>
-$2,600 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.298 billion (2017 est.)<br>
+$1.597 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.52% (2022 est.)<br>
 -0.12% (2021 est.)<br>
 2.96% (2020 est.)<br>
-1.63% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2015)<br>
@@ -406,15 +409,17 @@ fish (tuna), mining, timber<br>
 
 **Industrial production growth rate**<br>
 -3.84% (2020 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-366,000 (2021 est.)<br>
+372,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.03% (2021 est.)<br>
-0.92% (2020 est.)<br>
-0.75% (2019 est.)<br>
-NA<br>
+1.61% (2022 est.)<br>
+0.94% (2021 est.)<br>
+0.89% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 1.9% (2021 est.)<br>
@@ -432,9 +437,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-3.13% of GDP (2021 est.)<br>
+5.08% of GDP (2022 est.)<br>
+3.23% of GDP (2021 est.)<br>
 1.79% of GDP (2020 est.)<br>
-1.57% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $514 million (2019 est.)<br>
@@ -447,22 +453,26 @@ _expenditures_: $537 million (2019 est.)<br>
 11.46% of GDP (2020 est.)<br>
 7.74% of GDP (2019 est.)<br>
 7.69% of GDP (2018 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-21.05% (of GDP) (2020 est.)<br>
+20.67% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
+-$218.534 million (2022 est.)<br>
 -$78.192 million (2021 est.)<br>
 -$25.06 million (2020 est.)<br>
--$153.998 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$411.359 million (2022 est.)<br>
 $413.657 million (2021 est.) note: data are in current year dollars<br>
 $428.834 million (2020 est.) note: data are in current year dollars<br>
-$591.293 million (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 59%, Italy 9%, India 6%, Netherlands 4%, Australia 3% (2021)<br>
@@ -471,9 +481,10 @@ China 59%, Italy 9%, India 6%, Netherlands 4%, Australia 3% (2021)<br>
 lumber, tuna, palm oil, coconut oil, gold (2021)<br>
 
 **Imports**<br>
+$764.641 million (2022 est.)<br>
 $619.46 million (2021 est.) note: data are in current year dollars<br>
 $556.26 million (2020 est.) note: data are in current year dollars<br>
-$752.909 million (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 36%, Singapore 13%, Australia 12%, Malaysia 10%, New Zealand 6% (2021)<br>
@@ -482,9 +493,10 @@ China 36%, Singapore 13%, Australia 12%, Malaysia 10%, New Zealand 6% (2021)<br>
 refined petroleum, scrap iron, fish, iron structures, poultry meats, rice (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$694.515 million (31 December 2021 est.)<br>
-$660.996 million (31 December 2020 est.)<br>
-$571.632 million (31 December 2019 est.)<br>
+$661.604 million (2022 est.)<br>
+$694.515 million (2021 est.)<br>
+$660.996 million (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $757 million (31 December 2017 est.)<br>
@@ -492,11 +504,11 @@ $643 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Solomon Islands dollars (SBD) per US dollar -<br>
+8.156 (2022 est.)<br>
 8.03 (2021 est.)<br>
 8.213 (2020 est.)<br>
 8.173 (2019 est.)<br>
 7.953 (2018 est.)<br>
-7.887 (2017 est.)<br>
 
 ## Energy
 

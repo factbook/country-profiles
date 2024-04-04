@@ -403,29 +403,32 @@ _selected World Heritage Site locales_: Ashur (Qal'at Sherqat) (c); Babylon (c);
 oil-dependent Middle Eastern economy; COVID-19 disruption and domestic economy fragility post-US presence; poverty increases; currency devaluation leading to inflation; import-dependent for most sectors; evaluating fiscal and monetary restructuring<br>
 
 **Real GDP (purchasing power parity)**<br>
-$390.165 billion (2021 est.)<br>
-$379.6 billion (2020 est.)<br>
-$428.076 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$409.321 billion (2022 est.)<br>
+$382.511 billion (2021 est.)<br>
+$376.549 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.78% (2021 est.)<br>
--11.32% (2020 est.)<br>
-5.51% (2019 est.)<br>
+7.01% (2022 est.)<br>
+1.58% (2021 est.)<br>
+-12.04% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$9,000 (2021 est.)<br>
-$8,900 (2020 est.)<br>
-$10,300 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$9,200 (2022 est.)<br>
+$8,800 (2021 est.)<br>
+$8,800 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$231.994 billion (2019 est.)<br>
+$264.182 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.99% (2022 est.)<br>
 6.04% (2021 est.)<br>
 0.57% (2020 est.)<br>
--0.2% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B- (2015)<br>
@@ -453,15 +456,18 @@ wheat, barley, dates, tomatoes, rice, maize, grapes, potatoes, watermelons<br>
 petroleum, chemicals, textiles, leather, construction materials, food processing, fertilizer, metal fabrication/processing<br>
 
 **Industrial production growth rate**<br>
--1.14% (2021 est.)<br>
+11.15% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-11.184 million (2021 est.)<br>
+11.356 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-14.19% (2021 est.)<br>
-14.09% (2020 est.)<br>
-12.86% (2019 est.)<br>
+15.32% (2022 est.)<br>
+16.17% (2021 est.)<br>
+15.75% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 27.2% (2021 est.)<br>
@@ -483,9 +489,10 @@ _lowest 10%_: 3.6%<br>
 _highest 10%_: 25.7% (2007 est.)<br>
 
 **Remittances**<br>
-0.35% of GDP (2020 est.)<br>
-0.37% of GDP (2019 est.)<br>
-0.33% of GDP (2018 est.)<br>
+0.24% of GDP (2022 est.)<br>
+0.4% of GDP (2021 est.)<br>
+0.36% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $51.534 billion (2020 est.)<br>
@@ -498,22 +505,26 @@ _expenditures_: $85.546 billion (2020 est.)<br>
 27.44% of GDP (2018 est.)<br>
 35.86% of GDP (2017 est.)<br>
 29.48% of GDP (2016 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 1.34% (of GDP) (2019 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$24.563 billion (2021 est.)<br>
--$6.198 billion (2020 est.)<br>
-$15.763 billion (2019 est.)<br>
+$58.01 billion (2022 est.)<br>
+$24.565 billion (2021 est.)<br>
+-$6,306,200,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$127.079 billion (2022 est.)<br>
 $78.261 billion (2021 est.) note: data are in current year dollars<br>
-$50.632 billion (2020 est.) note: data are in current year dollars<br>
-$88.903 billion (2019 est.) note: data are in current year dollars<br>
+$50.666 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 26%, India 24%, South Korea 9%, United States 8%, Italy 6%, Greece 6% (2019)<br>
@@ -522,9 +533,10 @@ China 26%, India 24%, South Korea 9%, United States 8%, Italy 6%, Greece 6% (201
 crude petroleum, refined petroleum, gold, petroleum coke, natural gas (2021)<br>
 
 **Imports**<br>
+$69.162 billion (2022 est.)<br>
 $50.707 billion (2021 est.) note: data are in current year dollars<br>
-$54.722 billion (2020 est.) note: data are in current year dollars<br>
-$72.283 billion (2019 est.) note: data are in current year dollars<br>
+$54.865 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United Arab Emirates 28%, Turkey 21%, China 19% (2019)<br>
@@ -533,9 +545,10 @@ United Arab Emirates 28%, Turkey 21%, China 19% (2019)<br>
 refined petroleum, broadcasting equipment, cars, jewelry, cigarettes (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$64.231 billion (31 December 2021 est.)<br>
-$54.424 billion (31 December 2020 est.)<br>
-$68.018 billion (31 December 2019 est.)<br>
+$97.009 billion (2022 est.)<br>
+$64.231 billion (2021 est.)<br>
+$54.424 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $73.02 billion (31 December 2017 est.)<br>
@@ -543,11 +556,11 @@ $64.16 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Iraqi dinars (IQD) per US dollar -<br>
+1,450 (2022 est.)<br>
 1,450 (2021 est.)<br>
 1,192 (2020 est.)<br>
 1,182 (2019 est.)<br>
 1,182.75 (2018 est.)<br>
-1,184 (2017 est.)<br>
 
 ## Energy
 

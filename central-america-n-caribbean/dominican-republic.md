@@ -95,7 +95,7 @@ Spanish (official)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 44.3%, Evangelical 13%, Protestant 7.9%, Adventist 1.4%, other 1.8%, atheist 0.2%, none 29.4%, unspecified 2% (2018 est.)<br>
+Evangelical 50.2%, Roman Catholic 30.1%, none 18.5%, unspecified 1.2% (2023 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 25.92% (male 1,422,186/female 1,374,991)<br>
@@ -228,9 +228,9 @@ _women married by age 18_: 31.5% (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 95.2%<br>
-_male_: 95.1%<br>
-_female_: 95.3% (2021)<br>
+_total population_: 95.5%<br>
+_male_: 95.4%<br>
+_female_: 95.6% (2022)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -395,29 +395,32 @@ _selected World Heritage Site locales_: Colonial City of Santo Domingo<br>
 surging middle-income tourism, construction, mining, and telecommunications OECS economy; major foreign US direct investment and free-trade zones; developing local financial markets; improving debt management; declining poverty<br>
 
 **Real GDP (purchasing power parity)**<br>
+$217.143 billion (2022 est.)<br>
 $207.082 billion (2021 est.)<br>
 $184.447 billion (2020 est.)<br>
-$197.735 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+4.86% (2022 est.)<br>
 12.27% (2021 est.)<br>
 -6.72% (2020 est.)<br>
-5.05% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$19,300 (2022 est.)<br>
 $18,600 (2021 est.)<br>
 $16,800 (2020 est.)<br>
-$18,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$88.956 billion (2019 est.)<br>
+$113.537 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.81% (2022 est.)<br>
 8.24% (2021 est.)<br>
 3.78% (2020 est.)<br>
-1.81% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2016)<br>
@@ -445,15 +448,18 @@ sugar cane, bananas, papayas, rice, plantains, milk, avocados, fruit, pineapples
 tourism, sugar processing, gold mining, textiles, cement, tobacco, electrical components, medical devices<br>
 
 **Industrial production growth rate**<br>
-15.89% (2021 est.)<br>
+1.43% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.027 million (2021 est.)<br>
+5.175 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.5% (2021 est.)<br>
+5.5% (2022 est.)<br>
+7.7% (2021 est.)<br>
 6.13% (2020 est.)<br>
-6.36% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 20.6% (2021 est.)<br>
@@ -461,23 +467,27 @@ _male_: 16.6%<br>
 _female_: 27.9%<br>
 
 **Population below poverty line**<br>
-21% (2019 est.)<br>
+23.9% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-39.6 (2020 est.)<br>
+38.5 (2021 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 26.8% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 3.8% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.9%<br>
-_highest 10%_: 37.4% (2013 est.)<br>
+_lowest 10%_: 2.6%<br>
+_highest 10%_: 30.2% (2021 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+9.05% of GDP (2022 est.)<br>
 11.4% of GDP (2021 est.)<br>
 10.57% of GDP (2020 est.)<br>
-8.34% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $12.804 billion (2019 est.)<br>
@@ -491,20 +501,23 @@ _expenditures_: $14.511 billion (2019 est.)<br>
 34.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-12.39% (of GDP) (2020 est.)<br>
+14.38% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$2.689 billion (2021 est.)<br>
+-$6.327 billion (2022 est.)<br>
+-$2.685 billion (2021 est.)<br>
 -$1.337 billion (2020 est.)<br>
--$1.188 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$20.509 billion (2021 est.) note: data are in current year dollars<br>
+$25.103 billion (2022 est.)<br>
+$20.601 billion (2021 est.) note: data are in current year dollars<br>
 $14.889 billion (2020 est.) note: data are in current year dollars<br>
-$20.509 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 51%, Haiti 7%, Switzerland 7%, India 5%, Netherlands 3% (2021)<br>
@@ -513,9 +526,10 @@ United States 51%, Haiti 7%, Switzerland 7%, India 5%, Netherlands 3% (2021)<br>
 gold, medical instruments, cigars, low-voltage protection equipment, iron alloys, clothing (2021)<br>
 
 **Imports**<br>
-$28.541 billion (2021 est.) note: data are in current year dollars<br>
+$36.36 billion (2022 est.)<br>
+$28.69 billion (2021 est.) note: data are in current year dollars<br>
 $20.302 billion (2020 est.) note: data are in current year dollars<br>
-$24.526 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 42%, China 19%, Spain 3%, Brazil 3%, Mexico 3% (2021)<br>
@@ -524,9 +538,10 @@ United States 42%, China 19%, Spain 3%, Brazil 3%, Mexico 3% (2021)<br>
 refined petroleum, cars, natural gas, jewelry, vaccines and cultures (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$13.125 billion (31 December 2021 est.)<br>
-$10.845 billion (31 December 2020 est.)<br>
-$8.871 billion (31 December 2019 est.)<br>
+$14.523 billion (2022 est.)<br>
+$13.125 billion (2021 est.)<br>
+$10.845 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $23.094 billion (2019 est.)<br>
@@ -534,11 +549,11 @@ $21.198 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Dominican pesos (DOP) per US dollar -<br>
+55.141 (2022 est.)<br>
 57.221 (2021 est.)<br>
 56.525 (2020 est.)<br>
 51.295 (2019 est.)<br>
 49.51 (2018 est.)<br>
-47.534 (2017 est.)<br>
 
 ## Energy
 
@@ -657,8 +672,8 @@ _standard gauge_: 354 km (2014) 1.435-m gauge<br>
 _narrow gauge_: 142 km (2014) 0.762-m gauge<br>
 
 **Roadways**<br>
-_total_: 19,705 km (2002)<br>
-_paved_: 9,872 km (2002)<br>
+_total_: 19,705 km<br>
+_paved_: 9,872 km<br>
 _unpaved_: 9,833 km (2002)<br>
 
 **Merchant marine**<br>

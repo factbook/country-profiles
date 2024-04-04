@@ -391,29 +391,32 @@ _selected World Heritage Site locales_: Rapa Nui National Park; Churches of Chil
 export-driven economy; leading copper producer; though hit by COVID-19, fairly quick rebound from increased liquidity and rapid vaccine rollouts; decreasing poverty but still lingering inequality; public debt rising but still manageable; recent political violence has had negative economic consequences<br>
 
 **Real GDP (purchasing power parity)**<br>
-$496.085 billion (2021 est.)<br>
-$444.249 billion (2020 est.)<br>
-$472.495 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$507.465 billion (2022 est.)<br>
+$495.375 billion (2021 est.)<br>
+$443.339 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-11.67% (2021 est.)<br>
--5.98% (2020 est.)<br>
-0.77% (2019 est.)<br>
+2.44% (2022 est.)<br>
+11.74% (2021 est.)<br>
+-6.15% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$25,900 (2022 est.)<br>
 $25,400 (2021 est.)<br>
 $23,000 (2020 est.)<br>
-$24,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$282.655 billion (2019 est.)<br>
+$301.025 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+11.64% (2022 est.)<br>
 4.52% (2021 est.)<br>
 3.05% (2020 est.)<br>
-2.56% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A- (2020)<br>
@@ -441,15 +444,18 @@ grapes, apples, wheat, sugar beet, milk, potatoes, tomatoes, maize, poultry, por
 copper, lithium, other minerals, foodstuffs, fish processing, iron and steel, wood and wood products, transport equipment, cement, textiles<br>
 
 **Industrial production growth rate**<br>
-5.06% (2021 est.)<br>
+-1.67% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.684 million (2021 est.)<br>
+9.63 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.13% (2021 est.)<br>
-11.18% (2020 est.)<br>
-7.29% (2019 est.)<br>
+8.25% (2022 est.)<br>
+9.28% (2021 est.)<br>
+10.94% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 21.4% (2021 est.)<br>
@@ -457,23 +463,27 @@ _male_: 20.4%<br>
 _female_: 22.8%<br>
 
 **Population below poverty line**<br>
-8.6% (2017 est.)<br>
+10.8% (2020 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 44.9 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 16% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 2.9% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.7%<br>
-_highest 10%_: 41.5% (2013 est.)<br>
+_lowest 10%_: 2.1%<br>
+_highest 10%_: 35.8% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.02% of GDP (2022 est.)<br>
+0.02% of GDP (2021 est.)<br>
 0.03% of GDP (2020 est.)<br>
-0.02% of GDP (2019 est.)<br>
-0.02% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $55.16 billion (2020 est.)<br>
@@ -487,21 +497,23 @@ _expenditures_: $73.176 billion (2020 est.)<br>
 21% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-16.24% (of GDP) (2020 est.)<br>
+19.6% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$20.307 billion (2021 est.)<br>
--$4.283 billion (2020 est.)<br>
--$14.505 billion (2019 est.)<br>
+-$27,101,824,000 (2022 est.)<br>
+-$23,193,388,000 (2021 est.)<br>
+-$4,952,326,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$100.634 billion (2021 est.)<br>
-$79.733 billion (2020 est.)<br>
-$77.255 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$107.078 billion (2022 est.)<br>
+$100.747 billion (2021 est.)<br>
+$79.579 billion (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 32%, United States 14%, Japan 9%, South Korea 7% (2019)<br>
@@ -510,9 +522,10 @@ China 32%, United States 14%, Japan 9%, South Korea 7% (2019)<br>
 copper, fish fillets, wood pulp, pitted fruits, wine (2021)<br>
 
 **Imports**<br>
-$102.086 billion (2021 est.) note: data are in current year dollars<br>
-$68.118 billion (2020 est.) note: data are in current year dollars<br>
-$82.324 billion (2019 est.) note: data are in current year dollars<br>
+$118.094 billion (2022 est.)<br>
+$102.595 billion (2021 est.) note: data are in current year dollars<br>
+$68.134 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 24%, United States 20%, Brazil 8%, Germany 5%, Argentina 5% (2019)<br>
@@ -521,9 +534,10 @@ China 24%, United States 20%, Brazil 8%, Germany 5%, Argentina 5% (2019)<br>
 refined petroleum, crude petroleum, cars, broadcasting equipment, delivery trucks (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$51.252 billion (31 December 2021 est.)<br>
-$39.166 billion (31 December 2020 est.)<br>
-$40.656 billion (31 December 2019 est.)<br>
+$39.102 billion (2022 est.)<br>
+$51.252 billion (2021 est.)<br>
+$39.166 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $193.298 billion (2019 est.)<br>
@@ -531,11 +545,11 @@ $181.089 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Chilean pesos (CLP) per US dollar -<br>
+873.314 (2022 est.)<br>
 758.955 (2021 est.)<br>
 792.727 (2020 est.)<br>
 702.897 (2019 est.)<br>
 641.277 (2018 est.)<br>
-648.834 (2017 est.)<br>
 
 ## Energy
 

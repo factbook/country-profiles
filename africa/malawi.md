@@ -411,29 +411,32 @@ _selected World Heritage Site locales_: Lake Malawi National Park (n); Chongoni 
 low-income East African economy; primarily agrarian; investing in human capital; urban poverty increasing due to COVID-19; high public debt; endemic corruption and poor property rights; poor hydroelectric grid; localized pharmaceutical industry<br>
 
 **Real GDP (purchasing power parity)**<br>
+$29.932 billion (2022 est.)<br>
 $29.658 billion (2021 est.)<br>
 $28.864 billion (2020 est.)<br>
-$28.635 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+0.92% (2022 est.)<br>
 2.75% (2021 est.)<br>
 0.8% (2020 est.)<br>
-5.45% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$1,500 (2022 est.)<br>
 $1,500 (2021 est.)<br>
 $1,500 (2020 est.)<br>
-$1,500 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$7.766 billion (2019 est.)<br>
+$13.165 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+20.95% (2022 est.)<br>
+9.33% (2021 est.)<br>
 8.63% (2020 est.)<br>
-9.37% (2019 est.)<br>
-12.42% (2018 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 28.6% (2017 est.)<br>
@@ -455,15 +458,18 @@ sweet potatoes, cassava, sugar cane, maize, mangoes/guavas, potatoes, tomatoes, 
 tobacco, tea, sugar, sawmill products, cement, consumer goods<br>
 
 **Industrial production growth rate**<br>
-1.9% (2021 est.)<br>
+0.89% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.551 million (2021 est.)<br>
+8.072 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.02% (2021 est.)<br>
-6.7% (2020 est.)<br>
-5.75% (2019 est.)<br>
+5.11% (2022 est.)<br>
+5.76% (2021 est.)<br>
+5.74% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.9% (2021 est.)<br>
@@ -471,19 +477,23 @@ _male_: 7.6%<br>
 _female_: 12.2%<br>
 
 **Population below poverty line**<br>
-51.5% (2016 est.)<br>
+50.7% (2019 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 38.5 (2019 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.2%<br>
-_highest 10%_: 37.5% (2010 est.)<br>
+_lowest 10%_: 2.9%<br>
+_highest 10%_: 31% (2019 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+1.97% of GDP (2022 est.)<br>
 2.05% of GDP (2021 est.)<br>
-1.9% of GDP (2020 est.)<br>
-2.55% of GDP (2019 est.)<br>
+1.92% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.628 billion (2019 est.)<br>
@@ -496,22 +506,26 @@ _expenditures_: $2.129 billion (2019 est.)<br>
 44.89% of GDP (2019 est.)<br>
 41.7% of GDP (2018 est.)<br>
 34.29% of GDP (2017 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-11.72% (of GDP) (2020 est.)<br>
+11.38% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$1.543 billion (2021 est.)<br>
--$1.466 billion (2020 est.)<br>
--$1.321 billion (2019 est.)<br>
+-$1,543,008,000 (2021 est.)<br>
+-$1,466,328,000 (2020 est.)<br>
+-$1,321,052,000 (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $1.538 billion (2021 est.) note: data are in current year dollars<br>
 $1.268 billion (2020 est.) note: data are in current year dollars<br>
 $1.447 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Belgium 16%, United States 8%, Egypt 7%, South Africa 6%, Germany 6%, Kenya 5%, United Arab Emirates 5% (2019)<br>
@@ -523,6 +537,7 @@ tobacco, gold, soybeans, raw sugar, tea, dried legumes and nuts (2021)<br>
 $3.582 billion (2021 est.) note: data are in current year dollars<br>
 $3.208 billion (2020 est.) note: data are in current year dollars<br>
 $3.266 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 South Africa 17%, China 16%, United Arab Emirates 9%, India 9%, United Kingdom 8% (2019)<br>
@@ -531,9 +546,10 @@ South Africa 17%, China 16%, United Arab Emirates 9%, India 9%, United Kingdom 8
 postage stamps, refined petroleum, packaged medicines, fertilizers, office machinery/parts (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$594,498,500 (31 December 2020 est.)<br>
-$846,839,800 (31 December 2019 est.)<br>
-$766,154,800 (31 December 2018 est.)<br>
+$594.498 million (2020 est.)<br>
+$846.84 million (2019 est.)<br>
+$766.155 million (2018 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2.102 billion (31 December 2017 est.)<br>
@@ -703,7 +719,7 @@ the MDF’s primary responsibility is external security; it is also tasked as ne
 <p><em>Malawi-Mozambique</em>: the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Malawi-Tanzania</em>: dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,502 (Burundi) (refugees and asylum seekers), 6,594 (Rwanda) (refugees and asylum seekers) (2023); 34,468 (Democratic Republic of the Congo) (refugees and asylum seekers)<br>
+_refugees (country of origin)_: 11,502 (Burundi) (refugees and asylum seekers), 6,594 (Rwanda) (refugees and asylum seekers) (2023); 34,605 (Democratic Republic of the Congo) (refugees and asylum seekers)<br>
 
 **Illicit drugs**<br>
 NA<br>

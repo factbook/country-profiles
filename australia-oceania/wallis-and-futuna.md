@@ -247,7 +247,7 @@ see France<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by Administrator Superior Herve JONATHAN (since 11 January 2021)<br>
+_chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by Administrator Superior Blaise GOURTAY (since 1 August 2023)<br>
 _head of government_: President of the Territorial Assembly Munipoese MULI'AKA'AKA (since 20 March 2022)<br>
 _cabinet_: Council of the Territory appointed by the administrator superior on the advice of the Territorial Assembly<br>
 _elections/appointments_: French president elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); administrator superior appointed by the French president on the advice of the French Ministry of the Interior; the presidents of the Territorial Government and the Territorial Assembly elected by assembly members<br>
@@ -290,18 +290,6 @@ red saltire (Saint Andrew's Cross) on a white square on a red field; national co
 **Economic overview**<br>
 lower-middle-income, agrarian French dependency economy; heavily reliant on French subsidies; licenses fishing rights to Japan and South Korea; major remittances from New Caledonia; aging workforce; import-dependent; deforestation-fueled fragility<br>
 
-**Real GDP (purchasing power parity)**<br>
-$60 million (2004 est.)<br>
-
-**Real GDP growth rate**<br>
-<p>NA</p><br>
-
-**Real GDP per capita**<br>
-$3,800 (2004 est.)<br>
-
-**GDP (official exchange rate)**<br>
-$195 million (2005) (2005)<br>
-
 **Inflation rate (consumer prices)**<br>
 0.9% (2015)<br>
 2.8% (2005)<br>
@@ -320,9 +308,6 @@ coconuts, breadfruit, yams, taro, bananas; pigs, goats; fish<br>
 
 **Industries**<br>
 copra, handicrafts, fishing, lumber<br>
-
-**Industrial production growth rate**<br>
-NA<br>
 
 **Labor force**<br>
 4,482 (2013)<br>
@@ -355,17 +340,11 @@ _expenditures_: $34.18 million (2015 est.)<br>
 **Fiscal year**<br>
 calendar year<br>
 
-**Exports**<br>
-$47,450 (2004 est.)<br>
-
 **Exports - partners**<br>
 Singapore 47%, France 32%, Belgium 9% (2019)<br>
 
 **Exports - commodities**<br>
 integrated circuits, jewelry, cars, aircraft parts, polyacetals (2019)<br>
-
-**Imports**<br>
-$61.17 million (2004 est.)<br>
 
 **Imports - partners**<br>
 France 43%, Fiji 24%, New Zealand 11%, Australia 6% (2019)<br>

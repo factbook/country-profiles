@@ -379,29 +379,32 @@ _selected World Heritage Site locales_: Al Zubarah Archaeological Site<br>
 high-income, oil-and-gas-based Middle Eastern economy; National Vision 2030 government strategy for economic development, diversification, favorable business conditions to grow investment and employment; infrastructure investments; Islamic finance leader; citizenship-based labor force growth<br>
 
 **Real GDP (purchasing power parity)**<br>
-$260.2 billion (2022 est.)<br>
-$249.636 billion (2021 est.)<br>
+$260.235 billion (2022 est.)<br>
+$249.725 billion (2021 est.)<br>
 $245.727 billion (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.59% (2021 est.)<br>
--3.64% (2020 est.)<br>
-0.77% (2019 est.)<br>
+4.21% (2022 est.)<br>
+1.63% (2021 est.)<br>
+-3.56% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $96,600 (2022 est.)<br>
 $92,900 (2021 est.)<br>
 $89,000 (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$191.29 billion (2018 est.)<br>
+$236.258 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5% (2022 est.)<br>
 2.3% (2021 est.)<br>
 -2.54% (2020 est.)<br>
--0.67% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA- (2017)<br>
@@ -429,15 +432,18 @@ eggs, tomatoes, dates, poultry, cucumbers, camel milk, sheep milk, goat milk, pu
 liquefied natural gas, crude oil production and refining, ammonia, fertilizer, petrochemicals, steel reinforcing bars, cement, commercial ship repair<br>
 
 **Industrial production growth rate**<br>
-0.66% (2021 est.)<br>
+1.69% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.977 million (2021 est.)<br>
+2.011 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-0.26% (2021 est.)<br>
-0.21% (2020 est.)<br>
-0.1% (2019 est.)<br>
+0.13% (2022 est.)<br>
+0.14% (2021 est.)<br>
+0.14% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 1.1% (2021 est.)<br>
@@ -459,9 +465,10 @@ _lowest 10%_: 1.3%<br>
 _highest 10%_: 35.9% (2007)<br>
 
 **Remittances**<br>
+0.44% of GDP (2022 est.)<br>
 0.48% of GDP (2021 est.)<br>
 0.45% of GDP (2020 est.)<br>
-0.33% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $65.922 billion (2019 est.)<br>
@@ -481,14 +488,16 @@ _expenditures_: $57.258 billion (2019 est.)<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
+$63.118 billion (2022 est.)<br>
 $26.319 billion (2021 est.)<br>
--$2.986 billion (2020 est.)<br>
-$4.26 billion (2019 est.)<br>
+-$2,985,714,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $161.693 billion (2022 est.) note: data are in current year dollars<br>
 $105.549 billion (2021 est.) note: data are in current year dollars<br>
 $70.933 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 18%, India 15%, Japan 10%, South Korea 9%, United Kingdom 6% (2022)<br>
@@ -500,6 +509,7 @@ natural gas, crude petroleum, refined petroleum, fertilizers, ethylene polymers 
 $74.52 billion (2022 est.) note: data are in current year dollars<br>
 $61.204 billion (2021 est.) note: data are in current year dollars<br>
 $59.065 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United Arab Emirates 13%, China 11%, United States 10%, United Kingdom 8%, India 5% (2022)<br>
@@ -508,9 +518,10 @@ United Arab Emirates 13%, China 11%, United States 10%, United Kingdom 8%, India
 gas turbines, jewelry, cars, aircraft, broadcasting equipment (2022)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$42.213 billion (31 December 2021 est.)<br>
-$40.973 billion (31 December 2020 est.)<br>
-$39.718 billion (31 December 2019 est.)<br>
+$47.389 billion (2022 est.)<br>
+$42.213 billion (2021 est.)<br>
+$40.973 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $167.8 billion (31 December 2017 est.)<br>
@@ -518,11 +529,11 @@ $157.9 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Qatari rials (QAR) per US dollar -<br>
+3.64 (2022 est.)<br>
 3.64 (2021 est.)<br>
 3.64 (2020 est.)<br>
 3.64 (2019 est.)<br>
 3.64 (2018 est.)<br>
-3.64 (2017 est.)<br>
 
 ## Energy
 

@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Belgium became independent from the Netherlands in 1830; it was occupied by Germany during World Wars I and II. The country prospered in the past half century as a modern, technologically advanced European state and member of NATO and the EU. In recent years, political divisions between the Dutch-speaking Flemish of the north and the French-speaking Walloons of the south have led to constitutional amendments granting these regions formal recognition and autonomy. The capital city of Brussels is home to numerous international organizations, including the EU and NATO.</p><br>
+<p>Belgium became independent from the Netherlands in 1830; it was occupied by Germany during World Wars I and II. The country has since prospered as a modern, technologically advanced European state and member of NATO and the EU. In recent years, longstanding tensions between the Dutch-speaking Flemish of the north and the French-speaking Walloons of the south have led to constitutional amendments granting these regions formal recognition and autonomy. The capital city of Brussels is home to numerous international organizations, including the EU and NATO.</p><br>
 
 ## Geography
 
@@ -329,13 +329,13 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King PHILIPPE (since 21 July 2013); Heir Apparent Princess ELISABETH (daughter of the monarch, born 25 October 2001)<br>
-_head of government_: Prime Minister Alexander DE CROO (since 1 October 2020); Deputy Prime Ministers Vincent Van QUICKENBORNE, Vincent VAN PETEGHEM, Frank VANDENBROUCKE, Pierre-Yves DERMAGNE, Petra DE SUTTER, Georges GILKINET (all since 1 October 2020), David CLARINVAL (since 15 July 2022)<br>
+_head of government_: Prime Minister Alexander DE CROO (since 1 October 2020); Deputy Prime Ministers Paul Van TIGCHELT (since 22 October 2023), Vincent VAN PETEGHEM, Frank VANDENBROUCKE, Pierre-Yves DERMAGNE, Petra DE SUTTER, Georges GILKINET (all since 1 October 2020), David CLARINVAL (since 15 July 2022)<br>
 _cabinet_: Council of Ministers formally appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary and constitutional; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch and approved by Parliament<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms)<br>Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: Senate - last held 26 May 2019 (next to be held on 31 July 2024) <br>Chamber of Representatives - last held on 26 May 2019 (next to be held on 31 May 2024); note - elections coincided with the EU elections<br>
+_elections_: Senate - last held 26 May 2019 (next to be held on 9 June 2024) <br>Chamber of Representatives - last held on 26 May 2019 (next to be held on 9 June 2024); note - elections coincided with the EU parliamentary elections<br>
 _election results_: <br>Senate - percent of vote by party - N-VA 15%, VB 12%, PS 12%, MR 12%, CD&amp;V 8.3%, Open VLD 8.3%, Ecolo 15%, SP.A 6.7%, CDH 3.3%, PVDA-PTB 8.3%; seats by party - N-VA 9, VB 7, PS 7, MR 7, CD&amp;V 5, Open VLD 5, Ecolo 9, SP.A 4, CDH 2, PVDA-PTB 5; composition as of January 2024 - men 34, women 26, percent of women 43.3%<br><br>Chamber of Representatives - percent of vote by party - N-VA 16.7%, VB 12%, PS 13.3%, CD&amp;V 8%, PVDA-PTB 8%, Open VLD 8%, MR 9.3%, SP.A 6%, Ecolo 8.7%, Green 5.3%, CDH 3.3%, Defi 1.3%; seats by party - N-VA 25, VB 18, PS 20, CD&amp;V 12, PVDA+PTB 12, Open VLD 12, MR 14, SP.A 9, Ecolo 13, Green 8, CDH 5, Defi 2; composition as of August 2023 - men 86, women 64, percent of women 42.7%; note - total Parliament percent of women 42.9%<br>
 <strong>note:</strong> the 1993 constitutional revision that further devolved Belgium into a federal state created three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; this reality leaves six governments, each with its own legislative assembly; changes above occurred since the sixth state reform<br>
 
@@ -345,7 +345,7 @@ _judge selection and term of office_: Constitutional Court judges appointed by t
 _subordinate courts_: Courts of Appeal; regional courts; specialized courts for administrative, commercial, labor, immigration, and audit issues; magistrate's courts; justices of the peace<br>
 
 **Political parties and leaders**<br>
-<strong>Flemish parties:</strong> <br>Christian Democratic and Flemish or CD&amp;V [Sammy MAHDI]<br>Forward [Melissa DEPRAETERE] (formerly Social Progressive Alternative or SP.A)<br>Groen or Green [Nadia NAJI and Jeremie VANEECKHOUT] (formerly AGALEV, Flemish Greens)<br>New Flemish Alliance or N-VA [Bart DE WEVER]<br>Open Flemish Liberals and Democrats or Open VLD [Egbert LACHAERT]<br>Vlaams Belang (Flemish Interest) or VB [Tom VAN GRIEKEN]<br><strong>Francophone parties:</strong> <br>Ecolo (Francophone Greens) [Jean-Marc NOLLET and Rajae MAOUANE]<br>Francophone Federalist Democrats or Defi [Francois DE SMET]<br>Les Engages [Maxime PREVOT] (formerly Humanist and Democratic Center or CDH)<br>Reform Movement or MR [George-Louis BOUCHEZ]<br>Socialist Party or PS [Paul MAGNETTE]<br>Workers' Party or PVDA-PTB [Raoul HEDEBOUW]<br>
+<strong>Flemish parties:</strong> <br>Christian Democratic and Flemish or CD&amp;V [Sammy MAHDI]<br>Vooruit or Forward [Melissa DEPRAETERE] (formerly Social Progressive Alternative or SP.A)<br>Groen or Green [Nadia NAJI and Jeremie VANEECKHOUT] (formerly AGALEV, Flemish Greens)<br>New Flemish Alliance or N-VA [Bart DE WEVER]<br>Open Flemish Liberals and Democrats or Open VLD [Tom ONGENA]<br>Vlaams Belang (Flemish Interest) or VB [Tom VAN GRIEKEN]<br><strong>Francophone parties:</strong> <br>Ecolo (Francophone Greens) [Jean-Marc NOLLET and Rajae MAOUANE]<br>Francophone Federalist Democrats or Defi [Francois DE SMET]<br>Les Engages [Maxime PREVOT] (formerly Humanist and Democratic Center or CDH)<br>Reform Movement or MR [George-Louis BOUCHEZ]<br>Socialist Party or PS [Paul MAGNETTE]<br>Workers' Party or PVDA-PTB [Raoul HEDEBOUW]<br>
 
 **International organization participation**<br>
 ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux, BIS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -387,29 +387,32 @@ _selected World Heritage Site locales_: Belfries of Belgium (c); Historic Brugge
 high income economy with strong but moderate growth; high public debt; aging labor force; low labor force participation of low-skilled, migrant, and older workers; strong welfare system; high congestion; complex business permitting and judicial systems<br>
 
 **Real GDP (purchasing power parity)**<br>
-$599.814 billion (2021 est.)<br>
-$565.149 billion (2020 est.)<br>
-$597.165 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$622.704 billion (2022 est.)<br>
+$604.509 billion (2021 est.)<br>
+$565.749 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.13% (2021 est.)<br>
--5.36% (2020 est.)<br>
-2.24% (2019 est.)<br>
+3.01% (2022 est.)<br>
+6.85% (2021 est.)<br>
+-5.26% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$51,700 (2021 est.)<br>
+$53,300 (2022 est.)<br>
+$52,200 (2021 est.)<br>
 $49,000 (2020 est.)<br>
-$52,000 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$533.028 billion (2019 est.)<br>
+$583.436 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+9.6% (2022 est.)<br>
 2.44% (2021 est.)<br>
 0.74% (2020 est.)<br>
-1.44% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA- (2016)<br>
@@ -437,15 +440,18 @@ sugar beets, milk, potatoes, wheat, pork, lettuce, poultry, maize, barley, pears
 engineering and metal products, motor vehicle assembly, transportation equipment, scientific instruments, processed food and beverages, chemicals, pharmaceuticals, base metals, textiles, glass, petroleum<br>
 
 **Industrial production growth rate**<br>
-1.28% (2021 est.)<br>
+-0.1% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.24 million (2021 est.)<br>
+5.374 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.42% (2021 est.)<br>
+5.56% (2022 est.)<br>
+6.26% (2021 est.)<br>
 5.55% (2020 est.)<br>
-5.36% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 19.6% (2021 est.)<br>
@@ -453,23 +459,27 @@ _male_: 18.9%<br>
 _female_: 20.4%<br>
 
 **Population below poverty line**<br>
-14.8% (2018 est.)<br>
+13.2% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-27.2 (2019 est.)<br>
+26 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 13.4% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 4.3% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.4%<br>
-_highest 10%_: 28.4% (2006)<br>
+_lowest 10%_: 3.7%<br>
+_highest 10%_: 21.4% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.67% of GDP (2021 est.)<br>
-2.42% of GDP (2020 est.)<br>
-2.27% of GDP (2019 est.)<br>
+2.3% of GDP (2022 est.)<br>
+2.28% of GDP (2021 est.)<br>
+2.44% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $267.105 billion (2019 est.)<br>
@@ -479,27 +489,29 @@ _expenditures_: $277.492 billion (2019 est.)<br>
 -1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-119.43% of GDP (2020 est.)<br>
+108.06% of GDP (2021 est.)<br>
+119.24% of GDP (2020 est.)<br>
 103.38% of GDP (2019 est.)<br>
-101.39% of GDP (2018 est.)<br>
-<strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions; general government debt is defined by the Maastricht definition and calculated by the National Bank of Belgium as consolidated gross debt; the debt is defined in European Regulation EC479/2009 concerning the implementation of the protocol on the excessive deficit procedure annexed to the Treaty on European Union (Treaty of Maastricht) of 7 February 1992; the sub-sectors of consolidated gross debt are: federal government, communities and regions, local government, and social security funds<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-21.97% (of GDP) (2020 est.)<br>
+23.1% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$2.917 billion (2021 est.)<br>
-$5.702 billion (2020 est.)<br>
-$507.275 million (2019 est.)<br>
+-$5.304 billion (2022 est.)<br>
+$8.233 billion (2021 est.)<br>
+$7.325 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$515.625 billion (2021 est.)<br>
-$417.222 billion (2020 est.)<br>
-$441.566 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$558.271 billion (2022 est.)<br>
+$527.746 billion (2021 est.)<br>
+$413.773 billion (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Germany 17%, France 14%, Netherlands 13%, United Kingdom 8%, United States 6%, Italy 5% (2019)<br>
@@ -509,9 +521,10 @@ vaccines and cultures, cars, packaged medicines, refined petroleum, diamonds, na
 <strong>note:</strong> Belgian amphetamine production and MDMA (ecstasy) production remain significant illicit trade commodities<br>
 
 **Imports**<br>
-$509.018 billion (2021 est.) note: data are in current year dollars<br>
-$408.343 billion (2020 est.) note: data are in current year dollars<br>
-$438.221 billion (2019 est.) note: data are in current year dollars<br>
+$567.164 billion (2022 est.)<br>
+$516.8 billion (2021 est.) note: data are in current year dollars<br>
+$403.359 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Netherlands 16%, Germany 13%, France 10%, United States 8%, Ireland 5%, China 5% (2019)<br>
@@ -520,9 +533,10 @@ Netherlands 16%, Germany 13%, France 10%, United States 8%, Ireland 5%, China 5%
 cars, refined petroleum, packaged medicines, medical cultures/vaccines, diamonds, natural gas (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$41.872 billion (31 December 2021 est.)<br>
-$33.296 billion (31 December 2020 est.)<br>
-$28.97 billion (31 December 2019 est.)<br>
+$41.274 billion (2022 est.)<br>
+$41.872 billion (2021 est.)<br>
+$33.296 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1,317,513,000,000 (2019 est.)<br>
@@ -530,11 +544,11 @@ $1,332,358,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
 0.847 (2018 est.)<br>
-0.885 (2017 est.)<br>
 
 ## Energy
 

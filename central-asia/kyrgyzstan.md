@@ -397,29 +397,32 @@ _selected World Heritage Site locales_: Sulaiman-Too Sacred Mountain (c); Silk R
 landlocked, lower-middle-income Central Asian economy; natural resource rich; growing hydroelectricity and tourism; high remittances; corruption limits investment; COVID-19 and political turmoil hurt GDP, limited public revenues, and increased spending<br>
 
 **Real GDP (purchasing power parity)**<br>
-$32.221 billion (2021 est.)<br>
-$31.098 billion (2020 est.)<br>
-$33.949 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$35.364 billion (2022 est.)<br>
+$33.258 billion (2021 est.)<br>
+$31.522 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.61% (2021 est.)<br>
--8.4% (2020 est.)<br>
-4.6% (2019 est.)<br>
+6.33% (2022 est.)<br>
+5.51% (2021 est.)<br>
+-7.15% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$4,800 (2021 est.)<br>
-$4,700 (2020 est.)<br>
-$5,300 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$5,100 (2022 est.)<br>
+$4,900 (2021 est.)<br>
+$4,800 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$8.442 billion (2019 est.)<br>
+$11.544 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+13.92% (2022 est.)<br>
 11.91% (2021 est.)<br>
 6.33% (2020 est.)<br>
-1.13% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B2 (2015)<br>
@@ -446,15 +449,18 @@ milk, potatoes, sugar beets, maize, wheat, barley, tomatoes, watermelons, onions
 small machinery, textiles, food processing, cement, shoes, lumber, refrigerators, furniture, electric motors, gold, rare earth metals<br>
 
 **Industrial production growth rate**<br>
-3.1% (2021 est.)<br>
+10.89% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.478 million (2021 est.)<br>
+3.004 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.1% (2021 est.)<br>
-8.71% (2020 est.)<br>
-6.92% (2019 est.)<br>
+4.02% (2022 est.)<br>
+4.1% (2021 est.)<br>
+4.63% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 19.3% (2021 est.)<br>
@@ -462,19 +468,23 @@ _male_: 15.6%<br>
 _female_: 27.3%<br>
 
 **Population below poverty line**<br>
-20.1% (2019 est.)<br>
+33.3% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 29 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4.4%<br>
-_highest 10%_: 22.9% (2014 est.)<br>
+_lowest 10%_: 4%<br>
+_highest 10%_: 24% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-32.69% of GDP (2021 est.)<br>
-31.14% of GDP (2020 est.)<br>
-27.17% of GDP (2019 est.)<br>
+27.94% of GDP (2022 est.)<br>
+30.19% of GDP (2021 est.)<br>
+29.29% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $2.878 billion (2019 est.)<br>
@@ -484,25 +494,29 @@ _expenditures_: $2.89 billion (2019 est.)<br>
 -3.2% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-72.23% of GDP (2020 est.)<br>
-54.23% of GDP (2019 est.)<br>
-51.66% of GDP (2018 est.)<br>
+56.36% of GDP (2021 est.)<br>
+67.96% of GDP (2020 est.)<br>
+51.33% of GDP (2019 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-14.92% (of GDP) (2020 est.)<br>
+16.49% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$743.363 million (2021 est.)<br>
+-$5.18 billion (2022 est.)<br>
+-$737.696 million (2021 est.)<br>
 $374.257 million (2020 est.)<br>
--$1.067 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$3.35 billion (2021 est.) note: data are in current year dollars<br>
+$3.628 billion (2022 est.)<br>
+$3.292 billion (2021 est.) note: data are in current year dollars<br>
 $2.435 billion (2020 est.) note: data are in current year dollars<br>
-$3.108 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United Kingdom 56%, Kazakhstan 13%, Russia 13%, Uzbekistan 5% (2019)<br>
@@ -511,9 +525,10 @@ United Kingdom 56%, Kazakhstan 13%, Russia 13%, Uzbekistan 5% (2019)<br>
 gold, float glass, precious metals, kidney beans, refined petroleum, scrap copper, dried fruits (2021)<br>
 
 **Imports**<br>
-$5.919 billion (2021 est.) note: data are in current year dollars<br>
+$10.655 billion (2022 est.)<br>
+$5.928 billion (2021 est.) note: data are in current year dollars<br>
 $4.051 billion (2020 est.) note: data are in current year dollars<br>
-$5.67 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 53%, Russia 17%, Kazakhstan 7%, Uzbekistan 7%, Turkey 5% (2019)<br>
@@ -522,9 +537,10 @@ China 53%, Russia 17%, Kazakhstan 7%, Uzbekistan 7%, Turkey 5% (2019)<br>
 refined petroleum, footwear, clothing and apparel, broadcasting equipment, walnuts (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.983 billion (31 December 2021 est.)<br>
-$2.812 billion (31 December 2020 est.)<br>
-$2.429 billion (31 December 2019 est.)<br>
+$2.799 billion (2022 est.)<br>
+$2.983 billion (2021 est.)<br>
+$2.812 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $8.372 billion (2019 est.)<br>
@@ -532,11 +548,11 @@ $8.066 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: soms (KGS) per US dollar -<br>
+84.116 (2022 est.)<br>
 84.641 (2021 est.)<br>
 77.346 (2020 est.)<br>
 69.789 (2019 est.)<br>
 68.84 (2018 est.)<br>
-68.867 (2017 est.)<br>
 
 ## Energy
 

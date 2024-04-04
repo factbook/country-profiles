@@ -324,7 +324,7 @@ _etymology_: established as a French settlement in 1889 and named after its loca
 Republic Day, 1 December (1958)<br>
 
 **Constitution**<br>
-_history_: several previous; latest constitution passed by a national referendum on 30 July 2023 and validated by the Constitutional Court on 21 August 2023; note - the new constitution was proposed by President Faustin-Archange Touad&eacute;ra, extended the presidential term from 5 to 7 years, removed term limits, and will allow President Touad&eacute;ra to run again in 2025; opposition parties denounced the changes, claiming they were created to facilitate a "life precedency" for Touad&eacute;ra<br>
+_history_: several previous; latest constitution passed by a national referendum on 30 July 2023 and validated by the Constitutional Court on 30 August 2023; note - the new constitution was proposed by President Faustin-Archange Touad&eacute;ra, extended the presidential term from 5 to 7 years, removed term limits, and will allow President Touad&eacute;ra to run again in 2025; opposition parties denounced the changes, claiming they were created to facilitate a "life precedency" for Touad&eacute;ra<br>
 _amendments_: proposals require support of the government, two thirds of the National Council of Transition, and assent by the "Mediator of the Central African" crisis; passage requires at least three-fourths majority vote by the National Council membership; non-amendable constitutional provisions include those on the secular and republican form of government, fundamental rights and freedoms, amendment procedures, or changes to the authorities of various high-level executive, parliamentary, and judicial officials<br>
 
 **Legal system**<br>
@@ -401,29 +401,32 @@ _selected World Heritage Site locales_: Manovo-Gounda St. Floris National Park; 
 enormous natural resources; extreme poverty; weak public institutions and infrastructure; political and gender-based violence have led to displacement of roughly 25% of population; Bangui-Douala corridor blockade reduced activity and tax collection; strong agricultural performance offset COVID-19 downturn<br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.483 billion (2019 est.)<br>
-$4.354 billion (2018 est.)<br>
-$4.195 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$4.597 billion (2022 est.)<br>
+$4.574 billion (2021 est.)<br>
+$4.53 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0.9% (2021 est.)<br>
+0.5% (2022 est.)<br>
+0.98% (2021 est.)<br>
 0.9% (2020 est.)<br>
-3.1% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$800 (2022 est.)<br>
 $800 (2021 est.)<br>
 $800 (2020 est.)<br>
-$900 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.937 billion (2017 est.)<br>
+$2.383 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.58% (2022 est.)<br>
 4.26% (2021 est.)<br>
 1.71% (2020 est.)<br>
-2.69% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 43.2% (2017 est.)<br>
@@ -445,15 +448,18 @@ cassava, yams, groundnuts, taro, bananas, sugar cane, beef, maize, plantains, mi
 gold and diamond mining, logging, brewing, sugar refining<br>
 
 **Industrial production growth rate**<br>
--0.24% (2021 est.)<br>
+-1.5% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.015 million (2021 est.)<br>
+2.039 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.57% (2021 est.)<br>
-6.36% (2020 est.)<br>
-5.62% (2019 est.)<br>
+6.34% (2022 est.)<br>
+6.81% (2021 est.)<br>
+6.66% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.8% (2021 est.)<br>
@@ -461,14 +467,17 @@ _male_: 10.6%<br>
 _female_: 13.1%<br>
 
 **Population below poverty line**<br>
-62% (2008 est.) NA<br>
+68.8% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-56.2 (2008 est.)<br>
+43 (2021 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1%<br>
-_highest 10%_: 33% (2003)<br>
+_highest 10%_: 33.1% (2021 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Budget**<br>
 _revenues_: $418 million (2019 est.)<br>
@@ -482,7 +491,8 @@ _expenditures_: $385 million (2019 est.)<br>
 56% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-8.71% (of GDP) (2020 est.)<br>
+8.21% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -513,9 +523,10 @@ India 18%, France 12%, United States 11%, China 9%, Netherlands 7%, Belgium 7%, 
 refined petroleum, packaged medicines, natural gas, broadcasting equipment, second-hand clothing (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$350.305 million (31 December 2019 est.)<br>
-$361.797 million (31 December 2018 est.)<br>
-$362.717 million (31 December 2017 est.)<br>
+$483.872 million (2021 est.)<br>
+$432.524 million (2020 est.)<br>
+$350.305 million (2019 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $779.9 million (31 December 2017 est.)<br>
@@ -523,11 +534,11 @@ $691.5 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
 555.446 (2018 est.)<br>
-580.657 (2017 est.)<br>
 
 ## Energy
 
@@ -637,8 +648,8 @@ TL<br>
 43 (2024)<br>
 
 **Roadways**<br>
-_total_: 24,000 km (2018)<br>
-_paved_: 700 km (2018)<br>
+_total_: 24,000 km<br>
+_paved_: 700 km<br>
 _unpaved_: 23,300 km (2018)<br>
 
 **Waterways**<br>
@@ -680,6 +691,6 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with South Sudan over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with Sudan over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 28,217 (Sudan) (refugees since 15 April 2023), 6,700 (Democratic Republic of the Congo) (2024)<br>
+_refugees (country of origin)_: 28,217 (Sudan) (refugees since 15 April 2023), 6,707 (Democratic Republic of the Congo) (2024)<br>
 _IDPs_: 490,868 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2023)<br>
 

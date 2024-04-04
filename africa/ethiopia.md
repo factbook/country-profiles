@@ -333,7 +333,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name in Amharic means "new flower" and was bestowed on the city in 1889, three years after its founding<br>
 
 **Administrative divisions**<br>
-12 ethnically based regional states (kililoch, singular - kilil) and 2 chartered cities* (astedader akabibiwach, singular - astedader akabibi); Adis Abeba* (Addis Ababa), Afar, Amara (Amhara), Binshangul Gumuz, Dire Dawa*, Gambela Hizboch (Gambela), Hareri Hizb (Harari), Oromia, Sidama, Somali, Tigray, YeDebub Biheroch Bihereseboch na Hizboch (Southern Nations, Nationalities and Peoples), YeDebub M'irab Ityop'iya Hizboch (Southwest Ethiopia Peoples), Southern Ethiopia Peoples<br>
+12 ethnically based regional states (kililoch, singular - kilil) and 2 chartered cities* (astedader akabibiwach, singular - astedader akabibi); Adis Abeba* (Addis Ababa), Afar, Amara (Amhara), Binshangul Gumuz, Dire Dawa*, Gambela Hizboch (Gambela), Hareri Hizb (Harari), Oromia, Sidama, Sumale, Tigray, YeDebub Biheroch Bihereseboch na Hizboch (Southern Nations, Nationalities and Peoples), YeDebub M'irab Ityop'iya Hizboch (Southwest Ethiopia Peoples), Southern Ethiopia Peoples<br>
 
 **Independence**<br>
 oldest independent country in Africa and one of the oldest in the world - at least 2,000 years (may be traced to the Aksumite Kingdom, which coalesced in the first century B.C.)<br>
@@ -425,29 +425,32 @@ _selected World Heritage Site locales_: Rock-Hewn Churches, Lalibela (c); Simien
 growing Horn of Africa construction- and services-based economy; port access via Djibouti and Eritrea; widespread but declining poverty; COVID-19, locust invasion, and Tigray crisis disruptions; public investment increases; second largest African labor force<br>
 
 **Real GDP (purchasing power parity)**<br>
-$278.945 billion (2021 est.)<br>
+$293.788 billion (2022 est.)<br>
+$278.956 billion (2021 est.)<br>
 $264.059 billion (2020 est.)<br>
-$248.972 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+5.32% (2022 est.)<br>
 5.64% (2021 est.)<br>
 6.06% (2020 est.)<br>
-8.36% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,400 (2022 est.)<br>
 $2,300 (2021 est.)<br>
 $2,300 (2020 est.)<br>
-$2,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$92.154 billion (2019 est.)<br>
+$126.783 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+33.89% (2022 est.)<br>
 26.84% (2021 est.)<br>
 20.36% (2020 est.)<br>
-15.81% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2014)<br>
@@ -475,15 +478,18 @@ maize, cereals, wheat, sorghum, milk, barley, sweet potatoes, roots/tubers nes, 
 food processing, beverages, textiles, leather, garments, chemicals, metals processing, cement<br>
 
 **Industrial production growth rate**<br>
-7.26% (2021 est.)<br>
+4.9% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-56.664 million (2021 est.)<br>
+59.752 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.69% (2021 est.)<br>
-3.24% (2020 est.)<br>
-2.33% (2019 est.)<br>
+3.42% (2022 est.)<br>
+3.93% (2021 est.)<br>
+3.91% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 5.7% (2021 est.)<br>
@@ -492,22 +498,26 @@ _female_: 7.2%<br>
 
 **Population below poverty line**<br>
 23.5% (2015 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 35 (2015 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 56.6% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 3.8% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4.1%<br>
-_highest 10%_: 25.6% (2005)<br>
+_lowest 10%_: 2.9%<br>
+_highest 10%_: 28.5% (2015 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.4% of GDP (2022 est.)<br>
 0.4% of GDP (2021 est.)<br>
 0.38% of GDP (2020 est.)<br>
-0.5% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $11.308 billion (2020 est.)<br>
@@ -520,22 +530,26 @@ _expenditures_: $13.979 billion (2020 est.)<br>
 31.45% of GDP (2019 est.)<br>
 32.53% of GDP (2018 est.)<br>
 30.1% of GDP (2017 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 6.2% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 8 July - 7 July<br>
 
 **Current account balance**<br>
+-$5.16 billion (2022 est.)<br>
 -$4.507 billion (2021 est.)<br>
 -$2.719 billion (2020 est.)<br>
--$5.025 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$10.971 billion (2022 est.)<br>
 $9.496 billion (2021 est.) note: data are in current year dollars<br>
 $7.715 billion (2020 est.)<br>
-$7.588 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 17%, United States 16%, United Arab Emirates 8%, Saudi Arabia 6%, South Korea 5%, Germany 5% (2019)<br>
@@ -544,9 +558,10 @@ China 17%, United States 16%, United Arab Emirates 8%, Saudi Arabia 6%, South Ko
 coffee, gold, sesame seeds, vegetables, cut flowers, aircraft parts (2021)<br>
 
 **Imports**<br>
+$24.187 billion (2022 est.)<br>
 $20.859 billion (2021 est.) note: data are in current year dollars<br>
 $17.17 billion (2020 est.)<br>
-$19.227 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 27%, India 9%, United Arab Emirates 9%, France 9%, United Kingdom 7% (2019)<br>
@@ -555,9 +570,10 @@ China 27%, India 9%, United Arab Emirates 9%, France 9%, United Kingdom 7% (2019
 aircraft, gas turbines, packaged medicines, electric filament, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.046 billion (31 December 2020 est.)<br>
-$2.993 billion (31 December 2019 est.)<br>
-$3.987 billion (31 December 2018 est.)<br>
+$3.046 billion (2020 est.)<br>
+$2.993 billion (2019 est.)<br>
+$3.987 billion (2018 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $27.27 billion (2019 est.)<br>
@@ -565,11 +581,11 @@ $26.269 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: birr (ETB) per US dollar -<br>
+51.756 (2022 est.)<br>
 43.734 (2021 est.)<br>
 34.927 (2020 est.)<br>
 29.07 (2019 est.)<br>
 27.429 (2018 est.)<br>
-23.866 (2017 est.)<br>
 
 ## Energy
 
@@ -646,12 +662,12 @@ _total subscriptions_: 65 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 54 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Ethio telecom is the major provider, but no longer has a complete monopoly on all telecom services; the World Bank in early 2021 provided a $200 million loan to help develop the country&rsquo;s digital transformation, while the government has embarked on its 2020-2030 program as well as its Digital Ethiopia 2025 strategy, both aimed at making better use of digital technologies to promote socioeconomic development (2023)<br>
+_general assessment_: Ethio telecom is the major provider, but no longer has a complete monopoly on all telecom services; a consortium led by Kenyan Safaricom launched service in October 2022; the World Bank in early 2021 provided a $200 million loan to help develop the country&rsquo;s digital transformation, while the government has embarked on its 2020-2030 program as well as its Digital Ethiopia 2025 strategy, both aimed at making better use of digital technologies to promote socioeconomic development (2023)<br>
 _domestic_: fixed-line subscriptions less than 1 per 100 while mobile-cellular stands at a little over 54 per 100 people (2021)<br>
 _international_: country code - 251; open-wire to Sudan and Djibouti; microwave radio relay to Kenya and Djibouti; 2 domestic satellites provide the national trunk service; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Pacific Ocean) (2016)<br>
 
 **Broadcast media**<br>
-6 public TV stations broadcasting nationally and 10 public radio broadcasters; 7 private radio stations and 19 community radio stations (2017)<br>
+10 public/state broadcasters; 9 public/state radio stations; 13 commercial FM radio stations; 18 commercial TV stations; 45 community radio stations; 5 community TV stations (2023)<br>
 
 **Internet country code**<br>
 .et<br>

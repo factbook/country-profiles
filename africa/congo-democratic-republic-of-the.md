@@ -361,7 +361,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Felix TSHISEKEDI (since 20 January 2024)<br>
-_head of government_: Prime Minister Jean-Michel Sama LUKONDE (since 15 February 2021); Deputy Prime Ministers Christophe LUTUNDULA (since 12 April 2021),Vital KAMERHE (since 23 March 2023), Peter KAZADI (23 March 2023), Jean-Pierre BEMBA (since 23 March 2023), Jean-Pierre LIHAU (since 12 April 2021); note - on 20 February 2024 Prime Minister LUKONDE resigned his position and President TSHISEKEDI asked him to remain in a caretaker role until a new government is formed<br>
+_head of government_: Prime Minister Judith Suminwa TULUKA (since 1 April 2024); Deputy Prime Ministers Christophe LUTUNDULA (since 12 April 2021),Vital KAMERHE (since 23 March 2023), Peter KAZADI (23 March 2023), Jean-Pierre BEMBA (since 23 March 2023), Jean-Pierre LIHAU (since 12 April 2021); note - TULUKA is the country's first female prime minister<br>
 _cabinet_: Ministers of State appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority vote for a 5-year term (eligible for a second term); election last held on 20 December 2023 (next to be held on 20 December 2028); prime minister appointed by the president<br>
 _election results_: <em>2023: </em>Felix TSHISEKEDI reelected president; percent of vote - Felix TSHISEKEDI (UDPS) 73.3%, Moise KATUMBI (Ensemble) 18.8%, Martin FAYULU (ECIDE) 5.3%, other 2.6%<br><em><br>2018:</em> Felix TSHISEKEDI elected president; percent of vote - Felix TSHISEKEDI (UDPS) 38.6%, Martin FAYULU (Lamuka coalition) 34.8%, Emmanuel Ramazani SHADARY (PPRD) 23.9%, other 2.7%; note - election marred by serious voting irregularities<br>
@@ -419,28 +419,32 @@ _selected World Heritage Site locales_: Garamba National Park; Kahuzi-Biega Nati
 very poor, large, natural resource-rich sub-Saharan country; possesses the world&rsquo;s second largest rainforest; increasing Chinese extractive sector trade; massive decrease in government investments; increasing current account deficit and public debts<br>
 
 **Real GDP (purchasing power parity)**<br>
+$112.144 billion (2022 est.)<br>
 $102.956 billion (2021 est.)<br>
 $96.945 billion (2020 est.)<br>
-$95.292 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+8.92% (2022 est.)<br>
 6.2% (2021 est.)<br>
 1.74% (2020 est.)<br>
-4.38% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$1,100 (2022 est.)<br>
 $1,100 (2021 est.)<br>
 $1,000 (2020 est.)<br>
-$1,100 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$47.16 billion (2019 est.)<br>
+$64.719 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 41.5% (2017 est.)<br>
-18.2% (2016 est.)<br>
+2.89% (2016 est.)<br>
+0.74% (2015 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Caa1 (2019)<br>
@@ -467,16 +471,18 @@ cassava, plantains, sugar cane, maize, oil palm fruit, rice, roots/tubers nes, b
 mining (copper, cobalt, gold, diamonds, coltan, zinc, tin, tungsten), mineral processing, consumer products (textiles, plastics, footwear, cigarettes), metal products, processed foods and beverages, timber, cement, commercial ship repair<br>
 
 **Industrial production growth rate**<br>
-7.78% (2021 est.)<br>
+15.66% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-33.382 million (2021 est.)<br>
+34.812 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.43% (2021 est.)<br>
-5.27% (2020 est.)<br>
-4.45% (2019 est.)<br>
-NA<br>
+4.69% (2022 est.)<br>
+5.51% (2021 est.)<br>
+5.49% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.1% (2021 est.)<br>
@@ -494,9 +500,10 @@ _lowest 10%_: 2.3%<br>
 _highest 10%_: 34.7% (2006)<br>
 
 **Remittances**<br>
-2.28% of GDP (2020 est.)<br>
-4.01% of GDP (2019 est.)<br>
-3.83% of GDP (2018 est.)<br>
+2.57% of GDP (2022 est.)<br>
+2.44% of GDP (2021 est.)<br>
+2.46% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $5.419 billion (2019 est.)<br>
@@ -519,12 +526,13 @@ calendar year<br>
 -$587.407 million (2021 est.)<br>
 -$1.052 billion (2020 est.)<br>
 -$1.693 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $22.354 billion (2021 est.)<br>
 $13.932 billion (2020 est.)<br>
 $15.173 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 53%, United Arab Emirates 11%, Saudi Arabia 6%, South Korea 5% (2019)<br>
@@ -536,6 +544,7 @@ copper, cobalt, crude petroleum, tin, diamonds (2021)<br>
 $22.193 billion (2021 est.) note: data are in current year dollars<br>
 $14.557 billion (2020 est.) note: data are in current year dollars<br>
 $16.892 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 29%, South Africa 15%, Zambia 12%, Rwanda 5%, Belgium 5%, India 5% (2019)<br>
@@ -544,9 +553,10 @@ China 29%, South Africa 15%, Zambia 12%, Rwanda 5%, Belgium 5%, India 5% (2019)<
 packaged medicines, refined petroleum, sulfuric acid, stone processing machines, delivery trucks (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.467 billion (31 December 2021 est.)<br>
-$747.655 million (31 December 2020 est.)<br>
-$1.194 billion (31 December 2019 est.)<br>
+$3.467 billion (2021 est.)<br>
+$747.655 million (2020 est.)<br>
+$1.194 billion (2019 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $4.963 billion (31 December 2017 est.)<br>
@@ -679,10 +689,10 @@ _narrow gauge_: 3,882 km (2014) 1.067-m gauge (858 km electrified)<br>
 125 1.000-mm gauge<br>
 
 **Roadways**<br>
-_total_: 152,373 km (2015)<br>
-_paved_: 3,047 km (2015)<br>
-_unpaved_: 149,326 km (2015)<br>
-_urban_: 7,400 km (2015)<br>
+_total_: 152,373 km<br>
+_paved_: 3,047 km<br>
+_unpaved_: 149,326 km<br>
+_urban_: 7,400 km<br>
 _non-urban_: 144,973 km (2015)<br>
 
 **Waterways**<br>
@@ -734,7 +744,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p><em>Democratic Republic of Congo (DRC)-Republic of the Congo: </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Democratic Republic of Congo (DRC)-Uganda:</em> Uganda rejects the DRC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; the Ugandan-origin Allied Democratic Forces (ADF; aka Islamic State of Iraq and ash-Sham in the DRC) operates on both sides of the border<br><br><em>Democratic Republic of Congo (DRC)-Zambia: </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Democratic Republic of Congo (DRC)-Angola: </em>DRC has accused Angola of shifting monuments<br><br><em>Democratic Republic of Congo (DRC)-Rwanda:</em> the DRC has accused Rwanda of backing the armed separatist group March 23 Movement (aka M23 or Congolese Revolutionary Army)<br> <br><em>Democratic Republic of Congo (DRC)-Burundi:</em> multiple armed groups originating from Burundi operate in the DRC</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 208,328 (Rwanda), 53,307 (South Sudan) (refugees and asylum seekers), 46,667 (Burundi) (2023); 211,846 (Central African Republic) (2024)<br>
+_refugees (country of origin)_: 208,328 (Rwanda), 53,297 (South Sudan) (refugees and asylum seekers), 49,836 (Burundi) (2023); 212,211 (Central African Republic) (2024)<br>
 _IDPs_: 6.38 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2023)<br>
 
 **Illicit drugs**<br>

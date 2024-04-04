@@ -382,29 +382,32 @@ _selected World Heritage Site locales_: Anjar; Baalbek; Byblos; Tyre; Ouadi Qadi
 upper middle-income Middle Eastern economy; economic activity hurt by economic depression, COVID-19, and port explosion; hyperinflation and sharp poverty increases; banks have ceased lending; new financing facility helping with recovery<br>
 
 **Real GDP (purchasing power parity)**<br>
-$72.577 billion (2021 est.)<br>
-$78.041 billion (2020 est.)<br>
-$99.288 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$72.631 billion (2021 est.)<br>
+$78.099 billion (2020 est.)<br>
+$99.362 billion (2019 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -7% (2021 est.)<br>
 -21.4% (2020 est.)<br>
--7.16% (2019 est.)<br>
+-6.91% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $13,000 (2021 est.)<br>
 $13,800 (2020 est.)<br>
 $17,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$53.253 billion (2019 est.)<br>
+$23.132 billion (2021 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+171.21% (2022 est.)<br>
 154.76% (2021 est.)<br>
 84.86% (2020 est.)<br>
-3.01% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: RD (2020)<br>
@@ -433,15 +436,17 @@ banking, tourism, real estate and construction, food processing, wine, jewelry, 
 
 **Industrial production growth rate**<br>
 -6.85% (2021 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.719 million (2021 est.)<br>
-<strong>note:</strong> excludes as many as 1 million foreign workers and refugees<br>
+1.813 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-14.49% (2021 est.)<br>
-13.3% (2020 est.)<br>
-11.35% (2019 est.)<br>
+11.75% (2022 est.)<br>
+12.78% (2021 est.)<br>
+13.27% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 29.6% (2021 est.)<br>
@@ -463,9 +468,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-20.92% of GDP (2020 est.)<br>
-14.26% of GDP (2019 est.)<br>
-12.71% of GDP (2018 est.)<br>
+27.47% of GDP (2021 est.)<br>
+20.79% of GDP (2020 est.)<br>
+14.28% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $11.061 billion (2019 est.)<br>
@@ -480,20 +486,23 @@ _expenditures_: $16.574 billion (2019 est.)<br>
 <strong>note:</strong> data cover central government debt and exclude debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment<br>
 
 **Taxes and other revenues**<br>
-8.9% (of GDP) (2020 est.)<br>
+5.68% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$2.985 billion (2021 est.)<br>
--$2.995 billion (2020 est.)<br>
--$11.265 billion (2019 est.)<br>
+-$6,481,303,000 (2022 est.)<br>
+-$3,404,941,000 (2021 est.)<br>
+-$2,778,567,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$12.606 billion (2022 est.)<br>
 $10.147 billion (2021 est.) note: data are in current year dollars<br>
 $8.773 billion (2020 est.) note: data are in current year dollars<br>
-$18.208 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Switzerland 27%, United Arab Emirates 15%, South Korea 11%, Saudi Arabia 7%, Kuwait 6% (2019)<br>
@@ -502,9 +511,10 @@ Switzerland 27%, United Arab Emirates 15%, South Korea 11%, Saudi Arabia 7%, Kuw
 gold, diamonds, scrap iron, wood furniture, grapes, jewelry, cars (2021)<br>
 
 **Imports**<br>
+$24.163 billion (2022 est.)<br>
 $17.383 billion (2021 est.) note: data are in current year dollars<br>
 $15.206 billion (2020 est.) note: data are in current year dollars<br>
-$31.147 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United Arab Emirates 11%, China 10%, Italy 8%, Greece 8%, Turkey 7%, United States 6% (2019)<br>
@@ -513,9 +523,10 @@ United Arab Emirates 11%, China 10%, Italy 8%, Greece 8%, Turkey 7%, United Stat
 refined petroleum, cars, packaged medicines, jewelry, gold (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$35.239 billion (31 December 2021 est.)<br>
-$42.44 billion (31 December 2020 est.)<br>
-$52.213 billion (31 December 2019 est.)<br>
+$32.513 billion (2022 est.)<br>
+$35.239 billion (2021 est.)<br>
+$42.44 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $33.077 billion (2019 est.)<br>
@@ -523,11 +534,11 @@ $33.655 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Lebanese pounds (LBP) per US dollar -<br>
+1,507.5 (2022 est.)<br>
 1,507.5 (2021 est.)<br>
 1,507.5 (2020 est.)<br>
 1,507.5 (2019 est.)<br>
 1,507.5 (2018 est.)<br>
-1,507.5 (2017 est.)<br>
 
 ## Energy
 
@@ -659,7 +670,7 @@ _container port(s) (TEUs)_: Beirut (1,229,100) (2019)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, Land Border Regiments), Naval Forces, Air Forces<br><br>Ministry of Interior: Internal Security Forces Directorate (law enforcement; includes Mobile Gendarmerie), Directorate for General Security (DGS; border control, some domestic security duties); Parliamentary Police Force (2023)<br>
+Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, Land Border Regiments), Naval Forces, Air Forces<br><br>Ministry of Interior: Internal Security Forces Directorate (law enforcement; includes Mobile Gendarmerie), Directorate for General Security (DGS; border control, some domestic security duties); Parliamentary Police Force (2024)<br>
 <strong>note 1:</strong> the commander of the LAF is also the head of the Army; the LAF patrols external borders, while official border checkpoints are under the authority of Directorate for General Security<br><br><strong>note 2:</strong> the Parliamentary Police Force reports to the speaker of parliament and has responsibility for protecting parliament premises and the speaker’s residence; both the Internal Security Forces and the Lebanese Armed Forces provide units to the Parliamentary Police Force<br>
 
 **Military expenditures**<br>
@@ -673,10 +684,10 @@ Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, 
 approximately 75,000 active troops (72,000 Army; 1,500 Navy; 1,500 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LAF inventory includes a wide mix of mostly older equipment from a diverse array of countries; in recent years, the US has been the leading supplier of armaments (mostly second-hand) to Lebanon (2023)<br>
+the LAF inventory includes a wide mix of mostly older equipment from a diverse array of countries; in recent years, the US has been the leading supplier of armaments to Lebanon (2023)<br>
 
 **Military service age and obligation**<br>
-17-25 years of age for men and women for voluntary military service; no conscription (2023)<br>
+17-25 years of age for men and women for voluntary military service; no conscription (2024)<br>
 <strong>note:</strong> women were allowed to volunteer for military service in the 1980s; as of 2023, they comprised about 5% of the active duty military<br>
 
 **Military - note**<br>

@@ -392,30 +392,32 @@ _selected World Heritage Site locales_: Persepolis (c); Tchogha Zanbil (c); Bam 
 traditionally state-controlled economy but reforming state-owned financial entities; strong oil/gas, agricultural, and service sectors; recent massive inflation due to exchange rate depreciation, international sanctions, and investor uncertainty; increasing poverty<br>
 
 **Real GDP (purchasing power parity)**<br>
+$1.369 trillion (2022 est.)<br>
 $1.319 trillion (2021 est.)<br>
 $1.26 trillion (2020 est.)<br>
-$1.219 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+3.78% (2022 est.)<br>
 4.72% (2021 est.)<br>
 3.33% (2020 est.)<br>
--2.66% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$15,500 (2022 est.)<br>
 $15,000 (2021 est.)<br>
 $14,400 (2020 est.)<br>
-$14,100 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$581.252 billion (2019 est.)<br>
+$413.493 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+43.49% (2022 est.)<br>
 43.39% (2021 est.)<br>
 30.59% (2020 est.)<br>
-39.91% (2019 est.)<br>
-<strong>note:</strong> official Iranian estimate<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 9.6% (2016 est.)<br>
@@ -437,17 +439,18 @@ wheat, sugar cane, milk, sugar beet, tomatoes, barley, potatoes, oranges, poultr
 petroleum, petrochemicals, gas, fertilizer, caustic soda, textiles, cement and other construction materials, food processing (particularly sugar refining and vegetable oil production), ferrous and nonferrous metal fabrication, armaments<br>
 
 **Industrial production growth rate**<br>
-3.21% (2021 est.)<br>
+7.4% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-27.682 million (2021 est.)<br>
-<strong>note:</strong> shortage of skilled labor<br>
+28.641 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.46% (2021 est.)<br>
-12.17% (2020 est.)<br>
-10.74% (2019 est.)<br>
-<strong>note:</strong> data are Iranian Government numbers<br>
+8.82% (2022 est.)<br>
+9.28% (2021 est.)<br>
+9.69% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 27.2% (2021 est.)<br>
@@ -459,14 +462,16 @@ _female_: 41.7%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 40.9 (2019 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 27.9% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 0.6% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.6%<br>
-_highest 10%_: 29.6% (2005)<br>
+_lowest 10%_: 2.3%<br>
+_highest 10%_: 31.7% (2019 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.55% of GDP (2020 est.)<br>

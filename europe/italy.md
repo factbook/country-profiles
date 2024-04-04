@@ -361,7 +361,7 @@ _consulate(s) general_: Boston, Chicago, Detroit, Houston, Miami, New York, Los 
 _consulate(s)_: Charlotte (NC), Cleveland (OH), Detroit (MI), Hattiesburg (MS), Honolulu (HI), New Orleans, Newark (NJ), Norfolk (VA), Pittsburgh (PA), Portland (OR), Seattle<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Jack Markell (since September 2023); note - also accredited to San Marino<br>
+_chief of mission_: Ambassador Jack MARKELL (since September 2023); note - also accredited to San Marino<br>
 _embassy_: via Vittorio Veneto 121, 00187 Roma<br>
 _mailing address_: 9500 Rome Place, Washington DC&nbsp; 20521-9500<br>
 _telephone_: [39] 06-46741<br>
@@ -391,29 +391,32 @@ _selected World Heritage Site locales_: Historic Center of Rome (c); Archaeologi
 core EU economy; strong services, manufacturing, and tourism sectors; hard hit by COVID-19 disruptions but starting to recover; large EU exporter but data skews due to inflated port entry valuation; corruption somewhat stymies foreign direct investment<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.478 trillion (2021 est.)<br>
-$2.322 trillion (2020 est.)<br>
-$2.553 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$2.611 trillion (2022 est.)<br>
+$2.517 trillion (2021 est.)<br>
+$2.324 trillion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.74% (2021 est.)<br>
--9.04% (2020 est.)<br>
-0.48% (2019 est.)<br>
+3.72% (2022 est.)<br>
+8.31% (2021 est.)<br>
+-8.97% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$41,900 (2021 est.)<br>
+$44,300 (2022 est.)<br>
+$42,600 (2021 est.)<br>
 $39,100 (2020 est.)<br>
-$42,700 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2,002,763,000,000 (2019 est.)<br>
+$2.05 trillion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.2% (2022 est.)<br>
 1.87% (2021 est.)<br>
 -0.14% (2020 est.)<br>
-0.61% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2020)<br>
@@ -441,15 +444,18 @@ milk, grapes, wheat, maize, tomatoes, apples, olives, sugar beets, oranges, rice
 tourism, machinery, iron and steel, chemicals, food processing, textiles, motor vehicles, clothing, footwear, ceramics<br>
 
 **Industrial production growth rate**<br>
-13.46% (2021 est.)<br>
+1.9% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-25.012 million (2021 est.)<br>
+25.342 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.83% (2021 est.)<br>
+8.07% (2022 est.)<br>
+9.5% (2021 est.)<br>
 9.16% (2020 est.)<br>
-9.95% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 30.9% (2021 est.)<br>
@@ -457,23 +463,27 @@ _male_: 29.1%<br>
 _female_: 33.8%<br>
 
 **Population below poverty line**<br>
-20.1% (2018 est.)<br>
+20.1% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-35.2 (2018 est.)<br>
+35.2 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 14.2% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 4.1% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.3%<br>
-_highest 10%_: 26.8% (2000)<br>
+_lowest 10%_: 2.1%<br>
+_highest 10%_: 26.1% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.51% of GDP (2022 est.)<br>
 0.49% of GDP (2021 est.)<br>
-0.51% of GDP (2020 est.)<br>
-0.52% of GDP (2019 est.)<br>
+0.52% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $901.494 billion (2020 est.)<br>
@@ -488,20 +498,23 @@ _expenditures_: $1.08 trillion (2020 est.)<br>
 <strong>note:</strong> Italy reports its data on public debt according to guidelines set out in the Maastricht Treaty; general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year, in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises central, state, and local government and social security funds<br>
 
 **Taxes and other revenues**<br>
-24.77% (of GDP) (2020 est.)<br>
+24.93% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$64.719 billion (2021 est.)<br>
-$74.509 billion (2020 est.)<br>
-$66.321 billion (2019 est.)<br>
+-$30,222,046,000 (2022 est.)<br>
+$52.543 billion (2021 est.)<br>
+$75.097 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$687.948 billion (2021 est.) note: data are in current year dollars<br>
+$751.092 billion (2022 est.)<br>
+$690.534 billion (2021 est.) note: data are in current year dollars<br>
 $559.952 billion (2020 est.) note: data are in current year dollars<br>
-$636.153 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Germany 12%, France 11%, United States 10%, United Kingdom 5%, Spain 5%, Switzerland 5% (2019)<br>
@@ -510,9 +523,10 @@ Germany 12%, France 11%, United States 10%, United Kingdom 5%, Spain 5%, Switzer
 packaged medicines, cars and vehicle parts, refined petroleum, vaccines and cultures, jewelry, valves (2021)<br>
 
 **Imports**<br>
-$637.934 billion (2021 est.) note: data are in current year dollars<br>
+$781.083 billion (2022 est.)<br>
+$642.948 billion (2021 est.) note: data are in current year dollars<br>
 $490.684 billion (2020 est.) note: data are in current year dollars<br>
-$568.796 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Germany 16%, France 9%, China 7%, Spain 5%, Netherlands 5%, Belgium 5% (2019)<br>
@@ -521,9 +535,10 @@ Germany 16%, France 9%, China 7%, Spain 5%, Netherlands 5%, Belgium 5% (2019)<br
 crude petroleum, cars, packaged medicines, natural gas, refined petroleum (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$227.478 billion (31 December 2021 est.)<br>
-$210.687 billion (31 December 2020 est.)<br>
-$175.398 billion (31 December 2019 est.)<br>
+$224.581 billion (2022 est.)<br>
+$227.478 billion (2021 est.)<br>
+$210.687 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2,463,208,000,000 (2019 est.)<br>
@@ -531,11 +546,11 @@ $2,533,153,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
 0.847 (2018 est.)<br>
-0.885 (2017 est.)<br>
 
 ## Energy
 
@@ -734,7 +749,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 169,165 (Ukraine) (as of 23 February 2024)<br>
 _stateless persons_: 3,000 (2022)<br>
-<strong>note:</strong> 859,525 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
+<strong>note:</strong> 861,413 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
 
 **Illicit drugs**<br>
 <p>important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe</p><br>

@@ -342,8 +342,8 @@ ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC,
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: <p>Maldives has no embassy in the US, but its Permanent Representative to the UN in New York, Abdul GHAFOOR Mohamed (since 12 December 2022), is accredited to the US and serves as ambassador</p><br>
-_chancery_: 801 Second Avenue, Suite 202E, New York, NY 10017<br>
-_telephone_: [1] (212) 599-6194; [1] (212) 599-6195<br>
+_chancery_: 801 Second Avenue, Suite 201, New York, NY 10017<br>
+_telephone_: [1] (212) 599-6194<br>
 _FAX_: [1] (212) 661-6405<br>
 _email address and website_: <br>info@maldivesmission.com<br><br>http://www.maldivesmission.com/<br>
 
@@ -370,29 +370,32 @@ _lyrics/music_: Mohamed Jameel DIDI/Wannakuwattawaduge DON AMARADEVA<br>
 upper middle-income Indian Ocean island economy; major tourism, fishing, and shipping industries; high public debt; systemic corruption; crippled by COVID-19; ongoing deflation; poverty has tripled since pandemic began<br>
 
 **Real GDP (purchasing power parity)**<br>
-$9.785 billion (2021 est.)<br>
-$6.903 billion (2020 est.)<br>
-$10.38 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$11.142 billion (2022 est.)<br>
+$9.781 billion (2021 est.)<br>
+$7.104 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-41.75% (2021 est.)<br>
--33.49% (2020 est.)<br>
-7.1% (2019 est.)<br>
+13.91% (2022 est.)<br>
+37.69% (2021 est.)<br>
+-32.91% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$21,300 (2022 est.)<br>
 $18,800 (2021 est.)<br>
-$13,400 (2020 est.)<br>
-$20,600 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$13,800 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.505 billion (2017 est.)<br>
+$6.171 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.33% (2022 est.)<br>
 0.54% (2021 est.)<br>
 -1.37% (2020 est.)<br>
-0.22% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2020)<br>
@@ -419,15 +422,18 @@ papayas, vegetables, roots/tubers nes, nuts, fruit, other meat, tomatoes, coconu
 tourism, fish processing, shipping, boat building, coconut processing, woven mats, rope, handicrafts, coral and sand mining<br>
 
 **Industrial production growth rate**<br>
-4.51% (2021 est.)<br>
+25.2% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-229,300 (2021 est.)<br>
+261,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.08% (2021 est.)<br>
-6.33% (2020 est.)<br>
-5.34% (2019 est.)<br>
+4.39% (2022 est.)<br>
+5.12% (2021 est.)<br>
+5.48% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 17.7% (2021 est.)<br>
@@ -435,19 +441,23 @@ _male_: 19.9%<br>
 _female_: 12.6%<br>
 
 **Population below poverty line**<br>
-8.2% (2016 est.)<br>
+5.4% (2019 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 29.3 (2019 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.2%<br>
-_highest 10%_: 33.3% (FY09/10)<br>
+_lowest 10%_: 3.8%<br>
+_highest 10%_: 23.3% (2019 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.08% of GDP (2022 est.)<br>
 0.09% of GDP (2021 est.)<br>
-0.12% of GDP (2020 est.)<br>
-0.08% of GDP (2019 est.)<br>
+0.13% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $993 million (2020 est.)<br>
@@ -467,14 +477,16 @@ _expenditures_: $1.797 billion (2020 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$457.562 million (2021 est.)<br>
--$1.327 billion (2020 est.)<br>
--$1.49 billion (2019 est.)<br>
+-$1,033,061,000 (2022 est.)<br>
+-$455.003 million (2021 est.)<br>
+-$1,327,424,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$3.95 billion (2021 est.) note: data are in current year dollars<br>
+$5.096 billion (2022 est.)<br>
+$3.985 billion (2021 est.) note: data are in current year dollars<br>
 $1.787 billion (2020 est.) note: data are in current year dollars<br>
-$3.742 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Thailand 24%, United States 13%, China 12%, France 11%, Germany 11%, Italy 5%, United Kingdom 5% (2019)<br>
@@ -483,9 +495,10 @@ Thailand 24%, United States 13%, China 12%, France 11%, Germany 11%, Italy 5%, U
 skipjack and stripe-bellied bonito, fish fillets, propane, tuna, butane, scrap iron (2021)<br>
 
 **Imports**<br>
-$3.501 billion (2021 est.) note: data are in current year dollars<br>
+$4.904 billion (2022 est.)<br>
+$3.484 billion (2021 est.) note: data are in current year dollars<br>
 $2.449 billion (2020 est.) note: data are in current year dollars<br>
-$4.09 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United Arab Emirates 24%, China 16%, Singapore 14%, India 11%, Malaysia 6%, Thailand 5% (2019)<br>
@@ -494,9 +507,10 @@ United Arab Emirates 24%, China 16%, Singapore 14%, India 11%, Malaysia 6%, Thai
 refined petroleum, fruits, furniture, broadcasting equipment, lumber (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$805,808,200 (31 December 2021 est.)<br>
-$984,930,700 (31 December 2020 est.)<br>
-$753,496,300 (31 December 2019 est.)<br>
+$832.094 million (2022 est.)<br>
+$805.808 million (2021 est.)<br>
+$984.931 million (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $848.8 million (31 December 2016 est.)<br>
@@ -504,11 +518,11 @@ $696.2 million (31 December 2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: rufiyaa (MVR) per US dollar -<br>
+15.387 (2022 est.)<br>
 15.373 (2021 est.)<br>
 15.381 (2020 est.)<br>
 15.382 (2019 est.)<br>
 15.391 (2018 est.)<br>
-15.387 (2017 est.)<br>
 
 ## Energy
 
@@ -582,7 +596,7 @@ _total subscriptions_: 706,043 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 135 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: with its economy so heavily dependent on tourism, the Maldives has suffered heavy economic as well as health casualties during the pandemic; the country had a relatively short period of lock down and was willing to welcome visitors back as early as July 2020; but the effective shutdown of international air travel for most of the year resulted in the bottom falling out of the Maldives&rsquo; tourism industry, taking GDP down 32% in the process; the economy fared better in 2021, with a return to growth, yet it may still be a few years before the country&rsquo;s key industries can return to the same level of prosperity that they previously enjoyed; the country&rsquo;s high number of tourists and expatriate workers has inflated the penetration rate for mobile services, making it one of the highest in the world; that rate crashed in 2020 as demand for SIM cards (primarily prepaid) dried up; however, the number of contract subscribers increased as locals took advantage of competitive pricing offers from operators; everything now rests on a fast return to normality, with tourists helping to boost the nation&rsquo;s coffers as well as buying up those prepaid SIM cards; with commercial 5G services already launched and fiber networks rapidly expanding around the country, the Maldives is primed to deliver world-class telecommunications services to its domestic and international customers (2021)<br>
+_general assessment_: with its economy so heavily dependent on tourism, the Maldives has suffered heavy economic as well as health casualties during the pandemic; the country had a relatively short period of lock down and was willing to welcome visitors back as early as July 2020; but the effective shutdown of international air travel for most of the year resulted in the bottom falling out of the Maldives&rsquo; tourism industry, taking GDP down 32% in the process; the economy fared better in 2021, with a return to growth, yet it may still be a few years before the country&rsquo;s key industries can return to the same level of prosperity that they previously enjoyed; the country&rsquo;s high number of tourists and expatriate workers has inflated the penetration rate for mobile services, making it one of the highest in the world; that rate crashed in 2020 as demand for SIM cards (primarily prepaid) dried up; however, the number of contract subscribers increased as locals took advantage of competitive pricing offers from operators; with commercial 5G services already launched and fiber networks rapidly expanding around the country, the Maldives is primed to deliver world-class telecommunications services to its domestic and international customers (2021)<br>
 _domestic_: fixed-line is at nearly 3 per 100 persons and mobile-cellular subscriptions stands at nearly 135 per 100 persons (2021)<br>
 _international_: country code - 960; landing points for Dhiraagu Cable Network, NaSCOM, Dhiraagu-SLT Submarine Cable Networks and WARF submarine cables providing connections to 8 points in Maldives, India, and Sri Lanka;&nbsp;satellite earth station - 3 Intelsat (Indian Ocean) (2019)<br>
 
@@ -629,8 +643,8 @@ _major seaport(s)_: Male<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Maldives National Defense Force (MNDF): the MNDF has combined force structure with seven services divided into Combat and Maneuver Forces (Coast Guard, Marine Corps, and Fire and Rescue Service) and Support Services (Service Corps, Defense Intelligence Service, Medical Corps, Adjutant General's Corps); there is also a separate Special Forces command and a Special Protection Service (2023)<br>
-<strong>note:</strong> the Maldives Police Service is responsible for internal security and reports to the Ministry of Home Affairs<br>
+Maldives National Defense Force (MNDF): the MNDF has combined force structure with seven services divided into Combat and Maneuver Forces (Coast Guard, Marine Corps, and Fire and Rescue Service) and Support Services (Service Corps, Defense Intelligence Service, Medical Corps, Adjutant General's Corps); there is also a separate Special Forces command and a Special Protection Service (2024)<br>
+<strong>note:</strong> the Maldives Police Service is responsible for internal security and reports to the Ministry of Homeland Security and Technology <br>
 
 **Military expenditures**<br>
 not available<br>
@@ -642,7 +656,7 @@ approximately 3-4,000&nbsp;personnel (2023)<br>
 India has provided most of the equipment in the MNDF's inventory (2023)<br>
 
 **Military service age and obligation**<br>
-18-28 years of age for voluntary service; no conscription; 10th grade or equivalent education required; must not be a member of a political party (2022)<br>
+18-28 years of age for voluntary service; no conscription; 10th grade or equivalent education required; must not be a member of a political party (2023)<br>
 
 **Military - note**<br>
 the Maldives National Defense Force (MNDF) is responsible for defending and safeguarding the Maldives' territorial integrity, economic exclusion zone, and people; it is also responsible for disaster relief, and if requested, assisting the Maldives Police Service in maintaining internal security and law and order; the MNDF is organized into four area commands and a functional Special Forces command; the head of the MNDF reports to the Minister of Defense (2023)<br>

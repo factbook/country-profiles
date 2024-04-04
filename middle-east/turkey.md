@@ -407,28 +407,31 @@ upper middle-income, diversified Middle Eastern economy; heightened inflation an
 
 **Real GDP (purchasing power parity)**<br>
 $2.817 trillion (2022 est.)<br>
-$2.668 trillion (2021 est.)<br>
-$2.396 trillion (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$2.669 trillion (2021 est.)<br>
+$2.395 trillion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-11.35% (2021 est.)<br>
-1.94% (2020 est.)<br>
-0.78% (2019 est.)<br>
+5.53% (2022 est.)<br>
+11.44% (2021 est.)<br>
+1.86% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $33,100 (2022 est.)<br>
-$31,500 (2021 est.)<br>
-$28,500 (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$31,700 (2021 est.)<br>
+$28,700 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$760.028 billion (2019 est.)<br>
+$907.118 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+72.31% (2022 est.)<br>
 19.6% (2021 est.)<br>
 12.28% (2020 est.)<br>
-15.18% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2019)<br>
@@ -456,16 +459,18 @@ eggs, milk, wheat, sugar beets, tomatoes, barley, maize, potatoes, apples, grape
 textiles, food processing, automobiles, electronics, mining (coal, chromate, copper, boron), steel, petroleum, construction, lumber, paper<br>
 
 **Industrial production growth rate**<br>
-12.46% (2021 est.)<br>
+-0.57% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-32.554 million (2021 est.)<br>
-<strong>note:</strong> this number is for the domestic labor force only; number does not include about 1.2 million Turks working abroad, nor refugees<br>
+34.63 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-13.39% (2021 est.)<br>
+10.43% (2022 est.)<br>
+11.98% (2021 est.)<br>
 13.11% (2020 est.)<br>
-13.67% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 24.3% (2021 est.)<br>
@@ -473,23 +478,27 @@ _male_: 21.4%<br>
 _female_: 29.9%<br>
 
 **Population below poverty line**<br>
-14.4% (2018 est.)<br>
+14.4% (2020 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 41.9 (2019 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 21.8% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.1%<br>
-_highest 10%_: 30.3% (2008)<br>
+_lowest 10%_: 2%<br>
+_highest 10%_: 31.6% (2019 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.08% of GDP (2022 est.)<br>
 0.09% of GDP (2021 est.)<br>
 0.11% of GDP (2020 est.)<br>
-0.11% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $210.536 billion (2020 est.)<br>
@@ -499,26 +508,29 @@ _expenditures_: $249.268 billion (2020 est.)<br>
 -1.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-41.97% of GDP (2020 est.)<br>
-34.13% of GDP (2019 est.)<br>
-29.41% of GDP (2018 est.)<br>
+35.25% of GDP (2022 est.)<br>
+42.58% of GDP (2021 est.)<br>
+41.8% of GDP (2020 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-17.64% (of GDP) (2020 est.)<br>
+16.09% (of GDP) (2022 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$13.693 billion (2021 est.)<br>
--$35.537 billion (2020 est.)<br>
-$5.303 billion (2019 est.)<br>
+-$48.751 billion (2022 est.)<br>
+-$7.232 billion (2021 est.)<br>
+-$31.888 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $343.688 billion (2022 est.) note: data are in current year dollars<br>
-$282.851 billion (2021 est.)<br>
-$203.816 billion (2020 est.)<br>
-<strong>note: </strong>data are in current year dollars<br>
+$286.094 billion (2021 est.)<br>
+$206.621 billion (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Germany 8%, United States 7%, United Kingdom 5%, Iraq 5%, Italy 5% (2022)<br>
@@ -528,9 +540,9 @@ refined petroleum, cars, jewelry, motor vehicle parts/accessories, delivery truc
 
 **Imports**<br>
 $383.5 billion (2022 est.) note: data are in current year dollars<br>
-$285.578 billion (2021 est.)<br>
-$230.141 billion (2020 est.)<br>
-<strong>note: </strong>data are in current year dollars<br>
+$283.595 billion (2021 est.)<br>
+$230.136 billion (2020 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 13%, Germany 9%, Russia 8%, United States 5%, Italy 5% (2022)<br>
@@ -539,9 +551,10 @@ China 13%, Germany 9%, Russia 8%, United States 5%, Italy 5% (2022)<br>
 gold, refined petroleum, scrap iron, cars, natural gas (2022)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$109.535 billion (31 December 2021 est.)<br>
-$93.512 billion (31 December 2020 est.)<br>
-$105.62 billion (31 December 2019 est.)<br>
+$123.735 billion (2022 est.)<br>
+$109.535 billion (2021 est.)<br>
+$93.512 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $438.677 billion (2019 est.)<br>
@@ -549,11 +562,11 @@ $454.251 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Turkish liras (TRY) per US dollar -<br>
+16.549 (2022 est.)<br>
 8.85 (2021 est.)<br>
 7.009 (2020 est.)<br>
 5.674 (2019 est.)<br>
 4.828 (2018 est.)<br>
-3.648 (2017 est.)<br>
 
 ## Energy
 
@@ -748,7 +761,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU);
 <p><em>Turkey-Armenia</em>: as of 2023, Turkey and Armenia were discussing normalizing relations</p> <p><em>Turkey-Azerbaijan</em>: none identified</p> <p><em>Turkey-Bulgaria</em>: none identified</p> <p><em>Turkey-Cyprus</em>: status of northern Cyprus question remains</p> <p><em>Turkey-Georgia</em>: none identified</p> <p><em>Turkey-Greece</em>: complex maritime, air, and territorial disputes with Greece in the Aegean Sea, including rights to explore oil and gas reserves in the eastern Mediterranean and illegal migrants transiting from Turkey into Greece; the Aegean Maritime Boundary is complicated by the close proximity of Greek islands to the western shores of the Turkish Anatolian peninsula, representing the primary source of conflict between the two countries</p> <p><em>Turkey-Iran</em>: none identified</p> <p><em>Turkey-Iraq</em>: Turkey has expressed concern over the status of Kurds in Iraq</p> <p><em>Turkey-Syria</em>: Turkey completed building a wall along its border with Syria in 2018 to prevent illegal border crossings and smuggling</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 41,665 (Ukraine) (as of 15 February 2024) (2023); 3,143,365 (Syria) (2024)<br>
+_refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 41,665 (Ukraine) (as of 15 February 2024) (2023); 3,130,768 (Syria) (2024)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2022)<br>
 _stateless persons_: 117 (2018)<br>
 

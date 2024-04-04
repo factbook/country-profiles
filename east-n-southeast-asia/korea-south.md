@@ -385,29 +385,32 @@ _selected World Heritage Site locales_: Jeju Volcanic Island and Lava Tubes (n);
 strong export-driven East Asian economy; sustainable and social policy leader; foreign aid financier; automotive manufacturing; app-based developer and exporter; global healthcare technology leader; aging workforce; largest semiconductor producer<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.289 trillion (2021 est.)<br>
+$2.352 trillion (2022 est.)<br>
+$2.292 trillion (2021 est.)<br>
 $2.198 trillion (2020 est.)<br>
-$2.213 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.15% (2021 est.)<br>
+2.61% (2022 est.)<br>
+4.3% (2021 est.)<br>
 -0.71% (2020 est.)<br>
-2.24% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$44,200 (2021 est.)<br>
+$45,600 (2022 est.)<br>
+$44,300 (2021 est.)<br>
 $42,400 (2020 est.)<br>
-$42,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1,646,604,000,000 (2019 est.)<br>
+$1.674 trillion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.09% (2022 est.)<br>
 2.5% (2021 est.)<br>
 0.54% (2020 est.)<br>
-0.38% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA- (2012)<br>
@@ -435,15 +438,18 @@ rice, vegetables, cabbages, milk, onions, pork, poultry, eggs, tangerines/mandar
 electronics, telecommunications, automobile production, chemicals, shipbuilding, steel<br>
 
 **Industrial production growth rate**<br>
-5.09% (2021 est.)<br>
+1.35% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-28.674 million (2021 est.)<br>
+29.314 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.53% (2021 est.)<br>
+2.86% (2022 est.)<br>
+3.64% (2021 est.)<br>
 3.93% (2020 est.)<br>
-3.75% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 7.8% (2021 est.)<br>
@@ -455,19 +461,22 @@ _female_: 6.9%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 31.4 (2016 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 13.8% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 2.7% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 6.8%<br>
-_highest 10%_: 48.5% (2015 est.)<br>
+_lowest 10%_: 2.8%<br>
+_highest 10%_: 24% (2016 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.47% of GDP (2022 est.)<br>
 0.43% of GDP (2021 est.)<br>
 0.45% of GDP (2020 est.)<br>
-0.43% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $378.552 billion (2019 est.)<br>
@@ -477,25 +486,29 @@ _expenditures_: $372.412 billion (2019 est.)<br>
 1.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+48.96% of GDP (2021 est.)<br>
 46.43% of GDP (2020 est.)<br>
 39.97% of GDP (2019 est.)<br>
-37.56% of GDP (2018 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-14.86% (of GDP) (2020 est.)<br>
+16.73% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$88.302 billion (2021 est.)<br>
+$29.831 billion (2022 est.)<br>
+$85.228 billion (2021 est.)<br>
 $75.902 billion (2020 est.)<br>
-$59.676 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$771.202 billion (2021 est.) note: data are in current year dollars<br>
+$820.643 billion (2022 est.)<br>
+$769.424 billion (2021 est.) note: data are in current year dollars<br>
 $607.505 billion (2020 est.) note: data are in current year dollars<br>
-$660.507 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 24%, US 15%, Vietnam 9%, Hong Kong 6%, Japan 5% (2021)<br>
@@ -504,9 +517,10 @@ China 24%, US 15%, Vietnam 9%, Hong Kong 6%, Japan 5% (2021)<br>
 integrated circuits, cars and vehicle parts, refined petroleum, office machinery, ships, telephones (2021)<br>
 
 **Imports**<br>
-$698.103 billion (2021 est.) note: data are in current year dollars<br>
+$811.129 billion (2022 est.)<br>
+$698.98 billion (2021 est.) note: data are in current year dollars<br>
 $541.57 billion (2020 est.) note: data are in current year dollars<br>
-$607.54 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 24%, US 12%, Japan 9%, Vietnam 4%, Taiwan 4% (2021)<br>
@@ -515,9 +529,10 @@ China 24%, US 12%, Japan 9%, Vietnam 4%, Taiwan 4% (2021)<br>
 crude oil, integrated circuits, natural gas, refined petroleum, photo lab equipment, cars, iron (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$463.281 billion (31 December 2021 est.)<br>
-$443.463 billion (31 December 2020 est.)<br>
-$408.819 billion (31 December 2019 est.)<br>
+$423.366 billion (2022 est.)<br>
+$463.281 billion (2021 est.)<br>
+$443.463 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $457.745 billion (2019 est.)<br>
@@ -525,11 +540,11 @@ $435.98 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: South Korean won (KRW) per US dollar -<br>
+1,291.447 (2022 est.)<br>
 1,143.952 (2021 est.)<br>
 1,180.266 (2020 est.)<br>
 1,165.358 (2019 est.)<br>
 1,100.163 (2018 est.)<br>
-1,131.001 (2017 est.)<br>
 
 ## Energy
 

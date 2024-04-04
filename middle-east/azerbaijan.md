@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Azerbaijan - a secular nation with a majority-Turkic and majority-Shia Muslim population - was briefly independent (from 1918 to 1920) following the collapse of the Russian Empire; it was subsequently incorporated into the Soviet Union for seven decades. Since 1991, Azerbaijan has had a protracted conflict with Armenia over the Nagorno-Karabakh region, populated largely by ethnic Armenians but incorporated into Soviet Azerbaijan as an autonomous oblast in the early 1920s. In the late Soviet period, an ethnic-Armenian separatist movement developed that sought to end Azerbaijani control over the region. Fighting over Nagorno-Karabakh began in 1988 and escalated after Armenia and Azerbaijan attained independence from the Soviet Union in 1991. By the time a ceasefire took effect in May 1994, separatists, with Armenian support, controlled Nagorno‑Karabakh and seven surrounding Azerbaijani territories.</p> <p>Efforts to negotiate a peace agreement between Azerbaijan and Armenia began in the mid-1990s under the aegis of the Organization for Security and Cooperation in Europe’s Minsk Group, which was co-chaired by France, Russia, and the United States. At the same time, cease-fire violations and sporadic flare-ups continued. In September 2020, a second sustained conflict began when Azerbaijan took action to try to regain the territories it had lost in the 1990s. After six weeks of fighting that saw significant Azerbaijani gains, Russia brokered a cease-fire.  Armenia returned to Azerbaijan the seven territories surrounding Nagorno-Karabakh that it had previously occupied and also the southern part of Nagorno-Karabakh. Despite Azerbaijan’s territorial gains, peace in the region remains elusive because of unsettled issues concerning the delimitation of borders, the opening of regional transportation and communication links, the status of ethnic enclaves near border regions, and the final status of the Nagorno-Karabakh region. Russian peacekeepers deployed to Nagorno-Karabakh to supervise the cease-fire for a minimum five-year term have not prevented the outbreak of sporadic, low-level military clashes along the Azerbaijan-Armenia border and in Nagorno-Karabakh; in September 2023, Azerbaijan took military action to regain control over Nagorno-Karabakh; after a conflict of approximately 24 hours, nearly the entire ethnic Armenian population of Nagorno-Karabakh fled to Armenia<br><br>In the three decades since its independence in 1991, Azerbaijan has significantly reduced the poverty rate and has directed some revenue from its oil and gas production to develop the country’s infrastructure. However, corruption remains a burden on the economy, and Western observers and members of the country’s political opposition have accused the government of authoritarianism, pointing to elections that are neither free nor fair, state control of the media, and the systematic abuse of human rights targeting individuals and groups who are perceived as threats to the administration. The country’s leadership has remained in the ALIYEV family since Heydar ALIYEV, formerly the most highly ranked Azerbaijani member of the Communist Party during the Soviet period, became president in the midst of the first Nagorno-Karabakh War in 1993. Heydar ALIYEV groomed his son to succeed him, and Ilham ALIYEV subsequently became president in 2003. As a result of two national referendums that eliminated presidential term limits and extended the presidential term from 5 to 7 years, President ALIYEV secured a fifth term in February 2024 in an election that international observers noted had serious shortcomings. The Azerbaijani government announced that the next presidential election will take place in February 2024. Reforms are underway to diversify the country’s economy away from its dependence on oil and gas; additional reforms are needed to address weaknesses in government institutions, particularly in the education and health sectors, and the court system.</p><br>
+<p>Azerbaijan -- a secular nation with a majority-Turkic and majority-Shia Muslim population -- was briefly independent (from 1918 to 1920) following the collapse of the Russian Empire; it was subsequently incorporated into the Soviet Union for seven decades. <br><br>Beginning in 1988, Azerbaijan and Armenia fought over the Nagorno-Karabakh region, which was populated largely by ethnic Armenians but incorporated into Soviet Azerbaijan as an autonomous oblast in the early 1920s. In the late Soviet period, an ethnic-Armenian separatist movement sought to end Azerbaijani control over the region. Fighting over Nagorno-Karabakh escalated after Armenia and Azerbaijan gained independence from the Soviet Union in 1991. By the time a ceasefire took effect in 1994, separatists with Armenian support controlled Nagorno‑Karabakh and seven surrounding Azerbaijani territories. After decades of cease-fire violations and sporadic flare-ups, a second sustained conflict began in 2020 when Azerbaijan tried to win back the territories it had lost in the 1990s. After significant Azerbaijani gains, Armenia returned the southern part of Nagorno-Karabakh and the surrounding territories to Azerbaijan. In September 2023, Azerbaijan took military action to regain the rest of Nagorno-Karabakh; after a conflict that lasted only one day, nearly the entire ethnic Armenian population of Nagorno-Karabakh fled to Armenia.<br><br>Since gaining its independence in 1991, Azerbaijan has significantly reduced the poverty rate and has directed some revenue from its oil and gas production to develop the country’s infrastructure. However, corruption remains a burden on the economy, and Western observers and members of the country’s political opposition have accused the government of authoritarianism. The country’s leadership has remained in the ALIYEV family since Heydar ALIYEV, the most highly ranked Azerbaijani member of the Communist Party during the Soviet period, became president during the first Nagorno-Karabakh War in 1993. </p><br>
 
 ## Geography
 
@@ -390,29 +390,32 @@ _selected World Heritage Site locales_: Walled City of Baku; Gobustan Rock Art C
 oil-based economy; macroeconomic instabilities due to demand shocks; recent state bailout of largest lender; potential economic gains from Nagorno-Karabakh conflict; negatively impacted by COVID-19; investing in human capital to diversify and retain younger generation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$146.305 billion (2021 est.)<br>
+$153.083 billion (2022 est.)<br>
+$146.327 billion (2021 est.)<br>
 $138.546 billion (2020 est.)<br>
-$144.771 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.6% (2021 est.)<br>
+4.62% (2022 est.)<br>
+5.62% (2021 est.)<br>
 -4.3% (2020 est.)<br>
-2.5% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$15,100 (2022 est.)<br>
 $14,400 (2021 est.)<br>
 $13,700 (2020 est.)<br>
-$14,400 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$48.104 billion (2019 est.)<br>
+$78.721 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+13.85% (2022 est.)<br>
 6.65% (2021 est.)<br>
 2.76% (2020 est.)<br>
-2.61% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB+ (2016)<br>
@@ -440,15 +443,18 @@ milk, wheat, potatoes, barley, tomatoes, watermelons, cotton, apples, maize, oni
 petroleum and petroleum products, natural gas, oilfield equipment; steel, iron ore; cement; chemicals and petrochemicals; textiles<br>
 
 **Industrial production growth rate**<br>
-1.95% (2021 est.)<br>
+0.4% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.919 million (2021 est.)<br>
+5.433 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.58% (2021 est.)<br>
-6.46% (2020 est.)<br>
-4.85% (2019 est.)<br>
+5.65% (2022 est.)<br>
+6.04% (2021 est.)<br>
+7.24% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 16.5% (2021 est.)<br>
@@ -470,9 +476,10 @@ _lowest 10%_: 3.4%<br>
 _highest 10%_: 27.4% (2008)<br>
 
 **Remittances**<br>
-2.79% of GDP (2021 est.)<br>
+5.02% of GDP (2022 est.)<br>
+2.78% of GDP (2021 est.)<br>
 3.29% of GDP (2020 est.)<br>
-2.65% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $19.95 billion (2019 est.)<br>
@@ -482,25 +489,29 @@ _expenditures_: $16.001 billion (2019 est.)<br>
 -1.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+16.82% of GDP (2021 est.)<br>
+22.19% of GDP (2020 est.)<br>
 54.1% of GDP (2017 est.)<br>
-50.7% of GDP (2016 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-14.22% (of GDP) (2019 est.)<br>
+13.42% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$8.292 billion (2021 est.)<br>
--$227.568 million (2020 est.)<br>
-$4.365 billion (2019 est.)<br>
+$23.478 billion (2022 est.)<br>
+$8.203 billion (2021 est.)<br>
+-$316.301 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$25.488 billion (2021 est.)<br>
-$15.209 billion (2020 est.)<br>
-$23.63 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$47.274 billion (2022 est.)<br>
+$25.494 billion (2021 est.)<br>
+$15.214 billion (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Italy 28%, Turkey 15%, Israel 7%, Germany 5%, India 5% (2017)<br>
@@ -509,9 +520,10 @@ Italy 28%, Turkey 15%, Israel 7%, Germany 5%, India 5% (2017)<br>
 crude petroleum, natural gas, refined petroleum, cotton, gold (2021)<br>
 
 **Imports**<br>
-$16.337 billion (2021 est.) note: data are in current year dollars<br>
-$15.538 billion (2020 est.) note: data are in current year dollars<br>
-$17.712 billion (2019 est.) note: data are in current year dollars<br>
+$21.274 billion (2022 est.)<br>
+$16.432 billion (2021 est.) note: data are in current year dollars<br>
+$15.632 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United Kingdom 17%, Russia 17%, Turkey 12%, China 6% (2019)<br>
@@ -520,9 +532,10 @@ United Kingdom 17%, Russia 17%, Turkey 12%, China 6% (2019)<br>
 gold, cars, refined petroleum, wheat, packaged medical supplies (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$8.307 billion (31 December 2021 est.)<br>
-$7.634 billion (31 December 2020 est.)<br>
-$7.043 billion (31 December 2019 est.)<br>
+$11.29 billion (2022 est.)<br>
+$8.307 billion (2021 est.)<br>
+$7.634 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $17.41 billion (31 December 2017 est.)<br>
@@ -530,11 +543,11 @@ $13.83 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Azerbaijani manats (AZN) per US dollar -<br>
+1.7 (2022 est.)<br>
 1.7 (2021 est.)<br>
 1.7 (2020 est.)<br>
 1.7 (2019 est.)<br>
 1.7 (2018 est.)<br>
-1.721 (2017 est.)<br>
 
 ## Energy
 

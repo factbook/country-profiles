@@ -239,9 +239,6 @@ golden bosun bird<br>
 **Economic overview**<br>
 high-income Australian territorial economy; development through government services and phosphate mining; operates Australia&rsquo;s Immigration Detention Centre; increasing tourism and government investments; sustained environmental protections<br>
 
-**Real GDP (purchasing power parity)**<br>
-<p>NA</p><br>
-
 **Agricultural products**<br>
 NA<br>
 
@@ -263,9 +260,6 @@ Malaysia 36%, New Zealand 21%, Indonesia 20%, Australia 10% (2019)<br>
 
 **Exports - commodities**<br>
 calcium phosphates, fertilizers, barometers, electrical transformers, sulfates (2021)<br>
-
-**Imports**<br>
-<p>NA</p><br>
 
 **Imports - partners**<br>
 Australia 80%, United States 7%, Canada 5% (2019)<br>
@@ -309,8 +303,8 @@ _standard gauge_: 18 km (2017) 1.435-m (not in operation)<br>
 <strong>note:</strong> the 18-km Christmas Island Phosphate Company Railway between Flying Fish Cove and South Point was decommissioned in 1987; some tracks and scrap remain in place<br>
 
 **Roadways**<br>
-_total_: 142 km (2011)<br>
-_paved_: 32 km (2011)<br>
+_total_: 142 km<br>
+_paved_: 32 km<br>
 _unpaved_: 110 km (2011)<br>
 
 **Ports and terminals**<br>

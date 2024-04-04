@@ -92,7 +92,7 @@ Danish, Faroese, Greenlandic (an Inuit dialect), German (small minority); note -
 _major-language sample(s)_: <br>Verdens Faktabog, den uundværlig kilde til grundlæggende oplysninger. (Danish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Evangelical Lutheran (official) 74.7%, Muslim 5.5%, other/none/unspecified (denominations of less than 1% each in descending order of size include Roman Catholic, Jehovah's Witness, Serbian Orthodox Christian, Jewish, Baptist, Buddhist, Church of Jesus Christ, Pentecostal, and nondenominational Christian) 19.8% (2019 est.)<br>
+Evangelical Lutheran (official) 71.4%, Muslim 4.3%, other/none/unspecified (denominations include Roman Catholic, Jehovah's Witness, Serbian Orthodox Christian, Jewish, Baptist, Buddhist, Church of Jesus Christ, Pentecostal, and nondenominational Christian) 24.3% (2024 est.)<br>
 
 **Demographic profile**<br>
 <p>Modern immigration to Denmark began in the 1960s and 1970s, although immigration, primarily from the Nordic countries and Western Europe, has earlier roots.  Dutch migrants came in the 16th century and Germans in the 18th, in both cases to work in agriculture.  Between the late 19th century and World War I, Denmark absorbed unskilled Polish, German, and Swedish labor migrants in significant numbers, sometimes at the request of the Danish Government.  Between the two World Wars, Denmark received many Eastern European, Jewish, and German migrants. It wasn’t until after World War II, that refugees began seeking sanctuary in Demark, including a large number of German refugees and later Hungarians, Czechs, and Polish Jews.  Denmark also imported foreign labor during the 1960s, mainly from Turkey, the former Yugoslavia, and Pakistan.  Although the “guest worker” program was halted in 1973, immigrants continued to arrive to be reunited with family members who were already in Denmark as refugees or as guest workers. Non-European refugees came from Chile, Uganda, and Vietnam.  In the 1990s, Denmark began receiving migrants and refugees from new places, including Russia, Hungary, Bosnia, Iran, Iraq, and Lebanon.  Despite raising more restrictions on immigration, in the 2000s, Denmark continued to receive asylum seekers, particularly from Afghanistan, Iraq, Somalia, and the former Yugoslavia, as well as labor migrants from new EU member states. </p> <p>In more recent years, Denmark has severely limited its refugee intake, aiming to accept as few refugees outside of the UN resettlement program as possible.  In the mid-2010s, Denmark passed legislation enabling it to withdraw temporary protective status as soon as conditions in the home country, as determined by Denmark, have improved.  This policy has lead Denmark, to deem Damascus and other areas in Syria safe for return, making it the only country in Europe to do so.  Consequently, some Syrian refugees have had their residency status revoked, and they are detained in deportation centers because Denmark does not have diplomatic relations with Syria and, therefore, cannot send them back.  Copenhagen hopes its stricter policies will discourage asylum seekers, particularly those from non-Western countries.</p><br>
@@ -311,7 +311,7 @@ Constitution Day, 5 June (1849); note - closest equivalent to a national holiday
 
 **Constitution**<br>
 _history_: several previous; latest adopted 5 June 1953<br>
-_amendments_: proposed by the Folketing with consent of the government; passage requires approval by the next Folketing following a general election, approval by simple majority vote of at least 40% of voters in a referendum, and assent of the chief of state; changed several times, last in 2009 (Danish Act of Succession)<br>
+_amendments_: proposed by the Folketing (Parliament) with consent of the government; passage requires approval by the next Folketing following a general election, approval by simple majority vote of at least 40% of voters in a referendum, and assent of the chief of state; changed several times, last in 2009 (Danish Act of Succession)<br>
 
 **Legal system**<br>
 civil law; judicial review of legislative acts<br>
@@ -389,28 +389,31 @@ diversified EU trade-based economy; environmental regulatory innovator; dominant
 
 **Real GDP (purchasing power parity)**<br>
 $353.799 billion (2022 est.)<br>
-$339.472 billion (2021 est.)<br>
-$323.751 billion (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$344.393 billion (2021 est.)<br>
+$322.331 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.8% (2022 est.)<br>
-4.86% (2021 est.)<br>
--1.99% (2020 est.)<br>
+2.73% (2022 est.)<br>
+6.84% (2021 est.)<br>
+-2.42% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $59,900 (2022 est.)<br>
-$58,000 (2021 est.)<br>
-$55,500 (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$58,800 (2021 est.)<br>
+$55,300 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$350.037 billion (2019 est.)<br>
+$400.167 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.7% (2022 est.)<br>
 1.85% (2021 est.)<br>
 0.42% (2020 est.)<br>
-0.76% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (2003)<br>
@@ -438,15 +441,18 @@ milk, wheat, barley, potatoes, sugar beets, pork, rye, rapeseed, oats, poultry<b
 wind turbines, pharmaceuticals, medical equipment, shipbuilding and refurbishment, iron, steel, nonferrous metals, chemicals, food processing, machinery and transportation equipment, textiles and clothing, electronics, construction, furniture and other wood products<br>
 
 **Industrial production growth rate**<br>
-5.25% (2021 est.)<br>
+6.98% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.051 million (2021 est.)<br>
+3.141 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.8% (2021 est.)<br>
+4.43% (2022 est.)<br>
+5.04% (2021 est.)<br>
 5.64% (2020 est.)<br>
-5.02% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.1% (2021 est.)<br>
@@ -454,23 +460,27 @@ _male_: 9.7%<br>
 _female_: 10.6%<br>
 
 **Population below poverty line**<br>
-12.5% (2018 est.)<br>
+12.4% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-27.7 (2019 est.)<br>
+27.5 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 11.5% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 9%<br>
-_highest 10%_: 23.4% (2016 est.)<br>
+_lowest 10%_: 3.7%<br>
+_highest 10%_: 22.9% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.37% of GDP (2021 est.)<br>
-0.42% of GDP (2020 est.)<br>
-0.42% of GDP (2019 est.)<br>
+0.31% of GDP (2022 est.)<br>
+0.35% of GDP (2021 est.)<br>
+0.38% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $185.645 billion (2019 est.)<br>
@@ -485,21 +495,23 @@ _expenditures_: $172.408 billion (2019 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-34.07% (of GDP) (2020 est.)<br>
+34.81% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$32.465 billion (2021 est.)<br>
-$28.952 billion (2020 est.)<br>
-$30.55 billion (2019 est.)<br>
+$53.067 billion (2022 est.)<br>
+$36.94 billion (2021 est.)<br>
+$28.731 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$280.167 billion (2022 est.)<br>
-$234.262 billion (2021 est.)<br>
-$195.729 billion (2020 est.)<br>
-<strong>note:</strong> data are in current year dollars<br>
+$279.939 billion (2022 est.)<br>
+$237.861 billion (2021 est.)<br>
+$195.876 billion (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Germany 14%, United States 10%, Sweden 10%, China 6%, Norway 5% (2021)<br>
@@ -508,10 +520,10 @@ Germany 14%, United States 10%, Sweden 10%, China 6%, Norway 5% (2021)<br>
 packaged medicines, pork, refined petroleum, electric generators, cheese (2021)<br>
 
 **Imports**<br>
-$235.768 billion (2022 est.)<br>
-$208.121 billion (2021 est.)<br>
-$172.868 billion (2020 est.)<br>
-<strong>note: </strong>data are in current year dollars<br>
+$235.68 billion (2022 est.)<br>
+$210.716 billion (2021 est.)<br>
+$172.954 billion (2020 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Germany 21%, Sweden 12%, China 9%, Netherlands 8%, Poland 4% (2021)<br>
@@ -520,9 +532,10 @@ Germany 21%, Sweden 12%, China 9%, Netherlands 8%, Poland 4% (2021)<br>
 cars, packaged medicines, refined petroleum, crude petroleum, broadcasting equipment, computers (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$82.236 billion (31 December 2021 est.)<br>
-$72.823 billion (31 December 2020 est.)<br>
-$66.836 billion (31 December 2019 est.)<br>
+$96.073 billion (2022 est.)<br>
+$82.236 billion (2021 est.)<br>
+$72.823 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $504.808 billion (2019 est.)<br>
@@ -530,11 +543,11 @@ $517.972 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Danish kroner (DKK) per US dollar -<br>
+7.076 (2022 est.)<br>
 6.287 (2021 est.)<br>
 6.542 (2020 est.)<br>
 6.669 (2019 est.)<br>
 6.315 (2018 est.)<br>
-6.603 (2017 est.)<br>
 
 ## Energy
 

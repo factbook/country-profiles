@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Ancient Egypt trade expeditions along the northeastern coast of Africa - including today's Eritrea, Djibouti, and Somalia - occurred at various times between the 25th and 12th centuries B.C. Between A.D. 800 and 1100, immigrant Muslim Arabs and Persians set up coastal trading posts along the Gulf of Aden and the Indian Ocean, solidifying Somalia’s close trading relationship with the Arab Peninsula. In the late 19th century, Britain and Italy established colonies in the Somali Peninsula, where they remained until 1960, when British Somaliland gained independence and joined with Italian Somaliland to form the Republic of Somalia. The country functioned as a parliamentary democracy until 1969, when General Mohamed SIAD Barre took control in a coup, beginning a 22-year authoritarian socialist dictatorship. In an effort to centralize power, SIAD called for the eradication of the clan, the key cultural and social organizing principle in Somali society. Resistance to SIAD’s socialist leadership, which was causing a rapid deterioration of the country, prompted allied clan militias to overthrow SIAD in early 1991, resulting in state collapse. Subsequent fighting between rival clans for resources and territory overwhelmed the country, resulting in a manmade famine and prompting international intervention. Beginning in 1993, the UN spearheaded a humanitarian mission supported by international forces, but the international community largely withdrew by 1995 following an incident that became known as Black Hawk Down in which two American Sikorsky UH-60 Black Hawk helicopters were shot down in Mogadishu. The fighting and subsequent siege and rescue resulted in 21 deaths and 82 wounded among the international forces.<br><br>International peace conferences in the 2000s resulted in a number of transitional governments that operated outside of Somalia. Left largely to themselves, Somalis in the country established alternative governance structures; some areas formed their own administrations, such as Somaliland and Puntland, while others developed localized institutions. Many local populations turned to using sharia courts, an Islamic judicial system that implements religious law. Several of these courts came together in 2006 to form the Islamic Courts Union (ICU). The ICU established order in many areas of central and southern Somalia, including Mogadishu, but was forced out when Ethiopia intervened militarily in December 2006 on behalf of the Somali Transitional Federal Government (TFG). While the TFG settled in the capital, the ICU fled to rural areas or from Somalia altogether, reemerging less than a year later as the Islamic insurgent and terrorist movement al-Shabaab, which is still active today. In January 2007, the African Union (AU) established the AU Mission in Somalia peacekeeping force, which allowed Ethiopia to withdraw its forces, took over security responsibility for the country, and gave the TFG space to develop Somalia’s new government. By 2012, Somali powerbrokers agreed on a provisional constitution with a loose federal structure and established a central government in Mogadishu termed the Somali Federal Government (SFG). Since then, several interim regional administrations have been established and there have been two presidential elections. However, significant and fundamental governance and security problems remain for the SFG since al-Shabaab controls large portions of the country.<br><br></p><br>
+<p>Ancient Egypt trade expeditions along the northeastern coast of Africa - including today's Eritrea, Djibouti, and Somalia - occurred at various times between the 25th and 12th centuries B.C. Between A.D. 800 and 1100, immigrant Muslim Arabs and Persians set up coastal trading posts along the Gulf of Aden and the Indian Ocean, solidifying Somalia’s close trading relationship with the Arab Peninsula. In the late 19th century, Britain, France and Italy established colonies in the Somali Peninsula, where they remained until 1960, when British Somaliland gained independence and joined with Italian Somaliland to form the Republic of Somalia, and France maintained control over modern-day Djibouti. The country functioned as a parliamentary democracy until 1969, when General Mohamed SIAD Barre took control in a coup, beginning a 22-year authoritarian socialist dictatorship. In an effort to centralize power, SIAD called for the eradication of the clan, the key cultural and social organizing principle in Somali society. Resistance to SIAD’s socialist leadership, which was causing a rapid deterioration of the country, prompted allied clan militias to overthrow SIAD in early 1991, resulting in state collapse. Subsequent fighting between rival clans for resources and territory overwhelmed the country, resulting in a manmade famine and prompting international intervention. Beginning in 1993, the UN spearheaded a humanitarian mission supported by international forces, but the international community largely withdrew by 1995 following an incident that became known as Black Hawk Down in which two American Sikorsky UH-60 Black Hawk helicopters were shot down in Mogadishu. The fighting and subsequent siege and rescue resulted in 21 deaths and 82 wounded among the international forces.<br><br>International peace conferences in the 2000s resulted in a number of transitional governments that operated outside of Somalia. Left largely to themselves, Somalis in the country established alternative governance structures; some areas formed their own administrations, such as Somaliland and Puntland, while others developed localized institutions. Many local populations turned to using sharia courts, an Islamic judicial system that implements religious law. Several of these courts came together in 2006 to form the Islamic Courts Union (ICU). The ICU established order in many areas of central and southern Somalia, including Mogadishu, but was forced out when Ethiopia intervened militarily in December 2006 on behalf of the Somali Transitional Federal Government (TFG). While the TFG settled in the capital, the ICU fled to rural areas or from Somalia altogether, reemerging less than a year later as the Islamic insurgent and terrorist movement al-Shabaab, which is still active today. In January 2007, the African Union (AU) established the AU Mission in Somalia peacekeeping force, took over security responsibility for the country, and gave the TFG space to develop Somalia’s new government. By 2012, Somali powerbrokers agreed on a provisional constitution with a loose federal structure and established a central government in Mogadishu termed the Somali Federal Government (SFG). Since then, several interim regional administrations have been established and there have been three presidential elections. However, significant and fundamental governance and security problems remain for the SFG since al-Shabaab controls large portions of the country.<br><br></p><br>
 
 ## Geography
 
@@ -374,24 +374,26 @@ regional and local governing bodies continue to exist and control various areas 
 low-income African Horn economy; 30 years of war and instability crippled economic potential; high remittances for basic survival; new fiscal federalism approach; cleared some unsustainable debt; environmentally fragile; digitally driven urbanization efforts<br>
 
 **Real GDP (purchasing power parity)**<br>
-$19.399 billion (2021 est.)<br>
-$18.644 billion (2020 est.)<br>
-$18.191 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 US dollars<br>
+$25.491 billion (2022 est.)<br>
+$24.886 billion (2021 est.)<br>
+$24.089 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.05% (2021 est.)<br>
-2.49% (2020 est.)<br>
-7.46% (2019 est.)<br>
+2.43% (2022 est.)<br>
+3.31% (2021 est.)<br>
+-2.56% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,100 (2021 est.)<br>
-$1,100 (2020 est.)<br>
-$1,100 (2019 est.)<br>
-<strong>note: </strong>data are in 2017 dollars<br>
+$1,400 (2022 est.)<br>
+$1,500 (2021 est.)<br>
+$1,500 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$7.052 billion (2017 est.)<br>
+$10.42 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1.5% (2017 est.)<br>
@@ -417,16 +419,18 @@ camel milk, milk, sheep milk, goat milk, sugar cane, fruit, sorghum, cassava, ve
 light industries, including sugar refining, textiles, wireless communication<br>
 
 **Industrial production growth rate**<br>
-3.5% (2014 est.)<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.042 million (2021 est.)<br>
+3.163 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-19.86% (2021 est.)<br>
-19.72% (2020 est.)<br>
-18.83% (2019 est.)<br>
-NA<br>
+19.29% (2022 est.)<br>
+19.94% (2021 est.)<br>
+19.59% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 34.7% (2021 est.)<br>
@@ -434,7 +438,8 @@ _male_: 32.5%<br>
 _female_: 38.5%<br>
 
 **Population below poverty line**<br>
-NA<br>
+54.4% (2022 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 36.8 (2017 est.)<br>
@@ -444,9 +449,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-25.21% of GDP (2020 est.)<br>
-24.32% of GDP (2019 est.)<br>
-25.31% of GDP (2018 est.)<br>
+16.65% of GDP (2022 est.)<br>
+17.63% of GDP (2021 est.)<br>
+18.85% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $145.3 million (2014 est.)<br>
@@ -461,6 +467,7 @@ _expenditures_: $151.1 million (2014 est.)<br>
 
 **Taxes and other revenues**<br>
 0% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 NA<br>
@@ -497,7 +504,11 @@ $5.3 billion (31 December 2014 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Somali shillings (SOS) per US dollar -<br>
-23,960 (2016 est.)<br>
+23,097.987 (2017 est.)<br>
+23,061.784 (2016 est.)<br>
+22,254.236 (2015 est.)<br>
+20,230.929 (2014 est.)<br>
+19,283.8 (2013 est.)<br>
 
 ## Energy
 

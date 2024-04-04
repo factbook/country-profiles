@@ -358,29 +358,32 @@ _selected World Heritage Site locales_: Chief Roi Mata&rsquo;s Domain<br>
 lower-middle income Pacific island economy; extremely reliant on subsistence agriculture and tourism; environmentally fragile; struggling post-pandemic and Tropical Cyclone Harold rebound; sizeable inflation; road infrastructure aid from Australia<br>
 
 **Real GDP (purchasing power parity)**<br>
-$888.165 million (2021 est.)<br>
-$884.192 million (2020 est.)<br>
-$934.627 million (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$910.266 million (2022 est.)<br>
+$893.741 million (2021 est.)<br>
+$887.981 million (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0.45% (2021 est.)<br>
--5.4% (2020 est.)<br>
-3.24% (2019 est.)<br>
+1.85% (2022 est.)<br>
+0.65% (2021 est.)<br>
+-4.99% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,800 (2022 est.)<br>
 $2,800 (2021 est.)<br>
 $2,800 (2020 est.)<br>
-$3,100 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$870 million (2017 est.)<br>
+$1.056 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.1% (2022 est.)<br>
 2.34% (2021 est.)<br>
 5.33% (2020 est.)<br>
-2.76% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 27.3% (2017 est.)<br>
@@ -403,14 +406,17 @@ food and fish freezing, wood processing, meat canning<br>
 
 **Industrial production growth rate**<br>
 4.92% (2018 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-132,700 (2021 est.)<br>
+137,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.18% (2021 est.)<br>
-2.12% (2020 est.)<br>
-1.8% (2019 est.)<br>
+5.22% (2022 est.)<br>
+4.79% (2021 est.)<br>
+4.05% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 5.4% (2021 est.)<br>
@@ -418,19 +424,23 @@ _male_: 5.2%<br>
 _female_: 5.6%<br>
 
 **Population below poverty line**<br>
-NA<br>
+15.9% (2019 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 32.3 (2019 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
+_lowest 10%_: 3%<br>
+_highest 10%_: 24.7% (2019 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-10.92% of GDP (2020 est.)<br>
-8.01% of GDP (2019 est.)<br>
-3.85% of GDP (2018 est.)<br>
+14.21% of GDP (2022 est.)<br>
+21.4% of GDP (2021 est.)<br>
+15.8% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $398 million (2019 est.)<br>
@@ -444,20 +454,23 @@ _expenditures_: $355 million (2019 est.)<br>
 46.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-14.24% (of GDP) (2020 est.)<br>
+14.04% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$1.893 million (2021 est.)<br>
-$60.619 million (2020 est.)<br>
-$215.521 million (2019 est.)<br>
+-$142.128 million (2022 est.)<br>
+-$60.642 million (2021 est.)<br>
+-$20.299 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$88.805 million (2021 est.) note: data are in current year dollars<br>
-$141.534 million (2020 est.) note: data are in current year dollars<br>
-$372.711 million (2019 est.)<br>
+$140.561 million (2022 est.)<br>
+$89.105 million (2021 est.) note: data are in current year dollars<br>
+$141.829 million (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Thailand 54%, Japan 18%, South Korea 6%, Cyprus 5%, China 4% (2021)<br>
@@ -466,9 +479,10 @@ Thailand 54%, Japan 18%, South Korea 6%, Cyprus 5%, China 4% (2021)<br>
 tuna, floating platforms, cargo ships, perfume plants, mollusks, copra (2021)<br>
 
 **Imports**<br>
-$495.858 million (2021 est.) note: data are in current year dollars<br>
-$429.601 million (2020 est.) note: data are in current year dollars<br>
-$488.795 million (2019 est.)<br>
+$577.334 million (2022 est.)<br>
+$520.15 million (2021 est.) note: data are in current year dollars<br>
+$449.277 million (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 26%, Australia 16%, New Zealand 15%, Fiji 8%, Singapore 7% (2021)<br>
@@ -477,9 +491,10 @@ China 26%, Australia 16%, New Zealand 15%, Fiji 8%, Singapore 7% (2021)<br>
 refined petroleum, fishing ships, poultry meats, delivery trucks, lumber, rice, broadcasting equipment (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$664.751 million (31 December 2021 est.)<br>
-$613.637 million (31 December 2020 est.)<br>
-$511.546 million (31 December 2019 est.)<br>
+$638.537 million (2022 est.)<br>
+$664.751 million (2021 est.)<br>
+$613.637 million (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $200.5 million (31 December 2017 est.)<br>
@@ -487,11 +502,11 @@ $182.5 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: vatu (VUV) per US dollar -<br>
+115.354 (2022 est.)<br>
 109.453 (2021 est.)<br>
 115.38 (2020 est.)<br>
 114.733 (2019 est.)<br>
 110.165 (2018 est.)<br>
-107.821 (2017 est.)<br>
 
 ## Energy
 

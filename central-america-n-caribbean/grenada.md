@@ -350,29 +350,32 @@ _lyrics/music_: Irva Merle BAPTISTE/Louis Arnold MASANTO<br>
 small OECS service-based economy; large tourism, construction, transportation, and education sectors; major spice exporter; shrinking but still high public debt; vulnerable to hurricanes; emerging blue economy incentives<br>
 
 **Real GDP (purchasing power parity)**<br>
+$1.814 billion (2022 est.)<br>
 $1.706 billion (2021 est.)<br>
 $1.629 billion (2020 est.)<br>
-$1.889 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+6.36% (2022 est.)<br>
 4.69% (2021 est.)<br>
 -13.76% (2020 est.)<br>
-0.68% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$14,500 (2022 est.)<br>
 $13,700 (2021 est.)<br>
 $13,200 (2020 est.)<br>
-$15,400 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.119 billion (2017 est.)<br>
+$1.215 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.56% (2022 est.)<br>
 1.22% (2021 est.)<br>
 -0.74% (2020 est.)<br>
-0.6% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Standard & Poors rating_: SD (2013)<br>
@@ -398,7 +401,8 @@ bananas, watermelons, sweet potatoes, sugar cane, tomatoes, plantains, coconuts,
 food and beverages, textiles, light assembly operations, tourism, construction, education, call-center operations<br>
 
 **Industrial production growth rate**<br>
-15.33% (2021 est.)<br>
+17.38% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 55,270 (2017 est.)<br>
@@ -415,9 +419,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
+5.71% of GDP (2022 est.)<br>
 6.59% of GDP (2021 est.)<br>
 6.75% of GDP (2020 est.)<br>
-5.22% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $323 million (2019 est.)<br>
@@ -437,14 +442,16 @@ _expenditures_: $263 million (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$293.776 million (2021 est.)<br>
--$219.561 million (2020 est.)<br>
--$176.958 million (2019 est.)<br>
+-$55.225 million (2022 est.)<br>
+-$146.201 million (2021 est.)<br>
+-$171.392 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$393.766 million (2021 est.) note: data are in current year dollars<br>
-$421.843 million (2020 est.)<br>
-$661.723 million (2019 est.)<br>
+$816.533 million (2022 est.)<br>
+$534.892 million (2021 est.) note: data are in current year dollars<br>
+$428.623 million (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 30%, Saint Vincent and the Grenadines 12%, France 7%, Germany 5%, Trinidad and Tobago 5% (2021)<br>
@@ -453,9 +460,10 @@ United States 30%, Saint Vincent and the Grenadines 12%, France 7%, Germany 5%, 
 nutmeg, tuna, cocoa beans, fruits, nuts, toilet paper, acrylic paints, beer (2021)<br>
 
 **Imports**<br>
-$650 million (2021 est.) note: data are in current year dollars<br>
-$587 million (2020 est.)<br>
-$727 million (2019 est.)<br>
+$802.567 million (2022 est.)<br>
+$622.303 million (2021 est.) note: data are in current year dollars<br>
+$544.695 million (2020 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 35%, Trinidad and Tobago 17%, Cayman Islands 8%, China 5%, United Kingdom 4% (2021)<br>
@@ -464,9 +472,10 @@ United States 35%, Trinidad and Tobago 17%, Cayman Islands 8%, China 5%, United 
 refined petroleum, poultry, cars, food preparation materials, delivery trucks (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$348.259 million (31 December 2021 est.)<br>
-$293.32 million (31 December 2020 est.)<br>
-$236.325 million (31 December 2019 est.)<br>
+$371.767 million (2022 est.)<br>
+$348.259 million (2021 est.)<br>
+$293.32 million (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $793.5 million (2017 est.)<br>
@@ -474,11 +483,11 @@ $682.3 million (2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2022 est.)<br>
 2.7 (2021 est.)<br>
 2.7 (2020 est.)<br>
 2.7 (2019 est.)<br>
 2.7 (2018 est.)<br>
-2.7 (2017 est.)<br>
 
 ## Energy
 

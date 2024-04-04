@@ -302,13 +302,6 @@ $261.3 million (2015 est.)<br>
 $215.3 million (2006 est.)<br>
 <strong>note:</strong> supplemented by annual payments from France of about $60 million<br>
 
-**Real GDP growth rate**<br>
-<p>NA</p><br>
-
-**Real GDP per capita**<br>
-$46,200 (2006 est.)<br>
-$34,900 (2005)<br>
-
 **GDP (official exchange rate)**<br>
 $261.3 million (2015 est.)<br>
 
@@ -326,9 +319,6 @@ vegetables; poultry, cattle, sheep, pigs; fish<br>
 
 **Industries**<br>
 fish processing and supply base for fishing fleets; tourism<br>
-
-**Industrial production growth rate**<br>
-NA<br>
 
 **Labor force**<br>
 4,429 (2015)<br>
@@ -351,25 +341,14 @@ _expenditures_: $60 million (1996 est.)<br>
 **Budget surplus (+) or deficit (-)**<br>
 3.8% (of GDP) (1996 est.)<br>
 
-**Taxes and other revenues**<br>
-26.8% (of GDP) (1996 est.)<br>
-
 **Fiscal year**<br>
 calendar year<br>
-
-**Exports**<br>
-$6.641 million (2010 est.)<br>
-$5.5 million (2005 est.)<br>
 
 **Exports - partners**<br>
 Canada 79%, France 8%, Belgium 6% (2019)<br>
 
 **Exports - commodities**<br>
 crustaceans, fish, medical instruments, electrical parts, pasta (2019)<br>
-
-**Imports**<br>
-$95.35 million (2010 est.)<br>
-$68.2 million (2005 est.)<br>
 
 **Imports - partners**<br>
 France 69%, Canada 22% (2019)<br>

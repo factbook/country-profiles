@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Present-day Niger originated from the nomadic peoples of the Saharan north and the agriculturalists of the south. The Taureg kingdom of Takedda was one of the largest kingdoms in the north and played a prominent role in regional trade in the 14th century. In the south, the primary ethnic groups were the Songhai-Zarma in the west, the Hausa in the center, and the Kanuri in the east. When European colonizers arrived in the 19th century, the region was an assemblage of disparate local kingdoms.</p> <p>In the late 19th century, the British and French agreed to partition the middle regions of the Niger River, and France began its conquest of what would become the colony of Niger.  France experienced determined local resistance - particularly during the Tuareg uprising (1916-1917) - but established a colonial administration in 1922.</p> <p>After achieving independence from France in 1960, Niger experienced single-party or military rule until 1991 when political pressure forced General Ali SAIBOU to allow multiparty elections. Political infighting and democratic backsliding led to coups in 1996 and 1999. In December of that year, military officers restored democratic rule and held elections that brought Mamadou TANDJA to power. TANDJA was reelected in 2004 and spearheaded a 2009 constitutional amendment allowing him to extend his presidential term. In February 2010, military officers led another coup that deposed TANDJA. ISSOUFOU Mahamadou was elected in April 2011 and reelected in early 2016. In February 2021, BAZOUM Mohamed won the presidential election, marking Niger’s first transition from one democratically elected president to another. Nonetheless, a military junta once again seized power in a late-July 2023 coup, detaining President BAZOUM, and announcing the creation of a National Council for the Safeguarding of the Homeland (CNSP), headed by coup-leader General Abdourahamane TIANI.<br><br>Niger is one of the poorest countries in the world with minimal government services and insufficient funds to develop its resource base. It is ranked third to last in the world on the UN Development Program's Human Development Index, as of 2022. The largely agrarian and subsistence-based economy is frequently disrupted by extended droughts common to the Sahel region of Africa. The Nigerien Government continues its attempts to diversify the economy through increased oil production and mining projects. In addition, Niger is facing increased security concerns on its borders from various external threats including insecurity in Libya, spillover from the conflict and terrorism in Mali, and violent extremism in northeastern Nigeria.</p><br>
+<p>Present-day Niger originated from the nomadic peoples of the Saharan north and the agriculturalists of the south. The Taureg kingdom of Takedda was one of the largest kingdoms in the north and played a prominent role in regional trade in the 14th century. In the south, the primary ethnic groups were the Songhai-Zarma in the west, the Hausa in the center, and the Kanuri in the east. When European colonizers arrived in the 19th century, the region was an assemblage of disparate local kingdoms.</p> <p>In the late 19th century, the British and French agreed to partition the middle regions of the Niger River, and France began its conquest of what would become the colony of Niger.  France experienced determined local resistance - particularly during the Tuareg uprising (1916-1917) - but established a colonial administration in 1922.</p> <p>After achieving independence from France in 1960, Niger experienced single-party or military rule until 1991 when political pressure forced General Ali SAIBOU to allow multiparty elections. Political infighting and democratic backsliding led to coups in 1996 and 1999. In December of that year, military officers restored democratic rule and held elections that brought Mamadou TANDJA to power. TANDJA was reelected in 2004 and spearheaded a 2009 constitutional amendment allowing him to extend his presidential term. In February 2010, military officers led another coup that deposed TANDJA. ISSOUFOU Mahamadou was elected in April 2011 and reelected in early 2016. In February 2021, BAZOUM Mohamed won the presidential election, marking Niger’s first transition from one democratically elected president to another. Nonetheless, a military junta once again seized power in a late-July 2023 coup, detaining President BAZOUM, and announcing the creation of a National Council for the Safeguarding of the Homeland (CNSP), headed by coup-leader General Abdourahamane TIANI.<br><br>Niger is one of the poorest countries in the world with minimal government services and insufficient funds to develop its resource base. It is ranked fourth to last in the world on the UN Development Program's Human Development Index of 2023/2024. The largely agrarian and subsistence-based economy is frequently disrupted by extended droughts common to the Sahel region of Africa. The Nigerien Government continues its attempts to diversify the economy through increased oil production and mining projects. In addition, Niger is facing increased security concerns on its borders from various external threats including insecurity in Libya, spillover from the conflict and terrorism in Mali, and violent extremism in northeastern Nigeria.</p><br>
 
 ## Geography
 
@@ -414,29 +414,32 @@ _selected World Heritage Site locales_: Air and T&eacute;n&eacute;r&eacute; Natu
 low-income Sahel economy; major instability and humanitarian crises limit economic activity; COVID-19 eliminated recent antipoverty gains; economy rebounding since December 2020 Nigerian border reopening and new investments; uranium resource rich<br>
 
 **Real GDP (purchasing power parity)**<br>
-$29.964 billion (2021 est.)<br>
+$33.406 billion (2022 est.)<br>
+$29.963 billion (2021 est.)<br>
 $29.554 billion (2020 est.)<br>
-$28.541 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.39% (2021 est.)<br>
+11.49% (2022 est.)<br>
+1.38% (2021 est.)<br>
 3.55% (2020 est.)<br>
-5.94% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$1,300 (2022 est.)<br>
 $1,200 (2021 est.)<br>
 $1,200 (2020 est.)<br>
-$1,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$12.926 billion (2019 est.)<br>
+$15.342 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.23% (2022 est.)<br>
 3.84% (2021 est.)<br>
 2.9% (2020 est.)<br>
--2.49% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2019)<br>
@@ -462,15 +465,18 @@ millet, cow peas, sorghum, onions, milk, groundnuts, cassava, cabbages, goat mil
 uranium mining, petroleum, cement, brick, soap, textiles, food processing, chemicals, slaughterhouses<br>
 
 **Industrial production growth rate**<br>
-4.09% (2021 est.)<br>
+-0.89% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-9.411 million (2021 est.)<br>
+9.833 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-0.75% (2021 est.)<br>
-0.62% (2020 est.)<br>
-0.55% (2019 est.)<br>
+0.57% (2022 est.)<br>
+0.86% (2021 est.)<br>
+0.66% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 1% (2021 est.)<br>
@@ -479,18 +485,22 @@ _female_: 0.7%<br>
 
 **Population below poverty line**<br>
 40.8% (2018 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 37.3 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.2%<br>
-_highest 10%_: 26.8% (2014)<br>
+_highest 10%_: 31.1% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+3.26% of GDP (2022 est.)<br>
+2.37% of GDP (2021 est.)<br>
 3.79% of GDP (2020 est.)<br>
-2.39% of GDP (2019 est.)<br>
-2.32% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $2.325 billion (2019 est.)<br>
@@ -510,14 +520,16 @@ _expenditures_: $2.785 billion (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
+-$2.099 billion (2021 est.)<br>
 -$1.816 billion (2020 est.)<br>
 -$1.572 billion (2019 est.)<br>
--$1.625 billion (2018 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$1.487 billion (2021 est.)<br>
 $1.338 billion (2020 est.) note: data are in current year dollars<br>
 $1.387 billion (2019 est.) note: data are in current year dollars<br>
-$1.45 billion (2018 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United Arab Emirates 54%, China 25%, France 7%, Pakistan 5% (2019)<br>
@@ -526,9 +538,10 @@ United Arab Emirates 54%, China 25%, France 7%, Pakistan 5% (2019)<br>
 gold, sesame seeds, uranium, refined petroleum, onions (2021)<br>
 
 **Imports**<br>
+$4.027 billion (2021 est.)<br>
 $3.542 billion (2020 est.) note: data are in current year dollars<br>
 $3.395 billion (2019 est.) note: data are in current year dollars<br>
-$3.369 billion (2018 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 19%, France 9%, United Arab Emirates 7%, Cote d'Ivoire 6%, India 6%, Nigeria 5%, Togo 5%, Turkey 5% (2019)<br>
@@ -546,11 +559,11 @@ $2.926 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
 555.446 (2018 est.)<br>
-580.657 (2017 est.)<br>
 
 ## Energy
 

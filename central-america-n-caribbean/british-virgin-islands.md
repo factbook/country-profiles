@@ -343,9 +343,6 @@ tourism, light industry, construction, rum, concrete block, offshore banking cen
 **Industrial production growth rate**<br>
 1.1% (2017 est.)<br>
 
-**Labor force**<br>
-12,770 (2004)<br>
-
 **Unemployment rate**<br>
 2.9% (2015 est.)<br>
 
@@ -368,10 +365,6 @@ _expenditures_: $400 million (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
-
-**Current account balance**<br>
-$362.6 million (2011 est.)<br>
-$279.8 million (2010 est.)<br>
 
 **Exports**<br>
 $23 million (2017 est.)<br>

@@ -428,28 +428,31 @@ natural resource-rich Eurasian economy; leading energy exporter to Europe and As
 
 **Real GDP (purchasing power parity)**<br>
 $4.027 trillion (2022 est.)<br>
-$4.078 trillion (2021 est.)<br>
-$3.893 trillion (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$4.112 trillion (2021 est.)<br>
+$3.894 trillion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.75% (2021 est.)<br>
--2.66% (2020 est.)<br>
-2.2% (2019 est.)<br>
+-2.07% (2022 est.)<br>
+5.61% (2021 est.)<br>
+-2.65% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $27,500 (2022 est.)<br>
-$28,000 (2021 est.)<br>
+$28,100 (2021 est.)<br>
 $26,600 (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1,702,361,000,000 (2019 est.)<br>
+$2.24 trillion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 6.69% (2021 est.)<br>
 3.38% (2020 est.)<br>
 4.47% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2019)<br>
@@ -477,15 +480,18 @@ wheat, sugar beets, milk, potatoes, barley, sunflower seed, maize, poultry, oats
 complete range of mining and extractive industries producing coal, oil, gas, chemicals, and metals; all forms of machine building from rolling mills to high-performance aircraft and space vehicles; defense industries (including radar, missile production, advanced electronic components), shipbuilding; road and rail transportation equipment; communications equipment; agricultural machinery, tractors, and construction equipment; electric power generating and transmitting equipment; medical and scientific instruments; consumer durables, textiles, foodstuffs, handicrafts<br>
 
 **Industrial production growth rate**<br>
-4.9% (2021 est.)<br>
+-0.17% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-72.444 million (2021 est.)<br>
+73.799 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.01% (2021 est.)<br>
+3.87% (2022 est.)<br>
+4.72% (2021 est.)<br>
 5.59% (2020 est.)<br>
-4.5% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 16.9% (2021 est.)<br>
@@ -493,23 +499,27 @@ _male_: 15.7%<br>
 _female_: 18.4%<br>
 
 **Population below poverty line**<br>
-12.6% (2018 est.)<br>
+12.1% (2020 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 36 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 28% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 7.4% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.3%<br>
-_highest 10%_: 32.2% (2012 est.)<br>
+_lowest 10%_: 3.1%<br>
+_highest 10%_: 29% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.54% of GDP (2021 est.)<br>
-0.67% of GDP (2020 est.)<br>
-0.62% of GDP (2019 est.)<br>
+0.15% of GDP (2022 est.)<br>
+0.53% of GDP (2021 est.)<br>
+0.66% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $604.135 billion (2019 est.)<br>
@@ -519,27 +529,29 @@ _expenditures_: $571.465 billion (2019 est.)<br>
 -1.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-23.05% of GDP (2020 est.)<br>
+20.94% of GDP (2021 est.)<br>
+22.99% of GDP (2020 est.)<br>
 17.28% of GDP (2019 est.)<br>
-16.17% of GDP (2018 est.)<br>
-<strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment, debt instruments for the social funds are not sold at public auctions<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-10.83% (of GDP) (2020 est.)<br>
+11.65% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$122.27 billion (2021 est.)<br>
+$237.883 billion (2022 est.)<br>
+$122.114 billion (2021 est.)<br>
 $35.373 billion (2020 est.)<br>
-$65.627 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$631.551 billion (2022 est.)<br>
-$550.035 billion (2021 est.)<br>
+$640.688 billion (2022 est.)<br>
+$549.9 billion (2021 est.)<br>
 $381.49 billion (2020 est.)<br>
-<strong>note: </strong>data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 15%, Netherlands 8%, United States 6%, United Kingdom 5%, Italy 5% (2021)<br>
@@ -548,10 +560,10 @@ China 15%, Netherlands 8%, United States 6%, United Kingdom 5%, Italy 5% (2021)<
 crude petroleum, refined petroleum, natural gas, coal, wheat, iron (2019)<br>
 
 **Imports**<br>
-$349.175 billion (2022 est.)<br>
-$379.947 billion (2021 est.)<br>
+$347.375 billion (2022 est.)<br>
+$379.946 billion (2021 est.)<br>
 $304.837 billion (2020 est.)<br>
-<strong>note: </strong>data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 25%, Germany 12%, Belarus 6%, South Korea 4%, Poland 3% (2021)<br>
@@ -560,9 +572,10 @@ China 25%, Germany 12%, Belarus 6%, South Korea 4%, Poland 3% (2021)<br>
 cars and vehicle parts, packaged medicines, broadcasting equipment, aircraft, computers (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$632.242 billion (31 December 2021 est.)<br>
-$596.77 billion (31 December 2020 est.)<br>
-$555.179 billion (31 December 2019 est.)<br>
+$581.71 billion (2022 est.)<br>
+$632.242 billion (2021 est.)<br>
+$596.77 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $479.844 billion (2019 est.)<br>
@@ -570,11 +583,11 @@ $484.355 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Russian rubles (RUB) per US dollar -<br>
+68.485 (2022 est.)<br>
 73.654 (2021 est.)<br>
 72.105 (2020 est.)<br>
 64.738 (2019 est.)<br>
 62.668 (2018 est.)<br>
-58.343 (2017 est.)<br>
 
 ## Energy
 

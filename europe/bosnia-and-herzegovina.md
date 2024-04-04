@@ -384,24 +384,26 @@ _selected World Heritage Site locales_: Old Bridge Area of Mostar (c); Mehmed Pa
 import-dominated economy; remains consumption-heavy; lack of private sector investments and diversification; jointly addressing structural economic challenges; Chinese energy infrastructure investments; high unemployment; tourism industry impacted by COVID-19<br>
 
 **Real GDP (purchasing power parity)**<br>
-$51.244 billion (2021 est.)<br>
-$47.649 billion (2020 est.)<br>
-$49.183 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$54.12 billion (2022 est.)<br>
+$51.986 billion (2021 est.)<br>
+$48.407 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-7.55% (2021 est.)<br>
--3.12% (2020 est.)<br>
-2.83% (2019 est.)<br>
+4.11% (2022 est.)<br>
+7.39% (2021 est.)<br>
+-3.02% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$15,700 (2021 est.)<br>
-$14,400 (2020 est.)<br>
-$14,600 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$16,700 (2022 est.)<br>
+$15,900 (2021 est.)<br>
+$14,600 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$20.078 billion (2019 est.)<br>
+$24.474 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1.98% (2021 est.)<br>
@@ -433,16 +435,18 @@ maize, milk, vegetables, potatoes, wheat, plums/sloes, apples, barley, cabbages,
 steel, coal, iron ore, lead, zinc, manganese, bauxite, aluminum, motor vehicle assembly, textiles, tobacco products, wooden furniture, ammunition, domestic appliances, oil refining<br>
 
 **Industrial production growth rate**<br>
-8.87% (2021 est.)<br>
+1.77% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.169 million (2021 est.)<br>
+1.382 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-15.22% (2021 est.)<br>
-15.27% (2020 est.)<br>
-15.69% (2019 est.)<br>
-<strong>note:</strong> official rate; actual rate is lower as many technically unemployed persons work in the gray economy<br>
+12.66% (2022 est.)<br>
+14.9% (2021 est.)<br>
+15.87% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 32.9% (2021 est.)<br>
@@ -451,6 +455,7 @@ _female_: 39.9%<br>
 
 **Population below poverty line**<br>
 16.9% (2015 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33 (2011 est.)<br>
@@ -464,9 +469,10 @@ _lowest 10%_: 2.9%<br>
 _highest 10%_: 25.8% (2011 est.)<br>
 
 **Remittances**<br>
-10.16% of GDP (2021 est.)<br>
-9.58% of GDP (2020 est.)<br>
-11.55% of GDP (2019 est.)<br>
+10.08% of GDP (2022 est.)<br>
+10.04% of GDP (2021 est.)<br>
+9.45% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $8.434 billion (2019 est.)<br>
@@ -476,27 +482,29 @@ _expenditures_: $8.154 billion (2019 est.)<br>
 2.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-46.05% of GDP (2020 est.)<br>
-44.63% of GDP (2019 est.)<br>
-45.56% of GDP (2018 est.)<br>
-<strong>note:</strong> data cover general government debt and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions.<br>
+41.85% of GDP (2022 est.)<br>
+47.02% of GDP (2021 est.)<br>
+45.42% of GDP (2020 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-19.01% (of GDP) (2020 est.)<br>
+19.14% (of GDP) (2022 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$557.887 million (2021 est.)<br>
--$658.601 million (2020 est.)<br>
--$531.917 million (2019 est.)<br>
+-$1,065,156,000 (2022 est.)<br>
+-$418.984 million (2021 est.)<br>
+-$574.322 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$9.948 billion (2021 est.)<br>
-$6.936 billion (2020 est.)<br>
-$8.199 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$11.794 billion (2022 est.)<br>
+$10.058 billion (2021 est.)<br>
+$7.02 billion (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Germany 14%, Italy 12%, Croatia 11%, Serbia 11%, Austria 9%, Slovenia 8% (2019)<br>
@@ -505,9 +513,10 @@ Germany 14%, Italy 12%, Croatia 11%, Serbia 11%, Austria 9%, Slovenia 8% (2019)<
 electricity, seating, insulated wiring, lumber, furniture (2021)<br>
 
 **Imports**<br>
-$12.726 billion (2021 est.) note: data are in current year dollars<br>
+$15.162 billion (2022 est.)<br>
+$12.738 billion (2021 est.) note: data are in current year dollars<br>
 $9.726 billion (2020 est.) note: data are in current year dollars<br>
-$11.156 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Croatia 15%, Serbia 13%, Germany 10%, Italy 9%, Slovenia 7%, China 6% (2019)<br>
@@ -516,9 +525,10 @@ Croatia 15%, Serbia 13%, Germany 10%, Italy 9%, Slovenia 7%, China 6% (2019)<br>
 refined petroleum, cars, packaged medicines, coal, electricity (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$9.475 billion (31 December 2021 est.)<br>
-$8.707 billion (31 December 2020 est.)<br>
-$7.208 billion (31 December 2019 est.)<br>
+$8.762 billion (2022 est.)<br>
+$9.475 billion (2021 est.)<br>
+$8.707 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $10.87 billion (31 December 2017 est.)<br>
@@ -526,11 +536,11 @@ $10.64 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: konvertibilna markas (BAM) per US dollar -<br>
+1.859 (2022 est.)<br>
 1.654 (2021 est.)<br>
 1.717 (2020 est.)<br>
 1.747 (2019 est.)<br>
 1.657 (2018 est.)<br>
-1.735 (2017 est.)<br>
 
 ## Energy
 
@@ -694,7 +704,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 **Refugees and internally displaced persons**<br>
 _IDPs_: 91,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2022)<br>
 _stateless persons_: 48 (2022)<br>
-<strong>note: </strong>152,297 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
+<strong>note: </strong>153,304 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p><br>

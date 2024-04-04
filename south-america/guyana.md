@@ -384,29 +384,32 @@ _lyrics/music_: Archibald Leonard LUKERL/Robert Cyril Gladstone POTTER<br>
 small, hydrocarbon-driven South American export economy; major forest coverage being leveraged in carbon credit offsets to encourage preservation; strengthening financial sector; large bauxite and gold resources<br>
 
 **Real GDP (purchasing power parity)**<br>
+$28.819 billion (2022 est.)<br>
 $17.64 billion (2021 est.)<br>
 $14.693 billion (2020 est.)<br>
-$10.24 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+63.37% (2022 est.)<br>
 20.06% (2021 est.)<br>
 43.48% (2020 est.)<br>
-5.35% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$35,600 (2022 est.)<br>
 $21,900 (2021 est.)<br>
 $18,400 (2020 est.)<br>
-$12,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.561 billion (2017 est.)<br>
+$14.718 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.12% (2022 est.)<br>
 5.03% (2021 est.)<br>
 0.99% (2020 est.)<br>
-2.09% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 15.4% (2017 est.)<br>
@@ -428,15 +431,18 @@ rice, sugar cane, coconuts, pumpkins, squash, gourds, milk, eggplants, green chi
 bauxite, sugar, rice milling, timber, textiles, gold mining<br>
 
 **Industrial production growth rate**<br>
-33.52% (2021 est.)<br>
+98.53% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-299,300 (2021 est.)<br>
+288,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-16.42% (2021 est.)<br>
-16.43% (2020 est.)<br>
-13.99% (2019 est.)<br>
+12.3% (2022 est.)<br>
+14.98% (2021 est.)<br>
+15.69% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 29.9% (2021 est.)<br>
@@ -454,9 +460,10 @@ _lowest 10%_: 1.3%<br>
 _highest 10%_: 33.8% (1999)<br>
 
 **Remittances**<br>
-8.01% of GDP (2020 est.)<br>
-7.35% of GDP (2019 est.)<br>
-6.97% of GDP (2018 est.)<br>
+3.67% of GDP (2022 est.)<br>
+6.81% of GDP (2021 est.)<br>
+7.84% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.333 billion (2019 est.)<br>
@@ -476,14 +483,16 @@ _expenditures_: $1.467 billion (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$2.087 billion (2021 est.)<br>
+-$254.121 million (2022 est.)<br>
+-$2,503,316,000 (2021 est.)<br>
 -$396.533 million (2020 est.)<br>
--$2.717 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$11.536 billion (2022 est.)<br>
 $4.64 billion (2021 est.) note: data are in current year dollars<br>
 $2.799 billion (2020 est.) note: data are in current year dollars<br>
-$1.805 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 40%, Singapore 14%, United Arab Emirates 6%, United Kingdom 6%, Barbados 6% (2021)<br>
@@ -492,9 +501,10 @@ United States 40%, Singapore 14%, United Arab Emirates 6%, United Kingdom 6%, Ba
 crude petroleum, gold, rice, aluminum ores, railway shipping containers, rums&nbsp;&nbsp; (2021)<br>
 
 **Imports**<br>
+$7.067 billion (2022 est.)<br>
 $6.611 billion (2021 est.) note: data are in current year dollars<br>
 $3.756 billion (2020 est.) note: data are in current year dollars<br>
-$5.025 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Singapore 33%, United States 19%, Trinidad and Tobago 12%, China 8%, Brazil 2% (2021)<br>
@@ -503,9 +513,10 @@ Singapore 33%, United States 19%, Trinidad and Tobago 12%, China 8%, Brazil 2% (
 floating drilling platforms, refined petroleum, valves, construction vehicles, cars (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$790.785 million (31 December 2021 est.)<br>
-$680.634 million (31 December 2020 est.)<br>
-$573.446 million (31 December 2019 est.)<br>
+$917.877 million (2022 est.)<br>
+$790.785 million (2021 est.)<br>
+$680.634 million (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.69 billion (31 December 2017 est.)<br>
@@ -513,11 +524,11 @@ $1.542 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Guyanese dollars (GYD) per US dollar -<br>
+208.5 (2022 est.)<br>
 208.5 (2021 est.)<br>
 208.5 (2020 est.)<br>
 208.5 (2019 est.)<br>
 207.717 (2018 est.)<br>
-206.5 (2017 est.)<br>
 
 ## Energy
 

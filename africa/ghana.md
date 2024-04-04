@@ -404,29 +404,32 @@ _selected World Heritage Site locales_: Forts and Castles, Volta, Greater Accra,
 West African trade and agrarian economy; COVID-19 reversed nearly 4 decades of continuous growth; major diamond, gold, cocoa, and oil exporter; high public debts; financial and energy sector reform programs adding to fiscal pressures; high remittances<br>
 
 **Real GDP (purchasing power parity)**<br>
-$178.455 billion (2021 est.)<br>
+$183.459 billion (2022 est.)<br>
+$177.981 billion (2021 est.)<br>
 $169.382 billion (2020 est.)<br>
-$168.516 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.36% (2021 est.)<br>
+3.08% (2022 est.)<br>
+5.08% (2021 est.)<br>
 0.51% (2020 est.)<br>
-6.51% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$5,500 (2022 est.)<br>
 $5,400 (2021 est.)<br>
 $5,300 (2020 est.)<br>
-$5,300 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$65.363 billion (2019 est.)<br>
+$73.766 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+31.26% (2022 est.)<br>
 9.97% (2021 est.)<br>
 9.89% (2020 est.)<br>
-7.14% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2013)<br>
@@ -454,15 +457,18 @@ cassava, yams, plantains, maize, oil palm fruit, taro, rice, cocoa, oranges, pin
 mining, lumbering, light manufacturing, aluminum smelting, food processing, cement, small commercial ship building, petroleum<br>
 
 **Industrial production growth rate**<br>
--0.8% (2021 est.)<br>
+0.93% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-14.095 million (2021 est.)<br>
+14.549 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.7% (2021 est.)<br>
-4.65% (2020 est.)<br>
-4.32% (2019 est.)<br>
+3.52% (2022 est.)<br>
+3.56% (2021 est.)<br>
+3.42% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.6% (2021 est.)<br>
@@ -471,22 +477,26 @@ _female_: 9.4%<br>
 
 **Population below poverty line**<br>
 23.4% (2016 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 43.5 (2016 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 41.3% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 1% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2%<br>
-_highest 10%_: 32.8% (2006)<br>
+_lowest 10%_: 1.6%<br>
+_highest 10%_: 32.2% (2016 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+6.32% of GDP (2022 est.)<br>
+5.24% of GDP (2021 est.)<br>
 6.13% of GDP (2020 est.)<br>
-5.93% of GDP (2019 est.)<br>
-5.23% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $9.492 billion (2018 est.)<br>
@@ -501,19 +511,22 @@ _expenditures_: $14.062 billion (2018 est.)<br>
 
 **Taxes and other revenues**<br>
 11.34% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$2.541 billion (2021 est.)<br>
--$2.134 billion (2020 est.)<br>
--$1.864 billion (2019 est.)<br>
+-$1,516,942,000 (2022 est.)<br>
+-$2,541,423,000 (2021 est.)<br>
+-$2,133,965,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$25.744 billion (2022 est.)<br>
 $23.901 billion (2021 est.) note: data are in current year dollars<br>
 $22.077 billion (2020 est.) note: data are in current year dollars<br>
-$25.592 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Switzerland 23%, United Arab Emirates 12%, China 12%, India 9%, Netherlands 5% (2020)<br>
@@ -522,9 +535,10 @@ Switzerland 23%, United Arab Emirates 12%, China 12%, India 9%, Netherlands 5% (
 gold, crude petroleum, cocoa products, cashews, manganese&nbsp; (2021)<br>
 
 **Imports**<br>
+$26.329 billion (2022 est.)<br>
 $25.967 billion (2021 est.) note: data are in current year dollars<br>
 $24.545 billion (2020 est.) note: data are in current year dollars<br>
-$26.908 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 42%, Netherlands 5%, United States 5%, India 5%, United Arab Emirates 3% (2020)<br>
@@ -533,9 +547,10 @@ China 42%, Netherlands 5%, United States 5%, India 5%, United Arab Emirates 3% (
 refined petroleum, cars, rice, delivery trucks, iron (2020)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$9.917 billion (31 December 2021 est.)<br>
-$7.884 billion (31 December 2020 est.)<br>
-$7.563 billion (31 December 2019 est.)<br>
+$9.917 billion (2021 est.)<br>
+$7.884 billion (2020 est.)<br>
+$7.563 billion (2019 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $20.467 billion (2019 est.)<br>
@@ -543,11 +558,11 @@ $17.885 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: cedis (GHC) per US dollar -<br>
+8.272 (2022 est.)<br>
 5.806 (2021 est.)<br>
 5.596 (2020 est.)<br>
 5.217 (2019 est.)<br>
 4.585 (2018 est.)<br>
-4.351 (2017 est.)<br>
 
 ## Energy
 

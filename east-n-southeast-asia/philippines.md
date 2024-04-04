@@ -403,29 +403,32 @@ _selected World Heritage Site locales_: Baroque Churches of the Philippines (c);
 growing East Asian economy; hard post-pandemic recovery; key electronics exporter; significant remittances; growing regional tensions with China; declining unemployment; climate change risk to food security; major equity concerns<br>
 
 **Real GDP (purchasing power parity)**<br>
-$921.826 billion (2021 est.)<br>
+$991.72 billion (2022 est.)<br>
+$921.927 billion (2021 est.)<br>
 $872.09 billion (2020 est.)<br>
-$963.83 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.7% (2021 est.)<br>
+7.57% (2022 est.)<br>
+5.71% (2021 est.)<br>
 -9.52% (2020 est.)<br>
-6.12% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$8,600 (2022 est.)<br>
 $8,100 (2021 est.)<br>
 $7,800 (2020 est.)<br>
-$8,700 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$377.205 billion (2019 est.)<br>
+$404.284 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.82% (2022 est.)<br>
 3.93% (2021 est.)<br>
 2.39% (2020 est.)<br>
-2.39% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2017)<br>
@@ -453,15 +456,18 @@ sugar cane, rice, coconuts, maize, bananas, vegetables, tropical fruit, plantain
 semiconductors and electronics assembly, business process outsourcing, food and beverage manufacturing, construction, electric/gas/water supply, chemical products, radio/television/communications equipment and apparatus, petroleum and fuel, textile and garments, non-metallic minerals, basic metal industries, transport equipment<br>
 
 **Industrial production growth rate**<br>
-8.49% (2021 est.)<br>
+6.54% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-44.242 million (2021 est.)<br>
+47.872 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.41% (2021 est.)<br>
+2.38% (2022 est.)<br>
+3.4% (2021 est.)<br>
 2.52% (2020 est.)<br>
-2.24% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 7.3% (2021 est.)<br>
@@ -469,23 +475,27 @@ _male_: 6.3%<br>
 _female_: 9%<br>
 
 **Population below poverty line**<br>
-16.7% (2018 est.)<br>
+18.1% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-42.3 (2018 est.)<br>
+40.7 (2021 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 42% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 1.4% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.2%<br>
-_highest 10%_: 29.5% (2015 est.)<br>
+_lowest 10%_: 2.7%<br>
+_highest 10%_: 32.5% (2021 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+2.24% of GDP (2022 est.)<br>
 9.31% of GDP (2021 est.)<br>
 9.64% of GDP (2020 est.)<br>
-9.33% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $71.173 billion (2020 est.)<br>
@@ -497,22 +507,27 @@ _expenditures_: $90.953 billion (2020 est.)<br>
 **Public debt**<br>
 39.9% of GDP (2017 est.)<br>
 39% of GDP (2016 est.)<br>
+43.43% of GDP (2014 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-13.95% (of GDP) (2020 est.)<br>
+14.62% (of GDP) (2022 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$6.009 billion (2021 est.)<br>
+-$18,115,680,000 (2022 est.)<br>
+-$5,942,749,000 (2021 est.)<br>
 $11.578 billion (2020 est.)<br>
--$3.047 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$87.79 billion (2021 est.) note: data are in current year dollars<br>
+$98.853 billion (2022 est.)<br>
+$87.798 billion (2021 est.) note: data are in current year dollars<br>
 $80.034 billion (2020 est.) note: data are in current year dollars<br>
-$94.741 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 16%, United States 14%, Japan 12%, Hong Kong 12%, Singapore 7% (2021)<br>
@@ -521,9 +536,10 @@ China 16%, United States 14%, Japan 12%, Hong Kong 12%, Singapore 7% (2021)<br>
 integrated circuits, office machinery/parts, insulated wiring, transformers, semiconductors (2021)<br>
 
 **Imports**<br>
-$126.508 billion (2021 est.) note: data are in current year dollars<br>
+$152.656 billion (2022 est.)<br>
+$126.565 billion (2021 est.) note: data are in current year dollars<br>
 $99.943 billion (2020 est.) note: data are in current year dollars<br>
-$131.013 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 34%, Japan 7%, South Korea 6%, Indonesia 6%, United States 6% (2021)<br>
@@ -532,9 +548,10 @@ China 34%, Japan 7%, South Korea 6%, Indonesia 6%, United States 6% (2021)<br>
 integrated circuits, refined petroleum, office machinery, broadcasting equipment, cars (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$108.755 billion (31 December 2021 est.)<br>
-$109.99 billion (31 December 2020 est.)<br>
-$89.515 billion (31 December 2019 est.)<br>
+$96.04 billion (2022 est.)<br>
+$108.755 billion (2021 est.)<br>
+$109.99 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $81.995 billion (2019 est.)<br>
@@ -542,11 +559,11 @@ $75.192 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Philippine pesos (PHP) per US dollar -<br>
+54.478 (2022 est.)<br>
 49.255 (2021 est.)<br>
 49.624 (2020 est.)<br>
 51.796 (2019 est.)<br>
 52.661 (2018 est.)<br>
-50.404 (2017 est.)<br>
 
 ## Energy
 

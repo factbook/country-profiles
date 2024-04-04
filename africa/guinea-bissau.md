@@ -371,29 +371,32 @@ _lyrics/music_: Amilcar Lopes CABRAL/XIAO He<br>
 extremely poor West African economy; ethnically diverse labor force; increasing government expenditures; slight inflation due to food supply disruptions; major cashew exporter; systemic banking instabilities and corruption; vulnerable to oil price shocks<br>
 
 **Real GDP (purchasing power parity)**<br>
+$3.906 billion (2022 est.)<br>
 $3.774 billion (2021 est.)<br>
 $3.636 billion (2020 est.)<br>
-$3.725 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+3.5% (2022 est.)<br>
 3.8% (2021 est.)<br>
 -2.4% (2020 est.)<br>
-4.5% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$1,900 (2022 est.)<br>
 $1,800 (2021 est.)<br>
 $1,800 (2020 est.)<br>
-$1,900 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.339 billion (2019 est.)<br>
+$1.634 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+9.39% (2022 est.)<br>
 2.24% (2021 est.)<br>
 1.14% (2020 est.)<br>
-0.25% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 50% (2017 est.)<br>
@@ -416,15 +419,17 @@ agricultural products processing, beer, soft drinks<br>
 
 **Industrial production growth rate**<br>
 -0.7% (2020 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-867,500 (2021 est.)<br>
+705,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.76% (2021 est.)<br>
-6.74% (2020 est.)<br>
-6.04% (2019 est.)<br>
-NA<br>
+3.24% (2022 est.)<br>
+3.81% (2021 est.)<br>
+3.72% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 12.8% (2021 est.)<br>
@@ -432,19 +437,23 @@ _male_: 11.6%<br>
 _female_: 14.2%<br>
 
 **Population below poverty line**<br>
-67% (2015 est.)<br>
+47.7% (2018 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 34.8 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9%<br>
-_highest 10%_: 28% (2002)<br>
+_lowest 10%_: 3.3%<br>
+_highest 10%_: 27.6% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+10.9% of GDP (2022 est.)<br>
+12.58% of GDP (2021 est.)<br>
 12.22% of GDP (2020 est.)<br>
-10.5% of GDP (2019 est.)<br>
-8.51% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $222 million (2019 est.)<br>
@@ -459,19 +468,22 @@ _expenditures_: $278 million (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 9.46% (of GDP) (2019 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
+-$14.128 million (2021 est.)<br>
 -$38.683 million (2020 est.)<br>
 -$127.41 million (2019 est.)<br>
--$54.134 million (2018 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$334.904 million (2021 est.)<br>
 $232.536 million (2020 est.) note: data are in current year dollars<br>
 $291.805 million (2019 est.) note: data are in current year dollars<br>
-$380.428 million (2018 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 India 50%, Belgium 28%, Cote d'Ivoire 8% (2019)<br>
@@ -480,9 +492,10 @@ India 50%, Belgium 28%, Cote d'Ivoire 8% (2019)<br>
 cashews, natural gas, mackerel, fish, scrap vessels (2021)<br>
 
 **Imports**<br>
-$439 million (2020 est.) note: data are in current year dollars<br>
-$502 million (2019 est.) note: data are in current year dollars<br>
-$459 million (2018 est.)<br>
+$518.162 million (2021 est.)<br>
+$439.386 million (2020 est.) note: data are in current year dollars<br>
+$502.204 million (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Portugal 31%, Senegal 20%, China 10%, Netherlands 7%, Pakistan 7% (2019)<br>
@@ -500,11 +513,11 @@ $941.5 million (31 December 2000 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
 555.446 (2018 est.)<br>
-580.657 (2017 est.)<br>
 
 ## Energy
 

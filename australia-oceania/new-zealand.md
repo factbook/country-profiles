@@ -388,29 +388,32 @@ _selected World Heritage Site locales_: Te Wahipounamu – South West New Zealan
 high-income Pacific island economy; strong agriculture, manufacturing, tourism, and energy sectors; reliant on Chinese market for exports; sustained growth; low unemployment; high living standards; sharp growth post COVID-19 lockdown<br>
 
 **Real GDP (purchasing power parity)**<br>
-$219.839 billion (2021 est.)<br>
-$211.966 billion (2020 est.)<br>
-$214.655 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$231.534 billion (2022 est.)<br>
+$225.116 billion (2021 est.)<br>
+$214.054 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.71% (2021 est.)<br>
--1.25% (2020 est.)<br>
-2.19% (2019 est.)<br>
+2.85% (2022 est.)<br>
+5.17% (2021 est.)<br>
+-0.65% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$42,900 (2021 est.)<br>
-$41,600 (2020 est.)<br>
-$43,100 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$45,200 (2022 est.)<br>
+$44,000 (2021 est.)<br>
+$42,100 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$205.202 billion (2019 est.)<br>
+$248.102 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.17% (2022 est.)<br>
 3.94% (2021 est.)<br>
 1.71% (2020 est.)<br>
-1.62% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA (2011)<br>
@@ -438,15 +441,18 @@ milk, beef, kiwi fruit, apples, potatoes, mutton, grapes, wheat, barley, green o
 agriculture, forestry, fishing, logs and wood articles, manufacturing, mining, construction, financial services, real estate services, tourism<br>
 
 **Industrial production growth rate**<br>
--2.09% (2020 est.)<br>
+3.94% (2021 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.911 million (2021 est.)<br>
+2.971 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.12% (2021 est.)<br>
-4.59% (2020 est.)<br>
-4.11% (2019 est.)<br>
+3.3% (2022 est.)<br>
+3.78% (2021 est.)<br>
+4.6% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.4% (2021 est.)<br>
@@ -468,9 +474,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-0.01% of GDP (2021 est.)<br>
-0.07% of GDP (2020 est.)<br>
-0.22% of GDP (2019 est.)<br>
+0.27% of GDP (2022 est.)<br>
+0.26% of GDP (2021 est.)<br>
+0.2% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $76.694 billion (2020 est.)<br>
@@ -480,26 +487,30 @@ _expenditures_: $88.593 billion (2020 est.)<br>
 1.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-46.33% of GDP (2020 est.)<br>
-32.7% of GDP (2019 est.)<br>
-36.61% of GDP (2018 est.)<br>
+54.27% of GDP (2022 est.)<br>
+50.99% of GDP (2021 est.)<br>
+46.15% of GDP (2020 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-27.5% (of GDP) (2020 est.)<br>
+29.77% (of GDP) (2022 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 <strong>note:</strong> this is the fiscal year for tax purposes<br>
 
 **Current account balance**<br>
--$14.827 billion (2021 est.)<br>
--$2.014 billion (2020 est.)<br>
--$5.945 billion (2019 est.)<br>
+-$21,627,319,000 (2022 est.)<br>
+-$14,803,988,000 (2021 est.)<br>
+-$2,400,615,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$54.777 billion (2021 est.) note: data are in current year dollars<br>
-$50.544 billion (2020 est.) note: data are in current year dollars<br>
-$57.875 billion (2019 est.) note: data are in current year dollars<br>
+$57.485 billion (2022 est.)<br>
+$54.923 billion (2021 est.) note: data are in current year dollars<br>
+$50.173 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 33%, Australia 12%, United States 11%, Japan 6%, South Korea 3% (2021)<br>
@@ -508,9 +519,10 @@ China 33%, Australia 12%, United States 11%, Japan 6%, South Korea 3% (2021)<br>
 milk cream powders, lumber, beef, butter, mutton (2021)<br>
 
 **Imports**<br>
-$62.862 billion (2021 est.) note: data are in current year dollars<br>
-$48.104 billion (2020 est.) note: data are in current year dollars<br>
-$57.682 billion (2019 est.) note: data are in current year dollars<br>
+$71.35 billion (2022 est.)<br>
+$62.984 billion (2021 est.) note: data are in current year dollars<br>
+$48.118 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 22%, Australia 15%, United States 7%, Japan 6%, Thailand 5% (2021)<br>
@@ -519,9 +531,10 @@ China 22%, Australia 15%, United States 7%, Japan 6%, Thailand 5% (2021)<br>
 cars, refined petroleum, crude petroleum, delivery trucks, broadcasting equipment, gas turbines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$16.114 billion (31 December 2021 est.)<br>
-$13.733 billion (31 December 2020 est.)<br>
-$17.814 billion (31 December 2019 est.)<br>
+$14.4 billion (2022 est.)<br>
+$16.114 billion (2021 est.)<br>
+$13.733 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $190.621 billion (2019 est.)<br>
@@ -529,11 +542,11 @@ $192.327 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: New Zealand dollars (NZD) per US dollar -<br>
+1.577 (2022 est.)<br>
 1.414 (2021 est.)<br>
 1.542 (2020 est.)<br>
 1.518 (2019 est.)<br>
 1.445 (2018 est.)<br>
-1.407 (2017 est.)<br>
 
 ## Energy
 

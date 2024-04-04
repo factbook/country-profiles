@@ -421,29 +421,32 @@ _selected World Heritage Site locales_: Chartres Cathedral (c); Palace and Park 
 high-income, advanced and diversified EU economy and euro user; strong tourism, aircraft manufacturing, pharmaceuticals, and industrial sectors; strong US partner; ongoing pension reform protests and civil unrest; transitioning to a green economy via "France 2030" strategy<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.048 trillion (2021 est.)<br>
-$2.854 trillion (2020 est.)<br>
-$3.095 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$3.12 trillion (2022 est.)<br>
+$3.045 trillion (2021 est.)<br>
+$2.861 trillion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.82% (2021 est.)<br>
--7.78% (2020 est.)<br>
-1.84% (2019 est.)<br>
+2.45% (2022 est.)<br>
+6.44% (2021 est.)<br>
+-7.54% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$45,000 (2021 est.)<br>
-$42,200 (2020 est.)<br>
-$45,900 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$45,900 (2022 est.)<br>
+$44,900 (2021 est.)<br>
+$42,300 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.716 trillion (2019 est.)<br>
+$2.779 trillion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.22% (2022 est.)<br>
 1.64% (2021 est.)<br>
 0.48% (2020 est.)<br>
-1.11% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA (2014)<br>
@@ -471,16 +474,18 @@ wheat, sugar beets, milk, barley, maize, potatoes, grapes, rapeseed, pork, apple
 machinery, chemicals, automobiles, metallurgy, aircraft, electronics, textiles, food processing, tourism<br>
 
 **Industrial production growth rate**<br>
-6.98% (2021 est.)<br>
+-1.15% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-31.132 million (2021 est.)<br>
+31.617 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.06% (2021 est.)<br>
+7.31% (2022 est.)<br>
+7.86% (2021 est.)<br>
 8.01% (2020 est.)<br>
-8.41% (2019 est.)<br>
-<strong>note:</strong> includes overseas territories<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 20.1% (2021 est.)<br>
@@ -488,23 +493,27 @@ _male_: 19.9%<br>
 _female_: 20.3%<br>
 
 **Population below poverty line**<br>
-13.6% (2018 est.)<br>
+15.6% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-32.4 (2018 est.)<br>
+30.7 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 13.2% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 3.7% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.6%<br>
-_highest 10%_: 25.4% (2013)<br>
+_lowest 10%_: 3.1%<br>
+_highest 10%_: 24.5% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.08% of GDP (2021 est.)<br>
+1.22% of GDP (2022 est.)<br>
+1.11% of GDP (2021 est.)<br>
 1.09% of GDP (2020 est.)<br>
-1.1% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.427 trillion (2019 est.)<br>
@@ -514,26 +523,29 @@ _expenditures_: $1.509 trillion (2019 est.)<br>
 -2.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-123.01% of GDP (2020 est.)<br>
-104.99% of GDP (2019 est.)<br>
-101.62% of GDP (2018 est.)<br>
-<strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
+116.49% of GDP (2021 est.)<br>
+122.89% of GDP (2020 est.)<br>
+104.96% of GDP (2019 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-24.69% (of GDP) (2020 est.)<br>
+23.96% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$9.947 billion (2021 est.)<br>
--$46.341 billion (2020 est.)<br>
-$13.699 billion (2019 est.)<br>
+-$56,671,700,000 (2022 est.)<br>
+$9.868 billion (2021 est.)<br>
+-$41,381,104,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$920.864 billion (2021 est.) note: data are in current year dollars<br>
-$751.384 billion (2020 est.) note: data are in current year dollars<br>
-$892.016 billion (2019 est.) note: data are in current year dollars<br>
+$1.013 trillion (2022 est.)<br>
+$925.551 billion (2021 est.) note: data are in current year dollars<br>
+$752.31 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Germany 13%, Italy 8%, Belgium 8%, United States 7%, Spain 7% (2021)<br>
@@ -542,9 +554,10 @@ Germany 13%, Italy 8%, Belgium 8%, United States 7%, Spain 7% (2021)<br>
 aircraft, packaged medicines, cars and vehicle parts, wine, beauty products, gas turbines (2021)<br>
 
 **Imports**<br>
-$957.717 billion (2021 est.) note: data are in current year dollars<br>
-$796.353 billion (2020 est.) note: data are in current year dollars<br>
-$916.214 billion (2019 est.) note: data are in current year dollars<br>
+$1.103 trillion (2022 est.)<br>
+$963.999 billion (2021 est.) note: data are in current year dollars<br>
+$799.147 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Germany 17%, Italy 9%, Belgium 9%, Spain 8%, Netherlands 8% (2021)<br>
@@ -553,9 +566,10 @@ Germany 17%, Italy 9%, Belgium 9%, Spain 8%, Netherlands 8% (2021)<br>
 cars and vehicle parts, refined petroleum, natural gas, packaged medicines, crude petroleum (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$244.28 billion (31 December 2021 est.)<br>
-$224.236 billion (31 December 2020 est.)<br>
-$189.006 billion (31 December 2019 est.)<br>
+$242.416 billion (2022 est.)<br>
+$244.28 billion (2021 est.)<br>
+$224.236 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $6.356 trillion (2019 est.)<br>
@@ -563,11 +577,11 @@ $6.058 trillion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
 0.847 (2018 est.)<br>
-0.885 (2017 est.)<br>
 
 ## Energy
 

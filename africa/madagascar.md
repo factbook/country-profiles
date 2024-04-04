@@ -394,29 +394,32 @@ _selected World Heritage Site locales_: Tsingy de Bemaraha Strict Nature Reserve
 low-income East African island economy; natural resource rich; extreme poverty; return of political stability has helped growth; sharp tax revenue drop due to COVID-19; leading vanilla producer; environmentally fragile<br>
 
 **Real GDP (purchasing power parity)**<br>
-$42.322 billion (2021 est.)<br>
+$44.491 billion (2022 est.)<br>
+$42.864 billion (2021 est.)<br>
 $40.537 billion (2020 est.)<br>
-$43.653 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.4% (2021 est.)<br>
+3.8% (2022 est.)<br>
+5.74% (2021 est.)<br>
 -7.14% (2020 est.)<br>
-4.41% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$1,500 (2022 est.)<br>
 $1,500 (2021 est.)<br>
 $1,400 (2020 est.)<br>
-$1,600 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$13.964 billion (2019 est.)<br>
+$15.297 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.16% (2022 est.)<br>
 5.81% (2021 est.)<br>
 4.2% (2020 est.)<br>
-5.61% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 24% (2017 est.)<br>
@@ -438,15 +441,18 @@ rice, sugar cane, cassava, sweet potatoes, milk, vegetables, bananas, mangoes/gu
 meat processing, seafood, soap, beer, leather, sugar, textiles, glassware, cement, automobile assembly plant, paper, petroleum, tourism, mining<br>
 
 **Industrial production growth rate**<br>
--21.56% (2020 est.)<br>
+-1.2% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-14.813 million (2021 est.)<br>
+15.363 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.59% (2021 est.)<br>
-2.47% (2020 est.)<br>
-1.86% (2019 est.)<br>
+1.9% (2022 est.)<br>
+2.25% (2021 est.)<br>
+2.21% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 4.8% (2021 est.)<br>
@@ -464,9 +470,10 @@ _lowest 10%_: 2.2%<br>
 _highest 10%_: 34.7% (2010 est.)<br>
 
 **Remittances**<br>
+2.88% of GDP (2022 est.)<br>
+3.02% of GDP (2021 est.)<br>
 3.8% of GDP (2020 est.)<br>
-2.89% of GDP (2019 est.)<br>
-3.09% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.51 billion (2020 est.)<br>
@@ -480,20 +487,23 @@ _expenditures_: $2.09 billion (2020 est.)<br>
 38.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-9.52% (of GDP) (2020 est.)<br>
+10.24% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$732.252 million (2021 est.)<br>
--$623.149 million (2020 est.)<br>
--$302.357 million (2019 est.)<br>
+-$829.376 million (2022 est.)<br>
+-$721.953 million (2021 est.)<br>
+-$623.653 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$3.341 billion (2021 est.) note: data are in current year dollars<br>
+$4.689 billion (2022 est.)<br>
+$3.362 billion (2021 est.) note: data are in current year dollars<br>
 $2.589 billion (2020 est.) note: data are in current year dollars<br>
-$4.082 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 19%, France 18%, United Arab Emirates 7%, China 6%, Japan 6%, Germany 5%, India 5% (2019)<br>
@@ -502,9 +512,10 @@ United States 19%, France 18%, United Arab Emirates 7%, China 6%, Japan 6%, Germ
 vanilla, nickel, clothing and apparel, titanium, gold, cloves (2021)<br>
 
 **Imports**<br>
-$4.768 billion (2021 est.) note: data are in current year dollars<br>
+$6.041 billion (2022 est.)<br>
+$4.769 billion (2021 est.) note: data are in current year dollars<br>
 $3.718 billion (2020 est.) note: data are in current year dollars<br>
-$4.685 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 24%, France 11%, United Arab Emirates 9%, India 7%, South Africa 5% (2019)<br>
@@ -513,9 +524,10 @@ China 24%, France 11%, United Arab Emirates 9%, India 7%, South Africa 5% (2019)
 refined petroleum, rice, cars, packaged medicines, clothing and apparel (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.335 billion (31 December 2021 est.)<br>
-$1.981 billion (31 December 2020 est.)<br>
-$1.693 billion (31 December 2019 est.)<br>
+$2.16 billion (2022 est.)<br>
+$2.335 billion (2021 est.)<br>
+$1.981 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $3.085 billion (2019 est.)<br>
@@ -523,11 +535,11 @@ $4.107 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Malagasy ariary (MGA) per US dollar -<br>
+4,096.116 (2022 est.)<br>
 3,829.978 (2021 est.)<br>
 3,787.754 (2020 est.)<br>
 3,618.322 (2019 est.)<br>
 3,334.752 (2018 est.)<br>
-3,116.11 (2017 est.)<br>
 
 ## Energy
 
@@ -604,7 +616,7 @@ _total subscriptions_: 16,279,633 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 56 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: telecom services in Madagascar have benefited from intensifying competition between the main operators; there have been positive developments with the country&rsquo;s link to international submarine cables, particularly the METISS cable connecting to South Africa and Mauritius; in addition, the country&rsquo;s connection to the Africa-1 cable, expected in late 2023, will provide it with links to Kenya, Djibouti, countries in north and south Africa, as well Pakistan, the UAE, Saudi Arabia, and France; a national fiber backbone has been implemented connecting the major cities; in addition, the government has progressed with its five-year plan to develop a digital platform running to 2024; various schemes within the program have been managed by a unit within the President&rsquo;s office; penetration rates in all market sectors remain below the average for the African region, and so there remains considerable growth potential; much progress was made in 2020, stimulated by the particular conditions related to the pandemic, which encouraged greater use of voice and data services (2022)<br>
+_general assessment_: internet service is fast compared to other African countries, and telecom services in Madagascar have benefited from intensifying competition between the main operators; there have been positive developments with the country&rsquo;s link to international submarine cables, particularly the METISS cable connecting to South Africa and Mauritius; in addition, the country&rsquo;s connection to the Africa-1 cable, which arrived in 2023, provides links to Kenya, Djibouti, countries in north and south Africa, as well as Pakistan, the UAE, Saudi Arabia, and France; a national fiber backbone has been implemented connecting the major cities, however much of the fiber in country has been installed by Huawei, which also manages data centers for the government; in addition, the government has progressed with its five-year plan to develop a digital platform running to 2024; various schemes within the program have been managed by a unit within the President&rsquo;s office; penetration rates in all market sectors remain below the average for the African region, and so there remains considerable growth potential; much progress was made in 2020, stimulated by the particular conditions related to the pandemic, which encouraged greater use of voice and data services (2022)<br>
 _domestic_: less than 1 per 100 for fixed-line and mobile-cellular teledensity about 56 per 100 persons (2021)<br>
 _international_: country code - 261; landing points for the EASSy, METISS, and LION fiber-optic submarine cable systems connecting to numerous Indian Ocean Islands, South Africa, and Eastern African countries; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Intersputnik - Atlantic Ocean region) (2019)<br>
 

@@ -5,7 +5,7 @@ _Australia-Oceania / Dependencies (France)_
 ## Introduction
 
 **Background**<br>
-The first humans settled in New Caledonia around 1600 B.C. The Lapita were skilled navigators and evidence of their pottery around the Pacific has served as a guide for understanding human expansion in the region. Successive waves of migrants from other islands in Melanesia intermarried with the Lapita, giving rise to the Kanak ethnic group considered indigenous to New Caledonia. British explorer James COOK was the first European to visit New Caledonia in 1774, giving it the Latin name for Scotland. Missionaries first landed in New Caledonia in 1840. In 1853, France annexed New Caledonia to preclude any British attempt to claim the island. France declared it a penal colony in 1864 and sent more than 20,000 prisoners to New Caledonia in the ensuing three decades.<br><br>Nickel was discovered in 1864 and French prisoners were directed to mine it. France brought in indentured servants and enslaved labor from elsewhere in Southeast Asia to work the mines, blocking Kanaks from accessing the most profitable part of the local economy. In 1878, High Chief ATAI led a rebellion against French rule. The Kanaks were relegated to reservations, leading to periodic smaller uprisings and culminating in a large revolt in 1917 that was brutally suppressed by colonial authorities. During World War II, New Caledonia became an important base for Allied troops, and the US moved its South Pacific headquarters to the island in 1942. Following the war, France made New Caledonia an overseas territory and granted French citizenship to all inhabitants in 1953, thereby permitting the Kanaks to move off the reservations.<br><br>The Kanak nationalist movement began in the 1950s, but most voters chose to remain a territory in an independence referendum in 1958. The European population of New Caledonia boomed in the 1970s with a renewed focus on nickel mining, reigniting Kanak nationalism. Key Kanak leaders were assassinated in the early 1980s, leading to escalating violence and dozens of fatalities. The Matignon Accords of 1988 provided for a 10-year transition period. The Noumea Accord of 1998 transferred increasing governing responsibility from France to New Caledonia over a 20-year period and provided for three independence referenda. In the first held in 2018, voters rejected independence by 57% to 43%; in the second held in 2020, voters rejected independence 53% to 47%. In the third referendum held in December 2021, voters rejected independence 96% to 4%; however, a boycott by key Kanak groups spurred challenges about the legitimacy of the vote. In February 2021, pro-independence parties gained a majority in the New Caledonian Government for the first time. France and New Caledonia officials remain in talks about the status of the country.<br>
+The first humans settled in New Caledonia around 1600 B.C. The Lapita were skilled navigators and evidence of their pottery around the Pacific has served as a guide for understanding human expansion in the region. Successive waves of migrants from other islands in Melanesia intermarried with the Lapita, giving rise to the Kanak ethnic group considered indigenous to New Caledonia. British explorer James COOK was the first European to visit New Caledonia in 1774, giving it the Latin name for Scotland. Missionaries first landed in New Caledonia in 1840. In 1853, France annexed New Caledonia to preclude any British attempt to claim the island. France declared it a penal colony in 1864 and sent more than 20,000 prisoners to New Caledonia in the ensuing three decades.<br><br>Nickel was discovered in 1864 and French prisoners were directed to mine it. France brought in indentured servants and enslaved labor from elsewhere in Southeast Asia to work the mines, blocking Kanaks from accessing the most profitable part of the local economy. In 1878, High Chief ATAI led a rebellion against French rule. The Kanaks were relegated to reservations, leading to periodic smaller uprisings and culminating in a large revolt in 1917 that was brutally suppressed by colonial authorities. During World War II, New Caledonia became an important base for Allied troops, and the US moved its South Pacific headquarters to the island in 1942. Following the war, France made New Caledonia an overseas territory and granted French citizenship to all inhabitants in 1953, thereby permitting the Kanaks to move off the reservations.<br><br>The Kanak nationalist movement began in the 1950s, but most voters chose to remain a territory in an independence referendum in 1958. The European population of New Caledonia boomed in the 1970s with a renewed focus on nickel mining, reigniting Kanak nationalism. Key Kanak leaders were assassinated in the early 1980s, leading to escalating violence and dozens of fatalities. The Matignon Accords of 1988 provided for a 10-year transition period. The Noumea Accord of 1998 transferred increasing governing responsibility from France to New Caledonia over a 20-year period and provided for three independence referenda. In the first held in 2018, voters rejected independence by 57% to 43%; in the second held in 2020, voters rejected independence 53% to 47%. In the third referendum held in December 2021, voters rejected independence 96% to 4%; however, a boycott by key Kanak groups spurred challenges about the legitimacy of the vote. In February 2021, pro-independence parties gained a majority in the New Caledonian Government for the first time. France and New Caledonia officials remain in talks about the status of the territory.<br>
 
 ## Geography
 
@@ -260,7 +260,7 @@ see France<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by High Commissioner Patrice FAURE (since 6 June 2021)<br>
+_chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by High Commissioner Louise LEFRANC (since 6 February 2023)<br>
 _head of government_: President of the Government Louis MAPOU (since 22 July 2021); Vice President Isabelle CHAMPMOREAU (since 22 July 2021)<br>
 _cabinet_: Cabinet elected from and by the Territorial Congress<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; president of New Caledonia elected by Territorial Congress for a 5-year term (no term limits); election last held on 8 July 2021 (next to be held in 2026)<br>
@@ -280,7 +280,7 @@ _subordinate courts_: Courts of First Instance include: civil, juvenile, commerc
 Caledonia Together or CE [Philippe GOMES]<br>Caledonian Union or UC [Daniel GOA]<br>Future With Confidence or AEC [Virginie RUFFENACH]<br>Kanak Socialist Front for National Liberation or FLNKS (alliance includes PALIKA, UNI, UC, and UPM) [Victor TUTUGORO]<br>Labor Party or PT [Louis Kotra UREGEI]<br>National Union for Independence or UNI [Louis MAPOU]<br>Oceanian Awakening [Milakulo TUKUMULI]<br>Party of Kanak Liberation or PALIKA [Paul NEAOUTYINE]<br>Socialist Kanak Liberation or LKS [Basile CITRE]<br>The Republicans (formerly The Rally or UMP) [Sonia BACKES]<br>
 
 **International organization participation**<br>
-ITUC (NGOs), PIF (associate member), SPC, UPU, WFTU (NGOs), WMO<br>
+ITUC (NGOs), PIF, SPC, UPU, WFTU (NGOs), WMO<br>
 
 **Diplomatic representation in the US**<br>
 none (overseas territory of France)<br>
@@ -315,9 +315,10 @@ $10.89 billion (2016 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
-2% (2017 est.)<br>
-1.1% (2016 est.)<br>
-3.2% (2015 est.)<br>
+3.5% (2022 est.)<br>
+-2.1% (2021 est.)<br>
+-2.4% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $35,700 (2021 est.)<br>
@@ -325,11 +326,14 @@ $31,100 (2015 est.)<br>
 $32,100 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$9.77 billion (2017 est.)<br>
+$9.623 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1.4% (2017 est.)<br>
-0.6% (2016 est.)<br>
+0.58% (2016 est.)<br>
+0.57% (2015 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.4% (2017 est.)<br>
@@ -351,15 +355,18 @@ coconuts, vegetables, maize, fruit, beef, pork, potatoes, bananas, eggs, yams<br
 nickel mining and smelting<br>
 
 **Industrial production growth rate**<br>
-3.5% (2017 est.)<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-132,200 (2021 est.)<br>
+119,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-16.57% (2021 est.)<br>
-16.43% (2020 est.)<br>
-14.91% (2019 est.)<br>
+11.03% (2022 est.)<br>
+12.55% (2021 est.)<br>
+13.56% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 41% (2021 est.)<br>
@@ -374,9 +381,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-6.58% of GDP (2020 est.)<br>
-6.58% of GDP (2019 est.)<br>
-6.31% of GDP (2018 est.)<br>
+6.45% of GDP (2022 est.)<br>
+6.17% of GDP (2021 est.)<br>
+6.57% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.995 billion (2015 est.)<br>
@@ -397,12 +405,15 @@ calendar year<br>
 
 **Current account balance**<br>
 -$654.237 million (2016 est.)<br>
--$1.861 billion (2013 est.)<br>
+-$1.119 billion (2015 est.)<br>
+-$1.3 billion (2014 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $1.92 billion (2021 est.)<br>
 $1.8 billion (2020 est.)<br>
 $1.79 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 55%, South Korea 16%, Japan 11%, Taiwan 4%, Spain 3% (2021)<br>
@@ -414,6 +425,7 @@ iron alloys, nickel, essential oils, recreational boats, shrimp (2021)<br>
 $2.26 billion (2021 est.)<br>
 $2.1 billion (2020 est.)<br>
 $2.48 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 France 39%, Australia 14%, Singapore 11%, New Zealand 7%, China 7% (2021)<br>
@@ -427,11 +439,11 @@ $79 million (31 December 1998 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
+113.474 (2022 est.)<br>
 100.88 (2021 est.)<br>
 104.711 (2020 est.)<br>
 106.589 (2019 est.)<br>
 101.047 (2018 est.)<br>
-105.633 (2017 est.)<br>
 
 ## Energy
 
@@ -505,7 +517,7 @@ _total subscriptions_: 260,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 90 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: New Caledonia&rsquo;s telecom sector provides fixed and mobile voice services, mobile internet, fixed broadband access, and wholesale services for other ISPs; the country is well serviced by extensive 3G and LTE networks, and is considered to have one of the highest smartphone adoption rates in the Pacific region; by 2025, smart phone penetration is expected to reach 71%; while DSL is still the dominant fixed broadband technology, and a nationwide FttP network; the South Pacific region has become a hub for submarine cable system developments in recent years, with further networks scheduled to come online later in 2021 and into 2022; these new cables are expected to increase competition in the region with regards to international capacity; in 2020, the government owned telco commissioned Alcatel Submarine Networks (ASN) to build the Gondwana-2 cable system to provide additional network capacity and complement the Gondwana-1 cable (2022)<br>
+_general assessment_: New Caledonia&rsquo;s telecom sector provides fixed and mobile voice services, mobile internet, fixed broadband access, and wholesale services for other ISPs; the territory is well serviced by extensive 3G and LTE networks, and is considered to have one of the highest smartphone adoption rates in the Pacific region; by 2025, smart phone penetration is expected to reach 71%; while DSL is still the dominant fixed broadband technology, and a nationwide FttP network; the South Pacific region has become a hub for submarine cable system developments in recent years, with further networks scheduled to come online later in 2021 and into 2022; these new cables are expected to increase competition in the region with regards to international capacity; in 2020, the government owned telco commissioned Alcatel Submarine Networks (ASN) to build the Gondwana-2 cable system to provide additional network capacity and complement the Gondwana-1 cable (2022)<br>
 _domestic_: fixed-line is 16 per 100 and mobile-cellular telephone subscribership 90 per 100 persons (2021)<br>
 _international_: country code - 687; landing points for the Gondwana-1 and Picot-1 providing connectivity via submarine cables&nbsp;around New&nbsp;Caledonia and&nbsp;to Australia; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 

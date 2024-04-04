@@ -362,28 +362,32 @@ _lyrics/music_: Said Hachim SIDI ABDEREMANE/Said Hachim SIDI ABDEREMANE and Kami
 small trade-based island economy; declining remittances; new structural and fiscal reforms; adverse cyclone and COVID-19 impacts; manageable debts; fragile liquidity environment; large foreign direct investment; state-owned enterprises suffering<br>
 
 **Real GDP (purchasing power parity)**<br>
+$2.716 billion (2022 est.)<br>
 $2.653 billion (2021 est.)<br>
 $2.598 billion (2020 est.)<br>
-$2.603 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+2.39% (2022 est.)<br>
 2.11% (2021 est.)<br>
 -0.2% (2020 est.)<br>
-1.76% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$3,200 (2022 est.)<br>
 $3,200 (2021 est.)<br>
 $3,200 (2020 est.)<br>
-$3,300 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.186 billion (2019 est.)<br>
+$1.243 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1% (2017 est.)<br>
 1.8% (2016 est.)<br>
+-4.29% (2013 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 47.7% (2017 est.)<br>
@@ -405,15 +409,18 @@ coconuts, cassava, rice, bananas, pulses nes, milk, taro, sweet potatoes, maize,
 fishing, tourism, perfume distillation<br>
 
 **Industrial production growth rate**<br>
--0.25% (2021 est.)<br>
+0.83% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-219,900 (2021 est.)<br>
+229,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.45% (2021 est.)<br>
-9.22% (2020 est.)<br>
-8.08% (2019 est.)<br>
+5.75% (2022 est.)<br>
+5.86% (2021 est.)<br>
+5.78% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 21.7% (2021 est.)<br>
@@ -422,18 +429,22 @@ _female_: 21.5%<br>
 
 **Population below poverty line**<br>
 42.4% (2013 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 45.3 (2014 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 0.9%<br>
-_highest 10%_: 55.2% (2004)<br>
+_lowest 10%_: 1.6%<br>
+_highest 10%_: 33.7% (2014 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-18.56% of GDP (2020 est.)<br>
-14.1% of GDP (2019 est.)<br>
-14.52% of GDP (2018 est.)<br>
+20.93% of GDP (2022 est.)<br>
+22.22% of GDP (2021 est.)<br>
+18.5% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $223 million (2018 est.)<br>
@@ -453,15 +464,16 @@ _expenditures_: $228 million (2018 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
-$6.145 million (2021 est.)<br>
+-$6.614 million (2022 est.)<br>
+-$4.076 million (2021 est.)<br>
 -$22.048 million (2020 est.)<br>
--$39.814 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$139.575 million (2021 est.)<br>
+$165.347 million (2022 est.)<br>
+$128.331 million (2021 est.)<br>
 $68.937 million (2020 est.)<br>
-$142.21 million (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 France 32%, India 23%, Germany 10%, Turkey 9%, Madagascar 7% (2019)<br>
@@ -470,9 +482,10 @@ France 32%, India 23%, Germany 10%, Turkey 9%, Madagascar 7% (2019)<br>
 cloves, tug boats, essential oils, scrap vessels, vanilla (2021)<br>
 
 **Imports**<br>
-$407 million (2021 est.) note: data are in current year dollars<br>
-$344 million (2020 est.) note: data are in current year dollars<br>
-$353 million (2019 est.)<br>
+$479.94 million (2022 est.)<br>
+$415.965 million (2021 est.) note: data are in current year dollars<br>
+$343.608 million (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 22%, United Arab Emirates 16%, France 11%, Pakistan 9%, India 6% (2019)<br>
@@ -481,9 +494,10 @@ China 22%, United Arab Emirates 16%, France 11%, Pakistan 9%, India 6% (2019)<br
 rice, chicken products, refined petroleum, cement, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$329,671,800 (31 December 2021 est.)<br>
-$294,339,900 (31 December 2020 est.)<br>
-$202,031,700 (31 December 2019 est.)<br>
+$283.746 million (2022 est.)<br>
+$329.672 million (2021 est.)<br>
+$294.34 million (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $199.8 million (31 December 2017 est.)<br>
@@ -491,11 +505,11 @@ $132 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Comoran francs (KMF) per US dollar -<br>
+467.184 (2022 est.)<br>
 415.956 (2021 est.)<br>
 430.721 (2020 est.)<br>
 439.463 (2019 est.)<br>
 416.585 (2018 est.)<br>
-435.493 (2017 est.)<br>
 
 ## Energy
 
@@ -603,8 +617,8 @@ D6<br>
 3 (2024)<br>
 
 **Roadways**<br>
-_total_: 849 km (2019)<br>
-_paved_: 673 km (2019)<br>
+_total_: 849 km<br>
+_paved_: 673 km<br>
 _unpaved_: 207 km (2019)<br>
 
 **Merchant marine**<br>

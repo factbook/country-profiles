@@ -89,7 +89,7 @@ Spanish (official), Nawat (among some Indigenous)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 50%, Protestant 36%, other 2%, none 12% (2014 est.)<br>
+Roman Catholic 43.9%, Protestant 39.6% (Evangelical - unspecified 38.2%, Evangelical - Methodist 1.3%, Evangelical - Baptist 0.1%), none 16.3%, unspecified 0.2% (2023 est.)<br>
 
 **Demographic profile**<br>
 <p>El Salvador is the smallest and most densely populated country in Central America. It is well into its demographic transition, experiencing slower population growth, a decline in its number of youths, and the gradual aging of its population. The increased use of family planning has substantially lowered El Salvador's fertility rate, from approximately 6 children per woman in the 1970s to replacement level today. A 2008 national family planning survey showed that female sterilization remained the most common contraception method in El Salvador - its sterilization rate is among the highest in Latin America and the Caribbean - but that the use of injectable contraceptives is growing. Fertility differences between rich and poor and urban and rural women are narrowing.</p><p>Salvadorans fled during the 1979 to 1992 civil war mainly to the United States but also to Canada and to neighboring Mexico, Guatemala, Honduras, Nicaragua, and Costa Rica. Emigration to the United States increased again in the 1990s and 2000s as a result of deteriorating economic conditions, natural disasters (Hurricane Mitch in 1998 and earthquakes in 2001), and family reunification. At least 20% of El Salvador's population lives abroad. The remittances they send home account for close to 20% of GDP, are the second largest source of external income after exports, and have helped reduce poverty.</p><br>
@@ -387,29 +387,32 @@ _selected World Heritage Site locales_: Joya de Cer&eacute;n Archaeological Site
 growth-challenged Central American economy buttressed via remittances; dense labor force; fairly aggressive COVID-19 stimulus plan; new and lower banking reserve requirements; earthquake, tropical storm, and crime disruptions; widespread corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
-$57.371 billion (2021 est.)<br>
-$52.024 billion (2020 est.)<br>
-$56.657 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$59.537 billion (2022 est.)<br>
+$58.028 billion (2021 est.)<br>
+$52.195 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-10.28% (2021 est.)<br>
--8.18% (2020 est.)<br>
-2.44% (2019 est.)<br>
+2.6% (2022 est.)<br>
+11.18% (2021 est.)<br>
+-7.82% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$9,100 (2021 est.)<br>
+$9,400 (2022 est.)<br>
+$9,200 (2021 est.)<br>
 $8,300 (2020 est.)<br>
-$9,000 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$27.023 billion (2019 est.)<br>
+$32.489 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.2% (2022 est.)<br>
 3.47% (2021 est.)<br>
 -0.37% (2020 est.)<br>
-0.08% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B- (2017)<br>
@@ -437,16 +440,18 @@ sugar cane, maize, milk, poultry, sorghum, beans, coconuts, eggs, apples, orange
 food processing, beverages, petroleum, chemicals, fertilizer, textiles, furniture, light metals<br>
 
 **Industrial production growth rate**<br>
-9.47% (2021 est.)<br>
+2.82% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.658 million (2021 est.)<br>
+2.835 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.94% (2021 est.)<br>
-6.25% (2020 est.)<br>
-4.17% (2019 est.)<br>
-<strong>note:</strong> data are official rates; but underemployment is high<br>
+3% (2022 est.)<br>
+4.33% (2021 est.)<br>
+5.01% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 13.7% (2021 est.)<br>
@@ -454,23 +459,27 @@ _male_: 11.3%<br>
 _female_: 18.3%<br>
 
 **Population below poverty line**<br>
-22.8% (2019 est.)<br>
+26.6% (2022 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-38.8 (2019 est.)<br>
+38.8 (2022 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 26.5% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 0.5% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.2%<br>
-_highest 10%_: 32.3% (2014 est.)<br>
+_lowest 10%_: 1.9%<br>
+_highest 10%_: 28.7% (2022 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-26.06% of GDP (2021 est.)<br>
-24.15% of GDP (2020 est.)<br>
-21.04% of GDP (2019 est.)<br>
+23.68% of GDP (2022 est.)<br>
+25.38% of GDP (2021 est.)<br>
+23.79% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $6.448 billion (2019 est.)<br>
@@ -480,26 +489,29 @@ _expenditures_: $7.273 billion (2019 est.)<br>
 -2.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-71.41% of GDP (2020 est.)<br>
+65.55% of GDP (2021 est.)<br>
+70.36% of GDP (2020 est.)<br>
 53.88% of GDP (2019 est.)<br>
-52.21% of GDP (2018 est.)<br>
-<strong>note:</strong> El Salvador's total public debt includes non-financial public sector debt, financial public sector debt, and central bank debt<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-18.66% (of GDP) (2020 est.)<br>
+19.42% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.457 billion (2021 est.)<br>
-$202.947 million (2020 est.)<br>
--$113.356 million (2019 est.)<br>
+-$2.146 billion (2022 est.)<br>
+-$1.272 billion (2021 est.)<br>
+$403.054 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$8.491 billion (2021 est.) note: data are in current year dollars<br>
-$6.295 billion (2020 est.) note: data are in current year dollars<br>
-$8.057 billion (2019 est.) note: data are in current year dollars<br>
+$10.129 billion (2022 est.)<br>
+$8.33 billion (2021 est.) note: data are in current year dollars<br>
+$6.073 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 40%, Guatemala 15%, Honduras 15%, Nicaragua 6% (2019)<br>
@@ -508,9 +520,10 @@ United States 40%, Guatemala 15%, Honduras 15%, Nicaragua 6% (2019)<br>
 clothing, electrical capacitors, plastic lids, sugar, packaged medicines, toilet paper (2021)<br>
 
 **Imports**<br>
-$15.754 billion (2021 est.) note: data are in current year dollars<br>
-$10.764 billion (2020 est.) note: data are in current year dollars<br>
-$12.469 billion (2019 est.) note: data are in current year dollars<br>
+$18.07 billion (2022 est.)<br>
+$15.459 billion (2021 est.) note: data are in current year dollars<br>
+$10.398 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 30%, China 14%, Guatemala 13%, Mexico 8%, Honduras 6% (2019)<br>
@@ -519,21 +532,17 @@ United States 30%, China 14%, Guatemala 13%, Mexico 8%, Honduras 6% (2019)<br>
 refined petroleum, packaged medicines, clothing, broadcasting equipment, natural gas (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.426 billion (31 December 2021 est.)<br>
-$3.083 billion (31 December 2020 est.)<br>
-$4.446 billion (31 December 2019 est.)<br>
+$3.426 billion (2021 est.)<br>
+$3.083 billion (2020 est.)<br>
+$4.446 billion (2019 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $17.24 billion (2019 est.)<br>
 $16.712 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-_Currency_: <strong>note:</strong> the US dollar is used as a medium of exchange and circulates freely in the economy<br>
-1 (2021 est.)<br>
-1 (2020 est.)<br>
-1 (2019 est.)<br>
-1 (2018 est.)<br>
-1 (2017 est.)<br>
+the US dollar is used as a medium of exchange and circulates freely in the economy<br>
 
 ## Energy
 
@@ -647,8 +656,8 @@ _total_: 12.5 km (2014)<br>
 _narrow gauge_: 12.5 km (2014) 0.914-mm gauge<br>
 
 **Roadways**<br>
-_total_: 9,012 km (2017)<br>
-_paved_: 5,341 km (2017)<br>
+_total_: 9,012 km<br>
+_paved_: 5,341 km<br>
 _unpaved_: 3,671 km (2017)<br>
 
 **Waterways**<br>

@@ -377,28 +377,32 @@ _lyrics/music_: Ahmad MUSHARI al-Adwani/Ibrahim Nasir al-SOULA<br>
 small, high-income, oil-based Middle East economy; renewable energy proponent; regional finance and investment leader; maintains oldest sovereign wealth fund; emerging space and tourism industries; mid-way through 25-year development program<br>
 
 **Real GDP (purchasing power parity)**<br>
+$210.884 billion (2022 est.)<br>
+$193.719 billion (2021 est.)<br>
 $191.522 billion (2020 est.)<br>
-$210.13 billion (2019 est.)<br>
-$211.296 billion (2018 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+8.86% (2022 est.)<br>
+1.15% (2021 est.)<br>
 -8.86% (2020 est.)<br>
--0.55% (2019 est.)<br>
-2.43% (2018 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$43,900 (2020 est.) note: data are in 2017 dollars<br>
-$47,300 (2019 est.) note: data are in 2017 dollars<br>
-$48,900 (2018 est.)<br>
+$49,400 (2022 est.)<br>
+$45,600 (2021 est.)<br>
+$43,900 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$134.638 billion (2019 est.)<br>
+$175.363 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.98% (2022 est.)<br>
 3.42% (2021 est.)<br>
 2.1% (2020 est.)<br>
-1.09% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA (2008)<br>
@@ -427,15 +431,17 @@ petroleum, petrochemicals, cement, shipbuilding and repair, water desalination, 
 
 **Industrial production growth rate**<br>
 -12.2% (2020 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.363 million (2021 est.)<br>
-<strong>note:</strong> non-Kuwaitis represent about 60% of the labor force<br>
+2.422 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.71% (2021 est.)<br>
-3.54% (2020 est.)<br>
-2.17% (2019 est.)<br>
+2.2% (2022 est.)<br>
+2.94% (2021 est.)<br>
+3.45% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 25.5% (2021 est.)<br>
@@ -454,9 +460,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
+0.01% of GDP (2022 est.)<br>
+0.59% of GDP (2021 est.)<br>
 0.02% of GDP (2020 est.)<br>
-0.02% of GDP (2019 est.)<br>
-0.02% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $77.988 billion (2019 est.)<br>
@@ -476,14 +483,16 @@ _expenditures_: $72.03 billion (2019 est.)<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
+$63.078 billion (2022 est.)<br>
 $34.943 billion (2021 est.)<br>
 $22.03 billion (2020 est.)<br>
-$30.255 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$110.923 billion (2022 est.)<br>
 $77.121 billion (2021 est.) note: data are in current year dollars<br>
 $47.416 billion (2020 est.) note: data are in current year dollars<br>
-$72.833 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 20%, South Korea 16%, India 15%, Japan 10%, Taiwan 6%, Vietnam 5% (2019)<br>
@@ -492,9 +501,10 @@ China 20%, South Korea 16%, India 15%, Japan 10%, Taiwan 6%, Vietnam 5% (2019)<b
 crude petroleum, refined petroleum, natural gas, industrial hydrocarbon products, industrial alcohols (2021)<br>
 
 **Imports**<br>
+$55.909 billion (2022 est.)<br>
 $48.954 billion (2021 est.) note: data are in current year dollars<br>
 $44.015 billion (2020 est.) note: data are in current year dollars<br>
-$59.654 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 14%, United Arab Emirates 12%, United States 10%, Saudi Arabia 6%, Japan 6%, Germany 5%, India 5% (2019)<br>
@@ -503,9 +513,10 @@ China 14%, United Arab Emirates 12%, United States 10%, Saudi Arabia 6%, Japan 6
 cars, broadcasting equipment, natural gas, packaged medicines, jewelry (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$49.525 billion (31 December 2021 est.)<br>
-$52.919 billion (31 December 2020 est.)<br>
-$43.668 billion (31 December 2019 est.)<br>
+$52.462 billion (2022 est.)<br>
+$49.525 billion (2021 est.)<br>
+$52.919 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $47.24 billion (31 December 2017 est.)<br>
@@ -513,11 +524,11 @@ $38.34 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Kuwaiti dinars (KD) per US dollar -<br>
+0.306 (2022 est.)<br>
 0.302 (2021 est.)<br>
 0.306 (2020 est.)<br>
 0.304 (2019 est.)<br>
 0.302 (2018 est.)<br>
-0.303 (2017 est.)<br>
 
 ## Energy
 

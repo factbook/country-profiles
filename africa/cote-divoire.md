@@ -88,7 +88,7 @@ _noun_: Ivoirian(s)<br>
 _adjective_: Ivoirian<br>
 
 **Ethnic groups**<br>
-Akan 28.9%, Voltaique or Gur 16.1%, Northern Mande 14.5%, Kru 8.5%, Southern Mande 6.9%, unspecified 0.9%, non-Ivoirian 24.2% (2014 est.)<br>
+Akan 38%, Voltaique or Gur 22%, Northern Mande 22%, Kru 9.1%, Southern Mande 8.6%, other 0.3% (2021 est.)<br>
 
 **Languages**<br>
 French (official), 60 native dialects of which Dioula is the most widely spoken<br>
@@ -406,29 +406,32 @@ _selected World Heritage Site locales_: Como&eacute; National Park (n); Historic
 one of West Africa&rsquo;s most influential, stable, and rapidly developing economies; poverty declines in urban but increases in rural areas; strong construction sector and increasingly diverse economic portfolio; increasing but manageable public debt; large labor force in agriculture<br>
 
 **Real GDP (purchasing power parity)**<br>
-$146.323 billion (2021 est.)<br>
-$136.702 billion (2020 est.)<br>
-$134.049 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$155.935 billion (2022 est.)<br>
+$146.087 billion (2021 est.)<br>
+$136.53 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-7.04% (2021 est.)<br>
-1.98% (2020 est.)<br>
-6.23% (2019 est.)<br>
+6.74% (2022 est.)<br>
+7% (2021 est.)<br>
+1.74% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$5,500 (2022 est.)<br>
 $5,300 (2021 est.)<br>
 $5,100 (2020 est.)<br>
-$5,100 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$42.498 billion (2018 est.)<br>
+$70.019 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.28% (2022 est.)<br>
 4.09% (2021 est.)<br>
 2.43% (2020 est.)<br>
--1.11% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2015)<br>
@@ -455,15 +458,18 @@ yams, cassava, cocoa, oil palm fruit, sugar cane, rice, plantains, maize, cashew
 foodstuffs, beverages; wood products, oil refining, gold mining, truck and bus assembly, textiles, fertilizer, building materials, electricity<br>
 
 **Industrial production growth rate**<br>
-6.2% (2021 est.)<br>
+8.09% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.876 million (2021 est.)<br>
+10.609 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.47% (2021 est.)<br>
-3.49% (2020 est.)<br>
-3.32% (2019 est.)<br>
+2.49% (2022 est.)<br>
+2.71% (2021 est.)<br>
+2.64% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 5.7% (2021 est.)<br>
@@ -472,22 +478,26 @@ _female_: 6.8%<br>
 
 **Population below poverty line**<br>
 39.5% (2018 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 37.2 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 39.6% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 3.1% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.2%<br>
-_highest 10%_: 31.8% (2008)<br>
+_lowest 10%_: 2.9%<br>
+_highest 10%_: 29% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.54% of GDP (2020 est.)<br>
-0.56% of GDP (2019 est.)<br>
-0.57% of GDP (2018 est.)<br>
+0.51% of GDP (2022 est.)<br>
+0.61% of GDP (2021 est.)<br>
+0.52% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $8.804 billion (2019 est.)<br>
@@ -501,21 +511,23 @@ _expenditures_: $10.145 billion (2019 est.)<br>
 47% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-12.11% (of GDP) (2020 est.)<br>
+12.56% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
+-$2.874 billion (2021 est.)<br>
 -$1.974 billion (2020 est.)<br>
 -$1.349 billion (2019 est.)<br>
--$2.285 billion (2018 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$16.23 billion (2021 est.)<br>
 $13.232 billion (2020 est.)<br>
 $13.791 billion (2019 est.)<br>
-$13.084 billion (2018 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Netherlands 10%, United States 6%, France 6%, Spain 5%, Malaysia 5%, Switzerland 5%, Germany 5%, Vietnam 5% (2019)<br>
@@ -524,9 +536,10 @@ Netherlands 10%, United States 6%, France 6%, Spain 5%, Malaysia 5%, Switzerland
 cocoa products, rubber, gold, cashews, crude petroleum, bananas (2021)<br>
 
 **Imports**<br>
+$16.191 billion (2021 est.)<br>
 $12.66 billion (2020 est.) note: data are in current year dollars<br>
 $12.881 billion (2019 est.) note: data are in current year dollars<br>
-$13.183 billion (2018 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 18%, Nigeria 13%, France 11% (2019)<br>
@@ -544,11 +557,11 @@ $11.02 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
 555.446 (2018 est.)<br>
-580.657 (2017 est.)<br>
 
 ## Energy
 
@@ -669,8 +682,8 @@ _narrow gauge_: 660 km (2008) 1.000-m gauge<br>
 <strong>note:</strong> an additional 622 km of this railroad extends into Burkina Faso<br>
 
 **Roadways**<br>
-_total_: 81,996 km (2007)<br>
-_paved_: 6,502 km (2007)<br>
+_total_: 81,996 km<br>
+_paved_: 6,502 km<br>
 _unpaved_: 75,494 km (2007)<br>
 <strong>note:</strong> includes intercity and urban roads; another 20,000 km of dirt roads are in poor condition and 150,000 km of dirt roads are impassable<br>
 
@@ -708,7 +721,7 @@ the inventory of the FACI consists mostly of older or second-hand equipment, typ
 18-26 years of age for compulsory and voluntary military service for men and women; conscription is reportedly not enforced (2023)<br>
 
 **Military - note**<br>
-the military (FACI) was established in 1960 from home defense units the French colonial government began standing up in 1950; the FACI has mutinied several times since the late 1990s, most recently in 2017, and has had a large role in the country’s political turmoil; it is responsible for external defense but also has a considerable internal role supporting the National Gendarmerie and other internal security forces; the operational focus of the FACI, as well as the Gendarmerie and other security forces, is the growing threat posed by Islamic militants associated with the al-Qa’ida in the Islamic Maghreb (AQIM) terrorist group operating across the border in Burkina Faso; AQIM militants conducted significant attacks in the country in 2016 and 2020; Côte d’Ivoire since 2016 has stepped up border security and completed building a joint counter-terrorism training center with France near Abidjan in 2020<br><br>the FACI’s Land Forces are assigned to regions, and its combat units are organized into approximately 10 battalions, most of which are infantry or security forces, complemented by artillery, armored, and air defense battalions; the separate special forces branch has a commando/paratrooper battalion; the Air Force has a few operational combat helicopters, while the Navy operates a handful of patrol boats and two offshore patrol vessels acquired since 2022; the National Gendarmerie has seven “legions” deployed throughout the country (Abidjan has two assigned legions) and is organized into mobile and territorial forces; the Mobile Gendarmerie is responsible for maintaining and restoring order and is considered the backbone of the country’s domestic security; the Territorial Gendarmerie is responsible for the administrative, judicial, and military police; the Gendarmerie also has separate specialized units for security, intervention (counterterrorism, hostage rescue, etc), VIP protection, and surveillance<br><br>Cote d’Ivoire has close security ties with France, which maintains a military presence; the UN had a 9,000-strong peacekeeping force in Cote d’Ivoire (UNOCI) from 2004 until 2017 (2023)<br>
+the military (FACI) was established in 1960 from home defense units the French colonial government began standing up in 1950; the FACI has mutinied several times since the late 1990s, most recently in 2017, and has had a large role in the country’s political turmoil; it is responsible for external defense but also has a considerable internal role supporting the National Gendarmerie and other internal security forces; the operational focus of the FACI, as well as the Gendarmerie and other security forces, is the growing threat posed by Islamic militants associated with the al-Qa’ida in the Islamic Maghreb (AQIM) terrorist group operating across the border in Burkina Faso and Mali; AQIM militants conducted significant attacks in the country in 2016 and 2020; Côte d’Ivoire since 2016 has stepped up border security and completed building a joint counter-terrorism training center with France near Abidjan in 2020<br><br>the FACI’s Land Forces are assigned to regions, and its combat units are organized into approximately 10 battalions, most of which are infantry or security forces, complemented by artillery, armored, and air defense battalions; the separate special forces branch has a commando/paratrooper battalion; the Air Force has a few operational combat helicopters, while the Navy operates a handful of patrol boats and two offshore patrol vessels acquired since 2022; the National Gendarmerie has seven “legions” deployed throughout the country (Abidjan has two assigned legions) and is organized into mobile and territorial forces; the Mobile Gendarmerie is responsible for maintaining and restoring order and is considered the backbone of the country’s domestic security; the Territorial Gendarmerie is responsible for the administrative, judicial, and military police; the Gendarmerie also has separate specialized units for security, intervention (counterterrorism, hostage rescue, etc), VIP protection, and surveillance<br><br>Cote d’Ivoire has close security ties with France, which maintains a military presence; the UN had a 9,000-strong peacekeeping force in Cote d’Ivoire (UNOCI) from 2004 until 2017 (2023)<br>
 
 ## Space
 

@@ -358,29 +358,32 @@ _lyrics/music_: Atanasio Ndongo MIYONO/Atanasio Ndongo MIYONO or Ramiro Sanchez 
 growing CEMAC economy and new OPEC member; large oil and gas reserves; targeting economic diversification and poverty reduction; still recovering from CEMAC crisis; improving public financial management; persistent poverty; hard-hit by COVID-19<br>
 
 **Real GDP (purchasing power parity)**<br>
-$23.924 billion (2021 est.)<br>
-$24.152 billion (2020 est.)<br>
-$25.222 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$24.987 billion (2022 est.)<br>
+$24.077 billion (2021 est.)<br>
+$24.013 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--0.95% (2021 est.)<br>
--4.24% (2020 est.)<br>
--5.48% (2019 est.)<br>
+3.78% (2022 est.)<br>
+0.26% (2021 est.)<br>
+-4.79% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$14,600 (2021 est.)<br>
-$15,100 (2020 est.)<br>
-$16,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$14,900 (2022 est.)<br>
+$14,700 (2021 est.)<br>
+$15,000 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$10.634 billion (2019 est.)<br>
+$12.03 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.79% (2022 est.)<br>
+-0.1% (2021 est.)<br>
 4.77% (2020 est.)<br>
-1.24% (2019 est.)<br>
-1.35% (2018 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.5% (2017 est.)<br>
@@ -402,15 +405,18 @@ sweet potatoes, cassava, roots/tubers nes, plantains, oil palm fruit, bananas, c
 petroleum, natural gas, sawmilling<br>
 
 **Industrial production growth rate**<br>
--6.46% (2021 est.)<br>
+3.13% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-549,800 (2021 est.)<br>
+572,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.24% (2021 est.)<br>
-9.9% (2020 est.)<br>
-8.68% (2019 est.)<br>
+8.58% (2022 est.)<br>
+9.19% (2021 est.)<br>
+9.03% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 18.3% (2021 est.)<br>
@@ -441,7 +447,8 @@ _expenditures_: $2.535 billion (2018 est.)<br>
 43.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-7.85% (of GDP) (2020 est.)<br>
+5.44% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -473,9 +480,10 @@ United States 22%, Spain 19%, China 12%, United Kingdom 6%, United Arab Emirates
 gas turbines, beer, ships, industrial machinery, excavation machinery (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$40.817 million (31 December 2019 est.)<br>
-$48.93 million (31 December 2018 est.)<br>
-$45.503 million (31 December 2017 est.)<br>
+$44.271 million (2021 est.)<br>
+$60.833 million (2020 est.)<br>
+$40.817 million (2019 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.211 billion (31 December 2017 est.)<br>
@@ -483,11 +491,11 @@ $1.074 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
 555.446 (2018 est.)<br>
-580.657 (2017 est.)<br>
 
 ## Energy
 

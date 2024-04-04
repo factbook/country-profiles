@@ -350,28 +350,32 @@ _selected World Heritage Site locales_: Rock Islands Southern Lagoon<br>
 high-income Pacific island economy; environmentally fragile; subsistence agriculture and fishing industries; US aid reliance; rebounding post-pandemic tourism industry and services sector; very high living standard and low unemployment<br>
 
 **Real GDP (purchasing power parity)**<br>
-$248.468 million (2021 est.)<br>
-$286.694 million (2020 est.)<br>
-$315.42 million (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$254.367 million (2021 est.)<br>
+$294.823 million (2020 est.)<br>
+$318.898 million (2019 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--13.33% (2021 est.)<br>
--9.11% (2020 est.)<br>
-0.4% (2019 est.)<br>
+-13.72% (2021 est.)<br>
+-7.55% (2020 est.)<br>
+0.2% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$13,800 (2021 est.) note: data are in 2017 dollars<br>
-$16,000 (2020 est.) note: data are in 2017 dollars<br>
-$17,600 (2019 est.)<br>
+$14,100 (2021 est.)<br>
+$16,400 (2020 est.)<br>
+$17,800 (2019 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$292 million (2017 est.)<br>
+$232.903 million (2021 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+12.35% (2022 est.)<br>
 2.61% (2021 est.)<br>
 0.22% (2020 est.)<br>
-0.27% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3% (2016 est.)<br>
@@ -393,7 +397,8 @@ coconuts, cassava (manioc, tapioca), sweet potatoes; fish, pigs, chickens, eggs,
 tourism, fishing, subsistence agriculture<br>
 
 **Industrial production growth rate**<br>
--3.42% (2021 est.) NA<br>
+1.42% (2021 est.) NA<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 11,610 (2016)<br>
@@ -415,9 +420,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-0.86% of GDP (2020 est.)<br>
-0.78% of GDP (2019 est.)<br>
-0.76% of GDP (2018 est.)<br>
+1.09% of GDP (2021 est.)<br>
+1% of GDP (2020 est.)<br>
+0.91% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $122 million (2019 est.)<br>
@@ -427,25 +433,29 @@ _expenditures_: $121 million (2019 est.)<br>
 8.8% (of GDP) (2016 est.)<br>
 
 **Public debt**<br>
-86.13% of GDP (2019 est.)<br>
-84.75% of GDP (2018 est.)<br>
+85.19% of GDP (2019 est.)<br>
+83.68% of GDP (2018 est.)<br>
 79.83% of GDP (2017 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-18.59% (of GDP) (2020 est.)<br>
+18.16% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
 
 **Current account balance**<br>
--$63.534 million (2021 est.)<br>
--$106.379 million (2020 est.)<br>
--$97.48 million (2019 est.)<br>
+-$135.428 million (2022 est.)<br>
+-$115.739 million (2021 est.)<br>
+-$115.61 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$12.07 million (2021 est.)<br>
-$58.349 million (2020 est.)<br>
-$107.823 million (2019 est.)<br>
+$24.48 million (2022 est.)<br>
+$10.566 million (2021 est.)<br>
+$52.897 million (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Japan 34%, Taiwan 16%, Turkey 16%, Italy 12%, United States 9% (2021)<br>
@@ -454,9 +464,10 @@ Japan 34%, Taiwan 16%, Turkey 16%, Italy 12%, United States 9% (2021)<br>
 computers, scrap vessels, recreational boats, scrap iron, fish, scrap copper, scrap aluminum (2021)<br>
 
 **Imports**<br>
-$180.38 million (2021 est.)<br>
-$215.97 million (2020 est.)<br>
-$226.594 million (2019 est.)<br>
+$216.681 million (2022 est.)<br>
+$169.938 million (2021 est.)<br>
+$207.224 million (2020 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 34%, United States 21%, South Korea 12%, Japan 8%, Taiwan 6% (2021)<br>
@@ -465,7 +476,6 @@ China 34%, United States 21%, South Korea 12%, Japan 8%, Taiwan 6% (2021)<br>
 refined petroleum, boat propellers, iron structures, cars, floating docks, broadcasting equipment, prefabricated buildings (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$0 (31 December 2017 est.)<br>
 $580.9 million (31 December 2015 est.)<br>
 
 **Debt - external**<br>
@@ -473,12 +483,7 @@ $18.38 billion (31 December 2014 est.)<br>
 $16.47 billion (31 December 2013 est.)<br>
 
 **Exchange rates**<br>
-1 (2021 est.)<br>
-1 (2020 est.)<br>
-1 (2019 est.)<br>
-1 (2018 est.)<br>
-1 (2017 est.)<br>
-the US dollar is used<br>
+<p>the US dollar is used</p><br>
 
 ## Energy
 

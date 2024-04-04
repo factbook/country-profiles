@@ -396,29 +396,32 @@ _selected World Heritage Site locales_: Natural and Culturo-Historical Region of
 upper middle-income Balkan economy; unsanctioned euro user; controversial religious property ownership law; persistent corruption; major infrastructure investments and high expenditures; growing offshore banking destination<br>
 
 **Real GDP (purchasing power parity)**<br>
-$12.757 billion (2021 est.)<br>
-$11.346 billion (2020 est.)<br>
-$13.397 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$13.646 billion (2022 est.)<br>
+$12.824 billion (2021 est.)<br>
+$11.344 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-12.43% (2021 est.)<br>
+6.41% (2022 est.)<br>
+13.04% (2021 est.)<br>
 -15.31% (2020 est.)<br>
-4.06% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$20,600 (2021 est.)<br>
+$22,100 (2022 est.)<br>
+$20,700 (2021 est.)<br>
 $18,300 (2020 est.)<br>
-$21,500 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$5.486 billion (2019 est.)<br>
+$6.23 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+13.04% (2022 est.)<br>
 2.41% (2021 est.)<br>
 -0.26% (2020 est.)<br>
-0.36% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B1 (2016)<br>
@@ -445,15 +448,18 @@ milk, potatoes, grapes, vegetables, tomatoes, watermelons, wheat, apples, cabbag
 steelmaking, aluminum, agricultural processing, consumer goods, tourism<br>
 
 **Industrial production growth rate**<br>
-1.39% (2021 est.)<br>
+-5.2% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-277,400 (2021 est.)<br>
+284,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-18.49% (2021 est.)<br>
-17.9% (2020 est.)<br>
-15.12% (2019 est.)<br>
+15.25% (2022 est.)<br>
+16.54% (2021 est.)<br>
+17.88% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 31.6% (2021 est.)<br>
@@ -461,23 +467,27 @@ _male_: 28.3%<br>
 _female_: 36.7%<br>
 
 **Population below poverty line**<br>
-24.5% (2018 est.)<br>
+21.2% (2020 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 36.8 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 27.5% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 6.8% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.5%<br>
-_highest 10%_: 25.7% (2014 est.)<br>
+_lowest 10%_: 1.8%<br>
+_highest 10%_: 26% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-13.54% of GDP (2021 est.)<br>
+13.33% of GDP (2022 est.)<br>
+13.52% of GDP (2021 est.)<br>
 12.59% of GDP (2020 est.)<br>
-10.54% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $2.051 billion (2020 est.)<br>
@@ -498,14 +508,16 @@ _expenditures_: $2.568 billion (2020 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$540.073 million (2021 est.)<br>
--$1.237 billion (2020 est.)<br>
--$796.134 million (2019 est.)<br>
+-$817.858 million (2022 est.)<br>
+-$541.201 million (2021 est.)<br>
+-$1,237,027,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$3.178 billion (2022 est.)<br>
 $2.502 billion (2021 est.) note: data are in current year dollars<br>
 $1.247 billion (2020 est.) note: data are in current year dollars<br>
-$2.424 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Serbia 17%, Hungary 15%, China 11%, Russia 7%, Bosnia and Herzegovina 6%, Germany 6%, Italy 5%, Poland 5% (2019)<br>
@@ -514,9 +526,10 @@ Serbia 17%, Hungary 15%, China 11%, Russia 7%, Bosnia and Herzegovina 6%, German
 copper ore, aluminum, electricity, dried legumes, packaged medicines, lead, scrap iron, lumber (2021)<br>
 
 **Imports**<br>
+$4.614 billion (2022 est.)<br>
 $3.637 billion (2021 est.) note: data are in current year dollars<br>
 $2.917 billion (2020 est.) note: data are in current year dollars<br>
-$3.6 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Serbia 30%, Bosnia and Herzegovina 8%, Croatia 8%, Italy 6%, Greece 6%, Germany 5% (2019)<br>
@@ -525,9 +538,10 @@ Serbia 30%, Bosnia and Herzegovina 8%, Croatia 8%, Italy 6%, Greece 6%, Germany 
 refined petroleum, cars, packaged medicines, recreational boats, cigarettes (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.982 billion (31 December 2021 est.)<br>
-$2.135 billion (31 December 2020 est.)<br>
-$1.529 billion (31 December 2019 est.)<br>
+$2.041 billion (2022 est.)<br>
+$1.982 billion (2021 est.)<br>
+$2.135 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2.516 billion (31 December 2017 est.)<br>
@@ -535,11 +549,11 @@ $2.224 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.951 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.877 (2020 est.)<br>
 0.893 (2019 est.)<br>
 0.847 (2018 est.)<br>
-0.885 (2017 est.)<br>
 <strong>note:</strong> Montenegro, which is neither an EU member state nor a party to a formal EU monetary agreement, uses the euro as its de facto currency<br>
 
 ## Energy
@@ -673,7 +687,7 @@ Army of Montenegro (Vojska Crne Gore or VCG): Ground Forces (Kopnene snage), Air
 
 **Military expenditures**<br>
 2% of GDP (2024 est.)<br>
-1.9% of GDP (2023 est.)<br>
+1.6% of GDP (2023 est.)<br>
 1.4% of GDP (2022)<br>
 1.6% of GDP (2021)<br>
 1.7% of GDP (2020)<br>
@@ -701,7 +715,7 @@ the Army of Montenegro is a small military focused on the defense of Montenegroâ
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 65,105 (Ukraine) (as of 29 January 2024)<br>
 _stateless persons_: 468 (2022)<br>
-<strong>note:</strong> 34,143 estimated refugee and migrant arrivals (January 2015-February 2024)<br>
+<strong>note:</strong> 34,511 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Montenegro does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government prosecuted more defendants and identified more trafficking victims, adopted the National Action Plan for 2022, and coordinating bodies met consistently; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; officials did not convict any traffickers and reorganized the police office dedicated to investigating trafficking, reducing its ability to conduct proactive investigations; the government did not act quickly to protect victims after experts published credible allegations of abuse by an employee with management duties for the government-funded NGO-run anti-trafficking shelter, including physical violence, intimidation, and blackmail; although civil society and international organizations ceased victim referrals to the shelter, the government did not suspend its license and funding, continued to refer two child victims, and funded the shelter until the grant ended in December 2022; afterwards, Montenegro did not renew the shelter&rsquo;s grant and decided to start renovating a government-run shelter for child trafficking victims; the government attempted to organize accommodations for child victims in foster families, but it did not develop a plan to provide protection for adult victims; therefore, Montenegro was downgraded to Tier 2 Watch List (2023)<br>

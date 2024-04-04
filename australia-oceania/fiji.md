@@ -370,29 +370,32 @@ _selected World Heritage Site locales_: Levuka Historical Port Town<br>
 upper-middle income, tourism-based Pacific island economy; susceptible to ocean rises; key energy and infrastructure investments; post-pandemic tourism resurgence; improved debt standing; limited workforce<br>
 
 **Real GDP (purchasing power parity)**<br>
-$9.578 billion (2021 est.)<br>
-$10.094 billion (2020 est.)<br>
-$12.162 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$11.518 billion (2022 est.)<br>
+$9.597 billion (2021 est.)<br>
+$10.09 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--5.11% (2021 est.)<br>
--17% (2020 est.)<br>
--0.58% (2019 est.)<br>
+20.02% (2022 est.)<br>
+-4.88% (2021 est.)<br>
+-17.04% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$12,400 (2022 est.)<br>
 $10,400 (2021 est.)<br>
 $11,000 (2020 est.)<br>
-$13,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.891 billion (2017 est.)<br>
+$4.98 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.52% (2022 est.)<br>
 0.16% (2021 est.)<br>
 -2.6% (2020 est.)<br>
-1.77% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Ba3 (2017)<br>
@@ -419,15 +422,18 @@ sugar cane, cassava, taro, poultry, vegetables, coconuts, eggs, milk, ginger, sw
 tourism, sugar processing, clothing, copra, gold, silver, lumber<br>
 
 **Industrial production growth rate**<br>
--8.34% (2021 est.)<br>
+5.7% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-372,200 (2021 est.)<br>
+382,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.24% (2021 est.)<br>
-4.72% (2020 est.)<br>
-4.45% (2019 est.)<br>
+4.56% (2022 est.)<br>
+4.8% (2021 est.)<br>
+4.73% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 18.1% (2021 est.)<br>
@@ -435,19 +441,23 @@ _male_: 14.1%<br>
 _female_: 25.9%<br>
 
 **Population below poverty line**<br>
-29.9% (2019 est.)<br>
+24.1% (2019 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 30.7 (2019 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.6%<br>
-_highest 10%_: 34.9% (2009 est.)<br>
+_lowest 10%_: 3.5%<br>
+_highest 10%_: 24.2% (2019 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-11.26% of GDP (2021 est.)<br>
-7.94% of GDP (2020 est.)<br>
-5.39% of GDP (2019 est.)<br>
+9.21% of GDP (2022 est.)<br>
+9.14% of GDP (2021 est.)<br>
+7.16% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $885 million (2020 est.)<br>
@@ -461,20 +471,23 @@ _expenditures_: $1.515 billion (2020 est.)<br>
 47.5% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-19.26% (of GDP) (2020 est.)<br>
+15.87% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$597.29 million (2021 est.)<br>
--$575.635 million (2020 est.)<br>
--$689.438 million (2019 est.)<br>
+-$865.665 million (2022 est.)<br>
+-$686.577 million (2021 est.)<br>
+-$614.13 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$2.376 billion (2022 est.)<br>
 $1.171 billion (2021 est.) note: data are in current year dollars<br>
 $1.23 billion (2020 est.) note: data are in current year dollars<br>
-$2.636 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 34%, Australia 14%, China 7%, New Zealand 7%, Tonga 4% (2021)<br>
@@ -483,9 +496,10 @@ United States 34%, Australia 14%, China 7%, New Zealand 7%, Tonga 4% (2021)<br>
 water, fuel wood, gold, sugar, refined petroleum, fish (2021)<br>
 
 **Imports**<br>
+$3.434 billion (2022 est.)<br>
 $2.344 billion (2021 est.) note: data are in current year dollars<br>
 $1.977 billion (2020 est.) note: data are in current year dollars<br>
-$3.206 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 New Zealand 18%, China 16%, Singapore 14%, Australia 13%, United States 9% (2021)<br>
@@ -494,9 +508,10 @@ New Zealand 18%, China 16%, Singapore 14%, Australia 13%, United States 9% (2021
 refined petroleum, aircraft, cars, dentistry devices, broadcasting equipment (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.518 billion (31 December 2021 est.)<br>
-$1.082 billion (31 December 2020 est.)<br>
-$1.043 billion (31 December 2019 est.)<br>
+$1.557 billion (2022 est.)<br>
+$1.518 billion (2021 est.)<br>
+$1.082 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.022 billion (31 December 2017 est.)<br>
@@ -504,11 +519,11 @@ $696.4 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Fijian dollars (FJD) per US dollar -<br>
+2.201 (2022 est.)<br>
 2.071 (2021 est.)<br>
 2.169 (2020 est.)<br>
 2.16 (2019 est.)<br>
 2.087 (2018 est.)<br>
-2.067 (2017 est.)<br>
 
 ## Energy
 

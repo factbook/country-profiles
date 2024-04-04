@@ -307,9 +307,10 @@ $3.622 billion (2014 est.)<br>
 <strong>note:</strong> data are in 2013 dollars<br>
 
 **Real GDP growth rate**<br>
--2.15% (2020 est.)<br>
-2.78% (2019 est.)<br>
-1.9% (2018 est.)<br>
+2.85% (2021 est.)<br>
+-1.92% (2020 est.)<br>
+2.93% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $37,000 (2016 est.)<br>
@@ -317,7 +318,8 @@ $35,800 (2015 est.)<br>
 $34,500 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$5.182 billion (2016 est.)<br>
+$4.444 billion (2021 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1% (2016 est.)<br>
@@ -343,15 +345,18 @@ fruit, vegetables, sorghum; Senepol cattle<br>
 tourism, watch assembly, rum distilling, construction, pharmaceuticals, electronics<br>
 
 **Industrial production growth rate**<br>
-NA<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-42,200 (2021 est.)<br>
+47,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-13.27% (2021 est.)<br>
-13.55% (2020 est.)<br>
-12.47% (2019 est.)<br>
+12.86% (2022 est.)<br>
+14.13% (2021 est.)<br>
+14.69% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 27% (2021 est.)<br>

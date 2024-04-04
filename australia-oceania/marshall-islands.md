@@ -357,23 +357,26 @@ _selected World Heritage Site locales_: Bikini Atoll Nuclear Test Site<br>
 upper middle-income Pacific island economy; US aid reliance; large public sector; coconut oil production as diesel fuel substitute; growing offshore banking locale; fishing rights seller; import-dependent<br>
 
 **Real GDP (purchasing power parity)**<br>
-$250.694 million (2021 est.)<br>
-$247.93 million (2020 est.)<br>
-$252.582 million (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$249.595 million (2022 est.)<br>
+$251.292 million (2021 est.)<br>
+$248.528 million (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+-0.68% (2022 est.)<br>
 1.11% (2021 est.)<br>
--1.84% (2020 est.)<br>
-10.84% (2019 est.)<br>
+-2.85% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$6,000 (2021 est.) note: data are in 2017 dollars<br>
-$5,700 (2020 est.) note: data are in 2017 dollars<br>
-$5,600 (2019 est.)<br>
+$6,000 (2022 est.)<br>
+$6,000 (2021 est.)<br>
+$5,700 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$222 million (2017 est.)<br>
+$258.774 million (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 0% (2017 est.)<br>
@@ -398,14 +401,11 @@ coconuts<br>
 copra, tuna processing, tourism, craft items (from seashells, wood, and pearls)<br>
 
 **Industrial production growth rate**<br>
--3.66% (2021 est.) NA<br>
+10.24% (2022 est.) NA<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 10,670 (2013 est.)<br>
-
-**Unemployment rate**<br>
-36% (2006 est.)<br>
-30.9% (2000 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 26% (2019 est.)<br>
@@ -413,19 +413,23 @@ _male_: 31%<br>
 _female_: 14.2%<br>
 
 **Population below poverty line**<br>
-NA<br>
+7.2% (2019 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 35.5 (2019 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
+_lowest 10%_: 2.8% NA<br>
+_highest 10%_: 27.5% (2019 est.) NA<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-12.82% of GDP (2020 est.)<br>
-13.55% of GDP (2019 est.)<br>
-14.34% of GDP (2018 est.)<br>
+11.59% of GDP (2022 est.)<br>
+13.36% of GDP (2021 est.)<br>
+13.89% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $148 million (2019 est.)<br>
@@ -435,26 +439,29 @@ _expenditures_: $153 million (2019 est.)<br>
 1.3% (of GDP) (2013 est.)<br>
 
 **Public debt**<br>
-41.71% of GDP (2019 est.)<br>
-44.14% of GDP (2018 est.)<br>
+41.73% of GDP (2019 est.)<br>
+44.12% of GDP (2018 est.)<br>
 47.95% of GDP (2017 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-17.16% (of GDP) (2020 est.)<br>
+17.23% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
 
 **Current account balance**<br>
--$1.182 million (2020 est.)<br>
-$56.998 million (2019 est.)<br>
-$53.031 million (2018 est.)<br>
+$76.263 million (2021 est.)<br>
+$90.281 million (2020 est.)<br>
+$86.133 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$1.37 billion (2021 est.)<br>
-$773 million (2020 est.)<br>
-$1.17 billion (2019 est.)<br>
-<strong>note:</strong> data are in current year dollars<br>
+$130.016 million (2021 est.)<br>
+$88.042 million (2020 est.)<br>
+$91.394 million (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Denmark 33%, South Korea 20%, Germany 15%, Poland 9%, Cyprus 4% (2021)<br>
@@ -463,10 +470,10 @@ Denmark 33%, South Korea 20%, Germany 15%, Poland 9%, Cyprus 4% (2021)<br>
 ships, recreational boats, skipjack, tuna, refined petroleum, broadcasting equipment (2021)<br>
 
 **Imports**<br>
-$10.7 billion (2021 est.)<br>
-$12 billion (2020 est.)<br>
-$9.1 billion (2019 est.)<br>
-<strong>note:</strong> data are in current year dollars<br>
+$206.025 million (2021 est.)<br>
+$132.845 million (2020 est.)<br>
+$129.682 million (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 South Korea 33%, China 30%, Japan 11%, Greece 3%, Cyprus 3% (2021)<br>

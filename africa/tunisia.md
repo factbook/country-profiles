@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Tunisia has been the nexus of many different colonizations including those of the Phoenicians (as early as the 12 century B.C.), the Carthaginians, Romans, Vandals, Byzantines, various Arab and Berber kingdoms, and the Ottomans (16th to late 19th centuries). Rivalry between French and Italian interests in Tunisia culminated in a French invasion in 1881 and the creation of a protectorate. Agitation for independence in the decades following World War I was finally successful in convincing the French to recognize Tunisia as an independent state in 1956. The country's first president, Habib BOURGUIBA, established a strict one-party state. He dominated the country for 31 years, repressing Islamic fundamentalism and establishing rights for women. In November 1987, BOURGUIBA was removed from office and replaced by Zine el Abidine BEN ALI in a bloodless coup. Street protests that began in Tunis in December 2010 over high unemployment, corruption, widespread poverty, and high food prices escalated in January 2011, culminating in rioting that led to hundreds of deaths. On 14 January 2011, the same day BEN ALI dismissed the government, he fled the country, and by late January 2011, a "national unity government" was formed. Elections for the new Constituent Assembly were held in late October 2011, and in December, it elected human rights activist Moncef MARZOUKI as interim president. The Assembly began drafting a new constitution in February 2012 and, after several iterations and a months-long political crisis that stalled the transition, ratified the document in January 2014. Parliamentary and presidential elections for a permanent government were held at the end of 2014. Beji CAID ESSEBSI was elected as the first president under the country's new constitution. Following ESSEBSI’s death in office in July 2019, Tunisia moved its scheduled presidential election forward two months and after two rounds of voting, Kais SAIED was sworn in as president in October 2019. Tunisia held legislative elections on schedule in October 2019. SAIED's term, as well as that of Tunisia's 217-member parliament, was set to expire in 2024. However, on 25 July 2021, SAIED seized exceptional powers allowed under Tunisia's constitution to fire the prime minister and suspend the legislature. Tunisians approved a new constitution through public referendum in July 2022 that expanded presidential powers and created a new bicameral legislature.</p><br>
+<p>Tunisia has been the nexus of many different colonizations including those of the Phoenicians (as early as the 12 century B.C.), the Carthaginians, Romans, Vandals, Byzantines, various Arab and Berber kingdoms, and the Ottomans (16th to late 19th centuries). Rivalry between French and Italian interests in Tunisia culminated in a French invasion in 1881 and the creation of a protectorate. Agitation for independence in the decades following World War I was finally successful in convincing the French to recognize Tunisia as an independent state in 1956. The country's first president, Habib BOURGUIBA, established a strict one-party state. He dominated the country for 31 years, repressing Islamic fundamentalism and establishing rights for women. In November 1987, BOURGUIBA was removed from office and replaced by Zine el Abidine BEN ALI in a bloodless coup. Street protests that began in Tunis in December 2010 over high unemployment, corruption, widespread poverty, and high food prices escalated in January 2011, culminating in rioting that led to hundreds of deaths. On 14 January 2011, the same day BEN ALI dismissed the government, he fled the country, and by late January 2011, a "national unity government" was formed. Elections for the new Constituent Assembly were held in late October 2011, and in December, it elected human rights activist Moncef MARZOUKI as interim president. The Assembly began drafting a new constitution in February 2012 and, after several iterations and a months-long political crisis that stalled the transition, ratified the document in January 2014. Parliamentary and presidential elections for a permanent government were held at the end of 2014. Beji CAID ESSEBSI was elected as the first president under the country's new constitution. Following ESSEBSI’s death in office in July 2019, Tunisia moved its scheduled presidential election forward two months and after two rounds of voting, Kais SAIED was sworn in as president in October 2019. Tunisia held legislative elections on schedule in October 2019. SAIED's term, as well as that of Tunisia's 217-member parliament, was set to expire in 2024. However, on 25 July 2021, SAIED seized exceptional powers allowed under Tunisia's constitution to dismiss the prime minister and suspend the legislature. Tunisians approved a new constitution through public referendum in July 2022 that expanded presidential powers and created a new bicameral legislature. In December 2022, Tunisia held elections to populate local councils which will indirectly elect members to the second chamber of parliament.</p><br>
 
 ## Geography
 
@@ -306,7 +306,7 @@ _etymology_: three possibilities exist for the derivation of the name; originall
 Independence Day, 20 March (1956); Revolution and Youth Day, 14 January (2011)<br>
 
 **Constitution**<br>
-_history_: <p>history: several previous; latest - draft published by the president 30 June 2022, approved by referendum 25 July, and adopted 27 July</p><br>
+_history_: <p>several previous; latest - draft published by the president 30 June 2022, approved by referendum 25 July 2022, and adopted 27 July 2022</p><br>
 _amendments_: proposed by the president of the republic or by one third of the Assembly of the Representatives of the People membership; following review by the Constitutional Court, approval to proceed requires an absolute majority vote by the Assembly and final passage requires a two-thirds majority vote by the Assembly; the president can opt to submit an amendment to a referendum, which requires an absolute majority of votes cast for passage<br>
 
 **Legal system**<br>
@@ -333,18 +333,18 @@ _election results_: <em><br>2019:</em> Kais SAIED elected president in second ro
 <strong>note: </strong>the president can dismiss any member of government on his own initiative or in consultation with the prime minister<br>
 
 **Legislative branch**<br>
-_description_: bicameral legislature (enacted by the 2022 constitution) consists of:<br>newly added National Council of Regions and Districts (Le Conseil National des regions et des districts); (NA seats; members appointed by municipal-level councils; members of each Regional Council elect 3 members among themselves to the National Council; each District Council elects 1 member among themselves to the National Council; members serve 5-year term)<br>Assembly of Representatives of the People (161 seats; 151 members in single seat constituencies and 10 members from Tunisian diaspora directly elected by majoritarian two-round voting system; all members serve 5-year terms)<br>
-_elections_: National Council of Regions and Districts - dates of first appointments and indirect elections NA<br>Assembly of Representatives of the People - last held on 17 December 2022 with a runoff on 29 January 2023 (next to be held in late 2027)<br>
-_election results_: note: in 2022 President SAIED issued a new electoral law which required all legislative candidates run as independents<br>results NA; composition for 154 seats) - men 129, women 25, percent of women 15.2%<br>
+_description_: bicameral legislature (enacted by the 2022 constitution) consists of:<br>newly added National Council of Regions and Districts (Le Conseil National des regions et des districts); (77 seats; members appointed by municipal-level councils; members of each Regional Council elect 3 members among themselves to the National Council; each District Council elects 1 member among themselves to the National Council; members serve 5-year term)<br>Assembly of Representatives of the People (161 seats; 151 members in single seat constituencies and 10 members from Tunisian diaspora directly elected by majoritarian two-round voting system; all members serve 5-year terms)<br>
+_elections_: National Council of Regions and Districts - elections held on 24 December 2023 for 279 local councils which will indirectly elect the National Council <br>Assembly of Representatives of the People - last held on 17 December 2022 with a runoff on 29 January 2023 (next to be held in late 2027)<br>
+_election results_: note: in 2022 President SAIED issued a new electoral law which required all legislative candidates run as independents<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation (consists of the first president, chamber presidents, and magistrates and organized into 27 civil and 11 criminal chambers)<br>
-_judge selection and term of office_: Supreme Court judges nominated by the Supreme Judicial Council, an independent 4-part body consisting mainly of elected judges and the remainder legal specialists; judge tenure based on terms of appointment; Constitutional Court (established in the 2014 and 2022 constitutions, but inception has been delayed; note - in mid-February 2022, President SAIED dissolved the Supreme Judicial Council and replaced it with an interim council in early March<br>
+_judge selection and term of office_: Supreme Court judges nominated by the Supreme Judicial Council, an independent 4-part body consisting mainly of elected judges and the remainder legal specialists; judge tenure based on terms of appointment; Constitutional Court (established in the 2014 and 2022 constitutions, but inception has been delayed; note - in mid-February 2022, President SAIED dissolved the Supreme Judicial Council and replaced it with an interim council in early March 2022<br>
 _subordinate courts_: Courts of Appeal; administrative courts; Court of Audit; Housing Court; courts of first instance; lower district courts; military courts<br>
 <strong>note:</strong> the Tunisian constitution of January 2014 called for the establishment of a constitutional court by the end of 2015, but the court was never formed; the new constitution of July 2022 calls for the establishment of a constitutional court consisting of 9 members appointed by presidential decree; members to include former senior judges of other courts<br>
 
 **Political parties and leaders**<br>
-note - President SAIED in 2022 issued a decree that forbids political parties' participation in legislative elections; although parties remain a facet of Tunisian political life, they have lost significant influence<br>Afek Tounes [Fadhel ABDELKEFI]<br>Al Badil Al-Tounisi (The Tunisian Alternative) [Mehdi JOMAA]<br>Al-Amal Party [Ridha BELHAJ]<br>Call for Tunisia Party (Nidaa Tounes) [Ali HAFSI]<br>Current of Love [Hachemi HAMDI] (formerly the Popular Petition party)<br>Democratic Current [Ghazi CHAOUACHI]<br>Democratic Patriots' Unified Party [Zied LAKHDHAR]<br>Dignity Coalition or Al Karama Coalition [Seifeddine MAKHLOUF]<br>Ennahda Movement (The Renaissance) [Rached GHANNOUCHI]<br>Free Destourian Party or PDL [Abir MOUSSI]<br>Green Tunisia Party [Abdelkader ZITOUNI]<br>Heart of Tunisia (Qalb Tounes) [Nabil KAROUI]<br>Long Live Tunisia (Tahya Tounes) [Youssef CHAHED]<br>Machrou Tounes (Project Tunisia) [Mohsen MARZOUK]<br>Movement of Socialist Democrats or MDS [Ahmed KHASKHOUSSI]<br>Party of the Democratic Arab Vanguard [Kheireddine SOUABNI]<br>People's Movement [Zouheir MAGHZAOUI]<br>Republican Party (Al Joumhouri) [Issam CHEBBI] <br>The Movement Party (Hizb Harak) [Moncef MARZOUKI]<br>Third Republic Party [Olfa HAMDI]<br>Tunisian Ba'ath Movement [Othmen Bel Haj AMOR]<br>Voice of the Republic [Ali HAFSI]<br>Workers' Party [Hamma HAMMAMI]<br>
+note - President SAIED in 2022 issued a decree that forbids political parties' participation in legislative elections; although parties remain a facet of Tunisian political life, they have lost significant influence<br>Afek Tounes [Rym MAHJOUB]<br>Al Badil Al-Tounisi (The Tunisian Alternative) [Mehdi JOMAA]<br>Al-Amal Party [Salma ELLOUMIJ]<br>Call for Tunisia Party (Nidaa Tounes) [Ali HAFSI]<br>Current of Love [Hachemi HAMDI] (formerly the Popular Petition party)<br>Democratic Current [Ghazi CHAOUACHI]<br>Democratic Patriots' Unified Party [Zied LAKHDHAR]<br>Dignity Coalition or Al Karama Coalition [Seifeddine MAKHLOUF]<br>Ennahda Movement (The Renaissance) [Rached GHANNOUCHI]<br>Ettakatol Party [Khalil ZAOUIA]<br>Free Destourian Party or PDL [Abir MOUSSI]<br>Green Tunisia Party [Abdelkader ZITOUNI]<br>Harakat Hak [Mohsen MARZOUK]<br>Heart of Tunisia (Qalb Tounes) [Nabil KAROUI]<br>July 25 Movement [Thameur BDIDA]<br>Labor and Achievement Party [Abdellatif MEKKI]<br>Long Live Tunisia (Tahya Tounes) [Youssef CHAHED]<br>Movement of Socialist Democrats or MDS [Ahmed KHASKHOUSSI]<br>National Coalition Party [Neji JALLOUL]<br>National Salvation Front [Ahmed Nejib CHEBBI]<br>New Carthage Party [Nizar CHAARI]<br>Party of the Democratic Arab Vanguard [Kheireddine SOUABNI]<br>People's Movement [Zouheir MAGHZAOUI]<br>Republican Party (Al Joumhouri) [Issam CHEBBI] <br>The Movement Party (Hizb Harak) [Moncef MARZOUKI]<br>Third Republic Party [Olfa HAMDI]<br>Tunisian Ba'ath Movement [Othmen Bel Haj AMOR]<br>Voice of the Republic [Ali HAFSI]<br>Workers' Party [Hamma HAMMAMI]<br>
 
 **International organization participation**<br>
 ABEDA, AfDB, AFESD, AIIB, AMF, AMU, AU, BSEC (observer), CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -357,7 +357,7 @@ _FAX_: [1] (202) 862-1858<br>
 _email address and website_: <br>AT.Washington@Tunisiaembassy.org<br><br>https://www.tunisianembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Joey HOOD (since 3 February 2023)<br>
+_chief of mission_: Ambassador Joey HOOD (since 2 February 2023)<br>
 _embassy_: Les Berges du Lac, 1053 Tunis<br>
 _mailing address_: 6360 Tunis Place, Washington DC&nbsp; 20521-6360<br>
 _telephone_: [216] 71-107-000<br>
@@ -386,29 +386,32 @@ _selected World Heritage Site locales_: Amphitheatre of El Jem (c); Archaeologic
 lower middle-income North African economy; drafting reforms for foreign lenders; high unemployment, especially for youth and women; hit hard by COVID-19; high public sector wages; high public debt; protectionist austerity measures; key EU trade partner<br>
 
 **Real GDP (purchasing power parity)**<br>
-$127.509 billion (2021 est.)<br>
-$122.226 billion (2020 est.)<br>
-$133.757 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$130.592 billion (2022 est.)<br>
+$127.485 billion (2021 est.)<br>
+$122.105 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.32% (2021 est.)<br>
--8.62% (2020 est.)<br>
-1.5% (2019 est.)<br>
+2.44% (2022 est.)<br>
+4.41% (2021 est.)<br>
+-8.82% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$10,600 (2022 est.)<br>
 $10,400 (2021 est.)<br>
-$10,100 (2020 est.)<br>
-$11,100 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$10,000 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$38.884 billion (2019 est.)<br>
+$46.304 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.31% (2022 est.)<br>
 5.71% (2021 est.)<br>
 5.63% (2020 est.)<br>
-6.72% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2020)<br>
@@ -436,15 +439,18 @@ wheat, milk, tomatoes, barley, olives, watermelons, green chillies/peppers, pota
 petroleum, mining (particularly phosphate, iron ore), tourism, textiles, footwear, agribusiness, beverages<br>
 
 **Industrial production growth rate**<br>
-8.6% (2021 est.)<br>
+-0.33% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.226 million (2021 est.)<br>
+4.36 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-16.82% (2021 est.)<br>
-16.59% (2020 est.)<br>
-15.13% (2019 est.)<br>
+17.76% (2022 est.)<br>
+18.52% (2021 est.)<br>
+18.63% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 38.3% (2021 est.)<br>
@@ -452,23 +458,27 @@ _male_: 37.1%<br>
 _female_: 41.2%<br>
 
 **Population below poverty line**<br>
-15.2% (2015 est.)<br>
+16.6% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 32.8 (2015 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 21.9% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.6%<br>
-_highest 10%_: 27% (2010 est.)<br>
+_lowest 10%_: 3.2%<br>
+_highest 10%_: 25.6% (2015 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+6.68% of GDP (2022 est.)<br>
+6.61% of GDP (2021 est.)<br>
 5.57% of GDP (2020 est.)<br>
-4.89% of GDP (2019 est.)<br>
-4.46% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $10.866 billion (2019 est.)<br>
@@ -488,14 +498,16 @@ _expenditures_: $12.375 billion (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$2.781 billion (2021 est.)<br>
--$2.533 billion (2020 est.)<br>
--$3.391 billion (2019 est.)<br>
+-$4,017,979,000 (2022 est.)<br>
+-$2,794,487,000 (2021 est.)<br>
+-$2,535,914,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$19.743 billion (2021 est.) note: data are in current year dollars<br>
-$16.017 billion (2020 est.) note: data are in current year dollars<br>
-$19.175 billion (2019 est.)<br>
+$17.288 billion (2022 est.)<br>
+$14.067 billion (2021 est.) note: data are in current year dollars<br>
+$11.213 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 France 29%, Italy 17%, Germany 13% (2019)<br>
@@ -504,9 +516,10 @@ France 29%, Italy 17%, Germany 13% (2019)<br>
 insulated wiring, clothing and apparel, crude petroleum, olive oil, vehicle parts (2019)<br>
 
 **Imports**<br>
-$24.269 billion (2021 est.) note: data are in current year dollars<br>
-$19.603 billion (2020 est.) note: data are in current year dollars<br>
-$23.546 billion (2019 est.)<br>
+$22.536 billion (2022 est.)<br>
+$18.215 billion (2021 est.) note: data are in current year dollars<br>
+$14.554 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 France 17%, Italy 16%, Germany 8%, China 8%, Algeria 7% (2019)<br>
@@ -515,9 +528,10 @@ France 17%, Italy 16%, Germany 8%, China 8%, Algeria 7% (2019)<br>
 refined petroleum, natural gas, low-voltage protection equipment, cars, insulated wiring (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$8.846 billion (31 December 2021 est.)<br>
-$9.811 billion (31 December 2020 est.)<br>
-$7.92 billion (31 December 2019 est.)<br>
+$8.094 billion (2022 est.)<br>
+$8.846 billion (2021 est.)<br>
+$9.811 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $35.911 billion (2019 est.)<br>
@@ -525,11 +539,11 @@ $33.79 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Tunisian dinars (TND) per US dollar -<br>
+3.104 (2022 est.)<br>
 2.794 (2021 est.)<br>
 2.812 (2020 est.)<br>
 2.934 (2019 est.)<br>
 2.647 (2018 est.)<br>
-2.419 (2017 est.)<br>
 
 ## Energy
 

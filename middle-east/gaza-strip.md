@@ -261,32 +261,32 @@ _etymology_: named for the largest city in the enclave, Gaza, whose settlement c
 ## Economy
 
 **Real GDP (purchasing power parity)**<br>
-$27.779 billion (2021 est.)<br>
+$28.862 billion (2022 est.)<br>
+$27.769 billion (2021 est.)<br>
 $25.95 billion (2020 est.)<br>
-$29.262 billion (2019 est.)<br>
-see entry for the West Bank<br>
+note: data in 2017 dollars; entry includes the West Bank and the Gaza Strip<br>
 
 **Real GDP growth rate**<br>
-7.05% (2021 est.)<br>
+3.93% (2022 est.)<br>
+7.01% (2021 est.)<br>
 -11.32% (2020 est.)<br>
-1.36% (2019 est.)<br>
-<strong>note:</strong> excludes the West Bank<br>
+note: annual GDP % growth based on constant local currency; entry includes the West Bank and the Gaza Strip<br>
 
 **Real GDP per capita**<br>
+$5,700 (2022 est.)<br>
 $5,600 (2021 est.)<br>
 $5,400 (2020 est.)<br>
-$6,200 (2019 est.)<br>
-see entry for the the West Bank<br>
+note: data in 2017 dollars; entry includes the West Bank and the Gaza Strip<br>
 
 **GDP (official exchange rate)**<br>
-$2.938 billion (2014 est.)<br>
-<strong>note:</strong> excludes the West Bank<br>
+$19.112 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate; entry includes the West Bank and the Gaza Strip<br>
 
 **Inflation rate (consumer prices)**<br>
+3.74% (2022 est.)<br>
 1.24% (2021 est.)<br>
 -0.74% (2020 est.)<br>
-1.58% (2019 est.)<br>
-<strong>note:</strong> excludes the West Bank<br>
+note: annual % change based on consumer prices; entry includes the West Bank and the Gaza Strip<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3% (2017 est.)<br>
@@ -310,18 +310,18 @@ tomatoes, cucumbers, olives, poultry, milk, potatoes, sheep milk, eggplants, gou
 textiles, food processing, furniture<br>
 
 **Industrial production growth rate**<br>
-6.22% (2021 est.)<br>
-<strong>note:</strong> see entry for the West Bank<br>
+3.36% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency; entry includes the West Bank and the Gaza Strip<br>
 
 **Labor force**<br>
-1.249 million (2021 est.)<br>
-<strong>note:</strong> excludes the West Bank<br>
+1.389 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work; entry includes the West Bank and the Gaza Strip<br>
 
 **Unemployment rate**<br>
-24.9% (2021 est.)<br>
+24.42% (2022 est.)<br>
+26.39% (2021 est.)<br>
 25.89% (2020 est.)<br>
-25.34% (2019 est.)<br>
-<strong>note:</strong> data exclude the West Bank<br>
+note: % of labor force seeking employment; entry includes the West Bank and the Gaza Strip<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 39.6% (2021 est.)<br>
@@ -330,16 +330,23 @@ _female_: 69%<br>
 <strong>note:</strong> includes the West Bank<br>
 
 **Population below poverty line**<br>
-30% (2011 est.)<br>
-<strong>note:</strong> data exclude the West Bank<br>
+29.2% (2016 est.)<br>
+note: % of population with income below national poverty line; entry includes the West Bank and the Gaza Strip<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33.7 (2016 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality; entry includes the West Bank and the Gaza Strip<br>
+
+**Household income or consumption by percentage share**<br>
+_lowest 10%_: 2.9%<br>
+_highest 10%_: 25.2% (2016 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population; entry includes the West Bank and the Gaza Strip<br>
 
 **Remittances**<br>
-18.81% of GDP (2021 est.)<br>
+21.19% of GDP (2022 est.)<br>
+20.77% of GDP (2021 est.)<br>
 16.48% of GDP (2020 est.)<br>
-18.4% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities; entry includes the West Bank and the Gaza Strip<br>
 
 **Budget**<br>
 _revenues_: $3.803 billion (2020 est.)<br>
@@ -347,39 +354,42 @@ _expenditures_: $5.002 billion (2020 est.)<br>
 see entry for the West Bank<br>
 
 **Taxes and other revenues**<br>
-18.78% (of GDP) (2018 est.)<br>
+21.47% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP; entry includes the West Bank and the Gaza Strip<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.486 billion (2021 est.)<br>
+-$2.865 billion (2022 est.)<br>
+-$1.778 billion (2021 est.)<br>
 -$1.903 billion (2020 est.)<br>
--$1.779 billion (2019 est.)<br>
-<strong>note:</strong> excludes the West Bank<br>
+note: balance of payments - net trade and primary/secondary income in current dollars; entry includes the West Bank and the Gaza Strip<br>
 
 **Exports**<br>
-$3.18 billion (2021 est.)<br>
+$3.544 billion (2022 est.)<br>
+$3.14 billion (2021 est.)<br>
 $2.385 billion (2020 est.)<br>
-$2.659 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars; entry includes the West Bank and the Gaza Strip<br>
 
 **Exports - commodities**<br>
 building stone, scrap iron, plastic lids, furniture, seating, dates, olive oil (2021)<br>
 <strong>note:</strong> data includes both Gaza Strip and West Bank export commodities<br>
 
 **Imports**<br>
-$10.245 billion (2021 est.)<br>
+$12.874 billion (2022 est.)<br>
+$10.094 billion (2021 est.)<br>
 $8.065 billion (2020 est.)<br>
-$9.161 billion (2019 est.)<br>
-see entry for the West Bank<br>
+note: balance of payments - imports of goods and services in current dollars; entry includes the West Bank and the Gaza Strip<br>
 
 **Imports - commodities**<br>
 food, consumer goods, fuel<br>
 
 **Reserves of foreign exchange and gold**<br>
-$872.541 million (31 December 2021 est.)<br>
-$697.075 million (31 December 2020 est.)<br>
-$658.352 million (31 December 2019 est.)<br>
+$896.9 million (2022 est.)<br>
+$872.541 million (2021 est.)<br>
+$697.075 million (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars; entry includes West Bank and Gaza Strip<br>
 
 **Debt - external**<br>
 <p>see entry for the West Bank</p><br>

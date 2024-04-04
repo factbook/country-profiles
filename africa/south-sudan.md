@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>South Sudan, which gained independence from Sudan on 9 July 2011, is the world’s newest country. Home to a diverse array of mainly Nilotic ethnolinguistic groups that settled in the territory in the 15th through 19th centuries, South Sudanese society is heavily dependent on seasonal fluctuations in precipitation and seasonal migration. The land comprising modern-day South Sudan was conquered first by Egypt and later ruled jointly by Egyptian-British colonial administrators in the late 19th century. Christian missionaries propagated the spread of English and Christianity, rather than Arabic and Islam, leading to significant cultural differences between the northern and southern parts of Sudan. When Sudan gained its independence in 1956, the Southern region received assurances that it would participate fully in the political system. However, the Arab government in Khartoum reneged on its promises, prompting two periods of civil war (1955-1972 and 1983-2005) in which as many as 2.5 million people died - mostly civilians - due largely to starvation and drought. The Second Sudanese civil war was one of the deadliest since WWII and left Southern Sudanese society devastated by humanitarian crises and economic deterioration. Peace talks resulted in a US-backed Comprehensive Peace Agreement, signed in January 2005, which granted the South a six-year period of autonomy followed by a referendum on final status. The result of this referendum, held in January 2011, was a vote of 98% in favor of secession.<br><br>Since independence, South Sudan has struggled to form a viable governing system and has been plagued by widespread corruption, political conflict, and communal violence. In December 2013, conflict erupted between forces loyal to President Salva KIIR, a Dinka, and forces loyal to Vice President Riek MACHAR, a Nuer. The conflict quickly spread throughout the country and unfolded along ethnic lines, killing tens of thousands and creating a dire humanitarian crisis, with millions of South Sudanese displaced and food insecure. KIIR and MACHAR signed a peace agreement in August 2015 that created a Transitional Government of National Unity in April 2016. However, in July 2016, renewed fighting broke out in Juba between KIIR and MACHAR’s forces, plunging the country back into conflict and drawing in additional armed opposition groups, including those in the southern Equatoria region that had largely stayed out of the first round of civil war. A "revitalized" peace agreement was signed in September 2018, which mostly ended the fighting. The government and most armed opposition groups agreed that they would form a unified national army, create a transitional government by May 2019, and prepare for elections in December 2022. Subsequent extensions pushed elections to late 2023, and the transitional government was formed in February 2020, when MACHAR returned to Juba as first vice president. Since 2020, implementation of the peace agreement has been stalled as the parties wrangle over power-sharing arrangements, contributing to an uptick in communal violence and the country’s worst food security crisis since independence, with 7 of 11 million South Sudanese citizens in need of humanitarian assistance.</p><br>
+<p>South Sudan, which gained independence from Sudan on 9 July 2011, is the world’s newest country. Home to a diverse array of mainly Nilotic ethnolinguistic groups that settled in the territory in the 15th through 19th centuries, South Sudanese society is heavily dependent on seasonal fluctuations in precipitation and seasonal migration. The land comprising modern-day South Sudan was conquered first by Egypt and later ruled jointly by Egyptian-British colonial administrators in the late 19th century. Christian missionaries propagated the spread of English and Christianity, rather than Arabic and Islam, leading to significant cultural differences between the northern and southern parts of Sudan. When Sudan gained its independence in 1956, the Southern region received assurances that it would participate fully in the political system. However, the Arab government in Khartoum reneged on its promises, prompting two periods of civil war (1955-1972 and 1983-2005) in which as many as 2.5 million people died - mostly civilians - due largely to starvation and drought. The Second Sudanese civil war was one of the deadliest since WWII and left Southern Sudanese society devastated by humanitarian crises and economic deterioration. Peace talks resulted in a US-backed Comprehensive Peace Agreement, signed in January 2005, which granted the South a six-year period of autonomy followed by a referendum on final status. The result of this referendum, held in January 2011, was a vote of 98% in favor of secession.<br><br>Since independence, South Sudan has struggled to form a viable governing system and has been plagued by widespread corruption, political conflict, and communal violence. In December 2013, conflict erupted between forces loyal to President Salva KIIR, a Dinka, and forces loyal to Vice President Riek MACHAR, a Nuer. The conflict quickly spread throughout the country and unfolded along ethnic lines, killing tens of thousands and creating a dire humanitarian crisis, with millions of South Sudanese displaced and food insecure. KIIR and MACHAR signed a peace agreement in August 2015 that created a Transitional Government of National Unity in April 2016. However, in July 2016, renewed fighting broke out in Juba between KIIR and MACHAR’s forces, plunging the country back into conflict and drawing in additional armed opposition groups, including those in the southern Equatoria region that had largely stayed out of the first round of civil war. A "revitalized" peace agreement was signed in September 2018, which mostly ended the fighting. The government and most armed opposition groups agreed that they would form a unified national army, create a transitional government by May 2019, and prepare for elections in December 2022. The transitional government was formed in February 2020, when MACHAR returned to Juba as first vice president. Since 2020, implementation of the peace agreement has been stalled as the parties wrangle over power-sharing arrangements, contributing to an uptick in communal violence and the country’s worst food security crisis since independence, with 7 of 11 million South Sudanese citizens in need of humanitarian assistance.  The parties to the agreement extended the transitional period by an additional two years in 2022, pushing elections to late 2024.</p><br>
 
 ## Geography
 
@@ -300,7 +300,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Salva KIIR Mayardit (since 9 July 2011); Vice Presidents Riek MACHAR Teny Dhurgon, TABAN Deng Gai, James Wani IGGA, Rebecca Nyandeng Chol GARANG de Mabior, Hussein ABDELBAGI Ayii (all since 22 February 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President Salva KIIR Mayardit (since 9 July 2011); Vice Presidents Riek MACHAR Teny Dhurgon, TABAN Deng Gai, James Wani IGGA, Rebecca Nyandeng Chol GARANG de Mabior, Hussein ABDELBAGI Ayii (all since 22 February 2020)<br>
 _cabinet_: National Council of Ministers appointed by the president, approved by the Transitional National Legislative Assembly<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11 to 15 April 2010 (originally scheduled for 2015 but postponed several times, currently to be held in 2024)<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11 to 15 April 2010 (originally scheduled for 2015 but postponed several times, currently to be held in December 2024)<br>
 _election results_: <em>2010:</em> Salva KIIR Mayardit elected leader of then-Southern Sudan; percent of vote - Salva KIIR Mayardit (SPLM) 93%, Lam AKOL (SPLM-DC) 7%<br>
 
 **Legislative branch**<br>
@@ -360,7 +360,8 @@ $24.52 billion (2015 est.)<br>
 **Real GDP growth rate**<br>
 -5.2% (2017 est.)<br>
 -13.9% (2016 est.)<br>
--0.2% (2015 est.)<br>
+-10.79% (2015 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $1,600 (2017 est.)<br>
@@ -369,12 +370,14 @@ $2,100 (2015 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.06 billion (2017 est.)<br>
+$11.998 billion (2015 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+-6.69% (2022 est.)<br>
 10.52% (2021 est.)<br>
 29.68% (2020 est.)<br>
-87.24% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 34.9% (2011 est.)<br>
@@ -386,13 +389,19 @@ _imports of goods and services_: -27.2% (2011 est.)<br>
 **Agricultural products**<br>
 milk, sorghum, vegetables, cassava, goat milk, fruit, beef, sesame seed, sheep milk, mutton<br>
 
+**Industrial production growth rate**<br>
+-36.78% (2015 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
+
 **Labor force**<br>
-4.278 million (2021 est.)<br>
+4.319 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-13.91% (2021 est.)<br>
-14.03% (2020 est.)<br>
-12.23% (2019 est.)<br>
+12.44% (2022 est.)<br>
+14.3% (2021 est.)<br>
+14.41% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 21% (2021 est.)<br>
@@ -400,10 +409,18 @@ _male_: 21.8%<br>
 _female_: 20.2%<br>
 
 **Population below poverty line**<br>
-76.4% (2016 est.)<br>
+82.3% (2016 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 44.1 (2016 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
+
+**Remittances**<br>
+9.49% of GDP (2015 est.)<br>
+0.01% of GDP (2014 est.)<br>
+0% of GDP (2013 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.94 billion (2019 est.)<br>
@@ -420,14 +437,16 @@ _expenditures_: $1.938 billion (2019 est.)<br>
 8.5% (of GDP) (FY2017/18 est.)<br>
 
 **Current account balance**<br>
+-$596.748 million (2022 est.)<br>
 -$6.55 million (2021 est.)<br>
--$1.718 billion (2020 est.)<br>
--$193.95 million (2019 est.)<br>
+-$1,717,500,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$5.811 billion (2022 est.)<br>
 $4.652 billion (2021 est.) note: data are in current year dollars<br>
 $2.344 billion (2020 est.) note: data are in current year dollars<br>
-$3.641 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 88%, United Arab Emirates 5% (2019)<br>
@@ -436,9 +455,10 @@ China 88%, United Arab Emirates 5% (2019)<br>
 crude petroleum, gold, forage crops, lumber, insect resins (2019)<br>
 
 **Imports**<br>
+$6.402 billion (2022 est.)<br>
 $4.037 billion (2021 est.) note: data are in current year dollars<br>
 $4.245 billion (2020 est.) note: data are in current year dollars<br>
-$3.893 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United Arab Emirates 37%, Kenya 18%, China 18% (2019)<br>
@@ -447,17 +467,18 @@ United Arab Emirates 37%, Kenya 18%, China 18% (2019)<br>
 cars, delivery trucks, packaged medicines, foodstuffs, clothing and apparel (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$183,614,800 (31 December 2020 est.)<br>
-$378,281,700 (31 December 2019 est.)<br>
-$36,396,400 (31 December 2018 est.)<br>
+$183.615 million (2020 est.)<br>
+$378.282 million (2019 est.)<br>
+$36.396 million (2018 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: South Sudanese pounds (SSP) per US dollar -<br>
+534.511 (2022 est.)<br>
 306.355 (2021 est.)<br>
 165.907 (2020 est.)<br>
 157.999 (2019 est.)<br>
 141.386 (2018 est.)<br>
-113.648 (2017 est.)<br>
 
 ## Energy
 
@@ -611,7 +632,7 @@ the South Sudan People's Defense Forces (SSPDF) are largely focused on internal 
 <p><em>South Sudan- Central African Republic: </em>periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights<br><br><em>South Sudan-Democratic Republic of the Congo</em>: none identified<br><br><em>South Sudan-Ethiopia</em>: the unresolved demarcation of the boundary and lack of clear limitation create substantial room for territorial conflict both locally among the border populations and between the two capitals; besides a large number of indigenous farmers, the border region supports refugees and various rebel groups opposed to the governments in Khartoum and Addis Ababa</p> <p><br><em>South Sudan-Kenya:</em> two thirds of the boundary that separates Kenya and South Sudan's sovereignty known as the Ilemi Triangle has been unclear since British colonial times; Kenya has administered the area since colonial times; officials from Kenya and South Sudan signed a memorandum of understanding on boundary delimitation and demarcation and agreed to set up a joint committee; as of July 2019, the demarcation process was to begin in 90 days, but was delayed due to a lack of funding</p> <p><em>South Sudan-Sudan:</em> present boundary represents 1 January 1956 alignment, which clearly placed the Kafia Kingi area (adjacent to Central African Republic) within South Sudan as shown on US maps although it is mostly occupied by Sudan; final alignment pending negotiations and demarcation; the final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan; clashes continue in the oil-rich Abyei region; the United Nations interim security Force for Abyei (UNISFA) has been deployed since 2011, when South Sudan became independent, Sudan accuses South Sudan of supporting Sudanese rebel groups</p> <p><em>South Sudan-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 564,738 (Sudan) (refugees since 15 April 2023), 12,019 (Democratic Republic of the Congo) (2024)<br>
+_refugees (country of origin)_: 564,738 (Sudan) (refugees since 15 April 2023), 13,833 (Democratic Republic of the Congo) (2024)<br>
 _IDPs_: 2.258 million (alleged coup attempt and ethnic conflict beginning in December 2013; information is lacking on those displaced in earlier years by: fighting in Abyei between the Sudanese Armed Forces and the Sudan People's Liberation Army (SPLA) in May 2011; clashes between the SPLA and dissident militia groups in South Sudan; inter-ethnic conflicts over resources and cattle; attacks from the Lord's Resistance Army; floods and drought) (2023)<br>
 _stateless persons_: 10,000 (2022)<br>
 

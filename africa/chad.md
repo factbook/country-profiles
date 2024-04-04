@@ -410,29 +410,32 @@ _selected World Heritage Site locales_: Lakes of Ounianga (n); Ennedi Massif: Na
 primarily oil-based economy, vulnerable to regional competition and international price shocks; increasing extreme poverty and minimal human capital capacities; one of the most environmentally disrupted economies; high maternal and infant mortality rates destabilizing labor force potentials<br>
 
 **Real GDP (purchasing power parity)**<br>
+$25.037 billion (2022 est.)<br>
 $24.49 billion (2021 est.)<br>
 $24.787 billion (2020 est.)<br>
-$25.19 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+2.24% (2022 est.)<br>
 -1.2% (2021 est.)<br>
 -1.6% (2020 est.)<br>
-3.25% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$1,400 (2022 est.)<br>
 $1,400 (2021 est.)<br>
 $1,500 (2020 est.)<br>
-$1,600 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$10.912 billion (2019 est.)<br>
+$12.704 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.79% (2022 est.)<br>
 -0.77% (2021 est.)<br>
 4.46% (2020 est.)<br>
--0.97% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 52.3% (2017 est.)<br>
@@ -454,16 +457,18 @@ sorghum, groundnuts, millet, yams, cereals, sugar cane, beef, maize, cotton, cas
 oil, cotton textiles, brewing, natron (sodium carbonate), soap, cigarettes, construction materials<br>
 
 **Industrial production growth rate**<br>
-0.3% (2021 est.)<br>
+4.08% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.246 million (2021 est.)<br>
+5.602 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.88% (2021 est.)<br>
-1.74% (2020 est.)<br>
-1.12% (2019 est.)<br>
-NA<br>
+1.1% (2022 est.)<br>
+1.59% (2021 est.)<br>
+1.68% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 2.4% (2021 est.)<br>
@@ -472,13 +477,16 @@ _female_: 1.4%<br>
 
 **Population below poverty line**<br>
 42.3% (2018 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 37.5 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.6%<br>
-_highest 10%_: 30.8% (2003)<br>
+_lowest 10%_: 2.9%<br>
+_highest 10%_: 29.7% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0% of GDP (2020 est.)<br>
@@ -528,9 +536,10 @@ China 29%, United Arab Emirates 16%, France 10%, United States 8%, India 5% (201
 delivery trucks, paints, packaged medicines, aircraft, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$310.032 million (31 December 2019 est.)<br>
-$147.75 million (31 December 2018 est.)<br>
-$8.575 million (31 December 2017 est.)<br>
+$211.591 million (2021 est.)<br>
+$390.675 million (2020 est.)<br>
+$310.032 million (2019 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.724 billion (31 December 2017 est.)<br>
@@ -538,11 +547,11 @@ $1.281 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
 555.446 (2018 est.)<br>
-580.657 (2017 est.)<br>
 
 ## Energy
 
@@ -695,7 +704,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>over 100,000 refugees have fled the 2023 conflict in Sudan to Chad, adding to the 600,000 mostly Sudanese refugees already in Chad after fleeing previous conflicts, especially in the Darfur region; Chad and Sudan share the same ethnic groups along both sides of their common 1,400-km-long border; in 2010, relations with Sudan were normalized, and the two countries established a joint border monitoring force, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 418,187 (Sudan) (includes refugees since 15 April 2023), 26,692 (Cameroon) (2023); 133,495 (Central African Republic), 21,380 (Nigeria) (2024)<br>
+_refugees (country of origin)_: 694,569 (Sudan) (includes refugees since 15 April 2023), 26,692 (Cameroon) (2023); 134,015 (Central African Republic), 21,381 (Nigeria) (2024)<br>
 _IDPs_: 215,918 (majority are in the east) (2023)<br>
 
 **Trafficking in persons**<br>

@@ -402,29 +402,32 @@ _selected World Heritage Site locales_: Mausoleum of Khoja Ahmed Yasawi (c); Pet
 oil and gas giant, with growing international investment; domestic economy hit hard by COVID-19 disruptions; reforming civil society and improving business confidence; legacy state controls and Russian influence inhibit growth and autonomy<br>
 
 **Real GDP (purchasing power parity)**<br>
+$512.002 billion (2022 est.)<br>
 $496.126 billion (2021 est.)<br>
 $475.672 billion (2020 est.)<br>
-$487.869 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+3.2% (2022 est.)<br>
 4.3% (2021 est.)<br>
 -2.5% (2020 est.)<br>
-4.5% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$26,100 (2022 est.)<br>
 $26,100 (2021 est.)<br>
 $25,400 (2020 est.)<br>
-$26,400 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$181.194 billion (2019 est.)<br>
+$225.496 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-6.75% (2020 est.)<br>
+8.04% (2021 est.)<br>
+6.77% (2020 est.)<br>
 5.25% (2019 est.)<br>
-6.02% (2018 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2016)<br>
@@ -452,15 +455,18 @@ wheat, milk, potatoes, barley, watermelons, melons, linseed, onions, maize, sunf
 oil, coal, iron ore, manganese, chromite, lead, zinc, copper, titanium, bauxite, gold, silver, phosphates, sulfur, uranium, iron and steel; tractors and other agricultural machinery, electric motors, construction materials<br>
 
 **Industrial production growth rate**<br>
-5.1% (2021 est.)<br>
+4.15% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-9.248 million (2021 est.)<br>
+9.481 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.9% (2021 est.)<br>
+4.86% (2022 est.)<br>
+5.57% (2021 est.)<br>
 4.89% (2020 est.)<br>
-4.8% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 3.7% (2021 est.)<br>
@@ -468,23 +474,27 @@ _male_: 3.3%<br>
 _female_: 4.3%<br>
 
 **Population below poverty line**<br>
-4.3% (2018 est.)<br>
+5.2% (2022 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 27.8 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 44.9% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 1.7% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4.2%<br>
-_highest 10%_: 23.3% (2016)<br>
+_lowest 10%_: 4.3%<br>
+_highest 10%_: 23.4% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.21% of GDP (2022 est.)<br>
 0.16% of GDP (2021 est.)<br>
 0.22% of GDP (2020 est.)<br>
-0.28% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $29.955 billion (2020 est.)<br>
@@ -494,25 +504,29 @@ _expenditures_: $41.994 billion (2020 est.)<br>
 -1.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-26.63% of GDP (2020 est.)<br>
+22.41% of GDP (2021 est.)<br>
+23.72% of GDP (2020 est.)<br>
 18.48% of GDP (2019 est.)<br>
-21.99% of GDP (2018 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-8.32% (of GDP) (2020 est.)<br>
+9.45% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$7.862 billion (2021 est.)<br>
--$7.59 billion (2020 est.)<br>
--$8.282 billion (2019 est.)<br>
+$7.079 billion (2022 est.)<br>
+-$2.672 billion (2021 est.)<br>
+-$10.96 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$66.132 billion (2021 est.) note: data are in current year dollars<br>
-$52.355 billion (2020 est.) note: data are in current year dollars<br>
-$65.919 billion (2019 est.) note: data are in current year dollars<br>
+$93.581 billion (2022 est.)<br>
+$71.726 billion (2021 est.) note: data are in current year dollars<br>
+$49.273 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 13%, Italy 12%, Russia 10%, Netherlands 7%, France 6%, South Korea 5% (2019)<br>
@@ -521,9 +535,10 @@ China 13%, Italy 12%, Russia 10%, Netherlands 7%, France 6%, South Korea 5% (201
 crude petroleum, gold, copper, iron alloys, natural gas (2021)<br>
 
 **Imports**<br>
-$49.196 billion (2021 est.) note: data are in current year dollars<br>
-$46.218 billion (2020 est.) note: data are in current year dollars<br>
-$52.539 billion (2019 est.) note: data are in current year dollars<br>
+$60.147 billion (2022 est.)<br>
+$49.597 billion (2021 est.) note: data are in current year dollars<br>
+$46.502 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Russia 34%, China 24% (2019)<br>
@@ -532,9 +547,10 @@ Russia 34%, China 24% (2019)<br>
 packaged medicines, natural gas, cars, broadcasting equipment, aircraft (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$34.378 billion (31 December 2021 est.)<br>
-$35.638 billion (31 December 2020 est.)<br>
-$28.958 billion (31 December 2019 est.)<br>
+$35.076 billion (2022 est.)<br>
+$34.378 billion (2021 est.)<br>
+$35.638 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $159.351 billion (2019 est.)<br>
@@ -542,11 +558,11 @@ $163.73 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: tenge (KZT) per US dollar -<br>
+460.165 (2022 est.)<br>
 425.908 (2021 est.)<br>
 412.953 (2020 est.)<br>
 382.747 (2019 est.)<br>
 344.706 (2018 est.)<br>
-326.001 (2017 est.)<br>
 
 ## Energy
 

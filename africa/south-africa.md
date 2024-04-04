@@ -404,29 +404,32 @@ _selected World Heritage Site locales_: Fossil Hominid Sites of South Africa (c)
 upper middle-income South African economy; hard hit by COVID-19; poor utilities management; key rare earth goods exporter; high income inequality; hosts Africa&rsquo;s largest stock exchange; rising unemployment, especially youth; land rights changes<br>
 
 **Real GDP (purchasing power parity)**<br>
-$790.625 billion (2021 est.)<br>
-$753.6 billion (2020 est.)<br>
-$804.634 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$807.295 billion (2022 est.)<br>
+$792.161 billion (2021 est.)<br>
+$756.579 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.91% (2021 est.)<br>
--6.34% (2020 est.)<br>
-0.3% (2019 est.)<br>
+1.91% (2022 est.)<br>
+4.7% (2021 est.)<br>
+-5.96% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$13,500 (2022 est.)<br>
 $13,300 (2021 est.)<br>
-$12,800 (2020 est.)<br>
-$13,900 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$12,900 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$350.032 billion (2019 est.)<br>
+$405.271 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.04% (2022 est.)<br>
 4.61% (2021 est.)<br>
 3.21% (2020 est.)<br>
-4.12% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2020)<br>
@@ -454,15 +457,18 @@ sugar cane, maize, milk, potatoes, grapes, poultry, oranges, wheat, soybeans, be
 mining (world's largest producer of platinum, gold, chromium), automobile assembly, metalworking, machinery, textiles, iron and steel, chemicals, fertilizer, foodstuffs, commercial ship repair<br>
 
 **Industrial production growth rate**<br>
-6.12% (2021 est.)<br>
+-2.49% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-22.398 million (2021 est.)<br>
+24.367 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-33.56% (2021 est.)<br>
-29.22% (2020 est.)<br>
-28.47% (2019 est.)<br>
+28.84% (2022 est.)<br>
+28.77% (2021 est.)<br>
+24.34% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 64.2% (2021 est.)<br>
@@ -471,22 +477,26 @@ _female_: 69.3%<br>
 
 **Population below poverty line**<br>
 55.5% (2014 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 63 (2014 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 21.4% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 4.9% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.2%<br>
-_highest 10%_: 51.3% (2011 est.)<br>
+_lowest 10%_: 0.9%<br>
+_highest 10%_: 50.5% (2014 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.22% of GDP (2022 est.)<br>
 0.22% of GDP (2021 est.)<br>
 0.24% of GDP (2020 est.)<br>
-0.23% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $84.19 billion (2020 est.)<br>
@@ -496,24 +506,29 @@ _expenditures_: $121.204 billion (2020 est.)<br>
 -4.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-53% of GDP (2017 est.)<br>
-51.6% of GDP (2016 est.)<br>
+75.42% of GDP (2021 est.)<br>
+77.38% of GDP (2020 est.)<br>
+64.59% of GDP (2019 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-23.3% (of GDP) (2020 est.)<br>
+25.85% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
-$15.569 billion (2021 est.)<br>
-$6.788 billion (2020 est.)<br>
--$10.037 billion (2019 est.)<br>
+-$1,697,574,000 (2022 est.)<br>
+$15.5 billion (2021 est.)<br>
+$6.701 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$130.885 billion (2021 est.) note: data are in current year dollars<br>
-$94.123 billion (2020 est.) note: data are in current year dollars<br>
-$105.988 billion (2019 est.) note: data are in current year dollars<br>
+$136.112 billion (2022 est.)<br>
+$130.882 billion (2021 est.) note: data are in current year dollars<br>
+$94.059 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 15%, United Kingdom 8%, Germany 7%, United States 6%, India 6% (2019)<br>
@@ -522,9 +537,10 @@ China 15%, United Kingdom 8%, Germany 7%, United States 6%, India 6% (2019)<br>
 gold, platinum, cars, iron products, coal, manganese, diamonds&nbsp; (2019)<br>
 
 **Imports**<br>
-$104.806 billion (2021 est.) note: data are in current year dollars<br>
-$79.022 billion (2020 est.) note: data are in current year dollars<br>
-$103.92 billion (2019 est.) note: data are in current year dollars<br>
+$127.596 billion (2022 est.)<br>
+$104.867 billion (2021 est.) note: data are in current year dollars<br>
+$79.039 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 18%, Germany 11%, United States 6%, India 5% (2019)<br>
@@ -533,9 +549,10 @@ China 18%, Germany 11%, United States 6%, India 5% (2019)<br>
 crude petroleum, refined petroleum, cars and vehicle parts, gold, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$57.597 billion (31 December 2021 est.)<br>
-$55.008 billion (31 December 2020 est.)<br>
-$55.056 billion (31 December 2019 est.)<br>
+$60.553 billion (2022 est.)<br>
+$57.597 billion (2021 est.)<br>
+$55.008 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $179.871 billion (2019 est.)<br>
@@ -543,11 +560,11 @@ $173.714 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: rand (ZAR) per US dollar -<br>
+16.356 (2022 est.)<br>
 14.779 (2021 est.)<br>
 16.459 (2020 est.)<br>
 14.448 (2019 est.)<br>
 13.234 (2018 est.)<br>
-13.324 (2017 est.)<br>
 
 ## Energy
 

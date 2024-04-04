@@ -389,29 +389,32 @@ _selected World Heritage Site locales_: Bryggen (c); Urnes Stave Church (c); Rø
 high-income non-EU European economy; aging labor force; large state-owned energy company constrains budget and spending; largest oil sovereign wealth fund; major fishing, forestry, and extraction industries; large welfare system<br>
 
 **Real GDP (purchasing power parity)**<br>
-$368.151 billion (2022 est.)<br>
-$355.122 billion (2021 est.)<br>
-$341.855 billion (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$368.139 billion (2022 est.)<br>
+$356.457 billion (2021 est.)<br>
+$343.082 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.3% (2022 est.)<br>
-3.88% (2021 est.)<br>
--0.72% (2020 est.)<br>
+3.28% (2022 est.)<br>
+3.9% (2021 est.)<br>
+-1.28% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $67,500 (2022 est.)<br>
-$65,700 (2021 est.)<br>
-$63,500 (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$65,900 (2021 est.)<br>
+$63,800 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$405.695 billion (2019 est.)<br>
+$579.422 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.76% (2022 est.)<br>
 3.48% (2021 est.)<br>
 1.29% (2020 est.)<br>
-2.17% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (1995)<br>
@@ -439,15 +442,18 @@ milk, barley, wheat, potatoes, oats, pork, poultry, beef, eggs, rye<br>
 petroleum and gas, shipping, fishing, aquaculture, food processing, shipbuilding, pulp and paper products, metals, chemicals, timber, mining, textiles<br>
 
 **Industrial production growth rate**<br>
-2.19% (2021 est.)<br>
+0.61% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.971 million (2021 est.)<br>
+2.981 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.99% (2021 est.)<br>
+3.23% (2022 est.)<br>
+4.37% (2021 est.)<br>
 4.42% (2020 est.)<br>
-3.69% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 13% (2021 est.)<br>
@@ -455,23 +461,27 @@ _male_: 13.5%<br>
 _female_: 12.5%<br>
 
 **Population below poverty line**<br>
-12.7% (2018 est.)<br>
+12.7% (2019 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 27.7 (2019 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 11.7% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 4.1% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.8%<br>
-_highest 10%_: 21.2% (2014)<br>
+_lowest 10%_: 3.4%<br>
+_highest 10%_: 22.4% (2019 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.14% of GDP (2021 est.)<br>
+0.11% of GDP (2022 est.)<br>
+0.13% of GDP (2021 est.)<br>
 0.16% of GDP (2020 est.)<br>
-0.15% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $185.338 billion (2020 est.)<br>
@@ -486,20 +496,23 @@ _expenditures_: $210.522 billion (2020 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data exclude treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-21.09% (of GDP) (2020 est.)<br>
+25.08% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$71.551 billion (2021 est.)<br>
-$4.223 billion (2020 est.)<br>
-$11.919 billion (2019 est.)<br>
+$174.555 billion (2022 est.)<br>
+$66.254 billion (2021 est.)<br>
+$4.212 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$199.074 billion (2021 est.) note: data are in current year dollars<br>
-$116.718 billion (2020 est.) note: data are in current year dollars<br>
-$146.28 billion (2019 est.) note: data are in current year dollars<br>
+$321.093 billion (2022 est.)<br>
+$203.228 billion (2021 est.) note: data are in current year dollars<br>
+$118.314 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United Kingdom 21%, Germany 19%, Sweden 8%, Netherlands 7%, China 6% (2021)<br>
@@ -508,9 +521,10 @@ United Kingdom 21%, Germany 19%, Sweden 8%, Netherlands 7%, China 6% (2021)<br>
 natural gas, crude petroleum, salmon, refined petroleum, aluminum (2021)<br>
 
 **Imports**<br>
-$140.444 billion (2021 est.) note: data are in current year dollars<br>
-$119.632 billion (2020 est.) note: data are in current year dollars<br>
-$140.211 billion (2019 est.) note: data are in current year dollars<br>
+$156.892 billion (2022 est.)<br>
+$140.331 billion (2021 est.) note: data are in current year dollars<br>
+$121.662 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Sweden 18%, Germany 12%, China 10%, Denmark 6%, United States 5% (2021)<br>
@@ -519,9 +533,10 @@ Sweden 18%, Germany 12%, China 10%, Denmark 6%, United States 5% (2021)<br>
 cars, refined petroleum, broadcasting equipment, computers, ships, nickel (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$84.271 billion (31 December 2021 est.)<br>
-$75.259 billion (31 December 2020 est.)<br>
-$66.946 billion (31 December 2019 est.)<br>
+$72.077 billion (2022 est.)<br>
+$84.271 billion (2021 est.)<br>
+$75.259 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $651.04 billion (2019 est.)<br>
@@ -530,11 +545,11 @@ $648.878 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Norwegian kroner (NOK) per US dollar -<br>
+9.614 (2022 est.)<br>
 8.59 (2021 est.)<br>
 9.416 (2020 est.)<br>
 8.8 (2019 est.)<br>
 8.133 (2018 est.)<br>
-8.272 (2017 est.)<br>
 
 ## Energy
 

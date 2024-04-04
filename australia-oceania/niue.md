@@ -302,20 +302,11 @@ $18.7 million (2021 est.)<br>
 $19.9 million (2020 est.)<br>
 $20.9 million (2019 est.)<br>
 
-**Real GDP growth rate**<br>
-6.2% (2003 est.)<br>
-
 **Real GDP per capita**<br>
 $11,100 (2021 est.)<br>
 $11,800 (2020 est.)<br>
 $12,400 (2019 est.)<br>
 <strong>note:</strong> data are in 2009 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$10.01 million (2003) (2003)<br>
-
-**Inflation rate (consumer prices)**<br>
-4% (2005)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 23.5% (2003)<br>
@@ -327,15 +318,6 @@ coconuts, taro, fruit, sweet potatoes, tropical fruit, yams, vegetables, lemons,
 
 **Industries**<br>
 handicrafts, food processing<br>
-
-**Industrial production growth rate**<br>
-NA<br>
-
-**Labor force**<br>
-663 (2001)<br>
-
-**Unemployment rate**<br>
-12% (2001)<br>
 
 **Population below poverty line**<br>
 NA<br>

@@ -400,29 +400,32 @@ _selected World Heritage Site locales_: Memorial sites of the Genocide: Nyamata,
 fast-growing Sub-Saharan economy; major public investments; trade and tourism hit hard by COVID-19; increasing poverty after 2 decades of declines; Ugandan competition for regional influence; major coffee exporter; contested GDP figures<br>
 
 **Real GDP (purchasing power parity)**<br>
-$30.141 billion (2021 est.)<br>
-$27.182 billion (2020 est.)<br>
-$28.127 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$32.579 billion (2022 est.)<br>
+$30.121 billion (2021 est.)<br>
+$27.167 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+8.16% (2022 est.)<br>
 10.88% (2021 est.)<br>
--3.36% (2020 est.)<br>
-9.46% (2019 est.)<br>
+-3.38% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,400 (2022 est.)<br>
 $2,200 (2021 est.)<br>
 $2,100 (2020 est.)<br>
-$2,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$9.136 billion (2017 est.)<br>
+$13.311 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+17.69% (2022 est.)<br>
 -0.39% (2021 est.)<br>
 9.85% (2020 est.)<br>
-3.35% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2014)<br>
@@ -450,15 +453,18 @@ bananas, sweet potatoes, cassava, potatoes, plantains, beans, maize, gourds, mil
 cement, agricultural products, small-scale beverages, soap, furniture, shoes, plastic goods, textiles, cigarettes<br>
 
 **Industrial production growth rate**<br>
-13.4% (2021 est.)<br>
+4.97% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-6.776 million (2021 est.)<br>
+5.1 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.61% (2021 est.)<br>
-1.49% (2020 est.)<br>
-1.1% (2019 est.)<br>
+15.08% (2022 est.)<br>
+15.79% (2021 est.)<br>
+11.83% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 2.9% (2021 est.)<br>
@@ -467,18 +473,22 @@ _female_: 3.6%<br>
 
 **Population below poverty line**<br>
 38.2% (2016 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 43.7 (2016 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.1%<br>
-_highest 10%_: 43.2% (2011 est.)<br>
+_lowest 10%_: 2.4%<br>
+_highest 10%_: 35.6% (2016 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+3.56% of GDP (2022 est.)<br>
+3.54% of GDP (2021 est.)<br>
 2.75% of GDP (2020 est.)<br>
-2.52% of GDP (2019 est.)<br>
-2.7% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $2.393 billion (2019 est.)<br>
@@ -492,20 +502,23 @@ _expenditures_: $2.919 billion (2019 est.)<br>
 37.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-15.06% (of GDP) (2020 est.)<br>
+15.08% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.209 billion (2021 est.)<br>
--$1.228 billion (2020 est.)<br>
--$1.231 billion (2019 est.)<br>
+-$1,301,158,000 (2022 est.)<br>
+-$1,209,211,000 (2021 est.)<br>
+-$1,227,521,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$2.993 billion (2022 est.)<br>
 $2.11 billion (2021 est.) note: data are in current year dollars<br>
 $1.929 billion (2020 est.) note: data are in current year dollars<br>
-$2.255 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United Arab Emirates 35%, Democratic Republic of the Congo 28%, Uganda 5% (2019)<br>
@@ -514,9 +527,10 @@ United Arab Emirates 35%, Democratic Republic of the Congo 28%, Uganda 5% (2019)
 gold, refined petroleum, coffee, tea, tin (2019)<br>
 
 **Imports**<br>
+$4.98 billion (2022 est.)<br>
 $3.856 billion (2021 est.) note: data are in current year dollars<br>
 $3.578 billion (2020 est.) note: data are in current year dollars<br>
-$3.737 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 17%, Kenya 10%, Tanzania 9%, United Arab Emirates 9%, India 7%, Saudi Arabia 5% (2019)<br>
@@ -525,9 +539,10 @@ China 17%, Kenya 10%, Tanzania 9%, United Arab Emirates 9%, India 7%, Saudi Arab
 refined petroleum, gold, raw sugar, packaged medicines, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.895 billion (31 December 2021 est.)<br>
-$1.806 billion (31 December 2020 est.)<br>
-$1.465 billion (31 December 2019 est.)<br>
+$1.726 billion (2022 est.)<br>
+$1.867 billion (2021 est.)<br>
+$1.72 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $3.258 billion (31 December 2017 est.)<br>
@@ -535,11 +550,11 @@ $2.611 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Rwandan francs (RWF) per US dollar -<br>
+1,030.308 (2022 est.)<br>
 988.625 (2021 est.)<br>
 943.278 (2020 est.)<br>
 899.351 (2019 est.)<br>
 861.093 (2018 est.)<br>
-831.554 (2017 est.)<br>
 
 ## Energy
 
@@ -701,6 +716,6 @@ has a small program focused on developing and utilizing space technologies, such
 <p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 79,684 (Democratic Republic of the Congo), 48,533 (Burundi) (2024)<br>
+_refugees (country of origin)_: 79,720 (Democratic Republic of the Congo), 48,533 (Burundi) (2024)<br>
 _stateless persons_: 9,500 (2022)<br>
 

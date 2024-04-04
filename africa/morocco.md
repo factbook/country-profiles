@@ -430,29 +430,32 @@ _selected World Heritage Site locales_: Medina of Fez; Medina of Marrakesh; Ksar
 lower middle-income North African economy; ongoing recovery from recent drought; rebounding via tourism, manufacturing, and aeronautics industries; major US free trade agreement; developing energy exporter&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
-$303.336 billion (2021 est.)<br>
-$281.049 billion (2020 est.)<br>
-$302.813 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$307.442 billion (2022 est.)<br>
+$303.621 billion (2021 est.)<br>
+$281.076 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-7.93% (2021 est.)<br>
--7.19% (2020 est.)<br>
-2.89% (2019 est.)<br>
+1.26% (2022 est.)<br>
+8.02% (2021 est.)<br>
+-7.18% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$8,100 (2022 est.)<br>
 $8,100 (2021 est.)<br>
 $7,500 (2020 est.)<br>
-$8,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$118.858 billion (2019 est.)<br>
+$130.913 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.66% (2022 est.)<br>
 1.4% (2021 est.)<br>
 0.71% (2020 est.)<br>
-0.3% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB+ (2020)<br>
@@ -480,15 +483,18 @@ wheat, sugar beet, milk, potatoes, olives, tangerines/mandarins, tomatoes, orang
 automotive parts, phosphate mining and processing, aerospace, food processing, leather goods, textiles, construction, energy, tourism<br>
 
 **Industrial production growth rate**<br>
-6.84% (2021 est.)<br>
+-1.7% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-11.814 million (2021 est.)<br>
+12.183 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.47% (2021 est.)<br>
-11.45% (2020 est.)<br>
-9.28% (2019 est.)<br>
+9.99% (2022 est.)<br>
+11.22% (2021 est.)<br>
+11.73% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 27.2% (2021 est.)<br>
@@ -498,9 +504,11 @@ _female_: 28.7%<br>
 
 **Population below poverty line**<br>
 4.8% (2013 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 39.5 (2013 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 34% of household expenditures (2018 est.)<br>
@@ -508,12 +516,14 @@ _on alcohol and tobacco_: 1.4% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
-_highest 10%_: 33.2% (2007)<br>
+_highest 10%_: 31.9% (2013 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-7.49% of GDP (2021 est.)<br>
+8.53% of GDP (2022 est.)<br>
+7.69% of GDP (2021 est.)<br>
 6.11% of GDP (2020 est.)<br>
-5.4% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $30.697 billion (2019 est.)<br>
@@ -527,20 +537,23 @@ _expenditures_: $35.591 billion (2019 est.)<br>
 64.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-20.02% (of GDP) (2020 est.)<br>
+22.12% (of GDP) (2022 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$3.261 billion (2021 est.)<br>
--$1.368 billion (2020 est.)<br>
--$4.407 billion (2019 est.)<br>
+-$4,775,206,000 (2022 est.)<br>
+-$3,348,692,000 (2021 est.)<br>
+-$1,368,383,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$47.078 billion (2021 est.) note: data are in current year dollars<br>
+$58.556 billion (2022 est.)<br>
+$47.09 billion (2021 est.) note: data are in current year dollars<br>
 $37.545 billion (2020 est.) note: data are in current year dollars<br>
-$44.048 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Spain 20%, France 19%, India 5%, Brazil 5%, Italy 5% (2021)<br>
@@ -549,9 +562,10 @@ Spain 20%, France 19%, India 5%, Brazil 5%, Italy 5% (2021)<br>
 cars, fertilizers, insulated wiring, phosphoric acid, clothing and apparel (2021)<br>
 
 **Imports**<br>
-$60.047 billion (2021 est.) note: data are in current year dollars<br>
+$73.783 billion (2022 est.)<br>
+$60.215 billion (2021 est.) note: data are in current year dollars<br>
 $46.358 billion (2020 est.) note: data are in current year dollars<br>
-$54.097 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Spain 19%, France 11%, China 9%, United States 7%, Germany 5%, Turkey 5%, Italy 5% (2019)<br>
@@ -560,9 +574,10 @@ Spain 19%, France 11%, China 9%, United States 7%, Germany 5%, Turkey 5%, Italy 
 refined petroleum, cars and vehicle parts, natural gas, wheat, coal (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$35.648 billion (31 December 2021 est.)<br>
-$35.998 billion (31 December 2020 est.)<br>
-$26.413 billion (31 December 2019 est.)<br>
+$32.314 billion (2022 est.)<br>
+$35.648 billion (2021 est.)<br>
+$35.998 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $52.957 billion (2019 est.)<br>
@@ -570,11 +585,11 @@ $51.851 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Moroccan dirhams (MAD) per US dollar -<br>
+10.161 (2022 est.)<br>
 8.988 (2021 est.)<br>
 9.497 (2020 est.)<br>
 9.617 (2019 est.)<br>
 9.386 (2018 est.)<br>
-9.692 (2017 est.)<br>
 
 ## Energy
 

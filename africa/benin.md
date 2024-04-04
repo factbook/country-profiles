@@ -399,29 +399,32 @@ _selected World Heritage Site locales_: Royal Palaces of Abomey (c); W-Arly-Pend
 robust economic growth; slightly declining but still widespread poverty; strong trade relations with Nigeria; cotton exporter; COVID-19 has led to capital outflows and border closures; WAEMU member with currency pegged to the euro; recent fiscal deficit and debt reductions<br>
 
 **Real GDP (purchasing power parity)**<br>
+$45.869 billion (2022 est.)<br>
 $43.17 billion (2021 est.)<br>
 $40.287 billion (2020 est.)<br>
-$38.794 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+6.25% (2022 est.)<br>
 7.16% (2021 est.)<br>
 3.85% (2020 est.)<br>
-6.87% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$3,400 (2022 est.)<br>
 $3,300 (2021 est.)<br>
 $3,200 (2020 est.)<br>
-$3,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$10.315 billion (2018 est.)<br>
+$17.397 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+1.35% (2022 est.)<br>
 1.73% (2021 est.)<br>
 3.02% (2020 est.)<br>
--0.71% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2019)<br>
@@ -449,15 +452,18 @@ cassava, yams, maize, cotton, oil palm fruit, rice, pineapples, tomatoes, vegeta
 textiles, food processing, construction materials, cement<br>
 
 **Industrial production growth rate**<br>
-9.12% (2021 est.)<br>
+7.89% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.295 million (2021 est.)<br>
+4.797 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.57% (2021 est.)<br>
-1.58% (2020 est.)<br>
-1.47% (2019 est.)<br>
+1.48% (2022 est.)<br>
+1.78% (2021 est.)<br>
+1.62% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 3.9% (2021 est.)<br>
@@ -465,19 +471,23 @@ _male_: 3.1%<br>
 _female_: 4.6%<br>
 
 **Population below poverty line**<br>
-38.5% (2019 est.)<br>
+38.5% (2018 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-37.8 (2018 est.)<br>
+37.9 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.1%<br>
-_highest 10%_: 29% (2003)<br>
+_lowest 10%_: 2.9%<br>
+_highest 10%_: 30% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.31% of GDP (2020 est.)<br>
-1.51% of GDP (2019 est.)<br>
-1.39% of GDP (2018 est.)<br>
+1.33% of GDP (2022 est.)<br>
+1.31% of GDP (2021 est.)<br>
+1.3% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $2.024 billion (2019 est.)<br>
@@ -497,15 +507,16 @@ _expenditures_: $2.101 billion (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
+-$734.659 million (2021 est.)<br>
 -$273.967 million (2020 est.)<br>
 -$575.593 million (2019 est.)<br>
--$648.825 million (2018 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$4.154 billion (2021 est.)<br>
 $3.506 billion (2020 est.)<br>
 $3.585 billion (2019 est.)<br>
-$3.848 billion (2018 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Nigeria 25%, Bangladesh 14%, United Arab Emirates 14%, India 13%, China 8%, Vietnam 5% (2019)<br>
@@ -514,9 +525,10 @@ Nigeria 25%, Bangladesh 14%, United Arab Emirates 14%, India 13%, China 8%, Viet
 gold, cotton, cashews, refined petroleum, soybeans (2021)<br>
 
 **Imports**<br>
+$4.925 billion (2021 est.)<br>
 $3.942 billion (2020 est.) note: data are in current year dollars<br>
 $4.307 billion (2019 est.) note: data are in current year dollars<br>
-$4.669 billion (2018 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 28%, Thailand 9%, India 8%, Togo 6%, United States 5% (2019)<br>
@@ -534,11 +546,11 @@ $2.476 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+623.937 (2022 est.)<br>
 554.608 (2021 est.)<br>
 574.295 (2020 est.)<br>
 585.951 (2019 est.)<br>
 555.446 (2018 est.)<br>
-580.657 (2017 est.)<br>
 
 ## Energy
 

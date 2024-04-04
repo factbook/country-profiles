@@ -409,29 +409,32 @@ _selected World Heritage Site locales_: L'Anse aux Meadows (c); Canadian Rocky M
 one of the world&rsquo;s largest economies; leading global financier and macroeconomic partner; largest US trading partner; key timber and oil and gas industries; Canada sends over half its development aid to the World Bank; key &ldquo;blue economy&rdquo; developer<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.832 trillion (2021 est.)<br>
-$1.752 trillion (2020 est.)<br>
-$1.849 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$1.907 trillion (2022 est.)<br>
+$1.843 trillion (2021 est.)<br>
+$1.755 trillion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.54% (2021 est.)<br>
--5.23% (2020 est.)<br>
-1.88% (2019 est.)<br>
+3.44% (2022 est.)<br>
+5.01% (2021 est.)<br>
+-5.07% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$47,900 (2021 est.)<br>
-$46,100 (2020 est.)<br>
-$49,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$49,000 (2022 est.)<br>
+$48,200 (2021 est.)<br>
+$46,200 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1,741,865,000,000 (2019 est.)<br>
+$2.138 trillion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.8% (2022 est.)<br>
 3.4% (2021 est.)<br>
 0.72% (2020 est.)<br>
-1.95% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA+ (2020)<br>
@@ -459,15 +462,18 @@ wheat, rapeseed, maize, barley, milk, soybeans, potatoes, oats, peas, pork<br>
 transportation equipment, chemicals, processed and unprocessed minerals, food products, wood and paper products, fish products, petroleum, natural gas<br>
 
 **Industrial production growth rate**<br>
-4.74% (2021 est.)<br>
+3.21% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-21.017 million (2021 est.)<br>
+21.363 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.51% (2021 est.)<br>
-9.46% (2020 est.)<br>
-5.66% (2019 est.)<br>
+5.28% (2022 est.)<br>
+7.53% (2021 est.)<br>
+9.66% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 14% (2021 est.)<br>
@@ -479,20 +485,23 @@ _female_: 13.1%<br>
 <strong>note:</strong> this figure is the Low Income Cut-Off, a calculation that results in higher figures than found in many comparable economies; Canada does not have an official poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-33.3 (2017 est.)<br>
+31.7 (2019 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 9.1% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 3.3% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.6%<br>
-_highest 10%_: 24.8% (2000)<br>
+_lowest 10%_: 2.9%<br>
+_highest 10%_: 24.4% (2019 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.04% of GDP (2022 est.)<br>
 0.04% of GDP (2021 est.)<br>
 0.05% of GDP (2020 est.)<br>
-0.08% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $686.718 billion (2020 est.)<br>
@@ -502,27 +511,29 @@ _expenditures_: $861.955 billion (2020 est.)<br>
 -1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-72.09% of GDP (2020 est.)<br>
-48.01% of GDP (2019 est.)<br>
-48.18% of GDP (2018 est.)<br>
-<strong>note:</strong> figures are for gross general government debt, as opposed to net federal debt; gross general government debt includes both intragovernmental debt and the debt of public entities at the sub-national level<br>
+61.42% of GDP (2022 est.)<br>
+71.07% of GDP (2021 est.)<br>
+74.55% of GDP (2020 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-13.3% (of GDP) (2020 est.)<br>
+12.83% (of GDP) (2022 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
-$826.662 million (2021 est.)<br>
--$29.216 billion (2020 est.)<br>
--$35.434 billion (2019 est.)<br>
+-$6.654 billion (2022 est.)<br>
+-$5.448 billion (2021 est.)<br>
+-$35.373 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$611.146 billion (2021 est.)<br>
-$484.226 billion (2020 est.)<br>
-$561.63 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$722.831 billion (2022 est.)<br>
+$618.761 billion (2021 est.)<br>
+$490.107 billion (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 US 73% (2019)<br>
@@ -531,9 +542,10 @@ US 73% (2019)<br>
 crude petroleum, cars and vehicle parts, natural gas, gold, lumber (2021)<br>
 
 **Imports**<br>
-$609.256 billion (2021 est.) note: data are in current year dollars<br>
-$517.964 billion (2020 est.) note: data are in current year dollars<br>
-$589.037 billion (2019 est.) note: data are in current year dollars<br>
+$719.339 billion (2022 est.)<br>
+$619.639 billion (2021 est.) note: data are in current year dollars<br>
+$526.936 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 US 57%, China 11%, Mexico 5% (2019)<br>
@@ -542,9 +554,10 @@ US 57%, China 11%, Mexico 5% (2019)<br>
 cars and vehicle parts, delivery trucks, crude petroleum, refined petroleum (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$106.615 billion (31 December 2021 est.)<br>
-$90.428 billion (31 December 2020 est.)<br>
-$85.297 billion (31 December 2019 est.)<br>
+$106.952 billion (2022 est.)<br>
+$106.615 billion (2021 est.)<br>
+$90.428 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2,124,887,000,000 (2019 est.)<br>
@@ -552,11 +565,11 @@ $1,949,796,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Canadian dollars (CAD) per US dollar -<br>
+1.302 (2022 est.)<br>
 1.254 (2021 est.)<br>
 1.341 (2020 est.)<br>
 1.327 (2019 est.)<br>
 1.296 (2018 est.)<br>
-1.298 (2017 est.)<br>
 
 ## Energy
 
@@ -681,8 +694,8 @@ _total_: 49,422 km (2021) note: 129 km electrified (2021)<br>
 _standard gauge_: 49,422 km (2021) 1.435-m gauge<br>
 
 **Roadways**<br>
-_total_: 1,042,300 km (2011)<br>
-_paved_: 415,600 km (2011) (includes 17,000 km of expressways)<br>
+_total_: 1,042,300 km<br>
+_paved_: 415,600 km (includes 17,000 km of expressways)<br>
 _unpaved_: 626,700 km (2011)<br>
 
 **Waterways**<br>

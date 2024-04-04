@@ -429,30 +429,32 @@ in 2018, the Beijing established an investigatory National Supervisory Commissio
 one of the world&rsquo;s top two economies; sustained growth due to export relations, its manufacturing sector, and low-wage workers; only major economy to avoid COVID-19 economic decline; recovery efforts slowing due to longstanding poverty imbalances and other institutional issues; state-sponsored economic controls<br>
 
 **Real GDP (purchasing power parity)**<br>
-$24.861 trillion (2021 est.)<br>
+$25.684 trillion (2022 est.)<br>
+$24.939 trillion (2021 est.)<br>
 $22.996 trillion (2020 est.)<br>
-$22.493 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-8.11% (2021 est.)<br>
+2.99% (2022 est.)<br>
+8.45% (2021 est.)<br>
 2.24% (2020 est.)<br>
-5.95% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$17,600 (2021 est.)<br>
+$18,200 (2022 est.)<br>
+$17,700 (2021 est.)<br>
 $16,300 (2020 est.)<br>
-$16,000 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$14,327,359,000,000 (2019 est.)<br>
-<strong>note:</strong> because China's exchange rate is determined by fiat rather than by market forces, the official exchange rate measure of GDP is not an accurate measure of China's output; GDP at the official exchange rate substantially understates the actual level of China's output vis-a-vis the rest of the world; in China's situation, GDP at purchasing power parity provides the best measure for comparing output across countries<br>
+$17.963 trillion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+1.97% (2022 est.)<br>
 0.98% (2021 est.)<br>
 2.42% (2020 est.)<br>
-2.9% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A+ (2007)<br>
@@ -480,17 +482,18 @@ maize, rice, vegetables, wheat, sugar cane, potatoes, cucumbers, tomatoes, water
 world leader in gross value of industrial output; mining and ore processing, iron, steel, aluminum, and other metals, coal; machine building; armaments; textiles and apparel; petroleum; cement; chemicals; fertilizer; consumer products (including footwear, toys, and electronics); food processing; transportation equipment, including automobiles, railcars and locomotives, ships, aircraft; telecommunications equipment, commercial space launch vehicles, satellites<br>
 
 **Industrial production growth rate**<br>
-8.22% (2021 est.)<br>
+3.76% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-791.383 million (2021 est.)<br>
-<strong>note:</strong> by the end of 2012, China's working age population (15-64 years) was 1.004 billion<br>
+781.808 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.82% (2021 est.)<br>
+4.98% (2022 est.)<br>
+4.55% (2021 est.)<br>
 5% (2020 est.)<br>
-4.52% (2019 est.)<br>
-<strong>note:</strong> data are for registered urban unemployment, which excludes private enterprises and migrants<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.4% (2021 est.)<br>
@@ -498,24 +501,27 @@ _male_: 12.1%<br>
 _female_: 10.4%<br>
 
 **Population below poverty line**<br>
-0.6% (2019 est.)<br>
+0% (2020 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-38.2 (2019 est.)<br>
+37.1 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 21.6% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 2.5% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.1%<br>
-_highest 10%_: 31.4% (2012)<br>
-<strong>note:</strong> data are for urban households only<br>
+_lowest 10%_: 3.1%<br>
+_highest 10%_: 29.4% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.15% of GDP (2022 est.)<br>
 0.13% of GDP (2021 est.)<br>
 0.13% of GDP (2020 est.)<br>
-0.13% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $3.983 trillion (2019 est.)<br>
@@ -530,21 +536,23 @@ _expenditures_: $4.893 trillion (2019 est.)<br>
 <strong>note:</strong> official data; data cover both central and local government debt, including debt officially recognized by China's National Audit Office report in 2011; data exclude policy bank bonds, Ministry of Railway debt, and China Asset Management Company debt<br>
 
 **Taxes and other revenues**<br>
-8.09% (of GDP) (2020 est.)<br>
+7.97% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$317.301 billion (2021 est.)<br>
+$401.855 billion (2022 est.)<br>
+$352.886 billion (2021 est.)<br>
 $248.836 billion (2020 est.)<br>
-$102.91 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$3.554 trillion (2021 est.)<br>
+$3.716 trillion (2022 est.)<br>
+$3.555 trillion (2021 est.)<br>
 $2.739 trillion (2020 est.)<br>
-$2.631 trillion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 17%, Hong Kong 10%, Japan 6% (2019)<br>
@@ -553,9 +561,10 @@ United States 17%, Hong Kong 10%, Japan 6% (2019)<br>
 broadcasting equipment, computers, integrated circuits, office machinery and parts, telephones (2021)<br>
 
 **Imports**<br>
-$3.091 trillion (2021 est.) note: data are in current year dollars<br>
+$3.139 trillion (2022 est.)<br>
+$3.094 trillion (2021 est.) note: data are in current year dollars<br>
 $2.38 trillion (2020 est.) note: data are in current year dollars<br>
-$2.499 trillion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 South Korea 9%, Japan 8%, Australia 7%, Germany 7%, US 7%, Taiwan 6% (2019)<br>
@@ -564,9 +573,10 @@ South Korea 9%, Japan 8%, Australia 7%, Germany 7%, US 7%, Taiwan 6% (2019)<br>
 crude petroleum, integrated circuits, iron, natural gas, cars, gold (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.428 trillion (31 December 2021 est.)<br>
-$3.357 trillion (31 December 2020 est.)<br>
-$3.223 trillion (31 December 2019 est.)<br>
+$3.307 trillion (2022 est.)<br>
+$3.428 trillion (2021 est.)<br>
+$3.357 trillion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2,027,950,000,000 (2019 est.)<br>
@@ -574,11 +584,11 @@ $1,935,206,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Renminbi yuan (RMB) per US dollar -<br>
+6.737 (2022 est.)<br>
 6.449 (2021 est.)<br>
 6.901 (2020 est.)<br>
 6.908 (2019 est.)<br>
 6.616 (2018 est.)<br>
-6.759 (2017 est.)<br>
 
 ## Energy
 
@@ -767,7 +777,7 @@ has a large, comprehensive, and ambitious space program and is considered one of
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>China-India: </em>continue their security and foreign policy dialogue started in 2005 related to a number of boundary disputes across the 2,000 mile shared border; India does not recognize Pakistan's 1964 ceding to China of the Aksai Chin, a territory designated as part of the princely state of Kashmir by the British Survey of India in 1865; China claims most of the Indian state Arunachal Pradesh to the base of the Himalayas, but the US recognizes the state of Arunachal Pradesh as Indian territory<br><br><em>China-Bhutan:</em> continue negotiations to establish a common boundary alignment to resolve territorial disputes arising from substantial cartographic discrepancies, the most contentious of which lie in Bhutan's west along China's Chumbi salient<br><br><em>China-North Korea:</em> certain islands in the Yalu and Tumen Rivers are in dispute with North Korea; both countries seek to stem illegal migration to China by North Koreans fleeing privation and oppression<br><br><em>China-Russia:</em> in 2023, Russia rejected a new PRC map that laid claim to Bolshoi Ussuriysky Island in its entirety as Chinese territory; this move undermined a 2004 Agreement in which Russia and China demarcated long-disputed islands at the Amuri and Ussuri confluence and in the Argun River<br><br><em>China-Tajikistan:</em> have begun demarcating the revised boundary agreed to in the delimitation of 2002<br><br><em>Southeast Asia:</em> the decade-long demarcation of the China-Vietnam land boundary was completed in 2009; citing environmental, cultural, and social concerns, China has reconsidered construction of 13 dams on the Salween River, but energy-starved Burma, with backing from Thailand, continues to consider building five hydro-electric dams downstream despite regional and international protests<br><br><em>Maritime:</em> Chinese maps show an international boundary symbol (the so-called “nine-dash line”) off the coasts of the littoral states of the <em>South China Sea</em>, where China has interrupted Vietnamese hydrocarbon exploration; China asserts sovereignty over <em>Scarborough Reef </em>along with the Philippines and Taiwan, and over the <em>Spratly Islands</em> together with Malaysia, the Philippines, Taiwan, Vietnam, and Brunei; the 2002 Declaration on the Conduct of Parties in the South China Sea eased tensions in the Spratlys, and in 2017 China and ASEAN began confidential negotiations for an updated Code of Conduct for the South China Sea designed not to settle territorial disputes but establish rules and norms in the region; this still is not the legally binding code of conduct sought by some parties; both China and Vietnam continue to expand construction of facilities in the Spratlys, and in early 2018 China began deploying advanced military systems to disputed Spratly outposts; China occupies some of the <em>Paracel Islands</em> also claimed by Vietnam and Taiwan; the Japanese-administered <em>Senkaku Islands</em> are also claimed by China and Taiwan</p><br>
+<p><em>China-India: </em>continue their security and foreign policy dialogue started in 2005 related to a number of boundary disputes across the 2,000 mile shared border; India does not recognize Pakistan's 1964 ceding to China of the Aksai Chin, a territory designated as part of the princely state of Kashmir by the British Survey of India in 1865; China claims most of the Indian state Arunachal Pradesh to the base of the Himalayas, but the US recognizes the state of Arunachal Pradesh as Indian territory<br><br><em>China-Bhutan:</em> continue negotiations to establish a common boundary alignment to resolve territorial disputes arising from substantial cartographic discrepancies, the most contentious of which lie in Bhutan's west along China's Chumbi salient<br><br><em>China-North Korea:</em> certain islands in the Yalu and Tumen Rivers are in dispute with North Korea; both countries seek to stem illegal migration to China by North Koreans fleeing privation and oppression<br><br><em>China-Russia:</em> in 2023, Russia rejected a new PRC map that laid claim to Bolshoi Ussuriysky Island in its entirety as Chinese territory; this move undermined a 2004 Agreement in which Russia and China demarcated long-disputed islands at the Amuri and Ussuri confluence and in the Argun River<br><br><em>China-Tajikistan:</em> have begun demarcating the revised boundary agreed to in the delimitation of 2002<br><br><em>Southeast Asia:</em> the decade-long demarcation of the China-Vietnam land boundary was completed in 2009; citing environmental, cultural, and social concerns, China has reconsidered construction of 13 dams on the Salween River, but energy-starved Burma, with backing from Thailand, continues to consider building five hydro-electric dams downstream despite regional and international protests<br><br><em>Maritime:</em> Chinese maps show an international boundary symbol (the so-called “nine-dash line”) off the coasts of the littoral states of the South China Sea, where China has interrupted Vietnamese hydrocarbon exploration; China asserts sovereignty over Scarborough Reef along with the Philippines and Taiwan, and over the Spratly Islands together with Malaysia, the Philippines, Taiwan, Vietnam, and Brunei; the 2002 Declaration on the Conduct of Parties in the South China Sea eased tensions in the Spratlys, and in 2017 China and ASEAN began confidential negotiations for an updated Code of Conduct for the South China Sea designed not to settle territorial disputes but establish rules and norms in the region; this still is not the legally binding code of conduct sought by some parties; both China and Vietnam continue to expand construction of facilities in the Spratlys, and in early 2018 China began deploying advanced military systems to disputed Spratly outposts; China occupies some of the Paracel Islands also claimed by Vietnam and Taiwan; the Japanese-administered Senkaku Islands are also claimed by China and Taiwan</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 303,107 (Vietnam), undetermined (North Korea) (mid-year 2021)<br>

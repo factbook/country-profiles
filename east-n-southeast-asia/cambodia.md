@@ -399,29 +399,32 @@ _selected World Heritage Site locales_: Angkor; Temple of Preah Vihear; Sambor P
 one of the fastest growing Southeast Asian economies; rebounding tourism and clothing exports; substantial manufacturing and construction sectors; new trade agreements expanding agricultural markets; significant public debt; investing in new ports and roads<br>
 
 **Real GDP (purchasing power parity)**<br>
+$76.023 billion (2022 est.)<br>
 $72.238 billion (2021 est.)<br>
 $70.116 billion (2020 est.)<br>
-$72.356 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+5.24% (2022 est.)<br>
 3.03% (2021 est.)<br>
 -3.1% (2020 est.)<br>
-7.05% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$4,500 (2022 est.)<br>
 $4,400 (2021 est.)<br>
 $4,300 (2020 est.)<br>
-$4,500 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$22.09 billion (2017 est.)<br>
+$29.505 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.34% (2022 est.)<br>
 2.92% (2021 est.)<br>
 2.94% (2020 est.)<br>
-1.94% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B2 (2007)<br>
@@ -448,16 +451,18 @@ cassava, rice, maize, vegetables, sugar cane, soybeans, rubber, oil palm fruit, 
 tourism, garments, construction, rice milling, fishing, wood and wood products, rubber, cement, gem mining, textiles<br>
 
 **Industrial production growth rate**<br>
-9.37% (2021 est.)<br>
+8.85% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-9.345 million (2021 est.)<br>
+9.057 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-0.61% (2021 est.)<br>
-0.33% (2020 est.)<br>
-0.15% (2019 est.)<br>
-<strong>note:</strong> high underemployment, according to official statistics<br>
+0.23% (2022 est.)<br>
+0.4% (2021 est.)<br>
+0.17% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 1.8% (2021 est.)<br>
@@ -479,9 +484,10 @@ _lowest 10%_: 2%<br>
 _highest 10%_: 28% (2013 est.)<br>
 
 **Remittances**<br>
-4.28% of GDP (2021 est.)<br>
-4.92% of GDP (2020 est.)<br>
-5.63% of GDP (2019 est.)<br>
+8.87% of GDP (2022 est.)<br>
+9.42% of GDP (2021 est.)<br>
+10% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $7.254 billion (2019 est.)<br>
@@ -495,21 +501,23 @@ _expenditures_: $6.452 billion (2019 est.)<br>
 29.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-17.89% (of GDP) (2020 est.)<br>
+16.36% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$12.321 billion (2021 est.)<br>
--$2.197 billion (2020 est.)<br>
--$4.065 billion (2019 est.)<br>
+-$7.582 billion (2022 est.)<br>
+-$10.893 billion (2021 est.)<br>
+-$881.214 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$20.126 billion (2021 est.)<br>
+$25.497 billion (2022 est.)<br>
+$20.178 billion (2021 est.)<br>
 $20.29 billion (2020 est.)<br>
-$21.072 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 35%, China 7%, Germany 7%, Vietnam 7%, Japan 6% (2021)<br>
@@ -519,9 +527,10 @@ clothing and footwear, trunks and cases, rice, rubber, light fixtures (2021)<br>
 <strong>note:</strong> Cambodian methamphetamine production remains a significant illicit trade export<br>
 
 **Imports**<br>
-$32.83 billion (2021 est.) note: data are in current year dollars<br>
+$34.759 billion (2022 est.)<br>
+$32.816 billion (2021 est.) note: data are in current year dollars<br>
 $23.091 billion (2020 est.) note: data are in current year dollars<br>
-$25.516 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 27%, Singapore 27%, Thailand 16%, Vietnam 12%, Hong Kong 2% (2021)<br>
@@ -530,9 +539,10 @@ China 27%, Singapore 27%, Thailand 16%, Vietnam 12%, Hong Kong 2% (2021)<br>
 gold, refined petroleum, clothing, motorcycle parts, cars (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$20.27 billion (31 December 2021 est.)<br>
-$21.328 billion (31 December 2020 est.)<br>
-$18.771 billion (31 December 2019 est.)<br>
+$17.801 billion (2022 est.)<br>
+$20.27 billion (2021 est.)<br>
+$21.328 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $11.87 billion (31 December 2017 est.)<br>
@@ -540,11 +550,11 @@ $10.3 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: riels (KHR) per US dollar -<br>
+4,102.038 (2022 est.)<br>
 4,098.723 (2021 est.)<br>
 4,092.783 (2020 est.)<br>
 4,061.149 (2019 est.)<br>
 4,051.167 (2018 est.)<br>
-4,050.58 (2017 est.)<br>
 
 ## Energy
 
@@ -662,8 +672,8 @@ _narrow gauge_: 642 km (2014) 1.000-m gauge<br>
 <strong>note:</strong> under restoration<br>
 
 **Roadways**<br>
-_total_: 61,810 km (2021)<br>
-_paved_: 15,000 km (2021)<br>
+_total_: 61,810 km<br>
+_paved_: 15,000 km<br>
 _unpaved_: 46,810 km (2021)<br>
 
 **Waterways**<br>

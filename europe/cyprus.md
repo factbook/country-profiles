@@ -394,30 +394,32 @@ services-based, high-income EU island economy; heavy tourism; sustained growth b
 <strong>note: </strong>Even though the whole of the island is part of the EU, implementation of the EU "acquis communautaire" has been suspended in the area administered by Turkish Cypriots, known locally as the Turkish Republic of Northern Cyprus, until political conditions permit the reunification of the island. Its market-based economy is roughly one-fifth the size of its southern neighbor and is likewise dominated by the service sector with a large portion of the population employed by the government. Manufacturing is limited mainly to food and beverages, furniture and fixtures, construction materials, metal and non-metal products, textiles and clothing. Little trade exists with the Republic of Cyprus outside of construction, historically relying heavily upon Turkey for financial aid, defense, telecommunications, utilities, and postal services. The Turkish Lira is the preferred currency, though foreign currencies are widely accepted in business transactions.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$37.546 billion (2021 est.)<br>
-$35.209 billion (2020 est.)<br>
-$36.819 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br><br><strong>note:</strong> area administered by Turkish Cypriots - $1.829 billion (2007 est.)<br>
+$41.068 billion (2022 est.)<br>
+$39.091 billion (2021 est.)<br>
+$35.566 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.64% (2021 est.)<br>
--4.37% (2020 est.)<br>
-5.53% (2019 est.)<br>
-<strong>note: </strong>area administered by Turkish Cypriots - -16.2% (2020 est.)<br>
+5.06% (2022 est.)<br>
+9.91% (2021 est.)<br>
+-3.39% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$41,700 (2021 est.)<br>
-$39,500 (2020 est.)<br>
-$41,700 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br><strong><br>note:</strong> area administered by Turkish Cypriots - $11,700 (2007 est.)<br>
+$45,000 (2022 est.)<br>
+$43,400 (2021 est.)<br>
+$39,900 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$24.946 billion (2019 est.)<br>
+$29.251 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.4% (2022 est.)<br>
 2.45% (2021 est.)<br>
 -0.64% (2020 est.)<br>
-0.25% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2018)<br>
@@ -448,18 +450,18 @@ tourism, food and beverage processing, cement and gypsum, ship repair and refurb
 <strong>note:</strong> area administered by Turkish Cypriots - foodstuffs, textiles, clothing, ship repair, clay, gypsum, copper, furniture<br>
 
 **Industrial production growth rate**<br>
-8.1% (2021 est.)<br>
-<strong>note:</strong> area administered by Turkish Cypriots - -0.3% (2007 est.)<br>
+-0.66% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-655,100 (2021 est.)<br>
-<strong>note:</strong> area administered by Turkish Cypriots - 95,030 (2007 est.)<br>
+685,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.13% (2021 est.)<br>
-7.59% (2020 est.)<br>
-7.07% (2019 est.)<br>
-<strong>note:</strong> area administered by Turkish Cypriots - 9.4% (2005 est.)<br>
+6.78% (2022 est.)<br>
+7.51% (2021 est.)<br>
+7.76% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.8% (2021 est.)<br>
@@ -467,19 +469,23 @@ _male_: 9.2%<br>
 _female_: 14.9%<br>
 
 **Population below poverty line**<br>
-14.7% (2018 est.)<br>
+13.9% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-31.2 (2019 est.)<br>
+31.7 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.3%<br>
-_highest 10%_: 28.8% (2014)<br>
+_lowest 10%_: 3.5%<br>
+_highest 10%_: 26.3% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.34% of GDP (2021 est.)<br>
-2.13% of GDP (2020 est.)<br>
-2.06% of GDP (2019 est.)<br>
+1.78% of GDP (2022 est.)<br>
+2.13% of GDP (2021 est.)<br>
+2.25% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $10.362 billion (2019 est.)<br>
@@ -495,21 +501,23 @@ _expenditures_: $9.996 billion (2019 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment<br>
 
 **Taxes and other revenues**<br>
-22.42% (of GDP) (2020 est.)<br>
+23.23% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.957 billion (2021 est.)<br>
--$2.523 billion (2020 est.)<br>
--$1.445 billion (2019 est.)<br>
+-$2,357,419,000 (2022 est.)<br>
+-$1,811,810,000 (2021 est.)<br>
+-$2,522,911,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$24.551 billion (2021 est.)<br>
+$27.72 billion (2022 est.)<br>
+$26.303 billion (2021 est.)<br>
 $20.379 billion (2020 est.)<br>
-$19.835 billion (2019 est.)<br>
-<strong>note:</strong> data are in current year dollars and do not include illicit exports or re-exports.<br><br><strong>note:</strong> area administered by Turkish Cypriots - $68.1 million (est. 2007)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 India 9%, Greece 9%, Libya 8%, United Kingdom 7% (2019)<br>
@@ -519,10 +527,10 @@ ships, refined petroleum, packaged medicines, cheese, recreational boats (2021)<
 <strong>note:</strong> area administered by Turkish Cypriots - citrus, dairy, potatoes, textiles<br>
 
 **Imports**<br>
-$23.748 billion (2021 est.) note: data are in current year dollars<br>
+$27.658 billion (2022 est.)<br>
+$25.164 billion (2021 est.) note: data are in current year dollars<br>
 $20.711 billion (2020 est.) note: data are in current year dollars<br>
-$19.575 billion (2019 est.) note: data are in current year dollars<br>
-<strong>note:</strong> area administered by Turkish Cypriots - $1.2 billion (est. 2007)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Greece 16%, Italy 10%, Turkey 8%, Russia 5%, Germany 5%, United Kingdom 5%, China 5% (2019)<br>
@@ -532,9 +540,10 @@ refined petroleum, ships, cars, coal tar oil, packaged medicines (2019)<br>
 <strong>note:</strong> area administered by Turkish Cypriots - vehicles, fuel, cigarettes, food, minerals, chemicals, machinery<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.611 billion (31 December 2021 est.)<br>
-$1.237 billion (31 December 2020 est.)<br>
-$1.033 billion (31 December 2019 est.)<br>
+$1.671 billion (2022 est.)<br>
+$1.611 billion (2021 est.)<br>
+$1.237 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $213.19 billion (2019 est.)<br>
@@ -542,11 +551,11 @@ $231.885 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
 0.847 (2018 est.)<br>
-0.885 (2017 est.)<br>
 
 ## Energy
 

@@ -5,7 +5,7 @@ _Australia-Oceania / Dependencies (United States)_
 ## Introduction
 
 **Background**<br>
-<p>Tutuila was settled by 1000 B.C. and the island served as a refuge for exiled chiefs and defeated warriors from the other Samoan islands. The Manu’a Islands developed its own traditional chiefdom that maintained its autonomy by controlling oceanic trade. In 1722, Dutch explorer Jacob ROGGEVEEN was the first European to sail through the Manu’a Islands, and he was followed by French explorer Louis Antoine DE BOUGAINVILLE in 1768. Whalers and missionaries arrived in American Samoa in the 1830s, but American and European traders tended to favor the port in Apia - now in independent Samoa - over the smaller and less-developed Pago Pago on Tutuila. In the mid-1800s, a dispute arose in Samoa over control of the Samoan archipelago, with different chiefs gaining support from Germany, the UK, and the US. In 1872, the high chief of Tutuila offered the US exclusive rights to Pago Pago in return for US protection, but the US rejected this offer. As fighting resumed, the US agreed to the chief’s request in 1878 and set up a coaling station at Pago Pago. In 1899, with continued disputes over succession, Germany and the US agreed to divide the Samoan islands, while the UK withdrew its claims in exchange for parts of the Solomon Islands. Local chiefs on Tutuila formally ceded their land to the US in 1900, followed by the chief of Manu’a in 1904. The territory was officially named “American Samoa” in 1911.<br><br>The US administered the territory through the Department of the Navy. In 1949, there was an attempt to organize the territory, granting it formal self-government, but local chiefs helped defeat the measure in the US Congress. Administration was transferred to the Department of the Interior in 1951, and in 1967, American Samoa adopted a constitution that provides significant protections for traditional Samoan land tenure rules, language, and culture. In 1977, after four attempts, voters approved a measure to directly elect their governor. Nevertheless, American Samoa officially remains an unorganized territory and people born in American Samoa are US nationals instead of US citizens, a status many American Samoans prefer.</p> <p style="margin: 0in; margin-bottom: .0001pt; line-height: 18.0pt; background: white;"> </p><br>
+<p>Tutuila -- the largest island in American Samoa -- was settled by 1000 B.C., and the island served as a refuge for exiled chiefs and defeated warriors from the other Samoan islands. The Manu’a Islands, which are also now part of American Samoa, developed a traditional chiefdom that maintained autonomy by controlling oceanic trade. In 1722, Dutch explorer Jacob ROGGEVEEN was the first European to sail through the Manu’a Islands, and he was followed by French explorer Louis Antoine DE BOUGAINVILLE in 1768. Whalers and missionaries arrived in American Samoa in the 1830s, but American and European traders tended to favor the port in Apia -- now in independent Samoa -- over the smaller and less-developed Pago Pago on Tutuila. In the mid-1800s, a dispute arose in Samoa over control of the Samoan archipelago, with different chiefs gaining support from Germany, the UK, and the US. In 1872, the high chief of Tutuila offered the US exclusive rights to Pago Pago in return for US protection, but the US rejected this offer. As fighting resumed, the US agreed to the chief’s request in 1878 and set up a coaling station at Pago Pago. In 1899, with continued disputes over succession, Germany and the US agreed to divide the Samoan islands, while the UK withdrew its claims in exchange for parts of the Solomon Islands. Local chiefs on Tutuila formally ceded their land to the US in 1900, followed by the chief of Manu’a in 1904. The territory was officially named “American Samoa” in 1911.<br><br>The US administered the territory through the Department of the Navy. In 1949, there was an attempt to organize the territory, granting it formal self-government, but local chiefs helped defeat the measure in the US Congress. Administration was transferred to the Department of the Interior in 1951, and in 1967, American Samoa adopted a constitution that provides significant protections for traditional Samoan land-tenure rules, language, and culture. In 1977, after four attempts, voters approved a measure to directly elect their governor. Nevertheless, American Samoa officially remains an unorganized territory, and people born in American Samoa are US nationals rather than US citizens.</p> <p style="margin: 0in; margin-bottom: .0001pt; line-height: 18.0pt; background: white;"> </p><br>
 
 ## Geography
 
@@ -306,12 +306,13 @@ tourism, tuna, and government services-based territorial economy; sustained econ
 $658 million (2016 est.)<br>
 $674.9 million (2015 est.)<br>
 $666.9 billion (2014 est.)<br>
-<strong>note:</strong> data are in 2016 US dollars<br>
+<strong>note:</strong> data are in 2016 dollars<br>
 
 **Real GDP growth rate**<br>
--1.87% (2021 est.)<br>
-5.07% (2020 est.)<br>
--0.49% (2019 est.)<br>
+1.74% (2022 est.)<br>
+-0.78% (2021 est.)<br>
+4.41% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $11,200 (2016 est.)<br>
@@ -319,7 +320,8 @@ $11,300 (2015 est.)<br>
 $11,200 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$658 million (2016 est.)<br>
+$871 million (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 -0.5% (2015 est.)<br>
@@ -344,14 +346,8 @@ bananas, coconuts, vegetables, taro, breadfruit, yams, copra, pineapples, papaya
 **Industries**<br>
 tuna canneries (largely supplied by foreign fishing vessels), handicrafts<br>
 
-**Industrial production growth rate**<br>
-NA<br>
-
 **Labor force**<br>
 17,850 (2015 est.)<br>
-
-**Unemployment rate**<br>
-29.8% (2005)<br>
 
 **Population below poverty line**<br>
 NA<br>

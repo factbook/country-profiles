@@ -50,7 +50,7 @@ _lowest point_: Hachiro-gata -4 m<br>
 _mean elevation_: 438 m<br>
 
 **Natural resources**<br>
-negligible mineral resources, fish; note - with virtually no natural energy resources, Japan is almost totally dependent on foreign, imported sources of energy<br>
+negligible mineral resources, fish; note - with virtually no natural energy resources, Japan is almost totally dependent on imported sources of energy<br>
 
 **Land use**<br>
 _agricultural land_: 12.5% (2018 est.)<br>
@@ -387,30 +387,35 @@ _selected World Heritage Site locales_: Buddhist Monuments in the Horyu-ji Area 
 ## Economy
 
 **Economic overview**<br>
-fourth-largest, trade-oriented, and diversified economy; highly indebted country; slow wage growth and declining labor force; still heavily hydrocarbon-reliant; central bank keeping negative interest rates amid modest inflation; increased military spending; stagnant tourism sector<br>
+fourth-largest economy; trade-oriented and highly diversified; high public debt levels; real wage declines in inflationary environment; sustained near-zero central bank rates coupled with depreciation of yen; strong rebound in tourism<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.126 trillion (2021 est.) note: data are in 2017 dollars<br>
-$5.042 trillion (2020 est.) note: data are in 2017 dollars<br>
-$5.28 trillion (2019 est.)<br>
+$5.21 trillion (2022 est.)<br>
+$5.157 trillion (2021 est.)<br>
+$5.049 trillion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.66% (2021 est.)<br>
--4.51% (2020 est.)<br>
--0.24% (2019 est.)<br>
+1.03% (2022 est.)<br>
+2.14% (2021 est.)<br>
+-4.28% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$40,800 (2021 est.) note: data are in 2017 dollars<br>
-$39,900 (2020 est.) note: data are in 2017 dollars<br>
-$41,700 (2019 est.)<br>
+$41,600 (2022 est.)<br>
+$41,000 (2021 est.)<br>
+$40,000 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$5,078,679,000,000 (2019 est.)<br>
+$4.232 trillion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.5% (2022 est.)<br>
 -0.23% (2021 est.)<br>
 -0.02% (2020 est.)<br>
-0.47% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A (2015)<br>
@@ -432,21 +437,24 @@ _exports of goods and services_: 17.7% (2017 est.)<br>
 _imports of goods and services_: -16.8% (2017 est.)<br>
 
 **Agricultural products**<br>
-rice, milk, sugar beets, vegetables, eggs, poultry, potatoes, cabbages, onions, pork<br>
+eggs, rice, milk, sugar beets, vegetables, poultry, potatoes, cabbages, sugar cane, pork<br>
 
 **Industries**<br>
-among world's largest and most technologically advanced producers of motor vehicles, electronic equipment, machine tools, steel and nonferrous metals, ships, chemicals, textiles, processed foods<br>
+motor vehicles, electronic equipment, machine tools, steel and nonferrous metals, ships, chemicals, textiles, processed foods<br>
 
 **Industrial production growth rate**<br>
--4.33% (2020 est.)<br>
+-1.25% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-68.629 million (2021 est.)<br>
+69.114 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.8% (2021 est.)<br>
-2.8% (2020 est.)<br>
-2.4% (2019 est.)<br>
+2.6% (2022 est.)<br>
+2.83% (2021 est.)<br>
+2.81% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 4.4% (2021 est.)<br>
@@ -458,19 +466,22 @@ _female_: 4.1%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 32.9 (2013 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 16% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.7%<br>
-_highest 10%_: 24.8% (2008)<br>
+_lowest 10%_: 2.9%<br>
+_highest 10%_: 26.4% (2013 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.13% of GDP (2022 est.)<br>
 0.11% of GDP (2021 est.)<br>
 0.1% of GDP (2020 est.)<br>
-0.09% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.756 trillion (2019 est.)<br>
@@ -480,9 +491,10 @@ _expenditures_: $1.916 trillion (2019 est.)<br>
 -3.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-216.28% of GDP (2020 est.)<br>
-197.8% of GDP (2019 est.)<br>
-197.45% of GDP (2018 est.)<br>
+216.36% of GDP (2021 est.)<br>
+215.77% of GDP (2020 est.)<br>
+198.02% of GDP (2019 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 35.2% (of GDP) (2017 est.)<br>
@@ -491,36 +503,40 @@ _expenditures_: $1.916 trillion (2019 est.)<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
-$157.743 billion (2021 est.)<br>
-$147.948 billion (2020 est.)<br>
-$176.61 billion (2019 est.)<br>
+$90.963 billion (2022 est.)<br>
+$197.154 billion (2021 est.)<br>
+$150.029 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$919.158 billion (2021 est.) note: data are in current year dollars<br>
+$921.212 billion (2022 est.)<br>
+$920.639 billion (2021 est.) note: data are in current year dollars<br>
 $794.291 billion (2020 est.) note: data are in current year dollars<br>
-$904.632 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 21%, US 18%, South Korea 7%, Taiwan 7%, Thailand 4% (2021)<br>
+US 19%, China 19%, Australia 10%, South Korea 7%, Taiwan 7%, Thailand 4% (2022)<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, integrated circuits, general machinery, photo lab equipment, construction vehicles, semiconductors&nbsp; (2021)<br>
+cars/vehicle parts, general machinery, integrated circuits, refined petroleum, construction vehicles&nbsp; (2022)<br>
 
 **Imports**<br>
-$941.671 billion (2021 est.) note: data are in current year dollars<br>
+$1.08 trillion (2022 est.)<br>
+$942.45 billion (2021 est.) note: data are in current year dollars<br>
 $801.889 billion (2020 est.) note: data are in current year dollars<br>
-$913.248 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 24%, US 10%, Australia 7%, South Korea 4%, Taiwan 4% (2021)<br>
+China 22%, US 10%, Australia 10%, Taiwan 4%, South Korea 4% (2022)<br>
 
 **Imports - commodities**<br>
-crude petroleum, natural gas, integrated circuits, coal, refined petroleum, iron (2021)<br>
+crude petroleum, natural gas, coal, integrated circuits, broadcasting equipment&nbsp; (2022)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.406 trillion (31 December 2021 est.)<br>
-$1.391 trillion (31 December 2020 est.)<br>
-$1.322 trillion (31 December 2019 est.)<br>
+$1.228 trillion (2022 est.)<br>
+$1.406 trillion (2021 est.)<br>
+$1.391 trillion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $4,254,271,000,000 (2019 est.)<br>
@@ -528,11 +544,11 @@ $3,944,898,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: yen (JPY) per US dollar -<br>
+131.498 (2022 est.)<br>
 109.754 (2021 est.)<br>
 106.775 (2020 est.)<br>
 109.01 (2019 est.)<br>
 110.423 (2018 est.)<br>
-112.166 (2017 est.)<br>
 
 ## Energy
 

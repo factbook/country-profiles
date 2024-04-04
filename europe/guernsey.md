@@ -284,20 +284,17 @@ $3.42 billion (2013 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
-0.4% (2015 est.)<br>
-1.2% (2014 est.)<br>
-4.2% (2012 est.)<br>
+8.65% (2021 est.)<br>
+-7.97% (2020 est.)<br>
+1.33% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency; entry includes Jersey and Guernsey<br>
 
 **Real GDP per capita**<br>
 $52,500 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$2.742 billion (2005 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-6.8% (2022 est.)<br>
-3.4% (June 2006 est.)<br>
-<strong>note:</strong> data represent Retail Price Index inflation rates<br>
+$11.736 billion (2021 est.)<br>
+note: data in current dollars at official exchange rate; entry includes Jersey and Guernsey<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3% (2000)<br>
@@ -311,15 +308,18 @@ tomatoes, greenhouse flowers, sweet peppers, eggplant, fruit; Guernsey cattle<br
 tourism, banking<br>
 
 **Industrial production growth rate**<br>
-NA<br>
+25.3% (2021 est.)<br>
+note: annual % change in industrial value added based on constant local currency; entry includes Jersey and Guernsey<br>
 
 **Labor force**<br>
-86,800 (2021 est.)<br>
+86,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work;entry includes Jersey and Guernsey<br>
 
 **Unemployment rate**<br>
-7.37% (2021 est.)<br>
-7.69% (2020 est.)<br>
-6.41% (2019 est.)<br>
+6.03% (2022 est.)<br>
+6.73% (2021 est.)<br>
+6.72% (2020 est.)<br>
+note: % of labor force seeking employment; entry includes Jersey and Guernsey<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.8% (2021 est.)<br>
@@ -340,23 +340,14 @@ _expenditures_: $530.9 million (2005 est.)<br>
 **Budget surplus (+) or deficit (-)**<br>
 1.2% (of GDP) (2005)<br>
 
-**Taxes and other revenues**<br>
-20.6% (of GDP) (2005)<br>
-
 **Fiscal year**<br>
 calendar year<br>
-
-**Exports**<br>
-<p>NA</p><br>
 
 **Exports - partners**<br>
 almost entirely United Kingdom (2022)<br>
 
 **Exports - commodities**<br>
 aircraft, photo lab equipment, clocks, ships, paintings, scientific instruments (2022)<br>
-
-**Imports**<br>
-<p>NA</p><br>
 
 **Imports - partners**<br>
 almost entirely United Kingdom (2022)<br>
@@ -369,11 +360,11 @@ ships, aircraft, refined petroleum, mineral manufactures, beverages (2022)<br>
 
 **Exchange rates**<br>
 _Currency_: Guernsey pound per US dollar<br>
-0.7836 (2017 est.)<br>
-0.738 (2016 est.)<br>
-0.738 (2015)<br>
-0.6542 (2014)<br>
-0.607 (2013)<br>
+0.811 (2022 est.)<br>
+0.727 (2021 est.)<br>
+0.78 (2020 est.)<br>
+0.783 (2019 est.)<br>
+0.75 (2018 est.)<br>
 
 ## Energy
 

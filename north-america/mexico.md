@@ -426,29 +426,32 @@ _selected World Heritage Site locales_: Historic Mexico City (c); Earliest 16th-
 one of the world&rsquo;s largest economies; USMCA buttresses its manufacturing sector; has underperformed growth targets for three decades; COVID-19 disrupted export-based economy; corruption and cartel-based violence undermine economic stability<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.418 trillion (2021 est.)<br>
-$2.309 trillion (2020 est.)<br>
-$2.51 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$2.583 trillion (2022 est.)<br>
+$2.486 trillion (2021 est.)<br>
+$2.349 trillion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.72% (2021 est.)<br>
--7.99% (2020 est.)<br>
--0.2% (2019 est.)<br>
+3.9% (2022 est.)<br>
+5.84% (2021 est.)<br>
+-8.65% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$19,100 (2021 est.)<br>
-$18,300 (2020 est.)<br>
-$20,100 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$20,300 (2022 est.)<br>
+$19,600 (2021 est.)<br>
+$18,600 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1,269,956,000,000 (2019 est.)<br>
+$1.466 trillion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.9% (2022 est.)<br>
 5.69% (2021 est.)<br>
 3.4% (2020 est.)<br>
-3.64% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2020)<br>
@@ -476,16 +479,18 @@ sugarcane, maize, milk, oranges, sorghum, tomatoes, poultry, wheat, green chilli
 food and beverages, tobacco, chemicals, iron and steel, petroleum, mining, textiles, clothing, motor vehicles, consumer durables, tourism<br>
 
 **Industrial production growth rate**<br>
-5.44% (2021 est.)<br>
+5% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-56.132 million (2021 est.)<br>
+58.718 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.38% (2021 est.)<br>
-4.45% (2020 est.)<br>
-3.48% (2019 est.)<br>
-<strong>note:</strong> underemployment may be as high as 25%<br>
+3.26% (2022 est.)<br>
+4.09% (2021 est.)<br>
+4.44% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 8.1% (2021 est.)<br>
@@ -493,23 +498,27 @@ _male_: 7.9%<br>
 _female_: 8.6%<br>
 
 **Population below poverty line**<br>
-41.9% (2018 est.)<br>
+36.3% (2022 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 45.4 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 23.4% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 2.8% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2%<br>
-_highest 10%_: 40% (2014)<br>
+_lowest 10%_: 1.8%<br>
+_highest 10%_: 35.5% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-4.25% of GDP (2021 est.)<br>
-3.93% of GDP (2020 est.)<br>
-3.07% of GDP (2019 est.)<br>
+4.17% of GDP (2022 est.)<br>
+4.12% of GDP (2021 est.)<br>
+3.83% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $264.261 billion (2020 est.)<br>
@@ -519,24 +528,29 @@ _expenditures_: $313.358 billion (2020 est.)<br>
 -1.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-54.3% of GDP (2017 est.)<br>
-56.8% of GDP (2016 est.)<br>
+44.89% of GDP (2021 est.)<br>
+45.85% of GDP (2020 est.)<br>
+41.29% of GDP (2019 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-14.29% (of GDP) (2020 est.)<br>
+13.45% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$4.817 billion (2021 est.)<br>
-$27.103 billion (2020 est.)<br>
--$3.406 billion (2019 est.)<br>
+-$18,045,572,000 (2022 est.)<br>
+-$8,342,887,000 (2021 est.)<br>
+$22.522 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$522.235 billion (2021 est.) note: data are in current year dollars<br>
-$434.366 billion (2020 est.) note: data are in current year dollars<br>
-$492.657 billion (2019 est.) note: data are in current year dollars<br>
+$626.298 billion (2022 est.)<br>
+$533.22 billion (2021 est.) note: data are in current year dollars<br>
+$443.575 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 75% (2019)<br>
@@ -545,9 +559,10 @@ United States 75% (2019)<br>
 cars and vehicle parts, computers, delivery trucks, crude petroleum, video displays, insulated wiring (2021)<br>
 
 **Imports**<br>
-$544.752 billion (2021 est.) note: data are in current year dollars<br>
-$411.458 billion (2020 est.) note: data are in current year dollars<br>
-$495.391 billion (2019 est.) note: data are in current year dollars<br>
+$668.59 billion (2022 est.)<br>
+$558.969 billion (2021 est.) note: data are in current year dollars<br>
+$424.896 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 54%, China 14% (2019)<br>
@@ -556,10 +571,10 @@ United States 54%, China 14% (2019)<br>
 integrated circuits, refined petroleum, cars and vehicle parts, office machinery/parts, telephones (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$207.799 billion (31 December 2021 est.)<br>
-$199.069 billion (31 December 2020 est.)<br>
-$183.056 billion (31 December 2019 est.)<br>
-<strong>note:</strong> Mexico also maintains access to an $88 million Flexible Credit Line with the IMF<br>
+$201.119 billion (2022 est.)<br>
+$207.799 billion (2021 est.)<br>
+$199.069 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $456.713 billion (2019 est.)<br>
@@ -567,11 +582,11 @@ $448.268 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Mexican pesos (MXN) per US dollar -<br>
+20.127 (2022 est.)<br>
 20.272 (2021 est.)<br>
 21.486 (2020 est.)<br>
 19.264 (2019 est.)<br>
 19.244 (2018 est.)<br>
-18.927 (2017 est.)<br>
 
 ## Energy
 

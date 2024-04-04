@@ -380,30 +380,32 @@ _lyrics/music_: Fransisco Borja DA COSTA/Afonso DE ARAUJO<br>
 lower middle-income Southeast Asian economy; government expenditures funded via oil fund drawdowns; endemic corruption undermines growth; foreign aid-dependent; wide-scale poverty, unemployment, and illiteracy<br>
 
 **Real GDP (purchasing power parity)**<br>
-$6.648 billion (2021 est.)<br>
-$6.313 billion (2020 est.)<br>
-$4.786 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$5.289 billion (2022 est.)<br>
+$6.656 billion (2021 est.)<br>
+$6.32 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.29% (2021 est.)<br>
-31.91% (2020 est.)<br>
-23.51% (2019 est.)<br>
+-20.54% (2022 est.)<br>
+5.32% (2021 est.)<br>
+31.96% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$3,900 (2022 est.)<br>
 $5,000 (2021 est.)<br>
 $4,900 (2020 est.)<br>
-$3,700 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.775 billion (2017 est.)<br>
-<strong>note:</strong> non-oil GDP<br>
+$3.205 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 0.96% (2019 est.)<br>
 2.29% (2018 est.)<br>
 0.52% (2017 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 9.1% (2017 est.)<br>
@@ -425,15 +427,18 @@ rice, maize, vegetables, coffee, roots/tubers nes, other meats, cassava, pork, b
 printing, soap manufacturing, handicrafts, woven cloth<br>
 
 **Industrial production growth rate**<br>
-5.65% (2021 est.)<br>
+-46.25% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-569,700 (2021 est.)<br>
+581,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.07% (2021 est.)<br>
-4.91% (2020 est.)<br>
-4.51% (2019 est.)<br>
+1.79% (2022 est.)<br>
+2.34% (2021 est.)<br>
+2.79% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 13.8% (2021 est.)<br>
@@ -442,18 +447,22 @@ _female_: 16.8%<br>
 
 **Population below poverty line**<br>
 41.8% (2014 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 28.7 (2014 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4%<br>
-_highest 10%_: 27% (2007)<br>
+_highest 10%_: 24% (2014 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-7.2% of GDP (2020 est.)<br>
-4.95% of GDP (2019 est.)<br>
-6.16% of GDP (2018 est.)<br>
+5.8% of GDP (2022 est.)<br>
+4.85% of GDP (2021 est.)<br>
+7.19% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $879 million (2019 est.)<br>
@@ -467,20 +476,23 @@ _expenditures_: $1.396 billion (2019 est.)<br>
 3.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-22.86% (of GDP) (2019 est.)<br>
+15.1% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$1.022 billion (2021 est.)<br>
--$308.02 million (2020 est.)<br>
-$133.98 million (2019 est.)<br>
+$265.772 million (2022 est.)<br>
+$1.328 billion (2021 est.)<br>
+$266.301 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$2.315 billion (2021 est.) note: data are in current year dollars<br>
-$57.105 million (2020 est.) note: data are in current year dollars<br>
-$117.472 million (2019 est.) note: data are in current year dollars<br>
+$1.858 billion (2022 est.)<br>
+$2.772 billion (2021 est.) note: data are in current year dollars<br>
+$1.598 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Singapore 51%, China 20%, Japan 9%, Indonesia 6% (2019)<br>
@@ -489,9 +501,10 @@ Singapore 51%, China 20%, Japan 9%, Indonesia 6% (2019)<br>
 crude petroleum, natural gas, coffee, various vegetables, scrap iron (2019)<br>
 
 **Imports**<br>
-$1.523 billion (2021 est.) note: data are in current year dollars<br>
-$842 million (2020 est.) note: data are in current year dollars<br>
-$1.039 billion (2019 est.) note: data are in current year dollars<br>
+$1.396 billion (2022 est.)<br>
+$1.298 billion (2021 est.) note: data are in current year dollars<br>
+$1.486 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Indonesia 39%, China 27%, Singapore 10%, Malaysia 5% (2019)<br>
@@ -500,22 +513,17 @@ Indonesia 39%, China 27%, Singapore 10%, Malaysia 5% (2019)<br>
 refined petroleum, cars, cement, delivery trucks, motorcycles (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$934.781 million (31 December 2021 est.)<br>
-$656.524 million (31 December 2020 est.)<br>
-$656.221 million (31 December 2019 est.)<br>
-<strong>note:</strong> excludes assets of approximately $9.7 billion in the Petroleum Fund (31 December 2010)<br>
+$830.81 million (2022 est.)<br>
+$934.781 million (2021 est.)<br>
+$656.524 million (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $311.5 million (31 December 2014 est.)<br>
 $687 million (31 December 2013 est.)<br>
 
 **Exchange rates**<br>
-1 (2021 est.)<br>
-1 (2020 est.)<br>
-1 (2019 est.)<br>
-1 (2018 est.)<br>
-1 (2017 est.)<br>
-the US dollar is used<br>
+<p>the US dollar is used</p><br>
 
 ## Energy
 

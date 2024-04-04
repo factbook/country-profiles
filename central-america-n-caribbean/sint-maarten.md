@@ -276,24 +276,32 @@ _lyrics/music_: Gerard KEMPS<br>
 high-income, tourism-based Dutch autonomous constituent economy; severe hurricane- and COVID-19-related economic recessions; multilateral trust fund helping offset economic downturn; no property taxation; re-exporter to Saint Martin<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.436 billion (2018 est.)<br>
-$1.538 billion (2017 est.)<br>
+$1.797 billion (2022 est.)<br>
+$1.637 billion (2021 est.)<br>
+$1.565 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--6.6% (2018 est.)<br>
--5.8% (2017 est.)<br>
-1.9% (2012 est.)<br>
+9.8% (2022 est.)<br>
+4.58% (2021 est.)<br>
+-13.32% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$35,342 (2018 est.)<br>
-$37,914 (2017 est.)<br>
+$41,900 (2022 est.)<br>
+$38,400 (2021 est.)<br>
+$37,000 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$304.1 million (2014 est.)<br>
+$1.537 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 2.19% (2017 est.)<br>
-0.7% (2009 est.)<br>
+0.11% (2016 est.)<br>
+0.33% (2015 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.4% (2008 est.)<br>
@@ -306,6 +314,10 @@ sugar<br>
 **Industries**<br>
 tourism, light industry<br>
 
+**Industrial production growth rate**<br>
+0.46% (2021 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
+
 **Labor force**<br>
 23,200 (2008 est.)<br>
 
@@ -314,35 +326,39 @@ tourism, light industry<br>
 10.6% (2008 est.)<br>
 
 **Remittances**<br>
-4.3% of GDP (2018 est.)<br>
-4.62% of GDP (2017 est.)<br>
-4.82% of GDP (2016 est.)<br>
+3.2% of GDP (2022 est.)<br>
+3.42% of GDP (2021 est.)<br>
+3.13% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Current account balance**<br>
--$294.32 million (2021 est.)<br>
+-$41.64 million (2022 est.)<br>
+-$300.6 million (2021 est.)<br>
 -$290.458 million (2020 est.)<br>
--$165.039 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$787.981 million (2021 est.) note: data are in current year dollars<br>
+$1.372 billion (2022 est.)<br>
+$790.938 million (2021 est.) note: data are in current year dollars<br>
 $527.044 million (2020 est.) note: data are in current year dollars<br>
-$1.091 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - commodities**<br>
 sugar<br>
 
 **Imports**<br>
-$992.658 million (2021 est.) note: data are in current year dollars<br>
+$1.318 billion (2022 est.)<br>
+$1.003 billion (2021 est.) note: data are in current year dollars<br>
 $760.824 million (2020 est.) note: data are in current year dollars<br>
-$1.237 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Netherlands Antillean guilders (ANG) per US dollar -<br>
+1.79 (2022 est.)<br>
 1.79 (2021 est.)<br>
 1.79 (2020 est.)<br>
 1.79 (2019 est.)<br>
 1.79 (2018 est.)<br>
-1.79 (2017 est.)<br>
 
 ## Energy
 

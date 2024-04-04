@@ -380,29 +380,32 @@ _selected World Heritage Site locales_: Thingvellir National Park (c); Surtsey (
 high-income European economy; frozen EU accession application but Schengen Area member; major tourism, fishing, and aluminum industries; complex regulatory environment; large FDI recipient; highly educated workforce<br>
 
 **Real GDP (purchasing power parity)**<br>
-$19.962 billion (2021 est.)<br>
-$19.12 billion (2020 est.)<br>
-$20.524 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$21.227 billion (2022 est.)<br>
+$19.794 billion (2021 est.)<br>
+$18.94 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.4% (2021 est.)<br>
--6.84% (2020 est.)<br>
-2.42% (2019 est.)<br>
+7.24% (2022 est.)<br>
+4.51% (2021 est.)<br>
+-7.22% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$53,600 (2021 est.)<br>
-$52,200 (2020 est.)<br>
-$56,900 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$55,600 (2022 est.)<br>
+$53,100 (2021 est.)<br>
+$51,700 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$24.614 billion (2019 est.)<br>
+$28.065 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.31% (2022 est.)<br>
 4.44% (2021 est.)<br>
 2.85% (2020 est.)<br>
-3.01% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A (2017)<br>
@@ -430,15 +433,18 @@ milk, mutton, poultry, potatoes, barley, pork, eggs, beef, other meat, sheep ski
 tourism, fish processing; aluminum smelting; geothermal power, hydropower; medical/pharmaceutical products<br>
 
 **Industrial production growth rate**<br>
-5.65% (2021 est.)<br>
+4.27% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-200,300 (2021 est.)<br>
+231,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.4% (2021 est.)<br>
+3.79% (2022 est.)<br>
+6.03% (2021 est.)<br>
 5.48% (2020 est.)<br>
-3.51% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 13.4% (2021 est.)<br>
@@ -447,18 +453,22 @@ _female_: 13.7%<br>
 
 **Population below poverty line**<br>
 8.8% (2017 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 26.1 (2017 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
+_lowest 10%_: 4% NA<br>
+_highest 10%_: 22.1% (2017 est.) NA<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.74% of GDP (2021 est.)<br>
-0.76% of GDP (2020 est.)<br>
-0.74% of GDP (2019 est.)<br>
+0.69% of GDP (2022 est.)<br>
+0.75% of GDP (2021 est.)<br>
+0.77% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $11.776 billion (2018 est.)<br>
@@ -468,25 +478,29 @@ _expenditures_: $11.536 billion (2018 est.)<br>
 1.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-100.02% of GDP (2020 est.)<br>
-89.59% of GDP (2019 est.)<br>
-81.95% of GDP (2018 est.)<br>
+88.46% of GDP (2022 est.)<br>
+96.68% of GDP (2021 est.)<br>
+100.61% of GDP (2020 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-22.33% (of GDP) (2020 est.)<br>
+23.03% (of GDP) (2022 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$409.262 million (2021 est.)<br>
-$407.806 million (2020 est.)<br>
-$1.612 billion (2019 est.)<br>
+-$577.122 million (2022 est.)<br>
+-$758.255 million (2021 est.)<br>
+$200.648 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$9.775 billion (2021 est.) note: data are in current year dollars<br>
-$7.501 billion (2020 est.) note: data are in current year dollars<br>
-$11.005 billion (2019 est.) note: data are in current year dollars<br>
+$13.044 billion (2022 est.)<br>
+$9.555 billion (2021 est.) note: data are in current year dollars<br>
+$7.197 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Netherlands 24%, Spain 10%, Germany 10%, United Kingdom 9%, United States 7% (2021)<br>
@@ -495,9 +509,10 @@ Netherlands 24%, Spain 10%, Germany 10%, United Kingdom 9%, United States 7% (20
 aluminum and aluminum products, fish fillets, salmon, iron alloys, animal meal (2021)<br>
 
 **Imports**<br>
-$10.234 billion (2021 est.) note: data are in current year dollars<br>
-$7.616 billion (2020 est.) note: data are in current year dollars<br>
-$9.891 billion (2019 est.) note: data are in current year dollars<br>
+$13.146 billion (2022 est.)<br>
+$10.065 billion (2021 est.) note: data are in current year dollars<br>
+$7.518 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Norway 11%, Denmark 10%, Netherlands 9%, Germany 9%, China 7% (2021)<br>
@@ -506,9 +521,10 @@ Norway 11%, Denmark 10%, Netherlands 9%, Germany 9%, China 7% (2021)<br>
 refined petroleum, aluminum oxide, carbon/graphite electronics, cars, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$7.079 billion (31 December 2021 est.)<br>
-$6.419 billion (31 December 2020 est.)<br>
-$6.782 billion (31 December 2019 est.)<br>
+$5.887 billion (2022 est.)<br>
+$7.079 billion (2021 est.)<br>
+$6.419 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $19.422 billion (2019 est.)<br>
@@ -516,11 +532,11 @@ $22.055 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Icelandic kronur (ISK) per US dollar -<br>
+135.28 (2022 est.)<br>
 126.989 (2021 est.)<br>
 135.422 (2020 est.)<br>
 122.607 (2019 est.)<br>
 108.3 (2018 est.)<br>
-106.84 (2017 est.)<br>
 
 ## Energy
 

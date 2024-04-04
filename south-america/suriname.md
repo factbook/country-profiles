@@ -379,29 +379,32 @@ _selected World Heritage Site locales_: Central Suriname Nature Reserve (n); His
 upper middle-income South American economy; new floating currency regime; key aluminum goods, gold, and hydrocarbon exporter; new IMF plan for economic recovery and fiscal sustainability; controversial hardwood industry<br>
 
 **Real GDP (purchasing power parity)**<br>
-$9.052 billion (2021 est.)<br>
+$9.3 billion (2022 est.)<br>
+$9.079 billion (2021 est.)<br>
 $9.306 billion (2020 est.)<br>
-$11.075 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--2.73% (2021 est.)<br>
+2.43% (2022 est.)<br>
+-2.44% (2021 est.)<br>
 -15.98% (2020 est.)<br>
-1.17% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$15,000 (2022 est.)<br>
 $14,800 (2021 est.)<br>
 $15,300 (2020 est.)<br>
-$18,400 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.419 billion (2017 est.)<br>
+$3.621 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-59.11% (2021 est.)<br>
+52.45% (2022 est.)<br>
+59.12% (2021 est.)<br>
 34.89% (2020 est.)<br>
-22% (2017 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: C (2020)<br>
@@ -429,15 +432,18 @@ rice, sugar cane, bananas, oranges, vegetables, plantains, coconuts, poultry, ca
 gold mining, oil, lumber, food processing, fishing<br>
 
 **Industrial production growth rate**<br>
--10.92% (2021 est.)<br>
+3.05% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-244,200 (2021 est.)<br>
+246,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-10.06% (2021 est.)<br>
-9.78% (2020 est.)<br>
-8.04% (2019 est.)<br>
+8.23% (2022 est.)<br>
+8.53% (2021 est.)<br>
+8.74% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 30.5% (2021 est.)<br>
@@ -452,9 +458,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-4.95% of GDP (2021 est.)<br>
+4.09% of GDP (2022 est.)<br>
+4.79% of GDP (2021 est.)<br>
 4.26% of GDP (2020 est.)<br>
-2.39% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $863 million (2019 est.)<br>
@@ -474,14 +481,16 @@ _expenditures_: $1.648 billion (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
-$176.13 million (2021 est.)<br>
+$76.321 million (2022 est.)<br>
+$176.058 million (2021 est.)<br>
 $259.846 million (2020 est.)<br>
--$448.255 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$2.6 billion (2022 est.)<br>
 $2.299 billion (2021 est.) note: data are in current year dollars<br>
 $2.446 billion (2020 est.) note: data are in current year dollars<br>
-$2.287 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Switzerland 51%, United Arab Emirates 22%, Belgium 6%, Trinidad and Tobago 2%, Guyana 2% (2021)<br>
@@ -490,9 +499,10 @@ Switzerland 51%, United Arab Emirates 22%, Belgium 6%, Trinidad and Tobago 2%, G
 gold, lumber, refined petroleum, excavation machinery, rice (2021)<br>
 
 **Imports**<br>
+$2.342 billion (2022 est.)<br>
 $1.876 billion (2021 est.) note: data are in current year dollars<br>
 $1.845 billion (2020 est.) note: data are in current year dollars<br>
-$2.413 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 19%, China 16%, Netherlands 15%, Trinidad and Tobago 8%, Japan 3% (2021)<br>
@@ -501,9 +511,10 @@ United States 19%, China 16%, Netherlands 15%, Trinidad and Tobago 8%, Japan 3% 
 refined petroleum, excavation machinery, delivery trucks, cars, cigarettes (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$992.257 million (31 December 2021 est.)<br>
-$584.929 million (31 December 2020 est.)<br>
-$647.935 million (31 December 2019 est.)<br>
+$1.195 billion (2022 est.)<br>
+$992.257 million (2021 est.)<br>
+$584.929 million (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.7 billion (31 December 2017 est.)<br>
@@ -511,11 +522,11 @@ $1.436 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Surinamese dollars (SRD) per US dollar -<br>
+24.709 (2022 est.)<br>
 18.239 (2021 est.)<br>
 9.31 (2020 est.)<br>
 7.458 (2019 est.)<br>
 7.463 (2018 est.)<br>
-7.488 (2017 est.)<br>
 
 ## Energy
 

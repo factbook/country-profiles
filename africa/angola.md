@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Bantu-speaking people settled in the area now called Angola in 6th century A.D.; by the 10th century various Bantu groups had established kingdoms, of which Kongo became the most powerful. From the late 14th to the mid 19th century a Kingdom of Kongo stretched across central Africa from present-day northern Angola into the current Congo republics. It traded heavily with the Portuguese who, beginning in the 16th century, established coastal colonies and trading posts and introduced Christianity. Angola became a major hub of the transatlantic slave trade conducted by the Portuguese and other European powers - often in collaboration with local kingdoms including the Kongo. Estimates are that the Angola area may have lost as many as 4 million people as a result of the slave trade. The Kingdom of Kongo’s main rival was the Kingdom of Ndongo to its south, whose most famous leader was the 17th century diplomat to the Portuguese and later Queen, Nzingha Mbande, who successfully fought off Portuguese encroachment during her nearly 40-year reign. Smaller kingdoms, such as the Matamba and Ngoyo, often came under the control of the Kongo or Ndongo Kingdoms. During the Berlin Conference of 1884-85, Angola’s modern borders were set by Portugal and other European powers, but the Portuguese did not fully control large portions of the territory. Portugal gained control of the Kingdom of Kongo in 1888 when Kongo’s King Pedro V sought Portuguese military assistance in exchange for becoming a vassal. After a revolt in 1914, Portugal imposed direct rule over the colony and abolished the Kongo Kingdom.<br> <p>The Angolan National Revolution began in 1961 and in 1975, Angola won its independence when Portugal’s dictatorship fell, in part because of growing discontent over conflict in Angola and other colonies. Conflict between Angola’s multiple independence movements quickly emerged with the Popular Movement for Liberation of Angola (MPLA), led by Agostinho NETO, taking power and the National Union for the Total Independence of Angola (UNITA), led by Jonas SAVIMBI, emerging as its main competitor. After NETO’s death in 1979, Jose Eduardo DOS SANTOS, also of the MPLA, became president. Over time, the Angolan civil war escalated and became a major Cold War conflict with the MPLA supported by the Soviet Union and Cuba and UNITA by apartheid South Africa and the US. Up to 1.5 million lives may have been lost - and 4 million people displaced - during the more than a quarter century of fighting. SAVIMBI's death in 2002 ended UNITA's insurgency and cemented the MPLA's hold on power. DOS SANTOS did not seek reelection in 2017 and supported Joao LOURENCO’s successful bid to become president. LOURENCO was reelected in 2022. Angola scores low on human development indexes despite using its large oil reserves to rebuild since 2002. </p><br>
+Bantu-speaking people settled in the area now called Angola in 6th century A.D.; by the 10th century various Bantu groups had established kingdoms, of which Kongo became the most powerful. From the late-14th to the mid-19th century, a Kingdom of Kongo stretched across central Africa from present-day northern Angola into the current Congo republics. It traded heavily with the Portuguese who, beginning in the 16th century, established coastal colonies and trading posts and introduced Christianity. Angola became a major hub of the transatlantic slave trade conducted by the Portuguese and other European powers -- often in collaboration with local kingdoms, including the Kongo. The Angola area is estimated to have lost as many as 4 million people as a result of the slave trade. The Kingdom of Kongo’s main rival was the Kingdom of Ndongo to its south, whose most famous leader was Nzingha Mbande, the 17th century diplomat to the Portuguese and later Queen, who successfully fought off Portuguese encroachment during her nearly 40-year reign. Smaller kingdoms, such as the Matamba and Ngoyo, often came under the control of the Kongo or Ndongo Kingdoms. During the Berlin Conference of 1884-85, Portugal and other European powers set Angola’s modern borders, but the Portuguese did not fully control large portions of the territory. Portugal gained control of the Kingdom of Kongo in 1888 when Kongo’s King Pedro V sought Portuguese military assistance in exchange for becoming a vassal. After a revolt in 1914, Portugal imposed direct rule over the colony and abolished the Kongo Kingdom.<br> <p>The Angolan National Revolution began in 1961, and in 1975, Angola won its independence when Portugal’s dictatorship fell, a collapse that occurred in part because of growing discontent over conflict in Angola and other colonies. Angola’s multiple independence movements soon clashed, with the Popular Movement for Liberation of Angola (MPLA), led by Agostinho NETO, taking power and the National Union for the Total Independence of Angola (UNITA), led by Jonas SAVIMBI, emerging as its main competitor. After NETO’s death in 1979, Jose Eduardo DOS SANTOS, also of the MPLA, became president. Over time, the Angolan civil war escalated and became a major Cold War conflict, with the Soviet Union and Cuba supporting the MPLA and the US and South Africa supporting UNITA. Up to 1.5 million lives may have been lost -- and 4 million people displaced -- during the more than a quarter-century of fighting. SAVIMBI's death in 2002 ended UNITA's insurgency and cemented the MPLA's hold on power. DOS SANTOS did not seek reelection in 2017 and supported Joao LOURENCO’s successful bid to become president. LOURENCO was reelected in 2022. Angola scores low on human development indexes despite using its large oil reserves to rebuild since 2002. </p><br>
 
 ## Geography
 
@@ -394,29 +394,32 @@ _selected World Heritage Site locales_: Mbanza-Kongo<br>
 African oil leader and OPEC member; fairly stable currency; widespread poverty; emerging African finance and investment capital; systemic public corruption and lack of oversight; massive foreign direct investment recipient<br>
 
 **Real GDP (purchasing power parity)**<br>
-$203.868 billion (2021 est.)<br>
-$201.65 billion (2020 est.)<br>
-$213.612 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$210.193 billion (2022 est.)<br>
+$203.981 billion (2021 est.)<br>
+$201.563 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.1% (2021 est.)<br>
--5.6% (2020 est.)<br>
--0.7% (2019 est.)<br>
+3.05% (2022 est.)<br>
+1.2% (2021 est.)<br>
+-5.64% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$5,900 (2022 est.)<br>
 $5,900 (2021 est.)<br>
 $6,000 (2020 est.)<br>
-$6,600 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$97.261 billion (2019 est.)<br>
+$106.783 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 25.75% (2021 est.)<br>
 22.27% (2020 est.)<br>
 17.08% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2020)<br>
@@ -444,15 +447,18 @@ cassava, bananas, maize, sweet potatoes, pineapples, sugar cane, potatoes, citru
 petroleum; diamonds, iron ore, phosphates, feldspar, bauxite, uranium, and gold; cement; basic metal products; fish processing; food processing, brewing, tobacco products, sugar; textiles; ship repair<br>
 
 **Industrial production growth rate**<br>
--8.34% (2021 est.)<br>
+1.77% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-14.462 million (2021 est.)<br>
+14.746 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.53% (2021 est.)<br>
-8.33% (2020 est.)<br>
-7.42% (2019 est.)<br>
+14.48% (2022 est.)<br>
+15.8% (2021 est.)<br>
+16.7% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 18.5% (2021 est.)<br>
@@ -461,22 +467,26 @@ _female_: 18.8%<br>
 
 **Population below poverty line**<br>
 32.3% (2018 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 51.3 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 48.6% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 1.5% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 0.6%<br>
-_highest 10%_: 44.7% (2000)<br>
+_lowest 10%_: 1.3%<br>
+_highest 10%_: 39.6% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.01% of GDP (2022 est.)<br>
 0.02% of GDP (2021 est.)<br>
 0.02% of GDP (2020 est.)<br>
-0% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $17.899 billion (2019 est.)<br>
@@ -491,20 +501,22 @@ _expenditures_: $17.244 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 10.09% (of GDP) (2019 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
+$11.763 billion (2022 est.)<br>
 $8.399 billion (2021 est.)<br>
 $871.918 million (2020 est.)<br>
-$5.137 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$50.12 billion (2022 est.)<br>
 $33.675 billion (2021 est.)<br>
 $21.004 billion (2020 est.)<br>
-$35.18 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 62%, India 10%, United Arab Emirates 4%, Portugal 3%, Spain 3% (2019)<br>
@@ -513,9 +525,10 @@ China 62%, India 10%, United Arab Emirates 4%, Portugal 3%, Spain 3% (2019)<br>
 crude petroleum, natural gas, diamonds, refined petroleum, asphalt mixtures (2021)<br>
 
 **Imports**<br>
+$28.564 billion (2022 est.)<br>
 $18.845 billion (2021 est.) note: data are in current year dollars<br>
 $15.146 billion (2020 est.) note: data are in current year dollars<br>
-$22.299 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 22%, Portugal 15%, Nigeria 6%, Belgium 6%, United States 5%, South Africa 5%, Brazil 5% (2019)<br>
@@ -524,9 +537,10 @@ China 22%, Portugal 15%, Nigeria 6%, Belgium 6%, United States 5%, South Africa 
 refined petroleum, scrap vessels, meat, rice, palm oil (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$14.468 billion (31 December 2021 est.)<br>
-$13.782 billion (31 December 2020 est.)<br>
-$16.335 billion (31 December 2019 est.)<br>
+$13.655 billion (2022 est.)<br>
+$14.468 billion (2021 est.)<br>
+$13.782 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $42.08 billion (31 December 2017 est.)<br>
@@ -534,11 +548,11 @@ $27.14 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: kwanza (AOA) per US dollar -<br>
+460.568 (2022 est.)<br>
 631.442 (2021 est.)<br>
 578.259 (2020 est.)<br>
 364.826 (2019 est.)<br>
 252.856 (2018 est.)<br>
-165.916 (2017 est.)<br>
 
 ## Energy
 
@@ -715,7 +729,7 @@ has a national space strategy with a focus on capacity building, developing spac
 <p><em>Angola-Democratic Republic of Congo (DRC): </em>has had disputes over land and maritime borders with the DRC; maritime disputes have largely been about offshore oil claims<br><br><em>Angola-Namibia: </em>none identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) none identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023); 22,805 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
+_refugees (country of origin)_: 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023); 22,841 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

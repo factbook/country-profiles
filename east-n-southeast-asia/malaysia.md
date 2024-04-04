@@ -387,30 +387,32 @@ _selected World Heritage Site locales_: Gunung Mulu National Park (n); Kinabalu 
 upper middle-income Southeast Asian economy; implementing key anticorruption policies; major electronics, oil, and chemicals exporter; trade sector employs over 40% of jobs; key economic equity initiative; high labor productivity<br>
 
 **Real GDP (purchasing power parity)**<br>
-$884.106 billion (2021 est.)<br>
-$857.588 billion (2020 est.)<br>
-$907.832 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$963.29 billion (2022 est.)<br>
+$886.596 billion (2021 est.)<br>
+$858.293 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.09% (2021 est.)<br>
--5.53% (2020 est.)<br>
-4.41% (2019 est.)<br>
+8.65% (2022 est.)<br>
+3.3% (2021 est.)<br>
+-5.46% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$26,300 (2021 est.)<br>
-$25,800 (2020 est.)<br>
-$27,700 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$28,400 (2022 est.)<br>
+$26,400 (2021 est.)<br>
+$25,900 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$364.631 billion (2019 est.)<br>
+$407.027 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.38% (2022 est.)<br>
 2.48% (2021 est.)<br>
 -1.14% (2020 est.)<br>
-0.66% (2019 est.)<br>
-<strong>note:</strong> approximately 30% of goods are price-controlled<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB+ (2020)<br>
@@ -438,15 +440,18 @@ oil palm fruit, rice, poultry, eggs, vegetables, rubber, coconuts, bananas, pine
 Peninsular Malaysia - rubber and oil palm processing and manufacturing, petroleum and natural gas, light manufacturing, pharmaceuticals, medical technology, electronics and semiconductors, timber processing; Sabah - logging, petroleum and natural gas production; Sarawak - agriculture processing, petroleum and natural gas production, logging<br>
 
 **Industrial production growth rate**<br>
-5.65% (2021 est.)<br>
+6.46% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-16.74 million (2021 est.)<br>
+17.129 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.61% (2021 est.)<br>
-4.5% (2020 est.)<br>
-3.26% (2019 est.)<br>
+3.63% (2022 est.)<br>
+4.08% (2021 est.)<br>
+4.54% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.6% (2021 est.)<br>
@@ -454,23 +459,27 @@ _male_: 14.2%<br>
 _female_: 17.8%<br>
 
 **Population below poverty line**<br>
-5.6% (2018 est.)<br>
+6.2% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-41.1 (2015 est.)<br>
+41.2 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 21.5% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 1.8% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.8%<br>
-_highest 10%_: 34.7% (2009 est.)<br>
+_lowest 10%_: 2.3%<br>
+_highest 10%_: 31.2% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.4% of GDP (2022 est.)<br>
 0.42% of GDP (2021 est.)<br>
 0.42% of GDP (2020 est.)<br>
-0.44% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $77.736 billion (2019 est.)<br>
@@ -480,26 +489,29 @@ _expenditures_: $85.851 billion (2019 est.)<br>
 -3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-62.03% of GDP (2020 est.)<br>
+63.26% of GDP (2021 est.)<br>
+62.01% of GDP (2020 est.)<br>
 52.42% of GDP (2019 est.)<br>
-51.19% of GDP (2018 est.)<br>
-<strong>note:</strong> this figure is based on the amount of federal government debt, RM501.6 billion ($167.2 billion) in 2012; this includes Malaysian Treasury bills and other government securities, as well as loans raised externally and bonds and notes issued overseas; this figure excludes debt issued by non-financial public enterprises and guaranteed by the federal government, which was an additional $47.7 billion in 2012<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-10.89% (of GDP) (2020 est.)<br>
+11.21% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$14.143 billion (2021 est.)<br>
+$12.271 billion (2022 est.)<br>
+$14.493 billion (2021 est.)<br>
 $14.138 billion (2020 est.)<br>
-$12.795 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$256.659 billion (2021 est.) note: data are in current year dollars<br>
+$312.857 billion (2022 est.)<br>
+$263.836 billion (2021 est.) note: data are in current year dollars<br>
 $208.217 billion (2020 est.) note: data are in current year dollars<br>
-$238.361 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Singapore 15%, China 14%, US 13%, Hong Kong 6%, Japan 6% (2021)<br>
@@ -508,9 +520,10 @@ Singapore 15%, China 14%, US 13%, Hong Kong 6%, Japan 6% (2021)<br>
 integrated circuits, refined petroleum, palm oil, rubber apparel, natural gas, semiconductors (2021)<br>
 
 **Imports**<br>
-$230.188 billion (2021 est.) note: data are in current year dollars<br>
+$283.601 billion (2022 est.)<br>
+$236.855 billion (2021 est.) note: data are in current year dollars<br>
 $186.613 billion (2020 est.) note: data are in current year dollars<br>
-$210.86 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 29%, Singapore 11%, Japan 6%, US 6%, Taiwan 6% (2021)<br>
@@ -519,9 +532,10 @@ China 29%, Singapore 11%, Japan 6%, US 6%, Taiwan 6% (2021)<br>
 integrated circuits, refined petroleum, crude petroleum, coal, gold, semiconductors (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$116.916 billion (31 December 2021 est.)<br>
-$107.644 billion (31 December 2020 est.)<br>
-$103.63 billion (31 December 2019 est.)<br>
+$114.659 billion (2022 est.)<br>
+$116.916 billion (2021 est.)<br>
+$107.644 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $224.596 billion (2019 est.)<br>
@@ -529,11 +543,11 @@ $226.901 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: ringgits (MYR) per US dollar -<br>
+4.401 (2022 est.)<br>
 4.143 (2021 est.)<br>
 4.203 (2020 est.)<br>
 4.142 (2019 est.)<br>
 4.035 (2018 est.)<br>
-4.3 (2017 est.)<br>
 
 ## Energy
 

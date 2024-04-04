@@ -337,29 +337,32 @@ _selected World Heritage Site locales_: Pitons Management Area<br>
 highly agrarian OECS island economy; ECCU-member state; large banana exporter; improved oversight of its citizenship-by-investment program; emerging ecotourism, information and communications, and education industries<br>
 
 **Real GDP (purchasing power parity)**<br>
-$787.7 million (2021 est.)<br>
-$738.364 million (2020 est.)<br>
-$885.38 million (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$833.828 million (2022 est.)<br>
+$789.248 million (2021 est.)<br>
+$738.371 million (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.68% (2021 est.)<br>
+5.65% (2022 est.)<br>
+6.89% (2021 est.)<br>
 -16.6% (2020 est.)<br>
-5.5% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$11,500 (2022 est.)<br>
 $10,900 (2021 est.)<br>
 $10,300 (2020 est.)<br>
-$12,400 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$557 million (2017 est.)<br>
+$607.441 million (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 -0.73% (2020 est.)<br>
 1.5% (2019 est.)<br>
 0.99% (2018 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 22.3% (2017 est.)<br>
@@ -382,13 +385,8 @@ bananas, yams, grapefruit, taro, milk, coconuts, oranges, yautia, plantains, sug
 soap, coconut oil, tourism, copra, furniture, cement blocks, shoes<br>
 
 **Industrial production growth rate**<br>
-5.01% (2021 est.)<br>
-
-**Labor force**<br>
-25,000 (2000 est.)<br>
-
-**Unemployment rate**<br>
-23% (2000 est.)<br>
+1.07% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Population below poverty line**<br>
 29% (2009 est.)<br>
@@ -398,9 +396,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-10.38% of GDP (2021 est.)<br>
-13.48% of GDP (2020 est.)<br>
-7.77% of GDP (2019 est.)<br>
+8.56% of GDP (2022 est.)<br>
+11.72% of GDP (2021 est.)<br>
+11.61% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $180 million (2021 est.)<br>
@@ -420,14 +419,16 @@ _expenditures_: $184 million (2021 est.)<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$178.763 million (2021 est.)<br>
--$147.521 million (2020 est.)<br>
--$210.115 million (2019 est.)<br>
+-$133.58 million (2022 est.)<br>
+-$153.204 million (2021 est.)<br>
+-$178.7 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$104.959 million (2021 est.) note: data are in current year dollars<br>
-$94.823 million (2020 est.)<br>
-$211.175 million (2019 est.)<br>
+$192.278 million (2022 est.)<br>
+$123.36 million (2021 est.) note: data are in current year dollars<br>
+$95.366 million (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Saudi Arabia 28%, France 6%, United States 5%, Grenada 5%, China 4% (2021)<br>
@@ -436,9 +437,10 @@ Saudi Arabia 28%, France 6%, United States 5%, Grenada 5%, China 4% (2021)<br>
 medical instruments, low-voltage protection equipment, sutures, soap, bandages (2021)<br>
 
 **Imports**<br>
-$302 million (2021 est.) note: data are in current year dollars<br>
-$279 million (2020 est.)<br>
-$415 million (2019 est.)<br>
+$349.052 million (2022 est.)<br>
+$307.79 million (2021 est.) note: data are in current year dollars<br>
+$303.326 million (2020 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 75%, China 5%, Trinidad and Tobago 4%, United Kingdom 2%, Italy 2% (2021)<br>
@@ -447,9 +449,10 @@ United States 75%, China 5%, Trinidad and Tobago 4%, United Kingdom 2%, Italy 2%
 refined petroleum, natural gas, crude petroleum, recreational boats, cars (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$190.843 million (31 December 2021 est.)<br>
-$165.824 million (31 December 2020 est.)<br>
-$155.172 million (31 December 2019 est.)<br>
+$204.343 million (2022 est.)<br>
+$190.843 million (2021 est.)<br>
+$165.824 million (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $280.4 million (31 December 2017 est.)<br>
@@ -457,11 +460,11 @@ $314.2 million (31 December 2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2022 est.)<br>
 2.7 (2021 est.)<br>
 2.7 (2020 est.)<br>
 2.7 (2019 est.)<br>
 2.7 (2018 est.)<br>
-2.7 (2017 est.)<br>
 
 ## Energy
 
@@ -562,8 +565,8 @@ J7<br>
 2 (2024)<br>
 
 **Roadways**<br>
-_total_: 1,512 km (2018)<br>
-_paved_: 762 km (2018)<br>
+_total_: 1,512 km<br>
+_paved_: 762 km<br>
 _unpaved_: 750 km (2018)<br>
 
 **Merchant marine**<br>

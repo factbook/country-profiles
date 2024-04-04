@@ -316,7 +316,7 @@ _etymology_: the Romans named the original settlement "Matrice" after the river 
 National Day (Hispanic Day), 12 October (1492); note - commemorates the arrival of COLUMBUS in the Americas<br>
 
 **Constitution**<br>
-_history_: previous 1812; latest approved by the General Courts 31 October 1978, passed by referendum 6 December 1978, signed by the king 27 December 1978, effective 29 December 1978<br>
+_history_: several previous; latest approved by the General Courts 31 October 1978, passed by referendum 6 December 1978, signed by the king 27 December 1978, effective 29 December 1978<br>
 _amendments_: proposed by the government, by the General Courts (the Congress or the Senate), or by the self-governing communities submitted through the government; passage requires three-fifths majority vote by both houses and passage by referendum if requested by one tenth of the members of either house; proposals disapproved by both houses are submitted to a joint committee, which submits an agreed upon text for another vote; passage requires two-thirds majority vote in Congress and simple majority vote in the Senate; amended 1992, 2011<br>
 
 **Legal system**<br>
@@ -397,29 +397,32 @@ _selected World Heritage Site locales_: Cave of Altamira and Paleolithic Cave Ar
 high-income core EU economy; diversified trade portfolio; continental tourism locale; high government spending and debt; prone to political financing corruption; negatively impacted by COVID-19; important port and customs infrastructure; key clothing/footwear supplier<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.798 trillion (2021 est.)<br>
-$1.704 trillion (2020 est.)<br>
-$1.921 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$1.922 trillion (2022 est.)<br>
+$1.817 trillion (2021 est.)<br>
+$1.708 trillion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.52% (2021 est.)<br>
--11.33% (2020 est.)<br>
-1.98% (2019 est.)<br>
+5.77% (2022 est.)<br>
+6.4% (2021 est.)<br>
+-11.17% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$37,900 (2021 est.)<br>
-$36,000 (2020 est.)<br>
-$40,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$40,200 (2022 est.)<br>
+$38,300 (2021 est.)<br>
+$36,100 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1,393,351,000,000 (2019 est.)<br>
+$1.418 trillion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.39% (2022 est.)<br>
 3.09% (2021 est.)<br>
 -0.32% (2020 est.)<br>
-0.7% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A- (2018)<br>
@@ -447,15 +450,18 @@ barley, milk, wheat, olives, grapes, tomatoes, pork, maize, oranges, sugar beets
 textiles and apparel (including footwear), food and beverages, metals and metal manufactures, chemicals, shipbuilding, automobiles, machine tools, tourism, clay and refractory products, footwear, pharmaceuticals, medical equipment<br>
 
 **Industrial production growth rate**<br>
-4.03% (2021 est.)<br>
+2.71% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-23.382 million (2021 est.)<br>
+23.687 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-14.73% (2021 est.)<br>
+12.92% (2022 est.)<br>
+14.78% (2021 est.)<br>
 15.53% (2020 est.)<br>
-14.1% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 36.9% (2021 est.)<br>
@@ -463,23 +469,27 @@ _male_: 35.9%<br>
 _female_: 38.2%<br>
 
 **Population below poverty line**<br>
-20.7% (2018 est.)<br>
+20.4% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-34.3 (2019 est.)<br>
+34.9 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 12.1% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 3.5% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.5%<br>
-_highest 10%_: 24% (2011)<br>
+_lowest 10%_: 1.9%<br>
+_highest 10%_: 25% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.28% of GDP (2021 est.)<br>
+0.3% of GDP (2022 est.)<br>
+0.27% of GDP (2021 est.)<br>
 0.23% of GDP (2020 est.)<br>
-0.23% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $546.084 billion (2019 est.)<br>
@@ -489,25 +499,29 @@ _expenditures_: $585.979 billion (2019 est.)<br>
 -3.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-141.22% of GDP (2020 est.)<br>
-108.99% of GDP (2019 est.)<br>
-104.74% of GDP (2018 est.)<br>
+134.1% of GDP (2021 est.)<br>
+140.27% of GDP (2020 est.)<br>
+112.05% of GDP (2019 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-13.58% (of GDP) (2020 est.)<br>
+15.03% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$13.445 billion (2021 est.)<br>
-$8.045 billion (2020 est.)<br>
-$29.247 billion (2019 est.)<br>
+$8.095 billion (2022 est.)<br>
+$10.893 billion (2021 est.)<br>
+$8.229 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$497.868 billion (2021 est.) ; note: data are in current year dollars<br>
-$393.774 billion (2020 est.) ; note: data are in current year dollars<br>
-$486.633 billion (2019 est.) ; note: data are in current year dollars<br>
+$578.039 billion (2022 est.)<br>
+$493.359 billion (2021 est.) ; note: data are in current year dollars<br>
+$393.87 billion (2020 est.) ; note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 France 15%, Germany 11%, Italy 8%, Portugal 8%, United Kingdom 7%, United States 5% (2019)<br>
@@ -516,9 +530,10 @@ France 15%, Germany 11%, Italy 8%, Portugal 8%, United Kingdom 7%, United States
 cars and vehicle parts, refined petroleum, packaged medicines, delivery trucks, clothing and apparel (2019)<br>
 
 **Imports**<br>
-$476.678 billion (2021 est.) note: data are in current year dollars<br>
-$375.087 billion (2020 est.) note: data are in current year dollars<br>
-$445.719 billion (2019 est.) note: data are in current year dollars<br>
+$561.49 billion (2022 est.)<br>
+$479.392 billion (2021 est.) note: data are in current year dollars<br>
+$375.378 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Germany 13%, France 11%, China 8%, Italy 7% (2019)<br>
@@ -527,9 +542,10 @@ Germany 13%, France 11%, China 8%, Italy 7% (2019)<br>
 crude petroleum, cars and vehicle parts, packaged medicines, natural gas, refined petroleum (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$92.201 billion (31 December 2021 est.)<br>
-$81.288 billion (31 December 2020 est.)<br>
-$74.731 billion (31 December 2019 est.)<br>
+$92.905 billion (2022 est.)<br>
+$92.201 billion (2021 est.)<br>
+$81.288 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2.338 trillion (2019 est.)<br>
@@ -537,11 +553,11 @@ $2.366 trillion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
 0.847 (2018 est.)<br>
-0.885 (2017 est.)<br>
 
 ## Energy
 
@@ -737,7 +753,7 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 438,400 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022); 192,390 (Ukraine) (as of 29 February 2024)<br>
 _stateless persons_: 6,489 (2022)<br>
-<strong>note: </strong>349,931 estimated refugee and migrant arrivals, including Canary Islands (January 2015-March 2024)<br>
+<strong>note: </strong>351,562 estimated refugee and migrant arrivals, including Canary Islands (January 2015-March 2024)<br>
 
 **Illicit drugs**<br>
 <p>a European transit point for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection or altered to escape detection after which chemists within Spain extract and reconstitute any altered form of cocaine, preparing it for distribution within Europe;  minor domestic drug production; occasionally synthetic drugs, including ketamine, new psychoactive substances (NPS), and MDMA transit through Spain to the United States</p><br>

@@ -352,29 +352,32 @@ _selected World Heritage Site locales_: Pitons Management Area<br>
 upper middle-income, tourism-based Caribbean island economy; environmentally fragile; energy import-dependent; major banana producer; well-educated labor force; key infrastructure, IT, and communications investments<br>
 
 **Real GDP (purchasing power parity)**<br>
+$2.716 billion (2022 est.)<br>
 $2.344 billion (2021 est.)<br>
 $2.088 billion (2020 est.)<br>
-$2.761 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+15.88% (2022 est.)<br>
 12.23% (2021 est.)<br>
 -24.36% (2020 est.)<br>
--0.65% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$15,100 (2022 est.)<br>
 $13,000 (2021 est.)<br>
 $11,700 (2020 est.)<br>
-$15,500 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.686 billion (2017 est.)<br>
+$2.344 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.38% (2022 est.)<br>
 2.41% (2021 est.)<br>
 -1.76% (2020 est.)<br>
-0.54% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.9% (2017 est.)<br>
@@ -396,15 +399,18 @@ bananas, coconuts, fruit, tropical fruit, plantains, roots/tubers, cassava, poul
 tourism; clothing, assembly of electronic components, beverages, corrugated cardboard boxes, lime processing, coconut processing<br>
 
 **Industrial production growth rate**<br>
-10.8% (2021 est.)<br>
+-0.41% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-99,900 (2021 est.)<br>
+103,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-16.91% (2021 est.)<br>
-16.89% (2020 est.)<br>
-15.32% (2019 est.)<br>
+15.77% (2022 est.)<br>
+19.58% (2021 est.)<br>
+20.41% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 38.7% (2021 est.)<br>
@@ -413,18 +419,22 @@ _female_: 36.2%<br>
 
 **Population below poverty line**<br>
 25% (2016 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 51.2 (2016 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
+_lowest 10%_: 0.9% NA<br>
+_highest 10%_: 38.6% (2016 est.) NA<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.7% of GDP (2021 est.)<br>
-3.93% of GDP (2020 est.)<br>
-2.06% of GDP (2019 est.)<br>
+2.36% of GDP (2022 est.)<br>
+3.23% of GDP (2021 est.)<br>
+3.51% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $350 million (2020 est.)<br>
@@ -439,19 +449,22 @@ _expenditures_: $516 million (2020 est.)<br>
 
 **Taxes and other revenues**<br>
 18.24% (of GDP) (2017 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$2.289 million (2021 est.)<br>
--$237.61 million (2020 est.)<br>
-$119.6 million (2019 est.)<br>
+-$52.32 million (2022 est.)<br>
+-$129.365 million (2021 est.)<br>
+-$231.919 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$890.724 million (2021 est.) note: data are in current year dollars<br>
-$445.965 million (2020 est.)<br>
-$1.209 billion (2019 est.)<br>
+$1.209 billion (2022 est.)<br>
+$710.431 million (2021 est.) note: data are in current year dollars<br>
+$452.444 million (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Brazil 98% (2021)<br>
@@ -460,9 +473,10 @@ Brazil 98% (2021)<br>
 crude petroleum, fertilizers, refined petroleum, polymers, aluminum (2021)<br>
 
 **Imports**<br>
-$846.484 million (2021 est.) note: data are in current year dollars<br>
-$672.769 million (2020 est.)<br>
-$968.174 million (2019 est.)<br>
+$1.179 billion (2022 est.)<br>
+$815.666 million (2021 est.) note: data are in current year dollars<br>
+$666.968 million (2020 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Brazil 64%, United States 14%, Russia 8%, Colombia 7%, Trinidad and Tobago 2% (2021)<br>
@@ -471,9 +485,10 @@ Brazil 64%, United States 14%, Russia 8%, Colombia 7%, Trinidad and Tobago 2% (2
 crude petroleum, poultry, sugar, refined petroleum, soybeans, beef, corn, wheat (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$433.117 million (31 December 2021 est.)<br>
-$231.361 million (31 December 2020 est.)<br>
-$260.87 million (31 December 2019 est.)<br>
+$389.083 million (2022 est.)<br>
+$433.117 million (2021 est.)<br>
+$231.361 million (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $570.6 million (31 December 2017 est.)<br>
@@ -481,11 +496,11 @@ $529 million (31 December 2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2022 est.)<br>
 2.7 (2021 est.)<br>
 2.7 (2020 est.)<br>
 2.7 (2019 est.)<br>
 2.7 (2018 est.)<br>
-2.7 (2017 est.)<br>
 
 ## Energy
 

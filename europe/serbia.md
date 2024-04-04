@@ -349,7 +349,7 @@ _residency requirement for naturalization_: 3 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Aleksandar VUCIC (since 31 May 2017)<br>
-_head of government_: Prime Minister Ana BRNABIC (since 29 June 2017)<br>
+_head of government_: Acting Prime Minister Ivica DACIC (since 20 March 2024); note - former Prime Minister Ana BRNABIC stepped down on 20 March 2024 after her election as parliament speaker; Ivica DACIC will be acting prime minister until the next election (date not yet set)<br>
 _cabinet_: Cabinet elected by the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 17 December 2023 (next to be held in 2028); prime minister elected by the National Assembly; note - on 1 November 2023 President VUCIC dissolved parliament and called for snap elections on 17 December 2023<br>
 _election results_: <br><em>2022:</em> Aleksandar VUCIC reelected in first round; percent of vote - Aleksandar VUCIC (SNS) 60%, Zdravko PONOS (US) 18.9%, Milos JOVANOVIC (NADA) 6.1%, Bosko OBRADOVIC (Dveri-POKS) 4.5%, Milica DJURDJEVIC STAMENKOVSKI (SSZ) 4.3%, other 6.2%<br><br><em>2017:</em> Aleksandar VUCIC elected president in first round; percent of vote - Aleksandar VUCIC (SNS) 55.1%, Sasa JANKOVIC (independent) 16.4%, Luka MAKSIMOVIC (independent) 9.4%, Vuk JEREMIC (independent) 5.7%, Vojislav SESELJ (SRS) 4.5%, other 7.3%, invalid/blank 1.6%; Prime Minister Ana BRNABIC reelected by the National Assembly on 5 October 2020; National Assembly vote - NA<br>
@@ -410,29 +410,32 @@ _selected World Heritage Site locales_: Stari Ras and Sopoćani; Studenica Monas
 upper middle-income Balkan economy; current EU accession candidate; hit by COVID-19; pursuing green growth development; manageable public debt; new anticorruption efforts; falling unemployment; historic Russian relations; energy import-dependent<br>
 
 **Real GDP (purchasing power parity)**<br>
-$135.534 billion (2021 est.)<br>
-$126.019 billion (2020 est.)<br>
-$127.168 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$139.193 billion (2022 est.)<br>
+$135.732 billion (2021 est.)<br>
+$125.997 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-7.55% (2021 est.)<br>
+2.55% (2022 est.)<br>
+7.73% (2021 est.)<br>
 -0.9% (2020 est.)<br>
-4.33% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$19,800 (2021 est.)<br>
+$20,900 (2022 est.)<br>
+$19,900 (2021 est.)<br>
 $18,300 (2020 est.)<br>
-$18,300 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$51.449 billion (2019 est.)<br>
+$63.563 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+11.98% (2022 est.)<br>
 4.09% (2021 est.)<br>
 1.58% (2020 est.)<br>
-1.85% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB+ (2019)<br>
@@ -460,15 +463,18 @@ maize, wheat, sugar beet, milk, sunflower seed, potatoes, soybeans, plums/sloes,
 automobiles, base metals, furniture, food processing, machinery, chemicals, sugar, tires, clothes, pharmaceuticals<br>
 
 **Industrial production growth rate**<br>
-8.63% (2021 est.)<br>
+-0.06% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.176 million (2021 est.)<br>
+3.373 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.81% (2021 est.)<br>
+8.68% (2022 est.)<br>
+10.06% (2021 est.)<br>
 9.01% (2020 est.)<br>
-10.39% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 30.4% (2021 est.)<br>
@@ -476,23 +482,27 @@ _male_: 28.5%<br>
 _female_: 33.7%<br>
 
 **Population below poverty line**<br>
-23.2% (2018 est.)<br>
+21.2% (2020 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-34.5 (2019 est.)<br>
+35 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 25.6% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 7% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.2%<br>
-_highest 10%_: 23.8% (2011)<br>
+_lowest 10%_: 2.3%<br>
+_highest 10%_: 27.1% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+8.81% of GDP (2022 est.)<br>
 7.29% of GDP (2021 est.)<br>
 7.25% of GDP (2020 est.)<br>
-8.23% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $21.858 billion (2020 est.)<br>
@@ -507,17 +517,20 @@ _expenditures_: $25.72 billion (2020 est.)<br>
 73.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-23.49% (of GDP) (2020 est.)<br>
+20.61% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$2.742 billion (2021 est.)<br>
--$2.177 billion (2020 est.)<br>
--$3.535 billion (2019 est.)<br>
+-$4,457,001,000 (2022 est.)<br>
+-$2,654,390,000 (2021 est.)<br>
+-$2,176,774,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$33.726 billion (2021 est.) note: data are in current year dollars<br>
+$39.905 billion (2022 est.)<br>
+$34.035 billion (2021 est.) note: data are in current year dollars<br>
 $25.5 billion (2020 est.) note: data are in current year dollars<br>
-$26.127 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Germany 12%, Italy 10%, Bosnia and Herzegovina 7%, Romania 6%, Russia 5%&nbsp; (2019)<br>
@@ -526,9 +539,10 @@ Germany 12%, Italy 10%, Bosnia and Herzegovina 7%, Romania 6%, Russia 5%&nbsp; (
 insulated wiring, tires, corn, cars, iron products, copper (2019)<br>
 
 **Imports**<br>
-$39.039 billion (2021 est.) note: data are in current year dollars<br>
+$47.395 billion (2022 est.)<br>
+$39.476 billion (2021 est.) note: data are in current year dollars<br>
 $30.177 billion (2020 est.) note: data are in current year dollars<br>
-$31.286 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Germany 13%, Russia 9%, Italy 8%, Hungary 6%, China 5%, Turkey 5% (2019)<br>
@@ -537,9 +551,10 @@ Germany 13%, Russia 9%, Italy 8%, Hungary 6%, China 5%, Turkey 5% (2019)<br>
 crude petroleum, cars, packaged medicines, natural gas, refined petroleum (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$18.617 billion (31 December 2021 est.)<br>
-$16.587 billion (31 December 2020 est.)<br>
-$14.995 billion (31 December 2019 est.)<br>
+$20.68 billion (2022 est.)<br>
+$18.617 billion (2021 est.)<br>
+$16.587 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $30.927 billion (2019 est.)<br>
@@ -547,11 +562,11 @@ $30.618 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Serbian dinars (RSD) per US dollar -<br>
+111.662 (2022 est.)<br>
 99.396 (2021 est.)<br>
 103.163 (2020 est.)<br>
 105.25 (2019 est.)<br>
 100.175 (2018 est.)<br>
-107.759 (2017 est.)<br>
 
 ## Energy
 
@@ -711,7 +726,7 @@ the Serbian military is responsible for defense and deterrence against external 
 _refugees (country of origin)_: 17,334 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2022)<br>
 _IDPs_: 196,066 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2022)<br>
 _stateless persons_: 2,594 (includes stateless persons in Kosovo) (2022)<br>
-<strong>note:</strong> 1,044,722 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
+<strong>note:</strong> 1,045,323 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Serbia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government identified more victims and its Center for Protection of Trafficking Victims (CPTV) established a panel with a psychologist, educator, and social worker to conduct victim assessments within 24 hours of a referral; a court seized a house built from the profits of forced begging and gave ownership of the house to the victim as restitution; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; fewer investigations, prosecutions, and convictions of traffickers took place; officials decreased resources for the CPTV, despite its lack of staff, skills, and resources to assess victims, coordinate care, and run the CTPV shelter; standard operating procedures on victim identification remained unclear, and implementation was &ldquo;recommended&rdquo; rather than required; authorities inappropriately penalized victims with imprisonment, probation, and fines for unlawful acts committed as a direct result of being trafficked; the Anti-Trafficking Council has not met in three years, and the government has not adopted the 2021-2022 National Action Plan; official complicity in trafficking or inaction remained significant concerns; the government did not fully protect victims or fully investigate credible allegations that approximately 500 Vietnamese workers were subjected to forced labor at a factory owned by China; therefore, Serbia remained on Tier 2 Watch List for the second consecutive year (2023)<br>

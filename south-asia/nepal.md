@@ -396,29 +396,32 @@ _selected World Heritage Site locales_: Kathmandu Valley (c); Sagarmatha Nationa
 low-income South Asian economy; post-conflict fiscal federalism increasing stability; COVID-19 hurt trade and tourism; widening current account deficits; environmentally fragile economy from earthquakes; growing Chinese relations and investments<br>
 
 **Real GDP (purchasing power parity)**<br>
-$115.093 billion (2021 est.)<br>
+$122.242 billion (2022 est.)<br>
+$115.745 billion (2021 est.)<br>
 $110.404 billion (2020 est.)<br>
-$113.083 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.25% (2021 est.)<br>
+5.61% (2022 est.)<br>
+4.84% (2021 est.)<br>
 -2.37% (2020 est.)<br>
-6.66% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,800 (2021 est.)<br>
+$4,000 (2022 est.)<br>
+$3,900 (2021 est.)<br>
 $3,800 (2020 est.)<br>
-$3,900 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$24.88 billion (2017 est.)<br>
+$40.828 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-4.09% (2021 est.)<br>
+7.65% (2022 est.)<br>
+4.15% (2021 est.)<br>
 5.05% (2020 est.)<br>
-5.57% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 27% (2017 est.)<br>
@@ -440,16 +443,18 @@ rice, vegetables, sugar cane, potatoes, maize, wheat, buffalo milk, milk, fruit,
 tourism, carpets, textiles; small rice, jute, sugar, and oilseed mills; cigarettes, cement and brick production<br>
 
 **Industrial production growth rate**<br>
-4.51% (2021 est.)<br>
+10.8% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-16.884 million (2021 est.)<br>
-<strong>note:</strong> severe lack of skilled labor<br>
+8.741 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.05% (2021 est.)<br>
-4.72% (2020 est.)<br>
-3.1% (2019 est.)<br>
+10.92% (2022 est.)<br>
+12.58% (2021 est.)<br>
+13.12% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.5% (2021 est.)<br>
@@ -467,9 +472,10 @@ _lowest 10%_: 3.2%<br>
 _highest 10%_: 29.5% (2011)<br>
 
 **Remittances**<br>
-22.61% of GDP (2021 est.)<br>
+22.76% of GDP (2022 est.)<br>
+22.28% of GDP (2021 est.)<br>
 24.25% of GDP (2020 est.)<br>
-24.12% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $7.305 billion (2020 est.)<br>
@@ -479,24 +485,29 @@ _expenditures_: $9.008 billion (2020 est.)<br>
 -0.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+39.92% of GDP (2021 est.)<br>
 39.05% of GDP (2020 est.)<br>
 31.78% of GDP (2019 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-15.77% (of GDP) (2020 est.)<br>
+17.49% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 16 July - 15 July<br>
 
 **Current account balance**<br>
--$5.363 billion (2021 est.)<br>
+-$2,517,839,000 (2022 est.)<br>
+-$5,362,970,000 (2021 est.)<br>
 -$84.137 million (2020 est.)<br>
--$1.754 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$2.733 billion (2022 est.)<br>
 $2.52 billion (2021 est.) note: data are in current year dollars<br>
 $1.771 billion (2020 est.) note: data are in current year dollars<br>
-$2.726 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 India 68%, United States 10% (2019)<br>
@@ -505,9 +516,10 @@ India 68%, United States 10% (2019)<br>
 soybean oil, palm oil, clothing and apparel, carpets, nutmeg (2021)<br>
 
 **Imports**<br>
+$15.462 billion (2022 est.)<br>
 $16.993 billion (2021 est.) note: data are in current year dollars<br>
 $10.694 billion (2020 est.) note: data are in current year dollars<br>
-$13.836 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 India 70%, China 15% (2019)<br>
@@ -516,9 +528,10 @@ India 70%, China 15% (2019)<br>
 refined petroleum, iron, broadcasting equipment, natural gas, rice (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$9.661 billion (31 December 2021 est.)<br>
-$11.468 billion (31 December 2020 est.)<br>
-$8.713 billion (31 December 2019 est.)<br>
+$9.319 billion (2022 est.)<br>
+$9.639 billion (2021 est.)<br>
+$11.468 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $5.849 billion (31 December 2017 est.)<br>
@@ -526,11 +539,11 @@ $4.321 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Nepalese rupees (NPR) per US dollar -<br>
+125.199 (2022 est.)<br>
 118.134 (2021 est.)<br>
 118.345 (2020 est.)<br>
 112.609 (2019 est.)<br>
 108.93 (2018 est.)<br>
-104.512 (2017 est.)<br>
 
 ## Energy
 

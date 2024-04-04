@@ -357,7 +357,8 @@ $90,100 (2008 est.)<br>
 $91,300 (2007 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$6.672 billion (2014 est.)<br>
+$7.71 billion (2021 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 -0.4% (2016 est.)<br>
@@ -379,7 +380,8 @@ wheat, barley, corn, potatoes; livestock, dairy products<br>
 electronics, metal manufacturing, dental products, ceramics, pharmaceuticals, food products, precision instruments, tourism, optical instruments<br>
 
 **Industrial production growth rate**<br>
-NA<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 38,520 (2015 est.) (2012)<br>
@@ -430,11 +432,11 @@ $0 (2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Swiss francs (CHF) per US dollar -<br>
-0.9875 (2017 est.)<br>
-0.9852 (2016 est.)<br>
-0.9852 (2015 est.)<br>
-0.9627 (2014 est.)<br>
-0.9152 (2013 est.)<br>
+0.955 (2022 est.)<br>
+0.914 (2021 est.)<br>
+0.939 (2020 est.)<br>
+0.994 (2019 est.)<br>
+0.978 (2018 est.)<br>
 
 ## Energy
 

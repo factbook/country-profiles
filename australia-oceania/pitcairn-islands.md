@@ -260,17 +260,11 @@ _lyrics/music_: unknown/Frederick M. LEHMAN<br>
 **Economic overview**<br>
 small South Pacific British island territorial economy; exports primarily postage stamps, handicraft goods, honey, and tinctures; extremely limited infrastructure; dependent upon UK and EU aid; recent border reopening post-COVID-19<br>
 
-**Real GDP (purchasing power parity)**<br>
-<p>NA</p><br>
-
 **Agricultural products**<br>
 honey; wide variety of fruits and vegetables; goats, chickens; fish<br>
 
 **Industries**<br>
 postage stamps, handicrafts, beekeeping, honey<br>
-
-**Labor force**<br>
-15 (2004)<br>
 
 **Budget**<br>
 _revenues_: $746,000 (FY04/05)<br>
@@ -279,17 +273,11 @@ _expenditures_: $1.028 million (FY04/05)<br>
 **Fiscal year**<br>
 1 April - 31 March<br>
 
-**Exports**<br>
-<p>NA</p><br>
-
 **Exports - partners**<br>
 South Africa 24%, Canada 20%, Germany 13%, Czechia 8%, El Salvador 5%, Spain 5% (2019)<br>
 
 **Exports - commodities**<br>
 leather footwear, gas turbine parts, precious metal ores, clothing and apparel, beef (2019)<br>
-
-**Imports**<br>
-<p>NA</p><br>
 
 **Imports - partners**<br>
 Ecuador 43%, New Zealand 29% (2019)<br>

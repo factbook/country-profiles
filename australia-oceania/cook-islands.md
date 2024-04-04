@@ -344,9 +344,6 @@ $16,800 (2020 est.)<br>
 **GDP (official exchange rate)**<br>
 $336 million (2022 est.)<br>
 
-**Inflation rate (consumer prices)**<br>
-2.2% (2011 est.)<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 5.1% (2010 est.)<br>
 _industry_: 12.7% (2010 est.)<br>
@@ -357,15 +354,6 @@ vegetables, coconuts, roots/tubers, cassava, papayas, tomatoes, pork, fruit, swe
 
 **Industries**<br>
 fishing, fruit processing, tourism, clothing, handicrafts<br>
-
-**Industrial production growth rate**<br>
-1% (2002)<br>
-
-**Labor force**<br>
-6,820 (2001)<br>
-
-**Unemployment rate**<br>
-13.1% (2005)<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -381,14 +369,8 @@ _expenditures_: $77.9 million (2010)<br>
 **Budget surplus (+) or deficit (-)**<br>
 3% (of GDP) (2010 est.)<br>
 
-**Taxes and other revenues**<br>
-29% (of GDP) (2010 est.)<br>
-
 **Fiscal year**<br>
 1 April - 31 March<br>
-
-**Current account balance**<br>
-$26.67 million (2005)<br>
 
 **Exports**<br>
 $31.4 million (2021 est.)<br>
@@ -524,8 +506,8 @@ E5<br>
 10 (2024)<br>
 
 **Roadways**<br>
-_total_: 295 km (2018)<br>
-_paved_: 207 km (2018)<br>
+_total_: 295 km<br>
+_paved_: 207 km<br>
 _unpaved_: 88 km (2018)<br>
 
 **Merchant marine**<br>
@@ -546,5 +528,5 @@ defense is the responsibility of New Zealand in consultation with the Cook Islan
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 

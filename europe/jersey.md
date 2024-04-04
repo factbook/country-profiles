@@ -303,21 +303,21 @@ British territorial island economy; strong offshore banking and finance sectors;
 $5.569 billion (2016 est.)<br>
 $5.514 billion (2015 est.)<br>
 $4.98 billion (2014 est.)<br>
-<strong>note:</strong> data are in 2015 US dollars<br>
+<strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
-1% (2016 est.)<br>
-10.7% (2015 est.)<br>
+8.65% (2021 est.)<br>
+-7.97% (2020 est.)<br>
+1.33% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency; entry includes Jersey and Guernsey<br>
 
 **Real GDP per capita**<br>
 $56,600 (2016 est.)<br>
 $49,500 (2015 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$5.004 billion (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-3.7% (2006)<br>
+$11.736 billion (2021 est.)<br>
+note: data in current dollars at official exchange rate; entry includes Jersey and Guernsey<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2% (2010)<br>
@@ -331,15 +331,18 @@ potatoes, cauliflower, tomatoes; beef, dairy products<br>
 tourism, banking and finance, dairy, electronics<br>
 
 **Industrial production growth rate**<br>
-NA<br>
+25.3% (2021 est.)<br>
+note: annual % change in industrial value added based on constant local currency; entry includes Jersey and Guernsey<br>
 
 **Labor force**<br>
-86,800 (2021 est.)<br>
+86,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work;entry includes Jersey and Guernsey<br>
 
 **Unemployment rate**<br>
-7.37% (2021 est.)<br>
-7.69% (2020 est.)<br>
-6.41% (2019 est.)<br>
+6.03% (2022 est.)<br>
+6.73% (2021 est.)<br>
+6.72% (2020 est.)<br>
+note: % of labor force seeking employment; entry includes Jersey and Guernsey<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.8% (2021 est.)<br>
@@ -363,23 +366,14 @@ _expenditures_: $851 million (2005)<br>
 **Budget surplus (+) or deficit (-)**<br>
 -0.4% (of GDP) (2005)<br>
 
-**Taxes and other revenues**<br>
-16.6% (of GDP) (2005)<br>
-
 **Fiscal year**<br>
 1 April - 31 March<br>
-
-**Exports**<br>
-<p>NA</p><br>
 
 **Exports - partners**<br>
 almost entirely United Kingdom (2022)<br>
 
 **Exports - commodities**<br>
 refined petroleum, beverages, ships, jewelry, artwork (2022)<br>
-
-**Imports**<br>
-<p>NA</p><br>
 
 **Imports - partners**<br>
 almost entirely United Kingdom (2022)<br>
@@ -392,11 +386,11 @@ artwork, ships, vegetables, fruits, jewelry (2022)<br>
 
 **Exchange rates**<br>
 _Currency_: Jersey pounds (JEP) per US dollar<br>
-0.7836 (2017 est.)<br>
-0.738 (2016 est.)<br>
-0.738 (2015)<br>
-0.6542 (2012)<br>
-0.6391 (2011 est.)<br>
+0.811 (2022 est.)<br>
+0.727 (2021 est.)<br>
+0.78 (2020 est.)<br>
+0.783 (2019 est.)<br>
+0.75 (2018 est.)<br>
 
 ## Energy
 

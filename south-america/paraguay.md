@@ -399,29 +399,32 @@ _selected World Heritage Site locales_: Jesuit Missions of La Sant&iacute;sima T
 upper middle-income South American economy; COVID-19 hit while still recovering from 2019 Argentina-driven recession; global hydroelectricity leader; major corruption and money-laundering locale; highly agrarian economy; significant income inequality<br>
 
 **Real GDP (purchasing power parity)**<br>
-$91.759 billion (2021 est.)<br>
+$91.753 billion (2022 est.)<br>
+$91.684 billion (2021 est.)<br>
 $88.143 billion (2020 est.)<br>
-$88.872 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.1% (2021 est.)<br>
+0.08% (2022 est.)<br>
+4.02% (2021 est.)<br>
 -0.82% (2020 est.)<br>
--0.4% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$13,500 (2022 est.)<br>
 $13,700 (2021 est.)<br>
 $13,300 (2020 est.)<br>
-$13,600 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$38.94 billion (2017 est.)<br>
+$41.722 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+9.77% (2022 est.)<br>
 4.79% (2021 est.)<br>
 1.77% (2020 est.)<br>
-2.76% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB+ (2018)<br>
@@ -449,15 +452,18 @@ soybeans, sugar cane, maize, cassava, wheat, rice, beef, milk, oranges, oil palm
 sugar processing, cement, textiles, beverages, wood products, steel, base metals, electric power<br>
 
 **Industrial production growth rate**<br>
-4.69% (2021 est.)<br>
+0.3% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.43 million (2021 est.)<br>
+3.404 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.21% (2021 est.)<br>
+6.75% (2022 est.)<br>
+7.31% (2021 est.)<br>
 7.55% (2020 est.)<br>
-6.59% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 16.3% (2021 est.)<br>
@@ -465,23 +471,27 @@ _male_: 12.7%<br>
 _female_: 21.9%<br>
 
 **Population below poverty line**<br>
-23.5% (2019 est.)<br>
+24.7% (2022 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-43.5 (2020 est.)<br>
+45.1 (2022 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 31.7% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 4.2% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.5%<br>
-_highest 10%_: 37.6% (2013 est.)<br>
+_lowest 10%_: 1.8%<br>
+_highest 10%_: 35.4% (2022 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.48% of GDP (2021 est.)<br>
+1.42% of GDP (2022 est.)<br>
+1.47% of GDP (2021 est.)<br>
 1.65% of GDP (2020 est.)<br>
-1.76% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $7.272 billion (2019 est.)<br>
@@ -495,20 +505,23 @@ _expenditures_: $8.714 billion (2019 est.)<br>
 18.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-9.51% (of GDP) (2020 est.)<br>
+9.79% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$311.068 million (2021 est.)<br>
-$959.673 million (2020 est.)<br>
--$178.179 million (2019 est.)<br>
+-$2,792,719,000 (2022 est.)<br>
+-$308.061 million (2021 est.)<br>
+$685.188 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$14.154 billion (2021 est.) note: data are in current year dollars<br>
-$11.794 billion (2020 est.) note: data are in current year dollars<br>
-$13.272 billion (2019 est.) note: data are in current year dollars<br>
+$14.971 billion (2022 est.)<br>
+$14.821 billion (2021 est.) note: data are in current year dollars<br>
+$12.339 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Brazil 32%, Argentina 22%, Chile 8%, Russia 8% (2019)<br>
@@ -517,9 +530,10 @@ Brazil 32%, Argentina 22%, Chile 8%, Russia 8% (2019)<br>
 soybeans and soybean products, electricity, beef, corn, insulated wiring (2019)<br>
 
 **Imports**<br>
-$13.454 billion (2021 est.) note: data are in current year dollars<br>
-$10.46 billion (2020 est.) note: data are in current year dollars<br>
-$13.146 billion (2019 est.) note: data are in current year dollars<br>
+$17.142 billion (2022 est.)<br>
+$14.316 billion (2021 est.) note: data are in current year dollars<br>
+$10.982 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Brazil 24%, United States 22%, China 17%, Argentina 10%, Chile 5% (2019)<br>
@@ -528,9 +542,10 @@ Brazil 24%, United States 22%, China 17%, Argentina 10%, Chile 5% (2019)<br>
 broadcasting equipment, cars, pesticides, refined petroleum, tires (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$9.661 billion (31 December 2021 est.)<br>
-$9.202 billion (31 December 2020 est.)<br>
-$7.717 billion (31 December 2019 est.)<br>
+$9.519 billion (2022 est.)<br>
+$9.661 billion (2021 est.)<br>
+$9.202 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $16.622 billion (2019 est.)<br>
@@ -538,11 +553,11 @@ $16.238 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: guarani (PYG) per US dollar -<br>
+6,982.752 (2022 est.)<br>
 6,774.163 (2021 est.)<br>
 6,771.097 (2020 est.)<br>
 6,240.722 (2019 est.)<br>
 5,732.105 (2018 est.)<br>
-5,618.933 (2017 est.)<br>
 
 ## Energy
 

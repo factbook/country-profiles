@@ -402,29 +402,32 @@ _selected World Heritage Site locales_: Historic City of Colonia del Sacramento;
 high-income, export-oriented South American economy; South America&rsquo;s largest middle class; low socioeconomic inequality; growing homicide rates; growing Chinese and EU relations; 2019 Argentine recession hurt; key milk, beef, rice, and wool exporter<br>
 
 **Real GDP (purchasing power parity)**<br>
-$78.121 billion (2021 est.)<br>
-$74.852 billion (2020 est.)<br>
-$79.733 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$83.607 billion (2022 est.)<br>
+$79.685 billion (2021 est.)<br>
+$75.692 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.37% (2021 est.)<br>
--6.12% (2020 est.)<br>
-0.35% (2019 est.)<br>
+4.92% (2022 est.)<br>
+5.28% (2021 est.)<br>
+-6.26% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$22,800 (2021 est.)<br>
-$21,800 (2020 est.)<br>
-$23,300 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$24,400 (2022 est.)<br>
+$23,300 (2021 est.)<br>
+$22,100 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$56.108 billion (2019 est.)<br>
+$71.177 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+9.1% (2022 est.)<br>
 7.75% (2021 est.)<br>
 9.76% (2020 est.)<br>
-7.88% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2013)<br>
@@ -452,15 +455,18 @@ soybeans, milk, rice, maize, wheat, barley, beef, sugar cane, sorghum, oranges<b
 food processing, electrical machinery, transportation equipment, petroleum products, textiles, chemicals, beverages<br>
 
 **Industrial production growth rate**<br>
-5.87% (2021 est.)<br>
+1.76% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.702 million (2021 est.)<br>
+1.751 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-10.45% (2021 est.)<br>
-10.35% (2020 est.)<br>
-8.88% (2019 est.)<br>
+7.87% (2022 est.)<br>
+9.29% (2021 est.)<br>
+10.33% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 32.9% (2021 est.)<br>
@@ -468,23 +474,27 @@ _male_: 28.3%<br>
 _female_: 38.7%<br>
 
 **Population below poverty line**<br>
-8.8% (2019 est.)<br>
+9.9% (2022 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-40.2 (2020 est.)<br>
+40.8 (2021 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 18.6% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 1.3% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.9%<br>
-_highest 10%_: 30.8% (2014 est.)<br>
+_lowest 10%_: 2.2%<br>
+_highest 10%_: 30.8% (2021 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.21% of GDP (2021 est.)<br>
+0.18% of GDP (2022 est.)<br>
+0.2% of GDP (2021 est.)<br>
 0.21% of GDP (2020 est.)<br>
-0.18% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $14.991 billion (2020 est.)<br>
@@ -494,26 +504,29 @@ _expenditures_: $17.571 billion (2020 est.)<br>
 -3.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-60.4% of GDP (2020 est.)<br>
-50.94% of GDP (2019 est.)<br>
-47.95% of GDP (2018 est.)<br>
-<strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions.<br>
+60.28% of GDP (2020 est.)<br>
+50.27% of GDP (2019 est.)<br>
+47.44% of GDP (2018 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-18.55% (of GDP) (2020 est.)<br>
+18.52% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.073 billion (2021 est.)<br>
--$448.402 million (2020 est.)<br>
-$980.513 million (2019 est.)<br>
+-$2.62 billion (2022 est.)<br>
+-$1.555 billion (2021 est.)<br>
+-$435.211 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$18.82 billion (2021 est.) note: data are in current year dollars<br>
-$13.596 billion (2020 est.) note: data are in current year dollars<br>
-$17.087 billion (2019 est.) note: data are in current year dollars<br>
+$22.565 billion (2022 est.)<br>
+$19.527 billion (2021 est.) note: data are in current year dollars<br>
+$13.851 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 29%, Brazil 12%, United States 5%, Netherlands 5%, Argentina 5% (2019)<br>
@@ -522,9 +535,10 @@ China 29%, Brazil 12%, United States 5%, Netherlands 5%, Argentina 5% (2019)<br>
 sulfate wood pulp, beef, soybeans, concentrated milk, rice (2019)<br>
 
 **Imports**<br>
-$15.051 billion (2021 est.) note: data are in current year dollars<br>
-$11.212 billion (2020 est.) note: data are in current year dollars<br>
-$13.336 billion (2019 est.) note: data are in current year dollars<br>
+$18.894 billion (2022 est.)<br>
+$15.125 billion (2021 est.) note: data are in current year dollars<br>
+$11.43 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Brazil 25%, China 15%, United States 11%, Argentina 11% (2019)<br>
@@ -533,9 +547,10 @@ Brazil 25%, China 15%, United States 11%, Argentina 11% (2019)<br>
 crude petroleum, packaged medicines, cars, broadcasting equipment, delivery trucks (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$16.963 billion (31 December 2021 est.)<br>
-$16.25 billion (31 December 2020 est.)<br>
-$14.504 billion (31 December 2019 est.)<br>
+$15.127 billion (2022 est.)<br>
+$16.963 billion (2021 est.)<br>
+$16.25 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $43.705 billion (2019 est.)<br>
@@ -543,11 +558,11 @@ $42.861 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Uruguayan pesos (UYU) per US dollar -<br>
+41.171 (2022 est.)<br>
 43.555 (2021 est.)<br>
 42.013 (2020 est.)<br>
 35.255 (2019 est.)<br>
 30.725 (2018 est.)<br>
-28.676 (2017 est.)<br>
 
 ## Energy
 

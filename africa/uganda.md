@@ -400,29 +400,32 @@ _selected World Heritage Site locales_: Bwindi Impenetrable National Park (n); R
 low-income, primarily agrarian East African economy; COVID-19 hurt economic growth and poverty reduction; lower oil prices threaten prior sector investments; endemic corruption; natural resource rich; high female labor force participation but undervalued<br>
 
 **Real GDP (purchasing power parity)**<br>
+$107.733 billion (2022 est.)<br>
 $103.007 billion (2021 est.)<br>
 $99.488 billion (2020 est.)<br>
-$96.636 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+4.59% (2022 est.)<br>
 3.54% (2021 est.)<br>
 2.95% (2020 est.)<br>
-6.44% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,300 (2022 est.)<br>
 $2,200 (2021 est.)<br>
 $2,200 (2020 est.)<br>
-$2,300 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$34.683 billion (2019 est.)<br>
+$45.567 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.2% (2022 est.)<br>
 2.2% (2021 est.)<br>
 3.31% (2020 est.)<br>
-2.87% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2015)<br>
@@ -450,15 +453,18 @@ sugar cane, plantains, cassava, maize, sweet potatoes, milk, vegetables, beans, 
 sugar processing, brewing, tobacco, cotton textiles; cement, steel production<br>
 
 **Industrial production growth rate**<br>
-3.47% (2021 est.)<br>
+5.13% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-16.995 million (2021 est.)<br>
+18.243 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.94% (2021 est.)<br>
-2.77% (2020 est.)<br>
-1.92% (2019 est.)<br>
+2.94% (2022 est.)<br>
+3.42% (2021 est.)<br>
+3.81% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 4.3% (2021 est.)<br>
@@ -466,10 +472,12 @@ _male_: 3.4%<br>
 _female_: 5.3%<br>
 
 **Population below poverty line**<br>
-21.4% (2016 est.)<br>
+20.3% (2019 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 42.7 (2019 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 44.2% of household expenditures (2018 est.)<br>
@@ -477,12 +485,14 @@ _on alcohol and tobacco_: 1% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.4%<br>
-_highest 10%_: 36.1% (2009 est.)<br>
+_highest 10%_: 34.5% (2019 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+2.79% of GDP (2022 est.)<br>
+2.67% of GDP (2021 est.)<br>
 2.82% of GDP (2020 est.)<br>
-4.03% of GDP (2019 est.)<br>
-4.06% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $5.088 billion (2019 est.)<br>
@@ -492,25 +502,29 @@ _expenditures_: $6.896 billion (2019 est.)<br>
 -4.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+51.3% of GDP (2021 est.)<br>
 44.19% of GDP (2020 est.)<br>
 38.48% of GDP (2019 est.)<br>
-34.67% of GDP (2018 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-11.39% (of GDP) (2020 est.)<br>
+12.46% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$3.553 billion (2021 est.)<br>
--$3.552 billion (2020 est.)<br>
--$2.508 billion (2019 est.)<br>
+-$3,821,110,000 (2022 est.)<br>
+-$4,094,991,000 (2021 est.)<br>
+-$3,656,656,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$6.177 billion (2021 est.) note: data are in current year dollars<br>
-$5.562 billion (2020 est.) note: data are in current year dollars<br>
-$6.172 billion (2019 est.)<br>
+$6.058 billion (2022 est.)<br>
+$6.174 billion (2021 est.) note: data are in current year dollars<br>
+$5.563 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United Arab Emirates 58%, Kenya 9% (2019)<br>
@@ -519,9 +533,10 @@ United Arab Emirates 58%, Kenya 9% (2019)<br>
 gold, coffee, milk, fish and fish products, tobacco (2019)<br>
 
 **Imports**<br>
-$10.705 billion (2021 est.) note: data are in current year dollars<br>
-$10.197 billion (2020 est.) note: data are in current year dollars<br>
-$9.795 billion (2019 est.)<br>
+$11.145 billion (2022 est.)<br>
+$10.686 billion (2021 est.) note: data are in current year dollars<br>
+$10.209 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 19%, India 17%, Kenya 16%, United Arab Emirates 7%, Japan 5% (2019)<br>
@@ -530,9 +545,10 @@ China 19%, India 17%, Kenya 16%, United Arab Emirates 7%, Japan 5% (2019)<br>
 packaged medicines, aircraft, delivery trucks, cars, wheat (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.359 billion (31 December 2018 est.)<br>
-$3.721 billion (31 December 2017 est.)<br>
-<strong>note:</strong> excludes gold<br>
+$3.359 billion (2018 est.)<br>
+$3.721 billion (2017 est.)<br>
+$3.098 billion (2016 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $13.85 billion (2019 est.)<br>
@@ -541,11 +557,11 @@ $6.241 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Ugandan shillings (UGX) per US dollar -<br>
+3,689.817 (2022 est.)<br>
 3,587.052 (2021 est.)<br>
 3,718.249 (2020 est.)<br>
 3,704.049 (2019 est.)<br>
 3,727.069 (2018 est.)<br>
-3,611.224 (2017 est.)<br>
 
 ## Energy
 
@@ -718,6 +734,6 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p><em>Uganda-Kenya:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo (DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,368 (Eritrea), 23,388 (Rwanda), 8,936 (Ethiopia), 5,776 (Sudan) (2023); 931,666 (South Sudan) (refugees and asylum seekers), 508,495 (Democratic Republic of the Congo), 41,593 (Somalia), 40,326 (Burundi) (2024)<br>
+_refugees (country of origin)_: 34,368 (Eritrea), 23,388 (Rwanda), 8,936 (Ethiopia), 5,776 (Sudan) (2023); 931,666 (South Sudan) (refugees and asylum seekers), 512,445 (Democratic Republic of the Congo), 40,326 (Somalia), 40,326 (Burundi) (2024)<br>
 _stateless persons_: 67,000 (2022)<br>
 

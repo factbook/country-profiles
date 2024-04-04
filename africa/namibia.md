@@ -402,29 +402,32 @@ _selected World Heritage Site locales_: Twyfelfontein or /Ui-//aes (c); Namib Sa
 upper middle-income, export-driven Sub-Saharan economy; natural resource rich; Walvis Bay port expansion for trade; high potential for renewable power generation and energy independence; major nature-based tourist locale; natural resource rich; shortage of skilled labor<br>
 
 **Real GDP (purchasing power parity)**<br>
-$23.12 billion (2021 est.)<br>
-$22.522 billion (2020 est.)<br>
-$24.49 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$25.061 billion (2022 est.)<br>
+$23.299 billion (2021 est.)<br>
+$22.506 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.66% (2021 est.)<br>
--8.04% (2020 est.)<br>
--0.84% (2019 est.)<br>
+7.56% (2022 est.)<br>
+3.52% (2021 est.)<br>
+-8.1% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$9,100 (2021 est.)<br>
+$9,800 (2022 est.)<br>
+$9,200 (2021 est.)<br>
 $9,000 (2020 est.)<br>
-$10,000 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$12.372 billion (2019 est.)<br>
+$12.915 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.08% (2022 est.)<br>
 3.62% (2021 est.)<br>
 2.21% (2020 est.)<br>
-3.72% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB (2019)<br>
@@ -451,15 +454,18 @@ beef, milk, grapes, millet, maize, mutton, pork, chickens, goats, wheat<br>
 mining, tourism, fishing, agriculture<br>
 
 **Industrial production growth rate**<br>
-1.44% (2021 est.)<br>
+22.46% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-939,000 (2021 est.)<br>
+968,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-21.68% (2021 est.)<br>
-21.45% (2020 est.)<br>
-19.99% (2019 est.)<br>
+19.99% (2022 est.)<br>
+21.15% (2021 est.)<br>
+21.15% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 40.4% (2021 est.)<br>
@@ -468,18 +474,22 @@ _female_: 41.7%<br>
 
 **Population below poverty line**<br>
 17.4% (2015 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 59.1 (2015 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.4%<br>
-_highest 10%_: 42% (2010)<br>
+_lowest 10%_: 1%<br>
+_highest 10%_: 47.3% (2015 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.38% of GDP (2021 est.)<br>
-0.61% of GDP (2020 est.)<br>
-0.52% of GDP (2019 est.)<br>
+0.42% of GDP (2022 est.)<br>
+0.37% of GDP (2021 est.)<br>
+0.6% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $4.004 billion (2019 est.)<br>
@@ -492,22 +502,26 @@ _expenditures_: $4.693 billion (2019 est.)<br>
 4.64% of GDP (2019 est.)<br>
 5.49% of GDP (2018 est.)<br>
 5.44% of GDP (2017 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-31.17% (of GDP) (2020 est.)<br>
+27.97% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$1.21 billion (2021 est.)<br>
-$270.277 million (2020 est.)<br>
--$222.969 million (2019 est.)<br>
+-$1,633,970,000 (2022 est.)<br>
+-$1,273,632,000 (2021 est.)<br>
+$270.73 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$3.955 billion (2021 est.) note: data are in current year dollars<br>
-$3.565 billion (2020 est.) note: data are in current year dollars<br>
-$4.581 billion (2019 est.) note: data are in current year dollars<br>
+$5.099 billion (2022 est.)<br>
+$4.246 billion (2021 est.) note: data are in current year dollars<br>
+$3.838 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 29%, South Africa 20%, Botswana 8%, Belgium 6%, Zambia 4% (2020)<br>
@@ -516,9 +530,10 @@ China 29%, South Africa 20%, Botswana 8%, Belgium 6%, Zambia 4% (2020)<br>
 diamonds, uranium, copper, gold, fish products, aircraft, ships (2021)<br>
 
 **Imports**<br>
-$6.055 billion (2021 est.) note: data are in current year dollars<br>
-$4.614 billion (2020 est.) note: data are in current year dollars<br>
-$5.808 billion (2019 est.) note: data are in current year dollars<br>
+$7.313 billion (2022 est.)<br>
+$6.384 billion (2021 est.) note: data are in current year dollars<br>
+$4.886 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 South Africa 40%, Zambia 20%, Democratic Republic of the Congo 6%, China 5%, Bulgaria 3% (2020)<br>
@@ -527,9 +542,10 @@ South Africa 40%, Zambia 20%, Democratic Republic of the Congo 6%, China 5%, Bul
 copper, refined petroleum, delivery trucks, cobalt, cars (2020)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.764 billion (31 December 2021 est.)<br>
-$2.171 billion (31 December 2020 est.)<br>
-$2.049 billion (31 December 2019 est.)<br>
+$2.803 billion (2022 est.)<br>
+$2.764 billion (2021 est.)<br>
+$2.171 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $7.969 billion (31 December 2017 est.)<br>
@@ -537,11 +553,11 @@ $6.904 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Namibian dollars (NAD) per US dollar -<br>
+16.356 (2022 est.)<br>
 14.779 (2021 est.)<br>
 16.463 (2020 est.)<br>
 14.449 (2019 est.)<br>
 13.234 (2018 est.)<br>
-13.313 (2017 est.)<br>
 
 ## Energy
 
@@ -698,5 +714,5 @@ the NDF’s primary responsibility is external security; it has participated in 
 <p><em>Namibia-Angola-Botswana</em>: concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border</p> <p><em>Namibia-Botswana-Zambia-Zimbabwe</em>: Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; the Kazungula Bridge opened to traffic in May 2021</p> <p><em>Namibia-South Africa</em>: the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia claims a median line boundary, while South Africa supports the northern bank of the river</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,213 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
+_refugees (country of origin)_: 6,288 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
 

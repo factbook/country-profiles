@@ -85,7 +85,7 @@ _noun_: Panamanian(s)<br>
 _adjective_: Panamanian<br>
 
 **Ethnic groups**<br>
-Mestizo (mixed Amerindian and White) 65%, Native American 12.3% (Ngabe 7.6%, Kuna 2.4%, Embera 0.9%, Bugle 0.8%, other 0.4%, unspecified 0.2%), Black or African descent 9.2%, Mulatto 6.8%, White 6.7% (2010 est.)<br>
+Mestizo (mixed Indigenous and White) 65%, Indigenous 12.3% (Ngabe 7.6%, Kuna 2.4%, Embera 0.9%, Bugle 0.8%, other 0.4%, unspecified 0.2%), Black or African descent 9.2%, Mulatto 6.8%, White 6.7% (2010 est.)<br>
 
 **Languages**<br>
 Spanish (official), indigenous languages (including Ngabere (or Guaymi), Buglere, Kuna, Embera, Wounaan, Naso (or Teribe), and Bri Bri), Panamanian English Creole (similar to Jamaican English Creole; a mixture of English and Spanish with elements of Ngabere; also known as Guari Guari and Colon Creole), English, Chinese (Yue and Hakka), Arabic, French Creole, other (Yiddish, Hebrew, Korean, Japanese); note - many Panamanians are bilingual<br>
@@ -384,29 +384,32 @@ _selected World Heritage Site locales_: Caribbean Fortifications (c); Darien Nat
 upper middle-income Central American economy; increasing Chinese trade; US dollar user; canal expansion fueling broader infrastructure investment; services sector dominates economy; historic money-laundering and illegal drug hub<br>
 
 **Real GDP (purchasing power parity)**<br>
-$126.352 billion (2021 est.)<br>
-$109.551 billion (2020 est.)<br>
-$133.509 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$146.658 billion (2022 est.)<br>
+$132.352 billion (2021 est.)<br>
+$114.258 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-15.34% (2021 est.)<br>
--17.94% (2020 est.)<br>
-2.98% (2019 est.)<br>
+10.81% (2022 est.)<br>
+15.84% (2021 est.)<br>
+-17.67% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$29,000 (2021 est.)<br>
-$25,500 (2020 est.)<br>
-$31,500 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$33,300 (2022 est.)<br>
+$30,400 (2021 est.)<br>
+$26,600 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$66.801 billion (2019 est.)<br>
+$76.523 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.86% (2022 est.)<br>
 1.63% (2021 est.)<br>
 -1.55% (2020 est.)<br>
--0.36% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2011)<br>
@@ -434,16 +437,18 @@ sugar cane, bananas, rice, poultry, milk, plantains, pineapples, maize, beef, po
 construction, brewing, cement and other construction materials, sugar milling<br>
 
 **Industrial production growth rate**<br>
-37.5% (2021 est.)<br>
+12.73% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.966 million (2021 est.)<br>
-<strong>note:</strong> shortage of skilled labor, but an oversupply of unskilled labor<br>
+2.05 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-12.09% (2021 est.)<br>
-12.85% (2020 est.)<br>
-4.73% (2019 est.)<br>
+8.2% (2022 est.)<br>
+10.45% (2021 est.)<br>
+14.18% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 30% (2021 est.)<br>
@@ -451,23 +456,27 @@ _male_: 21.8%<br>
 _female_: 43.6%<br>
 
 **Population below poverty line**<br>
-22.1% (2016 est.)<br>
+21.5% (2019 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-49.8 (2019 est.)<br>
+50.9 (2021 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 15.7% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 1.7% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.1%<br>
-_highest 10%_: 38.9% (2014 est.)<br>
+_lowest 10%_: 1.2%<br>
+_highest 10%_: 39.4% (2021 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.89% of GDP (2021 est.)<br>
-0.84% of GDP (2020 est.)<br>
-0.87% of GDP (2019 est.)<br>
+0.68% of GDP (2022 est.)<br>
+0.84% of GDP (2021 est.)<br>
+0.8% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $9.743 billion (2020 est.)<br>
@@ -481,21 +490,23 @@ _expenditures_: $15.145 billion (2020 est.)<br>
 37.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-8.51% (of GDP) (2020 est.)<br>
+7.46% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.412 billion (2021 est.)<br>
-$1.097 billion (2020 est.)<br>
--$3.329 billion (2019 est.)<br>
+-$3.001 billion (2022 est.)<br>
+-$2.051 billion (2021 est.)<br>
+-$189.254 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$27.237 billion (2021 est.) note: data are in current year dollars<br>
-$20.179 billion (2020 est.) note: data are in current year dollars<br>
-$28.622 billion (2019 est.) note: data are in current year dollars<br>
-<strong>note:</strong> includes the Colon Free Zone<br>
+$36.145 billion (2022 est.)<br>
+$27.338 billion (2021 est.) note: data are in current year dollars<br>
+$19.792 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Ecuador 20%, Guatemala 14%, China 8%, United States 6%, Netherlands 6% (2019)<br>
@@ -504,10 +515,10 @@ Ecuador 20%, Guatemala 14%, China 8%, United States 6%, Netherlands 6% (2019)<br
 refined petroleum, copper, bananas, ships, coal tar oil, packaged medicines (2019)<br>
 
 **Imports**<br>
-$24.627 billion (2021 est.) note: data are in current year dollars<br>
-$17.502 billion (2020 est.) note: data are in current year dollars<br>
-$27.599 billion (2019 est.) note: data are in current year dollars<br>
-<strong>note:</strong> includes the Colon Free Zone<br>
+$35.692 billion (2022 est.)<br>
+$24.424 billion (2021 est.) note: data are in current year dollars<br>
+$17.614 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 21%, United States 19%, Japan 16%, Colombia 6%, Ecuador 5% (2019)<br>
@@ -516,9 +527,10 @@ China 21%, United States 19%, Japan 16%, Colombia 6%, Ecuador 5% (2019)<br>
 ships, refined petroleum, crude petroleum, tanker ships, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$9.614 billion (31 December 2020 est.)<br>
-$3.423 billion (31 December 2019 est.)<br>
-$2.121 billion (31 December 2018 est.)<br>
+$6.876 billion (2022 est.)<br>
+$8.832 billion (2021 est.)<br>
+$9.614 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $101.393 billion (2019 est.)<br>
@@ -526,11 +538,11 @@ $94.898 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: balboas (PAB) per US dollar -<br>
+1 (2022 est.)<br>
 1 (2021 est.)<br>
 1 (2020 est.)<br>
 1 (2019 est.)<br>
 1 (2018 est.)<br>
-1 (2017 est.)<br>
 
 ## Energy
 

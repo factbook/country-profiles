@@ -308,26 +308,32 @@ _lyrics/music_: Leila E. ROSS<br>
 dominant offshore banking territory; services sector accounts for over 85% of economic activity; recently adopted a fiscal responsibility framework to combat tax evasion and money laundering; large tourism sector; does not have any welfare system; high standard of living<br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.599 billion (2021 est.) note: data are in 2017 dollars<br>
-$4.516 billion (2020 est.) note: data are in 2017 dollars<br>
-$4.788 billion (2019 est.)<br>
+$4.902 billion (2022 est.)<br>
+$4.729 billion (2021 est.)<br>
+$4.546 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.84% (2021 est.)<br>
--5.68% (2020 est.)<br>
-3.87% (2019 est.)<br>
+3.67% (2022 est.)<br>
+4.03% (2021 est.)<br>
+-5.11% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$67,500 (2021 est.) note: data are in 2017 dollars<br>
-$67,100 (2020 est.) note: data are in 2017 dollars<br>
-$72,400 (2019 est.)<br>
+$71,400 (2022 est.)<br>
+$69,400 (2021 est.)<br>
+$67,500 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.25 billion (2008 est.)<br>
+$6.845 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 2% (2017 est.)<br>
--0.6% (2016 est.)<br>
+-0.63% (2016 est.)<br>
+-2.35% (2015 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Aa3 (1997)<br>
@@ -353,11 +359,12 @@ vegetables, fruit; livestock; turtle farming<br>
 tourism, banking, insurance and finance, construction, construction materials, furniture<br>
 
 **Industrial production growth rate**<br>
--3.36% (2020 est.)<br>
+6.89% (2021 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 39,000 (2007 est.)<br>
-<strong>note:</strong> nearly 55% are non-nationals<br>
+note: nearly 55% are non-nationals<br>
 
 **Unemployment rate**<br>
 4% (2008)<br>
@@ -376,9 +383,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
+0.13% of GDP (2022 est.)<br>
+0.15% of GDP (2021 est.)<br>
 0.16% of GDP (2020 est.)<br>
-0.24% of GDP (2019 est.)<br>
-0.26% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $874.5 million (2017 est.)<br>
@@ -394,15 +402,16 @@ _expenditures_: $766.6 million (2017 est.)<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$763.556 million (2020 est.)<br>
+-$821.404 million (2021 est.)<br>
+-$827.492 million (2020 est.)<br>
 -$646.843 million (2019 est.)<br>
--$927.544 million (2018 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$3.652 billion (2020 est.)<br>
+$4.054 billion (2021 est.)<br>
+$3.951 billion (2020 est.)<br>
 $4.205 billion (2019 est.)<br>
-$3.959 billion (2018 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Netherlands 82%, Spain 11% (2019)<br>
@@ -411,9 +420,10 @@ Netherlands 82%, Spain 11% (2019)<br>
 recreational boats, aircraft, ships, gold, refined petroleum, natural gas (2021)<br>
 
 **Imports**<br>
-$2.507 billion (2020 est.) note: data are in current year dollars<br>
+$2.743 billion (2021 est.)<br>
+$2.51 billion (2020 est.) note: data are in current year dollars<br>
 $2.743 billion (2019 est.) note: data are in current year dollars<br>
-$2.518 billion (2018 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Netherlands 56%, United States 18%, Italy 8%, Switzerland 5% (2019)<br>
@@ -422,9 +432,10 @@ Netherlands 56%, United States 18%, Italy 8%, Switzerland 5% (2019)<br>
 recreational boats, ships, gold, refined petroleum, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$216.8 million (31 December 2020 est.)<br>
-$183.5 million (31 December 2019 est.)<br>
-$162.074 million (31 December 2018 est.)<br>
+$216.8 million (2020 est.)<br>
+$183.5 million (2019 est.)<br>
+$162.074 million (2018 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Caymanian dollars (KYD) per US dollar -<br>
@@ -540,7 +551,7 @@ VP-C<br>
 5 (2024)<br>
 
 **Roadways**<br>
-_total_: 785 km (2007)<br>
+_total_: 785 km<br>
 _paved_: 785 km (2007)<br>
 
 **Merchant marine**<br>

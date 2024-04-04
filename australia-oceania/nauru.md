@@ -328,23 +328,26 @@ _lyrics/music_: Margaret HENDRIE/Laurence Henry HICKS<br>
 upper-middle-income Pacific island country; phosphate resource exhaustion made island interior uninhabitable; licenses fishing rights; houses Australia&rsquo;s Regional Processing Centre; former tax haven; largely dependent on foreign subsidies<br>
 
 **Real GDP (purchasing power parity)**<br>
-$149.474 million (2021 est.)<br>
-$147.265 million (2020 est.)<br>
-$145.591 million (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$139.656 million (2022 est.)<br>
+$137.491 million (2021 est.)<br>
+$133.161 million (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.5% (2021 est.)<br>
-1.15% (2020 est.)<br>
-0% (2019 est.)<br>
+1.57% (2022 est.)<br>
+3.25% (2021 est.)<br>
+4.24% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$11,900 (2021 est.) note: data are in 2017 dollars<br>
-$12,000 (2020 est.) note: data are in 2017 dollars<br>
-$12,000 (2019 est.)<br>
+$11,000 (2022 est.)<br>
+$11,000 (2021 est.)<br>
+$10,800 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$114 million (2017 est.)<br>
+$151.648 million (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5.1% (2017 est.)<br>
@@ -369,7 +372,8 @@ coconuts, tropical fruit, vegetables, pork, eggs, pig offals, pig fat, poultry, 
 phosphate mining, offshore banking, coconut products<br>
 
 **Industrial production growth rate**<br>
-NA<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 NA<br>
@@ -394,9 +398,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-5.27% of GDP (2018 est.)<br>
+4.99% of GDP (2018 est.)<br>
 9.46% of GDP (2017 est.)<br>
-11.77% of GDP (2016 est.)<br>
+12.04% of GDP (2016 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $195 million (2020 est.)<br>
@@ -410,7 +415,8 @@ _expenditures_: $158 million (2020 est.)<br>
 65% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-48.24% (of GDP) (2020 est.)<br>
+44.35% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
@@ -419,12 +425,13 @@ _expenditures_: $158 million (2020 est.)<br>
 $8.406 million (2018 est.)<br>
 $14.11 million (2017 est.)<br>
 $2.079 million (2016 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $187 million (2021 est.)<br>
 $105 million (2020 est.)<br>
 $32.7 million (2019 est.)<br>
-<strong>note:</strong> data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Thailand 49%, Saudi Arabia 14%, Philippines 11%, South Korea 8%, India 7% (2021)<br>
@@ -436,7 +443,7 @@ skipjack, calcium phosphates, tuna, cars, delivery trucks, low-voltage protectio
 $94.2 million (2021 est.)<br>
 $103 million (2020 est.)<br>
 $88.2 million (2019 est.)<br>
-<strong>note:</strong> data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Australia 36%, Taiwan 16%, China 12%, Japan 12%, Nigeria 7% (2021)<br>
@@ -449,11 +456,11 @@ $33.3 million (2004 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>
+1.442 (2022 est.)<br>
 1.331 (2021 est.)<br>
 1.453 (2020 est.)<br>
 1.439 (2019 est.)<br>
 1.338 (2018 est.)<br>
-1.305 (2017 est.)<br>
 
 ## Energy
 

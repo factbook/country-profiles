@@ -333,12 +333,13 @@ high-income European economy; non-EU euro user; considered a tax haven; tourism 
 $7.672 billion (2015 est.)<br>
 $7.279 billion (2014 est.)<br>
 $6.79 billion (2013 est.)<br>
-<strong>note:</strong> data are in 2015 US dollars<br>
+<strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
-21.55% (2021 est.)<br>
--12.97% (2020 est.)<br>
-6.91% (2019 est.)<br>
+11.1% (2022 est.)<br>
+21.87% (2021 est.)<br>
+-13.01% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $115,700 (2015 est.)<br>
@@ -346,10 +347,8 @@ $109,200 (2014 est.)<br>
 $101,900 (2013 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$6.006 billion (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-1.5% (2010)<br>
+$8.784 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0% (2013)<br>
@@ -363,7 +362,8 @@ none<br>
 banking, insurance, tourism, construction, small-scale industrial and consumer products<br>
 
 **Industrial production growth rate**<br>
-6.8% (2015)<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 52,000 (2014 est.)<br>
@@ -424,11 +424,11 @@ jewelry, cars and vehicle parts, recreational boats, plastic products, artwork (
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.885 (2017 est.)<br>
-0.903 (2016 est.)<br>
-0.9214 (2015 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.95 (2022 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
 <strong>note: </strong>while not an EU member state, Monaco, due to its preexisting monetary and banking agreements with France, has a 1998 monetary agreement with the EU to produce limited euro coinage—but not banknotes—that began enforcement in January 2002 and superseded by a new EU agreement in 2012<br>
 
 ## Energy

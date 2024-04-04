@@ -415,29 +415,32 @@ _selected World Heritage Site locales_: Dja Faunal Reserve; Sangha Trinational F
 largest CEMAC economy with many natural resources; recent political instability and terrorism reducing economic output; systemic corruption; poor property rights enforcement; increasing poverty in northern regions<br>
 
 **Real GDP (purchasing power parity)**<br>
-$100.648 billion (2021 est.)<br>
+$103.941 billion (2022 est.)<br>
+$100.346 billion (2021 est.)<br>
 $97.103 billion (2020 est.)<br>
-$96.852 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.65% (2021 est.)<br>
+3.58% (2022 est.)<br>
+3.34% (2021 est.)<br>
 0.26% (2020 est.)<br>
-3.48% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$3,700 (2022 est.)<br>
 $3,700 (2021 est.)<br>
 $3,700 (2020 est.)<br>
-$3,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$34.99 billion (2017 est.)<br>
+$43.644 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.25% (2022 est.)<br>
 2.27% (2021 est.)<br>
 2.44% (2020 est.)<br>
-2.45% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2006)<br>
@@ -465,15 +468,18 @@ cassava, plantains, maize, oil palm fruit, taro, sugar cane, sorghum, tomatoes, 
 petroleum production and refining, aluminum production, food processing, light consumer goods, textiles, lumber, ship repair<br>
 
 **Industrial production growth rate**<br>
-3.22% (2021 est.)<br>
+2.74% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-11.81 million (2021 est.)<br>
+11.592 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.87% (2021 est.)<br>
-3.84% (2020 est.)<br>
-3.64% (2019 est.)<br>
+3.78% (2022 est.)<br>
+4.15% (2021 est.)<br>
+3.99% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 6.6% (2021 est.)<br>
@@ -482,22 +488,26 @@ _female_: 7.3%<br>
 
 **Population below poverty line**<br>
 37.5% (2014 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 46.6 (2014 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 45.3% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 2.1% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 37.5%<br>
-_highest 10%_: 35.4% (2001)<br>
+_lowest 10%_: 1.7%<br>
+_highest 10%_: 35% (2014 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.84% of GDP (2022 est.)<br>
+0.96% of GDP (2021 est.)<br>
 0.82% of GDP (2020 est.)<br>
-0.9% of GDP (2019 est.)<br>
-0.83% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $6.118 billion (2019 est.)<br>
@@ -511,21 +521,23 @@ _expenditures_: $7.405 billion (2019 est.)<br>
 32.5% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-10.87% (of GDP) (2020 est.)<br>
+11.35% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$1.795 billion (2021 est.)<br>
+-$1.505 billion (2022 est.)<br>
+-$1.794 billion (2021 est.)<br>
 -$1.512 billion (2020 est.)<br>
--$1.695 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$7.449 billion (2021 est.)<br>
+$8.641 billion (2022 est.)<br>
+$7.447 billion (2021 est.)<br>
 $6.124 billion (2020 est.)<br>
-$7.731 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 17%, Netherlands 14%, Italy 9%, United Arab Emirates 8%, India 7%, United States 6%, Belgium 6%, Spain 5%, France 5% (2019)<br>
@@ -534,9 +546,10 @@ China 17%, Netherlands 14%, Italy 9%, United Arab Emirates 8%, India 7%, United 
 crude petroleum, natural gas, cocoa beans, lumber, gold, bananas (2021)<br>
 
 **Imports**<br>
-$9.027 billion (2021 est.) note: data are in current year dollars<br>
+$9.759 billion (2022 est.)<br>
+$9.025 billion (2021 est.) note: data are in current year dollars<br>
 $7.212 billion (2020 est.) note: data are in current year dollars<br>
-$9.085 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 28%, Nigeria 15%, France 9%, Belgium 6% (2019)<br>
@@ -545,9 +558,10 @@ China 28%, Nigeria 15%, France 9%, Belgium 6% (2019)<br>
 crude petroleum, scrap vessels, rice, special purpose ships, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.459 billion (31 December 2018 est.)<br>
-$3.197 billion (31 December 2017 est.)<br>
-$2.26 billion (31 December 2016 est.)<br>
+$3.459 billion (2018 est.)<br>
+$3.197 billion (2017 est.)<br>
+$2.226 billion (2016 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $9.375 billion (31 December 2017 est.)<br>
@@ -555,11 +569,11 @@ $7.364 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
 555.446 (2018 est.)<br>
-580.657 (2017 est.)<br>
 
 ## Energy
 
@@ -680,8 +694,8 @@ _narrow gauge_: 987 km (2014) 1.000-m gauge<br>
 <strong>note:</strong> railway connections generally efficient but limited; rail lines connect major cities of Douala, Yaounde, Ngaoundere, and Garoua; passenger and freight service provided by CAMRAIL<br>
 
 **Roadways**<br>
-_total_: 77,589 km (2019)<br>
-_paved_: 5,133 km (2019)<br>
+_total_: 77,589 km<br>
+_paved_: 5,133 km<br>
 _unpaved_: 72,456 km (2019)<br>
 
 **Waterways**<br>

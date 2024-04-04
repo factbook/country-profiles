@@ -5,7 +5,7 @@ _Central America and Caribbean / Dependencies (Netherlands)_
 ## Introduction
 
 **Background**<br>
-Discovered and claimed for Spain in 1499, Aruba was acquired by the Dutch in 1636. The island's economy has been dominated by three main industries. A 19th century gold rush was followed by prosperity brought on by the opening in 1924 of an oil refinery. The last decades of the 20th century saw a boom in the tourism industry. Aruba seceded from the Netherlands Antilles in 1986 and became a separate, semi-autonomous member of the Kingdom of the Netherlands. Movement toward full independence was halted at Aruba's request in 1990.<br>
+Discovered and claimed for Spain in 1499, Aruba was acquired by the Dutch in 1636. Three main industries have since dominated the island's economy: gold mining, oil refining, and tourism. A 19th-century gold rush was followed by prosperity brought on by the opening of an oil refinery in 1924. The last decades of the 20th century saw a boom in the tourism industry. Aruba seceded from the Netherlands Antilles in 1986 and became a separate, semi-autonomous member of the Kingdom of the Netherlands. Movement toward full independence was halted at Aruba's request in 1990.<br>
 
 ## Geography
 
@@ -314,27 +314,32 @@ _lyrics/music_: Juan Chabaya 'Padu' LAMPE/Rufo Inocencio WEVER<br>
 small, tourism-dependent, territorial-island economy; very high public debt; COVID-19 crippled economic activity; partial recovery underway via tourism, benefitting from its high amount of timeshare residences; considering reopening oil refinery<br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.141 billion (2021 est.)<br>
-$3.534 billion (2020 est.)<br>
-$4.341 billion (2019 est.)<br>
+$4.393 billion (2022 est.)<br>
+$3.977 billion (2021 est.)<br>
+$3.116 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-17.17% (2021 est.)<br>
--18.59% (2020 est.)<br>
-0.64% (2019 est.)<br>
+10.46% (2022 est.)<br>
+27.64% (2021 est.)<br>
+-23.98% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$38,900 (2021 est.)<br>
-$33,200 (2020 est.)<br>
-$40,800 (2019 est.)<br>
+$41,300 (2022 est.)<br>
+$37,300 (2021 est.)<br>
+$29,200 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.7 billion (2017 est.)<br>
+$3.545 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4.26% (2019 est.)<br>
 3.63% (2018 est.)<br>
 -1.03% (2017 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB (2020)<br>
@@ -360,9 +365,6 @@ aloes; livestock; fish<br>
 **Industries**<br>
 tourism, petroleum transshipment facilities, banking<br>
 
-**Industrial production growth rate**<br>
-NA<br>
-
 **Labor force**<br>
 51,610 (2007 est.)<br>
 <strong>note:</strong> of the 51,610 workers aged 15 and over in the labor force, 32,252 were born in Aruba and 19,353 came from abroad; foreign workers are 38% of the employed population<br>
@@ -378,9 +380,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-1.15% of GDP (2021 est.)<br>
-1.34% of GDP (2020 est.)<br>
-1.02% of GDP (2019 est.)<br>
+1.08% of GDP (2022 est.)<br>
+1.16% of GDP (2021 est.)<br>
+1.37% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $793 million (2019 est.)<br>
@@ -400,15 +403,16 @@ _expenditures_: $782 million (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
+$230.556 million (2022 est.)<br>
 $79.257 million (2021 est.)<br>
 -$316.455 million (2020 est.)<br>
-$84.797 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$2.853 billion (2022 est.)<br>
 $2.201 billion (2021 est.)<br>
 $1.444 billion (2020 est.)<br>
-$2.562 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Malaysia 57%, United States 11%, Netherlands 6%, Jordan 6%, Venezuela 5% (2019)<br>
@@ -417,9 +421,10 @@ Malaysia 57%, United States 11%, Netherlands 6%, Jordan 6%, Venezuela 5% (2019)<
 crude petroleum, cigarettes, whiskies, refined petroleum, scrap iron (2021)<br>
 
 **Imports**<br>
+$2.429 billion (2022 est.)<br>
 $1.947 billion (2021 est.) note: data are in current year dollars<br>
 $1.644 billion (2020 est.) note: data are in current year dollars<br>
-$2.24 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 48%, Netherlands 16% (2019)<br>
@@ -428,9 +433,10 @@ United States 48%, Netherlands 16% (2019)<br>
 refined petroleum, jewelry, cars, vehicle parts, tobacco products (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.513 billion (31 December 2021 est.)<br>
-$1.213 billion (31 December 2020 est.)<br>
-$982.3 million (31 December 2019 est.)<br>
+$1.544 billion (2022 est.)<br>
+$1.513 billion (2021 est.)<br>
+$1.213 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $693.2 million (31 December 2014 est.)<br>
@@ -438,11 +444,11 @@ $666.4 million (31 December 2013 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Aruban guilders/florins per US dollar -<br>
+1.79 (2022 est.)<br>
 1.79 (2021 est.)<br>
 1.79 (2020 est.)<br>
 1.79 (2019 est.)<br>
 1.79 (2018 est.)<br>
-1.79 (2017 est.)<br>
 
 ## Energy
 

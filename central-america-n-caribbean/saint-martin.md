@@ -250,14 +250,15 @@ _lyrics/music_: Gerard KEMPS<br>
 **Economic overview**<br>
 high-income French Caribbean territorial economy; extremely reliant on tourism, with severe COVID-19 impacts; near-total destruction from Hurricane Irma in 2017; some offshore banking; import-dependent; duty-free commerce; yachting destination<br>
 
-**Real GDP (purchasing power parity)**<br>
-$561.5 million (2005 est.)<br>
-
-**Real GDP per capita**<br>
-$19,300 (2005 est.)<br>
+**Real GDP growth rate**<br>
+4.9% (2021 est.)<br>
+-12.5% (2020 est.)<br>
+6.5% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **GDP (official exchange rate)**<br>
-$561.5 million (2005 est.)<br>
+$649.206 million (2021 est.) (2005 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1% (2000)<br>
@@ -266,6 +267,10 @@ _services_: 84% (2000)<br>
 
 **Industries**<br>
 tourism, light industry and manufacturing, heavy industry<br>
+
+**Industrial production growth rate**<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 17,300 (2008 est.)<br>
@@ -284,11 +289,11 @@ jewelry, diamonds, pearls, recreational boats, cars (2019)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.885 (2017 est.)<br>
-0.903 (2016 est.)<br>
-0.9214 (2015 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.95 (2022 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
 
 ## Energy
 

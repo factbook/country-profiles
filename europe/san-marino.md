@@ -277,11 +277,11 @@ _residency requirement for naturalization_: 30 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: co-chiefs of state Captains Regent Filippo TAMAGNINI and Gaetano TROINA (for the period 1 October 2023 - 1 April 2024)<br>
+_chief of state_: co-chiefs of state Captains Regent Alessandro ROSSI and Milena GASPERONI (for the period 1 April 2024 - 30 September 2024)<br>
 _head of government_: Secretary of State for Foreign and Political Affairs Luca BECCARI (since 8 January 2020)<br>
 _cabinet_: Congress of State elected by the Grand and General Council<br>
-_elections/appointments_: co-chiefs of state (captains regent) indirectly elected by the Grand and General Council for a single 6-month term; election last held in September 2023; Secretary of State for Foreign and Political Affairs indirectly elected by the Grand and General Council for a single 5-year term; election last held on 28 December 2019 (next to be held by November 2024)<br>
-_election results_: <em>September 2023:</em> Filippo TAMAGNINI and Gaetano TROINA elected captains regent; percent of Grand and General Council vote - NA; Luca BECCARI (PDCS) elected Secretary of State for Foreign and Political Affairs; percent of Grand and General Council vote - NA<br>
+_elections/appointments_: co-chiefs of state (captains regent) indirectly elected by the Grand and General Council for a single 6-month term; election last held in March 2024 (next to be held in September 2024; Secretary of State for Foreign and Political Affairs indirectly elected by the Grand and General Council for a single 5-year term; election last held on 28 December 2019 (next to be held by November 2024)<br>
+_election results_: <em>March 2024:  </em>Alessandro ROSSI (Demos) and Milena GASPERONI (We for the Republic) elected captains regent; percent of Grand and General Council vote - NA<em><br><br>September 2023:</em> Filippo TAMAGNINI and Gaetano TROINA elected captains regent; percent of Grand and General Council vote - NA<br><br><em>2019:</em> Luca BECCARI (PDCS) elected Secretary of State for Foreign and Political Affairs; percent of Grand and General Council vote - NA<br>
 <strong>note:</strong> the captains regent preside over meetings of the Grand and General Council and its cabinet (Congress of State), which has 7 other members who are selected by the Grand and General Council; assisting the captains regent are 7 secretaries of state; the secretary of state for Foreign Affairs has some prime ministerial roles<br>
 
 **Legislative branch**<br>
@@ -332,27 +332,32 @@ _selected World Heritage Site locales_: San Marino Historic Center and Mount Tit
 high-income, non-EU European economy; surrounded by Italy, which is the dominant importer and exporter; open border to EU and a euro user; strong financial sector; high foreign investments; low taxation; increasingly high and risky debt<br>
 
 **Real GDP (purchasing power parity)**<br>
+$2.079 billion (2021 est.)<br>
 $1.917 billion (2020 est.)<br>
 $2.053 billion (2019 est.)<br>
-$2.012 billion (2018 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+8.46% (2021 est.)<br>
 -6.65% (2020 est.)<br>
 2.07% (2019 est.)<br>
-1.49% (2018 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$56,400 (2020 est.) note: data are in 2017 dollars<br>
-$60,100 (2019 est.) note: data are in 2017 dollars<br>
-$58,900 (2018 est.)<br>
+$61,600 (2021 est.)<br>
+$56,400 (2020 est.)<br>
+$60,100 (2019 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.643 billion (2017 est.)<br>
+$1.855 billion (2021 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1.05% (2017 est.)<br>
-0.6% (2016 est.)<br>
+0.57% (2016 est.)<br>
+0.15% (2015 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB+ (2020)<br>
@@ -378,7 +383,8 @@ wheat, grapes, corn, olives; cattle, pigs, horses, beef, cheese, hides<br>
 tourism, banking, textiles, electronics, ceramics, cement, wine<br>
 
 **Industrial production growth rate**<br>
--1.1% (2012 est.)<br>
+11.57% (2021 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 21,960 (September 2013 est.)<br>
@@ -399,6 +405,12 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+1.13% of GDP (2021 est.)<br>
+1.15% of GDP (2020 est.)<br>
+1.08% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+
 **Budget**<br>
 _revenues_: $371 million (2019 est.)<br>
 _expenditures_: $363 million (2019 est.)<br>
@@ -407,12 +419,14 @@ _expenditures_: $363 million (2019 est.)<br>
 -2.9% (of GDP) (2011 est.)<br>
 
 **Public debt**<br>
+95.12% of GDP (2021 est.)<br>
 98.35% of GDP (2020 est.)<br>
 55.09% of GDP (2019 est.)<br>
-55.94% of GDP (2018 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-16.14% (of GDP) (2020 est.)<br>
+17.3% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -442,20 +456,21 @@ Germany 21%, Italy 13%, Poland 10%, France 7%, Spain 7%, Belgium 6%, Romania 6% 
 electricity, cars, aluminum, footwear, natural gas, iron piping (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$954.512 million (31 December 2021 est.)<br>
-$781.805 million (31 December 2020 est.)<br>
-$473.111 million (31 December 2019 est.)<br>
+$716.066 million (2022 est.)<br>
+$954.383 million (2021 est.)<br>
+$781.674 million (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 <p>NA</p><br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.951 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.877 (2020 est.)<br>
 0.893 (2019 est.)<br>
 0.847 (2018 est.)<br>
-0.885 (2017 est.)<br>
 <strong>note: </strong>while not an EU member state, San Marino, due to its preexisting monetary and banking agreements with Italy, has a 2000 monetary agreement with the EU to produce limited euro coinage—but not banknotes—that began enforcement in January 2002 and was superseded by a new EU agreement in 2012<br>
 
 ## Energy

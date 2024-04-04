@@ -91,7 +91,7 @@ _adjective_: Croatian<br>
 Croat 91.6%, Serb 3.2%, other 3.9% (including Bosniak, Romani, Albanian, Italian, and Hungarian), unspecified 1.3% (2021 est.)<br>
 
 **Languages**<br>
-Croatian (official) 95.6%, Serbian 1.2%, other 3% (including Hungarian, Czech, Slovak, and Albanian), unspecified 0.2% (2011 est.)<br>
+Croatian (official) 95.2%, Serbian 1.2%, other 3.1% (including Bosnian, Romani, Albanian, and Italian) unspecified 0.5% (2021 est.)<br>
 _major-language sample(s)_: <br>Knjiga svjetskih činjenica, nužan izvor osnovnih informacija. (Croatian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -399,29 +399,32 @@ _selected World Heritage Site locales_: Plitvice Lakes National Park (n); Histor
 tourism-based economy that was one of the hardest hit by COVID-19 economic disruptions; newest euro user since 2023, helping recover from a 6-year recession; public debt increases due to COVID-19 and stimulus packages; weak exports; continuing emigration; new liquefied natural gas import terminal<br>
 
 **Real GDP (purchasing power parity)**<br>
-$123.348 billion (2021 est.)<br>
-$109.088 billion (2020 est.)<br>
-$119.327 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$132.256 billion (2022 est.)<br>
+$124.363 billion (2021 est.)<br>
+$109.296 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-13.07% (2021 est.)<br>
--8.58% (2020 est.)<br>
-3.42% (2019 est.)<br>
+6.35% (2022 est.)<br>
+13.78% (2021 est.)<br>
+-8.59% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$31,600 (2021 est.)<br>
+$34,300 (2022 est.)<br>
+$32,100 (2021 est.)<br>
 $27,000 (2020 est.)<br>
-$29,400 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$60.687 billion (2019 est.)<br>
+$71.6 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+10.78% (2022 est.)<br>
 2.55% (2021 est.)<br>
 0.15% (2020 est.)<br>
-0.77% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2019)<br>
@@ -449,15 +452,18 @@ maize, wheat, sugar beet, milk, barley, soybeans, potatoes, pork, grapes, sunflo
 chemicals and plastics, machine tools, fabricated metal, electronics, pig iron and rolled steel products, aluminum, paper, wood products, construction materials, textiles, shipbuilding, petroleum and petroleum refining, food and beverages, tourism<br>
 
 **Industrial production growth rate**<br>
-9.11% (2021 est.)<br>
+2.69% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.742 million (2021 est.)<br>
+1.732 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.68% (2021 est.)<br>
+6.96% (2022 est.)<br>
+7.61% (2021 est.)<br>
 7.51% (2020 est.)<br>
-6.62% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 23.6% (2021 est.)<br>
@@ -465,23 +471,27 @@ _male_: 21.8%<br>
 _female_: 26.3%<br>
 
 **Population below poverty line**<br>
-18.3% (2018 est.)<br>
+18% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-28.9 (2019 est.)<br>
+29.5 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 23% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.7%<br>
-_highest 10%_: 23% (2015 est.)<br>
+_lowest 10%_: 2.9%<br>
+_highest 10%_: 22.3% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-7.32% of GDP (2021 est.)<br>
-7.31% of GDP (2020 est.)<br>
-6.87% of GDP (2019 est.)<br>
+7.53% of GDP (2022 est.)<br>
+7.28% of GDP (2021 est.)<br>
+7.25% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $212.81 billion (2019 est.)<br>
@@ -491,26 +501,29 @@ _expenditures_: $211.069 billion (2019 est.)<br>
 0.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-104.89% of GDP (2020 est.)<br>
-87.08% of GDP (2019 est.)<br>
-89.45% of GDP (2018 est.)<br>
+91% of GDP (2021 est.)<br>
+98.78% of GDP (2020 est.)<br>
+81.68% of GDP (2019 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-20.6% (of GDP) (2020 est.)<br>
+20.13% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
+-$1,464,477,000 (2022 est.)<br>
 $2.082 billion (2021 est.)<br>
 -$184.775 million (2020 est.)<br>
-$1.7 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$41.953 billion (2022 est.)<br>
 $35.308 billion (2021 est.)<br>
 $24.007 billion (2020 est.)<br>
-$31.504 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Italy 13%, Germany 13%, Slovenia 10%, Bosnia and Herzegovina 9%, Austria 6%, Serbia 5% (2019)<br>
@@ -519,9 +532,10 @@ Italy 13%, Germany 13%, Slovenia 10%, Bosnia and Herzegovina 9%, Austria 6%, Ser
 refined petroleum, crude petroleum, packaged medicines, electricity, electrical transformers (2021)<br>
 
 **Imports**<br>
+$46.307 billion (2022 est.)<br>
 $36.331 billion (2021 est.) note: data are in current year dollars<br>
 $27.954 billion (2020 est.) note: data are in current year dollars<br>
-$31.793 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Italy 14%, Germany 14%, Slovenia 11%, Hungary 7%, Austria 6% (2019)<br>
@@ -530,9 +544,10 @@ Italy 14%, Germany 14%, Slovenia 11%, Hungary 7%, Austria 6% (2019)<br>
 crude petroleum, cars, refined petroleum, packaged medicines, electricity (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$28.309 billion (31 December 2021 est.)<br>
-$23.254 billion (31 December 2020 est.)<br>
-$20.771 billion (31 December 2019 est.)<br>
+$29.726 billion (2022 est.)<br>
+$28.309 billion (2021 est.)<br>
+$23.254 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $48.263 billion (2019 est.)<br>
@@ -540,12 +555,12 @@ $51.176 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.845 (2021 est.)<br>
-0.876 (2020 est.)<br>
-0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
-0.885 (2017 est.)<br>
-<strong>note:</strong> Prior to 1 January 2023, Croatia used the kuna as its currency, and it is currently accepting both currencies until 15 January 2023. However, kuna users will receive change in euros, and the exchange rate has been fixed at 7.53450 kuna to 1 euro. Persons may exchange currencies at Croatian post offices until 30 June 2023, free-of-charge, and at any Croatian bank until 31 December  2023.<br>
+7.16 (2022 est.)<br>
+6.36 (2021 est.)<br>
+6.614 (2020 est.)<br>
+6.623 (2019 est.)<br>
+6.279 (2018 est.)<br>
+<strong>note:</strong> Rates shown through 2022 are for the kuna, which Croatia used prior to conversion to the euro on 1 January 2023. During the transition period the exchange rate was fixed at 7.53450 kuna to 1 euro.<br>
 
 ## Energy
 

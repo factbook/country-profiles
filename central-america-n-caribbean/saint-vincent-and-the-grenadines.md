@@ -346,29 +346,32 @@ _lyrics/music_: Phyllis Joyce MCCLEAN PUNNETT/Joel Bertram MIGUEL<br>
 upper middle-income Caribbean island economy; key agriculture and tourism sectors; environmentally fragile; diversifying economy across services, science and knowledge, and creative industries; CARICOM member and US Caribbean Basin Initiative beneficiary<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.429 billion (2021 est.)<br>
-$1.41 billion (2020 est.)<br>
-$1.489 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$1.515 billion (2022 est.)<br>
+$1.444 billion (2021 est.)<br>
+$1.433 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.35% (2021 est.)<br>
--5.31% (2020 est.)<br>
-0.4% (2019 est.)<br>
+4.91% (2022 est.)<br>
+0.8% (2021 est.)<br>
+-3.74% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$13,700 (2021 est.)<br>
-$13,500 (2020 est.)<br>
-$14,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$14,600 (2022 est.)<br>
+$13,800 (2021 est.)<br>
+$13,700 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$785 million (2017 est.)<br>
+$948.559 million (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.66% (2022 est.)<br>
 1.57% (2021 est.)<br>
 -0.63% (2020 est.)<br>
-0.91% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2014)<br>
@@ -394,15 +397,18 @@ bananas, sugar cane, roots/tubers, plantains, vegetables, fruit, coconuts, sweet
 tourism; food processing, cement, furniture, clothing, starch<br>
 
 **Industrial production growth rate**<br>
-5.7% (2021 est.)<br>
+11.87% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-51,700 (2021 est.)<br>
+53,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-21.62% (2021 est.)<br>
-21% (2020 est.)<br>
-19.28% (2019 est.)<br>
+19.55% (2022 est.)<br>
+20.46% (2021 est.)<br>
+20.68% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 41.1% (2021 est.)<br>
@@ -417,9 +423,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-9.5% of GDP (2021 est.)<br>
-6.96% of GDP (2020 est.)<br>
-8.72% of GDP (2019 est.)<br>
+7.33% of GDP (2022 est.)<br>
+8.03% of GDP (2021 est.)<br>
+7.25% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $243 million (2020 est.)<br>
@@ -433,20 +440,23 @@ _expenditures_: $288 million (2020 est.)<br>
 82.8% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-23.7% (of GDP) (2017 est.)<br>
+23.8% (of GDP) (2017 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$211.643 million (2021 est.)<br>
--$131.46 million (2020 est.)<br>
--$27.903 million (2019 est.)<br>
+-$184.796 million (2022 est.)<br>
+-$197.723 million (2021 est.)<br>
+-$136.29 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$125.777 million (2021 est.) note: data are in current year dollars<br>
-$188.834 million (2020 est.)<br>
-$327.51 million (2019 est.)<br>
+$262.355 million (2022 est.)<br>
+$140.343 million (2021 est.) note: data are in current year dollars<br>
+$184.627 million (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Netherlands 45%, India 9%, United States 6%, Barbados 5%, Greece 5% (2021)<br>
@@ -455,9 +465,10 @@ Netherlands 45%, India 9%, United States 6%, Barbados 5%, Greece 5% (2021)<br>
 recreational boats, drilling platforms, cargo ships, wheat flours, animal food, collector's items (2021)<br>
 
 **Imports**<br>
-$415.725 million (2021 est.) note: data are in current year dollars<br>
-$373.621 million (2020 est.)<br>
-$425.28 million (2019 est.)<br>
+$508.404 million (2022 est.)<br>
+$425.4 million (2021 est.) note: data are in current year dollars<br>
+$375.036 million (2020 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 29%, Netherlands 15%, Trinidad and Tobago 10%, China 8%, France 5% (2021)<br>
@@ -466,9 +477,10 @@ United States 29%, Netherlands 15%, Trinidad and Tobago 10%, China 8%, France 5%
 dredger ships, refined petroleum, floating docks, aircraft, poultry, packaged medicines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$311.903 million (31 December 2021 est.)<br>
-$205.195 million (31 December 2020 est.)<br>
-$193.357 million (31 December 2019 est.)<br>
+$320.193 million (2022 est.)<br>
+$311.903 million (2021 est.)<br>
+$205.195 million (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $362.2 million (31 December 2017 est.)<br>
@@ -476,11 +488,11 @@ $330.8 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2022 est.)<br>
 2.7 (2021 est.)<br>
 2.7 (2020 est.)<br>
 2.7 (2019 est.)<br>
 2.7 (2018 est.)<br>
-2.7 (2017 est.)<br>
 
 ## Energy
 

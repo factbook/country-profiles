@@ -390,29 +390,32 @@ _selected World Heritage Site locales_: Masada; Old City of Acre; White City of 
 high-income, technology- and industrial-based economy; highly dense, fast-growing labor force; recent debt spikes; persistent inequality and poverty; significant tariff and regulatory burdens, especially in agriculture; quantitative easing in effect<br>
 
 **Real GDP (purchasing power parity)**<br>
-$393.861 billion (2021 est.)<br>
-$362.632 billion (2020 est.)<br>
-$369.494 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$424.289 billion (2022 est.)<br>
+$397.152 billion (2021 est.)<br>
+$365.661 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+6.83% (2022 est.)<br>
 8.61% (2021 est.)<br>
 -1.86% (2020 est.)<br>
-4.16% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$42,100 (2021 est.)<br>
-$39,400 (2020 est.)<br>
-$40,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$44,400 (2022 est.)<br>
+$42,400 (2021 est.)<br>
+$39,700 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$394.93 billion (2019 est.)<br>
+$525.002 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-1.49% (2021 est.)<br>
--0.59% (2020 est.)<br>
-0.84% (2019 est.)<br>
+4.39% (2022 est.)<br>
+1.51% (2021 est.)<br>
+-0.61% (2020 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A+ (2016)<br>
@@ -441,14 +444,17 @@ high-technology products (including aviation, communications, computer-aided des
 
 **Industrial production growth rate**<br>
 6.05% (2021 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.186 million (2021 est.)<br>
+4.451 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.05% (2021 est.)<br>
-4.33% (2020 est.)<br>
-3.8% (2019 est.)<br>
+3.7% (2022 est.)<br>
+4.81% (2021 est.)<br>
+4.17% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 8.8% (2021 est.)<br>
@@ -461,19 +467,22 @@ _female_: 9.2%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 38.6 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 16.2% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 2.9% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.7%<br>
-_highest 10%_: 31.3% (2010)<br>
+_lowest 10%_: 1.9%<br>
+_highest 10%_: 27.6% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.24% of GDP (2022 est.)<br>
 0.25% of GDP (2021 est.)<br>
 0.28% of GDP (2020 est.)<br>
-0.24% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $139.374 billion (2019 est.)<br>
@@ -488,21 +497,23 @@ _expenditures_: $154.927 billion (2019 est.)<br>
 60.4% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-21.9% (of GDP) (2020 est.)<br>
+24.62% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$21.09 billion (2021 est.)<br>
-$22.486 billion (2020 est.)<br>
-$14.747 billion (2019 est.)<br>
+$20.34 billion (2022 est.)<br>
+$19.095 billion (2021 est.)<br>
+$19.806 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$143.884 billion (2021 est.)<br>
-$114.422 billion (2020 est.)<br>
-$117.779 billion (2019 est.)<br>
-<strong>note:</strong> data are in current year dollars<br>
+$166.227 billion (2022 est.)<br>
+$143.505 billion (2021 est.)<br>
+$113.687 billion (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 27%, China 8%, India 4%, Germany 3%, Ireland 3% (2021)<br>
@@ -512,10 +523,10 @@ United States 27%, China 8%, India 4%, Germany 3%, Ireland 3% (2021)<br>
 diamonds, integrated circuits, refined petroleum, medical instruments, packaged medicines, measuring instruments (2021)<br>
 
 **Imports**<br>
-$124.578 billion (2021 est.)<br>
-$95.977 billion (2020 est.)<br>
-$108.784 billion (2019 est.)<br>
-<strong>note:</strong> data are in current year dollars<br>
+$150.804 billion (2022 est.)<br>
+$125.948 billion (2021 est.)<br>
+$96.886 billion (2020 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 14%, United States 11%, Turkey 7%, Germany 7%, Switzerland 5% (2021)<br>
@@ -524,9 +535,10 @@ China 14%, United States 11%, Turkey 7%, Germany 7%, Switzerland 5% (2021)<br>
 diamonds, cars, broadcasting equipment, integrated circuits, refined petroleum, packaged medicines&nbsp; (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$212.934 billion (31 December 2021 est.)<br>
-$173.292 billion (31 December 2020 est.)<br>
-$126.008 billion (31 December 2019 est.)<br>
+$194.231 billion (2022 est.)<br>
+$212.934 billion (2021 est.)<br>
+$173.292 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $132.5 billion (31 December 2020 est.)<br>
@@ -535,11 +547,11 @@ $94.247 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: new Israeli shekels (ILS) per US dollar -<br>
+3.36 (2022 est.)<br>
 3.23 (2021 est.)<br>
 3.442 (2020 est.)<br>
 3.565 (2019 est.)<br>
 3.591 (2018 est.)<br>
-3.6 (2017 est.)<br>
 
 ## Energy
 

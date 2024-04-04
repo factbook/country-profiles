@@ -399,29 +399,32 @@ _selected World Heritage Site locales_: Petra (c); Quseir Amra (c); Um er-Rasas 
 low growth, upper middle-income Middle Eastern economy; high debt and unemployment, especially for youth and women; key US foreign assistance recipient; natural resource-poor and import-reliant<br>
 
 **Real GDP (purchasing power parity)**<br>
-$102.822 billion (2021 est.)<br>
-$100.581 billion (2020 est.)<br>
-$102.185 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$107.11 billion (2022 est.)<br>
+$104.571 billion (2021 est.)<br>
+$100.883 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.23% (2021 est.)<br>
--1.57% (2020 est.)<br>
-1.93% (2019 est.)<br>
+2.43% (2022 est.)<br>
+3.66% (2021 est.)<br>
+-1.1% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$9,200 (2021 est.)<br>
+$9,500 (2022 est.)<br>
+$9,400 (2021 est.)<br>
 $9,200 (2020 est.)<br>
-$9,600 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$44.568 billion (2019 est.)<br>
+$48.653 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.23% (2022 est.)<br>
 1.35% (2021 est.)<br>
 0.33% (2020 est.)<br>
-0.76% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2019)<br>
@@ -449,16 +452,18 @@ tomatoes, poultry, olives, milk, potatoes, cucumbers, vegetables, watermelons, g
 tourism, information technology, clothing, fertilizer, potash, phosphate mining, pharmaceuticals, petroleum refining, cement, inorganic chemicals, light manufacturing<br>
 
 **Industrial production growth rate**<br>
-3.02% (2021 est.)<br>
+3.33% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.865 million (2021 est.)<br>
+3.009 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-19.25% (2021 est.)<br>
-19.03% (2020 est.)<br>
-16.81% (2019 est.)<br>
-<strong>note:</strong> official rate; unofficial rate is approximately 30%<br>
+19.19% (2022 est.)<br>
+19.84% (2021 est.)<br>
+19.21% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 40.5% (2021 est.)<br>
@@ -467,6 +472,7 @@ _female_: 53.8%<br>
 
 **Population below poverty line**<br>
 15.7% (2018 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33.7 (2010 est.)<br>
@@ -480,9 +486,10 @@ _lowest 10%_: 3.4%<br>
 _highest 10%_: 28.7% (2010 est.)<br>
 
 **Remittances**<br>
-11.29% of GDP (2021 est.)<br>
-11.05% of GDP (2020 est.)<br>
-10.34% of GDP (2019 est.)<br>
+10.28% of GDP (2022 est.)<br>
+11.15% of GDP (2021 est.)<br>
+11.17% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $10.813 billion (2019 est.)<br>
@@ -492,26 +499,29 @@ _expenditures_: $13.489 billion (2019 est.)<br>
 -5.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-75.14% of GDP (2020 est.)<br>
-78.48% of GDP (2019 est.)<br>
+75.97% of GDP (2020 est.)<br>
+79.35% of GDP (2019 est.)<br>
 75.38% of GDP (2017 est.)<br>
-<strong>note:</strong> data cover central government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-15.81% (of GDP) (2020 est.)<br>
+15.98% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$4.03 billion (2021 est.)<br>
--$2.506 billion (2020 est.)<br>
--$773.366 million (2019 est.)<br>
+-$4,159,132,000 (2022 est.)<br>
+-$3,717,606,000 (2021 est.)<br>
+-$2,505,006,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$13.864 billion (2021 est.) note: data are in current year dollars<br>
+$20.335 billion (2022 est.)<br>
+$13.87 billion (2021 est.) note: data are in current year dollars<br>
 $10.444 billion (2020 est.) note: data are in current year dollars<br>
-$16.17 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 26%, India 13%, Saudi Arabia 11%, Iraq 5%, China 4% (2021)<br>
@@ -520,9 +530,10 @@ United States 26%, India 13%, Saudi Arabia 11%, Iraq 5%, China 4% (2021)<br>
 fertilizers, clothing and apparel, calcium phosphates, phosphoric acid, packaged medicines (2021)<br>
 
 **Imports**<br>
-$23.392 billion (2021 est.) note: data are in current year dollars<br>
+$29.955 billion (2022 est.)<br>
+$23.321 billion (2021 est.) note: data are in current year dollars<br>
 $18.424 billion (2020 est.) note: data are in current year dollars<br>
-$21.964 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 17%, Saudi Arabia 14%, United Arab Emirates 11%, United States 5%, Turkey 3% (2021)<br>
@@ -532,7 +543,9 @@ cars, refined petroleum, gold, crude petroleum, clothing and apparel, broadcasti
 
 **Reserves of foreign exchange and gold**<br>
 $15.56 billion (31 December 2017 est.)<br>
-$15.54 billion (31 December 2016 est.)<br>
+$15.543 billion (2016 est.)<br>
+$16.572 billion (2015 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $32.088 billion (2019 est.)<br>
@@ -540,11 +553,11 @@ $29.916 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Jordanian dinars (JOD) per US dollar -<br>
+0.71 (2022 est.)<br>
 0.71 (2021 est.)<br>
 0.71 (2020 est.)<br>
 0.71 (2019 est.)<br>
 0.71 (2018 est.)<br>
-0.71 (2017 est.)<br>
 
 ## Energy
 

@@ -85,13 +85,13 @@ _noun_: Estonian(s)<br>
 _adjective_: Estonian<br>
 
 **Ethnic groups**<br>
-Estonian 68.7%, Russian 24.8%, Ukrainian 1.7%, Belarusian 1%, Finn 0.6%, other 1.6%, unspecified 1.6% (2011 est.)<br>
+Estonian 69.1%, Russian 23.7%, Ukrainian 2.1%, other 4.6%, unspecified 0.5% (2021 est.)<br>
 
 **Languages**<br>
-Estonian (official) 68.5%, Russian 29.6%, Ukrainian 0.6%, other 1.2%, unspecified 0.1% (2011 est.)<br>
+Estonian (official) 67.2%, Russian 28.5%, other 3.7%, unspecified 0.6% (2021est.)<br>
 
 **Religions**<br>
-Orthodox 16.2%, Lutheran 9.9%, other Christian (including Methodist, Seventh Day Adventist, Roman Catholic, Pentecostal) 2.2%, other 0.9%, none 54.1%, unspecified 16.7% (2011 est.)<br>
+Orthodox 16.5%, Protestant 9.2% (Lutheran 7.7%, other Protestant 1.5%), other 3% (includes Roman Catholic, Muslim, Jehovah's Witness, Pentecostal, Buddhist, and Taara Believer), none 58.4%, unspecified 12.9% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 15.56% (male 95,732/female 91,384)<br>
@@ -386,29 +386,32 @@ _selected World Heritage Site locales_: Historic Center (Old Town) of Tallinn; S
 advanced service-based EU and OECD economy; regional trade and telecommunications leader; recently rejected Baltic sea rail tunnel from Tallinn to Helsinki; flat income taxation; substantial welfare system; balanced budget culture; business-friendly climate<br>
 
 **Real GDP (purchasing power parity)**<br>
+$50.867 billion (2022 est.)<br>
 $51.531 billion (2021 est.)<br>
 $47.708 billion (2020 est.)<br>
-$47.972 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+-1.29% (2022 est.)<br>
 8.01% (2021 est.)<br>
 -0.55% (2020 est.)<br>
-3.74% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$37,700 (2022 est.)<br>
 $38,700 (2021 est.)<br>
 $35,900 (2020 est.)<br>
-$36,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$31.461 billion (2019 est.)<br>
+$38.101 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+19.4% (2022 est.)<br>
 4.65% (2021 est.)<br>
 -0.44% (2020 est.)<br>
-2.28% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA- (2018)<br>
@@ -436,15 +439,18 @@ wheat, milk, barley, rapeseeds, rye, oats, peas, potatoes, pork, triticale<br>
 food, engineering, electronics, wood and wood products, textiles; information technology, telecommunications<br>
 
 **Industrial production growth rate**<br>
-7.13% (2021 est.)<br>
+-2.96% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-704,700 (2021 est.)<br>
+734,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.33% (2021 est.)<br>
+5.57% (2022 est.)<br>
+6.18% (2021 est.)<br>
 6.8% (2020 est.)<br>
-4.45% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 17.1% (2021 est.)<br>
@@ -452,23 +458,27 @@ _male_: 16.5%<br>
 _female_: 17.8%<br>
 
 **Population below poverty line**<br>
-21.7% (2018 est.)<br>
+22.8% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-30.8 (2019 est.)<br>
+30.7 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 20.3% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 7.8% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.3%<br>
-_highest 10%_: 25.6% (2015)<br>
+_lowest 10%_: 3%<br>
+_highest 10%_: 23.5% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+1.23% of GDP (2022 est.)<br>
 1.56% of GDP (2021 est.)<br>
 1.61% of GDP (2020 est.)<br>
-1.74% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $12.282 billion (2019 est.)<br>
@@ -478,26 +488,29 @@ _expenditures_: $12.269 billion (2019 est.)<br>
 -0.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-23.77% of GDP (2020 est.)<br>
+23.67% of GDP (2021 est.)<br>
+23.76% of GDP (2020 est.)<br>
 14.05% of GDP (2019 est.)<br>
-13.46% of GDP (2018 est.)<br>
-<strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities, including sub-sectors of central government, state government, local government, and social security funds<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-20.69% (of GDP) (2020 est.)<br>
+21.42% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$709.328 million (2021 est.)<br>
--$370.205 million (2020 est.)<br>
-$735.796 million (2019 est.)<br>
+-$1,230,929,000 (2022 est.)<br>
+-$1,002,335,000 (2021 est.)<br>
+-$660.167 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$29.056 billion (2021 est.) note: data are in current year dollars<br>
-$21.769 billion (2020 est.) note: data are in current year dollars<br>
-$22.962 billion (2019 est.) note: data are in current year dollars<br>
+$32.461 billion (2022 est.)<br>
+$29.522 billion (2021 est.) note: data are in current year dollars<br>
+$21.721 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Finland 12%, United States 9%, Latvia 9%, Sweden 8%, Russia 6% (2021)<br>
@@ -506,9 +519,10 @@ Finland 12%, United States 9%, Latvia 9%, Sweden 8%, Russia 6% (2021)<br>
 broadcasting equipment, coal tar oil, refined petroleum, cars, prefabricated buildings, lumber (2021)<br>
 
 **Imports**<br>
-$29.234 billion (2021 est.) note: data are in current year dollars<br>
-$21.813 billion (2020 est.) note: data are in current year dollars<br>
-$21.712 billion (2019 est.) note: data are in current year dollars<br>
+$32.671 billion (2022 est.)<br>
+$29.937 billion (2021 est.) note: data are in current year dollars<br>
+$21.966 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Russia 15%, Finland 10%, Germany 10%, Latvia 7%, Lithuania 6% (2021)<br>
@@ -517,9 +531,10 @@ Russia 15%, Finland 10%, Germany 10%, Latvia 7%, Lithuania 6% (2021)<br>
 refined petroleum, cars, coal tar oil, electricity, lumber, broadcasting equipment (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.371 billion (31 December 2021 est.)<br>
-$1.997 billion (31 December 2020 est.)<br>
-$1.426 billion (31 December 2019 est.)<br>
+$2.217 billion (2022 est.)<br>
+$2.371 billion (2021 est.)<br>
+$1.997 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $23.944 billion (2019 est.)<br>
@@ -527,11 +542,11 @@ $23.607 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
 0.847 (2018 est.)<br>
-0.885 (2017 est.)<br>
 
 ## Energy
 

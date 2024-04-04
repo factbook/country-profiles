@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Kingdom of Yemen (colloquially known as North Yemen) became independent from the Ottoman Empire in 1918 and in 1962 became the Yemen Arab Republic. The British, who had set up a protectorate area around the southern port of Aden in the 19th century, withdrew in 1967 from what became the People's Republic of Southern Yemen (colloquially known as South Yemen). Three years later, the southern government adopted a Marxist orientation and changed the country's name to the People's Democratic Republic of Yemen. The massive exodus of hundreds of thousands of Yemenis from the south to the north contributed to two decades of hostility between the states. The two countries were formally unified as the Republic of Yemen in 1990. A southern secessionist movement and brief civil war in 1994 was quickly subdued. In 2000, Saudi Arabia and Yemen agreed to delineate their border. Fighting in the northwest between the government and the Houthis, a Zaydi Shia Muslim minority, continued intermittently from 2004 to 2010, and then again from 2014-present. The southern secessionist movement was revitalized in 2007.</p> <p>Public rallies in Sana'a against then President Ali Abdallah SALIH - inspired by similar Arab Spring demonstrations in Tunisia and Egypt - slowly built momentum starting in late January 2011 fueled by complaints over high unemployment, poor economic conditions, and corruption. By the following month, some protests had resulted in violence, and the demonstrations had spread to other major cities. By March the opposition had hardened its demands and was unifying behind calls for SALIH's immediate ouster. In April 2011, the Gulf Cooperation Council (GCC), in an attempt to mediate the crisis in Yemen, proposed the GCC Initiative, an agreement in which the president would step down in exchange for immunity from prosecution. SALIH's refusal to sign an agreement led to further violence. The UN Security Council passed Resolution 2014 in October 2011 calling for an end to the violence and completing a power transfer deal. In November 2011, SALIH signed the GCC Initiative to step down and to transfer some of his powers to Vice President Abd Rabuh Mansur HADI. Following HADI's uncontested election victory in February 2012, SALIH formally transferred all presidential powers. In accordance with the GCC Initiative, Yemen launched a National Dialogue Conference (NDC) in March 2013 to discuss key constitutional, political, and social issues. HADI concluded the NDC in January 2014 and planned to begin implementing subsequent steps in the transition process, including constitutional drafting, a constitutional referendum, and national elections.</p> <p>The Houthis, perceiving their grievances were not addressed in the NDC, joined forces with SALIH and expanded their influence in northwestern Yemen, which culminated in a major offensive against military units and rival tribes and enabled their forces to overrun the capital, Sanaa, in September 2014. In January 2015, the Houthis surrounded the presidential palace, HADI's residence, and key government facilities, prompting HADI and the cabinet to submit their resignations. HADI fled to Aden in February 2015 and rescinded his resignation. He subsequently escaped to Oman and then moved to Saudi Arabia and asked the GCC to intervene militarily in Yemen to protect the legitimate government from the Houthis. In March 2015, Saudi Arabia assembled a coalition of Arab militaries and began airstrikes against the Houthis and Houthi-affiliated forces. Ground fighting between Houthi-aligned forces and anti-Houthi groups backed by the Saudi-led coalition continued through 2016. In 2016, the UN brokered a months-long cessation of hostilities that reduced airstrikes and fighting, and initiated peace talks in Kuwait. However, the talks ended without agreement. The Houthis and SALIH’s political party announced a Supreme Political Council in August 2016 and a National Salvation Government, including a prime minister and several dozen cabinet members, in November 2016, to govern in Sanaa and further challenge the legitimacy of HADI’s government. However, amid rising tensions between the Houthis and SALIH, sporadic clashes erupted in mid-2017, and escalated into open fighting that ended when Houthi forces killed SALIH in early December 2017. In 2018, anti-Houthi forces made the most battlefield progress in Yemen since early 2016, most notably in Al Hudaydah Governorate. In December 2018, the Houthis and Yemeni Government participated in the first UN-brokered peace talks since 2016, agreeing to a limited cease-fire in Al Hudaydah Governorate and the establishment of a UN Mission to monitor the agreement. In April 2019, Yemen’s parliament convened in Say'un for the first time since the conflict broke out in 2014. In August 2019, violence erupted between HADI's government and the pro-secessionist Southern Transition Council (STC) in southern Yemen. In November 2019, HADI's government and the STC signed a power-sharing agreement to end the fighting between them, and in December 2020, the signatories formed a new cabinet. In 2020 and 2021, fighting continued on the ground in Yemen as the Houthis gained territory, and also conducted regular UAV and missile attacks against targets in Saudi Arabia. In April 2022, the UN brokered a temporary truce between the Houthis and Saudi-led coalition that resulted in an extended pause of large-scale fighting and cessation of cross-border attacks. Also in April 2022, HADI and his vice-president resigned and were replaced by an eight-person Presidential Leadership Council with the executive powers of the president and vice president.</p><br>
+<p>The Kingdom of Yemen (colloquially known as North Yemen) became independent from the Ottoman Empire in 1918 and in 1962 became the Yemen Arab Republic. The British, who had set up a protectorate area around the southern port of Aden in the 19th century, withdrew in 1967 from what became the People's Republic of Southern Yemen (colloquially known as South Yemen). Three years later, the southern government adopted a Marxist orientation and changed the country's name to the People's Democratic Republic of Yemen. The massive exodus of hundreds of thousands of Yemenis from the south to the north contributed to two decades of hostility between the states. The two countries were formally unified as the Republic of Yemen in 1990. A southern secessionist movement and brief civil war in 1994 was quickly subdued. In 2000, Saudi Arabia and Yemen agreed to delineate their border. Fighting in the northwest between the government and the Houthis, a Zaydi Shia Muslim minority, continued intermittently from 2004 to 2010, and then again from 2014-present. The southern secessionist movement was revitalized in 2007.</p> <p>Public rallies in Sana'a against then President Ali Abdallah SALIH - inspired by similar Arab Spring demonstrations in Tunisia and Egypt - slowly built momentum starting in late January 2011 fueled by complaints over high unemployment, poor economic conditions, and corruption. By the following month, some protests had resulted in violence, and the demonstrations had spread to other major cities. By March, the opposition had hardened its demands and was unifying behind calls for SALIH's immediate ouster. In April 2011, the Gulf Cooperation Council (GCC), in an attempt to mediate the crisis in Yemen, proposed the GCC Initiative, an agreement in which the president would step down in exchange for immunity from prosecution. SALIH's refusal to sign an agreement led to further violence. The UN Security Council passed Resolution 2014 in October 2011 calling for an end to the violence and completing a power transfer deal. In November 2011, SALIH signed the GCC Initiative to step down and to transfer some of his powers to Vice President Abd Rabuh Mansur HADI. Following HADI's uncontested election victory in February 2012, SALIH formally transferred all presidential powers. In accordance with the GCC Initiative, Yemen launched a National Dialogue Conference (NDC) in March 2013 to discuss key constitutional, political, and social issues. HADI concluded the NDC in January 2014 and planned to begin implementing subsequent steps in the transition process, including constitutional drafting, a constitutional referendum, and national elections.</p> <p>The Houthis, perceiving their grievances were not addressed in the NDC, joined forces with SALIH and expanded their influence in northwestern Yemen, which culminated in a major offensive against military units and rival tribes and enabled their forces to overrun the capital, Sana'a, in September 2014. In January 2015, the Houthis surrounded the presidential palace, HADI's residence, and key government facilities, prompting HADI and the cabinet to submit their resignations. HADI fled to Aden in February 2015 and rescinded his resignation. He subsequently escaped to Oman and then moved to Saudi Arabia and asked the GCC to intervene militarily in Yemen to protect the legitimate government from the Houthis. In March 2015, Saudi Arabia assembled a coalition of Arab militaries and began airstrikes against the Houthis and Houthi-affiliated forces. Ground fighting between Houthi-aligned forces and anti-Houthi groups backed by the Saudi-led coalition continued through 2016. In 2016, the UN brokered a months-long cessation of hostilities that reduced airstrikes and fighting, and initiated peace talks in Kuwait. However, the talks ended without agreement. The Houthis and SALIH’s political party announced a Supreme Political Council in August 2016 and a National Salvation Government, including a prime minister and several dozen cabinet members, in November 2016, to govern in Sana'a and further challenge the legitimacy of HADI’s government. However, amid rising tensions between the Houthis and SALIH, sporadic clashes erupted in mid-2017, and escalated into open fighting that ended when Houthi forces killed SALIH in early December 2017. In 2018, anti-Houthi forces made the most battlefield progress in Yemen since early 2016, most notably in Al Hudaydah Governorate. In December 2018, the Houthis and Yemeni Government participated in the first UN-brokered peace talks since 2016, agreeing to a limited cease-fire in Al Hudaydah Governorate and the establishment of a UN mission to monitor the agreement. In April 2019, Yemen’s parliament convened in Say'un for the first time since the conflict broke out in 2014. In August 2019, violence erupted between HADI's government and the pro-secessionist Southern Transitional Council (STC) in southern Yemen. In November 2019, HADI's government and the STC signed a power-sharing agreement to end the fighting between them, and in December 2020, the signatories formed a new cabinet. In 2020 and 2021, fighting continued in Yemen as the Houthis gained territory and also conducted regular UAV and missile attacks against targets in Saudi Arabia. In April 2022, the UN brokered a temporary truce between the Houthis and Saudi-led coalition that resulted in an extended pause of large-scale fighting and cessation of cross-border attacks. Also in April 2022, HADI and his vice-president resigned and were replaced by an eight-person Presidential Leadership Council with the executive powers of the president and vice president. Although the truce formally expired in October 2022, the parties nonetheless refrained from large-scale, direct conflict through the end of 2023. Saudi Arabia, following the expiration of the truce, continued to negotiate with the Yemeni Government and Houthis on a roadmap agreement that would include a permanent ceasefire and a peace process under UN auspices.</p><br>
 
 ## Geography
 
@@ -306,7 +306,7 @@ _etymology_: the name is reputed to mean "well-fortified" in Sabaean, the South 
 Unification Day, 22 May (1990)<br>
 
 **Constitution**<br>
-_history_: adopted by referendum 16 May 1991 (following unification); note - after the National&nbsp; Dialogue ended in January 2015, a Constitutional Drafting Committee appointed by the president worked to prepare a new draft constitution that was expected to be put to a national referendum before being adopted; however, the start of the current conflict in early 2015 interrupted the process<br>
+_history_: adopted by referendum 16 May 1991 (following unification); note - after the National Dialogue ended in January 2015, a Constitutional Drafting Committee appointed by the president worked to prepare a new draft constitution that was expected to be put to a national referendum before being adopted; however, the start of the current conflict in early 2015 interrupted the process<br>
 _amendments_: amended several times, last in 2009<br>
 
 **Legal system**<br>
@@ -325,12 +325,12 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Chairperson, Presidential Council Rashad Muhammad al-ALIMI, Dr. (since 19 April 2022); Vice Chairpersons and Presidential Council members Sultan al-ARADA, Faraj Salmin al- BAHSANI, Brig. Gen. Abdullah Al-Alimi BA WAZIR, Uthman Hussain Faid al-MUJALI, TARIQ Muhammad Abdallah Salih, Brig. Gen., 'Abd-al-Rahman ABU ZARA'A al-Muharrami al-Yafai, Brig. Gen., Aydarus Qasim al-ZUBAYDI, Maj. Gen. (all since 19 April 2022); note - Abdrabbuh Mansur HADI served as acting president beginning in early 2012 but was forced to resign in late January 2015 by the Houthis - a rebel group aligned with Iran - in the midst of mass protests; subsequently, the Houthis and supporters of Yemen's first president, Ali Abdullah SALEH, seized the presidential palace and placed HADI under house arrest<br>
-_head of government_: Chairperson, Presidential Council Rashad Muhammad al-ALIMI, Dr. (since 19 April 2022); Vice Chairpersons and Presidential Council members Sultan al-ARADA, Faraj Salmin al- BAHSANI, Brig. Gen. Abdullah Al-Alimi BA WAZIR, Uthman Hussain Faid al-MUJALI, TARIQ Muhammad Abdallah Salih, Brig. Gen., 'Abd-al-Rahman ABU ZARA'A al-Muharrami al-Yafai, Brig. Gen., Aydarus Qasim al-ZUBAYDI, Maj. Gen. (all since 19 April 2022); on 5 February 2024, Foreign Minister Ahmad Awad Bin MUBAREK was appointed prime minister by the Presidential Council<br>
-_cabinet_: 25 members from northern and southern Yemen, representing all of Yemen's major political parties<br>
+_chief of state_: Chairperson, Presidential Leadership Council Rashad Muhammad al-ALIMI, Dr. (since 19 April 2022); Vice Chairpersons and Presidential Leadership Council members Sultan al-ARADA, Faraj Salmin al- BAHSANI, Brig. Gen. Abdullah Al-Alimi BA WAZIR, Uthman Hussain Faid al-MUJALI, TARIQ Muhammad Abdallah Salih, Brig. Gen., 'Abd-al-Rahman ABU ZARA'A al-Muharrami al-Yafai, Brig. Gen., Aydarus Qasim al-ZUBAYDI, Maj. Gen. (all since 19 April 2022); note - Abdrabbuh Mansur HADI served as acting president beginning in early 2012 but was forced to resign in late January 2015 by the Houthis - a rebel group aligned with Iran - in the midst of mass protests; subsequently, the Houthis and supporters of Yemen's first president, Ali Abdullah SALEH, seized the presidential palace and placed HADI under house arrest<br>
+_head of government_: Chairperson, Presidential Leadership Council Rashad Muhammad al-ALIMI, Dr. (since 19 April 2022); Vice Chairpersons and Presidential Leadership Council members Sultan al-ARADA, Faraj Salmin al- BAHSANI, Brig. Gen. Abdullah Al-Alimi BA WAZIR, Uthman Hussain Faid al-MUJALI, TARIQ Muhammad Abdallah Salih, Brig. Gen., 'Abd-al-Rahman ABU ZARA'A al-Muharrami al-Yafai, Brig. Gen., Aydarus Qasim al-ZUBAYDI, Maj. Gen. (all since 19 April 2022); on 5 February 2024, Foreign Minister Ahmad Awad Bin MUBAREK was appointed prime minister by the Presidential Leadership Council<br>
+_cabinet_: 24 members from northern and southern Yemen, with representatives from Yemen's major political parties<br>
 _elections/appointments_: formerly, the president was directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 21 February 2012 (next election NA); note - a special election was held on 21 February 2012 to remove Ali Abdallah SALIH under the terms of a Gulf Cooperation Council-mediated deal during the political crisis of 2011; vice president appointed by the president; prime minister appointed by the president<br>
 _election results_: Abd Rabuh Mansur HADI (GPC) elected consensus president<br>
-<strong>note:</strong> on 7 April 2022, President Abd Rabuh Mansur HADI announced the dismissal of Vice President ALI MUHSIN al-Ahmar and the formation of a Presidential Council, an eight-member body chaired by former minister Rashad AL-ALIMI; on 19 April 2022, the Council was sworn in before Parliament and began assuming the responsibilities of the president and vice president and carrying out the political, security, and military duties of the government<br>
+<strong>note:</strong> on 7 April 2022, President Abd Rabuh Mansur HADI announced his abdication, the dismissal of Vice President ALI MUHSIN al-Ahmar and the formation of a Presidential Leadership Council, an eight-member body chaired by former minister Rashad AL-ALIMI; on 19 April 2022, the Council was sworn in before Parliament and began assuming the responsibilities of the president and vice president and carrying out the political, security, and military duties of the government<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Majlis consists of:<br>Shura Council or Majlis Alshoora (111 seats; members appointed by the president; member tenure NA)<br>House of Representatives or Majlis al Nuwaab (301 seats; members directly elected in single-seat constituencies by simple majority vote to serve 6-year terms)<br>
@@ -343,7 +343,7 @@ _judge selection and term of office_: judges appointed by the Supreme Judicial C
 _subordinate courts_: appeal courts; district or first instance courts; commercial courts<br>
 
 **Political parties and leaders**<br>
-General People’s Congress or GPC (3 factions: pro-Hadi [Abdrabbi Mansur HADI], pro-Houthi [Sadeq Ameen Abu RAS], pro-Saleh [Ahmed SALEH]<br>Nasserist Unionist People's Organization [Abdulmalik al-MEKHLAFI]<br>National Arab Socialist Ba'ath Party [Qassem Salam SAID]<br>Southern Transitional Council or STC [Aidarus al-ZOUBAIDA] <br>Yemeni Reform Grouping or Islah [Muhammed Abdallah al-YADUMI]<br>Yemeni Socialist Party or YSP [Dr. Abd al-Rahman Umar al-SAQQAF]<br>
+General People’s Congress or GPC (3 factions: pro-Hadi [Abdrabbi Mansur HADI], pro-Houthi [Sadeq Ameen Abu RAS], pro-Salih [Ahmed SALIH]<br>Nasserist Unionist People's Organization [Abdulmalik al-MEKHLAFI]<br>National Arab Socialist Ba'ath Party [Qassem Salam SAID]<br>Southern Transitional Council or STC [Aydarus Qasim al-ZUBAYDI] <br>Yemeni Reform Grouping or Islah [Muhammed Abdallah al-YADUMI]<br>Yemeni Socialist Party or YSP [Dr. Abd al-Rahman Umar al-SAQQAF]<br>
 
 **International organization participation**<br>
 AFESD, AMF, CAEU, CD, EITI (temporarily suspended), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMHA, UNMIL, UNMIS, UNOCI, UNVIM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -391,9 +391,10 @@ $90.63 billion (2015 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--5.9% (2017 est.)<br>
--13.6% (2016 est.)<br>
--16.7% (2015 est.)<br>
+0.75% (2018 est.)<br>
+-5.07% (2017 est.)<br>
+-9.38% (2016 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $2,500 (2017 est.)<br>
@@ -402,11 +403,14 @@ $3,200 (2015 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$54.356 billion (2018 est.)<br>
+$21.606 billion (2018 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 24.7% (2017 est.)<br>
 -12.6% (2016 est.)<br>
+8.1% (2014 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 20.3% (2017 est.)<br>
@@ -428,15 +432,18 @@ mangoes/guavas, potatoes, sorghum, onions, milk, poultry, watermelons, grapes, o
 crude oil production and petroleum refining; small-scale production of cotton textiles, leather goods; food processing; handicrafts; aluminum products; cement; commercial ship repair; natural gas production<br>
 
 **Industrial production growth rate**<br>
--5.23% (2018 est.)<br>
+-1.12% (2018 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-7.299 million (2021 est.)<br>
+6.663 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-13.57% (2021 est.)<br>
-13.39% (2020 est.)<br>
-13.06% (2019 est.)<br>
+17.61% (2022 est.)<br>
+18.65% (2021 est.)<br>
+18.34% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 25.5% (2021 est.)<br>
@@ -445,16 +452,22 @@ _female_: 36.3%<br>
 
 **Population below poverty line**<br>
 48.6% (2014 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 36.7 (2014 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.6%<br>
-_highest 10%_: 30.3% (2008 est.)<br>
+_lowest 10%_: 3%<br>
+_highest 10%_: 29.4% (2014 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-12.04% of GDP (2016 est.)<br>
+17.21% of GDP (2022 est.)<br>
+21.03% of GDP (2021 est.)<br>
+20.19% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $2.207 billion (2019 est.)<br>
@@ -475,10 +488,14 @@ calendar year<br>
 
 **Current account balance**<br>
 -$1.868 billion (2016 est.)<br>
+-$3,026,025,000 (2015 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $384.5 million (2017 est.)<br>
-$940 million (2016 est.)<br>
+$938.469 million (2016 est.)<br>
+$1.867 billion (2015 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 53%, Saudi Arabia 10%, United Arab Emirates 7%, Australia 5% (2019)<br>
@@ -488,7 +505,9 @@ crude petroleum, gold, fish, industrial chemical liquids, scrap iron (2019)<br>
 
 **Imports**<br>
 $4.079 billion (2017 est.)<br>
-$3.117 billion (2016 est.)<br>
+$8.256 billion (2016 est.)<br>
+$7.697 billion (2015 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 25%, Turkey 10%, United Arab Emirates 9%, Saudi Arabia 8%, India 7% (2019)<br>
@@ -497,9 +516,10 @@ China 25%, Turkey 10%, United Arab Emirates 9%, Saudi Arabia 8%, India 7% (2019)
 wheat, refined petroleum, iron, rice, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$946.047 million (31 December 2020 est.)<br>
-$1.414 billion (31 December 2019 est.)<br>
-$2.334 billion (31 December 2018 est.)<br>
+$1.251 billion (2022 est.)<br>
+$1.688 billion (2021 est.)<br>
+$969.613 million (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $6.805 billion (2018 est.)<br>
@@ -507,11 +527,11 @@ $7.181 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Yemeni rials (YER) per US dollar -<br>
+1,114.293 (2022 est.)<br>
 1,035.467 (2021 est.)<br>
 743.006 (2020 est.)<br>
 486.731 (2019 est.)<br>
 214.89 (2018 est.)<br>
-282.195 (2017 est.)<br>
 
 ## Energy
 

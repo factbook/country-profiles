@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The first Sinhalese arrived in Sri Lanka late in the 6th century B.C., probably from northern India. Buddhism was introduced circa 250 B.C., and the first kingdoms developed at the cities of Anuradhapura (from circa 200 B.C. to circa A.D. 1000) and Polonnaruwa (from about 1070 to 1200). In the 14th century, a south Indian dynasty established a Tamil kingdom in northern Sri Lanka. The Portuguese controlled the coastal areas of the island in the 16th century followed by the Dutch in the 17th century. The island was ceded to the British in 1796, became a crown colony in 1802, and was formally united under British rule by 1815. As Ceylon, it became independent in 1948; its name was changed to Sri Lanka in 1972. Prevailing tensions between the Sinhalese majority and Tamil separatists erupted into war in July 1983. Fighting between the government and Liberation Tigers of Tamil Eelam (LTTE) continued for over a quarter century. Although Norway brokered peace negotiations that led to a cease-fire in 2002, the fighting slowly resumed and was again in full force by 2006. The government defeated the LTTE in May 2009.</p> <p>During the post-conflict years under then-President Mahinda RAJAPAKSA, the government initiated infrastructure development projects, many of which were financed by loans from China. His regime faced significant allegations of human rights violations and a shrinking democratic space for civil society.  In 2015, a new coalition government headed by then-President Maithripala SIRISENA of the Sri Lanka Freedom Party and then-Prime Minister Ranil WICKREMESINGHE of the United National Party came to power with pledges to advance economic, governance, anti-corruption, reconciliation, justice, and accountability reforms. However, implementation of these reforms was uneven. In November 2019, Gotabaya RAJAPAKSA won the presidential election and appointed his brother, Mahinda, prime minister. Following Gotabaya RAJAPAKSA’s election, civil society raised concerns about his administration’s commitment to pursuing justice, human rights, and accountability reforms, as well as the risks to foreign creditors that Sri Lanka faces given its ongoing economic crisis. A combination of factors including the impact of the worldwide COVID pandemic; severe shortages of food, medicine, and fuel; and power outages triggered increasingly violent protests in Columbo beginning in March 2022. In May 2022, longtime parliamentarian and former five-time prime minister, Ranil WICKREMESINGHE replaced Mahinda RAJAPASKA as prime-minister and then in July 2022, Gotabaya RAJAPAKSA fled from office in response to protests, and parliament subsequently elected WICKREMESINGHE president. Later that month, WICKREMESINGHE appointed Dinesh GUNAWARDENA to replace him as prime minister.</p><br>
+<p>The first Sinhalese arrived in Sri Lanka late in the 6th century B.C., probably from northern India. Buddhism was introduced circa 250 B.C., and the first kingdoms developed at the cities of Anuradhapura (from circa 200 B.C. to circa A.D. 1000) and Polonnaruwa (from about 1070 to 1200). In the 14th century, a south Indian dynasty established a Tamil kingdom in northern Sri Lanka. The Portuguese controlled the coastal areas of the island in the 16th century followed by the Dutch in the 17th century. The island was ceded to the British in 1796, became a crown colony in 1802, and was formally united under British rule by 1815. As Ceylon, it became independent in 1948; its name was changed to Sri Lanka in 1972. Prevailing tensions between the Sinhalese majority and Tamil separatists erupted into war in July 1983. Fighting between the government and Liberation Tigers of Tamil Eelam (LTTE) continued for over a quarter century. Although Norway brokered peace negotiations that led to a cease-fire in 2002, the fighting slowly resumed and was again in full force by 2006. The government defeated the LTTE in May 2009.</p> <p>During the post-conflict years under then-President Mahinda RAJAPAKSA, the government initiated infrastructure development projects, many of which were financed by loans from China. His regime faced significant allegations of human rights violations and a shrinking democratic space for civil society.  In 2015, a new coalition government headed by then-President Maithripala SIRISENA of the Sri Lanka Freedom Party and then-Prime Minister Ranil WICKREMESINGHE of the United National Party came to power with pledges to advance economic, governance, anti-corruption, reconciliation, justice, and accountability reforms. However, implementation of these reforms was uneven. In November 2019, Gotabaya RAJAPAKSA won the presidential election and appointed his brother, Mahinda, prime minister. Following Gotabaya RAJAPAKSA’s election, civil society raised concerns about his administration’s commitment to pursuing justice, human rights, and accountability reforms, as well as the risks to foreign creditors that Sri Lanka faces given its ongoing economic crisis. A combination of factors including the impact of the worldwide COVID-19 pandemic; severe shortages of food, medicine, and fuel; and power outages triggered increasingly violent protests in Columbo beginning in March 2022. In May 2022, longtime parliamentarian and former five-time prime minister, Ranil WICKREMESINGHE replaced Mahinda RAJAPASKA as prime-minister and then in July 2022, Gotabaya RAJAPAKSA fled from office in response to protests, and parliament subsequently elected WICKREMESINGHE president. Later that month, WICKREMESINGHE appointed Dinesh GUNAWARDENA to replace him as prime minister.</p><br>
 
 ## Geography
 
@@ -335,12 +335,12 @@ _chief of state_: President Ranil WICKREMESINGHE (since 20 July 2022); the presi
 _head of government_: President Ranil WICKREMESINGHE (since 20 July 2022)<br>
 _cabinet_: Cabinet appointed by the president in consultation with the prime minister<br>
 _elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 16 November 2019 (next to be held on 30 September 2024); prime minister appointed by the president from among members of Parliament for a 5-year term)<br>
-_election results_: Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; Parliament vote - WICKREMESINGHE (UNP) 134, Dullas ALAHAPPERUNA (SLPP) 82<br>
-<strong>Note</strong>: amid public protests which began in March 2022, President Gotabaya RAJAPAKSE fled the country on 13 July and Ranil WICKREMESINGHE became acting president; RAJAPAKSE announced his resignation on the 14th, which was accepted by the speaker of Parliament the following day<br>
+_election results_: Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; Parliament vote - WICKREMESINGHE (UNP) 134, Dullas ALAHAPPERUMA (SLPP) 82<br>
+<strong>Note</strong>: amid public protests which began in March 2022, President Gotabaya RAJAPAKSA fled the country on 13 July and Ranil WICKREMESINGHE became acting president; RAJAPAKSA announced his resignation on the 14th, which was accepted by the speaker of Parliament the following day<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (225 seats; 196 members directly elected in multi-seat district constituencies by proportional representation vote using a preferential method in which voters select 3 candidates in order of preference; remaining 29 seats, referred to as the "national list" are allocated by each party secretary according to the island wide proportional vote the party obtains; members serve 5-year terms)<br>
-_elections_: last held on 5 August 2020 (next&nbsp; to be held in August 2025)<br>
+_elections_: last held on 5 August 2020 (next to be held in August 2025)<br>
 _election results_: percent of vote by coalition/party - SLFPA 59.1%, SJB 23.9%, JVP 3.8%, TNA 2.8%, UNP 2.2%, TNPF 0.6%, EPDP 0.5%, other 7.1%; seats by coalition/party - SLFPA 145, SJB 54, TNA 10, JVP 3, other 13; composition - men 213, women 12, percent of women 5.3%<br>
 
 **Judicial branch**<br>
@@ -391,29 +391,32 @@ _selected World Heritage Site locales_: Ancient City of Polonnaruwa (c); Ancient
 economic contraction in 2022-23 marked by increased poverty and significant inflation; IMF two-year debt relief program following 2022 sovereign default; structural challenges from non-diversified economy and rigid labor laws; heavy dependence on tourism receipts and remittances<br>
 
 **Real GDP (purchasing power parity)**<br>
-$270.6 billion (2022 est.)<br>
-$296.595 billion (2021 est.)<br>
-$287.046 billion (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$270.611 billion (2022 est.)<br>
+$293.581 billion (2021 est.)<br>
+$283.62 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.33% (2021 est.)<br>
--3.47% (2020 est.)<br>
--0.22% (2019 est.)<br>
+-7.82% (2022 est.)<br>
+3.51% (2021 est.)<br>
+-4.62% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $12,200 (2022 est.)<br>
-$13,400 (2021 est.)<br>
-$13,100 (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$13,300 (2021 est.)<br>
+$12,900 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$84.016 billion (2019 est.)<br>
+$74.404 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+49.72% (2022 est.)<br>
 7.01% (2021 est.)<br>
 6.15% (2020 est.)<br>
-3.53% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2020)<br>
@@ -441,15 +444,18 @@ rice, coconuts, eggs, plantains, tea leaves, sugar cane, milk, cassava, maize, p
 processing of rubber, tea, coconuts, tobacco and other agricultural commodities; tourism; clothing and textiles; mining<br>
 
 **Industrial production growth rate**<br>
-5.62% (2021 est.)<br>
+-15.95% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.268 million (2021 est.)<br>
+8.775 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.39% (2021 est.)<br>
-5.88% (2020 est.)<br>
-4.35% (2019 est.)<br>
+6.18% (2022 est.)<br>
+5.31% (2021 est.)<br>
+5.36% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 26.1% (2021 est.)<br>
@@ -457,23 +463,27 @@ _male_: 21.1%<br>
 _female_: 35.6%<br>
 
 **Population below poverty line**<br>
-4.1% (2016 est.)<br>
+14.3% (2019 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-39.3 (2016 est.)<br>
+37.7 (2019 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 28% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 2% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3%<br>
-_highest 10%_: 32.2% (2012 est.)<br>
+_lowest 10%_: 3.1%<br>
+_highest 10%_: 30.8% (2019 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-8.37% of GDP (2020 est.)<br>
-7.58% of GDP (2019 est.)<br>
-7.45% of GDP (2018 est.)<br>
+5.13% of GDP (2022 est.)<br>
+6.24% of GDP (2021 est.)<br>
+8.46% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $10.623 billion (2019 est.)<br>
@@ -485,23 +495,27 @@ _expenditures_: $17.496 billion (2019 est.)<br>
 **Public debt**<br>
 79.1% of GDP (2017 est.)<br>
 79.6% of GDP (2016 est.)<br>
-<strong>note:</strong> covers central government debt and excludes debt instruments directly owned by government entities other than the treasury (e.g. commercial bank borrowings of a government corporation); the data includes treasury debt held by foreign entities as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement; sub-national entities are usually not permitted to sell debt instruments<br>
+73.51% of GDP (2015 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-7.68% (of GDP) (2020 est.)<br>
+7.38% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.083 billion (2020 est.)<br>
--$1.843 billion (2019 est.)<br>
--$2.799 billion (2018 est.)<br>
+-$1,452,735,000 (2022 est.)<br>
+-$3,284,272,000 (2021 est.)<br>
+-$1,187,120,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $16.169 billion (2022 est.) note: data are in current year dollars<br>
 $14.974 billion (2021 est.) note: data are in current year dollars<br>
 $13.083 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 24%, India 8%, United Kingdom 7%, Germany 6%, Italy 4% (2022)<br>
@@ -513,6 +527,7 @@ textiles (knit and non-knit garments); tea; rubber tires; precious stones; cinna
 $19.244 billion (2022 est.) note: data are in current year dollars<br>
 $21.526 billion (2021 est.) note: data are in current year dollars<br>
 $18.271 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 India 34%, China 19%, United Arab Emirates 6%, Malaysia 4%, Singapore 4% (2022)<br>
@@ -521,9 +536,10 @@ India 34%, China 19%, United Arab Emirates 6%, Malaysia 4%, Singapore 4% (2022)<
 refined and crude petroleum; knitted/woven fabrics; special purpose ships; packaged medicine; coal (2022)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.137 billion (31 December 2021 est.)<br>
-$5.664 billion (31 December 2020 est.)<br>
-$7.648 billion (31 December 2019 est.)<br>
+$3.137 billion (2021 est.)<br>
+$5.664 billion (2020 est.)<br>
+$7.648 billion (2019 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $55.332 billion (2019 est.)<br>

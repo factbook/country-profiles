@@ -418,30 +418,32 @@ _selected World Heritage Site locales_: Cuzco (c); Machu Picchu (m); Chavin (c);
 upper middle-income South American economy; hit hard by political instability and COVID-19 but rebounding quickly; second-largest cocaine producer; current account balance improving; persistent income inequality; diversified exporter<br>
 
 **Real GDP (purchasing power parity)**<br>
-$421.937 billion (2021 est.)<br>
-$372.245 billion (2020 est.)<br>
-$418.03 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$433.926 billion (2022 est.)<br>
+$422.584 billion (2021 est.)<br>
+$372.592 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-13.35% (2021 est.)<br>
--10.95% (2020 est.)<br>
-2.24% (2019 est.)<br>
+2.68% (2022 est.)<br>
+13.42% (2021 est.)<br>
+-10.87% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$12,700 (2022 est.)<br>
 $12,500 (2021 est.)<br>
 $11,200 (2020 est.)<br>
-$12,700 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$230.707 billion (2019 est.)<br>
+$242.632 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.33% (2022 est.)<br>
 4.27% (2021 est.)<br>
 2% (2020 est.)<br>
-2.25% (2019 est.)<br>
-<strong>note:</strong> data are for metropolitan Lima, annual average<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB+ (2013)<br>
@@ -469,17 +471,18 @@ sugar cane, potatoes, rice, plantains, milk, poultry, maize, cassava, oil palm f
 mining and refining of minerals; steel, metal fabrication; petroleum extraction and refining, natural gas and natural gas liquefaction; fishing and fish processing, cement, glass, textiles, clothing, food processing, beer, soft drinks, rubber, machinery, electrical machinery, chemicals, furniture<br>
 
 **Industrial production growth rate**<br>
-16.44% (2021 est.)<br>
+1.33% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-18.352 million (2021 est.)<br>
-<strong>note:</strong> individuals older than 14 years of age<br>
+18.268 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.83% (2021 est.)<br>
+3.85% (2022 est.)<br>
+5.1% (2021 est.)<br>
 7.18% (2020 est.)<br>
-3.38% (2019 est.)<br>
-<strong>note:</strong> data are for metropolitan Lima; widespread underemployment<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.2% (2021 est.)<br>
@@ -487,23 +490,27 @@ _male_: 9.2%<br>
 _female_: 13.2%<br>
 
 **Population below poverty line**<br>
-20.2% (2019 est.)<br>
+27.5% (2022 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-43.8 (2020 est.)<br>
+40.2 (2021 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 26.3% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 2.4% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.4%<br>
-_highest 10%_: 36.1% (2010 est.)<br>
+_lowest 10%_: 2.1%<br>
+_highest 10%_: 30.6% (2021 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+1.53% of GDP (2022 est.)<br>
 1.61% of GDP (2021 est.)<br>
-1.46% of GDP (2020 est.)<br>
-1.46% of GDP (2019 est.)<br>
+1.44% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $45.983 billion (2019 est.)<br>
@@ -513,26 +520,29 @@ _expenditures_: $49.134 billion (2019 est.)<br>
 -3.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+35.66% of GDP (2021 est.)<br>
 34.67% of GDP (2020 est.)<br>
-26.54% of GDP (2019 est.)<br>
-25.7% of GDP (2018 est.)<br>
-<strong>note:</strong> data cover general government debt, and includes debt instruments issued by government entities other than the treasury; the data exclude treasury debt held by foreign entities; the data include debt issued by subnational entities<br>
+26.53% of GDP (2019 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-13.2% (of GDP) (2020 est.)<br>
+16.11% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$5.273 billion (2021 est.)<br>
-$2.398 billion (2020 est.)<br>
--$1.68 billion (2019 est.)<br>
+-$9,908,198,000 (2022 est.)<br>
+-$5,063,836,000 (2021 est.)<br>
+$2.235 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$66.098 billion (2021 est.) note: data are in current year dollars<br>
-$45.624 billion (2020 est.) note: data are in current year dollars<br>
-$54.676 billion (2019 est.)<br>
+$71.197 billion (2022 est.)<br>
+$65.914 billion (2021 est.) note: data are in current year dollars<br>
+$45.544 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 29%, United States 12%, Canada 5%, South Korea 5%, Switzerland 5% (2019)<br>
@@ -541,9 +551,10 @@ China 29%, United States 12%, Canada 5%, South Korea 5%, Switzerland 5% (2019)<b
 copper, gold, refined petroleum, zinc, fishmeal, tropical fruits, lead, iron, molybdenum (2019)<br>
 
 **Imports**<br>
-$58.611 billion (2021 est.) note: data are in current year dollars<br>
-$42.093 billion (2020 est.) note: data are in current year dollars<br>
-$51.778 billion (2019 est.)<br>
+$69.506 billion (2022 est.)<br>
+$58.708 billion (2021 est.) note: data are in current year dollars<br>
+$42.303 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 24%, United States 22%, Brazil 6% (2019)<br>
@@ -552,9 +563,10 @@ China 24%, United States 22%, Brazil 6% (2019)<br>
 refined petroleum, crude petroleum, cars, broadcasting equipment, delivery trucks (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$74.779 billion (31 December 2020 est.)<br>
-$67.711 billion (31 December 2019 est.)<br>
-$60.333 billion (31 December 2018 est.)<br>
+$74.779 billion (2020 est.)<br>
+$67.711 billion (2019 est.)<br>
+$60.333 billion (2018 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $81.333 billion (2019 est.)<br>
@@ -562,11 +574,11 @@ $75.467 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: nuevo sol (PEN) per US dollar -<br>
+3.835 (2022 est.)<br>
 3.881 (2021 est.)<br>
 3.495 (2020 est.)<br>
 3.337 (2019 est.)<br>
 3.287 (2018 est.)<br>
-3.26 (2017 est.)<br>
 
 ## Energy
 

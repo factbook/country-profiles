@@ -394,29 +394,32 @@ _selected World Heritage Site locales_: Minaret of Jam; Buddhas of Bamyan<br>
 extremely low-income South Asian economy; import drops, currency depreciation, disappearing central bank reserves, and increasing inflation after Taliban takeover; increasing Chinese trade; hit hard by COVID; ongoing sanctions<br>
 
 **Real GDP (purchasing power parity)**<br>
-$60.803 billion (2021 est.)<br>
+$60.802 billion (2021 est.)<br>
 $76.711 billion (2020 est.)<br>
 $78.558 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -20.74% (2021 est.)<br>
 -2.35% (2020 est.)<br>
 3.91% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $1,500 (2021 est.)<br>
 $2,000 (2020 est.)<br>
 $2,100 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$20.24 billion (2017 est.)<br>
+$14.266 billion (2021 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 2.3% (2019 est.)<br>
 0.63% (2018 est.)<br>
 4.98% (2017 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 23% (2016 est.)<br>
@@ -439,15 +442,18 @@ wheat, milk, grapes, vegetables, potatoes, watermelons, melons, rice, onions, ap
 small-scale production of bricks, textiles, soap, furniture, shoes, fertilizer, apparel, food products, non-alcoholic beverages, mineral water, cement; handwoven carpets; natural gas, coal, copper<br>
 
 **Industrial production growth rate**<br>
--14.19% (2021 est.)<br>
+-12.81% (2021 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-9.39 million (2021 est.)<br>
+8.804 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-13.28% (2021 est.)<br>
+14.1% (2022 est.)<br>
+12.08% (2021 est.)<br>
 11.71% (2020 est.)<br>
-11.22% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 20.2% (2021 est.)<br>
@@ -456,6 +462,7 @@ _female_: 26.4%<br>
 
 **Population below poverty line**<br>
 54.5% (2016 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 29.4 (2008)<br>
@@ -465,9 +472,10 @@ _lowest 10%_: 3.8%<br>
 _highest 10%_: 24% (2008)<br>
 
 **Remittances**<br>
-3.92% of GDP (2020 est.)<br>
-4.38% of GDP (2019 est.)<br>
-4.36% of GDP (2018 est.)<br>
+2.1% of GDP (2021 est.)<br>
+3.95% of GDP (2020 est.)<br>
+4.41% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $5.093 billion (2019 est.)<br>
@@ -482,6 +490,7 @@ _expenditures_: $5.293 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 9.9% (of GDP) (2017 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 21 March - 20 March<br>
@@ -490,12 +499,13 @@ _expenditures_: $5.293 billion (2019 est.)<br>
 -$3.137 billion (2020 est.)<br>
 -$3.792 billion (2019 est.)<br>
 -$3.897 billion (2018 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $1.476 billion (2020 est.)<br>
 $1.516 billion (2019 est.)<br>
 $1.609 billion (2018 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United Arab Emirates 45%, Pakistan 24%, India 22%, China 1% (2019)<br>
@@ -508,6 +518,7 @@ gold, figs, grapes, cotton, fruits and nuts, coal (2021)<br>
 $6.983 billion (2020 est.) note: data are in current year dollars<br>
 $7.371 billion (2019 est.) note: data are in current year dollars<br>
 $7.988 billion (2018 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United Arab Emirates 23%, Pakistan 17%, India 13%, Uzbekistan 7%, China 9% (2021)<br>
@@ -516,9 +527,10 @@ United Arab Emirates 23%, Pakistan 17%, India 13%, Uzbekistan 7%, China 9% (2021
 wheat flours, broadcasting equipment, refined petroleum, rolled tobacco, aircraft parts, synthetic fabrics (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$9.749 billion (31 December 2020 est.)<br>
-$8.498 billion (31 December 2019 est.)<br>
-$8.207 billion (31 December 2018 est.)<br>
+$9.749 billion (2020 est.)<br>
+$8.498 billion (2019 est.)<br>
+$8.207 billion (2018 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $284 million (FY10/11)<br>
@@ -644,8 +656,8 @@ YA<br>
 466 km gas (2013)<br>
 
 **Roadways**<br>
-_total_: 34,903 km (2021)<br>
-_paved_: 17,903 km (2021)<br>
+_total_: 34,903 km<br>
+_paved_: 17,903 km<br>
 _unpaved_: 17,000 km (2021)<br>
 
 **Waterways**<br>

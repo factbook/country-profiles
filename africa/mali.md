@@ -418,29 +418,32 @@ _selected World Heritage Site locales_: Old Towns of Djenn&eacute; (c); Timbuktu
 low-income Saharan economy; recession due to COVID-19 and political instability; extreme poverty; environmentally fragile; high public debt; agricultural and gold exporter; terrorism and warfare are common<br>
 
 **Real GDP (purchasing power parity)**<br>
+$48.184 billion (2022 est.)<br>
 $46.452 billion (2021 est.)<br>
 $45.076 billion (2020 est.)<br>
-$45.64 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+3.73% (2022 est.)<br>
 3.05% (2021 est.)<br>
 -1.24% (2020 est.)<br>
-4.76% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,100 (2022 est.)<br>
 $2,100 (2021 est.)<br>
 $2,100 (2020 est.)<br>
-$2,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$17.508 billion (2019 est.)<br>
+$18.827 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+9.62% (2022 est.)<br>
 3.93% (2021 est.)<br>
 0.44% (2020 est.)<br>
--1.66% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Caa1 (2020)<br>
@@ -466,15 +469,18 @@ maize, rice, millet, sorghum, mangoes/guavas, cotton, watermelons, green onions/
 food processing; construction; phosphate and gold mining<br>
 
 **Industrial production growth rate**<br>
-1.01% (2021 est.)<br>
+2.36% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-7.9 million (2021 est.)<br>
+7.958 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.72% (2021 est.)<br>
-7.7% (2020 est.)<br>
-7.44% (2019 est.)<br>
+3.14% (2022 est.)<br>
+2.44% (2021 est.)<br>
+3.53% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 17.3% (2021 est.)<br>
@@ -482,19 +488,23 @@ _male_: 15.4%<br>
 _female_: 19.8%<br>
 
 **Population below poverty line**<br>
-42.1% (2019 est.)<br>
+44.6% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-36.1 (2018 est.)<br>
+36 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.5%<br>
-_highest 10%_: 25.8% (2010 est.)<br>
+_lowest 10%_: 3.2%<br>
+_highest 10%_: 28.1% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+6.01% of GDP (2022 est.)<br>
+5.86% of GDP (2021 est.)<br>
 5.71% of GDP (2020 est.)<br>
-5.62% of GDP (2019 est.)<br>
-5.99% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $2.657 billion (2018 est.)<br>
@@ -509,19 +519,22 @@ _expenditures_: $3.467 billion (2018 est.)<br>
 
 **Taxes and other revenues**<br>
 14.16% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
+-$1,468,521,000 (2021 est.)<br>
 -$379.683 million (2020 est.)<br>
--$1.289 billion (2019 est.)<br>
--$836.255 million (2018 est.)<br>
+-$1,288,755,000 (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$5.381 billion (2021 est.)<br>
 $5.196 billion (2020 est.) note: data are in current year dollars<br>
 $4.442 billion (2019 est.)<br>
-$4.186 billion (2018 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United Arab Emirates 66%, Switzerland 26% (2019)<br>
@@ -530,9 +543,10 @@ United Arab Emirates 66%, Switzerland 26% (2019)<br>
 gold, cotton, sesame seeds, lumber, refined petroleum (2021)<br>
 
 **Imports**<br>
+$7.596 billion (2021 est.)<br>
 $6.339 billion (2020 est.) note: data are in current year dollars<br>
 $6.559 billion (2019 est.)<br>
-$6.081 billion (2018 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Senegal 23%, Cote d'Ivoire 15%, China 11%, France 9% (2019)<br>
@@ -550,11 +564,11 @@ $3.981 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
 555.446 (2018 est.)<br>
-580.657 (2017 est.)<br>
 
 ## Energy
 
@@ -702,7 +716,7 @@ the FAMa's inventory consists primarily of Soviet-era equipment, although in rec
 <strong>note: </strong>until announcing its withdrawal in May of 2022, Mali was part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mauritania, and Niger; Mali had committed 1,100 troops and 200 gendarmes to the force<br>
 
 **Military - note**<br>
-the FAMa is responsible for defense of the country’s sovereignty and territory, but also has some domestic security duties, including the maintenance of public order and support to law enforcement if required, as well as counterterrorism and counterinsurgency operations; it also participates in socio-economic development projects; the military has traditionally played a large role in Mali’s politics; prior to the coup in August 2020 and military takeover in May 2021, it had intervened in the political arena at least five times since the country gained independence in 1960; two attempts failed (1976 and 1978), while three succeeded in overturning civilian rule (1968, 1991, and 2012)<br><br>the FAMa and other security forces are actively engaged in operations against several insurgent/terrorist groups affiliated with al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS), as well as other rebel groups, communal militias, and criminal bands spread across the central, northern, and southern regions of the country; the government is reportedly in control of only an estimated 10-20% of the country's central and northern territories, and attacks are increasing in the more heavily populated south, including around the capital Bamako; the Macina Liberation Front (FLM), part of the Jama’at Nusrat al Islam wal Muslimin (JNIM) coalition of al-Qa'ida-linked terror groups, has played a large role in a surge in violence in Mali’s central and southern regions; in the north, ISIS in the Greater Sahara (ISIS-GS) has regained strength in recent years<br><br>the FAMa and the remainder of the security forces collapsed in 2012 during the fighting against Tuareg rebels and Islamic militants and have since been rebuilt with considerable external assistance, including the EU, France, and the UN; for example, the EU Training Mission in Mali (EUTM) from 2013-2022 trained as many as 15,000 Malian soldiers and eight combined arms battalions/battlegroups (Groupement Tactique InterArmes, GTIA), each of which was structured to be self-sufficient with its own motorized/mechanized infantry, light armor, commandos, artillery, engineers, and other support forces; EUTM suspended its training program in 2022, citing issues with the ruling military government, including human rights abuses and the presence of Russian private military contractors; over the same period, the French military provided considerable assistance to the Malian security forces and conducted counterterrorism and counterinsurgency operations in Mali; the French suspended operations in 2021 and in August 2022 withdrew the last of its forces while also citing issues with the military government; the UN Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) has operated in the country since 2013 with the mission of providing security, rebuilding Malian security forces, protecting civilians, supporting national political dialogue, and assisting in the reestablishment of Malian government authority; however, in June 2023, the UN Security Council voted to end the MINUSMA mission after the ruling junta demanded the withdrawal of foreign forces and aligned itself closer to Russia; the MINUSMA mission officially ended on 11 December 2023, although a “liquidation phase” involving activities such as handing over remaining equipment to local authorities will stretch into 2024<br> <br>in addition to the EU-trained GTIAs, the Army has commandos and special forces, as well as recently created motorcycle-mounted reconnaissance units; the Air Force has small numbers of combat aircraft and helicopters, as well as a few armed UAVs; the Gendarmerie and National Guard field company-sized paramilitary units, including camel-mounted forces in the National Guard; they also have special anti-terrorism and intervention forces<br><br>the military government has increased security ties with Russia; Russia has provided military equipment, and in December 2021, Mali contracted with a Russian private military company to provide training for local armed forces and security to senior Malian officials; the contractors have also participated in security operations and been accused of war crimes; as of 2023, there were an estimated 1,000 Russian military contractors in Mali (2023)<br>
+the FAMa is responsible for defense of the country’s sovereignty and territory, but also has some domestic security duties, including the maintenance of public order and support to law enforcement if required, as well as counterterrorism and counterinsurgency operations; it also participates in socio-economic development projects; the military has traditionally played a large role in Mali’s politics; prior to the coup in August 2020 and military takeover in May 2021, it had intervened in the political arena at least five times since the country gained independence in 1960; two attempts failed (1976 and 1978), while three succeeded in overturning civilian rule (1968, 1991, and 2012)<br><br>the FAMa and other security forces are actively engaged in operations against several insurgent/terrorist groups affiliated with al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS), as well as other rebel groups, communal militias, and criminal bands spread across the central, northern, and southern regions of the country; the government is reportedly in control of only an estimated 10-20% of the country's central and northern territories, and attacks are increasing in the more heavily populated south, including around the capital Bamako; the Macina Liberation Front (FLM), part of the Jama’at Nusrat al Islam wal Muslimin (JNIM) coalition of al-Qa'ida-linked terror groups, has played a large role in a surge in violence in Mali’s central and southern regions; in the north, ISIS in the Greater Sahara (ISIS-GS) has regained strength in recent years<br><br>the FAMa and the remainder of the security forces collapsed in 2012 during the fighting against Tuareg rebels and Islamic militants and have since been rebuilt with considerable external assistance, including the EU, France, and the UN; for example, the EU Training Mission in Mali (EUTM) from 2013-2022 trained as many as 15,000 Malian soldiers and eight combined arms battalions/battlegroups (Groupement Tactique InterArmes, GTIA), each of which was structured to be self-sufficient with its own motorized/mechanized infantry, light armor, commandos, artillery, engineers, and other support forces; EUTM suspended its training program in 2022, citing issues with the ruling military government, including human rights abuses and the presence of Russian private military contractors; over the same period, the French military provided considerable assistance to the Malian security forces and conducted counterterrorism and counterinsurgency operations in Mali; the French suspended operations in 2021 and in August 2022 withdrew the last of its forces while also citing issues with the military government; the UN Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) had operated in the country since 2013 with the mission of providing security, rebuilding Malian security forces, protecting civilians, supporting national political dialogue, and assisting in the reestablishment of Malian government authority; however, in June 2023, the UN Security Council voted to end the MINUSMA mission after the ruling junta demanded the withdrawal of foreign forces and aligned itself closer to Russia; the MINUSMA mission officially ended on 11 December 2023, although a liquidation phase involving activities such as handing over remaining equipment to local authorities will stretch into 2024<br> <br>in addition to the EU-trained GTIAs, the Army has commandos and special forces, as well as recently created motorcycle-mounted reconnaissance units; the Air Force has small numbers of combat aircraft and helicopters, as well as a few armed UAVs; the Gendarmerie and National Guard field company-sized paramilitary units, including camel-mounted forces in the National Guard; they also have special anti-terrorism and intervention forces<br><br>the military government has increased security ties with Russia; Russia has provided military equipment, and in December 2021, Mali contracted with a Russian private military company to provide training for local armed forces and security to senior Malian officials; the contractors have also participated in security operations and been accused of war crimes; as of 2023, there were an estimated 1,000 Russian military contractors in Mali (2023)<br>
 
 ## Terrorism
 

@@ -320,7 +320,7 @@ _chief of state_: President George VELLA (since 4 April 2019)<br>
 _head of government_: Prime Minister Robert ABELA (13 January 2020)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
 _elections/appointments_: president indirectly elected by the House of Representatives for a single 5-year term; election last held on 2 April 2019 (next to be held by April 2024); following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the president for a 5-year term; deputy prime minister appointed by the president on the advice of the prime minister<br>
-_election results_: <em><br>2020: </em>Robert ABELA (PL) appointed prime minister<em><br><br>2019:</em> George VELLA (PL) elected president; House of Representatives vote - unanimous<br><br><em>2014:</em> Maria Louise Coleiro PRECO elected president; House of Representatives vote - unanimous<br>
+_election results_: <em>2024:  </em>Myriam SPITERI DEBONO elected president; House of representatives vote - unanimous; SPITERI DEBONO takes office on 4 April 2024<br><em><br>2020: </em>Robert ABELA (PL) appointed prime minister<em><br><br>2019:</em> George VELLA (PL) elected president; House of Representatives vote - unanimous<br>
 
 **Legislative branch**<br>
 _description_: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (65 seats statutory, 79 for 2022-2027 term; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
@@ -373,29 +373,32 @@ _selected World Heritage Site locales_: City of Valletta; Ħal Saflieni Hypogeum
 high-income, EU-member European economy; diversified portfolio; euro user; dependent on food and energy imports; strong tourism, trade, and manufacturing sectors; high North African immigration; large welfare system; educated workforce<br>
 
 **Real GDP (purchasing power parity)**<br>
-$23.157 billion (2021 est.)<br>
-$20.995 billion (2020 est.)<br>
-$22.902 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$25.834 billion (2022 est.)<br>
+$24.163 billion (2021 est.)<br>
+$21.517 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-10.3% (2021 est.)<br>
--8.32% (2020 est.)<br>
-5.92% (2019 est.)<br>
+6.92% (2022 est.)<br>
+12.3% (2021 est.)<br>
+-8.08% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$44,700 (2021 est.)<br>
-$40,700 (2020 est.)<br>
-$45,400 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$48,600 (2022 est.)<br>
+$46,600 (2021 est.)<br>
+$41,800 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$14.986 billion (2019 est.)<br>
+$18.126 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.15% (2022 est.)<br>
 1.5% (2021 est.)<br>
 0.64% (2020 est.)<br>
-1.64% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A+ (2017)<br>
@@ -423,15 +426,18 @@ milk, tomatoes, potatoes, onions, cauliflowers, broccoli, eggplants, pork, cabba
 tourism, electronics, ship building and repair, construction, food and beverages, pharmaceuticals, footwear, clothing, tobacco, aviation services, financial services, information technology services<br>
 
 **Industrial production growth rate**<br>
--3.3% (2016 est.)<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-280,300 (2021 est.)<br>
+295,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.5% (2021 est.)<br>
-4.26% (2020 est.)<br>
-3.62% (2019 est.)<br>
+2.92% (2022 est.)<br>
+3.39% (2021 est.)<br>
+4.35% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.8% (2021 est.)<br>
@@ -439,19 +445,23 @@ _male_: 13.6%<br>
 _female_: 5.8%<br>
 
 **Population below poverty line**<br>
-17.1% (2018 est.)<br>
+16.7% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-31 (2019 est.)<br>
+31.4 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
+_lowest 10%_: 3.1%<br>
+_highest 10%_: 25.1% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.64% of GDP (2021 est.)<br>
-1.88% of GDP (2020 est.)<br>
-1.68% of GDP (2019 est.)<br>
+1.25% of GDP (2022 est.)<br>
+1.49% of GDP (2021 est.)<br>
+1.7% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $5.661 billion (2019 est.)<br>
@@ -466,20 +476,23 @@ _expenditures_: $5.586 billion (2019 est.)<br>
 <strong>note:</strong> Malta reports public debt at nominal value outstanding at the end of the year, according to guidelines set out in the Maastricht Treaty for general government gross debt; the data include the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); general government comprises the central, state, and local governments, and social security funds<br>
 
 **Taxes and other revenues**<br>
-23.73% (of GDP) (2020 est.)<br>
+23.77% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$804.056 million (2021 est.)<br>
--$415.142 million (2020 est.)<br>
-$777.443 million (2019 est.)<br>
+-$1.02 billion (2022 est.)<br>
+$214.463 million (2021 est.)<br>
+$348.601 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$22.11 billion (2021 est.) note: data are in current year dollars<br>
-$19.526 billion (2020 est.) note: data are in current year dollars<br>
-$20.773 billion (2019 est.) note: data are in current year dollars<br>
+$25.417 billion (2022 est.)<br>
+$25.533 billion (2021 est.) note: data are in current year dollars<br>
+$22.735 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Germany 12%, France 9%, Italy 9% (2019)<br>
@@ -488,9 +501,10 @@ Germany 12%, France 9%, Italy 9% (2019)<br>
 integrated circuits, refined petroleum, packaged medicines, postage stamps, children's toys and stuffed animals, ships (2021)<br>
 
 **Imports**<br>
-$21.362 billion (2021 est.) note: data are in current year dollars<br>
-$18.328 billion (2020 est.) note: data are in current year dollars<br>
-$18.578 billion (2019 est.) note: data are in current year dollars<br>
+$23.883 billion (2022 est.)<br>
+$22.958 billion (2021 est.) note: data are in current year dollars<br>
+$20.164 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Russia 22%, Italy 12%, United Kingdom 11%, Germany 6%, Turkey 5%, France 5%, China 5%, South Korea 5% (2019)<br>
@@ -499,9 +513,10 @@ Russia 22%, Italy 12%, United Kingdom 11%, Germany 6%, Turkey 5%, France 5%, Chi
 refined petroleum, recreational boats, ships, aircraft, coal tar oil (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.149 billion (31 December 2021 est.)<br>
-$930.464 million (31 December 2020 est.)<br>
-$937.616 million (31 December 2019 est.)<br>
+$1.199 billion (2022 est.)<br>
+$1.149 billion (2021 est.)<br>
+$930.464 million (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $98.179 billion (2019 est.)<br>
@@ -509,11 +524,11 @@ $104.467 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
 0.847 (2018 est.)<br>
-0.885 (2017 est.)<br>
 
 ## Energy
 

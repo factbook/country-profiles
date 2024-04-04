@@ -393,12 +393,13 @@ still largely state-run planned economy, although privatization increasing under
 $137 billion (2017 est.)<br>
 $134.8 billion (2016 est.)<br>
 $134.2 billion (2015 est.)<br>
-<strong>note:</strong> data are in 2016 US dollars<br>
+<strong>note:</strong> data are in 2016 dollars<br>
 
 **Real GDP growth rate**<br>
+1.77% (2022 est.)<br>
 1.25% (2021 est.)<br>
 -10.95% (2020 est.)<br>
--0.16% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $12,300 (2016 est.)<br>
@@ -407,8 +408,8 @@ $12,100 (2014 est.)<br>
 <strong>note:</strong> data are in 2016 US dollars<br>
 
 **GDP (official exchange rate)**<br>
-$93.79 billion (2017 est.)<br>
-<strong>note:</strong> data are in Cuban Pesos at 1 CUP = 1 US$; official exchange rate<br>
+$633.442 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5.5% (2017 est.)<br>
@@ -438,17 +439,18 @@ sugar cane, cassava, vegetables, plantains, sweet potatoes, tomatoes, milk, pump
 petroleum, nickel, cobalt, pharmaceuticals, tobacco, construction, steel, cement, agricultural machinery, sugar<br>
 
 **Industrial production growth rate**<br>
--6.75% (2021 est.)<br>
+-6.73% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.135 million (2021 est.)<br>
-<strong>note:</strong> state sector 72.3%, non-state sector 27.7%<br>
+5.286 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.76% (2021 est.)<br>
-2.62% (2020 est.)<br>
-1.74% (2019 est.)<br>
-<strong>note:</strong> data are official rates; unofficial estimates are about double<br>
+1.25% (2022 est.)<br>
+1.39% (2021 est.)<br>
+1.4% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 7.4% (2021 est.)<br>

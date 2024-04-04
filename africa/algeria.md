@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Algeria has known many empires and dynasties, including the ancient Numidians (3rd century B.C.), Phoenicians, Carthaginians, Romans, Vandals, Byzantines, over a dozen different Arab and Amazigh dynasties, Spaniards, and Ottoman Turks. It was under the last of these that Barbary pirates operated from North Africa and preyed on shipping beginning in roughly 1500, peaking in the early to mid-17th century, until finally subdued by the French capture of Algiers in 1830. The French southward conquest of the entirety of Algeria proceeded throughout the 19th century and was marked by many atrocities. The country was heavily colonized by the French in the late 19th and early 20th centuries. A bloody eight-year struggle culminated in Algerian independence in 1962. <br><br>Algeria's historically predominant political party, the National Liberation Front (FLN), was established in 1954 as part of the struggle for independence and has since played a large role in politics, though it is falling out of favor with the youth and current President Abdelmadjid TEBBOUNE. The Government of Algeria in 1988 instituted a multi-party system in response to public unrest, but the surprising first-round success of the Islamic Salvation Front (FIS) in the December 1991 legislative election led the Algerian military to intervene and postpone the second round of elections to prevent what the secular elite feared would be an extremist-led government from assuming power. The army began a crackdown on the FIS that spurred factions of FIS supporters to begin attacking government targets. Fighting escalated into an insurgency, which saw intense violence from 1992-98, resulting in over 100,000 deaths – many attributed to indiscriminate massacres of villagers by extremists. The government gained the upper hand by the late 1990s, and FIS’s armed wing, the Islamic Salvation Army, disbanded in January 2000. FIS membership is illegal.</p> <p>Former president Abdelaziz BOUTEFLIKA, with the backing of the military, won the presidency in 1999 in an election that was boycotted by several candidates protesting alleged fraud.  He won subsequent elections in 2004, 2009, and 2014. Widespread protests broke out across the country in late February 2019 against his decision to seek a fifth term. BOUTEFLIKA resigned in April 2019, and in December 2019, Algerians elected former Prime Minister Abdelmadjid TEBBOUNE as the country’s new president. A longtime FLN member, TEBBOUNE ran for president as an independent. In 2020, Algeria held a constitutional referendum, which President TEBBOUNE enacted in January 2021. Subsequent reforms to the national electoral law introduced open list voting to curb corruption. The new law also eliminated gender quotas in Parliament, and the June 2021 legislative elections saw female representation plummet. Local elections took place in November 2021. The referendum, parliamentary elections, and local elections saw record low voter turnout. </p><br>
+<p>Algeria has known many empires and dynasties, including the ancient Numidians (3rd century B.C.), Phoenicians, Carthaginians, Romans, Vandals, Byzantines, over a dozen different Arab and Amazigh dynasties, Spaniards, and Ottoman Turks. Under the Turks, the Barbary pirates operated from North Africa and preyed on shipping, from about 1500 until the French captured Algiers in 1830. The French southward conquest of Algeria proceeded throughout the 19th century and was marked by many atrocities. A bloody eight-year struggle culminated in Algerian independence in 1962. <br><br>Algeria's long-dominant political party, the National Liberation Front (FLN), was established in 1954 as part of the struggle for independence and has since played a large role in politics, though it is falling out of favor with the youth and current President Abdelmadjid TEBBOUNE. The Government of Algeria in 1988 instituted a multi-party system in response to public unrest, but the surprising first-round success of the Islamic Salvation Front (FIS) in the 1991 legislative election led the Algerian military to intervene and postpone the second round of elections to prevent what the secular elite feared would be an extremist-led government from assuming power. An army crackdown on the FIS escalated into an FIS insurgency and intense violence from 1992-98 that resulted in over 100,000 deaths, many of which were attributed to extremist groups massacring villagers. The government gained the upper hand by the late 1990s, and FIS’s armed wing, the Islamic Salvation Army, disbanded in 2000. FIS membership is now illegal.</p> <p>In 1999, Abdelaziz BOUTEFLIKA won the presidency with the backing of the military, in an election that was boycotted by several candidates protesting alleged fraud.  He won subsequent elections in 2004, 2009, and 2014. Widespread protests against his decision to seek a fifth term broke out in early 2019. BOUTEFLIKA resigned in April 2019, and in December 2019, Algerians elected former Prime Minister Abdelmadjid TEBBOUNE as the country’s new president. A longtime FLN member, TEBBOUNE ran for president as an independent. In 2020, Algeria held a constitutional referendum on governmental reforms, which TEBBOUNE enacted in 2021. Subsequent reforms to the national electoral law introduced open-list voting to curb corruption. The new law also eliminated gender quotas in Parliament, and the 2021 legislative elections saw female representation plummet. The referendum, parliamentary elections, and local elections saw record-low voter turnout.</p><br>
 
 ## Geography
 
@@ -390,29 +390,32 @@ _selected World Heritage Site locales_: Beni Hammad Fort (c); Djémila (c); Casb
 suffering oil and gas economy; lack of sector and market diversification; political instability chilling domestic consumption; poor credit access and declines in business confidence; COVID-19 austerity policies; delayed promised socio-economic reforms<br>
 
 **Real GDP (purchasing power parity)**<br>
-$487.716 billion (2021 est.)<br>
+$502.837 billion (2022 est.)<br>
+$487.245 billion (2021 est.)<br>
 $471.223 billion (2020 est.)<br>
-$496.547 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.5% (2021 est.)<br>
+3.2% (2022 est.)<br>
+3.4% (2021 est.)<br>
 -5.1% (2020 est.)<br>
-1% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$11,200 (2022 est.)<br>
 $11,000 (2021 est.)<br>
 $10,800 (2020 est.)<br>
-$11,600 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$169.912 billion (2019 est.)<br>
+$194.998 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+9.27% (2022 est.)<br>
 7.23% (2021 est.)<br>
 2.42% (2020 est.)<br>
-1.95% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
@@ -437,15 +440,18 @@ potatoes, wheat, milk, watermelons, barley, onions, tomatoes, oranges, dates, ve
 petroleum, natural gas, light industries, mining, electrical, petrochemical, food processing<br>
 
 **Industrial production growth rate**<br>
-7.36% (2021 est.)<br>
+1.32% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-12.312 million (2021 est.)<br>
+13.023 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-12.7% (2021 est.)<br>
-12.55% (2020 est.)<br>
-10.51% (2019 est.)<br>
+12.49% (2022 est.)<br>
+13.73% (2021 est.)<br>
+14.04% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 31.9% (2021 est.)<br>
@@ -467,9 +473,10 @@ _lowest 10%_: 2.8%<br>
 _highest 10%_: 26.8% (1995)<br>
 
 **Remittances**<br>
+0.9% of GDP (2022 est.)<br>
+1.1% of GDP (2021 est.)<br>
 1.17% of GDP (2020 est.)<br>
-1.04% of GDP (2019 est.)<br>
-1.13% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $55.185 billion (2019 est.)<br>
@@ -490,15 +497,16 @@ _expenditures_: $64.728 billion (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$4.608 billion (2021 est.)<br>
--$18.187 billion (2020 est.)<br>
--$16.954 billion (2019 est.)<br>
+$19.036 billion (2022 est.)<br>
+-$4,514,564,000 (2021 est.)<br>
+-$18,187,037,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$41.776 billion (2021 est.)<br>
+$69.058 billion (2022 est.)<br>
+$41.851 billion (2021 est.)<br>
 $24.902 billion (2020 est.)<br>
-$38.551 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Italy 13%, France 13%, Spain 12%, United States 7%, United Kingdom 7%, India 5%, South Korea 5% (2019)<br>
@@ -507,9 +515,10 @@ Italy 13%, France 13%, Spain 12%, United States 7%, United Kingdom 7%, India 5%,
 natural gas, crude petroleum, refined petroleum, fertilizers, ammonia (2021)<br>
 
 **Imports**<br>
-$44.322 billion (2021 est.) note: data are in current year dollars<br>
+$46.617 billion (2022 est.)<br>
+$44.302 billion (2021 est.) note: data are in current year dollars<br>
 $42.347 billion (2020 est.) note: data are in current year dollars<br>
-$54.259 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 18%, France 14%, Italy 8%, Spain 8%, Germany 5%, Turkey 5% (2019)<br>
@@ -518,9 +527,10 @@ China 18%, France 14%, Italy 8%, Spain 8%, Germany 5%, Turkey 5% (2019)<br>
 refined petroleum, wheat, packaged medical supplies, milk, vehicle parts (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$56.211 billion (31 December 2021 est.)<br>
-$59.434 billion (31 December 2020 est.)<br>
-$71.796 billion (31 December 2019 est.)<br>
+$71.852 billion (2022 est.)<br>
+$56.211 billion (2021 est.)<br>
+$59.434 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $5.574 billion (2019 est.)<br>
@@ -528,11 +538,11 @@ $5.666 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Algerian dinars (DZD) per US dollar -<br>
+141.995 (2022 est.)<br>
 135.064 (2021 est.)<br>
 126.777 (2020 est.)<br>
 119.354 (2019 est.)<br>
 116.594 (2018 est.)<br>
-110.973 (2017 est.)<br>
 
 ## Energy
 

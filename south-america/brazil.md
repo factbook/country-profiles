@@ -233,9 +233,9 @@ NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 94.3%<br>
-_male_: 94.1%<br>
-_female_: 94.5% (2021)<br>
+_total population_: 94.7%<br>
+_male_: 94.4%<br>
+_female_: 94.9% (2022)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
@@ -417,29 +417,32 @@ _selected World Heritage Site locales_: Brasilia (c); Historic Salvador de Bahia
 industrial-led economic growth model; recovering from 2014-2016 recession when COVID-19 hit; industry limited by Amazon rainforest but increasing deforestation; new macroeconomic structural reforms; high income inequality; left UNASUR to join PROSUR<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.128 trillion (2021 est.)<br>
-$2.989 trillion (2020 est.)<br>
-$3.11 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$3.25 trillion (2022 est.)<br>
+$3.158 trillion (2021 est.)<br>
+$3.008 trillion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.62% (2021 est.)<br>
--3.88% (2020 est.)<br>
-1.22% (2019 est.)<br>
+2.9% (2022 est.)<br>
+4.99% (2021 est.)<br>
+-3.28% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$14,600 (2021 est.)<br>
-$14,000 (2020 est.)<br>
-$14,700 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$15,100 (2022 est.)<br>
+$14,700 (2021 est.)<br>
+$14,100 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1,877,942,000,000 (2019 est.)<br>
+$1.92 trillion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+9.28% (2022 est.)<br>
 8.3% (2021 est.)<br>
 3.21% (2020 est.)<br>
-3.73% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB (2023)<br>
@@ -467,15 +470,18 @@ sugar cane, soybeans, maize, milk, cassava, oranges, poultry, rice, beef, cotton
 textiles, shoes, chemicals, cement, lumber, iron ore, tin, steel, aircraft, motor vehicles and parts, other machinery and equipment<br>
 
 **Industrial production growth rate**<br>
-4.48% (2021 est.)<br>
+1.62% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-99.47 million (2021 est.)<br>
+108.751 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-14.4% (2021 est.)<br>
-13.69% (2020 est.)<br>
-11.93% (2019 est.)<br>
+9.23% (2022 est.)<br>
+13.16% (2021 est.)<br>
+13.7% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 31.9% (2021 est.)<br>
@@ -487,20 +493,23 @@ _female_: 38.2%<br>
 <strong>note:</strong> approximately 4% of the population are below the "extreme" poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-48.9 (2020 est.)<br>
+52.9 (2021 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 15.7% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 1.5% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 0.8%<br>
-_highest 10%_: 43.4% (2016 est.)<br>
+_lowest 10%_: 1%<br>
+_highest 10%_: 41.5% (2021 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.26% of GDP (2022 est.)<br>
 0.25% of GDP (2021 est.)<br>
-0.25% of GDP (2020 est.)<br>
-0.17% of GDP (2019 est.)<br>
+0.24% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $424.196 billion (2020 est.)<br>
@@ -510,26 +519,29 @@ _expenditures_: $617.332 billion (2020 est.)<br>
 -1.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-100.59% of GDP (2020 est.)<br>
-92.57% of GDP (2019 est.)<br>
-86.61% of GDP (2018 est.)<br>
+80.41% of GDP (2022 est.)<br>
+86.09% of GDP (2021 est.)<br>
+98.71% of GDP (2020 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-12.96% (of GDP) (2020 est.)<br>
+14.97% (of GDP) (2022 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$27.925 billion (2021 est.)<br>
--$24.492 billion (2020 est.)<br>
--$65.03 billion (2019 est.)<br>
+-$53.62 billion (2022 est.)<br>
+-$46.358 billion (2021 est.)<br>
+-$28.208 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$317.175 billion (2021 est.)<br>
-$239.283 billion (2020 est.)<br>
-$260.075 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$380.619 billion (2022 est.)<br>
+$315.494 billion (2021 est.)<br>
+$238.221 billion (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 28%, United States 13% (2019)<br>
@@ -538,9 +550,10 @@ China 28%, United States 13% (2019)<br>
 iron, soybeans, crude petroleum, sugar, poultry meats (2021)<br>
 
 **Imports**<br>
-$297.924 billion (2021 est.) note: data are in current year dollars<br>
-$227.854 billion (2020 est.) note: data are in current year dollars<br>
-$269.017 billion (2019 est.) note: data are in current year dollars<br>
+$376.084 billion (2022 est.)<br>
+$306.087 billion (2021 est.) note: data are in current year dollars<br>
+$230.508 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 21%, United States 18%, Germany 6%, Argentina 6% (2019)<br>
@@ -549,9 +562,10 @@ China 21%, United States 18%, Germany 6%, Argentina 6% (2019)<br>
 refined petroleum, vehicle parts, crude petroleum, integrated circuits, pesticides (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$362.21 billion (31 December 2021 est.)<br>
-$355.614 billion (31 December 2020 est.)<br>
-$356.886 billion (31 December 2019 est.)<br>
+$324.673 billion (2022 est.)<br>
+$362.21 billion (2021 est.)<br>
+$355.614 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $681.336 billion (2019 est.)<br>
@@ -559,11 +573,11 @@ $660.693 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: reals (BRL) per US dollar -<br>
+5.164 (2022 est.)<br>
 5.394 (2021 est.)<br>
 5.155 (2020 est.)<br>
 3.944 (2019 est.)<br>
 3.654 (2018 est.)<br>
-3.191 (2017 est.)<br>
 
 ## Energy
 

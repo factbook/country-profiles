@@ -392,29 +392,32 @@ _selected World Heritage Site locales_: Maya Site of Copan (c); Río Plátano Bi
 second-fastest-growing Central American economy; COVID-19 and two hurricanes crippled activity; high poverty and inequality; declining-but-still-high violent crime disruption; systemic corruption; coffee and banana exporter; enormous remittances<br>
 
 **Real GDP (purchasing power parity)**<br>
+$59.562 billion (2022 est.)<br>
 $57.273 billion (2021 est.)<br>
 $50.894 billion (2020 est.)<br>
-$55.905 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+4% (2022 est.)<br>
 12.53% (2021 est.)<br>
 -8.96% (2020 est.)<br>
-2.65% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$5,700 (2022 est.)<br>
 $5,600 (2021 est.)<br>
 $5,000 (2020 est.)<br>
-$5,600 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$25.145 billion (2019 est.)<br>
+$31.718 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+9.09% (2022 est.)<br>
 4.48% (2021 est.)<br>
 3.47% (2020 est.)<br>
-4.37% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B1 (2017)<br>
@@ -441,16 +444,18 @@ sugarcane, oil palm fruit, milk, bananas, maize, coffee, melons, oranges, poultr
 sugar processing, coffee, woven and knit apparel, wood products, cigars<br>
 
 **Industrial production growth rate**<br>
-20.05% (2021 est.)<br>
+5.31% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.314 million (2021 est.)<br>
+4.565 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.51% (2021 est.)<br>
-8.37% (2020 est.)<br>
-5.7% (2019 est.)<br>
-<strong>note:</strong> about one-third of the people are underemployed<br>
+7% (2022 est.)<br>
+8.23% (2021 est.)<br>
+10.68% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.5% (2021 est.)<br>
@@ -458,10 +463,12 @@ _male_: 11.4%<br>
 _female_: 24.6%<br>
 
 **Population below poverty line**<br>
-48.3% (2018 est.)<br>
+48% (2019 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 48.2 (2019 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 32.8% of household expenditures (2018 est.)<br>
@@ -469,12 +476,14 @@ _on alcohol and tobacco_: 4.7% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2%<br>
-_highest 10%_: 38.4% (2014)<br>
+_highest 10%_: 34.6% (2019 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+26.75% of GDP (2022 est.)<br>
 25.29% of GDP (2021 est.)<br>
 23.45% of GDP (2020 est.)<br>
-21.53% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $6.476 billion (2019 est.)<br>
@@ -489,19 +498,22 @@ _expenditures_: $6.454 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 14.77% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.222 billion (2021 est.)<br>
-$676.895 million (2020 est.)<br>
--$661.552 million (2019 est.)<br>
+-$2,083,057,000 (2022 est.)<br>
+-$1,527,689,000 (2021 est.)<br>
+$665.854 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$7.941 billion (2021 est.) note: data are in current year dollars<br>
+$9.385 billion (2022 est.)<br>
+$8.062 billion (2021 est.) note: data are in current year dollars<br>
 $6.269 billion (2020 est.) note: data are in current year dollars<br>
-$7.243 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 53%, El Salvador 8%, Guatemala 5%, Nicaragua 5% (2019)<br>
@@ -510,9 +522,10 @@ United States 53%, El Salvador 8%, Guatemala 5%, Nicaragua 5% (2019)<br>
 clothing and apparel, coffee, insulated wiring, palm oil, shrimp, gold, bananas (2021)<br>
 
 **Imports**<br>
-$14.495 billion (2021 est.) note: data are in current year dollars<br>
-$9.928 billion (2020 est.) note: data are in current year dollars<br>
-$11.825 billion (2019 est.)<br>
+$17.957 billion (2022 est.)<br>
+$14.869 billion (2021 est.) note: data are in current year dollars<br>
+$9.94 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 42%, China 10%, Guatemala 8%, El Salvador 8%, Mexico 6% (2019)<br>
@@ -521,9 +534,10 @@ United States 42%, China 10%, Guatemala 8%, El Salvador 8%, Mexico 6% (2019)<br>
 refined petroleum, clothing and apparel, packaged medicines, broadcasting equipment, insulated wiring (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$8.138 billion (31 December 2020 est.)<br>
-$5.744 billion (31 December 2019 est.)<br>
-$4.769 billion (31 December 2018 est.)<br>
+$8.41 billion (2022 est.)<br>
+$8.667 billion (2021 est.)<br>
+$8.138 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $9.137 billion (2019 est.)<br>
@@ -531,11 +545,11 @@ $8.722 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: lempiras (HNL) per US dollar -<br>
+24.486 (2022 est.)<br>
 24.017 (2021 est.)<br>
 24.582 (2020 est.)<br>
 24.509 (2019 est.)<br>
 23.903 (2018 est.)<br>
-23.487 (2017 est.)<br>
 
 ## Energy
 

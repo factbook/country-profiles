@@ -352,7 +352,7 @@ _judge selection and term of office_: judges elected by the Federal Assembly for
 _subordinate courts_: Federal Criminal Court (established in 2004); Federal Administrative Court (established in 2007); note - each of Switzerland's 26 cantons has its own courts<br>
 
 **Political parties and leaders**<br>
-The Center (Die Mitte, Alleanza del Centro, Le Centre, Allianza dal Center) [Gerhard PFISTER] (merger of the Christian Democratic People's Party and the Conservative Democratic Party)<br>Evangelical Peoples' Party or EVP/PEV [Lilian STUDER]<br>Federal Democrats or EDU [Daniel FRISCHKNECH]<br>Geneva Citizens Movement or MCR/MCG [Ana ROCH]<br>Green Liberal Party (Gruenliberale Partei or GLP, Parti vert liberale or PVL, Partito Verde-Liberale or PVL, Partida Verde Liberale or PVL) [Jurg GROSSEN]<br>Green Party (Gruene Partei der Schweiz or Gruene, Parti Ecologiste Suisse or Les Verts, Partito Ecologista Svizzero or I Verdi, Partida Ecologica Svizra or La Verda) [Balthasar GLATTLI]<br>The Liberals or FDP.The Liberals (FDP.Die Liberalen, PLR.Les Liberaux-Radicaux, PLR.I Liberali, Ils Liberals) [Thierry BURKART]<br>Social Democratic Party (Sozialdemokratische Partei der Schweiz or SP, Parti Socialiste Suisse or PSS, Partito Socialista Svizzero or PSS, Partida Socialdemocratica de la Svizra or PSS) [Cedric WERMUTH and Mattea MEYER]<br>Swiss People's Party (Schweizerische Volkspartei or SVP, Union Democratique du Centre or UDC, Unione Democratica di Centro or UDC, Uniun Democratica dal Center or UDC) [vacant]<br>
+The Center (Die Mitte, Alleanza del Centro, Le Centre, Allianza dal Center) [Gerhard PFISTER] (merger of the Christian Democratic People's Party and the Conservative Democratic Party)<br>Evangelical Peoples' Party or EVP/PEV [Lilian STUDER]<br>Federal Democrats or EDU [Daniel FRISCHKNECH]<br>Geneva Citizens Movement or MCR/MCG [Ana ROCH]<br>Green Liberal Party (Gruenliberale Partei or GLP, Parti vert liberale or PVL, Partito Verde-Liberale or PVL, Partida Verde Liberale or PVL) [Jurg GROSSEN]<br>Green Party (Gruene Partei der Schweiz or Gruene, Parti Ecologiste Suisse or Les Verts, Partito Ecologista Svizzero or I Verdi, Partida Ecologica Svizra or La Verda) [Balthasar GLATTLI]<br>The Liberals or FDP.The Liberals (FDP.Die Liberalen, PLR.Les Liberaux-Radicaux, PLR.I Liberali, Ils Liberals) [Thierry BURKART]<br>Social Democratic Party (Sozialdemokratische Partei der Schweiz or SP, Parti Socialiste Suisse or PSS, Partito Socialista Svizzero or PSS, Partida Socialdemocratica de la Svizra or PSS) [Cedric WERMUTH and Mattea MEYER]<br>Swiss People's Party (Schweizerische Volkspartei or SVP, Union Democratique du Centre or UDC, Unione Democratica di Centro or UDC, Uniun Democratica dal Center or UDC) [Marcel DETTLING]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNMOGIP, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -396,29 +396,32 @@ _selected World Heritage Site locales_: Old City of Berne (c); Swiss Alps Jungfr
 high-income, non-EU European economy; renowned banking and financial hub; extremely low unemployment; highly skilled but aging workforce; key pharmaceutical and precision manufacturing exporter; fairly high public debt<br>
 
 **Real GDP (purchasing power parity)**<br>
-$618.228 billion (2021 est.)<br>
-$593.185 billion (2020 est.)<br>
-$607.619 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$634.296 billion (2022 est.)<br>
+$618.413 billion (2021 est.)<br>
+$586.775 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.22% (2021 est.)<br>
--2.38% (2020 est.)<br>
-1.14% (2019 est.)<br>
+2.57% (2022 est.)<br>
+5.39% (2021 est.)<br>
+-2.14% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$72,300 (2022 est.)<br>
 $71,000 (2021 est.)<br>
-$68,700 (2020 est.)<br>
-$70,900 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$67,900 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$731.502 billion (2019 est.)<br>
+$818.427 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.84% (2022 est.)<br>
 0.58% (2021 est.)<br>
 -0.73% (2020 est.)<br>
-0.36% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (2000)<br>
@@ -446,15 +449,18 @@ milk, sugar beet, wheat, potatoes, pork, barley, apples, maize, beef, grapes<br>
 machinery, chemicals, watches, textiles, precision instruments, tourism, banking, insurance, pharmaceuticals<br>
 
 **Industrial production growth rate**<br>
-7.91% (2021 est.)<br>
+4.63% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.963 million (2021 est.)<br>
+4.968 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.32% (2021 est.)<br>
+4.3% (2022 est.)<br>
+5.1% (2021 est.)<br>
 4.82% (2020 est.)<br>
-4.39% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.1% (2021 est.)<br>
@@ -462,23 +468,27 @@ _male_: 9.4%<br>
 _female_: 8.8%<br>
 
 **Population below poverty line**<br>
-16% (2018 est.)<br>
+14.7% (2020 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33.1 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 9.2% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 3.6% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 7.5%<br>
-_highest 10%_: 19% (2007)<br>
+_lowest 10%_: 2.9%<br>
+_highest 10%_: 25.8% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.38% of GDP (2021 est.)<br>
-0.4% of GDP (2020 est.)<br>
-0.35% of GDP (2019 est.)<br>
+0.32% of GDP (2022 est.)<br>
+0.34% of GDP (2021 est.)<br>
+0.38% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $239.767 billion (2018 est.)<br>
@@ -489,27 +499,29 @@ _expenditures_: $230.383 billion (2018 est.)<br>
 1.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-20.91% of GDP (2020 est.)<br>
+19.99% of GDP (2021 est.)<br>
+20.85% of GDP (2020 est.)<br>
 18.95% of GDP (2019 est.)<br>
-18.68% of GDP (2018 est.)<br>
-<strong>note:</strong> general government gross debt; gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future; includes debt liabilities in the form of Special Drawing Rights, currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable; all liabilities in the Government Financial Systems Manual 2001 system are debt, except for equity and investment fund shares and financial derivatives and employee stock options<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-9.37% (of GDP) (2020 est.)<br>
+10.09% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$59.159 billion (2021 est.)<br>
-$11.067 billion (2020 est.)<br>
-$30.806 billion (2019 est.)<br>
+$81.231 billion (2022 est.)<br>
+$72.055 billion (2021 est.)<br>
+$2.451 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$571.376 billion (2021 est.) ; note - data are in current year dollars<br>
-$474.236 billion (2020 est.) ; note - data are in current year dollars<br>
-$478.505 billion (2019 est.) ; note - data are in current year dollars<br>
-<strong>note:</strong> trade data exclude trade with Switzerland<br>
+$627.54 billion (2022 est.)<br>
+$579.017 billion (2021 est.) ; note - data are in current year dollars<br>
+$474.042 billion (2020 est.) ; note - data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Germany 16%, United States 14%, United Kingdom 8%, China 7%, France 6%, India 6%, Italy 5% (2019)<br>
@@ -518,9 +530,10 @@ Germany 16%, United States 14%, United Kingdom 8%, China 7%, France 6%, India 6%
 gold, packaged medicines, medical cultures/vaccines, watches, jewelry (2019)<br>
 
 **Imports**<br>
-$480.522 billion (2021 est.) ; note - data are in current year dollars<br>
-$429.979 billion (2020 est.) ; note - data are in current year dollars<br>
-$413.404 billion (2019 est.) ; note - data are in current year dollars<br>
+$518.451 billion (2022 est.)<br>
+$481.093 billion (2021 est.) ; note - data are in current year dollars<br>
+$429.875 billion (2020 est.) ; note - data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Germany 21%, Italy 8%, France 6%, United States 6%, United Kingdom 5%, United Arab Emirates 5% (2019)<br>
@@ -529,9 +542,10 @@ Germany 21%, Italy 8%, France 6%, United States 6%, United Kingdom 5%, United Ar
 gold, packaged medicines, jewelry, cars, medical cultures/vaccines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.11 trillion (31 December 2021 est.)<br>
-$1.083 trillion (31 December 2020 est.)<br>
-$854.929 billion (31 December 2019 est.)<br>
+$923.628 billion (2022 est.)<br>
+$1.11 trillion (2021 est.)<br>
+$1.083 trillion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.909 trillion (2019 est.)<br>
@@ -539,11 +553,11 @@ $1.931 trillion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Swiss francs (CHF) per US dollar -<br>
+0.955 (2022 est.)<br>
 0.914 (2021 est.)<br>
 0.939 (2020 est.)<br>
 0.994 (2019 est.)<br>
 0.978 (2018 est.)<br>
-0.985 (2017 est.)<br>
 
 ## Energy
 

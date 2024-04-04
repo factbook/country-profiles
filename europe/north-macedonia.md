@@ -382,29 +382,32 @@ _selected World Heritage Site locales_: Natural and Cultural Heritage of the Ohr
 growing upper middle-income European economy; EU accession stalled due to Bulgarian dispute; new NATO member; private consumption-driven growth; investment declined due to COVID-19; regional economic power gains since Greek naming resolution<br>
 
 **Real GDP (purchasing power parity)**<br>
-$34.007 billion (2021 est.)<br>
-$32.71 billion (2020 est.)<br>
-$34.839 billion (2019 est.)<br>
-<strong>note: </strong>data are in 2017 dollars; Macedonia has a large informal sector that may not be reflected in these data<br>
+$35.245 billion (2022 est.)<br>
+$34.505 billion (2021 est.)<br>
+$32.704 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.96% (2021 est.)<br>
+2.15% (2022 est.)<br>
+5.51% (2021 est.)<br>
 -6.11% (2020 est.)<br>
-3.91% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$16,500 (2021 est.)<br>
+$17,100 (2022 est.)<br>
+$16,700 (2021 est.)<br>
 $15,800 (2020 est.)<br>
-$16,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$12.696 billion (2019 est.)<br>
+$13.563 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+14.2% (2022 est.)<br>
 3.23% (2021 est.)<br>
 1.2% (2020 est.)<br>
-0.77% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB+ (2019)<br>
@@ -431,15 +434,18 @@ milk, grapes, wheat, potatoes, green chillies/peppers, cabbages, tomatoes, maize
 food processing, beverages, textiles, chemicals, iron, steel, cement, energy, pharmaceuticals, automotive parts<br>
 
 **Industrial production growth rate**<br>
--2.37% (2021 est.)<br>
+-4.33% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-916,200 (2021 est.)<br>
+916,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-16.2% (2021 est.)<br>
-17.2% (2020 est.)<br>
-17.26% (2019 est.)<br>
+14.43% (2022 est.)<br>
+15.78% (2021 est.)<br>
+16.55% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 34.1% (2021 est.)<br>
@@ -447,23 +453,27 @@ _male_: 31.6%<br>
 _female_: 38.4%<br>
 
 **Population below poverty line**<br>
-21.6% (2018 est.)<br>
+21.8% (2019 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-33 (2018 est.)<br>
+33.5 (2019 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 30.8% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 7.3% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.7%<br>
-_highest 10%_: 25% (2015 est.)<br>
+_lowest 10%_: 1.9%<br>
+_highest 10%_: 22.9% (2019 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.54% of GDP (2021 est.)<br>
-3.34% of GDP (2020 est.)<br>
-2.52% of GDP (2019 est.)<br>
+3.36% of GDP (2022 est.)<br>
+3.5% of GDP (2021 est.)<br>
+3.8% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $3.505 billion (2020 est.)<br>
@@ -478,20 +488,23 @@ _expenditures_: $4.5 billion (2020 est.)<br>
 <strong>note:</strong> official data from Ministry of Finance; data cover central government debt; this data excludes debt instruments issued (or owned) by government entities other than the treasury; includes treasury debt held by foreign entitites; excludes debt issued by sub-national entities; there are no debt instruments sold for social funds<br>
 
 **Taxes and other revenues**<br>
-16.13% (of GDP) (2020 est.)<br>
+17.39% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$420.178 million (2021 est.)<br>
+-$864.777 million (2022 est.)<br>
+-$374.85 million (2021 est.)<br>
 -$360.444 million (2020 est.)<br>
--$376.487 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$9.157 billion (2021 est.) note: data are in current year dollars<br>
+$10.126 billion (2022 est.)<br>
+$9.208 billion (2021 est.) note: data are in current year dollars<br>
 $7.19 billion (2020 est.) note: data are in current year dollars<br>
-$7.8 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Germany 45%, Serbia 8%, Bulgaria 5% (2019)<br>
@@ -500,9 +513,10 @@ Germany 45%, Serbia 8%, Bulgaria 5% (2019)<br>
 support catalysts, centrifuges, insulated wiring, iron alloys, seats (2021)<br>
 
 **Imports**<br>
-$11.354 billion (2021 est.) note: data are in current year dollars<br>
+$13.008 billion (2022 est.)<br>
+$11.362 billion (2021 est.) note: data are in current year dollars<br>
 $8.773 billion (2020 est.) note: data are in current year dollars<br>
-$9.605 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United Kingdom 14%, Germany 14%, Greece 8%, Serbia 8% (2019)<br>
@@ -511,9 +525,10 @@ United Kingdom 14%, Germany 14%, Greece 8%, Serbia 8% (2019)<br>
 platinum, refined petroleum, laboratory ceramics, cars, insulated wiring (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$4.129 billion (31 December 2021 est.)<br>
-$4.126 billion (31 December 2020 est.)<br>
-$3.651 billion (31 December 2019 est.)<br>
+$4.12 billion (2022 est.)<br>
+$4.129 billion (2021 est.)<br>
+$4.126 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $9.065 billion (2019 est.)<br>
@@ -521,11 +536,11 @@ $9.398 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Macedonian denars (MKD) per US dollar -<br>
+58.574 (2022 est.)<br>
 52.102 (2021 est.)<br>
 54.144 (2020 est.)<br>
 54.947 (2019 est.)<br>
 52.107 (2018 est.)<br>
-54.665 (2017 est.)<br>
 
 ## Energy
 
@@ -677,7 +692,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 18,915 (Ukraine) (as of 22 February 2024)<br>
 _stateless persons_: 521 (2022)<br>
-<strong>note:</strong> 577,980 estimated refugee and migrant arrivals (January 2015-February 2024)<br>
+<strong>note:</strong> 579,828 estimated refugee and migrant arrivals (January 2015-February 2024)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

@@ -414,29 +414,32 @@ _selected World Heritage Site locales_: Pyu Ancient Cities; Bagan<br>
 slowly recovering Southeast Asian economy; household incomes weaken domestic consumption; growing trade deficit; declining employment; high inflation and reduced currency power; agriculture sector remains most stable&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
-$216.948 billion (2021 est.)<br>
-$264.29 billion (2020 est.)<br>
-$256.16 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$230.255 billion (2022 est.)<br>
+$221.32 billion (2021 est.)<br>
+$251.546 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--17.91% (2021 est.)<br>
-3.17% (2020 est.)<br>
-6.75% (2019 est.)<br>
+4.04% (2022 est.)<br>
+-12.02% (2021 est.)<br>
+-9.05% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$4,000 (2021 est.)<br>
-$4,900 (2020 est.)<br>
-$4,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$4,200 (2022 est.)<br>
+$4,100 (2021 est.)<br>
+$4,700 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$76.606 billion (2019 est.)<br>
+$62.263 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8.83% (2019 est.)<br>
 6.87% (2018 est.)<br>
 4.57% (2017 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 24.1% (2017 est.)<br>
@@ -458,15 +461,18 @@ rice, sugar cane, beans, vegetables, milk, maize, poultry, groundnuts, fruit, pl
 agricultural processing; wood and wood products; copper, tin, tungsten, iron; cement, construction materials; pharmaceuticals; fertilizer; oil and natural gas; garments; jade and gems<br>
 
 **Industrial production growth rate**<br>
--20.65% (2021 est.)<br>
+8.02% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-22.122 million (2021 est.)<br>
+22.527 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.17% (2021 est.)<br>
-1.06% (2020 est.)<br>
-0.5% (2019 est.)<br>
+2.96% (2022 est.)<br>
+4.34% (2021 est.)<br>
+1.48% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 6.4% (2021 est.)<br>
@@ -475,22 +481,26 @@ _female_: 6.3%<br>
 
 **Population below poverty line**<br>
 24.8% (2017 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 30.7 (2017 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 56.1% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 0.5% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.8%<br>
-_highest 10%_: 32.4% (1998)<br>
+_lowest 10%_: 3.8%<br>
+_highest 10%_: 25.5% (2017 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.85% of GDP (2020 est.)<br>
-3.72% of GDP (2019 est.)<br>
-3.98% of GDP (2018 est.)<br>
+3.05% of GDP (2022 est.)<br>
+3.02% of GDP (2021 est.)<br>
+3.38% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $13.361 billion (2020 est.)<br>
@@ -504,21 +514,23 @@ _expenditures_: $18.035 billion (2020 est.)<br>
 35.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-6.44% (of GDP) (2019 est.)<br>
+6.02% (of GDP) (2019 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
 $67.72 million (2019 est.)<br>
--$2.561 billion (2018 est.)<br>
--$4.917 billion (2017 est.)<br>
+-$2,561,159,000 (2018 est.)<br>
+-$4,916,790,000 (2017 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $20.4 billion (2021 est.) note: data are in current year dollars<br>
 $17.523 billion (2019 est.) note: data are in current year dollars<br>
 $15.728 billion (2018 est.) note: data are in current year dollars<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 34%, Thailand 14%, Germany 6%, Japan 5%, United States 5% (2021)<br>
@@ -531,7 +543,7 @@ natural gas, clothing products, dried legumes, precious stones, yttrium, scandiu
 $23.1 billion (2021 est.) note: data are in current year dollars<br>
 $17.356 billion (2019 est.) note: data are in current year dollars<br>
 $18.664 billion (2018 est.) note: data are in current year dollars<br>
-<strong>note:</strong> import figures are grossly underestimated due to the value of consumer goods, diesel fuel, and other products smuggled in from Thailand, China, Malaysia, and India<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 41%, Thailand 19%, Singapore 13%, Indonesia 5%, India 3% (2021)<br>
@@ -540,9 +552,10 @@ China 41%, Thailand 19%, Singapore 13%, Indonesia 5%, India 3% (2021)<br>
 refined petroleum, palm oil, fabrics, packaged medicines, broadcasting equipment, cars (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$7.67 billion (31 December 2020 est.)<br>
-$5.824 billion (31 December 2019 est.)<br>
-$5.646 billion (31 December 2018 est.)<br>
+$7.67 billion (2020 est.)<br>
+$5.824 billion (2019 est.)<br>
+$5.646 billion (2018 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $6.594 billion (31 December 2017 est.)<br>

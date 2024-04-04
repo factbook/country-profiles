@@ -330,12 +330,13 @@ large self-governing Danish territorial economy; preferential EU market access; 
 $2.413 billion (2015 est.)<br>
 $2.24 billion (2014 est.)<br>
 $2.203 billion (2013 est.)<br>
-<strong>note:</strong> data are in 2015 US dollars<br>
+<strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
-0.36% (2020 est.)<br>
-2.27% (2019 est.)<br>
-0.62% (2018 est.)<br>
+1.29% (2021 est.)<br>
+0.19% (2020 est.)<br>
+2.83% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $41,800 (2015 est.)<br>
@@ -343,7 +344,8 @@ $38,800 (2014 est.)<br>
 $38,500 (2013 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$2.221 billion (2015 est.)<br>
+$3.236 billion (2021 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 0.3% (January 2017 est.)<br>
@@ -369,7 +371,8 @@ sheep, cattle, reindeer, fish, shellfish<br>
 fish processing (mainly shrimp and Greenland halibut), anorthosite and ruby mining, handicrafts, hides and skins, small shipyards<br>
 
 **Industrial production growth rate**<br>
-8.56% (2019 est.) NA<br>
+-10.63% (2021 est.) NA<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 26,840 (2015 est.)<br>

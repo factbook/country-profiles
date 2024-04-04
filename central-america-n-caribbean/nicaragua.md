@@ -380,29 +380,32 @@ _selected World Heritage Site locales_: Ruins of Le&oacute;n Viejo; Le&oacute;n 
 low-income Central American economy; until 2018, nearly 20 years of sustained GDP growth; recent struggles due to COVID-19, political instability, and hurricanes; significant remittances; increasing poverty and food scarcity since 2005; sanctions limit investment<br>
 
 **Real GDP (purchasing power parity)**<br>
-$38.628 billion (2021 est.)<br>
-$35.007 billion (2020 est.)<br>
-$35.645 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$40.456 billion (2022 est.)<br>
+$38.994 billion (2021 est.)<br>
+$35.337 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-10.34% (2021 est.)<br>
--1.79% (2020 est.)<br>
--3.78% (2019 est.)<br>
+3.75% (2022 est.)<br>
+10.35% (2021 est.)<br>
+-1.77% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$5,600 (2021 est.)<br>
+$5,800 (2022 est.)<br>
+$5,700 (2021 est.)<br>
 $5,200 (2020 est.)<br>
-$5,300 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$12.57 billion (2019 est.)<br>
+$15.672 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+10.47% (2022 est.)<br>
 4.93% (2021 est.)<br>
 3.68% (2020 est.)<br>
-5.38% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B- (2018)<br>
@@ -430,16 +433,18 @@ sugar cane, milk, rice, maize, plantains, groundnuts, cassava, beans, coffee, po
 food processing, chemicals, machinery and metal products, knit and woven apparel, petroleum refining and distribution, beverages, footwear, wood, electric wire harness manufacturing, mining<br>
 
 **Industrial production growth rate**<br>
-21.28% (2021 est.)<br>
+1.39% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.042 million (2021 est.)<br>
+3.189 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.96% (2021 est.)<br>
-6.08% (2020 est.)<br>
-5.21% (2019 est.)<br>
-<strong>note:</strong> underemployment was 46.5% in 2008<br>
+4.99% (2022 est.)<br>
+6.27% (2021 est.)<br>
+6.28% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.6% (2021 est.)<br>
@@ -448,18 +453,22 @@ _female_: 15.5%<br>
 
 **Population below poverty line**<br>
 24.9% (2016 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 46.2 (2014 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.8%<br>
-_highest 10%_: 47.1% (2014)<br>
+_lowest 10%_: 2%<br>
+_highest 10%_: 37.2% (2014 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-15.35% of GDP (2021 est.)<br>
-14.74% of GDP (2020 est.)<br>
-13.39% of GDP (2019 est.)<br>
+20.59% of GDP (2022 est.)<br>
+15.2% of GDP (2021 est.)<br>
+14.63% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $3.452 billion (2019 est.)<br>
@@ -474,20 +483,23 @@ _expenditures_: $3.511 billion (2019 est.)<br>
 <strong>note:</strong> official data; data cover general government debt and include debt instruments issued (or owned) by Government entities other than the treasury; the data include treasury debt held by foreign entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as retirement, medical care, and unemployment, debt instruments for the social funds are not sold at public auctions; Nicaragua rebased its GDP figures in 2012, which reduced the figures for debt as a percentage of GDP<br>
 
 **Taxes and other revenues**<br>
-17.2% (of GDP) (2020 est.)<br>
+19.81% (of GDP) (2022 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$316.6 million (2021 est.)<br>
-$496.7 million (2020 est.)<br>
-$754.1 million (2019 est.)<br>
+-$215.895 million (2022 est.)<br>
+-$438.479 million (2021 est.)<br>
+$456.1 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$6.617 billion (2021 est.) note: data are in current year dollars<br>
+$7.87 billion (2022 est.)<br>
+$6.618 billion (2021 est.) note: data are in current year dollars<br>
 $5.342 billion (2020 est.) note: data are in current year dollars<br>
-$5.714 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 60%, El Salvador 5%, Mexico 5% (2019)<br>
@@ -496,9 +508,10 @@ United States 60%, El Salvador 5%, Mexico 5% (2019)<br>
 clothing and apparel, gold, insulated wiring, coffee, beef, cigars (2021)<br>
 
 **Imports**<br>
-$8.306 billion (2021 est.) note: data are in current year dollars<br>
-$5.939 billion (2020 est.) note: data are in current year dollars<br>
-$6.252 billion (2019 est.) note: data are in current year dollars<br>
+$10.213 billion (2022 est.)<br>
+$8.342 billion (2021 est.) note: data are in current year dollars<br>
+$5.952 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 27%, Mexico 12%, China 11%, Guatemala 9%, Costa Rica 7%, El Salvador 6%, Honduras 6% (2019)<br>
@@ -507,9 +520,10 @@ United States 27%, Mexico 12%, China 11%, Guatemala 9%, Costa Rica 7%, El Salvad
 refined petroleum, clothing and apparel, crude petroleum, packaged medicines, insulated wiring (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$4.047 billion (31 December 2021 est.)<br>
-$3.212 billion (31 December 2020 est.)<br>
-$2.397 billion (31 December 2019 est.)<br>
+$4.404 billion (2022 est.)<br>
+$4.047 billion (2021 est.)<br>
+$3.212 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $11.674 billion (2019 est.)<br>
@@ -517,11 +531,11 @@ $11.771 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: cordobas (NIO) per US dollar -<br>
+35.874 (2022 est.)<br>
 35.171 (2021 est.)<br>
 34.342 (2020 est.)<br>
 33.122 (2019 est.)<br>
 31.553 (2018 est.)<br>
-30.051 (2017 est.)<br>
 
 ## Energy
 

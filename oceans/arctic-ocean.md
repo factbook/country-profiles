@@ -5,7 +5,7 @@ _Oceans / Oceans_
 ## Introduction
 
 **Background**<br>
-The Arctic Ocean is the smallest of the world's five ocean basins (after the Pacific Ocean, Atlantic Ocean, Indian Ocean, and the Southern Ocean). The Northwest Passage (US and Canada) and Northern Sea Route (Norway and Russia) are two important seasonal waterways. In recent years the polar ice pack has receded in the summer allowing for increased navigation and raising the possibility of future sovereignty and shipping disputes among the Arctic coastal states affected (Canada, Denmark (Greenland), Iceland, Norway, Russia, US).<br>
+The Arctic Ocean is the smallest of the world's five ocean basins (after the Pacific Ocean, Atlantic Ocean, Indian Ocean, and the Southern Ocean). The Northwest Passage (US and Canada) and Northern Sea Route (Norway and Russia) are two important seasonal waterways. In recent years, the polar ice pack has receded in the summer allowing for increased navigation and raising the possibility of future sovereignty and shipping disputes among the Arctic coastal states affected (Canada, Denmark (Greenland), Iceland, Norway, Russia, US).<br>
 
 ## Geography
 

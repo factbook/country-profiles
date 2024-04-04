@@ -339,8 +339,8 @@ _election results_: percent of vote by party - NA; seats by party - UMP 58, UDJ 
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of NA magistrates); Constitutional Council (consists of 6 magistrates)<br>
-_judge selection and term of office_: Supreme Court magistrates appointed by the president with the advice of the Superior Council of the Magistracy (CSM), a 10-member body consisting of 4 judges, 3 members (non parliamentarians and judges) appointed by the president, and 3 appointed by the National Assembly president or speaker; magistrates appointed for life with retirement at age 65; Constitutional Council magistrate appointments - 2 by the president of the republic, 2 by the president of the National Assembly, and 2 by the CSM; magistrates appointed for 8-year, non-renewable terms<br>
-_subordinate courts_: High Court of Appeal; 5 Courts of First Instance; customary courts; State Court (replaced sharia courts in 2003)<br>
+_judge selection and term of office_: Supreme Court magistrates appointed by the president with the advice of the Superior Council of the Magistracy (CSM), a 10-member body consisting of 4 judges, 3 members (non-parliamentarians and judges) appointed by the president, and 3 appointed by the National Assembly president or speaker; magistrates appointed for life with retirement at age 65; Constitutional Council magistrate appointments - 2 by the president of the republic, 2 by the president of the National Assembly, and 2 by the CSM; magistrates appointed for 8-year, non-renewable terms<br>
+_subordinate courts_: High Court of Appeal; Courts of First Instance; customary courts; State Court (replaced sharia courts in 2003)<br>
 
 **Political parties and leaders**<br>
 Front for Restoration of Unity and Democracy (Front pour la Restauration de l'Unite Democratique) or FRUD [Ali Mohamed DAOUD]<br>National Democratic Party or PND [Abdourahman Mohamed ALLALEH]<br>People's Rally for Progress or RPP [Ismail Omar GUELLEH] (governing party)<br>Peoples Social Democratic Party or PPSD [Hasna Moumin BAHDON]<br>Union for Democracy and Justice or UDJ [Ilya Ismail GUEDI Hared]<br>Union for the Presidential Majority coalition or UMP [collective leadership] (electoral coalition includes FRUD, PND, RPP, PPSD, and UPR)<br>Union of Reform Partisans or UPR [Ibrahim Daoud CHEHEM]<br><br><strong>note:</strong> only parties with seats in the National Assembly included<br>
@@ -380,29 +380,32 @@ _lyrics/music_: Aden ELMI/Abdi ROBLEH<br>
 food import-dependent Horn of Africa economy driven by various national military bases and port-based trade; fairly resilient from COVID-19 disruptions; major re-exporter; increasing Ethiopian and Chinese trade relations; investing in infrastructure<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.432 billion (2021 est.)<br>
-$5.182 billion (2020 est.)<br>
-$5.121 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$5.592 billion (2022 est.)<br>
+$5.423 billion (2021 est.)<br>
+$5.188 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.81% (2021 est.)<br>
-1.2% (2020 est.)<br>
-5.55% (2019 est.)<br>
+3.12% (2022 est.)<br>
+4.52% (2021 est.)<br>
+1.32% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$5,000 (2022 est.)<br>
 $4,900 (2021 est.)<br>
 $4,800 (2020 est.)<br>
-$4,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.323 billion (2019 est.)<br>
+$3.515 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.18% (2022 est.)<br>
+1.18% (2021 est.)<br>
 1.78% (2020 est.)<br>
-3.32% (2019 est.)<br>
-0.15% (2018 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.4% (2017 est.)<br>
@@ -424,15 +427,18 @@ vegetables, milk, beef, camel milk, lemons, limes, goat meat, mutton, beans, tom
 construction, agricultural processing, shipping<br>
 
 **Industrial production growth rate**<br>
--4.43% (2020 est.)<br>
+-0.42% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-240,500 (2021 est.)<br>
+250,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-28.39% (2021 est.)<br>
-28.39% (2020 est.)<br>
-26.36% (2019 est.)<br>
+26.67% (2022 est.)<br>
+27.96% (2021 est.)<br>
+27.85% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 79.9% (2021 est.)<br>
@@ -441,18 +447,22 @@ _female_: 82.2%<br>
 
 **Population below poverty line**<br>
 21.1% (2017 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 41.6 (2017 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.4%<br>
-_highest 10%_: 30.9% (2002)<br>
+_lowest 10%_: 1.9%<br>
+_highest 10%_: 32.3% (2017 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+1.56% of GDP (2022 est.)<br>
+2.35% of GDP (2021 est.)<br>
 2.01% of GDP (2020 est.)<br>
-2.57% of GDP (2019 est.)<br>
-2.05% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $725 million (2019 est.)<br>
@@ -472,14 +482,16 @@ _expenditures_: $754 million (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
+$656.207 million (2022 est.)<br>
 -$225.106 million (2021 est.)<br>
 $366.358 million (2020 est.)<br>
-$563.976 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$5.674 billion (2022 est.)<br>
 $5.16 billion (2021 est.) note: data are in current year dollars<br>
 $3.695 billion (2020 est.) note: data are in current year dollars<br>
-$5.15 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Saudi Arabia 42%, India 15%, China 14%, Egypt 5%, South Korea 5% (2019)<br>
@@ -488,9 +500,10 @@ Saudi Arabia 42%, India 15%, China 14%, Egypt 5%, South Korea 5% (2019)<br>
 palm oil, chlorides, sheep and goats, kidney beans, industrial fatty acids/oils, coffee (2021)<br>
 
 **Imports**<br>
+$5.096 billion (2022 est.)<br>
 $5.483 billion (2021 est.) note: data are in current year dollars<br>
 $3.425 billion (2020 est.) note: data are in current year dollars<br>
-$4.764 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 43%, United Arab Emirates 15%, India 7%, Turkey 5% (2019)<br>
@@ -499,9 +512,10 @@ China 43%, United Arab Emirates 15%, India 7%, Turkey 5% (2019)<br>
 refined petroleum, fertilizers, iron sheeting, cars, palm oil (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$588.418 million (31 December 2021 est.)<br>
-$686.339 million (31 December 2020 est.)<br>
-$501.858 million (31 December 2019 est.)<br>
+$589.437 million (2022 est.)<br>
+$588.418 million (2021 est.)<br>
+$686.339 million (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.954 billion (31 December 2017 est.)<br>
@@ -509,11 +523,11 @@ $1.519 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Djiboutian francs (DJF) per US dollar -<br>
+177.721 (2022 est.)<br>
 177.721 (2021 est.)<br>
 177.721 (2020 est.)<br>
 177.721 (2019 est.)<br>
 177.721 (2018 est.)<br>
-177.721 (2017 est.)<br>
 
 ## Energy
 
@@ -677,7 +691,7 @@ al-Shabaab<br>
 <p><em>Djibouti-Somalia:</em> Djibouti maintains economic ties and border accords with "Somaliland" leadership while maintaining some political ties to various factions in Somalia</p> <p><em>Djibouti-Eritrea:</em> in 2008, Eritrean troops moved across the border on Ras Doumera peninsula and occupied Doumera Island with undefined sovereignty in the Red Sea, sparking a brief conflict; Qatar mediated and provided peacekeepers until 2017; Djibouti accused Eritrea of reoccupying the area in 2017 after Qatari troops were withdrawn; Djibouti and Eritrea agreed to normalize relations in 2018</p> <p><em>Djibouti-Ethiopia:</em> the Ethiopia-Djibouti relationship has been relatively harmonious, and there have been no major disputes along their shared border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 13,452 (Somalia) (2023); 6,518 (Yemen) (mid-year 2022)<br>
+_refugees (country of origin)_: 6,518 (Yemen) (mid-year 2022); 13,467 (Somalia) (2024)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 &mdash; Djibouti does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Djibouti was downgraded to Tier 3; the government took some steps to address trafficking, including partnering with international organizations to establish a shelter and provide services to victims, and directing creation of a national coordinating body to combat trafficking; however, officials did not report investigating or prosecuting any cases and did not convict any traffickers for the sixth consecutive year; prosecutors dropped trafficking charges or reclassified cases as other crimes with lower penalties, and judges did not incorporate provisions from the 2016 anti-trafficking law; no victims were identified for the fourth consecutive year, and protection services remained limited; the government lacked coordinated anti-trafficking efforts and did not draft a new National Action Plan to replace the expired plan; some officials continued to deny the existence of sex and labor trafficking in Djibouti (2023)<br>

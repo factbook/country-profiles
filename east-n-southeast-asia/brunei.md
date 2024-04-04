@@ -369,29 +369,32 @@ _lyrics/music_: Pengiran Haji Mohamed YUSUF bin Pengiran Abdul Rahim/Awang Haji 
 almost exclusively an oil and gas economy; high income country; expansive and robust welfare system; the majority of the population works for the government; promulgating a nationalized halal brand; considering establishment of a bond market and stock exchange<br>
 
 **Real GDP (purchasing power parity)**<br>
+$26.343 billion (2022 est.)<br>
 $26.779 billion (2021 est.)<br>
 $27.212 billion (2020 est.)<br>
-$26.907 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+-1.63% (2022 est.)<br>
 -1.59% (2021 est.)<br>
 1.13% (2020 est.)<br>
-3.87% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$58,700 (2022 est.)<br>
 $60,100 (2021 est.)<br>
 $61,600 (2020 est.)<br>
-$61,400 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$12.13 billion (2017 est.)<br>
+$16.682 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.68% (2022 est.)<br>
 1.73% (2021 est.)<br>
 1.94% (2020 est.)<br>
--0.39% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.2% (2017 est.)<br>
@@ -413,15 +416,18 @@ poultry, eggs, fruit, cassava, bananas, legumes, cucumbers, rice, pineapples, be
 petroleum, petroleum refining, liquefied natural gas, construction, agriculture, aquaculture, transportation<br>
 
 **Industrial production growth rate**<br>
--4.17% (2021 est.)<br>
+-4.91% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-219,800 (2021 est.)<br>
+225,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.65% (2021 est.)<br>
-7.68% (2020 est.)<br>
-6.92% (2019 est.)<br>
+4.45% (2022 est.)<br>
+4.91% (2021 est.)<br>
+7.41% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 23.4% (2021 est.)<br>
@@ -436,8 +442,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
+0.01% of GDP (2022 est.)<br>
 0.01% of GDP (2021 est.)<br>
 0.01% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.058 billion (2020 est.)<br>
@@ -457,15 +465,16 @@ _expenditures_: $3.189 billion (2020 est.)<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
+$3.264 billion (2022 est.)<br>
 $1.57 billion (2021 est.)<br>
 $513.713 million (2020 est.)<br>
-$893.759 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$14.411 billion (2022 est.)<br>
 $11.202 billion (2021 est.)<br>
 $6.886 billion (2020 est.)<br>
-$7.828 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Singapore 21%, China 20%, Japan 19%, Australia 14%, Malaysia 5% (2021)<br>
@@ -474,9 +483,10 @@ Singapore 21%, China 20%, Japan 19%, Australia 14%, Malaysia 5% (2021)<br>
 refined petroleum, natural gas, crude petroleum, industrial hydrocarbons, industrial alcohols&nbsp; (2021)<br>
 
 **Imports**<br>
+$10.106 billion (2022 est.)<br>
 $9.219 billion (2021 est.) note: data are in current year dollars<br>
 $6.382 billion (2020 est.) note: data are in current year dollars<br>
-$6.806 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Malaysia 20%, Russia 14%, Singapore 11%, Saudi Arabia 10%, China 8% (2021)<br>
@@ -485,9 +495,10 @@ Malaysia 20%, Russia 14%, Singapore 11%, Saudi Arabia 10%, China 8% (2021)<br>
 crude petroleum, refined petroleum, cars, coal, packaged medicines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.997 billion (31 December 2020 est.)<br>
-$4.273 billion (31 December 2019 est.)<br>
-$3.407 billion (31 December 2018 est.)<br>
+$5.035 billion (2022 est.)<br>
+$4.982 billion (2021 est.)<br>
+$3.997 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $0 (2014)<br>
@@ -496,11 +507,11 @@ $0 (2013)<br>
 
 **Exchange rates**<br>
 _Currency_: Bruneian dollars (BND) per US dollar -<br>
+1.379 (2022 est.)<br>
 1.344 (2021 est.)<br>
 1.38 (2020 est.)<br>
 1.364 (2019 est.)<br>
 1.349 (2018 est.)<br>
-1.381 (2017 est.)<br>
 
 ## Energy
 

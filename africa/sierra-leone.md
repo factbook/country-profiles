@@ -385,29 +385,32 @@ _lyrics/music_: Clifford Nelson FYLE/John Joseph AKA<br>
 low-income West African economy; primarily subsistent agriculture; key iron and diamond mining activities suspended; slow recovery from 1990s civil war; systemic corruption; high-risk debt; high youth unemployment; natural resource rich<br>
 
 **Real GDP (purchasing power parity)**<br>
-$13.597 billion (2021 est.)<br>
-$13.061 billion (2020 est.)<br>
-$13.323 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$14.068 billion (2022 est.)<br>
+$13.598 billion (2021 est.)<br>
+$13.062 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+3.46% (2022 est.)<br>
 4.1% (2021 est.)<br>
 -1.97% (2020 est.)<br>
-5.25% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$1,600 (2022 est.)<br>
 $1,600 (2021 est.)<br>
 $1,600 (2020 est.)<br>
-$1,700 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.132 billion (2020 est.)<br>
+$4.095 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+27.21% (2022 est.)<br>
 11.87% (2021 est.)<br>
 13.45% (2020 est.)<br>
-14.8% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 60.7% (2017 est.)<br>
@@ -429,15 +432,18 @@ cassava, rice, vegetables, oil palm fruit, sweet potatoes, milk, citrus fruit, g
 diamond mining; iron ore, rutile and bauxite mining; small-scale manufacturing (beverages, textiles, footwear)<br>
 
 **Industrial production growth rate**<br>
-17.41% (2021 est.)<br>
+8.17% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.858 million (2021 est.)<br>
+2.829 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.33% (2021 est.)<br>
-5.2% (2020 est.)<br>
-4.65% (2019 est.)<br>
+3.27% (2022 est.)<br>
+3.66% (2021 est.)<br>
+3.57% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.8% (2021 est.)<br>
@@ -446,18 +452,22 @@ _female_: 7.6%<br>
 
 **Population below poverty line**<br>
 56.8% (2018 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 35.7 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.6%<br>
-_highest 10%_: 33.6% (2003)<br>
+_lowest 10%_: 3.4%<br>
+_highest 10%_: 29.4% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+5.67% of GDP (2022 est.)<br>
+5.47% of GDP (2021 est.)<br>
 4.36% of GDP (2020 est.)<br>
-1.67% of GDP (2019 est.)<br>
-1.79% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $740 million (2019 est.)<br>
@@ -477,14 +487,16 @@ _expenditures_: $867 million (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$275.638 million (2020 est.)<br>
--$583.555 million (2019 est.)<br>
--$504.851 million (2018 est.)<br>
+-$358.39 million (2021 est.)<br>
+-$320.411 million (2020 est.)<br>
+-$792.257 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$700.971 million (2020 est.) note: data are in current year dollars<br>
-$1.06 billion (2019 est.) note: data are in current year dollars<br>
-$963.948 million (2018 est.)<br>
+$1.114 billion (2021 est.)<br>
+$661.505 million (2020 est.) note: data are in current year dollars<br>
+$632.405 million (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Belgium 26%, China 25%, Romania 9%, United Arab Emirates 6%, Germany 5%, Netherlands 5% (2019)<br>
@@ -493,9 +505,10 @@ Belgium 26%, China 25%, Romania 9%, United Arab Emirates 6%, Germany 5%, Netherl
 titanium, lumber, diamonds, aluminum, cocoa beans (2019)<br>
 
 **Imports**<br>
-$1.418 billion (2020 est.) note: data are in current year dollars<br>
+$1.869 billion (2021 est.)<br>
+$1.386 billion (2020 est.) note: data are in current year dollars<br>
 $1.818 billion (2019 est.) note: data are in current year dollars<br>
-$1.594 billion (2018 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 27%, India 11%, United States 6%, Ghana 5%, Turkey 5% (2019)<br>
@@ -504,9 +517,10 @@ China 27%, India 11%, United States 6%, Ghana 5%, Turkey 5% (2019)<br>
 rice, plastics, packaged medicines, sauces/seasonings, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$945.908 million (31 December 2021 est.)<br>
-$707.704 million (31 December 2020 est.)<br>
-$530.138 million (31 December 2019 est.)<br>
+$624.641 million (2022 est.)<br>
+$945.908 million (2021 est.)<br>
+$707.704 million (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.615 billion (31 December 2017 est.)<br>
@@ -514,11 +528,11 @@ $1.503 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: leones (SLL) per US dollar -<br>
-10,439.425 (2021 est.)<br>
-9,829.927 (2020 est.)<br>
-9,010.221 (2019 est.)<br>
-7,931.632 (2018 est.)<br>
-7,384.432 (2017 est.)<br>
+14.048 (2022 est.)<br>
+10.439 (2021 est.)<br>
+9.83 (2020 est.)<br>
+9.01 (2019 est.)<br>
+7.932 (2018 est.)<br>
 
 ## Energy
 

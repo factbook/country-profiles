@@ -395,29 +395,32 @@ _selected World Heritage Site locales_: Town of Luangphrabang; Vat Phou and Asso
 lower middle-income, industrial Southeast Asian economy; high inflation due to 2022 currency depreciation brought on by persistently high debt; new Laos-China railway and dry port; rising inequities; ongoing labor shortages<br>
 
 **Real GDP (purchasing power parity)**<br>
+$59.842 billion (2022 est.)<br>
 $58.264 billion (2021 est.)<br>
 $56.827 billion (2020 est.)<br>
-$56.543 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+2.71% (2022 est.)<br>
 2.53% (2021 est.)<br>
 0.5% (2020 est.)<br>
-5.46% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$7,900 (2022 est.)<br>
 $7,800 (2021 est.)<br>
 $7,800 (2020 est.)<br>
-$7,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$16.97 billion (2017 est.)<br>
+$15.469 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+22.96% (2022 est.)<br>
 3.76% (2021 est.)<br>
 5.1% (2020 est.)<br>
-3.32% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2020)<br>
@@ -444,15 +447,18 @@ rice, roots/tubers nes, cassava, sugar cane, vegetables, bananas, maize, waterme
 mining (copper, tin, gold, gypsum); timber, electric power, agricultural processing, rubber, construction, garments, cement, tourism<br>
 
 **Industrial production growth rate**<br>
-7.61% (2021 est.)<br>
+3.34% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.915 million (2021 est.)<br>
+3.106 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.26% (2021 est.)<br>
-1.03% (2020 est.)<br>
-0.85% (2019 est.)<br>
+3.82% (2022 est.)<br>
+4.15% (2021 est.)<br>
+3.86% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 3.3% (2021 est.)<br>
@@ -461,22 +467,26 @@ _female_: 3.2%<br>
 
 **Population below poverty line**<br>
 18.3% (2018 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 38.8 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 50% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 10.5% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.3%<br>
-_highest 10%_: 30.3% (2008)<br>
+_lowest 10%_: 3%<br>
+_highest 10%_: 31.2% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+1.28% of GDP (2022 est.)<br>
+1.17% of GDP (2021 est.)<br>
 1.22% of GDP (2020 est.)<br>
-1.58% of GDP (2019 est.)<br>
-1.32% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $2.896 billion (2019 est.)<br>
@@ -496,14 +506,16 @@ _expenditures_: $3.839 billion (2019 est.)<br>
 1 October - 30 September<br>
 
 **Current account balance**<br>
-$446.572 million (2021 est.)<br>
+-$10.954 million (2022 est.)<br>
+$446.505 million (2021 est.)<br>
 -$230.973 million (2020 est.)<br>
--$1.32 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$8.604 billion (2022 est.)<br>
 $7.82 billion (2021 est.) note: data are in current year dollars<br>
 $6.461 billion (2020 est.) note: data are in current year dollars<br>
-$6.985 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Thailand 33%, China 27%, Vietnam 13%, Australia 8%, Switzerland 3% (2021)<br>
@@ -512,9 +524,10 @@ Thailand 33%, China 27%, Vietnam 13%, Australia 8%, Switzerland 3% (2021)<br>
 electricity, gold, paper, copper, rubber, flavored water (2021)<br>
 
 **Imports**<br>
+$7.772 billion (2022 est.)<br>
 $6.527 billion (2021 est.) note: data are in current year dollars<br>
 $5.816 billion (2020 est.) note: data are in current year dollars<br>
-$7.518 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Thailand 53%, China 26%, Vietnam 10% (2019)<br>
@@ -523,9 +536,10 @@ Thailand 53%, China 26%, Vietnam 10% (2019)<br>
 refined petroleum, gold, cars, broadcasting equipment, delivery trucks, tractors (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.476 billion (31 December 2021 est.)<br>
-$1.393 billion (31 December 2020 est.)<br>
-$1.111 billion (31 December 2019 est.)<br>
+$1.216 billion (2022 est.)<br>
+$1.476 billion (2021 est.)<br>
+$1.393 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $14.9 billion (31 December 2017 est.)<br>
@@ -533,11 +547,11 @@ $12.9 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: kips (LAK) per US dollar -<br>
+14,035.227 (2022 est.)<br>
 9,697.916 (2021 est.)<br>
 9,045.788 (2020 est.)<br>
 8,679.409 (2019 est.)<br>
 8,401.335 (2018 est.)<br>
-8,244.843 (2017 est.)<br>
 
 ## Energy
 

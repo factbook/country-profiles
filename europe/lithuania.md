@@ -388,29 +388,32 @@ _selected World Heritage Site locales_: Vilnius Historic Center; Curonian Spit; 
 high-income, EU-member, largest Baltic economy; privatized most state-owned enterprises; unmoved youth emigration; systemic corruption; issued Europe&rsquo;s first bank-backed digital coin (LBCOIN); highly educated workforce; lowest EU household debt<br>
 
 **Real GDP (purchasing power parity)**<br>
-$110.089 billion (2021 est.)<br>
-$103.876 billion (2020 est.)<br>
-$103.898 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$113.139 billion (2022 est.)<br>
+$110.444 billion (2021 est.)<br>
+$103.913 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.98% (2021 est.)<br>
+2.44% (2022 est.)<br>
+6.28% (2021 est.)<br>
 -0.02% (2020 est.)<br>
-4.63% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$39,300 (2021 est.)<br>
+$40,000 (2022 est.)<br>
+$39,400 (2021 est.)<br>
 $37,200 (2020 est.)<br>
-$37,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$54.597 billion (2019 est.)<br>
+$70.974 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+19.71% (2022 est.)<br>
 4.68% (2021 est.)<br>
 1.2% (2020 est.)<br>
-2.33% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A (2020)<br>
@@ -438,15 +441,18 @@ wheat, milk, sugar beets, rapeseeds, barley, triticale, potatoes, oats, peas, be
 metal-cutting machine tools, electric motors, televisions, refrigerators and freezers, petroleum refining, shipbuilding (small ships), furniture, textiles, food processing, fertilizer, agricultural machinery, optical equipment, lasers, electronic components, computers, amber jewelry, information technology, video game development, app/software development, biotechnology<br>
 
 **Industrial production growth rate**<br>
-8.58% (2021 est.)<br>
+2.78% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.476 million (2021 est.)<br>
+1.489 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.9% (2021 est.)<br>
+5.96% (2022 est.)<br>
+7.11% (2021 est.)<br>
 8.49% (2020 est.)<br>
-6.26% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 19% (2021 est.)<br>
@@ -454,23 +460,27 @@ _male_: 18.5%<br>
 _female_: 19.6%<br>
 
 **Population below poverty line**<br>
-20.6% (2018 est.)<br>
+20.9% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-35.3 (2019 est.)<br>
+36 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 21.2% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 5.9% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.2%<br>
-_highest 10%_: 28.8% (2015)<br>
+_lowest 10%_: 2.7%<br>
+_highest 10%_: 28.5% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.17% of GDP (2021 est.)<br>
+1.04% of GDP (2022 est.)<br>
+1.16% of GDP (2021 est.)<br>
 1.39% of GDP (2020 est.)<br>
-2.38% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $18.636 billion (2019 est.)<br>
@@ -480,26 +490,29 @@ _expenditures_: $18.491 billion (2019 est.)<br>
 0.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-53.28% of GDP (2020 est.)<br>
-42.66% of GDP (2019 est.)<br>
-39% of GDP (2018 est.)<br>
-<strong>note:</strong> official data; data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions<br>
+48.63% of GDP (2021 est.)<br>
+53.31% of GDP (2020 est.)<br>
+42.6% of GDP (2019 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-19.88% (of GDP) (2020 est.)<br>
+21.27% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$756.476 million (2021 est.)<br>
-$4.165 billion (2020 est.)<br>
-$1.929 billion (2019 est.)<br>
+-$3,873,984,000 (2022 est.)<br>
+$766.788 million (2021 est.)<br>
+$4.161 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$61.444 billion (2022 est.)<br>
 $53.397 billion (2021 est.) note: data are in current year dollars<br>
 $41.721 billion (2020 est.) note: data are in current year dollars<br>
-$42.323 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Russia 10%, Latvia 9%, Germany 8%, Poland 7%, United States 6% (2021)<br>
@@ -508,9 +521,10 @@ Russia 10%, Latvia 9%, Germany 8%, Poland 7%, United States 6% (2021)<br>
 refined petroleum, wooden furniture, wheat, laboratory reagents, cigarettes (2021)<br>
 
 **Imports**<br>
+$62.853 billion (2022 est.)<br>
 $50.377 billion (2021 est.) note: data are in current year dollars<br>
 $36.414 billion (2020 est.) note: data are in current year dollars<br>
-$39.419 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Poland 12%, Germany 12%, Russia 11%, Latvia 8%, Netherlands 5% (2021)<br>
@@ -519,9 +533,10 @@ Poland 12%, Germany 12%, Russia 11%, Latvia 8%, Netherlands 5% (2021)<br>
 crude petroleum, cars, electricity, packaged medicines, broadcasting equipment, natural gas (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$5.58 billion (31 December 2021 est.)<br>
-$4.847 billion (31 December 2020 est.)<br>
-$5.085 billion (31 December 2019 est.)<br>
+$5.365 billion (2022 est.)<br>
+$5.58 billion (2021 est.)<br>
+$4.847 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $37.859 billion (2019 est.)<br>
@@ -529,11 +544,11 @@ $41.999 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
 0.847 (2018 est.)<br>
-0.885 (2017 est.)<br>
 
 ## Energy
 

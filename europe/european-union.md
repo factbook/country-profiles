@@ -258,29 +258,32 @@ _lyrics/music_: no lyrics/Ludwig VAN BEETHOVEN, arranged by Herbert VON KARAJAN<
 ## Economy
 
 **Real GDP (purchasing power parity)**<br>
-$19.739 trillion (2021 est.)<br>
-$18.716 trillion (2020 est.)<br>
-$19.847 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$20.569 trillion (2022 est.)<br>
+$19.86 trillion (2021 est.)<br>
+$18.724 trillion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.39% (2021 est.)<br>
--5.68% (2020 est.)<br>
-1.81% (2019 est.)<br>
+3.44% (2022 est.)<br>
+6.02% (2021 est.)<br>
+-5.65% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$44,100 (2021 est.)<br>
+$46,000 (2022 est.)<br>
+$44,400 (2021 est.)<br>
 $41,800 (2020 est.)<br>
-$44,400 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$17.11 trillion (2017 est.)<br>
+$16.746 trillion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.83% (2022 est.)<br>
 2.55% (2021 est.)<br>
-0.5% (2020 est.)<br>
-1.63% (2019 est.)<br>
+0.48% (2020 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (2010)<br>
@@ -308,15 +311,18 @@ wheat, barley, oilseeds, sugar beets, wine, grapes, dairy products, cattle, shee
 among the world's largest and most technologically advanced regions, the EU industrial base includes: ferrous and non-ferrous metal production and processing, metal products, petroleum, coal, cement, chemicals, pharmaceuticals, aerospace, rail transportation equipment, passenger and commercial vehicles, construction equipment, industrial equipment, shipbuilding, electrical power equipment, machine tools and automated manufacturing systems, electronics and telecommunications equipment, fishing, food and beverages, furniture, paper, textiles<br>
 
 **Industrial production growth rate**<br>
-6.43% (2021 est.)<br>
+1.97% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-217.042 million (2021 est.)<br>
+219.322 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.05% (2021 est.)<br>
-7.05% (2020 est.)<br>
-6.69% (2019 est.)<br>
+6.15% (2022 est.)<br>
+7.02% (2021 est.)<br>
+7.04% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 19.5% (2021 est.)<br>
@@ -335,9 +341,10 @@ _lowest 10%_: 2.8%<br>
 _highest 10%_: 23.8% (2016 est.)<br>
 
 **Remittances**<br>
+0.85% of GDP (2022 est.)<br>
 0.78% of GDP (2021 est.)<br>
-0.79% of GDP (2020 est.)<br>
-0.81% of GDP (2019 est.)<br>
+0.8% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3% (of GDP) (2014)<br>
@@ -347,7 +354,8 @@ _highest 10%_: 23.8% (2016 est.)<br>
 85.5% of GDP (2013)<br>
 
 **Taxes and other revenues**<br>
-19.41% (of GDP) (2020 est.)<br>
+19.8% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 NA<br>
@@ -357,10 +365,10 @@ $404.9 billion (2017 est.)<br>
 $359.7 billion (2016 est.)<br>
 
 **Exports**<br>
-$8.705 trillion (2021 est.)<br>
-$7.175 trillion (2020 est.)<br>
-$7.765 trillion (2019 est.)<br>
-<strong>note:</strong> external exports, excluding intra-EU trade<br>
+$9.446 trillion (2022 est.)<br>
+$8.777 trillion (2021 est.)<br>
+$7.182 trillion (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 18%, United Kingdom 13%, China 10%, Switzerland 7%, Russia 4% (2021)<br>
@@ -369,10 +377,10 @@ United States 18%, United Kingdom 13%, China 10%, Switzerland 7%, Russia 4% (202
 cars and vehicle parts, packaged medicines, vaccines and cultures, refined petroleum, aircraft, integrated circuits, medical instruments, gas turbines (2021)<br>
 
 **Imports**<br>
-$8.037 trillion (2021 est.)<br>
-$6.6 trillion (2020 est.)<br>
-$7.18 trillion (2019 est.)<br>
-<strong>note:</strong> external imports, excluding intra-EU trade<br>
+$9.114 trillion (2022 est.)<br>
+$8.088 trillion (2021 est.)<br>
+$6.599 trillion (2020 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 22%, United States 11%, United Kingdom 8%, Russia 7%, Switzerland 6% (2021)<br>
@@ -390,12 +398,12 @@ $29.27 trillion (31 December 2016 est.)<br>
 $28.68 trillion (31 December 2015 est.)<br>
 
 **Exchange rates**<br>
-_Currency_: euros per US dollar -<br>
-0.885 (2017 est.)<br>
-0.903 (2016 est.)<br>
-0.9214 (2015 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+_Currency_: euros (EUR) per US dollar -<br>
+0.95 (2022 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
 
 ## Energy
 
@@ -483,7 +491,7 @@ the 27 EU countries have a cumulative total of approximately 1.34 million active
 <strong>note:</strong> the combined forces of NATO have approximately 3.3 million active duty personnel<br>
 
 **Military deployments**<br>
-since 2003, the EU has launched more than 30 civilian and military crisis-management, advisory, and training missions in Africa, Asia, Europe, and the Middle East, as well as counter-piracy operations off the coast of Somalia and a naval operation in the Mediterranean to disrupt human smuggling and trafficking networks and prevent the loss of life at sea (2023)<br>
+since 2003, the EU has launched more than 30 civilian and military crisis-management, advisory, and training missions in Africa, Asia, Europe, and the Middle East, as well as counter-piracy operations off the coast of Somalia and a naval operation in the Mediterranean to disrupt human smuggling and trafficking networks and prevent the loss of life at sea (2024)<br>
 <strong>note:</strong> in response to the 2022 Russian invasion of Ukraine, the EU announced that it would develop a rapid deployment force consisting of up to 5,000 troops by 2025<br>
 
 **Military - note**<br>

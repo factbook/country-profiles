@@ -373,29 +373,32 @@ _selected World Heritage Site locales_: Blue and John Crow Mountains<br>
 upper middle-income Caribbean island economy; ongoing debt restructuring; hurricane-vulnerable economy; high crime, youth unemployment, and poverty; susceptible to commodity shocks from ongoing Russia invasion of Ukraine<br>
 
 **Real GDP (purchasing power parity)**<br>
-$27.136 billion (2021 est.)<br>
-$25.943 billion (2020 est.)<br>
-$28.825 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$28.579 billion (2022 est.)<br>
+$27.161 billion (2021 est.)<br>
+$25.966 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+5.22% (2022 est.)<br>
 4.6% (2021 est.)<br>
--10% (2020 est.)<br>
-0.89% (2019 est.)<br>
+-9.92% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$10,100 (2022 est.)<br>
 $9,600 (2021 est.)<br>
 $9,200 (2020 est.)<br>
-$10,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$15.847 billion (2019 est.)<br>
+$17.098 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+10.35% (2022 est.)<br>
 5.86% (2021 est.)<br>
 5.23% (2020 est.)<br>
-3.91% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2019)<br>
@@ -423,15 +426,18 @@ sugar cane, goat milk, yams, poultry, coconuts, oranges, bananas, gourds, planta
 agriculture, mining, manufacture, construction, financial and insurance services, tourism, telecommunications<br>
 
 **Industrial production growth rate**<br>
-2.38% (2021 est.)<br>
+-0.38% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.418 million (2021 est.)<br>
+1.517 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.18% (2021 est.)<br>
-9.48% (2020 est.)<br>
-7.69% (2019 est.)<br>
+5.5% (2022 est.)<br>
+6.16% (2021 est.)<br>
+6.5% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 26.1% (2021 est.)<br>
@@ -449,9 +455,10 @@ _lowest 10%_: 2.6%<br>
 _highest 10%_: 29.3% (2015)<br>
 
 **Remittances**<br>
+21.57% of GDP (2022 est.)<br>
 25.29% of GDP (2021 est.)<br>
 22.2% of GDP (2020 est.)<br>
-16.19% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $4.029 billion (2020 est.)<br>
@@ -464,22 +471,26 @@ _expenditures_: $4.564 billion (2020 est.)<br>
 106.28% of GDP (2020 est.)<br>
 92.25% of GDP (2019 est.)<br>
 102.46% of GDP (2017 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 25.71% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
-$125.275 million (2021 est.)<br>
--$61.433 million (2020 est.)<br>
--$350.949 million (2019 est.)<br>
+-$129.756 million (2022 est.)<br>
+$149.262 million (2021 est.)<br>
+-$156.91 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$4.385 billion (2021 est.) note: data are in current year dollars<br>
-$3.343 billion (2020 est.) note: data are in current year dollars<br>
-$5.991 billion (2019 est.)<br>
+$6.424 billion (2022 est.)<br>
+$4.401 billion (2021 est.) note: data are in current year dollars<br>
+$3.249 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 46%, Netherlands 9%, Canada 6%, United Kingdom 4%, Russia 3% (2021)<br>
@@ -488,9 +499,10 @@ United States 46%, Netherlands 9%, Canada 6%, United Kingdom 4%, Russia 3% (2021
 aluminum oxide, refined petroleum, aluminum, rums, fruits, nuts, natural gas, sauces and seasonings (2021)<br>
 
 **Imports**<br>
-$7.414 billion (2021 est.) note: data are in current year dollars<br>
-$5.911 billion (2020 est.) note: data are in current year dollars<br>
-$8.317 billion (2019 est.)<br>
+$9.726 billion (2022 est.)<br>
+$7.405 billion (2021 est.) note: data are in current year dollars<br>
+$5.913 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 35%, China 13%, Turkey 5%, Trinidad and Tobago 3%, Japan 3% (2021)<br>
@@ -499,9 +511,10 @@ United States 35%, China 13%, Turkey 5%, Trinidad and Tobago 3%, Japan 3% (2021)
 refined petroleum, natural gas, cars, crude petroleum, iron bars, steel bars (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$4.838 billion (31 December 2021 est.)<br>
-$3.938 billion (31 December 2020 est.)<br>
-$3.631 billion (31 December 2019 est.)<br>
+$4.52 billion (2022 est.)<br>
+$4.838 billion (2021 est.)<br>
+$3.938 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $13.876 billion (2019 est.)<br>
@@ -509,11 +522,11 @@ $13.912 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Jamaican dollars (JMD) per US dollar -<br>
+153.427 (2022 est.)<br>
 150.79 (2021 est.)<br>
 142.403 (2020 est.)<br>
 133.312 (2019 est.)<br>
 128.872 (2018 est.)<br>
-127.965 (2017 est.)<br>
 
 ## Energy
 

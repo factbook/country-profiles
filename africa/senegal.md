@@ -350,11 +350,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Macky SALL (since 2 April 2012)<br>
+_chief of state_: President Bassirou Diomaye FAYE (since 2 April 2024)<br>
 _head of government_: Prime Minister Sidiki KABA (since 9 March 2024); note - on 6 March 2024, President Macky SALL dismissed Prime Minister Amadou BA and the cabinet and appointed Sidiki KABA to be prime minister and form a new cabinet<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single, renewable 5-year term; election last held on 24 February 2019 (next to be held on 24 March 2024)<br>
-_election results_: <br><em><em>2019:</em></em> Macky SALL reelected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%, other 5.5% <p><em>2012:</em> Macky SALL elected president in second round; percent of vote in second round - Macky SALL (APR) 65.8%, Abdoulaye WADE (PDS) 34.2% </p><br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single, renewable 5-year term; election last held on 24 March 2024 (next to be held in 2029)<br>
+_election results_: <em>2024:</em> Bassirou Diomaye FAYE elected president in first round; percent of vote - Bassirou Diomaye FAYE (PASTEF) 54%, Amadou BA (APR) 36%, other 10%<br><em><em><br>2019:</em></em> Macky SALL reelected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%, other 5.5% <p> </p><br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or <em>Assemblée</em> Nationale (165 seats; 112 members including 15 representing Senegalese diaspora directly elected by plurality vote in single- and multi-seat constituencies and 53 members directly elected by proportional representation vote in a single nationwide constituency; member term is 5-years)<br>
@@ -409,29 +409,32 @@ _selected World Heritage Site locales_: Island of Gor&eacute;e (c); Niokolo-Koba
 lower middle-income, services-driven West African economy; key mining, construction, agriculture, and fishing industries; tourism and exports hit hard by COVID-19; large informal economy; developing offshore oil and gas fields; systemic corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
-$58.991 billion (2021 est.)<br>
-$55.618 billion (2020 est.)<br>
-$54.89 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$61.727 billion (2022 est.)<br>
+$59.265 billion (2021 est.)<br>
+$55.627 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.06% (2021 est.)<br>
-1.33% (2020 est.)<br>
-4.61% (2019 est.)<br>
+4.15% (2022 est.)<br>
+6.54% (2021 est.)<br>
+1.34% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$3,600 (2022 est.)<br>
 $3,500 (2021 est.)<br>
 $3,400 (2020 est.)<br>
-$3,400 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$23.576 billion (2019 est.)<br>
+$27.684 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.55% (2020 est.)<br>
-1.76% (2019 est.)<br>
-0.46% (2018 est.)<br>
+9.7% (2022 est.)<br>
+2.18% (2021 est.)<br>
+2.54% (2020 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Ba3 (2017)<br>
@@ -458,15 +461,18 @@ groundnuts, watermelons, rice, sugar cane, cassava, millet, maize, onions, sorgh
 agricultural and fish processing, phosphate mining, fertilizer production, petroleum refining, zircon, and gold mining, construction materials, ship construction and repair<br>
 
 **Industrial production growth rate**<br>
-10.91% (2021 est.)<br>
+1.14% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.377 million (2021 est.)<br>
+5.124 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.72% (2021 est.)<br>
-3.62% (2020 est.)<br>
-2.86% (2019 est.)<br>
+3.01% (2022 est.)<br>
+3.32% (2021 est.)<br>
+3.34% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 5% (2021 est.)<br>
@@ -477,16 +483,19 @@ _female_: 7.5%<br>
 46.7% (2011 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-38.1 (2018 est.)<br>
+38.3 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.5%<br>
-_highest 10%_: 31.1% (2011)<br>
+_lowest 10%_: 3%<br>
+_highest 10%_: 30.8% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-10.46% of GDP (2020 est.)<br>
-10.78% of GDP (2019 est.)<br>
-10.5% of GDP (2018 est.)<br>
+9.03% of GDP (2022 est.)<br>
+11.23% of GDP (2021 est.)<br>
+10.63% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $4.76 billion (2019 est.)<br>
@@ -500,19 +509,23 @@ _expenditures_: $5.662 billion (2019 est.)<br>
 47.8% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-16.38% (of GDP) (2018 est.)<br>
+18.66% (of GDP) (2022 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$2.215 billion (2018 est.)<br>
--$1.526 billion (2017 est.)<br>
--$795.648 million (2016 est.)<br>
+-$3,327,280,000 (2021 est.)<br>
+-$2,662,353,000 (2020 est.)<br>
+-$1,897,946,000 (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$5.287 billion (2018 est.) note: data are in current year dollars<br>
-$4.593 billion (2017 est.)<br>
+$6.78 billion (2021 est.)<br>
+$5.063 billion (2020 est.)<br>
+$5.836 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Mali 22%, Switzerland 14%, India 9%, China 7% (2019)<br>
@@ -521,8 +534,10 @@ Mali 22%, Switzerland 14%, India 9%, China 7% (2019)<br>
 gold, refined petroleum, phosphoric acid, fish, ground nuts (2019)<br>
 
 **Imports**<br>
-$8.96 billion (2018 est.) note: data are in current year dollars<br>
-$7.499 billion (2017 est.)<br>
+$12.278 billion (2021 est.)<br>
+$9.627 billion (2020 est.)<br>
+$9.17 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 17%, France 11%, Belgium 7%, Russia 7%, Netherlands 7% (2019)<br>
@@ -540,11 +555,11 @@ $6.327 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
 555.446 (2018 est.)<br>
-580.657 (2017 est.)<br>
 
 ## Energy
 

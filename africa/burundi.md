@@ -399,29 +399,32 @@ _lyrics/music_: Jean-Baptiste NTAHOKAJA/Marc BARENGAYABO<br>
 highly agrarian, low-income Sub-Saharan economy; declining foreign assistance; increasing fiscal insolvencies; dense and still growing population; COVID-19 weakened economic recovery and flipped two years of deflation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$8.849 billion (2021 est.)<br>
+$9.128 billion (2022 est.)<br>
+$8.962 billion (2021 est.)<br>
 $8.693 billion (2020 est.)<br>
-$8.665 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.8% (2021 est.)<br>
+1.85% (2022 est.)<br>
+3.1% (2021 est.)<br>
 0.33% (2020 est.)<br>
-1.81% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$700 (2022 est.)<br>
 $700 (2021 est.)<br>
 $700 (2020 est.)<br>
-$700 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.027 billion (2019 est.)<br>
+$3.339 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+18.8% (2022 est.)<br>
 8.4% (2021 est.)<br>
 7.32% (2020 est.)<br>
--0.69% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 39.5% (2017 est.)<br>
@@ -443,16 +446,18 @@ cassava, bananas, sweet potatoes, plantains, beans, vegetables, potatoes, cashew
 light consumer goods (sugar, shoes, soap, beer); cement, assembly of imported components; public works construction; food processing (fruits)<br>
 
 **Industrial production growth rate**<br>
-1.4% (2021 est.)<br>
+3.16% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.271 million (2021 est.)<br>
+5.511 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.79% (2021 est.)<br>
-1.71% (2020 est.)<br>
-1.59% (2019 est.)<br>
-NA<br>
+0.91% (2022 est.)<br>
+1.14% (2021 est.)<br>
+1.03% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 3.4% (2021 est.)<br>
@@ -460,19 +465,23 @@ _male_: 4.6%<br>
 _female_: 2.5%<br>
 
 **Population below poverty line**<br>
-64.6% (2014 est.)<br>
+64.9% (2013 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 38.6 (2013 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4.1%<br>
-_highest 10%_: 28% (2006)<br>
+_lowest 10%_: 2.8%<br>
+_highest 10%_: 31% (2013 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.72% of GDP (2020 est.)<br>
-1.88% of GDP (2019 est.)<br>
-1.82% of GDP (2018 est.)<br>
+1.45% of GDP (2022 est.)<br>
+1.74% of GDP (2021 est.)<br>
+1.82% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $747 million (2020 est.)<br>
@@ -495,11 +504,12 @@ calendar year<br>
 -$362.645 million (2018 est.)<br>
 -$373.389 million (2017 est.)<br>
 -$339.695 million (2016 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $285.105 million (2018 est.)<br>
 $315 million (2017 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United Arab Emirates 50%, Democratic Republic of the Congo 7% (2019)<br>
@@ -511,6 +521,7 @@ gold, coffee, tea, raw earth metal ores, beer (2021)<br>
 **Imports**<br>
 $905.294 million (2018 est.) note: data are in current year dollars<br>
 $1.295 billion (2017 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 14%, Saudi Arabia 14%, India 9%, Kenya 7%, United Arab Emirates 7%, Tanzania 5%, Zambia 5% (2019)<br>
@@ -519,9 +530,10 @@ China 14%, Saudi Arabia 14%, India 9%, Kenya 7%, United Arab Emirates 7%, Tanzan
 refined petroleum, packaged medicines, cement, raw sugar, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$266.164 million (31 December 2021 est.)<br>
-$90.319 million (31 December 2020 est.)<br>
-$111.374 million (31 December 2019 est.)<br>
+$163.238 million (2022 est.)<br>
+$266.164 million (2021 est.)<br>
+$90.319 million (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $610.9 million (31 December 2017 est.)<br>
@@ -529,11 +541,11 @@ $622.4 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Burundi francs (BIF) per US dollar -<br>
+2,034.307 (2022 est.)<br>
 1,975.951 (2021 est.)<br>
 1,915.046 (2020 est.)<br>
 1,845.623 (2019 est.)<br>
 1,782.877 (2018 est.)<br>
-1,729.055 (2017 est.)<br>
 
 ## Energy
 
@@ -637,7 +649,7 @@ _subscriptions per 100 inhabitants_: 0.04 (2020 est.)<br>
 6 (2024)<br>
 
 **Roadways**<br>
-_total_: 12,000 km (2020)<br>
+_total_: 12,000 km<br>
 _paved_: 1,500 km (2020)<br>
 
 **Waterways**<br>
@@ -680,7 +692,7 @@ the FDNB is responsible for defending Burundi’s territorial integrity and prot
 <p><em>Burundi-Rwanda: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 86,701 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
+_refugees (country of origin)_: 87,157 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
 _IDPs_: 76,987 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1993 coup and fighting between government forces and rebel groups; violence since April 2015) (2023)<br>
 _stateless persons_: 767 (mid-year 2021)<br>
 

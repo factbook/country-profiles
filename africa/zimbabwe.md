@@ -408,29 +408,32 @@ _selected World Heritage Site locales_: Mana Pools National Park, Sapi, and Chew
 low income Sub-Saharan economy; political instability, protest crackdowns, and COVID-19 have damaged economic potential; reliant on natural resource extraction and agriculture; endemic corruption; ongoing hyperinflation<br>
 
 **Real GDP (purchasing power parity)**<br>
+$36.035 billion (2022 est.)<br>
 $33.829 billion (2021 est.)<br>
 $31.188 billion (2020 est.)<br>
-$33.832 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+6.52% (2022 est.)<br>
 8.47% (2021 est.)<br>
 -7.82% (2020 est.)<br>
--6.33% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,200 (2022 est.)<br>
 $2,100 (2021 est.)<br>
 $2,000 (2020 est.)<br>
-$2,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$21.441 billion (2019 est.)<br>
+$27.367 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+104.71% (2022 est.)<br>
 98.55% (2021 est.)<br>
 557.2% (2020 est.)<br>
-255.3% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 12% (2017 est.)<br>
@@ -452,16 +455,18 @@ sugar cane, maize, milk, tobacco, cassava, vegetables, bananas, beef, cotton, or
 mining (coal, gold, platinum, copper, nickel, tin, diamonds, clay, numerous metallic and nonmetallic ores), steel; wood products, cement, chemicals, fertilizer, clothing and footwear, foodstuffs, beverages<br>
 
 **Industrial production growth rate**<br>
-6.37% (2021 est.)<br>
+5.5% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-7.916 million (2021 est.)<br>
+6.371 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.17% (2021 est.)<br>
-5.35% (2020 est.)<br>
-4.83% (2019 est.)<br>
-<strong>note:</strong> data include both unemployment and underemployment; true unemployment is unknown and, under current economic conditions, unknowable<br>
+9.26% (2022 est.)<br>
+9.54% (2021 est.)<br>
+8.65% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 7.3% (2021 est.)<br>
@@ -470,18 +475,22 @@ _female_: 8.5%<br>
 
 **Population below poverty line**<br>
 38.3% (2019 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 50.3 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2%<br>
-_highest 10%_: 40.4% (1995)<br>
+_lowest 10%_: 2.5%<br>
+_highest 10%_: 34.8% (2017 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+11.27% of GDP (2022 est.)<br>
+9.07% of GDP (2021 est.)<br>
 8.52% of GDP (2020 est.)<br>
-6.49% of GDP (2019 est.)<br>
-4.18% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $17 million (2018 est.)<br>
@@ -496,6 +505,7 @@ _expenditures_: $23 million (2018 est.)<br>
 
 **Taxes and other revenues**<br>
 7.21% (of GDP) (2018 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -504,11 +514,13 @@ calendar year<br>
 $1.096 billion (2020 est.)<br>
 $920.472 million (2019 est.)<br>
 -$1.38 billion (2018 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $5.263 billion (2020 est.)<br>
 $5.267 billion (2019 est.)<br>
 $5.178 billion (2018 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United Arab Emirates 40%, South Africa 23%, Mozambique 9% (2019)<br>
@@ -520,6 +532,7 @@ gold, tobacco, iron alloys, nickel, diamonds, jewelry (2019)<br>
 $5.489 billion (2020 est.)<br>
 $5.398 billion (2019 est.)<br>
 $7.642 billion (2018 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 South Africa 41%, Singapore 23%, China 8% (2019)<br>
@@ -528,9 +541,10 @@ South Africa 41%, Singapore 23%, China 8% (2019)<br>
 refined petroleum, delivery trucks, packaged medicines, fertilizers, tractors (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$838.78 million (31 December 2021 est.)<br>
-$33.405 million (31 December 2020 est.)<br>
-$151.241 million (31 December 2019 est.)<br>
+$598.622 million (2022 est.)<br>
+$838.78 million (2021 est.)<br>
+$33.405 million (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $9.357 billion (31 December 2017 est.)<br>
@@ -538,6 +552,7 @@ $10.14 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Zimbabwean dollars (ZWD) per US dollar -<br>
+374.954 (2022 est.)<br>
 88.552 (2021 est.)<br>
 51.329 (2020 est.)<br>
 16.446 (2019 est.)<br>
@@ -711,7 +726,7 @@ has a nascent program with the goal of utilizing space technologies in economic 
 <p><em>Zimbabwe-Mozambique: none identified<br><br>Zimbabwe-South Africa: </em>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration<em><br><br>Zimbabwe-Zambia: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,931 (Mozambique) (2023); 12,163 (Democratic Republic of Congo) (refugees and asylum seekers) (2024)<br>
+_refugees (country of origin)_: 9,931 (Mozambique) (2023); 12,293 (Democratic Republic of Congo) (refugees and asylum seekers) (2024)<br>
 
 **Illicit drugs**<br>
 <p>transit point for cannabis and South Asian heroin, methaqualone, and methamphetamines en route to South Africa</p><br>

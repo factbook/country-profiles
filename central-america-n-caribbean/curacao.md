@@ -309,27 +309,32 @@ _selected World Heritage Site locales_: Historic Willemstad<br>
 high-income island economy; developed infrastructure; tourism and financial services-based economy; investing in information technology incentives; oil refineries service Venezuela and China; unique COVID-19 stimulus support applied to government debts rather than household support<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.167 billion (2021 est.) note: data are in 2017 dollars<br>
-$3.038 billion (2020 est.) note: data are in 2017 dollars<br>
-$3.725 billion (2019 est.)<br>
+$3.467 billion (2022 est.)<br>
+$3.214 billion (2021 est.)<br>
+$3.085 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.23% (2021 est.)<br>
--18.44% (2020 est.)<br>
--3.37% (2019 est.)<br>
+7.89% (2022 est.)<br>
+4.18% (2021 est.)<br>
+-18.04% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$20,800 (2021 est.) note: data are in 2017 dollars<br>
-$19,600 (2020 est.) note: data are in 2017 dollars<br>
-$23,700 (2019 est.)<br>
+$23,100 (2022 est.)<br>
+$21,100 (2021 est.)<br>
+$19,900 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$5.6 billion (2012 est.)<br>
+$3.075 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 2.62% (2019 est.)<br>
 2.58% (2018 est.)<br>
 1.59% (2017 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.7% (2012 est.)<br>
@@ -351,7 +356,8 @@ aloe, sorghum, peanuts, vegetables, tropical fruit<br>
 tourism, petroleum refining, petroleum transshipment, light manufacturing, financial and business services<br>
 
 **Industrial production growth rate**<br>
-NA<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 73,010 (2013)<br>
@@ -366,9 +372,10 @@ _male_: 38.1%<br>
 _female_: 47.1%<br>
 
 **Remittances**<br>
-5.24% of GDP (2020 est.)<br>
-5.88% of GDP (2019 est.)<br>
-5.14% of GDP (2018 est.)<br>
+4.06% of GDP (2022 est.)<br>
+5.17% of GDP (2021 est.)<br>
+5.22% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.4% (of GDP) (2012 est.)<br>
@@ -381,15 +388,16 @@ _female_: 47.1%<br>
 16.6% (of GDP) (2012 est.)<br>
 
 **Current account balance**<br>
--$596.437 million (2021 est.)<br>
+-$877.284 million (2022 est.)<br>
+-$507.018 million (2021 est.)<br>
 -$688.805 million (2020 est.)<br>
--$540.731 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$1.28 billion (2021 est.)<br>
+$2.049 billion (2022 est.)<br>
+$1.373 billion (2021 est.)<br>
 $1.014 billion (2020 est.)<br>
-$1.775 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Switzerland 27%, United States 17%, Spain 14%, Ecuador 7%, India 7%, Antigua and Barbuda 5% (2019)<br>
@@ -398,9 +406,10 @@ Switzerland 27%, United States 17%, Spain 14%, Ecuador 7%, India 7%, Antigua and
 refined petroleum, crude petroleum, petroleum coke, frozen fish, fishing ships (2021)<br>
 
 **Imports**<br>
-$1.915 billion (2021 est.) note: data are in current year dollars<br>
+$2.904 billion (2022 est.)<br>
+$1.919 billion (2021 est.) note: data are in current year dollars<br>
 $1.709 billion (2020 est.) note: data are in current year dollars<br>
-$2.331 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 35%, Netherlands 24%, China 5% (2019)<br>
@@ -408,16 +417,13 @@ United States 35%, Netherlands 24%, China 5% (2019)<br>
 **Imports - commodities**<br>
 refined petroleum, cars, crude petroleum, packaged medicines, perfumes (2019)<br>
 
-**Reserves of foreign exchange and gold**<br>
-$0 (31 December 2017 est.)<br>
-
 **Exchange rates**<br>
 _Currency_: Netherlands Antillean guilders (ANG) per US dollar -<br>
+1.79 (2022 est.)<br>
 1.79 (2021 est.)<br>
 1.79 (2020 est.)<br>
 1.79 (2019 est.)<br>
 1.79 (2018 est.)<br>
-1.79 (2017 est.)<br>
 
 ## Energy
 

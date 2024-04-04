@@ -314,6 +314,7 @@ $5.531 billion (2014 est.)<br>
 1.06% (2021 est.)<br>
 -11.39% (2020 est.)<br>
 2.6% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $35,600 (2016 est.)<br>
@@ -321,7 +322,8 @@ $35,200 (2015 est.)<br>
 $34,400 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$5.793 billion (2016 est.)<br>
+$6.123 billion (2021 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1% (2017 est.)<br>
@@ -347,16 +349,18 @@ fruits, copra, vegetables; eggs, pork, poultry, beef<br>
 national defense, tourism, construction, transshipment services, concrete products, printing and publishing, food processing, textiles<br>
 
 **Industrial production growth rate**<br>
-NA<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-76,200 (2021 est.)<br>
-<strong>note:</strong> includes only the civilian labor force<br>
+80,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.98% (2021 est.)<br>
-6.8% (2020 est.)<br>
-5.51% (2019 est.)<br>
+5.57% (2022 est.)<br>
+6% (2021 est.)<br>
+6.25% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.3% (2021 est.)<br>

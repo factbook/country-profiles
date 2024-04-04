@@ -325,9 +325,9 @@ _residency requirement for naturalization_: 10 years; 6 years if from a Portugue
 
 **Executive branch**<br>
 _chief of state_: President Marcelo REBELO DE SOUSA (since 9 March 2016)<br>
-_head of government_: Prime Minister Antonio Luis Santos da COSTA (since 24 November 2015); note - da COSTA resigned on 7 November 2023 but remains in caretaker status until new prime minister is selected following the elections held on 10 March 2024<br>
+_head of government_: Prime Minister Antonio Luis MONTENEGRO (since 2 April 2024)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 January 2021 (next to be held on 10 March 2024); following legislative elections the leader of the majority party or majority coalition is usually appointed prime minister by the president<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 January 2021 (next to be held in January 2026); following legislative elections the leader of the majority party or majority coalition is usually appointed prime minister by the president<br>
 _election results_: <br><em>2021:</em> Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (ran as an independent but is a member of PS) 13%, Andre VENTURA (CH) 11.9%, João FERREIRA (PCP-PEV) 4.3%, other 10.1%<br><br><em>2016:</em> Marcelo REBELO DE SOUSA elected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 52%, António SAMPAIO DA NOVOA (independent) 22.9%, Marisa MATIAS (BE) 10.1%, Maria DE BELEM ROSEIRA (PS) 4.2%, other 10.8% <p> </p><br>
 <strong>note:</strong> there is also a Council of State that acts as a consultative body to the president<br>
 
@@ -386,29 +386,32 @@ _selected World Heritage Site locales_: Historic Évora (c); Central Zone of the
 fast-growing, high-income European economy; EU and NATO member; heavy Chinese infrastructure ownership; key tourism, banking, and telecommunications sectors; declining populations; major energy exporter<br>
 
 **Real GDP (purchasing power parity)**<br>
-$347.694 billion (2021 est.)<br>
+$372.331 billion (2022 est.)<br>
+$348.535 billion (2021 est.)<br>
 $329.623 billion (2020 est.)<br>
-$359.46 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.48% (2021 est.)<br>
+6.83% (2022 est.)<br>
+5.74% (2021 est.)<br>
 -8.3% (2020 est.)<br>
-2.68% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$33,700 (2021 est.)<br>
+$35,800 (2022 est.)<br>
+$33,600 (2021 est.)<br>
 $32,000 (2020 est.)<br>
-$34,900 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$237.698 billion (2019 est.)<br>
+$255.197 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.83% (2022 est.)<br>
 1.27% (2021 est.)<br>
 -0.01% (2020 est.)<br>
-0.34% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2007)<br>
@@ -436,15 +439,18 @@ milk, tomatoes, olives, grapes, maize, potatoes, pork, apples, oranges, poultry<
 textiles, clothing, footwear, wood and cork, paper and pulp, chemicals, fuels and lubricants, automobiles and auto parts, base metals, minerals, porcelain and ceramics, glassware, technology, telecommunications; dairy products, wine, other foodstuffs; ship construction and refurbishment; tourism, plastics, financial services, optics<br>
 
 **Industrial production growth rate**<br>
-5.63% (2021 est.)<br>
+1.84% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.174 million (2021 est.)<br>
+5.296 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.65% (2021 est.)<br>
-6.79% (2020 est.)<br>
-6.46% (2019 est.)<br>
+6.01% (2022 est.)<br>
+6.58% (2021 est.)<br>
+6.8% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 23.1% (2021 est.)<br>
@@ -452,23 +458,27 @@ _male_: 20.6%<br>
 _female_: 26.2%<br>
 
 **Population below poverty line**<br>
-17.2% (2018 est.)<br>
+16.4% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-32.8 (2019 est.)<br>
+34.7 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 16.6% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.6%<br>
-_highest 10%_: 25.9% (2015 est.)<br>
+_lowest 10%_: 2.4%<br>
+_highest 10%_: 26.9% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.31% of GDP (2021 est.)<br>
+4.03% of GDP (2022 est.)<br>
+0.3% of GDP (2021 est.)<br>
 0.32% of GDP (2020 est.)<br>
-0.26% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $102.052 billion (2019 est.)<br>
@@ -483,20 +493,23 @@ _expenditures_: $101.854 billion (2019 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-22.04% (of GDP) (2020 est.)<br>
+22.01% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$2.987 billion (2021 est.)<br>
--$2.292 billion (2020 est.)<br>
-$1.013 billion (2019 est.)<br>
+-$3,107,813,000 (2022 est.)<br>
+-$2,986,908,000 (2021 est.)<br>
+-$2,291,965,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$126.541 billion (2022 est.)<br>
 $105.648 billion (2021 est.) note: data are in current year dollars<br>
 $85.128 billion (2020 est.) note: data are in current year dollars<br>
-$104.846 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Spain 26%, France 12%, Germany 12%, United States 6%, United Kingdom 5% (2021)<br>
@@ -505,9 +518,10 @@ Spain 26%, France 12%, Germany 12%, United States 6%, United Kingdom 5% (2021)<b
 cars and vehicle parts, refined petroleum, leather footwear, tires, paper (2021)<br>
 
 **Imports**<br>
+$131.627 billion (2022 est.)<br>
 $112.413 billion (2021 est.) note: data are in current year dollars<br>
 $89.515 billion (2020 est.) note: data are in current year dollars<br>
-$103.009 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Spain 31%, Germany 12%, France 6%, Italy 5%, Netherlands 5% (2021)<br>
@@ -516,9 +530,10 @@ Spain 31%, Germany 12%, France 6%, Italy 5%, Netherlands 5% (2021)<br>
 crude petroleum, cars and vehicle parts, refined petroleum, packaged medicines, natural gas (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$32.535 billion (31 December 2021 est.)<br>
-$29.46 billion (31 December 2020 est.)<br>
-$25.003 billion (31 December 2019 est.)<br>
+$32.232 billion (2022 est.)<br>
+$32.535 billion (2021 est.)<br>
+$29.46 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $462.431 billion (2019 est.)<br>
@@ -526,11 +541,11 @@ $483.206 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
 0.847 (2018 est.)<br>
-0.885 (2017 est.)<br>
 
 ## Energy
 

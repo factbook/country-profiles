@@ -411,29 +411,32 @@ _selected World Heritage Site locales_: Historic City of Ayutthaya (c); Historic
 upper middle-income Southeast Asian economy; substantial infrastructure; major electronics, food, and automobile parts exporter; globally used currency; extremely low unemployment; ongoing Thailand 4.0 economic development<br>
 
 **Real GDP (purchasing power parity)**<br>
+$1.255 trillion (2022 est.)<br>
 $1.223 trillion (2021 est.)<br>
-$1.204 trillion (2020 est.)<br>
-$1.284 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$1.205 trillion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.53% (2021 est.)<br>
--6.2% (2020 est.)<br>
-2.15% (2019 est.)<br>
+2.6% (2022 est.)<br>
+1.49% (2021 est.)<br>
+-6.07% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$17,500 (2022 est.)<br>
 $17,100 (2021 est.)<br>
-$16,800 (2020 est.)<br>
-$18,000 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$16,900 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$543.798 billion (2019 est.)<br>
+$495.423 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.08% (2022 est.)<br>
 1.23% (2021 est.)<br>
 -0.85% (2020 est.)<br>
-0.71% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB+ (2013)<br>
@@ -461,15 +464,18 @@ sugar cane, cassava, rice, oil palm fruit, rubber, maize, tropical fruit, poultr
 tourism, textiles and garments, agricultural processing, beverages, tobacco, cement, light manufacturing such as jewelry and electric appliances, computers and parts, integrated circuits, furniture, plastics, automobiles and automotive parts, agricultural machinery, air conditioning and refrigeration, ceramics, aluminum, chemical, environmental management, glass, granite and marble, leather, machinery and metal work, petrochemical, petroleum refining, pharmaceuticals, printing, pulp and paper, rubber, sugar, rice, fishing, cassava, world's second-largest tungsten producer and third-largest tin producer<br>
 
 **Industrial production growth rate**<br>
-3.34% (2021 est.)<br>
+-0.67% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-40.213 million (2021 est.)<br>
+40.908 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.42% (2021 est.)<br>
+0.94% (2022 est.)<br>
+1.21% (2021 est.)<br>
 1.1% (2020 est.)<br>
-0.72% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 7% (2021 est.)<br>
@@ -477,23 +483,27 @@ _male_: 6.2%<br>
 _female_: 8.1%<br>
 
 **Population below poverty line**<br>
-9.9% (2018 est.)<br>
+6.3% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-35 (2020 est.)<br>
+35.1 (2021 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 24.3% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.8%<br>
-_highest 10%_: 31.5% (2009 est.)<br>
+_lowest 10%_: 3.2%<br>
+_highest 10%_: 27.3% (2021 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+1.8% of GDP (2022 est.)<br>
 1.79% of GDP (2021 est.)<br>
 1.65% of GDP (2020 est.)<br>
-1.5% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $104.689 billion (2020 est.)<br>
@@ -503,26 +513,29 @@ _expenditures_: $128.581 billion (2020 est.)<br>
 -3.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-50.4% of GDP (2020 est.)<br>
-40.13% of GDP (2019 est.)<br>
-39.25% of GDP (2018 est.)<br>
-<strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions<br>
+58.56% of GDP (2021 est.)<br>
+50.32% of GDP (2020 est.)<br>
+40.14% of GDP (2019 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-14.48% (of GDP) (2020 est.)<br>
+14.32% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
 
 **Current account balance**<br>
--$10.345 billion (2021 est.)<br>
-$21.058 billion (2020 est.)<br>
-$38.256 billion (2019 est.)<br>
+-$15,742,407,000 (2022 est.)<br>
+-$10,268,493,000 (2021 est.)<br>
+$20.933 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$296.002 billion (2021 est.) note: data are in current year dollars<br>
+$324.063 billion (2022 est.)<br>
+$295.972 billion (2021 est.) note: data are in current year dollars<br>
 $257.981 billion (2020 est.) note: data are in current year dollars<br>
-$323.878 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 16%, China 13%, Japan 9%, Vietnam 4%, Australia 4% (2021)<br>
@@ -531,9 +544,10 @@ United States 16%, China 13%, Japan 9%, Vietnam 4%, Australia 4% (2021)<br>
 office machinery/parts, cars and vehicle parts, integrated circuits, delivery trucks, refined petroleum, rubber&nbsp; (2021)<br>
 
 **Imports**<br>
-$295.78 billion (2021 est.) note: data are in current year dollars<br>
-$232.039 billion (2020 est.) note: data are in current year dollars<br>
-$272.831 billion (2019 est.) note: data are in current year dollars<br>
+$334.478 billion (2022 est.)<br>
+$296.115 billion (2021 est.) note: data are in current year dollars<br>
+$232.048 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 28%, Japan 12%, Malaysia 5%, United States 5%, United Arab Emirates 4% (2021)<br>
@@ -542,9 +556,10 @@ China 28%, Japan 12%, Malaysia 5%, United States 5%, United Arab Emirates 4% (20
 crude petroleum, integrated circuits, gold, natural gas, vehicle parts, broadcasting equipment (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$246.025 billion (31 December 2021 est.)<br>
-$258.104 billion (31 December 2020 est.)<br>
-$224.356 billion (31 December 2019 est.)<br>
+$216.501 billion (2022 est.)<br>
+$246.025 billion (2021 est.)<br>
+$258.104 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $167.89 billion (2019 est.)<br>
@@ -552,11 +567,11 @@ $158.964 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: baht per US dollar -<br>
+35.061 (2022 est.)<br>
 31.977 (2021 est.)<br>
 31.294 (2020 est.)<br>
 31.048 (2019 est.)<br>
 32.31 (2018 est.)<br>
-33.94 (2017 est.)<br>
 
 ## Energy
 

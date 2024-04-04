@@ -382,29 +382,32 @@ _selected World Heritage Site locales_: Singapore Botanic Gardens<br>
 high-income, service-based Southeast Asian economy; renowned for financial markets and Asian Infrastructure Exchange; business-driven regulations; low unemployment; electronics, oil, and chemicals exporter; continuing education investment<br>
 
 **Real GDP (purchasing power parity)**<br>
-$578.254 billion (2021 est.)<br>
-$537.341 billion (2020 est.)<br>
-$560.566 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$609.002 billion (2022 est.)<br>
+$587.573 billion (2021 est.)<br>
+$539.641 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-7.61% (2021 est.)<br>
--4.14% (2020 est.)<br>
-1.1% (2019 est.)<br>
+3.65% (2022 est.)<br>
+8.88% (2021 est.)<br>
+-3.9% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$106,000 (2021 est.)<br>
-$94,500 (2020 est.)<br>
-$98,300 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$108,000 (2022 est.)<br>
+$107,700 (2021 est.)<br>
+$94,900 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$372.088 billion (2019 est.)<br>
+$466.788 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.12% (2022 est.)<br>
 2.3% (2021 est.)<br>
 -0.18% (2020 est.)<br>
-0.57% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (2003)<br>
@@ -432,16 +435,18 @@ poultry, eggs, vegetables, pork, duck meat, spinach, pig offals, bird eggs, pig 
 electronics, chemicals, financial services, oil drilling equipment, petroleum refining, biomedical products, scientific instruments, telecommunication equipment, processed food and beverages, ship repair, offshore platform construction, entrepot trade<br>
 
 **Industrial production growth rate**<br>
-13.32% (2021 est.)<br>
+2.9% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.29 million (2021 est.)<br>
-<strong>note:</strong> excludes non-residents<br>
+3.541 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.62% (2021 est.)<br>
+3.59% (2022 est.)<br>
+4.64% (2021 est.)<br>
 4.1% (2020 est.)<br>
-3.1% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.1% (2021 est.)<br>
@@ -463,9 +468,10 @@ _lowest 10%_: 1.6%<br>
 _highest 10%_: 27.5% (2017)<br>
 
 **Remittances**<br>
-0% of GDP (2019 est.)<br>
-0% of GDP (2018 est.)<br>
-0% of GDP (2017 est.)<br>
+0% of GDP (2022 est.)<br>
+0% of GDP (2021 est.)<br>
+0% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $59.974 billion (2020 est.)<br>
@@ -476,26 +482,29 @@ _expenditures_: $90.264 billion (2020 est.)<br>
 -0.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-153.41% of GDP (2020 est.)<br>
-128.31% of GDP (2019 est.)<br>
-110.73% of GDP (2018 est.)<br>
-<strong>note:</strong> Singapore's public debt consists largely of Singapore Government Securities (SGS) issued to assist the Central Provident Fund (CPF), which administers Singapore's defined contribution pension fund; special issues of SGS are held by the CPF, and are non-tradable; the government has not borrowed to finance deficit expenditures since the 1980s; Singapore has no external public debt<br>
+153.8% of GDP (2021 est.)<br>
+152.04% of GDP (2020 est.)<br>
+127.85% of GDP (2019 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-12.89% (of GDP) (2020 est.)<br>
+13.12% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
-$71.926 billion (2021 est.)<br>
-$58.139 billion (2020 est.)<br>
-$54.273 billion (2019 est.)<br>
+$90.239 billion (2022 est.)<br>
+$76.374 billion (2021 est.)<br>
+$57.316 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$733.782 billion (2021 est.) note: data are in current year dollars<br>
-$627.442 billion (2020 est.) note: data are in current year dollars<br>
-$658.127 billion (2019 est.) note: data are in current year dollars<br>
+$870.806 billion (2022 est.)<br>
+$781.068 billion (2021 est.) note: data are in current year dollars<br>
+$634.034 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 16%, Hong Kong 16%, United States 8%, Malaysia 9%, Indonesia 5% (2021)<br>
@@ -504,9 +513,10 @@ China 16%, Hong Kong 16%, United States 8%, Malaysia 9%, Indonesia 5% (2021)<br>
 integrated circuits, refined petroleum, gold, packaged medicines, appliances, photo lab equipment (2021)<br>
 
 **Imports**<br>
-$609.28 billion (2021 est.) note: data are in current year dollars<br>
-$517.967 billion (2020 est.) note: data are in current year dollars<br>
-$550.209 billion (2019 est.) note: data are in current year dollars<br>
+$701.629 billion (2022 est.)<br>
+$631.615 billion (2021 est.) note: data are in current year dollars<br>
+$525.324 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 15%, Malaysia 14%, Taiwan 9%, United States 9%, Japan 5% (2021)<br>
@@ -515,9 +525,10 @@ China 15%, Malaysia 14%, Taiwan 9%, United States 9%, Japan 5% (2021)<br>
 integrated circuits, refined petroleum, crude petroleum, gold, gas turbines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$425.098 billion (31 December 2021 est.)<br>
-$369.834 billion (31 December 2020 est.)<br>
-$285.478 billion (31 December 2019 est.)<br>
+$296.629 billion (2022 est.)<br>
+$425.098 billion (2021 est.)<br>
+$369.834 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1,557,646,000,000 (2019 est.)<br>
@@ -525,11 +536,11 @@ $1,528,177,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Singapore dollars (SGD) per US dollar -<br>
+1.379 (2022 est.)<br>
 1.343 (2021 est.)<br>
 1.38 (2020 est.)<br>
 1.364 (2019 est.)<br>
 1.349 (2018 est.)<br>
-1.381 (2017 est.)<br>
 
 ## Energy
 

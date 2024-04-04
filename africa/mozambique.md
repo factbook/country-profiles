@@ -406,29 +406,32 @@ _selected World Heritage Site locales_: Island of Mozambique<br>
 low-income East African economy; mostly rural labor force; natural resource rich; strong South African ties; Islamist terrorism in north endangers newly discovered natural gas; currently in court over massive (possibly unauthorized) debt<br>
 
 **Real GDP (purchasing power parity)**<br>
-$39.351 billion (2021 est.)<br>
-$38.442 billion (2020 est.)<br>
-$38.923 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$41.237 billion (2022 est.)<br>
+$39.515 billion (2021 est.)<br>
+$38.597 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.36% (2021 est.)<br>
--1.23% (2020 est.)<br>
-2.31% (2019 est.)<br>
+4.36% (2022 est.)<br>
+2.38% (2021 est.)<br>
+-1.22% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$1,300 (2022 est.)<br>
 $1,200 (2021 est.)<br>
 $1,200 (2020 est.)<br>
-$1,300 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$14.964 billion (2019 est.)<br>
+$18.407 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-5.69% (2021 est.)<br>
-3.14% (2020 est.)<br>
-2.78% (2019 est.)<br>
+10.28% (2022 est.)<br>
+6.41% (2021 est.)<br>
+3.48% (2020 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2019)<br>
@@ -456,15 +459,18 @@ sugar cane, cassava, maize, milk, bananas, tomatoes, sweet potatoes, rice, sorgh
 aluminum, petroleum products, chemicals (fertilizer, soap, paints), textiles, cement, glass, asbestos, tobacco, food, beverages<br>
 
 **Industrial production growth rate**<br>
--0.42% (2019 est.)<br>
+4.72% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-14.137 million (2021 est.)<br>
+14.693 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.98% (2021 est.)<br>
-3.81% (2020 est.)<br>
-3.47% (2019 est.)<br>
+3.79% (2022 est.)<br>
+4.25% (2021 est.)<br>
+4.07% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 8.1% (2021 est.)<br>
@@ -473,18 +479,22 @@ _female_: 8.2%<br>
 
 **Population below poverty line**<br>
 46.1% (2014 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-54 (2014 est.)<br>
+50.5 (2019 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.9%<br>
-_highest 10%_: 36.7% (2008)<br>
+_lowest 10%_: 1.6%<br>
+_highest 10%_: 41.2% (2019 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.88% of GDP (2021 est.)<br>
-2.49% of GDP (2020 est.)<br>
-1.95% of GDP (2019 est.)<br>
+1.65% of GDP (2022 est.)<br>
+2.81% of GDP (2021 est.)<br>
+2.45% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $4.569 billion (2019 est.)<br>
@@ -494,25 +504,29 @@ _expenditures_: $4.591 billion (2019 est.)<br>
 -5.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-102.88% of GDP (2020 est.)<br>
-79.51% of GDP (2019 est.)<br>
-82.3% of GDP (2018 est.)<br>
+84.16% of GDP (2021 est.)<br>
+101.39% of GDP (2020 est.)<br>
+78.88% of GDP (2019 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-21.84% (of GDP) (2020 est.)<br>
+22.75% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
+-$6.295 billion (2022 est.)<br>
 -$3.601 billion (2021 est.)<br>
--$3.869 billion (2020 est.)<br>
--$2.934 billion (2019 est.)<br>
+-$3.9 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$9.409 billion (2022 est.)<br>
 $6.404 billion (2021 est.) note: data are in current year dollars<br>
 $4.37 billion (2020 est.) note: data are in current year dollars<br>
-$5.6 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 South Africa 16%, India 13%, China 12%, Italy 7%, United Arab Emirates 5%, Germany 5% (2019)<br>
@@ -521,9 +535,10 @@ South Africa 16%, India 13%, China 12%, Italy 7%, United Arab Emirates 5%, Germa
 coal, aluminum, gold, natural gas, electricity, titanium, coke (2021)<br>
 
 **Imports**<br>
+$15.913 billion (2022 est.)<br>
 $10.392 billion (2021 est.) note: data are in current year dollars<br>
-$8.63 billion (2020 est.) note: data are in current year dollars<br>
-$9.503 billion (2019 est.) note: data are in current year dollars<br>
+$8.661 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 South Africa 31%, India 18%, China 17% (2019)<br>
@@ -532,9 +547,10 @@ South Africa 31%, India 18%, China 17% (2019)<br>
 refined petroleum, chromium, iron, bauxite, electricity (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$67.51 billion (31 December 2021 est.)<br>
-$47.597 billion (31 December 2020 est.)<br>
-$20.664 billion (31 December 2019 est.)<br>
+$2.939 billion (2022 est.)<br>
+$3.781 billion (2021 est.)<br>
+$4.075 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $10.91 billion (31 December 2017 est.)<br>
@@ -542,11 +558,11 @@ $10.48 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: meticais (MZM) per US dollar -<br>
+63.851 (2022 est.)<br>
 65.465 (2021 est.)<br>
 69.465 (2020 est.)<br>
 62.548 (2019 est.)<br>
 60.326 (2018 est.)<br>
-63.584 (2017 est.)<br>
 
 ## Energy
 
@@ -715,7 +731,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Mozambique-Eswatini</em>: none identified</p> <p><em>Mozambique-Malawi</em>:  the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Mozambique-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>Mozambique-Tanzania</em>: none identified</p> <p><em>Mozambique-Zambia</em>: none identified</p> <p><em>Mozambique-Zimbabwe</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,655 (Burundi) (refugees and asylum seekers) (2023); 9,325 (Democratic Republic of Congo) (refugees and asylum seekers) (2024)<br>
+_refugees (country of origin)_: 10,655 (Burundi) (refugees and asylum seekers) (2023); 9,340 (Democratic Republic of Congo) (refugees and asylum seekers) (2024)<br>
 _IDPs_: 850,599 (north Mozambique, violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2023)<br>
 
 **Trafficking in persons**<br>

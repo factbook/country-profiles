@@ -344,28 +344,32 @@ _selected World Heritage Site locales_: Nan Madol: Ceremonial Center of Eastern 
 lower middle-income Pacific island economy; US aid reliance, sunsetting in 2024; low entrepreneurship; mostly fishing and farming; US dollar user; no patent laws; tourism remains underdeveloped; significant corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
-$375.055 million (2021 est.)<br>
-$387.407 million (2020 est.)<br>
-$394.369 million (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$372.593 million (2022 est.)<br>
+$375.698 million (2021 est.)<br>
+$383.46 million (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--3.19% (2021 est.)<br>
--1.77% (2020 est.)<br>
-1.17% (2019 est.)<br>
+-0.83% (2022 est.)<br>
+-2.02% (2021 est.)<br>
+-2.77% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,300 (2021 est.) note: data are in 2017 dollars<br>
-$3,500 (2020 est.) note: data are in 2017 dollars<br>
-$3,500 (2019 est.)<br>
+$3,300 (2022 est.)<br>
+$3,300 (2021 est.)<br>
+$3,400 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$328 million (2017 est.)<br>
+$424 million (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.41% (2022 est.)<br>
+3.19% (2021 est.)<br>
 0.55% (2020 est.)<br>
-1.54% (2019 est.)<br>
-1.79% (2018 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 26.3% (2013 est.)<br>
@@ -387,7 +391,8 @@ coconuts, cassava, vegetables, sweet potatoes, bananas, pork, plantains, fruit, 
 tourism, construction; specialized aquaculture, craft items (shell and wood)<br>
 
 **Industrial production growth rate**<br>
--8.33% (2021 est.) NA<br>
+-4.51% (2022 est.) NA<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 37,920 (2010 est.)<br>
@@ -402,18 +407,22 @@ _female_: 29.9%<br>
 
 **Population below poverty line**<br>
 41.2% (2013 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 40.1 (2013 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
+_lowest 10%_: 1.9%<br>
+_highest 10%_: 29.7% (2013 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+5.5% of GDP (2022 est.)<br>
+5.75% of GDP (2021 est.)<br>
 5.72% of GDP (2020 est.)<br>
-5.66% of GDP (2019 est.)<br>
-5.81% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $320 million (2018 est.)<br>
@@ -424,11 +433,13 @@ _expenditures_: $223 million (2018 est.)<br>
 
 **Public debt**<br>
 25.4% of GDP (2020 est.)<br>
-23.1% of GDP (2019 est.)<br>
+22.87% of GDP (2019 est.)<br>
 23.11% of GDP (2018 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 6.43% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
@@ -436,11 +447,14 @@ _expenditures_: $223 million (2018 est.)<br>
 **Current account balance**<br>
 $12 million (2017 est.)<br>
 $11 million (2016 est.)<br>
+$22.408 million (2014 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $179 million (2021 est.)<br>
 $122 million (2020 est.)<br>
 $130 million (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Thailand 81%, China 9%, Japan 4%, Philippines 4%, United States 1% (2021)<br>
@@ -452,6 +466,7 @@ skipjack, tuna, fish fillets, aircraft, scrap iron (2021)<br>
 $126 million (2021 est.)<br>
 $133 million (2020 est.)<br>
 $121 million (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 34%, China 16%, Japan 11%, Taiwan 7%, South Korea 6% (2021)<br>
@@ -460,21 +475,17 @@ United States 34%, China 16%, Japan 11%, Taiwan 7%, South Korea 6% (2021)<br>
 poultry meats, broadcasting equipment, other meats, cars, fish products, rice, lumber (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$497,434,100 (31 December 2021 est.)<br>
-$451,912,600 (31 December 2020 est.)<br>
-$397,158,200 (31 December 2019 est.)<br>
+$497.434 million (2021 est.)<br>
+$451.913 million (2020 est.)<br>
+$397.158 million (2019 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $93.6 million (2013 est.)<br>
 $93.5 million (2012 est.)<br>
 
 **Exchange rates**<br>
-1 (2021 est.)<br>
-1 (2020 est.)<br>
-1 (2019 est.)<br>
-1 (2018 est.)<br>
-1 (2017 est.)<br>
-the US dollar is used<br>
+<p>the US dollar is used</p><br>
 
 ## Energy
 

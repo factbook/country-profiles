@@ -401,23 +401,26 @@ _selected World Heritage Site locales_: Ancient Merv (c); Kunya-Urgench (c); Par
 upper middle-income Central Asian economy; has 10% of global natural gas reserves, exporting to Russia and China; natural resource rich; authoritarian and dominated by state-owned enterprises; major central-south Asian pipeline development<br>
 
 **Real GDP (purchasing power parity)**<br>
-$92.331 billion (2019 est.)<br>
-$86.859 billion (2018 est.)<br>
-$81.788 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$94.79 billion (2022 est.)<br>
+$93.205 billion (2021 est.)<br>
+$89.192 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.3% (2019 est.)<br>
-6.2% (2018 est.)<br>
-6.5% (2017 est.)<br>
+1.7% (2022 est.)<br>
+4.5% (2021 est.)<br>
+-3.4% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$15,000 (2019 est.) note: data are in 2017 dollars<br>
-$14,300 (2018 est.) note: data are in 2017 dollars<br>
-$13,700 (2017 est.)<br>
+$14,700 (2022 est.)<br>
+$14,700 (2021 est.)<br>
+$14,300 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$40.819 billion (2018 est.)<br>
+$56.543 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8% (2017 est.)<br>
@@ -443,15 +446,18 @@ milk, wheat, cotton, tomatoes, potatoes, watermelons, grapes, sugar beets, beef,
 natural gas, oil, petroleum products, textiles, food processing<br>
 
 **Industrial production growth rate**<br>
-1% (2017 est.)<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.998 million (2021 est.)<br>
+2.117 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.08% (2021 est.)<br>
-4.95% (2020 est.)<br>
-4.27% (2019 est.)<br>
+4.13% (2022 est.)<br>
+4.53% (2021 est.)<br>
+4.55% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11% (2021 est.)<br>
@@ -473,9 +479,10 @@ _lowest 10%_: 2.6%<br>
 _highest 10%_: 31.7% (1998)<br>
 
 **Remittances**<br>
-0% of GDP (2019 est.)<br>
-0% of GDP (2018 est.)<br>
-0.01% of GDP (2017 est.)<br>
+0% of GDP (2022 est.)<br>
+0% of GDP (2021 est.)<br>
+0% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $5.954 billion (2019 est.)<br>

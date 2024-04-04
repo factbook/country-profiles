@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Moorish invasion of Spain in the 8th century and subsequent incursions into France were finally stemmed at the Pyrenees by Frankish King Charlemagne, who in 795 created the Hispanic March, a series of buffer states to keep the Muslim Moors from advancing into Christian France. The landlocked Principality of Andorra, one of the smallest states in Europe and nestled high in the Pyrenees between the French and Spanish borders, is the last independent survivor of these March states. For 715 years, from 1278 to 1993, Andorrans lived under a unique coprincipality, ruled by French and Spanish leaders (from 1607 onward, the French chief of state and the Bishop of Urgell). In 1993, this feudal system was modified with the introduction of a modern constitution; the co-princes remained as titular heads of state, but the government transformed into a parliamentary democracy.</p> <p>Andorra has become a popular tourist destination visited by approximately 8 million people each year drawn by the winter sports, summer climate, and duty-free shopping. Andorra has also become a wealthy international commercial center because of its mature banking sector and low taxes. As part of its effort to modernize its economy, Andorra has opened to foreign investment, and engaged in other reforms, such as advancing tax initiatives aimed at supporting a broader infrastructure. Although not a member of the EU, Andorra enjoys a special relationship with the bloc that is governed by various customs and cooperation agreements and uses the euro as its national currency.</p><br>
+<p>The landlocked Principality of Andorra -- one of the smallest states in Europe and nestled high in the Pyrenees between the French and Spanish borders -- is the last independent survivor of the Hispanic March states created by Frankish King Charlemagne in 795 after he halted the Moorish invasion of Spain. The March states were a series of buffer states to keep the Muslim Moors from advancing into Christian France. For 715 years, from 1278 to 1993, Andorrans lived under a unique co-principality, ruled by French and Spanish leaders (from 1607 onward, the French chief of state and the Bishop of Urgell). In 1993, this feudal system was modified with the introduction of a modern constitution; the co-princes remained as titular heads of state, but the government transformed into a parliamentary democracy.</p> <p>Andorra's winter sports, summer climate, and duty-free shopping attract approximately 8 million people each year. Andorra has also become a wealthy international commercial center because of its mature banking sector and low taxes. As part of the effort to modernize its economy, Andorra has opened to foreign investment and engaged in other reforms, such as tax initiatives aimed at supporting broader infrastructure. Although not a member of the EU, Andorra enjoys a special relationship with the bloc that is governed by various customs and cooperation agreements, and Andorra uses the euro as its national currency.</p><br>
 
 ## Geography
 
@@ -353,12 +353,13 @@ high GDP; low unemployment; non-EU Euro user; co-principality duty-free area bet
 $3.327 billion (2015 est.)<br>
 $3.363 billion (2014 est.)<br>
 $3.273 billion (2013 est.)<br>
-<strong>note:</strong> data are in 2012 US dollars<br>
+<strong>note:</strong> data are in 2012 dollars<br>
 
 **Real GDP growth rate**<br>
-8.95% (2021 est.)<br>
+8.81% (2022 est.)<br>
+8.29% (2021 est.)<br>
 -11.18% (2020 est.)<br>
-2.02% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $49,900 (2015 est.)<br>
@@ -366,7 +367,8 @@ $51,300 (2014 est.)<br>
 $50,300 (2013 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$2.712 billion (2016 est.)<br>
+$3.352 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 -0.9% (2015 est.)<br>
@@ -390,7 +392,8 @@ small quantities of rye, wheat, barley, oats, vegetables, tobacco, sheep, cattle
 tourism (particularly skiing), banking, timber, furniture<br>
 
 **Industrial production growth rate**<br>
--3.9% (2020 est.) NA<br>
+4.94% (2022 est.) NA<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 39,750 (2016)<br>
@@ -402,6 +405,12 @@ tourism (particularly skiing), banking, timber, furniture<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
+
+**Remittances**<br>
+1.59% of GDP (2021 est.)<br>
+1.64% of GDP (2020 est.)<br>
+0.67% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.872 billion (2016)<br>
@@ -421,13 +430,16 @@ _expenditures_: $2.06 billion (2016)<br>
 calendar year<br>
 
 **Current account balance**<br>
+$467.435 million (2021 est.)<br>
 $448.869 million (2020 est.)<br>
 $568.257 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$2.414 billion (2021 est.)<br>
 $1.842 billion (2020 est.)<br>
 $2.335 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Spain 40%, France 19%, United States 11%, Mauritania 5% (2019)<br>
@@ -436,8 +448,10 @@ Spain 40%, France 19%, United States 11%, Mauritania 5% (2019)<br>
 integrated circuits, dental fitting supplies, cars, gold, essential oils (2021)<br>
 
 **Imports**<br>
+$2.143 billion (2021 est.)<br>
 $1.727 billion (2020 est.)<br>
 $2.032 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Spain 71%, France 17% (2019)<br>
@@ -450,11 +464,11 @@ $0 (2016)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.951 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.885 (2017 est.)<br>
 0.903 (2016 est.)<br>
 0.921 (2015 est.)<br>
-0.885 (2014 est.)<br>
 <strong>note: </strong>while not an EU member state, Andorra has a 2011 monetary agreement with the EU to produce limited euro coinage—but not banknotes—that began enforcement in April 2012<br>
 
 ## Energy

@@ -378,13 +378,13 @@ low-income Middle Eastern economy; prior infrastructure and economy devastated b
 $50.28 billion (2015 est.)<br>
 $55.8 billion (2014 est.)<br>
 $61.9 billion (2013 est.)<br>
-<strong>note:</strong> data are in 2015 US dollars<br>the war-driven deterioration of the economy resulted in a disappearance of quality national level statistics in the 2012-13 period<br>
+<strong>note:</strong> data are in 2015 dollars<br>the war-driven deterioration of the economy resulted in a disappearance of quality national level statistics in the 2012-13 period<br>
 
 **Real GDP growth rate**<br>
--3.87% (2020 est.)<br>
+1.3% (2021 est.)<br>
+-0.18% (2020 est.)<br>
 1.22% (2019 est.)<br>
-1.39% (2018 est.)<br>
-<strong>note:</strong> data are in 2015 dollars<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $2,900 (2015 est.)<br>
@@ -393,7 +393,8 @@ $2,800 (2013 est.)<br>
 <strong>note:</strong> data are in 2015 US dollars<br>
 
 **GDP (official exchange rate)**<br>
-$24.6 billion (2014 est.)<br>
+$8.97 billion (2021 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 28.1% (2017 est.)<br>
@@ -419,15 +420,18 @@ wheat, barley, milk, olives, tomatoes, oranges, potatoes, sheep milk, lemons, li
 petroleum, textiles, food processing, beverages, tobacco, phosphate rock mining, cement, oil seeds crushing, automobile assembly<br>
 
 **Industrial production growth rate**<br>
--14.77% (2020 est.)<br>
+-14.03% (2021 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-6.143 million (2021 est.)<br>
+5.816 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-10.57% (2021 est.)<br>
-10.26% (2020 est.)<br>
-8.77% (2019 est.)<br>
+13.81% (2022 est.)<br>
+15.08% (2021 est.)<br>
+15.28% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 26.2% (2021 est.)<br>
@@ -440,6 +444,12 @@ _female_: 51.1%<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
+
+**Remittances**<br>
+0% of GDP (2021 est.)<br>
+0% of GDP (2020 est.)<br>
+0% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.162 billion (2017 est.)<br>
@@ -493,11 +503,11 @@ $5.085 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Syrian pounds (SYP) per US dollar -<br>
-514.6 (2017 est.)<br>
-459.2 (2016 est.)<br>
-459.2 (2015 est.)<br>
-236.41 (2014 est.)<br>
-153.695 (2013 est.)<br>
+492.611 (2017 est.)<br>
+460.276 (2016 est.)<br>
+237.029 (2015 est.)<br>
+154.13 (2014 est.)<br>
+108.733 (2013 est.)<br>
 
 ## Energy
 

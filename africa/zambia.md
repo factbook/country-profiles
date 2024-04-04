@@ -408,29 +408,32 @@ _selected World Heritage Site locales_: Mosi-oa-Tunya/Victoria Falls<br>
 lower middle-income Sub-Saharan economy; major copper exporter; high public debt is held mostly by China; systemic corruption; one of youngest and fastest growing labor forces; regional hydroelectricity exporter; extreme rural poverty<br>
 
 **Real GDP (purchasing power parity)**<br>
-$63.03 billion (2021 est.)<br>
+$67.377 billion (2022 est.)<br>
+$64.016 billion (2021 est.)<br>
 $60.259 billion (2020 est.)<br>
-$61.986 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.6% (2021 est.)<br>
+5.25% (2022 est.)<br>
+6.23% (2021 est.)<br>
 -2.79% (2020 est.)<br>
-1.44% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,200 (2021 est.)<br>
+$3,400 (2022 est.)<br>
+$3,300 (2021 est.)<br>
 $3,200 (2020 est.)<br>
-$3,400 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$25.71 billion (2017 est.)<br>
+$29.164 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+10.99% (2022 est.)<br>
 22.02% (2021 est.)<br>
 15.73% (2020 est.)<br>
-9.15% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: RD (2020)<br>
@@ -458,15 +461,18 @@ sugar cane, cassava, maize, milk, vegetables, soybeans, beef, tobacco, wheat, gr
 copper mining and processing, emerald mining, construction, foodstuffs, beverages, chemicals, textiles, fertilizer, horticulture<br>
 
 **Industrial production growth rate**<br>
-4.18% (2021 est.)<br>
+-2.23% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.113 million (2021 est.)<br>
+6.827 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-13.03% (2021 est.)<br>
-12.85% (2020 est.)<br>
-12.52% (2019 est.)<br>
+4.37% (2022 est.)<br>
+5.2% (2021 est.)<br>
+6.03% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 26.1% (2021 est.)<br>
@@ -475,18 +481,22 @@ _female_: 25.4%<br>
 
 **Population below poverty line**<br>
 54.4% (2015 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-57.1 (2015 est.)<br>
+55.9 (2015 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.5%<br>
-_highest 10%_: 47.4% (2010)<br>
+_lowest 10%_: 1.1%<br>
+_highest 10%_: 43.5% (2015 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.09% of GDP (2021 est.)<br>
+0.83% of GDP (2022 est.)<br>
+1.08% of GDP (2021 est.)<br>
 0.74% of GDP (2020 est.)<br>
-0.42% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $4.758 billion (2019 est.)<br>
@@ -496,25 +506,29 @@ _expenditures_: $7.044 billion (2019 est.)<br>
 -7.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+71.41% of GDP (2021 est.)<br>
 103.7% of GDP (2020 est.)<br>
 61.93% of GDP (2019 est.)<br>
-59.71% of GDP (2018 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-16.44% (of GDP) (2020 est.)<br>
+16.78% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$2.531 billion (2021 est.)<br>
-$961.821 million (2020 est.)<br>
-$140.712 million (2019 est.)<br>
+$1.067 billion (2022 est.)<br>
+$2.63 billion (2021 est.)<br>
+$2.174 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$11.716 billion (2021 est.) note: data are in current year dollars<br>
+$12.444 billion (2022 est.)<br>
+$11.728 billion (2021 est.) note: data are in current year dollars<br>
 $8.558 billion (2020 est.) note: data are in current year dollars<br>
-$8.258 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Switzerland 32%, China 14%, Namibia 12%, Democratic Republic of the Congo 9%, Singapore 8% (2020)<br>
@@ -523,9 +537,10 @@ Switzerland 32%, China 14%, Namibia 12%, Democratic Republic of the Congo 9%, Si
 copper, gold, gemstones, tobacco, cement (2020)<br>
 
 **Imports**<br>
-$7.701 billion (2021 est.) note: data are in current year dollars<br>
-$7.049 billion (2020 est.) note: data are in current year dollars<br>
-$8.036 billion (2019 est.) note: data are in current year dollars<br>
+$10.022 billion (2022 est.)<br>
+$7.691 billion (2021 est.) note: data are in current year dollars<br>
+$5.836 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 South Africa 31%, China 16%, United Arab Emirates 9%, Democratic Republic of the Congo 6%, India 5% (2020)<br>
@@ -534,9 +549,10 @@ South Africa 31%, China 16%, United Arab Emirates 9%, Democratic Republic of the
 copper, petroleum, fertilizers, packaged medicines, delivery trucks (2020)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.754 billion (31 December 2021 est.)<br>
-$1.203 billion (31 December 2020 est.)<br>
-$1.449 billion (31 December 2019 est.)<br>
+$2.968 billion (2022 est.)<br>
+$2.754 billion (2021 est.)<br>
+$1.203 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $11.66 billion (31 December 2017 est.)<br>
@@ -544,11 +560,11 @@ $9.562 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Zambian kwacha (ZMK) per US dollar -<br>
+16.938 (2022 est.)<br>
 20.018 (2021 est.)<br>
 18.344 (2020 est.)<br>
 12.89 (2019 est.)<br>
 10.458 (2018 est.)<br>
-9.518 (2017 est.)<br>
 
 ## Energy
 
@@ -718,7 +734,7 @@ the Zambia Defense Forces (ZDF) are responsible for preserving the country’s s
 <p><em>Zambia-Angola: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary<em><br><br>Zambia-Democratic Republic of Congo(DRC): </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto</p> <p><em>Zambia-Tanzania</em>: some drug smuggling may take place across the Zambia-Tanzania border; there are no known current territorial issues, as both states have continued to recognize the colonial boundaries last modified in 1937; the boundary in Lake Tanganyika remains undefined.<br><br><em>Zambia-Zimbabwe: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,436 (Burundi) (2023); 61,153 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
+_refugees (country of origin)_: 8,436 (Burundi) (2023); 62,660 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
 
 **Illicit drugs**<br>
 transshipment point for moderate amounts of methaqualone, small amounts of heroin, and cocaine bound for southern Africa and possibly Europe; a poorly developed financial infrastructure coupled with a government commitment to combating money laundering make it an unattractive venue for money launderers; major consumer of cannabis<br>

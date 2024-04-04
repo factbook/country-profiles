@@ -375,28 +375,32 @@ _selected World Heritage Site locales_: Cultural Sites of Al Ain (Hafit, Hili, B
 historically oil-driven Middle Eastern economy; diversifying into a trade-oriented logistics and supply chain leader; strong foreign direct investment orientation; building trade and investment ties through partnership agreements; growing banking sector; recent economic linkages with Israel slowing due to Gaza conflict<br>
 
 **Real GDP (purchasing power parity)**<br>
-$707.3 billion (2022 est.)<br>
-$653.067 billion (2021 est.)<br>
+$707.307 billion (2022 est.)<br>
+$655.823 billion (2021 est.)<br>
 $628.455 billion (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.92% (2021 est.)<br>
+7.85% (2022 est.)<br>
+4.35% (2021 est.)<br>
 -4.96% (2020 est.)<br>
-1.11% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $74,900 (2022 est.)<br>
-$69,700 (2021 est.) note: data are in 2017 dollars<br>
-$67,700 (2020 est.) note: data are in 2017 dollars<br>
+$70,000 (2021 est.)<br>
+$67,700 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$421.077 billion (2019 est.)<br>
+$507.064 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.83% (2022 est.)<br>
+-0.01% (2021 est.)<br>
 -2.08% (2020 est.)<br>
--1.93% (2019 est.)<br>
-3.07% (2018 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA- (2020)<br>
@@ -424,16 +428,18 @@ eggs, dates, cucumbers, camel milk, goat milk, tomatoes, goat meat, milk, poultr
 petroleum and petrochemicals; fishing, aluminum, cement, fertilizer, commercial ship repair, construction materials, handicrafts, textiles<br>
 
 **Industrial production growth rate**<br>
-2.54% (2021 est.)<br>
+8.49% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-6.074 million (2021 est.)<br>
-<strong>note:</strong> expatriates account for about 85% of the workforce<br>
+6.589 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.36% (2021 est.)<br>
-3.19% (2020 est.)<br>
-2.23% (2019 est.)<br>
+2.97% (2022 est.)<br>
+3.11% (2021 est.)<br>
+4.29% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.7% (2021 est.)<br>
@@ -445,14 +451,16 @@ _female_: 19.9%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 26 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 13.7% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 0.4% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
+_lowest 10%_: 4%<br>
+_highest 10%_: 20% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Budget**<br>
 _revenues_: $129.741 billion (2019 est.)<br>
@@ -465,9 +473,12 @@ _expenditures_: $127.262 billion (2019 est.)<br>
 **Public debt**<br>
 19.7% of GDP (2017 est.)<br>
 20.2% of GDP (2016 est.)<br>
+1.85% of GDP (2013 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-0.68% (of GDP) (2020 est.)<br>
+0.54% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -499,9 +510,10 @@ China 18%, India 10%, United States 6%, United Kingdom 4%, Saudi Arabia 3% (2022
 gold, broadcasting equipment, refined petroleum, diamonds, cars (2022)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$131.117 billion (31 December 2021 est.)<br>
-$106.702 billion (31 December 2020 est.)<br>
-$108.359 billion (31 December 2019 est.)<br>
+$138.433 billion (2022 est.)<br>
+$131.117 billion (2021 est.)<br>
+$106.702 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $237.6 billion (31 December 2017 est.)<br>
@@ -509,11 +521,11 @@ $218.7 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Emirati dirhams (AED) per US dollar -<br>
+3.673 (2022 est.)<br>
 3.673 (2021 est.)<br>
 3.673 (2020 est.)<br>
 3.673 (2019 est.)<br>
 3.673 (2018 est.)<br>
-3.673 (2017 est.)<br>
 
 ## Energy
 

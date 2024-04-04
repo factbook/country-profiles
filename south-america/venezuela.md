@@ -391,6 +391,7 @@ $334.751 billion (2017 est.)<br>
 **Real GDP growth rate**<br>
 -19.67% (2018 est.)<br>
 -15.76% (2017 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $7,704 (2018 est.)<br>
@@ -398,12 +399,14 @@ $9,417 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$210.1 billion (2017 est.)<br>
+$482.359 billion (2014 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 146,101.7% (2019 est.)<br>
 45,518.1% (2018 est.)<br>
 416.8% (2017 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: RD (2017)<br>
@@ -431,15 +434,18 @@ sugar cane, maize, milk, rice, plantains, bananas, pineapples, potatoes, beef, p
 agricultural products, livestock, raw materials, machinery and equipment, transport equipment, construction materials, medical equipment, pharmaceuticals, chemicals, iron and steel products, crude oil and petroleum products<br>
 
 **Industrial production growth rate**<br>
--2% (2017 est.)<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-10.245 million (2021 est.)<br>
+10.969 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.41% (2021 est.)<br>
-6.63% (2020 est.)<br>
-5.1% (2019 est.)<br>
+5.62% (2022 est.)<br>
+7.13% (2021 est.)<br>
+7.53% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.9% (2021 est.)<br>
@@ -448,6 +454,7 @@ _female_: 19.3% NA<br>
 
 **Population below poverty line**<br>
 33.1% (2015 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 39 (2011 est.)<br>
@@ -459,6 +466,11 @@ _on alcohol and tobacco_: 3.8% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
 _highest 10%_: 32.7% (2006)<br>
+
+**Remittances**<br>
+0.03% of GDP (2014 est.)<br>
+0.03% of GDP (2013 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $30 million (2017 est.)<br>
@@ -480,10 +492,14 @@ calendar year<br>
 
 **Current account balance**<br>
 -$3.87 billion (2016 est.)<br>
+-$16.051 billion (2015 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $83.401 billion (2018 est.)<br>
 $93.485 billion (2017 est.)<br>
+$28.684 billion (2016 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 India 34%, China 28%, United States 12%, Spain 6% (2019)<br>
@@ -494,6 +510,8 @@ crude petroleum, refined petroleum, industrial alcohols, gold, iron (2019)<br>
 **Imports**<br>
 $18.432 billion (2018 est.)<br>
 $18.376 billion (2017 est.)<br>
+$25.81 billion (2016 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 28%, United States 22%, Brazil 8%, Spain 6%, Mexico 6%&nbsp; (2019)<br>
@@ -502,8 +520,10 @@ China 28%, United States 22%, Brazil 8%, Spain 6%, Mexico 6%&nbsp; (2019)<br>
 refined petroleum, rice, corn, tires, soybean meal, wheat (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$9.794 billion (31 December 2017 est.)<br>
-$11 billion (31 December 2016 est.)<br>
+$9.794 billion (2017 est.)<br>
+$10.15 billion (2016 est.)<br>
+$15.625 billion (2015 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $100.3 billion (31 December 2017 est.)<br>

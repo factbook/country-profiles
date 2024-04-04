@@ -391,29 +391,32 @@ _selected World Heritage Site locales_: Proto-urban Site of Sarazm (c); Tajik Na
 lower middle-income Central Asian economy; key gold, cotton, and aluminum exporter; declining poverty; sustained high growth; very limited private sector; substantial illicit drug trade; significant remittances; environmentally fragile<br>
 
 **Real GDP (purchasing power parity)**<br>
-$38.058 billion (2021 est.)<br>
+$41.177 billion (2022 est.)<br>
+$38.127 billion (2021 est.)<br>
 $34.851 billion (2020 est.)<br>
-$33.382 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-9.2% (2021 est.)<br>
+8% (2022 est.)<br>
+9.4% (2021 est.)<br>
 4.4% (2020 est.)<br>
-7.4% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$4,100 (2022 est.)<br>
 $3,900 (2021 est.)<br>
 $3,700 (2020 est.)<br>
-$3,600 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.522 billion (2019 est.)<br>
+$10.492 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 7.7% (2019 est.)<br>
 3.9% (2018 est.)<br>
 7.3% (2017 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2017)<br>
@@ -440,16 +443,18 @@ milk, potatoes, wheat, watermelons, onions, tomatoes, vegetables, cotton, carrot
 aluminum, cement, coal, gold, silver, antimony, textile, vegetable oil<br>
 
 **Industrial production growth rate**<br>
-22.04% (2021 est.)<br>
+12.84% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.5 million (2021 est.)<br>
+2.612 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.75% (2021 est.)<br>
-7.58% (2020 est.)<br>
-7.06% (2019 est.)<br>
-<strong>note:</strong> official rate; actual unemployment is much higher<br>
+7% (2022 est.)<br>
+7.47% (2021 est.)<br>
+7.3% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 17.4% (2021 est.)<br>
@@ -457,19 +462,23 @@ _male_: 19.4%<br>
 _female_: 14.4%<br>
 
 **Population below poverty line**<br>
-26.3% (2019 est.)<br>
+22.5% (2022 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 34 (2015 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: (2009 est.) NA<br>
-_highest 10%_: (2009 est.) NA<br>
+_lowest 10%_: 3%<br>
+_highest 10%_: 26.4% (2015 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-33.41% of GDP (2021 est.)<br>
+50.95% of GDP (2022 est.)<br>
+32.69% of GDP (2021 est.)<br>
 26.88% of GDP (2020 est.)<br>
-27.97% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $2.222 billion (2019 est.)<br>
@@ -483,20 +492,23 @@ _expenditures_: $2.393 billion (2019 est.)<br>
 42% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-31.8% (of GDP) (2017 est.)<br>
+10.35% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
+$1.635 billion (2022 est.)<br>
 $734.735 million (2021 est.)<br>
 $335.906 million (2020 est.)<br>
--$185.295 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$1.753 billion (2022 est.)<br>
 $2.161 billion (2021 est.) note: data are in current year dollars<br>
 $1.409 billion (2020 est.) note: data are in current year dollars<br>
-$1.243 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Turkey 24%, Switzerland 22%, Uzbekistan 16%, Kazakhstan 12%, China 10% (2019)<br>
@@ -505,9 +517,10 @@ Turkey 24%, Switzerland 22%, Uzbekistan 16%, Kazakhstan 12%, China 10% (2019)<br
 gold, aluminum, cotton, zinc, antimony, lead (2019)<br>
 
 **Imports**<br>
+$5.261 billion (2022 est.)<br>
 $4.258 billion (2021 est.) note: data are in current year dollars<br>
 $3.125 billion (2020 est.) note: data are in current year dollars<br>
-$3.409 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 40%, Russia 38%, Kazakhstan 19%, Uzbekistan 5% (2019)<br>
@@ -516,9 +529,10 @@ China 40%, Russia 38%, Kazakhstan 19%, Uzbekistan 5% (2019)<br>
 refined petroleum, wheat, natural gas, bauxite, aircraft (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.499 billion (31 December 2021 est.)<br>
-$2.238 billion (31 December 2020 est.)<br>
-$1.466 billion (31 December 2019 est.)<br>
+$3.847 billion (2022 est.)<br>
+$2.499 billion (2021 est.)<br>
+$2.238 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $6.47 billion (2019 est.)<br>
@@ -526,11 +540,11 @@ $5.849 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Tajikistani somoni (TJS) per US dollar -<br>
+11.031 (2022 est.)<br>
 11.309 (2021 est.)<br>
 10.322 (2020 est.)<br>
 9.53 (2019 est.)<br>
 9.151 (2018 est.)<br>
-8.55 (2017 est.)<br>
 
 ## Energy
 

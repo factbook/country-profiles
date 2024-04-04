@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-Lucayan Indians inhabited the islands when Christopher COLUMBUS first set foot in the New World on San Salvador in 1492. British settlement of the islands began in 1647; the islands became a colony in 1783. Piracy thrived in the 17th and 18th centuries because of The Bahamas close proximity to shipping lanes. Since attaining independence from the UK in 1973, The Bahamas has prospered through tourism, international banking, and investment management, which comprise up to 85% of GDP. Because of its proximity to the US - the nearest Bahamian landmass being only 80 km (50 mi) from Florida - the country is a major transshipment point for illicit trafficking, particularly to the US mainland, as well as Europe. US law enforcement agencies cooperate closely with The Bahamas, the Drug Enforcement Administration, US Coast Guard, and US Customs and Border Protection assist Bahamian authorities in maritime security and law enforcement through Operation Bahamas, Turks and Caicos, or OPBAT.<br>
+Lucayan Indians inhabited the Bahama islands when Christopher COLUMBUS first set foot in the New World in 1492. British settlement of the islands began in 1647; the islands became a colony in 1783. Piracy thrived in the 17th and 18th centuries because of The Bahamas' close proximity to shipping lanes. Since gaining independence from the UK in 1973, The Bahamas has prospered through tourism, international banking, and investment management, which comprise up to 85% of GDP. Because of its proximity to the US -- the nearest Bahamian landmass is only 80 km (50 mi) from Florida -- the country is a major transshipment point for illicit trafficking to the US mainland, as well as to Europe. US law enforcement agencies cooperate closely with The Bahamas; the Drug Enforcement Administration, US Coast Guard, and US Customs and Border Protection assist Bahamian authorities with maritime security and law enforcement through Operation Bahamas, Turks and Caicos, or OPBAT.<br>
 
 ## Geography
 
@@ -294,16 +294,16 @@ _cabinet_: Cabinet appointed by governor-general on recommendation of prime mini
 _elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following parliamentary elections, the leader of the majority party or majority coalition is appointed prime minister by the governor-general; the prime minister recommends the deputy prime minister<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (16 seats; members appointed by the governor-general - 9 selected on the advice of the prime minister, 4 on the advice of the leader of the opposition party, and 3 on the advice of the prime minister in consultation with the opposition leader; members serve 5-year terms)<br>House of Assembly (39 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_description_: bicameral Parliament consists of:<br>Senate (16 seats; members appointed by the governor-general - 9 selected on the advice of the prime minister, 4 on the advice of the leader of the opposition party, and 3 on the advice of the prime minister in consultation with the opposition leader; members serve 5-year terms)<br>House of Assembly (39 seats statutory, 38 seats current; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: <br>Senate - last appointments on 7 October 2021 (next appointments by 31 October 2026)<br>House of Assembly - last held on 16 September 2021 (next to be held by September 2026)<br>
 _election results_: <br>Senate - appointed: PLP 12, FNM 4; composition as of August 2023 - men 12, women 4, percent of women 25%<br><br>House of Assembly - percent of vote by party - PLP 52.5%, FNM 36.2%; seats by party - PLP 32, FNM 7; composition as of August 2023 - men 32, women 7, percent of women 18%; note - total Parliament percent of women 20%<br>
-<strong>note:</strong> the government may dissolve the parliament and call elections at any time<br>
+<strong>note:</strong> Parliament sits for 5 years from the date of the last general election: the government may dissolve the parliament and call elections at any time<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Appeal (consists of the court president and 4 justices, organized in 3-member panels); Supreme Court (consists of the chief justice and a maximum of 11 and a minimum of 2 justices)<br>
+_highest court(s)_: Court of Appeal (consists of the court president and 6 justices, organized in 3-member panels); Supreme Court (consists of the chief justice and 19 justices)<br>
 _judge selection and term of office_: Court of Appeal president and Supreme Court chief justice appointed by the governor-general on the advice of the prime minister after consultation with the leader of the opposition party; other Court of Appeal and Supreme Court justices appointed by the governor general upon recommendation of the Judicial and Legal Services Commission, a 5-member body headed by the chief justice; Court of Appeal justices appointed for life with mandatory retirement normally at age 68 but can be extended until age 70; Supreme Court justices appointed for life with mandatory retirement normally at age 65 but can be extended until age 67<br>
-_subordinate courts_: Industrial Tribunal; Stipendiary and Magistrates' Courts; Family Island Administrators<br>
-<strong>note:</strong> The Bahamas is a member of the 15-member Caribbean Community but is not party to the agreement establishing the Caribbean Court of Justice as its highest appellate court;  the Judicial Committee of the Privy Council (in London) serves as the final court of appeal for The Bahamas<br>
+_subordinate courts_: Industrial Tribunal; Magistrates' Courts; Family Island Administrators (can also serve as magistrates)<br>
+<strong>note:</strong> The Bahamas is a member of the 15-member Caribbean Community but is not party to the agreement establishing the Caribbean Court of Justice as its highest appellate court; the Judicial Committee of the Privy Council (in London) serves as the final court of appeal for The Bahamas<br>
 
 **Political parties and leaders**<br>
 <p>Coalition of Independents Party or COI [Lincoln BAIN]<br>Democratic National Alliance or DNA [Arinthia KOMOLAFE]<br>Free National Movement or FNM [Michael PINTARD]<br>Progressive Liberal Party or PLP [Philip "Brave" DAVIS]</p><br>
@@ -344,29 +344,32 @@ _lyrics/music_: Timothy GIBSON<br>
 high-income tourism and financial services economy; major income inequality; strong US bilateral relations; several tax relief programs; targeted investment in agriculture, energy, light manufacturing, and technology industries<br>
 
 **Real GDP (purchasing power parity)**<br>
-$12.323 billion (2021 est.)<br>
-$10.836 billion (2020 est.)<br>
-$14.225 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$14.211 billion (2022 est.)<br>
+$12.426 billion (2021 est.)<br>
+$10.622 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-13.72% (2021 est.)<br>
--23.82% (2020 est.)<br>
-1.9% (2019 est.)<br>
+14.37% (2022 est.)<br>
+16.98% (2021 est.)<br>
+-23.51% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$30,200 (2021 est.)<br>
-$26,700 (2020 est.)<br>
-$35,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$34,700 (2022 est.)<br>
+$30,500 (2021 est.)<br>
+$26,100 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$12.16 billion (2017 est.)<br>
+$12.897 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.61% (2022 est.)<br>
 2.9% (2021 est.)<br>
 0.04% (2020 est.)<br>
-2.49% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Ba2 (2020)<br>
@@ -393,15 +396,18 @@ sugar cane, grapefruit, vegetables, bananas, tomatoes, poultry, tropical fruit, 
 tourism, banking, oil bunkering, maritime industries, transshipment and logistics, salt, aragonite, pharmaceuticals<br>
 
 **Industrial production growth rate**<br>
-8.51% (2021 est.)<br>
+10.18% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-224,400 (2021 est.)<br>
+238,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-13.24% (2021 est.)<br>
-13.32% (2020 est.)<br>
-10.06% (2019 est.)<br>
+10.09% (2022 est.)<br>
+11.58% (2021 est.)<br>
+12.56% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 30.8% (2021 est.)<br>
@@ -423,26 +429,29 @@ _expenditures_: $2.899 billion (2020 est.)<br>
 -2.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-84.45% of GDP (2020 est.)<br>
-57.05% of GDP (2019 est.)<br>
-56.78% of GDP (2018 est.)<br>
+83.68% of GDP (2022 est.)<br>
+86.19% of GDP (2021 est.)<br>
+83.97% of GDP (2020 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-19.16% (of GDP) (2020 est.)<br>
+16.73% (of GDP) (2022 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$2.592 billion (2021 est.)<br>
--$2.373 billion (2020 est.)<br>
--$345.481 million (2019 est.)<br>
+-$1.763 billion (2022 est.)<br>
+-$2.434 billion (2021 est.)<br>
+-$2.285 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$3.202 billion (2021 est.)<br>
-$1.65 billion (2020 est.)<br>
-$5.164 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$4.744 billion (2022 est.)<br>
+$3.33 billion (2021 est.)<br>
+$1.688 billion (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 26%, Germany 16%, Singapore 13%, Poland 13%, Thailand 9% (2021)<br>
@@ -452,9 +461,10 @@ refined petroleum, ships, aluminum, lobsters and crawfish, styrene polymers (202
 <strong>note:</strong> Bahamian cannabis production remains a significant illicit trade export<br>
 
 **Imports**<br>
-$4.924 billion (2021 est.) note: data are in current year dollars<br>
+$5.692 billion (2022 est.)<br>
+$4.947 billion (2021 est.) note: data are in current year dollars<br>
 $3.411 billion (2020 est.) note: data are in current year dollars<br>
-$4.84 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 37%, South Korea 12%, Germany 9%, China 7%, Russia 6% (2021)<br>
@@ -463,9 +473,10 @@ United States 37%, South Korea 12%, Germany 9%, China 7%, Russia 6% (2021)<br>
 refined petroleum, ships, aircraft, crude petroleum, floating docks (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.433 billion (31 December 2021 est.)<br>
-$2.382 billion (31 December 2020 est.)<br>
-$1.758 billion (31 December 2019 est.)<br>
+$2.609 billion (2022 est.)<br>
+$2.433 billion (2021 est.)<br>
+$2.382 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $17.56 billion (31 December 2013 est.)<br>
@@ -473,11 +484,11 @@ $16.35 billion (31 December 2012 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Bahamian dollars (BSD) per US dollar -<br>
+1 (2022 est.)<br>
 1 (2021 est.)<br>
 1 (2020 est.)<br>
 1 (2019 est.)<br>
 1 (2018 est.)<br>
-1 (2017 est.)<br>
 
 ## Energy
 

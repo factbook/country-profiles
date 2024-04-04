@@ -401,29 +401,32 @@ _selected World Heritage Site locales_: Ruins of Lorop&eacute;ni (c); Ancient Fe
 highly agrarian, low-income economy; limited natural resources; widespread poverty; terrorism disrupting potential economic activity; improving trade balance via increases in gold exports; economy inflating after prior deflation; growing public debt but still manageable<br>
 
 **Real GDP (purchasing power parity)**<br>
-$48.175 billion (2021 est.)<br>
-$45.063 billion (2020 est.)<br>
-$44.209 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$48.949 billion (2022 est.)<br>
+$48.093 billion (2021 est.)<br>
+$44.973 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.91% (2021 est.)<br>
-1.93% (2020 est.)<br>
-5.69% (2019 est.)<br>
+1.78% (2022 est.)<br>
+6.94% (2021 est.)<br>
+1.92% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,200 (2022 est.)<br>
 $2,200 (2021 est.)<br>
 $2,100 (2020 est.)<br>
-$2,100 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$14.271 billion (2018 est.)<br>
+$18.82 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+14.29% (2022 est.)<br>
 3.65% (2021 est.)<br>
 1.88% (2020 est.)<br>
--3.23% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Standard & Poors rating_: B (2017)<br>
@@ -449,16 +452,18 @@ sorghum, maize, millet, cotton, cow peas, sugar cane, groundnuts, rice, sesame s
 cotton lint, beverages, agricultural processing, soap, cigarettes, textiles, gold<br>
 
 **Industrial production growth rate**<br>
-8.73% (2021 est.)<br>
+-8.28% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.016 million (2021 est.)<br>
-<strong>note:</strong> a large part of the male labor force migrates annually to neighboring countries for seasonal employment<br>
+8.328 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.76% (2021 est.)<br>
-4.89% (2020 est.)<br>
-4.69% (2019 est.)<br>
+5.07% (2022 est.)<br>
+5.36% (2021 est.)<br>
+5.15% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 7.7% (2021 est.)<br>
@@ -467,18 +472,22 @@ _female_: 8%<br>
 
 **Population below poverty line**<br>
 41.4% (2018 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-47.3 (2018 est.)<br>
+43 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9%<br>
-_highest 10%_: 32.2% (2009 est.)<br>
+_lowest 10%_: 2.6%<br>
+_highest 10%_: 35.3% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.93% of GDP (2020 est.)<br>
-2.89% of GDP (2019 est.)<br>
-2.87% of GDP (2018 est.)<br>
+3.13% of GDP (2022 est.)<br>
+2.91% of GDP (2021 est.)<br>
+2.96% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $3.212 billion (2019 est.)<br>
@@ -488,26 +497,29 @@ _expenditures_: $3.757 billion (2019 est.)<br>
 -7.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-72.53% of GDP (2020 est.)<br>
-46.64% of GDP (2019 est.)<br>
-45.57% of GDP (2018 est.)<br>
+55.74% of GDP (2021 est.)<br>
+73.39% of GDP (2020 est.)<br>
+47.06% of GDP (2019 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-13.28% (of GDP) (2020 est.)<br>
+15.98% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
+$77.255 million (2021 est.)<br>
 $743.232 million (2020 est.)<br>
 -$523.837 million (2019 est.)<br>
--$664.797 million (2018 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$6.234 billion (2021 est.)<br>
 $5.356 billion (2020 est.)<br>
 $4.468 billion (2019 est.)<br>
-$4.511 billion (2018 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Switzerland 59%, India 21% (2019)<br>
@@ -516,9 +528,10 @@ Switzerland 59%, India 21% (2019)<br>
 gold, cotton, zinc, cashews, sesame seeds (2021)<br>
 
 **Imports**<br>
+$5.835 billion (2021 est.)<br>
 $4.779 billion (2020 est.) note: data are in current year dollars<br>
 $5.023 billion (2019 est.) note: data are in current year dollars<br>
-$5.167 billion (2018 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Cote d'Ivoire 15%, China 9%, Ghana 8%, France 8%, India 6%, United States 5% (2019)<br>
@@ -536,11 +549,11 @@ $2.88 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
 555.446 (2018 est.)<br>
-580.657 (2017 est.)<br>
 
 ## Energy
 
@@ -674,7 +687,7 @@ Armed Forces of Burkina Faso (FABF; aka National Armed Forces (FAN), aka Defense
 
 **Military and security service personnel strengths**<br>
 approximately 15,500 personnel (10,000 Army; 500 Air Force; 5,000 National Gendarmerie) (2023)<br>
-<strong>note: </strong>in 2022, government authorities announced a special recruitment for up to 6,000 additional soldiers and 1,500 gendarmes to assist with its fight against terrorist groups operating in the country; the government also put out a recruitment call for up to 100,000 VDF volunteers, and as of 2023 claimed about 50,000 had volunteered (the VDF's original recruited strength was 15,000)<br><strong><br><br></strong><br>
+<strong>note: </strong>in 2022, government authorities announced a special recruitment for up to 6,000 additional soldiers and 1,500 gendarmes to assist with its fight against terrorist groups operating in the country; the government also put out a recruitment call for up to 100,000 VDP volunteers, and as of 2023 claimed about 50,000 had volunteered (the VDP's original recruited strength was 15,000)<br><strong><br><br></strong><br>
 
 **Military equipment inventories and acquisitions**<br>
 the FABF has a mix of older, secondhand, and some modern equipment from a variety of suppliers, including China, France, Russia, South Africa, Turkey, the UK, and the US (2023)<br>

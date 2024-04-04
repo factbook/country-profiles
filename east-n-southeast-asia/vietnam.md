@@ -406,29 +406,32 @@ _selected World Heritage Site locales_: Complex of Hué Monuments (c); Ha Long B
 lower middle-income socialist East Asian economy; rapid economic growth since Đổi Mới reforms; strong investment and productivity growth; tourism and manufacturing hub; TPP signatory; declining poverty aside from ethnic minorities; systemic corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
+$1.119 trillion (2022 est.)<br>
 $1.036 trillion (2021 est.)<br>
 $1.01 trillion (2020 est.)<br>
-$981.903 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+8.02% (2022 est.)<br>
 2.56% (2021 est.)<br>
 2.87% (2020 est.)<br>
-7.36% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$11,400 (2022 est.)<br>
 $10,600 (2021 est.)<br>
 $10,500 (2020 est.)<br>
-$10,300 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$259.957 billion (2019 est.)<br>
+$408.802 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.16% (2022 est.)<br>
 1.83% (2021 est.)<br>
 3.22% (2020 est.)<br>
-2.8% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB (2018)<br>
@@ -456,15 +459,18 @@ rice, vegetables, sugar cane, cassava, maize, pork, fruit, bananas, coffee, coco
 food processing, garments, shoes, machine-building; mining, coal, steel; cement, chemical fertilizer, glass, tires, oil, mobile phones<br>
 
 **Industrial production growth rate**<br>
-3.58% (2021 est.)<br>
+7.78% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-56.203 million (2021 est.)<br>
+55.689 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.17% (2021 est.)<br>
-2.39% (2020 est.)<br>
-2.04% (2019 est.)<br>
+1.54% (2022 est.)<br>
+2.38% (2021 est.)<br>
+2.1% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 7.2% (2021 est.)<br>
@@ -472,23 +478,27 @@ _male_: 7.1%<br>
 _female_: 7.5%<br>
 
 **Population below poverty line**<br>
-6.7% (2018 est.)<br>
+4.8% (2020 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-35.7 (2018 est.)<br>
+36.8 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 38.8% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.7%<br>
-_highest 10%_: 26.8% (2014)<br>
+_lowest 10%_: 2.5%<br>
+_highest 10%_: 28.5% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-4.96% of GDP (2020 est.)<br>
-5.08% of GDP (2019 est.)<br>
-5.16% of GDP (2018 est.)<br>
+3.22% of GDP (2022 est.)<br>
+3.41% of GDP (2021 est.)<br>
+3.04% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $64.895 billion (2019 est.)<br>
@@ -509,14 +519,16 @@ _expenditures_: $75.834 billion (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$3.812 billion (2021 est.)<br>
+-$1.074 billion (2022 est.)<br>
+-$4.628 billion (2021 est.)<br>
 $15.06 billion (2020 est.)<br>
-$13.101 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$339.984 billion (2021 est.) note: data are in current year dollars<br>
+$384.204 billion (2022 est.)<br>
+$340.126 billion (2021 est.) note: data are in current year dollars<br>
 $290.229 billion (2020 est.) note: data are in current year dollars<br>
-$280.826 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 US 28%, China 17%, South Korea 6%, Japan 6%, Hong Kong 4% (2021)<br>
@@ -525,9 +537,10 @@ US 28%, China 17%, South Korea 6%, Japan 6%, Hong Kong 4% (2021)<br>
 broadcasting equipment, telephones, integrated circuits, office machinery, footwear, furniture (2021)<br>
 
 **Imports**<br>
-$338.021 billion (2021 est.) note: data are in current year dollars<br>
+$371.111 billion (2022 est.)<br>
+$338.327 billion (2021 est.) note: data are in current year dollars<br>
 $269.808 billion (2020 est.) note: data are in current year dollars<br>
-$261.683 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 39%, South Korea 17%, Japan 5%, Taiwan 4%, Thailand 4% (2021)<br>
@@ -536,9 +549,10 @@ China 39%, South Korea 17%, Japan 5%, Taiwan 4%, Thailand 4% (2021)<br>
 integrated circuits, telephones, clothing and apparel, broadcasting accessories, refined petroleum, iron sheeting (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$109.371 billion (31 December 2021 est.)<br>
-$94.834 billion (31 December 2020 est.)<br>
-$78.335 billion (31 December 2019 est.)<br>
+$86.54 billion (2022 est.)<br>
+$109.371 billion (2021 est.)<br>
+$94.834 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $96.58 billion (31 December 2017 est.)<br>
@@ -546,11 +560,11 @@ $84.34 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: dong (VND) per US dollar -<br>
+23,271.213 (2022 est.)<br>
 23,159.783 (2021 est.)<br>
 23,208.368 (2020 est.)<br>
 23,050.242 (2019 est.)<br>
 22,602.05 (2018 est.)<br>
-22,370.087 (2017 est.)<br>
 
 ## Energy
 
@@ -710,7 +724,7 @@ the PAVN is armed largely with weapons and equipment from Russia and the former 
 190 Abyei/South Sudan/Sudan (UNISFA) (2023)<br>
 
 **Military - note**<br>
-the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary<br><br>the PAVN is one of the region’s largest militaries and has participated in numerous conflicts since its founding in the mid-1940s, including the First (1946-54) and Second (1950s-1975) Indochina Wars, the Cambodian-Vietnamese War (1978-1989), and the Sino-Vietnamese War (1979); the PAVN’s current missions include protecting the country's independence, sovereignty, territorial integrity, and national interests; in recent years, it has increased focus on protecting the country’s maritime economy and sovereignty; it also assists with natural disasters and is involved in economic projects, including electrical infrastructure, oil and gas services, hydroelectric projects, aviation and seaport services, telecommunications, and the shipbuilding industry, while military-owned factories and enterprises produce weapons and equipment; the Ground Forces are spread throughout the country in approximately eight regional commands, four operational corps, and dozens of divisions and brigades, including some that are maintained at cadre strength and filled in wartime by an estimated five million reserves; the Navy in recent years has received increased government focus for procurement efforts because of the rise in territorial disputes in the South China Sea and has a growing combat force of about 20 frigates, corvettes, and fast-attack surface vessels, plus eight attack submarines; the Air Force has a mix of approximately 75 Soviet-era and Russian-made combat aircraft (2023)<br>
+the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary<br><br>the PAVN is one of the region’s largest militaries and has participated in numerous conflicts since its founding in the mid-1940s, including the First (1946-54) and Second (1950s-1975) Indochina Wars, the Cambodian-Vietnamese War (1978-1989), and the Sino-Vietnamese War (1979); the PAVN’s current missions include protecting the country's independence, sovereignty, territorial integrity, and national interests; in recent years, it has increased focus on protecting the country’s maritime economy and sovereignty; it also assists with natural disasters and is involved in economic projects, including electrical infrastructure, oil and gas services, hydroelectric projects, aviation and seaport services, telecommunications, and the shipbuilding industry, while military-owned factories and enterprises produce weapons and equipment; the Ground Forces are spread throughout the country in approximately eight regional commands, four operational corps, and dozens of divisions and brigades, including some that are maintained at cadre strength and filled in wartime by an estimated five million reserves; the Navy is organized into five regional commands; in recent years, it has received increased government focus for procurement efforts because of the rise in territorial disputes in the South China Sea and has a growing combat force of about 20 frigates, corvettes, and fast-attack surface vessels, plus six attack submarines; the Air Force is organized into divisions, regiments, and squadrons; it has a mix of approximately 75 Soviet-era and Russian-made combat aircraft (2023)<br>
 
 ## Space
 

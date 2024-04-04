@@ -402,29 +402,31 @@ lower middle-income non-EU Eastern European economy; key wheat, corn, and indust
 
 **Real GDP (purchasing power parity)**<br>
 $379.893 billion (2022 est.)<br>
-$535.579 billion (2021 est.)<br>
+$535.815 billion (2021 est.)<br>
 $517.968 billion (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.4% (2021 est.)<br>
+-29.1% (2022 est.)<br>
+3.45% (2021 est.)<br>
 -3.75% (2020 est.)<br>
-3.2% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $10,700 (2022 est.)<br>
 $12,900 (2021 est.)<br>
 $12,400 (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$155.082 billion (2019 est.)<br>
+$160.503 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+20.18% (2022 est.)<br>
 9.36% (2021 est.)<br>
 2.73% (2020 est.)<br>
-7.89% (2019 est.)<br>
-<strong>note:</strong> Excluding the temporarily occupied territories of the Autonomous Republic of Crimea, the city of Sevastopol and part of the anti-terrorist operation zone<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CC (2022)<br>
@@ -452,16 +454,18 @@ sunflower seed, maize, wheat, rapeseed, barley, poultry meats, soybeans<br>
 industrial machinery, ferrous and nonferrous metals, automotive and aircraft components, electronics, chemicals, textiles, mining, construction<br>
 
 **Industrial production growth rate**<br>
-2.57% (2021 est.)<br>
+-43.15% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-20.463 million (2021 est.)<br>
+20.3 million (2021 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.88% (2021 est.)<br>
-9.13% (2020 est.)<br>
+9.83% (2021 est.)<br>
+9.48% (2020 est.)<br>
 8.19% (2019 est.)<br>
-<strong>note:</strong> officially registered workers; large number of unregistered or underemployed workers<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 16.5% (2021 est.)<br>
@@ -469,23 +473,27 @@ _male_: 16.3%<br>
 _female_: 16.7%<br>
 
 **Population below poverty line**<br>
-1.1% (2019 est.)<br>
+1.6% (2020 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 25.6 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 42.2% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 7.7% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4.2%<br>
-_highest 10%_: 21.6% (2015 est.)<br>
+_lowest 10%_: 4.3%<br>
+_highest 10%_: 21.8% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-9.03% of GDP (2021 est.)<br>
+10.41% of GDP (2022 est.)<br>
+9.04% of GDP (2021 est.)<br>
 9.71% of GDP (2020 est.)<br>
-10.26% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $29 billion (2021 est.)<br>
@@ -498,24 +506,26 @@ _expenditures_: $35.75 billion (2021 est.)<br>
 58.72% of GDP (2020 est.)<br>
 48.33% of GDP (2019 est.)<br>
 56.91% of GDP (2018 est.)<br>
-<strong>note:</strong> the total public debt of $64.5 billion consists of: domestic public debt ($23.8 billion); external public debt ($26.1 billion); and sovereign guarantees ($14.6 billion)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-19.15% (of GDP) (2020 est.)<br>
+16.85% (of GDP) (2022 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$8.005 billion (2022 est.)<br>
--$3.249 billion (2021 est.)<br>
+$7.972 billion (2022 est.)<br>
+-$3.882 billion (2021 est.)<br>
 $5.267 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$56.909 billion (2022 est.)<br>
+$57.517 billion (2022 est.)<br>
 $81.504 billion (2021 est.)<br>
 $60.707 billion (2020 est.)<br>
-<strong>note: </strong>data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 12%, Poland 7%, Turkey 6%, Russia 5%, Italy 5% (2021)<br>
@@ -524,10 +534,10 @@ China 12%, Poland 7%, Turkey 6%, Russia 5%, Italy 5% (2021)<br>
 corn, sunflower seed oils, iron/iron products, wheat, insulated wiring, rapeseed (2021)<br>
 
 **Imports**<br>
-$83.863 billion (2022 est.)<br>
+$83.254 billion (2022 est.)<br>
 $84.175 billion (2021 est.)<br>
 $63.085 billion (2020 est.)<br>
-<strong>note: </strong>data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 14%, Russia 11%, Poland 9%, Germany 9%, Belarus 6% (2021)<br>
@@ -536,9 +546,10 @@ China 14%, Russia 11%, Poland 9%, Germany 9%, Belarus 6% (2021)<br>
 refined petroleum, cars, natural gas, packaged medicines, coal, broadcasting equipment (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$30.967 billion (31 December 2021 est.)<br>
-$29.138 billion (31 December 2020 est.)<br>
-$25.317 billion (31 December 2019 est.)<br>
+$28.506 billion (2022 est.)<br>
+$30.967 billion (2021 est.)<br>
+$29.138 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $117.41 billion (2019 est.)<br>
@@ -546,11 +557,11 @@ $114.449 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: hryvnia (UAH) per US dollar -<br>
+32.342 (2022 est.)<br>
 27.286 (2021 est.)<br>
 26.958 (2020 est.)<br>
 25.846 (2019 est.)<br>
 27.2 (2018 est.)<br>
-26.597 (2017 est.)<br>
 
 ## Energy
 

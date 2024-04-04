@@ -399,29 +399,32 @@ _selected World Heritage Site locales_: Koutammakou; the Land of the Batammariba
 low-income West African economy; primarily agrarian economy; has a deep-water port; growing international shipping locale; improving privatization and public budgeting transparency; key phosphate mining industry; extremely high rural poverty<br>
 
 **Real GDP (purchasing power parity)**<br>
-$18.369 billion (2021 est.)<br>
-$17.451 billion (2020 est.)<br>
-$17.15 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$19.491 billion (2022 est.)<br>
+$18.421 billion (2021 est.)<br>
+$17.38 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.26% (2021 est.)<br>
-1.75% (2020 est.)<br>
-5.46% (2019 est.)<br>
+5.81% (2022 est.)<br>
+5.99% (2021 est.)<br>
+2.16% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,200 (2022 est.)<br>
 $2,100 (2021 est.)<br>
 $2,100 (2020 est.)<br>
-$2,100 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$5.232 billion (2018 est.)<br>
+$8.341 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-1.83% (2020 est.)<br>
-0.69% (2019 est.)<br>
-0.93% (2018 est.)<br>
+7.97% (2022 est.)<br>
+4.19% (2021 est.)<br>
+1.7% (2020 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2019)<br>
@@ -448,15 +451,18 @@ cassava, maize, yams, sorghum, beans, oil palm fruit, rice, vegetables, cotton, 
 phosphate mining, agricultural processing, cement, handicrafts, textiles, beverages<br>
 
 **Industrial production growth rate**<br>
-5.32% (2020 est.)<br>
+7.27% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.965 million (2021 est.)<br>
+3.074 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4% (2021 est.)<br>
-3.94% (2020 est.)<br>
-3.72% (2019 est.)<br>
+3.85% (2022 est.)<br>
+4.4% (2021 est.)<br>
+4.17% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.7% (2021 est.)<br>
@@ -464,19 +470,23 @@ _male_: 12.3%<br>
 _female_: 7.7%<br>
 
 **Population below poverty line**<br>
-55.1% (2015 est.)<br>
+45.5% (2018 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-42.4 (2018 est.)<br>
+42.5 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.3%<br>
-_highest 10%_: 27.1% (2006)<br>
+_lowest 10%_: 2.3%<br>
+_highest 10%_: 33% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-8.59% of GDP (2020 est.)<br>
-7.04% of GDP (2019 est.)<br>
-6.34% of GDP (2018 est.)<br>
+7.8% of GDP (2022 est.)<br>
+7.7% of GDP (2021 est.)<br>
+8.69% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.275 billion (2019 est.)<br>
@@ -490,7 +500,8 @@ _expenditures_: $1.158 billion (2019 est.)<br>
 81.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-13.16% (of GDP) (2019 est.)<br>
+13.58% (of GDP) (2019 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -499,11 +510,13 @@ calendar year<br>
 -$20.738 million (2020 est.)<br>
 -$55.444 million (2019 est.)<br>
 -$184.852 million (2018 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $1.722 billion (2020 est.) note: data are in current year dollars<br>
 $1.665 billion (2019 est.) note: data are in current year dollars<br>
 $1.703 billion (2018 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 India 16%, Benin 15%, Burkina Faso 6%, France 6%, Morocco 5% (2019)<br>
@@ -515,6 +528,7 @@ refined petroleum, crude petroleum, electricity, calcium phosphates, cotton (201
 $2.389 billion (2020 est.) note: data are in current year dollars<br>
 $2.261 billion (2019 est.) note: data are in current year dollars<br>
 $2.329 billion (2018 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 18%, South Korea 13%, India 11%, Belgium 10%, Netherlands 8%, United States 5% (2019)<br>
@@ -532,11 +546,11 @@ $1.22 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
 555.446 (2018 est.)<br>
-580.657 (2017 est.)<br>
 
 ## Energy
 

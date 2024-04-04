@@ -387,29 +387,32 @@ _selected World Heritage Site locales_: National History Park &ndash; Citadel, S
 small Caribbean island economy and OECS-member state; extreme poverty and inflation; enormous income inequality; ongoing civil unrest due to recent presidential assassination; US preferential market access; very open to foreign direct investment<br>
 
 **Real GDP (purchasing power parity)**<br>
-$32.856 billion (2021 est.)<br>
-$33.458 billion (2020 est.)<br>
-$34.615 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$32.428 billion (2022 est.)<br>
+$32.982 billion (2021 est.)<br>
+$33.586 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+-1.68% (2022 est.)<br>
 -1.8% (2021 est.)<br>
--3.34% (2020 est.)<br>
--1.68% (2019 est.)<br>
+-3.31% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,800 (2022 est.)<br>
 $2,900 (2021 est.)<br>
 $3,000 (2020 est.)<br>
-$3,100 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$8.608 billion (2017 est.)<br>
+$20.254 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+33.98% (2022 est.)<br>
 16.84% (2021 est.)<br>
 22.8% (2020 est.)<br>
-18.7% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 22.1% (2017 est.)<br>
@@ -432,17 +435,18 @@ sugar cane, cassava, mangoes/guavas, plantains, bananas, yams, avocados, maize, 
 textiles, sugar refining, flour milling, cement, light assembly using imported parts<br>
 
 **Industrial production growth rate**<br>
--2.48% (2021 est.)<br>
+-0.37% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.01 million (2021 est.)<br>
-<strong>note:</strong> shortage of skilled labor; unskilled labor abundant<br>
+5.15 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-15.73% (2021 est.)<br>
-15.45% (2020 est.)<br>
-13.91% (2019 est.)<br>
-<strong>note:</strong> widespread unemployment and underemployment; more than two-thirds of the labor force do not have formal jobs<br>
+14.78% (2022 est.)<br>
+15.56% (2021 est.)<br>
+15.65% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 35.7% (2021 est.)<br>
@@ -460,9 +464,10 @@ _lowest 10%_: 0.7%<br>
 _highest 10%_: 47.7% (2001)<br>
 
 **Remittances**<br>
-20.04% of GDP (2021 est.)<br>
+22.38% of GDP (2022 est.)<br>
+20.1% of GDP (2021 est.)<br>
 23.82% of GDP (2020 est.)<br>
-20.47% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.179 billion (2020 est.)<br>
@@ -482,14 +487,16 @@ _expenditures_: $1.527 billion (2020 est.)<br>
 1 October - 30 September<br>
 
 **Current account balance**<br>
-$141.371 million (2021 est.)<br>
-$216.157 million (2020 est.)<br>
--$168.76 million (2019 est.)<br>
+-$491.954 million (2022 est.)<br>
+$87.656 million (2021 est.)<br>
+$51.548 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$1.241 billion (2021 est.) note: data are in current year dollars<br>
-$1.014 billion (2020 est.) note: data are in current year dollars<br>
-$1.733 billion (2019 est.)<br>
+$1.355 billion (2022 est.)<br>
+$1.272 billion (2021 est.) note: data are in current year dollars<br>
+$1.018 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 83%, Canada 4%, Mexico 3%, India 1%, Hong Kong 1% (2021)<br>
@@ -498,9 +505,10 @@ United States 83%, Canada 4%, Mexico 3%, India 1%, Hong Kong 1% (2021)<br>
 clothing and apparel, essential oils, eels, mangoes, scrap iron (2021)<br>
 
 **Imports**<br>
-$5.222 billion (2021 est.) note: data are in current year dollars<br>
-$4.206 billion (2020 est.) note: data are in current year dollars<br>
-$5.161 billion (2019 est.)<br>
+$5.451 billion (2022 est.)<br>
+$5.048 billion (2021 est.) note: data are in current year dollars<br>
+$4.177 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 26%, Dominican Republic 23%, China 19%, Turkey 3%, Indonesia 3% (2021)<br>
@@ -509,9 +517,10 @@ United States 26%, Dominican Republic 23%, China 19%, Turkey 3%, Indonesia 3% (2
 refined petroleum, rice, clothing and apparel, poultry, palm oil (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.759 billion (31 December 2021 est.)<br>
-$2.59 billion (31 December 2020 est.)<br>
-$2.355 billion (31 December 2019 est.)<br>
+$2.368 billion (2022 est.)<br>
+$2.734 billion (2021 est.)<br>
+$2.59 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2.762 billion (31 December 2017 est.)<br>
@@ -519,11 +528,11 @@ $2.17 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: gourdes (HTG) per US dollar -<br>
+115.631 (2022 est.)<br>
 89.227 (2021 est.)<br>
 93.51 (2020 est.)<br>
 88.815 (2019 est.)<br>
 68.032 (2018 est.)<br>
-64.77 (2017 est.)<br>
 
 ## Energy
 

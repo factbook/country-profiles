@@ -315,9 +315,6 @@ fodder and vegetable crops; venison, sheep, dairy products; fish, squid<br>
 **Industries**<br>
 fish and wool processing; tourism<br>
 
-**Industrial production growth rate**<br>
-NA<br>
-
 **Labor force**<br>
 1,850 (2016 est.)<br>
 
@@ -344,24 +341,17 @@ _expenditures_: $75.3 million (FY09/10)<br>
 **Public debt**<br>
 0% of GDP (2015 est.)<br>
 
-**Taxes and other revenues**<br>
-32.5% (of GDP) (FY09/10)<br>
-
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Exports**<br>
 $257.3 million (2015 est.)<br>
-$125 million (2004 est.)<br>
 
 **Exports - partners**<br>
 Spain 78%, United States 6% (2019)<br>
 
 **Exports - commodities**<br>
 mollusks, fish, wool, sheep and goat meats, aircraft parts (2021)<br>
-
-**Imports**<br>
-$90 million (2004 est.)<br>
 
 **Imports - partners**<br>
 United Kingdom 79%, Netherlands 16% (2019)<br>

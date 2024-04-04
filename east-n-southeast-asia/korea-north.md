@@ -362,7 +362,7 @@ one of the last centrally planned economies; hard hit by COVID-19, crop failures
 $40 billion (2015 est.)<br>
 $40 billion (2014 est.)<br>
 $40 billion (2013 est.)<br>
-<strong>note: </strong>data are in 2015 US dollars<br><br>North Korea does not publish reliable National Income Accounts data; the data shown are derived from purchasing power parity (PPP) GDP estimates that were made by Angus MADDISON in a study conducted for the OECD; his figure for 1999 was extrapolated to 2015 using estimated real growth rates for North Korea's GDP and an inflation factor based on the US GDP deflator; the results were rounded to the nearest $10 billion.<br>
+<strong>note: </strong>data are in 2015 dollars<br><br>North Korea does not publish reliable National Income Accounts data; the data shown are derived from purchasing power parity (PPP) GDP estimates that were made by Angus MADDISON in a study conducted for the OECD; his figure for 1999 was extrapolated to 2015 using estimated real growth rates for North Korea's GDP and an inflation factor based on the US GDP deflator; the results were rounded to the nearest $10 billion.<br>
 
 **Real GDP growth rate**<br>
 -1.1% (2015 est.)<br>
@@ -377,9 +377,6 @@ $1,800 (2013 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $28 billion (2013 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-<p>NA</p><br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 22.5% (2017 est.)<br>
@@ -401,16 +398,18 @@ rice, maize, vegetables, apples, potatoes, cabbages, fruit, sweet potatoes, bean
 military products; machine building, electric power, chemicals; mining (coal, iron ore, limestone, magnesite, graphite, copper, zinc, lead, and precious metals), metallurgy; textiles, food processing; tourism<br>
 
 **Industrial production growth rate**<br>
-1% (2017 est.)<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-17.16 million (2021 est.)<br>
-<strong>note:</strong> estimates vary widely<br>
+15.772 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.59% (2021 est.)<br>
-2.92% (2020 est.)<br>
-2.59% (2019 est.)<br>
+3.07% (2022 est.)<br>
+3.23% (2021 est.)<br>
+3.12% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 6.1% (2021 est.)<br>
@@ -430,10 +429,6 @@ _expenditures_: $3.3 billion (2007 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.4% (of GDP) (2007 est.)<br>
-
-**Taxes and other revenues**<br>
-11.4% (of GDP) (2007 est.)<br>
-<strong>note:</strong> excludes earnings from state-operated enterprises<br>
 
 **Fiscal year**<br>
 calendar year<br>

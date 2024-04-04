@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-After seven decades as a constituent republic of the USSR, Belarus attained its independence in 1991. It has retained closer political and economic ties to Russia than have any of the other former Soviet republics, and since 2022 Belarus has facilitated Russia's war in Ukraine, which was launched in part from Belarusian territory. Belarus and Russia signed a treaty on a two-state union on 8 December 1999 envisioning greater political and economic integration. Although Belarus agreed to a framework to carry out the accord, serious implementation has yet to take place and negotiations on further integration have been contentious. Since his election in July 1994 as the country's first and only directly elected president, Alyaksandr LUKASHENKA has steadily consolidated his power through authoritarian means and a centralized economic system. Government restrictions on political and civil freedoms, freedom of speech and the press, peaceful assembly, and religion have remained in place. Restrictions on political freedoms have grown increasingly strained following the disputed presidential election in August 2020. The election results sparked largescale protests as members of the opposition and civil society criticized the election’s validity. Alyaksandr LUKASHENKA has remained in power as the disputed winner of the presidential election after quelling protests in late 2020. <p> </p> <p> </p> <p> </p> <p> </p><br>
+After seven decades as a constituent republic of the USSR, Belarus attained its independence in 1991. It has retained closer political and economic ties to Russia than any of the other former Soviet republics. In 1999, Belarus and Russia signed a treaty on a two-state union, envisioning greater political and economic integration. Although Belarus agreed to a framework to carry out the accord, serious implementation has yet to take place and negotiations on further integration have been contentious. Since taking office in 1994 as the country's first and only directly elected president, Alyaksandr LUKASHENKA has steadily consolidated his power through authoritarian means and a centralized economic system. Government restrictions on political and civil freedoms, freedom of speech and the press, peaceful assembly, and religion have remained in place. Restrictions on political freedoms have tightened in the wake of the disputed presidential election in 2020. The election results sparked large-scale protests as members of the opposition and civil society criticized the election’s validity. LUKASHENKA has remained in power as the disputed winner of the presidential election after quelling protests in 2020. Since 2022, Belarus has facilitated Russia's war in Ukraine, which was launched in part from Belarusian territory.  <p> </p> <p> </p> <p> </p> <p> </p><br>
 
 ## Geography
 
@@ -392,29 +392,32 @@ _selected World Heritage Site locales_: Białowieża Forest (n); Mir Castle Comp
 declining Russian energy subsidies will end in 2024; growing public debt; strong currency pressures have led to higher inflation; recent price controls on basic food and drugs; public sector wage increases and fragile private sector threaten household income gains and economic growth<br>
 
 **Real GDP (purchasing power parity)**<br>
-$184.482 billion (2021 est.)<br>
-$180.335 billion (2020 est.)<br>
-$181.605 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$176.183 billion (2022 est.)<br>
+$184.867 billion (2021 est.)<br>
+$180.466 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.3% (2021 est.)<br>
--0.7% (2020 est.)<br>
-1.4% (2019 est.)<br>
+-4.7% (2022 est.)<br>
+2.44% (2021 est.)<br>
+-0.67% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$19,800 (2021 est.)<br>
+$19,100 (2022 est.)<br>
+$19,900 (2021 est.)<br>
 $19,200 (2020 est.)<br>
-$19,300 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$63.168 billion (2019 est.)<br>
+$72.793 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+15.21% (2022 est.)<br>
 9.46% (2021 est.)<br>
 5.55% (2020 est.)<br>
-5.6% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2018)<br>
@@ -442,16 +445,18 @@ milk, potatoes, sugar beets, wheat, triticale, barley, maize, rye, rapeseed, pou
 metal-cutting machine tools, tractors, trucks, earthmovers, motorcycles, synthetic fibers, fertilizer, textiles, refrigerators, washing machines and other household appliances<br>
 
 **Industrial production growth rate**<br>
-6.7% (2021 est.)<br>
+-6.11% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.95 million (2021 est.)<br>
+4.994 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.74% (2021 est.)<br>
-4.77% (2020 est.)<br>
-4.16% (2019 est.)<br>
-<strong>note:</strong> official registered unemployed; large number of underemployed workers<br>
+3.57% (2022 est.)<br>
+3.9% (2021 est.)<br>
+4.05% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.3% (2021 est.)<br>
@@ -459,23 +464,27 @@ _male_: 14%<br>
 _female_: 8.4%<br>
 
 **Population below poverty line**<br>
-5% (2019 est.)<br>
+4.8% (2020 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 24.4 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 32.3% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 7.2% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.8%<br>
-_highest 10%_: 21.9% (2008)<br>
+_lowest 10%_: 4.4%<br>
+_highest 10%_: 20.7% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.67% of GDP (2021 est.)<br>
+2.01% of GDP (2022 est.)<br>
+1.65% of GDP (2021 est.)<br>
 1.65% of GDP (2020 est.)<br>
-2.2% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $24.743 billion (2019 est.)<br>
@@ -488,23 +497,26 @@ _expenditures_: $24.239 billion (2019 est.)<br>
 33.24% of GDP (2019 est.)<br>
 37.1% of GDP (2018 est.)<br>
 39.88% of GDP (2017 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-12.02% (of GDP) (2020 est.)<br>
+12.83% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$2.153 billion (2021 est.)<br>
+$2.517 billion (2022 est.)<br>
+$2.157 billion (2021 est.)<br>
 -$178.4 million (2020 est.)<br>
--$1.246 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$49.425 billion (2021 est.)<br>
+$46.846 billion (2022 est.)<br>
+$49.435 billion (2021 est.)<br>
 $37.183 billion (2020 est.)<br>
-$41.975 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Russia 42%, Ukraine 13%, United Kingdom 7% (2019)<br>
@@ -513,9 +525,10 @@ Russia 42%, Ukraine 13%, United Kingdom 7% (2019)<br>
 fertilizers, refined petroleum, cheese, delivery trucks, lumber (2021)<br>
 
 **Imports**<br>
-$45.459 billion (2021 est.) note: data are in current year dollars<br>
+$42.28 billion (2022 est.)<br>
+$45.465 billion (2021 est.) note: data are in current year dollars<br>
 $35.236 billion (2020 est.) note: data are in current year dollars<br>
-$42.378 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Russia 57%, China 7%, Poland 5%, Germany 5%, Ukraine 5% (2019)<br>
@@ -524,9 +537,10 @@ Russia 57%, China 7%, Poland 5%, Germany 5%, Ukraine 5% (2019)<br>
 crude petroleum, natural gas, cars and vehicle parts, packaged medicines, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$8.425 billion (31 December 2021 est.)<br>
-$7.468 billion (31 December 2020 est.)<br>
-$9.394 billion (31 December 2019 est.)<br>
+$7.923 billion (2022 est.)<br>
+$8.425 billion (2021 est.)<br>
+$7.468 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $39.847 billion (2019 est.)<br>
@@ -534,11 +548,11 @@ $39.297 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Belarusian rubles (BYB/BYR) per US dollar -<br>
+2.626 (2022 est.)<br>
 2.539 (2021 est.)<br>
 2.44 (2020 est.)<br>
 2.092 (2019 est.)<br>
 2.038 (2018 est.)<br>
-1.932 (2017 est.)<br>
 
 ## Energy
 
@@ -717,7 +731,7 @@ has a modest national space program focused on developing remote sensing (RS) sa
 <p><em>Belarus-Latvia:</em> boundary demarcated with Latvia<br><br><em>Belarus-Lithuania:</em> boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> as a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 39,900 (Ukraine) (as of 31 December 2023)<br>
+_refugees (country of origin)_: 42,785 (Ukraine) (as of 29 February 2024)<br>
 _stateless persons_: 5,626 (2022)<br>
 
 **Trafficking in persons**<br>

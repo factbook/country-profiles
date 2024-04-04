@@ -319,9 +319,10 @@ $5.94 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
-1.02% (2021 est.)<br>
--10% (2020 est.)<br>
-2.42% (2019 est.)<br>
+4.47% (2022 est.)<br>
+2.09% (2021 est.)<br>
+-7.05% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $18,600 (2021 est.)<br>
@@ -330,7 +331,8 @@ $19,800 (2019 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.795 billion (2015 est.)<br>
+$5.815 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 0% (2015 est.)<br>
@@ -356,15 +358,18 @@ coconuts, fruit, roots/tubers, pineapples, cassava, sugar cane, eggs, tropical f
 tourism, pearls, agricultural processing, handicrafts, phosphates<br>
 
 **Industrial production growth rate**<br>
-NA<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-130,100 (2021 est.)<br>
+136,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-14.39% (2021 est.)<br>
-14.1% (2020 est.)<br>
-12.3% (2019 est.)<br>
+11.8% (2022 est.)<br>
+12.36% (2021 est.)<br>
+12.83% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 38.9% (2021 est.)<br>
@@ -379,9 +384,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-10.19% of GDP (2020 est.)<br>
-9.69% of GDP (2019 est.)<br>
-9.48% of GDP (2018 est.)<br>
+10% of GDP (2022 est.)<br>
+9.46% of GDP (2021 est.)<br>
+10.04% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.891 billion (2012)<br>
@@ -398,12 +404,15 @@ calendar year<br>
 
 **Current account balance**<br>
 $411.963 million (2016 est.)<br>
-$158.8 million (2013 est.)<br>
+$291.182 million (2015 est.)<br>
+$264.32 million (2014 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $162 million (2021 est.)<br>
 $94.4 million (2020 est.)<br>
 $184 million (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 47%, Japan 17%, France 14%, Netherlands 4%, Poland 3% (2021)<br>
@@ -415,6 +424,7 @@ paintings, pearls, tuna, aircraft parts, coconut oil, vanilla, electrical panels
 $1.66 billion (2021 est.)<br>
 $1.75 billion (2020 est.)<br>
 $2.24 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 France 43%, New Zealand 12%, China 8%, United States 6%, Singapore 5% (2021)<br>
@@ -427,11 +437,11 @@ refined petroleum, cars, packaged medicines, broadcasting equipment, passenger s
 
 **Exchange rates**<br>
 _Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
+113.474 (2022 est.)<br>
 100.88 (2021 est.)<br>
 104.711 (2020 est.)<br>
 106.589 (2019 est.)<br>
 101.047 (2018 est.)<br>
-105.633 (2017 est.)<br>
 
 ## Energy
 

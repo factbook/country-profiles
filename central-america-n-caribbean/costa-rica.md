@@ -387,29 +387,32 @@ _selected World Heritage Site locales_: Guanacaste Conservation Area (n); Cocos 
 trade-based upper middle-income economy; green economy leader, having reversed deforestation; investing in blue economy infrastructure; declining poverty until hard impacts of COVID-19; lingering inequality and growing government debts have prompted a liquidity crisis<br>
 
 **Real GDP (purchasing power parity)**<br>
-$109.26 billion (2021 est.)<br>
-$101.562 billion (2020 est.)<br>
-$105.85 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$114.346 billion (2022 est.)<br>
+$109.368 billion (2021 est.)<br>
+$101.327 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-7.58% (2021 est.)<br>
--4.05% (2020 est.)<br>
-2.42% (2019 est.)<br>
+4.55% (2022 est.)<br>
+7.94% (2021 est.)<br>
+-4.27% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$22,100 (2022 est.)<br>
 $21,200 (2021 est.)<br>
 $19,800 (2020 est.)<br>
-$20,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$61.855 billion (2019 est.)<br>
+$69.244 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.27% (2022 est.)<br>
 1.73% (2021 est.)<br>
 0.72% (2020 est.)<br>
-2.1% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2020)<br>
@@ -437,16 +440,18 @@ sugar cane, pineapples, bananas, milk, oil palm fruit, fruit, oranges, watermelo
 medical equipment, food processing, textiles and clothing, construction materials, fertilizer, plastic products<br>
 
 **Industrial production growth rate**<br>
-9.83% (2021 est.)<br>
+2.05% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.426 million (2021 est.)<br>
-<strong>note:</strong> official estimate; excludes Nicaraguans living in Costa Rica<br>
+2.543 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-17.95% (2021 est.)<br>
-17.41% (2020 est.)<br>
-11.49% (2019 est.)<br>
+11.32% (2022 est.)<br>
+15.14% (2021 est.)<br>
+16.43% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 45.4% (2021 est.)<br>
@@ -454,23 +459,27 @@ _male_: 37%<br>
 _female_: 56.3%<br>
 
 **Population below poverty line**<br>
-21% (2019 est.)<br>
+25.5% (2022 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-49.3 (2020 est.)<br>
+47.2 (2022 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 25.7% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 1.2% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.5%<br>
-_highest 10%_: 36.9% (2014 est.)<br>
+_lowest 10%_: 1.7%<br>
+_highest 10%_: 35.7% (2022 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.92% of GDP (2021 est.)<br>
+0.9% of GDP (2022 est.)<br>
+0.91% of GDP (2021 est.)<br>
 0.84% of GDP (2020 est.)<br>
-0.86% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $9.664 billion (2019 est.)<br>
@@ -484,21 +493,23 @@ _expenditures_: $14.001 billion (2019 est.)<br>
 44.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-12.32% (of GDP) (2020 est.)<br>
+14% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$2.136 billion (2021 est.)<br>
--$638.741 million (2020 est.)<br>
--$826.158 million (2019 est.)<br>
+-$2,469,049,000 (2022 est.)<br>
+-$1,604,512,000 (2021 est.)<br>
+-$631.662 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$23.761 billion (2021 est.)<br>
-$19.996 billion (2020 est.)<br>
-$22.738 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$28.692 billion (2022 est.)<br>
+$24.036 billion (2021 est.)<br>
+$19.995 billion (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 38%, Netherlands 6%, Belgium 5%, Guatemala 5%, Panama 5% (2019)<br>
@@ -507,9 +518,10 @@ United States 38%, Netherlands 6%, Belgium 5%, Guatemala 5%, Panama 5% (2019)<br
 medical instruments, bananas, pineapples, orthopedic appliances, food preparations (2021)<br>
 
 **Imports**<br>
-$22.298 billion (2021 est.) note: data are in current year dollars<br>
-$17.701 billion (2020 est.) note: data are in current year dollars<br>
-$20.314 billion (2019 est.)<br>
+$26.602 billion (2022 est.)<br>
+$21.94 billion (2021 est.) note: data are in current year dollars<br>
+$17.519 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 41%, China 13%, Mexico 7% (2019)<br>
@@ -518,9 +530,10 @@ United States 41%, China 13%, Mexico 7% (2019)<br>
 refined petroleum, broadcasting equipment, cars, medical instruments, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$6.921 billion (31 December 2021 est.)<br>
-$7.232 billion (31 December 2020 est.)<br>
-$8.937 billion (31 December 2019 est.)<br>
+$8.554 billion (2022 est.)<br>
+$6.921 billion (2021 est.)<br>
+$7.232 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $29.589 billion (2019 est.)<br>
@@ -528,11 +541,11 @@ $28.553 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Costa Rican colones (CRC) per US dollar -<br>
+647.136 (2022 est.)<br>
 620.785 (2021 est.)<br>
 584.901 (2020 est.)<br>
 587.295 (2019 est.)<br>
 576.973 (2018 est.)<br>
-567.513 (2017 est.)<br>
 
 ## Energy
 

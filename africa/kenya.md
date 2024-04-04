@@ -404,29 +404,32 @@ _selected World Heritage Site locales_: Lake Turkana National Parks (n); Mount K
 fast growing, third largest Sub-Saharan economy; strong agriculture and emerging services and tourism industries; current account deficit and high debt; broadband and mobile-money platform investments; surging inflation due to oil and food hikes; new investor-friendly incentives; environmentally fragile economy<br>
 
 **Real GDP (purchasing power parity)**<br>
-$251.431 billion (2021 est.)<br>
-$233.852 billion (2020 est.)<br>
-$234.438 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$263.737 billion (2022 est.)<br>
+$251.545 billion (2021 est.)<br>
+$233.799 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-7.52% (2021 est.)<br>
--0.25% (2020 est.)<br>
-5.11% (2019 est.)<br>
+4.85% (2022 est.)<br>
+7.59% (2021 est.)<br>
+-0.27% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$4,900 (2022 est.)<br>
 $4,700 (2021 est.)<br>
 $4,500 (2020 est.)<br>
-$4,600 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$95.52 billion (2019 est.)<br>
+$113.42 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.66% (2022 est.)<br>
 6.11% (2021 est.)<br>
 5.4% (2020 est.)<br>
-5.24% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2007)<br>
@@ -454,15 +457,18 @@ milk, tea, beef, maize, sugar cane, tomatoes, mangoes/guavas, potatoes, beans, b
 agriculture, transportation, services, manufacturing, construction, telecommunications, tourism, retail<br>
 
 **Industrial production growth rate**<br>
-7.17% (2021 est.)<br>
+3.87% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-23.915 million (2021 est.)<br>
+24.75 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.74% (2021 est.)<br>
-5.73% (2020 est.)<br>
-5.01% (2019 est.)<br>
+5.64% (2022 est.)<br>
+5.69% (2021 est.)<br>
+5.63% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 13.8% (2021 est.)<br>
@@ -471,22 +477,26 @@ _female_: 14.9%<br>
 
 **Population below poverty line**<br>
 36.1% (2015 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-40.8 (2015 est.)<br>
+38.7 (2021 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 52.9% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 4.1% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.8%<br>
-_highest 10%_: 37.8% (2005)<br>
+_lowest 10%_: 2.9%<br>
+_highest 10%_: 31.8% (2021 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.42% of GDP (2021 est.)<br>
+3.58% of GDP (2022 est.)<br>
+3.44% of GDP (2021 est.)<br>
 3.09% of GDP (2020 est.)<br>
-2.83% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $16.885 billion (2019 est.)<br>
@@ -500,20 +510,23 @@ _expenditures_: $24.271 billion (2019 est.)<br>
 53.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-14.3% (of GDP) (2020 est.)<br>
+13.26% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$5.744 billion (2021 est.)<br>
--$4.792 billion (2020 est.)<br>
--$5.258 billion (2019 est.)<br>
+-$5,765,538,000 (2022 est.)<br>
+-$5,744,078,000 (2021 est.)<br>
+-$4,791,686,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$13.859 billion (2022 est.)<br>
 $11.825 billion (2021 est.) note: data are in current year dollars<br>
 $9.709 billion (2020 est.) note: data are in current year dollars<br>
-$11.471 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Uganda 14%, Pakistan 8%, Netherlands 8%, United States 8%, United Kingdom 7% (2020)<br>
@@ -522,9 +535,10 @@ Uganda 14%, Pakistan 8%, Netherlands 8%, United States 8%, United Kingdom 7% (20
 tea, cut flowers, coffee, refined petroleum, titanium (2021)<br>
 
 **Imports**<br>
+$24.406 billion (2022 est.)<br>
 $21.853 billion (2021 est.) note: data are in current year dollars<br>
 $17.717 billion (2020 est.) note: data are in current year dollars<br>
-$20.408 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 27%, India 11%, United Arab Emirates 7%, Japan 4%, Saudi Arabia 3% (2020)<br>
@@ -533,9 +547,10 @@ China 27%, India 11%, United Arab Emirates 7%, Japan 4%, Saudi Arabia 3% (2020)<
 refined petroleum, palm oil, broadcasting equipment, packaged medicines, cars (2020)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$9.491 billion (31 December 2021 est.)<br>
-$8.297 billion (31 December 2020 est.)<br>
-$9.116 billion (31 December 2019 est.)<br>
+$7.969 billion (2022 est.)<br>
+$9.491 billion (2021 est.)<br>
+$8.297 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $29.289 billion (2019 est.)<br>
@@ -543,11 +558,11 @@ $25.706 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Kenyan shillings (KES) per US dollar -<br>
+117.866 (2022 est.)<br>
 109.638 (2021 est.)<br>
 106.451 (2020 est.)<br>
 101.991 (2019 est.)<br>
 101.302 (2018 est.)<br>
-103.41 (2017 est.)<br>
 
 ## Energy
 
@@ -733,7 +748,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Kenya-Ethiopia</em>: their border was demarcated in the 1950s and approved in 1970; in 2012, Kenya and Ethiopia agreed to redemarcate their boundary following disputes over beacons and cross-border crime; that process is ongoing as of 2023</p> <p><em>Kenya-Somalia</em>: the Somali-based terrorist group al-Shabaab has infiltrated the border and conducted attacks in Kenya; clan and militia fighting amongst ethnic Somali peoples separated by the Kenya-Somali border has periodically threatened to spread across the border, which has long been open to nomadic pastoralists; in 2021, the International Court of Justice (ICJ) gave Somalia control over a disputed ocean area where the seabeds are believed to hold vasts oil and gas deposits; the ICJ ruling gave Somalia the rights to several offshore oil exploration blocks previously claimed by Kenya; Kenya did not recognize the court’s decision</p> <p><em>Kenya-South Sudan</em>: two thirds of the boundary that separates Kenya and South Sudan's sovereignty known as the Ilemi Triangle has been unclear since British colonial times; Kenya has administered the area since colonial times; officials from Kenya and South Sudan signed a memorandum of understanding on boundary delimitation and demarcation and agreed to set up a joint committee which launched in 2023</p> <p><em>Kenya-Tanzania</em>: maintain good relations and have no border disputes; in 2021 began a joint process to complete a modern, re-demarcation of the border</p> <p><em>Kenya-Uganda:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021; Kenya and Uganda have a small, managed dispute over the small Migingo Island in Lake Victoria, although Kenya has had de facto control since 1926; the dispute has centered on the surrounding waters surrounding the island, which are known for fishing</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,847 (Ethiopia), 5,756 (Sudan) (2023); 296,496 (Somalia), 174,467 (South Sudan), 58,576 (Democratic Republic of the Congo), 8,665 (Burundi) (2024)<br>
+_refugees (country of origin)_: 21,847 (Ethiopia), 5,756 (Sudan) (2023); 298,117 (Somalia), 176,776 (South Sudan), 59,384 (Democratic Republic of the Congo), 8,701 (Burundi) (2024)<br>
 _IDPs_: 30,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2022)<br>
 _stateless persons_: 16,779 (2022); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

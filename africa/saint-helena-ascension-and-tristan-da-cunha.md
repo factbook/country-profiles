@@ -296,21 +296,6 @@ Saint Helena plover (bird)<br>
 **Economic overview**<br>
 upper middle-income, British Atlantic Ocean territorial economy; native (but pegged to British pound) currency user on 2 of 3 islands; significant UK financial support; unique land/farming commune structure; military-related economic activity; sport fishing locale<br>
 
-**Real GDP (purchasing power parity)**<br>
-$31.1 million (2009 est.)<br>
-
-**Real GDP growth rate**<br>
-<p>NA</p><br>
-
-**Real GDP per capita**<br>
-$7,800 (FY09/10 est.)<br>
-
-**GDP (official exchange rate)**<br>
-NA<br>
-
-**Inflation rate (consumer prices)**<br>
-4% (2012 est.)<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: NA<br>
 _industry_: NA<br>
@@ -321,15 +306,6 @@ coffee, corn, potatoes, vegetables; fish, lobster; livestock; timber<br>
 
 **Industries**<br>
 construction, crafts (furniture, lacework, fancy woodwork), fishing, collectible postage stamps<br>
-
-**Industrial production growth rate**<br>
-NA<br>
-
-**Labor force**<br>
-2,486 (1998 est.)<br>
-
-**Unemployment rate**<br>
-14% (1998 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -346,9 +322,6 @@ _expenditures_: $20.7 million (FY06/07 est.)<br>
 **Fiscal year**<br>
 1 April - 31 March<br>
 
-**Exports**<br>
-$19 million (2004 est.)<br>
-
 **Exports - partners**<br>
 United States 47%, Japan 12%, South Korea 10%, France 9%, Australia 5% (2019)<br>
 
@@ -356,7 +329,7 @@ United States 47%, Japan 12%, South Korea 10%, France 9%, Australia 5% (2019)<br
 crustaceans, fish, integrated circuits, air conditioners, clothing and apparel (2019)<br>
 
 **Imports**<br>
-$20.53 million (2010 est.)<br>
+$20.53 million (2010)<br>
 
 **Imports - partners**<br>
 United Kingdom 65%, South Africa 21% (2019)<br>

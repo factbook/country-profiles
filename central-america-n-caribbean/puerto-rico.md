@@ -331,24 +331,26 @@ _selected World Heritage Site locales_: La Fortaleza and San Juan National Histo
 US Caribbean island territorial economy; hit hard by COVID-19 and hurricanes; declining labor force and job growth after a decade of continuous recession; capital-based industry and tourism; high poverty; energy import-dependent<br>
 
 **Real GDP (purchasing power parity)**<br>
-$106.5 billion (2021 est.)<br>
-$106.28 billion (2020 est.)<br>
-$111.117 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$110.501 billion (2022 est.)<br>
+$106.908 billion (2021 est.)<br>
+$106.447 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0.21% (2021 est.)<br>
--4.35% (2020 est.)<br>
-1.68% (2019 est.)<br>
+3.36% (2022 est.)<br>
+0.43% (2021 est.)<br>
+-4.2% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$32,600 (2021 est.)<br>
+$34,300 (2022 est.)<br>
+$32,800 (2021 est.)<br>
 $32,400 (2020 est.)<br>
-$34,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$104.2 billion (2017 est.)<br>
+$113.435 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1.8% (2017 est.)<br>
@@ -378,15 +380,18 @@ milk, plantains, bananas, poultry, tomatoes, mangoes/guavas, eggs, oranges, gour
 pharmaceuticals, electronics, apparel, food products, tourism<br>
 
 **Industrial production growth rate**<br>
--2.1% (2017 est.)<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.136 million (2021 est.)<br>
+1.16 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.27% (2021 est.)<br>
+6% (2022 est.)<br>
+7.9% (2021 est.)<br>
 8.89% (2020 est.)<br>
-8.3% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 18.5% (2021 est.)<br>

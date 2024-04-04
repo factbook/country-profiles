@@ -356,13 +356,13 @@ _residency requirement for naturalization_: 5 continuous years<br>
 _chief of state_: President Joko "Jokowi" WIDODO (since 20 October 2014); Vice President Ma'ruf AMIN (since 20 October 2019); note - the president is both chief of state and head of government<br>
 _head of government_: President Joko "Jokowi" WIDODO (since 20 October 2014); Vice President Ma'ruf AMIN (since 20 October 2019)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president and vice president directly elected by absolute majority popular vote for a 5-year term (eligible for a second term); election last held on 17 April 2019 (next to be held on 14 February 2024)<br>
+_elections/appointments_: president and vice president directly elected by absolute majority popular vote for a 5-year term (eligible for a second term); election last held on 14 February 2024 (next to be held in 2029)<br>
 _election results_: <em>2024: </em>PRABOWO Subianto elected president; percent of vote - PRABOWO Subianto (GERINDRA) 58.6%, Anies Rasyid BASWEDAN (Independent) 24.9%, GANJAR Pranowo (PDI-P) 16.5%<em><br><br>2019</em>: Joko WIDODO reelected president; percent of vote - Joko WIDODO (PDI-P) 55.5%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 44.5%<br>
 
 **Legislative branch**<br>
-_description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br>House of Representatives or Dewan Perwakilan Rakyat (575 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms)<br>
-_elections_: Regional Representative Council - last held on 17 April 2019 (next to be held in February 2024)<br>House of Representatives - last held on 17 April 2019 (next to be held 14 February 2024)<br>
-_election results_: Regional Representative Council - all seats elected on a non-partisan basis; composition as of January 2024 - men 102, women 34, percent of women 25%<br>House of Representatives - percent of vote by party - PDI-P 19.3%, Gerindra 12.6%, Golkar 12.3%, PKB 9.7%, Nasdem 9.1%, PKS 8.2%, PD 7.8%, PAN 6.8%, PPP 4.5%, other 9.6%; seats by party - PDI-P 128, Golkar 85, Gerindra 78, Nasdem 59, PKB 58, PD 54, PKS 50, PAN 44, PPP 19; composition as of January 2024 - men 449, women 126, percent of women 21.9%; total People's Consultative Assembly percent of women 22.5%<br>
+_description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat (MPR) consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br>House of Representatives or Dewan Perwakilan Rakyat (575 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms)<br>
+_elections_: Regional Representative Council - last held on 14 February 2024 (next to be held in 2029)<br>House of Representatives - last held on 14 February 2024 (next to be held in 2029)<br>
+_election results_: Regional Representative Council - all seats elected on a non-partisan basis; composition as of January 2024 - men 102, women 34, percent of women 25%<br>House of Representatives - percent of vote by party (2019 results)- PDI-P 19.3%, Gerindra 12.6%, Golkar 12.3%, PKB 9.7%, Nasdem 9.1%, PKS 8.2%, PD 7.8%, PAN 6.8%, PPP 4.5%, other 9.6%; seats by party - PDI-P 128, Golkar 85, Gerindra 78, Nasdem 59, PKB 58, PD 54, PKS 50, PAN 44, PPP 19; composition as of January 2024 - men 449, women 126, percent of women 21.9%; total People's Consultative Assembly percent of women 22.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Mahkamah Agung (51 judges divided into 8 chambers); Constitutional Court or Mahkamah Konstitusi (consists of 9 judges)<br>
@@ -416,29 +416,32 @@ _selected World Heritage Site locales_: Borobudur Temple Compounds (c); Komodo N
 upper middle-income, largest and growing Southeast Asian economy; higher lending rates to moderate inflation; ongoing relocation of capital fueling infrastructure projects; major tourism sector prompting green economy goals<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.246 trillion (2021 est.)<br>
+$3.419 trillion (2022 est.)<br>
+$3.247 trillion (2021 est.)<br>
 $3.131 trillion (2020 est.)<br>
-$3.197 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.69% (2021 est.)<br>
+5.31% (2022 est.)<br>
+3.7% (2021 est.)<br>
 -2.07% (2020 est.)<br>
-5.02% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$12,400 (2022 est.)<br>
 $11,900 (2021 est.)<br>
 $11,500 (2020 est.)<br>
-$11,900 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1,119,720,000,000 (2019 est.)<br>
+$1.319 trillion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.21% (2022 est.)<br>
 1.56% (2021 est.)<br>
 1.92% (2020 est.)<br>
-3.03% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2017)<br>
@@ -466,15 +469,18 @@ oil palm fruit, rice, maize, sugar cane, coconuts, cassava, bananas, eggs, poult
 petroleum and natural gas, textiles, automotive, electrical appliances, apparel, footwear, mining, cement, medical instruments and appliances, handicrafts, chemical fertilizers, plywood, rubber, processed food, jewelry, and tourism<br>
 
 **Industrial production growth rate**<br>
-3.42% (2021 est.)<br>
+4.11% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-138.119 million (2021 est.)<br>
+138.099 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.41% (2021 est.)<br>
-4.28% (2020 est.)<br>
-3.62% (2019 est.)<br>
+3.46% (2022 est.)<br>
+3.83% (2021 est.)<br>
+4.25% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 16.1% (2021 est.)<br>
@@ -482,23 +488,27 @@ _male_: 16.3%<br>
 _female_: 15.7%<br>
 
 **Population below poverty line**<br>
-9.4% (2019 est.)<br>
+9.5% (2022 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-37.9 (2021 est.)<br>
+37.9 (2022 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 31.7% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 7.2% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.4%<br>
-_highest 10%_: 28.2% (2010)<br>
+_lowest 10%_: 3.1%<br>
+_highest 10%_: 30.7% (2022 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.76% of GDP (2022 est.)<br>
 0.79% of GDP (2021 est.)<br>
 0.91% of GDP (2020 est.)<br>
-1.04% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $130.872 billion (2020 est.)<br>
@@ -508,25 +518,29 @@ _expenditures_: $192.97 billion (2020 est.)<br>
 -2.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-42.92% of GDP (2020 est.)<br>
+44.4% of GDP (2021 est.)<br>
+42.9% of GDP (2020 est.)<br>
 33.73% of GDP (2019 est.)<br>
-33.14% of GDP (2018 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-8.31% (of GDP) (2020 est.)<br>
+9.09% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$3.459 billion (2021 est.)<br>
--$4.433 billion (2020 est.)<br>
--$30.279 billion (2019 est.)<br>
+$12.67 billion (2022 est.)<br>
+$3.511 billion (2021 est.)<br>
+-$4,433,270,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$246.87 billion (2021 est.) note: data are in current year dollars<br>
+$315.584 billion (2022 est.)<br>
+$246.787 billion (2021 est.) note: data are in current year dollars<br>
 $178.418 billion (2020 est.) note: data are in current year dollars<br>
-$200.097 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 22%, United States 11%, Japan 8%, India 6%, Singapore 5% (2021)<br>
@@ -535,9 +549,10 @@ China 22%, United States 11%, Japan 8%, India 6%, Singapore 5% (2021)<br>
 coal, palm oil, natural gas, iron alloys, stainless steel (2021)<br>
 
 **Imports**<br>
-$217.715 billion (2021 est.) note: data are in current year dollars<br>
+$273.249 billion (2022 est.)<br>
+$217.579 billion (2021 est.) note: data are in current year dollars<br>
 $159.872 billion (2020 est.) note: data are in current year dollars<br>
-$204.23 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 31%, Singapore 9%, Japan 7%, United States 5%, Malaysia 5% (2021)<br>
@@ -546,9 +561,10 @@ China 31%, Singapore 9%, Japan 7%, United States 5%, Malaysia 5% (2021)<br>
 refined petroleum, crude petroleum, natural gas, vaccines and cultures, vehicle parts (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$144.908 billion (31 December 2021 est.)<br>
-$135.916 billion (31 December 2020 est.)<br>
-$129.186 billion (31 December 2019 est.)<br>
+$137.222 billion (2022 est.)<br>
+$144.908 billion (2021 est.)<br>
+$135.916 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $393.252 billion (2019 est.)<br>
@@ -556,11 +572,11 @@ $360.945 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Indonesian rupiah (IDR) per US dollar -<br>
+14,849.854 (2022 est.)<br>
 14,308.144 (2021 est.)<br>
 14,582.203 (2020 est.)<br>
 14,147.671 (2019 est.)<br>
 14,236.939 (2018 est.)<br>
-13,380.834 (2017 est.)<br>
 
 ## Energy
 

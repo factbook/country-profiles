@@ -410,29 +410,32 @@ _selected World Heritage Site locales_: Memphis and its Necropolis (c); Ancient 
 Africa&rsquo;s second-largest economy; 2030 Vision to diversify markets and energy infrastructure; improving fiscal, external, and current accounts; underperforming private sector; poor labor force participation; expanded credit access<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.264 trillion (2021 est.)<br>
-$1.223 trillion (2020 est.)<br>
-$1.181 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$1.419 trillion (2022 est.)<br>
+$1.331 trillion (2021 est.)<br>
+$1.288 trillion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.33% (2021 est.)<br>
-3.57% (2020 est.)<br>
-5.56% (2019 est.)<br>
+6.59% (2022 est.)<br>
+3.29% (2021 est.)<br>
+3.55% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$11,600 (2021 est.)<br>
-$11,400 (2020 est.)<br>
-$11,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$12,800 (2022 est.)<br>
+$12,200 (2021 est.)<br>
+$12,000 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$323.763 billion (2019 est.)<br>
+$476.748 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+13.9% (2022 est.)<br>
 5.21% (2021 est.)<br>
 5.04% (2020 est.)<br>
-9.15% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2019)<br>
@@ -460,15 +463,18 @@ sugar cane, sugar beets, wheat, maize, tomatoes, rice, potatoes, oranges, onions
 textiles, food processing, tourism, chemicals, pharmaceuticals, hydrocarbons, construction, cement, metals, light manufactures<br>
 
 **Industrial production growth rate**<br>
--1.09% (2021 est.)<br>
+6.86% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-30.179 million (2021 est.)<br>
+32.614 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.33% (2021 est.)<br>
-9.17% (2020 est.)<br>
-7.84% (2019 est.)<br>
+6.4% (2022 est.)<br>
+7.44% (2021 est.)<br>
+7.97% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 24.3% (2021 est.)<br>
@@ -476,23 +482,27 @@ _male_: 15.6%<br>
 _female_: 59.5%<br>
 
 **Population below poverty line**<br>
-32.5% (2017 est.)<br>
+29.7% (2019 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-31.5 (2017 est.)<br>
+31.9 (2019 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 33.3% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 4.7% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4%<br>
-_highest 10%_: 26.6% (2008)<br>
+_lowest 10%_: 3.8%<br>
+_highest 10%_: 27.5% (2019 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-7.79% of GDP (2021 est.)<br>
-8.1% of GDP (2020 est.)<br>
-8.84% of GDP (2019 est.)<br>
+5.94% of GDP (2022 est.)<br>
+7.41% of GDP (2021 est.)<br>
+7.71% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $71.16 billion (2020 est.)<br>
@@ -507,20 +517,23 @@ _expenditures_: $100.318 billion (2020 est.)<br>
 <strong>note:</strong> data cover central government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-17.9% (of GDP) (2017 est.)<br>
+12.52% (of GDP) (2015 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
+-$10.537 billion (2022 est.)<br>
 -$18.611 billion (2021 est.)<br>
 -$14.236 billion (2020 est.)<br>
--$10.222 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$76.295 billion (2022 est.)<br>
 $58.339 billion (2021 est.) note: data are in current year dollars<br>
 $40.102 billion (2020 est.) note: data are in current year dollars<br>
-$53.523 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 8%, Turkey 7%, Greece 7%, Italy 6%, India 5% (2021)<br>
@@ -529,9 +542,10 @@ United States 8%, Turkey 7%, Greece 7%, Italy 6%, India 5% (2021)<br>
 refined petroleum, crude petroleum, natural gas, nitrogen fertilizers, gold (2021)<br>
 
 **Imports**<br>
+$97.144 billion (2022 est.)<br>
 $94.039 billion (2021 est.) note: data are in current year dollars<br>
 $72.482 billion (2020 est.) note: data are in current year dollars<br>
-$78.951 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 18%, Saudi Arabia 9%, United States 6%, Russia 5%, Turkey 5% (2021)<br>
@@ -540,9 +554,10 @@ China 18%, Saudi Arabia 9%, United States 6%, Russia 5%, Turkey 5% (2021)<br>
 refined petroleum, wheat, cars, crude petroleum, corn, packaged medicines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$39.824 billion (31 December 2021 est.)<br>
-$38.973 billion (31 December 2020 est.)<br>
-$44.569 billion (31 December 2019 est.)<br>
+$32.144 billion (2022 est.)<br>
+$39.824 billion (2021 est.)<br>
+$38.973 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $109.238 billion (2019 est.)<br>
@@ -550,11 +565,11 @@ $92.638 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Egyptian pounds (EGP) per US dollar -<br>
+19.16 (2022 est.)<br>
 15.645 (2021 est.)<br>
 15.759 (2020 est.)<br>
 16.771 (2019 est.)<br>
 17.767 (2018 est.)<br>
-17.783 (2017 est.)<br>
 
 ## Energy
 
@@ -682,8 +697,8 @@ _total_: 5,085 km (2014)<br>
 _standard gauge_: 5,085 km (2014) 1.435-m gauge (62 km electrified)<br>
 
 **Roadways**<br>
-_total_: 65,050 km (2019)<br>
-_paved_: 48,000 km (2019)<br>
+_total_: 65,050 km<br>
+_paved_: 48,000 km<br>
 _unpaved_: 17,050 km (2019)<br>
 
 **Waterways**<br>

@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Indus Valley civilization, one of the oldest in the world and dating back at least 5,000 years, spread over much of what is presently Pakistan. During the second millennium B.C., remnants of this culture fused with the migrating Indo-Aryan peoples. The area underwent successive invasions in subsequent centuries from the Persians, Greeks, Scythians, Arabs (who brought Islam), Afghans, and Turks. The Mughal Empire flourished in the 16th and 17th centuries; the British came to dominate the region in the 18th century. The separation in 1947 of British India into the Muslim state of Pakistan (with West and East sections) and largely Hindu India created lasting tension between the two countries, and India and Pakistan fought two wars and a limited conflict - in 1947-48, 1965, and 1999 respectively - over the disputed Kashmir territory. A third war between these countries in 1971 - in which India assisted an indigenous movement reacting to the marginalization of Bengalis in Pakistani politics - resulted in East Pakistan becoming the separate nation of Bangladesh.</p> <p>In response to Indian nuclear weapons testing, Pakistan conducted its own tests in mid-1998. Major bilateral disputes, including the status of Kashmir, remain unresolved, but in early 2021 the two countries reaffirmed their commitment to maintain the cease-fire along the Line of Control in Kashmir that began in 2003. Pakistan has been engaged in a decades-long armed conflict with militant groups, including the Tehreek-e-Taliban Pakistan (TTP) and other militant networks, that target government institutions and civilians.</p><br>
+<p>The Indus Valley civilization, one of the oldest in the world and dating back at least 5,000 years, spread over much of what is presently Pakistan. During the second millennium B.C., remnants of this culture fused with the migrating Indo-Aryan peoples. The area underwent successive invasions in subsequent centuries from the Persians, Greeks, Scythians, Arabs (who brought Islam), Afghans, and Turks. The Mughal Empire flourished in the 16th and 17th centuries; the British came to dominate the region in the 18th century. The partition in 1947 of British India into the Muslim state of Pakistan (with West and East sections) and largely Hindu India created lasting tension between the two countries, with India and Pakistan fighting two wars and a limited conflict - in 1947-48, 1965, and 1999 respectively - over the disputed Kashmir territory, a dispute that continues to cause tensions between both countries to this day. A third war between these countries in 1971 - in which India assisted an indigenous movement reacting to the marginalization of Bengalis in Pakistani politics - resulted in East Pakistan becoming the separate nation of Bangladesh.</p> <p>In response to Indian nuclear weapons testing, Pakistan conducted its own tests in mid-1998. Pakistan has been engaged in a decades-long armed conflict with militant groups, including the Tehreek-e-Taliban Pakistan (TTP) and other militant networks, that target government institutions and civilians.</p><br>
 
 ## Geography
 
@@ -355,15 +355,15 @@ _residency requirement for naturalization_: 4 out of the previous 7 years and in
 
 **Executive branch**<br>
 _chief of state_: President Asif Ali ZARDARI (since 10 March 2024)<br>
-_head of government_: Prime Minister Shahbaz SHARIF (since 3 March 2024)<br>
+_head of government_: Caretaker Prime Minister Shahbaz SHARIF (since 3 March 2024)<br>
 _cabinet_: Cabinet appointed by the president upon the advice of the prime minister<br>
 _elections/appointments_: president indirectly elected by the Electoral College consisting of members of the Senate, National Assembly, and provincial assemblies for a 5-year term (limited to 2 consecutive terms); election last held on 9 March 2024 (next to be held in 2029)<br>
 _election results_: <em>2024:</em> Asif Ali ZARDARI elected president; National Assembly vote - Asif Ali ZARDARI (PPP) 411 votes, Mehmood Khan ACHAKZALI (PMAP) -181 votes; Shahbaz SHARIF elected prime minister on 3 March 2024; National Assembly vote - Shahbaz SHARIF (PML-N) 201, Omar AYUB (PTI) 92<br><br><em>2018:</em> Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Majlis-e-Shoora consists of:<br>Senate (100 seats; members indirectly elected by the 4 provincial assemblies and the federal capital territory indirectly elected by the National Assembly using proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly (342 seats; 272 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 3 March 2021 (next to be held on 3 March 2024)<br>National Assembly - last held on 8 February 2024 (next to be held in 2029)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PTI 25, PPP 21, PML-N 18, BAP 13, JUI-F 5, other 13, independent 5; composition - men 81, women 19, percent of women 19%<br><br>National Assembly - percent of votes by party - NA; seats by party - PML-N 75, PPP 54, MQM-P 17, JUI-F 4, Pakistan Muslim League 3, Istehkam-e-Pakistan Party 2, BNP-A 2, BAP 1, PMAP 1, PML-Z 1, NP 1, independent 101, other 8, vacant 2 (excludes 70 seats reserved for women and non-Muslims); composition - NA<br><br> <p> </p> <p> </p><br>
+_elections_: <br>Senate - last held on 3 March 2021 (next to be held on 2 April 2024)<br>National Assembly - last held on 8 February 2024 (next to be held in 2029)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PTI 25, PPP 21, PML-N 18, BAP 13, JUI-F 5, other 13, independent 5; composition - men 81, women 19, percent of women 19%<br><br>National Assembly - percent of votes by party - NA; seats by party - PML-N 75, PPP 54, MQM-P 17, JUI-F 4, Pakistan Muslim League 3, Istehkam-e-Pakistan Party 2, BNP-A 2, BAP 1, PMAP 1, PML-Z 1, NP 1, independent (PTI-backed) 101, other 8, vacant 2 (excludes 70 seats reserved for women and non-Muslims); composition - NA<br><br> <p> </p> <p> </p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Pakistan (consists of the chief justice and 16 judges)<br>
@@ -415,30 +415,32 @@ _selected World Heritage Site locales_: Archaeological Ruins at Moenjodaro; Budd
 lower middle-income South Asian economy; extremely high debt; endemic corruption; major currency devaluation; major food insecurity and inflation; environmentally fragile agricultural sector; regional disputes with India and Afghanistan hinder investment<br>
 
 **Real GDP (purchasing power parity)**<br>
+$1.268 trillion (2022 est.)<br>
 $1.211 trillion (2021 est.)<br>
 $1.137 trillion (2020 est.)<br>
-$1.152 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>data are for fiscal years<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.49% (2021 est.)<br>
+4.71% (2022 est.)<br>
+6.51% (2021 est.)<br>
 -1.27% (2020 est.)<br>
-2.5% (2019 est.)<br>
-<strong>note:</strong> data are for fiscal years<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$5,400 (2022 est.)<br>
 $5,200 (2021 est.)<br>
 $5,000 (2020 est.)<br>
-$5,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$253.183 billion (2019 est.)<br>
+$374.697 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+19.87% (2022 est.)<br>
 9.5% (2021 est.)<br>
 9.74% (2020 est.)<br>
-10.58% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B- (2018)<br>
@@ -466,17 +468,18 @@ sugar cane, buffalo milk, wheat, milk, rice, maize, potatoes, cotton, fruit, man
 textiles and apparel, food processing, pharmaceuticals, surgical instruments, construction materials, paper products, fertilizer, shrimp<br>
 
 **Industrial production growth rate**<br>
-7.81% (2021 est.)<br>
+6.83% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-73.133 million (2021 est.)<br>
-<strong>note:</strong> extensive export of labor, mostly to the Middle East, and use of child labor<br>
+78.863 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.35% (2021 est.)<br>
-4.3% (2020 est.)<br>
-3.54% (2019 est.)<br>
-<strong>note:</strong> Pakistan has substantial underemployment<br>
+5.6% (2022 est.)<br>
+6.34% (2021 est.)<br>
+6.22% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.4% (2021 est.)<br>
@@ -484,23 +487,27 @@ _male_: 9.7%<br>
 _female_: 8.2%<br>
 
 **Population below poverty line**<br>
-24.3% (2015 est.)<br>
+21.9% (2018 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 29.6 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 39.5% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 1.1% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4%<br>
-_highest 10%_: 26.1% (FY2013)<br>
+_lowest 10%_: 4.2%<br>
+_highest 10%_: 25.5% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-8.99% of GDP (2021 est.)<br>
+7.97% of GDP (2022 est.)<br>
+8.98% of GDP (2021 est.)<br>
 8.68% of GDP (2020 est.)<br>
-6.93% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $38.966 billion (2020 est.)<br>
@@ -521,14 +528,16 @@ _expenditures_: $59.621 billion (2020 est.)<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$12.262 billion (2021 est.)<br>
+-$11,997,897,000 (2022 est.)<br>
+-$12,283,106,000 (2021 est.)<br>
 -$650.874 million (2020 est.)<br>
--$8.558 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$35.566 billion (2021 est.) note: data are in current year dollars<br>
+$38.968 billion (2022 est.)<br>
+$35.612 billion (2021 est.) note: data are in current year dollars<br>
 $27.333 billion (2020 est.) note: data are in current year dollars<br>
-$30.67 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 14%, China 8%, Germany 7%, United Kingdom 6% (2019)<br>
@@ -537,9 +546,10 @@ United States 14%, China 8%, Germany 7%, United Kingdom 6% (2019)<br>
 textiles, clothing and apparel, rice, leather goods, surgical instruments (2019)<br>
 
 **Imports**<br>
-$76.392 billion (2021 est.) note: data are in current year dollars<br>
+$76.426 billion (2022 est.)<br>
+$76.514 billion (2021 est.) note: data are in current year dollars<br>
 $52.098 billion (2020 est.) note: data are in current year dollars<br>
-$57.976 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 28%, United Arab Emirates 11%, United States 5% (2019)<br>
@@ -548,9 +558,10 @@ China 28%, United Arab Emirates 11%, United States 5% (2019)<br>
 refined petroleum, crude petroleum, natural gas, palm oil, scrap iron (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$22.812 billion (31 December 2021 est.)<br>
-$18.522 billion (31 December 2020 est.)<br>
-$16.586 billion (31 December 2019 est.)<br>
+$9.927 billion (2022 est.)<br>
+$22.812 billion (2021 est.)<br>
+$18.522 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $107.527 billion (2019 est.)<br>
@@ -558,11 +569,11 @@ $95.671 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Pakistani rupees (PKR) per US dollar -<br>
+204.867 (2022 est.)<br>
 162.906 (2021 est.)<br>
 161.838 (2020 est.)<br>
 150.036 (2019 est.)<br>
 121.824 (2018 est.)<br>
-105.455 (2017 est.)<br>
 
 ## Energy
 
@@ -683,7 +694,7 @@ AP<br>
 48 (2024)<br>
 
 **Pipelines**<br>
-13,452 km gas transmission and 177,029 km gas distribution, 3,663 km oil, 1,150 km refined products&nbsp; (2022)<br>
+13,452 km gas transmission and 177,029 km gas distribution, 3,663 km oil, 1,150 km refined products (2022)<br>
 
 **Railways**<br>
 _total_: 11,881 km (2021)<br>
@@ -753,7 +764,7 @@ Haqqani Network; Harakat ul-Jihad-i-Islami; Harakat ul-Mujahidin; Hizbul Mujahid
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Pakistan-Afghanistan</em>: since 2002, with UN assistance, Pakistan has repatriated about 5.3 million Afghan refugees, leaving about 2.74-3 million; Pakistan has sent troops across and built fences along some remote tribal areas of its treaty-defined Durand Line border with Afghanistan, which serve as bases for foreign terrorists and other illegal activities; in February 2022, amid skirmishes between Taliban and Pakistani forces, Pakistan announced its intent to finish constructing the barbed wire fence along the Durand Line and bring nearby areas under its control; Afghan, Coalition, and Pakistan military meet periodically to clarify the alignment of the boundary on the ground and on maps</p> <p><em>Pakistan-China</em>: none identified</p> <p><em>Pakistan-India</em>: Kashmir remains the site of the world's largest and most militarized territorial dispute with portions under the de facto administration of China (Aksai Chin), India (Jammu and Kashmir), and Pakistan (Azad Kashmir and Northern Areas); UN Military Observer Group in India and Pakistan has maintained a small group of peacekeepers since 1949; India does not recognize Pakistan's ceding historic Kashmir lands to China in 1964; India and Pakistan have initiated discussions on defusing the armed standoff in the Siachen glacier region; the Siachen glacier is claimed by both countries and militarily occupied by India: Pakistan opposed India's fencing the highly militarized Line of Control (completed in 2004) and the construction of the Baglihar Dam on the Chenab River (opened in 2008) in Jammu and Kashmir, which is part of the larger dispute on water sharing of the Indus River and its tributaries; to defuse tensions and prepare for discussions on a maritime boundary, India and Pakistan seek technical resolution of the disputed boundary in Sir Creek estuary at the mouth of the Rann of Kutch in the Arabian Sea; Pakistani maps continue to show Junagadh in India's Gujarat State as part of Pakistan</p> <p> </p> <p> </p><br>
+<p><em>Pakistan-Afghanistan</em>: since 2002, with UN assistance, Pakistan has repatriated about 5.3 million Afghan refugees, leaving as many as 3 million; Pakistan has sent troops across and built fences along some remote tribal areas of its treaty-defined Durand Line border with Afghanistan, which serve as bases for foreign terrorists and other illegal activities; in February 2022, amid skirmishes between Taliban and Pakistani forces, Pakistan announced its intent to finish constructing the barbed wire fence along the Durand Line and bring nearby areas under its control; Afghan, Coalition, and Pakistan military meet periodically to clarify the alignment of the boundary on the ground and on maps</p> <p><em>Pakistan-China</em>: none identified</p> <p><em>Pakistan-India</em>: Kashmir remains the site of the world's largest and most militarized territorial dispute with portions under the de facto administration of China (Aksai Chin), India (Jammu and Kashmir), and Pakistan (Azad Kashmir and Northern Areas); UN Military Observer Group in India and Pakistan has maintained a small group of peacekeepers since 1949; India does not recognize Pakistan's ceding historic Kashmir lands to China in 1964; India and Pakistan have initiated discussions on defusing the armed standoff in the Siachen glacier region; the Siachen glacier is claimed by both countries and militarily occupied by India: Pakistan opposed India's fencing the highly militarized Line of Control (completed in 2004) and the construction of the Baglihar Dam on the Chenab River (opened in 2008) in Jammu and Kashmir, which is part of the larger dispute on water sharing of the Indus River and its tributaries; to defuse tensions and prepare for discussions on a maritime boundary, India and Pakistan seek technical resolution of the disputed boundary in Sir Creek estuary at the mouth of the Rann of Kutch in the Arabian Sea; Pakistani maps continue to show Junagadh in India's Gujarat State as part of Pakistan</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 2.64-2.9 million (1.3 million registered, 1.34-1.6&nbsp; million undocumented or otherwise categorized) (Afghanistan) (2023)<br>

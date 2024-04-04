@@ -368,8 +368,8 @@ _election results_: <br><em>2020</em>: John MAGUFULI reelected president; percen
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Parliament (Bunge) (393 seats; 264 members directly elected in single-seat constituencies by simple majority vote, 113 women indirectly elected by proportional representation vote, 5 indirectly elected by simple majority vote by the Zanzibar House of Representatives, 10 appointed by the president, and 1 seat reserved for the attorney general; members serve 5-year terms); note - in addition to enacting laws that apply to the entire United Republic of Tanzania, the National Assembly enacts laws that apply only to the mainland; Zanzibar has its own House of Representatives or Baraza La Wawakilishi (82 seats; 50 members directly elected in single-seat constituencies by simple majority vote, 20 women directly elected by proportional representation vote, 10 appointed by the Zanzibar president, 1 seat for the House speaker, and 1 ex-officio seat for the attorney general; elected members serve a 5-year term)<br>
-_elections_: Tanzania National Assembly and Zanzibar House of Representatives - elections last held on 28 October 2020 (next National Assembly election to be held in October 2025; next Zanzibar election NA)<br>
-_election results_: National Assembly - percent of vote by party - NA; seats by party - CCM 350, Chadema 20, ACT-Wazalendo 4, CUF 3; composition as of early 2021 (388 members) - men 245, women 143, percent of women 36.9%<br><br>Zanzibar House of Representatives - percent of vote by party - NA; seats by party - NA; composition - NA<br>
+_elections_: Tanzania National Assembly and Zanzibar House of Representatives - elections last held on 28 October 2020 (next Tanzania National Assembly and Zanzibar House of Representatives elections to be held in October 2025)<br>
+_election results_: National Assembly - percent of vote by party - NA; seats by party - CCM 350, Chadema 20, ACT-Wazalendo 4, CUF 3; composition as of early 2021 (388 members) - men 245, women 143, percent of women 36.9%<br><br>Zanzibar House of Representatives - percent of vote by party - NA; seats by party - CCM 69, ACT-Wazalendo 6, TADEA 1, Other 1; composition as of early 2021 (77 members) - men 48, women 29, percent of women 37.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal of the United Republic of Tanzania (consists of the chief justice and 14 justices); High Court of the United Republic for Mainland Tanzania (consists of the principal judge and 30 judges organized into commercial, land, and labor courts); High Court of Zanzibar (consists of the chief justice and 10 justices)<br>
@@ -418,29 +418,32 @@ _selected World Heritage Site locales_: Ngorongoro Conservation Area (m); Ruins 
 emerging lower middle-income East African economy; resource-rich and growing tourism; strong post-pandemic recovery from hospitality, electricity, mining, and transit sectors; declining poverty; stable inflation; gender-based violence economic and labor force disruptions<br>
 
 **Real GDP (purchasing power parity)**<br>
-$159.326 billion (2021 est.)<br>
-$152.788 billion (2020 est.)<br>
-$149.798 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$166.597 billion (2022 est.)<br>
+$159.334 billion (2021 est.)<br>
+$152.734 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.28% (2021 est.)<br>
-2% (2020 est.)<br>
-5.8% (2019 est.)<br>
+4.56% (2022 est.)<br>
+4.32% (2021 est.)<br>
+1.99% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,600 (2022 est.)<br>
 $2,600 (2021 est.)<br>
 $2,600 (2020 est.)<br>
-$2,600 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$60.633 billion (2019 est.)<br>
+$75.732 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.35% (2022 est.)<br>
 3.69% (2021 est.)<br>
 3.29% (2020 est.)<br>
-3.46% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B2 (2020)<br>
@@ -466,15 +469,18 @@ cassava, maize, sweet potatoes, sugar cane, rice, bananas, vegetables, milk, bea
 agricultural processing (sugar, beer, cigarettes, sisal twine); mining (diamonds, gold, and iron), salt, soda ash; cement, oil refining, shoes, apparel, wood products, fertilizer<br>
 
 **Industrial production growth rate**<br>
-6.5% (2021 est.)<br>
+4.3% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-29.863 million (2021 est.)<br>
+30.096 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.65% (2021 est.)<br>
-2.53% (2020 est.)<br>
-2.22% (2019 est.)<br>
+2.6% (2022 est.)<br>
+2.87% (2021 est.)<br>
+2.78% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 4.6% (2021 est.)<br>
@@ -482,23 +488,27 @@ _male_: 3.7%<br>
 _female_: 5.5%<br>
 
 **Population below poverty line**<br>
-26.4% (2017 est.)<br>
+26.4% (2018 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-40.5 (2017 est.)<br>
+40.5 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 33.1% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 4.2% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.8%<br>
-_highest 10%_: 29.6% (2007)<br>
+_lowest 10%_: 2.9%<br>
+_highest 10%_: 33.1% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.52% of GDP (2020 est.)<br>
-0.71% of GDP (2019 est.)<br>
-0.72% of GDP (2018 est.)<br>
+0.92% of GDP (2022 est.)<br>
+0.79% of GDP (2021 est.)<br>
+0.49% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $8.968 billion (2019 est.)<br>
@@ -513,19 +523,22 @@ _expenditures_: $10.017 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 11.7% (of GDP) (2018 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$1.122 billion (2020 est.)<br>
--$1.512 billion (2019 est.)<br>
--$2.262 billion (2018 est.)<br>
+-$1,121,983,000 (2020 est.)<br>
+-$1,512,182,000 (2019 est.)<br>
+-$2,262,330,000 (2018 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $8.555 billion (2020 est.) note: data are in current year dollars<br>
 $9.659 billion (2019 est.) note: data are in current year dollars<br>
 $8.307 billion (2018 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 India 15%, United Arab Emirates 15%, Switzerland 14%, Uganda 12%, China 7% (2020)<br>
@@ -537,6 +550,7 @@ gold, cashews, copper, precious metals, legumes (2020)<br>
 $9.181 billion (2020 est.) note: data are in current year dollars<br>
 $10.576 billion (2019 est.) note: data are in current year dollars<br>
 $10.399 billion (2018 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 34%, Democratic Republic of the Congo 14%, India 12%, United Arab Emirates 6%, South Africa 3% (2020)<br>
@@ -545,10 +559,10 @@ China 34%, Democratic Republic of the Congo 14%, India 12%, United Arab Emirates
 copper, refined petroleum, packaged medicines, palm oil, wheat (2020)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$5.05 billion (31 December 2018 est.)<br>
-$5.888 billion (31 December 2017 est.)<br>
-$4.067 billion (31 December 2016 est.)<br>
-<strong>note:</strong> excludes gold<br>
+$5.05 billion (2018 est.)<br>
+$5.888 billion (2017 est.)<br>
+$4.351 billion (2016 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $22.054 billion (2019 est.)<br>
@@ -637,7 +651,7 @@ _total subscriptions_: 60,192,331 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 92 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Tanzania&rsquo;s telecom sector enjoys effective competition, particularly in the mobile segment; the government has encouraged foreign participation to promote economic growth and social development, and policy reforms have led to the country having one of the most liberal telecom sectors in Africa; the government has sought to increase broadband penetration by a range of measures, including the reduction in VAT charged on the sale of smartphones and other devices, and reductions in the cost of data; the MNOs became the leading ISPs following the launch of mobile broadband services based on 3G and LTE technologies; operators are hoping for revenue growth in the mobile data services market, given that the voice market is almost entirely prepaid; the MNOs have invested in network upgrades, which in turn has supported m-mobile data use, as well as m-money transfer services and banking services. Together, these have become a fast-developing source of revenue; the landing of the first international submarine cables in the country some years ago revolutionized the telecom market, which up to that point had entirely depended on expensive satellite connections; the government aims to complete a national fiber backbone network, having signed an agreement; in late 2021, the government announced plans to extend the national backbone network from about 8,300km to 15,000km by 2023, and to provide ongoing connectivity to more countries in the region (2022)<br>
+_general assessment_: <p>Tanzania’s telecom sector enjoys effective competition, particularly in the mobile segment; the government has encouraged foreign participation to promote economic growth and social development, and policy reforms have led to the country having one of the most liberal telecom sectors in Africa; the government has sought to increase broadband penetration by a range of measures, including the reduction in VAT charged on the sale of smartphones and other devices, and reductions in the cost of data; the MNOs became the leading ISPs following the launch of mobile broadband services based on 3G and LTE technologies; operators are hoping for revenue growth in the mobile data services market, given that the voice market is almost entirely prepaid; the MNOs have invested in network upgrades, which in turn has supported m-mobile data use, as well as m-money transfer services and banking services. Together, these have become a fast-developing source of revenue; the landing of the first international submarine cables in the country some years ago revolutionized the telecom market, which up to that point had entirely depended on expensive satellite connections; following the signing of infrastructure investment agreements with mobile network operators, the government plans to extend its national ICT broadband backbone to 99 or 185 districts by 2024 and to all districts by 2030</p> (2022)<br>
 _domestic_: fixed-line telephone network is 2 connections per 100 persons; mobile-cellular service is 92 telephones per 100 persons (2022)<br>
 _international_: country code - 255; landing points for the EASSy, SEACOM/Tata TGN-Eurasia, and SEAS&nbsp;fiber-optic submarine cable system linking East Africa with the Middle East; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019)<br>
 
@@ -734,7 +748,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Tanzania-Burundi</em>: none identified</p> <p><em>Tanzania-Democratic Republic of the Congo</em>: none identified</p> <p><em>Tanzania-Kenya</em>: none identified</p> <p><em>Tanzania-Malawi</em>: dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake</p> <p><em>Tanzania-Mozambique</em>: none identified</p> <p><em>Tanzania-Rwanda</em>: none identified</p> <p><em>Tanzania-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 89,260 (Democratic Republic of the Congo), 112,291 (Burundi) (2024)<br>
+_refugees (country of origin)_: 89,163 (Democratic Republic of the Congo), 112,779 (Burundi) (2024)<br>
 
 **Illicit drugs**<br>
 significant transit country for illicit drugs in East Africa; international drug trafficking organizations and courier networks transit illicit drugs through mainland Tanzania to markets in within Africa, Europe and North America; cultivates cannabis and khat for domestic consumption and regional and international distribution; domestic drug use continues increasing including methamphetamine heroin use (2023)<br>

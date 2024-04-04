@@ -330,7 +330,7 @@ _residency requirement for naturalization_: 8 years<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Grand Chief Sir Bob DADAE (since 28 February 2017)<br>
-_head of government_: Prime Minister James MARAPE (since 30 May 2019); Deputy Prime Minister John ROSSO (since 25 May 2022)<br>
+_head of government_: Prime Minister James MARAPE (since 30 May 2019)<br>
 _cabinet_: National Executive Council appointed by the governor general on the recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general nominated by the National Parliament and appointed by the chief of state; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general pending the outcome of a National Parliament vote<br>
 _election results_: James MARAPE reelected prime minister; National Parliament vote - 105 out of 118<br>
@@ -386,29 +386,32 @@ _selected World Heritage Site locales_: Kuk Early Agricultural Site<br>
 lower middle-income Pacific island economy; primarily informal agrarian sector; natural resource-rich; key liquified natural gas exporter; growing young workforce; slow post-pandemic recovery; increasingly impoverished citizenry; sustainable inflation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$36.589 billion (2021 est.)<br>
-$36.479 billion (2020 est.)<br>
-$37.672 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$38.065 billion (2022 est.)<br>
+$36.195 billion (2021 est.)<br>
+$36.48 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0.3% (2021 est.)<br>
+5.17% (2022 est.)<br>
+-0.78% (2021 est.)<br>
 -3.17% (2020 est.)<br>
-4.48% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,700 (2021 est.)<br>
+$3,800 (2022 est.)<br>
+$3,600 (2021 est.)<br>
 $3,700 (2020 est.)<br>
-$3,900 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$19.82 billion (2017 est.)<br>
+$31.604 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.25% (2022 est.)<br>
 4.48% (2021 est.)<br>
 4.87% (2020 est.)<br>
-3.93% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B2 (2016)<br>
@@ -435,15 +438,18 @@ oil palm fruit, bananas, coconuts, fruit, sweet potatoes, game meat, yams, roots
 oil and gas; mining (gold, copper, and nickel); palm oil processing; plywood and wood chip production;&nbsp;copra crushing; construction; tourism; fishing; livestock (pork, poultry, cattle) and dairy farming; spice products (turmeric, vanilla, ginger, cardamom, chili, pepper, citronella, and nutmeg)<br>
 
 **Industrial production growth rate**<br>
--7.5% (2020 est.)<br>
+6.61% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.073 million (2021 est.)<br>
+3.167 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.75% (2021 est.)<br>
-2.6% (2020 est.)<br>
-2.45% (2019 est.)<br>
+2.78% (2022 est.)<br>
+3.24% (2021 est.)<br>
+3.07% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 5.3% (2021 est.)<br>
@@ -461,9 +467,10 @@ _lowest 10%_: 1.7%<br>
 _highest 10%_: 40.5% (1996)<br>
 
 **Remittances**<br>
+0.01% of GDP (2022 est.)<br>
+0.05% of GDP (2021 est.)<br>
 0.01% of GDP (2020 est.)<br>
-0.01% of GDP (2019 est.)<br>
-0.02% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $4.039 billion (2019 est.)<br>
@@ -476,23 +483,26 @@ _expenditures_: $5.135 billion (2019 est.)<br>
 48.68% of GDP (2020 est.)<br>
 40.15% of GDP (2019 est.)<br>
 36.67% of GDP (2018 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 11.88% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$5.451 billion (2018 est.)<br>
-$5.348 billion (2017 est.)<br>
-$5.175 billion (2016 est.)<br>
+$4.499 billion (2021 est.)<br>
+$3.419 billion (2020 est.)<br>
+$3.559 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$11 billion (2021 est.)<br>
-$9.36 billion (2020 est.)<br>
-$11 billion (2019 est.)<br>
-<strong>note:</strong> data are in current year dollars<br>
+$11.625 billion (2021 est.)<br>
+$9.175 billion (2020 est.)<br>
+$11.236 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Japan 25%, China 25%, Australia 16%, Taiwan 6%, South Korea 6% (2021)<br>
@@ -501,9 +511,10 @@ Japan 25%, China 25%, Australia 16%, Taiwan 6%, South Korea 6% (2021)<br>
 natural gas, gold, copper, palm oil, nickel, crude petroleum, lumber, refined petroleum, tuna, coffee (2021)<br>
 
 **Imports**<br>
-$4.25 billion (2021 est.)<br>
-$3.77 billion (2020 est.)<br>
-$4.14 billion (2019 est.)<br>
+$6.303 billion (2021 est.)<br>
+$5.282 billion (2020 est.)<br>
+$6.329 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Australia 27%, China 25%, Singapore 13%, Malaysia 8%, Indonesia 5% (2021)<br>
@@ -512,9 +523,10 @@ Australia 27%, China 25%, Singapore 13%, Malaysia 8%, Indonesia 5% (2021)<br>
 refined petroleum, rice, delivery trucks, excavation machinery, motor vehicle parts (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.339 billion (31 December 2019 est.)<br>
-$2.239 billion (31 December 2018 est.)<br>
-$1.762 billion (31 December 2017 est.)<br>
+$3.983 billion (2022 est.)<br>
+$3.24 billion (2021 est.)<br>
+$2.686 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $17.94 billion (31 December 2017 est.)<br>
@@ -522,11 +534,11 @@ $18.28 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: kina (PGK) per US dollar -<br>
+3.519 (2022 est.)<br>
 3.509 (2021 est.)<br>
 3.46 (2020 est.)<br>
 3.388 (2019 est.)<br>
 3.293 (2018 est.)<br>
-3.189 (2017 est.)<br>
 
 ## Energy
 

@@ -394,29 +394,32 @@ _selected World Heritage Site locales_: Butrint (c); Historic Berat and Gjirokas
 future hopeful EU member state; oil and gas exporter but investing toward a &ldquo;blue economy&rdquo;; COVID-19 and earthquake economic disruptions and declines; experiencing high debt and account balances; strengthening private sector growth and public sector trust<br>
 
 **Real GDP (purchasing power parity)**<br>
-$40.822 billion (2021 est.)<br>
-$37.619 billion (2020 est.)<br>
-$38.976 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$43.032 billion (2022 est.)<br>
+$41.039 billion (2021 est.)<br>
+$37.682 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-8.52% (2021 est.)<br>
--3.48% (2020 est.)<br>
-2.09% (2019 est.)<br>
+4.86% (2022 est.)<br>
+8.91% (2021 est.)<br>
+-3.3% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$14,500 (2021 est.)<br>
+$15,500 (2022 est.)<br>
+$14,600 (2021 est.)<br>
 $13,300 (2020 est.)<br>
-$13,700 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$15.273 billion (2019 est.)<br>
+$18.916 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.73% (2022 est.)<br>
 2.04% (2021 est.)<br>
 1.62% (2020 est.)<br>
-1.41% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B1 (2021)<br>
@@ -443,16 +446,18 @@ milk, maize, tomatoes, potatoes, watermelons, wheat, grapes, cucumbers, onions, 
 food; footwear, apparel and clothing; lumber, oil, cement, chemicals, mining, basic metals, hydropower<br>
 
 **Industrial production growth rate**<br>
-16% (2021 est.)<br>
+7.86% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.378 million (2021 est.)<br>
+1.405 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.82% (2021 est.)<br>
-13.33% (2020 est.)<br>
-11.47% (2019 est.)<br>
-<strong>note:</strong> these official rates may not include those working at near-subsistence farming<br>
+11.63% (2022 est.)<br>
+12.59% (2021 est.)<br>
+12.83% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 27.8% (2021 est.)<br>
@@ -460,19 +465,23 @@ _male_: 28%<br>
 _female_: 27.6%<br>
 
 **Population below poverty line**<br>
-14.3% (2012 est.)<br>
+22% (2020 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-30.8 (2019 est.)<br>
+29.4 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4.1%<br>
-_highest 10%_: 19.6% (2015 est.)<br>
+_lowest 10%_: 3.4%<br>
+_highest 10%_: 22.8% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-9.41% of GDP (2021 est.)<br>
-9.69% of GDP (2020 est.)<br>
-9.56% of GDP (2019 est.)<br>
+9.23% of GDP (2022 est.)<br>
+9.58% of GDP (2021 est.)<br>
+9.67% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $4.19 billion (2019 est.)<br>
@@ -482,26 +491,29 @@ _expenditures_: $4.489 billion (2019 est.)<br>
 -2% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-84.06% of GDP (2020 est.)<br>
+82.38% of GDP (2021 est.)<br>
+83.89% of GDP (2020 est.)<br>
 75.7% of GDP (2019 est.)<br>
-64.57% of GDP (2018 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-17.02% (of GDP) (2020 est.)<br>
+18.2% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
+-$1.117 billion (2022 est.)<br>
 -$1.37 billion (2021 est.)<br>
 -$1.315 billion (2020 est.)<br>
--$1.219 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$7.057 billion (2022 est.)<br>
 $5.612 billion (2021 est.)<br>
 $3.461 billion (2020 est.)<br>
-$4.822 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Italy 45%, Spain 8%, Germany 6%, Greece 5%, France 4%, China 4% (2019)<br>
@@ -511,9 +523,10 @@ leather footwear and parts, electricity, crude petroleum, iron alloys, clothing,
 <strong>note:</strong> Albanian cannabis production remains a significant illicit trade export<br>
 
 **Imports**<br>
+$9.016 billion (2022 est.)<br>
 $8.004 billion (2021 est.) note: data are in current year dollars<br>
 $5.671 billion (2020 est.) note: data are in current year dollars<br>
-$6.926 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Italy 28%, Greece 12%, China 11%, Turkey 9%, Germany 5% (2019)<br>
@@ -522,9 +535,10 @@ Italy 28%, Greece 12%, China 11%, Turkey 9%, Germany 5% (2019)<br>
 refined petroleum, cars, tanned hides, packaged medical supplies, footwear parts (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$5.635 billion (31 December 2021 est.)<br>
-$4.817 billion (31 December 2020 est.)<br>
-$3.764 billion (31 December 2019 est.)<br>
+$5.266 billion (2022 est.)<br>
+$5.635 billion (2021 est.)<br>
+$4.817 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $9.311 billion (2019 est.)<br>
@@ -532,11 +546,11 @@ $9.547 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: leke (ALL) per US dollar -<br>
+113.042 (2022 est.)<br>
 103.52 (2021 est.)<br>
 108.65 (2020 est.)<br>
 109.851 (2019 est.)<br>
 107.989 (2018 est.)<br>
-119.1 (2017 est.)<br>
 
 ## Energy
 

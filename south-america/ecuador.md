@@ -88,15 +88,14 @@ _noun_: Ecuadorian(s)<br>
 _adjective_: Ecuadorian<br>
 
 **Ethnic groups**<br>
-Mestizo (mixed Amerindian and White) 71.9%, Montubio 7.4%, Amerindian 7%, White 6.1%, Afroecuadorian 4.3%, Mulatto 1.9%, Black 1%, other 0.4% (2010 est.)<br>
+Mestizo (mixed Indigenous and White) 77.5%, Montubio 7.7%, Indigenous 7.7%, White 2.2%, Afroecuadorian 2%, Mulatto 1.4%, Black 1.3%, other 0.1% (2022 est.)<br>
 
 **Languages**<br>
 Spanish (Castilian) 93% (official), Quechua 4.1%, other indigenous 0.7%, foreign 2.2%; note - (Quechua and Shuar are official languages of intercultural relations; other indigenous languages are in official use by indigenous peoples in the areas they inhabit) (2010 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 68.8%, Evangelical 15.4%, Adventist 1.2%, Jehovah's Witness 1%, other 1.3%, agnostic or atheist 1.4%, none 10.1%, don't know/no response 1% (2020 est.)<br>
-<strong>note:</strong> data represent persons at least 16 years of age from five Ecuadoran cities<br>
+Roman Catholic 68.2%, Protestant 19% (Evangelical 18.3%, Adventist 0.6%, other Protestant 0.2%), Jehovah's Witness 1.4%, other 2.3%, none 8.2% don't know/no response 1% (2023 est.)<br>
 
 **Demographic profile**<br>
 <p>Ecuador’s high poverty and income inequality most affect indigenous, mixed race, and rural populations.  The government has increased its social spending to ameliorate these problems, but critics question the efficiency and implementation of its national development plan.  Nevertheless, the conditional cash transfer program, which requires participants’ children to attend school and have medical check-ups, has helped improve educational attainment and health care among poor children.  Ecuador’s total fertility rate – the average number of children born per woman – is just below replacement level as of 2023, but its population is continuing to grow.</p> <p>Ecuador continues to be both a country of emigration and immigration. The first large-scale emigration of largely undocumented Ecuadorians occurred between 1980 and 2000, when an economic crisis drove Ecuadorians from southern provinces to New York City, where they had connections from the earlier Panama hat trade. Emigration from all parts of Ecuador in the late 1990s was caused by another economic downturn, political instability, and a currency crisis. Spain was the logical destination because of its shared language and the wide availability of low-skilled, informal jobs at a time when increased border surveillance made illegal migration to the US difficult. Ecuador became Spain’s second largest immigrant source country. The bulk of Ecuadorian emigration, however, occurred between 2000 and 2007, largely to the US, Spain, and Italy.  Emigration has again surged since 2017, as economic problems, high unemployment, poverty, and violence have lead thousands of Ecuadorian migrants and refugees to head to the US.  As of 2021, Ecuadorians were the fourth-highest nationality coming into contact with US Customs and Border Protection at the US-Mexico border. Most Ecuadorian migrants and refugees traverse the dangerous Darien Gap between Colombia and Panama to reach Mexico. Although Mexico reinstated a visa requirement in September 2021, Ecuadorians continue to enter Mexico illegally and then travel to the US or Canada.  Some wind up staying in Mexico if their journeys north fail. Emigrants represent 8-10% of Ecuador’s population, as of 2021. </p> <p>Ecuador hosts one of the region’s largest refugee populations.  From 2000-2005, Colombians arrived in growing numbers to escape armed conflict, and they have continued to immigrate to Ecuador steadily.  Between 2008, when Ecuador lifted visa requirements for all countries, and 2016, immigrants entered from Haiti, Cuba, and other continents.  The influx of Venezuelans began in 2017, and, as of May 2022, Ecuador was home to the third-largest community of Venezuelan migrants and refugees in the world at over half a million.  Immigrants and refugees account for 3-5% of the Ecuador’s population, as of 2021.</p><br>
@@ -229,9 +228,9 @@ _women married by age 18_: 22.2% (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 94.5%<br>
+_total population_: 93.9%<br>
 _male_: 94.9%<br>
-_female_: 94% (2021)<br>
+_female_: 93.1% (2022)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -401,29 +400,32 @@ _selected World Heritage Site locales_: Historic Quito (c); Galápagos Islands (
 highly informal South American economy; USD currency user; major banana exporter; hard hit by COVID-19; macroeconomic fragility from oil dependency; successful debt restructuring; China funding budget deficits; social unrest hampering economic activity<br>
 
 **Real GDP (purchasing power parity)**<br>
+$195.477 billion (2022 est.)<br>
 $189.88 billion (2021 est.)<br>
 $182.165 billion (2020 est.)<br>
-$197.549 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+2.95% (2022 est.)<br>
 4.24% (2021 est.)<br>
 -7.79% (2020 est.)<br>
-0.01% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$10,900 (2022 est.)<br>
 $10,700 (2021 est.)<br>
 $10,400 (2020 est.)<br>
-$11,400 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$107.436 billion (2019 est.)<br>
+$115.049 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.47% (2022 est.)<br>
 0.13% (2021 est.)<br>
 -0.34% (2020 est.)<br>
-0.27% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B- (2020)<br>
@@ -451,16 +453,18 @@ sugar cane, bananas, milk, oil palm fruit, maize, rice, plantains, poultry, coco
 petroleum, food processing, textiles, wood products, chemicals<br>
 
 **Industrial production growth rate**<br>
-0.49% (2021 est.)<br>
-<strong>note:</strong> excludes oil refining<br>
+1.08% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.528 million (2021 est.)<br>
+8.813 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.43% (2021 est.)<br>
-6.11% (2020 est.)<br>
-3.81% (2019 est.)<br>
+3.76% (2022 est.)<br>
+4.55% (2021 est.)<br>
+6.13% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.2% (2021 est.)<br>
@@ -468,25 +472,27 @@ _male_: 11.4%<br>
 _female_: 18.8%<br>
 
 **Population below poverty line**<br>
-25% (2019 est.)<br>
+25.2% (2022 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-47.3 (2020 est.)<br>
-<strong>note:</strong> data are for urban households only<br>
+45.5 (2022 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 26.2% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 0.8% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.4%<br>
-_highest 10%_: 35.4% (2012 est.)<br>
-<strong>note:</strong> data are for urban households only<br>
+_lowest 10%_: 1.7%<br>
+_highest 10%_: 34.3% (2022 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+4.13% of GDP (2022 est.)<br>
 4.11% of GDP (2021 est.)<br>
 3.37% of GDP (2020 est.)<br>
-3% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $35.914 billion (2019 est.)<br>
@@ -500,20 +506,23 @@ _expenditures_: $39.319 billion (2019 est.)<br>
 43.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-12.54% (of GDP) (2020 est.)<br>
+13.21% (of GDP) (2022 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$2.952 billion (2021 est.)<br>
-$2.69 billion (2020 est.)<br>
--$59.36 million (2019 est.)<br>
+$2.114 billion (2022 est.)<br>
+$3.097 billion (2021 est.)<br>
+$2.21 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$29.325 billion (2021 est.) note: data are in current year dollars<br>
-$22.401 billion (2020 est.) note: data are in current year dollars<br>
-$26.12 billion (2019 est.) note: data are in current year dollars<br>
+$35.92 billion (2022 est.)<br>
+$29.037 billion (2021 est.) note: data are in current year dollars<br>
+$22.373 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 30%, China 13%, Panama 8%, Chile 7% (2019)<br>
@@ -522,9 +531,10 @@ United States 30%, China 13%, Panama 8%, Chile 7% (2019)<br>
 crude petroleum, shrimp, bananas, refined petroleum, tuna (2021)<br>
 
 **Imports**<br>
-$28.567 billion (2021 est.) note: data are in current year dollars<br>
-$19.877 billion (2020 est.) note: data are in current year dollars<br>
-$25.89 billion (2019 est.) note: data are in current year dollars<br>
+$36.051 billion (2022 est.)<br>
+$28.128 billion (2021 est.) note: data are in current year dollars<br>
+$19.874 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 22%, China 18%, Colombia 9%, Panama 5% (2019)<br>
@@ -533,21 +543,17 @@ United States 22%, China 18%, Colombia 9%, Panama 5% (2019)<br>
 refined petroleum, coal tar oil, cars, packaged medicines, soybean products (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$7.912 billion (31 December 2021 est.)<br>
-$7.137 billion (31 December 2020 est.)<br>
-$2.939 billion (31 December 2019 est.)<br>
+$8.459 billion (2022 est.)<br>
+$7.912 billion (2021 est.)<br>
+$7.137 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $50.667 billion (2019 est.)<br>
 $43.224 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-1 (2021 est.)<br>
-1 (2020 est.)<br>
-1 (2019 est.)<br>
-1 (2018 est.)<br>
-1 (2017 est.)<br>
-the US dollar became Ecuador's currency in 2001<br>
+<p>the US dollar became Ecuador's currency in 2001</p><br>
 
 ## Energy
 
@@ -666,8 +672,8 @@ _narrow gauge_: 965 km (2022) 1.067-m gauge<br>
 <strong>note:</strong> passenger service limited to certain sections of track, mostly for tourist trains<br>
 
 **Roadways**<br>
-_total_: 43,950 km (2022)<br>
-_paved_: 8,895 km (2022)<br>
+_total_: 43,950 km<br>
+_paved_: 8,895 km<br>
 _unpaved_: 35,055 km (2022)<br>
 
 **Waterways**<br>

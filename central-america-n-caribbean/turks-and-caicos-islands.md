@@ -311,24 +311,26 @@ _lyrics/music_: Conrad HOWELL<br>
 British Caribbean island territorial economy; GDP and its tourism industry hit hard by COVID-19 disruptions; major biodiversity locale; US dollar user; fossil fuel dependent; negative trade balance; increasing unemployment<br>
 
 **Real GDP (purchasing power parity)**<br>
-$835.171 million (2021 est.)<br>
+$946.893 million (2022 est.)<br>
+$891.613 million (2021 est.)<br>
 $817.993 million (2020 est.)<br>
-$1.117 billion (2019 est.)<br>
-<strong>note: </strong>data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.1% (2021 est.)<br>
+6.2% (2022 est.)<br>
+9% (2021 est.)<br>
 -26.78% (2020 est.)<br>
-5.32% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$18,500 (2021 est.)<br>
+$20,700 (2022 est.)<br>
+$19,800 (2021 est.)<br>
 $18,500 (2020 est.)<br>
-$25,900 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.02 billion (2018 est.)<br>
+$1.139 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4% (2017 est.)<br>
@@ -355,12 +357,7 @@ tourism, offshore financial services<br>
 
 **Industrial production growth rate**<br>
 5% (2021 est.)<br>
-
-**Labor force**<br>
-4,848 (1990 est.)<br>
-
-**Unemployment rate**<br>
-10% (1997 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -370,9 +367,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-0.81% of GDP (2020 est.)<br>
-0.62% of GDP (2019 est.)<br>
-0.67% of GDP (2018 est.)<br>
+0% of GDP (2022 est.)<br>
+0% of GDP (2021 est.)<br>
+0% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $247.3 million (2017 est.)<br>
@@ -385,10 +383,13 @@ calendar year<br>
 $172.709 million (2018 est.)<br>
 $35.016 million (2017 est.)<br>
 $247.081 million (2016 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$827 million (2018 est.) note: data are in current year dollars<br>
-$603 million (2017 est.)<br>
+$826.824 million (2018 est.) note: data are in current year dollars<br>
+$602.581 million (2017 est.)<br>
+$741.173 million (2016 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 France 31%, United States 16%, Zambia 13%, Singapore 9%, Republic of the Congo 8% (2019)<br>
@@ -399,6 +400,8 @@ plastic building materials, stone processing machinery, iron structures, crustac
 **Imports**<br>
 $544.219 million (2018 est.) note: data are in current year dollars<br>
 $484.842 million (2017 est.)<br>
+$438.041 million (2016 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 76% (2019)<br>

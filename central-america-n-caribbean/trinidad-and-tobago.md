@@ -353,29 +353,32 @@ _lyrics/music_: Patrick Stanislaus CASTAGNE<br>
 high-income Caribbean economy; major hydrocarbon exporter; key tourism and finance sectors; high inflation and growing public debt; long foreign currency access delays; large foreign reserves and sovereign wealth fund<br>
 
 **Real GDP (purchasing power parity)**<br>
-$35.147 billion (2021 est.)<br>
-$35.511 billion (2020 est.)<br>
-$38.465 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$35.667 billion (2022 est.)<br>
+$35.146 billion (2021 est.)<br>
+$35.514 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--1.03% (2021 est.)<br>
--7.68% (2020 est.)<br>
-0.11% (2019 est.)<br>
+1.48% (2022 est.)<br>
+-1.04% (2021 est.)<br>
+-9.08% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$23,300 (2022 est.)<br>
 $23,000 (2021 est.)<br>
 $23,400 (2020 est.)<br>
-$25,300 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$24.031 billion (2019 est.)<br>
+$30.054 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.83% (2022 est.)<br>
 2.06% (2021 est.)<br>
 0.6% (2020 est.)<br>
-1% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Ba1 (2017)<br>
@@ -402,15 +405,18 @@ poultry, fruit, coconuts, citrus fruit, milk, plantains, maize, oranges, eggs, g
 petroleum and petroleum products, liquefied natural gas, methanol, ammonia, urea, steel products, beverages, food processing, cement, cotton textiles<br>
 
 **Industrial production growth rate**<br>
--0.99% (2021 est.)<br>
+3.18% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-702,900 (2021 est.)<br>
+675,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.8% (2021 est.)<br>
-4.57% (2020 est.)<br>
-3.42% (2019 est.)<br>
+3.81% (2022 est.)<br>
+4.45% (2021 est.)<br>
+4.21% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 12.7% (2021 est.)<br>
@@ -425,9 +431,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-0.95% of GDP (2021 est.)<br>
-0.92% of GDP (2020 est.)<br>
-0.6% of GDP (2019 est.)<br>
+0.68% of GDP (2022 est.)<br>
+0.96% of GDP (2021 est.)<br>
+0.93% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $4.939 billion (2020 est.)<br>
@@ -441,20 +448,23 @@ _expenditures_: $7.528 billion (2020 est.)<br>
 37% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-19.52% (of GDP) (2018 est.)<br>
+16.55% (of GDP) (2019 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
 
 **Current account balance**<br>
-$2.9 billion (2021 est.)<br>
--$1.356 billion (2020 est.)<br>
-$1.02 billion (2019 est.)<br>
+$5.382 billion (2022 est.)<br>
+$2.695 billion (2021 est.)<br>
+-$1,356,411,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$11.467 billion (2021 est.) note: data are in current year dollars<br>
+$17.584 billion (2022 est.)<br>
+$11.542 billion (2021 est.) note: data are in current year dollars<br>
 $6.44 billion (2020 est.) note: data are in current year dollars<br>
-$9.566 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 37%, Guyana 6%, China 5%, Mexico 4%, Belgium 4% (2021)<br>
@@ -463,9 +473,10 @@ United States 37%, Guyana 6%, China 5%, Mexico 4%, Belgium 4% (2021)<br>
 ammonia, industrial alcohols, natural gas, crude petroleum, iron products, fertilizers, refined petroleum (2021)<br>
 
 **Imports**<br>
-$8.592 billion (2021 est.) note: data are in current year dollars<br>
+$10.694 billion (2022 est.)<br>
+$8.636 billion (2021 est.) note: data are in current year dollars<br>
 $6.785 billion (2020 est.) note: data are in current year dollars<br>
-$7.96 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 37%, China 9%, Mexico 6%, Brazil 5%, Canada 4% (2021)<br>
@@ -474,9 +485,10 @@ United States 37%, China 9%, Mexico 6%, Brazil 5%, Canada 4% (2021)<br>
 refined petroleum, iron, excavation machinery, ships, cars (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$6.88 billion (31 December 2021 est.)<br>
-$6.954 billion (31 December 2020 est.)<br>
-$6.929 billion (31 December 2019 est.)<br>
+$6.832 billion (2022 est.)<br>
+$6.88 billion (2021 est.)<br>
+$6.954 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $8.238 billion (31 December 2017 est.)<br>
@@ -484,11 +496,11 @@ $8.746 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Trinidad and Tobago dollars (TTD) per US dollar -<br>
+6.754 (2022 est.)<br>
 6.759 (2021 est.)<br>
 6.751 (2020 est.)<br>
 6.754 (2019 est.)<br>
 6.771 (2018 est.)<br>
-6.78 (2017 est.)<br>
 
 ## Energy
 

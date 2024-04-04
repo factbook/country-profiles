@@ -5,7 +5,7 @@ _Central America and Caribbean / Dependencies (United Kingdom)_
 ## Introduction
 
 **Background**<br>
-Colonized by English settlers from Saint Kitts in 1650, Anguilla was administered by Great Britain until the early 19th century, when the island - against the wishes of the inhabitants - was incorporated into a single British dependency along with Saint Kitts and Nevis. Several attempts at separation failed. In 1971, two years after a revolt, Anguilla was finally allowed to secede; this arrangement was formally recognized in 1980, with Anguilla becoming a separate British dependency. On 7 September 2017, the island suffered extensive damage from Hurricane Irma, particularly to communications and residential and business infrastructure.<br>
+English settlers from Saint Kitts first colonized Anguilla in 1650. Great Britain administered the island until the early 19th century, when -- against the wishes of the inhabitants -- Anguilla was incorporated into a single British dependency along with Saint Kitts and Nevis. Several attempts at separation failed. In 1971, two years after a revolt, Anguilla was finally allowed to secede; this arrangement was formally recognized in 1980, when Anguilla became a separate British dependency. In 2017, Hurricane Irma caused extensive damage on the island, particularly to communications and residential and business infrastructure.<br>
 
 ## Geography
 
@@ -290,20 +290,6 @@ _lyrics/music_: Alex RICHARDSON<br>
 **Economic overview**<br>
 small, tourism-dependent, territorial-island economy; very high public debt; COVID-19 crippled economic activity; partial recovery underway via tourism, benefitting from its high amount of timeshare residences; considering reopening oil refinery<br>
 
-**Real GDP (purchasing power parity)**<br>
-$175.4 million (2009 est.)<br>
-$191.7 million (2008 est.)<br>
-$108.9 million (2004 est.)<br>
-
-**Real GDP growth rate**<br>
--8.5% (2009 est.)<br>
-
-**Real GDP per capita**<br>
-$12,200 (2008 est.)<br>
-
-**GDP (official exchange rate)**<br>
-$175.4 million (2009 est.)<br>
-
 **Inflation rate (consumer prices)**<br>
 1.3% (2017 est.)<br>
 -0.6% (2016 est.)<br>
@@ -329,12 +315,6 @@ tourism, boat building, offshore financial services<br>
 
 **Industrial production growth rate**<br>
 4% (2017 est.)<br>
-
-**Labor force**<br>
-6,049 (2001)<br>
-
-**Unemployment rate**<br>
-8% (2002)<br>
 
 **Population below poverty line**<br>
 23% (2002 est.)<br>

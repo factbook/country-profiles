@@ -390,26 +390,29 @@ _selected World Heritage Site locales_: Gelati Monastery (c); Historical Monumen
 $63.403 billion (2022 est.)<br>
 $57.434 billion (2021 est.)<br>
 $51.993 billion (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+10.39% (2022 est.)<br>
 10.47% (2021 est.)<br>
 -6.76% (2020 est.)<br>
-4.98% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $17,100 (2022 est.)<br>
 $15,500 (2021 est.)<br>
 $14,000 (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$17.694 billion (2019 est.)<br>
+$24.781 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+11.9% (2022 est.)<br>
 9.57% (2021 est.)<br>
 5.2% (2020 est.)<br>
-4.85% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB (2019)<br>
@@ -437,15 +440,18 @@ milk, grapes, maize, potatoes, wheat, watermelons, tomatoes, tangerines/mandarin
 steel, machine tools, electrical appliances, mining (manganese, copper, gold), chemicals, wood products, wine<br>
 
 **Industrial production growth rate**<br>
-2.4% (2021 est.)<br>
+15.3% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.724 million (2021 est.)<br>
+1.84 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-10.66% (2021 est.)<br>
-18.5% (2020 est.)<br>
-11.57% (2019 est.)<br>
+11.68% (2022 est.)<br>
+11.85% (2021 est.)<br>
+11.73% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 28.3% (2021 est.)<br>
@@ -453,23 +459,27 @@ _male_: 27.4%<br>
 _female_: 29.9%<br>
 
 **Population below poverty line**<br>
-19.5% (2019 est.)<br>
+15.6% (2022 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-34.5 (2020 est.)<br>
+34.2 (2021 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 32.3% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2%<br>
-_highest 10%_: 31.3% (2008)<br>
+_lowest 10%_: 2.7%<br>
+_highest 10%_: 26.2% (2021 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+15.55% of GDP (2022 est.)<br>
 14.19% of GDP (2021 est.)<br>
 13.32% of GDP (2020 est.)<br>
-12.93% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $4.737 billion (2019 est.)<br>
@@ -479,27 +489,29 @@ _expenditures_: $5.059 billion (2019 est.)<br>
 -3.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+43.32% of GDP (2022 est.)<br>
+55.38% of GDP (2021 est.)<br>
 65.88% of GDP (2020 est.)<br>
-45.15% of GDP (2019 est.)<br>
-38.89% of GDP (2018 est.)<br>
-<strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities; Georgia does not maintain intragovernmental debt or social funds<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-21.41% (of GDP) (2020 est.)<br>
+23.09% (of GDP) (2022 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.937 billion (2021 est.)<br>
--$1.981 billion (2020 est.)<br>
--$1.025 billion (2019 est.)<br>
+-$1.12 billion (2022 est.)<br>
+-$1.943 billion (2021 est.)<br>
+-$1.984 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$13.112 billion (2022 est.)<br>
+$13.24 billion (2022 est.)<br>
 $8.086 billion (2021 est.)<br>
 $5.927 billion (2020 est.)<br>
-<strong>note: </strong>data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 13%, Russia 12%, Azerbaijan 11%, Turkey 7%, Ukraine 6% (2021)<br>
@@ -508,10 +520,10 @@ China 13%, Russia 12%, Azerbaijan 11%, Turkey 7%, Ukraine 6% (2021)<br>
 copper, iron alloys, cars, wine, refined petroleum, nitrogen fertilizers, liquors (2021)<br>
 
 **Imports**<br>
-$15.545 billion (2022 est.)<br>
+$15.665 billion (2022 est.)<br>
 $11.151 billion (2021 est.)<br>
 $8.967 billion (2020 est.)<br>
-<strong>note: </strong>data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Turkey 17%, China 9%, Russia 9%, United States 7%, Azerbaijan 6% (2021)<br>
@@ -520,9 +532,10 @@ Turkey 17%, China 9%, Russia 9%, United States 7%, Azerbaijan 6% (2021)<br>
 cars, refined petroleum, copper, packaged medicines, natural gas (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$4.271 billion (31 December 2021 est.)<br>
-$3.913 billion (31 December 2020 est.)<br>
-$3.506 billion (31 December 2019 est.)<br>
+$4.886 billion (2022 est.)<br>
+$4.271 billion (2021 est.)<br>
+$3.913 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $18.149 billion (2019 est.)<br>
@@ -530,11 +543,11 @@ $17.608 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: laris (GEL) per US dollar -<br>
+2.916 (2022 est.)<br>
 3.222 (2021 est.)<br>
 3.109 (2020 est.)<br>
 2.818 (2019 est.)<br>
 2.534 (2018 est.)<br>
-2.51 (2017 est.)<br>
 
 ## Energy
 

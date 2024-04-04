@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>In 1816, the United Provinces of the Río de la Plata declared their independence from Spain. After Bolivia, Paraguay, and Uruguay went their separate ways, the area that remained became Argentina. The country's population and culture were heavily shaped by immigrants from throughout Europe, with Italy and Spain providing the largest percentage of newcomers from 1860 to 1930. Up until about the mid-20th century, much of Argentina's history was dominated by periods of internal political unrest and conflict between civilian and military factions.</p> <p>After World War II, an era of populism under former President Juan Domingo PERÓN - the founder of the Peronist political movement - and direct and indirect military interference in subsequent governments was followed by a military junta that took power in 1976. Democracy returned in 1983 after a failed bid to seize the Falkland Islands (Islas Malvinas) by force, and has persisted despite numerous challenges, the most formidable of which was a severe economic crisis in 2001-02 that led to violent public protests and the successive resignations of several presidents. The years 2003-15 saw Peronist rule by Néstor KIRCHNER (2003-07) and his spouse Cristina FERNÁNDEZ DE KIRCHNER (2007-15), who oversaw several years of strong economic growth (2003-11) followed by a gradual deterioration in the government’s fiscal situation and eventual economic stagnation and isolation. Argentina underwent a brief period of economic reform and international reintegration under Mauricio MACRI (2015-19), but a recession in 2018-19 and frustration with MACRI’s economic policies ushered in a new Peronist government in 2019 led by President Alberto FERNÁNDEZ and Vice President Cristina FERNÁNDEZ DE KIRCHNER. Argentina's high public debts, its pandemic-related inflationary pressures, and systemic monetary woes served as the catalyst for the 2023 elections, culminating with President Javier MILEI's electoral success. Argentina has since eliminated half of its government agencies and is seeking shock therapy to amend taxation and monetary policies.</p><br>
+<p>In 1816, the United Provinces of the Río de la Plata declared their independence from Spain. After Bolivia, Paraguay, and Uruguay went their separate ways, the area that remained became Argentina. European immigrants heavily shaped the country's population and culture, with Italy and Spain providing the largest percentage of newcomers from 1860 to 1930. Until about the mid-20th century, much of Argentina's history was dominated by periods of internal political unrest and conflict between civilian and military factions.</p> <p>After World War II, former President Juan Domingo PERÓN -- the founder of the Peronist political movement -- introduced an era of populism, serving three non-consecutive terms in office until his death in 1974. Direct and indirect military interference in government throughout the PERÓN years led to a military junta taking power in 1976. In 1982, the junta failed in its bid to seize the Falkland Islands (Islas Malvinas) by force from the United Kingdom. Democracy was reinstated in 1983 and has persisted despite numerous challenges, the most formidable of which was a severe economic crisis in 2001-02 that led to violent public protests and the successive resignations of several presidents. The years 2003-15 saw Peronist rule by Néstor KIRCHNER (2003-07) and his spouse Cristina FERNÁNDEZ DE KIRCHNER (2007-15), who oversaw several years of strong economic growth (2003-11) followed by a gradual deterioration in the government’s fiscal situation and eventual economic stagnation and isolation. Argentina underwent a brief period of economic reform and international reintegration under Mauricio MACRI (2015-19), but a recession in 2018-19 and frustration with MACRI’s economic policies ushered in a new Peronist government in 2019 led by President Alberto FERNÁNDEZ and Vice President Cristina FERNÁNDEZ DE KIRCHNER. Argentina's high public debts, its pandemic-related inflationary pressures, and systemic monetary woes served as the catalyst for the 2023 elections, culminating with President Javier MILEI's electoral success. Argentina has since eliminated half of its government agencies and is seeking shock therapy to amend taxation and monetary policies.</p><br>
 
 ## Geography
 
@@ -96,7 +96,7 @@ _noun_: Argentine(s)<br>
 _adjective_: Argentine<br>
 
 **Ethnic groups**<br>
-European (mostly Spanish and Italian descent) and Mestizo (mixed European and Amerindian ancestry) 97.2%, Amerindian 2.4%, African descent 0.4% (2010 est.)<br>
+European (mostly Spanish and Italian descent) and Mestizo (mixed European and Indigenous ancestry) 97.2%, Indigenous 2.4%, African descent 0.4% (2010 est.)<br>
 
 **Languages**<br>
 Spanish (official), Italian, English, German, French, indigenous (Quechua, Guarani, Mapudungun)<br>
@@ -406,29 +406,31 @@ _selected World Heritage Site locales_: Los Glaciares National Park (n); Jesuit 
 large diversified economy; financial risks from debt obligations, rapid inflation, and reduced investor appetites; resource-rich, export-led growth model; increasing trade relations with China; G20 and OAS leader; tendency to nationalize businesses and under-report inflation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$986.134 billion (2021 est.)<br>
-$893.251 billion (2020 est.)<br>
-$991.876 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$1.039 trillion (2022 est.)<br>
+$989.46 billion (2021 est.)<br>
+$893.675 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-10.4% (2021 est.)<br>
--9.94% (2020 est.)<br>
--2% (2019 est.)<br>
+4.96% (2022 est.)<br>
+10.72% (2021 est.)<br>
+-9.9% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$21,500 (2021 est.)<br>
+$22,500 (2022 est.)<br>
+$21,600 (2021 est.)<br>
 $19,700 (2020 est.)<br>
-$22,100 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$447.467 billion (2019 est.)<br>
+$631.133 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 25.7% (2017 est.)<br>
 26.5% (2016 est.)<br>
-<strong>note:</strong> data are derived from private estimates<br>
+note: data are derived from private estimates<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2020)<br>
@@ -456,17 +458,18 @@ maize, soybeans, wheat, sugar cane, milk, barley, sunflower seed, beef, grapes, 
 food processing, motor vehicles, consumer durables, textiles, chemicals and petrochemicals, printing, metallurgy, steel<br>
 
 **Industrial production growth rate**<br>
-15.26% (2021 est.)<br>
-<strong>note:</strong> based on private sector estimates<br>
+5.71% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-21.206 million (2021 est.)<br>
-<strong>note:</strong> urban areas only<br>
+21.511 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-10.9% (2021 est.)<br>
+6.81% (2022 est.)<br>
+8.74% (2021 est.)<br>
 11.46% (2020 est.)<br>
-9.84% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 29.9% (2021 est.)<br>
@@ -474,10 +477,12 @@ _male_: 25%<br>
 _female_: 37.1%<br>
 
 **Population below poverty line**<br>
-35.5% (2019 est.)<br>
+39.2% (2022 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-42.3 (2020 est.)<br>
+42 (2021 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 28.3% of household expenditures (2018 est.)<br>
@@ -485,12 +490,14 @@ _on alcohol and tobacco_: 1.9% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
-_highest 10%_: 31% (2017 est.)<br>
+_highest 10%_: 30.8% (2021 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.19% of GDP (2021 est.)<br>
+0.2% of GDP (2022 est.)<br>
+0.18% of GDP (2021 est.)<br>
 0.17% of GDP (2020 est.)<br>
-0.13% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $150.823 billion (2019 est.)<br>
@@ -504,21 +511,23 @@ _expenditures_: $170.725 billion (2019 est.)<br>
 55% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-10.87% (of GDP) (2020 est.)<br>
+11.47% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$6.708 billion (2021 est.)<br>
-$3.121 billion (2020 est.)<br>
--$3.492 billion (2019 est.)<br>
+-$4.29 billion (2022 est.)<br>
+$6.645 billion (2021 est.)<br>
+$2.688 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$87.415 billion (2021 est.)<br>
-$64.431 billion (2020 est.)<br>
-$79.964 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$103.002 billion (2022 est.)<br>
+$87.486 billion (2021 est.)<br>
+$64.437 billion (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Brazil 16%, China 11%, United States 7%, Chile 5% (2019)<br>
@@ -527,9 +536,10 @@ Brazil 16%, China 11%, United States 7%, Chile 5% (2019)<br>
 corn, soybean products, delivery trucks, wheat, beef, gold (2021)<br>
 
 **Imports**<br>
-$72.362 billion (2021 est.) note: data are in current year dollars<br>
-$52.339 billion (2020 est.) note: data are in current year dollars<br>
-$66.574 billion (2019 est.) note: data are in current year dollars<br>
+$97.558 billion (2022 est.)<br>
+$72.392 billion (2021 est.) note: data are in current year dollars<br>
+$52.343 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Brazil 21%, China 18%, US 14%, Germany 6% (2019)<br>
@@ -538,9 +548,10 @@ Brazil 21%, China 18%, US 14%, Germany 6% (2019)<br>
 cars, refined petroleum, vehicle parts, natural gas, soybeans (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$39.653 billion (31 December 2021 est.)<br>
-$39.404 billion (31 December 2020 est.)<br>
-$44.881 billion (31 December 2019 est.)<br>
+$44.795 billion (2022 est.)<br>
+$39.653 billion (2021 est.)<br>
+$39.404 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $278.524 billion (2019 est.)<br>
@@ -548,11 +559,11 @@ $261.949 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Argentine pesos (ARS) per US dollar -<br>
+130.617 (2022 est.)<br>
 94.991 (2021 est.)<br>
 70.539 (2020 est.)<br>
 48.148 (2019 est.)<br>
 28.095 (2018 est.)<br>
-16.563 (2017 est.)<br>
 
 ## Energy
 

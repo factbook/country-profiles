@@ -346,24 +346,26 @@ _lyrics/music_: Afaese MANOA<br>
 upper middle-income Pacific island economy; extremely environmentally fragile; currency pegged to Australian dollar; large international aid recipient; subsistence agrarian sector; Te Kakeega sustainable development; domain name licensing incomes<br>
 
 **Real GDP (purchasing power parity)**<br>
-$55.169 million (2021 est.)<br>
-$53.57 million (2020 est.)<br>
-$52.77 million (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$51.937 million (2022 est.)<br>
+$51.588 million (2021 est.)<br>
+$50.674 million (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.99% (2021 est.)<br>
-1.52% (2020 est.)<br>
-13.79% (2019 est.)<br>
+0.68% (2022 est.)<br>
+1.8% (2021 est.)<br>
+-4.27% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$4,900 (2021 est.)<br>
-$4,800 (2020 est.)<br>
-$4,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$4,600 (2022 est.)<br>
+$4,600 (2021 est.)<br>
+$4,600 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$40 million (2017 est.)<br>
+$59.066 million (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4.1% (2017 est.)<br>
@@ -387,13 +389,11 @@ coconuts, vegetables, tropical fruit, bananas, roots/tubers, pork, poultry, eggs
 fishing<br>
 
 **Industrial production growth rate**<br>
--26.1% (2012 est.)<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3,615 (2004 est.)<br>
-
-**Unemployment rate**<br>
-<p>NA</p><br>
+3,615<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 20.6% (2016)<br>
@@ -411,9 +411,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-0% of GDP (2020 est.)<br>
-1.66% of GDP (2019 est.)<br>
-2% of GDP (2018 est.)<br>
+4.23% of GDP (2022 est.)<br>
+4.15% of GDP (2021 est.)<br>
+4.25% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $87 million (2019 est.)<br>
@@ -435,14 +436,16 @@ _expenditures_: $88 million (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
-$20.82 million (2021 est.)<br>
-$9.015 million (2020 est.)<br>
--$6.051 million (2019 est.)<br>
+$2.713 million (2022 est.)<br>
+$14.533 million (2021 est.)<br>
+$8.46 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$2.699 million (2021 est.) note: data are in current year dollars<br>
-$3.087 million (2020 est.) note: data are in current year dollars<br>
-$10.266 million (2019 est.)<br>
+$2.232 million (2022 est.)<br>
+$2.745 million (2021 est.) note: data are in current year dollars<br>
+$3.089 million (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Thailand 91%, Nigeria 5%, Philippines 3%, South Korea 1% (2021)<br>
@@ -451,9 +454,10 @@ Thailand 91%, Nigeria 5%, Philippines 3%, South Korea 1% (2021)<br>
 tugboats, tuna, nitrile compounds, integrated circuits, electrical power accessories (2021)<br>
 
 **Imports**<br>
-$51.187 million (2021 est.) note: data are in current year dollars<br>
-$50.792 million (2020 est.) note: data are in current year dollars<br>
-$65.24 million (2019 est.)<br>
+$57.388 million (2022 est.)<br>
+$63.962 million (2021 est.) note: data are in current year dollars<br>
+$56.947 million (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 36%, Japan 33%, Fiji 13%, South Korea 9%, New Zealand 4% (2021)<br>
@@ -466,8 +470,11 @@ cargo ships, fishing ships, refined petroleum, tankers, tugboats, construction v
 
 **Exchange rates**<br>
 _Currency_: Tuvaluan dollars or Australian dollars (AUD) per US dollar -<br>
-1.311 (2017 est.)<br>
-1.3442 (2016 est.)<br>
+1.442 (2022 est.)<br>
+1.331 (2021 est.)<br>
+1.453 (2020 est.)<br>
+1.439 (2019 est.)<br>
+1.338 (2018 est.)<br>
 
 ## Energy
 

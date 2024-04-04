@@ -316,7 +316,8 @@ none<br>
 tourism, banking and finance, ship repairing, tobacco<br>
 
 **Industrial production growth rate**<br>
-NA<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 24,420 (2014 est.)<br>
@@ -342,9 +343,6 @@ _expenditures_: $452.3 million (2008 est.)<br>
 7.5% of GDP (2008 est.)<br>
 8.4% of GDP (2006 est.)<br>
 
-**Taxes and other revenues**<br>
-23.3% (of GDP) (2008 est.)<br>
-
 **Fiscal year**<br>
 1 July - 30 June<br>
 
@@ -358,9 +356,6 @@ Poland 31%, Netherlands 27%, France 11%, Germany 8%, United States 6% (2019)<br>
 **Exports - commodities**<br>
 cars and vehicle parts, ships, refined petroleum, recreational boats, designer watches (2021)<br>
 
-**Imports**<br>
-$2.967 billion (2004 est.)<br>
-
 **Imports - partners**<br>
 Spain 19%, US 12%, India 12%, Italy 12%, Netherlands 11%, United Kingdom 7%, Greece 6% (2019)<br>
 
@@ -372,11 +367,11 @@ refined petroleum, recreational boats, cars, coal tar oil, crude petroleum (2019
 
 **Exchange rates**<br>
 _Currency_: Gibraltar pounds (GIP) per US dollar -<br>
+0.811 (2022 est.)<br>
 0.727 (2021 est.)<br>
 0.78 (2020 est.)<br>
 0.783 (2019 est.)<br>
 0.75 (2018 est.)<br>
-0.777 (2017 est.)<br>
 
 ## Energy
 

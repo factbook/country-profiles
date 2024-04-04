@@ -406,29 +406,32 @@ _selected World Heritage Site locales_: Mount Nimba Strict Nature Reserve<br>
 growing but primarily agrarian West African economy; major mining sector; improving fiscal and debt balances prior to COVID-19; economy increasingly vulnerable to climate change; slow infrastructure improvements; gender wealth and human capital gaps<br>
 
 **Real GDP (purchasing power parity)**<br>
+$37.408 billion (2022 est.)<br>
 $35.729 billion (2021 est.)<br>
 $34.388 billion (2020 est.)<br>
-$32.775 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+4.7% (2022 est.)<br>
 3.9% (2021 est.)<br>
 4.92% (2020 est.)<br>
-5.62% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$2,700 (2022 est.)<br>
 $2,600 (2021 est.)<br>
 $2,600 (2020 est.)<br>
-$2,500 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$13.55 billion (2019 est.)<br>
+$20.999 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+10.49% (2022 est.)<br>
 12.6% (2021 est.)<br>
 10.6% (2020 est.)<br>
-9.47% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 19.8% (2017 est.)<br>
@@ -450,15 +453,18 @@ rice, cassava, groundnuts, maize, oil palm fruit, fonio, plantains, sugar cane, 
 bauxite, gold, diamonds, iron ore; light manufacturing, agricultural processing<br>
 
 **Industrial production growth rate**<br>
-3.9% (2021 est.)<br>
+4.7% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.89 million (2021 est.)<br>
+4.268 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.34% (2021 est.)<br>
-6.1% (2020 est.)<br>
-5.02% (2019 est.)<br>
+5.53% (2022 est.)<br>
+5.97% (2021 est.)<br>
+6.06% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 8.2% (2021 est.)<br>
@@ -467,18 +473,22 @@ _female_: 9.2%<br>
 
 **Population below poverty line**<br>
 43.7% (2018 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 29.6 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.7%<br>
-_highest 10%_: 30.3% (2007)<br>
+_lowest 10%_: 3.5%<br>
+_highest 10%_: 23.1% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+2.51% of GDP (2022 est.)<br>
 2.14% of GDP (2021 est.)<br>
 0.16% of GDP (2020 est.)<br>
-1.18% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.949 billion (2019 est.)<br>
@@ -498,14 +508,16 @@ _expenditures_: $2.014 billion (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
+$3.35 billion (2022 est.)<br>
 $4.639 billion (2021 est.)<br>
 $2.685 billion (2020 est.)<br>
--$314.62 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$8.898 billion (2022 est.)<br>
 $10.266 billion (2021 est.) note: data are in current year dollars<br>
 $8.996 billion (2020 est.) note: data are in current year dollars<br>
-$4.041 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United Arab Emirates 39%, China 36%, India 6% (2019)<br>
@@ -514,9 +526,10 @@ United Arab Emirates 39%, China 36%, India 6% (2019)<br>
 gold, aluminum ores and oxide, iron ores, cocoa beans, cashews, frozen fish (2021)<br>
 
 **Imports**<br>
+$5.749 billion (2022 est.)<br>
 $5.353 billion (2021 est.) note: data are in current year dollars<br>
 $6.314 billion (2020 est.) note: data are in current year dollars<br>
-$4.32 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 39%, India 8%, Netherlands 6%, Belgium 5%, United Arab Emirates 5% (2019)<br>
@@ -525,9 +538,10 @@ China 39%, India 8%, Netherlands 6%, Belgium 5%, United Arab Emirates 5% (2019)<
 rice, refined petroleum, packaged medicines, delivery trucks, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.499 billion (31 December 2020 est.)<br>
-$1.379 billion (31 December 2019 est.)<br>
-$1.242 billion (31 December 2018 est.)<br>
+$1.499 billion (2020 est.)<br>
+$1.379 billion (2019 est.)<br>
+$1.242 billion (2018 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.458 billion (31 December 2017 est.)<br>

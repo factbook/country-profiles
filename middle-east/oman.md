@@ -376,28 +376,32 @@ _selected World Heritage Site locales_: Bahla Fort; Archaeological Sites of Bat;
 high-income, oil-based economy; large welfare system; growing government debt; citizenship-based labor force growth policy; US free trade agreement; diversifying portfolio; high female labor force participation<br>
 
 **Real GDP (purchasing power parity)**<br>
+$161.712 billion (2022 est.)<br>
 $155.028 billion (2021 est.)<br>
 $150.378 billion (2020 est.)<br>
-$155.639 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+4.31% (2022 est.)<br>
 3.09% (2021 est.)<br>
 -3.38% (2020 est.)<br>
--1.13% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$34,300 (2021 est.) note: data are in 2017 dollars<br>
-$33,100 (2020 est.) note: data are in 2017 dollars<br>
-$33,800 (2019 est.)<br>
+$35,300 (2022 est.)<br>
+$34,300 (2021 est.)<br>
+$33,100 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$76.883 billion (2019 est.)<br>
+$114.667 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.81% (2022 est.)<br>
 1.55% (2021 est.)<br>
 -0.9% (2020 est.)<br>
-0.13% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2020)<br>
@@ -425,17 +429,18 @@ dates, tomatoes, vegetables, goat milk, milk, cucumbers, green chillies/peppers,
 crude oil production and refining, natural and liquefied natural gas production; construction, cement, copper, steel, chemicals, optic fiber<br>
 
 **Industrial production growth rate**<br>
-1.05% (2021 est.)<br>
+5.05% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.259 million (2021 est.)<br>
-<strong>note:</strong> about 60% of the labor force is non-national<br>
+2.261 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.12% (2021 est.)<br>
+1.53% (2022 est.)<br>
+1.9% (2021 est.)<br>
 2.94% (2020 est.)<br>
-1.85% (2019 est.)<br>
-NA<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.6% (2021 est.)<br>
@@ -454,9 +459,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
+0.03% of GDP (2022 est.)<br>
+0.04% of GDP (2021 est.)<br>
 0.05% of GDP (2020 est.)<br>
-0.04% of GDP (2019 est.)<br>
-0.04% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $29.334 billion (2018 est.)<br>
@@ -477,14 +483,16 @@ _expenditures_: $35.984 billion (2018 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$4.288 billion (2021 est.)<br>
--$12.307 billion (2020 est.)<br>
--$4.02 billion (2019 est.)<br>
+$5.752 billion (2022 est.)<br>
+-$4,783,482,000 (2021 est.)<br>
+-$12,263,027,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$46.324 billion (2021 est.) note: data are in current year dollars<br>
-$35.72 billion (2020 est.) note: data are in current year dollars<br>
-$43.584 billion (2019 est.)<br>
+$69.701 billion (2022 est.)<br>
+$46.572 billion (2021 est.) note: data are in current year dollars<br>
+$35.691 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 46%, India 8%, Japan 6%, South Korea 6%, United Arab Emirates 6%, Saudi Arabia 5% (2019)<br>
@@ -493,9 +501,10 @@ China 46%, India 8%, Japan 6%, South Korea 6%, United Arab Emirates 6%, Saudi Ar
 crude petroleum, natural gas, refined petroleum, fertilizers, iron&nbsp; (2021)<br>
 
 **Imports**<br>
-$36.502 billion (2021 est.) note: data are in current year dollars<br>
-$34.022 billion (2020 est.) note: data are in current year dollars<br>
-$32.569 billion (2019 est.)<br>
+$46.326 billion (2022 est.)<br>
+$37.216 billion (2021 est.) note: data are in current year dollars<br>
+$33.827 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United Arab Emirates 36%, China 10%, Japan 7%, India 7%, United States 5% (2019)<br>
@@ -504,9 +513,10 @@ United Arab Emirates 36%, China 10%, Japan 7%, India 7%, United States 5% (2019)
 cars, refined petroleum, broadcasting equipment, gold, iron (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$19.731 billion (31 December 2021 est.)<br>
-$15.007 billion (31 December 2020 est.)<br>
-$16.662 billion (31 December 2019 est.)<br>
+$17.606 billion (2022 est.)<br>
+$19.731 billion (2021 est.)<br>
+$15.007 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $46.27 billion (31 December 2017 est.)<br>
@@ -514,11 +524,11 @@ $27.05 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Omani rials (OMR) per US dollar -<br>
+0.385 (2022 est.)<br>
 0.385 (2021 est.)<br>
 0.385 (2020 est.)<br>
 0.385 (2019 est.)<br>
 0.385 (2018 est.)<br>
-0.385 (2017 est.)<br>
 
 ## Energy
 

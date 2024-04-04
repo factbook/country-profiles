@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Aboriginal Australians arrived on the continent at least 60,000 years ago and developed complex hunter-gatherer societies and oral histories. Dutch navigators led by Abel TASMAN were the first Europeans to land in Australia in 1606, and they mapped the western and northern coasts. They named the continent New Holland but made no attempts to permanently settle it. In 1770, English captain James COOK sailed to the east coast of Australia, named it New South Wales, and claimed it for Great Britain. In 1788 and 1825, Great Britain established New South Wales and then Tasmania as penal colonies respectively. Great Britain and Ireland sent more than 150,000 convicts to Australia before ending the practice in 1868. As Europeans began settling areas away from the coasts, they came into more direct contact with Aboriginal Australians. Europeans also cleared land for agriculture, impacting Aboriginal Australians’ ways of life. These issues, along with disease and a policy in the 1900s that forcefully removed Aboriginal children from their parents, reduced the Aboriginal Australian population from more than 700,000 pre-European contact to a low of 74,000 in 1933.<br><br>Four additional colonies were established in Australia in the mid-1800s: Western Australia (1829), South Australia (1836), Victoria (1851), and Queensland (1859). Gold rushes beginning in the 1850s brought thousands of new immigrants to New South Wales and Victoria, helping to reorient Australia away from its penal colony roots. In the second half of the 1800s, the colonies were all gradually granted self-government, and in 1901, they federated and became the Commonwealth of Australia. Australia contributed more than 400,000 troops to Allied efforts during World War I, and Australian troops played a large role in the defeat of Japanese troops in the Pacific in World War II. Australia severed most constitutional links with the UK in 1942, but remained part of the British Commonwealth.  In 2021, Australia, the UK, and the US announced the AUKUS enhanced trilateral security partnership to maintain and expand the three countries’ edge in military capabilities and critical technologies. Australia’s post-war economy boomed and by the 1970s, racial policies that prevented most non-Whites from immigrating to Australia were removed, greatly increasing Asian immigration to the country. In recent decades, Australia has become an internationally competitive, advanced market economy due in large part to economic reforms adopted in the 1980s and its proximity to East and Southeast Asia. </p> <p>In the early 2000s, Australian politics became unstable with frequent attempts to oust party leaders, including five changes of prime minister between 2010 and 2018. As a result, both major parties instituted rules to make it harder to remove a party leader.</p><br>
+<p>Aboriginal Australians arrived on the continent at least 60,000 years ago and developed complex hunter-gatherer societies and oral histories. Dutch navigators led by Abel TASMAN were the first Europeans to land in Australia in 1606, and they mapped the western and northern coasts. They named the continent New Holland but made no attempts to permanently settle it. In 1770, English captain James COOK sailed to the east coast of Australia, named it New South Wales, and claimed it for Great Britain. In 1788 and 1825 respectively, Great Britain established New South Wales and then Tasmania as penal colonies. Great Britain and Ireland sent more than 150,000 convicts to Australia before ending the practice in 1868. As Europeans began settling areas away from the coasts, they came into more direct contact with Aboriginal Australians. Europeans also cleared land for agriculture, impacting Aboriginal Australians’ ways of life. These issues, along with disease and a policy in the 1900s that forcefully removed Aboriginal children from their parents, reduced the Aboriginal Australian population from more than 700,000 pre-European contact to a low of 74,000 in 1933.<br><br>Four additional colonies were established in Australia in the mid-1800s: Western Australia (1829), South Australia (1836), Victoria (1851), and Queensland (1859). Gold rushes beginning in the 1850s brought thousands of new immigrants to New South Wales and Victoria, helping to reorient Australia away from its penal colony roots. In the second half of the 1800s, the colonies were all gradually granted self-government, and in 1901, they federated and became the Commonwealth of Australia. Australia contributed more than 400,000 troops to Allied efforts during World War I, and Australian troops played a large role in the defeat of Japanese troops in the Pacific in World War II. Australia severed most constitutional links with the UK in 1942 but remained part of the British Commonwealth. Australia’s post-war economy boomed and by the 1970s, racial policies that prevented most non-Whites from immigrating to Australia were removed, greatly increasing Asian immigration to the country. In recent decades, Australia has become an internationally competitive, advanced market economy due in large part to economic reforms adopted in the 1980s and its proximity to East and Southeast Asia. In 2021, Australia, the UK, and the US announced the AUKUS enhanced trilateral security partnership to maintain and expand the three countries’ edge in military capabilities and critical technologies.</p> <p>In the early 2000s, Australian politics became unstable with frequent attempts to oust party leaders, including five changes of prime minister between 2010 and 2018. As a result, both major parties instituted rules to make it harder to remove a party leader.</p><br>
 
 ## Geography
 
@@ -410,29 +410,32 @@ _selected World Heritage Site locales_: Great Barrier Reef (n); Greater Blue Mou
 Asian and global economic leader and partner for 3 decades; strong financial sector and highly traded domestic currency support best credit ratings; aging workforce; export-led model; reduced consumer spending offset by government and business; energy investor<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.279 trillion (2021 est.)<br>
-$1.251 trillion (2020 est.)<br>
-$1.251 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$1.329 trillion (2022 est.)<br>
+$1.274 trillion (2021 est.)<br>
+$1.248 trillion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.24% (2021 est.)<br>
--0.05% (2020 est.)<br>
-2.17% (2019 est.)<br>
+4.27% (2022 est.)<br>
+2.11% (2021 est.)<br>
+-0.33% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$49,800 (2021 est.)<br>
+$51,100 (2022 est.)<br>
+$49,600 (2021 est.)<br>
 $48,700 (2020 est.)<br>
-$49,400 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1,390,790,000,000 (2019 est.)<br>
+$1.693 trillion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.59% (2022 est.)<br>
 2.86% (2021 est.)<br>
 0.85% (2020 est.)<br>
-1.61% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (2011)<br>
@@ -460,15 +463,18 @@ sugar cane, wheat, barley, milk, rapeseed, beef, cotton, grapes, poultry, potato
 mining, industrial and transportation equipment, food processing, chemicals, steel<br>
 
 **Industrial production growth rate**<br>
--0.55% (2021 est.)<br>
+0.8% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-13.786 million (2021 est.)<br>
+14.075 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.11% (2021 est.)<br>
+3.7% (2022 est.)<br>
+5.12% (2021 est.)<br>
 6.46% (2020 est.)<br>
-5.16% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.8% (2021 est.)<br>
@@ -477,19 +483,22 @@ _female_: 8.9%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 34.3 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 9.3% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 3.5% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2%<br>
-_highest 10%_: 25.4% (1994)<br>
+_lowest 10%_: 2.7%<br>
+_highest 10%_: 26.6% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.08% of GDP (2022 est.)<br>
 0.06% of GDP (2021 est.)<br>
 0.09% of GDP (2020 est.)<br>
-0.13% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $479.33 billion (2019 est.)<br>
@@ -499,26 +508,29 @@ _expenditures_: $532.579 billion (2019 est.)<br>
 -0.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-69.41% of GDP (2020 est.)<br>
-60.25% of GDP (2019 est.)<br>
-54.49% of GDP (2018 est.)<br>
+57.97% of GDP (2022 est.)<br>
+69.91% of GDP (2021 est.)<br>
+69.22% of GDP (2020 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-22.61% (of GDP) (2020 est.)<br>
+23.6% (of GDP) (2022 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
-$56.261 billion (2021 est.)<br>
-$35.601 billion (2020 est.)<br>
-$7.658 billion (2019 est.)<br>
+$17.875 billion (2022 est.)<br>
+$49.878 billion (2021 est.)<br>
+$31.376 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$389.794 billion (2021 est.)<br>
-$300.77 billion (2020 est.)<br>
-$342.485 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$464.925 billion (2022 est.)<br>
+$390.027 billion (2021 est.)<br>
+$300.81 billion (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 40%, Japan 14%, South Korea 9%, India 6%, Taiwan 4% (2021)<br>
@@ -527,9 +539,10 @@ China 40%, Japan 14%, South Korea 9%, India 6%, Taiwan 4% (2021)<br>
 iron ore, coal, natural gas, gold, wheat (2021)<br>
 
 **Imports**<br>
-$298.712 billion (2021 est.) note: data are in current year dollars<br>
-$250.178 billion (2020 est.) note: data are in current year dollars<br>
-$295.504 billion (2019 est.) note: data are in current year dollars<br>
+$367.458 billion (2022 est.)<br>
+$299.618 billion (2021 est.) note: data are in current year dollars<br>
+$251.779 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 28%, United States 10%, Japan 6%, Germany 5%, Thailand 5% (2021)<br>
@@ -538,9 +551,10 @@ China 28%, United States 10%, Japan 6%, Germany 5%, Thailand 5% (2021)<br>
 refined petroleum, cars, delivery trucks, broadcasting equipment, computers and gold (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$57.878 billion (31 December 2021 est.)<br>
-$42.545 billion (31 December 2020 est.)<br>
-$57.995 billion (31 December 2019 est.)<br>
+$56.702 billion (2022 est.)<br>
+$57.878 billion (2021 est.)<br>
+$42.545 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $3,115,913,000,000 (2019 est.)<br>
@@ -548,11 +562,11 @@ $2,837,818,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>
+1.442 (2022 est.)<br>
 1.331 (2021 est.)<br>
 1.453 (2020 est.)<br>
 1.439 (2019 est.)<br>
 1.338 (2018 est.)<br>
-1.305 (2017 est.)<br>
 
 ## Energy
 
@@ -672,8 +686,8 @@ _narrow gauge_: 11,914 km (2022) 1.067 mm<br>
 _broad gauge_: 2,685 km (2022) 1.600 mm<br>
 
 **Roadways**<br>
-_total_: 873,573 km (2015)<br>
-_urban_: 145,928 km (2015)<br>
+_total_: 873,573 km<br>
+_urban_: 145,928 km<br>
 _non-urban_: 727,645 km (2015)<br>
 
 **Waterways**<br>

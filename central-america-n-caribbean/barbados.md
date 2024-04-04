@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-The island was uninhabited when first settled by the British in 1627. Enslaved Africans worked the sugar plantations established on the island, which initially dominated the Caribbean sugar industry. By 1720, Barbados was no longer a dominant force within the sugar industry, having been surpassed by the Leeward Islands and Jamaica. Slavery was abolished in 1834. The Barbadian economy remained heavily dependent on sugar, rum, and molasses production through most of the 20th century. The gradual introduction of social and political reforms in the 1940s and 1950s led to complete independence from the UK in 1966. In the 1990s, tourism and manufacturing surpassed the sugar industry in economic importance. Barbados became a republic on 30 November 2021, with the former Governor-General Sandra MASON elected as the first president.<br>
+Barbados was uninhabited when first settled by the British in 1627. Enslaved Africans worked the sugar plantations established on the island, which initially dominated the Caribbean sugar industry. By 1720, Barbados was no longer a dominant force within the sugar industry, having been surpassed by the Leeward Islands and Jamaica. Slavery was abolished in 1834. The Barbadian economy remained heavily dependent on sugar, rum, and molasses production through most of the 20th century. The gradual introduction of social and political reforms in the 1940s and 1950s led to independence from the UK in 1966. In the 1990s, tourism and manufacturing surpassed the sugar industry in economic importance. Barbados became a republic in 2021, with the former Governor-General Sandra MASON elected as the first president.<br>
 
 ## Geography
 
@@ -360,29 +360,32 @@ _selected World Heritage Site locales_: Historic Bridgetown and its Garrison<br>
 largest Eastern Caribbean economy; dependent on US imports and currency strength; high Human Development Index; key tourism and financial sectors; declining but still very high public debt; cost-of-living and cost competitiveness vulnerabilities<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.868 billion (2021 est.)<br>
-$3.875 billion (2020 est.)<br>
-$4.47 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$4.342 billion (2022 est.)<br>
+$3.9 billion (2021 est.)<br>
+$3.931 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--0.19% (2021 est.)<br>
--13.31% (2020 est.)<br>
--0.13% (2019 est.)<br>
+11.33% (2022 est.)<br>
+-0.78% (2021 est.)<br>
+-12.74% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$13,800 (2021 est.)<br>
-$13,800 (2020 est.)<br>
-$16,000 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$15,400 (2022 est.)<br>
+$13,900 (2021 est.)<br>
+$14,000 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.99 billion (2017 est.)<br>
+$5.7 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4.1% (2019 est.)<br>
 3.67% (2018 est.)<br>
 4.66% (2017 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Caa1 (2019)<br>
@@ -409,15 +412,18 @@ sugar cane, poultry, vegetables, milk, eggs, pork, coconuts, pulses, sweet potat
 tourism, sugar, light manufacturing, component assembly for export<br>
 
 **Industrial production growth rate**<br>
--0.6% (2021 est.)<br>
+5.02% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-139,100 (2021 est.)<br>
+145,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-10.41% (2021 est.)<br>
-10.38% (2020 est.)<br>
-8.41% (2019 est.)<br>
+8.5% (2022 est.)<br>
+9.48% (2021 est.)<br>
+9.74% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 30.6% (2021 est.)<br>
@@ -432,9 +438,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-2.32% of GDP (2020 est.)<br>
-2.03% of GDP (2019 est.)<br>
-2.12% of GDP (2018 est.)<br>
+1.49% of GDP (2022 est.)<br>
+1.73% of GDP (2021 est.)<br>
+1.8% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.271 billion (2020 est.)<br>
@@ -444,10 +451,14 @@ _expenditures_: $1.483 billion (2020 est.)<br>
 -4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-149.1% of GDP (2016 est.)<br>
+146.61% of GDP (2016 est.)<br>
+141.16% of GDP (2015 est.)<br>
+129.32% of GDP (2014 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-27.48% (of GDP) (2016 est.)<br>
+27.42% (of GDP) (2016 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
@@ -455,12 +466,14 @@ _expenditures_: $1.483 billion (2020 est.)<br>
 **Current account balance**<br>
 -$296.396 million (2017 est.)<br>
 -$452.39 million (2016 est.)<br>
+-$98.732 million (2015 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $357 million (2021 est.)<br>
-$550 million (2017 est.)<br>
-$516.9 million (2016 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$2.228 billion (2017 est.)<br>
+$2.41 billion (2016 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 20%, Jamaica 12%, Guyana 8%, Trinidad and Tobago 7%, Italy 6% (2021)<br>
@@ -471,7 +484,8 @@ rums and liquors, ships, packaged medicines, cement, paper labels (2021)<br>
 **Imports**<br>
 $2.12 billion (2021 est.)<br>
 $2.213 billion (2017 est.)<br>
-$1.541 billion (2016 est.)<br>
+$2.238 billion (2016 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 33%, Guyana 13%, China 11%, Trinidad and Tobago 6%, United Kingdom 4% (2021)<br>
@@ -480,9 +494,10 @@ United States 33%, Guyana 13%, China 11%, Trinidad and Tobago 6%, United Kingdom
 refined petroleum, crude petroleum, shipping containers, cars, ships, packaged medicines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.673 billion (31 December 2021 est.)<br>
-$1.358 billion (31 December 2020 est.)<br>
-$772.119 million (31 December 2019 est.)<br>
+$1.52 billion (2022 est.)<br>
+$1.673 billion (2021 est.)<br>
+$1.358 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $4.49 billion (2010 est.)<br>
@@ -490,11 +505,11 @@ $668 million (2003 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Barbadian dollars (BBD) per US dollar -<br>
+2 (2022 est.)<br>
 2 (2021 est.)<br>
 2 (2020 est.)<br>
 2 (2019 est.)<br>
 2 (2018 est.)<br>
-2 (2017 est.)<br>
 <strong>note:</strong> the Barbadian dollar is pegged to the US dollar<br>
 
 ## Energy

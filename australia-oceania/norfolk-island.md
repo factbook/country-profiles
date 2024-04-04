@@ -268,17 +268,11 @@ _lyrics/music_: New Testament/John Prindle SCOTT<br>
 **Economic overview**<br>
 high-income Australian territorial economy; key tourism and re-exportation industries; small labor force and declining participation creating more part-time jobs; former tax haven; increasing medical cannabis exporter; little transportation infrastructure<br>
 
-**Real GDP (purchasing power parity)**<br>
-<p>NA</p><br>
-
 **Agricultural products**<br>
 Norfolk Island pine seed, Kentia palm seed, cereals, vegetables, fruit; cattle, poultry<br>
 
 **Industries**<br>
 tourism, light industry, ready mixed concrete<br>
-
-**Labor force**<br>
-978 (2006)<br>
 
 **Budget**<br>
 _revenues_: $4.6 million (FY99/00)<br>
@@ -287,17 +281,11 @@ _expenditures_: $4.8 million (FY99/00)<br>
 **Fiscal year**<br>
 1 July - 30 June<br>
 
-**Exports**<br>
-<p>NA</p><br>
-
 **Exports - partners**<br>
 Philippines 29%, Singapore 21%, India 14%, Belgium 7%, Australia 5%, Canada 5% (2019)<br>
 
 **Exports - commodities**<br>
 pine seeds, lumber, cars and vehicle parts, soybeans, lactose syrup, cleaning products, scrap aluminum (2021)<br>
-
-**Imports**<br>
-<p>$NA</p><br>
 
 **Imports - partners**<br>
 New Zealand 23%, Australia 19%, Philippines 19%, Singapore 14%, Fiji 11% (2019)<br>

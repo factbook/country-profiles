@@ -374,28 +374,32 @@ _selected World Heritage Site locales_: Archaeological Site of Cyrene; Archaeolo
 upper middle-income, fossil fuel-based North African economy; 31% economic contraction due to COVID-19 and 2020 oil blockade; reduced government spending; central bank had to devalue currency; public wages are over 60% of expenditures<br>
 
 **Real GDP (purchasing power parity)**<br>
-$147.942 billion (2021 est.)<br>
-$112.612 billion (2020 est.)<br>
-$148.037 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$134.861 billion (2022 est.)<br>
+$136.55 billion (2021 est.)<br>
+$103.941 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+-1.24% (2022 est.)<br>
 31.37% (2021 est.)<br>
--23.93% (2020 est.)<br>
--11.2% (2019 est.)<br>
+-29.79% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$22,000 (2021 est.)<br>
-$16,900 (2020 est.)<br>
-$22,500 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$19,800 (2022 est.)<br>
+$20,300 (2021 est.)<br>
+$15,600 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$52.259 billion (2019 est.)<br>
+$45.752 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-28.5% (2017 est.)<br>
-25.9% (2016 est.)<br>
+4.51% (2022 est.)<br>
+2.87% (2021 est.)<br>
+1.45% (2020 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.3% (2017 est.)<br>
@@ -417,15 +421,18 @@ potatoes, watermelons, tomatoes, onions, dates, milk, olives, wheat, poultry, ve
 petroleum, petrochemicals, aluminum, iron and steel, food processing, textiles, handicrafts, cement<br>
 
 **Industrial production growth rate**<br>
--10.57% (2019 est.)<br>
+-9.9% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.28 million (2021 est.)<br>
+2.327 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-19.58% (2021 est.)<br>
-20.07% (2020 est.)<br>
-19.66% (2019 est.)<br>
+19.3% (2022 est.)<br>
+19.71% (2021 est.)<br>
+19.71% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 50.5% (2021 est.)<br>
@@ -433,16 +440,17 @@ _male_: 41.4%<br>
 _female_: 73.8%<br>
 
 **Population below poverty line**<br>
-<p><strong>note:</strong> about one-third of Libyans live at or below the national poverty line</p><br>
+<p><strong>note:</strong> about one third of Libyans live at or below the national poverty line</p><br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-0% of GDP (2019 est.)<br>
-0% of GDP (2018 est.)<br>
-0% of GDP (2017 est.)<br>
+0% of GDP (2022 est.)<br>
+0% of GDP (2021 est.)<br>
+0% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $28.005 billion (2019 est.)<br>
@@ -462,14 +470,16 @@ _expenditures_: $37.475 billion (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
+$5.675 billion (2021 est.)<br>
 -$4.78 billion (2020 est.)<br>
 $4.817 billion (2019 est.)<br>
-$11.276 billion (2018 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$32.38 billion (2021 est.)<br>
 $9.537 billion (2020 est.) note: data are in current year dollars<br>
 $29.326 billion (2019 est.)<br>
-$29.964 billion (2018 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Italy 18%, China 16%, Germany 15%, Spain 15%, United Arab Emirates 6%, France 6%, United States 5% (2019)<br>
@@ -478,9 +488,10 @@ Italy 18%, China 16%, Germany 15%, Spain 15%, United Arab Emirates 6%, France 6%
 crude petroleum, natural gas, refined petroleum, scrap iron, gold (2021)<br>
 
 **Imports**<br>
+$25.406 billion (2021 est.)<br>
 $14.334 billion (2020 est.) note: data are in current year dollars<br>
 $25.368 billion (2019 est.)<br>
-$18.849 billion (2018 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 16%, Turkey 14%, Italy 9%, United Arab Emirates 9%, Egypt 5% (2019)<br>
@@ -489,9 +500,10 @@ China 16%, Turkey 14%, Italy 9%, United Arab Emirates 9%, Egypt 5% (2019)<br>
 refined petroleum, cars, broadcasting equipment, cigarettes, jewelry (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$82.262 billion (31 December 2021 est.)<br>
-$79.656 billion (31 December 2020 est.)<br>
-$84.664 billion (31 December 2019 est.)<br>
+$86.683 billion (2022 est.)<br>
+$82.262 billion (2021 est.)<br>
+$79.656 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $3.02 billion (31 December 2017 est.)<br>
@@ -499,11 +511,11 @@ $3.116 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Libyan dinars (LYD) per US dollar -<br>
+4.813 (2022 est.)<br>
 4.514 (2021 est.)<br>
 1.389 (2020 est.)<br>
 1.398 (2019 est.)<br>
 1.365 (2018 est.)<br>
-1.394 (2017 est.)<br>
 
 ## Energy
 

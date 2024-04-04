@@ -400,29 +400,32 @@ _selected World Heritage Site locales_: Gebel Barkal and the Sites of the Napata
 low-income Sahel economy; one of the world&rsquo;s major agricultural exporters; shared oil pipeline exports with South Sudan; transitional government increasing human capital investment; food prices hit hard by COVID-19; ongoing Gezira Scheme irrigation project<br>
 
 **Real GDP (purchasing power parity)**<br>
+$167.369 billion (2022 est.)<br>
 $168.98 billion (2021 est.)<br>
 $172.198 billion (2020 est.)<br>
-$178.684 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+-0.95% (2022 est.)<br>
 -1.87% (2021 est.)<br>
 -3.63% (2020 est.)<br>
--2.18% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$3,600 (2022 est.)<br>
 $3,700 (2021 est.)<br>
 $3,900 (2020 est.)<br>
-$4,100 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$24.918 billion (2019 est.)<br>
+$51.662 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-382.82% (2021 est.)<br>
-150.32% (2020 est.)<br>
-50.99% (2019 est.)<br>
+138.81% (2022 est.)<br>
+359.09% (2021 est.)<br>
+163.26% (2020 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 39.6% (2017 est.)<br>
@@ -444,15 +447,18 @@ sugar cane, sorghum, milk, groundnuts, onions, sesame seed, goat milk, millet, b
 oil, cotton ginning, textiles, cement, edible oils, sugar, soap distilling, shoes, petroleum refining, pharmaceuticals, armaments, automobile/light truck assembly, milling<br>
 
 **Industrial production growth rate**<br>
--0.7% (2021 est.)<br>
+-0.74% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-12.921 million (2021 est.)<br>
+13.45 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-19.81% (2021 est.)<br>
-19.65% (2020 est.)<br>
-17.65% (2019 est.)<br>
+17.59% (2022 est.)<br>
+19.19% (2021 est.)<br>
+19.21% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 35.6% (2021 est.)<br>
@@ -464,15 +470,18 @@ _female_: 45.8%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 34.2 (2014 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.7%<br>
-_highest 10%_: 26.7% (2009 est.)<br>
+_lowest 10%_: 3.2%<br>
+_highest 10%_: 27.8% (2014 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+2.9% of GDP (2022 est.)<br>
+3.27% of GDP (2021 est.)<br>
 1.83% of GDP (2020 est.)<br>
-1.62% of GDP (2019 est.)<br>
-1.32% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $3.479 billion (2019 est.)<br>
@@ -487,19 +496,22 @@ _expenditures_: $8.277 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 7.39% (of GDP) (2016 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$2.886 billion (2021 est.)<br>
+-$4.443 billion (2022 est.)<br>
+-$2.62 billion (2021 est.)<br>
 -$5.841 billion (2020 est.)<br>
--$4.78 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$5.916 billion (2021 est.) note: data are in current year dollars<br>
+$5.908 billion (2022 est.)<br>
+$6.664 billion (2021 est.) note: data are in current year dollars<br>
 $5.065 billion (2020 est.) note: data are in current year dollars<br>
-$5.101 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United Arab Emirates 31%, China 19%, Saudi Arabia 14%, India 12%, Egypt 5% (2019)<br>
@@ -508,9 +520,10 @@ United Arab Emirates 31%, China 19%, Saudi Arabia 14%, India 12%, Egypt 5% (2019
 gold, crude petroleum, sesame seeds, sheep, goats, cotton, ground nuts (2019)<br>
 
 **Imports**<br>
-$9.788 billion (2021 est.) note: data are in current year dollars<br>
+$11.575 billion (2022 est.)<br>
+$10.271 billion (2021 est.) note: data are in current year dollars<br>
 $10.52 billion (2020 est.) note: data are in current year dollars<br>
-$9.787 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 31%, India 14%, United Arab Emirates 11%, Egypt 6% (2019)<br>
@@ -519,8 +532,10 @@ China 31%, India 14%, United Arab Emirates 11%, Egypt 6% (2019)<br>
 raw sugar, wheat, packaged medicines, jewelry, tires, cars and vehicle parts (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$177.934 million (31 December 2017 est.)<br>
-$168.3 million (31 December 2016 est.)<br>
+$177.934 million (2017 est.)<br>
+$168.284 million (2016 est.)<br>
+$173.516 million (2015 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $56.05 billion (31 December 2017 est.)<br>
@@ -528,11 +543,11 @@ $51.26 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Sudanese pounds (SDG) per US dollar -<br>
+546.759 (2022 est.)<br>
+370.791 (2021 est.)<br>
 53.996 (2020 est.)<br>
 45.767 (2019 est.)<br>
 24.329 (2018 est.)<br>
-6.683 (2017 est.)<br>
-6.212 (2016 est.)<br>
 
 ## Energy
 
@@ -695,7 +710,7 @@ the SAF's inventory includes a mix of Chinese, Russian, Soviet-era, and domestic
 approximately 750 Democratic Republic of the Congo (East African Community stabilization force)<br><br>reportedly continues to maintain several hundred troops in Yemen; Sudan joined the Saudi-led coalition that intervened in Yemen in 2015, providing as many as 40,000 troops during the peak of the war in 2016-17, mostly from the Rapid Support Forces; by 2021, Sudan had reduced the size of the force to about a brigade (approximately 2-3,000 troops) (2022)<br>
 
 **Military - note**<br>
-<p>the Sudanese Armed Forces (SAF) is a large and relatively well-equipped military; its primary focuses are internal security, border issues, and potential external threats from its neighbors; the SAF is often supported by militia and paramilitary forces, particularly the Rapid Support Forces (RSF); in the Spring of 2023, heavy fighting broke out between the SAF and the RSF amid disputes over an internationally-backed plan for a transition towards civilian rule, particularly around the capital Khartoum and in some outlying areas, including the western region of Darfur; fighting continued into 2024<br><br>information on the organization of the SAF and the RSF varies; prior to the conflict with the RSF, the SAF Army was estimated to have more than 10 infantry divisions, as well as divisions of mechanized, armored, and airborne/special forces, and several independent infantry brigades; the SAF Air Force has several squadrons of Chinese- and Russian-origin combat aircraft, as well as multiple squadrons of combat helicopters, also largely of Russian origin; the Navy has a small force of coastal patrol boats; the RSF is a lightly-armed ground force and prior to the 2023 conflict was reportedly organized into brigades of varying size and makeup   </p> <p>the Sudanese military has been a dominant force in the ruling of the country since its independence in 1956; in addition, the military has a large role in the country's economy, reportedly controlling over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports</p> the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of 2023, UNISFA had approximately 3,500 personnel assigned<br><br>the October 2020 peace agreement provided for the establishment of a Joint Security Keeping Forces (JSKF) comprised of 12,000 personnel tasked with securing the Darfur region in the place of the UN African Union Hybrid Operation in Darfur (UNAMID), a joint African Union-UN peacekeeping force that operated in the war-torn region between 2007 and the end of its mandate in December 2020; in June 2021, Sudan's transitional government announced it would increase the size of this force to 20,000 and expand its mission scope to include the capital and other parts of the country suffering from violence; the force would include the SAF, RSF, police, intelligence, and representatives from armed groups involved in peace negotiations; in September 2022, the first 2,000 members of the JSKF completed training; the status of the JSKF since the start of the civil war is not available (2024)<br>
+<p>the primary responsibilities of the Sudanese Armed Forces (SAF) are internal security, border issues, and potential external threats from its neighbors; SAF operations have often been supported by militia and paramilitary forces, particularly the Rapid Support Forces (RSF); in the Spring of 2023, heavy fighting broke out between the SAF and the RSF amid disputes over an internationally-backed plan for a transition towards civilian rule, particularly around the capital Khartoum and in some outlying areas, including the western region of Darfur; fighting continued into 2024<br><br>information on the organization of the SAF and the RSF varies; prior to the conflict with the RSF, the SAF Army was estimated to have more than 10 infantry divisions, as well as divisions of mechanized, armored, and airborne/special forces, and several independent infantry brigades; the SAF Air Force has several squadrons of Chinese- and Russian-origin combat aircraft, as well as multiple squadrons of combat helicopters, also largely of Russian origin; the Navy has a small force of coastal patrol boats; the RSF is a lightly-armed ground force and prior to the 2023 conflict was reportedly organized into brigades of varying size and makeup   </p> <p>the Sudanese military has been a dominant force in the ruling of the country since its independence in 1956; in addition, the military has a large role in the country's economy, reportedly controlling over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports</p> the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of 2023, UNISFA had approximately 3,500 personnel assigned<br><br>the October 2020 peace agreement provided for the establishment of a Joint Security Keeping Forces (JSKF) comprised of 12,000 personnel tasked with securing the Darfur region in the place of the UN African Union Hybrid Operation in Darfur (UNAMID), a joint African Union-UN peacekeeping force that operated in the war-torn region between 2007 and the end of its mandate in December 2020; in June 2021, Sudan's transitional government announced it would increase the size of this force to 20,000 and expand its mission scope to include the capital and other parts of the country suffering from violence; the force would include the SAF, RSF, police, intelligence, and representatives from armed groups involved in peace negotiations; in September 2022, the first 2,000 members of the JSKF completed training; the status of the JSKF since the start of the civil war is not available (2024)<br>
 
 ## Space
 

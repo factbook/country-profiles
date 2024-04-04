@@ -418,15 +418,18 @@ sorghum, milk, vegetables, barley, cereals, pulses nes, roots/tubers nes, wheat,
 food processing, beverages, clothing and textiles, light manufacturing, salt, cement<br>
 
 **Industrial production growth rate**<br>
-5.4% (2017 est.)<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.675 million (2021 est.)<br>
+1.749 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.05% (2021 est.)<br>
-7.86% (2020 est.)<br>
-5.99% (2019 est.)<br>
+5.97% (2022 est.)<br>
+6.51% (2021 est.)<br>
+6.45% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.6% (2021 est.)<br>
@@ -482,9 +485,10 @@ UAE 14.5%, China 13.2%, Saudi Arabia 13.2%, Italy 12.9%, Turkey 5.6%, South Afri
 machinery, petroleum products, food, manufactured goods<br>
 
 **Reserves of foreign exchange and gold**<br>
-$191,694,400 (31 December 2019 est.)<br>
-$163,033,700 (31 December 2018 est.)<br>
-$143,412,400 (31 December 2017 est.)<br>
+$191.694 million (2019 est.)<br>
+$163.034 million (2018 est.)<br>
+$143.412 million (2017 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $792.7 million (31 December 2017 est.)<br>
@@ -492,11 +496,11 @@ $875.6 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: nakfa (ERN) per US dollar -<br>
+15.075 (2022 est.)<br>
 15.075 (2021 est.)<br>
 15.075 (2020 est.)<br>
 15.075 (2019 est.)<br>
 15.075 (2018 est.)<br>
-15.075 (2017 est.)<br>
 
 ## Energy
 

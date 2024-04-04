@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-Belize was the site of several Mayan city states until their decline at the end of the first millennium A.D. The British and Spanish disputed the region in the 17th and 18th centuries; it formally became the colony of British Honduras in 1862. Territorial disputes between the UK and Guatemala delayed the independence of Belize until 1981. Guatemala refused to recognize the new nation until 1992 and the two countries are involved in an ongoing border dispute. Both nations have voted to send the dispute for final resolution to the International Court of Justice. Tourism has become the mainstay of the economy. Current concerns include the country's heavy foreign debt burden, high crime rates, high unemployment combined with a majority youth population, growing involvement in the Mexican and South American drug trade, and one of the highest HIV/AIDS prevalence rates in Central America.<br>
+Belize was the site of several Mayan city states until their decline at the end of the first millennium A.D. The British and Spanish disputed the region in the 17th and 18th centuries; it formally became the colony of British Honduras in 1862. Territorial disputes between the UK and Guatemala delayed the independence of Belize until 1981. Guatemala refused to recognize the new nation until 1992, and the two countries are still involved in an ongoing border dispute. Both nations have voted to send the dispute for final resolution to the International Court of Justice. Tourism has become the mainstay of the economy. Current concerns include the country's heavy foreign debt burden, high crime rates, high unemployment combined with a majority youth population, growing involvement in the Mexican and South American drug trade, and one of the highest HIV/AIDS prevalence rates in Central America.<br>
 
 ## Geography
 
@@ -378,29 +378,32 @@ _selected World Heritage Site locales_: Belize Barrier Reef Reserve System<br>
 tourism- and agriculture-driven economy; strong post-pandemic rebound; innovative and ecological bond restructuring that significantly lowered public debt and expanded marine protections; central bank offering USD-denominated treasury notes; high mobility across borders<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.505 billion (2021 est.)<br>
-$3.042 billion (2020 est.)<br>
-$3.513 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$3.839 billion (2022 est.)<br>
+$3.531 billion (2021 est.)<br>
+$2.996 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-15.23% (2021 est.)<br>
--13.4% (2020 est.)<br>
-4.5% (2019 est.)<br>
+8.73% (2022 est.)<br>
+17.86% (2021 est.)<br>
+-13.73% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$9,500 (2022 est.)<br>
 $8,800 (2021 est.)<br>
-$7,700 (2020 est.)<br>
-$9,000 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$7,600 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.854 billion (2017 est.)<br>
+$2.831 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.28% (2022 est.)<br>
 3.24% (2021 est.)<br>
 0.12% (2020 est.)<br>
-0.19% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Caa3 (2020)<br>
@@ -427,16 +430,18 @@ sugar care, oranges, bananas, maize, poultry, rice, sorghum, papayas, grapefruit
 garment production, food processing, tourism, construction, oil<br>
 
 **Industrial production growth rate**<br>
-15.08% (2021 est.)<br>
+-2.17% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-176,900 (2021 est.)<br>
-<strong>note:</strong> shortage of skilled labor and all types of technical personnel<br>
+185,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.22% (2021 est.)<br>
-8.46% (2020 est.)<br>
-6.71% (2019 est.)<br>
+8.67% (2022 est.)<br>
+10.16% (2021 est.)<br>
+10.62% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 19.3% (2021 est.)<br>
@@ -451,9 +456,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-5.43% of GDP (2021 est.)<br>
-5.8% of GDP (2020 est.)<br>
-4.01% of GDP (2019 est.)<br>
+5.03% of GDP (2022 est.)<br>
+5.58% of GDP (2021 est.)<br>
+5.89% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $583 million (2019 est.)<br>
@@ -465,23 +471,27 @@ _expenditures_: $656 million (2019 est.)<br>
 **Public debt**<br>
 99% of GDP (2017 est.)<br>
 95.9% of GDP (2016 est.)<br>
+61.41% of GDP (2014 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-21.16% (of GDP) (2017 est.)<br>
+21.34% (of GDP) (2017 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$162.434 million (2021 est.)<br>
+-$234.493 million (2022 est.)<br>
+-$157.868 million (2021 est.)<br>
 -$127.92 million (2020 est.)<br>
--$184.646 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$1.044 billion (2021 est.)<br>
+$1.369 billion (2022 est.)<br>
+$1.043 billion (2021 est.)<br>
 $714.624 million (2020 est.)<br>
-$1.102 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 16%, United Kingdom 16%, Guatemala 7%, Italy 6%, Spain 6% (2021)<br>
@@ -490,9 +500,10 @@ United States 16%, United Kingdom 16%, Guatemala 7%, Italy 6%, Spain 6% (2021)<b
 raw sugar, bananas, fishing ships, lobsters and crawfish, beer (2021)<br>
 
 **Imports**<br>
-$1.252 billion (2021 est.) note: data are in current year dollars<br>
+$1.574 billion (2022 est.)<br>
+$1.249 billion (2021 est.) note: data are in current year dollars<br>
 $901.819 million (2020 est.) note: data are in current year dollars<br>
-$1.203 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 29%, China 14%, Seychelles 13%, Guatemala 10%, Mexico 9% (2021)<br>
@@ -501,9 +512,10 @@ United States 29%, China 14%, Seychelles 13%, Guatemala 10%, Mexico 9% (2021)<br
 recreational boats, refined petroleum, cigarettes, ships, natural gas (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$420,102,800 (31 December 2021 est.)<br>
-$348,090,100 (31 December 2020 est.)<br>
-$277,578,800 (31 December 2019 est.)<br>
+$482.146 million (2022 est.)<br>
+$420.103 million (2021 est.)<br>
+$348.09 million (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.315 billion (31 December 2017 est.)<br>
@@ -511,11 +523,11 @@ $1.338 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Belizean dollars (BZD) per US dollar -<br>
+2 (2022 est.)<br>
 2 (2021 est.)<br>
 2 (2020 est.)<br>
 2 (2019 est.)<br>
 2 (2018 est.)<br>
-2 (2017 est.)<br>
 
 ## Energy
 

@@ -377,28 +377,32 @@ _lyrics/music_: Alda Neves DA GRACA do Espirito Santo/Manuel dos Santos Barreto 
 ower middle-income Central African island economy; falling cocoa production due to drought and mismanagement; joint oil venture with Nigeria; government owns 90% of land; high debt, partly from fuel subsidies; tourism gutted by COVID-19<br>
 
 **Real GDP (purchasing power parity)**<br>
-$904.057 million (2021 est.)<br>
-$887.393 million (2020 est.)<br>
-$861.341 million (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$781.928 million (2022 est.)<br>
+$781.418 million (2021 est.)<br>
+$766.853 million (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.88% (2021 est.)<br>
-3.02% (2020 est.)<br>
-2.21% (2019 est.)<br>
+0.07% (2022 est.)<br>
+1.9% (2021 est.)<br>
+2.62% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$4,100 (2021 est.)<br>
-$4,100 (2020 est.)<br>
-$4,000 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$3,400 (2022 est.)<br>
+$3,500 (2021 est.)<br>
+$3,500 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$0 (2018 est.)<br>
+$542.687 million (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-7.86% (2018 est.)<br>
-5.6% (2017 est.)<br>
+18.01% (2022 est.)<br>
+8.14% (2021 est.)<br>
+9.82% (2020 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 11.8% (2017 est.)<br>
@@ -420,15 +424,18 @@ plantains, oil palm fruit, coconuts, taro, bananas, fruit, cocoa, yams, cassava,
 light construction, textiles, soap, beer, fish processing, timber<br>
 
 **Industrial production growth rate**<br>
-1.44% (2021 est.)<br>
+6.59% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-71,400 (2021 est.)<br>
+74,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-15.91% (2021 est.)<br>
-15.75% (2020 est.)<br>
-14.14% (2019 est.)<br>
+14.35% (2022 est.)<br>
+15.41% (2021 est.)<br>
+15.37% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 22.9% (2021 est.)<br>
@@ -436,19 +443,23 @@ _male_: 18% NA<br>
 _female_: 34.3% NA<br>
 
 **Population below poverty line**<br>
-66.7% (2017 est.)<br>
+55.5% (2017 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 40.7 (2017 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
+_lowest 10%_: 2.6% NA<br>
+_highest 10%_: 32.9% (2017 est.) NA<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.01% of GDP (2021 est.)<br>
-1.82% of GDP (2020 est.)<br>
-2.6% of GDP (2019 est.)<br>
+1.42% of GDP (2022 est.)<br>
+2.02% of GDP (2021 est.)<br>
+1.83% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $95 million (2019 est.)<br>
@@ -468,14 +479,16 @@ _expenditures_: $102 million (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
+-$79.437 million (2022 est.)<br>
 -$95.248 million (2021 est.)<br>
 -$59.595 million (2020 est.)<br>
--$90.026 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$96.977 million (2022 est.)<br>
 $75.256 million (2021 est.) note: data are in current year dollars<br>
 $49.337 million (2020 est.) note: data are in current year dollars<br>
-$72.594 million (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Singapore 30%, Switzerland 24%, France 11%, Poland 7%, Belgium 7%, United States 5% (2019)<br>
@@ -484,9 +497,10 @@ Singapore 30%, Switzerland 24%, France 11%, Poland 7%, Belgium 7%, United States
 gas turbines, cocoa beans, aircraft parts, iron products, chocolate (2019)<br>
 
 **Imports**<br>
+$219.322 million (2022 est.)<br>
 $201.145 million (2021 est.) note: data are in current year dollars<br>
 $160.097 million (2020 est.) note: data are in current year dollars<br>
-$189.63 million (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Portugal 41%, Angola 17%, China 8% (2019 )<br>
@@ -495,9 +509,10 @@ Portugal 41%, Angola 17%, China 8% (2019 )<br>
 refined petroleum, cars, rice, flavored water, postage stamps (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$75.288 million (31 December 2020 est.)<br>
-$47.148 million (31 December 2019 est.)<br>
-$43.684 million (31 December 2018 est.)<br>
+$48.607 million (2022 est.)<br>
+$75.017 million (2021 est.)<br>
+$75.288 million (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $292.9 million (31 December 2017 est.)<br>
@@ -505,11 +520,11 @@ $308.5 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: dobras (STD) per US dollar -<br>
+23.29 (2022 est.)<br>
+20.71 (2021 est.)<br>
 21.507 (2020 est.)<br>
 21.885 (2019 est.)<br>
 20.751 (2018 est.)<br>
-21.741 (2017 est.)<br>
-22.149 (2016 est.)<br>
 
 ## Energy
 

@@ -392,28 +392,31 @@ upper-middle-income EU economy; improving living standards and very robust econo
 
 **Real GDP (purchasing power parity)**<br>
 $174.307 billion (2022 est.)<br>
-$167.804 billion (2021 est.)<br>
-$155.902 billion (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$167.722 billion (2021 est.)<br>
+$155.786 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-7.63% (2021 est.)<br>
--3.96% (2020 est.)<br>
-4.04% (2019 est.)<br>
+3.93% (2022 est.)<br>
+7.66% (2021 est.)<br>
+-3.97% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $27,000 (2022 est.)<br>
 $24,400 (2021 est.)<br>
 $22,500 (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$68.49 billion (2019 est.)<br>
+$90.346 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+15.33% (2022 est.)<br>
 3.3% (2021 est.)<br>
 1.67% (2020 est.)<br>
-3.1% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2017)<br>
@@ -441,16 +444,18 @@ wheat, maize, sunflower seed, milk, barley, rapeseed, potatoes, grapes, tomatoes
 electricity, gas, water; food, beverages, tobacco; machinery and equipment, automotive parts, base metals, chemical products, coke, refined petroleum, nuclear fuel; outsourcing centers<br>
 
 **Industrial production growth rate**<br>
-1.72% (2021 est.)<br>
+11.92% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.291 million (2021 est.)<br>
-<strong>note:</strong> number of employed persons<br>
+3.147 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.42% (2021 est.)<br>
+4.27% (2022 est.)<br>
+5.27% (2021 est.)<br>
 5.12% (2020 est.)<br>
-4.23% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.2% (2021 est.)<br>
@@ -458,23 +463,27 @@ _male_: 14.3%<br>
 _female_: 14%<br>
 
 **Population below poverty line**<br>
-23.8% (2019 est.)<br>
+22.9% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-40.3 (2019 est.)<br>
+40.5 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 19.3% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 5% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.9%<br>
-_highest 10%_: 31.2% (2017)<br>
+_lowest 10%_: 2.1%<br>
+_highest 10%_: 32.6% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.94% of GDP (2021 est.)<br>
-1.36% of GDP (2020 est.)<br>
-3.4% of GDP (2019 est.)<br>
+2.25% of GDP (2022 est.)<br>
+2.35% of GDP (2021 est.)<br>
+2.93% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $24.487 billion (2020 est.)<br>
@@ -484,27 +493,29 @@ _expenditures_: $26.544 billion (2020 est.)<br>
 1.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-32.24% of GDP (2020 est.)<br>
-26.92% of GDP (2019 est.)<br>
-28.69% of GDP (2018 est.)<br>
-<strong>note:</strong> defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the subsectors: central government, state government, local government, and social security funds<br>
+32.82% of GDP (2021 est.)<br>
+32.26% of GDP (2020 est.)<br>
+26.94% of GDP (2019 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-20.27% (of GDP) (2020 est.)<br>
+20.63% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$373.66 million (2021 est.)<br>
--$31.19 million (2020 est.)<br>
-$1.264 billion (2019 est.)<br>
+-$591.65 million (2022 est.)<br>
+-$1,515,830,000 (2021 est.)<br>
+-$31.23 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$62.514 billion (2022 est.)<br>
-$51.505 billion (2021 est.)<br>
+$60.712 billion (2022 est.)<br>
+$51.49 billion (2021 est.)<br>
 $39.541 billion (2020 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Germany 14%, Romania 10%, Greece 8%, Italy 8%, Turkey 6% (2021)<br>
@@ -514,10 +525,10 @@ copper, wheat, electricity, refined petroleum, packaged medicines (2021)<br>
 <strong>note:</strong> Bulgarian amphetamine production remains a significant illicit trade export<br>
 
 **Imports**<br>
-$62.329 billion (2022 est.)<br>
-$50.059 billion (2021 est.)<br>
+$60.252 billion (2022 est.)<br>
+$50.048 billion (2021 est.)<br>
 $38.197 billion (2020 est.)<br>
-<strong>note: </strong>data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Germany 12%, Turkey 8%, Greece 8%, Romania 8%, Italy 7% (2021)<br>
@@ -526,9 +537,10 @@ Germany 12%, Turkey 8%, Greece 8%, Romania 8%, Italy 7% (2021)<br>
 crude petroleum, copper, cars, packaged medicines, refined petroleum (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$39.188 billion (31 December 2021 est.)<br>
-$37.86 billion (31 December 2020 est.)<br>
-$27.902 billion (31 December 2019 est.)<br>
+$40.989 billion (2022 est.)<br>
+$39.188 billion (2021 est.)<br>
+$37.86 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $39.059 billion (2019 est.)<br>
@@ -536,11 +548,11 @@ $41.139 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: leva (BGN) per US dollar -<br>
+1.86 (2022 est.)<br>
 1.654 (2021 est.)<br>
 1.716 (2020 est.)<br>
 1.747 (2019 est.)<br>
 1.657 (2018 est.)<br>
-1.735 (2017 est.)<br>
 
 ## Energy
 

@@ -266,9 +266,6 @@ _selected World Heritage Site locales_: Historic Center of Rome, the Properties 
 **Economic overview**<br>
 limited, tourism-based economy; euro user but issues commemorative stamps and coins; solar energy producer; some printing industry to support museums and religious needs<br>
 
-**Real GDP (purchasing power parity)**<br>
-<p>NA</p><br>
-
 **Industries**<br>
 printing; production of coins, medals, postage stamps; mosaics, staff uniforms; worldwide banking and financial activities<br>
 
@@ -285,9 +282,6 @@ _expenditures_: $348 million (2013)<br>
 **Budget surplus (+) or deficit (-)**<br>
 NA<br>
 
-**Taxes and other revenues**<br>
-NA<br>
-
 **Fiscal year**<br>
 calendar year<br>
 
@@ -298,7 +292,7 @@ _Currency_: euros (EUR) per US dollar -<br>
 0.9214 (2015 est.)<br>
 0.885 (2014 est.)<br>
 0.7634 (2013 est.)<br>
-<strong>note: </strong>while not an EU member state, the Holy See, has a 2000 monetary agreement with Italy and the EU to produce limited euro coinage—but not banknotes—that began enforcement in January 2002<br>
+<strong>note: </strong>while not an EU member state, the Holy See has a 2000 monetary agreement with Italy and the EU to produce limited euro coinage—but not banknotes—that began enforcement in January 2002<br>
 
 ## Energy
 

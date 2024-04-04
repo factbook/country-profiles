@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-The Siboney were the first people to inhabit the islands of Antigua and Barbuda in 2400 B.C., but the Arawaks populated the islands when Christopher COLUMBUS landed on his second voyage in 1493. Early Spanish and French settlements were succeeded by an English colony in 1667. Slavery, which provided labor on the sugar plantations on Antigua, was abolished in 1834. The islands became an independent state within the British Commonwealth of Nations in 1981. On 6 September 2017, Hurricane Irma passed over the island of Barbuda devastating the island and forcing the evacuation of the population to Antigua. Almost all of the structures on Barbuda were destroyed and the vegetation stripped, but Antigua was spared the worst.<br>
+The Siboney were the first people to inhabit the islands of Antigua and Barbuda in 2400 B.C., but the Arawaks populated the islands when Christopher COLUMBUS landed on his second voyage in 1493. Early Spanish and French settlements were succeeded by an English colony in 1667. Slavery, which provided labor on the sugar plantations on Antigua, was abolished in 1834. The islands became an independent state within the British Commonwealth of Nations in 1981. In 2017, Hurricane Irma passed over the island of Barbuda, devastating the island and forcing the evacuation of the population to Antigua. Almost all of the structures on Barbuda were destroyed and the vegetation stripped, but Antigua was spared the worst.<br>
 
 ## Geography
 
@@ -353,29 +353,32 @@ _selected World Heritage Site locales_: Antigua Naval Dockyard&nbsp;<br>
 dual island-tourism and construction-driven economy; emerging &ldquo;blue economy&rdquo;; limited water supply and susceptibility to hurricanes limit activity; improving road infrastructure; friendly to foreign direct investment; looking at financial innovation in cryptocurrency and blockchain technologies<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.783 billion (2021 est.)<br>
-$1.693 billion (2020 est.)<br>
-$2.122 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$2.093 billion (2022 est.)<br>
+$1.911 billion (2021 est.)<br>
+$1.766 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.27% (2021 est.)<br>
--20.19% (2020 est.)<br>
-4.86% (2019 est.)<br>
+9.52% (2022 est.)<br>
+8.19% (2021 est.)<br>
+-18.88% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$19,100 (2021 est.)<br>
-$18,300 (2020 est.)<br>
-$23,000 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$22,300 (2022 est.)<br>
+$20,500 (2021 est.)<br>
+$19,100 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.524 billion (2017 est.)<br>
+$1.868 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.53% (2022 est.)<br>
 2.06% (2021 est.)<br>
 0.63% (2020 est.)<br>
-1.43% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.8% (2017 est.)<br>
@@ -397,10 +400,8 @@ tropical fruit, milk, mangoes/guavas, melons, tomatoes, pineapples, lemons, lime
 tourism, construction, light manufacturing (clothing, alcohol, household appliances)<br>
 
 **Industrial production growth rate**<br>
-8.26% (2021 est.)<br>
-
-**Labor force**<br>
-30,000 (1991)<br>
+3.16% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Unemployment rate**<br>
 11% (2014 est.)<br>
@@ -413,9 +414,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-3.41% of GDP (2021 est.)<br>
-2.65% of GDP (2020 est.)<br>
-2.19% of GDP (2019 est.)<br>
+1.85% of GDP (2022 est.)<br>
+2.83% of GDP (2021 est.)<br>
+2.57% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $278 million (2020 est.)<br>
@@ -435,15 +437,16 @@ _expenditures_: $357 million (2020 est.)<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$220.871 million (2021 est.)<br>
--$251.556 million (2020 est.)<br>
--$126.907 million (2019 est.)<br>
+-$284.522 million (2022 est.)<br>
+-$243.68 million (2021 est.)<br>
+-$230.679 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$749.476 million (2021 est.)<br>
-$590.849 million (2020 est.)<br>
-$1.196 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$1.021 billion (2022 est.)<br>
+$752.375 million (2021 est.)<br>
+$591.276 million (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Suriname 20%, Barbados 17%, Poland 12%, United Kingdom 10%, France 7% (2021)<br>
@@ -452,9 +455,10 @@ Suriname 20%, Barbados 17%, Poland 12%, United Kingdom 10%, France 7% (2021)<br>
 refined petroleum, ships, gas turbines, aircraft parts, lobster, durum wheat (2021)<br>
 
 **Imports**<br>
-$868.797 million (2021 est.) note: data are in current year dollars<br>
-$737.693 million (2020 est.)<br>
-$1.18 billion (2019 est.)<br>
+$1.176 billion (2022 est.)<br>
+$866.971 million (2021 est.) note: data are in current year dollars<br>
+$739.747 million (2020 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 42%, Poland 25%, China 10%, Brazil 3%, Trinidad and Tobago 2% (2021)<br>
@@ -463,9 +467,10 @@ United States 42%, Poland 25%, China 10%, Brazil 3%, Trinidad and Tobago 2% (202
 refined petroleum, ships, recreational boats, cars, poultry&nbsp; (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$367.512 million (31 December 2021 est.)<br>
-$221.809 million (31 December 2020 est.)<br>
-$279.133 million (31 December 2019 est.)<br>
+$396.506 million (2022 est.)<br>
+$367.512 million (2021 est.)<br>
+$221.809 million (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $441.2 million (31 December 2012)<br>
@@ -473,11 +478,11 @@ $458 million (June 2010)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2022 est.)<br>
 2.7 (2021 est.)<br>
 2.7 (2020 est.)<br>
 2.7 (2019 est.)<br>
 2.7 (2018 est.)<br>
-2.7 (2017 est.)<br>
 
 ## Energy
 

@@ -306,9 +306,10 @@ $845 million (2014 est.)<br>
 <strong>note:</strong> GDP estimate includes US subsidy; data are in 2013 dollars<br>
 
 **Real GDP growth rate**<br>
--11.14% (2019 est.)<br>
--19.35% (2018 est.)<br>
-23.17% (2017 est.)<br>
+-29.68% (2020 est.)<br>
+-11.32% (2019 est.)<br>
+-19.27% (2018 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $24,500 (2016 est.)<br>
@@ -316,7 +317,8 @@ $18,400 (2015 est.)<br>
 $16,600 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$1.242 billion (2016 est.)<br>
+$858 million (2020 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 0.3% (2016 est.)<br>
@@ -342,7 +344,8 @@ vegetables and melons, fruits and nuts; ornamental plants; livestock, poultry, e
 tourism, banking, construction, fishing, handicrafts, other services<br>
 
 **Industrial production growth rate**<br>
-NA<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 27,970 (2010 est.)<br>

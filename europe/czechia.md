@@ -392,29 +392,32 @@ _selected World Heritage Site locales_: Historic Prague (c); Historic Telč (c);
 high income, diversified EU economy; advanced services and automotive exporter; mostly intra-EU trader; low unemployment; usually maintains a positive trade balance; large investments in systems innovation and information technologies<br>
 
 **Real GDP (purchasing power parity)**<br>
-$428.016 billion (2021 est.)<br>
+$438.119 billion (2022 est.)<br>
+$428.052 billion (2021 est.)<br>
 $413.365 billion (2020 est.)<br>
-$437.437 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.54% (2021 est.)<br>
+2.35% (2022 est.)<br>
+3.55% (2021 est.)<br>
 -5.5% (2020 est.)<br>
-3.03% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$41,100 (2022 est.)<br>
 $40,700 (2021 est.)<br>
 $38,600 (2020 est.)<br>
-$41,000 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$250.631 billion (2019 est.)<br>
+$290.528 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+15.1% (2022 est.)<br>
 3.84% (2021 est.)<br>
 3.16% (2020 est.)<br>
-2.85% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA- (2018)<br>
@@ -442,15 +445,18 @@ wheat, sugar beet, milk, barley, rapeseed, potatoes, maize, pork, triticale, pou
 motor vehicles, metallurgy, machinery and equipment, glass, armaments<br>
 
 **Industrial production growth rate**<br>
-3.3% (2021 est.)<br>
+0.91% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.266 million (2021 est.)<br>
+5.373 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.89% (2021 est.)<br>
+2.22% (2022 est.)<br>
+2.8% (2021 est.)<br>
 2.55% (2020 est.)<br>
-2.01% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 7.6% (2021 est.)<br>
@@ -458,23 +464,27 @@ _male_: 6.9%<br>
 _female_: 8.7%<br>
 
 **Population below poverty line**<br>
-10.1% (2018 est.)<br>
+10.2% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-25.3 (2019 est.)<br>
+26.2 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 16.3% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 8% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4.1%<br>
-_highest 10%_: 21.7% (2015 est.)<br>
+_lowest 10%_: 4%<br>
+_highest 10%_: 22.5% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+1.43% of GDP (2022 est.)<br>
 1.56% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
-1.53% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $103.838 billion (2019 est.)<br>
@@ -488,21 +498,23 @@ _expenditures_: $103.167 billion (2019 est.)<br>
 36.8% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-14.34% (of GDP) (2020 est.)<br>
+13.36% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$2.282 billion (2021 est.)<br>
+-$17,365,733,000 (2022 est.)<br>
+-$7,686,437,000 (2021 est.)<br>
 $4.967 billion (2020 est.)<br>
-$898.074 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$204.785 billion (2021 est.)<br>
+$217.731 billion (2022 est.)<br>
+$205.626 billion (2021 est.)<br>
 $172.837 billion (2020 est.)<br>
-$186.545 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Germany 31%, Slovakia 7%, Poland 6%, France 5% (2019)<br>
@@ -511,9 +523,10 @@ Germany 31%, Slovakia 7%, Poland 6%, France 5% (2019)<br>
 cars and vehicle parts, computers, broadcasting equipment, office machinery and parts, insulated wiring (2021)<br>
 
 **Imports**<br>
-$196.243 billion (2021 est.) note: data are in current year dollars<br>
+$218.002 billion (2022 est.)<br>
+$197.515 billion (2021 est.) note: data are in current year dollars<br>
 $156.129 billion (2020 est.) note: data are in current year dollars<br>
-$171.429 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Germany 27%, China 12%, Poland 9%, Slovakia 5% (2019)<br>
@@ -522,9 +535,10 @@ Germany 27%, China 12%, Poland 9%, Slovakia 5% (2019)<br>
 broadcasting equipment, cars and vehicle parts, office machinery/parts, computers, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$173.618 billion (31 December 2021 est.)<br>
-$166.126 billion (31 December 2020 est.)<br>
-$149.856 billion (31 December 2019 est.)<br>
+$139.981 billion (2022 est.)<br>
+$173.618 billion (2021 est.)<br>
+$166.126 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $191.871 billion (2019 est.)<br>
@@ -532,11 +546,11 @@ $200.197 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: koruny (CZK) per US dollar -<br>
+23.357 (2022 est.)<br>
 21.678 (2021 est.)<br>
 23.21 (2020 est.)<br>
 22.932 (2019 est.)<br>
 21.73 (2018 est.)<br>
-23.376 (2017 est.)<br>
 
 ## Energy
 

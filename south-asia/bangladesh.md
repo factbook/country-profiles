@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The huge delta region formed at the confluence of the Ganges and Brahmaputra River systems - now referred to as Bangladesh - was a loosely incorporated outpost of various empires centered on the Gangetic plain for much of the first millennium A.D. Muslim conversions and settlement in the region began in the 10th century, primarily from Arab and Persian traders and preachers. Europeans established trading posts in the area in the 16th century. Eventually the area known as Bengal, primarily Hindu in the western section and mostly Muslim in the eastern half, became part of British India. Partition in 1947 resulted in an eastern wing of Pakistan in the Muslim-majority area, which became East Pakistan. Calls for greater autonomy and animosity between the eastern and western wings of Pakistan led to a Bengali independence movement. That movement, led by the Awami League (AL) and supported by India, won the independence war for Bangladesh in 1971.</p> <p>The post-independence AL government faced daunting challenges, and in 1975 it was overthrown by the military, triggering a series of military coups that resulted in a military-backed government and subsequent creation of the Bangladesh Nationalist Party (BNP) in 1978. That government also ended in a coup in 1981, followed by military-backed rule until democratic elections occurred in 1991. The BNP and AL alternated in power from 1991 to 2008, with the exception of a military-backed, emergency caretaker regime that suspended parliamentary elections planned for January 2007 in an effort to reform the political system and root out corruption. That government returned the country to fully democratic rule in December 2008 with the election of the AL and Prime Minister Sheikh HASINA. In January 2014, the incumbent AL won the national election by an overwhelming majority after the BNP boycotted the election, which extended HASINA's term as prime minister. In December 2018, HASINA secured a third consecutive term (fourth overall) with the AL coalition securing 96% of available seats, amid widespread claims of election irregularities. With the help of international development assistance,  Bangladesh is on track to graduate from the UN’s Least Developed Countries (LDC) list in 2026. The economy has grown at an annual average of about 6.25% for the last two decades. Poverty declined from 11.8 percent in 2010 to 5.0 percent in 2022, based on the international poverty line of $2.15 a day (using 2017 Purchasing Power Parity exchange rate). Moreover, human development outcomes improved along many dimensions.  The country made a rapid recovery from the COVID-19 pandemic, but faces several economic challenges.</p> <p> </p><br>
+<p>The huge delta region at the confluence of the Ganges and Brahmaputra River systems -- now referred to as Bangladesh -- was a loosely incorporated outpost of various empires for much of the first millennium A.D. Muslim conversions and settlement in the region began in the 10th century, primarily from Arab and Persian traders and preachers. Europeans established trading posts in the area in the 16th century. Eventually the area known as Bengal, which is primarily Hindu in the western section and mostly Muslim in the eastern half, became part of British India. After the partition of India in 1947, the Muslim-majority area became East Pakistan. Calls for greater autonomy and animosity between the eastern and western areas of Pakistan led to a Bengali independence movement. That movement, led by the Awami League (AL) and supported by India, won the independence war for Bangladesh in 1971.</p> <p>The military overthrew the post-independence AL government in 1975, the first of a series of military coups that resulted in a military-backed government and the subsequent creation of the Bangladesh Nationalist Party (BNP) that took power in 1979. That government also ended in a coup in 1981, followed by military-backed rule until democratic elections were held in 1991. The BNP and AL alternated in power from 1991 to 2008, with the exception of a military-backed, emergency caretaker regime in 2007. The country returned to fully democratic rule in 2008 with the election of the AL and Prime Minister Sheikh HASINA. With the help of international development assistance, Bangladesh is on track to graduate from the UN’s Least Developed Countries (LDC) list in 2026. <br><br>The economy has grown at an annual average of about 6.25% for the last two decades. Poverty declined from 11.8 percent in 2010 to 5.0 percent in 2022, based on the international poverty line of $2.15 a day (using 2017 Purchasing Power Parity exchange rate). Moreover, human development outcomes improved along many dimensions.  The country made a rapid recovery from the COVID-19 pandemic, but faces several economic challenges.</p> <p> </p><br>
 
 ## Geography
 
@@ -400,32 +400,35 @@ _selected World Heritage Site locales_: Bagerhat Historic Mosque (c); Ruins of t
 ## Economy
 
 **Economic overview**<br>
-one of the fastest growing economies; significant poverty reduction; COVID-19 adversely impacted female labor force participation and undermined previously stable financial conditions; looking to diversify beyond clothing industry; fairly low government debt; new taxation law struggling to increase government revenues<br>
+one of the fastest growing emerging market economies; strong economic rebound following COVID-19; significant poverty reduction; exports dominated by textile industry; weakened exports and remittances resulted in declining foreign exchange reserves and 2022 IMF loan request<br>
 
 **Real GDP (purchasing power parity)**<br>
+$1.072 trillion (2022 est.)<br>
 $1.001 trillion (2021 est.)<br>
 $936.113 billion (2020 est.)<br>
-$904.912 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+7.1% (2022 est.)<br>
 6.94% (2021 est.)<br>
 3.45% (2020 est.)<br>
-7.88% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$6,300 (2022 est.)<br>
 $5,900 (2021 est.)<br>
 $5,600 (2020 est.)<br>
-$5,500 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$329.545 billion (2020 est.)<br>
+$460.201 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.7% (2022 est.)<br>
 5.55% (2021 est.)<br>
 5.69% (2020 est.)<br>
-5.59% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2014)<br>
@@ -447,23 +450,24 @@ _exports of goods and services_: 15% (2017 est.)<br>
 _imports of goods and services_: -20.3% (2017 est.)<br>
 
 **Agricultural products**<br>
-rice, potatoes, maize, sugar cane, milk, vegetables, onions, jute, mangoes/guavas, wheat<br>
+rice, milk, eggs, potatoes, maize, sugar cane, onions, jute, mangoes, other tropical fruits and vegetables<br>
 
 **Industries**<br>
-jute, cotton, garments, paper, leather, fertilizer, iron and steel, cement, petroleum products, tobacco, pharmaceuticals, ceramics, tea, salt, sugar, edible oils, soap and detergent, fabricated metal products, electricity, natural gas<br>
+cotton, textiles and clothing, jute, tea, paper, cement, fertilizer, sugar, light engineering&nbsp;<br>
 
 **Industrial production growth rate**<br>
-10.29% (2021 est.)<br>
+9.86% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-70.961 million (2021 est.)<br>
-<strong>note:</strong> extensive migration of labor to Saudi Arabia, Kuwait, UAE, Oman, Qatar, and Malaysia<br>
+73.862 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.23% (2021 est.)<br>
-5.41% (2020 est.)<br>
-4.44% (2019 est.)<br>
-<strong>note:</strong> about 40% of the population is underemployed; many persons counted as employed work only a few hours a week and at low wages<br>
+4.27% (2022 est.)<br>
+5.25% (2021 est.)<br>
+5.32% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.7% (2021 est.)<br>
@@ -471,23 +475,27 @@ _male_: 12.5%<br>
 _female_: 19.6%<br>
 
 **Population below poverty line**<br>
-24.3% (2016 est.)<br>
+18.7% (2022 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-32.4 (2016 est.)<br>
+31.8 (2022 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 53.5% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 1.9% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4%<br>
-_highest 10%_: 27% (2010 est.)<br>
+_lowest 10%_: 3.6%<br>
+_highest 10%_: 26% (2022 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+4.67% of GDP (2022 est.)<br>
 5.33% of GDP (2021 est.)<br>
 5.82% of GDP (2020 est.)<br>
-5.23% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $30.023 billion (2019 est.)<br>
@@ -501,43 +509,47 @@ _expenditures_: $46.379 billion (2019 est.)<br>
 33.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-7% (of GDP) (2020 est.)<br>
+7.64% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$15.563 billion (2021 est.)<br>
+-$14.37 billion (2022 est.)<br>
+-$15.775 billion (2021 est.)<br>
 $1.193 billion (2020 est.)<br>
--$2.949 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$49.386 billion (2021 est.)<br>
+$60.138 billion (2022 est.)<br>
+$49.291 billion (2021 est.)<br>
 $38.476 billion (2020 est.)<br>
-$44.961 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 15%, Germany 14%, United Kingdom 8%, Spain 7%, France 7% (2019)<br>
+United States 18%, Germany 16%, United Kingdom 8%, Spain 7%, Poland 5% (2022)<br>
 
 **Exports - commodities**<br>
-clothing, knitwear, leather footwear (2021)<br>
+textiles (knit/non-knit garments, linens, jute yarn), leather footwear, knitted hats (2022)<br>
 
 **Imports**<br>
-$85.303 billion (2021 est.) note: data are in current year dollars<br>
+$93.815 billion (2022 est.)<br>
+$85.299 billion (2021 est.) note: data are in current year dollars<br>
 $56.776 billion (2020 est.) note: data are in current year dollars<br>
-$64.234 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 31%, India 15%, Singapore 5% (2019)<br>
+China 32%, India 17%, Singapore 6%, Malaysia 5%, Indonesia 5%&nbsp; (2022)<br>
 
 **Imports - commodities**<br>
-refined petroleum, cotton, natural gas, scrap iron, wheat (2019)<br>
+refined petroleum, cotton, textiles (woven/knitted fabrics, cotton yarn), palm oil, wheat (2022)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$46.166 billion (31 December 2021 est.)<br>
-$43.172 billion (31 December 2020 est.)<br>
-$32.697 billion (31 December 2019 est.)<br>
+$33.747 billion (2022 est.)<br>
+$46.166 billion (2021 est.)<br>
+$43.172 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $50.26 billion (31 December 2017 est.)<br>
@@ -545,11 +557,11 @@ $41.85 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: taka (BDT) per US dollar -<br>
+91.745 (2022 est.)<br>
 85.084 (2021 est.)<br>
 84.871 (2020 est.)<br>
 84.454 (2019 est.)<br>
 83.466 (2018 est.)<br>
-80.438 (2017 est.)<br>
 
 ## Energy
 
@@ -744,7 +756,7 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 <p><em>Bangladesh-Burma:</em> the border area has historically been an area of conflict and instability; militants, particularly ethnic armed groups (EAGs) from Burma, continue to operate in the border region and conduct illegal crossings, and both countries maintain considerable numbers of security personnel along the border; Burmese military forces actively conduct operations against EAGs; in 2022, Burmese artillery struck Bangladesh territory several times during military operations against Arakan Army rebels inside Rakhine; as of 2017, Burmese border authorities had constructed about 130 miles of border fencing and had planned to fence off the remainder of the border<br><br><em>Bangladesh-India:</em> Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over un-demarcated areas and the exchange of territorial enclaves, but which had never been implemented</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 975,350 (Burma) (2024)<br>
+_refugees (country of origin)_: 976,507 (Burma) (2024)<br>
 _IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2022)<br>
 _stateless persons_: 929,606 (2022)<br>
 

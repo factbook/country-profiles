@@ -385,29 +385,32 @@ _selected World Heritage Site locales_: Acropolis, Athens (c); Archaeological si
 tourism- and shipping-based EU economy; clientelism economic culture and systemic corruption; new structural reforms for fiscal solvency; high public debts and unemployment; increasing Chinese port control; oil and gas disputes with Turkey<br>
 
 **Real GDP (purchasing power parity)**<br>
-$314.427 billion (2021 est.)<br>
-$289.97 billion (2020 est.)<br>
-$318.662 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$330.579 billion (2022 est.)<br>
+$313.175 billion (2021 est.)<br>
+$288.961 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-8.43% (2021 est.)<br>
--9% (2020 est.)<br>
-1.88% (2019 est.)<br>
+5.56% (2022 est.)<br>
+8.38% (2021 est.)<br>
+-9.32% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$29,500 (2021 est.)<br>
-$27,100 (2020 est.)<br>
-$29,700 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$31,700 (2022 est.)<br>
+$29,600 (2021 est.)<br>
+$27,000 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$209.79 billion (2019 est.)<br>
+$217.581 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+9.65% (2022 est.)<br>
 1.22% (2021 est.)<br>
 -1.25% (2020 est.)<br>
-0.25% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB (2020)<br>
@@ -435,15 +438,18 @@ maize, olives, wheat, milk, peaches/nectarines, oranges, tomatoes, grapes, milk,
 tourism, food and tobacco processing, textiles, chemicals, metal products; mining, petroleum<br>
 
 **Industrial production growth rate**<br>
-10.67% (2021 est.)<br>
+-3.43% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.619 million (2021 est.)<br>
+4.652 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-14.8% (2021 est.)<br>
-16.3% (2020 est.)<br>
-17.31% (2019 est.)<br>
+12.43% (2022 est.)<br>
+14.66% (2021 est.)<br>
+15.9% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 36.9% (2021 est.)<br>
@@ -451,23 +457,27 @@ _male_: 33.5%<br>
 _female_: 41.5%<br>
 
 **Population below poverty line**<br>
-17.9% (2018 est.)<br>
+18.8% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-33.1 (2019 est.)<br>
+33.6 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 17.1% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 4.9% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.7%<br>
-_highest 10%_: 26.7% (2015 est.)<br>
+_lowest 10%_: 2.4%<br>
+_highest 10%_: 25.2% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.28% of GDP (2022 est.)<br>
 0.32% of GDP (2021 est.)<br>
 0.32% of GDP (2020 est.)<br>
-0.33% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $98.523 billion (2019 est.)<br>
@@ -477,25 +487,29 @@ _expenditures_: $97.277 billion (2019 est.)<br>
 0.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-252.29% of GDP (2020 est.)<br>
-212.38% of GDP (2019 est.)<br>
-208.84% of GDP (2018 est.)<br>
+237.35% of GDP (2021 est.)<br>
+253.12% of GDP (2020 est.)<br>
+212.36% of GDP (2019 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-24.74% (of GDP) (2020 est.)<br>
+25.37% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$13.858 billion (2021 est.)<br>
--$12.413 billion (2020 est.)<br>
--$3.112 billion (2019 est.)<br>
+-$22,622,861,000 (2022 est.)<br>
+-$13,857,822,000 (2021 est.)<br>
+-$12,413,032,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$106.189 billion (2022 est.)<br>
 $87.521 billion (2021 est.) note: data are in current year dollars<br>
 $59.022 billion (2020 est.) note: data are in current year dollars<br>
-$81.184 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Italy 10%, Germany 7%, Turkey 5%, Cyprus 5%, Bulgaria 5% (2019)<br>
@@ -504,9 +518,10 @@ Italy 10%, Germany 7%, Turkey 5%, Cyprus 5%, Bulgaria 5% (2019)<br>
 refined petroleum, packaged medicines, aluminum plating, cotton, cheese, copper piping (2021)<br>
 
 **Imports**<br>
+$127.82 billion (2022 est.)<br>
 $103.532 billion (2021 est.) note: data are in current year dollars<br>
 $71.758 billion (2020 est.) note: data are in current year dollars<br>
-$83.192 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Germany 11%, China 9%, Italy 8%, Iraq 7%, Russia 6%, Netherlands 5% (2019)<br>
@@ -515,9 +530,10 @@ Germany 11%, China 9%, Italy 8%, Iraq 7%, Russia 6%, Netherlands 5% (2019)<br>
 crude petroleum, refined petroleum, packaged medicines, cars, ships (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$14.447 billion (31 December 2021 est.)<br>
-$11.931 billion (31 December 2020 est.)<br>
-$8.507 billion (31 December 2019 est.)<br>
+$12.061 billion (2022 est.)<br>
+$14.447 billion (2021 est.)<br>
+$11.931 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $484.888 billion (2019 est.)<br>
@@ -525,11 +541,11 @@ $478.646 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
 0.847 (2018 est.)<br>
-0.885 (2017 est.)<br>
 
 ## Energy
 
@@ -713,7 +729,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 27,365 (Ukraine) (as of 31 December 2023)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,288,170 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
+<strong>note:</strong> 1,289,013 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

@@ -326,22 +326,26 @@ _selected World Heritage Site locales_: Historic Town of St George and Related F
 small, tourism- and construction-based, territorial-island economy; American import and tourist destination; known offshore banking hub; increasing inflation; major re-exportation and re-importation area<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.127 billion (2021 est.) note: data are in 2017 dollars<br>
-$4.863 billion (2020 est.) note: data are in 2017 dollars<br>
-$5.22 billion (2019 est.)<br>
+$5.157 billion (2022 est.)<br>
+$5.01 billion (2021 est.)<br>
+$4.863 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.41% (2021 est.)<br>
+2.93% (2022 est.)<br>
+3.01% (2021 est.)<br>
 -6.84% (2020 est.)<br>
-0.31% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$80,300 (2021 est.) note: data are in 2017 dollars<br>
-$76,100 (2020 est.) note: data are in 2017 dollars<br>
-$81,700 (2019 est.)<br>
+$81,200 (2022 est.)<br>
+$78,600 (2021 est.)<br>
+$76,100 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$6.127 billion (2016 est.)<br>
+$7.546 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1.9% (2017 est.)<br>
@@ -374,6 +378,7 @@ international business, tourism, light manufacturing<br>
 
 **Industrial production growth rate**<br>
 0.1% (2021 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 33,480 (2016 est.)<br>
@@ -395,9 +400,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
+23.85% of GDP (2022 est.)<br>
+23.23% of GDP (2021 est.)<br>
 22.86% of GDP (2020 est.)<br>
-20.84% of GDP (2019 est.)<br>
-20.02% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $999.2 million (2017 est.)<br>
@@ -416,15 +422,16 @@ _expenditures_: $1.176 billion (2017 est.)<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
-$1.015 billion (2021 est.)<br>
+$962.258 million (2021 est.)<br>
 $853.85 million (2020 est.)<br>
 $838.701 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$1.123 billion (2021 est.)<br>
+$1.136 billion (2021 est.)<br>
 $1.027 billion (2020 est.)<br>
 $1.605 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Jamaica 49.1%, Luxembourg 36.1%, US 4.9% (2017)<br>
@@ -436,6 +443,7 @@ recreational boats, ships, trailers, aircraft, fertilizers (2021)<br>
 $1.925 billion (2021 est.) note: data are in current year dollars<br>
 $1.723 billion (2020 est.) note: data are in current year dollars<br>
 $2.224 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United States 44%, South Korea 17%, Germany 10%, Canada 8% (2019)<br>
@@ -449,11 +457,11 @@ $2.435 billion (2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Bermudian dollars (BMD) per US dollar -<br>
+1 (2022 est.)<br>
 1 (2021 est.)<br>
 1 (2020 est.)<br>
 1 (2019 est.)<br>
 1 (2018 est.)<br>
-1 (2017 est.)<br>
 
 ## Energy
 

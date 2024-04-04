@@ -411,29 +411,32 @@ _selected World Heritage Site locales_: Sukur Cultural Landscape; Osun-Osogbo Sa
 largest African market economy; enormous but mostly lower middle income labor force; major oil exporter; key telecommunications and finance industries; susceptible to global energy price shocks; regional leader in critical infrastructure; primarily agrarian employment<br>
 
 **Real GDP (purchasing power parity)**<br>
+$1.085 trillion (2022 est.)<br>
 $1.05 trillion (2021 est.)<br>
 $1.014 trillion (2020 est.)<br>
-$1.032 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+3.25% (2022 est.)<br>
 3.65% (2021 est.)<br>
 -1.79% (2020 est.)<br>
-2.21% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$5,000 (2022 est.)<br>
 $4,900 (2021 est.)<br>
 $4,900 (2020 est.)<br>
-$5,100 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$475.062 billion (2019 est.)<br>
+$472.625 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+18.85% (2022 est.)<br>
 16.95% (2021 est.)<br>
 13.25% (2020 est.)<br>
-11.4% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2020)<br>
@@ -461,15 +464,18 @@ cassava, yams, maize, oil palm fruit, rice, vegetables, sorghum, groundnuts, fru
 crude oil, coal, tin, columbite; rubber products, wood; hides and skins, textiles, cement and other construction materials, food products, footwear, chemicals, fertilizer, printing, ceramics, steel<br>
 
 **Industrial production growth rate**<br>
--0.47% (2021 est.)<br>
+-4.62% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-65.116 million (2021 est.)<br>
+73.389 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.79% (2021 est.)<br>
-9.71% (2020 est.)<br>
-8.53% (2019 est.)<br>
+3.83% (2022 est.)<br>
+5.26% (2021 est.)<br>
+5.63% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 19.6% (2021 est.)<br>
@@ -478,22 +484,26 @@ _female_: 19.4% NA<br>
 
 **Population below poverty line**<br>
 40.1% (2018 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 35.1 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 59% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 1% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.8%<br>
-_highest 10%_: 38.2% (2010 est.)<br>
+_lowest 10%_: 2.9%<br>
+_highest 10%_: 26.7% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+4.26% of GDP (2022 est.)<br>
 4.42% of GDP (2021 est.)<br>
 3.98% of GDP (2020 est.)<br>
-5.31% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $37.298 billion (2019 est.)<br>
@@ -513,14 +523,16 @@ _expenditures_: $59.868 billion (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.849 billion (2021 est.)<br>
--$15.986 billion (2020 est.)<br>
--$13.685 billion (2019 est.)<br>
+$1.019 billion (2022 est.)<br>
+-$3,254,163,000 (2021 est.)<br>
+-$15,985,928,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$69.091 billion (2022 est.)<br>
 $50.856 billion (2021 est.) note: data are in current year dollars<br>
 $39.937 billion (2020 est.) note: data are in current year dollars<br>
-$69.927 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 India 16%, Spain 12%, United States 6%, France 6%, China 5% (2021)<br>
@@ -529,9 +541,10 @@ India 16%, Spain 12%, United States 6%, France 6%, China 5% (2021)<br>
 crude petroleum, natural gas, scrap vessels, cocoa beans, refined petroleum (2021)<br>
 
 **Imports**<br>
-$66.107 billion (2021 est.) note: data are in current year dollars<br>
+$77.049 billion (2022 est.)<br>
+$67.478 billion (2021 est.) note: data are in current year dollars<br>
 $72.178 billion (2020 est.) note: data are in current year dollars<br>
-$100.82 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 36%, India 8%, Netherlands 7%, United States 7%, Belgium 4% (2021)<br>
@@ -540,9 +553,10 @@ China 36%, India 8%, Netherlands 7%, United States 7%, Belgium 4% (2021)<br>
 refined petroleum, wheat, cars, packaged medicines, broadcasting equipment, telephones (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$36.73 billion (31 December 2020 est.)<br>
-$38.336 billion (31 December 2019 est.)<br>
-$42.839 billion (31 December 2018 est.)<br>
+$35.564 billion (2022 est.)<br>
+$40.476 billion (2021 est.)<br>
+$36.73 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $26.847 billion (2019 est.)<br>
@@ -550,11 +564,11 @@ $22.755 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: nairas (NGN) per US dollar -<br>
+425.979 (2022 est.)<br>
+401.152 (2021 est.)<br>
 358.811 (2020 est.)<br>
 306.921 (2019 est.)<br>
 306.084 (2018 est.)<br>
-305.79 (2017 est.)<br>
-253.492 (2016 est.)<br>
 
 ## Energy
 

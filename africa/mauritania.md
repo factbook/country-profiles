@@ -410,29 +410,32 @@ _selected World Heritage Site locales_: Ancient Ksour (Fortified Villages) of Ou
 lower middle-income West African economy; primarily agrarian; rising urbanization; poor property rights; systemic corruption; endemic social and workforce tensions; wide-scale terrorism; foreign over-fishing; environmentally fragile<br>
 
 **Real GDP (purchasing power parity)**<br>
-$24.494 billion (2021 est.)<br>
-$23.909 billion (2020 est.)<br>
-$24.136 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$25.245 billion (2022 est.)<br>
+$23.731 billion (2021 est.)<br>
+$23.557 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.45% (2021 est.)<br>
--0.94% (2020 est.)<br>
-5.3% (2019 est.)<br>
+6.38% (2022 est.)<br>
+0.74% (2021 est.)<br>
+-0.36% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$5,300 (2021 est.)<br>
-$5,300 (2020 est.)<br>
-$5,500 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$5,300 (2022 est.)<br>
+$5,100 (2021 est.)<br>
+$5,200 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$706 million (2018 est.)<br>
+$9.781 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+9.53% (2022 est.)<br>
 3.57% (2021 est.)<br>
 2.39% (2020 est.)<br>
-2.3% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 27.8% (2017 est.)<br>
@@ -455,15 +458,18 @@ fish processing, oil production, mining (iron ore, gold, copper)<br>
 <strong>note:</strong> gypsum deposits have never been exploited<br>
 
 **Industrial production growth rate**<br>
--6.61% (2021 est.)<br>
+7.31% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.197 million (2021 est.)<br>
+1.135 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.46% (2021 est.)<br>
-11.27% (2020 est.)<br>
-10.39% (2019 est.)<br>
+10.79% (2022 est.)<br>
+11.33% (2021 est.)<br>
+11.17% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 23% (2021 est.)<br>
@@ -471,19 +477,23 @@ _male_: 20.8%<br>
 _female_: 27.9%<br>
 
 **Population below poverty line**<br>
-31% (2014 est.)<br>
+31.8% (2019 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 32.6 (2014 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.5%<br>
-_highest 10%_: 29.5% (2000)<br>
+_lowest 10%_: 3%<br>
+_highest 10%_: 24.9% (2014 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.01% of GDP (2020 est.)<br>
-0.8% of GDP (2019 est.)<br>
-0.81% of GDP (2018 est.)<br>
+0.51% of GDP (2022 est.)<br>
+0.14% of GDP (2021 est.)<br>
+2.04% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.617 billion (2019 est.)<br>
@@ -503,14 +513,16 @@ _expenditures_: $1.407 billion (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
+-$1,424,095,000 (2022 est.)<br>
 -$807.862 million (2021 est.)<br>
 -$576.175 million (2020 est.)<br>
--$831.106 million (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$4.132 billion (2022 est.)<br>
 $3.18 billion (2021 est.) note: data are in current year dollars<br>
 $2.784 billion (2020 est.) note: data are in current year dollars<br>
-$2.525 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 32%, Switzerland 13%, Spain 9%, Japan 9%, Italy 5% (2019)<br>
@@ -519,9 +531,10 @@ China 32%, Switzerland 13%, Spain 9%, Japan 9%, Italy 5% (2019)<br>
 iron ore, gold, mollusks and shellfish, frozen fish, copper ore (2021)<br>
 
 **Imports**<br>
+$5.77 billion (2022 est.)<br>
 $4.312 billion (2021 est.) note: data are in current year dollars<br>
 $3.675 billion (2020 est.) note: data are in current year dollars<br>
-$3.683 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 26%, France 6%, Spain 6%, Morocco 6%, United Arab Emirates 5% (2019)<br>
@@ -530,9 +543,10 @@ China 26%, France 6%, Spain 6%, Morocco 6%, United Arab Emirates 5% (2019)<br>
 ships, aircraft, wheat, raw sugar, refined petroleum (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.039 billion (31 December 2021 est.)<br>
-$1.493 billion (31 December 2020 est.)<br>
-$1.029 billion (31 December 2019 est.)<br>
+$2.039 billion (2021 est.)<br>
+$1.493 billion (2020 est.)<br>
+$1.029 billion (2019 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $4.15 billion (31 December 2017 est.)<br>

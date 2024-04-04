@@ -318,15 +318,17 @@ $1.89 billion (2013 est.)<br>
 $1.608 billion (2012 est.)<br>
 
 **Real GDP growth rate**<br>
-5.9% (2017 est.)<br>
-7.5% (2016 est.)<br>
-2.4% (2015 est.)<br>
+5.4% (2022 est.)<br>
+5.76% (2021 est.)<br>
+-1.93% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $40,000 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$2.765 billion (2014 est.)<br>
+$3.556 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 -0.3% (2016)<br>
@@ -349,7 +351,8 @@ potatoes, mutton, sheep skins, sheep offals, beef, sheep fat, cattle offals, cat
 fishing, fish processing, tourism, small ship repair and refurbishment, handicrafts<br>
 
 **Industrial production growth rate**<br>
-3.4% (2009 est.)<br>
+4.3% (2014 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 27,540 (2017 est.)<br>
@@ -369,9 +372,10 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Remittances**<br>
-0% of GDP (2019 est.)<br>
-0% of GDP (2018 est.)<br>
-0% of GDP (2017 est.)<br>
+4.45% of GDP (2022 est.)<br>
+4.33% of GDP (2021 est.)<br>
+4.86% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $835.6 million (2014 est.)<br>

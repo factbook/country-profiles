@@ -287,9 +287,6 @@ small New Zealand territorial island economy; labor force can work in New Zealan
 $7,711,583 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars.<br>
 
-**Real GDP growth rate**<br>
-<p>NA</p><br>
-
 **Real GDP per capita**<br>
 $6,004 (2017 est.)<br>
 $4,855 (2016 est.)<br>
@@ -304,7 +301,7 @@ $12.658 million (2017 est.)<br>
 4% (2020 est.)<br>
 2.5% (2019 est.)<br>
 11% (2017 est.)<br>
-<strong>note: </strong>Tokelau notes that its wide inflation swings are due almost entirely due to cigarette prices, a chief import.<br>
+<strong>note: </strong>Tokelau notes that its wide inflation swings are due almost entirely to cigarette prices, a chief import.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: NA<br>
@@ -336,7 +333,6 @@ _expenditures_: $11,666,542 (2017 est.)<br>
 
 **Exports**<br>
 $103,000 (2015 est.)<br>
-$102,826 (2002 est.)<br>
 
 **Exports - partners**<br>
 Singapore 25%, France 19%, South Africa 7%, New Zealand 5%, United States 5%, Ireland 5% (2019)<br>

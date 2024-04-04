@@ -403,29 +403,32 @@ _selected World Heritage Site locales_: Historic Krakow (c); Historic Warsaw (c)
 diversified, high-growth European economy; COVID-19 led to first recession in nearly 3 decades, albeit small; EU and NATO member; bolstering US relations; economic concentration in western region; aging labor force; growing debt<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.318 trillion (2021 est.)<br>
+$1.388 trillion (2022 est.)<br>
+$1.319 trillion (2021 est.)<br>
 $1.233 trillion (2020 est.)<br>
-$1.259 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.85% (2021 est.)<br>
+5.26% (2022 est.)<br>
+6.93% (2021 est.)<br>
 -2.02% (2020 est.)<br>
-4.45% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$37,700 (2022 est.)<br>
 $34,900 (2021 est.)<br>
 $32,500 (2020 est.)<br>
-$33,200 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$595.72 billion (2019 est.)<br>
+$688.125 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+14.43% (2022 est.)<br>
 5.06% (2021 est.)<br>
 3.37% (2020 est.)<br>
-2.23% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A- (2007)<br>
@@ -453,15 +456,18 @@ milk, sugar beets, wheat, potatoes, triticale, maize, barley, apples, mixed grai
 machine building, iron and steel, coal mining, chemicals, shipbuilding, food processing, glass, beverages, textiles<br>
 
 **Industrial production growth rate**<br>
-3.36% (2021 est.)<br>
+7.11% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-18.212 million (2021 est.)<br>
+18.301 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.37% (2021 est.)<br>
+2.89% (2022 est.)<br>
+3.36% (2021 est.)<br>
 3.16% (2020 est.)<br>
-3.28% (2019 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 13.4% (2021 est.)<br>
@@ -469,23 +475,27 @@ _male_: 12.3%<br>
 _female_: 15%<br>
 
 **Population below poverty line**<br>
-15.4% (2018 est.)<br>
+11.8% (2022 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-30.2 (2018 est.)<br>
+28.8 (2019 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 16.7% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 5.7% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3%<br>
-_highest 10%_: 23.9% (2015 est.)<br>
+_lowest 10%_: 3.4%<br>
+_highest 10%_: 23.1% (2019 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.94% of GDP (2022 est.)<br>
 1.05% of GDP (2021 est.)<br>
 1.12% of GDP (2020 est.)<br>
-1.18% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $244.485 billion (2019 est.)<br>
@@ -500,20 +510,23 @@ _expenditures_: $248.868 billion (2019 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, the data include subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-17.48% (of GDP) (2020 est.)<br>
+19.15% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$4.568 billion (2021 est.)<br>
-$17.319 billion (2020 est.)<br>
-$2.832 billion (2019 est.)<br>
+-$16.697 billion (2022 est.)<br>
+-$8.515 billion (2021 est.)<br>
+$14.764 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$411.621 billion (2021 est.) note: data are in current year dollars<br>
-$336.317 billion (2020 est.) note: data are in current year dollars<br>
-$330.934 billion (2019 est.) note: data are in current year dollars<br>
+$434.008 billion (2022 est.)<br>
+$392.694 billion (2021 est.) note: data are in current year dollars<br>
+$318.967 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Germany 28%, UK 6%, Czechia 6%, France 6%, Netherlands 4% (2020)<br>
@@ -522,9 +535,10 @@ Germany 28%, UK 6%, Czechia 6%, France 6%, Netherlands 4% (2020)<br>
 cars and vehicle parts, seats, furniture, electric batteries, computers (2020)<br>
 
 **Imports**<br>
-$380.699 billion (2021 est.) note: data are in current year dollars<br>
-$295.897 billion (2020 est.) note: data are in current year dollars<br>
-$302.525 billion (2019 est.) note: data are in current year dollars<br>
+$421.226 billion (2022 est.)<br>
+$369.82 billion (2021 est.) note: data are in current year dollars<br>
+$284.648 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Germany 25%, China 12%, Italy 5%, Netherlands 5%, Czechia 4% (2020)<br>
@@ -533,9 +547,10 @@ Germany 25%, China 12%, Italy 5%, Netherlands 5%, Czechia 4% (2020)<br>
 cars and vehicle parts, crude petroleum, packaged medicines, broadcasting equipment, office machinery/parts (2020)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$166.03 billion (31 December 2021 est.)<br>
-$154.219 billion (31 December 2020 est.)<br>
-$128.392 billion (31 December 2019 est.)<br>
+$166.664 billion (2022 est.)<br>
+$166.03 billion (2021 est.)<br>
+$154.219 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $351.77 billion (2019 est.)<br>
@@ -543,11 +558,11 @@ $373.721 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: zlotych (PLN) per US dollar -<br>
+4.458 (2022 est.)<br>
 3.862 (2021 est.)<br>
 3.9 (2020 est.)<br>
 3.839 (2019 est.)<br>
 3.612 (2018 est.)<br>
-3.779 (2017 est.)<br>
 
 ## Energy
 
@@ -686,7 +701,7 @@ Polish Armed Forces (Polskie Siły Zbrojne): Land Forces (Wojska Ladowe), Navy (
 **Military expenditures**<br>
 4.2% of GDP (2024 est.)<br>
 3.9% of GDP (2023 est.)<br>
-2.4% of GDP (2022)<br>
+2.2% of GDP (2022)<br>
 2.2% of GDP (2021)<br>
 2.2% of GDP (2020)<br>
 

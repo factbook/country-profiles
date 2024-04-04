@@ -227,9 +227,6 @@ the flag of Norway is used<br>
 **Economic overview**<br>
 high-income Norwegian island economy; major coal mining, tourism, and research sectors; recently established northernmost brewery; key whaling and fishing base; home to the Global Seed Vault<br>
 
-**Real GDP growth rate**<br>
-<p>NA</p><br>
-
 **Labor force**<br>
 1,590 (2013)<br>
 
@@ -239,15 +236,6 @@ _expenditures_: NA<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 NA<br>
-
-**Taxes and other revenues**<br>
-NA<br>
-
-**Exports**<br>
-<p>NA</p><br>
-
-**Imports**<br>
-<p>$NA</p><br>
 
 **Exchange rates**<br>
 _Currency_: Norwegian kroner (NOK) per US dollar -<br>

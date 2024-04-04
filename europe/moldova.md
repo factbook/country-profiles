@@ -387,28 +387,31 @@ upper middle-income Eastern European economy; sustained growth reversed by COVID
 
 **Real GDP (purchasing power parity)**<br>
 $33.789 billion (2022 est.)<br>
-$36.637 billion (2021 est.)<br>
-$32.153 billion (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$35.573 billion (2021 est.)<br>
+$31.223 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-13.94% (2021 est.)<br>
--7.38% (2020 est.)<br>
-3.68% (2019 est.)<br>
+-5.02% (2022 est.)<br>
+13.93% (2021 est.)<br>
+-8.28% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $13,300 (2022 est.)<br>
-$14,000 (2021 est.)<br>
-$12,200 (2020 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$13,700 (2021 est.)<br>
+$11,800 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$11.982 billion (2019 est.)<br>
+$14.508 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+28.74% (2022 est.)<br>
 5.11% (2021 est.)<br>
 3.77% (2020 est.)<br>
-4.84% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2010)<br>
@@ -434,15 +437,18 @@ maize, wheat, sunflower seeds, grapes, apples, sugar beets, milk, potatoes, barl
 sugar processing, vegetable oil, food processing, agricultural machinery; foundry equipment, refrigerators and freezers, washing machines; hosiery, shoes, textiles<br>
 
 **Industrial production growth rate**<br>
--0.67% (2021 est.)<br>
+-10.43% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-810,000 (2021 est.)<br>
+1.486 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.96% (2021 est.)<br>
-3.82% (2020 est.)<br>
-5.1% (2019 est.)<br>
+0.91% (2022 est.)<br>
+0.79% (2021 est.)<br>
+1.21% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 8.6% (2021 est.)<br>
@@ -450,19 +456,23 @@ _male_: 5.3%<br>
 _female_: 14.7%<br>
 
 **Population below poverty line**<br>
-7.3% (2018 est.)<br>
+31.1% (2022 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-26 (2019 est.)<br>
+25.7 (2021 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4.2%<br>
-_highest 10%_: 22.1% (2014 est.)<br>
+_lowest 10%_: 4.3%<br>
+_highest 10%_: 22.1% (2021 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-15.24% of GDP (2021 est.)<br>
-15.82% of GDP (2020 est.)<br>
-15.95% of GDP (2019 est.)<br>
+14.04% of GDP (2022 est.)<br>
+15.48% of GDP (2021 est.)<br>
+16.27% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $3.582 billion (2019 est.)<br>
@@ -473,26 +483,29 @@ _expenditures_: $3.754 billion (2019 est.)<br>
 -0.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-33.01% of GDP (2020 est.)<br>
-24.95% of GDP (2019 est.)<br>
-27.02% of GDP (2018 est.)<br>
+34.52% of GDP (2022 est.)<br>
+32.12% of GDP (2021 est.)<br>
+33.96% of GDP (2020 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-17.41% (of GDP) (2020 est.)<br>
+18.94% (of GDP) (2022 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.699 billion (2021 est.)<br>
--$886.899 million (2020 est.)<br>
--$1.106 billion (2019 est.)<br>
+-$2,482,260,000 (2022 est.)<br>
+-$1,699,100,000 (2021 est.)<br>
+-$886.72 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$5.983 billion (2022 est.)<br>
+$5.981 billion (2022 est.)<br>
 $4.197 billion (2021 est.)<br>
 $3.222 billion (2020 est.)<br>
-<strong>note: </strong>data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Romania 24%, Russia 9%, Turkey 8%, Germany 7%, Italy 7% (2021)<br>
@@ -501,10 +514,10 @@ Romania 24%, Russia 9%, Turkey 8%, Germany 7%, Italy 7% (2021)<br>
 insulated wiring, sunflower seeds, wine, corn, seats (2021)<br>
 
 **Imports**<br>
-$10.082 billion (2022 est.)<br>
+$10.265 billion (2022 est.)<br>
 $7.915 billion (2021 est.)<br>
 $5.918 billion (2020 est.)<br>
-<strong>note: </strong>data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Romania 18%, Russia 13%, Ukraine 11%, China 9%, Germany 7% (2021)<br>
@@ -513,9 +526,10 @@ Romania 18%, Russia 13%, Ukraine 11%, China 9%, Germany 7% (2021)<br>
 refined petroleum, cars, insulated wiring, packaged medicines, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.902 billion (31 December 2021 est.)<br>
-$3.784 billion (31 December 2020 est.)<br>
-$3.06 billion (31 December 2019 est.)<br>
+$4.474 billion (2022 est.)<br>
+$3.902 billion (2021 est.)<br>
+$3.784 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $7.232 billion (2019 est.)<br>
@@ -523,11 +537,11 @@ $7.16 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Moldovan lei (MDL) per US dollar -<br>
+18.897 (2022 est.)<br>
 17.68 (2021 est.)<br>
 17.322 (2020 est.)<br>
 17.573 (2019 est.)<br>
 16.802 (2018 est.)<br>
-18.499 (2017 est.)<br>
 
 ## Energy
 

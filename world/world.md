@@ -288,30 +288,32 @@ _total World Heritage Sites_: 1199 (933 cultural, 227 natural, 39 mixed) (2023)<
 ## Economy
 
 **Real GDP (purchasing power parity)**<br>
-$134.08 trillion (2021 est.)<br>
-$126.51 trillion (2020 est.)<br>
-$130.445 trillion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$139.322 trillion (2022 est.)<br>
+$134.789 trillion (2021 est.)<br>
+$126.785 trillion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.87% (2021 est.)<br>
--3.12% (2020 est.)<br>
-2.59% (2019 est.)<br>
+3.09% (2022 est.)<br>
+6.2% (2021 est.)<br>
+-3.07% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$17,000 (2021 est.)<br>
+$17,500 (2022 est.)<br>
+$17,100 (2021 est.)<br>
 $16,200 (2020 est.)<br>
-$16,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$80.27 trillion (2017 est.) SGWP (gross world product)<br>
+$101.326 trillion (2022 est.) SGWP (gross world product)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-3.5% (2021 est.)<br>
-1.92% (2020 est.)<br>
-2.19% (2019 est.)<br>
-<strong>developed countries:</strong> 1.9% (2017 est.) 0.9% (2016 est.)<br><br><strong>developing countries: </strong>8.8% (2017 est.) 3.7% (2016 est.)<br><br><strong>note:</strong> the above estimates are weighted averages; inflation in developed countries is 0% to 4% typically, in developing countries, 4% to 10% typically; national inflation rates vary widely in individual cases; inflation rates have declined for most countries for the last several years, held in check by increasing international competition from several low wage countries and by soft demand due to the world financial crisis<br>
+7.97% (2022 est.)<br>
+3.47% (2021 est.)<br>
+1.94% (2020 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.4% (2017 est.)<br>
@@ -330,16 +332,18 @@ _imports of goods and services_: -28.3% (2017 est.)<br>
 <p>dominated by the onrush of technology, especially in computers, robotics, telecommunications, and medicines and medical equipment; most of these advances take place in OECD nations; only a small portion of non-OECD countries have succeeded in rapidly adjusting to these technological forces; the accelerated development of new technologies is complicating already grim environmental problems</p><br>
 
 **Industrial production growth rate**<br>
-6.13% (2021 est.)<br>
+2.77% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.463 billion (2021 est.)<br>
+3.553 billion (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.18% (2021 est.)<br>
-6.58% (2020 est.)<br>
-5.36% (2019 est.)<br>
-<strong>note:</strong> combined unemployment and underemployment in many non-industrialized countries; developed countries typically 4%-12% unemployment (2007 est.)<br>
+5.27% (2022 est.)<br>
+6.06% (2021 est.)<br>
+6.6% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 17.9% (2021 est.)<br>
@@ -354,9 +358,10 @@ _lowest 10%_: 2.6%<br>
 _highest 10%_: 30.2% (2008 est.)<br>
 
 **Remittances**<br>
-0.74% of GDP (2021 est.)<br>
+0.77% of GDP (2022 est.)<br>
+0.78% of GDP (2021 est.)<br>
 0.79% of GDP (2020 est.)<br>
-0.77% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $21.68 trillion (2017 est.)<br>
@@ -370,20 +375,23 @@ _expenditures_: $23.81 trillion (2017 est.)<br>
 67.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-13.55% (of GDP) (2020 est.)<br>
+14.39% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Exports**<br>
-$28.108 trillion (2021 est.)<br>
-$22.595 trillion (2020 est.)<br>
-$24.971 trillion (2019 est.)<br>
+$31.625 trillion (2022 est.)<br>
+$28.347 trillion (2021 est.)<br>
+$22.635 trillion (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - commodities**<br>
 the whole range of industrial and agricultural goods and services<br><br><strong>top ten - share of world trade:</strong> 14.8 electrical machinery, including computers; 14.4 mineral fuels, including oil, coal, gas, and refined products; 14.2 nuclear reactors, boilers, and parts; 8.9 cars, trucks, and buses; 3.5 scientific and precision instruments; 3.4 plastics; 2.7 iron and steel; 2.6 organic chemicals; 2.6 pharmaceutical products; 1.9 diamonds, pearls, and precious stones (2007 est.)<br>
 
 **Imports**<br>
-$27,120,162,000,000 (2021 est.)<br>
-$21,949,583,000,000 (2020 est.)<br>
-$24,418,208,000,000 (2019 est.)<br>
+$30.812 trillion (2022 est.)<br>
+$27.27 trillion (2021 est.)<br>
+$21.994 trillion (2020 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - commodities**<br>
 <p>the whole range of industrial and agricultural goods and services</p> <p><strong>top ten - share of world trade:</strong> see listing for exports</p><br>

@@ -397,30 +397,32 @@ _selected World Heritage Site locales_: Itchan Kala (c); Historic Bukhara (c); H
 lower middle-income Central Asian economy; CIS Free Trade Area member but no intention of EAEU membership; key natural gas, cotton, and gold exporter; landlocked and environmentally fragile; positive growth through COVID-19, but poverty increasing<br>
 
 **Real GDP (purchasing power parity)**<br>
-$270.062 billion (2021 est.)<br>
-$251.408 billion (2020 est.)<br>
-$246.753 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$287.795 billion (2022 est.)<br>
+$272.355 billion (2021 est.)<br>
+$253.582 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-7.42% (2021 est.)<br>
-1.89% (2020 est.)<br>
-5.71% (2019 est.)<br>
+5.67% (2022 est.)<br>
+7.4% (2021 est.)<br>
+2% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$7,700 (2021 est.)<br>
-$7,300 (2020 est.)<br>
-$7,300 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$8,100 (2022 est.)<br>
+$7,800 (2021 est.)<br>
+$7,400 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$57.789 billion (2019 est.)<br>
+$80.392 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+11.45% (2022 est.)<br>
 10.85% (2021 est.)<br>
 12.87% (2020 est.)<br>
-14.53% (2019 est.)<br>
-<strong>note:</strong> official data; based on independent analysis of consumer prices, inflation reached 22% in 2012<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2018)<br>
@@ -448,16 +450,18 @@ milk, wheat, potatoes, carrots/turnips, cotton, tomatoes, vegetables, grapes, on
 textiles, food processing, machine building, metallurgy, mining, hydrocarbon extraction, chemicals<br>
 
 **Industrial production growth rate**<br>
-8.37% (2021 est.)<br>
+5.48% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-14.094 million (2021 est.)<br>
+13.971 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.16% (2021 est.)<br>
-7.04% (2020 est.)<br>
-5.85% (2019 est.)<br>
-<strong>note:</strong> official data; another 20% are underemployed<br>
+4.51% (2022 est.)<br>
+5.42% (2021 est.)<br>
+5.29% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 16% (2021 est.)<br>
@@ -466,6 +470,7 @@ _female_: 16.2%<br>
 
 **Population below poverty line**<br>
 14.1% (2013 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 36.8 (2003 est.)<br>
@@ -479,9 +484,10 @@ _lowest 10%_: 2.8%<br>
 _highest 10%_: 29.6% (2003)<br>
 
 **Remittances**<br>
-13.28% of GDP (2021 est.)<br>
-11.65% of GDP (2020 est.)<br>
-14.26% of GDP (2019 est.)<br>
+20.82% of GDP (2022 est.)<br>
+13.33% of GDP (2021 est.)<br>
+11.76% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $16.197 billion (2019 est.)<br>
@@ -495,20 +501,23 @@ _expenditures_: $16.346 billion (2019 est.)<br>
 10.5% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-14.87% (of GDP) (2020 est.)<br>
+14.79% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$4.825 billion (2021 est.)<br>
--$3.007 billion (2020 est.)<br>
--$3.366 billion (2019 est.)<br>
+$1.55 billion (2022 est.)<br>
+-$4,893,938,000 (2021 est.)<br>
+-$3,027,885,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$16.399 billion (2021 est.) note: data are in current year dollars<br>
-$14.532 billion (2020 est.) note: data are in current year dollars<br>
-$16.993 billion (2019 est.) note: data are in current year dollars<br>
+$24.094 billion (2022 est.)<br>
+$16.443 billion (2021 est.) note: data are in current year dollars<br>
+$14.536 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Switzerland 19%, United Kingdom 17%, Russia 15%, China 14%, Kazakhstan 9%, Turkey 8%, Kyrgyzstan 5% (2019)<br>
@@ -517,9 +526,10 @@ Switzerland 19%, United Kingdom 17%, Russia 15%, China 14%, Kazakhstan 9%, Turke
 gold, natural gas, cotton fibers, copper, ethylene polymers (2019)<br>
 
 **Imports**<br>
-$27.774 billion (2021 est.) note: data are in current year dollars<br>
-$22.56 billion (2020 est.) note: data are in current year dollars<br>
-$26.551 billion (2019 est.) note: data are in current year dollars<br>
+$35.61 billion (2022 est.)<br>
+$27.936 billion (2021 est.) note: data are in current year dollars<br>
+$22.638 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 23%, Russia 18%, South Korea 11%, Kazakhstan 9%, Turkey 6%, Germany 5% (2019)<br>
@@ -528,9 +538,10 @@ China 23%, Russia 18%, South Korea 11%, Kazakhstan 9%, Turkey 6%, Germany 5% (20
 cars and vehicle parts, packaged medicines, refined petroleum, aircraft, construction vehicles (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$35.375 billion (31 December 2021 est.)<br>
-$34.903 billion (31 December 2020 est.)<br>
-$29.291 billion (31 December 2019 est.)<br>
+$35.774 billion (2022 est.)<br>
+$35.375 billion (2021 est.)<br>
+$34.903 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $16.9 billion (31 December 2017 est.)<br>
@@ -538,11 +549,11 @@ $16.76 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Uzbekistani soum (UZS) per US dollar -<br>
+11,050.145 (2022 est.)<br>
 10,609.464 (2021 est.)<br>
 10,054.261 (2020 est.)<br>
 8,836.788 (2019 est.)<br>
 8,069.606 (2018 est.)<br>
-5,113.879 (2017 est.)<br>
 
 ## Energy
 

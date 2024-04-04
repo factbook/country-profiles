@@ -360,29 +360,32 @@ _lyrics/music_: Sauni Liga KURESA<br>
 ower middle-income Pacific island economy; enormous fishing and agriculture industries; significant remittances; growing offshore financial hub; recently hosted Pacific Games to drive tourism and infrastructure growth<br>
 
 **Real GDP (purchasing power parity)**<br>
+$1.147 billion (2022 est.)<br>
 $1.211 billion (2021 est.)<br>
 $1.303 billion (2020 est.)<br>
-$1.345 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+-5.31% (2022 est.)<br>
 -7.08% (2021 est.)<br>
 -3.11% (2020 est.)<br>
-4.45% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$5,200 (2022 est.)<br>
 $5,500 (2021 est.)<br>
 $6,100 (2020 est.)<br>
-$6,300 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$841 million (2017 est.)<br>
+$832.945 million (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+10.96% (2022 est.)<br>
 3.13% (2021 est.)<br>
 -1.57% (2020 est.)<br>
-0.98% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 10.4% (2017 est.)<br>
@@ -404,16 +407,18 @@ coconuts, taro, bananas, yams, tropical fruit, pineapples, mangoes/guavas, papay
 food processing, building materials, auto parts<br>
 
 **Industrial production growth rate**<br>
--9.65% (2021 est.)<br>
+-0.18% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-58,400 (2021 est.)<br>
+75,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.84% (2021 est.)<br>
-9.15% (2020 est.)<br>
-8.41% (2019 est.)<br>
-NA<br>
+10.04% (2022 est.)<br>
+10.62% (2021 est.)<br>
+10.37% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 19.7% (2021 est.)<br>
@@ -421,19 +426,23 @@ _male_: 16.7%<br>
 _female_: 24.5%<br>
 
 **Population below poverty line**<br>
-20.3% (2013 est.)<br>
+21.9% (2018 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 38.7 (2013 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
+_lowest 10%_: 2.7% NA<br>
+_highest 10%_: 31.3% (2013 est.) NA<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+33.61% of GDP (2022 est.)<br>
 29.44% of GDP (2021 est.)<br>
 23.5% of GDP (2020 est.)<br>
-17% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $313 million (2020 est.)<br>
@@ -447,20 +456,23 @@ _expenditures_: $263 million (2020 est.)<br>
 52.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-24.42% (of GDP) (2020 est.)<br>
+25.02% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 June 1 - May 31<br>
 
 **Current account balance**<br>
--$118.081 million (2021 est.)<br>
--$79.68 million (2020 est.)<br>
-$34.073 million (2019 est.)<br>
+-$78.203 million (2022 est.)<br>
+-$114.383 million (2021 est.)<br>
+-$75.732 million (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$171.278 million (2022 est.)<br>
 $97.774 million (2021 est.) note: data are in current year dollars<br>
 $116.519 million (2020 est.)<br>
-$336.782 million (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 US 20%, New Zealand 16%, American Samoa 11%, Brazil 8%, Australia 7% (2021)<br>
@@ -469,9 +481,10 @@ US 20%, New Zealand 16%, American Samoa 11%, Brazil 8%, Australia 7% (2021)<br>
 coconut oil, insulated wiring, refined petroleum, integrated circuits, sardines, air pumps, tuna, lemons, beer (2021)<br>
 
 **Imports**<br>
+$512.002 million (2022 est.)<br>
 $430.011 million (2021 est.) note: data are in current year dollars<br>
 $376.791 million (2020 est.)<br>
-$456.707 million (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 New Zealand 24%, China 19%, Singapore 11%, US 8%, Australia 7% (2021)<br>
@@ -480,20 +493,21 @@ New Zealand 24%, China 19%, Singapore 11%, US 8%, Australia 7% (2021)<br>
 refined petroleum, poultry meats, iron, lumber, processed fish, cars (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$294.682 million (31 December 2021 est.)<br>
-$277.056 million (31 December 2020 est.)<br>
-$177.244 million (31 December 2019 est.)<br>
+$321.163 million (2022 est.)<br>
+$294.682 million (2021 est.)<br>
+$277.056 million (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $447.2 million (31 December 2013 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: tala (SAT) per US dollar -<br>
+2.689 (2022 est.)<br>
 2.556 (2021 est.)<br>
 2.665 (2020 est.)<br>
 2.649 (2019 est.)<br>
 2.587 (2018 est.)<br>
-2.554 (2017 est.)<br>
 
 ## Energy
 

@@ -395,29 +395,32 @@ _selected World Heritage Site locales_: Uvs Nuur Basin (n); Orkhon Valley Cultur
 lower middle-income East Asian economy; large human capital improvements over last 3 decades; agricultural and natural resource rich; export and consumption-led growth; high inflation due to supply bottlenecks and increased food and energy prices; currency depreciation<br>
 
 **Real GDP (purchasing power parity)**<br>
+$41.029 billion (2022 est.)<br>
 $39.063 billion (2021 est.)<br>
 $38.434 billion (2020 est.)<br>
-$40.27 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+5.03% (2022 est.)<br>
 1.64% (2021 est.)<br>
 -4.56% (2020 est.)<br>
-5.6% (2019 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$12,100 (2022 est.)<br>
 $11,700 (2021 est.)<br>
 $11,700 (2020 est.)<br>
-$12,500 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$11.14 billion (2017 est.)<br>
+$17.146 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+15.15% (2022 est.)<br>
 7.35% (2021 est.)<br>
 3.8% (2020 est.)<br>
-7.3% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2018)<br>
@@ -445,15 +448,18 @@ milk, wheat, goat milk, potatoes, mutton, sheep milk, beef, goat meat, horse mea
 construction and construction materials; mining (coal, copper, molybdenum, fluorspar, tin, tungsten, gold); oil; food and beverages; processing of animal products, cashmere and natural fiber manufacturing<br>
 
 **Industrial production growth rate**<br>
--2.22% (2021 est.)<br>
+-4.52% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.331 million (2021 est.)<br>
+1.389 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.08% (2021 est.)<br>
-7.01% (2020 est.)<br>
-5.44% (2019 est.)<br>
+6.21% (2022 est.)<br>
+7.75% (2021 est.)<br>
+6.59% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 21% (2021 est.)<br>
@@ -461,19 +467,23 @@ _male_: 20.1%<br>
 _female_: 22.4%<br>
 
 **Population below poverty line**<br>
-28.4% (2018 est.)<br>
+27.8% (2020 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 32.7 (2018 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 13.7%<br>
-_highest 10%_: 5.7% (2017)<br>
+_lowest 10%_: 3.3%<br>
+_highest 10%_: 25.7% (2018 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+2.33% of GDP (2022 est.)<br>
+3.08% of GDP (2021 est.)<br>
 4.12% of GDP (2020 est.)<br>
-3.95% of GDP (2019 est.)<br>
-3.34% of GDP (2018 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $3.699 billion (2020 est.)<br>
@@ -483,25 +493,29 @@ _expenditures_: $4.979 billion (2020 est.)<br>
 -6.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+67.57% of GDP (2021 est.)<br>
 73.94% of GDP (2020 est.)<br>
 60.84% of GDP (2019 est.)<br>
-65.97% of GDP (2018 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-14.15% (of GDP) (2020 est.)<br>
+16.91% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$2.108 billion (2021 est.)<br>
+-$2,303,499,000 (2022 est.)<br>
+-$2,108,440,000 (2021 est.)<br>
 -$674.612 million (2020 est.)<br>
--$2.162 billion (2019 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$10.989 billion (2022 est.)<br>
 $8.95 billion (2021 est.) note: data are in current year dollars<br>
 $7.646 billion (2020 est.) note: data are in current year dollars<br>
-$8.416 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 73%, Switzerland 19%, Singapore 2%, South Korea 2%, Russia 1% (2021)<br>
@@ -510,9 +524,10 @@ China 73%, Switzerland 19%, Singapore 2%, South Korea 2%, Russia 1% (2021)<br>
 copper, coal, gold, iron, animal hair, crude petroleum, zinc (2021)<br>
 
 **Imports**<br>
+$12.112 billion (2022 est.)<br>
 $9.256 billion (2021 est.) note: data are in current year dollars<br>
 $7.34 billion (2020 est.) note: data are in current year dollars<br>
-$9.249 billion (2019 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 37%, Russia 27%, Japan 7%, South Korea 5%, Germany 3% (2021)<br>
@@ -521,9 +536,10 @@ China 37%, Russia 27%, Japan 7%, South Korea 5%, Germany 3% (2021)<br>
 refined petroleum, cars, delivery trucks, trailers, electricity, iron (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$4.38 billion (31 December 2021 est.)<br>
-$4.545 billion (31 December 2020 est.)<br>
-$4.364 billion (31 December 2019 est.)<br>
+$3.398 billion (2022 est.)<br>
+$4.38 billion (2021 est.)<br>
+$4.545 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $29.945 billion (2019 est.)<br>
@@ -531,11 +547,11 @@ $28.046 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: togrog/tugriks (MNT) per US dollar -<br>
+3,140.678 (2022 est.)<br>
 2,849.289 (2021 est.)<br>
 2,813.29 (2020 est.)<br>
 2,663.541 (2019 est.)<br>
 2,472.484 (2018 est.)<br>
-2,439.777 (2017 est.)<br>
 
 ## Energy
 

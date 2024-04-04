@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>In 1783, the Sunni Al-KHALIFA family took power in Bahrain. In order to secure these holdings, it entered into a series of treaties with the UK during the 19th century that made Bahrain a British protectorate. The archipelago attained its independence in 1971. A steady decline in oil production and reserves since 1970 prompted Bahrain to take steps to diversify its economy, in the process developing petroleum processing and refining, aluminum production, and hospitality and retail sectors. It has also endeavored to become a leading regional banking center, especially with respect to Islamic finance. Bahrain's small size, central location among Gulf countries, economic dependence on Saudi Arabia, and proximity to Iran require it to play a delicate balancing act in foreign affairs among its larger neighbors. Its foreign policy activities usually fall in line with Saudi Arabia and the UAE. In 2022, the United States designated Bahrain as a major non-NATO ally.</p> <p>The Sunni royal family has long struggled to manage relations with its Shia-majority population. In early 2011, amid Arab uprisings elsewhere in the region, the Bahraini Government confronted similar pro-democracy and reform protests at home with police and military action, including deploying Gulf Cooperation Council security forces to Bahrain. Failed political talks prompted opposition political societies to boycott 2014 legislative and municipal council elections. In 2018, a law preventing members of political societies dissolved by the courts from participating in elections effectively sidelined the majority of opposition figures from taking part in national elections. As a result, most members of parliament are independents. Ongoing dissatisfaction with the political status quo continues to factor into sporadic clashes between demonstrators and security forces. On 15 September 2020, Bahrain and the United Arab Emirates signed peace agreements (the Abraham Accords) with Israel – brokered by the United States – in Washington DC. In 2023, Bahrain and the United States signed the Comprehensive Security Integration and Prosperity Agreement to enhance cooperation across a wide range of areas, from defense and security to emerging technology, trade, and investment.</p> <p> </p> <p> </p><br>
+<p>In 1783, the Sunni AL-KHALIFA family took power in Bahrain. In order to secure these holdings, it entered into a series of treaties with the UK during the 19th century that made Bahrain a British protectorate. The archipelago attained its independence in 1971. A steady decline in oil production and reserves since 1970 prompted Bahrain to take steps to diversify its economy, in the process developing petroleum processing and refining, aluminum production, and hospitality and retail sectors. It has also endeavored to become a leading regional banking center, especially with respect to Islamic finance. Bahrain's small size, central location among Gulf countries, economic dependence on Saudi Arabia, and proximity to Iran require it to play a delicate balancing act in foreign affairs among its larger neighbors. Its foreign policy activities usually fall in line with Saudi Arabia and the UAE. In 2022, the United States designated Bahrain as a major non-NATO ally.</p> <p>The Sunni royal family has long struggled to manage relations with its Shia-majority population. In 2011, amid Arab uprisings elsewhere in the region, the Bahraini Government responded to similar pro-democracy and reform protests at home with police and military action, including deploying Gulf Cooperation Council security forces. Ongoing dissatisfaction with the political status quo continues to factor into sporadic clashes between demonstrators and security forces. In 2020, Bahrain and the United Arab Emirates signed the US-brokered Abraham Accords with Israel. In 2023, Bahrain and the United States signed the Comprehensive Security Integration and Prosperity Agreement to enhance cooperation across a wide range of areas, from defense and security to emerging technology, trade, and investment.</p> <p> </p> <p> </p><br>
 
 ## Geography
 
@@ -380,29 +380,32 @@ _selected World Heritage Site locales_: Dilmun Burial Mounds; Qal'at al-Bahrain 
 growing, economically diverse Middle Eastern island economy; major recovery and balancing efforts to fulfill Economic Vision 2030; regional finance hub; increasing openness; high youth unemployment; water scarcity amid reservoir depletion<br>
 
 **Real GDP (purchasing power parity)**<br>
-$72.267 billion (2021 est.)<br>
-$70.694 billion (2020 est.)<br>
-$74.364 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$76.342 billion (2022 est.)<br>
+$72.803 billion (2021 est.)<br>
+$70.91 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.23% (2021 est.)<br>
--4.94% (2020 est.)<br>
-2.17% (2019 est.)<br>
+4.86% (2022 est.)<br>
+2.67% (2021 est.)<br>
+-4.64% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$49,400 (2021 est.)<br>
-$47,800 (2020 est.)<br>
-$49,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$51,900 (2022 est.)<br>
+$49,800 (2021 est.)<br>
+$48,000 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$38.472 billion (2019 est.)<br>
+$44.383 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.63% (2022 est.)<br>
 -0.61% (2021 est.)<br>
 -2.32% (2020 est.)<br>
-1.01% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2020)<br>
@@ -430,17 +433,18 @@ mutton, dates, milk, poultry, tomatoes, fruit, sheep offals, sheep skins, eggs, 
 petroleum processing and refining, aluminum smelting, iron pelletization, fertilizers, Islamic and offshore banking, insurance, ship repairing, tourism<br>
 
 **Industrial production growth rate**<br>
-0.4% (2021 est.)<br>
+1.21% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-819,100 (2021 est.)<br>
-<strong>note:</strong> excludes unemployed; 44% of the population in the 15-64 age group is non-national<br>
+844,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.87% (2021 est.)<br>
-1.78% (2020 est.)<br>
-1.2% (2019 est.)<br>
-<strong>note:</strong> official estimate; actual rate is higher<br>
+1.34% (2022 est.)<br>
+1.55% (2021 est.)<br>
+1.79% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.9% (2021 est.)<br>
@@ -476,15 +480,16 @@ _expenditures_: $12.63 billion (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$2.435 billion (2018 est.)<br>
--$1.6 billion (2017 est.)<br>
--$1.493 billion (2016 est.)<br>
+$6.839 billion (2022 est.)<br>
+$2.602 billion (2021 est.)<br>
+-$3.245 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$35.235 billion (2021 est.)<br>
-$30.097 billion (2018 est.)<br>
-$26.732 billion (2017 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$44.58 billion (2022 est.)<br>
+$35.653 billion (2021 est.)<br>
+$25.68 billion (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United Arab Emirates 17%, Saudi Arabia 16%, United States 7%, Japan 7%, India 4% (2021)<br>
@@ -493,10 +498,10 @@ United Arab Emirates 17%, Saudi Arabia 16%, United States 7%, Japan 7%, India 4%
 refined petroleum, aluminum, iron ore and reductions, aluminum wiring, crude petroleum (2021)<br>
 
 **Imports**<br>
-$27.577 billion (2021 est.)<br>
-$27.187 billion (2018 est.)<br>
-$23.876 billion (2017 est.)<br>
-<strong>note:</strong> data are in current year dollars<br>
+$33.066 billion (2022 est.)<br>
+$27.996 billion (2021 est.)<br>
+$23.728 billion (2020 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 United Arab Emirates 24%, Saudi Arabia 15%, Brazil 12%, China 9%, India 6% (2021)<br>
@@ -505,9 +510,10 @@ United Arab Emirates 24%, Saudi Arabia 15%, Brazil 12%, China 9%, India 6% (2021
 iron ore, jewelry, cars, floating platforms, refined petroleum, gold, broadcasting equipment (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$4.993 billion (31 December 2021 est.)<br>
-$2.523 billion (31 December 2020 est.)<br>
-$3.903 billion (31 December 2019 est.)<br>
+$4.775 billion (2022 est.)<br>
+$4.993 billion (2021 est.)<br>
+$2.523 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $52.15 billion (31 December 2017 est.)<br>
@@ -515,11 +521,11 @@ $42.55 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Bahraini dinars (BHD) per US dollar -<br>
+0.376 (2022 est.)<br>
 0.376 (2021 est.)<br>
 0.376 (2020 est.)<br>
 0.376 (2019 est.)<br>
 0.376 (2018 est.)<br>
-0.376 (2017 est.)<br>
 
 ## Energy
 

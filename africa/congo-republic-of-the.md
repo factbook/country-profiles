@@ -411,29 +411,32 @@ _selected World Heritage Site locales_: Sangha Trinational Forest; Forest Massif
 primarily an oil- and natural resources-based economy; recovery from mid-2010s oil devaluation has been slow and curtailed by COVID-19; extreme poverty increasing, particularly in southern rural regions; attempting to implement recommended CEMAC reforms; increasing likelihood of debt default<br>
 
 **Real GDP (purchasing power parity)**<br>
-$18.875 billion (2021 est.)<br>
-$19.3 billion (2020 est.)<br>
-$20.584 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$21.913 billion (2022 est.)<br>
+$21.594 billion (2021 est.)<br>
+$21.377 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--2.2% (2021 est.)<br>
--6.24% (2020 est.)<br>
--0.09% (2019 est.)<br>
+1.48% (2022 est.)<br>
+1.02% (2021 est.)<br>
+-6.27% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,200 (2021 est.)<br>
-$3,400 (2020 est.)<br>
-$3,700 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$3,700 (2022 est.)<br>
+$3,700 (2021 est.)<br>
+$3,700 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$8.718 billion (2017 est.)<br>
+$15.817 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.04% (2022 est.)<br>
 1.72% (2021 est.)<br>
 1.8% (2020 est.)<br>
-2.21% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2019)<br>
@@ -461,15 +464,18 @@ cassava, sugar cane, oil palm fruit, cassava leaves, bananas, plantains, roots/t
 petroleum extraction, cement, lumber, brewing, sugar, palm oil, soap, flour, cigarettes<br>
 
 **Industrial production growth rate**<br>
--7.91% (2021 est.)<br>
+-0.62% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.268 million (2021 est.)<br>
+2.384 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-23.01% (2021 est.)<br>
-22.84% (2020 est.)<br>
-20.62% (2019 est.)<br>
+20.48% (2022 est.)<br>
+22.62% (2021 est.)<br>
+22.67% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 42.3% (2021 est.)<br>
@@ -487,9 +493,10 @@ _lowest 10%_: 2.1%<br>
 _highest 10%_: 37.1% (2005)<br>
 
 **Remittances**<br>
-0.12% of GDP (2020 est.)<br>
-0.21% of GDP (2019 est.)<br>
-0.08% of GDP (2016 est.)<br>
+0% of GDP (2021 est.)<br>
+0.11% of GDP (2020 est.)<br>
+0.19% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $3.399 billion (2018 est.)<br>
@@ -503,7 +510,8 @@ _expenditures_: $2.628 billion (2018 est.)<br>
 128.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-8.95% (of GDP) (2020 est.)<br>
+8.32% (of GDP) (2020 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -512,11 +520,12 @@ calendar year<br>
 $1.441 billion (2020 est.)<br>
 $1.632 billion (2019 est.)<br>
 -$3.596 billion (2016 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $4.67 billion (2020 est.)<br>
 $7.855 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 49%, United Arab Emirates 15%, India 6%, Italy 5% (2019)<br>
@@ -527,6 +536,7 @@ copper, crude petroleum, refined petroleum, lumber, tin (2021)<br>
 **Imports**<br>
 $3.279 billion (2020 est.)<br>
 $4.945 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 15%, France 12%, Belgium 6%, Angola 5% (2019)<br>
@@ -535,9 +545,10 @@ China 15%, France 12%, Belgium 6%, Angola 5% (2019)<br>
 ships, chicken products, refined petroleum, processed fish, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$988.316 million (31 December 2019 est.)<br>
-$423.617 million (31 December 2018 est.)<br>
-$379.984 million (31 December 2017 est.)<br>
+$828.56 million (2021 est.)<br>
+$1.141 billion (2020 est.)<br>
+$988.316 million (2019 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $4.605 billion (31 December 2017 est.)<br>
@@ -545,11 +556,11 @@ $4.721 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
 555.446 (2018 est.)<br>
-580.657 (2017 est.)<br>
 
 ## Energy
 
@@ -666,8 +677,8 @@ _total_: 510 km (2014)<br>
 _narrow gauge_: 510 km (2014) 1.067-m gauge<br>
 
 **Roadways**<br>
-_total_: 23,324 km (2017)<br>
-_paved_: 3,111 km (2017)<br>
+_total_: 23,324 km<br>
+_paved_: 3,111 km<br>
 _unpaved_: 20,213 km (2017)<br>
 <strong>note:</strong> road network in Congo is composed of 23,324 km of which 17,000 km are classified as national, departmental, and routes of local interest: 6,324 km are non-classified routes<br>
 
@@ -715,7 +726,7 @@ the FAC is viewed as having limited capabilities due to obsolescent and poorly m
 <p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 33,892 (Central African Republic), 29,465 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
+_refugees (country of origin)_: 33,593 (Central African Republic), 29,785 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
 _IDPs_: 27,000 (multiple civil wars since 1992) (2022)<br>
 
 **Trafficking in persons**<br>

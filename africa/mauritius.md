@@ -374,29 +374,32 @@ _selected World Heritage Site locales_: Aapravasi Ghat; Le Morne Cultural Landsc
 upper middle-income Indian Ocean island economy; diversified portfolio; investing in maritime security; strong tourism sector decimated by COVID-19; expanding in information and financial services; environmentally fragile<br>
 
 **Real GDP (purchasing power parity)**<br>
-$26.547 billion (2021 est.)<br>
-$25.599 billion (2020 est.)<br>
-$29.974 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$28.838 billion (2022 est.)<br>
+$26.486 billion (2021 est.)<br>
+$25.614 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.7% (2021 est.)<br>
--14.6% (2020 est.)<br>
-2.89% (2019 est.)<br>
+8.88% (2022 est.)<br>
+3.4% (2021 est.)<br>
+-14.55% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$21,000 (2021 est.)<br>
+$22,800 (2022 est.)<br>
+$20,900 (2021 est.)<br>
 $20,200 (2020 est.)<br>
-$23,700 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$14.004 billion (2019 est.)<br>
+$12.949 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+10.77% (2022 est.)<br>
 4.03% (2021 est.)<br>
 2.58% (2020 est.)<br>
-0.41% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Baa1 (2012)<br>
@@ -422,15 +425,18 @@ sugar cane, poultry, pumpkins, gourds, potatoes, eggs, tomatoes, pineapples, ban
 food processing (largely sugar milling), textiles, clothing, mining, chemicals, metal products, transport equipment, nonelectrical machinery, tourism<br>
 
 **Industrial production growth rate**<br>
-20.88% (2021 est.)<br>
+6.74% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-597,900 (2021 est.)<br>
+583,000 (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.41% (2021 est.)<br>
-7.41% (2020 est.)<br>
-6.33% (2019 est.)<br>
+6.32% (2022 est.)<br>
+7.72% (2021 est.)<br>
+8.63% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 25.3% (2021 est.)<br>
@@ -439,18 +445,22 @@ _female_: 32.9%<br>
 
 **Population below poverty line**<br>
 10.3% (2017 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 36.8 (2017 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
+_lowest 10%_: 2.9%<br>
+_highest 10%_: 29.9% (2017 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.36% of GDP (2021 est.)<br>
+2.11% of GDP (2022 est.)<br>
+2.37% of GDP (2021 est.)<br>
 2.5% of GDP (2020 est.)<br>
-2.21% of GDP (2019 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $2.461 billion (2020 est.)<br>
@@ -463,22 +473,26 @@ _expenditures_: $3.675 billion (2020 est.)<br>
 57.96% of GDP (2019 est.)<br>
 55.38% of GDP (2018 est.)<br>
 56.16% of GDP (2017 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-20.72% (of GDP) (2020 est.)<br>
+19.02% (of GDP) (2022 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$1.527 billion (2021 est.)<br>
--$1.003 billion (2020 est.)<br>
--$718.495 million (2019 est.)<br>
+-$1,486,146,000 (2022 est.)<br>
+-$1,496,640,000 (2021 est.)<br>
+-$1,002,712,000 (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$3.198 billion (2021 est.) note: data are in current year dollars<br>
+$5.005 billion (2022 est.)<br>
+$3.194 billion (2021 est.) note: data are in current year dollars<br>
 $3.088 billion (2020 est.) note: data are in current year dollars<br>
-$5.258 billion (2019 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 France 10%, South Africa 10%, United States 10%, United Kingdom 8%, Zambia 7%, Madagascar 6% (2019)<br>
@@ -487,9 +501,10 @@ France 10%, South Africa 10%, United States 10%, United Kingdom 8%, Zambia 7%, M
 clothing and apparel, skipjack and tuna, raw sugar, fertilizers, diamonds (2021)<br>
 
 **Imports**<br>
-$6.082 billion (2021 est.) note: data are in current year dollars<br>
+$8.037 billion (2022 est.)<br>
+$6.057 billion (2021 est.) note: data are in current year dollars<br>
 $5.222 billion (2020 est.) note: data are in current year dollars<br>
-$7.365 billion (2019 est.)<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 15%, India 13%, France 10%, South Africa 8%, United Arab Emirates 7% (2019)<br>
@@ -498,9 +513,10 @@ China 15%, India 13%, France 10%, South Africa 8%, United Arab Emirates 7% (2019
 refined petroleum, cars, fish products, aircraft, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$8.563 billion (31 December 2021 est.)<br>
-$7.291 billion (31 December 2020 est.)<br>
-$7.362 billion (31 December 2019 est.)<br>
+$7.793 billion (2022 est.)<br>
+$8.563 billion (2021 est.)<br>
+$7.291 billion (2020 est.)<br>
+note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $226.799 billion (2019 est.)<br>
@@ -508,11 +524,11 @@ $232.17 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Mauritian rupees (MUR) per US dollar -<br>
+44.183 (2022 est.)<br>
 41.692 (2021 est.)<br>
 39.347 (2020 est.)<br>
 35.474 (2019 est.)<br>
 33.934 (2018 est.)<br>
-34.481 (2017 est.)<br>
 
 ## Energy
 

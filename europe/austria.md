@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Once the center of power for the large Austro-Hungarian Empire, Austria was reduced to a small republic after its defeat in World War I. Following annexation by Nazi Germany in 1938 and subsequent occupation by the victorious Allies in 1945, Austria's status remained unclear for a decade. A State Treaty signed in 1955 ended the occupation, recognized Austria's independence, and forbade unification with Germany. A constitutional law that same year declared the country's "perpetual neutrality" as a condition for Soviet military withdrawal. The Soviet Union's collapse in 1991 and Austria's entry into the EU in 1995 somewhat altered the meaning of this neutrality. A prosperous, democratic country, Austria entered the EU Economic and Monetary Union in 1999.<br>
+Once the center of power for the large Austro-Hungarian Empire, Austria was reduced to a small republic after its defeat in World War I. Nazi Germany annexed Austria in 1938, and the victorious Allies then occupied the country in 1945. As a result, Austria's status remained unclear for a decade after World War II, until a State Treaty signed in 1955 ended the occupation, recognized Austria's independence, and forbade unification with Germany. A constitutional law that same year declared the country's "perpetual neutrality" as a condition for Soviet military withdrawal. Austria joined the EU in 1995, but the obligation to remain neutral kept it from joining NATO, although the country became a member of NATO's Partnership for Peace program in 1995. Austria entered the EU Economic and Monetary Union in 1999.<br>
 
 ## Geography
 
@@ -399,29 +399,32 @@ _selected World Heritage Site locales_: Historic Salzburg (c); Palace and Garden
 one of the strongest EU and euro economies; diversified trade portfolios and relations; enormous trade economy; Russian energy dependence, but investing in alternative energy; aging labor force but large refugee population; large government debt<br>
 
 **Real GDP (purchasing power parity)**<br>
-$484.698 billion (2021 est.)<br>
-$463.574 billion (2020 est.)<br>
-$495.557 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$505.143 billion (2022 est.)<br>
+$481.977 billion (2021 est.)<br>
+$462.382 billion (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.56% (2021 est.)<br>
--6.45% (2020 est.)<br>
-1.52% (2019 est.)<br>
+4.81% (2022 est.)<br>
+4.24% (2021 est.)<br>
+-6.63% (2020 est.)<br>
+note: annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$54,100 (2021 est.)<br>
-$52,000 (2020 est.)<br>
-$55,800 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+$55,900 (2022 est.)<br>
+$53,800 (2021 est.)<br>
+$51,900 (2020 est.)<br>
+note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$445.025 billion (2019 est.)<br>
+$470.942 billion (2022 est.)<br>
+note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.55% (2022 est.)<br>
 2.77% (2021 est.)<br>
 1.38% (2020 est.)<br>
-1.53% (2019 est.)<br>
+note: annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA+ (2015)<br>
@@ -449,15 +452,18 @@ milk, maize, sugar beet, wheat, barley, potatoes, pork, triticale, grapes, apple
 construction, machinery, vehicles and parts, food, metals, chemicals, lumber and paper, electronics, tourism<br>
 
 **Industrial production growth rate**<br>
-6.77% (2021 est.)<br>
+3.03% (2022 est.)<br>
+note: annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.661 million (2021 est.)<br>
+4.762 million (2022 est.)<br>
+note: number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.3% (2021 est.)<br>
-5.36% (2020 est.)<br>
-4.49% (2019 est.)<br>
+4.99% (2022 est.)<br>
+6.46% (2021 est.)<br>
+5.2% (2020 est.)<br>
+note: % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.4% (2021 est.)<br>
@@ -465,10 +471,12 @@ _male_: 11.5%<br>
 _female_: 11.3%<br>
 
 **Population below poverty line**<br>
-13.3% (2018 est.)<br>
+14.8% (2021 est.)<br>
+note: % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-30.2 (2019 est.)<br>
+29.8 (2020 est.)<br>
+note: index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 9.8% of household expenditures (2018 est.)<br>
@@ -476,12 +484,14 @@ _on alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
-_highest 10%_: 23.5% (2012 est.)<br>
+_highest 10%_: 23.1% (2020 est.)<br>
+note: % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.66% of GDP (2021 est.)<br>
-0.69% of GDP (2020 est.)<br>
-0.67% of GDP (2019 est.)<br>
+0.62% of GDP (2022 est.)<br>
+0.67% of GDP (2021 est.)<br>
+0.7% of GDP (2020 est.)<br>
+note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $218.48 billion (2019 est.)<br>
@@ -491,27 +501,29 @@ _expenditures_: $215.485 billion (2019 est.)<br>
 -0.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+94.53% of GDP (2021 est.)<br>
 99.91% of GDP (2020 est.)<br>
-83.05% of GDP (2019 est.)<br>
-84.16% of GDP (2018 est.)<br>
-<strong>note:</strong> this is general government gross debt, defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year; it covers the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises the sub-sectors of central government, state government, local government and social security funds; as a percentage of GDP, the GDP used as a denominator is the gross domestic product in current year prices<br>
+83.1% of GDP (2019 est.)<br>
+note: central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-24.19% (of GDP) (2020 est.)<br>
+25.84% (of GDP) (2021 est.)<br>
+note: central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$1.627 billion (2021 est.)<br>
-$12.897 billion (2020 est.)<br>
-$10.636 billion (2019 est.)<br>
+-$1.29 billion (2022 est.)<br>
+$7.77 billion (2021 est.)<br>
+$14.913 billion (2020 est.)<br>
+note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$268.277 billion (2021 est.)<br>
-$224.734 billion (2020 est.)<br>
-$247.738 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$292.012 billion (2022 est.)<br>
+$267.791 billion (2021 est.)<br>
+$224.242 billion (2020 est.)<br>
+note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Germany 28%, United States 7%, Italy 6%, Switzerland 5% (2019)<br>
@@ -520,9 +532,10 @@ Germany 28%, United States 7%, Italy 6%, Switzerland 5% (2019)<br>
 vaccines and cultures, cars, packaged medicines, vehicle parts, broadcasting equipment (2021)<br>
 
 **Imports**<br>
-$265.769 billion (2021 est.) note: data are in current year dollars<br>
-$211.736 billion (2020 est.) note: data are in current year dollars<br>
-$231.992 billion (2019 est.) note: data are in current year dollars<br>
+$290.277 billion (2022 est.)<br>
+$264.231 billion (2021 est.) note: data are in current year dollars<br>
+$209.817 billion (2020 est.) note: data are in current year dollars<br>
+note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Germany 39%, Italy 7%, Czechia 5% (2019)<br>
@@ -531,9 +544,10 @@ Germany 39%, Italy 7%, Czechia 5% (2019)<br>
 cars, vehicle parts, broadcasting equipment, refined petroleum, packaged medical supplies (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$33.957 billion (31 December 2021 est.)<br>
-$30.44 billion (31 December 2020 est.)<br>
-$23.616 billion (31 December 2019 est.)<br>
+$33.078 billion (2022 est.)<br>
+$33.957 billion (2021 est.)<br>
+$30.44 billion (2020 est.)<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $688.434 billion (2019 est.)<br>
@@ -541,11 +555,11 @@ $686.196 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
 0.847 (2018 est.)<br>
-0.885 (2017 est.)<br>
 
 ## Energy
 
