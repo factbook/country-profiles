@@ -332,8 +332,8 @@ _election results_: <br><em>2022</em>: José RAMOS-HORTA elected president in se
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (65 seats; members directly elected in a single nationwide constituency by closed, party-list proportional representation vote using the D'Hondt method to serve 5-year terms)<br>
-_elections_: last held May 2023 (next to be held in May 2028)<br>
-_election results_: percent of vote by party in 2023 elections - CNRT 41.5%, FRETILIN 25.8%, PD 9.3%, KHUNTO 7.5%, PLP 6%, other 9.9%; seats by party - CNRT 31, FRETILIN 19, PD 6, KHUNTO 5, PLP 4; note - 12 other parties received votes, but won no seats; composition - men 41, women 24; percent women 36.9%<br><br>percent of vote by party in 2018 elections - AMP 49.6%, FRETILIN 34.2%, PD 8.1%, DDF 5.5%, other 2.6%; seats by party - AMP 34, FRETILIN 23, PD 5, DDF 3; composition - men 39, women 26, percent of women 40%; note - AMP (Alliance for Change and Progress) was a coalition of CNRT, PLP, and KHUNTO which dissolved in May of 2020<br>
+_elections_: last held on 21 May 2023 (next to be held in May 2028)<br>
+_election results_: percent of vote by party - CNRT 41.5%, FRETILIN 25.8%, PD 9.3%, KHUNTO 7.5%, PLP 6%, other 9.9%; seats by party - CNRT 31, FRETILIN 19, PD 6, KHUNTO 5, PLP 4; note - 12 other parties received votes, but won no seats; composition - men 41, women 24; percent women 36.9%<br><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeals (consists of the court president and NA judges)<br>
@@ -490,8 +490,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $1.858 billion (2022 est.)<br>
-$2.772 billion (2021 est.) note: data are in current year dollars<br>
-$1.598 billion (2020 est.) note: data are in current year dollars<br>
+$2.772 billion (2021 est.)<br>
+$1.598 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -502,8 +502,8 @@ crude petroleum, natural gas, coffee, various vegetables, scrap iron (2019)<br>
 
 **Imports**<br>
 $1.396 billion (2022 est.)<br>
-$1.298 billion (2021 est.) note: data are in current year dollars<br>
-$1.486 billion (2020 est.) note: data are in current year dollars<br>
+$1.298 billion (2021 est.)<br>
+$1.486 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -631,8 +631,8 @@ _inventory of registered aircraft operated by air carriers_: 2<br>
 2 (2024)<br>
 
 **Roadways**<br>
-_total_: 6,040 km (2008)<br>
-_paved_: 2,600 km (2008)<br>
+_total_: 6,040 km<br>
+_paved_: 2,600 km<br>
 _unpaved_: 3,440 km (2008)<br>
 
 **Merchant marine**<br>

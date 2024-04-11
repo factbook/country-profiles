@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-In the early 1800s, multiple political entities in what is now Botswana were destabilized or destroyed by a series of conflicts and population movements in southern Africa. By the end of this period, the Tswana ethnic group, who also live across the border in South Africa, had become the most prominent group in the area. In 1852, Tswana forces halted the expansion of white Afrikaner settlers who were seeking to expand their territory northwards into what is now Botswana. In 1885, Great Britain claimed territory that roughly corresponds with modern day Botswana as a protectorate called Bechuanaland. Upon independence in 1966, the British protectorate of Bechuanaland adopted the new name of Botswana, which means land of the Tswana. More than five decades of uninterrupted civilian leadership, progressive social policies, and significant capital investment have created an enduring democracy and upper-middle-income economy. The ruling Botswana Democratic Party has won every national election since independence; President Mokgweetsi Eric Keabetswe MASISI assumed the presidency in 2018 following the retirement of former President Ian KHAMA due to constitutional term limits. MASISI won his first election as president in 2019, and he is Botswana’s fifth president since independence. Mineral extraction, principally diamond mining, dominates economic activity, though tourism is a growing sector due to the country's conservation practices and extensive nature preserves. Botswana has one of the world's highest rates of HIV/AIDS infection but also one of Africa's most progressive and comprehensive programs for dealing with the disease. <p> </p> <p> </p><br>
+In the early 1800s, multiple political entities in what is now Botswana were destabilized or destroyed by a series of conflicts and population movements in southern Africa. By the end of this period, the Tswana ethnic group, who also live across the border in South Africa, had become the most prominent group in the area. In 1852, Tswana forces halted the expansion of white Afrikaner settlers who were seeking to expand their territory northwards into what is now Botswana. In 1885, Great Britain claimed territory that roughly corresponds with modern day Botswana as a protectorate called Bechuanaland. Upon independence in 1966, the British protectorate of Bechuanaland adopted the new name of Botswana, which means "land of the Tswana." <br><br>More than five decades of uninterrupted civilian leadership, progressive social policies, and significant capital investment have created an enduring democracy and upper-middle-income economy. The ruling Botswana Democratic Party has won every national election since independence; President Mokgweetsi Eric Keabetswe MASISI assumed the presidency in 2018 after the retirement of former President Ian KHAMA due to constitutional term limits. MASISI won his first election as president in 2019, and he is Botswana’s fifth president since independence. Mineral extraction, principally diamond mining, dominates economic activity, though tourism is a growing sector due to the country's conservation practices and extensive nature preserves. Botswana has one of the world's highest rates of HIV/AIDS infection but also one of Africa's most progressive and comprehensive programs for dealing with the disease. <p> </p> <p> </p><br>
 
 ## Geography
 
@@ -509,7 +509,7 @@ note: central government tax revenue as a % of GDP<br>
 **Current account balance**<br>
 $606.394 million (2022 est.)<br>
 -$250.118 million (2021 est.)<br>
--$1,531,276,000 (2020 est.)<br>
+-$1.531 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
@@ -526,8 +526,8 @@ diamonds, insulated wiring, copper, beef, gold (2021)<br>
 
 **Imports**<br>
 $8.7 billion (2022 est.)<br>
-$9.252 billion (2021 est.) note: data are in current year dollars<br>
-$7.554 billion (2020 est.) note: data are in current year dollars<br>
+$9.252 billion (2021 est.)<br>
+$7.554 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -540,7 +540,7 @@ diamonds, refined petroleum, cars, delivery trucks, electricity (2019)<br>
 $4.279 billion (2022 est.)<br>
 $4.802 billion (2021 est.)<br>
 $4.941 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2.187 billion (31 December 2017 est.)<br>
@@ -692,7 +692,7 @@ the BDF has a mix of mostly older weapons and equipment, largely of Western/Euro
 18 is the legal minimum age for voluntary military service for men and women; no conscription (2023)<br>
 
 **Military deployments**<br>
-approximately 300 Mozambique (Southern African Development Community force) (2023)<br>
+approximately 300 Mozambique (Southern African Development Community force; the mission is scheduled to end by mid-2024) (2024)<br>
 
 **Military - note**<br>
 the BDF’s key functions include defending the country's territorial integrity on land and in the air, ensuring national security and stability, and aiding civil authorities in support of domestic missions such as disaster relief and anti-poaching; it participates in regional and international security operations; the Ground Force has five small brigades of infantry, light armor, and artillery, plus commandos and a marine unit with boats and river craft for patrolling Botswana's internal waterways and supporting anti-poaching operations; the Air Arm has a small squadron of ageing fighters, as well as some multipurpose helicopters<br><br>Bechuanaland/Botswana did not have a permanent military during colonial times, with the British colonial administrators relying instead on small, lightly armed constabularies such as the Bechuanaland Mounted Police, the Bechuanaland Border Police, and by the early 1960s, the Police Mobile Unit (PMU); after independence in 1966, Botswana militarized the PMU and gave it responsibility for the country’s defense rather than create a conventional military force; however, turmoil in neighboring countries and numerous cross-border incursions by Rhodesian and South African security forces in the 1960s and 1970s demonstrated that the PMU was inadequate for defending the country and led to the establishment of the Botswana Defense Force (BDF) in 1977 (2023)<br>

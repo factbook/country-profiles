@@ -470,9 +470,9 @@ note: central government tax revenue as a % of GDP<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$357 million (2021 est.)<br>
 $2.228 billion (2017 est.)<br>
 $2.41 billion (2016 est.)<br>
+$2.358 billion (2015 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>

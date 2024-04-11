@@ -306,7 +306,7 @@ _election results_: Christine KANGALOO elected president by the electoral colleg
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (31 seats; 16 members appointed by the ruling party, 9 by the president, and 6 by the opposition party; members serve 5-year terms;)<br>House of Representatives (42 seats; 41 members directly elected in single-seat constituencies by simple majority vote and the house speaker - usually designated from outside Parliament; members serve 5-year terms)<br>
 _elections_: Senate - last appointments on 28 August 2020 (next appointments in August 2025)<br>House of Representatives - last held on 10 August 2020 (next to be held in 2025)<br>
-_election results_: Senate - percent by party - NA; seats by party - NA; composition as of May 2020 - men 18, women 13, percent of women 41.9%<br>House of Representatives - percent by party - NA; seats by party - PNM 22, UNC 19; composition - as of May 2022 - men 31, women 11, percent of women 26.2%; note - overall Parliament percent of women 32.9%<br>
+_election results_: <br>Senate - percent by party - NA; seats by party - NA; composition as of February 2024 - men 19, women 13, percent of women 40.6%<br><br>House of Representatives - percent by party - NA; seats by party - PNM 22, UNC 19; composition as of February 2024 - men 30, women 12, percent of women 28.6%; note - overall Parliament percent of women 33.8%<br>
 <strong>note:</strong> Tobago has a unicameral House of Assembly (19 seats; 15 assemblymen directly elected by simple majority vote and 4 appointed councilors - 3 on the advice of the chief secretary and 1 on the advice of the minority leader; members serve 4-year terms)<br>
 
 **Judicial branch**<br>
@@ -457,13 +457,13 @@ note: central government tax revenue as a % of GDP<br>
 **Current account balance**<br>
 $5.382 billion (2022 est.)<br>
 $2.695 billion (2021 est.)<br>
--$1,356,411,000 (2020 est.)<br>
+-$1.356 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $17.584 billion (2022 est.)<br>
-$11.542 billion (2021 est.) note: data are in current year dollars<br>
-$6.44 billion (2020 est.) note: data are in current year dollars<br>
+$11.542 billion (2021 est.)<br>
+$6.44 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -474,8 +474,8 @@ ammonia, industrial alcohols, natural gas, crude petroleum, iron products, ferti
 
 **Imports**<br>
 $10.694 billion (2022 est.)<br>
-$8.636 billion (2021 est.) note: data are in current year dollars<br>
-$6.785 billion (2020 est.) note: data are in current year dollars<br>
+$8.636 billion (2021 est.)<br>
+$6.785 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -488,7 +488,7 @@ refined petroleum, iron, excavation machinery, ships, cars (2021)<br>
 $6.832 billion (2022 est.)<br>
 $6.88 billion (2021 est.)<br>
 $6.954 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $8.238 billion (31 December 2017 est.)<br>

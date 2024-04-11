@@ -319,15 +319,15 @@ _residency requirement for naturalization_: 4 of the previous 8 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Michael D. HIGGINS (since 11 November 2011)<br>
-_head of government_: Taoiseach (Prime Minister) Leo VARADKAR (since 16 December 2022); note - VARADKAR resigned on 20 March 2024 but remains in caretaker status until a successor is appointed<br>
+_head of government_: Taoiseach (Prime Minister) Simon HARRIS (since 9 April 2024); note - Taoiseach Leo VARADKAR resigned from the ruling party on 20 March 2024 but remained as the caretaker taoiseach until a successor was appointed<br>
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)<br>
 _elections/appointments_: president directly elected by majority popular vote for a 7-year term (eligible for a second term); election last held on 26 October 2018 (next to be held no later than November 2025); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president<br>
-_election results_: <em><br>2018:</em> Michael D. HIGGINS reelected president in first round; percent of vote in first round - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%<br><br><em>2011: </em>Michael D. HIGGINS elected president in second round; percent of vote in first round - Michael D. HIGGINS (Labor) 39.6%, Sean GALLAGHER (independent) 28.5%, Martin McGuinness (Sinn Féin) 13.7%, Gay Mitchell (Fine Gael) 6.4%, David Norris (independent) 6.2%, Mary DAVIS (independent) 2.7%; percent of vote in second round - Michael D. HIGGINS 56.8%, Sean GALLAGHER 35.5%<br>
+_election results_: <em><br>2024: </em>Simon HARRIS is elected taoiseach by parliament, 88 votes to 69, and is appointed taoiseach by the president<em><br><br>2018:</em> Michael D. HIGGINS reelected president in first round; percent of vote in first round - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%<br><br><em>2011: </em>Michael D. HIGGINS elected president in second round; percent of vote in first round - Michael D. HIGGINS (Labor) 39.6%, Sean GALLAGHER (independent) 28.5%, Martin McGuinness (Sinn Féin) 13.7%, Gay Mitchell (Fine Gael) 6.4%, David Norris (independent) 6.2%, Mary DAVIS (independent) 2.7%; percent of vote in second round - Michael D. HIGGINS 56.8%, Sean GALLAGHER 35.5%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Oireachtas consists of:<br>Senate or Seanad Eireann (60 seats; 49 members indirectly elected from 5 vocational panels of nominees by an electoral college, 11 appointed by the prime minister<br>House of Representatives or Dail Eireann (160 seats; members directly elected in multi-seat constituencies by proportional representation vote; all Parliament members serve 5-year terms)<br>
 _elections_: <br>Senate - last held early on 21-30 May 2020 (next to be held in March 2025)<br>House of Representatives - last held on 8 February 2020 (next to be held no later than March 2025)<br>
-_election results_: <strong> </strong><br>Senate - percent of vote by party - Fianna Fail 35%, Fine Gael 26.7%, Green Party 6.7%<strong>, </strong>Labor Party 6.7%, Sinn Fein 6.7%, other 1.6%, independent 16.7%; seats by party - Fianna Fail 21, Fine Gael 16, Green Party 4<strong>, </strong>Labor Party 4, Sinn Fein 4, other 1, independent 10; composition - men 36, women 24, percent of women 40%  <br>House of Representatives - percent of vote by party - Fianna Fail 23.8%, Sinn Fein 23.1%, Fine Gael 21.9%, Green Party 7.5%, other 11.8%, independent 11.9%; seats by party - Fianna Fail 38, Sinn Fein 37, Fine Gael 35, Green Party 12, Labor Party 6, Social Democrats 6, PBPS 5, other 2, independent 19; composition as of March 2022 - men 123, women 37, percent of women 23.1%; note - total Parliament percent of women 27.7%<br>
+_election results_: <strong> </strong><br>Senate - percent of vote by party - Fianna Fail 35%, Fine Gael 26.7%, Green Party 6.7%<strong>, </strong>Labor Party 6.7%, Sinn Fein 6.7%, other 1.6%, independent 16.7%; seats by party - Fianna Fail 21, Fine Gael 16, Green Party 4<strong>, </strong>Labor Party 4, Sinn Fein 4, other 1, independent 10; composition as of February 2024 - men 36, women 24, percent of women 40%<br><br>House of Representatives - percent of vote by party - Fianna Fail 23.8%, Sinn Fein 23.1%, Fine Gael 21.9%, Green Party 7.5%, other 11.8%, independent 11.9%; seats by party - Fianna Fail 38, Sinn Fein 37, Fine Gael 35, Green Party 12, Labor Party 6, Social Democrats 6, PBPS 5, other 2, independent 19; composition as of February 2024 - men 123, women 37, percent of women 23.1%; note - total Parliament percent of women 27.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Ireland (consists of the chief justice, 9 judges, 2 ex-officio members - the presidents of the High Court and Court of Appeal - and organized in 3-, 5-, or 7-judge panels, depending on the importance or complexity of an issue of law)<br>
@@ -500,8 +500,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $729.135 billion (2022 est.)<br>
-$685.814 billion (2021 est.) note: data are in current year dollars<br>
-$571.051 billion (2020 est.) note: data are in current year dollars<br>
+$685.814 billion (2021 est.)<br>
+$571.051 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -512,8 +512,8 @@ vaccines and cultures, packaged medicines, nitrogen compounds, integrated circui
 
 **Imports**<br>
 $516.084 billion (2022 est.)<br>
-$479.284 billion (2021 est.) note: data are in current year dollars<br>
-$488.823 billion (2020 est.) note: data are in current year dollars<br>
+$479.284 billion (2021 est.)<br>
+$488.823 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -693,7 +693,7 @@ the Irish Defense Forces have a small inventory of imported weapons systems from
 <strong>note:</strong> as of 2023, women made up about 7% of the military's full-time personnel<br><br><strong>note 2:</strong> the Defense Forces are open to refugees under the Refugee Act of 1996 and nationals of the European Economic Area, which include EU member states, Iceland, Liechtenstein, and Norway<br>
 
 **Military deployments**<br>
-130 Golan Heights (UNDOF); 325 Lebanon (UNIFIL) (2023)<br>
+130 Golan Heights (UNDOF); 325 Lebanon (UNIFIL) (2024)<br>
 
 **Military - note**<br>
 Ireland has a long-standing policy of military neutrality; however, it participates in multinational peacekeeping and humanitarian operations, as well as crisis management; Ireland is a signatory of the EU’s Common Security and Defense Policy and has committed a battalion of troops to the EU’s Rapid Reaction Force; Ireland is not a member of NATO but has a relationship with it going back to 1997, when it deployed personnel in support of the NATO-led peacekeeping operation in Bosnia and Herzegovina; Ireland joined NATO’s Partnership for Peace program in 1999; it has been active in UN peacekeeping operations since the 1950s<br><br>the Irish Defense Forces (IDF) trace their origins back to the Irish Volunteers, a unit established in 1913 which took part in the 1916 Easter Rising and the Irish War of Independence (1919-1921); today, the IDF is comprised of an Army, an Air Corps, a Naval Service, and the Reserve Defense Forces (RDF); the Army has two combined arms combat brigades, one responsible for military operations in the south of the country, the other in the north; the Army’s primary mission is national defense, but elements have deployed on overseas humanitarian and peacekeeping operations, and at times have assisted civil authorities and the national police by providing security at airports, foreign embassies, government facilities, and ports; the Air Corps operates a range of non-combat fixed-wing aircraft and helicopters for a variety of missions, including air ambulance, civil assistance, maritime patrol, reconnaissance and surveillance, search and rescue, support to the Army, and transport; the Naval Service’s warships are six large or offshore patrol vessels, and its roles include defending territorial seas, deterrence, maritime surveillance, protecting marine assets, and supporting Army operations; the RDF was established in 2005 and has both an Army and a Naval Service Reserve; the RDF takes its lineage from the Volunteer Reserve Force, which was established in 1929 (2023)<br>

@@ -513,8 +513,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $8.604 billion (2022 est.)<br>
-$7.82 billion (2021 est.) note: data are in current year dollars<br>
-$6.461 billion (2020 est.) note: data are in current year dollars<br>
+$7.82 billion (2021 est.)<br>
+$6.461 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -525,8 +525,8 @@ electricity, gold, paper, copper, rubber, flavored water (2021)<br>
 
 **Imports**<br>
 $7.772 billion (2022 est.)<br>
-$6.527 billion (2021 est.) note: data are in current year dollars<br>
-$5.816 billion (2020 est.) note: data are in current year dollars<br>
+$6.527 billion (2021 est.)<br>
+$5.816 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -539,7 +539,7 @@ refined petroleum, gold, cars, broadcasting equipment, delivery trucks, tractors
 $1.216 billion (2022 est.)<br>
 $1.476 billion (2021 est.)<br>
 $1.393 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $14.9 billion (31 December 2017 est.)<br>
@@ -665,8 +665,8 @@ _total_: 422 km (2023)<br>
 _standard gauge_: 422 km (2023) 1.435-m gauge (422 km overhead electrification)<br>
 
 **Roadways**<br>
-_total_: 59,647 km (2024)<br>
-_paved_: 13,718 km (2024)<br>
+_total_: 59,647 km<br>
+_paved_: 13,718 km<br>
 _unpaved_: 45,929 km (2024)<br>
 
 **Waterways**<br>

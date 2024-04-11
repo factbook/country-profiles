@@ -496,15 +496,15 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1,936,677,000 (2022 est.)<br>
--$1,578,892,000 (2021 est.)<br>
+-$1.937 billion (2022 est.)<br>
+-$1.579 billion (2021 est.)<br>
 $1.017 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $29.374 billion (2022 est.)<br>
-$25.43 billion (2021 est.) note: data are in current year dollars<br>
-$20.932 billion (2020 est.) note: data are in current year dollars<br>
+$25.43 billion (2021 est.)<br>
+$20.932 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -515,8 +515,8 @@ lumber, wheat, broadcasting equipment, packaged medicines, fuel woods, hard liqu
 
 **Imports**<br>
 $31.213 billion (2022 est.)<br>
-$26.681 billion (2021 est.) note: data are in current year dollars<br>
-$20.479 billion (2020 est.) note: data are in current year dollars<br>
+$26.681 billion (2021 est.)<br>
+$20.479 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -529,7 +529,7 @@ refined petroleum, packaged medicines, broadcasting equipment, electricity, cars
 $4.46 billion (2022 est.)<br>
 $5.491 billion (2021 est.)<br>
 $5.29 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $40.164 billion (2019 est.)<br>
@@ -686,20 +686,20 @@ National Armed Forces (Nacionalie Brunotie Speki or NBS): Land Forces (Latvijas 
 2% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,000 regular military forces; approximately 9,500 National Guard (2023)<br>
+approximately 7,200 regular military forces; approximately 10,000 National Guard (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Latvian military's inventory consists of a mixture of Soviet-era and limited amounts of more modern, Western-produced systems acquired since the country joined NATO in 2004; in recent years, the UK and US have been the leading suppliers of military equipment (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; no conscription (abolished 2007) (2023)<br>
-<strong>note 1:</strong> in 2023, the Latvian Parliament approved a plan to reinstate mandatory military service for men aged 18-27 (women voluntarily) beginning in 2024; service would be for 12 months in the Land Forces or alternatively in internal affairs, health, or welfare structures<br><br><strong>note 2:</strong> as of 2022, women comprised about 16% of the military's full-time personnel<br>
+18 years of age for voluntary military service for men and women; 12 months mandatory military service for men 18-27 years of age (2024)<br>
+<strong>note 1:</strong> conscription reintroduced in 2024<br><br><strong>note 2:</strong> as of 2022, women comprised about 16% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 130 Kosovo (KFOR/NATO) (2023)<br>
 
 **Military - note**<br>
-the National Armed Forces are responsible for the defense of the country’s sovereignty and territory; they also have some domestic security responsibilities, including coast guard functions, search and rescue, humanitarian assistance, and providing support to other internal security services, including the State Border Service, the State Police, and the State Security Service; the Military Police provides protection to the president and other government officials, foreign dignitaries, and key facilities; for external defense, Latvia’s primary security focus is Russia, which has only increased since the Russian seizure of Crimea in 2014 and full-scale attack on Ukraine in 2022; in 2004, Latvia joined NATO and the EU, which it depends on to play a decisive role in Latvia’s security policy; Latvia is actively engaged in both NATO and the EU, as well as bilaterally with its allies in order to bolster its own security and that of the surrounding region; the Latvian military has participated in NATO and EU missions abroad and regularly conducts training and exercises with NATO and EU partner forces; Latvia also hosts NATO partner forces and is a member of the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies in the North Atlantic, Baltic Sea, and High North regions<br><br>the Land Forces have a single mechanized brigade; since 2017, Latvia has hosted a Canadian-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; in addition, Latvia hosts a NATO-led divisional headquarters (Multinational Division North; activated 2020), which coordinates training and preparation activities of its respective subordinate NATO battlegroups in Estonia and Latvia; the Land Forces are supplemented by the National Guard, which has four regionally based infantry brigades that are manned by part-time personnel supplemented by some full-time professional soldiers; in peacetime, the brigades participate in emergency, fire and rescue operations, and in the “elimination of consequences caused by emergency situations”<br><br>the Air Force has no combat aircraft; NATO has provided air protection for Latvia since 2004 through its Baltics Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on four-month rotations; the Naval Forces feature a few patrol vessels and minesweepers; the military also has logistics, military police, special operations forces, and training commands (2024)<br>
+the National Armed Forces are responsible for the defense of the country’s sovereignty and territory; they also have some domestic security responsibilities, including coast guard functions, search and rescue, humanitarian assistance, and providing support to other internal security services, including the State Border Service, the State Police, and the State Security Service; the Military Police provides protection to the president and other government officials, foreign dignitaries, and key facilities; for external defense, Latvia’s primary security focus is Russia, which has only increased since the Russian seizure of Crimea in 2014 and full-scale attack on Ukraine in 2022; in 2004, Latvia joined NATO and the EU, which it depends on to play a decisive role in Latvia’s security policy; Latvia is actively engaged in both NATO and the EU, as well as bilaterally with its allies in order to bolster its own security and that of the surrounding region; the Latvian military has participated in NATO and EU missions abroad and regularly conducts training and exercises with NATO and EU partner forces; Latvia also hosts NATO partner forces and is a member of the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies in the North Atlantic, Baltic Sea, and High North regions<br><br>the Land Forces have a single mechanized brigade; since 2017, Latvia has hosted a Canadian-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; in addition, Latvia hosts a NATO-led divisional headquarters (Multinational Division North; activated 2020), which coordinates training and preparation activities of its respective subordinate NATO battlegroups in Estonia and Latvia; the Land Forces are supplemented by the National Guard, which has four regionally based infantry brigades that are manned by part-time personnel supplemented by some full-time professional soldiers; in peacetime, the brigades participate in emergency, fire and rescue operations, and other emergencies<br><br>the Air Force has no combat aircraft; NATO has provided air protection for Latvia since 2004 through its Baltics Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on four-month rotations; the Naval Forces feature a few patrol vessels and minesweepers; the military also has logistics, military police, special operations forces, and training commands (2024)<br>
 
 ## Transnational Issues
 

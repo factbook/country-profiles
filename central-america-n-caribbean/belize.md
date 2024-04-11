@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-Belize was the site of several Mayan city states until their decline at the end of the first millennium A.D. The British and Spanish disputed the region in the 17th and 18th centuries; it formally became the colony of British Honduras in 1862. Territorial disputes between the UK and Guatemala delayed the independence of Belize until 1981. Guatemala refused to recognize the new nation until 1992, and the two countries are still involved in an ongoing border dispute. Both nations have voted to send the dispute for final resolution to the International Court of Justice. Tourism has become the mainstay of the economy. Current concerns include the country's heavy foreign debt burden, high crime rates, high unemployment combined with a majority youth population, growing involvement in the Mexican and South American drug trade, and one of the highest HIV/AIDS prevalence rates in Central America.<br>
+Belize was the site of several Mayan city states until their decline at the end of the first millennium A.D. The British and Spanish disputed the region in the 17th and 18th centuries; it formally became the colony of British Honduras in 1862. Territorial disputes between the UK and Guatemala delayed the independence of Belize until 1981. Guatemala refused to recognize the new nation until 1992, and the two countries are still involved in an ongoing border dispute. Tourism has become the mainstay of the economy. Current concerns include the country's heavy foreign debt burden, high crime rates, high unemployment combined with a majority youth population, growing involvement in the Mexican and South American drug trade, and one of the highest HIV/AIDS prevalence rates in Central America.<br>
 
 ## Geography
 
@@ -501,8 +501,8 @@ raw sugar, bananas, fishing ships, lobsters and crawfish, beer (2021)<br>
 
 **Imports**<br>
 $1.574 billion (2022 est.)<br>
-$1.249 billion (2021 est.) note: data are in current year dollars<br>
-$901.819 million (2020 est.) note: data are in current year dollars<br>
+$1.249 billion (2021 est.)<br>
+$901.819 million (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

@@ -531,8 +531,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $76.295 billion (2022 est.)<br>
-$58.339 billion (2021 est.) note: data are in current year dollars<br>
-$40.102 billion (2020 est.) note: data are in current year dollars<br>
+$58.339 billion (2021 est.)<br>
+$40.102 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -543,8 +543,8 @@ refined petroleum, crude petroleum, natural gas, nitrogen fertilizers, gold (202
 
 **Imports**<br>
 $97.144 billion (2022 est.)<br>
-$94.039 billion (2021 est.) note: data are in current year dollars<br>
-$72.482 billion (2020 est.) note: data are in current year dollars<br>
+$94.039 billion (2021 est.)<br>
+$72.482 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -739,7 +739,7 @@ voluntary enlistment possible from age 16 for men and 17 for women; 18-30 years 
 <strong>note:</strong> conscripts are estimated to comprise over half of the military, as well as a considerable portion of the Central Security Force<br>
 
 **Military deployments**<br>
-1,000 Central African Republic (MINUSCA) (2023)<br>
+1,000 (plus nearly 200 police) Central African Republic (MINUSCA); also has about 350 police deployed to the Democratic Republic of the Congo under MONUSCO (2024)<br>
 
 **Military - note**<br>
 the Egyptian Armed Forces (EAF) are responsible for external defense but also have an internal role assisting police and paramilitary security forces during emergencies and in anti-terrorism operations; the EAF also participates in foreign peacekeeping and other security missions, as well as both bilateral and multinational exercises; the military has considerable political power and independence; it has long had a crucial role in Egypt’s politics and has a large stake in the civilian economy, including running banks, businesses, gas stations, shipping lines, and utilities, and producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing; the various enterprises are reportedly profitable enough to make the armed forces largely self-funded<br><br>key areas of concern for the EAF include Islamic militant groups operating out of the Sinai Peninsula, regional challenges such as instability in Libya and Yemen, and maritime security; since 2011, the EAF has been conducting operations alongside other security forces in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham; since 2014, it has deployed large numbers of troops along its border with Libya and provided air support to the Saudi-led coalition operating in Yemen; the Navy in recent years has sought to modernize and expand its capabilities and profile in the Eastern Mediterranean and Red Sea, including the acquisition of helicopter carriers, modern frigates, and attack submarines; in 2020, the EAF inaugurated a large joint service military base on the Red Sea to secure the country’s southern coasts, protect economic investments and natural resources, and confront security challenges in the Red Sea region<br><br>the EAF is the largest and one of the best equipped militaries in the region; the Army’s primary combat forces include approximately 13 divisions, which are mostly armored or mechanized, complemented by some independent armored and infantry brigades; the EAF has approximately 5,000 artillery systems, plus surface-to-surface missile forces and a large special operations command, which includes airborne, airmobile, commando, special forces, and other specialized units; the Navy’s principal warships are approximately 20 frigates and corvettes, eight attack submarines, and two French-built helicopter-capable amphibious assault ships (LHDs); the Air Force has more than 300 French-, Russian-, and US-made fighter and multipurpose fighter aircraft, as well as nearly 100 US- and Russian-produced attack helicopters<br><br>Egypt is a major security partner of the US and one of the largest recipients of US military aid in the region; it also has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the Multinational Force &amp; Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between Egypt and Israel; it is composed of about 1,150 troops from 13 countries; Colombia, Fiji, and the US are the leading providers of troops to the MFO (2023)<br>

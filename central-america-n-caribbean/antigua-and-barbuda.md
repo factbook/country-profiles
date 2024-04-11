@@ -456,7 +456,7 @@ refined petroleum, ships, gas turbines, aircraft parts, lobster, durum wheat (20
 
 **Imports**<br>
 $1.176 billion (2022 est.)<br>
-$866.971 million (2021 est.) note: data are in current year dollars<br>
+$866.971 million (2021 est.)<br>
 $739.747 million (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 

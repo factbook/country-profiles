@@ -334,8 +334,8 @@ _election results_: Abd Rabuh Mansur HADI (GPC) elected consensus president<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Majlis consists of:<br>Shura Council or Majlis Alshoora (111 seats; members appointed by the president; member tenure NA)<br>House of Representatives or Majlis al Nuwaab (301 seats; members directly elected in single-seat constituencies by simple majority vote to serve 6-year terms)<br>
-_elections_: Shura Council - last appointments NA (next appointments NA)<br>House of Representatives - last held in April 2019 (next to be held NA)<br>
-_election results_: <br>percent of vote by party - GPC 58.0%, Islah 22.6%, YSP 3.8%, Unionist Party 1.9%, other 13.7%; seats by party - GPC 238, Islah 46, YSP 8, Nasserist Unionist Party 3, National Arab Socialist Ba'ath Party 2, independent 4<br>
+_elections_: Shura Council - last appointments NA (next appointments NA)<br>House of Representatives - last held in April 2019 (next to be held in NA)<br>
+_election results_: <br>percent of vote by party - GPC 58.0%, Islah 22.6%, YSP 3.8%, Unionist Party 1.9%, other 13.7%; seats by party - GPC 238, Islah 46, YSP 8, Nasserist Unionist Party 3, National Arab Socialist Ba'ath Party 2, independent 4; composition:  men 245, women 0, percent of women 0%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president, 2 deputies, and nearly 50 judges; court organized into constitutional, civil, commercial, family, administrative, criminal, military, and appeals scrutiny divisions)<br>
@@ -487,8 +487,9 @@ _expenditures_: $3.585 billion (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.868 billion (2016 est.)<br>
--$3,026,025,000 (2015 est.)<br>
+-$2.419 billion (2016 est.)<br>
+-$3.026 billion (2015 est.)<br>
+-$1.488 billion (2014 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
@@ -519,7 +520,7 @@ wheat, refined petroleum, iron, rice, cars (2019)<br>
 $1.251 billion (2022 est.)<br>
 $1.688 billion (2021 est.)<br>
 $969.613 million (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $6.805 billion (2018 est.)<br>
@@ -647,8 +648,8 @@ _annual freight traffic on registered air carriers_: 3.27 million (2018) mt-km<b
 641 km gas, 22 km liquid petroleum gas, 1,370 km oil (2013)<br>
 
 **Roadways**<br>
-_total_: 71,300 km (2005)<br>
-_paved_: 6,200 km (2005)<br>
+_total_: 71,300 km<br>
+_paved_: 6,200 km<br>
 _unpaved_: 65,100 km (2005)<br>
 
 **Merchant marine**<br>

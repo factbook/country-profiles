@@ -406,8 +406,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $19.082 billion (2022 est.)<br>
-$26.483 billion (2021 est.) note: data are in current year dollars<br>
-$15.665 billion (2020 est.) note: data are in current year dollars<br>
+$26.483 billion (2021 est.)<br>
+$15.665 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -418,8 +418,8 @@ jewelry, broadcasting equipment, watches, telephones, clothing and apparel (2021
 
 **Imports**<br>
 $21.267 billion (2022 est.)<br>
-$22.889 billion (2021 est.) note: data are in current year dollars<br>
-$15.151 billion (2020 est.) note: data are in current year dollars<br>
+$22.889 billion (2021 est.)<br>
+$15.151 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -432,7 +432,7 @@ jewelry, watches, electricity, aircraft, cars (2019)<br>
 $25.971 billion (2022 est.)<br>
 $26.665 billion (2021 est.)<br>
 $25.145 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $0 (31 December 2013)<br>
@@ -554,7 +554,7 @@ B-M<br>
 4 (2024)<br>
 
 **Roadways**<br>
-_total_: 428 km (2017)<br>
+_total_: 428 km<br>
 _paved_: 428 km (2017)<br>
 
 **Merchant marine**<br>

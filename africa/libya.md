@@ -477,7 +477,7 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $32.38 billion (2021 est.)<br>
-$9.537 billion (2020 est.) note: data are in current year dollars<br>
+$9.537 billion (2020 est.)<br>
 $29.326 billion (2019 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
@@ -489,7 +489,7 @@ crude petroleum, natural gas, refined petroleum, scrap iron, gold (2021)<br>
 
 **Imports**<br>
 $25.406 billion (2021 est.)<br>
-$14.334 billion (2020 est.) note: data are in current year dollars<br>
+$14.334 billion (2020 est.)<br>
 $25.368 billion (2019 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 

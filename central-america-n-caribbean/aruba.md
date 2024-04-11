@@ -422,8 +422,8 @@ crude petroleum, cigarettes, whiskies, refined petroleum, scrap iron (2021)<br>
 
 **Imports**<br>
 $2.429 billion (2022 est.)<br>
-$1.947 billion (2021 est.) note: data are in current year dollars<br>
-$1.644 billion (2020 est.) note: data are in current year dollars<br>
+$1.947 billion (2021 est.)<br>
+$1.644 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

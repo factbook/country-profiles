@@ -85,7 +85,7 @@ _noun_: Nicaraguan(s)<br>
 _adjective_: Nicaraguan<br>
 
 **Ethnic groups**<br>
-Mestizo (mixed Amerindian and White) 69%, White 17%, Black 9%, Amerindian 5%<br>
+Mestizo (mixed Indigenous and White) 69%, White 17%, Black 9%, Indigenous 5%<br>
 
 **Languages**<br>
 Spanish (official) 95.3%, Miskito 2.2%, Mestizo of the Caribbean coast 2%, other 0.5%; note - English and indigenous languages found on the Caribbean coast (2005 est.)<br>
@@ -497,8 +497,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $7.87 billion (2022 est.)<br>
-$6.618 billion (2021 est.) note: data are in current year dollars<br>
-$5.342 billion (2020 est.) note: data are in current year dollars<br>
+$6.618 billion (2021 est.)<br>
+$5.342 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -509,8 +509,8 @@ clothing and apparel, gold, insulated wiring, coffee, beef, cigars (2021)<br>
 
 **Imports**<br>
 $10.213 billion (2022 est.)<br>
-$8.342 billion (2021 est.) note: data are in current year dollars<br>
-$5.952 billion (2020 est.) note: data are in current year dollars<br>
+$8.342 billion (2021 est.)<br>
+$5.952 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -523,7 +523,7 @@ refined petroleum, clothing and apparel, crude petroleum, packaged medicines, in
 $4.404 billion (2022 est.)<br>
 $4.047 billion (2021 est.)<br>
 $3.212 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $11.674 billion (2019 est.)<br>
@@ -646,8 +646,8 @@ YN<br>
 54 km oil (2013)<br>
 
 **Roadways**<br>
-_total_: 24,033 km (2013)<br>
-_paved_: 3,447 km (2013)<br>
+_total_: 24,033 km<br>
+_paved_: 3,447 km<br>
 _unpaved_: 20,586 km (2013)<br>
 
 **Waterways**<br>

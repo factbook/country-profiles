@@ -266,8 +266,8 @@ _election results_: <em>2022:</em> Albert BRYAN, Jr. reelected governor; percent
 
 **Legislative branch**<br>
 _description_: unicameral Legislature of the Virgin Islands (15 seats; senators directly elected in single- and multi-seat constituencies by simple majority popular vote to serve 2-year terms)<br><br>the Virgin Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term<br>
-_elections_: Legislature of the Virgin Islands last held on 8 November 2022 (next to be held in November 2024)<br>Delegate to the US House of Representatives last held on 8 November 2022 (next to be held on 5 November 2024)<br>
-_election results_: Legislature of the Virgin Islands - percent of vote by party - NA; seats by party - Democratic Party 9, independent 6; composition - men 9, women 6, percent of women 40%<br><br>delegate to US House of Representatives - seat by party - Democratic Party 1; composition - 1 woman<br>
+_elections_: Legislature of the Virgin Islands last held on 8 November 2022 (next to be held on 5 November 2024)<br>Delegate to the US House of Representatives last held on 8 November 2022 (next to be held on 5 November 2024)<br>
+_election results_: <br>Legislature of the Virgin Islands - percent of vote by party - NA; seats by party - Democratic Party 9, independent 6; composition as of January 2023 - men 9, women 6, percent of women 40%<br><br>delegate to US House of Representatives - seat by party - Democratic Party 1<br>
 <strong>note:</strong> the Virgin Islands delegate to the US House of Representatives can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote<br>
 
 **Judicial branch**<br>

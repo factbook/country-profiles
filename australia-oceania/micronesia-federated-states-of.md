@@ -454,7 +454,6 @@ note: balance of payments - net trade and primary/secondary income in current do
 $179 million (2021 est.)<br>
 $122 million (2020 est.)<br>
 $130 million (2019 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Thailand 81%, China 9%, Japan 4%, Philippines 4%, United States 1% (2021)<br>

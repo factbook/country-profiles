@@ -360,9 +360,9 @@ _elections/appointments_: president and vice president directly elected by absol
 _election results_: <em>2024: </em>PRABOWO Subianto elected president; percent of vote - PRABOWO Subianto (GERINDRA) 58.6%, Anies Rasyid BASWEDAN (Independent) 24.9%, GANJAR Pranowo (PDI-P) 16.5%<em><br><br>2019</em>: Joko WIDODO reelected president; percent of vote - Joko WIDODO (PDI-P) 55.5%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 44.5%<br>
 
 **Legislative branch**<br>
-_description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat (MPR) consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br>House of Representatives or Dewan Perwakilan Rakyat (575 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms)<br>
+_description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat (MPR) consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br>House of Representatives or Dewan Perwakilan Rakyat (580 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms)<br>
 _elections_: Regional Representative Council - last held on 14 February 2024 (next to be held in 2029)<br>House of Representatives - last held on 14 February 2024 (next to be held in 2029)<br>
-_election results_: Regional Representative Council - all seats elected on a non-partisan basis; composition as of January 2024 - men 102, women 34, percent of women 25%<br>House of Representatives - percent of vote by party (2019 results)- PDI-P 19.3%, Gerindra 12.6%, Golkar 12.3%, PKB 9.7%, Nasdem 9.1%, PKS 8.2%, PD 7.8%, PAN 6.8%, PPP 4.5%, other 9.6%; seats by party - PDI-P 128, Golkar 85, Gerindra 78, Nasdem 59, PKB 58, PD 54, PKS 50, PAN 44, PPP 19; composition as of January 2024 - men 449, women 126, percent of women 21.9%; total People's Consultative Assembly percent of women 22.5%<br>
+_election results_: Regional Representative Council - all seats elected on a non-partisan basis; composition as of January 2024 - men 102, women 34, percent of women 25%<br>House of Representatives - percent of vote by party - PDI-P 16.7%, Golkar 15.3%, Gerindra 13.2%, PKB 10.6%, Nasdem 9.7%, PKS 8.4%, PD 7.4%, PAN 7.2%; other 11.5% (10 additional parties received votes); seats by party - PDI-P 110, Golkar 102, Gerindra 86, PKB 68, Nasdem 69, PKS 53, PD 44, PAN 48; composition as of January 2024 - men 449, women 126, percent of women 21.9%; total People's Consultative Assembly percent of women 22.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Mahkamah Agung (51 judges divided into 8 chambers); Constitutional Court or Mahkamah Konstitusi (consists of 9 judges)<br>
@@ -533,13 +533,13 @@ calendar year<br>
 **Current account balance**<br>
 $12.67 billion (2022 est.)<br>
 $3.511 billion (2021 est.)<br>
--$4,433,270,000 (2020 est.)<br>
+-$4.433 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $315.584 billion (2022 est.)<br>
-$246.787 billion (2021 est.) note: data are in current year dollars<br>
-$178.418 billion (2020 est.) note: data are in current year dollars<br>
+$246.787 billion (2021 est.)<br>
+$178.418 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -550,8 +550,8 @@ coal, palm oil, natural gas, iron alloys, stainless steel (2021)<br>
 
 **Imports**<br>
 $273.249 billion (2022 est.)<br>
-$217.579 billion (2021 est.) note: data are in current year dollars<br>
-$159.872 billion (2020 est.) note: data are in current year dollars<br>
+$217.579 billion (2021 est.)<br>
+$159.872 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -564,7 +564,7 @@ refined petroleum, crude petroleum, natural gas, vaccines and cultures, vehicle 
 $137.222 billion (2022 est.)<br>
 $144.908 billion (2021 est.)<br>
 $135.916 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $393.252 billion (2019 est.)<br>
@@ -697,8 +697,8 @@ _narrow gauge_: 8,159 km (2014) 1.067-m gauge (565 km electrified)<br>
 <strong>note:</strong> 4,816 km operational<br>
 
 **Roadways**<br>
-_total_: 496,607 km (2011)<br>
-_paved_: 283,102 km (2011)<br>
+_total_: 496,607 km<br>
+_paved_: 283,102 km<br>
 _unpaved_: 213,505 km (2011)<br>
 
 **Waterways**<br>
@@ -738,7 +738,7 @@ the military's inventory is a wide mix of Chinese, Russian, and Western (includi
 <strong>note:</strong> as of 2023, women comprised about 7% of the Indonesian military<br>
 
 **Military deployments**<br>
-225 (plus about 140 police) Central African Republic (MINUSCA); 1,025 Democratic Republic of the Congo (MONUSCO); 1,225 Lebanon (UNIFIL) (2023)<br>
+225 (plus about 140 police) Central African Republic (MINUSCA); 1,025 Democratic Republic of the Congo (MONUSCO); 1,225 Lebanon (UNIFIL) (2024)<br>
 
 **Military - note**<br>
 the military is responsible for external defense, combatting separatism, and responding to natural disasters; in certain conditions it may provide operational support to police, such as for counterterrorism operations, maintaining public order, and addressing communal conflicts; the TNI has undergone reforms since the 1990s to improve its professionalism and limit its involvement in internal politics; the infantry-heavy Army is the largest service and deployed throughout the country in 14 area (KODAM) and three joint area (KOGABWILHAN) defense commands; it also has a special forces command (KOPASSUS) and three strategic reserve (KOSTRAD) infantry division headquarters; as of 2024, the Army was conducting counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since Indonesia annexed the former Dutch colony in the 1960s; it has also been assisting police in Sulawesi in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local militant group affiliated with the Islamic State of Iraq and ash-Sham (ISIS)<br><br>the Navy is organized and equipped for coastal defense and patrolling Indonesia’s territorial waters where it faces such issues as piracy, transnational crime, illegal fishing, and incursions by Chinese vessels; its surface warships include more than 30 frigates and corvettes and a substantial number of patrol vessels; it also has a few attack-type submarines, as well as a maritime aviation component and an amphibious force with several marine infantry brigades and amphibious assault ships; the Air Force has more than 100 combat aircraft <br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands Province, and held military exercises in the surrounding waters (2023)<br>

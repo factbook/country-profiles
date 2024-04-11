@@ -532,8 +532,8 @@ T8<br>
 3 (2024)<br>
 
 **Roadways**<br>
-_total_: 121 km (2018)<br>
-_paved_: 85 km (2018)<br>
+_total_: 121 km<br>
+_paved_: 85 km<br>
 _unpaved_: 36 km (2018)<br>
 
 **Merchant marine**<br>

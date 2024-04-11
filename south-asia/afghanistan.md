@@ -515,9 +515,9 @@ gold, figs, grapes, cotton, fruits and nuts, coal (2021)<br>
 <strong>note:</strong> Afghan opium production remains a significant illicit trade export<br>
 
 **Imports**<br>
-$6.983 billion (2020 est.) note: data are in current year dollars<br>
-$7.371 billion (2019 est.) note: data are in current year dollars<br>
-$7.988 billion (2018 est.) note: data are in current year dollars<br>
+$6.983 billion (2020 est.)<br>
+$7.371 billion (2019 est.)<br>
+$7.988 billion (2018 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

@@ -364,7 +364,7 @@ _election results_: <em><br>2020:</em> Joseph R. BIDEN, Jr. elected president; e
 **Legislative branch**<br>
 _description_: bicameral Congress consists of:<br>Senate (100 seats; 2 members directly elected in each of the 50 state constituencies by simple majority vote except in Georgia and Louisiana which require an absolute majority vote with a second round if needed; members serve 6-year terms with one-third of membership renewed every 2 years)<br>House of Representatives (435 seats; members directly elected in single-seat constituencies by simple majority vote except in Georgia which requires an absolute majority vote with a second round if needed; members serve 2-year terms)<br>
 _elections_: <br>Senate - last held on 8 November 2022 (next to be held on 5 November 2024)<br>House of Representatives - last held on 8 November 2022 (next to be held on 5 November 2024)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - Democratic Party 51, Republican Party 49; composition - men 75, women 25, percent of women 25% <br>House of Representatives - percent of vote by party - NA; seats by party - Republican Party 222, Democratic Party 213; composition - men 307, women 128, percent of women 29.4%; note - total US Congress percent of women 28.6%<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - Democratic Party 51, Republican Party 49; composition as of February 2024 - men 75, women 25, percent of women 25%<br><br>House of Representatives - percent of vote by party - NA; seats by party - Republican Party 222, Democratic Party 213; composition as of February 2024 - men 305, women 126, percent of women 29.2%; note - total US Congress percent of women 28.4%<br>
 <strong>note:</strong> in addition to the regular members of the House of Representatives there are 6 non-voting delegates elected from the District of Columbia and the US territories of American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, and the Virgin Islands; these are single seat constituencies directly elected by simple majority vote to serve a 2-year term (except for the resident commissioner of Puerto Rico who serves a 4-year term); the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote; election of delegates last held on 8 November 2022 (next to be held on 3 November 2024)<br>
 
 **Judicial branch**<br>
@@ -534,8 +534,8 @@ refined petroleum, natural gas, crude petroleum, cars and vehicle parts, integra
 
 **Imports**<br>
 $3.97 trillion (2022 est.)<br>
-$3.409 trillion (2021 est.) note: data are in current year dollars<br>
-$2.813 trillion (2020 est.) note: data are in current year dollars<br>
+$3.409 trillion (2021 est.)<br>
+$2.813 trillion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -685,8 +685,8 @@ _total_: 293,564.2 km (2014)<br>
 _standard gauge_: 293,564.2 km (2014) 1.435-m gauge<br>
 
 **Roadways**<br>
-_total_: 6,586,610 km (2012)<br>
-_paved_: 4,304,715 km (2012) (includes 76,334 km of expressways)<br>
+_total_: 6,586,610 km<br>
+_paved_: 4,304,715 km (includes 76,334 km of expressways)<br>
 _unpaved_: 2,281,895 km (2012)<br>
 
 **Waterways**<br>

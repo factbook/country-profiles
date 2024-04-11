@@ -353,7 +353,7 @@ _election results_: <em>2023:</em> Vo Van THUONG elected president<br><br><em>20
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Quoc Hoi (500 seats - number following 2021 election - 499; members directly elected in multi-seat constituencies by absolute majority vote; members serve 5-year terms)<br>
 _elections_: last held on 23 May 2021 (next to be held in spring 2026)<br>
-_election results_: <em>2021:</em> percent of vote by party - CPV 97.2%, 2.8% non-party; seats by party - CPV 486, non-party 14; composition - 348 men, 151 women; percent women 30.3%<br><br><em>2016:</em> percent of vote in 2016 election by party - CPV 95.8%, non-party members 4.2%; seats by party - CPV 474, non-party CPV-approved 20, self-nominated 2; note - 494 candidates elected, 2 CPV candidates-elect were disqualified; composition - men 364, women 122, percent of women 26.6%<br>
+_election results_: <br>percent of vote by party - CPV 97.2%, 2.8% non-party; seats by party - CPV 486, non-party 14; composition as of February 2024 - 342 men, 151 women; percent women 30.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme People's Court (consists of the chief justice and 13 judges)<br>
@@ -526,8 +526,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $384.204 billion (2022 est.)<br>
-$340.126 billion (2021 est.) note: data are in current year dollars<br>
-$290.229 billion (2020 est.) note: data are in current year dollars<br>
+$340.126 billion (2021 est.)<br>
+$290.229 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -538,8 +538,8 @@ broadcasting equipment, telephones, integrated circuits, office machinery, footw
 
 **Imports**<br>
 $371.111 billion (2022 est.)<br>
-$338.327 billion (2021 est.) note: data are in current year dollars<br>
-$269.808 billion (2020 est.) note: data are in current year dollars<br>
+$338.327 billion (2021 est.)<br>
+$269.808 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -552,7 +552,7 @@ integrated circuits, telephones, clothing and apparel, broadcasting accessories,
 $86.54 billion (2022 est.)<br>
 $109.371 billion (2021 est.)<br>
 $94.834 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $96.58 billion (31 December 2017 est.)<br>
@@ -682,8 +682,8 @@ _standard gauge_: 178 km (2014) 1.435-m gauge; 253 km mixed gauge<br>
 _narrow gauge_: 2,169 km (2014) 1.000-m gauge<br>
 
 **Roadways**<br>
-_total_: 195,468 km (2013)<br>
-_paved_: 148,338 km (2013)<br>
+_total_: 195,468 km<br>
+_paved_: 148,338 km<br>
 _unpaved_: 47,130 km (2013)<br>
 
 **Waterways**<br>

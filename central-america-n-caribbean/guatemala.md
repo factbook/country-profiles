@@ -85,7 +85,7 @@ _noun_: Guatemalan(s)<br>
 _adjective_: Guatemalan<br>
 
 **Ethnic groups**<br>
-Mestizo (mixed Amerindian-Spanish - in local Spanish called Ladino) 56%, Maya 41.7%, Xinca (Indigenous, non-Maya) 1.8%, African descent 0.2%, Garifuna (mixed West and Central African, Island Carib, and Arawak) 0.1%, foreign 0.2% (2018 est.)<br>
+Mestizo (mixed Indigenous-Spanish - in local Spanish called Ladino) 56%, Maya 41.7%, Xinca (Indigenous, non-Maya) 1.8%, African descent 0.2%, Garifuna (mixed West and Central African, Island Carib, and Arawak) 0.1%, foreign 0.2% (2018 est.)<br>
 
 **Languages**<br>
 Spanish (official) 69.9%, Maya languages 29.7% (Q'eqchi' 8.3%, K'iche 7.8%, Mam 4.4%, Kaqchikel 3%, Q'anjob'al 1.2%, Poqomchi' 1%, other 4%), other 0.4% (includes Xinca and Garifuna); note - the 2003 Law of National Languages officially recognized 23 indigenous languages, including 21 Maya languages, Xinca, and Garifuna (2018 est.)<br>
@@ -511,9 +511,9 @@ $3.918 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$18.127 billion (2022 est.) note: data are in current year dollars<br>
-$15.246 billion (2021 est.) note: data are in current year dollars<br>
-$12.713 billion (2020 est.) note: data are in current year dollars<br>
+$18.127 billion (2022 est.)<br>
+$15.246 billion (2021 est.)<br>
+$12.713 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -523,9 +523,9 @@ United States 32%, El Salvador 12%, Honduras 10%, Nicaragua 6%, Mexico 4% (2022)
 textiles (knit and non-knit garments), coffee, bananas, palm oil, raw sugar (2022)<br>
 
 **Imports**<br>
-$33.938 billion (2022 est.) note: data are in current year dollars<br>
-$27.343 billion (2021 est.) note: data are in current year dollars<br>
-$19.267 billion (2020 est.) note: data are in current year dollars<br>
+$33.938 billion (2022 est.)<br>
+$27.343 billion (2021 est.)<br>
+$19.267 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -538,7 +538,7 @@ refined petroleum, video displays, cars, packaged medicines, delivery trucks (20
 $20.415 billion (2022 est.)<br>
 $20.935 billion (2021 est.)<br>
 $18.464 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $22.92 billion (31 December 2017 est.)<br>
@@ -671,8 +671,8 @@ _narrow gauge_: 800 km (2018) 0.914-m gauge<br>
 <strong>note:</strong> despite the existence of a railway network, all rail service was suspended in 2007 and no passenger or freight train currently runs in the country (2018)<br>
 
 **Roadways**<br>
-_total_: 17,440 km (2022)<br>
-_paved_: 7,420 km (2022)<br>
+_total_: 17,440 km<br>
+_paved_: 7,420 km<br>
 _unpaved_: 9,440 km (2022)<br>
 
 **Waterways**<br>

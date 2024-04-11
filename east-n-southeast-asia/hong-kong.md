@@ -453,8 +453,8 @@ gold, integrated circuits, gas turbines, broadcasting equipment, silver, diamond
 
 **Imports**<br>
 $683.415 billion (2022 est.)<br>
-$732.087 billion (2021 est.) note: data are in current year dollars<br>
-$601.528 billion (2020 est.) note: data are in current year dollars<br>
+$732.087 billion (2021 est.)<br>
+$601.528 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -467,7 +467,7 @@ integrated circuits, broadcasting equipment, office machinery, telephones, diamo
 $424.025 billion (2022 est.)<br>
 $496.856 billion (2021 est.)<br>
 $491.755 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1,648,409,000,000 (2019 est.)<br>
@@ -589,7 +589,7 @@ B-H<br>
 94 (2024)<br>
 
 **Roadways**<br>
-_total_: 2,193 km (2021)<br>
+_total_: 2,193 km<br>
 _paved_: 2,193 km (2021)<br>
 
 **Merchant marine**<br>

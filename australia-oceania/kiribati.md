@@ -464,8 +464,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $19.677 million (2022 est.)<br>
-$10.754 million (2021 est.) note: data are in current year dollars<br>
-$21.228 million (2020 est.) note: data are in current year dollars<br>
+$10.754 million (2021 est.)<br>
+$21.228 million (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -476,8 +476,8 @@ skipjacks, tuna, fish fillets, ships, coconut oil, copra (2021)<br>
 
 **Imports**<br>
 $254.438 million (2022 est.)<br>
-$201.984 million (2021 est.) note: data are in current year dollars<br>
-$148.77 million (2020 est.) note: data are in current year dollars<br>
+$201.984 million (2021 est.)<br>
+$148.77 million (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

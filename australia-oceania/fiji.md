@@ -485,8 +485,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $2.376 billion (2022 est.)<br>
-$1.171 billion (2021 est.) note: data are in current year dollars<br>
-$1.23 billion (2020 est.) note: data are in current year dollars<br>
+$1.171 billion (2021 est.)<br>
+$1.23 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -497,8 +497,8 @@ water, fuel wood, gold, sugar, refined petroleum, fish (2021)<br>
 
 **Imports**<br>
 $3.434 billion (2022 est.)<br>
-$2.344 billion (2021 est.) note: data are in current year dollars<br>
-$1.977 billion (2020 est.) note: data are in current year dollars<br>
+$2.344 billion (2021 est.)<br>
+$1.977 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -511,7 +511,7 @@ refined petroleum, aircraft, cars, dentistry devices, broadcasting equipment (20
 $1.557 billion (2022 est.)<br>
 $1.518 billion (2021 est.)<br>
 $1.082 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.022 billion (31 December 2017 est.)<br>
@@ -683,5 +683,5 @@ established in 1920,<strong> </strong>the RFMF is a small and lightly-armed forc
 ## Transnational Issues
 
 **Disputes - international**<br>
-<em>Fiji-Tonga</em>: Fiji does not recognize Tonga’s 1972 claim to the Minerva Reefs and their surrounding waters; the Minerva Reefs’ 200-mile exclusive economic zone includes valuable fishing grounds<br>
+<em>Fiji-Tonga</em>: Fiji does not recognize Tonga’s 1972 claim to the Minerva Reefs and their surrounding waters<br>
 

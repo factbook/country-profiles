@@ -551,7 +551,7 @@ cars and vehicle parts, packaged medicines, broadcasting equipment, medical cult
 $293.914 billion (2022 est.)<br>
 $295.736 billion (2021 est.)<br>
 $268.409 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $5,671,463,000,000 (2019 est.)<br>
@@ -689,7 +689,7 @@ _total_: 39,379 km (2020) 20,942 km electrified<br>
 15 km 0.900-mm gauge, 24 km 0.750-mm gauge (2015)<br>
 
 **Roadways**<br>
-_total_: 830,000 km (2022) 830,000 km<br>
+_total_: 830,000 km 830,000 km<br>
 _paved_: 830,000 km (2022) (includes 13,155 km of expressways)<br>
 <strong>note:</strong> includes local roads<br>
 
@@ -734,7 +734,7 @@ the inventory of Federal Armed Forces is comprised of weapons systems produced d
 <strong>note:</strong> women have been eligible for voluntary service in all military branches and positions since 2001 and accounted for about 12% of the active-duty German military in 2023<br>
 
 **Military deployments**<br>
-up to 500 Iraq (NATO); up to 1,400 Lithuania (NATO); 100 Niger; 280 Slovakia (NATO) (2023)<br>
+up to 500 Iraq (NATO); Lebanon 170 (UNIFIL); up to 1,400 Lithuania (NATO); 100 Niger; 280 Slovakia (NATO) (2023)<br>
 <strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Germany, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>

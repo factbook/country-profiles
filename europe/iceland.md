@@ -322,7 +322,7 @@ _residency requirement for naturalization_: 3 to 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Gudni Thorlacius JOHANNESSON (since 1 August 2016)<br>
-_head of government_: Prime Minister Katrin JAKOBSDOTTIR (since 30 November 2017)<br>
+_head of government_: Prime Minister Bjarni BENEDIKTSSON (since 9 April 2024); note - Katrin JAKOBSDOTTIR resigned on 5 April 2024 in order to be a candidate in the 1 June 2024 presidential election.<br>
 _cabinet_: Cabinet appointed by the president upon the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 27 June 2020 (next to be held on 1 June 2024); following legislative elections, the leader of the majority party or majority coalition becomes prime minister<br>
 _election results_: <em><br>2020: </em>Gudni Thorlacius JOHANNESSON reelected president; percent of vote - Gudni Thorlacius JOHANNESSON (independent) 92.2%, Gudmundur Franklin JONSSON (independent) 7.8%<br><br><em>2016: </em>Gudni Thorlacius JOHANNESSON elected president; Gudni Thorlacius JOHANNESSON (independent) 39.1%, Halla TOMASDOTTIR (independent) 27.9%, Andri Snær MAGNASON (Democracy Movement) 14.3%, David ODDSSON (independent) 13.7%, other 5%<br>
@@ -330,7 +330,7 @@ _election results_: <em><br>2020: </em>Gudni Thorlacius JOHANNESSON reelected pr
 **Legislative branch**<br>
 _description_: unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by closed-list proportional representation vote using the D'Hondt method; members serve 4-year terms)<br>
 _elections_: last held on 25 September 2021 (next to be held in 2025)<br>
-_election results_: <p>percent of vote by party - IP 25.4%, PP 20.6%, LGM 12.7%, People's Party 9.5%, Pirate Party 9.5%, SDA 9.5%, Reform Party 7.9%, CP 4.8%; seats by party - IP 16, PP 13, LGM 8, People's Party 6, Pirate Party 6, SDA 6, Reform Party 5, CP 3; composition - men 33, women 30; percent of women 47.6%</p><br>
+_election results_: <br>percent of vote by party - IP 25.4%, PP 20.6%, LGM 12.7%, People's Party 9.5%, Pirate Party 9.5%, SDA 9.5%, Reform Party 7.9%, CP 4.8%; seats by party - IP 16, PP 13, LGM 8, People's Party 6, Pirate Party 6, SDA 6, Reform Party 5, CP 3; composition as of February 2024 - men 33, women 30; percent of women 47.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Haestirettur (consists of 9 judges)<br>
@@ -498,8 +498,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $13.044 billion (2022 est.)<br>
-$9.555 billion (2021 est.) note: data are in current year dollars<br>
-$7.197 billion (2020 est.) note: data are in current year dollars<br>
+$9.555 billion (2021 est.)<br>
+$7.197 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -510,8 +510,8 @@ aluminum and aluminum products, fish fillets, salmon, iron alloys, animal meal (
 
 **Imports**<br>
 $13.146 billion (2022 est.)<br>
-$10.065 billion (2021 est.) note: data are in current year dollars<br>
-$7.518 billion (2020 est.) note: data are in current year dollars<br>
+$10.065 billion (2021 est.)<br>
+$7.518 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -524,7 +524,7 @@ refined petroleum, aluminum oxide, carbon/graphite electronics, cars, packaged m
 $5.887 billion (2022 est.)<br>
 $7.079 billion (2021 est.)<br>
 $6.419 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $19.422 billion (2019 est.)<br>

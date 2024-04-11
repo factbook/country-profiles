@@ -470,7 +470,7 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $171.278 million (2022 est.)<br>
-$97.774 million (2021 est.) note: data are in current year dollars<br>
+$97.774 million (2021 est.)<br>
 $116.519 million (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
@@ -482,7 +482,7 @@ coconut oil, insulated wiring, refined petroleum, integrated circuits, sardines,
 
 **Imports**<br>
 $512.002 million (2022 est.)<br>
-$430.011 million (2021 est.) note: data are in current year dollars<br>
+$430.011 million (2021 est.)<br>
 $376.791 million (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
@@ -496,7 +496,7 @@ refined petroleum, poultry meats, iron, lumber, processed fish, cars (2021)<br>
 $321.163 million (2022 est.)<br>
 $294.682 million (2021 est.)<br>
 $277.056 million (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $447.2 million (31 December 2013 est.)<br>

@@ -94,7 +94,7 @@ _noun_: Peruvian(s)<br>
 _adjective_: Peruvian<br>
 
 **Ethnic groups**<br>
-Mestizo (mixed Amerindian and White) 60.2%, Amerindian 25.8%, White 5.9%, African descent 3.6%, other (includes Chinese and Japanese descent) 1.2%, unspecified 3.3% (2017 est.)<br>
+Mestizo (mixed Indigenous and White) 60.2%, Indigenous 25.8%, White 5.9%, African descent 3.6%, other (includes Chinese and Japanese descent) 1.2%, unspecified 3.3% (2017 est.)<br>
 
 **Languages**<br>
 Spanish (official) 82.9%, Quechua (official) 13.6%, Aymara (official) 1.6%, Ashaninka 0.3%, other native languages (includes a large number of minor Amazonian languages) 0.8%, other (includes foreign languages and sign language) 0.2%, none 0.1%, unspecified 0.7% (2017 est.)<br>
@@ -533,15 +533,15 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$9,908,198,000 (2022 est.)<br>
--$5,063,836,000 (2021 est.)<br>
+-$9.908 billion (2022 est.)<br>
+-$5.064 billion (2021 est.)<br>
 $2.235 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $71.197 billion (2022 est.)<br>
-$65.914 billion (2021 est.) note: data are in current year dollars<br>
-$45.544 billion (2020 est.) note: data are in current year dollars<br>
+$65.914 billion (2021 est.)<br>
+$45.544 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -552,8 +552,8 @@ copper, gold, refined petroleum, zinc, fishmeal, tropical fruits, lead, iron, mo
 
 **Imports**<br>
 $69.506 billion (2022 est.)<br>
-$58.708 billion (2021 est.) note: data are in current year dollars<br>
-$42.303 billion (2020 est.) note: data are in current year dollars<br>
+$58.708 billion (2021 est.)<br>
+$42.303 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -566,7 +566,7 @@ refined petroleum, crude petroleum, cars, broadcasting equipment, delivery truck
 $74.779 billion (2020 est.)<br>
 $67.711 billion (2019 est.)<br>
 $60.333 billion (2018 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $81.333 billion (2019 est.)<br>

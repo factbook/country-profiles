@@ -538,7 +538,7 @@ diamonds, cars, broadcasting equipment, integrated circuits, refined petroleum, 
 $194.231 billion (2022 est.)<br>
 $212.934 billion (2021 est.)<br>
 $173.292 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $132.5 billion (31 December 2020 est.)<br>
@@ -668,7 +668,7 @@ _total_: 1,497 km (2021) (2019)<br>
 _standard gauge_: 1,497 km (2021) 1.435-m gauge<br>
 
 **Roadways**<br>
-_total_: 20,391 km (2021)<br>
+_total_: 20,391 km<br>
 _paved_: 20,391 km (2021) (includes 449 km of expressways)<br>
 
 **Merchant marine**<br>

@@ -92,7 +92,7 @@ _noun_: Colombian(s)<br>
 _adjective_: Colombian<br>
 
 **Ethnic groups**<br>
-Mestizo and White 87.6%, Afro-Colombian (includes Mulatto, Raizal, and Palenquero) 6.8%, Amerindian 4.3%, unspecified 1.4% (2018 est.)<br>
+Mestizo and White 87.6%, Afro-Colombian (includes Mulatto, Raizal, and Palenquero) 6.8%, Indigenous 4.3%, unspecified 1.4% (2018 est.)<br>
 
 **Languages**<br>
 Spanish (official) and 65 Indigenous languages<br>
@@ -521,9 +521,9 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$21,525,871,000 (2022 est.)<br>
--$17,950,893,000 (2021 est.)<br>
--$9,266,810,000 (2020 est.)<br>
+-$21.526 billion (2022 est.)<br>
+-$17.951 billion (2021 est.)<br>
+-$9.267 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
@@ -540,8 +540,8 @@ crude petroleum, coal, coffee, gold, refined petroleum (2021)<br>
 
 **Imports**<br>
 $89.54 billion (2022 est.)<br>
-$70.909 billion (2021 est.) note: data are in current year dollars<br>
-$51.328 billion (2020 est.) note: data are in current year dollars<br>
+$70.909 billion (2021 est.)<br>
+$51.328 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -554,7 +554,7 @@ refined petroleum, cars, broadcasting equipment, packaged medicines, corn (2019)
 $56.704 billion (2022 est.)<br>
 $58.019 billion (2021 est.)<br>
 $58.499 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $135.644 billion (2019 est.)<br>

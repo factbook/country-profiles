@@ -276,8 +276,8 @@ _agricultural_: 50 million cubic meters (2020 est.)<br>
 18.3 billion cubic meters (2020 est.)<br>
 
 **Geoparks**<br>
-_total global geoparks and regional networks_: 1<br>
-_global geoparks and regional networks_: Famenne-Ardenne (2023)<br>
+_total global geoparks and regional networks_: 2 (2024)<br>
+_global geoparks and regional networks_: Famenne-Ardenne; Schelde Delta (includes Netherlands) (2024)<br>
 
 ## Government
 
@@ -522,8 +522,8 @@ vaccines and cultures, cars, packaged medicines, refined petroleum, diamonds, na
 
 **Imports**<br>
 $567.164 billion (2022 est.)<br>
-$516.8 billion (2021 est.) note: data are in current year dollars<br>
-$403.359 billion (2020 est.) note: data are in current year dollars<br>
+$516.8 billion (2021 est.)<br>
+$403.359 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

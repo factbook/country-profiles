@@ -444,7 +444,7 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $531.408 million (2022 est.)<br>
-$392.744 million (2021 est.) note: data are in current year dollars<br>
+$392.744 million (2021 est.)<br>
 $353.961 million (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
@@ -456,7 +456,7 @@ broadcasting equipment, recreational boats, electrical plugs and sockets, measur
 
 **Imports**<br>
 $531.167 million (2022 est.)<br>
-$412.276 million (2021 est.) note: data are in current year dollars<br>
+$412.276 million (2021 est.)<br>
 $430.263 million (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
@@ -590,8 +590,8 @@ _total_: 50 km (2008)<br>
 _narrow gauge_: 50 km (2008) 0.762-m gauge on Saint Kitts for tourists<br>
 
 **Roadways**<br>
-_total_: 383 km (2002)<br>
-_paved_: 163 km (2002)<br>
+_total_: 383 km<br>
+_paved_: 163 km<br>
 _unpaved_: 220 km (2002)<br>
 
 **Merchant marine**<br>

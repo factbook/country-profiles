@@ -501,15 +501,15 @@ note: central government tax revenue as a % of GDP<br>
 <strong>note:</strong> this is the fiscal year for tax purposes<br>
 
 **Current account balance**<br>
--$21,627,319,000 (2022 est.)<br>
--$14,803,988,000 (2021 est.)<br>
--$2,400,615,000 (2020 est.)<br>
+-$21.627 billion (2022 est.)<br>
+-$14.804 billion (2021 est.)<br>
+-$2.401 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $57.485 billion (2022 est.)<br>
-$54.923 billion (2021 est.) note: data are in current year dollars<br>
-$50.173 billion (2020 est.) note: data are in current year dollars<br>
+$54.923 billion (2021 est.)<br>
+$50.173 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -520,8 +520,8 @@ milk cream powders, lumber, beef, butter, mutton (2021)<br>
 
 **Imports**<br>
 $71.35 billion (2022 est.)<br>
-$62.984 billion (2021 est.) note: data are in current year dollars<br>
-$48.118 billion (2020 est.) note: data are in current year dollars<br>
+$62.984 billion (2021 est.)<br>
+$48.118 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -534,7 +534,7 @@ cars, refined petroleum, crude petroleum, delivery trucks, broadcasting equipmen
 $14.4 billion (2022 est.)<br>
 $16.114 billion (2021 est.)<br>
 $13.733 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $190.621 billion (2019 est.)<br>
@@ -663,8 +663,8 @@ _total_: 4,128 km (2018)<br>
 _narrow gauge_: 4,128 km (2018) 1.067-m gauge (506 km electrified)<br>
 
 **Roadways**<br>
-_total_: 94,000 km (2017)<br>
-_paved_: 61,600 km (2017) (includes 199 km of expressways)<br>
+_total_: 94,000 km<br>
+_paved_: 61,600 km (includes 199 km of expressways)<br>
 _unpaved_: 32,400 km (2017)<br>
 
 **Merchant marine**<br>

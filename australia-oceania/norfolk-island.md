@@ -327,8 +327,8 @@ _percent of population_: 46.1% (2021 est.)<br>
 1 (2024)<br>
 
 **Roadways**<br>
-_total_: 80 km (2008)<br>
-_paved_: 53 km (2008)<br>
+_total_: 80 km<br>
+_paved_: 53 km<br>
 _unpaved_: 27 km (2008)<br>
 
 **Ports and terminals**<br>

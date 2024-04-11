@@ -541,9 +541,9 @@ China 53%, United Arab Emirates 11%, Saudi Arabia 6%, South Korea 5% (2019)<br>
 copper, cobalt, crude petroleum, tin, diamonds (2021)<br>
 
 **Imports**<br>
-$22.193 billion (2021 est.) note: data are in current year dollars<br>
-$14.557 billion (2020 est.) note: data are in current year dollars<br>
-$16.892 billion (2019 est.) note: data are in current year dollars<br>
+$22.193 billion (2021 est.)<br>
+$14.557 billion (2020 est.)<br>
+$16.892 billion (2019 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

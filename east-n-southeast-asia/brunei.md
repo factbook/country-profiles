@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-The Sultanate of Brunei's influence peaked between the 15th and 17th centuries when its control extended over coastal areas of northwest Borneo and the southern Philippines. Brunei subsequently entered a period of decline brought on by internal strife over royal succession, colonial expansion of European powers, and piracy. In 1888, Brunei became a British protectorate; independence was achieved in 1984. The same family has ruled Brunei for over six centuries. Brunei benefits from extensive petroleum and natural gas fields, the source of one of the highest per capita GDPs in the world. In 2017, Brunei celebrated the 50th anniversary of the Sultan Hassanal BOLKIAH&rsquo;s accession to the throne.<br>
+The Sultanate of Brunei's influence peaked between the 15th and 17th centuries, when its control extended over coastal areas of northwest Borneo and the southern Philippines. Internal strife over royal succession, colonial expansion of European powers, and piracy subsequently brought on a period of decline. In 1888, Brunei became a British protectorate; independence was achieved in 1984. The same family has ruled Brunei for over six centuries, and in 2017, the country celebrated the 50th anniversary of Sultan Hassanal BOLKIAH&rsquo;s accession to the throne. Brunei has one of the highest per-capita GDPs in the world, thanks to extensive petroleum and natural gas fields.<br>
 
 ## Geography
 
@@ -484,8 +484,8 @@ refined petroleum, natural gas, crude petroleum, industrial hydrocarbons, indust
 
 **Imports**<br>
 $10.106 billion (2022 est.)<br>
-$9.219 billion (2021 est.) note: data are in current year dollars<br>
-$6.382 billion (2020 est.) note: data are in current year dollars<br>
+$9.219 billion (2021 est.)<br>
+$6.382 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -498,7 +498,7 @@ crude petroleum, refined petroleum, cars, coal, packaged medicines (2021)<br>
 $5.035 billion (2022 est.)<br>
 $4.982 billion (2021 est.)<br>
 $3.997 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $0 (2014)<br>

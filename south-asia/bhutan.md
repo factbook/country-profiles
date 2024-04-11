@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Following Britain’s victory in the 1865 Duar War, Britain and Bhutan signed the Treaty of Sinchulu, under which Bhutan would receive an annual subsidy in exchange for ceding land to British India. Ugyen WANGCHUCK - who had served as the de facto ruler of an increasingly unified Bhutan and had improved relations with the British toward the end of the 19th century - was named king in 1907. Three years later, a treaty was signed whereby the British agreed not to interfere in Bhutanese internal affairs, and Bhutan allowed Britain to direct its foreign affairs. Bhutan negotiated a similar arrangement with independent India in 1949. The Indo-Bhutanese Treaty of Friendship returned to Bhutan a small piece of the territory annexed by the British, formalized the annual subsidies the country received, and defined India's responsibilities in defense and foreign relations. Under a succession of modernizing monarchs beginning in the 1950s, Bhutan joined the UN in 1971 and slowly continued its engagement beyond its borders.</p> <p>In 2005, King Jigme Singye WANGCHUCK unveiled the draft of Bhutan's first constitution - which introduced major democratic reforms - and held a national referendum for its approval. The King abdicated the throne in 2006 in favor of his son, Jigme Khesar Namgyel WANGCHUCK. In 2007, India and Bhutan renegotiated their treaty, eliminating the clause that stated that Bhutan would be "guided by" India in conducting its foreign policy, although Thimphu continues to coordinate closely with New Delhi. In 2008, Bhutan held its first parliamentary election in accordance with the constitution. Bhutan experienced a peaceful turnover of power following a parliamentary election in 2013, which resulted in the defeat of the incumbent party. In 2018, the incumbent party again lost the parliamentary election. in 2024, of the more than 100,000 ethnic Nepali - predominantly Lhotshampa - refugees who fled or were forced out of Bhutan in the 1990s, about 6,500 remain displaced in Nepal.</p><br>
+<p>After Britain’s victory in the 1865 Duar War, Britain and Bhutan signed the Treaty of Sinchulu, under which Bhutan would receive an annual subsidy in exchange for ceding land to British India. Ugyen WANGCHUCK -- who had served as the de facto ruler of an increasingly unified Bhutan and had improved relations with the British toward the end of the 19th century -- was named king in 1907. Three years later, a treaty was signed whereby the British agreed not to interfere in Bhutanese internal affairs, and Bhutan allowed Britain to direct its foreign affairs. Bhutan negotiated a similar arrangement with independent India in 1949. The Indo-Bhutanese Treaty of Friendship returned to Bhutan a small piece of the territory annexed by the British, formalized the annual subsidies the country received, and defined India's responsibilities in defense and foreign relations. Under a succession of modernizing monarchs beginning in the 1950s, Bhutan joined the UN in 1971 and slowly continued its engagement beyond its borders.</p> <p>In 2005, King Jigme Singye WANGCHUCK unveiled the draft of Bhutan's first constitution -- which introduced major democratic reforms -- and held a national referendum for its approval. The King abdicated the throne in 2006 in favor of his son, Jigme Khesar Namgyel WANGCHUCK. In 2007, India and Bhutan renegotiated their treaty, eliminating the clause that stated that Bhutan would be "guided by" India in conducting its foreign policy, although Thimphu continues to coordinate closely with New Delhi. In 2008, Bhutan held its first parliamentary election in accordance with the constitution. Bhutan experienced a peaceful turnover of power following a parliamentary election in 2013, which resulted in the defeat of the incumbent party. In 2018, the incumbent party again lost the parliamentary election. In 2024, of the more than 100,000 ethnic Nepali -- predominantly Lhotshampa -- refugees who fled or were forced out of Bhutan in the 1990s, about 6,500 remain displaced in Nepal.</p><br>
 
 ## Geography
 
@@ -474,8 +474,8 @@ iron alloys, dolomite, aircraft, cement, gypsum (2021)<br>
 
 **Imports**<br>
 $1.588 billion (2022 est.)<br>
-$1.027 billion (2021 est.) note: data are in current year dollars<br>
-$1.188 billion (2020 est.) note: data are in current year dollars<br>
+$1.027 billion (2021 est.)<br>
+$1.188 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -488,7 +488,7 @@ refined petroleum, iron products, delivery trucks, cars, wood charcoal (2019)<br
 $976.26 million (2021 est.)<br>
 $1.427 billion (2020 est.)<br>
 $1.238 billion (2019 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2.671 billion (31 December 2017 est.)<br>
@@ -627,6 +627,9 @@ India has provided most of the Royal Bhutan Army's equipment (2023)<br>
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; no conscription; militia training is compulsory for males aged 20-25, over a 3-year period  (2023)<br>
 <strong>note: </strong>in 2021, the Royal Bhutan Army graduated from a year-long training course the first batch of 150 women to be allowed to serve in combat roles; previously, women were allowed to serve in medical and other non-combat roles<br>
+
+**Military deployments**<br>
+190 Central African Republic (MINUSCA) (2024)<br>
 
 **Military - note**<br>
 the Army is responsible for external threats but also has some internal security functions such as conducting counterinsurgency operations, guarding forests, and providing security for prominent persons; the force is deployed throughout the country in more than a dozen &ldquo;wings,&rdquo; each comprised of a few infantry companies; the Army also has units of royal bodyguards and special forces; Bhutan relies on India for military training, arms supplies, and the country&rsquo;s air defense (2023)<br>

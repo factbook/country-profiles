@@ -513,15 +513,15 @@ _expenditures_: $1.407 billion (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1,424,095,000 (2022 est.)<br>
+-$1.424 billion (2022 est.)<br>
 -$807.862 million (2021 est.)<br>
 -$576.175 million (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $4.132 billion (2022 est.)<br>
-$3.18 billion (2021 est.) note: data are in current year dollars<br>
-$2.784 billion (2020 est.) note: data are in current year dollars<br>
+$3.18 billion (2021 est.)<br>
+$2.784 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -532,8 +532,8 @@ iron ore, gold, mollusks and shellfish, frozen fish, copper ore (2021)<br>
 
 **Imports**<br>
 $5.77 billion (2022 est.)<br>
-$4.312 billion (2021 est.) note: data are in current year dollars<br>
-$3.675 billion (2020 est.) note: data are in current year dollars<br>
+$4.312 billion (2021 est.)<br>
+$3.675 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -546,7 +546,7 @@ ships, aircraft, wheat, raw sugar, refined petroleum (2019)<br>
 $2.039 billion (2021 est.)<br>
 $1.493 billion (2020 est.)<br>
 $1.029 billion (2019 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $4.15 billion (31 December 2017 est.)<br>
@@ -674,9 +674,9 @@ _total_: 728 km (2014)<br>
 _standard gauge_: 728 km (2014) 1.435-m gauge<br>
 
 **Roadways**<br>
-_total_: 12,253 km (2018)<br>
-_paved_: 3,988 km (2018)<br>
-_unpaved_: 8,265 km (2018)<br>
+_total_: 12,253 km<br>
+_paved_: 3,988 km<br>
+_unpaved_: 8,265 km<br>
 
 **Waterways**<br>
 1,086 km (2022) (some navigation possible on the Senegal River)<br>

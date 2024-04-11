@@ -350,8 +350,8 @@ _election results_: <br><em>2019:</em> Luis Alberto LACALLE POU elected presiden
 
 **Legislative branch**<br>
 _description_: bicameral General Assembly or Asamblea General consists of:<br>Chamber of Senators or Camara de Senadores (30 seats; members directly elected in a single nationwide constituency by proportional representation vote; the vice-president serves as the presiding ex-officio member; elected members serve 5-year terms)<br>Chamber of Representatives or Camara de Representantes (99 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)<br>
-_elections_: <br>Chamber of Senators - last held on 27 October 2019 (next to be held in October 2024) <br>Chamber of Representatives - last held on 27 October 2019 (next to be held in October 2024)<br>
-_election results_: <br>Chamber of Senators - percent of vote by coalition/party - NA; seats by coalition/party - Frente Amplio 13, National Party 10, Colorado Party 4, Open Cabildo 3; composition - men 21, women 10, percent of women 25.3%%<br><br>Chamber of Representatives - percent of vote by coalition/party - NA; seats by coalition/party - Frente Amplio 42, National Party 30, Colorado Party 13, Open Cabildo 11, Independent Party 1, other 2; composition - men 74, women 25, percent of women 25.3%; note - total General Assembly percent of women 26.9%<br>
+_elections_: <br>Chamber of Senators - last held on 27 October 2019 (next to be held on 27 October 2024) <br>Chamber of Representatives - last held on 27 October 2019 (next to be held on 27 October 2024)<br>
+_election results_: <br>Chamber of Senators - percent of vote by coalition/party - NA; seats by coalition/party - Frente Amplio 13, National Party 10, Colorado Party 4, Open Cabildo 3; composition as of February 2024 - men 21, women 10, percent of women 32.3%<br><br>Chamber of Representatives - percent of vote by coalition/party - NA; seats by coalition/party - Frente Amplio 42, National Party 30, Colorado Party 13, Open Cabildo 11, Independent Party 1, other 2; composition as of February 2024 - men 74, women 25, percent of women 25.3%; note - total General Assembly percent of women 26.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of 5 judges)<br>
@@ -524,8 +524,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $22.565 billion (2022 est.)<br>
-$19.527 billion (2021 est.) note: data are in current year dollars<br>
-$13.851 billion (2020 est.) note: data are in current year dollars<br>
+$19.527 billion (2021 est.)<br>
+$13.851 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -536,8 +536,8 @@ sulfate wood pulp, beef, soybeans, concentrated milk, rice (2019)<br>
 
 **Imports**<br>
 $18.894 billion (2022 est.)<br>
-$15.125 billion (2021 est.) note: data are in current year dollars<br>
-$11.43 billion (2020 est.) note: data are in current year dollars<br>
+$15.125 billion (2021 est.)<br>
+$11.43 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -677,8 +677,8 @@ _total_: 1,673 km (2016) (operational; government claims overall length is 2,961
 _standard gauge_: 1,673 km (2016) 1.435-m gauge<br>
 
 **Roadways**<br>
-_total_: 77,732 km (2010)<br>
-_paved_: 7,743 km (2010)<br>
+_total_: 77,732 km<br>
+_paved_: 7,743 km<br>
 _unpaved_: 69,989 km (2010)<br>
 
 **Waterways**<br>

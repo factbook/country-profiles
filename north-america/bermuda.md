@@ -5,7 +5,7 @@ _North America / Dependencies (United Kingdom)_
 ## Introduction
 
 **Background**<br>
-Bermuda was first settled in 1609 by shipwrecked English colonists heading for Virginia. Self-governing since 1620, Bermuda is the oldest and most populous of the British Overseas Territories. Vacationing to the island to escape North American winters first developed in Victorian times. Tourism continues to be important to the island's economy, although international business has overtaken it in recent years. Bermuda has also developed into a highly successful offshore financial center. A referendum on independence from the UK was soundly defeated in 1995.<br>
+Bermuda was first settled in 1609 by shipwrecked English colonists heading for Virginia. Self-governing since 1620, Bermuda is the oldest and most populous of the British Overseas Territories. Vacationing on the island to escape North American winters first developed in Victorian times. Tourism continues to be important for the island's economy, although international business has overtaken it in recent years as Bermuda has developed into a highly successful offshore financial center. A referendum on independence from the UK was soundly defeated in 1995.<br>
 
 ## Geography
 
@@ -440,8 +440,8 @@ Jamaica 49.1%, Luxembourg 36.1%, US 4.9% (2017)<br>
 recreational boats, ships, trailers, aircraft, fertilizers (2021)<br>
 
 **Imports**<br>
-$1.925 billion (2021 est.) note: data are in current year dollars<br>
-$1.723 billion (2020 est.) note: data are in current year dollars<br>
+$1.925 billion (2021 est.)<br>
+$1.723 billion (2020 est.)<br>
 $2.224 billion (2019 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 

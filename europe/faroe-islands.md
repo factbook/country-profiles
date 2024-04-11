@@ -532,8 +532,8 @@ OY-H<br>
 12 (2024)<br>
 
 **Roadways**<br>
-_total_: 960 km (2017)<br>
-_paved_: 500 km (2017)<br>
+_total_: 960 km<br>
+_paved_: 500 km<br>
 _unpaved_: 460 km (2017)<br>
 <strong>note:</strong> those islands not connected by roads (bridges or tunnels) are connected by seven different ferry links operated by the nationally owned company SSL; 28 km of tunnels<br>
 
@@ -555,5 +555,5 @@ the Government of Denmark has responsibility for defense; as such, the Danish mi
 ## Transnational Issues
 
 **Disputes - international**<br>
-because anticipated offshore hydrocarbon resources have not been realized, earlier Faroese proposals for full independence have been deferred; Iceland, the UK, and Ireland dispute Denmark's claim to UNCLOS that the Faroe Islands' continental shelf extends beyond 200 nm<br>
+none identified<br>
 

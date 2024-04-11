@@ -306,7 +306,7 @@ $16,200 (2020 est.)<br>
 note: data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$101.326 trillion (2022 est.) SGWP (gross world product)<br>
+$101.326 trillion (2022 est.)<br>
 note: data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>

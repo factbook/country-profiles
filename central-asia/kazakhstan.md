@@ -524,8 +524,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $93.581 billion (2022 est.)<br>
-$71.726 billion (2021 est.) note: data are in current year dollars<br>
-$49.273 billion (2020 est.) note: data are in current year dollars<br>
+$71.726 billion (2021 est.)<br>
+$49.273 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -536,8 +536,8 @@ crude petroleum, gold, copper, iron alloys, natural gas (2021)<br>
 
 **Imports**<br>
 $60.147 billion (2022 est.)<br>
-$49.597 billion (2021 est.) note: data are in current year dollars<br>
-$46.502 billion (2020 est.) note: data are in current year dollars<br>
+$49.597 billion (2021 est.)<br>
+$46.502 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -687,8 +687,8 @@ _total_: 16,636 km (2021)<br>
 _broad gauge_: 16,636 km (2021) 1.520-m gauge (4,237 km electrified)<br>
 
 **Roadways**<br>
-_total_: 96,167 km (2021)<br>
-_paved_: 83,813 km (2021)<br>
+_total_: 96,167 km<br>
+_paved_: 83,813 km<br>
 _unpaved_: 12,354 km (2021)<br>
 
 **Waterways**<br>

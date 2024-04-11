@@ -407,8 +407,8 @@ refined petroleum, crude petroleum, petroleum coke, frozen fish, fishing ships (
 
 **Imports**<br>
 $2.904 billion (2022 est.)<br>
-$1.919 billion (2021 est.) note: data are in current year dollars<br>
-$1.709 billion (2020 est.) note: data are in current year dollars<br>
+$1.919 billion (2021 est.)<br>
+$1.709 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

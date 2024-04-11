@@ -504,9 +504,9 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$27,101,824,000 (2022 est.)<br>
--$23,193,388,000 (2021 est.)<br>
--$4,952,326,000 (2020 est.)<br>
+-$27.102 billion (2022 est.)<br>
+-$23.193 billion (2021 est.)<br>
+-$4.952 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
@@ -523,8 +523,8 @@ copper, fish fillets, wood pulp, pitted fruits, wine (2021)<br>
 
 **Imports**<br>
 $118.094 billion (2022 est.)<br>
-$102.595 billion (2021 est.) note: data are in current year dollars<br>
-$68.134 billion (2020 est.) note: data are in current year dollars<br>
+$102.595 billion (2021 est.)<br>
+$68.134 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -537,7 +537,7 @@ refined petroleum, crude petroleum, cars, broadcasting equipment, delivery truck
 $39.102 billion (2022 est.)<br>
 $51.252 billion (2021 est.)<br>
 $39.166 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $193.298 billion (2019 est.)<br>

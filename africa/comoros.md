@@ -483,8 +483,8 @@ cloves, tug boats, essential oils, scrap vessels, vanilla (2021)<br>
 
 **Imports**<br>
 $479.94 million (2022 est.)<br>
-$415.965 million (2021 est.) note: data are in current year dollars<br>
-$343.608 million (2020 est.) note: data are in current year dollars<br>
+$415.965 million (2021 est.)<br>
+$343.608 million (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

@@ -400,7 +400,7 @@ _selected World Heritage Site locales_: Baroque Churches of the Philippines (c);
 ## Economy
 
 **Economic overview**<br>
-growing East Asian economy; hard post-pandemic recovery; key electronics exporter; significant remittances; growing regional tensions with China; declining unemployment; climate change risk to food security; major equity concerns<br>
+growing Southeast Asian economy; commercial rebound led by transportation, construction and financial services; electronics exports recovering from sector slowdown; significant remittances; interest rate rises following heightened inflation; uncertainties due to increased regional tensions with China&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
 $991.72 billion (2022 est.)<br>
@@ -450,7 +450,7 @@ _exports of goods and services_: 31% (2017 est.)<br>
 _imports of goods and services_: -40.9% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, rice, coconuts, maize, bananas, vegetables, tropical fruit, plantains, pineapples, cassava<br>
+sugar cane, rice, coconuts, eggs, maize, bananas, vegetables, tropical fruit, plantains, pineapples<br>
 
 **Industries**<br>
 semiconductors and electronics assembly, business process outsourcing, food and beverage manufacturing, construction, electric/gas/water supply, chemical products, radio/television/communications equipment and apparatus, petroleum and fuel, textile and garments, non-metallic minerals, basic metal industries, transport equipment<br>
@@ -518,40 +518,40 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$18,115,680,000 (2022 est.)<br>
--$5,942,749,000 (2021 est.)<br>
+-$18.116 billion (2022 est.)<br>
+-$5.943 billion (2021 est.)<br>
 $11.578 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $98.853 billion (2022 est.)<br>
-$87.798 billion (2021 est.) note: data are in current year dollars<br>
-$80.034 billion (2020 est.) note: data are in current year dollars<br>
+$87.798 billion (2021 est.)<br>
+$80.034 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 16%, United States 14%, Japan 12%, Hong Kong 12%, Singapore 7% (2021)<br>
+United States 14%, China 14%, Hong Kong 12%, Japan 10%, Singapore 6% (2022)<br>
 
 **Exports - commodities**<br>
-integrated circuits, office machinery/parts, insulated wiring, transformers, semiconductors (2021)<br>
+integrated circuits, office machinery/parts, gold, semiconductors, insulated wiring (2022)<br>
 
 **Imports**<br>
 $152.656 billion (2022 est.)<br>
-$126.565 billion (2021 est.) note: data are in current year dollars<br>
-$99.943 billion (2020 est.) note: data are in current year dollars<br>
+$126.565 billion (2021 est.)<br>
+$99.943 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 34%, Japan 7%, South Korea 6%, Indonesia 6%, United States 6% (2021)<br>
+China 33%, Indonesia 8%,&nbsp;South Korea 7%, Japan 7%, Singapore 6% (2022)<br>
 
 **Imports - commodities**<br>
-integrated circuits, refined petroleum, office machinery, broadcasting equipment, cars (2021)<br>
+integrated circuits, refined petroleum, coal, cars, crude petroleum (2022)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $96.04 billion (2022 est.)<br>
 $108.755 billion (2021 est.)<br>
 $109.99 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $81.995 billion (2019 est.)<br>
@@ -684,8 +684,8 @@ _standard gauge_: 49 km (2017) 1.435-m gauge<br>
 _narrow gauge_: 28 km (2017) 1.067-m gauge<br>
 
 **Roadways**<br>
-_total_: 216,387 km (2014)<br>
-_paved_: 61,093 km (2014)<br>
+_total_: 216,387 km<br>
+_paved_: 61,093 km<br>
 _unpaved_: 155,294 km (2014)<br>
 
 **Waterways**<br>

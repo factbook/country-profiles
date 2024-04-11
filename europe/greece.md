@@ -271,8 +271,8 @@ _agricultural_: 8.11 billion cubic meters (2020 est.)<br>
 68.4 billion cubic meters (2020 est.)<br>
 
 **Geoparks**<br>
-_total global geoparks and regional networks_: 8<br>
-_global geoparks and regional networks_: Chelmos Vouraikos; Grevena - Kozani; Kefalonia-Ithaca; Lavreotiki;&nbsp; Lesvos Island; Psiloritis; Sitia; Vikos - Aoos (2023)<br>
+_total global geoparks and regional networks_: 9 (2024)<br>
+_global geoparks and regional networks_: Chelmos Vouraikos; Grevena - Kozani; Kefalonia-Ithaca; Lavreotiki;&nbsp; Lesvos Island; Meteora Pyli; Psiloritis; Sitia; Vikos - Aoos (2024)<br>
 
 ## Government
 
@@ -500,15 +500,15 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$22,622,861,000 (2022 est.)<br>
--$13,857,822,000 (2021 est.)<br>
--$12,413,032,000 (2020 est.)<br>
+-$22.623 billion (2022 est.)<br>
+-$13.858 billion (2021 est.)<br>
+-$12.413 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $106.189 billion (2022 est.)<br>
-$87.521 billion (2021 est.) note: data are in current year dollars<br>
-$59.022 billion (2020 est.) note: data are in current year dollars<br>
+$87.521 billion (2021 est.)<br>
+$59.022 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -519,8 +519,8 @@ refined petroleum, packaged medicines, aluminum plating, cotton, cheese, copper 
 
 **Imports**<br>
 $127.82 billion (2022 est.)<br>
-$103.532 billion (2021 est.) note: data are in current year dollars<br>
-$71.758 billion (2020 est.) note: data are in current year dollars<br>
+$103.532 billion (2021 est.)<br>
+$71.758 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -533,7 +533,7 @@ crude petroleum, refined petroleum, packaged medicines, cars, ships (2019)<br>
 $12.061 billion (2022 est.)<br>
 $14.447 billion (2021 est.)<br>
 $11.931 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $484.888 billion (2019 est.)<br>
@@ -701,7 +701,7 @@ the military's inventory consists of a mix of imported weapons from Europe and t
 <strong>note 1: </strong>compulsory service applies to any individual whom the Greek authorities consider to be Greek, regardless of whether the individual considers himself Greek, has a foreign citizenship and passport, or was born or lives outside of Greece; Greek citizens living permanently outside of Greece have the right to postpone their conscription; they are permanently exempted from their military obligations when they reach the age of 45 years old<strong><br><br>note 2: </strong>up to 50% of the Greek military is comprised of conscripts<br><br><strong>note 3: </strong>as of 2020, women comprised approximately 16% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-approximately 1,000 Cyprus; 100 Kosovo (NATO); 140 Lebanon (UNIFIL) (2023)<br>
+approximately 1,000 Cyprus; 100 Kosovo (NATO); 120 Lebanon (UNIFIL) (2023)<br>
 
 **Military - note**<br>
 the Hellenic Armed Forces (HAF) are responsible for protecting Greece’s independence, sovereignty, and territorial integrity; the HAF also maintains a presence on Cyprus (the Hellenic Force in Cyprus or ELDYK) to assist and support the Cypriot National Guard; as a member of the EU, NATO, and other international organizations, the HAF participates in multinational peacekeeping and other security missions abroad, taking a particular interest in missions occurring in the near regions, such as the Balkans, the Mediterranean and Aegean seas, the Middle East, and North Africa; areas of focus for the HAF include instability in the Balkans, territorial disputes with Turkey, and support to European security through the EU and NATO<br><br>Greece’s NATO membership is a key component of its security; it became a NATO member in 1952 and occupies a strategic location in the Eastern Mediterranean on NATO’s southern flank; Greece is host to several NATO facilities, including the Deployable Corps Greece (NDC-GR) headquarters in Thessaloniki, the Combined Air Operations Center in Larissa, the Multinational Peace Support Operations Training Center in Kilkis, the Multinational Sealift Coordination Center in Athens, and the Naval Base, Maritime Interdiction Operational Training Centre, and NATO Missile Firing Installation at Souda, Crete <br><br>the Hellenic Army (established 1828) consists of the Active Army, the National Guard, the High Readiness Army Reserves, and the Reserves; the active Army has an army and several corps-level command formations, including a command for the Aegean Islands, a corps in Thrace to guard the Greco-Turkish land border, and the NDC-GR; there are several divisional headquarters and about 20 combat brigades, which include air mobile, airborne, amphibious, armored, helicopter aviation, infantry, and mechanized forces; National Guard units are organized into divisional and brigade-sized commands and typically based in border regions, both on the mainland and on some of Greece’s islands<br><br>also established in 1828, the Navy’s missions include naval presence operations, the protection of Greek sovereign rights, such as the continental shelf, EEZ, and Greek-owned shipping, the security of Greece’s sea lines of communication, and power projection; it has separate commands for frigates, patrol ships, mine warfare, submarines, the Aegean Sea, surveillance, amphibious, aviation, and special operations; its principal warships include 13 frigates and 10 attack submarines, which are supplemented by fast-attack and patrol vessels of varying size and capabilities<br><br>the Air Force, established in 1911, is organized into wings, squadrons, and groups and has nearly 200 combat aircraft of French and US origin, plus early warning, maritime patrol, reconnaissance, tanker, and transport aircraft, as well as helicopters; it also has air and missile defense units (2023)<br>

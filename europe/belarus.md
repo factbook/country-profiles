@@ -526,8 +526,8 @@ fertilizers, refined petroleum, cheese, delivery trucks, lumber (2021)<br>
 
 **Imports**<br>
 $42.28 billion (2022 est.)<br>
-$45.465 billion (2021 est.) note: data are in current year dollars<br>
-$35.236 billion (2020 est.) note: data are in current year dollars<br>
+$45.465 billion (2021 est.)<br>
+$35.236 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

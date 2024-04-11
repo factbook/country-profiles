@@ -342,7 +342,7 @@ _election results_: <br><em>2020</em>: Emomali RAHMON reelected president; perce
 **Legislative branch**<br>
 _description_: bicameral Supreme Assembly or Majlisi Oli consists of:<br>National Assembly or Majlisi Milli (34 seats; 25 members indirectly elected by local representative assemblies or majlisi, 8 appointed by the president, and 1 reserved for each living former president; members serve 5-year terms)<br>Assembly of Representatives or Majlisi Namoyandagon (63 seats; 41 members directly elected in single-seat constituencies by 2-round absolute majority vote and 22 directly elected in a single nationwide constituency by closed-list proportional representation vote; members serve 5-year terms)<br>
 _elections_: <br>National Assembly - last held on 1 March 2020 (next to be held in 2025)<br>Assembly of Representatives - last held on 1 March 2020 (next to be held in 2025)<br>
-_election results_: <br>National Assembly - percent of vote by party - NA; seats by party - NA; composition as of mid-2202 (31 members) - men 23, women 8, percent of women 25.8%<br>Assembly of Representatives - percent of vote by party - PDPT 50.4%, PERT 16.6%, APT 16.5%, SPT 5.2%, DPT 5.1%, CPT 3.1%, other 3.1%; seats by party - PDPT 47, APT 7, PERT 5, CPT 2, SPT 1, DPT 1; composition as of mid 2022 - men 46, women 17, percent of women 27%; note - total Supreme Assembly percent of women 26.6%<br>
+_election results_: <br>National Assembly - percent of vote by party - NA; seats by party - NA; composition as of mid-2202 (31 members) - men 23, women 8, percent of women 25.8%<br><br>Assembly of Representatives - percent of vote by party - PDPT 50.4%, PERT 16.6%, APT 16.5%, SPT 5.2%, DPT 5.1%, CPT 3.1%, other 3.1%; seats by party - PDPT 47, APT 7, PERT 5, CPT 2, SPT 1, DPT 1; composition as of mid-2022 - men 46, women 17, percent of women 27%; note - total Supreme Assembly percent of women 26.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chairman, deputy chairmen, and 34 judges organized into civil, family, criminal, administrative offense, and military chambers); Constitutional Court (consists of the court chairman, deputy chairman, and 5 judges); High Economic Court (consists of 16 judicial positions)<br>
@@ -506,8 +506,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $1.753 billion (2022 est.)<br>
-$2.161 billion (2021 est.) note: data are in current year dollars<br>
-$1.409 billion (2020 est.) note: data are in current year dollars<br>
+$2.161 billion (2021 est.)<br>
+$1.409 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -532,7 +532,7 @@ refined petroleum, wheat, natural gas, bauxite, aircraft (2019)<br>
 $3.847 billion (2022 est.)<br>
 $2.499 billion (2021 est.)<br>
 $2.238 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $6.47 billion (2019 est.)<br>

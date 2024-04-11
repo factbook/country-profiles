@@ -512,15 +512,15 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$4,159,132,000 (2022 est.)<br>
--$3,717,606,000 (2021 est.)<br>
--$2,505,006,000 (2020 est.)<br>
+-$4.159 billion (2022 est.)<br>
+-$3.718 billion (2021 est.)<br>
+-$2.505 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $20.335 billion (2022 est.)<br>
-$13.87 billion (2021 est.) note: data are in current year dollars<br>
-$10.444 billion (2020 est.) note: data are in current year dollars<br>
+$13.87 billion (2021 est.)<br>
+$10.444 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -531,8 +531,8 @@ fertilizers, clothing and apparel, calcium phosphates, phosphoric acid, packaged
 
 **Imports**<br>
 $29.955 billion (2022 est.)<br>
-$23.321 billion (2021 est.) note: data are in current year dollars<br>
-$18.424 billion (2020 est.) note: data are in current year dollars<br>
+$23.321 billion (2021 est.)<br>
+$18.424 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -545,7 +545,7 @@ cars, refined petroleum, gold, crude petroleum, clothing and apparel, broadcasti
 $15.56 billion (31 December 2017 est.)<br>
 $15.543 billion (2016 est.)<br>
 $16.572 billion (2015 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $32.088 billion (2019 est.)<br>
@@ -677,7 +677,7 @@ _total_: 509 km (2020)<br>
 _narrow gauge_: 509 km (2014) 1.050-m gauge<br>
 
 **Roadways**<br>
-_total_: 7,203 km (2011)<br>
+_total_: 7,203 km<br>
 _paved_: 7,203 km (2011)<br>
 
 **Merchant marine**<br>
@@ -709,6 +709,9 @@ the JAF inventory is comprised of a wide mix of imported equipment from Europe, 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service for men and women); initial service term is 24 months, with option to reenlist for up to 18 years; conscription was abolished in 1991, but in 2020 Jordan announced the reinstatement of compulsory military service for jobless men aged between 25 and 29 with 12 months of service, made up of 3 months of military training and 9 months of professional and technical training; in 2019, Jordan announced a voluntary 4-month National Military Service program for men and women aged between 18-25 years who have been unemployed for at least 6 months; service would include 1 month for military training with the remaining 3 months dedicated to vocational training in the sectors of construction and tourism (2023)<br>
 <strong>note:</strong> women comprised about 3% of the military as of 2023<br>
+
+**Military deployments**<br>
+Jordan has about 200 police deployed to the MONUSCO mission in the Democratic Republic of the Congo (2024)<br>
 
 **Military - note**<br>
 the JAF traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s; it is responsible for territorial defense and border security, but also has a supporting role for internal security; the JAF’s primary concerns are terrorist and criminal threats emanating from its 230-mile border with Syria and 112-mile border with Iraq, as well as the potential impact of Israeli-Palestinian tensions; the terrorist group Hizballah and Iranian-backed militia forces operate in southwestern Syria near Jordan’s border while fighters from the Islamic State of Iraq and ash-Sham (ISIS) terrorist group continue to operate in both Iraq and Syria; ISIS fighters have included Jordanian nationals, some of whom have returned to Jordan; meanwhile, individuals and groups sympathetic to Palestine have planned and conducted terrorist attacks in Jordan<br><br>the JAF participates in both bilateral and multinational exercises and has taken part in regional military operations alongside allied forces in Afghanistan, Syria, and Yemen; in recent years, it has contributed to regional military operations alongside allied forces in Afghanistan, Syria, and Yemen; it also participates in UN peacekeeping missions; the Army is organized and equipped for a mobile territorial defense against conventional threats and rapid responses to unconventional threats such as terrorism; border security forces are backed up by approximately 10 mechanized or armored brigades, plus a rapid reaction/high readiness airborne/ranger brigade; the Army also has a well-regarded special operations/counterterrorism group, and Jordan hosts an international special operations training center; the Air Force maintains about 50 US-made multirole fighter aircraft and dozens of attack helicopters; the Navy is a coastal defense force with some fast, gun- or missile-armed patrol craft for monitoring Jordan’s coastline on the Gulf of Aqaba<br><br>the US is a key security partner, and Jordan is one of the largest recipients of US military aid in the region; it cooperates with the US on a number of issues, including border and maritime security, arms transfers, cybersecurity, and counterterrorism; Jordan has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>

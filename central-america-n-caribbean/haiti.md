@@ -494,8 +494,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $1.355 billion (2022 est.)<br>
-$1.272 billion (2021 est.) note: data are in current year dollars<br>
-$1.018 billion (2020 est.) note: data are in current year dollars<br>
+$1.272 billion (2021 est.)<br>
+$1.018 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -506,8 +506,8 @@ clothing and apparel, essential oils, eels, mangoes, scrap iron (2021)<br>
 
 **Imports**<br>
 $5.451 billion (2022 est.)<br>
-$5.048 billion (2021 est.) note: data are in current year dollars<br>
-$4.177 billion (2020 est.) note: data are in current year dollars<br>
+$5.048 billion (2021 est.)<br>
+$4.177 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -520,7 +520,7 @@ refined petroleum, rice, clothing and apparel, poultry, palm oil (2021)<br>
 $2.368 billion (2022 est.)<br>
 $2.734 billion (2021 est.)<br>
 $2.59 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2.762 billion (31 December 2017 est.)<br>

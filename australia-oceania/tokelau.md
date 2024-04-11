@@ -240,7 +240,7 @@ see New Zealand<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General of New Zealand Dame Cindy KIRO (since 21 September 2021); New Zealand is represented by Administrator Don HIGGINS (since June 2022)<br>
-_head of government_: (Ulu o Tokelau) Kelihiano KALOLO (since 6 March 2023); note - position rotates annually among the three Faipule (village leaders) of the atolls<br>
+_head of government_: (Ulu o Tokelau) Alapati TAVITE (since 12 March 2024); note - position rotates annually among the three Faipule (village leaders) of the atolls<br>
 _cabinet_: Council for the Ongoing Government of Tokelau (or Tokelau Council) functions as a cabinet; consists of 3 village leaders (Faipule) and 3 village mayors (Pulenuku)<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the Minister of Foreign Affairs and Trade in New Zealand; head of government chosen from the Council of Faipule to serve a 1-year term<br>
 <strong>note:</strong> the meeting place of the Tokelau Council rotates annually among the three atolls; this tradition has given rise to the somewhat misleading description that the capital rotates yearly between the three atolls; in actuality, it is the seat of the government councilors that rotates since Tokelau has no capital<br>
@@ -248,7 +248,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 **Legislative branch**<br>
 _description_: unicameral General Fono (20 seats apportioned by island - Atafu 7, Fakaofo 7, Nukunonu 6; members directly elected by simple majority vote to serve 3-year terms); note - the Tokelau Amendment Act of 1996 confers limited legislative power to the General Fono<br>
 _elections_: last held on 26 January 2023 depending on island (next to be held in January 2026)<br>
-_election results_: percent of vote by party - NA; seats by party - independent 20; composition - men 17, women 3, percent of women 15%<br>
+_election results_: <br>percent of vote by party - NA; seats by party - independent 20; composition - men 17, women 3, percent of women 15%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (in New Zealand) (consists of the court president and 8 judges sitting in 3- or 5-judge panels, depending on the case)<br>

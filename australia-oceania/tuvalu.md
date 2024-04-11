@@ -304,8 +304,8 @@ _election results_: <em>2019: </em>Kausea NATANO elected prime minister by House
 
 **Legislative branch**<br>
 _description_: unicameral House of Assembly or Fale I Fono (16 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: last held on 26 January 2024 (next to be held January 2028)<br>
-_election results_: percent of vote - NA; seats - independent 16 (10 members reelected); composition - 15 men, 1 woman; percent women 6.25%<br>
+_elections_: last held on 26 January 2024 (next to be held in January 2028)<br>
+_election results_: <br>percent of vote - NA; seats - independent 16 (10 members reelected); composition as of February 2024 - 16 men, 0 women; percent women 0%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and not less than 3 appeals judges); High Court (consists of the chief justice); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -443,8 +443,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $2.232 million (2022 est.)<br>
-$2.745 million (2021 est.) note: data are in current year dollars<br>
-$3.089 million (2020 est.) note: data are in current year dollars<br>
+$2.745 million (2021 est.)<br>
+$3.089 million (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -455,8 +455,8 @@ tugboats, tuna, nitrile compounds, integrated circuits, electrical power accesso
 
 **Imports**<br>
 $57.388 million (2022 est.)<br>
-$63.962 million (2021 est.) note: data are in current year dollars<br>
-$56.947 million (2020 est.) note: data are in current year dollars<br>
+$63.962 million (2021 est.)<br>
+$56.947 million (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

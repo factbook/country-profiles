@@ -289,8 +289,8 @@ _agricultural_: 1.39 billion cubic meters (2020 est.)<br>
 60.5 billion cubic meters (2020 est.)<br>
 
 **Geoparks**<br>
-_total global geoparks and regional networks_: 2<br>
-_global geoparks and regional networks_: Muskauer Faltenbogen / Łuk Mużakowa (includes Germany); Holy Cross Mountains (2023)<br>
+_total global geoparks and regional networks_: 3 (2024)<br>
+_global geoparks and regional networks_: Land of Extinct Volcanoes; Muskauer Faltenbogen / Łuk Mużakowa (includes Germany); Holy Cross Mountains (2024)<br>
 
 ## Government
 
@@ -524,8 +524,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $434.008 billion (2022 est.)<br>
-$392.694 billion (2021 est.) note: data are in current year dollars<br>
-$318.967 billion (2020 est.) note: data are in current year dollars<br>
+$392.694 billion (2021 est.)<br>
+$318.967 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -536,8 +536,8 @@ cars and vehicle parts, seats, furniture, electric batteries, computers (2020)<b
 
 **Imports**<br>
 $421.226 billion (2022 est.)<br>
-$369.82 billion (2021 est.) note: data are in current year dollars<br>
-$284.648 billion (2020 est.) note: data are in current year dollars<br>
+$369.82 billion (2021 est.)<br>
+$284.648 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -550,7 +550,7 @@ cars and vehicle parts, crude petroleum, packaged medicines, broadcasting equipm
 $166.664 billion (2022 est.)<br>
 $166.03 billion (2021 est.)<br>
 $154.219 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $351.77 billion (2019 est.)<br>

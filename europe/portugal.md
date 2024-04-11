@@ -272,8 +272,8 @@ _agricultural_: 3.42 billion cubic meters (2020 est.)<br>
 77.4 billion cubic meters (2020 est.)<br>
 
 **Geoparks**<br>
-_total global geoparks and regional networks_: 5<br>
-_global geoparks and regional networks_: A&ccedil;ores; Arouca; Estrela; Naturtejo da Meseta Meridional; Terras de Cavaleiros (2023)<br>
+_total global geoparks and regional networks_: 6 (2024)<br>
+_global geoparks and regional networks_: A&ccedil;ores; Arouca; Estrela; Naturtejo da Meseta Meridional; Oeste; Terras de Cavaleiros (2024)<br>
 
 ## Government
 
@@ -334,7 +334,7 @@ _election results_: <br><em>2021:</em> Marcelo REBELO DE SOUSA reelected preside
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by closed-list proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 10 March 2024 (next to be held on 30 September 2028); note - early elections were called after Prime Minister Antonio Luis Santos da COSTA resigned on 7 November 2023<br>
-_election results_: percent of vote by party - NA; seats by party - PSD 79, PS 77, Enough 48, other 26; composition - men NA, women NA, percent of women NA%<br>
+_election results_: percent of vote by party - AD (PSD, CDS-PP &amp; PPM) 28.8%, PS, 28%, Enough 18.1%, IL 4.9%, BE 4.4%, L 3.2%, CDU 3.2%, other 9.4%; seats by party - AD (PSD, CDS-PP &amp; PPM) 80, PS 78, Enough 50, IL 8, BE 5, L 4, CDU 4, other 1; composition as of March 2024 - men 155, women 75, percent of women 32.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of 12 justices); Constitutional Court or Tribunal Constitucional (consists of 13 judges)<br>
@@ -342,7 +342,7 @@ _judge selection and term of office_: Supreme Court justices nominated by the pr
 _subordinate courts_: Supreme Administrative Court (Supremo Tribunal Administrativo); Audit Court (Tribunal de Contas); appellate, district, and municipal courts<br>
 
 **Political parties and leaders**<br>
-Democratic Alliance (2022 electoral alliance in the Azores, includes PSD, CDS-PP, PPM)<br>Democratic and Social Center/People's Party (Partido do Centro Democratico Social-Partido Popular) or CDS-PP [Nuno MELO]<br>Ecologist Party "The Greens" or "Os Verdes" (Partido Ecologista-Os Verdes) or PEV [Heloisa APOLONIA]<br>Enough (Chega) [Andre VENTURA]<br>Liberal Initiative (Iniciativa Liberal) or IL [Rui ROCHA]<br>Madeira First (2022 electoral alliance in Madeira, includes PSD, CDS-PP)<br>People-Animals-Nature Party (Pessoas-Animais-Natureza) or PAN [Ines SOUSA REAL]<br>People's Monarchist Party or PPM [Gonçalo DA CAMARA PEREIRA]<br>Portuguese Communist Party (Partido Comunista Portugues) or PCP [Paulo RAIMUNDO]<br>Social Democratic Party (Partido Social Democrata) or PSD [Luis MONTENEGRO] (formerly the Partido Popular Democratico or PPD)<br>Socialist Party (Partido Socialista) or PS [Pedro Nunes SANTOS]<br>The Left Bloc (Bloco de Esquerda) or BE or O Bloco [Mariana MORTAGUA]<br>Unitary Democratic Coalition (Coligacao Democratica Unitaria) or CDU [Paulo RAIMUNDO] (includes PCP and PEV) (2024)<br>
+Democratic Alliance or AD (2024 electoral alliance in the Azores, includes PSD, CDS-PP, PPM)<br>Democratic and Social Center/People's Party (Partido do Centro Democratico Social-Partido Popular) or CDS-PP [Nuno MELO]<br>Ecologist Party "The Greens" or "Os Verdes" (Partido Ecologista-Os Verdes) or PEV [Heloisa APOLONIA]<br>Enough (Chega) [Andre VENTURA]<br>Liberal Initiative (Iniciativa Liberal) or IL [Rui ROCHA]<br>LIVRE or L [Ru TAVARES &amp; Teresea MOTA]<br>People-Animals-Nature Party (Pessoas-Animais-Natureza) or PAN [Ines SOUSA REAL]<br>People's Monarchist Party or PPM [Gonçalo DA CAMARA PEREIRA]<br>Portuguese Communist Party (Partido Comunista Portugues) or PCP [Paulo RAIMUNDO]<br>Social Democratic Party (Partido Social Democrata) or PSD [Luis MONTENEGRO] (formerly the Partido Popular Democratico or PPD)<br>Socialist Party (Partido Socialista) or PS [Pedro Nunes SANTOS]<br>The Left Bloc (Bloco de Esquerda) or BE or O Bloco [Mariana MORTAGUA]<br>Unitary Democratic Coalition (Coligacao Democratica Unitaria) or CDU [Paulo RAIMUNDO] (includes PCP and PEV) (2024)<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, CPLP, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -500,15 +500,15 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$3,107,813,000 (2022 est.)<br>
--$2,986,908,000 (2021 est.)<br>
--$2,291,965,000 (2020 est.)<br>
+-$3.108 billion (2022 est.)<br>
+-$2.987 billion (2021 est.)<br>
+-$2.292 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $126.541 billion (2022 est.)<br>
-$105.648 billion (2021 est.) note: data are in current year dollars<br>
-$85.128 billion (2020 est.) note: data are in current year dollars<br>
+$105.648 billion (2021 est.)<br>
+$85.128 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -519,8 +519,8 @@ cars and vehicle parts, refined petroleum, leather footwear, tires, paper (2021)
 
 **Imports**<br>
 $131.627 billion (2022 est.)<br>
-$112.413 billion (2021 est.) note: data are in current year dollars<br>
-$89.515 billion (2020 est.) note: data are in current year dollars<br>
+$112.413 billion (2021 est.)<br>
+$89.515 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -533,7 +533,7 @@ crude petroleum, cars and vehicle parts, refined petroleum, packaged medicines, 
 $32.232 billion (2022 est.)<br>
 $32.535 billion (2021 est.)<br>
 $29.46 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $462.431 billion (2019 est.)<br>

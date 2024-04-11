@@ -351,7 +351,7 @@ _election results_: <em><br>2021: </em>Yoweri Kaguta MUSEVENI reelected presiden
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Parliament (556 seats; 353 members directly elected in single-seat constituencies by simple majority vote, 146 for women directly elected in single-seat districts by simple majority vote, and 30 "representatives" reserved for special interest groups - army 10, disabled 5, youth 5, labor 5, older persons 5; 27 ex officio members appointed by the president; members serve 5-year terms)<br>
 _elections_: last held on 14 January 2021 (next to be held in February 2026)<br>
-_election results_: percent of vote by party - NA; seats by party - NRM 336, NUP 57, FDC 32, DP 9, UPDF 10, UPC 9, independent 76 (excludes 27 ex-officio members); composition - men 368, women 188, percent of women 33.8%<br>
+_election results_: <br>percent of vote by party - NA; seats by party - NRM 336, NUP 57, FDC 32, DP 9, UPDF 10, UPC 9, independent 76 (excludes 27 ex-officio members); composition as of February 2024 - men 368, women 189, percent of women 33.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Uganda (consists of the chief justice and at least 6 justices)<br>
@@ -515,15 +515,15 @@ note: central government tax revenue as a % of GDP<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$3,821,110,000 (2022 est.)<br>
--$4,094,991,000 (2021 est.)<br>
--$3,656,656,000 (2020 est.)<br>
+-$3.821 billion (2022 est.)<br>
+-$4.095 billion (2021 est.)<br>
+-$3.657 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $6.058 billion (2022 est.)<br>
-$6.174 billion (2021 est.) note: data are in current year dollars<br>
-$5.563 billion (2020 est.) note: data are in current year dollars<br>
+$6.174 billion (2021 est.)<br>
+$5.563 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -534,8 +534,8 @@ gold, coffee, milk, fish and fish products, tobacco (2019)<br>
 
 **Imports**<br>
 $11.145 billion (2022 est.)<br>
-$10.686 billion (2021 est.) note: data are in current year dollars<br>
-$10.209 billion (2020 est.) note: data are in current year dollars<br>
+$10.686 billion (2021 est.)<br>
+$10.209 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -548,7 +548,7 @@ packaged medicines, aircraft, delivery trucks, cars, wheat (2019)<br>
 $3.359 billion (2018 est.)<br>
 $3.721 billion (2017 est.)<br>
 $3.098 billion (2016 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $13.85 billion (2019 est.)<br>
@@ -674,8 +674,8 @@ _total_: 1,244 km (2014)<br>
 _narrow gauge_: 1,244 km (2014) 1.000-m gauge<br>
 
 **Roadways**<br>
-_total_: 20,544 km (2017) (excludes local roads)<br>
-_paved_: 4,257 km (2017)<br>
+_total_: 20,544 km (excludes local roads)<br>
+_paved_: 4,257 km<br>
 _unpaved_: 16,287 km (2017)<br>
 
 **Waterways**<br>

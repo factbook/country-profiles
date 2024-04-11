@@ -526,7 +526,7 @@ refined petroleum, rice, delivery trucks, excavation machinery, motor vehicle pa
 $3.983 billion (2022 est.)<br>
 $3.24 billion (2021 est.)<br>
 $2.686 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $17.94 billion (31 December 2017 est.)<br>
@@ -653,8 +653,8 @@ P2<br>
 264 km oil (2013)<br>
 
 **Roadways**<br>
-_total_: 24,862 km (2015)<br>
-_paved_: 2,647 km (2015)<br>
+_total_: 24,862 km<br>
+_paved_: 2,647 km<br>
 _unpaved_: 22,215 km (2015)<br>
 
 **Waterways**<br>

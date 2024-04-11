@@ -472,7 +472,7 @@ VP-G<br>
 1 (2024)<br>
 
 **Roadways**<br>
-_total_: 29 km (2007)<br>
+_total_: 29 km<br>
 _paved_: 29 km (2007)<br>
 
 **Merchant marine**<br>

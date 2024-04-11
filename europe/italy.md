@@ -505,15 +505,15 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$30,222,046,000 (2022 est.)<br>
+-$30.222 billion (2022 est.)<br>
 $52.543 billion (2021 est.)<br>
 $75.097 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $751.092 billion (2022 est.)<br>
-$690.534 billion (2021 est.) note: data are in current year dollars<br>
-$559.952 billion (2020 est.) note: data are in current year dollars<br>
+$690.534 billion (2021 est.)<br>
+$559.952 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -524,8 +524,8 @@ packaged medicines, cars and vehicle parts, refined petroleum, vaccines and cult
 
 **Imports**<br>
 $781.083 billion (2022 est.)<br>
-$642.948 billion (2021 est.) note: data are in current year dollars<br>
-$490.684 billion (2020 est.) note: data are in current year dollars<br>
+$642.948 billion (2021 est.)<br>
+$490.684 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -538,7 +538,7 @@ crude petroleum, cars, packaged medicines, natural gas, refined petroleum (2019)
 $224.581 billion (2022 est.)<br>
 $227.478 billion (2021 est.)<br>
 $210.687 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2,463,208,000,000 (2019 est.)<br>
@@ -707,7 +707,7 @@ Italian Armed Forces (Forze Armate Italiane): Army (Esercito Italiano, EI), Navy
 1.2% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 108,000 Carabinieri (2023)<br>
+approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 108,000 Carabinieri (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a mix of domestically manufactured, imported, and jointly produced weapons systems, mostly from Europe and the US; in recent years, the US has been the lead supplier of military hardware to Italy; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in aircraft, armored vehicles, and naval vessels; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2023)<br>
@@ -717,7 +717,7 @@ the military's inventory includes a mix of domestically manufactured, imported, 
 <strong>note:</strong> women may serve in any military branch; as of 2020, women made up about 6% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-120 Djibouti; approximately 750 Bulgaria (NATO); approximately 1,000 Middle East (NATO, European Assistance Mission Iraq); 850 Kosovo (NATO/KFOR); 250 Latvia (NATO); 1,000 Lebanon (UNIFIL); 400 Libya; 350 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2023)<br>
+120 Djibouti; approximately 750 Bulgaria (NATO); approximately 1,000 Middle East (NATO, European Assistance Mission Iraq); 850 Kosovo (NATO/KFOR); 250 Latvia (NATO); 950 Lebanon (UNIFIL); 400 Libya; 350 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2023)<br>
 <strong>note:</strong> in response to Russia’s invasion of Ukraine, some NATO countries, including Italy, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>

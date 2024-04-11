@@ -506,15 +506,15 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$2,303,499,000 (2022 est.)<br>
--$2,108,440,000 (2021 est.)<br>
+-$2.303 billion (2022 est.)<br>
+-$2.108 billion (2021 est.)<br>
 -$674.612 million (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $10.989 billion (2022 est.)<br>
-$8.95 billion (2021 est.) note: data are in current year dollars<br>
-$7.646 billion (2020 est.) note: data are in current year dollars<br>
+$8.95 billion (2021 est.)<br>
+$7.646 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -525,8 +525,8 @@ copper, coal, gold, iron, animal hair, crude petroleum, zinc (2021)<br>
 
 **Imports**<br>
 $12.112 billion (2022 est.)<br>
-$9.256 billion (2021 est.) note: data are in current year dollars<br>
-$7.34 billion (2020 est.) note: data are in current year dollars<br>
+$9.256 billion (2021 est.)<br>
+$7.34 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -539,7 +539,7 @@ refined petroleum, cars, delivery trucks, trailers, electricity, iron (2021)<br>
 $3.398 billion (2022 est.)<br>
 $4.38 billion (2021 est.)<br>
 $4.545 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $29.945 billion (2019 est.)<br>
@@ -662,8 +662,8 @@ _broad gauge_: 1,815 km (2017) 1.520-m gauge<br>
 <strong>note:</strong> national operator Ulaanbaatar Railway is jointly owned by the Mongolian Government and by the Russian State Railway<br>
 
 **Roadways**<br>
-_total_: 113,200 km (2017)<br>
-_paved_: 10,600 km (2017)<br>
+_total_: 113,200 km<br>
+_paved_: 10,600 km<br>
 _unpaved_: 102,600 km (2017)<br>
 
 **Waterways**<br>

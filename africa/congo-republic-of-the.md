@@ -525,6 +525,7 @@ note: balance of payments - net trade and primary/secondary income in current do
 **Exports**<br>
 $4.67 billion (2020 est.)<br>
 $7.855 billion (2019 est.)<br>
+$4.6 billion (2016 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -536,6 +537,7 @@ copper, crude petroleum, refined petroleum, lumber, tin (2021)<br>
 **Imports**<br>
 $3.279 billion (2020 est.)<br>
 $4.945 billion (2019 est.)<br>
+$7,291,015,964 (2016 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -716,6 +718,9 @@ the FAC has mostly Soviet-era armaments, with a small mix of French and South Af
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; conscription ended in 1969 (2022)<br>
+
+**Military deployments**<br>
+has about 190 mostly police personnel deployed to the Central African Republic (MINUSCA) (2024)<br>
 
 **Military - note**<br>
 the FAC is viewed as having limited capabilities due to obsolescent and poorly maintained equipment and low levels of training; its primary focus is internal security; since its creation in 1961, the FAC has had a turbulent history; it has been sidelined by some national leaders in favor of personal militias, endured an internal rebellion (1996), and clashed with various rebel groups and political or ethnic militias (1993-1996, 2002-2005, 2017); during the 1997-1999 civil war, the military generally split along ethnic lines, with most northern officers supporting eventual winner SASSOU-Nguesso, and most southerners backing the rebels; others joined ethnic-based factions loyal to regional warlords; forces backing SASSOU-Nguesso were supported by Angolan troops and received some French assistance; the FAC also has undergone at least three reorganizations that included the incorporation of former rebel combatants and various ethnic and political militias; in recent years, France has provided some advice and training, and a military cooperation agreement was signed with Russia in 2019 (2023)<br>

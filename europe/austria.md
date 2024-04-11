@@ -533,8 +533,8 @@ vaccines and cultures, cars, packaged medicines, vehicle parts, broadcasting equ
 
 **Imports**<br>
 $290.277 billion (2022 est.)<br>
-$264.231 billion (2021 est.) note: data are in current year dollars<br>
-$209.817 billion (2020 est.) note: data are in current year dollars<br>
+$264.231 billion (2021 est.)<br>
+$209.817 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

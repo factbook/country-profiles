@@ -510,13 +510,13 @@ calendar year<br>
 **Current account balance**<br>
 -$817.858 million (2022 est.)<br>
 -$541.201 million (2021 est.)<br>
--$1,237,027,000 (2020 est.)<br>
+-$1.237 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $3.178 billion (2022 est.)<br>
-$2.502 billion (2021 est.) note: data are in current year dollars<br>
-$1.247 billion (2020 est.) note: data are in current year dollars<br>
+$2.502 billion (2021 est.)<br>
+$1.247 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -527,8 +527,8 @@ copper ore, aluminum, electricity, dried legumes, packaged medicines, lead, scra
 
 **Imports**<br>
 $4.614 billion (2022 est.)<br>
-$3.637 billion (2021 est.) note: data are in current year dollars<br>
-$2.917 billion (2020 est.) note: data are in current year dollars<br>
+$3.637 billion (2021 est.)<br>
+$2.917 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -541,7 +541,7 @@ refined petroleum, cars, packaged medicines, recreational boats, cigarettes (201
 $2.041 billion (2022 est.)<br>
 $1.982 billion (2021 est.)<br>
 $2.135 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2.516 billion (31 December 2017 est.)<br>

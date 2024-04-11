@@ -477,15 +477,15 @@ _expenditures_: $1.797 billion (2020 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1,033,061,000 (2022 est.)<br>
+-$1.033 billion (2022 est.)<br>
 -$455.003 million (2021 est.)<br>
--$1,327,424,000 (2020 est.)<br>
+-$1.327 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $5.096 billion (2022 est.)<br>
-$3.985 billion (2021 est.) note: data are in current year dollars<br>
-$1.787 billion (2020 est.) note: data are in current year dollars<br>
+$3.985 billion (2021 est.)<br>
+$1.787 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -496,8 +496,8 @@ skipjack and stripe-bellied bonito, fish fillets, propane, tuna, butane, scrap i
 
 **Imports**<br>
 $4.904 billion (2022 est.)<br>
-$3.484 billion (2021 est.) note: data are in current year dollars<br>
-$2.449 billion (2020 est.) note: data are in current year dollars<br>
+$3.484 billion (2021 est.)<br>
+$2.449 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -510,7 +510,7 @@ refined petroleum, fruits, furniture, broadcasting equipment, lumber (2019)<br>
 $832.094 million (2022 est.)<br>
 $805.808 million (2021 est.)<br>
 $984.931 million (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $848.8 million (31 December 2016 est.)<br>
@@ -629,7 +629,7 @@ _annual freight traffic on registered air carriers_: 7.75 million (2018)<br>
 19 (2024)<br>
 
 **Roadways**<br>
-_total_: 93 km (2018)<br>
+_total_: 93 km<br>
 _paved_: 93 km (2018) - 60 km in Malée; 16 km on Addu Atolis; 17 km on Laamu<br>
 <strong>note:</strong> island roads are mainly compacted coral<br>
 

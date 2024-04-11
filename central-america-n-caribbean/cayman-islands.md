@@ -421,8 +421,8 @@ recreational boats, aircraft, ships, gold, refined petroleum, natural gas (2021)
 
 **Imports**<br>
 $2.743 billion (2021 est.)<br>
-$2.51 billion (2020 est.) note: data are in current year dollars<br>
-$2.743 billion (2019 est.) note: data are in current year dollars<br>
+$2.51 billion (2020 est.)<br>
+$2.743 billion (2019 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

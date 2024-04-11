@@ -516,7 +516,7 @@ ships, refined petroleum, iron structures, boat propellers, centrifuges (2019)<b
 $599.66 million (2022 est.)<br>
 $700.829 million (2021 est.)<br>
 $340.966 million (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $826 million (2019 est.)<br>
@@ -641,8 +641,8 @@ _narrow gauge_: 84 km (2008) 1.067-m gauge<br>
 <strong>note:</strong> most sections of the railways inoperable due to damage sustained during the civil wars from 1980 to 2003, but many are being rebuilt<br>
 
 **Roadways**<br>
-_total_: 10,600 km (2021)<br>
-_paved_: 657 km (2021)<br>
+_total_: 10,600 km<br>
+_paved_: 657 km<br>
 _unpaved_: 9,943 km (2021)<br>
 
 **Merchant marine**<br>

@@ -342,7 +342,7 @@ _elections/appointments_: the monarchy is hereditary; following legislative elec
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>House of Lords (membership not fixed; as of October 2023, 778 lords were eligible to participate in the work of the House of Lords - 663 life peers, 90 hereditary peers, and 25 clergy; members are appointed by the monarch on the advice of the prime minister and non-party political members recommended by the House of Lords Appointments Commission); note - House of Lords total does not include ineligible members or members on leave of absence<br>House of Commons (650 seats; members directly elected in single-seat constituencies by simple majority popular vote to serve 5-year terms unless the House is dissolved earlier)<br>
 _elections_: <br>House of Lords - no elections; note - in 1999, as provided by the House of Lords Act, elections were held in the House of Lords to determine the 92 hereditary peers who would remain; elections held only as vacancies in the hereditary peerage arise)<br>House of Commons - last held on 12 December 2019 (next to be held no later than 28 January 2025)<br>
-_election results_: <br>House of Lords - composition - men 552, women 226, percent of women 29%<br>House of Commons - percent of vote by party - Conservative 54.9%, Labor 30.8%, SNP 6.8%, Lib Dems 2.2%, DUP 1.2%, Sinn Fein 1.1%, Plaid Cymru .6%, other 2.5%; seats by party - Conservative 365, Labor 202, SNP 48, Lib Dems 11, DUP 8, Sinn Fein 7, Plaid Cymru 4, other 5; composition - men 425, women 225, percent of women 34.6%; total Parliament percent of women 31.3%<br>
+_election results_: <br>House of Lords - composition - men 557, women 228, percent of women 29%<br><br>House of Commons - percent of vote by party - Conservative 54.9%, Labor 30.8%, SNP 6.8%, Lib Dems 2.2%, DUP 1.2%, Sinn Fein 1.1%, Plaid Cymru .6%, other 2.5%; seats by party - Conservative 365, Labor 202, SNP 48, Lib Dems 11, DUP 8, Sinn Fein 7, Plaid Cymru 4, other 5; composition as of February 2024 - men 424, women 226, percent of women 34.8%; total Parliament percent of women 31.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 12 justices, including the court president and deputy president); note - the Supreme Court was established by the Constitutional Reform Act 2005 and implemented in 2009, replacing the Appellate Committee of the House of Lords as the highest court in the United Kingdom<br>
@@ -516,8 +516,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $1.024 trillion (2022 est.)<br>
-$929.185 billion (2021 est.) note: data are in current year dollars<br>
-$802.02 billion (2020 est.) note: data are in current year dollars<br>
+$929.185 billion (2021 est.)<br>
+$802.02 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -528,8 +528,8 @@ cars, gold, gas turbines, crude petroleum, packaged medicines (2021)<br>
 
 **Imports**<br>
 $1.112 trillion (2022 est.)<br>
-$933.904 billion (2021 est.) note: data are in current year dollars<br>
-$786.95 billion (2020 est.) note: data are in current year dollars<br>
+$933.904 billion (2021 est.)<br>
+$786.95 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

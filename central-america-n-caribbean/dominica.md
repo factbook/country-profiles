@@ -426,7 +426,7 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $192.278 million (2022 est.)<br>
-$123.36 million (2021 est.) note: data are in current year dollars<br>
+$123.36 million (2021 est.)<br>
 $95.366 million (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
@@ -438,7 +438,7 @@ medical instruments, low-voltage protection equipment, sutures, soap, bandages (
 
 **Imports**<br>
 $349.052 million (2022 est.)<br>
-$307.79 million (2021 est.) note: data are in current year dollars<br>
+$307.79 million (2021 est.)<br>
 $303.326 million (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 

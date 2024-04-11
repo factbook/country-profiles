@@ -525,14 +525,14 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1,468,521,000 (2021 est.)<br>
+-$1.469 billion (2021 est.)<br>
 -$379.683 million (2020 est.)<br>
--$1,288,755,000 (2019 est.)<br>
+-$1.289 billion (2019 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $5.381 billion (2021 est.)<br>
-$5.196 billion (2020 est.) note: data are in current year dollars<br>
+$5.196 billion (2020 est.)<br>
 $4.442 billion (2019 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
@@ -544,7 +544,7 @@ gold, cotton, sesame seeds, lumber, refined petroleum (2021)<br>
 
 **Imports**<br>
 $7.596 billion (2021 est.)<br>
-$6.339 billion (2020 est.) note: data are in current year dollars<br>
+$6.339 billion (2020 est.)<br>
 $6.559 billion (2019 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 

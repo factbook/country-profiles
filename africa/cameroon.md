@@ -547,8 +547,8 @@ crude petroleum, natural gas, cocoa beans, lumber, gold, bananas (2021)<br>
 
 **Imports**<br>
 $9.759 billion (2022 est.)<br>
-$9.025 billion (2021 est.) note: data are in current year dollars<br>
-$7.212 billion (2020 est.) note: data are in current year dollars<br>
+$9.025 billion (2021 est.)<br>
+$7.212 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -734,7 +734,7 @@ the FAC inventory includes a wide mix of mostly older or second-hand Chinese, Ru
 18-23 years of age for voluntary military service for men and women; no conscription; high school graduation required; service obligation 4 years (2023)<br>
 
 **Military deployments**<br>
-750 (plus about 350 police) Central African Republic (MINUSCA) (May 2022)<br>
+750 (plus about 350 police) Central African Republic (MINUSCA) (2024)<br>
 <strong>note: </strong>Cameroon has committed approximately 2,000-2,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations occur occasionally<br>
 
 **Military - note**<br>

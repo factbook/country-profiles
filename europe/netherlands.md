@@ -283,8 +283,8 @@ _agricultural_: 31 million cubic meters (2020 est.)<br>
 91 billion cubic meters (2020 est.)<br>
 
 **Geoparks**<br>
-_total global geoparks and regional networks_: 1<br>
-_global geoparks and regional networks_: De Hondsrug (2023)<br>
+_total global geoparks and regional networks_: 2 (2024)<br>
+_global geoparks and regional networks_: De Hondsrug; Schelde Delta (includes Belgium) (2024)<br>
 
 ## Government
 
@@ -517,8 +517,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $944.421 billion (2022 est.)<br>
-$865.094 billion (2021 est.) note: data are in current year dollars<br>
-$712.412 billion (2020 est.) note: data are in current year dollars<br>
+$865.094 billion (2021 est.)<br>
+$712.412 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -529,8 +529,8 @@ refined petroleum, broadcasting equipment, packaged medicines, photography equip
 
 **Imports**<br>
 $835.47 billion (2022 est.)<br>
-$749.324 billion (2021 est.) note: data are in current year dollars<br>
-$620.63 billion (2020 est.) note: data are in current year dollars<br>
+$749.324 billion (2021 est.)<br>
+$620.63 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -543,7 +543,7 @@ crude petroleum, refined petroleum, broadcasting equipment, computers, cars (201
 $63.353 billion (2022 est.)<br>
 $64.469 billion (2021 est.)<br>
 $53.971 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $4,345,413,000,000 (2019 est.)<br>

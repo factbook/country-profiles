@@ -412,7 +412,6 @@ note: balance of payments - net trade and primary/secondary income in current do
 $162 million (2021 est.)<br>
 $94.4 million (2020 est.)<br>
 $184 million (2019 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 47%, Japan 17%, France 14%, Netherlands 4%, Poland 3% (2021)<br>
@@ -424,7 +423,6 @@ paintings, pearls, tuna, aircraft parts, coconut oil, vanilla, electrical panels
 $1.66 billion (2021 est.)<br>
 $1.75 billion (2020 est.)<br>
 $2.24 billion (2019 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 France 43%, New Zealand 12%, China 8%, United States 6%, Singapore 5% (2021)<br>
@@ -546,8 +544,8 @@ F-OH<br>
 54 (2024)<br>
 
 **Roadways**<br>
-_total_: 2,590 km (1999)<br>
-_paved_: 1,735 km (1999)<br>
+_total_: 2,590 km<br>
+_paved_: 1,735 km<br>
 _unpaved_: 855 km (1999)<br>
 
 **Merchant marine**<br>

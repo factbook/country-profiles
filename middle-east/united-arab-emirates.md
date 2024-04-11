@@ -324,7 +324,7 @@ _election results_: <em>2022:</em> MUHAMMAD BIN ZAYID Al-Nuhayyan elected presid
 **Legislative branch**<br>
 _description_: unicameral Federal National Council (FNC) or Majlis al-Ittihad al-Watani (40 seats; 20 members indirectly elected using single non-transferable vote by an electoral college whose members are selected by each emirate ruler proportional to its FNC membership, and 20 members appointed by the rulers of the 7 constituent states; members serve 4-year terms)<br>
 _elections_: last held for indirectly elected members on 7 October 2023 (next to be held in October 2027); last held for appointed members in October 2019 (next appointments expected in late 2023)<br>
-_election results_: all candidates ran as independents; seats by emirate - Abu Dhabi 4, Dubai 4, Sharjah 3, Ras al-Khaimah 3, Ajman 2, Fujairah 2, Umm al-Quwain 2; composition (preliminary) - 13 men, 7 women, percent of elected women 35%; note - to attain overall FNC gender parity, 13 women and 7 men will be appointed; overall FNC percent of women 50%<br>
+_election results_: <br>all candidates ran as independents; seats by emirate - Abu Dhabi 4, Dubai 4, Sharjah 3, Ras al-Khaimah 3, Ajman 2, Fujairah 2, Umm al-Quwain 2; composition as of February 2024 - 13 men, 7 women, percent of elected women 35%; note - to attain overall FNC gender parity, 13 women and 7 men will be appointed; overall FNC percent of women 50%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court (consists of the court president and 4 judges; jurisdiction limited to federal cases)<br>
@@ -488,7 +488,7 @@ $26.47 billion (2017 est.)<br>
 $13.23 billion (2016 est.)<br>
 
 **Exports**<br>
-$335.238 billion (2020 est.)<br>
+$335.238 billion (2020 est.) note: GDP expenditure basis - exports of goods and services in current dollars<br>
 $308.5 billion (2017 est.)<br>
 $298.6 billion (2016 est.)<br>
 
@@ -499,7 +499,7 @@ India 13%, Japan 10%, China 8%, Saudi Arabia 7%, Iraq 5% (2022)<br>
 crude and refined petroleum, gold, broadcasting equipment, natural gas, diamonds (2022)<br>
 
 **Imports**<br>
-$246.886 billion (2020 est.)<br>
+$246.886 billion (2020 est.) note: GDP expenditure basis - exports of goods and services in current dollars<br>
 $229.2 billion (2017 est.)<br>
 $226.5 billion (2016 est.)<br>
 
@@ -513,7 +513,7 @@ gold, broadcasting equipment, refined petroleum, diamonds, cars (2022)<br>
 $138.433 billion (2022 est.)<br>
 $131.117 billion (2021 est.)<br>
 $106.702 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $237.6 billion (31 December 2017 est.)<br>
@@ -646,7 +646,7 @@ A6<br>
 533 km condensate, 3,277 km gas, 300 km liquid petroleum gas, 3287 km oil, 24 km oil/gas/water, 218 km refined products, 99 km water (2013)<br>
 
 **Roadways**<br>
-_total_: 4,080 km (2008)<br>
+_total_: 4,080 km<br>
 _paved_: 4,080 km (2008) (includes 253 km of expressways)<br>
 
 **Merchant marine**<br>

@@ -502,8 +502,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $870.806 billion (2022 est.)<br>
-$781.068 billion (2021 est.) note: data are in current year dollars<br>
-$634.034 billion (2020 est.) note: data are in current year dollars<br>
+$781.068 billion (2021 est.)<br>
+$634.034 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -514,8 +514,8 @@ integrated circuits, refined petroleum, gold, packaged medicines, appliances, ph
 
 **Imports**<br>
 $701.629 billion (2022 est.)<br>
-$631.615 billion (2021 est.) note: data are in current year dollars<br>
-$525.324 billion (2020 est.) note: data are in current year dollars<br>
+$631.615 billion (2021 est.)<br>
+$525.324 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -528,7 +528,7 @@ integrated circuits, refined petroleum, crude petroleum, gold, gas turbines (202
 $296.629 billion (2022 est.)<br>
 $425.098 billion (2021 est.)<br>
 $369.834 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1,557,646,000,000 (2019 est.)<br>
@@ -653,7 +653,7 @@ _annual freight traffic on registered air carriers_: 5,194,900,000 (2018) mt-km<
 3,220 km domestic gas (2014), 1,122 km cross-border pipelines (2017), 8 km refined products (2013) (2013)<br>
 
 **Roadways**<br>
-_total_: 3,500 km (2017)<br>
+_total_: 3,500 km<br>
 _paved_: 3,500 km (2017) (includes 164 km of expressways)<br>
 
 **Merchant marine**<br>

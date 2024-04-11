@@ -481,8 +481,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $334.904 million (2021 est.)<br>
-$232.536 million (2020 est.) note: data are in current year dollars<br>
-$291.805 million (2019 est.) note: data are in current year dollars<br>
+$232.536 million (2020 est.)<br>
+$291.805 million (2019 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -493,8 +493,8 @@ cashews, natural gas, mackerel, fish, scrap vessels (2021)<br>
 
 **Imports**<br>
 $518.162 million (2021 est.)<br>
-$439.386 million (2020 est.) note: data are in current year dollars<br>
-$502.204 million (2019 est.) note: data are in current year dollars<br>
+$439.386 million (2020 est.)<br>
+$502.204 million (2019 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -621,8 +621,8 @@ J5<br>
 7 (2024)<br>
 
 **Roadways**<br>
-_total_: 4,400 km (2016)<br>
-_paved_: 453 km (2016)<br>
+_total_: 4,400 km<br>
+_paved_: 453 km<br>
 _unpaved_: 3,947 km (2016)<br>
 
 **Waterways**<br>

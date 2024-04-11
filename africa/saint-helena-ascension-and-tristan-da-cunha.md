@@ -453,8 +453,8 @@ VQ-H<br>
 2 (2024)<br>
 
 **Roadways**<br>
-_total_: 198 km (2002) (Saint Helena 138 km, Ascension 40 km, Tristan da Cunha 20 km)<br>
-_paved_: 168 km (2002) (Saint Helena 118 km, Ascension 40 km, Tristan da Cunha 10 km)<br>
+_total_: 198 km (Saint Helena 138 km, Ascension 40 km, Tristan da Cunha 20 km)<br>
+_paved_: 168 km (Saint Helena 118 km, Ascension 40 km, Tristan da Cunha 10 km)<br>
 _unpaved_: 30 km (2002) (Saint Helena 20 km, Tristan da Cunha 10 km)<br>
 
 **Ports and terminals**<br>

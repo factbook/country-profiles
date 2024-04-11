@@ -515,8 +515,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $25.103 billion (2022 est.)<br>
-$20.601 billion (2021 est.) note: data are in current year dollars<br>
-$14.889 billion (2020 est.) note: data are in current year dollars<br>
+$20.601 billion (2021 est.)<br>
+$14.889 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -527,8 +527,8 @@ gold, medical instruments, cigars, low-voltage protection equipment, iron alloys
 
 **Imports**<br>
 $36.36 billion (2022 est.)<br>
-$28.69 billion (2021 est.) note: data are in current year dollars<br>
-$20.302 billion (2020 est.) note: data are in current year dollars<br>
+$28.69 billion (2021 est.)<br>
+$20.302 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -716,7 +716,7 @@ the military is responsible for defending the independence, integrity, and sover
 ## Transnational Issues
 
 **Disputes - international**<br>
-<em>Dominican Republic-Haiti:</em> unauthorized migration and smuggling from impoverished and unstable Haiti has led to occasional border tensions and increased security by the Dominican Republic, including the construction of a fence and the deployment of military troops<br>
+<em>Dominican Republic-Haiti:</em> unauthorized migration and smuggling from impoverished and politically unstable Haiti has led to occasional border tensions and increased security by the Dominican Republic, including the construction of a fence and the deployment of military troops<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 115,283 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>

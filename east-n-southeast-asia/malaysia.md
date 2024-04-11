@@ -509,8 +509,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $312.857 billion (2022 est.)<br>
-$263.836 billion (2021 est.) note: data are in current year dollars<br>
-$208.217 billion (2020 est.) note: data are in current year dollars<br>
+$263.836 billion (2021 est.)<br>
+$208.217 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -521,8 +521,8 @@ integrated circuits, refined petroleum, palm oil, rubber apparel, natural gas, s
 
 **Imports**<br>
 $283.601 billion (2022 est.)<br>
-$236.855 billion (2021 est.) note: data are in current year dollars<br>
-$186.613 billion (2020 est.) note: data are in current year dollars<br>
+$236.855 billion (2021 est.)<br>
+$186.613 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -535,7 +535,7 @@ integrated circuits, refined petroleum, crude petroleum, coal, gold, semiconduct
 $114.659 billion (2022 est.)<br>
 $116.916 billion (2021 est.)<br>
 $107.644 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $224.596 billion (2019 est.)<br>
@@ -665,8 +665,8 @@ _standard gauge_: 59 km (2014) 1.435-m gauge (59 km electrified)<br>
 _narrow gauge_: 1,792 km (2014) 1.000-m gauge (339 km electrified)<br>
 
 **Roadways**<br>
-_total_: 144,403 km (2010) (excludes local roads)<br>
-_paved_: 116,169 km (2010) (includes 1,821 km of expressways)<br>
+_total_: 144,403 km (excludes local roads)<br>
+_paved_: 116,169 km (includes 1,821 km of expressways)<br>
 _unpaved_: 28,234 km (2010)<br>
 
 **Waterways**<br>

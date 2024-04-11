@@ -311,7 +311,7 @@ _election results_: Manasseh SOGAVARE (OUR Party) elected prime minister on 24 A
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (50 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: last held on 3 April 2019 (next originally scheduled for April 2023, but delayed until 2024)<br>
+_elections_: last held on 3 April 2019 (next originally scheduled for April 2023 but delayed until 17 April 2024)<br>
 _election results_: percent of vote by party - UDP 10.7%, DAP 7.8%, PAP 4.4%, independent 56.3%, other 20.8%; seats by party - DAP 7, UDP 5, PAP 3, KPSI 1, SIPFP 1, SIPRA 1, independent 32; composition - men 46, women 4, percent of women 8%<br>
 
 **Judicial branch**<br>
@@ -470,8 +470,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $411.359 million (2022 est.)<br>
-$413.657 million (2021 est.) note: data are in current year dollars<br>
-$428.834 million (2020 est.) note: data are in current year dollars<br>
+$413.657 million (2021 est.)<br>
+$428.834 million (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -482,8 +482,8 @@ lumber, tuna, palm oil, coconut oil, gold (2021)<br>
 
 **Imports**<br>
 $764.641 million (2022 est.)<br>
-$619.46 million (2021 est.) note: data are in current year dollars<br>
-$556.26 million (2020 est.) note: data are in current year dollars<br>
+$619.46 million (2021 est.)<br>
+$556.26 million (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -496,7 +496,7 @@ refined petroleum, scrap iron, fish, iron structures, poultry meats, rice (2021)
 $661.604 million (2022 est.)<br>
 $694.515 million (2021 est.)<br>
 $660.996 million (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $757 million (31 December 2017 est.)<br>
@@ -620,8 +620,8 @@ H4<br>
 1 (2024)<br>
 
 **Roadways**<br>
-_total_: 1,390 km (2011)<br>
-_paved_: 34 km (2011)<br>
+_total_: 1,390 km<br>
+_paved_: 34 km<br>
 _unpaved_: 1,356 km (2011)<br>
 <strong>note:</strong> includes 920 km of private plantation roads<br>
 

@@ -86,7 +86,7 @@ _noun_: Honduran(s)<br>
 _adjective_: Honduran<br>
 
 **Ethnic groups**<br>
-Mestizo (mixed Amerindian and European) 90%, Amerindian 7%, African descent 2%, White 1%<br>
+Mestizo (mixed Indigenous and European) 90%, Indigenous 7%, African descent 2%, White 1%<br>
 
 **Languages**<br>
 Spanish (official), Amerindian dialects<br>
@@ -504,15 +504,15 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$2,083,057,000 (2022 est.)<br>
--$1,527,689,000 (2021 est.)<br>
+-$2.083 billion (2022 est.)<br>
+-$1.528 billion (2021 est.)<br>
 $665.854 million (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $9.385 billion (2022 est.)<br>
-$8.062 billion (2021 est.) note: data are in current year dollars<br>
-$6.269 billion (2020 est.) note: data are in current year dollars<br>
+$8.062 billion (2021 est.)<br>
+$6.269 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -523,8 +523,8 @@ clothing and apparel, coffee, insulated wiring, palm oil, shrimp, gold, bananas 
 
 **Imports**<br>
 $17.957 billion (2022 est.)<br>
-$14.869 billion (2021 est.) note: data are in current year dollars<br>
-$9.94 billion (2020 est.) note: data are in current year dollars<br>
+$14.869 billion (2021 est.)<br>
+$9.94 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -537,7 +537,7 @@ refined petroleum, clothing and apparel, packaged medicines, broadcasting equipm
 $8.41 billion (2022 est.)<br>
 $8.667 billion (2021 est.)<br>
 $8.138 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $9.137 billion (2019 est.)<br>
@@ -667,8 +667,8 @@ _narrow gauge_: 164 km (2014) 1.067-m gauge<br>
 115 km 1.057-mm gauge<br>420 km 0.914-mm gauge<br>
 
 **Roadways**<br>
-_total_: 14,742 km (2012)<br>
-_paved_: 3,367 km (2012)<br>
+_total_: 14,742 km<br>
+_paved_: 3,367 km<br>
 _unpaved_: 11,375 km (2012) (1,543 km summer only)<br>
 <strong>note:</strong> an additional 8,951 km of non-official roads used by the coffee industry<br>
 

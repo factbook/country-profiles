@@ -351,8 +351,8 @@ _election results_: <br><em>2019: </em>Matamela Cyril RAMAPHOSA (ANC) elected pr
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br><br>National Council of Provinces (90 seats; nine 10-member delegations, each with 6 permanent delegates and 4 special delegates, appointed by each of the 9 provincial legislatures to serve 5-year terms; note - the Council has special powers to protect regional interests, including safeguarding cultural and linguistic traditions among ethnic minorities)<br><br>National Assembly (400 seats; half the members directly elected in multi-seat constituencies and half in a single nationwide constituency, both by proportional representation popular vote; members serve 5-year terms)<br>
-_elections_: National Council of Provinces and National Assembly - last held on 8 May 2019 (next to be held in 2024)<br>
-_election results_: <p>National Council of Provinces - percent of vote by party - NA; seats by party - ANC 29, DA 13, EFF 9, FF+ 2, IFP 1; composition of permanent members - men 34, women 20, percent of women 37%; note - 36 appointed members not filled<br><br>National Assembly - percent of vote by party - ANC 57.5%, DA 20.8%, EFF 10.8%, IFP 3.8%, FF+ 2.4%, other 4.7%; seats by party - ANC 230, DA 84, EFF 44, IFP 14, FF+ 10, other 18; composition as of mid-2022 (396 current seats) - men 212, women 184, percent of women 46.5%; note overall Parliament percent of women 45.3%</p><br>
+_elections_: National Council of Provinces and National Assembly - last held on 8 May 2019 (next to be held on 29 May 2024)<br>
+_election results_: <p>National Council of Provinces - percent of vote by party - NA; seats by party - ANC 29, DA 13, EFF 9, FF+ 2, IFP 1; composition of permanent members - men 34, women 20, percent of women 37%; note - 36 appointed seats not filled<br><br>National Assembly - percent of vote by party - ANC 57.5%, DA 20.8%, EFF 10.8%, IFP 3.8%, FF+ 2.4%, other 4.7%; seats by party - ANC 230, DA 84, EFF 44, IFP 14, FF+ 10, other 18; composition as of mid-2022 (396 current seats) - men 212, women 184, percent of women 46.5%; note overall Parliament percent of women 45.3%</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Appeals (consists of the court president, deputy president, and 21 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)<br>
@@ -519,15 +519,15 @@ note: central government tax revenue as a % of GDP<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$1,697,574,000 (2022 est.)<br>
+-$1.698 billion (2022 est.)<br>
 $15.5 billion (2021 est.)<br>
 $6.701 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $136.112 billion (2022 est.)<br>
-$130.882 billion (2021 est.) note: data are in current year dollars<br>
-$94.059 billion (2020 est.) note: data are in current year dollars<br>
+$130.882 billion (2021 est.)<br>
+$94.059 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -538,8 +538,8 @@ gold, platinum, cars, iron products, coal, manganese, diamonds&nbsp; (2019)<br>
 
 **Imports**<br>
 $127.596 billion (2022 est.)<br>
-$104.867 billion (2021 est.) note: data are in current year dollars<br>
-$79.039 billion (2020 est.) note: data are in current year dollars<br>
+$104.867 billion (2021 est.)<br>
+$79.039 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -552,7 +552,7 @@ crude petroleum, refined petroleum, cars and vehicle parts, gold, broadcasting e
 $60.553 billion (2022 est.)<br>
 $57.597 billion (2021 est.)<br>
 $55.008 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $179.871 billion (2019 est.)<br>
@@ -693,8 +693,8 @@ _standard gauge_: 80 km (2021) 1.435-m gauge (80 km electrified)<br>
 _narrow gauge_: 19,756 km (2014) 1.065-m gauge (8,271 km electrified)<br>
 
 **Roadways**<br>
-_total_: 750,000 km (2016)<br>
-_paved_: 158,124 km (2016)<br>
+_total_: 750,000 km<br>
+_paved_: 158,124 km<br>
 _unpaved_: 591,876 km (2016)<br>
 
 **Merchant marine**<br>
@@ -733,7 +733,7 @@ the SANDF's inventory consists of a mix of domestically produced and foreign-sup
 <strong>note:</strong> in 2020, women comprised about 30% of the military<br>
 
 **Military deployments**<br>
-1,150 Democratic Republic of the Congo (MONUSCO); up to 1,500 authorized for Mozambique (part of a Southern African Development Community force to help quell an insurgency) (2023)<br>
+1,150 Democratic Republic of the Congo (MONUSCO); up to 1,500 authorized for Mozambique (part of a Southern African Development Community force to help quell an insurgency; scheduled to be withdrawn by mid-2024) (2024)<br>
 
 **Military - note**<br>
 the SANDF’s primary responsibilities include territorial and maritime defense, supporting the Police Service, protecting key infrastructure, and participating in international peacekeeping missions; the SANDF traditionally has been one of Africa’s most capable militaries, but in recent years its operational readiness and modernization programs have been hampered by funding shortfalls; it participates regularly in African and UN peacekeeping missions and is a member of the Southern Africa Development Community (SADC) Standby Force; in 2021, it sent up to 1,500 troops to Mozambique as part of a multinational SADC force to help combat an insurgency, and South African forces are a key component of the UN’s Force Intervention Brigade in the Democratic Republic of the Congo; in recent years, the SANDF has been deployed internally to assist the Police Service with quelling unrest and assisting with border security<br><br>the Army in recent years has reorganized, and its combat forces are organized into four “modern” brigades, each designed for specific missions and responding to modern-day threats such as “asymmetric” warfare; the new brigades are separated into airborne, light infantry, mechanized, and motorized forces; the Navy operates a mixed force of warships, patrol craft, submarines, and support vessels; its principal combatants are four frigates and three attack submarines; the Navy also has a maritime rapid reaction squadron that includes naval infantry and combat divers; the Air Force has squadrons of multipurpose fighter, ground attack, and transport aircraft, as well as attack and transport helicopters<br><br>the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the guerrilla and militia forces of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands (2023)<br>

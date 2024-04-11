@@ -332,14 +332,14 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Rumen RADEV (since 22 January 2017); Vice President Iliana IOTOVA (since 22 January 2017)<br>
-_head of government_: Vacant (since 6 March 2024)<br>
+_head of government_: Caretaker Prime Minister Dimitar GLAVCHEV (since 9 April 2024)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, elected by the National Assembly<br>
 _elections/appointments_: president and vice president elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 and 21 November 2021 (next to be held in fall 2026); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly<br>
-_election results_: <em><br>2021</em>: Rumen RADEV reelected president in second round; percent of vote in first round - Rumen RADEV (independent) 49.4%, Anastas GERDZHIKOV (independent) 22.8%, Mustafa KARADAYI (DPS) 11.6%, Kostadin KOSTADINOV (Revival) 3.9%, Lozan PANOV (independent) 3.7%, other 8.6%; percent of vote in the second round - Rumen RADEV 66.7%, Anastas GERDZHIKOV 31.8%, neither 1.5%<br><br><em>2016: </em>Rumen RADEV elected president in second round; percent of vote - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%<br>
+_election results_: <em><br>2021</em>: Rumen RADEV reelected president in second round; percent of vote in the first round - Rumen RADEV (independent) 49.4%, Anastas GERDZHIKOV (independent) 22.8%, Mustafa KARADAYI (DPS) 11.6%, Kostadin KOSTADINOV (Revival) 3.9%, Lozan PANOV (independent) 3.7%, other 8.6%; percent of vote in the second round - Rumen RADEV 66.7%, Anastas GERDZHIKOV 31.8%, neither 1.5%<br><br><em>2016: </em>Rumen RADEV elected president in second round; percent of vote - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by open-list, proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 2 April 2023 (next election to be held in 2027)<br>
+_elections_: last held on 2 April 2023 (snap election to be held on 9 June 2024)<br>
 _election results_: percent of vote by party/coalition - GERB-SDS 25.4%, PP-DB 23.5%, Revival 13.6%, DPS 13.2%, BSP for Bulgaria 8.6%, ITN 3.9%, other 11.8%; seats by party/coalition GERB-SDS 69, PP-DB 64, Revival 37, DPS 36, BSP for Bulgaria 23, ITN 11; composition as of January 2024 - men 179, women 61, percent of women 25.4%<br>
 
 **Judicial branch**<br>
@@ -507,7 +507,7 @@ calendar year<br>
 
 **Current account balance**<br>
 -$591.65 million (2022 est.)<br>
--$1,515,830,000 (2021 est.)<br>
+-$1.516 billion (2021 est.)<br>
 -$31.23 million (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
@@ -540,7 +540,7 @@ crude petroleum, copper, cars, packaged medicines, refined petroleum (2019)<br>
 $40.989 billion (2022 est.)<br>
 $39.188 billion (2021 est.)<br>
 $37.86 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $39.059 billion (2019 est.)<br>

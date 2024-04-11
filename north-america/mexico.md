@@ -96,7 +96,7 @@ _noun_: Mexican(s)<br>
 _adjective_: Mexican<br>
 
 **Ethnic groups**<br>
-Mestizo (Amerindian-Spanish) 62%, predominantly Amerindian 21%, Amerindian 7%, other 10% (mostly European) (2012 est.)<br>
+Mestizo (Indigenous-Spanish) 62%, predominantly Indigenous 21%, Indigenous 7%, other 10% (mostly European) (2012 est.)<br>
 <strong>note:</strong> Mexico does not collect census data on ethnicity<br>
 
 **Languages**<br>
@@ -541,15 +541,15 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$18,045,572,000 (2022 est.)<br>
--$8,342,887,000 (2021 est.)<br>
+-$18.046 billion (2022 est.)<br>
+-$8.343 billion (2021 est.)<br>
 $22.522 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $626.298 billion (2022 est.)<br>
-$533.22 billion (2021 est.) note: data are in current year dollars<br>
-$443.575 billion (2020 est.) note: data are in current year dollars<br>
+$533.22 billion (2021 est.)<br>
+$443.575 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -560,8 +560,8 @@ cars and vehicle parts, computers, delivery trucks, crude petroleum, video displ
 
 **Imports**<br>
 $668.59 billion (2022 est.)<br>
-$558.969 billion (2021 est.) note: data are in current year dollars<br>
-$424.896 billion (2020 est.) note: data are in current year dollars<br>
+$558.969 billion (2021 est.)<br>
+$424.896 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -574,7 +574,7 @@ integrated circuits, refined petroleum, cars and vehicle parts, office machinery
 $201.119 billion (2022 est.)<br>
 $207.799 billion (2021 est.)<br>
 $199.069 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $456.713 billion (2019 est.)<br>
@@ -711,8 +711,8 @@ _total_: 23,389 km (2017)<br>
 _standard gauge_: 23,389 km (2017) 1.435-m gauge (27 km electrified)<br>
 
 **Roadways**<br>
-_total_: 704,884 km (2017)<br>
-_paved_: 175,526 km (2017) (includes 10,845 km of expressways)<br>
+_total_: 704,884 km<br>
+_paved_: 175,526 km (includes 10,845 km of expressways)<br>
 _unpaved_: 529,358 km (2017)<br>
 
 **Waterways**<br>

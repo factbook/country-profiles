@@ -311,7 +311,7 @@ _election results_: <em>2022:</em> Nikenike VUROBARAVU elected president in eigh
 **Legislative branch**<br>
 _description_: unicameral Parliament (52 seats; members directly elected in 8 single-seat and 9 multi-seat constituencies by single non-transferable vote to serve 4-year terms (candidates in multi-seat constituencies can be elected with only 4% of the vote)<br>
 _elections_: last held on 13 October 2022 (next to be held in 2026)<br>
-_election results_: percent of vote by party - NA; seats by party - GJP 4, NUP 4, RDP 4, IG 3, PPP 2, NCM 2, VNDP 2, LM 1, NAG 1, PUDP 1, UCM 1, VLM 1, VPDP 1, independent 1; composition - men 51, women 1; percent of women 2%; note - political party associations are fluid<br>
+_election results_: <br>percent of vote by party - NA; seats by party - GJP 4, NUP 4, RDP 4, IG 3, PPP 2, NCM 2, VNDP 2, LM 1, NAG 1, PUDP 1, UCM 1, VLM 1, VPDP 1, independent 1; composition as of February 2024 - men 50, women 1; percent of women 2%; note - political party associations are fluid<br>
 <strong>note:</strong> the National Council of Chiefs advises on matters of culture and language<br>
 
 **Judicial branch**<br>
@@ -468,8 +468,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $140.561 million (2022 est.)<br>
-$89.105 million (2021 est.) note: data are in current year dollars<br>
-$141.829 million (2020 est.) note: data are in current year dollars<br>
+$89.105 million (2021 est.)<br>
+$141.829 million (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -480,8 +480,8 @@ tuna, floating platforms, cargo ships, perfume plants, mollusks, copra (2021)<br
 
 **Imports**<br>
 $577.334 million (2022 est.)<br>
-$520.15 million (2021 est.) note: data are in current year dollars<br>
-$449.277 million (2020 est.) note: data are in current year dollars<br>
+$520.15 million (2021 est.)<br>
+$449.277 million (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -494,7 +494,7 @@ refined petroleum, fishing ships, poultry meats, delivery trucks, lumber, rice, 
 $638.537 million (2022 est.)<br>
 $664.751 million (2021 est.)<br>
 $613.637 million (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $200.5 million (31 December 2017 est.)<br>

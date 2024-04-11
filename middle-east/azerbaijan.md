@@ -521,8 +521,8 @@ crude petroleum, natural gas, refined petroleum, cotton, gold (2021)<br>
 
 **Imports**<br>
 $21.274 billion (2022 est.)<br>
-$16.432 billion (2021 est.) note: data are in current year dollars<br>
-$15.632 billion (2020 est.) note: data are in current year dollars<br>
+$16.432 billion (2021 est.)<br>
+$15.632 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

@@ -524,14 +524,14 @@ calendar year<br>
 
 **Current account balance**<br>
 $1.019 billion (2022 est.)<br>
--$3,254,163,000 (2021 est.)<br>
--$15,985,928,000 (2020 est.)<br>
+-$3.254 billion (2021 est.)<br>
+-$15.986 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $69.091 billion (2022 est.)<br>
-$50.856 billion (2021 est.) note: data are in current year dollars<br>
-$39.937 billion (2020 est.) note: data are in current year dollars<br>
+$50.856 billion (2021 est.)<br>
+$39.937 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -542,8 +542,8 @@ crude petroleum, natural gas, scrap vessels, cocoa beans, refined petroleum (202
 
 **Imports**<br>
 $77.049 billion (2022 est.)<br>
-$67.478 billion (2021 est.) note: data are in current year dollars<br>
-$72.178 billion (2020 est.) note: data are in current year dollars<br>
+$67.478 billion (2021 est.)<br>
+$72.178 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -556,7 +556,7 @@ refined petroleum, wheat, cars, packaged medicines, broadcasting equipment, tele
 $35.564 billion (2022 est.)<br>
 $40.476 billion (2021 est.)<br>
 $36.73 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $26.847 billion (2019 est.)<br>
@@ -690,8 +690,8 @@ _narrow gauge_: 3,505 km (2014) 1.067-m gauge<br>
 <strong>note:</strong> as of the end of 2018, there were only six operational locomotives in Nigeria primarily used for passenger service; the majority of the rail lines are in a severe state of disrepair and need to be replaced<br>
 
 **Roadways**<br>
-_total_: 195,000 km (2019)<br>
-_paved_: 60,000 km (2019)<br>
+_total_: 195,000 km<br>
+_paved_: 60,000 km<br>
 _unpaved_: 135,000 km (2019)<br>
 
 **Waterways**<br>

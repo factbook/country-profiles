@@ -316,11 +316,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age (16 in local council elections); universal<br>
 
 **Executive branch**<br>
-_chief of state_: President George VELLA (since 4 April 2019)<br>
+_chief of state_: President Myriam Spiteri DEBONO (since 4 April 2024)<br>
 _head of government_: Prime Minister Robert ABELA (13 January 2020)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
-_elections/appointments_: president indirectly elected by the House of Representatives for a single 5-year term; election last held on 2 April 2019 (next to be held by April 2024); following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the president for a 5-year term; deputy prime minister appointed by the president on the advice of the prime minister<br>
-_election results_: <em>2024:  </em>Myriam SPITERI DEBONO elected president; House of representatives vote - unanimous; SPITERI DEBONO takes office on 4 April 2024<br><em><br>2020: </em>Robert ABELA (PL) appointed prime minister<em><br><br>2019:</em> George VELLA (PL) elected president; House of Representatives vote - unanimous<br>
+_elections/appointments_: president indirectly elected by the House of Representatives for a single 5-year term; election last held on 27 March 2024 (next to be held by March 2029); following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the president for a 5-year term; deputy prime minister appointed by the president on the advice of the prime minister<br>
+_election results_: <em>2024:  </em>Myriam SPITERI DEBONO elected president; House of representatives vote - unanimous<br><em><br>2020: </em>Robert ABELA (PL) appointed prime minister<em><br><br>2019:</em> George VELLA (PL) elected president; House of Representatives vote - unanimous<br>
 
 **Legislative branch**<br>
 _description_: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (65 seats statutory, 79 for 2022-2027 term; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
@@ -490,8 +490,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $25.417 billion (2022 est.)<br>
-$25.533 billion (2021 est.) note: data are in current year dollars<br>
-$22.735 billion (2020 est.) note: data are in current year dollars<br>
+$25.533 billion (2021 est.)<br>
+$22.735 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -502,8 +502,8 @@ integrated circuits, refined petroleum, packaged medicines, postage stamps, chil
 
 **Imports**<br>
 $23.883 billion (2022 est.)<br>
-$22.958 billion (2021 est.) note: data are in current year dollars<br>
-$20.164 billion (2020 est.) note: data are in current year dollars<br>
+$22.958 billion (2021 est.)<br>
+$20.164 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

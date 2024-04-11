@@ -493,15 +493,15 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$6,481,303,000 (2022 est.)<br>
--$3,404,941,000 (2021 est.)<br>
--$2,778,567,000 (2020 est.)<br>
+-$6.481 billion (2022 est.)<br>
+-$3.405 billion (2021 est.)<br>
+-$2.779 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $12.606 billion (2022 est.)<br>
-$10.147 billion (2021 est.) note: data are in current year dollars<br>
-$8.773 billion (2020 est.) note: data are in current year dollars<br>
+$10.147 billion (2021 est.)<br>
+$8.773 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -512,8 +512,8 @@ gold, diamonds, scrap iron, wood furniture, grapes, jewelry, cars (2021)<br>
 
 **Imports**<br>
 $24.163 billion (2022 est.)<br>
-$17.383 billion (2021 est.) note: data are in current year dollars<br>
-$15.206 billion (2020 est.) note: data are in current year dollars<br>
+$17.383 billion (2021 est.)<br>
+$15.206 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -526,7 +526,7 @@ refined petroleum, cars, packaged medicines, jewelry, gold (2019)<br>
 $32.513 billion (2022 est.)<br>
 $35.239 billion (2021 est.)<br>
 $42.44 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $33.077 billion (2019 est.)<br>

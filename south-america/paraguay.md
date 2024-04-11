@@ -89,7 +89,7 @@ _noun_: Paraguayan(s)<br>
 _adjective_: Paraguayan<br>
 
 **Ethnic groups**<br>
-Mestizo (mixed Spanish and Amerindian ancestry) 95%, other 5%<br>
+Mestizo (mixed Spanish and Indigenous ancestry) 95%, other 5%<br>
 
 **Languages**<br>
 Spanish (official) and Guarani (official) 46.3%, only Guarani 34%, only Spanish 15.2%, other (includes Portuguese, German, other Indigenous languages) 4.1%, no response 0.4%; note - data represent predominant household language (2012 est.)<br>
@@ -512,15 +512,15 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$2,792,719,000 (2022 est.)<br>
+-$2.793 billion (2022 est.)<br>
 -$308.061 million (2021 est.)<br>
 $685.188 million (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $14.971 billion (2022 est.)<br>
-$14.821 billion (2021 est.) note: data are in current year dollars<br>
-$12.339 billion (2020 est.) note: data are in current year dollars<br>
+$14.821 billion (2021 est.)<br>
+$12.339 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -531,8 +531,8 @@ soybeans and soybean products, electricity, beef, corn, insulated wiring (2019)<
 
 **Imports**<br>
 $17.142 billion (2022 est.)<br>
-$14.316 billion (2021 est.) note: data are in current year dollars<br>
-$10.982 billion (2020 est.) note: data are in current year dollars<br>
+$14.316 billion (2021 est.)<br>
+$10.982 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -545,7 +545,7 @@ broadcasting equipment, cars, pesticides, refined petroleum, tires (2019)<br>
 $9.519 billion (2022 est.)<br>
 $9.661 billion (2021 est.)<br>
 $9.202 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $16.622 billion (2019 est.)<br>
@@ -671,8 +671,8 @@ _total_: 30 km (2014)<br>
 _standard gauge_: 30 km (2014) 1.435-m gauge<br>
 
 **Roadways**<br>
-_total_: 78,811 km (2020)<br>
-_paved_: 8,573 km (2020)<br>
+_total_: 78,811 km<br>
+_paved_: 8,573 km<br>
 _unpaved_: 70,238 km (2020)<br>
 
 **Waterways**<br>

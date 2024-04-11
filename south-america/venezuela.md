@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Venezuela was one of three countries that emerged from the collapse of Gran Colombia in 1830 (the others being Ecuador and New Granada, which became Colombia). For most of the first half of the 20th century, Venezuela was ruled by military strongmen who promoted the oil industry and allowed for some social reforms. Although democratically elected governments largely held sway since 1959, the executive branch under Hugo CHAVEZ, president from 1999 to 2013, exercised increasingly authoritarian control over other branches of government.  This undemocratic trend continued in 2018 when Nicolas MADURO claimed the presidency for his second term in an election boycotted by most opposition parties and widely viewed as fraudulent.<br><br>The last democratically-elected institution is the 2015 National Assembly. In 2020, legislative elections were held for a new National Assembly, which the opposition boycotted, and which were widely condemned as fraudulent. The resulting assembly is viewed by most opposition parties and many international actors as illegitimate. In November 2021, most opposition parties broke a three-year election boycott to participate in mayoral and gubernatorial elections, despite flawed conditions. As a result, the opposition more than doubled its representation at the mayoral level and retained four of 23 governorships. The 2021 regional elections marked the first time since 2006 that the EU was allowed to send an electoral observation mission to Venezuela.<br><br>MADURO places strong restrictions on freedoms of expression and the press. Since CHAVEZ, the ruling party's economic policies expanded the state's role in the economy through expropriations of major enterprises, strict currency exchange and price controls that discourage private sector investment and production, and overdependence on the petroleum industry for revenues, among others. Years of economic mismanagement left Venezuela ill-prepared to weather the global drop in oil prices in 2014, sparking an economic decline that has resulted in reduced government social spending, shortages of basic goods, and high inflation. Worsened living conditions have prompted nearly 8 million Venezuelans to migrate, mainly settling in nearby countries. Since 2017, the US has imposed financial sanctions on MADURO and his representatives and, since 2018, on sectors of the Venezuelan economy. This began to change in response to MADURO and his representatives making democratic and electoral concessions, particularly in October 2023 when the opposition-led Unitary Platform signed an electoral roadmap agreement with MADURO representatives in Barbados. As a result, MADURO and his representatives received limited sanctions relief. MADURO and his representatives' mismanagement and lack of investment in infrastructure has debilitated the country's energy sector. Caracas has more recently relaxed some economic controls to mitigate the impact of its sustained economic crisis, such as allowing increased import flexibility for private citizens and companies and the informal use of US dollars and other international currencies. Still, ongoing concerns include human rights abuses, rampant violent crime, political manipulation of the judicial and electoral systems, and corruption.</p><br>
+<p>Venezuela was one of three countries that emerged from the collapse of Gran Colombia in 1830 (the others being Ecuador and New Granada, which became Colombia). For most of the first half of the 20th century, Venezuela was ruled by military strongmen who promoted the oil industry and allowed for some social reforms. Although democratically elected governments largely held sway since 1959, the executive branch under Hugo CHAVEZ, president from 1999 to 2013, exercised increasingly authoritarian control over other branches of government.  This undemocratic trend continued in 2018 when Nicolas MADURO claimed the presidency for his second term in an election boycotted by most opposition parties and widely viewed as fraudulent.<br><br>The last democratically-elected institution is the 2015 National Assembly. In 2020, legislative elections were held for a new National Assembly, which the opposition boycotted, and which were widely condemned as fraudulent. The resulting assembly is viewed by most opposition parties and many international actors as illegitimate. In November 2021, most opposition parties broke a three-year election boycott to participate in mayoral and gubernatorial elections, despite flawed conditions. As a result, the opposition more than doubled its representation at the mayoral level and retained four of 23 governorships. The 2021 regional elections marked the first time since 2006 that the EU was allowed to send an electoral observation mission to Venezuela.<br><br>MADURO places strong restrictions on freedoms of expression and the press. Since CHAVEZ, the ruling party's economic policies expanded the state's role in the economy through expropriations of major enterprises, strict currency exchange and price controls that discourage private sector investment and production, and over-dependence on the petroleum industry for revenues, among others. Years of economic mismanagement left Venezuela ill-prepared to weather the global drop in oil prices in 2014, sparking an economic decline that has resulted in reduced government social spending, shortages of basic goods, and high inflation. Worsened living conditions have prompted nearly 8 million Venezuelans to migrate, mainly settling in nearby countries. Since 2017, the US has imposed financial sanctions on MADURO and his representatives and, since 2018, on sectors of the Venezuelan economy. This began to change in response to MADURO and his representatives making democratic and electoral concessions, particularly in October 2023 when the opposition-led Unitary Platform signed an electoral roadmap agreement with MADURO representatives in Barbados. As a result, MADURO and his representatives received limited sanctions relief. MADURO and his representatives' mismanagement and lack of investment in infrastructure has debilitated the country's energy sector. Caracas has more recently relaxed some economic controls to mitigate the impact of its sustained economic crisis, such as allowing increased import flexibility for private citizens and companies and the informal use of US dollars and other international currencies. Still, ongoing concerns include human rights abuses, rampant violent crime, political manipulation of the judicial and electoral systems, and corruption.</p><br>
 
 ## Geography
 
@@ -335,12 +335,12 @@ _election results_: <br><em>2018: </em>Nicolas MADURO Moros reelected president;
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Asamblea Nacional (277 seats; 3 seats reserved for indigenous peoples of Venezuela; members serve 5-year terms); note - in 2020, the National Electoral Council increased the number of seats in the National Assembly from 167 to 277 for the 6 December 2020 election<br>
-_elections_: last held on 6 December 2020 (next to be held in December 2025)<br>
+_elections_: last held on 6 December 2020 (next expected to be held in December 2025)<br>
 _election results_: percent of vote by party - GPP (pro-government) 69.3%, Democratic Alliance (opposition coalition) 17.7%, other 13%; seats by party - GPP 253, Democratic Alliance 18, indigenous peoples 3, other 3; composition - NA<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Tribunal of Justice (consists of 32 judges organized into constitutional, political-administrative, electoral, civil appeals, criminal appeals, and social divisions)<br>
-_judge selection and term of office_: judges proposed by the Committee of Judicial Postulation (an independent body of organizations dealing with legal issues and of the organs of citizen power) and appointed by the National Assembly; judges serve nonrenewable 12-year terms; note - in July 2017, the National Assembly named 33 judges to the court to replace a series of judges, it argued, had been illegally appointed in late 2015 by the outgoing, socialist-party-led Assembly; the Government of President MADURO and the Socialist Party-appointed judges refused to recognize these appointments, however, and many of the new judges have since been imprisoned or forced into exile<br>
+_judge selection and term of office_: judges proposed by the Committee of Judicial Postulation (an independent body of organizations dealing with legal issues and of the organs of citizen power) and appointed by the National Assembly; judges serve nonrenewable 12-year terms; note - in July 2017, the National Assembly named 33 judges to the court to replace a series of judges, it argued, had been illegally appointed in late 2015 by the outgoing, socialist-party-led Assembly; MADURO and the Socialist Party-appointed judges refused to recognize these appointments, however, and many of the new judges have since been imprisoned or forced into exile<br>
 _subordinate courts_: Superior or Appeals Courts (Tribunales Superiores); District Tribunals (Tribunales de Distrito); Courts of First Instance (Tribunales de Primera Instancia); Parish Courts (Tribunales de Parroquia); Justices of the Peace (Justicia de Paz) Network<br>
 
 **Political parties and leaders**<br>
@@ -357,8 +357,8 @@ _FAX_: [1] (202) 342-6820; note - closed since 5 January 2023<br>
 _email address and website_: <br>despacho.embveus@mppre.gob.ve<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); as of 19 May 2023, Francisco L. PALMIERI serves as the chief of mission of the Venezuelan Affairs Unit, located at the United States Embassy, Bogota, Colombia<br>
-_embassy_: Venezuela Affairs Unit, Carrera 45 N. 24B-27, Bogota<br><br>previously - F St. and Suapure St.; Urb. Colinas de Valle Arriba; Caracas 1080<br>
+_chief of mission_: Ambassador (vacant); as of 19 May 2023, Francisco L. PALMIERI serves as the chief of mission of the Venezuela Affairs Unit<br>
+_embassy_: Venezuela Affairs Unit, US Embassy, Carrera 45 N. 24B-27, Bogota, Colombia<br><br>previously - F St. and Suapure St.; Urb. Colinas de Valle Arriba; Caracas 1080<br>
 _mailing address_: 3140 Caracas Place, Washington DC&nbsp; 20521-3140<br>
 _telephone_: 1-888-407-4747<br>  <br>
 _email address and website_: <br>ACSBogota@state.gov<br><br>https://ve.usembassy.gov/<br>
@@ -498,8 +498,7 @@ note: balance of payments - net trade and primary/secondary income in current do
 **Exports**<br>
 $83.401 billion (2018 est.)<br>
 $93.485 billion (2017 est.)<br>
-$28.684 billion (2016 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+$28.684 billion (2016 est.) note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 India 34%, China 28%, United States 12%, Spain 6% (2019)<br>
@@ -510,8 +509,7 @@ crude petroleum, refined petroleum, industrial alcohols, gold, iron (2019)<br>
 **Imports**<br>
 $18.432 billion (2018 est.)<br>
 $18.376 billion (2017 est.)<br>
-$25.81 billion (2016 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+$25.81 billion (2016 est.) note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 28%, United States 22%, Brazil 8%, Spain 6%, Mexico 6%&nbsp; (2019)<br>
@@ -523,7 +521,7 @@ refined petroleum, rice, corn, tires, soybean meal, wheat (2019)<br>
 $9.794 billion (2017 est.)<br>
 $10.15 billion (2016 est.)<br>
 $15.625 billion (2015 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $100.3 billion (31 December 2017 est.)<br>

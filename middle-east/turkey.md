@@ -352,7 +352,7 @@ _election results_: <em><br>2023: </em>Recep Tayyip ERDOGAN reelected president 
 **Legislative branch**<br>
 _description_: unicameral Grand National Assembly of Turkey or Turkey Buyuk Millet Meclisi (600 seats); members directly elected in multi-seat constituencies by closed party-list proportional representation vote, with a 10% threshold required to win a seat; members serve 5-year terms)<br>
 _elections_: last held on 14 May 2023 (next to be held in 2028)<br>
-_election results_: percent of vote by party/coalition - People's Alliance 49.9% (AKP 35.6%, MHP 10.1%, YRP 2.8%, BBP 1%), Nation Alliance 35.4% (CHP 25.3%, IYI 9.7%), Labor and Freedom Alliance 10.7% (YSGP 8.9%, TIP 1.8%); seats by party/coalition - People's Alliance 323 (AKP 268, MHP 50, YRP 5), Nation Alliance 212 (CHP 169, IYI 43), Labor and Freedom Alliance 65 (YSGP 61, TIP 4); composition - men 479, women 121, percent of women 20.2%<br>
+_election results_: <br>percent of vote by party/coalition - People's Alliance 49.9% (AKP 35.6%, MHP 10.1%, YRP 2.8%, BBP 1%), Nation Alliance 35.4% (CHP 25.3%, IYI 9.7%), Labor and Freedom Alliance 10.7% (YSGP 8.9%, TIP 1.8%); seats by party/coalition - People's Alliance 323 (AKP 268, MHP 50, YRP 5), Nation Alliance 212 (CHP 169, IYI 43), Labor and Freedom Alliance 65 (YSGP 61, TIP 4); composition as of February 2024 - men 480, women 119, percent of women 19.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Constitutional Court or Anayasa Mahkemesi (consists of the president, 2 vice presidents, and 12 judges); Court of Cassation (consists of about 390 judges and is organized into civil and penal chambers); Council of State (organized into 15 divisions - 14 judicial and 1 consultative - each with a division head and at least 5 members)<br>
@@ -527,7 +527,7 @@ calendar year<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$343.688 billion (2022 est.) note: data are in current year dollars<br>
+$343.688 billion (2022 est.)<br>
 $286.094 billion (2021 est.)<br>
 $206.621 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
@@ -539,7 +539,7 @@ Germany 8%, United States 7%, United Kingdom 5%, Iraq 5%, Italy 5% (2022)<br>
 refined petroleum, cars, jewelry, motor vehicle parts/accessories, delivery trucks (2022)<br>
 
 **Imports**<br>
-$383.5 billion (2022 est.) note: data are in current year dollars<br>
+$383.5 billion (2022 est.)<br>
 $283.595 billion (2021 est.)<br>
 $230.136 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
@@ -554,7 +554,7 @@ gold, refined petroleum, scrap iron, cars, natural gas (2022)<br>
 $123.735 billion (2022 est.)<br>
 $109.535 billion (2021 est.)<br>
 $93.512 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $438.677 billion (2019 est.)<br>

@@ -305,8 +305,8 @@ _election results_: <em>2010:</em> Salva KIIR Mayardit elected leader of then-So
 
 **Legislative branch**<br>
 _description_: bicameral National Legislature consists of:<br>Council of States, pending establishment as stipulated by the 2018 peace deal<br>Transitional National Legislative Assembly (TNLA), established on 4 August 2016, in accordance with the August 2015 Agreement on the Resolution of the Conflict in the Republic of South Sudan; note - originally 400 seats; the TNLA was expanded to 550 members from 400 and reestablished in May 2020 under the 2018 peace agreement<br>
-_elections_: Council of States - pending establishment as stipulated by the 2018 peace deal<br>Transitional National Legislative Assembly - 550 members; percent of vote by party - NA; seats by party - 332 SPLM, 128 SPLM-IO, 90 other political parties; composition - NA<br>
-_election results_: Council of States - percent of vote by party - NA; seats by party - SPLM 20, unknown 30; composition - men 44, women 6, percent of women 12%<br>National Legislative Assembly - percent of vote by party - NA; seats by party - SPLM 251, DCP 10, independent 6, unknown 133; composition - men 291, women 109, percent of women 27.3%; note - total National Legislature percent of women 25.6%<br>
+_elections_: Council of States - pending establishment as stipulated by the 2018 peace deal<br>Transitional National Legislative Assembly - percent of vote by party - NA; seats by party - 332 SPLM, 128 SPLM-IO, 90 other political parties; composition - NA<br>
+_election results_: Council of States - percent of vote by party - NA; seats by party - SPLM 20, unknown 30; composition - men 44, women 6, percent of women 12%<br><br>National Legislative Assembly - percent of vote by party - NA; seats by party - SPLM 251, DCP 10, independent 6, unknown 133; composition - men 291, women 109, percent of women 27.3%; note - total National Legislature percent of women 25.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of South Sudan (consists of a chief justice, deputy chief justice, and 5 additional justices); note - consistent with the 2008 Judiciary Act, the Transitional Constitution of South Sudan calls for 9, rather than 5 additional justices<br>
@@ -439,13 +439,13 @@ _expenditures_: $1.938 billion (2019 est.)<br>
 **Current account balance**<br>
 -$596.748 million (2022 est.)<br>
 -$6.55 million (2021 est.)<br>
--$1,717,500,000 (2020 est.)<br>
+-$1.718 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $5.811 billion (2022 est.)<br>
-$4.652 billion (2021 est.) note: data are in current year dollars<br>
-$2.344 billion (2020 est.) note: data are in current year dollars<br>
+$4.652 billion (2021 est.)<br>
+$2.344 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -456,8 +456,8 @@ crude petroleum, gold, forage crops, lumber, insect resins (2019)<br>
 
 **Imports**<br>
 $6.402 billion (2022 est.)<br>
-$4.037 billion (2021 est.) note: data are in current year dollars<br>
-$4.245 billion (2020 est.) note: data are in current year dollars<br>
+$4.037 billion (2021 est.)<br>
+$4.245 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -470,7 +470,7 @@ cars, delivery trucks, packaged medicines, foodstuffs, clothing and apparel (201
 $183.615 million (2020 est.)<br>
 $378.282 million (2019 est.)<br>
 $36.396 million (2018 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: South Sudanese pounds (SSP) per US dollar -<br>

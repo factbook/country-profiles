@@ -504,7 +504,7 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $267.377 million (2022 est.)<br>
-$142.652 million (2021 est.) note: data are in current year dollars<br>
+$142.652 million (2021 est.)<br>
 $175.682 million (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
@@ -516,7 +516,7 @@ cashews, lumber, refined petroleum, shellfish, scrap iron, fish, sesame seeds (2
 
 **Imports**<br>
 $829.516 million (2022 est.)<br>
-$726.23 million (2021 est.) note: data are in current year dollars<br>
+$726.23 million (2021 est.)<br>
 $690.979 million (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
@@ -530,7 +530,7 @@ clothing and apparel, refined petroleum, rice, raw sugar, palm oil (2019)<br>
 $568.244 million (2022 est.)<br>
 $652.671 million (2021 est.)<br>
 $387.046 million (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $586.8 million (31 December 2017 est.)<br>
@@ -651,8 +651,8 @@ C5<br>
 1 (2024)<br>
 
 **Roadways**<br>
-_total_: 2,977 km (2011)<br>
-_paved_: 518 km (2011)<br>
+_total_: 2,977 km<br>
+_paved_: 518 km<br>
 _unpaved_: 2,459 km (2011)<br>
 
 **Waterways**<br>

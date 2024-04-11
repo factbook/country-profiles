@@ -570,8 +570,8 @@ _narrow gauge_: 1,118.1 km (2018) 1.067-m gauge (793.9 km electrified)<br>
 150 0.762-m gauge <strong>note:</strong> the 0.762-gauge track belongs to three entities: the Forestry Bureau, Taiwan Cement, and TaiPower<br>
 
 **Roadways**<br>
-_total_: 43,206 km (2017)<br>
-_paved_: 42,793 km (2017) (includes 1,348 km of highways and 737 km of expressways)<br>
+_total_: 43,206 km<br>
+_paved_: 42,793 km (includes 1,348 km of highways and 737 km of expressways)<br>
 _unpaved_: 413 km (2017)<br>
 
 **Merchant marine**<br>

@@ -413,7 +413,6 @@ note: balance of payments - net trade and primary/secondary income in current do
 $1.92 billion (2021 est.)<br>
 $1.8 billion (2020 est.)<br>
 $1.79 billion (2019 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 55%, South Korea 16%, Japan 11%, Taiwan 4%, Spain 3% (2021)<br>
@@ -425,7 +424,6 @@ iron alloys, nickel, essential oils, recreational boats, shrimp (2021)<br>
 $2.26 billion (2021 est.)<br>
 $2.1 billion (2020 est.)<br>
 $2.48 billion (2019 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 France 39%, Australia 14%, Singapore 11%, New Zealand 7%, China 7% (2021)<br>

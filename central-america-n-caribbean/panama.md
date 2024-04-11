@@ -504,8 +504,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $36.145 billion (2022 est.)<br>
-$27.338 billion (2021 est.) note: data are in current year dollars<br>
-$19.792 billion (2020 est.) note: data are in current year dollars<br>
+$27.338 billion (2021 est.)<br>
+$19.792 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -516,8 +516,8 @@ refined petroleum, copper, bananas, ships, coal tar oil, packaged medicines (201
 
 **Imports**<br>
 $35.692 billion (2022 est.)<br>
-$24.424 billion (2021 est.) note: data are in current year dollars<br>
-$17.614 billion (2020 est.) note: data are in current year dollars<br>
+$24.424 billion (2021 est.)<br>
+$17.614 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

@@ -528,8 +528,8 @@ clothing and footwear, trunks and cases, rice, rubber, light fixtures (2021)<br>
 
 **Imports**<br>
 $34.759 billion (2022 est.)<br>
-$32.816 billion (2021 est.) note: data are in current year dollars<br>
-$23.091 billion (2020 est.) note: data are in current year dollars<br>
+$32.816 billion (2021 est.)<br>
+$23.091 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

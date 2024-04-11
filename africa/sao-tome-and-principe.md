@@ -486,8 +486,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $96.977 million (2022 est.)<br>
-$75.256 million (2021 est.) note: data are in current year dollars<br>
-$49.337 million (2020 est.) note: data are in current year dollars<br>
+$75.256 million (2021 est.)<br>
+$49.337 million (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -498,8 +498,8 @@ gas turbines, cocoa beans, aircraft parts, iron products, chocolate (2019)<br>
 
 **Imports**<br>
 $219.322 million (2022 est.)<br>
-$201.145 million (2021 est.) note: data are in current year dollars<br>
-$160.097 million (2020 est.) note: data are in current year dollars<br>
+$201.145 million (2021 est.)<br>
+$160.097 million (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -512,7 +512,7 @@ refined petroleum, cars, rice, flavored water, postage stamps (2019)<br>
 $48.607 million (2022 est.)<br>
 $75.017 million (2021 est.)<br>
 $75.288 million (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $292.9 million (31 December 2017 est.)<br>
@@ -632,8 +632,8 @@ S9<br>
 2 (2024)<br>
 
 **Roadways**<br>
-_total_: 1,300 km (2018)<br>
-_paved_: 230 km (2018)<br>
+_total_: 1,300 km<br>
+_paved_: 230 km<br>
 _unpaved_: 1,070 km (2018)<br>
 
 **Merchant marine**<br>

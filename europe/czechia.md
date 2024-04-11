@@ -505,8 +505,8 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$17,365,733,000 (2022 est.)<br>
--$7,686,437,000 (2021 est.)<br>
+-$17.366 billion (2022 est.)<br>
+-$7.686 billion (2021 est.)<br>
 $4.967 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
@@ -524,8 +524,8 @@ cars and vehicle parts, computers, broadcasting equipment, office machinery and 
 
 **Imports**<br>
 $218.002 billion (2022 est.)<br>
-$197.515 billion (2021 est.) note: data are in current year dollars<br>
-$156.129 billion (2020 est.) note: data are in current year dollars<br>
+$197.515 billion (2021 est.)<br>
+$156.129 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -538,7 +538,7 @@ broadcasting equipment, cars and vehicle parts, office machinery/parts, computer
 $139.981 billion (2022 est.)<br>
 $173.618 billion (2021 est.)<br>
 $166.126 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $191.871 billion (2019 est.)<br>
@@ -644,7 +644,7 @@ _international_: country code - 420; satellite earth stations - 6 (2 Intersputni
 
 **Internet users**<br>
 _total_: 9.13 million (2021 est.)<br>
-_percent of population_: 83% (20201 est.)<br>
+_percent of population_: 83% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,845,426 (2020 est.)<br>

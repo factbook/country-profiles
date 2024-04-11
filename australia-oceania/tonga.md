@@ -320,9 +320,9 @@ _election results_: Siaosi SOVALENI elected prime minister by the Legislative As
 <strong>note:</strong> a Privy Council advises the monarch<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Fale Alea (30 seats statutory, 26 current); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 4-year terms)<br>
+_description_: unicameral Legislative Assembly or Fale Alea (30 seats statutory, 28 current); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 4-year terms)<br>
 _elections_: last held on 18 November 2021 (next to be held in November 2025)<br>
-_election results_: percent of vote - NA; seats by party (elected members) - independents 11, nobles' representatives 9, DPFI 3, TPPI 3; composition - men 26, women 2, percent of women 7.14%<br>
+_election results_: <br>percent of vote - NA; seats by party - independent 11, nobles' representatives 9, DPFI 3, TPPI 3; composition as of February 2024 - men 26, women 2, percent of women 7.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers<br>
@@ -474,8 +474,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $59.622 million (2022 est.)<br>
-$58.152 million (2021 est.) note: data are in current year dollars<br>
-$99.78 million (2020 est.) note: data are in current year dollars<br>
+$58.152 million (2021 est.)<br>
+$99.78 million (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -486,8 +486,8 @@ natural gas, shellfish, various fruits and nuts, vegetables, cassava, coral and 
 
 **Imports**<br>
 $329.146 million (2022 est.)<br>
-$291.957 million (2021 est.) note: data are in current year dollars<br>
-$309.685 million (2020 est.) note: data are in current year dollars<br>
+$291.957 million (2021 est.)<br>
+$309.685 million (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -500,7 +500,7 @@ refined petroleum, poultry meats, cars, mutton, goat meat, lumber, x-ray equipme
 $375.564 million (2022 est.)<br>
 $361.812 million (2021 est.)<br>
 $298.948 million (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $189.9 million (31 December 2017 est.)<br>
@@ -617,8 +617,8 @@ A3<br>
 6 (2024)<br>
 
 **Roadways**<br>
-_total_: 680 km (2011)<br>
-_paved_: 184 km (2011)<br>
+_total_: 680 km<br>
+_paved_: 184 km<br>
 _unpaved_: 496 km (2011)<br>
 
 **Merchant marine**<br>
@@ -655,5 +655,5 @@ the HMAF’s primary missions are protecting the King and Tonga’s sovereignty;
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Tonga-Fiji</em>: Fiji does not recognize Tonga’s 1972 claim to the Minerva Reefs and their surrounding waters; the Minerva Reefs’ 200-mile exclusive economic zone includes valuable fishing grounds</p> <p> </p><br>
+<p><em>Tonga-Fiji</em>: Fiji does not recognize Tonga’s 1972 claim to the Minerva Reefs and their surrounding waters</p> <p> </p><br>
 

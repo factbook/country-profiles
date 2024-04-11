@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Burma, colonized by Britain in the 19th century and granted independence post-World War II, contains ethnic Burman and scores of other ethnic and religious minority groups that have all resisted external efforts to consolidate control of the country throughout its history, extending to the several minority groups today that possess independent fighting forces and control pockets of territory. In 1962, Gen. NE WIN seized power and ruled Burma until 1988 when a new military regime took control. In 1990, the military regime permitted an election but then rejected the results after the main opposition National League for Democracy (NLD) and its leader AUNG SAN SUU KYI (ASSK) won in a landslide. The military regime placed ASSK under house arrest for much of the next 20 years, until November 2010. In 2007, rising fuel prices in Burma led pro-democracy activists and Buddhist monks to launch a "Saffron Revolution" consisting of large protests against the ruling regime, which violently suppressed the movement by killing an unknown number of participants and arresting thousands. The regime prevented new elections until it had drafted a constitution designed to preserve the military's political control; it passed the new constitution in its 2008 referendum, days after Cyclone Nargis killed at least 138,000. The military regime conducted an election in 2010, but the NLD boycotted the vote, and the military’s political proxy, the Union Solidarity and Development Party, easily won; international observers denounced the election as flawed. <br><br>With former or current military officers installed in the government's most senior positions, Burma began a halting process of political and economic reforms. Officials freed prisoners, brokered ceasefires with ethnic armed groups (EAGs), amended courts, expanded civil liberties, brought ASSK into government in 2012, and permitted the NLD in 2015 to take power after a sweeping electoral win. However, Burma’s first credibly elected civilian government, with ASSK as the de facto head of state, faced strong headwinds after five decades of military dictatorship. The NLD government drew international criticism for blocking investigations of Burma’s military for operations, which the US Department of State determined constituted genocide, on its ethnic Rohingya population that killed thousands and forced more than 770,000 to flee into neighboring Bangladesh. The military did not support an NLD pledge in 2019 to examine reforming the military’s 2008 constitution. When the 2020 elections resulted in further NLD gains, the military denounced them as fraudulent. Burma military Commander-in-Chief Sr. General MIN AUNG HLAING launched a coup in February 2021 that returned Burma to authoritarian rule with military crackdowns that undid economic and political reforms and resulted in the detention of ASSK and thousands of pro-democracy actors, as well as widespread armed conflict and economic insecurity.<br><br>Since the coup and subsequent military crackdown, members of parliament elected in November 2020 and ousted by the military and other political actors have formed pro-democracy organizations, including the National Unity Government (NUG). Members of the NUG include representatives from the NLD, ethnic minority groups, civil society, and other minor parties. In May 2021, the NUG announced the formation of armed militias called the People's Defense Forces (PDF), and in September that same year announced the start of an insurgency against the military junta after the formation of hundreds of PDF armed groups. As of 2024, PDF groups across the country continued to fight the military regime with varying levels of support from and cooperation with the NUG and antiregime EAGs.</p><br>
+<p>Burma is home to ethnic Burmans and scores of other ethnic and religious minority groups that have resisted external efforts to consolidate control of the country throughout its history. Burma was a province of British India until 1937 and then a self-governing colony until it gained independence from Britain in 1948. In 1962, General NE WIN seized power and ruled Burma until 1988 when a new military regime took control. In 1990, the military regime permitted an election but then rejected the results after the main opposition National League for Democracy (NLD) and its leader AUNG SAN SUU KYI (ASSK) won in a landslide. The military regime placed ASSK under house arrest until 2010. In 2007, rising fuel prices in Burma led pro-democracy activists and Buddhist monks to launch a "Saffron Revolution" consisting of large protests against the regime, which violently suppressed the movement. The regime prevented new elections until it had drafted a constitution designed to preserve the military's political control; it passed the new constitution in its 2008 referendum. The regime conducted an election in 2010, but the NLD boycotted the vote, and the military’s political proxy, the Union Solidarity and Development Party, easily won; international observers denounced the election as flawed. <br><br>Burma nonetheless began a halting process of political and economic reforms. ASSK's return to government in 2012 eventually led to the NLD's sweeping victory in the 2015 election. With ASSK as the de facto head of state, Burma’s first credibly elected civilian government drew international criticism for blocking investigations into Burma’s military operations -- which the US Department of State determined constituted genocide -- against its ethnic Rohingya population. When the 2020 elections resulted in further NLD gains, the military denounced the vote as fraudulent. In 2021, Commander-in-Chief Sr. General MIN AUNG HLAING launched a coup that returned Burma to authoritarian rule, with military crackdowns that undid reforms and resulted in the detention of ASSK and thousands of pro-democracy actors.<br><br>Pro-democracy organizations have formed in the wake of the coup, including the National Unity Government (NUG). Members of the NUG include representatives from the NLD, ethnic minority groups, and civil society. In 2021, the NUG announced the formation of armed militias called the People's Defense Forces (PDF) and an insurgency against the military junta. As of 2024, PDF groups across the country continued to fight the regime with varying levels of support from and cooperation with the NUG and antiregime groups.</p><br>
 
 ## Geography
 
@@ -522,14 +522,14 @@ note: central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
 $67.72 million (2019 est.)<br>
--$2,561,159,000 (2018 est.)<br>
--$4,916,790,000 (2017 est.)<br>
+-$2.561 billion (2018 est.)<br>
+-$4.917 billion (2017 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$20.4 billion (2021 est.) note: data are in current year dollars<br>
-$17.523 billion (2019 est.) note: data are in current year dollars<br>
-$15.728 billion (2018 est.) note: data are in current year dollars<br>
+$20.4 billion (2021 est.)<br>
+$17.523 billion (2019 est.)<br>
+$15.728 billion (2018 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -540,9 +540,9 @@ natural gas, clothing products, dried legumes, precious stones, yttrium, scandiu
 <strong>note:</strong> Burmese methamphetamine production and opiate production remain significant illicit trade commodities<br>
 
 **Imports**<br>
-$23.1 billion (2021 est.) note: data are in current year dollars<br>
-$17.356 billion (2019 est.) note: data are in current year dollars<br>
-$18.664 billion (2018 est.) note: data are in current year dollars<br>
+$23.1 billion (2021 est.)<br>
+$17.356 billion (2019 est.)<br>
+$18.664 billion (2018 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -555,7 +555,7 @@ refined petroleum, palm oil, fabrics, packaged medicines, broadcasting equipment
 $7.67 billion (2020 est.)<br>
 $5.824 billion (2019 est.)<br>
 $5.646 billion (2018 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $6.594 billion (31 December 2017 est.)<br>

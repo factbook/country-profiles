@@ -282,8 +282,8 @@ _agricultural_: 18.96 billion cubic meters (2020 est.)<br>
 111.5 billion cubic meters (2020 est.)<br>
 
 **Geoparks**<br>
-_total global geoparks and regional networks_: 16<br>
-_global geoparks and regional networks_: Basque Coast UNESCO; Cabo de Gata-N&iacute;jar; Cabo Ortegal; Central Catalonia; Courel Mountains; El Hierro; Granada; Lanzarote and Chinijo Islands; Las Loras; Maestrazgo; Molina-Alto; Origens; Sierra Norte de Sevilla; Sierras Subb&eacute;ticas; Sobrarbe-Pirineos: Villuercas Ibores Jara (2023)<br>
+_total global geoparks and regional networks_: 17 (2024)<br>
+_global geoparks and regional networks_: Basque Coast UNESCO; Cabo de Gata-N&iacute;jar; Cabo Ortegal; Calatrava Volcanoes. Ciudad Real; Central Catalonia; Courel Mountains; El Hierro; Granada; Lanzarote and Chinijo Islands; Las Loras; Maestrazgo; Molina-Alto; Origens; Sierra Norte de Sevilla; Sierras Subb&eacute;ticas; Sobrarbe-Pirineos: Villuercas Ibores Jara (2024)<br>
 
 ## Government
 
@@ -345,7 +345,7 @@ _election results_: Congress of Deputies vote - NA<br>
 **Legislative branch**<br>
 _description_: bicameral General Courts or Las Cortes Generales consists of:<br>Senate or Senado (265 seats; 208 members directly elected in multi-seat constituencies by simple majority vote and 57 members indirectly elected by the legislatures of the autonomous communities; members serve 4-year terms)<br>Congress of Deputies or Congreso de los Diputados (350 seats; 348 members directly elected in 50 multi-seat constituencies by closed-list proportional representation vote, with a 3% threshold needed to gain a seat, and 2 directly elected from the North African Ceuta and Melilla enclaves by simple majority vote; members serve 4-year terms or until the government is dissolved)<br>
 _elections_: <br>Senate - last held on 23 July 2023 (next to be held no later than July 2027)<br>Congress of Deputies - last held on 23 July 2023 (next to be held no later than July 2027)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PP 120, PSOE 72, ERC 7, PNV 4, other 5; composition as of January 2024 - men 153, women 112; percent of women 42.3%<br>Congress of Deputies - percent of vote by party - PP 33.1%, PSOE 31.7%, Vox 12.4%, Sumar 12.3%, ERC 1.7%, Junts 1.6%, EH-Bildu 1.4%, PNV 1.1% other 4.7%; seats by party - PP 137, PSOE 121, Vox 33, Sumar 31, ERC 7, Junts 7, EH-Bildu 6, PNV 5, other 3; composition as of January 2024 - men 195, women 155, percent of women 44.3%; note - overall General Courts percent of women 42%<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PP 120, PSOE 72, ERC 7, PNV 4, other 5; composition as of January 2024 - men 153, women 112; percent of women 42.3%<br><br>Congress of Deputies - percent of vote by party - PP 33.1%, PSOE 31.7%, Vox 12.4%, Sumar 12.3%, ERC 1.7%, Junts 1.6%, EH-Bildu 1.4%, PNV 1.1% other 4.7%; seats by party - PP 137, PSOE 121, Vox 33, Sumar 31, ERC 7, Junts 7, EH-Bildu 6, PNV 5, other 3; composition as of January 2024 - men 195, women 155, percent of women 44.3%; note - overall General Courts percent of women 42%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Tribunal Supremo (consists of the court president and organized into the Civil Room, with a president and 9 judges; the Penal Room, with a president and 14 judges; the Administrative Room, with a president and 32 judges; the Social Room, with a president and 12 judges; and the Military Room, with a president and 7 judges); Constitutional Court or Tribunal Constitucional de Espana (consists of 12 judges)<br>
@@ -519,8 +519,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $578.039 billion (2022 est.)<br>
-$493.359 billion (2021 est.) ; note: data are in current year dollars<br>
-$393.87 billion (2020 est.) ; note: data are in current year dollars<br>
+$493.359 billion (2021 est.)<br>
+$393.87 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -531,8 +531,8 @@ cars and vehicle parts, refined petroleum, packaged medicines, delivery trucks, 
 
 **Imports**<br>
 $561.49 billion (2022 est.)<br>
-$479.392 billion (2021 est.) note: data are in current year dollars<br>
-$375.378 billion (2020 est.) note: data are in current year dollars<br>
+$479.392 billion (2021 est.)<br>
+$375.378 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -545,7 +545,7 @@ crude petroleum, cars and vehicle parts, packaged medicines, natural gas, refine
 $92.905 billion (2022 est.)<br>
 $92.201 billion (2021 est.)<br>
 $81.288 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2.338 trillion (2019 est.)<br>

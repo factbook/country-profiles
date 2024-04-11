@@ -348,8 +348,8 @@ _election results_: <br><em>2020:</em> Faure GNASSINGBE reelected president; per
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (91 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms); party lists are required to contain equal numbers of men and women<br>
-_elections_: last held on 20 December 2018 (next to be held on March 2024)<br>
-_election results_: percent of vote by coalition/party - NA; seats by party - UNIR 59, UFC 7, NET 3, MPDD 2, MRC 1, PDP 1, independent 18; composition - men 76, women 15, percent of women 16.5%<br>
+_elections_: last held on 20 December 2018 (next election was to be held on 20 April 2024 but has been indefinitely postponed)<br>
+_election results_: <br>percent of vote by party - NA; seats by party - UNIR 59, UFC 7, NET 3, MPDD 2, MRC 1, PDP 1, independent 18; composition - men 76, women 15, percent of women 16.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (organized into criminal and administrative chambers, each with a chamber president and advisors); Constitutional Court (consists of 9 judges, including the court president)<br>
@@ -513,8 +513,8 @@ calendar year<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$1.722 billion (2020 est.) note: data are in current year dollars<br>
-$1.665 billion (2019 est.) note: data are in current year dollars<br>
+$1.722 billion (2020 est.)<br>
+$1.665 billion (2019 est.)<br>
 $1.703 billion (2018 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
@@ -525,8 +525,8 @@ India 16%, Benin 15%, Burkina Faso 6%, France 6%, Morocco 5% (2019)<br>
 refined petroleum, crude petroleum, electricity, calcium phosphates, cotton (2019)<br>
 
 **Imports**<br>
-$2.389 billion (2020 est.) note: data are in current year dollars<br>
-$2.261 billion (2019 est.) note: data are in current year dollars<br>
+$2.389 billion (2020 est.)<br>
+$2.261 billion (2019 est.)<br>
 $2.329 billion (2018 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
@@ -667,9 +667,9 @@ _total_: 568 km (2014)<br>
 _narrow gauge_: 568 km (2014) 1.000-m gauge<br>
 
 **Roadways**<br>
-_total_: 9,951 km (2018)<br>
-_paved_: 1,794 km (2018)<br>
-_unpaved_: 8,157 km (2018)<br>
+_total_: 9,951 km<br>
+_paved_: 1,794 km<br>
+_unpaved_: 8,157 km<br>
 _urban_: 1,783 km (2018)<br>
 
 **Waterways**<br>

@@ -454,7 +454,7 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $262.355 million (2022 est.)<br>
-$140.343 million (2021 est.) note: data are in current year dollars<br>
+$140.343 million (2021 est.)<br>
 $184.627 million (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
@@ -466,7 +466,7 @@ recreational boats, drilling platforms, cargo ships, wheat flours, animal food, 
 
 **Imports**<br>
 $508.404 million (2022 est.)<br>
-$425.4 million (2021 est.) note: data are in current year dollars<br>
+$425.4 million (2021 est.)<br>
 $375.036 million (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
@@ -480,7 +480,7 @@ dredger ships, refined petroleum, floating docks, aircraft, poultry, packaged me
 $320.193 million (2022 est.)<br>
 $311.903 million (2021 est.)<br>
 $205.195 million (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $362.2 million (31 December 2017 est.)<br>

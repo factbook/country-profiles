@@ -509,8 +509,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $10.129 billion (2022 est.)<br>
-$8.33 billion (2021 est.) note: data are in current year dollars<br>
-$6.073 billion (2020 est.) note: data are in current year dollars<br>
+$8.33 billion (2021 est.)<br>
+$6.073 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -521,8 +521,8 @@ clothing, electrical capacitors, plastic lids, sugar, packaged medicines, toilet
 
 **Imports**<br>
 $18.07 billion (2022 est.)<br>
-$15.459 billion (2021 est.) note: data are in current year dollars<br>
-$10.398 billion (2020 est.) note: data are in current year dollars<br>
+$15.459 billion (2021 est.)<br>
+$10.398 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -693,9 +693,6 @@ the FAES has a mix of mostly older imported platforms, largely from the US (2023
 **Military service age and obligation**<br>
 18-30 years of age for selective compulsory military service; 16-22 years of age for voluntary military service for men and women; service obligation is 12 months, with 11 months for officers and non-commissioned officers (2023)<br>
 <strong>note:</strong> as of 2016, women made up about 6% of the active-duty military<br>
-
-**Military deployments**<br>
-110 Mali (MINUSMA) (2023)<br>
 
 **Military - note**<br>
 the Armed Force of El Salvador (FAES) is responsible for defending national sovereignty and ensuring territorial integrity but also has considerable domestic security responsibilities; while the National Civil Police (PNC) is responsible for maintaining public security, the country’s constitution allows the president to use the FAES “in exceptional circumstances” to maintain internal peace and public security; in 2016, the government created a special 1,000-strong joint unit of Army commandos and police to fight criminal gangs; more military personnel were devoted to internal security beginning in 2019 when President BUKELE signed a decree authorizing military involvement in police duties to combat rising gang violence, organized crime, and narcotics trafficking, as well as assisting with border security; since the decree, a considerable portion of the Army has been deployed in support of the PNC; in multiple cases since 2022, for example, as many as 8,000 troops have been deployed alongside thousands of police on single operations against criminal gang members <br><br>the FAES trains regularly, as well as with regional partners and the US, in such areas as internal security and disaster relief operations; it has deployed small numbers of personnel on UN peacekeeping missions and in support of military operations in Iraq (2003-2009); the FAES is deployed throughout the country in zones; the Army’s combat units are six infantry brigades, plus a special security brigade comprised of border guards and military police, and an artillery brigade; the Navy operates patrol boats and has a small force of naval commandos; the Air Force has a few dozen light ground attack fixed-wing aircraft and multirole helicopters<br><br>the military led the country for much of the 20th century; from 1980 to 1992, it fought a bloody civil war against guerrillas from the Farabundo Martí National Liberation Front or FMLN, the paramilitary arm of the Democratic Revolutionary Front (Frente Democrático Revolucionario), a coalition of left-wing dissident political groups backed by Cuba and the Soviet Union; the FAES received considerable US support during the conflict; significant human rights violations occurred during the war and approximately 75,000 Salvadorans, mostly civilians, were killed (2023)<br>

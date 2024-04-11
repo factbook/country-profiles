@@ -341,7 +341,7 @@ _election results_: <br><em>2023: </em>Julius Maada BIO reelected president in f
 **Legislative branch**<br>
 _description_: unicameral Parliament (146 seats; 132 members directly elected in single-seat constituencies by a district block proportional representation vote and 14 seats filled in separate elections by non-partisan members of Parliament called "paramount chiefs;" members serve 5-year terms)<br>
 _elections_: last held on 24 June 2023 (next to be held in 2028)<br>
-_election results_: percent of vote by party - n/a; seats by party - SLPP 81, APC 54; composition - men 94, women 41, percent of women 30.3%<br>
+_election results_: percent of vote by party - NA; seats by party - SLPP 81, APC 54; composition - men 94, women 41, percent of women 30.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Superior Court of Judicature (consists of the Supreme Court - at the apex - with the chief justice and 4 other judges, the Court of Appeal with the chief justice and 7 other judges, and the High Court of Justice with the chief justice and 9 other judges); note &ndash; the Judicature has jurisdiction in all civil, criminal, and constitutional matters<br>
@@ -494,8 +494,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $1.114 billion (2021 est.)<br>
-$661.505 million (2020 est.) note: data are in current year dollars<br>
-$632.405 million (2019 est.) note: data are in current year dollars<br>
+$661.505 million (2020 est.)<br>
+$632.405 million (2019 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -506,8 +506,8 @@ titanium, lumber, diamonds, aluminum, cocoa beans (2019)<br>
 
 **Imports**<br>
 $1.869 billion (2021 est.)<br>
-$1.386 billion (2020 est.) note: data are in current year dollars<br>
-$1.818 billion (2019 est.) note: data are in current year dollars<br>
+$1.386 billion (2020 est.)<br>
+$1.818 billion (2019 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -520,7 +520,7 @@ rice, plastics, packaged medicines, sauces/seasonings, cars (2019)<br>
 $624.641 million (2022 est.)<br>
 $945.908 million (2021 est.)<br>
 $707.704 million (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.615 billion (31 December 2017 est.)<br>
@@ -639,8 +639,8 @@ _annual freight traffic on registered air carriers_: 0 (2015) mt-km<br>
 3 (2024)<br>
 
 **Roadways**<br>
-_total_: 11,701 km (2015)<br>
-_paved_: 1,051 km (2015)<br>
+_total_: 11,701 km<br>
+_paved_: 1,051 km<br>
 _unpaved_: 10,650 km (2015)<br>
 _urban_: 3,000 km (2015)<br>
 _non-urban_: 8,700 km (2015)<br>

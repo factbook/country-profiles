@@ -452,8 +452,8 @@ _percent of population_: 88.7% (2022 est.)<br>
 2 (2024)<br>
 
 **Roadways**<br>
-_total_: 117 km (2009)<br>
-_paved_: 80 km (2009)<br>
+_total_: 117 km<br>
+_paved_: 80 km<br>
 _unpaved_: 37 km (2009)<br>
 
 **Ports and terminals**<br>

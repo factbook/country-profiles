@@ -431,7 +431,6 @@ note: balance of payments - net trade and primary/secondary income in current do
 $187 million (2021 est.)<br>
 $105 million (2020 est.)<br>
 $32.7 million (2019 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Thailand 49%, Saudi Arabia 14%, Philippines 11%, South Korea 8%, India 7% (2021)<br>
@@ -443,7 +442,6 @@ skipjack, calcium phosphates, tuna, cars, delivery trucks, low-voltage protectio
 $94.2 million (2021 est.)<br>
 $103 million (2020 est.)<br>
 $88.2 million (2019 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Australia 36%, Taiwan 16%, China 12%, Japan 12%, Nigeria 7% (2021)<br>
@@ -567,8 +565,8 @@ C2<br>
 1 (2024)<br>
 
 **Roadways**<br>
-_total_: 30 km (2002)<br>
-_paved_: 24 km (2002)<br>
+_total_: 30 km<br>
+_paved_: 24 km<br>
 _unpaved_: 6 km (2002)<br>
 
 **Merchant marine**<br>

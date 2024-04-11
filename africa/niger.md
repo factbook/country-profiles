@@ -527,8 +527,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $1.487 billion (2021 est.)<br>
-$1.338 billion (2020 est.) note: data are in current year dollars<br>
-$1.387 billion (2019 est.) note: data are in current year dollars<br>
+$1.338 billion (2020 est.)<br>
+$1.387 billion (2019 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -539,8 +539,8 @@ gold, sesame seeds, uranium, refined petroleum, onions (2021)<br>
 
 **Imports**<br>
 $4.027 billion (2021 est.)<br>
-$3.542 billion (2020 est.) note: data are in current year dollars<br>
-$3.395 billion (2019 est.) note: data are in current year dollars<br>
+$3.542 billion (2020 est.)<br>
+$3.395 billion (2019 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -674,8 +674,8 @@ _inventory of registered aircraft operated by air carriers_: 3<br>
 2,444 km oil (2024)<br>
 
 **Roadways**<br>
-_total_: 18,949 km (2018)<br>
-_paved_: 3,979 km (2018)<br>
+_total_: 18,949 km<br>
+_paved_: 3,979 km<br>
 _unpaved_: 14,969 km (2018)<br>
 
 **Waterways**<br>

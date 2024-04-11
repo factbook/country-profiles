@@ -351,15 +351,15 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Bassirou Diomaye FAYE (since 2 April 2024)<br>
-_head of government_: Prime Minister Sidiki KABA (since 9 March 2024); note - on 6 March 2024, President Macky SALL dismissed Prime Minister Amadou BA and the cabinet and appointed Sidiki KABA to be prime minister and form a new cabinet<br>
+_head of government_: Prime Minister Ousmane SONKO (since 2 April 2024)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single, renewable 5-year term; election last held on 24 March 2024 (next to be held in 2029)<br>
 _election results_: <em>2024:</em> Bassirou Diomaye FAYE elected president in first round; percent of vote - Bassirou Diomaye FAYE (PASTEF) 54%, Amadou BA (APR) 36%, other 10%<br><em><em><br>2019:</em></em> Macky SALL reelected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%, other 5.5% <p> </p><br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or <em>Assemblée</em> Nationale (165 seats; 112 members including 15 representing Senegalese diaspora directly elected by plurality vote in single- and multi-seat constituencies and 53 members directly elected by proportional representation vote in a single nationwide constituency; member term is 5-years)<br>
-_elections_: National Assembly - last held on 31 July 2022 (next scheduled to be held in July 2027)<br>
-_election results_: National Assembly results - percent of vote by party/coalition - BBY 46.6%, YAW 32.9%, WS 14.5%, other 6%;&nbsp; seats by party/coalition - BBY 82, YAW 42, WS 24, other 17; composition - men 92, women 73, percent of women 44%<br>
+_description_: unicameral National Assembly or Assembl&eacute;e Nationale (165 seats; 112 members including 15 representing Senegalese diaspora directly elected by plurality vote in single- and multi-seat constituencies and 53 members directly elected by proportional representation vote in a single nationwide constituency; member term is 5-years)<br>
+_elections_: last held on 31 July 2022 (next scheduled to be held in July 2027)<br>
+_election results_: percent of vote by party/coalition - BBY 46.6%, YAW 32.9%, WS 14.5%, other 6%; seats by party/coalition - BBY 82, YAW 42, WS 24, other 17; composition - men 92, women 73, percent of women 44%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or <em>Cour Suprême  </em>(consists of the court president and 12 judges and organized into civil and commercial, criminal, administrative, and social chambers); Constitutional Council or <em>Conseil Constitutionnel </em> (consists of 7 members, including the court president, vice president, and 5 judges)<br>
@@ -516,9 +516,9 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$3,327,280,000 (2021 est.)<br>
--$2,662,353,000 (2020 est.)<br>
--$1,897,946,000 (2019 est.)<br>
+-$3.327 billion (2021 est.)<br>
+-$2.662 billion (2020 est.)<br>
+-$1.898 billion (2019 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
@@ -676,8 +676,8 @@ _total_: 906 km (2017) (713 km operational in 2017)<br>
 _narrow gauge_: 906 km (2017) 1.000-m gauge<br>
 
 **Roadways**<br>
-_total_: 16,665 km (2017)<br>
-_paved_: 6,126 km (2017) (includes 241 km of expressways)<br>
+_total_: 16,665 km<br>
+_paved_: 6,126 km (includes 241 km of expressways)<br>
 _unpaved_: 10,539 km (2017)<br>
 
 **Waterways**<br>

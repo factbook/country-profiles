@@ -506,15 +506,15 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1,452,735,000 (2022 est.)<br>
--$3,284,272,000 (2021 est.)<br>
--$1,187,120,000 (2020 est.)<br>
+-$1.453 billion (2022 est.)<br>
+-$3.284 billion (2021 est.)<br>
+-$1.187 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$16.169 billion (2022 est.) note: data are in current year dollars<br>
-$14.974 billion (2021 est.) note: data are in current year dollars<br>
-$13.083 billion (2020 est.) note: data are in current year dollars<br>
+$16.169 billion (2022 est.)<br>
+$14.974 billion (2021 est.)<br>
+$13.083 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -524,9 +524,9 @@ United States 24%, India 8%, United Kingdom 7%, Germany 6%, Italy 4% (2022)<br>
 textiles (knit and non-knit garments); tea; rubber tires; precious stones; cinnamon (2022)<br>
 
 **Imports**<br>
-$19.244 billion (2022 est.) note: data are in current year dollars<br>
-$21.526 billion (2021 est.) note: data are in current year dollars<br>
-$18.271 billion (2020 est.) note: data are in current year dollars<br>
+$19.244 billion (2022 est.)<br>
+$21.526 billion (2021 est.)<br>
+$18.271 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -539,7 +539,7 @@ refined and crude petroleum; knitted/woven fabrics; special purpose ships; packa
 $3.137 billion (2021 est.)<br>
 $5.664 billion (2020 est.)<br>
 $7.648 billion (2019 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $55.332 billion (2019 est.)<br>
@@ -668,8 +668,8 @@ _total_: 1,562 km (2016)<br>
 _broad gauge_: 1,562 km (2016) 1.676-m gauge<br>
 
 **Roadways**<br>
-_total_: 114,093 km (2010)<br>
-_paved_: 16,977 km (2010)<br>
+_total_: 114,093 km<br>
+_paved_: 16,977 km<br>
 _unpaved_: 97,116 km (2010)<br>
 
 **Waterways**<br>

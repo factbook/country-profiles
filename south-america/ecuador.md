@@ -91,8 +91,9 @@ _adjective_: Ecuadorian<br>
 Mestizo (mixed Indigenous and White) 77.5%, Montubio 7.7%, Indigenous 7.7%, White 2.2%, Afroecuadorian 2%, Mulatto 1.4%, Black 1.3%, other 0.1% (2022 est.)<br>
 
 **Languages**<br>
-Spanish (Castilian) 93% (official), Quechua 4.1%, other indigenous 0.7%, foreign 2.2%; note - (Quechua and Shuar are official languages of intercultural relations; other indigenous languages are in official use by indigenous peoples in the areas they inhabit) (2010 est.)<br>
+Spanish (Castilian; official) 98.6%, indigenous 3.9% (Quechua 3.2%, other indigenous 0.7%), foreign 2.8%, other 0.6% (includes Ecuadorian sign language);&nbsp;note - (Quechua and Shuar are official languages of intercultural relations; other indigenous languages are in official use by indigenous peoples in the areas they inhabit) (2010 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census<br>
 
 **Religions**<br>
 Roman Catholic 68.2%, Protestant 19% (Evangelical 18.3%, Adventist 0.6%, other Protestant 0.2%), Jehovah's Witness 1.4%, other 2.3%, none 8.2% don't know/no response 1% (2023 est.)<br>
@@ -520,8 +521,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $35.92 billion (2022 est.)<br>
-$29.037 billion (2021 est.) note: data are in current year dollars<br>
-$22.373 billion (2020 est.) note: data are in current year dollars<br>
+$29.037 billion (2021 est.)<br>
+$22.373 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -532,8 +533,8 @@ crude petroleum, shrimp, bananas, refined petroleum, tuna (2021)<br>
 
 **Imports**<br>
 $36.051 billion (2022 est.)<br>
-$28.128 billion (2021 est.) note: data are in current year dollars<br>
-$19.874 billion (2020 est.) note: data are in current year dollars<br>
+$28.128 billion (2021 est.)<br>
+$19.874 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -712,7 +713,7 @@ the military's inventory includes a wide mix of mostly older equipment derived f
 <strong>note: </strong>in 2022, women made up an estimated 3-4% of the military<br>
 
 **Military - note**<br>
-the military is responsible for preserving Ecuador’s national sovereignty and defending the integrity of the state; it also has some domestic security responsibilities and may complement police operations in maintaining public order if required; the military shares responsibility for border enforcement with the National Police; it participates in bilateral and multinational training exercises and has sent troops on UN peacekeeping missions; the military has defense ties to regional countries, such as Chile, Colombia, and Peru, and security ties with the US have been revived in recent years<br><br>border conflicts with Peru dominated the military’s focus until the late 1990s and border security remains a priority, but in more recent years, security challenges have included counterinsurgency and counternarcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, have spilled over the border; the military has established a joint service task force for counterinsurgency and counternarcotics operations and boosted troop deployments along those borders; other missions include countering illegal mining, smuggling, and maritime piracy; since 2012, the Ecuadorian Government has expanded the military’s role in general public security and domestic crime operations, in part due to rising violence, police corruption, and police ineffectiveness <br><br>the Joint Command of the Armed Forces (El Comando Conjunto de las Fuerzas Armadas or CCFFAA) is the military’s highest body for planning, preparation, and strategic conduct of military operations; the chief of the CCFFAA is appointed by the president; the military is deployed throughout the country in five joint service operational commands or task forces; it also has a cyber defense command; the Army is organized into four regionally based divisions and approximately 12 combat brigades, including armored cavalry, artillery, aviation, infantry (including specialized jungle infantry), and special forces; the Navy is a compact force comprised of two frigates, six corvettes, three missile attack boats, and two attack submarines; it also has a small aviation force and a Marine Corps with about 2,000 amphibious infantry and commandos; the Air Force has small numbers of operational jet fighters and light ground attack aircraft, as well as some multirole helicopters  <br><br>the military has had a large role in Ecuador’s political history; it ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010 (2023)<br>
+the military is responsible for preserving Ecuador’s national sovereignty and defending the integrity of the state; it also has some domestic security responsibilities and may complement police operations in maintaining public order if required; the military shares responsibility for border enforcement with the National Police; it participates in bilateral and multinational training exercises and has sent troops on UN peacekeeping missions; the military has defense ties to regional countries, such as Chile, Colombia, and Peru, and security ties with the US have been revived in recent years<br><br>border conflicts with Peru dominated the military’s focus until the late 1990s and border security remains a priority, but in more recent years, security challenges have included counterinsurgency and counternarcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, have spilled over the border; the military has established a joint service task force for counterinsurgency and counternarcotics operations and boosted troop deployments along those borders; other missions include countering illegal mining, smuggling, and maritime piracy; since 2012, the Ecuadorian Government has expanded the military’s role in general public security and domestic crime operations, in part due to rising violence, police corruption, and police ineffectiveness <br><br>the Joint Command of the Armed Forces (El Comando Conjunto de las Fuerzas Armadas or CCFFAA) is the military’s highest body for planning, preparation, and strategic conduct of military operations; the chief of the CCFFAA is appointed by the president; the military is deployed throughout the country in five joint service operational commands or task forces; it also has a cyber defense command; the Army is organized into four regionally based divisions and approximately 12 combat brigades, including armored cavalry, artillery, aviation, infantry (including specialized jungle infantry), and special forces; the Navy is a compact force comprised of two frigates, six corvettes, three missile attack boats, and two attack submarines; it also has a small aviation force and a Marine Corps with about 2,000 amphibious infantry and commandos; the Air Force has small numbers of operational jet fighters and light ground attack aircraft, as well as some multirole helicopters  <br><br>the military has had a large role in Ecuador’s political history; it ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010 (2024)<br>
 
 ## Space
 

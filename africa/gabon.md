@@ -503,7 +503,6 @@ note: balance of payments - net trade and primary/secondary income in current do
 $10.8 billion (2019 est.)<br>
 $9.533 billion (2018 est.)<br>
 $9.145 billion (2017 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 63%, Singapore 5% (2019)<br>
@@ -515,7 +514,6 @@ crude petroleum, manganese, lumber, veneer sheeting, refined petroleum (2021)<br
 $5.02 billion (2019 est.)<br>
 $4.722 billion (2018 est.)<br>
 $4.749 billion (2017 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 France 22%, China 17%, Belgium 6%, United States 6%, United Arab Emirates 5% (2019)<br>
@@ -527,7 +525,7 @@ poultry meats, excavation machinery, packaged medicines, cars, rice (2019)<br>
 $1.372 billion (2019 est.)<br>
 $1.321 billion (2018 est.)<br>
 $965.054 million (2017 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $6.49 billion (31 December 2017 est.)<br>
@@ -654,8 +652,8 @@ _total_: 649 km (2014)<br>
 _standard gauge_: 649 km (2014) 1.435-m gauge<br>
 
 **Roadways**<br>
-_total_: 14,300 km (2001)<br>
-_paved_: 900 km (2001)<br>
+_total_: 14,300 km<br>
+_paved_: 900 km<br>
 _unpaved_: 13,400 km (2001)<br>
 
 **Waterways**<br>

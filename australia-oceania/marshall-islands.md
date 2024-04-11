@@ -554,9 +554,9 @@ V7<br>
 33 (2024)<br>
 
 **Roadways**<br>
-_total_: 2,028 km (2007)<br>
-_paved_: 75 km (2007)<br>
-_unpaved_: 1,953 km<br>
+_total_: 2,028 km<br>
+_paved_: 75 km<br>
+_unpaved_: 1,953 km (2007)<br>
 
 **Merchant marine**<br>
 _total_: 4,180 (2023)<br>

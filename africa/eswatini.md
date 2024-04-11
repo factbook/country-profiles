@@ -488,8 +488,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $2.095 billion (2022 est.)<br>
-$2.132 billion (2021 est.) note: data are in current year dollars<br>
-$1.808 billion (2020 est.) note: data are in current year dollars<br>
+$2.132 billion (2021 est.)<br>
+$1.808 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -500,8 +500,8 @@ carbonated drink mixtures, sugar, gold, industrial additives, clothing, lumber (
 
 **Imports**<br>
 $2.288 billion (2022 est.)<br>
-$2.173 billion (2021 est.) note: data are in current year dollars<br>
-$1.686 billion (2020 est.) note: data are in current year dollars<br>
+$2.173 billion (2021 est.)<br>
+$1.686 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -514,7 +514,7 @@ motor vehicles, machinery, transport equipment, foodstuffs, petroleum products, 
 $452.352 million (2022 est.)<br>
 $572.282 million (2021 est.)<br>
 $545.564 million (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $535 million (2019 est.)<br>
@@ -634,8 +634,8 @@ _total_: 301 km (2014)<br>
 _narrow gauge_: 301 km (2014) 1.067-m gauge<br>
 
 **Roadways**<br>
-_total_: 4,594 km (2022)<br>
-_paved_: 1,500 km (2022)<br>
+_total_: 4,594 km<br>
+_paved_: 1,500 km<br>
 _unpaved_: 3,000 km (2022)<br>
 
 ## Military and Security

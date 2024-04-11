@@ -450,9 +450,9 @@ _percent of population_: 79.6% (2021 est.)<br>
 1 (2024)<br>
 
 **Roadways**<br>
-_total_: 234 km (2017)<br>
-_paved_: 210 km (2017)<br>
-_unpaved_: 24 km<br>
+_total_: 234 km<br>
+_paved_: 210 km<br>
+_unpaved_: 24 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 70 (2023)<br>

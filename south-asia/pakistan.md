@@ -361,9 +361,10 @@ _elections/appointments_: president indirectly elected by the Electoral College 
 _election results_: <em>2024:</em> Asif Ali ZARDARI elected president; National Assembly vote - Asif Ali ZARDARI (PPP) 411 votes, Mehmood Khan ACHAKZALI (PMAP) -181 votes; Shahbaz SHARIF elected prime minister on 3 March 2024; National Assembly vote - Shahbaz SHARIF (PML-N) 201, Omar AYUB (PTI) 92<br><br><em>2018:</em> Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Majlis-e-Shoora consists of:<br>Senate (100 seats; members indirectly elected by the 4 provincial assemblies and the federal capital territory indirectly elected by the National Assembly using proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly (342 seats; 272 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 3 March 2021 (next to be held on 2 April 2024)<br>National Assembly - last held on 8 February 2024 (next to be held in 2029)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PTI 25, PPP 21, PML-N 18, BAP 13, JUI-F 5, other 13, independent 5; composition - men 81, women 19, percent of women 19%<br><br>National Assembly - percent of votes by party - NA; seats by party - PML-N 75, PPP 54, MQM-P 17, JUI-F 4, Pakistan Muslim League 3, Istehkam-e-Pakistan Party 2, BNP-A 2, BAP 1, PMAP 1, PML-Z 1, NP 1, independent (PTI-backed) 101, other 8, vacant 2 (excludes 70 seats reserved for women and non-Muslims); composition - NA<br><br> <p> </p> <p> </p><br>
+_description_: bicameral Parliament or Majlis-e-Shoora consists of:<br>Senate (104 seats current, reduced by 4 seats at the 2024 election and 4 at the 2027 election; members indirectly elected by the 4 provincial assemblies and the federal capital territory indirectly elected by the National Assembly using proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly (342 seats; 272 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)<br>
+_elections_: <br>Senate - last held on 2 April 2024 for 37 of 48 seats, remaining 11 seats to be held on 9 April 2024 (next to be held for 48 seats in 2027)<br>National Assembly - last held on 8 February 2024 (next to be held in 2029)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA<br><br>National Assembly - percent of votes by party - NA; seats by party - PML-N 75, PPP 54, MQM-P 17, JUI-F 4, Pakistan Muslim League 3, Istehkam-e-Pakistan Party 2, BNP-A 2, BAP 1, PMAP 1, PML-Z 1, NP 1, independent (PTI-backed) 101, other 8, vacant 2 (excludes 70 seats reserved for women and non-Muslims); composition - NA<br><br> <p> </p> <p> </p><br>
+<strong>note</strong>: in May 2018, the Parliament of Pakistan and the Khyber Pakhtunkhwa Assembly passed a constitutional amendment to merge the Federally Administrated Tribal Areas and Provincially Administered Tribal Areas with the province of Khyber Pakhtunkhwa; the amendment will reduce the Senate from 104 to 96 members - 4 in the 2024 election and 4 in the 2027 election<br><br><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Pakistan (consists of the chief justice and 16 judges)<br>
@@ -528,15 +529,15 @@ _expenditures_: $59.621 billion (2020 est.)<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$11,997,897,000 (2022 est.)<br>
--$12,283,106,000 (2021 est.)<br>
+-$11.998 billion (2022 est.)<br>
+-$12.283 billion (2021 est.)<br>
 -$650.874 million (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $38.968 billion (2022 est.)<br>
-$35.612 billion (2021 est.) note: data are in current year dollars<br>
-$27.333 billion (2020 est.) note: data are in current year dollars<br>
+$35.612 billion (2021 est.)<br>
+$27.333 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -547,8 +548,8 @@ textiles, clothing and apparel, rice, leather goods, surgical instruments (2019)
 
 **Imports**<br>
 $76.426 billion (2022 est.)<br>
-$76.514 billion (2021 est.) note: data are in current year dollars<br>
-$52.098 billion (2020 est.) note: data are in current year dollars<br>
+$76.514 billion (2021 est.)<br>
+$52.098 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -561,7 +562,7 @@ refined petroleum, crude petroleum, natural gas, palm oil, scrap iron (2019)<br>
 $9.927 billion (2022 est.)<br>
 $22.812 billion (2021 est.)<br>
 $18.522 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $107.527 billion (2019 est.)<br>
@@ -702,8 +703,8 @@ _narrow gauge_: 389 km (2021) 1.000-m gauge<br>
 _broad gauge_: 11,492 km (2021) 1.676-m gauge (286 km electrified)<br>
 
 **Roadways**<br>
-_total_: 264,175 km (2021)<br>
-_paved_: 185,463 km (2021) (includes 708 km of expressways)<br>
+_total_: 264,175 km<br>
+_paved_: 185,463 km (includes 708 km of expressways)<br>
 _unpaved_: 78,712 km (2021)<br>
 
 **Merchant marine**<br>

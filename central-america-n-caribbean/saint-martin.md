@@ -257,7 +257,7 @@ high-income French Caribbean territorial economy; extremely reliant on tourism, 
 note: annual GDP % growth based on constant local currency<br>
 
 **GDP (official exchange rate)**<br>
-$649.206 million (2021 est.) (2005 est.)<br>
+$649.206 million (2021 est.)<br>
 note: data in current dollars at official exchange rate<br>
 
 **GDP - composition, by sector of origin**<br>

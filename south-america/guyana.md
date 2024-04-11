@@ -85,7 +85,7 @@ _noun_: Guyanese (singular and plural)<br>
 _adjective_: Guyanese<br>
 
 **Ethnic groups**<br>
-East Indian 39.8%, African descent 29.3%, mixed 19.9%, Amerindian 10.5%, other 0.5% (includes Portuguese, Chinese, White) (2012 est.)<br>
+East Indian 39.8%, African descent 29.3%, mixed 19.9%, Indigenous 10.5%, other 0.5% (includes Portuguese, Chinese, White) (2012 est.)<br>
 
 **Languages**<br>
 English (official), Guyanese Creole, Amerindian languages (including Caribbean and Arawak languages), Indian languages (including Caribbean Hindustani, a dialect of Hindi), Chinese (2014 est.)<br>
@@ -484,14 +484,14 @@ calendar year<br>
 
 **Current account balance**<br>
 -$254.121 million (2022 est.)<br>
--$2,503,316,000 (2021 est.)<br>
+-$2.503 billion (2021 est.)<br>
 -$396.533 million (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $11.536 billion (2022 est.)<br>
-$4.64 billion (2021 est.) note: data are in current year dollars<br>
-$2.799 billion (2020 est.) note: data are in current year dollars<br>
+$4.64 billion (2021 est.)<br>
+$2.799 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -502,8 +502,8 @@ crude petroleum, gold, rice, aluminum ores, railway shipping containers, rums&nb
 
 **Imports**<br>
 $7.067 billion (2022 est.)<br>
-$6.611 billion (2021 est.) note: data are in current year dollars<br>
-$3.756 billion (2020 est.) note: data are in current year dollars<br>
+$6.611 billion (2021 est.)<br>
+$3.756 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -516,7 +516,7 @@ floating drilling platforms, refined petroleum, valves, construction vehicles, c
 $917.877 million (2022 est.)<br>
 $790.785 million (2021 est.)<br>
 $680.634 million (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.69 billion (31 December 2017 est.)<br>
@@ -631,8 +631,8 @@ _subscriptions per 100 inhabitants_: 12 (2020 est.)<br>
 51 (2024)<br>
 
 **Roadways**<br>
-_total_: 3,995 km (2019)<br>
-_paved_: 799 km (2019)<br>
+_total_: 3,995 km<br>
+_paved_: 799 km<br>
 _unpaved_: 3,196 km (2019)<br>
 
 **Waterways**<br>

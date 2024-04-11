@@ -660,8 +660,8 @@ _standard gauge_: 8,389.5 km (2014) 1.435-m gauge (189.5 km electrified)<br>
 _broad gauge_: 94 km (2014) 1.676-m gauge<br>
 
 **Roadways**<br>
-_total_: 223,485 km (2016)<br>
-_paved_: 195,618 km (2016)<br>
+_total_: 223,485 km<br>
+_paved_: 195,618 km<br>
 _unpaved_: 27,867 km (2016)<br>
 
 **Waterways**<br>

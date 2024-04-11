@@ -509,15 +509,15 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1,301,158,000 (2022 est.)<br>
--$1,209,211,000 (2021 est.)<br>
--$1,227,521,000 (2020 est.)<br>
+-$1.301 billion (2022 est.)<br>
+-$1.209 billion (2021 est.)<br>
+-$1.228 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $2.993 billion (2022 est.)<br>
-$2.11 billion (2021 est.) note: data are in current year dollars<br>
-$1.929 billion (2020 est.) note: data are in current year dollars<br>
+$2.11 billion (2021 est.)<br>
+$1.929 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -528,8 +528,8 @@ gold, refined petroleum, coffee, tea, tin (2019)<br>
 
 **Imports**<br>
 $4.98 billion (2022 est.)<br>
-$3.856 billion (2021 est.) note: data are in current year dollars<br>
-$3.578 billion (2020 est.) note: data are in current year dollars<br>
+$3.856 billion (2021 est.)<br>
+$3.578 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -542,7 +542,7 @@ refined petroleum, gold, raw sugar, packaged medicines, broadcasting equipment (
 $1.726 billion (2022 est.)<br>
 $1.867 billion (2021 est.)<br>
 $1.72 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $3.258 billion (31 December 2017 est.)<br>
@@ -663,8 +663,8 @@ _annual passenger traffic on registered air carriers_: 1,073,528 (2018)<br>
 8 (2024)<br>
 
 **Roadways**<br>
-_total_: 7,797 km (2024)<br>
-_paved_: 2,652 km (2024)<br>
+_total_: 7,797 km<br>
+_paved_: 2,652 km<br>
 _unpaved_: 5,145 km (2024)<br>
 
 **Waterways**<br>

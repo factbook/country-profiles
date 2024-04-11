@@ -348,7 +348,7 @@ _election results_: <em><br>2019:</em> Volodymyr ZELENSKYY elected president in 
 **Legislative branch**<br>
 _description_: unicameral Supreme Council or Verkhovna Rada (450 seats; 225 members directly elected in single-seat constituencies by simple majority vote and 225 directly elected in a single nationwide constituency by closed, party-list proportional representation vote; members serve 5-year terms)<br>
 _elections_: last held on 21 July 2019 (next to be held on 29 October 2023)<br>
-_election results_: percent of vote by party - Servant of the People 43.2%, Opposition Platform-For Life 13.1%, Batkivshchyna 8.2%, European Solidarity 8.1%, Voice 5.8%, other 21.6%; Servant of the People 254, Opposition Platform for Life 43, Batkivshchyna 26, European Solidarity 25, Voice 20, Opposition Bloc 6, Svoboda 1, Self Reliance 1, United Centre 1, Bila Tserkva Together 1, Independents 46; note - voting not held in Crimea and parts of two Russian-occupied eastern oblasts leaving 26 seats vacant; although this brings the total to 424 elected members (of 450 potential), article 83 of the constitution mandates that a parliamentary majority consists of 226 seats<br>
+_election results_: <br>percent of vote by party - Servant of the People 43.2%, Opposition Platform-For Life 13.1%, Batkivshchyna 8.2%, European Solidarity 8.1%, Voice 5.8%, other 21.6%; Servant of the People 254, Opposition Platform for Life 43, Batkivshchyna 26, European Solidarity 25, Voice 20, Opposition Bloc 6, Svoboda 1, Self Reliance 1, United Centre 1, Bila Tserkva Together 1, independent 46; note - voting not held in Crimea and parts of two Russian-occupied eastern oblasts leaving 26 seats vacant; although this brings the total to 424 elected members (of 450 potential), article 83 of the constitution mandates that a parliamentary majority consists of 226 seats<br>
 <strong>note:</strong> Legislative and presidential elections cannot be held under martial law.;the Verkhovna Rada declared martial law in February 2022 following Russia's full-scale invasion<br>
 
 **Judicial branch**<br>
@@ -549,7 +549,7 @@ refined petroleum, cars, natural gas, packaged medicines, coal, broadcasting equ
 $28.506 billion (2022 est.)<br>
 $30.967 billion (2021 est.)<br>
 $29.138 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $117.41 billion (2019 est.)<br>
@@ -691,8 +691,8 @@ _standard gauge_: 49 km (2014) 1.435-m gauge (49 km electrified)<br>
 _broad gauge_: 21,684 km (2014) 1.524-m gauge (9,250 km electrified)<br>
 
 **Roadways**<br>
-_total_: 169,694 km (2012)<br>
-_paved_: 166,095 km (2012) (includes 17 km of expressways)<br>
+_total_: 169,694 km<br>
+_paved_: 166,095 km (includes 17 km of expressways)<br>
 _unpaved_: 3,599 km (2012)<br>
 
 **Waterways**<br>
@@ -727,7 +727,7 @@ at least 700,000 under arms, including the Armed Forces, Territorial Defense For
 the Ukrainian military is equipped largely with Russian-origin and Soviet-era weapons systems, although it has a growing inventory of Western-origin equipment; since the full-scale Russian invasion in February 2022, it has received considerable quantities of weapons, including Soviet-era and more modern Western systems, from European countries and the US; Ukraine has a broad defense industry capable of building, maintaining, and upgrading a variety of its Russian/Soviet-era weapons systems, including armored vehicles, combat aircraft, missiles, and air defense systems (2023)<br>
 
 **Military service age and obligation**<br>
-conscription abolished in 2012, but reintroduced in 2014; 20-27 years of age for compulsory military service; prior to the Russian invasion of February 2022, conscript service obligation was 12-18 months, depending on the service (2023)<br>
+18 years of age for voluntary service; conscription abolished in 2012, but reintroduced for men in 2014; 25 years of age for conscription; prior to the Russian invasion of February 2022, conscript service obligation was 12-18 months, depending on the service (2024)<br>
 <strong>note 1: </strong>following the Russian invasion in 2022, all nonexempt men ages 18 to 60 were required to register with their local recruitment offices and undergo medical screening for possible service; the Territorial Defense Forces (TDF) accepts volunteers, 18-60 years of age; since the invasion, hundreds of thousands of Ukrainians have volunteered for the regular armed forces, the TDF, or to work in civilian defense activities <strong><br><br></strong><strong>note 2: </strong>women have been able to volunteer for military service since 1993; as of 2023, approximately 60,000 women were serving in the armed forces <br><br><strong>note 3:</strong> since 2015, the Ukrainian military has allowed foreigners and stateless persons, 18-45 (in special cases up to 60), to join on 3-5-year contracts, based on qualifications; following the Russian invasion in 2022, the military began accepting medically fit foreign volunteers on a larger scale, with an emphasis on persons with combat experience; wartime volunteers typically serve for 6 months<br>
 
 **Military deployments**<br>

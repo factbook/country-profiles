@@ -532,15 +532,15 @@ note: central government tax revenue as a % of GDP<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$79,050,942,000 (2022 est.)<br>
--$33,422,359,000 (2021 est.)<br>
+-$79.051 billion (2022 est.)<br>
+-$33.422 billion (2021 est.)<br>
 $32.73 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $767.643 billion (2022 est.)<br>
-$643.08 billion (2021 est.) note: data are in current year dollars<br>
-$484.691 billion (2020 est.) note: data are in current year dollars<br>
+$643.08 billion (2021 est.)<br>
+$484.691 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -551,8 +551,8 @@ refined petroleum, diamonds, packaged medicines, jewelry, rice (2021)<br>
 
 **Imports**<br>
 $902.304 billion (2022 est.)<br>
-$717.119 billion (2021 est.) note: data are in current year dollars<br>
-$493.033 billion (2020 est.) note: data are in current year dollars<br>
+$717.119 billion (2021 est.)<br>
+$493.033 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -565,7 +565,7 @@ crude petroleum, gold, coal, diamonds, natural gas, integrated circuits (2021)<b
 $567.298 billion (2022 est.)<br>
 $638.485 billion (2021 est.)<br>
 $590.227 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $555.388 billion (2019 est.)<br>
@@ -745,7 +745,8 @@ ages vary by service, but generally 16.5-27 years of age for voluntary military 
 <strong>note 1:</strong> in 2022, the Indian Government announced that it would begin recruiting 46,000 men aged 17.5-21 annually to serve on 4-year contracts under a process called the Agnipath scheme; at the end of their tenure, 25% would be retained for longer terms of service, while the remainder would be forced to leave the military, although some of those leaving would be eligible to serve in the Coast Guard, the Merchant Navy, civilian positions in the Ministry of Defense, and in the paramilitary forces of the Ministry of Home Affairs, such as the Central Armed Police Forces and Assam Rifles<br><br><strong>note 2: </strong>as of 2023, women made up less than 1% of the Army, about 1% of the Air Force, and about 6% of the Navy <br><br><strong>note 3: </strong>the Indian military accepts citizens of Nepal and Bhutan; descendants of refugees from Tibet who arrived before 1962 and have resided permanently in India; peoples of Indian origin from nations such as Burma, the Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Pakistan, Sri Lanka, Tanzania, Uganda, and Vietnam with the intention of permanently settling in India; eligible candidates from “friendly foreign nations” may apply to the Armed Forces Medical Services <br><br><strong>note 4:</strong> the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816), and the Gurkhas subsequently were brought into the British Indian Army; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; six regiments of Gurkhas (aka Gorkhas in India) regiments went to the new Indian Army; a seventh regiment was later added<br>
 
 **Military deployments**<br>
-1,800 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF); 675 Lebanon (UNIFIL); 2,300 South Sudan (UNMISS); 580 Sudan (UNISFA) (2023)<br>
+1,800 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF); 890 Lebanon (UNIFIL); 2,350 South Sudan (UNMISS); 590 Sudan (UNISFA) (2024)<br>
+<strong>note: </strong>India has over 6,000 total military and police personnel deployed on UN missions<br>
 
 **Military - note**<br>
 the Indian military performs a variety of missions; it is primarily focused on China and Pakistan and territorial defense, while secondary missions include regional power projection, UN peacekeeping deployments, humanitarian operations, and support to internal security forces; it has fought in several significant conflicts and counterinsurgency operations since 1947 and regularly conducts large-scale exercises; the military may act internally under the Armed Forces (Special Powers) Act (AFSPA) of 1958, an act of the Indian Parliament that granted special powers to put down separatist movements in "disturbed areas"; the AFSPA of 1958 and a virtually identical law, the Armed Forces (Jammu &amp; Kashmir) Special Powers Act of 1990, have been in force since 1958 in parts of northeast India, and since 1990 in Jammu &amp; Kashmir<br><br>the Army is organized into 14 operational corps; the basic field formations under the corps are approximately 40 armored, artillery, infantry, mechanized, or mountain infantry divisions; there are also a number of independent airborne, armored, and artillery brigades, as well as special operations forces; in 2023, the Army announced that it was reorganizing its operational corps and divisions into division-sized “integrated battle groups,” which the Army assessed would be more agile and flexible<br><br>the Navy is a blue water force that operates in seas stretching from the western Mediterranean to the Strait of Malacca and the western Pacific; it routinely conducts months-long deployments, exercises with other navies, and conducts a variety of missions such as counter-piracy, humanitarian, and naval diplomacy; its principal ships include two aircraft carriers, more than 50 destroyers, frigates, corvettes, and large patrol vessels, 16 attack submarines, and two nuclear-powered ballistic missile capable submarines; the Navy also has several combat aircraft and anti-submarine warfare helicopter squadrons, as well as a marine amphibious brigade and a marine commando force<br><br>the Air Force is one of the World’s largest with more than 600 British-, French-, Russian/Soviet-, and domestically produced combat aircraft, plus nearly 500 combat helicopters; the tri-service Strategic Forces Command manages all of India’s strategic missile forces <br><br>the short 1962 Sino-India War left in place one of the World’s longest disputed international borders, resulting in occasional standoffs between Indian and Chinese security forces, including lethal clashes in 1975 and 2020; meanwhile, India and Pakistan have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well clashes over the disputed region of Kashmir (the First Kashmir War of 1947 and the 1999 Kargil Conflict); a fragile cease-fire in Kashmir was reached in 2003, revised in 2018, and reaffirmed in 2021, although the Line of Control remains contested, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir where Indian forces have conducted counterinsurgency operations since the 1980s; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area at least three times between 1985 and 1995; despite a cease-fire, both sides continue to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties are due to extreme weather and the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness (2023)<br>

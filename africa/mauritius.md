@@ -483,15 +483,15 @@ note: central government tax revenue as a % of GDP<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$1,486,146,000 (2022 est.)<br>
--$1,496,640,000 (2021 est.)<br>
--$1,002,712,000 (2020 est.)<br>
+-$1.486 billion (2022 est.)<br>
+-$1.497 billion (2021 est.)<br>
+-$1.003 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $5.005 billion (2022 est.)<br>
-$3.194 billion (2021 est.) note: data are in current year dollars<br>
-$3.088 billion (2020 est.) note: data are in current year dollars<br>
+$3.194 billion (2021 est.)<br>
+$3.088 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -502,8 +502,8 @@ clothing and apparel, skipjack and tuna, raw sugar, fertilizers, diamonds (2021)
 
 **Imports**<br>
 $8.037 billion (2022 est.)<br>
-$6.057 billion (2021 est.) note: data are in current year dollars<br>
-$5.222 billion (2020 est.) note: data are in current year dollars<br>
+$6.057 billion (2021 est.)<br>
+$5.222 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -516,7 +516,7 @@ refined petroleum, cars, fish products, aircraft, packaged medicines (2019)<br>
 $7.793 billion (2022 est.)<br>
 $8.563 billion (2021 est.)<br>
 $7.291 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $226.799 billion (2019 est.)<br>
@@ -640,8 +640,8 @@ _annual freight traffic on registered air carriers_: 233.72 million (2018) mt-km
 1 (2024)<br>
 
 **Roadways**<br>
-_total_: 2,428 km (2015)<br>
-_paved_: 2,379 km (2015) (includes 99 km of expressways)<br>
+_total_: 2,428 km<br>
+_paved_: 2,379 km (includes 99 km of expressways)<br>
 _unpaved_: 49 km (2015)<br>
 
 **Merchant marine**<br>

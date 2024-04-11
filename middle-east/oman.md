@@ -484,14 +484,14 @@ calendar year<br>
 
 **Current account balance**<br>
 $5.752 billion (2022 est.)<br>
--$4,783,482,000 (2021 est.)<br>
--$12,263,027,000 (2020 est.)<br>
+-$4.783 billion (2021 est.)<br>
+-$12.263 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $69.701 billion (2022 est.)<br>
-$46.572 billion (2021 est.) note: data are in current year dollars<br>
-$35.691 billion (2020 est.) note: data are in current year dollars<br>
+$46.572 billion (2021 est.)<br>
+$35.691 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -502,8 +502,8 @@ crude petroleum, natural gas, refined petroleum, fertilizers, iron&nbsp; (2021)<
 
 **Imports**<br>
 $46.326 billion (2022 est.)<br>
-$37.216 billion (2021 est.) note: data are in current year dollars<br>
-$33.827 billion (2020 est.) note: data are in current year dollars<br>
+$37.216 billion (2021 est.)<br>
+$33.827 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -516,7 +516,7 @@ cars, refined petroleum, broadcasting equipment, gold, iron (2019)<br>
 $17.606 billion (2022 est.)<br>
 $19.731 billion (2021 est.)<br>
 $15.007 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $46.27 billion (31 December 2017 est.)<br>
@@ -641,8 +641,8 @@ A4O<br>
 106 km condensate, 4,224 km gas, 3,558 km oil, 33 km oil/gas/water, 264 km refined products (2013)<br>
 
 **Roadways**<br>
-_total_: 60,230 km (2012)<br>
-_paved_: 29,685 km (2012) (includes 1,943 km of expressways)<br>
+_total_: 60,230 km<br>
+_paved_: 29,685 km (includes 1,943 km of expressways)<br>
 _unpaved_: 30,545 km (2012)<br>
 
 **Merchant marine**<br>

@@ -346,7 +346,7 @@ _election results_: 2023: Shavkat MIRZIYOYEV reelected president in snap electio
 **Legislative branch**<br>
 _description_: bicameral Supreme Assembly or Oliy Majlis consists of:<br>Senate or Senat (100 seats); 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms); note - amendments to the constitution approved in April 2023 call for the reduction of Senate seats to 65 from 100<br>Legislative Chamber or Qonunchilik Palatasi (150 seats statutory, 140 seats current; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
 _elections_: Senate - last held 16-17 January 2020 (next to be held in 2025)<br>Legislative Chamber - last held on 22 December 2019 and 5 January 2020 (next to be held in December 2024)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition as of May 2023 (90 members) - men 68, women 22, percent of women 24.4%<br>Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 53, National Revival Democratic Party 36, Adolat 24, PDP 22, Ecological Movement 15; composition as of May 2023 (140 members) - men 93, women, 47, percent of women 33.6%; note - total Supreme Assembly percent of women 30%<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition as of February 2024 (90 members) - men 68, women 22, percent of women 24.4%<br><br>Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 53, National Revival Democratic Party 36, Adolat 24, PDP 22, Ecological Movement 15; composition as of February 2024 - men 89, women 47, percent of women 34.6%; note - total Supreme Assembly percent of women 30.5%<br>
 <strong>note:</strong> all parties in the Supreme Assembly support President Shavkat MIRZIYOYEV<br>
 
 **Judicial branch**<br>
@@ -509,14 +509,14 @@ calendar year<br>
 
 **Current account balance**<br>
 $1.55 billion (2022 est.)<br>
--$4,893,938,000 (2021 est.)<br>
--$3,027,885,000 (2020 est.)<br>
+-$4.894 billion (2021 est.)<br>
+-$3.028 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $24.094 billion (2022 est.)<br>
-$16.443 billion (2021 est.) note: data are in current year dollars<br>
-$14.536 billion (2020 est.) note: data are in current year dollars<br>
+$16.443 billion (2021 est.)<br>
+$14.536 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -527,8 +527,8 @@ gold, natural gas, cotton fibers, copper, ethylene polymers (2019)<br>
 
 **Imports**<br>
 $35.61 billion (2022 est.)<br>
-$27.936 billion (2021 est.) note: data are in current year dollars<br>
-$22.638 billion (2020 est.) note: data are in current year dollars<br>
+$27.936 billion (2021 est.)<br>
+$22.638 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -541,7 +541,7 @@ cars and vehicle parts, packaged medicines, refined petroleum, aircraft, constru
 $35.774 billion (2022 est.)<br>
 $35.375 billion (2021 est.)<br>
 $34.903 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $16.9 billion (31 December 2017 est.)<br>

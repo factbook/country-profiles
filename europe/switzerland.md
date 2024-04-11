@@ -344,7 +344,7 @@ _election results_: <em>2023:  </em>Viola AMHERD elected president for 2024; Fe
 **Legislative branch**<br>
 _description_: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:<br>Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in two-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons, which use list proportional representation vote; member term governed by cantonal law)<br>National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 194 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms)<br>
 _elections_: <br>Council of States - last held in most cantons on 22 October 2023 (each canton determines when the next election will be held)<br>National Council - last held on 22 October 2023 (next to be held on 31 October 2027)<br>
-_election results_: <br>Council of States - percent of vote by party - NA; seats by party - The Center 13, FDP.The Liberals 12, SP 9, SVP 6, Green Party 5, other 1; composition (as of 22 Oct 2023) - men 30, women 16, percent of women 34.8% <br>National Council - percent of vote by party - SVP 28.6%, SP 18%, The Center 14.6%, FDP.The Liberals 14.4%, Green Party 9.4%, GLP 7.2%, EDU 1.2, EDV/PEV 1.9%, MCR/MCG .5%, other 4%; seats by party - SVP 62, SP 41, The Center 29, FDP.The Liberals 28, Green Party 23, GLP 10, EDU 2, EDV/PEV 2, MCR/MCG 2, other 1; composition (as of October 2023) - men 123, women 77, percent of women 38.5%; note - overall Federal Assembly percent of women 37.8%<br>
+_election results_: <br>Council of States - percent of vote by party - NA; seats by party - The Center 13, FDP.The Liberals 12, SP 9, SVP 6, Green Party 5, other 1; composition (as of 22 Oct 2023) - men 30, women 16, percent of women 34.8%<br><br>National Council - percent of vote by party - SVP 28.6%, SP 18%, The Center 14.6%, FDP.The Liberals 14.4%, Green Party 9.4%, GLP 7.2%, EDU 1.2, EDV/PEV 1.9%, MCR/MCG .5%, other 4%; seats by party - SVP 62, SP 41, The Center 29, FDP.The Liberals 28, Green Party 23, GLP 10, EDU 2, EDV/PEV 2, MCR/MCG 2, other 1; composition as of October 2023 - men 123, women 77, percent of women 38.5%; note - overall Federal Assembly percent of women 37.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court (consists of 38 justices and 19 deputy justices organized into 7 divisions)<br>
@@ -519,8 +519,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $627.54 billion (2022 est.)<br>
-$579.017 billion (2021 est.) ; note - data are in current year dollars<br>
-$474.042 billion (2020 est.) ; note - data are in current year dollars<br>
+$579.017 billion (2021 est.)<br>
+$474.042 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -531,8 +531,8 @@ gold, packaged medicines, medical cultures/vaccines, watches, jewelry (2019)<br>
 
 **Imports**<br>
 $518.451 billion (2022 est.)<br>
-$481.093 billion (2021 est.) ; note - data are in current year dollars<br>
-$429.875 billion (2020 est.) ; note - data are in current year dollars<br>
+$481.093 billion (2021 est.)<br>
+$429.875 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -545,7 +545,7 @@ gold, packaged medicines, jewelry, cars, medical cultures/vaccines (2019)<br>
 $923.628 billion (2022 est.)<br>
 $1.11 trillion (2021 est.)<br>
 $1.083 trillion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.909 trillion (2019 est.)<br>

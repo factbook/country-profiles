@@ -359,7 +359,7 @@ _election results_: <em><br>2021</em>: Hakainde HICHILEMA elected president; per
 **Legislative branch**<br>
 _description_: unicameral National Assembly (167 seats statutory, 166 seats current; 156 members directly elected in single-seat constituencies by simple majority vote in 2 rounds if needed, and up to 8 appointed by the president; members serve 5-year terms); 3 ex-officio members elected by National Assembly membership<br>
 _elections_: last held on 12 August 2021 (next to be held in 2026)<br>
-_election results_: percent of vote by party - UPND 53.9%, PF 38.1%, PNUP 0.6%, independent 7.4%; seats by party - UPND 82, PF 62, PNUP 1, independent 11; composition - men 136, women 20, percent of women 13.5%; composition - men 141, women 25, percent of women 15.1%<br>
+_election results_: <br>percent of vote by party - UPND 53.9%, PF 38.1%, PNUP 0.6%, independent 7.4%; seats by party - UPND 82, PF 62, PNUP 1, independent 11; composition as of February 2024 - men 142, women 25, percent of women 15%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice, deputy chief justice, and at least 11 judges); Constitutional Court (consists of the court president, vice president, and 11 judges); note - the Constitutional Court began operation in June 2016<br>
@@ -526,8 +526,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $12.444 billion (2022 est.)<br>
-$11.728 billion (2021 est.) note: data are in current year dollars<br>
-$8.558 billion (2020 est.) note: data are in current year dollars<br>
+$11.728 billion (2021 est.)<br>
+$8.558 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -538,8 +538,8 @@ copper, gold, gemstones, tobacco, cement (2020)<br>
 
 **Imports**<br>
 $10.022 billion (2022 est.)<br>
-$7.691 billion (2021 est.) note: data are in current year dollars<br>
-$5.836 billion (2020 est.) note: data are in current year dollars<br>
+$7.691 billion (2021 est.)<br>
+$5.836 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -552,7 +552,7 @@ copper, petroleum, fertilizers, packaged medicines, delivery trucks (2020)<br>
 $2.968 billion (2022 est.)<br>
 $2.754 billion (2021 est.)<br>
 $1.203 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $11.66 billion (31 December 2017 est.)<br>

@@ -516,8 +516,8 @@ copper ore, gold, liquors, iron alloys, tobacco (2021)<br>
 
 **Imports**<br>
 $10.186 billion (2022 est.)<br>
-$6.12 billion (2021 est.) note: data are in current year dollars<br>
-$5.082 billion (2020 est.) note: data are in current year dollars<br>
+$6.12 billion (2021 est.)<br>
+$5.082 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -530,7 +530,7 @@ natural gas, cars, refined petroleum, broadcasting equipment, diamonds (2019)<br
 $4.112 billion (2022 est.)<br>
 $3.23 billion (2021 est.)<br>
 $2.616 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $11.637 billion (2019 est.)<br>

@@ -102,7 +102,7 @@ _adjective_: French<br>
 
 **Ethnic groups**<br>
 Celtic and Latin with Teutonic, Slavic, North African (Algerian, Moroccan, Tunisian), Indochinese, Basque minorities<br>
-<strong>note:</strong> overseas departments: Black, White, Mulatto, East Indian, Chinese, Amerindian<br>
+<strong>note:</strong> overseas departments: Black, White, Mulatto, East Indian, Chinese, Indigenous<br>
 
 **Languages**<br>
 French (official) 100%, declining regional dialects and languages (Provencal, Breton, Alsatian, Corsican, Catalan, Basque, Flemish, Occitan, Picard); note - overseas departments: French, Creole patois, Mahorian (a Swahili dialect)<br>
@@ -301,8 +301,8 @@ _agricultural_: 3.18 billion cubic meters (2020 est.)<br>
 211 billion cubic meters (2020 est.)<br>
 
 **Geoparks**<br>
-_total global geoparks and regional networks_: 7<br>
-_global geoparks and regional networks_: Beaujolais; Causses du Quersey; Chablais; Haute-Provence; Luberon;&nbsp; Massif des Bauges;&nbsp; Monts d'Ard&egrave;che (2023)<br>
+_total global geoparks and regional networks_: 9 (2024)<br>
+_global geoparks and regional networks_: Armorique; Beaujolais; Causses du Quersey; Chablais; Haute-Provence; Luberon;&nbsp; Massif des Bauges;&nbsp; Monts d'Ard&egrave;che; Normandie-Maine (2024)<br>
 
 ## Government
 
@@ -536,15 +536,15 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$56,671,700,000 (2022 est.)<br>
+-$56.672 billion (2022 est.)<br>
 $9.868 billion (2021 est.)<br>
--$41,381,104,000 (2020 est.)<br>
+-$41.381 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $1.013 trillion (2022 est.)<br>
-$925.551 billion (2021 est.) note: data are in current year dollars<br>
-$752.31 billion (2020 est.) note: data are in current year dollars<br>
+$925.551 billion (2021 est.)<br>
+$752.31 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -555,8 +555,8 @@ aircraft, packaged medicines, cars and vehicle parts, wine, beauty products, gas
 
 **Imports**<br>
 $1.103 trillion (2022 est.)<br>
-$963.999 billion (2021 est.) note: data are in current year dollars<br>
-$799.147 billion (2020 est.) note: data are in current year dollars<br>
+$963.999 billion (2021 est.)<br>
+$799.147 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -569,7 +569,7 @@ cars and vehicle parts, refined petroleum, natural gas, packaged medicines, crud
 $242.416 billion (2022 est.)<br>
 $244.28 billion (2021 est.)<br>
 $224.236 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $6.356 trillion (2019 est.)<br>
@@ -753,7 +753,7 @@ generally 17-30 years of age for both men and women with some variations by serv
 <strong>note 1: </strong>in 2023, women comprised more than 16% of the uniformed armed forces  <br><br><strong>note 2:</strong> French citizens can also volunteer for the Voluntary Military Service (VMS), which allows unemployed youth aged 18-25 to learn a trade or gain work experience while receiving basic military training and sports activities; French citizens may also joint the military operational reserve up to age 72<br><br><strong>note 3:</strong> men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign five-year contracts<br>
 
 **Military deployments**<br>
-approximately 300 Central African Republic; 300 Comoros; approximately 1,400 Djibouti; 300 Estonia (NATO); approximately 2,000 French Guyana; approximately 900 French Polynesia; approximately 1,000 French West Indies; approximately 500 Middle East (Iraq/Jordan/Syria); 650 Lebanon (UNIFIL); approximately 1,400 New Caledonia; approximately 1,700 Reunion Island; approximately 800 Romania (NATO); approximately 2,500-3,000 West Africa (Chad, Cote d'Ivoire, Gabon, Senegal); approximately 650 United Arab Emirates (2023)<br>
+approximately 300 Central African Republic; 300 Comoros; approximately 1,400 Djibouti; 300 Estonia (NATO); approximately 2,000 French Guyana; approximately 900 French Polynesia; approximately 1,000 French West Indies; approximately 500 Middle East (Iraq/Jordan/Syria); 720 Lebanon (UNIFIL); approximately 1,400 New Caledonia; approximately 1,700 Reunion Island; approximately 800 Romania (NATO); approximately 2,500-3,000 West Africa (Chad, Cote d'Ivoire, Gabon, Senegal); approximately 650 United Arab Emirates (2023)<br>
 <strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including France, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>

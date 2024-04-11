@@ -490,13 +490,13 @@ _expenditures_: $57.258 billion (2019 est.)<br>
 **Current account balance**<br>
 $63.118 billion (2022 est.)<br>
 $26.319 billion (2021 est.)<br>
--$2,985,714,000 (2020 est.)<br>
+-$2.986 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$161.693 billion (2022 est.) note: data are in current year dollars<br>
-$105.549 billion (2021 est.) note: data are in current year dollars<br>
-$70.933 billion (2020 est.) note: data are in current year dollars<br>
+$161.693 billion (2022 est.)<br>
+$105.549 billion (2021 est.)<br>
+$70.933 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -506,9 +506,9 @@ China 18%, India 15%, Japan 10%, South Korea 9%, United Kingdom 6% (2022)<br>
 natural gas, crude petroleum, refined petroleum, fertilizers, ethylene polymers (2022)<br>
 
 **Imports**<br>
-$74.52 billion (2022 est.) note: data are in current year dollars<br>
-$61.204 billion (2021 est.) note: data are in current year dollars<br>
-$59.065 billion (2020 est.) note: data are in current year dollars<br>
+$74.52 billion (2022 est.)<br>
+$61.204 billion (2021 est.)<br>
+$59.065 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -521,7 +521,7 @@ gas turbines, jewelry, cars, aircraft, broadcasting equipment (2022)<br>
 $47.389 billion (2022 est.)<br>
 $42.213 billion (2021 est.)<br>
 $40.973 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $167.8 billion (31 December 2017 est.)<br>

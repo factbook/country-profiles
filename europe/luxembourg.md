@@ -499,8 +499,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $172.145 billion (2022 est.)<br>
-$184.932 billion (2021 est.) note: data are in current year dollars<br>
-$150.519 billion (2020 est.) note: data are in current year dollars<br>
+$184.932 billion (2021 est.)<br>
+$150.519 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -511,8 +511,8 @@ iron products, cars and vehicle parts, tires, gas turbines, adhesive plastics (2
 
 **Imports**<br>
 $141.761 billion (2022 est.)<br>
-$152.01 billion (2021 est.) note: data are in current year dollars<br>
-$121.517 billion (2020 est.) note: data are in current year dollars<br>
+$152.01 billion (2021 est.)<br>
+$121.517 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -525,7 +525,7 @@ cars, refined petroleum, broadcasting equipment, scrap iron, aircraft (2019)<br>
 $2.874 billion (2022 est.)<br>
 $2.921 billion (2021 est.)<br>
 $1.119 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $4,266,792,000,000 (2019 est.)<br>

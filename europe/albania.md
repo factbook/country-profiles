@@ -524,8 +524,8 @@ leather footwear and parts, electricity, crude petroleum, iron alloys, clothing,
 
 **Imports**<br>
 $9.016 billion (2022 est.)<br>
-$8.004 billion (2021 est.) note: data are in current year dollars<br>
-$5.671 billion (2020 est.) note: data are in current year dollars<br>
+$8.004 billion (2021 est.)<br>
+$5.671 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

@@ -462,8 +462,8 @@ refined petroleum, ships, aluminum, lobsters and crawfish, styrene polymers (202
 
 **Imports**<br>
 $5.692 billion (2022 est.)<br>
-$4.947 billion (2021 est.) note: data are in current year dollars<br>
-$3.411 billion (2020 est.) note: data are in current year dollars<br>
+$4.947 billion (2021 est.)<br>
+$3.411 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

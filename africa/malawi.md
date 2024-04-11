@@ -516,14 +516,14 @@ note: central government tax revenue as a % of GDP<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$1,543,008,000 (2021 est.)<br>
--$1,466,328,000 (2020 est.)<br>
--$1,321,052,000 (2019 est.)<br>
+-$1.543 billion (2021 est.)<br>
+-$1.466 billion (2020 est.)<br>
+-$1.321 billion (2019 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$1.538 billion (2021 est.) note: data are in current year dollars<br>
-$1.268 billion (2020 est.) note: data are in current year dollars<br>
+$1.538 billion (2021 est.)<br>
+$1.268 billion (2020 est.)<br>
 $1.447 billion (2019 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
@@ -534,8 +534,8 @@ Belgium 16%, United States 8%, Egypt 7%, South Africa 6%, Germany 6%, Kenya 5%, 
 tobacco, gold, soybeans, raw sugar, tea, dried legumes and nuts (2021)<br>
 
 **Imports**<br>
-$3.582 billion (2021 est.) note: data are in current year dollars<br>
-$3.208 billion (2020 est.) note: data are in current year dollars<br>
+$3.582 billion (2021 est.)<br>
+$3.208 billion (2020 est.)<br>
 $3.266 billion (2019 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
@@ -549,7 +549,7 @@ postage stamps, refined petroleum, packaged medicines, fertilizers, office machi
 $594.498 million (2020 est.)<br>
 $846.84 million (2019 est.)<br>
 $766.155 million (2018 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2.102 billion (31 December 2017 est.)<br>
@@ -675,8 +675,8 @@ _total_: 767 km (2014)<br>
 _narrow gauge_: 767 km (2014) 1.067-m gauge<br>
 
 **Roadways**<br>
-_total_: 15,451 km (2022)<br>
-_paved_: 4,038 km (2022)<br>
+_total_: 15,451 km<br>
+_paved_: 4,038 km<br>
 _unpaved_: 11,413 km (2022)<br>
 
 **Waterways**<br>

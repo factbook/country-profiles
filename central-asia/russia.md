@@ -575,7 +575,7 @@ cars and vehicle parts, packaged medicines, broadcasting equipment, aircraft, co
 $581.71 billion (2022 est.)<br>
 $632.242 billion (2021 est.)<br>
 $596.77 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $479.844 billion (2019 est.)<br>
@@ -712,8 +712,8 @@ _total_: 85,494 km (2019)<br>
 _narrow gauge_: 957 km<br>
 
 **Roadways**<br>
-_total_: 1,283,387 km (2012)<br>
-_paved_: 927,721 km (2012) (includes 39,143 km of expressways)<br>
+_total_: 1,283,387 km<br>
+_paved_: 927,721 km (includes 39,143 km of expressways)<br>
 _unpaved_: 355,666 km (2012)<br>
 
 **Waterways**<br>

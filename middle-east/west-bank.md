@@ -409,8 +409,8 @@ building stone, scrap iron, plastic lids, furniture, seating, dates, olive oil (
 
 **Imports**<br>
 $12.874 billion (2022 est.)<br>
-$10.094 billion (2021 est.) note: data are in current year dollars and includes Gaza Strip<br>
-$8.065 billion (2020 est.) note: data are in current year dollars and includes Gaza Strip<br>
+$10.094 billion (2021 est.)<br>
+$8.065 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars; entry includes the West Bank and the Gaza Strip<br>
 
 **Imports - commodities**<br>

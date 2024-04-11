@@ -576,8 +576,8 @@ _standard gauge_: 7,435 km (2014) 1.435-m gauge (5,400 km electrified)<br>
 <strong>note:</strong> figures are approximate; some narrow-gauge railway also exists<br>
 
 **Roadways**<br>
-_total_: 25,554 km (2006)<br>
-_paved_: 724 km (2006)<br>
+_total_: 25,554 km<br>
+_paved_: 724 km<br>
 _unpaved_: 24,830 km (2006)<br>
 
 **Waterways**<br>

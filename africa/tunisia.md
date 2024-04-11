@@ -334,8 +334,8 @@ _election results_: <em><br>2019:</em> Kais SAIED elected president in second ro
 
 **Legislative branch**<br>
 _description_: bicameral legislature (enacted by the 2022 constitution) consists of:<br>newly added National Council of Regions and Districts (Le Conseil National des regions et des districts); (77 seats; members appointed by municipal-level councils; members of each Regional Council elect 3 members among themselves to the National Council; each District Council elects 1 member among themselves to the National Council; members serve 5-year term)<br>Assembly of Representatives of the People (161 seats; 151 members in single seat constituencies and 10 members from Tunisian diaspora directly elected by majoritarian two-round voting system; all members serve 5-year terms)<br>
-_elections_: National Council of Regions and Districts - elections held on 24 December 2023 for 279 local councils which will indirectly elect the National Council <br>Assembly of Representatives of the People - last held on 17 December 2022 with a runoff on 29 January 2023 (next to be held in late 2027)<br>
-_election results_: note: in 2022 President SAIED issued a new electoral law which required all legislative candidates run as independents<br>
+_elections_: National Council of Regions and Districts - last held on 24 December 2023 for 279 local councils, which will indirectly elect the National Council (next to be held in 2028)<br><br>Assembly of Representatives of the People - last held on 17 December 2022 with a runoff on 29 January 2023 (next to be held in late 2027)<br>
+_election results_: <strong><br>note:</strong> in 2022 President SAIED issued a new electoral law, which required all legislative candidates to run as independents<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation (consists of the first president, chamber presidents, and magistrates and organized into 27 civil and 11 criminal chambers)<br>
@@ -498,15 +498,15 @@ _expenditures_: $12.375 billion (2019 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$4,017,979,000 (2022 est.)<br>
--$2,794,487,000 (2021 est.)<br>
--$2,535,914,000 (2020 est.)<br>
+-$4.018 billion (2022 est.)<br>
+-$2.794 billion (2021 est.)<br>
+-$2.536 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $17.288 billion (2022 est.)<br>
-$14.067 billion (2021 est.) note: data are in current year dollars<br>
-$11.213 billion (2020 est.) note: data are in current year dollars<br>
+$14.067 billion (2021 est.)<br>
+$11.213 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -517,8 +517,8 @@ insulated wiring, clothing and apparel, crude petroleum, olive oil, vehicle part
 
 **Imports**<br>
 $22.536 billion (2022 est.)<br>
-$18.215 billion (2021 est.) note: data are in current year dollars<br>
-$14.554 billion (2020 est.) note: data are in current year dollars<br>
+$18.215 billion (2021 est.)<br>
+$14.554 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -531,7 +531,7 @@ refined petroleum, natural gas, low-voltage protection equipment, cars, insulate
 $8.094 billion (2022 est.)<br>
 $8.846 billion (2021 est.)<br>
 $9.811 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $35.911 billion (2019 est.)<br>

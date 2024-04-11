@@ -526,8 +526,8 @@ crude petroleum, natural gas, diamonds, refined petroleum, asphalt mixtures (202
 
 **Imports**<br>
 $28.564 billion (2022 est.)<br>
-$18.845 billion (2021 est.) note: data are in current year dollars<br>
-$15.146 billion (2020 est.) note: data are in current year dollars<br>
+$18.845 billion (2021 est.)<br>
+$15.146 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -540,7 +540,7 @@ refined petroleum, scrap vessels, meat, rice, palm oil (2019)<br>
 $13.655 billion (2022 est.)<br>
 $14.468 billion (2021 est.)<br>
 $13.782 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $42.08 billion (31 December 2017 est.)<br>

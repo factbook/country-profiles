@@ -86,12 +86,13 @@ _noun_: Hungarian(s)<br>
 _adjective_: Hungarian<br>
 
 **Ethnic groups**<br>
-Hungarian 85.6%, Romani 3.2%, German 1.9%, other 2.6%, unspecified 14.1% (2011 est.)<br>
+Hungarian 84.3%, Romani 2.1%, German 1%, other 1.2%, unspecified 13.7% (2022 est.)<br>
 <strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic group; Romani populations are usually underestimated in official statistics and may represent 5–10% of Hungary's population<br>
 
 **Languages**<br>
-Hungarian (official) 99.6%, English 16%, German 11.2%, Russian 1.6%, Romanian 1.3%, French 1.2%, other 4.2%; note - shares sum to more than 100% because some respondents gave more than one answer on the census; Hungarian is the mother tongue of 98.9% of Hungarian speakers (2011 est.)<br>
+Hungarian (official) 98.8%, English 25.3%, German 12.6%, Russian 2.1%, French 1.5%, Romanian 1.4%, other 5.1% (2022 est.)<br>
 _major-language sample(s)_: <br>A World Factbook nélkülözhetetlen forrása az alapvető információnak.  (Hungarian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one spoken language<br>
 
 **Religions**<br>
 Catholic 30.1% (Roman Catholic 27.5%, Greek Catholic 1.7%, other Catholic 0.9%), Calvinist 9.8%, Lutheran 1.8%, other Christian (includes Orthodox) 1.6%, other 0.4%, none 16.1%, no answer 40.1% (2022 est.)<br>
@@ -288,8 +289,8 @@ _agricultural_: 550 million cubic meters (2020 est.)<br>
 104 billion cubic meters (2020 est.)<br>
 
 **Geoparks**<br>
-_total global geoparks and regional networks_: 2<br>
-_global geoparks and regional networks_: Bakony-Balaton; Novohrad-N&oacute;gr&aacute;d (includes Slovakia) (2023)<br>
+_total global geoparks and regional networks_: 4 (2024)<br>
+_global geoparks and regional networks_: Bakony-Balaton; Bukk Region; Hungary; Novohrad-N&oacute;gr&aacute;d (includes Slovakia) (2024)<br>
 
 ## Government
 
@@ -349,7 +350,7 @@ _election results_: <br><em>2024:</em> Tamas SULYOK elected president; National 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party-list proportional representation vote, using the D&rsquo;Hondt method; members serve 4-year terms)<br>
 _elections_: last held on 3 April 2022 (next to be held in April 2026)<br>
-_election results_: percent of vote by party list - Fidesz-KDNP 54.1%, United for Hungary 34.5%, Mi Hazank 5.9%, other 5.5%; seats by party list - Fidesz-KDNP 135, United for Hungary 57, Mi Hazank 6, independent 1; composition as of June 2023 - men 171, women 28, percent of women 14.1%<br>
+_election results_: <br>percent of vote by party list - Fidesz-KDNP 54.1%, United for Hungary 34.5%, Mi Hazank 5.9%, other 5.5%; seats by party list - Fidesz-KDNP 135, United for Hungary 57, Mi Hazank 6, independent 1; composition as of February 2024 - men 170, women 29, percent of women 14.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Curia or Supreme Judicial Court (consists of the president, vice president, department heads, and has a maximum of 113 judges, and is organized into civil, criminal, and administrative-labor departments; Constitutional Court (consists of 15 judges, including the court president and vice president)<br>
@@ -521,8 +522,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $161.761 billion (2022 est.)<br>
-$145.539 billion (2021 est.) note: data are in current year dollars<br>
-$124.111 billion (2020 est.) note: data are in current year dollars<br>
+$145.539 billion (2021 est.)<br>
+$124.111 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -533,8 +534,8 @@ cars and vehicle parts, electric batteries, video displays, packaged medicines, 
 
 **Imports**<br>
 $169.199 billion (2022 est.)<br>
-$145.058 billion (2021 est.) note: data are in current year dollars<br>
-$121.016 billion (2020 est.) note: data are in current year dollars<br>
+$145.058 billion (2021 est.)<br>
+$121.016 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>

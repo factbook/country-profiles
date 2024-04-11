@@ -359,7 +359,7 @@ _elections/appointments_: the monarchy is hereditary; prime minister candidate a
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Ratthasapha consists of:<br>Senate or Wuthisapha (currently 250 seats; members appointed by the National Council for Peace and Order to serve 5-year terms; the Senate appointed in 2024 will consist of 200 members elected from various groups of professionals for a 5-year term)<br>House of Representatives or Saphaphuthan Ratsadon (500 seats; 400 members directly elected in single-seat constituencies by simple majority vote and 100 members elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: Senate - last selections held on 14 May 2019 (next to be held in 2024)<br><br>House of Representatives - last held on 14 May 2023 (next to be held in May 2027)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 223, women 26, percent of women 10.4%<br><br>House of Representatives - percent of vote by party - MFP 36.2%, PTP 27.7%, UTN 11.9%, PJT 2.9%, DP 2.3%, PPRP 1.4%, PCC 1.5%, other 16%; seats by party - MFP 152, PTP 141, PJT 70, PPRP 41, UTN 36, DP 24, PCC 9, CTP 10, Thai Sang Thai 6, other 11; composition - 405 men, 94 women, percent women 18.8%<br><br>House of Representatives - percent of vote by party in 2019 election- PPRP 23.7%, PTP 22.2%, FFP* 17.8%, DP 11.1%, PJT 10.5%, TLP 2.3%, CTP 2.2%, NEP 1.4%, PCC 1.4%, ACT 1.2%, PCP 1.2%,  other 5.1%; seats by party - PTP 136, PPRP 116, FFP 81, DP 53, PJT 51, CTP 10, TLP 10, PCC 7, PCP 5, NEP 6, ACT 5, other 20; composition (489 members as of mid-2022) - men 412, women 77, percent of women 15.8%<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 223, women 26, percent of women 10.4%<br><br>House of Representatives - percent of vote by party - MFP 36.2%, PTP 27.7%, UTN 11.9%, PJT 2.9%, DP 2.3%, PPRP 1.4%, PCC 1.5%, other 16%; seats by party - MFP 152, PTP 141, PJT 71, PPRP 41, UTN 36, DP 24, PCC 9, CTP 10, Thai Sang Thai 6, other 11; composition - 405 men, 94 women, percent women 18.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the court president, 6 vice presidents, 60-70 judges, and organized into 10 divisions); Constitutional Court (consists of the court president and 8 judges); Supreme Administrative Court (number of judges determined by Judicial Commission of the Administrative Courts)<br>
@@ -526,15 +526,15 @@ note: central government tax revenue as a % of GDP<br>
 1 October - 30 September<br>
 
 **Current account balance**<br>
--$15,742,407,000 (2022 est.)<br>
--$10,268,493,000 (2021 est.)<br>
+-$15.742 billion (2022 est.)<br>
+-$10.268 billion (2021 est.)<br>
 $20.933 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $324.063 billion (2022 est.)<br>
-$295.972 billion (2021 est.) note: data are in current year dollars<br>
-$257.981 billion (2020 est.) note: data are in current year dollars<br>
+$295.972 billion (2021 est.)<br>
+$257.981 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -545,8 +545,8 @@ office machinery/parts, cars and vehicle parts, integrated circuits, delivery tr
 
 **Imports**<br>
 $334.478 billion (2022 est.)<br>
-$296.115 billion (2021 est.) note: data are in current year dollars<br>
-$232.048 billion (2020 est.) note: data are in current year dollars<br>
+$296.115 billion (2021 est.)<br>
+$232.048 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -559,7 +559,7 @@ crude petroleum, integrated circuits, gold, natural gas, vehicle parts, broadcas
 $216.501 billion (2022 est.)<br>
 $246.025 billion (2021 est.)<br>
 $258.104 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $167.89 billion (2019 est.)<br>

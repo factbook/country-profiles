@@ -334,7 +334,7 @@ _election results_: <em><br>2022:</em> Natasa PIRC MUSAR elected president in se
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>National Council (State Council)or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powers<br>National Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)<br>
 _elections_: <br>National Council - last held on 24 November 2022 (next to be held in 2027)<br>National Assembly - last held on 24 April 2022 (next to be held in 2026)<br>
-_election results_: <br>National Council - percent of vote by party - NA; seats by party - NA; composition (as of January 2023) - men 33, women 7, percent of women 17.5%<br>National Assembly - percent of vote by party - GS 34.5%, SDS 23.5%, NSi 6.9%, SD 6.7%, Levica 4.4%, other 24%; seats by party - GS 41, SDS 27, NSi 8, SD 7, Levica 5; composition (as of January 2023) - men 56, women 34, percent of women 37.8%; note - total Parliament percent of women 31.5%<br>
+_election results_: <br>National Council - percent of vote by party - NA; seats by party - NA; composition as of January 2023) - men 33, women 7, percent of women 17.5%<br><br>National Assembly - percent of vote by party - GS 34.5%, SDS 23.5%, NSi 6.9%, SD 6.7%, Levica 4.4%, other 24%; seats by party - GS 41, SDS 27, NSi 8, SD 7, Levica 5; composition as of January 2023 - men 56, women 34, percent of women 37.8%; note - total Parliament percent of women 31.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president and 37 judges organized into civil, criminal, commercial, labor and social security, administrative, and registry departments); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
@@ -505,8 +505,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $56.51 billion (2022 est.)<br>
-$51.662 billion (2021 est.) note: data are in current year dollars<br>
-$41.855 billion (2020 est.) note: data are in current year dollars<br>
+$51.662 billion (2021 est.)<br>
+$41.855 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -517,8 +517,8 @@ packaged medicines, cars and vehicle parts, refined petroleum, electrical lighti
 
 **Imports**<br>
 $55.158 billion (2022 est.)<br>
-$47.997 billion (2021 est.) note: data are in current year dollars<br>
-$37 billion (2020 est.) note: data are in current year dollars<br>
+$47.997 billion (2021 est.)<br>
+$37 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -531,7 +531,7 @@ packaged medicines, cars and vehicle parts, refined petroleum, delivery trucks, 
 $2.268 billion (2022 est.)<br>
 $2.267 billion (2021 est.)<br>
 $1.311 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $48.656 billion (2019 est.)<br>

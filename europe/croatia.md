@@ -286,8 +286,8 @@ _agricultural_: 80 million cubic meters (2020 est.)<br>
 105.5 billion cubic meters (2020 est.)<br>
 
 **Geoparks**<br>
-_total global geoparks and regional networks_: 2<br>
-_global geoparks and regional networks_: Papuk; Vis Archipelago (2023)<br>
+_total global geoparks and regional networks_: 3 (2024)<br>
+_global geoparks and regional networks_: Biokovo-Imotski Lakes; Papuk; Vis Archipelago (2024)<br>
 
 ## Government
 
@@ -514,7 +514,7 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1,464,477,000 (2022 est.)<br>
+-$1.464 billion (2022 est.)<br>
 $2.082 billion (2021 est.)<br>
 -$184.775 million (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
@@ -533,8 +533,8 @@ refined petroleum, crude petroleum, packaged medicines, electricity, electrical 
 
 **Imports**<br>
 $46.307 billion (2022 est.)<br>
-$36.331 billion (2021 est.) note: data are in current year dollars<br>
-$27.954 billion (2020 est.) note: data are in current year dollars<br>
+$36.331 billion (2021 est.)<br>
+$27.954 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -547,7 +547,7 @@ crude petroleum, cars, refined petroleum, packaged medicines, electricity (2019)
 $29.726 billion (2022 est.)<br>
 $28.309 billion (2021 est.)<br>
 $23.254 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $48.263 billion (2019 est.)<br>

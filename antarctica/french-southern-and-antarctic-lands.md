@@ -182,5 +182,5 @@ defense is the responsibility of France; French forces on Mayotte, the D&eacute;
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>French claim to "Adelie Land" in Antarctica is not recognized by the US;</p> <p>Bassas da India, Europa Island, Glorioso Islands, Juan de Nova Island (Iles Eparses): claimed by Madagascar; the vegetated drying cays of Banc du Geyser, which were claimed by Madagascar in 1976, also fall within the EEZ claims of the Comoros and France (Glorioso Islands)</p> <p>Tromelin Island (Iles Eparses): claimed by Mauritius</p><br>
+see France<br>
 

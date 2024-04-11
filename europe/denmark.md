@@ -278,8 +278,8 @@ _agricultural_: 530 million cubic meters (2020 est.)<br>
 6 billion cubic meters (2020 est.)<br>
 
 **Geoparks**<br>
-_total global geoparks and regional networks_: 2<br>
-_global geoparks and regional networks_: Odsherred; Vestjylland (2023)<br>
+_total global geoparks and regional networks_: 3 (2024)<br>
+_global geoparks and regional networks_: Odsherred; South Fyn Archipelago; Vestjylland (2024)<br>
 
 ## Government
 
@@ -535,7 +535,7 @@ cars, packaged medicines, refined petroleum, crude petroleum, broadcasting equip
 $96.073 billion (2022 est.)<br>
 $82.236 billion (2021 est.)<br>
 $72.823 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $504.808 billion (2019 est.)<br>
@@ -706,7 +706,7 @@ the Danish military inventory is comprised of a mix of modern European, US, and 
 <strong>note 1:</strong> women have been able serve in all military occupations, including combat arms, since 1988; as of 2022, they made up about 9% of the military's full-time personnel; in 2024, Denmark announced that it would extend military conscription to women in 2026<br><br><strong>note 2:</strong> conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br><br><strong>note 3: </strong>foreigners who have lived in Denmark for at least 1 year or in another EU country for 6 years may apply to join the armed forces, provided they are fluent in Danish <br><br><strong>note 4: </strong>Denmark has had compulsory military service since 1849<br>
 
 **Military deployments**<br>
-approximately 225 Estonia (NATO); approximately 800 Latvia (NATO) (2023)<br>
+approximately 800 Latvia (NATO); Denmark contributes small numbers of air, ground, and naval forces to a variety of other NATO and international missions (2024)<br>
 <strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Denmark, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>

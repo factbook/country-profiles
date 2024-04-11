@@ -471,8 +471,8 @@ VP-F<br>
 34 (2024)<br>
 
 **Roadways**<br>
-_total_: 440 km (2008)<br>
-_paved_: 50 km (2008)<br>
+_total_: 440 km<br>
+_paved_: 50 km<br>
 _unpaved_: 390 km (2008)<br>
 
 **Merchant marine**<br>

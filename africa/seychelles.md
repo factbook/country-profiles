@@ -478,8 +478,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $2.247 billion (2022 est.)<br>
-$1.751 billion (2021 est.) note: data are in current year dollars<br>
-$1.24 billion (2020 est.) note: data are in current year dollars<br>
+$1.751 billion (2021 est.)<br>
+$1.24 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -490,8 +490,8 @@ refined petroleum, fish, recreational boats, cigarettes, animal meal (2019)<br>
 
 **Imports**<br>
 $2.298 billion (2022 est.)<br>
-$1.821 billion (2021 est.) note: data are in current year dollars<br>
-$1.332 billion (2020 est.) note: data are in current year dollars<br>
+$1.821 billion (2021 est.)<br>
+$1.332 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -504,7 +504,7 @@ recreational boats, refined petroleum, fish, aircraft, cars (2019)<br>
 $638.961 million (2022 est.)<br>
 $702.585 million (2021 est.)<br>
 $559.682 million (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $4.802 billion (2019 est.)<br>
@@ -626,8 +626,8 @@ S7<br>
 6 (2024)<br>
 
 **Roadways**<br>
-_total_: 526 km (2015)<br>
-_paved_: 514 km (2015)<br>
+_total_: 526 km<br>
+_paved_: 514 km<br>
 _unpaved_: 12 km (2015)<br>
 
 **Merchant marine**<br>

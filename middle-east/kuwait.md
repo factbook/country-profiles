@@ -330,8 +330,8 @@ _elections/appointments_: amir chosen from within the ruling family, confirmed b
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Majlis al-Umma (65 seats; 50 members directly elected from 5 multi-seat constituencies by simple majority vote and 15 ex-officio members (cabinet ministers)&nbsp;appointed by the amir; members serve 4-year terms)<br>
-_elections_: snap election last held on 6 June 2023 (next to be held on 4 April 2024)<br>
-_election results_: <em><br></em>50 non-partisan candidates, including 29 oppositionists; composition of elected members - 49 men, 1 woman, percent of women 2%<br>
+_elections_: last held on 4 April 2024 (next to be held in 2028)<br>
+_election results_: <em><br></em>50 nonpartisan candidates, including 29 opposition candidates; composition of all members as of February 2024 - men 63, women 2, percent of women 3.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Constitutional Court (consists of 5 judges); Supreme Court or Court of Cassation (organized into several circuits, each with 5 judges)<br>
@@ -490,8 +490,8 @@ note: balance of payments - net trade and primary/secondary income in current do
 
 **Exports**<br>
 $110.923 billion (2022 est.)<br>
-$77.121 billion (2021 est.) note: data are in current year dollars<br>
-$47.416 billion (2020 est.) note: data are in current year dollars<br>
+$77.121 billion (2021 est.)<br>
+$47.416 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -502,8 +502,8 @@ crude petroleum, refined petroleum, natural gas, industrial hydrocarbon products
 
 **Imports**<br>
 $55.909 billion (2022 est.)<br>
-$48.954 billion (2021 est.) note: data are in current year dollars<br>
-$44.015 billion (2020 est.) note: data are in current year dollars<br>
+$48.954 billion (2021 est.)<br>
+$44.015 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -516,7 +516,7 @@ cars, broadcasting equipment, natural gas, packaged medicines, jewelry (2019)<br
 $52.462 billion (2022 est.)<br>
 $49.525 billion (2021 est.)<br>
 $52.919 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $47.24 billion (31 December 2017 est.)<br>
@@ -641,8 +641,8 @@ _annual freight traffic on registered air carriers_: 392.36 million (2018) mt-km
 261 km gas, 540 km oil, 57 km refined products (2013)<br>
 
 **Roadways**<br>
-_total_: 5,749 km (2018)<br>
-_paved_: 4,887 km (2018)<br>
+_total_: 5,749 km (201)<br>
+_paved_: 4,887 km<br>
 _unpaved_: 862 km (2018)<br>
 
 **Merchant marine**<br>

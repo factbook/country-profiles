@@ -334,13 +334,13 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Zuzana CAPUTOVA (since 15 June 2019)<br>
 _head of government_: Prime Minister Robert FICO (since 25 October 2023); Deputy Prime Ministers Robert KALINAK, Denisa SAKOVA, Tomas TARABA, and Peter KMEC (all since 25 October 2023)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election first round 23 March 2024 (runoff to be held on 6 April 2024); following National Council elections (every 4 years), the president designates a prime minister candidate, usually the leader of the party or coalition that wins the most votes, who must win a vote of confidence in the National Council<br>
-_election results_: <em><br>2024: </em>percent of vote in first round - Ivan KORCOK (independent) 42.5%; Peter PELLEGRINI (Voice-Social Democracy) 37%; Stefan HARABIN (independent) 11.7%, other 8.8%; runoff to be held on 6 April 2024<em><br><br>2019:</em> Zuzana CAPUTOVA elected president in second round; percent of vote - Zuzana CAPUTOVA (PS) 58.4%, Maros SEFCOVIC (independent) 41.6%<br><br><em>2014:</em> Andrej KISKA elected president in second round; percent of vote - Andrej KISKA (independent) 59.4%, Robert FICO (Smer-SD) 40.6%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election first round 23 March 2024 with a runoff on 6 April 2024 (next to be held in 2029); following National Council elections (every 4 years), the president designates a prime minister candidate, usually the leader of the party or coalition that wins the most votes, who must win a vote of confidence in the National Council<br>
+_election results_: <em><br>2024: </em>Peter PELLEGRINI elected president in the second round; percent of vote in first round - Ivan KORCOK (independent) 42.5%; Peter PELLEGRINI (Hlas-SD) 37%; Stefan HARABIN (independent) 11.7%, other 8.8%; percent of vote in second round Peter PELLEGRINI (Hlas-SD) 53.1%; Ivan KORCOK (independent) 46.9%<em>; </em>PELLEGRINI will takeoffice on 15 June 2024<em><br><br>2019:</em> Zuzana CAPUTOVA elected president in second round; percent of vote - Zuzana CAPUTOVA (PS) 58.4%, Maros SEFCOVIC (independent) 41.6%<br><br><em>2014:</em> Andrej KISKA elected president in second round; percent of vote - Andrej KISKA (independent) 59.4%, Robert FICO (Smer-SD) 40.6%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Council or Narodna Rada (150 seats; members directly elected in a single- and multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 30 September 2023 (next to be held in February 2024)<br>
-_election results_: percent of vote by party - SMER-SSD 23%, PS 18%, Hlas-SD 14.7%, OL'aNO 8.9%, KDH 6.8%, SaS 6.3%, SNS 5.6%; seats by party SMER-SSD 42, PS 32, Hlas-SD 27, OL'aNO 16, KDH 12, SaS 11, 10<br><br>composition (as of April 2023) - men 117, women 33, percent of women 22%<br>
+_elections_: last held on 30 September 2023 (next to be held by 2027)<br>
+_election results_: <br>percent of vote by party - SMER-SSD 23%, PS 18%, Hlas-SD 14.7%, OL'aNO 8.9%, KDH 6.8%, SaS 6.3%, SNS 5.6%; seats by party SMER-SSD 42, PS 32, Hlas-SD 27, OL'aNO 16, KDH 12, SaS 11, SNS 10; composition as of February 2024 - men 116, women 34, percent of women 22.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Slovak Republic (consists of the court president, vice president, and approximately 80 judges organized into criminal, civil, commercial, and administrative divisions with 3- and 5-judge panels); Constitutional Court of the Slovak Republic (consists of 13 judges organized into 3-judge panels)<br>
@@ -506,15 +506,15 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$8,452,388,000 (2022 est.)<br>
--$4,654,508,000 (2021 est.)<br>
+-$8.452 billion (2022 est.)<br>
+-$4.655 billion (2021 est.)<br>
 $671.914 million (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $114.678 billion (2022 est.)<br>
-$109.565 billion (2021 est.) note: data are in current year dollars<br>
-$90.546 billion (2020 est.) note: data are in current year dollars<br>
+$109.565 billion (2021 est.)<br>
+$90.546 billion (2020 est.)<br>
 note: balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -525,8 +525,8 @@ cars and vehicle parts, video displays, broadcasting equipment, tires, refined p
 
 **Imports**<br>
 $120.622 billion (2022 est.)<br>
-$109.265 billion (2021 est.) note: data are in current year dollars<br>
-$88.214 billion (2020 est.) note: data are in current year dollars<br>
+$109.265 billion (2021 est.)<br>
+$88.214 billion (2020 est.)<br>
 note: balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -539,7 +539,7 @@ cars and vehicle parts, broadcasting equipment, crude petroleum, natural gas, in
 $10.28 billion (2022 est.)<br>
 $9.61 billion (2021 est.)<br>
 $9.344 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $115.853 billion (2019 est.)<br>
