@@ -324,8 +324,8 @@ _election results_: <em>2024:  </em>Myriam SPITERI DEBONO elected president; Ho
 
 **Legislative branch**<br>
 _description_: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (65 seats statutory, 79 for 2022-2027 term; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 26 March 2022 (next to be held in 2027)<br>
-_election results_: percent of vote by party - PL 55.1%, PN 41.7%, other 3.2%; seats by party - PL 38, PN 29; composition - men 57, women 22, percent of women 27.8%; note - due to underrepresentation by women in the combined general on 26 March and two casual elections on 7 and 12 April (10 seats or 14.9%), an additional 12 seats were awarded because their percentage did not meet the 40% threshold required by the Malta Constitution or the General Elections Amendment Act 2021<br>
+_elections_: <br>last held on 26 March 2022 (next to be held in 2027)<br>
+_election results_: <br>percent of vote by party - PL 55.1%, PN 41.7%, other 3.2%; seats by party - PL 38, PN 29; composition as of February 2024 - men 57, women 22, percentage women 27.9%; note - due to underepresentation by women in the combined general on 26 March and two casual elections on 7 and 12 April (10 seats or 14.9%), an additional 12 seats were awarded because their percentage did not meet the 40% threshold required by the Malta Constitution or the General Elections Amendment Act 2021<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of either 1 or 3 judges); Constitutional Court (consists of 3 judges); Court of Criminal Appeal (consists of either 1 or 3 judges)<br>

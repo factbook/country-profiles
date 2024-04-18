@@ -332,8 +332,8 @@ _election results_: <em><br>2022</em>: YOON Suk-yeol elected president; YOON Suk
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Gukhoe (300 seats statutory, current 295; 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 15 April 2020 (next to be held on 10 April 2024)<br>
-_election results_: percent of vote by party/coalition - DPK/Platform Party 49.9%, United Future Party 41.5%, JP 1.7%; seats by party - DPK/Platform Party 180, United Future Party (now PPP) 103, JP 6, ODP 3, PP 3, independent 5; composition as of April 2022 - men 242, women 57, percent of women 19.1%<br>
+_elections_: <br>last held on 10 April 2024 (next to be held in April 2028)<br>
+_election results_: <br>percent of vote by party/coalition (constituency) - Democratic Alliance 52.3%, PPP 45.7%, others 2%; percent of vote by party/coalition (proportional) - PPP 36.7%, Democratic Alliance 26.7%, Rebuilding Korea Party 24.3%, New Reform Party 3.6%, New Future Party 1.7%, others 7%; seats by party - Democratic Alliance 176 (DPK 169), PPP 108, Rebuilding Korea Party 12, New Reform Party 3, New Future Party 1; composition prior to 2024 election - men 240, women 60, percentage women 20%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of a chief justice and 13 justices); Constitutional Court (consists of a court head and 8 justices)<br>
@@ -341,8 +341,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: High Courts; District Courts; Branch Courts (organized under the District Courts); specialized courts for family and administrative issues<br>
 
 **Political parties and leaders**<br>
-Basic Income Party [SHIN Ji-hye] <br>Democratic Party of Korea or DPK [LEE Jae-myung] (renamed from Minjoo Party of Korea or MPK in October 2016); includes the former Open Democratic Party [CHOI Kong-wook], which merged with the DP in January 2022 and the Together Citizens' Party or Platform Party [WOO Hee-jong, CHOI Bae-geun], which merged with the DP in May 2022)<br>Hope of Korea [Yang Hyang-ja]<br>Justice Party or JP [LEE Jeong-mi]<br>People Power Party or PPP [HAN Dong-hoon] (renamed from United Future Party in September 2020, formerly Liberty Korea Party)<br>Transition Korea [CHO Jung-hun]<br>
-<strong>note: </strong>the DPK is South Korea’s largest party and its main progressive party; the People Power Party (PPP) is a conservative grouping and is South Korea’s second-largest party<br>
+Basic Income Party [MUN Mi-jeong]<br>New Reform Party [LEE Jun-seok]<br>Democratic Party of Korea or DPK [LEE Jae-myung] <br>New Future Party [LEE Nak-yun]<br>Open Democratic Party or ODP [KIM Sang-gyun]<br>People Power Party or PPP [HAN Dong-hoon] <br>Progressive Party or Jinbo Party [YOON Hee-suk]<br>Rebuilding Korea Party [CHO Kuk]<br>Social Democratic Party [NA]<br><br>note - the Democratic Alliance Coalition consists of the DPK and the smaller Basic Income, Jinbo, Open Democratic, and Social Democratic parties, as well as two independents; for the 2024 election, the Basic Income Party, the ODP, and the Social Democratic Party formed the New Progressive Alliance<br>
 
 **International organization participation**<br>
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CABEI, CD, CICA, CP, EAS, EBRD, FAO, FATF, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSTAH, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SAARC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNMOGIP, UNOCI, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -683,9 +682,6 @@ _by type_: bulk carrier 93, container ship 115, general cargo 362, oil tanker 21
 _major seaport(s)_: Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu<br>
 _container port(s) (TEUs)_: Busan (22,706,130), Incheon (3,353,781), Kwangyang (2,122,903) (2021)<br>
 _LNG terminal(s) (import)_: Incheon, Kwangyang, Pyeongtaek, Samcheok, Tongyeong, Yeosu<br>
-
-**Transportation - note**<br>
-South Korea operates one PC 5 or 6 class light icebreaker<br>note - PC indicates a Polar Class vessel: PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

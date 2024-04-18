@@ -5,7 +5,7 @@ _Central America and Caribbean / Dependencies (United Kingdom)_
 ## Introduction
 
 **Background**<br>
-The Cayman Islands were colonized from Jamaica by the British during the 18th and 19th centuries and were administered by Jamaica after 1863. In 1959, the islands became a territory within the Federation of the West Indies. When the Federation dissolved in 1962, the Cayman Islands chose to remain a British dependency. The territory has transformed itself into a significant offshore financial center.<br>
+The British colonized the Cayman Islands during the 18th and 19th centuries, and Jamaica -- also a British colony at the time -- administered the islands after 1863. In 1959, the islands became a territory within the Federation of the West Indies. When the Federation dissolved in 1962, the Cayman Islands chose to remain a British dependency. The territory has transformed itself into a significant offshore financial center.<br>
 
 ## Geography
 

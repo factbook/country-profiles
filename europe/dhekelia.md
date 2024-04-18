@@ -5,7 +5,7 @@ _Europe / Dependencies (United Kingdom)_
 ## Introduction
 
 **Background**<br>
-By terms of the 1960 Treaty of Establishment that created the independent Republic of Cyprus, the UK retained full sovereignty and jurisdiction over two areas of almost 254 square kilometers - Akrotiri and Dhekelia. The larger of these is the Dhekelia Sovereign Base Area, which is also referred to as the Eastern Sovereign Base Area.<br>
+By terms of the 1960 Treaty of Establishment that created the independent Republic of Cyprus, the UK retained full sovereignty and jurisdiction over two areas of almost 254 square kilometers -- Akrotiri and Dhekelia. The larger of these is the Dhekelia Sovereign Base Area, which is also referred to as the Eastern Sovereign Base Area.<br>
 
 ## Geography
 

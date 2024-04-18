@@ -262,8 +262,8 @@ _elections/appointments_: the monarchy is hereditary; Council of Ministers, incl
 
 **Legislative branch**<br>
 _description_: unicameral Assembly of the States of Jersey (49 elected members; 8 senators to serve 4-year terms, and 29 deputies and 12 connetables, or heads of parishes, to serve 4-year terms; 5 non-voting members appointed by the monarch include the bailiff, lieutenant governor, dean of Jersey, attorney general, and the solicitor general)<br>
-_elections_: last held on 22 June 2022 (next to be held in 2026)<br>
-_election results_: percent of vote by party - BW 66.8%, RJ 12.3%, JA 2.0%, PP 2.0%, JLC 4.1%; seats by party - BW 35, RJ 10, JA 1, PP 1, JLC 2; composition - men NA, women NA, percent of women NA<br>
+_elections_: <br>last held on 22 June 2022 (next to be held in 2026)<br>
+_election results_: <br>percent of vote by party - BW 66.8%, RJ 12.3%, JA 2.0%, PP 2%, JLC 4.1%; seats by party - BW 35, RJ 10, JLC 2, JA 1, PP 1; composition as of April 2024 - men 28, women 21, percentage women 42.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Jersey Court of Appeal (consists of the bailiff, deputy bailiff, and 12 judges); Royal Court (consists of the bailiff, deputy bailiff, 6 commissioners and lay people referred to as jurats, and is organized into Heritage, Family, Probate, and Samedi Divisions); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>

@@ -326,8 +326,8 @@ _elections/appointments_: <p>Libya’s first direct presidential election, sched
 
 **Legislative branch**<br>
 _description_: unicameral House of Representatives (Majlis Al Nuwab) or HoR (200 seats including 32 reserved for women; members directly elected by majority vote; member term NA); note - the High State Council serves as an advisory group for the HoR<br>
-_elections_: last held on 25 June 2014<br>
-_election results_: percent of vote by party - NA; seats by party - NA; composition; note - only 188 of the 200 seats were filled in the June 2014 election because of boycotts and lack of security at some polling stations; some elected members of the HoR also boycotted the election<br>
+_elections_: <br>last held on 25 June 2014<br>
+_election results_: <br>percent of vote by party - NA; seats by party - NA; note - only 188 of the 200 seats were filled in the June 2014 election because of boycotts and lack of security at some polling stations; some elected members of the House of Representatives also boycotted the election<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Libya's judicial system consists of a supreme court, central high courts (in Tripoli, Benghazi, and Sabha), and a series of lower courts; the judicial system is factious given the ongoing tension between Libya's eastern and western regions; since 2011, Libyan political factions and armed groups have targeted judges and courthouses<br>

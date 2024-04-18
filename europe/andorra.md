@@ -304,7 +304,7 @@ _election results_: <em><br>2023: </em>Xaviar Espot ZAMORA (DA) reelected head o
 **Legislative branch**<br>
 _description_: unicameral General Council of the Valleys or Consell General de les Valls (a minimum of 28 seats; 14 members directly elected in two-seat constituencies (7 parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms); note - voters cast two separate ballots - one for national election and one for their parish<br>
 _elections_: last held on 2 April 2023 (next to be held in April 2027)<br>
-_election results_: <br>percent of vote by party/coalition - DA, CC, L'A &amp; ACCIO alliance 43.6%, C 21.4%, AE 16%, PS &amp; SDP alliance 21.1%; seats by party/coalition - DA, CC, L'A &amp; ACCIO alliance 17, C 5, AE 3, PS &amp; SDP alliance 3; composition as of January 2024 - men 14, women 14, percent of women 50%<br>
+_election results_: <br>percent of vote by party/coalition - DA, CC, L'A &amp; ACCIO alliance 43.6%, C 21.4%, AE 16%, PS &amp; SDP alliance 21.1%; seats by party/coalition - DA, CC, L'A &amp; ACCIO alliance 17, C 5, AE 3, PS &amp; SDP alliance 3; composition as of February 2024 - men 14, women 14, percentage women 50%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice of Andorra or Tribunal Superior de la Justicia d'Andorra (consists of the court president and 8 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tribunal Constitucional (consists of 4 magistrates)<br>

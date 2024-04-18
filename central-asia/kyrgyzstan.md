@@ -347,8 +347,8 @@ _election results_: <em><br>2021:</em> Sadyr JAPAROV elected president in first 
 
 **Legislative branch**<br>
 _description_: unicameral Supreme Council or Jogorku Kenesh (90 seats statutory, current 88; 54 seats allocated for proportional division among political party lists from the national vote and 36 seats allocated for candidates running in single-seat constituencies; members serve 5-year terms; parties must receive 5% of the vote to win seats in the Council)<br>
-_elections_: last held on 28 November 2021 (next to be held in 2026)<br>
-_election results_: percent of vote by party - Ata-Jurt Kyrgyzstan or AJK 17.3%, Ishenim 15%, Yntymak 12.1%, Alyans 9.2%, Butun Kyrgyzstan 7.8%, Yiman Nuru 6.8%, other 30%; seats by party - AJK 15, Ishenim 12, Yntymak 9, Alyns 7, Butun Kyrgyzstan 6, Yiman Nuru 5, other 36; composition - men 70, women 18, percent of women 20%<br>
+_elections_: <br>last held on 28 November 2021 (next to be held in 2026)<br>
+_election results_: <br>percent of vote by party - AJK 17.3%, Ishenim 15%, Yntymak 12.1%, Alyans 9.2%, Butun Kyrgyzstan 7.8%, Yiman Nuru 6.8%, other 30%; seats by party - AJK 15, Ishenim 12, Yntymak 9, Alyns 7, Butun Kyrgyzstan 6, Yiman Nuru 5, other 36; composition as of February 2024 - men 70, women 19, percentage women 21.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 25 judges); Constitutional Chamber of the Supreme Court (consists of the chairperson, deputy chairperson, and 9 judges)<br>

@@ -337,8 +337,8 @@ _election results_: <em><br>2019:</em> Gitanas NAUSEDA elected president in seco
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 11 and 25 October 2020 (next to be held in October 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - TS-LKD 50, LVZS 32, LSDP 13, LRLS 13, LP 11, DP 10, LLRA-KSS 3, LSDDP 3, LT 1, LZP 1, independent 4; composition as of April 2023 - men 101, women 40, women 28 percent<br>
+_elections_: <br>last held on 11 and 25 October 2020 (next to be held on 13 October 2024)<br>
+_election results_: <br>percent of vote by party - NA; seats by party - TS-LKD 50, LVZS 32, LSDP 13, LRLS 13, LP 11, DP 10, LLRA-KSS 3, LSDDP 3, LT 1, LZP 1, independent 4; composition as of February 2024 - men 99, women 41, percentage women 29.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 37 judges); Constitutional Court (consists of 9 judges)<br>

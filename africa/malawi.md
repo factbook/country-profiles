@@ -361,8 +361,8 @@ _election results_: <br><em>2020: </em>Lazarus CHAKWERA elected president; Lazar
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (193 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: last held on 21 May 2019 (next to be held in May 2024)<br>
-_election results_: percent of vote by party - n/a; seats by party - DPP 62, MCP 55, UDF 10, PP 5, other 5, independent 55, vacant 1; composition as of July 2023 - men 153, women 40, percent of women 20.7%<br>
+_elections_: <br>last held on 21 May 2019 (next to be held in May 2024)<br>
+_election results_: <br>percent of vote by party - NA; seats by party - DPP 62, MCP 55, UDF 10, PP 5, other 5, independent 55, vacant 1; composition as of February 2024 - men 153, women 40, percentage women 20.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Appeal (consists of the chief justice and at least 3 judges)<br>
@@ -708,7 +708,7 @@ the MDF's inventory is comprised of mostly obsolescent or secondhand equipment o
 18-30years of age for men and women for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2023)<br>
 
 **Military deployments**<br>
-750 Democratic Republic of the Congo (MONUSCO)&nbsp; (2023)<br>
+740 Democratic Republic of the Congo (MONUSCO) (2024)<br>
 
 **Military - note**<br>
 the MDF’s primary responsibility is external security; it is also tasked as necessary with providing support to civilian authorities during emergencies, supporting the Police Service, protecting national forest reserves, and participating in regional peacekeeping missions, as well as assisting with infrastructure development; it is generally considered to be a professional and effective service, although most of its equipment is aging and obsolescent; Malawi contributes regularly to African Union and UN peace support operations; the Army is the dominant service and has three infantry brigades while its subordinate maritime force has a few patrol boats for monitoring Lake Malawi <br><br>the MDF was established in 1964 from elements of the Kings African Rifles (KAR), a British colonial regiment raised from Great Britain's various possessions in East Africa from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2023)<br>

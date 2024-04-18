@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Much of the area of present-day Cameroon was ruled by powerful chiefdoms before becoming a German colony in 1884 known as Kamerun. After World War I, the territory was divided between France and the UK as League of Nations mandates. French Cameroon became independent in 1960 as the Republic of Cameroon. The following year the southern portion of neighboring British Cameroon voted to merge with the new country to form the Federal Republic of Cameroon. In 1972, a new constitution replaced the federation with a unitary state, the United Republic of Cameroon. The country has generally enjoyed stability, which has enabled the development of agriculture, roads, and railways, as well as a petroleum industry. Nonetheless, unrest and violence in the country's two western, English-speaking regions has persisted since 2016. Movement toward democratic reform is slow and political power remains firmly in the hands of President Paul BIYA.<br>
+Powerful chiefdoms ruled much of the area of present-day Cameroon before it became a German colony known as Kamerun in 1884. After World War I, the territory was divided between France and the UK as League of Nations mandates. French Cameroon became independent in 1960 as the Republic of Cameroon. The following year, the southern portion of neighboring British Cameroon voted to merge with the new country to form the Federal Republic of Cameroon. In 1972, a new constitution replaced the federation with a unitary state, the United Republic of Cameroon. The country has generally enjoyed stability, which has enabled the development of agriculture, roads, and railways, as well as a petroleum industry. Nonetheless, unrest and violence in the country's two western, English-speaking regions have persisted since 2016. Movement toward democratic reform is slow, and political power remains firmly in the hands of President Paul BIYA.<br>
 
 ## Geography
 
@@ -382,7 +382,7 @@ _chief of mission_: Ambassador Henri ETOUNDI ESSOMBA (since 27 June 2016)<br>
 _chancery_: 2349 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 265-8790<br>
 _FAX_: [1] (202) 387-3826<br>
-_email address and website_: mail@cameroonembassyusa<br>
+_email address and website_: <br>mail@cameroonembassyusa<br><br>Cameroon Embassy in Washington DC, USA (cameroonembassyusa.org)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Christopher J. LAMORA (since 21 March 2022)<br>

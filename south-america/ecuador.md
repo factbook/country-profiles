@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-What is now Ecuador formed part of the northern Inca Empire until the Spanish conquest in 1533. Quito became a seat of Spanish colonial government in 1563 and part of the Viceroyalty of New Granada in 1717. The territories of the Viceroyalty - New Granada (Colombia), Venezuela, and Quito - gained their independence between 1819 and 1822 and formed a federation known as Gran Colombia. When Quito withdrew in 1830, the traditional name was changed in favor of the "Republic of the Equator." Between 1904 and 1942, Ecuador lost territories in a series of conflicts with its neighbors. A border war with Peru that flared in 1995 was resolved in 1999. Although Ecuador has had nearly 50 years of civilian governance, the period has been marred with political instability.<br>
+What is now Ecuador formed part of the northern Inca Empire until the Spanish conquest in 1533. Quito -- the traditional name for the area -- became a seat of Spanish colonial government in 1563 and part of the Viceroyalty of New Granada in 1717. The territories of the Viceroyalty -- New Granada (Colombia), Venezuela, and Quito -- gained their independence between 1819 and 1822 and formed a federation known as Gran Colombia. When Quito withdrew to become an independent republic in 1830, the traditional name was changed to the "Republic of the Equator." Between 1904 and 1942, Ecuador lost territories in a series of conflicts with its neighbors. A border war with Peru that flared in 1995 was resolved in 1999. Although Ecuador has had nearly 50 years of civilian governance, the period has been marked by political instability.<br>
 
 ## Geography
 
@@ -91,7 +91,7 @@ _adjective_: Ecuadorian<br>
 Mestizo (mixed Indigenous and White) 77.5%, Montubio 7.7%, Indigenous 7.7%, White 2.2%, Afroecuadorian 2%, Mulatto 1.4%, Black 1.3%, other 0.1% (2022 est.)<br>
 
 **Languages**<br>
-Spanish (Castilian; official) 98.6%, indigenous 3.9% (Quechua 3.2%, other indigenous 0.7%), foreign 2.8%, other 0.6% (includes Ecuadorian sign language);&nbsp;note - (Quechua and Shuar are official languages of intercultural relations; other indigenous languages are in official use by indigenous peoples in the areas they inhabit) (2010 est.)<br>
+Spanish (Castilian; official) 98.6%, indigenous 3.9% (Quechua 3.2%, other indigenous 0.7%), foreign 2.8%, other 0.6% (includes Ecuadorian sign language);&nbsp;note - (Quechua and Shuar are official languages of intercultural relations; other indigenous languages are in official use by indigenous peoples in the areas they inhabit) (2022 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 <strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census<br>
 

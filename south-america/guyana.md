@@ -337,8 +337,8 @@ _election results_: <br><em>2020:</em> Mohammed Irfaan ALI (PPP/C) designated pr
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (70 seats; 40 members directly elected in a single nationwide constituencies, 25 directly elected in multi-seat constituencies - all by closed-list proportional representation vote, 2 non-elected ministers, 2 non-elected parliamentary secretaries, and the speaker; members serve 5-year terms)<br>
-_elections_: last held on 2 March 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - PPP/C 50.69%, APNU-AFC 47.34%, LJP 0.58%, ANUG 0.5%, TNM 0.05%, other 0.84%; seats by party - PPP/C 33, APNU-AFC 31, LJP-ANUG-TNM 1; composition (elected and non-elected) - men 45, women 25, percent of women 35.7%; note - the initial results were declared invalid and a partial recount was conducted from 6 May to 8 June 2020, in which PPP/C was declared the winner<br>
+_elections_: <br>last held on 2 March 2020 (next to be held in 2025)<br>
+_election results_: <br>percent of vote by party - PPP/C 50.69%, APNU-AFC 47.34%, LJP 0.58%, ANUG 0.5%, TNM 0.05%, other 0.84%; seats by party - PPP/C 33, APNU-AFC 31, LJP-ANUG-TNM 1; composition as of February 2024 (elected and non-elected) - men 43, women 28, percentage women 39.4%; note - the initial results were declared invalid and a partial recount was conducted from 6 May to 8 June 2020, in which PPP/C was declared the winner<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal with a chief justice and 3 justices, and the High Court with a chief justice and 10 justices organized into 3- or 5-judge panels); note - in 2009, Guyana acceded to the Caribbean Court of Justice as the final court of appeal in civil and criminal cases, replacing that of the Judicial Committee of the Privy Council (in London)<br>
@@ -673,7 +673,7 @@ the Guyana Defense Force (GDF) was established in 1965; its primary missions are
 ## Transnational Issues
 
 **Disputes - international**<br>
-<em>Guyana-Venezuela:</em> Venezuela claims all of the area west of the Essequibo River in Guyana, preventing any discussion of a maritime boundary; in 2018, Guyana initiated proceedings against Venezuela with the International Court of Justice (ICJ); Venezuela requested a direct dialogue to settle the dispute; the ICJ ruled that it had jurisdiction to hear the case in December 2020; in December 2023, the Venezuelan Government held a referendum on the disputed Essequibo region and announced measures to exert administrative control over the area <br><br><em>Guyana-Suriname:</em> Suriname claims a triangle of land between the New and Kutari/Koetari Rivers in a historic dispute over the headwaters of the Courantyne River<br>
+<em>Guyana-Venezuela:</em> Caracas claims all of the area west of the Essequibo River in Guyana, preventing any discussion of a maritime boundary; in 2018, Guyana initiated proceedings against Venezuela with the International Court of Justice (ICJ) while Venezuela requested a direct dialogue to settle the dispute; the ICJ ruled that it had jurisdiction to hear the case in December 2020; in December 2023, the Venezuelan Government held a referendum on the disputed oil-rich Essequibo region and announced measures to exert administrative control over the area; in 2024, Venezuela increased its military presence near the border, and the parliament approved the creation of a new state in the disputed territory<br><br><em>Guyana-Suriname:</em> Suriname claims a triangle of land between the New and Kutari/Koetari Rivers in a historic dispute over the headwaters of the Courantyne River<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,600 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2022)<br>

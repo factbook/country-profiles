@@ -344,8 +344,8 @@ _election results_: <em><br>2023: </em>Jakov MILATOVIC elected president in seco
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Skupstina (81 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 11 June 2023 (next to be held in June 2027)<br>
-_election results_: percent of vote by party/coalition - Europe Now! 25.5%, Together! 23.2%, For the Future of Montenegro 14.7%, Aleksa and Dritan - Count Bravely 12.5%, BP 7.1%, SNP-DEMOS 3.1%, Albanian Forum 1.9%, HGI 0.7%; seats by party/coalition Europe Now! 24, Together! 21, For the Future of Montenegro 13, Aleksa and Dritan - Count Bravely 11, BP 6, SNP-DEMOS 2, Albanian Forum 2, Albanian Alliance 1, HGI 1; composition - as of October 2023 - men 64, women 17, percent of women 21%<br>
+_elections_: <br>last held on 11 June 2023 (next to be held in June 2027)<br>
+_election results_: <br>percent of vote by party/coalition - Europe Now! 25.5%, Together! 23.2%, For the Future of Montenegro 14.7%, Aleksa and Dritan - Count Bravely 12.5%, BP 7.1%, SNP-DEMOS 3.1%, Albanian Forum 1.9%, HGI 0.7%; seats by party/coalition Europe Now! 24, Together! 21, For the Future of Montenegro 13, Aleksa and Dritan - Count Bravely 11, BP 6, SNP-DEMOS 2, Albanian Forum 2, Albanian Alliance 1, HGI 1; composition as of February 2024 - men 59, women 22, percent of women 27.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Vrhovni Sud (consists of the court president, deputy president, and 15 judges); Constitutional Court or Ustavni Sud (consists of the court president and 7 judges)<br>

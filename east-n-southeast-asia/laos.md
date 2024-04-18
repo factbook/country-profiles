@@ -343,8 +343,8 @@ _election results_: <em><br>2021: </em>THONGLOUN Sisoulith elected president; Na
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Sapha Heng Xat (164 seats; members directly elected in multi-seat constituencies by simple majority vote from candidate lists provided by the Lao People's Revolutionary Party; members serve 5-year terms)<br>
-_elections_: last held on 21 February 2021 (next to be held in 2026)<br>
-_election results_: percent of vote by party - NA; seats by party - LPRP 158, independent 6; composition - men 128, women 36, percent of women 21.9%<br>
+_elections_: <br>last held on 21 February 2021 (next to be held in 2026)<br>
+_election results_: <br>percent of vote by party - NA; seats by party - LPRP 158, independent 6; composition as of February 2024 - men 128, women 36, percentage women 22%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: People's Supreme Court (consists of the court president and organized into criminal, civil, administrative, commercial, family, and juvenile chambers, each with a vice president and several judges)<br>

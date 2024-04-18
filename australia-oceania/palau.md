@@ -299,8 +299,8 @@ _election results_: <br><em>2020: </em>Surangel WHIPPS, Jr. elected president in
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Olbiil Era Kelulau consists of:<br>Senate (13 seats; members directly elected in single-seat constituencies by majority vote to serve 4-year terms)<br>House of Delegates (16 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: Senate - last held on 3 November 2020 (next to be held in November 2024)<br>House of Delegates - last held on 3 November 2020 (next to be held in November 2024)<br>
-_election results_: Senate - percent of vote - NA; seats - independent 13; composition - men 12, women 1; percent of women 7.7%<br>House of Delegates - percent of vote - NA; seats - independent 16; composition - men 15, women 1; percent of women 6.3%; note - overall percent of women in National Congress 6.9%<br>
+_elections_: <br>Senate - last held on 3 November 2020 (next to be held in November 2024)<br>House of Delegates - last held on 3 November 2020 (next to be held in November 2024)<br>
+_election results_: <br>Senate - percent of vote - NA; seats - independent 13; composition as of February 2024 - men 12, women 1; percentage women 7.7%<br><br>House of Delegates - percent of vote - NA; seats - independent 16; composition as of February 2024 - men 15, women 1; percentage women 6.3%; note - total National Congress percentage women 6.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 3 associate justices organized into appellate trial divisions; the Supreme Court organization also includes the Common Pleas and Land Courts)<br>

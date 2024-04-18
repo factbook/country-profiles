@@ -333,8 +333,8 @@ _election results_: <br><em>2019:</em> Laurentino "Nito" CORTIZO Cohen elected p
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Asamblea Nacional (71 seats; 45 members directly elected in multi-seat constituencies - populous towns and cities - by open list proportional representation vote and 26 directly elected in single-seat constituencies - outlying rural districts - by simple majority vote; members serve 5-year terms)<br>
-_elections_: last held on 5 May 2019 (next to be held on 5 May 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - PRD 35, CD 18, Panamenista 8, MOLIRENA 5, independent 5; composition - men 55, women 16, percent of women 22.5%<br>
+_elections_: <br>last held on 5 May 2019 (next to be held on 5 May 2024)<br>
+_election results_: <br>percent of vote by party - NA; seats by party - PRD 35, CD 18, Panamenista 8, MOLIRENA 5, independent 5; composition as of February 2024 - men 55, women 16, percentage women 22.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 magistrates and 9 alternates and divided into civil, criminal, administrative, and general business chambers)<br>

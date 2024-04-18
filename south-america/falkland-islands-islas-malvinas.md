@@ -5,7 +5,7 @@ _South America / Dependencies (United Kingdom)_
 ## Introduction
 
 **Background**<br>
-Although first sighted by an English navigator in 1592, the first landing (English) did not occur until almost a century later in 1690, and the first settlement (French) was not established until 1764. The colony was turned over to Spain two years later and the islands have since been the subject of a territorial dispute, first between Britain and Spain, then between Britain and Argentina. The UK asserted its claim to the islands by establishing a naval garrison there in 1833. Argentina invaded the islands on 2 April 1982. The British responded with an expeditionary force that landed seven weeks later and after fierce fighting forced an Argentine surrender on 14 June 1982. With hostilities ended and Argentine forces withdrawn, UK administration resumed. In response to renewed calls from Argentina for Britain to relinquish control of the islands, a referendum was held in March 2013, which resulted in 99.8% of the population voting to remain a part of the UK.<br>
+Although first sighted by an English navigator in 1592, the first landing (English) did not occur until almost a century later in 1690, and the first settlement (French) was not established until 1764. The colony was turned over to Spain two years later, and the islands have since been the subject of a territorial dispute, first between Britain and Spain, then between Britain and Argentina. The UK asserted its claim to the islands by establishing a naval garrison there in 1833. Argentina invaded the islands in 1982. The British responded with an expeditionary force and after fierce fighting forced an Argentine surrender on 14 June 1982. With hostilities ended and Argentine forces withdrawn, UK administration resumed. In response to renewed calls from Argentina for Britain to relinquish control of the islands, a referendum was held in 2013 that resulted in 99.8% of the population voting to remain a part of the UK.<br>
 
 ## Geography
 
@@ -247,9 +247,9 @@ _cabinet_: Executive Council elected by the Legislative Council<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; chief executive appointed by the governor<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly, formerly the Legislative Council (10 seats; 5 members directly elected in the Stanley constituency and 3 members in the Camp constituency by simple majority vote, 2 appointed non-voting ex-officio members - the chief executive, appointed by the governor, and the financial secretary; members serve 4-year terms); note - several previous referendums -&nbsp; the latest in September 2020 - on whether to merge the Stanley and Camp constituencies into a single islands wide constituency, failed<br>
-_elections_: last held on 4 November 2021 (next to be held in November 2025)<br>
-_election results_: percent of vote - NA; seats - independent 8; composition of elected members -men 6, women 2, percent of women 25%<br>
+_description_: unicameral Legislative Assembly, formerly the Legislative Council (10 seats; 5 members directly elected from the Stanley constituency and 3 members from the Camp constituency, both by simple majority vote, 2 appointed non-voting ex-officio members - the chief executive, appointed by the governor, and the financial secretary; the attorney general and Commander British Forces South Atlantic Islands are also invited to attend; members serve 4-year terms)<br>
+_elections_: <br>last held on 4 November 2021 (next to be held in November 2025)<br>
+_election results_: <br>percent of vote - NA; seats - independent 8; composition of elected members - men 6, women 2, percentage women 25%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president, the chief justice as an ex officio non-resident member, and 2 justices of appeal); Supreme Court (consists of the chief justice); note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>

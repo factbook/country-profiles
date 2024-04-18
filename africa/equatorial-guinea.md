@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Equatorial Guinea consists of a continental territory and five inhabited islands; it is one of the smallest countries by area and population in Africa. The mainland region was most likely predominantly inhabited by Pygmy ethnic groups prior to the migration of various Bantu-speaking ethnic groups around the second millennium BC. The island of Bioko, the largest of Equatorial Guinea’s five inhabited islands and the location of the country’s capital of Malabo, has been occupied since at least 1000 B.C. In the early 1470s, Portuguese explorers landed on Bioko Island and Portugal soon after established control of the island and other areas of modern Equatorial Guinea. In 1778, Portugal ceded its colonial hold over present-day Equatorial Guinea to Spain in the Treaty of El Pardo. The borders of modern-day Equatorial Guinea would evolve between 1778 and 1968 as the area remained under European colonial rule.<br><br>In 1968, Equatorial Guinea was granted independence from Spain and elected Francisco MACIAS NGUEMA as its first president. President MACIAS consolidated power soon after his election and ruled brutally for approximately 11 years. Under his regime, Equatorial Guinea experienced mass suppression, purges, and killings. Some estimates indicate that a third of the population either went into exile or was killed under President MACIAS’ rule. In 1979, present-day President OBIANG NGUEMA MBASOGO, then a senior military officer, deposed President MACIAS in a violent coup. President OBIANG has ruled since and has been elected in non-competitive contests several times, most recently in November 2022. The president exerts almost total control over the political system and there is nearly no space for political opposition. Equatorial Guinea experienced rapid economic growth in the early years of the 21st century due to the discovery of large offshore oil reserves in 1996. Production peaked in 2004 and has declined since. The country's economic windfall from oil production resulted in massive increases in government revenue, a significant portion of which was designated for the development of infrastructure. Systemic corruption, however, has hindered socio-economic development and there have been limited improvements in the population's living standards. Equatorial Guinea continues to seek to diversify its economy, increase foreign investment, and assume a greater role in regional and international affairs. </p> <p> </p><br>
+<p>Equatorial Guinea consists of a continental territory and five inhabited islands; it is one of the smallest countries by area and population in Africa. The mainland region was most likely predominantly inhabited by Pygmy ethnic groups prior to the migration of various Bantu-speaking ethnic groups around the second millennium BC. The island of Bioko, the largest of Equatorial Guinea’s five inhabited islands and the location of the country’s capital of Malabo, has been occupied since at least 1000 B.C. In the early 1470s, Portuguese explorers landed on Bioko Island, and Portugal soon after established control of the island and other areas of modern Equatorial Guinea. In 1778, Portugal ceded its colonial hold over present-day Equatorial Guinea to Spain in the Treaty of El Pardo. The borders of modern-day Equatorial Guinea would evolve between 1778 and 1968 as the area remained under European colonial rule.<br><br>In 1968, Equatorial Guinea was granted independence from Spain and elected Francisco MACIAS NGUEMA as its first president. MACIAS consolidated power soon after his election and ruled brutally for over a decade. Under his regime, Equatorial Guinea experienced mass suppression, purges, and killings. Some estimates indicate that a third of the population either went into exile or was killed under MACIAS’ rule. In 1979, present-day President OBIANG Nguema Mbasogo, then a senior military officer, deposed MACIAS in a violent coup. OBIANG has ruled since and has been elected in non-competitive contests several times, most recently in 2022. The president exerts near-total control over the political system. <br><br>Equatorial Guinea experienced rapid economic growth in the early years of the 21st century due to the discovery of large offshore oil reserves in 1996. Production peaked in 2004 and has declined since. The country's economic windfall from oil production resulted in massive increases in government revenue, a significant portion of which was earmarked for infrastructure development. Systemic corruption, however, has hindered socio-economic development, and the population has seen only limited improvements to living standards. Equatorial Guinea continues to seek to diversify its economy, increase foreign investment, and assume a greater role in regional and international affairs. </p> <p> </p><br>
 
 ## Geography
 
@@ -327,12 +327,12 @@ Center Right Union or UCD [Avelino MOCACHE Mehenga]<br>Convergence Party for Soc
 ACP, AfDB, AU, BDEAC, CEMAC, CPLP, FAO, Francophonie, FZ, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, ITSO, ITU, MIGA, NAM, OAS (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WHO, WIPO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Dr. Crisantos Obama ONDO (since 27 February 2024)<br>
+_chief of mission_: Ambassador Dr. Crisantos OBAMA ONDO (since 27 February 2024)<br>
 _chancery_: 2020 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 518-5700<br>
 _FAX_: [1] (202) 518-5252<br>
 _email address and website_: <br>info@egembassydc.com<br><br>https://www.egembassydc.com/<br>
-_consulate(s) general_: Houston, New York<br>
+_consulate(s) general_: Houston<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador David R. GILMOUR (since 24 May 2022)<br>
@@ -483,7 +483,7 @@ gas turbines, beer, ships, industrial machinery, excavation machinery (2019)<br>
 $44.271 million (2021 est.)<br>
 $60.833 million (2020 est.)<br>
 $40.817 million (2019 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.211 billion (31 December 2017 est.)<br>

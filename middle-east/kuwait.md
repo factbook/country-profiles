@@ -330,7 +330,7 @@ _elections/appointments_: amir chosen from within the ruling family, confirmed b
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Majlis al-Umma (65 seats; 50 members directly elected from 5 multi-seat constituencies by simple majority vote and 15 ex-officio members (cabinet ministers)&nbsp;appointed by the amir; members serve 4-year terms)<br>
-_elections_: last held on 4 April 2024 (next to be held in 2028)<br>
+_elections_: <br>last held on 4 April 2024 (next to be held in 2028)<br>
 _election results_: <em><br></em>50 nonpartisan candidates, including 29 opposition candidates; composition of all members as of February 2024 - men 63, women 2, percent of women 3.1%<br>
 
 **Judicial branch**<br>

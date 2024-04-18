@@ -340,7 +340,7 @@ _election results_: <em><br>2024: </em>Ilham ALIYEV reelected president; percent
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Milli Mejlis (125 seats, current 116; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: last held early on 9 February 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - NA; seats by party - YAP 69, CSP 3, AVP 1, CUP 1, ADMP 1, PDR 1, Great Order 1, National Front Party 1, REAL 1, VP 1, Whole Azerbaijan Popular Front 1, party unknown 1, independent 41; composition as of August 2023 - men 94, women 22, percent of women 19%<br>
+_election results_: <br>percent of vote by party - NA; seats by party - YAP 69, CSP 3, AVP 1, CUP 1, ADMP 1, PDR 1, Great Order 1, National Front Party 1, REAL 1, VP 1, Whole Azerbaijan Popular Front 1, party unknown 1, independent 41; composition as of February 2024 - men 95, women 21, percentage women 18.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chairman, vice chairman, and 23 judges in plenum sessions and organized into civil, economic affairs, criminal, and rights violations chambers); Constitutional Court (consists of 9 judges)<br>
@@ -354,7 +354,7 @@ Azerbaijan Democratic Enlightenment Party or ADMP [Elshan MASAYEV]<br>Civic Soli
 ADB, BSEC, CD, CE, CICA, CIS, EAPC, EBRD, ECO, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Kahzar IBRAHIM (since 15 September 2021)<br>
+_chief of mission_: Ambassador Khazar IBRAHIM (since 15 September 2021)<br>
 _chancery_: 2741 34th Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 337-3500<br>
 _FAX_: [1] (202) 337-5911<br>

@@ -352,8 +352,8 @@ _election results_: <em>2020:</em> Nana Addo Dankwa AKUFO-ADDO reelected preside
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (275 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: last held on 7 December 2020 (next to be held in December 2024)<br>
-_election results_: percent of vote by party - NA; seats by party (preliminary) - NPP 137, NDC 137, independent 1; composition - men 235, women 40, percent of women 14.5%<br>
+_elections_: <br>last held on 7 December 2020 (next to be held in December 2024)<br>
+_election results_: <br>percent of vote by party - NPP 50.4%, NDC 46.2%, independent 2.3%, other 1.1%; seats by party- NPP 137, NDC 137, independent 1; composition as of February 2024 - men 235, women 40, percentage women 14.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 13 justices)<br>
@@ -719,7 +719,7 @@ the military's inventory is a mix older and some newer Russian, Chinese, and Wes
 18-27 years of age for voluntary military service, with basic education certificate; no conscription (2023)<br>
 
 **Military deployments**<br>
-875 Lebanon (UNIFIL); 725 (plus about 275 police) South Sudan (UNMISS); 650 Sudan (UNISFA) (2023)<br>
+875 Lebanon (UNIFIL); 725 (plus about 275 police) South Sudan (UNMISS); 670 Sudan (UNISFA) (2024)<br>
 <strong>note:</strong> since sending a contingent of troops to the Congo in 1960, the military has been a regular contributor to African- and UN-sponsored peacekeeping missions<br>
 
 **Military - note**<br>

@@ -250,8 +250,8 @@ _elections/appointments_: the monarchy is hereditary; governor appointed by the 
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (18 seats; 17 members directly elected in a single nationwide constituency by majority vote and 1 appointed by Parliament as speaker; members serve 4-year terms)<br>
-_elections_: last held on 17 October 2019 (next to be held by February 2024)<br>
-_election results_: percent of vote by party - GSLP-Liberal Alliance 58.8% (GSLP 41.2%, LPG 17.6%), GSD 35.3%, TG 5.8%, independent 1.4%; seats by party - GSLP-Liberal Alliance 10 (GSLP 7, LPG 3), GSD 6, TG 1; composition including Parliament speaker - men 16, women 2, percent of women 11.1%<br>
+_elections_: <br>last held on 12 October 2023 (next to be held by October 2027)<br>
+_election results_: <br>percent of vote by party - GSLP-Liberal Alliance 49.9%, GSD 48% independent 2.1%; seats by party - GLSP-Liberal Alliance 9 (GSLP 7, LPG 2), GSD 8; composition including Parliament speaker - men 13, women 5, percentage women 38.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of at least 3 judges, including the court president); Supreme Court of Gibraltar (consists of the chief justice and 3 judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -259,7 +259,7 @@ _judge selection and term of office_: Court of Appeal and Supreme Court judges a
 _subordinate courts_: Court of First Instance; Magistrates' Court; specialized tribunals for issues relating to social security, taxes, and employment<br>
 
 **Political parties and leaders**<br>
-Gibraltar Liberal Party or Liberal Party of Gibraltar or LPG [Joseph GARCIA]<br>Gibraltar Social Democrats or GSD [Keith AZOPARDI]<br>Gibraltar Socialist Labor Party or GSLP [Fabian PICARDO]<br>Together Gibraltar or TG [Marlene HASSAN-NAHON]<br>
+Gibraltar Liberal Party or Liberal Party of Gibraltar or LPG [Joseph GARCIA]<br>Gibraltar Social Democrats or GSD [Keith AZOPARDI]<br>Gibraltar Socialist Labor Party or GSLP [Fabian PICARDO]<br>GSLP-Liberal Alliance [Fabian PICARDO and Joseph Garcia]<br>Together Gibraltar or TG [Marlene HASSAN-NAHON]<br>
 
 **International organization participation**<br>
 ICC (NGOs), Interpol (subbureau), UPU<br>

@@ -343,9 +343,9 @@ _elections/appointments_: presidential candidates nominated by political parties
 _election results_: <em>2021:</em> Ukhnaagiin KHURELSUKH elected president in first round; percent of vote - Ukhnaagiin KHURELSUKH (MPP) 68%, Dangaasuren ENKHBAT (RPEC) 20.1%, Sodnomzundui ERDENE (DP) 6%<br>
 
 **Legislative branch**<br>
-_description_: unicameral State Great Hural or Ulsyn Ikh Khural (126 seats; 78 members directly elected in a selected constituency by simple majority vote and 48 members directly elected by proportional representation vote; members serve 4-year terms); note - a constitutional referendum passed in May 2023 increased the number of seats to 126 from 76<br>
-_elections_: last held on 24 June 2020 (next to be held 30 June 2024)<br>
-_election results_: percent of vote by party - MPP 44.9%, DP 24.5%, Our Coalition 8.1%, independent 8.7%, Right Person Electorate Coalition 5.2%, other 8.5%; seats by party - MPP 62, DP 11, Our Coalition 1, Right Person Electorate Coalition 1; independent 1; composition - 63 men, 13 women; percent of women 17.1%<br>
+_description_: unicameral State Great Hural or Ulsyn Ikh Khural (126 seats; 78 members directly elected in a selected constituency by simple majority vote and 48 members directly elected by proportional representation vote; members serve 4-year terms); note - a constitutional referendum passed in May 2023 increased the number of seats from 76 to 126<br>
+_elections_: <br>last held on 24 June 2020 (next to be held 30 June 2024)<br>
+_election results_: <br>percent of vote by party - MPP 44.9%, DP 24.5%, Our Coalition 8.1%, independent 8.7%, Right Person Electorate Coalition 5.2%, other 8.5%; seats by party - MPP 62, DP 11, Our Coalition 1, Right Person Electorate Coalition 1, independent 1; composition - 59 men, 13 women; percentage women 18.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the Chief Justice and 24 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tsets (consists of the chairman and 8 members)<br>
@@ -696,8 +696,8 @@ the MAF's inventory is comprised largely of Soviet-era and Russian equipment (20
 18-25 years of age for compulsory and voluntary military service (can enter military schools at age 17); 12-month conscript service obligation for men in the army, air forces, or police (can be extended 3 months under special circumstances); conscription service can be exchanged for a 24‐month stint in the civil service or a cash payment determined by the Mongolian Government; after conscription, soldiers can contract into military service for 2 or 4 years; volunteer military service for men and women is 24 months, which can be extended for another two years up to the age of 31 (2024)<br>
 
 **Military deployments**<br>
-860 South Sudan (UNMISS) (2023)<br>
-<strong>note:</strong> from 2003 to July 2021, some 3,300 Mongolian troops served in Afghanistan, including about 1,300 under the NATO-led Resolute Support Mission (2015 to 2021); since 2002, Mongolia has deployed more than 19,000 peacekeepers and observers to UN operations in more than a dozen countries<br>
+875 South Sudan (UNMISS) (2024)<br>
+<strong>note:</strong> since 2002, Mongolia has deployed more than 20,000 peacekeepers and observers to UN operations in more than a dozen countries<br>
 
 **Military - note**<br>
 the MAF does not face a significant external military threat and focuses instead on counterterrorism, disaster response, and international peacekeeping; the Ground Force is the military’s primary service and is centered on a motorized infantry brigade equipped largely with Soviet-era equipment; it also has a battalion devoted to peacekeeping duties and hosts an annual international peacekeeping exercise known as “Khaan Quest”; Mongolia’s primary military partner is Russia, and in addition to receiving Russian military equipment, the MAF participates in Russia’s large “Vostok” exercise, which is conducted every four years <br><br>Mongolia has been engaged in dialogue and cooperation with NATO since 2005 and is considered by NATO to be a global partner; Mongolia supported the NATO-led Kosovo Force from 2005-2007 and contributed troops to the NATO-led International Security Assistance Force in Afghanistan from 2009-2014, as well as to the follow-on Resolute Support Mission that provided training, advice, and other assistance to the Afghan security forces (2015-2021) (2023)<br>

@@ -268,8 +268,8 @@ _election results_: <em>2021: </em> Vjosa OSMANI-Sadriu elected president in th
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Kuvendi i Kosoves/Skupstina Kosova (120 seats; 100 members directly elected by open-list proportional representation vote with 20 seats reserved for ethnic minorities - 10 for Serbs and 10 for other ethnic minorities; members serve 4-year terms)<br>
-_elections_: last held on 14 February 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party - LVV 50%, PDK 16.9%, LDK 12.7%, AAK 7.1%, Serb List 5.1%, other 8.2%; seats by party - LVV 58, PDK 19, LDK 15, Serb List 10, AAK 8, other 10; composition as of December 2021 - men 79, women 41, percent of women 34.2%<br>
+_elections_: <br>st held on 14 February 2021 (next to be held in 2025)<br>
+_election results_: <br>percent of vote by party - LVV 50%, PDK 16.9%, LDK 12.7%, AAK 7.1%, Serb List 5.1%, other 8.2%; seats by party - LVV 58, PDK 19, LDK 15, Serb List 10, AAK 8, other 10; composition as of December 2021 - men 79, women 41, percentage women 34.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president and 18 judges and organized into Appeals Panel of the Kosovo Property Agency and Special Chamber); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>

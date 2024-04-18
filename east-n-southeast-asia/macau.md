@@ -258,8 +258,8 @@ _election results_: <em>2019</em>: HO lat Seng (unopposed; received 392 out of 4
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Regiao Administrativa Especial de Macau (33 seats; 14 members directly elected by proportional representation vote, 12 indirectly elected by an electoral college of professional and commercial interest groups, and 7 appointed by the chief executive; members serve 4-year terms)<br>
-_elections_: last held on 12 September 2021 (next to be held in September 2025)<br>
-_election results_: percent of vote - ACUM 20.1%, UPD 18%, NE 13.8%, UMG 12.7%, UPP 11.4%, ABL 10.8%, PS 6.6%, other 6.6%; seats by political group - ACUM 3, UPD 2, UMG 2, UPP 2, ABL 2, NE 2, PS 1; composition NA<br>
+_elections_: <br>last held on 12 September 2021 (next to be held in September 2025)<br>
+_election results_: <br>percent of vote - ACUM 20.1%, UPD 18%, NE 13.8%, UMG 12.7%, UPP 11.4%, ABL 10.8%, PS 6.6%, other 6.6%; seats by political group - ACUM 3, UPD 2, UMG 2, UPP 2, ABL 2, NE 2, PS 1; composition - men NA, women NA, percentage women NA%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Final Appeal of Macau Special Administrative Region (consists of the court president and 2 associate justices)<br>

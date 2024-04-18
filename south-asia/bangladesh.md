@@ -353,7 +353,7 @@ _election results_: President Mohammad Shahabuddin CHUPPI (AL) elected unopposed
 **Legislative branch**<br>
 _description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the House of the Nation membership by proportional representation vote using single transferable vote method; all members serve 5-year terms)<br>
 _elections_: last held on 7 January 2024 (next to be held in 2029)<br>
-_election results_: percent of vote by party - NA; seats by party as of December 2023 - AL 306, JP 27, BNP 0, other 14, independent 3; approximate composition - men 277, women 73, percent of women 20.9%<br>
+_election results_: <br>percent of vote by party - NA; seats by party as of December 2023 - AL 306, JP 27, BNP 0, other 14, independent 3; composition as of February 2024 - men 280, women 70, percentage women 20%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices)<br>

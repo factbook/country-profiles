@@ -259,8 +259,8 @@ _election results_: Dalton TAGELAGI reelected premier; Legislative Assembly vote
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Fono Ekepule (20 seats; 14 members directly elected in single-seat constituencies by simple majority vote and 6 directly elected from the National Register or "common roll" by majority vote; members serve 3-year terms)<br>
-_elections_: last held on 29 April 2023 (next to be held in 2026)<br>
-_election results_: percent of vote by party - NA; seats by party - independent 20; composition - men 17, women 3, percent of women 15%<br>
+_elections_: <br>last held on 29 April 2023 (next to be held in 2026)<br>
+_election results_: <br>percent of vote - NA; seats - independent 20; composition as of July 2022 - men 17, women 3, percentage women 15%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and up to 3 judges); note - the Judicial Committee of the Privy Council (in London) is the final appeal court beyond the Niue Court of Appeal<br>

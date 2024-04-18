@@ -332,8 +332,8 @@ _election results_: <em><br>2023: </em>Edgars RINKEVICS elected president in the
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 1 October 2012 (next to be held no later than 3 October 2026)<br>
-_election results_: percent of vote by party - JV 19.2%, ZZS 12.6%, AS 11.1%, NA 9.4%, S! 6.9%, LPV 6.3%, and PRO 6.2%; seats by party - JV 26, ZZS 16, AS 15, NA 13, S! 11, LPV 9, and PRO 10<br>
+_elections_: <br>last held on 1 October 2012 (next to be held no later than 3 October 2026)<br>
+_election results_: <br>percent of vote by party - JV 19.2%, ZZS 12.6%, AS 11.1%, NA 9.4%, S! 6.9%, LPV 6.3%, PRO 6.2%; seats by party - JV 26, ZZS 16, AS 15, NA 13, S! 11, LPV 9, PRO 10; composition as of February 2024 - men 68, women 32, percentage women 32%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the Senate with 36 judges); Constitutional Court (consists of 7 judges)<br>
@@ -668,9 +668,6 @@ _by type_: container ship 2, general cargo 30, oil tanker 10, other 41<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Riga, Ventspils<br>
-
-**Transportation - note**<br>
-Latvia operates one PC 5 or 6 class icebreaker in the Baltic Sea<br>note - PC indicates a Polar Class vessel: PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

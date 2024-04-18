@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-After centuries of Danish, Swedish, German, and Russian rule, Estonia attained independence in 1918. Forcibly incorporated into the USSR in 1940 - an action never recognized by the US and many other countries - it regained its freedom in 1991 with the collapse of the Soviet Union. Since the last Russian troops left in 1994, Estonia has been free to promote economic and political ties with the West. It joined both NATO and the EU in the spring of 2004, formally joined the OECD in late 2010, and adopted the euro as its official currency on 1 January 2011.<br>
+After centuries of Danish, Swedish, German, and Russian rule, Estonia attained independence in 1918. Forcibly incorporated into the USSR in 1940 -- an action never recognized by the US and many other countries -- it regained its freedom in 1991 with the collapse of the Soviet Union. Since the last Russian troops left in 1994, Estonia has been free to promote economic and political ties with the West. It joined both NATO and the EU in 2004, formally joined the OECD in 2010, and adopted the euro as its official currency in 2011.<br>
 
 ## Geography
 
@@ -672,9 +672,6 @@ _by type_: general cargo 3, oil tanker 3, other 66<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn<br>
-
-**Transportation - note**<br>
-Estonia operates two PC 5 or 6 class icebreakers in the Baltic Sea<br>note - PC indicates a Polar Class vessel: PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

@@ -287,8 +287,8 @@ _elections/appointments_: the monarchy is hereditary; minister of state appointe
 
 **Legislative branch**<br>
 _description_: unicameral National Council or Conseil National (24 seats; 16 members directly elected in multi-seat constituencies by simple majority vote and 8 directly elected by proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 5 February 2023 (next to be held in February 2028)<br>
-_election results_: percent of vote by coalition - Monegasque National Union 100%; seats by coalition - Monegasque National Union 24; composition - men 13, women 11, percent of women 45.8%<br>
+_elections_: <br>last held on 5 February 2023 (next to be held in February 2028)<br>
+_election results_: <br>percent of vote by coalition - Monegasque National Union 100%; seats by coalition - Monegasque National Union 24; composition as of February 2024 - men 13, women 11, percent of women 45.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 5 permanent members and 2 substitutes)<br>

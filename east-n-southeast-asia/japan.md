@@ -336,8 +336,8 @@ _election results_: <em>2021:</em> Fumio KISHIDA reelected prime minister on 10 
 
 **Legislative branch**<br>
 _description_: bicameral National Diet or Kokkai consists of:<br>House of Councillors or Sangi-in (248 seats; 148 members directly elected in multi-seat districts by simple majority vote and 100 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)<br><br>House of Representatives or Shuugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve up to 4-year terms)<br>
-_elections_: House of Councillors - last held on 10 July 2022 (next to be held in July 2025)<br>House of Representatives - last held on 31 October 2021 (next to be held by October 2025)<br>
-_election results_: House of Councillors - percent of vote by party - NA; seats by party/grouping as of January 2024 - LDP 116, CDP-SDP 40, Komeito 27, JCP 11, Ishin-FEFA 21, DPFP 11, Reiwa 5, OW 2, NHK 2, independent 12; composition - 182 men, 66 women; percent of women 26.6% <br>House of Representatives - percent of vote by party - NA; seats by party/grouping as of January 2024 - LDP 260, CDP 96, Ishin 41, Komeito 32, JCP 10, DPFP 7, Yushi no Kai 4, FEFA 4, Reiwa 3, independents 7; composition - 416 men, 48 women; percent women 10.3%; note - total National Diet percent of women 16%<br>
+_elections_: <br>House of Councillors - last held on 10 July 2022 (next to be held in July 2025)<br>House of Representatives - last held on 31 October 2021 (next to be held by October 2025)<br>
+_election results_: <br>House of Councillors - percent of vote by party - NA; seats by party/grouping as of January 2024 - LDP 116, CDP-SDP 40, Komeito 27, JCP 11, Ishin-FEFA 21, DPFP 11, Reiwa 5, OW 2, NHK 2, independent 12; composition as of February 2024 - men 182, women 66; percentage women 26.6%<br><br>House of Representatives - percent of vote by party - NA; seats by party/grouping as of January 2024 - LDP 260, CDP 96, Ishin 41, Komeito 32, JCP 10, DPFP 7, Yushi no Kai 4, FEFA 4, Reiwa 3, independent 7; composition as of February 2024 - men 416 men, women 48; percentage women 10.3%; note - total National Diet percentage women 16%<br>
 <strong>note: </strong>the Diet in June 2017 redrew Japan's electoral district boundaries and reduced from 475 to 465 seats in the House of Representatives; the amended electoral law, which cuts 6 seats in single-seat districts and 4 in multi-seat districts, was reportedly intended to reduce voting disparities between densely and sparsely populated voting districts<br>
 
 **Judicial branch**<br>
@@ -693,9 +693,6 @@ _major seaport(s)_: Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo
 _container port(s) (TEUs)_: Kobe (2,823,774), Nagoya (2,725,597), Osaka (2,425,638), Tokyo (4,325,956), Yokohama (2,861,197) (2021)<br>
 _LNG terminal(s) (import)_: Chita, Chita Midorihama, Fukuoka, Futtsu, Hachinone, Hakodate, Hatsukaichi, Higashi Ohgishima, Higashi Niigata, Himeiji, Hitachi, Ishikari, Joetsu, Kagoshima, Kawagoe, Hibiki, Mitzushima, Nagasaki, Naoetsu, Negishi, Ohgishima, Oita, Sakai, Sakaide, Senboku, Shin Minato, Shin-Sendai, Sodeshi Shimizu, Sodegaura, Soma, Tobata, Toyama Shinko, Yanai, Yokkaichi, Yoshinoura<br>
 Okinawa - Nakagusuku<br>
-
-**Transportation - note**<br>
-Japan operates one PC 3 or 4 class medium icebreaker<br>note - PC indicates a Polar Class vessel: PC 3 - year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm)<br>
 
 ## Military and Security
 

@@ -337,8 +337,8 @@ _election results_: James MARAPE reelected prime minister; National Parliament v
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (118 seats; members directly elected in single-seat constituencies - 89 local, 20 provincial, the autonomous province of Bouganville, and the National Capital District - by majority preferential vote; members serve 5-year terms); note - the constitution allows up to 126 seats<br>
-_elections_: last held from 4-22 July 2022 (next to be held in June 2027)<br>
-_election results_: percent of vote by party - NA; seats by party - PANGU PATI - 39, PNC - 17, URP - 11, NAP - 6, SDP - 4, PFP - 4, PP &ndash; 4, PNGP &ndash; 3,&nbsp; ULP - 3, Advance PNG - 2, National Party - 2, Liberal Party - 2, AP - 1, Destiny Party - 1, Greens - 1, MAP - 1, NGP - 1, ODP - 1, PLP - 1, PMC - 1, PPP - 1, PRP - 1, THE - 1, independents - 10; composition - NA<br>
+_elections_: <br>last held from 4-22 July 2022 (next to be held in June 2027)<br>
+_election results_: <br>percent of vote by party - NA; seats by party - PANGU PATI - 39, PNC - 17, URP - 11, NAP - 6, SDP - 4, PFP - 4, PP – 4, PNGP – 3,  ULP - 3, Advance PNG - 2, National Party - 2, Liberal Party - 2, AP - 1, Destiny Party - 1, Greens - 1, MAP - 1, NGP - 1, ODP - 1, PLP - 1, PMC - 1, PPP - 1, PRP - 1, THE - 1, independent - 10; composition as of February 2024 - men 108, women 3, percentage women 2.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice, deputy chief justice, 35 justices, and 5 acting justices); National Courts (consists of 13 courts located in the provincial capitals, with a total of 19 resident judges)<br>

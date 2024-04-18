@@ -330,8 +330,8 @@ _election results_: <em>2024: </em>Talat XHAFERI elected caretaker Prime Ministe
 
 **Legislative branch**<br>
 _description_: unicameral Assembly - Sobranie in Macedonian, Kuvend in Albanian (between 120 and 140 seats, currently 120; members directly elected in multi-seat constituencies by closed-list proportional representation vote; possibility of 3 directly elected in diaspora constituencies by simple majority vote provided there is sufficient voter turnout; members serve 4-year terms)<br>
-_elections_: last held on 15 July 2020 (next to be held on 8 May 2024)<br>
-_election results_: percent of vote by party/coalition - We Can! 35.9%, Renewal 34.6%, BDI 11.5%, AfA-Alternative 9%, The Left 4.1%, PDSH 1.5%, other 3.4%; seats by party/coalition - We Can! 46, Renewal 44, BDI 15, AfA-Alternative 12, The Left 2, PDSH 1; composition - men 70, women 50, percent of women 41.7%<br>
+_elections_: <br>last held on 15 July 2020 (next to be held on 8 May 2024)<br>
+_election results_: <br>percent of vote by party/coalition - We Can! 35.9%, Renewal 34.6%, BDI 11.5%, AfA-Alternative 9%, The Left 4.1%, PDSH 1.5%, other 3.4%; seats by party/coalition - We Can! 46, Renewal 44, BDI 15, AfA-Alternative 12, The Left 2, PDSH 1; composition - men 69, women 51, percentage women 42.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 22 judges); Constitutional Court (consists of 9 judges)<br>

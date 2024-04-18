@@ -231,8 +231,8 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 
 **Legislative branch**<br>
 _description_: unicameral Norfolk Island Regional Council (5 seats; councillors directly elected by simple majority vote to serve 4-year terms); mayor elected annually by the councillors<br>
-_elections_: last held on 28 May 2016 (next originally scheduled for 13 March 2021 was postponed); note - on 6 December 2021, the councillors of the Norfolk Island Regional Council were formally dismissed by the assistant minister and appointed as Administrator of the Council until 2024<br>
-_election results_: seats by party - independent 5; composition - men 4, women 1, percent of women 20%<br>
+_elections_: <br>last held on 28 May 2016 (next originally scheduled for 13 March 2021 was postponed); note - on 6 December 2021, the councilors of the Norfolk Island Regional Council were formally dismissed by the assistant minister who was appointed as Administrator of the Council until 2024<br>
+_election results_: seats by party - independent 5; composition - men 4, women 1, percentage women 20%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Norfolk Island (consists of the chief justice and several justices); note - appeals beyond the Supreme Court of Norfolk Island are heard by the Federal Court and the High Court of Australia<br>

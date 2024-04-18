@@ -255,7 +255,7 @@ _elections/appointments_: the monarchy is hereditary; governor appointed by the 
 **Legislative branch**<br>
 _description_: unicameral House of Assembly (11 seats; 7 members directly elected in single-seat constituencies by simple majority vote, 2 appointed by the governor, and 2 ex officio members - the attorney general and deputy governor; members serve five-year terms)<br>
 _elections_: last held on 29 June 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - NA; seats by party - APM 7, AUF 4; composition - men 8, women 3, percent of women 27.3%<br>
+_election results_: <br>percent of vote by party - NA; seats by party - APM 7, AUF 4; composition - men 8, women 3, percentage women 27.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, though none on Anguilla<br>

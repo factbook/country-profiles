@@ -337,7 +337,7 @@ National Development Party or NDP [Zainal Talib]<br>
 ADB, APEC, ARF, ASEAN, C, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, ISO (correspondent), ITSO, ITU, NAM, OIC, OPCW, UN, UNCTAD, UNESCO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Dato Paduka Haji Serbini bin Haji ALI (since 28 January 2016)<br>
+_chief of mission_: Ambassador Dato Paduka Haji SERBINI bin Haji Ali (since 28 January 2016)<br>
 _chancery_: 3520 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 237-1838<br>
 _FAX_: [1] (202) 885-0560<br>

@@ -707,9 +707,6 @@ _river port(s)_: Baton Rouge, Plaquemines, New Orleans (Mississippi River)<br>
 _cargo ports_: Baltimore, Baton Rouge, Corpus Christi, Hampton Roads, Houston, Long Beach, Los Angeles, New Orleans, New York, Plaquemines (LA), Tampa, Texas City<br>
 _cruise departure ports (passengers)_: Baltimore, Long Beach, Miami, Port Everglades, Port Canaveral, Seattle<br>
 
-**Transportation - note**<br>
-the US operates one PC 1 or 2 class heavy icebreaker, two PC 3 or 4 class medium icebreakers, and two PC 5 or 6 class light icebreakers; the heavy and medium icebreakers carry out various polar missions including opening passage for the annual resupply of McMurdo Station in Antarctica<br>note - PC indicates a Polar Class vessel: PC 1 - year-round operation in all polar waters (ice thickness &gt;3 m); PC 2 - year-round operation in moderate multi-year ice conditions (ice thickness up to 3 m); PC 3 - year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 -  summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>

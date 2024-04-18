@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-Dominica was the last of the Caribbean islands to be colonized by Europeans due chiefly to the fierce resistance of the native Caribs. France ceded possession to Great Britain in 1763, which colonized the island in 1805. Slavery ended in 1833 and in 1835 the first three men of African descent were elected to the legislative assembly of Dominica. In 1871, Dominica became part first of the British Leeward Islands and then the British Windward Islands until 1958. In 1967, Dominica became an associated state of the UK, and formally took responsibility for its internal affairs. In 1980, two years after independence, Dominica's fortunes improved when a corrupt and tyrannical administration was replaced by that of Mary Eugenia CHARLES, the first female prime minister in the Caribbean, who remained in office for 15 years. On 18 September 2017, Hurricane Maria passed over the island, causing extensive damage to structures, roads, communications, and the power supply, and largely destroying critical agricultural areas.<br>
+Dominica was the last of the Caribbean islands to be colonized by Europeans, due chiefly to the fierce resistance of the native Caribs. France ceded possession to Britain in 1763, and Dominica became a British colony in 1805. Slavery ended in 1833, and in 1835, the first three men of African descent were elected to the legislative assembly of Dominica. In 1871, Dominica became first part of the British Leeward Islands and then the British Windward Islands until 1958. In 1967, Dominica became an associated state of the UK, formally taking responsibility for its internal affairs, and the country gained its independence in 1978. In 1980, Dominica's fortunes improved when Mary Eugenia CHARLES -- the first female prime minister in the Caribbean -- replaced a corrupt and tyrannical administration, and she served for the next 15 years. In 2017, Hurricane Maria passed over the island, causing extensive damage to structures, roads, communications, and the power supply, and largely destroying critical agricultural areas.<br>
 
 ## Geography
 
@@ -314,7 +314,7 @@ _email address and website_: <br>embdomdc@gmail.com<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: the US does not have an embassy in Dominica; the US Ambassador to Barbados is accredited to<br>
+_embassy_: the US does not have an embassy in Dominica; the US Ambassador to Barbados is accredited to Dominica<br>
 
 **Flag description**<br>
 green with a centered cross of three equal bands - the vertical part is yellow (hoist side), black, and white and the horizontal part is yellow (top), black, and white; superimposed in the center of the cross is a red disk bearing a Sisserou parrot, unique to Dominica, encircled by 10 green, five-pointed stars edged in yellow; the 10 stars represent the 10 administrative divisions (parishes); green symbolizes the island's lush vegetation; the triple-colored cross represents the Christian Trinity; the yellow color denotes sunshine, the main agricultural products (citrus and bananas), and the native Carib Indians; black is for the rich soil and the African heritage of most citizens; white signifies rivers, waterfalls, and the purity of aspirations; the red disc stands for social justice<br>

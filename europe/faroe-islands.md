@@ -5,7 +5,7 @@ _Europe / Dependencies (Denmark)_
 ## Introduction
 
 **Background**<br>
-The Faroe Islands were already populated by ca. A.D. 500, but whether the settlers were Celtic or early Norse (or someone else) has yet to be determined. The islands served as an important stepping stone for Medieval Viking exploration of the North Atlantic and Viking settlers arrived on the islands in the 9th century. The islands have been connected politically to Denmark since the 14th century and today the Faroe Islands are a self-governing dependency of Denmark. The Home Rule Act of 1948 granted a high degree of self-government to the Faroese, who have autonomy over most internal affairs and external trade, while Denmark is responsible for justice, defense, and some foreign affairs. The Faroe Islands are not part of the European Union.<br>
+The Faroe Islands were already populated by about A.D. 500, but whether the original settlers were Celtic or early Norse (or someone else) has yet to be determined. Viking settlers arrived on the islands in the 9th century, and the islands served as an important stepping stone for medieval Viking exploration of the North Atlantic. The islands have been connected politically to Denmark since the 14th century, and today the Faroe Islands are a self-governing dependency of Denmark. The Home Rule Act of 1948 granted a high degree of self-government to the Faroese, who have autonomy over most internal affairs and external trade, while Denmark is responsible for justice, defense, and some foreign affairs. The Faroe Islands are not part of the European Union.<br>
 
 ## Geography
 
@@ -77,7 +77,7 @@ _noun_: Faroese (singular and plural)<br>
 _adjective_: Faroese<br>
 
 **Ethnic groups**<br>
-Faroese 85.3% (Scandinavian and Anglo-Saxon descent), Danish 8.3%, other Nordic 1.4%, other 4.5% (includes Filipino, Poland, Romanian) (2022 est.)<br>
+Faroese 83.8% (Scandinavian and Anglo-Saxon descent), Danish 8.3%, Filipino 1.2%, other Nordic 0.9%, other 4.5% (includes Polish and Romanian) (2024 est.)<br>
 <strong>note:</strong> data represent respondents by country of birth<br>
 
 **Languages**<br>
@@ -85,7 +85,7 @@ Faroese 93.8% (derived from Old Norse), Danish 3.2%, other 3% (2011 est.)<br>
 <strong>note:</strong>  data represent population by primary language<br>
 
 **Religions**<br>
-Christian 89.3% (predominantly Evangelical Lutheran), other 1%, none 3.8%, unspecified 6% (2011 est.)<br>
+Christian 87% (predominantly Evangelical Lutheran), other 0.9%, none 3.7%, unspecified 8.9% (2011 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 19.9% (male 5,415/female 5,053)<br>
@@ -276,8 +276,8 @@ _elections/appointments_: the monarchy is hereditary; high commissioner appointe
 
 **Legislative branch**<br>
 _description_: unicameral Faroese Parliament or Logting (33 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>the Faroe Islands elect 2 members to the Danish Parliament to serve 4-year terms<br>
-_elections_: Faroese Parliament - last held on 8 December 2022 (next to be held in 2026)<br>Faroese seats in the Danish Parliament last held on 31 October 2022 (next to be held no later than 31 October 2026)<br>
-_election results_: Faroese Parliament percent of vote by party - JF 26.6%, B 20%, A 18.9%, E 17.7%, F 7.5%, H 6.6%, seats by party - JF 9, B 7, A 6, E 6, F 3, H 2; composition - men 27, women 6; percent of women 18.2% <br>Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - JF 1, B 1; composition - men 2<br><br>2019: Faroese Parliament percent of vote by party - People's Party 24.2%, JF 21.2%, Union Party 21.2%, Republic 18.2%, Center Party 6%, Progress Party 6%, Self-Government Party 3%, seats by party - People's Party 8, JF 7, Union Party 7, Republic 6, Center Party 2, Progress Party 2, Self-Government Party 1, composition - men 25, women 8; percent of women 24.2% <br>Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - JF 1, Republic 1; composition - men 2<br>
+_elections_: <br>Faroese Parliament - last held on 8 December 2022 (next to be held in 2026)<br>Faroese seats in the Danish Parliament last held on 31 October 2022 (next to be held no later than 31 October 2026)<br>
+_election results_: <br><br>Faroese Parliament percent of vote by party - JF 26.6%, B 20%, A 18.9%, E 17.7%, F 7.5%, H 6.6%, seats by party - JF 9, B 7, A 6, E 6, F 3, H 2; composition - men 27, women 6; percentage women 18.2%<br><br>Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - JF 1, B 1; composition - men 2, women 0; percentage women 0%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Faroese Court or Raett (Rett - Danish) decides both civil and criminal cases; the Court is part of the Danish legal system<br>

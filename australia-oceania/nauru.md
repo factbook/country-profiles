@@ -287,8 +287,8 @@ _election results_: <em>2023:</em> David ADEAGN elected president over Delvin TH
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (19 seats; members directly elected in multi-seat constituencies by majority vote using the "Dowdall" counting system by which voters rank candidates on their ballots; members serve 3-year terms)<br>
-_elections_: last held on 24 September 2022 (next to be held in September 2025)<br>
-_election results_: percent of vote - NA; seats - independent 19; composition - men 17, women 2, percent of women 10.5%<br>
+_elections_: <br>last held on 24 September 2022 (next to be held in September 2025)<br>
+_election results_: <br>percent of vote - NA; seats - independent 19; composition as of February 2024 - men 17, women 2, percentage women 10.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and several justices); note - in late 2017, the Nauruan Government revoked the 1976 High Court Appeals Act, which had allowed appeals beyond the Nauruan Supreme Court, and in early 2018, the government formed its own appeals court<br>

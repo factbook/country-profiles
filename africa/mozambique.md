@@ -356,8 +356,8 @@ _election results_: <em><br>2019</em>: Filipe NYUSI reelected president in first
 
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Republic or Assembleia da Republica (250 seats; 248 members elected in multi-seat constituencies by party-list proportional representation vote and 2 members representing Mozambicans abroad directly elected by simple majority vote; members serve 5-year terms)<br>
-_elections_: last held on 15 October 2019 (next to be held on 15 October 2024)<br>
-_election results_: percent of vote by party - FRELIMO 71%, RENAMO 23%, MDM 4%; seats by party - FRELIMO 184, RENAMO 60, MDM 6; composition as of July 2022 - men 144, women 106, percent of women 42.4%<br>
+_elections_: <br>last held on 15 October 2019 (next to be held on 9 October 2024)<br>
+_election results_: percent of vote by party - FRELIMO 71%, RENAMO 23%, MDM 4%; seats by party - FRELIMO 184, RENAMO 60, MDM 6; composition as of February 2024 - men 142, women 108, percentage women 43.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president, vice president, and 5 judges); Constitutional Council (consists of 7 judges); note - the Higher Council of the Judiciary Magistracy is responsible for judiciary management and discipline<br>

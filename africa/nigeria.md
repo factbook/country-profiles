@@ -359,8 +359,8 @@ _election results_: <br><em>2023:</em> Bola Ahmed Adekunle TINUBU elected presid
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly consists of:<br>Senate (109 seats - 3 each for the 36 states and 1 for Abuja-Federal Capital Territory; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>House of Representatives (360 seats statutory, 258 current; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: <br>Senate - last held on 25 February 2023 (next to be held on 25 February 2027)<br>House of Representatives - last held on 25 February 2023 (next to be held on 25 February 2027) <p> </p><br>
-_election results_: <em><em><br></em></em>Senate - percent of vote by party - NA; seats by party - APC 59, PDP 36, LP 8, NNPP 2, SDP 2, YPP 1, APGA 1; composition - men 106, women 3, percent of women 2.8%<em><em><br><br></em></em>House of Representatives - percent of vote by party - NA; seats by party - APC 178, PDP 114, LP 35, NNPP 19, APGA 5, other 7, vacant 2; composition - men 344, women 14, percent of women 3.8%; note - total National Assembly percent of women 3.6% <p> </p><br>
+_elections_: <br>Senate - last held on 25 February 2023 (next to be held in February 2027)<br>House of Representatives - last held on 25 February 2023 (next to be held in February 2027) <p> </p><br>
+_election results_: <em><em><br></em></em>Senate - percent of vote by party - NA; seats by party - APC 59, PDP 36, LP 8, NNPP 2, SDP 2, YPP 1, APGA 1; composition as of February 2024 - men 105, women 4, percentage women 3.7%<em><em><br><br></em></em>House of Representatives - percent of vote by party - NA; seats by party - APC 178, PDP 114, LP 35, NNPP 19, APGA 5, other 7, vacant 2; composition as of February 2024 - men 344, women 14, percentage women 3.8%; note - total National Assembly percentage women 3.9% <p> </p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 15 justices)<br>
@@ -729,7 +729,7 @@ the military's inventory consists of a wide variety of imported weapons systems 
 18-26 years of age for voluntary military service for men and women; no conscription (2023)<br>
 
 **Military deployments**<br>
-175 Sudan/South Sudan (UNISFA) (2023)<br>
+190 Sudan/South Sudan (UNISFA) (2024)<br>
 <strong>note:</strong> Nigeria has committed an Army combat brigade (approximately 3,000 troops) to the Multinational Joint Task Force (MNJTF), a regional counter-terrorism force comprised of troops from Benin, Cameroon, Chad, and Niger; MNJTF conducts operations against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically<br>
 
 **Military - note**<br>

@@ -266,12 +266,12 @@ _chief of state_: President TSAI Ing-wen (since 20 May 2016); Vice President LAI
 _head of government_: Premier CHEN Chien-jen (President of the Executive Yuan) (since 31 January 2023); Vice Premier CHENG Wen-tsan (Vice President of the Executive Yuan) (since 31 January 2023)<br>
 _cabinet_: Executive Yuan - ministers appointed by president on recommendation of premier<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 13 January 2024 (next to be held in 2028); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier<br>
-_election results_: <em><em>2023: </em></em>LAI Ching-te (DPP) 40.1%, HOU Yu-ih (KMT) 33.5%, KO Wen-je (TPP) 26.5%; note - LAI takes office on 20 May 2024<em><br><br>2020: </em>TSAI Ing-wen reelected president; percent of vote - TSAI Ing-wen (DPP) 57.1%, HAN Kuo-yu (KMT) 38.6%, James SOONG (PFP) 4.3%; note - TSAI is the first woman elected president of Taiwan<br><em><br><br></em><br>
+_election results_: <em><em>2023:</em></em> LAI Ching-te elected president; percent of vote<em><em> - </em></em>LAI Ching-te (DPP) 40.1%, HOU Yu-ih (KMT) 33.5%, KO Wen-je (TPP) 26.5%; note - LAI takes office on 20 May 2024<em><br><br>2020: </em>TSAI Ing-wen reelected president; percent of vote - TSAI Ing-wen (DPP) 57.1%, HAN Kuo-yu (KMT) 38.6%, James SOONG (PFP) 4.3%; note - TSAI is the first woman elected president of Taiwan<br><em><br><br></em><br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Yuan (113 seats; 73 members directly elected in single-seat constituencies by simple majority vote, 34 directly elected in a single island-wide constituency by proportional representation vote, and 6 directly elected in multi-seat aboriginal constituencies by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 13 January 2024 (next to be held in 2028)<br>
-_election results_: percent of vote by party - DPP 40.6%, KMT 37.2%, TPP 12.6%, other 5.7%, independent 3.9%; seats by party - KMT 52, DPP 51, TPP 8, independent 2; composition - men 66, women 47, percent of women 41.6%<br>
+_elections_: <br>last held on 13 January 2024 (next to be held in 2028)<br>
+_election results_: <br>percent of vote by party - DPP 40.6%, KMT 37.2%, TPP 12.6%, other 5.7%, independent 3.9%; seats by party - KMT 52, DPP 51, TPP 8, independent 2; composition as of February 2024 - men 66, women 47, percentage women 41.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president, vice president, and approximately 100 judges organized into civil and criminal panels, each with a chief justice and 4 associate justices); Constitutional Court (consists of the court president, vice president, and 13 justices)<br>

@@ -539,7 +539,7 @@ cars and vehicle parts, crude petroleum, refined petroleum, broadcasting equipme
 $64.289 billion (2022 est.)<br>
 $62.053 billion (2021 est.)<br>
 $58.26 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $911.317 billion (2019 est.)<br>
@@ -686,9 +686,6 @@ _by type_: general cargo 44, oil tanker 18, other 299<br>
 **Ports and terminals**<br>
 _major seaport(s)_: Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo, Stockholm, Trelleborg, Visby<br>
 _LNG terminal(s) (import)_: Brunnsviksholme, Lysekil<br>
-
-**Transportation - note**<br>
-Sweden operates four PC 3 or 4 class medium icebreakers in the Baltic Sea<br>note - PC indicates a Polar Class vessel: PC 3 - year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm)<br>
 
 ## Military and Security
 

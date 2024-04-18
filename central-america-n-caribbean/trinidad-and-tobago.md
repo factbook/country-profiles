@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-First colonized by the Spanish, the islands came under British control in the early 19th century. The islands' sugar industry was hurt by the emancipation of the slaves in 1834. Manpower was replaced with the importation of contract laborers from India between 1845 and 1917, which boosted sugar production as well as the cocoa industry. The discovery of oil on Trinidad in 1910 added another important export. Independence was attained in 1962. The country is one of the most prosperous in the Caribbean thanks largely to petroleum and natural gas production and processing. Tourism, mostly in Tobago, is targeted for expansion and is growing. The government is struggling to reverse a surge in violent crime.<br>
+First colonized by the Spanish, the islands came under British control in the early 19th century. The emancipation of enslaved people in 1834 disrupted the twin islands' sugar industry. &nbsp;Contract workers arriving from India between 1845 and 1917 augmented the labor force, which boosted sugar production as well as the cocoa industry. The discovery of oil on Trinidad in 1910 added another important export that remains the dominant economic industry. Trinidad and Tobago attained independence in 1962. The country is one of the most prosperous in the Caribbean thanks largely to petroleum and natural gas production and processing. Tobago has greater tourism potential but continues to recover from an 18-month travel ban imposed in response to the global COVID-19 pandemic. The government is struggling to reverse a surge in violent crime.<br>
 
 ## Geography
 
@@ -301,12 +301,12 @@ _chief of state_: President Christine KANGALOO (since 20 March 2023)<br>
 _head of government_: Prime Minister Keith ROWLEY (since 9 September 2015)<br>
 _cabinet_: Cabinet appointed from among members of Parliament<br>
 _elections/appointments_: president indirectly elected by an electoral college of selected Senate and House of Representatives members for a 5-year term (eligible for a second term); election last held on 20 January 2023 (next to be held by February 2028); the president usually appoints the leader of the majority party in the House of Representatives as prime minister<br>
-_election results_: Christine KANGALOO elected president by the electoral college on 20 January 2023; electoral college vote&nbsp; Christine KANGALOO (PNM) 48, Israel KHAN (UNC) 22<br>
+_election results_: <br><em>2023: </em>Christine KANGALOO elected president by the electoral college on 20 January 2023; electoral college vote  Christine KANGALOO (PNM) 48, Israel KHAN (UNC) 22<br><br><em>2018: </em>Paula-Mae WEEKES (independent) elected president; ran unopposed and was elected without a vote; she was Trinidad and Tabago's first female head of state<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (31 seats; 16 members appointed by the ruling party, 9 by the president, and 6 by the opposition party; members serve 5-year terms;)<br>House of Representatives (42 seats; 41 members directly elected in single-seat constituencies by simple majority vote and the house speaker - usually designated from outside Parliament; members serve 5-year terms)<br>
 _elections_: Senate - last appointments on 28 August 2020 (next appointments in August 2025)<br>House of Representatives - last held on 10 August 2020 (next to be held in 2025)<br>
-_election results_: <br>Senate - percent by party - NA; seats by party - NA; composition as of February 2024 - men 19, women 13, percent of women 40.6%<br><br>House of Representatives - percent by party - NA; seats by party - PNM 22, UNC 19; composition as of February 2024 - men 30, women 12, percent of women 28.6%; note - overall Parliament percent of women 33.8%<br>
+_election results_: <br>Senate - percent by party - NA; seats by party - PNM 16, UNC 6, Independent 9; composition as of February 2024 - men 19, women 13, percent of women 40.6%<br><br>House of Representatives - percent by party - NA; seats by party - PNM 23, UNC 19; composition as of February 2024 - men 30, women 12, percent of women 28.6%; note - overall Parliament percent of women 33.8%<br>
 <strong>note:</strong> Tobago has a unicameral House of Assembly (19 seats; 15 assemblymen directly elected by simple majority vote and 4 appointed councilors - 3 on the advice of the chief secretary and 1 on the advice of the minority leader; members serve 4-year terms)<br>
 
 **Judicial branch**<br>
@@ -315,7 +315,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: Courts of Summary Criminal Jurisdiction; Petty Civil Courts; Family Court<br>
 
 **Political parties and leaders**<br>
-Congress of the People or COP [Kirt SINNETTE]<br>People's National Movement or PNM [Keith ROWLEY]<br>Progressive Democratic Patriots or PDP (Tobago) [Watson DUKE]<br>United National Congress or UNC [Kamla PERSAD-BISSESSAR]<br>
+People's National Movement or PNM [Keith ROWLEY]<br>United National Congress or UNC [Kamla PERSAD-BISSESSAR]<br>Tobago People’s Party or Tobago [Farley AUGUSTINE]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), Paris Club (associate), UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -334,7 +334,7 @@ _embassy_: 15 Queen's Park West, Port of Spain<br>
 _mailing address_: 3410 Port of Spain Place, Washington DC&nbsp; 20521-3410<br>
 _telephone_: (868) 622-6371<br>
 _FAX_: (868) 822-5905<br>
-_email address and website_: <br>acspos@state.gov<br><br>https://tt.usembassy.gov/<br>
+_email address and website_: <br>ptspas@state.gov<br><br>https://tt.usembassy.gov/<br>
 
 **Flag description**<br>
 red with a white-edged black diagonal band from the upper hoist side to the lower fly side; the colors represent the elements of earth, water, and fire; black stands for the wealth of the land and the dedication of the people; white symbolizes the sea surrounding the islands, the purity of the country's aspirations, and equality; red symbolizes the warmth and energy of the sun, the vitality of the land, and the courage and friendliness of its people<br>

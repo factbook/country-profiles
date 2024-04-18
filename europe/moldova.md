@@ -334,8 +334,8 @@ _election results_: <em><br>2020:</em> Maia SANDU elected president in second ro
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (101 seats; 51 members directly elected in single-seat constituencies by simple majority vote and 50 members directly elected in a single, nationwide constituency by closed party-list proportional representation vote; all members serve 4-year terms<br>
-_elections_: last held on 11 July 2021 (next scheduled in July 2025)<br>
-_election results_: <em><br></em>2021<em>: </em>percent of vote by party - PAS 52.8%, BECS (PSRM+PCRM) 27.1%, SOR 5.7%; seats by party - PAS 63, BECS 32, SOR 6; composition as of April 2023 - men 62, women 39, percent of women 38.6%<br>
+_elections_: <br>last held on 11 July 2021 (next to be held in July 2025)<br>
+_election results_: <em><br></em>percent of vote by party - PAS 52.8%, BECS 27.1%, SOR 5.7%, other 14.4%; seats by party - PAS 63, BECS 32, SOR 6; composition as of February 2024 - men 58, women 40, percent of women 40.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the chief judge, 3 deputy-chief judges, 45 judges, and 7 assistant judges); Constitutional Court (consists of the court president and 6 judges); note - the Constitutional Court is autonomous to the other branches of government; the Court interprets the Constitution and reviews the constitutionality of parliamentary laws and decisions, decrees of the president, and acts of the government<br>
@@ -343,7 +343,7 @@ _judge selection and term of office_: Supreme Court of Justice judges appointed 
 _subordinate courts_: Courts of Appeal; Court of Business Audit; municipal courts<br>
 
 **Political parties and leaders**<br>
-<p>Party of Action and Solidarity or PAS [Igor GROSU]<br>Communist Party or PCRM [Vladimir VORONIN]<br>Socialist Party or PSRM [Igor DODON]<br>SOR Party [llan SHOR]</p><br>
+<p>Bloc of Communists and Socialists or BECS (coalition includes PCRM and PSRM)<br>Communist Party or PCRM [Vladimir VORONIN]<br>Party of Action and Solidarity or PAS [Igor GROSU]<br>Socialist Party or PSRM [Igor DODON]<br>SOR Party [llan SHOR]</p><br>
 
 **International organization participation**<br>
 BSEC, CD, CE, CEI, CIS, EAEU (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, OIF, OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -496,8 +496,8 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$2,482,260,000 (2022 est.)<br>
--$1,699,100,000 (2021 est.)<br>
+-$2.482 billion (2022 est.)<br>
+-$1.699 billion (2021 est.)<br>
 -$886.72 million (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
@@ -529,7 +529,7 @@ refined petroleum, cars, insulated wiring, packaged medicines, broadcasting equi
 $4.474 billion (2022 est.)<br>
 $3.902 billion (2021 est.)<br>
 $3.784 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $7.232 billion (2019 est.)<br>
