@@ -349,7 +349,7 @@ _election results_: <em><br>2022:</em> Serdar BERDIMUHAMEDOV elected president; 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Mejlis (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms); formerly the Assembly was the lower house of the bicameral National Council or Milli Genes, which consisted of an upper house, the People's Council or Halk Maslahaty, and the Assembly or Mejlis<br>
 _elections_: last held on 26 March 2023 (next to be held in 2028)<br>
-_election results_: <br>percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition as of February 2024 men 93, women 32, percent of women 25.6%<br>
+_election results_: percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition as of February 2024 men 93, women 32, percentage women 25.6%<br>
 <strong>note:</strong> on 22 January 2023, a joint session of the then bicameral National Council or Milli Genes voted unanimously to abolish itself, re-establishing a unicameral legislature and a separate People's Council or Halk Maslahaty<br>
 
 **Judicial branch**<br>
@@ -704,9 +704,6 @@ has a small space program focused on acquiring satellites and developing the inf
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Turkmenistan-Azerbaijan</em>: in January 2021, the two countries reached a preliminary agreement on the joint exploration of an undersea hydrocarbon field containing oil and natural gas in the Caspian Sea</p> <p><em>Turkmenistan-Iran</em>: none identified</p> <p><em>Turkmenistan-Kazakhstan</em>: Kazakhstan and Turkmenistan signed a treaty on the delimitation and demarcation process in 2001; field demarcation of the boundaries with Kazakhstan commenced in 2005; Turkmenistan and Kazakhstan agreed to their border in the Caspian Sea in 2014</p> <p><em>Turkmenistan-Kazakhstan-Uzbekistan</em>: in 2017, the three countries signed an agreement of the junction of their borders</p> <p><em>Turkmenistan-Uzbekistan</em>: cotton monoculture in Uzbekistan and Turkmenistan creates water-sharing difficulties for Amu Darya river states; in 2021, the two countries reached an agreement to create a joint intergovernmental commission to oversee water management</p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 4,463 (2022)<br>

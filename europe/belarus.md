@@ -341,8 +341,8 @@ _election results_: <em><br>2020:</em> Alyaksandr LUKASHENKA reelected president
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Natsyyalny Skhod consists of:<br>Council of the Republic or Savet Respubliki (64 seats statutory, currently 58; 56 members indirectly elected by regional and Minsk city councils and 8 members appointed by the president; members serve 4-year terms)<br>House of Representatives or Palata Pradstawnikow (110 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms)<br>
-_elections_: <br>Council of the Republic - indirect election last held on 7 November 2019<br>House of Representatives - last held on 25 February 2024 (next to be held in 2028)<br>
-_election results_: <br>Council of the Republic - percent of vote by party - NA; seats by party - independent 58, other 2; composition as of January 2024 - men 42, women 16, percentage women 27.6%<br><br>House of Representatives - percent of vote by party - NA; seats by party - Belaya Rus 51, RPTS 8, CPB 7, LDPB 4, independent 40; composition as of February 2024 - men 73, women 37, percentage women 33.6%; note - total National Assembly percentage women 31.5%<br>
+_elections_: Council of the Republic - indirect election last held on 7 November 2019<br>House of Representatives - last held on 25 February 2024 (next to be held in 2028)<br>
+_election results_: Council of the Republic - percent of vote by party - NA; seats by party - independent 58, other 2; composition as of December 2023 - men 42, women 16, percentage women 27.6%<br><br>House of Representatives - percent of vote by party - NA; seats by party - Belaya Rus 51, RPTS 8, CPB 7, LDPB 4, independent 40; composition as of March 2024 - men 73, women 37, percentage women 33.6%; note - total National Assembly percentage women 31.5%<br>
 <strong>note:</strong> the US does not recognize the legitimacy of the National Assembly<br>
 
 **Judicial branch**<br>
@@ -726,9 +726,6 @@ has a modest national space program focused on developing remote sensing (RS) sa
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Belarus-Latvia:</em> boundary demarcated with Latvia<br><br><em>Belarus-Lithuania:</em> boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> as a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 42,785 (Ukraine) (as of 29 February 2024)<br>

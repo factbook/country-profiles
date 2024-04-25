@@ -349,8 +349,8 @@ _election results_: <br><em>2020:</em> Andrzej DUDA reelected president in secon
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>Sejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minority parties exempt from threshold; members serve 4-year terms)<br>
-_elections_: <br>Senate - last held on 15 October 2023 (next to be held in 2027)<br>Sejm - last held on 15 October 2023 (next to be held in 2027)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA<br><br>Sejm (preliminary results as of 10/15/2023): PiS 35.4%, KO 30.7%, TD 14.4%, Lewica 8.6%, Konf 7.2%; seats by party - PiS 194, KO 157, TD 65, Lewica 26, Konf 18; composition as of XX XXXX - men X, women X, percentage women NA%; total Parliament percentage women 27.5%<br>
+_elections_: Senate - last held on 15 October 2023 (next to be held in 2027)<br>Sejm - last held on 15 October 2023 (next to be held in 2027)<br>
+_election results_: Senate - percent of vote by party/coalition - United Right 34.8%, Civic Coalition 28.9%, Third Way 11.5%, The Left 5.3%, Senate Pact Independents 2.7%, independent 3%; seats by party/coalition - Civic Coalition 41, United Right 34, Third Way 11, The Left 9, Senate Pact Independents 4, independent 1<br><br>Sejm - percent of vote by party - PiS 35.4%, KO 30.7%, TD 14.4%, Lewica 8.6%, Konf 7.2%; seats by party - PiS 194, KO 157, TD 65, Lewica 26, Konf 18<br>
 <strong>note:</strong> the designation National Assembly or Zgromadzenie Narodowe is only used on those rare occasions when the 2 houses meet jointly<br>
 
 **Judicial branch**<br>
@@ -707,10 +707,10 @@ Polish Armed Forces (Polskie Siły Zbrojne): Land Forces (Wojska Ladowe), Navy (
 
 **Military and security service personnel strengths**<br>
 approximately 120,000 active-duty personnel (65,000 Army; 7,000 Navy; 15,000 Air Force; 3,000 Special Forces; 30,000 joint service/other); approximately 40,000 Territorial Defense Forces (2023)<br>
-<strong>note: </strong>in June 2019, the Polish Government approved a plan to increase the size of the military over a period of 10 years to over 200,000 troops, including doubling the size of the Territorial Defense Forces; in 2021, it announced additional plans to increase the size of the military to over 300,000 personnel<br>
+<strong>note: </strong>in June 2019, the Polish Government approved a plan to increase the size of the military over a period of 10 years to over 200,000 troops, including doubling the size of the Territorial Defense Forces; in 2021, it announced further plans to increase the size of the military to over 300,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a mix of Soviet-era and more modern, NATO-compatible, weapons systems; in recent years, the leading suppliers of armaments have included several European countries, South Korea, and the US; Poland has a large domestic defense sector that produces or provides upgrades to a wide variety of weapons systems, particularly ground systems such as tanks and other armored vehicles; it also cooperates with the European and US defense sectors (2023)<br>
+the military's inventory consists of a mix of some Soviet-era and a growing amount of more modern, NATO-compatible, weapons systems; in recent years, the leading suppliers of armaments have included several European countries, South Korea, and the US; Poland has a large domestic defense sector that produces or provides upgrades to a wide variety of weapons systems, particularly ground systems such as tanks and other armored vehicles; it also cooperates with the European and US defense sectors (2023)<br>
 <strong>note:</strong> in late 2018, Poland announced a 7-year (through 2026) approximately $50 billion defense modernization plan that would include such items as 5th generation combat aircraft, unmanned aerial vehicles, rocket artillery, helicopters, submarines, frigates, and improved cyber security; in 2022-2023, it signed large military weapons contracts with South Korea, the UK, and the US<br>
 
 **Military service age and obligation**<br>
@@ -718,7 +718,7 @@ the military's inventory consists of a mix of Soviet-era and more modern, NATO-c
 <strong>note 1:</strong> as of 2019, women made up about 7% of the military's full-time personnel<br><br><strong>note 2: </strong>in May 2022, Poland announced a new 12-month voluntary military service program with recruits going through a one-month basic training period with a military unit, followed by 11 months of specialized training; upon completion of service, the volunteers would be allowed to join the Territorial Defense Forces or the active reserve, and have priority to join the professional army and be given preference for employment in the public sector; the program is part of an effort to increase the size of the Polish military<br>
 
 **Military deployments**<br>
-250 Kosovo (NATO/KFOR); up to 180 Latvia (NATO); 200 Lebanon (UNIFIL); 230 Romania (NATO) (2023)<br>
+210 Kosovo (NATO/KFOR); up to 180 Latvia (NATO); 190 Lebanon (UNIFIL); approximately 230 Romania (NATO) (2024)<br>
 <strong>note 1: </strong>Poland has obligated about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units; units affiliated with the multinational brigade remain within the structures of the armed forces of their respective countries until the brigade is activated for participation in an international operation<br>
 
 **Military - note**<br>
@@ -740,9 +740,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 956,635 (Ukraine) (as of 15 December 2023)<br>

@@ -327,8 +327,8 @@ _elections/appointments_: the monarchy is hereditary; prime minister appointed b
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly consists of:<br>Consultative Council or Majlis al-Shura (40 seats; members appointed by the king)<br>Council of Representatives or Majlis al-Nuwab (40 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year renewable terms)<br>
-_elections_: <br>Consultative Council - last appointments on 30 November 2022 (next appointments in 2026)<br>Council of Representatives - first round for 6 members held on 12 November 2022; second round for remaining 34 members held on 19 November 2022 (next to be held in November 2026)<br>
-_election results_: <br>Consultative Council - all members appointed; composition as of February 2024 - men 30, women 10, percentage women 25%<br><br>Council of Representatives - percent of vote by society - NA; seats by society - NA; composition as of February 2024 - men 32, women 8, percentage women 20%; note - total National Assembly percentage women 23%<br>
+_elections_: Consultative Council - last appointments on 30 November 2022 (next appointments in 2026)<br>Council of Representatives - first round for 6 members held on 12 November 2022; second round for remaining 34 members held on 19 November 2022 (next to be held in November 2026)<br>
+_election results_: Consultative Council - all members appointed; composition as of February 2024 - men 30, women 10, percentage women 25%<br><br>Council of Representatives - percent of vote by society - NA; seats by society - NA; composition as of February 2024 - men 32, women 8, percentage women 20%; total National Assembly percentage women 23%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation (consists of the chairman and 3 judges); Supreme Court of Appeal (consists of the chairman and 3 judges); Constitutional Court (consists of the president and 6 members); High Sharia Court of Appeal (court sittings include the president and at least one judge)<br>
@@ -691,7 +691,4 @@ al-Ashtar Brigades; Islamic Revolutionary Guard Corps/Qods Force<br>
 <strong>note 1:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T <br><br><strong>note 2: </strong>in addition to the al-Ashtar Brigades and the IRGC/Qods Force, Saraya al-Mukhtar (aka The Mukhtar Brigade) is an Iran-backed terrorist organization based in Bahrain, reportedly receiving financial and logistic support from the IRGC; Saraya al-Mukhtar's self-described goal is to depose the Bahraini Government with the intention of paving the way for Iran to exert greater influence in Bahrain; the group was designated by the US as a Specially Designated Global Terrorist in Dec 2020<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 

@@ -318,8 +318,8 @@ _election results_: <em>2020:</em> Taneti MAAMAU reelected president; percent of
 
 **Legislative branch**<br>
 _description_: unicameral House of Assembly or Maneaba Ni Maungatabu (46 seats; 44 members directly elected in single- and multi-seat constituencies by absolute majority vote in two rounds if needed; 1 member appointed by the Rabi Council of Leaders - representing Banaba Island, and 1 ex officio member - the attorney general; members serve 4-year terms)<br>
-_elections_: <br>legislative elections originally scheduled to be held in two rounds on 7 and 15 April 2020 but rescheduled for 14 and 21 April 2020 (next to be held in 2024)<br>
-_election results_: <br>percent of vote by party - NA; seats by party - TKB 22, BKM 22, appointed 1; composition as of February 2024 - 42 men, 3 women; percentage women 6.7%<br>
+_elections_: legislative elections originally scheduled to be held in two rounds on 7 and 15 April 2020 but rescheduled for 14 and 21 April 2020 (next to be held in 2024)<br>
+_election results_: percent of vote by party - NA; seats by party - TKB 22, BKM 22, appointed 1; composition as of February 2024 - 42 men, 3 women; percentage women 6.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court (consists of a chief justice and other judges as prescribed by the president); note - the High Court has jurisdiction on constitutional issues<br>
@@ -628,7 +628,4 @@ no regular military forces; Kiribati Police and Prison Service (Ministry of Just
 defense assistance is provided by Australia and NZ<br><br>Kiribati has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Kiribati's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 

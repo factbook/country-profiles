@@ -291,7 +291,7 @@ _name_: Skopje<br>
 _geographic coordinates_: 42 00 N, 21 26 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: Skopje derives from its ancient name Scupi, the Latin designation of a classical era Greco-Roman frontier fortress town; the name may go back even further to a pre-Greek, Illyrian name<br>
+_etymology_: Skopje derives from its ancient name Scupi, the Latin designation of a Dardanian and classical era Greco-Roman frontier fortress town; the name goes back to a pre-Hellenic, Illyrian times<br>
 
 **Administrative divisions**<br>
 80 municipalities (opstini, singular - opstina) and 1 city* (grad); Aracinovo, Berovo, Bitola, Bogdanci, Bogovinje, Bosilovo, Brvenica, Caska, Centar Zupa, Cesinovo-Oblesevo, Cucer Sandevo, Debar, Debarca, Delcevo, Demir Hisar, Demir Kapija, Dojran, Dolneni, Gevgelija, Gostivar, Gradsko, Ilinden, Jegunovce, Karbinci, Kavadarci, Kicevo, Kocani, Konce, Kratovo, Kriva Palanka, Krivogastani, Krusevo, Kumanovo, Lipkovo, Lozovo, Makedonska Kamenica, Makedonski Brod, Mavrovo i Rostuse, Mogila, Negotino, Novaci, Novo Selo, Ohrid, Pehcevo, Petrovec, Plasnica, Prilep, Probistip, Radovis, Rankovce, Resen, Rosoman, Skopje*, Sopiste, Staro Nagoricane, Stip, Struga, Strumica, Studenicani, Sveti Nikole, Tearce, Tetovo, Valandovo, Vasilevo, Veles, Vevcani, Vinica, Vrapciste, Zelenikovo, Zelino, Zrnovci. The Greater Skopje area is comprised of 10 municipalities: &nbsp;&nbsp;&nbsp; Aerodrom, Butel, Centar, Chair, Gazi Baba, Gjorce Petrov, Karposh, Kisela Voda, Saraj, and Shuto Orizari.<br>
@@ -330,8 +330,8 @@ _election results_: <em>2024: </em>Talat XHAFERI elected caretaker Prime Ministe
 
 **Legislative branch**<br>
 _description_: unicameral Assembly - Sobranie in Macedonian, Kuvend in Albanian (between 120 and 140 seats, currently 120; members directly elected in multi-seat constituencies by closed-list proportional representation vote; possibility of 3 directly elected in diaspora constituencies by simple majority vote provided there is sufficient voter turnout; members serve 4-year terms)<br>
-_elections_: <br>last held on 15 July 2020 (next to be held on 8 May 2024)<br>
-_election results_: <br>percent of vote by party/coalition - We Can! 35.9%, Renewal 34.6%, BDI 11.5%, AfA-Alternative 9%, The Left 4.1%, PDSH 1.5%, other 3.4%; seats by party/coalition - We Can! 46, Renewal 44, BDI 15, AfA-Alternative 12, The Left 2, PDSH 1; composition - men 69, women 51, percentage women 42.5%<br>
+_elections_: last held on 15 July 2020 (next to be held on 8 May 2024)<br>
+_election results_: percent of vote by party/coalition - We Can! 35.9%, Renewal 34.6%, BDI 11.5%, AfA-Alternative 9%, The Left 4.1%, PDSH 1.5%, other 3.4%; seats by party/coalition - We Can! 46, Renewal 44, BDI 15, AfA-Alternative 12, The Left 2, PDSH 1; composition as of March 2024 - men 69, women 51, percentage women 42.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 22 judges); Constitutional Court (consists of 9 judges)<br>
@@ -685,9 +685,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>North Macedonia-Albania</em>: none identified<br><br><em>North Macedonia-Bulgaria</em>: Bulgaria vetoed North Macedonia's EU accession and disputes the legitimacy of Macedonian identity and language</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 18,915 (Ukraine) (as of 22 February 2024)<br>

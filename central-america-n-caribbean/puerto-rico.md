@@ -289,8 +289,8 @@ _election results_: <br><em>2020:</em> Pedro PIERLUISI elected governor; percent
 
 **Legislative branch**<br>
 _description_: <br>bicameral Legislative Assembly or Asamblea Legislativa consists of:<br>Senate or Senado (30 seats statutory, 27 current; 16 members directly elected in 8 2-seat constituencies by simple majority vote and 11 at-large members directly elected by simple majority vote to serve 4-year terms)<br>House of Representatives or Camara de Representantes (51 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: <br>Senate - last held on 3 November 2020 (next to be held on 5 November 2024 )<br>House of Representatives - last held on 3 November 2020 (next to be held on 5 November 2024)<br>
-_election results_: <p>Senate - percent of vote by party - NA; seats by party - PPD 12, NP 10, MVC 2, PD 1,  PIP 1, independent 1; composition - men 17, women 10; percent of women 37%</p> House of Representatives - percent of vote by party - NA; seats by party - PPD 26, PNP 21, MVC 2,  PIP 1, PD 1; composition - men 41, women 10, percent of women 19.6%; note - total Legislative Assembly percent of women 25.6% <p><strong>note: </strong>Puerto Rico directly elects 1 member by simple majority vote to serve a 4-year term as a commissioner to the US House of Representatives; the commissioner can vote when serving on a committee and when the House meets as the Committee of the Whole House but not when legislation is submitted for a 'full floor' House vote; election of commissioner last held on 6 November 2018 (next to be held in November 2022)</p><br>
+_elections_: Senate - last held on 3 November 2020 (next to be held on 5 November 2024)<br>House of Representatives - last held on 3 November 2020 (next to be held on 5 November 2024)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - PPD 12, NP 10, MVC 2, PD 1, PIP 1, independent 1; composition as of April 2024 - men 14, women 13, percentage women 48.1% <br><br>House of Representatives - percent of vote by party - NA; seats by party - PPD 26, PNP 21, MVC 2, PIP 1, PD 1; composition - men 41, women 10, percentage women 19.6%; total Legislative Assembly percentage women 29.5% <p><strong>note: </strong>Puerto Rico directly elects 1 member by simple majority vote to serve a 4-year term as a commissioner to the US House of Representatives; the commissioner can vote when serving on a committee and when the House meets as the Committee of the Whole House but not when legislation is submitted for a 'full floor' House vote; election of commissioner last held on 6 November 2018 (next to be held in November 2022)</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 8 associate justices)<br>
@@ -568,7 +568,4 @@ no regular indigenous military forces; US National Guard (Army and Air), State G
 defense is the responsibility of the US<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-migrants from the Dominican Republic and Haiti attempt to cross the treacherous 148-km-wide (92 mile) Mona Passage to Puerto Rico each year looking for work<br>
 

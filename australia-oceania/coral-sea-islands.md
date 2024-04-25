@@ -63,8 +63,8 @@ important nesting area for birds and turtles<br>
 ## People and Society
 
 **Population**<br>
-(July 2021 est.) no indigenous inhabitants<br>
-<strong>note:</strong> there is a staff of four at the meteorological station on Willis Island<br>
+no indigenous inhabitants (2021)<br>
+<strong>note:</strong> a staff of four operates the meteorological station on Willis Island<br>
 
 **Age structure**<br>
 _0-14 years_: NA<br>
@@ -158,7 +158,4 @@ none; offshore anchorage only<br>
 defense is the responsibility of Australia<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 

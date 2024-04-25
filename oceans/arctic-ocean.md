@@ -96,6 +96,5 @@ sparse network of air, ocean, river, and land routes; the Northwest Passage (Nor
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Canada-US:</em> unresolved maritime boundary in the Beaufort Sea and Arctic Ocean and differ on the status of the Northwest Passage but continue to work cooperatively <br><br><em>Canada-Denmark (Greenland):</em> Canada and Denmark (with Greenland) concluded an agreement in 2022 that resolved the dispute over Hans Island and the maritime boundary <br><br><em>Norway-Russia:</em> signed a comprehensive maritime boundary agreement in 2010</p><br>
 <strong>note: </strong>record levels of summer melting of sea ice in the Arctic has renewed interest in maritime shipping lanes and sea floor exploration<br>
 

@@ -354,8 +354,8 @@ _election results_: <br><em>2020: </em>Alassane OUATTARA reelected president; pe
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)<br>National Assembly (255 seats - 254 for 2021-2026 term; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <p>Senate - last held on 16 September 2023 (next to be held in September 2028)<br>National Assembly - last held on 6 March 2021 (next to be held on 31 March 2026)</p> <p> </p><br>
-_election results_: <p>Senate - percent by party/coalition NA; seats by party/coalition - RHDP 56, PDCI-RDA 6, independent 2, vacant 2; composition - men 54, women 10, percent of women 15.6% (2 seats vacant); note - 33 members appointed; RHDP 25, independent 8 <br><br>National Assembly - percent of vote by party/coalition - RHDP 49.2%, PDCI-RRA-EDS 16.5%, DPIC 6%, TTB 2.1%, IPF 2%, other 24.2%; seats by party/coalition - RHDP, 137, PDCI-RRA-EDS 50, DPIC 23, EDS 8, TTB 8, IPF 2, independent 26, vacant 1; composition as of January 2024 - men 220, women 34, percent of women 13.4%; note - total Parliament percent of women 12.4%</p><br>
+_elections_: Senate - last held on 16 September 2023 (next to be held in September 2028)<br>National Assembly - last held on 6 March 2021 (next to be held on 31 March 2026)<br>
+_election results_: Senate - percent by party/coalition NA; seats by party/coalition - RHDP 56, PDCI-RDA 6, independent 2, vacant 2; composition as of March 2024 - men 73, women 24, percentage women 15.6% (2 seats vacant); note - 33 members appointed - RHDP 25, independent 8 <br><br>National Assembly - percent of vote by party/coalition - RHDP 49.2%, PDCI-RRA-EDS 16.5%, DPIC 6%, TTB 2.1%, IPF 2%, other 24.2%; seats by party/coalition - RHDP, 137, PDCI-RRA-EDS 50, DPIC 23, EDS 8, TTB 8, IPF 2, independent 26, vacant 1; composition as of March 2024 - men 220, women 34, percentage women 13.4%; note - total Parliament percentage women 16.5%<br>
 <br><br><br>
 
 **Judicial branch**<br>
@@ -742,9 +742,6 @@ al-Qa'ida in the Islamic Maghreb (AQIM); Jama’at Nusrat al Islam wal Muslimeen
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>disputed maritime border between Cote d'Ivoire and Ghana</p><br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 302,000 (post-election conflict in 2010-11, as well as civil war from 2002-04; land disputes; most pronounced in western and southwestern regions) (2022)<br>

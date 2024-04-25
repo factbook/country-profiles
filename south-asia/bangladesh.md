@@ -353,7 +353,7 @@ _election results_: President Mohammad Shahabuddin CHUPPI (AL) elected unopposed
 **Legislative branch**<br>
 _description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the House of the Nation membership by proportional representation vote using single transferable vote method; all members serve 5-year terms)<br>
 _elections_: last held on 7 January 2024 (next to be held in 2029)<br>
-_election results_: <br>percent of vote by party - NA; seats by party as of December 2023 - AL 306, JP 27, BNP 0, other 14, independent 3; composition as of February 2024 - men 280, women 70, percentage women 20%<br>
+_election results_: percent of vote by party - NA; seats by party as of December 2023 - AL 306, JP 27, BNP 0, other 14, independent 3; composition as of February 2024 - men 280, women 70, percentage women 20%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices)<br>
@@ -752,9 +752,6 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Bangladesh-Burma:</em> the border area has historically been an area of conflict and instability; militants, particularly ethnic armed groups (EAGs) from Burma, continue to operate in the border region and conduct illegal crossings, and both countries maintain considerable numbers of security personnel along the border; Burmese military forces actively conduct operations against EAGs; in 2022, Burmese artillery struck Bangladesh territory several times during military operations against Arakan Army rebels inside Rakhine; as of 2017, Burmese border authorities had constructed about 130 miles of border fencing and had planned to fence off the remainder of the border<br><br><em>Bangladesh-India:</em> Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over un-demarcated areas and the exchange of territorial enclaves, but which had never been implemented</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 976,507 (Burma) (2024)<br>

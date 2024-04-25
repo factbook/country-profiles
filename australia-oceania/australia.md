@@ -357,8 +357,8 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 
 **Legislative branch**<br>
 _description_: bicameral Federal Parliament consists of:<br>Senate (76 seats; 12 members from each of the 6 states and 2 each from the 2 mainland territories; members directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of state membership renewed every 3 years and territory membership renewed every 3 years)<br>House of Representatives (151 seats; members directly elected in single-seat constituencies by majority preferential vote; members serve terms of up to 3 years)<br>
-_elections_: <br>Senate - last held on 21 May 2022 (next to be held in May 2025)<br>House of Representatives - last held on 21 May 2022 (next to be held in May 2025)<br>
-_election results_: <br>Senate - percent of vote by party/coalition - Liberal/National Coalition 40.7%, ALP 34.2%, Greens 14.5%, Pauline Hansen's One Nation 2.6%, Jacqui Lambee Network 2.6%, United Australia Party 1.3%, independent 3.9%; seats by party/coalition - Liberal/National Coalition 31, ALP 26, Australian Greens 11, Pauline Hansen's One Nation 2, Jacqui Lambee Network 2, United Australia Party 1, independent 3; composition as of April 2024 - 33 men, 42 women; percentage women 56%<br><br>House of Representatives - percent of vote by party/coalition - ALP 50.9%, Coalition 36.4%, 7.9%, 2.6%, others less than 1%; seats by party/coalition - ALP 77, Coalition 55, independent 12, Greens 4, Katter's 1, Center Alliance 1, vacant 1; composition as of April 2024 - 92 men, 59 women; percentage women 39.1%; note - total Federal Parliament percentage women 44.7%<br>
+_elections_: Senate - last held on 21 May 2022 (next to be held in May 2025)<br>House of Representatives - last held on 21 May 2022 (next to be held in May 2025)<br>
+_election results_: Senate - percent of vote by party/coalition - Liberal/National Coalition 40.7%, ALP 34.2%, Greens 14.5%, Pauline Hansen's One Nation 2.6%, Jacqui Lambee Network 2.6%, United Australia Party 1.3%, independent 3.9%; seats by party/coalition - Liberal/National Coalition 31, ALP 26, Australian Greens 11, Pauline Hansen's One Nation 2, Jacqui Lambee Network 2, United Australia Party 1, independent 3; composition as of April 2024 - 33 men, 42 women; percentage women 56%<br><br>House of Representatives - percent of vote by party/coalition - ALP 50.9%, Coalition 36.4%, 7.9%, 2.6%, others less than 1%; seats by party/coalition - ALP 77, Coalition 55, independent 12, Greens 4, Katter's 1, Center Alliance 1, vacant 1; composition as of April 2024 - 92 men, 59 women; percentage women 39.1%; total Federal Parliament percentage women 44.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court of Australia (consists of 7 justices, including the chief justice); note - each of the 6 states, 2 territories, and Norfolk Island has a Supreme Court; the High Court is the final appellate court beyond the state and territory supreme courts<br>
@@ -752,9 +752,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Australia-Indonesia:</em> Australia has closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing; Indonesian groups challenge Australia's claim to Ashmore Reef <em><br></em></p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 12,180 (Iran), 8,741 (Afghanistan), 5,042 (Pakistan) (mid-year 2022)<br>

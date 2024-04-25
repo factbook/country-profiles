@@ -239,7 +239,7 @@ _elections/appointments_: the monarch is hereditary; governor appointed by the m
 **Legislative branch**<br>
 _description_: unicameral Parliament&nbsp;of Sint Maarten&nbsp;(15 seats; members directly elected by proportional representation vote to serve 4-year terms)<br>
 _elections_: last held 11 January 2024 (next to be held in 2028)<br>
-_election results_: percent of vote by party - NA 23.9%, UPP 19.6%, URSM 13.9%, DP 13.6%, PFP 11.9%, NOW 10.3%, other 6.8%; seats by party - NA 4, UPP 3, URSM 2, DP 2, PFP2, NOW 2<br>
+_election results_: percent of vote by party - NA 23.9%, UPP 19.6%, URSM 13.9%, DP 13.6%, PFP 11.9%, NOW 10.3%, other 6.8%; seats by party - NA 4, UPP 3, URSM 2, DP 2, PFP2, NOW 2; composition - men 8, women 7, percentage women 46.7% (additional member is suspended)<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (consists of the presiding judge, other members, and their substitutes); final appeals heard by the Supreme Court (in The Hague, Netherlands); note - prior to 2010, the Joint Court of Justice was the Common Court of Justice of the Netherlands Antilles and Aruba<br>
@@ -413,9 +413,6 @@ no regular military forces; Police Department for local law enforcement, support
 defense is the responsibility of the Kingdom of the Netherlands<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-non identified<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 &mdash; Sint Maarten does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Sint Maarten remained on Tier 3; officials took some steps to address trafficking, including passing a National Action Plan and upholding three trafficking convictions; however, the government did not report prosecuting or convicting any traffickers nor identifying any victims for the third consecutive year; Sint Maarten could not provide services to trafficking victims due to its lack of shelters, funding, and formal arrangements with service providers; interagency coordination was severely lacking; officials consistently conflated human trafficking with migrant smuggling (2023)<br>

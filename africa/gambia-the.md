@@ -345,8 +345,8 @@ _election results_: <em><br>2021: </em>Adama BARROW reelected president; percent
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (58 seats; 53 members directly elected in single-seat constituencies by simple majority vote and 5 appointed by the president; members serve 5-year terms)<br>
-_elections_: <br>last held on 9 April 2022 (next to be held in 2027)<br>
-_election results_: <br>percent of vote by party - NPP 33.9%, UDP 28.3%, independent 22.6%, NRP 7.5%, PDOIS 3.7%, APRL 3.7%; seats by party - NPP 18, UDP 15, independent 12, NRP 4, APRL 2, PDOIS 2; composition as of February 2024 - men 53, women 5, percentage women 8.6%<br>
+_elections_: last held on 9 April 2022 (next to be held in 2027)<br>
+_election results_: percent of vote by party - NPP 33.9%, UDP 28.3%, independent 22.6%, NRP 7.5%, PDOIS 3.7%, APRL 3.7%; seats by party - NPP 18, UDP 15, independent 12, NRP 4, APRL 2, PDOIS 2; composition as of February 2024 - men 53, women 5, percentage women 8.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of The Gambia (consists of the chief justice and 6 justices; court sessions held with 5 justices)<br>
@@ -691,9 +691,6 @@ the GAF has a limited and obsolescent or secondhand equipment inventory originat
 the Gambian security forces have a history of involvement in domestic politics, including multiple coups attempts and mutinies, with the latest being an attempted coup in 2022; since 2017, Gambia’s security sector has been undergoing reforms as part of a national reconstruction effort to recover from the 22 years of Yahya JAMMEH’s autocratic rule under which the security forces were severely under-resourced in terms of finances and equipment and were largely directed towards regime protection and suppressing dissent; international partners, including member states of the EU, particularly France and Germany, Turkey, and the US have provided support to military and police reforms; several members of the Economic Community of West African States (ECOWAS) have also provided security forces for stability, as well as assistance and training through the ECOWAS Mission in the Gambia (ECOMIG); as of 2023, ECOMIG continued to provide about 1,000 military and gendarmerie personnel from Ghana, Nigeria, and Senegal<br><br>the GAF is a lightly armed force with about five small infantry battalions, a handful of coastal patrol boats, and a few aircraft; in addition to external defense, the responsibilities of the GAF include providing maritime security, countering human trafficking, aiding civil authorities in emergencies and natural disaster relief, and engaging in activities such as engineering, education, health, and agriculture for domestic socio-economic development; the GAF also participates in peacekeeping missions, and since its first deployments in the 1990s, has been involved in more than 10 UN peacekeeping missions while contributing about 4,000 total troops <br><br>the GAF traces its origins to the Gambia Regiment of the British Army; established in 1901, the Gambia Regiment was part of the West African Frontier Force (WAFF, later Royal West African Frontier Force or RWAFF) and served in both World Wars, including the British 1944-45 military campaign in Burma; the Gambia Regiment was disbanded in 1958 and replaced by the Field Force, a police paramilitary unit; the Field Force was responsible for The Gambia’s security until the establishment of the GAF in 1985; in addition, a defense agreement signed in 1965 between The Gambia and Senegal provided mutual assistance in the face of an external threat; from 1981-1989, The Gambia and Senegal formed a Confederal Army that was made up of troops from both countries (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>border issues include attempts to stem refugees, cross-border raids, arms smuggling, and other illegal activities by separatists from southern Senegal's Casamance region, as well as from conflicts in other west African states</p><br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 5,600 (2022)<br>

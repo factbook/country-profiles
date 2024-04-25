@@ -347,8 +347,8 @@ _election results_: <br><em>2023: </em>Santiago PEÑA Palacios elected presiden
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Chamber of Senators or Camara de Senadores (45 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote to serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (80 seats; members directly elected in 18 multi-seat constituencies - corresponding to the country's 17 departments and capital city - by closed-list proportional representation vote to serve 5-year terms)<br>
-_elections_: <br>Chamber of Senators - last held on 30 April 2023 (next to be held in April 2028)<br>Chamber of Deputies - last held on 30 April 2023 (next to be held in April 2028)<br>
-_election results_: <br>Chamber of Senators - percent of vote by party/coalition - ANR 45.7%, PLRA 24.4%, PCN 11.5%, PEN 5.2%, PPQ 2.5%, other 10.7%; seats by party/coalition - ANR 23, PLRA 12, PCN 5, PEN 2, PPQ 1, other 2; composition - men 34, women 11, percentage women 24.4%<br><br>Chamber of Deputies - percent of vote by party/coalition - ANR 44%, PLRA 30.9%, PCN 8.3%, PPQ 3.6%, PEN 2.9%; other 10.3%; seats by party/coalition - ANR 49, PLRA 21, PCN 4, PEN 2, PPQ 1, other 3; composition as of February 2024 - men 61, women 19, percentage women 23.8%; note - total National Congress percentage women NA%<br>
+_elections_: Chamber of Senators - last held on 30 April 2023 (next to be held in April 2028)<br>Chamber of Deputies - last held on 30 April 2023 (next to be held in April 2028)<br>
+_election results_: Chamber of Senators - percent of vote by party/coalition - ANR 45.7%, PLRA 24.4%, PCN 11.5%, PEN 5.2%, PPQ 2.5%, other 10.7%; seats by party/coalition - ANR 23, PLRA 12, PCN 5, PEN 2, PPQ 1, other 2; composition as of February 2024 - men 34, women 11, percentage women 24.4%<br><br>Chamber of Deputies - percent of vote by party/coalition - ANR 44%, PLRA 30.9%, PCN 8.3%, PPQ 3.6%, PEN 2.9%; other 10.3%; seats by party/coalition - ANR 49, PLRA 21, PCN 4, PEN 2, PPQ 1, other 3; composition as of February 2024 - men 61, women 19, percentage women 23.8%; note - total National Congress percentage women NA%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 justices divided 3 each into the Constitutional Court, Civil and Commercial Chamber, and Criminal Division)<br>
@@ -727,9 +727,6 @@ Hizballah (2022)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Paraguay-Argentina-Brazil</em>: unruly region at convergence of Paraguay-Argentina-Brazil borders is locus of money laundering, smuggling, arms and illegal narcotics trafficking, and fundraising for violent extremist organizations</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,400 (Venezuela) (2022)<br>

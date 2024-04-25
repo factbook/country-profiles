@@ -281,13 +281,13 @@ _chief of state_: co-chiefs of state Captains Regent Alessandro ROSSI and Milena
 _head of government_: Secretary of State for Foreign and Political Affairs Luca BECCARI (since 8 January 2020)<br>
 _cabinet_: Congress of State elected by the Grand and General Council<br>
 _elections/appointments_: co-chiefs of state (captains regent) indirectly elected by the Grand and General Council for a single 6-month term; election last held in March 2024 (next to be held in September 2024; Secretary of State for Foreign and Political Affairs indirectly elected by the Grand and General Council for a single 5-year term; election last held on 28 December 2019 (next to be held by November 2024)<br>
-_election results_: <em>March 2024:  </em>Alessandro ROSSI (Free San Marino) and Milena GASPERONI (We for the Republic) elected captains regent; percent of Grand and General Council vote - NA<em><br><br>September 2023:</em> Filippo TAMAGNINI and Gaetano TROINA elected captains regent; percent of Grand and General Council vote - NA<br><br><em>2019:</em> Luca BECCARI (PDCS) elected Secretary of State for Foreign and Political Affairs; percent of Grand and General Council vote - NA<br>
+_election results_: <em>March 2024:  </em>Alessandro ROSSI (Demos) and Milena GASPERONI (We for the Republic) elected captains regent; percent of Grand and General Council vote - NA<em><br><br>September 2023:</em> Filippo TAMAGNINI and Gaetano TROINA elected captains regent; percent of Grand and General Council vote - NA<br><br><em>2019:</em> Luca BECCARI (PDCS) elected Secretary of State for Foreign and Political Affairs; percent of Grand and General Council vote - NA<br>
 <strong>note:</strong> the captains regent preside over meetings of the Grand and General Council and its cabinet (Congress of State), which has 7 other members who are selected by the Grand and General Council; assisting the captains regent are 7 secretaries of state; the secretary of state for Foreign Affairs has some prime ministerial roles<br>
 
 **Legislative branch**<br>
 _description_: unicameral Grand and General Council or Consiglio Grande e Generale (60 seats; members directly elected in single- and multi-seat constituencies by list proportional representation vote in 2 rounds if needed; members serve 5-year terms)<br>
 _elections_: last held on 8 December 2019 (next to be held by 31 December 2024)<br>
-_election results_: <br>percent of vote by party/coalition - PDCS 35%, Tomorrow in Movement coalition 25% (RETE Movement 18.3%, DML 6.7%), Liberia 16.7%, We for the Republic 13.3%, RF 10%; seats by party/coalition - PDCS 21, Tomorrow in Movement coalition 15 (RETE Movement 11, DML 4), Liberia 10, We for the Republic 8, RF 6; composition as of February 2024 - men 41, women 19, percent of women 31.7%<br>
+_election results_: percent of vote by party/coalition - PDCS 35%, Tomorrow in Movement coalition 25% (RETE Movement 18.3%, DML 6.7%), Liberia 16.7%, We for the Republic 13.3%, RF 10%; seats by party/coalition - PDCS 21, Tomorrow in Movement coalition 15 (RETE Movement 11, DML 4), Liberia 10, We for the Republic 8, RF 6; composition as of February 2024 - men 41, women 19, percentage women 31.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Council of Twelve or Consiglio dei XII (consists of 12 members); note - the College of Guarantors for the Constitutionality and General Norms functions as San Marino's constitutional court<br>
@@ -295,7 +295,7 @@ _judge selection and term of office_: judges elected by the Grand and General Co
 _subordinate courts_: first instance and first appeal criminal, administrative, and civil courts; Court for the Trust and Trustee Relations; justices of the peace or conciliatory judges<br>
 
 **Political parties and leaders**<br>
-Domani - Modus Liberi or DML [Lorenzo Forcellini REFFI]<br>Free San Marino (Libera San Marino) or Libera [Luca BOSCHI]<br>Future Republic or RF [Mario VENTURINI]<br>I Elect for a New Republic<br>Party of Socialists and Democrats or PSD [Paride ANDREOLI]<br>RETE Movement [Gloria ARCANGELONI]<br>Sammarinese Christian Democratic Party or PDCS [Marco GATTI]<br>Socialist Party or PS [Alessandro BEVITORI]<br>Tomorrow in Movement coalition (includes RETE Movement, DML)<br>We for the Republic [Denise BRONZETTI]<br>
+Demos Party (Movimento Demos) [Alessandro ROSSI]<br>Domani - Modus Liberi or DML [Lorenzo Forcellini REFFI]<br>Free San Marino (Libera San Marino) or Libera [Luca BOSCHI]<br>Future Republic or RF [Mario VENTURINI]<br>I Elect for a New Republic<br>Party of Socialists and Democrats or PSD [Paride ANDREOLI]<br>RETE Movement [Gloria ARCANGELONI]<br>Sammarinese Christian Democratic Party or PDCS [Marco GATTI]<br>Socialist Party or PS [Alessandro BEVITORI]<br>Tomorrow in Movement coalition (includes RETE Movement, DML)<br>We for the Republic [Denise BRONZETTI]<br>
 
 **International organization participation**<br>
 CE, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ITU, ITUC (NGOs), LAIA (observer), OPCW, OSCE, Schengen Convention (de facto member), UN, UNCTAD, UNESCO, Union Latina, UNWTO, UPU, WHO, WIPO<br>
@@ -535,7 +535,4 @@ Military Corps (National Guard): Guard of the Rock (or Fortress Guard), Uniforme
 defense is the responsibility of Italy<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 

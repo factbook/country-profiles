@@ -248,8 +248,8 @@ _elections/appointments_: the monarchy is hereditary; governor appointed by the 
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly, formerly the Legislative Council (10 seats; 5 members directly elected from the Stanley constituency and 3 members from the Camp constituency, both by simple majority vote, 2 appointed non-voting ex-officio members - the chief executive, appointed by the governor, and the financial secretary; the attorney general and Commander British Forces South Atlantic Islands are also invited to attend; members serve 4-year terms)<br>
-_elections_: <br>last held on 4 November 2021 (next to be held in November 2025)<br>
-_election results_: <br>percent of vote - NA; seats - independent 8; composition of elected members - men 6, women 2, percentage women 25%<br>
+_elections_: last held on 4 November 2021 (next to be held in November 2025)<br>
+_election results_: percent of vote - NA; seats - independent 8; composition of elected members - men 6, women 2, percentage women 25% (does not include speaker)<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president, the chief justice as an ex officio non-resident member, and 2 justices of appeal); Supreme Court (consists of the chief justice); note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
@@ -491,7 +491,4 @@ no regular military forces<br>
 defense is the responsibility of the UK, which maintains about 1,200 troops on the islands (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>Argentina, which claims the islands in its constitution and briefly occupied them by force in 1982, agreed in 1995 to no longer seek settlement by force; UK continues to reject Argentine requests for sovereignty talks</p><br>
 

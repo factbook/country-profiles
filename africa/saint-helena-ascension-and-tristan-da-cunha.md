@@ -74,7 +74,7 @@ Saint Helena harbors at least 40 species of plants unknown elsewhere in the worl
 
 **Population**<br>
 7,935 (2023 est.)<br>
-<strong>note:</strong> Saint Helena's Statistical Office estimated the resident population to be 4,439 in 2021; only Saint Helena, Ascension, and Tristan da Cunha islands are inhabited, none of the other nearby islands/islets are<br>
+<strong>note:</strong> Saint Helena's Statistical Office estimated the resident population to be 4,439 in 2021; only Saint Helena, Ascension, and Tristan da Cunha islands are inhabited<br>
 
 **Nationality**<br>
 _noun_: Saint Helenian(s)<br>
@@ -262,7 +262,7 @@ _elections/appointments_: none; the monarchy is hereditary; governor appointed b
 **Legislative branch**<br>
 _description_: unicameral Legislative Council (17 seats including the speaker and deputy speaker; 12 members directly elected in a single countrywide constituency by simple majority vote and 3 ex-officio members - the chief secretary, financial secretary, and attorney general; members serve 4-year terms)<br>
 _elections_: last held on 13 October 2021 (next to be held in 2025)<br>
-_election results_: percent of vote - NA; seats by party - independent 12; composition - men 14, women 3, percent women 17.6%<br>
+_election results_: vote - NA; seats - independent 12; composition as of April 2024 - men 8, women 6, percent women 42.9%<br>
 <strong>note:</strong> the Constitution Order provides for separate Island Councils for both Ascension and Tristan da Cunha<br>
 
 **Judicial branch**<br>
@@ -472,7 +472,4 @@ the new airport on Saint Helena opened for limited operations in July 2016, and 
 defense is the responsibility of the UK<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 

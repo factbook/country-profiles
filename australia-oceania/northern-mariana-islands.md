@@ -265,8 +265,8 @@ _election results_: Arnold PALACIOS elected governor in second round; percent of
 
 **Legislative branch**<br>
 _description_: bicameral Northern Marianas Commonwealth Legislature consists of:<br>Senate (9 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>House of Representatives (20 seats; members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms)<br><br>the Northern Mariana Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term<br>
-_elections_: <br>CNMI Senate - last held on 8 November 2020 (next to be held on 5 November 2024)<br>CNMI House of Representatives - last held on 8 November 2022 (next to be held on 5 November 2024)<br>Commonwealth of Northern Mariana Islands delegate to the US House of Representatives - last held on 8 November 2022 (next to be held on 5 November 2024)<br>
-_election results_: <br>CNMI Senate - percent of vote by party - NA; seats by party - Republican Party 6, independent 3; composition as of January 2023 - men 6, women 3, percentage women 33.3%<br><br>CNMI House of Representatives - percent of vote by party - NA; seats by party - Republican Party 9, Democrat Party 8, independent 3; composition as of January 2023 - men 17, women 3, percentage women 15%; total Commonwealth Legislature percentage women 20.7%<br><br>Northern Mariana Islands delegate to US House of Representatives - seat won by independent; composition - 1 man<br>
+_elections_: CNMI Senate - last held on 8 November 2020 (next to be held on 5 November 2024)<br>CNMI House of Representatives - last held on 8 November 2022 (next to be held on 5 November 2024)<br>Commonwealth of Northern Mariana Islands delegate to the US House of Representatives - last held on 8 November 2022 (next to be held on 5 November 2024)<br>
+_election results_: CNMI Senate - percent of vote by party - NA; seats by party - Republican Party 6, independent 3; composition as of January 2023 - men 6, women 3, percentage women 33.3%<br><br>CNMI House of Representatives - percent of vote by party - NA; seats by party - Republican Party 9, Democrat Party 8, independent 3; composition as of January 2023 - men 17, women 3, percentage women 15%; total Commonwealth Legislature percentage women 20.7%<br><br>Northern Mariana Islands delegate to US House of Representatives - seat won by independent; composition - 1 man<br>
 <strong id="tinymce" class="mce-content-body " style="font-size: 18px;" contenteditable="true" spellcheck="false" data-id="field_notes">note:</strong> the Northern Mariana Islands delegate to the US House of Representatives can vote when serving on a committee and when the House meets as the "Committee of the Whole House" but not when legislation is submitted for a “full floor” House vote<br>
 
 **Judicial branch**<br>
@@ -482,7 +482,4 @@ _major seaport(s)_: Saipan, Tinian, Rota<br>
 defense is the responsibility of the US<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 

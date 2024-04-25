@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-The island - "discovered" by Christopher COLUMBUS in 1494 - was settled by the Spanish early in the 16th century. The Native Taino, who had inhabited Jamaica for centuries, were gradually exterminated and replaced by African slaves. England seized the island in 1655 and established a plantation economy based on sugar, cocoa, and coffee. The abolition of slavery in 1834 freed a quarter million slaves, many of whom became small farmers. Jamaica gradually increased its independence from Britain. In 1958, it joined other British Caribbean colonies in forming the Federation of the West Indies. Jamaica withdrew from the Federation in 1961 and gained full independence in 1962. Deteriorating economic conditions during the 1970s led to recurrent violence as rival gangs affiliated with the major political parties evolved into powerful organized crime networks involved in international drug smuggling and money laundering. Violent crime, drug trafficking, corruption, the COVID-19 pandemic, and poverty pose significant challenges to the government today. Nonetheless, many rural and resort areas remain relatively safe and contribute substantially to the economy.<br>
+Europeans first saw Jamaica when Christopher COLUMBUS arrived in 1494, and the Spanish settled the island early in the 16th century. The Native Taino, who had inhabited Jamaica for centuries, were gradually exterminated and replaced with African slaves. England seized the island in 1655 and established a plantation economy based on sugar, cocoa, and coffee. The abolition of slavery in 1834 freed a quarter-million slaves, many of whom became small farmers. Jamaica gradually increased its independence from Britain. In 1958, it joined other British Caribbean colonies in forming the Federation of the West Indies. Jamaica withdrew from the Federation in 1961 and gained full independence in 1962. Deteriorating economic conditions during the 1970s led to recurring violence as rival gangs affiliated with the major political parties evolved into powerful organized crime networks involved in international drug smuggling and money laundering. Violent crime, drug trafficking, corruption, and poverty pose significant challenges to the government today. Nonetheless, many rural and resort areas remain relatively safe and contribute substantially to the economy.<br>
 
 ## Geography
 
@@ -321,8 +321,8 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (21 seats; 13 members appointed by the governor general on the advice of the prime minister and 8 members appointed by the governor general on the advice of the opposition party leader; members serve 5-year terms (no term limits) or until Parliament is dissolved)<br>House of Representatives (63 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms (no term limits) or until Parliament is dissolved)<br>
-_elections_: <br>Senate - last full slate of appointments early on 3 September 2020 (next full slate in 2025)<br>House of Representatives - last held on 3 September 2020 (next to be held in 2025)<br>
-_election results_: <br>Senate - percent by party - NA; seats by party - NA; composition as of February 2024 - men 13, women 8, percentage women 38.1%<br><br>House of Representatives - percent of vote by party - JLP 57%, PNP 42.8%, independent 0.2%; seats by party - JLP 48, PNP 15; composition as of February 2024 - men 45, women 14; percentage women 23.7%; note - total Parliament percentage women 27.5%<br>
+_elections_: Senate - last full slate of appointments early on 3 September 2020 (next full slate in 2025)<br>House of Representatives - last held on 3 September 2020 (next to be held in 2025)<br>
+_election results_: Senate - percent by party - NA; seats by party - NA; composition as of February 2024 - men 13, women 8, percentage women 38.1%<br><br>House of Representatives - percent of vote by party - JLP 57%, PNP 42.8%, independent 0.2%; seats by party - JLP 48, PNP 15; composition as of February 2024 - men 45, women 14; percentage women 23.7%; note - total Parliament percentage women 27.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of president of the court and a minimum of 4 judges); Supreme Court (40 judges organized in specialized divisions); note - appeals beyond Jamaica's highest courts are referred to the Judicial Committee of the Privy Council (in London) rather than to the Caribbean Court of Justice (the appellate court for member states of the Caribbean Community)<br>
@@ -348,8 +348,8 @@ _consulate(s)_: Atlanta, Boston, Chicago, Concord (MA), Houston, Los Angeles, Ph
 _chief of mission_: Ambassador N. Nickolas PERRY (since 13 May 2022)<br>
 _embassy_: 142 Old Hope Road, Kingston 6<br>
 _mailing address_: 3210 Kingston Place, Washington DC&nbsp; 20521-3210<br>
-_telephone_: (876) 702-6000 (2018)<br>
-_FAX_: (876) 702-6348 (2018)<br>
+_telephone_: (876) 702-6000<br>
+_FAX_: (876) 702-6348<br>
 _email address and website_: <br>KingstonACS@state.gov<br><br>https://jm.usembassy.gov/<br>
 
 **Flag description**<br>
@@ -671,9 +671,6 @@ the JDF is lightly armed with a limited inventory featuring equipment mostly fro
 in addition to its responsibility of defending against external aggression, the JDF's primary missions are border, internal, and maritime security, including support to police operations in combating crime and violence; other missions include search and rescue, disaster response, humanitarian assistance, and peacekeeping; it has arrest authority and partners with the Jamaica Constabulary Force (JCF); both the JDF and JCF are under the Ministry of National Security, which directs policy for the security forces; the JDF participates in bilateral and multinational training exercises, including with the militaries of Canada, the UK, the US, and other Caribbean nations <br><br>while Jamaica had a militia force as early as the 1660s, the JDF was constituted in 1962 from the West India Regiment (WIR), a British colonial regiment which dates back to 1795; troops for the WIR were recruited from freed slaves from North America, slaves purchased in the West Indies, and slaves from Africa bought off slave ships (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 
 **Illicit drugs**<br>
 <p>Jamaica is the largest Caribbean source of marijuana and a transit point for cocaine trafficked from South America to North America and other international markets; criminal gangs in Jamaica, Haiti, and Central America use marijuana for currency to obtain guns or other contraband from criminal entities in Haiti and Central America</p><br>

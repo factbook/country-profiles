@@ -348,7 +348,7 @@ _election results_: <br><em>2021:</em> Patrice TALON reelected president in the 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (109 seats, including 24 seats reserved for women; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms except for the current members whose terms will end in 2026 to facilitate general elections)<br>
 _elections_: last held on 8 January 2023 (next to be held on 11 January 2027)<br>
-_election results_: percent of vote by party - Progressive Union for Renewal 37.6%, Bloc Republicain 29.2%, The Democrats 24%; seats by party - Progressive Union for Renewal 53, Bloc Republicain 28, The Democrats 28; composition as of May 2023 - men 80, women 29, percent of women 26.6%<br>
+_election results_: percent of vote by party - Progressive Union for Renewal 37.6%, Bloc Republicain 29.2%, The Democrats 24%; seats by party - Progressive Union for Renewal 53, Bloc Republicain 28, The Democrats 28; composition as of February 2024 - men 80, women 29, percentage women 26.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of the chief justice and 16 justices organized into an administrative division, judicial chamber, and chamber of accounts); Constitutional Court or Cour Constitutionnelle (consists of 7 members, including the court president); High Court of Justice (consists of the Constitutional Court members, 6 members appointed by the National Assembly, and the Supreme Court president); note - jurisdiction of the High Court of Justice is limited to cases of high treason by the national president or members of the government while in office<br>
@@ -702,9 +702,6 @@ the FAB is equipped with a small mix of mostly older or secondhand French, Sovie
 **Military service age and obligation**<br>
 18-35 years of age for voluntary and selective compulsory military service for men and women; a higher education diploma is required; conscript service is 18 months (2023)<br>
 
-**Military deployments**<br>
-250 Mali (MINUSMA) (2023)<br>
-
 **Military - note**<br>
 a key focus for the security forces of Benin is countering infiltrations into the country by terrorist groups tied to al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS) operating just over the border from northern Benin in Burkina Faso and Niger; in May 2022, the Benin Government said it was "at war" after suffering a series of attacks from these groups; later that same year, President TALON said his government would spend more than $130 million to recruit up to 4,000 additional military personnel, modernize military equipment, and build and fortify operating bases; in addition, the FAB participates in the Multinational Joint Task Force (MNJTF) along with Cameroon, Chad, Niger, and Nigeria against Boko Haram and ISIS-West Africa in the general area of the Lake Chad Basin and along Nigeria's northeastern border <br><br>the FAB has a close working relationship with the Belgian armed forces; the Belgians offer military advice, training, and second-hand equipment donations, and deploy to Benin for limited military exercises (2023)<br>
 
@@ -715,9 +712,6 @@ al-Qa’ida (Jama’at Nusrat al Islam wal Muslimeen); Islamic State in the Grea
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Benin-Burkina Faso:</em> Benin retains a border dispute with Burkina Faso near the town of Koualau/Kourou<em><br><br>Benin-Togo:</em> talks continue between Benin and Togo on funding the Adjarala hydroelectric dam on the Mona River<br><br><em>Benin-Niger:</em> the location of Benin-Niger-Nigeria tripoint is unresolved</p><br>
 
 **Illicit drugs**<br>
 <p>a significant transit and departure country for cocaine shipments in Africa destined for Europe</p><br>

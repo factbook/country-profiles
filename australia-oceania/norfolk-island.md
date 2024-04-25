@@ -231,7 +231,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 
 **Legislative branch**<br>
 _description_: unicameral Norfolk Island Regional Council (5 seats; councillors directly elected by simple majority vote to serve 4-year terms); mayor elected annually by the councillors<br>
-_elections_: <br>last held on 28 May 2016 (next originally scheduled for 13 March 2021 was postponed); note - on 6 December 2021, the councilors of the Norfolk Island Regional Council were formally dismissed by the assistant minister who was appointed as Administrator of the Council until 2024<br>
+_elections_: last held on 28 May 2016 (next originally scheduled for 13 March 2021 but was postponed); note - on 6 December 2021, the councilors of the Norfolk Island Regional Council were formally dismissed by the assistant minister who was appointed as Administrator of the Council until 2024<br>
 _election results_: seats by party - independent 5; composition - men 4, women 1, percentage women 20%<br>
 
 **Judicial branch**<br>
@@ -340,7 +340,4 @@ _major seaport(s)_: Kingston<br>
 defense is the responsibility of Australia<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 

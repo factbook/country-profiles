@@ -264,7 +264,7 @@ _elections/appointments_: the monarch is hereditary; governor appointed by the m
 **Legislative branch**<br>
 _description_: unicameral Parliament of Curacao (21 seats; members directly elected by party-list proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 19 March 2021 (next to be held in 2025)<br>
-_election results_: <br>percent of vote by party - MFK 27.8%, PAR 13.9%, PNP 12.5%, MAN 6.4%, KEM 5.4%, TPK 5.2%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition as of January 2024 - men 15, women 6, percent of women 28.6%<br>
+_election results_: percent of vote by party - MFK 27.8%, PAR 13.9%, PNP 12.5%, MAN 6.4%, KEM 5.4%, TPK 5.2%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition as of April 2024 - men 15, women 6, percent of women 28.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court, in The Hague, Netherlands<br>
@@ -502,9 +502,6 @@ no regular military forces; Curacao Militia (CURMIL); Police Department for loca
 defense is the responsibility of the Kingdom of the Netherlands; the Dutch Government controls foreign and defense policy; the Dutch Caribbean Coast Guard (DCCG) provides maritime security (2024)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-none identified<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,000 (Venezuela) (2022)<br>

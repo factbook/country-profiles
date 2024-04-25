@@ -378,8 +378,8 @@ _elections/appointments_: the monarchy is hereditary; prime minister appointed b
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>House of Councillors or Majlis al-Mustacharine (120 seats; members indirectly elected by an electoral college of local councils, professional organizations, and labor unions; members serve 6-year terms)<br>House of Representatives or Majlis al-Nuwab (395 seats; 305 members directly elected in multi-seat constituencies by proportional representation vote and 90 directly elected in a single nationwide constituency by proportional representation vote; members serve 5-year terms); note - 60 seats reserved for women and 30 seats for those under age 40 in regional multi-seat constituencies, with the seats divided proportionally among the 12 regions by population size of the region<br>
-_elections_: <br>House of Councillors - last held on 5 October 2021 (next to be held by 31 October 2027)<br>House of Representatives - last held on 8 September 2021 (next to be held by 30 September 2026)<br>
-_election results_: <br>House of Councillors - percent of vote by party - NA; seats by party - RNI 27, PAM 19, PI 17, MP 12, USFP 8, UGIM 6, CDT 3, PJD 3, UC 2, UMT 2, Amal 1, FDT 1, MDS 1, PRD 1, independent 1; composition as of February 2024 - men 106, women 14, percentage women 11.7%<br><br>House of Representatives - percent of vote by party NA; seats by party - RNI 102, PAM 87, PI 81, USFP 34, MP 28, PPS 22, UC 18, PJD 13, MDS 5, other 5; composition as of February 2024 - men 299, women 96, percentage women 24.3%; total Parliament percentage women 21.4%<br>
+_elections_: House of Councillors - last held on 5 October 2021 (next to be held by 31 October 2027)<br>House of Representatives - last held on 8 September 2021 (next to be held by 30 September 2026)<br>
+_election results_: House of Councillors - percent of vote by party - NA; seats by party - RNI 27, PAM 19, PI 17, MP 12, USFP 8, UGIM 6, CDT 3, PJD 3, UC 2, UMT 2, Amal 1, FDT 1, MDS 1, PRD 1, independent 1; composition as of February 2024 - men 106, women 14, percentage women 11.7%<br><br>House of Representatives - percent of vote by party NA; seats by party - RNI 102, PAM 87, PI 81, USFP 34, MP 28, PPS 22, UC 18, PJD 13, MDS 5, other 5; composition as of February 2024 - men 299, women 96, percentage women 24.3%; total Parliament percentage women 21.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Court of Cassation (consists of 5-judge panels organized into civil, family matters, commercial, administrative, social, and criminal sections); Constitutional Court (consists of 12 members)<br>
@@ -764,9 +764,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Morocco-Algeria</em>: Algeria's border with Morocco remains an irritant to bilateral relations, each nation accusing the other of harboring militants and arms smuggling</p> <p><em>Morocco-Mauritania</em>: tensions arose in 2016 when Mauritanian soldiers were deployed to Lagouira, a city in the southernmost part of Morocco, and raised their flag</p> <p><em>Morocco-Spain</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and Penon de Velez de la Gomera, the islands of Penon de Alhucemas and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island); discussions have not progressed on a comprehensive maritime delimitation, setting limits on resource exploration and refugee interdiction, since Morocco's 2002 rejection of Spain's unilateral designation of a median line from the Canary Islands; Morocco serves as one of the primary launching areas of illegal migration into Spain from North Africa</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,250 (Syria) (mid-year 2022)<br>

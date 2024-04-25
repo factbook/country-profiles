@@ -5,7 +5,7 @@ _Central Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Ethnic Kazakhs derive from a mix of Turkic nomadic tribes that migrated to the region in the 15th century. The Kazakh steppe was conquered by the Russian Empire in the 18th and 19th centuries, and Kazakhstan became a Soviet Republic in 1925. Repression and starvation caused by forced agricultural collectivization led to more than a million deaths in the early 1930s. During the 1950s and 1960s, the agricultural "Virgin Lands" program led to an influx of settlers (mostly ethnic Russians, but also other nationalities) and at the time of Kazakhstan’s independence in 1991, ethnic Kazakhs were a minority. Non-Muslim ethnic minorities departed Kazakhstan in large numbers from the mid-1990s through the mid-2000s and a national program has repatriated about a million ethnic Kazakhs (from Uzbekistan, Tajikistan, Mongolia, and the Xinjiang region of China) back to Kazakhstan. As a result of this shift, the ethnic Kazakh share of the population now exceeds two-thirds.<br><br>Kazakhstan's economy is the largest in Central Asia, mainly due to the country's vast natural resources. Current issues include: diversifying the economy, attracting foreign direct investment, enhancing Kazakhstan's economic competitiveness, and strengthening economic relations with neighboring states and foreign powers.</p> <p> </p><br>
+<p>Ethnic Kazakhs derive from a mix of Turkic nomadic tribes that migrated to the region in the 15th century. The Russian Empire conquered the Kazakh steppe in the 18th and 19th centuries, and Kazakhstan became a Soviet Republic in 1925. Forced agricultural collectivization led to repression and starvation, resulting in more than a million deaths in the early 1930s. During the 1950s and 1960s, the agricultural "Virgin Lands" program generated an influx of settlers -- mostly ethnic Russians, but also other nationalities -- and by the time of Kazakhstan’s independence in 1991, ethnic Kazakhs were a minority. However, non-Muslim ethnic minorities departed Kazakhstan in large numbers from the mid-1990s through the mid-2000s, and a national program has repatriated about a million ethnic Kazakhs (from Uzbekistan, Tajikistan, Mongolia, and the Xinjiang region of China) to Kazakhstan. As a result of this shift, the ethnic Kazakh share of the population now exceeds two-thirds.<br><br>Kazakhstan's economy is the largest in Central Asia, mainly due to the country's vast natural resources. Current issues include diversifying the economy, attracting foreign direct investment, enhancing Kazakhstan's economic competitiveness, and strengthening economic relations with neighboring states and foreign powers.</p> <p> </p><br>
 
 ## Geography
 
@@ -350,8 +350,8 @@ _election results_: <em>2024: </em>Olzhas BEKTENOV elected as prime minister; 69
 
 **Legislative branch**<br>
 _description_: bicameral Parliament of the Republic of Kazakhstan consists of:<br>Senate (50 seats); 40 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 10 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (98 seats; 69 members directly elected in a single national constituency by party list proportional representation vote (5% minimum threshold to gain seats) and 29 directly elected in single-seat constituencies to serve 5-year terms<br>
-_elections_: <br>Senate - last held on 14 January 2023 (next to be held in 2026)<br>Mazhilis - last held on 19 March 2023 (next to be held in 2026)<br>
-_election results_: <strong><br></strong>Senate - percent of vote by party - NA; seats by party - NA; composition (as of April 2023) - men 38, women 12, percentage women 24%<br><br>Mazhilis - percent of vote by party - Nur Otan 53.9%, Auvl 10.9%, Respublica 8.6%, Ak Zhol 8.4%, QHP 6.8%, NSDP 5.2%, Baytak 2.3%, Against all 3.9%; percent of vote by party (single-mandate districts) - Nur Otan 75.9%, independent 24%; seats by party - Nur Otan 62, Auvl 8, Respublica 6, Ak Zhol 6, QHP 5, NSDP 4, independent 7; composition as of March 2023 - men 79, women 19, percentage women 18.4%; note - total Parliament percentage women 20.9%<br>
+_elections_: Senate - last held on 14 January 2023 (next to be held in 2026)<br>Mazhilis - last held on 19 March 2023 (next to be held in 2026)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition as of March 2024 - men 38, women 12, percentage women 24%<br><br>Mazhilis - percent of vote by party - Nur Otan 53.9%, Auvl 10.9%, Respublica 8.6%, Ak Zhol 8.4%, QHP 6.8%, NSDP 5.2%, Baytak 2.3%, Against all 3.9%; percent of vote by party (single-mandate districts) - Nur Otan 75.9%, independent 24%; seats by party - Nur Otan 62, Auvl 8, Respublica 6, Ak Zhol 6, QHP 5, NSDP 4, independent 7; composition as of March 2024 - men 79, women 19, percentage women 18.4%; note - total Parliament percentage women 20.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Republic (consists of 44 members); Constitutional Council (consists of the chairperson and 6 members)<br>
@@ -370,12 +370,12 @@ _chancery_: 1401 16th Street NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 232-5488<br>
 _FAX_: [1] (202) 232-5845<br>
 _email address and website_: <br>washington@mfa.kz<br><br>https://www.gov.kz/memleket/entities/mfa-washington?lang=en<br>
-_consulate(s) general_: New York<br>
+_consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Daniel N. ROSENBLUM (since 14 November 2022)<br>
 _embassy_: Rakhymzhan Koshkarbayev Avenue, No. 3, Astana 010010<br>
-_mailing address_: 2230 Astana, Washington DC&nbsp; 20521-2230<br>
+_mailing address_: 2230 Astana Place, Washington DC&nbsp; 20521-2230<br>
 _telephone_: [7] (7172) 70-21-00<br>
 _FAX_: [7] (7172) 54-09-14<br>
 _email address and website_: <br>USAKZ@state.gov<br><br>https://kz.usembassy.gov/<br>
@@ -741,9 +741,6 @@ has an active and ambitious space program that originated with the former Soviet
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Kazakhstan-China</em>: in 1998, Kazakhstan and China agreed to split two disputed border areas nearly evenly; demarcation with China completed in 2002</p> <p><em>Kazakhstan-Kyrgyzstan</em>: in January 2019, Kyrgyzstan ratified the 2017 agreement on the demarcation of the Kyrgyzstan-Kazakhstan border</p> <p><em>Kazakhstan-Russia</em>: Russia boundary delimitation was ratified on November 2005; field demarcation commenced in 2007 and was expected to be completed by 2013</p> <p><em>Kazakhstan-Turkmenistan</em>: Kazakhstan and Turkmenistan signed a treaty on the delimitation and demarcation process in 2001; field demarcation of the boundaries with Kazakhstan commenced in 2005; Turkmenistan and Kazakhstan agreed to their border in the Caspian Sea in 2014</p> <p><em>Kazakhstan-Uzbekistan</em>: field demarcation of the boundaries with Kazakhstan commenced in 2004; disputed territory is held by Uzbekistan but the overwhelming majority of residents are ethnic Kazakhs; the two countries agreed on draft final demarcation documents in March 2022 and planned to hold another meeting in April 2022<br><br><em>Kazakhstan-Azerbaijan-Iran-Russia: </em>Azerbaijan, Kazakhstan, and Russia ratified a Caspian seabed delimitation treaty in 2018 based on equidistance, while Iran continues to insist on a one-fifth slice of the sea </p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 7,558 (2022)<br>

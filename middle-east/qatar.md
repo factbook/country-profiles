@@ -327,8 +327,8 @@ _elections/appointments_: the monarchy is hereditary; prime minister and deputy 
 
 **Legislative branch**<br>
 _description_: unicameral Advisory Council or Majlis al-Shura (45 seats; 30 members directly elected by popular vote for 4-year re-electable terms; 15 members appointed by the monarch to serve until resignation or until relieved; note - legislative drafting authority rests with the Council of Ministers and is reviewed by the Advisory Council<br>
-_elections_: first election held for 30 elected members on 2 October 2021 (next to be held in 2025); date of appointed members - 14 October 2021 (next appointments - NA)<br>
-_election results_: 30 nonpartisan members elected; composition - men 30, women 0 <br>15 appointed members; composition men 13, women 2, percent of women 13.3%<br>
+_elections_: last held for 30 elected members on 2 October 2021 (next to be held in 2025); last members appointed - 14 October 2021 (next appointments - NA)<br>
+_election results_: 30 nonpartisan members elected; composition - men 30, women 0, percentage women 0%<br><br>15 appointed members; composition men 13, women 2, percentage women 13.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Court of Cassation (consists of the court president and several judges); Supreme Constitutional Court (consists of the chief justice and 6 members)<br>
@@ -685,9 +685,6 @@ the QAF is a small and well-equipped force that is responsible for defense again
 ## Terrorism
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 1,200 (2022)<br>

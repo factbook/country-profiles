@@ -326,8 +326,8 @@ _cabinet_: Cabinet appointed by the monarch<br>
 
 **Legislative branch**<br>
 _description_: bicameral Council of Oman or Majlis Oman consists of:<br>Council of State or Majlis al-Dawla (87 seats including the chairman; members appointed by the sultan from among former government officials and prominent educators, businessmen, and citizens; members serve 4-year term)<br>Consultative Assembly or Majlis al-Shura (90 seats; members directly elected in single- and 2-seat constituencies by simple majority popular vote to serve renewable 4-year terms)<br>
-_elections_: <br>Council of State - last appointments on 8 November 2023 (next appointments in November 2027)<br>Consultative Assembly - last held on 29 October 2023 (next to be held in October 2027)<br>
-_election results_: <br>Council of State - 87 nonpartisan members were appointed by the sultan; composition - men 68, women 18, percentage women 20.9%<br><br>Consultative Assembly percent of vote by party - NA; seats by party - NA; 90 nonpartisan members were elected (organized political parties in Oman are legally banned); composition - 90 men, 0 women, percentage women 0%; total Council of Oman percent age women 10.2%<br>
+_elections_: Council of State - last appointments on 8 November 2023 (next appointments in November 2027)<br>Consultative Assembly - last held on 29 October 2023 (next to be held in October 2027)<br>
+_election results_: Council of State - 87 nonpartisan members were appointed by the sultan; composition as of February 2024 - men 68, women 18, percentage women 20.9%<br><br>Consultative Assembly percent of vote by party - NA; seats by party - NA; 90 nonpartisan members were elected (organized political parties in Oman are legally banned); composition - 90 men, 0 women, percentage women 0%; total Council of Oman percentage women 10.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 5 judges)<br>
@@ -689,9 +689,6 @@ has a nascent space program focused on the acquisition of satellites and satelli
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Oman-Saudi Arabia</em>: none identified</p> <p><em>Oman-UAE</em>: boundary agreement reportedly signed and ratified with UAE in 2003 for entire border, including Oman's Musandam Peninsula and Al Madhah exclave, but details of the alignment have not been made public; Oman and UAE signed the final demarcation of their land border in 2008</p> <p><em>Oman-Yemen</em>: Oman and Yemen signed a border agreement in 1992; demarcation of their border was completed in 1995</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,000 (Yemen) (2017)<br>

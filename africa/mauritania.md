@@ -359,8 +359,8 @@ _election results_: <em><br>2019:</em> Mohamed Ould Cheikh El GHAZOUANI elected 
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Barlamane consists of the National Assembly or Al Jamiya Al Wataniya (176 seats statutory; 88 members filled from one or two seat constituencies elected by a two-round majority system and the other 88 members filled from a single, nationwide constituency directly elected by proportional representation vote); 20 seats are reserved for women candidates in the nationwide constituency, 11 seats are reserved for young candidates (aged between 25 and 35), and 4 members directly elected by the diaspora; all members serve 5-year terms<br>
-_elections_: <br>last held on 13 May 2023 with a second round on 27 May 2023 (next to be held in May 2028)<br>
-_election results_: <br>National Assembly - percent of vote by party - NA; seats by party - El Insaf 107, Tawassoul 11, UDP 10, FRUD 7, El Islah 6, AND 6, El Karama 5, Nida Al-Watan 5, Sawab 5, AJD/MR 4, HIWAR 3, HATEM 3, El Vadila 2, UPC 1, Hakam 1; composition as of February 2024 - men 135, women 41, percentage women 23.3%<br>
+_elections_: last held on 13 May 2023 with a second round on 27 May 2023 (next to be held in May 2028)<br>
+_election results_: National Assembly - percent of vote by party - NA; seats by party - El Insaf 107, Tawassoul 11, UDP 10, FRUD 7, El Islah 6, AND 6, El Karama 5, Nida Al-Watan 5, Sawab 5, AJD/MR 4, HIWAR 3, HATEM 3, El Vadila 2, UPC 1, Hakam 1; composition as of February 2024 - men 135, women 41, percentage women 23.3%<br>
 <strong>note:</strong> the early parliamentary elections in 2023 were the first to be held under President Mohamed Ould Cheikh El GHAZOUANI, elected in 2019 in the first peaceful transition of power; the elections followed the agreement between the government and parties in September 2022 to renew the Independent National Electoral Commission (CENI) and hold the elections in the first semester of 2023 for climatic and logistical reasons<br>
 
 **Judicial branch**<br>
@@ -369,7 +369,7 @@ _judge selection and term of office_: Supreme Court president appointed by the p
 _subordinate courts_: Courts of Appeal; courts of first instance or wilya courts are established in the regions' headquarters and include commercial and labor courts, criminal courts, Moughataa (district) Courts, and informal/customary courts<br>
 
 **Political parties and leaders**<br>
-Alliance for Justice and Democracy/Movement for Renewal or AJD/MR [Ibrahima Moctar SARR]<br>El Insaf or Equity Party [Mohamed Melainine Ould EYIH]<br>El Islah or Reform Party [Mohamed Ould TALEBNA]<br>El Karama or Dignity Party [Cheikhna Ould Mohamed Ould HAJBOU]<br>El Vadila or Virtue Party [Ethmane Ould Cheikh Ahmed Eboul MEALY]<br>Mauritanian Party of Union and Change or HATEM [Saleh Ould HANENNA]<br>National Democratic Alliance or AND [Yacoub Ould MOINE]<br>National Rally for Reform and Development or RNRD or TAWASSOUL [Hamadi Ould Sidi MOKHTAR]<br>Nida El-Watan [Daoud Ould Ahmed AICHA]<br>Party for Conciliation and Prosperity or HIWAR [Valle Mint Mini]<br>Party of the Mauritanian Masses or Hakam [El Khalil Ould ENNAHOUI]<br>Republican Front for Unity and Democracy or FRUD [Kadiata Malick DIALLO]<br>Sawab Party [Ahmed Salem Ould HORMA]<br>Union for Democracy and Progress or UDP [Naha Mint MOUKNASS]<br>Union of Planning and Construction or UPC [Qari Ould Mohamed ABDALLAHI]<br>
+Alliance for Justice and Democracy/Movement for Renewal or AJD/MR [Ibrahima Moctar SARR]<br>El Insaf or Equity Party [Mohamed Melainine Ould EYIH]<br>El Islah or Reform Party [Mohamed Ould TALEBNA]<br>El Karama or Dignity Party [Cheikhna Ould Mohamed Ould HAJBOU]<br>El Vadila or Virtue Party [Ethmane Ould Cheikh Ahmed Eboul MEALY]<br>Mauritanian Party of Union and Change or HATEM [Saleh Ould HANENNA]<br>National Democratic Alliance or AND [Yacoub Ould MOINE]<br>National Rally for Reform and Development or RNRD or TAWASSOUL [Hamadi Ould Sidi MOKHTAR]<br>Nida El-Watan [Daoud Ould Ahmed AICHA]<br>Party for Conciliation and Prosperity or HIWAR [Valle Mint MINI]<br>Party of the Mauritanian Masses or Hakam [El Khalil Ould ENNAHOUI]<br>Republican Front for Unity and Democracy or FRUD [Kadiata Malick DIALLO]<br>Sawab Party [Ahmed Salem Ould HORMA]<br>Union for Democracy and Progress or UDP [Naha Mint MOUKNASS]<br>Union of Planning and Construction or UPC [Qari Ould Mohamed ABDALLAHI]<br>
 
 **International organization participation**<br>
 ABEDA, ACP, AfDB, AFESD, AIIB, AMF, AMU, AU, CAEU, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -722,9 +722,6 @@ founded in 1960, the Mauritanian military is responsible for territorial defense
 Al-Qa'ida in the Islamic Maghreb (AQIM)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Mauritania-Algeria</em>: none identified</p> <p><em>Mauritania-Mali</em>: there are no border disputes, but the border has not been demarcated; talks on demarcation were reportedly being held in February 2022</p> <p><em>Mauritania-Morocco</em>: Mauritanian claims to Western Sahara remain dormant; tensions arose in 2016 when Mauritanian soldiers were deployed to Lagouira, a city in the southernmost part of Morocco, and raised their flag</p> <p><em>Mauritania-Senegal</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 26,000 (Sahrawis) (2021); 104,080 (Mali) (2023)<br>

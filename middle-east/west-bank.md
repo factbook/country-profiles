@@ -562,9 +562,6 @@ Al-Aqsa Martyrs Brigade; HAMAS; Kahane Chai; Palestine Islamic Jihad; Palestine 
 
 ## Transnational Issues
 
-**Disputes - international**<br>
-<p><em>West Bank-Israel</em>: West Bank is Israeli-occupied with current status subject to the Israeli-Palestinian Interim Agreement - permanent status to be determined through further negotiation; in 2002, Israel began construction of a "seam line" separation barrier along parts of the Green Line and within the West Bank; as of mid-2020, plans were to continue barrier construction</p><br>
-
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 901,000 (Palestinian refugees) (2022)<br>
 _IDPs_: 12,000 (includes persons displaced within the Gaza strip due to the intensification of the Israeli-Palestinian conflict since June 2014 and other Palestinian IDPs in the Gaza Strip and West Bank who fled as long ago as 1967, although confirmed cumulative data do not go back beyond 2006) (2022); note - data represent Gaza Strip and West Bank<br>

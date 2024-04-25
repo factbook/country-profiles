@@ -85,10 +85,10 @@ _noun_: Somali(s)<br>
 _adjective_: Somali<br>
 
 **Ethnic groups**<br>
-Somali 85%, Bantu and other non-Somali 15% (including 30,000 Arabs)<br>
+predominantly Somali with lesser numbers of Arabs, Bantus, and others<br>
 
 **Languages**<br>
-Somali (official, according to the 2012 Transitional Federal Charter), Arabic (official, according to the 2012 Transitional Federal Charter), Italian, English<br>
+Somali (official), Arabic (official), Italian, English<br>
 _major-language sample(s)_: <br>Buugga Xaqiiqda Aduunka, waa laga maarmaanka macluumaadka assasiga. (Somali)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -299,7 +299,7 @@ Foundation of the Somali Republic, 1 July (1960); note - 26 June (1960) in Somal
 
 **Constitution**<br>
 _history_: previous 1961, 1979; latest drafted 12 June 2012, adopted 1 August 2012 (provisional)<br>
-_amendments_: proposed by the federal government, by members of the state governments, the Federal Parliament, or by public petition; proposals require review by a joint committee of Parliament with inclusion of public comments and state legislatures&rsquo; comments; passage requires at least two-thirds majority vote in both houses of Parliament and approval by a majority of votes cast in a referendum; constitutional clauses on Islamic principles, the federal system, human rights and freedoms, powers and authorities of the government branches, and inclusion of women in national institutions cannot be amended; note - in late December 2020, the president signed a decree blocking the approval of amendments<br>
+_amendments_: proposed by the federal government, by members of the state governments, the Federal Parliament, or by public petition; proposals require review by a joint committee of Parliament with inclusion of public comments and state legislatures&rsquo; comments; passage requires at least two-thirds majority vote in both houses of Parliament and approval by a majority of votes cast in a referendum; constitutional clauses on Islamic principles, the federal system, human rights and freedoms, powers and authorities of the government branches, and inclusion of women in national institutions cannot be amended; amended 2024<br>
 
 **Legal system**<br>
 mixed legal system of civil law, Islamic (sharia) law, and customary law (referred to as Xeer)<br>
@@ -314,20 +314,20 @@ _dual citizenship recognized_: no<br>
 _residency requirement for naturalization_: 7 years<br>
 
 **Suffrage**<br>
-18 years of age; universal<br>
+18 years of age; universal&nbsp;suffrage starting with 24 June 2024 local elections<br>
 
 **Executive branch**<br>
 _chief of state_: President HASSAN SHEIKH Mohamud (since 23 May 2022)<br>
 _head of government_: Prime Minister Hamza Abdi BARRE (since 25 June 2022)<br>
 _cabinet_: Cabinet appointed by the prime minister, approved by the House of the People<br>
-_elections/appointments_: president indirectly elected by the Federal Parliament by two-thirds majority vote in 2 rounds if needed for a single 4-year term; election last held on 15 May 2022 (next to be held in 2026); prime minister appointed by the president, approved by the House of the People; note - elections were originally scheduled for 10 October 2021 but did not take place; on 13 April 2022, the election of the House of the People representatives was completed and the presidential election date was set for 15 May 2022<br>
+_elections/appointments_: president indirectly elected by the Federal Parliament by two-thirds majority vote in 2 rounds if needed for a single 4-year term; election last held on 15 May 2022 (next to be held in 2026); prime minister appointed by the president, approved by the House of the People<br>
 _election results_: <em><br>2022:</em> HASSAN SHEIKH Mohamud elected president in third round - Federal Parliament percent of vote in first round - Said ABDULLAHI DENI (Kaah) 20.2%, Mohamed ABDULLAHI Mohamed "Farmaajo" (TPP) 18.3%, HASSAN SHEIKH Mohamud (PDP) 16.2%, Hassan Ali KHAYRE (independent) 14.6%, other 30.7%; Federal Parliament percent of vote in second round - HASSAN SHEIKH Mohamud 34.1%, Mohamed ABDULLAHI Mohamed "Farmaajo" 25.7%, Said ABDULLAHI DENI 21%, Hassan Ali KHAYRE 19.2%; Federal Parliament percent of vote in third round - HASSAN SHEIKH Mohamud  66%, Mohamed ABDULLAHI Mohamed "Farmaajo" 34%<br><br><em>2017:</em> Mohamed ABDULLAHI Mohamed "Farmaajo" elected president in second round; Federal Parliament number of votes in first round - HASSAN SHEIKH Mohamud (PDP) 88, Mohamed ABDULLAHI Mohamed "Farmaajo" (TPP) 72, Sheikh SHARIF Sheikh Ahmed (ARS) 49, other 37; Federal Parliament number of votes in second round - Mohamed ABDULLAHI Mohamed "Farmaajo" 184, HASSAN SHEIKH Mohamud 97, Sheikh SHARIF Sheikh Ahmed 45<br>
 
 **Legislative branch**<br>
 _description_: bicameral Federal Parliament to consist of:<br>Senate (54 seats; senators indirectly elected by state assemblies to serve 4-year terms)<br>House of the People (275 seats; members indirectly elected by electoral colleges, each consisting of 51 delegates selected by the 136 Traditional Elders in consultation with sub-clan elders; members serve 4-year terms)<br>
-_elections_: Senate - first held on 10 October 2016; last held 27 July - 13 November 2021 (next to be held in 2024)<br>House of the People - first held 23 October - 10 November 2016 (next scheduled for September - October 2021 but postponed to November 2021 and then extended several times until April 2022; next to be held in 2024)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 40, women 14, percent of women 25.9%<br><br>House of the People - percent of vote by party - NA; seats by party - NA; composition - men 225, women 50, percent of women 22.2%; note - total Parliament percent of women 19.5%<br>
-<strong>note 1:</strong> the inaugural House of the People was appointed in September 2012 by clan elders; in 2016 and 2017, the Federal Parliament became bicameral with indirect elections scheduled for 10 October 2016 for the Upper House - renamed 'Senate' and 23 October to 10 November 2016 for the House of the People; while the elections were delayed, they were eventually held in most regions despite voting irregularities; on 27 December 2016, 41 Upper House senators and 242 House of the People Members of Parliament (MP) were sworn in<br><strong><br>note 2: </strong>despite the formation of political parties in 2020, the 2021 parliamentary elections maintained a primarily clan-based system of appointments; seats in the legislature were apportioned to Somali member states and not by party representation <br><br><br><br><br><br>
+_elections_: Senate - first held on 10 October 2016; last held 27 July - 13 November 2021 (next to be held in 2024)<br>House of the People - first held 23 October - 10 November 2016 (next scheduled for September - October 2021 but postponed to November 2021 and then extended several times until April 2022; next to be held in June 2024)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition as of February 2024 - men 40, women 14, percentage women 25.9%<br><br>House of the People - percent of vote by party - NA; seats by party - NA; composition as of February 2024 - men 221, women 54, percentage women 19.6%; total Federal Parliament percentage women 20.7%<br>
+<strong>note 1:</strong> the inaugural House of the People was appointed in September 2012 by clan elders; in 2016 and 2017, the Federal Parliament became bicameral with indirect elections scheduled for 10 October 2016 for the Upper House - renamed 'Senate' and 23 October to 10 November 2016 for the House of the People; while the elections were delayed, they were eventually held in most regions despite voting irregularities; on 27 December 2016, 41 Upper House senators and 242 House of the People Members of Parliament were sworn in<br><strong><br>note 2: </strong>despite the formation of political parties in 2020, the 2021 parliamentary elections maintained a primarily clan-based system of appointments; seats in the legislature were apportioned to Somali member states and not by party representation <br><br><br><br><br><br>
 
 **Judicial branch**<br>
 _highest court(s)_: the provisional constitution stipulates the establishment of the Constitutional Court (consists of 5 judges, including the chief judge and deputy chief judge); note - under the terms of the 2004 Transitional National Charter, a Supreme Court based in Mogadishu and the Appeal Court were established; yet most regions have reverted to local forms of conflict resolution, either secular, traditional Somali customary law, or Islamic law<br>
@@ -659,9 +659,6 @@ al-Shabaab; Islamic State of Iraq and ash-Sham – Somalia<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Somalia-Djibouti</em>: none identified</p> <p><em>Somalia-Ethiopia</em>: the border between the Ogaden region of eastern Ethiopia, which is inhabited by ethnic Somalis, and Somalia is only partially demarcated under colonial rule and has been the source of tension for decades</p> <p><em>Somalia-Kenya</em>:<strong> </strong>the border area, which has long been open to nomadic pastoralists, has been prone to clan fighting and infiltrations by the Somalia-based terrorist group al-Shabaab, which has conducted numerous attacks in Kenya; in 2015, the Kenyan Government began building a wall along the border to prevent the cross-border movement of militant groups; in October 2021, the Somalia-Kenya Indian Ocean boundary dispute was decided by the International Court of Justice; the ruling adjusted the boundary slightly north of Somalia’s claim giving Somalia the majority of the contested maritime territory, which is believed to contain rich oil and natural gas deposits; while the decision is legally binding, it has no enforcement mechanism, and Kenya has said it will not abide by it</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 23,364 (Ethiopia), 9,969 (Yemen) (2023)<br>

@@ -345,8 +345,8 @@ _election results_: <em><br>2019: </em>Klaus IOHANNIS reelected president in sec
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (136 seats; members directly elected in single- and multi-seat constituencies - including 2 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>Chamber of Deputies or Camera Deputatilor (330 seats; members directly elected in single- and multi-seat constituencies - including 4 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>
-_elections_: <br>Senate - last held on 6 December 2020 (next to be held in 2024)<br>Chamber of Deputies - last held on 6 December 2020 (next to be held in 2024)<br>
-_election results_: <br>Senate - percent of vote by party - PSD 29.3%, PNL 25.6%, 2020 USR-PLUS Alliance 15.9%, AUR 9.2%, UDMR 5.9%, other 14.1%; seats by party - PSD 47, PNL 41, 2020 USR-PLUS Alliance 25, AUR 14, UDMR 9; composition - men 111, women 25, percent of women 18.4%<br><br>Chamber of Deputies - percent of vote by party - PSD 28.9%, PNL 25.2%, 2020 USR-PLUS Alliance 15.4%, AUR 9.1%, UDMR 5.7%, other 15.7%; seats by party - PSD 110, PNL 93, 2020 USR-PLUS Alliance 55, AUR 33, UDMR 21, other 18; composition - men 267, women 63, percent of women 19.1%; note - total Parliament percent of women 18.9%<br>
+_elections_: Senate - last held on 6 December 2020 (next to be held in 2024)<br>Chamber of Deputies - last held on 6 December 2020 (next to be held in 2024)<br>
+_election results_: Senate - percent of vote by party - PSD 29.3%, PNL 25.6%, 2020 USR-PLUS Alliance 15.9%, AUR 9.2%, UDMR 5.9%, other 14.1%; seats by party - PSD 47, PNL 41, 2020 USR-PLUS Alliance 25, AUR 14, UDMR 9; composition as of February 2024 - men 111, women 24, percentage women 17.8%<br><br>Chamber of Deputies - percent of vote by party - PSD 28.9%, PNL 25.2%, 2020 USR-PLUS Alliance 15.4%, AUR 9.1%, UDMR 5.7%, other 15.7%; seats by party - PSD 110, PNL 93, 2020 USR-PLUS Alliance 55, AUR 33, UDMR 21, other 18; composition as of February 2024 - men 265, women 63, percentage women 19.2%; total Parliament percentage women 18.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court of Cassation and Justice (consists of 111 judges organized into civil, penal, commercial, contentious administrative and fiscal business, and joint sections); Supreme Constitutional Court (consists of 9 members)<br>
@@ -512,9 +512,9 @@ note: central government tax revenue as a % of GDP<br>
 calendar year<br>
 
 **Current account balance**<br>
--$27,325,845,000 (2022 est.)<br>
--$20,626,954,000 (2021 est.)<br>
--$12,534,576,000 (2020 est.)<br>
+-$27.326 billion (2022 est.)<br>
+-$20.627 billion (2021 est.)<br>
+-$12.535 billion (2020 est.)<br>
 note: balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
@@ -545,7 +545,7 @@ cars and vehicle parts, crude petroleum, packaged medicines, insulated wiring, b
 $55.81 billion (2022 est.)<br>
 $51.886 billion (2021 est.)<br>
 $52.191 billion (2020 est.)<br>
-note: holdings of gold (year end prices)/foreign exchange/special drawing rights in current dollars<br>
+note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $117.829 billion (2019 est.)<br>
@@ -716,7 +716,7 @@ the military's inventory includes a considerable amount of Soviet-era and older 
 18 years of age for voluntary service for men and women; all military inductees contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36; conscription ended in 2006 (2023)<br>
 
 **Military deployments**<br>
-up to 120 Poland (NATO) (2023)<br>
+up to 120 Poland (NATO); Romania also has small numbers of military personnel deployed on other international missions under the EU, NATO, and UN (2024)<br>
 
 **Military - note**<br>
 the Romanian Armed Forces are responsible for territorial defense, fulfilling Romania’s commitments to European security, and contributing to multinational peacekeeping operations; the military has a variety of concerns, including cyber attacks and terrorism, but its primary focus is Russian aggression against neighboring Ukraine and Russia's activities in the Black Sea and Romania’s other eastern neighbor, Moldova<br><br>Romania joined NATO in 2004, and the Alliance forms a key pillar of the country’s defense policy; it hosts a NATO multinational divisional headquarters (Multinational Division Southeast) and a French-led ground force battlegroup as part of NATO's Enhanced Forward Presence initiative in the southeastern part of the Alliance, which came about in response to Russia’s 2022 invasion of Ukraine; NATO allies have also sent detachments of fighters to augment the Romanian Air Force since 2014 because of aggressive Russian activity in the Black Sea region; the Romanian military trains regularly with NATO and its member states and participates in NATO- and EU-led multinational missions in Bosnia and Herzegovina, Kosovo, and Poland<br><br>the military is an all-volunteer force equipped largely with Soviet-era or other aging weapons systems, although since joining NATO it has embarked on an effort to acquire more modern, NATO-compatible weapons systems, such as armored vehicles, combat aircraft, and naval vessels; the main combat formations of the Land Forces are two combined arms infantry divisions, each comprised of three or four mechanized and mountain infantry brigades, plus artillery, reconnaissance, and other combat support forces; the Army also has a tactical missile brigade; the military’s special operations forces were consolidated into a special operations command in 2018<br><br>the Romanian Navy operates on the Black Sea and the Danube River; the Black Sea fleet command has a small force of frigates and corvettes organized into flotillas and divisions, as well as divisions of mine warfare vessels, naval missiles, and coastal defense; the Danube River flotilla operates gunboats and has a marine infantry regiment <br><br>the Air Force had approximately 400 Soviet-made combat aircraft when Romania was a member of the Warsaw Pact, but by the 2020s the number was down to a few dozen that were being replaced by secondhand US-origin F-16 fighter aircraft acquired from NATO partners; in 2023, Romania retired the last of its Soviet-era fighters and signed a contract to acquire about 30 additional F-16s from Norway (2023)<br>
@@ -738,11 +738,8 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 ## Transnational Issues
 
-**Disputes - international**<br>
-<p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
-
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 77,250 (Ukraine) (as of 24 March 2024)<br>
+_refugees (country of origin)_: 77,250 (Ukraine) (as of 14 April 2024)<br>
 _stateless persons_: 297 (2022)<br>
 <strong>note:</strong> 16,085 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
 

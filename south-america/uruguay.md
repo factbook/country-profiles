@@ -350,8 +350,8 @@ _election results_: <br><em>2019:</em> Luis Alberto LACALLE POU elected presiden
 
 **Legislative branch**<br>
 _description_: bicameral General Assembly or Asamblea General consists of:<br>Chamber of Senators or Camara de Senadores (30 seats; members directly elected in a single nationwide constituency by proportional representation vote; the vice-president serves as the presiding ex-officio member; elected members serve 5-year terms)<br>Chamber of Representatives or Camara de Representantes (99 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)<br>
-_elections_: <br>Chamber of Senators - last held on 27 October 2019 (next to be held on 27 October 2024) <br>Chamber of Representatives - last held on 27 October 2019 (next to be held on 27 October 2024)<br>
-_election results_: <br>Chamber of Senators - percent of vote by coalition/party - NA; seats by coalition/party - Frente Amplio 13, National Party 10, Colorado Party 4, Open Cabildo 3; composition as of February 2024 - men 21, women 10, percent of women 32.3%<br><br>Chamber of Representatives - percent of vote by coalition/party - NA; seats by coalition/party - Frente Amplio 42, National Party 30, Colorado Party 13, Open Cabildo 11, Independent Party 1, other 2; composition as of February 2024 - men 74, women 25, percent of women 25.3%; note - total General Assembly percent of women 26.9%<br>
+_elections_: Chamber of Senators - last held on 27 October 2019 (next to be held on 27 October 2024) <br>Chamber of Representatives - last held on 27 October 2019 (next to be held on 27 October 2024)<br>
+_election results_: Chamber of Senators - percent of vote by party/coalition - NA; seats by party/coalition - Frente Amplio 13, National Party 10, Colorado Party 4, Open Cabildo 3; composition as of February 2024 - men 21, women 10, percentage women 32.3%<br><br>Chamber of Representatives - percent of vote by party/coalition - NA; seats by coalition/party - Frente Amplio 42, National Party 30, Colorado Party 13, Open Cabildo 11, Independent Party 1, other 2; composition as of February 2024 - men 74, women 25, percentage women 25.3%; note - total General Assembly percentage women 26.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of 5 judges)<br>
@@ -715,7 +715,7 @@ the military's inventory includes a wide variety of older or second-hand equipme
 <strong>note:</strong> as of 2023, women comprised nearly 20% of the active military<br>
 
 **Military deployments**<br>
-825 Democratic Republic of the Congo (MONUSCO); 210 Golan Heights (UNDOF) (2023)<br>
+600 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF) (2024)<br>
 
 **Military - note**<br>
 the armed forces are responsible for defense of the country’s independence, national sovereignty, and territorial integrity, as well as protecting strategic resources; it has some domestic responsibilities, including perimeter security for a number of prisons and border security and providing humanitarian/disaster assistance; in 2020, the military deployed more than 1,000 troops to assist the National Police in securing the land border with Brazil and the riverine border with Argentina as part of a border control law passed in 2018; Uruguay has traditionally held security ties with Argentina, Brazil, Peru, and the US<br><br>the Army has four regionally based divisions comprised of approximately eight small brigades of infantry and mechanized cavalry; the Navy includes the Coast Guard, a naval aviation command, and a small naval infantry force; the Navy in recent years has undertaken a modest program to modernize its aging fleet, decommissioning several ships, including its only frigates, and acquiring secondhand patrol vessels from the US Coast Guard; it is also attempting to acquire larger and more modern offshore patrol vessels; the Air Force has a single squadron of light ground attack aircraft (2023)<br>
@@ -730,9 +730,6 @@ nascent program; the bill to establish a space agency declared its purpose to be
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Uruguay-Argentina</em>: in 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina; the two countries formed a joint pollution monitoring regime, which ended the dispute</p> <p><em>Uruguay-Brazil</em>: uncontested boundary dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question; smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 27,500 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2022)<br>

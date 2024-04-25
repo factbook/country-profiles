@@ -349,8 +349,8 @@ _election results_: <br><em>2023:</em> Daniel NOBOA Azin elected president; perc
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Asamblea Nacional (137 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 15 members directly elected in a single nationwide constituency by open-list proportional representation vote, and 6 directly elected in multi-seat constituencies for Ecuadorians living abroad by simple majority vote; members serve 4-year terms); note - all Assembly members have alternates from the same party who cast votes when a primary member is absent, resigns, or is removed from office<br>
-_elections_: last held on 20 August 2023 (next to be held on 28 February 2025); note &ndash; on 18 May 2023, Ecuador&rsquo;s National Electoral Council announced that the legislative and presidential elections&mdash;originally scheduled for February 2025&mdash;would be held on 20 August 2023 after President Guillermo LASSO dissolved the National Assembly by decree on 17 May 2023; a return to a regular election cycle will occur in February 2025<br>
-_election results_: percent of vote by party - MRC 39.7%, Construye 20.4%, ADN 14.6%, PSC 11.9%, Actuemos 4.5%, PSP 3.2%, other 5.7%; seats by party - NA; note - defections by National Assembly members are commonplace, resulting in frequent changes in the numbers of seats held by the various parties<br>
+_elections_: last held on 20 August 2023 (next to be held on 28 February 2025); note &ndash; on 18 May 2023, Ecuador&rsquo;s National Electoral Council announced that the legislative and presidential elections - originally scheduled for February 2025 - would be held on 20 August 2023 after President Guillermo LASSO dissolved the National Assembly by decree on 17 May 2023; a return to a regular election cycle will occur in February 2025<br>
+_election results_: percent of vote by party - RC5 38%, Construye 20.4%, ADN 10.2%, PSC 10.2%, Actuemos 5.8%, MUPP 2.9%, other 12.4%; seats by party - RC5 52, Construye 28, ADN 14, PSC 14, Actuemos 8, MUPP 4, other 17; composition as of March 2024 - men 78, women 59, percentage women 43.1%; note - defections by National Assembly members are commonplace, resulting in frequent changes in the numbers of seats held by the various parties<br>
 
 **Judicial branch**<br>
 _highest court(s)_: National Court of Justice or Corte Nacional de Justicia (consists of 21 judges, including the chief justice and organized into 5 specialized chambers); Constitutional Court or Corte Constitucional (consists of the court president and 8 judges)<br>
@@ -725,9 +725,6 @@ has a small program focused on acquiring or manufacturing satellites; builds sci
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>organized illegal narcotics operations in Colombia penetrate across Ecuador's shared border</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 65,854 (Colombia) (refugees and asylum seekers) (2021); 502,214 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022)<br>

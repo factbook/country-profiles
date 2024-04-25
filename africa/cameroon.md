@@ -90,14 +90,14 @@ _noun_: Cameroonian(s)<br>
 _adjective_: Cameroonian<br>
 
 **Ethnic groups**<br>
-Bamileke-Bamu 24.3%, Beti/Bassa, Mbam 21.6%, Biu-Mandara 14.6%, Arab-Choa/Hausa/Kanuri 11%, Adamawa-Ubangi, 9.8%, Grassfields 7.7%, Kako, Meka/Pygmy 3.3%, Cotier/Ngoe/Oroko 2.7%, Southwestern Bantu 0.7%, foreign/other ethnic group 4.5% (2018 est.)<br>
+Bamileke-Bamu 22.2%, Biu-Mandara 16.4%, Arab-Choa/Hausa/Kanuri 13.5%, Beti/Bassa, Mbam 13.1%, Grassfields 9.9%, Adamawa-Ubangi, 9.8%, Cotier/Ngoe/Oroko 4.6%, Southwestern Bantu 4.3%, Kako/Meka 2.3%, foreign/other ethnic group 3.8% (2022 est.)<br>
 
 **Languages**<br>
 24 major African language groups, English (official), French (official)<br>
 _major-language sample(s)_: <br>The World Factbook, the indispensable source for basic information. (English)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br>
 
 **Religions**<br>
-Roman Catholic 38.3%, Protestant 25.5%, other Christian 6.9%, Muslim 24.4%, animist 2.2%, other 0.5%, none 2.2% (2018 est.)<br>
+Roman Catholic 33.1%, Muslim 30.6%, Protestant 27.1% other Christian 6.1%, animist 1.3%, other 0.7%, none 1.2% (2022 est.)<br>
 
 **Demographic profile**<br>
 <p>Cameroon has a large youth population, with more than 60% of the populace under the age of 25 as of 2020. Fertility is falling but remains at a high level, especially among poor, rural, and uneducated women, in part because of inadequate access to contraception. Life expectancy remains low at about 55 years due to the prevalence of HIV and AIDs and an elevated maternal mortality rate, which has remained high since 1990. Cameroon, particularly the northern region, is vulnerable to food insecurity largely because of government mismanagement, corruption, high production costs, inadequate infrastructure, and natural disasters. Despite economic growth in some regions, poverty is on the rise, and is most prevalent in rural areas, which are especially affected by a shortage of jobs, declining incomes, poor school and health care infrastructure, and a lack of clean water and sanitation. Underinvestment in social safety nets and ineffective public financial management also contribute to Cameroon’s high rate of poverty.  The activities of Boko Haram, other armed groups, and counterinsurgency operations have worsened food insecurity in the Far North region.  </p> <p>International migration has been driven by unemployment (including fewer government jobs), poverty, the search for educational opportunities, and corruption. The US and Europe are preferred destinations, but, with tighter immigration restrictions in these countries, young Cameroonians are increasingly turning to neighboring states, such as Gabon and Nigeria, South Africa, other parts of Africa, and the Near and Far East. Cameroon’s limited resources make it dependent on UN support to host more than 480,000 refugees and asylum seekers as of December 2022. These refugees and asylum seekers are primarily from the Central African Republic and Nigeria.  Internal and external displacement have grown dramatically in recent years.  Boko Haram's attacks and counterattacks by government forces in the Far North since 2014 have increased the number of internally displaced people.  Armed conflict between separatists and Cameroon's military in the Northwest and Southwest since 2016 have displaced hundreds of thousands of the country's Anglophone minority.</p><br>
@@ -364,7 +364,7 @@ _election results_: <em>2018:</em> Paul BIYA reelected president; percent of vot
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br>National Assembly or Assemblee Nationale (180 seats; members directly elected in 49 single and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: Senate - last held on 12 March 2023 (next to be held in 2028)<br>National Assembly - last held on 9 February 2020 (next to be held 28 February 2025)<br>
-_election results_: Senate - percent of vote by party - CDPM 100%; seats by party - CDPM 100; composition as of October 2023 - men 69, women 31, percent of women 31%<br><br>National Assembly - percent of vote by party - NA; seats by party - CPDM 152, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, UMS 2; composition as of October 2023 - men 109, women 58, percent of women 32.2%; note - total Parliament percent of women 31.7%<br><br>note: 13 National Assembly seats were vacant after the 9 February 2020 election due to violence in northwest and southwest regions; CDPM won those seats in a 22 March 2020 election<br>
+_election results_: Senate - percent of vote by party - CDPM 100%; seats by party - CDPM 100; composition as of October 2023 - men 69, women 31, percentage women 31%<br><br>National Assembly - percent of vote by party - NA; seats by party - CPDM 152, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, UMS 2; composition as of October 2023 - men 119, women 61, percentage women 33.9%; total Parliament percentage women 51.1%<br><br><strong>note:</strong> 13 National Assembly seats were vacant after the 9 February 2020 election due to violence in northwest and southwest regions; CDPM won those seats in a 22 March 2020 election<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Cameroon (consists of 9 titular and 6 surrogate judges and organized into judicial, administrative, and audit chambers); Constitutional Council (consists of 11 members)<br>
@@ -747,9 +747,6 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Cameroon-Central African Republic</em>: Cameroon has deployed military troops to the border to counter intrusions from armed militias and bandits<br> <br><em>Cameroon-Nigeria:</em> Nigeria recognized Cameroon's sovereignty over the Bakassi Peninsula in 2006 and in completed the transfer of administration in 2013, although there are occasional, mostly local disputes in the area; the the majority of the land boundary was demarcated by 2019 with UN assistance, although there are few disagreements on the precise location of the boundary; the porous border is susceptible to crossings by the Boko Haram and Islamic State of Iraq and ash-Sham - West Africa terrorist groups, both of which operate in Northern Nigeria <br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 354,725 (Central African Republic), 121,172 (Nigeria) (2024)<br>

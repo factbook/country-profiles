@@ -322,7 +322,7 @@ _election results_: Siaosi SOVALENI elected prime minister by the Legislative As
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Fale Alea (30 seats statutory, 28 current); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 4-year terms)<br>
 _elections_: last held on 18 November 2021 (next to be held in November 2025)<br>
-_election results_: <br>percent of vote - NA; seats by party - independent 11, nobles' representatives 9, DPFI 3, TPPI 3; composition as of February 2024 - men 26, women 2, percent of women 7.1%<br>
+_election results_: percent of vote - NA; seats by party - independent 11, nobles' representatives 9, DPFI 3, TPPI 3; composition as of February 2024 - men 26, women 2, percentage women 7.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers<br>
@@ -653,7 +653,4 @@ voluntary military service for men and women 18-25; no conscription (2023)<br>
 the HMAF’s primary missions are protecting the King and Tonga’s sovereignty; the HMAF has contributed small numbers of personnel to multinational military operations in Afghanistan, Iraq, and the Solomon Islands; it is a small force comprised of royal guards, marines, a few naval patrol boats, and a couple of aircraft for maritime patrolling, search and rescue, and training purposes <br><br>Tonga participated in World War I as part of the New Zealand Expeditionary Force, but the Tonga Defense Force (TDF) was not established until 1939 at the beginning of World War II; in 1943, New Zealand helped train about 2,000 Tongan troops who saw action in the Solomon Islands; the TDF was disbanded at the end of the war, but was reactivated in 1946 as the Tonga Defense Services (TDS); in 2013, the name of the TDS was changed to His Majesty’s Armed Forces of Tonga (HMAF); Tongan troops deployed to Iraq from 2004-2008 and Afghanistan to support UK forces from 2010-2014<br><br>Tonga has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tonga's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Tonga-Fiji</em>: Fiji does not recognize Tonga’s 1972 claim to the Minerva Reefs and their surrounding waters</p> <p> </p><br>
 

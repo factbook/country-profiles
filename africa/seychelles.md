@@ -318,7 +318,7 @@ _election results_: <br><em>2020</em>: Wavel RAMKALAWAN elected president; Wavel
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (35 seats in the 2020-25 term; 26 members directly elected in single-seat constituencies by simple majority vote and up to 9 members elected by proportional representation vote; members serve 5-year terms)<br>
 _elections_: last held on 22-24 October 2020 (next to be held in October 2025); note - the election was originally scheduled for 2021 but was moved up a year and held alongside the presidential election in order to cut election costs<br>
-_election results_: percent of vote by party - LDS 54.8%, US 42.3%, other 2.9%; seats by party - LDS 25, US 10; composition - men 27, women 8, percent of women 22.9%<br>
+_election results_: percent of vote by party - LDS 54.8%, US 42.3%, other 2.9%; seats by party - LDS 25, US 10; composition as of February 2024 - men 27, women 7, percentage women 20.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Seychelles Court of Appeal (consists of the court president and 4 justices); Supreme Court of Seychelles (consists of the chief justice and 9 puisne judges); Constitutional Court (consists of 3 Supreme Court judges)<br>
@@ -326,7 +326,7 @@ _judge selection and term of office_: all judges appointed by the president of t
 _subordinate courts_: Magistrates' Courts of Seychelles; Family Tribunal for issues such as domestic violence, child custody, and maintenance; Employment Tribunal for labor-related disputes<br>
 
 **Political parties and leaders**<br>
-Seychelles Party for Social Justice and Democracy or SPSJD [Vesna RAKIC]<br>Seychellois Democratic Alliance or LDS (Linyon Demokratik Seselwa/Union Démocratique Seychelloise) (coalition includes SNP and SPSJD) [Roger MANCIENNE]<br>Seychelles National Party or SNP [Wavel RAMKALAWAN]<br>United Seychelles or US [Patrick HERMINIE]<br><br><strong>note</strong>: only parties with seats in the National Assembly listed<br>
+Seychelles Party for Social Justice and Democracy or SPSJD [Vesna RAKIC]<br>Seychellois Democratic Alliance or LDS (Linyon Demokratik Seselwa/Union Démocratique Seychelloise) (coalition includes SNP and SPSJD) [Roger MANCIENNE]<br>Seychelles National Party or SNP [Wavel RAMKALAWAN]<br>United Seychelles or US [Patrick HERMINIE]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AOSIS, AU, C, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -663,7 +663,4 @@ the SDF's inventory primarily consists of Soviet-era equipment delivered in the 
 formed in 1977, the SDF is one of the World's smallest militaries; its primary responsibility is maritime security, particularly countering illegal fishing, piracy, and drug smuggling; it was given police powers in 2022; the Seychelles has close security ties with India (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-none identified<br>
 

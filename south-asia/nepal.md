@@ -344,8 +344,8 @@ _election results_: <em>2023:</em> Ram Chandra POUDEL elected president; elector
 
 **Legislative branch**<br>
 _description_: bicameral Federal Parliament consists of:<br>National Assembly (59 seats; 56 members, including at least 3 women, 1 Dalit, 1 member with disabilities, or 1 minority indirectly elected by an electoral college of state and municipal government leaders, and 3 members, including 1 woman, nominated by the president of Nepal on the recommendation of the government; members serve 6-year terms with renewal of one-third of the membership every 2 years)<br>House of Representatives (275 seats; 165 members directly elected in single-seat constituencies by simple majority vote and 110 members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a threshold of 3% overall valid vote to be allocated a seat; members serve 5-year terms); note - the House of Representatives was dissolved on 22 May 2021, but on 13 July, the Supreme Court directed its reinstatement<br>
-_elections_: <br>National Assembly - last held on 26 January 2022 (next to be held in 2024)<br><br>House of Representatives - last held on 20 November 2022 (next to be held in November 2027)<br>
-_election results_: <br>National Assembly - percent of vote by party - NA; seats by party - CPN-UML 42, NC 13, FSFN 2, RJPN 2; composition - men 37, women 22, percentage women 37.3%<br><br>House of Representatives - percent of vote by party - NA; seats by party - NC 89, CPN-UML 78, CPN-MC 32, RSP 20, RPP 14, PSP-N 12, CPN (Unified Socialist) 10, Janamat Party 6, Loktantrik Samajwadi Party 4,<br>other 10; composition - men 18, women 90, percentage women 33.1%; total Federal Parliament percentage women NA%<br>
+_elections_: National Assembly - last held on 26 January 2022 (next to be held in 2024)<br><br>House of Representatives - last held on 20 November 2022 (next to be held in November 2027)<br>
+_election results_: National Assembly - percent of vote by party - NA; seats by party - CPN-UML 42, NC 13, FSFN 2, RJPN 2; composition as of March 2024 - men 37, women 22, percentage women 37.3%<br><br>House of Representatives - percent of vote by party - NA; seats by party - NC 89, CPN-UML 78, CPN-MC 32, RSP 20, RPP 14, PSP-N 12, CPN (Unified Socialist) 10, Janamat Party 6, Loktantrik Samajwadi Party 4,<br>other 10; composition as of March 2024 - men 182, women 90, percentage women 33.1%; total Federal Parliament percentage women NA%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and up to 20 judges)<br>
@@ -698,9 +698,6 @@ Indian Mujahedeen<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Nepal-China</em>: China may have constructed 11 buildings in Nepal’s Humla region in 2021</p> <p><em>Nepal-India</em>: joint border commission continues to work on contested sections of boundary with India, including the 400 sq km dispute over the source of the Kalapani River; the Kalapani issue resurfaced in November 2019 when India issued a new map showing the contested area within India’s borders and then built a new road in the region through Lipulekh pass, an area controlled by India but claimed by Nepal; Nepal countered by amending its constitution and issuing its own map showing the disputed area within its borders; the countries prime ministers briefly discussed the border dispute in April 2022; India has instituted a stricter border regime to restrict transit of illegal cross-border activities</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 12,540 (Tibet/China), 6,365 (Bhutan) (mid-year 2022)<br>

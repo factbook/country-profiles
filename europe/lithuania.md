@@ -337,8 +337,8 @@ _election results_: <em><br>2019:</em> Gitanas NAUSEDA elected president in seco
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: <br>last held on 11 and 25 October 2020 (next to be held on 13 October 2024)<br>
-_election results_: <br>percent of vote by party - NA; seats by party - TS-LKD 50, LVZS 32, LSDP 13, LRLS 13, LP 11, DP 10, LLRA-KSS 3, LSDDP 3, LT 1, LZP 1, independent 4; composition as of February 2024 - men 99, women 41, percentage women 29.3%<br>
+_elections_: last held on 11 and 25 October 2020 (next to be held on 13 October 2024)<br>
+_election results_: percent of vote by party - NA; seats by party - TS-LKD 50, LVZS 32, LSDP 13, LRLS 13, LP 11, DP 10, LLRA-KSS 3, LSDDP 3, LT 1, LZP 1, independent 4; composition as of February 2024 - men 99, women 41, percentage women 29.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 37 judges); Constitutional Court (consists of 9 judges)<br>
@@ -360,7 +360,7 @@ _email address and website_: <br>info@usa.mfa.lt<br><br>https://usa.mfa.lt/usa/e
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Tamir WASER (since 12 August 2023)<br>
+_chief of mission_: Ambassador Kara C. McDONALD (since 26 January 2024)<br>
 _embassy_: Akmenu gatve 6, Vilnius, LT-03106<br>
 _mailing address_: 4510 Vilnius Place, Washington DC&nbsp; 20521-4510<br>
 _telephone_: [370] (5) 266-5500<br>
@@ -724,9 +724,6 @@ has a small but growing space program; operates satellites; manufactures small s
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,490 (Ukraine) (as of 11 March 2024)<br>

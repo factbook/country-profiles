@@ -333,7 +333,7 @@ _election results_: <br><em>2022</em>: José RAMOS-HORTA elected president in se
 **Legislative branch**<br>
 _description_: unicameral National Parliament (65 seats; members directly elected in a single nationwide constituency by closed, party-list proportional representation vote using the D'Hondt method to serve 5-year terms)<br>
 _elections_: last held on 21 May 2023 (next to be held in May 2028)<br>
-_election results_: percent of vote by party - CNRT 41.5%, FRETILIN 25.8%, PD 9.3%, KHUNTO 7.5%, PLP 6%, other 9.9%; seats by party - CNRT 31, FRETILIN 19, PD 6, KHUNTO 5, PLP 4; note - 12 other parties received votes, but won no seats; composition - men 41, women 24; percent women 36.9%<br><br>
+_election results_: percent of vote by party - CNRT 41.5%, FRETILIN 25.8%, PD 9.3%, KHUNTO 7.5%, PLP 6%, other 9.9%; seats by party - CNRT 31, FRETILIN 19, PD 6, KHUNTO 5, PLP 4; composition - men 40, women 25, percentage women 38.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeals (consists of the court president and NA judges)<br>
@@ -343,7 +343,6 @@ _subordinate courts_: Court of Appeal; High Administrative, Tax, and Audit Court
 
 **Political parties and leaders**<br>
 Democratic Party or PD [Mariano Assanami SABINO Lopes]<br>National Congress for Timorese Reconstruction or CNRT [Kay Rala Xanana GUSMAO]<br>National Unity of the Sons of Timor (Haburas Unidade Nasional Timor Oan or KHUNTO) [Armanda BERTA DOS SANTOS]<br>People's Liberation Party or PLP [Taur Matan RUAK]<br>Revolutionary Front of Independent Timor-Leste or FRETILIN [Franciso GUTERRES]<br>
-<strong>note:</strong> 12 additional parties received votes during the 2023 parliamentary election but did not gain any seats<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, ARF, ASEAN (observer), CPLP, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OPCW, PIF (observer), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WMO<br>
@@ -667,9 +666,6 @@ the military is lightly armed and has a limited inventory consisting of equipmen
 the small and lightly equipped F-FDTL has both external defense and internal security roles; it has two infantry battalions, a small air component, and a handful of naval patrol boats <br><br>since achieving independence, Timor-Leste has received security assistance from or has made defense cooperation arrangements with Australia, China, Indonesia, Malaysia, New Zealand, the Philippines, Portugal, the UN, and the US; some Defense Force personnel train with the Indonesian military (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Timor-Leste-Australia</em>: Timor-Leste and Australia reached agreement on a treaty delimiting a permanent maritime boundary in March 2018; both countries ratified the treaty in August 2019</p> <p><em>Timor-Leste-Indonesia</em>: three stretches of land borders with Indonesia have yet to be delimited, two of which are in the Oecussi exclave area, and no maritime or Economic Exclusion Zone boundaries have been established between the countries; the two countries maintain a joint Border Security Task Force to jointly monitor and patrol the border, particularly the Oecussi exclave area where smuggling and trafficking are prevalent; maritime boundaries with Indonesia remain unresolved; between 2005 and 2015, 500 border landmarks were placed and another 200 were proposed</p><br>
 
 **Illicit drugs**<br>
 NA<br>

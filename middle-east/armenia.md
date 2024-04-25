@@ -337,7 +337,7 @@ _election results_: <br><em>2022: </em>Vahagn KHACHATURYAN elected president in 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (Parliament) or Azgayin Zhoghov (minimum 101 seats, with additional seats allocated as necessary and generally changing with each parliamentary convocation; current - 107; members directly elected in single-seat constituencies by closed party-list proportional representation vote; members serve 5-year terms; four mandates are reserved for national minorities; no more than 70% of the top membership of a party list can belong to the same sex; political parties must meet a 5% threshold and alliances a 7% threshold to win seats; at least three parties must be seated in the Parliament)<br>
 _elections_: last held early on 20 June 2021 (next to be held in June 2026)<br>
-_election results_: <br>percent of vote by party/coalition - Civil Contract 53.9%, Armenia Alliance 21%, I Have Honour Alliance 5.2%, other 19.9%; seats by party/coalition - Civil Contract 71, Armenia Alliance 29, I Have Honour Alliance 7; composition as of February 2024 - men 68, women 39, percentage women 36.5%<br>
+_election results_: percent of vote by party/coalition - Civil Contract 53.9%, Armenia Alliance 21%, I Have Honour Alliance 5.2%, other 19.9%; seats by party/coalition - Civil Contract 71, Armenia Alliance 29, I Have Honour Alliance 7; composition as of February 2024 - men 68, women 39, percentage women 36.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation or Appeals Court (consists of the Criminal Chamber with a chairman and 5 judges and the Civil and Administrative Chamber with a chairman and 10 judges &ndash; with both civil and administrative specializations); Constitutional Court (consists of 9 judges)<br>
@@ -348,7 +348,7 @@ _subordinate courts_: criminal and civil appellate courts; administrative appell
 5165 National Conservative Movement Party [Karin TONOYAN]<br>Alliance of Democrats [Arman BABAJANYAN]<br>Armenia Alliance or HD [Robert KOCHARYAN]<br>(formerly known as the Armenian Revolutionary Federation)<br>Armenian National Congress or ANC [Levon TER-PETROSSIAN] (bloc of independent and opposition parties)<br>Bright Armenia [Edmon MARUKYAN]<br>Civil Contract or KP [Nikol PASHINYAN]<br>Country To Live In [Mane TANDILYAN]<br>Homeland of Armenians [Artak GALSTYAN]<br>Homeland Party [Artur VANETSYAN]<br>I Have Honor Alliance (formerly known as the Republican Party of Armenia, [Serzh SARGSIAN]<br>Liberal Party [Samvel BABAYAN]<br>National Democratic Party [Vahe GASPARYAN]<br>Prosperous Armenia or BHK [Gagik TSARUKYAN]<br>Republic Party (Hanrapetutyun Party) [Aram SARGSYAN]<br>
 
 **International organization participation**<br>
-ADB, BSEC, CD, CE, CIS, CSTO, EAEC (observer), EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM (observer), OAS (observer), OIF, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ADB, BSEC, CD, CE, CIS, CSTO, EAEC (observer), EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM (observer), OAS (observer), OIF, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Lilit MAKUNTS (since 15 September 2021)<br>
@@ -704,9 +704,6 @@ seeks foreign providers for satellite communications, remote sensing (RS), and n
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Armenia-Azerbaijan:</em> tensions existed for years over Nagorno-Karabakh and the Armenian military occupation of surrounding lands in Azerbaijan; Azerbaijan seized part of the enclave during six weeks of fighting in 2020 and the remainder in a short conflict in September 2023; Baku and Yerevan have since had preliminary discussions on a peace treaty, the demarcation of borders, and full normalization of relations but bi-lateral tensions remain<br><br><em>Armenia-Georgia:</em> Georgians restrict Armenian access into Samtse-Javakheti ethnic Armenian areas; Armenia has made no claims to the region<br><br><em>Armenia-Turkey:</em> as of 2023, Turkey and Armenia were discussing normalizing relations</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 27,929 (Azerbaijan) (mid-year 2022)<br>

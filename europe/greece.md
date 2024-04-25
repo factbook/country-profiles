@@ -331,8 +331,8 @@ _election results_: <em><br>2020:</em> Katerina SAKELLAROPOULOU (independent) e
 
 **Legislative branch**<br>
 _description_: unicameral Hellenic Parliament or Vouli ton Ellinon (300 seats; 280 members in multi-seat and single-seat constituencies and 15 members - including 3 seats for Greek diaspora - in a single nationwide constituency directly elected by open party-list proportional representation vote; members serve up to 4 years); &nbsp;note - only parties surpassing a 3% threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups but can retain that status if the party participated in the last election and received the minimum 3% threshold<br>
-_elections_: <br>last held on 25 June 2023 (next to be held in 2027)<br>
-_election results_: <br>percent of vote by party - ND 40.6%, SYRIZA-PS 17.8%, PASOK-KINAL 11.9%, KKE 7.7%, Spartans 4.6%, Greek Solution 4.4%, NIKI 3.7%, Course of Freedom 3.2%, other 6.1%; seats by party - ND 158, SYRIZA-PS 48, PASOK-KINAL 32, KKE 20, Spartans 12, Greek Solution 12, NIKI 10, Course of Freedom 8; composition as of 2024 - men 231, women 69, percentage women 23%<br>
+_elections_: last held on 25 June 2023 (next to be held in 2027)<br>
+_election results_: percent of vote by party - ND 40.6%, SYRIZA-PS 17.8%, PASOK-KINAL 11.9%, KKE 7.7%, Spartans 4.6%, Greek Solution 4.4%, NIKI 3.7%, Course of Freedom 3.2%, other 6.1%; seats by party - ND 158, SYRIZA-PS 48, PASOK-KINAL 32, KKE 20, Spartans 12, Greek Solution 12, NIKI 10, Course of Freedom 8; composition as of February 2024 - men 231, women 69, percentage women 23%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Civil and Criminal Court or Areios Pagos (consists of 56 judges, including the court presidents); Council of State (supreme administrative court) (consists of the president, 7 vice presidents, 42 privy councilors, 48 associate councilors and 50 reporting judges, organized into six 5- and 7-member chambers; Court of Audit (government audit and enforcement) consists of the president, 5 vice presidents, 20 councilors, and 90 associate and reporting judges<br>
@@ -722,9 +722,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; Greece has a security wall along a portion of its land border with Turkey to deter border crossings by migrants and has announced intentions to extend the wall along the entire border</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 27,365 (Ukraine) (as of 31 December 2023)<br>

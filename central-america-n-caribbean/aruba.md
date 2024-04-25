@@ -278,7 +278,7 @@ _election results_: as leader of the majority party of the ruling coalition, Eve
 **Legislative branch**<br>
 _description_: unicameral Legislature or Staten (21 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 25 June 2021 (next to be held in June 2025)<br>
-_election results_: <br>percent of vote by party MEP 35.3%, AVP 31.3%, ROOTS 9.4%, MAS 8%, Accion21 5.8%; seats by party - MEP 9, AVP 7, ROOTS 2, MAS 2, Accion21 1; composition as of September 2023 - men 13, women 8, percent of women - 38.1%<br>
+_election results_: percent of vote by party MEP 35.3%, AVP 31.3%, ROOTS 9.4%, MAS 8%, Accion21 5.8%; seats by party - MEP 9, AVP 7, ROOTS 2, MAS 2, Accion21 1; composition as of April 2024 - men 13, women 8, percentage women - 38.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court in The Hague, Netherlands<br>
@@ -574,9 +574,6 @@ no regular military forces; Aruban Militia (ARUMIL); Police Department for local
 defense is the responsibility of the Kingdom of the Netherlands; the Aruba security services focus on organized crime and terrorism; the Dutch Government controls foreign and defense policy; the Dutch Caribbean Coast Guard (DCCG) provides maritime security; the Dutch military maintains a presence on Aruba, including a marine company and a naval base (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 17,000 (Venezuela) (2021)<br>

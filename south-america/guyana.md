@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-Originally a Dutch colony in the 17th century, by 1815 Guyana had become a British possession. The abolition of slavery led to settlement of urban areas by former slaves and the importation of indentured servants from India to work the sugar plantations. The resulting ethnocultural divide has persisted and has led to turbulent politics. Guyana achieved independence from the UK in 1966, and since then it has been ruled mostly by socialist-oriented governments. In 1992, Cheddi JAGAN was elected president in what is considered the country's first free and fair election since independence. After his death five years later, his wife, Janet JAGAN, became president but resigned in 1999 due to poor health. Her successor, Bharrat JAGDEO, was elected in 2001 and again in 2006. Early elections held in May 2015 resulted in the first change in governing party and the replacement of President Donald RAMOTAR by current President David GRANGER. After a December 2018 no-confidence vote against the GRANGER government, national elections were constitutionally required to take place within three months. After over a year of extra-constitutional rule by the GRANGER administration, elections were held, though voting irregularities led to a nationwide recount. The current Irfaan ALI administration was sworn in to office in August 2020. The discovery of oil in 2015 has been the primary economic and political focus, with many hoping the significant reserves will transform one of the poorest countries in the region. Guyana is the only English-speaking country in South America and shares cultural and historical bonds with the Anglophone Caribbean.<br>
+Originally a Dutch colony in the 17th century, by 1815 Guyana had become a British possession. The abolition of slavery led to former slaves settling urban areas and indentured servants being imported from India to work the sugar plantations. The resulting ethnocultural divide has persisted and has led to turbulent politics. Guyana achieved independence from the UK in 1966, and since then primarily socialist-oriented governments have ruled the country. <br><br>In 1992, Cheddi JAGAN was elected president in what is considered the country's first free and fair election since independence. After his death five years later, his wife, Janet JAGAN, became president but resigned in 1999 due to poor health. Her successor, Bharrat JAGDEO, was elected in 2001 and again in 2006. Donald RAMOTAR won in 2011, but early elections held in 2015 resulted in the first change in governing party, and David GRANGER took office. After a 2018 no-confidence vote against the GRANGER government, the administration ignored a constitutional requirement to hold elections and remained in place until the 2020 elections, when Irfaan ALI became president. <br><br>The discovery of massive offshore oil reserves in 2015 has been Guyana's primary economic and political focus, with many hoping the reserves will transform one of the poorest countries in the region. Guyana is the only English-speaking country in South America and shares cultural and historical bonds with the Anglophone Caribbean.<br>
 
 ## Geography
 
@@ -337,8 +337,8 @@ _election results_: <br><em>2020:</em> Mohammed Irfaan ALI (PPP/C) designated pr
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (70 seats; 40 members directly elected in a single nationwide constituencies, 25 directly elected in multi-seat constituencies - all by closed-list proportional representation vote, 2 non-elected ministers, 2 non-elected parliamentary secretaries, and the speaker; members serve 5-year terms)<br>
-_elections_: <br>last held on 2 March 2020 (next to be held in 2025)<br>
-_election results_: <br>percent of vote by party - PPP/C 50.69%, APNU-AFC 47.34%, LJP 0.58%, ANUG 0.5%, TNM 0.05%, other 0.84%; seats by party - PPP/C 33, APNU-AFC 31, LJP-ANUG-TNM 1; composition as of February 2024 (elected and non-elected) - men 43, women 28, percentage women 39.4%; note - the initial results were declared invalid and a partial recount was conducted from 6 May to 8 June 2020, in which PPP/C was declared the winner<br>
+_elections_: ast held on 2 March 2020 (next to be held in 2025)<br>
+_election results_: percent of vote by party - PPP/C 50.69%, APNU-AFC 47.34%, LJP 0.58%, ANUG 0.5%, TNM 0.05%, other 0.84%; seats by party - PPP/C 33, APNU-AFC 31, LJP-ANUG-TNM 1; composition as of February 2024 (elected and non-elected) - men 43, women 28, percentage women 39.4%; note - the initial results were declared invalid and a partial recount was conducted from 6 May to 8 June 2020, in which PPP/C was declared the winner<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal with a chief justice and 3 justices, and the High Court with a chief justice and 10 justices organized into 3- or 5-judge panels); note - in 2009, Guyana acceded to the Caribbean Court of Justice as the final court of appeal in civil and criminal cases, replacing that of the Judicial Committee of the Privy Council (in London)<br>
@@ -360,7 +360,7 @@ _email address and website_: <br>guyanaembassydc@verizon.net<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Sarah-Ann LYNCH (since 13 March 2019)<br>
+_chief of mission_: Ambassador Nicole THERIOT (since 14 October 2023)<br>
 _embassy_: 100 Young and Duke Streets, Kingston, Georgetown<br>
 _mailing address_: 3170 Georgetown Place, Washington DC 20521-3170<br>
 _telephone_: [592] 225-4900 through 4909<br>
@@ -662,7 +662,7 @@ the Guyana Defense Force is a unified force with ground, air, and coast guard co
 approximately 3,500 active-duty military personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military has a limited inventory comprised mostly of second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US (2023)<br>
+the military has a limited inventory comprised mostly of older or second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age or older for voluntary military service; no conscription (2024)<br>
@@ -671,9 +671,6 @@ the military has a limited inventory comprised mostly of second-hand platforms f
 the Guyana Defense Force (GDF) was established in 1965; its primary missions are defense of the country, including border security, assisting civil authorities with law and order as needed, and contributing to the Guyana’s economic development; key areas of concern include disaster response, illegal fishing, narcotics trafficking, piracy, and porous borders; the GDF participates in both bilateral and multinational exercises and has relationships with Brazil, China, France, the UK, and the US; the GDF’s ground force officers are trained at the British Royal Military Academy at Sandhurst, while coast guard officers receive training at the British Royal Naval College<br><br>the GDF’s ground combat forces include three infantry battalions (one reserve), a special forces squadron, and an artillery company; the coast guard has an offshore patrol craft and a few patrol boats, as well as a small amphibious “raider” force; the air corps does not have any combat aircraft but instead provides tactical observation, transport, casualty evacuation, and other forms of support to the ground forces<br><br>Guyana joined the Caribbean Regional Security System (RSS) in 2022; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<em>Guyana-Venezuela:</em> Caracas claims all of the area west of the Essequibo River in Guyana, preventing any discussion of a maritime boundary; in 2018, Guyana initiated proceedings against Venezuela with the International Court of Justice (ICJ) while Venezuela requested a direct dialogue to settle the dispute; the ICJ ruled that it had jurisdiction to hear the case in December 2020; in December 2023, the Venezuelan Government held a referendum on the disputed oil-rich Essequibo region and announced measures to exert administrative control over the area; in 2024, Venezuela increased its military presence near the border, and the parliament approved the creation of a new state in the disputed territory<br><br><em>Guyana-Suriname:</em> Suriname claims a triangle of land between the New and Kutari/Koetari Rivers in a historic dispute over the headwaters of the Courantyne River<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,600 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2022)<br>

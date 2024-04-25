@@ -344,8 +344,8 @@ _election results_: <br><em>2020:</em> Luis Rodolfo ABINADER Corona elected pres
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (32 seats; 26 members directly elected in single-seat constituencies by simple majority vote, and 6 members indirectly elected based upon province-wide party plurality votes for its candidates to the Chamber of Deputies; all members serve 4-year terms; note - in 2019, the Central Election Commission changed the electoral system for seats in 26 constituencies to simple majority vote but retained indirect election for the remaining 6 constituencies; previously, all 32 members were indirectly elected; the change had been challenged by the ruling and opposition parties)<br><br>House of Representatives or Camara de Diputados (190 seats; 178 members directly elected in multi-seat constituencies by closed party-list proportional representation vote using the D'Hondt method, 5 members in a nationwide constituency, and 7 diaspora members directly elected by simple majority vote; members serve 4-year terms)<br>
-_elections_: <br>Senate - last held on 5 July 2020 (next to be held in 2024)<br>House of Representatives - last held on 5 July 2020 (next to be held in 2024); note - the 2020 election was rescheduled from 17 May to 5 July 2020 due to COVID-19 pandemic<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PRM 17, PLD 6, PRSC 6, BIS 1, DXC 1, FP 1; composition - men 28, women 4, percent of women 12.5%<br>House of Representatives - percent of vote by party - NA; seats by party - PRM 86, PLD 75, PRSC 6, PRD 4, Broad Front 3, FP 3, AP 2, APD 2, BIS 2, DXC 2, other 5; composition - men 137, women 53, percent of women 27.9%; note - total National Congress percent of women 25.7%<br>
+_elections_: Senate - last held on 5 July 2020 (next to be held on 19 May 2024)<br>House of Representatives - last held on 5 July 2020 (next to be held on 19 May 2024); note - the 2020 election was rescheduled from 17 May to 5 July 2020 due to the COVID-19 pandemic<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - PRM 17, PLD 6, PRSC 6, BIS 1, DXC 1, FP 1; composition as of March 2024 - men 28, women 4, percentage women 12.5%<br><br>House of Representatives - percent of vote by party - NA; seats by party - PRM 86, PLD 75, PRSC 6, PRD 4, Broad Front 3, FP 3, AP 2, APD 2, BIS 2, DXC 2, other 5; composition as of March 2024 - men 137, women 53, percentage women 27.9%; total National Congress percentage women 25.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Suprema Corte de Justicia (consists of a minimum of 16 magistrates); Constitutional Court or Tribunal Constitucional (consists of 13 judges); note - the Constitutional Court was established in 2010 by constitutional amendment<br>
@@ -368,7 +368,7 @@ _consulate(s) general_: Boston, Chicago, Glendale (CA), Mayaguez (Puerto Rico), 
 _consulate(s)_: San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Patricia Aguilera (since 1 October 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Patricia AGUILERA (since 1 October 2023)<br>
 _embassy_: Av. Republica de Colombia #57, Santo Domingo<br>
 _mailing address_: 3470 Santo Domingo Place, Washington DC&nbsp; 20521-3470<br>
 _telephone_: (809) 567-7775<br>
@@ -714,9 +714,6 @@ the military is lightly armed with an inventory consisting mostly of older US eq
 the military is responsible for defending the independence, integrity, and sovereignty of the Dominican Republic; it also has an internal security role, which includes assisting with airport, border, port, tourism, and urban security, supporting the police in maintaining or restoring public order, countering transnational crime, and providing disaster or emergency relief/management; a key area of focus is securing the country&rsquo;s 217-mile (350-kilometer) long border with Haiti; the Army in recent years, for example, has assigned three of its six infantry brigades and some 10-12,000 troops to assist with security along the Haitian border; these forces complement the approximately 700 troops of the Border Security Corps permanently deployed along the border; the Air Force and Navy also provide support to the Haitian border mission; the Army has a brigade dedicated to managing and providing relief during natural disasters; the military also contributes personnel to the National Drug Control Directorate, and both the Air Force and Navy devote assets to detecting and interdicting narcotics trafficking; the Navy conducts regular bilateral maritime interdiction exercises with the US Navy (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<em>Dominican Republic-Haiti:</em> unauthorized migration and smuggling from impoverished and politically unstable Haiti has led to occasional border tensions and increased security by the Dominican Republic, including the construction of a fence and the deployment of military troops<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 115,283 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>

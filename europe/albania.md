@@ -343,7 +343,7 @@ _election results_: <em><br>2022: </em>Bajram BEGAJ elected president in the fou
 **Legislative branch**<br>
 _description_: unicameral Assembly or Kuvendi (140 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote using the D'Hondt method; members serve 4-year terms)<br>
 _elections_: last held on 25 April 2021 (next to be held in 2025)<br>
-_election results_: <br>percent of vote by party/coalition - PS 48.7%, PD-Alliance for Change 39.4%, LSI 6.8%, PSD 2.3%, other 2.8%; seats by party/coalition - PS 74, PD-Alliance for Change 59, LSI 4, PSD 3; composition as of February 2024 - men 90, women 50, percentage 35.7%<br>
+_election results_: percent of vote by party/coalition - PS 48.7%, PD-Alliance for Change 39.4%, LSI 6.8%, PSD 2.3%, other 2.8%; seats by party/coalition - PS 74, PD-Alliance for Change 59, LSI 4, PSD 3; composition as of February 2024 - men 90, women 50, percentage 35.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 19 judges, including the chief justice); Constitutional Court (consists of 9 judges, including the chairman)<br>
@@ -711,9 +711,6 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <strong>note: </strong>details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified<br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 47,247 (Ukraine) (as of 30 January 2024)<br>

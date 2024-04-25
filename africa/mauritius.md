@@ -323,8 +323,8 @@ _election results_: <em><br>2019</em>: Prithvirajsing ROOPUN (MSM) elected presi
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (70 seats maximum; 62 members directly elected multi-seat constituencies by simple majority vote and up to 8 seats allocated to non-elected party candidates by the Office of Electoral Commissioner; members serve a 5-year term)<br>
-_elections_: <br>last held on 7 November 2019 (next to be held by late 2024)<br>
-_election results_: <br>percent of vote by party - Mauritian Alliance 2019 (MSM, ML, MAG, and PM) 37.7%, National Alliance (PTR, PMSD, and MJCB) 32.8%, MMM 20.6%, OPR 1%, other 7.9%; seats by party - MSM 38, PTR 14, MMM 8, OPR 2; composition as of February 2024 - men 56, women 14, percentage women 20% (2019)<br>
+_elections_: last held on&nbsp;7&nbsp;November 2019&nbsp;(next to be held by late&nbsp;2024)<br>
+_election results_: percent of vote by party - Mauritian Alliance 2019 (MSM, ML, MAG, and PM) 37.7%, National Alliance (PTR, PMSD, and MJCB) 32.8%, MMM 20.6%, OPR 1%, other 7.9%; seats by party - MSM 38, PTR 14, MMM 8, OPR 2; composition as of February 2024 - men 56, women 14, percentage women 20% (2019)<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Mauritius (consists of the chief justice, a senior puisne judge, and 24 puisne judges); note - the Judicial Committee of the Privy Council (in London) serves as the final court of appeal<br>
@@ -664,9 +664,6 @@ the MPF's inventory is comprised of mostly secondhand equipment from Western Eur
 the country’s primary security partner is India, and Indian naval vessels often patrol Mauritian waters; the MPF has also received assistance and training from France, the UK, and the US; the MPF’s chief security concerns are piracy and narcotics trafficking<br><br>the Special Mobile Force was created in 1960 following the withdrawal of the British garrison (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Mauritius-France</em>: Mauritius has claimed French-administered Tromelin Island (part of the French Southern and Antarctic Lands) since 1976<br><br><em>Mauritius-UK</em>: Mauritius and Seychelles claim the Chagos Islands (UK-administered British Indian Ocean Territory)</p><br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Mauritius does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; these efforts included partnering with an international organization to adopt standard operating procedures for victim identification and referral, enhancing screening for trafficking indicators during labor inspections, and adopting a 2022-2026 National Action Plan; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; officials did not prosecute any suspected traffickers, did not convict any traffickers, nor report initiating any investigations for the second consecutive year; the government provided minimal services to victims and did not identify any victims for the third consecutive year; officials continued to compel some adult foreign victims to participate in criminal proceedings using threats of deportation and arrest; police regularly investigated potential trafficking cases as other crimes, and prosecutors routinely pursued lesser offenses with lesser penalties in cases initially investigated as trafficking; courts continued to provide lenient sentences to first-time offenders, weakening deterrence; therefore, Mauritius was downgraded to Tier 2 Watch List (2023)<br>

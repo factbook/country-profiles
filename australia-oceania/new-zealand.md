@@ -335,8 +335,8 @@ _elections/appointments_: the monarchy is hereditary; governor-general appointed
 
 **Legislative branch**<br>
 _description_: unicameral House of Representatives - commonly called Parliament (121 seats for 2023-26 term); 72 members directly elected in 65 single-seat constituencies and 7 Maori constituencies by simple majority vote and 49 directly elected by closed party-list proportional representation vote; members serve 3-year terms)<br>
-_elections_: <br>last held on 14 October 2023 (next scheduled for October 2026)<br>
-_election results_: <br>percent of vote by party - National Party 38.1%, Labor Party 26.9%, Green Party 11.6%, ACT Party 8.6%, New Zealand First 6.1%; Maori Party 3.1%; seats by party - National Party 48, Labor Party 34, Green Party 15, ACT Party 11, New Zealand First 8, Maori Party 6; composition as of February 2024 - 67 men, 56 women; percentage of women 45.5%<br>
+_elections_: last held on 14 October 2023 (next scheduled for October 2026)<br>
+_election results_: percent of vote by party - National Party 38.1%, Labor Party 26.9%, Green Party 11.6%, ACT Party 8.6%, New Zealand First 6.1%; Maori Party 3.1%; seats by party - National Party 48, Labor Party 34, Green Party 15, ACT Party 11, New Zealand First 8, Maori Party 6; composition as of February 2024 - 67 men, 56 women; percentage of women 45.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 5 justices, including the chief justice); note - the Supreme Court in 2004 replaced the Judicial Committee of the Privy Council (in London) as the final appeals court<br>
@@ -345,7 +345,6 @@ _subordinate courts_: Court of Appeal; High Court; tribunals and authorities; di
 
 **Political parties and leaders**<br>
 ACT New Zealand [David SEYMOUR]<br>Green Party [Marama DAVIDSON and James SHAW]<br>New Zealand First Party or NZ First [Winston PETERS]<br>New Zealand Labor Party [Chris HIPKINS]<br>New Zealand National Party [Christopher LUXON]<br>Te Pāti Māori [Debbie NGAREWA-PACKER and Rawiri WAITITI]<br>
-<strong>note:</strong> in the October 2023 general election, 11 additional parties won votes but no seats in Parliament<br>
 
 **International organization participation**<br>
 ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OECD, OPCW, Pacific Alliance (observer), Paris Club (associate), PCA, PIF, SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNOOSA, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -698,7 +697,7 @@ the NZDF is equipped mostly with Western-supplied weapons and equipment with the
 <strong>note 1: </strong>New Zealand opened up all military occupations to women in 2000; in 2022, women accounted for about 20% of armed forces personnel<br><br><strong>note 2:</strong> as of 2022, the NZDF’s program for recruiting foreign volunteers had been suspended<br>
 
 **Military deployments**<br>
-up to 220 Antarctica (summer season only) (2023)<br>
+small numbers of NZ military personnel are deployed on a variety of international missions in Africa, Antarctica, the Asia-Pacific region, and the Middle East (2024)<br>
 
 **Military - note**<br>
 the NZDF is a small military with considerable overseas experience; it supports the country’s national security objectives by protecting New Zealand’s sovereignty, promoting its interests, safeguarding peace and security, and conducting peacekeeping, humanitarian, and other international missions; the Army’s primary combat units are an infantry brigade and a special forces regiment; the Navy has a small force of frigates and patrol vessels, while the Air Force has squadrons of maritime patrol, anti-submarine, and anti-surface warfare aircraft <br><br>New Zealand is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>New Zealand has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; however, the US suspended its ANZUS security obligations to New Zealand in 1986 after New Zealand implemented a policy barring nuclear-armed and nuclear-powered warships from its ports; the US and New Zealand signed the Wellington Declaration in 2010, which reaffirmed close ties between the two countries, and in 2012 signed the Washington Declaration, which provided a framework for future security cooperation and defense dialogues; in 2016, a US naval ship conducted the first bilateral warship visit to New Zealand since the 1980s; New Zealand has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2024)<br>
@@ -722,9 +721,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-none identified<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 5 (2022)<br>

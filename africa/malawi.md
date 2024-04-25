@@ -361,8 +361,8 @@ _election results_: <br><em>2020: </em>Lazarus CHAKWERA elected president; Lazar
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (193 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <br>last held on 21 May 2019 (next to be held in May 2024)<br>
-_election results_: <br>percent of vote by party - NA; seats by party - DPP 62, MCP 55, UDF 10, PP 5, other 5, independent 55, vacant 1; composition as of February 2024 - men 153, women 40, percentage women 20.7%<br>
+_elections_: last held on 21 May 2019 (next to be held in May 2024)<br>
+_election results_: percent of vote by party - DPP 26%, MCP 22.3%, UTM 9.9%, UDF 4.6%, PP 2.4%, ADF 0.5%, independent 33.4%; seats by party - DPP 62, MCP 56, UDF 10, UTM 4, PP 5, ADF 1, independent 55; composition as of February 2024 - men 153, women 40, percentage women 20.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Appeal (consists of the chief justice and at least 3 judges)<br>
@@ -714,9 +714,6 @@ the MDF's inventory is comprised of mostly obsolescent or secondhand equipment o
 the MDF’s primary responsibility is external security; it is also tasked as necessary with providing support to civilian authorities during emergencies, supporting the Police Service, protecting national forest reserves, and participating in regional peacekeeping missions, as well as assisting with infrastructure development; it is generally considered to be a professional and effective service, although most of its equipment is aging and obsolescent; Malawi contributes regularly to African Union and UN peace support operations; the Army is the dominant service and has three infantry brigades while its subordinate maritime force has a few patrol boats for monitoring Lake Malawi <br><br>the MDF was established in 1964 from elements of the Kings African Rifles (KAR), a British colonial regiment raised from Great Britain's various possessions in East Africa from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Malawi-Mozambique</em>: the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Malawi-Tanzania</em>: dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 11,502 (Burundi) (refugees and asylum seekers), 6,594 (Rwanda) (refugees and asylum seekers) (2023); 34,605 (Democratic Republic of the Congo) (refugees and asylum seekers)<br>

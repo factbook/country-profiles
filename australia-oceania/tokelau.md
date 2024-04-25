@@ -248,7 +248,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 **Legislative branch**<br>
 _description_: unicameral General Fono (20 seats apportioned by island - Atafu 7, Fakaofo 7, Nukunonu 6; members directly elected by simple majority vote to serve 3-year terms); note - the Tokelau Amendment Act of 1996 confers limited legislative power to the General Fono<br>
 _elections_: last held on 26 January 2023 depending on island (next to be held in January 2026)<br>
-_election results_: <br>percent of vote by party - NA; seats by party - independent 20; composition - men 17, women 3, percent of women 15%<br>
+_election results_: percent of vote by party - NA; seats by party - independent 20; composition - men 17, women 3, percentage women 15%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (in New Zealand) (consists of the court president and 8 judges sitting in 3- or 5-judge panels, depending on the case)<br>
@@ -390,7 +390,4 @@ none; offshore anchorage only<br>
 defense is the responsibility of New Zealand<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Tokelau-American Samoa (US)</em>: Tokelau included American Samoa's Swains Island (Olosega) in its 2006 draft independence constitution; Swains Island has been administered by American Samoa since 1925; the 1980 Treaty of Tokehega delineates the maritime boundary between American Samoa and Tokelau; while not specifically mentioning Swains Island, the treaty notes in its preamble that New Zealand does not claim as part of Tokelau any island administered as part of American Samoa</p><br>
 

@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-Once part of Spain's vast empire in the New World, Honduras became an independent nation in 1821. After two and a half decades of mostly military rule, a freely elected civilian government came to power in 1982. During the 1980s, Honduras proved a haven for anti-Sandinista contras fighting the Marxist Nicaraguan Government and an ally to Salvadoran Government forces fighting leftist guerrillas. The country was devastated by Hurricane Mitch in 1998, which killed about 5,600 people and caused approximately $2 billion in damage. Since then, the economy has slowly rebounded, despite COVID and severe storm-related setbacks in 2020 and 2021.<br>
+Once part of Spain's vast empire in the New World, Honduras became an independent nation in 1821. After two and a half decades of mostly military rule, a freely elected civilian government came to power in 1982. During the 1980s, Honduras proved a haven for anti-Sandinista contras fighting the Marxist Nicaraguan Government and an ally to Salvadoran Government forces fighting leftist guerrillas. Hurricane Mitch devastated the country in 1998, killing about 5,600 people and causing approximately $2 billion in damage. Since then, the economy has slowly rebounded, despite COVID-19 and severe storm-related setbacks in 2020 and 2021.<br>
 
 ## Geography
 
@@ -338,8 +338,8 @@ _election results_: <br><em>2021: </em>Iris Xiomara CASTRO de Zelaya elected pre
 
 **Legislative branch**<br>
 _description_: unicameral National Congress or Congreso Nacional (128 seats; members directly elected in 18 multi-seat constituencies by closed party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: <br>last held on 28 November 2021 (next to be held on 30 November 2025)<br>
-_election results_: <br>percent of vote by party - LIBRE 39.8%, PNH 31.3%, PL 16.4%, PSH 10.9%, DC 0.8%, PAC 0.8%; seats by party - LIBRE 51, PNH 40, PL 21, PSH 14, DC 1, PAC 1; composition as of February 2024 - men 93, women 35, percentage women 27.3%<br>
+_elections_: last held on 28 November 2021 (next to be held on 30 November 2025)<br>
+_election results_: percent of vote by party - LIBRE 39.8%, PNH 31.3%, PL 16.4%, PSH 10.9%, DC 0.8%, PAC 0.8%; seats by party - LIBRE 51, PNH 40, PL 21, PSH 14, DC 1, PAC 1; composition as of February 2024 - men 93, women 35, percentage women 27.3%<br>
 <strong>note:</strong> seats by party as of 1 May 2022 - LIBRE 50, PNH 44, PL 22, PSH 10, DC 1, PAC 1<br>
 
 **Judicial branch**<br>
@@ -709,9 +709,6 @@ the FFAA's inventory is comprised of mostly older imported equipment from Israel
 the Honduran Armed Forces (FFAA) are responsible for maintaining the country’s territory, defending its sovereignty, providing emergency/humanitarian assistance, and supporting the National Police (PNH); the FFAA’s primary focus is internal and border security, and since 2011 a considerable portion of it has been deployed to support the PNH in combating narcotics trafficking and organized crime; military support to domestic security included the creation of the Military Police of Public Order (PMOP) in 2013 to provide security in areas controlled by street gangs to combat crime and make arrests; the PMOP also has sent personnel to reinforce security operations along the country’s border as part of a tri-national security task force with El Salvador and Guatemala; the FFAA has received military equipment, training, humanitarian, and technical assistance from the US military; the US military maintains a joint service task force co-located with the FFAA at Soto Cano Air Base<br><br>the Army’s combat forces include five infantry brigades, a special operations group, and approximately eight military police battalions; the Navy is a small force focused on coastal and riverine security that operates an ocean-going patrol vessel acquired in 2019 and supported by small flotillas of coastal and riverine patrol boats, as well as a small naval infantry force; the Air Force has a handful of older US-made jet fighters and light ground attack aircraft (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<em>Honduras-El Salvador:</em> International Court of Justice (ICJ) ruled on the delimitation of "bolsones" (disputed areas) along the El Salvador-Honduras border in 1992 with final settlement by the parties in 2006 after an Organization of American States survey and a further ICJ ruling in 2003; the 1992 ICJ ruling advised a tripartite resolution to a maritime boundary in the Gulf of Fonseca with consideration of Honduran access to the Pacific; El Salvador continues to claim tiny Conejo Island, not mentioned in the ICJ ruling, off Honduras in the Gulf of Fonseca. <br><em><br>Honduras-Belize:</em> Honduras claims the Belizean-administered Sapodilla Cays off the coast of Belize in its constitution; in 2022, Belize instituted proceedings against Honduras concerning sovereignty over the Sapodilla Cayes; the dispute is pending resolution in the ICJ<br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 247,000 (violence, extortion, threats, forced recruitment by urban gangs between 2004 and 2018) (2023)<br>

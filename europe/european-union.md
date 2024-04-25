@@ -58,8 +58,8 @@ flooding along coasts; avalanches in mountainous area; earthquakes in the south;
 ## People and Society
 
 **Population**<br>
-(July 2022 est.) 450,858,381<br>
-<strong>rank by population:</strong>   <ol> <li>Germany - 84,316,622; </li> <li>France - 68,305,148; </li> <li>Italy - 61,095,551; </li> <li>Spain - 47,163,418; </li> <li>Poland - 38,093,101; </li> <li>Romania - 18,519,899; </li> <li>Netherlands - 17,400,824; </li> <li>Belgium - 11,847,338; </li> <li>Czechia - 10,705,384; </li> <li>Greece - 10,533,871; </li> <li>Sweden - 10,483,647; </li> <li>Portugal - 10,242,081; </li> <li>Hungary - 9,699,577; </li> <li>Austria - 8,913,088; </li> <li>Bulgaria - 6,873,253; </li> <li>Denmark - 5,920,767; </li> <li>Finland - 5,601,547; </li> <li>Slovakia - 5,431,252; </li> <li>Ireland - 5,275,004; </li> <li>Croatia - 4,188,853; </li> <li>Lithuania - 2,683,546; </li> <li>Slovenia - 2,101,208; </li> <li>Latvia - 1,842,226; </li> <li>Cyprus - 1,295,102; </li> <li>Estonia - 1,211,524; </li> <li>Luxembourg - 650,364; </li> <li>Malta - 464,186 (July 2022 est.)</li> </ol> <br>
+450,858,381 (2022 est.)<br>
+<strong>rank by population:</strong>   <ol> <li>Germany - 84,316,622; </li> <li>France - 68,305,148; </li> <li>Italy - 61,095,551; </li> <li>Spain - 47,163,418; </li> <li>Poland - 38,093,101; </li> <li>Romania - 18,519,899; </li> <li>Netherlands - 17,400,824; </li> <li>Belgium - 11,847,338; </li> <li>Czechia - 10,705,384; </li> <li>Greece - 10,533,871; </li> <li>Sweden - 10,483,647; </li> <li>Portugal - 10,242,081; </li> <li>Hungary - 9,699,577; </li> <li>Austria - 8,913,088; </li> <li>Bulgaria - 6,873,253; </li> <li>Denmark - 5,920,767; </li> <li>Finland - 5,601,547; </li> <li>Slovakia - 5,431,252; </li> <li>Ireland - 5,275,004; </li> <li>Croatia - 4,188,853; </li> <li>Lithuania - 2,683,546; </li> <li>Slovenia - 2,101,208; </li> <li>Latvia - 1,842,226; </li> <li>Cyprus - 1,295,102; </li> <li>Estonia - 1,211,524; </li> <li>Luxembourg - 650,364; </li> <li>Malta - 464,186 (2022 est.)</li> </ol> <br>
 
 **Languages**<br>
 Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovene, Spanish, Swedish<br>
@@ -216,9 +216,9 @@ unique supranational system of laws in which, according to an interpretive decla
 
 **Legislative branch**<br>
 _description_: two legislative bodies consisting of the Council of the European Union (27 seats; ministers representing the 27 member states) and the European Parliament (705 seats; seats allocated among member states roughly in proportion to population size; members elected by proportional representation to serve 5-year terms); note - the European Parliament President, Roberta METSOLA, was elected in January 2022 by a majority of fellow members of the European Parliament (MEPs) and represents the Parliament within the EU and internationally; the Council of the EU and the MEPs share responsibilities for adopting the bulk of EU legislation; the two bodies must come to agreement for a commission proposal to become law, after negotiations in which they reconcile differences in each body's text of the proposal, except in the area of Common Foreign and Security Policy, which is governed by consensus of the EU member-state governments)<br>
-_elections_: <br>last held on 23-26 May 2019 (next to be held on 6-9 June 2024)<br>
-_election results_: <br>European Parliament percent of vote - NA; seats by party - EPP 179, S&amp;D 153, RE 105, Greens/EFA 74, ECR 63, ENF 58, EFDD 54, GUE-NGL 38, non-attached 7, others 20; Parliament composition - men 443, women 308, percentage women 41.0%<br>
-<strong>note: </strong>European Parliament seats by party as of 13 April 2023 - EPP 175, S&amp;D 144, RE 101, Greens/EFA 72, ECR, 66, ID 62, GUE-NGL 38, non-attached 47; European Parliament composition - men 428, women 277, percentage women 39.3%; note - composition of the European Council - men 23, women 4, percentage women 14.8%; total council and Parliament percentage women 38.4%<br>
+_elections_: last held on 23-26 May 2019 (next to be held on 6-9 June 2024)<br>
+_election results_: European Parliament percent of vote - NA; seats by party - EPP 182, S&amp;D 153, RE 108, Greens/EFA 75, ECR 62, ENF 73, EFDD 43, GUE-NGL 41, non-attached 7, other 7; composition as of February 2024 - men 424, women 281, percentage women 39.8%<br>
+<strong>note: </strong>European Parliament seats by party as of April 2024 - EPP 177, S&amp;D 139, RE 102, Greens/EFA 72, ECR, 68, ID 59, GUE-NGL 37, non-attached 51<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Justice of the European Union, which includes the Court of Justice (informally known as the European Court of Justice or ECJ) and the General Court (consists of 27 judges, one drawn from each member state); the ECJ includes 11 Advocates General while the General Court can include additional judges; both the ECJ and the General Court may sit in a "Grand Chamber" of 15 judges in special cases but usually in chambers of 3 to 5 judges<br>
@@ -226,7 +226,7 @@ _judge selection and term of office_: judges appointed by the common consent of 
 <strong>note:</strong> the ECJ is the supreme judicial authority of the EU; it ensures that EU law is interpreted and applied uniformly throughout the EU, resolves disputes among EU institutions and member states, and reviews issues and opinions regarding questions of EU law referred by member state courts<br>
 
 **Political parties and leaders**<br>
-Europe of Freedom and Direct Democracy or EFDD (dissolved June 2019)<br>European United Left-Nordic Green Left or GUE/NGL [Manon AUBRY and Martin SCHIRDEWAN]<br>European Conservatives and Reformists or ECR [Raffaele FITTO and Ryszard LEGUTKO]<br>European Greens/European Free Alliance or Greens/EFA [Ska KELLER and Philippe LAMBERTS]<br>European People's Party or EPP [Manfred WEBER]<br>Identity and Democracy Party or ID [Marco ZANNI] (formerly Europe of Nations and Freedom Group or ENF)<br>Progressive Alliance of Socialists and Democrats or S&amp;D [Iratxe GARCIA]<br>Renew Europe or RE [Stephane SEJOURNE] (formerly Alliance of Liberals and Democrats for Europe or ALDE)<br>
+Europe of Freedom and Direct Democracy or EFDD (dissolved June 2019)<br>European United Left-Nordic Green Left or GUE/NGL [Manon AUBRY and Martin SCHIRDEWAN]<br>European Conservatives and Reformists or ECR [Raffaele FITTO and Ryszard LEGUTKO]<br>European Greens/European Free Alliance or Greens/EFA [Ska KELLER and Philippe LAMBERTS]<br>European People's Party or EPP [Manfred WEBER]<br>Identity and Democracy Party or ID [Marco ZANNI] (formerly known as Europe of Nations and Freedom Group or ENF)<br>Progressive Alliance of Socialists and Democrats or S&amp;D [Iratxe GARCIA]<br>Renew Europe or RE [Stephane SEJOURNE] (formerly Alliance of Liberals and Democrats for Europe or ALDE)<br>
 
 **International organization participation**<br>
 ARF, ASEAN (dialogue member), Australian Group, BIS, BSEC (observer), CBSS, CERN, EBRD, FAO, FATF, G-7, G-10, G-20, IDA, IEA, IGAD (partners), LAIA (observer), NSG (observer), OAS (observer), OECD, PIF (partner), SAARC (observer), SICA (observer), UN (observer), UNRWA (observer), WCO, WTO, ZC (observer)<br>
@@ -516,7 +516,4 @@ the EUSPA’s mission is to provide a link between European users and space tech
 see individual EU member states<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-see individual European countries and Schengen Convention in Appendix B<br>
 

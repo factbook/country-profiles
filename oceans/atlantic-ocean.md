@@ -98,6 +98,3 @@ according to the International Maritime Bureau and the Maritime Administration o
 
 ## Transnational Issues
 
-**Disputes - international**<br>
-<p>some maritime disputes (see littoral states)</p><br>
-

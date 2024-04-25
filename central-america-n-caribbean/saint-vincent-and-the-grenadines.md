@@ -305,7 +305,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 **Legislative branch**<br>
 _description_: unicameral House of Assembly (23 seats; 15 representatives directly elected in single-seat constituencies by simple majority vote, 6 senators appointed by the governor general, and 2 ex officio members - the speaker of the house and the attorney general; members serve 5-year terms)<br>
 _elections_: last held on 5 November 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - ULP 49.58%, NDP 50.34%, other 0.8%; seats by party - ULP 9, NDP 6<br>
+_election results_: percent of vote by party - ULP 49.58%, NDP 50.34%, other 0.8%; seats by party - ULP 9, NDP 6; composition as of February 2024 - men 18, women 5, percentage women 21.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Saint Vincent and the Grenadines; note - Saint Vincent and the Grenadines is also a member of the Caribbean Court of Justice<br>
@@ -613,9 +613,6 @@ no regular military forces; Royal Saint Vincent and the Grenadines Police Force 
 the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Guyana, Saint Kitts and Nevis, and Saint Lucia) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Saint Vincent and the Grenadines-Venezuela</em>: joins other Caribbean states to counter Venezuela's claim that Aves Island sustains human habitation, a criterion under UN Convention on the Law of the Sea, which permits Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea</p><br>
 
 **Illicit drugs**<br>
 <p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>

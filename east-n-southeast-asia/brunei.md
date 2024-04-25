@@ -322,7 +322,7 @@ _elections/appointments_: none; the monarchy is hereditary<br>
 **Legislative branch**<br>
 _description_: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (33 seats; 20 members appointed by the sultan from ex-officio cabinet ministers, titled people, and prominent citizens in public service and various professional fields, 13 members from 4 multi-seat constituencies, and 3 ex-officio members - the speaker and first and second secretaries); members serve 5-year terms<br>
 _elections_: January 2023 - appointed by the sultan<br>
-_election results_: Legislative Council last appointed January 2023; composition men 30, women 4, percent of women 11.8%<br>
+_election results_: Legislative Council last appointed January 2023; composition as of March 2024 - men 30, women 4, percentage women 11.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the Court of Appeal and the High Court, each with a chief justice and 2 judges); Sharia Court (consists the Court of Appeals and the High Court); note - Brunei has a dual judicial system of secular and sharia (religious) courts; the Judicial Committee of Privy Council (in London) serves as the final appellate court for civil cases only<br>
@@ -667,9 +667,6 @@ the military's s inventory includes equipment and weapons systems from a wide va
 the Royal Brunei Armed Forces were formed in 1961 with British support as the Brunei Malay Regiment; "Royal" was added as an honorary title in 1965 and its current name was given in 1984; the military is responsible for ensuring the country’s sovereignty and territorial integrity, as well as countering outside aggression, terrorism, and insurgency; the Army is comprised of a few infantry battalions and an armored reconnaissance squadron, while the Navy has several corvettes and patrol vessels for monitoring the country’s territorial waters; the small Air Force does not have any combat aircraft, but operates some maritime patrol aircraft and helicopters <br><br>Brunei has a long-standing defense relationship with the UK and hosts a British Army garrison, which includes a Gurkha battalion and a jungle warfare school; Brunei also hosts a Singaporean military training detachment (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-none identified<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 20,863 (2022); note - thousands of stateless persons, often ethnic Chinese, are permanent residents and their families have lived in Brunei for generations; obtaining citizenship is difficult and requires individuals to pass rigorous tests on Malay culture, customs, and language; stateless residents receive an International Certificate of Identity, which enables them to travel overseas; the government is considering changing the law prohibiting non-Bruneians, including stateless permanent residents, from owning land<br>

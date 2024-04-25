@@ -305,7 +305,7 @@ _election results_: <em>2019: </em>Kausea NATANO elected prime minister by House
 **Legislative branch**<br>
 _description_: unicameral House of Assembly or Fale I Fono (16 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 4-year terms)<br>
 _elections_: last held on 26 January 2024 (next to be held in January 2028)<br>
-_election results_: <br>percent of vote - NA; seats - independent 16 (10 members reelected); composition as of February 2024 - 16 men, 0 women; percent women 0%<br>
+_election results_: percent of vote - NA; seats - independent 16; composition as of February 2024 - 16 men, 0 women, percentage women 0%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and not less than 3 appeals judges); High Court (consists of the chief justice); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -566,7 +566,4 @@ no regular military forces; Tuvalu Police Force (Ministry of Justice, Communicat
 Tuvalu has a security pact with Australia; Australia also provides support to the Tuvalu Police Force, including donations of patrol boats<br><br>Tuvalu has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tuvalu's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 

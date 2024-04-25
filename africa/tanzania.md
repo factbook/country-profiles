@@ -368,8 +368,8 @@ _election results_: <br><em>2020</em>: John MAGUFULI reelected president; percen
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Parliament (Bunge) (393 seats; 264 members directly elected in single-seat constituencies by simple majority vote, 113 women indirectly elected by proportional representation vote, 5 indirectly elected by simple majority vote by the Zanzibar House of Representatives, 10 appointed by the president, and 1 seat reserved for the attorney general; members serve 5-year terms); note - in addition to enacting laws that apply to the entire United Republic of Tanzania, the National Assembly enacts laws that apply only to the mainland; Zanzibar has its own House of Representatives or Baraza La Wawakilishi (82 seats; 50 members directly elected in single-seat constituencies by simple majority vote, 20 women directly elected by proportional representation vote, 10 appointed by the Zanzibar president, 1 seat for the House speaker, and 1 ex-officio seat for the attorney general; elected members serve a 5-year term)<br>
-_elections_: Tanzania National Assembly and Zanzibar House of Representatives - elections last held on 28 October 2020 (next Tanzania National Assembly and Zanzibar House of Representatives elections to be held in October 2025)<br>
-_election results_: National Assembly - percent of vote by party - NA; seats by party - CCM 350, Chadema 20, ACT-Wazalendo 4, CUF 3; composition as of early 2021 (388 members) - men 245, women 143, percent of women 36.9%<br><br>Zanzibar House of Representatives - percent of vote by party - NA; seats by party - CCM 69, ACT-Wazalendo 6, TADEA 1, Other 1; composition as of early 2021 (77 members) - men 48, women 29, percent of women 37.7%<br>
+_elections_: Tanzania National Assembly and Zanzibar House of Representatives - last held on 28 October 2020 (next to be held in October 2025)<br>
+_election results_: National Assembly - percent of vote by party - NA; seats by party - CCM 350, Chadema 20, ACT-Wazalendo 4, CUF 3; composition as of February 2024 - men 246, women 147, percentage women 37.4%<br><br>Zanzibar House of Representatives - percent of vote by party - NA; seats by party - CCM 69, ACT-Wazalendo 6, TADEA 1, other 1; composition as of February 2024 - men 48, women 29, percentage women 37.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal of the United Republic of Tanzania (consists of the chief justice and 14 justices); High Court of the United Republic for Mainland Tanzania (consists of the principal judge and 30 judges organized into commercial, land, and labor courts); High Court of Zanzibar (consists of the chief justice and 10 justices)<br>
@@ -377,7 +377,7 @@ _judge selection and term of office_: Court of Appeal and High Court justices ap
 _subordinate courts_: Resident Magistrates Courts; Kadhi courts (for Islamic family matters); district and primary courts<br>
 
 **Political parties and leaders**<br>
-Alliance for Change and Transparency (Wazalendo) or ACT-Wazalendo [Zitto Zuberi KABWE]<br>Civic United Front (Chama Cha Wananchi) or CUF [Ibrahim Haruna LIPUMBA]<br>Party of Democracy and Development (Chama Cha Demokrasia na Maendeleo) or CHADEMA [Freeman Aikael MBOWE]<br>Revolutionary Party of Tanzania (Chama Cha Mapinduzi) or CCM [Samia Suluhu HASSAN<br><br><strong>note: </strong>only parties with seats in the National Assembly listed<br>
+Alliance for Change and Transparency (Wazalendo) or ACT-Wazalendo [Zitto Zuberi KABWE]<br>Civic United Front (Chama Cha Wananchi) or CUF [Ibrahim Haruna LIPUMBA]<br>Party of Democracy and Development (Chama Cha Demokrasia na Maendeleo) or CHADEMA [Freeman Aikael MBOWE]<br>Revolutionary Party of Tanzania (Chama Cha Mapinduzi) or CCM [Samia Suluhu HASSAN]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, EAC, EADB, EITI, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SADC, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -730,8 +730,7 @@ the TPDF's inventory includes mostly Soviet-era and Chinese equipment; in recent
 18-25 years of age for voluntary military service for men and women; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2023)<br>
 
 **Military deployments**<br>
-575 Central African Republic (MINUSCA); 850 Democratic Republic of the Congo (MONUSCO; note - the MONUSCO mission is in the process of drawing down forces); 125 Lebanon (UNIFIL) (2023)<br>
-<strong>note:</strong> in 2021, Tanzania began contributing troops to the Southern African Development Community (SADC) intervention force that was assisting the Mozambique Government's fight against Islamic militants<br>
+520 Central African Republic (MINUSCA); 850 Democratic Republic of the Congo (MONUSCO; note - the MONUSCO mission is in the process of drawing down forces); 125 Lebanon (UNIFIL) (2024)<br>
 
 **Military - note**<br>
 the TDPF&rsquo;s primary concerns are maritime piracy and smuggling, border security, terrorism, animal poaching, and spillover from instability in neighboring countries, particularly Mozambique and the Democratic Republic of the Congo (DRC); it participates in multinational training exercises, regional peacekeeping deployments, and has ties with a variety of foreign militaries, including those of China and the US; it has contributed troops to the UN&rsquo;s Force Intervention Brigade in the DRC and to the Southern African Development Community intervention force in Mozambique; since 2020, the TPDF has deployed additional troops to its border with Mozambique following several cross-border attacks by fighters from the Islamic State of Iraq and ash-Sham operating in Mozambique; the TPDF&rsquo;s principal ground forces are five infantry brigades and an armored brigade; the Naval Forces operate patrol and fast attack boats, while the Air Force inventory includes small numbers of combat aircraft and helicopters (2023)<br>
@@ -743,9 +742,6 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Tanzania-Burundi</em>: none identified</p> <p><em>Tanzania-Democratic Republic of the Congo</em>: none identified</p> <p><em>Tanzania-Kenya</em>: none identified</p> <p><em>Tanzania-Malawi</em>: dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake</p> <p><em>Tanzania-Mozambique</em>: none identified</p> <p><em>Tanzania-Rwanda</em>: none identified</p> <p><em>Tanzania-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 89,163 (Democratic Republic of the Congo), 112,779 (Burundi) (2024)<br>

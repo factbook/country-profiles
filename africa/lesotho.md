@@ -344,8 +344,8 @@ _elections/appointments_: the monarchy is hereditary, but under the terms of the
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (33 seats; 22 principal chiefs and 11 other senators nominated by the king with the advice of the Council of State, a 13-member body of key government and non-government officials; members serve 5-year terms)<br>National Assembly (120 seats; 80 members directly elected in single-seat constituencies by simple majority vote and 40 elected through proportional representation; members serve 5-year terms)<br>
-_elections_: <p><br>Senate - last appointed by the king in November 2022 (next to be appointed 2028)<br>National Assembly - last held on 7 October 2022 (next to be held in February 2028)</p><br>
-_election results_: <p><br>Senate - percent of votes by party - NA, seats by party - NA; composition as of February 2024 - men 25, women 8, percent age women 24.2%<br><br>National Assembly - percent of votes by party - RFP 38.9%, DC 24.7%, ABC 7.1%, BAP 5.4%, AD 4.0%, MEC 3.2%, LCD 2.3%, SR 2.1%, BNP 1.4%, PFD 0.9%, BCM 0.8%, MPS 0.8%, MIP 0.7%; seats by party - RFP 56, DC 29, ABC 8, BAP 6, AD 5, MEC 4, LCD 3, SR 2, BNP 1, PFD 1, BCM 1, MPS 1, NIP 1, HOPE 1, TBD 1; composition as of February 2024 - men 90, women 30, percentage 25%; note - total Parliament percentage women 24.8%</p><br>
+_elections_: Senate - last appointed by the king in November 2022 (next to be appointed 2028)<br>National Assembly - last held on 7 October 2022 (next to be held in February 2028)<br>
+_election results_: Senate - percent of votes by party - NA, seats by party - NA; composition as of February 2024 - men 25, women 8, percent age women 24.2%<br><br>National Assembly - percent of votes by party - RFP 38.9%, DC 24.7%, ABC 7.1%, BAP 5.4%, AD 4.0%, MEC 3.2%, LCD 2.3%, SR 2.1%, BNP 1.4%, PFD 0.9%, BCM 0.8%, MPS 0.8%, MIP 0.7%; seats by party - RFP 56, DC 29, ABC 8, BAP 6, AD 5, MEC 4, LCD 3, SR 2, BNP 1, PFD 1, BCM 1, MPS 1, NIP 1, HOPE 1, TBD 1; composition as of February 2024 - men 90, women 30, percentage 25%; note - total Parliament percentage women 24.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president, such number of justices of appeal as set by Parliament, and the Chief Justice and the puisne judges of the High Court ex officio); High Court (consists of the chief justice and such number of puisne judges as set by Parliament); note - both the Court of Appeal and the High Court have jurisdiction in constitutional issues<br>
@@ -682,7 +682,4 @@ the LDF has a small inventory of older and second-hand equipment from a variety 
 Lesotho's declared policy for its military is the maintenance of the country's sovereignty and the preservation of internal security; in practice, external security is guaranteed by South Africa; the LDF is a small force comprised of about a half dozen infantry companies; it began in 1964 as the Police Mobile Unit (PMU); the PMU was designated as the Lesotho Paramilitary Force in 1980 and became the Royal Lesotho Defense Force in 1986; it was renamed the Lesotho Defense Force in 1993 (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Lesotho-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, as well as Mozambique and, Zimbabwe, to assist with controlling cross-border smuggling, poaching, and illegal migration</p> <p> </p><br>
 

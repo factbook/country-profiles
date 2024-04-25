@@ -320,8 +320,8 @@ _election results_: <em>2021:</em> Ratu Wiliame KATONIVERE elected president; Wi
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (55 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote with a 5% electoral threshold; members serve 4-year terms)<br>
-_elections_: <br>last held on 14 December 2022 (next to be held in 2026)<br>
-_election results_: <br>percent of vote by party - FijiFirst 42.5%, People's Alliance 35.8%, NFP 8.9%, SODELPA 5.1%, other 7.7%; seats by party - FijiFirst 26, People's Alliance 21, NFP 5, SODELPA 3; composition as of February 2024 - men 50, women 5, percentage women 9.1%<br>
+_elections_: last held on 14 December 2022 (next to be held in 2026)<br>
+_election results_: percent of vote by party - FijiFirst 42.5%, People's Alliance 35.8%, NFP 8.9%, SODELPA 5.1%, other 7.7%; seats by party - FijiFirst 26, People's Alliance 21, NFP 5, SODELPA 3; composition as of February&nbsp;2024 - men 50, women 5, percentage women 9.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice, all justices of the Court of Appeal, and judges appointed specifically as Supreme Court judges); Court of Appeal (consists of the court president, all puisne judges of the High Court, and judges specifically appointed to the Court of Appeal); High Court (chaired by the chief justice and includes a minimum of 10 puisne judges; High Court organized into civil, criminal, family, employment, and tax divisions)<br>
@@ -675,13 +675,10 @@ the RFMF is lightly armed and equipped; Australia has provided patrol boats and 
 18-25 years of age for voluntary military service for men and women; mandatory retirement at age 55 (2023)<br>
 
 **Military deployments**<br>
-170 Egypt (MFO); 160 Iraq (UNAMI); 150 Golan Heights (UNDOF) (2023)<br>
+170 Egypt (MFO); 160 Iraq (UNAMI); 150 Golan Heights (UNDOF) (2024)<br>
 
 **Military - note**<br>
 established in 1920,<strong> </strong>the RFMF is a small and lightly-armed force with a history of intervening in the country’s politics, including coups in 1987 and 2006, and a mutiny in 2000, and it continues to have significant political power; the RFMF is responsible for external security but can be assigned some domestic security responsibilities in specific circumstances; it also has a tradition of participating in UN peacekeeping operations, having sent troops on nearly 20 such missions since first deploying personnel  to South Lebanon in 1978; these deployments have offered experience and a source of financial support; the RFMF has an infantry regiment and a small naval element comprised of patrol boats <br><br>Fiji has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Fiji's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<em>Fiji-Tonga</em>: Fiji does not recognize Tonga’s 1972 claim to the Minerva Reefs and their surrounding waters<br>
 

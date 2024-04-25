@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Hungary became a Christian kingdom in A.D. 1000 and for many centuries served as a bulwark against Ottoman Turkish expansion in Europe. The kingdom eventually became part of the polyglot Austro-Hungarian Empire, which collapsed during World War I. The country fell under communist rule following World War II. In 1956, a revolt and an announced withdrawal from the Warsaw Pact were met with a massive military intervention by Moscow. Under the leadership of Janos KADAR in 1968, Hungary began liberalizing its economy, introducing so-called "Goulash Communism." Hungary held its first multiparty elections in 1990 and initiated a free market economy. It joined NATO in 1999 and the EU five years later.<br>
+Hungary became a Christian kingdom in A.D. 1000 and for many centuries served as a bulwark against Ottoman Turkish expansion in Europe. The kingdom eventually became part of the Austro-Hungarian Empire, which collapsed during World War I. The country fell under communist rule after World War II. In 1956, Moscow responded to a Hungarian revolt and announcement of its withdrawal from the Warsaw Pact with a massive military intervention. Under the leadership of Janos KADAR in 1968, Hungary began liberalizing its economy, introducing so-called "Goulash Communism." Hungary held its first multiparty elections in 1990 and initiated a free market economy. It joined NATO in 1999 and the EU five years later.<br>
 
 ## Geography
 
@@ -349,8 +349,8 @@ _election results_: <br><em>2024:</em> Tamas SULYOK elected president; National 
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party-list proportional representation vote, using the D&rsquo;Hondt method; members serve 4-year terms)<br>
-_elections_: <br>last held on 3 April 2022 (next to be held in April 2026)<br>
-_election results_: <br>percent of vote by party list - Fidesz-KDNP 54.1%, United for Hungary 34.5%, Mi Hazank 5.9%, other 5.5%; seats by party list - Fidesz-KDNP 135, United for Hungary 57, Mi Hazank 6, independent 1; composition as of February 2024 - men 170, women 29, percentage women 14.6%<br>
+_elections_: last held on 3 April 2022 (next to be held in April 2026)<br>
+_election results_: percent of vote by party list - Fidesz-KDNP 54.1%, United for Hungary 34.5%, Mi Hazank 5.9%, other 5.5%; seats by party list - Fidesz-KDNP 135, United for Hungary 57, Mi Hazank 6, independent 1; composition as of February 2024 - men 170, women 29, percentage women 14.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Curia or Supreme Judicial Court (consists of the president, vice president, department heads, and has a maximum of 113 judges, and is organized into civil, criminal, and administrative-labor departments; Constitutional Court (consists of 15 judges, including the court president and vice president)<br>
@@ -742,11 +742,8 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 ## Transnational Issues
 
-**Disputes - international**<br>
-none identified<br>
-
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 66,135 (Ukraine) (as of 17 March 2024)<br>
+_refugees (country of origin)_: 66,135 (Ukraine) (as of 15 April 2024)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

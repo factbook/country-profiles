@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Italy became a nation-state in 1861 when the regional states of the peninsula, along with Sardinia and Sicily, were united under King Victor EMMANUEL II. An era of parliamentary government came to a close in the early 1920s when Benito MUSSOLINI established a Fascist dictatorship. His alliance with Nazi Germany led to Italy's defeat in World War II. A democratic republic replaced the monarchy in 1946 and economic revival followed. Italy is a charter member of NATO and the European Economic Community (EEC) and its subsequent successors the EC and the EU. It has been at the forefront of European economic and political unification, joining the Economic and Monetary Union in 1999. Persistent problems include sluggish economic growth, high youth and female unemployment, organized crime, corruption, and economic disparities between southern Italy and the more prosperous north.</p><br>
+<p>Italy became a nation-state in 1861 when the regional states of the peninsula, along with Sardinia and Sicily, were united under King Victor EMMANUEL II. An era of parliamentary government came to a close in the early 1920s when Benito MUSSOLINI established a Fascist dictatorship. His alliance with Nazi Germany led to Italy's defeat in World War II. A democratic republic replaced the monarchy in 1946, and economic revival followed. Italy is a charter member of NATO, as well as the European Economic Community (EEC) and its successors, the EC and the EU. It has been at the forefront of European economic and political unification, joining the Economic and Monetary Union in 1999. Persistent problems include sluggish economic growth, high youth and female unemployment, organized crime, corruption, and economic disparities between southern Italy and the more prosperous north.</p><br>
 
 ## Geography
 
@@ -336,8 +336,8 @@ _election results_: <br><em>2022:</em> Sergio MATTARELLA (independent) reelected
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlamento consists of:<br>Senate or Senato della Repubblica (200 elected seats; 122 members in multi-seat constituencies directly elected by proportional representation vote, 74 members in single-seat constituencies directly elected by plurality vote, and 4 members in multi-seat constituencies abroad directly elected by proportional representation vote; all members serve 5-year terms)<br>Chamber of Deputies or Camera dei Deputati (400 seats; 245 members directly elected in multi-seat constituencies by proportional representation vote; 147 members directly elected in single-seat constituencies by plurality vote and 8 members in multi-seat constituencies abroad directly elected by proportional representation vote; members serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 25 September 2022 (next to be held no later than December 2027)<br>Chamber of Deputies - last held on 25 September 2022; note - snap elections were called when Prime Minister DRAGHI resigned and the parliament was dissolved on 21 July 2022 (next to be held on 30 September 2027)<br>
-_election results_: <br>Senate - percent of vote by party/coalition - NA; seats by party/coalition - center-right coalition 113 (FdI 65, Lega 30, FI 18), center-left coalition 43 (PD 40, AVS 3), M5S 28, Action-Italia Viva 9, SVP 2, MAIE 1, ScN 1; composition as of February 2024 - men 131, women 74, percentage women 36.1%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - center-right coalition 230 (FdI 119, Lega 66, FI 45), center-left coalition 83 (PD 69, AVS 12, +EU 2), M5S 52, Action-Italia Viva 21, SVP 3, MAIE 1, ScN 1; composition as of February 2024 - men 271, women 129, percentage women 32.3%; note - total Parliament percentage women 33.6%<br>
+_elections_: Senate - last held on 25 September 2022 (next to be held no later than December 2027)<br>Chamber of Deputies - last held on 25 September 2022; note - snap elections were called when Prime Minister DRAGHI resigned and the parliament was dissolved on 21 July 2022 (next to be held on 30 September 2027)<br>
+_election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - center-right coalition 113 (FdI 65, Lega 30, FI 18), center-left coalition 43 (PD 40, AVS 3), M5S 28, Action-Italia Viva 9, SVP 2, MAIE 1, ScN 1; composition as of February 2024 - men 131, women 74, percentage women 36.1%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - center-right coalition 230 (FdI 119, Lega 66, FI 45), center-left coalition 83 (PD 69, AVS 12, +EU 2), M5S 52, Action-Italia Viva 21, SVP 3, MAIE 1, ScN 1; composition as of February 2024 - men 271, women 129, percentage women 32.3%; total Parliament percentage women 33.6%<br>
 <strong>note</strong>: in October 2019, Italy's Parliament voted to reduce the number of Senate seats from 315 to 200 and the number of Chamber of Deputies seats from 630 to 400; a referendum to reduce the membership of Parliament held on 20-21 September 2020 was approved, effective for the September 2022 snap election<br>
 
 **Judicial branch**<br>
@@ -714,7 +714,7 @@ the military's inventory includes a mix of domestically manufactured, imported, 
 <strong>note:</strong> women may serve in any military branch; as of 2020, women made up about 6% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-120 Djibouti; approximately 750 Bulgaria (NATO); approximately 650 Middle East (NATO, European Assistance Mission Iraq); 250 Hungary (NATO; 1,500 Kosovo (NATO/KFOR); 250 Latvia (NATO); 1,325 Lebanon (UNIFIL); 200 Libya; 350 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2024)<br>
+120 Djibouti; approximately 750 Bulgaria (NATO); approximately 650 Middle East (NATO, European Assistance Mission Iraq); 250 Hungary (NATO; up to 1,500 Kosovo (NATO/KFOR); 250 Latvia (NATO); 1,325 Lebanon (UNIFIL); 200 Libya; 350 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2024)<br>
 <strong>note:</strong> Italy has about 11,500 total air, ground, and naval forces deployed on foreign missions<br>
 
 **Military - note**<br>
@@ -739,9 +739,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 169,165 (Ukraine) (as of 23 February 2024)<br>

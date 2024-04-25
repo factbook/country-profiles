@@ -312,7 +312,7 @@ _election results_: Manasseh SOGAVARE (OUR Party) elected prime minister on 24 A
 **Legislative branch**<br>
 _description_: unicameral National Parliament (50 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
 _elections_: last held on 3 April 2019 (next originally scheduled for April 2023 but delayed until 17 April 2024)<br>
-_election results_: percent of vote by party - UDP 10.7%, DAP 7.8%, PAP 4.4%, independent 56.3%, other 20.8%; seats by party - DAP 7, UDP 5, PAP 3, KPSI 1, SIPFP 1, SIPRA 1, independent 32; composition - men 46, women 4, percent of women 8%<br>
+_election results_: percent of vote by party - UDP 10.7%, DAP 7.8%, PAP 4.4%, independent 56.3%, other 20.8%; seats by party - DAP 7, UDP 5, PAP 3, KPSI 1, SIPFP 1, SIPRA 1, independent 32; composition as of December 2020 - men 46, women 4, percentage women 8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and ex officio members including the High Court chief justice and its puisne judges); High Court (consists of the chief justice and puisne judges, as prescribed by the National Parliament)<br>
@@ -644,9 +644,6 @@ China and Australia have provided equipment to the Police Force; the maritime br
 from 2003 to 2017, at the request of the Solomon Islands Governor-General, the Regional Assistance Mission to Solomon Islands (RAMSI), consisting of police, military, and civilian advisors drawn from 15 countries, assisted in reestablishing and maintaining civil and political order while reinforcing regional stability and security; since November 2021, the Australian-led Solomon Islands Assistance Force (SIAF) has supported the Royal Solomon Islands Police Force (RSIPF) to maintain stability; the SIAF includes police and military from Australia, New Zealand, Fiji, and Papua New Guinea; the Solomon Islands Government has also signed police and security agreements with China and a small Chinese police liaison team is embedded with the RSIPF (2024)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-none identified<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Solomon Islands does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; these efforts included developing a communication and implementation strategy for its National Action Plan and raising awareness of trafficking; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; authorities did not identify or assist victims, and protection services remained inadequate; officials did not initiate any trafficking investigations or prosecutions and, for the third consecutive year, did not convict any traffickers; the government did not conduct anti-trafficking training for its police or judicial officials who lack an understanding of trafficking; for the fourth consecutive year, authorities did not conduct systematic monitoring and inspection activities at logging sites or in the fishing or mining sectors, despite clear indicators of trafficking; therefore, Solomon Islands was downgraded to Tier 2 Watch List (2023)<br>

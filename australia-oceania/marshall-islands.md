@@ -306,8 +306,8 @@ _election results_: <em>2023: </em>Hilda C. HEINE elected president; National Pa
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament consists of:<br>Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms); note - the Council of Iroij, a 12-member group of tribal leaders advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice); members appointed to serve 1-year terms<br>
-_elections_: <br>last held on 20 November 2023 (next to be held in November 2027)<br>
-_election results_: <em><br></em>percent of vote by party - NA; seats by part - independent 33; composition as of February 2024 - men 29, women 4, percent of women 12.1%<br>
+_elections_: last held on 20 November 2023 (next to be held in November 2027)<br>
+_election results_: percent of vote by party - NA; seats by part - independent 33; composition as of February 2024 - men 29, women 4, percent of women 12.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 2 associate justices)<br>
@@ -574,9 +574,6 @@ no regular military forces; the national police (Marshall Islands Police Departm
 defense is the responsibility of the US; the islands of Kwajalein and Roi-Namur are home to more than 1,000 US military service members, Department of Defense civilians and contractors<br><br>the Marshall Islands have a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within its designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Marshall Islands-US</em>: claims US territory of Wake Island; the Marshall Islands put its claim on record with the UN in 2016</p> <p> </p><br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Marshall Islands does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials identified a labor trafficking victim, conducted awareness-raising activities, and continued to investigate a government official allegedly complicit in trafficking; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; the government did not prosecute any traffickers for the third consecutive year and has not convicted any traffickers since 2011; officials did not use standard operating procedures to identify trafficking victims and penalized victims for immigration offenses committed as a direct result of being trafficked; law enforcement officials, who have a limited understanding of trafficking, did not receive anti-trafficking training, nor did the government provide adequate financial and technical resources for anti-trafficking efforts; therefore, Marshall Islands was downgraded to Tier 2 Watch List (2023)<br>

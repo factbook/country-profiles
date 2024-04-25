@@ -311,9 +311,9 @@ _elections/appointments_: chief of state indirectly elected by the Legislative A
 _election results_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi II (independent) unanimously reelected by the Legislative Assembly<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Fono (53 seats for 2021-2026 term); members from 51 single-seat constituencies directly elected by simple majority vote, with a minimum 10% representation of women in the Assembly required; members serve 5-year terms)<br>
+_description_: unicameral Legislative Assembly or Fono (53 seats statutory, 54 (2021-25 term); members from single-seat constituencies directly elected by simple majority vote, with a minimum 10% representation of women in the Assembly required; members serve 5-year terms)<br>
 _elections_: election last held on 9 April 2021 (next election to be held in 2026)<br>
-_election results_: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independents 5%; seats by party – 35 FAST, 18 HRPP, 1 independent; composition - men 47, women 7, percent of women 14.9% <br><strong>note:</strong> on 29 November 2021, the Election Commissioner added two women seats to parliament, bringing the HRPP’s total from 20 to 22 seats<br>
+_election results_: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independent 5%; seats by party – 35 FAST, HRPP 18, independent 1; composition as of 1 April 2024 - men 47, women 7, percentage women 13%<br><br><strong>note:</strong> on 29 November 2021, the Election Commissioner added two seats for women to the National Assembly, bringing the HRPP’s total from 20 to 22 seats<br><strong><br></strong><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and 2 Supreme Court judges and meets once or twice a year); Supreme Court (consists of the chief justice and several judges)<br>
@@ -633,7 +633,4 @@ no regular military forces; Samoa Police Force (Ministry of Police, Prisons, and
 informal defense ties exist with New Zealand, which is required to consider any Samoan request for assistance under the 1962 Treaty of Friendship <br><br>Samoa has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Somoa's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 

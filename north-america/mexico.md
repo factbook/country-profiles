@@ -369,8 +369,8 @@ _election results_: <br><em>2018:</em> Andrés Manuel LÓPEZ OBRADOR elected pre
 
 **Legislative branch**<br>
 _description_: <p>bicameral National Congress or Congreso de la Unión consists of:<br>Senate or Cámara de Senadores (128 seats; 96 members directly elected in multi-seat constituencies by simple majority vote and 32 directly elected in a single, nationwide constituency by proportional representation vote; members serve 6-year terms)<br><br>Chamber of Deputies or Cámara de Diputados (500 seats; 300 members directly elected in single-seat constituencies by simple majority vote and 200 directly elected in a single, nationwide constituency by proportional representation vote; members serve 3-year terms)</p><br>
-_elections_: Senate - last held on 1 July 2018 (next to be held in July 2024)<br><br>Chamber of Deputies - last held on 6 June 2021 (next to be held on 2 June 2024)<br>
-_election results_: <p>Senate - percent of vote by party - NA; seats by party - MORENA 55, PAN 23, PRI 14, PES 8, PRD 8, MC 7, PT 6, PVEM 6, PNA/PANAL 1; composition (as of July 2018) - men 65, women 63, percent of women 49.2%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - MORENA 191, PAN 81, PES 56, PRI 45, PT 61, MC 27, PRD 21, PVEM 16, PNA 2; composition - men 250, women 250, percent of women 50%; note - overall percent of women in National Congress 49.8%</p><br>
+_elections_: Senate - last held on 1 July 2018 (next to be held in July 2024)<br>Chamber of Deputies - last held on 6 June 2021 (next to be held on 2 June 2024)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - MORENA 55, PAN 23, PRI 14, PES 8, PRD 8, MC 7, PT 6, PVEM 6, PNA/PANAL 1; composition as of February 2024 - men 62, women 64, percentage women 50.8%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - MORENA 191, PAN 81, PES 56, PRI 45, PT 61, MC 27, PRD 21, PVEM 16, PNA 2; composition - men 248, women 252, percentage women 50.4%; total National Congress percentage women 50.5%<br>
 <strong>note: </strong>as of the 2018 election, senators will be eligible for a second term and deputies up to 4 consecutive terms<br>
 
 **Judicial branch**<br>
@@ -765,9 +765,6 @@ the AEM’s focus is on coordinating Mexico’s space policy and the country’s
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Mexico-Belize</em>: Mexico and Belize are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty</p> <p><em>Mexico-Guatemala</em>: Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the US</p> <p><em>Mexico-US</em>: the US has intensified security measures to monitor and control legal and illegal persons, transport, and commodities across its border with Mexico</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 35,755 (Honduras), 13,531 (El Salvador) (mid-year 2022); 91,359 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022)<br>

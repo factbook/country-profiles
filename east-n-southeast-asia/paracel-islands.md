@@ -67,7 +67,7 @@ composed of 130 small coral islands and reefs divided into the northeast Amphitr
 
 **Population**<br>
 1,440 (July 2014 est.)<br>
-<strong>note:</strong> Chinese activity has increased in recent years, particularly on Woody Island, where the population exceeds 1,000; there are scattered Chinese garrisons on some other islands<br>
+<strong>note:</strong> Chinese activity has increased in recent years, particularly on Woody Island, where the population exceeds 1,000; some other islands have scattered Chinese garrisons<br>
 
 **Age structure**<br>
 _0-14 years_: NA<br>
@@ -146,7 +146,4 @@ small Chinese port facilities on Woody Island and Duncan Island<br>
 occupied by China, which is assessed to maintain 20 outposts in the Paracels (Antelope, Bombay, and North reefs; Drummond, Duncan, Lincoln, Middle, Money, North, Pattle, Quanfu, Robert, South, Tree, Triton, Woody, and Yagong islands; South Sand and West Sand; Observation Bank); the outposts range in size from one or two buildings to bases with significant military infrastructure; Woody Island is the main base in the Paracels and includes an airstrip with fighter aircraft hangers, naval facilities, surveillance radars, and defenses such as surface-to-air missiles and anti-ship cruise missiles; combat aircraft have deployed to the island (2024)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Paracel Islands-China-Taiwan-Vietnam</em>: occupied by China, also claimed by Taiwan and Vietnam</p><br>
 

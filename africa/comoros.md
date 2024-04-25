@@ -320,7 +320,7 @@ _election results_: <em><br>2024: </em>AZALI Assoumani reelected president in fi
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Union (33 seats; 24 members directly elected by absolute majority vote in 2 rounds if needed and 9 members indirectly elected by the 3 island assemblies; members serve 5-year terms)<br>
 _elections_: last held on&nbsp;19 January 2020 with a runoff on 23&nbsp;February 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party in first round - CRC 60.9%, Orange Party 4.3%, independent 30.8%, other 4%; percent of vote by party in the second round - CRC 54.1%, Orange Party 18.9%, independent 26.1%, other 1%; seats by party in the first round -  CRC 16, Orange Party 1, independent 2; seats by party in the second round - CRC 4, Orange Party 1; note - 9 additional seats filled by the 3 island assemblies; note - main opposition parties boycotted election; composition for elected members as of 2022 - men 20, women 4, percent of women 16.7%<br> <h3> </h3><br>
+_election results_: percent of vote by party in first round - CRC 60.9%, Orange Party 4.3%, independent 30.8%, other 4%; seats by party in the first round -  CRC 16, Orange Party 1, independent 2; percent of vote by party in the second round - CRC 54.1%, Orange Party 18.9%, independent 26.1%, other 1%; seats by party in the second round - CRC 4, Orange Party 1; note - 9 additional seats filled by the 3 island assemblies; composition for elected members as of March 2024 - men 20, women 4, percentage women 16.7%; note - main opposition parties boycotted election; <br> <h3> </h3><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of 7 judges)<br>
@@ -329,7 +329,7 @@ _subordinate courts_: Court of Appeals (in Moroni); Tribunal de premiere instanc
 <br>   <br><br> <br>
 
 **Political parties and leaders**<br>
-Convention for the Renewal of the Comoros or CRC [AZALI Assoumani]<br>Juwa Party (Parti Juwa) or PJ [Ahmed Abdallah Mohamed SAMBI]<br>Orange Party [Mohamed DAOUDOU]<br><br><br><strong>Note</strong>: only parties with seats in the Assembly of the Union included (2020)<br>
+Convention for the Renewal of the Comoros or CRC [AZALI Assoumani]<br>Juwa Party (Parti Juwa) or PJ [Ahmed Abdallah Mohamed SAMBI]<br>Orange Party [Mohamed DAOUDOU] (2020)<br>
 
 **International organization participation**<br>
 ACP, AfDB, AMF, AOSIS, AU, CAEU (candidates), COMESA, FAO, FZ, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
@@ -647,7 +647,4 @@ the defense forces are lightly armed with a mix of mostly older equipment origin
 the security forces are limited in capabilities to performing search and rescue operations and maintaining internal security; a defense treaty with France provides naval resources for protection of territorial waters, training of Comoran military personnel, and air surveillance; France maintains a small maritime base and a Foreign Legion contingent on neighboring Mayotte (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>claims French-administered Mayotte and challenges France's and Madagascar's claims to Banc du Geyser, a drying reef in the Mozambique Channel</p><br>
 

@@ -80,7 +80,7 @@ _noun_: Andorran(s)<br>
 _adjective_: Andorran<br>
 
 **Ethnic groups**<br>
-Spanish 34.3%, Andorran 32.1%, Portuguese 10%, French 5.6%, other 18% (2023 est.)<br>
+Spanish 34.3%, Andorran 32.1%, Portuguese 10%, French 5.6%, other 18% (2024 est.)<br>
 <strong>note:</strong> data represent population by country of birth<br>
 
 **Languages**<br>
@@ -295,16 +295,16 @@ _residency requirement for naturalization_: 25 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Co-prince Emmanuel MACRON (since 14 May 2017); represented by Patrick STROZDA (since 14 May 2017); and Co-prince Archbishop Joan-Enric VIVES i Sicilia (since 12 May 2003); represented by Josep Maria MAURI (since 20 July 2012)<br>
+_chief of state_: Co-prince Emmanuel MACRON (since 14 May 2017); represented by Patrick STROZDA (since 14 May 2017); and Co-prince Archbishop Joan-Enric VIVES i Sicilia (since 12 May 2003); represented by Eduard Ibanez PULIDO (since 27 November 2023)<br>
 _head of government_: Prime Minister Xavier Espot ZAMORA (since 16 May 2019)<br>
-_cabinet_: Executive Council of 12 ministers designated by the head of government<br>
+_cabinet_: Executive Council composed of head of government and 11 ministers designated by the head of government<br>
 _elections/appointments_: head of government indirectly elected by the General Council (Andorran parliament), formally appointed by the co-princes for a 4-year term; election last held on 2 April 2023 (next to be held in April 2027); the leader of the majority party in the General Council is usually elected head of government<br>
 _election results_: <em><br>2023: </em>Xaviar Espot ZAMORA (DA) reelected head of government; percent of General Council vote - 57.1%<br><em><br>2019:</em>  Xaviar Espot ZAMORA (DA) elected head of government; percent of General Council vote - 60.7<br>
 
 **Legislative branch**<br>
-_description_: unicameral General Council of the Valleys or Consell General de les Valls (a minimum of 28 seats; 14 members directly elected in two-seat constituencies (7 parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms); note - voters cast two separate ballots - one for national election and one for their parish<br>
+_description_: unicameral General Council of the Valleys or Consell General de les Valls (28 seats; 14 members directly elected in two-seat constituencies (7 parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms); note - voters cast two separate ballots - one for national election and one for their parish<br>
 _elections_: last held on 2 April 2023 (next to be held in April 2027)<br>
-_election results_: <br>percent of vote by party/coalition - DA, CC, L'A &amp; ACCIO alliance 43.6%, C 21.4%, AE 16%, PS &amp; SDP alliance 21.1%; seats by party/coalition - DA, CC, L'A &amp; ACCIO alliance 17, C 5, AE 3, PS &amp; SDP alliance 3; composition as of February 2024 - men 14, women 14, percentage women 50%<br>
+_election results_: percent of vote by party/coalition - DA, CC, L'A &amp; ACCIO alliance 43.6%, C 21.4%, AE 16%, PS &amp; SDP alliance 21.1%; seats by party/coalition - DA, CC, L'A &amp; ACCIO alliance 17, C 5, AE 3, PS &amp; SDP alliance 3; composition as of February 2024 - men 14, women 14, percentage women 50%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice of Andorra or Tribunal Superior de la Justicia d'Andorra (consists of the court president and 8 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tribunal Constitucional (consists of 4 magistrates)<br>
@@ -312,7 +312,7 @@ _judge selection and term of office_: Supreme Court president and judges appoint
 _subordinate courts_: Tribunal of Judges or Tribunal de Batlles; Tribunal of the Courts or Tribunal de Corts<br>
 
 **Political parties and leaders**<br>
-Action for Andorra or ACCIO [Judith PALLARES]<br>Committed Citizens or CC [David BARO Riva]<br>Concord [Cerni ESCALE Cabre]<br>Democrats for Andorra or DA [Xaviar ESPOT ZAMORA]<br>Forward Andorra or AE [Carine Montaner RAYNAUD]<br>Liberals of Andorra or L'A [Joseph Maria CABANES]<br>Social Democracy and Progress or SDP [Victor NAUDI]<br>Social Democratic Party or PS [Pere Lopez AGRAS]<br>
+Action for Andorra or ACCIO [Judith PALLARES]<br>Committed Citizens or CC [Carles NAUDI d'ARENY PLANDOLIT]<br>Concord [Cerni ESCALE Cabre]<br>Democrats for Andorra or DA [Xavier Espot ZAMORA]<br>Forward Andorra or AE [Carine Montaner RAYNAUD]<br>Liberals of Andorra or L'A [Josep Maria CABANES]<br>Social Democratic Party or PS [Pere Barao ROCAMONDE]<br>Social Democracy and Progress or SDP [Victor NAUDI]<br>
 <strong>note:</strong> Andorra has several smaller parties at the parish level (one is Lauredian Union)<br>
 
 **International organization participation**<br>
@@ -490,9 +490,9 @@ _total subscriptions_: 89,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Andorra has a modern telecommunications system with microwave radio relay connections between the exchanges and land line circuits to France and Spain (2020)<br>
+_general assessment_: Andorra has a modern telecommunications system with microwave radio relay connections between the exchanges and land line circuits to France and Spain (2023)<br>
 _domestic_: about 63 per 100 fixed-line, 110 per 100 mobile-cellular (2021)<br>
-_international_: country code - 376; landline circuits to France and Spain; modern system with microwave radio relay connections between exchanges (2019)<br>
+_international_: country code - 376; landline circuits to France and Spain; modern system with microwave radio relay connections between exchanges (2023)<br>
 
 **Broadcast media**<br>
 1 public TV station and 2 public radio stations; about 10 commercial radio stations; good reception of radio and TV broadcasts from stations in France and Spain; upgraded to terrestrial digital TV broadcasting in 2007; roughly 25 international TV channels available (2019)<br>
@@ -528,7 +528,4 @@ no regular military forces; Police Corps of Andorra (under the Ministry of Justi
 defense is the responsibility of France and Spain<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-none identified<br>
 

@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Popes in their secular role ruled portions of the Italian peninsula for more than a thousand years until the mid-19th century, when many of the Papal States were seized by the newly established Kingdom of Italy. In 1870, the pope's holdings were further circumscribed when Rome itself was annexed. Disputes between a series of "prisoner" popes and Italy were resolved in 1929 by three Lateran Treaties, which established the independent state of Vatican City and granted Roman Catholicism special status in Italy. In 1984, a concordat between the Holy See and Italy modified certain of the earlier treaty provisions, including the primacy of Roman Catholicism as the Italian state religion. Present concerns of the Holy See include religious freedom, threats against minority Christian communities in Africa and the Middle East, the plight of refugees and migrants, climate change and the environment, conflict and war, nuclear weapons, artificial intelligence, sexual misconduct by clergy, humanitarian issues, interreligious dialogue and reconciliation, and the application of church doctrine in an era of rapid change and globalization. About 1.3 billion people worldwide profess Catholicism - the world's largest Christian faith.<br>
+Popes in their secular role ruled portions of the Italian peninsula for more than a thousand years until the mid-19th century, when the newly established Kingdom of Italy seized many of the Papal States. In 1870, the pope's holdings were further circumscribed when Rome itself was annexed. Disputes between Italy and a series of "prisoner" popes were resolved in 1929 by three Lateran Treaties, which established the independent state of Vatican City and granted Roman Catholicism special status in Italy. In 1984, a concordat between the Holy See and Italy modified some of the earlier treaty provisions, including the primacy of Roman Catholicism as the Italian state religion. <br><br>Present concerns of the Holy See include religious freedom, threats against minority Christian communities in Africa and the Middle East, the plight of refugees and migrants, climate change and the environment, conflict and war, nuclear weapons, artificial intelligence, sexual misconduct by clergy, humanitarian issues, interreligious dialogue and reconciliation, and the application of church doctrine in an era of rapid change and globalization. About 1.3 billion people worldwide profess Catholicism, the world's largest Christian faith.<br>
 
 ## Geography
 
@@ -217,8 +217,8 @@ _election results_: <em>2013:</em> Jorge Mario BERGOGLIO, former Archbishop of B
 
 **Legislative branch**<br>
 _description_: unicameral Pontifical Commission for the State of Vatican City or Pontificia Commissione per lo Stato della Citta del Vaticano (7 seats; the president of the Governorate of Vatican City State and 6 cardinals appointed by the pope to serve 5-year terms)<br>
-_elections_: <br>last held on 11 July 2018<br>
-_election results_: <br>composition - men 7, women 0<br>
+_elections_: last held on 11 July 2018<br>
+_election results_: composition - men 7, women 0<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supreme Tribunal of the Apostolic Signatura (consists of the cardinal prefect, who serves as ex-officio president of the court, and 2 other cardinals of the Prefect Signatura); note - judicial duties were established by the Motu Proprio, papal directive, of Pope PIUS XII on 1 May 1946; most Vatican City criminal matters are handled by the Republic of Italy courts<br>
@@ -337,9 +337,6 @@ Pontifical Swiss Guard Corps: 19-30 years of age for voluntary military service;
 defense is the responsibility of Italy<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-none identified<br>
 
 **Illicit drugs**<br>
 NA<br>

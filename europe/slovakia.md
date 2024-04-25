@@ -340,7 +340,7 @@ _election results_: <em><br>2024: </em>Peter PELLEGRINI elected president in the
 **Legislative branch**<br>
 _description_: unicameral National Council or Narodna Rada (150 seats; members directly elected in a single- and multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 30 September 2023 (next to be held by 2027)<br>
-_election results_: <br>percent of vote by party - SMER-SSD 23%, PS 18%, Hlas-SD 14.7%, OL'aNO 8.9%, KDH 6.8%, SaS 6.3%, SNS 5.6%; seats by party SMER-SSD 42, PS 32, Hlas-SD 27, OL'aNO 16, KDH 12, SaS 11, SNS 10; composition as of February 2024 - men 116, women 34, percent of women 22.7%<br>
+_election results_: percent of vote by party - SMER-SSD 23%, PS 18%, Hlas-SD 14.7%, OL'aNO 8.9%, KDH 6.8%, SaS 6.3%, SNS 5.6%; seats by party - SMER-SSD 42, PS 32, Hlas-SD 27, OL'aNO 16, KDH 12, SaS 11, SNS 10; composition as of February 2024 - men 116, women 34, percentage women 22.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Slovak Republic (consists of the court president, vice president, and approximately 80 judges organized into criminal, civil, commercial, and administrative divisions with 3- and 5-judge panels); Constitutional Court of the Slovak Republic (consists of 13 judges organized into 3-judge panels)<br>
@@ -705,8 +705,7 @@ the military's inventory consists mostly of Soviet-era platforms; in recent year
 <strong>note:</strong> as of 2020, women made up around 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-240 Cyprus (UNFICYP); up to 150 Latvia (NATO) (2023)<br>
-<strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Slovakia, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+240 Cyprus (UNFICYP); up to 150 Latvia (NATO) (2024)<br>
 
 **Military - note**<br>
 the Slovak military was created from the Czechoslovak Army after the dissolution of Czechoslovakia in January 1993; it is a small and professional force responsible for external defense and fulfilling Slovakia’s commitments to European and international security; Slovakia has been a member of both the EU and NATO since 2004; a key focus of the Slovak military is fulfilling the country’s security responsibilities to NATO, including modernizing and acquiring NATO-compatible equipment, participating in training exercises, and providing forces for security missions such as NATO’s Enhanced Forward Presence in the Baltic States; since 2022, Slovakia has hosted a NATO ground force battlegroup comprised of troops from Czechia, Germany, the Netherlands, Poland, Slovakia, Slovenia, and the US as part of the NATO effort to boost the defenses of Eastern Europe since the Russian invasion of Ukraine; Slovakia also contributes to EU and UN peacekeeping missions<br><br>the military operates under a General Staff and a Joint Operations Command; the combat units of the subordinate Land Forces are two mechanized infantry brigades, plus separate battalions of artillery and reconnaissance forces; the separate Special Operations Forces include special forces and airborne units; the Air Force has only a handful of fighter aircraft and is assisted by NATO’s air policing mission over Slovakia, which includes fighter aircraft from Czechia and Poland; in 2022, Slovakia signed a defense agreement with the US that allows the US to use two Slovak military air bases; as a landlocked country, Slovakia does not have a naval force (2023)<br>
@@ -722,11 +721,8 @@ focused on the development of satellites, satellite subcomponents, and other spa
 
 ## Transnational Issues
 
-**Disputes - international**<br>
-none identified<br>
-
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 117,265 (Ukraine) (as of 24 March 2024)<br>
+_refugees (country of origin)_: 117,265 (Ukraine) (as of 14 April 2024)<br>
 _stateless persons_: 2,940 (2022)<br>
 
 **Illicit drugs**<br>

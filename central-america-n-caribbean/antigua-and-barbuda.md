@@ -307,8 +307,8 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (17 seats; members appointed by the governor general on the advice of the prime minister and leader of the opposition; members served 5-year terms)<br>House of Representatives (19 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms; in addition, 1 ex-officio seat is allocated for the attorney general and 1 seat for the speaker of the House - elected by the House membership following its first post-election session)<br>
-_elections_: <br>Senate - last appointed on 17 February 2023 (next appointments in 2028)<br>House of Representatives - last held on 18 January 2023 (next to be held in March 2028)<br>
-_election results_: <br>Senate - composition as of February 2024 - men 10, women 7, percentage women 41.2%<br><br>House of Representatives - percent of vote by party - ABLP 47.1%, UPP 45.2%, BPM 1.5%, independent 5.2%; seats by party - ABLP 9, UPP 6, BPM 1, independent 1; composition as of February 2024 - men 17, women 1, percentage women 5.6%; note - total Parliament percentage women 22.9%<br>
+_elections_: Senate - last appointed on 17 February 2023 (next appointments in 2028)<br>House of Representatives - last held on 18 January 2023 (next to be held in March 2028)<br>
+_election results_: Senate - composition as of February 2024 - men 10, women 7, percentage women 41.2%<br><br>House of Representatives - percent of vote by party - ABLP 47.1%, UPP 45.2%, BPM 1.5%, independent 5.2%; seats by party - ABLP 9, UPP 6, BPM 1, independent 1; composition as of February 2024 - men 17, women 1, percentage women 5.6%; total Parliament percentage women 22.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Antigua and Barbuda<br>
@@ -622,9 +622,6 @@ the ABDF's equipment inventory is limited to small arms, light weapons, and soft
 the ABDF’s responsibilities include providing for internal security and support to the police in maintaining law and order, interdicting narcotics smuggling, responding to natural disasters, and monitoring the country’s territorial waters and maritime resources; established in 1981 from colonial forces originally created in 1897, it is one of the world’s smallest militaries<br><br>the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Barbados, Dominica, Grenada, Guyana, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 
 **Illicit drugs**<br>
 <p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>

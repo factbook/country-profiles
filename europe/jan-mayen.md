@@ -5,7 +5,7 @@ _Europe / Dependencies (Norway)_
 ## Introduction
 
 **Background**<br>
-This desolate, arctic, mountainous island was named after a Dutch whaling captain who indisputably discovered it in 1614 (earlier claims are inconclusive). Visited only occasionally by seal hunters and trappers over the following centuries, the island came under Norwegian sovereignty in 1929. The long dormant Beerenberg volcano, the northernmost active volcano on earth, resumed activity in 1970 and the most recent eruption occurred in 1985.<br>
+This desolate, mountainous island in the Arctic Ocean was named after a Dutch whaling captain who indisputably discovered it in 1614 (earlier claims are inconclusive). Visited only occasionally by seal hunters and trappers over the centuries, the island came under Norwegian sovereignty in 1929. The long dormant Beerenberg volcano, the northernmost active volcano on earth, resumed activity in 1970, and the most recent eruption occurred in 1985.<br>
 
 ## Geography
 
@@ -154,7 +154,4 @@ none; offshore anchorage only<br>
 defense is the responsibility of Norway<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 

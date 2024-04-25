@@ -335,7 +335,7 @@ _election results_: <em><br>2021</em>: Ismail Omar GUELLEH reelected president f
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembl&eacute;e Nationale, formerly the Chamber of Deputies (65 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)<br>
 _elections_: last held on 24 February 2023 (next to be held in February 2028)<br>
-_election results_: percent of vote by party - NA; seats by party - UMP 58, UDJ 7; composition - men 48, women 17, percent of women 26.2%<br>
+_election results_: percent of vote by party - UMP 93.6%, UDJ 6.3%; seats by party - UMP 58, UDJ 7; composition as of March 2024 - men 48, women 17, percentage women 26.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of NA magistrates); Constitutional Council (consists of 6 magistrates)<br>
@@ -343,7 +343,7 @@ _judge selection and term of office_: Supreme Court magistrates appointed by the
 _subordinate courts_: High Court of Appeal; Courts of First Instance; customary courts; State Court (replaced sharia courts in 2003)<br>
 
 **Political parties and leaders**<br>
-Front for Restoration of Unity and Democracy (Front pour la Restauration de l'Unite Democratique) or FRUD [Ali Mohamed DAOUD]<br>National Democratic Party or PND [Abdourahman Mohamed ALLALEH]<br>People's Rally for Progress or RPP [Ismail Omar GUELLEH] (governing party)<br>Peoples Social Democratic Party or PPSD [Hasna Moumin BAHDON]<br>Union for Democracy and Justice or UDJ [Ilya Ismail GUEDI Hared]<br>Union for the Presidential Majority coalition or UMP [collective leadership] (electoral coalition includes FRUD, PND, RPP, PPSD, and UPR)<br>Union of Reform Partisans or UPR [Ibrahim Daoud CHEHEM]<br><br><strong>note:</strong> only parties with seats in the National Assembly included<br>
+Front for Restoration of Unity and Democracy (Front pour la Restauration de l'Unite Democratique) or FRUD [Ali Mohamed DAOUD]<br>National Democratic Party or PND [Abdourahman Mohamed ALLALEH]<br>People's Rally for Progress or RPP [Ismail Omar GUELLEH] (governing party)<br>Peoples Social Democratic Party or PPSD [Hasna Moumin BAHDON]<br>Union for Democracy and Justice or UDJ [Ilya Ismail GUEDI Hared]<br>Union for the Presidential Majority coalition or UMP [collective leadership] (electoral coalition includes FRUD, PND, RPP, PPSD, and UPR)<br>Union of Reform Partisans or UPR [Ibrahim Daoud CHEHEM]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AFESD, AMF, ATMIS, AU, CAEU (candidates), COMESA, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -686,9 +686,6 @@ al-Shabaab<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Djibouti-Somalia:</em> Djibouti maintains economic ties and border accords with "Somaliland" leadership while maintaining some political ties to various factions in Somalia</p> <p><em>Djibouti-Eritrea:</em> in 2008, Eritrean troops moved across the border on Ras Doumera peninsula and occupied Doumera Island with undefined sovereignty in the Red Sea, sparking a brief conflict; Qatar mediated and provided peacekeepers until 2017; Djibouti accused Eritrea of reoccupying the area in 2017 after Qatari troops were withdrawn; Djibouti and Eritrea agreed to normalize relations in 2018</p> <p><em>Djibouti-Ethiopia:</em> the Ethiopia-Djibouti relationship has been relatively harmonious, and there have been no major disputes along their shared border</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 6,518 (Yemen) (mid-year 2022); 13,467 (Somalia) (2024)<br>

@@ -258,8 +258,8 @@ _election results_: <em>2019</em>: HO lat Seng (unopposed; received 392 out of 4
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Regiao Administrativa Especial de Macau (33 seats; 14 members directly elected by proportional representation vote, 12 indirectly elected by an electoral college of professional and commercial interest groups, and 7 appointed by the chief executive; members serve 4-year terms)<br>
-_elections_: <br>last held on 12 September 2021 (next to be held in September 2025)<br>
-_election results_: <br>percent of vote - ACUM 20.1%, UPD 18%, NE 13.8%, UMG 12.7%, UPP 11.4%, ABL 10.8%, PS 6.6%, other 6.6%; seats by political group - ACUM 3, UPD 2, UMG 2, UPP 2, ABL 2, NE 2, PS 1; composition - men NA, women NA, percentage women NA%<br>
+_elections_: last held on 12 September 2021 (next to be held in September 2025)<br>
+_election results_: percent of vote - ACUM 20.1%, UPD 18%, NE 13.8%, UMG 12.7%, UPP 11.4%, ABL 10.8%, PS 6.6%, other 6.6%; seats by political group - ACUM 3, UPD 2, UMG 2, UPP 2, ABL 2, NE 2, PS 1; composition - men NA, women NA, percentage women NA%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Final Appeal of Macau Special Administrative Region (consists of the court president and 2 associate justices)<br>
@@ -573,9 +573,6 @@ no regular indigenous military forces; Macau Public Security Police Force (inclu
 defense is the responsibility of China; the Chinese People's Liberation Army (PLA) maintains a garrison in Macau<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 &mdash; Macau does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Macau remained on Tier 3; the government took some steps to address trafficking, including investigating five suspected cases of traffickers using Macau residents in cyber scams in Southeast Asia, training police officers on anti-trafficking efforts, and initiating one prosecution; however, the government did not report proactively screening at-risk populations, such as commercial sex workers, for trafficking indicators; for the fourth consecutive year, officials did not identify or provide services to any victims; Macau has not convicted a trafficker since 2019 and has never identified a victim of forced labor exploitation domestically (2023)<br>

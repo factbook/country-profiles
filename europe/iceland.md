@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Settled by Norwegian and Celtic (Scottish and Irish) immigrants during the late 9th and 10th centuries A.D., Iceland boasts the world's oldest functioning legislative assembly, the Althingi, established in 930. Independent for over 300 years, Iceland was subsequently ruled by Norway and Denmark. Fallout from the Askja volcano of 1875 devastated the Icelandic economy and caused widespread famine. Over the next quarter century, 20% of the island's population emigrated, mostly to Canada and the US. Denmark granted limited home rule in 1874 and complete independence in 1944. The second half of the 20th century saw substantial economic growth driven primarily by the fishing industry. The economy diversified greatly after the country joined the European Economic Area in 1994, but Iceland was especially hard hit by the global financial crisis in the years following 2008. The economy is now on an upward trajectory, fueled primarily by a tourism and construction boom. Literacy, longevity, and social cohesion are first rate by world standards.<br>
+Settled by Norwegian and Celtic (Scottish and Irish) immigrants during the late 9th and 10th centuries A.D., Iceland boasts the world's oldest functioning legislative assembly, the Althingi, which was established in 930. Independent for over 300 years, Iceland was subsequently ruled by Norway and Denmark. Fallout from the Askja volcano of 1875 devastated the Icelandic economy and caused widespread famine. Over the next quarter-century, 20% of the island's population emigrated, mostly to Canada and the US. Denmark granted limited home rule in 1874 and complete independence in 1944. The second half of the 20th century saw substantial economic growth driven primarily by the fishing industry. The economy diversified greatly after the country joined the European Economic Area in 1994, but the global financial crisis hit Iceland especially hard in the years after 2008. The economy is now on an upward trajectory, primarily thanks to a tourism and construction boom. Literacy, longevity, and social cohesion are first-rate by world standards.<br>
 
 ## Geography
 
@@ -329,8 +329,8 @@ _election results_: <em><br>2020: </em>Gudni Thorlacius JOHANNESSON reelected pr
 
 **Legislative branch**<br>
 _description_: unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by closed-list proportional representation vote using the D'Hondt method; members serve 4-year terms)<br>
-_elections_: <br>last held on 25 September 2021 (next to be held in 2025)<br>
-_election results_: <br>percent of vote by party - IP 25.4%, PP 20.6%, LGM 12.7%, People's Party 9.5%, Pirate Party 9.5%, SDA 9.5%, Reform Party 7.9%, CP 4.8%; seats by party - IP 16, PP 13, LGM 8, People's Party 6, Pirate Party 6, SDA 6, Reform Party 5, CP 3; composition as of February 2024 - men 33, women 30; percentage women 47.6%<br>
+_elections_: last held on 25 September 2021 (next to be held in 2025)<br>
+_election results_: percent of vote by party - IP 25.4%, PP 20.6%, LGM 12.7%, People's Party 9.5%, Pirate Party 9.5%, SDA 9.5%, Reform Party 7.9%, CP 4.8%; seats by party - IP 16, PP 13, LGM 8, People's Party 6, Pirate Party 6, SDA 6, Reform Party 5, CP 3; composition as of February 2024 - men 33, women 30; percentage women 47.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Haestirettur (consists of 9 judges)<br>
@@ -665,9 +665,6 @@ the Icelandic Coast Guard's inventory consists of equipment from mostly European
 Iceland was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Iceland is the only NATO member that has no standing military force; defense of Iceland remains a NATO commitment and NATO maintains an air policing presence in Icelandic airspace; Iceland participates in international peacekeeping missions with the civilian-manned Icelandic Crisis Response Unit (ICRU)<br><br>Iceland cooperates with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br>in 1951, Iceland and the US concluded an agreement to make arrangements regarding the defense of Iceland and for the use of facilities in Iceland to that end; the agreement, along with NATO membership, is one of the two pillars of Iceland‘s security policy; since 2007 Iceland has concluded cooperation agreements with Canada, Denmark, Norway, and the UK; it also has regular consultations with Germany and France on security and defense (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-in 2019, Denmark signed continental shelf delimitation agreements with Iceland and Norway to parts of the continental shelf in the &AElig;gir Basin, which is located north of the Faroe Islands<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 68 (2022)<br>

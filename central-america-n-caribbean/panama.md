@@ -333,8 +333,8 @@ _election results_: <br><em>2019:</em> Laurentino "Nito" CORTIZO Cohen elected p
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Asamblea Nacional (71 seats; 45 members directly elected in multi-seat constituencies - populous towns and cities - by open list proportional representation vote and 26 directly elected in single-seat constituencies - outlying rural districts - by simple majority vote; members serve 5-year terms)<br>
-_elections_: <br>last held on 5 May 2019 (next to be held on 5 May 2024)<br>
-_election results_: <br>percent of vote by party - NA; seats by party - PRD 35, CD 18, Panamenista 8, MOLIRENA 5, independent 5; composition as of February 2024 - men 55, women 16, percentage women 22.5%<br>
+_elections_: last held on 5 May 2019 (next to be held on 5 May 2024)<br>
+_election results_: percent of vote by party - PRD 49.3%, CD 25.4%, Panamenista 11.3%, MOLIRENA 7%, independent 7%; seats by party - PRD 35, CD 18, Panamenista 8, MOLIRENA 5, independent 5; composition as of February 2024 - men 55, women 16, percentage women 22.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 magistrates and 9 alternates and divided into civil, criminal, administrative, and general business chambers)<br>
@@ -695,9 +695,6 @@ Panama's security forces are lightly armed; Canada, Italy and the US have provid
 the Panama National Police is principally responsible for internal law enforcement and public order, while the National Border Service handles border security; the Aeronaval Service is responsible for carrying out air and naval operations that include some internal security responsibilities; key areas of focus are countering narcotics trafficking and securing the border, particularly along the southern border with Colombia where the National Border Service (SENAFRONT) maintains a significant presence<br><br>Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Panama-Colombia</em>: organized illegal narcotics operations in Colombia operate within the remote border region with Panama</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 147,424 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2023)<br>

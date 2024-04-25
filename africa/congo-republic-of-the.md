@@ -360,8 +360,8 @@ _election results_: <br><em>2021: </em>Denis SASSOU-Nguesso reelected president 
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parliament consists of:<br>Senate (72 seats; members indirectly elected by local, district, and regional councils by simple majority vote to serve 6-year terms) note- the Senate is renewed in its entirety following a constitutional reform implemented in 2015 ending the renewal by half<br>National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms)<br>
-_elections_: <strong> </strong><br>Senate - last held on 20 August 2023 (next to be held 31 August 2029)<br>National Assembly - last held on 10 and 31 July 2022 (next to be held in July 2027)<br>
-_election results_: <p>Senate - percent of vote by party - NA; seats by party - PCT 52, Independents 7, RDPS 3, MAR 2, Club 2002 PUR 2, PRL 1, UDLC 1, MCDDI 1, LCEM 1, UPADS 1, RC 1; composition - men 47, women 25, percent of women 34.7%<br><br>National Assembly - percent of vote by party - NA; seats by party - PCT 112, UPADS 7, UDH-YUKI 7, MAR 4, RLP 2, CLUB 2002 2, DRR 2, RDPS 2, PAC 1, MSD 1, MDP 1, CPR 1, PPRD 1, CR 1, MCDDI 1, independent 6; composition - men 134, women 17, percent of women 11.3%; note - total Parliament percent of women 13.9%<br><br><br></p> <p> </p><br>
+_elections_: Senate - last held on 20 August 2023 (next to be held 31 August 2029)<br>National Assembly - last held on 10 and 31 July 2022 (next to be held in July 2027)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - PCT 52, Independents 7, RDPS 3, MAR 2, Club 2002 PUR 2, PRL 1, UDLC 1, MCDDI 1, LCEM 1, UPADS 1, RC 1; composition as of March 2024 - men 49, women 23, percentage women 34.7%<br><br>National Assembly - percent of vote by party - NA; seats by party - PCT 112, UPADS 7, UDH-YUKI 7, MAR 4, RLP 2, CLUB 2002 2, DRR 2, RDPS 2, PAC 1, MSD 1, MDP 1, CPR 1, PPRD 1, CR 1, MCDDI 1, independent 6; composition as of March 2024 - men 129, women 22, percentage women 14.6%; total Parliament percentage women 20.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 members); note - a High Court of Justice, outside the judicial authority, tries cases involving treason by the President of the Republic<br>
@@ -726,9 +726,6 @@ has about 190 mostly police personnel deployed to the Central African Republic (
 the FAC is viewed as having limited capabilities due to obsolescent and poorly maintained equipment and low levels of training; its primary focus is internal security; since its creation in 1961, the FAC has had a turbulent history; it has been sidelined by some national leaders in favor of personal militias, endured an internal rebellion (1996), and clashed with various rebel groups and political or ethnic militias (1993-1996, 2002-2005, 2017); during the 1997-1999 civil war, the military generally split along ethnic lines, with most northern officers supporting eventual winner SASSOU-Nguesso, and most southerners backing the rebels; others joined ethnic-based factions loyal to regional warlords; forces backing SASSOU-Nguesso were supported by Angolan troops and received some French assistance; the FAC also has undergone at least three reorganizations that included the incorporation of former rebel combatants and various ethnic and political militias; in recent years, France has provided some advice and training, and a military cooperation agreement was signed with Russia in 2019 (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 33,593 (Central African Republic), 29,785 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>

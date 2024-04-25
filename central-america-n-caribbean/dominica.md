@@ -292,7 +292,7 @@ _election results_: <em>2023:</em> parliament elects Sylvanie BURTON (DLP) with 
 **Legislative branch**<br>
 _description_: unicameral House of Assembly (32 seats; 21 representatives directly elected in single-seat constituencies by simple majority vote, 9 senators appointed by the president - 5 on the advice of the prime minister, and 4 on the advice of the leader of the opposition party, plus 2 ex-officio members - the house speaker and the attorney general; members serve 5-year terms)<br>
 _elections_: last held on 6 December 2022 (next to be held in 2027); note - tradition dictates that the election is held within 5 years of the last election, but technically it is 5 years from the first seating of parliament plus a 90-day grace period<br>
-_election results_: percent of vote by party - DLP 82.3%, independent 16.9%; (elected) seats by party - DLP 19, independent 2; (Assembly) composition - men 20, women 12, percent of women 37.5%<br>
+_election results_: percent of vote by party - DLP 82.3%, independent 16.9%; (elected) seats by party - DLP 19, independent 2; composition as of March 2024 - men 20, women 12, percent of women 37.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 in Dominica; note - in 2015, Dominica acceded to the Caribbean Court of Justice as final court of appeal, replacing that of the Judicial Committee of the Privy Council, in London<br>
@@ -585,9 +585,6 @@ no regular military forces; Commonwealth of Dominica Police Force (includes Coas
 Dominica has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Grenada, Guyana, St. Kitts and Nevis, St. Lucia, and St. Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Dominica-Venezuela: </em>is the only Caribbean state to challenge Venezuela's sovereignty claim over Aves Island, which permits Venezuela to extend its EEZ and continental shelf claims over a large portion of the eastern Caribbean Sea</p><br>
 
 **Illicit drugs**<br>
 <p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>

@@ -343,8 +343,8 @@ _election results_: <em><br>2021: </em>THONGLOUN Sisoulith elected president; Na
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Sapha Heng Xat (164 seats; members directly elected in multi-seat constituencies by simple majority vote from candidate lists provided by the Lao People's Revolutionary Party; members serve 5-year terms)<br>
-_elections_: <br>last held on 21 February 2021 (next to be held in 2026)<br>
-_election results_: <br>percent of vote by party - NA; seats by party - LPRP 158, independent 6; composition as of February 2024 - men 128, women 36, percentage women 22%<br>
+_elections_: last held on 21 February 2021 (next to be held in 2026)<br>
+_election results_: percent of vote by party - NA; seats by party - LPRP 158, independent 6; composition as of February 2024 - men 128, women 36, percentage women 22%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: People's Supreme Court (consists of the court president and organized into criminal, civil, administrative, commercial, family, and juvenile chambers, each with a vice president and several judges)<br>
@@ -702,9 +702,6 @@ the LPAF is armed largely with Soviet-era weapons; in recent years, China and Ru
 the LPAF’s primary missions are border and internal security, including counterinsurgency and counterterrorism; the Army is organized into a few small divisions and independent regiments deployed around the country in four military regions; the Army is supported by a self-defense militia, which is estimated to be 100,000 strong; the small Air Force does not have any combat aircraft<br><br>Vietnam is the military's primary security partner, although in recent years, Laos has expanded defense ties with China and Russia (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Laos-Burma</em>: none identified</p> <p><em>Laos-Cambodia</em>: in 2021, the two countries agreed to increase efforts to combat drug trafficking and other transnational crimes and to complete the last 14% of their border demarcation</p> <p><em>Laos-Cambodia-Vietnam</em>: Cambodia and Vietnam are concerned about Laos' extensive plans for upstream dam construction and the potential harm it poses to fisheries and farming downstream</p> <p><em>Laos-China</em>: concern among Mekong River Commission members that China's construction of eight dams on the Upper Mekong River and construction of more dams on its tributaries will affect water levels, sediment flows, and fisheries</p> <p><em>Laos-Thailand</em>: talks continue as of 2018 on completion of demarcation with Thailand but disputes remain over islands in the Mekong River</p> <p>Laos-Vietnam: Laos and Vietnam completed border demarcation in 2016</p> <p> </p> <p> </p><br>
 
 **Illicit drugs**<br>
 <p>Laos remains a key transit route for drug trafficking and the movement of precursor chemicals; opium produced is typically smuggled out of the country and refined elsewhere and not trafficked in significant quantities to the United States</p><br>

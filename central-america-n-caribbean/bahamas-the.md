@@ -295,8 +295,8 @@ _elections/appointments_: the monarchy is hereditary; governor-general appointed
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (16 seats; members appointed by the governor-general - 9 selected on the advice of the prime minister, 4 on the advice of the leader of the opposition party, and 3 on the advice of the prime minister in consultation with the opposition leader; members serve 5-year terms)<br>House of Assembly (39 seats statutory, 38 seats current; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <br>Senate - last appointments on 7 October 2021 (next appointments by 31 October 2026)<br>House of Assembly - last held on 16 September 2021 (next to be held by September 2026)<br>
-_election results_: <br>Senate - appointed: PLP 12, FNM 4; composition as of February 2024 - men 12, women 4, percentage women 25%<br><br>House of Assembly - percent of vote by party - PLP 52.5%, FNM 36.2%; seats by party - PLP 32, FNM 7; composition as of February 2024 - men 32, women 7, percentage women 18%; note - total Parliament percentage women 20%<br>
+_elections_: Senate - last appointments on 7 October 2021 (next appointments by 31 October 2026)<br>House of Assembly - last held on 16 September 2021 (next to be held by September 2026)<br>
+_election results_: Senate - appointed: PLP 12, FNM 4; composition as of February 2024 - men 12, women 4, percentage women 25%<br><br>House of Assembly - percent of vote by party - PLP 52.5%, FNM 36.2%; seats by party - PLP 32, FNM 7; composition as of February 2024 - men 32, women 7, percentage women 18%; total Parliament percentage women 20%<br>
 <strong>note:</strong> Parliament sits for 5 years from the date of the last general election: the government may dissolve the parliament and call elections at any time<br>
 
 **Judicial branch**<br>
@@ -637,9 +637,6 @@ most of the RBDF's major equipment inventory has been acquired from the Netherla
 established in 1980; the RBDF's primary responsibilities are disaster relief, maritime security, and counter-narcotics operations; it also provides security at a detention center for migrants and performs some domestic security functions, such as guarding embassies; the RBDF is a naval force, but includes a lightly-armed marine infantry/commando squadron for base and internal security, as well as a few light non-combat aircraft; the maritime element has coastal patrol craft and patrol boats; the RBDF maintains training relationships with the UK and the US (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>The Bahamas-US:</em> in declaring its archipelagic waters and 200 nm EEZ in 1993 legislation, The Bahamas did not delimit the outer limits of the EEZ; but in areas where EEZs overlap with neighbors, The Bahamas agreed to equidistance as a line of separation; however, The Bahamas has yet to define maritime boundaries with any of its neighbors, including the US, whose Florida coast lays about 70 nm from Grand Bahama Island</p><br>
 
 **Illicit drugs**<br>
 <p>a transit point for illegal drugs bound for the United States; small scale illicit production of marijuana continues</p><br>

@@ -293,8 +293,8 @@ _election results_: David W. PANUELO elected president by Congress; Yosiwo P. GE
 
 **Legislative branch**<br>
 _description_: unicameral Congress (14 seats; 10 members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms and 4 at- large members directly elected from each of the 4 states by proportional representation vote to serve 4-year terms)<br>
-_elections_: <br>last held on 7 March 2023 (next to be held in March 2025)<br>
-_election results_: <br>percent of vote - NA; seats by party - independent 14; composition as of February 2024 - men 11, women 2; percentage women 15.4%<br>
+_elections_: last held on 7 March 2023 (next to be held in March 2025)<br>
+_election results_: percent of vote - NA; seats by party - independent 14; composition as of February 2024 - men 11, women 2; percentage women 15.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federated States of Micronesia (FSM) Supreme Court (consists of the chief justice and not more than 5 associate justices and organized into appellate and criminal divisions)<br>
@@ -581,9 +581,6 @@ no military forces; Federated States of Micronesia National Police (includes a m
 defense is the responsibility of the US<br><br>Micronesia has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Micronesia's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 
 **Illicit drugs**<br>
 major consumer of cannabis<br>

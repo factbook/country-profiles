@@ -83,7 +83,6 @@ the capital of Damascus - located at an oasis fed by the Barada River - is thoug
 
 **Population**<br>
 22,933,531 (2023 est.)<br>
-<strong>note:</strong> approximately 22,900 Israeli settlers live in the Golan Heights (2018)<br>
 
 **Nationality**<br>
 _noun_: Syrian(s)<br>
@@ -331,7 +330,7 @@ _election results_: <em> </em>Bashar al-ASAD elected president; percent of vote
 **Legislative branch**<br>
 _description_: unicameral People's Assembly or Majlis al-Shaab (250 seats; members directly elected in multi-seat constituencies by simple majority preferential vote to serve 4-year terms)<br>
 _elections_: last held on 19 July 2020 (next to be held on 31 July 2024)<br>
-_election results_: percent of vote by party - NPF 80%, other 20%; seats by party - NPF 200, other 50; composition - men 222, women 28, percent of women 11.2%<br>
+_election results_: percent of vote by party - NPF 80%, other 20%; seats by party - NPF 200, other 50; composition - men 224, women 26, percentage women 10.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation (organized into civil, criminal, religious, and military divisions, each with 3 judges); Supreme Constitutional Court (consists of 7 members)<br>
@@ -345,11 +344,10 @@ _subordinate courts_: courts of first instance; magistrates' courts; religious a
 ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, ICSID, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WBG, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); note &ndash; embassy closed on 18 March 2014<br>
-_chancery_: 2215 Wyoming Avenue NW, Washington, DC 20008; note &ndash; embassy closed on 18 March 2014<br>
+_chief of mission_: Ambassador (vacant); note &ndash; operations at the embassy were suspended on 18 March 2014<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); note - on 6 February 2012, the US closed its embassy in Damascus; Czechia serves as a protecting power for US interests in Syria<br>
+_chief of mission_: Ambassador (vacant); note - on 6 February 2012, the US suspended operations at its embassy in Damascus; Czechia serves as a protecting power for US interests in Syria<br>
 _mailing address_: 6110 Damascus Place, Washington DC&nbsp; 20521-6110<br>
 _email address and website_: <br>USIS_damascus@embassy.mzv.cz<br><br>https://sy.usembassy.gov/<br>
 
@@ -685,9 +683,6 @@ Abdallah Azzam Brigades; Ansar al-Islam; Asa’ib Ahl Al-Haq; Hizballah; Hurras 
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Syria-Iraq</em>: none identified</p> <p><em>Syria-Israel</em>: Golan Heights is Israeli-controlled with UN Disengagement Observer Force (UNDOF) patrolling a buffer zone since 1974; because of ceasefire violations and increased military activity in the Golan Heights, the UN Security Council continues to extend UNDOF’s mandate; since 2000, Lebanon has claimed Shab'a Farms in the Golan Heights</p> <p><em>Syria-Jordan</em>: the two countries signed an agreement in 2005 to settle the border dispute based on a 1931 demarcation accord; the two countries began demarcation in 2006</p> <p><em>Syria-Lebanon</em>: discussions on demarcating the two countries’ maritime borders were held in April 2021, after Syria signed a contract with a Russian company to conduct oil and gas exploration in a disputed maritime area, but the issue was not resolved</p> <p><em>Syria-Turkey</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 580,000 (Palestinian Refugees) (2022); 11,121 (Iraq) (2023)<br>

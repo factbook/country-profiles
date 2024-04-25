@@ -700,9 +700,6 @@ Haqqani Taliban Network; Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Islami
 
 ## Transnational Issues
 
-**Disputes - international**<br>
-<p><em>Afghanistan-China:</em> none identified<br><em><br>Afghanistan-Iran:</em> Afghan and Iranian commissioners have discussed boundary monument densification and resurvey; Iran protests Afghanistan's restricting flow of dammed Helmand River tributaries during drought<br><br><em>Afghanistan-Pakistan:</em> Pakistan has built fences in some portions of its border with Afghanistan which remains open in some areas to terrorist and other illegal activities; their alignments may not always be in conformance with the Durand Line and original surveyed definitions of the boundary; Pakistan demarcates the Durand Line differently from Afghanistan, and thus portions of the Pakistani fence may lie within what Afghanistan (and most of the international community, including the US) would consider Afghan territory; successive governments in Afghanistan, including the Taliban, have not accepted the 1947 demarcation line<br><br><em>Afghanistan-Tajikistan:</em> none identified<br><br><em>Afghanistan-Turkmenistan:</em> none identified<br><br><em>Afghanistan-Uzbekistan:</em> none identified; boundary follows Amu Darya River as delimited in the Afghan-Soviet treaties and not by the river's current course; the boundary was delimited and possibly demarcated during Soviet times (pre-1991); no current negotiations between Afghanistan and Uzbekistan to redelimit the boundary have been identified </p><br>
-
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 59,486 (Pakistan) (mid-year 2022)<br>
 _IDPs_: 4.394 million (mostly Pashtuns and Kuchis displaced in the south and west due to natural disasters and political instability) (2022)<br>

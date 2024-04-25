@@ -323,8 +323,8 @@ _election results_: <em>2022:</em> MUHAMMAD BIN ZAYID Al-Nuhayyan elected presid
 
 **Legislative branch**<br>
 _description_: unicameral Federal National Council (FNC) or Majlis al-Ittihad al-Watani (40 seats; 20 members indirectly elected using single non-transferable vote by an electoral college whose members are selected by each emirate ruler proportional to its FNC membership, and 20 members appointed by the rulers of the 7 constituent states; members serve 4-year terms)<br>
-_elections_: last held for indirectly elected members on 7 October 2023 (next to be held in October 2027); last held for appointed members in October 2019 (next appointments expected in late 2023)<br>
-_election results_: <br>all candidates ran as independents; seats by emirate - Abu Dhabi 4, Dubai 4, Sharjah 3, Ras al-Khaimah 3, Ajman 2, Fujairah 2, Umm al-Quwain 2; composition as of February 2024 - 13 men, 7 women, percent of elected women 35%; note - to attain overall FNC gender parity, 13 women and 7 men will be appointed; overall FNC percent of women 50%<br>
+_elections_: last held for indirectly elected members on 7 October 2023 (next to be held in October 2027); last held for appointed members in October 2023 (next appointments expected in late 2027)<br>
+_election results_: seats by emirate - Abu Dhabi 4, Dubai 4, Sharjah 3, Ras al-Khaimah 3, Ajman 2, Fujairah 2, Umm al-Quwain 2; composition as of February 2024 - 13 men, 7 women, percentage elected women 35%; note - to attain overall FNC gender parity, 13 women and 7 men were appointed; total FNC percentage of women 50%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court (consists of the court president and 4 judges; jurisdiction limited to federal cases)<br>
@@ -332,7 +332,7 @@ _judge selection and term of office_: judges appointed by the federal president 
 _subordinate courts_: Federal Court of Cassation (determines the constitutionality of laws promulgated at the federal and emirate level; federal level courts of first instance and appeals courts); the emirates of Abu Dhabi, Dubai, and Ra's al Khaymah have parallel court systems; the other 4 emirates have incorporated their courts into the federal system; note - the Abu Dhabi Global Market Courts and the Dubai International Financial Center Courts, the country&rsquo;s two largest financial free zones, both adjudicate civil and commercial disputes.<br>
 
 **Political parties and leaders**<br>
-none; political parties are banned<br>
+none; political parties are banned; all candidates run as independents<br>
 
 **International organization participation**<br>
 ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, BRICS, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OIF (observer), OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -698,9 +698,6 @@ has an ambitious and growing space program and is recognized as one of the leadi
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>UAE-Oman</em>: boundary agreement was signed and ratified with Oman in 2003 for entire border, including Oman's Musandam Peninsula and Al Madhah enclaves, but contents of the agreement and detailed maps showing the alignment have not been published</p> <p><em>UAE-Iran</em>: Iran and UAE dispute Tunb Islands and Abu Musa Island near the Strait of Hormuz, which Iran has occupied since 1971</p> <p><em>UAE-Saudi Arabia</em>: t<em>he </em>UAE has differences with Saudi Arabia<em> </em>over their border and the sharing of a major oilfield there, although the issue is seldom mentioned publically</p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 5 (mid-year 2021)<br>

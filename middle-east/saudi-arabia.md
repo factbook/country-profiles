@@ -335,6 +335,7 @@ _elections/appointments_: none; the monarchy is hereditary; an Allegiance Counci
 
 **Legislative branch**<br>
 _description_: unicameral Consultative Council or Majlis al-Shura (150 seats plus a speaker; members appointed by the monarch to serve 4-year terms); note - in early 2013, the monarch granted women 30 seats on the Council<br>
+_election results_: composition as of February 2024 - men 121, women 30, percentage women 19.9%<br>
 <strong>note:</strong> composition as of 2021 - men 121, women 30, percent of women 19.9%<br>
 
 **Judicial branch**<br>
@@ -721,9 +722,6 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; al-Qa’ida in the Arabi
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Saudi Arabia-Bahrain</em>: none identified</p> <p><em>Saudi Arabia-Iraq:  </em>Saudi Arabia has been building a fence along its border with Iraq to keep out militants and smugglers</p> <p><em>Saudi Arabia-Jordan</em>: Jordan and Saudi Arabia signed an agreement to demarcate their maritime borders in 2007</p> <p><em>Saudi Arabia-Kuwait</em>: Kuwait and Saudi Arabia continue discussions on a maritime boundary with Iran; in December 2019, Saudi Arabia and Kuwait signed an agreement to demarcate land in a neutral zone and to restart oil production in shared fields, which had been suspended since 2014 because of disagreements</p> <p><em>Saudi Arabia-Oman</em>: none identified</p> <p><em>Saudi Arabia-Qatar</em>: none identified</p> <p><em>Saudi Arabia-UAE</em>: Saudi Arabia and UAE have disputed the Shaybah oilfield, which Saudi Arabia controls</p> <p><em>Saudi Arabia-Yemen</em>: the two countries signed the Treaty of Jeddah in 2000, which specified the coordinates of their land and maritime border and made provisions for grazing, the placement of armed forces, and future resource exploitation; in 2010, Saudi Arabia reinforced its concrete-filled security barrier along sections of the now fully demarcated border with Yemen to stem illegal crossborder activities</p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 70,000 (2022); note - thousands of biduns (stateless Arabs) are descendants of nomadic tribes who were not officially registered when national borders were established, while others migrated to Saudi Arabia in search of jobs; some have temporary identification cards that must be renewed every five years, but their rights remain restricted; most Palestinians have only legal resident status; some naturalized Yemenis were made stateless after being stripped of their passports when Yemen backed Iraq in its invasion of Kuwait in 1990; Saudi women cannot pass their citizenship on to their children, so if they marry a non-national, their children risk statelessness<br>

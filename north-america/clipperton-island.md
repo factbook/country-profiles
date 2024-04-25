@@ -148,6 +148,3 @@ defense is the responsibility of France<br>
 
 ## Transnational Issues
 
-**Disputes - international**<br>
-<p>none identified</p><br>
-

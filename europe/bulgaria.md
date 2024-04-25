@@ -340,7 +340,7 @@ _election results_: <em><br>2021</em>: Rumen RADEV reelected president in second
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by open-list, proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 2 April 2023 (snap election to be held on 9 June 2024)<br>
-_election results_: percent of vote by party/coalition - GERB-SDS 25.4%, PP-DB 23.5%, Revival 13.6%, DPS 13.2%, BSP for Bulgaria 8.6%, ITN 3.9%, other 11.8%; seats by party/coalition GERB-SDS 69, PP-DB 64, Revival 37, DPS 36, BSP for Bulgaria 23, ITN 11; composition as of January 2024 - men 179, women 61, percent of women 25.4%<br>
+_election results_: percent of vote by party/coalition - GERB-SDS 25.4%, PP-DB 23.5%, Revival 13.6%, DPS 13.2%, BSP for Bulgaria 8.6%, ITN 3.9%, other 11.8%; seats by party/coalition GERB-SDS 69, PP-DB 64, Revival 37, DPS 36, BSP for Bulgaria 23, ITN 11; composition as of March 2024 - men 179, women 61, percentage women 25.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Cassation (consists of a chairman and approximately 72 judges organized into penal, civil, and commercial colleges); Supreme Administrative Court (organized into 2 colleges with various panels of 5 judges each); Constitutional Court (consists of 12 justices); note - Constitutional Court resides outside the judiciary<br>
@@ -734,9 +734,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 72,775 (Ukraine) (as of 8 March 2024)<br>

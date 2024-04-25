@@ -272,7 +272,7 @@ _elections/appointments_: the monarchy is hereditary; governor appointed by the 
 **Legislative branch**<br>
 _description_: unicameral Parliament (21 seats; 19 members directly elected by majority vote and 2 ex-officio members - the deputy governor and attorney general - appointed by the governor; members serve 4-year terms)<br>
 _elections_: last held on 14 April 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party - independent 79.1%, PPM 19.6%; elected seats by party - independent 12, PPM 7; ex-officio members 2; composition as of April 2023 - men 16, women 5, percent of women 23.8%<br>
+_election results_: percent of vote by party - independent 79.1%, PPM 19.6%; elected seats by party - independent 12, PPM 7; ex-officio members 2; composition as of April 2023 - men 16, women 5, percentage women 23.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and at least 2 judges); Grand Court (consists of the court president and at least 2 judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -571,9 +571,6 @@ no regular military forces; Royal Cayman Islands Police Service<br>
 defense is the responsibility of the UK<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 
 **Illicit drugs**<br>
 <p>major offshore financial center vulnerable to drug trafficking money laundering</p> <p> </p><br>

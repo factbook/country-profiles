@@ -270,8 +270,8 @@ _election results_: <em><em>2023:</em></em> LAI Ching-te elected president; perc
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Yuan (113 seats; 73 members directly elected in single-seat constituencies by simple majority vote, 34 directly elected in a single island-wide constituency by proportional representation vote, and 6 directly elected in multi-seat aboriginal constituencies by proportional representation vote; members serve 4-year terms)<br>
-_elections_: <br>last held on 13 January 2024 (next to be held in 2028)<br>
-_election results_: <br>percent of vote by party - DPP 40.6%, KMT 37.2%, TPP 12.6%, other 5.7%, independent 3.9%; seats by party - KMT 52, DPP 51, TPP 8, independent 2; composition as of February 2024 - men 66, women 47, percentage women 41.6%<br>
+_elections_: last held on 13 January 2024 (next to be held in 2028)<br>
+_election results_: percent of vote by party - DPP 40.6%, KMT 37.2%, TPP 12.6%, other 5.7%, independent 3.9%; seats by party - KMT 52, DPP 51, TPP 8, independent 2; composition as of February 2024 - men 66, women 47, percentage women 41.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president, vice president, and approximately 100 judges organized into civil and criminal panels, each with a chief justice and 4 associate justices); Constitutional Court (consists of the court president, vice president, and 13 justices)<br>
@@ -623,9 +623,6 @@ space program focused on the acquisition of satellites and the development of in
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Taiwan-Brunei-China-Malaysia-Philippines-Vietnam</em>: involved in complex dispute over the Spratly Islands in the South China Sea that are thought to have large oil and natural gas reserves, as well as being located amidst prime fishing grounds and busy commercial shipping traffic; the Spratly Islands also are in a strategic position for establishing a military presence to monitor activity in the South China Sea; the 2002 "Declaration on the Conduct of Parties in the South China Sea" has eased tensions but falls short of a legally binding "code of conduct" desired by several of the disputants</p> <p><em>Taiwan-China-Philippines</em>: border dispute over the Scarborough Reef in the South China Sea; Scarborough Reef, like the Spratly Islands, is strategically located and is surrounded by abundant fishing grounds; it may also be ripe for oil and natural gas exploration</p> <p><em>Taiwan-China-Vietnam</em>: the Paracel Islands are occupied by China but claimed by Taiwan and Vietnam</p> <p><em>Taiwan-Japan-China</em>: in 2003, China and Taiwan became more vocal in rejecting both Japan's claims to the uninhabited islands of the Senkaku-shoto (Diaoyu Tai) and Japan's unilaterally declared exclusive economic zone in the East China Sea where all parties engage in hydrocarbon prospecting; Senkaku-shoto is situated near key shipping lanes, rich fishing grounds, and possibly significant oil and natural gas reserves</p><br>
 
 **Illicit drugs**<br>
 <p>major source of precursor chemicals used in the production of illicit narcotics</p><br>

@@ -329,7 +329,7 @@ _election results_: <em>2020:</em> Chandrikapersad SANTOKHI elected president un
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Nationale Assemblee (51 seats; members directly elected in 10 multi-seat constituencies by party-list proportional representation vote, using the D'Hondt method, to serve 5-year terms)<br>
 _elections_: last held on 25 May 2020 (next to be held in May 2025)<br>
-_election results_: percent of vote by party - VHP 41.1%, NDP 29.4%, ABOP 17.6%, NPS 7.8%, other 3.9%; seats by party - VHP 20, NDP 16, ABOP 9, NPS 3, BEP 2, PL 2; composition - men 36, women 15, percent of women 29.4%<br>
+_election results_: percent of vote by party - VHP 41.1%, NDP 29.4%, ABOP 17.6%, NPS 7.8%, other 3.9%; seats by party - VHP 20, NDP 16, ABOP 9, NPS 3, BEP 2, PL 2; composition as of February 2024 - men 35, women 16, percentage women 31.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court of Justice of Suriname (consists of the court president, vice president, and 4 judges); note - appeals beyond the High Court are referred to the Caribbean Court of Justice; human rights violations can be appealed to the Inter-American Commission on Human Rights with judgments issued by the Inter-American Court on Human Rights<br>
@@ -680,9 +680,6 @@ the Suriname Army has a limited inventory comprised of a mix of older, foreign-s
 key missions for the National Leger include border control and supporting domestic security; the military police has direct responsibility for immigration control at the country&rsquo;s ports of entry; in addition, the military assists the police in combating crime, particularly narco-trafficking, including joint military and police patrols, as well as joint special security teams (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Suriname-France (French Guiana)</em>: in March 2021, Suriname and France signed an agreement to establish their border along the Maroni River and its tributary the Lawa River and to cooperate in combatting illegal gold mining; however, the area further south between the Litani and Marouini Rivers is still disputed, with Suriname claiming the border is along the Marouini to the east and France arguing it is along the Litani River to the west</p> <p><em>Suriname-Guyana</em>: the two countries dispute the territory between two rivers, known as the New River Triangle, with Suriname contending that the New River (also called the Upper Corentyne) to the west marks their common border, while Guyana asserts that the Kutari River to the east forms the border; each side claims that their river is the source of the Corentyne River that forms a border further north between the two countries; the Permanent Court of Arbitration settled the maritime boundary between Suriname and Guyana in 2007 in an area with potentially substantial oil reserves</p> <p> </p><br>
 
 **Illicit drugs**<br>
 <p>a transit country for South American cocaine en route to Europe; illicit drugs are smuggled in cargo containers, commercial and private air transport and human couriers</p> <p> </p><br>

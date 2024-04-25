@@ -344,8 +344,8 @@ _elections/appointments_: the monarchy is hereditary; following Second Chamber e
 
 **Legislative branch**<br>
 _description_: bicameral States General or Staten Generaal consists of:<br>Senate or Eerste Kamer (75 seats; members indirectly elected by the country's 12 provincial council members by proportional representation vote; members serve 4-year terms)<br>House of Representatives or Tweede Kamer (150 seats; members directly elected in multi-seat constituencies by open-list proportional representation vote to serve up to 4-year terms)<br>
-_elections_: <br>Senate - last held on 30 May 2023 (next to be held in May 2027)<br>House of Representatives - last held on 22 November 2023 (next to be held on 30 November 2027)<br>
-_election results_: <br>Senate - percent of vote by party - BBB 21.3%, VVD 13.3%, GL 9.3%, PvdA 9.3%, CDA 8.0%, D66 6.7%, PVV 5.3%, SP 4%, CU 4%, PvdD 4%, JA21 4%, Volt 2.7%, SGP 2.7%,  FvD 2.7%, other 2.6%; seats by party - BBB 16, VVD 10, GL 7, PvdA 7, CDA 6, D66 5, PVV 4, SP 3, CU 3, PvdD 3, JA21 3, Volt 2, SGP 2, FvD 2 other 2; composition as of February 2024 - men 45, women 30, percentage women 40%<br><br>House of Representatives - percent of vote by party - PVV 23.6%, GL/PvdA 15.5%, VVD 15.2%, NSC 12.8%, D66 6.2%, BBB 4.7%, CDA 3.3%, SP 3.1%, Denk 2.4%, FvD 2.2%, PvdD 2.3%, CU 2.1%, SGP 2.2%, other 6.4%; seats by party - PVV 37, GL/PvdA 25, VVD 24, NSC 20, D66 9, BBB 7, CDA 5, SP 5, Denk 3, PvdD 3, CU 3, FvD 3, SGP 3, other 6; composition as of February 2024 - men 91, women 58, percentage women 38.7%; total States General percentage women 39.3%<br>
+_elections_: Senate - last held on 30 May 2023 (next to be held in May 2027)<br>House of Representatives - last held on 22 November 2023 (next to be held on 30 November 2027)<br>
+_election results_: Senate - percent of vote by party - BBB 21.3%, VVD 13.3%, GL 9.3%, PvdA 9.3%, CDA 8.0%, D66 6.7%, PVV 5.3%, SP 4%, CU 4%, PvdD 4%, JA21 4%, Volt 2.7%, SGP 2.7%,  FvD 2.7%, other 2.6%; seats by party - BBB 16, VVD 10, GL 7, PvdA 7, CDA 6, D66 5, PVV 4, SP 3, CU 3, PvdD 3, JA21 3, Volt 2, SGP 2, FvD 2 other 2; composition as of February 2024 - men 45, women 30, percentage women 40%<br><br>House of Representatives - percent of vote by party - PVV 23.6%, GL/PvdA 15.5%, VVD 15.2%, NSC 12.8%, D66 6.2%, BBB 4.7%, CDA 3.3%, SP 3.1%, Denk 2.4%, FvD 2.2%, PvdD 2.3%, CU 2.1%, SGP 2.2%, other 6.4%; seats by party - PVV 37, GL/PvdA 25, VVD 24, NSC 20, D66 9, BBB 7, CDA 5, SP 5, Denk 3, PvdD 3, CU 3, FvD 3, SGP 3, other 6; composition as of February 2024 - men 91, women 58, percentage women 38.7%; total States General percentage women 39.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Hoge Raad (consists of 41 judges: the president, 6 vice presidents, 31 justices or raadsheren, and 3 justices in exceptional service, referred to as buitengewone dienst); the court is divided into criminal, civil, tax, and ombuds chambers<br>
@@ -741,9 +741,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 53,496 (Syria), 19,204 (Eritrea), 7,106 (Turkey), 5,593 (Iran), 5,152 (Iraq) (mid-year 2022); 117,950 (Ukraine) (as of 21 February 2024)<br>

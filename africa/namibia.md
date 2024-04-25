@@ -352,8 +352,8 @@ _election results_: <br><em>2019:</em> Hage GEINGOB reelected president in the f
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>National Council (42 seats); members indirectly elected 3 each by the 14 regional councils to serve 5-year terms); note - the Council primarily reviews legislation passed and referred by the National Assembly<br>National Assembly (104 seats; 96 members directly elected in multi-seat constituencies by closed list, proportional representation vote to serve 5-year terms and 8 nonvoting members appointed by the president)<br>
-_elections_: <br>National Council - elections for regional councils to determine members of the National Council held on 25 November 2020 (next to be held on 25 November 2025)<br>National Assembly - last held on 27 November 2019 (next to be held in November 2024)<br>
-_election results_: <br>National Council - percent of vote by party - NA; seats by party - SWAPO 28, LPM 6,IPC 2, PDM 2, UDF 2, NUDO 1, independent 1; composition as of February 2024 - men 36, women 6, percentage women 14.3% <br><br>National Assembly - percent of vote by party - SWAPO 65.5%, PDM 16.6%, LPM 4.7%, NUDO 1.9%, APP 1.8%, UDF 1.8%, RP 1.8%, NEFF 1.7%, RDP 1.1%, CDV .7%, SWANU .6%, other 1.8%; seats by party - SWAPO 63, PDM 16, LPM 4, NUDO 2, APP 2, UDF 2, RP 2, NEFF 2, RDP 1, CDV 1, SWANU 1; composition as of February 2024 - men 58, women 46, percentage women 44.2%; total Parliament percentage women 35.6%<br>
+_elections_: National Council - elections for regional councils to determine members of the National Council held on 25 November 2020 (next to be held on 25 November 2025)<br>National Assembly - last held on 27 November 2019 (next to be held in November 2024)<br>
+_election results_: Nstional Council - percent of vote by party - NA; seats by party - SWAPO 28, LPM 6,IPC 2, PDM 2, UDF 2, NUDO 1, independent 1; composition as of February 2024 - men 36, women 6, percentage women 14.3% <br><br>National Assembly - percent of vote by party - SWAPO 65.5%, PDM 16.6%, LPM 4.7%, NUDO 1.9%, APP 1.8%, UDF 1.8%, RP 1.8%, NEFF 1.7%, RDP 1.1%, CDV .7%, SWANU .6%, other 1.8%; seats by party - SWAPO 63, PDM 16, LPM 4, NUDO 2, APP 2, UDF 2, RP 2, NEFF 2, RDP 1, CDV 1, SWANU 1; composition as of February 2024 - men 58, women 46, percentage women 44.2%; total Parliament percentage women 35.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and at least 3 judges in quorum sessions)<br>
@@ -377,8 +377,8 @@ _email address and website_: <br>info@namibiaembassyusa.org<br><br>https://namib
 _chief of mission_: Ambassador Randy William BERRY (since 9 February 2023)<br>
 _embassy_: 38 Metje Street, Klein Windhoek, Windhoek<br>
 _mailing address_: 2540 Windhoek Place, Washington DC&nbsp; 20521-2540<br>
-_telephone_: [264] (061) 295-8500<br>
-_FAX_: [264] (061) 202-5219<br>
+_telephone_: [264] (61) 202-5000<br>
+_FAX_: [264] (61) 202-5219<br>
 _email address and website_: <br>ConsularWindhoek@state.gov<br><br>https://na.usembassy.gov/<br>
 
 **Flag description**<br>
@@ -709,9 +709,6 @@ the NDF's inventory consists of a mix of Soviet-era and some more modern systems
 the NDF’s primary responsibility is external security; it has participated in UN and regional peacekeeping and security missions and provides assistance to civil authorities as needed; it participates in multinational training exercises; the Army fields a largely mobile force centered on three small motorized infantry brigades and a reconnaissance regiment; the Navy has a Chinese-built multipurpose offshore patrol ship equipped with a helicopter landing platform and supported by several coastal patrol vessels, while the Air Force has a small inventory of aircraft, including a few Chinese-made fighters and Soviet-era attack helicopters <br><br>the NDF was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); PLAN was the armed wing of the South West Africa People’s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Namibia-Angola-Botswana</em>: concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border</p> <p><em>Namibia-Botswana-Zambia-Zimbabwe</em>: Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; the Kazungula Bridge opened to traffic in May 2021</p> <p><em>Namibia-South Africa</em>: the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia claims a median line boundary, while South Africa supports the northern bank of the river</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 6,288 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>

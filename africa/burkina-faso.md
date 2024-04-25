@@ -350,8 +350,8 @@ _election results_: <em><br>2020:</em> Roch Marc Christian KABORE reelected pres
 
 **Legislative branch**<br>
 _description_: prior to the 2022 coups and adhoc suspension of laws and constitutional provisions, unicameral National Assembly (127 seats; 111 members directly elected in 13 multi-seat constituencies by party-list proportional representation vote and 26 members elected in a nationwide constituency by proportional representation vote; members serve 5-year terms); 71-member Transitional Legislative Assembly (ALT) appointed by the military junta in 2022 indefinitely replaced the National Assembly<br>
-_elections_: last held on 22 November 2020 (next were to be held by July 2024, but may be delayed by the transitional government due to security concerns)<br>
-_election results_: percent of vote by party - MPP 34.6%, CDP 13.3%, UPC 10.2%, NTD 5.6%, other 36.3%; seats by party - MPP 56, CDP 20, NTD 13, UPC 12, other 26; composition as of October 2021 - men 119, women 8, percent of women 6.3%<br>
+_elections_: last held on 22 November 2020 (next were to be held by July 2024 but may be delayed by the transitional government due to security concerns)<br>
+_election results_: percent of vote by party - NA; seats by party - NA; composition as of March 2024 - men 59, women 12, percentage women 16.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Appeals or Cour de Cassation (consists of NA judges); Council of State (consists of NA judges); Constitutional Council or Conseil Constitutionnel (consists of the council president and 9 members)<br>
@@ -359,7 +359,7 @@ _judge selection and term of office_: Supreme Court judge appointments mostly co
 _subordinate courts_: Appeals Court; High Court; first instance tribunals; district courts; specialized courts relating to issues of labor, children, and juveniles; village (customary) courts<br>
 
 **Political parties and leaders**<br>
-Act Together [Kadre OUEDRAOGO]<br>African Democratic Rally/Alliance for Democracy and Federation or ADF/RDA [Gilbert Noel OUEDRAOGO]<br>Congress for Democracy and Progress or CDP [Eddie KOMBOIGO]<br>Convergence for Progress and Solidarity-Generation 3 or CPS-G3<br>Movement for the Future Burkina Faso or MBF<br>National Convention for Progress or CNP<br>New Era for Democracy or NTD [Vincent DABILGOU]<br>Pan-African Alliance for Refoundation or APR<br>Party for Democracy and Socialism/Metba or PDS/Metba [Philippe OUEDRAOGO]<br>Party for Development and Change or PDC [Aziz SEREME]<br>Patriotic Rally for Integrity or RPI<br>Peoples Movement for Progress or MPP [Roch Marc Christian KABORE]<br>Progressives United for Renewal or PUR<br>Union for Progress and Reform or UPC [Zephirin DIABRE]<br>Union for Rebirth - Sankarist Party or UNIR-PS [Benewende Stanislas SANKARA]<br><br><strong>note:</strong> only parties with seats in the National Assembly included<br>
+Act Together [Kadre OUEDRAOGO]<br>African Democratic Rally/Alliance for Democracy and Federation or ADF/RDA [Gilbert Noel OUEDRAOGO]<br>Congress for Democracy and Progress or CDP [Eddie KOMBOIGO]<br>Convergence for Progress and Solidarity-Generation 3 or CPS-G3<br>Movement for the Future Burkina Faso or MBF<br>National Convention for Progress or CNP<br>New Era for Democracy or NTD [Vincent DABILGOU]<br>Pan-African Alliance for Refoundation or APR<br>Party for Democracy and Socialism/Metba or PDS/Metba [Philippe OUEDRAOGO]<br>Party for Development and Change or PDC [Aziz SEREME]<br>Patriotic Rally for Integrity or RPI<br>Peoples Movement for Progress or MPP [Roch Marc Christian KABORE]<br>Progressives United for Renewal or PUR<br>Union for Progress and Reform or UPC [Zephirin DIABRE]<br>Union for Rebirth - Sankarist Party or UNIR-PS [Benewende Stanislas SANKARA]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU (suspended), CD, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNITAR, UNMISS, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -690,7 +690,7 @@ approximately 15,500 personnel (10,000 Army; 500 Air Force; 5,000 National Genda
 <strong>note: </strong>in 2022, government authorities announced a special recruitment for up to 6,000 additional soldiers and 1,500 gendarmes to assist with its fight against terrorist groups operating in the country; the government also put out a recruitment call for up to 100,000 VDP volunteers, and as of 2023 claimed about 50,000 had volunteered (the VDP's original recruited strength was 15,000)<br><strong><br><br></strong><br>
 
 **Military equipment inventories and acquisitions**<br>
-the FABF has a mix of older, secondhand, and some modern equipment from a variety of suppliers, including China, France, Russia, South Africa, Turkey, the UK, and the US (2023)<br>
+the FABF has a mix of older, secondhand, and some modern equipment from a variety of suppliers, including China, France, Russia, South Africa, Turkey, the UK, and the US (2024)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service for men and women (2023)<br>
@@ -706,9 +706,6 @@ Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>porous borders contribute to illicit cross-border activities, including terrorism and trafficking<br><br><em>Burkina Faso-Benin</em>: the two countries dispute sovereignty over a small area known as Kourou/Koalou near the tripoint with Togo, which has been declared a neutral zone pending settlement of the dispute; in 2009, an agreement to refer the dispute to the International Court of Justice was signed, but no formal application has yet been made to the Court</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 36,372 (Mali) (2023)<br>

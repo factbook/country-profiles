@@ -276,8 +276,8 @@ _elections/appointments_: the monarchy is hereditary; high commissioner appointe
 
 **Legislative branch**<br>
 _description_: unicameral Faroese Parliament or Logting (33 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>the Faroe Islands elect 2 members to the Danish Parliament to serve 4-year terms<br>
-_elections_: <br>Faroese Parliament - last held on 8 December 2022 (next to be held in 2026)<br>Faroese seats in the Danish Parliament last held on 31 October 2022 (next to be held no later than 31 October 2026)<br>
-_election results_: <br><br>Faroese Parliament percent of vote by party - JF 26.6%, B 20%, A 18.9%, E 17.7%, F 7.5%, H 6.6%, seats by party - JF 9, B 7, A 6, E 6, F 3, H 2; composition - men 27, women 6; percentage women 18.2%<br><br>Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - JF 1, B 1; composition - men 2, women 0; percentage women 0%<br>
+_elections_: Faroese Parliament - last held on 8 December 2022 (next to be held in 2026)<br><br>Faroese seats in the Danish Parliament last held on 31 October 2022 (next to be held no later than 31 October 2026)<br>
+_election results_: Faroese Parliament percent of vote by party - JF 26.6%, B 20%, A 18.9%, E 17.7%, F 7.5%, H 6.6%, seats by party - JF 9, B 7, A 6, E 6, F 3, H 2; composition as of April 2024 - men 24, women 9; percentage women 27.3%<br><br>Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - JF 1, B 1; composition - men 2, women 0; percentage women 0%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Faroese Court or Raett (Rett - Danish) decides both civil and criminal cases; the Court is part of the Danish legal system<br>
@@ -553,7 +553,4 @@ no regular military forces or conscription<br>
 the Government of Denmark has responsibility for defense; as such, the Danish military&rsquo;s Joint Arctic Command in Nuuk, Greenland is responsible for coordinating the defense of the Faroe Islands; the Joint Arctic Command has a contact element in the capital of Torshavn<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-none identified<br>
 

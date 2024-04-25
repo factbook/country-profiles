@@ -349,7 +349,7 @@ _election results_: <br><em>2020:</em> Faure GNASSINGBE reelected president; per
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (91 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms); party lists are required to contain equal numbers of men and women<br>
 _elections_: last held on 20 December 2018 (next election was to be held on 20 April 2024 but has been indefinitely postponed)<br>
-_election results_: <br>percent of vote by party - NA; seats by party - UNIR 59, UFC 7, NET 3, MPDD 2, MRC 1, PDP 1, independent 18; composition - men 76, women 15, percent of women 16.5%<br>
+_election results_: percent of vote by party - NA; seats by party - UNIR 59, UFC 7, NET 3, MPDD 2, MRC 1, PDP 1, independent 18; composition as of February 2024 - men 73, women 17, percent of women 18.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (organized into criminal and administrative chambers, each with a chamber president and advisors); Constitutional Court (consists of 9 judges, including the court president)<br>
@@ -717,9 +717,6 @@ Jama’at Nusrat al Islam wal Muslimeen (JNIM)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Togo-Benin</em>: in 2001, Benin claimed Togo moved boundary monuments - joint commission continues to resurvey the boundary; Benin’s and Togo’s Adjrala hydroelectric dam project on the Mona River, proposed in the 1990s, commenced in 2017 with funding from a Chinese bank</p> <p><em>Togo-Burkina Faso</em>: none identified</p> <p><em>Togo-Ghana</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 9,846 (Burkina Faso), 8,436 (Ghana) (2023)<br>

@@ -278,8 +278,8 @@ _elections/appointments_: the monarchy is hereditary; governor appointed by the 
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (11 seats; 3 members appointed by the governor, 5 by the premier, and 3 by the opposition party; members serve 5-year terms) <br>House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)<br>
-_elections_: <br>Senate - last appointments in 2022 (next appointments in 2027)<br>House of Assembly - last held on 1 October 2020 (next to be held by 2025)<br>
-_election results_: Senate - composition as of October 2023 - men 4, women 7, percent of women 63.6%<br>House of Assembly - percent of vote by party - PLP 62.1%, OBA 32.3%, other 5.4%, independent 0.2%; seats by party - PLP 30, OBA 6; composition as of October 2023 - men 26, women 9, percent of women 25%; note - total Parliament percent of women as of September 2023 - 34%<br>
+_elections_: Senate - last appointments in 2022 (next appointments in 2027)<br>House of Assembly - last held on 1 October 2020 (next to be held by 2025)<br>
+_election results_: Senate - composition as of April 2024 - men 5, women 6, percentage women 63.6%<br><br>House of Assembly - percent of vote by party - PLP 62.1%, OBA 32.3%, other 5.4%, independent 0.2%; seats by party - PLP 30, OBA 6; composition as of April 2024 - men 28, women 7, percentage women 20%; total Parliament percentage women 28.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and at least 2 justices); Supreme Court (consists of the chief justice, 4 puisne judges, and 1 associate justice); note - the Judicial Committee of the Privy Council (in London) is the court of final appeal<br>
@@ -592,7 +592,4 @@ men and women who are Commonwealth citizens and 18-45 years of age can volunteer
 defense is the responsibility of the UK; the Royal Bermuda Regiment&rsquo;s responsibilities include maritime security of Bermuda&rsquo;s inshore waters, search and rescue, ceremonial duties, humanitarian/disaster assistance, security of key installations, and assisting the Bermuda Police with maintaining public order; it includes explosive ordnance disposal, diver, maritime, security police, and support units (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 

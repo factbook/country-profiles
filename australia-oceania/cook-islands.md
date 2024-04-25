@@ -74,7 +74,6 @@ the northern Cook Islands are seven low-lying, sparsely populated, coral atolls;
 
 **Population**<br>
 7,939 (2023 est.)<br>
-<strong>note:</strong> the Cook Islands' Ministry of Finance &amp; Economic Management estimated the resident population to have been 11,700 in September 2016<br>
 
 **Nationality**<br>
 _noun_: Cook Islander(s)<br>
@@ -288,7 +287,7 @@ _elections/appointments_: the monarchy is hereditary; UK representative appointe
 **Legislative branch**<br>
 _description_: unicameral Parliament, formerly the Legislative Assembly (24 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms); note - the House of Ariki, a 24-member parliamentary body of traditional leaders appointed by the King's representative serves as a consultative body to the Parliament<br>
 _elections_: last held on 1 August 2022 (next to be held by 2026)<br>
-_election results_: percent of vote by party - CIP 44%, Demo 26.9%, Cook Islands United Party 26.9%, OCI 2.7%, other 0.2% independent 7.3%; seats by party - CIP 12, Demo 5, Cook Islands United Party 3, OCI 1, independent 3; composition as of September 2023 - men 18, women 6, percent of women 25%<br>
+_election results_: percent of vote by party - CIP 44%, Demo 26.9%, Cook Islands United Party 26.9%, OCI 2.7%, other 0.2% independent 7.3%; seats by party - CIP 12, Demo 5, Cook Islands United Party 3, OCI 1, independent 3; composition as of September 2023 - men 18, women 6, percentage women 25%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and 3 judges of the High Court); High Court (consists of the chief justice and at least 4 judges and organized into civil, criminal, and land divisions); note - appeals beyond the Cook Islands Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -526,7 +525,4 @@ no regular military forces; Cook Islands Police Service<br>
 defense is the responsibility of New Zealand in consultation with the Cook Islands and at its request<br><br>the Cook Islands have a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within its designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 

@@ -359,7 +359,7 @@ _election results_: <em><br>2021</em>: Hakainde HICHILEMA elected president; per
 **Legislative branch**<br>
 _description_: unicameral National Assembly (167 seats statutory, 166 seats current; 156 members directly elected in single-seat constituencies by simple majority vote in 2 rounds if needed, and up to 8 appointed by the president; members serve 5-year terms); 3 ex-officio members elected by National Assembly membership<br>
 _elections_: last held on 12 August 2021 (next to be held in 2026)<br>
-_election results_: <br>percent of vote by party - UPND 53.9%, PF 38.1%, PNUP 0.6%, independent 7.4%; seats by party - UPND 82, PF 62, PNUP 1, independent 11; composition as of February 2024 - men 142, women 25, percent of women 15%<br>
+_election results_: percent of vote by party - UPND 53.9%, PF 38.1%, PNUP 0.6%, independent 7.4%; seats by party - UPND 82, PF 62, PNUP 1, independent 11; composition as of February 2024 - men 142, women 25, percentage women 15%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice, deputy chief justice, and at least 11 judges); Constitutional Court (consists of the court president, vice president, and 11 judges); note - the Constitutional Court began operation in June 2016<br>
@@ -723,15 +723,12 @@ the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era arm
 <strong>note:</strong> Zambia had military conscription from 1975-1980<br>
 
 **Military deployments**<br>
-925 Central African Republic (MINUSCA) (2023)<br>
+930 Central African Republic (MINUSCA) (2024)<br>
 
 **Military - note**<br>
 the Zambia Defense Forces (ZDF) are responsible for preserving the country’s sovereignty and territorial integrity; it also has some domestic security responsibilities in cases of national emergency; border security and support to African and UN peacekeeping operations are priorities; the ZDF is part of the Southern Africa Development Community (SADC) Standby Force and participates in multinational training exercises; it has received training assistance from China and the US<br><br>the Army’s principal combat forces are three light infantry brigades, supported by armored and artillery regiments; it also has a maritime patrol unit to provide security for the country’s lakes and rivers; the Air Force has small numbers of mostly Chinese-made combat aircraft and helicopters <br><br>the ZDF traces its roots to the Northern Rhodesia Regiment, which was raised by the British colonial government to fight in World War II; the ZDF was established in 1964 from units of the dissolved Federation of Rhodesia and Nyasaland armed forces; it participated in a number of regional conflicts during the 1970s and 1980s; Zambia actively supported independence movements such as the Union for the Total Liberation of Angola (UNITA), the Zimbabwe African People's Union (ZAPU), the African National Congress of South Africa (ANC), and the South-West Africa People's Organization (SWAPO) (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Zambia-Angola: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary<em><br><br>Zambia-Democratic Republic of Congo(DRC): </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto</p> <p><em>Zambia-Tanzania</em>: some drug smuggling may take place across the Zambia-Tanzania border; there are no known current territorial issues, as both states have continued to recognize the colonial boundaries last modified in 1937; the boundary in Lake Tanganyika remains undefined.<br><br><em>Zambia-Zimbabwe: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 8,436 (Burundi) (2023); 62,660 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>

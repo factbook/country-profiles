@@ -303,8 +303,8 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (13 seats; members appointed by the governor general - 10 on the advice of the prime minister and 3 on the advice of the leader of the opposition party; members serve 5-year terms)<br>House of Representatives (15 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <br>Senate - last appointments on 3 August 2022 (next to be held no later than 2027)<br>House of Representatives - last held on 23 June 2022 (next to be held no later than 2027)<br>
-_election results_: <br>Senate - percent by party - NA; seats by party - NDC 7, NNP 3, independent 3; composition as of February 2024 - men 11, women 5, percentage women 31.3%<br><br>House of Representatives - percent of vote by party - NDC 51.8%; NNP 47.8%; other 0.4%; seats by party - NDC 9; NNP 6; composition as of February 2024 - men 9, women 4, percentage women 30.8%; note - total Parliament percentage women 31%<br>
+_elections_: Senate - last appointments on 3 August 2022 (next to be held no later than 2027)<br>House of Representatives - last held on 23 June 2022 (next to be held no later than 2027)<br>
+_election results_: Senate - percent by party - NA; seats by party - NDC 7, NNP 3, independent 3; composition as of February 2024 - men 11, women 5, percentage women 31.3%<br><br>House of Representatives - percent of vote by party - NDC 51.8%; NNP 47.8%; other 0.4%; seats by party - NDC 9; NNP 6; composition as of February 2024 - men 9, women 4, percentage women 30.8%; note - total Parliament percentage women 31%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: regionally, the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 in Grenada; appeals beyond the ECSC in civil and criminal matters are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -610,9 +610,6 @@ no regular military forces; the Royal Grenada Police Force (under the Ministry o
 Grenada joined the Caribbean Regional Security System (RSS) in 1985; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Guyana, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-none identified<br>
 
 **Illicit drugs**<br>
 <p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>

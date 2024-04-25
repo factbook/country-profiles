@@ -347,7 +347,7 @@ _election results_: President Seretse Khama Ian KHAMA, who had served as preside
 **Legislative branch**<br>
 _description_: unicameral Parliament consists of the National Assembly (63 seats; 57 members directly elected in single-seat constituencies by simple majority vote,&nbsp;4 nominated by the president and indirectly elected by simple majority vote by the rest of the National Assembly, and 2 ex-officio members - the president and attorney general; elected members serve 5-year terms); note - the House of Chiefs (Ntlo ya Dikgosi), an advisory body to the National Assembly, consists of 35 members - 8 hereditary chiefs from Botswana's principal tribes, 22 indirectly elected by the chiefs, and 5 appointed by the president; the House of Chiefs consults on issues including powers of chiefs, customary courts, customary law, tribal property, and constitutional amendments<br>
 _elections_: last held on 23 October 2019 (next to be held by October 2024)<br>
-_election results_: percent of vote by party - BDP 52.7%, UDC 35.9%, BPF 4.4%, AP 5.1%, other 1.7%; seats by party - BDP 38, UDC 15, BPF 3, AP 1; composition as of October 2023 - men 56, women 7, percent of women 11.1%<br>
+_election results_: percent of vote by party - BDP 52.7%, UDC 35.9%, BPF 4.4%, AP 5.1%, other 1.7%; seats by party - BDP 38, UDC 15, BPF 3, AP 1; composition as of March 2024 - men 56, women 7, percentage women 11.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal, High Court (each consists of a chief justice and a number of other judges as prescribed by the Parliament)<br>
@@ -704,9 +704,6 @@ has a small program focused on acquiring, operating, and exploiting satellites; 
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Botswana does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials investigated some additional trafficking crimes and referred victims to services, increased cooperation with foreign governments to investigate and prosecute cross-border trafficking, and sought trafficking survivors&rsquo; input in drafting a new National Action Plan; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; officials did not initiate any new prosecutions or convict any traffickers, nor did they amend the anti-trafficking law to remove sentencing provisions that allow fines in lieu of imprisonment; fewer trafficking victims were identified, and the lack of formal procedures to identify and refer victims to care hindered protection efforts; the government continued to rely on civil society to provide most victim services and did not report providing adequate in-kind or financial support for these efforts; efforts to regulate labor recruitment agencies remained minimal, increasing migrant workers&rsquo; vulnerability to trafficking; therefore, Botswana was downgraded to Tier 2 Watch List (2023)<br>

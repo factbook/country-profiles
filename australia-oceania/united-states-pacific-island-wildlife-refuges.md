@@ -61,7 +61,7 @@ _other_: 100% (2018 est.)<br>
 
 **Population**<br>
 no indigenous inhabitants<br>
-<strong>note:</strong> public entry is only by special-use permit from US Fish and Wildlife Service and generally restricted to scientists and educators; visited annually by US Fish and Wildlife Service <br><br><strong>Jarvis Island:</strong> Millersville settlement on western side of island occasionally used as a weather station from 1935 until World War II, when it was abandoned; reoccupied in 1957 during the International Geophysical Year by scientists who left in 1958; currently unoccupied <br><br><strong>Johnston Atoll:</strong> in previous years, an average of 1,100 US military and civilian contractor personnel were present; as of May 2005, all US Government personnel had left the island <br><br><strong>Midway Islands:</strong> approximately 40 people make up the staff of US Fish and Wildlife Service and their services contractor living at the atoll <br><br><strong>Palmyra Atoll:</strong> four to 20 Nature Conservancy, US Fish and Wildlife staff, and researchers<br>
+<strong>note:</strong> public entry is only by special-use permit from US Fish and Wildlife Service and generally restricted to scientists and educators; visited annually by US Fish and Wildlife Service <br><br><strong>Jarvis Island:</strong> Millersville settlement on western side of island occasionally used as a weather station from 1935 until World War II, when it was abandoned; reoccupied in 1957 during the International Geophysical Year by scientists who left in 1958; currently unoccupied <br><br><strong>Johnston Atoll:</strong> in previous years, an average of 1,100 US military and civilian contractor personnel were present; as of May 2005, all US Government personnel had left the island <br><br><strong>Midway Islands:</strong> approximately 40 people make up the staff of US Fish and Wildlife Service and their services contractor living at the atoll <br><br><strong>Palmyra Atoll:</strong> 4 to 20 Nature Conservancy, US Fish and Wildlife staff, and researchers<br>
 
 **Age structure**<br>
 _0-14 years_: NA<br>
@@ -149,7 +149,4 @@ _major seaport(s)_: Baker, Howland, and Jarvis Islands, and Kingman Reef<br>
 defense is the responsibility of the US<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 

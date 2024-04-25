@@ -100,6 +100,3 @@ according to the International Maritime Bureau, the risk for piracy and armed ro
 
 ## Transnational Issues
 
-**Disputes - international**<br>
-<p>some maritime disputes (see littoral states)</p><br>
-

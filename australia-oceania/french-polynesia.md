@@ -261,15 +261,15 @@ see France<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Emmanuel MACRON (since 14 May 2017), represented by High Commissioner of the Republic Eric Spitz (since 23 September 2022)<br>
+_chief of state_: President Emmanuel MACRON (since 14 May 2017), represented by High Commissioner of the Republic Eric SPITZ (since 23 September 2022)<br>
 _head of government_: President of French Polynesia Moetai BROTHERSON (since 12 May 2023)<br>
 _cabinet_: Council of Ministers approved by the Assembly from a list of its members submitted by the president<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; French Polynesia president indirectly elected by Assembly of French Polynesia for a 5-year term (no term limits)<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly of French Polynesia or Assembl&eacute;e de la Polyn&eacute;sie fran&ccedil;aise (57 seats; elections held in 2 rounds; in the second round, 38 members directly elected in multi-seat constituencies by a closed-list proportional representation vote; the party receiving the most votes gets an additional 19 seats; members serve 5-year terms; French Polynesia indirectly elects 2 senators to the French Senate via an electoral college by absolute majority vote for 6-year terms with one-half the membership renewed every 3 years and directly elects 3 deputies to the French National Assembly by absolute majority vote in 2 rounds if needed for 5-year terms<br>
-_elections_: <br>Assembly of French Polynesia - last held on 16 and 30 April 2023 (next to be held in 2028)<br>French Senate - last held on 24 September 2023 (next to be held on 30 September 2026)<br>French National Assembly - last held in 2 rounds on 12 and 19 June 2022 (next to be held in 2027)<br>
-_election results_: Assembly of French Polynesia - percent of vote by party - People's Servant Party 66.7%; List of the People 26.3%, I Love Polynesia 5.3%, Rally of Mahoi People 1.8%; seats by party - People's Servant People 38; List of the People 15, I Love Polynesia 3, Rally of the Mahoi People 1, composition - men 29, women 28, percentage women 49.1%<br><br>French Senate - percent of vote by party - NA; seats by party - Popular Rally 1, People's Servant Party 1; composition - NA<br><br>French National Assembly - percent of vote by party - NA; seats by party - People's Servant Party 3; composition - NA<br>
+_elections_: Assembly of French Polynesia - last held on 16 and 30 April 2023 (next to be held in 2028)<br><br>French Senate - last held on 24 September 2023 (next to be held on 30 September 2026)<br><br>French National Assembly - last held in 2 rounds on 12 and 19 June 2022 (next to be held in 2027)<br>
+_election results_: Assembly of French Polynesia - percent of vote by party - People's Servant Party 66.7%; List of the People 26.3%, I Love Polynesia 5.3%, Rally of Mahoi People 1.8%; seats by party - People's Servant People 38; List of the People 15, I Love Polynesia 3, Rally of the Mahoi People 1, composition as of April 2024 - men 29, women 28, percentage women 49.1%<br><br>French Senate - percent of vote by party - NA; seats by party - Popular Rally 1, People's Servant Party 1; composition - NA<br><br>French National Assembly - percent of vote by party - NA; seats by party - People's Servant Party 3; composition - NA<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal or Cour d'Appel (composition NA); note - appeals beyond the French Polynesia Court of Appeal are heard by the Court of Cassation (in Paris)<br>
@@ -564,7 +564,4 @@ no regular military forces<br>
 defense is the responsibility of France; France maintains forces (about 900 troops) in French Polynesia<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 

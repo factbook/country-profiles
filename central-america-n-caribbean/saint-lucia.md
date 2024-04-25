@@ -307,7 +307,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 **Legislative branch**<br>
 _description_: bicameral Houses of Parliament consists of:<br>Senate (11 seats; all members appointed by the governor general; 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 2 upon consultation with religious, economic, and social groups; members serve 5-year terms)<br>House of Assembly (18 seats; 17 members directly elected in single-seat constituencies by simple majority vote and the speaker, designated from outside the Parliament; members serve 5-year terms)<br>
 _elections_: Senate - last appointments on 17 August 2021 (next to be held in 2026)<br>House of Assembly - last held on 26 July 2021 (next to be held in 2026)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 6, women 5, percent of women 45.5%<br>House of Assembly - percent of vote by party - SLP 50.1%, UWP 42.9%, other o.3%, independent 6.6%; seats by party - SLP 13, UWP 2, independent 2; composition (including the speaker) - men 16, women 2, percent of women 11.1%; note - total Parliament percent of women 24.1%<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition as of February 2024 - men 6, women 5, percentage women 45.5%<br><br>House of Assembly - percent of vote by party - SLP 50.1%, UWP 42.9%, other 0.3%, independent 6.6%; seats by party - SLP 13, UWP 2, independent 2; composition (including the speaker) as of February 2024 - men 16, women 2, percentage women 11.1%; note - total Parliament percentage women 24.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states with 4 on Saint Lucia; Saint Lucia is a member of the Caribbean Court of Justice<br>
@@ -618,9 +618,6 @@ no regular military forces; Royal Saint Lucia Police Force (RSLPF) (2024)<br>
 Saint Lucia has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Guyana, Saint Kitts, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-none identified<br>
 
 **Illicit drugs**<br>
 <p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>

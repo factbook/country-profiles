@@ -343,8 +343,8 @@ _election results_: <em>2023:  </em>Viola AMHERD elected president for 2024; Fe
 
 **Legislative branch**<br>
 _description_: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:<br>Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in two-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons, which use list proportional representation vote; member term governed by cantonal law)<br>National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 194 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms)<br>
-_elections_: <br>Council of States - last held in most cantons on 22 October 2023 (each canton determines when the next election will be held)<br>National Council - last held on 22 October 2023 (next to be held on 31 October 2027)<br>
-_election results_: <br>Council of States - percent of vote by party - NA; seats by party - The Center 13, FDP.The Liberals 12, SP 9, SVP 6, Green Party 5, other 1; composition (as of 22 Oct 2023) - men 30, women 16, percent of women 34.8%<br><br>National Council - percent of vote by party - SVP 28.6%, SP 18%, The Center 14.6%, FDP.The Liberals 14.4%, Green Party 9.4%, GLP 7.2%, EDU 1.2, EDV/PEV 1.9%, MCR/MCG .5%, other 4%; seats by party - SVP 62, SP 41, The Center 29, FDP.The Liberals 28, Green Party 23, GLP 10, EDU 2, EDV/PEV 2, MCR/MCG 2, other 1; composition as of October 2023 - men 123, women 77, percent of women 38.5%; note - overall Federal Assembly percent of women 37.8%<br>
+_elections_: Council of States - last held in most cantons on 22 October 2023 (each canton determines when the next election will be held)<br>National Council - last held on 22 October 2023 (next to be held on 31 October 2027)<br>
+_election results_: Council of States - percent of vote by party - NA; seats by party - The Center 13, FDP.The Liberals 12, SP 9, SVP 6, Green Party 5, other 1; composition as of February 2024 - men 30, women 16, percentage women 34.8%<br><br>National Council - percent of vote by party - SVP 28.6%, SP 18%, The Center 14.6%, FDP.The Liberals 14.4%, Green Party 9.4%, GLP 7.2%, EDU 1.2, EDV/PEV 1.9%, MCR/MCG .5%, other 4%; seats by party - SVP 62, SP 41, The Center 29, FDP.The Liberals 28, Green Party 23, GLP 10, EDU 2, EDV/PEV 2, MCR/MCG 2, other 1; composition as of February 2024 - men 123, women 77, percentage women 38.5%; note - total Federal Assembly percentage women 37.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court (consists of 38 justices and 19 deputy justices organized into 7 divisions)<br>
@@ -717,7 +717,7 @@ the military's inventory includes a mix of domestically produced and imported we
 <strong>note: </strong>conscientious objectors can choose 390 days of community service instead of military service; as of 2023, women comprised about 1% of the active Swiss military<br>
 
 **Military deployments**<br>
-up to 195 Kosovo (NATO/KFOR) (2023)<br>
+175 Kosovo (NATO/KFOR) (2024)<br>
 
 **Military - note**<br>
 the Swiss military is responsible for territorial defense, limited support to international disaster response and peacekeeping, and providing support to civil authorities when their resources are not sufficient to ward off threats to internal security or provide sufficient relief during disasters; Switzerland has long maintained a policy of military neutrality but does periodically participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military and peacekeeping operations; however, Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO’s Partnership for Peace program in 1996; it contributed to the NATO-led Kosovo force (KFOR) in 1999 and, as of 2024, continued doing so with up to 195 personnel<br><br>the military is comprised of conscripts, militia, and a small professional component; it is led by the Chief of the Armed Forces with an Armed Forces Staff and consists of a Joint Operations Command (JOC), an Armed Forces Logistics Organization, an Armed Forces Command Support Organization, and a Training and Education Command; the JOC controls, among other subordinate commands, the Air Force, the Land Forces, four territorial divisions, the Military Police Command, and the Special Forces Command; the primary combat forces of the Army/Land Forces are three mechanized brigades, plus additional reserve brigades of armor, infantry, and mountain infantry forces; the four territorial divisions link the Army with the cantons; the Air Force is responsible for airspace protection (air sovereignty and air defense, including ground-based air defense), air transport, and airborne intelligence; it has about 50 US-origin multirole fighter aircraft (2024)<br>
@@ -738,9 +738,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 65,615 (Ukraine) (as of 5 March 2024)<br>

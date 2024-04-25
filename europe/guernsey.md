@@ -5,7 +5,7 @@ _Europe / Dependencies (United Kingdom)_
 ## Introduction
 
 **Background**<br>
-Guernsey and the other Channel Islands represent the last remnants of the medieval Duchy of Normandy, which held sway in both France and England. The islands were the only British soil occupied by German troops in World War II. The Bailiwick of Guernsey consists of the main island of Guernsey and a number of smaller islands including Alderney, Sark, Herm, Jethou, Brecqhou, and Lihou. The Bailiwick is a self-governing British Crown dependency that is not part of the UK. However, the UK Government is constitutionally responsible for its defense and international representation.<br>
+Guernsey and the other Channel Islands represent the last remnants of the medieval Duchy of Normandy, which held sway in both France and England. The islands were the only British soil that Germany occupied in World War II. The Bailiwick of Guernsey consists of the main island of Guernsey and a number of smaller islands, including Alderney, Sark, Herm, Jethou, Brecqhou, and Lihou. The Bailiwick is a self-governing British Crown dependency that is not part of the UK. However, the UK Government is constitutionally responsible for its defense and international representation.<br>
 
 ## Geography
 
@@ -69,7 +69,7 @@ _noun_: Channel Islander(s)<br>
 _adjective_: Channel Islander<br>
 
 **Ethnic groups**<br>
-Guernsey 53.1%, UK and Ireland 23.9%, Portugal 2.2%, Latvia 1.5%, other Europe 2.8%, other 4.4%, unspecified 11.4% (2020 est.)<br>
+Guernsey 53.5%, UK and Ireland 23.8%, Portugal 2.1%, Latvia 1.4%, other Europe 2.7%, other Crown Dependencies 0.7%, other 5.3%, unspecified 10.5% (2022 est.)<br>
 <strong>note:</strong> data represent population by country of birth; the native population is of British and Norman-French descent<br>
 
 **Languages**<br>
@@ -241,8 +241,8 @@ _election results_: <em><br>2020: </em>Peter FERBRACHE (independent) elected pre
 
 **Legislative branch**<br>
 _description_: unicameral States of Deliberation (40 seats; 38 People's Deputies and 2 representatives of the States of Alderney; members directly elected by majority vote to serve 4-year terms); note - non-voting members include the bailiff (presiding officer), attorney-general, and solicitor-general<br>
-_elections_: <br>last held on 7 October 2020 (next to be held in June 2025)<br>
-_election results_: <br>percent of vote - GPI 24.0%, GP 10%, APG 3.4%, independent 62.6%; seats - GPI 10, GP 6, independent 22, States of Alderney 2; composition - men 32, women 8, percentage women 20%<br>
+_elections_: last held on 7 October 2020 (next to be held in June 2025)<br>
+_election results_: percent of vote - GPI 24.0%, GP 10%, APG 3.4%, independent 62.6%; seats - GPI 10, GP 6, independent 22, States of Alderney 2; composition - men 32, women 8, percentage women 20%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Guernsey Court of Appeal (consists of the Bailiff of Guernsey, who is the ex-officio president of the Guernsey Court of Appeal, and at least 12 judges); Royal Court (organized into 3 divisions - Full Court sits with 1 judge and 7 to 12 jurats acting as judges of fact, Ordinary Court sits with 1 judge and normally 3 jurats, and Matrimonial Causes Division sits with 1 judge and 4 jurats); note - appeals beyond Guernsey courts are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -424,9 +424,6 @@ _major seaport(s)_: Braye Bay, Saint Peter Port<br>
 defense is the responsibility of the UK<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-none identified<br>
 
 **Illicit drugs**<br>
 NA<br>

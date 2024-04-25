@@ -305,9 +305,9 @@ _cabinet_: Council of Ministers or Lhengye Zhungtshog members nominated by the m
 _elections/appointments_: the monarchy is hereditary but can be removed by a two-thirds vote of Parliament; leader of the majority party in Parliament is nominated as the prime minister, appointed by the monarch<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Chi Tshog consists of:<br>non-partisan National Council or Gyelyong Tshogde (25 seats; 20 members directly elected in single-seat constituencies by simple majority vote and 5 members appointed by the king; members serve 5-year terms)<br> National Assembly or Tshogdu (47 seats; members directly elected in single-seat constituencies in a two-round system; in the primary round, contesting political parties are directly selected by simple majority vote; in the main round, the two top parties in the primary round field candidates who are directly elected by simple majority vote; members serve 5-year terms)  <br>
-_elections_: <br>National Council - last held on 20 April 2023 (next to be held in 2028)<br><br>National Assembly - first round held on 30 November 2023 with a runoff on 9 January 2024 (next to be held in 2028)<br>
-_election results_: <br>National Council - seats by party - independent 20 (all candidates ran as independents) and 5 appointed by the king; composition as of October 2023 - men 22, women 3, percent of women 12%<br><br>National Assembly - percent of vote by party in first round - PDP 42.5%, BTP 19.6%, DPT 14.9%, DNT 13.1% DTT 9.8%; percent of vote in second round - PDP 55%, BTP 45%; seats by party PDP 30, BTP 17; composition as of January 2024 - men 45, women 2, percent of women 4.3%; note - total percent of women in Parliament 6.9%<br>
+_description_: bicameral Parliament or Chi Tshog consists of:<br>non-partisan National Council or Gyelyong Tshogde (25 seats; 20 members directly elected in single-seat constituencies by simple majority vote and 5 members appointed by the king; members serve 5-year terms)<br> National Assembly or Tshogdu (47 seats; members directly elected in single-seat constituencies in a two-round system; in the primary round, contesting political parties are directly selected by simple majority vote; in the main round, the two top parties in the primary round field candidates who are directly elected by simple majority vote; members serve 5-year terms)<br>
+_elections_: National Council - last held on 20 April 2023 (next to be held in 2028)<br>National Assembly - first round held on 30 November 2023 with a runoff on 9 January 2024 (next to be held in 2028)<br>
+_election results_: National Council - seats by party - independent 20 (all candidates ran as independents) and 5 appointed by the king; composition as of February 2024 - men 22, women 3, percentage women 12%<br><br>National Assembly - percent of vote by party in first round - PDP 42.5%, BTP 19.6%, DPT 14.9%, DNT 13.1% DTT 9.8%; percent of vote in second round - PDP 55%, BTP 45%; seats by party PDP 30, BTP 17; composition as of February 2024 - men 45, women 2, percentage women 4.3%; total percentage women in Parliament 6.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 4 associate&nbsp;justices); note - the Supreme Court has sole jurisdiction in constitutional matters<br>
@@ -644,7 +644,4 @@ has a small, recently established program focused on acquiring satellites and de
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Bhutan-China:</em> lacking any treaty describing the boundary, Bhutan and China continue negotiations to establish a common boundary alignment to resolve territorial disputes arising from substantial cartographic discrepancies, the most contentious of which lie in Bhutan's west along China’s Chumbi salient<br><br><em>Bhutan-India:</em> none identified</p><br>
 

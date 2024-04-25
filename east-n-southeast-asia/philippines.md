@@ -351,8 +351,8 @@ _election results_: <em><br>2022: </em>Ferdinand MARCOS, Jr. elected president; 
 
 **Legislative branch**<br>
 _description_: bicameral Congress or Kongreso consists of:<br>Senate or Senado (24 seats; members directly elected in multi-seat constituencies by majority vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>House of Representatives or Kapulungan Ng Mga Kinatawan (316 seats; 253 members directly elected in single-seat constituencies by simple majority vote and 63 representing minorities directly elected by party-list proportional representation vote; members serve 3-year terms)<br>
-_elections_: <br>Senate - elections last held on 9 May 2022 (next to be held in May 2025)<br>House of Representatives - elections last held on 9 May 2022 (next to be held in May 2025)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NPC 5, PDP-Laban 5, NP 4, other 5, independent 5; composition - men 17, women 7, percentage women 29.2%<br><br>House of Representatives - percent of vote by party - PDP-Laban 22.7%, NP 13.7%, NUP 12.6%, NPC 11.7%,  Lakas-CMD 9.4%, LP 3.8%, HNP 2.5%, other 19.6%, independent 4%; seats by party - PDP-Laban 66, NP 36, NPC 35, NUP 33, Lakas-CMD 26, LP 10, HNP 6, other 35, independent 6, party-list 63; composition - men 226, women 85, percentage women 27.3%; total Congress percentage women 27.5%<br>
+_elections_: Senate - elections last held on 9 May 2022 (next to be held in May 2025)<br>House of Representatives - elections last held on 9 May 2022 (next to be held in May 2025)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NPC 5, PDP-Laban 5, NP 4, other 5, independent 5; composition as of February 2024 - men 17, women 7, percentage women 29.2%<br><br>House of Representatives - percent of vote by party - PDP-Laban 22.7%, NP 13.7%, NUP 12.6%, NPC 11.7%,  Lakas-CMD 9.4%, LP 3.8%, HNP 2.5%, other 19.6%, independent 4%; seats by party - PDP-Laban 66, NP 36, NPC 35, NUP 33, Lakas-CMD 26, LP 10, HNP 6, other 35, independent 6, party-list 63; composition as of February 2024 - men 226, women 85, percentage women 27.3%; total Congress percentage women 27.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of a chief justice and 14 associate justices)<br>
@@ -371,7 +371,7 @@ _chancery_: 1600 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 467-9300<br>
 _FAX_: [1] (202) 328-7614<br>
 _email address and website_: <br>info@phembassy-us.org; consular@phembassy-us.org<br><br>The Embassy of the Republic of the Philippines in Washington D.C. (philippineembassy-dc.org)<br>
-_consulate(s) general_: Chicago, Honolulu, Los Angeles, New York, Saipan (Northern Mariana Islands), San Francisco, Tamuning (Guam)<br>
+_consulate(s) general_: Chicago, Honolulu, Houston, Los Angeles, New York, San Francisco, Tamuning (Guam)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador MaryKay Loss CARLSON (since 22 July 2022)<br>
@@ -745,9 +745,6 @@ Abu Sayyaf Group; Communist Party of the Philippines/New People's Army (CPP/NPA)
 <strong>note 1: </strong>ISIS-EA factions include Daulah Islamiya-Lanao (aka Maute Group), Daulah Islamiya-Maguindanao, Daulah Islamiya-Socsargen, ISIS-aligned elements of the Abu Sayyaf Group (ASG), ISIS-aligned elements of the Bangsamoro Islamic Freedom Fighters (BIFF), and rogue elements of the Moro Islamic Liberation Front (MILF) <strong><br><br>note 2:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Philippines-Taiwan-China-Malaysia-Vietnam</em>: Philippines claims sovereignty over Scarborough Reef (also claimed by China together with Taiwan) and over certain parts of the Spratly Islands, known locally as the Kalayaan (Freedom) Islands, also claimed by China, Malaysia, Taiwan, and Vietnam; the 2002 "Declaration on the Conduct of Parties in the South China Sea" falls short of a legally binding "code of conduct" desired by several of the claimants; in March 2005, the national oil companies of China, the Philippines, and Vietnam signed a joint accord to conduct marine seismic activities in the Spratly Islands</p> <p><em>Philippines-Malaysia</em>: Philippines retains a dormant claim to Malaysia's Sabah State in northern Borneo based on the Sultanate of Sulu's granting the Philippines Government power of attorney to pursue a sovereignty claim on his behalf; the disagreement resurfaced in September 2020 , when Malaysia’s submission to the UN about extending its continental shelf was sharply countered by the Philippines because it included the disputed territory</p> <p><em>Philippines-Palau</em>: maritime delimitation negotiations continue with Palau, as of March 2022</p><br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 102,000 (government troops fighting the Moro Islamic Liberation Front, the Abu Sayyaf Group, and the New People's Army; clan feuds; armed attacks, political violence, and communal tensions in Mindanao) (2022)<br>

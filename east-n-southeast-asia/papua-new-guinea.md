@@ -337,8 +337,8 @@ _election results_: James MARAPE reelected prime minister; National Parliament v
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (118 seats; members directly elected in single-seat constituencies - 89 local, 20 provincial, the autonomous province of Bouganville, and the National Capital District - by majority preferential vote; members serve 5-year terms); note - the constitution allows up to 126 seats<br>
-_elections_: <br>last held from 4-22 July 2022 (next to be held in June 2027)<br>
-_election results_: <br>percent of vote by party - NA; seats by party - PANGU PATI - 39, PNC - 17, URP - 11, NAP - 6, SDP - 4, PFP - 4, PP – 4, PNGP – 3,  ULP - 3, Advance PNG - 2, National Party - 2, Liberal Party - 2, AP - 1, Destiny Party - 1, Greens - 1, MAP - 1, NGP - 1, ODP - 1, PLP - 1, PMC - 1, PPP - 1, PRP - 1, THE - 1, independent - 10; composition as of February 2024 - men 108, women 3, percentage women 2.7%<br>
+_elections_: last held from 4-22 July 2022 (next to be held in June 2027)<br>
+_election results_: percent of vote by party - NA; seats by party - PANGU PATI - 39, PNC - 17, URP - 11, NAP - 6, SDP - 4, PFP - 4, PP &ndash; 4, PNGP &ndash; 3,&nbsp; ULP - 3, Advance PNG - 2, National Party - 2, Liberal Party - 2, AP - 1, Destiny Party - 1, Greens - 1, MAP - 1, NGP - 1, ODP - 1, PLP - 1, PMC - 1, PPP - 1, PRP - 1, THE - 1, independent - 10; composition as of February 2024 - men 108, women 3, percentage women 2.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice, deputy chief justice, 35 justices, and 5 acting justices); National Courts (consists of 13 courts located in the provincial capitals, with a total of 19 resident judges)<br>
@@ -693,9 +693,6 @@ the PNGDF is lightly armed; most of its military assistance has come from Austra
 the PNGDF is a small and lightly armed force tasked with defense of the country and its territories against external attack, as well as internal security and socio-economic development duties; following some inter-tribal violence in Wapenamanda in early 2024, the PNGDF was given arrest powers; the Land Element includes two infantry battalions, plus small supporting engineer, communications, explosive ordnance disposal, and medical units; the Air Element is a small air wing operating a light transport aircraft and a few leased helicopters, while the Maritime Element consists of a few patrol boats and landing craft<br><br>the PNGDF was established in 1973, and its primary combat unit, the Royal Pacific Islands Regiment (RPIR), is descended from Australian Army infantry battalions comprised of native soldiers and led by Australian officers and non-commissioned officers formed during World War II to help fight the Japanese; the RPIR was disbanded after the war, but reestablished in 1951 as part of the Australian Army where it continued to serve until Papua New Guinea gained its independence in 1975, when it became part of the PNGDF<br><br>Papua New Guinea's traditional security partners are Australia, Indonesia, New Zealand, and the US; Australia and the US are assisting the country with expanding and improving the Defense Force naval base at Lombrum on Manus Island; the US first established a Lombrum base in 1944 during World War II; in recent years, Papua New Guinea has established security ties with France and the UK; the US and PNG signed a defense cooperation agreement in May 2023, which included a shiprider agreement that provides the opportunity for PNG personnel to work on US Coast Guard and US Navy vessels, and vice versa, to tackle maritime crime such as illegal fishing (2024)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Papua New Guinea-Indonesia</em>: Papua New Guinea ratified an agreement governing their mutual border in 2023; migrants and separatists crossing the porous 760-kilometer (472-mile) border have complicated diplomatic relations</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 11,432 (Indonesia) (mid-year 2022)<br>

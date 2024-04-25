@@ -335,7 +335,7 @@ _election results_: <br><em>2021: </em>Carlos Manuel VILA NOVA elected president
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (55 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 25 September 2022 (next to be held 30 September 2026)<br>
-_election results_: percent of vote by party - ADI 46.81%, MLSTP/PSD 32.70%, MCI-PS -PUN 6.56%, BASTA Movement- 8.8%, other 5.14%; seats by party - ADI 30, MLSTP-PSD 18, MCI-PS -PUN 5, BASTA Movement 2; composition - men 47, women 8, percent of women 14.5%<br>
+_election results_: percent of vote by party - ADI 46.8%, MLSTP-PSD 32.7%, MCI-PS-PUN 6.6%, BASTA Movement 8.8%, other 5.1%; seats by party - ADI 30, MLSTP-PSD 18, MCI-PS-PUN 5, BASTA Movement 2; composition as of February 2024 - men 47, women 8, percentage women 14.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supremo Tribunal Justica (consists of 5 judges); Constitutional Court or Tribunal Constitucional (consists of 5 judges, 3 of whom are from the Supreme Court)<br>
@@ -343,7 +343,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the Nati
 _subordinate courts_: Court of First Instance; Audit Court<br>
 
 **Political parties and leaders**<br>
-Union of Democrats for Citizenship and Development and Force for Democratic Change Movement or MDFM–UDD [Carlos Filomeno Agostinho DAS NEVES] <br>Independent Democratic Action or ADI [Patrice TROVADA]<br>Movement for the Liberation of Sao Tome and Principe-Social Democratic Party or MLSTP-PSD [Jorge Lopes Bom JESUS]<br>Party for Democratic Convergence-Reflection Group or PCD-GR [Leonel Mario D'ALVA]<br>Movement of Independent Citizens of São Tomé and Príncipe [António Monteiro]<br>other small parties<br>
+BASTA Movement [Salvador RAMOS]<br>Independent Democratic Action or ADI [Patrice TROVADA]<br>Movement for the Liberation of Sao Tome and Principe-Social Democratic Party or MLSTP-PSD [Jorge Lopes Bom JESUS]<br>Movement of Independent Citizens of São Tomé and Príncipe - Socialist Party or MCI-PS [António Monteiro]<br>National Unity Party or PUN<br>other small parties<br>
 
 **International organization participation**<br>
 ACP, AfDB, AOSIS, AU, CD, CEMAC, CPLP, EITI (candidate country), FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
@@ -662,7 +662,4 @@ the FASTP has a limited inventory of light weapons (2023)<br>
 the FASTP is one of the smallest militaries in Africa and consists of only a few companies of ground troops and some small patrol boats (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 

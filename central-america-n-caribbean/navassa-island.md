@@ -144,6 +144,3 @@ defense is the responsibility of the US<br>
 
 ## Transnational Issues
 
-**Disputes - international**<br>
-<p><em>Navassa Island (US)-Haiti</em>: claimed by Haiti and is in Haiti’s constitution; the waters around Navassa island are a source of subsistence for Haitian fishermen</p><br>
-

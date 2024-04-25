@@ -287,8 +287,8 @@ _election results_: <em>2023:</em> David ADEAGN elected president over Delvin TH
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (19 seats; members directly elected in multi-seat constituencies by majority vote using the "Dowdall" counting system by which voters rank candidates on their ballots; members serve 3-year terms)<br>
-_elections_: <br>last held on 24 September 2022 (next to be held in September 2025)<br>
-_election results_: <br>percent of vote - NA; seats - independent 19; composition as of February 2024 - men 17, women 2, percentage women 10.5%<br>
+_elections_: last held on 24 September 2022 (next to be held in September 2025)<br>
+_election results_: percent of vote - NA; seats - independent 19; composition as of February 2024 - men 17, women 2, percentage women 10.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and several justices); note - in late 2017, the Nauruan Government revoked the 1976 High Court Appeals Act, which had allowed appeals beyond the Nauruan Supreme Court, and in early 2018, the government formed its own appeals court<br>
@@ -585,9 +585,6 @@ no regular military forces; the police force, under the Minister for Police and 
 under an informal agreement, defense is the responsibility of Australia<br><br>Nauru has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Nauru's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 140 (2022)<br>

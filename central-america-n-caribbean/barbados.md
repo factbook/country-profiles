@@ -308,8 +308,8 @@ _election results_: Sandra MASON elected as first president on 20 October 2021<b
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (21 seats statutory - 21 current; members appointed by the president - 12 on the advice of the prime minister, 2 on the advice of the opposition leader, and 7 at the discretion of the president; members serve 5-year terms) <br>House of Assembly (30 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <br>Senate - last appointments on 4 February 2022 (next appointments in February 2027)<br>House of Assembly - last held on 19 January 2022 (next to be held in January 2027)<br>
-_election results_: <br>Senate - appointed - BLP 12, independent 9; composition as of February 2024 - men 13, women 8, percentage women 38.1%<br><br>House of Assembly - percent of vote by party - BLP 69%, DLP 26.5%, other 4.5%; seats by party - BLP 30; composition as of February 2024 - men 22, women 8, percentage women 26.7%; note - total Parliament percentage women 32.7%<br>
+_elections_: Senate - last appointments on 4 February 2022 (next appointments in February 2027)<br>House of Assembly - last held on 19 January 2022 (next to be held in January 2027)<br>
+_election results_: Senate - appointed - BLP 12, independent 9; composition as of February 2024 - men 13, women 8, percentage women 38.1%<br><br>House of Assembly - percent of vote by party - BLP 69%, DLP 26.5%, other 4.5%; seats by party - BLP 30; composition as of February 2024 - men 22, women 8, percentage women 26.7%; note - total Parliament percentage women 32.7%<br>
 <strong>note:</strong> tradition dictates that the next election is held within 5 years of the last election, but constitutionally it is 5 years from the first seating of Parliament plus a 90-day grace period<br>
 
 **Judicial branch**<br>
@@ -653,9 +653,6 @@ voluntary service only (men and women); 17 years, 9 months to 17 years, 11 month
 formed in 1979, the Barbados Defense Force (BDF) is responsible for protecting national security, but it may also be called up to maintain internal public order in times of crisis, emergency, or other specific needs, such as special joint patrols with the police; it also provides humanitarian assistance and disaster response operations both domestically and regionally under the Caribbean Regional Security System (RSS); other duties include assisting with national development, such as through the training of the country's youth with the units of the Barbados Cadet Corps <br><br>Barbados has been a member of the Caribbean RSS since its creation in 1982; RSS signatories (Antigua and Barbuda, Dominica, Grenada, Guyana, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security; the RSS is headquartered in Barbados (2024)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Barbados-Venezuela (Maritime Boundary):</em> Barbados joins other Caribbean states and the United Kingdom to counter Venezuela's claim that Aves Island, a large sandbar with some vegetation, sustains human habitation or economic life, the criteria under the UN Convention on the Law of the Sea (UNCLOS), Article 121, which would permit Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea; the dispute hampers hydrocarbon prospecting and creation of exploration blocks <br><br></p><br>
 
 **Illicit drugs**<br>
 <p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>

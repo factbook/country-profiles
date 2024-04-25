@@ -5,7 +5,7 @@ _Oceans / Oceans_
 ## Introduction
 
 **Background**<br>
-The Indian Ocean is the third largest of the world's five ocean basins (after the Pacific Ocean and Atlantic Ocean, but larger than the Southern Ocean and Arctic Ocean). Four critically important access waterways are the Suez Canal (Egypt), Bab el Mandeb (Djibouti-Yemen), Strait of Hormuz (Iran-Oman), and Strait of Malacca (Indonesia-Malaysia). The decision by the International Hydrographic Organization in the spring of 2000 to delimit a fifth world ocean basin, the Southern Ocean, removed the portion of the Indian Ocean south of 60 degrees south latitude.<br>
+The Indian Ocean is the third largest of the world's five ocean basins (after the Pacific Ocean and Atlantic Ocean, but larger than the Southern Ocean and Arctic Ocean). Four critically important access waterways are the Suez Canal (Egypt), Bab el Mandeb (Djibouti-Yemen), Strait of Hormuz (Iran-Oman), and Strait of Malacca (Indonesia-Malaysia). The International Hydrographic Organization decided in 2000 to delimit a fifth world ocean basin, the Southern Ocean, which removed the portion of the Indian Ocean south of 60 degrees south latitude.<br>
 
 ## Geography
 
@@ -93,7 +93,4 @@ _major seaport(s)_: Chennai (Madras, India); Colombo (Sri Lanka); Durban (South 
 according to the International Maritime Bureau, areas of high risk for piracy and armed robbery against ships in territorial waters of littoral states and offshore waters include the Gulf of Aden, along the east coast of Africa, the Bay of Bengal, and the Strait of Malacca; in addition, the Maritime Administration of the US Department of Transportation advises that regional conflict, military activity, and political tensions pose threats to commercial vessels in the Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Gulf of Aden, Bab al Mandeb Strait, Red Sea, and Somali Basin (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>some maritime disputes (see littoral states)</p><br>
 

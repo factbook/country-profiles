@@ -336,7 +336,7 @@ _election results_: <em>2024:</em> Nayib Armando BUKELE Ortez reelected presiden
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Asamblea Legislativa (84 seats; members directly elected in multi-seat constituencies and a single nationwide constituency by open-list proportional representation vote to serve 3-year terms)<br>
 _elections_: last held on 28 February 2021 (next to be held in 2024)<br>
-_election results_: percent of vote by party - NI 66.5%, ARENA 12.2%, FMLN 6.9%, GANA 5.3%, PCN 4.1%, other 5%; seats by party - NI 56, ARENA 14, GANA 5, FMLN 4, other 5; composition - men 61, women 23, percent of women 27.4%<br>
+_election results_: percent of vote by party - NI 66.5%, ARENA 12.2%, FMLN 6.9%, GANA 5.3%, PCN 4.1%, other 5%; seats by party - NI 56, ARENA 14, GANA 5, FMLN 4, other 5; composition as of February 2021 - men 61, women 23, percent of women 27.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Corte Suprema de Justicia (consists of 15 judges, including its president, and 15 substitute judges organized into Constitutional, Civil, Penal, and Administrative Conflict Chambers)<br>
@@ -707,9 +707,6 @@ small, nascent space effort; ESAI serves as a link and coordination body for the
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>El Salvador-Honduras:</em> International Court of Justice (ICJ) ruled on the delimitation of "bolsones" (disputed areas) along the El Salvador-Honduras border in 1992 with final settlement by the parties in 2006 after an Organization of American States survey and a further ICJ ruling in 2003; the 1992 ICJ ruling advised a tripartite resolution to a maritime boundary in the Gulf of Fonseca with consideration of Honduran access to the Pacific; El Salvador continues to claim tiny Conejo Island, not mentioned in the ICJ ruling, off Honduras in the Gulf of Fonseca</p><br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 52,000 (2022)<br>

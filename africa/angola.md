@@ -344,7 +344,7 @@ _election results_: Joao Manuel Goncalves LOURENCO (MPLA) elected president by t
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (220 seats; members directly elected in a single national constituency and in multi-seat constituencies by closed list proportional representation vote; members serve 5-year terms)<br>
 _elections_: last held on 24 August 2022 (next to be held in 2027)<br>
-_election results_: <br>percent of vote by party - MPLA 51.1%, UNITA 43.9%, FNLA 1.1%, PHA 1%, PRS 1.1%, other 1.7%; seats by party - MPLA 124, UNITA 90, FNLA 2, PHA 2, PRS 2; composition as of January 2024 - men 135, women 85, percentage women 38.6%<br>
+_election results_: percent of vote by party - MPLA 51.1%, UNITA 43.9%, FNLA 1.1%, PHA 1%, PRS 1.1%, other 1.7%; seats by party - MPLA 124, UNITA 90, FNLA 2, PHA 2, PRS 2; composition as of March 2024 - men 135, women 85, percentage women 38.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Tribunal Supremo (consists of the court president, vice president, and a minimum of 16 judges); Constitutional Court or Tribunal Constitucional (consists of 11 judges)<br>
@@ -724,9 +724,6 @@ has a national space strategy with a focus on capacity building, developing spac
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Angola-Democratic Republic of Congo (DRC): </em>has had disputes over land and maritime borders with the DRC; maritime disputes have largely been about offshore oil claims<br><br><em>Angola-Namibia: </em>none identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) none identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023); 22,841 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>

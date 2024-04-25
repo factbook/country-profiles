@@ -329,8 +329,8 @@ _election results_: <em>2023: </em>THARMAN Shanmugaratnam elected president; per
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (104 seats statutory, 103 current term; 93 members directly elected by simple majority popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members increased to 12 for the 2020 election for the first time<br>
-_elections_: <br>last held on 10 July 2020 (next must be held by 24 November 2025)<br>
-_election results_: <br>percent of vote by party - PAP 89.2%, WP 10.6%, other 0.2%; seats by party - PAP 83, WP 10; composition of total Parliament - men 70, women 29, percentage women 29.3%<br>
+_elections_: last held on 10 July 2020 (next must be held by 24 November 2025)<br>
+_election results_: <br>percent of vote by party - PAP 89.2%, WP 10.6%, other 0.2%; seats by party - PAP 83, WP 10; composition as of February 2024 - men 70, women 29, percentage women 29.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (although the number of judges varies - as of April 2019,&nbsp;the court&nbsp;totaled 20 judges, 7 judicial commissioners, 4 judges of appeal, and 16 international judges); the court is organized into an upper tier Appeal Court and a lower tier High Court<br>
@@ -708,7 +708,6 @@ space program and capabilities are largely commercial with a focus on acquiring 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Singapore-Indonesia</em>: Indonesia and Singapore continue to work on finalization of their 1973 maritime boundary agreement by defining unresolved areas north of Indonesia's Batam Island; subsequent treaties were signed in 2009 (ratified in 2010) and 2014 (ratified in 2017) settling the two countries’ boundaries in the Singapore Strait</p> <p><em>Singapore-Malaysia</em>: disputes with Malaysia over territorial waters, airspace, the price of fresh water delivered to Singapore from Malaysia, Singapore's extensive land reclamation works, bridge construction, and maritime boundaries in the Johor and Singapore Straits; in 2008, the International Court of Justice awarded sovereignty of Pedra Branca (Pulau Batu Puteh/Horsburgh Island) to Singapore, and Middle Rocks to Malaysia, but did not rule on maritime regimes, boundaries, or disposition of South Ledge, which is only visible at low tide</p><br><br> <br>
 &nbsp;<br>
 
 **Refugees and internally displaced persons**<br>

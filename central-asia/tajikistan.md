@@ -341,8 +341,8 @@ _election results_: <br><em>2020</em>: Emomali RAHMON reelected president; perce
 
 **Legislative branch**<br>
 _description_: bicameral Supreme Assembly or Majlisi Oli consists of:<br>National Assembly or Majlisi Milli (34 seats; 25 members indirectly elected by local representative assemblies or majlisi, 8 appointed by the president, and 1 reserved for each living former president; members serve 5-year terms)<br>Assembly of Representatives or Majlisi Namoyandagon (63 seats; 41 members directly elected in single-seat constituencies by 2-round absolute majority vote and 22 directly elected in a single nationwide constituency by closed-list proportional representation vote; members serve 5-year terms)<br>
-_elections_: <br>National Assembly - last held on 1 March 2020 (next to be held in 2025)<br>Assembly of Representatives - last held on 1 March 2020 (next to be held in 2025)<br>
-_election results_: <br>National Assembly - percent of vote by party - NA; seats by party - NA; composition as of mid-2202 (31 members) - men 23, women 8, percent of women 25.8%<br><br>Assembly of Representatives - percent of vote by party - PDPT 50.4%, PERT 16.6%, APT 16.5%, SPT 5.2%, DPT 5.1%, CPT 3.1%, other 3.1%; seats by party - PDPT 47, APT 7, PERT 5, CPT 2, SPT 1, DPT 1; composition as of mid-2022 - men 46, women 17, percent of women 27%; note - total Supreme Assembly percent of women 26.6%<br>
+_elections_: National Assembly - last held on 1 March 2020 (next to be held in 2025)<br>Assembly of Representatives - last held on 1 March 2020 (next to be held in 2025)<br>
+_election results_: National Assembly - percent of vote by party - NA; seats by party - NA; composition as of mid-2202 - men 23, women 8, percentage women 25.8%<br><br>Assembly of Representatives - percent of vote by party - PDPT 50.4%, PERT 16.6%, APT 16.5%, SPT 5.2%, DPT 5.1%, CPT 3.1%, other 3.1%; seats by party - PDPT 47, APT 7, PERT 5, CPT 2, SPT 1, DPT 1; composition as of February 2024 - men 46, women 17, percentage women 27%; total Supreme Assembly percentage women 26.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chairman, deputy chairmen, and 34 judges organized into civil, family, criminal, administrative offense, and military chambers); Constitutional Court (consists of the court chairman, deputy chairman, and 5 judges); High Economic Court (consists of 16 judicial positions)<br>
@@ -698,9 +698,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note 1: </strong>US-designated foreign terrorist groups such as the Islamic Jihad Union, the Islamic Movement of Uzbekistan, and the Islamic State of Iraq and ash-Sham-Khorasan Province have operated in the area where the Uzbek, Kyrgyz, and Tajik borders converge and ill-defined and porous borders allow for the relatively free movement of people and illicit goods <strong><br><br>note 2:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Tajikistan-Afghanistan</em>: none identified</p> <p><em>Tajikistan-China</em>: in 2006, China and Tajikistan pledged to commence demarcation of the revised boundary agreed to in the delimitation of 2002; in 2011, Tajikistan and China ratified the 2002 border demarcation agreement whereby Tajikistan ceded approximately 1,100 square kilometers in the Pamirs to China</p> <p><em>Tajikistan-Kyrgyzstan</em>: disputes in Isfara Valley delay delimitation with Kyrgyzstan; in May 2021, both countries agreed to a ceasefire following recent clashes at their border</p> <p><em>Tajikistan-Uzbekistan</em>: talks continue with Uzbekistan to delimit border and clear minefields; as of January 2020, Uzbekistan reported that it had cleared all mines along its side of the border</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 6,775 (Afghanistan) (mid-year 2021)<br>

@@ -353,7 +353,7 @@ _election results_: <em>2023:</em> Vo Van THUONG elected president<br><br><em>20
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Quoc Hoi (500 seats - number following 2021 election - 499; members directly elected in multi-seat constituencies by absolute majority vote; members serve 5-year terms)<br>
 _elections_: last held on 23 May 2021 (next to be held in spring 2026)<br>
-_election results_: <br>percent of vote by party - CPV 97.2%, 2.8% non-party; seats by party - CPV 486, non-party 14; composition as of February 2024 - 342 men, 151 women; percent women 30.6%<br>
+_election results_: percent of vote by party - CPV 97.2%, 2.8% non-party; seats by party - CPV 486, non-party 14; composition as of February 2024 - 342 men, 151 women, percentage women 30.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme People's Court (consists of the chief justice and 13 judges)<br>
@@ -721,7 +721,7 @@ the PAVN is armed largely with weapons and equipment from Russia and the former 
 18-27 years of age for compulsory and voluntary military service for men and women (in practice only men are drafted); service obligation is between 24 (Army, Air Defense) and 36 (Navy and Air Force) months (2023)<br>
 
 **Military deployments**<br>
-190 Abyei/South Sudan/Sudan (UNISFA) (2023)<br>
+190 Abyei/South Sudan/Sudan (UNISFA) (2024)<br>
 
 **Military - note**<br>
 the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary<br><br>the PAVN is one of the region’s largest militaries and has participated in numerous conflicts since its founding in the mid-1940s, including the First (1946-54) and Second (1950s-1975) Indochina Wars, the Cambodian-Vietnamese War (1978-1989), and the Sino-Vietnamese War (1979); the PAVN’s current missions include protecting the country's independence, sovereignty, territorial integrity, and national interests; in recent years, it has increased focus on protecting the country’s maritime economy and sovereignty; it also assists with natural disasters and is involved in economic projects, including electrical infrastructure, oil and gas services, hydroelectric projects, aviation and seaport services, telecommunications, and the shipbuilding industry, while military-owned factories and enterprises produce weapons and equipment; the Ground Forces are spread throughout the country in approximately eight regional commands, four operational corps, and dozens of divisions and brigades, including some that are maintained at cadre strength and filled in wartime by an estimated five million reserves; the Navy is organized into five regional commands; in recent years, it has received increased government focus for procurement efforts because of the rise in territorial disputes in the South China Sea and has a growing combat force of about 20 frigates, corvettes, and fast-attack surface vessels, plus six attack submarines; the Air Force is organized into divisions, regiments, and squadrons; it has a mix of approximately 75 Soviet-era and Russian-made combat aircraft (2023)<br>
@@ -736,9 +736,6 @@ has a growing space program focused on acquiring, operating, and exploiting sate
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Vietnam-Cambodia</em>: Cambodia accuses Vietnam of a wide variety of illicit cross-border activities; issues include casinos built in Cambodia near the border, narcotics trafficking, trafficking of women and children, petrol smuggling, illegal timber trade, and illegal migration; progress on a joint development area with Cambodia is hampered by an unresolved dispute over sovereignty of offshore islands; in December 2021, leaders from the two countries agreed to fully complete the remaining border demarcation and the upgrading of border checkpoints</p> <p><em>Vietnam-Cambodia-Laos</em>: Cambodia and Laos protest Vietnamese squatters and armed encroachments along border; Cambodia accuses Vietnam of a wide variety of illicit cross-border activities</p> <p><em>Vietnam-China</em>: an estimated 300,000 Vietnamese refugees reside in China; the decade-long demarcation of the China-Vietnam land boundary was completed in 2009; small territorial exchanges were made during the demarcation; cross border trafficking in women and children and illegal wildlife trade are problems along this border; China occupies features in the Spratly and Paracel Islands claimed by Vietnam</p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 35,475 (2022); note - Vietnam's stateless ethnic Chinese Cambodian population dates to the 1970s when thousands of Cambodians fled to Vietnam to escape the Khmer Rouge and were no longer recognized as Cambodian citizens; Vietnamese women who gave up their citizenship to marry foreign men have found themselves stateless after divorcing and returning home to Vietnam; the government addressed this problem in 2009, and Vietnamese women are beginning to reclaim their citizenship<br>

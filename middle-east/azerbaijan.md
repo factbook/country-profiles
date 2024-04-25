@@ -340,7 +340,7 @@ _election results_: <em><br>2024: </em>Ilham ALIYEV reelected president; percent
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Milli Mejlis (125 seats, current 116; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: last held early on 9 February 2020 (next to be held in 2025)<br>
-_election results_: <br>percent of vote by party - NA; seats by party - YAP 69, CSP 3, AVP 1, CUP 1, ADMP 1, PDR 1, Great Order 1, National Front Party 1, REAL 1, VP 1, Whole Azerbaijan Popular Front 1, party unknown 1, independent 41; composition as of February 2024 - men 95, women 21, percentage women 18.1%<br>
+_election results_: percent of vote by party - NA; seats by party - YAP 69, CSP 3, AVP 1, CUP 1, ADMP 1, PDR 1, Great Order 1, National Front Party 1, REAL 1, VP 1, Whole Azerbaijan Popular Front 1, party unknown 1, independent 41; composition as of February 2024 - men 95, women 21, percentage women 18.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chairman, vice chairman, and 23 judges in plenum sessions and organized into civil, economic affairs, criminal, and rights violations chambers); Constitutional Court (consists of 9 judges)<br>
@@ -716,9 +716,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps (IR
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Armenia-Azerbaijan:</em> tensions existed for years over Nagorno-Karabakh region and the Armenian military occupation of surrounding lands in Azerbaijan; Azerbaijan seized part of the enclave during six weeks of fighting in 2020 and the remainder in a short conflict in September 2023; Baku and Yerevan have since had discussions on a peace treaty, the demarcation of borders, and full normalization of relations, although bi-lateral tensions remain<br><br><em>Azerbaijan-Georgia:</em> a joint boundary commission agrees on most of the alignment, leaving only small areas at certain crossing points in dispute; consequently, the two states have yet to agree on a delimitation or demarcation of their common boundary; one area of contention is where the international boundary should run through the 6th-13th Century David-Gareja monastery complex<br><br><em>Azerbaijan-Iran:</em> in recent years, tensions between Azerbajian and Iran have sometimes been high in part because of ties between Azerbaijan and Israel, and Baku's claims that Tehran has backed Armenia over Nagorno-Karabakh<br><br><em>Azerbaijan-Turkey:</em> none identified<br><br><em>Caspian Sea (Maritime Boundary):</em> Azerbaijan, Kazakhstan, and Russia ratified the Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on a one-fifth slice of the sea; bilateral talks continue with Turkmenistan on dividing the seabed and contested oilfields in the middle of the Caspian<br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 659,000 (conflict with Armenia over Nagorno-Karabakh; IDPs are mainly ethnic Azerbaijanis but also include ethnic Kurds, Russians, and Turks predominantly from occupied territories around Nagorno-Karabakh; includes IDPs' descendants, returned IDPs, and people living in insecure areas and excludes people displaced by natural disasters; around half the IDPs live in the capital Baku) (2022)<br>

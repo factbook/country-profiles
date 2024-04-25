@@ -333,9 +333,9 @@ _elections/appointments_: formerly, the president directly elected by plurality 
 _election results_: <em><br>2016: </em>Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%<br><br><em>2009: </em>Ali BONGO Ondimba elected president; percent of vote - Ali BONGO Ondimba (PDG) 41.7%, Andre MBA OBAME (independent) 25.9%, Pierre MAMBOUNDOU (UPG) 25.2%, Zacharie MYBOTO (UGDD) 3.9%, other 3.3% <p> </p><br>
 
 **Legislative branch**<br>
-_description_: <p>Transitional Parliament (formerly the bicameral Parliament) consists of:<br>Senate (70 seats; members appointed by Transitional president; member term NA)<br>National Assembly (98 seats; members appointed by the Transitional president; member term NA) <br>note - all members represent legally recognized political parties or leading political figures, civil society, and defense and security forces<br><br><br></p><br>
-_elections_: <p>on 11 September 2023, Transitional President Gen. Brice OLIGUI Nguema appointed 168 members to the Transitional Parliament; elections for a permanent legislature reportedly to follow 2-year transition; note - the military government announced on 13 November 2023 that presidential and legislative elections will be held in August 2025</p><br>
-_election results_: <p>all members of the Transitional Parliament appointed by the Transitional president</p><br>
+_description_: Transitional Parliament (formerly the bicameral Parliament) consists of:<br>Senate (70 seats; members appointed by Transitional president; member term NA)<br>National Assembly (98 seats; members appointed by the Transitional president; member term NA) <br>note - all members represent legally recognized political parties or leading political figures, civil society, and defense and security forces<br>
+_elections_: on 11 September 2023, Transitional President Gen. Brice OLIGUI Nguema appointed 168 members to the Transitional Parliament; elections for a permanent legislature reportedly to follow 2-year transition; note - the military government announced on 13 November 2023 that presidential and legislative elections will be held in August 2025<br>
+_election results_: all members of the Transitional Parliament appointed by the Transitional president<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 4 permanent specialized supreme courts - Supreme Court or Cour de Cassation, Administrative Supreme Court or Conseil d'Etat, Accounting Supreme Court or Cour des Comptes, Constitutional Court or Cour Constitutionnelle, and the non-permanent Court of State Security, initiated only for cases of high treason by the president and criminal activity by executive branch officials)<br>
@@ -702,9 +702,6 @@ has a small space program focused on the acquisition, processing, analysis, and 
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>dispute with Equatorial Guinea over Mbane Island and lesser islands in the Corisco Bay submitted to ICJ in 2016</p><br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Gabon does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials increased funding and capacity at an NGO-run shelter for victims, and also increased prosecutions and convictions of alleged traffickers; however, the government did not demonstrate overall increasing efforts, compared to the previous year, to expand its anti-trafficking capacity; authorities did not report any referrals of victims to services and did not report efforts to identify, protect, or provide justice for adult victims&mdash;potential efforts that have been inadequate for several years; for the fourth consecutive year, the government did not adopt its anti-trafficking National Action Plan and lacked inter-ministerial coordination; officials did not report investigating allegations of judicial corruption related to trafficking crimes; therefore, Gabon remained on Tier 2 Watch List for the second consecutive year (2023)<br>

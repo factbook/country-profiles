@@ -95,11 +95,11 @@ _adjective_: Venezuelan<br>
 unspecified Spanish, Italian, Portuguese, Arab, German, African, Indigenous<br>
 
 **Languages**<br>
-Spanish (official), numerous indigenous dialects<br>
+Spanish (official) 98.2%, indigenous 1.3%, Portuguese 0.1%, other 0.4% (2023 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 96%, Protestant 2%, other 2%<br>
+Roman Catholic 48.1%, Protestant 31.6% (Evangelical 31.4%, Adventist 0.2%), Jehovah's Witness 1.4%, African American/umbanda 0.7%, other 0.1%, believer 3.5%, agnostic 0.1%, atheist, 0.4%, none 13.6%, unspecified 0.6% (2023 est.)<br>
 
 **Demographic profile**<br>
 <p>Venezuela’s ongoing socio-economic, political, and human rights crises have resulted in widespread poverty and food insecurity and have devastated the country’s healthcare system.  According to a 2018 national hospital survey, many hospitals were unable to provide basic services, and 20% of operating rooms and intensive care units were non-functional.  Hospitals reported shortages in water (79%), medicines (88%), and surgical supplies (79%).  The poor conditions in healthcare facilities have motivated many doctors and other health professionals to emigrate, resulting in shortages of specialists, particularly in emergency care.  The scarcity of medicines, vaccines, medical supplies, and mosquito controls is leading to a rise in infectious diseases.  Tuberculosis cases jumped by 68% between 2014 and 2017, and malaria rates had the largest rise in the world from 2016 to 2017 at 69%.  Diptheria, which had been eradicated in the country in 1999, re-emerged in 2016, and new cases have surfaced in 2023.  Infectious disease outbreaks, such as measles and malaria, have crossed into neighboring countries.  Infant mortality, which had been decreasing since the 1950s, has been on the rise since 2009.  Between 2015 and 2016, infant deaths increased 30%, while maternal mortality increased 65%.  </p> <p>Since 2015, more than 7.32 million Venezuelan migrants, refugees, and asylum seekers have been reported by host governments, with approximately 84% relocatingin Latin America and the Caribbean, as of May 2023.  Colombia has been the largest recipient, accommodating almost 2.5 million as of February 2022, followed by Peru and Ecuador.  As of June 2022, almost 212,000 of the refugees and close to 1.04 million of the fasylum seekers were recognized by national authorities.  An additional 4.3 million Venezuelans have been granted residence permits or other types of regular stay arrangements, as of March 2023.  The initial wave of migrants were highly educated professionals.  These were followed by university-educated young people.  As the economy collapsed in 2017-2018, Venezuelan migrants have been less-educated and from low-income households.</p><br>
@@ -357,7 +357,7 @@ _FAX_: [1] (202) 342-6820; note - closed since 5 January 2023<br>
 _email address and website_: <br>despacho.embveus@mppre.gob.ve<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); as of 19 May 2023, Francisco L. PALMIERI serves as the chief of mission of the Venezuela Affairs Unit<br>
+_chief of mission_: Ambassador (vacant); as of 19 May 2023, Francisco L. PALMIERI serves as the chief of mission of the Venezuela Affairs Unit, located in the US Embassy, Bogota<br>
 _embassy_: Venezuela Affairs Unit, US Embassy, Carrera 45 N. 24B-27, Bogota, Colombia<br><br>previously - F St. and Suapure St.; Urb. Colinas de Valle Arriba; Caracas 1080<br>
 _mailing address_: 3140 Caracas Place, Washington DC&nbsp; 20521-3140<br>
 _telephone_: 1-888-407-4747<br>  <br>
@@ -709,9 +709,6 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia-People's 
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Venezuela-Brazil</em>: none identified</p> <p><em>Venezuela-Colombia</em>: dispute with Colombia over maritime boundary and Venezuelan administered Los Monjes Islands near the Gulf of Venezuela; Colombian-organized illegal narcotics and paramilitary activities penetrate Venezuela's shared border region; the border between the two countries was closed from March 2020 to October 2021 due to COVID, but goods and people fleeing poverty and violence continued to be smuggled from Venezuela into Colombia, and illegal narcotics and armed men flowed into Venezuela from Colombia; since the FARC disarmed in 2016, some former members have formed armed dissident groups that operate along the border</p> <p><em>Venezuela-Guyana</em>: Caracas claims all of the area west of the Essequibo River in Guyana, preventing any discussion of a maritime boundary; in 2018, Guyana initiated proceedings against Venezuela with the International Court of Justice (ICJ) while Venezuela requested a direct dialogue to settle the dispute; the ICJ ruled that it had jurisdiction to hear the case in December 2020; in December 2023, the Venezuelan Government held a referendum on the disputed oil-rich Essequibo region and announced measures to exert administrative control over the area; in 2024, Venezuela increased its military presence near the border, and the parliament approved the creation of a new state in the disputed territory</p> <p><em>Venezuela-various:</em>  Venezuela claims Aves Island and thereby an economic exclusion Zone/continental shelf extending over a large portion of the eastern Caribbean Sea; Venezuela’s claim to Aves Island is disputed by Dominica and several other countries because the island has rich guano deposits useful in producing fertilizer and gunpowder, as well as large fish stocks and natural gas reserves; contraband smuggling (narcotics and arms), illegal migration, trafficking in animals, plants, lumber, illegal exploitation of mineral resources</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 39,185 (Colombia) (mid-year 2022)<br>

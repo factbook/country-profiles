@@ -66,7 +66,7 @@ the north coast of South Georgia has several large bays, which provide good anch
 
 **Population**<br>
 (July 2021 est.) no indigenous inhabitants<br>
-<strong>note:</strong> the small military garrison on South Georgia withdrew in March 2001, replaced by a permanent group of scientists of the British Antarctic Survey, which also has a biological station on Bird Island; the South Sandwich Islands are uninhabited<br>
+<strong>note:</strong> the small military garrison on South Georgia withdrew in March 2001 and was replaced by a permanent group of scientists from the British Antarctic Survey, which also has a biological station on Bird Island; the South Sandwich Islands are uninhabited<br>
 
 **Age structure**<br>
 _0-14 years_: NA<br>
@@ -146,10 +146,10 @@ the laws of the UK, where applicable, apply<br>
 UPU<br>
 
 **Diplomatic representation in the US**<br>
-none (overseas territory of the UK, also claimed by Argentina)<br>
+none (administered by the UK, claimed by Argentina)<br>
 
 **Diplomatic representation from the US**<br>
-none (overseas territory of the UK, also claimed by Argentina)<br>
+none (administered by the UK, claimed by Argentina)<br>
 
 **Flag description**<br>
 blue with the flag of the UK in the upper hoist-side quadrant and the South Georgia and South Sandwich Islands coat of arms centered on the outer half of the flag; the coat of arms features a shield with a golden lion rampant, holding a torch; the shield is supported by a fur seal on the left and a Macaroni penguin on the right; a reindeer appears above the crest, and below the shield on a scroll is the motto LEO TERRAM PROPRIAM PROTEGAT (Let the Lion Protect its Own Land); the lion with the torch represents the UK and discovery; the background of the shield, blue and white estoiles, are found in the coat of arms of James Cook, discoverer of the islands; all the outer supporting animals represented are native to the islands<br>
@@ -172,7 +172,4 @@ _major seaport(s)_: Grytviken<br>
 defense is the responsibility of the UK<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>South Georgia and South Sandwich Islands (UK)-Argentina</em>: Argentina, which claims the islands in its constitution and briefly occupied them by force in 1982</p><br>
 

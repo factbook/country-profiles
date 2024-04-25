@@ -262,8 +262,8 @@ _election results_: <br><em>2020: </em>Bernard BRIAND elected President of Terri
 
 **Legislative branch**<br>
 _description_: unicameral Territorial Council or Conseil Territorial (19 seats - Saint Pierre 15, Miquelon 4; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 6-year terms);<br>Saint Pierre and Miquelon indirectly elects 1 senator to the French Senate by an electoral college to serve a 6-year term and directly elects 1 deputy to the French National Assembly by absolute majority vote to serve a 5-year term<br>
-_elections_: Territorial Council - first round held on 20 March and second round held on 27 March 2022 (next to be held in March 2028)<br>French Senate - last held on 27 September 2020 (next to be held no later than September 2025)<br>French National Assembly - last held on 12 and 19 June 2022 (next to be held by June 2027)<br>
-_election results_: <br>Territorial Council - percent of vote by party in first round - AD 45.9%, Focus on the Future 37%, Together to Build 17.1%; percent of vote by party in second round - AD 51.8%, Focus on the Future 38.1%, Together to Build 10.1%, seats by party - AD 15, Focus on the Future 4; composition - men NA, women NA, percent of women NA<br>French Senate - percent of vote by party - NA; seats by party - PS 1 (affiliated with UMP)<br>French National Assembly - percent of vote by party - NA; seats by party - AD 1<br>
+_elections_: Territorial Council - first round held on 20 March and second round held on 27 March 2022 (next to be held in March 2028)<br><br>French Senate - last held on 27 September 2020 (next to be held no later than September 2025)<br><br>French National Assembly - last held on 12 and 19 June 2022 (next to be held by June 2027)<br>
+_election results_: Territorial Council - percent of vote by party in first round - AD 45.9%, Focus on the Future 37%, Together to Build 17.1%; percent of vote by party in second round - AD 51.8%, Focus on the Future 38.1%, Together to Build 10.1%, seats by party - AD 15, Focus on the Future 4; composition - men NA, women NA, percent of women NA%<br><br>French Senate - percent of vote by party - NA; seats by party - PS 1 (affiliated with UMP)<br><br>French National Assembly - percent of vote by party - NA; seats by party - AD 1<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Superior Tribunal of Appeals or Tribunal Superieur d'Appel (composition NA)<br>
@@ -465,7 +465,4 @@ _major seaport(s)_: Saint-Pierre<br>
 defense is the responsibility of France<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 

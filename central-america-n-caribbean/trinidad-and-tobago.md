@@ -306,7 +306,7 @@ _election results_: <br><em>2023: </em>Christine KANGALOO elected president by t
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (31 seats; 16 members appointed by the ruling party, 9 by the president, and 6 by the opposition party; members serve 5-year terms;)<br>House of Representatives (42 seats; 41 members directly elected in single-seat constituencies by simple majority vote and the house speaker - usually designated from outside Parliament; members serve 5-year terms)<br>
 _elections_: Senate - last appointments on 28 August 2020 (next appointments in August 2025)<br>House of Representatives - last held on 10 August 2020 (next to be held in 2025)<br>
-_election results_: <br>Senate - percent by party - NA; seats by party - PNM 16, UNC 6, Independent 9; composition as of February 2024 - men 19, women 13, percent of women 40.6%<br><br>House of Representatives - percent by party - NA; seats by party - PNM 23, UNC 19; composition as of February 2024 - men 30, women 12, percent of women 28.6%; note - overall Parliament percent of women 33.8%<br>
+_election results_: Senate - percent by party - NA; seats by party - PNM 16, UNC 6, independent 9; composition as of February 2024 - men 19, women 13, percentage women 40.6%<br><br>House of Representatives - percent by party - NA; seats by party - PNM 23, UNC 19; composition as of February 2024 - men 30, women 12, percentage women 28.6%; total Parliament percentage women 33.8%<br>
 <strong>note:</strong> Tobago has a unicameral House of Assembly (19 seats; 15 assemblymen directly elected by simple majority vote and 4 appointed councilors - 3 on the advice of the chief secretary and 1 on the advice of the minority leader; members serve 4-year terms)<br>
 
 **Judicial branch**<br>
@@ -642,9 +642,6 @@ the TTDF's ground force inventory includes only light weapons, while the Coast G
 the Police Service maintains internal security; the TTDF's primary responsibilities are conducting border and maritime security, assisting civil authorities in times of crisis or disaster, providing search and rescue services, and supporting law enforcement, particularly in countering gang-related crime and trafficking of narcotics and other illicit goods; the Coast Guard is responsible for maritime border security in places with no official ports of entry (2023)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-none identified<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 35,314 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>

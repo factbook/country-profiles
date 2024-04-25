@@ -275,7 +275,7 @@ _elections/appointments_: the monarch is hereditary; governor appointed by the m
 **Legislative branch**<br>
 _description_: unicameral House of Assembly (21 seats; 15 members in multi-seat constituencies and a single all-islands constituency directly elected by simple majority vote, 1 member nominated by the premier and appointed by the governor, 1 nominated by the opposition party leader and appointed by the governor, and 2 from the Turks and Caicos Islands Civic Society directly appointed by the governor, and 2 ex-officio members; members serve 4-year terms)<br>
 _elections_: last held on 19 February 2021 (next to be held in 2025)<br>
-_election results_: <br>percent of vote - NA; seats by party - PNP 14, PDM 1; composition as of mid-2022 (elected members) - men 12, women 3; percent of women 20%<br>
+_election results_: percent of vote - NA; seats by party - PNP 14, PDM 1; composition (elected members) as of April 2024 - men 11, women 3, percentage women 27.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and other judges, as determined by the governor); Court of Appeal (consists of the court president and 2 justices); note - appeals beyond the Supreme Court are referred to the Judicial Committee of the Privy Council (in London)<br>
@@ -531,9 +531,6 @@ _major seaport(s)_: Cockburn Harbour, Grand Turk, Providenciales<br>
 defense is the responsibility of the UK<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 
 **Illicit drugs**<br>
 transshipment point for South American narcotics destined for the US and Europe<br>

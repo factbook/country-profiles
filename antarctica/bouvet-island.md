@@ -156,6 +156,3 @@ defense is the responsibility of Norway<br>
 
 ## Transnational Issues
 
-**Disputes - international**<br>
-<p>none identified</p><br>
-

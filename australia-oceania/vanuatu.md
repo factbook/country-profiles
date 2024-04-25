@@ -86,7 +86,7 @@ _adjective_: Ni-Vanuatu<br>
 Ni-Vanuatu 99%, other 1% (European, Asian, other Melanesian, Polynesian, Micronesian, other) (2020 est.)<br>
 
 **Languages**<br>
-Indigenous languages (more than 100) 82.6%, Bislama (official; creole) 14.5%, English (official) 2.1%, French (official) 0.8% (2020 est.)<br>
+indigenous languages (more than 100) 82.6%, Bislama (official; creole) 14.5%, English (official) 2.1%, French (official) 0.8% (2020 est.)<br>
 <strong>note:</strong> data represent first language spoken for population aged 3 years and above<br>
 
 **Religions**<br>
@@ -311,7 +311,7 @@ _election results_: <em>2022:</em> Nikenike VUROBARAVU elected president in eigh
 **Legislative branch**<br>
 _description_: unicameral Parliament (52 seats; members directly elected in 8 single-seat and 9 multi-seat constituencies by single non-transferable vote to serve 4-year terms (candidates in multi-seat constituencies can be elected with only 4% of the vote)<br>
 _elections_: last held on 13 October 2022 (next to be held in 2026)<br>
-_election results_: <br>percent of vote by party - NA; seats by party - GJP 4, NUP 4, RDP 4, IG 3, PPP 2, NCM 2, VNDP 2, LM 1, NAG 1, PUDP 1, UCM 1, VLM 1, VPDP 1, independent 1; composition as of February 2024 - men 50, women 1; percent of women 2%; note - political party associations are fluid<br>
+_election results_: percent of vote by party - NA; seats by party - GJP 4, NUP 4, RDP 4, IG 3, PPP 2, NCM 2, VNDP 2, LM 1, NAG 1, PUDP 1, UCM 1, VLM 1, VPDP 1, independent 1; composition as of February 2024 - men 50, women 1, percentage women 2%; note - political party associations are fluid<br>
 <strong>note:</strong> the National Council of Chiefs advises on matters of culture and language<br>
 
 **Judicial branch**<br>
@@ -634,9 +634,6 @@ no regular military forces; Ministry of Internal Affairs: Vanuatu Police Force (
 the separate British and French police forces were unified in 1980 as the New Hebrides Constabulary, which was commanded by Ni-Vanuatu officers while retaining some British and French officers as advisors; the Constabulary was subsequently renamed the Vanuatu Police Force later in 1980<br><br>the Vanuatu Mobile Force has received training and other support from Australia, China, France, New Zealand, and the US<br><br>Vanuatu has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Vanuatu's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Vanuatu-France</em>: both claim Matthew and Hunter Islands, two uninhabited islands east of New Caledonia</p><br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Vanuatu does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; these efforts included sentencing four traffickers to prison, following their conviction in the previous reporting period; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; for the fourth consecutive year, authorities did not identify any trafficking victims and did not provide protection services to victims; for the third consecutive year, officials did not investigate any trafficking crimes; the government also did not conduct public awareness campaigns or administer anti-trafficking training for law enforcement officials; therefore, Vanuatu was downgraded to Tier 2 Watch List (2023)<br>

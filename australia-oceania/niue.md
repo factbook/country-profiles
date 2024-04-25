@@ -72,8 +72,8 @@ one of world's largest coral islands; the only major break in the surrounding co
 ## People and Society
 
 **Population**<br>
-2,000 (July 2022 est.)<br>
-<strong>note:</strong> because of the island's limited economic and educational opportunities, Niueans have emigrated for decades - primarily to New Zealand, but also to Australia and other Pacific island states; Niue's population peaked in 1966 at 5,194, but by 2005 had fallen to 1,508; since then it has rebounded slightly; as of 2013, 23,883 people of Niuean ancestry lived in New Zealand - with more than 20% Niue-born; this means that there are about 15 times as many persons of Niuean ancestry living in New Zealand as in Niue, possibly the most eccentric population distribution in the world<br>
+2,000 (2022 est.)<br>
+<strong>note:</strong> because of the island's limited economic and educational opportunities, Niueans have emigrated for decades - primarily to New Zealand but also to Australia and other Pacific island states; Niue's population peaked in 1966 at 5,194, but by 2005 had fallen to 1,508; since then, it has rebounded slightly; as of 2013, 23,883 people of Niuean ancestry lived in New Zealand - with more than 20% Niue-born - or about 15 times as many persons of Niuean ancestry living in New Zealand as in Niue<br>
 
 **Nationality**<br>
 _noun_: Niuean(s)<br>
@@ -259,8 +259,8 @@ _election results_: Dalton TAGELAGI reelected premier; Legislative Assembly vote
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Fono Ekepule (20 seats; 14 members directly elected in single-seat constituencies by simple majority vote and 6 directly elected from the National Register or "common roll" by majority vote; members serve 3-year terms)<br>
-_elections_: <br>last held on 29 April 2023 (next to be held in 2026)<br>
-_election results_: <br>percent of vote - NA; seats - independent 20; composition as of July 2022 - men 17, women 3, percentage women 15%<br>
+_elections_: last held on 29 April 2023 (next to be held in 2026)<br>
+_election results_: percent of vote - NA; seats - independent 20; composition as of July 2022 - men 17, women 3, percentage women 15%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and up to 3 judges); note - the Judicial Committee of the Privy Council (in London) is the final appeal court beyond the Niue Court of Appeal<br>
@@ -470,7 +470,4 @@ no regular indigenous military forces; Police Force<br>
 defense is the responsibility of New Zealand<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p>none identified</p><br>
 

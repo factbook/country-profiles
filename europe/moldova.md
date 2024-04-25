@@ -334,8 +334,8 @@ _election results_: <em><br>2020:</em> Maia SANDU elected president in second ro
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (101 seats; 51 members directly elected in single-seat constituencies by simple majority vote and 50 members directly elected in a single, nationwide constituency by closed party-list proportional representation vote; all members serve 4-year terms<br>
-_elections_: <br>last held on 11 July 2021 (next to be held in July 2025)<br>
-_election results_: <em><br></em>percent of vote by party - PAS 52.8%, BECS 27.1%, SOR 5.7%, other 14.4%; seats by party - PAS 63, BECS 32, SOR 6; composition as of February 2024 - men 58, women 40, percent of women 40.8%<br>
+_elections_: last held on 11 July 2021 (next to be held in July 2025)<br>
+_election results_: percent of vote by party - PAS 52.8%, BECS 27.1%, SOR 5.7%, other 14.4%; seats by party - PAS 63, BECS 32, SOR 6; composition as of February 2024 - men 58, women 40, percent of women 40.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the chief judge, 3 deputy-chief judges, 45 judges, and 7 assistant judges); Constitutional Court (consists of the court president and 6 judges); note - the Constitutional Court is autonomous to the other branches of government; the Court interprets the Constitution and reviews the constitutionality of parliamentary laws and decisions, decrees of the president, and acts of the government<br>
@@ -693,11 +693,8 @@ the National Army is responsible for defense against external aggression, suppre
 
 ## Transnational Issues
 
-**Disputes - international**<br>
-<p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, and Russian troops</p><br>
-
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 116,855 (Ukraine) (as of 10 March 2024)<br>
+_refugees (country of origin)_: 116,855 (Ukraine) (as of 7 April 2024)<br>
 _stateless persons_: 1,701 (2022)<br>
 
 **Illicit drugs**<br>

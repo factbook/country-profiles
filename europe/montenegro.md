@@ -344,8 +344,8 @@ _election results_: <em><br>2023: </em>Jakov MILATOVIC elected president in seco
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Skupstina (81 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: <br>last held on 11 June 2023 (next to be held in June 2027)<br>
-_election results_: <br>percent of vote by party/coalition - Europe Now! 25.5%, Together! 23.2%, For the Future of Montenegro 14.7%, Aleksa and Dritan - Count Bravely 12.5%, BP 7.1%, SNP-DEMOS 3.1%, Albanian Forum 1.9%, HGI 0.7%; seats by party/coalition Europe Now! 24, Together! 21, For the Future of Montenegro 13, Aleksa and Dritan - Count Bravely 11, BP 6, SNP-DEMOS 2, Albanian Forum 2, Albanian Alliance 1, HGI 1; composition as of February 2024 - men 59, women 22, percent of women 27.2%<br>
+_elections_: last held on 11 June 2023 (next to be held in June 2027)<br>
+_election results_: percent of vote by party/coalition - Europe Now! 25.5%, Together! 23.2%, For the Future of Montenegro 14.7%, Aleksa and Dritan - Count Bravely 12.5%, BP 7.1%, SNP-DEMOS 3.1%, Albanian Forum 1.9%, HGI 0.7%; seats by party/coalition Europe Now! 24, Together! 21, For the Future of Montenegro 13, Aleksa and Dritan - Count Bravely 11, BP 6, SNP-DEMOS 2, Albanian Forum 2, Albanian Alliance 1, HGI 1; composition as of February 2024 - men 59, women 22, percent of women 27.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Vrhovni Sud (consists of the court president, deputy president, and 15 judges); Constitutional Court or Ustavni Sud (consists of the court president and 7 judges)<br>
@@ -708,9 +708,6 @@ the Army of Montenegro is a small military focused on the defense of Montenegro�
 ## Terrorism
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: the former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated; nearly one-third of Montenegro's people identify as Serbs, and divisions in the country remain deep over relations with Serbia</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 65,105 (Ukraine) (as of 29 January 2024)<br>
