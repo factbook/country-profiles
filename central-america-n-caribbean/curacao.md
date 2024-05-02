@@ -69,7 +69,9 @@ largest concentration on the island is Willemstad; smaller settlements near the 
 ## People and Society
 
 **Population**<br>
-152,849 (2023 est.)<br>
+_total_: 153,289<br>
+_male_: 73,755<br>
+_female_: 79,534 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Curacaoan<br>
@@ -86,9 +88,9 @@ Papiamento (official) (a creole language that is a mixture of Portuguese, Spanis
 Roman Catholic 72.8%, Pentecostal 6.6%, Protestant 3.2%, Adventist 3%, Jehovah's Witness 2%, Evangelical 1.9%, other 3.8%, none 6%, unspecified 0.6% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 19.3% (male 15,107/female 14,390)<br>
-_15-64 years_: 62.7% (male 47,299/female 48,538)<br>
-_65 years and over_: 18% (2023 est.) (male 11,096/female 16,419)<br>
+_0-14 years_: 19.2% (male 15,069/female 14,337)<br>
+_15-64 years_: 62.3% (male 47,258/female 48,217)<br>
+_65 years and over_: 18.5% (2024 est.) (male 11,428/female 16,980)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 47<br>
@@ -97,21 +99,21 @@ _elderly dependency ratio_: 21.4<br>
 _potential support ratio_: 4.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 37.5 years (2023 est.)<br>
-_male_: 35.3 years<br>
-_female_: 40 years<br>
+_total_: 37.8 years (2024 est.)<br>
+_male_: 35.5 years<br>
+_female_: 40.2 years<br>
 
 **Population growth rate**<br>
-0.3% (2023 est.)<br>
+0.28% (2024 est.)<br>
 
 **Birth rate**<br>
-13.1 births/1,000 population (2023 est.)<br>
+12.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8.8 deaths/1,000 population (2023 est.)<br>
+8.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1.3 migrant(s)/1,000 population (2023 est.)<br>
+-1.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 largest concentration on the island is Willemstad; smaller settlements near the coast can be found throughout the island, particularly in the northwest<br>
@@ -125,26 +127,26 @@ _rate of urbanization_: 0.57% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.83 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2023 est.)<br>
+_0-14 years_: 1.05 male(s)/female<br>
+_15-64 years_: 0.98 male(s)/female<br>
+_65 years and over_: 0.67 male(s)/female<br>
+_total population_: 0.93 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.7 deaths/1,000 live births (2023 est.)<br>
-_male_: 8.5 deaths/1,000 live births<br>
-_female_: 6.9 deaths/1,000 live births<br>
+_total_: 7.5 deaths/1,000 live births (2024 est.)<br>
+_male_: 8.3 deaths/1,000 live births<br>
+_female_: 6.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.7 years (2023 est.)<br>
-_male_: 77.3 years<br>
-_female_: 82.1 years<br>
+_total population_: 79.9 years (2024 est.)<br>
+_male_: 77.6 years<br>
+_female_: 82.3 years<br>
 
 **Total fertility rate**<br>
-1.97 children born/woman (2023 est.)<br>
+1.96 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.96 (2023 est.)<br>
+0.96 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

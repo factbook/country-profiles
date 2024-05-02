@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Present-day Niger originated from the nomadic peoples of the Saharan north and the agriculturalists of the south. The Taureg kingdom of Takedda was one of the largest kingdoms in the north and played a prominent role in regional trade in the 14th century. In the south, the primary ethnic groups were the Songhai-Zarma in the west, the Hausa in the center, and the Kanuri in the east. When European colonizers arrived in the 19th century, the region was an assemblage of disparate local kingdoms.</p> <p>In the late 19th century, the British and French agreed to partition the middle regions of the Niger River, and France began its conquest of what would become the colony of Niger.  France experienced determined local resistance - particularly during the Tuareg uprising (1916-1917) - but established a colonial administration in 1922.</p> <p>After achieving independence from France in 1960, Niger experienced single-party or military rule until 1991 when political pressure forced General Ali SAIBOU to allow multiparty elections. Political infighting and democratic backsliding led to coups in 1996 and 1999. In December of that year, military officers restored democratic rule and held elections that brought Mamadou TANDJA to power. TANDJA was reelected in 2004 and spearheaded a 2009 constitutional amendment allowing him to extend his presidential term. In February 2010, military officers led another coup that deposed TANDJA. ISSOUFOU Mahamadou was elected in April 2011 and reelected in early 2016. In February 2021, BAZOUM Mohamed won the presidential election, marking Niger’s first transition from one democratically elected president to another. Nonetheless, a military junta once again seized power in a late-July 2023 coup, detaining President BAZOUM, and announcing the creation of a National Council for the Safeguarding of the Homeland (CNSP), headed by coup-leader General Abdourahamane TIANI.<br><br>Niger is one of the poorest countries in the world with minimal government services and insufficient funds to develop its resource base. It is ranked fourth to last in the world on the UN Development Program's Human Development Index of 2023/2024. The largely agrarian and subsistence-based economy is frequently disrupted by extended droughts common to the Sahel region of Africa. The Nigerien Government continues its attempts to diversify the economy through increased oil production and mining projects. In addition, Niger is facing increased security concerns on its borders from various external threats including insecurity in Libya, spillover from the conflict and terrorism in Mali, and violent extremism in northeastern Nigeria.</p><br>
+<p>Nomadic peoples from the Saharan north and agriculturalists from the south settled present-day Niger. The Taureg kingdom of Takedda was one of the largest kingdoms in the north and played a prominent role in regional trade in the 14th century. In the south, the primary ethnic groups were the Songhai-Zarma in the west, the Hausa in the center, and the Kanuri in the east. When European colonizers arrived in the 19th century, the region was an assemblage of disparate local kingdoms.</p> <p>In the late 19th century, the British and French agreed to partition the middle regions of the Niger River, and France began its conquest of what would become the colony of Niger.  France experienced determined local resistance -- particularly during the Tuareg uprising (1916-1917) -- but established a colonial administration in 1922.</p> <p>After achieving independence from France in 1960, Niger experienced single-party or military rule until 1991, when political pressure forced General Ali SAIBOU to allow multiparty elections. Political infighting and democratic backsliding led to coups in 1996 and 1999. In 1999, military officers restored democratic rule and held elections that brought Mamadou TANDJA to power. TANDJA was reelected in 2004 and spearheaded a 2009 constitutional amendment allowing him to extend his presidential term. In 2010, military officers led another coup that deposed TANDJA. ISSOUFOU Mahamadou was elected in 2011 and reelected in 2016. In 2021, BAZOUM Mohamed won the presidential election, marking Niger’s first transition from one democratically elected president to another. Nonetheless, a military junta led by General Abdourahamane TIANI once again seized power in July 2023, detaining President BAZOUM and announcing the creation of a National Council for the Safeguarding of the Homeland (CNSP).<br><br>Niger is one of the poorest countries in the world with minimal government services and insufficient funds to develop its resource base. It is ranked fourth to last in the world on the UN Development Program's Human Development Index of 2023/2024. The largely agrarian and subsistence-based economy is frequently disrupted by extended droughts common to the Sahel region of Africa. The Nigerien Government continues its attempts to diversify the economy through increased oil production and mining projects. In addition, Niger is facing increased security concerns on its borders from various external threats including insecurity in Libya, spillover from the conflict and terrorism in Mali, and violent extremism in northeastern Nigeria.</p><br>
 
 ## Geography
 
@@ -85,7 +85,9 @@ landlocked; one of the hottest countries in the world; northern four-fifths is d
 ## People and Society
 
 **Population**<br>
-25,396,840 (2023 est.)<br>
+_total_: 26,342,784<br>
+_male_: 13,056,203<br>
+_female_: 13,286,581 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Nigerien(s)<br>
@@ -98,15 +100,15 @@ Hausa 53.1%, Zarma/Songhai 21.2%, Tuareg 11%, Fulani (Peuhl) 6.5%, Kanuri 5.9%, 
 Hausa, Zarma, French (official), Fufulde, Tamashek, Kanuri, Gurmancema, Tagdal<br><br><strong>note:</strong> represents the most-spoken languages; Niger has 10 national languages: Arabic, Buduma, Fulfuldé, Guimancema, Hausa, Kanuri, Sonay-Zarma, Tamajaq, Tassawaq, and Tubu<br>
 
 **Religions**<br>
-Muslim 99.1%, Christian 0.8%, animist and other 0.1% (2017 est.)<br>
+Muslim 95.5%, ethnic religionist 4.1%, Christian 0.3%, agnostics and other 0.1% (2020 est.)<br>
 
 **Demographic profile**<br>
 <p>Niger has the highest total fertility rate (TFR) of any country in the world, averaging close to 7 children per woman in 2022. A slight decline in fertility over the last few decades has stalled. This leveling off of the high fertility rate is in large part a product of the continued desire for large families. In Niger, the TFR is lower than the desired fertility rate, which makes it unlikely that contraceptive use will increase. The high TFR sustains rapid population growth and a large youth population – almost 70% of the populace is under the age of 25, as of 2020. Gender inequality, including a lack of educational opportunities for women and early marriage and childbirth, also contributes to high population growth.</p> <p>Because of large family sizes, children are inheriting smaller and smaller parcels of land. The dependence of most Nigeriens on subsistence farming on increasingly small landholdings, coupled with declining rainfall and the resultant shrinkage of arable land, are all preventing food production from keeping up with population growth.</p> <p>For more than half a century, Niger's lack of economic development has led to steady net outmigration. In the 1960s, Nigeriens mainly migrated to coastal West African countries to work on a seasonal basis. Some headed to Libya and Algeria in the 1970s to work in the booming oil industry until its decline in the 1980s. Since the 1990s, the principal destinations for Nigerien labor migrants have been West African countries, especially Burkina Faso and Cote d’Ivoire, while emigration to Europe and North America has remained modest. During the same period, Niger’s desert trade route town Agadez became a hub for West African and other Sub-Saharan migrants crossing the Sahara to North Africa and sometimes onward to Europe.</p> <p>More than 60,000 Malian refugees have fled to Niger since violence between Malian government troops and armed rebels began in early 2012. Ongoing attacks by the Boko Haram Islamist insurgency, dating to 2013 in northern Nigeria and February 2015 in southeastern Niger, pushed tens of thousands of Nigerian refugees and Nigerien returnees across the border to Niger and displaced thousands of locals in Niger’s already impoverished Diffa region.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 49.7% (male 6,360,952/female 6,261,000)<br>
-_15-64 years_: 47.6% (male 5,896,312/female 6,192,116)<br>
-_65 years and over_: 2.7% (2023 est.) (male 329,421/female 357,039)<br>
+_0-14 years_: 49.5% (male 6,567,460/female 6,463,877)<br>
+_15-64 years_: 47.8% (male 6,146,355/female 6,451,574)<br>
+_65 years and over_: 2.7% (2024 est.) (male 342,388/female 371,130)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 105.4<br>
@@ -115,21 +117,21 @@ _elderly dependency ratio_: 5<br>
 _potential support ratio_: 20.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 15.1 years (2023 est.)<br>
-_male_: 14.8 years<br>
-_female_: 15.5 years<br>
+_total_: 15.2 years (2024 est.)<br>
+_male_: 14.9 years<br>
+_female_: 15.6 years<br>
 
 **Population growth rate**<br>
-3.66% (2023 est.)<br>
+3.66% (2024 est.)<br>
 
 **Birth rate**<br>
-46.9 births/1,000 population (2023 est.)<br>
+46.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.7 deaths/1,000 population (2023 est.)<br>
+9.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.6 migrant(s)/1,000 population (2023 est.)<br>
+-0.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 majority of the populace is located in the southernmost extreme of the country along the border with Nigeria and Benin as shown in this population distribution map<br>
@@ -146,7 +148,7 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-64 years_: 0.95 male(s)/female<br>
 _65 years and over_: 0.92 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2023 est.)<br>
+_total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 18.5 years (2012 est.)<br>
@@ -156,20 +158,20 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 441 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 65.5 deaths/1,000 live births (2023 est.)<br>
-_male_: 70.5 deaths/1,000 live births<br>
-_female_: 60.5 deaths/1,000 live births<br>
+_total_: 64.3 deaths/1,000 live births (2024 est.)<br>
+_male_: 69.2 deaths/1,000 live births<br>
+_female_: 59.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 60.5 years (2023 est.)<br>
-_male_: 58.9 years<br>
-_female_: 62.1 years<br>
+_total population_: 60.9 years (2024 est.)<br>
+_male_: 59.3 years<br>
+_female_: 62.5 years<br>
 
 **Total fertility rate**<br>
-6.73 children born/woman (2023 est.)<br>
+6.64 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-3.31 (2023 est.)<br>
+3.27 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 11% (2021)<br>
@@ -372,7 +374,7 @@ _subordinate courts_: Court of Cassation; Council of State; Court of Finances; v
 
 **Political parties and leaders**<br>
 <p>Alliance for Democracy and the Republic<br>Alliance for Democratic Renewal or ARD-Adaltchi-Mutuntchi [Laouan MAGAGI] <br>Alliance of Movements for the Emergence of Niger or AMEN AMIN [Omar Hamidou TCHIANA]<br>Congress for the Republic or CPR-Inganci [Maradi Kassoum MOCTAR]<br>Democratic Alternation for Equity in Niger<br>Democratic and Republican Renewal-RDR-Tchanji [Mahamane OUSMANE]<br>Democratic Movement for the Emergence of Niger Falala [Tidjani Idrissa ABDOULKADRI]<br>Democratic Patriots' Rally or RPD Bazara [Yahouza SADISSOU]<br>National Movement for the Development of Society-Nassara or MNSD-Nassara [Seini OUMAROU]<br>Nigerien Alliance for Democracy and Progress-Zaman Lahiya or ANDP-Zaman Lahiya [Moussa Hassane BARAZE]<br>Nigerien Democratic Movement for an African Federation or MODEN/FA Lumana [Tahirou SAIDOU]<br>Nigerien Party for Democracy and Socialism or PNDS-Tarrayya [Pierre Foumakoye GADO]<br>Nigerien Patriotic Movement or MPN-Kishin Kassa [Ibrahim YACOUBA]<br>Nigerien Rally for Democracy and Peace<br>Patriotic Movement for the Republic or MPR-Jamhuriya [Albade ABOUBA]<br>Peace, Justice, Progress–Generation Doubara<br>Rally for Democracy and Progress-Jama'a or RDP-Jama'a [Hamid ALGABID]<br>Rally for Peace and Progress or RPP Farilla [Alma OUMAROU]<br>Social Democratic Rally or RSD-Gaskiyya [Amadou CHEIFFOU]<br>Social Democratic Party or PSD-Bassira [Sanoussi MAREINI]</p><br>
-<strong>note:</strong> National Assembly was dissolved after the 26 July 2023 military coup<br>
+<strong>note:</strong> The CNSP dissolved the National Assembly and prohibited all political party activity after the 26 July 2023 military coup<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU (suspended), CD, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSCA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -640,7 +642,7 @@ _total subscriptions_: 14 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 56 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Niger is one of the largest countries in West Africa but also one of the poorest in the world; as with many African markets, a lack of fixed telecoms infrastructure has led to growth in mobile services; Niger&rsquo;s mobile penetration is modest compared to other countries in the region, while fixed broadband penetration is negligible; recent international investment to complete the Trans-Saharan Dorsal optical fibre (SDR) network has extended the reach of fiber infrastructure in the country, and also increased international capacity; new cables linking the country with Chad and Burkina Faso have extended Niger&rsquo;s connectivity with international cable infrastructure (2022)<br>
+_general assessment_: Niger is one of the largest countries in West Africa but also one of the poorest in the world; as with many African markets, a lack of fixed telecoms infrastructure has led to growth in mobile services; Niger&rsquo;s mobile penetration is modest compared to other countries in the region, while fixed broadband penetration is negligible; recent international investment to complete the Trans-Saharan Dorsal optical fiber (SDR) network has extended the reach of fiber infrastructure in the country, and also increased international capacity; new cables linking the country with Chad and Burkina Faso have extended Niger&rsquo;s connectivity with international cable infrastructure (2022)<br>
 _domestic_: fixed-line less than 1 per 100 persons and mobile-cellular at nearly 56 per 100 persons (2021)<br>
 _international_: country code - 227; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean)<br>
 
@@ -723,5 +725,5 @@ _refugees (country of origin)_: 67,191 (Mali) (refugees and asylum seekers) (202
 _IDPs_: 335,277 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2023)<br>
 
 **Illicit drugs**<br>
-<p>a transit country for illegal drugs shipped through Niger to Africa, Europe, and the Middle East; drugs from South America, cocaine, heroin, cannabis, and various synthetics transit through Niger to European and Middle Eastern markets; hashish from Morocco is trafficked through Niger to Libya and Egypt and Europe and the Middle East; Nigerien citizens and migrants crossing Niger consume significant quantities  of  the opioid tramadol from neighboring Nigeria</p><br>
+<p>a transit country for illegal drugs shipped through Niger to Africa, Europe, and the Middle East; drugs from South America, cocaine, heroin, cannabis, and various synthetics transit through Niger to European and Middle Eastern markets; hashish from Morocco is trafficked through Niger to Libya and Egypt and Europe and the Middle East; Nigerien citizens and migrants crossing Niger consume significant quantities of the opioid tramadol from neighboring Nigeria</p><br>
 

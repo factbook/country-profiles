@@ -74,7 +74,7 @@ deeply indented coast provides good natural harbors; short growing season<br>
 ## People and Society
 
 **Population**<br>
-3,662 (2021 est.)<br>
+_total_: 3,662 (2021 est.)<br>
 <strong>note:</strong> data include all persons usually resident in the islands at the time of the 2021 census<br>
 
 **Nationality**<br>
@@ -91,11 +91,6 @@ English 89%, Spanish 7.7%, other 3.3% (2006 est.)<br>
 **Religions**<br>
 Christian 57.1%, other 1.6%, none 35.4%, unspecified 6% (2016 est.)<br>
 
-**Age structure**<br>
-_0-14 years_: NA<br>
-_15-64 years_: NA<br>
-_65 years and over_: NA<br>
-
 **Dependency ratios**<br>
 _total dependency ratio_: 39.8<br>
 _youth dependency ratio_: 24.8<br>
@@ -111,9 +106,6 @@ _potential support ratio_: 6.7 (2021)<br>
 **Death rate**<br>
 4.9 deaths/1,000 population (2012 est.)<br>
 
-**Net migration rate**<br>
-NA<br>
-
 **Population distribution**<br>
 a very small population, with most residents living in and around Stanley<br>
 
@@ -126,23 +118,11 @@ _rate of urbanization_: 0.53% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _total population_: 1.12 male(s)/female (2016 est.)<br>
-<strong>note:</strong> sex ratio is somewhat skewed by the high proportion of males at the Royal Air Force station, Mount Pleasant Airport (MPA); excluding MPA, the sex ratio of the total population would be 1.04<br>
-
-**Infant mortality rate**<br>
-_total_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
 
 **Life expectancy at birth**<br>
 _total population_: (2017 est.) 77.9<br>
 _male_: 75.6<br>
 _female_: 79.6<br>
-
-**Total fertility rate**<br>
-NA<br>
-
-**Contraceptive prevalence rate**<br>
-NA<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -152,12 +132,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 21.8% of population<br>
 _unimproved: total_: total: 4.7% of population (2020)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
-**Physicians density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -166,19 +140,8 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
 **Currently married women (ages 15-49)**<br>
 44.8% (2023 est.)<br>
-
-**Education expenditures**<br>
-NA<br>
-
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
 
 ## Environment
 

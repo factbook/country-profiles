@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Founded in 963, Luxembourg became a grand duchy in 1815 and a constituent part of the Kingdom of the Netherlands following the Congress of Vienna. When Belgium declared independence from the Netherlands in 1839, Luxembourg lost more than half of its territory to Belgium but gained a larger measure of autonomy within the Kingdom of the Netherlands.&nbsp; Luxembourg gained full independence in 1867 under the condition that it promise perpetual neutrality. Overrun by Germany in both world wars, it ended its neutrality in 1948 when it entered into the Benelux Customs Union and when it joined NATO the following year. In 1957, Luxembourg became one of the six founding countries of the EEC (later the EU), and in 1999 it joined the euro currency zone.<br>
+Founded in 963, Luxembourg became a grand duchy in 1815 and a constituent part of the Kingdom of the Netherlands after the Congress of Vienna. When Belgium declared independence from the Netherlands in 1839, Luxembourg lost more than half of its territory to Belgium but gained a larger measure of autonomy within the Kingdom of the Netherlands.&nbsp; Luxembourg gained full independence in 1867 by promising to remain permanently neutral. Overrun by Germany in both world wars, its neutrality ended in 1948 when it entered into the Benelux Customs Union and joined NATO the following year. In 1957, Luxembourg became one of the six founding countries of the EEC (later the EU), and in 1999 it joined the euro currency zone.<br>
 
 ## Geography
 
@@ -76,7 +76,9 @@ landlocked; the only grand duchy in the world<br>
 ## People and Society
 
 **Population**<br>
-660,924 (2023 est.)<br>
+_total_: 671,254<br>
+_male_: 338,702<br>
+_female_: 332,552 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Luxembourger(s)<br>
@@ -93,9 +95,9 @@ Luxembourgish (official administrative and judicial language and national langua
 Christian (predominantly Roman Catholic) 70.6%, Muslim 2.3%, other (includes Buddhist, folk religions, Hindu, Jewish) 0.4%, unaffiliated 26.7% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 16.73% (male 57,006/female 53,593)<br>
-_15-64 years_: 67.38% (male 228,427/female 216,912)<br>
-_65 years and over_: 15.88% (2023 est.) (male 47,951/female 57,035)<br>
+_0-14 years_: 16.7% (male 57,921/female 54,484)<br>
+_15-64 years_: 67.1% (male 231,214/female 219,497)<br>
+_65 years and over_: 16.1% (2024 est.) (male 49,567/female 58,571)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 44.2<br>
@@ -104,21 +106,21 @@ _elderly dependency ratio_: 21.3<br>
 _potential support ratio_: 4.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 39.8 years (2023 est.)<br>
-_male_: 39.3 years<br>
-_female_: 40.3 years<br>
+_total_: 39.9 years (2024 est.)<br>
+_male_: 39.4 years<br>
+_female_: 40.4 years<br>
 
 **Population growth rate**<br>
-1.58% (2023 est.)<br>
+1.52% (2024 est.)<br>
 
 **Birth rate**<br>
-11.6 births/1,000 population (2023 est.)<br>
+11.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.2 deaths/1,000 population (2023 est.)<br>
+7.1 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-11.4 migrant(s)/1,000 population (2023 est.)<br>
+10.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most people live in the south, on or near the border with France<br>
@@ -134,8 +136,8 @@ _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.05 male(s)/female<br>
-_65 years and over_: 0.84 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.85 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 31 years (2020 est.)<br>
@@ -144,20 +146,20 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 6 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.2 deaths/1,000 live births (2023 est.)<br>
+_total_: 3.2 deaths/1,000 live births (2024 est.)<br>
 _male_: 3.6 deaths/1,000 live births<br>
 _female_: 2.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.2 years (2023 est.)<br>
-_male_: 80.7 years<br>
-_female_: 85.8 years<br>
+_total population_: 83.4 years (2024 est.)<br>
+_male_: 80.9 years<br>
+_female_: 85.9 years<br>
 
 **Total fertility rate**<br>
-1.63 children born/woman (2023 est.)<br>
+1.63 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.79 (2023 est.)<br>
+0.79 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

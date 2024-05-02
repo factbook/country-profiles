@@ -81,7 +81,9 @@ most of the inhabitants live along the sandy coastal region; apart from the capi
 ## People and Society
 
 **Population**<br>
-29,344,847 (2023 est.)<br>
+_total_: 29,981,758<br>
+_male_: 15,040,032<br>
+_female_: 14,941,726 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Ivoirian(s)<br>
@@ -102,9 +104,9 @@ Muslim 42.9%, Catholic 17.2%, Evangelical 11.8%, Methodist 1.7%, other Christian
 <p>Cote d’Ivoire’s population is likely to continue growing for the foreseeable future because almost 60% of the populace is younger than 25 as of 2020, the total fertility rate is holding steady at about 3.5 children per woman, and contraceptive use is under 30%. The country will need to improve education, health care, and gender equality in order to turn its large and growing youth cohort into human capital. Even prior to 2010 unrest that shuttered schools for months, access to education was poor, especially for women. The lack of educational attainment contributes to Cote d’Ivoire’s high rates of unskilled labor, adolescent pregnancy, and HIV/AIDS prevalence.</p> <p>Following its independence in 1960, Cote d’Ivoire’s stability and the blossoming of its labor-intensive cocoa and coffee industries in the southwest made it an attractive destination for migrants from other parts of the country and its neighbors, particularly Burkina Faso. The HOUPHOUET-BOIGNY administration continued the French colonial policy of encouraging labor immigration by offering liberal land ownership laws. Foreigners from West Africa, Europe (mainly France), and Lebanon composed about 25% of the population by 1998.</p> <p>Ongoing economic decline since the 1980s and the power struggle after HOUPHOUET-BOIGNY’s death in 1993 ushered in the politics of "Ivoirite," institutionalizing an Ivoirian identity that further marginalized northern Ivoirians and scapegoated immigrants. The hostile Muslim north-Christian south divide snowballed into a 2002 civil war, pushing tens of thousands of foreign migrants, Liberian refugees, and Ivoirians to flee to war-torn Liberia or other regional countries and more than a million people to be internally displaced. Subsequently, violence following the contested 2010 presidential election prompted some 250,000 people to seek refuge in Liberia and other neighboring countries and again internally displaced as many as a million people. By July 2012, the majority had returned home, but ongoing inter-communal tension and armed conflict continue to force people from their homes.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 36.65% (male 5,398,616/female 5,354,973)<br>
-_15-64 years_: 60.4% (male 8,935,673/female 8,789,040)<br>
-_65 years and over_: 2.95% (2023 est.) (male 389,248/female 477,297)<br>
+_0-14 years_: 36.1% (male 5,437,108/female 5,390,782)<br>
+_15-64 years_: 60.9% (male 9,200,957/female 9,060,748)<br>
+_65 years and over_: 3% (2024 est.) (male 401,967/female 490,196)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 79.2<br>
@@ -113,21 +115,21 @@ _elderly dependency ratio_: 4.3<br>
 _potential support ratio_: 19.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21 years (2023 est.)<br>
-_male_: 21 years<br>
-_female_: 21 years<br>
+_total_: 21.2 years (2024 est.)<br>
+_male_: 21.2 years<br>
+_female_: 21.2 years<br>
 
 **Population growth rate**<br>
-2.16% (2023 est.)<br>
+2.13% (2024 est.)<br>
 
 **Birth rate**<br>
-27.9 births/1,000 population (2023 est.)<br>
+27.5 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.5 deaths/1,000 population (2023 est.)<br>
+7.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-1.2 migrant(s)/1,000 population (2023 est.)<br>
+1.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the population is primarily located in the forested south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the northern savanna remains sparsely populated with higher concentrations located along transportation corridors as shown in this population distribution map<br>
@@ -141,10 +143,10 @@ _rate of urbanization_: 3.38% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-64 years_: 1.05 male(s)/female<br>
-_65 years and over_: 0.73 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2023 est.)<br>
+_0-14 years_: 1.01 male(s)/female<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.82 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.6 years (2011/12 est.)<br>
@@ -154,20 +156,20 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 480 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 54 deaths/1,000 live births (2023 est.)<br>
-_male_: 61.2 deaths/1,000 live births<br>
-_female_: 46.7 deaths/1,000 live births<br>
+_total_: 52.5 deaths/1,000 live births (2024 est.)<br>
+_male_: 59.5 deaths/1,000 live births<br>
+_female_: 45.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.7 years (2023 est.)<br>
-_male_: 60.5 years<br>
-_female_: 65 years<br>
+_total population_: 63.2 years (2024 est.)<br>
+_male_: 60.9 years<br>
+_female_: 65.4 years<br>
 
 **Total fertility rate**<br>
-3.47 children born/woman (2023 est.)<br>
+3.4 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.71 (2023 est.)<br>
+1.67 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 27.8% (2020)<br>
@@ -355,7 +357,7 @@ _election results_: <br><em>2020: </em>Alassane OUATTARA reelected president; pe
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)<br>National Assembly (255 seats - 254 for 2021-2026 term; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: Senate - last held on 16 September 2023 (next to be held in September 2028)<br>National Assembly - last held on 6 March 2021 (next to be held on 31 March 2026)<br>
-_election results_: Senate - percent by party/coalition NA; seats by party/coalition - RHDP 56, PDCI-RDA 6, independent 2, vacant 2; composition as of March 2024 - men 73, women 24, percentage women 15.6% (2 seats vacant); note - 33 members appointed - RHDP 25, independent 8 <br><br>National Assembly - percent of vote by party/coalition - RHDP 49.2%, PDCI-RRA-EDS 16.5%, DPIC 6%, TTB 2.1%, IPF 2%, other 24.2%; seats by party/coalition - RHDP, 137, PDCI-RRA-EDS 50, DPIC 23, EDS 8, TTB 8, IPF 2, independent 26, vacant 1; composition as of March 2024 - men 220, women 34, percentage women 13.4%; note - total Parliament percentage women 16.5%<br>
+_election results_: Senate - percent by party/coalition NA; seats by party/coalition - RHDP 56, PDCI-RDA 6, independent 2, vacant 2; composition - men 73, women 24, percentage women 15.6% (2 seats vacant); note - 33 members appointed - RHDP 25, independent 8 <br><br>National Assembly - percent of vote by party/coalition - RHDP 49.2%, PDCI-RRA-EDS 16.5%, DPIC 6%, TTB 2.1%, IPF 2%, other 24.2%; seats by party/coalition - RHDP, 137, PDCI-RRA-EDS 50, DPIC 23, EDS 8, TTB 8, IPF 2, independent 26, vacant 1; composition - men 220, women 34, percentage women 13.4%; note - total Parliament percentage women 16.5%<br>
 <br><br><br>
 
 **Judicial branch**<br>

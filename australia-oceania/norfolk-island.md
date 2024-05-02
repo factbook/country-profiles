@@ -5,7 +5,7 @@ _Australia-Oceania / Dependencies (Australia)_
 ## Introduction
 
 **Background**<br>
-Polynesians lived on Norfolk Island between 1200 and 1500 but the remote island was uninhabited by the time British explorer James COOK landed on the island in 1774. Two British attempts at establishing the island as a penal colony (1788-1814 and 1825-55) were ultimately abandoned.<br><br>In 1856, almost 200 Pitcairn Islanders - descendants of the Bounty mutineers and their Tahitian companions - were relocated to Norfolk Island because of overcrowding on the Pitcairn Islands. Some returned to the Pitcairn Islands over the next few years but most settled permanently on Norfolk Island and recreated the land tenure and governance structures they previously had. Norfolk Island retained a great degree of local control until 1897, when it became a dependency of New South Wales. During World War II, Norfolk Island was an airbase and an important refueling stop in the South Pacific. In 1976, an Australian judge recommended Norfolk Island be incorporated fully into Australia, which Norfolk Islanders rejected. Following an appeal to the UN, Australia granted limited self-government to Norfolk Island in 1979.<br><br>With growing financial troubles during the 2000s, Australia abolished the Norfolk Island Legislative Assembly in 2015, reduced Norfolk Island’s autonomy in 2016, and suspended the local council in 2020. Most services are provided by a mix of the Australian Capital Territory and the states of New South Wales and Queensland. These moves were unpopular on Norfolk Island, which has sought to have its self-government restored.<br>
+Polynesians lived on Norfolk Island between 1200 and 1500, but the remote island was uninhabited by the time British explorer James COOK landed on the island in 1774. Two British attempts at establishing the island as a penal colony (1788-1814 and 1825-55) were ultimately abandoned.<br><br>In 1856, almost 200 Pitcairn Islanders -- descendants of the <em>Bounty </em>mutineers and their Tahitian companions -- were relocated to Norfolk Island because of overcrowding on the Pitcairn Islands. Some returned to the Pitcairn Islands over the next few years, but most settled permanently on Norfolk Island and recreated their previous land tenure and governance structures. Norfolk Island retained a great degree of local control until 1897, when it became a dependency of New South Wales. During World War II, Norfolk Island was an airbase and an important refueling stop in the South Pacific. In 1976, an Australian judge recommended Norfolk Island be incorporated fully into Australia, which Norfolk Islanders rejected. After an appeal to the UN, Australia granted limited self-government to Norfolk Island in 1979.<br><br>With growing financial troubles during the 2000s, Australia abolished the Norfolk Island Legislative Assembly in 2015, reduced Norfolk Island’s autonomy in 2016, and suspended the local council in 2020. Most services are provided by a mix of the Australian Capital Territory and the states of New South Wales and Queensland. These moves were unpopular on Norfolk Island, which has sought to have its self-government restored.<br>
 
 ## Geography
 
@@ -73,7 +73,7 @@ most of the 32 km coastline consists of almost inaccessible cliffs, but the land
 ## People and Society
 
 **Population**<br>
-1,748 (2016 est.)<br>
+_total_: 1,748 (2016 est.)<br>
 
 **Nationality**<br>
 _noun_: Norfolk Islander(s)<br>
@@ -90,80 +90,11 @@ English (official) 44.9%, Norfolk (official; also known as Norfuk or Norf'k, whi
 **Religions**<br>
 Protestant 46.8% (Anglican 29.2%, Uniting Church in Australia 9.8%, Presbyterian 2.9%, Seventh Day Adventist 2.7%, other 2.2%), Roman Catholic 12.6%, other Christian 2.9%, other 1.4%, none 26.7%, unspecified 9.5% (2016 est.)<br>
 
-**Age structure**<br>
-_0-14 years_: NA<br>
-_15-64 years_: NA<br>
-_65 years and over_: NA<br>
-
-**Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
-
 **Population growth rate**<br>
 0.01% (2014 est.)<br>
 
-**Birth rate**<br>
-NA<br>
-
-**Death rate**<br>
-NA<br>
-
 **Population distribution**<br>
 population concentrated around the capital of Kingston<br>
-
-**Sex ratio**<br>
-NA<br>
-
-**Infant mortality rate**<br>
-_total_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
-**Life expectancy at birth**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
-**Total fertility rate**<br>
-NA<br>
-
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA<br>
-
-**Current health expenditure**<br>
-NA<br>
-
-**Physicians density**<br>
-NA<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
-**Education expenditures**<br>
-NA<br>
-
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
 
 ## Environment
 

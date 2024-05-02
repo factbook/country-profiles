@@ -78,7 +78,9 @@ strategic location near world's busiest shipping lanes and close to Arabian oilf
 ## People and Society
 
 **Population**<br>
-976,143 (2023 est.)<br>
+_total_: 994,974<br>
+_male_: 450,796<br>
+_female_: 544,178 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Djiboutian(s)<br>
@@ -97,9 +99,9 @@ Sunni Muslim 94% (nearly all Djiboutians), other 6% (mainly foreign-born residen
 <p>Djibouti is a poor, predominantly urban country, characterized by high rates of illiteracy, unemployment, and childhood malnutrition. Approximately 70% of the population lives in cities and towns (predominantly in the capital, Djibouti). The rural population subsists primarily on nomadic herding. Prone to droughts and floods, the country has few natural resources and must import more than 80% of its food from neighboring countries or Europe. Health care, particularly outside the capital, is limited by poor infrastructure, shortages of equipment and supplies, and a lack of qualified personnel. More than a third of health care recipients are migrants because the services are still better than those available in their neighboring home countries. The nearly universal practice of female genital cutting reflects Djibouti’s lack of gender equality and is a major contributor to obstetrical complications and its high rates of maternal and infant mortality. A 1995 law prohibiting the practice has never been enforced.</p> <p>Because of its political stability and its strategic location at the confluence of East Africa and the Gulf States along the Gulf of Aden and the Red Sea, Djibouti is a key transit point for migrants and asylum seekers heading for the Gulf States and beyond. Each year some 100,000 people, mainly Ethiopians and some Somalis, journey through Djibouti, usually to the port of Obock, to attempt a dangerous sea crossing to Yemen. However, with the escalation of the ongoing Yemen conflict, Yemenis began fleeing to Djibouti in March 2015, with almost 20,000 arriving by August 2017. Most Yemenis remain unregistered and head for Djibouti City rather than seeking asylum at one of Djibouti’s three spartan refugee camps. Djibouti has been hosting refugees and asylum seekers, predominantly Somalis and lesser numbers of Ethiopians and Eritreans, at camps for 20 years, despite lacking potable water, food shortages, and unemployment.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 28.65% (male 140,365/female 139,299)<br>
-_15-64 years_: 67.21% (male 284,488/female 371,529)<br>
-_65 years and over_: 4.15% (2023 est.) (male 17,757/female 22,705)<br>
+_0-14 years_: 28.4% (male 141,829/female 140,696)<br>
+_15-64 years_: 67.4% (male 290,654/female 379,778)<br>
+_65 years and over_: 4.2% (2024 est.) (male 18,313/female 23,704)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.6<br>
@@ -108,21 +110,21 @@ _elderly dependency ratio_: 6.9<br>
 _potential support ratio_: 14.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 26 years (2023 est.)<br>
-_male_: 24.1 years<br>
-_female_: 27.6 years<br>
+_total_: 26.3 years (2024 est.)<br>
+_male_: 24.4 years<br>
+_female_: 27.9 years<br>
 
 **Population growth rate**<br>
-1.93% (2023 est.)<br>
+1.89% (2024 est.)<br>
 
 **Birth rate**<br>
-22 births/1,000 population (2023 est.)<br>
+21.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.1 deaths/1,000 population (2023 est.)<br>
+7 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-4.4 migrant(s)/1,000 population (2023 est.)<br>
+4.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most densely populated areas are in the east; the largest city is Djibouti, with a population over 600,000; no other city in the country has a total population over 50,000 as shown in this population distribution map<br>
@@ -138,27 +140,27 @@ _rate of urbanization_: 1.56% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-64 years_: 0.77 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 0.83 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 0.83 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 234 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 46 deaths/1,000 live births (2023 est.)<br>
-_male_: 53.1 deaths/1,000 live births<br>
-_female_: 38.7 deaths/1,000 live births<br>
+_total_: 45.2 deaths/1,000 live births (2024 est.)<br>
+_male_: 52.1 deaths/1,000 live births<br>
+_female_: 38 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.6 years (2023 est.)<br>
-_male_: 63 years<br>
-_female_: 68.3 years<br>
+_total population_: 65.9 years (2024 est.)<br>
+_male_: 63.4 years<br>
+_female_: 68.5 years<br>
 
 **Total fertility rate**<br>
-2.13 children born/woman (2023 est.)<br>
+2.11 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.05 (2023 est.)<br>
+1.04 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 19% (2012)<br>

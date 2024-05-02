@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-Kiribati is made up of three distinct island groups - the Gilbert Islands, the Line Islands, and the Phoenix Islands. The first Austronesian voyagers arrived in the Gilbert Islands as early as 3000 B.C., but these islands were not widely settled until about A.D. 200 by Micronesians. Around 1300, Samoans and Tongans invaded the southern Gilbert Islands, then known as Tungaru, bringing Polynesian cultural elements with them. Later arrivals by Fijians brought Melanesian elements to the Gilbert Islands, and extensive intermarriage between the Micronesian, Polynesian, and Melanesian people led to the creation of what would become Gilbertese cultural traditions by the time Europeans spotted the islands in the 1600s. The Phoenix Islands and Line Islands were both visited by various Melanesian and Polynesian peoples, but their isolation and lack of natural resources meant that long-term settlements were not possible and both island groups were uninhabited by the time of European contact.<br> <br>Kiribati experienced sustained European contact by the 1760s; all three island groups were named and charted by 1826. American whaling ships frequently passed through the islands, and the UK declared a protectorate over the Gilbert and nearby Ellice Islands in 1892 to block growing US influence. Phosphate-rich Banaba Island was annexed to the protectorate in 1900. In 1916, the protectorate became a colony, and some Line Islands were added in 1916 and 1919 with the final ones added in 1972. The Phoenix Islands were added to the colony in 1937, and the UK agreed to share jurisdiction of some of them with the US because of their strategic location for aviation. Japan occupied the northern Gilbert Islands in 1941; the islands of Makin and Tarawa were the sites of major US amphibious victories over entrenched Japanese garrisons in 1943. The UK continued to rule the colony after World War II. The Ellice Islands became its own colony in 1974 and renamed Tuvalu for “eight standing together” in 1975. The Gilbert Islands became fully self-governing in 1977 and independent in 1979 as Kiribati, the Gilbertese spelling of Gilberts. The US relinquished all claims to the sparsely inhabited Phoenix and Line Islands in a 1979 treaty of friendship.<br><br>In 1994, Kiribati adjusted the international date line to the east of the Line Islands, bringing all islands in the country to the same day and giving Kiribati the earliest time zone in the world. Kiribati is a leading climate change advocate. In 2012, Kiribati purchased a 22 sq km (8.5 sq mi) plot of land in Fiji for potential eventual resettlement of its population because of climate change.<br>
+Kiribati is made up of three distinct island groups -- the Gilbert Islands, the Line Islands, and the Phoenix Islands. The first Austronesian voyagers arrived in the Gilbert Islands as early as 3000 B.C., but these islands were not widely settled until about A.D. 200 by Micronesians. Around 1300, Samoans and Tongans invaded the southern Gilbert Islands, then known as Tungaru, bringing Polynesian cultural elements with them. Later arrivals of Fijians brought Melanesian elements to the Gilbert Islands, and extensive intermarriage between the Micronesian, Polynesian, and Melanesian people led to the creation of what would become Gilbertese cultural traditions by the time Europeans spotted the islands in the 1600s. The Phoenix Islands and Line Islands were both visited by various Melanesian and Polynesian peoples, but their isolation and lack of natural resources meant that long-term settlements were not possible. Both island groups were uninhabited by the time of European contact.<br> <br>Kiribati experienced sustained European contact by the 1760s; all three island groups were named and charted by 1826. American whaling ships frequently passed through the islands, and the UK declared a protectorate over the Gilbert and nearby Ellice Islands in 1892, in an attempt to block growing US influence. Phosphate-rich Banaba Island was annexed to the protectorate in 1900. In 1916, the protectorate became a colony, and some Line Islands were added in 1916 and 1919, with the final ones added in 1972. The Phoenix Islands were added to the colony in 1937, and the UK agreed to share jurisdiction of some with the US because of their strategic location for aviation. Japan occupied the northern Gilbert Islands in 1941; the islands of Makin and Tarawa were the sites of major US amphibious victories over entrenched Japanese garrisons in 1943. The UK continued to rule the colony after World War II. The Ellice Islands became its own colony in 1974 and was renamed Tuvalu for “eight standing together” in 1975. The Gilbert Islands became fully self-governing in 1977 and independent in 1979 under the new name of Kiribati, the Gilbertese spelling of Gilberts. The US relinquished all claims to the sparsely inhabited Phoenix and Line Islands in a 1979 treaty of friendship.<br><br>In 1994, Kiribati adjusted the international date line to the east of the Line Islands, bringing all islands in the country to the same day and giving Kiribati the earliest time zone in the world. In 2012, Kiribati purchased a 22 sq km (8.5 sq mi) plot of land in Fiji for potential eventual resettlement of its population because of climate change.<br>
 
 ## Geography
 
@@ -74,7 +74,9 @@ typhoons can occur any time, but usually November to March; occasional tornadoes
 ## People and Society
 
 **Population**<br>
-115,372 (2023 est.)<br>
+_total_: 116,545<br>
+_male_: 56,364<br>
+_female_: 60,181 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: I-Kiribati (singular and plural)<br>
@@ -90,9 +92,9 @@ Gilbertese, English (official)<br>
 Roman Catholic 58.9%, Kiribati Uniting Church 21.2%, Kiribati Protestant Church 8.4%, Church of Jesus Christ 5.6%, Seventh Day Adventist 2.1%, Baha'i 2.1%, other 1.7% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 27.06% (male 15,906/female 15,314)<br>
-_15-64 years_: 67.77% (male 37,634/female 40,559)<br>
-_65 years and over_: 5.17% (2023 est.) (male 2,314/female 3,645)<br>
+_0-14 years_: 26.8% (male 15,895/female 15,304)<br>
+_15-64 years_: 67.9% (male 38,046/female 41,059)<br>
+_65 years and over_: 5.4% (2024 est.) (male 2,423/female 3,818)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 66.4<br>
@@ -101,21 +103,21 @@ _elderly dependency ratio_: 6.2<br>
 _potential support ratio_: 16.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 26.9 years (2023 est.)<br>
-_male_: 26 years<br>
-_female_: 27.8 years<br>
+_total_: 27.3 years (2024 est.)<br>
+_male_: 26.4 years<br>
+_female_: 28.2 years<br>
 
 **Population growth rate**<br>
-1.02% (2023 est.)<br>
+1% (2024 est.)<br>
 
 **Birth rate**<br>
-19.9 births/1,000 population (2023 est.)<br>
+19.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.9 deaths/1,000 population (2023 est.)<br>
+6.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--2.8 migrant(s)/1,000 population (2023 est.)<br>
+-2.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 consists of three achipelagos spread out over an area roughly the size of India; the eastern Line Islands and central Phoenix Islands are sparsely populated, but the western Gilbert Islands are some of the most densely settled places on earth, with the main island of South Tarawa boasting a population density similar to Tokyo or Hong Kong<br>
@@ -132,7 +134,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 0.93 male(s)/female<br>
 _65 years and over_: 0.63 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2023 est.)<br>
+_total population_: 0.94 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23.1 years (2009 est.)<br>
@@ -142,20 +144,20 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 76 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 32.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 34.2 deaths/1,000 live births<br>
-_female_: 30.1 deaths/1,000 live births<br>
+_total_: 31.5 deaths/1,000 live births (2024 est.)<br>
+_male_: 33.5 deaths/1,000 live births<br>
+_female_: 29.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.2 years (2023 est.)<br>
-_male_: 65.6 years<br>
-_female_: 71 years<br>
+_total population_: 68.5 years (2024 est.)<br>
+_male_: 65.9 years<br>
+_female_: 71.3 years<br>
 
 **Total fertility rate**<br>
-2.18 children born/woman (2023 est.)<br>
+2.15 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.06 (2023 est.)<br>
+1.05 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 33.5% (2018/19)<br>

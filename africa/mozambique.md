@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>In the first half of the second millennium A.D., northern Mozambican port towns were frequented by traders from Somalia, Ethiopia, Egypt, Arabia, Persia, and India. The Portuguese were able to wrest much of the coastal trade from Arab Muslims in the centuries after 1500 and to set up their own colonies. Portugal did not relinquish Mozambique until 1975. Large-scale emigration, economic dependence on South Africa, a severe drought, and a prolonged civil war hindered the country's development until the mid-1990s. The ruling Front for the Liberation of Mozambique (FRELIMO) party formally abandoned Marxism in 1989, and a new constitution the following year provided for multiparty elections and a free market economy. A UN-negotiated peace agreement between FRELIMO and rebel Mozambique National Resistance (RENAMO) forces ended the fighting in 1992. In 2004, Mozambique underwent a delicate transition as Joaquim CHISSANO stepped down after 18 years in office. His elected successor, Armando GUEBUZA, served two terms and then passed executive power to Filipe NYUSI in 2015. RENAMO’s residual armed forces intermittently engaged in a low-level insurgency after 2012, but a late December 2016 cease-fire eventually led to the two sides signing a comprehensive peace deal in August 2019. Elections in October 2019, challenged by Western observers and civil society as being problematic, resulted in resounding wins for NYUSI and FRELIMO across the country. Since October 2017, violent extremists - who an official ISIS media outlet recognized as ISIS's network in Mozambique for the first time in June 2019 - have been conducting attacks against civilians and security services in the northern province of Cabo Delgado. In 2021, Rwanda and the Southern African Development Community deployed forces to support Mozambique’s efforts to counter the extremist group.</p><br>
+<p>In the first half of the second millennium A.D., northern Mozambican port towns were frequented by traders from Somalia, Ethiopia, Egypt, Arabia, Persia, and India. The Portuguese were able to wrest much of the coastal trade from Arab Muslims in the centuries after 1500, and they set up their own colonies. Portugal did not relinquish Mozambique until 1975. Large-scale emigration, economic dependence on South Africa, a severe drought, and a prolonged civil war hindered the country's development until the mid-1990s. <br><br>The ruling Front for the Liberation of Mozambique (FRELIMO) party formally abandoned Marxism in 1989, and a new constitution the following year provided for multiparty elections and a free-market economy. A UN-negotiated peace agreement between FRELIMO and rebel Mozambique National Resistance (RENAMO) forces ended the fighting in 1992. In 2004, Mozambique underwent a delicate transition as Joaquim CHISSANO stepped down after 18 years in office. His elected successor, Armando GUEBUZA, served two terms and then passed executive power to Filipe NYUSI in 2015. RENAMO’s residual armed forces intermittently engaged in a low-level insurgency after 2012, but a 2016 cease-fire eventually led to the two sides signing a comprehensive peace deal in 2019. <br><br>Since 2017, violent extremists -- who an official ISIS media outlet recognized as ISIS's network in Mozambique for the first time in 2019 -- have been conducting attacks against civilians and security services in the northern province of Cabo Delgado. In 2021, Rwanda and the Southern African Development Community deployed forces to support Mozambique’s efforts to counter the extremist group.</p><br>
 
 ## Geography
 
@@ -83,7 +83,9 @@ the Zambezi River flows through the north-central and most fertile part of the c
 ## People and Society
 
 **Population**<br>
-32,513,805 (2023 est.)<br>
+_total_: 33,350,954<br>
+_male_: 16,449,734<br>
+_female_: 16,901,220 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Mozambican(s)<br>
@@ -102,9 +104,9 @@ Roman Catholic 27.2%, Muslim 18.9%, Zionist Christian 15.6%, Evangelical/Penteco
 <p>Mozambique is a poor, sparsely populated country with high fertility and mortality rates and a rapidly growing youthful population – 45% of the population is younger than 15, as of 2020. Mozambique’s high poverty rate is sustained by natural disasters, disease, high population growth, low agricultural productivity, and the unequal distribution of wealth. The country’s birth rate is among the world’s highest, averaging around  5 children per woman (and higher in rural areas) for at least the last three decades. The sustained high level of fertility reflects gender inequality, low contraceptive use, early marriages and childbearing, and a lack of education, particularly among women. The high population growth rate is somewhat restrained by the country’s high HIV/AIDS and overall mortality rates. Mozambique ranks among the worst in the world for HIV/AIDS prevalence, HIV/AIDS deaths, and life expectancy at birth, as of 2022.</p> <p>Mozambique is predominantly a country of emigration, but internal, rural-urban migration has begun to grow. Mozambicans, primarily from the country’s southern region, have been migrating to South Africa for work for more than a century. Additionally, approximately 1.7 million Mozambicans fled to Malawi, South Africa, and other neighboring countries between 1979 and 1992 to escape from civil war. Labor migrants have usually been men from rural areas whose crops have failed or who are unemployed and have headed to South Africa to work as miners; multiple generations of the same family often become miners. Since the abolition of apartheid in South Africa in 1991, other job opportunities have opened to Mozambicans, including in the informal and manufacturing sectors, but mining remains their main source of employment.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 45% (male 7,413,197/female 7,217,953)<br>
-_15-64 years_: 52.1% (male 8,153,175/female 8,787,792)<br>
-_65 years and over_: 2.9% (2023 est.) (male 461,904/female 479,784)<br>
+_0-14 years_: 44.7% (male 7,548,247/female 7,350,012)<br>
+_15-64 years_: 52.4% (male 8,428,457/female 9,061,065)<br>
+_65 years and over_: 2.9% (2024 est.) (male 473,030/female 490,143)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 86.1<br>
@@ -113,21 +115,21 @@ _elderly dependency ratio_: 4.8<br>
 _potential support ratio_: 20.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 17.2 years (2023 est.)<br>
-_male_: 16.6 years<br>
-_female_: 17.8 years<br>
+_total_: 17.3 years (2024 est.)<br>
+_male_: 16.7 years<br>
+_female_: 17.9 years<br>
 
 **Population growth rate**<br>
-2.55% (2023 est.)<br>
+2.54% (2024 est.)<br>
 
 **Birth rate**<br>
-36.9 births/1,000 population (2023 est.)<br>
+36.5 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.9 deaths/1,000 population (2023 est.)<br>
+9.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1.5 migrant(s)/1,000 population (2023 est.)<br>
+-1.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 three large populations clusters are found along the southern coast between Maputo and Inhambane, in the central area between Beira and Chimoio along the Zambezi River, and in and around the northern cities of Nampula, Cidade de Nacala, and Pemba; the northwest and southwest are the least populated areas as shown in this population distribution map<br>
@@ -143,8 +145,8 @@ _rate of urbanization_: 4.24% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-64 years_: 0.93 male(s)/female<br>
-_65 years and over_: 0.96 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.97 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.2 years (2011 est.)<br>
@@ -154,20 +156,20 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 127 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 59.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 61.7 deaths/1,000 live births<br>
-_female_: 57.8 deaths/1,000 live births<br>
+_total_: 58.2 deaths/1,000 live births (2024 est.)<br>
+_male_: 60.1 deaths/1,000 live births<br>
+_female_: 56.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 57.7 years (2023 est.)<br>
-_male_: 56.4 years<br>
-_female_: 59 years<br>
+_total population_: 58.3 years (2024 est.)<br>
+_male_: 57.1 years<br>
+_female_: 59.6 years<br>
 
 **Total fertility rate**<br>
-4.74 children born/woman (2023 est.)<br>
+4.66 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-2.33 (2023 est.)<br>
+2.29 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 27.1% (2015)<br>

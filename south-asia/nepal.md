@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>During the late 18th-early 19th centuries, the principality of Gorkha united many of the other principalities and states of the sub-Himalayan region into a Nepali Kingdom. Nepal retained its independence following the Anglo-Nepalese War of 1814-16 and the subsequent peace treaty laid the foundations for two centuries of amicable relations between Britain and Nepal. (The Brigade of Gurkhas continues to serve in the British Army to the present day.) In 1951, the Nepali monarch ended the century-old system of rule by hereditary premiers and instituted a cabinet system that brought political parties into the government. That arrangement lasted until 1960, when political parties were again banned, but was reinstated in 1990 with the establishment of a multiparty democracy within the framework of a constitutional monarchy.</p> <p>An insurgency led by Maoists broke out in 1996. During the ensuing 10-year civil war between Maoist and government forces, the monarchy dissolved the cabinet and parliament and re-assumed absolute power in 2002, after the crown prince massacred the royal family in 2001. A peace accord in 2006 led to the promulgation of an interim constitution in 2007. Following a nationwide Constituent Assembly (CA) election in 2008, the newly formed CA declared Nepal a federal democratic republic, abolished the monarchy, and elected the country's first president. After the CA failed to draft a constitution by a 2012 deadline set by the Supreme Court, then-Prime Minister Baburam BHATTARAI dissolved the CA. Months of negotiations ensued until 2013 when the major political parties agreed to create an interim government headed by then-Chief Justice Khil Raj REGMI with a mandate to hold elections for a new CA. Elections were held in 2013, in which the Nepali Congress (NC) won the largest share of seats in the CA and in 2014 formed a coalition government with the second-place Communist Party of Nepal-Unified Marxist-Leninist (UML) with NC President Sushil KOIRALA serving as prime minister. Nepal's new constitution came into effect in 2015, at which point the CA became the Parliament. Khagda Prasad Sharma OLI served as the first post-constitution prime minister from 2015 to 2016. OLI resigned ahead of a no-confidence motion against him, and Parliament elected Communist Party of Nepal-Maoist (CPN-M) leader Pushpa Kamal DAHAL (aka "Prachanda") prime minister. The constitution provided for a transitional period during which three sets of elections – local, provincial, and national – needed to take place. The first local elections in 20 years occurred in three phases between May and September 2017, and state and federal elections proceeded in two phases in November and December 2017. The parties headed by OLI and DAHAL ran in coalition and swept the parliamentary elections, and OLI, who led the larger of the two parties, was sworn in as prime minister in February 2018. In May 2018, OLI and DAHAL announced the merger of their parties - the UML and CPN-M - to establish the Nepal Communist Party (NCP), which headed the government for roughly two years before infighting led the party to split. OLI from late 2020 sought to dissolve parliament and hold elections. The supreme court in July 2021 declared OLI's efforts unconstitutional and called for an appointment of the opposition-supported NC leader Sher Bahadur DEUBA as prime minister. DEUBA led Nepal with the support of his party and DAHAL's Communist Party of Nepal-Maoist Centre (CPN-MC) until December 2022. The NC won a majority of seats in the parliamentary elections on November 2022, but in late December 2022, DAHAL broke with the ruling coalition and sought a partnership with OLI and the CPN-UML to become prime minister. DAHAL's first post-election cabinet lasted approximately two months, until disagreements over ministerial assignments across the coalition caused OLI to withdraw his support. In March 2023, DAHAL survived a vote of confidence and formed a coalition with the NC to remain prime minister.</p> <p> </p><br>
+<p>During the late 18th and early 19th centuries, the principality of Gorkha united many of the other principalities and states of the sub-Himalayan region into a Nepali Kingdom. Nepal retained its independence after the Anglo-Nepalese War of 1814-16, and the subsequent peace treaty laid the foundations for two centuries of amicable relations between Britain and Nepal. (The Brigade of Gurkhas continues to serve in the British Army to the present day.) In 1951, the Nepali monarch ended the century-old system of hereditary rule and instituted a cabinet system that brought political parties into the government. That arrangement lasted until 1960, when political parties were again banned, but it was reinstated in 1990 with the establishment of a multiparty democracy within the framework of a constitutional monarchy.</p> <p>A Maoist-led insurgency broke out in 1996. During the ensuing 10-year civil war between Maoist and government forces, the monarchy dissolved the cabinet and parliament. In 2001, Crown Prince DIPENDRA first massacred the royal family and then shot himself. His brother GYANENDRA became king, and the monarchy reassumed absolute power the next year. A peace accord in 2006 led to the promulgation of an interim constitution in 2007. After a nationwide Constituent Assembly (CA) election in 2008, the newly formed CA declared Nepal a federal democratic republic, abolished the monarchy, and elected the country's first president. <br><br>When the CA failed to draft a Supreme Court-mandated constitution, then-Prime Minister Baburam BHATTARAI dissolved the CA. An interim government held elections in 2013, in which the Nepali Congress (NC) won the largest share of seats. In 2014, NC formed a coalition government with the second-place Communist Party of Nepal-Unified Marxist-Leninist (UML). Nepal's new constitution came into effect in 2015, at which point the CA became the Parliament and Khagda Prasad Sharma OLI the first post-constitution prime minister (2015-16). He resigned ahead of a no-confidence motion, and Parliament elected Communist Party of Nepal-Maoist (CPN-M) leader Pushpa Kamal DAHAL as prime minister. <br><br>The parties headed by OLI and DAHAL ran in coalition and swept the parliamentary elections in 2017, and OLI was sworn in as prime minister in 2018. OLI's efforts to dissolve parliament and hold elections were declared unconstitutional in 2021, and the opposition-supported NC leader Sher Bahadur DEUBA was named prime minister. The NC won a majority of seats in the parliamentary elections in 2022, but DAHAL then broke with the ruling coalition and partnered with OLI and the CPN-UML to become prime minister. DAHAL's first cabinet lasted about two months, until OLI withdrew his support over disagreements about ministerial assignments. In early 2023, DAHAL survived a vote of confidence and formed a coalition with the NC to remain prime minister.</p><br>
 
 ## Geography
 
@@ -79,7 +79,9 @@ landlocked; strategic location between China and India; contains eight of world'
 ## People and Society
 
 **Population**<br>
-30,899,443 (2023 est.)<br>
+_total_: 31,122,387<br>
+_male_: 15,240,643<br>
+_female_: 15,881,744 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Nepali (singular and plural)<br>
@@ -97,9 +99,9 @@ _major-language sample(s)_: <br>विश्व तथ्य पुस्तक,
 Hindu 81.2%, Buddhist 8.2%, Muslim 5.1%, Kirat 3.2%, Christian 1.8%, other 0.5% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 26.32% (male 4,175,742/female 3,956,153)<br>
-_15-64 years_: 67.52% (male 10,016,748/female 10,846,101)<br>
-_65 years and over_: 6.16% (2023 est.) (male 930,510/female 974,189)<br>
+_0-14 years_: 25.8% (male 4,125,244/female 3,909,135)<br>
+_15-64 years_: 67.8% (male 10,153,682/female 10,957,011)<br>
+_65 years and over_: 6.4% (2024 est.) (male 961,717/female 1,015,598)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.9<br>
@@ -108,21 +110,21 @@ _elderly dependency ratio_: 9.4<br>
 _potential support ratio_: 10.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 27.1 years (2023 est.)<br>
-_male_: 26 years<br>
-_female_: 28.1 years<br>
+_total_: 27.6 years (2024 est.)<br>
+_male_: 26.5 years<br>
+_female_: 28.6 years<br>
 
 **Population growth rate**<br>
-0.74% (2023 est.)<br>
+0.7% (2024 est.)<br>
 
 **Birth rate**<br>
-17.3 births/1,000 population (2023 est.)<br>
+17 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.6 deaths/1,000 population (2023 est.)<br>
+5.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--4.3 migrant(s)/1,000 population (2023 est.)<br>
+-4.4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the population is divided nearly equally between a concentration in the southern-most plains of the Tarai region and the central hilly region; overall density is quite low<br>
@@ -137,9 +139,9 @@ _rate of urbanization_: 3.09% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.96 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2023 est.)<br>
+_15-64 years_: 0.93 male(s)/female<br>
+_65 years and over_: 0.95 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.4 years (2016 est.)<br>
@@ -149,20 +151,20 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 174 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 24.6 deaths/1,000 live births (2023 est.)<br>
-_male_: 25.8 deaths/1,000 live births<br>
-_female_: 23.2 deaths/1,000 live births<br>
+_total_: 24 deaths/1,000 live births (2024 est.)<br>
+_male_: 25.2 deaths/1,000 live births<br>
+_female_: 22.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.7 years (2023 est.)<br>
-_male_: 72 years<br>
-_female_: 73.4 years<br>
+_total population_: 73 years (2024 est.)<br>
+_male_: 72.2 years<br>
+_female_: 73.7 years<br>
 
 **Total fertility rate**<br>
-1.88 children born/woman (2023 est.)<br>
+1.85 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.91 (2023 est.)<br>
+0.9 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 46.7% (2019)<br>

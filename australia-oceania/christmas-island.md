@@ -69,7 +69,9 @@ located along major sea lanes of the Indian Ocean<br>
 ## People and Society
 
 **Population**<br>
-2,205 (2016 est.)<br>
+_total_: 1,692<br>
+_male_: 1,007<br>
+_female_: 685 (2021 est.)<br>
 
 **Nationality**<br>
 _noun_: Christmas Islander(s)<br>
@@ -87,63 +89,18 @@ English (official) 27.6%, Mandarin 17.2%, Malay 17.1%, Cantonese 3.9%, Min Nan 1
 Muslim 19.4%, Buddhist 18.3%, Roman Catholic 8.8%, Protestant 6.5% (includes Anglican 3.6%, Uniting Church 1.2%, other 1.7%), other Christian 3.3%, other 0.6%, none 15.3%, unspecified 27.7% (2016 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 12.79% (male 147/female 135)<br>
-_15-64 years_: 12.2% (male 202/female 67)<br>
-_65 years and over_: 5.44% (male 84/female 36) (2017 est.)<br>
+_0-14 years_: 16.6%<br>
+_15-64 years_: 70.4%<br>
+_65 years and over_: 13% (2021)<br>
 
-**Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+**Median age**<br>
+_total_: 38 years (2021 est.)<br>
 
 **Population growth rate**<br>
 1.11% (2014 est.)<br>
 
-**Birth rate**<br>
-NA<br>
-
-**Death rate**<br>
-NA<br>
-
 **Population distribution**<br>
 majority of the population lives on the northern tip of the island<br>
-
-**Sex ratio**<br>
-NA<br>
-
-**Infant mortality rate**<br>
-_total_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
-**Life expectancy at birth**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
-**Total fertility rate**<br>
-NA<br>
-
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA<br>
-
-**Current health expenditure**<br>
-NA<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
-**Education expenditures**<br>
-NA<br>
 
 ## Environment
 

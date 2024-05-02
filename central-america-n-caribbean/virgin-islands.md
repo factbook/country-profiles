@@ -72,15 +72,17 @@ important location along the Anegada Passage - a key shipping lane for the Panam
 ## People and Society
 
 **Population**<br>
-104,917 (2023 est.)<br>
+_total_: 104,377<br>
+_male_: 49,520<br>
+_female_: 54,857 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Virgin Islander(s) (US citizens)<br>
 _adjective_: Virgin Islander<br>
 
 **Ethnic groups**<br>
-Black 76%, White 15.6%, Asian 1.4%, other 4.9%, mixed 2.1% (2010 est.)<br>
-<strong>note:</strong> 17.4% self-identify as Latino<br>
+African-American or African descent 71.4%, White 13.3%, Indigenous 0.4%, Native Hawaiian and other Pacific Islander 0.1%, other 6.3%, mixed 7.5% (2020 est.)<br>
+<strong>note:</strong> 18.4% self-identify as Latino<br>
 
 **Languages**<br>
 English 71.6%, Spanish or Spanish Creole 17.2%, French or French Creole 8.6%, other 2.5% (2010 est.)<br>
@@ -89,9 +91,9 @@ English 71.6%, Spanish or Spanish Creole 17.2%, French or French Creole 8.6%, ot
 Protestant 65.5%, Roman Catholic 27.1%, other Christians 2.2%, other 1.5%, none 3.7% (2010 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 19.07% (male 10,224/female 9,779)<br>
-_15-64 years_: 60.04% (male 29,796/female 33,197)<br>
-_65 years and over_: 20.89% (2023 est.) (male 9805/female 12,116)<br>
+_0-14 years_: 18.7% (male 9,983/female 9,547)<br>
+_15-64 years_: 59.8% (male 29,519/female 32,899)<br>
+_65 years and over_: 21.5% (2024 est.) (male 10,018/female 12,411)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 64.6<br>
@@ -100,21 +102,21 @@ _elderly dependency ratio_: 34<br>
 _potential support ratio_: 3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42.7 years (2023 est.)<br>
-_male_: 41.7 years<br>
-_female_: 43.7 years<br>
+_total_: 43 years (2024 est.)<br>
+_male_: 42.1 years<br>
+_female_: 43.9 years<br>
 
 **Population growth rate**<br>
--0.49% (2023 est.)<br>
+-0.54% (2024 est.)<br>
 
 **Birth rate**<br>
-11.4 births/1,000 population (2023 est.)<br>
+11.1 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9 deaths/1,000 population (2023 est.)<br>
+9.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--7.3 migrant(s)/1,000 population (2023 est.)<br>
+-7.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 while overall population density throughout the islands is relatively low, concentrations appear around Charlotte Amalie on St. Thomas and Christiansted on St. Croix<br>
@@ -131,23 +133,23 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 0.9 male(s)/female<br>
 _65 years and over_: 0.81 male(s)/female<br>
-_total population_: 0.9 male(s)/female (2023 est.)<br>
+_total population_: 0.9 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.5 deaths/1,000 live births (2023 est.)<br>
-_male_: 8.5 deaths/1,000 live births<br>
-_female_: 6.4 deaths/1,000 live births<br>
+_total_: 7.3 deaths/1,000 live births (2024 est.)<br>
+_male_: 8.3 deaths/1,000 live births<br>
+_female_: 6.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.5 years (2023 est.)<br>
-_male_: 77.3 years<br>
-_female_: 83.9 years<br>
+_total population_: 80.7 years (2024 est.)<br>
+_male_: 77.6 years<br>
+_female_: 84.1 years<br>
 
 **Total fertility rate**<br>
-1.98 children born/woman (2023 est.)<br>
+1.97 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.96 (2023 est.)<br>
+0.95 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

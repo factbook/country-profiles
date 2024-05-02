@@ -78,26 +78,28 @@ strategic location dominating central Mediterranean as well as southern sea and 
 ## People and Society
 
 **Population**<br>
-61,021,855 (2023 est.)<br>
+_total_: 60,964,931<br>
+_male_: 29,414,065<br>
+_female_: 31,550,866 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Italian(s)<br>
 _adjective_: Italian<br>
 
 **Ethnic groups**<br>
-Italian (includes small clusters of German-, French-, and Slovene-Italians in the north and Albanian-Italians and Greek-Italians in the south)<br>
+Italian (includes small clusters of German-, French-, and Slovene-Italians in the north, Albanian-Italians, Croat-Italians, and Greek-Italians in the south)<br>
 
 **Languages**<br>
-Italian (official), German (parts of Trentino-Alto Adige region are predominantly German-speaking), French (small French-speaking minority in Valle d'Aosta region), Slovene (Slovene-speaking minority in the Trieste-Gorizia area)<br>
+Italian (official), German (parts of Trentino-Alto Adige region are predominantly German-speaking), French (small French-speaking minority in Valle d'Aosta region), Slovene (Slovene-speaking minority in the Trieste-Gorizia area), Croatian (in Molise)<br>
 _major-language sample(s)_: <br>L'Almanacco dei fatti del mondo, l'indispensabile fonte per le informazioni di base. (Italian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Christian 80.8% (overwhelmingly Roman Catholic with very small groups of Jehovah's Witnesses and Protestants), Muslim 4.9%, unaffiliated 13.4%, other 0.9% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 12.08% (male 3,772,041/female 3,600,946)<br>
-_15-64 years_: 64.61% (male 19,430,217/female 19,997,042)<br>
-_65 years and over_: 23.31% (2023 est.) (male 6,248,663/female 7,972,946)<br>
+_0-14 years_: 11.9% (male 3,699,167/female 3,531,734)<br>
+_15-64 years_: 64.5% (male 19,378,160/female 19,958,137)<br>
+_65 years and over_: 23.6% (2024 est.) (male 6,336,738/female 8,060,995)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.1<br>
@@ -106,21 +108,21 @@ _elderly dependency ratio_: 37.2<br>
 _potential support ratio_: 2.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 48.1 years (2023 est.)<br>
-_male_: 47 years<br>
-_female_: 49.1 years<br>
+_total_: 48.4 years (2024 est.)<br>
+_male_: 47.4 years<br>
+_female_: 49.4 years<br>
 
 **Population growth rate**<br>
--0.11% (2023 est.)<br>
+-0.08% (2024 est.)<br>
 
 **Birth rate**<br>
-7 births/1,000 population (2023 est.)<br>
+7.1 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-11.3 deaths/1,000 population (2023 est.)<br>
+11.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-3.2 migrant(s)/1,000 population (2023 est.)<br>
+3.4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 despite a distinctive pattern with an industrial north and an agrarian south, a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples), attracting larger and denser populations<br>
@@ -136,8 +138,8 @@ _rate of urbanization_: 0.27% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.79 male(s)/female<br>
+_total population_: 0.93 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 31.4 years (2020 est.)<br>
@@ -146,20 +148,20 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.3 deaths/1,000 live births<br>
+_total_: 3.1 deaths/1,000 live births (2024 est.)<br>
+_male_: 3.2 deaths/1,000 live births<br>
 _female_: 2.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.8 years (2023 est.)<br>
-_male_: 80.5 years<br>
-_female_: 85.3 years<br>
+_total population_: 83 years (2024 est.)<br>
+_male_: 80.7 years<br>
+_female_: 85.5 years<br>
 
 **Total fertility rate**<br>
-1.24 children born/woman (2023 est.)<br>
+1.26 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.6 (2023 est.)<br>
+0.61 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 65.1% (2013)<br>

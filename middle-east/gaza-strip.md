@@ -64,7 +64,9 @@ once a strategic strip of land along Mideast-North African trade routes that has
 ## People and Society
 
 **Population**<br>
-2,098,389 (2023 est.)<br>
+_total_: 2,141,643<br>
+_male_: 1,086,340<br>
+_female_: 1,055,303 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: NA<br>
@@ -82,9 +84,9 @@ Muslim 98.0 - 99.0% (predominantly Sunni), Christian &lt;1.0%, other, unaffiliat
 <strong>note:</strong>  Israel dismantled its settlements in September 2005; Gaza has had no Jewish population since then<br>
 
 **Age structure**<br>
-_0-14 years_: 39.75% (male 415,804/female 394,236)<br>
-_15-64 years_: 57.34% (male 580,693/female 587,807)<br>
-_65 years and over_: 2.91% (2023 est.) (male 31,671/female 27,533)<br>
+_0-14 years_: 38.8% (male 427,450/female 404,288)<br>
+_15-64 years_: 58.3% (male 627,235/female 620,903)<br>
+_65 years and over_: 2.9% (2024 est.) (male 31,655/female 30,112)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 74.3<br>
@@ -94,21 +96,21 @@ _potential support ratio_: 16.5 (2021 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Median age**<br>
-_total_: 19.2 years (2023 est.)<br>
-_male_: 18.9 years<br>
-_female_: 19.5 years<br>
+_total_: 19.5 years (2024 est.)<br>
+_male_: 19.3 years<br>
+_female_: 19.8 years<br>
 
 **Population growth rate**<br>
-2.07% (2023 est.)<br>
+2.02% (2024 est.)<br>
 
 **Birth rate**<br>
-27.5 births/1,000 population (2023 est.)<br>
+26.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-3 deaths/1,000 population (2023 est.)<br>
+2.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--3.8 migrant(s)/1,000 population (2023 est.)<br>
+-3.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population concentrated in major cities, particularly Gaza City in the north<br>
@@ -123,30 +125,30 @@ _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.05 male(s)/female<br>
-_15-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 1.15 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2023 est.)<br>
+_0-14 years_: 1.06 male(s)/female<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 1.05 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 20 deaths/100,000 live births (2020 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Infant mortality rate**<br>
-_total_: 16 deaths/1,000 live births (2023 est.)<br>
-_male_: 17.4 deaths/1,000 live births<br>
-_female_: 14.6 deaths/1,000 live births<br>
+_total_: 15.1 deaths/1,000 live births (2024 est.)<br>
+_male_: 16.3 deaths/1,000 live births<br>
+_female_: 13.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.8 years (2023 est.)<br>
-_male_: 73 years<br>
-_female_: 76.8 years<br>
+_total population_: 75.5 years (2024 est.)<br>
+_male_: 73.7 years<br>
+_female_: 77.4 years<br>
 
 **Total fertility rate**<br>
-3.38 children born/woman (2023 est.)<br>
+3.26 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.64 (2023 est.)<br>
+1.58 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 57.3% (2019/20)<br>

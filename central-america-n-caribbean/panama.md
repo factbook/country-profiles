@@ -78,7 +78,9 @@ strategic location on eastern end of isthmus forming land bridge connecting Nort
 ## People and Society
 
 **Population**<br>
-4,404,108 (2023 est.)<br>
+_total_: 4,470,241<br>
+_male_: 2,251,257<br>
+_female_: 2,218,984 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Panamanian(s)<br>
@@ -92,15 +94,15 @@ Spanish (official), indigenous languages (including Ngabere (or Guaymi), Buglere
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 48.6%, Evangelical 30.2%, other 4.7%, agnostic 0.2%, atheist 0.2%, none 12.3%, unspecified 3.7% (2018 est.)<br>
+Evangelical 55%, Roman Catholic 33.4%, none 10.1%, unspecified 1.5% (2023 est.)<br>
 
 **Demographic profile**<br>
 <p>Panama is a country of demographic and economic contrasts. It is in the midst of a demographic transition, characterized by steadily declining rates of fertility, mortality, and population growth, but disparities persist based on wealth, geography, and ethnicity. Panama has one of the fastest growing economies in Latin America and dedicates substantial funding to social programs, yet poverty and inequality remain prevalent. The indigenous population accounts for a growing share of Panama's poor and extreme poor, while the non-indigenous rural poor have been more successful at rising out of poverty through rural-to-urban labor migration. The government's large expenditures on untargeted, indirect subsidies for water, electricity, and fuel have been ineffective, but its conditional cash transfer program has shown some promise in helping to decrease extreme poverty among the indigenous population.</p><p>Panama has expanded access to education and clean water, but the availability of sanitation and, to a lesser extent, electricity remains poor. The increase in secondary schooling - led by female enrollment - is spreading to rural and indigenous areas, which probably will help to alleviate poverty if educational quality and the availability of skilled jobs improve. Inadequate access to sanitation contributes to a high incidence of diarrhea in Panama's children, which is one of the main causes of Panama's elevated chronic malnutrition rate, especially among indigenous communities.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 25.19% (male 569,439/female 540,143)<br>
-_15-64 years_: 64.87% (male 1,444,638/female 1,412,319)<br>
-_65 years and over_: 9.94% (2023 est.) (male 204,156/female 233,413)<br>
+_0-14 years_: 25% (male 574,336/female 544,180)<br>
+_15-64 years_: 64.8% (male 1,465,907/female 1,433,023)<br>
+_65 years and over_: 10.1% (2024 est.) (male 211,014/female 241,781)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.8<br>
@@ -109,21 +111,21 @@ _elderly dependency ratio_: 13.2<br>
 _potential support ratio_: 7.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.2 years (2023 est.)<br>
-_male_: 30.8 years<br>
-_female_: 31.6 years<br>
+_total_: 31.5 years (2024 est.)<br>
+_male_: 31 years<br>
+_female_: 31.9 years<br>
 
 **Population growth rate**<br>
-1.51% (2023 est.)<br>
+1.48% (2024 est.)<br>
 
 **Birth rate**<br>
-17.7 births/1,000 population (2023 est.)<br>
+17.4 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.9 deaths/1,000 population (2023 est.)<br>
+5.7 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-3.2 migrant(s)/1,000 population (2023 est.)<br>
+3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population is concentrated towards the center of the country, particularly around the Canal, but a sizeable segment of the populace also lives in the far west around David; the eastern third of the country is sparsely inhabited<br>
@@ -137,29 +139,29 @@ _rate of urbanization_: 1.92% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.05 male(s)/female<br>
+_0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.02 male(s)/female<br>
 _65 years and over_: 0.87 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2023 est.)<br>
+_total population_: 1.02 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 50 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.3 deaths/1,000 live births (2023 est.)<br>
-_male_: 16.5 deaths/1,000 live births<br>
-_female_: 14 deaths/1,000 live births<br>
+_total_: 14.2 deaths/1,000 live births (2024 est.)<br>
+_male_: 15.4 deaths/1,000 live births<br>
+_female_: 12.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.4 years (2023 est.)<br>
-_male_: 75.6 years<br>
-_female_: 81.5 years<br>
+_total population_: 79.2 years (2024 est.)<br>
+_male_: 76.4 years<br>
+_female_: 82.2 years<br>
 
 **Total fertility rate**<br>
-2.37 children born/woman (2023 est.)<br>
+2.35 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.15 (2023 est.)<br>
+1.14 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 50.8% (2014/15)<br>
@@ -697,7 +699,7 @@ the Panama National Police is principally responsible for internal law enforceme
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 147,424 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2023)<br>
+_refugees (country of origin)_: 58,158 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2023)<br>
 
 **Illicit drugs**<br>
 <p>not a major consumer or producer of illicit drugs; a prime sea and land passage for drugs, primarily cocaine, from South America to North America and Europe;   drug traffickers also use millions of shipping containers to smuggle drugs to North America and Europe through the Panama</p><br>

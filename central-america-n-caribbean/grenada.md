@@ -72,7 +72,9 @@ the administration of the islands of the Grenadines group is divided between Sai
 ## People and Society
 
 **Population**<br>
-114,299 (2023 est.)<br>
+_total_: 114,621<br>
+_male_: 58,168<br>
+_female_: 56,453 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Grenadian(s)<br>
@@ -88,9 +90,9 @@ English (official), French patois<br>
 Protestant 49.2% (includes Pentecostal 17.2%, Seventh Day Adventist 13.2%, Anglican 8.5%, Baptist 3.2%, Church of God 2.4%, Evangelical 1.9%, Methodist 1.6%, other 1.2%), Roman Catholic 36%, Jehovah's Witness 1.2%, Rastafarian 1.2%, other 5.5%, none 5.7%, unspecified 1.3% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 22.23% (male 13,261/female 12,153)<br>
-_15-64 years_: 65.51% (male 38,112/female 36,765)<br>
-_65 years and over_: 12.26% (2023 est.) (male 6,630/female 7,378)<br>
+_0-14 years_: 21.9% (male 13,095/female 12,003)<br>
+_15-64 years_: 65.3% (male 38,129/female 36,726)<br>
+_65 years and over_: 12.8% (2024 est.) (male 6,944/female 7,724)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.3<br>
@@ -99,21 +101,21 @@ _elderly dependency ratio_: 14.9<br>
 _potential support ratio_: 6.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 35 years (2023 est.)<br>
-_male_: 34.7 years<br>
-_female_: 35.1 years<br>
+_total_: 35.4 years (2024 est.)<br>
+_male_: 35.2 years<br>
+_female_: 35.7 years<br>
 
 **Population growth rate**<br>
-0.29% (2023 est.)<br>
+0.27% (2024 est.)<br>
 
 **Birth rate**<br>
-13.6 births/1,000 population (2023 est.)<br>
+13.3 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8.3 deaths/1,000 population (2023 est.)<br>
+8.4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--2.3 migrant(s)/1,000 population (2023 est.)<br>
+-2.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 approximately one-third of the population is found in the capital of St. George's; the island's population is concentrated along the coast<br>
@@ -130,26 +132,26 @@ _at birth_: 1.1 male(s)/female<br>
 _0-14 years_: 1.09 male(s)/female<br>
 _15-64 years_: 1.04 male(s)/female<br>
 _65 years and over_: 0.9 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2023 est.)<br>
+_total population_: 1.03 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 21 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 8.8 deaths/1,000 live births<br>
-_female_: 9.7 deaths/1,000 live births<br>
+_total_: 9 deaths/1,000 live births (2024 est.)<br>
+_male_: 8.6 deaths/1,000 live births<br>
+_female_: 9.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76 years (2023 est.)<br>
-_male_: 73.4 years<br>
-_female_: 78.8 years<br>
+_total population_: 76.3 years (2024 est.)<br>
+_male_: 73.7 years<br>
+_female_: 79.1 years<br>
 
 **Total fertility rate**<br>
-1.92 children born/woman (2023 est.)<br>
+1.9 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.91 (2023 est.)<br>
+0.91 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

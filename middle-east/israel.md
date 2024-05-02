@@ -77,7 +77,9 @@ sandstorms may occur during spring and summer; droughts; periodic earthquakes<br
 ## People and Society
 
 **Population**<br>
-9,043,387 (2023 est.) (includes populations of the Golan Heights or Golan Sub-District and also East Jerusalem, which was annexed by Israel after 1967)<br>
+_total_: 9,402,617<br>
+_male_: 4,731,275<br>
+_female_: 4,671,342 (2024 est.)<br>
 <strong>note:</strong> approximately 236,600 Israeli settlers live in East Jerusalem (2021); following the March 2019 US recognition of the Golan Heights as being part of Israel, <em>The World Factbook</em> no longer includes Israeli settler population of the Golan Heights (estimated at 23,400 in 2019) in its overall Israeli settler total<br>
 
 **Nationality**<br>
@@ -95,9 +97,9 @@ _major-language sample(s)_: <br>ספר עובדות העולם, המקור הח�
 Jewish 73.5%, Muslim 18.1%, Christian 1.9%, Druze 1.6%, other 4.9% (2022 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 25.96% (male 1,200,721/female 1,146,556)<br>
-_15-64 years_: 61.66% (male 2,839,124/female 2,737,054)<br>
-_65 years and over_: 12.38% (2023 est.) (male 506,536/female 613,396)<br>
+_0-14 years_: 27.5% (male 1,320,629/female 1,260,977)<br>
+_15-64 years_: 60.3% (male 2,885,485/female 2,781,777)<br>
+_65 years and over_: 12.3% (2024 est.) (male 525,161/female 628,588)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 66.9<br>
@@ -106,21 +108,21 @@ _elderly dependency ratio_: 19.9<br>
 _potential support ratio_: 5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30.1 years (2023 est.)<br>
-_male_: 29.5 years<br>
+_total_: 30.1 years (2024 est.)<br>
+_male_: 29.6 years<br>
 _female_: 30.7 years<br>
 
 **Population growth rate**<br>
-1.56% (2023 est.)<br>
+1.58% (2024 est.)<br>
 
 **Birth rate**<br>
-19.3 births/1,000 population (2023 est.)<br>
+19.1 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.6 deaths/1,000 population (2023 est.)<br>
+5.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-1.9 migrant(s)/1,000 population (2023 est.)<br>
+1.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population concentrated in and around Tel-Aviv, as well as around the Sea of Galilee; the south remains sparsely populated with the exception of the shore of the Gulf of Aqaba<br>
@@ -136,8 +138,8 @@ _rate of urbanization_: 1.51% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 1.04 male(s)/female<br>
-_65 years and over_: 0.83 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.84 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.7 years (2019 est.)<br>
@@ -146,20 +148,20 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.6 deaths/1,000 live births<br>
-_female_: 2.5 deaths/1,000 live births<br>
+_total_: 2.8 deaths/1,000 live births (2024 est.)<br>
+_male_: 3.3 deaths/1,000 live births<br>
+_female_: 2.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.2 years (2023 est.)<br>
-_male_: 80.2 years<br>
-_female_: 84.3 years<br>
+_total population_: 83.1 years (2024 est.)<br>
+_male_: 81.1 years<br>
+_female_: 85.1 years<br>
 
 **Total fertility rate**<br>
-2.94 children born/woman (2023 est.)<br>
+2.92 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.44 (2023 est.)<br>
+1.42 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

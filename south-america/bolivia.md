@@ -83,7 +83,9 @@ a high altitude plain in the west between two cordillera of the Andes, known as 
 ## People and Society
 
 **Population**<br>
-12,186,079 (2023 est.)<br>
+_total_: 12,311,974<br>
+_male_: 6,192,774<br>
+_female_: 6,119,200 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Bolivian(s)<br>
@@ -104,9 +106,9 @@ Roman Catholic 65%, Protestant 19.6% (Evangelical (non-specific) 11.9%, Evangeli
 <p>Bolivia ranks at or near the bottom among Latin American countries in several areas of health and development, including poverty, education, fertility, malnutrition, mortality, and life expectancy. On the positive side, more children are being vaccinated and more pregnant women are getting prenatal care and having skilled health practitioners attend their births.</p><p>Bolivia’s income inequality is the highest in Latin America and one of the highest in the world. Public education is of poor quality, and educational opportunities are among the most unevenly distributed in Latin America, with girls and indigenous and rural children less likely to be literate or to complete primary school. The lack of access to education and family planning services helps to sustain Bolivia’s high fertility rate—approximately three children per woman. Bolivia’s lack of clean water and basic sanitation, especially in rural areas, contributes to health problems.</p><p>Between 7% and 16% of Bolivia’s population lives abroad (estimates vary in part because of illegal migration). Emigrants primarily seek jobs and better wages in Argentina (the principal destination), the US, and Spain. In recent years, more restrictive immigration policies in Europe and the US have increased the flow of Bolivian emigrants to neighboring countries. Fewer Bolivians migrated to Brazil in 2015 and 2016 because of its recession; increasing numbers have been going to Chile, mainly to work as miners.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 29.14% (male 1,813,044/female 1,737,699)<br>
-_15-64 years_: 64.03% (male 3,929,462/female 3,872,943)<br>
-_65 years and over_: 6.84% (2023 est.) (male 384,356/female 448,575)<br>
+_0-14 years_: 28.5% (male 1,792,803/female 1,718,081)<br>
+_15-64 years_: 64.5% (male 4,002,587/female 3,937,953)<br>
+_65 years and over_: 7% (2024 est.) (male 397,384/female 463,166)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.3<br>
@@ -115,21 +117,21 @@ _elderly dependency ratio_: 12<br>
 _potential support ratio_: 8.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 26.2 years (2023 est.)<br>
-_male_: 25.9 years<br>
-_female_: 26.6 years<br>
+_total_: 26.6 years (2024 est.)<br>
+_male_: 26.2 years<br>
+_female_: 27 years<br>
 
 **Population growth rate**<br>
-1.06% (2023 est.)<br>
+1% (2024 est.)<br>
 
 **Birth rate**<br>
-18.1 births/1,000 population (2023 est.)<br>
+17.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.5 deaths/1,000 population (2023 est.)<br>
+6.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1 migrant(s)/1,000 population (2023 est.)<br>
+-1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 a high altitude plain in the west between two cordillera of the Andes, known as the Altiplano, is the focal area for most of the population; a dense settlement pattern is also found in and around the city of Santa Cruz, located on the eastern side of the Andes<br>
@@ -144,9 +146,9 @@ _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-64 years_: 1.01 male(s)/female<br>
+_15-64 years_: 1.02 male(s)/female<br>
 _65 years and over_: 0.86 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2023 est.)<br>
+_total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.1 years (2008 est.)<br>
@@ -156,20 +158,20 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 161 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.3 deaths/1,000 live births (2023 est.)<br>
+_total_: 22.3 deaths/1,000 live births (2024 est.)<br>
 _male_: 24.5 deaths/1,000 live births<br>
 _female_: 20 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.5 years (2023 est.)<br>
+_total population_: 72.5 years (2024 est.)<br>
 _male_: 71 years<br>
 _female_: 74 years<br>
 
 **Total fertility rate**<br>
-2.26 children born/woman (2023 est.)<br>
+2.2 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.1 (2023 est.)<br>
+1.07 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.5% (2016)<br>
@@ -739,7 +741,7 @@ has a small space program focused on acquiring and operating satellites; operate
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,700 (Venezuela) (2022)<br>
+_refugees (country of origin)_: 16,350 (Venezuela) (2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Bolivia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government adopted a National Action Plan for the elimination of trafficking and reportedly sentenced three traffickers who had been detained since 2016; however, Bolivia did not demonstrate overall increasing efforts compared with the previous reporting period; officials did not report investigating, prosecuting, or convicting traffickers and did not report identifying or referring victims to care; therefore, Bolivia was downgraded to Tier 2 Watch List (2023)<br>

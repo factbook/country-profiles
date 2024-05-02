@@ -72,7 +72,9 @@ largest and southernmost island in the Mariana Islands archipelago and the large
 ## People and Society
 
 **Population**<br>
-169,330 (2023 est.)<br>
+_total_: 169,532<br>
+_male_: 87,345<br>
+_female_: 82,187 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Guamanian(s) (US citizens)<br>
@@ -88,9 +90,9 @@ English 43.3%, Filipino 24.9%, Chamorro 16%, other Pacific Island languages 9.4%
 Christian (predominantly Roman Catholic) 94.2%, folk religions 1.5%, Buddhist 1.1%, other 1.6%, unaffiliated 1.7% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 26.64% (male 23,325/female 21,792)<br>
-_15-64 years_: 62.85% (male 55,606/female 50,816)<br>
-_65 years and over_: 10.51% (2023 est.) (male 8,290/female 9,501)<br>
+_0-14 years_: 26.4% (male 23,139/female 21,632)<br>
+_15-64 years_: 62.7% (male 55,591/female 50,741)<br>
+_65 years and over_: 10.9% (2024 est.) (male 8,615/female 9,814)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 60.7<br>
@@ -99,21 +101,21 @@ _elderly dependency ratio_: 18.4<br>
 _potential support ratio_: 5.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30.1 years (2023 est.)<br>
-_male_: 29.4 years<br>
-_female_: 30.8 years<br>
+_total_: 30.3 years (2024 est.)<br>
+_male_: 29.6 years<br>
+_female_: 31.1 years<br>
 
 **Population growth rate**<br>
-0.13% (2023 est.)<br>
+0.11% (2024 est.)<br>
 
 **Birth rate**<br>
-18.3 births/1,000 population (2023 est.)<br>
+18.1 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.1 deaths/1,000 population (2023 est.)<br>
+6.1 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--10.9 migrant(s)/1,000 population (2023 est.)<br>
+-10.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 no large cities exist on the island, though large villages (municipalities) attract much of the population; the largest of these is Dededo<br>
@@ -128,25 +130,25 @@ _rate of urbanization_: 0.84% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
-_15-64 years_: 1.09 male(s)/female<br>
-_65 years and over_: 0.87 male(s)/female<br>
-_total population_: 1.06 male(s)/female (2023 est.)<br>
+_15-64 years_: 1.1 male(s)/female<br>
+_65 years and over_: 0.88 male(s)/female<br>
+_total population_: 1.06 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 11.2 deaths/1,000 live births<br>
-_female_: 11.2 deaths/1,000 live births<br>
+_total_: 10.9 deaths/1,000 live births (2024 est.)<br>
+_male_: 11 deaths/1,000 live births<br>
+_female_: 10.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.7 years (2023 est.)<br>
-_male_: 75.3 years<br>
-_female_: 80.3 years<br>
+_total population_: 78 years (2024 est.)<br>
+_male_: 75.6 years<br>
+_female_: 80.5 years<br>
 
 **Total fertility rate**<br>
-2.76 children born/woman (2023 est.)<br>
+2.73 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.33 (2023 est.)<br>
+1.32 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

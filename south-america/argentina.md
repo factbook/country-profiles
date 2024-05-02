@@ -89,7 +89,9 @@ one-third of the population lives in Buenos Aires; pockets of agglomeration occu
 ## People and Society
 
 **Population**<br>
-46,621,847 (2023 est.)<br>
+_total_: 46,994,384<br>
+_male_: 23,274,794<br>
+_female_: 23,719,590 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Argentine(s)<br>
@@ -109,9 +111,9 @@ Roman Catholic 62.9%, Evangelical 15.3% (Pentecostal 13%, other Evangelical 2.3%
 <p>Argentina’s population continues to grow but at a slower rate because of its steadily declining birth rate. Argentina’s fertility decline began earlier than in the rest of Latin America, occurring most rapidly between the early 20th century and the 1950s and then becoming more gradual in the 1990s.  Life expectancy has been improving, most notably among the young and the poor. While the population under age 15 is shrinking, the youth cohort – ages 15 – 24 – is the largest in Argentina’s history and will continue to bolster the working-age population. If this large working-age population is well-educated and gainfully employed, Argentina is likely to experience an economic boost and possibly higher per capita savings and investment. Although literacy and primary school enrollment are nearly universal, grade repetition is problematic and secondary school completion is low. Both of these issues vary widely by region and socioeconomic group. Only 24% of Argentinians complete tertiary education.  With wages failing to keep pace with soaring inflation – one of the highest in the world – the poverty rate has climbed to over 4]0% in the first half of 2023.</p> <p>Argentina has been primarily a country of immigration for most of its history, welcoming European immigrants (often providing needed low-skilled labor) after its independence in the 19th century and attracting especially large numbers from Spain and Italy. More than 7 million European immigrants are estimated to have arrived in Argentina between 1880 and 1930 (composing 30% of the total population by 1914), when it adopted a more restrictive immigration policy.  European immigration also began to wane in the 1930s because of the global depression.  The inflow rebounded temporarily following WWII and resumed its decline in the 1950s when Argentina’s military dictators tightened immigration rules and European economies rebounded. Regional migration increased, however, supplying low-skilled workers escaping economic and political instability in their home countries. As of 2022, immigrants make up 3.1% of the population, with over half coming from Paraguay and Bolivia.  Despite runaway inflation, hundreds of thousands immigrants arrive each year.</p> <p>The first waves of highly skilled Argentine emigrant workers headed mainly to the United States and Spain in the 1960s and 1970s, driven by economic decline and repressive military dictatorships. The 2008 European economic crisis drove the return migration of some Argentinean and other Latin American nationals, as well as the immigration of Europeans to South America, where Argentina was a key recipient. </p><br>
 
 **Age structure**<br>
-_0-14 years_: 23.51% (male 5,645,070/female 5,316,156)<br>
-_15-64 years_: 63.83% (male 14,929,084/female 14,827,733)<br>
-_65 years and over_: 12.66% (2023 est.) (male 2,511,984/female 3,391,820)<br>
+_0-14 years_: 23.3% (male 5,632,983/female 5,301,778)<br>
+_15-64 years_: 63.9% (male 15,071,215/female 14,956,069)<br>
+_65 years and over_: 12.8% (2024 est.) (male 2,570,596/female 3,461,743)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.3<br>
@@ -120,21 +122,21 @@ _elderly dependency ratio_: 18.2<br>
 _potential support ratio_: 5.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 33 years (2023 est.)<br>
-_male_: 31.8 years<br>
-_female_: 34.3 years<br>
+_total_: 33.3 years (2024 est.)<br>
+_male_: 32.1 years<br>
+_female_: 34.6 years<br>
 
 **Population growth rate**<br>
-0.8% (2023 est.)<br>
+0.79% (2024 est.)<br>
 
 **Birth rate**<br>
-15.4 births/1,000 population (2023 est.)<br>
+15.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.3 deaths/1,000 population (2023 est.)<br>
+7.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.1 migrant(s)/1,000 population (2023 est.)<br>
+-0.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated<br>
@@ -151,26 +153,26 @@ _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.01 male(s)/female<br>
 _65 years and over_: 0.74 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2023 est.)<br>
+_total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 45 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 10.1 deaths/1,000 live births<br>
-_female_: 8.1 deaths/1,000 live births<br>
+_total_: 9 deaths/1,000 live births (2024 est.)<br>
+_male_: 9.9 deaths/1,000 live births<br>
+_female_: 7.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.6 years (2023 est.)<br>
-_male_: 75.5 years<br>
-_female_: 81.8 years<br>
+_total population_: 78.8 years (2024 est.)<br>
+_male_: 75.8 years<br>
+_female_: 82 years<br>
 
 **Total fertility rate**<br>
-2.17 children born/woman (2023 est.)<br>
+2.15 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.05 (2023 est.)<br>
+1.04 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 70.1% (2019/20)<br>
@@ -736,13 +738,13 @@ the Argentine military’s primary responsibilities are territorial defense and 
 ## Space
 
 **Space agency/agencies**<br>
-Argentina National Space Activities Commission (Comision Nacional de Actividades Espaciales, CONAE; formed in 1991); CONAE&rsquo;s predecessor was the National Commission for Space Research (Comisi&oacute;n Nacional de Investigaciones Espaciales, CNIE; formed in 1960) (2023)<br>
+Argentina National Space Activities Commission (Comision Nacional de Actividades Espaciales, CONAE; formed in 1991); CONAE&rsquo;s predecessor was the National Commission for Space Research (Comisi&oacute;n Nacional de Investigaciones Espaciales, CNIE; formed in 1960) (2024)<br>
 
 **Space launch site(s)**<br>
-Manuel Belgrano Space Center (Buenos Aires province); La Capetina test and launch area (Buenos Aires province) (2023)<br>
+Manuel Belgrano Space Center (Buenos Aires province): planned launch platform of the Tronador SLV (see Appendix S); Punta Indio Space Center (Buenos Aires province): test facility; Teofilo Tabanera Space Center (CETT; Cordoba Province): testing, mission control site (2024)<br>
 
 **Space program overview**<br>
-has a long history of involvement in the development of space-related capabilities, including rockets and satellites; develops, builds, and operates communications, remote sensing (RS), and scientific satellites, often in partnership with other countries; developing additional satellites with more advanced payloads; contracts with commercial and other government space agencies for launches but has a domestic rocket program and is developing space launch vehicle (SLV) capabilities; cooperates with a broad range of space agencies and industries, including those of Brazil, China, the European Space Agency and its member states (particularly France, Italy), and the US; also has a commercial space industry, which includes efforts to design, build, and launch reusable small SLVs (2023)<br>
+has a long history of involvement in the development of space-related capabilities, including rockets and satellites; develops, builds, and operates communications, remote sensing (RS), and scientific satellites, often in partnership with other countries; developing additional satellites with more advanced payloads; has a national space plan; contracts with commercial and other government space agencies for launches but has a domestic rocket program and is developing space launch vehicle (SLV) capabilities; cooperates with a broad range of space agencies and industries, including those of Brazil, China, the European Space Agency and its member states (particularly France, Italy), and the US; also has a commercial space industry, which includes efforts to design, build, and launch reusable small SLVs (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism
@@ -754,7 +756,7 @@ Hizballah<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 220,495 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022)<br>
+_refugees (country of origin)_: 217,742 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)<br>
 
 **Illicit drugs**<br>
 <p>counterfeiting, drug trafficking, and other smuggling offenses in the Tri-Border area; some money laundering organizations in the TBA have may have links to the terrorist organization Hizballah; a large producer of chemical precursors</p><br>

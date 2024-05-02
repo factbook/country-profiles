@@ -73,7 +73,9 @@ strategic geopolitical position along world's busiest shipping lanes; Eritrea re
 ## People and Society
 
 **Population**<br>
-6,274,796 (2023 est.)<br>
+_total_: 6,343,956<br>
+_male_: 3,122,433<br>
+_female_: 3,221,523 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Eritrean(s)<br>
@@ -93,9 +95,9 @@ Eritrean Orthodox, Roman Catholic, Evangelical Lutheran, Sunni Muslim<br>
 <p>Eritrea is a persistently poor country that has made progress in some socioeconomic categories but not in others. Education and human capital formation are national priorities for facilitating economic development and eradicating poverty. To this end, Eritrea has made great strides in improving adult literacy – doubling the literacy rate over the last 20 years – in large part because of its successful adult education programs. The overall literacy rate was estimated to be more than 75% in 2018; more work needs to be done to raise female literacy and school attendance among nomadic and rural communities. Subsistence farming fails to meet the needs of Eritrea’s growing population because of repeated droughts, dwindling arable land, overgrazing, soil erosion, and a shortage of farmers due to conscription and displacement. The government’s emphasis on spending on defense over agriculture and its lack of foreign exchange to import food also contribute to food insecurity.</p> <p>Eritrea has been a leading refugee source country since at least the 1960s, when its 30-year war for independence from Ethiopia began. Since gaining independence in 1993, Eritreans have continued migrating to Sudan, Ethiopia, Yemen, Egypt, or Israel because of a lack of basic human rights or political freedom, educational and job opportunities, or to seek asylum because of militarization. Eritrea’s large diaspora has been a source of vital remittances, funding its war for independence and providing 30% of the country’s GDP annually since it became independent.</p> <p>In the last few years, Eritreans have increasingly been trafficked and held hostage by Bedouins in the Sinai Desert, where they are victims of organ harvesting, rape, extortion, and torture. Some Eritrean trafficking victims are kidnapped after being smuggled to Sudan or Ethiopia, while others are kidnapped from within or around refugee camps or crossing Eritrea’s borders. Eritreans composed approximately 90% of the conservatively estimated 25,000-30,000 victims of Sinai trafficking from 2009-2013, according to a 2013 consultancy firm report.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 36.27% (male 1,145,134/female 1,130,829)<br>
-_15-64 years_: 59.73% (male 1,842,953/female 1,904,677)<br>
-_65 years and over_: 4% (2023 est.) (male 100,158/female 151,045)<br>
+_0-14 years_: 35.7% (male 1,138,382/female 1,123,925)<br>
+_15-64 years_: 60.3% (male 1,882,547/female 1,944,266)<br>
+_65 years and over_: 4% (2024 est.) (male 101,504/female 153,332)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 77.9<br>
@@ -104,21 +106,21 @@ _elderly dependency ratio_: 7.1<br>
 _potential support ratio_: 14 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21 years (2023 est.)<br>
-_male_: 20.5 years<br>
-_female_: 21.5 years<br>
+_total_: 21.3 years (2024 est.)<br>
+_male_: 20.8 years<br>
+_female_: 21.8 years<br>
 
 **Population growth rate**<br>
-1.08% (2023 est.)<br>
+1.12% (2024 est.)<br>
 
 **Birth rate**<br>
-26.7 births/1,000 population (2023 est.)<br>
+26.3 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.6 deaths/1,000 population (2023 est.)<br>
+6.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--9.4 migrant(s)/1,000 population (2023 est.)<br>
+-8.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 density is highest in the center of the country in and around the cities of Asmara (capital) and Keren; smaller settlements exist in the north and south as shown in this population distribution map<br>
@@ -135,7 +137,7 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-64 years_: 0.97 male(s)/female<br>
 _65 years and over_: 0.66 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2023 est.)<br>
+_total population_: 0.97 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.3 years (2010 est.)<br>
@@ -145,20 +147,20 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 322 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 40.6 deaths/1,000 live births (2023 est.)<br>
-_male_: 47.5 deaths/1,000 live births<br>
-_female_: 33.6 deaths/1,000 live births<br>
+_total_: 39.8 deaths/1,000 live births (2024 est.)<br>
+_male_: 46.6 deaths/1,000 live births<br>
+_female_: 32.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.2 years (2023 est.)<br>
-_male_: 64.6 years<br>
-_female_: 69.9 years<br>
+_total population_: 67.5 years (2024 est.)<br>
+_male_: 64.9 years<br>
+_female_: 70.2 years<br>
 
 **Total fertility rate**<br>
-3.5 children born/woman (2023 est.)<br>
+3.43 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.73 (2023 est.)<br>
+1.69 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

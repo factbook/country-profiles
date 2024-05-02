@@ -78,8 +78,9 @@ consists of Oman proper and two northern exclaves, Musandam and Al Madhah; the f
 ## People and Society
 
 **Population**<br>
-3,833,465 (2023 est.)<br>
-<strong>note:</strong> immigrants make up approximately 46% of the total population (2019)<br>
+_total_: 3,901,992<br>
+_male_: 2,096,126<br>
+_female_: 1,805,866 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Omani(s)<br>
@@ -97,9 +98,9 @@ Muslim 85.9%, Christian 6.4%, Hindu 5.7%, other and unaffiliated 2% (2020 est.)<
 <strong>note:</strong> Omani citizens represent approximately 56.4% of the population and are overwhelming Muslim (Ibadhi and Sunni sects each constitute about 45% and Shia about 5%); Christians, Hindus, and Buddhists account for roughly 5% of Omani citizens<br>
 
 **Age structure**<br>
-_0-14 years_: 29.88% (male 586,608/female 558,770)<br>
-_15-64 years_: 66.17% (male 1,404,289/female 1,132,250)<br>
-_65 years and over_: 3.95% (2023 est.) (male 70,976/female 80,572)<br>
+_0-14 years_: 29.8% (male 594,909/female 566,682)<br>
+_15-64 years_: 66.2% (male 1,428,141/female 1,155,438)<br>
+_65 years and over_: 4% (2024 est.) (male 73,076/female 83,746)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 42<br>
@@ -108,21 +109,21 @@ _elderly dependency ratio_: 4<br>
 _potential support ratio_: 25.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 27.1 years (2023 est.)<br>
-_male_: 27.9 years<br>
-_female_: 26 years<br>
+_total_: 27.3 years (2024 est.)<br>
+_male_: 28.1 years<br>
+_female_: 26.3 years<br>
 
 **Population growth rate**<br>
-1.8% (2023 est.)<br>
+1.75% (2024 est.)<br>
 
 **Birth rate**<br>
-21.6 births/1,000 population (2023 est.)<br>
+21.1 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-3.2 deaths/1,000 population (2023 est.)<br>
+3.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.5 migrant(s)/1,000 population (2023 est.)<br>
+-0.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the population is located in and around the Al Hagar Mountains in the north of the country; another smaller cluster is found around the city of Salalah in the far south; most of the country remains sparsely poplulated<br>
@@ -138,27 +139,27 @@ _rate of urbanization_: 2.32% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 1.24 male(s)/female<br>
-_65 years and over_: 0.88 male(s)/female<br>
-_total population_: 1.16 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.87 male(s)/female<br>
+_total population_: 1.16 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 17 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 15.4 deaths/1,000 live births<br>
-_female_: 12.9 deaths/1,000 live births<br>
+_total_: 13.9 deaths/1,000 live births (2024 est.)<br>
+_male_: 15.1 deaths/1,000 live births<br>
+_female_: 12.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.2 years (2023 est.)<br>
-_male_: 75.2 years<br>
-_female_: 79.2 years<br>
+_total population_: 77.4 years (2024 est.)<br>
+_male_: 75.5 years<br>
+_female_: 79.4 years<br>
 
 **Total fertility rate**<br>
-2.67 children born/woman (2023 est.)<br>
+2.64 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.3 (2023 est.)<br>
+1.29 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 29.7% (2014)<br>

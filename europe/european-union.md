@@ -58,8 +58,9 @@ flooding along coasts; avalanches in mountainous area; earthquakes in the south;
 ## People and Society
 
 **Population**<br>
-450,858,381 (2022 est.)<br>
-<strong>rank by population:</strong>   <ol> <li>Germany - 84,316,622; </li> <li>France - 68,305,148; </li> <li>Italy - 61,095,551; </li> <li>Spain - 47,163,418; </li> <li>Poland - 38,093,101; </li> <li>Romania - 18,519,899; </li> <li>Netherlands - 17,400,824; </li> <li>Belgium - 11,847,338; </li> <li>Czechia - 10,705,384; </li> <li>Greece - 10,533,871; </li> <li>Sweden - 10,483,647; </li> <li>Portugal - 10,242,081; </li> <li>Hungary - 9,699,577; </li> <li>Austria - 8,913,088; </li> <li>Bulgaria - 6,873,253; </li> <li>Denmark - 5,920,767; </li> <li>Finland - 5,601,547; </li> <li>Slovakia - 5,431,252; </li> <li>Ireland - 5,275,004; </li> <li>Croatia - 4,188,853; </li> <li>Lithuania - 2,683,546; </li> <li>Slovenia - 2,101,208; </li> <li>Latvia - 1,842,226; </li> <li>Cyprus - 1,295,102; </li> <li>Estonia - 1,211,524; </li> <li>Luxembourg - 650,364; </li> <li>Malta - 464,186 (2022 est.)</li> </ol> <br>
+_total_: 451,815,312<br>
+_male_: 220,631,332<br>
+_female_: 231,183,980 (2024 est.)<br>
 
 **Languages**<br>
 Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovene, Spanish, Swedish<br>
@@ -69,9 +70,9 @@ Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, G
 Roman Catholic 41%, Orthodox 10%, Protestant 9%, other Christian 4%, Muslim 2%, other 4% (includes Jewish, Sikh, Buddhist, Hindu), atheist 10%, non-believer/agnostic 17%, unspecified 3% (2019 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 15.05% (male 34,978,216/female 33,217,600)<br>
-_15-64 years_: 10.39% (male 24,089,260/female 22,990,579)<br>
-_65 years and over_: 20.5% (male 39,834,507/female 53,020,673) (2020 est.)<br>
+_0-14 years_: 14.5% (male 33,606,273/female 31,985,118)<br>
+_15-64 years_: 63.5% (male 143,874,460/female 143,104,994)<br>
+_65 years and over_: 22% (2024 est.) (male 43,150,599/female 56,093,868)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -85,13 +86,13 @@ _male_: 42.6 years<br>
 _female_: 45.5 years<br>
 
 **Population growth rate**<br>
-(2021 est.) 0.10%<br>
+0.1% (2021 est.)<br>
 
 **Birth rate**<br>
-(2020 est.) 9.5 births/1,000 population<br>
+8.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-(2021 est.) 10.7 deaths/1,000 population<br>
+11.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
 -2.85 migrant(s)/1,000 population<br>
@@ -100,16 +101,14 @@ _female_: 45.5 years<br>
 population distribution varies considerably from country to country but tends to follow a pattern of coastal and river settlement, with urban agglomerations forming large hubs facilitating large scale housing, industry, and commerce; the area in and around the Netherlands, Belgium, and Luxembourg (known collectively as Benelux), is the most densely populated area in the EU<br>
 
 **Sex ratio**<br>
-_at birth_: 1.06 male(s)/female<br>
+_at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-64 years_: 1.05 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2020 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.47 deaths/1,000 live births (2021)<br>
-_male_: 3.32 deaths/1,000 live births<br>
-_female_: 3.62 deaths/1,000 live births<br>
+_total_: 3.4 deaths/1,000 live births (2024 est.)<br>
 
 **Life expectancy at birth**<br>
 _total population_: 77.63 years (2021)<br>
@@ -117,7 +116,10 @@ _male_: 72.98 years<br>
 _female_: 82.51 years<br>
 
 **Total fertility rate**<br>
-(2021 est.) 1.62 children born/woman<br>
+1.54 children born/woman (2024 est.)<br>
+
+**Gross reproduction rate**<br>
+0.75 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

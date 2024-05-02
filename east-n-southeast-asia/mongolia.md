@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The peoples of Mongolia have a long history under a number of nomadic empires dating back to the period of the Xiongnu in the 4th century B.C. The name Mongol goes back to at least the 11th century A.D. The most famous Mongol, TEMÜÜJIN (aka Genghis Khan) emerged as the ruler of all Mongols in the early 1200s. By the time of his death in 1227, he had created through conquest a Mongol Empire that extended across much of Eurasia. His descendants, including ÖGÖDEI and KHUBILAI (aka Kublai Khan), continued military campaigns of conquest, taking control of Eastern Europe, the Middle East, and the rest of China where KHUBILAI established the Yuan Dynasty in the 1270s. The Mongols attempted to invade Japan and Java before their empire broke apart in the 14th century. In the 17th century, Mongolia fell under the rule of the Manchus of the Chinese Qing Dynasty. Following the collapse of the Manchus in 1911, Mongolia declared its independence, achieving it with help from the Soviet Union in 1921. Mongolia became a socialist state (the Mongolian People’s Republic) in 1924. Following independence and until the collapse of the Soviet Union in 1989, the country was a Soviet satellite state, and heavily reliant on economic, military, and political assistance from Moscow. The period also was marked by purges, political repression, economic stagnation, and tensions with China. <br><br>Mongolia peacefully transitioned to an independent democracy in 1990. In 1992, it adopted a new constitution and established a free market economy. Since the country's transition, it has conducted a series of successful presidential and legislative elections. Throughout the period, the ex-communist Mongolian People's Revolutionary Party (MPRP) - which took the name Mongolian People’s Party (MPP) in 2010 - has competed for political power with the Democratic Party (DP) and several other smaller parties. In the 2016 parliamentary elections, the MPP won overwhelming control of the Parliament over the DP, which had overseen a sharp decline in Mongolia’s economy during its control of the Parliament in the preceding years. Mongolians elected a DP member, Khaltmaa BATTULGA, as president in 2017. The June 2020 parliamentary elections left the MPP with continued dominant control of the parliament. Mongolians elected former prime minister and MPP member Ukhnaa KHURELSUKH as president in 2021. <br><br>Mongolia maintains close cultural, political, and military ties with Russia while China is its largest economic partner. Mongolia’s foreign relations are focused on preserving its autonomy by balancing relations with China and Russia, as well as its other major partners, Japan, South Korea, and the US.</p><br>
+<p>The peoples of Mongolia have a long history under a number of nomadic empires dating back to the Xiongnu in the 4th century B.C., and the name Mongol goes back to at least the 11th century A.D. The most famous Mongol, TEMÜÜJIN (aka Genghis Khan), emerged as the ruler of all Mongols in the early 1200s. By the time of his death in 1227, he had created through conquest a Mongol Empire that extended across much of Eurasia. His descendants, including ÖGÖDEI and KHUBILAI (aka Kublai Khan), continued to conquer Eastern Europe, the Middle East, and the rest of China, where KHUBILAI established the Yuan Dynasty in the 1270s. The Mongols attempted to invade Japan and Java before their empire broke apart in the 14th century. In the 17th century, Mongolia fell under the rule of the Manchus of the Chinese Qing Dynasty. After Manchu rule collapsed in 1911, Mongolia declared independence, finally winning it in 1921 with help from the Soviet Union. Mongolia became a socialist state (the Mongolian People’s Republic) in 1924. Until the collapse of the Soviet Union in 1989, Mongolia was a Soviet satellite state and relied heavily on economic, military, and political assistance from Moscow. The period was also marked by purges, political repression, economic stagnation, and tensions with China. <br><br>Mongolia peacefully transitioned to an independent democracy in 1990. In 1992, it adopted a new constitution and established a free-market economy. Since the country's transition, it has conducted a series of successful presidential and legislative elections. Throughout the period, the ex-communist Mongolian People's Revolutionary Party (MPRP) -- which took the name Mongolian People’s Party (MPP) in 2010 -- has competed for political power with the Democratic Party (DP) and several other smaller parties. In the 2016 parliamentary elections, the MPP won overwhelming control over the DP, which had overseen a sharp decline in Mongolia’s economy in the preceding years. Mongolians elected a DP member, Khaltmaa BATTULGA, as president in 2017. The 2020 parliamentary elections left the MPP with continued control of the parliament. Mongolians elected former prime minister and MPP member Ukhnaa KHURELSUKH as president in 2021. <br><br>Mongolia maintains close cultural, political, and military ties with Russia, while China is its largest economic partner. Mongolia’s foreign relations are focused on preserving its autonomy by balancing relations with China and Russia, as well as its other major partners, Japan, South Korea, and the US.</p><br>
 
 ## Geography
 
@@ -80,8 +80,9 @@ landlocked; strategic location between China and Russia<br>
 ## People and Society
 
 **Population**<br>
-3,255,468 (2023 est.)<br>
-<strong>note:</strong> Mongolia is one of the least densely populated countries in the world (2 people per sq km); twice as many ethnic Mongols (some 6 million) live in Inner Mongolia (Nei Mongol) in neighboring China<br>
+_total_: 3,281,676<br>
+_male_: 1,595,596<br>
+_female_: 1,686,080 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Mongolian(s)<br>
@@ -98,9 +99,9 @@ _major-language sample(s)_: <br>Дэлхийн баримтат ном, үндс
 Buddhist 51.7%, Muslim 3.2%, Shamanist 2.5%, Christian 1.3%, other 0.7%, none 40.6% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 26.16% (male 434,400/female 417,335)<br>
-_15-64 years_: 68.24% (male 1,076,692/female 1,144,759)<br>
-_65 years and over_: 5.6% (2023 est.) (male 73,245/female 109,037)<br>
+_0-14 years_: 25.7% (male 429,867/female 412,943)<br>
+_15-64 years_: 68.4% (male 1,087,487/female 1,156,547)<br>
+_65 years and over_: 5.9% (2024 est.) (male 78,242/female 116,590)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 58.4<br>
@@ -109,21 +110,21 @@ _elderly dependency ratio_: 7<br>
 _potential support ratio_: 14.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.2 years (2023 est.)<br>
-_male_: 29.9 years<br>
-_female_: 32.2 years<br>
+_total_: 31.5 years (2024 est.)<br>
+_male_: 30.1 years<br>
+_female_: 32.8 years<br>
 
 **Population growth rate**<br>
-0.83% (2023 est.)<br>
+0.78% (2024 est.)<br>
 
 **Birth rate**<br>
-15.4 births/1,000 population (2023 est.)<br>
+14.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.3 deaths/1,000 population (2023 est.)<br>
+6.4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.8 migrant(s)/1,000 population (2023 est.)<br>
+-0.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 sparsely distributed population throughout the country; the capital of Ulaanbaatar and the northern city of Darhan support the highest population densities<br>
@@ -140,7 +141,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 0.94 male(s)/female<br>
 _65 years and over_: 0.67 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.5 years (2008 est.)<br>
@@ -150,20 +151,20 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 39 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 22.8 deaths/1,000 live births<br>
-_female_: 16.6 deaths/1,000 live births<br>
+_total_: 19.4 deaths/1,000 live births (2024 est.)<br>
+_male_: 22.4 deaths/1,000 live births<br>
+_female_: 16.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.7 years (2023 est.)<br>
-_male_: 67.5 years<br>
-_female_: 76 years<br>
+_total population_: 71.9 years (2024 est.)<br>
+_male_: 67.8 years<br>
+_female_: 76.3 years<br>
 
 **Total fertility rate**<br>
-1.89 children born/woman (2023 est.)<br>
+1.87 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.92 (2023 est.)<br>
+0.91 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 48.1% (2018)<br>

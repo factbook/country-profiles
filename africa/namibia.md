@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Various ethnic groups occupied southwestern Africa prior to Germany establishing a colony over most of the territory in 1884. South Africa occupied the colony, then known as German South West Africa, in 1915 during World War I and administered it as a mandate until after World War II, when it annexed the territory.&nbsp; In 1966, the Marxist South-West Africa People's Organization (SWAPO) guerrilla group launched a war of independence for the area that became Namibia, but it was not until 1988 that South Africa agreed to end its administration in accordance with a UN peace plan for the entire region. Namibia gained independence in 1990 and has been governed by SWAPO since, though the party has dropped much of its Marxist ideology. President Hage GEINGOB was elected in 2014 in a landslide victory, replacing Hifikepunye POHAMBA who stepped down after serving two terms. SWAPO retained its parliamentary super majority in the 2014 elections. In 2019 elections, GEINGOB was reelected but by a substantially reduced majority and SWAPO narrowly lost its super majority in parliament.&nbsp;<br>
+Various ethnic groups occupied southwestern Africa prior to Germany establishing a colony over most of the territory in 1884. South Africa occupied the colony, then known as German South West Africa, in 1915 during World War I and administered it as a mandate until after World War II, when it annexed the territory. In 1966, the Marxist South-West Africa People's Organization (SWAPO) guerrilla group launched a war of independence for the area that became Namibia, but it was not until 1988 that South Africa agreed to end its administration in accordance with a UN peace plan for the entire region. Namibia gained independence in 1990, and SWAPO has governed it since, although the party has dropped much of its Marxist ideology. President Hage GEINGOB was elected in 2014 in a landslide victory, replacing Hifikepunye POHAMBA, who stepped down after serving two terms. SWAPO retained its parliamentary super majority in the 2014 elections. In 2019 elections, GEINGOB was reelected but by a substantially reduced majority, and SWAPO narrowly lost its super majority in parliament.<br>
 
 ## Geography
 
@@ -84,7 +84,9 @@ the Namib Desert, after which the country is named, is considered to be the olde
 ## People and Society
 
 **Population**<br>
-2,777,232 (2023 est.)<br>
+_total_: 2,803,660<br>
+_male_: 1,377,286<br>
+_female_: 1,426,374 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Namibian(s)<br>
@@ -104,9 +106,9 @@ Christian 97.5%, other 0.6% (includes Muslim, Baha'i, Jewish, Buddhist), unaffil
 <p>Planning officials view Namibia’s reduced population growth rate as sustainable based on the country’s economic growth over the past decade. Prior to independence in 1990, Namibia’s relatively small population grew at about 3% annually, but declining fertility and the impact of HIV/AIDS slowed this growth to 1.4% by 2011, rebounding to close to 2% by 2016. Namibia’s fertility rate has fallen over the last two decades – from about 4.5 children per woman in 1996 to 3.4 in 2016 and to 3 in 2022 – due to increased contraceptive use, higher educational attainment among women, and greater female participation in the labor force. The average age at first birth has stayed fairly constant, but the age at first marriage continues to increase, indicating a rising incidence of premarital childbearing.</p> <p>The majority of Namibians are rural dwellers (about 55%) and live in the better-watered north and northeast parts of the country. Migration, historically male-dominated, generally flows from northern communal areas – non-agricultural lands where blacks were sequestered under the apartheid system – to agricultural, mining, and manufacturing centers in the center and south. After independence from South Africa, restrictions on internal movement eased, and rural-urban migration increased, bolstering urban growth.</p> <p>Some Namibians – usually persons who are better-educated, more affluent, and from urban areas – continue to legally migrate to South Africa temporarily to visit family and friends and, much less frequently, to pursue tertiary education or better economic opportunities. Namibians concentrated along the country’s other borders make unauthorized visits to Angola, Zambia, Zimbabwe, or Botswana, to visit family and to trade agricultural goods. Few Namibians express interest in permanently settling in other countries; they prefer the safety of their homeland, have a strong national identity, and enjoy a well-supplied retail sector. Although Namibia is receptive to foreign investment and cross-border trade, intolerance toward non-citizens is widespread.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 34.38% (male 482,432/female 472,474)<br>
-_15-64 years_: 61.68% (male 834,001/female 878,865)<br>
-_65 years and over_: 3.94% (2023 est.) (male 46,235/female 63,225)<br>
+_0-14 years_: 34.1% (male 482,790/female 473,306)<br>
+_15-64 years_: 62% (male 846,810/female 890,099)<br>
+_65 years and over_: 3.9% (2024 est.) (male 47,686/female 62,969)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 67.3<br>
@@ -115,21 +117,21 @@ _elderly dependency ratio_: 6.7<br>
 _potential support ratio_: 14.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 22.5 years (2023 est.)<br>
-_male_: 21.8 years<br>
-_female_: 23.2 years<br>
+_total_: 22.8 years (2024 est.)<br>
+_male_: 22.1 years<br>
+_female_: 23.5 years<br>
 
 **Population growth rate**<br>
-1.66% (2023 est.)<br>
+1.72% (2024 est.)<br>
 
 **Birth rate**<br>
-24.6 births/1,000 population (2023 est.)<br>
+24.3 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8.1 deaths/1,000 population (2023 est.)<br>
+7.1 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2023 est.)<br>
+0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population density is very low, with the largest clustering found in the extreme north-central area along the border with Angola as shown in this population distribution map<br>
@@ -145,8 +147,8 @@ _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-64 years_: 0.95 male(s)/female<br>
-_65 years and over_: 0.73 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.76 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.6 years (2013 est.)<br>
@@ -156,20 +158,20 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 215 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 28.7 deaths/1,000 live births (2023 est.)<br>
-_male_: 31.7 deaths/1,000 live births<br>
-_female_: 25.5 deaths/1,000 live births<br>
+_total_: 27.9 deaths/1,000 live births (2024 est.)<br>
+_male_: 31 deaths/1,000 live births<br>
+_female_: 24.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.7 years (2023 est.)<br>
-_male_: 62.1 years<br>
-_female_: 65.4 years<br>
+_total population_: 65.9 years (2024 est.)<br>
+_male_: 64.2 years<br>
+_female_: 67.6 years<br>
 
 **Total fertility rate**<br>
-2.94 children born/woman (2023 est.)<br>
+2.89 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.45 (2023 est.)<br>
+1.43 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 56.1% (2013)<br>
@@ -353,7 +355,7 @@ _election results_: <br><em>2019:</em> Hage GEINGOB reelected president in the f
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>National Council (42 seats); members indirectly elected 3 each by the 14 regional councils to serve 5-year terms); note - the Council primarily reviews legislation passed and referred by the National Assembly<br>National Assembly (104 seats; 96 members directly elected in multi-seat constituencies by closed list, proportional representation vote to serve 5-year terms and 8 nonvoting members appointed by the president)<br>
 _elections_: National Council - elections for regional councils to determine members of the National Council held on 25 November 2020 (next to be held on 25 November 2025)<br>National Assembly - last held on 27 November 2019 (next to be held in November 2024)<br>
-_election results_: Nstional Council - percent of vote by party - NA; seats by party - SWAPO 28, LPM 6,IPC 2, PDM 2, UDF 2, NUDO 1, independent 1; composition as of February 2024 - men 36, women 6, percentage women 14.3% <br><br>National Assembly - percent of vote by party - SWAPO 65.5%, PDM 16.6%, LPM 4.7%, NUDO 1.9%, APP 1.8%, UDF 1.8%, RP 1.8%, NEFF 1.7%, RDP 1.1%, CDV .7%, SWANU .6%, other 1.8%; seats by party - SWAPO 63, PDM 16, LPM 4, NUDO 2, APP 2, UDF 2, RP 2, NEFF 2, RDP 1, CDV 1, SWANU 1; composition as of February 2024 - men 58, women 46, percentage women 44.2%; total Parliament percentage women 35.6%<br>
+_election results_: Nstional Council - percent of vote by party - NA; seats by party - SWAPO 28, LPM 6, IPC 2, PDM 2, UDF 2, NUDO 1, independent 1; composition - men 36, women 6, percentage women 14.3% <br><br>National Assembly - percent of vote by party - SWAPO 65.5%, PDM 16.6%, LPM 4.7%, NUDO 1.9%, APP 1.8%, UDF 1.8%, RP 1.8%, NEFF 1.7%, RDP 1.1%, CDV .7%, SWANU .6%, other 1.8%; seats by party - SWAPO 63, PDM 16, LPM 4, NUDO 2, APP 2, UDF 2, RP 2, NEFF 2, RDP 1, CDV 1, SWANU 1; composition - men 58, women 46, percentage women 44.2%; total Parliament percentage women 35.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and at least 3 judges in quorum sessions)<br>

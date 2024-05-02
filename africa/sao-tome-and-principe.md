@@ -73,7 +73,9 @@ the second-smallest African country (after the Seychelles); the two main islands
 ## People and Society
 
 **Population**<br>
-220,372 (2023 est.)<br>
+_total_: 223,561<br>
+_male_: 111,553<br>
+_female_: 112,008 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Sao Tomean(s)<br>
@@ -92,9 +94,9 @@ Catholic 55.7%, Adventist 4.1%, Assembly of God 3.4%, New Apostolic 2.9%, Mana 2
 <p>Sao Tome and Principe’s youthful age structure – more than 60% of the population is under the age of 25 as of 2020 – and high fertility rate ensure future population growth. Although Sao Tome has a net negative international migration rate, emigration is not a sufficient safety valve to reduce already high levels of unemployment and poverty. While literacy and primary school attendance have improved in recent years, Sao Tome still struggles to improve its educational quality and to increase its secondary school completion rate. Despite some improvements in education and access to healthcare, Sao Tome and Principe has much to do to decrease its high poverty rate, create jobs, and increase its economic growth.</p> <p>The population of Sao Tome and Principe descends primarily from the islands’ colonial Portuguese settlers, who first arrived in the late 15th century, and the much larger number of African slaves brought in for sugar production and the slave trade. For about 100 years after the abolition of slavery in 1876, the population was further shaped by the widespread use of imported unskilled contract laborers from Portugal’s other African colonies, who worked on coffee and cocoa plantations. In the first decades after abolition, most workers were brought from Angola under a system similar to slavery. While Angolan laborers were technically free, they were forced or coerced into long contracts that were automatically renewed and extended to their children. Other contract workers from Mozambique and famine-stricken Cape Verde first arrived in the early 20th century under short-term contracts and had the option of repatriation, although some chose to remain in Sao Tome and Principe.</p> <p>Today’s Sao Tomean population consists of mesticos (creole descendants of the European immigrants and African slaves that first inhabited the islands), forros (descendants of freed African slaves), angolares (descendants of runaway African slaves that formed a community in the south of Sao Tome Island and today are fishermen), servicais (contract laborers from Angola, Mozambique, and Cape Verde), tongas (locally born children of contract laborers), and lesser numbers of Europeans and Asians.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 37.21% (male 41,620/female 40,373)<br>
-_15-64 years_: 59.64% (male 65,356/female 66,078)<br>
-_65 years and over_: 3.15% (2023 est.) (male 2,986/female 3,959)<br>
+_0-14 years_: 36.4% (male 41,337/female 40,106)<br>
+_15-64 years_: 60.3% (male 67,101/female 67,775)<br>
+_65 years and over_: 3.2% (2024 est.) (male 3,115/female 4,127)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 77.9<br>
@@ -103,21 +105,21 @@ _elderly dependency ratio_: 6.7<br>
 _potential support ratio_: 14.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20.4 years (2023 est.)<br>
-_male_: 20 years<br>
-_female_: 20.8 years<br>
+_total_: 20.8 years (2024 est.)<br>
+_male_: 20.4 years<br>
+_female_: 21.2 years<br>
 
 **Population growth rate**<br>
-1.45% (2023 est.)<br>
+1.42% (2024 est.)<br>
 
 **Birth rate**<br>
-27.4 births/1,000 population (2023 est.)<br>
+26.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.1 deaths/1,000 population (2023 est.)<br>
+6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--6.8 migrant(s)/1,000 population (2023 est.)<br>
+-6.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 Sao Tome, the capital city, has roughly a quarter of the nation's population; Santo Antonio is the largest town on Principe; the northern areas of both islands have the highest population densities as shown in this population distribution map<br>
@@ -134,7 +136,7 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-64 years_: 0.99 male(s)/female<br>
 _65 years and over_: 0.75 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.4 years (2008/09 est.)<br>
@@ -144,20 +146,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 146 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 43.5 deaths/1,000 live births (2023 est.)<br>
-_male_: 46.9 deaths/1,000 live births<br>
-_female_: 39.9 deaths/1,000 live births<br>
+_total_: 42.6 deaths/1,000 live births (2024 est.)<br>
+_male_: 46.1 deaths/1,000 live births<br>
+_female_: 39 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.4 years (2023 est.)<br>
-_male_: 65.7 years<br>
-_female_: 69.1 years<br>
+_total population_: 67.7 years (2024 est.)<br>
+_male_: 66 years<br>
+_female_: 69.4 years<br>
 
 **Total fertility rate**<br>
-3.44 children born/woman (2023 est.)<br>
+3.31 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.69 (2023 est.)<br>
+1.63 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 49.7% (2019)<br>
@@ -335,7 +337,7 @@ _election results_: <br><em>2021: </em>Carlos Manuel VILA NOVA elected president
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (55 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 25 September 2022 (next to be held 30 September 2026)<br>
-_election results_: percent of vote by party - ADI 46.8%, MLSTP-PSD 32.7%, MCI-PS-PUN 6.6%, BASTA Movement 8.8%, other 5.1%; seats by party - ADI 30, MLSTP-PSD 18, MCI-PS-PUN 5, BASTA Movement 2; composition as of February 2024 - men 47, women 8, percentage women 14.6%<br>
+_election results_: percent of vote by party - ADI 46.8%, MLSTP-PSD 32.7%, MCI-PS-PUN 6.6%, BASTA Movement 8.8%, other 5.1%; seats by party - ADI 30, MLSTP-PSD 18, MCI-PS-PUN 5, BASTA Movement 2; composition - men 47, women 8, percentage women 14.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supremo Tribunal Justica (consists of 5 judges); Constitutional Court or Tribunal Constitucional (consists of 5 judges, 3 of whom are from the Supreme Court)<br>
@@ -343,7 +345,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the Nati
 _subordinate courts_: Court of First Instance; Audit Court<br>
 
 **Political parties and leaders**<br>
-BASTA Movement [Salvador RAMOS]<br>Independent Democratic Action or ADI [Patrice TROVADA]<br>Movement for the Liberation of Sao Tome and Principe-Social Democratic Party or MLSTP-PSD [Jorge Lopes Bom JESUS]<br>Movement of Independent Citizens of São Tomé and Príncipe - Socialist Party or MCI-PS [António Monteiro]<br>National Unity Party or PUN<br>other small parties<br>
+BASTA Movement [Salvador RAMOS]<br>Independent Democratic Action or ADI [Patrice TROVADA]<br>Movement for the Liberation of Sao Tome and Principe-Social Democratic Party or MLSTP-PSD [Jorge Lopes Bom JESUS]<br>Movement of Independent Citizens of São Tomé and Príncipe - Socialist Party or MCI-PS [António Monteiro]<br>National Unity Party or PUN<br>
 
 **International organization participation**<br>
 ACP, AfDB, AOSIS, AU, CD, CEMAC, CPLP, EITI (candidate country), FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>

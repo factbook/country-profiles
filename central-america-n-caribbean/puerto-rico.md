@@ -73,7 +73,9 @@ important location along the Mona Passage - a key shipping lane to the Panama Ca
 ## People and Society
 
 **Population**<br>
-3,057,311 (2023 est.)<br>
+_total_: 3,019,450<br>
+_male_: 1,418,753<br>
+_female_: 1,600,697 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Puerto Rican(s) (US citizens)<br>
@@ -91,9 +93,9 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 Roman Catholic 56%, Protestant 33% (largely Pentecostal), other 2%, atheist 1%, none 7% (2014 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 12.84% (male 199,933/female 192,690)<br>
-_15-64 years_: 62.98% (male 921,003/female 1,004,395)<br>
-_65 years and over_: 24.18% (2023 est.) (male 317,522/female 421,768)<br>
+_0-14 years_: 12.5% (male 191,649/female 184,597)<br>
+_15-64 years_: 62.6% (male 904,406/female 986,778)<br>
+_65 years and over_: 24.9% (2024 est.) (male 322,698/female 429,322)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.3<br>
@@ -102,21 +104,21 @@ _elderly dependency ratio_: 34.9<br>
 _potential support ratio_: 2.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 45.6 years (2023 est.)<br>
-_male_: 43.6 years<br>
-_female_: 47.2 years<br>
+_total_: 46.1 years (2024 est.)<br>
+_male_: 44.2 years<br>
+_female_: 47.8 years<br>
 
 **Population growth rate**<br>
--1.29% (2023 est.)<br>
+-1.2% (2024 est.)<br>
 
 **Birth rate**<br>
-7.8 births/1,000 population (2023 est.)<br>
+7.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-10 deaths/1,000 population (2023 est.)<br>
+10.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--10.8 migrant(s)/1,000 population (2023 est.)<br>
+-9.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population clusters tend to be found along the coast, the largest of these is found in and around San Juan; an exception to this is a sizeable population located in the interior of the island immediately south of the capital around Caguas; most of the interior, particularly in the western half of the island, is dominated by the Cordillera Central mountains, where population density is low<br>
@@ -133,26 +135,26 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 0.92 male(s)/female<br>
 _65 years and over_: 0.75 male(s)/female<br>
-_total population_: 0.89 male(s)/female (2023 est.)<br>
+_total population_: 0.89 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 34 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 6.5 deaths/1,000 live births<br>
-_female_: 5.3 deaths/1,000 live births<br>
+_total_: 5.8 deaths/1,000 live births (2024 est.)<br>
+_male_: 6.4 deaths/1,000 live births<br>
+_female_: 5.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.9 years (2023 est.)<br>
-_male_: 78.7 years<br>
-_female_: 85.3 years<br>
+_total population_: 82.1 years (2024 est.)<br>
+_male_: 78.9 years<br>
+_female_: 85.5 years<br>
 
 **Total fertility rate**<br>
-1.25 children born/woman (2023 est.)<br>
+1.26 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.61 (2023 est.)<br>
+0.61 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

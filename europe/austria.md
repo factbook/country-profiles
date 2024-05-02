@@ -82,7 +82,9 @@ note 1: landlocked; strategic location at the crossroads of central Europe with 
 ## People and Society
 
 **Population**<br>
-8,940,860 (2023 est.)<br>
+_total_: 8,967,982<br>
+_male_: 4,392,898<br>
+_female_: 4,575,084 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Austrian(s)<br>
@@ -101,9 +103,9 @@ Roman Catholic 55.2%, Muslim 8.3%, Orthodox 4.9%, Evangelical Christian 3.8%, Je
 <strong>note:  </strong>data on Muslim is a 2016 estimate; data on other/none/unspecified are from 2012-2018 estimates<br>
 
 **Age structure**<br>
-_0-14 years_: 14.08% (male 645,660/female 613,399)<br>
-_15-64 years_: 65.11% (male 2,914,056/female 2,907,233)<br>
-_65 years and over_: 20.81% (2023 est.) (male 820,022/female 1,040,490)<br>
+_0-14 years_: 14.1% (male 648,639/female 616,334)<br>
+_15-64 years_: 64.7% (male 2,904,587/female 2,898,339)<br>
+_65 years and over_: 21.2% (2024 est.) (male 839,672/female 1,060,411)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.1<br>
@@ -112,21 +114,21 @@ _elderly dependency ratio_: 29.4<br>
 _potential support ratio_: 3.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 44.8 years (2023 est.)<br>
-_male_: 43.5 years<br>
-_female_: 46.2 years<br>
+_total_: 44.9 years (2024 est.)<br>
+_male_: 43.6 years<br>
+_female_: 46.3 years<br>
 
 **Population growth rate**<br>
-0.31% (2023 est.)<br>
+0.3% (2024 est.)<br>
 
 **Birth rate**<br>
-9.4 births/1,000 population (2023 est.)<br>
+9.3 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.9 deaths/1,000 population (2023 est.)<br>
+9.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-3.5 migrant(s)/1,000 population (2023 est.)<br>
+3.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the northern and eastern portions of the country are more densely populated; nearly two-thirds of the populace lives in urban areas<br>
@@ -143,7 +145,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
 _65 years and over_: 0.79 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2023 est.)<br>
+_total population_: 0.96 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.7 years (2020 est.)<br>
@@ -152,20 +154,20 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.2 deaths/1,000 live births (2023 est.)<br>
+_total_: 3.2 deaths/1,000 live births (2024 est.)<br>
 _male_: 3.6 deaths/1,000 live births<br>
-_female_: 2.8 deaths/1,000 live births<br>
+_female_: 2.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.5 years (2023 est.)<br>
-_male_: 79.9 years<br>
-_female_: 85.2 years<br>
+_total population_: 82.7 years (2024 est.)<br>
+_male_: 80.1 years<br>
+_female_: 85.4 years<br>
 
 **Total fertility rate**<br>
-1.51 children born/woman (2023 est.)<br>
+1.52 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.74 (2023 est.)<br>
+0.74 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 79% (2019)<br>
@@ -722,10 +724,10 @@ the military’s primary responsibilities are national defense and protecting Au
 ## Space
 
 **Space agency/agencies**<br>
-Aeronautics and Space Agency (established in 1972 as the Austrian Space Agency) (2023)<br>
+Aerospace Agency (established in 1972 as the Austrian Space Agency) (2024)<br>
 
 **Space program overview**<br>
-has a national space program and is a member of the European Space Agency (ESA); develops, builds, operates, and tracks satellites, including remote sensing (RS) and research/scientific satellites; works closely with member states of ESA, the EU, and the commercial sector to develop a range of space capabilities and technologies, including applications for satellite payloads, space flight, and space research; has also cooperated with other foreign space agencies and industries, including those of China, India, Russia, and the US (2023)<br>
+has a national space program and is a member of the European Space Agency (ESA); develops, builds, operates, and tracks satellites, including remote sensing (RS) and research/scientific satellites; works closely with member states of ESA, the EU, and the commercial sector to develop a range of space capabilities and technologies, including applications for satellite payloads, space flight, and space research; has also cooperated with other foreign space agencies and industries, including those of China, India, Russia, and the US (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

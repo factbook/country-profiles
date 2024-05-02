@@ -80,7 +80,9 @@ the Niger and its important tributary the Milo River have their sources in the G
 ## People and Society
 
 **Population**<br>
-13,607,249 (2023 est.)<br>
+_total_: 13,986,179<br>
+_male_: 6,985,606<br>
+_female_: 7,000,573 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Guinean(s)<br>
@@ -100,9 +102,9 @@ Muslim 85.2%, Christian 13.4%, animist 0.2%, none 1.2% (2018 est.)<br>
 <p>Guinea’s strong population growth is a result of declining mortality rates and sustained elevated fertility. The population growth rate was somewhat tempered in the 2000s because of a period of net outmigration. Although life expectancy and mortality rates have improved over the last two decades, the nearly universal practice of female genital cutting continues to contribute to high infant and maternal mortality rates. Guinea’s total fertility remains high at about 5 children per woman as of 2022 because of the ongoing preference for larger families, low contraceptive usage and availability, a lack of educational attainment and empowerment among women, and poverty. A lack of literacy and vocational training programs limit job prospects for youths, but even those with university degrees often have no option but to work in the informal sector. About 60% of the country’s large youth population is unemployed.</p> <p>Tensions and refugees have spilled over Guinea’s borders with Sierra Leone, Liberia, and Cote d’Ivoire. During the 1990s Guinea harbored as many as half a million refugees from Sierra Leone and Liberia, more refugees than any other African country for much of that decade. About half sought refuge in the volatile "Parrot’s Beak" region of southwest Guinea, a wedge of land jutting into Sierra Leone near the Liberian border. Many were relocated within Guinea in the early 2000s because the area suffered repeated cross-border attacks from various government and rebel forces, as well as anti-refugee violence.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 40.96% (male 2,809,865/female 2,763,294)<br>
-_15-64 years_: 55.05% (male 3,741,047/female 3,749,281)<br>
-_65 years and over_: 4% (2023 est.) (male 245,323/female 298,439)<br>
+_0-14 years_: 40.9% (male 2,884,146/female 2,835,794)<br>
+_15-64 years_: 55.1% (male 3,846,852/female 3,856,366)<br>
+_65 years and over_: 4% (2024 est.) (male 254,608/female 308,413)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 82.4<br>
@@ -111,21 +113,21 @@ _elderly dependency ratio_: 6.1<br>
 _potential support ratio_: 16.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.3 years (2023 est.)<br>
-_male_: 19.1 years<br>
+_total_: 19.4 years (2024 est.)<br>
+_male_: 19.2 years<br>
 _female_: 19.6 years<br>
 
 **Population growth rate**<br>
-2.75% (2023 est.)<br>
+2.74% (2024 est.)<br>
 
 **Birth rate**<br>
-35.5 births/1,000 population (2023 est.)<br>
+35.3 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8 deaths/1,000 population (2023 est.)<br>
+7.8 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2023 est.)<br>
+0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 areas of highest density are in the west and south; interior is sparsely populated as shown in this population distribution map<br>
@@ -141,8 +143,8 @@ _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.82 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.83 male(s)/female<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.9 years (2018 est.)<br>
@@ -152,20 +154,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 553 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 48.3 deaths/1,000 live births (2023 est.)<br>
-_male_: 53 deaths/1,000 live births<br>
-_female_: 43.5 deaths/1,000 live births<br>
+_total_: 47 deaths/1,000 live births (2024 est.)<br>
+_male_: 51.6 deaths/1,000 live births<br>
+_female_: 42.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 64.3 years (2023 est.)<br>
-_male_: 62.4 years<br>
-_female_: 66.2 years<br>
+_total population_: 64.6 years (2024 est.)<br>
+_male_: 62.7 years<br>
+_female_: 66.6 years<br>
 
 **Total fertility rate**<br>
-4.82 children born/woman (2023 est.)<br>
+4.78 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-2.37 (2023 est.)<br>
+2.36 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 10.9% (2018)<br>

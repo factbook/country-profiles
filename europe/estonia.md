@@ -78,7 +78,9 @@ the mainland terrain is flat, boggy, and partly wooded; offshore lie more than 1
 ## People and Society
 
 **Population**<br>
-1,202,762 (2023 est.)<br>
+_total_: 1,193,791<br>
+_male_: 563,079<br>
+_female_: 630,712 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Estonian(s)<br>
@@ -94,9 +96,9 @@ Estonian (official) 67.2%, Russian 28.5%, other 3.7%, unspecified 0.6% (2021est.
 Orthodox 16.5%, Protestant 9.2% (Lutheran 7.7%, other Protestant 1.5%), other 3% (includes Roman Catholic, Muslim, Jehovah's Witness, Pentecostal, Buddhist, and Taara Believer), none 58.4%, unspecified 12.9% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 15.56% (male 95,732/female 91,384)<br>
-_15-64 years_: 62.27% (male 376,599/female 372,380)<br>
-_65 years and over_: 22.17% (2023 est.) (male 94,291/female 172,376)<br>
+_0-14 years_: 15.2% (male 92,980/female 88,753)<br>
+_15-64 years_: 62.2% (male 373,989/female 368,113)<br>
+_65 years and over_: 22.6% (2024 est.) (male 96,110/female 173,846)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 58.3<br>
@@ -105,21 +107,21 @@ _elderly dependency ratio_: 32.3<br>
 _potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 44.7 years (2023 est.)<br>
-_male_: 41.5 years<br>
-_female_: 47.9 years<br>
+_total_: 45 years (2024 est.)<br>
+_male_: 41.9 years<br>
+_female_: 48.2 years<br>
 
 **Population growth rate**<br>
--0.74% (2023 est.)<br>
+-0.76% (2024 est.)<br>
 
 **Birth rate**<br>
-8.5 births/1,000 population (2023 est.)<br>
+8.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-13.1 deaths/1,000 population (2023 est.)<br>
+13.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--2.7 migrant(s)/1,000 population (2023 est.)<br>
+-2.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -134,9 +136,9 @@ _rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-64 years_: 1.01 male(s)/female<br>
+_15-64 years_: 1.02 male(s)/female<br>
 _65 years and over_: 0.55 male(s)/female<br>
-_total population_: 0.89 male(s)/female (2023 est.)<br>
+_total population_: 0.89 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.2 years (2020 est.)<br>
@@ -145,20 +147,20 @@ _total population_: 0.89 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.4 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.3 deaths/1,000 live births<br>
-_female_: 3.5 deaths/1,000 live births<br>
+_total_: 3.3 deaths/1,000 live births (2024 est.)<br>
+_male_: 3.2 deaths/1,000 live births<br>
+_female_: 3.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.1 years (2023 est.)<br>
-_male_: 73.5 years<br>
-_female_: 82.9 years<br>
+_total population_: 78.4 years (2024 est.)<br>
+_male_: 73.8 years<br>
+_female_: 83.2 years<br>
 
 **Total fertility rate**<br>
-1.62 children born/woman (2023 est.)<br>
+1.62 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.79 (2023 est.)<br>
+0.79 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

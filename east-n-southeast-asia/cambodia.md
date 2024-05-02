@@ -85,7 +85,9 @@ a land of paddies and forests dominated by the Mekong River and Tonle Sap (South
 ## People and Society
 
 **Population**<br>
-16,891,245 (2023 est.)<br>
+_total_: 17,063,669<br>
+_male_: 8,277,588<br>
+_female_: 8,786,081 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Cambodian(s)<br>
@@ -105,9 +107,9 @@ Buddhist (official) 97.1%, Muslim 2%, Christian 0.3%, other 0.5% (2019 est.)<br>
 <p>Cambodia is a predominantly rural country with among the most ethnically and religiously homogenous populations in Southeast Asia: more than 95% of its inhabitants are Khmer and more than 95% are Buddhist.  The population’s size and age structure shrank and then rebounded during the 20th century as a result of conflict and mass death.  During the Khmer Rouge regime between 1975 and 1979 as many as 1.5 to 2 million people are estimated to have been killed or died as a result of starvation, disease, or overwork – a loss of about 25% of the population.  At the same time, emigration was high, and the fertility rate sharply declined.  In the 1980s, after the overthrow of the Khmer Rouge, fertility nearly doubled and reached pre-Khmer Rouge levels of close to 7 children per woman, reflecting in part higher infant survival rates.  The baby boom was followed by a sustained fertility decline starting in the early 1990s, eventually decreasing from 3.8 in 2000 to 2.9 in 2010, although the rate varied by income, education, and rural versus urban location.  Despite continuing fertility reduction, Cambodia still has a youthful population that is likely to maintain population growth through population momentum. Improvements have also been made in mortality, life expectancy, and contraceptive prevalence, although reducing malnutrition among children remains stalled.  Differences in health indicators are pronounced between urban and rural areas, which experience greater poverty.</p> <p>Cambodia is predominantly a country of migration, driven by the search for work, education, or marriage.  Internal migration is more prevalent than international migration, with rural to urban migration being the most common, followed by rural to rural migration.  Urban migration focuses on the pursuit of unskilled or semi-skilled jobs in Phnom Penh, with men working mainly in the construction industry and women working in garment factories.  Most Cambodians who migrate abroad do so illegally using brokers because it is cheaper and faster than through formal channels, but doing so puts them at risk of being trafficked for forced labor or sexual exploitation.  Young Cambodian men and women migrate short distances across the Thai border using temporary passes to work in agriculture, while others migrate long distances primarily into Thailand and Malaysia for work in agriculture, fishing, construction, manufacturing, and domestic service.  Cambodia was a refugee sending country in the 1970s and 1980s as a result of the brutality of the Khmer Rouge regime, its ousting by the Vietnamese invasion, and the resultant civil war.  Tens of thousands of Cambodians fled to Thailand; more than 100,000 were resettled in the US in the 1980s.  Cambodia signed a multi-million dollar agreement with Australia in 2014 to voluntarily resettle refugees seeking shelter in Australia.  However, the deal has proven to be a failure because of poor conditions and a lack of support services for the few refugees willing to accept the offer.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 29.47% (male 2,518,910/female 2,459,235)<br>
-_15-64 years_: 65.39% (male 5,362,180/female 5,682,247)<br>
-_65 years and over_: 5.14% (2023 est.) (male 308,931/female 559,742)<br>
+_0-14 years_: 28.9% (male 2,497,056/female 2,436,618)<br>
+_15-64 years_: 65.8% (male 5,456,941/female 5,765,206)<br>
+_65 years and over_: 5.3% (2024 est.) (male 323,591/female 584,257)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.4<br>
@@ -116,21 +118,21 @@ _elderly dependency ratio_: 8.5<br>
 _potential support ratio_: 11.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 27.6 years (2023 est.)<br>
-_male_: 26.6 years<br>
-_female_: 28.5 years<br>
+_total_: 27.9 years (2024 est.)<br>
+_male_: 26.9 years<br>
+_female_: 28.9 years<br>
 
 **Population growth rate**<br>
-1.04% (2023 est.)<br>
+0.99% (2024 est.)<br>
 
 **Birth rate**<br>
-18.8 births/1,000 population (2023 est.)<br>
+18.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.7 deaths/1,000 population (2023 est.)<br>
+5.7 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--2.7 migrant(s)/1,000 population (2023 est.)<br>
+-2.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the southeast, particularly in and around the capital of Phnom Penh; further distribution is linked closely to the Tonle Sap and Mekong Rivers<br>
@@ -143,11 +145,11 @@ _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 2.281 million PHNOM PENH (capital) (2023)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.05 male(s)/female<br>
+_at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-64 years_: 0.94 male(s)/female<br>
+_15-64 years_: 0.95 male(s)/female<br>
 _65 years and over_: 0.55 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2023 est.)<br>
+_total population_: 0.94 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23.3 years (2021-22 est.)<br>
@@ -157,20 +159,20 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 218 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 28.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 32.2 deaths/1,000 live births<br>
-_female_: 25.1 deaths/1,000 live births<br>
+_total_: 27.9 deaths/1,000 live births (2024 est.)<br>
+_male_: 31.3 deaths/1,000 live births<br>
+_female_: 24.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71 years (2023 est.)<br>
-_male_: 69.2 years<br>
-_female_: 73 years<br>
+_total population_: 71.4 years (2024 est.)<br>
+_male_: 69.6 years<br>
+_female_: 73.3 years<br>
 
 **Total fertility rate**<br>
-2.2 children born/woman (2023 est.)<br>
+2.17 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.08 (2023 est.)<br>
+1.06 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 56.3% (2014)<br>

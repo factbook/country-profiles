@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Dutch United Provinces declared their independence from Spain in 1581; during the 17th century, they became a leading seafaring and commercial power, with settlements and colonies around the world. After 18 years of French domination, the Netherlands regained its independence in 1813.  In 1830, Belgium seceded and formed a separate kingdom. The Netherlands remained neutral in World War I but suffered German invasion and occupation in World War II. A modern, industrialized nation, the Netherlands is also a large exporter of agricultural products. The country was a founding member of NATO and the EEC (now the EU) and participated in the introduction of the euro in 1999. In October 2010, the former Netherlands Antilles was dissolved and the three smallest islands - Bonaire, Sint Eustatius, and Saba - became special municipalities in the Netherlands administrative structure. The larger islands of Sint Maarten and Curacao joined the Netherlands and Aruba as constituent countries forming the Kingdom of the Netherlands.</p> <p>In February 2018, the Sint Eustatius island council (governing body) was dissolved and replaced by a government commissioner to restore the integrity of public administration. According to the Dutch Government, the intervention will be as "short as possible and as long as needed."</p><br>
+<p>The Dutch United Provinces declared their independence from Spain in 1581; during the 17th century, they became a leading seafaring and commercial power, with settlements and colonies around the world. After 18 years of French domination, the Netherlands regained its independence in 1813. In 1830, Belgium seceded and formed a separate kingdom. The Netherlands remained neutral in World War I but suffered German invasion and occupation in World War II. A modern, industrialized nation, the Netherlands is also a large exporter of agricultural products. The country was a founding member of NATO and the EEC (now the EU) and participated in the introduction of the euro in 1999. In 2010, the former Netherlands Antilles was dissolved and the three smallest islands -- Bonaire, Sint Eustatius, and Saba -- became special municipalities in the Netherlands administrative structure. The larger islands of Sint Maarten and Curacao joined the Netherlands and Aruba as constituent countries forming the Kingdom of the Netherlands.</p> <p>In 2018, the Sint Eustatius island council (governing body) was dissolved and replaced by a government commissioner to restore the integrity of public administration. According to the Dutch Government, the intervention will be as "short as possible and as long as needed."</p><br>
 
 ## Geography
 
@@ -82,7 +82,9 @@ located at mouths of three major European rivers (Rhine (Rijn), Meuse (Maas), an
 ## People and Society
 
 **Population**<br>
-17,463,930 (2023 est.)<br>
+_total_: 17,772,378<br>
+_male_: 8,844,100<br>
+_female_: 8,928,278 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Dutchman(men), Dutchwoman(women)<br>
@@ -99,9 +101,9 @@ _major-language sample(s)_: <br>Het Wereld Feitenboek, een onmisbare bron van in
 Roman Catholic 20.1%, Protestant 14.8% (includes Dutch Reformed, Protestant Church of The Netherlands, Calvinist), Muslim 5%, other 5.9% (includes Hindu, Buddhist, Jewish), none 54.1% (2019 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 16.06% (male 1,436,601/female 1,368,697)<br>
-_15-64 years_: 63.08% (male 5,532,490/female 5,483,034)<br>
-_65 years and over_: 20.86% (2023 est.) (male 1,658,652/female 1,984,456)<br>
+_0-14 years_: 15.2% (male 1,384,142/female 1,312,455)<br>
+_15-64 years_: 64.1% (male 5,750,034/female 5,640,691)<br>
+_65 years and over_: 20.7% (2024 est.) (male 1,709,924/female 1,975,132)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.9<br>
@@ -110,21 +112,21 @@ _elderly dependency ratio_: 30.9<br>
 _potential support ratio_: 3.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42.2 years (2023 est.)<br>
-_male_: 41 years<br>
-_female_: 43.4 years<br>
+_total_: 42.2 years (2024 est.)<br>
+_male_: 40.9 years<br>
+_female_: 43.5 years<br>
 
 **Population growth rate**<br>
-0.48% (2023 est.)<br>
+0.39% (2024 est.)<br>
 
 **Birth rate**<br>
-10.5 births/1,000 population (2023 est.)<br>
+10.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.7 deaths/1,000 population (2023 est.)<br>
+9.7 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-4.1 migrant(s)/1,000 population (2023 est.)<br>
+3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, though sizeable communities can be found throughout the entire country<br>
@@ -139,9 +141,9 @@ _rate of urbanization_: 0.59% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.84 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.87 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30.2 years (2020 est.)<br>
@@ -150,20 +152,20 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 4 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.7 deaths/1,000 live births (2023 est.)<br>
-_male_: 4 deaths/1,000 live births<br>
-_female_: 3.4 deaths/1,000 live births<br>
+_total_: 3.6 deaths/1,000 live births (2024 est.)<br>
+_male_: 3.9 deaths/1,000 live births<br>
+_female_: 3.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.7 years (2023 est.)<br>
-_male_: 80.1 years<br>
-_female_: 83.3 years<br>
+_total population_: 81.9 years (2024 est.)<br>
+_male_: 80.3 years<br>
+_female_: 83.5 years<br>
 
 **Total fertility rate**<br>
-1.61 children born/woman (2023 est.)<br>
+1.61 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.78 (2023 est.)<br>
+0.78 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 73% (2013)<br>

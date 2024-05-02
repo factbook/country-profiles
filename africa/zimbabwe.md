@@ -82,7 +82,9 @@ landlocked; the Zambezi forms a natural riverine boundary with Zambia; in full f
 ## People and Society
 
 **Population**<br>
-15,418,674 (2023 est.)<br>
+_total_: 17,150,352<br>
+_male_: 8,343,790<br>
+_female_: 8,806,562 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Zimbabwean(s)<br>
@@ -102,9 +104,9 @@ Apostolic Sect 40.3%, Pentecostal 17%, Protestant 13.8%, other Christian 7.8%, R
 <p>Zimbabwe’s progress in reproductive, maternal, and child health has stagnated in recent years. According to a 2010 Demographic and Health Survey, contraceptive use, the number of births attended by skilled practitioners, and child mortality have either stalled or somewhat deteriorated since the mid-2000s. Zimbabwe’s total fertility rate has remained fairly stable at about 4 children per woman for the last two decades, although an uptick in the urban birth rate in recent years has caused a slight rise in the country’s overall fertility rate. Zimbabwe’s HIV prevalence rate dropped from approximately 29% to 15% since 1997 but remains among the world’s highest and continues to suppress the country’s life expectancy rate. The proliferation of HIV/AIDS information and prevention programs and personal experience with those suffering or dying from the disease have helped to change sexual behavior and reduce the epidemic.</p> <p>Historically, the vast majority of Zimbabwe’s migration has been internal – a rural-urban flow. In terms of international migration, over the last 40 years Zimbabwe has gradually shifted from being a destination country to one of emigration and, to a lesser degree, one of transit (for East African illegal migrants traveling to South Africa). As a British colony, Zimbabwe attracted significant numbers of permanent immigrants from the UK and other European countries, as well as temporary economic migrants from Malawi, Mozambique, and Zambia. Although Zimbabweans have migrated to South Africa since the beginning of the 20th century to work as miners, the first major exodus from the country occurred in the years before and after independence in 1980. The outward migration was politically and racially influenced; a large share of the white population of European origin chose to leave rather than live under a new black-majority government.</p> <p>In the 1990s and 2000s, economic mismanagement and hyperinflation sparked a second, more diverse wave of emigration. This massive outmigration – primarily to other southern African countries, the UK, and the US – has created a variety of challenges, including brain drain, illegal migration, and human smuggling and trafficking. Several factors have pushed highly skilled workers to go abroad, including unemployment, lower wages, a lack of resources, and few opportunities for career growth.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 38.16% (male 2,920,951/female 2,962,652)<br>
-_15-64 years_: 57.32% (male 4,417,612/female 4,419,769)<br>
-_65 years and over_: 4.52% (2023 est.) (male 269,329/female 428,361)<br>
+_0-14 years_: 38.3% (male 3,315,075/female 3,254,643)<br>
+_15-64 years_: 57.8% (male 4,758,120/female 5,152,773)<br>
+_65 years and over_: 3.9% (2024 est.) (male 270,595/female 399,146)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 79.4<br>
@@ -113,21 +115,21 @@ _elderly dependency ratio_: 6<br>
 _potential support ratio_: 16.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21 years (2023 est.)<br>
-_male_: 20.2 years<br>
-_female_: 21.8 years<br>
+_total_: 21.2 years (2024 est.)<br>
+_male_: 20.3 years<br>
+_female_: 22 years<br>
 
 **Population growth rate**<br>
-1.99% (2023 est.)<br>
+1.91% (2024 est.)<br>
 
 **Birth rate**<br>
-29.4 births/1,000 population (2023 est.)<br>
+28.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.7 deaths/1,000 population (2023 est.)<br>
+6.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--2.9 migrant(s)/1,000 population (2023 est.)<br>
+-3.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 Aside from major urban agglomerations in Harare and Bulawayo, population distribution is fairly even, with slightly greater overall numbers in the eastern half as shown in this population distribution map<br>
@@ -141,10 +143,10 @@ _rate of urbanization_: 2.41% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 0.99 male(s)/female<br>
-_15-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.63 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_0-14 years_: 1.02 male(s)/female<br>
+_15-64 years_: 0.92 male(s)/female<br>
+_65 years and over_: 0.68 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.3 years (2015 est.)<br>
@@ -154,20 +156,20 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 357 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 34 deaths/1,000 live births (2023 est.)<br>
-_male_: 37.7 deaths/1,000 live births<br>
-_female_: 30.2 deaths/1,000 live births<br>
+_total_: 33.4 deaths/1,000 live births (2024 est.)<br>
+_male_: 37 deaths/1,000 live births<br>
+_female_: 29.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 66.8 years (2023 est.)<br>
-_male_: 65.2 years<br>
-_female_: 68.5 years<br>
+_total population_: 67.2 years (2024 est.)<br>
+_male_: 65.6 years<br>
+_female_: 68.8 years<br>
 
 **Total fertility rate**<br>
-3.51 children born/woman (2023 est.)<br>
+3.47 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.73 (2023 est.)<br>
+1.71 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.8% (2015)<br>
@@ -359,7 +361,7 @@ _election results_: <em>2023: </em>Emmerson MNANGAGWA reelected president in fir
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (80 seats; 60 members directly elected in multi-seat constituencies - 6 seats in each of the 10 provinces - by proportional representation vote, 16 indirectly elected by the regional governing councils, 18 reserved for the National Council Chiefs, and 2 reserved for members with disabilities; members serve 5-year terms)<br><br>National Assembly (280 seats; 210 members directly elected in single-seat constituencies by simple majority vote and 60 seats reserved for women directly elected by proportional representation vote and 10 additional seats reserved for candidates aged between 21 and 35 directly elected by proportional representation, members serve 5-year terms)<br>
 _elections_: <p>Senate - last held for elected member on 23 August 2023 (next to be held in 2028)<br><br>National Assembly - last held on 23 August 2023 (next to be held in 2028); note: a by-election was held on 11 November 2023 due to the death of a candidate during the August general election; a special by election was held on 9 December 2023 after nine opposition lawmakers were removed from their seats and disqualified from running again; another by-election was held 3 February 2024 for six open seats</p><br>
-_election results_: <p><br>Senate - percent of vote by party - NA; seats by party - ZANU-PF 33, CCC- 27, Chiefs 18, people with disabilities 2; composition as of February 2024 - men 36, women 35, percentage of women 49.3%<br><br>National Assembly - percent of vote by party - NA; seats by party - ZANU-PF 190, CCC-93; composition as of February 2024 - men 192, women 75, percentage women 28.1%; total Parliament percentage women 32.5%</p><br>
+_election results_: <p><br>Senate - percent of vote by party - NA; seats by party - ZANU-PF 33, CCC- 27, Chiefs 18, people with disabilities 2; composition - men 36, women 35, percentage of women 49.3%<br><br>National Assembly - percent of vote by party - NA; seats by party - ZANU-PF 190, CCC-93; composition - men 192, women 75, percentage women 28.1%; total Parliament percentage women 32.5%</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 4 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)<br>

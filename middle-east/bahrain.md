@@ -76,8 +76,9 @@ close to primary Middle Eastern petroleum sources; strategic location in Persian
 ## People and Society
 
 **Population**<br>
-1,553,886 (2023 est.)<br>
-<strong>note:</strong> immigrants make up approximately 45% of the total population, according to UN data (2019)<br>
+_total_: 1,566,888<br>
+_male_: 940,022<br>
+_female_: 626,866 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Bahraini(s)<br>
@@ -94,9 +95,9 @@ _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر 
 Muslim 74.2%, other (includes Christian, Jewish, Hindu, Baha'i) 25.8% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 18.14% (male 142,866/female 139,083)<br>
-_15-64 years_: 77.83% (male 759,539/female 449,848)<br>
-_65 years and over_: 4.03% (2023 est.) (male 32,162/female 30,388)<br>
+_0-14 years_: 18.1% (male 143,399/female 139,667)<br>
+_15-64 years_: 77.7% (male 762,190/female 454,616)<br>
+_65 years and over_: 4.3% (2024 est.) (male 34,433/female 32,583)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 31.3<br>
@@ -105,21 +106,21 @@ _elderly dependency ratio_: 4.6<br>
 _potential support ratio_: 21.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 33.3 years (2023 est.)<br>
+_total_: 33.4 years (2024 est.)<br>
 _male_: 34.6 years<br>
-_female_: 31 years<br>
+_female_: 31.2 years<br>
 
 **Population growth rate**<br>
-0.85% (2023 est.)<br>
+0.82% (2024 est.)<br>
 
 **Birth rate**<br>
-12.3 births/1,000 population (2023 est.)<br>
+12.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-2.8 deaths/1,000 population (2023 est.)<br>
+2.8 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1 migrant(s)/1,000 population (2023 est.)<br>
+-1.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 smallest population of the Gulf States, but urbanization rate exceeds 90%; largest settlement concentration is found on the far northern end of the island in and around Manamah and Al Muharraq<br>
@@ -134,28 +135,28 @@ _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-64 years_: 1.69 male(s)/female<br>
+_15-64 years_: 1.68 male(s)/female<br>
 _65 years and over_: 1.06 male(s)/female<br>
-_total population_: 1.51 male(s)/female (2023 est.)<br>
+_total population_: 1.5 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 16 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10 deaths/1,000 live births (2023 est.)<br>
-_male_: 11.7 deaths/1,000 live births<br>
-_female_: 8.3 deaths/1,000 live births<br>
+_total_: 9.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 11.3 deaths/1,000 live births<br>
+_female_: 8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.1 years (2023 est.)<br>
-_male_: 77.9 years<br>
-_female_: 82.5 years<br>
+_total population_: 80.4 years (2024 est.)<br>
+_male_: 78.1 years<br>
+_female_: 82.7 years<br>
 
 **Total fertility rate**<br>
-1.66 children born/woman (2023 est.)<br>
+1.65 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.82 (2023 est.)<br>
+0.81 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -678,10 +679,10 @@ the military's inventory consists of a mix of equipment acquired from a wide var
 ## Space
 
 **Space agency/agencies**<br>
-Bahrain National Space Science Agency (NSSA; established 2014) (2023)<br>
+Bahrain National Space Science Agency (NSSA; established 2014) (2024)<br>
 
 **Space program overview**<br>
-space program in nascent stages and is focused on developing the capabilities to build and operate satellites; the NSSA’s mission includes promoting space science, technology, and research, building capacity in the fields of satellite manufacturing, tracking, control, data processing and analysis, and remote sensing, developing space-related programs and space policy, and facilitating international cooperation; cooperates with a variety of foreign agencies and commercial entities, including those of India, Italy, Japan, Saudi Arabia, the UK, and the UAE; also a member of the Arab Space Coordination Group, established by the UAE in 2019 (2023)<br>
+space program in nascent stages and is focused on developing the capabilities to build and operate satellites; the NSSA’s mission includes promoting space science, technology, and research, building capacity in the fields of satellite manufacturing, tracking, control, data processing and analysis, and remote sensing, developing space-related programs and space policy, and facilitating international cooperation; cooperates with a variety of foreign agencies and commercial entities, including those of India, Italy, Japan, Saudi Arabia, the UK, the UAE, and the US; also a member of the Arab Space Coordination Group, established by the UAE in 2019 (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

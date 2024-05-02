@@ -70,7 +70,9 @@ both island groups have fringing reefs; Wallis contains several prominent crater
 ## People and Society
 
 **Population**<br>
-15,929 (2023 est.)<br>
+_total_: 15,964<br>
+_male_: 8,201<br>
+_female_: 7,763 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Wallisian(s), Futunan(s), or Wallis and Futuna Islanders<br>
@@ -86,9 +88,9 @@ Wallisian (indigenous Polynesian language) 58.9%, Futunian 30.1%, French (offici
 Roman Catholic 99%, other 1%<br>
 
 **Age structure**<br>
-_0-14 years_: 19.98% (male 1,660/female 1,523)<br>
-_15-64 years_: 67.86% (male 5,535/female 5,275)<br>
-_65 years and over_: 12.15% (2023 est.) (male 989/female 947)<br>
+_0-14 years_: 19.8% (male 1,643/female 1,511)<br>
+_15-64 years_: 67.5% (male 5,535/female 5,247)<br>
+_65 years and over_: 12.7% (2024 est.) (male 1,023/female 1,005)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57<br>
@@ -97,22 +99,21 @@ _elderly dependency ratio_: 20.4<br>
 _potential support ratio_: 4.9 (2021)<br>
 
 **Median age**<br>
-_total_: 35.8 years (2023 est.)<br>
-_male_: 34.9 years<br>
-_female_: 36.6 years<br>
+_total_: 36.3 years (2024 est.)<br>
+_male_: 35.5 years<br>
+_female_: 37.3 years<br>
 
 **Population growth rate**<br>
-0.23% (2023 est.)<br>
+0.22% (2024 est.)<br>
 
 **Birth rate**<br>
-12.1 births/1,000 population (2023 est.)<br>
+11.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.9 deaths/1,000 population (2023 est.)<br>
+6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--3.8 migrant(s)/1,000 population (2023 est.)<br>
-<strong>note:</strong> there has been steady emigration from Wallis and Futuna to New Caledonia<br>
+-3.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 0% of total population (2023)<br>
@@ -125,24 +126,24 @@ _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.09 male(s)/female<br>
 _15-64 years_: 1.05 male(s)/female<br>
-_65 years and over_: 1.04 male(s)/female<br>
-_total population_: 1.06 male(s)/female (2023 est.)<br>
+_65 years and over_: 1.02 male(s)/female<br>
+_total population_: 1.06 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.9 deaths/1,000 live births<br>
-_female_: 4 deaths/1,000 live births<br>
+_total_: 3.9 deaths/1,000 live births (2024 est.)<br>
+_male_: 3.8 deaths/1,000 live births<br>
+_female_: 3.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.9 years (2023 est.)<br>
-_male_: 77.9 years<br>
-_female_: 84 years<br>
+_total population_: 81.1 years (2024 est.)<br>
+_male_: 78.2 years<br>
+_female_: 84.2 years<br>
 
 **Total fertility rate**<br>
-1.71 children born/woman (2023 est.)<br>
+1.71 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.83 (2023 est.)<br>
+0.83 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

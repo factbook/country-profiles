@@ -77,7 +77,9 @@ composed of the Jutland Peninsula and a group of more than 400 islands (Danish A
 ## People and Society
 
 **Population**<br>
-5,946,984 (2023 est.)<br>
+_total_: 5,973,136<br>
+_male_: 2,975,261<br>
+_female_: 2,997,875 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Dane(s)<br>
@@ -98,9 +100,9 @@ Evangelical Lutheran (official) 71.4%, Muslim 4.3%, other/none/unspecified (deno
 <p>Modern immigration to Denmark began in the 1960s and 1970s, although immigration, primarily from the Nordic countries and Western Europe, has earlier roots.  Dutch migrants came in the 16th century and Germans in the 18th, in both cases to work in agriculture.  Between the late 19th century and World War I, Denmark absorbed unskilled Polish, German, and Swedish labor migrants in significant numbers, sometimes at the request of the Danish Government.  Between the two World Wars, Denmark received many Eastern European, Jewish, and German migrants. It wasn’t until after World War II, that refugees began seeking sanctuary in Demark, including a large number of German refugees and later Hungarians, Czechs, and Polish Jews.  Denmark also imported foreign labor during the 1960s, mainly from Turkey, the former Yugoslavia, and Pakistan.  Although the “guest worker” program was halted in 1973, immigrants continued to arrive to be reunited with family members who were already in Denmark as refugees or as guest workers. Non-European refugees came from Chile, Uganda, and Vietnam.  In the 1990s, Denmark began receiving migrants and refugees from new places, including Russia, Hungary, Bosnia, Iran, Iraq, and Lebanon.  Despite raising more restrictions on immigration, in the 2000s, Denmark continued to receive asylum seekers, particularly from Afghanistan, Iraq, Somalia, and the former Yugoslavia, as well as labor migrants from new EU member states. </p> <p>In more recent years, Denmark has severely limited its refugee intake, aiming to accept as few refugees outside of the UN resettlement program as possible.  In the mid-2010s, Denmark passed legislation enabling it to withdraw temporary protective status as soon as conditions in the home country, as determined by Denmark, have improved.  This policy has lead Denmark, to deem Damascus and other areas in Syria safe for return, making it the only country in Europe to do so.  Consequently, some Syrian refugees have had their residency status revoked, and they are detained in deportation centers because Denmark does not have diplomatic relations with Syria and, therefore, cannot send them back.  Copenhagen hopes its stricter policies will discourage asylum seekers, particularly those from non-Western countries.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 16.24% (male 495,887/female 469,976)<br>
-_15-64 years_: 63.13% (male 1,900,182/female 1,854,222)<br>
-_65 years and over_: 20.63% (2023 est.) (male 566,363/female 660,354)<br>
+_0-14 years_: 16.2% (male 496,793/female 471,018)<br>
+_15-64 years_: 62.9% (male 1,903,315/female 1,856,615)<br>
+_65 years and over_: 20.8% (2024 est.) (male 575,153/female 670,242)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.3<br>
@@ -109,21 +111,21 @@ _elderly dependency ratio_: 31.9<br>
 _potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42.2 years (2023 est.)<br>
+_total_: 42.2 years (2024 est.)<br>
 _male_: 41 years<br>
-_female_: 43.3 years<br>
+_female_: 43.4 years<br>
 
 **Population growth rate**<br>
-0.44% (2023 est.)<br>
+0.44% (2024 est.)<br>
 
 **Birth rate**<br>
-11.3 births/1,000 population (2023 est.)<br>
+11.3 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.6 deaths/1,000 population (2023 est.)<br>
+9.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-2.7 migrant(s)/1,000 population (2023 est.)<br>
+2.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 with excellent access to the North Sea, Skagerrak, Kattegat, and the Baltic Sea, population centers tend to be along coastal areas, particularly in Copenhagen and the eastern side of the country's mainland<br>
@@ -137,10 +139,10 @@ _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-64 years_: 1.02 male(s)/female<br>
+_0-14 years_: 1.05 male(s)/female<br>
+_15-64 years_: 1.03 male(s)/female<br>
 _65 years and over_: 0.86 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.8 years (2020 est.)<br>
@@ -149,20 +151,20 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3 deaths/1,000 live births (2023 est.)<br>
+_total_: 3 deaths/1,000 live births (2024 est.)<br>
 _male_: 3.4 deaths/1,000 live births<br>
 _female_: 2.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.9 years (2023 est.)<br>
-_male_: 80 years<br>
-_female_: 83.9 years<br>
+_total population_: 82.1 years (2024 est.)<br>
+_male_: 80.2 years<br>
+_female_: 84.1 years<br>
 
 **Total fertility rate**<br>
-1.77 children born/woman (2023 est.)<br>
+1.77 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.86 (2023 est.)<br>
+0.86 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -345,7 +347,7 @@ _judge selection and term of office_: judges appointed by the monarch upon the r
 _subordinate courts_: Special Court of Indictment and Revision; 2 High Courts; Maritime and Commercial Court; county courts<br>
 
 **Political parties and leaders**<br>
-The Alternative or AP [Franciska ROSENKILDE]<br>Conservative People's Party or DKF or C [Soren PAPE POULSEN]<br>Danish People's Party or DF or O [Morten MESSERSCHMIDT]<br>Denmark Democrats or E [Inger STOJBERG]<br>Green Left or SF or F [Pia OLSEN DYHR] (formerly Socialist People's Party or SF or F)<br>Liberal Alliance or LA or I [Alex VANOPSLAGH]<br>Liberal Party (Venstre) or V [Jakob ELLEMANN-JENSEN]<br>Moderates or M [Lars Lokke RASMUSSEN]<br>New Right Party or NB or D [Ann Pernille VERMUND TVEDE]<br>Red-Green Alliance (Unity List) or EL [collective leadership, Mai VILLADSEN, spokesperson]<br>Social Democrats or SDP or A [Mette FREDERIKSEN]<br>Social Liberal Party or SLP or B [Martin LIDEGAARD]<br>
+The Alternative or AP [Franciska ROSENKILDE]<br>Conservative People's Party or DKF or C [Mona JUUL]<br>Danish People's Party or DF or O [Morten MESSERSCHMIDT]<br>Denmark Democrats or E [Inger STOJBERG]<br>Green Left or SF or F [Pia OLSEN DYHR] (formerly Socialist People's Party or SF or F)<br>Liberal Alliance or LA or I [Alex VANOPSLAGH]<br>Liberal Party (Venstre) or V [Troels LUND POULSEN]<br>Moderates or M [Lars Lokke RASMUSSEN]<br>New Right Party or NB or D [Ann Pernille VERMUND TVEDE]<br>Red-Green Alliance (Unity List) or EL [collective leadership, Mai VILLADSEN, spokesperson]<br>Social Democrats or SDP or A [Mette FREDERIKSEN]<br>Social Liberal Party or SLP or B [Martin LIDEGAARD]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOOSA, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>

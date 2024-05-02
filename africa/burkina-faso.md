@@ -79,14 +79,16 @@ landlocked savanna cut by the three principal rivers of the Black, Red, and Whit
 ## People and Society
 
 **Population**<br>
-22,489,126 (2023 est.)<br>
+_total_: 23,042,199<br>
+_male_: 11,297,749<br>
+_female_: 11,744,450 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Burkinabe (singular and plural)<br>
 _adjective_: Burkinabe<br>
 
 **Ethnic groups**<br>
-Mossi 52%, Fulani (Peuhl) 8.4%, Gurma 7%, Bobo 4.9%, Gurunsi 4.6%, Senufo 4.5%, Bissa 3.7%, Lobi 2.4%, Dagara 2.4%, Tuareg/Bella 1.9%, Dyula 0.8%, unspecified/no answer 0.3%, other 7.2% (2010 est.)<br>
+Mossi 53.7%, Fulani (Peuhl) 6.8%, Gurunsi 5.9%, Bissa 5.4%, Gurma 5.2%, Bobo 3.4%, Senufo 2.2%, Bissa 1.5%, Lobi 1.5%, Tuareg/Bella 0.1%, other 12.8%, foreign 0.7% (2021 est.)<br>
 
 **Languages**<br>
 Mossi 52.9%, Fula 7.8%, Gourmantche 6.8%, Dyula 5.7%, Bissa 3.3%, Gurunsi 3.2%, French (official) 2.2%, Bwamu 2%, Dagara 2%, San 1.7%, Marka 1.6%, Bobo 1.5%, Senufo 1.5%, Lobi 1.2%, other 6.6% (2019 est.)<br>
@@ -98,9 +100,9 @@ Muslim 63.8%, Roman Catholic 20.1%, Animiste 9%, Protestant 6.2%, other 0.2%, no
 <p>Burkina Faso has a young age structure – the result of declining mortality combined with steady high fertility – and continues to experience rapid population growth, which is putting increasing pressure on the country’s limited arable land. Almost 65% of the population is under the age of 25 as of 2020, and the population is growing at 2.5% annually. Mortality rates, especially those of infants and children, have decreased because of improved health care, hygiene, and sanitation, but women continue to have an average of more than 4 children. Even if fertility were substantially reduced, today’s large cohort entering their reproductive years would sustain high population growth for the foreseeable future. Only about a third of the population is literate and unemployment is widespread, dampening the economic prospects of Burkina Faso’s large working-age population.</p> <p>Migration has traditionally been a way of life for Burkinabe, with seasonal migration being replaced by stints of up to two years abroad. Cote d’Ivoire remains the top destination, although it has experienced periods of internal conflict. Under French colonization, Burkina Faso became a main labor source for agricultural and factory work in Cote d’Ivoire. Burkinabe also migrated to Ghana, Mali, and Senegal for work between the world wars. Burkina Faso attracts migrants from Cote d’Ivoire, Ghana, and Mali, who often share common ethnic backgrounds with the Burkinabe. Despite its food shortages and high poverty rate, Burkina Faso has become a destination for refugees in recent years and hosts about 33,600 Malian refugees as of October 2022.</p> (2018)<br>
 
 **Age structure**<br>
-_0-14 years_: 42.19% (male 4,813,760/female 4,674,649)<br>
-_15-64 years_: 54.62% (male 5,899,774/female 6,383,134)<br>
-_65 years and over_: 3.19% (2023 est.) (male 305,233/female 412,576)<br>
+_0-14 years_: 41.6% (male 4,868,488/female 4,727,316)<br>
+_15-64 years_: 55.1% (male 6,116,674/female 6,590,775)<br>
+_65 years and over_: 3.2% (2024 est.) (male 312,587/female 426,359)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 87.4<br>
@@ -109,21 +111,21 @@ _elderly dependency ratio_: 4.8<br>
 _potential support ratio_: 20.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18.5 years (2023 est.)<br>
-_male_: 17.7 years<br>
-_female_: 19.3 years<br>
+_total_: 18.7 years (2024 est.)<br>
+_male_: 17.9 years<br>
+_female_: 19.5 years<br>
 
 **Population growth rate**<br>
-2.46% (2023 est.)<br>
+2.4% (2024 est.)<br>
 
 **Birth rate**<br>
-32.7 births/1,000 population (2023 est.)<br>
+31.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.5 deaths/1,000 population (2023 est.)<br>
+7.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.6 migrant(s)/1,000 population (2023 est.)<br>
+-0.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
  <p>Most of the population is located in the center and south. Nearly one-third of the population lives in cities. The capital and largest city is Ouagadougou (Ouaga), with a population of 1.8 million as shown in this population distribution map</p>  (2019)<br>
@@ -138,9 +140,9 @@ _rate of urbanization_: 4.75% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.74 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2023 est.)<br>
+_15-64 years_: 0.93 male(s)/female<br>
+_65 years and over_: 0.73 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.1 years (2021 est.)<br>
@@ -150,20 +152,20 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 264 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 48.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 52.4 deaths/1,000 live births<br>
-_female_: 43.8 deaths/1,000 live births<br>
+_total_: 47 deaths/1,000 live births (2024 est.)<br>
+_male_: 51.1 deaths/1,000 live births<br>
+_female_: 42.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.8 years (2023 est.)<br>
-_male_: 62 years<br>
-_female_: 65.7 years<br>
+_total population_: 64.2 years (2024 est.)<br>
+_male_: 62.3 years<br>
+_female_: 66.1 years<br>
 
 **Total fertility rate**<br>
-4.14 children born/woman (2023 est.)<br>
+4.02 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-2.04 (2023 est.)<br>
+1.98 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 35.3% (2020/21)<br>

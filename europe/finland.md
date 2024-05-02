@@ -79,7 +79,9 @@ long boundary with Russia; Helsinki is northernmost national capital on European
 ## People and Society
 
 **Population**<br>
-5,614,571 (2023 est.)<br>
+_total_: 5,626,414<br>
+_male_: 2,773,656<br>
+_female_: 2,852,758 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Finn(s)<br>
@@ -100,9 +102,9 @@ Lutheran 66.6%, Greek Orthodox 1.1%, other 1.7%, none 30.6% (2022 est.)<br>
 <p>Finland has a relatively high fertility rate for Europe at about 1.75 children per woman in 2023.  Finnish women have high labor force participation rates, and their educational attainment is higher than that of Finnish men. Finland’s family policy, like other Nordic countries, puts an emphasis on reconciling work and family life.  Both parents can stay at home with an earnings-based allowance until the baby is about 11 months old.  Finland also has a publicly subsidized childcare system.  Alternatively, parents can choose to take care of a small child through home care leave with a flat allowance rate.  These benefits have encouraged fathers to do a greater share of housework and childcare, although women still perform the lion’s share of domestic work.  In other instances, women have reduced the burden of household work by outsourcing domestic chores, rather than men taking on more of the responsibilities.  Finland has high family size ideals compared to other European countries, and childlessness and one-child families are not favored.  The proportion of couples having at least three children has been growing since the 1970s.</p> <p>Finland has historically been a country of emigration.  In the 20th century, Finns emigrated largely in two waves.  Before World War II, the majority of Finns went to North America, and after World War II most went to Sweden, where industrialization was generating much-needed jobs that offered higher salaries and a better standard of living.  In the 1980s and early 1990s, Finnish returnees (mainly from Sweden) began to outnumber Finnish emigrants.  Also arriving in Finland between April 1990 and 2010, were Ingrian Finns – descendants of ethnic Finns who settled near St. Petersburg, Russia, in the 17th century – who immigrated to Finland under the Right of Return Law.  In addition, the country has absorbed immigrants from Russia, Estonia, the former Yugoslavia, and Sweden for a variety of reasons, most commonly for marriage and family reunification.  Finland has also accepted refugees and asylum seekers from Somalia, Iraq, China, and Thailand.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 16.25% (male 466,311/female 446,015)<br>
-_15-64 years_: 60.5% (male 1,726,110/female 1,670,981)<br>
-_65 years and over_: 23.25% (2023 est.) (male 575,259/female 729,895)<br>
+_0-14 years_: 16.2% (male 464,939/female 444,585)<br>
+_15-64 years_: 60.3% (male 1,725,072/female 1,668,604)<br>
+_65 years and over_: 23.5% (2024 est.) (male 583,645/female 739,569)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 62.1<br>
@@ -111,21 +113,21 @@ _elderly dependency ratio_: 37.1<br>
 _potential support ratio_: 2.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 43.2 years (2023 est.)<br>
-_male_: 41.7 years<br>
-_female_: 44.8 years<br>
+_total_: 43.3 years (2024 est.)<br>
+_male_: 41.8 years<br>
+_female_: 44.9 years<br>
 
 **Population growth rate**<br>
-0.22% (2023 est.)<br>
+0.2% (2024 est.)<br>
 
 **Birth rate**<br>
-10.3 births/1,000 population (2023 est.)<br>
+10.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-10.4 deaths/1,000 population (2023 est.)<br>
+10.4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-2.3 migrant(s)/1,000 population (2023 est.)<br>
+2.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the vast majority of people are found in the south; the northern interior areas remain sparsely populated<br>
@@ -142,7 +144,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 1.03 male(s)/female<br>
 _65 years and over_: 0.79 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2023 est.)<br>
+_total population_: 0.97 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.5 years (2020 est.)<br>
@@ -151,20 +153,20 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 8 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.1 deaths/1,000 live births (2023 est.)<br>
+_total_: 2.1 deaths/1,000 live births (2024 est.)<br>
 _male_: 2.3 deaths/1,000 live births<br>
 _female_: 1.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82 years (2023 est.)<br>
-_male_: 79.1 years<br>
-_female_: 85 years<br>
+_total population_: 82.2 years (2024 est.)<br>
+_male_: 79.3 years<br>
+_female_: 85.2 years<br>
 
 **Total fertility rate**<br>
-1.74 children born/woman (2023 est.)<br>
+1.74 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.85 (2023 est.)<br>
+0.85 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 85.5% (2015)<br>

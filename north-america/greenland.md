@@ -73,7 +73,9 @@ dominates North Atlantic Ocean between North America and Europe; sparse populati
 ## People and Society
 
 **Population**<br>
-57,777 (2023 est.)<br>
+_total_: 57,751<br>
+_male_: 29,843<br>
+_female_: 27,908 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Greenlander(s)<br>
@@ -90,9 +92,9 @@ Greenlandic (West Greenlandic or Kalaallisut is the official language; Tunumiisu
 Evangelical Lutheran, traditional Inuit spiritual beliefs<br>
 
 **Age structure**<br>
-_0-14 years_: 20.46% (male 5,992/female 5,827)<br>
-_15-64 years_: 67.66% (male 20,271/female 18,820)<br>
-_65 years and over_: 11.89% (2023 est.) (male 3,641/female 3,226)<br>
+_0-14 years_: 20.4% (male 5,964/female 5,798)<br>
+_15-64 years_: 67.1% (male 20,050/female 18,711)<br>
+_65 years and over_: 12.5% (2024 est.) (male 3,829/female 3,399)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.6<br>
@@ -101,21 +103,21 @@ _elderly dependency ratio_: 13.6<br>
 _potential support ratio_: 7.4 (2021)<br>
 
 **Median age**<br>
-_total_: 35 years (2023 est.)<br>
-_male_: 35.7 years<br>
-_female_: 34.4 years<br>
+_total_: 35.3 years (2024 est.)<br>
+_male_: 35.9 years<br>
+_female_: 34.7 years<br>
 
 **Population growth rate**<br>
--0.04% (2023 est.)<br>
+-0.05% (2024 est.)<br>
 
 **Birth rate**<br>
-13.7 births/1,000 population (2023 est.)<br>
+13.5 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.1 deaths/1,000 population (2023 est.)<br>
+9.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--5 migrant(s)/1,000 population (2023 est.)<br>
+-4.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 settlement concentrated on the southwest shoreline, with limited settlements scattered along the remaining coast; interior is uninhabited<br>
@@ -130,25 +132,25 @@ _rate of urbanization_: 0.41% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-64 years_: 1.08 male(s)/female<br>
+_15-64 years_: 1.07 male(s)/female<br>
 _65 years and over_: 1.13 male(s)/female<br>
-_total population_: 1.07 male(s)/female (2023 est.)<br>
+_total population_: 1.07 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.6 deaths/1,000 live births (2023 est.)<br>
-_male_: 10.1 deaths/1,000 live births<br>
-_female_: 7 deaths/1,000 live births<br>
+_total_: 8.5 deaths/1,000 live births (2024 est.)<br>
+_male_: 9.9 deaths/1,000 live births<br>
+_female_: 6.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.3 years (2023 est.)<br>
-_male_: 71.6 years<br>
-_female_: 77.1 years<br>
+_total population_: 74.5 years (2024 est.)<br>
+_male_: 71.8 years<br>
+_female_: 77.3 years<br>
 
 **Total fertility rate**<br>
-1.9 children born/woman (2023 est.)<br>
+1.88 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.92 (2023 est.)<br>
+0.92 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

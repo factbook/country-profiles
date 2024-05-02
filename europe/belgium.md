@@ -79,7 +79,9 @@ crossroads of Western Europe; most West European capitals are within 1,000 km of
 ## People and Society
 
 **Population**<br>
-11,913,633 (2023 est.)<br>
+_total_: 11,977,634<br>
+_male_: 5,909,057<br>
+_female_: 6,068,577 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Belgian(s)<br>
@@ -96,9 +98,9 @@ _major-language sample(s)_: <br>Het Wereld Feitenboek, een onmisbare bron van in
 Roman Catholic 57.1%, Protestant 2.3%, other Christian, 2.8%, Muslim 6.8%, other 1.7%, atheist 9.1%, nonbeliever/agnostic 20.2% (2018 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 17.03% (male 1,038,921/female 990,288)<br>
-_15-64 years_: 63.06% (male 3,788,406/female 3,724,202)<br>
-_65 years and over_: 19.91% (2023 est.) (male 1,049,402/female 1,322,414)<br>
+_0-14 years_: 16.9% (male 1,038,578/female 990,215)<br>
+_15-64 years_: 62.8% (male 3,796,844/female 3,730,784)<br>
+_65 years and over_: 20.2% (2024 est.) (male 1,073,635/female 1,347,578)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.5<br>
@@ -107,21 +109,21 @@ _elderly dependency ratio_: 30.4<br>
 _potential support ratio_: 3.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 41.9 years (2023 est.)<br>
-_male_: 40.7 years<br>
-_female_: 43 years<br>
+_total_: 42 years (2024 est.)<br>
+_male_: 40.8 years<br>
+_female_: 43.1 years<br>
 
 **Population growth rate**<br>
-0.55% (2023 est.)<br>
+0.53% (2024 est.)<br>
 
 **Birth rate**<br>
-10.9 births/1,000 population (2023 est.)<br>
+10.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.6 deaths/1,000 population (2023 est.)<br>
+9.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-4.2 migrant(s)/1,000 population (2023 est.)<br>
+4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the population concentrated in the northern two-thirds of the country; the southeast is more thinly populated; considered to have one of the highest population densities in the world; approximately 97% live in urban areas<br>
@@ -137,8 +139,8 @@ _rate of urbanization_: 0.38% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 1.02 male(s)/female<br>
-_65 years and over_: 0.79 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.8 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.2 years (2020 est.)<br>
@@ -147,20 +149,20 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.6 deaths/1,000 live births<br>
+_total_: 3.1 deaths/1,000 live births (2024 est.)<br>
+_male_: 3.5 deaths/1,000 live births<br>
 _female_: 2.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.1 years (2023 est.)<br>
-_male_: 79.5 years<br>
-_female_: 84.8 years<br>
+_total population_: 82.3 years (2024 est.)<br>
+_male_: 79.7 years<br>
+_female_: 85 years<br>
 
 **Total fertility rate**<br>
-1.77 children born/woman (2023 est.)<br>
+1.76 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.86 (2023 est.)<br>
+0.86 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.7% (2018)<br>

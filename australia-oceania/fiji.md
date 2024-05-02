@@ -75,7 +75,9 @@ consists of 332 islands, approximately 110 of which are inhabited, and more than
 ## People and Society
 
 **Population**<br>
-947,760 (2023 est.)<br>
+_total_: 951,611<br>
+_male_: 482,304<br>
+_female_: 469,307 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Fijian(s)<br>
@@ -92,9 +94,9 @@ English (official), iTaukei (official), Fiji Hindi (official)<br>
 Protestant 45% (Methodist 34.6%, Assembly of God 5.7%, Seventh Day Adventist 3.9%, and Anglican 0.8%), Hindu 27.9%, other Christian 10.4%, Roman Catholic 9.1%, Muslim 6.3%, Sikh 0.3%, other 0.3%, none 0.8% (2007 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 25.17% (male 121,809/female 116,737)<br>
-_15-64 years_: 66.31% (male 321,448/female 307,026)<br>
-_65 years and over_: 8.52% (2023 est.) (male 37,219/female 43,521)<br>
+_0-14 years_: 24.7% (male 119,910/female 114,904)<br>
+_15-64 years_: 66.4% (male 323,339/female 308,921)<br>
+_65 years and over_: 8.9% (2024 est.) (male 39,055/female 45,482)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53<br>
@@ -103,21 +105,21 @@ _elderly dependency ratio_: 8.7<br>
 _potential support ratio_: 11.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.2 years (2023 est.)<br>
-_male_: 31 years<br>
-_female_: 31.5 years<br>
+_total_: 31.6 years (2024 est.)<br>
+_male_: 31.4 years<br>
+_female_: 31.8 years<br>
 
 **Population growth rate**<br>
-0.42% (2023 est.)<br>
+0.4% (2024 est.)<br>
 
 **Birth rate**<br>
-16.3 births/1,000 population (2023 est.)<br>
+15.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.4 deaths/1,000 population (2023 est.)<br>
+6.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--5.7 migrant(s)/1,000 population (2023 est.)<br>
+-5.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 approximately 70% of the population lives on the island of Viti Levu; roughly half of the population lives in urban areas<br>
@@ -134,26 +136,26 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 1.05 male(s)/female<br>
 _65 years and over_: 0.86 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2023 est.)<br>
+_total population_: 1.03 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 38 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 11.4 deaths/1,000 live births<br>
-_female_: 8.3 deaths/1,000 live births<br>
+_total_: 9.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 11.1 deaths/1,000 live births<br>
+_female_: 8.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.5 years (2023 est.)<br>
-_male_: 71.9 years<br>
-_female_: 77.3 years<br>
+_total population_: 74.8 years (2024 est.)<br>
+_male_: 72.2 years<br>
+_female_: 77.6 years<br>
 
 **Total fertility rate**<br>
-2.23 children born/woman (2023 est.)<br>
+2.21 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.09 (2023 est.)<br>
+1.08 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 35.5% (2021)<br>

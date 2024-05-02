@@ -75,7 +75,9 @@ smallest Central American country and only one without a coastline on the Caribb
 ## People and Society
 
 **Population**<br>
-6,602,370 (2023 est.)<br>
+_total_: 6,628,702<br>
+_male_: 3,172,244<br>
+_female_: 3,456,458 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Salvadoran(s)<br>
@@ -95,9 +97,9 @@ Roman Catholic 43.9%, Protestant 39.6% (Evangelical - unspecified 38.2%, Evangel
 <p>El Salvador is the smallest and most densely populated country in Central America. It is well into its demographic transition, experiencing slower population growth, a decline in its number of youths, and the gradual aging of its population. The increased use of family planning has substantially lowered El Salvador's fertility rate, from approximately 6 children per woman in the 1970s to replacement level today. A 2008 national family planning survey showed that female sterilization remained the most common contraception method in El Salvador - its sterilization rate is among the highest in Latin America and the Caribbean - but that the use of injectable contraceptives is growing. Fertility differences between rich and poor and urban and rural women are narrowing.</p><p>Salvadorans fled during the 1979 to 1992 civil war mainly to the United States but also to Canada and to neighboring Mexico, Guatemala, Honduras, Nicaragua, and Costa Rica. Emigration to the United States increased again in the 1990s and 2000s as a result of deteriorating economic conditions, natural disasters (Hurricane Mitch in 1998 and earthquakes in 2001), and family reunification. At least 20% of El Salvador's population lives abroad. The remittances they send home account for close to 20% of GDP, are the second largest source of external income after exports, and have helped reduce poverty.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 25.4% (male 857,304/female 819,670)<br>
-_15-64 years_: 66.39% (male 2,072,784/female 2,310,573)<br>
-_65 years and over_: 8.21% (2023 est.) (male 232,684/female 309,355)<br>
+_0-14 years_: 25.3% (male 855,841/female 818,642)<br>
+_15-64 years_: 66.3% (male 2,077,745/female 2,317,416)<br>
+_65 years and over_: 8.4% (2024 est.) (male 238,658/female 320,400)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.3<br>
@@ -106,21 +108,21 @@ _elderly dependency ratio_: 12.3<br>
 _potential support ratio_: 8.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.2 years (2023 est.)<br>
-_male_: 27.7 years<br>
-_female_: 30.7 years<br>
+_total_: 29.7 years (2024 est.)<br>
+_male_: 28.2 years<br>
+_female_: 31.2 years<br>
 
 **Population growth rate**<br>
-0.46% (2023 est.)<br>
+0.34% (2024 est.)<br>
 
 **Birth rate**<br>
-17.5 births/1,000 population (2023 est.)<br>
+17.1 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.9 deaths/1,000 population (2023 est.)<br>
+5.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--7 migrant(s)/1,000 population (2023 est.)<br>
+-7.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 athough it is the smallest country in land area in Central America, El Salvador has a population that is 18 times larger than Belize; at least 20% of the population lives abroad; high population density country-wide, with particular concentration around the capital of San Salvador<br>
@@ -136,8 +138,8 @@ _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 0.9 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 0.92 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.74 male(s)/female<br>
+_total population_: 0.92 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.8 years (2008 est.)<br>
@@ -147,20 +149,20 @@ _total population_: 0.92 male(s)/female (2023 est.)<br>
 43 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 13.6 deaths/1,000 live births<br>
-_female_: 10.2 deaths/1,000 live births<br>
+_total_: 11.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 13.3 deaths/1,000 live births<br>
+_female_: 10 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.6 years (2023 est.)<br>
-_male_: 72.2 years<br>
-_female_: 79.3 years<br>
+_total population_: 75.9 years (2024 est.)<br>
+_male_: 72.4 years<br>
+_female_: 79.5 years<br>
 
 **Total fertility rate**<br>
-2.04 children born/woman (2023 est.)<br>
+2.02 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.99 (2023 est.)<br>
+0.98 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 71.9% (2014)<br>

@@ -77,7 +77,9 @@ strategic location on Bab el Mandeb, the strait linking the Red Sea and the Gulf
 ## People and Society
 
 **Population**<br>
-31,565,602 (2023 est.)<br>
+_total_: 32,140,443<br>
+_male_: 16,221,139<br>
+_female_: 15,919,304 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Yemeni(s)<br>
@@ -94,9 +96,9 @@ _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر 
 Muslim 99.1% (official; virtually all are citizens, an estimated 65% are Sunni and 35% are Shia), other 0.9% (includes Jewish, Baha'i, Hindu, and Christian; many are refugees or temporary foreign residents) (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 35.14% (male 5,641,548/female 5,449,491)<br>
-_15-64 years_: 61.52% (male 9,829,725/female 9,590,956)<br>
-_65 years and over_: 3.34% (2023 est.) (male 464,548/female 589,334)<br>
+_0-14 years_: 34.4% (male 5,622,998/female 5,430,285)<br>
+_15-64 years_: 62.2% (male 10,112,603/female 9,865,805)<br>
+_65 years and over_: 3.4% (2024 est.) (male 485,538/female 623,214)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 71.7<br>
@@ -105,21 +107,21 @@ _elderly dependency ratio_: 4.7<br>
 _potential support ratio_: 19.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21.6 years (2023 est.)<br>
-_male_: 21.5 years<br>
-_female_: 21.8 years<br>
+_total_: 22 years (2024 est.)<br>
+_male_: 21.9 years<br>
+_female_: 22.2 years<br>
 
 **Population growth rate**<br>
-1.83% (2023 est.)<br>
+1.78% (2024 est.)<br>
 
 **Birth rate**<br>
-24.1 births/1,000 population (2023 est.)<br>
+23.4 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.5 deaths/1,000 population (2023 est.)<br>
+5.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.2 migrant(s)/1,000 population (2023 est.)<br>
+-0.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the population is found in the Asir Mountains (part of the larger Sarawat Mountain system), located in the far western region of the country<br>
@@ -134,9 +136,9 @@ _rate of urbanization_: 3.71% annual rate of change (2015-20 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-64 years_: 1.02 male(s)/female<br>
-_65 years and over_: 0.79 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2023 est.)<br>
+_15-64 years_: 1.03 male(s)/female<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.8 years (2013 est.)<br>
@@ -146,20 +148,20 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 183 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 45.5 deaths/1,000 live births (2023 est.)<br>
-_male_: 50.9 deaths/1,000 live births<br>
-_female_: 40 deaths/1,000 live births<br>
+_total_: 44.6 deaths/1,000 live births (2024 est.)<br>
+_male_: 49.9 deaths/1,000 live births<br>
+_female_: 39 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.8 years (2023 est.)<br>
-_male_: 65.5 years<br>
-_female_: 70.3 years<br>
+_total population_: 68.2 years (2024 est.)<br>
+_male_: 65.8 years<br>
+_female_: 70.6 years<br>
 
 **Total fertility rate**<br>
-2.91 children born/woman (2023 est.)<br>
+2.82 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.42 (2023 est.)<br>
+1.37 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 33.5% (2013)<br>

@@ -90,7 +90,9 @@ vast majority of Canadians are positioned in a discontinuous band within approxi
 ## People and Society
 
 **Population**<br>
-38,516,736 (2023 est.)<br>
+_total_: 38,794,813<br>
+_male_: 19,234,729<br>
+_female_: 19,560,084 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Canadian(s)<br>
@@ -108,9 +110,9 @@ _major-language sample(s)_: <br>The World Factbook, the indispensable source for
 Christian 53.3%, Muslim 4.9%, Hindu 2.3%, Sikh 2.1%, Buddhist 1%, Jewish 0.9%, Traditional (North American Indigenous) 0.2%, other religions and traditional spirituality 0.6%, none 34.6% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 15.65% (male 3,097,585/female 2,930,056)<br>
-_15-64 years_: 63.85% (male 12,367,172/female 12,224,077)<br>
-_65 years and over_: 20.5% (2023 est.) (male 3,630,580/female 4,267,266)<br>
+_0-14 years_: 15.5% (male 3,098,478/female 2,929,148)<br>
+_15-64 years_: 63.4% (male 12,382,422/female 12,227,512)<br>
+_65 years and over_: 21% (2024 est.) (male 3,753,829/female 4,403,424)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 52.1<br>
@@ -119,21 +121,21 @@ _elderly dependency ratio_: 28.2<br>
 _potential support ratio_: 3.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42.4 years (2023 est.)<br>
-_male_: 41.2 years<br>
-_female_: 43.5 years<br>
+_total_: 42.6 years (2024 est.)<br>
+_male_: 41.4 years<br>
+_female_: 43.8 years<br>
 
 **Population growth rate**<br>
-0.73% (2023 est.)<br>
+0.71% (2024 est.)<br>
 
 **Birth rate**<br>
-10.1 births/1,000 population (2023 est.)<br>
+10 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8.2 deaths/1,000 population (2023 est.)<br>
+8.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-5.4 migrant(s)/1,000 population (2023 est.)<br>
+5.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia<br>
@@ -150,7 +152,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.01 male(s)/female<br>
 _65 years and over_: 0.85 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2023 est.)<br>
+_total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.4 years (2019 est.)<br>
@@ -159,20 +161,20 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 11 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.3 deaths/1,000 live births (2023 est.)<br>
-_male_: 4.6 deaths/1,000 live births<br>
+_total_: 4.3 deaths/1,000 live births (2024 est.)<br>
+_male_: 4.5 deaths/1,000 live births<br>
 _female_: 4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 84 years (2023 est.)<br>
-_male_: 81.7 years<br>
-_female_: 86.4 years<br>
+_total population_: 84.2 years (2024 est.)<br>
+_male_: 81.9 years<br>
+_female_: 86.6 years<br>
 
 **Total fertility rate**<br>
-1.57 children born/woman (2023 est.)<br>
+1.58 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.77 (2023 est.)<br>
+0.77 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

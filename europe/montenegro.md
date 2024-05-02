@@ -80,7 +80,9 @@ strategic location along the Adriatic coast<br>
 ## People and Society
 
 **Population**<br>
-602,445 (2023 est.)<br>
+_total_: 599,849<br>
+_male_: 294,482<br>
+_female_: 305,367 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Montenegrin(s)<br>
@@ -97,9 +99,9 @@ _major-language sample(s)_: <br>Knjiga svetskih činjenica, neophodan izvor osno
 Orthodox 72.1%, Muslim 19.1%, Catholic 3.4%, atheist 1.2%, other 1.5%, unspecified 2.6% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 17.93% (male 55,690/female 52,340)<br>
-_15-64 years_: 64.65% (male 194,334/female 195,127)<br>
-_65 years and over_: 17.42% (2023 est.) (male 45,993/female 58,961)<br>
+_0-14 years_: 17.7% (male 54,608/female 51,594)<br>
+_15-64 years_: 64.4% (male 192,631/female 193,515)<br>
+_65 years and over_: 17.9% (2024 est.) (male 47,243/female 60,258)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 52.5<br>
@@ -108,21 +110,21 @@ _elderly dependency ratio_: 24.8<br>
 _potential support ratio_: 4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 40.7 years (2023 est.)<br>
-_male_: 39.2 years<br>
-_female_: 42.2 years<br>
+_total_: 41.1 years (2024 est.)<br>
+_male_: 39.5 years<br>
+_female_: 42.5 years<br>
 
 **Population growth rate**<br>
--0.43% (2023 est.)<br>
+-0.44% (2024 est.)<br>
 
 **Birth rate**<br>
-11 births/1,000 population (2023 est.)<br>
+10.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-10.3 deaths/1,000 population (2023 est.)<br>
+10.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--5 migrant(s)/1,000 population (2023 est.)<br>
+-5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 highest population density is concentrated in the south, southwest; the extreme eastern border is the least populated area<br>
@@ -139,7 +141,7 @@ _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
 _65 years and over_: 0.78 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2023 est.)<br>
+_total population_: 0.96 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.3 years (2010 est.)<br>
@@ -148,20 +150,20 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 6 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.2 deaths/1,000 live births (2023 est.)<br>
+_total_: 3.2 deaths/1,000 live births (2024 est.)<br>
 _male_: 2.7 deaths/1,000 live births<br>
 _female_: 3.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78 years (2023 est.)<br>
-_male_: 75.6 years<br>
-_female_: 80.5 years<br>
+_total population_: 78.2 years (2024 est.)<br>
+_male_: 75.8 years<br>
+_female_: 80.7 years<br>
 
 **Total fertility rate**<br>
-1.81 children born/woman (2023 est.)<br>
+1.8 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.89 (2023 est.)<br>
+0.89 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 20.7% (2018)<br>

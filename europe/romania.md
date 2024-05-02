@@ -82,7 +82,9 @@ controls the most easily traversable land route between the Balkans, Moldova, an
 ## People and Society
 
 **Population**<br>
-18,326,327 (2023 est.)<br>
+_total_: 18,148,155<br>
+_male_: 8,747,795<br>
+_female_: 9,400,360 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Romanian(s)<br>
@@ -101,9 +103,9 @@ Romanian Orthodox 85.3%, Roman Catholic 4.5%, Reformed 3%, Pentecostal 2.5%, oth
 <strong>note:</strong> data represent individuals who declared a religion in the 2021 national census; 13.9% did not respond<br>
 
 **Age structure**<br>
-_0-14 years_: 15.63% (male 1,472,449/female 1,391,671)<br>
-_15-64 years_: 62.13% (male 5,689,908/female 5,696,224)<br>
-_65 years and over_: 22.24% (2023 est.) (male 1,682,695/female 2,393,380)<br>
+_0-14 years_: 15.4% (male 1,441,359/female 1,362,304)<br>
+_15-64 years_: 62% (male 5,618,366/female 5,632,718)<br>
+_65 years and over_: 22.6% (2024 est.) (male 1,688,070/female 2,405,338)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.7<br>
@@ -112,21 +114,21 @@ _elderly dependency ratio_: 29.1<br>
 _potential support ratio_: 3.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 45.1 years (2023 est.)<br>
-_male_: 43.6 years<br>
-_female_: 46.5 years<br>
+_total_: 45.5 years (2024 est.)<br>
+_male_: 44 years<br>
+_female_: 46.9 years<br>
 
 **Population growth rate**<br>
--1.01% (2023 est.)<br>
+-0.94% (2024 est.)<br>
 
 **Birth rate**<br>
-8.6 births/1,000 population (2023 est.)<br>
+8.5 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-14.9 deaths/1,000 population (2023 est.)<br>
+14.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--3.9 migrant(s)/1,000 population (2023 est.)<br>
+-3.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 urbanization is not particularly high, and a fairly even population distribution can be found throughout most of the country, with urban areas attracting larger and denser populations; Hungarians, the country's largest minority, have a particularly strong presence in eastern Transylvania<br>
@@ -143,7 +145,7 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
 _65 years and over_: 0.7 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2023 est.)<br>
+_total population_: 0.93 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.1 years (2020 est.)<br>
@@ -152,20 +154,20 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 10 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.7 deaths/1,000 live births (2023 est.)<br>
-_male_: 5.9 deaths/1,000 live births<br>
-_female_: 5.4 deaths/1,000 live births<br>
+_total_: 5.5 deaths/1,000 live births (2024 est.)<br>
+_male_: 5.8 deaths/1,000 live births<br>
+_female_: 5.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.3 years (2023 est.)<br>
-_male_: 72.9 years<br>
-_female_: 80 years<br>
+_total population_: 76.9 years (2024 est.)<br>
+_male_: 73.4 years<br>
+_female_: 80.5 years<br>
 
 **Total fertility rate**<br>
-1.63 children born/woman (2023 est.)<br>
+1.63 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.79 (2023 est.)<br>
+0.79 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

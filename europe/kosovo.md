@@ -73,7 +73,9 @@ the 41-km long Nerodimka River divides into two branches each of which flows int
 ## People and Society
 
 **Population**<br>
-1,964,327 (2023 est.)<br>
+_total_: 1,977,093<br>
+_male_: 1,017,992<br>
+_female_: 959,101 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Kosovan<br>
@@ -93,9 +95,9 @@ Muslim 95.6%, Roman Catholic 2.2%, Orthodox 1.5%, other 0.1%, none 0.1%, unspeci
 <strong>note:</strong> these estimates may under-represent Serb, Romani, and some other ethnic minorities because they are based on the 2011 Kosovo national census, which excluded northern Kosovo (a largely Serb-inhabited region) and was partially boycotted by Serb and Romani communities in southern Kosovo<br>
 
 **Age structure**<br>
-_0-14 years_: 23.1% (male 235,379/female 218,359)<br>
-_15-64 years_: 68.75% (male 706,495/female 643,982)<br>
-_65 years and over_: 8.15% (2023 est.) (male 69,676/female 90,436)<br>
+_0-14 years_: 22.7% (male 233,010/female 216,304)<br>
+_15-64 years_: 68.9% (male 712,403/female 649,932)<br>
+_65 years and over_: 8.4% (2024 est.) (male 72,579/female 92,865)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 46.9<br>
@@ -104,21 +106,21 @@ _elderly dependency ratio_: 14.6<br>
 _potential support ratio_: 6.9 (2021)<br>
 
 **Median age**<br>
-_total_: 31.7 years (2023 est.)<br>
-_male_: 31.3 years<br>
-_female_: 32 years<br>
+_total_: 32 years (2024 est.)<br>
+_male_: 31.7 years<br>
+_female_: 32.4 years<br>
 
 **Population growth rate**<br>
-0.62% (2023 est.)<br>
+0.68% (2024 est.)<br>
 
 **Birth rate**<br>
-14.6 births/1,000 population (2023 est.)<br>
+14.4 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.7 deaths/1,000 population (2023 est.)<br>
+7.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.7 migrant(s)/1,000 population (2023 est.)<br>
+-0.4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population clusters exist throughout the country, the largest being in the east in and around the capital of Pristina<br>
@@ -130,24 +132,24 @@ population clusters exist throughout the country, the largest being in the east 
 _at birth_: 1.08 male(s)/female<br>
 _0-14 years_: 1.08 male(s)/female<br>
 _15-64 years_: 1.1 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 1.06 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 1.06 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 24.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 26.4 deaths/1,000 live births<br>
-_female_: 23.4 deaths/1,000 live births<br>
+_total_: 22.9 deaths/1,000 live births (2024 est.)<br>
+_male_: 24.2 deaths/1,000 live births<br>
+_female_: 21.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.2 years (2023 est.)<br>
-_male_: 69.9 years<br>
-_female_: 74.5 years<br>
+_total population_: 73.1 years (2024 est.)<br>
+_male_: 71 years<br>
+_female_: 75.5 years<br>
 
 **Total fertility rate**<br>
-1.88 children born/woman (2023 est.)<br>
+1.87 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.91 (2023 est.)<br>
+0.9 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

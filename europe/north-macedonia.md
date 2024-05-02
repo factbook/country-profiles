@@ -76,7 +76,9 @@ landlocked; major transportation corridor from Western and Central Europe to Aeg
 ## People and Society
 
 **Population**<br>
-2,133,410 (2023 est.)<br>
+_total_: 2,135,622<br>
+_male_: 1,064,727<br>
+_female_: 1,070,895 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Macedonian(s)<br>
@@ -94,9 +96,9 @@ _major-language sample(s)_: <br>Книга на Светски Факти, не�
 Macedonian Orthodox 46.1%, Muslim 32.2%, other Christian 13.8%, other and non-believers 0.5%, unspecified 0.2%, persons for whom data were taken from administrative sources and no religious affiliation data was available 7.2% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 16.06% (male 177,156/female 165,540)<br>
-_15-64 years_: 68.69% (male 742,990/female 722,359)<br>
-_65 years and over_: 15.25% (2023 est.) (male 143,539/female 181,826)<br>
+_0-14 years_: 16% (male 176,423/female 164,945)<br>
+_15-64 years_: 68.4% (male 740,649/female 719,627)<br>
+_65 years and over_: 15.6% (2024 est.) (male 147,655/female 186,323)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 44.6<br>
@@ -105,21 +107,21 @@ _elderly dependency ratio_: 21.4<br>
 _potential support ratio_: 4.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 40.1 years (2023 est.)<br>
-_male_: 39.1 years<br>
-_female_: 41.2 years<br>
+_total_: 40.5 years (2024 est.)<br>
+_male_: 39.4 years<br>
+_female_: 41.6 years<br>
 
 **Population growth rate**<br>
-0.11% (2023 est.)<br>
+0.1% (2024 est.)<br>
 
 **Birth rate**<br>
-10.3 births/1,000 population (2023 est.)<br>
+10.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.6 deaths/1,000 population (2023 est.)<br>
+9.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0.4 migrant(s)/1,000 population (2023 est.)<br>
+0.4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -136,7 +138,7 @@ _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
 _15-64 years_: 1.03 male(s)/female<br>
 _65 years and over_: 0.79 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.9 years (2020 est.)<br>
@@ -145,20 +147,20 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 8.1 deaths/1,000 live births<br>
-_female_: 6.2 deaths/1,000 live births<br>
+_total_: 7 deaths/1,000 live births (2024 est.)<br>
+_male_: 7.9 deaths/1,000 live births<br>
+_female_: 6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.1 years (2023 est.)<br>
-_male_: 75 years<br>
-_female_: 79.3 years<br>
+_total population_: 77.3 years (2024 est.)<br>
+_male_: 75.3 years<br>
+_female_: 79.6 years<br>
 
 **Total fertility rate**<br>
-1.52 children born/woman (2023 est.)<br>
+1.53 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.74 (2023 est.)<br>
+0.74 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 59.9% (2018/19)<br>

@@ -82,7 +82,9 @@ major concentration on the island of Java, which is considered one of the most d
 ## People and Society
 
 **Population**<br>
-279,476,346 (2023 est.)<br>
+_total_: 281,562,465<br>
+_male_: 140,800,047<br>
+_female_: 140,762,418 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Indonesian(s)<br>
@@ -102,9 +104,9 @@ Muslim 87.4%, Protestant 7.5%, Roman Catholic 3.1%, Hindu 1.7%, other 0.8% (incl
 <p>Indonesia has the world’s fourth-largest population.  It is predominantly Muslim and has the largest Muslim population of any country in the world.  The population is projected to increase to as much as 320 million by 2045.  A government-supported family planning program.  The total fertility rate (TFR) – the average number of births per woman – from 5.6 in the mid-1960s to 2.7 in the mid-1990s.  The success of the program was also due to the social acceptance of family planning, which received backing from influential Muslim leaders and organizations.</p> <p>The fertility decline slowed in the late 1990’s when responsibility for family planning programs shifted to the district level, where the programs were not prioritized.  Since 2012 the national government revitalized the national family planning program, and Indonesia’s TFR has slowly decreased to 2.3 in 2020.  The government may reach its goal of achieving replacement level fertility – 2.1 children per woman – but the large number of women of childbearing age ensures significant population growth for many years. </p> <p>Indonesia is a source country for labor migrants, a transit country for asylum seekers, and a destination mainly for highly skilled migrant workers.  International labor migration, both legal and illegal, from Indonesia to other parts of Asia (most commonly Malaysia) and the Middle East has taken place for decades because of high unemployment and underemployment, poverty, and low wages domestically.  Increasing numbers of migrant workers are drawn to Australia, Canada, New Zealand, and the US.  The majority of Indonesian labor migration is temporary and consists predominantly of low-skilled workers, mainly women working as domestics.</p> <p>Indonesia’s strategic location between Asia and Australia and between the Pacific and Indian Oceans – and its relatively easy accessibility via boat – appeal to asylum seekers.  It is also an attractive transit location because of its easy entry requirements and the ability to continue on to Australia.  Recent asylum seekers have come from Afghanistan, Burma (Rohingyas), Iraq, Somalia, and Sri Lanka.  Since 2013, when Australia tightening its immigration policy, thousands of migrants and asylum seekers have been stranded in Indonesia, where they live in precarious conditions and receive only limited support from international organizations.  The situation for refugees in Indonesia has also worsened because Australia and the US, which had resettled the majority of refugees in Indonesia, have significantly lowered their intake.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 24.22% (male 34,627,270/female 33,066,304)<br>
-_15-64 years_: 68.1% (male 95,267,122/female 95,063,200)<br>
-_65 years and over_: 7.68% (2023 est.) (male 9,892,325/female 11,560,125)<br>
+_0-14 years_: 23.8% (male 34,247,218/female 32,701,367)<br>
+_15-64 years_: 68.3% (male 96,268,201/female 95,961,293)<br>
+_65 years and over_: 8% (2024 est.) (male 10,284,628/female 12,099,758)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 47.6<br>
@@ -113,21 +115,21 @@ _elderly dependency ratio_: 10<br>
 _potential support ratio_: 10 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.2 years (2023 est.)<br>
-_male_: 30.5 years<br>
-_female_: 32 years<br>
+_total_: 31.5 years (2024 est.)<br>
+_male_: 30.8 years<br>
+_female_: 32.3 years<br>
 
 **Population growth rate**<br>
-0.76% (2023 est.)<br>
+0.73% (2024 est.)<br>
 
 **Birth rate**<br>
-15.1 births/1,000 population (2023 est.)<br>
+14.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.8 deaths/1,000 population (2023 est.)<br>
+6.8 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.7 migrant(s)/1,000 population (2023 est.)<br>
+-0.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 major concentration on the island of Java, which is considered one of the most densely populated places on earth; of the outer islands (those surrounding Java and Bali), Sumatra contains some of the most significant clusters, particularly in the south near the Selat Sunda, and along the northeastern coast near Medan; the cities of Makasar (Sulawesi), Banjarmasin (Kalimantan) are also heavily populated<br>
@@ -143,8 +145,8 @@ _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.86 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.85 male(s)/female<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.4 years (2017 est.)<br>
@@ -154,20 +156,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 173 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.3 deaths/1,000 live births (2023 est.)<br>
-_male_: 21.7 deaths/1,000 live births<br>
-_female_: 16.8 deaths/1,000 live births<br>
+_total_: 18.9 deaths/1,000 live births (2024 est.)<br>
+_male_: 21.3 deaths/1,000 live births<br>
+_female_: 16.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.3 years (2023 est.)<br>
-_male_: 71.1 years<br>
-_female_: 75.7 years<br>
+_total population_: 73.6 years (2024 est.)<br>
+_male_: 71.3 years<br>
+_female_: 76 years<br>
 
 **Total fertility rate**<br>
-1.99 children born/woman (2023 est.)<br>
+1.96 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.97 (2023 est.)<br>
+0.96 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 55.5% (2018)<br>
@@ -371,7 +373,6 @@ _subordinate courts_: High Courts of Appeal, district courts, religious courts<b
 
 **Political parties and leaders**<br>
 Democrat Party or PD [Agus Harimurti YUDHOYONO]<br>Functional Groups Party or GOLKAR [Airlangga HARTARTO]<br>Great Indonesia Movement Party or GERINDRA [PRABOWO Subianto Djojohadikusumo]<br>Indonesia Democratic Party-Struggle or PDI-P [MEGAWATI Sukarnoputri]<br>National Awakening Party or PKB [Muhaiman ISKANDAR]<br>National Democratic Party or NasDem [Surya PALOH]<br>National Mandate Party or PAN [Zulkifli HASAN]<br>Prosperous Justice Party or PKS [Ahmad SYAIKHU]<br>United Development Party or PPP [Muhamad MARDIONO]<br>
-<strong>note:</strong> these parties are those represented in national and regional legislatures; additional parties are represented in only regional legislatures<br>
 
 **International organization participation**<br>
 ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, D-8, EAS, EITI (compliant country), FAO, G-11, G-15, G-20, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IORA, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, MSG (associate member), NAM, OECD (enhanced engagement), OIC, OPCW, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

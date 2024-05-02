@@ -74,7 +74,9 @@ strategic location on sea routes between the South Pacific Ocean, the Solomon Se
 ## People and Society
 
 **Population**<br>
-714,766 (2023 est.)<br>
+_total_: 726,799<br>
+_male_: 370,970<br>
+_female_: 355,829 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Solomon Islander(s)<br>
@@ -90,9 +92,9 @@ Melanesian pidgin (in much of the country is lingua franca), English (official b
 Protestant 73.4% (Church of Melanesia 31.9%, South Sea Evangelical 17.1%, Seventh Day Adventist 11.7%, United Church 10.1%, Christian Fellowship Church 2.5%), Roman Catholic 19.6%, other Christian 2.9%, other 4%, unspecified 0.1% (2009 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 31.06% (male 114,104/female 107,900)<br>
-_15-64 years_: 63.82% (male 233,501/female 222,640)<br>
-_65 years and over_: 5.12% (2023 est.) (male 17,238/female 19,383)<br>
+_0-14 years_: 30.6% (male 114,246/female 108,020)<br>
+_15-64 years_: 64.2% (male 238,708/female 227,636)<br>
+_65 years and over_: 5.3% (2024 est.) (male 18,016/female 20,173)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 74.8<br>
@@ -101,21 +103,21 @@ _elderly dependency ratio_: 6<br>
 _potential support ratio_: 16.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24.8 years (2023 est.)<br>
-_male_: 24.6 years<br>
-_female_: 25 years<br>
+_total_: 25.2 years (2024 est.)<br>
+_male_: 25 years<br>
+_female_: 25.4 years<br>
 
 **Population growth rate**<br>
-1.69% (2023 est.)<br>
+1.65% (2024 est.)<br>
 
 **Birth rate**<br>
-22.3 births/1,000 population (2023 est.)<br>
+22 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-4 deaths/1,000 population (2023 est.)<br>
+3.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1.5 migrant(s)/1,000 population (2023 est.)<br>
+-1.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the population lives along the coastal regions; about one in five live in urban areas, and of these some two-thirds reside in Honiara, the largest town and chief port<br>
@@ -132,7 +134,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.05 male(s)/female<br>
 _65 years and over_: 0.89 male(s)/female<br>
-_total population_: 1.04 male(s)/female (2023 est.)<br>
+_total population_: 1.04 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.6 years (2015 est.)<br>
@@ -142,20 +144,20 @@ _total population_: 1.04 male(s)/female (2023 est.)<br>
 122 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.5 deaths/1,000 live births (2023 est.)<br>
-_male_: 23.3 deaths/1,000 live births<br>
-_female_: 15.6 deaths/1,000 live births<br>
+_total_: 19.1 deaths/1,000 live births (2024 est.)<br>
+_male_: 22.7 deaths/1,000 live births<br>
+_female_: 15.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77 years (2023 est.)<br>
-_male_: 74.3 years<br>
-_female_: 79.7 years<br>
+_total population_: 77.2 years (2024 est.)<br>
+_male_: 74.6 years<br>
+_female_: 80 years<br>
 
 **Total fertility rate**<br>
-2.82 children born/woman (2023 est.)<br>
+2.77 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.38 (2023 est.)<br>
+1.35 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 29.3% (2015)<br>
@@ -311,8 +313,8 @@ _election results_: Manasseh SOGAVARE (OUR Party) elected prime minister on 24 A
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (50 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: last held on 3 April 2019 (next originally scheduled for April 2023 but delayed until 17 April 2024)<br>
-_election results_: percent of vote by party - UDP 10.7%, DAP 7.8%, PAP 4.4%, independent 56.3%, other 20.8%; seats by party - DAP 7, UDP 5, PAP 3, KPSI 1, SIPFP 1, SIPRA 1, independent 32; composition as of December 2020 - men 46, women 4, percentage women 8%<br>
+_elections_: last held on 17 April 2024 (next to be held in 2028)<br>
+_election results_: percent of vote by party - OUR: 24.1%, independent 21.9%, SIDP 19.3%, SIUP 13.5%, KAD 4.5%, SIPRA 4.5%, PFP 3.2%, U4C 3.0%, DAP 1.6%, others 4.0%; seats by party - OUR Party 15, SIDP 8, SIUP 6, DAP 4, KAD 1, SIPRA 1, PFP 3, U4C 1, independents 11; composition as of December 2020 - men 46, women 4, percentage women 8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and ex officio members including the High Court chief justice and its puisne judges); High Court (consists of the chief justice and puisne judges, as prescribed by the National Parliament)<br>
@@ -320,7 +322,7 @@ _judge selection and term of office_: Court of Appeal and High Court president, 
 _subordinate courts_: Magistrates' Courts; Customary Land Appeal Court; local courts<br>
 
 **Political parties and leaders**<br>
-Democratic Alliance Party or DAP [Steve ABANA]<br>Kadere Party of Solomon Islands or KPSI [Peter BOYERS]<br>Ownership, Unity, and Responsibility Party (OUR Party) [Manasseh SOGAVARE]<br>People's Alliance Party or PAP [Sir Nathaniel WAENA]<br>Solomon Islands Party for Rural Advancement or SIPRA [Manasseh MAELANGA]<br>Solomon Islands People First Party or SIPFP [Dr. Jimmie RODGERS]<br>United Democratic Party or UDP [Sir Thomas Ko CHAN]<br>
+Democratic Alliance Party or DAP [Rick HOUENIPWELA]<br>Kadere Party of Solomon Islands or KAD [Martin HOUSANAU]<br>Ownership, Unity, and Responsibility Party (OUR Party) [Manasseh SOGAVARE]<br>People First Party or PFP [Jimmie RODGERS]<br>Solomon Islands Democratic Party or SIDP [Matthew WALE]<br>Solomon Islands Party for Rural Advancement or SIPRA [Gordon Darcy LILO]<br>Solomon Islands United Party or SIUP [Peter KENILOREA Jr]<br>United for Change Party or U4C [Daniel SUIDANI]<br><br>Coalition for Accountability Reform and Empowerment (CARE) is comprised of DAP, SIDP, and U4C<br>
 <strong>note:</strong> in general, Solomon Islands politics is characterized by fluid coalitions<br>
 
 **International organization participation**<br>

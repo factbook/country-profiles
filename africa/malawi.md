@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Malawi shares its name with the Chewa word for flames and is linked to the Maravi people from whom the Chewa language originated. The Maravi settled in what is now Malawi around 1400 during one of the later waves of Bantu migration across central and southern Africa. Several of Malawi’s ethnic groups trace their origins to different Maravi lineages. A powerful Maravi kingdom, established around 1500, reached its zenith around 1700, when it controlled what is now southern and central Malawi as well as portions of neighboring Mozambique and Zambia before beginning to decline because of destabilization from the escalating global trade in enslaved people. In the early 1800s, widespread conflict in southern Africa displaced various ethnic Ngoni groups, some of which moved into Malawi and further undermined the Maravi. Members of the Yao ethnic group - which had long traded with Malawi from Mozambique - introduced Islam and began to settle in Malawi in significant numbers in the mid-1800s; in the late 1800s, members of the Lomwe ethnic group also moved into southern Malawi from Mozambique. British missionary and trading activity increased in the area around Lake Nyasa in the mid-1800s, and Britain declared a protectorate, called British Central Africa, over what is now Malawi in 1891 and eliminated various political entities that sought to retain their autonomy over the subsequent decade. The British renamed the territory Nyasaland in 1907 and it was part of the colonial Federation of Rhodesia and Nyasaland - including present-day Zambia and Zimbabwe - from 1953 to 1963 before gaining independence as Malawi in 1964.</p> <p>Hastings Kamuzu BANDA served as prime minister at independence and, when the country became a republic in 1966, he became president. He later instituted one-party rule under his Malawi Congress Party (MCP) and was declared president for life. After three decades of one-party rule, the country held multiparty presidential and parliamentary elections in 1994 under a provisional constitution that came into full effect the following year. Bakili MULUZI of the United Democratic Front party became the first freely elected president of Malawi when he defeated BANDA at the polls in 1994; he won reelection in 1999. President Bingu wa MUTHARIKA was elected in 2004 under the United Democratic Front and subsequently started his own party, the Democratic Progressive Party, in 2005. MUTHARIKA was reelected to a second term in 2009. He died abruptly in 2012 and was succeeded by Vice President Joyce BANDA, who had earlier started her own party, the People's Party. MUTHARIKA's brother, Peter MUTHARIKA, defeated BANDA in the election in 2014. Peter MUTHARIKA was reelected in a disputed election in 2019 that resulted in countrywide protests. The courts ordered a new the election, and in 2020 Lazarus CHAKWERA of the MCP was elected president after defeating MUTHARIKA as head of a coalition of opposition parties. Population growth, increasing pressure on agricultural lands, corruption, and the scourge of HIV/AIDS pose major problems for Malawi.</p><br>
+<p>Malawi shares its name with the Chewa word for flames and is linked to the Maravi people from whom the Chewa language originated. The Maravi settled in what is now Malawi around 1400, during one of the later waves of Bantu migration across central and southern Africa. A powerful Maravi kingdom established around 1500 reached its zenith around 1700, when it controlled what is now southern and central Malawi and portions of neighboring Mozambique and Zambia. The kingdom eventually declined because of destabilization from the escalating global trade in enslaved people. In the early 1800s, widespread conflict in southern Africa displaced various ethnic Ngoni groups, some of which moved into Malawi and further undermined the Maravi. Members of the Yao ethnic group -- which had long traded with Malawi from Mozambique -- introduced Islam and began to settle in Malawi in significant numbers in the mid-1800s, followed by members of the Lomwe ethnic group. British missionary and trading activity increased in the area around Lake Nyasa in the mid-1800s, and in 1891, Britain declared a protectorate called British Central Africa over what is now Malawi. The British renamed the territory Nyasaland in 1907, and it was part of the colonial Federation of Rhodesia and Nyasaland -- including present-day Zambia and Zimbabwe -- from 1953 to 1963 before gaining independence as Malawi in 1964.</p> <p>Hastings Kamuzu BANDA served as prime minister at independence and then as president when the country became a republic in 1966. He later instituted one-party rule under his Malawi Congress Party (MCP) and was declared president for life. After three decades of one-party rule, the country held multiparty presidential and parliamentary elections in 1994 under a provisional constitution that came into full effect the following year. Bakili MULUZI of the United Democratic Front party became the first freely elected president of Malawi when he defeated BANDA at the polls in 1994; he won reelection in 1999. President Bingu wa MUTHARIKA was elected in 2004 and reelected to a second term in 2009. He died abruptly in 2012 and was succeeded by Vice President Joyce BANDA. MUTHARIKA's brother, Peter MUTHARIKA, defeated BANDA in the election in 2014. Peter MUTHARIKA was reelected in a disputed election in 2019 that resulted in countrywide protests. The courts ordered a new election, and in 2020, Lazarus CHAKWERA of the MCP was elected president. Population growth, increasing pressure on agricultural lands, corruption, and HIV/AIDS pose major problems for Malawi.</p><br>
 
 ## Geography
 
@@ -83,7 +83,9 @@ landlocked; Lake Nyasa, some 580 km long, is the country's most prominent physic
 ## People and Society
 
 **Population**<br>
-21,279,597 (2023 est.)<br>
+_total_: 21,763,309<br>
+_male_: 10,674,594<br>
+_female_: 11,088,715 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Malawian(s)<br>
@@ -103,9 +105,9 @@ Protestant 33.5% (includes Church of Central Africa Presbyterian 14.2%, Seventh 
 <p>Malawi has made great improvements in maternal and child health, but has made less progress in reducing its high fertility rate. In both rural and urban areas, very high proportions of mothers are receiving prenatal care and skilled birth assistance, and most children are being vaccinated. Malawi’s fertility rate, however, has only declined slowly, decreasing from more than 7 children per woman in the 1980s to about 5.5 today. Nonetheless, Malawians prefer smaller families than in the past, and women are increasingly using contraceptives to prevent or space pregnancies. Rapid population growth and high population density is putting pressure on Malawi’s land, water, and forest resources. Reduced plot sizes and increasing vulnerability to climate change, further threaten the sustainability of Malawi’s agriculturally based economy and will worsen food shortages. About 80% of the population is employed in agriculture.</p><p>Historically, Malawians migrated abroad in search of work, primarily to South Africa and present-day Zimbabwe, but international migration became uncommon after the 1970s, and most migration in recent years has been internal. During the colonial period, Malawians regularly migrated to southern Africa as contract farm laborers, miners, and domestic servants. In the decade and a half after independence in 1964, the Malawian Government sought to transform its economy from one dependent on small-scale farms to one based on estate agriculture. The resulting demand for wage labor induced more than 300,000 Malawians to return home between the mid-1960s and the mid-1970s. In recent times, internal migration has generally been local, motivated more by marriage than economic reasons.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 38.54% (male 4,073,674/female 4,128,035)<br>
-_15-64 years_: 57.64% (male 6,001,150/female 6,264,749)<br>
-_65 years and over_: 3.82% (2023 est.) (male 362,428/female 449,561)<br>
+_0-14 years_: 37.7% (male 4,080,567/female 4,132,710)<br>
+_15-64 years_: 58.4% (male 6,217,761/female 6,487,273)<br>
+_65 years and over_: 3.9% (2024 est.) (male 376,266/female 468,732)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 84.7<br>
@@ -114,21 +116,21 @@ _elderly dependency ratio_: 5<br>
 _potential support ratio_: 20.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20 years (2023 est.)<br>
-_male_: 19.7 years<br>
-_female_: 20.2 years<br>
+_total_: 20.3 years (2024 est.)<br>
+_male_: 20 years<br>
+_female_: 20.6 years<br>
 
 **Population growth rate**<br>
-2.28% (2023 est.)<br>
+2.22% (2024 est.)<br>
 
 **Birth rate**<br>
-27.3 births/1,000 population (2023 est.)<br>
+26.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-4.5 deaths/1,000 population (2023 est.)<br>
+4.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2023 est.)<br>
+0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population density is highest south of Lake Nyasa as shown in this population distribution map<br>
@@ -144,8 +146,8 @@ _rate of urbanization_: 4.41% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.01 male(s)/female<br>
 _0-14 years_: 0.99 male(s)/female<br>
 _15-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.81 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.8 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.1 years (2015/16 est.)<br>
@@ -155,20 +157,20 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 381 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 32.7 deaths/1,000 live births (2023 est.)<br>
-_male_: 37.1 deaths/1,000 live births<br>
-_female_: 28.2 deaths/1,000 live births<br>
+_total_: 31.9 deaths/1,000 live births (2024 est.)<br>
+_male_: 36.4 deaths/1,000 live births<br>
+_female_: 27.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.7 years (2023 est.)<br>
-_male_: 69.6 years<br>
-_female_: 75.9 years<br>
+_total population_: 73 years (2024 est.)<br>
+_male_: 69.9 years<br>
+_female_: 76.1 years<br>
 
 **Total fertility rate**<br>
-3.3 children born/woman (2023 est.)<br>
+3.19 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.64 (2023 est.)<br>
+1.58 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 65.6% (2019/20)<br>
@@ -362,7 +364,7 @@ _election results_: <br><em>2020: </em>Lazarus CHAKWERA elected president; Lazar
 **Legislative branch**<br>
 _description_: unicameral National Assembly (193 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: last held on 21 May 2019 (next to be held in May 2024)<br>
-_election results_: percent of vote by party - DPP 26%, MCP 22.3%, UTM 9.9%, UDF 4.6%, PP 2.4%, ADF 0.5%, independent 33.4%; seats by party - DPP 62, MCP 56, UDF 10, UTM 4, PP 5, ADF 1, independent 55; composition as of February 2024 - men 153, women 40, percentage women 20.7%<br>
+_election results_: percent of vote by party - DPP 26%, MCP 22.3%, UTM 9.9%, UDF 4.6%, PP 2.4%, ADF 0.5%, independent 33.4%; seats by party - DPP 62, MCP 56, UDF 10, UTM 4, PP 5, ADF 1, independent 55; composition - men 153, women 40, percentage women 20.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Appeal (consists of the chief justice and at least 3 judges)<br>
@@ -708,7 +710,7 @@ the MDF's inventory is comprised of mostly obsolescent or secondhand equipment o
 18-30years of age for men and women for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2023)<br>
 
 **Military deployments**<br>
-740 Democratic Republic of the Congo (MONUSCO) (2024)<br>
+740 Democratic Republic of the Congo (MONUSCO; note - as of early 2024, MONUSCO forces were drawing down towards a complete withdrawal by the end of 2024) (2024)<br>
 
 **Military - note**<br>
 the MDF’s primary responsibility is external security; it is also tasked as necessary with providing support to civilian authorities during emergencies, supporting the Police Service, protecting national forest reserves, and participating in regional peacekeeping missions, as well as assisting with infrastructure development; it is generally considered to be a professional and effective service, although most of its equipment is aging and obsolescent; Malawi contributes regularly to African Union and UN peace support operations; the Army is the dominant service and has three infantry brigades while its subordinate maritime force has a few patrol boats for monitoring Lake Malawi <br><br>the MDF was established in 1964 from elements of the Kings African Rifles (KAR), a British colonial regiment raised from Great Britain's various possessions in East Africa from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2023)<br>

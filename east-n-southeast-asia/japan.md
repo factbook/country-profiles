@@ -78,7 +78,9 @@ all primary and secondary regions of high population density lie on the coast; o
 ## People and Society
 
 **Population**<br>
-123,719,238 (2023 est.)<br>
+_total_: 123,201,945<br>
+_male_: 59,875,269<br>
+_female_: 63,326,676 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Japanese (singular and plural)<br>
@@ -97,9 +99,9 @@ Shintoism 48.6%, Buddhism 46.4%, Christianity 1.1%, other 4% (2021 est.)<br>
 <strong>note:</strong> total adherents among persons claiming a religious affiliation<br>
 
 **Age structure**<br>
-_0-14 years_: 12.29% (male 7,835,474/female 7,370,449)<br>
-_15-64 years_: 58.49% (male 36,378,186/female 35,981,176)<br>
-_65 years and over_: 29.22% (2023 est.) (male 15,909,031/female 20,244,922)<br>
+_0-14 years_: 12.1% (male 7,701,196/female 7,239,389)<br>
+_15-64 years_: 58.4% (male 36,197,840/female 35,777,966)<br>
+_65 years and over_: 29.5% (2024 est.) (male 15,976,233/female 20,309,321)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 71.1<br>
@@ -108,21 +110,21 @@ _elderly dependency ratio_: 51<br>
 _potential support ratio_: 2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 49.5 years (2023 est.)<br>
-_male_: 48 years<br>
-_female_: 50.9 years<br>
+_total_: 49.9 years (2024 est.)<br>
+_male_: 48.3 years<br>
+_female_: 51.3 years<br>
 
 **Population growth rate**<br>
--0.41% (2023 est.)<br>
+-0.43% (2024 est.)<br>
 
 **Birth rate**<br>
-6.9 births/1,000 population (2023 est.)<br>
+6.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-11.7 deaths/1,000 population (2023 est.)<br>
+11.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0.7 migrant(s)/1,000 population (2023 est.)<br>
+0.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 all primary and secondary regions of high population density lie on the coast; one-third of the population resides in and around Tokyo on the central plain (Kanto Plain)<br>
@@ -139,7 +141,7 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.01 male(s)/female<br>
 _65 years and over_: 0.79 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30.7 years (2018 est.)<br>
@@ -148,20 +150,20 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 4 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.9 deaths/1,000 live births (2023 est.)<br>
+_total_: 1.9 deaths/1,000 live births (2024 est.)<br>
 _male_: 2 deaths/1,000 live births<br>
-_female_: 1.8 deaths/1,000 live births<br>
+_female_: 1.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 85 years (2023 est.)<br>
-_male_: 82.1 years<br>
-_female_: 88.1 years<br>
+_total population_: 85.2 years (2024 est.)<br>
+_male_: 82.3 years<br>
+_female_: 88.2 years<br>
 
 **Total fertility rate**<br>
-1.39 children born/woman (2023 est.)<br>
+1.4 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.68 (2023 est.)<br>
+0.68 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 39.8% (2015)<br>

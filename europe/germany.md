@@ -85,7 +85,9 @@ strategic location on North European Plain and along the entrance to the Baltic 
 ## People and Society
 
 **Population**<br>
-84,220,184 (2023 est.)<br>
+_total_: 84,119,100<br>
+_male_: 41,572,702<br>
+_female_: 42,546,398 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: German(s)<br>
@@ -103,9 +105,9 @@ _major-language sample(s)_: <br>Das World Factbook, die unverzichtbare Quelle f√
 Roman Catholic 24.8%, Protestant 22.6%, Muslim 3.7%, other 5.1%, none 43.8% (2022 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 13.75% (male 5,905,124/female 5,673,727)<br>
-_15-64 years_: 62.97% (male 26,934,889/female 26,097,401)<br>
-_65 years and over_: 23.28% (2023 est.) (male 8,784,872/female 10,824,171)<br>
+_0-14 years_: 13.8% (male 5,925,800/female 5,688,603)<br>
+_15-64 years_: 62.5% (male 26,705,657/female 25,875,865)<br>
+_65 years and over_: 23.7% (2024 est.) (male 8,941,245/female 10,981,930)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.4<br>
@@ -114,21 +116,21 @@ _elderly dependency ratio_: 34.7<br>
 _potential support ratio_: 2.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 46.7 years (2023 est.)<br>
-_male_: 45.4 years<br>
-_female_: 48.2 years<br>
+_total_: 46.8 years (2024 est.)<br>
+_male_: 45.5 years<br>
+_female_: 48.3 years<br>
 
 **Population growth rate**<br>
--0.12% (2023 est.)<br>
+-0.12% (2024 est.)<br>
 
 **Birth rate**<br>
-9 births/1,000 population (2023 est.)<br>
+8.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-12 deaths/1,000 population (2023 est.)<br>
+12 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-1.8 migrant(s)/1,000 population (2023 est.)<br>
+1.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 second most populous country in Europe; a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations, particularly in the far western part of the industrial state of North Rhine-Westphalia<br>
@@ -145,7 +147,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 1.03 male(s)/female<br>
 _65 years and over_: 0.81 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2023 est.)<br>
+_total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.9 years (2020 est.)<br>
@@ -154,20 +156,20 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 4 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.1 deaths/1,000 live births (2023 est.)<br>
+_total_: 3.1 deaths/1,000 live births (2024 est.)<br>
 _male_: 3.5 deaths/1,000 live births<br>
-_female_: 2.8 deaths/1,000 live births<br>
+_female_: 2.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.7 years (2023 est.)<br>
-_male_: 79.4 years<br>
-_female_: 84.2 years<br>
+_total population_: 81.9 years (2024 est.)<br>
+_male_: 79.6 years<br>
+_female_: 84.4 years<br>
 
 **Total fertility rate**<br>
-1.58 children born/woman (2023 est.)<br>
+1.58 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.77 (2023 est.)<br>
+0.77 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 67% (2018)<br>

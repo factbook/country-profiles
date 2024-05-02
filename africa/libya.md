@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Berbers have inhabited central north Africa since ancient times, but the region has been settled and ruled by Phoenicians, Greeks, Carthaginians, Persians, Egyptians, Romans, and Vandals. In the 7th century, Islam spread through the region; in the mid-16th century, Ottoman rule began. The Italians supplanted the Ottoman Turks in the area around Tripoli in 1911 and did not relinquish their hold until 1943 when they were defeated in World War II. Libya then passed to UN administration and achieved independence in 1951. Following a 1969 military coup, Col. Muammar al-QADHAFI assumed leadership and began to espouse his political system at home, which was a combination of socialism and Islam. During the 1970s, QADHAFI used oil revenues to promote his ideology outside Libya, supporting subversive and terrorist activities that included the downing of two airliners - one over Scotland, another in Northern Africa - and a discotheque bombing in Berlin. UN sanctions in 1992 isolated QADHAFI politically and economically following the attacks; sanctions were lifted in 2003 following Libyan acceptance of responsibility for the bombings and agreement to claimant compensation. QADHAFI also agreed to end Libya's program to develop weapons of mass destruction, and he made significant strides in normalizing relations with Western nations.</p> <p>Unrest that began in several Middle Eastern and North African countries in late 2010 erupted in Libyan cities in early 2011. QADHAFI's brutal crackdown on protesters spawned an eight-month civil war that saw the emergence of a National Transitional Council (NTC), UN authorization of air and naval intervention by the international community, and the toppling of the QADHAFI regime. In 2012, the NTC handed power to an elected parliament, the General National Congress (GNC). Voters chose a new parliament to replace the GNC in June 2014 - the House of Representatives (HoR) - which relocated to the eastern city of Tobruk after fighting broke out in Tripoli and Benghazi in July 2014.</p> <p>In December 2015, the UN brokered an agreement among a broad array of Libyan political parties and social groups - known as the Libyan Political Agreement (LPA) - establishing an interim executive body, the Government of National Accord (GNA). However, the HoR and defunct-GNC-affiliated political hardliners continued to oppose the GNA and hamper the LPA’s implementation, leaving Libya with eastern and western-based rival governments. In September 2017, UN Special Representative Ghassan SALAME announced a new roadmap for national political reconciliation. In November 2018, the international community supported SALAME’s recalibrated Action Plan for Libya that aimed to break the political deadlock by holding a National Conference in early 2019. These plans, however, were derailed when the eastern-based self-described Libyan National Army (LNA) launched an offensive to seize Tripoli in April 2019. Several countries sent armed personnel and advanced military equipment into Libya. The LNA's offensive collapsed in June 2020, and a subsequent UN-sponsored cease-fire in October 2020 helped formalize the pause in fighting between rival camps, although some foreign forces, fighters, and mercenaries that aided eastern and western factions during the fighting remain in Libya. <br><br>In early 2021, the UN-facilitated Libyan Political Dialogue Forum selected a new prime minister for an interim government, the Government of National Unity (GNU), and a new presidential council charged with preparing for presidential and parliamentary elections in December 2021 and uniting the country’s state institutions. The HoR approved the GNU and its cabinet in March 2021, providing Libya with its first unified government since 2014. On 22 December 2021, Libya's parliament postponed the first round of the planned presidential election to an undetermined date in the future. In March 2022, the HoR voted to replace GNU interim Prime Minister, Abdul Hamid DUBAYBAH, with another government led by Fathi BASHAGHA. GNU allegations of an illegitimate HoR vote allowed Prime Minister DUBAYBAH to remain in office and rebuff BASHAGHA's attempts to seat his government in Tripoli. On 16 May 2023, the HoR voted to replace BASHAGHA with Osma HAMAD. Special Representative of the UN Security-General for Libya, Abdoulaye BATHILY, is leading international efforts to persuade key Libyan political actors to resolve the core issues impeding elections. </p><br>
+<p>Berbers have inhabited central north Africa since ancient times, but Phoenicians, Greeks, Carthaginians, Persians, Egyptians, Romans, and Vandals have all settled and ruled the region. In the 7th century, Islam spread through the area. In the mid-16th century, Ottoman rule began; the Italians supplanted the Ottoman Turks in the area around Tripoli in 1911 and held it until 1943, when they were defeated in World War II. Libya then came under UN administration and achieved independence in 1951. Col. Muammar al-QADHAFI assumed leadership with a military coup in 1969 and began to espouse a political system that combined socialism and Islam. During the 1970s, QADHAFI used oil revenues to promote his ideology outside Libya, supporting subversive and terrorist activities that included the downing of two airliners -- one over Scotland and another in Northern Africa -- and a discotheque bombing in Berlin. UN sanctions in 1992 isolated QADHAFI politically and economically; the sanctions were lifted in 2003 when Libya accepted responsibility for the bombings and agreed to claimant compensation. QADHAFI also agreed to end Libya's program to develop weapons of mass destruction, and he made significant strides in normalizing relations with Western nations.</p> <p>Unrest that began in several Middle Eastern and North African countries in 2010 erupted in Libyan cities in 2011. QADHAFI's brutal crackdown on protesters spawned an eight-month civil war that saw the emergence of a National Transitional Council (NTC), UN authorization of air and naval intervention by the international community, and the toppling of the QADHAFI regime. In 2012, the NTC handed power to an elected parliament, the General National Congress (GNC), which was replaced two years later with the House of Representatives (HoR). In 2015, the UN brokered the Libyan Political Agreement (LPA) among a broad array of political parties and social groups, establishing an interim executive body. However, hardliners continued to oppose and hamper the LPA implementation, leaving Libya with eastern and western-based rival governments. In 2018, the international community supported a recalibrated plan that aimed to break the political deadlock with a National Conference in 2019. These plans, however, were derailed when the eastern-based, self-described Libyan National Army (LNA) launched an offensive to seize Tripoli. The LNA offensive collapsed in 2020, and a subsequent UN-sponsored cease-fire helped formalize the pause in fighting between rival camps. <br><br>In 2021, the UN-facilitated Libyan Political Dialogue Forum selected a new prime minister for an interim government -- the Government of National Unity (GNU) -- and a new presidential council charged with preparing for elections and uniting the country’s state institutions. The HoR approved the GNU and its cabinet the same year, providing Libya with its first unified government since 2014, but the parliament then postponed the planned presidential election to an undetermined date in the future. In 2022, the HoR voted to replace GNU interim Prime Minister, Abdul Hamid DUBAYBAH, with another government led by Fathi BASHAGHA. GNU allegations of an illegitimate HoR vote allowed DUBAYBAH to remain in office and rebuff BASHAGHA's attempts to seat his government in Tripoli. In 2023, the HoR voted to replace BASHAGHA with Osma HAMAD. Special Representative of the UN Security-General for Libya, Abdoulaye BATHILY, is leading international efforts to persuade key Libyan political actors to resolve the core issues impeding elections. </p><br>
 
 ## Geography
 
@@ -81,7 +81,9 @@ hot, dry, dust-laden ghibli is a southern wind lasting one to four days in sprin
 ## People and Society
 
 **Population**<br>
-7,252,573 (2023 est.)<br>
+_total_: 7,361,263<br>
+_male_: 3,747,364<br>
+_female_: 3,613,899 (2024 est.)<br>
 <strong>note:</strong> immigrants make up just over 12% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -103,9 +105,9 @@ Muslim (official; virtually all Sunni) 96.6%, Christian 2.7%, Buddhist &lt;1%, H
 <p>Despite continuing unrest, Libya remains a destination country for economic migrants. It is also a hub for transit migration to Europe because of its proximity to southern Europe and its lax border controls. Labor migrants have been drawn to Libya since the development of its oil sector in the 1960s. Until the latter part of the 1990s, most migrants to Libya were Arab (primarily Egyptians and Sudanese). However, international isolation stemming from Libya’s involvement in international terrorism and a perceived lack of support from Arab countries led QADHAFI in 1998 to adopt a decade-long pan-African policy that enabled large numbers of Sub-Saharan migrants to enter Libya without visas to work in the construction and agricultural industries. Although Sub-Saharan Africans provided a cheap labor source, they were poorly treated and were subjected to periodic mass expulsions.</p> <p>By the mid-2000s, domestic animosity toward African migrants and a desire to reintegrate into the international community motivated QADHAFI to impose entry visas on Arab and African immigrants and to agree to joint maritime patrols and migrant repatriations with Italy, the main recipient of illegal migrants departing Libya. As his regime neared collapse in 2011, QADHAFI reversed his policy of cooperating with Italy to curb illegal migration and sent boats loaded with migrants and asylum seekers to strain European resources. Libya’s 2011 revolution decreased immigration drastically and prompted nearly 800,000 migrants to flee to third countries, mainly Tunisia and Egypt, or to their countries of origin. The inflow of migrants declined in 2012 but returned to normal levels by 2013, despite continued hostility toward Sub-Saharan Africans and a less-inviting job market.</p> <p>While Libya is not an appealing destination for migrants, since 2014, transiting migrants – primarily from East and West Africa – continue to exploit its political instability and weak border controls and use it as a primary departure area to migrate across the central Mediterranean to Europe in growing numbers. In addition, approximately 135,000 people were displaced internally as of  August 2022 by fighting between armed groups in eastern and western Libya and, to a lesser extent, by inter-tribal clashes in the country’s south.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 32.81% (male 1,213,850/female 1,166,039)<br>
-_15-64 years_: 62.8% (male 2,340,685/female 2,213,782)<br>
-_65 years and over_: 4.39% (2023 est.) (male 143,737/female 174,480)<br>
+_0-14 years_: 32.3% (male 1,211,087/female 1,165,648)<br>
+_15-64 years_: 63.2% (male 2,385,152/female 2,263,780)<br>
+_65 years and over_: 4.6% (2024 est.) (male 151,125/female 184,471)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.8<br>
@@ -114,21 +116,21 @@ _elderly dependency ratio_: 7.3<br>
 _potential support ratio_: 13.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 26.1 years (2023 est.)<br>
-_male_: 26.1 years<br>
-_female_: 26.1 years<br>
+_total_: 26.2 years (2024 est.)<br>
+_male_: 26.3 years<br>
+_female_: 26.2 years<br>
 
 **Population growth rate**<br>
-1.54% (2023 est.)<br>
+1.44% (2024 est.)<br>
 
 **Birth rate**<br>
-20.9 births/1,000 population (2023 est.)<br>
+20.3 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-3.5 deaths/1,000 population (2023 est.)<br>
+3.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--2.1 migrant(s)/1,000 population (2023 est.)<br>
+-2.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 well over 90% of the population lives along the Mediterranean coast in and between Tripoli to the west and Al Bayda to the east; the interior remains vastly underpopulated due to the Sahara and lack of surface water as shown in this population distribution map<br>
@@ -143,28 +145,28 @@ _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-64 years_: 1.06 male(s)/female<br>
+_15-64 years_: 1.05 male(s)/female<br>
 _65 years and over_: 0.82 male(s)/female<br>
-_total population_: 1.04 male(s)/female (2023 est.)<br>
+_total population_: 1.04 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 72 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11 deaths/1,000 live births (2023 est.)<br>
-_male_: 12.4 deaths/1,000 live births<br>
-_female_: 9.5 deaths/1,000 live births<br>
+_total_: 10.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 12.1 deaths/1,000 live births<br>
+_female_: 9.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.4 years (2023 est.)<br>
-_male_: 75.2 years<br>
-_female_: 79.8 years<br>
+_total population_: 77.7 years (2024 est.)<br>
+_male_: 75.5 years<br>
+_female_: 80 years<br>
 
 **Total fertility rate**<br>
-3.04 children born/woman (2023 est.)<br>
+3 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.48 (2023 est.)<br>
+1.46 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 27.7% (2014)<br>

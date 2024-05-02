@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Malaysia’s location has long made it an important cultural, economic, historical, social, and trade link between the islands of Southeast Asia and the mainland. Through the Strait of Malacca, which separates the Malay Peninsula from the archipelago, flowed maritime trade and with it influences from China, India, the Middle East, and the east coast of Africa. Prior to the 14th century, several powerful maritime empires existed in what is modern-day Malaysia, including the Srivijayan, which controlled much of the southern part of the peninsula between the 7th and 13th centuries, and the Majapahit Empire, which took control over most of the peninsula and the Malay Archipelago between the 13th and 14th centuries. The adoption of Islam between the 13th and 17th centuries also saw the rise of a number of powerful maritime states and sultanates on the Malay Peninsula and the island of Borneo, such as the port city of Malacca (Melaka), which at its height in the 15th century had a navy and hosted thousands of Chinese, Arab, Persian, and Indian merchants.<br><br>The Portuguese in the 16th century and the Dutch in the 17th century were the first European colonial powers to establish themselves on the Malay Peninsula and Southeast Asia. However, it was the British who ultimately secured their hegemony across the territory and during the late 18th and 19th centuries established colonies and protectorates in the area that is now Malaysia. These holdings were occupied by Japan from 1942 to 1945. In 1948, the British-ruled territories on the Malay Peninsula (except Singapore) formed the Federation of Malaya, which became independent in 1957. Malaysia was formed in 1963 when the former British colonies of Singapore, as well as Sabah and Sarawak on the northern coast of Borneo, joined the Federation. The first several years of the country's independence were marred by a communist insurgency, Indonesian confrontation with Malaysia, Philippine claims to Sabah, and Singapore's expulsion in 1965. During the 22-year term of Prime Minister MAHATHIR Mohamad (1981-2003), Malaysia was successful in diversifying its economy from dependence on exports of raw materials to the development of manufacturing, services, and tourism. Former Prime Minister MAHATHIR and a newly formed coalition of opposition parties defeated Prime Minister Mohamed NAJIB bin Abdul Razak's United Malays National Organization (UMNO) in May 2018, ending over 60 years of uninterrupted rule by UMNO. Since 2018, Malaysia has undergone considerable political upheaval with a succession of coalition governments holding power. Following legislative elections in 2022, ANWAR Ibrahim was appointed prime minister after more than 20 years in opposition. His ruling coalition holds a two-thirds majority in the Malaysian parliament.</p><br>
+<p>Malaysia’s location has long made it an important cultural, economic, historical, social, and trade link between the islands of Southeast Asia and the mainland. Through the Strait of Malacca, which separates the Malay Peninsula from the archipelago, flowed maritime trade and with it influences from China, India, the Middle East, and the east coast of Africa. Prior to the 14th century, several powerful maritime empires existed in what is modern-day Malaysia, including the Srivijayan, which controlled much of the southern part of the peninsula between the 7th and 13th centuries, and the Majapahit Empire, which took control over most of the peninsula and the Malay Archipelago between the 13th and 14th centuries. The adoption of Islam between the 13th and 17th centuries also saw the rise of a number of powerful maritime states and sultanates on the Malay Peninsula and the island of Borneo, such as the port city of Malacca (Melaka), which at its height in the 15th century had a navy and hosted thousands of Chinese, Arab, Persian, and Indian merchants.<br><br>The Portuguese in the 16th century and the Dutch in the 17th century were the first European colonial powers to establish themselves on the Malay Peninsula and in Southeast Asia. However, it was the British who ultimately secured hegemony across the territory and during the late 18th and 19th centuries established colonies and protectorates in the area that is now Malaysia. Japan occupied these holdings from 1942 to 1945. In 1948, the British-ruled territories on the Malay Peninsula (except Singapore) formed the Federation of Malaya, which became independent in 1957. Malaysia was formed in 1963 when the former British colonies of Singapore, as well as Sabah and Sarawak on the northern coast of Borneo, joined the Federation. <br><br>A communist insurgency, confrontations with Indonesia, Philippine claims to Sabah, and Singapore's expulsion in 1965 marred the first several years of the country's independence. During the 22-year term of Prime Minister MAHATHIR Mohamad (1981-2003), Malaysia was successful in diversifying its economy from dependence on exports of raw materials to the development of manufacturing, services, and tourism. Former Prime Minister MAHATHIR and a newly formed coalition of opposition parties defeated Prime Minister Mohamed NAJIB bin Abdul Razak's United Malays National Organization (UMNO) in 2018, ending over 60 years of uninterrupted UMNO rule. Since 2018, Malaysia has undergone considerable political upheaval, with a succession of coalition governments holding power. Following legislative elections in 2022, ANWAR Ibrahim was appointed prime minister after more than 20 years in opposition. His ruling coalition holds a two-thirds majority in the Malaysian parliament.</p><br>
 
 ## Geography
 
@@ -75,7 +75,9 @@ strategic location along Strait of Malacca and southern South China Sea<br>
 ## People and Society
 
 **Population**<br>
-34,219,975 (2023 est.)<br>
+_total_: 34,564,810<br>
+_male_: 17,666,212<br>
+_female_: 16,898,598 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Malaysian(s)<br>
@@ -95,9 +97,9 @@ Muslim (official) 63.5%, Buddhist 18.7%, Christian 9.1%, Hindu 6.1%, other (Conf
 <p>Malaysia’s multi-ethnic population consists of the bumiputera – Malays and other indigenous peoples – (62%), ethnic Chinese (21%), ethnic Indians (6%), and foreigners (10%).  The majority of Malaysia’s ethnic Chinese and Indians trace their roots to the British colonialists’ recruitment of hundreds of thousands of Chinese and Indians as mine and plantation workers between the early-19th century and the 1930s.  Most Malays have maintained their rural lifestyle, while the entrepreneurial Chinese have achieved greater wealth and economic dominance.  In order to eradicate Malay poverty, the Malaysian Government in 1971 adopted policies that gave preference to the bumiputera in public university admissions, government jobs and contracts, and property ownership.  Affirmative action continues to benefit well-off urban bumiputera but has done little to alleviate poverty for their more numerous rural counterparts.  The policies have pushed ethnic Chinese and Indians to study at private or foreign universities (many do not return) and have created and sustained one of the world’s largest civil services, which is 85-90% Malay. </p> <p>The country’s age structure has changed significantly since the 1960s, as fertility and mortality rates have declined.  Malaysia’s total fertility rate (TFR) has dropped from 5 children per woman in 1970, to 3 in 1998, to 2.1 in 2015 as a result of increased educational attainment and labor participation among women, later marriages, increased use of contraception, and changes in family size preference related to urbanization.  The TFR is higher among Malays, rural residents (who are mainly Malay), the poor, and the less-educated.  Despite the reduced fertility rate, Malaysia’s population will continue to grow, albeit at a decreasing rate, for the next few decades because of its large number of reproductive-age women.  The youth population has been shrinking, and the working-age population (15-64 year olds) has been growing steadily.  Malaysia’s labor market has successfully absorbed the increasing number of job seekers, leading to sustained economic growth.  However, the favorable age structure is changing, and around 2020, Malaysia will start to become a rapidly aging society.  As the population ages, Malaysia will need to better educate and train its labor force, raise productivity, and continue to increase the number of women workers in order to further develop its economy.</p> <p>More than 1.8 million Malaysians lived abroad as of 2015, including anywhere from 350,000 to 785,000 workers, more than half of whom have an advanced level of education.  The vast majority of emigrants are ethnic Chinese, seeking better educational and job opportunities abroad because of institutionalized ethnic discrimination favoring the Malays.  The primary destination country is nearby Singapore, followed by Bangladesh and Australia.  Hundreds of thousands of Malaysians also commute across the causeway to Singapore daily for work.</p> <p>Brain drain is an impediment to Malaysia’s goal of becoming a high-income country.  The situation is compounded by a migrant inflow that is composed almost entirely of low-skilled laborers who work mainly in manufacturing, agriculture, and construction.  Officially, Malaysia had about 1.8 million legal foreign workers as of mid-year 2017 – largely from Indonesia, Nepal, the Philippines, and Bangladesh – but as many as 3 to 4 million are estimated to be in the country illegally.  Immigrants outnumber ethnic Indians and could supplant the ethnic Chinese as Malaysia’s second largest population group around 2035.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 22.46% (male 3,952,311/female 3,734,607)<br>
-_15-64 years_: 69.42% (male 12,198,930/female 11,556,399)<br>
-_65 years and over_: 8.12% (2023 est.) (male 1,345,767/female 1,431,961)<br>
+_0-14 years_: 22.2% (male 3,947,914/female 3,730,319)<br>
+_15-64 years_: 69.4% (male 12,308,938/female 11,666,947)<br>
+_65 years and over_: 8.4% (2024 est.) (male 1,409,360/female 1,501,332)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.3<br>
@@ -106,21 +108,21 @@ _elderly dependency ratio_: 10.4<br>
 _potential support ratio_: 9.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.4 years (2023 est.)<br>
-_male_: 31.3 years<br>
-_female_: 31.5 years<br>
+_total_: 31.8 years (2024 est.)<br>
+_male_: 31.7 years<br>
+_female_: 31.9 years<br>
 
 **Population growth rate**<br>
-1.01% (2023 est.)<br>
+0.99% (2024 est.)<br>
 
 **Birth rate**<br>
-14.4 births/1,000 population (2023 est.)<br>
+14.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.7 deaths/1,000 population (2023 est.)<br>
+5.8 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-1.5 migrant(s)/1,000 population (2023 est.)<br>
+1.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 a highly uneven distribution with over 80% of the population residing on the Malay Peninsula<br>
@@ -137,26 +139,26 @@ _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.06 male(s)/female<br>
 _65 years and over_: 0.94 male(s)/female<br>
-_total population_: 1.05 male(s)/female (2023 est.)<br>
+_total population_: 1.05 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 21 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.5 deaths/1,000 live births (2023 est.)<br>
-_male_: 6.9 deaths/1,000 live births<br>
-_female_: 6.1 deaths/1,000 live births<br>
+_total_: 6.4 deaths/1,000 live births (2024 est.)<br>
+_male_: 6.8 deaths/1,000 live births<br>
+_female_: 6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.4 years (2023 est.)<br>
-_male_: 74.8 years<br>
-_female_: 78.1 years<br>
+_total population_: 76.6 years (2024 est.)<br>
+_male_: 75 years<br>
+_female_: 78.4 years<br>
 
 **Total fertility rate**<br>
-1.74 children born/woman (2023 est.)<br>
+1.73 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.84 (2023 est.)<br>
+0.84 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 52.2% (2014)<br>

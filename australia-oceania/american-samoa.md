@@ -70,7 +70,9 @@ Pago Pago has one of the best natural deepwater harbors in the South Pacific Oce
 ## People and Society
 
 **Population**<br>
-44,620 (2023 est.)<br>
+_total_: 43,895<br>
+_male_: 21,804<br>
+_female_: 22,091 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: American Samoan(s) (US nationals)<br>
@@ -88,9 +90,9 @@ Samoan 87.9% (closely related to Hawaiian and other Polynesian languages), Engli
 Christian 98.3%, other &lt;1%, unaffiliated &lt;1% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 25.91% (male 5,963/female 5,600)<br>
-_15-64 years_: 65.89% (male 14,512/female 14,888)<br>
-_65 years and over_: 8.2% (2023 est.) (male 1,707/female 1,950)<br>
+_0-14 years_: 25.3% (male 5,738/female 5,387)<br>
+_15-64 years_: 66% (male 14,291/female 14,679)<br>
+_65 years and over_: 8.7% (2024 est.) (male 1,775/female 2,025)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 52.3<br>
@@ -99,21 +101,21 @@ _elderly dependency ratio_: 10.4<br>
 _potential support ratio_: 9.6 (2021)<br>
 
 **Median age**<br>
-_total_: 29.4 years (2023 est.)<br>
-_male_: 28.8 years<br>
-_female_: 30 years<br>
+_total_: 30 years (2024 est.)<br>
+_male_: 29.4 years<br>
+_female_: 30.6 years<br>
 
 **Population growth rate**<br>
--1.74% (2023 est.)<br>
+-1.54% (2024 est.)<br>
 
 **Birth rate**<br>
-16.2 births/1,000 population (2023 est.)<br>
+15.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.2 deaths/1,000 population (2023 est.)<br>
+6.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--27.4 migrant(s)/1,000 population (2023 est.)<br>
+-24.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 87.2% of total population (2023)<br>
@@ -124,26 +126,26 @@ _rate of urbanization_: 0.26% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
+_0-14 years_: 1.07 male(s)/female<br>
 _15-64 years_: 0.97 male(s)/female<br>
 _65 years and over_: 0.88 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 11.9 deaths/1,000 live births<br>
-_female_: 7.7 deaths/1,000 live births<br>
+_total_: 9.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 11.7 deaths/1,000 live births<br>
+_female_: 7.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.6 years (2023 est.)<br>
-_male_: 73.1 years<br>
-_female_: 78.2 years<br>
+_total population_: 75.8 years (2024 est.)<br>
+_male_: 73.4 years<br>
+_female_: 78.5 years<br>
 
 **Total fertility rate**<br>
-2.13 children born/woman (2023 est.)<br>
+2.06 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.04 (2023 est.)<br>
+1 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

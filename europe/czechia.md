@@ -79,7 +79,9 @@ flooding<br>
 ## People and Society
 
 **Population**<br>
-10,706,242 (2023 est.)<br>
+_total_: 10,837,890<br>
+_male_: 5,335,737<br>
+_female_: 5,502,153 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Czech(s)<br>
@@ -97,9 +99,9 @@ _major-language sample(s)_: <br>World Factbook, nepostradatelný zdroj základn�
 Roman Catholic 7%, other believers belonging to a church or religious society 6% (includes Evangelical United Brethren Church and Czechoslovak Hussite Church), believers unaffiliated with a religious society 9.1%, none 47.8%, unspecified 30.1% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 14.68% (male 808,583/female 763,540)<br>
-_15-64 years_: 64.18% (male 3,514,664/female 3,356,764)<br>
-_65 years and over_: 21.13% (2023 est.) (male 954,139/female 1,308,552)<br>
+_0-14 years_: 15.7% (male 871,303/female 826,896)<br>
+_15-64 years_: 63.8% (male 3,542,298/female 3,373,127)<br>
+_65 years and over_: 20.5% (2024 est.) (male 922,136/female 1,302,130)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.4<br>
@@ -108,21 +110,21 @@ _elderly dependency ratio_: 32.2<br>
 _potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 43.9 years (2023 est.)<br>
-_male_: 42.5 years<br>
-_female_: 45.4 years<br>
+_total_: 44.2 years (2024 est.)<br>
+_male_: 42.7 years<br>
+_female_: 45.7 years<br>
 
 **Population growth rate**<br>
-0.1% (2023 est.)<br>
+0.04% (2024 est.)<br>
 
 **Birth rate**<br>
-10 births/1,000 population (2023 est.)<br>
+9.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-12.3 deaths/1,000 population (2023 est.)<br>
+12 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-3.3 migrant(s)/1,000 population (2023 est.)<br>
+2.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations<br>
@@ -137,9 +139,9 @@ _rate of urbanization_: 0.2% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-64 years_: 1.11 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2023 est.)<br>
+_15-64 years_: 1.05 male(s)/female<br>
+_65 years and over_: 0.71 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.5 years (2020 est.)<br>
@@ -148,20 +150,20 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.6 deaths/1,000 live births (2023 est.)<br>
-_male_: 2.8 deaths/1,000 live births<br>
-_female_: 2.5 deaths/1,000 live births<br>
+_total_: 2.6 deaths/1,000 live births (2024 est.)<br>
+_male_: 2.7 deaths/1,000 live births<br>
+_female_: 2.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.3 years (2023 est.)<br>
-_male_: 75.1 years<br>
-_female_: 81.6 years<br>
+_total population_: 78.6 years (2024 est.)<br>
+_male_: 75.6 years<br>
+_female_: 81.8 years<br>
 
 **Total fertility rate**<br>
-1.74 children born/woman (2023 est.)<br>
+1.73 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.85 (2023 est.)<br>
+0.85 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

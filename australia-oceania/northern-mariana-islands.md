@@ -5,7 +5,7 @@ _Australia-Oceania / Dependencies (United States)_
 ## Introduction
 
 **Background**<br>
-<p>The Northern Mariana Islands were settled by Austronesian people around 1500 B.C. These people became the indigenous Chamorro and were influenced by later migrations, including of Micronesians in the first century A.D., and island Southeast Asians around 900. Spanish explorer Ferdinand MAGELLAN sailed through the Mariana Islands in 1521 and Spain claimed them in 1565. Spain formally colonized the Mariana Islands in 1668 and administered the archipelago from Guam. Spain’s brutal repression of the Chamorro, along with new diseases and intermittent warfare, reduced the indigenous population by about 90% in the 1700s. With a similar dynamic occurring on Guam, Spain forced the Chamorro from the Northern Mariana Islands to resettle on Guam and prevented them from returning to their home islands. By the time the Northern Mariana Islands’ Chamorro returned, many other Micronesians, including Chuukese and Yapese, had already settled on their islands.<br><br>In 1898, Spain ceded Guam to the US following the Spanish-American War but sold the Northern Mariana Islands to Germany under the German-Spanish Treaty of 1899. Germany administered the territory from German New Guinea but took a hands-off approach to day-to-day life. Following World War I, Japan administered the islands under a League of Nations mandate. Japan focused on sugar production and brought in thousands of Japanese laborers, who quickly outnumbered the Chamorro on the islands. During World War II, Japan invaded Guam from the Northern Mariana Islands and used Marianan Chamorro as translators with Guamanian Chamorro, creating friction between the two Chamorro communities that continues to this day. The US captured the Northern Mariana Islands in 1944 after the Battle of Saipan and administered them post-World War II as part of the Trust Territory of the Pacific Islands (TTPI).<br><br>On four occasions in the 1950s and 1960s, voters opted for integration with Guam, although Guam rejected it in 1969. In 1978, the Northern Mariana Islands was granted self-government separate from the rest of the TTPI and in 1986, islanders were granted US citizenship and the territory came under US sovereignty as the Commonwealth of the Northern Mariana Islands (CNMI). In 2009, the CNMI became the final US territory to elect a nonvoting delegate to the US Congress.</p><br>
+<p>Austronesian people settled the Northern Mariana Islands around 1500 B.C. These people became the indigenous Chamorro and were influenced by later migrations, including Micronesians in the first century A.D. and island Southeast Asians around 900. Spanish explorer Ferdinand MAGELLAN sailed through the Mariana Islands in 1521, and Spain claimed them in 1565. Spain formally colonized the Mariana Islands in 1668 and administered the archipelago from Guam. Spain’s brutal repression of the Chamorro, along with new diseases and intermittent warfare, reduced the indigenous population by about 90% in the 1700s. With a similar dynamic occurring on Guam, Spain forced the Chamorro from the Northern Mariana Islands to resettle there. By the time they returned, many other Micronesians, including Chuukese and Yapese, had already settled on their islands.<br><br>In 1898, Spain ceded Guam to the US after the Spanish-American War but sold the Northern Mariana Islands to Germany under the German-Spanish Treaty of 1899. Germany administered the territory from German New Guinea but took a hands-off approach to day-to-day life. Following World War I, Japan administered the islands under a League of Nations mandate. Japan focused on sugar production and brought in thousands of Japanese laborers, who quickly outnumbered the Chamorro on the islands. During World War II, Japan invaded Guam from the Northern Mariana Islands and used Marianan Chamorro as translators with Guamanian Chamorro, creating friction between the two Chamorro communities that continues to this day. The US captured the Northern Mariana Islands in 1944 after the Battle of Saipan and later administered them as part of the Trust Territory of the Pacific Islands (TTPI).<br><br>On four occasions in the 1950s and 1960s, voters opted for integration with Guam, which Guam rejected in 1969. In 1978, the Northern Mariana Islands was granted self-governance separate from the rest of the TTPI, and in 1986, islanders were granted US citizenship, with the territory coming under US sovereignty as the Commonwealth of the Northern Mariana Islands (CNMI). In 2009, the CNMI became the final US territory to elect a nonvoting delegate to the US Congress.</p><br>
 
 ## Geography
 
@@ -73,7 +73,9 @@ strategic location in the North Pacific Ocean<br>
 ## People and Society
 
 **Population**<br>
-51,295 (2023 est.)<br>
+_total_: 51,118<br>
+_male_: 27,044<br>
+_female_: 24,074 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: NA (US citizens)<br>
@@ -89,9 +91,9 @@ Philippine languages 32.8%, Chamorro (official) 24.1%, English (official) 17%, o
 Christian (Roman Catholic majority, although traditional beliefs and taboos may still be found)<br>
 
 **Age structure**<br>
-_0-14 years_: 22.61% (male 6,232/female 5,367)<br>
-_15-64 years_: 67.95% (male 18,367/female 16,490)<br>
-_65 years and over_: 9.43% (2023 est.) (male 2,560/female 2,279)<br>
+_0-14 years_: 22.1% (male 6,066/female 5,231)<br>
+_15-64 years_: 67.7% (male 18,206/female 16,377)<br>
+_65 years and over_: 10.2% (2024 est.) (male 2,772/female 2,466)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 46<br>
@@ -100,21 +102,21 @@ _elderly dependency ratio_: 14.3<br>
 _potential support ratio_: 7 (2021)<br>
 
 **Median age**<br>
-_total_: 32.3 years (2023 est.)<br>
-_male_: 31.7 years<br>
-_female_: 33.3 years<br>
+_total_: 32.4 years (2024 est.)<br>
+_male_: 31.8 years<br>
+_female_: 33.2 years<br>
 
 **Population growth rate**<br>
--0.35% (2023 est.)<br>
+-0.34% (2024 est.)<br>
 
 **Birth rate**<br>
-15.6 births/1,000 population (2023 est.)<br>
+15.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.6 deaths/1,000 population (2023 est.)<br>
+5.7 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--13.5 migrant(s)/1,000 population (2023 est.)<br>
+-13.4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 approximately 90% of the population lives on the island of Saipan<br>
@@ -131,23 +133,23 @@ _at birth_: 1.17 male(s)/female<br>
 _0-14 years_: 1.16 male(s)/female<br>
 _15-64 years_: 1.11 male(s)/female<br>
 _65 years and over_: 1.12 male(s)/female<br>
-_total population_: 1.13 male(s)/female (2023 est.)<br>
+_total population_: 1.12 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 14.8 deaths/1,000 live births<br>
-_female_: 9.2 deaths/1,000 live births<br>
+_total_: 11.9 deaths/1,000 live births (2024 est.)<br>
+_male_: 14.4 deaths/1,000 live births<br>
+_female_: 9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.8 years (2023 est.)<br>
-_male_: 74.8 years<br>
-_female_: 79.3 years<br>
+_total population_: 77.1 years (2024 est.)<br>
+_male_: 75 years<br>
+_female_: 79.5 years<br>
 
 **Total fertility rate**<br>
-2.59 children born/woman (2023 est.)<br>
+2.56 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.2 (2023 est.)<br>
+1.18 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

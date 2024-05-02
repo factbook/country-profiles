@@ -77,7 +77,9 @@ population concentrated where good farmlands lie; highest concentrations are nor
 ## People and Society
 
 **Population**<br>
-116,434,200 (2023 est.)<br>
+_total_: 118,277,063<br>
+_male_: 59,227,092<br>
+_female_: 59,049,971 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Filipino(s)<br>
@@ -98,9 +100,9 @@ Roman Catholic 78.8%, Muslim 6.4%, Iglesia ni Cristo 2.6%, other Christian 3.9%,
 <p>The Philippines is an ethnically diverse country that is in the early stages of demographic transition.  Its fertility rate has dropped steadily since the 1950s.  The decline was more rapid after the introduction of a national population program in the 1970s in large part due to the increased use of modern contraceptive methods, but fertility has decreased more slowly in recent years.  The country’s total fertility rate (TFR) – the average number of births per woman – dropped below 5 in the 1980s, below 4 in the 1990s, and below 3 in the 2010s.  TFR continues to be above replacement level at 2.9 and even higher among the poor, rural residents, and the less-educated.  Significant reasons for elevated TFR are the desire for more than two children, in part because children are a means of financial assistance and security for parents as they age, particularly among the poor.</p> <p>The Philippines are the source of one of the world’s largest emigrant populations, much of which consists of legal temporary workers known as Overseas Foreign Workers or OFWs.  As of 2019, there were 2.2 million OFWs.  They work in a wide array of fields, most frequently in services (such as caregivers and domestic work), skilled trades, and construction but also in professional fields, including nursing and engineering.  OFWs most often migrate to Middle Eastern countries, but other popular destinations include Hong Kong, China, and Singapore, as well as employment on ships.  Filipino seafarers make up 35-40% of the world’s seafarers, as of 2014.   Women OFWs, who work primarily in domestic services and entertainment, have outnumbered men since 1992. </p> <p>Migration and remittances have been a feature of Philippine culture for decades.  The government has encouraged and facilitated emigration, regulating recruitment agencies and adopting legislation to protect the rights of migrant workers.  Filipinos began emigrating to the US and Hawaii early in the 20th century.  In 1934, US legislation limited Filipinos to 50 visas per year except during labor shortages, causing emigration to plummet.  It was not until the 1960s, when the US and other destination countries – Canada, Australia, and New Zealand – loosened their immigration policies, that Filipino emigration expanded and diversified.  The government implemented an overseas employment program in the 1970s, promoting Filipino labor to Gulf countries needing more workers for their oil industries.  Filipino emigration increased rapidly.  The government had intended for international migration to be temporary, but a lack of jobs and poor wages domestically, the ongoing demand for workers in the Gulf countries, and new labor markets in Asia continue to spur Philippine emigration.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 30.49% (male 18,133,279/female 17,366,394)<br>
-_15-64 years_: 64.06% (male 37,667,819/female 36,923,236)<br>
-_65 years and over_: 5.45% (2023 est.) (male 2,516,561/female 3,826,911)<br>
+_0-14 years_: 30.2% (male 18,234,279/female 17,462,803)<br>
+_15-64 years_: 64.3% (male 38,381,583/female 37,613,294)<br>
+_65 years and over_: 5.6% (2024 est.) (male 2,611,230/female 3,973,874)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.2<br>
@@ -109,21 +111,21 @@ _elderly dependency ratio_: 8.3<br>
 _potential support ratio_: 12 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 25.4 years (2023 est.)<br>
-_male_: 24.9 years<br>
-_female_: 26 years<br>
+_total_: 25.7 years (2024 est.)<br>
+_male_: 25.1 years<br>
+_female_: 26.3 years<br>
 
 **Population growth rate**<br>
-1.58% (2023 est.)<br>
+1.56% (2024 est.)<br>
 
 **Birth rate**<br>
-22.2 births/1,000 population (2023 est.)<br>
+22.1 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.3 deaths/1,000 population (2023 est.)<br>
+6.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2023 est.)<br>
+-0.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population concentrated where good farmlands lie; highest concentrations are northwest and south-central Luzon, the southeastern extension of Luzon, and the islands of the Visayan Sea, particularly Cebu and Negros; Manila is home to one-eighth of the entire national population<br>
@@ -140,7 +142,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 1.02 male(s)/female<br>
 _65 years and over_: 0.66 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23.6 years (2022 est.)<br>
@@ -150,20 +152,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 78 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.1 deaths/1,000 live births (2023 est.)<br>
+_total_: 22 deaths/1,000 live births (2024 est.)<br>
 _male_: 24.4 deaths/1,000 live births<br>
-_female_: 19.7 deaths/1,000 live births<br>
+_female_: 19.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.5 years (2023 est.)<br>
-_male_: 67 years<br>
-_female_: 74.2 years<br>
+_total population_: 70.8 years (2024 est.)<br>
+_male_: 67.3 years<br>
+_female_: 74.5 years<br>
 
 **Total fertility rate**<br>
-2.77 children born/woman (2023 est.)<br>
+2.75 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.35 (2023 est.)<br>
+1.34 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 54.1% (2017)<br>

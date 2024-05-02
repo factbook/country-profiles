@@ -80,7 +80,9 @@ controls most land routes from Western Europe to Aegean Sea and Turkish Straits;
 ## People and Society
 
 **Population**<br>
-4,169,239 (2023 est.)<br>
+_total_: 4,150,116<br>
+_male_: 2,003,431<br>
+_female_: 2,146,685 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Croat(s), Croatian(s)<br>
@@ -98,9 +100,9 @@ _major-language sample(s)_: <br>Knjiga svjetskih činjenica, nužan izvor osnovn
 Roman Catholic 79%, Orthodox 3.3%, Protestant 0.3%, other Christian 4.8%, Muslim 1.3%, other 1.1%, agnostic 1.7%, none or atheist 4.7%, unspecified 3.9% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 13.98% (male 300,575/female 282,165)<br>
-_15-64 years_: 63.39% (male 1,319,878/female 1,322,953)<br>
-_65 years and over_: 22.63% (2023 est.) (male 391,632/female 552,036)<br>
+_0-14 years_: 13.8% (male 296,527/female 278,236)<br>
+_15-64 years_: 63.1% (male 1,307,814/female 1,309,394)<br>
+_65 years and over_: 23.1% (2024 est.) (male 399,090/female 559,055)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.5<br>
@@ -109,21 +111,21 @@ _elderly dependency ratio_: 34.4<br>
 _potential support ratio_: 2.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 44.8 years (2023 est.)<br>
-_male_: 42.9 years<br>
-_female_: 46.7 years<br>
+_total_: 45.1 years (2024 est.)<br>
+_male_: 43.2 years<br>
+_female_: 47 years<br>
 
 **Population growth rate**<br>
--0.47% (2023 est.)<br>
+-0.46% (2024 est.)<br>
 
 **Birth rate**<br>
-8.6 births/1,000 population (2023 est.)<br>
+8.5 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-13 deaths/1,000 population (2023 est.)<br>
+13.1 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.3 migrant(s)/1,000 population (2023 est.)<br>
+0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 more of the population lives in the northern half of the country, with approximately a quarter of the populace residing in and around the capital of Zagreb; many of the islands are sparsely populated<br>
@@ -137,10 +139,10 @@ _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.01 male(s)/female<br>
-_15-64 years_: 1.02 male(s)/female<br>
-_65 years and over_: 0.82 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2023 est.)<br>
+_0-14 years_: 1.07 male(s)/female<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.71 male(s)/female<br>
+_total population_: 0.93 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29 years (2020 est.)<br>
@@ -149,20 +151,20 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.6 deaths/1,000 live births (2023 est.)<br>
-_male_: 8.4 deaths/1,000 live births<br>
-_female_: 8.8 deaths/1,000 live births<br>
+_total_: 8.4 deaths/1,000 live births (2024 est.)<br>
+_male_: 8.2 deaths/1,000 live births<br>
+_female_: 8.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.5 years (2023 est.)<br>
-_male_: 74.4 years<br>
-_female_: 80.8 years<br>
+_total population_: 77.7 years (2024 est.)<br>
+_male_: 74.6 years<br>
+_female_: 81 years<br>
 
 **Total fertility rate**<br>
-1.46 children born/woman (2023 est.)<br>
+1.46 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.71 (2023 est.)<br>
+0.71 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

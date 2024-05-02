@@ -72,7 +72,9 @@ largest and southernmost of Channel Islands; about 30% of population concentrate
 ## People and Society
 
 **Population**<br>
-102,785 (2023 est.)<br>
+_total_: 103,387<br>
+_male_: 51,028<br>
+_female_: 52,359 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Channel Islander(s)<br>
@@ -86,12 +88,12 @@ Jersey 44.4%, British 30.5%, Portuguese/Madeiran 9.4%, Polish 3%, Irish 2.1%, ot
 <strong>note: </strong>data represent main spoken language; the traditional language of Jersey is Jerriais or Jersey French (a Norman language), which was spoken by fewer than 3,000 people as of 2001;  two thirds of Jerriais speakers are aged 60 and over<br>
 
 **Religions**<br>
-Protestant (Anglican, Baptist, Congregational New Church, Methodist, Presbyterian), Roman Catholic<br>
+Christian 85.2%, Baha'i 0.3%, Hindu 0.1%, Jewish 0.1%, Muslim 0.1%, atheist 1.1%, agnostic 13.1% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 16.89% (male 8,958/female 8,405)<br>
-_15-64 years_: 65.19% (male 33,888/female 33,121)<br>
-_65 years and over_: 17.91% (2023 est.) (male 7,871/female 10,542)<br>
+_0-14 years_: 17% (male 9,082/female 8,530)<br>
+_15-64 years_: 64.6% (male 33,840/female 32,989)<br>
+_65 years and over_: 18.3% (2024 est.) (male 8,106/female 10,840)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 44.5<br>
@@ -101,21 +103,21 @@ _potential support ratio_: 4.3 (2021 est.)<br>
 <strong>note:</strong> data represent Guernsey and Jersey<br>
 
 **Median age**<br>
-_total_: 38 years (2023 est.)<br>
-_male_: 36.7 years<br>
-_female_: 39.5 years<br>
+_total_: 38.2 years (2024 est.)<br>
+_male_: 37 years<br>
+_female_: 39.7 years<br>
 
 **Population growth rate**<br>
-0.61% (2023 est.)<br>
+0.56% (2024 est.)<br>
 
 **Birth rate**<br>
-12.3 births/1,000 population (2023 est.)<br>
+12.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.8 deaths/1,000 population (2023 est.)<br>
+7.8 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-1.5 migrant(s)/1,000 population (2023 est.)<br>
+1.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 fairly even distribution; no notable trends<br>
@@ -130,26 +132,26 @@ _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.07 male(s)/female<br>
-_15-64 years_: 1.02 male(s)/female<br>
+_0-14 years_: 1.06 male(s)/female<br>
+_15-64 years_: 1.03 male(s)/female<br>
 _65 years and over_: 0.75 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2023 est.)<br>
+_total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 4.3 deaths/1,000 live births<br>
+_total_: 3.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 4.2 deaths/1,000 live births<br>
 _female_: 3.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.8 years (2023 est.)<br>
-_male_: 80.3 years<br>
-_female_: 85.5 years<br>
+_total population_: 83 years (2024 est.)<br>
+_male_: 80.6 years<br>
+_female_: 85.7 years<br>
 
 **Total fertility rate**<br>
-1.66 children born/woman (2023 est.)<br>
+1.66 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.8 (2023 est.)<br>
+0.81 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

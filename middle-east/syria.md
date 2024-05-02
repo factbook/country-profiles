@@ -82,7 +82,9 @@ the capital of Damascus - located at an oasis fed by the Barada River - is thoug
 ## People and Society
 
 **Population**<br>
-22,933,531 (2023 est.)<br>
+_total_: 23,865,423<br>
+_male_: 11,981,578<br>
+_female_: 11,883,845 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Syrian(s)<br>
@@ -100,9 +102,9 @@ Muslim 87% (official; includes Sunni 74% and Alawi, Ismaili, and Shia 13%), Chri
 <strong>note:</strong>  the Christian population may be considerably smaller as a result of Christians fleeing the country during the ongoing civil war<br>
 
 **Age structure**<br>
-_0-14 years_: 33.27% (male 3,914,737/female 3,716,362)<br>
-_15-64 years_: 62.58% (male 7,141,423/female 7,209,386)<br>
-_65 years and over_: 4.15% (2023 est.) (male 445,288/female 506,335)<br>
+_0-14 years_: 33% (male 4,037,493/female 3,828,777)<br>
+_15-64 years_: 62.8% (male 7,475,355/female 7,522,797)<br>
+_65 years and over_: 4.2% (2024 est.) (male 468,730/female 532,271)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.4<br>
@@ -111,21 +113,21 @@ _elderly dependency ratio_: 7.4<br>
 _potential support ratio_: 13.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 23.9 years (2023 est.)<br>
-_male_: 23.3 years<br>
-_female_: 24.5 years<br>
+_total_: 24.1 years (2024 est.)<br>
+_male_: 23.6 years<br>
+_female_: 24.7 years<br>
 
 **Population growth rate**<br>
-6.39% (2023 est.)<br>
+1.67% (2024 est.)<br>
 
 **Birth rate**<br>
-22.2 births/1,000 population (2023 est.)<br>
+21.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-4.1 deaths/1,000 population (2023 est.)<br>
+4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-45.8 migrant(s)/1,000 population (2023 est.) NA<br>
+-1.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley<br>
@@ -143,26 +145,26 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 0.99 male(s)/female<br>
 _65 years and over_: 0.88 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2023 est.)<br>
+_total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 30 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.5 deaths/1,000 live births (2023 est.)<br>
-_male_: 17.1 deaths/1,000 live births<br>
-_female_: 13.8 deaths/1,000 live births<br>
+_total_: 15.1 deaths/1,000 live births (2024 est.)<br>
+_male_: 16.6 deaths/1,000 live births<br>
+_female_: 13.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.6 years (2023 est.)<br>
-_male_: 73.1 years<br>
-_female_: 76.1 years<br>
+_total population_: 74.8 years (2024 est.)<br>
+_male_: 73.4 years<br>
+_female_: 76.4 years<br>
 
 **Total fertility rate**<br>
-2.74 children born/woman (2023 est.)<br>
+2.69 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.33 (2023 est.)<br>
+1.31 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

@@ -72,7 +72,9 @@ a flat, riverless island renowned for its white sand beaches; its tropical clima
 ## People and Society
 
 **Population**<br>
-123,702 (2023 est.)<br>
+_total_: 125,063<br>
+_male_: 59,101<br>
+_female_: 65,962 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Aruban(s)<br>
@@ -89,9 +91,9 @@ Papiamento (official) (a creole language that is a mixture of Portuguese, Spanis
 Roman Catholic 75.3%, Protestant 4.9% (includes Methodist 0.9%, Adventist 0.9%, Anglican 0.4%, other Protestant 2.7%), Jehovah's Witness 1.7%, other 12%, none 5.5%, unspecified 0.5% (2010 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 17.32% (male 10,745/female 10,677)<br>
-_15-64 years_: 66.11% (male 39,490/female 42,284)<br>
-_65 years and over_: 16.58% (2023 est.) (male 8,237/female 12,269)<br>
+_0-14 years_: 17.2% (male 10,815/female 10,747)<br>
+_15-64 years_: 65.7% (male 39,621/female 42,487)<br>
+_65 years and over_: 17.1% (2024 est.) (male 8,665/female 12,728)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 47.8<br>
@@ -100,21 +102,21 @@ _elderly dependency ratio_: 23<br>
 _potential support ratio_: 4.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 40.7 years (2023 est.)<br>
-_male_: 39 years<br>
-_female_: 42.2 years<br>
+_total_: 40.9 years (2024 est.)<br>
+_male_: 39.3 years<br>
+_female_: 42.4 years<br>
 
 **Population growth rate**<br>
-1.11% (2023 est.)<br>
+1.08% (2024 est.)<br>
 
 **Birth rate**<br>
-11.7 births/1,000 population (2023 est.)<br>
+11.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8.7 deaths/1,000 population (2023 est.)<br>
+8.8 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-8.1 migrant(s)/1,000 population (2023 est.)<br>
+8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most residents live in or around Oranjestad and San Nicolaas; most settlments tend to be located on the less mountainous western side of the island<br>
@@ -130,24 +132,24 @@ _rate of urbanization_: 0.77% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.02 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-64 years_: 0.93 male(s)/female<br>
-_65 years and over_: 0.67 male(s)/female<br>
-_total population_: 0.9 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.68 male(s)/female<br>
+_total population_: 0.9 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 16 deaths/1,000 live births<br>
-_female_: 7.5 deaths/1,000 live births<br>
+_total_: 11.5 deaths/1,000 live births (2024 est.)<br>
+_male_: 15.6 deaths/1,000 live births<br>
+_female_: 7.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.3 years (2023 est.)<br>
-_male_: 75.2 years<br>
-_female_: 81.4 years<br>
+_total population_: 78.5 years (2024 est.)<br>
+_male_: 75.4 years<br>
+_female_: 81.6 years<br>
 
 **Total fertility rate**<br>
-1.82 children born/woman (2023 est.)<br>
+1.82 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.9 (2023 est.)<br>
+0.9 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -576,7 +578,7 @@ defense is the responsibility of the Kingdom of the Netherlands; the Aruba secur
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,000 (Venezuela) (2021)<br>
+_refugees (country of origin)_: 17,085 (Venezuela) (2023)<br>
 
 **Illicit drugs**<br>
 <p>northbound transshipment point for cocaine from Colombia and Venezuela; cocaine shipped to the United States, other Caribbean islands, Africa, and Europe</p> <p> </p><br>

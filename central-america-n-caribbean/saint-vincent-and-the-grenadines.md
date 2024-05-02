@@ -74,7 +74,9 @@ the administration of the islands of the Grenadines group is divided between Sai
 ## People and Society
 
 **Population**<br>
-100,804 (2023 est.)<br>
+_total_: 100,647<br>
+_male_: 51,249<br>
+_female_: 49,398 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Saint Vincentian(s) or Vincentian(s)<br>
@@ -90,9 +92,9 @@ English, Vincentian Creole English, French patois<br>
 Protestant 75% (Pentecostal 27.6%, Anglican 13.9%, Seventh Day Adventist 11.6%,&nbsp; Baptist 8.9%, Methodist 8.7%, Evangelical 3.8%, Salvation Army 0.3%, Presbyterian/Congregational 0.3%), Roman Catholic 6.3%,&nbsp; Rastafarian 1.1%, Jehovah's Witness 0.8%, other 4.7%, none 7.5%, unspecified 4.7% (2012 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 19.05% (male 9,687/female 9,515)<br>
-_15-64 years_: 68.55% (male 35,621/female 33,478)<br>
-_65 years and over_: 12.4% (2023 est.) (male 6,021/female 6,482)<br>
+_0-14 years_: 18.8% (male 9,527/female 9,353)<br>
+_15-64 years_: 68.2% (male 35,401/female 33,288)<br>
+_65 years and over_: 13% (2024 est.) (male 6,321/female 6,757)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49<br>
@@ -101,21 +103,21 @@ _elderly dependency ratio_: 16.1<br>
 _potential support ratio_: 6.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 37 years (2023 est.)<br>
-_male_: 37.2 years<br>
-_female_: 36.9 years<br>
+_total_: 37.6 years (2024 est.)<br>
+_male_: 37.7 years<br>
+_female_: 37.4 years<br>
 
 **Population growth rate**<br>
--0.16% (2023 est.)<br>
+-0.15% (2024 est.)<br>
 
 **Birth rate**<br>
-12.1 births/1,000 population (2023 est.)<br>
+11.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.6 deaths/1,000 population (2023 est.)<br>
+7.7 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--6.1 migrant(s)/1,000 population (2023 est.)<br>
+-5.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in and around the capital of Kingstown<br>
@@ -131,27 +133,27 @@ _rate of urbanization_: 0.94% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-64 years_: 1.06 male(s)/female<br>
-_65 years and over_: 0.93 male(s)/female<br>
-_total population_: 1.04 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.94 male(s)/female<br>
+_total population_: 1.04 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 62 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.6 deaths/1,000 live births (2023 est.)<br>
-_male_: 14.2 deaths/1,000 live births<br>
-_female_: 10.9 deaths/1,000 live births<br>
+_total_: 12.3 deaths/1,000 live births (2024 est.)<br>
+_male_: 13.9 deaths/1,000 live births<br>
+_female_: 10.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.9 years (2023 est.)<br>
-_male_: 74.9 years<br>
-_female_: 79 years<br>
+_total population_: 77.2 years (2024 est.)<br>
+_male_: 75.2 years<br>
+_female_: 79.3 years<br>
 
 **Total fertility rate**<br>
-1.74 children born/woman (2023 est.)<br>
+1.74 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.86 (2023 est.)<br>
+0.85 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

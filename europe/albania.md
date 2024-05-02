@@ -80,7 +80,9 @@ strategic location along Strait of Otranto (links Adriatic Sea to Ionian Sea and
 ## People and Society
 
 **Population**<br>
-3,101,621 (2023 est.)<br>
+_total_: 3,107,100<br>
+_male_: 1,531,063<br>
+_female_: 1,576,037 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Albanian(s)<br>
@@ -99,9 +101,9 @@ Muslim 56.7%, Roman Catholic 10%, Orthodox 6.8%, atheist 2.5%, Bektashi (a Sufi 
 <strong>note:</strong> all mosques and churches were closed in 1967 and religious observances prohibited; in November 1990, Albania began allowing private religious practice<br>
 
 **Age structure**<br>
-_0-14 years_: 17.9% (male 290,624/female 264,536)<br>
-_15-64 years_: 67.53% (male 1,030,436/female 1,064,217)<br>
-_65 years and over_: 14.57% (2023 est.) (male 207,960/female 243,848)<br>
+_0-14 years_: 18% (male 292,296/female 267,052)<br>
+_15-64 years_: 66.9% (male 1,023,515/female 1,055,388)<br>
+_65 years and over_: 15.1% (2024 est.) (male 215,252/female 253,597)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 48.2<br>
@@ -110,21 +112,21 @@ _elderly dependency ratio_: 24.1<br>
 _potential support ratio_: 4.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 35.8 years (2023 est.)<br>
-_male_: 34.3 years<br>
-_female_: 37.2 years<br>
+_total_: 36.3 years (2024 est.)<br>
+_male_: 34.8 years<br>
+_female_: 37.8 years<br>
 
 **Population growth rate**<br>
-0.19% (2023 est.)<br>
+0.16% (2024 est.)<br>
 
 **Birth rate**<br>
-12.5 births/1,000 population (2023 est.)<br>
+12.3 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.4 deaths/1,000 population (2023 est.)<br>
+7.4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--3.2 migrant(s)/1,000 population (2023 est.)<br>
+-3.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution, with somewhat higher concentrations of people in the western and central parts of the country<br>
@@ -137,11 +139,11 @@ _rate of urbanization_: 1.29% annual rate of change (2020-25 est.)<br>
 520,000 TIRANA (capital) (2023)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.07 male(s)/female<br>
-_0-14 years_: 1.1 male(s)/female<br>
+_at birth_: 1.06 male(s)/female<br>
+_0-14 years_: 1.09 male(s)/female<br>
 _15-64 years_: 0.97 male(s)/female<br>
 _65 years and over_: 0.85 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2023 est.)<br>
+_total population_: 0.97 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.6 years (2020 est.)<br>
@@ -150,20 +152,20 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 8 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.5 deaths/1,000 live births (2023 est.)<br>
-_male_: 11.6 deaths/1,000 live births<br>
-_female_: 9.5 deaths/1,000 live births<br>
+_total_: 10.3 deaths/1,000 live births (2024 est.)<br>
+_male_: 11.3 deaths/1,000 live births<br>
+_female_: 9.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.7 years (2023 est.)<br>
-_male_: 77 years<br>
-_female_: 82.6 years<br>
+_total population_: 79.9 years (2024 est.)<br>
+_male_: 77.3 years<br>
+_female_: 82.8 years<br>
 
 **Total fertility rate**<br>
-1.55 children born/woman (2023 est.)<br>
+1.55 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.75 (2023 est.)<br>
+0.75 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 46% (2017/18)<br>

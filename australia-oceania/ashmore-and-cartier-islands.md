@@ -65,45 +65,8 @@ Ashmore Reef National Nature Reserve established in August 1983; Cartier Island 
 ## People and Society
 
 **Population**<br>
-(July 2021 est.) no indigenous inhabitants<br>
+_total_: (2021 est.) no indigenous inhabitants<br>
 <strong>note:</strong> Indonesian fishermen are allowed access to the lagoon and fresh water at Ashmore Reef's West Island; access to East and Middle Islands is by permit only<br>
-
-**Age structure**<br>
-_0-14 years_: NA<br>
-_15-64 years_: NA<br>
-_65 years and over_: NA<br>
-
-**Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
-
-**Birth rate**<br>
-NA<br>
-
-**Death rate**<br>
-NA<br>
-
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA<br>
-
-**Current health expenditure**<br>
-NA<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
-**Education expenditures**<br>
-NA<br>
 
 ## Environment
 

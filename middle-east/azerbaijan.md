@@ -77,7 +77,9 @@ both the main area of the country and the Naxcivan exclave are landlocked<br>
 ## People and Society
 
 **Population**<br>
-10,420,515 (2023 est.)<br>
+_total_: 10,650,239<br>
+_male_: 5,330,233<br>
+_female_: 5,320,006 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Azerbaijani(s)<br>
@@ -100,9 +102,9 @@ Muslim 97.3% (predominantly Shia), Christian 2.6%, other &lt;0.1, unaffiliated &
 <p>Azerbaijan’s citizenry has over 80 ethnic groups. The far eastern part of the country has the highest population density, particularly in and around Baku. Apart from smaller urbanized areas, the rest of the country has a fairly light and evenly distributed population. Approximately 57% of the country’s inhabitants lives in urban areas.  While the population is continuing to grow, it is in the early stages of aging. The declining fertility rate – which has decreased from about 5.5 children per woman in the 1950s to less than the 2.1 replacement level in 2022 – combined with increasing life expectancy has resulted in the elderly making up a larger share of Azerbaijan’s populace. The percentage of elderly residents and the slowed growth and eventual shrinkage of the working-age population could put pressure on the country’s pension and healthcare systems. </p><br>
 
 **Age structure**<br>
-_0-14 years_: 21.78% (male 1,192,608/female 1,077,302)<br>
-_15-64 years_: 69.64% (male 3,619,341/female 3,637,494)<br>
-_65 years and over_: 8.58% (2023 est.) (male 356,184/female 537,586)<br>
+_0-14 years_: 22.3% (male 1,269,241/female 1,104,529)<br>
+_15-64 years_: 68.7% (male 3,659,441/female 3,656,493)<br>
+_65 years and over_: 9% (2024 est.) (male 401,551/female 558,984)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 44.2<br>
@@ -111,21 +113,21 @@ _elderly dependency ratio_: 9.7<br>
 _potential support ratio_: 10.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 33.8 years (2023 est.)<br>
-_male_: 32.2 years<br>
-_female_: 35.4 years<br>
+_total_: 34.3 years (2024 est.)<br>
+_male_: 32.8 years<br>
+_female_: 36 years<br>
 
 **Population growth rate**<br>
-0.43% (2023 est.)<br>
+0.43% (2024 est.)<br>
 
 **Birth rate**<br>
-11.5 births/1,000 population (2023 est.)<br>
+11.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.8 deaths/1,000 population (2023 est.)<br>
+6.4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.4 migrant(s)/1,000 population (2023 est.)<br>
+-0.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 highest population density is found in the far eastern area of the country, in and around Baku; apart from smaller urbanized areas, the rest of the country has a fairly light and evenly distributed population<br>
@@ -140,10 +142,10 @@ _rate of urbanization_: 1.38% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.15 male(s)/female<br>
-_0-14 years_: 1.11 male(s)/female<br>
+_0-14 years_: 1.15 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.66 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.72 male(s)/female<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 24 years (2019 est.)<br>
@@ -152,20 +154,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 41 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 13.8 deaths/1,000 live births<br>
-_female_: 9.7 deaths/1,000 live births<br>
+_total_: 10.9 deaths/1,000 live births (2024 est.)<br>
+_male_: 12.6 deaths/1,000 live births<br>
+_female_: 9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.9 years (2023 est.)<br>
-_male_: 72.4 years<br>
-_female_: 77.8 years<br>
+_total population_: 75.9 years (2024 est.)<br>
+_male_: 73.5 years<br>
+_female_: 78.6 years<br>
 
 **Total fertility rate**<br>
-1.69 children born/woman (2023 est.)<br>
+1.69 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.78 (2023 est.)<br>
+0.79 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -703,7 +705,7 @@ the Azerbaijani military was established in 1991, although its origins go back t
 ## Space
 
 **Space agency/agencies**<br>
-Azerbaijan National Aerospace Agency (NASA; Azərbaycan Milli Aerokosmik Agentliyi, MAKA; established in 1992 from the Kaspiy Scientific Center, established 1974); Space Agency of the Republic of Azerbaijan (Azercosmos; established 2010 as a state-owned satellite operating company)&nbsp; (2023)<br>
+Azerbaijan National Aerospace Agency (NASA; Azərbaycan Milli Aerokosmik Agentliyi, MAKA; established in 1992 from the Kaspiy Scientific Center, established 1974); Space Agency of the Republic of Azerbaijan (Azercosmos; established 2010 as a state-owned satellite operating company) (2024)<br>
 
 **Space program overview**<br>
 national space program largely focused on the acquisition and operation of satellites; operates foreign-built communications and remote sensing (RS) satellites; has two satellite ground control stations; cooperates with a variety of foreign space agencies and commercial entities, including those of China, the European Space Agency (and individual member states such as France), Israel, Russia, Turkey, and the US; Azercosmos is the largest satellite operator in the Caucasus region (2024)<br>

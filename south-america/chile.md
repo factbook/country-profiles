@@ -80,7 +80,9 @@ _fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq k
 ## People and Society
 
 **Population**<br>
-18,549,457 (2023 est.)<br>
+_total_: 18,664,652<br>
+_male_: 9,169,736<br>
+_female_: 9,494,916 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Chilean(s)<br>
@@ -94,15 +96,15 @@ Spanish 99.5% (official), English 10.2%, Indigenous 1% (includes Mapudungun, Aym
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 60%, Evangelical 18%, atheist or agnostic 4%, none 17% (2018 est.)<br>
+Roman Catholic 42%, Evangelical 14%, other 6%, none 37% (2021 est.)<br>
 
 **Demographic profile**<br>
 <p>Chile is in the advanced stages of demographic transition and is becoming an aging society—with fertility below replacement level, low mortality rates, and life expectancy on par with developed countries. The share of older, those 65 and early, people may exceed 65% by 2065. Nevertheless, with its dependency ratio nearing its low point, Chile could benefit from its favorable age structure. It will need to keep its large working-age population productively employed, while preparing to provide for the needs of its growing proportion of elderly people, especially as women—the traditional caregivers—increasingly enter the workforce. Over the last two decades, Chile has made great strides in reducing its poverty rate, but income inequality remains persistent in large part because a lack of a lack of access to quality education.</p> <p>Chile has been both a country of emigration and immigration. After becoming independent in 1810, Chile began seeking out immigrants from Europe to establish factories and to populate the southern part of the country.  Following the two World Wars, fears of an influx of refugees prompted Chile to stop encouraging European immigration. However, Arab immigration increased between 1907 and 1940.  During the Pinochet dictatorship that began in 1973, hundreds of thousands of Chileans emigrated, adding to the thousands who had left in the 1950s.  At the same time, the repressiveness of the Pinochet regime discouraged the arrival of new immigrants.  With the return of democracy and improving economic stability in 1990, some emigrants returned and new immigrants arrived from other South American countries experiencing deteriorating economic and political conditions. Immigration became more diverse starting in the 2010s, with the arrival of Haitians and Colombians of African descent.  However, the largest group of recent immigrants are Venezuelans fleeing their country’s socio-economic and political crisis.  As of 2020, almost one-third of Chile’s immigrant population are Venezuelan, while other top source countries continue to be Peru, Haiti, and Colombia.  Nearly 1.5 million immigrants account for almost 9% of Chile’s total population, as of 2020.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 19.34% (male 1,829,801/female 1,758,137)<br>
-_15-64 years_: 67.56% (male 6,259,566/female 6,273,074)<br>
-_65 years and over_: 13.09% (2023 est.) (male 1,024,692/female 1,404,187)<br>
+_0-14 years_: 19.2% (male 1,822,908/female 1,751,528)<br>
+_15-64 years_: 67.3% (male 6,274,620/female 6,278,467)<br>
+_65 years and over_: 13.6% (2024 est.) (male 1,072,208/female 1,464,921)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 45.2<br>
@@ -111,21 +113,21 @@ _elderly dependency ratio_: 18.4<br>
 _potential support ratio_: 5.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 36.6 years (2023 est.)<br>
-_male_: 35.4 years<br>
-_female_: 37.8 years<br>
+_total_: 36.9 years (2024 est.)<br>
+_male_: 35.8 years<br>
+_female_: 38.2 years<br>
 
 **Population growth rate**<br>
-0.63% (2023 est.)<br>
+0.61% (2024 est.)<br>
 
 **Birth rate**<br>
-12.6 births/1,000 population (2023 est.)<br>
+12.4 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.6 deaths/1,000 population (2023 est.)<br>
+6.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0.3 migrant(s)/1,000 population (2023 est.)<br>
+0.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 90% of the population is located in the middle third of the country around the capital of Santiago; the far north (anchored by the Atacama Desert) and the extreme south are relatively underpopulated<br>
@@ -142,26 +144,26 @@ _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
 _65 years and over_: 0.73 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2023 est.)<br>
+_total population_: 0.97 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 15 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.4 deaths/1,000 live births (2023 est.)<br>
-_male_: 7 deaths/1,000 live births<br>
-_female_: 5.8 deaths/1,000 live births<br>
+_total_: 6.3 deaths/1,000 live births (2024 est.)<br>
+_male_: 6.9 deaths/1,000 live births<br>
+_female_: 5.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80 years (2023 est.)<br>
-_male_: 77 years<br>
-_female_: 83.1 years<br>
+_total population_: 80.3 years (2024 est.)<br>
+_male_: 77.3 years<br>
+_female_: 83.3 years<br>
 
 **Total fertility rate**<br>
-1.75 children born/woman (2023 est.)<br>
+1.75 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.86 (2023 est.)<br>
+0.85 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 76.3% (2015/16)<br>
@@ -717,7 +719,7 @@ has a space program with a considerable history and largely focused on the acqui
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 457,324 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 444,423 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2023)<br>
 
 **Illicit drugs**<br>
 transshipment country for cocaine destined for Europe and the region; some money laundering activity, especially through the Iquique Free Trade Zone; imported precursors passed on to Bolivia; domestic cocaine consumption is rising, making Chile a significant consumer of cocaine<br>

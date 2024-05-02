@@ -73,7 +73,9 @@ landlocked; straddles a number of important crossroads in the Pyrenees<br>
 ## People and Society
 
 **Population**<br>
-85,468 (2023 est.)<br>
+_total_: 85,370<br>
+_male_: 43,652<br>
+_female_: 41,718 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Andorran(s)<br>
@@ -84,16 +86,16 @@ Spanish 34.3%, Andorran 32.1%, Portuguese 10%, French 5.6%, other 18% (2024 est.
 <strong>note:</strong> data represent population by country of birth<br>
 
 **Languages**<br>
-Catalan (official) 35.7%, Castilian 43.2%, Portuguese 17.1%, French 8.9%, English 1.8%, other 5% (2018 est.)<br>
+Catalan (official) 44.1%, Castilian 40.3%, Portuguese 13.5%, French 10%, English 3%, other 6.8% (2022 est.)<br>
 <strong>note:</strong> data represent mother tongue<br>
 
 **Religions**<br>
 Christian (predominantly Roman Catholic) 89.5, other 8.8%, unaffiliated 1.7% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 12.31% (male 5,426/female 5,096)<br>
-_15-64 years_: 68.17% (male 29,845/female 28,419)<br>
-_65 years and over_: 19.52% (2023 est.) (male 8,471/female 8,211)<br>
+_0-14 years_: 12% (male 5,276/female 4,954)<br>
+_15-64 years_: 67.7% (male 29,562/female 28,201)<br>
+_65 years and over_: 20.4% (2024 est.) (male 8,814/female 8,563)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 38.1<br>
@@ -102,21 +104,21 @@ _elderly dependency ratio_: 20.1<br>
 _potential support ratio_: 5 (2021)<br>
 
 **Median age**<br>
-_total_: 48.1 years (2023 est.)<br>
-_male_: 48.1 years<br>
-_female_: 48.1 years<br>
+_total_: 48.8 years (2024 est.)<br>
+_male_: 48.7 years<br>
+_female_: 48.8 years<br>
 
 **Population growth rate**<br>
--0.11% (2023 est.)<br>
+-0.12% (2024 est.)<br>
 
 **Birth rate**<br>
-6.9 births/1,000 population (2023 est.)<br>
+6.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8 deaths/1,000 population (2023 est.)<br>
+8.1 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2023 est.)<br>
+0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population is unevenly distributed and is concentrated in the seven urbanized valleys that make up the country's parishes (political administrative divisions)<br>
@@ -129,30 +131,30 @@ _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 23,000 ANDORRA LA VELLA (capital) (2018)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.07 male(s)/female<br>
+_at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.05 male(s)/female<br>
 _65 years and over_: 1.03 male(s)/female<br>
-_total population_: 1.05 male(s)/female (2023 est.)<br>
+_total population_: 1.05 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 32.8 years (2019)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.4 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.5 deaths/1,000 live births<br>
-_female_: 3.3 deaths/1,000 live births<br>
+_total_: 3.3 deaths/1,000 live births (2024 est.)<br>
+_male_: 3.4 deaths/1,000 live births<br>
+_female_: 3.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.6 years (2023 est.)<br>
-_male_: 81.4 years<br>
-_female_: 86 years<br>
+_total population_: 83.8 years (2024 est.)<br>
+_male_: 81.6 years<br>
+_female_: 86.2 years<br>
 
 **Total fertility rate**<br>
-1.46 children born/woman (2023 est.)<br>
+1.47 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.7 (2023 est.)<br>
+0.71 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

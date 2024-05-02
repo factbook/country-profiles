@@ -58,45 +58,8 @@ fish, crayfish, note, Glorioso Islands and Tromelin Island (Iles Eparses) have g
 ## People and Society
 
 **Population**<br>
-no indigenous inhabitants<br>
+_total_: no indigenous inhabitants<br>
 <strong>Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul): </strong>uninhabited but has a meteorological station<br><strong>Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul): </strong>uninhabited but is frequently visited by fishermen and has a scientific research cabin for short stays<br><strong>Iles Crozet</strong>: uninhabited except for 18 to 30 people staffing the Alfred Faure research station on Ile del la Possession<br><strong>Iles Kerguelen:</strong> 50 to 100 scientists are located at the main base at Port-aux-Francais on Ile Kerguelen<br><strong>Bassas da India (Iles Eparses): </strong>uninhabitable<br><strong>Europa Island, Glorioso Islands, Juan de Nova Island (Iles Eparses): </strong>a small French military garrison and a few meteorologists on each possession; visited by scientists<br><strong>Tromelin Island (Iles Eparses): </strong>uninhabited, visited by scientists<br>
-
-**Age structure**<br>
-_0-14 years_: NA<br>
-_15-64 years_: NA<br>
-_65 years and over_: NA<br>
-
-**Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
-
-**Birth rate**<br>
-NA<br>
-
-**Death rate**<br>
-NA<br>
-
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA<br>
-
-**Current health expenditure**<br>
-NA<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
-**Education expenditures**<br>
-NA<br>
 
 ## Environment
 

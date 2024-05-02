@@ -82,7 +82,9 @@ local flooding in southeast (early September to June); poorly drained plains may
 ## People and Society
 
 **Population**<br>
-7,439,863 (2023 est.)<br>
+_total_: 7,522,549<br>
+_male_: 3,769,376<br>
+_female_: 3,753,173 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Paraguayan(s)<br>
@@ -102,9 +104,9 @@ Roman Catholic 80.4%, Protestant 7% (Evangelical (non-specific) 6.7%, Evangelica
 <p>Paraguay falls below the Latin American average in several socioeconomic categories, including immunization rates, potable water, sanitation, and secondary school enrollment, and has greater rates of income inequality and child and maternal mortality. Paraguay's poverty rate has declined in recent years but remains high, especially in rural areas, with more than a third of the population below the poverty line. However, the well-being of the poor in many regions has improved in terms of housing quality and access to clean water, telephone service, and electricity. The fertility rate continues to drop, declining sharply from an average 4.3 births per woman in the late 1990s to about 2 in 2013, as a result of the greater educational attainment of women, increased use of contraception, and a desire for smaller families among young women.</p><p>Paraguay is a country of emigration; it has not attracted large numbers of immigrants because of political instability, civil wars, years of dictatorship, and the greater appeal of neighboring countries. Paraguay first tried to encourage immigration in 1870 in order to rebound from the heavy death toll it suffered during the War of the Triple Alliance, but it received few European and Middle Eastern immigrants. In the 20th century, limited numbers of immigrants arrived from Lebanon, Japan, South Korea, and China, as well as Mennonites from Canada, Russia, and Mexico. Large flows of Brazilian immigrants have been arriving since the 1960s, mainly to work in agriculture. Paraguayans continue to emigrate to Argentina, Brazil, Uruguay, the United States, Italy, Spain, and France.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 22.4% (male 847,721/female 818,983)<br>
-_15-64 years_: 68.54% (male 2,560,031/female 2,539,378)<br>
-_65 years and over_: 9.06% (2023 est.) (male 320,958/female 352,792)<br>
+_0-14 years_: 22.2% (male 850,191/female 821,237)<br>
+_15-64 years_: 68.4% (male 2,582,021/female 2,561,962)<br>
+_65 years and over_: 9.4% (2024 est.) (male 337,164/female 369,974)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.4<br>
@@ -113,21 +115,21 @@ _elderly dependency ratio_: 9.6<br>
 _potential support ratio_: 10.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.3 years (2023 est.)<br>
-_male_: 31.1 years<br>
-_female_: 31.5 years<br>
+_total_: 31.8 years (2024 est.)<br>
+_male_: 31.6 years<br>
+_female_: 32 years<br>
 
 **Population growth rate**<br>
-1.12% (2023 est.)<br>
+1.09% (2024 est.)<br>
 
 **Birth rate**<br>
-16.2 births/1,000 population (2023 est.)<br>
+15.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-4.9 deaths/1,000 population (2023 est.)<br>
+4.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.1 migrant(s)/1,000 population (2023 est.)<br>
+-0.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the population resides in the eastern half of the country; to the west lies the Gran Chaco (a semi-arid lowland plain), which accounts for 60% of the land territory, but only 2% of the overall population<br>
@@ -144,7 +146,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 1.01 male(s)/female<br>
 _65 years and over_: 0.91 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2023 est.)<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.9 years (2008 est.)<br>
@@ -154,20 +156,20 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 71 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.6 deaths/1,000 live births (2023 est.)<br>
-_male_: 26.8 deaths/1,000 live births<br>
-_female_: 18.2 deaths/1,000 live births<br>
+_total_: 22 deaths/1,000 live births (2024 est.)<br>
+_male_: 26.1 deaths/1,000 live births<br>
+_female_: 17.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.6 years (2023 est.)<br>
-_male_: 76 years<br>
-_female_: 81.4 years<br>
+_total population_: 78.8 years (2024 est.)<br>
+_male_: 76.2 years<br>
+_female_: 81.6 years<br>
 
 **Total fertility rate**<br>
-1.88 children born/woman (2023 est.)<br>
+1.88 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.92 (2023 est.)<br>
+0.92 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 68.4% (2016)<br>
@@ -729,7 +731,7 @@ Hizballah (2022)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,400 (Venezuela) (2022)<br>
+_refugees (country of origin)_: 5,231 (Venezuela) (2022)<br>
 
 **Illicit drugs**<br>
 <br><br> <p>marijuana cultivation and the trafficking of Andean cocaine in the tri-border area shared with Argentina, and Brazil facilitates money laundering</p> <p> </p><br>

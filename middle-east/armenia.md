@@ -76,7 +76,9 @@ landlocked in the Lesser Caucasus Mountains; Sevana Lich (Lake Sevan) is the lar
 ## People and Society
 
 **Population**<br>
-2,989,091 (2023 est.)<br>
+_total_: 2,976,765<br>
+_male_: 1,456,415<br>
+_female_: 1,520,350 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Armenian(s)<br>
@@ -96,9 +98,9 @@ Armenian Apostolic Christian 95.2%, other Christian 1.6%, other 0.9%, none 0.6%,
 <p>Armenia’s population peaked at nearly 3.7 million in the late 1980s but has declined sharply since independence in 1991, to just over 3 million in 2021, largely as a result of its decreasing fertility rate, increasing death rate, and negative net emigration rate.  The total fertility rate (the average number of children born per woman) first fell below the 2.1 replacement level in the late 1990s and has hovered around 1.6-1.65 for over 15 years.  In an effort to increase the country’s birth rate, the government has expanded its child benefits, including a substantial increase in the lump sum payment for having a first and second child and a boost in the monthly payment to mothers of children under two.  Reversing net negative migration, however, remains the biggest obstacle to stabilizing or increasing population growth.  Emigration causes Armenia not only lose individuals but also the children they might have. </p> <p>The emigration of a significant number of working-age people combined with decreased fertility and increased life expectancy is causing the elderly share of Armenia’s population to grow.  The growing elderly population will put increasing pressure on the government’s ability to fund the pension system, health care, and other services for seniors.  Improving education, creating more jobs (particularly in the formal sector), promoting labor market participation, and increasing productivity would mitigate the financial impact of supporting a growing elderly population.</p> <p>Armenia has a long history of migration, some forced and some voluntary.  Its large diaspora is diverse and dispersed around the world.  Widely varying estimates suggest the Armenian diaspora may number anywhere from 5-9 million, easily outnumbering the number of Armenians living in Armenia.  Armenians forged communities abroad from ancient Egypt, Greece and Rome to Russia and to the Americas, where they excelled as craftsmen, merchants, and in other occupations. </p> <p>Several waves of Armenian migration occurred in the 20th century.  In the aftermath of the 1915 Armenian genocide, hundreds of thousands of survivors fled to communities in the Caucasus (including present day Armenia), Lebanon, Syria, Iran, Europe, and Russia and established new communities in Africa and the Americas.  In the 1930s, the Soviets deported thousands of Armenians to Siberia and Central Asia.  After World War II, the Soviets encouraged the Armenian diaspora in France, the Middle East, and Iran to return the Armenian homeland in order to encourage population growth after significant losses in the male workforce during the war. </p> Following Armenian independence in 1991, the economic downturn and high unemployment prompted hundreds of thousands of Armenians to seek better economic opportunities primarily in Russia but also in the US, former Soviet states, and Europe.  In the early 1990s, hundreds of thousands of Armenians fled from Azerbaijan to Armenia because of the ongoing Nagorno-Karbakh conflict, but many of them then emigrated again, mainly to Russia and the US.  When the economy became more stable in the late 1990s, permanent emigration slowed, but Armenians continued to seek temporary seasonal work in Russia.  The remittances families receive from relatives working abroad is vital to Armenian households and the country’s economy.<br>
 
 **Age structure**<br>
-_0-14 years_: 17.98% (male 282,055/female 255,313)<br>
-_15-64 years_: 67.53% (male 999,784/female 1,018,891)<br>
-_65 years and over_: 14.49% (2023 est.) (male 178,824/female 254,224)<br>
+_0-14 years_: 17.7% (male 275,589/female 250,630)<br>
+_15-64 years_: 67% (male 991,490/female 1,004,101)<br>
+_65 years and over_: 15.3% (2024 est.) (male 189,336/female 265,619)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49.6<br>
@@ -107,21 +109,21 @@ _elderly dependency ratio_: 19.1<br>
 _potential support ratio_: 5.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 38.3 years (2023 est.)<br>
-_male_: 36.9 years<br>
-_female_: 39.8 years<br>
+_total_: 38.9 years (2024 est.)<br>
+_male_: 37.6 years<br>
+_female_: 40.3 years<br>
 
 **Population growth rate**<br>
--0.4% (2023 est.)<br>
+-0.42% (2024 est.)<br>
 
 **Birth rate**<br>
-10.8 births/1,000 population (2023 est.)<br>
+10.5 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.5 deaths/1,000 population (2023 est.)<br>
+9.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--5.3 migrant(s)/1,000 population (2023 est.)<br>
+-5.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the population is located in the northern half of the country; the capital of Yerevan is home to more than five times as many people as Gyumri, the second largest city in the country<br>
@@ -136,9 +138,9 @@ _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.1 male(s)/female<br>
-_15-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.7 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2023 est.)<br>
+_15-64 years_: 0.99 male(s)/female<br>
+_65 years and over_: 0.71 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25.2 years (2019 est.)<br>
@@ -147,20 +149,20 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 27 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 13.4 deaths/1,000 live births<br>
-_female_: 10.2 deaths/1,000 live births<br>
+_total_: 11.6 deaths/1,000 live births (2024 est.)<br>
+_male_: 13.1 deaths/1,000 live births<br>
+_female_: 10 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.4 years (2023 est.)<br>
-_male_: 73.1 years<br>
-_female_: 79.9 years<br>
+_total population_: 76.7 years (2024 est.)<br>
+_male_: 73.4 years<br>
+_female_: 80.1 years<br>
 
 **Total fertility rate**<br>
-1.65 children born/woman (2023 est.)<br>
+1.65 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.8 (2023 est.)<br>
+0.8 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 57.1% (2015/16)<br>
@@ -696,11 +698,7 @@ the Armenian Armed Forces were officially established in 1992, although their or
 
 ## Space
 
-**Space agency/agencies**<br>
-no government agency; Armenia Space Agency (ArmCosmos; established 2013) is a private agency that operates on behalf of the Armenian Government to develop the country&rsquo;s commercial space industry and facilitate international engagement on space, particularly satellites for Armenia (2023)<br>
-
 **Space program overview**<br>
-seeks foreign providers for satellite communications, remote sensing (RS), and navigational services; otherwise relies on Russia for satellite needs; seeks to use RS satellite data for border control, emergency prevention and management, environmental protection/climate change monitoring, geology, road construction, urban planning, and other purposes; cooperates with a variety of foreign space agencies and industries, including those of China, the European Space Agency (and individual ESA member states such as Germany and Spain), India, Russia, and the US; has a state-owned company involved in satellite development and production (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

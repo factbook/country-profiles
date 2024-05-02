@@ -75,7 +75,9 @@ landlocked; The Sudd is a vast swamp in the north central region of South Sudan,
 ## People and Society
 
 **Population**<br>
-12,118,379 (2023 est.)<br>
+_total_: 12,703,714<br>
+_male_: 6,476,341<br>
+_female_: 6,227,373 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: South Sudanese (singular and plural)<br>
@@ -96,9 +98,9 @@ Christian 60.5%, folk religion 32.9%, Muslim 6.2%, other &lt;1%, unaffiliated &l
 <p>South Sudan, independent from Sudan since July 2011 after decades of civil war, is one of the world’s poorest countries and ranks among the lowest in many socioeconomic categories. Problems are exacerbated by ongoing tensions with Sudan over oil revenues and land borders, fighting between government forces and rebel groups, and inter-communal violence. Most of the population lives off of farming, while smaller numbers rely on animal husbandry; abput 80% of the populace lives in rural areas. The maternal mortality rate is among the world’s highest for a variety of reasons, including a shortage of health care workers, facilities, and supplies; poor roads and a lack of transport; and cultural beliefs that prevent women from seeking obstetric care. Most women marry and start having children early, giving birth at home with the assistance of traditional birth attendants, who are unable to handle complications.</p> <p>Educational attainment is extremely poor due to the lack of schools, qualified teachers, and materials. Only one-third of the population is literate (the rate is even lower among women), and half live below the poverty line. Teachers and students are also struggling with the switch from Arabic to English as the language of instruction. Many adults missed out on schooling because of warfare and displacement.</p> <p>More than 2 million South Sudanese have sought refuge in neighboring countries since the current conflict began in December 2013. Another 2.2 million South Sudanese are internally displaced as of October 2022. Despite South Sudan’s instability and lack of infrastructure and social services, more than 275,000 people had fled to South Sudan to escape fighting in Sudan as of December 2022.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 41.93% (male 2,591,637/female 2,490,026)<br>
-_15-64 years_: 55.48% (male 3,426,822/female 3,296,113)<br>
-_65 years and over_: 2.59% (2023 est.) (male 174,080/female 139,701)<br>
+_0-14 years_: 42.1% (male 2,725,520/female 2,619,035)<br>
+_15-64 years_: 55.3% (male 3,568,064/female 3,458,804)<br>
+_65 years and over_: 2.6% (2024 est.) (male 182,757/female 149,534)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 80.8<br>
@@ -107,21 +109,21 @@ _elderly dependency ratio_: 6.1<br>
 _potential support ratio_: 18.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18.7 years (2023 est.)<br>
+_total_: 18.7 years (2024 est.)<br>
 _male_: 18.7 years<br>
-_female_: 18.6 years<br>
+_female_: 18.7 years<br>
 
 **Population growth rate**<br>
-4.78% (2023 est.)<br>
+4.65% (2024 est.)<br>
 
 **Birth rate**<br>
-37.1 births/1,000 population (2023 est.)<br>
+36.4 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.2 deaths/1,000 population (2023 est.)<br>
+8.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-20 migrant(s)/1,000 population (2023 est.)<br>
+19.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 clusters found in urban areas, particularly in the western interior and around the White Nile as shown in this population distribution map<br>
@@ -136,28 +138,28 @@ _rate of urbanization_: 4.12% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-64 years_: 1.04 male(s)/female<br>
-_65 years and over_: 1.25 male(s)/female<br>
-_total population_: 1.05 male(s)/female (2023 est.)<br>
+_15-64 years_: 1.03 male(s)/female<br>
+_65 years and over_: 1.22 male(s)/female<br>
+_total population_: 1.04 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 1,223 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 61.6 deaths/1,000 live births (2023 est.)<br>
-_male_: 67.4 deaths/1,000 live births<br>
-_female_: 55.6 deaths/1,000 live births<br>
+_total_: 60.1 deaths/1,000 live births (2024 est.)<br>
+_male_: 65.8 deaths/1,000 live births<br>
+_female_: 54.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 59.7 years (2023 est.)<br>
-_male_: 57.9 years<br>
-_female_: 61.6 years<br>
+_total population_: 60.3 years (2024 est.)<br>
+_male_: 58.4 years<br>
+_female_: 62.2 years<br>
 
 **Total fertility rate**<br>
-5.2 children born/woman (2023 est.)<br>
+5.09 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-2.54 (2023 est.)<br>
+2.48 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -619,9 +621,6 @@ the SSPDF inventory is primarily of Soviet origin; South Sudan has been under a 
 **Military service age and obligation**<br>
 18 is the legal minimum age for compulsory (men) and voluntary (men and women) military service; 12-24 months service (2023)<br>
 <strong>note:</strong> in 2019, women made up less than 10% of the active military<br>
-
-**Military deployments**<br>
-in 2023, South Sudan sent approximately 750 troops to the Democratic Republic of the Congo as part of an East Africa Community military peacekeeping force<br>
 
 **Military - note**<br>
 the South Sudan People's Defense Forces (SSPDF) are largely focused on internal security; the Ground Force has approximately eight light infantry divisions plus a mechanized presidential guard division (aka the Tiger Division); the Air Force has small numbers of transport aircraft and combat helicopters <br><br>the SSPDF, formerly the Sudan People’s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br><br>the UN Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS had about 15,000 personnel deployed in the country as of 2023<br><br>the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of 2023, UNISFA had approximately 3,500 personnel assigned (2023)<br>

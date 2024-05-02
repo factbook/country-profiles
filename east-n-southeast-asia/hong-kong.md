@@ -72,7 +72,9 @@ consists of a mainland area (the New Territories) and more than 200 islands<br>
 ## People and Society
 
 **Population**<br>
-7,288,167 (2023 est.)<br>
+_total_: 7,297,821<br>
+_male_: 3,367,812<br>
+_female_: 3,930,009 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Chinese/Hong Konger<br>
@@ -90,9 +92,9 @@ Buddhist or Taoist 27.9%, Protestant 6.7%, Roman Catholic 5.3%, Muslim 4.2%, Hin
 <strong>note:</strong> many people practice Confucianism, regardless of their religion or not having a religious affiliation<br>
 
 **Age structure**<br>
-_0-14 years_: 13.04% (male 495,977/female 454,723)<br>
-_15-64 years_: 66.02% (male 2,164,667/female 2,646,774)<br>
-_65 years and over_: 20.94% (2023 est.) (male 706,761/female 819,265)<br>
+_0-14 years_: 13.2% (male 505,718/female 459,956)<br>
+_15-64 years_: 64.8% (male 2,123,216/female 2,609,102)<br>
+_65 years and over_: 21.9% (2024 est.) (male 738,878/female 860,951)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 46.6<br>
@@ -101,21 +103,21 @@ _elderly dependency ratio_: 28.7<br>
 _potential support ratio_: 3.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 46.8 years (2023 est.)<br>
-_male_: 45 years<br>
-_female_: 48.1 years<br>
+_total_: 47.2 years (2024 est.)<br>
+_male_: 45.3 years<br>
+_female_: 48.6 years<br>
 
 **Population growth rate**<br>
-0.15% (2023 est.)<br>
+0.12% (2024 est.)<br>
 
 **Birth rate**<br>
-7.9 births/1,000 population (2023 est.)<br>
+7.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8 deaths/1,000 population (2023 est.)<br>
+8.1 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-1.7 migrant(s)/1,000 population (2023 est.)<br>
+1.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population fairly evenly distributed<br>
@@ -129,29 +131,29 @@ _rate of urbanization_: 0.58% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.09 male(s)/female<br>
-_15-64 years_: 0.82 male(s)/female<br>
+_0-14 years_: 1.1 male(s)/female<br>
+_15-64 years_: 0.81 male(s)/female<br>
 _65 years and over_: 0.86 male(s)/female<br>
-_total population_: 0.86 male(s)/female (2023 est.)<br>
+_total population_: 0.86 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.8 years (2008 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.5 deaths/1,000 live births (2023 est.)<br>
+_total_: 2.5 deaths/1,000 live births (2024 est.)<br>
 _male_: 2.8 deaths/1,000 live births<br>
 _female_: 2.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.8 years (2023 est.)<br>
-_male_: 81.1 years<br>
-_female_: 86.6 years<br>
+_total population_: 84 years (2024 est.)<br>
+_male_: 81.3 years<br>
+_female_: 86.8 years<br>
 
 **Total fertility rate**<br>
-1.23 children born/woman (2023 est.)<br>
+1.24 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.6 (2023 est.)<br>
+0.6 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.7% (2017)<br>

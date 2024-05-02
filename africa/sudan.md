@@ -85,7 +85,9 @@ the Nile is Sudan's primary water source; its major tributaries, the White Nile 
 ## People and Society
 
 **Population**<br>
-49,197,555 (2023 est.)<br>
+_total_: 50,467,278<br>
+_male_: 25,335,092<br>
+_female_: 25,132,186 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Sudanese (singular and plural)<br>
@@ -105,9 +107,9 @@ Sunni Muslim, small Christian minority<br>
 <p>Sudan’s population grew almost fourfold between 1956 and 2008, the date of its last census.  Even after the southern part of the country became independent South Sudan in 2011, the population of Sudan has continued to grow.  The gender balance overall is fairly even.  Females, however, are more prevalent in rural areas because of males migrating to urban areas in search of work.  The total fertility rate (TFR) remains high despite falling from 7 children per woman in Sudan’s first census in 1955 to about 4.5 in 2022, which can be attributed to early marriage and a low contraceptive prevalence rate.  Among the factors that led to the reduction in fertility are family planning, improvement in women’s education and participation in the labor force outside the home, and migration and urbanization. </p> <p>The continued slow decline in fertility accompanied by a drop in mortality and increased life expectancy has produced an age structure where approximately 55% of the population was of working age (15-64) as of 2020.  This share will grow as the sizable youth population becomes working age.  As Sudan’s working age population increasingly outnumbers the youth and elderly populations (the dependent populations), the country will approach the possibility of a demographic dividend.  The window of opportunity for potential economic growth depends not only on a favorable age structure but also on having a trained and educated workforce, job creation (particularly in the formal market), and investment in health, as well as generating savings to invest in schooling and care for the elderly.  As of 2018, Sudan’s literacy rate was just over 60%, and even lower among women.  Improvements in school enrollment, student-teacher ratio, infrastructure, funding, and educational quality could help the country to realize a demographic dividend.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 40.47% (male 10,115,311/female 9,793,060)<br>
-_15-64 years_: 56.35% (male 13,774,002/female 13,946,621)<br>
-_65 years and over_: 3.19% (2023 est.) (male 814,480/female 754,081)<br>
+_0-14 years_: 40.1% (male 10,278,453/female 9,949,343)<br>
+_15-64 years_: 56.7% (male 14,211,514/female 14,390,486)<br>
+_65 years and over_: 3.2% (2024 est.) (male 845,125/female 792,357)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 76.9<br>
@@ -116,21 +118,21 @@ _elderly dependency ratio_: 6.2<br>
 _potential support ratio_: 16.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.1 years (2023 est.)<br>
-_male_: 18.8 years<br>
-_female_: 19.3 years<br>
+_total_: 19.3 years (2024 est.)<br>
+_male_: 19 years<br>
+_female_: 19.6 years<br>
 
 **Population growth rate**<br>
-2.55% (2023 est.)<br>
+2.55% (2024 est.)<br>
 
 **Birth rate**<br>
-33.3 births/1,000 population (2023 est.)<br>
+33.1 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.2 deaths/1,000 population (2023 est.)<br>
+6.1 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1.6 migrant(s)/1,000 population (2023 est.)<br>
+-1.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 with the exception of a ribbon of settlement that corresponds to the banks of the Nile, northern Sudan, which extends into the dry Sahara, is sparsely populated; more abundant vegetation and broader access to water increases population distribution in the south extending habitable range along nearly the entire border with South Sudan; sizeable areas of population are found around Khartoum, southeast between the Blue and White Nile Rivers, and throughout South Darfur as shown on this population distribution map<br>
@@ -146,27 +148,27 @@ _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 1.08 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2023 est.)<br>
+_65 years and over_: 1.07 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 270 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 41.4 deaths/1,000 live births (2023 est.)<br>
-_male_: 46.9 deaths/1,000 live births<br>
-_female_: 35.7 deaths/1,000 live births<br>
+_total_: 40.6 deaths/1,000 live births (2024 est.)<br>
+_male_: 46 deaths/1,000 live births<br>
+_female_: 34.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.5 years (2023 est.)<br>
-_male_: 65.2 years<br>
-_female_: 69.8 years<br>
+_total population_: 67.8 years (2024 est.)<br>
+_male_: 65.5 years<br>
+_female_: 70.2 years<br>
 
 **Total fertility rate**<br>
-4.54 children born/woman (2023 est.)<br>
+4.47 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-2.21 (2023 est.)<br>
+2.18 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 12.2% (2014)<br>

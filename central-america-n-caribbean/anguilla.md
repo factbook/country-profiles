@@ -73,7 +73,9 @@ the most northerly of the Leeward Islands in the Lesser Antilles<br>
 ## People and Society
 
 **Population**<br>
-19,079 (2023 est.)<br>
+_total_: 19,416<br>
+_male_: 9,107<br>
+_female_: 10,309 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Anguillan(s)<br>
@@ -90,9 +92,9 @@ English (official)<br>
 Protestant 73.2% (includes Anglican 22.7%, Methodist 19.4%, Pentecostal 10.5%, Seventh Day Adventist 8.3%, Baptist 7.1%, Church of God 4.9%, Presbyterian 0.2%, Brethren 0.1%), Roman Catholic 6.8%, Jehovah's Witness 1.1%, other Christian 10.9%, other 3.2%, unspecified 0.3%, none 4.5% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 21% (male 2,034/female 1,972)<br>
-_15-64 years_: 67.88% (male 5,896/female 7,055)<br>
-_65 years and over_: 11.12% (2023 est.) (male 1,037/female 1,085)<br>
+_0-14 years_: 20.8% (male 2,056/female 1,992)<br>
+_15-64 years_: 67.5% (male 5,958/female 7,147)<br>
+_65 years and over_: 11.7% (2024 est.) (male 1,093/female 1,170)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 38.6<br>
@@ -101,21 +103,21 @@ _elderly dependency ratio_: 14.1<br>
 _potential support ratio_: 7.1 (2021)<br>
 
 **Median age**<br>
-_total_: 36.8 years (2023 est.)<br>
-_male_: 34.6 years<br>
-_female_: 38.6 years<br>
+_total_: 37.1 years (2024 est.)<br>
+_male_: 34.8 years<br>
+_female_: 39 years<br>
 
 **Population growth rate**<br>
-1.77% (2023 est.)<br>
+1.74% (2024 est.)<br>
 
 **Birth rate**<br>
-11.9 births/1,000 population (2023 est.)<br>
+11.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-4.7 deaths/1,000 population (2023 est.)<br>
+4.7 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-10.5 migrant(s)/1,000 population (2023 est.)<br>
+10.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in The Valley in the center of the island; settlmement is fairly uniform in the southwest, but rather sparce in the northeast<br>
@@ -130,25 +132,25 @@ _rate of urbanization_: 0.47% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-64 years_: 0.84 male(s)/female<br>
-_65 years and over_: 0.96 male(s)/female<br>
-_total population_: 0.89 male(s)/female (2023 est.)<br>
+_15-64 years_: 0.83 male(s)/female<br>
+_65 years and over_: 0.93 male(s)/female<br>
+_total population_: 0.88 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3 deaths/1,000 live births (2023 est.)<br>
+_total_: 3 deaths/1,000 live births (2024 est.)<br>
 _male_: 3.9 deaths/1,000 live births<br>
 _female_: 2.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.4 years (2023 est.)<br>
-_male_: 79.8 years<br>
-_female_: 85.1 years<br>
+_total population_: 82.6 years (2024 est.)<br>
+_male_: 80 years<br>
+_female_: 85.3 years<br>
 
 **Total fertility rate**<br>
-1.72 children born/woman (2023 est.)<br>
+1.72 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.85 (2023 est.)<br>
+0.85 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

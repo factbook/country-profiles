@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-The Genoese built a fortress on the site of present-day Monaco in 1215. The current ruling GRIMALDI family first seized control in 1297 but was not able to permanently secure its holding until 1419. Economic development was spurred in the late 19th century with a railroad linkup to France and the opening of a casino. Since then, the principality's mild climate, coastal Mediterranean scenery, and gambling facilities have made Monaco world famous as a tourist and recreation center.<br>
+The Genoese built a fortress on the site of present-day Monaco in 1215. The current ruling GRIMALDI family first seized control in 1297 but was not able to permanently secure its holding until 1419. Economic development was spurred in the late 19th century with a railroad linkup to France and the opening of a casino. Since then, the principality's mild climate, coastal Mediterranean scenery, and gambling facilities have made Monaco world-famous as a tourist and recreation center.<br>
 
 ## Geography
 
@@ -73,8 +73,9 @@ second-smallest independent state in the world (after the Holy See); smallest co
 ## People and Society
 
 **Population**<br>
-31,597 (2023 est.)<br>
-<strong>note:</strong> immigrants make up almost 68% of the total population, according to UN data (2019)<br>
+_total_: 31,813<br>
+_male_: 15,366<br>
+_female_: 16,447 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Monegasque(s) or Monacan(s)<br>
@@ -92,9 +93,9 @@ _major-language sample(s)_: <br>The World Factbook, une source indispensable d'i
 Roman Catholic 90% (official), other 10%<br>
 
 **Age structure**<br>
-_0-14 years_: 9.4% (male 1,522/female 1,448)<br>
-_15-64 years_: 54.42% (male 8,638/female 8,558)<br>
-_65 years and over_: 36.18% (2023 est.) (male 5,114/female 6,317)<br>
+_0-14 years_: 9.1% (male 1,485/female 1,408)<br>
+_15-64 years_: 53.8% (male 8,620/female 8,490)<br>
+_65 years and over_: 37.1% (2024 est.) (male 5,261/female 6,549)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 95.2<br>
@@ -103,21 +104,21 @@ _elderly dependency ratio_: 70.2<br>
 _potential support ratio_: 1.4 (2021)<br>
 
 **Median age**<br>
-_total_: 56.2 years (2023 est.)<br>
-_male_: 54.5 years<br>
-_female_: 57.6 years<br>
+_total_: 56.9 years (2024 est.)<br>
+_male_: 55 years<br>
+_female_: 58.4 years<br>
 
 **Population growth rate**<br>
-0.66% (2023 est.)<br>
+0.71% (2024 est.)<br>
 
 **Birth rate**<br>
-6.6 births/1,000 population (2023 est.)<br>
+6.5 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-10.9 deaths/1,000 population (2023 est.)<br>
+11.1 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-10.9 migrant(s)/1,000 population (2023 est.)<br>
+11.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the second most densely populated country in the world (after Macau); its entire population living on 2 square km<br>
@@ -132,25 +133,25 @@ _rate of urbanization_: 0.5% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.81 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2023 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.8 male(s)/female<br>
+_total population_: 0.93 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 2.1 deaths/1,000 live births<br>
+_total_: 1.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 2 deaths/1,000 live births<br>
 _female_: 1.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 89.6 years (2023 est.)<br>
-_male_: 85.8 years<br>
-_female_: 93.6 years<br>
+_total population_: 89.8 years (2024 est.)<br>
+_male_: 86 years<br>
+_female_: 93.7 years<br>
 
 **Total fertility rate**<br>
-1.53 children born/woman (2023 est.)<br>
+1.54 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.75 (2023 est.)<br>
+0.76 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

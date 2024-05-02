@@ -81,7 +81,9 @@ nearly half of the population is concentrated in the interior in the Andean inte
 ## People and Society
 
 **Population**<br>
-17,483,326 (2023 est.)<br>
+_total_: 18,309,984<br>
+_male_: 9,023,170<br>
+_female_: 9,286,814 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Ecuadorian(s)<br>
@@ -102,9 +104,9 @@ Roman Catholic 68.2%, Protestant 19% (Evangelical 18.3%, Adventist 0.6%, other P
 <p>Ecuador’s high poverty and income inequality most affect indigenous, mixed race, and rural populations.  The government has increased its social spending to ameliorate these problems, but critics question the efficiency and implementation of its national development plan.  Nevertheless, the conditional cash transfer program, which requires participants’ children to attend school and have medical check-ups, has helped improve educational attainment and health care among poor children.  Ecuador’s total fertility rate – the average number of children born per woman – is just below replacement level as of 2023, but its population is continuing to grow.</p> <p>Ecuador continues to be both a country of emigration and immigration. The first large-scale emigration of largely undocumented Ecuadorians occurred between 1980 and 2000, when an economic crisis drove Ecuadorians from southern provinces to New York City, where they had connections from the earlier Panama hat trade. Emigration from all parts of Ecuador in the late 1990s was caused by another economic downturn, political instability, and a currency crisis. Spain was the logical destination because of its shared language and the wide availability of low-skilled, informal jobs at a time when increased border surveillance made illegal migration to the US difficult. Ecuador became Spain’s second largest immigrant source country. The bulk of Ecuadorian emigration, however, occurred between 2000 and 2007, largely to the US, Spain, and Italy.  Emigration has again surged since 2017, as economic problems, high unemployment, poverty, and violence have lead thousands of Ecuadorian migrants and refugees to head to the US.  As of 2021, Ecuadorians were the fourth-highest nationality coming into contact with US Customs and Border Protection at the US-Mexico border. Most Ecuadorian migrants and refugees traverse the dangerous Darien Gap between Colombia and Panama to reach Mexico. Although Mexico reinstated a visa requirement in September 2021, Ecuadorians continue to enter Mexico illegally and then travel to the US or Canada.  Some wind up staying in Mexico if their journeys north fail. Emigrants represent 8-10% of Ecuador’s population, as of 2021. </p> <p>Ecuador hosts one of the region’s largest refugee populations.  From 2000-2005, Colombians arrived in growing numbers to escape armed conflict, and they have continued to immigrate to Ecuador steadily.  Between 2008, when Ecuador lifted visa requirements for all countries, and 2016, immigrants entered from Haiti, Cuba, and other continents.  The influx of Venezuelans began in 2017, and, as of May 2022, Ecuador was home to the third-largest community of Venezuelan migrants and refugees in the world at over half a million.  Immigrants and refugees account for 3-5% of the Ecuador’s population, as of 2021.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 24.49% (male 2,183,293/female 2,098,856)<br>
-_15-64 years_: 66.44% (male 5,739,156/female 5,876,090)<br>
-_65 years and over_: 9.07% (2023 est.) (male 745,170/female 840,761)<br>
+_0-14 years_: 26.8% (male 2,505,729/female 2,395,198)<br>
+_15-64 years_: 64.1% (male 5,771,234/female 5,972,938)<br>
+_65 years and over_: 9.1% (2024 est.) (male 746,207/female 918,678)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.9<br>
@@ -113,21 +115,21 @@ _elderly dependency ratio_: 11.5<br>
 _potential support ratio_: 8.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 27.7 years (2023 est.)<br>
-_male_: 26.8 years<br>
-_female_: 28.7 years<br>
+_total_: 28 years (2024 est.)<br>
+_male_: 27 years<br>
+_female_: 28.9 years<br>
 
 **Population growth rate**<br>
-0.99% (2023 est.)<br>
+0.94% (2024 est.)<br>
 
 **Birth rate**<br>
-18 births/1,000 population (2023 est.)<br>
+17.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.1 deaths/1,000 population (2023 est.)<br>
+7.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1 migrant(s)/1,000 population (2023 est.)<br>
+-1.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 nearly half of the population is concentrated in the interior in the Andean intermontane basins and valleys, with large concentrations also found along the western coastal strip; the rainforests of the east remain sparsely populated<br>
@@ -141,29 +143,29 @@ _rate of urbanization_: 1.62% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.04 male(s)/female<br>
-_15-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.89 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2023 est.)<br>
+_0-14 years_: 1.05 male(s)/female<br>
+_15-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.81 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 66 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.2 deaths/1,000 live births (2023 est.)<br>
+_total_: 11.2 deaths/1,000 live births (2024 est.)<br>
 _male_: 12.2 deaths/1,000 live births<br>
 _female_: 10.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.9 years (2023 est.)<br>
+_total population_: 74.9 years (2024 est.)<br>
 _male_: 69.7 years<br>
 _female_: 80.4 years<br>
 
 **Total fertility rate**<br>
-2.24 children born/woman (2023 est.)<br>
+2.21 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.09 (2023 est.)<br>
+1.08 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 77.9% (2018/19)<br>
@@ -727,7 +729,7 @@ has a small program focused on acquiring or manufacturing satellites; builds sci
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 65,854 (Colombia) (refugees and asylum seekers) (2021); 502,214 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022)<br>
+_refugees (country of origin)_: 65,854 (Colombia) (refugees and asylum seekers) (2021); 474,945 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)<br>
 
 **Illicit drugs**<br>
 <p>Ecuador is a major transit country for cocaine destined for the United States and other international destinations; criminal groups traffic cocaine precursor chemicals for drug gangs; not a major drug producing country; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>

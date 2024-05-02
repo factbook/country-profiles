@@ -68,7 +68,7 @@ northernmost part of the Kingdom of Norway; consists of nine main islands; glaci
 ## People and Society
 
 **Population**<br>
-2,926 (January 2021 est.)<br>
+_total_: 2,926 (2021 est.)<br>
 
 **Ethnic groups**<br>
 Norwegian 61.1%, foreign population 38.9% (consists primarily of Russians, Thais, Swedes, Filipinos, and Ukrainians) (2021 est.)<br>
@@ -78,83 +78,14 @@ Norwegian 61.1%, foreign population 38.9% (consists primarily of Russians, Thais
 Norwegian, Russian<br>
 _major-language sample(s)_: <br>Verdens Faktabok, den essensielle kilden for grunnleggende informasjon. (Norwegian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
-**Age structure**<br>
-_0-14 years_: NA<br>
-_15-64 years_: NA<br>
-_65 years and over_: NA<br>
-
-**Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
-
 **Population growth rate**<br>
 -0.03% (2019 est.)<br>
-
-**Birth rate**<br>
-NA<br>
-
-**Death rate**<br>
-NA<br>
 
 **Net migration rate**<br>
 -5.57 migrant(s)/1,000 population (2021 est.)<br>
 
 **Population distribution**<br>
 the small population is primarily concentrated on the island of Spitsbergen in a handful of settlements on the south side of the Isfjorden, with Longyearbyen being the largest<br>
-
-**Sex ratio**<br>
-NA<br>
-
-**Infant mortality rate**<br>
-_total_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
-**Life expectancy at birth**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
-**Total fertility rate**<br>
-NA<br>
-
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA<br>
-
-**Current health expenditure**<br>
-NA<br>
-
-**Physicians density**<br>
-NA<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
-**Education expenditures**<br>
-NA<br>
-
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
 
 ## Environment
 
@@ -211,7 +142,7 @@ _election results_: seats by party - Liberal 7, Labor 3, Social Liberal 3, Conse
 _highest court(s)_: none; note - Svalbard is subordinate to Norway's Nord-Troms District Court and Halogaland Court of Appeal, both located in Tromso<br>
 
 **Political parties and leaders**<br>
-Conservative [Celine ANDERSSEN]<br>Green [Pal BERG]<br>Labor [Arild OLSEN]<br>Liberal [Terje AUVENIK]<br>Progress [Jorn DYBDAHL]<br>Social Liberals []<br>
+Conservative [Celine ANDERSSEN]<br>Green [Pal BERG]<br>Labor [Arild OLSEN]<br>Liberal [Terje AUVENIK]<br>Progress [Jorn DYBDAHL]<br>Social Liberals<br>
 
 **International organization participation**<br>
 none<br>

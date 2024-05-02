@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-Nauru was inhabited by Micronesian and Polynesian settlers by around 1000 B.C., and the island was divided into 12 clans. Nauru developed in relative isolation because ocean currents made landfall on the island difficult. As a result, the Nauruan language does not clearly resemble any other in the Pacific region. In 1798, British sea captain John FEARN became the first European to spot the island. By 1830, European whalers used Nauru as a supply stop, trading firearms for food. In 1878, a civil war erupted on the island, reducing the population by more than a third. Germany forcibly annexed Nauru in 1888 by holding the 12 chiefs under house arrest until they consented to the annexation. Germany banned alcohol, confiscated weapons, instituted strict dress codes, and brought in Christian missionaries to convert the population. Phosphate was discovered in 1900 and heavily mined, although Nauru and Nauruans earned about one tenth of one percent of the profits from the phosphate deposits.<br><br>Australian forces captured Nauru from Germany during World War I, and in 1919, it was placed under a joint Australian-British-New Zealand mandate with Australian administration. Japan occupied Nauru during World War II and used its residents as forced labor elsewhere in the Pacific while destroying much of the infrastructure on the island. After the war, Nauru became a UN trust territory under Australian administration. Recognizing the phosphate stocks would eventually be depleted, in 1962, Australian Prime Minister Robert MENZIES offered to resettle all Nauruans on Curtis Island in Queensland, but Nauruans rejected that plan and opted for independence, which was achieved in 1968. In 1970, Nauru purchased the phosphate mining assets, and income from the mines made Nauruans among the richest people in the world. However, Nauru subsequently began a series of unwise investments in buildings, musical theater, and an airline. Nauru sued Australia in 1989 for the damage caused by mining when Australia administered the island. Widespread phosphate mining officially ceased in 2006.<br><br>Nauru went nearly bankrupt by 2000 and tried to rebrand itself as an offshore banking haven, although it ended that practice in 2005. In 2001, Australia set up the Nauru Regional Processing Center (NRPC), an offshore refugee detention facility, paying Nauru per person at the center. The NRPC was closed in 2008 but reopened in 2012. The number of refugees has steadily declined since 2014, and the remaining people were moved to a hotel in Brisbane, Australia, in 2020, effectively shuttering the NRPC. However, in 2023, Australia agreed to continue funding NRPC for two years and restarted settling asylees in the center in mid-2023.  The center remains the Government of Nauru’s largest source of income.  In a bid for Russian humanitarian aid, in 2008, Nauru recognized the breakaway Georgian republics of Abkhazia and South Ossetia.<br>
+By 1000 B.C., Micronesian and Polynesian settlers inhabited Nauru, and the island was divided among 12 clans. Nauru developed in relative isolation because ocean currents made landfall on the island difficult. As a result, the Nauruan language does not clearly resemble any other in the Pacific region. In 1798, British sea captain John FEARN became the first European to spot the island. By 1830, European whalers used Nauru as a supply stop, trading firearms for food. In 1878, a civil war erupted on the island, reducing the population by more than a third. Germany forcibly annexed Nauru in 1888 by holding the 12 chiefs under house arrest until they consented to the annexation. Germany banned alcohol, confiscated weapons, instituted strict dress codes, and brought in Christian missionaries to convert the population. Phosphate was discovered in 1900 and was heavily mined, although Nauru and Nauruans earned about one tenth of one percent of the profits from the phosphate deposits.<br><br>Australian forces captured Nauru from Germany during World War I, and in 1919, it was placed under a joint Australian-British-New Zealand mandate with Australian administration. Japan occupied Nauru during World War II and used its residents as forced labor elsewhere in the Pacific while destroying much of the infrastructure on the island. After the war, Nauru became a UN trust territory under Australian administration. In 1962, recognizing the phosphate stocks would eventually be depleted, Australian Prime Minister Robert MENZIES offered to resettle all Nauruans on Curtis Island in Queensland, but Nauruans rejected that plan and opted for independence, which was achieved in 1968. In 1970, Nauru purchased the phosphate mining assets, and income from the mines made Nauruans among the richest people in the world. However, Nauru subsequently began a series of unwise investments in buildings, musical theater, and an airline, and the country went nearly bankrupt by 2000. Nauru sued Australia in 1989 for the damage caused by mining when Australia administered the island. Widespread phosphate mining officially ceased in 2006.<br><br>As its economy faltered, Nauru briefly tried to rebrand itself as an offshore banking haven, an initiative that ended in 2005, and the country made a successful bid for Russian humanitarian aid in 2008. In 2001, Australia set up the Nauru Regional Processing Center (NRPC), an offshore refugee detention facility, paying Nauru per person at the center. The NRPC closed in 2008 but reopened in 2012. The number of refugees steadily declined after 2014, and in 2020, the remaining people were moved to a hotel in Brisbane, Australia, effectively shuttering the NRPC. However, in 2023, Australia agreed to continue funding NRPC for two years and restarted settling asylees in the center in mid-2023. The center remains the Government of Nauru’s largest source of income.  <br>
 
 ## Geography
 
@@ -73,7 +73,9 @@ Nauru is the third-smallest country in the world behind the Holy See (Vatican Ci
 ## People and Society
 
 **Population**<br>
-9,852 (2023 est.)<br>
+_total_: 9,892<br>
+_male_: 4,856<br>
+_female_: 5,036 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Nauruan(s)<br>
@@ -90,9 +92,9 @@ Nauruan 93% (official, a distinct Pacific Island language), English 2% (widely u
 Protestant 60.4% (Nauruan Congregational 34.7%, Assemblies of God 11.6%, Pacific Light House 6.3%, Nauru Independent 3.6%, Baptist 1.5, Seventh Day Adventist 1.3%, other Protestant 1.4%), Roman Catholic 33.9%, other 4.2%, none 1.3%, no answer 0.3% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 30.13% (male 1,513/female 1,455)<br>
-_15-64 years_: 65.65% (male 3,183/female 3,285)<br>
-_65 years and over_: 4.22% (2023 est.) (male 141/female 275)<br>
+_0-14 years_: 29.6% (male 1,493/female 1,433)<br>
+_15-64 years_: 66% (male 3,220/female 3,309)<br>
+_65 years and over_: 4.4% (2024 est.) (male 143/female 294)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 69.9<br>
@@ -101,21 +103,21 @@ _elderly dependency ratio_: 3.9<br>
 _potential support ratio_: 25.8 (2021)<br>
 
 **Median age**<br>
-_total_: 27.5 years (2023 est.)<br>
-_male_: 26.9 years<br>
-_female_: 28.2 years<br>
+_total_: 27.8 years (2024 est.)<br>
+_male_: 27.3 years<br>
+_female_: 28.4 years<br>
 
 **Population growth rate**<br>
-0.42% (2023 est.)<br>
+0.39% (2024 est.)<br>
 
 **Birth rate**<br>
-20.7 births/1,000 population (2023 est.)<br>
+20.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.4 deaths/1,000 population (2023 est.)<br>
+6.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--10.2 migrant(s)/1,000 population (2023 est.)<br>
+-9.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 extensive phosphate mining made approximately 90% of the island unsuitable for farming; most people live in the fertile coastal areas, especially along the southwest coast<br>
@@ -128,24 +130,24 @@ _rate of urbanization_: 0.18% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.51 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.49 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.7 deaths/1,000 live births (2023 est.)<br>
-_male_: 9.9 deaths/1,000 live births<br>
-_female_: 5.4 deaths/1,000 live births<br>
+_total_: 7.6 deaths/1,000 live births (2024 est.)<br>
+_male_: 9.8 deaths/1,000 live births<br>
+_female_: 5.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.3 years (2023 est.)<br>
-_male_: 64.7 years<br>
-_female_: 72 years<br>
+_total population_: 68.6 years (2024 est.)<br>
+_male_: 65 years<br>
+_female_: 72.3 years<br>
 
 **Total fertility rate**<br>
-2.58 children born/woman (2023 est.)<br>
+2.55 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.27 (2023 est.)<br>
+1.25 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

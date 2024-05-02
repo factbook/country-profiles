@@ -88,7 +88,9 @@ periodic droughts; frequent earthquakes; flash floods; landslides; hot, driving 
 ## People and Society
 
 **Population**<br>
-109,546,720 (2023 est.)<br>
+_total_: 111,247,248<br>
+_male_: 57,142,484<br>
+_female_: 54,104,764 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Egyptian(s)<br>
@@ -109,9 +111,9 @@ Muslim (predominantly Sunni) 90%, Christian (majority Coptic Orthodox, other Chr
 <p>Egypt is the most populous country in the Arab world and the third-most-populous country in Africa, behind Nigeria and Ethiopia. Most of the country is desert, so about 95% of the population is concentrated in a narrow strip of fertile land along the Nile River, which represents only about 5% of Egypt’s land area. Egypt’s rapid population growth – 46% between 1994 and 2014 – stresses limited natural resources, jobs, housing, sanitation, education, and health care.</p> <p>Although the country’s total fertility rate (TFR) fell from roughly 5.5 children per woman in 1980 to just over 3 in the late 1990s, largely as a result of state-sponsored family planning programs, the population growth rate dropped more modestly because of decreased mortality rates and longer life expectancies. During the last decade, Egypt’s TFR decline stalled for several years and then reversed, reaching 3.6 in 2011, and is under 3 as of 2022. Contraceptive use has held steady at about 60%, while preferences for larger families and early marriage may have strengthened in the wake of the recent 2011 revolution. The large cohort of women of or nearing childbearing age will sustain high population growth for the foreseeable future (an effect called population momentum).</p> <p>Nevertheless, post-MUBARAK governments have not made curbing population growth a priority. To increase contraceptive use and to prevent further overpopulation will require greater government commitment and substantial social change, including encouraging smaller families and better educating and empowering women. Currently, literacy, educational attainment, and labor force participation rates are much lower for women than men. In addition, the prevalence of violence against women, the lack of female political representation, and the perpetuation of the nearly universal practice of female genital cutting continue to keep women from playing a more significant role in Egypt’s public sphere.</p> <p>Population pressure, poverty, high unemployment, and the fragmentation of inherited land holdings have historically motivated Egyptians, primarily young men, to migrate internally from rural and smaller urban areas in the Nile Delta region and the poorer rural south to Cairo, Alexandria, and other urban centers in the north, while a much smaller number migrated to the Red Sea and Sinai areas. Waves of forced internal migration also resulted from the 1967 Arab-Israeli War and the floods caused by the completion of the Aswan High Dam in 1970. Limited numbers of students and professionals emigrated temporarily prior to the early 1970s, when economic problems and high unemployment pushed the Egyptian Government to lift restrictions on labor migration. At the same time, high oil revenues enabled Saudi Arabia, Iraq, and other Gulf states, as well as Libya and Jordan, to fund development projects, creating a demand for unskilled labor (mainly in construction), which attracted tens of thousands of young Egyptian men.</p> <p>Between 1970 and 1974 alone, Egyptian migrants in the Gulf countries increased from approximately 70,000 to 370,000. Egyptian officials encouraged legal labor migration both to alleviate unemployment and to generate remittance income (remittances continue to be one of Egypt’s largest sources of foreign currency and GDP). During the mid-1980s, however, depressed oil prices resulting from the Iran-Iraq War, decreased demand for low-skilled labor, competition from less costly South Asian workers, and efforts to replace foreign workers with locals significantly reduced Egyptian migration to the Gulf States. The number of Egyptian migrants dropped from a peak of almost 3.3 million in 1983 to about 2.2 million at the start of the 1990s, but numbers gradually recovered.</p> <p>In the 2000s, Egypt began facilitating more labor migration through bilateral agreements, notably with Arab countries and Italy, but illegal migration to Europe through overstayed visas or maritime human smuggling via Libya also rose. The Egyptian Government estimated there were 6.5 million Egyptian migrants in 2009, with roughly 75% being temporary migrants in other Arab countries (Libya, Saudi Arabia, Jordan, Kuwait, and the United Arab Emirates) and 25% being predominantly permanent migrants in the West (US, UK, Italy, France, and Canada).</p> <p>During the 2000s, Egypt became an increasingly important transit and destination country for economic migrants and asylum seekers, including Palestinians, East Africans, and South Asians and, more recently, Iraqis and Syrians. Egypt draws many refugees because of its resettlement programs with the West; Cairo has one of the largest urban refugee populations in the world. Many East African migrants are interned or live in temporary encampments along the Egypt-Israel border, and some have been shot and killed by Egyptian border guards.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 34.37% (male 19,381,371/female 18,271,080)<br>
-_15-64 years_: 60.27% (male 33,921,778/female 32,102,087)<br>
-_65 years and over_: 5.36% (2023 est.) (male 2,976,765/female 2,893,639)<br>
+_0-14 years_: 33.8% (male 19,349,395/female 18,243,571)<br>
+_15-64 years_: 60.6% (male 34,646,369/female 32,792,151)<br>
+_65 years and over_: 5.6% (2024 est.) (male 3,146,720/female 3,069,042)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 60.8<br>
@@ -120,21 +122,21 @@ _elderly dependency ratio_: 7.7<br>
 _potential support ratio_: 13 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24.1 years (2023 est.)<br>
-_male_: 24.1 years<br>
-_female_: 24.1 years<br>
+_total_: 24.4 years (2024 est.)<br>
+_male_: 24.3 years<br>
+_female_: 24.4 years<br>
 
 **Population growth rate**<br>
-1.59% (2023 est.)<br>
+1.49% (2024 est.)<br>
 
 **Birth rate**<br>
-20.5 births/1,000 population (2023 est.)<br>
+19.5 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-4.3 deaths/1,000 population (2023 est.)<br>
+4.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.3 migrant(s)/1,000 population (2023 est.)<br>
+-0.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 approximately 95% of the population lives within 20 km of the Nile River and its delta; vast areas of the country remain sparsely populated or uninhabited as shown in this population distribution map<br>
@@ -151,7 +153,7 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.06 male(s)/female<br>
 _65 years and over_: 1.03 male(s)/female<br>
-_total population_: 1.06 male(s)/female (2023 est.)<br>
+_total population_: 1.06 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.6 years (2014 est.)<br>
@@ -161,20 +163,20 @@ _total population_: 1.06 male(s)/female (2023 est.)<br>
 17 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 17.3 deaths/1,000 live births (2023 est.)<br>
-_male_: 18.2 deaths/1,000 live births<br>
-_female_: 16.3 deaths/1,000 live births<br>
+_total_: 16.8 deaths/1,000 live births (2024 est.)<br>
+_male_: 17.8 deaths/1,000 live births<br>
+_female_: 15.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.7 years (2023 est.)<br>
-_male_: 73.5 years<br>
-_female_: 76 years<br>
+_total population_: 75 years (2024 est.)<br>
+_male_: 73.8 years<br>
+_female_: 76.2 years<br>
 
 **Total fertility rate**<br>
-2.76 children born/woman (2023 est.)<br>
+2.65 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.34 (2023 est.)<br>
+1.28 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 58.5% (2014)<br>

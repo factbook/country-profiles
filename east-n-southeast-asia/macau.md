@@ -5,7 +5,7 @@ _East & Southeast Asia / Dependencies (China)_
 ## Introduction
 
 **Background**<br>
-Colonized by the Portuguese in the 16th century, Macau was the first European settlement in the Far East. Pursuant to an agreement signed by China and Portugal on 13 April 1987, Macau became the Macau Special Administrative Region of the People's Republic of China on 20 December 1999. In this agreement, China promised that, under its "one country, two systems" formula, China's political and economic system would not be imposed on Macau, and that Macau would enjoy a "high degree of autonomy" in all matters except foreign affairs and defense for the subsequent 50 years. However, following a multi-year crackdown by China against a pro-democracy movement in nearby Hong Kong, the governments of China and the Macau Special Administrative Region similarly worked to limit Macau's political autonomy by suppressing opposition activity in the 2021 legislative elections.<br>
+Colonized by the Portuguese in the 16th century, Macau was the first European settlement in the Far East. Pursuant to an agreement signed by China and Portugal in 1987, Macau became the Macau Special Administrative Region of the People's Republic of China in 1999. In this agreement, China promised that, under its "one country, two systems" formula, China's political and economic system would not be imposed on Macau, and that Macau would enjoy a "high degree of autonomy" in all matters except foreign affairs and defense for the next 50 years. However, after China's multi-year crackdown against the pro-democracy movement in nearby Hong Kong, the governments of China and the Macau Special Administrative Region worked to limit Macau's political autonomy by suppressing opposition activity in the 2021 legislative elections.<br>
 
 ## Geography
 
@@ -68,7 +68,9 @@ essentially urban; an area of land reclaimed from the sea measuring 5.2 sq km an
 ## People and Society
 
 **Population**<br>
-639,971 (2023 est.)<br>
+_total_: 644,426<br>
+_male_: 304,988<br>
+_female_: 339,438 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Chinese<br>
@@ -78,16 +80,16 @@ _adjective_: Chinese<br>
 Chinese 89.4%, Chinese and Portuguese 1%, Portuguese 0.8%, Chinese and non-Portuguese 0.2%, Portuguese and others 0.2%, other 8.5% (2021 est.)<br>
 
 **Languages**<br>
-Cantonese 81%, Mandarin 4.7%, other Chinese dialects 5.4%, English 3.6%, Tagalog 2.9%, Portuguese 0.6%, other 1.8%; note - Chinese and Portuguese are official languages; Macanese, a Portuguese-based Creole, is also spoken (2021 est.)<br>
+Cantonese 81%, Mandarin 4.7%, other Chinese dialects 5.4%, English 3.6%, Tagalog 2.9%, Portuguese 0.6%, other 1.8%; note - Chinese and Portuguese are official languages; Macanese or Patua, a Portuguese-based Creole, is also spoken (2021 est.)<br>
 _major-language sample(s)_: <br> <p>世界概况, 必須擁有的基本資料参考书 (Cantonese)</p> <br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 folk religion 58.9%, Buddhist 17.3%, Christian 7.2%, other 1.2%, none 15.4% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 14.42% (male 47,202/female 45,056)<br>
-_15-64 years_: 70.73% (male 211,278/female 241,366)<br>
-_65 years and over_: 14.86% (2023 est.) (male 44,657/female 50,412)<br>
+_0-14 years_: 14.4% (male 47,346/female 45,216)<br>
+_15-64 years_: 69.9% (male 210,059/female 240,577)<br>
+_65 years and over_: 15.7% (2024 est.) (male 47,583/female 53,645)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 36.9<br>
@@ -96,21 +98,21 @@ _elderly dependency ratio_: 16.9<br>
 _potential support ratio_: 5.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42 years (2023 est.)<br>
-_male_: 41.2 years<br>
-_female_: 42.5 years<br>
+_total_: 42.5 years (2024 est.)<br>
+_male_: 41.5 years<br>
+_female_: 43.1 years<br>
 
 **Population growth rate**<br>
-0.71% (2023 est.)<br>
+0.67% (2024 est.)<br>
 
 **Birth rate**<br>
-8.8 births/1,000 population (2023 est.)<br>
+8.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-4.8 deaths/1,000 population (2023 est.)<br>
+4.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-3.1 migrant(s)/1,000 population (2023 est.)<br>
+3.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population fairly equally distributed<br>
@@ -125,25 +127,25 @@ _rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-64 years_: 0.88 male(s)/female<br>
+_15-64 years_: 0.87 male(s)/female<br>
 _65 years and over_: 0.89 male(s)/female<br>
-_total population_: 0.9 male(s)/female (2023 est.)<br>
+_total population_: 0.9 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.5 deaths/1,000 live births (2023 est.)<br>
-_male_: 4.6 deaths/1,000 live births<br>
-_female_: 4.4 deaths/1,000 live births<br>
+_total_: 4.4 deaths/1,000 live births (2024 est.)<br>
+_male_: 4.5 deaths/1,000 live births<br>
+_female_: 4.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 85.2 years (2023 est.)<br>
-_male_: 82.3 years<br>
-_female_: 88.2 years<br>
+_total population_: 85.3 years (2024 est.)<br>
+_male_: 82.5 years<br>
+_female_: 88.3 years<br>
 
 **Total fertility rate**<br>
-1.23 children born/woman (2023 est.)<br>
+1.24 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.6 (2023 est.)<br>
+0.6 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

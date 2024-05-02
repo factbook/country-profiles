@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>A large portion of present-day Moldovan territory became a province of the Russian Empire in 1812 and then unified with Romania in 1918 in the aftermath of World War I. This territory was then incorporated into the Soviet Union at the close of World War II. Although Moldova has been independent from the Soviet Union since 1991, Russian forces have remained on Moldovan territory east of the Nistru River in the breakaway region of Transnistria.</p> <p>Years of Communist Party rule in Moldova from 2001-09 ultimately ended with election-related violent protests and a rerun of parliamentary elections in 2009. A series of pro-Europe ruling coalitions governed Moldova from 2010-19, but pro-Russia Igor DODON won the presidency in 2016 and his Socialist Party of the Republic of Moldova won a plurality in the legislative election in 2019. Pro-EU reformist candidate Maia SANDU defeated DODON in his reelection bid in November 2020 and the Party of Action and Solidarity, which SANDU founded in 2015, won a parliamentary majority in an early legislative election in July 2021. Prime Minister Natalia GAVRILITA and her cabinet took office in August 2021. In February 2023, Moldova's parliament confirmed a new cabinet led by Prime Minister Dorin RECEAN, which retained the majority of the former ministers.</p> <p> </p><br>
+<p>A large portion of present-day Moldovan territory became a province of the Russian Empire in 1812 and then unified with Romania in 1918 in the aftermath of World War I. This territory was then incorporated into the Soviet Union at the close of World War II. Although Moldova has been independent from the Soviet Union since 1991, Russian forces have remained on Moldovan territory east of the Nistru River in the breakaway region of Transnistria.</p> <p>Years of Communist Party rule in Moldova from 2001 to 2009 ultimately ended with election-related violent protests and a rerun of parliamentary elections in 2009. A series of pro-Europe ruling coalitions governed Moldova from 2010 to 2019, but pro-Russia candidate Igor DODON won the presidency in 2016, and his Socialist Party of the Republic of Moldova won a plurality in the legislative election in 2019. Pro-EU reformist candidate Maia SANDU defeated DODON in his reelection bid in 2020, and SANDU's Party of Action and Solidarity won a parliamentary majority in an early legislative election in 2021. Prime Minister Natalia GAVRILITA and her cabinet took office in 2021. In early 2023, Moldova's parliament confirmed a new cabinet led by Prime Minister Dorin RECEAN, which retained the majority of the former ministers.</p> <p> </p><br>
 
 ## Geography
 
@@ -79,7 +79,9 @@ landlocked; well endowed with various sedimentary rocks and minerals including s
 ## People and Society
 
 **Population**<br>
-3,250,532 (2023 est.)<br>
+_total_: 3,599,528<br>
+_male_: 1,698,249<br>
+_female_: 1,901,279 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Moldovan(s)<br>
@@ -96,9 +98,9 @@ _major-language sample(s)_: <br>Cartea informativa a lumii, sursa indispensabila
 Orthodox 90.1%, other Christian 2.6%, other 0.1%, agnostic &lt;0.1%, atheist 0.2%, unspecified 6.9% (2014 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 18.01% (male 301,432/female 284,034)<br>
-_15-64 years_: 66.37% (male 1,087,397/female 1,069,902)<br>
-_65 years and over_: 15.62% (2023 est.) (male 203,889/female 303,878)<br>
+_0-14 years_: 14.8% (male 266,493/female 266,166)<br>
+_15-64 years_: 70.2% (male 1,225,535/female 1,300,640)<br>
+_65 years and over_: 15% (2024 est.) (male 206,221/female 334,473)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 39.6<br>
@@ -107,21 +109,21 @@ _elderly dependency ratio_: 20.4<br>
 _potential support ratio_: 4.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 39.4 years (2023 est.)<br>
-_male_: 38.1 years<br>
-_female_: 40.8 years<br>
+_total_: 39.9 years (2024 est.)<br>
+_male_: 38.6 years<br>
+_female_: 41.3 years<br>
 
 **Population growth rate**<br>
--0.58% (2023 est.)<br>
+-0.58% (2024 est.)<br>
 
 **Birth rate**<br>
-8.6 births/1,000 population (2023 est.)<br>
+8.4 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-14.4 deaths/1,000 population (2023 est.)<br>
+14.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2023 est.)<br>
+0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 pockets of agglomeration exist throughout the country, the largest being in the center of the country around the capital of Chisinau, followed by Tiraspol and Balti<br>
@@ -135,10 +137,10 @@ _rate of urbanization_: 0.09% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-64 years_: 1.02 male(s)/female<br>
-_65 years and over_: 0.67 male(s)/female<br>
-_total population_: 0.89 male(s)/female (2023 est.)<br>
+_0-14 years_: 1 male(s)/female<br>
+_15-64 years_: 0.94 male(s)/female<br>
+_65 years and over_: 0.62 male(s)/female<br>
+_total population_: 0.89 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25.2 years (2019 est.)<br>
@@ -147,20 +149,20 @@ _total population_: 0.89 male(s)/female (2023 est.)<br>
 12 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 16.3 deaths/1,000 live births<br>
-_female_: 11.8 deaths/1,000 live births<br>
+_total_: 13.8 deaths/1,000 live births (2024 est.)<br>
+_male_: 16 deaths/1,000 live births<br>
+_female_: 11.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.7 years (2023 est.)<br>
-_male_: 65.8 years<br>
-_female_: 73.9 years<br>
+_total population_: 70.1 years (2024 est.)<br>
+_male_: 66.1 years<br>
+_female_: 74.4 years<br>
 
 **Total fertility rate**<br>
-1.25 children born/woman (2023 est.)<br>
+1.26 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.6 (2023 est.)<br>
+0.61 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 56% (2020)<br>

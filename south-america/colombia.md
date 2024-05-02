@@ -85,7 +85,9 @@ only South American country with coastlines on both the North Pacific Ocean and 
 ## People and Society
 
 **Population**<br>
-49,336,454 (2023 est.)<br>
+_total_: 49,588,357<br>
+_male_: 24,206,371<br>
+_female_: 25,381,986 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Colombian(s)<br>
@@ -105,9 +107,9 @@ Roman Catholic 63.6%, Protestant 17.2% (Evangelical 16.7%, Adventist 0.3%, other
 <p>Colombia is in the midst of a demographic transition resulting from steady declines in its fertility, mortality, and population growth rates. The birth rate has fallen from more than 6 children per woman in the 1960s to just below replacement level today as a result of increased literacy, family planning services, and urbanization. However, income inequality is among the worst in the world, and almost one-third of the population lives below the poverty line.</p> <p>Colombia experiences significant legal and illegal economic emigration and refugee outflows. Large-scale labor emigration dates to the 1960s; the United States and, until recently, Venezuela have been the main host countries.  Emigration to Spain picked up in the 1990s because of its economic growth, but this flow has since diminished because of Spain’s ailing economy and high unemployment. Venezuela’s political and economic crisis since 2015 has prompted many Colombians to return home. </p> <p>Forced displacement continues to be prevalent because of violence among guerrillas, paramilitary groups, and Colombian security forces. Afro-Colombian and indigenous populations are disproportionately affected.  Even with the Colombian Government’s December 2016 peace agreement with the Revolutionary Armed Forces of Colombia (FARC), the risk of displacement remains as other rebel groups fill the void left by the FARC.  As of April 2023, almost 6.9 million people were internally displaced in Colombia. This estimate may undercount actual numbers because many internally displaced persons are not registered. Historically, Colombia also has one of the world’s highest levels of forced disappearances. The Colombian Truth Commission estimated than nearly 122,000 people were the victims of forced disappearances during the countries five-decade-long armed conflict—including human rights activists, trade unionists, Afro-Colombians, indigenous people, and farmers in rural conflict zones.</p> <p>Because of political violence and economic problems, Colombia received limited numbers of immigrants during the 19th and 20th centuries, mostly from the Middle East, Europe, and Japan.  More recently, growth in the oil, mining, and manufacturing sectors has attracted increased labor migration; the primary source countries are Venezuela, the US, Mexico, and Argentina.  Colombia has also become a transit area for illegal migrants from Africa, Asia, and the Caribbean – especially Haiti and Cuba – who are en route to the US or Canada.  Between 2016 and October 2022, Colombia was host to the largest number of Venezuelan refugees and migrants, totaling almost 2.9 million. Ecuadorian migrants also go to Colombia, many of them attempting to transit the dense and dangerous jungles of the Darien Gap to enter Panama and head onward to the US.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 22.45% (male 5,663,590/female 5,413,209)<br>
-_15-64 years_: 66.66% (male 16,066,724/female 16,820,068)<br>
-_65 years and over_: 10.89% (2023 est.) (male 2,367,369/female 3,005,494)<br>
+_0-14 years_: 22.3% (male 5,643,995/female 5,394,147)<br>
+_15-64 years_: 66.5% (male 16,127,377/female 16,859,161)<br>
+_65 years and over_: 11.2% (2024 est.) (male 2,434,999/female 3,128,678)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.5<br>
@@ -116,21 +118,21 @@ _elderly dependency ratio_: 12.5<br>
 _potential support ratio_: 8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 32.4 years (2023 est.)<br>
-_male_: 31.2 years<br>
-_female_: 33.6 years<br>
+_total_: 32.7 years (2024 est.)<br>
+_male_: 31.5 years<br>
+_female_: 34 years<br>
 
 **Population growth rate**<br>
-0.54% (2023 est.)<br>
+0.48% (2024 est.)<br>
 
 **Birth rate**<br>
-15.1 births/1,000 population (2023 est.)<br>
+14.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.8 deaths/1,000 population (2023 est.)<br>
+8 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1.9 migrant(s)/1,000 population (2023 est.)<br>
+-2.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the majority of people live in the north and west where agricultural opportunities and natural resources are found; the vast grasslands of the llanos to the south and east, which make up approximately 60% of the country, are sparsely populated<br>
@@ -146,8 +148,8 @@ _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.79 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.7 years (2015 est.)<br>
@@ -157,20 +159,20 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 75 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.7 deaths/1,000 live births (2023 est.)<br>
+_total_: 11.7 deaths/1,000 live births (2024 est.)<br>
 _male_: 13.1 deaths/1,000 live births<br>
 _female_: 10.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.9 years (2023 est.)<br>
+_total population_: 74.9 years (2024 est.)<br>
 _male_: 71.3 years<br>
 _female_: 78.7 years<br>
 
 **Total fertility rate**<br>
-1.94 children born/woman (2023 est.)<br>
+1.94 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.95 (2023 est.)<br>
+0.95 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 81% (2015/16)<br>
@@ -750,7 +752,7 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia - People'
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,477,588 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2023)<br>
+_refugees (country of origin)_: 2,875,743 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2023)<br>
 _IDPs_: 6,863,334 (conflict between government and illegal armed groups and drug traffickers since 1985) (2023)<br>
 _stateless persons_: 11 (2022)<br>
 

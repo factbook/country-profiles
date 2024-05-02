@@ -83,7 +83,9 @@ sometimes referred to as the hinge of Africa because of its central location on 
 ## People and Society
 
 **Population**<br>
-30,135,732 (2023 est.)<br>
+_total_: 30,966,105<br>
+_male_: 15,429,588<br>
+_female_: 15,536,517 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Cameroonian(s)<br>
@@ -103,9 +105,9 @@ Roman Catholic 33.1%, Muslim 30.6%, Protestant 27.1% other Christian 6.1%, animi
 <p>Cameroon has a large youth population, with more than 60% of the populace under the age of 25 as of 2020. Fertility is falling but remains at a high level, especially among poor, rural, and uneducated women, in part because of inadequate access to contraception. Life expectancy remains low at about 55 years due to the prevalence of HIV and AIDs and an elevated maternal mortality rate, which has remained high since 1990. Cameroon, particularly the northern region, is vulnerable to food insecurity largely because of government mismanagement, corruption, high production costs, inadequate infrastructure, and natural disasters. Despite economic growth in some regions, poverty is on the rise, and is most prevalent in rural areas, which are especially affected by a shortage of jobs, declining incomes, poor school and health care infrastructure, and a lack of clean water and sanitation. Underinvestment in social safety nets and ineffective public financial management also contribute to Cameroon’s high rate of poverty.  The activities of Boko Haram, other armed groups, and counterinsurgency operations have worsened food insecurity in the Far North region.  </p> <p>International migration has been driven by unemployment (including fewer government jobs), poverty, the search for educational opportunities, and corruption. The US and Europe are preferred destinations, but, with tighter immigration restrictions in these countries, young Cameroonians are increasingly turning to neighboring states, such as Gabon and Nigeria, South Africa, other parts of Africa, and the Near and Far East. Cameroon’s limited resources make it dependent on UN support to host more than 480,000 refugees and asylum seekers as of December 2022. These refugees and asylum seekers are primarily from the Central African Republic and Nigeria.  Internal and external displacement have grown dramatically in recent years.  Boko Haram's attacks and counterattacks by government forces in the Far North since 2014 have increased the number of internally displaced people.  Armed conflict between separatists and Cameroon's military in the Northwest and Southwest since 2016 have displaced hundreds of thousands of the country's Anglophone minority.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 41.69% (male 6,337,141/female 6,226,100)<br>
-_15-64 years_: 55.12% (male 8,231,473/female 8,379,699)<br>
-_65 years and over_: 3.19% (2023 est.) (male 447,656/female 513,663)<br>
+_0-14 years_: 41.5% (male 6,477,438/female 6,364,987)<br>
+_15-64 years_: 55.3% (male 8,488,522/female 8,638,519)<br>
+_65 years and over_: 3.2% (2024 est.) (male 463,628/female 533,011)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 82.3<br>
@@ -114,21 +116,21 @@ _elderly dependency ratio_: 4.9<br>
 _potential support ratio_: 20.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18.8 years (2023 est.)<br>
-_male_: 18.5 years<br>
-_female_: 19.1 years<br>
+_total_: 18.9 years (2024 est.)<br>
+_male_: 18.6 years<br>
+_female_: 19.2 years<br>
 
 **Population growth rate**<br>
-2.73% (2023 est.)<br>
+2.71% (2024 est.)<br>
 
 **Birth rate**<br>
-35.1 births/1,000 population (2023 est.)<br>
+34.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.5 deaths/1,000 population (2023 est.)<br>
+7.4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.3 migrant(s)/1,000 population (2023 est.)<br>
+-0.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the west and north, with the interior of the country sparsely populated as shown in this population distribution map<br>
@@ -145,7 +147,7 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-64 years_: 0.98 male(s)/female<br>
 _65 years and over_: 0.87 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.1 years (2018 est.)<br>
@@ -155,20 +157,20 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 438 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 47.4 deaths/1,000 live births (2023 est.)<br>
-_male_: 52.2 deaths/1,000 live births<br>
-_female_: 42.5 deaths/1,000 live births<br>
+_total_: 46.1 deaths/1,000 live births (2024 est.)<br>
+_male_: 50.8 deaths/1,000 live births<br>
+_female_: 41.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.7 years (2023 est.)<br>
-_male_: 61.9 years<br>
-_female_: 65.6 years<br>
+_total population_: 64.2 years (2024 est.)<br>
+_male_: 62.3 years<br>
+_female_: 66.1 years<br>
 
 **Total fertility rate**<br>
-4.5 children born/woman (2023 est.)<br>
+4.44 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-2.22 (2023 est.)<br>
+2.19 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 19.3% (2018)<br>
@@ -364,7 +366,7 @@ _election results_: <em>2018:</em> Paul BIYA reelected president; percent of vot
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br>National Assembly or Assemblee Nationale (180 seats; members directly elected in 49 single and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: Senate - last held on 12 March 2023 (next to be held in 2028)<br>National Assembly - last held on 9 February 2020 (next to be held 28 February 2025)<br>
-_election results_: Senate - percent of vote by party - CDPM 100%; seats by party - CDPM 100; composition as of October 2023 - men 69, women 31, percentage women 31%<br><br>National Assembly - percent of vote by party - NA; seats by party - CPDM 152, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, UMS 2; composition as of October 2023 - men 119, women 61, percentage women 33.9%; total Parliament percentage women 51.1%<br><br><strong>note:</strong> 13 National Assembly seats were vacant after the 9 February 2020 election due to violence in northwest and southwest regions; CDPM won those seats in a 22 March 2020 election<br>
+_election results_: Senate - percent of vote by party - CDPM 100%; seats by party - CDPM 100; composition - men 69, women 31, percentage women 31%<br><br>National Assembly - percent of vote by party - NA; seats by party - CPDM 152, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, UMS 2; composition - men 119, women 61, percentage women 33.9%; total Parliament percentage women 51.1%<br><br><strong>note:</strong> 13 National Assembly seats were vacant after the 9 February 2020 election due to violence in northwest and southwest regions; CDPM won those seats in a 22 March 2020 election<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Cameroon (consists of 9 titular and 6 surrogate judges and organized into judicial, administrative, and audit chambers); Constitutional Council (consists of 11 members)<br>

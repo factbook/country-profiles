@@ -82,7 +82,9 @@ almost an enclave of Senegal; smallest country on the African mainland<br>
 ## People and Society
 
 **Population**<br>
-2,468,569 (2023 est.)<br>
+_total_: 2,523,327<br>
+_male_: 1,250,490<br>
+_female_: 1,272,837 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Gambian(s)<br>
@@ -101,9 +103,9 @@ Muslim 96.4%, Christian 3.5%, other or none 0.1% (2019-20 est.)<br>
 <p>The Gambia’s youthful age structure – approximately 55% of the population is under the age of 25 as of 2021 – is likely to persist because the country’s total fertility rate remains strong at nearly 4 children per woman. The overall literacy rate is around 50%, and is significantly lower for women than for men. At least 70% of the populace are farmers who are reliant on rain-fed agriculture and cannot afford improved seeds and fertilizers. Crop failures caused by droughts between 2011 and 2013 increased poverty, food shortages, and malnutrition.</p> <p>The Gambia is a source country for migrants and a transit and destination country for migrants and refugees. Since the 1980s, economic deterioration, drought, and high unemployment, especially among youths, have driven both domestic migration (largely urban) and migration abroad (legal and illegal). Emigrants are largely skilled workers, including doctors and nurses, and provide a significant amount of remittances. The top receiving countries for Gambian emigrants are Spain, the US, Nigeria, Senegal, and the UK. While the Gambia and Spain do not share historic, cultural, or trade ties, rural Gambians have migrated to Spain in large numbers because of its proximity and the availability of jobs in its underground economy (this flow slowed following the onset of Spain’s late 2007 economic crisis).</p> <p>The Gambia’s role as a host country to refugees is a result of wars in several of its neighboring West African countries. Since 2006, refugees from the Casamance conflict in Senegal have replaced their pattern of flight and return with permanent settlement in The Gambia, often moving in with relatives along the Senegal-Gambia border. The strain of providing for about 7,400 Casamance refugees increased poverty among Gambian villagers. The number of refugees decreased to around 3,500 by 2022.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 38.86% (male 484,113/female 475,134)<br>
-_15-64 years_: 57.57% (male 700,049/female 721,057)<br>
-_65 years and over_: 3.57% (2023 est.) (male 38,954/female 49,262)<br>
+_0-14 years_: 38.2% (male 486,472/female 477,309)<br>
+_15-64 years_: 58.1% (male 723,360/female 743,127)<br>
+_65 years and over_: 3.7% (2024 est.) (male 40,658/female 52,401)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 85<br>
@@ -112,21 +114,21 @@ _elderly dependency ratio_: 4.5<br>
 _potential support ratio_: 22.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.9 years (2023 est.)<br>
-_male_: 19.5 years<br>
-_female_: 20.3 years<br>
+_total_: 20.2 years (2024 est.)<br>
+_male_: 19.8 years<br>
+_female_: 20.6 years<br>
 
 **Population growth rate**<br>
-2.23% (2023 est.)<br>
+2.16% (2024 est.)<br>
 
 **Birth rate**<br>
-28 births/1,000 population (2023 est.)<br>
+27.3 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.7 deaths/1,000 population (2023 est.)<br>
+5.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2023 est.)<br>
+0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 settlements are found scattered along the Gambia River; the largest communities, including the capital of Banjul, and the country's largest city, Serekunda, are found at the mouth of the Gambia River along the Atlantic coast as shown in this population distribution map<br>
@@ -143,8 +145,8 @@ _rate of urbanization_: 3.75% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.79 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.7 years (2019/20 est.)<br>
@@ -154,20 +156,20 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 458 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 36.4 deaths/1,000 live births (2023 est.)<br>
-_male_: 39.9 deaths/1,000 live births<br>
-_female_: 32.9 deaths/1,000 live births<br>
+_total_: 35.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 39.1 deaths/1,000 live births<br>
+_female_: 32.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68 years (2023 est.)<br>
-_male_: 66.3 years<br>
-_female_: 69.8 years<br>
+_total population_: 68.4 years (2024 est.)<br>
+_male_: 66.7 years<br>
+_female_: 70.1 years<br>
 
 **Total fertility rate**<br>
-3.66 children born/woman (2023 est.)<br>
+3.52 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.8 (2023 est.)<br>
+1.74 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 18.9% (2019/20)<br>
@@ -346,7 +348,7 @@ _election results_: <em><br>2021: </em>Adama BARROW reelected president; percent
 **Legislative branch**<br>
 _description_: unicameral National Assembly (58 seats; 53 members directly elected in single-seat constituencies by simple majority vote and 5 appointed by the president; members serve 5-year terms)<br>
 _elections_: last held on 9 April 2022 (next to be held in 2027)<br>
-_election results_: percent of vote by party - NPP 33.9%, UDP 28.3%, independent 22.6%, NRP 7.5%, PDOIS 3.7%, APRL 3.7%; seats by party - NPP 18, UDP 15, independent 12, NRP 4, APRL 2, PDOIS 2; composition as of February 2024 - men 53, women 5, percentage women 8.6%<br>
+_election results_: percent of vote by party - NPP 33.9%, UDP 28.3%, independent 22.6%, NRP 7.5%, PDOIS 3.7%, APRL 3.7%; seats by party - NPP 18, UDP 15, independent 12, NRP 4, APRL 2, PDOIS 2; composition - men 53, women 5, percentage women 8.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of The Gambia (consists of the chief justice and 6 justices; court sessions held with 5 justices)<br>

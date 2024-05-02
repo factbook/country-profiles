@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Although known to Arab and European sailors since at least the early 1500s, the island of Mauritius was uninhabited until 1638 when the Dutch established a settlement named in honor of Prince Maurits van NASSAU. Their presence led to the rapid disappearance of the flightless dodo bird that has since become one of the most well-known examples of extinction in modern times. The Dutch abandoned their financially distressed settlement in 1710, although a number of formerly enslaved people remained. In 1722, the French established what would become a highly profitable settlement focused on sugar cane plantations that were reliant on the labor of enslaved people brought to Mauritius from other parts of Africa. In the 1790s, the island had a brief period of autonomous rule when plantation owners rejected French control because of laws ending slavery that were temporarily in effect during the French Revolution. Britain captured the Island in 1810 as part of the Napoleonic Wars but kept most of the French administrative structure, which remains to this day in the form of the country’s legal codes and widespread use of the French Creole language. The abolition of slavery in 1835 - later than most other British colonies - led to increased reliance on contracted laborers from the Indian subcontinent to work on plantations. Today their descendants form the majority of the population. Mauritius remained a strategically important British naval base, and later an air station, playing a role during World War II for anti-submarine and convoy operations, as well as for the collection of signals intelligence.</p> <p>Mauritius gained independence from the UK in 1968 as a Parliamentary Republic and has remained a stable democracy with regular free elections and a positive human rights record. The country also attracted considerable foreign investment and now has one of Africa's highest per capita incomes. Mauritius’ often fractious coalition politics has been dominated by two prominent families each of which has had father-son pairs who have been prime minister over multiple, often nonconsecutive, terms. Seewoosagur RAMGOOLAM (1968-76) was Mauritius’ first prime minister and he was succeeded by Anerood JUGNAUTH (1982-95, 2000-03, 2014-17); his son Navin RAMGOOLAM (1995-2000, 2005-14); and Paul Raymond BERENGER (2003-05), the only non-Hindu prime minister of post-independence Mauritius. In 2017, Pravind JUGNAUTH became prime minister after his father stepped down short of completing his term, and he was elected in his own right in 2019. Mauritius claims the French island of Tromelin and the British Chagos Archipelago (British Indian Ocean Territory). Since 2017, Mauritius has secured favorable UN General Assembly resolutions and an International Court of Justice advisory opinion relating to its sovereignty dispute with the UK.</p><br>
+<p>Although known to Arab and European sailors since at least the early 1500s, the island of Mauritius was uninhabited until 1638 when the Dutch established a settlement named in honor of Prince Maurits van NASSAU. Their presence led to the rapid disappearance of the flightless dodo bird that has since become one of the most well-known examples of extinction in modern times. The Dutch abandoned their financially distressed settlement in 1710, although a number of formerly enslaved people remained. In 1722, the French established what would become a highly profitable settlement focused on sugar cane plantations that were reliant on the labor of enslaved people brought to Mauritius from other parts of Africa. In the 1790s, the island had a brief period of autonomous rule when plantation owners rejected French control because of laws ending slavery that were temporarily in effect during the French Revolution. Britain captured the island in 1810 as part of the Napoleonic Wars but kept most of the French administrative structure, which remains to this day in the form of the country’s legal codes and widespread use of the French Creole language. The abolition of slavery in 1835 -- later than most other British colonies -- led to increased reliance on contracted laborers from the Indian subcontinent to work on plantations. Today their descendants form the majority of the population. Mauritius remained a strategically important British naval base and later an air station, and it played a role during World War II in anti-submarine and convoy operations, as well as in the collection of signals intelligence.</p> <p>Mauritius gained independence from the UK in 1968 as a Parliamentary Republic and has remained a stable democracy with regular free elections and a positive human rights record. The country also attracted considerable foreign investment and now has one of Africa's highest per capita incomes. Mauritius’ often-fractious coalition politics has been dominated by two prominent families, each of which has had father-son pairs who have been prime minister over multiple, often nonconsecutive, terms. Seewoosagur RAMGOOLAM (1968-76) was Mauritius’ first prime minister, and he was succeeded by Anerood JUGNAUTH (1982-95, 2000-03, 2014-17); his son Navin RAMGOOLAM (1995-2000, 2005-14); and Paul Raymond BERENGER (2003-05), the only non-Hindu prime minister of post-independence Mauritius. In 2017, Pravind JUGNAUTH became prime minister after his father stepped down short of completing his term, and he was elected in his own right in 2019. <br><br>Mauritius claims the French island of Tromelin and the British Chagos Archipelago (British Indian Ocean Territory). Since 2017, Mauritius has secured favorable UN General Assembly resolutions and an International Court of Justice advisory opinion relating to its sovereignty dispute with the UK.</p><br>
 
 ## Geography
 
@@ -75,7 +75,9 @@ the main island, from which the country derives its name, is of volcanic origin 
 ## People and Society
 
 **Population**<br>
-1,309,448 (2023 est.)<br>
+_total_: 1,310,504<br>
+_male_: 639,270<br>
+_female_: 671,234 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Mauritian(s)<br>
@@ -95,9 +97,9 @@ Hindu 48.5%, Roman Catholic 26.3%, Muslim 17.3%, other Christian 6.4%, other 0.6
 <p>Mauritius has transitioned from a country of high fertility and high mortality rates in the 1950s and mid-1960s to one with among the lowest population growth rates in the developing world today. After World War II, Mauritius’ population began to expand quickly due to increased fertility and a dramatic drop in mortality rates as a result of improved health care and the eradication of malaria. This period of heightened population growth – reaching about 3% a year – was followed by one of the world’s most rapid birth rate declines.</p> <p>The total fertility rate fell from 6.2 children per women in 1963 to 3.2 in 1972 – largely the result of improved educational attainment, especially among young women, accompanied by later marriage and the adoption of family planning methods. The family planning programs’ success was due to support from the government and eventually the traditionally pronatalist religious communities, which both recognized that controlling population growth was necessary because of Mauritius’ small size and limited resources. Mauritius’ fertility rate has consistently been below replacement level since the late 1990s, a rate that is substantially lower than nearby countries in southern Africa.</p> <p>With no indigenous population, Mauritius’ ethnic mix is a product of more than two centuries of European colonialism and continued international labor migration. Sugar production relied on slave labor mainly from Madagascar, Mozambique, and East Africa from the early 18th century until its abolition in 1835, when slaves were replaced with indentured Indians. Most of the influx of indentured labor – peaking between the late 1830s and early 1860s – settled permanently creating massive population growth of more than 7% a year and reshaping the island’s social and cultural composition. While Indians represented about 12% of Mauritius’ population in 1837, they and their descendants accounted for roughly two-thirds by the end of the 19th century. Most were Hindus, but the majority of the free Indian traders were Muslims.</p> <p>Mauritius again turned to overseas labor when its success in clothing and textile exports led to a labor shortage in the mid-1980s. Clothing manufacturers brought in contract workers (increasingly women) from China, India, and, to a lesser extent Bangladesh and Madagascar, who worked longer hours for lower wages under poor conditions and were viewed as more productive than locals. Downturns in the sugar and textile industries in the mid-2000s and a lack of highly qualified domestic workers for Mauritius’ growing services sector led to the emigration of low-skilled workers and a reliance on skilled foreign labor. Since 2007, Mauritius has pursued a circular migration program to enable citizens to acquire new skills and savings abroad and then return home to start businesses and to invest in the country’s development.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 15.3% (male 102,335/female 97,955)<br>
-_15-64 years_: 71.35% (male 464,380/female 469,877)<br>
-_65 years and over_: 13.36% (2023 est.) (male 72,026/female 102,875)<br>
+_0-14 years_: 15.1% (male 100,973/female 96,711)<br>
+_15-64 years_: 71% (male 462,833/female 467,509)<br>
+_65 years and over_: 13.9% (2024 est.) (male 75,464/female 107,014)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 40.7<br>
@@ -106,21 +108,21 @@ _elderly dependency ratio_: 17.3<br>
 _potential support ratio_: 5.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 39.3 years (2023 est.)<br>
-_male_: 37.8 years<br>
-_female_: 40.6 years<br>
+_total_: 39.6 years (2024 est.)<br>
+_male_: 38.1 years<br>
+_female_: 41 years<br>
 
 **Population growth rate**<br>
-0.09% (2023 est.)<br>
+0.07% (2024 est.)<br>
 
 **Birth rate**<br>
-9.8 births/1,000 population (2023 est.)<br>
+9.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9 deaths/1,000 population (2023 est.)<br>
+9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2023 est.)<br>
+0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population density is one of the highest in the world; urban clusters are found throughout the main island, with a greater density in and around Port Luis; population on Rodrigues Island is spread across the island with a slightly denser cluster on the north coast as shown in this population distribution map<br>
@@ -136,27 +138,27 @@ _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 0.7 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.71 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 84 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 13.4 deaths/1,000 live births<br>
-_female_: 10.2 deaths/1,000 live births<br>
+_total_: 11.6 deaths/1,000 live births (2024 est.)<br>
+_male_: 13.1 deaths/1,000 live births<br>
+_female_: 10 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.1 years (2023 est.)<br>
-_male_: 72.3 years<br>
-_female_: 78.1 years<br>
+_total population_: 75.4 years (2024 est.)<br>
+_male_: 72.6 years<br>
+_female_: 78.4 years<br>
 
 **Total fertility rate**<br>
-1.35 children born/woman (2023 est.)<br>
+1.36 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.65 (2023 est.)<br>
+0.66 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 63.8% (2014)<br>

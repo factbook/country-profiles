@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Several eastern Baltic tribes merged in medieval times to form the ethnic core of the Latvian people (ca. 8th-12th centuries A.D.). The region subsequently came under the control of Germans, Poles, Swedes, and finally, Russians. A Latvian republic emerged following World War I, but it was annexed by the USSR in 1940 - an action never recognized by the US and many other countries. Latvia reestablished its independence in 1991 following the breakup of the Soviet Union. Although the last Russian troops left in 1994, the status of the Russian minority (some 25% of the population) remains of concern to Moscow. Latvia acceded to both NATO and the EU in the spring of 2004; it joined the euro zone in 2014 and the OECD in 2016. A dual citizenship law was adopted in 2013, easing naturalization for non-citizen children.<br>
+Several eastern Baltic tribes merged in medieval times to form the ethnic core of the Latvian people (ca. 8th-12th centuries A.D.). The region subsequently came under the control of Germans, Poles, Swedes, and finally Russians. A Latvian republic emerged following World War I, but the USSR annexed it in 1940 -- an action never recognized by the US and many other countries. Latvia reestablished its independence in 1991 after the breakup of the Soviet Union. Although the last Russian troops left in 1994, the status of the Russian minority (some 25% of the population) remains of concern to Moscow. Latvia joined both NATO and the EU in 2004; it joined the euro zone in 2014 and the OECD in 2016.<br>
 
 ## Geography
 
@@ -76,7 +76,9 @@ most of the country is composed of fertile low-lying plains with some hills in t
 ## People and Society
 
 **Population**<br>
-1,821,750 (2023 est.)<br>
+_total_: 1,801,246<br>
+_male_: 836,982<br>
+_female_: 964,264 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Latvian(s)<br>
@@ -93,9 +95,9 @@ _major-language sample(s)_: <br>World Factbook, neaizstājams avots pamata infor
 Lutheran 36.2%, Roman Catholic 19.5%, Orthodox 19.1%, other Christian 1.6%, other 0.1%, unspecified/none 23.5% (2017 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 14.92% (male 139,877/female 131,839)<br>
-_15-64 years_: 63.37% (male 570,902/female 583,578)<br>
-_65 years and over_: 21.71% (2023 est.) (male 134,809/female 260,745)<br>
+_0-14 years_: 14.7% (male 136,482/female 128,492)<br>
+_15-64 years_: 63% (male 562,754/female 572,850)<br>
+_65 years and over_: 22.2% (2024 est.) (male 137,746/female 262,922)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 59.3<br>
@@ -104,21 +106,21 @@ _elderly dependency ratio_: 34.4<br>
 _potential support ratio_: 2.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 45.2 years (2023 est.)<br>
-_male_: 41.3 years<br>
-_female_: 48.9 years<br>
+_total_: 45.5 years (2024 est.)<br>
+_male_: 41.6 years<br>
+_female_: 49.2 years<br>
 
 **Population growth rate**<br>
--1.13% (2023 est.)<br>
+-1.14% (2024 est.)<br>
 
 **Birth rate**<br>
-8.5 births/1,000 population (2023 est.)<br>
+8.3 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-14.7 deaths/1,000 population (2023 est.)<br>
+14.7 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--5.1 migrant(s)/1,000 population (2023 est.)<br>
+-4.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 largest concentration of people is found in and around the port and capital city of Riga; small agglomerations are scattered throughout the country<br>
@@ -135,7 +137,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 0.98 male(s)/female<br>
 _65 years and over_: 0.52 male(s)/female<br>
-_total population_: 0.87 male(s)/female (2023 est.)<br>
+_total population_: 0.87 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.3 years (2020 est.)<br>
@@ -144,20 +146,20 @@ _total population_: 0.87 male(s)/female (2023 est.)<br>
 18 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 5.2 deaths/1,000 live births<br>
+_total_: 4.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 5.1 deaths/1,000 live births<br>
 _female_: 4.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.2 years (2023 est.)<br>
-_male_: 71.8 years<br>
-_female_: 80.8 years<br>
+_total population_: 76.4 years (2024 est.)<br>
+_male_: 72 years<br>
+_female_: 81 years<br>
 
 **Total fertility rate**<br>
-1.55 children born/woman (2023 est.)<br>
+1.55 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.76 (2023 est.)<br>
+0.76 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

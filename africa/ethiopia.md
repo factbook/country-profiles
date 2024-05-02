@@ -87,7 +87,9 @@ highest density is found in the highlands of the north and middle areas of the c
 ## People and Society
 
 **Population**<br>
-116,462,712 (2023 est.)<br>
+_total_: 118,550,298<br>
+_male_: 59,062,093<br>
+_female_: 59,488,205 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Ethiopian(s)<br>
@@ -107,9 +109,9 @@ Ethiopian Orthodox 43.8%, Muslim 31.3%, Protestant 22.8%, Catholic 0.7%, traditi
 <p>Ethiopia is a predominantly agricultural country – nearly 80% of the population lives in rural areas – that is in the early stages of demographic transition. Infant, child, and maternal mortality have fallen sharply over the past decade, but the total fertility rate has declined more slowly and the population continues to grow. The rising age of marriage and the increasing proportion of women remaining single have contributed to fertility reduction. While the use of modern contraceptive methods among married women has increased significantly from 6 percent in 2000 to 27 percent in 2012, the overall rate is still quite low.</p> <p>Ethiopia’s rapid population growth is putting increasing pressure on land resources, expanding environmental degradation, and raising vulnerability to food shortages. With about 40 percent of the population below the age of 15 and a fertility rate of 4 children per woman (and even higher in rural areas), Ethiopia will have to make further progress in meeting its family planning needs if it is to achieve the age structure necessary for reaping a demographic dividend in the coming decades.</p> <p>Poverty, drought, political repression, and forced government resettlement have driven Ethiopia’s internal and external migration since the 1960s. Before the 1974 revolution, only small numbers of the Ethiopian elite went abroad to study and then returned home, but under the brutal Derg regime thousands fled the country, primarily as refugees. Between 1982 and 1991 there was a new wave of migration to the West for family reunification. Since the defeat of the Derg in 1991, Ethiopians have migrated to escape violence among some of the country’s myriad ethnic groups or to pursue economic opportunities. Internal and international trafficking of women and children for domestic work and prostitution is a growing problem.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 38.91% (male 22,821,026/female 22,498,331)<br>
-_15-64 years_: 57.55% (male 33,345,764/female 33,672,933)<br>
-_65 years and over_: 3.54% (2023 est.) (male 1,887,831/female 2,236,827)<br>
+_0-14 years_: 38.7% (male 23,092,496/female 22,765,882)<br>
+_15-64 years_: 58% (male 34,175,328/female 34,536,238)<br>
+_65 years and over_: 3.4% (2024 est.) (male 1,794,269/female 2,186,085)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 75.7<br>
@@ -118,21 +120,21 @@ _elderly dependency ratio_: 5.5<br>
 _potential support ratio_: 18.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20.2 years (2023 est.)<br>
-_male_: 20 years<br>
-_female_: 20.5 years<br>
+_total_: 20.4 years (2024 est.)<br>
+_male_: 20.2 years<br>
+_female_: 20.7 years<br>
 
 **Population growth rate**<br>
-2.4% (2023 est.)<br>
+2.37% (2024 est.)<br>
 
 **Birth rate**<br>
-30.1 births/1,000 population (2023 est.)<br>
+29.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6 deaths/1,000 population (2023 est.)<br>
+5.8 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.1 migrant(s)/1,000 population (2023 est.)<br>
+-0.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 highest density is found in the highlands of the north and middle areas of the country, particularly around the centrally located capital city of Addis Ababa; the far east and southeast are sparsely populated as shown in this population distribution map<br>
@@ -148,8 +150,8 @@ _rate of urbanization_: 4.4% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 0.84 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.82 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.3 years (2019 est.)<br>
@@ -159,20 +161,20 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 267 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 33.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 38.8 deaths/1,000 live births<br>
-_female_: 28.8 deaths/1,000 live births<br>
+_total_: 32.6 deaths/1,000 live births (2024 est.)<br>
+_male_: 37.4 deaths/1,000 live births<br>
+_female_: 27.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.1 years (2023 est.)<br>
-_male_: 64.9 years<br>
-_female_: 69.4 years<br>
+_total population_: 67.7 years (2024 est.)<br>
+_male_: 65.4 years<br>
+_female_: 70 years<br>
 
 **Total fertility rate**<br>
-3.92 children born/woman (2023 est.)<br>
+3.84 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.93 (2023 est.)<br>
+1.89 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 37.7% (2020)<br>
@@ -381,7 +383,6 @@ _subordinate courts_: federal high courts and federal courts of first instance; 
 
 **Political parties and leaders**<br>
 House of People's Representatives:<br>Ethiopian Citizens for Social Justice and Democracy or EZEMA [BERHANU Nega]   <br>Gedeo People's Democratic Party<br>Independent [n/a]<br>Kucha People Democratic Party <br>National Movement of Amhara or NAMA [BELETE Molla]<br>Prosperity Party or PP [ABIY Ahmed Ali]<br>
-<strong>note:</strong> Ethiopia has over fifty national-level and regional-level political parties. The ruling party, the Prosperity Party, was created by Prime Minister ABIY in November 2019 from member parties of the former Ethiopian People’s Revolutionary Democratic Front (EPRDF), which included the Amhara Democratic Party (ADP), Oromo Democratic Party (ODP), Southern Ethiopian People's Democratic Movement (SEPDM), plus other EPRDF-allied parties such as the Afar National Democratic Party (ANDP), Benishangul Gumuz People’s Democratic Party (BGPDP), Gambella People’s Democratic Movement (GPDM), Somali People’s Democratic Party (SPDP), and the Harari National League (HNL). Once the Prosperity Party was created, the various ethnically-based parties that comprised or were affiliated with the EPRDF were subsequently disbanded; in January 2021, the Ethiopian electoral board de-registered the Tigray People’s Liberation Front or TPLF; national level parties are qualified to register candidates in multiple regions across Ethiopia; regional parties can register candidates for both national and regional parliaments, but only in one region of Ethiopia<br>
 
 **International organization participation**<br>
 ACP, AfDB, ATMIS, AU, BRICS, COMESA, EITI, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (accession candidate)<br>

@@ -82,7 +82,9 @@ strategic location at the head of the Gulf of Aqaba and as the Arab country that
 ## People and Society
 
 **Population**<br>
-11,086,716 (2023 est.)<br>
+_total_: 11,174,024<br>
+_male_: 5,844,979<br>
+_female_: 5,329,045 (2024 est.)<br>
 <strong>note:</strong> increased estimate reflects revised assumptions about the net migration rate due to the increased flow of Syrian refugees<br>
 
 **Nationality**<br>
@@ -101,9 +103,9 @@ _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر 
 Muslim 97.1% (official; predominantly Sunni), Christian 2.1% (majority Greek Orthodox, but some Greek and Roman Catholics, Syrian Orthodox, Coptic Orthodox, Armenian Orthodox, and Protestant denominations), Buddhist 0.4%, Hindu 0.1%, Jewish &lt;0.1%, folk &lt;0.1%, other &lt;0.1%, unaffiliated &lt;0.1% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 31.42% (male 1,788,882/female 1,694,417)<br>
-_15-64 years_: 64.53% (male 3,802,074/female 3,352,680)<br>
-_65 years and over_: 4.05% (2023 est.) (male 218,218/female 230,445)<br>
+_0-14 years_: 30.9% (male 1,771,840/female 1,678,178)<br>
+_15-64 years_: 64.9% (male 3,844,575/female 3,409,164)<br>
+_65 years and over_: 4.2% (2024 est.) (male 228,564/female 241,703)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.1<br>
@@ -112,21 +114,21 @@ _elderly dependency ratio_: 5.8<br>
 _potential support ratio_: 17.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24.6 years (2023 est.)<br>
-_male_: 25.1 years<br>
-_female_: 24.1 years<br>
+_total_: 25 years (2024 est.)<br>
+_male_: 25.5 years<br>
+_female_: 24.4 years<br>
 
 **Population growth rate**<br>
-0.79% (2023 est.)<br>
+0.78% (2024 est.)<br>
 
 **Birth rate**<br>
-22.4 births/1,000 population (2023 est.)<br>
+22.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-3.5 deaths/1,000 population (2023 est.)<br>
+3.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--11 migrant(s)/1,000 population (2023 est.)<br>
+-10.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population heavily concentrated in the west, and particularly the northwest, in and around the capital of Amman; a sizeable, but smaller population is located in the southwest along the shore of the Gulf of Aqaba<br>
@@ -143,7 +145,7 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.13 male(s)/female<br>
 _65 years and over_: 0.95 male(s)/female<br>
-_total population_: 1.1 male(s)/female (2023 est.)<br>
+_total population_: 1.1 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 24.6 years (2017/18 est.)<br>
@@ -153,20 +155,20 @@ _total population_: 1.1 male(s)/female (2023 est.)<br>
 41 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 13.6 deaths/1,000 live births (2023 est.)<br>
-_male_: 14.7 deaths/1,000 live births<br>
-_female_: 12.4 deaths/1,000 live births<br>
+_total_: 13.2 deaths/1,000 live births (2024 est.)<br>
+_male_: 14.3 deaths/1,000 live births<br>
+_female_: 12.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.3 years (2023 est.)<br>
-_male_: 74.8 years<br>
-_female_: 77.8 years<br>
+_total population_: 76.5 years (2024 est.)<br>
+_male_: 75 years<br>
+_female_: 78.1 years<br>
 
 **Total fertility rate**<br>
-2.91 children born/woman (2023 est.)<br>
+2.87 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.41 (2023 est.)<br>
+1.39 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 51.8% (2017/18)<br>

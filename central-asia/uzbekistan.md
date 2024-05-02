@@ -81,7 +81,9 @@ along with Liechtenstein, one of the only two doubly landlocked countries in the
 ## People and Society
 
 **Population**<br>
-31,360,836 (2023 est.)<br>
+_total_: 36,520,593<br>
+_male_: 18,324,813<br>
+_female_: 18,195,780 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Uzbekistani<br>
@@ -99,9 +101,9 @@ _major-language sample(s)_: <br>Jahon faktlari kitobi, asosiy ma'lumotlar uchun 
 Muslim 88% (mostly Sunni), Eastern Orthodox 9%, other 3%<br>
 
 **Age structure**<br>
-_0-14 years_: 22.48% (male 3,612,997/female 3,437,866)<br>
-_15-64 years_: 70.64% (male 11,055,763/female 11,097,841)<br>
-_65 years and over_: 6.88% (2023 est.) (male 933,134/female 1,223,235)<br>
+_0-14 years_: 29.6% (male 5,597,947/female 5,213,403)<br>
+_15-64 years_: 63.7% (male 11,649,017/female 11,617,411)<br>
+_65 years and over_: 6.7% (2024 est.) (male 1,077,849/female 1,364,966)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54<br>
@@ -110,21 +112,21 @@ _elderly dependency ratio_: 7.2<br>
 _potential support ratio_: 13 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 28.7 years (2023 est.)<br>
-_male_: 27.9 years<br>
-_female_: 29.5 years<br>
+_total_: 28.9 years (2024 est.)<br>
+_male_: 28.1 years<br>
+_female_: 29.8 years<br>
 
 **Population growth rate**<br>
-1.61% (2023 est.)<br>
+1.43% (2024 est.)<br>
 
 **Birth rate**<br>
-22.2 births/1,000 population (2023 est.)<br>
+20.5 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.2 deaths/1,000 population (2023 est.)<br>
+5.1 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.9 migrant(s)/1,000 population (2023 est.)<br>
+-1.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in the fertile Fergana Valley in the easternmost arm of the country; the south has significant clusters of people, while the central and western deserts are sparsely populated<br>
@@ -138,10 +140,10 @@ _rate of urbanization_: 1.25% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.08 male(s)/female<br>
-_0-14 years_: 1.05 male(s)/female<br>
+_0-14 years_: 1.07 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.76 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.79 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23.7 years (2019 est.)<br>
@@ -150,20 +152,20 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 30 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 21.9 deaths/1,000 live births<br>
-_female_: 15.7 deaths/1,000 live births<br>
+_total_: 18.2 deaths/1,000 live births (2024 est.)<br>
+_male_: 21.1 deaths/1,000 live births<br>
+_female_: 15.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.8 years (2023 est.)<br>
-_male_: 73.2 years<br>
-_female_: 78.6 years<br>
+_total population_: 76.2 years (2024 est.)<br>
+_male_: 73.6 years<br>
+_female_: 79 years<br>
 
 **Total fertility rate**<br>
-2.92 children born/woman (2023 est.)<br>
+2.76 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.41 (2023 est.)<br>
+1.33 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

@@ -79,8 +79,9 @@ landlocked; controls one of the major land routes from Western Europe to Turkey 
 ## People and Society
 
 **Population**<br>
-6,693,375 (2023 est.)<br>
-<strong>note:</strong> does not include the population of Kosovo<br>
+_total_: 6,652,212<br>
+_male_: 3,242,751<br>
+_female_: 3,409,461 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Serb(s)<br>
@@ -99,9 +100,9 @@ Orthodox 84.6%, Catholic 5%, Muslim 3.1%, Protestant 1%, atheist 1.1%, other 0.8
 <strong>note:</strong> most ethnic Albanians boycotted the 2011 census<br>
 
 **Age structure**<br>
-_0-14 years_: 14.45% (male 498,534/female 468,853)<br>
-_15-64 years_: 65.81% (male 2,216,701/female 2,188,267)<br>
-_65 years and over_: 19.74% (2023 est.) (male 547,344/female 773,676)<br>
+_0-14 years_: 14.4% (male 492,963/female 463,995)<br>
+_15-64 years_: 65.6% (male 2,198,591/female 2,168,113)<br>
+_65 years and over_: 20% (2024 est.) (male 551,197/female 777,353)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.8<br>
@@ -111,21 +112,21 @@ _potential support ratio_: 3.1 (2021 est.)<br>
 <strong>note:</strong> data include Kosovo<br>
 
 **Median age**<br>
-_total_: 43.7 years (2023 est.)<br>
-_male_: 42.2 years<br>
-_female_: 45.2 years<br>
+_total_: 43.9 years (2024 est.)<br>
+_male_: 42.4 years<br>
+_female_: 45.4 years<br>
 
 **Population growth rate**<br>
--0.63% (2023 est.)<br>
+-0.61% (2024 est.)<br>
 
 **Birth rate**<br>
-8.9 births/1,000 population (2023 est.)<br>
+8.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-15.1 deaths/1,000 population (2023 est.)<br>
+14.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2023 est.)<br>
+0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -143,7 +144,7 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.01 male(s)/female<br>
 _65 years and over_: 0.71 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.2 years (2020 est.)<br>
@@ -153,20 +154,20 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 10 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.6 deaths/1,000 live births (2023 est.)<br>
+_total_: 4.5 deaths/1,000 live births (2024 est.)<br>
 _male_: 5.1 deaths/1,000 live births<br>
 _female_: 3.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.1 years (2023 est.)<br>
-_male_: 72.5 years<br>
-_female_: 77.9 years<br>
+_total population_: 75.3 years (2024 est.)<br>
+_male_: 72.7 years<br>
+_female_: 78.1 years<br>
 
 **Total fertility rate**<br>
-1.46 children born/woman (2023 est.)<br>
+1.46 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.71 (2023 est.)<br>
+0.71 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 62.3% (2019)<br>
@@ -366,7 +367,6 @@ _subordinate courts_: basic courts, higher courts, appellate courts; courts of s
 
 **Political parties and leaders**<br>
 Alliance of Vojvodina Hungarians or SVM or VMSZ [Shepherd BALINT, acting]<br>Democratic Alliance of Croats in Vojvodina or DSHV [Tomislav ZIGMANOV]<br>Democratic Party or DS [Zoran LUTOVAC]<br>Ecological Uprising or EU [Aleksandar JOVANOVIC]<br>Green - Left Front or ZLF [Radomir LAZOVIC, Biljana DORDEVIC]<br>Greens of Serbia or ZS [Ivan KARIC]<br>Justice and Reconciliation Party or SPP [Usame ZUKORLIC] (formerly Bosniak Democratic Union of Sandzak or BDZS)<br>Movement for Reversal or PZP [Janko VESELINOVIC]<br>Movement for the Restoration of the Kingdom of Serbia or POKS [Vojislav MIHAILOVIC]<br>Movement of Free Citizens or PSG [Pavle GRBOVIC]<br>Movement of Socialists or PS [Aleksandar VULIN]<br>National Democratic Alternative or NADA [Milos JOVANOVIC and Vojislav MIHAILOVIC] (electoral coalition includes NDSS and POKS)<br>New Communist Party of Yugoslavia or NKPJ [Aleksandar BANJANAC]<br>New Democratic Party of Serbia or NDSS or New DSS [Milos JOVANOVIC] (formerly Democratic Party of Serbia or DSS)<br>New Face of Serbia or NLS [Milos PARANDICOVIC]<br>Party of Democratic Action of the Sandzak or SDAS [Sulejman UGLJANIN]<br>Party of Freedom and Justice or SSP [Dragan DJILAS]<br>Party of United Pensioners, Farmers, and Proletarians of Serbia – Solidarity and Justice or PUPS - Solidarity and Justice [Milan KRKOBABIC] (formerly Party of United Pensioners of Serbia or PUPS)<br>People's Movement of Serbia or NPS [Miroslav ALEKSIC]<br>People's Movement of Serbs from Kosovo and Metohija or Fatherland [Stavica RISTIC]<br>People's Peasant Party or NSS [Marijan RISTICEVIC]<br>Political Battle of the Albanians Continues [Shaip KAMBERI]<br>Russian Party or RS [Slobodan NIKOLIC]<br>Serbia Against Violence or SPN [collective leadership] (electoral coalition includes DS, SSP, ZLF, Zajedno, NPS, PSG, EU, PZP, USS Sloga, NLS, Fatherland]<br>Serbia Must Not Stop [Milenko JOVANOV] (electoral coalitions includes SNS, SDPS, PUPS, PSS, SNP, SPO, PS, NSS, USS)<br>Serbian People's Party or SNP [Nenad POPOVIC]<br>Serbian Progressive Party or SNS [Miloš VUCEVIC]<br>Serbian Renewal Movement or SPO [Vuk DRASKOVIC]<br>Social Democratic Party of Serbia or SDPS [Rasim LJAJIC]<br>Socialist Party of Serbia or SPS [Ivica DACIC]<br>Strength of Serbia or PSS [Bogoljub KARIC]<br>Together or ZAJEDNO [Biljana STOJKOVIC, Nebojsa ZELENOVIC]<br>United Peasant Party or USS [Milija MILETIC]<br>United Serbia or JS [Dragan MARKOVIC]<br>United Trade Unions of Serbia "Sloga" or USS Sloga [Zeljko VESELINOVIC]<br>We - The Voice from the People or MI-GIN [collective leadership)<br>
-<strong>note:</strong> Serbia has more than 110 registered political parties and citizens' associations<br>
 
 **International organization participation**<br>
 BIS, BSEC, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM (observer), NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNOCI, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>

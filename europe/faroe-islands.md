@@ -70,7 +70,9 @@ archipelago of 17 inhabited islands and one uninhabited island, and a few uninha
 ## People and Society
 
 **Population**<br>
-52,600 (2023 est.)<br>
+_total_: 52,933<br>
+_male_: 27,400<br>
+_female_: 25,533 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Faroese (singular and plural)<br>
@@ -88,9 +90,9 @@ Faroese 93.8% (derived from Old Norse), Danish 3.2%, other 3% (2011 est.)<br>
 Christian 87% (predominantly Evangelical Lutheran), other 0.9%, none 3.7%, unspecified 8.9% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 19.9% (male 5,415/female 5,053)<br>
-_15-64 years_: 61.94% (male 17,211/female 15,367)<br>
-_65 years and over_: 18.16% (2023 est.) (male 4,621/female 4,933)<br>
+_0-14 years_: 20% (male 5,489/female 5,122)<br>
+_15-64 years_: 61.5% (male 17,188/female 15,346)<br>
+_65 years and over_: 18.5% (2024 est.) (male 4,723/female 5,065)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 62.8<br>
@@ -99,21 +101,21 @@ _elderly dependency ratio_: 29.1<br>
 _potential support ratio_: 3.4 (2021)<br>
 
 **Median age**<br>
-_total_: 36.8 years (2023 est.)<br>
-_male_: 36.8 years<br>
+_total_: 36.8 years (2024 est.)<br>
+_male_: 36.9 years<br>
 _female_: 36.8 years<br>
 
 **Population growth rate**<br>
-0.63% (2023 est.)<br>
+0.63% (2024 est.)<br>
 
 **Birth rate**<br>
-14.9 births/1,000 population (2023 est.)<br>
+14.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8.6 deaths/1,000 population (2023 est.)<br>
+8.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2023 est.)<br>
+0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the island of Streymoy is by far the most populous with over 40% of the population; it has approximately twice as many inhabitants as Eysturoy, the second most populous island; seven of the inhabited islands have fewer than 100 people<br>
@@ -129,24 +131,24 @@ _rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
 _15-64 years_: 1.12 male(s)/female<br>
-_65 years and over_: 0.94 male(s)/female<br>
-_total population_: 1.08 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.93 male(s)/female<br>
+_total population_: 1.07 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 6.5 deaths/1,000 live births<br>
-_female_: 5.2 deaths/1,000 live births<br>
+_total_: 5.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 6.3 deaths/1,000 live births<br>
+_female_: 5.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.5 years (2023 est.)<br>
-_male_: 79 years<br>
-_female_: 84.2 years<br>
+_total population_: 81.7 years (2024 est.)<br>
+_male_: 79.2 years<br>
+_female_: 84.4 years<br>
 
 **Total fertility rate**<br>
-2.28 children born/woman (2023 est.)<br>
+2.27 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.1 (2023 est.)<br>
+1.09 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

@@ -76,7 +76,9 @@ largest country in Caribbean and westernmost island of the Greater Antilles<br>
 ## People and Society
 
 **Population**<br>
-10,985,974 (2023 est.)<br>
+_total_: 10,966,038<br>
+_male_: 5,441,507<br>
+_female_: 5,524,531 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Cuban(s)<br>
@@ -95,9 +97,9 @@ Christian 58.9%, folk religion 17.6%, Buddhist &lt;1%, Hindu &lt;1%, Jewish &lt;
 <strong>note:</strong> folk religions include religions of African origin, spiritualism, and others intermingled with Catholicism or Protestantism; data is estimative because no authoritative source on religious affiliation exists for Cuba<br>
 
 **Age structure**<br>
-_0-14 years_: 16.39% (male 926,457/female 874,347)<br>
-_15-64 years_: 66.81% (male 3,692,573/female 3,647,316)<br>
-_65 years and over_: 16.8% (2023 est.) (male 835,005/female 1,010,276)<br>
+_0-14 years_: 16.3% (male 918,066/female 866,578)<br>
+_15-64 years_: 66.5% (male 3,670,531/female 3,623,658)<br>
+_65 years and over_: 17.2% (2024 est.) (male 852,910/female 1,034,295)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 45.9<br>
@@ -106,21 +108,21 @@ _elderly dependency ratio_: 22.9<br>
 _potential support ratio_: 4.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42.3 years (2023 est.)<br>
-_male_: 40.8 years<br>
-_female_: 44.3 years<br>
+_total_: 42.6 years (2024 est.)<br>
+_male_: 41 years<br>
+_female_: 44.4 years<br>
 
 **Population growth rate**<br>
--0.19% (2023 est.)<br>
+-0.17% (2024 est.)<br>
 
 **Birth rate**<br>
-10 births/1,000 population (2023 est.)<br>
+9.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.4 deaths/1,000 population (2023 est.)<br>
+9.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--2.5 migrant(s)/1,000 population (2023 est.)<br>
+-2.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 large population clusters found throughout the country, the more significant ones being in the larger towns and cities, particularly the capital of Havana<br>
@@ -134,29 +136,29 @@ _rate of urbanization_: 0.19% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.07 male(s)/female<br>
-_15-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.71 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_0-14 years_: 1.06 male(s)/female<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.82 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 39 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 4.6 deaths/1,000 live births<br>
+_total_: 4 deaths/1,000 live births (2024 est.)<br>
+_male_: 4.5 deaths/1,000 live births<br>
 _female_: 3.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.9 years (2023 est.)<br>
-_male_: 77.5 years<br>
-_female_: 82.4 years<br>
+_total population_: 80.1 years (2024 est.)<br>
+_male_: 77.8 years<br>
+_female_: 82.6 years<br>
 
 **Total fertility rate**<br>
-1.71 children born/woman (2023 est.)<br>
+1.71 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.83 (2023 est.)<br>
+0.83 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 69% (2019)<br>
@@ -594,7 +596,7 @@ _total subscriptions_: 7,103,296 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 63 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: internet availability has increased substantially over the past few years, but only about 64 percent of Cubans have Internet access, and even fewer Cubans--about 60 percent of the population--have access to cell phone service; in 2021 the Cuban Government passed a decree that strengthened its authority to censor Internet and telephonic communications; state control of the telecom sector hinders development; Cuba has the lowest mobile phone and Internet subscription rates in the region; fixed-line density is also very low; thaw of US-Cuba relations encouraged access to services, such as Wi-Fi hot spots; access to sites is controlled and censored; DSL and Internet are available in Havana, though costs are too high for most Cubans; international investment and agreement to improve Internet access through cost-free and direct connection between networks (2021)<br>
+_general assessment_: internet availability has increased substantially over the past few years, only about 70 percent of Cubans have Internet access; 69 percent (7.6 million) have acces to cell phone service, 68 percent have internet access through their cell phone; in 2021 the Cuban Government passed a decree that strengthened its authority to censor Internet and telephonic communications; state control of the telecom sector hinders development; Cuba has the lowest mobile phone and Internet subscription rates in the region; fixed-line density is also very low; thaw of US-Cuba relations encouraged access to services, such as Wi-Fi hot spots; access to websites and mobile applications is controlled and censored; DSL and Internet are available in Havana, though costs are too high for most Cubans and access can be turned off by the government; international investment and agreement to improve internet access through cost-free and direct connection between networks (2021)<br>
 _domestic_: fixed-line density remains low at a little over 14 per 100 inhabitants; mobile-cellular service has expanded to about 63 per 100 persons (2021)<br>
 _international_: country code - 53; the ALBA-1, GTMO-1, and GTMO-PR fiber-optic submarine cables link Cuba, Jamaica, and Venezuela; satellite earth station - 1 Intersputnik (Atlantic Ocean region) (2019)<br>
 

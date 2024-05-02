@@ -73,7 +73,9 @@ the western islands (making up the Tongan Volcanic Arch) are all of volcanic ori
 ## People and Society
 
 **Population**<br>
-105,221 (2023 est.)<br>
+_total_: 104,889<br>
+_male_: 52,606<br>
+_female_: 52,283 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Tongan(s)<br>
@@ -90,9 +92,9 @@ Tongan only 85%, Tongan and other language 13.9%, Tongan not used at home 1.1% (
 Protestant 63.9% (Free Wesleyan Church 34.2%, Free Church of Tonga 11.3%, Church of Tonga 6.8%, Seventh Day Adventist 2.5%, Assembly of God 2.5%, Tokaikolo/Maamafo'ou 1.5%, Constitutional Church of Tonga 1.2%, other Protestant 4%), Church of Jesus Christ 19.7%, Roman Catholic 13.7%, other 2.1%, none 0.6%, no answer 0.1% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 29.92% (male 15,989/female 15,491)<br>
-_15-64 years_: 62.79% (male 33,330/female 32,741)<br>
-_65 years and over_: 7.29% (2023 est.) (male 3,453/female 4,217)<br>
+_0-14 years_: 29.3% (male 15,627/female 15,142)<br>
+_15-64 years_: 63.2% (male 33,445/female 32,867)<br>
+_65 years and over_: 7.4% (2024 est.) (male 3,534/female 4,274)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 68.6<br>
@@ -101,21 +103,21 @@ _elderly dependency ratio_: 10.5<br>
 _potential support ratio_: 9.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 25.4 years (2023 est.)<br>
-_male_: 25 years<br>
-_female_: 25.9 years<br>
+_total_: 25.9 years (2024 est.)<br>
+_male_: 25.4 years<br>
+_female_: 26.4 years<br>
 
 **Population growth rate**<br>
--0.3% (2023 est.)<br>
+-0.34% (2024 est.)<br>
 
 **Birth rate**<br>
-20 births/1,000 population (2023 est.)<br>
+19.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5 deaths/1,000 population (2023 est.)<br>
+5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--18.1 migrant(s)/1,000 population (2023 est.)<br>
+-18.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 over two-thirds of the population lives on the island of Tongatapu; only 45 of the nation's 171 islands are occupied<br>
@@ -131,8 +133,8 @@ _rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-64 years_: 1.02 male(s)/female<br>
-_65 years and over_: 0.82 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.83 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 24.9 years (2012 est.)<br>
@@ -142,20 +144,20 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 126 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 13.1 deaths/1,000 live births<br>
-_female_: 11.1 deaths/1,000 live births<br>
+_total_: 11.8 deaths/1,000 live births (2024 est.)<br>
+_male_: 12.8 deaths/1,000 live births<br>
+_female_: 10.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.8 years (2023 est.)<br>
-_male_: 76.1 years<br>
-_female_: 79.5 years<br>
+_total population_: 78 years (2024 est.)<br>
+_male_: 76.4 years<br>
+_female_: 79.7 years<br>
 
 **Total fertility rate**<br>
-2.7 children born/woman (2023 est.)<br>
+2.65 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.33 (2023 est.)<br>
+1.3 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 29.3% (2019)<br>

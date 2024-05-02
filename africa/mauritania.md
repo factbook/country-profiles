@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Amazigh and Bafour people were among the first to settle in what is now Mauritania. Originally a nomadic people, they were among the first in recorded history to convert from a nomadic to agricultural lifestyle. These groups account for roughly one third of Mauritania’s ethnic makeup. The remainder of Mauritania’s ethnic groups derive from Sub-Saharan ethnic groups originating mainly from the Senegal River Valley, including descendants of former enslaved peoples. These three groups are organized according to a strict caste system with deep ethnic divides that impact access to resources and power dynamics.<br><br>A former French colony, Mauritania achieved independence from France in 1960. Mauritania initially began as a single-party, authoritarian regime and experienced 49 years of dictatorships, flawed elections, failed attempts at democracy, and military coups. Ould Abdel AZIZ led the last coup in 2008, was elected president in 2009, and was reelected in 2014. Mohamed Ould Cheikh GHAZOUANI was elected president in 2019, and his inauguration marked the first peaceful transition of power from one democratically elected president to another, solidifying Mauritania’s status as an emerging democracy. International observers recognized the elections as relatively free and fair. President GHAZOUANI is seeking re-election in June 2024 for a second, and final, five-year term.</p> <p>The country is working to address vestigial practices of slavery and its hereditary impacts. Mauritania officially abolished slavery in 1981, but the practice was not criminalized until 2007. Between 2005 and 2011, Al-Qaeda in the Islamic Maghreb (AQIM) launched a series of attacks killing western tourists and aid workers, attacking diplomatic and government facilities, and ambushing Mauritanian soldiers and gendarmes. Although Mauritania has not seen an attack since 2011, AQIM and similar groups remain active in the Sahel region.</p> <p> </p><br>
+<p>The Amazigh and Bafour people were among the earliest settlers in what is now Mauritania and among the first in recorded history to convert from a nomadic to agricultural lifestyle. These groups account for roughly one third of Mauritania’s ethnic makeup. The remainder of Mauritania’s ethnic groups derive from Sub-Saharan ethnic groups originating mainly from the Senegal River Valley, including descendants of former enslaved peoples. These three groups are organized according to a strict caste system with deep ethnic divides that impact access to resources and power dynamics.<br><br>A former French colony, Mauritania achieved independence from France in 1960. Mauritania initially began as a single-party, authoritarian regime and experienced 49 years of dictatorships, flawed elections, failed attempts at democracy, and military coups. Ould Abdel AZIZ led the last coup in 2008, was elected president in 2009, and was reelected in 2014. Mohamed Ould Cheikh GHAZOUANI was elected president in 2019, and his inauguration marked the first peaceful transition of power from one democratically elected president to another, solidifying the country's status as an emerging democracy. International observers recognized the elections as relatively free and fair. GHAZOUANI is seeking re-election in June 2024 for a second, and final, five-year term.</p> <p>The country is working to address vestigial practices of slavery and its hereditary impacts. Mauritania officially abolished slavery in 1981, but the practice was not criminalized until 2007. Between 2005 and 2011, Al-Qaeda in the Islamic Maghreb (AQIM) launched a series of attacks killing western tourists and aid workers, attacking diplomatic and government facilities, and ambushing Mauritanian soldiers and gendarmes. Although Mauritania has not seen an attack since 2011, AQIM and similar groups remain active in the Sahel region.</p> <p> </p><br>
 
 ## Geography
 
@@ -85,7 +85,9 @@ Mauritania is considered both a part of North Africa's Maghreb region and West A
 ## People and Society
 
 **Population**<br>
-4,244,878 (2023 est.)<br>
+_total_: 4,328,040<br>
+_male_: 2,083,690<br>
+_female_: 2,244,350 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Mauritanian(s)<br>
@@ -105,9 +107,9 @@ Muslim (official) 100%<br>
 <p>With a sustained total fertility rate of about 3.5 children per woman and almost 60% of the population under the age of 25 as of 2020, Mauritania's population is likely to continue growing for the foreseeable future. Mauritania's large youth cohort is vital to its development prospects, but available schooling does not adequately prepare students for the workplace. Girls continue to be underrepresented in the classroom, educational quality remains poor, and the dropout rate is high. The literacy rate is only about 50%, even though access to primary education has improved since the mid-2000s. Women's restricted access to education and discriminatory laws maintain gender inequality - worsened by early and forced marriages and female genital cutting.</p> <p>The denial of education to black Moors also helps to perpetuate slavery. Although Mauritania abolished slavery in 1981 (the last country in the world to do so) and made it a criminal offense in 2007, the millenniums-old practice persists largely because anti-slavery laws are rarely enforced and the custom is so ingrained.  According to a 2018 nongovernmental organization's report, a little more than 2% of Mauritania's population is enslaved, which includes individuals subjected to forced labor and forced marriage, while many thousands of individuals who are legally free contend with discrimination, poor education, and a lack of identity papers and, therefore, live in de facto slavery.  The UN and international press outlets have claimed that up to 20% of Mauritania's population is enslaved, which would be the highest rate worldwide.</p> <p>Drought, poverty, and unemployment have driven outmigration from Mauritania since the 1970s. Early flows were directed toward other West African countries, including Senegal, Mali, Cote d'Ivoire, and Gambia. The 1989 Mauritania-Senegal conflict forced thousands of black Mauritanians to take refuge in Senegal and pushed labor migrants toward the Gulf, Libya, and Europe in the late 1980s and early 1990s. Mauritania has accepted migrants from neighboring countries to fill labor shortages since its independence in 1960 and more recently has received refugees escaping civil wars, including tens of thousands of Tuaregs who fled Mali in 2012.</p> <p>Mauritania was an important transit point for Sub-Saharan migrants moving illegally to North Africa and Europe. In the mid-2000s, as border patrols increased in the Strait of Gibraltar, security increased around Spain's North African enclaves (Ceuta and Melilla), and Moroccan border controls intensified, illegal migration flows shifted from the Western Mediterranean to Spain's Canary Islands. In 2006, departure points moved southward along the West African coast from Morocco and then Western Sahara to Mauritania's two key ports (Nouadhibou and the capital Nouakchott), and illegal migration to the Canaries peaked at almost 32,000. The numbers fell dramatically in the following years because of joint patrolling off the West African coast by Frontex (the EU's border protection agency), Spain, Mauritania, and Senegal; the expansion of Spain's border surveillance system; and the 2008 European economic downturn.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 36.11% (male 769,229/female 763,465)<br>
-_15-64 years_: 59.58% (male 1,197,311/female 1,331,815)<br>
-_65 years and over_: 4.31% (2023 est.) (male 77,123/female 105,935)<br>
+_0-14 years_: 35.7% (male 776,035/female 770,132)<br>
+_15-64 years_: 59.9% (male 1,227,347/female 1,363,938)<br>
+_65 years and over_: 4.4% (2024 est.) (male 80,308/female 110,280)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 82.7<br>
@@ -116,21 +118,21 @@ _elderly dependency ratio_: 6<br>
 _potential support ratio_: 16.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21.9 years (2023 est.)<br>
-_male_: 20.9 years<br>
-_female_: 22.8 years<br>
+_total_: 22.1 years (2024 est.)<br>
+_male_: 21.1 years<br>
+_female_: 23.1 years<br>
 
 **Population growth rate**<br>
-1.96% (2023 est.)<br>
+1.92% (2024 est.)<br>
 
 **Birth rate**<br>
-27.6 births/1,000 population (2023 est.)<br>
+27.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.3 deaths/1,000 population (2023 est.)<br>
+7.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.7 migrant(s)/1,000 population (2023 est.)<br>
+-0.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 with most of the country being a desert, vast areas of the country, particularly in the central, northern, and eastern areas, are without sizeable population clusters; half the population lives in or around the coastal capital of Nouakchott; smaller clusters are found near the southern border with Mali and Senegal as shown in this population distribution map<br>
@@ -147,7 +149,7 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-64 years_: 0.9 male(s)/female<br>
 _65 years and over_: 0.73 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2023 est.)<br>
+_total population_: 0.93 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.8 years (2019/21)<br>
@@ -157,20 +159,20 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 465 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 50 deaths/1,000 live births (2023 est.)<br>
-_male_: 55.8 deaths/1,000 live births<br>
-_female_: 43.9 deaths/1,000 live births<br>
+_total_: 48.9 deaths/1,000 live births (2024 est.)<br>
+_male_: 54.8 deaths/1,000 live births<br>
+_female_: 42.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.6 years (2023 est.)<br>
-_male_: 63.1 years<br>
-_female_: 68.1 years<br>
+_total population_: 65.9 years (2024 est.)<br>
+_male_: 63.4 years<br>
+_female_: 68.5 years<br>
 
 **Total fertility rate**<br>
-3.46 children born/woman (2023 est.)<br>
+3.4 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.71 (2023 est.)<br>
+1.68 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 11.5% (2019/20)<br>

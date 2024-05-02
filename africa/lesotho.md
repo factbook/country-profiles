@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Paramount chief MOSHOESHOE I consolidated what would become Basutoland in the early 19th century and made himself king in 1822. Continuing encroachments by Dutch settlers from the neighboring Orange Free State caused the king to enter into an 1868 agreement with the UK by which Basutoland became a British protectorate, and after 1884, a crown colony. Upon independence in 1966, the country was renamed the Kingdom of Lesotho. The Basotho National Party ruled the country during its first two decades. King MOSHOESHOE II was exiled in 1990 but returned to Lesotho in 1992 and was reinstated in 1995 and subsequently succeeded by his son, King LETSIE III, in 1996. Constitutional government was restored in 1993 after seven years of military rule. In 1998, violent protests and a military mutiny following a contentious election prompted a brief but bloody intervention by South African and Batswana military forces under the aegis of the Southern African Development Community (SADC). Subsequent constitutional reforms restored relative political stability. Peaceful parliamentary elections were held in 2002, but the National Assembly elections in 2007 were hotly contested and aggrieved parties disputed how the electoral law was applied to award proportional seats in the Assembly. In 2012, competitive elections involving 18 parties saw Prime Minister Motsoahae Thomas THABANE form a coalition government - the first in the country's history - that ousted the 14-year incumbent, Pakalitha MOSISILI, who peacefully transferred power the following month. MOSISILI returned to power in snap elections in February 2015 after the collapse of THABANE&rsquo;s coalition government and an alleged attempted military coup. In June 2017, THABANE returned to become prime minister but stepped down in May 2020 after being implicated in his estranged wife&rsquo;s murder. He was succeeded by Moseketsi MAJORO. In October 2022, Ntsokoane Samuel MATEKANE was inaugurated as prime minister and head of a three-party coalition featuring his Revolution for Prosperity (RFP), then Monyane MOLELEKI-led Alliance of Democrats (AD), and the Selibe MOCHOBOROANE-led Movement for Economic Change (MEC).<br>
+Paramount chief MOSHOESHOE I consolidated what would become Basutoland in the early 19th century and made himself king in 1822. Continuing encroachments by Dutch settlers from the neighboring Orange Free State caused the king to enter into an 1868 agreement with the UK that made Basutoland first a British protectorate and, after 1884, a crown colony. After gaining independence in 1966, the country was renamed the Kingdom of Lesotho. The Basotho National Party ruled the country during its first two decades. King MOSHOESHOE II was exiled in 1990, returned to Lesotho in 1992, was reinstated in 1995, and was then succeeded by his son, King LETSIE III, in 1996. Constitutional government was restored in 1993 after seven years of military rule. <br><br>In 1998, violent protests and a military mutiny following a contentious election prompted a brief but bloody intervention by South African and Batswana military forces under the aegis of the Southern African Development Community (SADC). Subsequent constitutional reforms restored relative political stability. Peaceful parliamentary elections were held in 2002, but the National Assembly elections in 2007 were hotly contested, and aggrieved parties disputed how seats were awarded. In 2012, competitive elections saw Prime Minister Motsoahae Thomas THABANE form a coalition government -- the first in the country's history -- that ousted the 14-year incumbent, Pakalitha MOSISILI, who peacefully transferred power the following month. MOSISILI returned to power in snap elections in 2015 after the collapse of THABANE’s coalition government and an alleged attempted military coup. In 2017, THABANE returned to become prime minister but stepped down in 2020 after being implicated in his estranged wife’s murder. He was succeeded by Moseketsi MAJORO. In 2022, Ntsokoane Samuel MATEKANE was inaugurated as prime minister and head of a three-party coalition.<br>
 
 ## Geography
 
@@ -79,7 +79,9 @@ landlocked, an enclave of (completely surrounded by) South Africa; mountainous, 
 ## People and Society
 
 **Population**<br>
-2,210,646 (2023 est.)<br>
+_total_: 2,227,548<br>
+_male_: 1,101,959<br>
+_female_: 1,125,589 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Mosotho (singular), Basotho (plural)<br>
@@ -98,9 +100,9 @@ Protestant 47.8% (Pentecostal 23.1%, Lesotho Evangelical 17.3%, Anglican 7.4%), 
 <p>Lesotho faces great socioeconomic challenges. Almost half of its population lives below the poverty line as of 2017, and the country’s HIV/AIDS prevalence rate is the second highest in the world as of 2021. In addition, Lesotho is a small, mountainous, landlocked country with little arable land, leaving its population vulnerable to food shortages and reliant on remittances. Lesotho’s persistently high infant, child, and maternal mortality rates have been increasing during the last decade, according to the last two Demographic and Health Surveys. Despite these significant shortcomings, Lesotho has made good progress in education; it is on-track to achieve universal primary education and has one of the highest adult literacy rates in Africa.</p> <p>Lesotho’s migration history is linked to its unique geography; it is surrounded by South Africa with which it shares linguistic and cultural traits. Lesotho at one time had more of its workforce employed outside its borders than any other country. Today remittances equal about 20% of its GDP. With few job options at home, a high rate of poverty, and higher wages available across the border, labor migration to South Africa replaced agriculture as the prevailing Basotho source of income decades ago. The majority of Basotho migrants were single men contracted to work as gold miners in South Africa. However, migration trends changed in the 1990s, and fewer men found mining jobs in South Africa because of declining gold prices, stricter immigration policies, and a preference for South African workers.</p> <p>Although men still dominate cross-border labor migration, more women are working in South Africa, mostly as domestics, because they are widows or their husbands are unemployed. Internal rural-urban flows have also become more frequent, with more women migrating within the country to take up jobs in the garment industry or moving to care for loved ones with HIV/AIDS. Lesotho’s small population of immigrants is increasingly composed of Taiwanese and Chinese migrants who are involved in the textile industry and small retail businesses.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 32.4% (male 360,327/female 355,863)<br>
-_15-64 years_: 62.21% (male 688,373/female 686,911)<br>
-_65 years and over_: 5.39% (2023 est.) (male 44,313/female 74,859)<br>
+_0-14 years_: 32% (male 358,137/female 353,618)<br>
+_15-64 years_: 62.7% (male 699,197/female 696,626)<br>
+_65 years and over_: 5.4% (2024 est.) (male 44,625/female 75,345)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 62.1<br>
@@ -109,21 +111,21 @@ _elderly dependency ratio_: 6.8<br>
 _potential support ratio_: 14.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 23.7 years (2023 est.)<br>
-_male_: 23.2 years<br>
-_female_: 24.2 years<br>
+_total_: 23.9 years (2024 est.)<br>
+_male_: 23.4 years<br>
+_female_: 24.3 years<br>
 
 **Population growth rate**<br>
-0.76% (2023 est.)<br>
+0.76% (2024 est.)<br>
 
 **Birth rate**<br>
-23 births/1,000 population (2023 est.)<br>
+22.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-10.9 deaths/1,000 population (2023 est.)<br>
+10.8 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--4.5 migrant(s)/1,000 population (2023 est.)<br>
+-4.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 relatively higher population density in the western half of the nation, with the capital of Maseru, and the smaller cities of Mafeteng, Teyateyaneng, and Leribe attracting the most people as shown in this population distribution map<br>
@@ -140,7 +142,7 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
 _65 years and over_: 0.59 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2023 est.)<br>
+_total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.9 years (2014 est.)<br>
@@ -150,20 +152,20 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 566 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 47 deaths/1,000 live births (2023 est.)<br>
-_male_: 52.5 deaths/1,000 live births<br>
-_female_: 41.4 deaths/1,000 live births<br>
+_total_: 45.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 51 deaths/1,000 live births<br>
+_female_: 40.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 59.9 years (2023 est.)<br>
-_male_: 57.9 years<br>
-_female_: 62 years<br>
+_total population_: 60.2 years (2024 est.)<br>
+_male_: 58.1 years<br>
+_female_: 62.3 years<br>
 
 **Total fertility rate**<br>
-2.88 children born/woman (2023 est.)<br>
+2.85 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.42 (2023 est.)<br>
+1.4 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 64.9% (2018)<br>
@@ -345,7 +347,7 @@ _elections/appointments_: the monarchy is hereditary, but under the terms of the
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (33 seats; 22 principal chiefs and 11 other senators nominated by the king with the advice of the Council of State, a 13-member body of key government and non-government officials; members serve 5-year terms)<br>National Assembly (120 seats; 80 members directly elected in single-seat constituencies by simple majority vote and 40 elected through proportional representation; members serve 5-year terms)<br>
 _elections_: Senate - last appointed by the king in November 2022 (next to be appointed 2028)<br>National Assembly - last held on 7 October 2022 (next to be held in February 2028)<br>
-_election results_: Senate - percent of votes by party - NA, seats by party - NA; composition as of February 2024 - men 25, women 8, percent age women 24.2%<br><br>National Assembly - percent of votes by party - RFP 38.9%, DC 24.7%, ABC 7.1%, BAP 5.4%, AD 4.0%, MEC 3.2%, LCD 2.3%, SR 2.1%, BNP 1.4%, PFD 0.9%, BCM 0.8%, MPS 0.8%, MIP 0.7%; seats by party - RFP 56, DC 29, ABC 8, BAP 6, AD 5, MEC 4, LCD 3, SR 2, BNP 1, PFD 1, BCM 1, MPS 1, NIP 1, HOPE 1, TBD 1; composition as of February 2024 - men 90, women 30, percentage 25%; note - total Parliament percentage women 24.8%<br>
+_election results_: Senate - percent of votes by party - NA, seats by party - NA; composition - men 25, women 8, percentage women 24.2%<br><br>National Assembly - percent of votes by party - RFP 38.9%, DC 24.7%, ABC 7.1%, BAP 5.4%, AD 4.0%, MEC 3.2%, LCD 2.3%, SR 2.1%, BNP 1.4%, PFD 0.9%, BCM 0.8%, MPS 0.8%, MIP 0.7%; seats by party - RFP 56, DC 29, ABC 8, BAP 6, AD 5, MEC 4, LCD 3, SR 2, BNP 1, PFD 1, BCM 1, MPS 1, NIP 1, HOPE 1, TBD 1; composition - men 90, women 30, percentage 25%; note - total Parliament percentage women 24.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president, such number of justices of appeal as set by Parliament, and the Chief Justice and the puisne judges of the High Court ex officio); High Court (consists of the chief justice and such number of puisne judges as set by Parliament); note - both the Court of Appeal and the High Court have jurisdiction in constitutional issues<br>

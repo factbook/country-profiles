@@ -75,8 +75,9 @@ along with Uzbekistan, one of only two doubly landlocked countries in the world;
 ## People and Society
 
 **Population**<br>
-39,993 (2023 est.)<br>
-<strong>note:</strong> immigrants make up 67% of the total population, according to UN data (2019)<br>
+_total_: 40,272<br>
+_male_: 20,072<br>
+_female_: 20,200 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Liechtensteiner(s)<br>
@@ -94,9 +95,9 @@ _major-language sample(s)_: <br>Das World Factbook, die unverzichtbare Quelle f√
 Roman Catholic (official) 73.4%, Protestant Reformed 6.3%, Muslim 5.9%, Christian Orthodox 1.3%, Lutheran 1.2%, other Protestant 0.7%, other Christian 0.3%, other 0.8%, none 7%, unspecified 3.3% (2015 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 15.27% (male 3,389/female 2,718)<br>
-_15-64 years_: 64.38% (male 12,800/female 12,947)<br>
-_65 years and over_: 20.35% (2023 est.) (male 3,738/female 4,401)<br>
+_0-14 years_: 15.3% (male 3,412/female 2,732)<br>
+_15-64 years_: 63.9% (male 12,814/female 12,921)<br>
+_65 years and over_: 20.8% (2024 est.) (male 3,846/female 4,547)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.2<br>
@@ -105,21 +106,21 @@ _elderly dependency ratio_: 28.3<br>
 _potential support ratio_: 3.5 (2021)<br>
 
 **Median age**<br>
-_total_: 44.1 years (2023 est.)<br>
-_male_: 42.3 years<br>
-_female_: 46 years<br>
+_total_: 44.2 years (2024 est.)<br>
+_male_: 42.4 years<br>
+_female_: 46.1 years<br>
 
 **Population growth rate**<br>
-0.7% (2023 est.)<br>
+0.69% (2024 est.)<br>
 
 **Birth rate**<br>
-10.3 births/1,000 population (2023 est.)<br>
+10.3 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8.1 deaths/1,000 population (2023 est.)<br>
+8.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-4.8 migrant(s)/1,000 population (2023 est.)<br>
+4.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the population is found in the western half of the country along the Rhine River<br>
@@ -132,30 +133,30 @@ _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
 5,000 VADUZ (capital) (2018)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.25 male(s)/female<br>
+_at birth_: 1.26 male(s)/female<br>
 _0-14 years_: 1.25 male(s)/female<br>
 _15-64 years_: 0.99 male(s)/female<br>
 _65 years and over_: 0.85 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 31.3 years (2017)<br>
 
 **Infant mortality rate**<br>
-_total_: 4 deaths/1,000 live births (2023 est.)<br>
+_total_: 3.9 deaths/1,000 live births (2024 est.)<br>
 _male_: 4.3 deaths/1,000 live births<br>
 _female_: 3.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.8 years (2023 est.)<br>
-_male_: 80.5 years<br>
-_female_: 85.6 years<br>
+_total population_: 83 years (2024 est.)<br>
+_male_: 80.7 years<br>
+_female_: 85.8 years<br>
 
 **Total fertility rate**<br>
-1.69 children born/woman (2023 est.)<br>
+1.69 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.75 (2023 est.)<br>
+0.75 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

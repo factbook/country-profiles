@@ -79,7 +79,9 @@ landlocked; glacial scouring accounts for the flatness of Belarusian terrain and
 ## People and Society
 
 **Population**<br>
-9,383,853 (2023 est.)<br>
+_total_: 9,501,451<br>
+_male_: 4,433,839<br>
+_female_: 5,067,612 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Belarusian(s)<br>
@@ -89,16 +91,16 @@ _adjective_: Belarusian<br>
 Belarusian 83.7%, Russian 8.3%, Polish 3.1%, Ukrainian 1.7%, other 2.4%, unspecified 0.9% (2009 est.)<br>
 
 **Languages**<br>
-Russian (official) 71.4%, Belarusian (official) 26%, other 0.3% (includes small Polish- and Ukrainian-speaking minorities), unspecified 2.3% (2009 est.)<br>
+Russian (official) 71.4%, Belarusian (official) 26%, other 0.3% (includes small Polish- and Ukrainian-speaking minorities), unspecified 2.3% (2019 est.)<br>
 _major-language sample(s)_: <br>Книга фактов о мире – незаменимый источник базовой информации. (Russian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Orthodox 48.3%, Catholic 7.1%, other 3.5%, non-believers 41.1% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 15.83% (male 764,281/female 721,632)<br>
-_15-64 years_: 66.81% (male 3,055,606/female 3,213,751)<br>
-_65 years and over_: 17.36% (2023 est.) (male 544,270/female 1,084,313)<br>
+_0-14 years_: 16.1% (male 787,849/female 741,293)<br>
+_15-64 years_: 66.1% (male 3,073,507/female 3,204,088)<br>
+_65 years and over_: 17.8% (2024 est.) (male 572,483/female 1,122,231)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.8<br>
@@ -107,21 +109,21 @@ _elderly dependency ratio_: 25.4<br>
 _potential support ratio_: 3.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 41.7 years (2023 est.)<br>
-_male_: 39.1 years<br>
-_female_: 44.6 years<br>
+_total_: 42.1 years (2024 est.)<br>
+_male_: 39.5 years<br>
+_female_: 45 years<br>
 
 **Population growth rate**<br>
--0.39% (2023 est.)<br>
+-0.42% (2024 est.)<br>
 
 **Birth rate**<br>
-8.6 births/1,000 population (2023 est.)<br>
+8.3 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-13.3 deaths/1,000 population (2023 est.)<br>
+13.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0.9 migrant(s)/1,000 population (2023 est.)<br>
+0.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -136,9 +138,9 @@ _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-64 years_: 0.95 male(s)/female<br>
-_65 years and over_: 0.5 male(s)/female<br>
-_total population_: 0.88 male(s)/female (2023 est.)<br>
+_15-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.51 male(s)/female<br>
+_total population_: 0.88 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.8 years (2019 est.)<br>
@@ -147,20 +149,20 @@ _total population_: 0.88 male(s)/female (2023 est.)<br>
 1 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.1 deaths/1,000 live births (2023 est.)<br>
+_total_: 2.1 deaths/1,000 live births (2024 est.)<br>
 _male_: 2.5 deaths/1,000 live births<br>
-_female_: 1.8 deaths/1,000 live births<br>
+_female_: 1.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.6 years (2023 est.)<br>
-_male_: 69.6 years<br>
-_female_: 79.9 years<br>
+_total population_: 74.7 years (2024 est.)<br>
+_male_: 69.8 years<br>
+_female_: 80 years<br>
 
 **Total fertility rate**<br>
-1.45 children born/woman (2023 est.)<br>
+1.45 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.7 (2023 est.)<br>
+0.7 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 52.6% (2019)<br>

@@ -76,7 +76,9 @@ within Bosnia and Herzegovina's recognized borders, the country is divided into 
 ## People and Society
 
 **Population**<br>
-3,807,764 (2023 est.)<br>
+_total_: 3,798,671<br>
+_male_: 1,852,164<br>
+_female_: 1,946,507 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Bosnian(s), Herzegovinian(s)<br>
@@ -94,9 +96,9 @@ _major-language sample(s)_: <br>Knjiga svjetskih činjenica, neophodan izvor osn
 Muslim 50.7%, Orthodox 30.7%, Roman Catholic 15.2%, atheist 0.8%, agnostic 0.3%, other 1.2%, undeclared/no answer 1.1% (2013 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 13.14% (male 258,937/female 241,581)<br>
-_15-64 years_: 69% (male 1,319,995/female 1,307,304)<br>
-_65 years and over_: 17.86% (2023 est.) (male 277,555/female 402,392)<br>
+_0-14 years_: 13.1% (male 257,444/female 240,209)<br>
+_15-64 years_: 68.3% (male 1,305,271/female 1,290,920)<br>
+_65 years and over_: 18.6% (2024 est.) (male 289,449/female 415,378)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 48<br>
@@ -105,21 +107,21 @@ _elderly dependency ratio_: 27.1<br>
 _potential support ratio_: 3.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 44.4 years (2023 est.)<br>
-_male_: 42.7 years<br>
-_female_: 46.1 years<br>
+_total_: 44.8 years (2024 est.)<br>
+_male_: 43.1 years<br>
+_female_: 46.5 years<br>
 
 **Population growth rate**<br>
--0.23% (2023 est.)<br>
+-0.25% (2024 est.)<br>
 
 **Birth rate**<br>
-8.3 births/1,000 population (2023 est.)<br>
+8.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-10.3 deaths/1,000 population (2023 est.)<br>
+10.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.4 migrant(s)/1,000 population (2023 est.)<br>
+-0.4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the northern and central areas of the country are the most densely populated<br>
@@ -135,8 +137,8 @@ _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
 _15-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.69 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.7 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.7 years (2019 est.)<br>
@@ -145,20 +147,20 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 6 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 5.2 deaths/1,000 live births<br>
-_female_: 5 deaths/1,000 live births<br>
+_total_: 5 deaths/1,000 live births (2024 est.)<br>
+_male_: 5.1 deaths/1,000 live births<br>
+_female_: 4.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.2 years (2023 est.)<br>
-_male_: 75.3 years<br>
-_female_: 81.4 years<br>
+_total population_: 78.5 years (2024 est.)<br>
+_male_: 75.5 years<br>
+_female_: 81.6 years<br>
 
 **Total fertility rate**<br>
-1.37 children born/woman (2023 est.)<br>
+1.38 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.66 (2023 est.)<br>
+0.67 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 45.8% (2011/12)<br>

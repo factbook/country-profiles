@@ -74,7 +74,9 @@ westernmost archipelago in the Caroline chain, consists of six island groups tot
 ## People and Society
 
 **Population**<br>
-21,779 (2023 est.)<br>
+_total_: 21,864<br>
+_male_: 11,235<br>
+_female_: 10,629 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Palauan(s)<br>
@@ -91,9 +93,9 @@ Palauan (official on most islands) 65.2%, other Micronesian 1.9%, English (offic
 Roman Catholic 46.9%, Protestant 30.9% (Evangelical 24.6%, Seventh Day Adventist 5%, other Protestant 1.4%), Modekngei 5.1% (indigenous to Palau), Muslim 4.9%, other 12.3% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 17.49% (male 1,966/female 1,844)<br>
-_15-64 years_: 71.82% (male 8,665/female 6,976)<br>
-_65 years and over_: 10.69% (2023 est.) (male 581/female 1,747)<br>
+_0-14 years_: 17.5% (male 1,976/female 1,849)<br>
+_15-64 years_: 71.3% (male 8,647/female 6,935)<br>
+_65 years and over_: 11.2% (2024 est.) (male 612/female 1,845)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.8<br>
@@ -102,21 +104,21 @@ _elderly dependency ratio_: 13.7<br>
 _potential support ratio_: 7.3 (2021)<br>
 
 **Median age**<br>
-_total_: 35 years (2023 est.)<br>
-_male_: 33.9 years<br>
-_female_: 37 years<br>
+_total_: 35.3 years (2024 est.)<br>
+_male_: 34.1 years<br>
+_female_: 37.4 years<br>
 
 **Population growth rate**<br>
-0.39% (2023 est.)<br>
+0.38% (2024 est.)<br>
 
 **Birth rate**<br>
-11.6 births/1,000 population (2023 est.)<br>
+11.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8.3 deaths/1,000 population (2023 est.)<br>
+8.4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0.6 migrant(s)/1,000 population (2023 est.)<br>
+0.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the population is located on the southern end of the main island of Babelthuap<br>
@@ -129,27 +131,27 @@ _rate of urbanization_: 1.59% annual rate of change (2020-25 est.)<br>
 277 NGERULMUD (capital) (2018)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.07 male(s)/female<br>
+_at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
-_15-64 years_: 1.24 male(s)/female<br>
+_15-64 years_: 1.25 male(s)/female<br>
 _65 years and over_: 0.33 male(s)/female<br>
-_total population_: 1.06 male(s)/female (2023 est.)<br>
+_total population_: 1.06 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11 deaths/1,000 live births (2023 est.)<br>
-_male_: 13 deaths/1,000 live births<br>
-_female_: 9 deaths/1,000 live births<br>
+_total_: 10.8 deaths/1,000 live births (2024 est.)<br>
+_male_: 12.7 deaths/1,000 live births<br>
+_female_: 8.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.9 years (2023 est.)<br>
-_male_: 71.8 years<br>
-_female_: 78.2 years<br>
+_total population_: 75.2 years (2024 est.)<br>
+_male_: 72 years<br>
+_female_: 78.5 years<br>
 
 **Total fertility rate**<br>
-1.7 children born/woman (2023 est.)<br>
+1.7 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.82 (2023 est.)<br>
+0.83 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

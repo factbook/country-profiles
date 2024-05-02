@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>In 788, about a century after the Arab conquest of North Africa, a series of Moroccan Muslim dynasties began to rule in Morocco. In the 16th century, the Sa'adi monarchy, particularly under Ahmad al-MANSUR (1578-1603), repelled foreign invaders and inaugurated a golden age. The Alaouite Dynasty, to which the current Moroccan royal family belongs, dates from the 17th century. In 1860, Spain occupied northern Morocco and ushered in a half-century of trade rivalry among European powers that saw Morocco's sovereignty steadily erode; in 1912, the French imposed a protectorate over the country. A protracted independence struggle with France ended successfully in 1956. The internationalized city of Tangier and most Spanish possessions were turned over to the new country that same year. Sultan MOHAMMED V, the current monarch's grandfather, organized the new state as a constitutional monarchy and in 1957 assumed the title of king. Since Spain's 1976 withdrawal from Western Sahara, Morocco has extended its de facto administrative control to roughly 75% of this territory; however, the UN does not recognize Morocco as the administering power for Western Sahara. The UN since 1991 has monitored a cease-fire, which broke down in late 2020, between Morocco and the Polisario Front - an organization advocating the territory’s independence - and restarted negotiations over the status of the territory in December 2018. On 10 December 2020, the US recognized Morocco's sovereignty over all of Western Sahara.</p> <p>King MOHAMMED VI in early 2011 responded to the spread of pro-democracy protests in the North Africa region by implementing a reform program that included a new constitution, passed by popular referendum in July 2011, under which some new powers were extended to parliament and the prime minister, but ultimate authority remains in the hands of the monarch. In November 2011, the Justice and Development Party (PJD) - a moderate Islamist democratic party - won the largest number of seats in parliamentary elections, becoming the first Islamist party to lead the Moroccan Government. In September 2015, Morocco held its first direct elections for regional councils, one of the reforms included in the 2011 constitution. The PJD again won the largest number of seats in nationwide parliamentary elections in October 2016, but it lost its plurality to the probusiness National Rally of Independents (RNI) in September 2021. In December 2020, Morocco signed a normalization agreement with Israel, similar to those that Bahrain, the United Arab Emirates, and Sudan had concluded with Israel earlier in 2020.</p><br>
+<p>In 788, about a century after the Arab conquest of North Africa, a series of Muslim dynasties began to rule in Morocco. In the 16th century, the Sa'adi monarchy, particularly under Ahmad al-MANSUR (1578-1603), repelled foreign invaders and inaugurated a golden age. The Alaouite Dynasty, to which the current Moroccan royal family belongs, dates from the 17th century. In 1860, Spain occupied northern Morocco and ushered in a half-century of trade rivalry among European powers that saw Morocco's sovereignty steadily erode; in 1912, the French imposed a protectorate over the country. A protracted independence struggle with France ended successfully in 1956. The internationalized city of Tangier and most Spanish possessions were turned over to the new country that same year. Sultan MOHAMMED V, the current monarch's grandfather, organized the new state as a constitutional monarchy and in 1957 assumed the title of king. <br><br>Since Spain's 1976 withdrawal from Western Sahara, Morocco has extended its de facto administrative control to roughly 75% of this territory; however, the UN does not recognize Morocco as the administering power for Western Sahara. The UN since 1991 has monitored a cease-fire, which broke down in late 2020, between Morocco and the Polisario Front -- an organization advocating the territory’s independence -- and restarted negotiations over the status of the territory in 2018. In 2020, the US recognized Morocco's sovereignty over all of Western Sahara.</p> <p>In 2011, King MOHAMMED VI responded to the spread of pro-democracy protests in the North Africa region by implementing a reform program that included a new constitution, passed by popular referendum, under which some new powers were extended to parliament and the prime minister, but ultimate authority remains in the hands of the monarch. Later that year, the Justice and Development Party (PJD) -- a moderate Islamist democratic party -- won the largest number of seats in parliamentary elections, becoming the first Islamist party to lead the Moroccan Government. In 2015, Morocco held its first direct elections for regional councils, which was one of the reforms included in the 2011 constitution. The PJD again won the largest number of seats in nationwide parliamentary elections in 2016, but it lost its plurality to the probusiness National Rally of Independents (RNI) in 2021. In 2020, Morocco signed a normalization agreement with Israel, similar to those that Bahrain, the United Arab Emirates, and Sudan had concluded with Israel earlier that year.</p><br>
 
 ## Geography
 
@@ -82,8 +82,9 @@ strategic location along Strait of Gibraltar; the only African nation to have bo
 ## People and Society
 
 **Population**<br>
-37,067,420 (2023 est.)<br>
-<strong>note:</strong> includes Western Sahara<br>
+_total_: 37,387,585<br>
+_male_: 18,664,263<br>
+_female_: 18,723,322 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Moroccan(s)<br>
@@ -105,10 +106,9 @@ note: does not include data from the former Western Sahara<br>
 <p>Morocco is undergoing a demographic transition. Its population is growing but at a declining rate, as people live longer and women have fewer children. Infant, child, and maternal mortality rates have been reduced through better health care, nutrition, hygiene, and vaccination coverage, although disparities between urban and rural and rich and poor households persist. Morocco’s shrinking child cohort reflects the decline of its total fertility rate from 5 in mid-1980s to 2.2 in 2010, which is a result of increased female educational attainment, higher contraceptive use, delayed marriage, and the desire for smaller families. Young adults (persons aged 15-29) make up almost 26% of the total population and represent a potential economic asset if they can be gainfully employed. Currently, however, many youths are unemployed because Morocco’s job creation rate has not kept pace with the growth of its working-age population. Most youths who have jobs work in the informal sector with little security or benefits.</p><p>During the second half of the 20th century, Morocco became one of the world’s top emigration countries, creating large, widely dispersed migrant communities in Western Europe. The Moroccan Government has encouraged emigration since its independence in 1956, both to secure remittances for funding national development and as an outlet to prevent unrest in rebellious (often Berber) areas. Although Moroccan labor migrants earlier targeted Algeria and France, the flood of Moroccan "guest workers" from the mid-1960s to the early 1970s spread widely across northwestern Europe to fill unskilled jobs in the booming manufacturing, mining, construction, and agriculture industries. Host societies and most Moroccan migrants expected this migration to be temporary, but deteriorating economic conditions in Morocco related to the 1973 oil crisis and tighter European immigration policies resulted in these stays becoming permanent.</p><p>A wave of family migration followed in the 1970s and 1980s, with a growing number of second generation Moroccans opting to become naturalized citizens of their host countries. Spain and Italy emerged as new destination countries in the mid-1980s, but their introduction of visa restrictions in the early 1990s pushed Moroccans increasingly to migrate either legally by marrying Moroccans already in Europe or illegally to work in the underground economy. Women began to make up a growing share of these labor migrants. At the same time, some higher-skilled Moroccans went to the US and Quebec, Canada.</p><p>In the mid-1990s, Morocco developed into a transit country for asylum seekers from Sub-Saharan Africa and illegal labor migrants from Sub-Saharan Africa and South Asia trying to reach Europe via southern Spain, Spain’s Canary Islands, or Spain’s North African enclaves, Ceuta and Melilla. Forcible expulsions by Moroccan and Spanish security forces have not deterred these illegal migrants or calmed Europe’s security concerns. Rabat remains unlikely to adopt an EU agreement to take back third-country nationals who have entered the EU illegally via Morocco. Thousands of other illegal migrants have chosen to stay in Morocco until they earn enough money for further travel or permanently as a "second-best" option. The launching of a regularization program in 2014 legalized the status of some migrants and granted them equal access to education, health care, and work, but xenophobia and racism remain obstacles.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 26.01% (male 4,919,266/female 4,722,463)<br>
-_15-64 years_: 65.92% (male 12,124,939/female 12,311,552)<br>
-_65 years and over_: 8.06% (2023 est.) (male 1,455,355/female 1,533,845)<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
+_0-14 years_: 25.7% (male 4,898,154/female 4,701,786)<br>
+_15-64 years_: 65.9% (male 12,236,752/female 12,410,567)<br>
+_65 years and over_: 8.4% (2024 est.) (male 1,529,357/female 1,610,969)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 52.2<br>
@@ -118,26 +118,21 @@ _potential support ratio_: 8.9 (2021 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Median age**<br>
-_total_: 30.2 years (2023 est.)<br>
-_male_: 29.8 years<br>
-_female_: 30.7 years<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
+_total_: 30.6 years (2024 est.)<br>
+_male_: 30.1 years<br>
+_female_: 31 years<br>
 
 **Population growth rate**<br>
-0.88% (2023 est.)<br>
-note: does not include data from the former Western Sahara<br>
+0.84% (2024 est.)<br>
 
 **Birth rate**<br>
-17.1 births/1,000 population (2023 est.)<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
+16.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.6 deaths/1,000 population (2023 est.)<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
+6.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1.7 migrant(s)/1,000 population (2023 est.)<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
+-1.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the highest population density is found along the Atlantic and Mediterranean coasts; a number of densely populated agglomerations are found scattered through the Atlas Mountains as shown in this population distribution map<br>
@@ -153,33 +148,29 @@ _rate of urbanization_: 1.88% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-64 years_: 0.98 male(s)/female<br>
+_15-64 years_: 0.99 male(s)/female<br>
 _65 years and over_: 0.95 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 72 deaths/100,000 live births (2020 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Infant mortality rate**<br>
-_total_: 18.7 deaths/1,000 live births (2023 est.)<br>
-_male_: 20.9 deaths/1,000 live births<br>
-_female_: 16.4 deaths/1,000 live births<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
+_total_: 18.3 deaths/1,000 live births (2024 est.)<br>
+_male_: 20.4 deaths/1,000 live births<br>
+_female_: 16 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74 years (2023 est.)<br>
-_male_: 72.3 years<br>
-_female_: 75.7 years<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
+_total population_: 74.2 years (2024 est.)<br>
+_male_: 72.5 years<br>
+_female_: 76 years<br>
 
 **Total fertility rate**<br>
-2.27 children born/woman (2023 est.)<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
+2.25 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.11 (2023 est.)<br>
+1.1 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 70.8% (2018)<br>

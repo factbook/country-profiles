@@ -75,7 +75,9 @@ earthquakes<br>
 ## People and Society
 
 **Population**<br>
-4,927,228 (2023 est.)<br>
+_total_: 4,900,961<br>
+_male_: 2,343,068<br>
+_female_: 2,557,893 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Georgian(s)<br>
@@ -95,9 +97,9 @@ Eastern Orthodox Christian (official) 83.4%, Muslim 10.7%, Armenian Apostolic Ch
 <p>Analyzing population trends in Georgia since independence in 1991 has proven difficult due to a lack of reliable demographic statistics.  Censuses were fairly accurately and regularly updated through a vital statistics system during Georgia’s period of Soviet rule, but from independence until about 2010, the system broke down as a result of institutional and economic change, social unrest, and large-scale outmigration.  The 2002 census is believed to have significantly overestimated the size of Georgia’s population, in part because respondents continued to include relatives living abroad as part of their household count.  The 2014 census indicates that Georgia’s population is decreasing and aging.  Census data shows that the median age increased from 34.5 years in 2002 to 37.7 years in 2014.  The working-age population (ages 15-65 years) was fairly high in 2002 and rose between 2005 and 2011. Nonetheless, Georgia did not reap economic benefits from this age structure, since the working-age population increase seems to have stimulated labor outmigration to Russia, Ukraine, and other neighboring countries.</p> <p>Since the Russian invasion of Ukraine in 2022, Georgia has seen its economy grow to its highest level in years due to the influx of Russian businesses, information and communications technology specialists, and money transfers.  This growth may only be temporary and conditions could still easily change depending on future events.  Meanwhile, the Russian inflow is also a source of concern, as some Georgians fear it could prompt Putin to target their country next.  In addition, Ukrainian refugees use Georgia not just as a transit country but also as a destination.  Some 25,000 Ukrainians remain in the country as of November 2022; they pose an additional strain on resources in Georgia, which has a significant population of its own displaced citizens – from the 2008 Russian occupation of Abkhazia and South Ossetia – who continue to need government support.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 18.41% (male 468,459/female 440,195)<br>
-_15-64 years_: 63.65% (male 1,543,748/female 1,598,047)<br>
-_65 years and over_: 17.95% (2023 est.) (male 348,822/female 537,119)<br>
+_0-14 years_: 20.6% (male 520,091/female 489,882)<br>
+_15-64 years_: 62.7% (male 1,500,036/female 1,572,637)<br>
+_65 years and over_: 16.7% (2024 est.) (male 322,941/female 495,374)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.4<br>
@@ -106,21 +108,21 @@ _elderly dependency ratio_: 22.6<br>
 _potential support ratio_: 4.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 38 years (2023 est.)<br>
-_male_: 35.6 years<br>
-_female_: 40.4 years<br>
+_total_: 38.3 years (2024 est.)<br>
+_male_: 35.9 years<br>
+_female_: 40.6 years<br>
 
 **Population growth rate**<br>
--0.57% (2023 est.)<br>
+-0.5% (2024 est.)<br>
 
 **Birth rate**<br>
-12.3 births/1,000 population (2023 est.)<br>
+12 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-13.6 deaths/1,000 population (2023 est.)<br>
+13.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--4.3 migrant(s)/1,000 population (2023 est.)<br>
+-3.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 settlement concentrated in the central valley, particularly in the capital city of Tbilisi in the east; smaller urban agglomerations dot the Black Sea coast, with Bat'umi being the largest<br>
@@ -136,9 +138,9 @@ _rate of urbanization_: 0.35% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-64 years_: 0.97 male(s)/female<br>
+_15-64 years_: 0.95 male(s)/female<br>
 _65 years and over_: 0.65 male(s)/female<br>
-_total population_: 0.92 male(s)/female (2023 est.)<br>
+_total population_: 0.92 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25.9 years (2019 est.)<br>
@@ -148,20 +150,20 @@ _total population_: 0.92 male(s)/female (2023 est.)<br>
 28 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.6 deaths/1,000 live births (2023 est.)<br>
-_male_: 24.3 deaths/1,000 live births<br>
-_female_: 20.8 deaths/1,000 live births<br>
+_total_: 21.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 23.6 deaths/1,000 live births<br>
+_female_: 19.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.3 years (2023 est.)<br>
-_male_: 68.3 years<br>
-_female_: 76.6 years<br>
+_total population_: 72.8 years (2024 est.)<br>
+_male_: 68.7 years<br>
+_female_: 77.2 years<br>
 
 **Total fertility rate**<br>
-1.96 children born/woman (2023 est.)<br>
+1.95 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.95 (2023 est.)<br>
+0.94 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 40.6% (2018)<br>

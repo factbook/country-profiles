@@ -62,7 +62,7 @@ landlocked; an enclave in Rome, Italy; world's smallest state; beyond the territ
 ## People and Society
 
 **Population**<br>
-1,000 (2022 est.)<br>
+_total_: 1,000 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: none<br>
@@ -78,25 +78,8 @@ _major-language sample(s)_: <br>L'Almanacco dei fatti del mondo, l'indispensabil
 **Religions**<br>
 Roman Catholic<br>
 
-**Age structure**<br>
-_0-14 years_: NA<br>
-_15-64 years_: NA<br>
-_65 years and over_: NA<br>
-
-**Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
-
 **Population growth rate**<br>
 0% (2014 est.)<br>
-
-**Birth rate**<br>
-NA<br>
-
-**Death rate**<br>
-NA<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
@@ -105,34 +88,8 @@ _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
 **Major urban areas - population**<br>
 1,000 VATICAN CITY (capital) (2018)<br>
 
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
-
-**Current health expenditure**<br>
-NA<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
-**Education expenditures**<br>
-NA<br>
-
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
+_improved: total_: total: 100% of population (2019 est.)<br>
 
 ## Environment
 

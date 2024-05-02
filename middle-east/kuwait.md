@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Kuwait has been ruled by the AL-SABAH dynasty since the 18th century. The threat of Ottoman invasion in 1899 prompted Amir Mubarak AL-SABAH to seek protection from Britain, ceding foreign and defense responsibility to Britain until 1961, when the country attained its independence. Kuwait was attacked and overrun by Iraq in August 1990. Following several weeks of aerial bombardment, a US-led UN coalition began a ground assault in February 1991 that liberated Kuwait in four days. In 1992, the Amir reconstituted the parliament that he had dissolved in 1986. Amid the 2010-11 uprisings and protests across the Arab world, stateless Arabs, known as Bidoon, staged small protests in early 2011 demanding citizenship, jobs, and other benefits available to Kuwaiti nationals. Other demographic groups, notably Islamists and Kuwaitis from tribal backgrounds, soon joined the growing protest movements, which culminated in late 2011 with the resignation of the prime minister amidst allegations of corruption. Demonstrations renewed in late 2012 in response to an amiri decree amending the electoral law that lessened the voting power of the tribal blocs. <br><br>An opposition coalition of Sunni Islamists, tribal populists, and some liberals, largely boycotted legislative elections in 2012 and 2013, which ushered in a legislature more amenable to the government's agenda. Faced with the prospect of painful subsidy cuts, oppositionists and independents actively participated in the November 2016 election, winning nearly half of the seats, but a cohesive opposition alliance largely ceased to exist with the 2016 election and the opposition became increasingly factionalized. Between 2006 and his death in 2020, the previous Kuwaiti Amir dissolved the National Assembly on seven occasions (the Constitutional Court annulled the Assembly elections in June 2012 and again in June 2013) and shuffled the cabinet over a dozen times, usually citing political stagnation and gridlock between the legislature and the government.<br><br>The current Amir, who assumed his role in 2020, launched a "National Dialogue" in September 2021 meant to resolve political gridlock. As part of the "National Dialogue," the Amir pardoned several opposition figures who had been living in exile, and they returned to Kuwait. Legislative challenges remain, and the cabinet has been reshuffled six times since late 2020. </p><br>
+<p>Kuwait has been ruled by the AL-SABAH dynasty since the 18th century. The threat of Ottoman invasion in 1899 prompted Amir Mubarak AL-SABAH to seek protection from Britain, ceding foreign and defense responsibility to Britain until 1961, when the country attained its independence. Iraq attacked and overran Kuwait in 1990. After several weeks of aerial bombardment, a US-led UN coalition began a ground assault in 1991 that liberated Kuwait in four days. In 1992, the Amir reconstituted the parliament that he had dissolved in 1986. Amid the 2010-11 uprisings and protests across the Arab world, stateless Arabs known as Bidoon staged small protests demanding citizenship, jobs, and other benefits available to Kuwaiti nationals. Other demographic groups, notably Islamists and Kuwaitis from tribal backgrounds, soon joined the growing protest movements, which culminated with the resignation of the prime minister amid allegations of corruption. Demonstrations renewed in 2012 in response to a decree amending the electoral law that lessened the voting power of the tribal blocs. <br><br>An opposition coalition of Sunni Islamists, tribal populists, and some liberals largely boycotted legislative elections in 2012 and 2013, which ushered in a legislature more amenable to the government's agenda. Faced with the prospect of painful subsidy cuts, oppositionists and independents actively participated in the 2016 election, winning nearly half the seats, but the opposition became increasingly factionalized. Between 2006 and his death in 2020, the Amir dissolved the National Assembly on seven occasions and shuffled the cabinet over a dozen times, usually citing political stagnation and gridlock between the legislature and the government. <br><br>The current Amir, who assumed his role in 2020, launched a "National Dialogue" in 2021 meant to resolve political gridlock. As part of this initiative, the Amir pardoned several opposition figures who had been living in exile, and they returned to Kuwait. Legislative challenges remain, and the cabinet has been reshuffled six times since 2020. </p><br>
 
 ## Geography
 
@@ -79,8 +79,9 @@ strategic location at head of Persian Gulf<br>
 ## People and Society
 
 **Population**<br>
-3,103,580 (2023 est.)<br>
-<strong>note:</strong> Kuwait's Public Authority for Civil Information estimates the country's total population to be 4,420,110 for 2019, with non-Kuwaitis accounting for nearly 70% of the population<br>
+_total_: 3,138,355<br>
+_male_: 1,810,542<br>
+_female_: 1,327,813 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Kuwaiti(s)<br>
@@ -98,9 +99,9 @@ Muslim (official) 74.6%, Christian 18.2%, other and unspecified 7.2% (2013 est.)
 <strong>note:</strong> data represent the total population; about 72% of the population consists of immigrants<br>
 
 **Age structure**<br>
-_0-14 years_: 23.32% (male 377,040/female 346,791)<br>
-_15-64 years_: 73.28% (male 1,371,010/female 903,309)<br>
-_65 years and over_: 3.4% (2023 est.) (male 45,351/female 60,079)<br>
+_0-14 years_: 23% (male 376,415/female 346,190)<br>
+_15-64 years_: 73.4% (male 1,386,349/female 917,465)<br>
+_65 years and over_: 3.6% (2024 est.) (male 47,778/female 64,158)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 34.4<br>
@@ -109,21 +110,21 @@ _elderly dependency ratio_: 6<br>
 _potential support ratio_: 24.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30.1 years (2023 est.)<br>
-_male_: 31 years<br>
-_female_: 28.6 years<br>
+_total_: 30.3 years (2024 est.)<br>
+_male_: 31.1 years<br>
+_female_: 28.9 years<br>
 
 **Population growth rate**<br>
-1.13% (2023 est.)<br>
+1.1% (2024 est.)<br>
 
 **Birth rate**<br>
-17.7 births/1,000 population (2023 est.)<br>
+17.5 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-2.3 deaths/1,000 population (2023 est.)<br>
+2.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--4.1 migrant(s)/1,000 population (2023 est.)<br>
+-4.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 densest settlement is along the Persian Gulf, particularly in Kuwait City and on Bubiyan Island; significant population threads extend south and west along highways that radiate from the capital, particularly in the southern half of the country<br>
@@ -138,28 +139,28 @@ _rate of urbanization_: 1.35% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.09 male(s)/female<br>
-_15-64 years_: 1.52 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 1.37 male(s)/female (2023 est.)<br>
+_15-64 years_: 1.51 male(s)/female<br>
+_65 years and over_: 0.74 male(s)/female<br>
+_total population_: 1.36 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 7 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.3 deaths/1,000 live births (2023 est.)<br>
-_male_: 7.6 deaths/1,000 live births<br>
-_female_: 7 deaths/1,000 live births<br>
+_total_: 7.2 deaths/1,000 live births (2024 est.)<br>
+_male_: 7.4 deaths/1,000 live births<br>
+_female_: 6.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.4 years (2023 est.)<br>
-_male_: 77.9 years<br>
-_female_: 80.9 years<br>
+_total population_: 79.6 years (2024 est.)<br>
+_male_: 78.1 years<br>
+_female_: 81.1 years<br>
 
 **Total fertility rate**<br>
-2.22 children born/woman (2023 est.)<br>
+2.21 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.09 (2023 est.)<br>
+1.08 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

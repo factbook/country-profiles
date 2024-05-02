@@ -75,7 +75,9 @@ the third largest island in the Mediterranean Sea (after Sicily and Sardinia); s
 ## People and Society
 
 **Population**<br>
-1,308,120 (2023 est.)<br>
+_total_: 1,320,525<br>
+_male_: 675,196<br>
+_female_: 645,329 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Cypriot(s)<br>
@@ -94,9 +96,9 @@ Eastern Orthodox Christian 89.1%, Roman Catholic 2.9%, Protestant/Anglican 2%, M
 <strong>note:</strong> data represent only the government-controlled area of Cyprus<br>
 
 **Age structure**<br>
-_0-14 years_: 15.63% (male 104,950/female 99,515)<br>
-_15-64 years_: 70.36% (male 484,087/female 436,271)<br>
-_65 years and over_: 14.01% (2023 est.) (male 79,897/female 103,400)<br>
+_0-14 years_: 15.6% (male 105,533/female 100,099)<br>
+_15-64 years_: 70% (male 486,569/female 437,651)<br>
+_65 years and over_: 14.4% (2024 est.) (male 83,094/female 107,579)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.8<br>
@@ -106,21 +108,21 @@ _potential support ratio_: 4.8 (2021 est.)<br>
 <strong>note:</strong> data represent the whole country<br>
 
 **Median age**<br>
-_total_: 39.1 years (2023 est.)<br>
-_male_: 37.9 years<br>
-_female_: 40.6 years<br>
+_total_: 39.5 years (2024 est.)<br>
+_male_: 38.2 years<br>
+_female_: 41 years<br>
 
 **Population growth rate**<br>
-1% (2023 est.)<br>
+0.95% (2024 est.)<br>
 
 **Birth rate**<br>
-10.4 births/1,000 population (2023 est.)<br>
+10.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7 deaths/1,000 population (2023 est.)<br>
+7 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-6.7 migrant(s)/1,000 population (2023 est.)<br>
+6.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population concentrated in central Nicosia and in the major cities of the south: Paphos, Limassol, and Larnaca<br>
@@ -135,9 +137,9 @@ _rate of urbanization_: 0.76% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.68 male(s)/female<br>
-_total population_: 1.05 male(s)/female (2023 est.)<br>
+_15-64 years_: 1.11 male(s)/female<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 1.05 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30 years (2020 est.)<br>
@@ -147,20 +149,20 @@ _total population_: 1.05 male(s)/female (2023 est.)<br>
 68 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 9.9 deaths/1,000 live births<br>
-_female_: 6.5 deaths/1,000 live births<br>
+_total_: 8.1 deaths/1,000 live births (2024 est.)<br>
+_male_: 9.7 deaths/1,000 live births<br>
+_female_: 6.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80 years (2023 est.)<br>
-_male_: 77.2 years<br>
-_female_: 82.9 years<br>
+_total population_: 80.2 years (2024 est.)<br>
+_male_: 77.4 years<br>
+_female_: 83.1 years<br>
 
 **Total fertility rate**<br>
-1.48 children born/woman (2023 est.)<br>
+1.49 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.72 (2023 est.)<br>
+0.73 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

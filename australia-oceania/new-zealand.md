@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Polynesian settlers may have arrived in New Zealand in the late 1200s, with widespread settlement in the mid-1300s. They called the land Aotearoa, which legend holds is the name of the canoe that Kupe, the first Polynesian in New Zealand, used to sail to the country; the name Aotearoa is now in widespread use as the local Maori name for the country. Competition for land and resources led to intermittent fighting between different Maori iwi (tribes) by the 1500s as large game became extinct. Dutch explorer Abel TASMAN was the first European to see the islands in 1642 but after an encounter with local Maori, he sailed away. British captain James COOK was the next European to arrive in New Zealand in 1769, followed by whalers, sealers, and traders. The UK only nominally claimed New Zealand and included it as part of New South Wales in Australia. Concerns about increasing lawlessness led the UK to appoint its first British Resident in New Zealand in 1832, although he had few legal powers. In 1835, some Maori iwi from the North Island declared independence as the United Tribes of New Zealand. Fearing an impending French settlement and takeover, they asked the British for protection. In 1840, the British negotiated their protection in the Treaty of Waitangi, which was eventually signed by more than 500 different Maori chiefs, although many chiefs did not or were not asked to sign. In the English-language version of the treaty, the British thought the Maori ceded their land to the UK, but translations of the treaty appeared to give the British less authority, and land tenure issues stemming from the treaty are still present and being actively negotiated in New Zealand.<br><br>The UK declared New Zealand a separate colony in 1841 and gave it limited self-government in 1852. Different traditions of authority and land use led to a series of wars from the 1840s to the 1870s fought between Europeans and various Maori iwi. Along with disease, these conflicts halved the Maori population. In the 1890s, New Zealand initially expressed interest in joining independence talks with Australia but ultimately opted against it and changed its status to an independent dominion in 1907. New Zealand provided more than 100,000 troops during each World War, many of whom fought as part of the Australia and New Zealand Army Corps (ANZAC). New Zealand reaffirmed its independence in 1947, signed the Australia, New Zealand, and US (ANZUS) Treaty, and militarily supported the US in the Korean and Vietnam Wars. Beginning in 1984, New Zealand began to adopt nuclear-free policies, contributing to a dispute with the US over naval ship visits that led the US to suspend its defense obligations to New Zealand in 1986.<br><br>In recent years, New Zealand has explored reducing some of its ties to the UK. There in an active, minority movement about changing New Zealand to a republic, and in 2015-16, a referendum on changing the New Zealand flag to remove the Union Jack failed 57% to 43%.</p><br>
+<p>Polynesians settled New Zealand between the late 1200s and the mid-1300s. They called the land Aotearoa, which legend holds is the name of the canoe that Kupe, the first Polynesian in New Zealand, used to sail to the country; the name Aotearoa is now in widespread use as the local Maori name for the country. By the 1500s, competition for land and resources led to intermittent fighting between different Maori tribes as large game became extinct. Dutch explorer Abel TASMAN was the first European to see the islands in 1642 but left after an encounter with local Maori. British Captain James COOK arrived in 1769, followed by whalers, sealers, and traders. The UK only nominally claimed New Zealand and included it as part of New South Wales in Australia. Concerns about increasing lawlessness led the UK to appoint its first British Resident in New Zealand in 1832, although he had few legal powers. In 1835, some Maori tribes from the North Island declared independence. Fearing an impending French settlement and takeover, the majority of Maori chiefs signed the Treaty of Waitangi with the British in 1840. Land tenure issues stemming from the treaty are still being actively negotiated in New Zealand.<br><br>The UK declared New Zealand a separate colony in 1841 and granted limited self-government in 1852. Different traditions of authority and land use led to a series of wars between Europeans and various Maori tribes from the 1840s to the 1870s. Along with disease, these conflicts halved the Maori population. In the 1890s, New Zealand initially expressed interest in joining independence talks with Australia but ultimately opted against it and changed its status to an independent dominion in 1907. New Zealand provided more than 100,000 troops during each World War, many of whom fought as part of the Australia and New Zealand Army Corps (ANZAC). New Zealand reaffirmed its independence in 1947, signed the Australia, New Zealand, and US (ANZUS) Treaty in 1951, and then militarily supported the US in the Korean and Vietnam Wars. Beginning in 1984, New Zealand began to adopt nuclear-free policies, contributing to a dispute with the US over naval ship visits that led the US to suspend its defense obligations to New Zealand in 1986.<br><br>In recent years, New Zealand has explored reducing some of its ties to the UK. There in an active, minority movement to change New Zealand to a republic, and in 2015-16, a referendum on changing the New Zealand flag to remove the Union Jack failed, 57% to 43%.</p><br>
 
 ## Geography
 
@@ -79,7 +79,9 @@ over three-quarters of New Zealanders, including the indigenous Maori, live on t
 ## People and Society
 
 **Population**<br>
-5,109,702 (2023 est.)<br>
+_total_: 5,161,211<br>
+_male_: 2,584,607<br>
+_female_: 2,576,604 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: New Zealander(s)<br>
@@ -98,9 +100,9 @@ Christian 37.3% (Catholic 10.1%, Anglican 6.8%, Presbyterian and Congregational 
 <strong>note:</strong> based on the 2018 census of the usually resident population; percentages add up to more than 100% because respondents were able to identify more than one religion<br>
 
 **Age structure**<br>
-_0-14 years_: 19.15% (male 503,190/female 475,527)<br>
-_15-64 years_: 64.36% (male 1,661,312/female 1,627,304)<br>
-_65 years and over_: 16.49% (2023 est.) (male 394,339/female 448,030)<br>
+_0-14 years_: 19% (male 503,120/female 475,490)<br>
+_15-64 years_: 64.2% (male 1,674,407/female 1,638,276)<br>
+_65 years and over_: 16.9% (2024 est.) (male 407,080/female 462,838)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.4<br>
@@ -109,21 +111,21 @@ _elderly dependency ratio_: 24.4<br>
 _potential support ratio_: 4.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 37.7 years (2023 est.)<br>
-_male_: 36.9 years<br>
-_female_: 38.4 years<br>
+_total_: 37.9 years (2024 est.)<br>
+_male_: 37.2 years<br>
+_female_: 38.6 years<br>
 
 **Population growth rate**<br>
-1.06% (2023 est.)<br>
+0.95% (2024 est.)<br>
 
 **Birth rate**<br>
-12.7 births/1,000 population (2023 est.)<br>
+12.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.9 deaths/1,000 population (2023 est.)<br>
+6.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-4.8 migrant(s)/1,000 population (2023 est.)<br>
+3.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 over three-quarters of New Zealanders, including the indigenous Maori, live on the North Island, primarily in urban areas<br>
@@ -140,7 +142,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.02 male(s)/female<br>
 _65 years and over_: 0.88 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.8 years<br>
@@ -149,20 +151,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 7 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.4 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.6 deaths/1,000 live births<br>
-_female_: 3.2 deaths/1,000 live births<br>
+_total_: 3.3 deaths/1,000 live births (2024 est.)<br>
+_male_: 3.5 deaths/1,000 live births<br>
+_female_: 3.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.7 years (2023 est.)<br>
-_male_: 81 years<br>
-_female_: 84.6 years<br>
+_total population_: 82.9 years (2024 est.)<br>
+_male_: 81.2 years<br>
+_female_: 84.8 years<br>
 
 **Total fertility rate**<br>
-1.86 children born/woman (2023 est.)<br>
+1.85 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.9 (2023 est.)<br>
+0.9 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 79.9% (2014/15)<br>

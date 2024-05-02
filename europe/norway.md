@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Two centuries of Viking raids into Europe tapered off following the adoption of Christianity by King Olav TRYGGVASON in 994; conversion of the Norwegian kingdom occurred over the next several decades. In 1397, Norway was absorbed into a union with Denmark that lasted more than four centuries. In 1814, Norwegians resisted the cession of their country to Sweden and adopted a new constitution. Sweden then invaded Norway but agreed to let Norway keep its constitution in return for accepting the union under a Swedish king. Rising nationalism throughout the 19th century led to a 1905 referendum granting Norway independence. Norway remained neutral in World War I and proclaimed its neutrality at the outset of World War II but was nonetheless occupied for five years by Nazi Germany (1940-45) and suffered heavy losses to its shipping fleet. In 1949, Norway abandoned neutrality and became a member of NATO. Discovery of oil and gas in adjacent waters in the late 1960s boosted Norway's economic fortunes. In referenda held in 1972 and 1994, Norway rejected joining the EU. Key domestic issues include immigration and integration of ethnic minorities, maintaining the country's extensive social safety net with an aging population, and preserving economic competitiveness.<br>
+Two centuries of Viking raids into Europe tapered off after King Olav TRYGGVASON adopted Christianity in 994; conversion of the Norwegian kingdom occurred over the next several decades. In 1397, Norway was absorbed into a union with Denmark that lasted more than four centuries. In 1814, Norwegians resisted the cession of their country to Sweden and adopted a new constitution. Sweden then invaded Norway but agreed to let Norway keep its constitution in return for accepting the union under a Swedish king. Rising nationalism throughout the 19th century led to a 1905 referendum granting Norway independence. Norway remained neutral in World War I and proclaimed its neutrality at the outset of World War II, but Nazi Germany nonetheless occupied the country for five years (1940-45). In 1949, Norway abandoned neutrality and became a member of NATO. Discovery of oil and gas in adjacent waters in the late 1960s boosted Norway's economic fortunes. In referenda held in 1972 and 1994, Norway rejected joining the EU. Key domestic issues include immigration and integration of ethnic minorities, maintaining the country's extensive social safety net with an aging population, and preserving economic competitiveness.<br>
 
 ## Geography
 
@@ -76,7 +76,9 @@ about two-thirds mountains; some 50,000 islands off its much-indented coastline;
 ## People and Society
 
 **Population**<br>
-5,597,924 (2023 est.)<br>
+_total_: 5,509,733<br>
+_male_: 2,780,972<br>
+_female_: 2,728,761 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Norwegian(s)<br>
@@ -96,9 +98,9 @@ Church of Norway (Evangelical Lutheran - official) 67.5%, Muslim 3.1%, Roman Cat
 <p>Norway is a trendsetter country in gender equality, especially in workforce participation.  Of particular value to families are the child and parental leave benefits.  This supplement is a monthly allowance paid to families from a month after birth until the child reaches 18 to defray some of the costs of raising children.  This is helpful to families with young children where the mother works limited hours.  The parental leave benefit is available to qualified mothers in a child’s first year, enabling parents to share at-home childcare for up to 49 weeks at full salary (or 59 weeks with 80% of their salary).  Afterward, parents can put their child in high-quality subsidized daycare or receive funding toward private child care or as compensation for one parent staying home to care for their child.</p> <p>Norway was originally a country of emigration with almost 850,000 Norwegians going abroad between 1825 and 1945.  At the turn of the 20th century, most Norwegians emigrated temporarily to work in the US.  Immigrants to Norway in the 1960s were mostly from neighboring Nordic countries, with whom they shared a common labor market.  By the end of the 1960s, with a strong economy and population shortage, Norway admitted guest workers from Pakistan, Morocco, then Yugoslavia, and Turkey.  The labor migrants were expected to be temporary, but many settled in Norway.  Eventually, Norway imposed immigration restrictions and the majority of migrants came in as refugees or for family reunification.  Beginning in the 1990s, Norway’s migration policy aimed at achieving integration – including language instruction and integration into the job market – as well as combatting racism and xenophobia.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 17.83% (male 510,835/female 487,126)<br>
-_15-64 years_: 64% (male 1,842,794/female 1,739,688)<br>
-_65 years and over_: 18.18% (2023 est.) (male 474,878/female 542,603)<br>
+_0-14 years_: 16.3% (male 461,979/female 438,243)<br>
+_15-64 years_: 64.5% (male 1,820,692/female 1,734,818)<br>
+_65 years and over_: 19.1% (2024 est.) (male 498,301/female 555,700)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54<br>
@@ -108,21 +110,21 @@ _potential support ratio_: 3.6 (2021 est.)<br>
 <strong>note:</strong> data include Svalbard and Jan Mayen Islands<br>
 
 **Median age**<br>
-_total_: 40.6 years (2023 est.)<br>
-_male_: 39.9 years<br>
-_female_: 41.4 years<br>
+_total_: 40.8 years (2024 est.)<br>
+_male_: 40.1 years<br>
+_female_: 41.5 years<br>
 
 **Population growth rate**<br>
-0.6% (2023 est.)<br>
+0.59% (2024 est.)<br>
 
 **Birth rate**<br>
-10.4 births/1,000 population (2023 est.)<br>
+10.4 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8.2 deaths/1,000 population (2023 est.)<br>
+8.4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-3.8 migrant(s)/1,000 population (2023 est.)<br>
+3.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most Norwegians live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated<br>
@@ -138,9 +140,9 @@ _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-64 years_: 1.06 male(s)/female<br>
-_65 years and over_: 0.88 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2023 est.)<br>
+_15-64 years_: 1.05 male(s)/female<br>
+_65 years and over_: 0.9 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.8 years (2020 est.)<br>
@@ -150,20 +152,20 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 2 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.8 deaths/1,000 live births (2023 est.)<br>
+_total_: 1.8 deaths/1,000 live births (2024 est.)<br>
 _male_: 2.1 deaths/1,000 live births<br>
 _female_: 1.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83 years (2023 est.)<br>
-_male_: 81.4 years<br>
-_female_: 84.7 years<br>
+_total population_: 82.9 years (2024 est.)<br>
+_male_: 81.3 years<br>
+_female_: 84.6 years<br>
 
 **Total fertility rate**<br>
-1.57 children born/woman (2023 est.)<br>
+1.57 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.76 (2023 est.)<br>
+0.77 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

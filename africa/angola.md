@@ -83,7 +83,9 @@ the province of Cabinda is an exclave, separated from the rest of the country by
 ## People and Society
 
 **Population**<br>
-35,981,281 (2023 est.)<br>
+_total_: 37,202,061<br>
+_male_: 18,196,058<br>
+_female_: 19,006,003 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Angolan(s)<br>
@@ -102,9 +104,9 @@ Roman Catholic 41.1%, Protestant 38.1%, other 8.6%, none 12.3% (2014 est.)<br>
 <p>More than two decades after the end of Angola's 27-year civil war, the country still faces a variety of socioeconomic problems, including poverty, high maternal and child mortality, and illiteracy. Despite the country's rapid post-war economic growth based on oil production, about 30 percent of Angolans live below the poverty line and unemployment is widespread, especially among the large young-adult population. Only about 70% of the population is literate, and the rate drops to around 60% for women. The youthful population - about 48% are under the age of 15 as of 2022 - is expected to continue growing rapidly with a fertility rate of more than 5 children per woman and a low rate of contraceptive use. Fewer than half of women deliver their babies with the assistance of trained health care personnel, which contributes to Angola's high maternal mortality rate.</p> <p>Of the estimated 550,000 Angolans who fled their homeland during its civil war, most have returned home since 2002. In 2012, the UN assessed that conditions in Angola had been stable for several years and invoked a cessation of refugee status for Angolans. Following the cessation clause, some of those still in exile returned home voluntarily through UN repatriation programs, and others integrated into host countries.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 47.18% (male 8,503,242/female 8,473,889)<br>
-_15-64 years_: 50.49% (male 8,730,015/female 9,435,581)<br>
-_65 years and over_: 2.33% (2023 est.) (male 350,059/female 488,495)<br>
+_0-14 years_: 46.9% (male 8,752,419/female 8,701,422)<br>
+_15-64 years_: 50.7% (male 9,076,080/female 9,795,035)<br>
+_65 years and over_: 2.4% (2024 est.) (male 367,559/female 509,546)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 91.5<br>
@@ -113,21 +115,21 @@ _elderly dependency ratio_: 5<br>
 _potential support ratio_: 20.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 16.2 years (2023 est.)<br>
-_male_: 15.7 years<br>
-_female_: 16.7 years<br>
+_total_: 16.3 years (2024 est.)<br>
+_male_: 15.8 years<br>
+_female_: 16.8 years<br>
 
 **Population growth rate**<br>
-3.34% (2023 est.)<br>
+3.33% (2024 est.)<br>
 
 **Birth rate**<br>
-41.4 births/1,000 population (2023 est.)<br>
+41.1 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.8 deaths/1,000 population (2023 est.)<br>
+7.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.2 migrant(s)/1,000 population (2023 est.)<br>
+-0.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda as shown in this population distribution map<br>
@@ -141,10 +143,10 @@ _rate of urbanization_: 4.04% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1 male(s)/female<br>
+_0-14 years_: 1.01 male(s)/female<br>
 _15-64 years_: 0.93 male(s)/female<br>
 _65 years and over_: 0.72 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2023 est.)<br>
+_total population_: 0.96 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.4 years (2015/16 est.)<br>
@@ -154,20 +156,20 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 222 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 57.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 62.4 deaths/1,000 live births<br>
-_female_: 51.9 deaths/1,000 live births<br>
+_total_: 55.6 deaths/1,000 live births (2024 est.)<br>
+_male_: 60.7 deaths/1,000 live births<br>
+_female_: 50.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.5 years (2023 est.)<br>
-_male_: 60.4 years<br>
-_female_: 64.7 years<br>
+_total population_: 62.9 years (2024 est.)<br>
+_male_: 60.8 years<br>
+_female_: 65.1 years<br>
 
 **Total fertility rate**<br>
-5.76 children born/woman (2023 est.)<br>
+5.7 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-2.84 (2023 est.)<br>
+2.81 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 13.7% (2015/16)<br>
@@ -344,7 +346,7 @@ _election results_: Joao Manuel Goncalves LOURENCO (MPLA) elected president by t
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (220 seats; members directly elected in a single national constituency and in multi-seat constituencies by closed list proportional representation vote; members serve 5-year terms)<br>
 _elections_: last held on 24 August 2022 (next to be held in 2027)<br>
-_election results_: percent of vote by party - MPLA 51.1%, UNITA 43.9%, FNLA 1.1%, PHA 1%, PRS 1.1%, other 1.7%; seats by party - MPLA 124, UNITA 90, FNLA 2, PHA 2, PRS 2; composition as of March 2024 - men 135, women 85, percentage women 38.6%<br>
+_election results_: percent of vote by party - MPLA 51.1%, UNITA 43.9%, FNLA 1.1%, PHA 1%, PRS 1.1%, other 1.7%; seats by party - MPLA 124, UNITA 90, FNLA 2, PHA 2, PRS 2; composition- men 135, women 85, percentage women 38.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Tribunal Supremo (consists of the court president, vice president, and a minimum of 16 judges); Constitutional Court or Tribunal Constitucional (consists of 11 judges)<br>
@@ -717,10 +719,10 @@ the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed b
 ## Space
 
 **Space agency/agencies**<br>
-National Space Program Office (Gabinete de Gest&atilde;o do Programa Espacial Nacional, GGPEN; established 2013) (2023)<br>
+National Space Program Office (Gabinete de Gest&atilde;o do Programa Espacial Nacional, GGPEN; established 2013) (2024)<br>
 
 **Space program overview**<br>
-has a national space strategy with a focus on capacity building, developing space infrastructure, investing in domestic space sector, supporting socioeconomic growth, and establishing cooperation agreements with foreign technical and scientific institutions in the space industry; contracts with foreign companies to build and launch satellites; operates satellites; cooperates with a variety of foreign space agencies and industries, including those of France and Russia (2023)<br>
+has a national space strategy with a focus on capacity building, developing space infrastructure, investing in domestic space sector, supporting socioeconomic growth, and establishing cooperation agreements with foreign technical and scientific institutions in the space industry; contracts with foreign companies to build and launch satellites; operates satellites; cooperates with a variety of foreign space agencies and industries, including those of France, Russia, and the US (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

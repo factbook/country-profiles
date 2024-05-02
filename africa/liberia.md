@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>With 28 ethnic groups and languages, Liberia is one of the most ethnically diverse countries in the world. For hundreds of years, the Mali and Songhai Empires claimed most of Liberia. Beginning in the 15th century, European traders began establishing outposts along the Liberian coast. Unlike its neighbors, however, Liberia did not fall under European colonial rule. In the early 19th century, the US began sending freed enslaved people and other people of color to Liberia to establish settlements. In 1847, these settlers declared independence from the US, writing their own constitution and establishing Africa’s first republic.</p> <p>Early in Liberia’s history, tensions arose between the Americo-Liberian settlers and the indigenous population. In 1980, Samuel DOE, who was from the indigenous population, led a military coup and ushered in a decade of authoritarian rule. In December 1989, Charles TAYLOR launched a rebellion against DOE's regime that led to a prolonged civil war in which DOE was killed. A period of relative peace in 1997 permitted an election that brought TAYLOR to power. In 2000, fighting resumed. An August 2003 peace agreement ended the war and prompted President TAYLOR’s resignation. TAYLOR was later convicted by the UN-backed Special Court for Sierra Leone in The Hague for his involvement in Sierra Leone's civil war. In late 2005, President Ellen JOHNSON SIRLEAF became president after two years of transitional governments; she was the first female head of state in Africa. In 2011, JOHNSON SIRLEAF won reelection but struggled to rebuild Liberia's economy, particularly following the 2014-15 Ebola epidemic, and to reconcile a nation still recovering from 14 years of fighting. In 2017, former soccer star George WEAH won the presidential runoff election, marking the first successful transfer of power from one democratically elected government to another since the end of Liberia’s civil wars. Like his predecessor, WEAH struggled to improve the country’s economy. In 2023, former Vice President Joseph BOAKAI was elected president, edging out WEAH by a thin margin, the first time since 1927 that an incumbent was not re-elected after one term. </p> <p> </p><br>
+<p>With 28 ethnic groups and languages, Liberia is one of the most ethnically diverse countries in the world. For hundreds of years, the Mali and Songhai Empires claimed most of Liberia. Beginning in the 15th century, European traders began establishing outposts along the Liberian coast. Unlike its neighbors, however, Liberia did not fall under European colonial rule. In the early 19th century, the US began sending freed enslaved people and other people of color to Liberia to establish settlements. In 1847, these settlers declared independence from the US, writing their own constitution and establishing Africa’s first republic.</p> <p>Early in Liberia’s history, tensions arose between the Americo-Liberian settlers and the indigenous population. In 1980, Samuel DOE, who was from the indigenous population, led a military coup and ushered in a decade of authoritarian rule. In 1989, Charles TAYLOR launched a rebellion that led to a prolonged civil war in which DOE was killed. A period of relative peace in 1997 permitted an election that brought TAYLOR to power. In 2000, fighting resumed. A 2003 peace agreement ended the war and prompted TAYLOR’s resignation. He was later convicted by the UN-backed Special Court for Sierra Leone in The Hague for his involvement in Sierra Leone's civil war. <br><br>In 2005, Ellen JOHNSON SIRLEAF became president after two years of transitional governments; she was the first female head of state in Africa. In 2011, JOHNSON SIRLEAF won reelection but struggled to rebuild Liberia's economy -- particularly after the 2014-15 Ebola epidemic -- and to reconcile a nation still recovering from 14 years of fighting. In 2017, former soccer star George WEAH won the presidential runoff election, marking the first successful transfer of power from one democratically elected government to another since the end of Liberia’s civil wars. Like his predecessor, WEAH struggled to improve the country’s economy. In 2023, former Vice President Joseph BOAKAI was elected president, edging out WEAH by a thin margin, the first time since 1927 that an incumbent was not re-elected after one term. </p> <p> </p><br>
 
 ## Geography
 
@@ -76,7 +76,9 @@ facing the Atlantic Ocean, the coastline is characterized by lagoons, mangrove s
 ## People and Society
 
 **Population**<br>
-5,506,280 (2023 est.)<br>
+_total_: 5,437,249<br>
+_male_: 2,711,324<br>
+_female_: 2,725,925 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Liberian(s)<br>
@@ -95,9 +97,9 @@ Christian 84.9%, Muslim 12%, Traditional 0.5%, other 0.1%, none 2.6% (2022 est.)
 <p>Liberia’s high fertility rate of nearly 5 children per woman and large youth cohort – more than 60% of the population is under the age of 25 as of 2020 – will sustain a high dependency ratio for many years to come. Significant progress has been made in preventing child deaths, despite a lack of health care workers and infrastructure. Infant and child mortality have dropped nearly 70% since 1990; the annual reduction rate of about 5.4% is the highest in Africa.</p> <p>Nevertheless, Liberia’s high maternal mortality rate remains among the world’s worst; it reflects a high unmet need for family planning services, frequency of early childbearing, lack of quality obstetric care, high adolescent fertility, and a low proportion of births attended by a medical professional. Female mortality is also increased by the prevalence of female genital cutting (FGC), which is practiced by 10 of Liberia’s 16 tribes and affects more than two-thirds of women and girls. FGC is an initiation ritual performed in rural bush schools, which teach traditional beliefs on marriage and motherhood and are an obstacle to formal classroom education for Liberian girls.</p> <p>Liberia has been both a source and a destination for refugees. During Liberia’s 14-year civil war (1989-2003), more than 250,000 people became refugees and another half million were internally displaced. Between 2004 and the cessation of refugee status for Liberians in June 2012, the UNHCR helped more than 155,000 Liberians to voluntarily repatriate, while others returned home on their own. Some Liberian refugees spent more than two decades living in other West African countries. Between 2011 and 2022, more than 300,000 Ivoirian refugees in Liberia have been repatriated; as of year-end 2022, less than 2,300 Ivoirian refugees were still living in Liberia.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 42.69% (male 1,187,795/female 1,162,699)<br>
-_15-64 years_: 54.5% (male 1,486,582/female 1,514,163)<br>
-_65 years and over_: 2.82% (2023 est.) (male 75,258/female 79,783)<br>
+_0-14 years_: 38.9% (male 1,064,100/female 1,052,556)<br>
+_15-64 years_: 57.9% (male 1,566,263/female 1,579,835)<br>
+_65 years and over_: 3.2% (2024 est.) (male 80,961/female 93,534)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 79.7<br>
@@ -106,21 +108,21 @@ _elderly dependency ratio_: 6<br>
 _potential support ratio_: 16.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.7 years (2023 est.)<br>
-_male_: 19.6 years<br>
-_female_: 19.9 years<br>
+_total_: 19.9 years (2024 est.)<br>
+_male_: 19.8 years<br>
+_female_: 20 years<br>
 
 **Population growth rate**<br>
-2.37% (2023 est.)<br>
+2.32% (2024 est.)<br>
 
 **Birth rate**<br>
-33 births/1,000 population (2023 est.)<br>
+32.4 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8.5 deaths/1,000 population (2023 est.)<br>
+8.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.8 migrant(s)/1,000 population (2023 est.)<br>
+-0.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 more than half of the population lives in urban areas, with approximately one-third living within an 80-km radius of Monrovia as shown in this population distribution map<br>
@@ -134,10 +136,10 @@ _rate of urbanization_: 3.41% annual rate of change (2015-20 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.02 male(s)/female<br>
-_15-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.94 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_0-14 years_: 1.01 male(s)/female<br>
+_15-64 years_: 0.99 male(s)/female<br>
+_65 years and over_: 0.87 male(s)/female<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.1 years (2019/20 est.)<br>
@@ -147,20 +149,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 652 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 56.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 61.5 deaths/1,000 live births<br>
-_female_: 50.6 deaths/1,000 live births<br>
+_total_: 55.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 61 deaths/1,000 live births<br>
+_female_: 50.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 61.3 years (2023 est.)<br>
-_male_: 59.7 years<br>
-_female_: 63 years<br>
+_total population_: 61.6 years (2024 est.)<br>
+_male_: 59.9 years<br>
+_female_: 63.3 years<br>
 
 **Total fertility rate**<br>
-4.03 children born/woman (2023 est.)<br>
+3.93 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.98 (2023 est.)<br>
+1.94 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 24.9% (2019/20)<br>
@@ -333,7 +335,7 @@ _election results_: <em>2023:</em> Joseph BOAKAI elected president in second rou
 **Legislative branch**<br>
 _description_: bicameral National Assembly consists of:<br>The Liberian Senate (30 seats; members directly elected in 15 2-seat districts by simple majority vote to serve 9-year staggered terms; each district elects 1 senator and elects the second senator 3 years later, followed by a 6-year hiatus, after which the first Senate seat is up for election)<br>House of Representatives (73 seats; members directly elected in single-seat districts by simple majority vote to serve 6-year terms; eligible for a second term)<br>
 _elections_: Senate - general election held on 10 October 2023 with half the seats up for election (next to be held in October 2029)<br>House of Representatives - last held on 10 October 2023 (next to be held in October 2029) <p> </p><br>
-_election results_: Senate - percent of vote by party/coalition - CPP 43.3%, CDC 16.6%, PUP 6.6%, MDR 3.3%, NDC 3.3%, NPP 3.3%, independent 23.3%; seats by party/coalition - CPP 13, CDC 5, PUP 2, MDR 1, NDC 1, NPP 1, independent 7; composition as of February 2024 - men 27, women 3, percentage women 10%<br><br>House of Representatives - percent of vote by party/coalition - CDC 28.7%, UP 27.3%, PUP 6.8%, LP 4.1%, ALP 4.1%, MDR 4.1%, MEE 1.3%, LTP 1.3%, UPP 1.3%, VCP 1.3%, LPP 1.3%, LNU 1.3%, independent 17.8%; seats by party/coalition - CDC 21, UP 20, PUP 5, LP 3, ALP 3, MDR 3, MOVEE 1, LTP 1, UPP 1, VCP 1, LPP 1, LNU 1, independent 13; composition as of Friday 2024 - men 65, women 8, percentage women 9.5%; total Parliament percentage women 10.7%<br>
+_election results_: Senate - percent of vote by party/coalition - CDC 34.3%, UP 12.0%, MDR 7.1%, LRP 1.5%, independent 24.3%; seats by party/coalition - CDC 6, UP 1, MDR 1, LRP 1, independent 6; composition- men 27, women 3, percentage women 10%<br><br>House of Representatives - percent of vote by party/coalition - CDC 22.1%, UP 13.1%, CPP 7.6%, MDR 2.8%, PUP 4.3%, ALP 2.5%, LINU 2.3%, MPC 1.0%, NDC 1.0%, VOLT 0.8%, LRP 0.8%, Independent 25.7%; seats by party/coalition - CDC 25, UP 11, CPP 6, MDR 4, PUP 2, ALP 1, LINU 1, MPC 1, NDC 1, VOLT 1 LRP 1, independent 19; composition- men 65, women 8, percentage women 11%; total Parliament percentage women 10.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of a chief justice and 4 associate justices); note - the Supreme Court has jurisdiction for all constitutional cases<br>
@@ -341,7 +343,7 @@ _judge selection and term of office_: chief justice and associate justices appoi
 _subordinate courts_: judicial circuit courts; special courts, including criminal, civil, labor, traffic; magistrate and traditional or customary courts<br>
 
 **Political parties and leaders**<br>
-All Liberian Party or ALP [Benoni UREY]<br>Alliance for Peace and Democracy or APD (vacant)<br>Alternative National Congress or ANC [Alexander B. CUMMINGS, JR]<br>Coalition for Democratic Change [George WEAH] (includes CDC, NPP, and LPDP)<br>Collaborating Political Parties or CPP [collective leadership] (coalition includes ANC, LP; CPP dissolved in April 2024)<br>Congress for Democratic Change or CDC [George WEAH]<br>Liberia Destiny Party or LDP [Nathaniel BARNES]<br>Liberia National Union or LINU [Dr. Clarence K. MONIBA]<br>Liberia Transformation Party or LTP [Kennedy SANDY]<br>Liberian People Democratic Party or LPDP [Alex J. TYLER]<br>Liberian People's Party or LPP [Henry FAHNBULLEH, JR] <br>Liberty Party or LP [Charles BRUMSKINE]<br>Movement for Democracy and Reconstruction or MDR [Prince Y. JOHNSON]<br>Movement for Economic Empowerment [Joseph JONES]<br>Movement for Progressive Change or MPC [Simeon FREEMAN]<br>National Democratic Coalition or NDC [Dew MAYSON]<br>National Democratic Party of Liberia or NDPL [D. Nyandeh SIEH]<br>National Patriotic Party or NPP [Jewel HOWARD TAYLOR]<br>National Reformist Party or NRP [Maximillian T. W. DIABE]<br>National Union for Democratic Progress or NUDP [Victor BARNEY]<br>People's Unification Party or PUP [Isobe GBORKORKOLLIE]<br>Unity Party or UP [Josephe BOAKAI]<br>United People's Party [MacDonald WENTO]<br>Victory for Change Party or VCP [Marcus R. JONES]<br>
+All Liberian Party or ALP [Benoni UREY]<br>Alliance for Peace and Democracy or APD (vacant)<br>Alternative National Congress or ANC [Alexander B. CUMMINGS, JR]<br>Coalition for Democratic Change [George WEAH] (includes CDC, NPP, and LPDP)<br>Collaborating Political Parties or CPP [collective leadership] (coalition includes ANC, LP; CPP dissolved in April 2024)<br>Congress for Democratic Change or CDC [George WEAH]<br>Liberia Destiny Party or LDP [Nathaniel BARNES]<br>Liberia National Union or LINU [Dr. Clarence K. MONIBA]<br>Liberia Transformation Party or LTP [Kennedy SANDY]<br>Liberian People Democratic Party or LPDP [Alex J. TYLER]<br>Liberian People's Party or LPP [Henry FAHNBULLEH, JR] <br>Liberian Restoration Party or LRP [Gabriel SALEE]<br>Liberty Party or LP [Charles BRUMSKINE]<br>Movement for Democracy and Reconstruction or MDR [Prince Y. JOHNSON]<br>Movement for Economic Empowerment [Joseph JONES]<br>Movement for Progressive Change or MPC [Simeon FREEMAN]<br>National Democratic Coalition or NDC [Dew MAYSON]<br>National Democratic Party of Liberia or NDPL [D. Nyandeh SIEH]<br>National Patriotic Party or NPP [Jewel HOWARD TAYLOR]<br>National Reformist Party or NRP [Maximillian T. W. DIABE]<br>National Union for Democratic Progress or NUDP [Victor BARNEY]<br>People's Unification Party or PUP [Isobe GBORKORKOLLIE]<br>Unity Party or UP [Josephe BOAKAI]<br>United People's Party [MacDonald WENTO]<br>Victory for Change Party or VCP [Marcus R. JONES]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

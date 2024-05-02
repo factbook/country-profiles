@@ -85,7 +85,9 @@ subject to floods, rockslides, mudslides; periodic droughts<br>
 ## People and Society
 
 **Population**<br>
-30,518,260 (2023 est.)<br>
+_total_: 31,250,306<br>
+_male_: 15,555,451<br>
+_female_: 15,694,855 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Venezuelan(s)<br>
@@ -102,12 +104,12 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 Roman Catholic 48.1%, Protestant 31.6% (Evangelical 31.4%, Adventist 0.2%), Jehovah's Witness 1.4%, African American/umbanda 0.7%, other 0.1%, believer 3.5%, agnostic 0.1%, atheist, 0.4%, none 13.6%, unspecified 0.6% (2023 est.)<br>
 
 **Demographic profile**<br>
-<p>Venezuela’s ongoing socio-economic, political, and human rights crises have resulted in widespread poverty and food insecurity and have devastated the country’s healthcare system.  According to a 2018 national hospital survey, many hospitals were unable to provide basic services, and 20% of operating rooms and intensive care units were non-functional.  Hospitals reported shortages in water (79%), medicines (88%), and surgical supplies (79%).  The poor conditions in healthcare facilities have motivated many doctors and other health professionals to emigrate, resulting in shortages of specialists, particularly in emergency care.  The scarcity of medicines, vaccines, medical supplies, and mosquito controls is leading to a rise in infectious diseases.  Tuberculosis cases jumped by 68% between 2014 and 2017, and malaria rates had the largest rise in the world from 2016 to 2017 at 69%.  Diptheria, which had been eradicated in the country in 1999, re-emerged in 2016, and new cases have surfaced in 2023.  Infectious disease outbreaks, such as measles and malaria, have crossed into neighboring countries.  Infant mortality, which had been decreasing since the 1950s, has been on the rise since 2009.  Between 2015 and 2016, infant deaths increased 30%, while maternal mortality increased 65%.  </p> <p>Since 2015, more than 7.32 million Venezuelan migrants, refugees, and asylum seekers have been reported by host governments, with approximately 84% relocatingin Latin America and the Caribbean, as of May 2023.  Colombia has been the largest recipient, accommodating almost 2.5 million as of February 2022, followed by Peru and Ecuador.  As of June 2022, almost 212,000 of the refugees and close to 1.04 million of the fasylum seekers were recognized by national authorities.  An additional 4.3 million Venezuelans have been granted residence permits or other types of regular stay arrangements, as of March 2023.  The initial wave of migrants were highly educated professionals.  These were followed by university-educated young people.  As the economy collapsed in 2017-2018, Venezuelan migrants have been less-educated and from low-income households.</p><br>
+<p>Venezuela’s ongoing socio-economic, political, and human rights crises have resulted in widespread poverty and food insecurity and have devastated the country’s healthcare system.  According to a 2018 national hospital survey, many hospitals were unable to provide basic services, and 20% of operating rooms and intensive care units were non-functional.  Hospitals reported shortages in water (79%), medicines (88%), and surgical supplies (79%).  The poor conditions in healthcare facilities have motivated many doctors and other health professionals to emigrate, resulting in shortages of specialists, particularly in emergency care.  The scarcity of medicines, vaccines, medical supplies, and mosquito controls is leading to a rise in infectious diseases.  Tuberculosis cases jumped by 68% between 2014 and 2017, and malaria rates had the largest rise in the world from 2016 to 2017 at 69%.  Diptheria, which had been eradicated in the country in 1999, re-emerged in 2016, and new cases have surfaced in 2023.  Infectious disease outbreaks, such as measles and malaria, have crossed into neighboring countries.  Infant mortality, which had been decreasing since the 1950s, has been on the rise since 2009.  Between 2015 and 2016, infant deaths increased 30%, while maternal mortality increased 65%.  </p> <p>As of November 2023, more than 7.7 million Venezuelan migrants, refugees, and asylum seekers had been reported by host governments, with approximately 85% relocating in Latin America and the Caribbean.  Colombia has been the largest recipient, accommodating almost 2.5 million as of February 2022, followed by Peru and Ecuador.  As of June 2022, almost 212,000 of the refugees and close to 1.04 million of the asylum seekers were recognized by national authorities.  An additional 4.3 million Venezuelans have been granted residence permits or other types of regular stay arrangements, as of March 2023.  The initial wave of migrants were highly educated professionals.  These were followed by university-educated young people.  As the economy collapsed in 2017-2018, Venezuelan migrants have been less-educated and from low-income households.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 25.13% (male 3,920,774/female 3,748,241)<br>
-_15-64 years_: 65.98% (male 10,029,127/female 10,105,332)<br>
-_65 years and over_: 8.9% (2023 est.) (male 1,239,205/female 1,475,581)<br>
+_0-14 years_: 25% (male 3,987,361/female 3,811,307)<br>
+_15-64 years_: 65.9% (male 10,264,353/female 10,330,376)<br>
+_65 years and over_: 9.1% (2024 est.) (male 1,303,737/female 1,553,172)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.5<br>
@@ -116,21 +118,21 @@ _elderly dependency ratio_: 13.1<br>
 _potential support ratio_: 7.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30.8 years (2023 est.)<br>
-_male_: 30.1 years<br>
-_female_: 31.5 years<br>
+_total_: 31 years (2024 est.)<br>
+_male_: 30.3 years<br>
+_female_: 31.7 years<br>
 
 **Population growth rate**<br>
-2.4% (2023 est.)<br>
+2.34% (2024 est.)<br>
 
 **Birth rate**<br>
-17 births/1,000 population (2023 est.)<br>
+16.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.6 deaths/1,000 population (2023 est.)<br>
+6.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-13.6 migrant(s)/1,000 population (2023 est.)<br>
+13.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in the northern and western highlands along an eastern spur at the northern end of the Andes, an area that includes the capital of Caracas<br>
@@ -147,26 +149,26 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 0.99 male(s)/female<br>
 _65 years and over_: 0.84 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 259 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 15.7 deaths/1,000 live births<br>
-_female_: 12.5 deaths/1,000 live births<br>
+_total_: 13.9 deaths/1,000 live births (2024 est.)<br>
+_male_: 15.4 deaths/1,000 live births<br>
+_female_: 12.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.3 years (2023 est.)<br>
-_male_: 71.2 years<br>
-_female_: 77.5 years<br>
+_total population_: 74.5 years (2024 est.)<br>
+_male_: 71.5 years<br>
+_female_: 77.7 years<br>
 
 **Total fertility rate**<br>
-2.2 children born/woman (2023 est.)<br>
+2.18 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.07 (2023 est.)<br>
+1.06 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 75% (2010)<br>
@@ -712,7 +714,7 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia-People's 
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 39,185 (Colombia) (mid-year 2022)<br>
-<strong>note: </strong>As of May 2023, approximately 7.32 Venezuelan refugees and migrants reside worldwide with 83.9% in Latin America and the Caribbean<br>
+<strong>note: </strong>As of November 2023, approximately 7.7 million Venezuelan refugees and migrants were residing worldwide with 84.7% in Latin America and the Caribbean<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 &mdash; Venezuela does not fully meet the minimum standards for the elimination of trafficking and is not making any efforts to do so, therefore, Venezuela remained on Tier 3; the Maduro regime (which is not recognized by the US) took some steps to address trafficking, arresting some traffickers and identifying some victims; however, the regime did not report assisting victims or prosecuting or convicting traffickers; the Maduro regime continued to provide support and a permissive environment for non-state armed groups and other armed groups that forcibly recruited and used children for armed conflict or forced criminality; the armed groups also engaged in sex trafficking and forced labor while operating with impunity; the regime did not make sufficient efforts to curb the armed groups&rsquo; forced recruitment and exploitation of children (2023)<br>

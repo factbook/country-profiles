@@ -81,7 +81,9 @@ strategic location near Turkish Straits; controls key land routes from Europe to
 ## People and Society
 
 **Population**<br>
-6,827,736 (2023 est.)<br>
+_total_: 6,782,659<br>
+_male_: 3,303,491<br>
+_female_: 3,479,168 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Bulgarian(s)<br>
@@ -99,9 +101,9 @@ _major-language sample(s)_: <br>Светoвен Алманах, незамени
 Christian 64.7%, Muslim 9.8%, other 0.1%, none 4.7%, unspecified 20.7% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 14.03% (male 492,147/female 465,612)<br>
-_15-64 years_: 65.17% (male 2,263,479/female 2,185,969)<br>
-_65 years and over_: 20.81% (2023 est.) (male 570,425/female 850,104)<br>
+_0-14 years_: 13.8% (male 479,586/female 453,423)<br>
+_15-64 years_: 65.2% (male 2,250,962/female 2,171,279)<br>
+_65 years and over_: 21% (2024 est.) (male 572,943/female 854,466)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.3<br>
@@ -110,21 +112,21 @@ _elderly dependency ratio_: 35.3<br>
 _potential support ratio_: 2.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 44.7 years (2023 est.)<br>
-_male_: 43 years<br>
-_female_: 46.6 years<br>
+_total_: 45.1 years (2024 est.)<br>
+_male_: 43.3 years<br>
+_female_: 47 years<br>
 
 **Population growth rate**<br>
--0.66% (2023 est.)<br>
+-0.66% (2024 est.)<br>
 
 **Birth rate**<br>
-8 births/1,000 population (2023 est.)<br>
+7.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-14.3 deaths/1,000 population (2023 est.)<br>
+14.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.3 migrant(s)/1,000 population (2023 est.)<br>
+-0.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger populations<br>
@@ -141,7 +143,7 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.04 male(s)/female<br>
 _65 years and over_: 0.67 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.4 years (2020 est.)<br>
@@ -150,20 +152,20 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 7 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 8.9 deaths/1,000 live births<br>
-_female_: 6.7 deaths/1,000 live births<br>
+_total_: 7.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 8.7 deaths/1,000 live births<br>
+_female_: 6.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.8 years (2023 est.)<br>
-_male_: 72.6 years<br>
-_female_: 79.2 years<br>
+_total population_: 76.1 years (2024 est.)<br>
+_male_: 72.9 years<br>
+_female_: 79.4 years<br>
 
 **Total fertility rate**<br>
-1.51 children born/woman (2023 est.)<br>
+1.51 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.73 (2023 est.)<br>
+0.73 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

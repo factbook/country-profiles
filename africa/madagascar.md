@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Madagascar was one of the last major habitable landmasses on earth settled by humans. While there is some evidence of human presence on the island in the millennia B.C., large-scale settlement began between A.D. 350 and 550 with settlers from present-day Indonesia. The island attracted Arab and Persian traders as early as the 7th century, and migrants from Africa arrived around A.D. 1000. Madagascar was a pirate stronghold during the late 17th and early 18th centuries, and served as a slave trading center into the 19th century. From the 16th to the late 19th century, a native Merina Kingdom dominated much of Madagascar. The island was conquered by the French in 1896 who made it a colony; independence was regained in 1960. <br><br>During 1992-93, free presidential and National Assembly elections were held ending 17 years of single-party rule. In 1997, in the second presidential race, Didier RATSIRAKA, the leader during the 1970s and 1980s, returned to the presidency. The 2001 presidential election was contested between the followers of Didier RATSIRAKA and Marc RAVALOMANANA, nearly causing secession of half of the country. In 2002, the High Constitutional Court announced RAVALOMANANA the winner. RAVALOMANANA won a second term in 2006 but, following protests in 2009, handed over power to the military, which then conferred the presidency on the mayor of Antananarivo, Andry RAJOELINA, in what amounted to a coup d'etat. Following a lengthy mediation process led by the Southern African Development Community, Madagascar held UN-supported presidential and parliamentary elections in 2013. Former de facto finance minister Hery RAJAONARIMAMPIANINA won a runoff election in December 2013 and was inaugurated in January 2014. In January 2019, RAJOELINA was declared the winner of a runoff election against RAVALOMANANA; both RATSIRAKA and RAJAONARIMAMPIANINA also ran in the first round of the election, which took place in November 2018. In 2023, RAJOELINA was elected for another term in an election that was boycotted by most of the opposition, including RAJAONARIMAMPIANINA and RAVALOMANANA, who claimed it was rigged in favor of RAJOELINA. International observers, however, saw no evidence of systemic fraud, leading the international community to accept the election results.<br>
+Madagascar was one of the last major habitable landmasses on earth to be settled by humans. While there is some evidence of human presence on the island in the millennia B.C., large-scale settlement began between A.D. 350 and 550 with settlers from present-day Indonesia. The island attracted Arab and Persian traders as early as the 7th century, and migrants from Africa arrived around A.D. 1000. Madagascar was a pirate stronghold during the late 17th and early 18th centuries and served as a slave trading center into the 19th century. From the 16th to the late 19th century, a native Merina Kingdom dominated much of Madagascar. The French conquered the island in 1896 and made it a colony; independence was regained in 1960. <br><br>Free presidential and National Assembly elections were held in 1992-93, ending 17 years of single-party rule. In 1997, in the second presidential race, Didier RATSIRAKA, the leader during the 1970s and 1980s, returned to the presidency. The 2001 presidential election was contested between the followers of RATSIRAKA and Marc RAVALOMANANA, nearly causing half the country to secede. In 2002, the High Constitutional Court announced RAVALOMANANA the winner. He won a second term in 2006 but, following protests in 2009, handed over power to the military, which then conferred the presidency on the mayor of Antananarivo, Andry RAJOELINA, in what amounted to a coup d'etat. After a lengthy mediation process, Madagascar held UN-supported presidential and parliamentary elections in 2013. Former de facto finance minister Hery RAJAONARIMAMPIANINA won in a runoff and was inaugurated in 2014. In 2019, RAJOELINA was declared the winner against RAVALOMANANA. In 2023, RAJOELINA won another term in an election that most of the opposition boycotted, including RAJAONARIMAMPIANINA and RAVALOMANANA, who claimed it was rigged in favor of RAJOELINA. International observers, however, saw no evidence of systemic fraud, leading the international community to accept the election results.<br>
 
 ## Geography
 
@@ -75,7 +75,9 @@ world's fourth-largest island; strategic location along Mozambique Channel; desp
 ## People and Society
 
 **Population**<br>
-28,812,195 (2023 est.)<br>
+_total_: 29,452,714<br>
+_male_: 14,760,501<br>
+_female_: 14,692,213 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Malagasy (singular and plural)<br>
@@ -95,9 +97,9 @@ Church of Jesus Christ in Madagascar/Malagasy Lutheran Church/Anglican Church 34
 <p>Madagascar’s youthful population – nearly 60% are under the age of 25 as of 2020 – and moderately high total fertility rate of more than 3.6 children per woman ensures that the Malagasy population will continue its rapid growth trajectory for the foreseeable future. The population is predominantly rural and poor; chronic malnutrition is prevalent, and large families are the norm. Many young Malagasy girls are withdrawn from school, marry early (often pressured to do so by their parents), and soon begin having children. Early childbearing, coupled with Madagascar’s widespread poverty and lack of access to skilled health care providers during delivery, increases the risk of death and serious health problems for young mothers and their babies.</p> <p>Child marriage perpetuates gender inequality and is prevalent among the poor, the uneducated, and rural households – as of 2018, 40% of Malagasy women aged 20 to 24 were married. Although the legal age for marriage is 18, parental consent is often given for earlier marriages or the law is flouted, especially in rural areas that make up approximately 60% of the country. Forms of arranged marriage whereby young girls are married to older men in exchange for oxen or money are traditional. If a union does not work out, a girl can be placed in another marriage, but the dowry paid to her family diminishes with each unsuccessful marriage.</p> <p>Madagascar’s population consists of 18 main ethnic groups, all of whom speak the same Malagasy language. Most Malagasy are multi-ethnic, however, reflecting the island’s diversity of settlers and historical contacts (see Background). Madagascar’s legacy of hierarchical societies practicing domestic slavery (most notably the Merina Kingdom of the 16th to the 19th century) is evident today in persistent class tension, with some ethnic groups maintaining a caste system. Slave descendants are vulnerable to unequal access to education and jobs, despite Madagascar’s constitutional guarantee of free compulsory primary education and its being party to several international conventions on human rights. Historical distinctions also remain between central highlanders and coastal people.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 37.47% (male 5,451,018/female 5,343,865)<br>
-_15-64 years_: 58.72% (male 8,481,873/female 8,437,644)<br>
-_65 years and over_: 3.81% (2023 est.) (male 506,495/female 591,300)<br>
+_0-14 years_: 37% (male 5,507,847/female 5,400,551)<br>
+_15-64 years_: 59.1% (male 8,720,012/female 8,673,880)<br>
+_65 years and over_: 3.9% (2024 est.) (male 532,642/female 617,782)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 74.5<br>
@@ -106,21 +108,21 @@ _elderly dependency ratio_: 5.8<br>
 _potential support ratio_: 17.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21 years (2023 est.)<br>
-_male_: 20.9 years<br>
-_female_: 21.2 years<br>
+_total_: 21.3 years (2024 est.)<br>
+_male_: 21.1 years<br>
+_female_: 21.5 years<br>
 
 **Population growth rate**<br>
-2.22% (2023 est.)<br>
+2.18% (2024 est.)<br>
 
 **Birth rate**<br>
-28.1 births/1,000 population (2023 est.)<br>
+27.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.9 deaths/1,000 population (2023 est.)<br>
+5.8 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2023 est.)<br>
+0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of population lives on the eastern half of the island; significant clustering is found in the central highlands and eastern coastline as shown in this population distribution map<br>
@@ -137,7 +139,7 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-64 years_: 1.01 male(s)/female<br>
 _65 years and over_: 0.86 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2023 est.)<br>
+_total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.5 years (2021 est.)<br>
@@ -147,20 +149,20 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 392 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 38.3 deaths/1,000 live births (2023 est.)<br>
-_male_: 41.6 deaths/1,000 live births<br>
-_female_: 34.8 deaths/1,000 live births<br>
+_total_: 37.5 deaths/1,000 live births (2024 est.)<br>
+_male_: 40.9 deaths/1,000 live births<br>
+_female_: 34 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.5 years (2023 est.)<br>
-_male_: 67.1 years<br>
-_female_: 69.9 years<br>
+_total population_: 68.8 years (2024 est.)<br>
+_male_: 67.3 years<br>
+_female_: 70.3 years<br>
 
 **Total fertility rate**<br>
-3.55 children born/woman (2023 est.)<br>
+3.47 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.75 (2023 est.)<br>
+1.71 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 49.7% (2020)<br>

@@ -79,7 +79,9 @@ has only a short Pacific coast but a long Caribbean shoreline, including the vir
 ## People and Society
 
 **Population**<br>
-9,571,352 (2023 est.)<br>
+_total_: 9,529,188<br>
+_male_: 4,591,247<br>
+_female_: 4,937,941 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Honduran(s)<br>
@@ -93,15 +95,15 @@ Spanish (official), Amerindian dialects<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Evangelical/Protestant 48%, Roman Catholic 34%, other 1%, none 17% (2020 est.)<br>
+Evangelical 55%, Roman Catholic 33.4%, none 10.1%, unspecified 1.5% (2023 est.)<br>
 
 **Demographic profile**<br>
 <p>Honduras is one of the poorest countries in Latin America and has one of the world's highest murder rates. More than half of the population lives in poverty and per capita income is one of the lowest in the region. Poverty rates are higher among rural and indigenous people and in the south, west, and along the eastern border than in the north and central areas where most of Honduras' industries and infrastructure are concentrated. The increased productivity needed to break Honduras' persistent high poverty rate depends, in part, on further improvements in educational attainment. Although primary-school enrollment is near 100%, educational quality is poor, the drop-out rate and grade repetition remain high, and teacher and school accountability is low.</p> <p>Honduras' population growth rate has slowed since the 1990s and is now 1.2% annually with a birth rate that averages 2.1 children per woman and more among rural, indigenous, and poor women. Honduras' young adult population - ages 15 to 29 - is projected to continue growing rapidly for the next three decades and then stabilize or slowly shrink. Population growth and limited job prospects outside of agriculture will continue to drive emigration. Remittances represent about a fifth of GDP.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 27.92% (male 1,352,581/female 1,319,338)<br>
-_15-64 years_: 66.18% (male 3,050,008/female 3,283,949)<br>
-_65 years and over_: 5.91% (2023 est.) (male 249,241/female 316,235)<br>
+_0-14 years_: 28.7% (male 1,378,026/female 1,353,238)<br>
+_15-64 years_: 65.7% (male 2,980,393/female 3,282,159)<br>
+_65 years and over_: 5.6% (2024 est.) (male 232,828/female 302,544)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.3<br>
@@ -110,21 +112,21 @@ _elderly dependency ratio_: 6.4<br>
 _potential support ratio_: 15.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 25.3 years (2023 est.)<br>
-_male_: 24.4 years<br>
-_female_: 26.2 years<br>
+_total_: 25.7 years (2024 est.)<br>
+_male_: 24.8 years<br>
+_female_: 26.6 years<br>
 
 **Population growth rate**<br>
-1.28% (2023 est.)<br>
+1.29% (2024 est.)<br>
 
 **Birth rate**<br>
-20.2 births/1,000 population (2023 est.)<br>
+19.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.9 deaths/1,000 population (2023 est.)<br>
+5.4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1.5 migrant(s)/1,000 population (2023 est.)<br>
+-1.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most residents live in the mountainous western half of the country; unlike other Central American nations, Honduras is the only one with an urban population that is distributed between two large centers - the capital of Tegucigalpa and the city of San Pedro Sula; the Rio Ulua valley in the north is the only densely populated lowland area<br>
@@ -138,10 +140,10 @@ _rate of urbanization_: 2.48% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.03 male(s)/female<br>
-_15-64 years_: 0.93 male(s)/female<br>
-_65 years and over_: 0.79 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2023 est.)<br>
+_0-14 years_: 1.02 male(s)/female<br>
+_15-64 years_: 0.91 male(s)/female<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 0.93 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.3 years (2011/12 est.)<br>
@@ -151,20 +153,20 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 72 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.4 deaths/1,000 live births (2023 est.)<br>
-_male_: 17.6 deaths/1,000 live births<br>
-_female_: 13.3 deaths/1,000 live births<br>
+_total_: 15.4 deaths/1,000 live births (2024 est.)<br>
+_male_: 17.5 deaths/1,000 live births<br>
+_female_: 13.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.9 years (2023 est.)<br>
-_male_: 68.4 years<br>
-_female_: 75.5 years<br>
+_total population_: 73.1 years (2024 est.)<br>
+_male_: 69.6 years<br>
+_female_: 76.8 years<br>
 
 **Total fertility rate**<br>
-2.37 children born/woman (2023 est.)<br>
+2.33 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.17 (2023 est.)<br>
+1.15 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 69.4% (2019)<br>

@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-With a civilization that dates back thousands of years, Malta boasts some of the oldest megalithic sites in the world. Situated in the center of the Mediterranean, Malta&rsquo;s islands have long served as a strategic military asset, with the islands at various times having come under control of the Phoenicians, Carthaginians, Greeks, Romans, Byzantines, Moors, Normans, Sicilians, Spanish, Knights of St. John, and the French. Most recently a British colony (since 1814), Malta gained its independence in 1964 and declared itself a republic 10 years later. While under British rule, the island staunchly supported the UK through both world wars. Since about the mid-1980s, the island has transformed itself into a freight transshipment point, a financial center, and a tourist destination while its key industries moved toward more service-oriented activities. Malta became an EU member in May 2004 and began using the euro as currency in 2008.<br>
+With a civilization that dates back thousands of years, Malta boasts some of the oldest megalithic sites in the world. Situated in the center of the Mediterranean, Malta&rsquo;s islands have long served as a strategic military asset, with the islands at various times falling under the control of the Phoenicians, Carthaginians, Greeks, Romans, Byzantines, Moors, Normans, Sicilians, Spanish, Knights of St. John, and French. Most recently a British colony (since 1814), Malta gained its independence in 1964 and declared itself a republic 10 years later. While under British rule, the island staunchly supported the UK through both world wars. Since the mid-1980s, the island has transformed itself into a freight transshipment point, a financial center, and a tourist destination, as its key industries moved toward more service-oriented activities. Malta became an EU member in 2004 and joined the eurozone in 2008.<br>
 
 ## Geography
 
@@ -74,7 +74,9 @@ the country comprises an archipelago, with only the three largest islands (Malta
 ## People and Society
 
 **Population**<br>
-467,138 (2023 est.)<br>
+_total_: 469,730<br>
+_male_: 237,023<br>
+_female_: 232,707 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Maltese (singular and plural)<br>
@@ -90,9 +92,9 @@ Maltese (official) 90.1%, English (official) 6%, multilingual 3%, other 0.9% (20
 Roman Catholic (official) more than 90% (2006 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 14.53% (male 34,870/female 32,989)<br>
-_15-64 years_: 62.83% (male 151,927/female 141,561)<br>
-_65 years and over_: 22.65% (2023 est.) (male 48,830/female 56,961)<br>
+_0-14 years_: 14.5% (male 35,034/female 33,181)<br>
+_15-64 years_: 62.4% (male 151,836/female 141,248)<br>
+_65 years and over_: 23.1% (2024 est.) (male 50,153/female 58,278)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 47.1<br>
@@ -101,21 +103,21 @@ _elderly dependency ratio_: 27.7<br>
 _potential support ratio_: 3.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 43.2 years (2023 est.)<br>
-_male_: 42.1 years<br>
-_female_: 44.4 years<br>
+_total_: 43.5 years (2024 est.)<br>
+_male_: 42.4 years<br>
+_female_: 44.7 years<br>
 
 **Population growth rate**<br>
-0.59% (2023 est.)<br>
+0.51% (2024 est.)<br>
 
 **Birth rate**<br>
-9.6 births/1,000 population (2023 est.)<br>
+9.4 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8.6 deaths/1,000 population (2023 est.)<br>
+8.8 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-5 migrant(s)/1,000 population (2023 est.)<br>
+4.4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the population lives on the eastern half of Malta, the largest of the three inhabited islands<br>
@@ -132,7 +134,7 @@ _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.07 male(s)/female<br>
 _65 years and over_: 0.86 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2023 est.)<br>
+_total population_: 1.02 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.3 years (2020 est.)<br>
@@ -142,20 +144,20 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.5 deaths/1,000 live births (2023 est.)<br>
-_male_: 4.4 deaths/1,000 live births<br>
+_total_: 4.4 deaths/1,000 live births (2024 est.)<br>
+_male_: 4.3 deaths/1,000 live births<br>
 _female_: 4.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.4 years (2023 est.)<br>
-_male_: 81.3 years<br>
-_female_: 85.6 years<br>
+_total population_: 83.6 years (2024 est.)<br>
+_male_: 81.5 years<br>
+_female_: 85.8 years<br>
 
 **Total fertility rate**<br>
-1.51 children born/woman (2023 est.)<br>
+1.51 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.74 (2023 est.)<br>
+0.74 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

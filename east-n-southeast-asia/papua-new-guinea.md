@@ -79,7 +79,9 @@ population concentrated in the highlands and eastern coastal areas on the island
 ## People and Society
 
 **Population**<br>
-9,819,350 (2023 est.)<br>
+_total_: 10,046,233<br>
+_male_: 5,092,262<br>
+_female_: 4,953,971 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Papua New Guinean(s)<br>
@@ -97,9 +99,9 @@ Protestant 64.3% (Evangelical Lutheran 18.4%, Seventh Day Adventist 12.9%, Pente
 <strong>note:</strong> data represent only the citizen population; roughly 0.3% of the population are non-citizens, consisting of Christian 52% (predominantly Roman Catholic), other 10.7% , none 37.3%<br>
 
 **Age structure**<br>
-_0-14 years_: 37.34% (male 1,871,227/female 1,795,700)<br>
-_15-64 years_: 58.75% (male 2,917,668/female 2,851,691)<br>
-_65 years and over_: 3.9% (2023 est.) (male 189,851/female 193,213)<br>
+_0-14 years_: 37.1% (male 1,902,272/female 1,825,471)<br>
+_15-64 years_: 58.9% (male 2,991,479/female 2,923,410)<br>
+_65 years and over_: 4% (2024 est.) (male 198,511/female 205,090)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 60.5<br>
@@ -108,21 +110,21 @@ _elderly dependency ratio_: 5<br>
 _potential support ratio_: 20.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21.6 years (2023 est.)<br>
-_male_: 21.4 years<br>
-_female_: 21.8 years<br>
+_total_: 21.7 years (2024 est.)<br>
+_male_: 21.6 years<br>
+_female_: 21.9 years<br>
 
 **Population growth rate**<br>
-2.31% (2023 est.)<br>
+2.26% (2024 est.)<br>
 
 **Birth rate**<br>
-28.5 births/1,000 population (2023 est.)<br>
+28.1 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.5 deaths/1,000 population (2023 est.)<br>
+5.4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2023 est.)<br>
+0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the highlands and eastern coastal areas on the island of New Guinea; predominantly a rural distribution with only about one-fifth of the population residing in urban areas<br>
@@ -138,8 +140,8 @@ _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 1.02 male(s)/female<br>
-_65 years and over_: 0.98 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.97 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.9 years (2016/18)<br>
@@ -149,20 +151,20 @@ _total population_: 1.03 male(s)/female (2023 est.)<br>
 192 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 32.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 36.1 deaths/1,000 live births<br>
-_female_: 29.3 deaths/1,000 live births<br>
+_total_: 32 deaths/1,000 live births (2024 est.)<br>
+_male_: 35.3 deaths/1,000 live births<br>
+_female_: 28.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.7 years (2023 est.)<br>
-_male_: 68 years<br>
-_female_: 71.5 years<br>
+_total population_: 70.1 years (2024 est.)<br>
+_male_: 68.3 years<br>
+_female_: 71.9 years<br>
 
 **Total fertility rate**<br>
-3.85 children born/woman (2023 est.)<br>
+3.79 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.88 (2023 est.)<br>
+1.85 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 36.7% (2016/18)<br>

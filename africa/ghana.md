@@ -82,7 +82,9 @@ Lake Volta is the world's largest artificial lake (manmade reservoir) by surface
 ## People and Society
 
 **Population**<br>
-33,846,114 (2023 est.)<br>
+_total_: 34,589,092<br>
+_male_: 16,902,073<br>
+_female_: 17,687,019 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Ghanaian(s)<br>
@@ -102,9 +104,9 @@ Christian 71.3% (Pentecostal/Charismatic 31.6%, Protestant 17.4%, Catholic 10%, 
 <p>Ghana has a young age structure, with approximately 56% of the population under the age of 25 as of 2020. Its total fertility rate fell significantly during the 1980s and 1990s but has stalled at around four children per woman for the last few years. Fertility remains higher in the northern region than the Greater Accra region. On average, desired fertility has remained stable for several years; urban dwellers want fewer children than rural residents. Increased life expectancy, due to better health care, nutrition, and hygiene, and reduced fertility have increased Ghana’s share of elderly persons; Ghana’s proportion of persons aged 60+ is among the highest in Sub-Saharan Africa. Poverty has declined in Ghana, but it remains pervasive in the northern region, which is susceptible to droughts and floods and has less access to transportation infrastructure, markets, fertile farming land, and industrial centers. The northern region also has lower school enrollment, higher illiteracy, and fewer opportunities for women.</p> <p>Ghana was a country of immigration in the early years after its 1957 independence, attracting labor migrants largely from Nigeria and other neighboring countries to mine minerals and harvest cocoa – immigrants composed about 12% of Ghana’s population in 1960. In the late 1960s, worsening economic and social conditions discouraged immigration, and hundreds of thousands of immigrants, mostly Nigerians, were expelled.</p> <p>During the 1970s, severe drought and an economic downturn transformed Ghana into a country of emigration; neighboring Cote d’Ivoire was the initial destination. Later, hundreds of thousands of Ghanaians migrated to Nigeria to work in its booming oil industry, but most were deported in 1983 and 1985 as oil prices plummeted. Many Ghanaians then turned to more distant destinations, including other parts of Africa, Europe, and North America, but the majority continued to migrate within West Africa. Since the 1990s, increased emigration of skilled Ghanaians, especially to the US and the UK, drained the country of its health care and education professionals. Internally, poverty and other developmental disparities continue to drive Ghanaians from the north to the south, particularly to its urban centers.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 37.72% (male 6,445,288/female 6,321,989)<br>
-_15-64 years_: 57.92% (male 9,420,940/female 10,181,376)<br>
-_65 years and over_: 4.36% (2023 est.) (male 660,991/female 815,530)<br>
+_0-14 years_: 37.4% (male 6,527,386/female 6,400,245)<br>
+_15-64 years_: 58.2% (male 9,690,498/female 10,444,197)<br>
+_65 years and over_: 4.4% (2024 est.) (male 684,189/female 842,577)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 68.7<br>
@@ -113,21 +115,21 @@ _elderly dependency ratio_: 5.9<br>
 _potential support ratio_: 17 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21.3 years (2023 est.)<br>
-_male_: 20.4 years<br>
-_female_: 22.2 years<br>
+_total_: 21.4 years (2024 est.)<br>
+_male_: 20.6 years<br>
+_female_: 22.3 years<br>
 
 **Population growth rate**<br>
-2.19% (2023 est.)<br>
+2.15% (2024 est.)<br>
 
 **Birth rate**<br>
-28 births/1,000 population (2023 est.)<br>
+27.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6 deaths/1,000 population (2023 est.)<br>
+5.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.2 migrant(s)/1,000 population (2023 est.)<br>
+-0.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population is concentrated in the southern half of the country, with the highest concentrations being on or near the Atlantic coast as shown in this population distribution map<br>
@@ -144,7 +146,7 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-64 years_: 0.93 male(s)/female<br>
 _65 years and over_: 0.81 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_total population_: 0.96 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.1 years (2022 est.)<br>
@@ -154,20 +156,20 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 263 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 31.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 35.3 deaths/1,000 live births<br>
-_female_: 28.4 deaths/1,000 live births<br>
+_total_: 31.2 deaths/1,000 live births (2024 est.)<br>
+_male_: 34.5 deaths/1,000 live births<br>
+_female_: 27.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.7 years (2023 est.)<br>
-_male_: 68.1 years<br>
-_female_: 71.4 years<br>
+_total population_: 70.1 years (2024 est.)<br>
+_male_: 68.4 years<br>
+_female_: 71.8 years<br>
 
 **Total fertility rate**<br>
-3.61 children born/woman (2023 est.)<br>
+3.56 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.78 (2023 est.)<br>
+1.75 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 27.2% (2017/18)<br>
@@ -353,7 +355,7 @@ _election results_: <em>2020:</em> Nana Addo Dankwa AKUFO-ADDO reelected preside
 **Legislative branch**<br>
 _description_: unicameral Parliament (275 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
 _elections_: last held on 7 December 2020 (next to be held in December 2024)<br>
-_election results_: percent of vote by party - NPP 50.4%, NDC 46.2%, independent 2.3%, other 1.1%; seats by party- NPP 137, NDC 137, independent 1; composition as of February 2024 - men 235, women 40, percentage women 14.6%<br>
+_election results_: percent of vote by party - NPP 50.4%, NDC 46.2%, independent 2.3%, other 1.1%; seats by party- NPP 137, NDC 137, independent 1; composition- men 235, women 40, percentage women 14.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 13 justices)<br>
@@ -362,7 +364,6 @@ _subordinate courts_: Court of Appeal; High Court; Circuit Court; District Court
 
 **Political parties and leaders**<br>
 All Peoples Congress or APC [Hassan AYARIGA]<br>Convention People's Party or CPP [Onsy Kwame NKRUMAH, acting]<br>Ghana Freedom Party or GFP [Akua DONKOR]<br>Ghana Union Movement or GUM [Christian Kwabena ANDREWS]<br>Great Consolidated Popular Party or GCPP [Henry Herbert LARTEY]<br>Liberal Party of Ghana or LPG [Kofi AKPALOO]<br>National Democratic Congress or NDC [John Dramani MAHAMA]<br>National Democratic Party or NDP [Nana Konadu Agyeman RAWLINGS]<br>New Patriotic Party or NPP [Nana Addo Dankwa AKUFO-ADDO]<br>People's National Convention or PNC [Janet NABIA]<br>Progressive People's Party or PPP [Paa Kwesi NDUOM]<br>United Front Party or UFP [Dr. Nana A. BOATENG]<br>United Progressive Party or UPP [Akwasi Addai ODIKE]<br>
-<strong>note:</strong> Ghana has more than 20 registered parties<br>
 
 **International organization participation**<br>
 ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

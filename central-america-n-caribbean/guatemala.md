@@ -78,7 +78,9 @@ the vast majority of the populace resides in the southern half of the country, p
 ## People and Society
 
 **Population**<br>
-17,980,803 (2023 est.)<br>
+_total_: 18,255,216<br>
+_male_: 9,050,684<br>
+_female_: 9,204,532 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Guatemalan(s)<br>
@@ -92,15 +94,15 @@ Spanish (official) 69.9%, Maya languages 29.7% (Q'eqchi' 8.3%, K'iche 7.8%, Mam 
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 41.7%, Evangelical 38.8%, other 2.7%, atheist 0.1%, none 13.8%, unspecified 2.9% (2018 est.)<br>
+Evangelical 45.7%, Roman Catholic 42.4%, none 11%, unspecified 0.9% (2023 est.)<br>
 
 **Demographic profile**<br>
 <p>Guatemala is a predominantly poor country that struggles in several areas of health and development, including infant, child, and maternal mortality, malnutrition, literacy, and contraceptive awareness and use. The country's large indigenous population is disproportionately affected. Guatemala is the most populous country in Central America and has the highest fertility rate in Latin America. It also has the highest population growth rate in Latin America, which is likely to continue because of its large reproductive-age population and high birth rate. Almost half of Guatemala's population is under age 19, making it the youngest population in Latin America. Guatemala's total fertility rate has slowly declined during the last few decades due in part to limited government-funded health programs. However, the birth rate is still more close to three children per woman and is markedly higher among its rural and indigenous populations.</p><p>Guatemalans have a history of emigrating legally and illegally to Mexico, the United States, and Canada because of a lack of economic opportunity, political instability, and natural disasters. Emigration, primarily to the United States, escalated during the 1960 to 1996 civil war and accelerated after a peace agreement was signed. Thousands of Guatemalans who fled to Mexico returned after the war, but labor migration to southern Mexico continues.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 31.98% (male 2,927,423/female 2,822,441)<br>
-_15-64 years_: 62.78% (male 5,568,051/female 5,720,928)<br>
-_65 years and over_: 5.24% (2023 est.) (male 420,782/female 521,178)<br>
+_0-14 years_: 31.5% (male 2,925,079/female 2,819,927)<br>
+_15-64 years_: 63.2% (male 5,688,500/female 5,839,958)<br>
+_65 years and over_: 5.4% (2024 est.) (male 437,105/female 544,647)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 60.9<br>
@@ -109,21 +111,21 @@ _elderly dependency ratio_: 7.9<br>
 _potential support ratio_: 12.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24.4 years (2023 est.)<br>
-_male_: 23.8 years<br>
-_female_: 25 years<br>
+_total_: 24.8 years (2024 est.)<br>
+_male_: 24.2 years<br>
+_female_: 25.4 years<br>
 
 **Population growth rate**<br>
-1.54% (2023 est.)<br>
+1.49% (2024 est.)<br>
 
 **Birth rate**<br>
-21.9 births/1,000 population (2023 est.)<br>
+21.4 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-4.9 deaths/1,000 population (2023 est.)<br>
+4.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1.6 migrant(s)/1,000 population (2023 est.)<br>
+-1.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the populace resides in the southern half of the country, particularly in the mountainous regions; more than half of the population lives in rural areas<br>
@@ -139,8 +141,8 @@ _rate of urbanization_: 2.59% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.81 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.8 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.6 years (2014/15 est.)<br>
@@ -150,20 +152,20 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 96 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 25.6 deaths/1,000 live births (2023 est.)<br>
-_male_: 28.8 deaths/1,000 live births<br>
-_female_: 22.2 deaths/1,000 live births<br>
+_total_: 25 deaths/1,000 live births (2024 est.)<br>
+_male_: 28.1 deaths/1,000 live births<br>
+_female_: 21.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.2 years (2023 est.)<br>
-_male_: 71.2 years<br>
-_female_: 75.3 years<br>
+_total population_: 73.5 years (2024 est.)<br>
+_male_: 71.5 years<br>
+_female_: 75.6 years<br>
 
 **Total fertility rate**<br>
-2.57 children born/woman (2023 est.)<br>
+2.52 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.25 (2023 est.)<br>
+1.23 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 60.6% (2014/15)<br>

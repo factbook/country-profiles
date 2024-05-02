@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The first recorded kingdom (Choson) on the Korean Peninsula dates from approximately 2300 B.C.  Over the subsequent centuries, three main kingdoms - Kogoryo, Paekche, and Silla - were established on the Peninsula. By the 5th century A.D., Kogoryo emerged as the most powerful, with control over much of the Peninsula, as well as part of Manchuria (modern-day northeast China). However, Silla allied with the Chinese to create the first unified Korean state in the late 7th century (688). Following the collapse of Silla in the 9th century, Korea was unified under the Koryo (Goryeo; 918-1392) and the Chosen (Joseon; 1392-1910) dynasties. Korea became the object of intense imperialistic rivalry between the Chinese (its traditional benefactor), Japanese, and Russian empires in the latter half of the 19th and early 20th centuries.  Following the Sino-Japanese War (1894-95) and the Russo-Japanese War (1904-05), Korea was occupied by Imperial Japan. In 1910, Japan formally annexed the entire peninsula. After World War II, Korea was split along the 38th parallel with the northern half coming under Soviet-sponsored communist control. <br><br>In 1948, North Korea (formally known as the Democratic People's Republic of Korea or DPRK) was founded under President KIM Il Sung, who consolidated power and cemented autocratic one-party rule under the Korean Worker's Party (KWP). After the Korean War (1950-53), during which North Korea failed to conquer UN-backed South Korea (formally the Republic of Korea or ROK), North Korea demonized the US as the ultimate threat to its social system through state-funded propaganda and molded political, economic, and military policies around the core ideological objective of eventual unification of Korea under Pyongyang's control. North Korea also declared a central ideology of <em>juche ("</em>self-reliance") as an internal check against outside influence while continuing to rely heavily on China and the Soviet Union for economic support. Establishing a policy of hereditary succession in North Korea, KIM Il Sung's son, KIM Jong Il, was officially designated as his father's successor in 1980, assuming a growing political and managerial role until the elder KIM's death in 1994. Under KIM Jong Il's reign, North Korea continued developing nuclear weapons and ballistic missiles. KIM Jong Un was publicly unveiled as his father's successor in 2010. Following KIM Jong Il's death in 2011, KIM Jong Un quickly assumed power and has since occupied the regime's highest political and military posts. </p> <p>After the end of Soviet aid in 1991, North Korea faced serious economic setbacks that exacerbated decades of economic mismanagement and resource misallocation. Since the mid-1990s, North Korea has faced chronic food shortages and economic stagnation. In recent years, the North's domestic agricultural production has improved, but still falls far short of producing sufficient food to provide for its entire population. Starting in 2002, North Korea began to tolerate semi-private markets but has made few other efforts to meet its goal of improving the overall standard of living. New economic development plans in the 2010s failed to meet government-mandated goals for key industrial sectors, food production, or overall economic performance. At the onset of the COVID-19 pandemic in early 2020, North Korea instituted a nationwide lockdown that severely restricted its economy and international engagement. Since then, leader KIM Jong Un has repeatedly expressed concerns with the regime's economic failures and food problems, but in 2021 vowed to continue "self-reliant" policies and has reinvigorated his pursuit of greater regime control of the economy. <br><br>As of 2024, despite slowly renewing cross-border trade with China, North Korea remained one of the World's most isolated and one of Asia's poorest countries. In 2024, Pyongyang announced it was ending all economic cooperation with South Korea. The move followed earlier proclamations that it was scrapping a military pact signed in 2018 aimed at de-escalating tensions along their militarized border, abandoning the country’s decades-long pursuit of peaceful unification with South Korea, and designating the South as North Korea’s “principal enemy.” </p><br>
+<p>The first recorded kingdom (Choson) on the Korean Peninsula dates from approximately 2300 B.C. Over the subsequent centuries, three main kingdoms -- Kogoryo, Paekche, and Silla -- were established on the Peninsula. By the 5th century A.D., Kogoryo emerged as the most powerful, with control over much of the Peninsula and part of Manchuria (modern-day northeast China). However, Silla allied with the Chinese to create the first unified Korean state in 688. Following the collapse of Silla in the 9th century, Korea was unified under the Koryo (Goryeo; 918-1392) and the Chosen (Joseon; 1392-1910) dynasties. Korea became the object of intense imperialistic rivalry among the Chinese (its traditional benefactor), Japanese, and Russian empires in the latter half of the 19th and early 20th centuries. After the Sino-Japanese War (1894-95) and the Russo-Japanese War (1904-05), Korea was occupied by Imperial Japan. In 1910, Japan formally annexed the entire peninsula. After World War II, the northern half came under Soviet-sponsored communist control. <br><br>In 1948, North Korea (formally known as the Democratic People's Republic of Korea or DPRK) was founded under President KIM Il Sung, who consolidated power and cemented autocratic one-party rule under the Korean Worker's Party (KWP). North Korea failed to conquer UN-backed South Korea (formally the Republic of Korea or ROK) during the Korean War (1950-53), after which a demilitarized zone split the peninsula along the 38th parallel. KIM then used state-funded propaganda to demonize the US as the ultimate threat to North Korea's social system, and he molded political, economic, and military policies around the core objective of unifying Korea under Pyongyang's control. North Korea also declared a central ideology of <em>juche ("</em>self-reliance") as a check against outside influence, while continuing to rely heavily on China and the Soviet Union for economic support. KIM Il Sung's son, KIM Jong Il, was officially designated as his father's successor in 1980, and he assumed a growing political and managerial role until the elder KIM's death in 1994. Under KIM Jong Il's reign, North Korea continued developing nuclear weapons and ballistic missiles. KIM Jong Un was publicly unveiled as his father's successor in 2010. Following KIM Jong Il's death in 2011, KIM Jong Un quickly assumed power and has since occupied the regime's highest political and military posts. </p> <p>After the end of Soviet aid in 1991, North Korea faced serious economic setbacks that exacerbated decades of economic mismanagement and resource misallocation. Since the mid-1990s, North Korea has faced chronic food shortages and economic stagnation. In recent years, the North's domestic agricultural production has improved but still falls far short of producing sufficient food for its population. Starting in 2002, North Korea began to tolerate semi-private markets but has made few other efforts to meet its goal of improving the overall standard of living. New economic development plans in the 2010s failed to meet government-mandated goals for key industrial sectors, food production, or overall economic performance. At the onset of the COVID-19 pandemic in 2020, North Korea instituted a nationwide lockdown that severely restricted its economy and international engagement. Since then, KIM has repeatedly expressed concerns with the regime's economic failures and food problems, but in 2021, he vowed to continue "self-reliant" policies and has reinvigorated his pursuit of greater regime control of the economy. <br><br>As of 2024, despite slowly renewing cross-border trade with China, North Korea remained one of the world's most isolated countries and one of Asia's poorest. In 2024, Pyongyang announced it was ending all economic cooperation with South Korea. The move followed earlier proclamations that it was scrapping a 2018 military pact with South Korea to de-escalate tensions along their militarized border, abandoning the country’s decades-long pursuit of peaceful unification with South Korea, and designating the South as North Korea’s “principal enemy.” </p><br>
 
 ## Geography
 
@@ -75,7 +75,9 @@ strategic location bordering China, South Korea, and Russia; mountainous interio
 ## People and Society
 
 **Population**<br>
-26,072,217 (2023 est.)<br>
+_total_: 26,298,666<br>
+_male_: 12,828,269<br>
+_female_: 13,470,397 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Korean(s)<br>
@@ -93,9 +95,9 @@ traditionally Buddhist and Confucian, some Christian and syncretic Chondogyo (Re
 <strong>note:</strong> autonomous religious activities now almost nonexistent; government-sponsored religious groups exist to provide illusion of religious freedom<br>
 
 **Age structure**<br>
-_0-14 years_: 20.24% (male 2,696,287/female 2,580,346)<br>
-_15-64 years_: 69.16% (male 8,992,254/female 9,040,025)<br>
-_65 years and over_: 10.6% (2023 est.) (male 992,424/female 1,770,881)<br>
+_0-14 years_: 19.9% (male 2,673,822/female 2,548,775)<br>
+_15-64 years_: 68.9% (male 9,054,771/female 9,066,447)<br>
+_65 years and over_: 11.2% (2024 est.) (male 1,099,676/female 1,855,175)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.5<br>
@@ -104,21 +106,21 @@ _elderly dependency ratio_: 16.3<br>
 _potential support ratio_: 6.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 35.6 years (2023 est.)<br>
-_male_: 34.2 years<br>
-_female_: 37.1 years<br>
+_total_: 35.9 years (2024 est.)<br>
+_male_: 34.5 years<br>
+_female_: 37.4 years<br>
 
 **Population growth rate**<br>
-0.4% (2023 est.)<br>
+0.4% (2024 est.)<br>
 
 **Birth rate**<br>
-13.4 births/1,000 population (2023 est.)<br>
+13.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.5 deaths/1,000 population (2023 est.)<br>
+9.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2023 est.)<br>
+0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the plains and lowlands; least populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east<br>
@@ -132,29 +134,29 @@ _rate of urbanization_: 0.85% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.04 male(s)/female<br>
-_15-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 0.56 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_0-14 years_: 1.05 male(s)/female<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.59 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 107 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 16.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 17.9 deaths/1,000 live births<br>
-_female_: 14.5 deaths/1,000 live births<br>
+_total_: 15.4 deaths/1,000 live births (2024 est.)<br>
+_male_: 16.9 deaths/1,000 live births<br>
+_female_: 13.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.9 years (2023 est.)<br>
-_male_: 69.5 years<br>
-_female_: 76.5 years<br>
+_total population_: 73.5 years (2024 est.)<br>
+_male_: 70.2 years<br>
+_female_: 77 years<br>
 
 **Total fertility rate**<br>
-1.82 children born/woman (2023 est.)<br>
+1.81 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.88 (2023 est.)<br>
+0.88 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 70.2% (2017)<br>

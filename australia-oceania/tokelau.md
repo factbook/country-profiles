@@ -72,7 +72,7 @@ consists of three atolls (Atafu, Fakaofo, Nukunonu), each with a lagoon surround
 ## People and Society
 
 **Population**<br>
-1,647 (2019 est.)<br>
+_total_: 1,647 (2019 est.)<br>
 
 **Nationality**<br>
 _noun_: Tokelauan(s)<br>
@@ -88,11 +88,6 @@ Tokelauan 88.1% (a Polynesian language), English 48.6%, Samoan 26.7%, Tuvaluan 1
 **Religions**<br>
 Congregational Christian Church 50.4%, Roman Catholic 38.7%, Presbyterian 5.9%, other Christian 4.2%, unspecified 0.8% (2016 est.)<br>
 
-**Age structure**<br>
-_0-14 years_: NA<br>
-_15-64 years_: NA<br>
-_65 years and over_: NA<br>
-
 **Dependency ratios**<br>
 _total dependency ratio_: 60.4<br>
 _youth dependency ratio_: 47<br>
@@ -101,9 +96,6 @@ _potential support ratio_: 7.5 (2021)<br>
 
 **Population growth rate**<br>
 -0.01% (2019 est.)<br>
-
-**Birth rate**<br>
-NA<br>
 
 **Net migration rate**<br>
 -3.84 migrant(s)/1,000 population (2021 est.)<br>
@@ -115,25 +107,6 @@ the country's small population is fairly evenly distributed amongst the three at
 _urban population_: 0% of total population (2023)<br>
 _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
 
-**Sex ratio**<br>
-NA<br>
-
-**Infant mortality rate**<br>
-_total_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
-**Life expectancy at birth**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
-**Total fertility rate**<br>
-(2021 est.) NA<br>
-
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
 _improved: urban_: urban: 0% of population<br>
 _improved: rural_: rural: 99.7% of population<br>
@@ -142,22 +115,8 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0.3% of population<br>
 _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
-**Current health expenditure**<br>
-NA<br>
-
-**Physicians density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
 _improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2020 est.)<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
 
 **Currently married women (ages 15-49)**<br>
 52% (2023 est.)<br>
@@ -166,14 +125,6 @@ NA<br>
 _women married by age 15_: 0.4%<br>
 _women married by age 18_: 10.1%<br>
 _men married by age 18_: 2.8% (2019 est.)<br>
-
-**Education expenditures**<br>
-NA<br>
-
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
 
 ## Environment
 

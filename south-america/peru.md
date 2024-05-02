@@ -87,7 +87,9 @@ approximately one-third of the population resides along the desert coastal belt 
 ## People and Society
 
 **Population**<br>
-32,440,172 (2023 est.)<br>
+_total_: 32,600,249<br>
+_male_: 15,952,556<br>
+_female_: 16,647,693 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Peruvian(s)<br>
@@ -101,15 +103,15 @@ Spanish (official) 82.9%, Quechua (official) 13.6%, Aymara (official) 1.6%, Asha
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 60%, Christian 14.6% (includes Evangelical 11.1%, other 3.5%), other 0.3%, none 4%, unspecified 21.1% (2017 est.)<br>
+Roman Catholic 66.4%, Protestant 22.4% (Evangelical 19.6%, other Protestant 1.3%), other 1.9%, agnostic/atheist none 6.8%, unspecified 1.2% (2023 est.)<br>
 
 **Demographic profile**<br>
 <p>A sharp fertility decline in urban areas has driven overall fertility reduction in Peru. The national birth rate is about 2.2 children per woman as of 2023 and averaged 2.5 in rural areas as of 2022. Contraceptive prevalence has increased largely due to a greater use of traditional rather than modern methods. Like most other Andean countries, Peru’s opportunity to benefit from its large labor force will taper off as its dependency ratio—the ratio of dependents to working-age persons—bottoms out between 2025 and 2030. </p> <p>The poverty rate has climbed to 27.5% in 2022, much higher than the rate before the COVID-19 pandemic.  In 2021, 51% of the population was living in moderate food insecurity; Peru is the most food insecure country in South America. School enrollment has improved, but achievement scores reflect ongoing problems with educational quality. Many poor children temporarily or permanently drop out of school to help support their families. As of 2018, 21.8% Peruvian children aged 5 to 14 were working, often putting in long hours at hazardous mining or construction sites.</p> <p>Peru was a country of immigration in the 19th and early 20th centuries but has become a country of emigration in the last few decades. Beginning in the 19th century, Peru brought in Asian contract laborers mainly to work on coastal plantations. Populations of Chinese and Japanese descent - among the largest in Latin America - are economically and culturally influential in Peru today. Peruvian emigration began rising in the 1980s due to an economic crisis and a violent internal conflict, but outflows have stabilized in the last few years as economic conditions have improved. Nonetheless, between 1990 and 2020 over 3 million Peruvians left the country – principally to the US, Spain, and Argentina – and did not return.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 26.04% (male 4,311,243/female 4,136,849)<br>
-_15-64 years_: 65.94% (male 10,452,598/female 10,937,233)<br>
-_65 years and over_: 8.02% (2023 est.) (male 1,134,587/female 1,467,662)<br>
+_0-14 years_: 25.8% (male 4,293,229/female 4,119,269)<br>
+_15-64 years_: 66.2% (male 10,546,502/female 11,041,106)<br>
+_65 years and over_: 8% (2024 est.) (male 1,112,825/female 1,487,318)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53<br>
@@ -118,21 +120,21 @@ _elderly dependency ratio_: 13.1<br>
 _potential support ratio_: 7.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30.1 years (2023 est.)<br>
+_total_: 30.2 years (2024 est.)<br>
 _male_: 29.1 years<br>
-_female_: 31.1 years<br>
+_female_: 31.3 years<br>
 
 **Population growth rate**<br>
-0.5% (2023 est.)<br>
+0.48% (2024 est.)<br>
 
 **Birth rate**<br>
-17 births/1,000 population (2023 est.)<br>
+16.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-11 deaths/1,000 population (2023 est.)<br>
+10.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.9 migrant(s)/1,000 population (2023 est.)<br>
+-1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 approximately one-third of the population resides along the desert coastal belt in the west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, which is strongly identified with the country's Amerindian population, contains roughly half of the overall population; the eastern slopes of the Andes, and adjoining rainforest, are sparsely populated<br>
@@ -148,8 +150,8 @@ _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.9 years (2013 est.)<br>
@@ -159,20 +161,20 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 69 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.8 deaths/1,000 live births (2023 est.)<br>
+_total_: 10.8 deaths/1,000 live births (2024 est.)<br>
 _male_: 11.9 deaths/1,000 live births<br>
 _female_: 9.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.9 years (2023 est.)<br>
+_total population_: 68.9 years (2024 est.)<br>
 _male_: 65.4 years<br>
 _female_: 72.7 years<br>
 
 **Total fertility rate**<br>
-2.18 children born/woman (2023 est.)<br>
+2.15 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.06 (2023 est.)<br>
+1.05 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 77.4% (2020)<br>
@@ -766,7 +768,7 @@ Shining Path (Sendero Luminoso)<br>
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,518,102 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)<br>
+_refugees (country of origin)_: 1,542,004 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)<br>
 _IDPs_: 73,000 (civil war from 1980-2000; most IDPs are indigenous peasants in Andean and Amazonian regions; as of 2011, no new information on the situation of these IDPs) (2022)<br>
 
 **Illicit drugs**<br>

@@ -5,7 +5,7 @@ _Australia-Oceania / Dependencies (France)_
 ## Introduction
 
 **Background**<br>
-The first humans settled in New Caledonia around 1600 B.C. The Lapita were skilled navigators and evidence of their pottery around the Pacific has served as a guide for understanding human expansion in the region. Successive waves of migrants from other islands in Melanesia intermarried with the Lapita, giving rise to the Kanak ethnic group considered indigenous to New Caledonia. British explorer James COOK was the first European to visit New Caledonia in 1774, giving it the Latin name for Scotland. Missionaries first landed in New Caledonia in 1840. In 1853, France annexed New Caledonia to preclude any British attempt to claim the island. France declared it a penal colony in 1864 and sent more than 20,000 prisoners to New Caledonia in the ensuing three decades.<br><br>Nickel was discovered in 1864 and French prisoners were directed to mine it. France brought in indentured servants and enslaved labor from elsewhere in Southeast Asia to work the mines, blocking Kanaks from accessing the most profitable part of the local economy. In 1878, High Chief ATAI led a rebellion against French rule. The Kanaks were relegated to reservations, leading to periodic smaller uprisings and culminating in a large revolt in 1917 that was brutally suppressed by colonial authorities. During World War II, New Caledonia became an important base for Allied troops, and the US moved its South Pacific headquarters to the island in 1942. Following the war, France made New Caledonia an overseas territory and granted French citizenship to all inhabitants in 1953, thereby permitting the Kanaks to move off the reservations.<br><br>The Kanak nationalist movement began in the 1950s, but most voters chose to remain a territory in an independence referendum in 1958. The European population of New Caledonia boomed in the 1970s with a renewed focus on nickel mining, reigniting Kanak nationalism. Key Kanak leaders were assassinated in the early 1980s, leading to escalating violence and dozens of fatalities. The Matignon Accords of 1988 provided for a 10-year transition period. The Noumea Accord of 1998 transferred increasing governing responsibility from France to New Caledonia over a 20-year period and provided for three independence referenda. In the first held in 2018, voters rejected independence by 57% to 43%; in the second held in 2020, voters rejected independence 53% to 47%. In the third referendum held in December 2021, voters rejected independence 96% to 4%; however, a boycott by key Kanak groups spurred challenges about the legitimacy of the vote. In February 2021, pro-independence parties gained a majority in the New Caledonian Government for the first time. France and New Caledonia officials remain in talks about the status of the territory.<br>
+The first humans settled in New Caledonia around 1600 B.C. The Lapita were skilled navigators, and evidence of their pottery around the Pacific has served as a guide for understanding human expansion in the region. Successive waves of migrants from other islands in Melanesia intermarried with the Lapita, giving rise to the Kanak ethnic group considered indigenous to New Caledonia. British explorer James COOK was the first European to visit New Caledonia in 1774, giving it the Latin name for Scotland. Missionaries first landed in New Caledonia in 1840. In 1853, France annexed New Caledonia to preclude any British attempt to claim the island. France declared it a penal colony in 1864 and sent more than 20,000 prisoners to New Caledonia in the ensuing three decades.<br><br>Nickel was discovered in 1864, and French prisoners were directed to mine it. France brought in indentured servants and enslaved labor from elsewhere in Southeast Asia to work the mines, blocking Kanaks from accessing the most profitable part of the local economy. In 1878, High Chief ATAI led a rebellion against French rule. The Kanaks were relegated to reservations, leading to periodic smaller uprisings and culminating in a large revolt in 1917 that colonial authorities brutally suppressed. During World War II, New Caledonia became an important base for Allied troops, and the US moved its South Pacific headquarters to the island in 1942. Following the war, France made New Caledonia an overseas territory and granted French citizenship to all inhabitants in 1953, thereby permitting the Kanaks to move off the reservations.<br><br>The Kanak nationalist movement began in the 1950s, but most voters chose to remain a territory in an independence referendum in 1958. The European population of New Caledonia boomed in the 1970s with a renewed focus on nickel mining, reigniting Kanak nationalism. Key Kanak leaders were assassinated in the early 1980s, leading to escalating violence and dozens of fatalities. The Matignon Accords of 1988 provided for a 10-year transition period. The Noumea Accord of 1998 transferred increasing governing responsibility from France to New Caledonia over a 20-year period and provided for three independence referenda. In the first held in 2018, voters rejected independence by 57% to 43%; in the second held in 2020, voters rejected independence 53% to 47%. In the third referendum held in 2021, voters rejected independence 96% to 4%; however, a boycott by key Kanak groups spurred challenges about the legitimacy of the vote. Pro-independence parties subsequently won a majority in the New Caledonian Government for the first time. France and New Caledonia officials remain in talks about the status of the territory.<br>
 
 ## Geography
 
@@ -72,7 +72,9 @@ consists of the main island of New Caledonia (one of the largest in the Pacific 
 ## People and Society
 
 **Population**<br>
-300,682 (2023 est.)<br>
+_total_: 304,167<br>
+_male_: 151,389<br>
+_female_: 152,778 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: New Caledonian(s)<br>
@@ -89,9 +91,9 @@ _major-language sample(s)_: <br>The World Factbook, une source indispensable d'i
 Christian 85.2%, Muslim 2.8%, other 1.6%, unaffiliated 10.4% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 20.96% (male 32,199/female 30,825)<br>
-_15-64 years_: 68.45% (male 103,611/female 102,208)<br>
-_65 years and over_: 10.59% (2023 est.) (male 13,914/female 17,925)<br>
+_0-14 years_: 20.7% (male 32,238/female 30,858)<br>
+_15-64 years_: 68.4% (male 104,825/female 103,349)<br>
+_65 years and over_: 10.8% (2024 est.) (male 14,326/female 18,571)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49.6<br>
@@ -100,22 +102,21 @@ _elderly dependency ratio_: 16<br>
 _potential support ratio_: 6.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 33.9 years (2023 est.)<br>
-_male_: 33.1 years<br>
-_female_: 34.8 years<br>
+_total_: 34.3 years (2024 est.)<br>
+_male_: 33.5 years<br>
+_female_: 35.1 years<br>
 
 **Population growth rate**<br>
-1.17% (2023 est.)<br>
+1.14% (2024 est.)<br>
 
 **Birth rate**<br>
-14 births/1,000 population (2023 est.)<br>
+13.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.9 deaths/1,000 population (2023 est.)<br>
+6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-3.6 migrant(s)/1,000 population (2023 est.)<br>
-<strong>note:</strong> there has been steady emigration from Wallis and Futuna to New Caledonia<br>
+3.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the populace lives in the southern part of the main island, in and around the capital of Noumea<br>
@@ -131,24 +132,24 @@ _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 5.9 deaths/1,000 live births<br>
+_total_: 4.8 deaths/1,000 live births (2024 est.)<br>
+_male_: 5.8 deaths/1,000 live births<br>
 _female_: 3.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.1 years (2023 est.)<br>
-_male_: 75.2 years<br>
-_female_: 83.1 years<br>
+_total population_: 79.3 years (2024 est.)<br>
+_male_: 75.4 years<br>
+_female_: 83.3 years<br>
 
 **Total fertility rate**<br>
-1.84 children born/woman (2023 est.)<br>
+1.83 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.9 (2023 est.)<br>
+0.89 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

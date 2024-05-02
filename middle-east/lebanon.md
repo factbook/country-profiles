@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-As a result of its location at the crossroads of three continents, the area that is modern-day Lebanon is rich in cultural and religious diversity. This region was subject to various foreign conquests for much of its history, including by the Romans, Arabs, and Ottomans. Following World War I, France acquired a mandate over the northern portion of the former Ottoman Empire province of Syria. From it the French demarcated the region of Lebanon in 1920, and it gained independence in 1943. Since then, Lebanon has experienced periods of political turmoil interspersed with prosperity built on its position as a regional center for finance and trade, although that status has significantly diminished since the beginning of Lebanon’s economic crisis in 2019, which includes simultaneous currency, debt, and banking crises. The country's 1975-90 civil war, which resulted in an estimated 120,000 fatalities, was followed by years of social and political instability, and sectarianism remains a key element of Lebanese political life. The Israeli defense forces, which occupied parts of Lebanon during the civil war, did not completely withdraw until 2000. Neighboring Syria influenced Lebanon's foreign and domestic policies, while its military occupied Lebanon from 1976 until 2005; however, its influence diminished significantly after 2005. Over 1.5 million Syrian refugees have fled to Lebanon since the start of the Syrian conflict in 2011. Hizballah - a major Lebanese political party, militia, and US-designated foreign terrorist organization - and Israel have continued attacks and counterattacks against each other after Syria's withdrawal and fought a brief war in 2006. After HAMAS attacked Israel on 7 October 2023, the intensity and frequency of these cross-border attacks increased substantially into a cycle of hostilities, mostly limited to the border areas as of January 2024. Lebanon's borders with Syria and Israel remain unresolved.<br><br>Since 2019, Lebanon has experienced a severe economic crisis that has crippled its economy, shut down its previously lucrative banking sector, reduced the value of its currency, and caused many Lebanese to emigrate in search of better prospects.<br>
+As a result of its location at the crossroads of three continents, the area that is modern-day Lebanon is rich in cultural and religious diversity. This region was subject to various foreign conquerors for much of its history, including the Romans, Arabs, and Ottomans. Following World War I, France acquired a mandate over the northern portion of the former Ottoman Empire province of Syria. From it the French demarcated the region of Lebanon in 1920, and it gained independence in 1943. Lebanon subsequently experienced periods of political turmoil interspersed with prosperity built on its position as a regional center for finance and trade.<br><br>The country's 1975-90 civil war, which resulted in an estimated 120,000 fatalities, was followed by years of social and political instability, and sectarianism remains a key element of Lebanese political life. The Israeli defense forces, which occupied parts of Lebanon during the civil war, did not completely withdraw until 2000. Neighboring Syria influenced Lebanon's foreign and domestic policies while its military occupied Lebanon from 1976 until 2005, but its influence diminished significantly after 2005. Over 1.5 million Syrian refugees fled to Lebanon after the start of the Syrian conflict in 2011. Hizballah -- a major Lebanese political party, militia, and US-designated foreign terrorist organization -- and Israel continued attacks and counterattacks against each other after Syria's withdrawal and fought a brief war in 2006. After HAMAS attacked Israel on 7 October 2023, the intensity and frequency of these cross-border attacks increased substantially into a cycle of hostilities, mostly limited to the border areas as of January 2024. Lebanon's borders with Syria and Israel remain unresolved.<br><br>Lebanon's prosperity has significantly diminished since the beginning of the country's economic crisis in 2019, which has crippled its economy, shut down its previously lucrative banking sector, reduced the value of its currency, and caused many Lebanese to emigrate in search of better prospects.<br>
 
 ## Geography
 
@@ -73,7 +73,9 @@ smallest country in continental Asia; Nahr el Litani is the only major river in 
 ## People and Society
 
 **Population**<br>
-5,331,203 (2023 est.)<br>
+_total_: 5,364,482<br>
+_male_: 2,678,543<br>
+_female_: 2,685,939 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Lebanese (singular and plural)<br>
@@ -92,9 +94,9 @@ Muslim 67.8% (31.9% Sunni, 31.2% Shia, smaller percentages of Alawites and Ismai
 <strong>note:</strong> data represent the religious affiliation of the citizen population (data do not include Lebanon's sizable Syrian and Palestinian refugee populations); 18 religious sects recognized<br>
 
 **Age structure**<br>
-_0-14 years_: 19.21% (male 524,172/female 500,185)<br>
-_15-64 years_: 71.69% (male 1,929,150/female 1,892,806)<br>
-_65 years and over_: 9.1% (2023 est.) (male 208,436/female 276,454)<br>
+_0-14 years_: 18.9% (male 519,352/female 495,591)<br>
+_15-64 years_: 71.6% (male 1,939,311/female 1,900,574)<br>
+_65 years and over_: 9.5% (2024 est.) (male 219,880/female 289,774)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 59.3<br>
@@ -103,21 +105,21 @@ _elderly dependency ratio_: 15.3<br>
 _potential support ratio_: 6.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 35.8 years (2023 est.)<br>
-_male_: 35.1 years<br>
-_female_: 36.4 years<br>
+_total_: 36.3 years (2024 est.)<br>
+_male_: 35.6 years<br>
+_female_: 36.9 years<br>
 
 **Population growth rate**<br>
-0.64% (2023 est.)<br>
+0.61% (2024 est.)<br>
 
 **Birth rate**<br>
-12.9 births/1,000 population (2023 est.)<br>
+12.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.6 deaths/1,000 population (2023 est.)<br>
+5.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.9 migrant(s)/1,000 population (2023 est.)<br>
+-0.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the majority of the people live on or near the Mediterranean coast, and of these most live in and around the capital, Beirut; favorable growing conditions in the Bekaa Valley, on the southeastern side of the Lebanon Mountains, have attracted farmers and thus the area exhibits a smaller population density<br>
@@ -133,27 +135,27 @@ _rate of urbanization_: -1.23% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 1.02 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.76 male(s)/female<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 21 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 7.4 deaths/1,000 live births<br>
-_female_: 6.3 deaths/1,000 live births<br>
+_total_: 6.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 7.3 deaths/1,000 live births<br>
+_female_: 6.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79 years (2023 est.)<br>
-_male_: 77.6 years<br>
-_female_: 80.5 years<br>
+_total population_: 79.2 years (2024 est.)<br>
+_male_: 77.8 years<br>
+_female_: 80.7 years<br>
 
 **Total fertility rate**<br>
-1.71 children born/woman (2023 est.)<br>
+1.71 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.83 (2023 est.)<br>
+0.83 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -681,10 +683,10 @@ Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, 
 4.6% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 75,000 active troops (72,000 Army; 1,500 Navy; 1,500 Air Force) (2023)<br>
+approximately 73,000 active troops (70,000 Army; 1,500 Navy; 1,500 Air Force) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LAF inventory includes a wide mix of mostly older equipment from a diverse array of countries; in recent years, the US has been the leading supplier of armaments to Lebanon (2023)<br>
+the LAF inventory includes a wide mix of mostly older equipment from a diverse array of countries; in recent years, the US has been the leading supplier of armaments to Lebanon; the country's economic crisis has severely limited military procurement (2024)<br>
 
 **Military service age and obligation**<br>
 17-25 years of age for men and women for voluntary military service; no conscription (2024)<br>

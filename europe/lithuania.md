@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Lithuanian lands were united under MINDAUGAS in 1236; over the next century, through alliances and conquest, Lithuania extended its territory to include most of present-day Belarus and Ukraine. By the end of the 14th century Lithuania was the largest state in Europe. An alliance with Poland in 1386 led the two countries into a union through the person of a common ruler. In 1569, Lithuania and Poland formally united into a single dual state, the Polish-Lithuanian Commonwealth. This entity survived until 1795 when its remnants were partitioned by surrounding countries. Lithuania regained its independence following World War I but was annexed by the USSR in 1940 - an action never recognized by the US and many other countries. On 11 March 1990, Lithuania became the first of the Soviet republics to declare its independence, but Moscow did not recognize this proclamation until September of 1991 (following the abortive coup in Moscow). The last Russian troops withdrew in 1993. Lithuania subsequently restructured its economy for integration into West European institutions; it joined both NATO and the EU in the spring of 2004. In 2015, Lithuania joined the euro zone, and it joined the Organization for Economic Cooperation and Development in 2018.<br>
+Lithuanian lands were united under MINDAUGAS in 1236; over the next century, Lithuania extended its territory through alliances and conquest to include most of present-day Belarus and Ukraine. By the end of the 14th century, Lithuania was the largest state in Europe. An alliance with Poland in 1386 led the two countries into a union through a common ruler. In 1569, Lithuania and Poland formally united into a single dual state, the Polish-Lithuanian Commonwealth. This entity survived until 1795 when surrounding countries partitioned its remnants. Lithuania regained its independence after World War I, but the USSR annexed it in 1940 -- an action never recognized by the US and many other countries. In 1990, Lithuania became the first of the Soviet republics to declare its independence, but Moscow did not recognize this proclamation until 1991. The last Russian troops withdrew in 1993. Lithuania subsequently restructured its economy for integration into West European institutions; it joined both NATO and the EU in 2004. In 2015, Lithuania joined the euro zone, and it joined the Organization for Economic Cooperation and Development in 2018.<br>
 
 ## Geography
 
@@ -76,7 +76,9 @@ fertile central plains are separated by hilly uplands that are ancient glacial d
 ## People and Society
 
 **Population**<br>
-2,655,755 (2023 est.)<br>
+_total_: 2,628,186<br>
+_male_: 1,214,994<br>
+_female_: 1,413,192 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Lithuanian(s)<br>
@@ -93,9 +95,9 @@ _major-language sample(s)_: <br>Pasaulio enciklopedija – naudingas bendrosios 
 Roman Catholic 74.2%, Russian Orthodox 3.7%, Old Believer 0.6%, Evangelical Lutheran 0.6%, Evangelical Reformist 0.2%, other (including Sunni Muslim, Jewish, Greek Catholic, and Karaite) 0.9%, none 6.1%, unspecified 13.7% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 15.3% (male 208,669/female 197,728)<br>
-_15-64 years_: 63.11% (male 821,319/female 854,763)<br>
-_65 years and over_: 21.59% (2023 est.) (male 197,217/female 376,059)<br>
+_0-14 years_: 15.2% (male 205,154/female 194,386)<br>
+_15-64 years_: 62.6% (male 808,435/female 837,908)<br>
+_65 years and over_: 22.2% (2024 est.) (male 201,405/female 380,898)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.7<br>
@@ -104,21 +106,21 @@ _elderly dependency ratio_: 32.1<br>
 _potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 45 years (2023 est.)<br>
-_male_: 40.6 years<br>
-_female_: 49 years<br>
+_total_: 45.1 years (2024 est.)<br>
+_male_: 40.9 years<br>
+_female_: 49.2 years<br>
 
 **Population growth rate**<br>
--1.04% (2023 est.)<br>
+-1.05% (2024 est.)<br>
 
 **Birth rate**<br>
-9.1 births/1,000 population (2023 est.)<br>
+8.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-15.2 deaths/1,000 population (2023 est.)<br>
+15.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--4.3 migrant(s)/1,000 population (2023 est.)<br>
+-4.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, and the western port of Klaipeda<br>
@@ -134,8 +136,8 @@ _rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.52 male(s)/female<br>
-_total population_: 0.86 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.53 male(s)/female<br>
+_total population_: 0.86 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.2 years (2020 est.)<br>
@@ -144,20 +146,20 @@ _total population_: 0.86 male(s)/female (2023 est.)<br>
 9 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.6 deaths/1,000 live births (2023 est.)<br>
-_male_: 4.1 deaths/1,000 live births<br>
+_total_: 3.6 deaths/1,000 live births (2024 est.)<br>
+_male_: 4 deaths/1,000 live births<br>
 _female_: 3.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76 years (2023 est.)<br>
-_male_: 70.6 years<br>
-_female_: 81.6 years<br>
+_total population_: 76.1 years (2024 est.)<br>
+_male_: 70.8 years<br>
+_female_: 81.7 years<br>
 
 **Total fertility rate**<br>
-1.61 children born/woman (2023 est.)<br>
+1.62 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.78 (2023 est.)<br>
+0.79 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

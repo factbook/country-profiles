@@ -83,7 +83,9 @@ historically, an area of conflict because of flat terrain and the lack of natura
 ## People and Society
 
 **Population**<br>
-37,991,766 (2023 est.)<br>
+_total_: 38,746,310<br>
+_male_: 18,441,415<br>
+_female_: 20,304,895 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Pole(s)<br>
@@ -98,12 +100,12 @@ Polish (official) 98.2%, Silesian 1.4%, other 1.1%, unspecified 1.2%; note - dat
 _major-language sample(s)_: <br>Księga Faktów Świata, niezbędne źródło podstawowych informacji. (Polish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Catholic 85% (includes Roman Catholic 84.8% and other Catholic 0.3%), Orthodox 1.3% (almost all are Polish Autocephalous Orthodox), Protestant 0.4% (mainly Augsburg Evangelical and Pentecostal), other 0.3% (includes Jehovah's Witness, Buddhist, Hare Krishna, Gaudiya Vaishnavism, Muslim, Jewish, Church of Jesus Christ), unspecified 12.9% (2020 est.)<br>
+Catholic 84.6% (Roman Catholic 84.6% and other Catholic 0.3%), Orthodox 1.3% (almost all are Polish Autocephalous Orthodox), Protestant 0.4% (mainly Augsburg Evangelical and Pentecostal), other 0.3% (includes Jehovah's Witness, Buddhist, Hare Krishna, Gaudiya Vaishnavism, Muslim, Jewish, Church of Jesus Christ), unspecified 13% (2022 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 14.53% (male 2,839,788/female 2,680,401)<br>
-_15-64 years_: 64.87% (male 12,364,282/female 12,280,814)<br>
-_65 years and over_: 20.6% (2023 est.) (male 3,171,838/female 4,654,643)<br>
+_0-14 years_: 14.2% (male 2,830,048/female 2,676,300)<br>
+_15-64 years_: 65.9% (male 12,513,402/female 13,036,977)<br>
+_65 years and over_: 19.8% (2024 est.) (male 3,097,965/female 4,591,618)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.4<br>
@@ -112,21 +114,21 @@ _elderly dependency ratio_: 28.6<br>
 _potential support ratio_: 3.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42.4 years (2023 est.)<br>
-_male_: 41.1 years<br>
-_female_: 43.7 years<br>
+_total_: 42.9 years (2024 est.)<br>
+_male_: 41.5 years<br>
+_female_: 44.3 years<br>
 
 **Population growth rate**<br>
--1.03% (2023 est.)<br>
+-1% (2024 est.)<br>
 
 **Birth rate**<br>
-8.7 births/1,000 population (2023 est.)<br>
+8.4 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-12.9 deaths/1,000 population (2023 est.)<br>
+12.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--6.1 migrant(s)/1,000 population (2023 est.)<br>
+-6.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the southern area around Krakow and the central area around Warsaw and Lodz, with an extension to the northern coastal city of Gdansk<br>
@@ -141,9 +143,9 @@ _rate of urbanization_: -0.16% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.68 male(s)/female<br>
-_total population_: 0.9 male(s)/female (2023 est.)<br>
+_15-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.67 male(s)/female<br>
+_total population_: 0.91 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.9 years (2020 est.)<br>
@@ -152,20 +154,20 @@ _total population_: 0.9 male(s)/female (2023 est.)<br>
 2 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 5.6 deaths/1,000 live births<br>
-_female_: 4.7 deaths/1,000 live births<br>
+_total_: 4.9 deaths/1,000 live births (2024 est.)<br>
+_male_: 5.3 deaths/1,000 live births<br>
+_female_: 4.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.8 years (2023 est.)<br>
-_male_: 71.7 years<br>
-_female_: 80 years<br>
+_total population_: 76.7 years (2024 est.)<br>
+_male_: 72.8 years<br>
+_female_: 80.9 years<br>
 
 **Total fertility rate**<br>
-1.31 children born/woman (2023 est.)<br>
+1.32 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.64 (2023 est.)<br>
+0.64 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 62.3% (2014)<br>

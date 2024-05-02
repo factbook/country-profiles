@@ -69,7 +69,9 @@ landlocked; an enclave of (completely surrounded by) Italy; smallest independent
 ## People and Society
 
 **Population**<br>
-34,892 (2023 est.)<br>
+_total_: 35,095<br>
+_male_: 16,944<br>
+_female_: 18,151 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Sammarinese (singular and plural)<br>
@@ -86,9 +88,9 @@ _major-language sample(s)_: <br>L'Almanacco dei fatti del mondo, l'indispensabil
 Roman Catholic<br>
 
 **Age structure**<br>
-_0-14 years_: 14.34% (male 2,615/female 2,388)<br>
-_15-64 years_: 64.58% (male 10,906/female 11,628)<br>
-_65 years and over_: 21.08% (2023 est.) (male 3,329/female 4,026)<br>
+_0-14 years_: 14.2% (male 2,614/female 2,387)<br>
+_15-64 years_: 64.3% (male 10,916/female 11,648)<br>
+_65 years and over_: 21.5% (2024 est.) (male 3,414/female 4,116)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49.6<br>
@@ -97,21 +99,21 @@ _elderly dependency ratio_: 30<br>
 _potential support ratio_: 3.3 (2021)<br>
 
 **Median age**<br>
-_total_: 45.9 years (2023 est.)<br>
-_male_: 44.4 years<br>
-_female_: 47.2 years<br>
+_total_: 46.1 years (2024 est.)<br>
+_male_: 44.5 years<br>
+_female_: 47.4 years<br>
 
 **Population growth rate**<br>
-0.59% (2023 est.)<br>
+0.57% (2024 est.)<br>
 
 **Birth rate**<br>
-8.9 births/1,000 population (2023 est.)<br>
+9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8.8 deaths/1,000 population (2023 est.)<br>
+8.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-5.9 migrant(s)/1,000 population (2023 est.)<br>
+5.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 97.8% of total population (2023)<br>
@@ -125,26 +127,26 @@ _at birth_: 1.09 male(s)/female<br>
 _0-14 years_: 1.1 male(s)/female<br>
 _15-64 years_: 0.94 male(s)/female<br>
 _65 years and over_: 0.83 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2023 est.)<br>
+_total population_: 0.93 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 31.9 years (2019)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.4 deaths/1,000 live births (2023 est.)<br>
-_male_: 7.5 deaths/1,000 live births<br>
-_female_: 5.1 deaths/1,000 live births<br>
+_total_: 6.2 deaths/1,000 live births (2024 est.)<br>
+_male_: 7.4 deaths/1,000 live births<br>
+_female_: 5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 84.1 years (2023 est.)<br>
-_male_: 81.5 years<br>
-_female_: 86.8 years<br>
+_total population_: 84.2 years (2024 est.)<br>
+_male_: 81.7 years<br>
+_female_: 87 years<br>
 
 **Total fertility rate**<br>
-1.53 children born/woman (2023 est.)<br>
+1.54 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.73 (2023 est.)<br>
+0.74 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

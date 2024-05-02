@@ -76,7 +76,9 @@ four volcanoes, two of them active, rise near the capital of San Jose in the cen
 ## People and Society
 
 **Population**<br>
-5,256,612 (2023 est.)<br>
+_total_: 5,265,575<br>
+_male_: 2,635,481<br>
+_female_: 2,630,094 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Costa Rican(s)<br>
@@ -96,9 +98,9 @@ Roman Catholic 47.5%, Evangelical and Pentecostal 19.8%, Jehovah's Witness 1.4%,
 <p>Costa Rica's political stability, high standard of living, and well-developed social benefits system set it apart from its Central American neighbors. Through the government's sustained social spending - almost 20% of GDP annually - Costa Rica has made tremendous progress toward achieving its goal of providing universal access to education, healthcare, clean water, sanitation, and electricity. Since the 1970s, expansion of these services has led to a rapid decline in infant mortality, an increase in life expectancy at birth, and a sharp decrease in the birth rate. The average number of children born per women has fallen from about 7 in the 1960s to 3.5 in the early 1980s to below replacement level today. Costa Rica's poverty rate is lower than in most Latin American countries, but it has stalled at around 20% for almost two decades.</p><p>Costa Rica is a popular regional immigration destination because of its job opportunities and social programs. Almost 9% of the population is foreign-born, with Nicaraguans comprising nearly three-quarters of the foreign population. Many Nicaraguans who perform unskilled seasonal labor enter Costa Rica illegally or overstay their visas, which continues to be a source of tension. Less than 3% of Costa Rica's population lives abroad. The overwhelming majority of expatriates have settled in the United States after completing a university degree or in order to work in a highly skilled field.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 21.49% (male 577,782/female 552,041)<br>
-_15-64 years_: 68.59% (male 1,813,827/female 1,791,510)<br>
-_65 years and over_: 9.92% (2023 est.) (male 238,971/female 282,481)<br>
+_0-14 years_: 18.8% (male 506,041/female 482,481)<br>
+_15-64 years_: 70.2% (male 1,862,872/female 1,832,024)<br>
+_65 years and over_: 11.1% (2024 est.) (male 266,568/female 315,589)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 45.1<br>
@@ -107,21 +109,21 @@ _elderly dependency ratio_: 15.3<br>
 _potential support ratio_: 6.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 35 years (2023 est.)<br>
-_male_: 34.4 years<br>
-_female_: 35.6 years<br>
+_total_: 35.5 years (2024 est.)<br>
+_male_: 34.9 years<br>
+_female_: 36.1 years<br>
 
 **Population growth rate**<br>
-0.72% (2023 est.)<br>
+0.74% (2024 est.)<br>
 
 **Birth rate**<br>
-10.7 births/1,000 population (2023 est.)<br>
+10.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.5 deaths/1,000 population (2023 est.)<br>
+5.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-2 migrant(s)/1,000 population (2023 est.)<br>
+1.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 roughly half of the nation's population resides in urban areas; the capital of San Jose is the largest city and home to approximately one-fifth of the population<br>
@@ -136,28 +138,28 @@ _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.85 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.84 male(s)/female<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 22 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7 deaths/1,000 live births (2023 est.)<br>
-_male_: 7.4 deaths/1,000 live births<br>
-_female_: 6.6 deaths/1,000 live births<br>
+_total_: 6.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 7 deaths/1,000 live births<br>
+_female_: 6.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.6 years (2023 est.)<br>
-_male_: 77 years<br>
-_female_: 82.4 years<br>
+_total population_: 80.3 years (2024 est.)<br>
+_male_: 77.7 years<br>
+_female_: 82.9 years<br>
 
 **Total fertility rate**<br>
-1.4 children born/woman (2023 est.)<br>
+1.43 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.68 (2023 est.)<br>
+0.7 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 70.9% (2018)<br>
@@ -711,7 +713,7 @@ has a small, new program focused on promoting the use of space to develop the co
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 30,100 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 29,405 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2023)<br>
 _stateless persons_: 192 (2022)<br>
 
 **Illicit drugs**<br>

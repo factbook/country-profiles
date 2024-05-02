@@ -82,7 +82,9 @@ landlocked; almost the precise center of Africa<br>
 ## People and Society
 
 **Population**<br>
-5,552,228 (2023 est.)<br>
+_total_: 5,650,957<br>
+_male_: 2,814,497<br>
+_female_: 2,836,460 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Central African(s)<br>
@@ -102,9 +104,9 @@ Roman Catholic 34.6%, Protestant 15.7%, other Christian 22.9%, Muslim 13.8%, eth
 <p>The Central African Republic’s (CAR) humanitarian crisis has worsened since the coup of March 2013. CAR’s high mortality rate and low life expectancy are attributed to elevated rates of preventable and treatable diseases (including malaria and malnutrition), an inadequate health care system, precarious food security, and armed conflict. Some of the worst mortality rates are in western CAR’s diamond mining region, which has been impoverished because of government attempts to control the diamond trade and the fall in industrial diamond prices. To make matters worse, the government and international donors have reduced health funding in recent years. The CAR’s weak educational system and low literacy rate have also suffered as a result of the country’s ongoing conflict. Schools are closed, qualified teachers are scarce, infrastructure, funding, and supplies are lacking and subject to looting, and many students and teachers have been displaced by violence.</p> <p>Rampant poverty, human rights violations, unemployment, poor infrastructure, and a lack of security and stability have led to forced displacement internally and externally. Since the political crisis that resulted in CAR’s March 2013 coup began in December 2012, approximately 600,000 people have fled to Chad, the Democratic Republic of the Congo, and other neighboring countries, while another estimated 515,000 were displaced internally as of December 2022. The UN has urged countries to refrain from repatriating CAR refugees amid the heightened lawlessness.</p> (2019)<br>
 
 **Age structure**<br>
-_0-14 years_: 38.84% (male 1,104,007/female 1,052,411)<br>
-_15-64 years_: 57.71% (male 1,577,102/female 1,627,133)<br>
-_65 years and over_: 3.45% (2023 est.) (male 83,431/female 108,144)<br>
+_0-14 years_: 38.5% (male 1,113,795/female 1,063,971)<br>
+_15-64 years_: 58% (male 1,613,770/female 1,662,522)<br>
+_65 years and over_: 3.5% (2024 est.) (male 86,932/female 109,967)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 102.8<br>
@@ -113,21 +115,21 @@ _elderly dependency ratio_: 5.1<br>
 _potential support ratio_: 19.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20.2 years (2023 est.)<br>
-_male_: 19.5 years<br>
-_female_: 21.1 years<br>
+_total_: 20.4 years (2024 est.)<br>
+_male_: 19.7 years<br>
+_female_: 21.2 years<br>
 
 **Population growth rate**<br>
-1.77% (2023 est.)<br>
+1.76% (2024 est.)<br>
 
 **Birth rate**<br>
-32.4 births/1,000 population (2023 est.)<br>
+31.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-11.5 deaths/1,000 population (2023 est.)<br>
+11.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--3.2 migrant(s)/1,000 population (2023 est.)<br>
+-3.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 majority of residents live in the western and central areas of the country, especially in and around the capital of Bangui as shown in this population distribution map<br>
@@ -143,27 +145,27 @@ _rate of urbanization_: 3.32% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.79 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 835 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 81.7 deaths/1,000 live births (2023 est.)<br>
-_male_: 87.7 deaths/1,000 live births<br>
-_female_: 75.6 deaths/1,000 live births<br>
+_total_: 80.5 deaths/1,000 live births (2024 est.)<br>
+_male_: 86.4 deaths/1,000 live births<br>
+_female_: 74.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 56 years (2023 est.)<br>
-_male_: 54.6 years<br>
-_female_: 57.3 years<br>
+_total population_: 56.4 years (2024 est.)<br>
+_male_: 55.1 years<br>
+_female_: 57.7 years<br>
 
 **Total fertility rate**<br>
-3.99 children born/woman (2023 est.)<br>
+3.94 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.97 (2023 est.)<br>
+1.94 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 17.8% (2019)<br>

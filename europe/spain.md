@@ -80,7 +80,9 @@ strategic location along approaches to Strait of Gibraltar; Spain controls a num
 ## People and Society
 
 **Population**<br>
-47,222,613 (2023 est.)<br>
+_total_: 47,280,433<br>
+_male_: 23,069,327<br>
+_female_: 24,211,106 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Spaniard(s)<br>
@@ -98,9 +100,9 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 Roman Catholic 58.2%, atheist 16.2%, agnostic 10.8%, other 2.7%, non-believer 10.5%, unspecified 1.7% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 13.37% (male 3,226,491/female 3,087,271)<br>
-_15-64 years_: 66.13% (male 15,649,418/female 15,577,164)<br>
-_65 years and over_: 20.5% (2023 est.) (male 4,169,949/female 5,512,320)<br>
+_0-14 years_: 13% (male 3,147,019/female 3,012,821)<br>
+_15-64 years_: 66.1% (male 15,662,492/female 15,585,138)<br>
+_65 years and over_: 20.9% (2024 est.) (male 4,259,816/female 5,613,147)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 52.4<br>
@@ -109,21 +111,21 @@ _elderly dependency ratio_: 30.2<br>
 _potential support ratio_: 3.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 46.3 years (2023 est.)<br>
-_male_: 45.2 years<br>
-_female_: 47.4 years<br>
+_total_: 46.8 years (2024 est.)<br>
+_male_: 45.7 years<br>
+_female_: 47.8 years<br>
 
 **Population growth rate**<br>
-0.12% (2023 est.)<br>
+0.12% (2024 est.)<br>
 
 **Birth rate**<br>
-7.1 births/1,000 population (2023 est.)<br>
+7.1 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-10.1 deaths/1,000 population (2023 est.)<br>
+10 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-4.2 migrant(s)/1,000 population (2023 est.)<br>
+4.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior reflecting Spain's agrarian heritage; very dense settlement around the capital of Madrid, as well as the port city of Barcelona<br>
@@ -138,10 +140,10 @@ _rate of urbanization_: 0.24% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.05 male(s)/female<br>
+_0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
 _65 years and over_: 0.76 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 31.2 years (2020 est.)<br>
@@ -150,20 +152,20 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.4 deaths/1,000 live births (2023 est.)<br>
+_total_: 2.4 deaths/1,000 live births (2024 est.)<br>
 _male_: 2.7 deaths/1,000 live births<br>
-_female_: 2.2 deaths/1,000 live births<br>
+_female_: 2.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.8 years (2023 est.)<br>
-_male_: 80.1 years<br>
-_female_: 85.6 years<br>
+_total population_: 83 years (2024 est.)<br>
+_male_: 80.3 years<br>
+_female_: 85.8 years<br>
 
 **Total fertility rate**<br>
-1.29 children born/woman (2023 est.)<br>
+1.3 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.63 (2023 est.)<br>
+0.64 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 62.1% (2018)<br>

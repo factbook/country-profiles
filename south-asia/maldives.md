@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>A sultanate since the 12th century, the Maldives became a British protectorate in 1887. The islands became a republic in 1968, three years after independence. President Maumoon Abdul GAYOOM dominated Maldives' political scene for 30 years, elected to six successive terms by single-party referendums. Following political demonstrations in the capital Male in August 2003, GAYOOM and his government pledged to embark upon a process of liberalization and democratic reforms, including a more representative political system and expanded political freedoms. Political parties were legalized in 2005.</p> <p>In June 2008, a constituent assembly - termed the "Special Majlis" - finalized a new constitution ratified by GAYOOM in August 2008. The first-ever presidential elections under a multi-candidate, multi-party system were held in October 2008. GAYOOM was defeated in a runoff poll by Mohamed NASHEED, a political activist who had been jailed several years earlier by the GAYOOM regime. In early February 2012, after several weeks of street protests in response to his ordering the arrest of a top judge, NASHEED purportedly resigned the presidency and handed over power to Vice President Mohammed WAHEED Hassan Maniku. A government-appointed Commission of National Inquiry concluded there was no evidence of a coup, but NASHEED contends that police and military personnel forced him to resign. NASHEED, WAHEED, and Abdulla YAMEEN Abdul Gayoom ran in the 2013 elections with YAMEEN ultimately winning the presidency after three rounds of voting. In September 2018, YAMEEN lost his reelection bid to Ibrahim Mohamed SOLIH, a parliamentarian of the Maldivian Democratic Party (MDP), who had the support of a coalition of four parties that came together to defeat YAMEEN. In April 2019, SOLIH's MDP won 65 of 87 seats in parliament. YAMEEN was arrested and jailed in December 2022 on corruption charges. Maldives fourth democratic election was held in September 2023. The winner, Male City Mayor Dr. Mohamed MUIZZU, campaigned on a platform of Maldivian sovereignty, vowing to remove Indian military personnel from the country. MUIZZU represents a joint Progressive Pary of Maldives and People's National Congress (PPM/PNC) coalition.  </p><br>
+<p>A sultanate since the 12th century, the Maldives became a British protectorate in 1887 and a republic in 1968, three years after independence. President Maumoon Abdul GAYOOM dominated Maldives' political scene for 30 years, elected to six successive terms by single-party referendums. After political demonstrations in the capital Male in 2003, GAYOOM and his government pledged to embark upon a process of liberalization and democratic reforms, including a more representative political system and expanded political freedoms. Political parties were legalized in 2005.</p> <p>In 2008, a constituent assembly -- termed the "Special Majlis" -- finalized a new constitution ratified by GAYOOM. The first-ever presidential elections under a multi-candidate, multi-party system were held later that year. GAYOOM was defeated in a runoff by Mohamed NASHEED, a political activist whom the regime had jailed several years earlier. In 2012, after several weeks of street protests in response to a top judge's arrest, NASHEED resigned the presidency and handed over power to Vice President Mohammed WAHEED Hassan Maniku. A government-appointed Commission of National Inquiry concluded that there was no evidence of a coup, but NASHEED contended that police and military personnel forced him to resign. NASHEED, WAHEED, and Abdulla YAMEEN Abdul Gayoom ran in the 2013 elections with YAMEEN ultimately winning the presidency after three rounds of voting. In 2018, YAMEEN lost his reelection bid to parliamentarian Ibrahim Mohamed SOLIH. YAMEEN was arrested and jailed in 2022 on corruption charges. Maldives' fourth democratic election was held in September 2023. The winner, Male City Mayor Dr. Mohamed MUIZZU, campaigned on a platform of Maldivian sovereignty, vowing to remove Indian military personnel from the country. MUIZZU represents a joint Progressive Pary of Maldives and People's National Congress (PPM/PNC) coalition.  </p><br>
 
 ## Geography
 
@@ -75,7 +75,9 @@ smallest Asian country; archipelago of 1,190 coral islands grouped into 26 atoll
 ## People and Society
 
 **Population**<br>
-521,021 (2023 est.)<br>
+_total_: 388,858<br>
+_male_: 197,739<br>
+_female_: 191,119 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Maldivian(s)<br>
@@ -91,9 +93,9 @@ Dhivehi (official, closely related to Sinhala, script derived from Arabic), Engl
 Sunni Muslim (official)<br>
 
 **Age structure**<br>
-_0-14 years_: 22.25% (male 44,185/female 42,495)<br>
-_15-64 years_: 71.97% (male 146,154/female 134,233)<br>
-_65 years and over_: 5.78% (2023 est.) (male 9,866/female 12,635)<br>
+_0-14 years_: 22.4% (male 44,321/female 42,626)<br>
+_15-64 years_: 71.5% (male 143,021/female 135,044)<br>
+_65 years and over_: 6.1% (2024 est.) (male 10,397/female 13,449)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 35.6<br>
@@ -102,21 +104,21 @@ _elderly dependency ratio_: 6.2<br>
 _potential support ratio_: 16.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.3 years (2023 est.)<br>
-_male_: 30.8 years<br>
-_female_: 31.9 years<br>
+_total_: 31.9 years (2024 est.)<br>
+_male_: 31.3 years<br>
+_female_: 32.4 years<br>
 
 **Population growth rate**<br>
--0.17% (2023 est.)<br>
+-0.2% (2024 est.)<br>
 
 **Birth rate**<br>
-15.3 births/1,000 population (2023 est.)<br>
+15.1 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-4.2 deaths/1,000 population (2023 est.)<br>
+4.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--12.8 migrant(s)/1,000 population (2023 est.)<br>
+-12.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 about a third of the population lives in the centrally located capital city of Male and almost a tenth in southern Addu City; the remainder of the populace is spread over the 200 or so populated islands of the archipelago<br>
@@ -131,9 +133,9 @@ _rate of urbanization_: 2.34% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-64 years_: 1.09 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 1.06 male(s)/female (2023 est.)<br>
+_15-64 years_: 1.06 male(s)/female<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 1.04 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23.2 years (2016/17 est.)<br>
@@ -143,20 +145,20 @@ _total population_: 1.06 male(s)/female (2023 est.)<br>
 57 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 25 deaths/1,000 live births (2023 est.)<br>
-_male_: 28 deaths/1,000 live births<br>
-_female_: 21.9 deaths/1,000 live births<br>
+_total_: 24.4 deaths/1,000 live births (2024 est.)<br>
+_male_: 27.3 deaths/1,000 live births<br>
+_female_: 21.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.2 years (2023 est.)<br>
-_male_: 74.8 years<br>
-_female_: 79.7 years<br>
+_total population_: 77.4 years (2024 est.)<br>
+_male_: 75.1 years<br>
+_female_: 79.9 years<br>
 
 **Total fertility rate**<br>
-1.7 children born/woman (2023 est.)<br>
+1.7 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.83 (2023 est.)<br>
+0.83 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 18.8% (2016/17)<br>

@@ -80,7 +80,9 @@ shares island of Hispaniola with Haiti (eastern two-thirds makes up the Dominica
 ## People and Society
 
 **Population**<br>
-10,790,744 (2023 est.)<br>
+_total_: 10,815,857<br>
+_male_: 5,465,776<br>
+_female_: 5,350,081 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Dominican(s)<br>
@@ -98,9 +100,9 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 Evangelical 50.2%, Roman Catholic 30.1%, none 18.5%, unspecified 1.2% (2023 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 25.92% (male 1,422,186/female 1,374,991)<br>
-_15-64 years_: 67.09% (male 3,675,934/female 3,563,597)<br>
-_65 years and over_: 6.99% (2023 est.) (male 355,069/female 398,967)<br>
+_0-14 years_: 25.5% (male 1,402,847/female 1,358,833)<br>
+_15-64 years_: 66.9% (male 3,667,584/female 3,563,848)<br>
+_65 years and over_: 7.6% (2024 est.) (male 395,345/female 427,400)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.8<br>
@@ -109,21 +111,21 @@ _elderly dependency ratio_: 11.6<br>
 _potential support ratio_: 8.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 28.9 years (2023 est.)<br>
-_male_: 28.7 years<br>
-_female_: 29 years<br>
+_total_: 29.2 years (2024 est.)<br>
+_male_: 29.1 years<br>
+_female_: 29.4 years<br>
 
 **Population growth rate**<br>
-0.73% (2023 est.)<br>
+0.76% (2024 est.)<br>
 
 **Birth rate**<br>
-17.3 births/1,000 population (2023 est.)<br>
+17.3 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.3 deaths/1,000 population (2023 est.)<br>
+7.1 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--2.7 migrant(s)/1,000 population (2023 est.)<br>
+-2.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 coastal development is significant, especially in the southern coastal plains and the Cibao Valley, where population density is highest; smaller population clusters exist in the interior mountains (Cordillera Central)<br>
@@ -139,8 +141,8 @@ _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-64 years_: 1.03 male(s)/female<br>
-_65 years and over_: 0.89 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.93 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.9 years (2013 est.)<br>
@@ -150,20 +152,20 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 107 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.7 deaths/1,000 live births (2023 est.)<br>
-_male_: 25.4 deaths/1,000 live births<br>
-_female_: 19.9 deaths/1,000 live births<br>
+_total_: 21.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 24.3 deaths/1,000 live births<br>
+_female_: 19 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.9 years (2023 est.)<br>
-_male_: 70.3 years<br>
-_female_: 73.5 years<br>
+_total population_: 72.6 years (2024 est.)<br>
+_male_: 71 years<br>
+_female_: 74.3 years<br>
 
 **Total fertility rate**<br>
-2.13 children born/woman (2023 est.)<br>
+2.15 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.05 (2023 est.)<br>
+1.06 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 62.8% (2019)<br>
@@ -716,7 +718,7 @@ the military is responsible for defending the independence, integrity, and sover
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 115,283 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 121,141 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2023)<br>
 _stateless persons_: 133,770 (2016); note - a September 2013 Constitutional Court ruling revoked the citizenship of those born after 1929 to immigrants without proper documentation, even though the constitution at the time automatically granted citizenship to children born in the Dominican Republic and the 2010 constitution provides that constitutional provisions cannot be applied retroactively; the decision overwhelmingly affected people of Haitian descent whose relatives had come to the Dominican Republic since the 1890s as a cheap source of labor for sugar plantations; a May 2014 law passed by the Dominican Congress regularizes the status of those with birth certificates but will require those without them to prove they were born in the Dominican Republic and to apply for naturalization; the government has issued documents to thousands of individuals who may claim citizenship under this law, but no official estimate has been released<br>
 
 **Trafficking in persons**<br>

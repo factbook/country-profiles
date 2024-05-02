@@ -76,7 +76,9 @@ third largest island in the Caribbean (after Cuba and Hispaniola); strategic loc
 ## People and Society
 
 **Population**<br>
-2,820,982 (2023 est.)<br>
+_total_: 2,823,713<br>
+_male_: 1,397,495<br>
+_female_: 1,426,218 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Jamaican(s)<br>
@@ -92,9 +94,9 @@ English, Jamaican patois<br>
 Protestant 64.8% (includes Seventh Day Adventist 12.0%, Pentecostal 11.0%, Other Church of God 9.2%, New Testament Church of God 7.2%, Baptist 6.7%, Church of God in Jamaica 4.8%, Church of God of Prophecy 4.5%, Anglican 2.8%, United Church 2.1%, Methodist 1.6%, Revived 1.4%, Brethren 0.9%, and Moravian 0.7%), Roman Catholic 2.2%, Jehovah's Witness 1.9%, Rastafarian 1.1%, other 6.5%, none 21.3%, unspecified 2.3% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 24.11% (male 346,566/female 333,673)<br>
-_15-64 years_: 65.8% (male 914,208/female 942,134)<br>
-_65 years and over_: 10.08% (2023 est.) (male 135,388/female 149,013)<br>
+_0-14 years_: 23.8% (male 342,691/female 329,773)<br>
+_15-64 years_: 65.7% (male 914,364/female 941,816)<br>
+_65 years and over_: 10.4% (2024 est.) (male 140,440/female 154,629)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 38<br>
@@ -103,21 +105,21 @@ _elderly dependency ratio_: 13.4<br>
 _potential support ratio_: 7.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30.5 years (2023 est.)<br>
-_male_: 29.7 years<br>
-_female_: 31.3 years<br>
+_total_: 30.9 years (2024 est.)<br>
+_male_: 30.1 years<br>
+_female_: 31.7 years<br>
 
 **Population growth rate**<br>
-0.09% (2023 est.)<br>
+0.1% (2024 est.)<br>
 
 **Birth rate**<br>
-15.8 births/1,000 population (2023 est.)<br>
+15.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.4 deaths/1,000 population (2023 est.)<br>
+7.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--7.4 migrant(s)/1,000 population (2023 est.)<br>
+-7.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population density is high throughout, but increases in and around Kingston, Montego Bay, and Port Esquivel<br>
@@ -134,7 +136,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 0.97 male(s)/female<br>
 _65 years and over_: 0.91 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2023 est.)<br>
+_total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.2 years (2008 est.)<br>
@@ -144,20 +146,20 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 99 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 12.2 deaths/1,000 live births<br>
-_female_: 9.6 deaths/1,000 live births<br>
+_total_: 10.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 11.9 deaths/1,000 live births<br>
+_female_: 9.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76 years (2023 est.)<br>
-_male_: 74.3 years<br>
-_female_: 77.9 years<br>
+_total population_: 76.3 years (2024 est.)<br>
+_male_: 74.5 years<br>
+_female_: 78.1 years<br>
 
 **Total fertility rate**<br>
-2.05 children born/woman (2023 est.)<br>
+2.05 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1 (2023 est.)<br>
+1 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>In ancient and pre-colonial times, the area of present-day Nigeria was occupied by a great diversity of ethnic groups with different languages and traditions. These included large Islamic kingdoms such as Borno, Kano, and the Sokoto Caliphate dominating the north, the Benin and Oyo Empires that controlled much of modern western Nigeria, and more decentralized political entities and city states in the south and southeast. In 1914, the British amalgamated their separately administered northern and southern territories into a Colony and Protectorate of Nigeria. Nigeria achieved independence in from Britain in 1960 and transitioned to a federal republic with three constituent states in 1963 under President Nnamdi AZIKIWE. This structure served to enflame regional and ethnic tension, contributing to a bloody coup led by predominately southeastern military officers in 1966 and a countercoup later that year masterminded by northern officers. In the aftermath of this tension, the governor of Nigeria’s Eastern Region, centered on the southeast, declared the region independent as the Republic of Biafra. The ensuring civil war (1967-1970), resulted in more than a million deaths, many from starvation. While the war forged a stronger Nigerian state and national identity, it contributed to long-lasting mistrust of the southeast’s predominantly Igbo population. Wartime military leader Yakubu GOWON ruled until a bloodless coup by frustrated junior officers in 1975. This generation of officers, including Olusegun OBASANJO, Ibrahim BABANGIDA, and Muhammadu BUHARI, who would all later serve as president, continue to exert significant influence in Nigeria to the present day. Military rule predominated until the first durable transition to civilian government and adoption of a new constitution in 1999. The general elections of 2007 marked the first civilian-to-civilian transfer of power in the country's history. National and state elections in 2011 and 2015 were generally regarded as credible. The 2015 election was also heralded for the fact that the then-umbrella opposition party, the All Progressives Congress, defeated the long-ruling (since 1999) People's Democratic Party, and assumed the presidency, marking the first peaceful transfer of power from one party to another. Presidential and legislative elections in 2019 and 2023 were deemed broadly free and fair despite voting irregularities, intimidation, and violence. The government of Africa's most populous nation continues to face the daunting task of institutionalizing democracy and reforming a petroleum-based economy, whose revenues have been squandered through decades of corruption and mismanagement. In addition, Nigeria faces increasing violence from Islamic terrorism, largely in the northeast, large scale criminal banditry, secessionist violence in the southeast, and competition over land and resources nationwide.</p><br>
+<p>In ancient and pre-colonial times, the area of present-day Nigeria was occupied by a variety of ethnic groups with different languages and traditions. These included large Islamic kingdoms such as Borno, Kano, and the Sokoto Caliphate dominating the north, the Benin and Oyo Empires that controlled much of modern western Nigeria, and more decentralized political entities and city states in the south and southeast. In 1914, the British amalgamated their separately administered northern and southern territories into a Colony and Protectorate of Nigeria. <br><br>Nigeria achieved independence from Britain in 1960 and transitioned to a federal republic with three constituent states in 1963 under President Nnamdi AZIKIWE. This structure served to enflame regional and ethnic tension, contributing to a bloody coup led by predominately southeastern military officers in 1966 and a countercoup later that year masterminded by northern officers. In the aftermath of this tension, the governor of Nigeria’s Eastern Region, centered on the southeast, declared the region independent as the Republic of Biafra. The ensuring civil war (1967-1970), resulted in more than a million deaths, many from starvation. While the war forged a stronger Nigerian state and national identity, it contributed to long-lasting mistrust of the southeast’s predominantly Igbo population. Wartime military leader Yakubu GOWON ruled until a bloodless coup by frustrated junior officers in 1975. This generation of officers, including Olusegun OBASANJO, Ibrahim BABANGIDA, and Muhammadu BUHARI, who would all later serve as president, continue to exert significant influence in Nigeria to the present day. <br><br>Military rule predominated until the first durable transition to civilian government and adoption of a new constitution in 1999. The elections of 2007 marked the first civilian-to-civilian transfer of power in the country's history. National and state elections in 2011 and 2015 were generally regarded as credible. The 2015 election was also heralded for the fact that the then-umbrella opposition party, the All Progressives Congress, defeated the long-ruling (since 1999) People's Democratic Party and assumed the presidency, marking the first peaceful transfer of power from one party to another. Presidential and legislative elections in 2019 and 2023 were deemed broadly free and fair despite voting irregularities, intimidation, and violence. The government of Africa's most populous nation continues to face the daunting task of institutionalizing democracy and reforming a petroleum-based economy whose revenues have been squandered through decades of corruption and mismanagement. In addition, Nigeria faces increasing violence from Islamic terrorism, largely in the northeast, large scale criminal banditry, secessionist violence in the southeast, and competition over land and resources nationwide.</p><br>
 
 ## Geography
 
@@ -87,7 +87,9 @@ the Niger River enters the country in the northwest and flows southward through 
 ## People and Society
 
 **Population**<br>
-230,842,743 (2023 est.)<br>
+_total_: 236,747,130<br>
+_male_: 119,514,449<br>
+_female_: 117,232,681 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Nigerian(s)<br>
@@ -107,9 +109,9 @@ Muslim 53.5%, Roman Catholic 10.6%, other Christian 35.3%, other 0.6% (2018 est.
 <p>Nigeria’s population is projected to grow from more than 186 million people in 2016 to 392 million in 2050, becoming the world’s fourth most populous country. Nigeria’s sustained high population growth rate will continue for the foreseeable future because of population momentum and its high birth rate. Abuja has not successfully implemented family planning programs to reduce and space births because of a lack of political will, government financing, and the availability and affordability of services and products, as well as a cultural preference for large families. Increased educational attainment, especially among women, and improvements in health care are needed to encourage and to better enable parents to opt for smaller families.</p><p>Nigeria needs to harness the potential of its burgeoning youth population in order to boost economic development, reduce widespread poverty, and channel large numbers of unemployed youth into productive activities and away from ongoing religious and ethnic violence. While most movement of Nigerians is internal, significant emigration regionally and to the West provides an outlet for Nigerians looking for economic opportunities, seeking asylum, and increasingly pursuing higher education. Immigration largely of West Africans continues to be insufficient to offset emigration and the loss of highly skilled workers. Nigeria also is a major source, transit, and destination country for forced labor and sex trafficking.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 40.69% (male 47,978,838/female 45,940,446)<br>
-_15-64 years_: 55.95% (male 64,923,147/female 64,241,948)<br>
-_65 years and over_: 3.36% (2023 est.) (male 3,635,334/female 4,123,030)<br>
+_0-14 years_: 40.4% (male 48,856,606/female 46,770,810)<br>
+_15-64 years_: 56.2% (male 66,897,900/female 66,187,584)<br>
+_65 years and over_: 3.4% (2024 est.) (male 3,759,943/female 4,274,287)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 86<br>
@@ -118,21 +120,21 @@ _elderly dependency ratio_: 5.5<br>
 _potential support ratio_: 18 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.2 years (2023 est.)<br>
-_male_: 18.9 years<br>
-_female_: 19.4 years<br>
+_total_: 19.3 years (2024 est.)<br>
+_male_: 19.1 years<br>
+_female_: 19.6 years<br>
 
 **Population growth rate**<br>
-2.53% (2023 est.)<br>
+2.52% (2024 est.)<br>
 
 **Birth rate**<br>
-34 births/1,000 population (2023 est.)<br>
+33.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8.5 deaths/1,000 population (2023 est.)<br>
+8.4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.2 migrant(s)/1,000 population (2023 est.)<br>
+-0.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 largest population of any African nation; significant population clusters are scattered throughout the country, with the highest density areas being in the south and southwest as shown in this population distribution map<br>
@@ -149,7 +151,7 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 1.01 male(s)/female<br>
 _65 years and over_: 0.88 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2023 est.)<br>
+_total population_: 1.02 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.4 years (2018 est.)<br>
@@ -159,20 +161,20 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 1,047 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 55.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 60.4 deaths/1,000 live births<br>
-_female_: 49.6 deaths/1,000 live births<br>
+_total_: 53.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 58.9 deaths/1,000 live births<br>
+_female_: 48.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 61.8 years (2023 est.)<br>
-_male_: 59.9 years<br>
-_female_: 63.8 years<br>
+_total population_: 62.2 years (2024 est.)<br>
+_male_: 60.4 years<br>
+_female_: 64.2 years<br>
 
 **Total fertility rate**<br>
-4.57 children born/woman (2023 est.)<br>
+4.52 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-2.22 (2023 est.)<br>
+2.19 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 16.6% (2018)<br>
@@ -360,7 +362,7 @@ _election results_: <br><em>2023:</em> Bola Ahmed Adekunle TINUBU elected presid
 **Legislative branch**<br>
 _description_: bicameral National Assembly consists of:<br>Senate (109 seats - 3 each for the 36 states and 1 for Abuja-Federal Capital Territory; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>House of Representatives (360 seats statutory, 258 current; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
 _elections_: Senate - last held on 25 February 2023 (next to be held in February 2027)<br>House of Representatives - last held on 25 February 2023 (next to be held in February 2027) <p> </p><br>
-_election results_: Senate - percent of vote by party - NA; seats by party - APC 59, PDP 36, LP 8, NNPP 2, SDP 2, YPP 1, APGA 1; composition as of February 2024 - men 105, women 4, percentage women 3.7%<em><em><br><br></em></em>House of Representatives - percent of vote by party - NA; seats by party - APC 178, PDP 114, LP 35, NNPP 19, APGA 5, other 7, vacant 2; composition as of February 2024 - men 344, women 14, percentage women 3.8%; note - total National Assembly percentage women 3.9% <p> </p><br>
+_election results_: Senate - percent of vote by party - NA; seats by party - APC 59, PDP 36, LP 8, NNPP 2, SDP 2, YPP 1, APGA 1; composition - men 105, women 4, percentage women 3.7%<em><em><br><br></em></em>House of Representatives - percent of vote by party - NA; seats by party - APC 178, PDP 114, LP 35, NNPP 19, APGA 5, other 7, vacant 2; composition - men 344, women 14, percentage women 3.8%; note - total National Assembly percentage women 3.9% <p> </p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 15 justices)<br>

@@ -78,7 +78,9 @@ strategic location along Danish Straits linking Baltic and North Seas; Sweden ha
 ## People and Society
 
 **Population**<br>
-10,536,338 (2023 est.)<br>
+_total_: 10,589,835<br>
+_male_: 5,332,701<br>
+_female_: 5,257,134 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Swede(s)<br>
@@ -101,9 +103,9 @@ Church of Sweden (Lutheran) 53.9%, other (includes Roman Catholic, Orthodox, Bap
 <p>Sweden, the largest Nordic country in terms of size and population, is also Europe’s most sparsely populated.  Most Swedish men and women agree that both partners should contribute to household income. Swedish society is very gender equal, which is reflected in the country’s public policies.  A generous leave policy and high-quality subsidized childcare allows mothers and fathers to balance work and family life. Sweden’s income-replacement-based parental leave policy encourages women to establish themselves in the workforce before having children.  In fact, Swedish women have one of the highest labor participation rates in Europe and one of its highest total fertility rates (TFR), the number of children women have in their lifetime.  Postponement of parenthood has increased steadily.  Since the late 1960s, marriage and divorce rates have declined, while non-marital cohabitation and births out of wedlock have increased rapidly. Sweden’s TFR has hovered for decades around 2, which is close to replacement level and among Europe’s highest.</p> <p>Sweden experienced “the great emigration” between 1850 and the 1930s when, faced with famines, approximately 1.5 million Swedes sought a better life in the Americas and Australia.  However, since World War II, Sweden has been a country of immigration. During World War II, thousands of refugees from neighboring countries worked in Swedish factories, agriculture, and forestry, replacing Swedish men who were called up for military service.  During the 1950s and 1960s, Sweden joined the Geneva Convention and granted permanent residence to refugees from the USSR and the Warsaw Pact countries. During this period, Sweden also welcomed labor migrants, mainly from Finland and other Nordic countries, who bolstered the tax base needed to fund the country’s welfare programs.</p> <p>Until 1971, labor migrants, particularly from Finland, southern Europe (including then Yugoslavia, Italy, and Greece) the Baltics, and Turkey, came to Sweden as its industries flourished.  Companies recruited many of the workers, but others came on their own. Sweden’s labor demand eventually decreased, and the job market became saturated. The government restricted the flow of labor migrants, putting an end to labor migration from non-Nordic countries in 1972. From then until the 1990s, inflows consisted largely of asylum seekers from the Middle East, the Balkans, and South America, as well as persons looking to reunite with family members already in Sweden.  The country began a new era of labor immigration in 2008, as companies were encouraged to hire non-EU workers.  Among the largest source countries have been India, Thailand, and China. As of 2020, over a quarter of Sweden’s population had a migrant background.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 17.26% (male 936,274/female 882,347)<br>
-_15-64 years_: 62.05% (male 3,346,891/female 3,190,608)<br>
-_65 years and over_: 20.69% (2023 est.) (male 1,021,707/female 1,158,511)<br>
+_0-14 years_: 17.1% (male 934,668/female 880,310)<br>
+_15-64 years_: 62.1% (male 3,365,754/female 3,208,248)<br>
+_65 years and over_: 20.8% (2024 est.) (male 1,032,279/female 1,168,576)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 60.8<br>
@@ -112,21 +114,21 @@ _elderly dependency ratio_: 32.3<br>
 _potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 41 years (2023 est.)<br>
-_male_: 40 years<br>
-_female_: 42 years<br>
+_total_: 41.1 years (2024 est.)<br>
+_male_: 40.1 years<br>
+_female_: 42.1 years<br>
 
 **Population growth rate**<br>
-0.51% (2023 est.)<br>
+0.51% (2024 est.)<br>
 
 **Birth rate**<br>
-10.8 births/1,000 population (2023 est.)<br>
+10.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.5 deaths/1,000 population (2023 est.)<br>
+9.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-3.8 migrant(s)/1,000 population (2023 est.)<br>
+4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most Swedes live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the Baltic coast in the east; the interior areas of the north remain sparsely populated<br>
@@ -143,7 +145,7 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.05 male(s)/female<br>
 _65 years and over_: 0.88 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2023 est.)<br>
+_total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.7 years (2020 est.)<br>
@@ -152,20 +154,20 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.3 deaths/1,000 live births (2023 est.)<br>
+_total_: 2.3 deaths/1,000 live births (2024 est.)<br>
 _male_: 2.5 deaths/1,000 live births<br>
-_female_: 2.1 deaths/1,000 live births<br>
+_female_: 2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.8 years (2023 est.)<br>
-_male_: 81.1 years<br>
+_total population_: 82.9 years (2024 est.)<br>
+_male_: 81.2 years<br>
 _female_: 84.7 years<br>
 
 **Total fertility rate**<br>
-1.67 children born/woman (2023 est.)<br>
+1.67 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.8 (2023 est.)<br>
+0.8 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 70.3% (2017)<br>

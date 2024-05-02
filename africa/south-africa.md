@@ -87,7 +87,9 @@ South Africa completely surrounds Lesotho and almost completely surrounds Eswati
 ## People and Society
 
 **Population**<br>
-58,048,332 (2023 est.)<br>
+_total_: 60,442,647<br>
+_male_: 29,664,388<br>
+_female_: 30,778,259 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: South African(s)<br>
@@ -108,9 +110,9 @@ Christian 85.3%, African traditional 7.8%, Muslim 1.6%, Hindu 1.1%, other 1.3%, 
 <p>South Africa’s youthful population is gradually aging, as the country’s total fertility rate (TFR) has declined dramatically from about 6 children per woman in the 1960s to roughly 2.2 in 2014, and has remained at this level as of 2022. This pattern is similar to fertility trends in South Asia, the Middle East, and North Africa, and sets South Africa apart from the rest of Sub-Saharan Africa, where the average TFR remains higher than other regions of the world. Today, South Africa’s decreasing number of reproductive age women is having fewer children, as women increase their educational attainment, workforce participation, and use of family planning methods; delay marriage; and opt for smaller families.</p> <p>As the proportion of working-age South Africans has grown relative to children and the elderly, South Africa has been unable to achieve a demographic dividend because persistent high unemployment and the prevalence of HIV/AIDs have created a larger-than-normal dependent population. HIV/AIDS was also responsible for South Africa’s average life expectancy plunging to less than 43 years in 2008; it has rebounded to 65 years as of 2022. HIV/AIDS continues to be a serious public health threat, although awareness-raising campaigns and the wider availability of anti-retroviral drugs is stabilizing the number of new cases, enabling infected individuals to live longer, healthier lives, and reducing mother-child transmissions.</p> <p>Migration to South Africa began in the second half of the 17th century when traders from the Dutch East India Company settled in the Cape and started using slaves from South and southeast Asia (mainly from India but also from present-day Indonesia, Bangladesh, Sri Lanka, and Malaysia) and southeast Africa (Madagascar and Mozambique) as farm laborers and, to a lesser extent, as domestic servants. The Indian subcontinent remained the Cape Colony’s main source of slaves in the early 18th century, while slaves were increasingly obtained from southeast Africa in the latter part of the 18th century and into the 19th century under British rule.</p> <p>After slavery was completely abolished in the British Empire in 1838, South Africa’s colonists turned to temporary African migrants and indentured labor through agreements with India and later China, countries that were anxious to export workers to alleviate domestic poverty and overpopulation. Of the more than 150,000 indentured Indian laborers hired to work in Natal’s sugar plantations between 1860 and 1911, most exercised the right as British subjects to remain permanently (a small number of Indian immigrants came freely as merchants). Because of growing resentment toward Indian workers, the 63,000 indentured Chinese workers who mined gold in Transvaal between 1904 and 1911 were under more restrictive contracts and generally were forced to return to their homeland.</p> <p>In the late 19th century and nearly the entire 20th century, South Africa’s then British colonies’ and Dutch states’ enforced selective immigration policies that welcomed "assimilable" white Europeans as permanent residents but excluded or restricted other immigrants. Following the Union of South Africa’s passage of a law in 1913 prohibiting Asian and other non-white immigrants and its elimination of the indenture system in 1917, temporary African contract laborers from neighboring countries became the dominant source of labor in the burgeoning mining industries. Others worked in agriculture and smaller numbers in manufacturing, domestic service, transportation, and construction. Throughout the 20th century, at least 40% of South Africa’s miners were foreigners; the numbers peaked at over 80% in the late 1960s. Mozambique, Lesotho, Botswana, and Eswatini were the primary sources of miners, and Malawi and Zimbabwe were periodic suppliers.</p> <p>Under apartheid, a "two gates" migration policy focused on policing and deporting illegal migrants rather than on managing migration to meet South Africa’s development needs. The exclusionary 1991 Aliens Control Act limited labor recruitment to the highly skilled as defined by the ruling white minority, while bilateral labor agreements provided exemptions that enabled the influential mining industry and, to a lesser extent, commercial farms, to hire temporary, low-paid workers from neighboring states. Illegal African migrants were often tacitly allowed to work for low pay in other sectors but were always under threat of deportation.</p> <p>The abolishment of apartheid in 1994 led to the development of a new inclusive national identity and the strengthening of the country’s restrictive immigration policy. Despite South Africa’s protectionist approach to immigration, the downsizing and closing of mines, and rising unemployment, migrants from across the continent believed that the country held work opportunities. Fewer African labor migrants were issued temporary work permits and, instead, increasingly entered South Africa with visitors’ permits or came illegally, which drove growth in cross-border trade and the informal job market. A new wave of Asian immigrants has also arrived over the last two decades, many operating small retail businesses.</p> <p>In the post-apartheid period, increasing numbers of highly skilled white workers emigrated, citing dissatisfaction with the political situation, crime, poor services, and a reduced quality of life. The 2002 Immigration Act and later amendments were intended to facilitate the temporary migration of skilled foreign labor to fill labor shortages, but instead the legislation continues to create regulatory obstacles. Although the education system has improved and brain drain has slowed in the wake of the 2008 global financial crisis, South Africa continues to face skills shortages in several key sectors, such as health care and technology.</p> <p>South Africa’s stability and economic growth has acted as a magnet for refugees and asylum seekers from nearby countries, despite the prevalence of discrimination and xenophobic violence. Refugees have included an estimated 350,000 Mozambicans during its 1980s civil war and, more recently, several thousand Somalis, Congolese, and Ethiopians. Nearly all of the tens of thousands of Zimbabweans who have applied for asylum in South Africa have been categorized as economic migrants and denied refuge.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 27.29% (male 7,931,943/female 7,906,715)<br>
-_15-64 years_: 66.17% (male 19,158,920/female 19,253,679)<br>
-_65 years and over_: 6.54% (2023 est.) (male 1,596,882/female 2,200,193)<br>
+_0-14 years_: 27.2% (male 8,227,690/female 8,194,392)<br>
+_15-64 years_: 65.3% (male 19,524,873/female 19,947,839)<br>
+_65 years and over_: 7.5% (2024 est.) (male 1,911,825/female 2,636,028)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 52.2<br>
@@ -119,21 +121,21 @@ _elderly dependency ratio_: 8.4<br>
 _potential support ratio_: 10.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30.1 years (2023 est.)<br>
-_male_: 29.9 years<br>
-_female_: 30.3 years<br>
+_total_: 30.4 years (2024 est.)<br>
+_male_: 30.1 years<br>
+_female_: 30.6 years<br>
 
 **Population growth rate**<br>
-1.08% (2023 est.)<br>
+1.07% (2024 est.)<br>
 
 **Birth rate**<br>
-18.3 births/1,000 population (2023 est.)<br>
+17.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.2 deaths/1,000 population (2023 est.)<br>
+6.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.3 migrant(s)/1,000 population (2023 est.)<br>
+-0.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the population concentrated along the southern and southeastern coast, and inland around Pretoria; the eastern half of the country is more densely populated than the west as shown in this population distribution map<br>
@@ -148,28 +150,28 @@ _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>
 _0-14 years_: 1 male(s)/female<br>
-_15-64 years_: 1 male(s)/female<br>
+_15-64 years_: 0.98 male(s)/female<br>
 _65 years and over_: 0.73 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2023 est.)<br>
+_total population_: 0.96 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 127 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 24.4 deaths/1,000 live births (2023 est.)<br>
-_male_: 26.3 deaths/1,000 live births<br>
-_female_: 22.4 deaths/1,000 live births<br>
+_total_: 21.9 deaths/1,000 live births (2024 est.)<br>
+_male_: 23.9 deaths/1,000 live births<br>
+_female_: 20 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71 years (2023 est.)<br>
-_male_: 69.4 years<br>
-_female_: 72.6 years<br>
+_total population_: 71.9 years (2024 est.)<br>
+_male_: 70.3 years<br>
+_female_: 73.5 years<br>
 
 **Total fertility rate**<br>
-2.31 children born/woman (2023 est.)<br>
+2.27 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.14 (2023 est.)<br>
+1.12 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 54.6% (2016)<br>
@@ -352,7 +354,7 @@ _election results_: <br><em>2019: </em>Matamela Cyril RAMAPHOSA (ANC) elected pr
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br><br>National Council of Provinces (90 seats; nine 10-member delegations, each with 6 permanent delegates and 4 special delegates, appointed by each of the 9 provincial legislatures to serve 5-year terms; note - the Council has special powers to protect regional interests, including safeguarding cultural and linguistic traditions among ethnic minorities)<br><br>National Assembly (400 seats; half the members directly elected in multi-seat constituencies and half in a single nationwide constituency, both by proportional representation popular vote; members serve 5-year terms)<br>
 _elections_: National Council of Provinces and National Assembly - last held on 8 May 2019 (next to be held on 29 May 2024)<br>
-_election results_: <p>National Council of Provinces - percent of vote by party - NA; seats by party - ANC 29, DA 13, EFF 9, FF+ 2, IFP 1; composition as of February 2024 - men 30, women 24, percentage women 44.4%; note - 36 appointed seats not filled<br><br>National Assembly - percent of vote by party - ANC 57.5%, DA 20.8%, EFF 10.8%, IFP 3.8%, FF+ 2.4%, other 4.7%; seats by party - ANC 230, DA 84, EFF 44, IFP 14, FF+ 10, other 18; composition as of February 2024 - men 210, women 181, percent age women 46.3%; total Parliament percentage women 46.1%</p><br>
+_election results_: <p>National Council of Provinces - percent of vote by party - NA; seats by party - ANC 29, DA 13, EFF 9, FF+ 2, IFP 1; composition - men 30, women 24, percentage women 44.4%; note - 36 appointed seats not filled<br><br>National Assembly - percent of vote by party - ANC 57.5%, DA 20.8%, EFF 10.8%, IFP 3.8%, FF+ 2.4%, other 4.7%; seats by party - ANC 230, DA 84, EFF 44, IFP 14, FF+ 10, other 18; composition - men 210, women 181, percent age women 46.3%; total Parliament percentage women 46.1%</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Appeals (consists of the court president, deputy president, and 21 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)<br>
@@ -741,7 +743,7 @@ the SANDF’s primary responsibilities include territorial and maritime defense,
 South African National Space Agency (SANSA; established 2010); South Africa Council for Space Affairs (SACSA; statutory body established 1995); South African Radio Telescope Observatory (SARAO)&nbsp; (2023)<br>
 
 **Space launch site(s)**<br>
-Arniston launch facility (Western Cape) used to support space launch vehicle and ballistic missile program (1980s-1990s) (2023)<br>
+Arniston launch facility (Western Cape) used to support space launch vehicle and ballistic missile program (1980s-1990s); it is now a weapons testing facility called the Denel Overberg Test Range (2024)<br>
 
 **Space program overview**<br>
 the largest producer of satellites (particularly nanosatellites) in Africa; areas of focus for development include remote sensing (RS) capabilities, such as optical instruments and synthetic aperture radar systems, space engineering, ground support to space operations (tracking, telemetry, etc.), and space science, particularly astronomy; SANSA is responsible for aggregating RS data for southern African countries; has a sounding rocket program for carrying experimental payloads for research purposes; cooperates with foreign space agencies and industries, including those of China, France, India, Russia, and the US; participates in international programs such as the Square Kilometer Array (SKA) Project, an international effort to build the world’s largest radio telescope by 2030; has more than 120 state- and privately-owned aerospace companies, as well as a substantial number of academic and research institutions involved in space-related activities (2023)<br>

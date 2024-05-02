@@ -79,7 +79,9 @@ landlocked; straddles crest of the Nile-Congo watershed; the Kagera, which drain
 ## People and Society
 
 **Population**<br>
-13,162,952 (2023 est.)<br>
+_total_: 13,590,102<br>
+_male_: 6,755,456<br>
+_female_: 6,834,646 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Burundian(s)<br>
@@ -100,9 +102,9 @@ Christian 93.9% (Roman Catholic 58.6%, Protestant 35.3% [includes Adventist 2.7%
 <p>Burundi is a densely populated country with a high population growth rate, factors that combined with land scarcity and poverty place a large share of its population at risk of food insecurity. About 90% of the population relies on subsistence agriculture. Subdivision of land to sons, and redistribution to returning refugees, results in smaller, overworked, and less-productive plots. Food shortages, poverty, and a lack of clean water contribute to a 60% chronic malnutrition rate among children. A lack of reproductive health services has prevented a significant reduction in Burundi’s maternal mortality and fertility rates, which are both among the world’s highest. With almost two-thirds of its population under the age of 25 and a birth rate of about 5 children per woman as of 2022, Burundi’s population will continue to expand rapidly for decades to come, putting additional strain on a poor country.</p> <p>Historically, migration flows into and out of Burundi have consisted overwhelmingly of refugees from violent conflicts. In the last decade, more than a half million Burundian refugees returned home from neighboring countries, mainly Tanzania. Reintegrating the returnees has been problematic due to their prolonged time in exile, land scarcity, poor infrastructure, poverty, and unemployment. Repatriates and existing residents (including internally displaced persons) compete for limited land and other resources. To further complicate matters, international aid organizations reduced their assistance because they no longer classified Burundi as a post-conflict country. Conditions deteriorated when renewed violence erupted in April 2015, causing another outpouring of refugees. In addition to refugee out-migration, Burundi has hosted thousands of refugees from neighboring countries, mostly from the Democratic Republic of the Congo and lesser numbers from Rwanda.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 42.67% (male 2,830,996/female 2,786,154)<br>
-_15-64 years_: 54.03% (male 3,523,380/female 3,588,511)<br>
-_65 years and over_: 3.3% (2023 est.) (male 187,176/female 246,735)<br>
+_0-14 years_: 42.3% (male 2,895,275/female 2,848,286)<br>
+_15-64 years_: 54.4% (male 3,662,688/female 3,727,022)<br>
+_65 years and over_: 3.4% (2024 est.) (male 197,493/female 259,338)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 95.2<br>
@@ -111,21 +113,21 @@ _elderly dependency ratio_: 4.8<br>
 _potential support ratio_: 20.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18.2 years (2023 est.)<br>
-_male_: 17.9 years<br>
-_female_: 18.5 years<br>
+_total_: 18.4 years (2024 est.)<br>
+_male_: 18 years<br>
+_female_: 18.7 years<br>
 
 **Population growth rate**<br>
-3.59% (2023 est.)<br>
+2.81% (2024 est.)<br>
 
 **Birth rate**<br>
-34.9 births/1,000 population (2023 est.)<br>
+34.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.9 deaths/1,000 population (2023 est.)<br>
+5.7 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-6.8 migrant(s)/1,000 population (2023 est.)<br>
+-0.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 one of Africa's most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil as shown in this population distribution map<br>
@@ -142,7 +144,7 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-64 years_: 0.98 male(s)/female<br>
 _65 years and over_: 0.76 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.5 years (2016/17 est.)<br>
@@ -152,20 +154,20 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 494 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 36.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 40.9 deaths/1,000 live births<br>
-_female_: 32.5 deaths/1,000 live births<br>
+_total_: 35.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 39.7 deaths/1,000 live births<br>
+_female_: 31.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.8 years (2023 est.)<br>
-_male_: 65.7 years<br>
-_female_: 70 years<br>
+_total population_: 68.1 years (2024 est.)<br>
+_male_: 66 years<br>
+_female_: 70.3 years<br>
 
 **Total fertility rate**<br>
-4.96 children born/woman (2023 est.)<br>
+4.9 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-2.45 (2023 est.)<br>
+2.41 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 28.5% (2016/17)<br>

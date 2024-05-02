@@ -5,7 +5,7 @@ _Central Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>A Central Asian country of incredible natural beauty and proud nomadic traditions, most of the territory of present-day Kyrgyzstan was formally annexed by the Russian Empire in 1876. The Kyrgyz staged a major revolt against the Tsarist Empire in 1916 in which almost one-sixth of the Kyrgyz population was killed. Kyrgyzstan became a Soviet republic in 1926 and achieved independence in 1991 when the USSR dissolved. Nationwide demonstrations in 2005 and 2010 resulted in the ouster of the country’s first two presidents, Askar AKAEV and Kurmanbek BAKIEV. Interim President Roza OTUNBAEVA led a transitional government and following a nation-wide election, President Almazbek ATAMBAEV was sworn in as president in 2011. In 2017, ATAMBAEV became the first Kyrgyzstani president to step down after serving one full six-year term as required at the time in the country’s constitution. Former prime minister and ruling Social-Democratic Party of Kyrgyzstan member, Sooronbay JEENBEKOV, replaced him after winning the 2017 presidential election, which was the most competitive in the country’s history, although international and local election observers noted cases of vote buying and abuse of public resources. In October 2020, protests against parliamentary election results spread across Kyrgyzstan, leading to JEENBEKOV’s resignation from the presidency, and catapulting previously imprisoned Sadyr JAPAROV to acting president. In January 2021, Kyrgyzstanis formally elected JAPAROV as president and approved a referendum to move Kyrgyzstan from a parliamentary to a presidential system. In April 2021, Kyrgyzstanis voted in favor of draft constitutional changes that consolidated power in the presidency. Pro-government parties won a majority in the Jogorku Kenesh (Kyrgyzstan’s legislature) in November 2021 elections. Continuing concerns for Kyrgyzstan include the trajectory of democratization, endemic corruption, tense regional relations, vulnerabilities due to climate change, border security vulnerabilities, and potential terrorist threats.</p><br>
+<p>Kyrgyzstan is a Central Asian country of incredible natural beauty and proud nomadic traditions. The Russian Empire annexed most of the territory of present-day Kyrgyzstan in 1876. The Kyrgyz staged a major revolt against the Tsarist Empire in 1916, during which almost one-sixth of the Kyrgyz population was killed. Kyrgyzstan became a Soviet republic in 1926 and achieved independence in 1991 when the USSR dissolved. Nationwide demonstrations in 2005 and 2010 resulted in the ouster of the country’s first two presidents, Askar AKAEV and Kurmanbek BAKIEV. Almazbek ATAMBAEV was sworn in as president in 2011. In 2017, ATAMBAEV became the first Kyrgyzstani president to serve a full term and respect constitutional term limits, voluntarily stepping down at the end of his mandate. Former prime minister and ruling Social-Democratic Party of Kyrgyzstan member Sooronbay JEENBEKOV replaced him after winning the 2017 presidential election, which was the most competitive in the country’s history despite reported cases of vote buying and abuse of public resources. <br><br>In 2020, protests against parliamentary election results spread across Kyrgyzstan, leading to JEENBEKOV’s resignation and catapulting previously imprisoned Sadyr JAPAROV to acting president. In 2021, Kyrgyzstanis formally elected JAPAROV as president and approved a referendum to move Kyrgyzstan from a parliamentary to a presidential system. In 2021, Kyrgyzstanis voted in favor of constitutional changes that consolidated power in the presidency. Pro-government parties won a majority in the 2021 legislative elections. Continuing concerns for Kyrgyzstan include the trajectory of democratization, endemic corruption, tense regional relations, vulnerabilities due to climate change, border security vulnerabilities, and potential terrorist threats.</p><br>
 
 ## Geography
 
@@ -82,7 +82,9 @@ landlocked; entirely mountainous, dominated by the Tien Shan range; 94% of the c
 ## People and Society
 
 **Population**<br>
-6,122,781 (2023 est.)<br>
+_total_: 6,172,101<br>
+_male_: 3,021,318<br>
+_female_: 3,150,783 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Kyrgyzstani(s)<br>
@@ -102,9 +104,9 @@ Muslim 90% (majority Sunni), Christian 7% (Russian Orthodox 3%), other 3% (inclu
 <p>Kyrgyzstan is a sparsely populated country whose population is unevenly distributed.  More than 50% of the population lives in or around the two cities of Bishkek and Osh and their surrounding districts, which together account for about 12% of the country’s area.  Kyrgyzstan’s population continues to grow rapidly owing to its high fertility rate and the traditional preference for larger families, a low mortality rate, a growing share of women of reproductive age, and measures to support families with children. The country has a youthful age structure; over 45% of the population is under the age of 25 as of 2022.  Nevertheless, Kyrgyzstan is transitioning from an agricultural society with high fertility and mortality rates to an industrial society with lower fertility and mortality rates.</p> <p>As part of the USSR, Kyrgyzstan’s rapid population growth was not problematic because its needs were redistributed among the Soviet States.  As an independent state, however, population growth became burdensome.  International labor migration continues to serve as a safety valve that decreases pressure on the labor market and resources (healthcare, education, and pensions), while also reducing poverty through much-needed remittances.  The main destinations for labor migrants are Russia and Kazakhstan, where wages are higher; almost a third of Kyrgyzstan’s working-age population migrates to Russia alone.  Outmigration was most pronounced in the 1990s, after the collapse of the USSR, when ethnic Russians, Ukrainians, and Germans left Kyrgyzstan, changing the proportion of ethnic Kyrgyz in the country from barely 50% in 1992 to almost three-quarters today.</p> <p>While Kyrgyzstan is a net emigration country, it does receive immigrants.  The majority of immigrants are from the Commonwealth of Independent States – particularly Kazakhstan, Russia, and Uzbekistan – but more recent arrivals also include persons from China, Turkey, and Turkmenistan.  Chinese immigrants work primarily in construction and gold mining, while Turkish immigrants mainly work in construction, trade, education, and services.  Border areas between Kyrgyzstan, Tajikistan, and Uzbekistan experience irregular migration, but many of these migrants plan to move on to Europe.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 29.54% (male 928,876/female 879,729)<br>
-_15-64 years_: 63.86% (male 1,914,277/female 1,995,500)<br>
-_65 years and over_: 6.6% (2023 est.) (male 154,684/female 249,715)<br>
+_0-14 years_: 29.1% (male 922,086/female 873,245)<br>
+_15-64 years_: 64% (male 1,935,200/female 2,013,733)<br>
+_65 years and over_: 6.9% (2024 est.) (male 164,032/female 263,805)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 63.5<br>
@@ -113,21 +115,21 @@ _elderly dependency ratio_: 7.2<br>
 _potential support ratio_: 13.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 28.1 years (2023 est.)<br>
-_male_: 26.7 years<br>
-_female_: 29.5 years<br>
+_total_: 28.3 years (2024 est.)<br>
+_male_: 26.9 years<br>
+_female_: 29.8 years<br>
 
 **Population growth rate**<br>
-0.82% (2023 est.)<br>
+0.79% (2024 est.)<br>
 
 **Birth rate**<br>
-19.1 births/1,000 population (2023 est.)<br>
+18.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.1 deaths/1,000 population (2023 est.)<br>
+6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--4.8 migrant(s)/1,000 population (2023 est.)<br>
+-4.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the vast majority of Kyrgyzstanis live in rural areas; densest population settlement is to the north in and around the capital, Bishkek, followed by Osh in the west; the least densely populated area is the east, southeast in the Tien Shan mountains<br>
@@ -144,7 +146,7 @@ _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 0.96 male(s)/female<br>
 _65 years and over_: 0.62 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2023 est.)<br>
+_total population_: 0.96 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.6 years (2019 est.)<br>
@@ -153,20 +155,20 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 50 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 25.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 29.2 deaths/1,000 live births<br>
-_female_: 20.7 deaths/1,000 live births<br>
+_total_: 24.5 deaths/1,000 live births (2024 est.)<br>
+_male_: 28.6 deaths/1,000 live births<br>
+_female_: 20.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.6 years (2023 est.)<br>
-_male_: 68.6 years<br>
-_female_: 77 years<br>
+_total population_: 72.9 years (2024 est.)<br>
+_male_: 68.9 years<br>
+_female_: 77.2 years<br>
 
 **Total fertility rate**<br>
-2.47 children born/woman (2023 est.)<br>
+2.45 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.2 (2023 est.)<br>
+1.19 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 39.4% (2018)<br>

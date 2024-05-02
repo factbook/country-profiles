@@ -89,7 +89,9 @@ population is heavily concentrated in the westernmost fifth of the country exten
 ## People and Society
 
 **Population**<br>
-141,698,923 (2023 est.)<br>
+_total_: 140,820,810<br>
+_male_: 65,496,805<br>
+_female_: 75,324,005 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Russian(s)<br>
@@ -108,9 +110,9 @@ Russian Orthodox 15-20%, Muslim 10-15%, other Christian 2% (2006 est.)<br>
 <strong>note:</strong> estimates are of practicing worshipers; Russia has large populations of non-practicing believers and non-believers, a legacy of over seven decades of official atheism under Soviet rule; Russia officially recognizes Orthodox Christianity, Islam, Judaism, and Buddhism as the country's traditional religions<br>
 
 **Age structure**<br>
-_0-14 years_: 16.86% (male 12,270,830/female 11,614,990)<br>
-_15-64 years_: 65.99% (male 45,292,734/female 48,217,551)<br>
-_65 years and over_: 17.15% (2023 est.) (male 8,008,126/female 16,294,692)<br>
+_0-14 years_: 16.5% (male 11,956,284/female 11,313,829)<br>
+_15-64 years_: 65.7% (male 45,007,073/female 47,518,221)<br>
+_65 years and over_: 17.8% (2024 est.) (male 8,533,448/female 16,491,955)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50<br>
@@ -119,21 +121,21 @@ _elderly dependency ratio_: 23.4<br>
 _potential support ratio_: 4.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 41.5 years (2023 est.)<br>
-_male_: 39 years<br>
-_female_: 44.2 years<br>
+_total_: 41.9 years (2024 est.)<br>
+_male_: 39.4 years<br>
+_female_: 44.5 years<br>
 
 **Population growth rate**<br>
--0.48% (2023 est.)<br>
+-0.49% (2024 est.)<br>
 
 **Birth rate**<br>
-8.5 births/1,000 population (2023 est.)<br>
+8.4 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-14.1 deaths/1,000 population (2023 est.)<br>
+14 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0.8 migrant(s)/1,000 population (2023 est.)<br>
+0.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population is heavily concentrated in the westernmost fifth of the country extending from the Baltic Sea, south to the Caspian Sea, and eastward parallel to the Kazakh border; elsewhere, sizeable pockets are isolated and generally found in the south<br>
@@ -148,9 +150,9 @@ _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.49 male(s)/female<br>
-_total population_: 0.87 male(s)/female (2023 est.)<br>
+_15-64 years_: 0.95 male(s)/female<br>
+_65 years and over_: 0.52 male(s)/female<br>
+_total population_: 0.87 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25.2 years (2013 est.)<br>
@@ -159,20 +161,20 @@ _total population_: 0.87 male(s)/female (2023 est.)<br>
 14 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.6 deaths/1,000 live births (2023 est.)<br>
+_total_: 6.5 deaths/1,000 live births (2024 est.)<br>
 _male_: 7.2 deaths/1,000 live births<br>
-_female_: 5.9 deaths/1,000 live births<br>
+_female_: 5.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72 years (2023 est.)<br>
-_male_: 67.2 years<br>
-_female_: 77.2 years<br>
+_total population_: 72.3 years (2024 est.)<br>
+_male_: 67.4 years<br>
+_female_: 77.4 years<br>
 
 **Total fertility rate**<br>
-1.51 children born/woman (2023 est.)<br>
+1.52 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.74 (2023 est.)<br>
+0.74 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 68% (2011)<br>

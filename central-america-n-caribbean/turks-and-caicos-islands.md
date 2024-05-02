@@ -72,7 +72,9 @@ include eight large islands and numerous smaller cays, islets, and reefs; only t
 ## People and Society
 
 **Population**<br>
-59,367 (2023 est.)<br>
+_total_: 60,439<br>
+_male_: 30,389<br>
+_female_: 30,050 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: none<br>
@@ -88,9 +90,9 @@ English (official)<br>
 Protestant 72.8% (Baptist 35.8%, Church of God 11.7%, Anglican 10%, Methodist 9.3%, Seventh Day Adventist 6%), Roman Catholic 11.4%, Jehovah's Witness 1.8%, other 14% (2006 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 20.7% (male 6,262/female 6,026)<br>
-_15-64 years_: 73.24% (male 21,860/female 21,619)<br>
-_65 years and over_: 6.06% (2023 est.) (male 1,741/female 1,859)<br>
+_0-14 years_: 20.4% (male 6,288/female 6,056)<br>
+_15-64 years_: 73.2% (male 22,232/female 22,011)<br>
+_65 years and over_: 6.4% (2024 est.) (male 1,869/female 1,983)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 36.8<br>
@@ -99,21 +101,21 @@ _elderly dependency ratio_: 13.9<br>
 _potential support ratio_: 7.2 (2021)<br>
 
 **Median age**<br>
-_total_: 35.9 years (2023 est.)<br>
-_male_: 36.1 years<br>
-_female_: 35.7 years<br>
+_total_: 36.3 years (2024 est.)<br>
+_male_: 36.5 years<br>
+_female_: 36.1 years<br>
 
 **Population growth rate**<br>
-1.81% (2023 est.)<br>
+1.77% (2024 est.)<br>
 
 **Birth rate**<br>
-13.2 births/1,000 population (2023 est.)<br>
+13 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-3.5 deaths/1,000 population (2023 est.)<br>
+3.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-8.4 migrant(s)/1,000 population (2023 est.)<br>
+8.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 eight of the thirty islands are inhabited; the island of Providenciales is the most populated, but the most densely populated is Grand Turk<br>
@@ -130,23 +132,23 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 1.01 male(s)/female<br>
 _65 years and over_: 0.94 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2023 est.)<br>
+_total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.3 deaths/1,000 live births (2023 est.)<br>
-_male_: 14.2 deaths/1,000 live births<br>
-_female_: 8.3 deaths/1,000 live births<br>
+_total_: 11.1 deaths/1,000 live births (2024 est.)<br>
+_male_: 13.9 deaths/1,000 live births<br>
+_female_: 8.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81 years (2023 est.)<br>
-_male_: 78.3 years<br>
-_female_: 83.9 years<br>
+_total population_: 81.3 years (2024 est.)<br>
+_male_: 78.5 years<br>
+_female_: 84.1 years<br>
 
 **Total fertility rate**<br>
-1.7 children born/woman (2023 est.)<br>
+1.7 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.83 (2023 est.)<br>
+0.83 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 34.4% (2019/20)<br>

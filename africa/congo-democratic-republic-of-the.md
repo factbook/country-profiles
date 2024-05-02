@@ -87,7 +87,9 @@ urban clusters are spread throughout the country, particularly in the northeast 
 ## People and Society
 
 **Population**<br>
-111,859,928 (2023 est.)<br>
+_total_: 115,403,027<br>
+_male_: 57,688,160<br>
+_female_: 57,714,867 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Congolese (singular and plural)<br>
@@ -107,9 +109,9 @@ _major-language sample(s)_: <br>Buku oyo ya bosembo ya Mokili Mobimba Ezali na M
 <p>Despite a wealth of fertile soil, hydroelectric power potential, and mineral resources, the Democratic Republic of the Congo (DRC) struggles with many socioeconomic problems, including high infant and maternal mortality rates, malnutrition, poor vaccination coverage, lack of access to improved water sources and sanitation, and frequent and early fertility. Ongoing conflict, mismanagement of resources, and a lack of investment have resulted in food insecurity; almost 25% of children under the age of 5 were malnourished as of 2018. The overall coverage of basic public services – education, health, sanitation, and potable water – is very limited and piecemeal, with substantial regional and rural/urban disparities. Fertility remains high at more than 5 children per woman and is likely to remain high because of the low use of contraception and the cultural preference for larger families.</p> <p>The DRC is a source and host country for refugees. Between 2012 and 2014, more than 119,000 Congolese refugees returned from the Republic of Congo to the relative stability of northwest DRC, but more than 1 million Congolese refugees and asylum seekers were hosted by neighboring countries as of December 2022. In addition, an estimated 5.5 million Congolese were internally displaced as of October 2022, the vast majority fleeing violence between rebel group and Congolese armed forces. Thousands of refugees have come to the DRC from neighboring countries, including Rwanda, the Central African Republic, South Sudan, and Burundi.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 45.99% (male 25,902,046/female 25,543,395)<br>
-_15-64 years_: 51.52% (male 28,798,920/female 28,835,212)<br>
-_65 years and over_: 2.49% (2023 est.) (male 1,211,966/female 1,568,389)<br>
+_0-14 years_: 45.7% (male 26,584,268/female 26,208,891)<br>
+_15-64 years_: 51.8% (male 29,845,450/female 29,884,958)<br>
+_65 years and over_: 2.5% (2024 est.) (male 1,258,442/female 1,621,018)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 98<br>
@@ -118,21 +120,21 @@ _elderly dependency ratio_: 5.9<br>
 _potential support ratio_: 17.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 16.8 years (2023 est.)<br>
-_male_: 16.6 years<br>
-_female_: 16.9 years<br>
+_total_: 16.9 years (2024 est.)<br>
+_male_: 16.7 years<br>
+_female_: 17 years<br>
 
 **Population growth rate**<br>
-3.13% (2023 est.)<br>
+3.11% (2024 est.)<br>
 
 **Birth rate**<br>
-39.6 births/1,000 population (2023 est.)<br>
+39.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.7 deaths/1,000 population (2023 est.)<br>
+7.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.6 migrant(s)/1,000 population (2023 est.)<br>
+-0.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 urban clusters are spread throughout the country, particularly in the northeast along the border with Uganda, Rwanda, and Burundi; the largest city is the capital, Kinshasha, located in the west along the Congo River; the south is least densely populated as shown in this population distribution map<br>
@@ -148,8 +150,8 @@ _rate of urbanization_: 4.33% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.9 years (2013/14 est.)<br>
@@ -159,20 +161,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 547 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 59.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 64.7 deaths/1,000 live births<br>
-_female_: 53.4 deaths/1,000 live births<br>
+_total_: 57.4 deaths/1,000 live births (2024 est.)<br>
+_male_: 62.9 deaths/1,000 live births<br>
+_female_: 51.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.2 years (2023 est.)<br>
-_male_: 60.4 years<br>
-_female_: 64.1 years<br>
+_total population_: 62.6 years (2024 est.)<br>
+_male_: 60.7 years<br>
+_female_: 64.6 years<br>
 
 **Total fertility rate**<br>
-5.56 children born/woman (2023 est.)<br>
+5.49 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-2.74 (2023 est.)<br>
+2.7 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 28.1% (2017/18)<br>
@@ -369,7 +371,7 @@ _election results_: <em>2023: </em>Felix TSHISEKEDI reelected president; percent
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate (109 seats; 109 members to include 108 indirectly elected by provincial assemblies by proportional representation vote to serve 5-year terms and a former president, appointed for life)<br><br>National Assembly (500 seats; 439 members directly elected in multi-seat constituencies by proportional representation vote and 61 directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms) <p> </p><br>
 _elections_: Senate - last held on 14 March 2019 (next to be held on 29 April 2024)<br>National Assembly - last held on 20 December 2023 (next to be held in December 2028)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PPRD 22, MLC 14, FR 7, RCD 7, PDC 6, CDC 3, MSR 3, PALU 2, other 18, independent 26; composition as of March 2024 - men 83, women 26, percentage women 23.9%<br><br>National Assembly - percent of vote by pa83+26<br>rty - NA; seats by party - PPRD 62, UDPS 41, PPPD 29, MSR 27, MLC 22, PALU 19, UNC 17, ARC 16, AFDC 15, ECT 11, RRC 11, other 214 (includes numerous political parties that won 10 or fewer seats and 2 constituencies where voting was halted), independent 16; composition as of March 2024 - men 415, women 62, percent of women 13%; total Parliament percentage women 18.4%<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - PPRD 22, MLC 14, FR 7, RCD 7, PDC 6, CDC 3, MSR 3, PALU 2, other 18, independent 26; composition- men 83, women 26, percentage women 23.9%<br><br>National Assembly - percent of vote by pa83+26<br>rty - NA; seats by party - PPRD 62, UDPS 41, PPPD 29, MSR 27, MLC 22, PALU 19, UNC 17, ARC 16, AFDC 15, ECT 11, RRC 11, other 214 (includes numerous political parties that won 10 or fewer seats and 2 constituencies where voting was halted), independent 16; composition - men 415, women 62, percent of women 13%; total Parliament percentage women 18.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation or Cour de Cassation (consists of 26 justices and organized into legislative and judiciary sections); Constitutional Court (consists of 9 judges)<br>

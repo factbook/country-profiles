@@ -74,7 +74,9 @@ Timor comes from the Malay word for "east"; the island of Timor is part of the M
 ## People and Society
 
 **Population**<br>
-1,476,042 (2023 est.)<br>
+_total_: 1,506,909<br>
+_male_: 750,665<br>
+_female_: 756,244 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Timorese<br>
@@ -94,9 +96,9 @@ Roman Catholic 97.6%, Protestant/Evangelical 2%, Muslim 0.2%, other 0.2% (2015 e
 <p>Timor-Leste’s high fertility and population growth rates sustain its very youthful age structure – approximately 40% of the population is below the age of 15 and the country’s median age is 20.  While Timor-Leste’s total fertility rate (TFR) – the average number of births per woman – decreased significantly from over 7 in the early 2000s, it remains high at 4.3 in 2021 and will probably continue to decline slowly.  The low use of contraceptives and the traditional preference for large families is keeping fertility elevated.  The high TFR and falling mortality rates continue to fuel a high population growth rate of nearly 2.2%, which is the highest in Southeast Asia.  The country’s high total dependency ratio – a measure of the ratio of dependents to the working-age population – could divert more government spending toward social programs. Timor-Leste’s growing, poorly educated working-age population and insufficient job creation are ongoing problems.  Some 70% of the population lives in rural areas, where most of people are dependent on the agricultural sector.  Malnutrition and poverty are prevalent, with 42% of the population living under the poverty line as of 2014.</p> <p>During the Indonesian occupation (1975-1999) and Timor-Leste’s fight for independence, approximately 250,000 Timorese fled to western Timor and, in lesser numbers, Australia, Portugal, and other countries. Many of these emigrants later returned.  Since Timor-Leste’s 1999 independence referendum, economic motives and periods of conflict have been the main drivers of emigration.  Bilateral labor agreements with Australia, Malaysia, and South Korea and the presence of Timorese populations abroad, are pull factors, but the high cost prevents many young Timorese from emigrating.  Timorese communities are found in its former colonizers, Indonesia and Portugal, as well as the Philippines and the UK.  The country has also become a destination for migrants in the surrounding region, mainly men seeking work in construction, commerce, and services in Dili.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 39.05% (male 296,331/female 280,029)<br>
-_15-64 years_: 56.61% (male 408,662/female 426,897)<br>
-_65 years and over_: 4.34% (2023 est.) (male 30,856/female 33,267)<br>
+_0-14 years_: 38.7% (male 299,929/female 283,416)<br>
+_15-64 years_: 56.8% (male 418,493/female 437,727)<br>
+_65 years and over_: 4.5% (2024 est.) (male 32,243/female 35,101)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 90.3<br>
@@ -105,21 +107,21 @@ _elderly dependency ratio_: 8.9<br>
 _potential support ratio_: 11.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20.3 years (2023 est.)<br>
-_male_: 19.6 years<br>
-_female_: 21.1 years<br>
+_total_: 20.6 years (2024 est.)<br>
+_male_: 19.8 years<br>
+_female_: 21.3 years<br>
 
 **Population growth rate**<br>
-2.1% (2023 est.)<br>
+2.04% (2024 est.)<br>
 
 **Birth rate**<br>
-30.4 births/1,000 population (2023 est.)<br>
+29.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.6 deaths/1,000 population (2023 est.)<br>
+5.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--3.8 migrant(s)/1,000 population (2023 est.)<br>
+-3.8 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the population concentrated in the western third of the country, particularly around Dili<br>
@@ -135,8 +137,8 @@ _rate of urbanization_: 3.31% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.93 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.92 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23 years (2016 est.)<br>
@@ -146,20 +148,20 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 204 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 32.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 36.1 deaths/1,000 live births<br>
-_female_: 29.5 deaths/1,000 live births<br>
+_total_: 32.2 deaths/1,000 live births (2024 est.)<br>
+_male_: 35.3 deaths/1,000 live births<br>
+_female_: 28.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.2 years (2023 est.)<br>
-_male_: 68.6 years<br>
-_female_: 72 years<br>
+_total population_: 70.5 years (2024 est.)<br>
+_male_: 68.9 years<br>
+_female_: 72.3 years<br>
 
 **Total fertility rate**<br>
-4.09 children born/woman (2023 est.)<br>
+3.98 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.98 (2023 est.)<br>
+1.92 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 26.1% (2016)<br>

@@ -75,7 +75,9 @@ strategic location dominating the Aegean Sea and southern approach to Turkish St
 ## People and Society
 
 **Population**<br>
-10,497,595 (2023 est.)<br>
+_total_: 10,461,091<br>
+_male_: 5,117,862<br>
+_female_: 5,343,229 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Greek(s)<br>
@@ -93,9 +95,9 @@ _major-language sample(s)_: <br>Το Παγκόσμιο Βιβλίο Δεδομ�
 Greek Orthodox 81-90%, Muslim 2%, other 3%, none 4-15%, unspecified 1% (2015 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 14.02% (male 758,311/female 713,794)<br>
-_15-64 years_: 62.66% (male 3,285,484/female 3,292,524)<br>
-_65 years and over_: 23.31% (2023 est.) (male 1,086,188/female 1,361,294)<br>
+_0-14 years_: 13.8% (male 742,131/female 699,079)<br>
+_15-64 years_: 62.6% (male 3,278,906/female 3,267,140)<br>
+_65 years and over_: 23.6% (2024 est.) (male 1,096,825/female 1,377,010)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.7<br>
@@ -104,21 +106,21 @@ _elderly dependency ratio_: 35.5<br>
 _potential support ratio_: 2.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 46.2 years (2023 est.)<br>
-_male_: 44.3 years<br>
-_female_: 47.9 years<br>
+_total_: 46.5 years (2024 est.)<br>
+_male_: 44.6 years<br>
+_female_: 48.3 years<br>
 
 **Population growth rate**<br>
--0.35% (2023 est.)<br>
+-0.35% (2024 est.)<br>
 
 **Birth rate**<br>
-7.5 births/1,000 population (2023 est.)<br>
+7.4 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-12 deaths/1,000 population (2023 est.)<br>
+12 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-1 migrant(s)/1,000 population (2023 est.)<br>
+1.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 one-third of the population lives in and around metropolitan Athens; the remainder of the country has moderate population density mixed with sizeable urban clusters<br>
@@ -135,7 +137,7 @@ _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
 _65 years and over_: 0.8 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2023 est.)<br>
+_total population_: 0.96 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30.7 years (2020 est.)<br>
@@ -144,20 +146,20 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 8 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.5 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.9 deaths/1,000 live births<br>
-_female_: 3.1 deaths/1,000 live births<br>
+_total_: 3.4 deaths/1,000 live births (2024 est.)<br>
+_male_: 3.8 deaths/1,000 live births<br>
+_female_: 3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.7 years (2023 est.)<br>
-_male_: 79.2 years<br>
-_female_: 84.4 years<br>
+_total population_: 81.9 years (2024 est.)<br>
+_male_: 79.4 years<br>
+_female_: 84.6 years<br>
 
 **Total fertility rate**<br>
-1.4 children born/woman (2023 est.)<br>
+1.41 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.68 (2023 est.)<br>
+0.68 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

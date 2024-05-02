@@ -78,7 +78,9 @@ the peninsula occupies a strategic location in the central Persian Gulf near maj
 ## People and Society
 
 **Population**<br>
-2,532,104 (2023 est.)<br>
+_total_: 2,552,088<br>
+_male_: 1,961,135<br>
+_female_: 590,953 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Qatari(s)<br>
@@ -95,9 +97,9 @@ _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر 
 Muslim 65.2%, Christian 13.7%, Hindu 15.9%, Buddhist 3.8%, folk religion &lt;0.1%, Jewish &lt;0.1%, other &lt;1%, unaffiliated &lt;1% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 13.08% (male 167,065/female 164,110)<br>
-_15-64 years_: 85.51% (male 1,757,982/female 407,120)<br>
-_65 years and over_: 1.41% (2023 est.) (male 23,544/female 12,283)<br>
+_0-14 years_: 13.1% (male 168,844/female 165,905)<br>
+_15-64 years_: 85.4% (male 1,767,294/female 411,977)<br>
+_65 years and over_: 1.5% (2024 est.) (male 24,997/female 13,071)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 20.7<br>
@@ -106,21 +108,21 @@ _elderly dependency ratio_: 2<br>
 _potential support ratio_: 50.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 34.2 years (2023 est.)<br>
-_male_: 35.5 years<br>
+_total_: 34.3 years (2024 est.)<br>
+_male_: 35.7 years<br>
 _female_: 28.1 years<br>
 
 **Population growth rate**<br>
-0.86% (2023 est.)<br>
+0.71% (2024 est.)<br>
 
 **Birth rate**<br>
-9.3 births/1,000 population (2023 est.)<br>
+9.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-1.4 deaths/1,000 population (2023 est.)<br>
+1.4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0.8 migrant(s)/1,000 population (2023 est.)<br>
+-0.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the population is clustered in or around the capital of Doha on the eastern side of the peninsula<br>
@@ -135,28 +137,28 @@ _rate of urbanization_: 1.66% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-64 years_: 4.32 male(s)/female<br>
-_65 years and over_: 1.92 male(s)/female<br>
-_total population_: 3.34 male(s)/female (2023 est.)<br>
+_15-64 years_: 4.29 male(s)/female<br>
+_65 years and over_: 1.91 male(s)/female<br>
+_total population_: 3.32 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 8 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.5 deaths/1,000 live births (2023 est.)<br>
-_male_: 7.1 deaths/1,000 live births<br>
-_female_: 5.9 deaths/1,000 live births<br>
+_total_: 6.4 deaths/1,000 live births (2024 est.)<br>
+_male_: 7 deaths/1,000 live births<br>
+_female_: 5.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80 years (2023 est.)<br>
-_male_: 77.9 years<br>
-_female_: 82.2 years<br>
+_total population_: 80.3 years (2024 est.)<br>
+_male_: 78.2 years<br>
+_female_: 82.4 years<br>
 
 **Total fertility rate**<br>
-1.9 children born/woman (2023 est.)<br>
+1.9 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.94 (2023 est.)<br>
+0.94 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 37.5% (2012)<br>

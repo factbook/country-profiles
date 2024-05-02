@@ -81,7 +81,9 @@ largest country in Africa but 80% desert; canyons and caves in the southern Hogg
 ## People and Society
 
 **Population**<br>
-44,758,398 (2023 est.)<br>
+_total_: 47,022,473<br>
+_male_: 23,854,821<br>
+_female_: 23,167,652 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Algerian(s)<br>
@@ -102,9 +104,9 @@ Muslim (official; predominantly Sunni) 99%, other (includes Christian, Jewish, A
 <p>For the first two thirds of the 20th century, Algeria's high fertility rate caused its population to grow rapidly. However, about a decade after independence from France in 1962, the total fertility rate fell dramatically from 7 children per woman in the 1970s to about 2.4 in 2000, slowing Algeria's population growth rate by the late 1980s. The lower fertility rate was mainly the result of women's rising age at first marriage (virtually all Algerian children being born in wedlock) and to a lesser extent the wider use of contraceptives. Later marriages and a preference for smaller families are attributed to increases in women's education and participation in the labor market; higher unemployment; and a shortage of housing forcing multiple generations to live together. The average woman's age at first marriage increased from about 19 in the mid-1950s to 24 in the mid-1970s to 30.5 in the late 1990s.</p> <p>Algeria's fertility rate experienced an unexpected upturn in the early 2000s, as the average woman's age at first marriage dropped slightly. The reversal in fertility could represent a temporary fluctuation in marriage age or, less likely, a decrease in the steady rate of contraceptive use.</p> <p>Thousands of Algerian peasants - mainly Berber men from the Kabylia region - faced with land dispossession and economic hardship under French rule migrated temporarily to France to work in manufacturing and mining during the first half of the 20th century. This movement accelerated during World War I, when Algerians filled in for French factory workers or served as soldiers. In the years following independence, low-skilled Algerian workers and Algerians who had supported the French (known as Harkis) emigrated en masse to France. Tighter French immigration rules and Algiers' decision to cease managing labor migration to France in the 1970s limited legal emigration largely to family reunification.</p> <p>Not until Algeria's civil war in the 1990s did the country again experience substantial outmigration. Many Algerians legally entered Tunisia without visas claiming to be tourists and then stayed as workers. Other Algerians headed to Europe seeking asylum, although France imposed restrictions. Sub-Saharan African migrants came to Algeria after its civil war to work in agriculture and mining. In the 2000s, a wave of educated Algerians went abroad seeking skilled jobs in a wider range of destinations, increasing their presence in North America and Spain. At the same time, legal foreign workers principally from China and Egypt came to work in Algeria's construction and oil sectors. Illegal migrants from Sub-Saharan Africa, particularly Malians, Nigeriens, and Gambians, continue to come to Algeria in search of work or to use it as a stepping stone to Libya and Europe.</p> <p>Since 1975, Algeria also has been the main recipient of Sahrawi refugees from the ongoing conflict in Western Sahara (today part of Morocco). More than 100,000 Sahrawis are estimated to be living in five refugee camps in southwestern Algeria near Tindouf.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 28.78% (male 6,594,512/female 6,286,191)<br>
-_15-64 years_: 64.29% (male 14,607,255/female 14,166,990)<br>
-_65 years and over_: 6.93% (2023 est.) (male 1,475,635/female 1,627,815)<br>
+_0-14 years_: 30.8% (male 7,411,337/female 7,062,794)<br>
+_15-64 years_: 62.3% (male 14,846,102/female 14,441,034)<br>
+_65 years and over_: 6.9% (2024 est.) (male 1,597,382/female 1,663,824)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 58.5<br>
@@ -113,21 +115,21 @@ _elderly dependency ratio_: 9.8<br>
 _potential support ratio_: 10.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 28.9 years (2023 est.)<br>
-_male_: 28.6 years<br>
-_female_: 29.2 years<br>
+_total_: 29.1 years (2024 est.)<br>
+_male_: 28.8 years<br>
+_female_: 29.4 years<br>
 
 **Population growth rate**<br>
-1.62% (2023 est.)<br>
+1.54% (2024 est.)<br>
 
 **Birth rate**<br>
-20.9 births/1,000 population (2023 est.)<br>
+20.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-4.4 deaths/1,000 population (2023 est.)<br>
+4.4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.4 migrant(s)/1,000 population (2023 est.)<br>
+-0.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast as shown in this population distribution map<br>
@@ -143,27 +145,27 @@ _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 1.03 male(s)/female<br>
-_65 years and over_: 0.91 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.96 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 78 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 19.9 deaths/1,000 live births<br>
-_female_: 17.6 deaths/1,000 live births<br>
+_total_: 18.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 19.8 deaths/1,000 live births<br>
+_female_: 17.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.8 years (2023 est.)<br>
-_male_: 77 years<br>
-_female_: 78.6 years<br>
+_total population_: 77.9 years (2024 est.)<br>
+_male_: 77.2 years<br>
+_female_: 78.7 years<br>
 
 **Total fertility rate**<br>
-2.97 children born/woman (2023 est.)<br>
+2.94 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.45 (2023 est.)<br>
+1.43 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 53.6% (2018/19)<br>
@@ -699,10 +701,13 @@ the ANP is responsible for external defense but also has some internal security 
 ## Space
 
 **Space agency/agencies**<br>
-Algerian Space Agency (Agence Spatiale Alg&eacute;rienne, ASAL; established 2002) (2023)<br>
+Algerian Space Agency (Agence Spatiale Alg&eacute;rienne, ASAL; established 2002) (2024)<br>
+
+**Space launch site(s)**<br>
+none; note - in 1947, Algeria began hosting a French military rocket test site, which was the continent of Africa's first rocket launch site; it was called the Centre Interarm&eacute;es d&rsquo;Essais d&rsquo;Engins Sp&eacute;ciaux (CIEES or Interarmy Special Vehicles Test Center) and was in service until 1967<br>
 
 **Space program overview**<br>
-has a national space policy and a national space research program with stated goals of supporting internal development, managing resource usage, mastering space technology, and reinforcing national sovereignty; builds and operates communications and remote sensing (RS) satellites; researching and developing a range of space-related capabilities, including satellites and satellite payloads, communications, RS, instrumentation, satellite image processing, and geo-spatial information; has bilateral relationships with a variety of foreign space agencies and industries, including those of Argentina, China, France, Germany, India, Russia, Ukraine, and the UK; also a member of the Arab Space Coordination Group, established by the UAE in 2019 (2023)<br>
+has a national space policy and a national space research program with stated goals of supporting internal development, managing resource usage, mastering space technology, and reinforcing national sovereignty; builds and operates communications and remote sensing (RS) satellites; researching and developing a range of space-related capabilities, including satellites and satellite payloads, communications, RS, instrumentation, satellite image processing, and geo-spatial information; has bilateral relationships with a variety of foreign space agencies and industries, including those of Argentina, China, France, Germany, India, Russia, Ukraine, and the UK; also a member of the Arab Space Coordination Group, established by the UAE in 2019 (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

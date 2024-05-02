@@ -76,7 +76,9 @@ a Y-shaped chain of four main islands and 80 smaller islands; several of the isl
 ## People and Society
 
 **Population**<br>
-313,046 (2023 est.)<br>
+_total_: 318,007<br>
+_male_: 157,932<br>
+_female_: 160,075 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Ni-Vanuatu (singular and plural)<br>
@@ -93,9 +95,9 @@ indigenous languages (more than 100) 82.6%, Bislama (official; creole) 14.5%, En
 Protestant 39.9% (Presbyterian 27.2%, Seventh Day Adventist 14.8%, Anglican 12%, Churches of Christ 5%, Assemblies of God 4.9%, Neil Thomas Ministry/Inner Life Ministry 3.2%), Roman Catholic 12.1%, Apostolic 2.3%, Church of Jesus Christ 1.8%, customary beliefs (including Jon Frum cargo cult) 3.1%, other 12%, none 1.4%, unspecified 0.1% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 31.73% (male 50,721/female 48,607)<br>
-_15-64 years_: 63.41% (male 97,376/female 101,135)<br>
-_65 years and over_: 4.86% (2023 est.) (male 7,486/female 7,721)<br>
+_0-14 years_: 31.1% (male 50,584/female 48,475)<br>
+_15-64 years_: 63.8% (male 99,496/female 103,425)<br>
+_65 years and over_: 5% (2024 est.) (male 7,852/female 8,175)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 76.5<br>
@@ -104,21 +106,21 @@ _elderly dependency ratio_: 12.3<br>
 _potential support ratio_: 15.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24.2 years (2023 est.)<br>
-_male_: 23.7 years<br>
-_female_: 24.6 years<br>
+_total_: 24.6 years (2024 est.)<br>
+_male_: 24.1 years<br>
+_female_: 25 years<br>
 
 **Population growth rate**<br>
-1.59% (2023 est.)<br>
+1.55% (2024 est.)<br>
 
 **Birth rate**<br>
-21.2 births/1,000 population (2023 est.)<br>
+20.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-4 deaths/1,000 population (2023 est.)<br>
+4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1.3 migrant(s)/1,000 population (2023 est.)<br>
+-1.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 three-quarters of the population lives in rural areas; the urban populace lives primarily in two cities, Port-Vila and Lugenville; three largest islands - Espiritu Santo, Malakula, and Efate - accomodate over half of the populace<br>
@@ -134,27 +136,27 @@ _rate of urbanization_: 2.55% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.97 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.96 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 94 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14 deaths/1,000 live births (2023 est.)<br>
-_male_: 15.4 deaths/1,000 live births<br>
-_female_: 12.6 deaths/1,000 live births<br>
+_total_: 13.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 15 deaths/1,000 live births<br>
+_female_: 12.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.4 years (2023 est.)<br>
-_male_: 73.7 years<br>
-_female_: 77.2 years<br>
+_total population_: 75.7 years (2024 est.)<br>
+_male_: 74 years<br>
+_female_: 77.4 years<br>
 
 **Total fertility rate**<br>
-2.59 children born/woman (2023 est.)<br>
+2.53 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.26 (2023 est.)<br>
+1.23 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 49% (2013)<br>

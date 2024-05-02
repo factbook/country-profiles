@@ -79,7 +79,9 @@ landlocked; strategic location astride main land routes between Western Europe a
 ## People and Society
 
 **Population**<br>
-9,670,009 (2023 est.)<br>
+_total_: 9,855,745<br>
+_male_: 4,812,668<br>
+_female_: 5,043,077 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Hungarian(s)<br>
@@ -98,9 +100,9 @@ _major-language sample(s)_: <br>A World Factbook nélkülözhetetlen forrása az
 Catholic 30.1% (Roman Catholic 27.5%, Greek Catholic 1.7%, other Catholic 0.9%), Calvinist 9.8%, Lutheran 1.8%, other Christian (includes Orthodox) 1.6%, other 0.4%, none 16.1%, no answer 40.1% (2022 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 14.24% (male 709,089/female 668,143)<br>
-_15-64 years_: 63.97% (male 3,091,384/female 3,094,515)<br>
-_65 years and over_: 21.79% (2023 est.) (male 812,063/female 1,294,815)<br>
+_0-14 years_: 14.6% (male 753,955/female 683,943)<br>
+_15-64 years_: 63.9% (male 3,195,761/female 3,104,750)<br>
+_65 years and over_: 21.5% (2024 est.) (male 862,952/female 1,254,384)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.8<br>
@@ -109,21 +111,21 @@ _elderly dependency ratio_: 31.4<br>
 _potential support ratio_: 3.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 44.5 years (2023 est.)<br>
-_male_: 42.6 years<br>
-_female_: 46.4 years<br>
+_total_: 44.8 years (2024 est.)<br>
+_male_: 42.8 years<br>
+_female_: 46.7 years<br>
 
 **Population growth rate**<br>
--0.33% (2023 est.)<br>
+-0.28% (2024 est.)<br>
 
 **Birth rate**<br>
-9.2 births/1,000 population (2023 est.)<br>
+9.1 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-15 deaths/1,000 population (2023 est.)<br>
+14.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-2.6 migrant(s)/1,000 population (2023 est.)<br>
+2.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -137,10 +139,10 @@ _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.63 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_0-14 years_: 1.1 male(s)/female<br>
+_15-64 years_: 1.03 male(s)/female<br>
+_65 years and over_: 0.69 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.4 years (2020 est.)<br>
@@ -149,20 +151,20 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 15 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 5.2 deaths/1,000 live births<br>
-_female_: 4.5 deaths/1,000 live births<br>
+_total_: 4.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 5 deaths/1,000 live births<br>
+_female_: 4.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.3 years (2023 est.)<br>
-_male_: 72.1 years<br>
-_female_: 78.7 years<br>
+_total population_: 76 years (2024 est.)<br>
+_male_: 72.9 years<br>
+_female_: 79.3 years<br>
 
 **Total fertility rate**<br>
-1.59 children born/woman (2023 est.)<br>
+1.6 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.78 (2023 est.)<br>
+0.78 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

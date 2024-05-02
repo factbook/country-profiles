@@ -76,7 +76,9 @@ despite its small size, this eastern Alpine country controls some of Europe's ma
 ## People and Society
 
 **Population**<br>
-2,099,790 (2023 est.)<br>
+_total_: 2,097,893<br>
+_male_: 1,051,044<br>
+_female_: 1,046,849 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Slovene(s)<br>
@@ -93,9 +95,9 @@ _major-language sample(s)_: <br>Svetovni informativni zvezek - neobhoden vir osn
 Catholic 69%, Orthodox 4%, Muslim 3%, Christian 1%, other 3%, atheist 14%, non-believer/agnostic 4%, refused to answer 2% (2019 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 14.55% (male 156,499/female 148,987)<br>
-_15-64 years_: 62.73% (male 685,750/female 631,553)<br>
-_65 years and over_: 22.72% (2023 est.) (male 208,832/female 268,169)<br>
+_0-14 years_: 14.3% (male 153,852/female 146,628)<br>
+_15-64 years_: 62.5% (male 683,573/female 627,788)<br>
+_65 years and over_: 23.2% (2024 est.) (male 213,619/female 272,433)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.5<br>
@@ -104,21 +106,21 @@ _elderly dependency ratio_: 31.9<br>
 _potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 45.9 years (2023 est.)<br>
-_male_: 44.6 years<br>
-_female_: 47.5 years<br>
+_total_: 46.3 years (2024 est.)<br>
+_male_: 45 years<br>
+_female_: 47.9 years<br>
 
 **Population growth rate**<br>
--0.08% (2023 est.)<br>
+-0.1% (2024 est.)<br>
 
 **Birth rate**<br>
-8.1 births/1,000 population (2023 est.)<br>
+8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-10.5 deaths/1,000 population (2023 est.)<br>
+10.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-1.5 migrant(s)/1,000 population (2023 est.)<br>
+1.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations; pockets in the mountainous northwest exhibit less density than elsewhere<br>
@@ -135,7 +137,7 @@ _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 1.09 male(s)/female<br>
 _65 years and over_: 0.78 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29 years (2020 est.)<br>
@@ -144,20 +146,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.5 deaths/1,000 live births (2023 est.)<br>
+_total_: 1.5 deaths/1,000 live births (2024 est.)<br>
 _male_: 1.6 deaths/1,000 live births<br>
 _female_: 1.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82 years (2023 est.)<br>
-_male_: 79.2 years<br>
-_female_: 85 years<br>
+_total population_: 82.2 years (2024 est.)<br>
+_male_: 79.4 years<br>
+_female_: 85.2 years<br>
 
 **Total fertility rate**<br>
-1.6 children born/woman (2023 est.)<br>
+1.6 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.78 (2023 est.)<br>
+0.79 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

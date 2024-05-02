@@ -77,7 +77,9 @@ smallest independent country on South American continent; mostly tropical rain f
 ## People and Society
 
 **Population**<br>
-639,759 (2023 est.)<br>
+_total_: 646,758<br>
+_male_: 320,352<br>
+_female_: 326,406 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Surinamer(s)<br>
@@ -97,9 +99,9 @@ Protestant 23.6% (includes Evangelical 11.2%, Moravian 11.2%, Reformed 0.7%, Lut
 <p>Suriname is a pluralistic society consisting primarily of Creoles (persons of mixed African and European heritage), the descendants of escaped African slaves known as Maroons, and the descendants of Indian and Javanese (Indonesian) contract workers. The country overall is in full, post-industrial demographic transition, with a low fertility rate, a moderate mortality rate, and a rising life expectancy. However, the Maroon population of the rural interior lags behind because of lower educational attainment and contraceptive use, higher malnutrition, and significantly less access to electricity, potable water, sanitation, infrastructure, and health care.</p><p>Some 350,000 people of Surinamese descent live in the Netherlands, Suriname's former colonial ruler. In the 19th century, better-educated, largely Dutch-speaking Surinamese began emigrating to the Netherlands. World War II interrupted the outflow, but it resumed after the war when Dutch labor demands grew - emigrants included all segments of the Creole population. Suriname still is strongly influenced by the Netherlands because most Surinamese have relatives living there and it is the largest supplier of development aid. Other emigration destinations include French Guiana and the United States. Suriname's immigration rules are flexible, and the country is easy to enter illegally because rainforests obscure its borders. Since the mid-1980s, Brazilians have settled in Suriname's capital, Paramaribo, or eastern Suriname, where they mine gold. This immigration is likely to slowly re-orient Suriname toward its Latin American roots.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 22.77% (male 73,914/female 71,762)<br>
-_15-64 years_: 69.96% (male 223,807/female 223,762)<br>
-_65 years and over_: 7.27% (2023 est.) (male 19,152/female 27,362)<br>
+_0-14 years_: 22.5% (male 73,864/female 71,573)<br>
+_15-64 years_: 70% (male 226,417/female 226,235)<br>
+_65 years and over_: 7.5% (2024 est.) (male 20,071/female 28,598)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.9<br>
@@ -108,21 +110,21 @@ _elderly dependency ratio_: 11<br>
 _potential support ratio_: 9.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.6 years (2023 est.)<br>
-_male_: 30.7 years<br>
-_female_: 32.6 years<br>
+_total_: 32 years (2024 est.)<br>
+_male_: 31 years<br>
+_female_: 32.9 years<br>
 
 **Population growth rate**<br>
-1.11% (2023 est.)<br>
+1.07% (2024 est.)<br>
 
 **Birth rate**<br>
-15.2 births/1,000 population (2023 est.)<br>
+14.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.6 deaths/1,000 population (2023 est.)<br>
+6.7 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-2.5 migrant(s)/1,000 population (2023 est.)<br>
+2.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population concentrated along the nothern coastal strip; the remainder of the country is sparsely populated<br>
@@ -139,26 +141,26 @@ _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
 _65 years and over_: 0.7 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2023 est.)<br>
+_total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 96 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 29.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 38 deaths/1,000 live births<br>
-_female_: 21.3 deaths/1,000 live births<br>
+_total_: 29.6 deaths/1,000 live births (2024 est.)<br>
+_male_: 37.6 deaths/1,000 live births<br>
+_female_: 21 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.6 years (2023 est.)<br>
-_male_: 68.9 years<br>
-_female_: 76.5 years<br>
+_total population_: 72.7 years (2024 est.)<br>
+_male_: 69 years<br>
+_female_: 76.7 years<br>
 
 **Total fertility rate**<br>
-1.91 children born/woman (2023 est.)<br>
+1.89 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.92 (2023 est.)<br>
+0.91 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 39.1% (2018)<br>

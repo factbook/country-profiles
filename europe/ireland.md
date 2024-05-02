@@ -74,7 +74,9 @@ strategic location on major air and sea routes between North America and norther
 ## People and Society
 
 **Population**<br>
-5,323,991 (2023 est.)<br>
+_total_: 5,233,461<br>
+_male_: 2,590,542<br>
+_female_: 2,642,919 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Irishman(men), Irishwoman(women), Irish (collective plural)<br>
@@ -90,9 +92,9 @@ English (official, the language generally used), Irish (Gaelic or Gaeilge) (offi
 Roman Catholic 69.2% (includes lapsed), Protestant 3.7% (Church of Ireland/England/Anglican/Episcopalian 2.5%, other Protestant 1.2%), Orthodox 2%, other Christian 0.9%, Muslim 1.6%, other 1.4%, agnostic/atheist 0.1%, none 14.5%, unspecified 6.7% (2022 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 20.39% (male 556,057/female 529,454)<br>
-_15-64 years_: 65.04% (male 1,741,527/female 1,720,989)<br>
-_65 years and over_: 14.57% (2023 est.) (male 360,476/female 415,488)<br>
+_0-14 years_: 18.6% (male 498,124/female 477,848)<br>
+_15-64 years_: 65.5% (male 1,701,680/female 1,728,041)<br>
+_65 years and over_: 15.8% (2024 est.) (male 390,738/female 437,030)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.2<br>
@@ -101,21 +103,21 @@ _elderly dependency ratio_: 22.7<br>
 _potential support ratio_: 4.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 39.8 years (2023 est.)<br>
-_male_: 39.4 years<br>
-_female_: 40.2 years<br>
+_total_: 40.2 years (2024 est.)<br>
+_male_: 39.7 years<br>
+_female_: 40.6 years<br>
 
 **Population growth rate**<br>
-1.09% (2023 est.)<br>
+0.93% (2024 est.)<br>
 
 **Birth rate**<br>
-11.3 births/1,000 population (2023 est.)<br>
+11.1 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.1 deaths/1,000 population (2023 est.)<br>
+7.4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-6.8 migrant(s)/1,000 population (2023 est.)<br>
+5.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population distribution is weighted to the eastern side of the island, with the largest concentration being in and around Dublin; populations in the west are small due to mountainous land, poorer soil, lack of good transport routes, and fewer job opportunities<br>
@@ -129,10 +131,10 @@ _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.05 male(s)/female<br>
-_15-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.87 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2023 est.)<br>
+_0-14 years_: 1.04 male(s)/female<br>
+_15-64 years_: 0.98 male(s)/female<br>
+_65 years and over_: 0.89 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30.9 years (2020 est.)<br>
@@ -141,20 +143,20 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.2 deaths/1,000 live births (2023 est.)<br>
+_total_: 3.3 deaths/1,000 live births (2024 est.)<br>
 _male_: 3.2 deaths/1,000 live births<br>
 _female_: 3.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.2 years (2023 est.)<br>
-_male_: 80.5 years<br>
-_female_: 84.1 years<br>
+_total population_: 82 years (2024 est.)<br>
+_male_: 80.3 years<br>
+_female_: 83.9 years<br>
 
 **Total fertility rate**<br>
-1.72 children born/woman (2023 est.)<br>
+1.72 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.84 (2023 est.)<br>
+0.84 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

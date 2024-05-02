@@ -76,8 +76,9 @@ lies near vital North Atlantic sea lanes; only 35 km from France and linked by t
 ## People and Society
 
 **Population**<br>
-68,138,484 (2023 est.) United Kingdom<br>
-<strong>constituent countries by percentage of total population: </strong><br>England 84.3%<br>Scotland 8.2%<br>Wales 4.6%<br>Northern Ireland 2.8%<br>
+_total_: 68,459,055 United Kingdom<br>
+_male_: 34,005,445<br>
+_female_: 34,453,610 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Briton(s), British (collective plural)<br>
@@ -94,9 +95,9 @@ English<br>
 Christian (includes Anglican, Roman Catholic, Presbyterian, Methodist) 59.5%, Muslim 4.4%, Hindu 1.3%, other 2%, unspecified 7.2%, none 25.7% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 16.91% (male 5,901,611/female 5,620,070)<br>
-_15-64 years_: 64.03% (male 21,997,962/female 21,628,742)<br>
-_65 years and over_: 19.06% (2023 est.) (male 5,953,187/female 7,036,912)<br>
+_0-14 years_: 16.7% (male 5,872,937/female 5,592,665)<br>
+_15-64 years_: 63.9% (male 22,062,643/female 21,702,401)<br>
+_65 years and over_: 19.3% (2024 est.) (male 6,069,865/female 7,158,544)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.7<br>
@@ -105,21 +106,21 @@ _elderly dependency ratio_: 29.8<br>
 _potential support ratio_: 3.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 40.6 years (2023 est.)<br>
-_male_: 39.9 years<br>
-_female_: 41.4 years<br>
+_total_: 40.8 years (2024 est.)<br>
+_male_: 40.1 years<br>
+_female_: 41.5 years<br>
 
 **Population growth rate**<br>
-0.49% (2023 est.)<br>
+0.45% (2024 est.)<br>
 
 **Birth rate**<br>
-10.8 births/1,000 population (2023 est.)<br>
+10.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.1 deaths/1,000 population (2023 est.)<br>
+9.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-3.2 migrant(s)/1,000 population (2023 est.)<br>
+2.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the core of the population lies in and around London, with significant clusters found in central Britain around Manchester and Liverpool, in the Scottish lowlands between Edinburgh and Glasgow, southern Wales in and around Cardiff, and far eastern Northern Ireland centered on Belfast<br>
@@ -136,7 +137,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 1.02 male(s)/female<br>
 _65 years and over_: 0.85 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29 years (2018 est.)<br>
@@ -146,20 +147,20 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 10 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 4.3 deaths/1,000 live births<br>
+_total_: 3.8 deaths/1,000 live births (2024 est.)<br>
+_male_: 4.2 deaths/1,000 live births<br>
 _female_: 3.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.1 years (2023 est.)<br>
-_male_: 80 years<br>
-_female_: 84.2 years<br>
+_total population_: 82.2 years (2024 est.)<br>
+_male_: 80.1 years<br>
+_female_: 84.4 years<br>
 
 **Total fertility rate**<br>
-1.63 children born/woman (2023 est.)<br>
+1.63 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.79 (2023 est.)<br>
+0.8 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 76.1% (2010/12)<br>

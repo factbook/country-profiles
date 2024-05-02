@@ -73,7 +73,9 @@ consists of about 138 coral islands and islets with ample rainfall, but no river
 ## People and Society
 
 **Population**<br>
-72,576 (2023 est.)<br>
+_total_: 72,800<br>
+_male_: 35,401<br>
+_female_: 37,399 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Bermudian(s)<br>
@@ -89,9 +91,9 @@ English (official), Portuguese<br>
 Protestant 46.2% (includes Anglican 15.8%, African Methodist Episcopal 8.6%, Seventh Day Adventist 6.7, Pentecostal 3.5%, Methodist 2.7%, Presbyterian 2.0%, Church of God 1.6%, Baptist 1.2%, Salvation Army 1.1%, Brethren 1.0%, other Protestant 2.0%), Roman Catholic 14.5%, Jehovah's Witness 1.3%, other Christian 9.1%, Muslim 1%, other 3.9%, none 17.8%, unspecified 6.2% (2010 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 16.45% (male 6,126/female 5,815)<br>
-_15-64 years_: 61.66% (male 22,401/female 22,347)<br>
-_65 years and over_: 21.89% (2023 est.) (male 6,763/female 9,124)<br>
+_0-14 years_: 16.4% (male 6,133/female 5,817)<br>
+_15-64 years_: 60.9% (male 22,247/female 22,113)<br>
+_65 years and over_: 22.7% (2024 est.) (male 7,021/female 9,469)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 52.9<br>
@@ -100,21 +102,21 @@ _elderly dependency ratio_: 30.1<br>
 _potential support ratio_: 3.3 (2021)<br>
 
 **Median age**<br>
-_total_: 43.7 years (2023 est.)<br>
-_male_: 41.4 years<br>
+_total_: 43.8 years (2024 est.)<br>
+_male_: 41.5 years<br>
 _female_: 46.3 years<br>
 
 **Population growth rate**<br>
-0.32% (2023 est.)<br>
+0.3% (2024 est.)<br>
 
 **Birth rate**<br>
-11 births/1,000 population (2023 est.)<br>
+10.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.2 deaths/1,000 population (2023 est.)<br>
+9.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-1.4 migrant(s)/1,000 population (2023 est.)<br>
+1.4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 relatively even population distribution throughout<br>
@@ -129,25 +131,25 @@ _rate of urbanization_: -0.2% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-64 years_: 1 male(s)/female<br>
+_15-64 years_: 1.01 male(s)/female<br>
 _65 years and over_: 0.74 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.2 deaths/1,000 live births (2023 est.)<br>
+_total_: 2.1 deaths/1,000 live births (2024 est.)<br>
 _male_: 2.5 deaths/1,000 live births<br>
 _female_: 1.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.3 years (2023 est.)<br>
-_male_: 79.2 years<br>
-_female_: 85.5 years<br>
+_total population_: 82.5 years (2024 est.)<br>
+_male_: 79.4 years<br>
+_female_: 85.7 years<br>
 
 **Total fertility rate**<br>
-1.89 children born/woman (2023 est.)<br>
+1.88 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.92 (2023 est.)<br>
+0.92 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

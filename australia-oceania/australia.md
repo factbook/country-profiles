@@ -90,7 +90,9 @@ population is primarily located on the periphery, with the highest concentration
 ## People and Society
 
 **Population**<br>
-26,461,166 (2023 est.)<br>
+_total_: 26,768,598<br>
+_male_: 13,305,110<br>
+_female_: 13,463,488 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Australian(s)<br>
@@ -108,9 +110,9 @@ English 72%, Mandarin 2.7%, Arabic 1.4%, Vietnamese 1.3%, Cantonese 1.2%, other 
 Roman Catholic 20%, Protestant 18.1% (Anglican 9.8%, Uniting Church 2.6%, Presbyterian and Reformed 1.6%, Baptist 1.4%, Pentecostal 1%, other Protestant 1.7%), other Christian 3.5%, Muslim 3.2%, Hindu 2.7%, Buddhist 2.4%, Orthodox 2.3% (Eastern Orthodox 2.1%, Oriental Orthodox 0.2%), other 2.1%, none 38.4%, unspecified 7.3% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 18.43% (male 2,515,636/female 2,359,859)<br>
-_15-64 years_: 64.89% (male 8,602,204/female 8,568,004)<br>
-_65 years and over_: 16.69% (2023 est.) (male 2,034,383/female 2,381,080)<br>
+_0-14 years_: 18.3% (male 2,526,772/female 2,369,425)<br>
+_15-64 years_: 64.7% (male 8,688,023/female 8,640,671)<br>
+_65 years and over_: 17% (2024 est.) (male 2,090,315/female 2,453,392)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.7<br>
@@ -119,21 +121,21 @@ _elderly dependency ratio_: 25.5<br>
 _potential support ratio_: 3.9 (2020 est.)<br>
 
 **Median age**<br>
-_total_: 37.9 years (2023 est.)<br>
-_male_: 36.8 years<br>
-_female_: 39 years<br>
+_total_: 38.1 years (2024 est.)<br>
+_male_: 36.9 years<br>
+_female_: 39.2 years<br>
 
 **Population growth rate**<br>
-1.19% (2023 est.)<br>
+1.13% (2024 est.)<br>
 
 **Birth rate**<br>
-12.2 births/1,000 population (2023 est.)<br>
+12.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.8 deaths/1,000 population (2023 est.)<br>
+6.8 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-6.4 migrant(s)/1,000 population (2023 est.)<br>
+5.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or "outback", has a very sparse population<br>
@@ -149,9 +151,9 @@ _rate of urbanization_: 1.27% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
-_15-64 years_: 1 male(s)/female<br>
+_15-64 years_: 1.01 male(s)/female<br>
 _65 years and over_: 0.85 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.7 years (2019 est.)<br>
@@ -160,20 +162,20 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3 deaths/1,000 live births (2023 est.)<br>
+_total_: 2.9 deaths/1,000 live births (2024 est.)<br>
 _male_: 3.2 deaths/1,000 live births<br>
 _female_: 2.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.3 years (2023 est.)<br>
-_male_: 81.1 years<br>
-_female_: 85.5 years<br>
+_total population_: 83.5 years (2024 est.)<br>
+_male_: 81.3 years<br>
+_female_: 85.7 years<br>
 
 **Total fertility rate**<br>
-1.73 children born/woman (2023 est.)<br>
+1.73 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.84 (2023 est.)<br>
+0.84 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.9% (2015/16)<br>
@@ -736,13 +738,13 @@ Australia has been part of the Australia, New Zealand, and US Security (ANZUS) T
 ## Space
 
 **Space agency/agencies**<br>
-Australian Space Agency (ASA; established 2018; headquarters opened in 2020); Defense Space Command (established 2022); Australian Space Office and Australian Space Board/Council (established 1987 and disbanded in 1996) (2023)<br>
+Australian Space Agency (ASA; established 2018; headquarters opened in 2020); Defense Space Command (established 2022) (2024)<br>
 
 **Space launch site(s)**<br>
-Whalers Way Orbital Launch Complex (commercial site, South Australia); Arnhem Space Center (commercial site, Northern Territory) (2023)<br>
+Whalers Way Orbital Launch Complex (commercial site, South Australia); Arnhem Space Center (commercial site, Northern Territory) (2024)<br>
 
 **Space program overview**<br>
-has a long history of involvement in space-related activities, including astronomy, rockets, satellites, and space tracking; develops, builds, operates, and tracks satellites, including communications, remote sensing (RS), navigational, and scientific/testing/research, often in partnership with other countries; develops other space technologies, including communications, RS capabilities, and telescopes; encouraging growth in domestic commercial space industry sector; cooperates with a variety of foreign space agencies and industries, including those of China, the European Space Agency/EU and their individual member states, Japan, New Zealand, South Korea, the UK, and the US; co-leads the Global Earth Observation System of Systems (2023)<br>
+has a long history of involvement in space-related activities, including astronomy, rockets, satellites, and space tracking; develops, builds, operates, and tracks satellites, including communications, remote sensing (RS), navigational, and scientific/testing/research, often in partnership with other countries; develops other space technologies, including communications, RS capabilities, and telescopes; encouraging growth in domestic commercial space industry sector; cooperates with a variety of foreign space agencies and industries, including those of China, the European Space Agency/EU and their individual member states, India, Japan, New Zealand, South Korea, the UK, and the US; co-leads the Global Earth Observation System of Systems (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

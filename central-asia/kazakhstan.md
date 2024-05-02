@@ -83,29 +83,31 @@ world's largest landlocked country and one of only two landlocked countries in t
 ## People and Society
 
 **Population**<br>
-19,543,464 (2023 est.)<br>
+_total_: 20,260,006<br>
+_male_: 9,817,172<br>
+_female_: 10,442,834 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Kazakhstani(s)<br>
 _adjective_: Kazakhstani<br>
 
 **Ethnic groups**<br>
-Kazakh (Qazaq) 69.6%, Russian 17.9%, Uzbek 3.3%, Uyghur 1.5%, Ukrainian 1.3%,&nbsp; Tatar 1%, other 5.3% (2022 est.)<br>
+Kazakh 71%, Russian 14.9%, Uzbek 3.3%, Ukrainian 1.9%, Uyghurs 1.5%, German 1.1%, Tatar 1.1%, other 4.9%, unspecified 0.3% (2023 est.)<br>
 
 **Languages**<br>
-Kazakh (official, Qazaq) 83.1% (understand spoken language) and trilingual (Kazakh, Russian, English) 22.3% (2017 est.); Russian (official, used in everyday business, designated the "language of interethnic communication") 94.4% (understand spoken language) (2009 est.)<br>
+Kazakh (official, Qazaq) 80.1% (understand spoken language), Russian (understand spoken language) 83.7%, English (understand spoken language) 35.1% (2021 est.)<br>
 _major-language sample(s)_: <br>Әлемдік деректер кітабы, негізгі ақпараттың таптырмайтын көзі. (Kazakh)<br><br>Книга фактов о мире – незаменимый источник базовой информации. (Russian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim 70.2%, Christian 26.2% (mainly Russian Orthodox), other 0.2%, atheist 2.8%, unspecified 0.5% (2009 est.)<br>
+Muslim 69.3%, Christian 17.2% (Orthodox 17%, other 0.2%), Buddhism 0.1%, other 0.1%, non-believers 2.3%, unspecified 11% (2021 est.)<br>
 
 **Demographic profile**<br>
 <p>Nearly 40% of Kazakhstan’s population is under the age of 25.  Like many former Soviet states, Kazakhstan’s total fertility rate (TFR) – the average number of births per woman – decreased after independence amidst economic problems and fell below replacement level, 2.1.  However, in the late 2000s, as the economy improved and incomes rose, Kazakhstan experienced a small baby boom and TFR reached 2.5.  TFR has since fallen and is now just over 2.1.  Mortality rates are also decreasing and life expectancy is rising, signs that Kazakhstan’s demographic transition is progressing. </p> <p>Kazakhstan has a diverse population consisting of Asian ethnic groups (predominantly Kazakhs, as well as Uzbeks, Uighurs, and Tatars) and ethnic Europeans (mainly Russians but also Ukrainians and Germans).  Approximately two thirds of Kazakhstan’s population today is Kazakh.  During the mid-20th century, as Kazakhstan industrialized, waves of ethnic Russians and deportees from other parts of the Soviet Union arrived.  Eventually, the ethnic Russian population outnumbered the Kazakhs.  In the 1990s, following Kazakhstan’s independence, Russian and other ethnic Europeans began emigrating, while some ethnic Kazakhs (referred to as Oralmans) returned to their homeland from neighboring countries, China, and Mongolia.  As a result, the country’s ethnic make-up changed, and a Kazakh majority was reestablished.</p> <p>In recent years, Kazakhstan has shifted from being mainly a migrant-sending country to a migrant-receiving country.  Due to its oil-driven economic boom, Kazakhstan has become a more popular destination.  The country needs highly skilled workers in the industrial, business, and education sectors and low-skilled labor in agriculture, markets, services, and construction.  Kazakhstan is increasingly reliant on migrant workers, primarily from Kyrgyzstan, Tajikistan, and Uzbekistan, to fill its labor shortage.  At the same time, highly skilled Kazakhs continue to emigrate, mostly to Russia, seeking higher salaries or further education.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 25.26% (male 2386022/female 2,551,575)<br>
-_15-64 years_: 65.29% (male 6,226,792/female 6,533,887)<br>
-_65 years and over_: 9.44% (2023 est.) (male 660,397/female 1,184,791)<br>
+_0-14 years_: 27.6% (male 2,883,200/female 2,712,772)<br>
+_15-64 years_: 62.8% (male 6,233,881/female 6,486,019)<br>
+_65 years and over_: 9.6% (2024 est.) (male 700,091/female 1,244,043)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 60<br>
@@ -114,21 +116,21 @@ _elderly dependency ratio_: 12.7<br>
 _potential support ratio_: 7.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.7 years (2023 est.)<br>
-_male_: 29.9 years<br>
-_female_: 33.5 years<br>
+_total_: 31.9 years (2024 est.)<br>
+_male_: 30 years<br>
+_female_: 33.8 years<br>
 
 **Population growth rate**<br>
-0.9% (2023 est.)<br>
+0.86% (2024 est.)<br>
 
 **Birth rate**<br>
-17.6 births/1,000 population (2023 est.)<br>
+17.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8.2 deaths/1,000 population (2023 est.)<br>
+8.1 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.4 migrant(s)/1,000 population (2023 est.)<br>
+-0.4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the country displays a low population density, particularly the interior; population clusters appear in urban agglomerations in the far northern and southern portions of the country<br>
@@ -142,10 +144,10 @@ _rate of urbanization_: 1.19% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
-_0-14 years_: 0.94 male(s)/female<br>
-_15-64 years_: 0.95 male(s)/female<br>
+_0-14 years_: 1.06 male(s)/female<br>
+_15-64 years_: 0.96 male(s)/female<br>
 _65 years and over_: 0.56 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2023 est.)<br>
+_total population_: 0.94 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.9 years (2019 est.)<br>
@@ -154,20 +156,20 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 13 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 9.1 deaths/1,000 live births<br>
-_female_: 7.1 deaths/1,000 live births<br>
+_total_: 8 deaths/1,000 live births (2024 est.)<br>
+_male_: 8.9 deaths/1,000 live births<br>
+_female_: 7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73 years (2023 est.)<br>
-_male_: 68.7 years<br>
-_female_: 77.7 years<br>
+_total population_: 73.3 years (2024 est.)<br>
+_male_: 69 years<br>
+_female_: 77.9 years<br>
 
 **Total fertility rate**<br>
-2.59 children born/woman (2023 est.)<br>
+2.58 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.25 (2023 est.)<br>
+1.25 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 53% (2018)<br>

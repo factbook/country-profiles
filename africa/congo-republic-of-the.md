@@ -84,7 +84,9 @@ about 70% of the population lives in Brazzaville, Pointe-Noire, or along the rai
 ## People and Society
 
 **Population**<br>
-5,677,493 (2023 est.)<br>
+_total_: 6,097,665<br>
+_male_: 3,045,973<br>
+_female_: 3,051,692 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Congolese (singular and plural)<br>
@@ -104,9 +106,9 @@ Roman Catholic 33.1%, Awakening Churches/Christian Revival 22.3%, Protestant 19.
 <p>The Republic of the Congo is one of the most urbanized countries in Africa, with nearly 70% of Congolese living in urban areas.  The population is concentrated in the southwest of the country, mainly in the capital Brazzaville, Pointe-Noire, and along the railway line that connects the two.  The tropical jungles in the north of the country are sparsely populated.  Most Congolese are Bantu, and most belong to one of four main ethnic groups, the Kongo, Teke, Mbochi, and Sangha, which consist of over 70 subgroups.</p> <p>The Republic of Congo is in the early stages of a demographic transition, whereby a population shifts from high fertility and mortality rates to low fertility and mortality rates associated with industrialized societies.  Its total fertility rate (TFR), the average number of children born per woman, remains high at 4.4 as of 2022.  While its TFR has steadily decreased, the progress slowed beginning in about 1995.  The slowdown in fertility reduction has delayed the demographic transition and Congo’s potential to reap a demographic dividend, the economic boost that can occur when the share of the working-age population is larger than the dependent age groups. </p> <p>The TFR differs significantly between urban and rural areas – 3.7 in urban areas versus 6.5 in rural areas.  The TFR also varies among regions.  The urban regions of Brazzaville and Pointe-Noire have much lower TFRs than other regions, which are predominantly or completely rural.  The gap between desired fertility and actual fertility is also greatest in rural areas.  Rural families may have more children to contribute to agricultural production and/or due to a lack of information about and access to contraception.  Urban families may prefer to have fewer children because raising them is more expensive and balancing work and childcare may be more difficult.  The number of births among teenage girls, the frequency of giving birth before the age of fifteen, and a lack of education are the most likely reasons for higher TFRs in rural areas.  Although 90% of school-age children are enrolled in primary school, repetition and dropout rates are high and the quality of education is poor.  Congolese women with no or little education start having children earlier and have more children in total than those with at least some secondary education.</p> <p> </p><br>
 
 **Age structure**<br>
-_0-14 years_: 40.44% (male 1,159,264/female 1,136,501)<br>
-_15-64 years_: 56.15% (male 1,598,111/female 1,590,032)<br>
-_65 years and over_: 3.41% (2023 est.) (male 88,323/female 105,262)<br>
+_0-14 years_: 37.8% (male 1,162,298/female 1,143,668)<br>
+_15-64 years_: 57.8% (male 1,770,337/female 1,756,925)<br>
+_65 years and over_: 4.3% (2024 est.) (male 113,338/female 151,099)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 78.8<br>
@@ -115,21 +117,21 @@ _elderly dependency ratio_: 4.8<br>
 _potential support ratio_: 20.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20.5 years (2023 est.)<br>
-_male_: 20.3 years<br>
-_female_: 20.7 years<br>
+_total_: 20.7 years (2024 est.)<br>
+_male_: 20.5 years<br>
+_female_: 20.9 years<br>
 
 **Population growth rate**<br>
-2.4% (2023 est.)<br>
+2.38% (2024 est.)<br>
 
 **Birth rate**<br>
-29.1 births/1,000 population (2023 est.)<br>
+28.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5 deaths/1,000 population (2023 est.)<br>
+4.8 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.1 migrant(s)/1,000 population (2023 est.)<br>
+-0.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the population is primarily located in the south, in and around the capital of Brazzaville as shown in this population distribution map<br>
@@ -145,8 +147,8 @@ _rate of urbanization_: 3.19% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.84 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.6 years (2011/12 est.)<br>
@@ -156,20 +158,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 282 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 31.4 deaths/1,000 live births (2023 est.)<br>
-_male_: 34.3 deaths/1,000 live births<br>
-_female_: 28.4 deaths/1,000 live births<br>
+_total_: 30.6 deaths/1,000 live births (2024 est.)<br>
+_male_: 33.5 deaths/1,000 live births<br>
+_female_: 27.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.2 years (2023 est.)<br>
-_male_: 70.8 years<br>
-_female_: 73.6 years<br>
+_total population_: 72.9 years (2024 est.)<br>
+_male_: 71.5 years<br>
+_female_: 74.3 years<br>
 
 **Total fertility rate**<br>
-3.86 children born/woman (2023 est.)<br>
+3.79 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.9 (2023 est.)<br>
+1.87 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 30.1% (2014/15)<br>
@@ -361,7 +363,7 @@ _election results_: <br><em>2021: </em>Denis SASSOU-Nguesso reelected president 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parliament consists of:<br>Senate (72 seats; members indirectly elected by local, district, and regional councils by simple majority vote to serve 6-year terms) note- the Senate is renewed in its entirety following a constitutional reform implemented in 2015 ending the renewal by half<br>National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms)<br>
 _elections_: Senate - last held on 20 August 2023 (next to be held 31 August 2029)<br>National Assembly - last held on 10 and 31 July 2022 (next to be held in July 2027)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PCT 52, Independents 7, RDPS 3, MAR 2, Club 2002 PUR 2, PRL 1, UDLC 1, MCDDI 1, LCEM 1, UPADS 1, RC 1; composition as of March 2024 - men 49, women 23, percentage women 34.7%<br><br>National Assembly - percent of vote by party - NA; seats by party - PCT 112, UPADS 7, UDH-YUKI 7, MAR 4, RLP 2, CLUB 2002 2, DRR 2, RDPS 2, PAC 1, MSD 1, MDP 1, CPR 1, PPRD 1, CR 1, MCDDI 1, independent 6; composition as of March 2024 - men 129, women 22, percentage women 14.6%; total Parliament percentage women 20.2%<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - PCT 52, Independents 7, RDPS 3, MAR 2, Club 2002 PUR 2, PRL 1, UDLC 1, MCDDI 1, LCEM 1, UPADS 1, RC 1; composition - men 49, women 23, percentage women 34.7%<br><br>National Assembly - percent of vote by party - NA; seats by party - PCT 112, UPADS 7, UDH-YUKI 7, MAR 4, RLP 2, CLUB 2002 2, DRR 2, RDPS 2, PAC 1, MSD 1, MDP 1, CPR 1, PPRD 1, CR 1, MCDDI 1, independent 6; composition - men 129, women 22, percentage women 14.6%; total Parliament percentage women 20.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 members); note - a High Court of Justice, outside the judicial authority, tries cases involving treason by the President of the Republic<br>

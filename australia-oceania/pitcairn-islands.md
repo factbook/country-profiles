@@ -69,7 +69,7 @@ Britain's most isolated dependency; only the larger island of Pitcairn is inhabi
 ## People and Society
 
 **Population**<br>
-50 (2021 est.)<br>
+_total_: 50 (2021 est.)<br>
 
 **Nationality**<br>
 _noun_: Pitcairn Islander(s)<br>
@@ -84,83 +84,11 @@ English (official), Pitkern (mixture of an 18th century English dialect and a Ta
 **Religions**<br>
 Seventh Day Adventist 100%<br>
 
-**Age structure**<br>
-_0-14 years_: NA<br>
-_15-64 years_: NA<br>
-_65 years and over_: NA<br>
-
-**Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
-
 **Population growth rate**<br>
 0% (2014 est.)<br>
 
-**Birth rate**<br>
-NA<br>
-
-**Death rate**<br>
-NA<br>
-
 **Population distribution**<br>
 less than 50 inhabitants on Pitcairn Island, most reside near the village of Adamstown<br>
-
-**Urbanization**<br>
-_rate of urbanization_: NA<br>
-
-**Sex ratio**<br>
-NA<br>
-
-**Infant mortality rate**<br>
-_total_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
-**Life expectancy at birth**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
-**Total fertility rate**<br>
-NA<br>
-
-**Contraceptive prevalence rate**<br>
-NA<br>
-
-**Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA<br>
-
-**Current health expenditure**<br>
-NA<br>
-
-**Physicians density**<br>
-NA<br>
-
-**Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
-_improved: total_: total: NA<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
-**Education expenditures**<br>
-NA<br>
-
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
 
 ## Environment
 
@@ -174,9 +102,6 @@ tropical; hot and humid; modified by southeast trade winds; rainy season (Novemb
 _agricultural land_: 0% (2011 est.)<br>
 _forest_: 74.5% (2018 est.)<br>
 _other_: 25.5% (2018 est.)<br>
-
-**Urbanization**<br>
-_rate of urbanization_: NA<br>
 
 ## Government
 

@@ -74,7 +74,9 @@ the twin Pitons (Gros Piton and Petit Piton), striking cone-shaped peaks south o
 ## People and Society
 
 **Population**<br>
-167,591 (2023 est.)<br>
+_total_: 168,038<br>
+_male_: 81,517<br>
+_female_: 86,521 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Saint Lucian(s)<br>
@@ -90,9 +92,9 @@ English (official), Saint Lucian Creole<br>
 Roman Catholic 61.5%, Protestant 25.5% (includes Seventh Day Adventist 10.4%, Pentecostal 8.9%, Baptist 2.2%, Anglican 1.6%, Church of God 1.5%, other Protestant 0.9%), other Christian 3.4% (includes Evangelical 2.3% and Jehovah's Witness 1.1%), Rastafarian 1.9%, other 0.4%, none 5.9%, unspecified 1.4% (2010 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 18.23% (male 15,734/female 14,820)<br>
-_15-64 years_: 66.97% (male 54,354/female 57,880)<br>
-_65 years and over_: 14.8% (2023 est.) (male 11,257/female 13,546)<br>
+_0-14 years_: 17.9% (male 15,505/female 14,607)<br>
+_15-64 years_: 66.7% (male 54,260/female 57,747)<br>
+_65 years and over_: 15.4% (2024 est.) (male 11,752/female 14,167)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 37.7<br>
@@ -101,21 +103,21 @@ _elderly dependency ratio_: 12.5<br>
 _potential support ratio_: 8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 39 years (2023 est.)<br>
-_male_: 37.8 years<br>
-_female_: 40.2 years<br>
+_total_: 39.7 years (2024 est.)<br>
+_male_: 38.4 years<br>
+_female_: 40.9 years<br>
 
 **Population growth rate**<br>
-0.27% (2023 est.)<br>
+0.26% (2024 est.)<br>
 
 **Birth rate**<br>
-11.7 births/1,000 population (2023 est.)<br>
+11.4 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8.2 deaths/1,000 population (2023 est.)<br>
+8.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.8 migrant(s)/1,000 population (2023 est.)<br>
+-0.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the population is found on the periphery of the island, with a larger concentration in the north around the capital of Castries<br>
@@ -132,26 +134,26 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 0.94 male(s)/female<br>
 _65 years and over_: 0.83 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2023 est.)<br>
+_total population_: 0.94 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 73 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 11 deaths/1,000 live births<br>
-_female_: 12.5 deaths/1,000 live births<br>
+_total_: 11.5 deaths/1,000 live births (2024 est.)<br>
+_male_: 10.8 deaths/1,000 live births<br>
+_female_: 12.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.2 years (2023 est.)<br>
-_male_: 76.5 years<br>
-_female_: 82.1 years<br>
+_total population_: 79.4 years (2024 est.)<br>
+_male_: 76.7 years<br>
+_female_: 82.3 years<br>
 
 **Total fertility rate**<br>
-1.72 children born/woman (2023 est.)<br>
+1.71 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.84 (2023 est.)<br>
+0.83 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 55.5% (2011/12)<br>

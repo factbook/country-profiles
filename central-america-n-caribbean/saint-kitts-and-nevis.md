@@ -74,7 +74,9 @@ smallest country in the Western Hemisphere both in terms of area and population;
 ## People and Society
 
 **Population**<br>
-54,817 (2023 est.)<br>
+_total_: 55,133<br>
+_male_: 27,599<br>
+_female_: 27,534 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Kittitian(s), Nevisian(s)<br>
@@ -90,9 +92,9 @@ English (official)<br>
 Protestant 75.6% (includes Anglican 16.6%, Methodist 15.8%, Pentecostal 10.8%, Church of God 7.4%, Baptist 5.4%, Seventh Day Adventist 5.4%, Wesleyan Holiness 5.3%, Moravian 4.8%, Evangelical 2.1%, Brethren 1.7%, Presbyterian 0.3%), Roman Catholic 5.9%, Hindu 1.8%, Jehovah's Witness 1.4%, Rastafarian 1.3%, other 5%, none 8.8%, unspecified 0.1% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 19.4% (male 5,338/female 5,298)<br>
-_15-64 years_: 68.54% (male 18,958/female 18,615)<br>
-_65 years and over_: 12.05% (2023 est.) (male 3,146/female 3,462)<br>
+_0-14 years_: 19.2% (male 5,314/female 5,277)<br>
+_15-64 years_: 68.1% (male 18,944/female 18,575)<br>
+_65 years and over_: 12.7% (2024 est.) (male 3,341/female 3,682)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 41.7<br>
@@ -101,21 +103,21 @@ _elderly dependency ratio_: 13.7<br>
 _potential support ratio_: 7.3 (2021)<br>
 
 **Median age**<br>
-_total_: 38.1 years (2023 est.)<br>
-_male_: 38.3 years<br>
-_female_: 37.8 years<br>
+_total_: 38.6 years (2024 est.)<br>
+_male_: 38.8 years<br>
+_female_: 38.3 years<br>
 
 **Population growth rate**<br>
-0.59% (2023 est.)<br>
+0.56% (2024 est.)<br>
 
 **Birth rate**<br>
-12.1 births/1,000 population (2023 est.)<br>
+11.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.3 deaths/1,000 population (2023 est.)<br>
+7.4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-1.2 migrant(s)/1,000 population (2023 est.)<br>
+1.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population clusters are found in the small towns located on the periphery of both islands<br>
@@ -132,23 +134,23 @@ _at birth_: 1.02 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-64 years_: 1.02 male(s)/female<br>
 _65 years and over_: 0.91 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 5.6 deaths/1,000 live births<br>
-_female_: 10.8 deaths/1,000 live births<br>
+_total_: 8 deaths/1,000 live births (2024 est.)<br>
+_male_: 5.5 deaths/1,000 live births<br>
+_female_: 10.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.3 years (2023 est.)<br>
-_male_: 74.9 years<br>
-_female_: 79.8 years<br>
+_total population_: 77.6 years (2024 est.)<br>
+_male_: 75.2 years<br>
+_female_: 80.1 years<br>
 
 **Total fertility rate**<br>
-1.76 children born/woman (2023 est.)<br>
+1.76 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.87 (2023 est.)<br>
+0.87 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

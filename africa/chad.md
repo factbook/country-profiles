@@ -82,7 +82,9 @@ hot, dry, dusty harmattan winds occur in north; periodic droughts; locust plague
 ## People and Society
 
 **Population**<br>
-18,523,165 (2023 est.)<br>
+_total_: 19,093,595<br>
+_male_: 9,464,699<br>
+_female_: 9,628,896 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Chadian(s)<br>
@@ -102,9 +104,9 @@ Muslim 52.1%, Protestant 23.9%, Roman Catholic 20%, animist 0.3%, other Christia
 <p>Despite the start of oil production in 2003, around 40% of Chad’s population lived below the poverty line as of 2018. The population will continue to grow rapidly because of the country’s very high fertility rate and large youth cohort – more than 65% of the populace is under the age of 25 as of 2022 – although the mortality rate is high and life expectancy is low. Chad has the world’s second highest maternal mortality rate as of 2017. Among the primary risk factors are poverty, anemia, rural habitation, high fertility, poor education, and a lack of access to family planning and obstetric care. Impoverished, uneducated adolescents living in rural areas are most affected. To improve women’s reproductive health and reduce fertility, Chad will need to increase women’s educational attainment, job participation, and knowledge of and access to family planning. Less than a quarter of women are literate, less than 10% use contraceptives, and more than 40% undergo genital cutting.</p> <p>As of December 2022, more than 403,000 refugees from Sudan and more than 120,000 from the Central African Republic strain Chad’s limited resources and create tensions in host communities. Thousands of new refugees fled to Chad in 2013 to escape worsening violence in the Darfur region of Sudan. The large refugee populations are hesitant to return to their home countries because of continued instability. Chad was relatively stable in 2012 in comparison to other states in the region, but past fighting between government forces and opposition groups and inter-communal violence have left more than 380,000 of its citizens displaced in the eastern part of the country as of 2022.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 46.24% (male 4,334,264/female 4,231,658)<br>
-_15-64 years_: 51.27% (male 4,646,510/female 4,849,878)<br>
-_65 years and over_: 2.49% (2023 est.) (male 197,450/female 263,405)<br>
+_0-14 years_: 45.8% (male 4,428,132/female 4,323,398)<br>
+_15-64 years_: 51.7% (male 4,831,744/female 5,031,383)<br>
+_65 years and over_: 2.5% (2024 est.) (male 204,823/female 274,115)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 98.7<br>
@@ -113,21 +115,21 @@ _elderly dependency ratio_: 4<br>
 _potential support ratio_: 24.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 16.5 years (2023 est.)<br>
-_male_: 16.1 years<br>
-_female_: 17 years<br>
+_total_: 16.7 years (2024 est.)<br>
+_male_: 16.3 years<br>
+_female_: 17.2 years<br>
 
 **Population growth rate**<br>
-3.05% (2023 est.)<br>
+3.01% (2024 est.)<br>
 
 **Birth rate**<br>
-39.9 births/1,000 population (2023 est.)<br>
+39.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.2 deaths/1,000 population (2023 est.)<br>
+9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.1 migrant(s)/1,000 population (2023 est.)<br>
+-0.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the population is unevenly distributed due to contrasts in climate and physical geography; the highest density is found in the southwest, particularly around Lake Chad and points south; the dry Saharan zone to the north is the least densely populated as shown in this population distribution map<br>
@@ -144,7 +146,7 @@ _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-64 years_: 0.96 male(s)/female<br>
 _65 years and over_: 0.75 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2023 est.)<br>
+_total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 18.1 years (2014/15 est.)<br>
@@ -154,20 +156,20 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 1,063 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 64 deaths/1,000 live births (2023 est.)<br>
-_male_: 69.6 deaths/1,000 live births<br>
-_female_: 58.1 deaths/1,000 live births<br>
+_total_: 62.5 deaths/1,000 live births (2024 est.)<br>
+_male_: 68.1 deaths/1,000 live births<br>
+_female_: 56.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 59.6 years (2023 est.)<br>
-_male_: 57.7 years<br>
-_female_: 61.5 years<br>
+_total population_: 60 years (2024 est.)<br>
+_male_: 58.1 years<br>
+_female_: 62 years<br>
 
 **Total fertility rate**<br>
-5.35 children born/woman (2023 est.)<br>
+5.24 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-2.62 (2023 est.)<br>
+2.57 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 8.1% (2019)<br>
@@ -367,8 +369,8 @@ _judge selection and term of office_: Supreme Court chief justice selected by th
 _subordinate courts_: High Court of Justice; Courts of Appeal; tribunals; justices of the peace<br>
 
 **Political parties and leaders**<br>
-Chadian Convention for Peace and Development or CTPD [Laoukein Kourayo MEDARD]<br>Federation Action for the Republic or FAR [Ngarledjy YORONGAR]<br>National Rally for Development and Progress or Viva-RNDP [Dr. Nouradine Delwa Kassire COUMAKOYE]<br>National Union for Democracy and Renewal or UNDR [Saleh KEBZABO]<br>Party for Unity and Reconstruction or PUR<br>Patriotic Salvation Movement or MPS [formerly Idriss DEBY] <br>Rally for Democracy and Progress or RDP [Mahamat Allahou TAHER]<br>Rally of Chadian Nationalists/Awakening or RNDT/Le Reveil [Albert Pahimi PADACKE]<br>Social Democratic Party for a Change-over of Power or PDSA [Malloum YOBODA]<br>Union for Democracy and the Republic or UDR<br>Union for Renewal and Democracy or URD [Felix Romadoumngar NIALBE]<br>Transformers [Succès MASRA]<br> <br><strong>note 1:</strong> 19 additional parties each contributed one member<strong><br><br>note 2:</strong> only parties with at least two seats in the last elected National Assembly (February 2011) included<br>
-<strong>note 3:</strong> on 5 October 2021, Interim President Mahamat Idriss DEBY appointed 93 members to the interim National Transitional Council (NTC); 30% of the NTC members were retained from parties previously represented in the National Assembly<br>
+Chadian Convention for Peace and Development or CTPD [Laoukein Kourayo MEDARD]<br>Federation Action for the Republic or FAR [Ngarledjy YORONGAR]<br>National Rally for Development and Progress or Viva-RNDP [Dr. Nouradine Delwa Kassire COUMAKOYE]<br>National Union for Democracy and Renewal or UNDR [Saleh KEBZABO]<br>Party for Unity and Reconstruction or PUR<br>Patriotic Salvation Movement or MPS [formerly Idriss DEBY] <br>Rally for Democracy and Progress or RDP [Mahamat Allahou TAHER]<br>Rally of Chadian Nationalists/Awakening or RNDT/Le Reveil [Albert Pahimi PADACKE]<br>Social Democratic Party for a Change-over of Power or PDSA [Malloum YOBODA]<br>Union for Democracy and the Republic or UDR<br>Union for Renewal and Democracy or URD [Felix Romadoumngar NIALBE]<br>Transformers [Succès MASRA]<br> <br><strong>note 1:</strong> 19 additional parties each contributed one member<strong><br></strong><br>
+<strong>note 2:</strong> on 5 October 2021, Interim President Mahamat Idriss DEBY appointed 93 members to the interim National Transitional Council (NTC); 30% of the NTC members were retained from parties previously represented in the National Assembly<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MNJTF, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

@@ -82,7 +82,9 @@ landlocked; crossroads of northern and southern Europe; along with southeastern 
 ## People and Society
 
 **Population**<br>
-8,563,760 (2023 est.)<br>
+_total_: 8,860,574<br>
+_male_: 4,403,105<br>
+_female_: 4,457,469 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Swiss (singular and plural)<br>
@@ -100,9 +102,9 @@ _major-language sample(s)_: <br>Das World Factbook, die unverzichtbare Quelle f√
 Roman Catholic 34.4%, Protestant 22.5%, other Christian 5.7%, Muslim 5.4%, other 1.5%, none 29.4%, unspecified 1.1% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 15.49% (male 683,053/female 643,067)<br>
-_15-64 years_: 65.13% (male 2,800,880/female 2,777,109)<br>
-_65 years and over_: 19.38% (2023 est.) (male 745,501/female 914,150)<br>
+_0-14 years_: 15.1% (male 685,221/female 650,802)<br>
+_15-64 years_: 64.6% (male 2,887,767/female 2,834,842)<br>
+_65 years and over_: 20.3% (2024 est.) (male 830,117/female 971,825)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.6<br>
@@ -111,21 +113,21 @@ _elderly dependency ratio_: 28.7<br>
 _potential support ratio_: 3.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 44 years (2023 est.)<br>
-_male_: 43.3 years<br>
-_female_: 44.8 years<br>
+_total_: 44.2 years (2024 est.)<br>
+_male_: 43.5 years<br>
+_female_: 44.9 years<br>
 
 **Population growth rate**<br>
-0.78% (2023 est.)<br>
+0.75% (2024 est.)<br>
 
 **Birth rate**<br>
-10.2 births/1,000 population (2023 est.)<br>
+10.1 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8.4 deaths/1,000 population (2023 est.)<br>
+8.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-6 migrant(s)/1,000 population (2023 est.)<br>
+5.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population distribution corresponds to elevation with the northern and western areas far more heavily populated; the higher Alps of the south limit settlement<br>
@@ -139,10 +141,10 @@ _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.82 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_0-14 years_: 1.05 male(s)/female<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.85 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 31.1 years (2020 est.)<br>
@@ -151,20 +153,20 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 7 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3 deaths/1,000 live births (2023 est.)<br>
+_total_: 3 deaths/1,000 live births (2024 est.)<br>
 _male_: 3.4 deaths/1,000 live births<br>
-_female_: 2.6 deaths/1,000 live births<br>
+_female_: 2.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.8 years (2023 est.)<br>
-_male_: 81.9 years<br>
+_total population_: 83.9 years (2024 est.)<br>
+_male_: 82 years<br>
 _female_: 85.8 years<br>
 
 **Total fertility rate**<br>
-1.59 children born/woman (2023 est.)<br>
+1.59 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.77 (2023 est.)<br>
+0.77 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 71.6% (2017)<br>

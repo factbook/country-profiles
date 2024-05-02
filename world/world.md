@@ -90,8 +90,9 @@ _The World Factbook's Seven Natural Ultra-Wonders of the World_: <p>While all of
 ## People and Society
 
 **Population**<br>
-7,979,261,010 (2023 est.)<br>
-<strong>ten most populous countries (in millions):</strong> China 1413.14; India 1339.92; United States 339.67; Indonesia 279.48; Pakistan 247.65; Nigeria 230.84; Brazil 218.69; Bangladesh 167.18; Russia 141.7; Mexico 129.88 <br><br><strong>ten least populous countries:</strong> Holy See (Vatican City) 1,000; Niue 2,000; Saint Pierre and Miquelon 5,195; Montserrat 5,440; Saint Barthelemy 7,093; Saint Helena, Ascension, and Tristan de Cunha 7,935; Cook Islands 7,939; Nauru 9,852; Tuvalu 11,639; Wallis and Futuna 15,929 <br><br><strong>ten most densely populated countries (population per sq km):</strong> Macau 22,856.1; Monaco 15,798.5; Singapore 8,427.9; Hong Kong 6,792.3; Gaza Strip 5,660.4; Gibraltar 4,232.7; Bahrain 2,044.6; Malta 1,478.3; Bermuda 1,344; Maldives 1,343.4 <br><br><strong>ten least densely populated countries (population per sq km):</strong> Greenland 0.03; Falkland Islands 0.26; Mongolia 2.1; Namibia 3.37; Australia 3.4; Iceland 3.6; Guyana 4; Suriname 4.1; Mauritania 4.1; Libya 4.1<br>
+_total_: 8,057,236,243<br>
+_male_: 4,046,854,454<br>
+_female_: 4,010,381,789 (2024 est.)<br>
 
 **Languages**<br>
 <p><strong>most-spoken language: </strong>English 18.8%, Mandarin Chinese 13.8%, Hindi 7.5%, Spanish 6.9%, French 3.4%, Arabic 3.4%, Bengali 3.4%, Russian 3.2%, Portuguese 3.2%, Urdu 2.9% (2022 est.) <br><br><strong>most-spoken first language:</strong> Mandarin Chinese 12.3%, Spanish 6%, English 5.1%, Arabic 5.1%, Hindi 3.5%, Bengali 3.3%, Portuguese 3%, Russian 2.1%, Japanese 1.7%, Punjabi, Western 1.3%, Javanese 1.1% (2018 est.)</p> <p><strong>note 1:</strong> the six UN languages - Arabic, Chinese (Mandarin), English, French, Russian, and Spanish (Castilian) - are the mother tongue or second language of about 49.6% of the world's population (2022), and are the official languages in more than half the states in the world; some 400 languages have more than a million first-language speakers (2018)</p> <p><strong>note 2:</strong> all told, there are estimated to be 7,168 living languages spoken in the world (2023); approximately 80% of these languages are spoken by less than 100,000 people; about 150 languages are spoken by fewer than 10 people; communities that are isolated from each other in mountainous regions often develop multiple languages; Papua New Guinea, for example, boasts about 840 separate languages (2018)</p> <p><strong>note 3:</strong> approximately 2,300 languages are spoken in Asia, 2,140, in Africa, 1,310 in the Pacific, 1,060 in the Americas, and 290 in Europe (2020)</p><br>
@@ -100,9 +101,9 @@ _The World Factbook's Seven Natural Ultra-Wonders of the World_: <p>While all of
 Christian 31.1%, Muslim 24.9%, Hindu 15.2%, Buddhist 6.6%, folk religions 5.6%, Jewish &lt;1%, other &lt;1%, unaffiliated 15.6% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 24.7% (male 1,013,862,872/female 954,310,632)<br>
-_15-64 years_: 65.2% (male 2,632,261,828/female 2,569,677,967)<br>
-_65 years and over_: 10.1% (male 359,529,609/female 448,106,332) (2023 est.)<br>
+_0-14 years_: 24.5% (male 1,018,005,046/female 958,406,907)<br>
+_15-64 years_: 65.2% (male 2,658,595,672/female 2,592,930,538)<br>
+_65 years and over_: 10.3% (2024 est.) (male 370,253,736/female 459,044,344)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.1<br>
@@ -111,7 +112,7 @@ _elderly dependency ratio_: 14.8<br>
 _potential support ratio_: 7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31 years (2020)<br>
+_total_: 31 years (2020 est.)<br>
 _male_: 30.3 years<br>
 _female_: 31.8 years<br>
 
@@ -120,12 +121,12 @@ _female_: 31.8 years<br>
 <strong>note:</strong> this rate results in about 154 net additions to the worldwide population every minute or 2.6 people every second<br>
 
 **Birth rate**<br>
-18.1 births/1,000 population (2020 est.)<br>
-<strong>note:</strong> this rate results in about 259 worldwide births per minute or 4.3 births every second<br>
+17 births/1,000 population (2024 est.)<br>
+<strong>note:</strong> this rate results in about 260 worldwide births per minute or 4.3 births every second<br>
 
 **Death rate**<br>
-7.7 deaths/1,000 population (2020 est.)<br>
-<strong>note:</strong> this rate results in about 108 worldwide deaths per minute or 1.8 deaths every second<br>
+7.9 deaths/1,000 population (2024 est.)<br>
+<strong>note:</strong> this rate results in about 121 worldwide deaths per minute or 2 deaths every second<br>
 
 **Population distribution**<br>
 six of the world's seven continents are widely and permanently inhabited; Asia is easily the most-populous continent with about 60% of the world's population (China and India together account for over 35%); Africa comes in second with over 15% of the earth's populace, Europe has about 10%, North America 8%, South America almost 6%, and Oceania less than 1%; the harsh conditions on Antarctica prevent any permanent habitation<br>
@@ -139,19 +140,17 @@ _rate of urbanization_: 1.73% annual rate of change (2020-25 est.)<br>
 <strong>ten largest urban agglomerations, by continent:<br>Africa - </strong>Cairo (Egypt) - 20,901,000; Lagos (Nigeria) - 134,368,000; Kinshasha (DRC) - 14,342,000; Luanda (Angola) - 8,330,000; Dar Es Salaam (Tanzania) - 6,702,000; Khartoum (Sudan) - 5,829,000; Johannesburg (South Africa) - 5,783,000; Alexandria (Egypt) - 5,281,000; Abidjan (Cote d'Ivoire) - 5,203,000; Addis Ababa (Ethiopia) - 4,794,000<br><br><strong>Asia -</strong> Tokyo (Japan) - 37,393,000; New Delhi (India) - 30,291,000; Shanghai (China) - 27,058,000; Dhaka (Bangladesh) - 21,006,000; Beijing (China) - 20,463,000; Mumbai (India) - 20,411,000; Osaka (Japan) - 19,165,000; Karachi (Pakistan) - 16,094,000; Chongqing (China) - 15,872,000; Istanbul (Turkey) - 15,190,000<br><br><strong>Europe -</strong> Moscow (Russia) - 12,538,000; Paris (France) - 11,017,000; London (United Kingdom) - 9,304,000; Madrid (Spain) - 6,618,000; Barcelona (Spain) - 5,586,000, Saint Petersburg (Russia) -  5,468,000; Rome (Italy) - 4,257,000; Berlin (Germany) - 3,562,000; Athens (Greece) - 3,153,000; Milan (Italy) - 3,140,000<br><br><strong>North America -</strong> Mexico City (Mexico) - 21,782,000; New York-Newark (United States) - 18,804,000; Los Angeles-Long Beach-Santa Ana (United States) - 12,447,000; Chicago (United States) - 8,865,000; Houston (United States) - 6,371,000; Dallas-Fort Worth (United States) - 6,301,000; Toronto (Canada) - 6,197,000; Miami (United States) - 6,122,000; Atlanta (United States) - 5,803,000; Philadelphia (United States) - 5,717,000<br><br><strong>Oceania -</strong> Melbourne (Australia) - 4,968,000, Sydney (Australia) - 4,926,000; Brisbane (Australia) - 2,406,000; Perth (Australia) - 2,042,000; Auckland (New Zealand) - 1,607,000; Adelaide (Australia) - 1,336,000; Gold Coast-Tweed Head (Australia) - 699,000; Canberra (Australia) - 457,000; Newcastle-Maitland (Australia) - 450,000; Wellington (New Zealand) - 415,000<br><br><strong>South America -</strong> Sao Paulo (Brazil) - 22,043,000; Buenos Aires (Argentina) - 15,154,000; Rio de Janeiro (Brazil) - 13,458,000; Bogota (Colombia) - 10,978,000; Lima (Peru) - 10,719,000; Santiago (Chile) - 6,767,000; Belo Horizonte (Brazil) - 6,084,000; Brasilia (Brazil) - 4,646,000; Porto Alegre (Brazil) - 4,137,000; Recife (Brazil) - 4,127,000 (2020)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.07 male(s)/female<br>
-_0-14 years_: 1.07 male(s)/female<br>
-_15-64 years_: 1.07 male(s)/female<br>
+_at birth_: 1.05 male(s)/female<br>
+_0-14 years_: 1.05 male(s)/female<br>
+_15-64 years_: 1.03 male(s)/female<br>
 _65 years and over_: 0.81 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2020 est.)<br>
+_total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 211 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 30.8 deaths/1,000 live births (2020 est.)<br>
-_male_: 32.8 deaths/1,000 live births<br>
-_female_: 28.6 deaths/1,000 live births<br>
+_total_: 28.3 deaths/1,000 live births (2024 est.)<br>
 
 **Life expectancy at birth**<br>
 _total population_: 70.5 years (2020)<br>

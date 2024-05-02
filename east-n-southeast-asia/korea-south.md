@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The first recorded kingdom (Choson) on the Korean Peninsula dates from approximately 2300 B.C. Over the subsequent centuries, three main kingdoms - Kogoryo, Paekche, and Silla - were established on the Peninsula.  By the 5th century A.D., Kogoryo emerged as the most powerful, with control over much of the Peninsula, as well as part of Manchuria (modern-day northeast China).  However, Silla allied with the Chinese to create the first unified Korean state in the late 7th century (688).  Following the collapse of Silla in the 9th century, Korea was unified under the Koryo (Goryeo; 918-1392) and the Chosen (Joseon; 1392-1910) dynasties.</p> <p>Korea became the object of intense imperialistic rivalry between the Chinese (its traditional benefactor), Japanese, and Russian empires in the latter half of the 19th and early 20th centuries. Following the Sino-Japanese War (1894-95) and the Russo-Japanese War (1904-1905), Korea was occupied by Imperial Japan. In 1910, Tokyo formally annexed the entire Peninsula. Korea regained its independence following Japan's surrender to the US and its allies in 1945. After World War II, a democratic government (Republic of Korea, ROK) was set up in the southern half of the Korean Peninsula while a communist-style government was installed in the north (North Korea; aka Democratic People's Republic of Korea, DPRK). During the Korean War (1950-53), US troops and UN forces fought alongside ROK soldiers to defend South Korea from a North Korean invasion supported by communist China and the Soviet Union. A 1953 armistice split the Peninsula along a demilitarized zone at about the 38th parallel. <br><br>Syngman RHEE led the country as its first president from 1948-1960. PARK Chung-hee took over leadership of the country in a 1961 coup. During his regime from 1961 to 1979, South Korea achieved rapid economic growth, with per capita income rising to roughly 17 times the level of North Korea in 1979. PARK was assassinated in 1979, and subsequent years were marked by political turmoil and continued authoritarian rule as the country's pro-democracy movement grew. South Korea held its first free presidential election under a revised democratic constitution in 1987, with former South Korean Army general ROH Tae-woo winning a close race. In 1993, KIM Young-sam (1993-98) became the first civilian president of South Korea's new democratic era. President KIM Dae-jung (1998-2003) won the Nobel Peace Prize in 2000 for his contributions to South Korean democracy and his "Sunshine Policy" of engagement with North Korea. President PARK Geun-hye, daughter of former South Korean President PARK Chung-hee, took office in February 2013 as South Korea's first female leader. In December 2016, the National Assembly passed an impeachment motion against President PARK over her alleged involvement in a corruption and influence-peddling scandal, immediately suspending her presidential authorities. The impeachment was upheld in March 2017, triggering an early presidential election in May 2017 won by MOON Jae-in. In March 2022, longtime prosecutor and political newcomer YOON Suk Yeol won the presidency by the slimmest margin in South Korean history.</p> <p>Discord and tensions with North Korea, punctuated by North Korean military provocations, missile launches, and nuclear tests, have permeated inter-Korean relations for years. Despite a period of respite in 2018-2019 ushered in by North Korea's participation in the 2018 Winter Olympic and Paralympic Games in South Korea and high-level diplomatic meetings, including historic US-North Korea summits, relations were strained as of early 2024. In 2024, Pyongyang announced it was ending all economic cooperation with South Korea, a move that followed earlier proclamations that it was scrapping a military pact signed in 2018 aimed at de-escalating tensions along their militarized border, abandoning the country’s decades-long pursuit of peaceful unification with South Korea, and designating the South as North Korea’s “principal enemy.”</p><br>
+<p>The first recorded kingdom (Choson) on the Korean Peninsula dates from approximately 2300 B.C. Over the subsequent centuries, three main kingdoms -- Kogoryo, Paekche, and Silla -- were established on the Peninsula. By the 5th century A.D., Kogoryo emerged as the most powerful, with control over much of the Peninsula and part of Manchuria (modern-day northeast China). However, Silla allied with the Chinese to create the first unified Korean state in 688. Following the collapse of Silla in the 9th century, Korea was unified under the Koryo (Goryeo; 918-1392) and the Chosen (Joseon; 1392-1910) dynasties.</p> <p>Korea became the object of intense imperialistic rivalry among the Chinese (its traditional benefactor), Japanese, and Russian empires in the latter half of the 19th and early 20th centuries. After the Sino-Japanese War (1894-95) and the Russo-Japanese War (1904-1905), Korea was occupied by Imperial Japan. In 1910, Japan formally annexed the entire Peninsula. Korea regained its independence after Japan's surrender to the US and its allies in 1945. A democratic government (Republic of Korea, ROK) was set up in the southern half of the Korean Peninsula, while a communist-style government was installed in the north (North Korea; aka Democratic People's Republic of Korea, DPRK). During the Korean War (1950-53), US troops and UN forces fought alongside ROK soldiers to defend South Korea from a North Korean invasion supported by communist China and the Soviet Union. A 1953 armistice split the Peninsula along a demilitarized zone along the 38th parallel. <br><br>Syngman RHEE led the country as its first president from 1948 to 1960. PARK Chung-hee took over leadership of the country in a 1961 coup. During his regime (1961-79), South Korea achieved rapid economic growth, with per capita income rising to roughly 17 times the level of North Korea in 1979. PARK was assassinated in 1979, and subsequent years were marked by political turmoil and continued authoritarian rule as the country's pro-democracy movement grew. South Korea held its first free presidential election under a revised democratic constitution in 1987, with former South Korean Army general ROH Tae-woo winning a close race. In 1993, KIM Young-sam became the first civilian president of South Korea's new democratic era. President KIM Dae-jung (1998-2003) won the Nobel Peace Prize in 2000 for his contributions to South Korean democracy and his "Sunshine Policy" of engagement with North Korea. President PARK Geun-hye, daughter of former South Korean President PARK Chung-hee, took office in 2013 as South Korea's first female leader. In 2016, the National Assembly passed an impeachment motion against PARK over her alleged involvement in a corruption and influence-peddling scandal, triggering an early presidential election in 2017 won by MOON Jae-in. In 2022, longtime prosecutor and political newcomer YOON Suk Yeol won the presidency by the slimmest margin in South Korean history.</p> <p>Discord and tensions with North Korea, punctuated by North Korean military provocations, missile launches, and nuclear tests, have permeated inter-Korean relations for years. Relations remained strained, despite a period of respite in 2018-2019 ushered in by North Korea's participation in the 2018 Winter Olympic and Paralympic Games in South Korea and high-level diplomatic meetings, including historic US-North Korea summits. In 2024, Pyongyang announced it was ending all economic cooperation with South Korea, a move that followed earlier proclamations that it was scrapping a 2018 military pact to de-escalate tensions along their militarized border, abandoning the country’s decades-long pursuit of peaceful unification with South Korea, and designating the South as North Korea’s “principal enemy.”</p><br>
 
 ## Geography
 
@@ -76,7 +76,9 @@ strategic location on Korea Strait; about 3,000 mostly small and uninhabited isl
 ## People and Society
 
 **Population**<br>
-51,966,948 (2023 est.)<br>
+_total_: 52,081,799<br>
+_male_: 26,119,111<br>
+_female_: 25,962,688 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Korean(s)<br>
@@ -90,13 +92,13 @@ Korean, English (widely taught in elementary, junior high, and high school)<br>
 _major-language sample(s)_: <br>월드 팩트북, 필수적인 기본 정보 제공처 (Korean)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Protestant 19.7%, Buddhist 15.5%, Catholic 7.9%, none 56.9% (2015 est.)<br>
+Protestant 17%, Buddhist 16%, Catholic 6%, none 60% (2021 est.)<br>
 <strong>note:</strong> many people also carry on at least some Confucian traditions and practices<br>
 
 **Age structure**<br>
-_0-14 years_: 11.53% (male 3,072,352/female 2,916,984)<br>
-_15-64 years_: 70.1% (male 18,788,714/female 17,639,714)<br>
-_65 years and over_: 18.38% (2023 est.) (male 4,196,789/female 5,352,395)<br>
+_0-14 years_: 11.3% (male 3,024,508/female 2,873,523)<br>
+_15-64 years_: 69.4% (male 18,653,915/female 17,465,817)<br>
+_65 years and over_: 19.3% (2024 est.) (male 4,440,688/female 5,623,348)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 39.9<br>
@@ -105,21 +107,21 @@ _elderly dependency ratio_: 23.3<br>
 _potential support ratio_: 4.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 45 years (2023 est.)<br>
-_male_: 43.5 years<br>
-_female_: 46.8 years<br>
+_total_: 45.5 years (2024 est.)<br>
+_male_: 44 years<br>
+_female_: 47.3 years<br>
 
 **Population growth rate**<br>
-0.23% (2023 est.)<br>
+0.21% (2024 est.)<br>
 
 **Birth rate**<br>
-7 births/1,000 population (2023 est.)<br>
+7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.3 deaths/1,000 population (2023 est.)<br>
+7.4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-2.6 migrant(s)/1,000 population (2023 est.)<br>
+2.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 with approximately 70% of the country considered mountainous, the country's population is primarily concentrated in the lowland areas, where density is quite high; Gyeonggi Province in the northwest, which surrounds the capital of Seoul and contains the port of Incheon, is the most densely populated province; Gangwon in the northeast is the least populated<br>
@@ -135,8 +137,8 @@ _rate of urbanization_: 0.31% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 1.07 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.79 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 32.2 years (2019 est.)<br>
@@ -145,21 +147,20 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 8 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.8 deaths/1,000 live births (2023 est.)<br>
+_total_: 2.8 deaths/1,000 live births (2024 est.)<br>
 _male_: 3 deaths/1,000 live births<br>
 _female_: 2.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.2 years (2023 est.)<br>
-_male_: 80.1 years<br>
-_female_: 86.4 years<br>
+_total population_: 83.4 years (2024 est.)<br>
+_male_: 80.3 years<br>
+_female_: 86.6 years<br>
 
 **Total fertility rate**<br>
-1.11 children born/woman (2023 est.)<br>
-<strong>note:</strong> some sources estimate the TFR to be as low as 0.78<br>
+1.12 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.54 (2023 est.)<br>
+0.55 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 82.3% (2018)<br>
@@ -215,9 +216,9 @@ _female_: 5.9% (2020 est.)<br>
 4.7% of GDP (2019 est.)<br>
 
 **Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
+_total population_: 98.8% NA<br>
+_male_: 99.2% NA<br>
+_female_: 98.4% NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>

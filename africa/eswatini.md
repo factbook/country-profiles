@@ -73,7 +73,9 @@ landlocked; almost completely surrounded by South Africa<br>
 ## People and Society
 
 **Population**<br>
-1,130,043 (2023 est.)<br>
+_total_: 1,138,089<br>
+_male_: 538,600<br>
+_female_: 599,489 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: liSwati (singular), emaSwati (plural); note - former term, Swazi(s), still used among English speakers<br>
@@ -92,9 +94,9 @@ Christian 90% (Zionist - a blend of Christianity and traditional African religio
 <p>Eswatini, a small, predominantly rural, landlocked country surrounded by South Africa and Mozambique, suffers from severe poverty and the world’s highest HIV/AIDS prevalence rate. A weak and deteriorating economy, high unemployment, rapid population growth, and an uneven distribution of resources all combine to worsen already persistent poverty and food insecurity, especially in rural areas. Erratic weather (frequent droughts and intermittent heavy rains and flooding), overuse of small plots, the overgrazing of cattle, and outdated agricultural practices reduce crop yields and further degrade the environment, exacerbating Eswatini's poverty and subsistence problems. Eswatini's extremely high HIV/AIDS prevalence rate – nearly 28% of adults have the disease – compounds these issues. Agricultural production has declined due to HIV/AIDS, as the illness causes households to lose manpower and to sell livestock and other assets to pay for medicine and funerals.</p> <p>Swazis, mainly men from the country’s rural south, have been migrating to South Africa to work in coal, and later gold, mines since the late 19th century. Although the number of miners abroad has never been high in absolute terms because of Eswatini's small population, the outflow has had important social and economic repercussions. The peak of mining employment in South Africa occurred during the 1980s. Cross-border movement has accelerated since the 1990s, as increasing unemployment has pushed more Swazis to look for work in South Africa (creating a "brain drain" in the health and educational sectors); southern Swazi men have continued to pursue mining, although the industry has downsized. Women now make up an increasing share of migrants and dominate cross-border trading in handicrafts, using the proceeds to purchase goods back in Eswatini. Much of today’s migration, however, is not work-related but focuses on visits to family and friends, tourism, and shopping.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 32.16% (male 181,886/female 181,491)<br>
-_15-64 years_: 63.88% (male 336,243/female 385,599)<br>
-_65 years and over_: 3.97% (2023 est.) (male 16,654/female 28,170)<br>
+_0-14 years_: 31.6% (male 180,328/female 179,840)<br>
+_15-64 years_: 64.3% (male 341,298/female 390,884)<br>
+_65 years and over_: 4% (2024 est.) (male 16,974/female 28,765)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 64<br>
@@ -103,21 +105,21 @@ _elderly dependency ratio_: 6.5<br>
 _potential support ratio_: 15.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24.4 years (2023 est.)<br>
-_male_: 23.1 years<br>
-_female_: 25.5 years<br>
+_total_: 24.6 years (2024 est.)<br>
+_male_: 23.4 years<br>
+_female_: 25.8 years<br>
 
 **Population growth rate**<br>
-0.72% (2023 est.)<br>
+0.7% (2024 est.)<br>
 
 **Birth rate**<br>
-22.8 births/1,000 population (2023 est.)<br>
+22.3 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.5 deaths/1,000 population (2023 est.)<br>
+9.4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--6.1 migrant(s)/1,000 population (2023 est.)<br>
+-6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 because of its mountainous terrain, the population distribution is uneven throughout the country, concentrating primarily in valleys and plains as shown in this population distribution map<br>
@@ -134,26 +136,26 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1 male(s)/female<br>
 _15-64 years_: 0.87 male(s)/female<br>
 _65 years and over_: 0.59 male(s)/female<br>
-_total population_: 0.9 male(s)/female (2023 est.)<br>
+_total population_: 0.9 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 437 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 38.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 42.3 deaths/1,000 live births<br>
-_female_: 33.9 deaths/1,000 live births<br>
+_total_: 36.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 40.7 deaths/1,000 live births<br>
+_female_: 32.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 60.2 years (2023 est.)<br>
-_male_: 58.2 years<br>
-_female_: 62.3 years<br>
+_total population_: 60.7 years (2024 est.)<br>
+_male_: 58.7 years<br>
+_female_: 62.8 years<br>
 
 **Total fertility rate**<br>
-2.41 children born/woman (2023 est.)<br>
+2.37 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.19 (2023 est.)<br>
+1.17 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.1% (2014)<br>
@@ -330,7 +332,7 @@ _elections/appointments_: the monarchy is hereditary; prime minister appointed b
 **Legislative branch**<br>
 _description_: bicameral Parliament (Libandla) consists of:<br> Senate (30 seats; 20 members appointed by the monarch and 10 indirectly elected by simple majority vote by the House of Assembly; members serve 5-year terms)<br>House of Assembly (70 seats statutory, current 69; 59 members directly elected in single-seat constituencies or tinkhundla by absolute majority vote in 2 rounds if needed, 10 members appointed by the monarch, 4 women, one each representing each region, elected by the members if representation of elected women is less than 30%, and 1 ex-officio member - the attorney general; members serve 5-year terms)<br>
 _elections_: Senate - last election held on 12 October 2023 , senate fully constituted on November 5 when monarch appointed remaining 20 senators; (next to be held in 2028)<br>House of Assembly - last held on 29 September 2023 (next to be held in 2028) <p> </p><br>
-_election results_: Senate - percent of seats by party - NA; seats by party - NA; composition as of March 2024 - men 16, women 14, percentage women 46.7%<br><br>House of Assembly - percent of vote by party - NA; seats by party - independent 59; composition as of March 2024 - men 58, women 16, percent of women 17.14%; total Parliament percentage women 28.8%<br>
+_election results_: Senate - percent of seats by party - NA; seats by party - NA; composition - men 16, women 14, percentage women 46.7%<br><br>House of Assembly - percent of vote by party - NA; seats by party - independent 59; composition - men 58, women 16, percent of women 17.14%; total Parliament percentage women 28.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and at least 4 justices) and the High Court (consists of the chief justice - ex officio - and 4 justices); note - the Supreme Court has jurisdiction in all constitutional matters<br>

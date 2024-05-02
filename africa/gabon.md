@@ -81,7 +81,9 @@ a small population and oil and mineral reserves have helped Gabon become one of 
 ## People and Society
 
 **Population**<br>
-2,397,368 (2023 est.)<br>
+_total_: 2,455,105<br>
+_male_: 1,270,023<br>
+_female_: 1,185,082 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Gabonese (singular and plural)<br>
@@ -100,9 +102,9 @@ Protestant 46.4% (Revival Church 37%, other Protestant 9.4%), Roman Catholic 29.
 <p>Gabon’s oil revenues have given it one of the highest per capita income levels in Sub-Saharan Africa, but the wealth is not evenly distributed and poverty is widespread. Unemployment is especially prevalent among the large youth population; more than 60% of the population is under the age of 25 as of 2020. With a fertility rate still averaging more than 3 children per woman, the youth population will continue to grow and further strain the mismatch between Gabon’s supply of jobs and the skills of its labor force.</p> <p>Gabon has been a magnet to migrants from neighboring countries since the 1960s because of the discovery of oil, as well as the country’s political stability and timber, mineral, and natural gas resources. Nonetheless, income inequality and high unemployment have created slums in Libreville full of migrant workers from Senegal, Nigeria, Cameroon, Benin, Togo, and elsewhere in West Africa. In 2011, Gabon declared an end to refugee status for 9,500 remaining Congolese nationals to whom it had granted asylum during the Republic of the Congo’s civil war between 1997 and 2003. About 5,400 of these refugees received permits to reside in Gabon.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 35.04% (male 424,741/female 415,342)<br>
-_15-64 years_: 60.76% (male 765,729/female 690,931)<br>
-_65 years and over_: 4.2% (2023 est.) (male 50,920/female 49,705)<br>
+_0-14 years_: 34.6% (male 429,133/female 421,120)<br>
+_15-64 years_: 61.1% (male 787,480/female 711,913)<br>
+_65 years and over_: 4.3% (2024 est.) (male 53,410/female 52,049)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 67.6<br>
@@ -111,21 +113,21 @@ _elderly dependency ratio_: 6.5<br>
 _potential support ratio_: 15.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21.8 years (2023 est.)<br>
-_male_: 22.2 years<br>
-_female_: 21.3 years<br>
+_total_: 22 years (2024 est.)<br>
+_male_: 22.5 years<br>
+_female_: 21.5 years<br>
 
 **Population growth rate**<br>
-2.39% (2023 est.)<br>
+2.37% (2024 est.)<br>
 
 **Birth rate**<br>
-25.9 births/1,000 population (2023 est.)<br>
+25.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.6 deaths/1,000 population (2023 est.)<br>
+5.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-3.6 migrant(s)/1,000 population (2023 est.)<br>
+3.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the relatively small population is spread in pockets throughout the country; the largest urban center is the capital of Libreville, located along the Atlantic coast in the northwest as shown in this population distribution map<br>
@@ -141,8 +143,8 @@ _rate of urbanization_: 2.27% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-64 years_: 1.11 male(s)/female<br>
-_65 years and over_: 1.02 male(s)/female<br>
-_total population_: 1.07 male(s)/female (2023 est.)<br>
+_65 years and over_: 1.03 male(s)/female<br>
+_total population_: 1.07 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.6 years (2012 est.)<br>
@@ -152,20 +154,20 @@ _total population_: 1.07 male(s)/female (2023 est.)<br>
 227 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 27.7 deaths/1,000 live births (2023 est.)<br>
-_male_: 30.6 deaths/1,000 live births<br>
-_female_: 24.7 deaths/1,000 live births<br>
+_total_: 26.9 deaths/1,000 live births (2024 est.)<br>
+_male_: 29.7 deaths/1,000 live births<br>
+_female_: 24 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70 years (2023 est.)<br>
-_male_: 68.3 years<br>
-_female_: 71.8 years<br>
+_total population_: 70.4 years (2024 est.)<br>
+_male_: 68.6 years<br>
+_female_: 72.1 years<br>
 
 **Total fertility rate**<br>
-3.26 children born/woman (2023 est.)<br>
+3.21 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.61 (2023 est.)<br>
+1.58 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 31.1% (2012)<br>

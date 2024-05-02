@@ -5,7 +5,7 @@ _North America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The site of several advanced Amerindian civilizations - including the Olmec, Toltec, Teotihuacan, Zapotec, Maya, and Aztec - Mexico was conquered and colonized by Spain in the early 16th century. Administered as the Viceroyalty of New Spain for three centuries, it achieved independence early in the 19th century. Elections held in 2000 marked the first time since the 1910 Mexican Revolution that an opposition candidate - Vicente FOX of the National Action Party (PAN) - defeated the party in government, the Institutional Revolutionary Party (PRI). He was succeeded in 2006 by another PAN candidate Felipe CALDERON, but Enrique PEÑA NIETO regained the presidency for the PRI in 2012. Left-leaning anti-establishment politician and former mayor of Mexico City (2000-05) Andrés Manuel LÓPEZ OBRADOR, from the National Regeneration Movement (MORENA), became president in December 2018.<br><br>Mexico is currently the second-largest (after Canada) goods trading partner of the US with nearly $780 billion in two-way goods trade in 2022. Mexico's GDP contracted by 8.2% in 2020 due to pandemic-induced closures, its lowest level since the Great Depression. Mexico’s economy is rebounding; it grew by 4.8% in 2021, driven largely by increased remittances, despite supply chain and pandemic-related challenges, and grew by 3% in 2022.</p> <p>The US-Mexico-Canada Agreement (USMCA, or T-MEC by its Spanish acronym) entered into force on 1 July 2020 and replaced its predecessor, the North American Free Trade Agreement (NAFTA). Mexico amended its constitution on 1 May 2019 to facilitate the implementation of the labor components of USMCA.</p> <p>Ongoing economic and social concerns include low real wages, high underemployment, inequitable income distribution, and few advancement opportunities, particularly for the largely indigenous population in the impoverished southern states. Since 2007, Mexico's powerful transnational criminal organizations have engaged in a struggle to control criminal markets, resulting in tens of thousands of drug-related homicides and forced disappearances.</p><br>
+<p>Mexico was the site of several advanced Amerindian civilizations -- including the Olmec, Toltec, Teotihuacan, Zapotec, Maya, and Aztec -- until Spain conquered and colonized the area in the early 16th century. Administered as the Viceroyalty of New Spain for three centuries, it achieved independence early in the 19th century. Elections held in 2000 marked the first time since Mexican Revolution in 1910 that an opposition candidate -- Vicente FOX of the National Action Party (PAN) -- defeated the party in government, the Institutional Revolutionary Party (PRI). He was succeeded in 2006 by another PAN candidate Felipe CALDERON, but Enrique PEÑA NIETO regained the presidency for the PRI in 2012. Left-leaning anti-establishment politician and former mayor of Mexico City (2000-05) Andrés Manuel LÓPEZ OBRADOR, from the National Regeneration Movement (MORENA), became president in 2018.</p> <p>The US-Mexico-Canada Agreement (USMCA, or T-MEC by its Spanish acronym) entered into force in 2020 and replaced its predecessor, the North American Free Trade Agreement (NAFTA). Mexico amended its constitution in 2019 to facilitate the implementation of the labor components of USMCA.</p> <p>Mexico is currently the US's second-largest goods trading partner, after Canada. Ongoing economic and social concerns include low real wages, high underemployment, inequitable income distribution, and few advancement opportunities, particularly for the largely indigenous population in the impoverished southern states. Since 2007, Mexico's powerful transnational criminal organizations have engaged in a struggle to control criminal markets, resulting in tens of thousands of drug-related homicides and forced disappearances.</p><br>
 
 ## Geography
 
@@ -89,7 +89,9 @@ most of the population is found in the middle of the country between the states 
 ## People and Society
 
 **Population**<br>
-129,875,529 (2023 est.)<br>
+_total_: 130,739,927<br>
+_male_: 63,899,138<br>
+_female_: 66,840,789 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Mexican(s)<br>
@@ -107,9 +109,9 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 Roman Catholic 78%, Protestant/evangelical Christian 11.2%, other 0.002%, unaffiliated (includes atheism) 10.6% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 23.76% (male 15,844,300/female 15,009,047)<br>
-_15-64 years_: 68.22% (male 43,086,673/female 45,518,891)<br>
-_65 years and over_: 8.02% (2023 est.) (male 4,560,225/female 5,856,393)<br>
+_0-14 years_: 23.3% (male 15,647,805/female 14,754,004)<br>
+_15-64 years_: 68.6% (male 43,651,105/female 45,983,174)<br>
+_65 years and over_: 8.2% (2024 est.) (male 4,600,228/female 6,103,611)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49.4<br>
@@ -118,21 +120,21 @@ _elderly dependency ratio_: 12.2<br>
 _potential support ratio_: 8.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30.6 years (2023 est.)<br>
-_male_: 28.9 years<br>
-_female_: 32.3 years<br>
+_total_: 30.8 years (2024 est.)<br>
+_male_: 28.8 years<br>
+_female_: 32.7 years<br>
 
 **Population growth rate**<br>
-0.61% (2023 est.)<br>
+0.72% (2024 est.)<br>
 
 **Birth rate**<br>
-14 births/1,000 population (2023 est.)<br>
+14.3 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.1 deaths/1,000 population (2023 est.)<br>
+6.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.8 migrant(s)/1,000 population (2023 est.)<br>
+-0.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the population is found in the middle of the country between the states of Jalisco and Veracruz; approximately a quarter of the population lives in and around Mexico City<br>
@@ -148,8 +150,8 @@ _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 0.95 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.3 years (2008 est.)<br>
@@ -158,20 +160,20 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 59 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12 deaths/1,000 live births (2023 est.)<br>
-_male_: 13.2 deaths/1,000 live births<br>
-_female_: 10.7 deaths/1,000 live births<br>
+_total_: 12.1 deaths/1,000 live births (2024 est.)<br>
+_male_: 13.4 deaths/1,000 live births<br>
+_female_: 10.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.5 years (2023 est.)<br>
-_male_: 70.3 years<br>
-_female_: 76.8 years<br>
+_total population_: 74.6 years (2024 est.)<br>
+_male_: 71.6 years<br>
+_female_: 77.7 years<br>
 
 **Total fertility rate**<br>
-1.73 children born/woman (2023 est.)<br>
+1.79 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.85 (2023 est.)<br>
+0.88 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 73.1% (2018)<br>
@@ -767,7 +769,7 @@ the AEM’s focus is on coordinating Mexico’s space policy and the country’s
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 35,755 (Honduras), 13,531 (El Salvador) (mid-year 2022); 91,359 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022)<br>
+_refugees (country of origin)_: 35,755 (Honduras), 13,531 (El Salvador) (mid-year 2022); 113,108 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)<br>
 _IDPs_: 386,000 (government's quashing of Zapatista uprising in 1994 in eastern Chiapas Region; drug cartel violence and government's military response since 2007; violence between and within indigenous groups) (2022)<br>
 _stateless persons_: 13 (2022)<br>
 

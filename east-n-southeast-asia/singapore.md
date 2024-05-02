@@ -72,7 +72,9 @@ focal point for Southeast Asian sea routes; consists of about 60 islands, by far
 ## People and Society
 
 **Population**<br>
-5,975,383 (2023 est.)<br>
+_total_: 6,028,459<br>
+_male_: 3,013,630<br>
+_female_: 3,014,829 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Singaporean(s)<br>
@@ -93,9 +95,9 @@ Buddhist 31.1%, Christian 18.9%, Muslim 15.6%, Taoist 8.8%, Hindu 5%, other 0.6%
 <p>Singapore has one of the lowest total fertility rates (TFR) in the world – an average of 1.15 children born per woman – and a rapidly aging population.  Women’s expanded educations, widened aspirations, and a desire to establish careers has contributed to delayed marriage and smaller families. Most married couples have only one or two children in order to invest more in each child, including the high costs of education.  In addition, more and more Singaporeans, particularly women, are staying single.  Factors contributing to this trend are a focus on careers, long working hours, the high cost of living, and long waits for public housing.    With fertility at such a low rate and rising life expectancy, the proportion of the population aged 65 or over is growing and the youth population is shrinking.  Singapore is projected to experience one of the largest percentage point increases in the elderly share of the population at 21% between 2019 and 2050, according to the UN.  The working-age population (aged 15-64) will gradually decrease, leaving fewer workers to economically support the elderly population.</p> <p>Migration has played a key role in Singapore’s development.  As Singapore’s economy expanded during the 19th century, more and more Chinese, Indian, and Malay labor immigrants arrived.  Most of Singapore’s pre-World War II population growth was a result of immigration.  During World War II, immigration came to a halt when the Japanese occupied the island but revived in the postwar years.  Policy was restrictive during the 1950s and 1960s, aiming to protect jobs for residents by reducing the intake of low-skilled foreign workers and focusing instead on attracting professionals from abroad with specialist skills.  Consequently, the nonresident share of Singapore’s population plummeted to less than 3%. </p> <p>As the country industrialized, however, it loosened restrictions on the immigration of manual workers.  From the 1980s through the 2000s, the foreign population continued to grow as a result of policies aimed at attracting foreign workers of all skill levels.  More recently, the government has instituted immigration policies that target highly skilled workers. Skilled workers are encouraged to stay and are given the opportunity to become permanent residents or citizens.  The country, however, imposes restrictions on unskilled and low-skilled workers to ensure they do not establish roots, including prohibiting them from bringing their families and requiring employers to pay a monthly foreign worker levy and security bond.  The country has also become increasingly attractive to international students. The growth of the foreign-born population has continued to be rapid; as of 2015, the foreign-born composed 46% of the total population.  At the same time, growing numbers of Singaporeans are emigrating for education and work experience in highly skilled sectors such finance, information technology, and medicine.  Increasingly, the moves abroad are permanent.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 14.82% (male 458,019/female 427,364)<br>
-_15-64 years_: 71.49% (male 2,148,471/female 2,123,102)<br>
-_65 years and over_: 13.7% (2023 est.) (male 379,373/female 439,054)<br>
+_0-14 years_: 14.6% (male 455,536/female 424,969)<br>
+_15-64 years_: 71.1% (male 2,157,441/female 2,126,799)<br>
+_65 years and over_: 14.3% (2024 est.) (male 400,653/female 463,061)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 35.4<br>
@@ -104,21 +106,21 @@ _elderly dependency ratio_: 19.1<br>
 _potential support ratio_: 5.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 38.9 years (2023 est.)<br>
-_male_: 37.7 years<br>
-_female_: 40.1 years<br>
+_total_: 39.4 years (2024 est.)<br>
+_male_: 38 years<br>
+_female_: 40.6 years<br>
 
 **Population growth rate**<br>
-0.9% (2023 est.)<br>
+0.87% (2024 est.)<br>
 
 **Birth rate**<br>
-8.9 births/1,000 population (2023 est.)<br>
+8.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-4.2 deaths/1,000 population (2023 est.)<br>
+4.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-4.2 migrant(s)/1,000 population (2023 est.)<br>
+4.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the urbanization is along the southern coast, with relatively dense population clusters found in the central areas<br>
@@ -134,8 +136,8 @@ _rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
 _15-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.86 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.87 male(s)/female<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30.5 years (2015 est.)<br>
@@ -145,20 +147,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 7 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.5 deaths/1,000 live births (2023 est.)<br>
+_total_: 1.5 deaths/1,000 live births (2024 est.)<br>
 _male_: 1.7 deaths/1,000 live births<br>
 _female_: 1.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 86.5 years (2023 est.)<br>
-_male_: 83.8 years<br>
-_female_: 89.3 years<br>
+_total population_: 86.7 years (2024 est.)<br>
+_male_: 84 years<br>
+_female_: 89.5 years<br>
 
 **Total fertility rate**<br>
-1.17 children born/woman (2023 est.)<br>
+1.17 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.57 (2023 est.)<br>
+0.57 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

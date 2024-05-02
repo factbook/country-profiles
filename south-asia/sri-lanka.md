@@ -75,7 +75,9 @@ strategic location near major Indian Ocean sea lanes; Adam's Bridge is a chain o
 ## People and Society
 
 **Population**<br>
-23,326,272 (2023 est.)<br>
+_total_: 21,982,608<br>
+_male_: 10,642,043<br>
+_female_: 11,340,565 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Sri Lankan(s)<br>
@@ -92,9 +94,9 @@ Sinhala (official and national language) 87%, Tamil (official and national langu
 Buddhist (official) 70.2%, Hindu 12.6%, Muslim 9.7%, Roman Catholic 6.1%, other Christian 1.3%, other 0.05% (2012 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 21.95% (male 2,609,642/female 2,511,570)<br>
-_15-64 years_: 66.22% (male 7,609,573/female 7,836,480)<br>
-_65 years and over_: 11.83% (2023 est.) (male 1,156,637/female 1,602,370)<br>
+_0-14 years_: 22.6% (male 2,537,918/female 2,423,615)<br>
+_15-64 years_: 65% (male 6,954,869/female 7,336,897)<br>
+_65 years and over_: 12.4% (2024 est.) (male 1,149,256/female 1,580,053)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.7<br>
@@ -103,21 +105,21 @@ _elderly dependency ratio_: 17<br>
 _potential support ratio_: 5.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 33.9 years (2023 est.)<br>
-_male_: 32.1 years<br>
-_female_: 35.6 years<br>
+_total_: 34.1 years (2024 est.)<br>
+_male_: 32.2 years<br>
+_female_: 35.8 years<br>
 
 **Population growth rate**<br>
-0.56% (2023 est.)<br>
+0.39% (2024 est.)<br>
 
 **Birth rate**<br>
-14.6 births/1,000 population (2023 est.)<br>
+14.5 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.4 deaths/1,000 population (2023 est.)<br>
+7.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1.5 migrant(s)/1,000 population (2023 est.)<br>
+-3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the population is primarily concentrated within a broad wet zone in the southwest, urban centers along the eastern coast, and on the Jaffna Peninsula in the north<br>
@@ -131,10 +133,10 @@ _rate of urbanization_: 1.22% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.04 male(s)/female<br>
-_15-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.72 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2023 est.)<br>
+_0-14 years_: 1.05 male(s)/female<br>
+_15-64 years_: 0.95 male(s)/female<br>
+_65 years and over_: 0.73 male(s)/female<br>
+_total population_: 0.94 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25.6 years (2016 est.)<br>
@@ -144,20 +146,20 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 29 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.8 deaths/1,000 live births (2023 est.)<br>
+_total_: 6.8 deaths/1,000 live births (2024 est.)<br>
 _male_: 7.5 deaths/1,000 live births<br>
 _female_: 6.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.6 years (2023 est.)<br>
-_male_: 73.6 years<br>
-_female_: 79.8 years<br>
+_total population_: 76.8 years (2024 est.)<br>
+_male_: 73.7 years<br>
+_female_: 79.9 years<br>
 
 **Total fertility rate**<br>
-2.14 children born/woman (2023 est.)<br>
+2.13 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.05 (2023 est.)<br>
+1.04 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 64.6% (2016)<br>

@@ -73,7 +73,9 @@ strong ties to nearby US Virgin Islands and Puerto Rico<br>
 ## People and Society
 
 **Population**<br>
-39,369 (2023 est.)<br>
+_total_: 40,102<br>
+_male_: 19,042<br>
+_female_: 21,060 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: British Virgin Islander(s)<br>
@@ -89,9 +91,9 @@ English (official), Virgin Islands Creole<br>
 Protestant 70.2% (Methodist 17.6%, Church of God 10.4%, Anglican 9.5%, Seventh Day Adventist 9.0%, Pentecostal 8.2%, Baptist 7.4%, New Testament Church of God 6.9%, other Protestant 1.2%), Roman Catholic 8.9%, Jehovah's Witness 2.5%, Hindu 1.9%, other 6.2%, none 7.9%, unspecified 2.4% (2010 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 16.56% (male 3,231/female 3,287)<br>
-_15-64 years_: 71.87% (male 13,322/female 14,972)<br>
-_65 years and over_: 11.58% (2023 est.) (male 2,156/female 2,401)<br>
+_0-14 years_: 16.6% (male 3,298/female 3,351)<br>
+_15-64 years_: 71.3% (male 13,455/female 15,152)<br>
+_65 years and over_: 12.1% (2024 est.) (male 2,289/female 2,557)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 32.8<br>
@@ -100,21 +102,21 @@ _elderly dependency ratio_: 12.6<br>
 _potential support ratio_: 8 (2021)<br>
 
 **Median age**<br>
-_total_: 38.2 years (2023 est.)<br>
-_male_: 37.9 years<br>
-_female_: 38.6 years<br>
+_total_: 38.5 years (2024 est.)<br>
+_male_: 38.1 years<br>
+_female_: 38.9 years<br>
 
 **Population growth rate**<br>
-1.87% (2023 est.)<br>
+1.82% (2024 est.)<br>
 
 **Birth rate**<br>
-10.9 births/1,000 population (2023 est.)<br>
+10.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.4 deaths/1,000 population (2023 est.)<br>
+5.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-13.2 migrant(s)/1,000 population (2023 est.)<br>
+12.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout the inhabited islands, with the largest islands of Tortola, Anegada, Virgin Gorda, and Jost Van Dyke having the largest populations<br>
@@ -131,23 +133,23 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 0.98 male(s)/female<br>
 _15-64 years_: 0.89 male(s)/female<br>
 _65 years and over_: 0.9 male(s)/female<br>
-_total population_: 0.91 male(s)/female (2023 est.)<br>
+_total population_: 0.9 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 13.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 16.4 deaths/1,000 live births<br>
-_female_: 11 deaths/1,000 live births<br>
+_total_: 13.4 deaths/1,000 live births (2024 est.)<br>
+_male_: 16 deaths/1,000 live births<br>
+_female_: 10.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.9 years (2023 est.)<br>
-_male_: 78.4 years<br>
-_female_: 81.5 years<br>
+_total population_: 80.1 years (2024 est.)<br>
+_male_: 78.6 years<br>
+_female_: 81.7 years<br>
 
 **Total fertility rate**<br>
-1.37 children born/woman (2023 est.)<br>
+1.38 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.67 (2023 est.)<br>
+0.67 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

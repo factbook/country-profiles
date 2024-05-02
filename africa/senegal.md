@@ -85,7 +85,9 @@ westernmost country on the African continent; The Gambia is almost an enclave wi
 ## People and Society
 
 **Population**<br>
-18,384,660 (2023 est.)<br>
+_total_: 18,847,519<br>
+_male_: 9,283,314<br>
+_female_: 9,564,205 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Senegalese (singular and plural)<br>
@@ -104,9 +106,9 @@ Muslim 97.2% (most adhere to one of the four main Sufi brotherhoods), Christian 
 <p>Senegal has a large and growing youth population but has not been successful in developing its potential human capital. Senegal’s high total fertility rate of almost 4.5 children per woman continues to bolster the country’s large youth cohort – more than 60% of the population is under the age of 25. Fertility remains high because of the continued desire for large families, the low use of family planning, and early childbearing. Because of the country’s high illiteracy rate (more than 40%), high unemployment (even among university graduates), and widespread poverty, Senegalese youths face dim prospects; women are especially disadvantaged.</p> <p>Senegal historically was a destination country for economic migrants, but in recent years West African migrants more often use Senegal as a transit point to North Africa – and sometimes illegally onward to Europe. The country also has been host to several thousand black Mauritanian refugees since they were expelled from their homeland during its 1989 border conflict with Senegal. The country’s economic crisis in the 1970s stimulated emigration; departures accelerated in the 1990s. Destinations shifted from neighboring countries, which were experiencing economic decline, civil wars, and increasing xenophobia, to Libya and Mauritania because of their booming oil industries and to developed countries (most notably former colonial ruler France, as well as Italy and Spain). The latter became attractive in the 1990s because of job opportunities and their periodic regularization programs (legalizing the status of illegal migrants).</p> <p> </p><br>
 
 **Age structure**<br>
-_0-14 years_: 41.19% (male 3,858,937/female 3,714,062)<br>
-_15-64 years_: 55.46% (male 4,925,324/female 5,271,627)<br>
-_65 years and over_: 3.34% (2023 est.) (male 266,485/female 348,225)<br>
+_0-14 years_: 40.7% (male 3,907,986/female 3,760,594)<br>
+_15-64 years_: 55.9% (male 5,098,038/female 5,437,195)<br>
+_65 years and over_: 3.4% (2024 est.) (male 277,290/female 366,416)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 81.5<br>
@@ -115,21 +117,21 @@ _elderly dependency ratio_: 5.7<br>
 _potential support ratio_: 17.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19 years (2023 est.)<br>
-_male_: 18.2 years<br>
-_female_: 19.8 years<br>
+_total_: 19.2 years (2024 est.)<br>
+_male_: 18.4 years<br>
+_female_: 20 years<br>
 
 **Population growth rate**<br>
-2.52% (2023 est.)<br>
+2.46% (2024 est.)<br>
 
 **Birth rate**<br>
-30.8 births/1,000 population (2023 est.)<br>
+30.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5 deaths/1,000 population (2023 est.)<br>
+4.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.7 migrant(s)/1,000 population (2023 est.)<br>
+-0.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the population is concentrated in the west, with Dakar anchoring a well-defined core area; approximately 70% of the population is rural as shown in this population distribution map<br>
@@ -144,9 +146,9 @@ _rate of urbanization_: 3.59% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-64 years_: 0.93 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2023 est.)<br>
+_15-64 years_: 0.94 male(s)/female<br>
+_65 years and over_: 0.76 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.9 years (2019 est.)<br>
@@ -156,20 +158,20 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 261 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 31.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 35.1 deaths/1,000 live births<br>
-_female_: 28.3 deaths/1,000 live births<br>
+_total_: 31.1 deaths/1,000 live births (2024 est.)<br>
+_male_: 34.4 deaths/1,000 live births<br>
+_female_: 27.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.3 years (2023 est.)<br>
-_male_: 68.5 years<br>
-_female_: 72.1 years<br>
+_total population_: 70.6 years (2024 est.)<br>
+_male_: 68.8 years<br>
+_female_: 72.4 years<br>
 
 **Total fertility rate**<br>
-4.17 children born/woman (2023 est.)<br>
+4.06 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-2.03 (2023 est.)<br>
+1.98 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 26.9% (2019)<br>
@@ -359,7 +361,7 @@ _election results_: <em>2024:</em> Bassirou Diomaye FAYE elected president in fi
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembl&eacute;e Nationale (165 seats; 112 members including 15 representing Senegalese diaspora directly elected by plurality vote in single- and multi-seat constituencies and 53 members directly elected by proportional representation vote in a single nationwide constituency; member term is 5-years)<br>
 _elections_: last held on 31 July 2022 (next scheduled to be held in July 2027)<br>
-_election results_: percent of vote by party/coalition - BBY 46.6%, YAW 32.9%, WS 14.5%, other 6%; seats by party/coalition - BBY 82, YAW 42, WS 24, other 17; composition as of February 2024 - men 89, women 76, percentage women 46.1%<br>
+_election results_: percent of vote by party/coalition - BBY 46.6%, YAW 32.9%, WS 14.5%, other 6%; seats by party/coalition - BBY 82, YAW 42, WS 24, other 17; composition - men 89, women 76, percentage women 46.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or <em>Cour Suprême  </em>(consists of the court president and 12 judges and organized into civil and commercial, criminal, administrative, and social chambers); Constitutional Council or <em>Conseil Constitutionnel </em> (consists of 7 members, including the court president, vice president, and 5 judges)<br>

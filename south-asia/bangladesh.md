@@ -82,7 +82,9 @@ most of the country is situated on deltas of large rivers flowing from the Himal
 ## People and Society
 
 **Population**<br>
-167,184,465 (2023 est.)<br>
+_total_: 168,697,184<br>
+_male_: 82,708,252<br>
+_female_: 85,988,932 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Bangladeshi(s)<br>
@@ -100,9 +102,9 @@ _major-language sample(s)_: <p><br>বিশ্ব ফ্যাক্টবু�
 Muslim 91%, Hindu 8%, other 1% (2022 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 25.38% (male 21,587,699/female 20,846,378)<br>
-_15-64 years_: 67.09% (male 54,560,958/female 57,599,478)<br>
-_65 years and over_: 7.53% (2023 est.) (male 5,871,022/female 6,718,930)<br>
+_0-14 years_: 25.1% (male 21,540,493/female 20,800,712)<br>
+_15-64 years_: 67.1% (male 55,071,592/female 58,180,322)<br>
+_65 years and over_: 7.8% (2024 est.) (male 6,096,167/female 7,007,898)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 47.7<br>
@@ -111,21 +113,21 @@ _elderly dependency ratio_: 8.6<br>
 _potential support ratio_: 11.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.2 years (2023 est.)<br>
-_male_: 28.3 years<br>
-_female_: 30 years<br>
+_total_: 29.6 years (2024 est.)<br>
+_male_: 28.7 years<br>
+_female_: 30.4 years<br>
 
 **Population growth rate**<br>
-0.91% (2023 est.)<br>
+0.89% (2024 est.)<br>
 
 **Birth rate**<br>
-17.5 births/1,000 population (2023 est.)<br>
+17.3 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.5 deaths/1,000 population (2023 est.)<br>
+5.5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--2.9 migrant(s)/1,000 population (2023 est.)<br>
+-2.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 40.5% of total population (2023)<br>
@@ -139,7 +141,7 @@ _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 0.95 male(s)/female<br>
 _65 years and over_: 0.87 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2023 est.)<br>
+_total population_: 0.96 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 18.6 years (2017/18 est.)<br>
@@ -149,20 +151,20 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 123 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 29.6 deaths/1,000 live births (2023 est.)<br>
-_male_: 32.1 deaths/1,000 live births<br>
-_female_: 26.9 deaths/1,000 live births<br>
+_total_: 28.8 deaths/1,000 live births (2024 est.)<br>
+_male_: 31.3 deaths/1,000 live births<br>
+_female_: 26.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75 years (2023 est.)<br>
-_male_: 72.8 years<br>
-_female_: 77.2 years<br>
+_total population_: 75.2 years (2024 est.)<br>
+_male_: 73.1 years<br>
+_female_: 77.5 years<br>
 
 **Total fertility rate**<br>
-2.08 children born/woman (2023 est.)<br>
+2.07 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.02 (2023 est.)<br>
+1.01 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 62.7% (2019)<br>
@@ -739,10 +741,10 @@ the military’s primary responsibility is external defense but it also has a do
 ## Space
 
 **Space agency/agencies**<br>
-Bangladesh Space Research and Remote Sensing Organization (SPARRSO; established 1980)&nbsp; (2023)<br>
+Bangladesh Space Research and Remote Sensing Organization (SPARRSO; established 1980) (2024)<br>
 
 **Space program overview**<br>
-has a modest space program focused on designing, building, and operating satellites, particularly those with remote sensing (RS) capabilities; researching a variety of other space-related capabilities and technologies; has a government-owned company for acquiring and operating satellites (Bangladesh Satellite Company Limited or BSCL, established in 2017); has relations with several foreign space agencies and commercial entities, including those of France, Japan, Russia, and the US (2023)<br>
+has a modest space program focused on designing, building, and operating satellites, particularly those with remote sensing (RS) capabilities; researching a variety of other space-related capabilities and technologies; has a government-owned company for acquiring and operating satellites (Bangladesh Satellite Company Limited or BSCL, established in 2017); has relations with several foreign space agencies and commercial entities, including those of France, Japan, Russia, and the US (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

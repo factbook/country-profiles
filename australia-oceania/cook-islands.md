@@ -73,7 +73,9 @@ the northern Cook Islands are seven low-lying, sparsely populated, coral atolls;
 ## People and Society
 
 **Population**<br>
-7,939 (2023 est.)<br>
+_total_: 7,761<br>
+_male_: 3,980<br>
+_female_: 3,781 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Cook Islander(s)<br>
@@ -90,9 +92,9 @@ English (official) 86.4%, Cook Islands Maori (Rarotongan) (official) 76.2%, othe
 Protestant 55% (Cook Islands Christian Church 43.1%, Seventh Day Adventist 8.3%, Assemblies of God 3.6%), Roman Catholic 16.7%, Church of Jesus Christ 3.9%, Jehovah's Witness 2.2%, Apostolic Church 2.1%, other 4.5%, none/unspecified 15.6% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 18.43% (male 766/female 697)<br>
-_15-64 years_: 66.23% (male 2,713/female 2,545)<br>
-_65 years and over_: 15.34% (2023 est.) (male 596/female 622)<br>
+_0-14 years_: 18.2% (male 738/female 671)<br>
+_15-64 years_: 65.9% (male 2,634/female 2,479)<br>
+_65 years and over_: 16% (2024 est.) (male 608/female 631)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.8<br>
@@ -101,21 +103,21 @@ _elderly dependency ratio_: 17.4<br>
 _potential support ratio_: 5.8 (2021)<br>
 
 **Median age**<br>
-_total_: 40.6 years (2023 est.)<br>
-_male_: 40.3 years<br>
-_female_: 41 years<br>
+_total_: 41.1 years (2024 est.)<br>
+_male_: 40.7 years<br>
+_female_: 41.4 years<br>
 
 **Population growth rate**<br>
--2.31% (2023 est.)<br>
+-2.24% (2024 est.)<br>
 
 **Birth rate**<br>
-12.3 births/1,000 population (2023 est.)<br>
+12.1 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.2 deaths/1,000 population (2023 est.)<br>
+9.4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--26.2 migrant(s)/1,000 population (2023 est.)<br>
+-25.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the population is found on the island of Rarotonga<br>
@@ -127,25 +129,25 @@ _rate of urbanization_: 0.52% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.1 male(s)/female<br>
-_15-64 years_: 1.07 male(s)/female<br>
+_15-64 years_: 1.06 male(s)/female<br>
 _65 years and over_: 0.96 male(s)/female<br>
-_total population_: 1.06 male(s)/female (2023 est.)<br>
+_total population_: 1.05 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.5 deaths/1,000 live births (2023 est.)<br>
-_male_: 19.5 deaths/1,000 live births<br>
-_female_: 11.3 deaths/1,000 live births<br>
+_total_: 15.1 deaths/1,000 live births (2024 est.)<br>
+_male_: 19 deaths/1,000 live births<br>
+_female_: 11.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.4 years (2023 est.)<br>
-_male_: 74.6 years<br>
-_female_: 80.3 years<br>
+_total population_: 77.6 years (2024 est.)<br>
+_male_: 74.8 years<br>
+_female_: 80.6 years<br>
 
 **Total fertility rate**<br>
-2.04 children born/woman (2023 est.)<br>
+2.02 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1 (2023 est.)<br>
+0.99 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -279,7 +281,7 @@ has not submitted an ICJ jurisdiction declaration (New Zealand normally retains 
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Sir Tom J. MARSTERS (since 9 August 2013); New Zealand High Commissioner Ms. Tui DEWES (since October 2020)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Sir Tom J. MARSTERS (since 9 August 2013); New Zealand High Commissioner Catherine GRAHAM (since April 2024)<br>
 _head of government_: Prime Minister Mark BROWN (since 1 October 2020)<br>
 _cabinet_: Cabinet chosen by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; UK representative appointed by the monarch; New Zealand high commissioner appointed by the New Zealand Government; following legislative elections, the leader of the majority party or majority coalition usually becomes prime minister<br>

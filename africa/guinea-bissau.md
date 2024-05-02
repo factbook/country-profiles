@@ -77,7 +77,9 @@ this small country is swampy along its western coast and low-lying inland<br>
 ## People and Society
 
 **Population**<br>
-2,078,820 (2023 est.)<br>
+_total_: 2,132,325<br>
+_male_: 1,042,910<br>
+_female_: 1,089,415 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Bissau-Guinean(s)<br>
@@ -96,9 +98,9 @@ Muslim 46.1%, folk religions 30.6%, Christian 18.9%, other or unaffiliated 4.4% 
 <p>Guinea-Bissau’s young and growing population is sustained by high fertility; approximately 60% of the population is under the age of 25 as of 2020. Its large reproductive-age population and total fertility rate of more than 4 children per woman offsets the country’s high infant and maternal mortality rates. The latter is among the world’s highest because of the prevalence of early childbearing, a lack of birth spacing, the high percentage of births outside of health care facilities, and a shortage of medicines and supplies.</p> <p>Guinea-Bissau’s history of political instability, a civil war, and several coups (the latest in 2012) have resulted in a fragile state with a weak economy, high unemployment, rampant corruption, widespread poverty, and thriving drug and child trafficking. With the country lacking educational infrastructure, school funding and materials, and qualified teachers, and with the cultural emphasis placed on religious education, parents frequently send boys to study in residential Koranic schools (daaras) in Senegal and The Gambia. They often are extremely deprived and are forced into street begging or agricultural work by marabouts (Muslim religious teachers), who enrich themselves at the expense of the children. Boys who leave their marabouts often end up on the streets of Dakar or other large Senegalese towns and are vulnerable to even worse abuse.</p> <p>Some young men lacking in education and job prospects become involved in the flourishing international drug trade. Local drug use and associated violent crime are growing.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 42.51% (male 444,214/female 439,517)<br>
-_15-64 years_: 54.38% (male 545,116/female 585,284)<br>
-_65 years and over_: 3.11% (2023 est.) (male 26,890/female 37,799)<br>
+_0-14 years_: 42.3% (male 453,513/female 448,514)<br>
+_15-64 years_: 54.6% (male 561,868/female 602,280)<br>
+_65 years and over_: 3.1% (2024 est.) (male 27,529/female 38,621)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 76.6<br>
@@ -107,21 +109,21 @@ _elderly dependency ratio_: 5<br>
 _potential support ratio_: 20.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18.3 years (2023 est.)<br>
-_male_: 17.7 years<br>
+_total_: 18.4 years (2024 est.)<br>
+_male_: 17.8 years<br>
 _female_: 18.9 years<br>
 
 **Population growth rate**<br>
-2.54% (2023 est.)<br>
+2.54% (2024 est.)<br>
 
 **Birth rate**<br>
-36.3 births/1,000 population (2023 est.)<br>
+36 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.3 deaths/1,000 population (2023 est.)<br>
+7.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--3.5 migrant(s)/1,000 population (2023 est.)<br>
+-3.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 approximately one-fifth of the population lives in the capital city of Bissau along the Atlantic coast; the remainder is distributed among the eight other, mainly rural, regions as shown in this population distribution map<br>
@@ -138,26 +140,26 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-64 years_: 0.93 male(s)/female<br>
 _65 years and over_: 0.71 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2023 est.)<br>
+_total population_: 0.96 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 725 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 47.7 deaths/1,000 live births (2023 est.)<br>
-_male_: 53.4 deaths/1,000 live births<br>
-_female_: 41.8 deaths/1,000 live births<br>
+_total_: 46.4 deaths/1,000 live births (2024 est.)<br>
+_male_: 52 deaths/1,000 live births<br>
+_female_: 40.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 64.1 years (2023 est.)<br>
-_male_: 61.8 years<br>
-_female_: 66.4 years<br>
+_total population_: 64.5 years (2024 est.)<br>
+_male_: 62.2 years<br>
+_female_: 66.8 years<br>
 
 **Total fertility rate**<br>
-4.65 children born/woman (2023 est.)<br>
+4.62 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-2.29 (2023 est.)<br>
+2.28 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 20.6% (2018/19)<br>
@@ -332,7 +334,7 @@ _election results_: <em>2019:</em> Umaro Sissoco EMBALO elected president in sec
 **Legislative branch**<br>
 _description_: unicameral National People's Assembly or Assembleia Nacional Popular (102 seats; 100 members directly elected in 27 multi-seat constituencies by closed party-list proportional representation vote and 2 elected in single-seat constituencies for citizens living abroad (Africa 1, Europe 1); all members serve 4-year terms)<br>
 _elections_: last held on 4 June 2023 (next to be held on 30 June 2027); note - on 4 December 2023 the president dissolved the parliament with new elections to be held at a future date<br>
-_election results_: percent of vote by party - PAIGC 39.4%, Madem G-15 21.1%, PRS 14.9%, other 12.5%; seats by party - PAIGC 54, Madem G-15 29, PRS- 12, other 7; composition as of February 2024 - men 92, women 10, percentage women 9.8%<br>
+_election results_: percent of vote by party - PAIGC 39.4%, Madem G-15 21.1%, PRS 14.9%, other 12.5%; seats by party - PAIGC 54, Madem G-15 29, PRS- 12, other 7; composition - men 92, women 10, percentage women 9.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of 9 judges and organized into Civil, Criminal, and Social and Administrative Disputes Chambers); note - the Supreme Court has both appellate and constitutional jurisdiction<br>

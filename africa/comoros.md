@@ -72,7 +72,9 @@ important location at northern end of Mozambique Channel; the only Arab League c
 ## People and Society
 
 **Population**<br>
-888,378 (2023 est.)<br>
+_total_: 900,141<br>
+_male_: 435,758<br>
+_female_: 464,383 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Comoran(s)<br>
@@ -92,9 +94,9 @@ Muslim 98.1% (overwhelmingly Sunni Muslim, small Shia Muslim and Ahmadiyya Musli
 <p>Comoros’ population is a melange of Arabs, Persians, Indonesians, Africans, and Indians, and the much smaller number of Europeans that settled on the islands between the 8th and 19th centuries, when they served as a regional trade hub. The Arab and Persian influence is most evident in the islands’ overwhelmingly Muslim majority – about 98% of Comorans are Sunni Muslims. The country is densely populated, averaging nearly 350 people per square mile, although this varies widely among the islands, with Anjouan being the most densely populated.</p><p>Given the large share of land dedicated to agriculture and Comoros’ growing population, habitable land is becoming increasingly crowded. The combination of increasing population pressure on limited land and resources, widespread poverty, and poor job prospects motivates thousands of Comorans each year to attempt to illegally migrate using small fishing boats to the neighboring island of Mayotte, which is a French territory. The majority of legal Comoran migration to France came after Comoros’ independence from France in 1975, with the flow peaking in the mid-1980s.</p><p>At least 150,000 to 200,000 people of Comoran citizenship or descent live abroad, mainly in France, where they have gone seeking a better quality of life, job opportunities, higher education (Comoros has no universities), advanced health care, and to finance elaborate traditional wedding ceremonies (aada). Remittances from the diaspora are an economic mainstay, in 2013 representing approximately 25% of Comoros’ GDP and significantly more than the value of its exports of goods and services (only 15% of GDP). Grand Comore, Comoros’ most populous island, is both the primary source of emigrants and the main recipient of remittances. Most remittances are spent on private consumption, but this often goes toward luxury goods and the aada and does not contribute to economic development or poverty reduction. Although the majority of the diaspora is now French-born with more distant ties to Comoros, it is unclear whether they will sustain the current level of remittances.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 33.45% (male 148,485/female 148,651)<br>
-_15-64 years_: 62% (male 264,023/female 286,805)<br>
-_65 years and over_: 4.55% (2023 est.) (male 17,696/female 22,718)<br>
+_0-14 years_: 32.6% (male 146,480/female 146,626)<br>
+_15-64 years_: 62.8% (male 271,139/female 294,231)<br>
+_65 years and over_: 4.6% (2024 est.) (male 18,139/female 23,526)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 74.1<br>
@@ -103,21 +105,21 @@ _elderly dependency ratio_: 7.5<br>
 _potential support ratio_: 13.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 22.3 years (2023 est.)<br>
-_male_: 21.6 years<br>
-_female_: 22.9 years<br>
+_total_: 22.7 years (2024 est.)<br>
+_male_: 22.1 years<br>
+_female_: 23.3 years<br>
 
 **Population growth rate**<br>
-1.34% (2023 est.)<br>
+1.3% (2024 est.)<br>
 
 **Birth rate**<br>
-22.1 births/1,000 population (2023 est.)<br>
+21.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.5 deaths/1,000 population (2023 est.)<br>
+6.4 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--2.2 migrant(s)/1,000 population (2023 est.)<br>
+-2.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the capital city of Maroni, located on the western side of the island of Grande Comore, is the country's largest city; however, of the three islands that comprise Comoros, it is Anjouan that is the most densely populated as shown in this population distribution map<br>
@@ -133,8 +135,8 @@ _rate of urbanization_: 2.97% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1 male(s)/female<br>
 _15-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 0.94 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23 years (2012 est.)<br>
@@ -144,20 +146,20 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 217 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 56 deaths/1,000 live births (2023 est.)<br>
-_male_: 66 deaths/1,000 live births<br>
-_female_: 45.7 deaths/1,000 live births<br>
+_total_: 54.9 deaths/1,000 live births (2024 est.)<br>
+_male_: 64.9 deaths/1,000 live births<br>
+_female_: 44.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.5 years (2023 est.)<br>
-_male_: 65.2 years<br>
-_female_: 69.9 years<br>
+_total population_: 67.8 years (2024 est.)<br>
+_male_: 65.5 years<br>
+_female_: 70.2 years<br>
 
 **Total fertility rate**<br>
-2.69 children born/woman (2023 est.)<br>
+2.61 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.33 (2023 est.)<br>
+1.28 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 19.4% (2012)<br>
@@ -293,7 +295,7 @@ Independence Day, 6 July (1975)<br>
 **Constitution**<br>
 _history_: previous 1996, 2001; newest adopted 30 July 2018<br>
 _amendments_: proposed by the president of the union or supported by at least one third of the Assembly of the Union membership; adoption requires approval by at least three-quarters majority of the total Assembly membership or approval in a referendum<br>
-<strong>note: </strong>a referendum held on 30 July 2018 - boycotted by the opposition - overwhelmingly approved a new constitution that allows for 2 consecutive 5-year presidential terms and revises the rotating presidency within the islands<br>
+<strong>note: </strong>a referendum held on 30 July 2018 - boycotted by the opposition - overwhelmingly approved a new constitution that allows for 2 consecutive 5-year presidential terms while retaining the rotating presidency within the islands<br>
 
 **Legal system**<br>
 mixed legal system of Islamic religious law, the French civil code of 1975, and customary law<br>

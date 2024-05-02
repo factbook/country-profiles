@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Present-day Mali is named after the Mali Empire that ruled the region between the 13th and 16th centuries. At its peak in the 14th century, it was the largest and wealthiest empire in West Africa and controlled an area about twice the size of modern-day France. Primarily a trading empire, Mali derived its wealth from gold and maintained several goldfields and trade routes in the Sahel. The empire also influenced West African culture through the spread of its language, laws, and customs, but by the 16th century it fragmented into mostly small chiefdoms. The Songhai Empire, previously a Mali dependency centered in Timbuktu, gained prominence in the 15th and 16th centuries. Under Songhai rule, Timbuktu became a large commercial center, well-known for its scholarship and religious teaching. Timbuktu remains a center of culture in West Africa today. In the late 16th century, the Songhai Empire fell to Moroccan invaders and disintegrated into independent sultanates and kingdoms.</p> <p>France, expanding from Senegal, seized control of the area in the 1890s and incorporated it into French West Africa as French Sudan. In 1960, French Sudan gained independence from France and became the Mali Federation. When Senegal withdrew after only a few months, the remaining area was renamed the Republic of Mali. Mali saw 31 years of dictatorship until 1991, when a military coup led by Amadou Toumani TOURE ousted the government, established a new constitution, and instituted a multi-party democracy. President Alpha Oumar KONARE won Mali's first two democratic presidential elections in 1992 and 1997. In keeping with Mali's two-term constitutional limit, he stepped down in 2002 and was succeeded by Amadou Toumani TOURE, who won a second term in 2007.</p> <p>In 2012, rising ethnic tensions and an influx of fighters - some linked to Al-Qa’ida - from Libya led to a rebellion and military coup. Following the coup, rebels expelled the military from the country’s three northern regions, allowing terrorist organizations to develop strongholds in the area. With a 2013 French-led military intervention, the Malian government managed to retake most of the north. However, the government’s grasp in the region remains weak with local militias, terrorists, and insurgent groups competing for control. In 2015, the Malian Government and northern rebels signed an internationally mediated peace accord. Despite a 2017 target for implementation of the agreement, the signatories have made little progress. Terrorist groups were left out of the peace process, and terrorist attacks remain common.  </p> <p>Ibrahim Boubacar KEITA won the Malian presidential elections in 2013 and 2018. Aside from security and logistic shortfalls, international observers deemed these elections credible. Terrorism, banditry, ethnic-based violence, and extra-judicial military killings plagued the country during KEITA’s second term. In August 2020, the military arrested KEITA, his prime minister, and other senior members of the government and established a military junta called the National Committee for the Salvation of the People (CNSP). In September 2020, the junta established a transition government and appointed Bah N’DAW, a retired army officer and former defense minister, as interim president and Colonel Assimi GOITA, the coup leader and chairman of the CNSP, as interim vice president. The transition government’s charter allowed it to rule for up to 18 months before calling a general election.  <br><br>In May 2021, Colonel Assimi GOITA led a military takeover, arresting the interim president after a Cabinet shake up removed GOITA’s key allies. GOITA was sworn in as transition president in June 2021 and Choguel Kokalla MAIGA was sworn in as prime minister. In January 2022, the Economic Community of West African States (ECOWAS) imposed sanctions on the transition government and member states closed their borders after the transition government presented a five-year extension to the electoral calendar. In June 2022, the transition government and ECOWAS agreed to a new two-year timeline, which would have included presidential elections in February 2024, but the transition government postponed the elections indefinitely in September 2023 and withdrew from ECOWAS in January 2024.</p><br>
+<p>Present-day Mali is named after the Mali Empire that ruled the region between the 13th and 16th centuries. At its peak in the 14th century, it was the largest and wealthiest empire in West Africa and controlled an area about twice the size of modern-day France. Primarily a trading empire, Mali derived its wealth from gold and maintained several goldfields and trade routes in the Sahel. The empire also influenced West African culture through the spread of its language, laws, and customs, but by the 16th century, it had fragmented into mostly small chiefdoms. The Songhai Empire, previously a Mali dependency centered in Timbuktu, gained prominence in the 15th and 16th centuries. Under Songhai rule, Timbuktu became a large commercial center, well-known for its scholarship and religious teaching. Timbuktu remains a center of culture in West Africa today. In the late 16th century, the Songhai Empire fell to Moroccan invaders and disintegrated into independent sultanates and kingdoms.</p> <p>France, expanding from Senegal, seized control of the area in the 1890s and incorporated it into French West Africa as French Sudan. In 1960, French Sudan gained independence from France and became the Mali Federation. When Senegal withdrew after only a few months, the remaining area was renamed the Republic of Mali. Mali saw 31 years of dictatorship until 1991, when a military coup led by Amadou Toumani TOURE ousted the government, established a new constitution, and instituted a multi-party democracy. Alpha Oumar KONARE won Mali's first two democratic presidential elections in 1992 and 1997. In keeping with Mali's two-term constitutional limit, he stepped down in 2002 and was succeeded by Amadou Toumani TOURE, who won a second term in 2007.</p> <p>In 2012, rising ethnic tensions and an influx of fighters -- some linked to Al-Qa’ida -- from Libya led to a rebellion and military coup. Following the coup, rebels expelled the military from the country’s three northern regions, allowing terrorist organizations to develop strongholds in the area. With a 2013 French-led military intervention, the Malian government managed to retake most of the north. However, the government’s grasp in the region remains weak with local militias, terrorists, and insurgent groups competing for control. In 2015, the Malian Government and northern rebels signed an internationally mediated peace accord. Despite a 2017 target for implementation of the agreement, the signatories have made little progress. Terrorist groups were left out of the peace process, and terrorist attacks remain common.  </p> <p>Ibrahim Boubacar KEITA won the Malian presidential elections in 2013 and 2018. Aside from security and logistic shortfalls, international observers deemed these elections credible. Terrorism, banditry, ethnic-based violence, and extra-judicial military killings plagued the country during KEITA’s second term. In 2020, the military arrested KEITA, his prime minister, and other senior members of the government and established a military junta called the National Committee for the Salvation of the People (CNSP). The junta then established a transition government and appointed Bah N’DAW, a retired army officer and former defense minister, as interim president and Colonel Assimi GOITA, the coup leader and chairman of the CNSP, as interim vice president. The transition government’s charter allowed it to rule for up to 18 months before calling a general election.  <br><br>In 2021, GOITA led a military takeover, arresting the interim president after a Cabinet shake-up removed GOITA’s key allies. GOITA was sworn in as transition president, and Choguel Kokalla MAIGA was sworn in as prime minister. In 2022, the Economic Community of West African States (ECOWAS) imposed sanctions on the transition government, and member states closed their borders with Mali after the transition government presented a five-year extension to the electoral calendar. The transition government and ECOWAS agreed to a new two-year timeline, which would have included presidential elections in February 2024, but the transition government postponed the elections indefinitely in September 2023 and withdrew from ECOWAS in January 2024.</p><br>
 
 ## Geography
 
@@ -85,7 +85,9 @@ landlocked; divided into three natural zones: the southern, cultivated Sudanese;
 ## People and Society
 
 **Population**<br>
-21,359,722 (2023 est.)<br>
+_total_: 21,990,607<br>
+_male_: 10,688,755<br>
+_female_: 11,301,852 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Malian(s)<br>
@@ -105,9 +107,9 @@ Muslim 93.9%, Christian 2.8%, animist 0.7%, none 2.5% (2018 est.)<br>
 <p>Mali’s total population is expected to double by 2035; its capital Bamako is one of the fastest-growing cities in Africa. A young age structure, a declining mortality rate, and a sustained high total fertility rate of 5.5 children per woman – the fourth highest in the world, as of 2022 – ensure continued rapid population growth for the foreseeable future. Significant outmigration only marginally tempers this growth. Despite decreases, Mali’s infant, child, and maternal mortality rates remain among the highest in Sub-Saharan Africa because of limited access to and adoption of family planning, early childbearing, short birth intervals, the prevalence of female genital cutting, infrequent use of skilled birth attendants, and a lack of emergency obstetrical and neonatal care.</p> <p>Mali’s high total fertility rate has been virtually unchanged for decades, as a result of the ongoing preference for large families, early childbearing, the lack of female education and empowerment, poverty, and extremely low contraceptive use. Slowing Mali’s population growth by lowering its birth rate will be essential for poverty reduction, improving food security, and developing human capital and the economy.</p> <p>Mali has a long history of seasonal migration and emigration driven by poverty, conflict, demographic pressure, unemployment, food insecurity, and droughts. Many Malians from rural areas migrate during the dry period to nearby villages and towns to do odd jobs or to adjoining countries to work in agriculture or mining. Pastoralists and nomads move seasonally to southern Mali or nearby coastal states. Others migrate long term to Mali’s urban areas, Cote d’Ivoire, other neighboring countries, and in smaller numbers to France, Mali’s former colonial ruler. Since the early 1990s, Mali’s role has grown as a transit country for regional migration flows and illegal migration to Europe. Human smugglers and traffickers exploit the same regional routes used for moving contraband drugs, arms, and cigarettes.</p> <p>Between early 2012 and 2013, renewed fighting in northern Mali between government forces and Tuareg secessionists and their Islamist allies, a French-led international military intervention, as well as chronic food shortages, caused the displacement of hundreds of thousands of Malians. Most of those displaced domestically sought shelter in urban areas of southern Mali, except for pastoralist and nomadic groups, who abandoned their traditional routes, gave away or sold their livestock, and dispersed into the deserts of northern Mali or crossed into neighboring countries. Almost all Malians who took refuge abroad (mostly Tuareg and Maure pastoralists) stayed in the region, largely in Mauritania, Niger, and Burkina Faso.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 47.05% (male 5,054,927/female 4,995,605)<br>
-_15-64 years_: 49.88% (male 5,006,470/female 5,647,289)<br>
-_65 years and over_: 3.07% (2023 est.) (male 323,170/female 332,261)<br>
+_0-14 years_: 46.8% (male 5,175,714/female 5,114,128)<br>
+_15-64 years_: 50.1% (male 5,178,742/female 5,842,456)<br>
+_65 years and over_: 3.1% (2024 est.) (male 334,299/female 345,268)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 99.3<br>
@@ -116,21 +118,21 @@ _elderly dependency ratio_: 4.9<br>
 _potential support ratio_: 20.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 16.3 years (2023 est.)<br>
-_male_: 15.6 years<br>
-_female_: 17 years<br>
+_total_: 16.4 years (2024 est.)<br>
+_male_: 15.7 years<br>
+_female_: 17.1 years<br>
 
 **Population growth rate**<br>
-2.93% (2023 est.)<br>
+2.9% (2024 est.)<br>
 
 **Birth rate**<br>
-40.5 births/1,000 population (2023 est.)<br>
+40 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8.3 deaths/1,000 population (2023 est.)<br>
+8.1 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--3 migrant(s)/1,000 population (2023 est.)<br>
+-2.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the overwhelming majority of the population lives in the southern half of the country, with greater density along the border with Burkina Faso as shown in this population distribution map<br>
@@ -147,7 +149,7 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-64 years_: 0.89 male(s)/female<br>
 _65 years and over_: 0.97 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.2 years (2018 est.)<br>
@@ -157,20 +159,20 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 440 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 59 deaths/1,000 live births (2023 est.)<br>
-_male_: 64.3 deaths/1,000 live births<br>
-_female_: 53.5 deaths/1,000 live births<br>
+_total_: 57.4 deaths/1,000 live births (2024 est.)<br>
+_male_: 62.6 deaths/1,000 live births<br>
+_female_: 52 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.8 years (2023 est.)<br>
-_male_: 60.6 years<br>
-_female_: 65.1 years<br>
+_total population_: 63.2 years (2024 est.)<br>
+_male_: 60.9 years<br>
+_female_: 65.6 years<br>
 
 **Total fertility rate**<br>
-5.45 children born/woman (2023 est.)<br>
+5.35 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-2.68 (2023 est.)<br>
+2.64 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 17.2% (2018)<br>

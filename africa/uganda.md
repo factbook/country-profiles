@@ -81,7 +81,9 @@ landlocked; fertile, well-watered country with many lakes and rivers; Lake Victo
 ## People and Society
 
 **Population**<br>
-47,729,952 (2023 est.)<br>
+_total_: 49,283,041<br>
+_male_: 24,040,560<br>
+_female_: 25,242,481 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Ugandan(s)<br>
@@ -100,9 +102,9 @@ Protestant 45.1% (Anglican 32.0%, Pentecostal/Born Again/Evangelical 11.1%, Seve
 <p>Uganda has one of the youngest and most rapidly growing populations in the world; its total fertility rate is among the world’s highest at close to 5.5 children per woman in 2022. Except in urban areas, actual fertility exceeds women’s desired fertility by one or two children, which is indicative of the widespread unmet need for contraception, lack of government support for family planning, and a cultural preference for large families. High numbers of births, short birth intervals, and the early age of childbearing contribute to Uganda’s high maternal mortality rate. Gender inequities also make fertility reduction difficult; women on average are less-educated, participate less in paid employment, and often have little say in decisions over childbearing and their own reproductive health. However, even if the birth rate were significantly reduced, Uganda’s large pool of women entering reproductive age ensures rapid population growth for decades to come.</p> <p>Unchecked, population increase will further strain the availability of arable land and natural resources and overwhelm the country’s limited means for providing food, employment, education, health care, housing, and basic services. The country’s north and northeast lag even further behind developmentally than the rest of the country as a result of long-term conflict (the Ugandan Bush War 1981-1986 and more than 20 years of fighting between the Lord’s Resistance Army (LRA) and Ugandan Government forces), ongoing inter-communal violence, and periodic natural disasters.</p> <p>Uganda has been both a source of refugees and migrants and a host country for refugees. In 1972, then President Idi AMIN, in his drive to return Uganda to Ugandans, expelled the South Asian population that composed a large share of the country’s business people and bankers. Since the 1970s, thousands of Ugandans have emigrated, mainly to southern Africa or the West, for security reasons, to escape poverty, to search for jobs, and for access to natural resources. The emigration of Ugandan doctors and nurses due to low wages is a particular concern given the country’s shortage of skilled health care workers. Africans escaping conflicts in neighboring states have found refuge in Uganda since the 1950s; the country currently struggles to host tens of thousands from the Democratic Republic of the Congo, South Sudan, and other nearby countries.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 47.3% (male 11,439,303/female 11,136,111)<br>
-_15-64 years_: 50.31% (male 11,335,543/female 12,679,044)<br>
-_65 years and over_: 2.39% (2023 est.) (male 484,782/female 655,169)<br>
+_0-14 years_: 47% (male 11,747,745/female 11,427,932)<br>
+_15-64 years_: 50.6% (male 11,788,483/female 13,131,051)<br>
+_65 years and over_: 2.4% (2024 est.) (male 504,332/female 683,498)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 88.2<br>
@@ -111,21 +113,21 @@ _elderly dependency ratio_: 3.2<br>
 _potential support ratio_: 31.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 16.1 years (2023 est.)<br>
-_male_: 15.3 years<br>
-_female_: 16.9 years<br>
+_total_: 16.2 years (2024 est.)<br>
+_male_: 15.5 years<br>
+_female_: 17.1 years<br>
 
 **Population growth rate**<br>
-3.22% (2023 est.)<br>
+3.18% (2024 est.)<br>
 
 **Birth rate**<br>
-40.3 births/1,000 population (2023 est.)<br>
+39.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-4.9 deaths/1,000 population (2023 est.)<br>
+4.7 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--3.2 migrant(s)/1,000 population (2023 est.)<br>
+-3.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated as shown in this population distribution map<br>
@@ -140,9 +142,9 @@ _rate of urbanization_: 5.41% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-64 years_: 0.89 male(s)/female<br>
+_15-64 years_: 0.9 male(s)/female<br>
 _65 years and over_: 0.74 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.4 years (2016 est.)<br>
@@ -152,20 +154,20 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 284 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 29.4 deaths/1,000 live births (2023 est.)<br>
-_male_: 32.8 deaths/1,000 live births<br>
-_female_: 26 deaths/1,000 live births<br>
+_total_: 28.5 deaths/1,000 live births (2024 est.)<br>
+_male_: 31.8 deaths/1,000 live births<br>
+_female_: 25.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.3 years (2023 est.)<br>
-_male_: 67.1 years<br>
-_female_: 71.6 years<br>
+_total population_: 69.7 years (2024 est.)<br>
+_male_: 67.5 years<br>
+_female_: 72 years<br>
 
 **Total fertility rate**<br>
-5.26 children born/woman (2023 est.)<br>
+5.17 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-2.59 (2023 est.)<br>
+2.55 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 50.2% (2021)<br>

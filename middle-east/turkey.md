@@ -85,7 +85,9 @@ strategic location controlling the Turkish Straits (Bosporus, Sea of Marmara, Da
 ## People and Society
 
 **Population**<br>
-83,593,483 (2023 est.)<br>
+_total_: 84,119,531<br>
+_male_: 42,247,430<br>
+_female_: 41,872,101 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Turk(s)<br>
@@ -102,9 +104,9 @@ _major-language sample(s)_: <br>The World Factbook, temel bilgi edinmek için va
 Muslim 99.8% (mostly Sunni), other 0.2% (mostly Christians and Jews)<br>
 
 **Age structure**<br>
-_0-14 years_: 22.12% (male 9,459,277/female 9,029,296)<br>
-_15-64 years_: 68.58% (male 29,023,477/female 28,301,263)<br>
-_65 years and over_: 9.31% (2023 est.) (male 3,512,598/female 4,267,572)<br>
+_0-14 years_: 21.7% (male 9,358,711/female 8,933,673)<br>
+_15-64 years_: 68.6% (male 29,219,389/female 28,494,315)<br>
+_65 years and over_: 9.6% (2024 est.) (male 3,669,330/female 4,444,113)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49.1<br>
@@ -113,21 +115,21 @@ _elderly dependency ratio_: 12.3<br>
 _potential support ratio_: 8.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 33.6 years (2023 est.)<br>
-_male_: 33 years<br>
-_female_: 34.1 years<br>
+_total_: 34 years (2024 est.)<br>
+_male_: 33.4 years<br>
+_female_: 34.6 years<br>
 
 **Population growth rate**<br>
-0.64% (2023 est.)<br>
+0.61% (2024 est.)<br>
 
 **Birth rate**<br>
-14 births/1,000 population (2023 est.)<br>
+13.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.1 deaths/1,000 population (2023 est.)<br>
+6.1 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1.5 migrant(s)/1,000 population (2023 est.)<br>
+-1.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the most densely populated area is found around the Bosporus in the northwest where 20% of the population lives in Istanbul; with the exception of Ankara, urban centers remain small and scattered throughout the interior of Anatolia; an overall pattern of peripheral development exists, particularly along the Aegean Sea coast in the west, and the Tigris and Euphrates River systems in the southeast<br>
@@ -143,8 +145,8 @@ _rate of urbanization_: 1.11% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 1.03 male(s)/female<br>
-_65 years and over_: 0.82 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.83 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.6 years (2020 est.)<br>
@@ -153,20 +155,20 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 17 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 20.5 deaths/1,000 live births<br>
-_female_: 17.2 deaths/1,000 live births<br>
+_total_: 18.4 deaths/1,000 live births (2024 est.)<br>
+_male_: 19.9 deaths/1,000 live births<br>
+_female_: 16.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.5 years (2023 est.)<br>
-_male_: 74.1 years<br>
-_female_: 78.9 years<br>
+_total population_: 76.7 years (2024 est.)<br>
+_male_: 74.4 years<br>
+_female_: 79.2 years<br>
 
 **Total fertility rate**<br>
-1.91 children born/woman (2023 est.)<br>
+1.9 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.93 (2023 est.)<br>
+0.92 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 69.8% (2018)<br>
@@ -361,7 +363,6 @@ _subordinate courts_: regional appeals courts; basic (first instance) courts; pe
 
 **Political parties and leaders**<br>
 Democracy and Progress Party or DEVA [Ali BABACAN]<br>Democrat Party or DP [Gultekin UYSAL]<br>Democratic Regions Party or DBP [Saliha AYDENIZ, Keskin BAYINDIR]<br>Felicity Party (Saadet Party) or SP [Temel KARAMOLLAOGLU]<br>Free Cause Party or HUDA PAR [Zekeriya YAPICIOGLU]<br>Future Party (Gelecek Partisi) or GP [Ahmet DAVUTOGLU]<br>Good Party or IYI [Meral AKSENER]<br>Grand Unity Party or BBP [Mustafa DESTICI]<br>Justice and Development Party or AKP [Recep Tayyip ERDOGAN]<br>Labor and Freedom Alliance (electoral alliance includes YSGP, HDP, TIP)<br>Nation Alliance [collective leadership] (electoral alliance includes CHP, DEVA, DP, GP, IYI, SP) (dissolved 1 June 2023)<br>Nationalist Movement Party or MHP [Devlet BAHCELI]<br>New Welfare Party or YRP [Fatih ERBAKAN]<br>Party of Greens and the Left Future or YSGP [Cigfrm  Kilicgun UCAR and Ibrahim AKIN]<br>People's Alliance (electoral alliance includes AKP, BBP, MHP, YRP)<br>Peoples' Democratic Party or HDP [Pervin BULDAN, Mithat SANCAR]<br>Republican People's Party or CHP [Kemal KILICDAROGLU]<br>Workers' Party of Turkey or TIP [Erkan BAS]<br>
-<strong>note: </strong> as of September 2021, 116 political parties were legally registered<br>
 
 **International organization participation**<br>
 ADB (nonregional member), Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CERN (observer), CICA, CPLP (associate observer), D-8, EAPC, EBRD, ECO, EU (candidate country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIC, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SCO (dialogue member), SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>

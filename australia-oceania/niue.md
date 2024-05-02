@@ -5,7 +5,7 @@ _Australia-Oceania / Dependencies (New Zealand)_
 ## Introduction
 
 **Background**<br>
-<p>Voyagers from Samoa first settled on Niue around A.D. 900 and a second main group of settlers came from Tonga around 1500. With only one reliable source of fresh water, conflict was high on the island. There was continued contact with both Samoa and Tonga, and customs from those islands heavily influenced Niuean culture, including the formation of an island-wide kingship system in the early 1700s. These kings, or patu-iki, were elected by Niueans. In 1774, British explorer James COOK abandoned attempts to land on the island after several unsuccessful tries, and he named it Savage Island because of the warlike appearance of the Niueans. Missionaries arrived in 1830 but were also largely unsuccessful at staying on the island until 1846, when a Niuean trained as a Samoan missionary returned to the island and provided a space from which the missionaries could work. In addition to converting the population, the missionaries worked to stop the violent conflicts between Niueans and helped establish the first parliament in 1849.</p> <p>In 1889, King FATAAIKI and other chiefs asked the UK for protectorate status, a request that was repeated in 1895. The UK finally agreed in 1900 and King TOGIA-PULU-TOAKI formally ceded Niue that year. In 1901, Niue was annexed to New Zealand and included as part of the Cook Islands. Niue’s remoteness and cultural and linguistic differences with the Cook Islands led New Zealand to separate Niue into its own administration in 1904. The island became internally self-governing in 1974; it is an independent member of international organizations but is in free association with New Zealand, which is responsible for defense and foreign affairs. In September 2023, the US recognized Niue as a sovereign and independent state.</p><br>
+<p>Voyagers from Samoa first settled on Niue around A.D. 900, and a second main group of settlers came from Tonga around 1500. With only one reliable source of fresh water, conflict was high on the island. Samoan and Tongan customs heavily influenced Niuean culture, including the formation of an island-wide elected kingship system in the early 1700s. In 1774, British explorer James COOK abandoned attempts to land on the island after several unsuccessful tries, and he named it Savage Island because of the Niueans' warlike appearance. Missionaries arrived in 1830 but were also largely unsuccessful at staying on the island until 1846, when a Niuean trained as a Samoan missionary returned to the island and provided a space from which the missionaries could work. In addition to converting the population, the missionaries worked to stop the violent conflicts and helped establish the first parliament in 1849.</p> <p>In 1889, King FATAAIKI and other chiefs asked the UK for protectorate status, a request that was repeated in 1895. The UK finally agreed in 1900 and King TOGIA-PULU-TOAKI formally ceded Niue that year. In 1901, Niue was annexed to New Zealand and included as part of the Cook Islands. Niue’s remoteness and cultural and linguistic differences with the Cook Islands led New Zealand to separate Niue into its own administration in 1904. The island became internally self-governing in 1974; it is an independent member of international organizations but is in free association with New Zealand, which is responsible for defense and foreign affairs. In September 2023, the US recognized Niue as a sovereign and independent state.</p><br>
 
 ## Geography
 
@@ -72,7 +72,7 @@ one of world's largest coral islands; the only major break in the surrounding co
 ## People and Society
 
 **Population**<br>
-2,000 (2022 est.)<br>
+_total_: 2,000 (2022 est.)<br>
 <strong>note:</strong> because of the island's limited economic and educational opportunities, Niueans have emigrated for decades - primarily to New Zealand but also to Australia and other Pacific island states; Niue's population peaked in 1966 at 5,194, but by 2005 had fallen to 1,508; since then, it has rebounded slightly; as of 2013, 23,883 people of Niuean ancestry lived in New Zealand - with more than 20% Niue-born - or about 15 times as many persons of Niuean ancestry living in New Zealand as in Niue<br>
 
 **Nationality**<br>
@@ -89,11 +89,6 @@ Niuean (official) 46% (a Polynesian language closely related to Tongan and Samoa
 **Religions**<br>
 Ekalesia Niue (Congregational Christian Church of Niue - a Protestant church founded by missionaries from the London Missionary Society) 61.7%, Church of Jesus Christ 8.7%, Roman Catholic 8.4%, Jehovah's Witness 2.7%, Seventh Day Adventist 1.4%, other 8.2%, none 8.9% (2017 est.)<br>
 
-**Age structure**<br>
-_0-14 years_: NA<br>
-_15-64 years_: NA<br>
-_65 years and over_: NA<br>
-
 **Dependency ratios**<br>
 _total dependency ratio_: 70.4<br>
 _youth dependency ratio_: 44.9<br>
@@ -102,12 +97,6 @@ _potential support ratio_: 3.9 (2021)<br>
 
 **Population growth rate**<br>
 -0.03% (2021 est.)<br>
-
-**Birth rate**<br>
-NA<br>
-
-**Death rate**<br>
-(2021 est.) NA<br>
 
 **Population distribution**<br>
 population distributed around the peripheral coastal areas of the island<br>
@@ -119,45 +108,15 @@ _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 **Major urban areas - population**<br>
 1,000 ALOFI (capital) (2018)<br>
 
-**Sex ratio**<br>
-NA<br>
-
-**Infant mortality rate**<br>
-_total_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
-**Life expectancy at birth**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
-
-**Total fertility rate**<br>
-(2021 est.) NA<br>
-
-**Contraceptive prevalence rate**<br>
-NA<br>
-
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
 _improved: total_: total: 97% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
 7.8% of GDP (2020)<br>
 
-**Physicians density**<br>
-NA<br>
-
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
 _improved: total_: total: 95.5% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 4.5% of population (2020 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -169,17 +128,6 @@ _beer_: 4.28 liters of pure alcohol (2019 est.)<br>
 _wine_: 1.89 liters of pure alcohol (2019 est.)<br>
 _spirits_: 2.33 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
-
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
-**Education expenditures**<br>
-NA<br>
-
-**Literacy**<br>
-_total population_: NA<br>
-_male_: NA<br>
-_female_: NA<br>
 
 ## Environment
 

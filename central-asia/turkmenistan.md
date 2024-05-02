@@ -82,8 +82,9 @@ landlocked; the western and central low-lying desolate portions of the country m
 ## People and Society
 
 **Population**<br>
-5,690,818 (2023 est.)<br>
-<strong>note:</strong> some sources suggest Turkmenistan's population could be as much as 1 to 2 million people lower than available estimates because of large-scale emigration during the last 10 years<br>
+_total_: 5,744,151<br>
+_male_: 2,842,870<br>
+_female_: 2,901,281 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Turkmenistani(s)<br>
@@ -103,9 +104,9 @@ Muslim 93%, Christian 6.4%, Buddhist &lt;1%, folk religion &lt;1%, Jewish &lt;1%
 <p>While Turkmenistan reputedly has a population of more than 5.6 million, the figure is most likely considerably less. Getting an accurate population estimate for the country is impossible because then President Gurbanguly BERDIMUHAMEDOW withheld the results of the last two censuses. The 2012 census results reportedly show that nearly 2 million citizens have emigrated in the last decade, which prompted BERDIMUHAMEDOW to order another census. Results of this census, covering 2008-2018, also were not released to the public but purportedly are similar. Another census was held in December 2022.</p> <p>Authorities have reacted to the dramatic population decline by preventing Turkmen from leaving the country, including removing citizens from international flights and refusing to provide necessary documents. Turkmenistan’s rise in outmigration – mainly to Turkey, Russia, and Uzbekistan – coincided with the country’s 2013-2014 economic crisis. The outflow has been sustained by poor living standards, inflation, low income, and a lack of health care. At the same time, Ashbagat is encouraging people to have more children to make up for its shrinking population.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 24.63% (male 710,040/female 691,487)<br>
-_15-64 years_: 68.82% (male 1,943,930/female 1,972,723)<br>
-_65 years and over_: 6.55% (2023 est.) (male 163,121/female 209,517)<br>
+_0-14 years_: 24.5% (male 711,784/female 692,967)<br>
+_15-64 years_: 68.6% (male 1,956,740/female 1,984,333)<br>
+_65 years and over_: 6.9% (2024 est.) (male 174,346/female 223,981)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.6<br>
@@ -114,21 +115,21 @@ _elderly dependency ratio_: 7.7<br>
 _potential support ratio_: 13 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30.7 years (2023 est.)<br>
-_male_: 30.2 years<br>
-_female_: 31.2 years<br>
+_total_: 31.2 years (2024 est.)<br>
+_male_: 30.7 years<br>
+_female_: 31.7 years<br>
 
 **Population growth rate**<br>
-0.95% (2023 est.)<br>
+0.92% (2024 est.)<br>
 
 **Birth rate**<br>
-17.2 births/1,000 population (2023 est.)<br>
+16.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6 deaths/1,000 population (2023 est.)<br>
+6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1.7 migrant(s)/1,000 population (2023 est.)<br>
+-1.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the most densely populated areas are the southern, eastern, and northeastern oases; approximately 50% of the population lives in and around the capital of Ashgabat<br>
@@ -145,7 +146,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-64 years_: 0.99 male(s)/female<br>
 _65 years and over_: 0.78 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2023 est.)<br>
+_total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 24.2 years (2019)<br>
@@ -154,20 +155,20 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 36.7 deaths/1,000 live births (2023 est.)<br>
-_male_: 44.7 deaths/1,000 live births<br>
-_female_: 28.4 deaths/1,000 live births<br>
+_total_: 35.9 deaths/1,000 live births (2024 est.)<br>
+_male_: 43.6 deaths/1,000 live births<br>
+_female_: 27.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.1 years (2023 est.)<br>
-_male_: 69.1 years<br>
-_female_: 75.3 years<br>
+_total population_: 72.4 years (2024 est.)<br>
+_male_: 69.4 years<br>
+_female_: 75.5 years<br>
 
 **Total fertility rate**<br>
-2.03 children born/woman (2023 est.)<br>
+2.02 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.99 (2023 est.)<br>
+0.99 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 49.7% (2019)<br>

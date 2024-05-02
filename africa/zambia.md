@@ -85,7 +85,9 @@ landlocked; the Zambezi forms a natural riverine boundary with Zimbabwe; Lake Ka
 ## People and Society
 
 **Population**<br>
-20,216,029 (2023 est.)<br>
+_total_: 20,799,116<br>
+_male_: 10,407,253<br>
+_female_: 10,391,863 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Zambian(s)<br>
@@ -105,9 +107,9 @@ Protestant 75.3%, Roman Catholic 20.2%, other 2.7% (includes Muslim, Buddhist, H
 <p>Zambia’s poor, youthful population consists primarily of Bantu-speaking people representing nearly 70 different ethnicities. Zambia’s high fertility rate continues to drive rapid population growth, averaging almost 3% annually between 2000 and 2010, and reaching over 3.3% in 2022. The country’s total fertility rate has fallen by less than 1.5 children per woman during the last 30 years and still averages among the world’s highest, almost 6 children per woman, largely because of the country’s lack of access to family planning services, education for girls, and employment for women. Zambia also exhibits wide fertility disparities based on rural or urban location, education, and income. Poor, uneducated women from rural areas are more likely to marry young, to give birth early, and to have more children, viewing children as a sign of prestige and recognizing that not all of their children will live to adulthood. HIV/AIDS is prevalent in Zambia and contributes to its low life expectancy.</p> <p>Zambian emigration is low compared to many other African countries and is comprised predominantly of the well-educated. The small amount of brain drain, however, has a major impact in Zambia because of its limited human capital and lack of educational infrastructure for developing skilled professionals in key fields. For example, Zambia has few schools for training doctors, nurses, and other health care workers. Its spending on education is low compared to other Sub-Saharan countries.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 42.49% (male 4,334,425/female 4,255,464)<br>
-_15-64 years_: 54.77% (male 5,529,526/female 5,541,857)<br>
-_65 years and over_: 2.74% (2023 est.) (male 250,984/female 303,773)<br>
+_0-14 years_: 42.1% (male 4,418,980/female 4,337,187)<br>
+_15-64 years_: 55.1% (male 5,726,265/female 5,736,732)<br>
+_65 years and over_: 2.8% (2024 est.) (male 262,008/female 317,944)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 81.8<br>
@@ -116,21 +118,21 @@ _elderly dependency ratio_: 3.2<br>
 _potential support ratio_: 31.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18.2 years (2023 est.)<br>
-_male_: 18 years<br>
-_female_: 18.4 years<br>
+_total_: 18.4 years (2024 est.)<br>
+_male_: 18.2 years<br>
+_female_: 18.6 years<br>
 
 **Population growth rate**<br>
-2.86% (2023 est.)<br>
+2.83% (2024 est.)<br>
 
 **Birth rate**<br>
-34.5 births/1,000 population (2023 est.)<br>
+34.1 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6 deaths/1,000 population (2023 est.)<br>
+5.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-0.2 migrant(s)/1,000 population (2023 est.)<br>
+0.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 one of the highest levels of urbanization in Africa; high density in the central area, particularly around the cities of Lusaka, Ndola, Kitwe, and Mufulira as shown in this population distribution map<br>
@@ -146,8 +148,8 @@ _rate of urbanization_: 4.15% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.83 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.82 male(s)/female<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.2 years (2018 est.)<br>
@@ -157,20 +159,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 135 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 36.3 deaths/1,000 live births (2023 est.)<br>
-_male_: 39.7 deaths/1,000 live births<br>
-_female_: 32.8 deaths/1,000 live births<br>
+_total_: 35.6 deaths/1,000 live births (2024 est.)<br>
+_male_: 38.9 deaths/1,000 live births<br>
+_female_: 32.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 66.6 years (2023 est.)<br>
-_male_: 64.9 years<br>
-_female_: 68.4 years<br>
+_total population_: 66.9 years (2024 est.)<br>
+_male_: 65.2 years<br>
+_female_: 68.7 years<br>
 
 **Total fertility rate**<br>
-4.49 children born/woman (2023 est.)<br>
+4.42 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-2.21 (2023 est.)<br>
+2.18 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 49.6% (2018)<br>
@@ -359,7 +361,7 @@ _election results_: <em><br>2021</em>: Hakainde HICHILEMA elected president; per
 **Legislative branch**<br>
 _description_: unicameral National Assembly (167 seats statutory, 166 seats current; 156 members directly elected in single-seat constituencies by simple majority vote in 2 rounds if needed, and up to 8 appointed by the president; members serve 5-year terms); 3 ex-officio members elected by National Assembly membership<br>
 _elections_: last held on 12 August 2021 (next to be held in 2026)<br>
-_election results_: percent of vote by party - UPND 53.9%, PF 38.1%, PNUP 0.6%, independent 7.4%; seats by party - UPND 82, PF 62, PNUP 1, independent 11; composition as of February 2024 - men 142, women 25, percentage women 15%<br>
+_election results_: percent of vote by party - UPND 53.9%, PF 38.1%, PNUP 0.6%, independent 7.4%; seats by party - UPND 82, PF 62, PNUP 1, independent 11; composition - men 142, women 25, percentage women 15%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice, deputy chief justice, and at least 11 judges); Constitutional Court (consists of the court president, vice president, and 11 judges); note - the Constitutional Court began operation in June 2016<br>

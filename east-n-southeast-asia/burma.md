@@ -82,7 +82,9 @@ strategic location near major Indian Ocean shipping lanes; the north-south flowi
 ## People and Society
 
 **Population**<br>
-57,970,293 (2023 est.)<br>
+_total_: 57,527,139<br>
+_male_: 28,387,831<br>
+_female_: 29,139,308 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Burmese (singular and plural)<br>
@@ -105,9 +107,9 @@ Buddhist 87.9%, Christian 6.2%, Muslim 4.3%, Animist 0.8%, Hindu 0.5%, other 0.2
 <p>Burma’s 2014 national census – the first in more than 30 years – revealed that the country’s total population is approximately 51.5 million, significantly lower than the Burmese Government’s prior estimate of 61 million.  The Burmese Government assumed that the 2% population growth rate between 1973 and 1983 remained constant and that emigration was zero, ignoring later sample surveys showing declining fertility rates and substantial labor migration abroad in recent decades.  These factors reduced the estimated average annual growth rate between 2003 and 2014 to about .9%.  Among Southeast Asian countries, Burma’s life expectancy is among the lowest and its infant and maternal mortality rates are among the highest.  The large difference in life expectancy between women and men has resulted in older age cohorts consisting of far more women than men.</p> <p>Burma’s demographic transition began in the 1950s, when mortality rates began to drop.  Fertility did not start to decrease until the 1960s, sustaining high population growth until the decline accelerated in the 1980s.  The birth rate has held fairly steady from 2000 until today.  Since the 1970s, the total fertility rate (TFR) has fallen more than 60%, from almost 6 children per woman to 2.2 in 2016.  The reduced TFR is largely a result of women marrying later and more women never marrying, both being associated with greater educational attainment and labor force participation among women.  TFR, however, varies regionally, between urban and rural areas, by educational attainment, and among ethnic groups, with fertility lowest in urban areas (where it is below replacement level).</p> <p>The shift in Burma’s age structure has been slow (45% of the population is still under 25 years of age) and uneven among its socioeconomic groups.  Any economic boost from the growth of the working-age population is likely to take longer to develop, to have a smaller impact, and to be distributed unequally.  Rural poverty and unemployment continue to drive high levels of internal and international migration.  The majority of labor migration is internal, mainly from rural to urban areas.  The new government’s growing regional integration, reforms, and improved diplomatic relations are increasing the pace of international migration and destination choices.  As many as 4-5 million Burmese, mostly from rural areas and several ethnic groups, have taken up unskilled jobs abroad in agriculture, fishing, manufacturing, and domestic service.  Thailand is the most common destination, hosting about 70% of Burma’s international migrants, followed by Malaysia, China, and Singapore. </p> <p>Burma is a patchwork of more than 130 religious and ethnic groups, distinguishing it as one of the most diverse countries in the region.  Ethnic minorities face substantial discrimination, and the Rohingya, the largest Muslim group, are arguably the most persecuted population in the country.  The Burmese Government and the Buddhist majority see the Rohingya as a threat to identity, competitors for jobs and resources, terrorists, and some still resent them for their alliance with Burma’s British colonizers during its 19th century.  Since at least the 1960s, they have been subjected to systematic human rights abuses, violence, marginalization, and disenfranchisement, which authorities continue to deny.  Despite living in Burma for centuries, many Burmese see the Rohingya as illegal Bengali immigrants and refer to them Bengalis.  As a result, the Rohingya have been classified as foreign residents and stripped of their citizenship, rendering them one of the largest stateless populations in the world.  </p> <p>Hundreds of thousands of Burmese from various ethnic groups have been internally displaced (an estimated 644,000 as of year-end 2016) or have fled to neighboring countries over the decades because of persecution, armed conflict, rural development projects, drought, and natural disasters.  Bangladesh has absorbed the most refugees from Burma, with an estimated 33,000 officially recognized and 200,000 to 500,000 unrecognized Rohingya refugees, as of 2016.  An escalation in violation has caused a surge in the inflow of Rohingya refugees since late August 2017, raising the number to an estimated 870,000.  As of June 2017, another approximately 132,500 refugees, largely Rohingya and Chin, were living in Malaysia, and more than 100,000, mostly Karen, were housed in camps along the Burma-Thailand border. </p><br>
 
 **Age structure**<br>
-_0-14 years_: 24.89% (male 7,394,557/female 7,036,651)<br>
-_15-64 years_: 68.3% (male 19,496,581/female 20,097,806)<br>
-_65 years and over_: 6.8% (2023 est.) (male 1,718,677/female 2,226,021)<br>
+_0-14 years_: 24.4% (male 7,197,177/female 6,843,879)<br>
+_15-64 years_: 68.5% (male 19,420,361/female 19,998,625)<br>
+_65 years and over_: 7.1% (2024 est.) (male 1,770,293/female 2,296,804)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 46<br>
@@ -116,21 +118,21 @@ _elderly dependency ratio_: 9.7<br>
 _potential support ratio_: 10.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30.4 years (2023 est.)<br>
-_male_: 29.5 years<br>
-_female_: 31.3 years<br>
+_total_: 30.8 years (2024 est.)<br>
+_male_: 29.9 years<br>
+_female_: 31.6 years<br>
 
 **Population growth rate**<br>
-0.73% (2023 est.)<br>
+0.71% (2024 est.)<br>
 
 **Birth rate**<br>
-16.1 births/1,000 population (2023 est.)<br>
+15.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.4 deaths/1,000 population (2023 est.)<br>
+7.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1.4 migrant(s)/1,000 population (2023 est.)<br>
+-1.4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population concentrated along coastal areas and in general proximity to the shores of the Irrawaddy River; the extreme north is relatively underpopulated<br>
@@ -147,7 +149,7 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 0.97 male(s)/female<br>
 _65 years and over_: 0.77 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2023 est.)<br>
+_total population_: 0.97 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 24.7 years (2015/16 est.)<br>
@@ -157,20 +159,20 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 179 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 33.4 deaths/1,000 live births (2023 est.)<br>
-_male_: 36.7 deaths/1,000 live births<br>
-_female_: 29.8 deaths/1,000 live births<br>
+_total_: 32.1 deaths/1,000 live births (2024 est.)<br>
+_male_: 35.4 deaths/1,000 live births<br>
+_female_: 28.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.8 years (2023 est.)<br>
-_male_: 68.1 years<br>
-_female_: 71.6 years<br>
+_total population_: 70.3 years (2024 est.)<br>
+_male_: 68.5 years<br>
+_female_: 72.1 years<br>
 
 **Total fertility rate**<br>
-2 children born/woman (2023 est.)<br>
+1.97 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.97 (2023 est.)<br>
+0.96 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 52.2% (2015/16)<br>

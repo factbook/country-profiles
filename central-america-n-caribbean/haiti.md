@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The native Taino -- who inhabited the island of Hispaniola when Christopher COLUMBUS first landed in 1492 -- were virtually wiped out by Spanish settlers within 25 years. In the early 17th century, the French established a presence on Hispaniola. In 1697, Spain ceded to the French the western third of the island, which later became Haiti. The French colony, based on forestry and sugar-related industries, became one of the wealthiest in the Caribbean but relied heavily on the forced labor of enslaved Africans and environmentally degrading practices. In the late 18th century, Toussaint L'OUVERTURE led a revolution of Haiti's nearly half a million slaves that ended France's rule on the island. After a prolonged struggle, and under the leadership of Jean-Jacques DESSALINES, Haiti became the first country in the world led by former slaves after declaring its independence in 1804, but it was forced to pay an indemnity of 100 million francs (equivalent to $22 billion USD in March 2023) to France for more than a century and was shunned by other countries for nearly 40 years. In 1862, the US officially recognized Haiti, but foreign economic influence and internal political instability induced the US to occupy Haiti from 1915 to 1934.<br><br>Francois "Papa Doc" DUVALIER and then his son Jean-Claude "Baby Doc" DUVALIER led repressive and corrupt regimes that ruled Haiti in 1957-1971 and 1971-1986, respectively. Jean-Bertrand ARISTIDE was Haiti's first democratically elected president in 1991 and was elected a second time in 2000, but coups interrupted his first term after only a few months and ended his second term in 2004. President Jovenel MOÏSE was assassinated in 2021, leading the country further into an extra-constitutional governance structure and contributing to the country’s growing fragility. The Government of Haiti then installed Ariel HENRY -- whom President MOÏSE had nominated shortly before his death -- as prime minister. <br><br>On 29 February 2024, a significant escalation of gang violence occurred on the 20th anniversary of ARISTIDE's second overthrow, after the announcement that HENRY would not hold elections until August 2025. After several days of fighting, armed gangs stormed the country’s two largest prisons in the capital and freed approximately 4,000 prisoners. HENRY’s return from an overseas trip was diverted to Puerto Rico when the airport closed due to gang violence. With control of much of the capital, Port-au-Prince, gang leaders called for the ouster of HENRY’S government. On 12 March 2024, Haiti’s continued violence, HENRY’S inability to return to the country, and increasing pressure from the international community led HENRY to pledge to resign, effective when the new transitional presidential council appoints a new interim prime minister. Since January 2023, Haiti has had no sitting elected officials.<br><br>The country has long been plagued by natural disasters. In 2010, a major 7.0 magnitude earthquake struck Haiti with an epicenter about 25 km (15 mi) west of the capital, Port-au-Prince. An estimated 300,000 people were killed, and some 1.5 million left homeless. The earthquake was assessed as the worst in this region in 200 years. A 7.2 magnitude earthquake hit Haiti’s southern peninsula in 2021, causing well over 2,000 deaths; an estimated 500,000 required emergency humanitarian aid. Haiti is the poorest country in the Western Hemisphere, as well as one of the most unequal in wealth distribution.</p><br>
+<p>The native Taino -- who inhabited the island of Hispaniola when Christopher COLUMBUS first landed in 1492 -- were virtually wiped out by Spanish settlers within 25 years. In the early 17th century, the French established a presence on Hispaniola. In 1697, Spain ceded to the French the western third of the island, which later became Haiti. The French colony, based on forestry and sugar-related industries, became one of the wealthiest in the Caribbean but relied heavily on the forced labor of enslaved Africans and environmentally degrading practices. In the late 18th century, Toussaint L'OUVERTURE led a revolution of Haiti's nearly half a million slaves that ended France's rule on the island. After a prolonged struggle, and under the leadership of Jean-Jacques DESSALINES, Haiti became the first country in the world led by former slaves after declaring its independence in 1804, but it was forced to pay an indemnity of 100 million francs (equivalent to $22 billion USD in March 2023) to France for more than a century and was shunned by other countries for nearly 40 years. In 1862, the US officially recognized Haiti, but foreign economic influence and internal political instability induced the US to occupy Haiti from 1915 to 1934.<br><br>Francois "Papa Doc" DUVALIER and then his son Jean-Claude "Baby Doc" DUVALIER led repressive and corrupt regimes that ruled Haiti in 1957-1971 and 1971-1986, respectively. Jean-Bertrand ARISTIDE was Haiti's first democratically elected president in 1991 and was elected a second time in 2000, but coups interrupted his first term after only a few months and ended his second term in 2004. President Jovenel MOÏSE was assassinated in 2021, leading the country further into an extra-constitutional governance structure and contributing to the country’s growing fragility. The Government of Haiti then installed Ariel HENRY -- whom President MOÏSE had nominated shortly before his death -- as prime minister. <br><br>On 29 February 2024, a significant escalation of gang violence occurred on the 20th anniversary of ARISTIDE's second overthrow, after the announcement that HENRY would not hold elections until August 2025. HENRY’s return from an overseas trip was diverted to Puerto Rico when the airport closed due to gang violence. With control of much of the capital, Port-au-Prince, gang leaders called for the ouster of HENRY’S government. By mid-March, Haiti’s continued violence, HENRY’S inability to return to the country, and increasing pressure from the international community led HENRY to pledge to resign. On 25 April 2024, HENRY formally submitted his resignation as a nine-member transitional presidential council assumed control, tasked with returning stability to the country and preparing elections. Since January 2023, Haiti has had no sitting elected officials.<br><br>The country has long been plagued by natural disasters. In 2010, a major 7.0 magnitude earthquake struck Haiti with an epicenter about 25 km (15 mi) west of the capital, Port-au-Prince. An estimated 300,000 people were killed, and some 1.5 million left homeless. The earthquake was assessed as the worst in this region in 200 years. A 7.2 magnitude earthquake hit Haiti’s southern peninsula in 2021, causing well over 2,000 deaths; an estimated 500,000 required emergency humanitarian aid. Haiti is the poorest country in the Western Hemisphere, as well as one of the most unequal in wealth distribution.</p><br>
 
 ## Geography
 
@@ -76,7 +76,9 @@ shares island of Hispaniola with Dominican Republic (western one-third is Haiti,
 ## People and Society
 
 **Population**<br>
-11,470,261 (2023 est.)<br>
+_total_: 11,753,943<br>
+_male_: 5,792,443<br>
+_female_: 5,961,500 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Haitian(s)<br>
@@ -94,9 +96,9 @@ Catholic 55%, Protestant 29%, Vodou 2.1%, other 4.6%, none 10% (2018 est.)<br>
 <strong>note:</strong> 50-80% of Haitians incorporate some elements of Vodou culture or practice in addition to another religion, most often Roman Catholicism; Vodou was recognized as an official religion in 2003<br>
 
 **Age structure**<br>
-_0-14 years_: 29.68% (male 1,695,357/female 1,709,344)<br>
-_15-64 years_: 65.76% (male 3,733,899/female 3,808,453)<br>
-_65 years and over_: 4.56% (2023 est.) (male 228,800/female 294,408)<br>
+_0-14 years_: 30.5% (male 1,790,061/female 1,794,210)<br>
+_15-64 years_: 65.3% (male 3,787,782/female 3,887,791)<br>
+_65 years and over_: 4.2% (2024 est.) (male 214,600/female 279,499)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 58.3<br>
@@ -105,21 +107,21 @@ _elderly dependency ratio_: 7.1<br>
 _potential support ratio_: 14.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24.7 years (2023 est.)<br>
-_male_: 24.4 years<br>
-_female_: 24.9 years<br>
+_total_: 25 years (2024 est.)<br>
+_male_: 24.7 years<br>
+_female_: 25.3 years<br>
 
 **Population growth rate**<br>
-1.23% (2023 est.)<br>
+1.23% (2024 est.)<br>
 
 **Birth rate**<br>
-21.5 births/1,000 population (2023 est.)<br>
+21.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.7 deaths/1,000 population (2023 est.)<br>
+7.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1.6 migrant(s)/1,000 population (2023 est.)<br>
+-1.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 fairly even distribution; largest concentrations located near coastal areas<br>
@@ -133,10 +135,10 @@ _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.01 male(s)/female<br>
-_0-14 years_: 0.99 male(s)/female<br>
-_15-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2023 est.)<br>
+_0-14 years_: 1 male(s)/female<br>
+_15-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.4 years (2016/7 est.)<br>
@@ -146,20 +148,20 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 350 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 38.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 42.4 deaths/1,000 live births<br>
-_female_: 35.1 deaths/1,000 live births<br>
+_total_: 36.8 deaths/1,000 live births (2024 est.)<br>
+_male_: 40.2 deaths/1,000 live births<br>
+_female_: 33.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 64.8 years (2023 est.)<br>
-_male_: 63 years<br>
-_female_: 66.7 years<br>
+_total population_: 65.6 years (2024 est.)<br>
+_male_: 63.8 years<br>
+_female_: 67.4 years<br>
 
 **Total fertility rate**<br>
-2.49 children born/woman (2023 est.)<br>
+2.44 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.24 (2023 est.)<br>
+1.21 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 34.3% (2016/17)<br>
@@ -326,10 +328,10 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President (vacant); note - Acting Prime Minister Ariel HENRY assumed executive responsibilities, including naming Cabinet members, following the assassination of President MO&Iuml;SE on 7 July 2021; note - on 12 March 2024, amid Haiti's escalating gang violence, Prime Minister HENRY pledged to resign effective when a transitional presidential council is installed and appoints a new interim prime minister<br>
-_head of government_: Acting Prime Minister Ariel HENRY (since 20 July 2021)<br>
+_chief of state_: President (vacant); note - former Prime Minister Ariel HENRY, who had assumed executive responsibilities following the assassination of President MO&Iuml;SE on 7 July 2021, resigned on 24 April 2024; a nine-member transitional council, equipped with presidential powers, was sworn in on 25 April 2024 and will appoint a new prime minister and cabinet<br>
+_head of government_: Interim Prime Minister Michel Patrick BOISVERT (since 25 April 2024)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president; parliament must ratify the Cabinet and Prime Minister's governing policy<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a single non-consecutive term); last election was 20 November 2016; new elections were delayed in 2022 and 2023 and have not been scheduled by Acting Prime Minister HENRY<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a single non-consecutive term); last election was 20 November 2016; new elections were delayed in 2022 and 2023 and have not been scheduled by the transitional presidential council<br>
 _election results_: <br><em>2016:</em> Jovenel MOÏSE elected president in first round; percent of vote - Jovenel MOÏSE (PHTK) 55.6%, Jude CELESTIN (LAPEH) 19.6%, Jean-Charles MOÏSE (PPD) 11%, Maryse NARCISSE (FL) 9%; other 4.8%<br><br><em>2011:</em> Michel MARTELLY elected president in second round; percent of vote in second round - Michel MARTELLY (Peasant's Response) 68%, Mirlande MANIGAT (RDNP) 32%<br>
 
 **Legislative branch**<br>

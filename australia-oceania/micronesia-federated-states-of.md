@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Each of the four states that compose the Federated States of Micronesia (FSM) - Chuuk, Kosrae, Pohnpei, and Yap - has its own unique history and cultural traditions. The first humans arrived in what is now the FSM in the second millennium B.C. In the 800s A.D., construction of the artificial islets at the Nan Madol complex in Pohnpei began, with the main architecture being built around 1200. At its height, Nan Madol united the approximately 25,000 people of Pohnpei under the Saudeleur Dynasty. Around the same time, Kosrae was united in a kingdom centered in Leluh by 1250. Yap’s society became strictly hierarchical, with chiefs receiving tributes from islands up to 1,100 km (700 mi) away. Widespread human settlement in Chuuk began in the 1300s, and the different islands in the Chuuk Lagoon were frequently at war with one another.</p> <p>Portuguese and Spanish explorers visited a few of the islands in the 1500s and Spain began exerting nominal, but not day-to-day, control over some of the islands - which they named the Caroline Islands - in the 1600s. Christian missionaries arrived in the 1800s, in particular to Chuuk and Kosrae. By the 1870s, nearly every Kosraean had converted to Christianity and religion continues to play an important role in daily life on the island. In 1899, Spain sold all of the FSM to Germany. Japan seized the islands in 1914 and was granted a League of Nations mandate to administer them in 1920. The Japanese navy built bases across most of the islands and headquartered their Pacific naval operations in Chuuk. The US bombed Chuuk in 1944, but largely bypassed the islands in its leapfrog campaign across the Pacific. The US military largely bypassed the other islands in its leapfrog campaign across the Pacific.</p> <p>The FSM came under US administration as part of the Trust Territory of the Pacific Islands in 1947, which comprised six districts: Chuuk, the Marshall Islands, the Northern Mariana Islands, Palau, Pohnpei, and Yap; Kosrae was separated from Pohnpei into a separate district in 1977. In 1979, Chuuk, Kosrae, Pohnpei, and Yap ratified the FSM Constitution and declared independence while the other three districts opted to pursue separate political statuses. In 1982, the FSM signed a Compact of Free Association (COFA) with the US, which granted the FSM financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986 and its funding was renewed in 2003. There are significant inter-island rivalries stemming from their different histories and cultures. Chuuk, the most populous but poorest state, has pushed for secession, but an independence referendum has been repeatedly postponed and may not be held.<br><br>Eligible Micronesians can live, work, and study in any part of the US and its territories without a visa - this privilege reduces stresses on the island economy and the environment. Micronesians serve in the US armed forces and military recruiting from the FSM, per capita, is higher than many US states.</p><br>
+<p>Each of the four states that compose the Federated States of Micronesia (FSM) -- Chuuk, Kosrae, Pohnpei, and Yap -- has its own unique history and cultural traditions. The first humans arrived in what is now the FSM in the second millennium B.C. In the 800s A.D., construction of the artificial islets at the Nan Madol complex in Pohnpei began, with the main architecture being built around 1200. At its height, Nan Madol united the approximately 25,000 people of Pohnpei under the Saudeleur Dynasty. By 1250, Kosrae was united in a kingdom centered in Leluh. Yap’s society became strictly hierarchical, with chiefs receiving tributes from islands up to 1,100 km (700 mi) away. Widespread human settlement in Chuuk began in the 1300s, and the different islands in the Chuuk Lagoon were frequently at war with one another.</p> <p>Portuguese and Spanish explorers visited a few of the islands in the 1500s, and Spain began exerting nominal, but not day-to-day, control over some of the islands -- which they named the Caroline Islands -- in the 1600s. Christian missionaries arrived in the 1800s, in particular to Chuuk and Kosrae. By the 1870s, nearly every Kosraean had converted to Christianity, and religion continues to play an important role in daily life on the island. In 1899, Spain sold all of the FSM to Germany. Japan seized the islands in 1914 and was granted a League of Nations mandate to administer them in 1920. The Japanese navy built bases across most of the islands and headquartered their Pacific naval operations in Chuuk. The US bombed Chuuk in 1944 but largely bypassed the other islands in its leapfrog campaign across the Pacific. </p> <p>In 1947, the FSM came under US administration as part of the Trust Territory of the Pacific Islands, which comprised six districts: Chuuk, the Marshall Islands, the Northern Mariana Islands, Palau, Pohnpei, and Yap; Kosrae was separated from Pohnpei into a separate district in 1977. In 1979, Chuuk, Kosrae, Pohnpei, and Yap ratified the FSM Constitution and declared independence while the other three districts opted to pursue separate political status. In 1982, the FSM signed a Compact of Free Association (COFA) with the US, which granted the FSM financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986, and its funding was renewed in 2003. There are significant inter-island rivalries stemming from their different histories and cultures. Chuuk, the most populous but poorest state, has pushed for secession, but an independence referendum has been repeatedly postponed and may not be held.<br><br>Eligible Micronesians can live, work, and study in any part of the US and its territories without a visa -- this privilege reduces stresses on the island economy. Micronesians serve in the US armed forces, and military recruiting from the FSM, per capita, is higher than many US states.</p><br>
 
 ## Geography
 
@@ -73,7 +73,9 @@ composed of four major island groups totaling 607 islands<br>
 ## People and Society
 
 **Population**<br>
-100,319 (2023 est.)<br>
+_total_: 99,603<br>
+_male_: 48,708<br>
+_female_: 50,895 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Micronesian(s)<br>
@@ -89,9 +91,9 @@ English (official and common language), Chuukese, Kosrean, Pohnpeian, Yapese, Ul
 Roman Catholic 54.7%, Protestant 41.1% (includes Congregational 38.5%, Baptist 1.1%, Seventh Day Adventist 0.8%, Assembly of God 0.7%), Church of Jesus Christ 1.5%, other 1.9%, none 0.7%, unspecified 0.1% (2010 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 27.41% (male 13,968/female 13,527)<br>
-_15-64 years_: 67.13% (male 32,721/female 34,627)<br>
-_65 years and over_: 5.46% (2023 est.) (male 2,433/female 3,043)<br>
+_0-14 years_: 27% (male 13,673/female 13,239)<br>
+_15-64 years_: 67.3% (male 32,527/female 34,487)<br>
+_65 years and over_: 5.7% (2024 est.) (male 2,508/female 3,169)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.7<br>
@@ -100,21 +102,21 @@ _elderly dependency ratio_: 9.3<br>
 _potential support ratio_: 10.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 27.8 years (2023 est.)<br>
-_male_: 26.9 years<br>
-_female_: 28.6 years<br>
+_total_: 28.2 years (2024 est.)<br>
+_male_: 27.3 years<br>
+_female_: 29.1 years<br>
 
 **Population growth rate**<br>
--0.7% (2023 est.)<br>
+-0.73% (2024 est.)<br>
 
 **Birth rate**<br>
-18.1 births/1,000 population (2023 est.)<br>
+17.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-4.2 deaths/1,000 population (2023 est.)<br>
+4.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--20.9 migrant(s)/1,000 population (2023 est.)<br>
+-21 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the majority of the populaton lives in the coastal areas of the high islands; the mountainous interior is largely uninhabited; less than half of the population lives in urban areas<br>
@@ -130,27 +132,27 @@ _rate of urbanization_: 1.52% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.8 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.79 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 74 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 21.4 deaths/1,000 live births (2023 est.)<br>
-_male_: 24.4 deaths/1,000 live births<br>
-_female_: 18.2 deaths/1,000 live births<br>
+_total_: 20.9 deaths/1,000 live births (2024 est.)<br>
+_male_: 23.8 deaths/1,000 live births<br>
+_female_: 17.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.7 years (2023 est.)<br>
-_male_: 72.6 years<br>
-_female_: 76.9 years<br>
+_total population_: 75 years (2024 est.)<br>
+_male_: 72.9 years<br>
+_female_: 77.2 years<br>
 
 **Total fertility rate**<br>
-2.22 children born/woman (2023 est.)<br>
+2.19 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.08 (2023 est.)<br>
+1.07 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

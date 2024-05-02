@@ -82,7 +82,9 @@ landlocked; the Hindu Kush mountains that run northeast to southwest divide the 
 ## People and Society
 
 **Population**<br>
-39,232,003 (2023 est.)<br>
+_total_: 40,121,552<br>
+_male_: 20,301,066<br>
+_female_: 19,820,486 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Afghan(s)<br>
@@ -100,9 +102,9 @@ _major-language sample(s)_: <br> <p>کتاب حقایق جهان، مرجعی ض
 Muslim 99.7% (Sunni 84.7 - 89.7%, Shia 10 - 15%), other &lt;0.3% (2009 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 39.8% (male 7,926,748/female 7,686,979)<br>
-_15-64 years_: 57.35% (male 11,413,654/female 11,084,665)<br>
-_65 years and over_: 2.85% (2023 est.) (male 515,147/female 604,810)<br>
+_0-14 years_: 39.6% (male 8,062,407/female 7,818,897)<br>
+_15-64 years_: 57.5% (male 11,702,734/female 11,372,249)<br>
+_65 years and over_: 2.9% (2024 est.) (male 535,925/female 629,340)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 84.6<br>
@@ -111,21 +113,21 @@ _elderly dependency ratio_: 4.8<br>
 _potential support ratio_: 22.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.9 years (2023 est.)<br>
-_male_: 19.8 years<br>
-_female_: 20 years<br>
+_total_: 20 years (2024 est.)<br>
+_male_: 20 years<br>
+_female_: 20.1 years<br>
 
 **Population growth rate**<br>
-2.26% (2023 est.)<br>
+2.22% (2024 est.)<br>
 
 **Birth rate**<br>
-34.8 births/1,000 population (2023 est.)<br>
+34.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-12.1 deaths/1,000 population (2023 est.)<br>
+11.8 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.1 migrant(s)/1,000 population (2023 est.)<br>
+-0.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 populations tend to cluster in the foothills and periphery of the rugged Hindu Kush range; smaller groups are found in many of the country's interior valleys; in general, the east is more densely settled, while the south is sparsely populated<br>
@@ -142,7 +144,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-64 years_: 1.03 male(s)/female<br>
 _65 years and over_: 0.85 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2023 est.)<br>
+_total population_: 1.02 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.9 years (2015 est.)<br>
@@ -152,20 +154,20 @@ _total population_: 1.03 male(s)/female (2023 est.)<br>
 620 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 103.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 111.5 deaths/1,000 live births<br>
-_female_: 94.2 deaths/1,000 live births<br>
+_total_: 101.3 deaths/1,000 live births (2024 est.)<br>
+_male_: 109.7 deaths/1,000 live births<br>
+_female_: 92.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 54.1 years (2023 est.)<br>
-_male_: 52.5 years<br>
-_female_: 55.7 years<br>
+_total population_: 54.4 years (2024 est.)<br>
+_male_: 52.8 years<br>
+_female_: 56.1 years<br>
 
 **Total fertility rate**<br>
-4.53 children born/woman (2023 est.)<br>
+4.43 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-2.21 (2023 est.)<br>
+2.16 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 18.9% (2018)<br>
@@ -174,7 +176,7 @@ _female_: 55.7 years<br>
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 68.3% of population<br>
-_improved: total_: total: 76.5% of population 70.2%<br>
+_improved: total_: total: 76.5% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 31.7% of population<br>
 _unimproved: total_: total: 23.5% of population (2020 est.)<br>

@@ -74,29 +74,31 @@ strategic location between Greenland and Europe; westernmost European country; R
 ## People and Society
 
 **Population**<br>
-360,872 (2023 est.)<br>
+_total_: 364,036<br>
+_male_: 182,268<br>
+_female_: 181,768 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Icelander(s)<br>
 _adjective_: Icelandic<br>
 
 **Ethnic groups**<br>
-Icelandic 81.3%, Polish 5.6%, Danish 1%, other 12.1% (2021 est.)<br>
+Icelandic 78.7%, Polish 5.8%, Danish 1%, Ukrainian 1%, other 13.5% (2024 est.)<br>
 <strong>note</strong>: data represent population by country of birth<br>
 
 **Languages**<br>
-Icelandic, English, Nordic languages, German<br>
+Icelandic, English, Polish, Nordic languages, German<br>
 
 **Religions**<br>
-Evangelical Lutheran Church of Iceland (official) 62.3%, Roman Catholic 4%, Independent Congregation of Reykjavik 2.7%, Independent Congregation of Hafnarfjordur 2%, pagan worship 1.4%, Icelandic Ethical Humanist Association 1.1%, other (includes Zuist and Pentecostal) or unspecified 19%, none 7.6% (2021 est.)<br>
+Evangelical Lutheran Church of Iceland (official) 58.6% Roman Catholic 3.8%, Independent Congregation of Reykjavik 2.6%, Independent Congregation of Hafnarfjordur 1.9%, pagan worship 1.5%, Icelandic Ethical Humanist Association 1.4%, other (includes Zuist and Pentecostal) or unspecified 18.7%, none 7.7% (2024 est.)<br>
 
 **Demographic profile**<br>
 <p>Iceland is one of the most gender-equal countries in the world.  Its welfare policies enable both men and women to balance work and family life.  Iceland lagged its Nordic neighbors in introducing new childcare policies, and even when they did in the 1990s, parents still faced a childcare gap between the paid parental leave period and the start of pre-school. The female labor participation rate continued to grow from the 1960s to the 2000s, as women’s educational attainment increased.  Icelanders are marrying later, if they marry at all, and people are having children later.  The interval between births has decreased. Non-marital cohabitation and childbearing outside of marriage are common. Approximately 2 out of 3 children are born out of wedlock, which is among the highest in Europe.  Iceland’s total fertility rate (TFR) has been fairly stable, hovering around replacement level (2.1 children per woman), for decades – a rate higher even than its Nordic neighbors. </p> <p>Iceland has fluctuated over time between being a country of net emigration and one of net immigration.  Most Icelandic emigrants return to their native country after a few years.  From 1960 to 1996, Iceland registered a net outflow, followed by a net inflow until the 2008 banking crisis. During and after the crisis, more Icelanders left the country than immigrated to it.  Following the crisis, Iceland returned to being a country of net immigration.  In 2017, the country’s foreign-born population accounted for 11% of the population and 17% had an immigrant background.  The countries of origin have become more diverse over time, with Polish immigrants composing the largest share in 2017. Foreigners acquiring Icelandic citizenship must have a basic comprehension of the Icelandic language.  The requirement that new citizens modify or change their names to be more Icelandic was dropped in 1996.  The most popular emigration destination was Sweden, followed by Denmark and Norway in 2021.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 19.98% (male 36,771/female 35,314)<br>
-_15-64 years_: 63.39% (male 115,547/female 113,212)<br>
-_65 years and over_: 16.63% (2023 est.) (male 28,410/female 31,618)<br>
+_0-14 years_: 19.8% (male 36,692/female 35,239)<br>
+_15-64 years_: 63.2% (male 116,210/female 113,810)<br>
+_65 years and over_: 17.1% (2024 est.) (male 29,366/female 32,719)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.5<br>
@@ -105,21 +107,21 @@ _elderly dependency ratio_: 22.5<br>
 _potential support ratio_: 4.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 37.8 years (2023 est.)<br>
-_male_: 37.2 years<br>
-_female_: 38.4 years<br>
+_total_: 38 years (2024 est.)<br>
+_male_: 37.4 years<br>
+_female_: 38.6 years<br>
 
 **Population growth rate**<br>
-0.89% (2023 est.)<br>
+0.85% (2024 est.)<br>
 
 **Birth rate**<br>
-12.8 births/1,000 population (2023 est.)<br>
+12.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.6 deaths/1,000 population (2023 est.)<br>
+6.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-2.7 migrant(s)/1,000 population (2023 est.)<br>
+2.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 Iceland is almost entirely urban with half of the population located in and around the capital of Reykjavik; smaller clusters are primarily found along the coast in the north and west<br>
@@ -136,7 +138,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 1.02 male(s)/female<br>
 _65 years and over_: 0.9 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.7 years (2020 est.)<br>
@@ -145,20 +147,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.6 deaths/1,000 live births (2023 est.)<br>
+_total_: 1.6 deaths/1,000 live births (2024 est.)<br>
 _male_: 1.8 deaths/1,000 live births<br>
 _female_: 1.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.8 years (2023 est.)<br>
-_male_: 81.6 years<br>
-_female_: 86.2 years<br>
+_total population_: 84 years (2024 est.)<br>
+_male_: 81.8 years<br>
+_female_: 86.3 years<br>
 
 **Total fertility rate**<br>
-1.95 children born/woman (2023 est.)<br>
+1.94 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.95 (2023 est.)<br>
+0.95 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

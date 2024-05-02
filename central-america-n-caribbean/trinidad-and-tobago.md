@@ -76,7 +76,9 @@ Pitch Lake, on Trinidad's southwestern coast, is the world's largest natural res
 ## People and Society
 
 **Population**<br>
-1,407,460 (2023 est.)<br>
+_total_: 1,408,966<br>
+_male_: 708,260<br>
+_female_: 700,706 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Trinidadian(s), Tobagonian(s)<br>
@@ -93,9 +95,9 @@ English (official), Trinidadian Creole English, Tobagonian Creole English, Carib
 Protestant 32.1% (Pentecostal/Evangelical/Full Gospel 12%, Baptist 6.9%, Anglican 5.7%, Seventh Day Adventist 4.1%, Presbyterian/Congregational 2.5%, other Protestant 0.9%), Roman Catholic 21.6%, Hindu 18.2%, Muslim 5%, Jehovah's Witness 1.5%, other 8.4%, none 2.2%, unspecified 11.1% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 19.04% (male 136,733/female 131,316)<br>
-_15-64 years_: 67.4% (male 482,427/female 466,200)<br>
-_65 years and over_: 13.56% (2023 est.) (male 88,531/female 102,253)<br>
+_0-14 years_: 18.7% (male 134,508/female 129,180)<br>
+_15-64 years_: 67.2% (male 481,606/female 465,150)<br>
+_65 years and over_: 14.1% (2024 est.) (male 92,146/female 106,376)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.7<br>
@@ -104,21 +106,21 @@ _elderly dependency ratio_: 16.8<br>
 _potential support ratio_: 7.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 38 years (2023 est.)<br>
-_male_: 37.5 years<br>
-_female_: 38.4 years<br>
+_total_: 38.5 years (2024 est.)<br>
+_male_: 38 years<br>
+_female_: 39 years<br>
 
 **Population growth rate**<br>
-0.12% (2023 est.)<br>
+0.1% (2024 est.)<br>
 
 **Birth rate**<br>
-10.6 births/1,000 population (2023 est.)<br>
+10.5 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8.5 deaths/1,000 population (2023 est.)<br>
+8.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1 migrant(s)/1,000 population (2023 est.)<br>
+-0.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population on Trinidad is concentrated in the western half of the island, on Tobago in the southern half<br>
@@ -133,28 +135,28 @@ _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-64 years_: 1.03 male(s)/female<br>
+_15-64 years_: 1.04 male(s)/female<br>
 _65 years and over_: 0.87 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2023 est.)<br>
+_total population_: 1.01 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 27 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.4 deaths/1,000 live births (2023 est.)<br>
-_male_: 17.5 deaths/1,000 live births<br>
-_female_: 13.3 deaths/1,000 live births<br>
+_total_: 15.1 deaths/1,000 live births (2024 est.)<br>
+_male_: 17.1 deaths/1,000 live births<br>
+_female_: 13 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.2 years (2023 est.)<br>
-_male_: 74.3 years<br>
-_female_: 78.2 years<br>
+_total population_: 76.5 years (2024 est.)<br>
+_male_: 74.6 years<br>
+_female_: 78.4 years<br>
 
 **Total fertility rate**<br>
-1.63 children born/woman (2023 est.)<br>
+1.63 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.8 (2023 est.)<br>
+0.8 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -644,7 +646,7 @@ the Police Service maintains internal security; the TTDF's primary responsibilit
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 35,314 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 36,218 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Trinidad and Tobago does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials implemented new standard operating procedures for victim referral and care, opened a government-funded and operated shelter for female child victims, provided the first government shelters for adult victims; and increased the size of the Counter-Trafficking Unit; officials took steps to prevent trafficking among vulnerable populations, including migrants, Cuban medical workers, and Venezuelan refugees and migrants; however, the government did not demonstrate overall increasing efforts, compared to the previous year, to expand its anti-trafficking capacity; courts have never convicted a trafficker under the 2011 anti-trafficking law, and corruption and complicity among officials, including at senior levels, inhibited law enforcement action; victim identification, referral, and services remained weak, and interagency coordination was poor; because the government has devoted significant resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards, Trinidad and Tobago was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3; therefore, Trinidad and Tobago remained on Tier 2 Watch List for the third consecutive year (2023)<br>

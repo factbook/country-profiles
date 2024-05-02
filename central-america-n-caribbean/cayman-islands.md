@@ -73,8 +73,9 @@ important location between Cuba and Central America<br>
 ## People and Society
 
 **Population**<br>
-65,483 (2023 est.)<br>
-<strong>note:</strong> most of the population lives on Grand Cayman<br>
+_total_: 66,653<br>
+_male_: 32,379<br>
+_female_: 34,274 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Caymanian(s)<br>
@@ -92,9 +93,9 @@ English (official) 88.8%, Spanish 3.9%, Filipino 3.8%, other 2.8%, unspecified 0
 Protestant 60.8% (includes Church of God 19.5%, Seventh Day Adventist 8.7%, non-denominational 8.3%, Baptist 6.9%, Pentecostal 6.8%, Presbyterian/United Church 5.7%, Anglican 2.8%, Wesleyan Holiness 1.5%, Methodist 0.5%), Roman Catholic 13.6%, Hindu 1.7%, Jehovah's Witness 0.9%, other 4.8%, none 16.7%, unspecified 1.4% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 17.48% (male 5,761/female 5,684)<br>
-_15-64 years_: 66.48% (male 21,271/female 22,261)<br>
-_65 years and over_: 16.04% (2023 est.) (male 4,792/female 5,714)<br>
+_0-14 years_: 17.4% (male 5,845/female 5,767)<br>
+_15-64 years_: 65.9% (male 21,480/female 22,456)<br>
+_65 years and over_: 16.7% (2024 est.) (male 5,054/female 6,051)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 32.6<br>
@@ -103,22 +104,21 @@ _elderly dependency ratio_: 10.4<br>
 _potential support ratio_: 9.6 (2021)<br>
 
 **Median age**<br>
-_total_: 41 years (2023 est.)<br>
-_male_: 40.2 years<br>
-_female_: 41.8 years<br>
+_total_: 41.2 years (2024 est.)<br>
+_male_: 40.3 years<br>
+_female_: 42 years<br>
 
 **Population growth rate**<br>
-1.79% (2023 est.)<br>
+1.75% (2024 est.)<br>
 
 **Birth rate**<br>
-11.6 births/1,000 population (2023 est.)<br>
+11.5 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-6.1 deaths/1,000 population (2023 est.)<br>
+6.1 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-12.3 migrant(s)/1,000 population (2023 est.)<br>
-<strong>note:</strong> major destination for Cubans trying to migrate to the US<br>
+12.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 majority of the population resides on Grand Cayman<br>
@@ -135,23 +135,23 @@ _at birth_: 1.02 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-64 years_: 0.96 male(s)/female<br>
 _65 years and over_: 0.84 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.5 deaths/1,000 live births (2023 est.)<br>
-_male_: 9 deaths/1,000 live births<br>
-_female_: 5.9 deaths/1,000 live births<br>
+_total_: 7.3 deaths/1,000 live births (2024 est.)<br>
+_male_: 8.8 deaths/1,000 live births<br>
+_female_: 5.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.3 years (2023 est.)<br>
-_male_: 79.6 years<br>
-_female_: 85 years<br>
+_total population_: 82.5 years (2024 est.)<br>
+_male_: 79.8 years<br>
+_female_: 85.2 years<br>
 
 **Total fertility rate**<br>
-1.82 children born/woman (2023 est.)<br>
+1.82 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.9 (2023 est.)<br>
+0.9 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

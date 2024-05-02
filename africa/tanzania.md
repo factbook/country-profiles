@@ -85,7 +85,9 @@ Kilimanjaro is the highest point in Africa and one of only three mountain ranges
 ## People and Society
 
 **Population**<br>
-65,642,682 (2023 est.)<br>
+_total_: 67,462,121<br>
+_male_: 33,691,904<br>
+_female_: 33,770,217 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Tanzanian(s)<br>
@@ -106,9 +108,9 @@ Christian 63.1%, Muslim 34.1%, folk religion 1.1%, Buddhist &lt;1%, Hindu &lt;1%
 <p>Tanzania has the largest population in East Africa and the lowest population density; more than a third of the population is urban. Tanzania’s youthful population – over 60% of the population is under 25 as of 2020 – is growing rapidly because of the high total fertility rate of 4.4 children per woman, as of 2022. Progress in reducing the birth rate has stalled, sustaining the country’s nearly 3% annual growth rate. The maternal mortality rate has improved since 2000, yet it remains very high because of early and frequent pregnancies, inadequate maternal health services, and a lack of skilled birth attendants – problems that are worse among poor and rural women. Tanzania has made strides in reducing under-5 and infant mortality rates, but a recent drop in immunization threatens to undermine gains in child health. Malaria is a leading killer of children under 5, while HIV is the main source of adult mortality.</p> <p>For Tanzania, most migration is internal, rural to urban movement, while some temporary labor migration from towns to plantations takes place seasonally for harvests. Tanzania was Africa’s largest refugee-hosting country for decades, hosting hundreds of thousands of refugees from the Great Lakes region, primarily Burundi, over the last fifty years. However, the assisted repatriation and naturalization of tens of thousands of Burundian refugees between 2002 and 2014 dramatically reduced the refugee population. Tanzania is increasingly a transit country for illegal migrants from the Horn of Africa and the Great Lakes region who are heading to southern Africa for security reasons and/or economic opportunities. Some of these migrants choose to settle in Tanzania.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 41.5% (male 13,765,789/female 13,475,555)<br>
-_15-64 years_: 55.15% (male 18,076,988/female 18,123,677)<br>
-_65 years and over_: 3.35% (2023 est.) (male 933,786/female 1,266,887)<br>
+_0-14 years_: 41.2% (male 14,039,292/female 13,740,439)<br>
+_15-64 years_: 55.4% (male 18,677,388/female 18,708,390)<br>
+_65 years and over_: 3.4% (2024 est.) (male 975,224/female 1,321,388)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 87.7<br>
@@ -117,21 +119,21 @@ _elderly dependency ratio_: 5.9<br>
 _potential support ratio_: 20.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18.9 years (2023 est.)<br>
-_male_: 18.7 years<br>
-_female_: 19.2 years<br>
+_total_: 19.1 years (2024 est.)<br>
+_male_: 18.8 years<br>
+_female_: 19.4 years<br>
 
 **Population growth rate**<br>
-2.75% (2023 est.)<br>
+2.72% (2024 est.)<br>
 
 **Birth rate**<br>
-32.9 births/1,000 population (2023 est.)<br>
+32.5 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5 deaths/1,000 population (2023 est.)<br>
+5 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.4 migrant(s)/1,000 population (2023 est.)<br>
+-0.4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast as shown in this population distribution map<br>
@@ -148,7 +150,7 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
 _65 years and over_: 0.74 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.9 years (2022 est.)<br>
@@ -158,20 +160,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 238 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 30.3 deaths/1,000 live births (2023 est.)<br>
-_male_: 33 deaths/1,000 live births<br>
-_female_: 27.4 deaths/1,000 live births<br>
+_total_: 29.6 deaths/1,000 live births (2024 est.)<br>
+_male_: 32.3 deaths/1,000 live births<br>
+_female_: 26.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.5 years (2023 est.)<br>
-_male_: 68.7 years<br>
-_female_: 72.3 years<br>
+_total population_: 70.8 years (2024 est.)<br>
+_male_: 69 years<br>
+_female_: 72.6 years<br>
 
 **Total fertility rate**<br>
-4.33 children born/woman (2023 est.)<br>
+4.27 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-2.13 (2023 est.)<br>
+2.1 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 38.4% (2015/16)<br>
@@ -730,7 +732,7 @@ the TPDF's inventory includes mostly Soviet-era and Chinese equipment; in recent
 18-25 years of age for voluntary military service for men and women; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2023)<br>
 
 **Military deployments**<br>
-520 Central African Republic (MINUSCA); 850 Democratic Republic of the Congo (MONUSCO; note - the MONUSCO mission is in the process of drawing down forces); 125 Lebanon (UNIFIL) (2024)<br>
+520 Central African Republic (MINUSCA); 850 Democratic Republic of the Congo (MONUSCO; note - the MONUSCO mission is in the process of drawing down forces); 125 Lebanon (UNIFIL); approximately 300 Mozambique (under bi-lateral agreement to assist with combatting an insurgency) (2024)<br>
 
 **Military - note**<br>
 the TDPF&rsquo;s primary concerns are maritime piracy and smuggling, border security, terrorism, animal poaching, and spillover from instability in neighboring countries, particularly Mozambique and the Democratic Republic of the Congo (DRC); it participates in multinational training exercises, regional peacekeeping deployments, and has ties with a variety of foreign militaries, including those of China and the US; it has contributed troops to the UN&rsquo;s Force Intervention Brigade in the DRC and to the Southern African Development Community intervention force in Mozambique; since 2020, the TPDF has deployed additional troops to its border with Mozambique following several cross-border attacks by fighters from the Islamic State of Iraq and ash-Sham operating in Mozambique; the TPDF&rsquo;s principal ground forces are five infantry brigades and an armored brigade; the Naval Forces operate patrol and fast attack boats, while the Air Force inventory includes small numbers of combat aircraft and helicopters (2023)<br>

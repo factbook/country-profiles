@@ -73,7 +73,9 @@ known as "The Nature Island of the Caribbean" due to its spectacular, lush, and 
 ## People and Society
 
 **Population**<br>
-74,656 (2023 est.)<br>
+_total_: 74,661<br>
+_male_: 37,753<br>
+_female_: 36,908 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Dominican(s)<br>
@@ -89,9 +91,9 @@ English (official), French patois<br>
 Roman Catholic 52.7%, Protestant 29.7% (includes Seventh Day Adventist 6.7%, Pentecostal 6.1%, Baptist 5.2%, Christian Union Church 3.9%, Methodist 2.6%, Gospel Mission 2.1%, other Protestant 3.1%), Jehovah's Witness 1.3%, Rastafarian 1.1%, other 4.3%, none 9.4%, unspecified 1.4% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 20.82% (male 7,954/female 7,592)<br>
-_15-64 years_: 65.82% (male 25,085/female 24,053)<br>
-_65 years and over_: 13.36% (2023 est.) (male 4,712/female 5,260)<br>
+_0-14 years_: 20.7% (male 7,891/female 7,530)<br>
+_15-64 years_: 65.6% (male 25,000/female 24,009)<br>
+_65 years and over_: 13.7% (2024 est.) (male 4,862/female 5,369)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 41.2<br>
@@ -100,21 +102,21 @@ _elderly dependency ratio_: 13.2<br>
 _potential support ratio_: 7.6 (2021)<br>
 
 **Median age**<br>
-_total_: 36.5 years (2023 est.)<br>
-_male_: 36 years<br>
-_female_: 37.1 years<br>
+_total_: 37 years (2024 est.)<br>
+_male_: 36.5 years<br>
+_female_: 37.6 years<br>
 
 **Population growth rate**<br>
-0.02% (2023 est.)<br>
+-0.01% (2024 est.)<br>
 
 **Birth rate**<br>
-13.6 births/1,000 population (2023 est.)<br>
+13.3 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-8.1 deaths/1,000 population (2023 est.)<br>
+8.1 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--5.3 migrant(s)/1,000 population (2023 est.)<br>
+-5.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population is mosly clustered along the coast, with roughly a third living in the parish of St. George, in or around the capital of Roseau; the volcanic interior is sparsely populated<br>
@@ -130,24 +132,24 @@ _rate of urbanization_: 0.84% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 1.04 male(s)/female<br>
-_65 years and over_: 0.9 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.91 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11 deaths/1,000 live births (2023 est.)<br>
-_male_: 14.9 deaths/1,000 live births<br>
-_female_: 6.9 deaths/1,000 live births<br>
+_total_: 10.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 14.5 deaths/1,000 live births<br>
+_female_: 6.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.5 years (2023 est.)<br>
-_male_: 75.5 years<br>
-_female_: 81.5 years<br>
+_total population_: 78.7 years (2024 est.)<br>
+_male_: 75.8 years<br>
+_female_: 81.8 years<br>
 
 **Total fertility rate**<br>
-2.01 children born/woman (2023 est.)<br>
+2.01 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.98 (2023 est.)<br>
+0.98 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

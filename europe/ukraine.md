@@ -82,7 +82,9 @@ strategic position at the crossroads between Europe and Asia; second-largest cou
 ## People and Society
 
 **Population**<br>
-43,306,477 (2023 est.)<br>
+_total_: 35,661,826<br>
+_male_: 17,510,149<br>
+_female_: 18,151,677 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Ukrainian(s)<br>
@@ -100,9 +102,9 @@ Orthodox (includes the Orthodox Church of Ukraine (OCU), Ukrainian Autocephalous
 <strong>note:</strong> Ukraine's population is overwhelmingly Christian; the vast majority - up to two thirds - identify themselves as Orthodox, but many do not specify a particular branch; the OCU and the UOC-MP each represent less than a quarter of the country's population, the Ukrainian Greek Catholic Church accounts for 8-10%, and the UAOC accounts for 1-2%; Muslim and Jewish adherents each compose less than 1% of the total population<br>
 
 **Age structure**<br>
-_0-14 years_: 15.9% (male 3,549,814/female 3,334,617)<br>
-_15-64 years_: 65.95% (male 13,856,470/female 14,705,547)<br>
-_65 years and over_: 18.15% (2023 est.) (male 2,680,500/female 5,179,529)<br>
+_0-14 years_: 12.3% (male 2,278,116/female 2,122,500)<br>
+_15-64 years_: 67.8% (male 12,784,928/female 11,376,460)<br>
+_65 years and over_: 19.9% (2024 est.) (male 2,447,105/female 4,652,717)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 48.4<br>
@@ -112,21 +114,21 @@ _potential support ratio_: 3.9 (2021 est.)<br>
 <strong>note:</strong> data include Crimea<br>
 
 **Median age**<br>
-_total_: 45.3 years (2023 est.)<br>
-_male_: 41.3 years<br>
-_female_: 50 years<br>
+_total_: 44.9 years (2024 est.)<br>
+_male_: 41.4 years<br>
+_female_: 49.2 years<br>
 
 **Population growth rate**<br>
-2.33% (2023 est.)<br>
+2.38% (2024 est.)<br>
 
 **Birth rate**<br>
-5.8 births/1,000 population (2023 est.)<br>
+6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-19.8 deaths/1,000 population (2023 est.)<br>
+18.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-37.3 migrant(s)/1,000 population (2023 est.)<br>
+36.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 densest settlement in the eastern (Donbas) and western regions; noteable concentrations in and around major urban areas of Kyiv, Kharkiv, Donets'k, Dnipropetrovs'k, and Odesa<br>
@@ -140,10 +142,10 @@ _rate of urbanization_: -0.27% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.52 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_0-14 years_: 1.07 male(s)/female<br>
+_15-64 years_: 1.12 male(s)/female<br>
+_65 years and over_: 0.53 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.2 years (2019 est.)<br>
@@ -152,20 +154,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 17 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9 deaths/1,000 live births (2023 est.)<br>
-_male_: 10.1 deaths/1,000 live births<br>
-_female_: 7.9 deaths/1,000 live births<br>
+_total_: 8.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 9.7 deaths/1,000 live births<br>
+_female_: 7.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.8 years (2023 est.)<br>
-_male_: 64.5 years<br>
-_female_: 75.4 years<br>
+_total population_: 70.5 years (2024 est.)<br>
+_male_: 65.4 years<br>
+_female_: 75.8 years<br>
 
 **Total fertility rate**<br>
-1.22 children born/woman (2023 est.)<br>
+1.22 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.59 (2023 est.)<br>
+0.59 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 65.4% (2012)<br>

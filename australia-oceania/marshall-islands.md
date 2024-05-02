@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-Humans arrived in the Marshall Islands in the first millennium B.C. and gradually created permanent settlements on the various atolls. The early inhabitants were skilled navigators who frequently traveled between atolls using stick charts to map the islands. Society became organized under two paramount chiefs, one each for the Ratak (Sunrise) Chain and the Ralik (Sunset) Chain. The traditional hierarchy continued even after contact with Europeans in the early 1500s. Spain formally claimed the islands in 1592, but few other Europeans passed by the islands in the next two centuries. In 1788, British sea captain John MARSHALL undertook an exploratory voyage, and the islands were mapped in the early 1800s by Russian explorers. In the 1850s, US Protestant missionaries began arriving on the islands. Germany established a supply station on Jaluit Atoll and bought the islands from Spain in 1884, although paramount chiefs continued to rule.<br><br>Japan seized the Marshall Islands in 1914 and was granted a League of Nations Mandate to administer the islands in 1920. Japan built large military bases throughout the Marshall Islands, and during World War II, the US captured the bases on Kwajalein, Enewetak, and Majuro Atolls. The Marshall Islands came under US administration as part of the Trust Territory of the Pacific Islands (TTPI) in 1947. Between 1946 and 1958, the US resettled populations from Bikini and Enewetak Atolls and conducted 67 nuclear tests; people from Ailinginae, Rongelap, and Utrik Atolls were also evacuated because of nuclear fallout, and Bikini and Rongelap remain largely uninhabited. In 1979, the Marshall Islands drafted a constitution separate from the rest of the TTPI and declared independence under President Amata KABUA, a paramount chief. In 2000, Kessai NOTE became the first commoner elected president. In 2016, Hilda HEINE was the first woman elected president.<br><br>In 1982, the Marshall Islands signed a Compact of Free Association (COFA) with the US, which granted the Marshall Islands financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986 and its funding was renewed in 2003. The Marshall Islands hosts the US Army Kwajalein Atoll Reagan Missile Test Site, a key installation in the US missile defense network. Kwajalein also hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are at Cape Canaveral, Florida (US), on Ascension (Saint Helena, Ascension, and Tristan da Cunha), and at Diego Garcia (British Indian Ocean Territory)).<br>
+Humans arrived in the Marshall Islands in the first millennium B.C. and gradually created permanent settlements on the various atolls. The early inhabitants were skilled navigators who frequently traveled between atolls using stick charts to map the islands. Society became organized under two paramount chiefs, one each for the Ratak (Sunrise) Chain and the Ralik (Sunset) Chain. The traditional hierarchy continued even after contact with Europeans in the early 1500s. Spain formally claimed the islands in 1592, but few other Europeans passed by the islands in the next two centuries. In 1788, British sea captain John MARSHALL undertook an exploratory voyage, and the islands were mapped in the early 1800s by Russian explorers. In the 1850s, US Protestant missionaries began arriving on the islands. Germany established a supply station on Jaluit Atoll and bought the islands from Spain in 1884, although paramount chiefs continued to rule.<br><br>Japan seized the Marshall Islands in 1914 and was granted a League of Nations Mandate to administer the islands in 1920. Japan built large military bases throughout the Marshall Islands, and during World War II, the US captured the bases on Kwajalein, Enewetak, and Majuro Atolls. The Marshall Islands came under US administration as part of the Trust Territory of the Pacific Islands (TTPI) in 1947. Between 1946 and 1958, the US resettled populations from Bikini and Enewetak Atolls and conducted 67 nuclear tests; people from Ailinginae, Rongelap, and Utrik Atolls were also evacuated because of nuclear fallout, and Bikini and Rongelap remain largely uninhabited. In 1979, the Marshall Islands drafted a constitution separate from the rest of the TTPI and declared independence under President Amata KABUA, a paramount chief. In 2000, Kessai NOTE became the first commoner elected president. In 2016, Hilda HEINE was the first woman elected president.<br><br>In 1982, the Marshall Islands signed a Compact of Free Association (COFA) with the US, which granted the Marshall Islands financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986, and its funding was renewed in 2003. The Marshall Islands hosts the US Army Kwajalein Atoll Reagan Missile Test Site, a key installation in the US missile defense network. Kwajalein also hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system -- the others are at Cape Canaveral, Florida (US), on Ascension (British Overseas Territory), and at Diego Garcia (British Indian Ocean Territory).<br>
 
 ## Geography
 
@@ -75,7 +75,9 @@ the islands of Bikini and Enewetak are former US nuclear test sites; Kwajalein a
 ## People and Society
 
 **Population**<br>
-80,966 (2023 est.)<br>
+_total_: 82,011<br>
+_male_: 41,581<br>
+_female_: 40,430 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Marshallese (singular and plural)<br>
@@ -93,9 +95,9 @@ _major-language sample(s)_: <p><br>Bok eo an Lalin kin Melele ko Rejimwe ej jiki
 Protestant 79.3% (United Church of Christ 47.9%, Assembly of God 14.1%, Full Gospel 5%, Bukot Nan Jesus 3%, Salvation Army 2.3%, Reformed Congressional Church 2.2%, Seventh Day Adventist 1.7%, New Beginning Church 1.4%, other Protestant 1.6%), Roman Catholic 9.3%, Church of Jesus Christ 5.7%, Jehovah's Witness 1.3%, other 3.3%, none 1.1% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 30.65% (male 12,642/female 12,175)<br>
-_15-64 years_: 63.83% (male 26,237/female 25,445)<br>
-_65 years and over_: 5.52% (2023 est.) (male 2,187/female 2,280)<br>
+_0-14 years_: 30% (male 12,538/female 12,072)<br>
+_15-64 years_: 64.3% (male 26,750/female 25,944)<br>
+_65 years and over_: 5.7% (2024 est.) (male 2,293/female 2,414)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 59.9<br>
@@ -104,21 +106,21 @@ _elderly dependency ratio_: 6.8<br>
 _potential support ratio_: 14.7 (2021)<br>
 
 **Median age**<br>
-_total_: 25.1 years (2023 est.)<br>
-_male_: 25 years<br>
-_female_: 25.2 years<br>
+_total_: 25.5 years (2024 est.)<br>
+_male_: 25.4 years<br>
+_female_: 25.6 years<br>
 
 **Population growth rate**<br>
-1.3% (2023 est.)<br>
+1.26% (2024 est.)<br>
 
 **Birth rate**<br>
-21.6 births/1,000 population (2023 est.)<br>
+21.2 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-4.3 deaths/1,000 population (2023 est.)<br>
+4.3 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--4.3 migrant(s)/1,000 population (2023 est.)<br>
+-4.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most people live in urban clusters found on many of the country's islands; more than two-thirds of the population lives on the atolls of Majuro and Ebeye<br>
@@ -134,24 +136,24 @@ _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 1.03 male(s)/female<br>
-_65 years and over_: 0.96 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.95 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 21.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 24.6 deaths/1,000 live births<br>
-_female_: 17.5 deaths/1,000 live births<br>
+_total_: 20.6 deaths/1,000 live births (2024 est.)<br>
+_male_: 24 deaths/1,000 live births<br>
+_female_: 17.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.9 years (2023 est.)<br>
-_male_: 72.7 years<br>
-_female_: 77.3 years<br>
+_total population_: 75.2 years (2024 est.)<br>
+_male_: 73 years<br>
+_female_: 77.5 years<br>
 
 **Total fertility rate**<br>
-2.72 children born/woman (2023 est.)<br>
+2.67 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.33 (2023 est.)<br>
+1.3 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

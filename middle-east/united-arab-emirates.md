@@ -76,8 +76,9 @@ strategic location along southern approaches to Strait of Hormuz, a vital transi
 ## People and Society
 
 **Population**<br>
-9,973,449 (2023 est.)<br>
-<strong>note:</strong> the UN estimated the country's total population was 10,082,000 as of 2022; immigrants make up 88.1% of the total population, according to UN data (2020)<br>
+_total_: 10,032,213<br>
+_male_: 6,824,131<br>
+_female_: 3,208,082 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Emirati(s)<br>
@@ -96,9 +97,9 @@ Muslim 74.5% (official) (Sunni 63.3%, Shia 6.7%, other 4.4%), Christian 12.9%, H
 <strong>note</strong><strong>:</strong> data represent the total population; as of 2020, immigrants make up about 88.1% of the total population, according to UN data<br>
 
 **Age structure**<br>
-_0-14 years_: 16.23% (male 829,266/female 789,187)<br>
-_15-64 years_: 81.77% (male 5,840,920/female 2,314,683)<br>
-_65 years and over_: 2% (2023 est.) (male 15,1340/female 48,053)<br>
+_0-14 years_: 16.4% (male 842,577/female 802,302)<br>
+_15-64 years_: 81.4% (male 5,812,470/female 2,353,750)<br>
+_65 years and over_: 2.2% (2024 est.) (male 169,084/female 52,030)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 20.3<br>
@@ -107,21 +108,21 @@ _elderly dependency ratio_: 2.1<br>
 _potential support ratio_: 47.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 35.7 years (2023 est.)<br>
-_male_: 37.9 years<br>
-_female_: 29.9 years<br>
+_total_: 35.8 years (2024 est.)<br>
+_male_: 38.1 years<br>
+_female_: 29.8 years<br>
 
 **Population growth rate**<br>
-0.58% (2023 est.)<br>
+0.6% (2024 est.)<br>
 
 **Birth rate**<br>
-10.8 births/1,000 population (2023 est.)<br>
+10.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-1.6 deaths/1,000 population (2023 est.)<br>
+1.7 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--3.4 migrant(s)/1,000 population (2023 est.)<br>
+-3.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population is heavily concentrated to the northeast on the Musandam Peninsula; the three largest emirates - Abu Dhabi, Dubai, and Sharjah - are home to nearly 85% of the population<br>
@@ -136,28 +137,28 @@ _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-64 years_: 2.52 male(s)/female<br>
-_65 years and over_: 3.15 male(s)/female<br>
-_total population_: 2.16 male(s)/female (2023 est.)<br>
+_15-64 years_: 2.47 male(s)/female<br>
+_65 years and over_: 3.25 male(s)/female<br>
+_total population_: 2.13 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 9 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 5.6 deaths/1,000 live births<br>
-_female_: 4.5 deaths/1,000 live births<br>
+_total_: 5 deaths/1,000 live births (2024 est.)<br>
+_male_: 5.5 deaths/1,000 live births<br>
+_female_: 4.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.8 years (2023 est.)<br>
-_male_: 78.4 years<br>
-_female_: 81.2 years<br>
+_total population_: 79.9 years (2024 est.)<br>
+_male_: 78.6 years<br>
+_female_: 81.4 years<br>
 
 **Total fertility rate**<br>
-1.62 children born/woman (2023 est.)<br>
+1.61 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.79 (2023 est.)<br>
+0.78 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

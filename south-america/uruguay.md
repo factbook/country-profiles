@@ -85,7 +85,9 @@ second-smallest South American country (after Suriname); most of the low-lying l
 ## People and Society
 
 **Population**<br>
-3,416,264 (2023 est.)<br>
+_total_: 3,425,330<br>
+_male_: 1,660,132<br>
+_female_: 1,765,198 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Uruguayan(s)<br>
@@ -106,9 +108,9 @@ Roman Catholic 36.5%, Protestant 5% (Evangelical (non-specific) 4.6%, Adventist 
 <p>Uruguay rates high for most development indicators and is known for its secularism, liberal social laws, and well-developed social security, health, and educational systems. It is one of the few countries in Latin America and the Caribbean where the entire population has access to clean water. Uruguay's provision of free primary through university education has contributed to the country's high levels of literacy and educational attainment. However, the emigration of human capital has diminished the state's return on its investment in education. Remittances from the roughly 18% of Uruguayans abroad amount to less than 1 percent of national GDP. The emigration of young adults and a low birth rate are causing Uruguay's population to age rapidly.</p><p>In the 1960s, Uruguayans for the first time emigrated en masse - primarily to Argentina and Brazil - because of economic decline and the onset of more than a decade of military dictatorship. Economic crises in the early 1980s and 2002 also triggered waves of emigration, but since 2002 more than 70% of Uruguayan emigrants have selected the US and Spain as destinations because of better job prospects. Uruguay had a tiny population upon its independence in 1828 and welcomed thousands of predominantly Italian and Spanish immigrants, but the country has not experienced large influxes of new arrivals since the aftermath of World War II. More recent immigrants include Peruvians and Arabs.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 19.02% (male 330,536/female 319,132)<br>
-_15-64 years_: 65.55% (male 1,110,881/female 1,128,546)<br>
-_65 years and over_: 15.43% (2023 est.) (male 213,750/female 313,419)<br>
+_0-14 years_: 18.9% (male 329,268/female 317,925)<br>
+_15-64 years_: 65.4% (male 1,112,622/female 1,128,418)<br>
+_65 years and over_: 15.7% (2024 est.) (male 218,242/female 318,855)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.6<br>
@@ -117,21 +119,21 @@ _elderly dependency ratio_: 23.7<br>
 _potential support ratio_: 4.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 36.2 years (2023 est.)<br>
-_male_: 34.6 years<br>
-_female_: 37.9 years<br>
+_total_: 36.5 years (2024 est.)<br>
+_male_: 34.9 years<br>
+_female_: 38.2 years<br>
 
 **Population growth rate**<br>
-0.27% (2023 est.)<br>
+0.26% (2024 est.)<br>
 
 **Birth rate**<br>
-12.7 births/1,000 population (2023 est.)<br>
+12.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.1 deaths/1,000 population (2023 est.)<br>
+9.1 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.9 migrant(s)/1,000 population (2023 est.)<br>
+-0.9 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the country's population resides in the southern half of the country; approximately 80% of the populace is urban, living in towns or cities; nearly half of the population lives in and around the capital of Montevideo<br>
@@ -146,28 +148,28 @@ _rate of urbanization_: 0.4% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-64 years_: 0.98 male(s)/female<br>
+_15-64 years_: 0.99 male(s)/female<br>
 _65 years and over_: 0.68 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2023 est.)<br>
+_total population_: 0.94 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 19 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 9.3 deaths/1,000 live births<br>
-_female_: 7 deaths/1,000 live births<br>
+_total_: 8 deaths/1,000 live births (2024 est.)<br>
+_male_: 9.1 deaths/1,000 live births<br>
+_female_: 6.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.7 years (2023 est.)<br>
-_male_: 75.6 years<br>
-_female_: 81.9 years<br>
+_total population_: 78.9 years (2024 est.)<br>
+_male_: 75.8 years<br>
+_female_: 82.1 years<br>
 
 **Total fertility rate**<br>
-1.75 children born/woman (2023 est.)<br>
+1.75 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.86 (2023 est.)<br>
+0.86 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 79.6% (2015)<br>
@@ -732,7 +734,7 @@ nascent program; the bill to establish a space agency declared its purpose to be
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 27,500 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2022)<br>
+_refugees (country of origin)_: 32,939 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2023)<br>
 _stateless persons_: 5 (2022)<br>
 
 **Illicit drugs**<br>

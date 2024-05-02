@@ -62,7 +62,9 @@ large, deepwater harbor at Saint Peter Port<br>
 ## People and Society
 
 **Population**<br>
-67,642 (2023 est.)<br>
+_total_: 67,787<br>
+_male_: 33,712<br>
+_female_: 34,075 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Channel Islander(s)<br>
@@ -79,9 +81,9 @@ English, French, Norman-French dialect spoken in country districts<br>
 Protestant (Anglican, Presbyterian, Baptist, Congregational, Methodist), Roman Catholic<br>
 
 **Age structure**<br>
-_0-14 years_: 14.38% (male 5,006/female 4,722)<br>
-_15-64 years_: 64.48% (male 22,005/female 21,611)<br>
-_65 years and over_: 21.14% (2023 est.) (male 6,646/female 7,652)<br>
+_0-14 years_: 14.3% (male 4,999/female 4,717)<br>
+_15-64 years_: 64.1% (male 21,937/female 21,547)<br>
+_65 years and over_: 21.5% (2024 est.) (male 6,776/female 7,811)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 48.6<br>
@@ -91,21 +93,21 @@ _potential support ratio_: 4.1 (2021 est.)<br>
 <strong>note:</strong> data represent Guernsey and Jersey<br>
 
 **Median age**<br>
-_total_: 44.8 years (2023 est.)<br>
-_male_: 43.6 years<br>
-_female_: 46.1 years<br>
+_total_: 45 years (2024 est.)<br>
+_male_: 43.8 years<br>
+_female_: 46.2 years<br>
 
 **Population growth rate**<br>
-0.22% (2023 est.)<br>
+0.21% (2024 est.)<br>
 
 **Birth rate**<br>
-9.7 births/1,000 population (2023 est.)<br>
+9.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.2 deaths/1,000 population (2023 est.)<br>
+9.2 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-1.6 migrant(s)/1,000 population (2023 est.)<br>
+1.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 31.2% of total population (2023)<br>
@@ -120,23 +122,23 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.02 male(s)/female<br>
 _65 years and over_: 0.87 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_total population_: 0.99 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.3 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.8 deaths/1,000 live births<br>
-_female_: 2.8 deaths/1,000 live births<br>
+_total_: 3.3 deaths/1,000 live births (2024 est.)<br>
+_male_: 3.7 deaths/1,000 live births<br>
+_female_: 2.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.4 years (2023 est.)<br>
-_male_: 80.7 years<br>
-_female_: 86.2 years<br>
+_total population_: 83.6 years (2024 est.)<br>
+_male_: 80.9 years<br>
+_female_: 86.4 years<br>
 
 **Total fertility rate**<br>
-1.59 children born/woman (2023 est.)<br>
+1.59 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.77 (2023 est.)<br>
+0.77 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

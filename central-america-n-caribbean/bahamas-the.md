@@ -72,7 +72,9 @@ strategic location adjacent to US and Cuba; extensive island chain of which 30 a
 ## People and Society
 
 **Population**<br>
-358,508 (2023 est.)<br>
+_total_: 410,862<br>
+_male_: 190,100<br>
+_female_: 220,762 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Bahamian(s)<br>
@@ -89,9 +91,9 @@ English (official), Creole (among Haitian immigrants)<br>
 Protestant 69.9% (includes Baptist 34.9%, Anglican 13.7%, Pentecostal 8.9% Seventh Day Adventist 4.4%, Methodist 3.6%, Church of God 1.9%, Plymouth Brethren 1.6%, other Protestant 0.9%), Roman Catholic 12%, other Christian 13% (includes Jehovah's Witness 1.1%), other 0.6%, none 1.9%, unspecified 2.6% (2010 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 21.37% (male 38,851/female 37,765)<br>
-_15-64 years_: 68.8% (male 122,134/female 124,530)<br>
-_65 years and over_: 9.83% (2023 est.) (male 13,922/female 21,306)<br>
+_0-14 years_: 21.4% (male 41,675/female 46,363)<br>
+_15-64 years_: 70% (male 132,626/female 154,866)<br>
+_65 years and over_: 8.6% (2024 est.) (male 15,799/female 19,533)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 39.3<br>
@@ -100,21 +102,21 @@ _elderly dependency ratio_: 11.9<br>
 _potential support ratio_: 8.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30.2 years (2023 est.)<br>
-_male_: 30.2 years<br>
-_female_: 30.2 years<br>
+_total_: 30.7 years (2024 est.)<br>
+_male_: 30.6 years<br>
+_female_: 30.7 years<br>
 
 **Population growth rate**<br>
-1.06% (2023 est.)<br>
+1.07% (2024 est.)<br>
 
 **Birth rate**<br>
-13.1 births/1,000 population (2023 est.)<br>
+13.1 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.7 deaths/1,000 population (2023 est.)<br>
+5.6 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-3.2 migrant(s)/1,000 population (2023 est.)<br>
+3.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 most of the population lives in urban areas, with two-thirds living on New Providence Island where Nassau is located<br>
@@ -128,29 +130,29 @@ _rate of urbanization_: 1.02% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.03 male(s)/female<br>
-_15-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.65 male(s)/female<br>
-_total population_: 0.86 male(s)/female (2023 est.)<br>
+_0-14 years_: 0.9 male(s)/female<br>
+_15-64 years_: 0.86 male(s)/female<br>
+_65 years and over_: 0.81 male(s)/female<br>
+_total population_: 0.86 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 77 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.6 deaths/1,000 live births (2023 est.)<br>
-_male_: 10.7 deaths/1,000 live births<br>
-_female_: 8.4 deaths/1,000 live births<br>
+_total_: 9.4 deaths/1,000 live births (2024 est.)<br>
+_male_: 10.5 deaths/1,000 live births<br>
+_female_: 8.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.2 years (2023 est.)<br>
-_male_: 74.5 years<br>
-_female_: 77.9 years<br>
+_total population_: 76.7 years (2024 est.)<br>
+_male_: 75.1 years<br>
+_female_: 78.4 years<br>
 
 **Total fertility rate**<br>
-1.44 children born/woman (2023 est.)<br>
+1.44 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.71 (2023 est.)<br>
+0.71 (2024 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 98.9% of population<br>

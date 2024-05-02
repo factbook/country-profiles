@@ -74,7 +74,9 @@ one of the smallest and most remote countries on Earth; six of the nine coral at
 ## People and Society
 
 **Population**<br>
-11,639 (2023 est.)<br>
+_total_: 11,733<br>
+_male_: 5,816<br>
+_female_: 5,917 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Tuvaluan(s)<br>
@@ -90,9 +92,9 @@ Tuvaluan (official), English (official), Samoan, Kiribati (on the island of Nui)
 Protestant 92.7% (Congregational Christian Church of Tuvalu 85.9%, Brethren 2.8%, Seventh Day Adventist 2.5%, Assemblies of God 1.5%), Baha'i 1.5%, Jehovah's Witness 1.5%, other 3.9%, none or refused 0.4% (2017 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 29.27% (male 1,745/female 1,662)<br>
-_15-64 years_: 63.3% (male 3,703/female 3,664)<br>
-_65 years and over_: 7.43% (2023 est.) (male 318/female 547)<br>
+_0-14 years_: 29.2% (male 1,754/female 1,672)<br>
+_15-64 years_: 63.2% (male 3,736/female 3,675)<br>
+_65 years and over_: 7.6% (2024 est.) (male 326/female 570)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 60.9<br>
@@ -101,21 +103,21 @@ _elderly dependency ratio_: 10<br>
 _potential support ratio_: 10 (2021)<br>
 
 **Median age**<br>
-_total_: 27.5 years (2023 est.)<br>
-_male_: 26.5 years<br>
-_female_: 28.6 years<br>
+_total_: 27.8 years (2024 est.)<br>
+_male_: 26.8 years<br>
+_female_: 28.8 years<br>
 
 **Population growth rate**<br>
-0.81% (2023 est.)<br>
+0.78% (2024 est.)<br>
 
 **Birth rate**<br>
-22.3 births/1,000 population (2023 est.)<br>
+22 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7.9 deaths/1,000 population (2023 est.)<br>
+7.8 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--6.4 migrant(s)/1,000 population (2023 est.)<br>
+-6.3 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 over half of the population resides on the atoll of Funafuti<br>
@@ -130,25 +132,25 @@ _rate of urbanization_: 2.08% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.58 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2023 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.57 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 28.3 deaths/1,000 live births (2023 est.)<br>
-_male_: 31.9 deaths/1,000 live births<br>
-_female_: 24.5 deaths/1,000 live births<br>
+_total_: 27.8 deaths/1,000 live births (2024 est.)<br>
+_male_: 31.3 deaths/1,000 live births<br>
+_female_: 24 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.7 years (2023 est.)<br>
-_male_: 66.3 years<br>
-_female_: 71.3 years<br>
+_total population_: 69 years (2024 est.)<br>
+_male_: 66.5 years<br>
+_female_: 71.6 years<br>
 
 **Total fertility rate**<br>
-2.81 children born/woman (2023 est.)<br>
+2.78 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.37 (2023 est.)<br>
+1.36 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 23.7% (2019/20)<br>

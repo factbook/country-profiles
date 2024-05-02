@@ -75,7 +75,9 @@ Antigua has a deeply indented shoreline with many natural harbors and beaches; B
 ## People and Society
 
 **Population**<br>
-101,489 (2023 est.)<br>
+_total_: 102,634<br>
+_male_: 48,311<br>
+_female_: 54,323 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Antiguan(s), Barbudan(s)<br>
@@ -92,9 +94,9 @@ English (official), Antiguan Creole (an English-based creole)<br>
 Protestant 68.3% (Anglican 17.6%, Seventh Day Adventist 12.4%, Pentecostal 12.2%, Moravian 8.3%, Methodist 5.6%, Wesleyan Holiness 4.5%, Church of God 4.1%, Baptist 3.6%), Roman Catholic 8.2%, other 12.2%, unspecified 5.5%, none 5.9% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 21.97% (male 11,321/female 10,980)<br>
-_15-64 years_: 67.94% (male 32,103/female 36,847)<br>
-_65 years and over_: 10.09% (2023 est.) (male 4,378/female 5,860)<br>
+_0-14 years_: 21.8% (male 11,384/female 11,034)<br>
+_15-64 years_: 67.6% (male 32,312/female 37,094)<br>
+_65 years and over_: 10.5% (2024 est.) (male 4,615/female 6,195)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 40.9<br>
@@ -103,21 +105,21 @@ _elderly dependency ratio_: 14.4<br>
 _potential support ratio_: 7 (2020 est.)<br>
 
 **Median age**<br>
-_total_: 33.6 years (2023 est.)<br>
-_male_: 31.6 years<br>
-_female_: 35.4 years<br>
+_total_: 33.9 years (2024 est.)<br>
+_male_: 31.9 years<br>
+_female_: 35.7 years<br>
 
 **Population growth rate**<br>
-1.13% (2023 est.)<br>
+1.11% (2024 est.)<br>
 
 **Birth rate**<br>
-15 births/1,000 population (2023 est.)<br>
+14.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.7 deaths/1,000 population (2023 est.)<br>
+5.7 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-2 migrant(s)/1,000 population (2023 est.)<br>
+2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the island of Antigua is home to approximately 97% of the population; nearly the entire population of Barbuda lives in Codrington<br>
@@ -133,37 +135,33 @@ _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-64 years_: 0.87 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 0.89 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.74 male(s)/female<br>
+_total population_: 0.89 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 21 deaths/100,000 live births (2020)<br>
 
 **Infant mortality rate**<br>
-_total_: 14 deaths/1,000 live births (2023 est.)<br>
-_male_: 16.8 deaths/1,000 live births<br>
-_female_: 10.9 deaths/1,000 live births<br>
+_total_: 13.6 deaths/1,000 live births (2024 est.)<br>
+_male_: 16.4 deaths/1,000 live births<br>
+_female_: 10.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78 years (2023 est.)<br>
-_male_: 75.9 years<br>
-_female_: 80.3 years<br>
+_total population_: 78.3 years (2024 est.)<br>
+_male_: 76.1 years<br>
+_female_: 80.5 years<br>
 
 **Total fertility rate**<br>
-1.94 children born/woman (2023 est.)<br>
+1.93 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.95 (2023 est.)<br>
+0.94 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: NA<br>
-_improved: rural_: rural: NA<br>
 _improved: total_: total: 96.7% of population<br>
-_unimproved: urban_: urban: NA<br>
-_unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 3.2% of population (2017 est.)<br>
 
 **Current health expenditure**<br>

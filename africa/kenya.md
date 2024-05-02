@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Trade centers such as Mombasa have existed along the Kenyan and Tanzanian coastlines, known as the Land of Zanj, since at least the 2nd century. These centers traded with the outside world, including China, India, Indonesia, the Middle East, North Africa, and Persia. By around the 9th century, the mix of Africans, Arabs, and Persians who lived and traded there became known as Swahili ("people of the coast") with a distinct language (KiSwahili) and culture. The Portuguese arrived in the 1490s and, using Mombasa as a base, sought to monopolize trade in the Indian Ocean. The Portuguese were pushed out in the late 1600s by the combined forces of Oman and Pate, an island off the coast. In 1890, Germany and the UK divided up the region, with the UK taking the north and the Germans the south, including present-day Tanzania, Burundi, and Rwanda. In 1895, the British established the East Africa Protectorate, which in 1920 was converted into a colony and named Kenya after its highest mountain. Numerous political disputes between the colony and the UK subsequently led to the violent Mau Mau Uprising, which began in 1952, and the eventual declaration of independence in 1963.</p> Jomo KENYATTA, the founding president and an icon of the liberation struggle, led Kenya from independence in 1963 until his death in 1978, when Vice President Daniel Arap MOI took power in a constitutional succession. The country was a de facto one-party state from 1969 until 1982, after which time the ruling Kenya African National Union (KANU) changed the constitution to make itself the sole legal political party in Kenya. MOI acceded to internal and external pressure for political liberalization in late 1991. The ethnically fractured opposition failed to dislodge KANU from power in elections in 1992 and 1997, which were marred by violence and fraud. President MOI stepped down in December 2002 following fair and peaceful elections. Mwai KIBAKI, running as the candidate of the multiethnic, united opposition group, the National Rainbow Coalition (NARC), defeated KANU candidate Uhuru KENYATTA, the son of founding president Jomo KENYATTA, and assumed the presidency following a campaign centered on an anticorruption platform. <br><br>KIBAKI's reelection in 2007 resulted in two months of post-election ethnic violence that caused the death of more than 1,100 people and the dislocation of hundreds of thousands. Opposition candidate, Raila ODINGA, accused the government of widespread vote rigging. African Union-sponsored mediation led by former UN Secretary General Kofi ANNAN resulted in a power-sharing accord that brought ODINGA into the government in the restored position of prime minister. The power sharing accord included a broad reform agenda, the centerpiece of which was constitutional reform. In 2010, Kenyans overwhelmingly adopted a new constitution in a national referendum. The new constitution introduced additional checks and balances to executive power and devolved power and resources to 47 newly created counties. It also eliminated the position of prime minister. Uhuru KENYATTA won the first presidential election under the new constitution in March 2013. KENYATTA won a second and final term in office in November 2017 following a contentious, repeat election. In August 2022, William RUTO won a close presidential election; he assumed the office the following month after the Kenyan Supreme Court upheld the victory.<br>
+<p>Trade centers such as Mombasa have existed along the Kenyan and Tanzanian coastlines, known as the Land of Zanj, since at least the 2nd century. These centers traded with the outside world, including China, India, Indonesia, the Middle East, North Africa, and Persia. By around the 9th century, the mix of Africans, Arabs, and Persians who lived and traded there became known as Swahili ("people of the coast") with a distinct language (KiSwahili) and culture. The Portuguese arrived in the 1490s and, using Mombasa as a base, sought to monopolize trade in the Indian Ocean. The Portuguese were pushed out in the late 1600s by the combined forces of Oman and Pate, an island off the coast. In 1890, Germany and the UK divided up the region, with the UK taking the north and the Germans the south, including present-day Tanzania, Burundi, and Rwanda. In 1895, the British established the East Africa Protectorate, which in 1920 was converted into a colony, and named Kenya after its highest mountain. Numerous political disputes between the colony and the UK led to the violent Mau Mau Uprising, which began in 1952, and the eventual declaration of independence in 1963.</p> Jomo KENYATTA, the founding president and an icon of the liberation struggle, led Kenya from independence in 1963 until his death in 1978, when Vice President Daniel Arap MOI took power in a constitutional succession. The country was a de facto one-party state from 1969 until 1982, after which time the ruling Kenya African National Union (KANU) changed the constitution to make itself the sole legal political party. MOI gave in to internal and external pressure for political liberalization in 1991, but the ethnically fractured opposition failed to dislodge KANU from power in elections in 1992 and 1997, which were marred by violence and fraud. MOI stepped down in 2002 after fair and peaceful elections. Mwai KIBAKI, running as the candidate of the multiethnic, united opposition group, the National Rainbow Coalition (NARC), defeated KANU candidate Uhuru KENYATTA, the son of the founding president, and assumed the presidency following a campaign centered on an anticorruption platform. <br><br>Opposition candidate Raila ODINGA challenged KIBAKI's reelection in 2007 on the grounds of widespread vote rigging, leading to two months of ethnic violence that caused more than 1,100 deaths and displaced hundreds of thousands. African Union-sponsored mediation resulted in a power-sharing accord that brought ODINGA into the government as prime minister and outlined a reform agenda. In 2010, Kenyans overwhelmingly voted to adopt a new constitution that eliminated the prime minister, introduced additional checks and balances to executive power, and devolved power and resources to 47 newly created counties. Uhuru KENYATTA won the first presidential election under the new constitution in 2013. He won a second and final term in office in 2017 after a contentious repeat election. In 2022, William RUTO won a close presidential election; he assumed the office the following month after the Kenyan Supreme Court upheld the victory.<br>
 
 ## Geography
 
@@ -85,7 +85,9 @@ the Kenyan Highlands comprise one of the most successful agricultural production
 ## People and Society
 
 **Population**<br>
-57,052,004 (2023 est.)<br>
+_total_: 58,246,378<br>
+_male_: 29,091,800<br>
+_female_: 29,154,578 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Kenyan(s)<br>
@@ -105,9 +107,9 @@ Christian 85.5% (Protestant 33.4%, Catholic 20.6%, Evangelical 20.4%, African In
 <p>Kenya has experienced dramatic population growth since the mid-20th century as a result of its high birth rate and its declining mortality rate. Almost 40% of Kenyans are under the age of 15 as of 2020 because of sustained high fertility, early marriage and childbearing, and an unmet need for family planning. Kenya’s persistent rapid population growth strains the labor market, social services, arable land, and natural resources. Although Kenya in 1967 was the first Sub-Saharan country to launch a nationwide family planning program, progress in reducing the birth rate has largely stalled since the late 1990s, when the government decreased its support for family planning to focus on the HIV epidemic. Government commitment and international technical support spurred Kenyan contraceptive use, decreasing the fertility rate (children per woman) from about 8 in the late 1970s to less than 5 children twenty years later, but it has plateaued at about 3 children as of 2022.</p> <p>Kenya is a source of emigrants and a host country for refugees. In the 1960s and 1970s, Kenyans pursued higher education in the UK because of colonial ties, but as British immigration rules tightened, the US, the then Soviet Union, and Canada became attractive study destinations. Kenya’s stagnant economy and political problems during the 1980s and 1990s led to an outpouring of Kenyan students and professionals seeking permanent opportunities in the West and southern Africa. Nevertheless, Kenya’s relative stability since its independence in 1963 has attracted hundreds of thousands of refugees escaping violent conflicts in neighboring countries; Kenya was sheltering nearly 280,000 Somali refugees as of 2022.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 36.45% (male 10,447,425/female 10,349,611)<br>
-_15-64 years_: 60.26% (male 17,196,347/female 17,185,035)<br>
-_65 years and over_: 3.28% (2023 est.) (male 855,757/female 1,017,829)<br>
+_0-14 years_: 35.8% (male 10,464,384/female 10,366,997)<br>
+_15-64 years_: 60.9% (male 17,731,068/female 17,723,012)<br>
+_65 years and over_: 3.4% (2024 est.) (male 896,348/female 1,064,569)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 70.2<br>
@@ -116,21 +118,21 @@ _elderly dependency ratio_: 4.8<br>
 _potential support ratio_: 20.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20.9 years (2023 est.)<br>
-_male_: 20.8 years<br>
-_female_: 21 years<br>
+_total_: 21.2 years (2024 est.)<br>
+_male_: 21.1 years<br>
+_female_: 21.4 years<br>
 
 **Population growth rate**<br>
-2.09% (2023 est.)<br>
+2.06% (2024 est.)<br>
 
 **Birth rate**<br>
-26 births/1,000 population (2023 est.)<br>
+25.6 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5 deaths/1,000 population (2023 est.)<br>
+4.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.2 migrant(s)/1,000 population (2023 est.)<br>
+-0.2 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population heavily concentrated in the west along the shore of Lake Victoria; other areas of high density include the capital of Nairobi, and in the southeast along the Indian Ocean coast as shown in this population distribution map<br>
@@ -147,7 +149,7 @@ _at birth_: 1.02 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
 _65 years and over_: 0.84 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_total population_: 1 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.3 years (2014 est.)<br>
@@ -157,20 +159,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 530 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 26.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 29.9 deaths/1,000 live births<br>
-_female_: 23.9 deaths/1,000 live births<br>
+_total_: 26.1 deaths/1,000 live births (2024 est.)<br>
+_male_: 29 deaths/1,000 live births<br>
+_female_: 23.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70 years (2023 est.)<br>
-_male_: 68.3 years<br>
-_female_: 71.8 years<br>
+_total population_: 70.4 years (2024 est.)<br>
+_male_: 68.6 years<br>
+_female_: 72.2 years<br>
 
 **Total fertility rate**<br>
-3.23 children born/woman (2023 est.)<br>
+3.16 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.6 (2023 est.)<br>
+1.56 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 64.6% (2020)<br>

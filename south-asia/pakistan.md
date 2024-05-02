@@ -85,7 +85,9 @@ controls Khyber Pass and Bolan Pass, traditional invasion routes between Central
 ## People and Society
 
 **Population**<br>
-247,653,551 (2023 est.)<br>
+_total_: 252,363,571<br>
+_male_: 128,387,797<br>
+_female_: 123,975,774 (2024 est.)<br>
 <strong>note:</strong> results of Pakistan's 2017 national census estimate the country's total population to be 207,684,626<br>
 
 **Nationality**<br>
@@ -104,9 +106,9 @@ _major-language sample(s)_: <br>دنیا کا قاموس، ایک لازمی ز�
 Muslim (official) 96.5% (Sunni 85-90%, Shia 10-15%), other (includes Christian and Hindu) 3.5% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 34.81% (male 44,002,871/female 42,216,200)<br>
-_15-64 years_: 60.41% (male 76,548,821/female 73,065,518)<br>
-_65 years and over_: 4.77% (2023 est.) (male 5,482,633/female 6,337,508)<br>
+_0-14 years_: 34.4% (male 44,330,669/female 42,529,007)<br>
+_15-64 years_: 60.7% (male 78,321,834/female 74,833,003)<br>
+_65 years and over_: 4.9% (2024 est.) (male 5,735,294/female 6,613,764)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 70<br>
@@ -115,21 +117,21 @@ _elderly dependency ratio_: 7.2<br>
 _potential support ratio_: 13.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 22.7 years (2023 est.)<br>
-_male_: 22.6 years<br>
-_female_: 22.8 years<br>
+_total_: 22.9 years (2024 est.)<br>
+_male_: 22.8 years<br>
+_female_: 23 years<br>
 
 **Population growth rate**<br>
-1.91% (2023 est.)<br>
+1.86% (2024 est.)<br>
 
 **Birth rate**<br>
-26 births/1,000 population (2023 est.)<br>
+25.5 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.9 deaths/1,000 population (2023 est.)<br>
+5.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1 migrant(s)/1,000 population (2023 est.)<br>
+-1.1 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 the Indus River and its tributaries attract most of the settlement, with Punjab province the most densely populated<br>
@@ -146,7 +148,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 1.05 male(s)/female<br>
 _65 years and over_: 0.87 male(s)/female<br>
-_total population_: 1.04 male(s)/female (2023 est.)<br>
+_total population_: 1.04 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.8 years (2017/18 est.)<br>
@@ -156,20 +158,20 @@ _total population_: 1.04 male(s)/female (2023 est.)<br>
 154 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 52.7 deaths/1,000 live births (2023 est.)<br>
-_male_: 57.1 deaths/1,000 live births<br>
-_female_: 48.1 deaths/1,000 live births<br>
+_total_: 51.5 deaths/1,000 live births (2024 est.)<br>
+_male_: 56 deaths/1,000 live births<br>
+_female_: 46.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70 years (2023 est.)<br>
-_male_: 67.9 years<br>
-_female_: 72.1 years<br>
+_total population_: 70.3 years (2024 est.)<br>
+_male_: 68.2 years<br>
+_female_: 72.5 years<br>
 
 **Total fertility rate**<br>
-3.39 children born/woman (2023 est.)<br>
+3.32 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.66 (2023 est.)<br>
+1.62 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 34% (2018/19)<br>
@@ -373,7 +375,6 @@ _subordinate courts_: High Courts; Federal Shariat Court; provincial and distric
 
 **Political parties and leaders**<br>
 Awami National Party or ANP [Asfandyar Wali KHAN]<br>Awami Muslim League or AML [Sheikh Rashid AHMED]<br>Balochistan Awami Party or BAP [Abdul Quddus BIZENJO]<br>Balochistan National Party-Awami or BNP-A [Mir Israrullah ZEHRI]<br>Balochistan National Party-Mengal or BNP-M [Sardar Akhtar Jan MENGAL]<br>Grand Democratic Alliance or GDA [Pir PAGARO] (alliance of several parties)<br>Hazara Democratic Party or HDP [Abdul Khaliq HAZARA]<br>Istehkam-e-Pakistan Party [Jahangir TAREEN]<br>Jamaat-e-Islami or JI [Siraj-ul-HAQ]<br>Jamhoori Wattan Party or JWP [Nawabzada Shahzain BUGTI]<br>Jamiat Ulema-e-Islam-Fazl or JUI-F [Maulana Fazal-ur-REHMAN]<br>Majlis Wahdat-e-Muslimeen Pakistan or MWM [Raja Nasir ABBAS]<br>Muttahida Majlis-e-Amal or MMA [Maulana Fazal-ur-REHMAN] (alliance of several parties)<br>Muttahida Qaumi Movement-Pakistan or MQM-P [Khalid Maqbool SIDDIQUI]<br>National Party or NP [Abdul Malik BALOCH]<br>Pakistan Muslim League or PML-Z (Zia-ul-Haq Shaheed)<br>Pakistan Muslim League-Functional or PML-F [Pir PAGARO]<br>Pakistan Muslim League-Nawaz or PML-N [Shehbaz SHARIF]<br>Pakistan Muslim League-Quaid-e-Azam or PML-Q [Chaudhry Shujaat HUSSAIN]<br>Pakistan Peoples Party or PPP [Bilawal BHUTTO ZARDARI, Asif Ali ZARDARI]<br>Pakistan Rah-e-Haq Party or PRHP [Muhammad Ibrahim QASMI]<br>Pakistan Tehrik-e Insaaf or PTI (Pakistan Movement for Justice) [Imran KHAN]<br>Pashtoonkhwa Milli Awami Party or PMAP or PKMAP [Mahmood Khan ACHAKZAI]<br>Tehreek-e-Labbaik Pakistan or TLP [Hafiz Muhammad Saad Hussain Rizvi MARKAZI]<br>
-<strong>note:</strong> Pakistan has several hundred officially registered political parties; this list includes those that won seats in the most recent elections at the national and provincial levels<br>
 
 **International organization participation**<br>
 ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURCAT, MINURSO, MINUSCA, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNISFA, UNISFA, UNMISS, UNOOSA, UNSOS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -739,7 +740,7 @@ the military's inventory includes a broad mix of equipment, primarily from China
 16 (or 17 depending on service) to 23 years of age for voluntary military service; soldiers cannot be deployed for combat until age 18; women serve in all three armed forces; reserve obligation to age 45 for enlisted men, age 50 for officers (2023)<br>
 
 **Military deployments**<br>
-1,300 Central African Republic (MINUSCA); 1,900 Democratic Republic of the Congo (MONUSCO); 290 South Sudan (UNMISS); 590 Sudan (UNISFA) (2024)<br>
+1,300 Central African Republic (MINUSCA); 290 South Sudan (UNMISS); 590 Sudan (UNISFA) (2024)<br>
 
 **Military - note**<br>
 the Pakistan military operates largely independently and without effective civilian oversight; it has ruled the country for more than 30 years since independence in 1947 and continues to play a significant role in Pakistan's political arena; it also has a large stake in the country’s economic sector and is involved in a diverse array of commercial activities, including banking, construction of public projects, employment services, energy and power generation, fertilizer, food, housing, real estate, and security services<br><br>the military is responsible for external defense but also has a large role in domestic security; its chief external focus is on the perceived threat from India; the military is the lead security agency in many areas of the former Federally Administered Tribal Areas (FATA); it has considerable operational experience, having engaged in several conflicts with India and conducted counterinsurgency and counterterrorism operations for decades against various militant groups in the former FATA; it is also one of the longest serving and largest contributors to UN peacekeeping missions; China is its closest security partner<br><br>the Army is the largest component; it has more than 20 combat divisions, plus about 20 independent combat brigades; the Army also has an inventory of over 5,000 artillery systems organized into divisions and brigades, plus several squadrons of attack helicopters; the Navy operates throughout the Indian Ocean and conducts a variety of missions, including countering piracy, narcotics, and smuggling, protecting Pakistan’s sea lines of communications, multinational security and humanitarian operations, and naval diplomacy; the Navy is in the midst of a large modernization effort; its principal combat ships are a mix of about 15 frigates and corvettes, plus a handful of attack submarines; there is also a small marine amphibious force; the Air Force’s combat missions include the air defense of Pakistan and support to the Army and Navy; it has over 400 Chinese-, French-, and US-made combat aircraft <br><br>Pakistan and India have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well as two clashes over the disputed region of Kashmir (First Kashmir War of 1947 and the Kargil Conflict of 1999); a fragile cease-fire in Kashmir was reached in 2003, revised in 2018, and reaffirmed in 2021, although the Line of Control remains contested, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area in 1985, 1987, and 1995; despite a cease-fire, as of 2023 both sides continued to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties were due to extreme weather or the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness<br><br>Pakistan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>

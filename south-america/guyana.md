@@ -78,7 +78,9 @@ the third-smallest country in South America after Suriname and Uruguay; substant
 ## People and Society
 
 **Population**<br>
-791,739 (2023 est.)<br>
+_total_: 794,099<br>
+_male_: 405,244<br>
+_female_: 388,855 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Guyanese (singular and plural)<br>
@@ -97,9 +99,9 @@ Protestant 34.8% (Pentecostal 22.8%, Seventh Day Adventist 5.4%, Anglican 5.2%, 
 <p>Guyana is the only English-speaking country in South America and shares cultural and historical bonds with the Anglophone Caribbean. Guyana's two largest ethnic groups are the Afro-Guyanese (descendants of African slaves) and the Indo-Guyanese (descendants of Indian indentured laborers), which together comprise about three quarters of Guyana's population. Tensions periodically have boiled over between the two groups, which back ethnically based political parties and vote along ethnic lines. Poverty reduction has stagnated since the late 1990s. About one-third of the Guyanese population lives below the poverty line; indigenous people are disproportionately affected. Although Guyana's literacy rate is reported to be among the highest in the Western Hemisphere, the level of functional literacy is considerably lower, which has been attributed to poor education quality, teacher training, and infrastructure.</p><p>Guyana's emigration rate is among the highest in the world - more than 55% of its citizens reside abroad - and it is one of the largest recipients of remittances relative to GDP among Latin American and Caribbean counties. Although remittances are a vital source of income for most citizens, the pervasive emigration of skilled workers deprives Guyana of professionals in healthcare and other key sectors. More than 80% of Guyanese nationals with tertiary level educations have emigrated. Brain drain and the concentration of limited medical resources in Georgetown hamper Guyana's ability to meet the health needs of its predominantly rural population. Guyana has one of the highest HIV prevalence rates in the region and continues to rely on international support for its HIV treatment and prevention programs.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 23.65% (male 95,605/female 91,654)<br>
-_15-64 years_: 68.49% (male 281,157/female 261,113)<br>
-_65 years and over_: 7.86% (2023 est.) (male 27,269/female 34,941)<br>
+_0-14 years_: 23.5% (male 95,223/female 91,272)<br>
+_15-64 years_: 68.4% (male 281,669/female 261,261)<br>
+_65 years and over_: 8.1% (2024 est.) (male 28,352/female 36,322)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.6<br>
@@ -108,21 +110,21 @@ _elderly dependency ratio_: 9.5<br>
 _potential support ratio_: 10.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 27.9 years (2023 est.)<br>
-_male_: 27.8 years<br>
-_female_: 28 years<br>
+_total_: 28.3 years (2024 est.)<br>
+_male_: 28.2 years<br>
+_female_: 28.4 years<br>
 
 **Population growth rate**<br>
-0.28% (2023 est.)<br>
+0.32% (2024 est.)<br>
 
 **Birth rate**<br>
-16.7 births/1,000 population (2023 est.)<br>
+16.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-7 deaths/1,000 population (2023 est.)<br>
+7 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--7 migrant(s)/1,000 population (2023 est.)<br>
+-6.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population is heavily concentrated in the northeast in and around Georgetown, with noteable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated<br>
@@ -139,7 +141,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 1.08 male(s)/female<br>
 _65 years and over_: 0.78 male(s)/female<br>
-_total population_: 1.04 male(s)/female (2023 est.)<br>
+_total population_: 1.04 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.8 years (2009 est.)<br>
@@ -149,20 +151,20 @@ _total population_: 1.04 male(s)/female (2023 est.)<br>
 112 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 21.6 deaths/1,000 live births (2023 est.)<br>
-_male_: 24.5 deaths/1,000 live births<br>
-_female_: 18.7 deaths/1,000 live births<br>
+_total_: 21.1 deaths/1,000 live births (2024 est.)<br>
+_male_: 23.9 deaths/1,000 live births<br>
+_female_: 18.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.2 years (2023 est.)<br>
-_male_: 70.3 years<br>
-_female_: 74.1 years<br>
+_total population_: 72.4 years (2024 est.)<br>
+_male_: 70.6 years<br>
+_female_: 74.3 years<br>
 
 **Total fertility rate**<br>
-2.06 children born/woman (2023 est.)<br>
+2.05 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1 (2023 est.)<br>
+1 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 29.9% (2019/20)<br>
@@ -673,7 +675,7 @@ the Guyana Defense Force (GDF) was established in 1965; its primary missions are
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,600 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2022)<br>
+_refugees (country of origin)_: 21,676 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2023)<br>
 
 **Illicit drugs**<br>
 <p>a transit country for cocaine destined for the United States, Canada, the Caribbean, Europe, and West Africa; growing domestic marijuana cultivation and consumption</p><br>

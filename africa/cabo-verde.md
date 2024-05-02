@@ -74,7 +74,9 @@ strategic location 500 km from west coast of Africa near major north-south sea r
 ## People and Society
 
 **Population**<br>
-603,901 (2023 est.)<br>
+_total_: 611,014<br>
+_male_: 297,106<br>
+_female_: 313,908 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Cabo Verdean(s)<br>
@@ -93,9 +95,9 @@ Roman Catholic 72.5%, Protestant 4% (includes Adventist 1.9%, Nazarene 1.8%, Ass
 <p>Cabo Verde’s population descends from its first permanent inhabitants in the late 15th-century – a preponderance of West African slaves, a small share of Portuguese colonists, and even fewer Italians, Spaniards, and Portuguese Jews. Over the centuries, the country’s overall population size has fluctuated significantly, as recurring periods of famine and epidemics have caused high death tolls and emigration.</p><p>Labor migration historically reduced Cabo Verde’s population growth and still provides a key source of income through remittances. Expatriates probably outnumber Cabo Verde’s resident population, with most families having a member abroad. Cabo Verdeans have settled in the US, Europe, Africa, and South America. The largest diaspora community in New Bedford, Massachusetts, dating to the early 1800s, is a byproduct of the transatlantic whaling industry. Cabo Verdean men fleeing poverty at home joined the crews of US whaling ships that stopped in the islands. Many settled in New Bedford and stayed in the whaling or shipping trade, worked in the textile or cranberry industries, or operated their own transatlantic packet ships that transported compatriots to the US. Increased Cabo Verdean emigration to the US coincided with the gradual and eventually complete abolition of slavery in the archipelago in 1878.</p><p>During the same period, Portuguese authorities coerced Cabo Verdeans to go to Sao Tome and Principe and other Portuguese colonies in Africa to work as indentured laborers on plantations. In the 1920s, when the US implemented immigration quotas, Cabo Verdean emigration shifted toward Portugal, West Africa (Senegal), and South America (Argentina). Growing numbers of Cabo Verdean labor migrants headed to Western Europe in the 1960s and 1970s. They filled unskilled jobs in Portugal, as many Portuguese sought out work opportunities in the more prosperous economies of northwest Europe. Cabo Verdeans eventually expanded their emigration to the Netherlands, where they worked in the shipping industry. Migration to the US resumed under relaxed migration laws. Cabo Verdean women also began migrating to southern Europe to become domestic workers, a trend that continues today and has shifted the gender balance of Cabo Verdean emigration.</p><p>Emigration has declined in more recent decades due to the adoption of more restrictive migration policies in destination countries. Reduced emigration along with a large youth population, decreased mortality rates, and increased life expectancies, has boosted population growth, putting further pressure on domestic employment and resources. In addition, Cabo Verde has attracted increasing numbers of migrants in recent decades, consisting primarily of people from West Africa, Portuguese-speaking African countries, Portugal, and China. Since the 1990s, some West African migrants have used Cabo Verde as a stepping stone for illegal migration to Europe.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 26.68% (male 80,974/female 80,143)<br>
-_15-64 years_: 67.18% (male 198,503/female 207,205)<br>
-_65 years and over_: 6.14% (2023 est.) (male 14,099/female 22,977)<br>
+_0-14 years_: 26.4% (male 80,973/female 80,129)<br>
+_15-64 years_: 67.2% (male 201,084/female 209,676)<br>
+_65 years and over_: 6.4% (2024 est.) (male 15,049/female 24,103)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 47.2<br>
@@ -104,21 +106,21 @@ _elderly dependency ratio_: 8<br>
 _potential support ratio_: 12.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 28.3 years (2023 est.)<br>
-_male_: 27.5 years<br>
-_female_: 29.2 years<br>
+_total_: 28.8 years (2024 est.)<br>
+_male_: 27.9 years<br>
+_female_: 29.6 years<br>
 
 **Population growth rate**<br>
-1.19% (2023 est.)<br>
+1.16% (2024 est.)<br>
 
 **Birth rate**<br>
-18.2 births/1,000 population (2023 est.)<br>
+17.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.8 deaths/1,000 population (2023 est.)<br>
+5.7 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--0.6 migrant(s)/1,000 population (2023 est.)<br>
+-0.6 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 among the nine inhabited islands, population distribution is variable; islands in the east are very dry and are only sparsely settled to exploit their extensive salt deposits; the more southerly islands receive more precipitation and support larger populations, but agriculture and livestock grazing have damaged the soil fertility and vegetation; approximately half of the population lives on Sao Tiago Island, which is the location of the capital of Praia; Mindelo, on the northern island of Sao Vicente, also has a large urban population as shown in this population distribution map<br>
@@ -134,27 +136,27 @@ _rate of urbanization_: 1.83% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.61 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.62 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 42 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 23 deaths/1,000 live births (2023 est.)<br>
-_male_: 27 deaths/1,000 live births<br>
-_female_: 18.8 deaths/1,000 live births<br>
+_total_: 22.4 deaths/1,000 live births (2024 est.)<br>
+_male_: 26.3 deaths/1,000 live births<br>
+_female_: 18.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74 years (2023 est.)<br>
-_male_: 71.7 years<br>
-_female_: 76.4 years<br>
+_total population_: 74.3 years (2024 est.)<br>
+_male_: 72 years<br>
+_female_: 76.7 years<br>
 
 **Total fertility rate**<br>
-2.11 children born/woman (2023 est.)<br>
+2.1 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.04 (2023 est.)<br>
+1.03 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 55.8% (2018)<br>
@@ -321,7 +323,7 @@ _election results_: <em><br>2020: </em>Jose Maria Pereira NEVES elected presiden
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (72 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
 _elections_: last held on 18 April 2021 (next to be held in April 2026)<br>
-_election results_: percent of vote by party MPD 50.2%, PAICV 39.6%, UCID 9.0%, other 1.2%; seats by party - MPD 38, PAICV 30, UCID 4; composition as of March 2024 - men 44, women 28, percentage women 38.9%<br>
+_election results_: percent of vote by party MPD 50.2%, PAICV 39.6%, UCID 9.0%, other 1.2%; seats by party - MPD 38, PAICV 30, UCID 4; composition - men 44, women 28, percentage women 38.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the chief justice and at least 7 judges and organized into civil, criminal, and administrative sections)<br>

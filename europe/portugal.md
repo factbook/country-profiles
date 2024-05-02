@@ -77,7 +77,9 @@ Azores and Madeira Islands occupy strategic locations along western sea approach
 ## People and Society
 
 **Population**<br>
-10,223,150 (2023 est.)<br>
+_total_: 10,207,177<br>
+_male_: 4,835,763<br>
+_female_: 5,371,414 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Portuguese (singular and plural)<br>
@@ -94,9 +96,9 @@ Roman Catholic 79.7%, Protestant 2.2%, other Christian 2.5%, other non-Christian
 <strong>note:</strong> data represent population 15 years of age and older<br>
 
 **Age structure**<br>
-_0-14 years_: 12.85% (male 672,673/female 641,409)<br>
-_15-64 years_: 65.18% (male 3,274,201/female 3,389,374)<br>
-_65 years and over_: 21.96% (2023 est.) (male 895,576/female 1,349,917)<br>
+_0-14 years_: 12.7% (male 662,419/female 631,284)<br>
+_15-64 years_: 65% (male 3,264,766/female 3,371,087)<br>
+_65 years and over_: 22.3% (2024 est.) (male 908,578/female 1,369,043)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56<br>
@@ -105,21 +107,21 @@ _elderly dependency ratio_: 35.2<br>
 _potential support ratio_: 2.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 46 years (2023 est.)<br>
-_male_: 44 years<br>
-_female_: 47.9 years<br>
+_total_: 46.4 years (2024 est.)<br>
+_male_: 44.3 years<br>
+_female_: 48.3 years<br>
 
 **Population growth rate**<br>
--0.17% (2023 est.)<br>
+-0.14% (2024 est.)<br>
 
 **Birth rate**<br>
-8 births/1,000 population (2023 est.)<br>
+8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-10.9 deaths/1,000 population (2023 est.)<br>
+10.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-1.2 migrant(s)/1,000 population (2023 est.)<br>
+1.5 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 concentrations are primarily along or near the Atlantic coast; both Lisbon and the second largest city, Porto, are coastal cities<br>
@@ -136,7 +138,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 0.97 male(s)/female<br>
 _65 years and over_: 0.66 male(s)/female<br>
-_total population_: 0.9 male(s)/female (2023 est.)<br>
+_total population_: 0.9 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.9 years (2020 est.)<br>
@@ -145,20 +147,20 @@ _total population_: 0.9 male(s)/female (2023 est.)<br>
 12 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.5 deaths/1,000 live births (2023 est.)<br>
+_total_: 2.4 deaths/1,000 live births (2024 est.)<br>
 _male_: 2.8 deaths/1,000 live births<br>
 _female_: 2.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.7 years (2023 est.)<br>
-_male_: 78.6 years<br>
-_female_: 85 years<br>
+_total population_: 81.9 years (2024 est.)<br>
+_male_: 78.8 years<br>
+_female_: 85.2 years<br>
 
 **Total fertility rate**<br>
-1.44 children born/woman (2023 est.)<br>
+1.45 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-0.7 (2023 est.)<br>
+0.71 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 73.9% (2014)<br>

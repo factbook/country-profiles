@@ -86,7 +86,9 @@ strategic location on Shatt al Arab waterway and at the head of the Persian Gulf
 ## People and Society
 
 **Population**<br>
-41,266,109 (2023 est.)<br>
+_total_: 42,083,436<br>
+_male_: 21,193,356<br>
+_female_: 20,890,080 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Iraqi(s)<br>
@@ -105,9 +107,9 @@ Muslim (official) 95-98% (Shia 61-64%, Sunni 29-34%), Christian 1% (includes Cat
 <strong>note:</strong> the last census in Iraq was in 1997; while there has been voluntary relocation of many Christian families to northern Iraq, the overall Christian population has decreased at least 50% and perhaps as much as 90% since 2003, according to US Embassy estimates, with many fleeing to Syria, Jordan, and Lebanon<br>
 
 **Age structure**<br>
-_0-14 years_: 35.24% (male 7,428,445/female 7,113,723)<br>
-_15-64 years_: 61.17% (male 12,692,897/female 12,548,936)<br>
-_65 years and over_: 3.59% (2023 est.) (male 658,844/female 823,264)<br>
+_0-14 years_: 34.6% (male 7,447,266/female 7,130,883)<br>
+_15-64 years_: 61.7% (male 13,064,516/female 12,907,702)<br>
+_65 years and over_: 3.6% (2024 est.) (male 681,574/female 851,495)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 71<br>
@@ -116,21 +118,21 @@ _elderly dependency ratio_: 5.8<br>
 _potential support ratio_: 17.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 22.1 years (2023 est.)<br>
-_male_: 21.7 years<br>
-_female_: 22.4 years<br>
+_total_: 22.4 years (2024 est.)<br>
+_male_: 22 years<br>
+_female_: 22.7 years<br>
 
 **Population growth rate**<br>
-1.94% (2023 est.)<br>
+1.99% (2024 est.)<br>
 
 **Birth rate**<br>
-24.2 births/1,000 population (2023 est.)<br>
+23.7 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-3.9 deaths/1,000 population (2023 est.)<br>
+3.9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1 migrant(s)/1,000 population (2023 est.)<br>
+0 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population is concentrated in the north, center, and eastern parts of the country, with many of the larger urban agglomerations found along extensive parts of the Tigris and Euphrates Rivers; much of the western and southern areas are either lightly populated or uninhabited<br>
@@ -147,26 +149,26 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 1.01 male(s)/female<br>
 _65 years and over_: 0.8 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2023 est.)<br>
+_total population_: 1.02 male(s)/female (2024 est.)<br>
 
 **Maternal mortality ratio**<br>
 76 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 20.9 deaths/1,000 live births<br>
-_female_: 17.4 deaths/1,000 live births<br>
+_total_: 18.7 deaths/1,000 live births (2024 est.)<br>
+_male_: 20.4 deaths/1,000 live births<br>
+_female_: 17 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.5 years (2023 est.)<br>
-_male_: 71.6 years<br>
-_female_: 75.4 years<br>
+_total population_: 73.7 years (2024 est.)<br>
+_male_: 71.9 years<br>
+_female_: 75.7 years<br>
 
 **Total fertility rate**<br>
-3.17 children born/woman (2023 est.)<br>
+3.1 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.55 (2023 est.)<br>
+1.51 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 52.8% (2018)<br>
@@ -361,7 +363,7 @@ _judge selection and term of office_: Federal Supreme Court (FSC) judges nominat
 _subordinate courts_: Courts of Appeal (governorate level); civil courts, including first instance, personal status, labor, and customs; criminal courts including felony, misdemeanor, investigative, major crimes, juvenile, and traffic courts<br>
 
 **Political parties and leaders**<br>
-Al Fatah Alliance [Hadi al-AMIRI]<br>Azm Alliance [Khamis al-KHANJAR]<br>Babiliyun Movement [Rayan al-KILDANI]<br>Imtidad [Ala al-RIKABI]<br>Ishraqat Konun [Jaafar AZIZ]<br>Kurdistan Democratic Party F [Masud BARZANI]<br>National Contract Party [Falih al-FAYYAD]<br>New Generation Movement [SHASWAR Abd al-Wahid Qadir]<br>Patriotic Union of Kurdistan [Bafel TALABANI]<br>Sadrist Bloc [Muqtada al-SADR]<br>State Forces Alliance [Haydar al-ABADI]<br>State of Law Coalition [Nuri al-MALIKI]<br>Taqadum [Muhammad al-HALBUSI]<br>Tasmim Alliance [Asad al-IDANI]<br>numerous smaller independent, religious, local, tribal, and minority parties<br>
+Al Fatah Alliance [Hadi al-AMIRI]<br>Azm Alliance [Khamis al-KHANJAR]<br>Babiliyun Movement [Rayan al-KILDANI]<br>Imtidad [Ala al-RIKABI]<br>Ishraqat Konun [Jaafar AZIZ]<br>Kurdistan Democratic Party F [Masud BARZANI]<br>National Contract Party [Falih al-FAYYAD]<br>New Generation Movement [SHASWAR Abd al-Wahid Qadir]<br>Patriotic Union of Kurdistan [Bafel TALABANI]<br>Sadrist Bloc [Muqtada al-SADR]<br>State Forces Alliance [Haydar al-ABADI]<br>State of Law Coalition [Nuri al-MALIKI]<br>Taqadum [Muhammad al-HALBUSI]<br>Tasmim Alliance [Asad al-IDANI]<br>
 
 **International organization participation**<br>
 ABEDA, AFESD, AIIB, AMF, CAEU, CICA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>

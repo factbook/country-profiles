@@ -77,7 +77,9 @@ the country's length allows it to stretch through six distinct geographic region
 ## People and Society
 
 **Population**<br>
-8,703,961 (2023 est.)<br>
+_total_: 8,917,994<br>
+_male_: 4,395,271<br>
+_female_: 4,522,723 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Togolese (singular and plural)<br>
@@ -97,9 +99,9 @@ Christian 42.3%, folk religion 36.9%, Muslim 14%, Hindu &lt;1%, Buddhist &lt;1%,
 <p>Togo’s population is estimated to have grown to four times its size between 1960 and 2010. With nearly 60% of its populace under the age of 25 and a high annual growth rate attributed largely to high fertility, Togo’s population is likely to continue to expand for the foreseeable future. Reducing fertility, boosting job creation, and improving education will be essential to reducing the country’s high poverty rate. In 2008, Togo eliminated primary school enrollment fees, leading to higher enrollment but increased pressure on limited classroom space, teachers, and materials. Togo has a good chance of achieving universal primary education, but educational quality, the underrepresentation of girls, and the low rate of enrollment in secondary and tertiary schools remain concerns.</p> <p>Togo is both a country of emigration and asylum. In the early 1990s, southern Togo suffered from the economic decline of the phosphate sector and ethnic and political repression at the hands of dictator Gnassingbe EYADEMA and his northern, Kabye-dominated administration. The turmoil led 300,000 to 350,000 predominantly southern Togolese to flee to Benin and Ghana, with most not returning home until relative stability was restored in 1997. In 2005, another outflow of 40,000 Togolese to Benin and Ghana occurred when violence broke out between the opposition and security forces over the disputed election of EYADEMA’s son Faure GNASSINGBE to the presidency. About half of the refugees reluctantly returned home in 2006, many still fearing for their safety. Despite ethnic tensions and periods of political unrest, Togo in December 2022 was home to almost 8,400 refugees from Ghana.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 38.98% (male 1,720,743/female 1,672,286)<br>
-_15-64 years_: 56.76% (male 2,413,709/female 2,526,816)<br>
-_65 years and over_: 4.26% (2023 est.) (male 153,461/female 216,946)<br>
+_0-14 years_: 38.7% (male 1,749,533/female 1,699,084)<br>
+_15-64 years_: 57% (male 2,486,142/female 2,597,914)<br>
+_65 years and over_: 4.3% (2024 est.) (male 159,596/female 225,725)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 76.5<br>
@@ -108,21 +110,21 @@ _elderly dependency ratio_: 5.5<br>
 _potential support ratio_: 18.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20.5 years (2023 est.)<br>
-_male_: 19.8 years<br>
-_female_: 21.3 years<br>
+_total_: 20.7 years (2024 est.)<br>
+_male_: 19.9 years<br>
+_female_: 21.4 years<br>
 
 **Population growth rate**<br>
-2.45% (2023 est.)<br>
+2.41% (2024 est.)<br>
 
 **Birth rate**<br>
-31.4 births/1,000 population (2023 est.)<br>
+30.9 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-5.2 deaths/1,000 population (2023 est.)<br>
+5.1 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
--1.8 migrant(s)/1,000 population (2023 est.)<br>
+-1.7 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 one of the more densely populated African nations with most of the population residing in rural communities, density is highest in the south on or near the Atlantic coast as shown in this population distribution map<br>
@@ -139,7 +141,7 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-64 years_: 0.96 male(s)/female<br>
 _65 years and over_: 0.71 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2023 est.)<br>
+_total population_: 0.97 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25 years (2017 est.)<br>
@@ -149,20 +151,20 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 399 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 39.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 44.4 deaths/1,000 live births<br>
-_female_: 35 deaths/1,000 live births<br>
+_total_: 38.4 deaths/1,000 live births (2024 est.)<br>
+_male_: 43 deaths/1,000 live births<br>
+_female_: 33.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.7 years (2023 est.)<br>
-_male_: 69.1 years<br>
-_female_: 74.4 years<br>
+_total population_: 72.1 years (2024 est.)<br>
+_male_: 69.5 years<br>
+_female_: 74.7 years<br>
 
 **Total fertility rate**<br>
-4.18 children born/woman (2023 est.)<br>
+4.13 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-2.06 (2023 est.)<br>
+2.03 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 23.9% (2017)<br>
@@ -349,7 +351,7 @@ _election results_: <br><em>2020:</em> Faure GNASSINGBE reelected president; per
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (91 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms); party lists are required to contain equal numbers of men and women<br>
 _elections_: last held on 20 December 2018 (next election was to be held on 20 April 2024 but has been indefinitely postponed)<br>
-_election results_: percent of vote by party - NA; seats by party - UNIR 59, UFC 7, NET 3, MPDD 2, MRC 1, PDP 1, independent 18; composition as of February 2024 - men 73, women 17, percent of women 18.9%<br>
+_election results_: percent of vote by party - NA; seats by party - UNIR 59, UFC 7, NET 3, MPDD 2, MRC 1, PDP 1, independent 18; composition - men 73, women 17, percent of women 18.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (organized into criminal and administrative chambers, each with a chamber president and advisors); Constitutional Court (consists of 9 judges, including the court president)<br>

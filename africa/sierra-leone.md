@@ -79,7 +79,9 @@ rainfall along the coast can reach 495 cm (195 inches) a year, making it one of 
 ## People and Society
 
 **Population**<br>
-8,908,040 (2023 est.)<br>
+_total_: 9,121,049<br>
+_male_: 4,515,726<br>
+_female_: 4,605,323 (2024 est.)<br>
 
 **Nationality**<br>
 _noun_: Sierra Leonean(s)<br>
@@ -98,9 +100,9 @@ Muslim 77.1%, Christian 22.9% (2019 est.)<br>
 <p>Sierra Leone’s youthful and growing population is driven by its high total fertility rate (TFR) of almost 4 children per woman as of 2022, which has declined little over the last two decades. Its elevated TFR is sustained by the continued desire for large families, the low level of contraceptive use, and the early start of childbearing. Despite its high TFR, Sierra Leone’s population growth is somewhat tempered by high infant, child, and maternal mortality rates that are among the world’s highest and are a result of poverty, a lack of potable water and sanitation, poor nutrition, limited access to quality health care services, and the prevalence of female genital cutting.</p> <p>Sierra Leone’s large youth cohort – about 60% of the population is under the age of 25 – continues to struggle with high levels of unemployment, which was one of the major causes of the country’s 1991-2002 civil war and remains a threat to stability today. Its estimated 60% youth unemployment rate is attributed to high levels of illiteracy and unskilled labor, a lack of private sector jobs, and low pay.</p> <p>Sierra Leone has been a source of and destination for refugees. Sierra Leone’s civil war internally displaced as many as 2 million people, or almost half the population, and forced almost another half million to seek refuge in neighboring countries (370,000 Sierra Leoneans fled to Guinea and 120,000 to Liberia). The UNHCR has helped almost 180,000 Sierra Leoneans to return home, while more than 90,000 others have repatriated on their own. Of the more than 65,000 Liberians who took refuge in Sierra Leone during their country’s civil war (1989-2003), about 50,000 have been voluntarily repatriated by the UNHCR and others have returned home independently.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 40.54% (male 1,820,988/female 1,790,185)<br>
-_15-64 years_: 56.89% (male 2,476,286/female 2,591,155)<br>
-_65 years and over_: 2.58% (2023 est.) (male 111,937/female 117,489)<br>
+_0-14 years_: 40.1% (male 1,843,606/female 1,812,304)<br>
+_15-64 years_: 57.4% (male 2,557,715/female 2,675,418)<br>
+_65 years and over_: 2.5% (2024 est.) (male 114,405/female 117,601)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 74<br>
@@ -109,21 +111,21 @@ _elderly dependency ratio_: 5.5<br>
 _potential support ratio_: 18.3 (2020 est.)<br>
 
 **Median age**<br>
-_total_: 19.2 years (2023 est.)<br>
-_male_: 18.8 years<br>
-_female_: 19.6 years<br>
+_total_: 19.4 years (2024 est.)<br>
+_male_: 19 years<br>
+_female_: 19.9 years<br>
 
 **Population growth rate**<br>
-2.41% (2023 est.)<br>
+2.32% (2024 est.)<br>
 
 **Birth rate**<br>
-31.5 births/1,000 population (2023 est.)<br>
+30.8 births/1,000 population (2024 est.)<br>
 
 **Death rate**<br>
-9.1 deaths/1,000 population (2023 est.)<br>
+9 deaths/1,000 population (2024 est.)<br>
 
 **Net migration rate**<br>
-1.7 migrant(s)/1,000 population (2023 est.)<br>
+1.4 migrant(s)/1,000 population (2024 est.)<br>
 
 **Population distribution**<br>
 population clusters are found in the lower elevations of the south and west; the northern third of the country is less populated as shown on this population distribution map<br>
@@ -139,8 +141,8 @@ _rate of urbanization_: 3.02% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.95 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2023 est.)<br>
+_65 years and over_: 0.97 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2024 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.6 years (2019 est.)<br>
@@ -150,20 +152,20 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 443 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 72.3 deaths/1,000 live births (2023 est.)<br>
-_male_: 77.2 deaths/1,000 live births<br>
-_female_: 67.2 deaths/1,000 live births<br>
+_total_: 71.2 deaths/1,000 live births (2024 est.)<br>
+_male_: 76 deaths/1,000 live births<br>
+_female_: 66.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 59.1 years (2023 est.)<br>
-_male_: 57.5 years<br>
-_female_: 60.7 years<br>
+_total population_: 59.4 years (2024 est.)<br>
+_male_: 57.8 years<br>
+_female_: 61 years<br>
 
 **Total fertility rate**<br>
-3.71 children born/woman (2023 est.)<br>
+3.61 children born/woman (2024 est.)<br>
 
 **Gross reproduction rate**<br>
-1.83 (2023 est.)<br>
+1.78 (2024 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 21.2% (2019)<br>
@@ -341,7 +343,7 @@ _election results_: <br><em>2023: </em>Julius Maada BIO reelected president in f
 **Legislative branch**<br>
 _description_: unicameral Parliament (149 seats; 135 members directly elected in single-seat constituencies by a district block proportional representation vote and 14 seats for "paramount chiefs" indirectly elected to represent the 14 provincial districts; members serve 5-year terms)<br>
 _elections_: last held on 24 June 2023 (next to be held in 2028)<br>
-_election results_: percent of vote by party - NA; seats by party - SLPP 81, APC 54; composition as of February 2024 - men 105, women 44, percentage women 29.5%<br>
+_election results_: percent of vote by party - NA; seats by party - SLPP 81, APC 54; composition - men 105, women 44, percentage women 29.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Superior Court of Judicature (consists of the Supreme Court - at the apex - with the chief justice and 4 other judges, the Court of Appeal with the chief justice and 7 other judges, and the High Court of Justice with the chief justice and 9 other judges); note &ndash; the Judicature has jurisdiction in all civil, criminal, and constitutional matters<br>
@@ -349,7 +351,7 @@ _judge selection and term of office_: Supreme Court chief justice and other judg
 _subordinate courts_: magistrates' courts; District Appeals Court; local courts<br>
 
 **Political parties and leaders**<br>
-All People's Congress or APC [Samura KAMARA]<br>Sierra Leone People's Party or SLPP) [Julius Maada BIO]<br>numerous other parties<br>
+All People's Congress or APC [Samura KAMARA]<br>Sierra Leone People's Party or SLPP) [Julius Maada BIO]<br>
 
 **International organization participation**<br>
 ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
