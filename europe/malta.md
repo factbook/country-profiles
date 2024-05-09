@@ -378,29 +378,29 @@ high-income, EU-member European economy; diversified portfolio; euro user; depen
 $25.834 billion (2022 est.)<br>
 $24.163 billion (2021 est.)<br>
 $21.517 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 6.92% (2022 est.)<br>
 12.3% (2021 est.)<br>
 -8.08% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $48,600 (2022 est.)<br>
 $46,600 (2021 est.)<br>
 $41,800 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $18.126 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 6.15% (2022 est.)<br>
 1.5% (2021 est.)<br>
 0.64% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A+ (2017)<br>
@@ -422,24 +422,25 @@ _exports of goods and services_: 136.1% (2017 est.)<br>
 _imports of goods and services_: -117.9% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, tomatoes, potatoes, onions, cauliflowers, broccoli, eggplants, pork, cabbages, poultry<br>
+milk, tomatoes, onions, potatoes, cauliflower/broccoli, pork, chicken, cabbages, pumpkins/squash, grapes (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, electronics, ship building and repair, construction, food and beverages, pharmaceuticals, footwear, clothing, tobacco, aviation services, financial services, information technology services<br>
 
 **Industrial production growth rate**<br>
 4.3% (2014 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 295,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 2.92% (2022 est.)<br>
 3.39% (2021 est.)<br>
 4.35% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.8% (2021 est.)<br>
@@ -448,22 +449,22 @@ _female_: 5.8%<br>
 
 **Population below poverty line**<br>
 16.7% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 31.4 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1%<br>
 _highest 10%_: 25.1% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 1.25% of GDP (2022 est.)<br>
 1.49% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $5.661 billion (2019 est.)<br>
@@ -479,7 +480,7 @@ _expenditures_: $5.586 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 23.77% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -488,37 +489,41 @@ calendar year<br>
 -$1.02 billion (2022 est.)<br>
 $214.463 million (2021 est.)<br>
 $348.601 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $25.417 billion (2022 est.)<br>
 $25.533 billion (2021 est.)<br>
 $22.735 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 12%, France 9%, Italy 9% (2019)<br>
+Germany 12%, Italy 6%, France 6%, Japan 5%, Singapore 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-integrated circuits, refined petroleum, packaged medicines, postage stamps, children's toys and stuffed animals, ships (2021)<br>
+integrated circuits, packaged medicine, refined petroleum, fish, postage stamps/documents (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $23.883 billion (2022 est.)<br>
 $22.958 billion (2021 est.)<br>
 $20.164 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Russia 22%, Italy 12%, United Kingdom 11%, Germany 6%, Turkey 5%, France 5%, China 5%, South Korea 5% (2019)<br>
+Italy 14%, China 11%, South Korea 11%, Germany 10%, Canada 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, recreational boats, ships, aircraft, coal tar oil (2019)<br>
+ships, refined petroleum, aircraft, integrated circuits, packaged medicine (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $1.199 billion (2022 est.)<br>
 $1.149 billion (2021 est.)<br>
 $930.464 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $98.179 billion (2019 est.)<br>

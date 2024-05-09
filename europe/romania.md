@@ -348,7 +348,7 @@ _election results_: <em><br>2019: </em>Klaus IOHANNIS reelected president in sec
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (136 seats; members directly elected in single- and multi-seat constituencies - including 2 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>Chamber of Deputies or Camera Deputatilor (330 seats; members directly elected in single- and multi-seat constituencies - including 4 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>
 _elections_: Senate - last held on 6 December 2020 (next to be held in 2024)<br>Chamber of Deputies - last held on 6 December 2020 (next to be held in 2024)<br>
-_election results_: Senate - percent of vote by party - PSD 29.3%, PNL 25.6%, 2020 USR-PLUS Alliance 15.9%, AUR 9.2%, UDMR 5.9%, other 14.1%; seats by party - PSD 47, PNL 41, 2020 USR-PLUS Alliance 25, AUR 14, UDMR 9; composition as of February 2024 - men 111, women 24, percentage women 17.8%<br><br>Chamber of Deputies - percent of vote by party - PSD 28.9%, PNL 25.2%, 2020 USR-PLUS Alliance 15.4%, AUR 9.1%, UDMR 5.7%, other 15.7%; seats by party - PSD 110, PNL 93, 2020 USR-PLUS Alliance 55, AUR 33, UDMR 21, other 18; composition as of February 2024 - men 265, women 63, percentage women 19.2%; total Parliament percentage women 18.8%<br>
+_election results_: Senate - percent of vote by party - PSD 29.3%, PNL 25.6%, 2020 USR-PLUS Alliance 15.9%, AUR 9.2%, UDMR 5.9%, other 14.1%; seats by party - PSD 47, PNL 41, 2020 USR-PLUS Alliance 25, AUR 14, UDMR 9; composition - men 111, women 24, percentage women 17.8%<br><br>Chamber of Deputies - percent of vote by party - PSD 28.9%, PNL 25.2%, 2020 USR-PLUS Alliance 15.4%, AUR 9.1%, UDMR 5.7%, other 15.7%; seats by party - PSD 110, PNL 93, 2020 USR-PLUS Alliance 55, AUR 33, UDMR 21, other 18; composition - men 265, women 63, percentage women 19.2%; total Parliament percentage women 18.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court of Cassation and Justice (consists of 111 judges organized into civil, penal, commercial, contentious administrative and fiscal business, and joint sections); Supreme Constitutional Court (consists of 9 members)<br>
@@ -402,29 +402,29 @@ high-income, service- and industrial-based European economy; EU member but non-e
 $618.95 billion (2022 est.)<br>
 $591.757 billion (2021 est.)<br>
 $559.798 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.6% (2022 est.)<br>
 5.71% (2021 est.)<br>
 -3.68% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $32,500 (2022 est.)<br>
 $30,900 (2021 est.)<br>
 $29,100 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $300.691 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 13.8% (2022 est.)<br>
 5.05% (2021 est.)<br>
 2.63% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2011)<br>
@@ -446,24 +446,25 @@ _exports of goods and services_: 41.4% (2017 est.)<br>
 _imports of goods and services_: -43.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-maize, wheat, milk, sunflower seeds, potatoes, barley, grapes, sugar beets, rapeseed, plums/sloes<br>
+wheat, maize, milk, sunflower seeds, barley, potatoes, rapeseed, grapes, plums, apples (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 electric machinery and equipment, auto assembly, textiles and footwear, light machinery, metallurgy, chemicals, food processing, petroleum refining, mining, timber, construction materials<br>
 
 **Industrial production growth rate**<br>
 3.25% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 8.296 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.61% (2022 est.)<br>
 5.59% (2021 est.)<br>
 5.03% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 20.6% (2021 est.)<br>
@@ -472,11 +473,11 @@ _female_: 20.1%<br>
 
 **Population below poverty line**<br>
 21.2% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 34.6 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 27.3% of household expenditures (2018 est.)<br>
@@ -485,13 +486,13 @@ _on alcohol and tobacco_: 5.7% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
 _highest 10%_: 24.2% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 2.88% of GDP (2022 est.)<br>
 3.19% of GDP (2021 est.)<br>
 3.03% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $72.193 billion (2019 est.)<br>
@@ -504,11 +505,11 @@ _expenditures_: $83.59 billion (2019 est.)<br>
 55.57% of GDP (2021 est.)<br>
 57.11% of GDP (2020 est.)<br>
 43.21% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 14.96% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -517,37 +518,41 @@ calendar year<br>
 -$27.326 billion (2022 est.)<br>
 -$20.627 billion (2021 est.)<br>
 -$12.535 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $129.286 billion (2022 est.)<br>
 $115.879 billion (2021 est.)<br>
 $93.024 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 20%, Italy 10%, France 6%, Hungary 5%, Poland 4% (2021)<br>
+Germany 19%, Italy 10%, Hungary 7%, France 6%, Bulgaria 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, insulated wiring, refined petroleum, electrical control boards, seats (2019)<br>
+vehicle parts/accessories, cars, insulated wire, refined petroleum, wheat (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $149.209 billion (2022 est.)<br>
 $132.056 billion (2021 est.)<br>
 $103.899 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 19%, Italy 9%, Hungary 7%, Poland 6%, China 6% (2021)<br>
+Germany 17%, Italy 8%, Hungary 6%, Turkey 6%, Poland 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars and vehicle parts, crude petroleum, packaged medicines, insulated wiring, broadcasting equipment (2019)<br>
+crude petroleum, vehicle parts/accessories, refined petroleum, packaged medicine, cars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $55.81 billion (2022 est.)<br>
 $51.886 billion (2021 est.)<br>
 $52.191 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $117.829 billion (2019 est.)<br>

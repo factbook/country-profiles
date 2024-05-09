@@ -306,7 +306,7 @@ _election results_: <em><br>2023: </em>Xaviar Espot ZAMORA (DA) reelected head o
 **Legislative branch**<br>
 _description_: unicameral General Council of the Valleys or Consell General de les Valls (28 seats; 14 members directly elected in two-seat constituencies (7 parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms); note - voters cast two separate ballots - one for national election and one for their parish<br>
 _elections_: last held on 2 April 2023 (next to be held in April 2027)<br>
-_election results_: percent of vote by party/coalition - DA, CC, L'A &amp; ACCIO alliance 43.6%, C 21.4%, AE 16%, PS &amp; SDP alliance 21.1%; seats by party/coalition - DA, CC, L'A &amp; ACCIO alliance 17, C 5, AE 3, PS &amp; SDP alliance 3; composition as of February 2024 - men 14, women 14, percentage women 50%<br>
+_election results_: percent of vote by party/coalition - DA, CC, L'A &amp; ACCIO alliance 43.6%, C 21.4%, AE 16%, PS &amp; SDP alliance 21.1%; seats by party/coalition - DA, CC, L'A &amp; ACCIO alliance 17, C 5, AE 3, PS &amp; SDP alliance 3; composition - men 14, women 14, percentage women 50%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice of Andorra or Tribunal Superior de la Justicia d'Andorra (consists of the court president and 8 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tribunal Constitucional (consists of 4 magistrates)<br>
@@ -361,7 +361,7 @@ $3.273 billion (2013 est.)<br>
 8.81% (2022 est.)<br>
 8.29% (2021 est.)<br>
 -11.18% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $49,900 (2015 est.)<br>
@@ -370,7 +370,7 @@ $50,300 (2013 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $3.352 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 -0.9% (2015 est.)<br>
@@ -394,8 +394,8 @@ small quantities of rye, wheat, barley, oats, vegetables, tobacco, sheep, cattle
 tourism (particularly skiing), banking, timber, furniture<br>
 
 **Industrial production growth rate**<br>
-4.94% (2022 est.) NA<br>
-note: annual % change in industrial value added based on constant local currency<br>
+4.94% (2022 est.)<br>
+<strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 39,750 (2016)<br>
@@ -404,15 +404,11 @@ note: annual % change in industrial value added based on constant local currency
 3.7% (2016 est.)<br>
 4.1% (2015 est.)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 1.59% of GDP (2021 est.)<br>
 1.64% of GDP (2020 est.)<br>
 0.67% of GDP (2019 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.872 billion (2016)<br>
@@ -435,31 +431,35 @@ calendar year<br>
 $467.435 million (2021 est.)<br>
 $448.869 million (2020 est.)<br>
 $568.257 million (2019 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $2.414 billion (2021 est.)<br>
 $1.842 billion (2020 est.)<br>
 $2.335 billion (2019 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Spain 40%, France 19%, United States 11%, Mauritania 5% (2019)<br>
+Spain 73%, France 6%, UK 3%, US 2%, Germany 2% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-integrated circuits, dental fitting supplies, cars, gold, essential oils (2021)<br>
+paintings, integrated circuits, cars, orthopedic appliances, garments (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $2.143 billion (2021 est.)<br>
 $1.727 billion (2020 est.)<br>
 $2.032 billion (2019 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Spain 71%, France 17% (2019)<br>
+Spain 66%, France 12%, Germany 4%, China 3%, Italy 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, refined petroleum, perfumes, shaving products, liquors (2019)<br>
+cars, refined petroleum, garments, electricity, beauty products (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Debt - external**<br>
 $0 (2016)<br>

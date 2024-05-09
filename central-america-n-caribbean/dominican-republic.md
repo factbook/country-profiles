@@ -347,7 +347,7 @@ _election results_: <br><em>2020:</em> Luis Rodolfo ABINADER Corona elected pres
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (32 seats; 26 members directly elected in single-seat constituencies by simple majority vote, and 6 members indirectly elected based upon province-wide party plurality votes for its candidates to the Chamber of Deputies; all members serve 4-year terms; note - in 2019, the Central Election Commission changed the electoral system for seats in 26 constituencies to simple majority vote but retained indirect election for the remaining 6 constituencies; previously, all 32 members were indirectly elected; the change had been challenged by the ruling and opposition parties)<br><br>House of Representatives or Camara de Diputados (190 seats; 178 members directly elected in multi-seat constituencies by closed party-list proportional representation vote using the D'Hondt method, 5 members in a nationwide constituency, and 7 diaspora members directly elected by simple majority vote; members serve 4-year terms)<br>
 _elections_: Senate - last held on 5 July 2020 (next to be held on 19 May 2024)<br>House of Representatives - last held on 5 July 2020 (next to be held on 19 May 2024); note - the 2020 election was rescheduled from 17 May to 5 July 2020 due to the COVID-19 pandemic<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PRM 17, PLD 6, PRSC 6, BIS 1, DXC 1, FP 1; composition as of March 2024 - men 28, women 4, percentage women 12.5%<br><br>House of Representatives - percent of vote by party - NA; seats by party - PRM 86, PLD 75, PRSC 6, PRD 4, Broad Front 3, FP 3, AP 2, APD 2, BIS 2, DXC 2, other 5; composition as of March 2024 - men 137, women 53, percentage women 27.9%; total National Congress percentage women 25.7%<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - PRM 17, PLD 6, PRSC 6, BIS 1, DXC 1, FP 1; composition - men 28, women 4, percentage women 12.5%<br><br>House of Representatives - percent of vote by party - NA; seats by party - PRM 86, PLD 75, PRSC 6, PRD 4, Broad Front 3, FP 3, AP 2, APD 2, BIS 2, DXC 2, other 5; composition - men 137, women 53, percentage women 27.9%; total National Congress percentage women 25.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Suprema Corte de Justicia (consists of a minimum of 16 magistrates); Constitutional Court or Tribunal Constitucional (consists of 13 judges); note - the Constitutional Court was established in 2010 by constitutional amendment<br>
@@ -400,29 +400,29 @@ surging middle-income tourism, construction, mining, and telecommunications OECS
 $217.143 billion (2022 est.)<br>
 $207.082 billion (2021 est.)<br>
 $184.447 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.86% (2022 est.)<br>
 12.27% (2021 est.)<br>
 -6.72% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $19,300 (2022 est.)<br>
 $18,600 (2021 est.)<br>
 $16,800 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $113.537 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8.81% (2022 est.)<br>
 8.24% (2021 est.)<br>
 3.78% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2016)<br>
@@ -444,24 +444,25 @@ _exports of goods and services_: 24.8% (2017 est.)<br>
 _imports of goods and services_: -28.1% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, bananas, papayas, rice, plantains, milk, avocados, fruit, pineapples, coconuts<br>
+sugarcane, bananas, papayas, plantains, rice, milk, avocados, watermelons, vegetables, pineapples (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, sugar processing, gold mining, textiles, cement, tobacco, electrical components, medical devices<br>
 
 **Industrial production growth rate**<br>
 1.43% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 5.175 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.5% (2022 est.)<br>
 7.7% (2021 est.)<br>
 6.13% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 20.6% (2021 est.)<br>
@@ -470,11 +471,11 @@ _female_: 27.9%<br>
 
 **Population below poverty line**<br>
 23.9% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 38.5 (2021 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 26.8% of household expenditures (2018 est.)<br>
@@ -483,13 +484,13 @@ _on alcohol and tobacco_: 3.8% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 30.2% (2021 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 9.05% of GDP (2022 est.)<br>
 11.4% of GDP (2021 est.)<br>
 10.57% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $12.804 billion (2019 est.)<br>
@@ -504,7 +505,7 @@ _expenditures_: $14.511 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 14.38% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -513,37 +514,41 @@ calendar year<br>
 -$6.327 billion (2022 est.)<br>
 -$2.685 billion (2021 est.)<br>
 -$1.337 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $25.103 billion (2022 est.)<br>
 $20.601 billion (2021 est.)<br>
 $14.889 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 51%, Haiti 7%, Switzerland 7%, India 5%, Netherlands 3% (2021)<br>
+US 50%, Switzerland 8%, Haiti 7%, China 3%, India 3% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, medical instruments, cigars, low-voltage protection equipment, iron alloys, clothing (2021)<br>
+medical instruments, gold, tobacco, power equipment, garments (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $36.36 billion (2022 est.)<br>
 $28.69 billion (2021 est.)<br>
 $20.302 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 42%, China 19%, Spain 3%, Brazil 3%, Mexico 3% (2021)<br>
+US 44%, China 15%, Brazil 4%, Colombia 3%, Spain 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, natural gas, jewelry, vaccines and cultures (2021)<br>
+refined petroleum, natural gas, cars, plastic products, crude petroleum (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $14.523 billion (2022 est.)<br>
 $13.125 billion (2021 est.)<br>
 $10.845 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $23.094 billion (2019 est.)<br>

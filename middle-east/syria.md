@@ -384,7 +384,7 @@ $61.9 billion (2013 est.)<br>
 1.3% (2021 est.)<br>
 -0.18% (2020 est.)<br>
 1.22% (2019 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $2,900 (2015 est.)<br>
@@ -394,7 +394,7 @@ $2,800 (2013 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $8.97 billion (2021 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 28.1% (2017 est.)<br>
@@ -414,24 +414,25 @@ _exports of goods and services_: 16.1% (2017 est.)<br>
 _imports of goods and services_: -46.1% (2017 est.)<br>
 
 **Agricultural products**<br>
-wheat, barley, milk, olives, tomatoes, oranges, potatoes, sheep milk, lemons, limes<br>
+wheat, milk, olives, sheep milk, tomatoes, potatoes, maize, watermelons, apples, oranges (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 petroleum, textiles, food processing, beverages, tobacco, phosphate rock mining, cement, oil seeds crushing, automobile assembly<br>
 
 **Industrial production growth rate**<br>
 -14.03% (2021 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 5.816 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 13.81% (2022 est.)<br>
 15.08% (2021 est.)<br>
 15.28% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 26.2% (2021 est.)<br>
@@ -441,15 +442,11 @@ _female_: 51.1%<br>
 **Population below poverty line**<br>
 82.5% (2014 est.)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 0% of GDP (2021 est.)<br>
 0% of GDP (2020 est.)<br>
 0% of GDP (2019 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.162 billion (2017 est.)<br>
@@ -474,24 +471,32 @@ calendar year<br>
 -$2.077 billion (2016 est.)<br>
 
 **Exports**<br>
-$1.85 billion (2017 est.)<br>
-$1.705 billion (2016 est.)<br>
+$2.224 billion (2021 est.)<br>
+$1.649 billion (2020 est.)<br>
+$2.94 billion (2019 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Saudi Arabia 23%, Turkey 18%, Egypt 14%, United Arab Emirates 8%, Jordan 7%, Kuwait 5% (2019)<br>
+Turkey 29%, Kuwait 15%, Lebanon 14%, Jordan 8%, Egypt 7% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-olive oil, cumin seeds, pistachios, tomatoes, apples, pears, spices, pitted fruits (2019)<br>
+pure olive oil, nuts, phosphates, cotton, garments (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$6.279 billion (2017 est.)<br>
-$5.496 billion (2016 est.)<br>
+$6.553 billion (2021 est.)<br>
+$3.751 billion (2020 est.)<br>
+$6.552 billion (2019 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Turkey 27%, China 22%, United Arab Emirates 14%, Egypt 5% (2019)<br>
+Turkey 45%, UAE 10%, China 9%, Lebanon 8%, Egypt 7% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cigarettes, broadcasting equipment, wheat flours, sunflower oil, refined petroleum (2019)<br>
+tobacco, plastics, wheat, seed oils, plastic products (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $407.3 million (31 December 2017 est.)<br>

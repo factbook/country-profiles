@@ -277,7 +277,7 @@ _elections/appointments_: the monarch is hereditary; governor appointed by the m
 **Legislative branch**<br>
 _description_: unicameral House of Assembly (21 seats; 15 members in multi-seat constituencies and a single all-islands constituency directly elected by simple majority vote, 1 member nominated by the premier and appointed by the governor, 1 nominated by the opposition party leader and appointed by the governor, and 2 from the Turks and Caicos Islands Civic Society directly appointed by the governor, and 2 ex-officio members; members serve 4-year terms)<br>
 _elections_: last held on 19 February 2021 (next to be held in 2025)<br>
-_election results_: percent of vote - NA; seats by party - PNP 14, PDM 1; composition (elected members) as of April 2024 - men 11, women 3, percentage women 27.3%<br>
+_election results_: percent of vote - NA; seats by party - PNP 14, PDM 1; composition - men 11, women 3, percentage women 27.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and other judges, as determined by the governor); Court of Appeal (consists of the court president and 2 justices); note - appeals beyond the Supreme Court are referred to the Judicial Committee of the Privy Council (in London)<br>
@@ -316,23 +316,23 @@ British Caribbean island territorial economy; GDP and its tourism industry hit h
 $946.893 million (2022 est.)<br>
 $891.613 million (2021 est.)<br>
 $817.993 million (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 6.2% (2022 est.)<br>
 9% (2021 est.)<br>
 -26.78% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $20,700 (2022 est.)<br>
 $19,800 (2021 est.)<br>
 $18,500 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.139 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4% (2017 est.)<br>
@@ -359,20 +359,13 @@ tourism, offshore financial services<br>
 
 **Industrial production growth rate**<br>
 5% (2021 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
-
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Remittances**<br>
 0% of GDP (2022 est.)<br>
 0% of GDP (2021 est.)<br>
 0% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $247.3 million (2017 est.)<br>
@@ -385,31 +378,35 @@ calendar year<br>
 $172.709 million (2018 est.)<br>
 $35.016 million (2017 est.)<br>
 $247.081 million (2016 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $826.824 million (2018 est.)<br>
 $602.581 million (2017 est.)<br>
 $741.173 million (2016 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-France 31%, United States 16%, Zambia 13%, Singapore 9%, Republic of the Congo 8% (2019)<br>
+Togo 61%, US 13%, Zimbabwe 6%, Democratic Republic of the Congo 3%, Central African Republic 2% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-plastic building materials, stone processing machinery, iron structures, crustaceans, integrated circuits (2019)<br>
+fertilizers, shellfish, plastics, sulfur, soybean oil (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $544.219 million (2018 est.)<br>
 $484.842 million (2017 est.)<br>
 $438.041 million (2016 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 76% (2019)<br>
+US 75%, Dominican Republic 6%, Italy 3%, Switzerland 2%, China 2% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, jewelry, furniture, soybeans (2019)<br>
+refined petroleum, cars, plastic products, furniture, aluminum structures (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Debt - external**<br>
 <p>NA</p><br>

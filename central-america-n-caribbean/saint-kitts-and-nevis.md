@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-Carib Indians occupied the islands of the West Indies for hundreds of years before the British and French began settlement in 1623. During the course of the 17th century, Saint Kitts became the premier base for English and French expansion into the Caribbean. The French ceded the territory to the UK in 1713. At the turn of the 18th century, Saint Kitts was the richest British Crown Colony per capita in the Caribbean, a result of the sugar trade. Although small in size and separated by only 3 km (2 mi) of water, Saint Kitts and Nevis were viewed and governed as different states until the late-19th century, when the British forcibly unified them along with the island of Anguilla. In 1967, the island territory of Saint Christopher-Nevis-Anguilla became an associated state of the UK with full internal autonomy. The island of Anguilla rebelled and was allowed to secede in 1971. The remaining islands achieved independence in 1983 as Saint Kitts and Nevis. In 1998, a referendum on Nevis to separate from Saint Kitts fell short of the two-thirds majority vote needed.<br>
+Carib Indians occupied the islands of the West Indies for hundreds of years before the British and French began settlement in 1623. During the 17th century, Saint Kitts became the premier base for British and French expansion into the Caribbean. The French ceded the territory to the UK in 1713. At the turn of the 18th century, Saint Kitts was the richest British Crown Colony per capita in the Caribbean, a result of the sugar trade. Although small in size and separated by only 3 km (2 mi) of water, Saint Kitts and Nevis were viewed and governed as different states until the late-19th century, when the British forcibly unified them along with the island of Anguilla. In 1967, the island territory of Saint Christopher-Nevis-Anguilla became an associated state of the UK with full internal autonomy. The island of Anguilla rebelled and was allowed to secede in 1971. The remaining islands achieved independence in 1983 as Saint Kitts and Nevis. In 1998, a referendum on Nevis to separate from Saint Kitts fell short of the necessary two-thirds majority.<br>
 
 ## Geography
 
@@ -310,7 +310,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 **Legislative branch**<br>
 _description_: unicameral National Assembly (14 or 15 seats, depending on inclusion of attorney general; 11 members directly elected in single-seat constituencies by simple majority vote and 3 appointed by the governor general - 2 on the advice of the prime minister and the third on the advice of the opposition leader; members serve 5-year terms)<br>
 _elections_: last held on 5 August 2022 (next to be held on 2027)<br>
-_election results_: percent of vote by party - SKNLP 44.4%, PLP 16.1%, PAM 16.2%, CCM 12.7%, other 10.6%; seats by party - SKNLP 6, CCM 3, PLP 1, CCM 1; composition as of February 2024 - men 11, women 5, percentage women 31.3%<br>
+_election results_: percent of vote by party - SKNLP 44.4%, PLP 16.1%, PAM 16.2%, CCM 12.7%, other 10.6%; seats by party - SKNLP 6, CCM 3, PLP 1, CCM 1; composition - men 11, women 5, percentage women 31.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Saint Kitts and Nevis; note - the ECSC in 2003 replaced the Judicial Committee of the Privy Council (in London) as the final court of appeal on Saint Kitts and Nevis; Saint Kitts and Nevis is also a member of the Caribbean Court of Justice<br>
@@ -358,29 +358,29 @@ high-income, tourism-based Caribbean OECS economy; better debt balancing; CARICO
 $1.371 billion (2022 est.)<br>
 $1.26 billion (2021 est.)<br>
 $1.271 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 8.85% (2022 est.)<br>
 -0.89% (2021 est.)<br>
 -14.56% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $28,800 (2022 est.)<br>
 $26,500 (2021 est.)<br>
 $26,700 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $965.639 million (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 2.67% (2022 est.)<br>
 1.2% (2021 est.)<br>
 -1.17% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.1% (2017 est.)<br>
@@ -396,27 +396,21 @@ _exports of goods and services_: 62.5% (2017 est.)<br>
 _imports of goods and services_: -60.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-coconuts, tropical fruit, roots/tubers, vegetables, sweet potatoes, pulses, watermelons, carrots/turnips, eggs, tomatoes<br>
+coconuts, tropical fruits, root vegetables, vegetables, eggs, pulses, tomatoes, beef, sweet potatoes, watermelons (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, cotton, salt, copra, clothing, footwear, beverages<br>
 
 **Industrial production growth rate**<br>
 -2.92% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
-
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Remittances**<br>
 3.41% of GDP (2022 est.)<br>
 4.32% of GDP (2021 est.)<br>
 3.57% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $286 million (2020 est.)<br>
@@ -429,11 +423,11 @@ _expenditures_: $324 million (2020 est.)<br>
 62.9% of GDP (2017 est.)<br>
 61.5% of GDP (2016 est.)<br>
 57.6% of GDP (2014 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 15.04% (of GDP) (2020 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -442,37 +436,41 @@ calendar year<br>
 -$33.19 million (2022 est.)<br>
 -$50.346 million (2021 est.)<br>
 -$96.291 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $531.408 million (2022 est.)<br>
 $392.744 million (2021 est.)<br>
 $353.961 million (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 56%, Italy 19%, Canada 4%, Germany 3%, Saint Vincent and the Grenadines 3% (2021)<br>
+US 61%, India 7%, Trinidad and Tobago 5%, Germany 4%, Canada 3% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-broadcasting equipment, recreational boats, electrical plugs and sockets, measuring instruments, electrical transformers (2021)<br>
+measuring instruments, broadcasting equipment, electrical transformers, electrical control boards, ships (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $531.167 million (2022 est.)<br>
 $412.276 million (2021 est.)<br>
 $430.263 million (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 50%, Trinidad and Tobago 10%, China 5%, Jamaica 4%, Germany 4% (2021)<br>
+US 47%, Italy 9%, Turkey 6%, Trinidad and Tobago 6%, China 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, ships, cars, poultry, valves, jewelry (2021)<br>
+ships, refined petroleum, plastic products, cars, jewelry (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $293.98 million (2022 est.)<br>
 $337.533 million (2021 est.)<br>
 $373.502 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $201.8 million (31 December 2017 est.)<br>

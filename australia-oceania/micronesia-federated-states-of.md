@@ -296,7 +296,7 @@ _election results_: David W. PANUELO elected president by Congress; Yosiwo P. GE
 **Legislative branch**<br>
 _description_: unicameral Congress (14 seats; 10 members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms and 4 at- large members directly elected from each of the 4 states by proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 7 March 2023 (next to be held in March 2025)<br>
-_election results_: percent of vote - NA; seats by party - independent 14; composition as of February 2024 - men 11, women 2; percentage women 15.4%<br>
+_election results_: percent of vote - NA; seats by party - independent 14; composition - men 11, women 2; percentage women 15.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federated States of Micronesia (FSM) Supreme Court (consists of the chief justice and not more than 5 associate justices and organized into appellate and criminal divisions)<br>
@@ -349,29 +349,29 @@ lower middle-income Pacific island economy; US aid reliance, sunsetting in 2024;
 $372.593 million (2022 est.)<br>
 $375.698 million (2021 est.)<br>
 $383.46 million (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -0.83% (2022 est.)<br>
 -2.02% (2021 est.)<br>
 -2.77% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $3,300 (2022 est.)<br>
 $3,300 (2021 est.)<br>
 $3,400 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $424 million (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5.41% (2022 est.)<br>
 3.19% (2021 est.)<br>
 0.55% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 26.3% (2013 est.)<br>
@@ -387,14 +387,15 @@ _exports of goods and services_: 27.5% (2016 est.)<br>
 _imports of goods and services_: -77% (2016 est.)<br>
 
 **Agricultural products**<br>
-coconuts, cassava, vegetables, sweet potatoes, bananas, pork, plantains, fruit, eggs, beef<br>
+coconuts, cassava, vegetables, sweet potatoes, bananas, pork, plantains, fruits, beef, eggs (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, construction; specialized aquaculture, craft items (shell and wood)<br>
 
 **Industrial production growth rate**<br>
--4.51% (2022 est.) NA<br>
-note: annual % change in industrial value added based on constant local currency<br>
+-4.51% (2022 est.)<br>
+<strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 37,920 (2010 est.)<br>
@@ -409,22 +410,22 @@ _female_: 29.9%<br>
 
 **Population below poverty line**<br>
 41.2% (2013 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 40.1 (2013 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9%<br>
 _highest 10%_: 29.7% (2013 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 5.5% of GDP (2022 est.)<br>
 5.75% of GDP (2021 est.)<br>
 5.72% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $320 million (2018 est.)<br>
@@ -437,11 +438,11 @@ _expenditures_: $223 million (2018 est.)<br>
 25.4% of GDP (2020 est.)<br>
 22.87% of GDP (2019 est.)<br>
 23.11% of GDP (2018 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 6.43% (of GDP) (2020 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
@@ -450,36 +451,41 @@ note: central government tax revenue as a % of GDP<br>
 $12 million (2017 est.)<br>
 $11 million (2016 est.)<br>
 $22.408 million (2014 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $179 million (2021 est.)<br>
 $122 million (2020 est.)<br>
 $130 million (2019 est.)<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Thailand 81%, China 9%, Japan 4%, Philippines 4%, United States 1% (2021)<br>
+Thailand 78%, Philippines 12%, Japan 5%, Ecuador 2%, US 1% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-skipjack, tuna, fish fillets, aircraft, scrap iron (2021)<br>
+fish, integrated circuits, garments, aircraft parts, broadcasting equipment (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $126 million (2021 est.)<br>
 $133 million (2020 est.)<br>
 $121 million (2019 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 34%, China 16%, Japan 11%, Taiwan 7%, South Korea 6% (2021)<br>
+US 37%, China 21%, Japan 10%, South Korea 8%, Taiwan 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-poultry meats, broadcasting equipment, other meats, cars, fish products, rice, lumber (2021)<br>
+plastic products, ships, poultry, refined petroleum, fish (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $497.434 million (2021 est.)<br>
 $451.913 million (2020 est.)<br>
 $397.158 million (2019 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $93.6 million (2013 est.)<br>

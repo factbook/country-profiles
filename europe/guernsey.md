@@ -289,14 +289,14 @@ $3.42 billion (2013 est.)<br>
 8.65% (2021 est.)<br>
 -7.97% (2020 est.)<br>
 1.33% (2019 est.)<br>
-note: annual GDP % growth based on constant local currency; entry includes Jersey and Guernsey<br>
+<b>note:</b> annual GDP % growth based on constant local currency; entry includes Jersey and Guernsey<br>
 
 **Real GDP per capita**<br>
 $52,500 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $11.736 billion (2021 est.)<br>
-note: data in current dollars at official exchange rate; entry includes Jersey and Guernsey<br>
+<b>note:</b> data in current dollars at official exchange rate; entry includes Jersey and Guernsey<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3% (2000)<br>
@@ -311,29 +311,22 @@ tourism, banking<br>
 
 **Industrial production growth rate**<br>
 25.3% (2021 est.)<br>
-note: annual % change in industrial value added based on constant local currency; entry includes Jersey and Guernsey<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency; entry includes Jersey and Guernsey<br>
 
 **Labor force**<br>
 86,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work;entry includes Jersey and Guernsey<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work;entry includes Jersey and Guernsey<br>
 
 **Unemployment rate**<br>
 6.03% (2022 est.)<br>
 6.73% (2021 est.)<br>
 6.72% (2020 est.)<br>
-note: % of labor force seeking employment; entry includes Jersey and Guernsey<br>
+<b>note:</b> % of labor force seeking employment; entry includes Jersey and Guernsey<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.8% (2021 est.)<br>
 _male_: 15.9%<br>
 _female_: 15.6%<br>
-
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Budget**<br>
 _revenues_: $563.6 million (2005)<br>

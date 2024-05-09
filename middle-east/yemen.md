@@ -396,7 +396,7 @@ $90.63 billion (2015 est.)<br>
 0.75% (2018 est.)<br>
 -5.07% (2017 est.)<br>
 -9.38% (2016 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $2,500 (2017 est.)<br>
@@ -406,13 +406,13 @@ $3,200 (2015 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $21.606 billion (2018 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 24.7% (2017 est.)<br>
 -12.6% (2016 est.)<br>
 8.1% (2014 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 20.3% (2017 est.)<br>
@@ -428,24 +428,25 @@ _exports of goods and services_: 7.5% (2017 est.)<br>
 _imports of goods and services_: -43.9% (2017 est.)<br>
 
 **Agricultural products**<br>
-mangoes/guavas, potatoes, sorghum, onions, milk, poultry, watermelons, grapes, oranges, bananas<br>
+mangoes/guavas, potatoes, onions, milk, sorghum, spices, watermelons, chicken, tomatoes, grapes (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 crude oil production and petroleum refining; small-scale production of cotton textiles, leather goods; food processing; handicrafts; aluminum products; cement; commercial ship repair; natural gas production<br>
 
 **Industrial production growth rate**<br>
 -1.12% (2018 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 6.663 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 17.61% (2022 est.)<br>
 18.65% (2021 est.)<br>
 18.34% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 25.5% (2021 est.)<br>
@@ -454,22 +455,22 @@ _female_: 36.3%<br>
 
 **Population below poverty line**<br>
 48.6% (2014 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 36.7 (2014 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3%<br>
 _highest 10%_: 29.4% (2014 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 17.21% of GDP (2022 est.)<br>
 21.03% of GDP (2021 est.)<br>
 20.19% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $2.207 billion (2019 est.)<br>
@@ -492,37 +493,41 @@ calendar year<br>
 -$2.419 billion (2016 est.)<br>
 -$3.026 billion (2015 est.)<br>
 -$1.488 billion (2014 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $384.5 million (2017 est.)<br>
 $938.469 million (2016 est.)<br>
 $1.867 billion (2015 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 53%, Saudi Arabia 10%, United Arab Emirates 7%, Australia 5% (2019)<br>
+China 32%, Thailand 20%, India 12%, UAE 7%, Oman 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, gold, fish, industrial chemical liquids, scrap iron (2019)<br>
+crude petroleum, scrap iron, gold, fish, shellfish (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $4.079 billion (2017 est.)<br>
 $8.256 billion (2016 est.)<br>
 $7.697 billion (2015 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 25%, Turkey 10%, United Arab Emirates 9%, Saudi Arabia 8%, India 7% (2019)<br>
+China 26%, UAE 14%, Turkey 10%, India 10%, Oman 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-wheat, refined petroleum, iron, rice, cars (2019)<br>
+wheat, raw iron bars, rice, garments, milk (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $1.251 billion (2022 est.)<br>
 $1.688 billion (2021 est.)<br>
 $969.613 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $6.805 billion (2018 est.)<br>

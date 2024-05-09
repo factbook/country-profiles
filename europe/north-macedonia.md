@@ -333,7 +333,7 @@ _election results_: <em>2024: </em>Talat XHAFERI elected caretaker Prime Ministe
 **Legislative branch**<br>
 _description_: unicameral Assembly - Sobranie in Macedonian, Kuvend in Albanian (between 120 and 140 seats, currently 120; members directly elected in multi-seat constituencies by closed-list proportional representation vote; possibility of 3 directly elected in diaspora constituencies by simple majority vote provided there is sufficient voter turnout; members serve 4-year terms)<br>
 _elections_: last held on 15 July 2020 (next to be held on 8 May 2024)<br>
-_election results_: percent of vote by party/coalition - We Can! 35.9%, Renewal 34.6%, BDI 11.5%, AfA-Alternative 9%, The Left 4.1%, PDSH 1.5%, other 3.4%; seats by party/coalition - We Can! 46, Renewal 44, BDI 15, AfA-Alternative 12, The Left 2, PDSH 1; composition as of March 2024 - men 69, women 51, percentage women 42.5%<br>
+_election results_: percent of vote by party/coalition - We Can! 35.9%, Renewal 34.6%, BDI 11.5%, AfA-Alternative 9%, The Left 4.1%, PDSH 1.5%, other 3.4%; seats by party/coalition - We Can! 46, Renewal 44, BDI 15, AfA-Alternative 12, The Left 2, PDSH 1; composition - men 69, women 51, percentage women 42.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 22 judges); Constitutional Court (consists of 9 judges)<br>
@@ -387,29 +387,29 @@ growing upper middle-income European economy; EU accession stalled due to Bulgar
 $35.245 billion (2022 est.)<br>
 $34.505 billion (2021 est.)<br>
 $32.704 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.15% (2022 est.)<br>
 5.51% (2021 est.)<br>
 -6.11% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $17,100 (2022 est.)<br>
 $16,700 (2021 est.)<br>
 $15,800 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $13.563 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 14.2% (2022 est.)<br>
 3.23% (2021 est.)<br>
 1.2% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB+ (2019)<br>
@@ -430,24 +430,25 @@ _exports of goods and services_: 54% (2017 est.)<br>
 _imports of goods and services_: -69% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, grapes, wheat, potatoes, green chillies/peppers, cabbages, tomatoes, maize, barley, watermelons<br>
+milk, grapes, chilies/peppers, wheat, potatoes, apples, tomatoes, cabbages, maize, barley (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 food processing, beverages, textiles, chemicals, iron, steel, cement, energy, pharmaceuticals, automotive parts<br>
 
 **Industrial production growth rate**<br>
 -4.33% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 916,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 14.43% (2022 est.)<br>
 15.78% (2021 est.)<br>
 16.55% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 34.1% (2021 est.)<br>
@@ -456,11 +457,11 @@ _female_: 38.4%<br>
 
 **Population below poverty line**<br>
 21.8% (2019 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33.5 (2019 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 30.8% of household expenditures (2018 est.)<br>
@@ -469,13 +470,13 @@ _on alcohol and tobacco_: 7.3% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9%<br>
 _highest 10%_: 22.9% (2019 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 3.36% of GDP (2022 est.)<br>
 3.5% of GDP (2021 est.)<br>
 3.8% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $3.505 billion (2020 est.)<br>
@@ -491,7 +492,7 @@ _expenditures_: $4.5 billion (2020 est.)<br>
 
 **Taxes and other revenues**<br>
 17.39% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -500,37 +501,41 @@ calendar year<br>
 -$864.777 million (2022 est.)<br>
 -$374.85 million (2021 est.)<br>
 -$360.444 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $10.126 billion (2022 est.)<br>
 $9.208 billion (2021 est.)<br>
 $7.19 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 45%, Serbia 8%, Bulgaria 5% (2019)<br>
+Germany 42%, Serbia 8%, Greece 7%, Bulgaria 5%, Italy 3% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-support catalysts, centrifuges, insulated wiring, iron alloys, seats (2021)<br>
+reaction and catalytic products, insulated wire, electricity, garments, vehicle parts/accessories (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $13.008 billion (2022 est.)<br>
 $11.362 billion (2021 est.)<br>
 $8.773 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United Kingdom 14%, Germany 14%, Greece 8%, Serbia 8% (2019)<br>
+UK 16%, Greece 13%, Germany 9%, Serbia 8%, China 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-platinum, refined petroleum, laboratory ceramics, cars, insulated wiring (2019)<br>
+platinum, refined petroleum, electricity, precious metal compounds, natural gas (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $4.12 billion (2022 est.)<br>
 $4.129 billion (2021 est.)<br>
 $4.126 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $9.065 billion (2019 est.)<br>

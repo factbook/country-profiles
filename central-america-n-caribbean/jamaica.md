@@ -324,7 +324,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (21 seats; 13 members appointed by the governor general on the advice of the prime minister and 8 members appointed by the governor general on the advice of the opposition party leader; members serve 5-year terms (no term limits) or until Parliament is dissolved)<br>House of Representatives (63 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms (no term limits) or until Parliament is dissolved)<br>
 _elections_: Senate - last full slate of appointments early on 3 September 2020 (next full slate in 2025)<br>House of Representatives - last held on 3 September 2020 (next to be held in 2025)<br>
-_election results_: Senate - percent by party - NA; seats by party - NA; composition as of February 2024 - men 13, women 8, percentage women 38.1%<br><br>House of Representatives - percent of vote by party - JLP 57%, PNP 42.8%, independent 0.2%; seats by party - JLP 48, PNP 15; composition as of February 2024 - men 45, women 14; percentage women 23.7%; note - total Parliament percentage women 27.5%<br>
+_election results_: Senate - percent by party - NA; seats by party - NA; composition - men 13, women 8, percentage women 38.1%<br><br>House of Representatives - percent of vote by party - JLP 57%, PNP 42.8%, independent 0.2%; seats by party - JLP 48, PNP 15; composition - men 45, women 14; percentage women 23.7%; note - total Parliament percentage women 27.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of president of the court and a minimum of 4 judges); Supreme Court (40 judges organized in specialized divisions); note - appeals beyond Jamaica's highest courts are referred to the Judicial Committee of the Privy Council (in London) rather than to the Caribbean Court of Justice (the appellate court for member states of the Caribbean Community)<br>
@@ -378,29 +378,29 @@ upper middle-income Caribbean island economy; ongoing debt restructuring; hurric
 $28.579 billion (2022 est.)<br>
 $27.161 billion (2021 est.)<br>
 $25.966 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 5.22% (2022 est.)<br>
 4.6% (2021 est.)<br>
 -9.92% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $10,100 (2022 est.)<br>
 $9,600 (2021 est.)<br>
 $9,200 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $17.098 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 10.35% (2022 est.)<br>
 5.86% (2021 est.)<br>
 5.23% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2019)<br>
@@ -422,24 +422,25 @@ _exports of goods and services_: 30.1% (2017 est.)<br>
 _imports of goods and services_: -47.1% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, goat milk, yams, poultry, coconuts, oranges, bananas, gourds, plantains, grapefruit<br>
+sugarcane, yams, goat milk, chicken, coconuts, oranges, bananas, pumpkins/squash, plantains, sweet potatoes (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 agriculture, mining, manufacture, construction, financial and insurance services, tourism, telecommunications<br>
 
 **Industrial production growth rate**<br>
 -0.38% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 1.517 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.5% (2022 est.)<br>
 6.16% (2021 est.)<br>
 6.5% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 26.1% (2021 est.)<br>
@@ -460,7 +461,7 @@ _highest 10%_: 29.3% (2015)<br>
 21.57% of GDP (2022 est.)<br>
 25.29% of GDP (2021 est.)<br>
 22.2% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $4.029 billion (2020 est.)<br>
@@ -473,11 +474,11 @@ _expenditures_: $4.564 billion (2020 est.)<br>
 106.28% of GDP (2020 est.)<br>
 92.25% of GDP (2019 est.)<br>
 102.46% of GDP (2017 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 25.71% (of GDP) (2020 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
@@ -486,37 +487,41 @@ note: central government tax revenue as a % of GDP<br>
 -$129.756 million (2022 est.)<br>
 $149.262 million (2021 est.)<br>
 -$156.91 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $6.424 billion (2022 est.)<br>
 $4.401 billion (2021 est.)<br>
 $3.249 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 46%, Netherlands 9%, Canada 6%, United Kingdom 4%, Russia 3% (2021)<br>
+US 57%, Russia 5%, Canada 4%, UK 4%, Iceland 2% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-aluminum oxide, refined petroleum, aluminum, rums, fruits, nuts, natural gas, sauces and seasonings (2021)<br>
+refined petroleum, natural gas, aluminum oxide, liquor, aluminum ore (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $9.726 billion (2022 est.)<br>
 $7.405 billion (2021 est.)<br>
 $5.913 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 35%, China 13%, Turkey 5%, Trinidad and Tobago 3%, Japan 3% (2021)<br>
+US 36%, China 12%, Trinidad and Tobago 6%, Brazil 5%, Turkey 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, natural gas, cars, crude petroleum, iron bars, steel bars (2021)<br>
+refined petroleum, crude petroleum, natural gas, cars, plastic products (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $4.52 billion (2022 est.)<br>
 $4.838 billion (2021 est.)<br>
 $3.938 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $13.876 billion (2019 est.)<br>

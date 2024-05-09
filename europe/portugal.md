@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Following its heyday as a global maritime power during the 15th and 16th centuries, Portugal lost much of its wealth and status with the destruction of Lisbon in a 1755 earthquake, occupation during the Napoleonic Wars, and the independence of Brazil, its wealthiest colony, in 1822. A 1910 revolution deposed the monarchy, and for most of the next six decades, repressive governments ran the country. In 1974, a left-wing military coup installed broad democratic reforms. The following year, Portugal granted independence to all of its African colonies. Portugal is a founding member of NATO and entered the EC (now the EU) in 1986.</p><br>
+<p>A global maritime power during the 15th and 16th centuries, Portugal lost much of its wealth and status with the destruction of Lisbon in a 1755 earthquake, occupation during the Napoleonic Wars, and the independence of Brazil, its wealthiest colony, in 1822. A revolution deposed the monarchy in 1910, and for most of the next six decades, repressive governments ran the country. In 1974, a left-wing military coup ushered in broad democratic reforms. The following year, Portugal granted independence to all its African colonies. Portugal is a founding member of NATO and entered the EC (now the EU) in 1986.</p><br>
 
 ## Geography
 
@@ -336,7 +336,7 @@ _election results_: <br><em>2021:</em> Marcelo REBELO DE SOUSA reelected preside
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by closed-list proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 10 March 2024 (next to be held on 30 September 2028); note - early elections were called after Prime Minister Antonio Luis Santos da COSTA resigned on 7 November 2023<br>
-_election results_: percent of vote by party - AD (PSD, CDS-PP, PPM) 28.8%, PS, 28%, Enough 18.1%, IL 4.9%, BE 4.4%, L 3.2%, CDU 3.2%, other 9.4%; seats by party - AD (PSD, CDS-PP, PPM) 80, PS 78, Enough 50, IL 8, BE 5, L 4, CDU 4, other 1; composition as of March 2024 - men 155, women 75, percentage women 32.6%<br>
+_election results_: percent of vote by party - AD (PSD, CDS-PP, PPM) 28.8%, PS, 28%, Enough 18.1%, IL 4.9%, BE 4.4%, L 3.2%, CDU 3.2%, other 9.4%; seats by party - AD (PSD, CDS-PP, PPM) 80, PS 78, Enough 50, IL 8, BE 5, L 4, CDU 4, other 1; composition - men 155, women 75, percentage women 32.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of 12 justices); Constitutional Court or Tribunal Constitucional (consists of 13 judges)<br>
@@ -391,29 +391,29 @@ fast-growing, high-income European economy; EU and NATO member; heavy Chinese in
 $372.331 billion (2022 est.)<br>
 $348.535 billion (2021 est.)<br>
 $329.623 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 6.83% (2022 est.)<br>
 5.74% (2021 est.)<br>
 -8.3% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $35,800 (2022 est.)<br>
 $33,600 (2021 est.)<br>
 $32,000 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $255.197 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 7.83% (2022 est.)<br>
 1.27% (2021 est.)<br>
 -0.01% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2007)<br>
@@ -435,24 +435,25 @@ _exports of goods and services_: 43.1% (2017 est.)<br>
 _imports of goods and services_: -42.1% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, tomatoes, olives, grapes, maize, potatoes, pork, apples, oranges, poultry<br>
+milk, tomatoes, grapes, olives, maize, oranges, pork, potatoes, chicken, apples (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 textiles, clothing, footwear, wood and cork, paper and pulp, chemicals, fuels and lubricants, automobiles and auto parts, base metals, minerals, porcelain and ceramics, glassware, technology, telecommunications; dairy products, wine, other foodstuffs; ship construction and refurbishment; tourism, plastics, financial services, optics<br>
 
 **Industrial production growth rate**<br>
 1.84% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 5.296 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 6.01% (2022 est.)<br>
 6.58% (2021 est.)<br>
 6.8% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 23.1% (2021 est.)<br>
@@ -461,11 +462,11 @@ _female_: 26.2%<br>
 
 **Population below poverty line**<br>
 16.4% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 34.7 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 16.6% of household expenditures (2018 est.)<br>
@@ -474,13 +475,13 @@ _on alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.4%<br>
 _highest 10%_: 26.9% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 4.03% of GDP (2022 est.)<br>
 0.3% of GDP (2021 est.)<br>
 0.32% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $102.052 billion (2019 est.)<br>
@@ -496,7 +497,7 @@ _expenditures_: $101.854 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 22.01% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -505,37 +506,41 @@ calendar year<br>
 -$3.108 billion (2022 est.)<br>
 -$2.987 billion (2021 est.)<br>
 -$2.292 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $126.541 billion (2022 est.)<br>
 $105.648 billion (2021 est.)<br>
 $85.128 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Spain 26%, France 12%, Germany 12%, United States 6%, United Kingdom 5% (2021)<br>
+Spain 25%, France 12%, Germany 11%, US 7%, UK 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, refined petroleum, leather footwear, tires, paper (2021)<br>
+cars, garments, refined petroleum, vehicle parts/accessories, plastic products (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $131.627 billion (2022 est.)<br>
 $112.413 billion (2021 est.)<br>
 $89.515 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Spain 31%, Germany 12%, France 6%, Italy 5%, Netherlands 5% (2021)<br>
+Spain 31%, Germany 11%, France 6%, China 5%, Italy 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, cars and vehicle parts, refined petroleum, packaged medicines, natural gas (2021)<br>
+crude petroleum, cars, refined petroleum, natural gas, vehicle parts/accessories (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $32.232 billion (2022 est.)<br>
 $32.535 billion (2021 est.)<br>
 $29.46 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $462.431 billion (2019 est.)<br>

@@ -314,7 +314,7 @@ $666.9 billion (2014 est.)<br>
 1.74% (2022 est.)<br>
 -0.78% (2021 est.)<br>
 4.41% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $11,200 (2016 est.)<br>
@@ -323,7 +323,7 @@ $11,200 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $871 million (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 -0.5% (2015 est.)<br>
@@ -351,13 +351,6 @@ tuna canneries (largely supplied by foreign fishing vessels), handicrafts<br>
 **Labor force**<br>
 17,850 (2015 est.)<br>
 
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Budget**<br>
 _revenues_: $249 million (2016 est.)<br>
 _expenditures_: $262.5 million (2016 est.)<br>
@@ -375,25 +368,32 @@ _expenditures_: $262.5 million (2016 est.)<br>
 1 October - 30 September<br>
 
 **Exports**<br>
-$428 million (2016 est.)<br>
-$427 million (2015 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$409 million (2022 est.)<br>
+$332 million (2021 est.)<br>
+$427 million (2020 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Australia 25%, Ghana 19%, Indonesia 15.6%, Burma 10.4%, Portugal 5.1% (2017)<br>
+Australia 33%, South Korea 16%, Taiwan 8%, Kuwait 8%, Senegal 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, animal meal, vaccines and cultures, ethylene polymers, vulcanized rubber (2021)<br>
+animal meal, packaged medicine, machinery, refined petroleum, insulated wire (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$615 million (2016 est.)<br>
-$657 million (2015 est.)<br>
+$677 million (2022 est.)<br>
+$694 million (2021 est.)<br>
+$686 million (2020 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Fiji 10.7%, Singapore 10.4%, NZ 10.4%, South Korea 9.3%, Samoa 8.2%, Kenya 6.4%, Australia 5.2% (2017)<br>
+Malaysia 27%, Singapore 24%, Fiji 12%, South Korea 9%, Taiwan 9% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-raw materials for canneries, food, petroleum products, machinery and parts<br>
+refined petroleum, fish, cars, paper containers, wood (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Debt - external**<br>
 <p>NA</p><br>

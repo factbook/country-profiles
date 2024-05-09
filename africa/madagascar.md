@@ -346,7 +346,7 @@ _election results_: <em><br>2023</em>: Andry RAJOELINA reelected president in fi
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Antenimierandoholona  (18 seats; 12 members indirectly elected by an electoral college of municipal, communal, regional, and provincial leaders and 6 appointed by the president; members serve 5-year terms)<br>National Assembly or Antenimierampirenena (151 seats; 87 members directly elected in single-seat constituencies by simple majority vote and 64 directly elected in multi-seat constituencies by closed-list proportional representation vote; members serve 5-year terms)<br>
 _elections_: Senate - last held on 11 December 2020 (next to be held in December 2025)<br>National Assembly - last held on 27 May 2019 (next to be held on 29 May 2024)<br>
-_election results_: Senate - percent of vote by party - NA; elected seats by party - Irmar 10, Malagasy Miara Miainga 2; composition as of March 2024 - men 17, women 1, percentage women 5.6%<br><br>National Assembly - percent of vote by party/coalition - IRD 55.6%, TIM 10.6%, independent 30.5%, other 3.3%; seats by party/coalition - IRD 84, TIM 16, independent 46, other 5; composition as of March 2024 - men 123, women 28, percentage women 18.5%; total Parliament percentage women 10.7%<br>
+_election results_: Senate - percent of vote by party - NA; elected seats by party - Irmar 10, Malagasy Miara Miainga 2; composition - men 17, women 1, percentage women 5.6%<br><br>National Assembly - percent of vote by party/coalition - IRD 55.6%, TIM 10.6%, independent 30.5%, other 3.3%; seats by party/coalition - IRD 84, TIM 16, independent 46, other 5; composition - men 123, women 28, percentage women 18.5%; total Parliament percentage women 10.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of 11 members; addresses judicial administration issues only); High Constitutional Court or Haute Cour Constitutionnelle (consists of 9 members); High Court of Justice (consists of 11 members; addresses cases brought against the president of Madagascar and high officials for high treason, grave violations of the Constitution, or breach of&nbsp; duties incompatible with the exercise of the presidential mandate)<br>
@@ -399,29 +399,29 @@ low-income East African island economy; natural resource rich; extreme poverty; 
 $44.491 billion (2022 est.)<br>
 $42.864 billion (2021 est.)<br>
 $40.537 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.8% (2022 est.)<br>
 5.74% (2021 est.)<br>
 -7.14% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $1,500 (2022 est.)<br>
 $1,500 (2021 est.)<br>
 $1,400 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $15.297 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8.16% (2022 est.)<br>
 5.81% (2021 est.)<br>
 4.2% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 24% (2017 est.)<br>
@@ -437,24 +437,25 @@ _exports of goods and services_: 31.5% (2017 est.)<br>
 _imports of goods and services_: -33.7% (2017 est.)<br>
 
 **Agricultural products**<br>
-rice, sugar cane, cassava, sweet potatoes, milk, vegetables, bananas, mangoes/guavas, tropical fruit, potatoes<br>
+rice, sugarcane, cassava, sweet potatoes, milk, bananas, vegetables, mangoes/guavas, tropical fruits, potatoes (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 meat processing, seafood, soap, beer, leather, sugar, textiles, glassware, cement, automobile assembly plant, paper, petroleum, tourism, mining<br>
 
 **Industrial production growth rate**<br>
 -1.2% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 15.363 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 1.9% (2022 est.)<br>
 2.25% (2021 est.)<br>
 2.21% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 4.8% (2021 est.)<br>
@@ -475,7 +476,7 @@ _highest 10%_: 34.7% (2010 est.)<br>
 2.88% of GDP (2022 est.)<br>
 3.02% of GDP (2021 est.)<br>
 3.8% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.51 billion (2020 est.)<br>
@@ -490,7 +491,7 @@ _expenditures_: $2.09 billion (2020 est.)<br>
 
 **Taxes and other revenues**<br>
 10.24% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -499,37 +500,41 @@ calendar year<br>
 -$829.376 million (2022 est.)<br>
 -$721.953 million (2021 est.)<br>
 -$623.653 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $4.689 billion (2022 est.)<br>
 $3.362 billion (2021 est.)<br>
 $2.589 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 19%, France 18%, United Arab Emirates 7%, China 6%, Japan 6%, Germany 5%, India 5% (2019)<br>
+US 18%, France 15%, China 13%, Japan 11%, Germany 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-vanilla, nickel, clothing and apparel, titanium, gold, cloves (2021)<br>
+nickel, garments, vanilla, cloves, cobalt (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $6.041 billion (2022 est.)<br>
 $4.769 billion (2021 est.)<br>
 $3.718 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 24%, France 11%, United Arab Emirates 9%, India 7%, South Africa 5% (2019)<br>
+China 24%, India 10%, France 9%, Oman 6%, South Africa 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, rice, cars, packaged medicines, clothing and apparel (2019)<br>
+refined petroleum, rice, fabric, palm oil, cotton fabric (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $2.16 billion (2022 est.)<br>
 $2.335 billion (2021 est.)<br>
 $1.981 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $3.085 billion (2019 est.)<br>

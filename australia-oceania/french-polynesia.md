@@ -271,7 +271,7 @@ _elections/appointments_: French president directly elected by absolute majority
 **Legislative branch**<br>
 _description_: unicameral Assembly of French Polynesia or Assembl&eacute;e de la Polyn&eacute;sie fran&ccedil;aise (57 seats; elections held in 2 rounds; in the second round, 38 members directly elected in multi-seat constituencies by a closed-list proportional representation vote; the party receiving the most votes gets an additional 19 seats; members serve 5-year terms; French Polynesia indirectly elects 2 senators to the French Senate via an electoral college by absolute majority vote for 6-year terms with one-half the membership renewed every 3 years and directly elects 3 deputies to the French National Assembly by absolute majority vote in 2 rounds if needed for 5-year terms<br>
 _elections_: Assembly of French Polynesia - last held on 16 and 30 April 2023 (next to be held in 2028)<br><br>French Senate - last held on 24 September 2023 (next to be held on 30 September 2026)<br><br>French National Assembly - last held in 2 rounds on 12 and 19 June 2022 (next to be held in 2027)<br>
-_election results_: Assembly of French Polynesia - percent of vote by party - People's Servant Party 66.7%; List of the People 26.3%, I Love Polynesia 5.3%, Rally of Mahoi People 1.8%; seats by party - People's Servant People 38; List of the People 15, I Love Polynesia 3, Rally of the Mahoi People 1, composition as of April 2024 - men 29, women 28, percentage women 49.1%<br><br>French Senate - percent of vote by party - NA; seats by party - Popular Rally 1, People's Servant Party 1; composition - NA<br><br>French National Assembly - percent of vote by party - NA; seats by party - People's Servant Party 3; composition - NA<br>
+_election results_: Assembly of French Polynesia - percent of vote by party - People's Servant Party 66.7%; List of the People 26.3%, I Love Polynesia 5.3%, Rally of Mahoi People 1.8%; seats by party - People's Servant People 38; List of the People 15, I Love Polynesia 3, Rally of the Mahoi People 1, composition - men 29, women 28, percentage women 49.1%<br><br>French Senate - percent of vote by party - NA; seats by party - Popular Rally 1, People's Servant Party 1; composition - NA<br><br>French National Assembly - percent of vote by party - NA; seats by party - People's Servant Party 3; composition - NA<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal or Cour d'Appel (composition NA); note - appeals beyond the French Polynesia Court of Appeal are heard by the Court of Cassation (in Paris)<br>
@@ -324,7 +324,7 @@ $5.94 billion (2019 est.)<br>
 4.47% (2022 est.)<br>
 2.09% (2021 est.)<br>
 -7.05% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $18,600 (2021 est.)<br>
@@ -334,7 +334,7 @@ $19,800 (2019 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $5.815 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 0% (2015 est.)<br>
@@ -354,24 +354,25 @@ _exports of goods and services_: 17.5% (2014 est.)<br>
 _imports of goods and services_: -37.5% (2014 est.)<br>
 
 **Agricultural products**<br>
-coconuts, fruit, roots/tubers, pineapples, cassava, sugar cane, eggs, tropical fruit, tomatoes<br>
+coconuts, fruits, root vegetables, pineapples, eggs, cassava, sugarcane, tropical fruits, watermelons, tomatoes (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, pearls, agricultural processing, handicrafts, phosphates<br>
 
 **Industrial production growth rate**<br>
 4.3% (2014 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 136,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 11.8% (2022 est.)<br>
 12.36% (2021 est.)<br>
 12.83% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 38.9% (2021 est.)<br>
@@ -381,15 +382,11 @@ _female_: 43.9%<br>
 **Population below poverty line**<br>
 19.7% (2009 est.)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 10% of GDP (2022 est.)<br>
 9.46% of GDP (2021 est.)<br>
 10.04% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.891 billion (2012)<br>
@@ -408,29 +405,35 @@ calendar year<br>
 $411.963 million (2016 est.)<br>
 $291.182 million (2015 est.)<br>
 $264.32 million (2014 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $162 million (2021 est.)<br>
 $94.4 million (2020 est.)<br>
 $184 million (2019 est.)<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 47%, Japan 17%, France 14%, Netherlands 4%, Poland 3% (2021)<br>
+France 18%, US 18%, Hong Kong 18%, Japan 13%, Netherlands 9% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-paintings, pearls, tuna, aircraft parts, coconut oil, vanilla, electrical panels (2021)<br>
+pearls, fish, aircraft parts, coconut oil, electrical power accessories (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $1.66 billion (2021 est.)<br>
 $1.75 billion (2020 est.)<br>
 $2.24 billion (2019 est.)<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-France 43%, New Zealand 12%, China 8%, United States 6%, Singapore 5% (2021)<br>
+France 30%, China 13%, US 9%, South Korea 6%, NZ 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, packaged medicines, broadcasting equipment, passenger ships (2021)<br>
+refined petroleum, cars, packaged medicine, beef, plastic products (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Debt - external**<br>
 <p>NA</p><br>

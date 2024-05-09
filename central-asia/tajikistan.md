@@ -344,7 +344,7 @@ _election results_: <br><em>2020</em>: Emomali RAHMON reelected president; perce
 **Legislative branch**<br>
 _description_: bicameral Supreme Assembly or Majlisi Oli consists of:<br>National Assembly or Majlisi Milli (34 seats; 25 members indirectly elected by local representative assemblies or majlisi, 8 appointed by the president, and 1 reserved for each living former president; members serve 5-year terms)<br>Assembly of Representatives or Majlisi Namoyandagon (63 seats; 41 members directly elected in single-seat constituencies by 2-round absolute majority vote and 22 directly elected in a single nationwide constituency by closed-list proportional representation vote; members serve 5-year terms)<br>
 _elections_: National Assembly - last held on 1 March 2020 (next to be held in 2025)<br>Assembly of Representatives - last held on 1 March 2020 (next to be held in 2025)<br>
-_election results_: National Assembly - percent of vote by party - NA; seats by party - NA; composition as of mid-2202 - men 23, women 8, percentage women 25.8%<br><br>Assembly of Representatives - percent of vote by party - PDPT 50.4%, PERT 16.6%, APT 16.5%, SPT 5.2%, DPT 5.1%, CPT 3.1%, other 3.1%; seats by party - PDPT 47, APT 7, PERT 5, CPT 2, SPT 1, DPT 1; composition as of February 2024 - men 46, women 17, percentage women 27%; total Supreme Assembly percentage women 26.6%<br>
+_election results_: National Assembly - percent of vote by party - NA; seats by party - NA; composition - men 23, women 8, percentage women 25.8%<br><br>Assembly of Representatives - percent of vote by party - PDPT 50.4%, PERT 16.6%, APT 16.5%, SPT 5.2%, DPT 5.1%, CPT 3.1%, other 3.1%; seats by party - PDPT 47, APT 7, PERT 5, CPT 2, SPT 1, DPT 1; composition - men 46, women 17, percentage women 27%; total Supreme Assembly percentage women 26.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chairman, deputy chairmen, and 34 judges organized into civil, family, criminal, administrative offense, and military chambers); Constitutional Court (consists of the court chairman, deputy chairman, and 5 judges); High Economic Court (consists of 16 judicial positions)<br>
@@ -396,29 +396,29 @@ lower middle-income Central Asian economy; key gold, cotton, and aluminum export
 $41.177 billion (2022 est.)<br>
 $38.127 billion (2021 est.)<br>
 $34.851 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 8% (2022 est.)<br>
 9.4% (2021 est.)<br>
 4.4% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $4,100 (2022 est.)<br>
 $3,900 (2021 est.)<br>
 $3,700 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $10.492 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 7.7% (2019 est.)<br>
 3.9% (2018 est.)<br>
 7.3% (2017 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2017)<br>
@@ -439,24 +439,25 @@ _exports of goods and services_: 10.7% (2017 est.)<br>
 _imports of goods and services_: -36.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, potatoes, wheat, watermelons, onions, tomatoes, vegetables, cotton, carrots/turnips, beef<br>
+milk, potatoes, wheat, watermelons, onions, cotton, tomatoes, carrots/turnips, vegetables, beef (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 aluminum, cement, coal, gold, silver, antimony, textile, vegetable oil<br>
 
 **Industrial production growth rate**<br>
 12.84% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 2.612 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 7% (2022 est.)<br>
 7.47% (2021 est.)<br>
 7.3% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 17.4% (2021 est.)<br>
@@ -465,22 +466,22 @@ _female_: 14.4%<br>
 
 **Population below poverty line**<br>
 22.5% (2022 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 34 (2015 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3%<br>
 _highest 10%_: 26.4% (2015 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 50.95% of GDP (2022 est.)<br>
 32.69% of GDP (2021 est.)<br>
 26.88% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $2.222 billion (2019 est.)<br>
@@ -495,7 +496,7 @@ _expenditures_: $2.393 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 10.35% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -504,37 +505,41 @@ calendar year<br>
 $1.635 billion (2022 est.)<br>
 $734.735 million (2021 est.)<br>
 $335.906 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $1.753 billion (2022 est.)<br>
 $2.161 billion (2021 est.)<br>
 $1.409 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Turkey 24%, Switzerland 22%, Uzbekistan 16%, Kazakhstan 12%, China 10% (2019)<br>
+Kazakhstan 20%, Switzerland 19%, China 17%, Turkey 8%, Uzbekistan 8% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, aluminum, cotton, zinc, antimony, lead (2019)<br>
+gold, precious metal ore, cotton, copper ore, aluminum (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $5.261 billion (2022 est.)<br>
 $4.258 billion (2021 est.) note: data are in current year dollars<br>
 $3.125 billion (2020 est.) note: data are in current year dollars<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 40%, Russia 38%, Kazakhstan 19%, Uzbekistan 5% (2019)<br>
+China 33%, Russia 22%, Kazakhstan 13%, Uzbekistan 6%, Turkey 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, wheat, natural gas, bauxite, aircraft (2019)<br>
+refined petroleum, garments, wheat, cars, natural gas (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $3.847 billion (2022 est.)<br>
 $2.499 billion (2021 est.)<br>
 $2.238 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $6.47 billion (2019 est.)<br>

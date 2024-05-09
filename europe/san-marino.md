@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Geographically the third-smallest state in Europe (after the Holy See and Monaco), San Marino also claims to be the world's oldest republic. According to tradition, it was founded by a Christian stonemason named MARINUS in A.D. 301. San Marino's foreign policy is aligned with that of the EU; although it is not a member, it negotiated an Association Agreement that will allow participation in the EU&rsquo;s internal market and cooperation in other policy areas. Social and political trends in the republic track closely with those of its larger neighbor, Italy.<br>
+Geographically the third-smallest state in Europe (after the Holy See and Monaco), San Marino also claims to be the world's oldest republic. According to tradition, it was founded by a Christian stonemason named MARINUS in A.D. 301. San Marino's foreign policy is aligned with that of the EU, although it is not a member.&nbsp; San Marino is negotiating an Association Agreement that is expected to allow participation in the EU&rsquo;s internal market and cooperation in other policy areas by late 2024. Social and political trends in the republic track closely with those of its larger neighbor, Italy.<br>
 
 ## Geography
 
@@ -289,7 +289,7 @@ _election results_: <em>March 2024:  </em>Alessandro ROSSI (Demos) and Milena G
 **Legislative branch**<br>
 _description_: unicameral Grand and General Council or Consiglio Grande e Generale (60 seats; members directly elected in single- and multi-seat constituencies by list proportional representation vote in 2 rounds if needed; members serve 5-year terms)<br>
 _elections_: last held on 8 December 2019 (next to be held by 31 December 2024)<br>
-_election results_: percent of vote by party/coalition - PDCS 35%, Tomorrow in Movement coalition 25% (RETE Movement 18.3%, DML 6.7%), Liberia 16.7%, We for the Republic 13.3%, RF 10%; seats by party/coalition - PDCS 21, Tomorrow in Movement coalition 15 (RETE Movement 11, DML 4), Liberia 10, We for the Republic 8, RF 6; composition as of February 2024 - men 41, women 19, percentage women 31.7%<br>
+_election results_: percent of vote by party/coalition - PDCS 35%, Tomorrow in Movement coalition 25% (RETE Movement 18.3%, DML 6.7%), Liberia 16.7%, We for the Republic 13.3%, RF 10%; seats by party/coalition - PDCS 21, Tomorrow in Movement coalition 15 (RETE Movement 11, DML 4), Liberia 10, We for the Republic 8, RF 6; composition - men 41, women 19, percentage women 31.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Council of Twelve or Consiglio dei XII (consists of 12 members); note - the College of Guarantors for the Constitutionality and General Norms functions as San Marino's constitutional court<br>
@@ -337,29 +337,29 @@ high-income, non-EU European economy; surrounded by Italy, which is the dominant
 $2.079 billion (2021 est.)<br>
 $1.917 billion (2020 est.)<br>
 $2.053 billion (2019 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 8.46% (2021 est.)<br>
 -6.65% (2020 est.)<br>
 2.07% (2019 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $61,600 (2021 est.)<br>
 $56,400 (2020 est.)<br>
 $60,100 (2019 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.855 billion (2021 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1.05% (2017 est.)<br>
 0.57% (2016 est.)<br>
 0.15% (2015 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB+ (2020)<br>
@@ -386,7 +386,7 @@ tourism, banking, textiles, electronics, ceramics, cement, wine<br>
 
 **Industrial production growth rate**<br>
 11.57% (2021 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 21,960 (September 2013 est.)<br>
@@ -400,18 +400,11 @@ _total_: 27.4% (2016 est.)<br>
 _male_: 21.4%<br>
 _female_: 36%<br>
 
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 1.13% of GDP (2021 est.)<br>
 1.15% of GDP (2020 est.)<br>
 1.08% of GDP (2019 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $371 million (2019 est.)<br>
@@ -424,11 +417,11 @@ _expenditures_: $363 million (2019 est.)<br>
 95.12% of GDP (2021 est.)<br>
 98.35% of GDP (2020 est.)<br>
 55.09% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 17.3% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -438,30 +431,38 @@ $0 (2017 est.)<br>
 $0 (2016 est.)<br>
 
 **Exports**<br>
-$3.827 billion (2011 est.)<br>
-$2.576 billion (2010 est.)<br>
+$3.42 billion (2021 est.)<br>
+$2.535 billion (2020 est.)<br>
+$2.651 billion (2019 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Romania 10%, France 9%, Germany 8%, United States 8%, Austria 6%, Brazil 6%, Poland 6%, Russia 6%, (2019)<br>
+US 10%, Germany 9%, France 9%, Austria 9%, Romania 7% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-industrial washing/bottling machinery, packaged medicines, woodworking machinery, foodstuffs, aircraft (2019)<br>
+washing and bottling machines, woodworking machines, furniture, other foods, packaged medicine (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$2.551 billion (2011 est.)<br>
-$2.132 billion (2010 est.)<br>
+$2.934 billion (2021 est.)<br>
+$2.164 billion (2020 est.)<br>
+$2.315 billion (2019 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 21%, Italy 13%, Poland 10%, France 7%, Spain 7%, Belgium 6%, Romania 6% (2019)<br>
+Italy 22%, Germany 20%, Poland 7%, Spain 7%, Netherlands 7% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-electricity, cars, aluminum, footwear, natural gas, iron piping (2019)<br>
+electricity, garments, cars, aluminum, footwear (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $716.066 million (2022 est.)<br>
 $954.383 million (2021 est.)<br>
 $781.674 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 <p>NA</p><br>

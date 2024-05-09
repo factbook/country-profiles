@@ -342,7 +342,7 @@ _election results_: <em><br>2024: </em>Ilham ALIYEV reelected president; percent
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Milli Mejlis (125 seats, current 116; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: last held early on 9 February 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - NA; seats by party - YAP 69, CSP 3, AVP 1, CUP 1, ADMP 1, PDR 1, Great Order 1, National Front Party 1, REAL 1, VP 1, Whole Azerbaijan Popular Front 1, party unknown 1, independent 41; composition as of February 2024 - men 95, women 21, percentage women 18.1%<br>
+_election results_: percent of vote by party - NA; seats by party - YAP 69, CSP 3, AVP 1, CUP 1, ADMP 1, PDR 1, Great Order 1, National Front Party 1, REAL 1, VP 1, Whole Azerbaijan Popular Front 1, party unknown 1, independent 41; composition- men 95, women 21, percentage women 18.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chairman, vice chairman, and 23 judges in plenum sessions and organized into civil, economic affairs, criminal, and rights violations chambers); Constitutional Court (consists of 9 judges)<br>
@@ -395,29 +395,29 @@ oil-based economy; macroeconomic instabilities due to demand shocks; recent stat
 $153.083 billion (2022 est.)<br>
 $146.327 billion (2021 est.)<br>
 $138.546 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.62% (2022 est.)<br>
 5.62% (2021 est.)<br>
 -4.3% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $15,100 (2022 est.)<br>
 $14,400 (2021 est.)<br>
 $13,700 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $78.721 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 13.85% (2022 est.)<br>
 6.65% (2021 est.)<br>
 2.76% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB+ (2016)<br>
@@ -439,24 +439,25 @@ _exports of goods and services_: 48.7% (2017 est.)<br>
 _imports of goods and services_: -42% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, wheat, potatoes, barley, tomatoes, watermelons, cotton, apples, maize, onions<br>
+milk, wheat, potatoes, barley, tomatoes, watermelons, cotton, apples, onions, maize (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 petroleum and petroleum products, natural gas, oilfield equipment; steel, iron ore; cement; chemicals and petrochemicals; textiles<br>
 
 **Industrial production growth rate**<br>
 0.4% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 5.433 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.65% (2022 est.)<br>
 6.04% (2021 est.)<br>
 7.24% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 16.5% (2021 est.)<br>
@@ -481,7 +482,7 @@ _highest 10%_: 27.4% (2008)<br>
 5.02% of GDP (2022 est.)<br>
 2.78% of GDP (2021 est.)<br>
 3.29% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $19.95 billion (2019 est.)<br>
@@ -494,11 +495,11 @@ _expenditures_: $16.001 billion (2019 est.)<br>
 16.82% of GDP (2021 est.)<br>
 22.19% of GDP (2020 est.)<br>
 54.1% of GDP (2017 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 13.42% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -507,37 +508,41 @@ calendar year<br>
 $23.478 billion (2022 est.)<br>
 $8.203 billion (2021 est.)<br>
 -$316.301 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $47.274 billion (2022 est.)<br>
 $25.494 billion (2021 est.)<br>
 $15.214 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Italy 28%, Turkey 15%, Israel 7%, Germany 5%, India 5% (2017)<br>
+Italy 47%, Turkey 9%, Israel 4%, India 4%, Greece 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, natural gas, refined petroleum, cotton, gold (2021)<br>
+crude petroleum, natural gas, refined petroleum, fertilizers, aluminum (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $21.274 billion (2022 est.)<br>
 $16.432 billion (2021 est.)<br>
 $15.632 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United Kingdom 17%, Russia 17%, Turkey 12%, China 6% (2019)<br>
+Russia 17%, Turkey 17%, China 10%, UAE 5%, Georgia 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-gold, cars, refined petroleum, wheat, packaged medical supplies (2019)<br>
+cars, refined petroleum, crude petroleum, wheat, packaged medicine (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $11.29 billion (2022 est.)<br>
 $8.307 billion (2021 est.)<br>
 $7.634 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $17.41 billion (31 December 2017 est.)<br>

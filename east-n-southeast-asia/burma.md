@@ -419,29 +419,29 @@ slowly recovering Southeast Asian economy; household incomes weaken domestic con
 $230.255 billion (2022 est.)<br>
 $221.32 billion (2021 est.)<br>
 $251.546 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.04% (2022 est.)<br>
 -12.02% (2021 est.)<br>
 -9.05% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $4,200 (2022 est.)<br>
 $4,100 (2021 est.)<br>
 $4,700 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $62.263 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8.83% (2019 est.)<br>
 6.87% (2018 est.)<br>
 4.57% (2017 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 24.1% (2017 est.)<br>
@@ -457,24 +457,25 @@ _exports of goods and services_: 21.4% (2017 est.)<br>
 _imports of goods and services_: -28.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-rice, sugar cane, beans, vegetables, milk, maize, poultry, groundnuts, fruit, plantains<br>
+rice, sugarcane, vegetables, beans, maize, groundnuts, fruits, plantains, coconuts, onions (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 agricultural processing; wood and wood products; copper, tin, tungsten, iron; cement, construction materials; pharmaceuticals; fertilizer; oil and natural gas; garments; jade and gems<br>
 
 **Industrial production growth rate**<br>
 8.02% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 22.527 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 2.96% (2022 est.)<br>
 4.34% (2021 est.)<br>
 1.48% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 6.4% (2021 est.)<br>
@@ -483,11 +484,11 @@ _female_: 6.3%<br>
 
 **Population below poverty line**<br>
 24.8% (2017 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 30.7 (2017 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 56.1% of household expenditures (2018 est.)<br>
@@ -496,13 +497,13 @@ _on alcohol and tobacco_: 0.5% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8%<br>
 _highest 10%_: 25.5% (2017 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 3.05% of GDP (2022 est.)<br>
 3.02% of GDP (2021 est.)<br>
 3.38% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $13.361 billion (2020 est.)<br>
@@ -517,7 +518,7 @@ _expenditures_: $18.035 billion (2020 est.)<br>
 
 **Taxes and other revenues**<br>
 6.02% (of GDP) (2019 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
@@ -526,38 +527,41 @@ note: central government tax revenue as a % of GDP<br>
 $67.72 million (2019 est.)<br>
 -$2.561 billion (2018 est.)<br>
 -$4.917 billion (2017 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $20.4 billion (2021 est.)<br>
 $17.523 billion (2019 est.)<br>
 $15.728 billion (2018 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 34%, Thailand 14%, Germany 6%, Japan 5%, United States 5% (2021)<br>
+China 36%, Thailand 13%, Germany 6%, Japan 6%, US 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-natural gas, clothing products, dried legumes, precious stones, yttrium, scandium, rice, corn (2021)<br>
-<strong>note:</strong> Burmese methamphetamine production and opiate production remain significant illicit trade commodities<br>
+garments, precious stones, natural gas, dried legumes, rice (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $23.1 billion (2021 est.)<br>
 $17.356 billion (2019 est.)<br>
 $18.664 billion (2018 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 41%, Thailand 19%, Singapore 13%, Indonesia 5%, India 3% (2021)<br>
+China 45%, Thailand 16%, Singapore 14%, Malaysia 4%, Indonesia 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, palm oil, fabrics, packaged medicines, broadcasting equipment, cars (2021)<br>
+refined petroleum, fabric, synthetic fabric, crude petroleum, fertilizers (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $7.67 billion (2020 est.)<br>
 $5.824 billion (2019 est.)<br>
 $5.646 billion (2018 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $6.594 billion (31 December 2017 est.)<br>

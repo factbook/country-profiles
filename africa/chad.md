@@ -415,29 +415,29 @@ primarily oil-based economy, vulnerable to regional competition and internationa
 $25.037 billion (2022 est.)<br>
 $24.49 billion (2021 est.)<br>
 $24.787 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.24% (2022 est.)<br>
 -1.2% (2021 est.)<br>
 -1.6% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $1,400 (2022 est.)<br>
 $1,400 (2021 est.)<br>
 $1,500 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $12.704 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5.79% (2022 est.)<br>
 -0.77% (2021 est.)<br>
 4.46% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 52.3% (2017 est.)<br>
@@ -453,24 +453,25 @@ _exports of goods and services_: 35.1% (2017 est.)<br>
 _imports of goods and services_: -39.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-sorghum, groundnuts, millet, yams, cereals, sugar cane, beef, maize, cotton, cassava<br>
+sorghum, groundnuts, millet, cereals, beef, sugarcane, yams, maize, cassava, milk (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 oil, cotton textiles, brewing, natron (sodium carbonate), soap, cigarettes, construction materials<br>
 
 **Industrial production growth rate**<br>
 4.08% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 5.602 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 1.1% (2022 est.)<br>
 1.59% (2021 est.)<br>
 1.68% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 2.4% (2021 est.)<br>
@@ -479,16 +480,16 @@ _female_: 1.4%<br>
 
 **Population below poverty line**<br>
 42.3% (2018 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 37.5 (2018 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
 _highest 10%_: 29.7% (2018 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0% of GDP (2020 est.)<br>
@@ -517,31 +518,38 @@ calendar year<br>
 -$926 million (2016 est.)<br>
 
 **Exports**<br>
-$2.464 billion (2017 est.)<br>
-$2.187 billion (2016 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$6.503 billion (2022 est.)<br>
+$4.565 billion (2021 est.)<br>
+$2.863 billion (2020 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 32%, United Arab Emirates 21%, India 19%, United States 10%, France 6%, Germany 5% (2019)<br>
+Germany 25%, China 21%, UAE 20%, Taiwan 12%, France 10% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, gold, sesame seeds, gum arabic, silver (2021)<br>
+crude petroleum, gold, oil seeds, gum resins, cotton (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$2.16 billion (2017 est.)<br>
-$1.997 billion (2016 est.)<br>
+$5.028 billion (2022 est.)<br>
+$5.211 billion (2021 est.)<br>
+$4.502 billion (2020 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 29%, United Arab Emirates 16%, France 10%, United States 8%, India 5% (2019)<br>
+China 25%, UAE 20%, France 7%, US 7%, Belgium 7% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-delivery trucks, paints, packaged medicines, aircraft, broadcasting equipment (2019)<br>
+vaccines, jewelry, electric generating sets, broadcasting equipment, packaged medicine (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $211.591 million (2021 est.)<br>
 $390.675 million (2020 est.)<br>
 $310.032 million (2019 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.724 billion (31 December 2017 est.)<br>

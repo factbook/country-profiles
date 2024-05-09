@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Ruled by the Al Thani family since the mid-1800s, Qatar within the last 60 years transformed itself from a poor British protectorate noted mainly for pearling into an independent state with significant hydrocarbon revenues. Former Amir HAMAD bin Khalifa Al Thani, who overthrew his father in a bloodless coup in 1995, ushered in wide-sweeping political and media reforms, unprecedented economic investment, and a growing Qatari regional leadership role, in part through the creation of the pan-Arab satellite news network Al-Jazeera and Qatar's mediation of some regional conflicts. In the 2000s, Qatar resolved its longstanding border disputes with both Bahrain and Saudi Arabia and by 2007, Doha had attained the highest per capita income in the world. Qatar did not experience domestic unrest or violence like that seen in other Near Eastern and North African countries in 2011, due in part to its immense wealth and patronage network. In mid-2013, HAMAD peacefully abdicated, transferring power to his son, the current Amir TAMIM bin Hamad. TAMIM is popular with the Qatari public, for his role in shepherding the country through an economic embargo by some other regional countries, for his efforts to improve the country's healthcare and education systems, and for his expansion of the country's infrastructure in anticipation of Doha's hosting international sporting events. Qatar became the first country in the Arab world to host the FIFA Men’s World Cup in 2022.</p> Following the outbreak of regional unrest in 2011, Doha prided itself on its support for many popular revolutions, particularly in Libya and Syria. This stance was to the detriment of Qatar’s relations with Bahrain, Egypt, Saudi Arabia, and the United Arab Emirates (UAE), which temporarily recalled their respective ambassadors from Doha in March 2014. TAMIM later oversaw a warming of Qatar’s relations with Bahrain, Egypt, Saudi Arabia, and the UAE in November 2014 following Kuwaiti mediation and signing of the Riyadh Agreement. This reconciliation, however, was short-lived. In June 2017, Bahrain, Egypt, Saudi Arabia, and the UAE (the "Quartet") cut diplomatic and economic ties with Qatar in response to alleged violations of the agreement, among other complaints. They restored ties in January 2021 after signing a declaration at the Gulf Cooperation Council Summit in Al Ula, Saudi Arabia. In 2022, the United States designated Qatar as a major non-NATO ally. <p> </p><br>
+<p>Ruled by the Al Thani family since the mid-1800s, Qatar has transformed itself from a poor British protectorate noted mainly for pearling into an independent state with significant hydrocarbon revenues. Former Amir HAMAD bin Khalifa Al Thani, who overthrew his father in a bloodless coup in 1995, ushered in wide-sweeping political and media reforms, unprecedented economic investment, and a growing Qatari regional leadership role, in part through mediating some regional conflicts and creating pan-Arab satellite news network Al-Jazeera. In the 2000s, Qatar resolved its longstanding border disputes with both Bahrain and Saudi Arabia, and by 2007, Doha had attained the highest per capita income in the world. Qatar did not experience domestic unrest or violence like that seen in other Near Eastern and North African countries in 2011, due in part to its immense wealth and patronage network. In mid-2013, HAMAD peacefully abdicated, transferring power to his son, the current Amir TAMIM bin Hamad. TAMIM is popular with the Qatari public for his role in shepherding the country through an economic embargo from countries in the region, for his efforts to improve the country's healthcare and education systems, and for his expansion of the country's infrastructure in anticipation of hosting international sporting events in Doha. Qatar became the first country in the Arab world to host the FIFA Men’s World Cup in 2022.</p> After the outbreak of regional unrest in 2011, Doha prided itself on its support for many popular revolutions, particularly in Libya and Syria. This stance undermined Qatar’s relations with Bahrain, Egypt, Saudi Arabia, and the United Arab Emirates (UAE) -- known as the "Quartet" -- which temporarily recalled their ambassadors from Doha in 2014. TAMIM later oversaw a warming of Qatar’s relations with the Quartet after Kuwaiti mediation and signing of the Riyadh Agreement. This reconciliation, however, was short-lived. In 2017, the Quartet cut diplomatic and economic ties with Qatar in response to alleged violations of the agreement, among other complaints. They restored ties in 2021 after signing a declaration at the Gulf Cooperation Council Summit in Al Ula, Saudi Arabia. In 2022, the United States designated Qatar as a major non-NATO ally. <p> </p><br>
 
 ## Geography
 
@@ -384,29 +384,29 @@ high-income, oil-and-gas-based Middle Eastern economy; National Vision 2030 gove
 $260.235 billion (2022 est.)<br>
 $249.725 billion (2021 est.)<br>
 $245.727 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.21% (2022 est.)<br>
 1.63% (2021 est.)<br>
 -3.56% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $96,600 (2022 est.)<br>
 $92,900 (2021 est.)<br>
 $89,000 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $236.258 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5% (2022 est.)<br>
 2.3% (2021 est.)<br>
 -2.54% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA- (2017)<br>
@@ -428,32 +428,30 @@ _exports of goods and services_: 51% (2017 est.)<br>
 _imports of goods and services_: -37.3% (2017 est.)<br>
 
 **Agricultural products**<br>
-eggs, tomatoes, dates, poultry, cucumbers, camel milk, sheep milk, goat milk, pumpkins/gourds, poultry<br>
+tomatoes, dates, chicken, cucumbers/gherkins, camel milk, eggs, sheep milk, goat milk, pumpkins/squash, milk (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 liquefied natural gas, crude oil production and refining, ammonia, fertilizer, petrochemicals, steel reinforcing bars, cement, commercial ship repair<br>
 
 **Industrial production growth rate**<br>
 1.69% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 2.011 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 0.13% (2022 est.)<br>
 0.14% (2021 est.)<br>
 0.14% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 1.1% (2021 est.)<br>
 _male_: 0.9%<br>
 _female_: 2.1%<br>
-
-**Population below poverty line**<br>
-NA<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 41.1 (2007 est.)<br>
@@ -470,7 +468,7 @@ _highest 10%_: 35.9% (2007)<br>
 0.44% of GDP (2022 est.)<br>
 0.48% of GDP (2021 est.)<br>
 0.45% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $65.922 billion (2019 est.)<br>
@@ -493,37 +491,41 @@ _expenditures_: $57.258 billion (2019 est.)<br>
 $63.118 billion (2022 est.)<br>
 $26.319 billion (2021 est.)<br>
 -$2.986 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $161.693 billion (2022 est.)<br>
 $105.549 billion (2021 est.)<br>
 $70.933 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 18%, India 15%, Japan 10%, South Korea 9%, United Kingdom 6% (2022)<br>
+China 18%, India 15%, Japan 10%, South Korea 9%, UK 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
 natural gas, crude petroleum, refined petroleum, fertilizers, ethylene polymers (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $74.52 billion (2022 est.)<br>
 $61.204 billion (2021 est.)<br>
 $59.065 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United Arab Emirates 13%, China 11%, United States 10%, United Kingdom 8%, India 5% (2022)<br>
+UAE 13%, China 11%, US 10%, UK 8%, India 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-gas turbines, jewelry, cars, aircraft, broadcasting equipment (2022)<br>
+gas turbines, jewelry, cars, garments, aircraft (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $47.389 billion (2022 est.)<br>
 $42.213 billion (2021 est.)<br>
 $40.973 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $167.8 billion (31 December 2017 est.)<br>

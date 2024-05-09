@@ -333,7 +333,7 @@ _election results_: <em><br>2022: </em>percent of vote<em> -</em> Denis BECIROVI
 **Legislative branch**<br>
 _description_: bicameral Parliamentary Assembly or Skupstina consists of:<br>House of Peoples or Dom Naroda (15 seats - 5 Bosniak, 5 Croat, 5 Serb; members designated by the Federation of Bosnia and Herzegovina's House of Peoples and the Republika Srpska's National Assembly serve 4-year terms)<br>House of Representatives or Predstavnicki Dom (42 seats to include 28 seats allocated to the Federation of Bosnia and Herzegovina and 14 to the Republika Srpska; members directly elected by proportional representation vote to serve 4-year terms); note - the Federation of Bosnia and Herzegovina has a bicameral legislature that consists of the House of Peoples (80 seats - 23 Bosniak, 23 Croat, 23 Serb, 11 other) and the House of Representatives (98 seats; members directly elected by proportional representation vote to serve 4-year terms); Republika Srpska's unicameral legislature is the National Assembly or Narodna skupština Republike Srpske (83 directly elected delegates serve 4-year terms)<br>
 _elections_: House of Peoples - last held on 2 October 2022 (next to be held in 2026)<br>House of Representatives - last held on 2 October 2022 (next to be held in 2026)<br>
-_election results_: House of Peoples - percent of vote by party/coalition - NA; seats by party/coalition - NA; composition as of March 2024 - men 13, women 2, percentage women 13.3%<br><br>House of Representatives - percent of vote by party/coalition - SDA 17.2%, SNSD 16.3%, HDZ BiH 8.8%, SDP 8.2%, SDS 7.1%, DF-GS 6.4%, NiP 5%, PDP 4.6%, NS/HC 3.1%, NES 3%, For Justice and Order 2.1%, DEMOS 1.9%, US 1.6%, BHI KF 1.3%, other 13.4%; seats by party/coalition - SDA 9, SNSD 6, SDP 5, HDZ BiH 4, DF-GS 3, NiP 3, SDS 2, PDP 2, NS/HC 2, NES 2, For Justice and Order 1, DEMOS 1, US 1, BHI KF 1; composition as of March 2024 - men 34, women 8, percentage women 19.1%; total Parliamentary Assembly percentage women 17.5%<br>
+_election results_: House of Peoples - percent of vote by party/coalition - NA; seats by party/coalition - NA; composition - men 13, women 2, percentage women 13.3%<br><br>House of Representatives - percent of vote by party/coalition - SDA 17.2%, SNSD 16.3%, HDZ BiH 8.8%, SDP 8.2%, SDS 7.1%, DF-GS 6.4%, NiP 5%, PDP 4.6%, NS/HC 3.1%, NES 3%, For Justice and Order 2.1%, DEMOS 1.9%, US 1.6%, BHI KF 1.3%, other 13.4%; seats by party/coalition - SDA 9, SNSD 6, SDP 5, HDZ BiH 4, DF-GS 3, NiP 3, SDS 2, PDP 2, NS/HC 2, NES 2, For Justice and Order 1, DEMOS 1, US 1, BHI KF 1; composition - men 34, women 8, percentage women 19.1%; total Parliamentary Assembly percentage women 17.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Bosnia and Herzegovina (BiH) Constitutional Court (consists of 9 members); Court of BiH (consists of 44 national judges and 7 international judges organized into 3 divisions - Administrative, Appellate, and Criminal, which includes a War Crimes Chamber)<br>
@@ -389,23 +389,23 @@ import-dominated economy; remains consumption-heavy; lack of private sector inve
 $54.12 billion (2022 est.)<br>
 $51.986 billion (2021 est.)<br>
 $48.407 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.11% (2022 est.)<br>
 7.39% (2021 est.)<br>
 -3.02% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $16,700 (2022 est.)<br>
 $15,900 (2021 est.)<br>
 $14,600 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $24.474 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1.98% (2021 est.)<br>
@@ -431,24 +431,25 @@ _exports of goods and services_: 38.7% (2017 est.)<br>
 _imports of goods and services_: -55.1% (2017 est.)<br>
 
 **Agricultural products**<br>
-maize, milk, vegetables, potatoes, wheat, plums/sloes, apples, barley, cabbages, poultry<br>
+maize, milk, vegetables, potatoes, plums, wheat, apples, barley, chicken, pears (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 steel, coal, iron ore, lead, zinc, manganese, bauxite, aluminum, motor vehicle assembly, textiles, tobacco products, wooden furniture, ammunition, domestic appliances, oil refining<br>
 
 **Industrial production growth rate**<br>
 1.77% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 1.382 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 12.66% (2022 est.)<br>
 14.9% (2021 est.)<br>
 15.87% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 32.9% (2021 est.)<br>
@@ -457,7 +458,7 @@ _female_: 39.9%<br>
 
 **Population below poverty line**<br>
 16.9% (2015 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33 (2011 est.)<br>
@@ -474,7 +475,7 @@ _highest 10%_: 25.8% (2011 est.)<br>
 10.08% of GDP (2022 est.)<br>
 10.04% of GDP (2021 est.)<br>
 9.45% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $8.434 billion (2019 est.)<br>
@@ -487,11 +488,11 @@ _expenditures_: $8.154 billion (2019 est.)<br>
 41.85% of GDP (2022 est.)<br>
 47.02% of GDP (2021 est.)<br>
 45.42% of GDP (2020 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 19.14% (of GDP) (2022 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -500,37 +501,41 @@ calendar year<br>
 -$1.065 billion (2022 est.)<br>
 -$418.984 million (2021 est.)<br>
 -$574.322 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $11.794 billion (2022 est.)<br>
 $10.058 billion (2021 est.)<br>
 $7.02 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 14%, Italy 12%, Croatia 11%, Serbia 11%, Austria 9%, Slovenia 8% (2019)<br>
+Croatia 14%, Germany 14%, Serbia 13%, Italy 10%, Austria 9% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-electricity, seating, insulated wiring, lumber, furniture (2021)<br>
+aluminum, electricity, footwear, garments, plastic products (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $15.162 billion (2022 est.)<br>
 $12.738 billion (2021 est.)<br>
 $9.726 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Croatia 15%, Serbia 13%, Germany 10%, Italy 9%, Slovenia 7%, China 6% (2019)<br>
+Croatia 16%, Serbia 13%, Germany 8%, Italy 8%, China 7% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, packaged medicines, coal, electricity (2019)<br>
+refined petroleum, aluminum, garments, coal, cars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $8.762 billion (2022 est.)<br>
 $9.475 billion (2021 est.)<br>
 $8.707 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $10.87 billion (31 December 2017 est.)<br>

@@ -358,7 +358,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75)<br>House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years)<br>
 _elections_: Senate - last appointed in July 2021<br>House of Commons - last held on 20 September 2021 (next to be held on or before 20 October 2025)<br>
-_election results_: Senate - composition as of March 2024 - men 43, women 54, percentage women 55.7% (8 seats are vacant)<br><br>House of Commons - percent of vote by party - CPC 33.7%, Liberal Party 32.6%, NDP 17.8%, Bloc Quebecois 7.7%, Greens 2.3%, other 5.9%; seats by party - Liberal Party 159, CPC 119, NDP 25, Bloc Quebecois 32, Greens 2, independent 1; composition as of March 2024 - men 234, women 102; percentage women 30.4%; total Parliament percentage women 35.2%<br>
+_election results_: Senate - composition - men 43, women 54, percentage women 55.7% (8 seats are vacant)<br><br>House of Commons - percent of vote by party - CPC 33.7%, Liberal Party 32.6%, NDP 17.8%, Bloc Quebecois 7.7%, Greens 2.3%, other 5.9%; seats by party - Liberal Party 159, CPC 119, NDP 25, Bloc Quebecois 32, Greens 2, independent 1; composition - men 234, women 102; percentage women 30.4%; total Parliament percentage women 35.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -414,29 +414,29 @@ one of the world&rsquo;s largest economies; leading global financier and macroec
 $1.907 trillion (2022 est.)<br>
 $1.843 trillion (2021 est.)<br>
 $1.755 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.44% (2022 est.)<br>
 5.01% (2021 est.)<br>
 -5.07% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $49,000 (2022 est.)<br>
 $48,200 (2021 est.)<br>
 $46,200 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $2.138 trillion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 6.8% (2022 est.)<br>
 3.4% (2021 est.)<br>
 0.72% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA+ (2020)<br>
@@ -458,24 +458,25 @@ _exports of goods and services_: 30.9% (2017 est.)<br>
 _imports of goods and services_: -33.2% (2017 est.)<br>
 
 **Agricultural products**<br>
-wheat, rapeseed, maize, barley, milk, soybeans, potatoes, oats, peas, pork<br>
+wheat, rapeseed, maize, barley, milk, soybeans, potatoes, oats, peas, lentils (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 transportation equipment, chemicals, processed and unprocessed minerals, food products, wood and paper products, fish products, petroleum, natural gas<br>
 
 **Industrial production growth rate**<br>
 3.21% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 21.363 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.28% (2022 est.)<br>
 7.53% (2021 est.)<br>
 9.66% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 14% (2021 est.)<br>
@@ -488,7 +489,7 @@ _female_: 13.1%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 31.7 (2019 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 9.1% of household expenditures (2018 est.)<br>
@@ -497,13 +498,13 @@ _on alcohol and tobacco_: 3.3% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
 _highest 10%_: 24.4% (2019 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.04% of GDP (2022 est.)<br>
 0.04% of GDP (2021 est.)<br>
 0.05% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $686.718 billion (2020 est.)<br>
@@ -516,11 +517,11 @@ _expenditures_: $861.955 billion (2020 est.)<br>
 61.42% of GDP (2022 est.)<br>
 71.07% of GDP (2021 est.)<br>
 74.55% of GDP (2020 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 12.83% (of GDP) (2022 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
@@ -529,37 +530,41 @@ note: central government tax revenue as a % of GDP<br>
 -$6.654 billion (2022 est.)<br>
 -$5.448 billion (2021 est.)<br>
 -$35.373 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $722.831 billion (2022 est.)<br>
 $618.761 billion (2021 est.)<br>
 $490.107 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 73% (2019)<br>
+US 75%, China 4%, Japan 2%, UK 2%, Mexico 1% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, cars and vehicle parts, natural gas, gold, lumber (2021)<br>
+crude petroleum, cars, natural gas, refined petroleum, gold (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $719.339 billion (2022 est.)<br>
 $619.639 billion (2021 est.)<br>
 $526.936 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-US 57%, China 11%, Mexico 5% (2019)<br>
+US 56%, China 11%, Mexico 4%, Germany 3%, Japan 2% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars and vehicle parts, delivery trucks, crude petroleum, refined petroleum (2019)<br>
+cars, refined petroleum, vehicle parts/accessories, trucks, crude petroleum (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $106.952 billion (2022 est.)<br>
 $106.615 billion (2021 est.)<br>
 $90.428 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2,124,887,000,000 (2019 est.)<br>

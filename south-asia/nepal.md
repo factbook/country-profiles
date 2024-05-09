@@ -347,7 +347,7 @@ _election results_: <em>2023:</em> Ram Chandra POUDEL elected president; elector
 **Legislative branch**<br>
 _description_: bicameral Federal Parliament consists of:<br>National Assembly (59 seats; 56 members, including at least 3 women, 1 Dalit, 1 member with disabilities, or 1 minority indirectly elected by an electoral college of state and municipal government leaders, and 3 members, including 1 woman, nominated by the president of Nepal on the recommendation of the government; members serve 6-year terms with renewal of one-third of the membership every 2 years)<br>House of Representatives (275 seats; 165 members directly elected in single-seat constituencies by simple majority vote and 110 members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a threshold of 3% overall valid vote to be allocated a seat; members serve 5-year terms); note - the House of Representatives was dissolved on 22 May 2021, but on 13 July, the Supreme Court directed its reinstatement<br>
 _elections_: National Assembly - last held on 26 January 2022 (next to be held in 2024)<br><br>House of Representatives - last held on 20 November 2022 (next to be held in November 2027)<br>
-_election results_: National Assembly - percent of vote by party - NA; seats by party - CPN-UML 42, NC 13, FSFN 2, RJPN 2; composition as of March 2024 - men 37, women 22, percentage women 37.3%<br><br>House of Representatives - percent of vote by party - NA; seats by party - NC 89, CPN-UML 78, CPN-MC 32, RSP 20, RPP 14, PSP-N 12, CPN (Unified Socialist) 10, Janamat Party 6, Loktantrik Samajwadi Party 4,<br>other 10; composition as of March 2024 - men 182, women 90, percentage women 33.1%; total Federal Parliament percentage women NA%<br>
+_election results_: National Assembly - percent of vote by party - NA; seats by party - CPN-UML 42, NC 13, FSFN 2, RJPN 2; composition - men 37, women 22, percentage women 37.3%<br><br>House of Representatives - percent of vote by party - NA; seats by party - NC 89, CPN-UML 78, CPN-MC 32, RSP 20, RPP 14, PSP-N 12, CPN (Unified Socialist) 10, Janamat Party 6, Loktantrik Samajwadi Party 4,<br>other 10; composition - men 182, women 90, percentage women 33.1%; total Federal Parliament percentage women NA%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and up to 20 judges)<br>
@@ -401,29 +401,29 @@ low-income South Asian economy; post-conflict fiscal federalism increasing stabi
 $122.242 billion (2022 est.)<br>
 $115.745 billion (2021 est.)<br>
 $110.404 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 5.61% (2022 est.)<br>
 4.84% (2021 est.)<br>
 -2.37% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $4,000 (2022 est.)<br>
 $3,900 (2021 est.)<br>
 $3,800 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $40.828 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 7.65% (2022 est.)<br>
 4.15% (2021 est.)<br>
 5.05% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 27% (2017 est.)<br>
@@ -439,24 +439,25 @@ _exports of goods and services_: 9.8% (2017 est.)<br>
 _imports of goods and services_: -42% (2017 est.)<br>
 
 **Agricultural products**<br>
-rice, vegetables, sugar cane, potatoes, maize, wheat, buffalo milk, milk, fruit, mangoes/guavas<br>
+rice, vegetables, potatoes, sugarcane, maize, wheat, bison milk, milk, mangoes/guavas, fruits (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, carpets, textiles; small rice, jute, sugar, and oilseed mills; cigarettes, cement and brick production<br>
 
 **Industrial production growth rate**<br>
 10.8% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 8.741 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 10.92% (2022 est.)<br>
 12.58% (2021 est.)<br>
 13.12% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.5% (2021 est.)<br>
@@ -477,7 +478,7 @@ _highest 10%_: 29.5% (2011)<br>
 22.76% of GDP (2022 est.)<br>
 22.28% of GDP (2021 est.)<br>
 24.25% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $7.305 billion (2020 est.)<br>
@@ -490,11 +491,11 @@ _expenditures_: $9.008 billion (2020 est.)<br>
 39.92% of GDP (2021 est.)<br>
 39.05% of GDP (2020 est.)<br>
 31.78% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 17.49% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 16 July - 15 July<br>
@@ -503,37 +504,41 @@ note: central government tax revenue as a % of GDP<br>
 -$2.518 billion (2022 est.)<br>
 -$5.363 billion (2021 est.)<br>
 -$84.137 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $2.733 billion (2022 est.)<br>
 $2.52 billion (2021 est.)<br>
 $1.771 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-India 68%, United States 10% (2019)<br>
+India 67%, US 11%, Germany 3%, Turkey 2%, UK 2% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-soybean oil, palm oil, clothing and apparel, carpets, nutmeg (2021)<br>
+palm oil, soybean oil, garments, synthetic fibers, knotted carpets (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $15.462 billion (2022 est.)<br>
 $16.993 billion (2021 est.)<br>
 $10.694 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-India 70%, China 15% (2019)<br>
+India 64%, China 13%, UAE 3%, Indonesia 2%, US 2% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, iron, broadcasting equipment, natural gas, rice (2019)<br>
+refined petroleum, natural gas, gold, rice, soybean oil (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $9.319 billion (2022 est.)<br>
 $9.639 billion (2021 est.)<br>
 $11.468 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $5.849 billion (31 December 2017 est.)<br>

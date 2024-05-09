@@ -229,9 +229,6 @@ printing; production of coins, medals, postage stamps; mosaics, staff uniforms; 
 **Labor force**<br>
 4,822 (2016)<br>
 
-**Population below poverty line**<br>
-NA<br>
-
 **Budget**<br>
 _revenues_: $315 million (2013)<br>
 _expenditures_: $348 million (2013)<br>

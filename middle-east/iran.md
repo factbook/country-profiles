@@ -397,29 +397,29 @@ traditionally state-controlled economy but reforming state-owned financial entit
 $1.369 trillion (2022 est.)<br>
 $1.319 trillion (2021 est.)<br>
 $1.26 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.78% (2022 est.)<br>
 4.72% (2021 est.)<br>
 3.33% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $15,500 (2022 est.)<br>
 $15,000 (2021 est.)<br>
 $14,400 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $413.493 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 43.49% (2022 est.)<br>
 43.39% (2021 est.)<br>
 30.59% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 9.6% (2016 est.)<br>
@@ -435,24 +435,25 @@ _exports of goods and services_: 26% (2017 est.)<br>
 _imports of goods and services_: -24.9% (2017 est.)<br>
 
 **Agricultural products**<br>
-wheat, sugar cane, milk, sugar beet, tomatoes, barley, potatoes, oranges, poultry, apples<br>
+wheat, sugarcane, milk, sugar beets, tomatoes, barley, potatoes, vegetables, oranges, chicken (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 petroleum, petrochemicals, gas, fertilizer, caustic soda, textiles, cement and other construction materials, food processing (particularly sugar refining and vegetable oil production), ferrous and nonferrous metal fabrication, armaments<br>
 
 **Industrial production growth rate**<br>
 7.4% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 28.641 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 8.82% (2022 est.)<br>
 9.28% (2021 est.)<br>
 9.69% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 27.2% (2021 est.)<br>
@@ -464,7 +465,7 @@ _female_: 41.7%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 40.9 (2019 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 27.9% of household expenditures (2018 est.)<br>
@@ -473,7 +474,7 @@ _on alcohol and tobacco_: 0.6% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3%<br>
 _highest 10%_: 31.7% (2019 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.55% of GDP (2020 est.)<br>
@@ -503,24 +504,32 @@ $9.491 billion (2017 est.)<br>
 $16.28 billion (2016 est.)<br>
 
 **Exports**<br>
-$101.4 billion (2017 est.)<br>
-$83.98 billion (2016 est.)<br>
+$110.882 billion (2022 est.)<br>
+$82.015 billion (2021 est.)<br>
+$46.568 billion (2020 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 48%, India 12%, South Korea 8%, Turkey 6%, United Arab Emirates 5% (2019)<br>
+China 36%, Turkey 20%, Kuwait 6%, Pakistan 5%, India 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-ethylene polymers, pistachios, iron, copper, industrial alcohols, aluminum (2021)<br>
+ethylene polymers, refined copper, acyclic alcohols, aluminum, natural gas (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$76.39 billion (2017 est.)<br>
-$63.14 billion (2016 est.)<br>
+$102.47 billion (2022 est.)<br>
+$77.33 billion (2021 est.)<br>
+$58.461 billion (2020 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 28%, United Arab Emirates 20%, India 11%, Turkey 7%, Brazil 6%, Germany 5% (2019)<br>
+China 28%, UAE 19%, Brazil 13%, Turkey 9%, India 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-rice, corn, broadcasting equipment, soybean products, beef (2019)<br>
+broadcasting equipment, corn, soybeans, vehicle parts/accessories, rice (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $120.6 billion (31 December 2017 est.)<br>

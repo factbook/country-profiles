@@ -317,13 +317,6 @@ copra, handicrafts, fishing, lumber<br>
 8.8% (2013 est.)<br>
 12.2% (2008 est.)<br>
 
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Budget**<br>
 _revenues_: $32.54 million (2015 est.)<br>
 _expenditures_: $34.18 million (2015 est.)<br>
@@ -342,13 +335,15 @@ _expenditures_: $34.18 million (2015 est.)<br>
 calendar year<br>
 
 **Exports - partners**<br>
-Singapore 47%, France 32%, Belgium 9% (2019)<br>
+France 48%, Singapore 12%, US 10%, Guatemala 9%, UK 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
 integrated circuits, jewelry, cars, aircraft parts, polyacetals (2019)<br>
 
 **Imports - partners**<br>
-France 43%, Fiji 24%, New Zealand 11%, Australia 6% (2019)<br>
+Fiji 38%, France 31%, NZ 8%, Iceland 6%, Australia 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
 refined petroleum, beef products, poultry meats, engine parts, packaged medicines (2019)<br>

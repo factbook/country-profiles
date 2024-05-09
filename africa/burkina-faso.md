@@ -406,29 +406,29 @@ highly agrarian, low-income economy; limited natural resources; widespread pover
 $48.949 billion (2022 est.)<br>
 $48.093 billion (2021 est.)<br>
 $44.973 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.78% (2022 est.)<br>
 6.94% (2021 est.)<br>
 1.92% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $2,200 (2022 est.)<br>
 $2,200 (2021 est.)<br>
 $2,100 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $18.82 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 14.29% (2022 est.)<br>
 3.65% (2021 est.)<br>
 1.88% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Standard & Poors rating_: B (2017)<br>
@@ -448,24 +448,25 @@ _exports of goods and services_: 28.4% (2017 est.)<br>
 _imports of goods and services_: -34.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-sorghum, maize, millet, cotton, cow peas, sugar cane, groundnuts, rice, sesame seed, vegetables<br>
+sorghum, maize, fruits, vegetables, millet, cowpeas, cotton, groundnuts, sugarcane, rice (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 cotton lint, beverages, agricultural processing, soap, cigarettes, textiles, gold<br>
 
 **Industrial production growth rate**<br>
 -8.28% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 8.328 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.07% (2022 est.)<br>
 5.36% (2021 est.)<br>
 5.15% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 7.7% (2021 est.)<br>
@@ -474,22 +475,22 @@ _female_: 8%<br>
 
 **Population below poverty line**<br>
 41.4% (2018 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 43 (2018 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 35.3% (2018 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 3.13% of GDP (2022 est.)<br>
 2.91% of GDP (2021 est.)<br>
 2.96% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $3.212 billion (2019 est.)<br>
@@ -502,11 +503,11 @@ _expenditures_: $3.757 billion (2019 est.)<br>
 55.74% of GDP (2021 est.)<br>
 73.39% of GDP (2020 est.)<br>
 47.06% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 15.98% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -515,31 +516,35 @@ calendar year<br>
 $77.255 million (2021 est.)<br>
 $743.232 million (2020 est.)<br>
 -$523.837 million (2019 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $6.234 billion (2021 est.)<br>
 $5.356 billion (2020 est.)<br>
 $4.468 billion (2019 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Switzerland 59%, India 21% (2019)<br>
+Switzerland 74%, UAE 7%, Mali 4%, Singapore 2%, Cote d'Ivoire 2% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, cotton, zinc, cashews, sesame seeds (2021)<br>
+gold, cotton, oil seeds, coconuts/Brazil nuts/cashews, zinc ore (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $5.835 billion (2021 est.)<br>
 $4.779 billion (2020 est.)<br>
 $5.023 billion (2019 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Cote d'Ivoire 15%, China 9%, Ghana 8%, France 8%, India 6%, United States 5% (2019)<br>
+Cote d'Ivoire 16%, China 12%, Russia 7%, France 7%, Ghana 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, delivery trucks, packaged medicines, electricity, aircraft (2019)<br>
+refined petroleum, electricity, packaged medicine, plastic products, natural gas (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $49 million (31 December 2017 est.)<br>

@@ -5,7 +5,7 @@ _Central America and Caribbean / Dependencies (France)_
 ## Introduction
 
 **Background**<br>
-Discovered in 1493 by Christopher COLUMBUS who named it for his brother Bartolomeo, Saint Barthelemy was first settled by the French in 1648. In 1784, the French sold the island to Sweden, which renamed the largest town Gustavia, after the Swedish King GUSTAV III, and made it a free port; the island prospered as a trade and supply center during the colonial wars of the 18th century. France repurchased the island in 1877 and took control the following year. It was placed under the administration of Guadeloupe. Saint Barthelemy retained its free port status along with various Swedish appellations such as Swedish street and town names, and the three-crown symbol on the coat of arms. In 2003, the islanders voted to secede from Guadeloupe, and in 2007, the island became a French overseas collectivity. In 2012, it became an overseas territory of the EU, allowing it to exert local control over the permanent and temporary immigration of foreign workers including non-French European citizens. Hurricane Irma hit the island in September 2017 causing extensive damage, but Saint Barthelemy recovered by early 2018.<br>
+In 1493, Christopher COLUMBUS named Saint Barthelemy for his brother Bartolomeo, but the island was first settled by the French in 1648. In 1784, France sold the island to Sweden, which renamed the largest town Gustavia after the Swedish King GUSTAV III and made it a free port; the island prospered as a trade and supply center during the colonial wars of the 18th century. France repurchased the island in 1877 and took control the following year, placing it under the administration of Guadeloupe. Saint Barthelemy retained its free port status along with various Swedish appellations such as Swedish street and town names, and the three-crown symbol on the coat of arms. In 2003, the islanders voted to secede from Guadeloupe, and in 2007, the island became a French overseas collectivity. In 2012, it became an overseas territory of the EU, allowing it to exert local control over the permanent and temporary immigration of foreign workers, including non-French European citizens. Hurricane Irma hit the island in 2017 and caused extensive damage.<br>
 
 ## Geography
 
@@ -245,16 +245,20 @@ _lyrics/music_: Isabelle Massart DERAVIN/Michael VALENTI<br>
 high-income French Caribbean territorial economy; duty-free luxury commerce and tourism industries; import-dependent for food, water, energy, and manufacturing; large Brazilian and Portuguese labor supply; environmentally fragile<br>
 
 **Exports - partners**<br>
-France 60%, Germany 27% (2019)<br>
+Nigeria 98%, Suriname 1%, France 0%, Switzerland 0%, Poland 0% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-beauty products, broadcasting equipment, sunflower seed oil, plastics, cars (2019)<br>
+refined petroleum, fruit juice, precious metal watches, beauty products, special pharmaceuticals (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports - partners**<br>
-France 78%, Switzerland 7%, Italy 7% (2019)<br>
+Switzerland 37%, Italy 14%, Portugal 11%, Suriname 9%, Brazil 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-furniture, wine, refined petroleum, jewelry, food preparation materials (2019)<br>
+precious metal watches, base metal watches, jewelry, refined petroleum, cars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>
 0.885 (2017 est.)<br>

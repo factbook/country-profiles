@@ -411,29 +411,29 @@ one of West Africa&rsquo;s most influential, stable, and rapidly developing econ
 $155.935 billion (2022 est.)<br>
 $146.087 billion (2021 est.)<br>
 $136.53 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 6.74% (2022 est.)<br>
 7% (2021 est.)<br>
 1.74% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $5,500 (2022 est.)<br>
 $5,300 (2021 est.)<br>
 $5,100 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $70.019 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5.28% (2022 est.)<br>
 4.09% (2021 est.)<br>
 2.43% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2015)<br>
@@ -454,24 +454,25 @@ _exports of goods and services_: 30.8% (2017 est.)<br>
 _imports of goods and services_: -30.1% (2017 est.)<br>
 
 **Agricultural products**<br>
-yams, cassava, cocoa, oil palm fruit, sugar cane, rice, plantains, maize, cashew nuts, rubber<br>
+yams, cassava, oil palm fruit, cocoa beans, sugarcane, plantains, rice, rubber, maize, cashews (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 foodstuffs, beverages; wood products, oil refining, gold mining, truck and bus assembly, textiles, fertilizer, building materials, electricity<br>
 
 **Industrial production growth rate**<br>
 8.09% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 10.609 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 2.49% (2022 est.)<br>
 2.71% (2021 est.)<br>
 2.64% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 5.7% (2021 est.)<br>
@@ -480,11 +481,11 @@ _female_: 6.8%<br>
 
 **Population below poverty line**<br>
 39.5% (2018 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 37.2 (2018 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 39.6% of household expenditures (2018 est.)<br>
@@ -493,13 +494,13 @@ _on alcohol and tobacco_: 3.1% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
 _highest 10%_: 29% (2018 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.51% of GDP (2022 est.)<br>
 0.61% of GDP (2021 est.)<br>
 0.52% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $8.804 billion (2019 est.)<br>
@@ -514,7 +515,7 @@ _expenditures_: $10.145 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 12.56% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -523,31 +524,35 @@ calendar year<br>
 -$2.874 billion (2021 est.)<br>
 -$1.974 billion (2020 est.)<br>
 -$1.349 billion (2019 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $16.23 billion (2021 est.)<br>
 $13.232 billion (2020 est.)<br>
 $13.791 billion (2019 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Netherlands 10%, United States 6%, France 6%, Spain 5%, Malaysia 5%, Switzerland 5%, Germany 5%, Vietnam 5% (2019)<br>
+Switzerland 9%, Mali 8%, Netherlands 8%, US 6%, France 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cocoa products, rubber, gold, cashews, crude petroleum, bananas (2021)<br>
+cocoa beans, gold, rubber, refined petroleum, cocoa paste (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $16.191 billion (2021 est.)<br>
 $12.66 billion (2020 est.)<br>
 $12.881 billion (2019 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 18%, Nigeria 13%, France 11% (2019)<br>
+China 18%, Nigeria 11%, France 8%, India 5%, Belgium 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, rice, frozen fish, refined petroleum, packaged medicines (2019)<br>
+crude petroleum, refined petroleum, ships, rice, fish (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $6.257 billion (31 December 2017 est.)<br>

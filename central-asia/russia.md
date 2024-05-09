@@ -5,7 +5,7 @@ _Central Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Founded in the 12th century, the Principality of Muscovy was able to emerge from over 200 years of Mongol domination (13th-15th centuries) and to gradually conquer and absorb surrounding principalities. In the early 17th century, a new ROMANOV Dynasty continued this policy of expansion across Siberia to the Pacific. Under PETER I (ruled 1682-1725), hegemony was extended to the Baltic Sea and the country was renamed the Russian Empire. During the 19th century, more territorial acquisitions were made in Europe and Asia. Defeat in the Russo-Japanese War of 1904-05 contributed to the Revolution of 1905, which resulted in the formation of a parliament and other reforms. Devastating defeats and food shortages in World War I led to widespread rioting in the major cities of the Russian Empire and to the overthrow in 1917 of the ROMANOV Dynasty. The communists under Vladimir LENIN seized power soon after and formed the USSR. The brutal rule of Iosif STALIN (1928-53) strengthened communist rule and Russian dominance of the Soviet Union at a cost of tens of millions of lives. After defeating Germany in World War II as part of an alliance with the US (1939-1945), the USSR expanded its territory and influence in Eastern Europe and emerged as a global power. The USSR was the principal adversary of the US during the Cold War (1947-1991). The Soviet economy and society stagnated in the decades following Stalin's rule, until General Secretary Mikhail GORBACHEV (1985-91) introduced glasnost (openness) and perestroika (restructuring) in an attempt to modernize communism, but his initiatives inadvertently released forces that by December 1991 led to the dissolution of the USSR into Russia and 14 other independent states.</p> <p>Following economic and political turmoil during President Boris YELTSIN's term (1991-99), Russia shifted toward a centralized authoritarian state under President Vladimir PUTIN (2000-2008, 2012-present) in which the regime seeks to legitimize its rule through managed elections, populist appeals, a foreign policy focused on enhancing the country's geopolitical influence, and commodity-based economic growth. <br><br>In 2014, Russia purported to annex Ukraine's Crimean Peninsula and occupied large portions of two eastern Ukrainian oblasts. In desultory fighting over the next eight years, more than 14,000 civilians were killed or wounded as a result of the Russian invasion in eastern Ukraine. On 24 February 2022, Russia escalated its conflict with Ukraine by invading the country on several fronts in what has become the largest conventional military attack on a sovereign state in Europe since World War II. The invasion has received near universal international condemnation, and many countries have imposed sanctions on Russia and supplied humanitarian and military aid to Ukraine. Russia made substantial gains in the early weeks of the invasion but underestimated Ukrainian resolve and combat capabilities. By the end of 2022, Ukrainian forces had regained all territories in the north and northeast of their country and made some advances in the east and south. Nonetheless, Russia in late September 2022 unilaterally declared its annexation of four Ukrainian oblasts - Donetsk, Kherson, Luhansk, and Zaporizhzhia - even though none were fully under Russian control. The annexations remain unrecognized by the international community.<br><br><br><br><br><br><br><br><br><br><br> </p><br>
+<p>Founded in the 12th century, the Principality of Muscovy emerged from over 200 years of Mongol domination (13th-15th centuries) and gradually conquered and absorbed surrounding principalities. In the early 17th century, a new ROMANOV dynasty continued this policy of expansion across Siberia to the Pacific. Under PETER I (1682-1725), hegemony was extended to the Baltic Sea and the country was renamed the Russian Empire. During the 19th century, more territorial acquisitions were made in Europe and Asia. Defeat in the Russo-Japanese War of 1904-05 contributed to the Revolution of 1905, which resulted in the formation of a parliament and other reforms. Devastating defeats and food shortages in World War I led to widespread rioting in the major cities of the Russian Empire and to the overthrow of the ROMANOV Dynasty in 1917. The communists under Vladimir LENIN seized power soon after and formed the Union of Soviet Socialist Republics (USSR). <br><br>The brutal rule of Iosif STALIN (1928-53) strengthened communist control and Russian dominance of the Soviet Union at a cost of tens of millions of lives. After defeating Germany in World War II as part of an alliance with the US (1939-1945), the USSR expanded its territory and influence in Eastern Europe and emerged as a global power. The USSR was the principal US adversary during the Cold War (1947-1991). The Soviet economy and society stagnated in the decades following Stalin's rule, until General Secretary Mikhail GORBACHEV (1985-91) introduced glasnost (openness) and perestroika (restructuring) in an attempt to modernize communism. His initiatives inadvertently released political and economic forces that by December 1991 led to the dissolution of the USSR into Russia and 14 other independent states. In response to the ensuing turmoil during President Boris YELTSIN's term (1991-99), Russia shifted toward a centralized authoritarian state under President Vladimir PUTIN (2000-2008, 2012-present) in which the regime seeks to legitimize its rule through managed elections, populist appeals, a foreign policy focused on enhancing the country's geopolitical influence, and commodity-based economic growth. <br><br>In 2014, Russia purported to annex Ukraine's Crimean Peninsula and occupied large portions of two eastern Ukrainian oblasts. In sporadic fighting over the next eight years, more than 14,000 civilians were killed or wounded as a result of the Russian invasion in eastern Ukraine. On 24 February 2022, Russia escalated its conflict with Ukraine by invading the country on several fronts in what has become the largest conventional military attack on a sovereign state in Europe since World War II. The invasion received near-universal international condemnation, and many countries imposed sanctions on Russia and supplied humanitarian and military aid to Ukraine. In September 2022, Russia unilaterally declared its annexation of four Ukrainian oblasts -- Donetsk, Kherson, Luhansk, and Zaporizhzhia -- even though none were fully under Russian control. The annexations remain unrecognized by the international community. </p><br>
 
 ## Geography
 
@@ -375,7 +375,7 @@ _election results_: <br><em>2024</em>: Vladimir PUTIN reelected president; perce
 **Legislative branch**<br>
 _description_: bicameral Federal Assembly or Federalnoye Sobraniye consists of:<br>Federation Council or Sovet Federatsii (170 seats statutory, 169 as of April 2023; 2 members in each of the 83 federal administrative units (see note below) - oblasts, krays, republics, autonomous okrugs and oblasts, and federal cities of Moscow and Saint Petersburg - appointed by the top executive and legislative officials; members serve 4-year terms)<br>State Duma or Gosudarstvennaya Duma (450 seats (see note below); as of February 2014, the electoral system reverted to a mixed electoral system for the 2016 election, in which one-half of the members are directly elected by simple majority vote and one-half directly elected by proportional representation vote; members serve 5-year terms)<br>
 _elections_: State Duma - last held 17 - 19 September 2021 (next to be held in September 2026)<br>
-_election results_: Federation Council - composition as of February 2024 - men 137, women 32, percentage women 18.9%<br> <p>State Duma - percent vote by party - United Russia 50.9%, CPRF 19.3%, LDPR 7.7%, A Just Russia 7.6%, New People 5.3% other minor parties and independents 9.2%; seats by party - United Russia 324, CPRF 57, LDPR 21, A Just Russia 27, New People 13; Rodina 1, CP 1, Party of Growth 1, independent 5; composition as of February 2024 - men 376, women 74, percentage women 16.4%; total Federal Assembly percentage women 17.1%</p><br>
+_election results_: Federation Council - composition - men 137, women 32, percentage women 18.9%<br> <p>State Duma - percent vote by party - United Russia 50.9%, CPRF 19.3%, LDPR 7.7%, A Just Russia 7.6%, New People 5.3% other minor parties and independents 9.2%; seats by party - United Russia 324, CPRF 57, LDPR 21, A Just Russia 27, New People 13; Rodina 1, CP 1, Party of Growth 1, independent 5; composition - men 376, women 74, percentage women 16.4%; total Federal Assembly percentage women 17.1%</p><br>
 <strong>note 1:</strong> the State Duma now includes 3 representatives from the "Republic of Crimea," while the Federation Council includes 2 each from the "Republic of Crimea" and the "Federal City of Sevastopol," both regions that Russia occupied and attempted to annex from Ukraine and that the US does not recognize as part of Russia<br>
 
 **Judicial branch**<br>
@@ -431,29 +431,29 @@ natural resource-rich Eurasian economy; leading energy exporter to Europe and As
 $4.027 trillion (2022 est.)<br>
 $4.112 trillion (2021 est.)<br>
 $3.894 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -2.07% (2022 est.)<br>
 5.61% (2021 est.)<br>
 -2.65% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $27,500 (2022 est.)<br>
 $28,100 (2021 est.)<br>
 $26,600 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $2.24 trillion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 6.69% (2021 est.)<br>
 3.38% (2020 est.)<br>
 4.47% (2019 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2019)<br>
@@ -475,24 +475,25 @@ _exports of goods and services_: 26.2% (2017 est.)<br>
 _imports of goods and services_: -20.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-wheat, sugar beets, milk, potatoes, barley, sunflower seed, maize, poultry, oats, soybeans<br>
+wheat, sugar beets, milk, barley, potatoes, sunflower seeds, maize, soybeans, chicken, pork (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 complete range of mining and extractive industries producing coal, oil, gas, chemicals, and metals; all forms of machine building from rolling mills to high-performance aircraft and space vehicles; defense industries (including radar, missile production, advanced electronic components), shipbuilding; road and rail transportation equipment; communications equipment; agricultural machinery, tractors, and construction equipment; electric power generating and transmitting equipment; medical and scientific instruments; consumer durables, textiles, foodstuffs, handicrafts<br>
 
 **Industrial production growth rate**<br>
 -0.17% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 73.799 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.87% (2022 est.)<br>
 4.72% (2021 est.)<br>
 5.59% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 16.9% (2021 est.)<br>
@@ -501,11 +502,11 @@ _female_: 18.4%<br>
 
 **Population below poverty line**<br>
 12.1% (2020 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 36 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 28% of household expenditures (2018 est.)<br>
@@ -514,13 +515,13 @@ _on alcohol and tobacco_: 7.4% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1%<br>
 _highest 10%_: 29% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.15% of GDP (2022 est.)<br>
 0.53% of GDP (2021 est.)<br>
 0.66% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $604.135 billion (2019 est.)<br>
@@ -533,11 +534,11 @@ _expenditures_: $571.465 billion (2019 est.)<br>
 20.94% of GDP (2021 est.)<br>
 22.99% of GDP (2020 est.)<br>
 17.28% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 11.65% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -546,37 +547,41 @@ calendar year<br>
 $237.883 billion (2022 est.)<br>
 $122.114 billion (2021 est.)<br>
 $35.373 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $640.688 billion (2022 est.)<br>
 $549.9 billion (2021 est.)<br>
 $381.49 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 15%, Netherlands 8%, United States 6%, United Kingdom 5%, Italy 5% (2021)<br>
+China 21%, India 8%, Germany 6%, Turkey 5%, Italy 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, refined petroleum, natural gas, coal, wheat, iron (2019)<br>
+crude petroleum, natural gas, refined petroleum, coal, fertilizers (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $347.375 billion (2022 est.)<br>
 $379.946 billion (2021 est.)<br>
 $304.837 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 25%, Germany 12%, Belarus 6%, South Korea 4%, Poland 3% (2021)<br>
+China 39%, Germany 8%, Turkey 5%, Kazakhstan 5%, South Korea 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars and vehicle parts, packaged medicines, broadcasting equipment, aircraft, computers (2019)<br>
+packaged medicine, broadcasting equipment, cars, garments, plastic products (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $581.71 billion (2022 est.)<br>
 $632.242 billion (2021 est.)<br>
 $596.77 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $479.844 billion (2019 est.)<br>

@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Rwanda - a small and centralized country dominated by rugged hills and fertile volcanic soil - has exerted disproportionate influence over the African Great Lakes region for centuries. A Rwandan kingdom increasingly dominated the region from the mid-18th century onward, with the Tutsi monarchs gradually extending the power of the royal court into peripheral areas and expanding their borders through military conquest. While the current ethnic labels Hutu and Tutsi predate colonial rule, their flexibility and importance have varied significantly over time and often manifested more as a hierarchical class distinction than an ethnic or cultural distinction. The majority Hutu and minority Tutsi have long shared a common language and culture, and intermarriage was frequent. The Rwandan royal court centered on the Tutsi king (<em>mwami</em>), who relied on an extensive hierarchy of political, cultural, and economic relationships that intertwined Rwanda’s social groups. Social categories became more rigid during the reign of RWABUGIRI (1860-1895), who focused on aggressive expansion and solidifying Rwanda’s bureaucratic structures. German colonial conquest began in the late 1890s, but the territory was ceded to Belgian forces in 1916 during World War I. Both European nations quickly realized the benefits of ruling through the already centralized Rwandan Tutsi kingdom. Colonial rule reinforced existing trends toward autocratic and exclusionary rule, leading to the elimination of traditional positions of authority for Hutus and a calcification of ethnic identities. Belgian administrators significantly increased requirements for communal labor and instituted harsh taxes, increasing frustration and inequality. Changing political attitudes in Belgium contributed to colonial and Catholic officials shifting their support from Tutsi to Hutu leaders in the years leading up to independence.</p> <p>Newly mobilized political parties and simmering resentment of minority rule exploded in 1959, three years before independence from Belgium, when Hutus overthrew the Tutsi king. Thousands of Tutsis were killed over the next several years, and some 150,000 were driven into exile in neighboring countries. Army Chief of Staff Juvenal HABYARIMANA seized power in a coup in 1973 and ruled Rwanda as a single-party state for two decades. HABYARIMANA increasingly discriminated against Tutsi and extremist Hutu factions gained prominence after multiple parties were introduced in the early 1990s. The children of Tutsi exiles later formed a rebel group, the Rwandan Patriotic Front (RPF) and began a civil war in 1990. The civil war exacerbated ethnic tensions and culminated in the shooting down of HABYARIMANA’s private jet in April 1994. The event sparked a state-orchestrated genocide in which Rwandans killed morethan 800,000 of their fellow citizens, including approximately three-quarters of the Tutsi population. The genocide ended later that same year when the predominantly Tutsi RPF, operating out of Uganda and northern Rwanda, defeated the national army and Hutu militias and established an RPF-led government of national unity. Rwanda held its first local elections in 1999 and its first post-genocide presidential and legislative elections in 2003, formalizing President Paul KAGAME’s de facto role as head of government. KAGAME was formally elected in 2010, and again in 2017 after changing the constitution to allow him to run for a third term.</p><br>
+<p>Rwanda -- a small and centralized country dominated by rugged hills and fertile volcanic soil -- has exerted disproportionate influence over the African Great Lakes region for centuries. A Rwandan kingdom increasingly dominated the region from the mid-18th century onward, with the Tutsi monarchs gradually extending the power of the royal court into peripheral areas and expanding their borders through military conquest. While the current ethnic labels Hutu and Tutsi predate colonial rule, their flexibility and importance have varied significantly over time and often manifested more as a hierarchical class distinction than an ethnic or cultural distinction. The majority Hutu and minority Tutsi have long shared a common language and culture, and intermarriage was frequent. The Rwandan royal court centered on the Tutsi king (<em>mwami</em>), who relied on an extensive network of political, cultural, and economic relationships. Social categories became more rigid during the reign of RWABUGIRI (1860-1895), who focused on aggressive expansion and solidifying Rwanda’s bureaucratic structures. German colonial conquest began in the late 1890s, but the territory was ceded to Belgian forces in 1916 during World War I. Both European nations quickly realized the benefits of ruling through the already centralized Rwandan Tutsi kingdom. Colonial rule reinforced existing trends toward autocratic and exclusionary rule, leading to the elimination of traditional positions of authority for Hutus and a calcification of ethnic identities. Belgian administrators significantly increased requirements for communal labor and instituted harsh taxes, increasing frustration and inequality. Changing political attitudes in Belgium contributed to colonial and Catholic officials shifting their support from Tutsi to Hutu leaders in the years leading up to independence.</p> <p>Newly mobilized political parties and simmering resentment of minority rule exploded in 1959, three years before independence from Belgium, when Hutus overthrew the Tutsi king. Thousands of Tutsis were killed over the next several years, and some 150,000 were driven into exile in neighboring countries. Army Chief of Staff Juvenal HABYARIMANA seized power in a coup in 1973 and ruled Rwanda as a single-party state for two decades. HABYARIMANA increasingly discriminated against Tutsis, and extremist Hutu factions gained prominence after multiple parties were introduced in the early 1990s. The children of Tutsi exiles later formed a rebel group, the Rwandan Patriotic Front (RPF) and began a civil war in 1990. The civil war exacerbated ethnic tensions and culminated in the shooting down of HABYARIMANA’s private jet in 1994. The event sparked a state-orchestrated genocide in which Rwandans killed more than 800,000 of their fellow citizens, including approximately three-quarters of the Tutsi population. The genocide ended later that same year when the predominantly Tutsi RPF, operating out of Uganda and northern Rwanda, defeated the national army and Hutu militias and established an RPF-led government of national unity. Rwanda held its first local elections in 1999 and its first post-genocide presidential and legislative elections in 2003, formalizing President Paul KAGAME’s de facto role as head of government. KAGAME was formally elected in 2010, and again in 2017 after changing the constitution to allow him to run for a third term.</p><br>
 
 ## Geography
 
@@ -405,29 +405,29 @@ fast-growing Sub-Saharan economy; major public investments; trade and tourism hi
 $32.579 billion (2022 est.)<br>
 $30.121 billion (2021 est.)<br>
 $27.167 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 8.16% (2022 est.)<br>
 10.88% (2021 est.)<br>
 -3.38% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $2,400 (2022 est.)<br>
 $2,200 (2021 est.)<br>
 $2,100 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $13.311 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 17.69% (2022 est.)<br>
 -0.39% (2021 est.)<br>
 9.85% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2014)<br>
@@ -449,24 +449,25 @@ _exports of goods and services_: 18.2% (2017 est.)<br>
 _imports of goods and services_: -32.8% (2017 est.)<br>
 
 **Agricultural products**<br>
-bananas, sweet potatoes, cassava, potatoes, plantains, beans, maize, gourds, milk, taro<br>
+bananas, cassava, sweet potatoes, potatoes, plantains, maize, beans, pumpkins/squash, taro, sorghum (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 cement, agricultural products, small-scale beverages, soap, furniture, shoes, plastic goods, textiles, cigarettes<br>
 
 **Industrial production growth rate**<br>
 4.97% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 5.1 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 15.08% (2022 est.)<br>
 15.79% (2021 est.)<br>
 11.83% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 2.9% (2021 est.)<br>
@@ -475,22 +476,22 @@ _female_: 3.6%<br>
 
 **Population below poverty line**<br>
 38.2% (2016 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 43.7 (2016 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.4%<br>
 _highest 10%_: 35.6% (2016 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 3.56% of GDP (2022 est.)<br>
 3.54% of GDP (2021 est.)<br>
 2.75% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $2.393 billion (2019 est.)<br>
@@ -505,7 +506,7 @@ _expenditures_: $2.919 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 15.08% (of GDP) (2020 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -514,37 +515,41 @@ calendar year<br>
 -$1.301 billion (2022 est.)<br>
 -$1.209 billion (2021 est.)<br>
 -$1.228 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $2.993 billion (2022 est.)<br>
 $2.11 billion (2021 est.)<br>
 $1.929 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United Arab Emirates 35%, Democratic Republic of the Congo 28%, Uganda 5% (2019)<br>
+UAE 32%, Democratic Republic of the Congo 25%, Thailand 5%, US 3%, Ethiopia 3% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, refined petroleum, coffee, tea, tin (2019)<br>
+gold, tin ores, coffee, malt extract, rare earth ores (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $4.98 billion (2022 est.)<br>
 $3.856 billion (2021 est.)<br>
 $3.578 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 17%, Kenya 10%, Tanzania 9%, United Arab Emirates 9%, India 7%, Saudi Arabia 5% (2019)<br>
+China 19%, Tanzania 11%, Kenya 10%, UAE 10%, India 7% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, gold, raw sugar, packaged medicines, broadcasting equipment (2019)<br>
+refined petroleum, gold, palm oil, rice, raw sugar (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $1.726 billion (2022 est.)<br>
 $1.867 billion (2021 est.)<br>
 $1.72 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $3.258 billion (31 December 2017 est.)<br>

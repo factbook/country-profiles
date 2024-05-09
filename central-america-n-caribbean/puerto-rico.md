@@ -5,7 +5,7 @@ _Central America and Caribbean / Dependencies (United States)_
 ## Introduction
 
 **Background**<br>
-Populated for centuries by aboriginal peoples, the island was claimed by the Spanish Crown in 1493 following Christopher COLUMBUS' second voyage to the Americas. In 1898, after 400 years of colonial rule that saw the indigenous population nearly exterminated and African slave labor introduced, Puerto Rico was ceded to the US as a result of the Spanish-American War. Puerto Ricans were granted US citizenship in 1917. Popularly elected governors have served since 1948. In 1952, a constitution was enacted providing for internal self-government. In plebiscites held in 1967, 1993, and 1998, voters chose not to alter the existing political status with the US, but the results of a 2012 vote left open the possibility of American statehood. Economic recession on the island has led to a net population loss since about 2005, as large numbers of residents moved to the US mainland. The trend has accelerated since 2010; in 2014, Puerto Rico experienced a net population loss to the mainland of 64,000, more than double the net loss of 26,000 in 2010. Hurricane Maria struck the island on 20 September 2017 causing catastrophic damage, including destruction of the electrical grid that had been crippled by Hurricane Irma just two weeks before. It was the worst storm to hit the island in eight decades, and damage is estimated in the tens of billions of dollars. A referendum held in late 2020 showed a narrow preference for American statehood.<br>
+Populated for centuries by aboriginal peoples, Puerto Rico was claimed by the Spanish Crown in 1493 after Christopher COLUMBUS' second voyage to the Americas. In 1898, after 400 years of colonial rule that saw the indigenous population nearly exterminated and African slave labor introduced, Puerto Rico was ceded to the US as a result of the Spanish-American War. Puerto Ricans were granted US citizenship in 1917. Popularly elected governors have served since 1948. In 1952, a constitution was enacted that provided for internal self-government. In plebiscites held in 1967, 1993, and 1998, voters chose not to alter the existing political status with the US, but the results of a 2012 vote left open the possibility of American statehood. A referendum held in late 2020 showed a narrow preference for statehood.<br><br>Economic recession on the island has led to a net population loss since about 2005, as large numbers of residents moved to the US mainland. In 2017, Hurricane Maria was the worst storm to hit the island in eight decades, and damage was estimated in the tens of billions of dollars. <br>
 
 ## Geography
 
@@ -292,7 +292,7 @@ _election results_: <br><em>2020:</em> Pedro PIERLUISI elected governor; percent
 **Legislative branch**<br>
 _description_: <br>bicameral Legislative Assembly or Asamblea Legislativa consists of:<br>Senate or Senado (30 seats statutory, 27 current; 16 members directly elected in 8 2-seat constituencies by simple majority vote and 11 at-large members directly elected by simple majority vote to serve 4-year terms)<br>House of Representatives or Camara de Representantes (51 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
 _elections_: Senate - last held on 3 November 2020 (next to be held on 5 November 2024)<br>House of Representatives - last held on 3 November 2020 (next to be held on 5 November 2024)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PPD 12, NP 10, MVC 2, PD 1, PIP 1, independent 1; composition as of April 2024 - men 14, women 13, percentage women 48.1% <br><br>House of Representatives - percent of vote by party - NA; seats by party - PPD 26, PNP 21, MVC 2, PIP 1, PD 1; composition - men 41, women 10, percentage women 19.6%; total Legislative Assembly percentage women 29.5% <p><strong>note: </strong>Puerto Rico directly elects 1 member by simple majority vote to serve a 4-year term as a commissioner to the US House of Representatives; the commissioner can vote when serving on a committee and when the House meets as the Committee of the Whole House but not when legislation is submitted for a 'full floor' House vote; election of commissioner last held on 6 November 2018 (next to be held in November 2022)</p><br>
+_election results_: Senate - percent of vote by party - NA; seats by party - PPD 12, NP 10, MVC 2, PD 1, PIP 1, independent 1; composition - men 14, women 13, percentage women 48.1% <br><br>House of Representatives - percent of vote by party - NA; seats by party - PPD 26, PNP 21, MVC 2, PIP 1, PD 1; composition - men 41, women 10, percentage women 19.6%; total Legislative Assembly percentage women 29.5% <p><strong>note: </strong>Puerto Rico directly elects 1 member by simple majority vote to serve a 4-year term as a commissioner to the US House of Representatives; the commissioner can vote when serving on a committee and when the House meets as the Committee of the Whole House but not when legislation is submitted for a 'full floor' House vote; election of commissioner last held on 6 November 2018 (next to be held in November 2022)</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 8 associate justices)<br>
@@ -336,23 +336,23 @@ US Caribbean island territorial economy; hit hard by COVID-19 and hurricanes; de
 $110.501 billion (2022 est.)<br>
 $106.908 billion (2021 est.)<br>
 $106.447 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.36% (2022 est.)<br>
 0.43% (2021 est.)<br>
 -4.2% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $34,300 (2022 est.)<br>
 $32,800 (2021 est.)<br>
 $32,400 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $113.435 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1.8% (2017 est.)<br>
@@ -376,36 +376,30 @@ _exports of goods and services_: 117.8% (2017 est.)<br>
 _imports of goods and services_: -129.8% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, plantains, bananas, poultry, tomatoes, mangoes/guavas, eggs, oranges, gourds, papayas<br>
+milk, plantains, bananas, chicken, tomatoes, mangoes/guavas, eggs, oranges, pumpkins/squash, papayas (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 pharmaceuticals, electronics, apparel, food products, tourism<br>
 
 **Industrial production growth rate**<br>
 4.3% (2014 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 1.16 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 6% (2022 est.)<br>
 7.9% (2021 est.)<br>
 8.89% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 18.5% (2021 est.)<br>
 _male_: 19.4%<br>
 _female_: 15.6%<br>
-
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Budget**<br>
 _revenues_: $9.268 billion (2017 est.)<br>
@@ -429,8 +423,10 @@ $0 (2017 est.)<br>
 $0 (2016 est.)<br>
 
 **Exports**<br>
-$73.17 billion (2017 est.)<br>
-$73.2 billion (2016 est.)<br>
+$59.787 billion (2022 est.)<br>
+$57.916 billion (2021 est.)<br>
+$62.237 billion (2020 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Italy 15%, Netherlands 15%, Belgium 9%, Japan 8%, Germany 8%, Austria 8%, Spain 7%, China 5% (2019)<br>
@@ -439,8 +435,10 @@ Italy 15%, Netherlands 15%, Belgium 9%, Japan 8%, Germany 8%, Austria 8%, Spain 
 packaged medicines, medical cultures/vaccines, hormones, orthopedic and medical appliances, sulfur compounds (2019)<br>
 
 **Imports**<br>
-$49.01 billion (2017 est.)<br>
-$48.86 billion (2016 est.)<br>
+$51.509 billion (2022 est.)<br>
+$45.052 billion (2021 est.)<br>
+$44.513 billion (2020 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Ireland 38%, Singapore 9%, Switzerland 8%, South Korea 5% (2019)<br>

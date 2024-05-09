@@ -260,7 +260,8 @@ _industry_: NA<br>
 _services_: NA<br>
 
 **Agricultural products**<br>
-coconuts, roots/tubers, tropical fruit, pork, bananas, eggs, poultry, pig offals, pig fat, fruit<br>
+coconuts, root vegetables, tropical fruits, pork, bananas, eggs, chicken, pork offal, pork fat, fruits (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 small-scale enterprises for copra production, woodworking, plaited craft goods; stamps, coins; fishing<br>
@@ -271,9 +272,6 @@ small-scale enterprises for copra production, woodworking, plaited craft goods; 
 **Unemployment rate**<br>
 2% (2015 est.)<br>
 <strong>note:</strong> Underemployment may be as high as 6.6%<br>
-
-**Population below poverty line**<br>
-NA<br>
 
 **Budget**<br>
 _revenues_: $24,324,473 (2017 est.)<br>
@@ -286,19 +284,23 @@ _expenditures_: $11,666,542 (2017 est.)<br>
 $103,000 (2015 est.)<br>
 
 **Exports - partners**<br>
-Singapore 25%, France 19%, South Africa 7%, New Zealand 5%, United States 5%, Ireland 5% (2019)<br>
+Poland 97%, Singapore 0%, Brazil 0%, South Africa 0%, Rwanda 0% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-oscilloscopes, house linens, fruits, nuts, recreational boats, iron products (2019)<br>
+cars, iron fasteners, garments, silver, perfumes (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $15,792,720 (2015 est.)<br>
 
 **Imports - partners**<br>
-Samoa 35%, Ireland 17%, Philippines 14%, Malaysia 13%, South Africa 9% (2019)<br>
+Germany 40%, Sweden 10%, Singapore 8%, France 5%, Netherlands 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-oscilloscopes, integrated circuits, refined petroleum, packaged medicines, orthopedic appliances (2019)<br>
+cars, orthopedic appliances, surveying equipment, butter, nuts (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>
 _Currency_: New Zealand dollars (NZD) per US dollar -<br>

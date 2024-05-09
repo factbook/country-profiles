@@ -5,7 +5,7 @@ _Africa / Dependencies (United Kingdom)_
 ## Introduction
 
 **Background**<br>
-<p>Saint Helena is a British Overseas Territory consisting of Saint Helena and Ascension Islands, and the island group of Tristan da Cunha.</p> <p><strong>Saint Helena:</strong> Uninhabited when first discovered by the Portuguese in 1502, Saint Helena was garrisoned by the British during the 17th century. It acquired fame as the place of Napoleon BONAPARTE's exile from 1815 until his death in 1821, but its importance as a port of call declined after the opening of the Suez Canal in 1869. During the Anglo-Boer War in South Africa, several thousand Boer prisoners were confined on the island between 1900 and 1903.</p> <p>Saint Helena is one of the most remotely populated places in the world. The British Government committed to building an airport on Saint Helena in 2005. After more than a decade of delays and construction, a commercial air service to South Africa via Namibia was inaugurated in October of 2017. The weekly service to Saint Helena from Johannesburg via Windhoek in Namibia takes just over six hours (including the refueling stop in Windhoek) and replaces the mail ship that had made a five-day journey to the island every three weeks.</p> <p><strong>Ascension Island:</strong> This barren and uninhabited island was discovered and named by the Portuguese in 1503. The British garrisoned the island in 1815 to prevent a rescue of NAPOLEON from Saint Helena. It served as a provisioning station for the Royal Navy's West Africa Squadron on anti-slavery patrol. The island remained under Admiralty control until 1922, when it became a dependency of Saint Helena. During World War II, the UK permitted the US to construct an airfield on Ascension in support of transatlantic flights to Africa and anti-submarine operations in the South Atlantic. In the 1960s the island became an important space tracking station for the US. In 1982, Ascension was an essential staging area for British forces during the Falklands War. It remains a critical refueling point in the air-bridge from the UK to the South Atlantic.</p> <p>The island hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Diego Garcia (British Indian Ocean Territory), Kwajalein (Marshall Islands), and at Cape Canaveral, Florida (US)). NASA and the US Air Force also operate a Meter-Class Autonomous Telescope (MCAT) on Ascension as part of the deep space surveillance system for tracking orbital debris, which can be a hazard to spacecraft and astronauts.</p> <p><strong>Tristan da Cunha:</strong> The island group consists of Tristan da Cunha, Nightingale, Inaccessible, and Gough Islands. Tristan da Cunha, named after its Portuguese discoverer (1506), was garrisoned by the British in 1816 to prevent any attempt to rescue NAPOLEON from Saint Helena. Gough and Inaccessible Islands have been designated World Heritage Sites. South Africa leases a site for a meteorological station on Gough Island.</p><br>
+<p>Saint Helena is a British Overseas Territory off the coast of Africa in the South Atlantic Ocean, and it consists of Saint Helena, Ascension Island, and the island group of Tristan da Cunha.</p> <p><strong>Saint Helena:</strong> The island was uninhabited when the Portuguese first discovered it in 1502, and the British garrisoned troops on Saint Helena during the 17th century. It acquired fame as the place of Napoleon BONAPARTE's exile from 1815 until his death in 1821, but its importance as a port of call declined after the opening of the Suez Canal in 1869. During the Anglo-Boer War in South Africa, several thousand Boer prisoners were confined on the island between 1900 and 1903.</p> <p>Saint Helena is one of the most remote populated places in the world. The British Government committed to building an airport on Saint Helena in 2005. After more than a decade of delays and construction, a commercial air service to South Africa via Namibia was inaugurated in 2017. The weekly service to Saint Helena from Johannesburg via Windhoek in Namibia takes just over six hours (including the refueling stop in Windhoek) and replaces the mail ship that had made a five-day journey to the island every three weeks.</p> <p><strong>Ascension Island:</strong> This barren and uninhabited island was discovered and named by the Portuguese in 1503. The British garrisoned the island in 1815 to prevent a rescue of NAPOLEON from Saint Helena. It served as a provisioning station for the Royal Navy's West Africa Squadron on anti-slavery patrol. The island remained under Admiralty control until 1922, when it became a dependency of Saint Helena. During World War II, the UK permitted the US to construct an airfield on Ascension in support of transatlantic flights to Africa and anti-submarine operations in the South Atlantic. In the 1960s, the island became an important space tracking station for the US. In 1982, Ascension was an essential staging area for British forces during the Falklands War. It remains a critical refueling point in the air-bridge from the UK to the South Atlantic.</p> <p>The island hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system -- the others are on Diego Garcia (British Indian Ocean Territory), Kwajalein (Marshall Islands), and at Cape Canaveral, Florida (US). NASA and the US Air Force also operate a Meter-Class Autonomous Telescope (MCAT) on Ascension as part of the deep space surveillance system for tracking orbital debris, which can be a hazard to spacecraft and astronauts.</p> <p><strong>Tristan da Cunha:</strong> The island group consists of Tristan da Cunha, Nightingale, Inaccessible, and Gough Islands. Tristan da Cunha, named after its Portuguese discoverer (1506), was garrisoned by the British in 1816 to prevent any attempt to rescue NAPOLEON from Saint Helena. Gough and Inaccessible Islands have been designated World Heritage Sites. South Africa leases a site for a meteorological station on Gough Island.</p><br>
 
 ## Geography
 
@@ -263,7 +263,7 @@ _elections/appointments_: none; the monarchy is hereditary; governor appointed b
 **Legislative branch**<br>
 _description_: unicameral Legislative Council (17 seats including the speaker and deputy speaker; 12 members directly elected in a single countrywide constituency by simple majority vote and 3 ex-officio members - the chief secretary, financial secretary, and attorney general; members serve 4-year terms)<br>
 _elections_: last held on 13 October 2021 (next to be held in 2025)<br>
-_election results_: vote - NA; seats - independent 12; composition as of April 2024 - men 8, women 6, percent women 42.9%<br>
+_election results_: vote - NA; seats - independent 12; composition - men 8, women 6, percent women 42.9%<br>
 <strong>note:</strong> the Constitution Order provides for separate Island Councils for both Ascension and Tristan da Cunha<br>
 
 **Judicial branch**<br>
@@ -308,13 +308,6 @@ coffee, corn, potatoes, vegetables; fish, lobster; livestock; timber<br>
 **Industries**<br>
 construction, crafts (furniture, lacework, fancy woodwork), fishing, collectible postage stamps<br>
 
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Budget**<br>
 _revenues_: $8.427 million (FY06/07 est.)<br>
 _expenditures_: $20.7 million (FY06/07 est.)<br>
@@ -324,19 +317,23 @@ _expenditures_: $20.7 million (FY06/07 est.)<br>
 1 April - 31 March<br>
 
 **Exports - partners**<br>
-United States 47%, Japan 12%, South Korea 10%, France 9%, Australia 5% (2019)<br>
+US 55%, Netherlands 17%, Singapore 10%, Japan 8%, Senegal 2% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crustaceans, fish, integrated circuits, air conditioners, clothing and apparel (2019)<br>
+fish, shellfish, iron alloys, glass working machines, corn (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $20.53 million (2010)<br>
 
 **Imports - partners**<br>
-United Kingdom 65%, South Africa 21% (2019)<br>
+UK 44%, South Africa 25%, US 21%, Czechia 4%, Namibia 2% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cranes, communion wafers, iron sheeting, cars and vehicle parts (2019)<br>
+asphalt, baked goods, air pumps, plastic products, iron sheet piling (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Debt - external**<br>
 <p>NA</p><br>

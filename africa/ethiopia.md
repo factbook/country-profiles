@@ -364,7 +364,7 @@ _residency requirement for naturalization_: 4 years<br>
 
 **Executive branch**<br>
 _chief of state_: President SAHLE-WORK Zewde (since 25 October 2018)<br>
-_head of government_: Prime Minister ABIY Ahmed Ali (since April 2018); Deputy Prime Minister and Minister of Foreign Affairs DEMEKE Mekonnen Hassen (since 29 November 2012)<br>
+_head of government_: Prime Minister ABIY Ahmed Ali (since April 2018); Deputy Prime Minister TEMESGEN Tiruneh Dinku (since 8 February 2024)<br>
 _cabinet_: Council of Ministers selected by the prime minister and approved by the House of People's Representatives<br>
 _elections/appointments_: president indirectly elected by both chambers of Parliament for a 6-year term (eligible for a second term); election held on 21 June 2021 and 30 September 2021 (the scheduled 29 August 2020 election was postponed by Prime Minister ABIY due to the COVID-19 pandemic); prime minister designated by the majority party following legislative elections<br>
 _election results_: <em><br>2021</em>: SAHLE-WORK Zewde reelected president during joint session of Parliament, vote - 659 (unanimous); ABIY confirmed Prime Minister by House of Peoples' Representatives (4 October 2021)<br><br><em>2018</em>: SAHLE-WORK Zewde elected president during joint session of Parliament, vote - 659 (unanimous); note - snap election held on 25 October 2018 due to resignation of President MULATA Teshome<br>
@@ -373,7 +373,7 @@ _election results_: <em><br>2021</em>: SAHLE-WORK Zewde reelected president duri
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>House of Federation or Yefedereshein Mikir Bete (153 seats maximum; 144 seats current; members indirectly elected by state assemblies to serve 5-year terms)<br>House of People's Representatives or Yehizb Tewokayoch Mekir Bete (547 seats maximum; 470 seats current; members directly elected in single-seat constituencies by simple majority vote; 22 seats reserved for minorities; all members serve 5-year terms)<br>
 _elections_: House of Federation - last held 4 October 2021 (next expected in October 2026)<br>House of People's Representatives - last held in two parts on 21 June 2021 and 30 September 2021 (next expected in June 2026)<br>
-_election results_: House of Federation - percent of vote by party/coalition - NA; seats by party/coalition - NA; composition as of February 2024 - men 102, women 43, percentage women 29.7%<br><br>House of Representatives - percent of vote by party/coalition - NA; seats by party/coalition - Prosperity Party 454, NAMA 5, EZEMA 4, Gedeo People's Democratic organization 2, Kucha People Democratic Party 1, independent 4; composition as of February 2024 - men 275, women 195, percentage women 41.3%; note - total Parliament percentage women 38.9%<br>
+_election results_: House of Federation - percent of vote by party/coalition - NA; seats by party/coalition - NA; composition - men 102, women 43, percentage women 29.7%<br><br>House of Representatives - percent of vote by party/coalition - NA; seats by party/coalition - Prosperity Party 454, NAMA 5, EZEMA 4, Gedeo People's Democratic organization 2, Kucha People Democratic Party 1, independent 4; composition - men 275, women 195, percentage women 41.3%; note - total Parliament percentage women 38.9%<br>
 <strong>notes:</strong> House of Federation is responsible for interpreting the constitution and federal-regional issues and the House of People's Representatives is responsible for passing legislation; percent of vote percentages are calculated on the number of members actually seated versus on the constitutional maximums<br>
 
 **Judicial branch**<br>
@@ -429,29 +429,29 @@ growing Horn of Africa construction- and services-based economy; port access via
 $293.788 billion (2022 est.)<br>
 $278.956 billion (2021 est.)<br>
 $264.059 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 5.32% (2022 est.)<br>
 5.64% (2021 est.)<br>
 6.06% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $2,400 (2022 est.)<br>
 $2,300 (2021 est.)<br>
 $2,300 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $126.783 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 33.89% (2022 est.)<br>
 26.84% (2021 est.)<br>
 20.36% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2014)<br>
@@ -473,24 +473,25 @@ _exports of goods and services_: 8.1% (2017 est.)<br>
 _imports of goods and services_: -31.2% (2017 est.)<br>
 
 **Agricultural products**<br>
-maize, cereals, wheat, sorghum, milk, barley, sweet potatoes, roots/tubers nes, sugar cane, millet<br>
+maize, wheat, cereals, sorghum, milk, barley, taro, potatoes, millet, beans (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 food processing, beverages, textiles, leather, garments, chemicals, metals processing, cement<br>
 
 **Industrial production growth rate**<br>
 4.9% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 59.752 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.42% (2022 est.)<br>
 3.93% (2021 est.)<br>
 3.91% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 5.7% (2021 est.)<br>
@@ -499,11 +500,11 @@ _female_: 7.2%<br>
 
 **Population below poverty line**<br>
 23.5% (2015 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 35 (2015 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 56.6% of household expenditures (2018 est.)<br>
@@ -512,13 +513,13 @@ _on alcohol and tobacco_: 3.8% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
 _highest 10%_: 28.5% (2015 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.4% of GDP (2022 est.)<br>
 0.4% of GDP (2021 est.)<br>
 0.38% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $11.308 billion (2020 est.)<br>
@@ -531,11 +532,11 @@ _expenditures_: $13.979 billion (2020 est.)<br>
 31.45% of GDP (2019 est.)<br>
 32.53% of GDP (2018 est.)<br>
 30.1% of GDP (2017 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 6.2% (of GDP) (2020 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 8 July - 7 July<br>
@@ -544,37 +545,41 @@ note: central government tax revenue as a % of GDP<br>
 -$5.16 billion (2022 est.)<br>
 -$4.507 billion (2021 est.)<br>
 -$2.719 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $10.971 billion (2022 est.)<br>
 $9.496 billion (2021 est.)<br>
 $7.715 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 17%, United States 16%, United Arab Emirates 8%, Saudi Arabia 6%, South Korea 5%, Germany 5% (2019)<br>
+UAE 17%, US 13%, Germany 6%, Saudi Arabia 6%, Somalia 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-coffee, gold, sesame seeds, vegetables, cut flowers, aircraft parts (2021)<br>
+coffee, gold, garments, cut flowers, vegetables (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $24.187 billion (2022 est.)<br>
 $20.859 billion (2021 est.)<br>
 $17.17 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 27%, India 9%, United Arab Emirates 9%, France 9%, United Kingdom 7% (2019)<br>
+China 24%, US 9%, India 8%, UAE 6%, UK 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-aircraft, gas turbines, packaged medicines, electric filament, cars (2019)<br>
+wheat, refined petroleum, fertilizers, vaccines, palm oil (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $3.046 billion (2020 est.)<br>
 $2.993 billion (2019 est.)<br>
 $3.987 billion (2018 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $27.27 billion (2019 est.)<br>

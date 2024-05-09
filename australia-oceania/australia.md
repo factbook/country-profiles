@@ -360,7 +360,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 **Legislative branch**<br>
 _description_: bicameral Federal Parliament consists of:<br>Senate (76 seats; 12 members from each of the 6 states and 2 each from the 2 mainland territories; members directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of state membership renewed every 3 years and territory membership renewed every 3 years)<br>House of Representatives (151 seats; members directly elected in single-seat constituencies by majority preferential vote; members serve terms of up to 3 years)<br>
 _elections_: Senate - last held on 21 May 2022 (next to be held in May 2025)<br>House of Representatives - last held on 21 May 2022 (next to be held in May 2025)<br>
-_election results_: Senate - percent of vote by party/coalition - Liberal/National Coalition 40.7%, ALP 34.2%, Greens 14.5%, Pauline Hansen's One Nation 2.6%, Jacqui Lambee Network 2.6%, United Australia Party 1.3%, independent 3.9%; seats by party/coalition - Liberal/National Coalition 31, ALP 26, Australian Greens 11, Pauline Hansen's One Nation 2, Jacqui Lambee Network 2, United Australia Party 1, independent 3; composition as of April 2024 - 33 men, 42 women; percentage women 56%<br><br>House of Representatives - percent of vote by party/coalition - ALP 50.9%, Coalition 36.4%, 7.9%, 2.6%, others less than 1%; seats by party/coalition - ALP 77, Coalition 55, independent 12, Greens 4, Katter's 1, Center Alliance 1, vacant 1; composition as of April 2024 - 92 men, 59 women; percentage women 39.1%; total Federal Parliament percentage women 44.7%<br>
+_election results_: Senate - percent of vote by party/coalition - Liberal/National Coalition 40.7%, ALP 34.2%, Greens 14.5%, Pauline Hansen's One Nation 2.6%, Jacqui Lambee Network 2.6%, United Australia Party 1.3%, independent 3.9%; seats by party/coalition - Liberal/National Coalition 31, ALP 26, Australian Greens 11, Pauline Hansen's One Nation 2, Jacqui Lambee Network 2, United Australia Party 1, independent 3; composition - 33 men, 42 women; percentage women 56%<br><br>House of Representatives - percent of vote by party/coalition - ALP 50.9%, Coalition 36.4%, 7.9%, 2.6%, others less than 1%; seats by party/coalition - ALP 77, Coalition 55, independent 12, Greens 4, Katter's 1, Center Alliance 1, vacant 1; composition- 92 men, 59 women; percentage women 39.1%; total Federal Parliament percentage women 44.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court of Australia (consists of 7 justices, including the chief justice); note - each of the 6 states, 2 territories, and Norfolk Island has a Supreme Court; the High Court is the final appellate court beyond the state and territory supreme courts<br>
@@ -415,29 +415,29 @@ Asian and global economic leader and partner for 3 decades; strong financial sec
 $1.329 trillion (2022 est.)<br>
 $1.274 trillion (2021 est.)<br>
 $1.248 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.27% (2022 est.)<br>
 2.11% (2021 est.)<br>
 -0.33% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $51,100 (2022 est.)<br>
 $49,600 (2021 est.)<br>
 $48,700 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.693 trillion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 6.59% (2022 est.)<br>
 2.86% (2021 est.)<br>
 0.85% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (2011)<br>
@@ -459,24 +459,25 @@ _exports of goods and services_: 21.5% (2017 est.)<br>
 _imports of goods and services_: -21% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, wheat, barley, milk, rapeseed, beef, cotton, grapes, poultry, potatoes<br>
+wheat, sugarcane, barley, milk, rapeseed, cotton, sorghum, beef, oats, chicken (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 mining, industrial and transportation equipment, food processing, chemicals, steel<br>
 
 **Industrial production growth rate**<br>
 0.8% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 14.075 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.7% (2022 est.)<br>
 5.12% (2021 est.)<br>
 6.46% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.8% (2021 est.)<br>
@@ -485,7 +486,7 @@ _female_: 8.9%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 34.3 (2018 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 9.3% of household expenditures (2018 est.)<br>
@@ -494,13 +495,13 @@ _on alcohol and tobacco_: 3.5% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
 _highest 10%_: 26.6% (2018 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.08% of GDP (2022 est.)<br>
 0.06% of GDP (2021 est.)<br>
 0.09% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $479.33 billion (2019 est.)<br>
@@ -513,11 +514,11 @@ _expenditures_: $532.579 billion (2019 est.)<br>
 57.97% of GDP (2022 est.)<br>
 69.91% of GDP (2021 est.)<br>
 69.22% of GDP (2020 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 23.6% (of GDP) (2022 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
@@ -526,37 +527,41 @@ note: central government tax revenue as a % of GDP<br>
 $17.875 billion (2022 est.)<br>
 $49.878 billion (2021 est.)<br>
 $31.376 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $464.925 billion (2022 est.)<br>
 $390.027 billion (2021 est.)<br>
 $300.81 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 40%, Japan 14%, South Korea 9%, India 6%, Taiwan 4% (2021)<br>
+China 29%, Japan 19%, South Korea 10%, India 7%, Taiwan 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-iron ore, coal, natural gas, gold, wheat (2021)<br>
+coal, iron ore, natural gas, gold, wheat (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $367.458 billion (2022 est.)<br>
 $299.618 billion (2021 est.)<br>
 $251.779 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 28%, United States 10%, Japan 6%, Germany 5%, Thailand 5% (2021)<br>
+China 28%, US 10%, South Korea 6%, Japan 6%, Singapore 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, delivery trucks, broadcasting equipment, computers and gold (2021)<br>
+refined petroleum, cars, garments, trucks, plastic products (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $56.702 billion (2022 est.)<br>
 $57.878 billion (2021 est.)<br>
 $42.545 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $3,115,913,000,000 (2019 est.)<br>

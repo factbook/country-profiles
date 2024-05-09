@@ -339,7 +339,7 @@ _election results_: <br><em>2021:</em> Isaac HERZOG elected president; Knesset v
 **Legislative branch**<br>
 _description_: unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed party-list proportional representation vote, with a 3.25% vote threshold to gain representation; members serve 4-year terms)<br>
 _elections_: last held on 1 November 2022 (next to be held in November 2026)<br>
-_election results_: percent by party - Likud 23.4%, Yesh Atid 17.8%, Religious Zionism (electoral alliance of Religious Zionist Party, Jewish Power, and Noam) 10.8%, National Unity 9.1%, Shas 8.2%, UTJ 5.9%, Yisrael Beiteinu 4.5%, United Arab List 4.1%, Hadash-Ta'al 3.8%, Labor 3.7%, Meretz 3.2%, other 1.6%; seats by party - Likud 32, Yesh Atid 24, Religious Zionism (electoral alliance of Religious Zionist Party, Jewish Power, and Noam) 14, National Unity 12, Shas 11, UTJ 7, Yisrael Beiteinu 6, Hadash-Ta'al 5, United Arab List 5, Labor 4; composition as of February 2024 - men 90, women 30, percentage women 25%; note - following the 1 November 2022 election, the Religious Zionism Alliance split into its three constituent parties in the Knesset:  Religious Zionism 7 seats, Jewish Power (Otzma Yehudit) 6, and Noam 1<br>
+_election results_: percent by party - Likud 23.4%, Yesh Atid 17.8%, Religious Zionism (electoral alliance of Religious Zionist Party, Jewish Power, and Noam) 10.8%, National Unity 9.1%, Shas 8.2%, UTJ 5.9%, Yisrael Beiteinu 4.5%, United Arab List 4.1%, Hadash-Ta'al 3.8%, Labor 3.7%, Meretz 3.2%, other 1.6%; seats by party - Likud 32, Yesh Atid 24, Religious Zionism (electoral alliance of Religious Zionist Party, Jewish Power, and Noam) 14, National Unity 12, Shas 11, UTJ 7, Yisrael Beiteinu 6, Hadash-Ta'al 5, United Arab List 5, Labor 4; composition - men 90, women 30, percentage women 25%; note - following the 1 November 2022 election, the Religious Zionism Alliance split into its three constituent parties in the Knesset:  Religious Zionism 7 seats, Jewish Power (Otzma Yehudit) 6, and Noam 1<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the president, deputy president, 13 justices, and 2 registrars) and normally sits in panels of 3 justices; in special cases, the panel is expanded with an uneven number of justices<br>
@@ -389,35 +389,35 @@ _selected World Heritage Site locales_: Masada; Old City of Acre; White City of 
 ## Economy
 
 **Economic overview**<br>
-high-income, technology- and industrial-based economy; highly dense, fast-growing labor force; recent debt spikes; persistent inequality and poverty; significant tariff and regulatory burdens, especially in agriculture; quantitative easing in effect<br>
+high-income, technology- and industrial-based economy; economic contraction and fiscal deficits resulting from war in Gaza; labor force stabilizing following military reservist mobilization; high-tech industry remains resilient while construction and tourism among hardest-hit sectors<br>
 
 **Real GDP (purchasing power parity)**<br>
 $424.289 billion (2022 est.)<br>
 $397.152 billion (2021 est.)<br>
 $365.661 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 6.83% (2022 est.)<br>
 8.61% (2021 est.)<br>
 -1.86% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $44,400 (2022 est.)<br>
 $42,400 (2021 est.)<br>
 $39,700 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $525.002 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4.39% (2022 est.)<br>
 1.51% (2021 est.)<br>
 -0.61% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A+ (2016)<br>
@@ -439,24 +439,25 @@ _exports of goods and services_: 28.9% (2017 est.)<br>
 _imports of goods and services_: -27.5% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, potatoes, poultry, tomatoes, carrots, turnips, tangerines/mandarins, green chillies/peppers, eggs, vegetables<br>
+milk, chicken, potatoes, tomatoes, avocados, bananas, grapefruits, eggs, tangerines/mandarins, carrots/turnips (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 high-technology products (including aviation, communications, computer-aided design and manufactures, medical electronics, fiber optics), wood and paper products, potash and phosphates, food, beverages, and tobacco, caustic soda, cement, pharmaceuticals, construction, metal products, chemical products, plastics, cut diamonds, textiles, footwear<br>
 
 **Industrial production growth rate**<br>
 6.05% (2021 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 4.451 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.7% (2022 est.)<br>
 4.81% (2021 est.)<br>
 4.17% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 8.8% (2021 est.)<br>
@@ -469,7 +470,7 @@ _female_: 9.2%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 38.6 (2018 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 16.2% of household expenditures (2018 est.)<br>
@@ -478,13 +479,13 @@ _on alcohol and tobacco_: 2.9% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9%<br>
 _highest 10%_: 27.6% (2018 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.24% of GDP (2022 est.)<br>
 0.25% of GDP (2021 est.)<br>
 0.28% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $139.374 billion (2019 est.)<br>
@@ -500,7 +501,7 @@ _expenditures_: $154.927 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 24.62% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -509,38 +510,41 @@ calendar year<br>
 $20.34 billion (2022 est.)<br>
 $19.095 billion (2021 est.)<br>
 $19.806 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $166.227 billion (2022 est.)<br>
 $143.505 billion (2021 est.)<br>
 $113.687 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 27%, China 8%, India 4%, Germany 3%, Ireland 3% (2021)<br>
-<strong>note:</strong> Approximately, 6% of Israel's exports went to the Gaza Strip and West Bank, but official data are not available individually for the Palestinian territories.<br>
+US 25%, China 7%, West Bank/Gaza Strip 6%, Ireland 5%, UK 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-diamonds, integrated circuits, refined petroleum, medical instruments, packaged medicines, measuring instruments (2021)<br>
+diamonds, integrated circuits, refined petroleum, fertilizers, medical instruments (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $150.804 billion (2022 est.)<br>
 $125.948 billion (2021 est.)<br>
 $96.886 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 14%, United States 11%, Turkey 7%, Germany 7%, Switzerland 5% (2021)<br>
+China 14%, US 11%, Turkey 7%, Germany 6%, India 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-diamonds, cars, broadcasting equipment, integrated circuits, refined petroleum, packaged medicines&nbsp; (2021)<br>
+diamonds, cars, crude petroleum, refined petroleum, garments (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $194.231 billion (2022 est.)<br>
 $212.934 billion (2021 est.)<br>
 $173.292 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $132.5 billion (31 December 2020 est.)<br>

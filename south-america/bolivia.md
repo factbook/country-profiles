@@ -356,7 +356,7 @@ _election results_: <br><em>2020:</em> Luis Alberto ARCE Catacora elected presid
 **Legislative branch**<br>
 _description_: bicameral Plurinational Legislative Assembly or Asamblea Legislativa Plurinacional consists of:<br>Chamber of Senators or Camara de Senadores (36 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (130 seats; 70 members directly elected in single-seat constituencies by simple majority vote, 53 directly elected in single-seat constituencies by closed party-list proportional representation vote, and 7 (apportioned to non-contiguous, rural areas in 7 of the 9 states) directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
 _elections_: Chamber of Senators - last held on 18 October 2020 (next to be held in 2025)<br>Chamber of Deputies - last held on 18 October 2020 (next to be held in 2025)<br>
-_election results_: Chamber of Senators - percent of vote by party - NA; seats by party - MAS 21, ACC 11, Creemos 4; composition as of February 2024 - men 16, women 20, percentage women 55.6%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - MAS 75, ACC 39, Creemos 16; composition as of February 2024 - men 70, women 60, percentage women 46.2%; total Plurinational Legislative Assembly percentage women - 48.2%<br>
+_election results_: Chamber of Senators - percent of vote by party - NA; seats by party - MAS 21, ACC 11, Creemos 4; composition - men 16, women 20, percentage women 55.6%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - MAS 75, ACC 39, Creemos 16; composition - men 70, women 60, percentage women 46.2%; total Plurinational Legislative Assembly percentage women - 48.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Tribunal Supremo de Justicia (consists of 12 judges or ministros organized into civil, penal, social, and administrative chambers); Plurinational Constitutional Tribunal (consists of 7 primary and 7 alternate magistrates); Plurinational Electoral Organ (consists of 7 members and 6 alternates); National Agro-Environment Court (consists of 5 primary and 5 alternate judges; Council of the Judiciary (consists of 3 primary and 3 alternate judges)<br>
@@ -412,29 +412,29 @@ resource-rich economy benefits during commodity booms; has bestowed juridical ri
 $100.778 billion (2022 est.)<br>
 $97.271 billion (2021 est.)<br>
 $91.669 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.61% (2022 est.)<br>
 6.11% (2021 est.)<br>
 -8.74% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $8,200 (2022 est.)<br>
 $8,100 (2021 est.)<br>
 $7,700 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $44.008 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1.75% (2022 est.)<br>
 0.74% (2021 est.)<br>
 0.94% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2020)<br>
@@ -456,24 +456,25 @@ _exports of goods and services_: 21.7% (2017 est.)<br>
 _imports of goods and services_: -31.3% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, soybeans, potatoes, maize, sorghum, rice, milk, plantains, poultry, bananas<br>
+sugarcane, soybeans, potatoes, maize, rice, sorghum, milk, chicken, plantains, wheat (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 mining, smelting, electricity, petroleum, food and beverages, handicrafts, clothing, jewelry<br>
 
 **Industrial production growth rate**<br>
 1.03% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 5.912 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.55% (2022 est.)<br>
 5.09% (2021 est.)<br>
 7.9% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 17.4% (2021 est.)<br>
@@ -482,11 +483,11 @@ _female_: 18.4%<br>
 
 **Population below poverty line**<br>
 36.4% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 40.9 (2021 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 29.1% of household expenditures (2018 est.)<br>
@@ -495,13 +496,13 @@ _on alcohol and tobacco_: 2.1% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
 _highest 10%_: 30.3% (2021 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 3.31% of GDP (2022 est.)<br>
 3.51% of GDP (2021 est.)<br>
 3.08% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $11.796 billion (2019 est.)<br>
@@ -525,38 +526,41 @@ calendar year<br>
 -$183.602 million (2022 est.)<br>
 $871.196 million (2021 est.)<br>
 -$26.05 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $14.467 billion (2022 est.)<br>
 $11.424 billion (2021 est.)<br>
 $7.443 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Argentina 16%, Brazil 15%, United Arab Emirates 12%, India 10%, United States 6%, South Korea 5%, Peru 5%, Colombia 5% (2019)<br>
+India 16%, Brazil 14%, Argentina 13%, Colombia 8%, Japan 7% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, natural gas, zinc, silver, soy products, tin (2021)<br>
-<strong>note:</strong> Bolivian cocaine production remains a significant illicit trade commodity<br>
+natural gas, gold, zinc ore, soybean meal, soybean oil (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $14.577 billion (2022 est.)<br>
 $10.726 billion (2021 est.)<br>
 $8.078 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Brazil 22%, Chile 15%, China 13%, Peru 11%, Argentina 8%, United States 7% (2017)<br>
+Brazil 20%, China 19%, Chile 13%, Peru 9%, Argentina 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, refined petroleum, delivery trucks, iron, buses (2019)<br>
+refined petroleum, cars, pesticides, plastic products, trucks (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $3.752 billion (2022 est.)<br>
 $4.73 billion (2021 est.)<br>
 $5.247 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $12.81 billion (31 December 2017 est.)<br>

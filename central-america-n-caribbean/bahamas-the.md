@@ -298,7 +298,7 @@ _elections/appointments_: the monarchy is hereditary; governor-general appointed
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (16 seats; members appointed by the governor-general - 9 selected on the advice of the prime minister, 4 on the advice of the leader of the opposition party, and 3 on the advice of the prime minister in consultation with the opposition leader; members serve 5-year terms)<br>House of Assembly (39 seats statutory, 38 seats current; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: Senate - last appointments on 7 October 2021 (next appointments by 31 October 2026)<br>House of Assembly - last held on 16 September 2021 (next to be held by September 2026)<br>
-_election results_: Senate - appointed: PLP 12, FNM 4; composition as of February 2024 - men 12, women 4, percentage women 25%<br><br>House of Assembly - percent of vote by party - PLP 52.5%, FNM 36.2%; seats by party - PLP 32, FNM 7; composition as of February 2024 - men 32, women 7, percentage women 18%; total Parliament percentage women 20%<br>
+_election results_: Senate - appointed: PLP 12, FNM 4; composition - men 12, women 4, percentage women 25%<br><br>House of Assembly - percent of vote by party - PLP 52.5%, FNM 36.2%; seats by party - PLP 32, FNM 7; composition - men 32, women 7, percentage women 18%; total Parliament percentage women 20%<br>
 <strong>note:</strong> Parliament sits for 5 years from the date of the last general election: the government may dissolve the parliament and call elections at any time<br>
 
 **Judicial branch**<br>
@@ -349,29 +349,29 @@ high-income tourism and financial services economy; major income inequality; str
 $14.211 billion (2022 est.)<br>
 $12.426 billion (2021 est.)<br>
 $10.622 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 14.37% (2022 est.)<br>
 16.98% (2021 est.)<br>
 -23.51% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $34,700 (2022 est.)<br>
 $30,500 (2021 est.)<br>
 $26,100 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $12.897 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5.61% (2022 est.)<br>
 2.9% (2021 est.)<br>
 0.04% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Ba2 (2020)<br>
@@ -392,24 +392,25 @@ _exports of goods and services_: 33.7% (2017 est.)<br>
 _imports of goods and services_: -41.8% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, grapefruit, vegetables, bananas, tomatoes, poultry, tropical fruit, oranges, coconuts, mangoes/guavas<br>
+sugarcane, grapefruits, vegetables, bananas, tomatoes, chicken, tropical fruits, oranges, coconuts, mangoes/guavas (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, banking, oil bunkering, maritime industries, transshipment and logistics, salt, aragonite, pharmaceuticals<br>
 
 **Industrial production growth rate**<br>
 10.18% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 238,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 10.09% (2022 est.)<br>
 11.58% (2021 est.)<br>
 12.56% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 30.8% (2021 est.)<br>
@@ -434,11 +435,11 @@ _expenditures_: $2.899 billion (2020 est.)<br>
 83.68% of GDP (2022 est.)<br>
 86.19% of GDP (2021 est.)<br>
 83.97% of GDP (2020 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 16.73% (of GDP) (2022 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
@@ -447,38 +448,41 @@ note: central government tax revenue as a % of GDP<br>
 -$1.763 billion (2022 est.)<br>
 -$2.434 billion (2021 est.)<br>
 -$2.285 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $4.744 billion (2022 est.)<br>
 $3.33 billion (2021 est.)<br>
 $1.688 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 26%, Germany 16%, Singapore 13%, Poland 13%, Thailand 9% (2021)<br>
+US 49%, Cote d'Ivoire 20%, Germany 9%, Thailand 7%, Poland 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, ships, aluminum, lobsters and crawfish, styrene polymers (2021)<br>
-<strong>note:</strong> Bahamian cannabis production remains a significant illicit trade export<br>
+refined petroleum, ships, aluminum, postage stamps/documents, plastics (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $5.692 billion (2022 est.)<br>
 $4.947 billion (2021 est.)<br>
 $3.411 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 37%, South Korea 12%, Germany 9%, China 7%, Russia 6% (2021)<br>
+US 59%, South Korea 6%, Germany 6%, China 5%, Brazil 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, ships, aircraft, crude petroleum, floating docks (2021)<br>
+refined petroleum, ships, cars, crude petroleum, coal tar oil (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $2.609 billion (2022 est.)<br>
 $2.433 billion (2021 est.)<br>
 $2.382 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $17.56 billion (31 December 2013 est.)<br>

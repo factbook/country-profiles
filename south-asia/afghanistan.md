@@ -399,29 +399,29 @@ extremely low-income South Asian economy; import drops, currency depreciation, d
 $60.802 billion (2021 est.)<br>
 $76.711 billion (2020 est.)<br>
 $78.558 billion (2019 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -20.74% (2021 est.)<br>
 -2.35% (2020 est.)<br>
 3.91% (2019 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $1,500 (2021 est.)<br>
 $2,000 (2020 est.)<br>
 $2,100 (2019 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $14.266 billion (2021 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 2.3% (2019 est.)<br>
 0.63% (2018 est.)<br>
 4.98% (2017 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 23% (2016 est.)<br>
@@ -438,24 +438,25 @@ _exports of goods and services_: 6.7% (2016 est.)<br>
 _imports of goods and services_: -47.6% (2016 est.)<br>
 
 **Agricultural products**<br>
-wheat, milk, grapes, vegetables, potatoes, watermelons, melons, rice, onions, apples<br>
+wheat, milk, watermelons, grapes, potatoes, cantaloupes/melons, vegetables, rice, onions, apples (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 small-scale production of bricks, textiles, soap, furniture, shoes, fertilizer, apparel, food products, non-alcoholic beverages, mineral water, cement; handwoven carpets; natural gas, coal, copper<br>
 
 **Industrial production growth rate**<br>
 -12.81% (2021 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 8.804 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 14.1% (2022 est.)<br>
 12.08% (2021 est.)<br>
 11.71% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 20.2% (2021 est.)<br>
@@ -464,7 +465,7 @@ _female_: 26.4%<br>
 
 **Population below poverty line**<br>
 54.5% (2016 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 29.4 (2008)<br>
@@ -477,7 +478,7 @@ _highest 10%_: 24% (2008)<br>
 2.1% of GDP (2021 est.)<br>
 3.95% of GDP (2020 est.)<br>
 4.41% of GDP (2019 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $5.093 billion (2019 est.)<br>
@@ -492,7 +493,7 @@ _expenditures_: $5.293 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 9.9% (of GDP) (2017 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 21 March - 20 March<br>
@@ -501,38 +502,41 @@ note: central government tax revenue as a % of GDP<br>
 -$3.137 billion (2020 est.)<br>
 -$3.792 billion (2019 est.)<br>
 -$3.897 billion (2018 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $1.476 billion (2020 est.)<br>
 $1.516 billion (2019 est.)<br>
 $1.609 billion (2018 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United Arab Emirates 45%, Pakistan 24%, India 22%, China 1% (2019)<br>
+Pakistan 57%, India 28%, China 3%, UAE 2%, Turkey 2% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, figs, grapes, cotton, fruits and nuts, coal (2021)<br>
-<strong>note:</strong> Afghan opium production remains a significant illicit trade export<br>
+coal, cotton, grapes, gum resins, nuts (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $6.983 billion (2020 est.)<br>
 $7.371 billion (2019 est.)<br>
 $7.988 billion (2018 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United Arab Emirates 23%, Pakistan 17%, India 13%, Uzbekistan 7%, China 9% (2021)<br>
+UAE 21%, Kazakhstan 17%, Pakistan 17%, China 9%, Uzbekistan 9% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-wheat flours, broadcasting equipment, refined petroleum, rolled tobacco, aircraft parts, synthetic fabrics (2019)<br>
+wheat, tobacco, palm oil, packaged medicine, rice (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $9.749 billion (2020 est.)<br>
 $8.498 billion (2019 est.)<br>
 $8.207 billion (2018 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $284 million (FY10/11)<br>

@@ -320,7 +320,7 @@ _election results_: <br><em>2020</em>: Wavel RAMKALAWAN elected president; Wavel
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (35 seats in the 2020-25 term; 26 members directly elected in single-seat constituencies by simple majority vote and up to 9 members elected by proportional representation vote; members serve 5-year terms)<br>
 _elections_: last held on 22-24 October 2020 (next to be held in October 2025); note - the election was originally scheduled for 2021 but was moved up a year and held alongside the presidential election in order to cut election costs<br>
-_election results_: percent of vote by party - LDS 54.8%, US 42.3%, other 2.9%; seats by party - LDS 25, US 10; composition as of February 2024 - men 27, women 7, percentage women 20.6%<br>
+_election results_: percent of vote by party - LDS 54.8%, US 42.3%, other 2.9%; seats by party - LDS 25, US 10; composition - men 27, women 7, percentage women 20.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Seychelles Court of Appeal (consists of the court president and 4 justices); Supreme Court of Seychelles (consists of the chief justice and 9 puisne judges); Constitutional Court (consists of 3 Supreme Court judges)<br>
@@ -370,29 +370,29 @@ high-income Indian Ocean island economy; rapidly growing tourism sector; major t
 $3.022 billion (2022 est.)<br>
 $2.772 billion (2021 est.)<br>
 $2.629 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 9% (2022 est.)<br>
 5.43% (2021 est.)<br>
 -7.73% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $25,200 (2022 est.)<br>
 $27,900 (2021 est.)<br>
 $26,700 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.588 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8.28% (2020 est.)<br>
 2.07% (2019 est.)<br>
 3.7% (2018 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2020)<br>
@@ -412,14 +412,15 @@ _exports of goods and services_: 79.4% (2017 est.)<br>
 _imports of goods and services_: -93.2% (2017 est.)<br>
 
 **Agricultural products**<br>
-coconuts, vegetables, bananas, fruit, eggs, poultry, tomatoes, pork, tropical fruit, cassava<br>
+coconuts, vegetables, bananas, eggs, chicken, pork, fruits, tomatoes, tropical fruits, cassava (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 fishing, tourism, beverages<br>
 
 **Industrial production growth rate**<br>
 3.7% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 51,000 (2018 est.)<br>
@@ -435,22 +436,22 @@ _female_: 15.6%<br>
 
 **Population below poverty line**<br>
 25.3% (2018 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 32.1 (2018 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 23.9% (2018 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.68% of GDP (2022 est.)<br>
 0.74% of GDP (2021 est.)<br>
 0.84% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $601 million (2019 est.)<br>
@@ -463,11 +464,11 @@ _expenditures_: $586 million (2019 est.)<br>
 63.6% of GDP (2017 est.)<br>
 69.1% of GDP (2016 est.)<br>
 62.71% of GDP (2015 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 30.58% (of GDP) (2020 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -476,37 +477,41 @@ calendar year<br>
 -$142.526 million (2022 est.)<br>
 -$154.259 million (2021 est.)<br>
 -$173.236 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $2.247 billion (2022 est.)<br>
 $1.751 billion (2021 est.)<br>
 $1.24 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United Arab Emirates 17%, United Kingdom 13%, France 12%, British Virgin Islands 11%, Zambia 9%, Mauritius 5%, Japan 5% (2019)<br>
+UAE 18%, France 17%, UK 9%, Mauritius 9%, Japan 8% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, fish, recreational boats, cigarettes, animal meal (2019)<br>
+fish, refined petroleum, ships, aircraft, animal meal (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $2.298 billion (2022 est.)<br>
 $1.821 billion (2021 est.)<br>
 $1.332 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United Arab Emirates 21%, Qatar 13%, British Virgin Islands 7%, Germany 6%, France 6%, China 5%, Spain 5%, South Africa 5% (2019)<br>
+UAE 22%, Netherlands 14%, Cayman Islands 7%, France 6%, China 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-recreational boats, refined petroleum, fish, aircraft, cars (2019)<br>
+ships, refined petroleum, fish, plastic products, cars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $638.961 million (2022 est.)<br>
 $702.585 million (2021 est.)<br>
 $559.682 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $4.802 billion (2019 est.)<br>

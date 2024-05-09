@@ -358,7 +358,7 @@ _election results_: <p><br><em>2023: </em>Javier Gerardo MILEI elected president
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (72 seats; members directly elected from 24 provincial districts by closed-list proportional representation vote; 2 seats per district awarded to the party with the most votes and 1 seat per district to the party with the second highest votes; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Cámara de Diputados (257 seats; members directly elected in multi-seat constituencies by closed-list proportional representation vote; members serve 4-year terms with one-half of the membership renewed every 2 years)<br>
 _elections_: Senate - last held on 22 October 2023 (next to be held in October 2025)<br>Chamber of Deputies - last held on 22 October 2023 (next to be held in October 2025)<br>
-_election results_: <p>Senate - percent of vote by party/coalition - NA; seats by party/coalition - UP 12, LLA 8, JxC 2, other 2; composition as of February 2024 - men 39, women 33, percentage women 45.8% <br><br>Chamber of Deputies - percent of vote by party/coalition - NA; seats by party/coalition - UP 58, LLA 35, JxC 31, NHP  4, other 2; composition as of February 2024 - men 148, women 109, percentage women 42.4%; total National Congress percentage women 43.2%</p><br>
+_election results_: <p>Senate - percent of vote by party/coalition - NA; seats by party/coalition - UP 12, LLA 8, JxC 2, other 2; composition - men 39, women 33, percentage women 45.8% <br><br>Chamber of Deputies - percent of vote by party/coalition - NA; seats by party/coalition - UP 58, LLA 35, JxC 31, NHP  4, other 2; composition - men 148, women 109, percentage women 42.4%; total National Congress percentage women 43.2%</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Corte Suprema (consists of the court president, vice president, 2 judges, 1 vacancy)<br>
@@ -411,23 +411,23 @@ large diversified economy; financial risks from debt obligations, rapid inflatio
 $1.039 trillion (2022 est.)<br>
 $989.46 billion (2021 est.)<br>
 $893.675 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.96% (2022 est.)<br>
 10.72% (2021 est.)<br>
 -9.9% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $22,500 (2022 est.)<br>
 $21,600 (2021 est.)<br>
 $19,700 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $631.133 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 25.7% (2017 est.)<br>
@@ -454,24 +454,25 @@ _exports of goods and services_: 11.2% (2017 est.)<br>
 _imports of goods and services_: -13.8% (2017 est.)<br>
 
 **Agricultural products**<br>
-maize, soybeans, wheat, sugar cane, milk, barley, sunflower seed, beef, grapes, potatoes<br>
+maize, soybeans, wheat, sugarcane, milk, barley, sunflower seeds, beef, sorghum, chicken (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 food processing, motor vehicles, consumer durables, textiles, chemicals and petrochemicals, printing, metallurgy, steel<br>
 
 **Industrial production growth rate**<br>
 5.71% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 21.511 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 6.81% (2022 est.)<br>
 8.74% (2021 est.)<br>
 11.46% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 29.9% (2021 est.)<br>
@@ -480,11 +481,11 @@ _female_: 37.1%<br>
 
 **Population below poverty line**<br>
 39.2% (2022 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 42 (2021 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 28.3% of household expenditures (2018 est.)<br>
@@ -493,13 +494,13 @@ _on alcohol and tobacco_: 1.9% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
 _highest 10%_: 30.8% (2021 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.2% of GDP (2022 est.)<br>
 0.18% of GDP (2021 est.)<br>
 0.17% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $150.823 billion (2019 est.)<br>
@@ -514,7 +515,7 @@ _expenditures_: $170.725 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 11.47% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -523,37 +524,41 @@ calendar year<br>
 -$4.29 billion (2022 est.)<br>
 $6.645 billion (2021 est.)<br>
 $2.688 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $103.002 billion (2022 est.)<br>
 $87.486 billion (2021 est.)<br>
 $64.437 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Brazil 16%, China 11%, United States 7%, Chile 5% (2019)<br>
+Brazil 15%, China 9%, US 8%, Chile 6%, India 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-corn, soybean products, delivery trucks, wheat, beef, gold (2021)<br>
+soybean meal, corn, soybean oil, wheat, trucks (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $97.558 billion (2022 est.)<br>
 $72.392 billion (2021 est.)<br>
 $52.343 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Brazil 21%, China 18%, US 14%, Germany 6% (2019)<br>
+China 21%, Brazil 20%, US 14%, Germany 3%, Paraguay 2% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, refined petroleum, vehicle parts, natural gas, soybeans (2019)<br>
+refined petroleum, vehicle parts/accessories, natural gas, fertilizers, cars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $44.795 billion (2022 est.)<br>
 $39.653 billion (2021 est.)<br>
 $39.404 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $278.524 billion (2019 est.)<br>

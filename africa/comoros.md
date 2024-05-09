@@ -322,7 +322,7 @@ _election results_: <em><br>2024: </em>AZALI Assoumani reelected president in fi
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Union (33 seats; 24 members directly elected by absolute majority vote in 2 rounds if needed and 9 members indirectly elected by the 3 island assemblies; members serve 5-year terms)<br>
 _elections_: last held on&nbsp;19 January 2020 with a runoff on 23&nbsp;February 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party in first round - CRC 60.9%, Orange Party 4.3%, independent 30.8%, other 4%; seats by party in the first round -  CRC 16, Orange Party 1, independent 2; percent of vote by party in the second round - CRC 54.1%, Orange Party 18.9%, independent 26.1%, other 1%; seats by party in the second round - CRC 4, Orange Party 1; note - 9 additional seats filled by the 3 island assemblies; composition for elected members as of March 2024 - men 20, women 4, percentage women 16.7%; note - main opposition parties boycotted election; <br> <h3> </h3><br>
+_election results_: percent of vote by party in first round - CRC 60.9%, Orange Party 4.3%, independent 30.8%, other 4%; seats by party in the first round -  CRC 16, Orange Party 1, independent 2; percent of vote by party in the second round - CRC 54.1%, Orange Party 18.9%, independent 26.1%, other 1%; seats by party in the second round - CRC 4, Orange Party 1; note - 9 additional seats filled by the 3 island assemblies; composition - men 20, women 4, percentage women 16.7%; note - main opposition parties boycotted election; <br> <h3> </h3><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of 7 judges)<br>
@@ -367,29 +367,29 @@ small trade-based island economy; declining remittances; new structural and fisc
 $2.716 billion (2022 est.)<br>
 $2.653 billion (2021 est.)<br>
 $2.598 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.39% (2022 est.)<br>
 2.11% (2021 est.)<br>
 -0.2% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $3,200 (2022 est.)<br>
 $3,200 (2021 est.)<br>
 $3,200 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.243 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1% (2017 est.)<br>
 1.8% (2016 est.)<br>
 -4.29% (2013 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 47.7% (2017 est.)<br>
@@ -405,24 +405,25 @@ _exports of goods and services_: 17.2% (2017 est.)<br>
 _imports of goods and services_: -47.1% (2017 est.)<br>
 
 **Agricultural products**<br>
-coconuts, cassava, rice, bananas, pulses nes, milk, taro, sweet potatoes, maize, cloves<br>
+coconuts, bananas, cassava, yams, maize, taro, milk, tomatoes, sweet potatoes, pulses (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 fishing, tourism, perfume distillation<br>
 
 **Industrial production growth rate**<br>
 0.83% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 229,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.75% (2022 est.)<br>
 5.86% (2021 est.)<br>
 5.78% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 21.7% (2021 est.)<br>
@@ -431,22 +432,22 @@ _female_: 21.5%<br>
 
 **Population below poverty line**<br>
 42.4% (2013 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 45.3 (2014 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.6%<br>
 _highest 10%_: 33.7% (2014 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 20.93% of GDP (2022 est.)<br>
 22.22% of GDP (2021 est.)<br>
 18.5% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $223 million (2018 est.)<br>
@@ -469,37 +470,41 @@ calendar year<br>
 -$6.614 million (2022 est.)<br>
 -$4.076 million (2021 est.)<br>
 -$22.048 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $165.347 million (2022 est.)<br>
 $128.331 million (2021 est.)<br>
 $68.937 million (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-France 32%, India 23%, Germany 10%, Turkey 9%, Madagascar 7% (2019)<br>
+Turkey 23%, India 19%, UAE 9%, US 9%, Indonesia 8% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cloves, tug boats, essential oils, scrap vessels, vanilla (2021)<br>
+cloves, ships, vanilla, essential oils, scrap iron (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $479.94 million (2022 est.)<br>
 $415.965 million (2021 est.)<br>
 $343.608 million (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 22%, United Arab Emirates 16%, France 11%, Pakistan 9%, India 6% (2019)<br>
+UAE 25%, China 19%, India 12%, France 8%, Tanzania 7% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-rice, chicken products, refined petroleum, cement, cars (2019)<br>
+rice, refined petroleum, poultry, water, synthetic fabric (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $283.746 million (2022 est.)<br>
 $329.672 million (2021 est.)<br>
 $294.34 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $199.8 million (31 December 2017 est.)<br>

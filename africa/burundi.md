@@ -357,7 +357,7 @@ _election results_: <br><em>2020: </em>Evariste NDAYISHIMIYE elected president; 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Inama Nkenguzamateka (39 seats in the July 2020 election); 36 members indirectly elected by an electoral college of provincial councils using a three-round voting system, which requires a two-thirds majority vote in the first two rounds and simple majority vote for the two leading candidates in the final round; 3 seats reserved for Twas, and 30% of all votes reserved for women; members serve 5-year terms)<br>National Assembly or Inama Nshingamateka (123 seats in the May 2020 election; 100 members directly elected in multi-seat constituencies by proportional representation vote and 23 co-opted members; 60% of seats allocated to Hutus and 40% to Tutsis; 3 seats reserved for Twas; 30% of total seats reserved for women; members serve 5-year terms)<br>
 _elections_: Senate - last held on 20 July 2020 (next to be held in 2025)<br>National Assembly - last held on 20 May 2020 (next to be held in 2025)<br>
-_election results_: Senate - percent of vote by party - CNDD-FDD 87.2%, Twa 7.7%, CNL 2.6%, UPRONA 2.6%; seats by party - CNDD-FDD 34, Twa 3, CNL 1, UPRONA 1; composition - men 23, women 16, percentage women 37.2% <p>National Assembly - percent of vote by party - CNDD-FDD 70.9%, CNL 23.4%, UPRONA 2.5%, other (co-opted Twa) 3.2%; seats by party - CNDD-FDD 86, CNL 32, Twa 3, UPRONA 2; composition as of March 2024 - men 76, women 47, percentage women 38.2%; note - total Parliament percentage women 38%</p><br>
+_election results_: Senate - percent of vote by party - CNDD-FDD 87.2%, Twa 7.7%, CNL 2.6%, UPRONA 2.6%; seats by party - CNDD-FDD 34, Twa 3, CNL 1, UPRONA 1; composition - men 23, women 16, percentage women 37.2% <p>National Assembly - percent of vote by party - CNDD-FDD 70.9%, CNL 23.4%, UPRONA 2.5%, other (co-opted Twa) 3.2%; seats by party - CNDD-FDD 86, CNL 32, Twa 3, UPRONA 2; composition - men 76, women 47, percentage women 38.2%; note - total Parliament percentage women 38%</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 9 judges and organized into judicial, administrative, and cassation chambers); Constitutional Court (consists of 7 members)<br>
@@ -404,29 +404,29 @@ highly agrarian, low-income Sub-Saharan economy; declining foreign assistance; i
 $9.128 billion (2022 est.)<br>
 $8.962 billion (2021 est.)<br>
 $8.693 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.85% (2022 est.)<br>
 3.1% (2021 est.)<br>
 0.33% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $700 (2022 est.)<br>
 $700 (2021 est.)<br>
 $700 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $3.339 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 18.8% (2022 est.)<br>
 8.4% (2021 est.)<br>
 7.32% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 39.5% (2017 est.)<br>
@@ -442,24 +442,25 @@ _exports of goods and services_: 5.5% (2017 est.)<br>
 _imports of goods and services_: -25.3% (2017 est.)<br>
 
 **Agricultural products**<br>
-cassava, bananas, sweet potatoes, plantains, beans, vegetables, potatoes, cashew nuts, maize, taro<br>
+cassava, bananas, sweet potatoes, vegetables, beans, potatoes, maize, sugarcane, fruits, rice (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 light consumer goods (sugar, shoes, soap, beer); cement, assembly of imported components; public works construction; food processing (fruits)<br>
 
 **Industrial production growth rate**<br>
 3.16% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 5.511 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 0.91% (2022 est.)<br>
 1.14% (2021 est.)<br>
 1.03% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 3.4% (2021 est.)<br>
@@ -468,22 +469,22 @@ _female_: 2.5%<br>
 
 **Population below poverty line**<br>
 64.9% (2013 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 38.6 (2013 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
 _highest 10%_: 31% (2013 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 1.45% of GDP (2022 est.)<br>
 1.74% of GDP (2021 est.)<br>
 1.82% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $747 million (2020 est.)<br>
@@ -506,36 +507,39 @@ calendar year<br>
 -$362.645 million (2018 est.)<br>
 -$373.389 million (2017 est.)<br>
 -$339.695 million (2016 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $285.105 million (2018 est.)<br>
 $315 million (2017 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United Arab Emirates 50%, Democratic Republic of the Congo 7% (2019)<br>
+UAE 32%, Democratic Republic of the Congo 14%, China 5%, Sudan 5%, Germany 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, coffee, tea, raw earth metal ores, beer (2021)<br>
-<strong>note:</strong> rare earth metal ores include zirconium, vanadium, tantalum, and niobium<br>
+gold, coffee, tea, rare earth ores, tobacco (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $905.294 million (2018 est.)<br>
 $1.295 billion (2017 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 14%, Saudi Arabia 14%, India 9%, Kenya 7%, United Arab Emirates 7%, Tanzania 5%, Zambia 5% (2019)<br>
+China 15%, UAE 14%, Saudi Arabia 13%, Tanzania 12%, India 7% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, packaged medicines, cement, raw sugar, cars (2019)<br>
+refined petroleum, fertilizers, packaged medicine, cement, plastic products (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $163.238 million (2022 est.)<br>
 $266.164 million (2021 est.)<br>
 $90.319 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $610.9 million (31 December 2017 est.)<br>

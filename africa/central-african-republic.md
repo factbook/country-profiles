@@ -354,7 +354,7 @@ _election results_: <em><br>2020</em>: Faustin-Archange TOUADERA reelected presi
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (140 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
 _elections_: last held in December 2020 through July 2021 (next to be held 31 December 2025); note - on 27 December 2020, the day of first round elections, voting in many electoral areas was disrupted by armed groups; on 13 February 2021, President TOUADERA announced that new first round elections would be held on 27 February 2021 for those areas controlled by armed groups and the second round on 14 March 2021; ultimately, two additional rounds were held on 23 May and 25 July 2021 in areas that continued to suffer from election security problems<br>
-_election results_: percent of vote by party - NA; seats by party - MCU 63, MOUNI 9, URCA 7, MLPC 7, RDC 5, KNK 3, PATRIE 3, CDE 2, RDD 2, MDD 2, PGD 2, PAD 2, CANE 2, other 11, independent 20; composition as of March 2024 - men 124, women 16, percentage women 11.4%; note - several members of other parties and independent candidates joined the MCU following the opening session of the National Assembly; as of 21 September 2021, the MCU held 86 seats<br>
+_election results_: percent of vote by party - NA; seats by party - MCU 63, MOUNI 9, URCA 7, MLPC 7, RDC 5, KNK 3, PATRIE 3, CDE 2, RDD 2, MDD 2, PGD 2, PAD 2, CANE 2, other 11, independent 20; composition - men 124, women 16, percentage women 11.4%; note - several members of other parties and independent candidates joined the MCU following the opening session of the National Assembly; as of 21 September 2021, the MCU held 86 seats<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 judges, at least 3 of whom are women)<br>
@@ -406,29 +406,29 @@ enormous natural resources; extreme poverty; weak public institutions and infras
 $4.597 billion (2022 est.)<br>
 $4.574 billion (2021 est.)<br>
 $4.53 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 0.5% (2022 est.)<br>
 0.98% (2021 est.)<br>
 0.9% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $800 (2022 est.)<br>
 $800 (2021 est.)<br>
 $800 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $2.383 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5.58% (2022 est.)<br>
 4.26% (2021 est.)<br>
 1.71% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 43.2% (2017 est.)<br>
@@ -444,24 +444,25 @@ _exports of goods and services_: 12% (2017 est.)<br>
 _imports of goods and services_: -29.5% (2017 est.)<br>
 
 **Agricultural products**<br>
-cassava, yams, groundnuts, taro, bananas, sugar cane, beef, maize, plantains, milk<br>
+cassava, groundnuts, yams, coffee, maize, sesame seeds, bananas, taro, sugarcane, beef (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 gold and diamond mining, logging, brewing, sugar refining<br>
 
 **Industrial production growth rate**<br>
 -1.5% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 2.039 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 6.34% (2022 est.)<br>
 6.81% (2021 est.)<br>
 6.66% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.8% (2021 est.)<br>
@@ -470,16 +471,16 @@ _female_: 13.1%<br>
 
 **Population below poverty line**<br>
 68.8% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 43 (2021 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1%<br>
 _highest 10%_: 33.1% (2021 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Budget**<br>
 _revenues_: $418 million (2019 est.)<br>
@@ -494,7 +495,7 @@ _expenditures_: $385 million (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 8.21% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -504,31 +505,38 @@ calendar year<br>
 -$97 million (2016 est.)<br>
 
 **Exports**<br>
-$113.7 million (2017 est.)<br>
-$101.5 million (2016 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$293.074 million (2022 est.)<br>
+$332.869 million (2021 est.)<br>
+$353.021 million (2020 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 41%, United Arab Emirates 19%, France 7% (2019)<br>
+UAE 40%, Italy 11%, Pakistan 10%, China 10%, France 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, lumber, diamonds, large construction vehicles, rum (2021)<br>
+gold, wood, diamonds, vehicle parts/accessories, electrical machinery (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$393.1 million (2017 est.)<br>
-$342.2 million (2016 est.)<br>
+$784.669 million (2022 est.)<br>
+$778.395 million (2021 est.)<br>
+$799.195 million (2020 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-India 18%, France 12%, United States 11%, China 9%, Netherlands 7%, Belgium 7%, Malta 6% (2019)<br>
+Cameroon 28%, US 8%, China 7%, France 6%, South Korea 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, packaged medicines, natural gas, broadcasting equipment, second-hand clothing (2019)<br>
+refined petroleum, engines, aircraft, prefabricated buildings, packaged medicine (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $483.872 million (2021 est.)<br>
 $432.524 million (2020 est.)<br>
 $350.305 million (2019 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $779.9 million (31 December 2017 est.)<br>

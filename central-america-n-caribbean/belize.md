@@ -327,7 +327,7 @@ _elections/appointments_: the monarchy is hereditary; governor-general appointed
 **Legislative branch**<br>
 _description_: bicameral National Assembly consists of:<br>Senate (14 seats, including the president); members appointed by the governor-general - 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 1 each on the advice of the Belize Council of Churches and Evangelical Association of Churches, the Belize Chamber of Commerce and Industry and the Belize Better Business Bureau, non-governmental organizations in good standing, and the National Trade Union Congress and the Civil Society Steering Committee; 1 seat is held by the Senate president elected from among the Senate members or from outside the Senate; members serve 5-year terms<br>House of Representatives (32 seats; 31 members directly elected in single-seat constituencies by simple majority vote and the speaker, who may be designated from outside the government; members serve 5-year terms and the speaker serves at the pleasure of the government up to the full 5-year term)<br>
 _elections_: Senate - last appointed 11 November 2020 (next appointments in November 2025)<br>House of Representatives - last held on 11 November 2020 (next to be held in November 2025)<br>
-_election results_: Senate - all members appointed; composition as of February 2024 - composition - men 8, women 6, percentage women 42.9%<br><br>House of Representatives - percent of vote by party - PUP 59.6%, UDP 38.8%, other 1.6%; seats by party - PUP 26, UDP 5; composition as of February 2024 - men 27, women 5, percentage women 15.6%; total percentage women in the National Assembly 23.9%<br>
+_election results_: Senate - all members appointed; composition - men 8, women 6, percentage women 42.9%<br><br>House of Representatives - percent of vote by party - PUP 59.6%, UDP 38.8%, other 1.6%; seats by party - PUP 26, UDP 5; composition - men 27, women 5, percentage women 15.6%; total percentage women in the National Assembly 23.9%<br>
 <strong> </strong><br>
 
 **Judicial branch**<br>
@@ -383,29 +383,29 @@ tourism- and agriculture-driven economy; strong post-pandemic rebound; innovativ
 $3.839 billion (2022 est.)<br>
 $3.531 billion (2021 est.)<br>
 $2.996 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 8.73% (2022 est.)<br>
 17.86% (2021 est.)<br>
 -13.73% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $9,500 (2022 est.)<br>
 $8,800 (2021 est.)<br>
 $7,600 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $2.831 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 6.28% (2022 est.)<br>
 3.24% (2021 est.)<br>
 0.12% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Caa3 (2020)<br>
@@ -426,24 +426,25 @@ _exports of goods and services_: 49.1% (2017 est.)<br>
 _imports of goods and services_: -63.2% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar care, oranges, bananas, maize, poultry, rice, sorghum, papayas, grapefruit, soybeans<br>
+sugarcane, maize, bananas, oranges, soybeans, sorghum, chicken, rice, beans, milk (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 garment production, food processing, tourism, construction, oil<br>
 
 **Industrial production growth rate**<br>
 -2.17% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 185,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 8.67% (2022 est.)<br>
 10.16% (2021 est.)<br>
 10.62% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 19.3% (2021 est.)<br>
@@ -453,15 +454,11 @@ _female_: 31.9%<br>
 **Population below poverty line**<br>
 41% (2013 est.)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 5.03% of GDP (2022 est.)<br>
 5.58% of GDP (2021 est.)<br>
 5.89% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $583 million (2019 est.)<br>
@@ -474,11 +471,11 @@ _expenditures_: $656 million (2019 est.)<br>
 99% of GDP (2017 est.)<br>
 95.9% of GDP (2016 est.)<br>
 61.41% of GDP (2014 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 21.34% (of GDP) (2017 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
@@ -487,37 +484,41 @@ note: central government tax revenue as a % of GDP<br>
 -$234.493 million (2022 est.)<br>
 -$157.868 million (2021 est.)<br>
 -$127.92 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $1.369 billion (2022 est.)<br>
 $1.043 billion (2021 est.)<br>
 $714.624 million (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 16%, United Kingdom 16%, Guatemala 7%, Italy 6%, Spain 6% (2021)<br>
+US 22%, UK 16%, Guatemala 10%, Spain 7%, Honduras 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-raw sugar, bananas, fishing ships, lobsters and crawfish, beer (2021)<br>
+raw sugar, bananas, shellfish, bran, refined petroleum (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $1.574 billion (2022 est.)<br>
 $1.249 billion (2021 est.)<br>
 $901.819 million (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 29%, China 14%, Seychelles 13%, Guatemala 10%, Mexico 9% (2021)<br>
+US 33%, China 23%, Guatemala 9%, Mexico 8%, Canada 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-recreational boats, refined petroleum, cigarettes, ships, natural gas (2021)<br>
+refined petroleum, ships, tobacco, garments, plastic products (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $482.146 million (2022 est.)<br>
 $420.103 million (2021 est.)<br>
 $348.09 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.315 billion (31 December 2017 est.)<br>

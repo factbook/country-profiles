@@ -341,7 +341,7 @@ _election results_: <em><br>2019:</em> Abdelmadjid TEBBOUNE (FLN) 58.1%, Abdelka
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Council of the Nation or Majlis al-Umma (174 seats, statutory; 170 currently); two-thirds of members indirectly elected by simple majority vote by an electoral college composed of local assemblies within each wilaya, and one-third of members appointed by the president; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National People's Assembly or al-Majlis al-Sha'abi al-Watani (407 seats, including 8 seats for Algerian diaspora); members directly elected in multi-seat constituencies by open-list proportional representation vote using the Hare quota method; members serve 5-year terms)<br>
 _elections_: Council of the Nation - last held on 5 February 2022 (next expected in 2025)<br>National People's Assembly - snap election held on 12 June 2021 (next to be held on 12 June 2026)<br>
-_election results_: Council of the Nation - percent of vote by party - NA; seats by party - FLN 54, RND 22, Future Front 7, National Construction Movement 5, FFS 4, other 6, independent 18, appointed 58; composition as of February 2024 - men 163, women 7, percentage women 4.1%<br><br>National People's Assembly - percent of vote by party - NA; seats by party - FLN 98, MSP 65, RND 58, (Future Front) 48, Movement of National Construction 39, other 15, independent 84; composition as of February 2024 - men 375, women 32, percentage women 7.9%; note - total Parliament percentage women 6.8%<br>
+_election results_: Council of the Nation - percent of vote by party - NA; seats by party - FLN 54, RND 22, Future Front 7, National Construction Movement 5, FFS 4, other 6, independent 18, appointed 58; composition - men 163, women 7, percentage women 4.1%<br><br>National People's Assembly - percent of vote by party - NA; seats by party - FLN 98, MSP 65, RND 58, (Future Front) 48, Movement of National Construction 39, other 15, independent 84; composition - men 375, women 32, percentage women 7.9%; note - total Parliament percentage women 6.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Le Cour Supr&ecirc;me, (consists of 150 judges organized into 8 chambers: Civil, Commercial and Maritime, Criminal, House of Offenses and Contraventions, House of Petitions, Land, Personal Status, and Social; Constitutional Council (consists of 12 members including the court chairman and deputy chairman); note - Algeria's judicial system does not include sharia courts<br>
@@ -395,29 +395,29 @@ suffering oil and gas economy; lack of sector and market diversification; politi
 $502.837 billion (2022 est.)<br>
 $487.245 billion (2021 est.)<br>
 $471.223 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.2% (2022 est.)<br>
 3.4% (2021 est.)<br>
 -5.1% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $11,200 (2022 est.)<br>
 $11,000 (2021 est.)<br>
 $10,800 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $194.998 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 9.27% (2022 est.)<br>
 7.23% (2021 est.)<br>
 2.42% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
@@ -436,24 +436,25 @@ _exports of goods and services_: 23.6% (2017 est.)<br>
 _imports of goods and services_: -35.8% (2017 est.)<br>
 
 **Agricultural products**<br>
-potatoes, wheat, milk, watermelons, barley, onions, tomatoes, oranges, dates, vegetables<br>
+potatoes, wheat, milk, watermelons, onions, tomatoes, barley, vegetables, dates, oranges (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 petroleum, natural gas, light industries, mining, electrical, petrochemical, food processing<br>
 
 **Industrial production growth rate**<br>
 1.32% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 13.023 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 12.49% (2022 est.)<br>
 13.73% (2021 est.)<br>
 14.04% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 31.9% (2021 est.)<br>
@@ -478,7 +479,7 @@ _highest 10%_: 26.8% (1995)<br>
 0.9% of GDP (2022 est.)<br>
 1.1% of GDP (2021 est.)<br>
 1.17% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $55.185 billion (2019 est.)<br>
@@ -502,37 +503,41 @@ calendar year<br>
 $19.036 billion (2022 est.)<br>
 -$4.515 billion (2021 est.)<br>
 -$18.187 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $69.058 billion (2022 est.)<br>
 $41.851 billion (2021 est.)<br>
 $24.902 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Italy 13%, France 13%, Spain 12%, United States 7%, United Kingdom 7%, India 5%, South Korea 5% (2019)<br>
+Italy 29%, Spain 12%, France 12%, US 5%, South Korea 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-natural gas, crude petroleum, refined petroleum, fertilizers, ammonia (2021)<br>
+natural gas, crude petroleum, refined petroleum, fertilizers, ammonia (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $46.617 billion (2022 est.)<br>
 $44.302 billion (2021 est.)<br>
 $42.347 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 18%, France 14%, Italy 8%, Spain 8%, Germany 5%, Turkey 5% (2019)<br>
+China 18%, France 14%, Italy 7%, Turkey 6%, Brazil 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, wheat, packaged medical supplies, milk, vehicle parts (2019)<br>
+wheat, milk, plastics, corn, iron ore (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $71.852 billion (2022 est.)<br>
 $56.211 billion (2021 est.)<br>
 $59.434 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $5.574 billion (2019 est.)<br>

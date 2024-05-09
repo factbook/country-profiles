@@ -102,6 +102,22 @@ the flag of Norway is used<br>
 
 ## Economy
 
+**Exports - partners**<br>
+Singapore 76%, US 7%, Uzbekistan 5%, UK 2%, Brazil 1% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
+
+**Exports - commodities**<br>
+fish, tensile testing machines, jewelry, paper, garments (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
+
+**Imports - partners**<br>
+Singapore 72%, US 18%, Panama 3%, Indonesia 2%, Denmark 1% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
+
+**Imports - commodities**<br>
+aluminum structures, animal products, cement, air pumps, electrical transformers (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
+
 ## Communications
 
 **Internet country code**<br>

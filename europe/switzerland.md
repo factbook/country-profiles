@@ -346,7 +346,7 @@ _election results_: <em>2023:  </em>Viola AMHERD elected president for 2024; Fe
 **Legislative branch**<br>
 _description_: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:<br>Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in two-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons, which use list proportional representation vote; member term governed by cantonal law)<br>National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 194 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms)<br>
 _elections_: Council of States - last held in most cantons on 22 October 2023 (each canton determines when the next election will be held)<br>National Council - last held on 22 October 2023 (next to be held on 31 October 2027)<br>
-_election results_: Council of States - percent of vote by party - NA; seats by party - The Center 13, FDP.The Liberals 12, SP 9, SVP 6, Green Party 5, other 1; composition as of February 2024 - men 30, women 16, percentage women 34.8%<br><br>National Council - percent of vote by party - SVP 28.6%, SP 18%, The Center 14.6%, FDP.The Liberals 14.4%, Green Party 9.4%, GLP 7.2%, EDU 1.2, EDV/PEV 1.9%, MCR/MCG .5%, other 4%; seats by party - SVP 62, SP 41, The Center 29, FDP.The Liberals 28, Green Party 23, GLP 10, EDU 2, EDV/PEV 2, MCR/MCG 2, other 1; composition as of February 2024 - men 123, women 77, percentage women 38.5%; note - total Federal Assembly percentage women 37.8%<br>
+_election results_: Council of States - percent of vote by party - NA; seats by party - The Center 13, FDP.The Liberals 12, SP 9, SVP 6, Green Party 5, other 1; composition - men 30, women 16, percentage women 34.8%<br><br>National Council - percent of vote by party - SVP 28.6%, SP 18%, The Center 14.6%, FDP.The Liberals 14.4%, Green Party 9.4%, GLP 7.2%, EDU 1.2, EDV/PEV 1.9%, MCR/MCG .5%, other 4%; seats by party - SVP 62, SP 41, The Center 29, FDP.The Liberals 28, Green Party 23, GLP 10, EDU 2, EDV/PEV 2, MCR/MCG 2, other 1; composition - men 123, women 77, percentage women 38.5%; note - total Federal Assembly percentage women 37.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court (consists of 38 justices and 19 deputy justices organized into 7 divisions)<br>
@@ -401,29 +401,29 @@ high-income, non-EU European economy; renowned banking and financial hub; extrem
 $634.296 billion (2022 est.)<br>
 $618.413 billion (2021 est.)<br>
 $586.775 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.57% (2022 est.)<br>
 5.39% (2021 est.)<br>
 -2.14% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $72,300 (2022 est.)<br>
 $71,000 (2021 est.)<br>
 $67,900 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $818.427 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 2.84% (2022 est.)<br>
 0.58% (2021 est.)<br>
 -0.73% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (2000)<br>
@@ -445,24 +445,25 @@ _exports of goods and services_: 65.1% (2017 est.)<br>
 _imports of goods and services_: -54% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, sugar beet, wheat, potatoes, pork, barley, apples, maize, beef, grapes<br>
+milk, sugar beets, wheat, potatoes, pork, apples, barley, beef, grapes, maize (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 machinery, chemicals, watches, textiles, precision instruments, tourism, banking, insurance, pharmaceuticals<br>
 
 **Industrial production growth rate**<br>
 4.63% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 4.968 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.3% (2022 est.)<br>
 5.1% (2021 est.)<br>
 4.82% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.1% (2021 est.)<br>
@@ -471,11 +472,11 @@ _female_: 8.8%<br>
 
 **Population below poverty line**<br>
 14.7% (2020 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33.1 (2018 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 9.2% of household expenditures (2018 est.)<br>
@@ -484,13 +485,13 @@ _on alcohol and tobacco_: 3.6% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
 _highest 10%_: 25.8% (2018 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.32% of GDP (2022 est.)<br>
 0.34% of GDP (2021 est.)<br>
 0.38% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $239.767 billion (2018 est.)<br>
@@ -504,11 +505,11 @@ _expenditures_: $230.383 billion (2018 est.)<br>
 19.99% of GDP (2021 est.)<br>
 20.85% of GDP (2020 est.)<br>
 18.95% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 10.09% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -517,37 +518,41 @@ calendar year<br>
 $81.231 billion (2022 est.)<br>
 $72.055 billion (2021 est.)<br>
 $2.451 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $627.54 billion (2022 est.)<br>
 $579.017 billion (2021 est.)<br>
 $474.042 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 16%, United States 14%, United Kingdom 8%, China 7%, France 6%, India 6%, Italy 5% (2019)<br>
+US 15%, Germany 13%, China 11%, Italy 6%, France 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, packaged medicines, medical cultures/vaccines, watches, jewelry (2019)<br>
+gold, vaccines, packaged medicine, nitrogen compounds, base metal watches (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $518.451 billion (2022 est.)<br>
 $481.093 billion (2021 est.)<br>
 $429.875 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 21%, Italy 8%, France 6%, United States 6%, United Kingdom 5%, United Arab Emirates 5% (2019)<br>
+Germany 21%, US 10%, Italy 8%, France 6%, China 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-gold, packaged medicines, jewelry, cars, medical cultures/vaccines (2019)<br>
+gold, packaged medicine, vaccines, cars, garments (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $923.628 billion (2022 est.)<br>
 $1.11 trillion (2021 est.)<br>
 $1.083 trillion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.909 trillion (2019 est.)<br>

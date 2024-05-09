@@ -346,7 +346,7 @@ _election results_: <em><br>2021: </em>THONGLOUN Sisoulith elected president; Na
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Sapha Heng Xat (164 seats; members directly elected in multi-seat constituencies by simple majority vote from candidate lists provided by the Lao People's Revolutionary Party; members serve 5-year terms)<br>
 _elections_: last held on 21 February 2021 (next to be held in 2026)<br>
-_election results_: percent of vote by party - NA; seats by party - LPRP 158, independent 6; composition as of February 2024 - men 128, women 36, percentage women 22%<br>
+_election results_: percent of vote by party - NA; seats by party - LPRP 158, independent 6; composition - men 128, women 36, percentage women 22%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: People's Supreme Court (consists of the court president and organized into criminal, civil, administrative, commercial, family, and juvenile chambers, each with a vice president and several judges)<br>
@@ -400,29 +400,29 @@ lower middle-income, industrial Southeast Asian economy; high inflation due to 2
 $59.842 billion (2022 est.)<br>
 $58.264 billion (2021 est.)<br>
 $56.827 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.71% (2022 est.)<br>
 2.53% (2021 est.)<br>
 0.5% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $7,900 (2022 est.)<br>
 $7,800 (2021 est.)<br>
 $7,800 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $15.469 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 22.96% (2022 est.)<br>
 3.76% (2021 est.)<br>
 5.1% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2020)<br>
@@ -443,24 +443,25 @@ _exports of goods and services_: 34.6% (2017 est.)<br>
 _imports of goods and services_: -43.2% (2017 est.)<br>
 
 **Agricultural products**<br>
-rice, roots/tubers nes, cassava, sugar cane, vegetables, bananas, maize, watermelons, coffee, taro<br>
+cassava, root vegetables, rice, sugarcane, vegetables, bananas, maize, rubber, coffee, watermelons (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 mining (copper, tin, gold, gypsum); timber, electric power, agricultural processing, rubber, construction, garments, cement, tourism<br>
 
 **Industrial production growth rate**<br>
 3.34% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 3.106 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.82% (2022 est.)<br>
 4.15% (2021 est.)<br>
 3.86% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 3.3% (2021 est.)<br>
@@ -469,11 +470,11 @@ _female_: 3.2%<br>
 
 **Population below poverty line**<br>
 18.3% (2018 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 38.8 (2018 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 50% of household expenditures (2018 est.)<br>
@@ -482,13 +483,13 @@ _on alcohol and tobacco_: 10.5% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3%<br>
 _highest 10%_: 31.2% (2018 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 1.28% of GDP (2022 est.)<br>
 1.17% of GDP (2021 est.)<br>
 1.22% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $2.896 billion (2019 est.)<br>
@@ -511,37 +512,41 @@ _expenditures_: $3.839 billion (2019 est.)<br>
 -$10.954 million (2022 est.)<br>
 $446.505 million (2021 est.)<br>
 -$230.973 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $8.604 billion (2022 est.)<br>
 $7.82 billion (2021 est.)<br>
 $6.461 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Thailand 33%, China 27%, Vietnam 13%, Australia 8%, Switzerland 3% (2021)<br>
+Thailand 35%, China 29%, Vietnam 10%, Australia 4%, US 3% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-electricity, gold, paper, copper, rubber, flavored water (2021)<br>
+electricity, gold, rubber, fertilizers, paper (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $7.772 billion (2022 est.)<br>
 $6.527 billion (2021 est.)<br>
 $5.816 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Thailand 53%, China 26%, Vietnam 10% (2019)<br>
+Thailand 56%, China 26%, Vietnam 8%, Malaysia 3%, Singapore 1% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, gold, cars, broadcasting equipment, delivery trucks, tractors (2021)<br>
+refined petroleum, gold, electrical machinery, raw sugar, plastic products (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $1.216 billion (2022 est.)<br>
 $1.476 billion (2021 est.)<br>
 $1.393 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $14.9 billion (31 December 2017 est.)<br>

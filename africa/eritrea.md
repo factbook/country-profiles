@@ -414,24 +414,25 @@ _exports of goods and services_: 10.9% (2017 est.)<br>
 _imports of goods and services_: -22.5% (2017 est.)<br>
 
 **Agricultural products**<br>
-sorghum, milk, vegetables, barley, cereals, pulses nes, roots/tubers nes, wheat, millet, beef<br>
+sorghum, milk, barley, vegetables, root vegetables, cereals, pulses, millet, wheat, beef (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 food processing, beverages, clothing and textiles, light manufacturing, salt, cement<br>
 
 **Industrial production growth rate**<br>
 4.3% (2014 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 1.749 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.97% (2022 est.)<br>
 6.51% (2021 est.)<br>
 6.45% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.6% (2021 est.)<br>
@@ -440,10 +441,6 @@ _female_: 16.4%<br>
 
 **Population below poverty line**<br>
 50% (2004 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Budget**<br>
 _revenues_: $633 million (2018 est.)<br>
@@ -471,26 +468,30 @@ $624.3 million (2017 est.)<br>
 $485.4 million (2016 est.)<br>
 
 **Exports - partners**<br>
-China 62%, South Korea 28.3% (2017)<br>
+China 52%, UAE 33%, South Korea 9%, Japan 2%, Madagascar 2% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-zinc, copper, gold, clothing, stone grinders (2021)<br>
+zinc ore, gold, copper ore, wheat, garments (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $1.127 billion (2017 est.)<br>
 $1.048 billion (2016 est.)<br>
 
 **Imports - partners**<br>
-UAE 14.5%, China 13.2%, Saudi Arabia 13.2%, Italy 12.9%, Turkey 5.6%, South Africa 4.6% (2017)<br>
+China 34%, UAE 26%, Turkey 12%, US 7%, India 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-machinery, petroleum products, food, manufactured goods<br>
+ships, sorghum, wheat, construction vehicles, other foods (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $191.694 million (2019 est.)<br>
 $163.034 million (2018 est.)<br>
 $143.412 million (2017 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $792.7 million (31 December 2017 est.)<br>

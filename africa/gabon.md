@@ -390,29 +390,29 @@ natural resource-rich, upper-middle-income, Central African economy; sparsely po
 $33.302 billion (2022 est.)<br>
 $32.361 billion (2021 est.)<br>
 $31.874 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.91% (2022 est.)<br>
 1.53% (2021 est.)<br>
 -1.84% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $13,900 (2022 est.)<br>
 $13,800 (2021 est.)<br>
 $13,900 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $21.072 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4.23% (2022 est.)<br>
 1.09% (2021 est.)<br>
 1.35% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2020)<br>
@@ -434,24 +434,25 @@ _exports of goods and services_: 46.7% (2017 est.)<br>
 _imports of goods and services_: -26.8% (2017 est.)<br>
 
 **Agricultural products**<br>
-plantains, cassava, sugar cane, yams, taro, vegetables, maize, groundnuts, game meat, rubber<br>
+plantains, cassava, sugarcane, yams, taro, vegetables, maize, groundnuts, game meat, rubber (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 petroleum extraction and refining; manganese, gold; chemicals, ship repair, food and beverages, textiles, lumbering and plywood, cement<br>
 
 **Industrial production growth rate**<br>
 6.02% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 740,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 20.61% (2022 est.)<br>
 21.41% (2021 est.)<br>
 21.43% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 38.4% (2021 est.)<br>
@@ -460,22 +461,22 @@ _female_: 44.4%<br>
 
 **Population below poverty line**<br>
 33.4% (2017 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 38 (2017 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
 _highest 10%_: 27.7% (2017 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.09% of GDP (2022 est.)<br>
 0.09% of GDP (2021 est.)<br>
 0.12% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $3.296 billion (2019 est.)<br>
@@ -490,7 +491,7 @@ _expenditures_: $2.937 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 11.48% (of GDP) (2019 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -499,35 +500,41 @@ calendar year<br>
 -$725 million (2017 est.)<br>
 -$1.389 billion (2016 est.)<br>
 $140.996 million (2015 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $10.8 billion (2019 est.)<br>
 $9.533 billion (2018 est.)<br>
 $9.145 billion (2017 est.)<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 63%, Singapore 5% (2019)<br>
+China 43%, South Korea 8%, Italy 7%, India 7%, Indonesia 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, manganese, lumber, veneer sheeting, refined petroleum (2021)<br>
+crude petroleum, manganese ore, wood, veneer sheets, refined petroleum (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $5.02 billion (2019 est.)<br>
 $4.722 billion (2018 est.)<br>
 $4.749 billion (2017 est.)<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-France 22%, China 17%, Belgium 6%, United States 6%, United Arab Emirates 5% (2019)<br>
+China 22%, France 21%, UAE 5%, US 5%, Belgium 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-poultry meats, excavation machinery, packaged medicines, cars, rice (2019)<br>
+poultry, plastic products, iron pipes, fish, excavation machinery (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $1.372 billion (2019 est.)<br>
 $1.321 billion (2018 est.)<br>
 $965.054 million (2017 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $6.49 billion (31 December 2017 est.)<br>

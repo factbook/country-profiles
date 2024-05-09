@@ -360,7 +360,7 @@ _election results_: Abdel Fattah EL-SISI reelected president in first round; per
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (Majlis Al-Shiyoukh) (300 seats; 100 members directly elected in single seat constituencies, 100 directly elected by closed party-list vote, and 100 appointed by the president; note - the upper house, previously the Shura Council, was eliminated in the 2014 constitution, reestablished as the Senate, following passage in a 2019 constitutional referendum and approved by the House of Representatives in June 2020 <br>House of Representatives (Majlis Al-Nowaab) (596 seats; 448 members directly elected by individual candidacy system, 120 members - with quotas for women, youth, Christians and workers - elected in party-list constituencies by simple majority popular vote, and 28 members appointed by the president; members of both houses serve 5-year terms<br>
 _elections_: Senate - first round held on 11-12 August 2020 (9-10 August for diaspora); second round held on 8-9 September (6-7 September for diaspora) (next to be held in 2025)<br>House of Representatives - last held 24-25 October and 7-8 November 2020) (next to be held in 2025)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - Nation's Future Party 100, independent 100; composition as of March 2024 - men 258, women 41, percent of women 13.7%  <br><br>House of Representatives - percent of vote by party - NA; seats by party - Nation's Future Party 316, Republican People's Party 50, New Wafd Party 26, Homeland Defenders Party 23, Modern Egypt Party 11, Reform and Development Party 9, Al-Nour Party 7, Egyptian Conference Party 7, Egyptian Freedom Party 7, Egyptian Social Democratic Party 7, Tagammu 6, Justice Party 2, Etradet Geel Party 1, independent 124; composition as of March 2024 - men 428, women 164, percent of women 27.5%; total Parliament percent of women 23%<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - Nation's Future Party 100, independent 100; composition - men 258, women 41, percent of women 13.7%  <br><br>House of Representatives - percent of vote by party - NA; seats by party - Nation's Future Party 316, Republican People's Party 50, New Wafd Party 26, Homeland Defenders Party 23, Modern Egypt Party 11, Reform and Development Party 9, Al-Nour Party 7, Egyptian Conference Party 7, Egyptian Freedom Party 7, Egyptian Social Democratic Party 7, Tagammu 6, Justice Party 2, Etradet Geel Party 1, independent 124; composition - men 428, women 164, percent of women 27.5%; total Parliament percent of women 23%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Constitutional Court (SCC) (consists of the court president and 10 justices); the SCC serves as the final court of arbitration on the constitutionality of laws and conflicts between lower courts regarding jurisdiction and rulings; Court of Cassation (CC) (consists of the court president and 550 judges organized in circuits with cases heard by panels of 5 judges); the CC is the highest appeals body for civil and criminal cases, also known as "ordinary justices"; Supreme Administrative Court (SAC) (consists of the court president and NA judges and organized in circuits with cases heard by panels of 5 judges); the SAC is the highest court of the State Council<br>
@@ -415,29 +415,29 @@ Africa&rsquo;s second-largest economy; 2030 Vision to diversify markets and ener
 $1.419 trillion (2022 est.)<br>
 $1.331 trillion (2021 est.)<br>
 $1.288 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 6.59% (2022 est.)<br>
 3.29% (2021 est.)<br>
 3.55% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $12,800 (2022 est.)<br>
 $12,200 (2021 est.)<br>
 $12,000 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $476.748 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 13.9% (2022 est.)<br>
 5.21% (2021 est.)<br>
 5.04% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2019)<br>
@@ -459,24 +459,25 @@ _exports of goods and services_: 16.3% (2017 est.)<br>
 _imports of goods and services_: -28.5% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, sugar beets, wheat, maize, tomatoes, rice, potatoes, oranges, onions, milk<br>
+sugarcane, sugar beets, wheat, maize, tomatoes, potatoes, rice, milk, onions, oranges (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 textiles, food processing, tourism, chemicals, pharmaceuticals, hydrocarbons, construction, cement, metals, light manufactures<br>
 
 **Industrial production growth rate**<br>
 6.86% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 32.614 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 6.4% (2022 est.)<br>
 7.44% (2021 est.)<br>
 7.97% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 24.3% (2021 est.)<br>
@@ -485,11 +486,11 @@ _female_: 59.5%<br>
 
 **Population below poverty line**<br>
 29.7% (2019 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 31.9 (2019 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 33.3% of household expenditures (2018 est.)<br>
@@ -498,13 +499,13 @@ _on alcohol and tobacco_: 4.7% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8%<br>
 _highest 10%_: 27.5% (2019 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 5.94% of GDP (2022 est.)<br>
 7.41% of GDP (2021 est.)<br>
 7.71% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $71.16 billion (2020 est.)<br>
@@ -520,7 +521,7 @@ _expenditures_: $100.318 billion (2020 est.)<br>
 
 **Taxes and other revenues**<br>
 12.52% (of GDP) (2015 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
@@ -529,37 +530,41 @@ note: central government tax revenue as a % of GDP<br>
 -$10.537 billion (2022 est.)<br>
 -$18.611 billion (2021 est.)<br>
 -$14.236 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $76.295 billion (2022 est.)<br>
 $58.339 billion (2021 est.)<br>
 $40.102 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 8%, Turkey 7%, Greece 7%, Italy 6%, India 5% (2021)<br>
+Turkey 8%, Italy 6%, US 6%, Spain 6%, India 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, crude petroleum, natural gas, nitrogen fertilizers, gold (2021)<br>
+natural gas, fertilizers, garments, refined petroleum, crude petroleum (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $97.144 billion (2022 est.)<br>
 $94.039 billion (2021 est.)<br>
 $72.482 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 18%, Saudi Arabia 9%, United States 6%, Russia 5%, Turkey 5% (2021)<br>
+China 17%, US 7%, Saudi Arabia 7%, UAE 6%, Turkey 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, wheat, cars, crude petroleum, corn, packaged medicines (2021)<br>
+refined petroleum, wheat, crude petroleum, natural gas, plastics (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $32.144 billion (2022 est.)<br>
 $39.824 billion (2021 est.)<br>
 $38.973 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $109.238 billion (2019 est.)<br>

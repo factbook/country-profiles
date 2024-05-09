@@ -348,7 +348,7 @@ _election results_: 2023: Shavkat MIRZIYOYEV reelected president in snap electio
 **Legislative branch**<br>
 _description_: bicameral Supreme Assembly or Oliy Majlis consists of:<br>Senate or Senat (100 seats); 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms); note - amendments to the constitution approved in April 2023 call for the reduction of Senate seats to 65 from 100<br>Legislative Chamber or Qonunchilik Palatasi (150 seats statutory, 140 seats current; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
 _elections_: Senate - last held 16-17 January 2020 (next to be held in 2025)<br>Legislative Chamber - last held on 22 December 2019 and 5 January 2020 (next to be held in December 2024)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition as of February 2024 - men 68, women 22, percentage women 24.4%<br><br>Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 53, National Revival Democratic Party 36, Adolat 24, PDP 22, Ecological Movement 15; composition as of February 2024 - men 89, women 47, percentage women 34.6%; total Supreme Assembly percentage women 30.5%<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 68, women 22, percentage women 24.4%<br><br>Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 53, National Revival Democratic Party 36, Adolat 24, PDP 22, Ecological Movement 15; composition - men 89, women 47, percentage women 34.6%; total Supreme Assembly percentage women 30.5%<br>
 <strong>note:</strong> all parties in the Supreme Assembly support President Shavkat MIRZIYOYEV<br>
 
 **Judicial branch**<br>
@@ -402,29 +402,29 @@ lower middle-income Central Asian economy; CIS Free Trade Area member but no int
 $287.795 billion (2022 est.)<br>
 $272.355 billion (2021 est.)<br>
 $253.582 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 5.67% (2022 est.)<br>
 7.4% (2021 est.)<br>
 2% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $8,100 (2022 est.)<br>
 $7,800 (2021 est.)<br>
 $7,400 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $80.392 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 11.45% (2022 est.)<br>
 10.85% (2021 est.)<br>
 12.87% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2018)<br>
@@ -446,24 +446,25 @@ _exports of goods and services_: 19% (2017 est.)<br>
 _imports of goods and services_: -20% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, wheat, potatoes, carrots/turnips, cotton, tomatoes, vegetables, grapes, onions, watermelons<br>
+milk, wheat, carrots/turnips, cotton, potatoes, tomatoes, grapes, vegetables, watermelons, apples (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 textiles, food processing, machine building, metallurgy, mining, hydrocarbon extraction, chemicals<br>
 
 **Industrial production growth rate**<br>
 5.48% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 13.971 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.51% (2022 est.)<br>
 5.42% (2021 est.)<br>
 5.29% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 16% (2021 est.)<br>
@@ -472,7 +473,7 @@ _female_: 16.2%<br>
 
 **Population below poverty line**<br>
 14.1% (2013 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 36.8 (2003 est.)<br>
@@ -489,7 +490,7 @@ _highest 10%_: 29.6% (2003)<br>
 20.82% of GDP (2022 est.)<br>
 13.33% of GDP (2021 est.)<br>
 11.76% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $16.197 billion (2019 est.)<br>
@@ -504,7 +505,7 @@ _expenditures_: $16.346 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 14.79% (of GDP) (2020 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -513,37 +514,41 @@ calendar year<br>
 $1.55 billion (2022 est.)<br>
 -$4.894 billion (2021 est.)<br>
 -$3.028 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $24.094 billion (2022 est.)<br>
 $16.443 billion (2021 est.)<br>
 $14.536 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Switzerland 19%, United Kingdom 17%, Russia 15%, China 14%, Kazakhstan 9%, Turkey 8%, Kyrgyzstan 5% (2019)<br>
+Switzerland 25%, Russia 15%, China 12%, Turkey 9%, Kazakhstan 7% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, natural gas, cotton fibers, copper, ethylene polymers (2019)<br>
+gold, cotton yarn, garments, natural gas, refined copper (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $35.61 billion (2022 est.)<br>
 $27.936 billion (2021 est.)<br>
 $22.638 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 23%, Russia 18%, South Korea 11%, Kazakhstan 9%, Turkey 6%, Germany 5% (2019)<br>
+China 24%, Russia 19%, Kazakhstan 12%, South Korea 8%, Turkey 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars and vehicle parts, packaged medicines, refined petroleum, aircraft, construction vehicles (2019)<br>
+vehicle parts/accessories, packaged medicine, cars, wheat, refined petroleum (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $35.774 billion (2022 est.)<br>
 $35.375 billion (2021 est.)<br>
 $34.903 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $16.9 billion (31 December 2017 est.)<br>

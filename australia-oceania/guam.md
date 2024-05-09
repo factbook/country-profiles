@@ -271,7 +271,7 @@ _election results_: <em>2022:</em> Lourdes LEON GUERRERO reelected governor; per
 **Legislative branch**<br>
 _description_: unicameral Legislature of Guam or Liheslaturan Guahan (15 seats; members elected in a single countrywide constituency by simple majority vote to serve 2-year terms)<br>Guam directly elects 1 member by simple majority vote to serve a 2-year term as the delegate to the US House of Representatives; note - the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote<br>
 _elections_: Guam Legislature - last held on 8 November 2022 (next to be held on 5 November 2024)<br>delegate to the US House of Representatives - last held on 8 November 2022 (next to be held on 5 November 2024)<br>
-_election results_: Guam Legislature - percent of vote by party - NA; seats by party - Democratic Party 9, Republican Party 6; composition as of February 2024 - men 9, women 6, percent of women 40%<br><br>Guam delegate to the US House of Representatives - Democratic Party 1 (man)<br>
+_election results_: Guam Legislature - percent of vote by party - NA; seats by party - Democratic Party 9, Republican Party 6; composition - men 9, women 6, percent of women 40%<br><br>Guam delegate to the US House of Representatives - Democratic Party 1 (man)<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Guam (consists of 3 justices); note - appeals beyond the Supreme Court of Guam are referred to the US Supreme Court<br>
@@ -316,7 +316,7 @@ $5.531 billion (2014 est.)<br>
 1.06% (2021 est.)<br>
 -11.39% (2020 est.)<br>
 2.6% (2019 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $35,600 (2016 est.)<br>
@@ -325,7 +325,7 @@ $34,400 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $6.123 billion (2021 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1% (2017 est.)<br>
@@ -352,17 +352,17 @@ national defense, tourism, construction, transshipment services, concrete produc
 
 **Industrial production growth rate**<br>
 4.3% (2014 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 80,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.57% (2022 est.)<br>
 6% (2021 est.)<br>
 6.25% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.3% (2021 est.)<br>
@@ -371,10 +371,6 @@ _female_: 16.1%<br>
 
 **Population below poverty line**<br>
 23% (2001 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Budget**<br>
 _revenues_: $1.24 billion (2016 est.)<br>
@@ -394,24 +390,32 @@ _expenditures_: $1.299 billion (2016 est.)<br>
 1 October - 30 September<br>
 
 **Exports**<br>
-$1.124 billion (2016 est.)<br>
-$1.046 billion (2015 est.)<br>
+$186 million (2021 est.)<br>
+$371 million (2020 est.)<br>
+$1.403 billion (2019 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-South Korea 31%, Hong Kong 27%, Taiwan 18%, Philippines 7% (2019)<br>
+Singapore 30%, Taiwan 20%, South Korea 14%, Philippines 12%, Hong Kong 8% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-scrap iron, scrap copper, boring/sinking machinery, leather handbags, rubber, scrap aluminum (2021)<br>
+refined petroleum, scrap iron, scrap copper, trunks and cases, aircraft parts (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$2.964 billion (2016 est.)<br>
-$3.054 billion (2015 est.)<br>
+$3.667 billion (2021 est.)<br>
+$3.383 billion (2020 est.)<br>
+$3.552 billion (2019 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Singapore 33%, Japan 21%, South Korea 18%, Hong Kong 9%, Malaysia 6% (2019)<br>
+South Korea 37%, Singapore 35%, Japan 12%, Taiwan 3%, Hong Kong 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, trunks/cases, cars, insulated wire, broadcasting equipment (2019)<br>
+refined petroleum, cars, raw iron bars, electric generating sets, trunks and cases (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Debt - external**<br>
 <p>NA</p><br>

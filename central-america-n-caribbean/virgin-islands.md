@@ -269,7 +269,7 @@ _election results_: <em>2022:</em> Albert BRYAN, Jr. reelected governor; percent
 **Legislative branch**<br>
 _description_: unicameral Legislature of the Virgin Islands (15 seats; senators directly elected in single- and multi-seat constituencies by simple majority popular vote to serve 2-year terms)<br><br>the Virgin Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term<br>
 _elections_: Legislature of the Virgin Islands last held on 8 November 2022 (next to be held on 5 November 2024)<br>Delegate to the US House of Representatives last held on 8 November 2022 (next to be held on 5 November 2024)<br>
-_election results_: Legislature of the Virgin Islands - percent of vote by party - NA; seats by party - Democratic Party 9, independent 6; composition as of April 2024 - men 10, women 5, percent of women 33.3%<br><br>delegate to US House of Representatives - seat by party - Democratic Party 1<br>
+_election results_: Legislature of the Virgin Islands - percent of vote by party - NA; seats by party - Democratic Party 9, independent 6; composition - men 10, women 5, percent of women 33.3%<br><br>delegate to US House of Representatives - seat by party - Democratic Party 1<br>
 <strong>note:</strong> the Virgin Islands delegate to the US House of Representatives can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote<br>
 
 **Judicial branch**<br>
@@ -312,7 +312,7 @@ $3.622 billion (2014 est.)<br>
 2.85% (2021 est.)<br>
 -1.92% (2020 est.)<br>
 2.93% (2019 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $37,000 (2016 est.)<br>
@@ -321,7 +321,7 @@ $34,500 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $4.444 billion (2021 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1% (2016 est.)<br>
@@ -348,17 +348,17 @@ tourism, watch assembly, rum distilling, construction, pharmaceuticals, electron
 
 **Industrial production growth rate**<br>
 4.3% (2014 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 47,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 12.86% (2022 est.)<br>
 14.13% (2021 est.)<br>
 14.69% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 27% (2021 est.)<br>
@@ -367,10 +367,6 @@ _female_: 37.3%<br>
 
 **Population below poverty line**<br>
 28.9% (2002 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Budget**<br>
 _revenues_: $1.496 billion (2016 est.)<br>
@@ -390,8 +386,10 @@ _expenditures_: $1.518 billion (2016 est.)<br>
 1 October - 30 September<br>
 
 **Exports**<br>
-$1.81 billion (2016 est.)<br>
-$1.537 billion (2015 est.)<br>
+$4.075 billion (2021 est.)<br>
+$1.62 billion (2020 est.)<br>
+$2.265 billion (2019 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Haiti 14%, Guadeloupe 7%, Malaysia 7%, Martinique 7%, Barbados 7%, British Virgin Islands 5% (2019)<br>
@@ -400,8 +398,10 @@ Haiti 14%, Guadeloupe 7%, Malaysia 7%, Martinique 7%, Barbados 7%, British Virgi
 refined petroleum, jewelry, recreational boats, watches, rum (2019)<br>
 
 **Imports**<br>
-$2.489 billion (2016 est.)<br>
-$1.549 billion (2015 est.)<br>
+$4.065 billion (2021 est.)<br>
+$3.185 billion (2020 est.)<br>
+$4.139 billion (2019 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 India 18%, Algeria 14%, South Korea 9%, Argentina 9%, Sweden 7%, Brazil 5% (2019)<br>

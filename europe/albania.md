@@ -345,7 +345,7 @@ _election results_: <em><br>2022: </em>Bajram BEGAJ elected president in the fou
 **Legislative branch**<br>
 _description_: unicameral Assembly or Kuvendi (140 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote using the D'Hondt method; members serve 4-year terms)<br>
 _elections_: last held on 25 April 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party/coalition - PS 48.7%, PD-Alliance for Change 39.4%, LSI 6.8%, PSD 2.3%, other 2.8%; seats by party/coalition - PS 74, PD-Alliance for Change 59, LSI 4, PSD 3; composition as of February 2024 - men 90, women 50, percentage 35.7%<br>
+_election results_: percent of vote by party/coalition - PS 48.7%, PD-Alliance for Change 39.4%, LSI 6.8%, PSD 2.3%, other 2.8%; seats by party/coalition - PS 74, PD-Alliance for Change 59, LSI 4, PSD 3; composition - men 90, women 50, percentage 35.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 19 judges, including the chief justice); Constitutional Court (consists of 9 judges, including the chairman)<br>
@@ -399,29 +399,29 @@ future hopeful EU member state; oil and gas exporter but investing toward a &ldq
 $43.032 billion (2022 est.)<br>
 $41.039 billion (2021 est.)<br>
 $37.682 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.86% (2022 est.)<br>
 8.91% (2021 est.)<br>
 -3.3% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $15,500 (2022 est.)<br>
 $14,600 (2021 est.)<br>
 $13,300 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $18.916 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 6.73% (2022 est.)<br>
 2.04% (2021 est.)<br>
 1.62% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B1 (2021)<br>
@@ -442,24 +442,25 @@ _exports of goods and services_: 31.5% (2017 est.)<br>
 _imports of goods and services_: -46.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, maize, tomatoes, potatoes, watermelons, wheat, grapes, cucumbers, onions, apples<br>
+milk, maize, tomatoes, potatoes, watermelons, wheat, grapes, olives, cucumbers/gherkins, onions (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 food; footwear, apparel and clothing; lumber, oil, cement, chemicals, mining, basic metals, hydropower<br>
 
 **Industrial production growth rate**<br>
 7.86% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 1.405 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 11.63% (2022 est.)<br>
 12.59% (2021 est.)<br>
 12.83% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 27.8% (2021 est.)<br>
@@ -468,22 +469,22 @@ _female_: 27.6%<br>
 
 **Population below poverty line**<br>
 22% (2020 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 29.4 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
 _highest 10%_: 22.8% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 9.23% of GDP (2022 est.)<br>
 9.58% of GDP (2021 est.)<br>
 9.67% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $4.19 billion (2019 est.)<br>
@@ -496,11 +497,11 @@ _expenditures_: $4.489 billion (2019 est.)<br>
 82.38% of GDP (2021 est.)<br>
 83.89% of GDP (2020 est.)<br>
 75.7% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 18.2% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -509,38 +510,41 @@ calendar year<br>
 -$1.117 billion (2022 est.)<br>
 -$1.37 billion (2021 est.)<br>
 -$1.315 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $7.057 billion (2022 est.)<br>
 $5.612 billion (2021 est.)<br>
 $3.461 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Italy 45%, Spain 8%, Germany 6%, Greece 5%, France 4%, China 4% (2019)<br>
+Italy 41%, Greece 10%, Spain 7%, Germany 5%, China 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-leather footwear and parts, electricity, crude petroleum, iron alloys, clothing, insulated wiring (2021)<br>
-<strong>note:</strong> Albanian cannabis production remains a significant illicit trade export<br>
+garments, footwear, iron alloys, electricity, crude petroleum (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $9.016 billion (2022 est.)<br>
 $8.004 billion (2021 est.)<br>
 $5.671 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Italy 28%, Greece 12%, China 11%, Turkey 9%, Germany 5% (2019)<br>
+Italy 25%, Turkey 14%, Greece 12%, China 10%, Germany 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, tanned hides, packaged medical supplies, footwear parts (2019)<br>
+refined petroleum, garments, electricity, cars, raw iron bars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $5.266 billion (2022 est.)<br>
 $5.635 billion (2021 est.)<br>
 $4.817 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $9.311 billion (2019 est.)<br>

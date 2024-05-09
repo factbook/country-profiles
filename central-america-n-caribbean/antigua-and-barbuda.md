@@ -306,7 +306,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (17 seats; members appointed by the governor general on the advice of the prime minister and leader of the opposition; members served 5-year terms)<br>House of Representatives (19 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms; in addition, 1 ex-officio seat is allocated for the attorney general and 1 seat for the speaker of the House - elected by the House membership following its first post-election session)<br>
 _elections_: Senate - last appointed on 17 February 2023 (next appointments in 2028)<br>House of Representatives - last held on 18 January 2023 (next to be held in March 2028)<br>
-_election results_: Senate - composition as of February 2024 - men 10, women 7, percentage women 41.2%<br><br>House of Representatives - percent of vote by party - ABLP 47.1%, UPP 45.2%, BPM 1.5%, independent 5.2%; seats by party - ABLP 9, UPP 6, BPM 1, independent 1; composition as of February 2024 - men 17, women 1, percentage women 5.6%; total Parliament percentage women 22.9%<br>
+_election results_: Senate - composition - men 10, women 7, percentage women 41.2%<br><br>House of Representatives - percent of vote by party - ABLP 47.1%, UPP 45.2%, BPM 1.5%, independent 5.2%; seats by party - ABLP 9, UPP 6, BPM 1, independent 1; composition - men 17, women 1, percentage women 5.6%; total Parliament percentage women 22.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Antigua and Barbuda<br>
@@ -354,29 +354,29 @@ dual island-tourism and construction-driven economy; emerging &ldquo;blue econom
 $2.093 billion (2022 est.)<br>
 $1.911 billion (2021 est.)<br>
 $1.766 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 9.52% (2022 est.)<br>
 8.19% (2021 est.)<br>
 -18.88% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $22,300 (2022 est.)<br>
 $20,500 (2021 est.)<br>
 $19,100 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.868 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 7.53% (2022 est.)<br>
 2.06% (2021 est.)<br>
 0.63% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.8% (2017 est.)<br>
@@ -392,30 +392,24 @@ _exports of goods and services_: 73.9% (2017 est.)<br>
 _imports of goods and services_: -66.5% (2017 est.)<br>
 
 **Agricultural products**<br>
-tropical fruit, milk, mangoes/guavas, melons, tomatoes, pineapples, lemons, limes, eggplants, onions<br>
+tropical fruits, milk, mangoes/guavas, eggs, lemons/limes, pumpkins/squash, vegetables, sweet potatoes, cassava, yams (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, construction, light manufacturing (clothing, alcohol, household appliances)<br>
 
 **Industrial production growth rate**<br>
 3.16% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Unemployment rate**<br>
 11% (2014 est.)<br>
-
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Remittances**<br>
 1.85% of GDP (2022 est.)<br>
 2.83% of GDP (2021 est.)<br>
 2.57% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $278 million (2020 est.)<br>
@@ -438,37 +432,41 @@ _expenditures_: $357 million (2020 est.)<br>
 -$284.522 million (2022 est.)<br>
 -$243.68 million (2021 est.)<br>
 -$230.679 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $1.021 billion (2022 est.)<br>
 $752.375 million (2021 est.)<br>
 $591.276 million (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Suriname 20%, Barbados 17%, Poland 12%, United Kingdom 10%, France 7% (2021)<br>
+Suriname 28%, Poland 20%, Germany 13%, UK 8%, Barbados 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, ships, gas turbines, aircraft parts, lobster, durum wheat (2021)<br>
+refined petroleum, ships, gas turbines, soybean meal, liquor (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $1.176 billion (2022 est.)<br>
 $866.971 million (2021 est.)<br>
 $739.747 million (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 42%, Poland 25%, China 10%, Brazil 3%, Trinidad and Tobago 2% (2021)<br>
+US 57%, China 7%, Spain 4%, Brazil 4%, Finland 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, ships, recreational boats, cars, poultry&nbsp; (2021)<br>
+refined petroleum, ships, engine parts, plastic products, cars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $396.506 million (2022 est.)<br>
 $367.512 million (2021 est.)<br>
 $221.809 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $441.2 million (31 December 2012)<br>

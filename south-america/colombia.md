@@ -355,7 +355,7 @@ _election results_: <em><br>2022:</em> Gustavo Francisco PETRO Urrego elected pr
 **Legislative branch**<br>
 _description_: bicameral Congress or Congreso consists of:<br>Senate or Senado (108 seats; 100 members elected in a single nationwide constituency by party-list proportional representation vote, 2 members elected in a special nationwide constituency for indigenous communities, 5 members of the Commons political party, formerly the People's Alternative Revolutionary Force (FARC), for 2 legislative terms only: 2018-2022 and 2022-2026 as per the 2016 peace accord, and 1 seat reserved for the runner-up presidential candidate in the recent election; all members serve 4-year terms)<br> <p>Chamber of Representatives or Camara de Representantes (188 seats; 162 members elected in multi-seat constituencies by party-list proportional representation vote, 2 members elected in a special nationwide constituency for Afro-Colombians, 1 member elected by Colombians residing abroad, 1 member elected in a special nationwide constituency for the indigenous communities, 5 members of the Commons political party for two legislative terms only: 2018-2022 and 2022-2026 as per the 2016 peace accord, 16 seats for rural conflict victims for two legislative terms only: 2022-2026 and 2026-2030, and 1 seat reserved for the runner-up vice presidential candidate in the recent election; all members serve 4-year terms)</p><br>
 _elections_: Senate - last held on 13 March 2022 (next to be held in March 2026)<br>Chamber of Representatives - last held on 13 March 2022 (next to be held in March 2026)<br>
-_election results_: Senate - percent of vote by party/coalition - PHxC 16.9%, PC 13.1%, PL 12.4%, Green Alliance and Center Hope Coalition 11.5%, CD 11.4%, CR 9.4%, U Party 8.8%, MIRA–Colombia Free and Just Coalition 3.4%, other 13.1%; seats by party/coalition - PHxC- 20, PC 15, PL 14, Green Alliance and Center Hope Coalition 13, CD 13, CR 11, U Party 10, MIRA–Colombia Free and Just Coalition 4; composition as of March 2024 - men 73, women 33, percentage women 31.1%<br><br>Chamber of Representatives - percent of vote by party/coalition- PHxC 17.6%, PL 14%, PC 12.4%, CD 10.2% U Party 8.6%, CR 7.9%, Green Alliance 6.5%, others 22.4%; seats by party/coalition - PL 32,  PHxC 27, CP 25, CD 16, CR 16, U Party 15, Green Alliance and Center Hope Coalition 11, others 24; composition as of March 2024 - men 133, women 54, percentage women 28.9%; total Congress percentage women 29.7%<br>
+_election results_: Senate - percent of vote by party/coalition - PHxC 16.9%, PC 13.1%, PL 12.4%, Green Alliance and Center Hope Coalition 11.5%, CD 11.4%, CR 9.4%, U Party 8.8%, MIRA–Colombia Free and Just Coalition 3.4%, other 13.1%; seats by party/coalition - PHxC- 20, PC 15, PL 14, Green Alliance and Center Hope Coalition 13, CD 13, CR 11, U Party 10, MIRA–Colombia Free and Just Coalition 4; composition - men 73, women 33, percentage women 31.1%<br><br>Chamber of Representatives - percent of vote by party/coalition- PHxC 17.6%, PL 14%, PC 12.4%, CD 10.2% U Party 8.6%, CR 7.9%, Green Alliance 6.5%, others 22.4%; seats by party/coalition - PL 32,  PHxC 27, CP 25, CD 16, CR 16, U Party 15, Green Alliance and Center Hope Coalition 11, others 24; composition - men 133, women 54, percentage women 28.9%; total Congress percentage women 29.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consists of the Civil-Agrarian and Labor Chambers each with 7 judges, and the Penal Chamber with 9 judges); Constitutional Court (consists of 9 magistrates); Council of State (consists of 27 judges); Superior Judiciary Council (consists of 13 magistrates)<br>
@@ -411,29 +411,29 @@ prior to COVID-19, one of the most consistent growth economies; declining povert
 $810.104 billion (2022 est.)<br>
 $755.295 billion (2021 est.)<br>
 $680.347 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 7.26% (2022 est.)<br>
 11.02% (2021 est.)<br>
 -7.25% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $15,600 (2022 est.)<br>
 $14,700 (2021 est.)<br>
 $13,400 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $343.622 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 10.18% (2022 est.)<br>
 3.5% (2021 est.)<br>
 2.53% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2020)<br>
@@ -455,24 +455,25 @@ _exports of goods and services_: 14.6% (2017 est.)<br>
 _imports of goods and services_: -19.7% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, milk, oil palm fruit, potatoes, rice, bananas, cassava leaves, plantains, poultry, maize<br>
+sugarcane, oil palm fruit, milk, rice, potatoes, bananas, plantains, maize, chicken, avocados (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 textiles, food processing, oil, clothing and footwear, beverages, chemicals, cement; gold, coal, emeralds<br>
 
 **Industrial production growth rate**<br>
 7.04% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 25.771 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 10.55% (2022 est.)<br>
 13.9% (2021 est.)<br>
 15.98% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 26.4% (2021 est.)<br>
@@ -481,11 +482,11 @@ _female_: 32.8%<br>
 
 **Population below poverty line**<br>
 39.3% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 51.5 (2021 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 19.2% of household expenditures (2018 est.)<br>
@@ -494,13 +495,13 @@ _on alcohol and tobacco_: 3% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2%<br>
 _highest 10%_: 40.2% (2021 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 2.75% of GDP (2022 est.)<br>
 2.7% of GDP (2021 est.)<br>
 2.56% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $94.985 billion (2019 est.)<br>
@@ -513,11 +514,11 @@ _expenditures_: $103.098 billion (2019 est.)<br>
 70.49% of GDP (2022 est.)<br>
 80.37% of GDP (2021 est.)<br>
 91.22% of GDP (2020 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 15.35% (of GDP) (2022 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -526,37 +527,41 @@ calendar year<br>
 -$21.526 billion (2022 est.)<br>
 -$17.951 billion (2021 est.)<br>
 -$9.267 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $73.112 billion (2022 est.)<br>
 $50.907 billion (2021 est.)<br>
 $38.224 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 31%, China 11%, Panama 6%, Ecuador 5% (2019)<br>
+US 26%, Panama 10%, Netherlands 6%, India 4%, Brazil 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, coal, coffee, gold, refined petroleum (2021)<br>
+crude petroleum, coal, coffee, refined petroleum, gold (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $89.54 billion (2022 est.)<br>
 $70.909 billion (2021 est.)<br>
 $51.328 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 27%, China 20%, Mexico 7%, Brazil 6% (2019)<br>
+US 26%, China 25%, Brazil 7%, Mexico 5%, Germany 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, broadcasting equipment, packaged medicines, corn (2019)<br>
+refined petroleum, cars, broadcasting equipment, corn, packaged medicine (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $56.704 billion (2022 est.)<br>
 $58.019 billion (2021 est.)<br>
 $58.499 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $135.644 billion (2019 est.)<br>

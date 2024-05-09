@@ -284,15 +284,8 @@ fish and wool processing; tourism<br>
 **Unemployment rate**<br>
 1% (2016 est.)<br>
 
-**Population below poverty line**<br>
-NA<br>
-
 **Gini Index coefficient - distribution of family income**<br>
 36 (2015)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Budget**<br>
 _revenues_: $67.1 million (FY09/10)<br>
@@ -311,16 +304,20 @@ _expenditures_: $75.3 million (FY09/10)<br>
 $257.3 million (2015 est.)<br>
 
 **Exports - partners**<br>
-Spain 78%, United States 6% (2019)<br>
+Spain 70%, Morocco 9%, US 8%, Namibia 5%, Germany 2% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-mollusks, fish, wool, sheep and goat meats, aircraft parts (2021)<br>
+shellfish, fish, wool, sheep and goat meat, surveying equipment (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports - partners**<br>
-United Kingdom 79%, Netherlands 16% (2019)<br>
+UK 73%, Spain 24%, Netherlands 1%, Ireland 0%, Switzerland 0% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, spark-ignition engines, stone processing machinery, construction vehicles, cars (2019)<br>
+refined petroleum, prefabricated buildings, aircraft, plastic products, iron structures (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Debt - external**<br>
 $0 (2017 est.)<br>

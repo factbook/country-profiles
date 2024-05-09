@@ -371,7 +371,7 @@ _election results_: <br><em>2020</em>: John MAGUFULI reelected president; percen
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Parliament (Bunge) (393 seats; 264 members directly elected in single-seat constituencies by simple majority vote, 113 women indirectly elected by proportional representation vote, 5 indirectly elected by simple majority vote by the Zanzibar House of Representatives, 10 appointed by the president, and 1 seat reserved for the attorney general; members serve 5-year terms); note - in addition to enacting laws that apply to the entire United Republic of Tanzania, the National Assembly enacts laws that apply only to the mainland; Zanzibar has its own House of Representatives or Baraza La Wawakilishi (82 seats; 50 members directly elected in single-seat constituencies by simple majority vote, 20 women directly elected by proportional representation vote, 10 appointed by the Zanzibar president, 1 seat for the House speaker, and 1 ex-officio seat for the attorney general; elected members serve a 5-year term)<br>
 _elections_: Tanzania National Assembly and Zanzibar House of Representatives - last held on 28 October 2020 (next to be held in October 2025)<br>
-_election results_: National Assembly - percent of vote by party - NA; seats by party - CCM 350, Chadema 20, ACT-Wazalendo 4, CUF 3; composition as of February 2024 - men 246, women 147, percentage women 37.4%<br><br>Zanzibar House of Representatives - percent of vote by party - NA; seats by party - CCM 69, ACT-Wazalendo 6, TADEA 1, other 1; composition as of February 2024 - men 48, women 29, percentage women 37.7%<br>
+_election results_: National Assembly - percent of vote by party - NA; seats by party - CCM 350, Chadema 20, ACT-Wazalendo 4, CUF 3; composition - men 246, women 147, percentage women 37.4%<br><br>Zanzibar House of Representatives - percent of vote by party - NA; seats by party - CCM 69, ACT-Wazalendo 6, TADEA 1, other 1; composition - men 48, women 29, percentage women 37.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal of the United Republic of Tanzania (consists of the chief justice and 14 justices); High Court of the United Republic for Mainland Tanzania (consists of the principal judge and 30 judges organized into commercial, land, and labor courts); High Court of Zanzibar (consists of the chief justice and 10 justices)<br>
@@ -423,29 +423,29 @@ emerging lower middle-income East African economy; resource-rich and growing tou
 $166.597 billion (2022 est.)<br>
 $159.334 billion (2021 est.)<br>
 $152.734 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.56% (2022 est.)<br>
 4.32% (2021 est.)<br>
 1.99% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $2,600 (2022 est.)<br>
 $2,600 (2021 est.)<br>
 $2,600 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $75.732 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4.35% (2022 est.)<br>
 3.69% (2021 est.)<br>
 3.29% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B2 (2020)<br>
@@ -465,24 +465,25 @@ _exports of goods and services_: 18.1% (2017 est.)<br>
 _imports of goods and services_: -20.5% (2017 est.)<br>
 
 **Agricultural products**<br>
-cassava, maize, sweet potatoes, sugar cane, rice, bananas, vegetables, milk, beans, sunflower seed<br>
+cassava, maize, sweet potatoes, sugarcane, bananas, milk, rice, vegetables, beans, sunflower seeds (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 agricultural processing (sugar, beer, cigarettes, sisal twine); mining (diamonds, gold, and iron), salt, soda ash; cement, oil refining, shoes, apparel, wood products, fertilizer<br>
 
 **Industrial production growth rate**<br>
 4.3% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 30.096 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 2.6% (2022 est.)<br>
 2.87% (2021 est.)<br>
 2.78% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 4.6% (2021 est.)<br>
@@ -491,11 +492,11 @@ _female_: 5.5%<br>
 
 **Population below poverty line**<br>
 26.4% (2018 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 40.5 (2018 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 33.1% of household expenditures (2018 est.)<br>
@@ -504,13 +505,13 @@ _on alcohol and tobacco_: 4.2% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
 _highest 10%_: 33.1% (2018 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.92% of GDP (2022 est.)<br>
 0.79% of GDP (2021 est.)<br>
 0.49% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $8.968 billion (2019 est.)<br>
@@ -525,7 +526,7 @@ _expenditures_: $10.017 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 11.7% (of GDP) (2018 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
@@ -534,37 +535,41 @@ note: central government tax revenue as a % of GDP<br>
 -$1.122 billion (2020 est.)<br>
 -$1.512 billion (2019 est.)<br>
 -$2.262 billion (2018 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $8.555 billion (2020 est.)<br>
 $9.659 billion (2019 est.)<br>
 $8.307 billion (2018 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-India 15%, United Arab Emirates 15%, Switzerland 14%, Uganda 12%, China 7% (2020)<br>
+India 27%, UAE 11%, South Africa 9%, Kenya 5%, Rwanda 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, cashews, copper, precious metals, legumes (2020)<br>
+gold, raw copper, refined copper, copper ore, coconuts/Brazil nuts/cashews (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $9.181 billion (2020 est.)<br>
 $10.576 billion (2019 est.)<br>
 $10.399 billion (2018 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 34%, Democratic Republic of the Congo 14%, India 12%, United Arab Emirates 6%, South Africa 3% (2020)<br>
+China 30%, India 18%, UAE 11%, Democratic Republic of the Congo 5%, Saudi Arabia 2% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-copper, refined petroleum, packaged medicines, palm oil, wheat (2020)<br>
+refined petroleum, refined copper, garments, fertilizers, plastics (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $5.05 billion (2018 est.)<br>
 $5.888 billion (2017 est.)<br>
 $4.351 billion (2016 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $22.054 billion (2019 est.)<br>

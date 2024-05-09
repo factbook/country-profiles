@@ -272,7 +272,7 @@ _elections/appointments_: the monarchy is hereditary; governor appointed by the 
 **Legislative branch**<br>
 _description_: unicameral Parliament (21 seats; 19 members directly elected by majority vote and 2 ex-officio members - the deputy governor and attorney general - appointed by the governor; members serve 4-year terms)<br>
 _elections_: last held on 14 April 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party - independent 79.1%, PPM 19.6%; elected seats by party - independent 12, PPM 7; ex-officio members 2; composition as of April 2023 - men 16, women 5, percentage women 23.8%<br>
+_election results_: percent of vote by party - independent 79.1%, PPM 19.6%; elected seats by party - independent 12, PPM 7; ex-officio members 2; composition - men 16, women 5, percentage women 23.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and at least 2 judges); Grand Court (consists of the court president and at least 2 judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -311,29 +311,29 @@ dominant offshore banking territory; services sector accounts for over 85% of ec
 $4.902 billion (2022 est.)<br>
 $4.729 billion (2021 est.)<br>
 $4.546 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.67% (2022 est.)<br>
 4.03% (2021 est.)<br>
 -5.11% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $71,400 (2022 est.)<br>
 $69,400 (2021 est.)<br>
 $67,500 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $6.845 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 2% (2017 est.)<br>
 -0.63% (2016 est.)<br>
 -2.35% (2015 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Aa3 (1997)<br>
@@ -360,7 +360,7 @@ tourism, banking, insurance and finance, construction, construction materials, f
 
 **Industrial production growth rate**<br>
 6.89% (2021 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 39,000 (2007 est.)<br>
@@ -375,18 +375,11 @@ _total_: 13.8% (2015 est.)<br>
 _male_: 16.4%<br>
 _female_: 11.4%<br>
 
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 0.13% of GDP (2022 est.)<br>
 0.15% of GDP (2021 est.)<br>
 0.16% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $874.5 million (2017 est.)<br>
@@ -405,37 +398,41 @@ _expenditures_: $766.6 million (2017 est.)<br>
 -$821.404 million (2021 est.)<br>
 -$827.492 million (2020 est.)<br>
 -$646.843 million (2019 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $4.054 billion (2021 est.)<br>
 $3.951 billion (2020 est.)<br>
 $4.205 billion (2019 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Netherlands 82%, Spain 11% (2019)<br>
+Malta 30%, Norway 22%, Seychelles 16%, Grenada 8%, US 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-recreational boats, aircraft, ships, gold, refined petroleum, natural gas (2021)<br>
+ships, aircraft, refined petroleum, natural gas, broadcasting equipment (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $2.743 billion (2021 est.)<br>
 $2.51 billion (2020 est.)<br>
 $2.743 billion (2019 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Netherlands 56%, United States 18%, Italy 8%, Switzerland 5% (2019)<br>
+US 47%, Italy 19%, Turkey 7%, Germany 6%, Switzerland 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-recreational boats, ships, gold, refined petroleum, cars (2019)<br>
+ships, refined petroleum, diamonds, cars, gold (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $216.8 million (2020 est.)<br>
 $183.5 million (2019 est.)<br>
 $162.074 million (2018 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Caymanian dollars (KYD) per US dollar -<br>

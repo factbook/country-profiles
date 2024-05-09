@@ -353,7 +353,7 @@ _election results_: <em><br>2021: </em>Yoweri Kaguta MUSEVENI reelected presiden
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Parliament (556 seats; 353 members directly elected in single-seat constituencies by simple majority vote, 146 for women directly elected in single-seat districts by simple majority vote, and 30 "representatives" reserved for special interest groups - army 10, disabled 5, youth 5, labor 5, older persons 5; 27 ex officio members appointed by the president; members serve 5-year terms)<br>
 _elections_: last held on 14 January 2021 (next to be held in February 2026)<br>
-_election results_: percent of vote by party - NA; seats by party - NRM 336, NUP 57, FDC 32, DP 9, UPDF 10, UPC 9, independent 76 (excludes 27 ex-officio members); composition as of February 2024 - men 368, women 189, percentage women 33.9%<br>
+_election results_: percent of vote by party - NA; seats by party - NRM 336, NUP 57, FDC 32, DP 9, UPDF 10, UPC 9, independent 76 (excludes 27 ex-officio members); composition- men 368, women 189, percentage women 33.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Uganda (consists of the chief justice and at least 6 justices)<br>
@@ -405,29 +405,29 @@ low-income, primarily agrarian East African economy; COVID-19 hurt economic grow
 $107.733 billion (2022 est.)<br>
 $103.007 billion (2021 est.)<br>
 $99.488 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.59% (2022 est.)<br>
 3.54% (2021 est.)<br>
 2.95% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $2,300 (2022 est.)<br>
 $2,200 (2021 est.)<br>
 $2,200 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $45.567 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 7.2% (2022 est.)<br>
 2.2% (2021 est.)<br>
 3.31% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2015)<br>
@@ -449,24 +449,25 @@ _exports of goods and services_: 18.8% (2017 est.)<br>
 _imports of goods and services_: -25.1% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, plantains, cassava, maize, sweet potatoes, milk, vegetables, beans, bananas, sorghum<br>
+plantains, sugarcane, maize, cassava, milk, sweet potatoes, beans, vegetables, rice, coffee (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 sugar processing, brewing, tobacco, cotton textiles; cement, steel production<br>
 
 **Industrial production growth rate**<br>
 5.13% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 18.243 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 2.94% (2022 est.)<br>
 3.42% (2021 est.)<br>
 3.81% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 4.3% (2021 est.)<br>
@@ -475,11 +476,11 @@ _female_: 5.3%<br>
 
 **Population below poverty line**<br>
 20.3% (2019 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 42.7 (2019 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 44.2% of household expenditures (2018 est.)<br>
@@ -488,13 +489,13 @@ _on alcohol and tobacco_: 1% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.4%<br>
 _highest 10%_: 34.5% (2019 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 2.79% of GDP (2022 est.)<br>
 2.67% of GDP (2021 est.)<br>
 2.82% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $5.088 billion (2019 est.)<br>
@@ -507,11 +508,11 @@ _expenditures_: $6.896 billion (2019 est.)<br>
 51.3% of GDP (2021 est.)<br>
 44.19% of GDP (2020 est.)<br>
 38.48% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 12.46% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
@@ -520,37 +521,41 @@ note: central government tax revenue as a % of GDP<br>
 -$3.821 billion (2022 est.)<br>
 -$4.095 billion (2021 est.)<br>
 -$3.657 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $6.058 billion (2022 est.)<br>
 $6.174 billion (2021 est.)<br>
 $5.563 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United Arab Emirates 58%, Kenya 9% (2019)<br>
+UAE 31%, India 12%, Hong Kong 9%, Kenya 8%, Italy 7% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, coffee, milk, fish and fish products, tobacco (2019)<br>
+gold, coffee, fish, milk, raw sugar (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $11.145 billion (2022 est.)<br>
 $10.686 billion (2021 est.)<br>
 $10.209 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 19%, India 17%, Kenya 16%, United Arab Emirates 7%, Japan 5% (2019)<br>
+China 23%, Kenya 15%, India 13%, UAE 7%, Tanzania 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-packaged medicines, aircraft, delivery trucks, cars, wheat (2019)<br>
+vaccines, packaged medicine, plastic products, cars, motorcycles and cycles (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $3.359 billion (2018 est.)<br>
 $3.721 billion (2017 est.)<br>
 $3.098 billion (2016 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $13.85 billion (2019 est.)<br>

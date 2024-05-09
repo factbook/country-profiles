@@ -5,7 +5,7 @@ _North America / Dependencies (France)_
 ## Introduction
 
 **Background**<br>
-First settled by the French in the early 17th century, the islands represent the sole remaining vestige of France's once vast North American possessions. They attained the status of an overseas collectivity in 2003.<br>
+First settled by the French in the early 17th century, Saint Pierre and Miquelon are the sole remaining vestige of France's once vast North American possessions. They attained the status of an overseas collectivity in 2003.<br>
 
 ## Geography
 
@@ -329,13 +329,6 @@ fish processing and supply base for fishing fleets; tourism<br>
 8.7% (2015 est.)<br>
 9.9% (2008 est.)<br>
 
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Budget**<br>
 _revenues_: $70 million (1996 est.)<br>
 _expenditures_: $60 million (1996 est.)<br>
@@ -347,16 +340,20 @@ _expenditures_: $60 million (1996 est.)<br>
 calendar year<br>
 
 **Exports - partners**<br>
-Canada 79%, France 8%, Belgium 6% (2019)<br>
+Canada 84%, France 11%, Ireland 3%, Slovakia 1%, Democratic Republic of the Congo 0% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crustaceans, fish, medical instruments, electrical parts, pasta (2019)<br>
+processed crustaceans, shellfish, fish, special purpose motor vehicles, vehicle parts/accessories (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports - partners**<br>
-France 69%, Canada 22% (2019)<br>
+France 52%, Canada 42%, Netherlands 2%, Germany 1%, Belgium 1% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-food preparation, packaged medicines, low-voltage protection equipment, cars, computers, iron structures (2019)<br>
+refined petroleum, packaged medicine, other foods, plastic products, cars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Debt - external**<br>
 <p>NA</p><br>

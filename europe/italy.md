@@ -339,7 +339,7 @@ _election results_: <br><em>2022:</em> Sergio MATTARELLA (independent) reelected
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlamento consists of:<br>Senate or Senato della Repubblica (200 elected seats; 122 members in multi-seat constituencies directly elected by proportional representation vote, 74 members in single-seat constituencies directly elected by plurality vote, and 4 members in multi-seat constituencies abroad directly elected by proportional representation vote; all members serve 5-year terms)<br>Chamber of Deputies or Camera dei Deputati (400 seats; 245 members directly elected in multi-seat constituencies by proportional representation vote; 147 members directly elected in single-seat constituencies by plurality vote and 8 members in multi-seat constituencies abroad directly elected by proportional representation vote; members serve 5-year terms)<br>
 _elections_: Senate - last held on 25 September 2022 (next to be held no later than December 2027)<br>Chamber of Deputies - last held on 25 September 2022; note - snap elections were called when Prime Minister DRAGHI resigned and the parliament was dissolved on 21 July 2022 (next to be held on 30 September 2027)<br>
-_election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - center-right coalition 113 (FdI 65, Lega 30, FI 18), center-left coalition 43 (PD 40, AVS 3), M5S 28, Action-Italia Viva 9, SVP 2, MAIE 1, ScN 1; composition as of February 2024 - men 131, women 74, percentage women 36.1%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - center-right coalition 230 (FdI 119, Lega 66, FI 45), center-left coalition 83 (PD 69, AVS 12, +EU 2), M5S 52, Action-Italia Viva 21, SVP 3, MAIE 1, ScN 1; composition as of February 2024 - men 271, women 129, percentage women 32.3%; total Parliament percentage women 33.6%<br>
+_election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - center-right coalition 113 (FdI 65, Lega 30, FI 18), center-left coalition 43 (PD 40, AVS 3), M5S 28, Action-Italia Viva 9, SVP 2, MAIE 1, ScN 1; composition - men 131, women 74, percentage women 36.1%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - center-right coalition 230 (FdI 119, Lega 66, FI 45), center-left coalition 83 (PD 69, AVS 12, +EU 2), M5S 52, Action-Italia Viva 21, SVP 3, MAIE 1, ScN 1; composition - men 271, women 129, percentage women 32.3%; total Parliament percentage women 33.6%<br>
 <strong>note</strong>: in October 2019, Italy's Parliament voted to reduce the number of Senate seats from 315 to 200 and the number of Chamber of Deputies seats from 630 to 400; a referendum to reduce the membership of Parliament held on 20-21 September 2020 was approved, effective for the September 2022 snap election<br>
 
 **Judicial branch**<br>
@@ -396,29 +396,29 @@ core EU economy; strong services, manufacturing, and tourism sectors; hard hit b
 $2.611 trillion (2022 est.)<br>
 $2.517 trillion (2021 est.)<br>
 $2.324 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.72% (2022 est.)<br>
 8.31% (2021 est.)<br>
 -8.97% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $44,300 (2022 est.)<br>
 $42,600 (2021 est.)<br>
 $39,100 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $2.05 trillion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8.2% (2022 est.)<br>
 1.87% (2021 est.)<br>
 -0.14% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2020)<br>
@@ -440,24 +440,25 @@ _exports of goods and services_: 31.4% (2017 est.)<br>
 _imports of goods and services_: -28.3% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, grapes, wheat, maize, tomatoes, apples, olives, sugar beets, oranges, rice<br>
+milk, grapes, wheat, tomatoes, maize, apples, olives, oranges, potatoes, pork (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, machinery, iron and steel, chemicals, food processing, textiles, motor vehicles, clothing, footwear, ceramics<br>
 
 **Industrial production growth rate**<br>
 1.9% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 25.342 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 8.07% (2022 est.)<br>
 9.5% (2021 est.)<br>
 9.16% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 30.9% (2021 est.)<br>
@@ -466,11 +467,11 @@ _female_: 33.8%<br>
 
 **Population below poverty line**<br>
 20.1% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 35.2 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 14.2% of household expenditures (2018 est.)<br>
@@ -479,13 +480,13 @@ _on alcohol and tobacco_: 4.1% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1%<br>
 _highest 10%_: 26.1% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.51% of GDP (2022 est.)<br>
 0.49% of GDP (2021 est.)<br>
 0.52% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $901.494 billion (2020 est.)<br>
@@ -501,7 +502,7 @@ _expenditures_: $1.08 trillion (2020 est.)<br>
 
 **Taxes and other revenues**<br>
 24.93% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -510,37 +511,41 @@ calendar year<br>
 -$30.222 billion (2022 est.)<br>
 $52.543 billion (2021 est.)<br>
 $75.097 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $751.092 billion (2022 est.)<br>
 $690.534 billion (2021 est.)<br>
 $559.952 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 12%, France 11%, United States 10%, United Kingdom 5%, Spain 5%, Switzerland 5% (2019)<br>
+Germany 12%, US 11%, France 10%, Spain 5%, UK 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-packaged medicines, cars and vehicle parts, refined petroleum, vaccines and cultures, jewelry, valves (2021)<br>
+packaged medicine, refined petroleum, garments, cars, vehicle parts/accessories (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $781.083 billion (2022 est.)<br>
 $642.948 billion (2021 est.)<br>
 $490.684 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 16%, France 9%, China 7%, Spain 5%, Netherlands 5%, Belgium 5% (2019)<br>
+Germany 14%, France 8%, China 8%, Netherlands 5%, Spain 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, cars, packaged medicines, natural gas, refined petroleum (2019)<br>
+natural gas, crude petroleum, cars, packaged medicine, garments (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $224.581 billion (2022 est.)<br>
 $227.478 billion (2021 est.)<br>
 $210.687 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2,463,208,000,000 (2019 est.)<br>

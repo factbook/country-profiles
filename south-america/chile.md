@@ -342,7 +342,7 @@ _election results_: <br><em>2021: </em>Gabriel BORIC elected president in secon
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (50 seats); members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 8-year terms with one-half of the membership renewed every 4 years)<br>Chamber of Deputies or Camara de Diputados (155 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 4-year terms)<br>
 _elections_: Senate - last held on 21 November 2021 (next to be held on 23 November 2025)<br>Chamber of Deputies - last held on 21 November 2021 (next to be held on 23 November 2025)<br>
-_election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - ChP+ 12 (RN 5, UDI 5, EVOPOLI 2), NPS 8 (PS 4, PPD 2, PDC 2), AD 4 (PCCh 2, FREVS 2), PLR 1, independent 2; composition as of March 2024 - men 37, women 13, percentage women 26%<br><br>Chamber of Deputies - percent of vote by party/coalition - NA; seats by party/coalition - ChP+ 53 (RN 25, UDI 23, EVOPOLI 4, PRI 1), AD 37 (PCCh 12, CS 9, RD 8, Commons 6, FREVS 2), NPS 37 (PS 13, PDC 8, PPD 7, PL 4, PRSD 4, CIU 1), FSC 15 (PLR 14, PCC 1), PDG 6, PH 3, PEV 2, IU 1, independent 1; composition as of March 2024 - men 100, women 55, percentage women 35.5%; total National Congress percentage women 33.2% as of January 2024<br>
+_election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - ChP+ 12 (RN 5, UDI 5, EVOPOLI 2), NPS 8 (PS 4, PPD 2, PDC 2), AD 4 (PCCh 2, FREVS 2), PLR 1, independent 2; composition - men 37, women 13, percentage women 26%<br><br>Chamber of Deputies - percent of vote by party/coalition - NA; seats by party/coalition - ChP+ 53 (RN 25, UDI 23, EVOPOLI 4, PRI 1), AD 37 (PCCh 12, CS 9, RD 8, Commons 6, FREVS 2), NPS 37 (PS 13, PDC 8, PPD 7, PL 4, PRSD 4, CIU 1), FSC 15 (PLR 14, PCC 1), PDG 6, PH 3, PEV 2, IU 1, independent 1; composition - men 100, women 55, percentage women 35.5%; total National Congress percentage women 33.2% as of January 2024<br>
 <strong>note:</strong> Senate seats by party/coalition as of May 2022 - ChP+ 24 (RN 12, UDI 9, EVOPOLI 3), NPS 18 (PS 7, PPD 6, PDC 5), AD 6 (PCCh 2, FREVS 2, RD 2), PLR 1, independent 1;<br>
 
 **Judicial branch**<br>
@@ -397,29 +397,29 @@ export-driven economy; leading copper producer; though hit by COVID-19, fairly q
 $507.465 billion (2022 est.)<br>
 $495.375 billion (2021 est.)<br>
 $443.339 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.44% (2022 est.)<br>
 11.74% (2021 est.)<br>
 -6.15% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $25,900 (2022 est.)<br>
 $25,400 (2021 est.)<br>
 $23,000 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $301.025 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 11.64% (2022 est.)<br>
 4.52% (2021 est.)<br>
 3.05% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A- (2020)<br>
@@ -441,24 +441,25 @@ _exports of goods and services_: 28.7% (2017 est.)<br>
 _imports of goods and services_: -27% (2017 est.)<br>
 
 **Agricultural products**<br>
-grapes, apples, wheat, sugar beet, milk, potatoes, tomatoes, maize, poultry, pork<br>
+grapes, milk, apples, wheat, potatoes, chicken, tomatoes, sugar beets, maize, oats (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 copper, lithium, other minerals, foodstuffs, fish processing, iron and steel, wood and wood products, transport equipment, cement, textiles<br>
 
 **Industrial production growth rate**<br>
 -1.67% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 9.63 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 8.25% (2022 est.)<br>
 9.28% (2021 est.)<br>
 10.94% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 21.4% (2021 est.)<br>
@@ -467,11 +468,11 @@ _female_: 22.8%<br>
 
 **Population below poverty line**<br>
 10.8% (2020 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 44.9 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 16% of household expenditures (2018 est.)<br>
@@ -480,13 +481,13 @@ _on alcohol and tobacco_: 2.9% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1%<br>
 _highest 10%_: 35.8% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.02% of GDP (2022 est.)<br>
 0.02% of GDP (2021 est.)<br>
 0.03% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $55.16 billion (2020 est.)<br>
@@ -501,7 +502,7 @@ _expenditures_: $73.176 billion (2020 est.)<br>
 
 **Taxes and other revenues**<br>
 19.6% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -510,37 +511,41 @@ calendar year<br>
 -$27.102 billion (2022 est.)<br>
 -$23.193 billion (2021 est.)<br>
 -$4.952 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $107.078 billion (2022 est.)<br>
 $100.747 billion (2021 est.)<br>
 $79.579 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 32%, United States 14%, Japan 9%, South Korea 7% (2019)<br>
+China 39%, US 14%, Japan 8%, South Korea 6%, Brazil 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-copper, fish fillets, wood pulp, pitted fruits, wine (2021)<br>
+copper ore, refined copper, carbonates, fish, raw copper (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $118.094 billion (2022 est.)<br>
 $102.595 billion (2021 est.)<br>
 $68.134 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 24%, United States 20%, Brazil 8%, Germany 5%, Argentina 5% (2019)<br>
+China 26%, US 22%, Brazil 10%, Argentina 5%, Germany 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, crude petroleum, cars, broadcasting equipment, delivery trucks (2019)<br>
+refined petroleum, cars, crude petroleum, garments, trucks (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $39.102 billion (2022 est.)<br>
 $51.252 billion (2021 est.)<br>
 $39.166 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $193.298 billion (2019 est.)<br>

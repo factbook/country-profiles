@@ -361,7 +361,7 @@ _elections/appointments_: the monarchy is hereditary; prime minister candidate a
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Ratthasapha consists of:<br>Senate or Wuthisapha (currently 250 seats; members appointed by the National Council for Peace and Order to serve 5-year terms; the Senate appointed in 2024 will consist of 200 members elected from various groups of professionals for a 5-year term)<br>House of Representatives or Saphaphuthan Ratsadon (500 seats; 400 members directly elected in single-seat constituencies by simple majority vote and 100 members elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: Senate - last selections held on 14 May 2019 (next to be held in 2024)<br>House of Representatives - last held on 14 May 2023 (next to be held in May 2027)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition as of February 2024 - men 223, women 26, percentage women 10.4%<br><br>House of Representatives - percent of vote by party - MFP 36.2%, PTP 27.7%, UTN 11.9%, PJT 2.9%, DP 2.3%, PPRP 1.4%, PCC 1.5%, other 16%; seats by party - MFP 152, PTP 141, PJT 71, PPRP 41, UTN 36, DP 24, PCC 9, CTP 10, Thai Sang Thai 6, other 11; composition as of February 2024 - 403 men, 97 women, percentage women 19.4%; total National Assembly percentage women 16.4%<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 223, women 26, percentage women 10.4%<br><br>House of Representatives - percent of vote by party - MFP 36.2%, PTP 27.7%, UTN 11.9%, PJT 2.9%, DP 2.3%, PPRP 1.4%, PCC 1.5%, other 16%; seats by party - MFP 152, PTP 141, PJT 71, PPRP 41, UTN 36, DP 24, PCC 9, CTP 10, Thai Sang Thai 6, other 11; composition - 403 men, 97 women, percentage women 19.4%; total National Assembly percentage women 16.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the court president, 6 vice presidents, 60-70 judges, and organized into 10 divisions); Constitutional Court (consists of the court president and 8 judges); Supreme Administrative Court (number of judges determined by Judicial Commission of the Administrative Courts)<br>
@@ -375,7 +375,7 @@ Action Coalition Party or ACP [ANEK Laothammathast]<br>Bhumjaithai Party (aka Ph
 ADB, APEC, ARF, ASEAN, BIMSTEC, BIS, CD, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE (partner), PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMOGIP, UNOOSA, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Tanee SANGRAT (since 12 December 2022)<br>
+_chief of mission_: Ambassador TANEE Sangrat (since 12 December 2022)<br>
 _chancery_: 1024 Wisconsin Avenue NW, Suite 401, Washington, DC 20007<br>
 _telephone_: [1] (202) 944-3600<br>
 _FAX_: [1] (202) 944-3611<br>
@@ -416,29 +416,29 @@ upper middle-income Southeast Asian economy; substantial infrastructure; major e
 $1.255 trillion (2022 est.)<br>
 $1.223 trillion (2021 est.)<br>
 $1.205 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.6% (2022 est.)<br>
 1.49% (2021 est.)<br>
 -6.07% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $17,500 (2022 est.)<br>
 $17,100 (2021 est.)<br>
 $16,900 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $495.423 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 6.08% (2022 est.)<br>
 1.23% (2021 est.)<br>
 -0.85% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB+ (2013)<br>
@@ -460,24 +460,25 @@ _exports of goods and services_: 68.2% (2017 est.)<br>
 _imports of goods and services_: -54.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, cassava, rice, oil palm fruit, rubber, maize, tropical fruit, poultry, pineapples, mangoes/guavas<br>
+sugarcane, rice, cassava, oil palm fruit, maize, rubber, tropical fruits, chicken, pineapples, fruits (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, textiles and garments, agricultural processing, beverages, tobacco, cement, light manufacturing such as jewelry and electric appliances, computers and parts, integrated circuits, furniture, plastics, automobiles and automotive parts, agricultural machinery, air conditioning and refrigeration, ceramics, aluminum, chemical, environmental management, glass, granite and marble, leather, machinery and metal work, petrochemical, petroleum refining, pharmaceuticals, printing, pulp and paper, rubber, sugar, rice, fishing, cassava, world's second-largest tungsten producer and third-largest tin producer<br>
 
 **Industrial production growth rate**<br>
 -0.67% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 40.908 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 0.94% (2022 est.)<br>
 1.21% (2021 est.)<br>
 1.1% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 7% (2021 est.)<br>
@@ -486,11 +487,11 @@ _female_: 8.1%<br>
 
 **Population below poverty line**<br>
 6.3% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 35.1 (2021 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 24.3% of household expenditures (2018 est.)<br>
@@ -499,13 +500,13 @@ _on alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.2%<br>
 _highest 10%_: 27.3% (2021 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 1.8% of GDP (2022 est.)<br>
 1.79% of GDP (2021 est.)<br>
 1.65% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $104.689 billion (2020 est.)<br>
@@ -518,11 +519,11 @@ _expenditures_: $128.581 billion (2020 est.)<br>
 58.56% of GDP (2021 est.)<br>
 50.32% of GDP (2020 est.)<br>
 40.14% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 14.32% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
@@ -531,37 +532,41 @@ note: central government tax revenue as a % of GDP<br>
 -$15.742 billion (2022 est.)<br>
 -$10.268 billion (2021 est.)<br>
 $20.933 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $324.063 billion (2022 est.)<br>
 $295.972 billion (2021 est.)<br>
 $257.981 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 16%, China 13%, Japan 9%, Vietnam 4%, Australia 4% (2021)<br>
+US 17%, China 11%, Japan 8%, Vietnam 4%, Malaysia 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-office machinery/parts, cars and vehicle parts, integrated circuits, delivery trucks, refined petroleum, rubber&nbsp; (2021)<br>
+machine parts, integrated circuits, cars, trucks, vehicle parts/accessories (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $334.478 billion (2022 est.)<br>
 $296.115 billion (2021 est.)<br>
 $232.048 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 28%, Japan 12%, Malaysia 5%, United States 5%, United Arab Emirates 4% (2021)<br>
+China 26%, Japan 11%, UAE 6%, US 5%, Malaysia 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, integrated circuits, gold, natural gas, vehicle parts, broadcasting equipment (2021)<br>
+crude petroleum, integrated circuits, gold, natural gas, vehicle parts/accessories (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $216.501 billion (2022 est.)<br>
 $246.025 billion (2021 est.)<br>
 $258.104 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $167.89 billion (2019 est.)<br>

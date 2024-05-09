@@ -332,10 +332,10 @@ _election results_: <em><br>2020: </em>Gudni Thorlacius JOHANNESSON reelected pr
 **Legislative branch**<br>
 _description_: unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by closed-list proportional representation vote using the D'Hondt method; members serve 4-year terms)<br>
 _elections_: last held on 25 September 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party - IP 25.4%, PP 20.6%, LGM 12.7%, People's Party 9.5%, Pirate Party 9.5%, SDA 9.5%, Reform Party 7.9%, CP 4.8%; seats by party - IP 16, PP 13, LGM 8, People's Party 6, Pirate Party 6, SDA 6, Reform Party 5, CP 3; composition as of February 2024 - men 33, women 30; percentage women 47.6%<br>
+_election results_: percent of vote by party - IP 24.4%, PP 17.3%, LGM 12.6%, People's Party 8.9%, Pirate Party 8.6%, SDA 9.9%, Reform Party 8.3%, CP 5.5%; seats by party - IP 16, PP 13, LGM 8, People's Party 6, Pirate Party 6, SDA 6, Reform Party 5, CP 3; composition - men 33, women 30; percentage women 47.6%<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Haestirettur (consists of 9 judges)<br>
+_highest court(s)_: Supreme Court or Haestirettur (consists of 7 judges)<br>
 _judge selection and term of office_: judges proposed by Ministry of Interior selection committee and appointed by the president; judges appointed for an indefinite period<br>
 _subordinate courts_: Appellate Court or Landsrettur; 8 district courts; Labor Court<br>
 
@@ -385,29 +385,29 @@ high-income European economy; frozen EU accession application but Schengen Area 
 $21.227 billion (2022 est.)<br>
 $19.794 billion (2021 est.)<br>
 $18.94 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 7.24% (2022 est.)<br>
 4.51% (2021 est.)<br>
 -7.22% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $55,600 (2022 est.)<br>
 $53,100 (2021 est.)<br>
 $51,700 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $28.065 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8.31% (2022 est.)<br>
 4.44% (2021 est.)<br>
 2.85% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A (2017)<br>
@@ -429,24 +429,25 @@ _exports of goods and services_: 47% (2017 est.)<br>
 _imports of goods and services_: -42.8% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, mutton, poultry, potatoes, barley, pork, eggs, beef, other meat, sheep skins<br>
+milk, chicken, barley, lamb/mutton, potatoes, pork, beef, eggs, other meats, cucumbers/gherkins (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, fish processing; aluminum smelting; geothermal power, hydropower; medical/pharmaceutical products<br>
 
 **Industrial production growth rate**<br>
 4.27% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 231,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.79% (2022 est.)<br>
 6.03% (2021 est.)<br>
 5.48% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 13.4% (2021 est.)<br>
@@ -455,22 +456,22 @@ _female_: 13.7%<br>
 
 **Population below poverty line**<br>
 8.8% (2017 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 26.1 (2017 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4% NA<br>
-_highest 10%_: 22.1% (2017 est.) NA<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+_lowest 10%_: 4%<br>
+_highest 10%_: 22.1% (2017 est.)<br>
+<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.69% of GDP (2022 est.)<br>
 0.75% of GDP (2021 est.)<br>
 0.77% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $11.776 billion (2018 est.)<br>
@@ -483,11 +484,11 @@ _expenditures_: $11.536 billion (2018 est.)<br>
 88.46% of GDP (2022 est.)<br>
 96.68% of GDP (2021 est.)<br>
 100.61% of GDP (2020 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 23.03% (of GDP) (2022 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -496,37 +497,41 @@ calendar year<br>
 -$577.122 million (2022 est.)<br>
 -$758.255 million (2021 est.)<br>
 $200.648 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $13.044 billion (2022 est.)<br>
 $9.555 billion (2021 est.)<br>
 $7.197 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Netherlands 24%, Spain 10%, Germany 10%, United Kingdom 9%, United States 7% (2021)<br>
+Netherlands 27%, UK 9%, US 8%, Germany 8%, France 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-aluminum and aluminum products, fish fillets, salmon, iron alloys, animal meal (2021)<br>
+fish, aluminum, iron alloys, aluminum wire, animal meal (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $13.146 billion (2022 est.)<br>
 $10.065 billion (2021 est.)<br>
 $7.518 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Norway 11%, Denmark 10%, Netherlands 9%, Germany 9%, China 7% (2021)<br>
+Norway 12%, Netherlands 10%, Denmark 8%, Germany 8%, China 7% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, aluminum oxide, carbon/graphite electronics, cars, packaged medicines (2019)<br>
+refined petroleum, aluminum oxide, cars, carbon-based electronics, aircraft (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $5.887 billion (2022 est.)<br>
 $7.079 billion (2021 est.)<br>
 $6.419 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $19.422 billion (2019 est.)<br>

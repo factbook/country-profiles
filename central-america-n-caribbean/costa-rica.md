@@ -337,7 +337,7 @@ _election results_: <br><em>2022: </em>Rodrigo CHAVES Robles elected president i
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Asamblea Legislativa (57 seats; members directly elected in multi-seat constituencies - corresponding to the country's 7 provinces - by closed party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 6 February 2022 (next to be held in February 2026)<br>
-_election results_: percent of vote by party - PLN 24.8%, PPSD 15%, PUSC 11.4%, PNR 10.1%, PLP 9.1%, 8.3%, other 21.3%; seats by party - PLN 19, PPSD 10, PUSC 9, PNR 7, PLP 6, PFA 6; composition as of March 2024 - men 30, women 27, percentage women 47.4%<br>
+_election results_: percent of vote by party - PLN 24.8%, PPSD 15%, PUSC 11.4%, PNR 10.1%, PLP 9.1%, 8.3%, other 21.3%; seats by party - PLN 19, PPSD 10, PUSC 9, PNR 7, PLP 6, PFA 6; composition - men 30, women 27, percentage women 47.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of 22 judges organized into 3 cassation chambers each with 5 judges and the Constitutional Chamber with 7 judges)<br>
@@ -392,29 +392,29 @@ trade-based upper middle-income economy; green economy leader, having reversed d
 $114.346 billion (2022 est.)<br>
 $109.368 billion (2021 est.)<br>
 $101.327 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.55% (2022 est.)<br>
 7.94% (2021 est.)<br>
 -4.27% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $22,100 (2022 est.)<br>
 $21,200 (2021 est.)<br>
 $19,800 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $69.244 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8.27% (2022 est.)<br>
 1.73% (2021 est.)<br>
 0.72% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2020)<br>
@@ -436,24 +436,25 @@ _exports of goods and services_: 33.3% (2017 est.)<br>
 _imports of goods and services_: -32.9% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, pineapples, bananas, milk, oil palm fruit, fruit, oranges, watermelons, cassava, rice<br>
+sugarcane, pineapples, bananas, milk, oil palm fruit, fruits, oranges, chicken, cassava, rice (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 medical equipment, food processing, textiles and clothing, construction materials, fertilizer, plastic products<br>
 
 **Industrial production growth rate**<br>
 2.05% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 2.543 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 11.32% (2022 est.)<br>
 15.14% (2021 est.)<br>
 16.43% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 45.4% (2021 est.)<br>
@@ -462,11 +463,11 @@ _female_: 56.3%<br>
 
 **Population below poverty line**<br>
 25.5% (2022 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 47.2 (2022 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 25.7% of household expenditures (2018 est.)<br>
@@ -475,13 +476,13 @@ _on alcohol and tobacco_: 1.2% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
 _highest 10%_: 35.7% (2022 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.9% of GDP (2022 est.)<br>
 0.91% of GDP (2021 est.)<br>
 0.84% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $9.664 billion (2019 est.)<br>
@@ -496,7 +497,7 @@ _expenditures_: $14.001 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 14% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -505,37 +506,41 @@ calendar year<br>
 -$2.469 billion (2022 est.)<br>
 -$1.605 billion (2021 est.)<br>
 -$631.662 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $28.692 billion (2022 est.)<br>
 $24.036 billion (2021 est.)<br>
 $19.995 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 38%, Netherlands 6%, Belgium 5%, Guatemala 5%, Panama 5% (2019)<br>
+US 40%, Netherlands 7%, Guatemala 5%, Belgium 5%, Nicaragua 3% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-medical instruments, bananas, pineapples, orthopedic appliances, food preparations (2021)<br>
+medical instruments, orthopedic appliances, bananas, tropical fruits, other foods (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $26.602 billion (2022 est.)<br>
 $21.94 billion (2021 est.)<br>
 $17.519 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 41%, China 13%, Mexico 7% (2019)<br>
+US 39%, China 14%, Mexico 5%, Guatemala 3%, Brazil 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, broadcasting equipment, cars, medical instruments, packaged medicines (2019)<br>
+refined petroleum, plastic products, medical instruments, cars, broadcasting equipment (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $8.554 billion (2022 est.)<br>
 $6.921 billion (2021 est.)<br>
 $7.232 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $29.589 billion (2019 est.)<br>

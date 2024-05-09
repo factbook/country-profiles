@@ -306,7 +306,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (13 seats; members appointed by the governor general - 10 on the advice of the prime minister and 3 on the advice of the leader of the opposition party; members serve 5-year terms)<br>House of Representatives (15 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: Senate - last appointments on 3 August 2022 (next to be held no later than 2027)<br>House of Representatives - last held on 23 June 2022 (next to be held no later than 2027)<br>
-_election results_: Senate - percent by party - NA; seats by party - NDC 7, NNP 3, independent 3; composition as of February 2024 - men 11, women 5, percentage women 31.3%<br><br>House of Representatives - percent of vote by party - NDC 51.8%; NNP 47.8%; other 0.4%; seats by party - NDC 9; NNP 6; composition as of February 2024 - men 9, women 4, percentage women 30.8%; note - total Parliament percentage women 31%<br>
+_election results_: Senate - percent by party - NA; seats by party - NDC 7, NNP 3, independent 3; composition - men 11, women 5, percentage women 31.3%<br><br>House of Representatives - percent of vote by party - NDC 51.8%; NNP 47.8%; other 0.4%; seats by party - NDC 9; NNP 6; composition - men 9, women 4, percentage women 30.8%; note - total Parliament percentage women 31%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: regionally, the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 in Grenada; appeals beyond the ECSC in civil and criminal matters are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -355,29 +355,29 @@ small OECS service-based economy; large tourism, construction, transportation, a
 $1.814 billion (2022 est.)<br>
 $1.706 billion (2021 est.)<br>
 $1.629 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 6.36% (2022 est.)<br>
 4.69% (2021 est.)<br>
 -13.76% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $14,500 (2022 est.)<br>
 $13,700 (2021 est.)<br>
 $13,200 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.215 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 2.56% (2022 est.)<br>
 1.22% (2021 est.)<br>
 -0.74% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Standard & Poors rating_: SD (2013)<br>
@@ -397,14 +397,15 @@ _exports of goods and services_: 60% (2017 est.)<br>
 _imports of goods and services_: -55% (2017 est.)<br>
 
 **Agricultural products**<br>
-bananas, watermelons, sweet potatoes, sugar cane, tomatoes, plantains, coconuts, melons, cucumbers, cabbages<br>
+coconuts, sugarcane, eggs, bananas, vegetables, fruits, plantains, root vegetables, grapefruits, avocados (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 food and beverages, textiles, light assembly operations, tourism, construction, education, call-center operations<br>
 
 **Industrial production growth rate**<br>
 17.38% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 55,270 (2017 est.)<br>
@@ -416,15 +417,11 @@ note: annual % change in industrial value added based on constant local currency
 **Population below poverty line**<br>
 38% (2008 est.)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 5.71% of GDP (2022 est.)<br>
 6.59% of GDP (2021 est.)<br>
 6.75% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $323 million (2019 est.)<br>
@@ -447,37 +444,41 @@ calendar year<br>
 -$55.225 million (2022 est.)<br>
 -$146.201 million (2021 est.)<br>
 -$171.392 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $816.533 million (2022 est.)<br>
 $534.892 million (2021 est.)<br>
 $428.623 million (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 30%, Saint Vincent and the Grenadines 12%, France 7%, Germany 5%, Trinidad and Tobago 5% (2021)<br>
+US 33%, Antigua and Barbuda 10%, India 4%, Saint Vincent and the Grenadines 4%, France 3% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-nutmeg, tuna, cocoa beans, fruits, nuts, toilet paper, acrylic paints, beer (2021)<br>
+nutmeg/cardamom, frozen fruits and nuts, fish, other fruits, toilet paper (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $802.567 million (2022 est.)<br>
 $622.303 million (2021 est.)<br>
 $544.695 million (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 35%, Trinidad and Tobago 17%, Cayman Islands 8%, China 5%, United Kingdom 4% (2021)<br>
+US 37%, Trinidad and Tobago 11%, Cayman Islands 11%, China 5%, UK 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, poultry, cars, food preparation materials, delivery trucks (2021)<br>
+refined petroleum, poultry, plastic products, wheat, cars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $371.767 million (2022 est.)<br>
 $348.259 million (2021 est.)<br>
 $293.32 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $793.5 million (2017 est.)<br>

@@ -268,7 +268,7 @@ _election results_: <em><br>2021:</em> Alfred CANNAN (independent) elected chief
 **Legislative branch**<br>
 _description_: bicameral Tynwald or the High Court of Tynwald consists of:<br>Legislative Council (11 seats; includes the President of Tynwald, 2 ex-officio (non-voting) members - the Lord Bishop of Sodor and Man and the attorney general - and 8 members indirectly elected by the House of Keys with renewal of 4 members every 2 years; elected members serve 4-year terms) <br>House of Keys (24 seats; 2 members each from 12 constituencies directly elected by simple majority vote to serve 5-year terms)<br>
 _elections_: Legislative Council - last held 14 March 2023 (next to be held by March 2028)<br>House of Keys - last held on 23 September 2021 (next to be held on 24 September 2026)<br>
-_election results_: <p>Legislative Council - composition as of April 2024 - men 6, women 4, vacant 1; percentage women 36.4%</p> <p>House of Keys - percent of vote by party - Liberal Vannin 5.3%, Manx Labour Party 5.1%, Green Party 3.3% independent 86.3%; seats by party - independent 21; Manx Labour Party 2, Liberal Vannin 1; composition as of April 2024 – men 14, women 10, percent age women 41.7%; total Tynwald percentage women 40%</p><br>
+_election results_: <p>Legislative Council - composition - men 6, women 4, vacant 1; percentage women 36.4%</p> <p>House of Keys - percent of vote by party - Liberal Vannin 5.3%, Manx Labour Party 5.1%, Green Party 3.3% independent 86.3%; seats by party - independent 21; Manx Labour Party 2, Liberal Vannin 1; composition – men 14, women 10, percentage women 41.7%; total Tynwald percentage women 40%</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Isle of Man High Court of Justice (consists of 3 permanent judges or "deemsters" and 1 judge of appeal; organized into the Staff of Government Division or Court of Appeal and the Civil Division); the Court of General Gaol Delivery is not formally part of the High Court but is administered as though part of the High Court and deals with serious criminal cases; note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
@@ -314,7 +314,7 @@ $6.298 billion (2013 est.)<br>
 -8.84% (2020 est.)<br>
 0.25% (2019 est.)<br>
 2.21% (2018 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $84,600 (2014 est.)<br>
@@ -323,7 +323,7 @@ $73,700 (2012 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $6.684 billion (2020 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4.1% (2017 est.)<br>
@@ -347,7 +347,7 @@ financial services, light manufacturing, tourism<br>
 
 **Industrial production growth rate**<br>
 6.66% (2020 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Unemployment rate**<br>
 1.1% (2017 est.)<br>
@@ -357,13 +357,6 @@ note: annual % change in industrial value added based on constant local currency
 _total_: 10.1% (2011 est.)<br>
 _male_: 11.8%<br>
 _female_: 8.2%<br>
-
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Budget**<br>
 _revenues_: $965 million (FY05/06 est.)<br>

@@ -375,29 +375,29 @@ upper middle-income Indian Ocean island economy; major tourism, fishing, and shi
 $11.142 billion (2022 est.)<br>
 $9.781 billion (2021 est.)<br>
 $7.104 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 13.91% (2022 est.)<br>
 37.69% (2021 est.)<br>
 -32.91% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $21,300 (2022 est.)<br>
 $18,800 (2021 est.)<br>
 $13,800 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $6.171 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 2.33% (2022 est.)<br>
 0.54% (2021 est.)<br>
 -1.37% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2020)<br>
@@ -418,24 +418,25 @@ _exports of goods and services_: 93.6% (2016 est.)<br>
 _imports of goods and services_: 89% (2016 est.)<br>
 
 **Agricultural products**<br>
-papayas, vegetables, roots/tubers nes, nuts, fruit, other meat, tomatoes, coconuts, bananas, maize<br>
+fruits, vegetables, nuts, other meats, tomatoes, bananas, maize, pulses, coconuts, papayas (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, fish processing, shipping, boat building, coconut processing, woven mats, rope, handicrafts, coral and sand mining<br>
 
 **Industrial production growth rate**<br>
 25.2% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 261,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.39% (2022 est.)<br>
 5.12% (2021 est.)<br>
 5.48% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 17.7% (2021 est.)<br>
@@ -444,22 +445,22 @@ _female_: 12.6%<br>
 
 **Population below poverty line**<br>
 5.4% (2019 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 29.3 (2019 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8%<br>
 _highest 10%_: 23.3% (2019 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.08% of GDP (2022 est.)<br>
 0.09% of GDP (2021 est.)<br>
 0.13% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $993 million (2020 est.)<br>
@@ -482,37 +483,41 @@ calendar year<br>
 -$1.033 billion (2022 est.)<br>
 -$455.003 million (2021 est.)<br>
 -$1.327 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $5.096 billion (2022 est.)<br>
 $3.985 billion (2021 est.)<br>
 $1.787 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Thailand 24%, United States 13%, China 12%, France 11%, Germany 11%, Italy 5%, United Kingdom 5% (2019)<br>
+India 71%, Thailand 12%, Germany 3%, Oman 2%, UK 2% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-skipjack and stripe-bellied bonito, fish fillets, propane, tuna, butane, scrap iron (2021)<br>
+aircraft, fish, natural gas, scrap iron, refined petroleum (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $4.904 billion (2022 est.)<br>
 $3.484 billion (2021 est.)<br>
 $2.449 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United Arab Emirates 24%, China 16%, Singapore 14%, India 11%, Malaysia 6%, Thailand 5% (2019)<br>
+India 16%, China 16%, UAE 10%, Oman 9%, Malaysia 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, fruits, furniture, broadcasting equipment, lumber (2019)<br>
+refined petroleum, ships, aircraft, plastic products, broadcasting equipment (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $832.094 million (2022 est.)<br>
 $805.808 million (2021 est.)<br>
 $984.931 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $848.8 million (31 December 2016 est.)<br>

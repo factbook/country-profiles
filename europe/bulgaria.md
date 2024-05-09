@@ -342,7 +342,7 @@ _election results_: <em><br>2021</em>: Rumen RADEV reelected president in second
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by open-list, proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 2 April 2023 (snap election to be held on 9 June 2024)<br>
-_election results_: percent of vote by party/coalition - GERB-SDS 25.4%, PP-DB 23.5%, Revival 13.6%, DPS 13.2%, BSP for Bulgaria 8.6%, ITN 3.9%, other 11.8%; seats by party/coalition GERB-SDS 69, PP-DB 64, Revival 37, DPS 36, BSP for Bulgaria 23, ITN 11; composition as of March 2024 - men 179, women 61, percentage women 25.4%<br>
+_election results_: percent of vote by party/coalition - GERB-SDS 25.4%, PP-DB 23.5%, Revival 13.6%, DPS 13.2%, BSP for Bulgaria 8.6%, ITN 3.9%, other 11.8%; seats by party/coalition GERB-SDS 69, PP-DB 64, Revival 37, DPS 36, BSP for Bulgaria 23, ITN 11; composition - men 179, women 61, percentage women 25.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Cassation (consists of a chairman and approximately 72 judges organized into penal, civil, and commercial colleges); Supreme Administrative Court (organized into 2 colleges with various panels of 5 judges each); Constitutional Court (consists of 12 justices); note - Constitutional Court resides outside the judiciary<br>
@@ -396,29 +396,29 @@ upper-middle-income EU economy; improving living standards and very robust econo
 $174.307 billion (2022 est.)<br>
 $167.722 billion (2021 est.)<br>
 $155.786 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.93% (2022 est.)<br>
 7.66% (2021 est.)<br>
 -3.97% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $27,000 (2022 est.)<br>
 $24,400 (2021 est.)<br>
 $22,500 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $90.346 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 15.33% (2022 est.)<br>
 3.3% (2021 est.)<br>
 1.67% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2017)<br>
@@ -440,24 +440,25 @@ _exports of goods and services_: 66.3% (2017 est.)<br>
 _imports of goods and services_: -64.8% (2017 est.)<br>
 
 **Agricultural products**<br>
-wheat, maize, sunflower seed, milk, barley, rapeseed, potatoes, grapes, tomatoes, watermelons<br>
+wheat, maize, sunflower seeds, milk, barley, rapeseed, potatoes, grapes, tomatoes, chicken (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 electricity, gas, water; food, beverages, tobacco; machinery and equipment, automotive parts, base metals, chemical products, coke, refined petroleum, nuclear fuel; outsourcing centers<br>
 
 **Industrial production growth rate**<br>
 11.92% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 3.147 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.27% (2022 est.)<br>
 5.27% (2021 est.)<br>
 5.12% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.2% (2021 est.)<br>
@@ -466,11 +467,11 @@ _female_: 14%<br>
 
 **Population below poverty line**<br>
 22.9% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 40.5 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 19.3% of household expenditures (2018 est.)<br>
@@ -479,13 +480,13 @@ _on alcohol and tobacco_: 5% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1%<br>
 _highest 10%_: 32.6% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 2.25% of GDP (2022 est.)<br>
 2.35% of GDP (2021 est.)<br>
 2.93% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $24.487 billion (2020 est.)<br>
@@ -498,11 +499,11 @@ _expenditures_: $26.544 billion (2020 est.)<br>
 32.82% of GDP (2021 est.)<br>
 32.26% of GDP (2020 est.)<br>
 26.94% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 20.63% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -511,38 +512,41 @@ calendar year<br>
 -$591.65 million (2022 est.)<br>
 -$1.516 billion (2021 est.)<br>
 -$31.23 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $60.712 billion (2022 est.)<br>
 $51.49 billion (2021 est.)<br>
 $39.541 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 14%, Romania 10%, Greece 8%, Italy 8%, Turkey 6% (2021)<br>
+Germany 13%, Romania 13%, Italy 7%, Turkey 6%, Greece 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-copper, wheat, electricity, refined petroleum, packaged medicines (2021)<br>
-<strong>note:</strong> Bulgarian amphetamine production remains a significant illicit trade export<br>
+refined petroleum, natural gas, garments, wheat, refined copper (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $60.252 billion (2022 est.)<br>
 $50.048 billion (2021 est.)<br>
 $38.197 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 12%, Turkey 8%, Greece 8%, Romania 8%, Italy 7% (2021)<br>
+Germany 10%, Russia 10%, Turkey 9%, Romania 7%, Greece 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, copper, cars, packaged medicines, refined petroleum (2019)<br>
+crude petroleum, natural gas, copper ore, cars, packaged medicine (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $40.989 billion (2022 est.)<br>
 $39.188 billion (2021 est.)<br>
 $37.86 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $39.059 billion (2019 est.)<br>

@@ -348,13 +348,6 @@ tourism, light industry, construction, rum, concrete block, offshore banking cen
 **Unemployment rate**<br>
 2.9% (2015 est.)<br>
 
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Budget**<br>
 _revenues_: $400 million (2017 est.)<br>
 _expenditures_: $400 million (2017 est.)<br>

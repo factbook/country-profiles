@@ -362,7 +362,7 @@ _election results_: <em><br>2019:</em> Mohamed Ould Cheikh El GHAZOUANI elected 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Barlamane consists of the National Assembly or Al Jamiya Al Wataniya (176 seats statutory; 88 members filled from one or two seat constituencies elected by a two-round majority system and the other 88 members filled from a single, nationwide constituency directly elected by proportional representation vote); 20 seats are reserved for women candidates in the nationwide constituency, 11 seats are reserved for young candidates (aged between 25 and 35), and 4 members directly elected by the diaspora; all members serve 5-year terms<br>
 _elections_: last held on 13 May 2023 with a second round on 27 May 2023 (next to be held in May 2028)<br>
-_election results_: National Assembly - percent of vote by party - NA; seats by party - El Insaf 107, Tawassoul 11, UDP 10, FRUD 7, El Islah 6, AND 6, El Karama 5, Nida Al-Watan 5, Sawab 5, AJD/MR 4, HIWAR 3, HATEM 3, El Vadila 2, UPC 1, Hakam 1; composition as of February 2024 - men 135, women 41, percentage women 23.3%<br>
+_election results_: National Assembly - percent of vote by party - NA; seats by party - El Insaf 107, Tawassoul 11, UDP 10, FRUD 7, El Islah 6, AND 6, El Karama 5, Nida Al-Watan 5, Sawab 5, AJD/MR 4, HIWAR 3, HATEM 3, El Vadila 2, UPC 1, Hakam 1; composition- men 135, women 41, percentage women 23.3%<br>
 <strong>note:</strong> the early parliamentary elections in 2023 were the first to be held under President Mohamed Ould Cheikh El GHAZOUANI, elected in 2019 in the first peaceful transition of power; the elections followed the agreement between the government and parties in September 2022 to renew the Independent National Electoral Commission (CENI) and hold the elections in the first semester of 2023 for climatic and logistical reasons<br>
 
 **Judicial branch**<br>
@@ -415,29 +415,29 @@ lower middle-income West African economy; primarily agrarian; rising urbanizatio
 $25.245 billion (2022 est.)<br>
 $23.731 billion (2021 est.)<br>
 $23.557 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 6.38% (2022 est.)<br>
 0.74% (2021 est.)<br>
 -0.36% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $5,300 (2022 est.)<br>
 $5,100 (2021 est.)<br>
 $5,200 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $9.781 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 9.53% (2022 est.)<br>
 3.57% (2021 est.)<br>
 2.39% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 27.8% (2017 est.)<br>
@@ -453,7 +453,8 @@ _exports of goods and services_: 39% (2017 est.)<br>
 _imports of goods and services_: -78.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-rice, milk, goat milk, sheep milk, sorghum, mutton, beef, camel milk, camel meat, dates<br>
+rice, milk, sorghum, goat milk, sheep milk, lamb/mutton, beef, camel meat, camel milk, dates (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 fish processing, oil production, mining (iron ore, gold, copper)<br>
@@ -461,17 +462,17 @@ fish processing, oil production, mining (iron ore, gold, copper)<br>
 
 **Industrial production growth rate**<br>
 7.31% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 1.135 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 10.79% (2022 est.)<br>
 11.33% (2021 est.)<br>
 11.17% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 23% (2021 est.)<br>
@@ -480,22 +481,22 @@ _female_: 27.9%<br>
 
 **Population below poverty line**<br>
 31.8% (2019 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 32.6 (2014 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3%<br>
 _highest 10%_: 24.9% (2014 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.51% of GDP (2022 est.)<br>
 0.14% of GDP (2021 est.)<br>
 2.04% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.617 billion (2019 est.)<br>
@@ -518,37 +519,41 @@ calendar year<br>
 -$1.424 billion (2022 est.)<br>
 -$807.862 million (2021 est.)<br>
 -$576.175 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $4.132 billion (2022 est.)<br>
 $3.18 billion (2021 est.)<br>
 $2.784 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 32%, Switzerland 13%, Spain 9%, Japan 9%, Italy 5% (2019)<br>
+China 24%, Canada 12%, UAE 12%, Spain 9%, Turkey 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-iron ore, gold, mollusks and shellfish, frozen fish, copper ore (2021)<br>
+gold, iron ore, fish, processed crustaceans, animal meal (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $5.77 billion (2022 est.)<br>
 $4.312 billion (2021 est.)<br>
 $3.675 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 26%, France 6%, Spain 6%, Morocco 6%, United Arab Emirates 5% (2019)<br>
+China 18%, Spain 7%, Morocco 6%, UAE 6%, Indonesia 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-ships, aircraft, wheat, raw sugar, refined petroleum (2019)<br>
+refined petroleum, iron pipes, wheat, raw sugar, palm oil (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $2.039 billion (2021 est.)<br>
 $1.493 billion (2020 est.)<br>
 $1.029 billion (2019 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $4.15 billion (31 December 2017 est.)<br>

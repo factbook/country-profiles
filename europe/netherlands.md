@@ -347,7 +347,7 @@ _elections/appointments_: the monarchy is hereditary; following Second Chamber e
 **Legislative branch**<br>
 _description_: bicameral States General or Staten Generaal consists of:<br>Senate or Eerste Kamer (75 seats; members indirectly elected by the country's 12 provincial council members by proportional representation vote; members serve 4-year terms)<br>House of Representatives or Tweede Kamer (150 seats; members directly elected in multi-seat constituencies by open-list proportional representation vote to serve up to 4-year terms)<br>
 _elections_: Senate - last held on 30 May 2023 (next to be held in May 2027)<br>House of Representatives - last held on 22 November 2023 (next to be held on 30 November 2027)<br>
-_election results_: Senate - percent of vote by party - BBB 21.3%, VVD 13.3%, GL 9.3%, PvdA 9.3%, CDA 8.0%, D66 6.7%, PVV 5.3%, SP 4%, CU 4%, PvdD 4%, JA21 4%, Volt 2.7%, SGP 2.7%,  FvD 2.7%, other 2.6%; seats by party - BBB 16, VVD 10, GL 7, PvdA 7, CDA 6, D66 5, PVV 4, SP 3, CU 3, PvdD 3, JA21 3, Volt 2, SGP 2, FvD 2 other 2; composition as of February 2024 - men 45, women 30, percentage women 40%<br><br>House of Representatives - percent of vote by party - PVV 23.6%, GL/PvdA 15.5%, VVD 15.2%, NSC 12.8%, D66 6.2%, BBB 4.7%, CDA 3.3%, SP 3.1%, Denk 2.4%, FvD 2.2%, PvdD 2.3%, CU 2.1%, SGP 2.2%, other 6.4%; seats by party - PVV 37, GL/PvdA 25, VVD 24, NSC 20, D66 9, BBB 7, CDA 5, SP 5, Denk 3, PvdD 3, CU 3, FvD 3, SGP 3, other 6; composition as of February 2024 - men 91, women 58, percentage women 38.7%; total States General percentage women 39.3%<br>
+_election results_: Senate - percent of vote by party - BBB 21.3%, VVD 13.3%, GL 9.3%, PvdA 9.3%, CDA 8.0%, D66 6.7%, PVV 5.3%, SP 4%, CU 4%, PvdD 4%, JA21 4%, Volt 2.7%, SGP 2.7%,  FvD 2.7%, other 2.6%; seats by party - BBB 16, VVD 10, GL 7, PvdA 7, CDA 6, D66 5, PVV 4, SP 3, CU 3, PvdD 3, JA21 3, Volt 2, SGP 2, FvD 2 other 2; composition - men 45, women 30, percentage women 40%<br><br>House of Representatives - percent of vote by party - PVV 23.6%, GL/PvdA 15.5%, VVD 15.2%, NSC 12.8%, D66 6.2%, BBB 4.7%, CDA 3.3%, SP 3.1%, Denk 2.4%, FvD 2.2%, PvdD 2.3%, CU 2.1%, SGP 2.2%, other 6.4%; seats by party - PVV 37, GL/PvdA 25, VVD 24, NSC 20, D66 9, BBB 7, CDA 5, SP 5, Denk 3, PvdD 3, CU 3, FvD 3, SGP 3, other 6; composition - men 91, women 58, percentage women 38.7%; total States General percentage women 39.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Hoge Raad (consists of 41 judges: the president, 6 vice presidents, 31 justices or raadsheren, and 3 justices in exceptional service, referred to as buitengewone dienst); the court is divided into criminal, civil, tax, and ombuds chambers<br>
@@ -401,29 +401,29 @@ high-income European economy; core EU member; chemical, oil, and machinery expor
 $1.049 trillion (2022 est.)<br>
 $1.005 trillion (2021 est.)<br>
 $946.637 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.33% (2022 est.)<br>
 6.19% (2021 est.)<br>
 -3.89% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $59,200 (2022 est.)<br>
 $57,300 (2021 est.)<br>
 $54,300 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.009 trillion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 10% (2022 est.)<br>
 2.68% (2021 est.)<br>
 1.27% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (1994)<br>
@@ -445,24 +445,25 @@ _exports of goods and services_: 83% (2017 est.)<br>
 _imports of goods and services_: -72.3% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, potatoes, sugar beets, pork, onions, wheat, poultry, tomatoes, carrots/turnips, beef<br>
+milk, sugar beets, potatoes, pork, onions, wheat, chicken, tomatoes, carrots/turnips, goat milk (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 agroindustries, metal and engineering products, electrical machinery and equipment, chemicals, petroleum, construction, microelectronics, fishing<br>
 
 **Industrial production growth rate**<br>
 2.84% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 9.794 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.52% (2022 est.)<br>
 4.21% (2021 est.)<br>
 3.82% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.6% (2021 est.)<br>
@@ -471,11 +472,11 @@ _female_: 9.2%<br>
 
 **Population below poverty line**<br>
 14.5% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 26 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 11.4% of household expenditures (2018 est.)<br>
@@ -484,13 +485,13 @@ _on alcohol and tobacco_: 3.3% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6%<br>
 _highest 10%_: 21.6% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.23% of GDP (2022 est.)<br>
 0.22% of GDP (2021 est.)<br>
 0.23% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $396.687 billion (2019 est.)<br>
@@ -506,7 +507,7 @@ _expenditures_: $374.166 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 24.35% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -515,37 +516,41 @@ calendar year<br>
 $93.836 billion (2022 est.)<br>
 $124.924 billion (2021 est.)<br>
 $46.849 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $944.421 billion (2022 est.)<br>
 $865.094 billion (2021 est.)<br>
 $712.412 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 20%, Belgium 12%, United Kingdom 9%, France 7%, United States 5% (2019)<br>
+Germany 19%, Belgium 14%, France 9%, UK 6%, Italy 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, broadcasting equipment, packaged medicines, photography equipment, computers (2021)<br>
+refined petroleum, broadcasting equipment, machinery, packaged medicine, crude petroleum (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $835.47 billion (2022 est.)<br>
 $749.324 billion (2021 est.)<br>
 $620.63 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 15%, China 11%, Belgium 9%, United States 8%, Russia 7%, United Kingdom 5% (2019)<br>
+Germany 14%, China 12%, US 9%, Belgium 9%, UK 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, refined petroleum, broadcasting equipment, computers, cars (2019)<br>
+crude petroleum, refined petroleum, natural gas, broadcasting equipment, computers (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $63.353 billion (2022 est.)<br>
 $64.469 billion (2021 est.)<br>
 $53.971 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $4,345,413,000,000 (2019 est.)<br>

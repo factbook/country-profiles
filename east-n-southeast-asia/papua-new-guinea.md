@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Papua New Guinea (PNG) was first settled between 50,000 and 60,000 years ago. PNG’s harsh geography consisting of mountains, jungles, and numerous river valleys, kept many of the arriving groups isolated, giving rise to PNG’s significant ethnic and linguistic diversity. Agriculture was independently developed by some of these groups. Around 500 B.C., Austronesian voyagers settled along the coast. Spanish and Portuguese explorers periodically visited the island starting in the 1500s, but none made it into the country’s interior. American and British whaling ships frequented the islands off the coast of New Guinea in the mid-1800s. In 1884, Germany declared a protectorate - and eventually a colony - over the northern part of what would become PNG and named it German New Guinea; days later the UK followed suit on the southern part and nearby islands and called it Papua. Most of their focus was on the coastal regions, leaving the highlands largely unexplored.<br><br>The UK put its colony under Australian administration in 1902 and formalized the act in 1906. At the outbreak of World War I, Australia occupied German New Guinea and continued to rule it after the war as a League of Nations Mandate. The discovery of gold along the Bulolo River in the 1920s led prospectors to venture into the highlands, where they found about 1 million people living in isolated communities. Japan invaded New Guinea in 1941 and reached Papua the following year. Allied victories during the New Guinea campaign pushed out the Japanese, and after the end of the war, Australia combined the two territories into one administration. Sir Michael SOMARE won elections in 1972 on the promise of achieving independence, which was realized in 1975. <br><br>A secessionist movement in Bougainville, an island well endowed in copper and gold resources, reignited in 1988 with debates about land use, profits, and an influx of outsiders at the Panguna Copper Mine. Following elections in 1992, the PNG Government took a hardline stance against Bougainville rebels and the resulting civil war led to about 20,000 deaths. In 1997, the PNG Government hired mercenaries to support its troops in Bougainville, sparking an army mutiny and forcing the prime minister to resign. PNG and Bougainville signed a truce in 1997 and a peace agreement in 2001, which granted Bougainville autonomy. An internationally-monitored nonbinding referendum asking Bougainvilleans to chose independence or greater self-rule occurred in November 2019, with 98% of voters opting for independence. However, the PNG Government and Bougainville officials remain in negotiations about the status of the island.</p><br>
+<p>Papua New Guinea (PNG) occupies the eastern half of the island of New Guinea; the western half is part of Indonesia. PNG was first settled between 50,000 and 60,000 years ago. Its harsh geography of mountains, jungles, and numerous river valleys kept many of the arriving groups isolated, giving rise to PNG’s ethnic and linguistic diversity. Around 500 B.C., Austronesian voyagers settled along the coast. Spanish and Portuguese explorers periodically visited the island starting in the 1500s, but none made it into the country’s interior. American and British whaling ships frequented the islands off the coast of New Guinea in the mid-1800s. In 1884, Germany declared a protectorate -- and eventually a colony -- over the northern part of what would become PNG and named it German New Guinea; days later the UK followed suit on the southern part and nearby islands and called it Papua. Most of their focus was on the coastal regions, leaving the highlands largely unexplored.<br><br>The UK put its colony under Australian administration in 1902 and formalized the act in 1906. At the outbreak of World War I, Australia occupied German New Guinea and continued to rule it after the war as a League of Nations Mandate. The discovery of gold along the Bulolo River in the 1920s led prospectors to venture into the highlands, where they found about 1 million people living in isolated communities. Japan invaded New Guinea in 1941 and reached Papua the following year. Allied victories during the New Guinea campaign pushed out the Japanese, and after the end of the war, Australia combined the two territories into one administration. Sir Michael SOMARE won elections in 1972 on the promise of achieving independence, which was realized in 1975. <br><br>A secessionist movement in Bougainville -- an island off the PNG coast with significant copper and gold resources -- reignited in 1988 with debates about land use, profits, and an influx of outsiders at the Panguna Copper Mine. In 1992, the PNG Government took a hardline stance against the rebels, and the resulting civil war led to about 20,000 deaths. In 1997, the PNG Government hired mercenaries to support its troops in Bougainville, sparking an army mutiny and forcing the prime minister to resign. PNG and Bougainville signed a truce in 1997 and a peace agreement in 2001 that granted Bougainville autonomy. In 2019, an internationally monitored nonbinding referendum resulted in 98% of Bougainville voters opting for independence over greater self-rule. However, the PNG Government and Bougainville officials remain in negotiations about the status of the island.</p><br>
 
 ## Geography
 
@@ -340,7 +340,7 @@ _election results_: James MARAPE reelected prime minister; National Parliament v
 **Legislative branch**<br>
 _description_: unicameral National Parliament (118 seats; members directly elected in single-seat constituencies - 89 local, 20 provincial, the autonomous province of Bouganville, and the National Capital District - by majority preferential vote; members serve 5-year terms); note - the constitution allows up to 126 seats<br>
 _elections_: last held from 4-22 July 2022 (next to be held in June 2027)<br>
-_election results_: percent of vote by party - NA; seats by party - PANGU PATI - 39, PNC - 17, URP - 11, NAP - 6, SDP - 4, PFP - 4, PP &ndash; 4, PNGP &ndash; 3,&nbsp; ULP - 3, Advance PNG - 2, National Party - 2, Liberal Party - 2, AP - 1, Destiny Party - 1, Greens - 1, MAP - 1, NGP - 1, ODP - 1, PLP - 1, PMC - 1, PPP - 1, PRP - 1, THE - 1, independent - 10; composition as of February 2024 - men 108, women 3, percentage women 2.7%<br>
+_election results_: percent of vote by party - NA; seats by party - PANGU PATI - 39, PNC - 17, URP - 11, NAP - 6, SDP - 4, PFP - 4, PP &ndash; 4, PNGP &ndash; 3,&nbsp; ULP - 3, Advance PNG - 2, National Party - 2, Liberal Party - 2, AP - 1, Destiny Party - 1, Greens - 1, MAP - 1, NGP - 1, ODP - 1, PLP - 1, PMC - 1, PPP - 1, PRP - 1, THE - 1, independent - 10; composition - men 108, women 3, percentage women 2.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice, deputy chief justice, 35 justices, and 5 acting justices); National Courts (consists of 13 courts located in the provincial capitals, with a total of 19 resident judges)<br>
@@ -391,29 +391,29 @@ lower middle-income Pacific island economy; primarily informal agrarian sector; 
 $38.065 billion (2022 est.)<br>
 $36.195 billion (2021 est.)<br>
 $36.48 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 5.17% (2022 est.)<br>
 -0.78% (2021 est.)<br>
 -3.17% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $3,800 (2022 est.)<br>
 $3,600 (2021 est.)<br>
 $3,700 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $31.604 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5.25% (2022 est.)<br>
 4.48% (2021 est.)<br>
 4.87% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B2 (2016)<br>
@@ -434,24 +434,25 @@ _exports of goods and services_: 49.3% (2017 est.)<br>
 _imports of goods and services_: -22.3% (2017 est.)<br>
 
 **Agricultural products**<br>
-oil palm fruit, bananas, coconuts, fruit, sweet potatoes, game meat, yams, roots/tubers nes, vegetables, taro<br>
+oil palm fruit, coconuts, bananas, fruits, sweet potatoes, game meat, yams, root vegetables, sugarcane, vegetables (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 oil and gas; mining (gold, copper, and nickel); palm oil processing; plywood and wood chip production;&nbsp;copra crushing; construction; tourism; fishing; livestock (pork, poultry, cattle) and dairy farming; spice products (turmeric, vanilla, ginger, cardamom, chili, pepper, citronella, and nutmeg)<br>
 
 **Industrial production growth rate**<br>
 6.61% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 3.167 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 2.78% (2022 est.)<br>
 3.24% (2021 est.)<br>
 3.07% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 5.3% (2021 est.)<br>
@@ -472,7 +473,7 @@ _highest 10%_: 40.5% (1996)<br>
 0.01% of GDP (2022 est.)<br>
 0.05% of GDP (2021 est.)<br>
 0.01% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $4.039 billion (2019 est.)<br>
@@ -485,11 +486,11 @@ _expenditures_: $5.135 billion (2019 est.)<br>
 48.68% of GDP (2020 est.)<br>
 40.15% of GDP (2019 est.)<br>
 36.67% of GDP (2018 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 11.88% (of GDP) (2020 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -498,37 +499,41 @@ calendar year<br>
 $4.499 billion (2021 est.)<br>
 $3.419 billion (2020 est.)<br>
 $3.559 billion (2019 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $11.625 billion (2021 est.)<br>
 $9.175 billion (2020 est.)<br>
 $11.236 billion (2019 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Japan 25%, China 25%, Australia 16%, Taiwan 6%, South Korea 6% (2021)<br>
+Japan 26%, China 22%, Australia 11%, South Korea 10%, Taiwan 9% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-natural gas, gold, copper, palm oil, nickel, crude petroleum, lumber, refined petroleum, tuna, coffee (2021)<br>
+natural gas, gold, palm oil, crude petroleum, copper ore (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $6.303 billion (2021 est.)<br>
 $5.282 billion (2020 est.)<br>
 $6.329 billion (2019 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Australia 27%, China 25%, Singapore 13%, Malaysia 8%, Indonesia 5% (2021)<br>
+China 26%, Australia 23%, Singapore 16%, Malaysia 9%, Indonesia 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, rice, delivery trucks, excavation machinery, motor vehicle parts (2021)<br>
+refined petroleum, rice, plastic products, excavation machinery, trucks (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $3.983 billion (2022 est.)<br>
 $3.24 billion (2021 est.)<br>
 $2.686 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $17.94 billion (31 December 2017 est.)<br>

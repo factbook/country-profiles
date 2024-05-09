@@ -343,7 +343,7 @@ _election results_: Ranil WICKREMESINGHE elected president by Parliament on 20 J
 **Legislative branch**<br>
 _description_: unicameral Parliament (225 seats; 196 members directly elected in multi-seat district constituencies by proportional representation vote using a preferential method in which voters select 3 candidates in order of preference; remaining 29 seats, referred to as the "national list" are allocated by each party secretary according to the island wide proportional vote the party obtains; members serve 5-year terms)<br>
 _elections_: last held on 5 August 2020 (next to be held in August 2025)<br>
-_election results_: percent of vote by party/coalition - SLFPA 59.1%, SJB 23.9%, JVP 3.8%, TNA 2.8%, UNP 2.2%, TNPF 0.6%, EPDP 0.5%, other 7.1%; seats by party/coalition - SLFPA 145, SJB 54, TNA 10, JVP 3, other 13; composition as of February 2024 - men 213, women 12, percentage women 5.3%<br>
+_election results_: percent of vote by party/coalition - SLFPA 59.1%, SJB 23.9%, JVP 3.8%, TNA 2.8%, UNP 2.2%, TNPF 0.6%, EPDP 0.5%, other 7.1%; seats by party/coalition - SLFPA 145, SJB 54, TNA 10, JVP 3, other 13; composition- men 213, women 12, percentage women 5.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Republic (consists of the chief justice and 9 justices); note - the court has exclusive jurisdiction to review legislation<br>
@@ -396,29 +396,29 @@ economic contraction in 2022-23 marked by increased poverty and significant infl
 $270.611 billion (2022 est.)<br>
 $293.581 billion (2021 est.)<br>
 $283.62 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -7.82% (2022 est.)<br>
 3.51% (2021 est.)<br>
 -4.62% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $12,200 (2022 est.)<br>
 $13,300 (2021 est.)<br>
 $12,900 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $74.404 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 49.72% (2022 est.)<br>
 7.01% (2021 est.)<br>
 6.15% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2020)<br>
@@ -440,24 +440,25 @@ _exports of goods and services_: 21.9% (2017 est.)<br>
 _imports of goods and services_: -29.1% (2017 est.)<br>
 
 **Agricultural products**<br>
-rice, coconuts, eggs, plantains, tea leaves, sugar cane, milk, cassava, maize, poultry<br>
+rice, coconuts, plantains, tea, sugarcane, milk, cassava, fiber crops, maize, chicken (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 processing of rubber, tea, coconuts, tobacco and other agricultural commodities; tourism; clothing and textiles; mining<br>
 
 **Industrial production growth rate**<br>
 -15.95% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 8.775 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 6.18% (2022 est.)<br>
 5.31% (2021 est.)<br>
 5.36% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 26.1% (2021 est.)<br>
@@ -466,11 +467,11 @@ _female_: 35.6%<br>
 
 **Population below poverty line**<br>
 14.3% (2019 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 37.7 (2019 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 28% of household expenditures (2018 est.)<br>
@@ -479,13 +480,13 @@ _on alcohol and tobacco_: 2% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1%<br>
 _highest 10%_: 30.8% (2019 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 5.13% of GDP (2022 est.)<br>
 6.24% of GDP (2021 est.)<br>
 8.46% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $10.623 billion (2019 est.)<br>
@@ -498,11 +499,11 @@ _expenditures_: $17.496 billion (2019 est.)<br>
 79.1% of GDP (2017 est.)<br>
 79.6% of GDP (2016 est.)<br>
 73.51% of GDP (2015 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 7.38% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -511,37 +512,41 @@ calendar year<br>
 -$1.453 billion (2022 est.)<br>
 -$3.284 billion (2021 est.)<br>
 -$1.187 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $16.169 billion (2022 est.)<br>
 $14.974 billion (2021 est.)<br>
 $13.083 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 24%, India 8%, United Kingdom 7%, Germany 6%, Italy 4% (2022)<br>
+US 24%, India 8%, UK 7%, Germany 6%, Italy 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-textiles (knit and non-knit garments); tea; rubber tires; precious stones; cinnamon (2022)<br>
+garments, tea, used rubber tires, rubber products, precious stones (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $19.244 billion (2022 est.)<br>
 $21.526 billion (2021 est.)<br>
 $18.271 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-India 34%, China 19%, United Arab Emirates 6%, Malaysia 4%, Singapore 4% (2022)<br>
+India 34%, China 19%, UAE 5%, Malaysia 4%, Singapore 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined and crude petroleum; knitted/woven fabrics; special purpose ships; packaged medicine; coal (2022)<br>
+refined petroleum, fabric, ships, cotton fabric, synthetic fabric (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $3.137 billion (2021 est.)<br>
 $5.664 billion (2020 est.)<br>
 $7.648 billion (2019 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $55.332 billion (2019 est.)<br>

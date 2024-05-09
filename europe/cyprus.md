@@ -342,7 +342,7 @@ _election results_: <em><br>2023: </em>Nikos CHRISTODOULIDIS elected president i
 **Legislative branch**<br>
 _description_: area under government control: unicameral House of Representatives or Vouli Antiprosopon (80 seats; 56 assigned to Greek Cypriots, 24 to Turkish Cypriots, but only those assigned to Greek Cypriots are filled; members directly elected by both proportional representation and preferential vote; members serve 5-year terms; note - 3 seats each are reserved for the Latin, Maronite, and Armenian religious groups;<br>area administered by Turkish Cypriots: unicameral "Assembly of the Republic" or Cumhuriyet Meclisi (50 seats; members directly elected in multi-seat constituencies by proportional representation vote using a hybrid d'Hondt method with voter preference for individual candidates<br>
 _elections_: area under government control; last held on 30 May 2021 (next to be held in 2026); area administered by Turkish Cypriots: last held on 23 January 2022 (next to be held in 2027)<br>
-_election results_: <br>area under government control: House of Representatives - percent of vote by party/coalition - DISY 27.8%, AKEL 22.3%, DIKO 11.3%, ELAM 6.8%, EDEK-SP 6.7%, DIPA 6.1%, Movement of Ecologists - Citizens' Cooperation 4.4%, other 14.6%; seats by party/coalition - DISY 17, AKEL 15, DIKO 9, ELAM 4, EDEK-SP 4, DIPA 4, Movement of Ecologists - Citizens' Cooperation 3; composition as of March 2024 - men 48, women 8, percent of women 14.3%<br><br>area administered by Turkish Cypriots - "Assembly of the Republic" - percent of vote by party - UBP 39.5%, CTP 32%, DP 7.4%, HP 6.7%, YDP 6.4%, other 8%; seats by party - UBP 24, CTP 18, DP 3, HP 3, YDP 2; composition NA<br>
+_election results_: <br>area under government control: House of Representatives - percent of vote by party/coalition - DISY 27.8%, AKEL 22.3%, DIKO 11.3%, ELAM 6.8%, EDEK-SP 6.7%, DIPA 6.1%, Movement of Ecologists - Citizens' Cooperation 4.4%, other 14.6%; seats by party/coalition - DISY 17, AKEL 15, DIKO 9, ELAM 4, EDEK-SP 4, DIPA 4, Movement of Ecologists - Citizens' Cooperation 3; composition - men 48, women 8, percent of women 14.3%<br><br>area administered by Turkish Cypriots - "Assembly of the Republic" - percent of vote by party - UBP 39.5%, CTP 32%, DP 7.4%, HP 6.7%, YDP 6.4%, other 8%; seats by party - UBP 24, CTP 18, DP 3, HP 3, YDP 2; composition NA<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Cyprus (consists of 13 judges, including the court president); note - the highest court in the "TRNC" is the "Supreme Court" (consists of 8 "judges," including the "court president")<br>
@@ -399,29 +399,29 @@ services-based, high-income EU island economy; heavy tourism; sustained growth b
 $41.068 billion (2022 est.)<br>
 $39.091 billion (2021 est.)<br>
 $35.566 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 5.06% (2022 est.)<br>
 9.91% (2021 est.)<br>
 -3.39% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $45,000 (2022 est.)<br>
 $43,400 (2021 est.)<br>
 $39,900 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $29.251 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8.4% (2022 est.)<br>
 2.45% (2021 est.)<br>
 -0.64% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2018)<br>
@@ -444,8 +444,8 @@ _exports of goods and services_: 63.8% (2017 est.)<br>
 _imports of goods and services_: -67.8% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, potatoes, pork, sheep milk, goat milk, barley, wheat, poultry, olives, tangerines/mandarins<br>
-<strong>note:</strong> area administered by Turkish Cypriots - citrus fruit, dairy, potatoes, grapes, olives, poultry, lamb<br>
+milk, potatoes, sheep milk, pork, goat milk, wheat, chicken, barley, grapes, olives (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, food and beverage processing, cement and gypsum, ship repair and refurbishment, textiles, light chemicals, metal products, wood, paper, stone and clay products<br>
@@ -453,17 +453,17 @@ tourism, food and beverage processing, cement and gypsum, ship repair and refurb
 
 **Industrial production growth rate**<br>
 -0.66% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 685,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 6.78% (2022 est.)<br>
 7.51% (2021 est.)<br>
 7.76% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.8% (2021 est.)<br>
@@ -472,22 +472,22 @@ _female_: 14.9%<br>
 
 **Population below poverty line**<br>
 13.9% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 31.7 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.5%<br>
 _highest 10%_: 26.3% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 1.78% of GDP (2022 est.)<br>
 2.13% of GDP (2021 est.)<br>
 2.25% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $10.362 billion (2019 est.)<br>
@@ -504,7 +504,7 @@ _expenditures_: $9.996 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 23.23% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -513,39 +513,41 @@ calendar year<br>
 -$2.357 billion (2022 est.)<br>
 -$1.812 billion (2021 est.)<br>
 -$2.523 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $27.72 billion (2022 est.)<br>
 $26.303 billion (2021 est.)<br>
 $20.379 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-India 9%, Greece 9%, Libya 8%, United Kingdom 7% (2019)<br>
+Hong Kong 10%, Greece 10%, Lebanon 7%, UK 6%, Liberia 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-ships, refined petroleum, packaged medicines, cheese, recreational boats (2021)<br>
-<strong>note:</strong> area administered by Turkish Cypriots - citrus, dairy, potatoes, textiles<br>
+ships, refined petroleum, packaged medicine, cheese, scented mixtures (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $27.658 billion (2022 est.)<br>
 $25.164 billion (2021 est.)<br>
 $20.711 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Greece 16%, Italy 10%, Turkey 8%, Russia 5%, Germany 5%, United Kingdom 5%, China 5% (2019)<br>
+Greece 19%, Turkey 12%, Italy 9%, China 9%, Israel 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, ships, cars, coal tar oil, packaged medicines (2019)<br>
-<strong>note:</strong> area administered by Turkish Cypriots - vehicles, fuel, cigarettes, food, minerals, chemicals, machinery<br>
+refined petroleum, ships, cars, packaged medicine, garments (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $1.671 billion (2022 est.)<br>
 $1.611 billion (2021 est.)<br>
 $1.237 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $213.19 billion (2019 est.)<br>

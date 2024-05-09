@@ -268,7 +268,7 @@ _election results_: Arnold PALACIOS elected governor in second round; percent of
 **Legislative branch**<br>
 _description_: bicameral Northern Marianas Commonwealth Legislature consists of:<br>Senate (9 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>House of Representatives (20 seats; members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms)<br><br>the Northern Mariana Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term<br>
 _elections_: CNMI Senate - last held on 8 November 2020 (next to be held on 5 November 2024)<br>CNMI House of Representatives - last held on 8 November 2022 (next to be held on 5 November 2024)<br>Commonwealth of Northern Mariana Islands delegate to the US House of Representatives - last held on 8 November 2022 (next to be held on 5 November 2024)<br>
-_election results_: CNMI Senate - percent of vote by party - NA; seats by party - Republican Party 6, independent 3; composition as of January 2023 - men 6, women 3, percentage women 33.3%<br><br>CNMI House of Representatives - percent of vote by party - NA; seats by party - Republican Party 9, Democrat Party 8, independent 3; composition as of January 2023 - men 17, women 3, percentage women 15%; total Commonwealth Legislature percentage women 20.7%<br><br>Northern Mariana Islands delegate to US House of Representatives - seat won by independent; composition - 1 man<br>
+_election results_: CNMI Senate - percent of vote by party - NA; seats by party - Republican Party 6, independent 3; composition - men 6, women 3, percentage women 33.3%<br><br>CNMI House of Representatives - percent of vote by party - NA; seats by party - Republican Party 9, Democrat Party 8, independent 3; composition - men 17, women 3, percentage women 15%; total Commonwealth Legislature percentage women 20.7%<br><br>Northern Mariana Islands delegate to US House of Representatives - seat won by independent; composition - 1 man<br>
 <strong id="tinymce" class="mce-content-body " style="font-size: 18px;" contenteditable="true" spellcheck="false" data-id="field_notes">note:</strong> the Northern Mariana Islands delegate to the US House of Representatives can vote when serving on a committee and when the House meets as the "Committee of the Whole House" but not when legislation is submitted for a “full floor” House vote<br>
 
 **Judicial branch**<br>
@@ -311,7 +311,7 @@ $845 million (2014 est.)<br>
 -29.68% (2020 est.)<br>
 -11.32% (2019 est.)<br>
 -19.27% (2018 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $24,500 (2016 est.)<br>
@@ -320,7 +320,7 @@ $16,600 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $858 million (2020 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 0.3% (2016 est.)<br>
@@ -347,7 +347,7 @@ tourism, banking, construction, fishing, handicrafts, other services<br>
 
 **Industrial production growth rate**<br>
 4.3% (2014 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 27,970 (2010 est.)<br>
@@ -356,13 +356,6 @@ note: annual % change in industrial value added based on constant local currency
 **Unemployment rate**<br>
 11.2% (2010 est.)<br>
 8% (2005 est.)<br>
-
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Budget**<br>
 _revenues_: $389.6 million (2016 est.)<br>
@@ -381,21 +374,27 @@ _expenditures_: $344 million (2015 est.)<br>
 1 October - 30 September<br>
 
 **Exports**<br>
-$914 million (2016 est.)<br>
-$520 million (2015 est.)<br>
+$128 million (2020 est.)<br>
+$500 million (2019 est.)<br>
+$660 million (2018 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-South Korea 73%, Peru 5% (2019)<br>
+South Korea 48%, Thailand 9%, Germany 6%, Cyprus 6%, India 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
 scrap iron, refined petroleum, scrap copper, hydraulic engines, integrated circuits, peas, scrap aluminum (2021)<br>
 
 **Imports**<br>
-$893 million (2016 est.)<br>
-$638 million (2015 est.)<br>
+$536 million (2020 est.)<br>
+$735 million (2019 est.)<br>
+$754 million (2018 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Hong Kong 29%, Japan 29%, Singapore 16%, South Korea 9% (2019)<br>
+Singapore 42%, Japan 20%, South Korea 16%, Hong Kong 7%, Taiwan 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
 refined petroleum, trunks/cases, cars, watches, jewelry (2019)<br>

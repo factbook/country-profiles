@@ -290,7 +290,7 @@ _election results_: <em>2023:</em> David ADEAGN elected president over Delvin TH
 **Legislative branch**<br>
 _description_: unicameral Parliament (19 seats; members directly elected in multi-seat constituencies by majority vote using the "Dowdall" counting system by which voters rank candidates on their ballots; members serve 3-year terms)<br>
 _elections_: last held on 24 September 2022 (next to be held in September 2025)<br>
-_election results_: percent of vote - NA; seats - independent 19; composition as of February 2024 - men 17, women 2, percentage women 10.5%<br>
+_election results_: percent of vote - NA; seats - independent 19; composition - men 17, women 2, percentage women 10.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and several justices); note - in late 2017, the Nauruan Government revoked the 1976 High Court Appeals Act, which had allowed appeals beyond the Nauruan Supreme Court, and in early 2018, the government formed its own appeals court<br>
@@ -333,23 +333,23 @@ upper-middle-income Pacific island country; phosphate resource exhaustion made i
 $139.656 million (2022 est.)<br>
 $137.491 million (2021 est.)<br>
 $133.161 million (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.57% (2022 est.)<br>
 3.25% (2021 est.)<br>
 4.24% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $11,000 (2022 est.)<br>
 $11,000 (2021 est.)<br>
 $10,800 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $151.648 million (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5.1% (2017 est.)<br>
@@ -368,17 +368,15 @@ _exports of goods and services_: 11.2% (2016 est.)<br>
 _imports of goods and services_: -89.1% (2016 est.)<br>
 
 **Agricultural products**<br>
-coconuts, tropical fruit, vegetables, pork, eggs, pig offals, pig fat, poultry, papayas, cabbages<br>
+coconuts, tropical fruits, pork, eggs, pork offal, pork fat, chicken, papayas, vegetables, cabbages (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 phosphate mining, offshore banking, coconut products<br>
 
 **Industrial production growth rate**<br>
 4.3% (2014 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
-
-**Labor force**<br>
-NA<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Unemployment rate**<br>
 23% (2011 est.)<br>
@@ -389,21 +387,14 @@ _total_: 26.6% (2013)<br>
 _male_: 20.9%<br>
 _female_: 37.5%<br>
 
-**Population below poverty line**<br>
-NA<br>
-
 **Gini Index coefficient - distribution of family income**<br>
 34.8 (2012 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Remittances**<br>
 4.99% of GDP (2018 est.)<br>
 9.46% of GDP (2017 est.)<br>
 12.04% of GDP (2016 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $195 million (2020 est.)<br>
@@ -418,7 +409,7 @@ _expenditures_: $158 million (2020 est.)<br>
 
 **Taxes and other revenues**<br>
 44.35% (of GDP) (2020 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
@@ -427,29 +418,35 @@ note: central government tax revenue as a % of GDP<br>
 $8.406 million (2018 est.)<br>
 $14.11 million (2017 est.)<br>
 $2.079 million (2016 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $187 million (2021 est.)<br>
 $105 million (2020 est.)<br>
 $32.7 million (2019 est.)<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Thailand 49%, Saudi Arabia 14%, Philippines 11%, South Korea 8%, India 7% (2021)<br>
+Thailand 59%, Philippines 19%, South Korea 11%, India 3%, Japan 2% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-skipjack, calcium phosphates, tuna, cars, delivery trucks, low-voltage protection equipment (2021)<br>
+fish, phosphates, gas turbines, power equipment, plastic products (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $94.2 million (2021 est.)<br>
 $103 million (2020 est.)<br>
 $88.2 million (2019 est.)<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Australia 36%, Taiwan 16%, China 12%, Japan 12%, Nigeria 7% (2021)<br>
+Australia 47%, China 17%, Japan 12%, Fiji 11%, NZ 2% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, tugboats, cigarettes, cars, construction vehicles (2021)<br>
+ships, plastic products, other foods, cars, refined petroleum (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Debt - external**<br>
 $33.3 million (2004 est.)<br>

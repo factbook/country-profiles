@@ -321,10 +321,6 @@ tourism, boat building, offshore financial services<br>
 **Population below poverty line**<br>
 23% (2002 est.)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Budget**<br>
 _revenues_: $81.92 million (2017 est.)<br>
 _expenditures_: $80.32 million (2017 est.)<br>
@@ -351,15 +347,25 @@ $7.9 million (2017 est.)<br>
 $3.9 million (2016 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
+**Exports - partners**<br>
+Chile 74%, Hungary 7%, Kyrgyzstan 3%, US 2%, Netherlands 2% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
+
 **Exports - commodities**<br>
-packaged medicines, vaccines and cultures, used clothing, orthopedic appliances, blank audio media (2021)<br>
+packaged medicine, garments, vehicle parts/accessories, trucks, blank audio media (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $186.2 million (2017 est.)<br>
 $170.1 million (2016 est.)<br>
 
+**Imports - partners**<br>
+Chile 48%, US 27%, Botswana 18%, Canada 1%, Japan 1% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
+
 **Imports - commodities**<br>
-fuels, foodstuffs, manufactures, chemicals, trucks, textiles<br>
+poultry, copper ore, refined petroleum, natural gas, fish (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $76.38 million (31 December 2017 est.)<br>

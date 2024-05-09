@@ -331,7 +331,7 @@ _election results_: <br><em>2021:</em> Jose Daniel ORTEGA Saavedra reelected pre
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Asamblea Nacional (92 statutory seats, current 91; 70 members in multi-seat constituencies, representing the country's 15 departments and 2 autonomous regions, and 20 members in a single nationwide constituency directly elected by party-list proportional representation vote; up to 2 seats reserved for the previous president and the runner-up candidate in the previous presidential election; members serve 5-year terms)<br>
 _elections_: last held on 7 November 2021 (next to be held on 1 November 2026)<br>
-_election results_: percent of vote by party - NA; seats by party - FSLN 75, PLC 9, ALN 2, APRE 1, CCN 1, PLI 1, YATAMA 1; composition as of March 2024 - men 42, women 49, percentage women 53.9%<br>
+_election results_: percent of vote by party - NA; seats by party - FSLN 75, PLC 9, ALN 2, APRE 1, CCN 1, PLI 1, YATAMA 1; composition - men 42, women 49, percentage women 53.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Corte Suprema de Justicia (consists of 16 judges organized into administrative, civil, criminal, and constitutional chambers)<br>
@@ -385,29 +385,29 @@ low-income Central American economy; until 2018, nearly 20 years of sustained GD
 $40.456 billion (2022 est.)<br>
 $38.994 billion (2021 est.)<br>
 $35.337 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.75% (2022 est.)<br>
 10.35% (2021 est.)<br>
 -1.77% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $5,800 (2022 est.)<br>
 $5,700 (2021 est.)<br>
 $5,200 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $15.672 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 10.47% (2022 est.)<br>
 4.93% (2021 est.)<br>
 3.68% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B- (2018)<br>
@@ -429,24 +429,25 @@ _exports of goods and services_: 41.2% (2017 est.)<br>
 _imports of goods and services_: -55.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, milk, rice, maize, plantains, groundnuts, cassava, beans, coffee, poultry<br>
+sugarcane, milk, rice, oil palm fruit, maize, plantains, cassava, groundnuts, beans, coffee (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 food processing, chemicals, machinery and metal products, knit and woven apparel, petroleum refining and distribution, beverages, footwear, wood, electric wire harness manufacturing, mining<br>
 
 **Industrial production growth rate**<br>
 1.39% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 3.189 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.99% (2022 est.)<br>
 6.27% (2021 est.)<br>
 6.28% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.6% (2021 est.)<br>
@@ -455,22 +456,22 @@ _female_: 15.5%<br>
 
 **Population below poverty line**<br>
 24.9% (2016 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 46.2 (2014 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2%<br>
 _highest 10%_: 37.2% (2014 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 20.59% of GDP (2022 est.)<br>
 15.2% of GDP (2021 est.)<br>
 14.63% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $3.452 billion (2019 est.)<br>
@@ -486,7 +487,7 @@ _expenditures_: $3.511 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 19.81% (of GDP) (2022 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -495,37 +496,41 @@ calendar year<br>
 -$215.895 million (2022 est.)<br>
 -$438.479 million (2021 est.)<br>
 $456.1 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $7.87 billion (2022 est.)<br>
 $6.618 billion (2021 est.)<br>
 $5.342 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 60%, El Salvador 5%, Mexico 5% (2019)<br>
+US 52%, Mexico 12%, Honduras 7%, El Salvador 6%, Costa Rica 3% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-clothing and apparel, gold, insulated wiring, coffee, beef, cigars (2021)<br>
+garments, gold, coffee, insulated wire, beef (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $10.213 billion (2022 est.)<br>
 $8.342 billion (2021 est.)<br>
 $5.952 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 27%, Mexico 12%, China 11%, Guatemala 9%, Costa Rica 7%, El Salvador 6%, Honduras 6% (2019)<br>
+US 26%, China 11%, Honduras 10%, Guatemala 9%, Mexico 9% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, clothing and apparel, crude petroleum, packaged medicines, insulated wiring (2019)<br>
+garments, refined petroleum, fabric, plastic products, crude petroleum (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $4.404 billion (2022 est.)<br>
 $4.047 billion (2021 est.)<br>
 $3.212 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $11.674 billion (2019 est.)<br>

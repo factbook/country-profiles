@@ -234,7 +234,7 @@ see the Netherlands<br>
 
 **Executive branch**<br>
 _chief of state_: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor Ajamu G. BALY (since 10 October 2022)<br>
-_head of government_: Prime Minister Silveria JACOBS (since 28 March 2020)<br>
+_head of government_: Prime Minister Luc MERCELINA (since 3 May 2024)<br>
 _cabinet_: Cabinet nominated by the prime minister and appointed by the governor<br>
 _elections/appointments_: the monarch is hereditary; governor appointed by the monarch for a 6-year term; following parliamentary elections, the leader of the majority party usually elected prime minister by Parliament<br>
 
@@ -281,29 +281,29 @@ high-income, tourism-based Dutch autonomous constituent economy; severe hurrican
 $1.797 billion (2022 est.)<br>
 $1.637 billion (2021 est.)<br>
 $1.565 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 9.8% (2022 est.)<br>
 4.58% (2021 est.)<br>
 -13.32% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $41,900 (2022 est.)<br>
 $38,400 (2021 est.)<br>
 $37,000 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.537 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 2.19% (2017 est.)<br>
 0.11% (2016 est.)<br>
 0.33% (2015 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.4% (2008 est.)<br>
@@ -318,7 +318,7 @@ tourism, light industry<br>
 
 **Industrial production growth rate**<br>
 0.46% (2021 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 23,200 (2008 est.)<br>
@@ -331,28 +331,41 @@ note: annual % change in industrial value added based on constant local currency
 3.2% of GDP (2022 est.)<br>
 3.42% of GDP (2021 est.)<br>
 3.13% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Current account balance**<br>
 -$41.64 million (2022 est.)<br>
 -$300.6 million (2021 est.)<br>
 -$290.458 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $1.372 billion (2022 est.)<br>
 $790.938 million (2021 est.)<br>
 $527.044 million (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
+
+**Exports - partners**<br>
+France 41%, Antigua and Barbuda 18%, US 13%, Morocco 9%, UK 7% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-sugar<br>
+gas turbines, scrap iron, jewelry, coconuts/Brazil nuts/cashews, flavored water (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $1.318 billion (2022 est.)<br>
 $1.003 billion (2021 est.)<br>
 $760.824 million (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
+
+**Imports - partners**<br>
+US 77%, Netherlands 7%, France 4%, Trinidad and Tobago 2%, Switzerland 2% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
+
+**Imports - commodities**<br>
+refined petroleum, jewelry, pearl products, diamonds, cars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Netherlands Antillean guilders (ANG) per US dollar -<br>

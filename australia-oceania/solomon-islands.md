@@ -314,7 +314,7 @@ _election results_: Manasseh SOGAVARE (OUR Party) elected prime minister on 24 A
 **Legislative branch**<br>
 _description_: unicameral National Parliament (50 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
 _elections_: last held on 17 April 2024 (next to be held in 2028)<br>
-_election results_: percent of vote by party - OUR: 24.1%, independent 21.9%, SIDP 19.3%, SIUP 13.5%, KAD 4.5%, SIPRA 4.5%, PFP 3.2%, U4C 3.0%, DAP 1.6%, others 4.0%; seats by party - OUR Party 15, SIDP 8, SIUP 6, DAP 4, KAD 1, SIPRA 1, PFP 3, U4C 1, independents 11; composition as of December 2020 - men 46, women 4, percentage women 8%<br>
+_election results_: percent of vote by party - OUR: 24.1%, independent 21.9%, SIDP 19.3%, SIUP 13.5%, KAD 4.5%, SIPRA 4.5%, PFP 3.2%, U4C 3.0%, DAP 1.6%, others 4.0%; seats by party - OUR Party 15, SIDP 8, SIUP 6, DAP 4, KAD 1, SIPRA 1, PFP 3, U4C 1, independents 11; composition - men 46, women 4, percentage women 8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and ex officio members including the High Court chief justice and its puisne judges); High Court (consists of the chief justice and puisne judges, as prescribed by the National Parliament)<br>
@@ -362,29 +362,29 @@ lower middle-income Pacific island economy; natural resource rich but environmen
 $1.628 billion (2022 est.)<br>
 $1.697 billion (2021 est.)<br>
 $1.707 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -4.06% (2022 est.)<br>
 -0.57% (2021 est.)<br>
 -3.38% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $2,200 (2022 est.)<br>
 $2,400 (2021 est.)<br>
 $2,500 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.597 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5.52% (2022 est.)<br>
 -0.12% (2021 est.)<br>
 2.96% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2015)<br>
@@ -404,24 +404,25 @@ _exports of goods and services_: 25.8% (2011 est.)<br>
 _imports of goods and services_: -49.6% (2011 est.)<br>
 
 **Agricultural products**<br>
-oil palm fruit, sweet potatoes, coconuts, taro, yams, fruit, pulses, vegetables, cocoa, cassava<br>
+oil palm fruit, coconuts, sweet potatoes, taro, yams, fruits, pulses, vegetables, cocoa beans, cassava (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 fish (tuna), mining, timber<br>
 
 **Industrial production growth rate**<br>
 -3.84% (2020 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 372,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 1.61% (2022 est.)<br>
 0.94% (2021 est.)<br>
 0.89% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 1.9% (2021 est.)<br>
@@ -434,15 +435,11 @@ _female_: 2.3%<br>
 **Gini Index coefficient - distribution of family income**<br>
 37.1 (2013 est.)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 5.08% of GDP (2022 est.)<br>
 3.23% of GDP (2021 est.)<br>
 1.79% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $514 million (2019 est.)<br>
@@ -455,11 +452,11 @@ _expenditures_: $537 million (2019 est.)<br>
 11.46% of GDP (2020 est.)<br>
 7.74% of GDP (2019 est.)<br>
 7.69% of GDP (2018 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 20.67% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -468,37 +465,41 @@ calendar year<br>
 -$218.534 million (2022 est.)<br>
 -$78.192 million (2021 est.)<br>
 -$25.06 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $411.359 million (2022 est.)<br>
 $413.657 million (2021 est.)<br>
 $428.834 million (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 59%, Italy 9%, India 6%, Netherlands 4%, Australia 3% (2021)<br>
+China 51%, India 9%, Italy 8%, Australia 5%, Netherlands 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-lumber, tuna, palm oil, coconut oil, gold (2021)<br>
+wood, fish, palm oil, gold, coconut oil (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $764.641 million (2022 est.)<br>
 $619.46 million (2021 est.)<br>
 $556.26 million (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 36%, Singapore 13%, Australia 12%, Malaysia 10%, New Zealand 6% (2021)<br>
+China 37%, Singapore 16%, Malaysia 12%, Australia 10%, NZ 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, scrap iron, fish, iron structures, poultry meats, rice (2021)<br>
+refined petroleum, plastic products, fish, iron structures, construction vehicles (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $661.604 million (2022 est.)<br>
 $694.515 million (2021 est.)<br>
 $660.996 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $757 million (31 December 2017 est.)<br>

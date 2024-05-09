@@ -331,7 +331,7 @@ _election results_: <em>2020:</em> Chandrikapersad SANTOKHI elected president un
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Nationale Assemblee (51 seats; members directly elected in 10 multi-seat constituencies by party-list proportional representation vote, using the D'Hondt method, to serve 5-year terms)<br>
 _elections_: last held on 25 May 2020 (next to be held in May 2025)<br>
-_election results_: percent of vote by party - VHP 41.1%, NDP 29.4%, ABOP 17.6%, NPS 7.8%, other 3.9%; seats by party - VHP 20, NDP 16, ABOP 9, NPS 3, BEP 2, PL 2; composition as of February 2024 - men 35, women 16, percentage women 31.4%<br>
+_election results_: percent of vote by party - VHP 41.1%, NDP 29.4%, ABOP 17.6%, NPS 7.8%, other 3.9%; seats by party - VHP 20, NDP 16, ABOP 9, NPS 3, BEP 2, PL 2; composition - men 35, women 16, percentage women 31.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court of Justice of Suriname (consists of the court president, vice president, and 4 judges); note - appeals beyond the High Court are referred to the Caribbean Court of Justice; human rights violations can be appealed to the Inter-American Commission on Human Rights with judgments issued by the Inter-American Court on Human Rights<br>
@@ -384,29 +384,29 @@ upper middle-income South American economy; new floating currency regime; key al
 $9.3 billion (2022 est.)<br>
 $9.079 billion (2021 est.)<br>
 $9.306 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.43% (2022 est.)<br>
 -2.44% (2021 est.)<br>
 -15.98% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $15,000 (2022 est.)<br>
 $14,800 (2021 est.)<br>
 $15,300 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $3.621 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 52.45% (2022 est.)<br>
 59.12% (2021 est.)<br>
 34.89% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: C (2020)<br>
@@ -428,24 +428,25 @@ _exports of goods and services_: 68.9% (2017 est.)<br>
 _imports of goods and services_: -60.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-rice, sugar cane, bananas, oranges, vegetables, plantains, coconuts, poultry, cassava, eggs<br>
+rice, sugarcane, oranges, chicken, plantains, vegetables, bananas, coconuts, cassava, eggs (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 gold mining, oil, lumber, food processing, fishing<br>
 
 **Industrial production growth rate**<br>
 3.05% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 246,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 8.23% (2022 est.)<br>
 8.53% (2021 est.)<br>
 8.74% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 30.5% (2021 est.)<br>
@@ -455,15 +456,11 @@ _female_: 46.1%<br>
 **Population below poverty line**<br>
 70% (2002 est.)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 4.09% of GDP (2022 est.)<br>
 4.79% of GDP (2021 est.)<br>
 4.26% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $863 million (2019 est.)<br>
@@ -486,37 +483,41 @@ calendar year<br>
 $76.321 million (2022 est.)<br>
 $176.058 million (2021 est.)<br>
 $259.846 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $2.6 billion (2022 est.)<br>
 $2.299 billion (2021 est.)<br>
 $2.446 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Switzerland 51%, United Arab Emirates 22%, Belgium 6%, Trinidad and Tobago 2%, Guyana 2% (2021)<br>
+Switzerland 39%, UAE 21%, Belgium 10%, Guyana 5%, Trinidad and Tobago 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, lumber, refined petroleum, excavation machinery, rice (2021)<br>
+gold, refined petroleum, excavation machinery, wood, fish (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $2.342 billion (2022 est.)<br>
 $1.876 billion (2021 est.)<br>
 $1.845 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 19%, China 16%, Netherlands 15%, Trinidad and Tobago 8%, Japan 3% (2021)<br>
+US 25%, China 15%, Netherlands 13%, Trinidad and Tobago 6%, Japan 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, excavation machinery, delivery trucks, cars, cigarettes (2021)<br>
+refined petroleum, excavation machinery, cars, plastic products, tobacco (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $1.195 billion (2022 est.)<br>
 $992.257 million (2021 est.)<br>
 $584.929 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.7 billion (31 December 2017 est.)<br>

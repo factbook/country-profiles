@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Philippine Islands became a Spanish colony during the 16th century; they were ceded to the US in 1898 following the Spanish-American War.  Led by Emilio AGUINALDO, the Filipinos conducted an insurgency against American rule from 1899-1902, although some fighting continued in outlying islands as late as 1913. In 1935 the Philippines became a self-governing commonwealth. Manuel QUEZON was elected president and was tasked with preparing the country for independence after a 10-year transition. In 1942 the islands fell under Japanese occupation during World War II, and US forces and Filipinos fought together during 1944-45 to regain control. On 4 July 1946 the Republic of the Philippines attained its independence. A 21-year rule by Ferdinand MARCOS ended in 1986, when a "people power" movement in Manila ("EDSA 1") forced him into exile and installed Corazon AQUINO as president. Her presidency was hampered by several coup attempts that prevented a return to full political stability and economic development. Fidel RAMOS was elected president in 1992. His administration was marked by increased stability and by progress on economic reforms. In 1992, the US closed its last military bases on the islands. Joseph ESTRADA was elected president in 1998. He was succeeded by his vice-president, Gloria MACAPAGAL-ARROYO, in January 2001 after ESTRADA's stormy impeachment trial on corruption charges broke down and another "people power" movement ("EDSA 2") demanded his resignation. MACAPAGAL-ARROYO was elected to a six-year term as president in May 2004. Her presidency was marred by several corruption allegations, but the Philippine economy was one of the few to avoid contraction following the 2008 global financial crisis, expanding each year of her administration. Benigno AQUINO III was elected to a six-year term as president in May 2010 and was succeeded by Rodrigo DUTERTE in June 2016. During his six-year term, DUTERTE pursued a controversial drug war that garnered international criticism for alleged human rights abuses. Ferdinand MARCOS Jr., the son of MARCOS Sr., was elected president in May 2022 with the largest popular vote in a presidential election since his father's ouster.</p> <p>The Philippine Government faces threats from several groups, some of which are on the US Government's Foreign Terrorist Organization list. Manila has waged a decades-long struggle against ethnic Moro insurgencies in the southern Philippines, which led to a peace accord with the Moro National Liberation Front and a separate agreement with a break away faction, the Moro Islamic Liberation Front. The decades-long Maoist-inspired New People's Army insurgency also operates through much of the country. In 2017, Philippine armed forces battled an ISIS-East Asia siege in Marawi City, driving DUTERTE to declare martial law in the region. In 2019, DUTERTE shepherded a landmark peace deal with the Moro Islamic Liberation Front to establish a semi-autonomous region in the southern Philippines, the Bangsamoro Autonomous Region of Muslim Mindanao. The Philippines faces increased tension with China over disputed territorial and maritime claims in the South China Sea.</p><br>
+<p>The Philippine Islands became a Spanish colony during the 16th century; they were ceded to the US in 1898 following the Spanish-American War.  Led by Emilio AGUINALDO, the Filipinos conducted an insurgency against US rule from 1899-1902, although some fighting continued in outlying islands as late as 1913. In 1935, the Philippines became a self-governing commonwealth. Manuel QUEZON was elected president and was tasked with preparing the country for independence after a 10-year transition. The islands fell under Japanese occupation during World War II, and US forces and Filipinos fought together during 1944-45 to regain control. On 4 July 1946 the Republic of the Philippines attained its independence. <br><br>Twenty-one years of authoritarian rule under Ferdinand MARCOS ended in 1986, when a "people power" movement in Manila ("EDSA 1") forced him into exile and installed Corazon AQUINO as president. Several coup attempts hampered her presidency, and progress on political stability and economic development faltered until Fidel RAMOS was elected president in 1992. The US closed its last military bases on the islands the same year. Joseph ESTRADA was elected president in 1998. His vice-president, Gloria MACAPAGAL-ARROYO, succeded him in 2001 after ESTRADA's stormy impeachment trial on corruption charges broke down and another "people power" movement ("EDSA 2") demanded his resignation. MACAPAGAL-ARROYO was elected president in 2004. Corruption allegations marred her presidency, but the Philippine economy was one of the few to avoid contraction after the 2008 global financial crisis. Benigno AQUINO III was elected as president in 2010, followed by Rodrigo DUTERTE in 2016. During his term, DUTERTE pursued a controversial drug war that garnered international criticism for alleged human rights abuses. Ferdinand MARCOS, Jr. was elected president in 2022 with the largest popular vote in a presidential election since his father's ouster.</p> <p>Manila has waged a decades-long struggle against ethnic Moro insurgencies in the southern Philippines, which led to a peace accord with the Moro National Liberation Front and a separate agreement with a breakaway faction, the Moro Islamic Liberation Front. The decades-long Maoist-inspired New People's Army insurgency also operates through much of the country. In 2017, Philippine armed forces battled an ISIS-East Asia siege in Marawi City, driving DUTERTE to declare martial law in the region. In 2019, DUTERTE shepherded a landmark peace deal with the Moro Islamic Liberation Front to establish a semi-autonomous region in the southern Philippines, the Bangsamoro Autonomous Region of Muslim Mindanao. The Philippines faces increased tension with China over disputed territorial and maritime claims in the South China Sea.</p><br>
 
 ## Geography
 
@@ -354,7 +354,7 @@ _election results_: <em><br>2022: </em>Ferdinand MARCOS, Jr. elected president; 
 **Legislative branch**<br>
 _description_: bicameral Congress or Kongreso consists of:<br>Senate or Senado (24 seats; members directly elected in multi-seat constituencies by majority vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>House of Representatives or Kapulungan Ng Mga Kinatawan (316 seats; 253 members directly elected in single-seat constituencies by simple majority vote and 63 representing minorities directly elected by party-list proportional representation vote; members serve 3-year terms)<br>
 _elections_: Senate - elections last held on 9 May 2022 (next to be held in May 2025)<br>House of Representatives - elections last held on 9 May 2022 (next to be held in May 2025)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NPC 5, PDP-Laban 5, NP 4, other 5, independent 5; composition as of February 2024 - men 17, women 7, percentage women 29.2%<br><br>House of Representatives - percent of vote by party - PDP-Laban 22.7%, NP 13.7%, NUP 12.6%, NPC 11.7%,  Lakas-CMD 9.4%, LP 3.8%, HNP 2.5%, other 19.6%, independent 4%; seats by party - PDP-Laban 66, NP 36, NPC 35, NUP 33, Lakas-CMD 26, LP 10, HNP 6, other 35, independent 6, party-list 63; composition as of February 2024 - men 226, women 85, percentage women 27.3%; total Congress percentage women 27.5%<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NPC 5, PDP-Laban 5, NP 4, other 5, independent 5; composition - men 17, women 7, percentage women 29.2%<br><br>House of Representatives - percent of vote by party - PDP-Laban 22.7%, NP 13.7%, NUP 12.6%, NPC 11.7%,  Lakas-CMD 9.4%, LP 3.8%, HNP 2.5%, other 19.6%, independent 4%; seats by party - PDP-Laban 66, NP 36, NPC 35, NUP 33, Lakas-CMD 26, LP 10, HNP 6, other 35, independent 6, party-list 63; composition - men 226, women 85, percentage women 27.3%; total Congress percentage women 27.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of a chief justice and 14 associate justices)<br>
@@ -408,29 +408,29 @@ growing Southeast Asian economy; commercial rebound led by transportation, const
 $991.72 billion (2022 est.)<br>
 $921.927 billion (2021 est.)<br>
 $872.09 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 7.57% (2022 est.)<br>
 5.71% (2021 est.)<br>
 -9.52% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $8,600 (2022 est.)<br>
 $8,100 (2021 est.)<br>
 $7,800 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $404.284 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5.82% (2022 est.)<br>
 3.93% (2021 est.)<br>
 2.39% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2017)<br>
@@ -452,24 +452,25 @@ _exports of goods and services_: 31% (2017 est.)<br>
 _imports of goods and services_: -40.9% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, rice, coconuts, eggs, maize, bananas, vegetables, tropical fruit, plantains, pineapples<br>
+sugarcane, rice, coconuts, maize, bananas, vegetables, tropical fruits, plantains, pineapples, cassava (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 semiconductors and electronics assembly, business process outsourcing, food and beverage manufacturing, construction, electric/gas/water supply, chemical products, radio/television/communications equipment and apparatus, petroleum and fuel, textile and garments, non-metallic minerals, basic metal industries, transport equipment<br>
 
 **Industrial production growth rate**<br>
 6.54% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 47.872 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 2.38% (2022 est.)<br>
 3.4% (2021 est.)<br>
 2.52% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 7.3% (2021 est.)<br>
@@ -478,11 +479,11 @@ _female_: 9%<br>
 
 **Population below poverty line**<br>
 18.1% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 40.7 (2021 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 42% of household expenditures (2018 est.)<br>
@@ -491,13 +492,13 @@ _on alcohol and tobacco_: 1.4% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
 _highest 10%_: 32.5% (2021 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 2.24% of GDP (2022 est.)<br>
 9.31% of GDP (2021 est.)<br>
 9.64% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $71.173 billion (2020 est.)<br>
@@ -510,11 +511,11 @@ _expenditures_: $90.953 billion (2020 est.)<br>
 39.9% of GDP (2017 est.)<br>
 39% of GDP (2016 est.)<br>
 43.43% of GDP (2014 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 14.62% (of GDP) (2022 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -523,37 +524,41 @@ calendar year<br>
 -$18.116 billion (2022 est.)<br>
 -$5.943 billion (2021 est.)<br>
 $11.578 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $98.853 billion (2022 est.)<br>
 $87.798 billion (2021 est.)<br>
 $80.034 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 14%, China 14%, Hong Kong 12%, Japan 10%, Singapore 6% (2022)<br>
+US 14%, China 14%, Hong Kong 11%, Japan 10%, Singapore 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-integrated circuits, office machinery/parts, gold, semiconductors, insulated wiring (2022)<br>
+integrated circuits, machine parts, gold, semiconductors, insulated wire (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $152.656 billion (2022 est.)<br>
 $126.565 billion (2021 est.)<br>
 $99.943 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 33%, Indonesia 8%,&nbsp;South Korea 7%, Japan 7%, Singapore 6% (2022)<br>
+China 32%, Indonesia 8%, South Korea 7%, Japan 7%, Singapore 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-integrated circuits, refined petroleum, coal, cars, crude petroleum (2022)<br>
+integrated circuits, refined petroleum, coal, cars, plastic products (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $96.04 billion (2022 est.)<br>
 $108.755 billion (2021 est.)<br>
 $109.99 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $81.995 billion (2019 est.)<br>

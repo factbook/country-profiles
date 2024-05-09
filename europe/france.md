@@ -368,7 +368,7 @@ _election results_: <em><br>2022: </em>Emmanuel MACRON reelected in second round
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (348 seats - 328 for metropolitan France and overseas departments and regions of Guadeloupe, Martinique, French Guiana, Reunion, and Mayotte, 2 for New Caledonia, 2 for French Polynesia, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 1 for Wallis and Futuna, and 12 for French nationals abroad; members indirectly elected by departmental electoral colleges using absolute majority vote in 2 rounds if needed for departments with 1-3 members, and proportional representation vote in departments with 4 or more members; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly or Assemblee Nationale (577 seats - 556 for metropolitan France, 10 for overseas departments, and 11 for citizens abroad; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br>
 _elections_: Senate - last held on 24 September 2023 (next to be held by 30 September 2026)<br>National Assembly - last held on 12 and 19 June 2022 (next to be held on 30 June 2027)<br>
-_election results_: Senate - percent of vote by party - NA; seats by political caucus (party or group of parties) LR 139, SER 69, UC 51, RDPI 21, CRCE 17, LIRT 17, EST 16, RDSE 14; composition as of February 2024 - men 222, women 126, percentage women 36.2%.<br><br>National Assembly - percent of vote by party/coalition in the first round - ENS 25.8%, NUPES 25.7%, RN 18.7%, UDC 11.3%, other 18.5%; seats by party/coalition in the first round - NUPES 4, ENS 1; percent of vote in the second round - ENS 38.6%, NUPES 31.6%, RN 17.3%, UDC 7.3%, other 5.2%, seats by party/coalition in the second round - ENS 244, NUPES 127, RN 89, UDC 64, other 48; composition as of February 2024 - men 362, women 215, percentage women 37.3%; total Parliament percentage women 36.9%<br>
+_election results_: Senate - percent of vote by party - NA; seats by political caucus (party or group of parties) LR 139, SER 69, UC 51, RDPI 21, CRCE 17, LIRT 17, EST 16, RDSE 14; composition - men 222, women 126, percentage women 36.2%.<br><br>National Assembly - percent of vote by party/coalition in the first round - ENS 25.8%, NUPES 25.7%, RN 18.7%, UDC 11.3%, other 18.5%; seats by party/coalition in the first round - NUPES 4, ENS 1; percent of vote in the second round - ENS 38.6%, NUPES 31.6%, RN 17.3%, UDC 7.3%, other 5.2%, seats by party/coalition in the second round - ENS 244, NUPES 127, RN 89, UDC 64, other 48; composition - men 362, women 215, percentage women 37.3%; total Parliament percentage women 36.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation or Cour de Cassation (consists of the court president, 6 divisional presiding judges, 120 trial judges, and 70 deputy judges organized into 6 divisions - 3 civil, 1 commercial, 1 labor, and 1 criminal); Constitutional Council (consists of 9 members)<br>
@@ -419,35 +419,35 @@ _selected World Heritage Site locales_: Chartres Cathedral (c); Palace and Park 
 ## Economy
 
 **Economic overview**<br>
-high-income, advanced and diversified EU economy and euro user; strong tourism, aircraft manufacturing, pharmaceuticals, and industrial sectors; strong US partner; ongoing pension reform protests and civil unrest; transitioning to a green economy via "France 2030" strategy<br>
+high-income, advanced and diversified EU economy and euro user; strong tourism, aircraft manufacturing, pharmaceuticals, and industrial sectors; high public debt; ongoing pension and immigration reform efforts; transitioning to a green economy via "France 2030" strategy<br>
 
 **Real GDP (purchasing power parity)**<br>
 $3.12 trillion (2022 est.)<br>
 $3.045 trillion (2021 est.)<br>
 $2.861 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.45% (2022 est.)<br>
 6.44% (2021 est.)<br>
 -7.54% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $45,900 (2022 est.)<br>
 $44,900 (2021 est.)<br>
 $42,300 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $2.779 trillion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5.22% (2022 est.)<br>
 1.64% (2021 est.)<br>
 0.48% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA (2014)<br>
@@ -469,24 +469,25 @@ _exports of goods and services_: 30.9% (2017 est.)<br>
 _imports of goods and services_: -32% (2017 est.)<br>
 
 **Agricultural products**<br>
-wheat, sugar beets, milk, barley, maize, potatoes, grapes, rapeseed, pork, apples<br>
+wheat, sugar beets, milk, barley, maize, potatoes, grapes, rapeseed, pork, sunflower seeds (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 machinery, chemicals, automobiles, metallurgy, aircraft, electronics, textiles, food processing, tourism<br>
 
 **Industrial production growth rate**<br>
 -1.15% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 31.617 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 7.31% (2022 est.)<br>
 7.86% (2021 est.)<br>
 8.01% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 20.1% (2021 est.)<br>
@@ -495,11 +496,11 @@ _female_: 20.3%<br>
 
 **Population below poverty line**<br>
 15.6% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 30.7 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 13.2% of household expenditures (2018 est.)<br>
@@ -508,13 +509,13 @@ _on alcohol and tobacco_: 3.7% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1%<br>
 _highest 10%_: 24.5% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 1.22% of GDP (2022 est.)<br>
 1.11% of GDP (2021 est.)<br>
 1.09% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.427 trillion (2019 est.)<br>
@@ -527,11 +528,11 @@ _expenditures_: $1.509 trillion (2019 est.)<br>
 116.49% of GDP (2021 est.)<br>
 122.89% of GDP (2020 est.)<br>
 104.96% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 23.96% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -540,37 +541,41 @@ calendar year<br>
 -$56.672 billion (2022 est.)<br>
 $9.868 billion (2021 est.)<br>
 -$41.381 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $1.013 trillion (2022 est.)<br>
 $925.551 billion (2021 est.)<br>
 $752.31 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 13%, Italy 8%, Belgium 8%, United States 7%, Spain 7% (2021)<br>
+Germany 13%, Italy 9%, US 8%, Belgium 8%, Spain 8% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-aircraft, packaged medicines, cars and vehicle parts, wine, beauty products, gas turbines (2021)<br>
+aircraft, packaged medicine, cars, natural gas, vehicle parts/accessories (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $1.103 trillion (2022 est.)<br>
 $963.999 billion (2021 est.)<br>
 $799.147 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 17%, Italy 9%, Belgium 9%, Spain 8%, Netherlands 8% (2021)<br>
+Germany 15%, Belgium 9%, Spain 8%, Italy 8%, Netherlands 8% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars and vehicle parts, refined petroleum, natural gas, packaged medicines, crude petroleum (2021)<br>
+natural gas, cars, refined petroleum, crude petroleum, garments (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $242.416 billion (2022 est.)<br>
 $244.28 billion (2021 est.)<br>
 $224.236 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $6.356 trillion (2019 est.)<br>

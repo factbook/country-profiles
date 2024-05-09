@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The native Taino -- who inhabited the island of Hispaniola when Christopher COLUMBUS first landed in 1492 -- were virtually wiped out by Spanish settlers within 25 years. In the early 17th century, the French established a presence on Hispaniola. In 1697, Spain ceded to the French the western third of the island, which later became Haiti. The French colony, based on forestry and sugar-related industries, became one of the wealthiest in the Caribbean but relied heavily on the forced labor of enslaved Africans and environmentally degrading practices. In the late 18th century, Toussaint L'OUVERTURE led a revolution of Haiti's nearly half a million slaves that ended France's rule on the island. After a prolonged struggle, and under the leadership of Jean-Jacques DESSALINES, Haiti became the first country in the world led by former slaves after declaring its independence in 1804, but it was forced to pay an indemnity of 100 million francs (equivalent to $22 billion USD in March 2023) to France for more than a century and was shunned by other countries for nearly 40 years. In 1862, the US officially recognized Haiti, but foreign economic influence and internal political instability induced the US to occupy Haiti from 1915 to 1934.<br><br>Francois "Papa Doc" DUVALIER and then his son Jean-Claude "Baby Doc" DUVALIER led repressive and corrupt regimes that ruled Haiti in 1957-1971 and 1971-1986, respectively. Jean-Bertrand ARISTIDE was Haiti's first democratically elected president in 1991 and was elected a second time in 2000, but coups interrupted his first term after only a few months and ended his second term in 2004. President Jovenel MOÏSE was assassinated in 2021, leading the country further into an extra-constitutional governance structure and contributing to the country’s growing fragility. The Government of Haiti then installed Ariel HENRY -- whom President MOÏSE had nominated shortly before his death -- as prime minister. <br><br>On 29 February 2024, a significant escalation of gang violence occurred on the 20th anniversary of ARISTIDE's second overthrow, after the announcement that HENRY would not hold elections until August 2025. HENRY’s return from an overseas trip was diverted to Puerto Rico when the airport closed due to gang violence. With control of much of the capital, Port-au-Prince, gang leaders called for the ouster of HENRY’S government. By mid-March, Haiti’s continued violence, HENRY’S inability to return to the country, and increasing pressure from the international community led HENRY to pledge to resign. On 25 April 2024, HENRY formally submitted his resignation as a nine-member transitional presidential council assumed control, tasked with returning stability to the country and preparing elections. Since January 2023, Haiti has had no sitting elected officials.<br><br>The country has long been plagued by natural disasters. In 2010, a major 7.0 magnitude earthquake struck Haiti with an epicenter about 25 km (15 mi) west of the capital, Port-au-Prince. An estimated 300,000 people were killed, and some 1.5 million left homeless. The earthquake was assessed as the worst in this region in 200 years. A 7.2 magnitude earthquake hit Haiti’s southern peninsula in 2021, causing well over 2,000 deaths; an estimated 500,000 required emergency humanitarian aid. Haiti is the poorest country in the Western Hemisphere, as well as one of the most unequal in wealth distribution.</p><br>
+<p>The native Taino -- who inhabited the island of Hispaniola when Christopher COLUMBUS first landed in 1492 -- were virtually wiped out by Spanish settlers within 25 years. In the early 17th century, the French established a presence on Hispaniola. In 1697, Spain ceded to the French the western third of the island, which later became Haiti. The French colony, based on forestry and sugar-related industries, became one of the wealthiest in the Caribbean but relied heavily on the forced labor of enslaved Africans and environmentally degrading practices. In the late 18th century, Toussaint L'OUVERTURE led a revolution of Haiti's nearly half a million slaves that ended France's rule on the island. After a prolonged struggle, and under the leadership of Jean-Jacques DESSALINES, Haiti became the first country in the world led by former slaves after declaring its independence in 1804, but it was forced to pay an indemnity of 100 million francs (equivalent to $22 billion USD in March 2023) to France for more than a century and was shunned by other countries for nearly 40 years. In 1862, the US officially recognized Haiti, but foreign economic influence and internal political instability induced the US to occupy Haiti from 1915 to 1934.<br><br>Francois "Papa Doc" DUVALIER and then his son Jean-Claude "Baby Doc" DUVALIER led repressive and corrupt regimes that ruled Haiti in 1957-1971 and 1971-1986, respectively. Jean-Bertrand ARISTIDE was Haiti's first democratically elected president in 1991 and was elected a second time in 2000, but coups interrupted his first term after only a few months and ended his second term in 2004. President Jovenel MOÏSE was assassinated in 2021, leading the country further into an extra-constitutional governance structure and contributing to the country’s growing fragility. The Government of Haiti then installed Ariel HENRY -- whom President MOÏSE had nominated shortly before his death -- as prime minister. <br><br>On 29 February 2024, a significant escalation of gang violence occurred on the 20th anniversary of ARISTIDE's second overthrow, after the announcement that HENRY would not hold elections until August 2025. HENRY’s return from an overseas trip was diverted to Puerto Rico when the airport closed due to gang violence. With control of much of the capital, Port-au-Prince, gang leaders called for the ouster of HENRY’S government. By mid-March, Haiti’s continued violence, HENRY’S inability to return to the country, and increasing pressure from the international community led HENRY to pledge to resign. On 25 April 2024, HENRY formally submitted his resignation as a nine-member Transitional Presidential Council assumed control, tasked with returning stability to the country and preparing elections. Since January 2023, Haiti has had no sitting elected officials.<br><br>The country has long been plagued by natural disasters. In 2010, a major 7.0 magnitude earthquake struck Haiti with an epicenter about 25 km (15 mi) west of the capital, Port-au-Prince. An estimated 300,000 people were killed, and some 1.5 million left homeless. The earthquake was assessed as the worst in this region in 200 years. A 7.2 magnitude earthquake hit Haiti’s southern peninsula in 2021, causing well over 2,000 deaths; an estimated 500,000 required emergency humanitarian aid. Haiti is the poorest country in the Western Hemisphere, as well as one of the most unequal in wealth distribution.</p><br>
 
 ## Geography
 
@@ -328,7 +328,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President (vacant); note - former Prime Minister Ariel HENRY, who had assumed executive responsibilities following the assassination of President MO&Iuml;SE on 7 July 2021, resigned on 24 April 2024; a nine-member transitional council, equipped with presidential powers, was sworn in on 25 April 2024 and will appoint a new prime minister and cabinet<br>
+_chief of state_: President (vacant); note - former Prime Minister Ariel HENRY, who had assumed executive responsibilities following the assassination of President MO&Iuml;SE on 7 July 2021, resigned on 24 April 2024; a nine-member Presidential Transitional Council, equipped with presidential powers, was sworn in on 25 April 2024 and will remain in place until 7 February 2026<br>
 _head of government_: Interim Prime Minister Michel Patrick BOISVERT (since 25 April 2024)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president; parliament must ratify the Cabinet and Prime Minister's governing policy<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a single non-consecutive term); last election was 20 November 2016; new elections were delayed in 2022 and 2023 and have not been scheduled by the transitional presidential council<br>
@@ -392,29 +392,29 @@ small Caribbean island economy and OECS-member state; extreme poverty and inflat
 $32.428 billion (2022 est.)<br>
 $32.982 billion (2021 est.)<br>
 $33.586 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -1.68% (2022 est.)<br>
 -1.8% (2021 est.)<br>
 -3.31% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $2,800 (2022 est.)<br>
 $2,900 (2021 est.)<br>
 $3,000 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $20.254 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 33.98% (2022 est.)<br>
 16.84% (2021 est.)<br>
 22.8% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 22.1% (2017 est.)<br>
@@ -431,24 +431,25 @@ _imports of goods and services_: -60.3% (2017 est.)<br>
 <strong>note:</strong> figure for household consumption also includes government consumption<br>
 
 **Agricultural products**<br>
-sugar cane, cassava, mangoes/guavas, plantains, bananas, yams, avocados, maize, rice, vegetables<br>
+sugarcane, cassava, mangoes/guavas, plantains, bananas, maize, avocados, tropical fruits, rice, vegetables (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 textiles, sugar refining, flour milling, cement, light assembly using imported parts<br>
 
 **Industrial production growth rate**<br>
 -0.37% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 5.15 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 14.78% (2022 est.)<br>
 15.56% (2021 est.)<br>
 15.65% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 35.7% (2021 est.)<br>
@@ -469,7 +470,7 @@ _highest 10%_: 47.7% (2001)<br>
 22.38% of GDP (2022 est.)<br>
 20.1% of GDP (2021 est.)<br>
 23.82% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.179 billion (2020 est.)<br>
@@ -492,37 +493,41 @@ _expenditures_: $1.527 billion (2020 est.)<br>
 -$491.954 million (2022 est.)<br>
 $87.656 million (2021 est.)<br>
 $51.548 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $1.355 billion (2022 est.)<br>
 $1.272 billion (2021 est.)<br>
 $1.018 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 83%, Canada 4%, Mexico 3%, India 1%, Hong Kong 1% (2021)<br>
+US 84%, Canada 4%, Mexico 2%, Thailand 1%, France 1% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-clothing and apparel, essential oils, eels, mangoes, scrap iron (2021)<br>
+garments, essential oils, scrap iron, bedding, tropical fruits (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $5.451 billion (2022 est.)<br>
 $5.048 billion (2021 est.)<br>
 $4.177 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 26%, Dominican Republic 23%, China 19%, Turkey 3%, Indonesia 3% (2021)<br>
+US 31%, Dominican Republic 26%, China 16%, Indonesia 3%, India 2% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, rice, clothing and apparel, poultry, palm oil (2021)<br>
+refined petroleum, rice, cotton fabric, garments, plastic products (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $2.368 billion (2022 est.)<br>
 $2.734 billion (2021 est.)<br>
 $2.59 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2.762 billion (31 December 2017 est.)<br>

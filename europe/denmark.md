@@ -339,7 +339,7 @@ _elections/appointments_: the monarchy is hereditary; following legislative elec
 **Legislative branch**<br>
 _description_: unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)<br>
 _elections_: last held on 1 November 2022 (next to be held by 31 October 2026)<br>
-_election results_: percent of vote by party - SDP 27.5%, V 13.3%, M 9.3%, SF 8.3%, E 8.1%, LA 8.1%, C 5.5%, EL 5.1%, SLP 3.8%, AP 3.3%, NB 3.3%, DF 2.6%; seats by party - SDP 50, V 23, M 16, SF 15, E 14, LA 14, C 10, EL 9, SLP 7, AP 6, NB 6, DF 5; composition as of March 2024 - men 98, women 81, percentage women 45.3%<br>
+_election results_: percent of vote by party - SDP 27.5%, V 13.3%, M 9.3%, SF 8.3%, E 8.1%, LA 8.1%, C 5.5%, EL 5.1%, SLP 3.8%, AP 3.3%, NB 3.3%, DF 2.6%; seats by party - SDP 50, V 23, M 16, SF 15, E 14, LA 14, C 10, EL 9, SLP 7, AP 6, NB 6, DF 5; composition - men 98, women 81, percentage women 45.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president and 18 judges)<br>
@@ -393,29 +393,29 @@ diversified EU trade-based economy; environmental regulatory innovator; dominant
 $353.799 billion (2022 est.)<br>
 $344.393 billion (2021 est.)<br>
 $322.331 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.73% (2022 est.)<br>
 6.84% (2021 est.)<br>
 -2.42% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $59,900 (2022 est.)<br>
 $58,800 (2021 est.)<br>
 $55,300 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $400.167 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 7.7% (2022 est.)<br>
 1.85% (2021 est.)<br>
 0.42% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (2003)<br>
@@ -437,24 +437,25 @@ _exports of goods and services_: 54.5% (2017 est.)<br>
 _imports of goods and services_: -47.5% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, wheat, barley, potatoes, sugar beets, pork, rye, rapeseed, oats, poultry<br>
+milk, wheat, barley, potatoes, sugar beets, pork, rapeseed, rye, oats, chicken (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 wind turbines, pharmaceuticals, medical equipment, shipbuilding and refurbishment, iron, steel, nonferrous metals, chemicals, food processing, machinery and transportation equipment, textiles and clothing, electronics, construction, furniture and other wood products<br>
 
 **Industrial production growth rate**<br>
 6.98% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 3.141 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.43% (2022 est.)<br>
 5.04% (2021 est.)<br>
 5.64% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.1% (2021 est.)<br>
@@ -463,11 +464,11 @@ _female_: 10.6%<br>
 
 **Population below poverty line**<br>
 12.4% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 27.5 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 11.5% of household expenditures (2018 est.)<br>
@@ -476,13 +477,13 @@ _on alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.7%<br>
 _highest 10%_: 22.9% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.31% of GDP (2022 est.)<br>
 0.35% of GDP (2021 est.)<br>
 0.38% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $185.645 billion (2019 est.)<br>
@@ -498,7 +499,7 @@ _expenditures_: $172.408 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 34.81% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -507,37 +508,41 @@ calendar year<br>
 $53.067 billion (2022 est.)<br>
 $36.94 billion (2021 est.)<br>
 $28.731 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $279.939 billion (2022 est.)<br>
 $237.861 billion (2021 est.)<br>
 $195.876 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 14%, United States 10%, Sweden 10%, China 6%, Norway 5% (2021)<br>
+Germany 15%, US 11%, Sweden 10%, Netherlands 6%, Norway 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-packaged medicines, pork, refined petroleum, electric generators, cheese (2021)<br>
+packaged medicine, garments, fish, electricity, refined petroleum (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $235.68 billion (2022 est.)<br>
 $210.716 billion (2021 est.)<br>
 $172.954 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 21%, Sweden 12%, China 9%, Netherlands 8%, Poland 4% (2021)<br>
+Germany 20%, Sweden 12%, China 9%, Netherlands 8%, Norway 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, packaged medicines, refined petroleum, crude petroleum, broadcasting equipment, computers (2021)<br>
+garments, cars, refined petroleum, electricity, packaged medicine (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $96.073 billion (2022 est.)<br>
 $82.236 billion (2021 est.)<br>
 $72.823 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $504.808 billion (2019 est.)<br>

@@ -353,7 +353,7 @@ _election results_: <em>2024: </em>Olzhas BEKTENOV elected as prime minister; 69
 **Legislative branch**<br>
 _description_: bicameral Parliament of the Republic of Kazakhstan consists of:<br>Senate (50 seats); 40 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 10 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (98 seats; 69 members directly elected in a single national constituency by party list proportional representation vote (5% minimum threshold to gain seats) and 29 directly elected in single-seat constituencies to serve 5-year terms<br>
 _elections_: Senate - last held on 14 January 2023 (next to be held in 2026)<br>Mazhilis - last held on 19 March 2023 (next to be held in 2026)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition as of March 2024 - men 38, women 12, percentage women 24%<br><br>Mazhilis - percent of vote by party - Nur Otan 53.9%, Auvl 10.9%, Respublica 8.6%, Ak Zhol 8.4%, QHP 6.8%, NSDP 5.2%, Baytak 2.3%, Against all 3.9%; percent of vote by party (single-mandate districts) - Nur Otan 75.9%, independent 24%; seats by party - Nur Otan 62, Auvl 8, Respublica 6, Ak Zhol 6, QHP 5, NSDP 4, independent 7; composition as of March 2024 - men 79, women 19, percentage women 18.4%; note - total Parliament percentage women 20.9%<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 38, women 12, percentage women 24%<br><br>Mazhilis - percent of vote by party - Nur Otan 53.9%, Auvl 10.9%, Respublica 8.6%, Ak Zhol 8.4%, QHP 6.8%, NSDP 5.2%, Baytak 2.3%, Against all 3.9%; percent of vote by party (single-mandate districts) - Nur Otan 75.9%, independent 24%; seats by party - Nur Otan 62, Auvl 8, Respublica 6, Ak Zhol 6, QHP 5, NSDP 4, independent 7; composition - men 79, women 19, percentage women 18.4%; note - total Parliament percentage women 20.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Republic (consists of 44 members); Constitutional Council (consists of the chairperson and 6 members)<br>
@@ -407,29 +407,29 @@ oil and gas giant, with growing international investment; domestic economy hit h
 $512.002 billion (2022 est.)<br>
 $496.126 billion (2021 est.)<br>
 $475.672 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.2% (2022 est.)<br>
 4.3% (2021 est.)<br>
 -2.5% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $26,100 (2022 est.)<br>
 $26,100 (2021 est.)<br>
 $25,400 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $225.496 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8.04% (2021 est.)<br>
 6.77% (2020 est.)<br>
 5.25% (2019 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2016)<br>
@@ -451,24 +451,25 @@ _exports of goods and services_: 35.4% (2017 est.)<br>
 _imports of goods and services_: -27.1% (2017 est.)<br>
 
 **Agricultural products**<br>
-wheat, milk, potatoes, barley, watermelons, melons, linseed, onions, maize, sunflower seed<br>
+wheat, milk, potatoes, barley, watermelons, sunflower seeds, cantaloupes/melons, onions, maize, linseed (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 oil, coal, iron ore, manganese, chromite, lead, zinc, copper, titanium, bauxite, gold, silver, phosphates, sulfur, uranium, iron and steel; tractors and other agricultural machinery, electric motors, construction materials<br>
 
 **Industrial production growth rate**<br>
 4.15% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 9.481 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.86% (2022 est.)<br>
 5.57% (2021 est.)<br>
 4.89% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 3.7% (2021 est.)<br>
@@ -477,11 +478,11 @@ _female_: 4.3%<br>
 
 **Population below poverty line**<br>
 5.2% (2022 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 27.8 (2018 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 44.9% of household expenditures (2018 est.)<br>
@@ -490,13 +491,13 @@ _on alcohol and tobacco_: 1.7% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.3%<br>
 _highest 10%_: 23.4% (2018 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.21% of GDP (2022 est.)<br>
 0.16% of GDP (2021 est.)<br>
 0.22% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $29.955 billion (2020 est.)<br>
@@ -509,11 +510,11 @@ _expenditures_: $41.994 billion (2020 est.)<br>
 22.41% of GDP (2021 est.)<br>
 23.72% of GDP (2020 est.)<br>
 18.48% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 9.45% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -522,37 +523,41 @@ calendar year<br>
 $7.079 billion (2022 est.)<br>
 -$2.672 billion (2021 est.)<br>
 -$10.96 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $93.581 billion (2022 est.)<br>
 $71.726 billion (2021 est.)<br>
 $49.273 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 13%, Italy 12%, Russia 10%, Netherlands 7%, France 6%, South Korea 5% (2019)<br>
+China 14%, Italy 13%, Russia 9%, UK 8%, Netherlands 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, gold, copper, iron alloys, natural gas (2021)<br>
+crude petroleum, gold, refined copper, iron alloys, radioactive chemicals (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $60.147 billion (2022 est.)<br>
 $49.597 billion (2021 est.)<br>
 $46.502 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Russia 34%, China 24% (2019)<br>
+Russia 29%, China 28%, Germany 5%, South Korea 4%, Turkey 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-packaged medicines, natural gas, cars, broadcasting equipment, aircraft (2019)<br>
+garments, cars, broadcasting equipment, plastic products, packaged medicine (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $35.076 billion (2022 est.)<br>
 $34.378 billion (2021 est.)<br>
 $35.638 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $159.351 billion (2019 est.)<br>

@@ -366,7 +366,7 @@ _election results_: <br><em>2022: </em>Luiz Inácio LULA da Silva elected presid
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congresso Nacional consists of:<br>Federal Senate or Senado Federal (81 seats; 3 members each from 26 states and 3 from the federal district directly elected in multi-seat constituencies by simple majority vote to serve 8-year terms, with one-third and two-thirds of the membership elected alternately every 4 years)<br><br>Chamber of Deputies or Camara dos Deputados (513 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 4-year terms)<br>
 _elections_: Federal Senate - last held on 2 October 2022 for one-third of the Senate (next to be held on 4 October 2026 for two-thirds of the seats)<br>Chamber of Deputies - last held on 2 October 2022 (next to be held on 4 October 2026)<br>
-_election results_: Federal Senate - percent of vote by party - PL 25.4%, PSB 13.7%, PT 12.1%, PSD 11.4%, Progressistas 7.6%, Brazil Union 5.5%, PSC 4.3%, Republicans 4.3%, MDB 3.9%, other 11.8%; seats by party - PL 8, Brazil Union 5, PT 4, PP 3, Republicans 2, PSD 2, MDB 1, PSB 1, PSC 1; <br>note - composition of the Federal Senate as of March 2024 - seats by party - PL 13, Brazil Union 12, MDB 10, PSD 10, PT 9, Progressistas 7, Podemos 6, PSDB 4, Republicans 3, PDT 2, Cidadania 1, PSB 1, PSC 1, PROS 1, REDE 1; composition as of March 2024 - men 67, women 14, percentage women 17.3%  <br><br>Chamber of Deputies - percent of vote by party - PL 16.6%, PT 12.1%, Brazil Union 9.3%, PP 8%, PSD 7.6%, MDB 7.2%, Republicans 7%, PSB 3.8%, PDT 3.5%, PSOL 3.5%, Podemos 3.3%, PSDB 3%, Avante 2%, PSC 1.8%, SD 1.6%, Cidadania 1.5%, Patriota 1.4%, PTB 1.3%, NOVO 1.2%, PCdoB 1.1%, PV 0.9%, PROS 0.7%, REDE 0.7%, other 0.9%; seats by party - PL 99, PT 69, Brazil Union 59, PP 47, MDB 42, PSD 42, Republicans 40, PDT 17, PSB 14, PSDB 13, Podemos 12, PSOL 12, Avante 7, PCdoB 6, PSC 6, PV 6, Cidadania 5, Patriota 4, SD 4, NOVO 3, PROS 3, REDE 2, PTB 1; composition as of March 2024 - men 423, women 90, percentage women 17.5%; total National Congress percentage women 17.5%<br>
+_election results_: Federal Senate - percent of vote by party - PL 25.4%, PSB 13.7%, PT 12.1%, PSD 11.4%, Progressistas 7.6%, Brazil Union 5.5%, PSC 4.3%, Republicans 4.3%, MDB 3.9%, other 11.8%; seats by party - PL 8, Brazil Union 5, PT 4, PP 3, Republicans 2, PSD 2, MDB 1, PSB 1, PSC 1; <br>note - composition of the Federal Senate as of March 2024 - seats by party - PL 13, Brazil Union 12, MDB 10, PSD 10, PT 9, Progressistas 7, Podemos 6, PSDB 4, Republicans 3, PDT 2, Cidadania 1, PSB 1, PSC 1, PROS 1, REDE 1; composition - men 67, women 14, percentage women 17.3%  <br><br>Chamber of Deputies - percent of vote by party - PL 16.6%, PT 12.1%, Brazil Union 9.3%, PP 8%, PSD 7.6%, MDB 7.2%, Republicans 7%, PSB 3.8%, PDT 3.5%, PSOL 3.5%, Podemos 3.3%, PSDB 3%, Avante 2%, PSC 1.8%, SD 1.6%, Cidadania 1.5%, Patriota 1.4%, PTB 1.3%, NOVO 1.2%, PCdoB 1.1%, PV 0.9%, PROS 0.7%, REDE 0.7%, other 0.9%; seats by party - PL 99, PT 69, Brazil Union 59, PP 47, MDB 42, PSD 42, Republicans 40, PDT 17, PSB 14, PSDB 13, Podemos 12, PSOL 12, Avante 7, PCdoB 6, PSC 6, PV 6, Cidadania 5, Patriota 4, SD 4, NOVO 3, PROS 3, REDE 2, PTB 1; composition - men 423, women 90, percentage women 17.5%; total National Congress percentage women 17.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Federal Court or Supremo Tribunal Federal (consists of 11 justices)<br>
@@ -422,29 +422,29 @@ industrial-led economic growth model; recovering from 2014-2016 recession when C
 $3.25 trillion (2022 est.)<br>
 $3.158 trillion (2021 est.)<br>
 $3.008 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.9% (2022 est.)<br>
 4.99% (2021 est.)<br>
 -3.28% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $15,100 (2022 est.)<br>
 $14,700 (2021 est.)<br>
 $14,100 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.92 trillion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 9.28% (2022 est.)<br>
 8.3% (2021 est.)<br>
 3.21% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB (2023)<br>
@@ -466,24 +466,25 @@ _exports of goods and services_: 12.6% (2017 est.)<br>
 _imports of goods and services_: -11.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, soybeans, maize, milk, cassava, oranges, poultry, rice, beef, cotton<br>
+sugarcane, soybeans, maize, milk, cassava, oranges, chicken, rice, beef, wheat (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 textiles, shoes, chemicals, cement, lumber, iron ore, tin, steel, aircraft, motor vehicles and parts, other machinery and equipment<br>
 
 **Industrial production growth rate**<br>
 1.62% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 108.751 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 9.23% (2022 est.)<br>
 13.16% (2021 est.)<br>
 13.7% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 31.9% (2021 est.)<br>
@@ -496,7 +497,7 @@ _female_: 38.2%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 52.9 (2021 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 15.7% of household expenditures (2018 est.)<br>
@@ -505,13 +506,13 @@ _on alcohol and tobacco_: 1.5% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1%<br>
 _highest 10%_: 41.5% (2021 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.26% of GDP (2022 est.)<br>
 0.25% of GDP (2021 est.)<br>
 0.24% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $424.196 billion (2020 est.)<br>
@@ -524,11 +525,11 @@ _expenditures_: $617.332 billion (2020 est.)<br>
 80.41% of GDP (2022 est.)<br>
 86.09% of GDP (2021 est.)<br>
 98.71% of GDP (2020 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 14.97% (of GDP) (2022 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -537,37 +538,41 @@ calendar year<br>
 -$53.62 billion (2022 est.)<br>
 -$46.358 billion (2021 est.)<br>
 -$28.208 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $380.619 billion (2022 est.)<br>
 $315.494 billion (2021 est.)<br>
 $238.221 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 28%, United States 13% (2019)<br>
+China 26%, US 11%, Argentina 5%, Netherlands 3%, Spain 3% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-iron, soybeans, crude petroleum, sugar, poultry meats (2021)<br>
+soybeans, crude petroleum, iron ore, refined petroleum, corn (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $376.084 billion (2022 est.)<br>
 $306.087 billion (2021 est.)<br>
 $230.508 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 21%, United States 18%, Germany 6%, Argentina 6% (2019)<br>
+China 24%, US 18%, Germany 5%, Argentina 5%, India 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, vehicle parts, crude petroleum, integrated circuits, pesticides (2019)<br>
+refined petroleum, fertilizers, vehicle parts/accessories, crude petroleum, pesticides (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $324.673 billion (2022 est.)<br>
 $362.21 billion (2021 est.)<br>
 $355.614 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $681.336 billion (2019 est.)<br>

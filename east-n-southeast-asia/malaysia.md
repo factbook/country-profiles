@@ -338,7 +338,7 @@ _elections/appointments_: king elected by and from the hereditary rulers of 9 st
 **Legislative branch**<br>
 _description_: bicameral Parliament of Malaysia or Parlimen Malaysia consists of:<br>Senate or Dewan Negara (70 seats; 44 members appointed by the king and 26 indirectly elected by 13 state legislatures; members serve 3-year terms)<br>House of Representatives or Dewan Rakyat (222 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms) (2016)<br>
 _elections_: Senate - appointed<br>House of Representatives - last held on 19 Nov 2022 (next to be held in 2027)<br>
-_election results_: Senate - appointed; composition as of March 2024 - men 51, women 10, percentage women 16.4%<br><br>House of Representatives - percent of vote by party/coalition - PH 37.5%, PN 30.4%, BN 22.4%, GPS 4%, WARISAN 1.8%, GRS 1.3%, other 2.6%; seats by party/coalition - PH 90, PN 50, BN 42, GPS 18, WARISAN 7, PEJUANG 4, PBM 3, PSB 1, MUDA 1, independent 4, vacant 2; composition as of March 2024 - 192 men, 30 women; percentage women 13.5%; total Parliament percentage women 9.2%<br>
+_election results_: Senate - appointed; composition - men 51, women 10, percentage women 16.4%<br><br>House of Representatives - percent of vote by party/coalition - PH 37.5%, PN 30.4%, BN 22.4%, GPS 4%, WARISAN 1.8%, GRS 1.3%, other 2.6%; seats by party/coalition - PH 90, PN 50, BN 42, GPS 18, WARISAN 7, PEJUANG 4, PBM 3, PSB 1, MUDA 1, independent 4, vacant 2; composition - 192 men, 30 women; percentage women 13.5%; total Parliament percentage women 9.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Court (consists of the chief justice, president of the Court of Appeal, chief justice of the High Court of Malaya, chief judge of the High Court of Sabah and Sarawak, 8 judges, and 1 "additional" judge); note - Malaysia has a dual judicial hierarchy of civil and religious (sharia) courts<br>
@@ -392,29 +392,29 @@ upper middle-income Southeast Asian economy; implementing key anticorruption pol
 $963.29 billion (2022 est.)<br>
 $886.596 billion (2021 est.)<br>
 $858.293 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 8.65% (2022 est.)<br>
 3.3% (2021 est.)<br>
 -5.46% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $28,400 (2022 est.)<br>
 $26,400 (2021 est.)<br>
 $25,900 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $407.027 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 3.38% (2022 est.)<br>
 2.48% (2021 est.)<br>
 -1.14% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB+ (2020)<br>
@@ -436,24 +436,25 @@ _exports of goods and services_: 71.4% (2017 est.)<br>
 _imports of goods and services_: -64.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-oil palm fruit, rice, poultry, eggs, vegetables, rubber, coconuts, bananas, pineapples, pork<br>
+oil palm fruit, rice, chicken, eggs, coconuts, tropical fruits, vegetables, rubber, bananas, pineapples (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 Peninsular Malaysia - rubber and oil palm processing and manufacturing, petroleum and natural gas, light manufacturing, pharmaceuticals, medical technology, electronics and semiconductors, timber processing; Sabah - logging, petroleum and natural gas production; Sarawak - agriculture processing, petroleum and natural gas production, logging<br>
 
 **Industrial production growth rate**<br>
 6.46% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 17.129 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.63% (2022 est.)<br>
 4.08% (2021 est.)<br>
 4.54% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.6% (2021 est.)<br>
@@ -462,11 +463,11 @@ _female_: 17.8%<br>
 
 **Population below poverty line**<br>
 6.2% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 41.2 (2018 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 21.5% of household expenditures (2018 est.)<br>
@@ -475,13 +476,13 @@ _on alcohol and tobacco_: 1.8% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3%<br>
 _highest 10%_: 31.2% (2018 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.4% of GDP (2022 est.)<br>
 0.42% of GDP (2021 est.)<br>
 0.42% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $77.736 billion (2019 est.)<br>
@@ -494,11 +495,11 @@ _expenditures_: $85.851 billion (2019 est.)<br>
 63.26% of GDP (2021 est.)<br>
 62.01% of GDP (2020 est.)<br>
 52.42% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 11.21% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -507,37 +508,41 @@ calendar year<br>
 $12.271 billion (2022 est.)<br>
 $14.493 billion (2021 est.)<br>
 $14.138 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $312.857 billion (2022 est.)<br>
 $263.836 billion (2021 est.)<br>
 $208.217 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Singapore 15%, China 14%, US 13%, Hong Kong 6%, Japan 6% (2021)<br>
+Singapore 14%, China 13%, US 12%, Japan 6%, Hong Kong 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-integrated circuits, refined petroleum, palm oil, rubber apparel, natural gas, semiconductors (2021)<br>
+integrated circuits, refined petroleum, natural gas, palm oil, crude petroleum (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $283.601 billion (2022 est.)<br>
 $236.855 billion (2021 est.)<br>
 $186.613 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 29%, Singapore 11%, Japan 6%, US 6%, Taiwan 6% (2021)<br>
+China 28%, Singapore 12%, US 6%, Taiwan 6%, Japan 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-integrated circuits, refined petroleum, crude petroleum, coal, gold, semiconductors (2021)<br>
+integrated circuits, refined petroleum, crude petroleum, coal, vehicle parts/accessories (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $114.659 billion (2022 est.)<br>
 $116.916 billion (2021 est.)<br>
 $107.644 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $224.596 billion (2019 est.)<br>

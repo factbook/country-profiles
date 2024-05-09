@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-The island, with its fine natural harbor at Castries and burgeoning sugar industry, was contested by England and France throughout the 17th and early 18th centuries (changing possession 14 times); it was finally ceded to the UK in 1814 and became part of the British Windward Islands colony. Even after the abolition of slavery on its plantations in 1834, Saint Lucia remained an agricultural island, dedicated to producing tropical commodity crops. In the mid-20th century, Saint Lucia joined the West Indies Federation (1958&ndash;1962) and in 1967 became one of the six members of the West Indies Associated States, with internal self-government. In 1979, Saint Lucia gained full independence.<br>
+England and France contested Saint Lucia -- with its fine natural harbor at Castries and burgeoning sugar industry -- throughout the 17th and early 18th centuries, with possession changing 14 times; it was finally ceded to the UK in 1814 and became part of the British Windward Islands colony. Even after the abolition of slavery on its plantations in 1834, Saint Lucia remained an agricultural island, dedicated to producing tropical commodity crops. In the mid-20th century, Saint Lucia joined the West Indies Federation (1958&ndash;1962) and in 1967 became one of the six members of the West Indies Associated States, with internal self-government. In 1979, Saint Lucia gained full independence.<br>
 
 ## Geography
 
@@ -309,7 +309,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 **Legislative branch**<br>
 _description_: bicameral Houses of Parliament consists of:<br>Senate (11 seats; all members appointed by the governor general; 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 2 upon consultation with religious, economic, and social groups; members serve 5-year terms)<br>House of Assembly (18 seats; 17 members directly elected in single-seat constituencies by simple majority vote and the speaker, designated from outside the Parliament; members serve 5-year terms)<br>
 _elections_: Senate - last appointments on 17 August 2021 (next to be held in 2026)<br>House of Assembly - last held on 26 July 2021 (next to be held in 2026)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition as of February 2024 - men 6, women 5, percentage women 45.5%<br><br>House of Assembly - percent of vote by party - SLP 50.1%, UWP 42.9%, other 0.3%, independent 6.6%; seats by party - SLP 13, UWP 2, independent 2; composition (including the speaker) as of February 2024 - men 16, women 2, percentage women 11.1%; note - total Parliament percentage women 24.1%<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 6, women 5, percentage women 45.5%<br><br>House of Assembly - percent of vote by party - SLP 50.1%, UWP 42.9%, other 0.3%, independent 6.6%; seats by party - SLP 13, UWP 2, independent 2; composition - men 16, women 2, percentage women 11.1%; note - total Parliament percentage women 24.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states with 4 on Saint Lucia; Saint Lucia is a member of the Caribbean Court of Justice<br>
@@ -357,29 +357,29 @@ upper middle-income, tourism-based Caribbean island economy; environmentally fra
 $2.716 billion (2022 est.)<br>
 $2.344 billion (2021 est.)<br>
 $2.088 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 15.88% (2022 est.)<br>
 12.23% (2021 est.)<br>
 -24.36% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $15,100 (2022 est.)<br>
 $13,000 (2021 est.)<br>
 $11,700 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $2.344 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 6.38% (2022 est.)<br>
 2.41% (2021 est.)<br>
 -1.76% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.9% (2017 est.)<br>
@@ -395,24 +395,25 @@ _exports of goods and services_: 62.7% (2017 est.)<br>
 _imports of goods and services_: -56.9% (2017 est.)<br>
 
 **Agricultural products**<br>
-bananas, coconuts, fruit, tropical fruit, plantains, roots/tubers, cassava, poultry, vegetables, mangoes/guavas<br>
+coconuts, bananas, tropical fruits, fruits, plantains, root vegetables, chicken, vegetables, cassava, pork (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism; clothing, assembly of electronic components, beverages, corrugated cardboard boxes, lime processing, coconut processing<br>
 
 **Industrial production growth rate**<br>
 -0.41% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 103,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 15.77% (2022 est.)<br>
 19.58% (2021 est.)<br>
 20.41% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 38.7% (2021 est.)<br>
@@ -421,22 +422,22 @@ _female_: 36.2%<br>
 
 **Population below poverty line**<br>
 25% (2016 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 51.2 (2016 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 0.9% NA<br>
-_highest 10%_: 38.6% (2016 est.) NA<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+_lowest 10%_: 0.9%<br>
+_highest 10%_: 38.6% (2016 est.)<br>
+<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 2.36% of GDP (2022 est.)<br>
 3.23% of GDP (2021 est.)<br>
 3.51% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $350 million (2020 est.)<br>
@@ -451,7 +452,7 @@ _expenditures_: $516 million (2020 est.)<br>
 
 **Taxes and other revenues**<br>
 18.24% (of GDP) (2017 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
@@ -460,37 +461,41 @@ note: central government tax revenue as a % of GDP<br>
 -$52.32 million (2022 est.)<br>
 -$129.365 million (2021 est.)<br>
 -$231.919 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $1.209 billion (2022 est.)<br>
 $710.431 million (2021 est.)<br>
 $452.444 million (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Brazil 98% (2021)<br>
+US 17%, Guyana 16%, Trinidad and Tobago 14%, Barbados 9%, Suriname 7% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, fertilizers, refined petroleum, polymers, aluminum (2021)<br>
+beer, gravel and crushed stone, paper containers, refined petroleum, liquor (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $1.179 billion (2022 est.)<br>
 $815.666 million (2021 est.)<br>
 $666.968 million (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Brazil 64%, United States 14%, Russia 8%, Colombia 7%, Trinidad and Tobago 2% (2021)<br>
+US 76%, Trinidad and Tobago 4%, China 3%, UK 2%, Barbados 2% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, poultry, sugar, refined petroleum, soybeans, beef, corn, wheat (2021)<br>
+refined petroleum, cars, plastic products, poultry, flavored water (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $389.083 million (2022 est.)<br>
 $433.117 million (2021 est.)<br>
 $231.361 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $570.6 million (31 December 2017 est.)<br>

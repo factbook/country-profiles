@@ -355,7 +355,7 @@ _election results_: <em><br>2022: </em>Latif RASHID elected president in second 
 **Legislative branch**<br>
 _description_: unicameral Council of Representatives of Iraq (COR) or Majlis an-Nuwwab al-Iraqiyy (329 seats; 320 members directly elected in 83 multi-seat constituencies by single nontransferable vote, 9 seats elected by religious minorities - 5 by Christians, 1 each by Sabaean-Mandaeans, Yazidis, Shabaks andFayli Kurds, and 25% of seats allocated to women; members serve 4-year terms)<br>
 _elections_: last held on 10 October 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party/coalition - NA; seats by party/coalition - Taqadum 47, State of Law Coalition 43, Al Fatah Alliance 37, Kurdistan Democratic Party 31, Kurdistan Coalition 18, Azm Alliance 16, Imtidad 16, State Forces Alliance 11, Ishraqat Kanun 10, New Generation Movement 9, National Contract Party 8, Tasmim Alliance 7, Babiliyun Movement 3, other 73; composition as of March 2024 - men 234, women 95, percentage women 29.2%; note - seat counts reflect updated numbers following the 12 June 2022 Sadrist Trend withdrawal from government formation, and its 73 seats were reallocated to other parties<br>
+_election results_: percent of vote by party/coalition - NA; seats by party/coalition - Taqadum 47, State of Law Coalition 43, Al Fatah Alliance 37, Kurdistan Democratic Party 31, Kurdistan Coalition 18, Azm Alliance 16, Imtidad 16, State Forces Alliance 11, Ishraqat Kanun 10, New Generation Movement 9, National Contract Party 8, Tasmim Alliance 7, Babiliyun Movement 3, other 73; composition - men 234, women 95, percentage women 29.2%; note - seat counts reflect updated numbers following the 12 June 2022 Sadrist Trend withdrawal from government formation, and its 73 seats were reallocated to other parties<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court or FSC (consists of 9 judges); note - court jurisdiction limited to constitutional issues, application of federal laws, ratification of election results for the COR, judicial competency disputes, and disputes between regions or governorates and the central government; Court of Cassation (consists of a court president, 5 vice presidents, and at least 24 judges)<br>
@@ -402,35 +402,35 @@ _selected World Heritage Site locales_: Ashur (Qal'at Sherqat) (c); Babylon (c);
 ## Economy
 
 **Economic overview**<br>
-oil-dependent Middle Eastern economy; COVID-19 disruption and domestic economy fragility post-US presence; poverty increases; currency devaluation leading to inflation; import-dependent for most sectors; evaluating fiscal and monetary restructuring<br>
+highly oil-dependent Middle Eastern economy; fiscal sustainability subject to fluctuation in oil prices; rising public confidence in economic conditions; import-dependent for most sectors; persistent challenges of corruption, informal markets, banking access, and political fragility<br>
 
 **Real GDP (purchasing power parity)**<br>
 $409.321 billion (2022 est.)<br>
 $382.511 billion (2021 est.)<br>
 $376.549 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 7.01% (2022 est.)<br>
 1.58% (2021 est.)<br>
 -12.04% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $9,200 (2022 est.)<br>
 $8,800 (2021 est.)<br>
 $8,800 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $264.182 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4.99% (2022 est.)<br>
 6.04% (2021 est.)<br>
 0.57% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B- (2015)<br>
@@ -452,24 +452,25 @@ _exports of goods and services_: 32.5% (2016 est.)<br>
 _imports of goods and services_: -40.9% (2016 est.)<br>
 
 **Agricultural products**<br>
-wheat, barley, dates, tomatoes, rice, maize, grapes, potatoes, watermelons<br>
+wheat, dates, tomatoes, maize, watermelons, grapes, potatoes, milk, cucumbers/gherkins, eggplants (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 petroleum, chemicals, textiles, leather, construction materials, food processing, fertilizer, metal fabrication/processing<br>
 
 **Industrial production growth rate**<br>
 11.15% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 11.356 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 15.32% (2022 est.)<br>
 16.17% (2021 est.)<br>
 15.75% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 27.2% (2021 est.)<br>
@@ -494,7 +495,7 @@ _highest 10%_: 25.7% (2007 est.)<br>
 0.24% of GDP (2022 est.)<br>
 0.4% of GDP (2021 est.)<br>
 0.36% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $51.534 billion (2020 est.)<br>
@@ -507,11 +508,11 @@ _expenditures_: $85.546 billion (2020 est.)<br>
 27.44% of GDP (2018 est.)<br>
 35.86% of GDP (2017 est.)<br>
 29.48% of GDP (2016 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 1.34% (of GDP) (2019 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -520,37 +521,41 @@ calendar year<br>
 $58.01 billion (2022 est.)<br>
 $24.565 billion (2021 est.)<br>
 -$6.306 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $127.079 billion (2022 est.)<br>
 $78.261 billion (2021 est.)<br>
 $50.666 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 26%, India 24%, South Korea 9%, United States 8%, Italy 6%, Greece 6% (2019)<br>
+India 32%, China 28%, US 8%, South Korea 7%, Greece 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, refined petroleum, gold, petroleum coke, natural gas (2021)<br>
+crude petroleum, refined petroleum, gold, petroleum coke, natural gas (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $69.162 billion (2022 est.)<br>
 $50.707 billion (2021 est.)<br>
 $54.865 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United Arab Emirates 28%, Turkey 21%, China 19% (2019)<br>
+UAE 32%, China 21%, Turkey 20%, India 4%, South Korea 2% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, broadcasting equipment, cars, jewelry, cigarettes (2019)<br>
+refined petroleum, broadcasting equipment, cars, jewelry, garments (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $97.009 billion (2022 est.)<br>
 $64.231 billion (2021 est.)<br>
 $54.424 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $73.02 billion (31 December 2017 est.)<br>

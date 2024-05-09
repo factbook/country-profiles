@@ -349,7 +349,7 @@ _elections/appointments_: monarch chosen by the 9-member Royal Council of the Th
 **Legislative branch**<br>
 _description_: bicameral Parliament of Cambodia consists of:<br>Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)<br><br>National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
 _elections_: Senate - last held on 25 February 2024 (next to be held in February 2030)<br>National Assembly - last held on 23 July 2023 (next to be held in July 2028)<br>
-_election results_: Senate - percent of vote by party - CPP 86%, KWP 12%; seats by party - CPP 57; KWP 3; independent 2 <br><br>National Assembly - percent of vote by party - CPP 82.4%, FUNCINPEC 9.2%, KNUP 1.7%, CYP 1.3%, other 5.4% (14 other parties received votes); seats by party - CPP 120, FUNCINPEC 5; composition as of March 2024 - men 108, women 17, percentage women 13.6%<br>
+_election results_: Senate - percent of vote by party - CPP 86%, KWP 12%; seats by party - CPP 57; KWP 3; independent 2 <br><br>National Assembly - percent of vote by party - CPP 82.4%, FUNCINPEC 9.2%, KNUP 1.7%, CYP 1.3%, other 5.4% (14 other parties received votes); seats by party - CPP 120, FUNCINPEC 5; composition - men 108, women 17, percentage women 13.6%<br>
 <strong>note:</strong> the CPP had no meaningful opposition in the July 2023 legislative election as the only serious challenger - the Candlelight Party - was disqualified on a technicality in advance of the election; the EU, UN, and US condemned the poll as neither free nor fair<br>
 
 **Judicial branch**<br>
@@ -404,29 +404,29 @@ one of the fastest growing Southeast Asian economies; rebounding tourism and clo
 $76.023 billion (2022 est.)<br>
 $72.238 billion (2021 est.)<br>
 $70.116 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 5.24% (2022 est.)<br>
 3.03% (2021 est.)<br>
 -3.1% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $4,500 (2022 est.)<br>
 $4,400 (2021 est.)<br>
 $4,300 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $29.505 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5.34% (2022 est.)<br>
 2.92% (2021 est.)<br>
 2.94% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B2 (2007)<br>
@@ -447,24 +447,25 @@ _exports of goods and services_: 68.6% (2017 est.)<br>
 _imports of goods and services_: -73% (2017 est.)<br>
 
 **Agricultural products**<br>
-cassava, rice, maize, vegetables, sugar cane, soybeans, rubber, oil palm fruit, bananas, pork<br>
+cassava, rice, maize, sugarcane, vegetables, oil palm fruit, rubber, bananas, jute, pork (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, garments, construction, rice milling, fishing, wood and wood products, rubber, cement, gem mining, textiles<br>
 
 **Industrial production growth rate**<br>
 8.85% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 9.057 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 0.23% (2022 est.)<br>
 0.4% (2021 est.)<br>
 0.17% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 1.8% (2021 est.)<br>
@@ -489,7 +490,7 @@ _highest 10%_: 28% (2013 est.)<br>
 8.87% of GDP (2022 est.)<br>
 9.42% of GDP (2021 est.)<br>
 10% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $7.254 billion (2019 est.)<br>
@@ -504,7 +505,7 @@ _expenditures_: $6.452 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 16.36% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -513,38 +514,41 @@ calendar year<br>
 -$7.582 billion (2022 est.)<br>
 -$10.893 billion (2021 est.)<br>
 -$881.214 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $25.497 billion (2022 est.)<br>
 $20.178 billion (2021 est.)<br>
 $20.29 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 35%, China 7%, Germany 7%, Vietnam 7%, Japan 6% (2021)<br>
+US 36%, Vietnam 10%, Germany 7%, Japan 5%, Canada 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-clothing and footwear, trunks and cases, rice, rubber, light fixtures (2021)<br>
-<strong>note:</strong> Cambodian methamphetamine production remains a significant illicit trade export<br>
+garments, trunks and cases, footwear, cassava, shoes (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $34.759 billion (2022 est.)<br>
 $32.816 billion (2021 est.)<br>
 $23.091 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 27%, Singapore 27%, Thailand 16%, Vietnam 12%, Hong Kong 2% (2021)<br>
+China 30%, Thailand 19%, Singapore 18%, Vietnam 13%, Switzerland 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-gold, refined petroleum, clothing, motorcycle parts, cars (2021)<br>
+gold, refined petroleum, fabric, plastic products, vehicle parts/accessories (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $17.801 billion (2022 est.)<br>
 $20.27 billion (2021 est.)<br>
 $21.328 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $11.87 billion (31 December 2017 est.)<br>

@@ -350,7 +350,7 @@ _election results_: <em><br>2022:</em> Serdar BERDIMUHAMEDOV elected president; 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Mejlis (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms); formerly the Assembly was the lower house of the bicameral National Council or Milli Genes, which consisted of an upper house, the People's Council or Halk Maslahaty, and the Assembly or Mejlis<br>
 _elections_: last held on 26 March 2023 (next to be held in 2028)<br>
-_election results_: percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition as of February 2024 men 93, women 32, percentage women 25.6%<br>
+_election results_: percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition men 93, women 32, percentage women 25.6%<br>
 <strong>note:</strong> on 22 January 2023, a joint session of the then bicameral National Council or Milli Genes voted unanimously to abolish itself, re-establishing a unicameral legislature and a separate People's Council or Halk Maslahaty<br>
 
 **Judicial branch**<br>
@@ -405,23 +405,23 @@ upper middle-income Central Asian economy; has 10% of global natural gas reserve
 $94.79 billion (2022 est.)<br>
 $93.205 billion (2021 est.)<br>
 $89.192 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.7% (2022 est.)<br>
 4.5% (2021 est.)<br>
 -3.4% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $14,700 (2022 est.)<br>
 $14,700 (2021 est.)<br>
 $14,300 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $56.543 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8% (2017 est.)<br>
@@ -441,24 +441,25 @@ _exports of goods and services_: 26.2% (2017 est.)<br>
 _imports of goods and services_: -14.3% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, wheat, cotton, tomatoes, potatoes, watermelons, grapes, sugar beets, beef, rice<br>
+milk, cotton, wheat, potatoes, watermelons, tomatoes, grapes, beef, sugar beets, lamb/mutton (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 natural gas, oil, petroleum products, textiles, food processing<br>
 
 **Industrial production growth rate**<br>
 4.3% (2014 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 2.117 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.13% (2022 est.)<br>
 4.53% (2021 est.)<br>
 4.55% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11% (2021 est.)<br>
@@ -483,7 +484,7 @@ _highest 10%_: 31.7% (1998)<br>
 0% of GDP (2022 est.)<br>
 0% of GDP (2021 est.)<br>
 0% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $5.954 billion (2019 est.)<br>
@@ -507,24 +508,32 @@ calendar year<br>
 -$7.207 billion (2016 est.)<br>
 
 **Exports**<br>
-$7.458 billion (2017 est.)<br>
-$6.987 billion (2016 est.)<br>
+$10.282 billion (2021 est.)<br>
+$8.164 billion (2020 est.)<br>
+$11.188 billion (2019 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 82% (2019)<br>
+China 71%, Turkey 7%, Uzbekistan 5%, Azerbaijan 4%, Morocco 2% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-natural gas, refined petroleum, crude petroleum, cotton fibers, fertilizers (2019)<br>
+natural gas, refined petroleum, fertilizers, crude petroleum, electricity (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$4.571 billion (2017 est.)<br>
-$5.215 billion (2016 est.)<br>
+$6.25 billion (2021 est.)<br>
+$8.301 billion (2020 est.)<br>
+$8.844 billion (2019 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Turkey 25%, Russia 18%, China 14%, Germany 6% (2019)<br>
+UAE 27%, Turkey 24%, China 19%, Kazakhstan 7%, Germany 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-iron products, harvesting machinery, packaged medicines, broadcasting equipment, tractors (2019)<br>
+broadcasting equipment, cars, wheat, computers, iron structures (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $24.91 billion (31 December 2017 est.)<br>

@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-Several Indigenous groups, principally belonging to the Guarani language family, inhabited the area of modern Paraguay before the arrival of the Spanish in the early 16th century, when the territory was incorporated into the Viceroyalty of Peru. Paraguay achieved its independence from Spain in 1811 with the help of neighboring states. In the aftermath of independence, a series of military dictators ruled the country until 1870. During the disastrous War of the Triple Alliance (1864-70) - fought against Argentina, Brazil, and Uruguay - Paraguay lost two thirds of its adult males and much of its territory. The country stagnated economically for the next half century and experienced a tumultuous series of political regimes. Following the Chaco War of 1932-35 with Bolivia, Paraguay gained a large part of the Chaco lowland region. The 35-year military dictatorship of Alfredo STROESSNER ended in 1989, and Paraguay has held relatively free and regular presidential elections since the country's return to democracy.<br>
+Several Indigenous groups, principally belonging to the Guarani language family, inhabited the area of modern Paraguay before the arrival of the Spanish in the early 16th century, when the territory was incorporated into the Viceroyalty of Peru. Paraguay achieved its independence from Spain in 1811 with the help of neighboring states. In the aftermath of independence, a series of military dictators ruled the country until 1870. During the disastrous War of the Triple Alliance (1864-70) -- fought against Argentina, Brazil, and Uruguay -- Paraguay lost two thirds of its adult males and much of its territory. The country stagnated economically for the next half-century and experienced a tumultuous series of political regimes. Following the Chaco War of 1932-35 with Bolivia, Paraguay gained a large part of the Chaco lowland region. The 35-year military dictatorship of Alfredo STROESSNER ended in 1989, and Paraguay has held relatively free and regular presidential elections since the country's return to democracy.<br>
 
 ## Geography
 
@@ -350,7 +350,7 @@ _election results_: <br><em>2023: </em>Santiago PEÑA Palacios elected presiden
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Chamber of Senators or Camara de Senadores (45 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote to serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (80 seats; members directly elected in 18 multi-seat constituencies - corresponding to the country's 17 departments and capital city - by closed-list proportional representation vote to serve 5-year terms)<br>
 _elections_: Chamber of Senators - last held on 30 April 2023 (next to be held in April 2028)<br>Chamber of Deputies - last held on 30 April 2023 (next to be held in April 2028)<br>
-_election results_: Chamber of Senators - percent of vote by party/coalition - ANR 45.7%, PLRA 24.4%, PCN 11.5%, PEN 5.2%, PPQ 2.5%, other 10.7%; seats by party/coalition - ANR 23, PLRA 12, PCN 5, PEN 2, PPQ 1, other 2; composition as of February 2024 - men 34, women 11, percentage women 24.4%<br><br>Chamber of Deputies - percent of vote by party/coalition - ANR 44%, PLRA 30.9%, PCN 8.3%, PPQ 3.6%, PEN 2.9%; other 10.3%; seats by party/coalition - ANR 49, PLRA 21, PCN 4, PEN 2, PPQ 1, other 3; composition as of February 2024 - men 61, women 19, percentage women 23.8%; note - total National Congress percentage women NA%<br>
+_election results_: Chamber of Senators - percent of vote by party/coalition - ANR 45.7%, PLRA 24.4%, PCN 11.5%, PEN 5.2%, PPQ 2.5%, other 10.7%; seats by party/coalition - ANR 23, PLRA 12, PCN 5, PEN 2, PPQ 1, other 2; composition - men 34, women 11, percentage women 24.4%<br><br>Chamber of Deputies - percent of vote by party/coalition - ANR 44%, PLRA 30.9%, PCN 8.3%, PPQ 3.6%, PEN 2.9%; other 10.3%; seats by party/coalition - ANR 49, PLRA 21, PCN 4, PEN 2, PPQ 1, other 3; compositio - men 61, women 19, percentage women 23.8%; note - total National Congress percentage women NA%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 justices divided 3 each into the Constitutional Court, Civil and Commercial Chamber, and Criminal Division)<br>
@@ -404,29 +404,29 @@ upper middle-income South American economy; COVID-19 hit while still recovering 
 $91.753 billion (2022 est.)<br>
 $91.684 billion (2021 est.)<br>
 $88.143 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 0.08% (2022 est.)<br>
 4.02% (2021 est.)<br>
 -0.82% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $13,500 (2022 est.)<br>
 $13,700 (2021 est.)<br>
 $13,300 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $41.722 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 9.77% (2022 est.)<br>
 4.79% (2021 est.)<br>
 1.77% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB+ (2018)<br>
@@ -448,24 +448,25 @@ _exports of goods and services_: 46.6% (2017 est.)<br>
 _imports of goods and services_: -42.2% (2017 est.)<br>
 
 **Agricultural products**<br>
-soybeans, sugar cane, maize, cassava, wheat, rice, beef, milk, oranges, oil palm fruit<br>
+sugarcane, maize, soybeans, cassava, rice, wheat, milk, beef, oranges, oil palm fruit (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 sugar processing, cement, textiles, beverages, wood products, steel, base metals, electric power<br>
 
 **Industrial production growth rate**<br>
 0.3% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 3.404 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 6.75% (2022 est.)<br>
 7.31% (2021 est.)<br>
 7.55% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 16.3% (2021 est.)<br>
@@ -474,11 +475,11 @@ _female_: 21.9%<br>
 
 **Population below poverty line**<br>
 24.7% (2022 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 45.1 (2022 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 31.7% of household expenditures (2018 est.)<br>
@@ -487,13 +488,13 @@ _on alcohol and tobacco_: 4.2% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
 _highest 10%_: 35.4% (2022 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 1.42% of GDP (2022 est.)<br>
 1.47% of GDP (2021 est.)<br>
 1.65% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $7.272 billion (2019 est.)<br>
@@ -508,7 +509,7 @@ _expenditures_: $8.714 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 9.79% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -517,37 +518,41 @@ calendar year<br>
 -$2.793 billion (2022 est.)<br>
 -$308.061 million (2021 est.)<br>
 $685.188 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $14.971 billion (2022 est.)<br>
 $14.821 billion (2021 est.)<br>
 $12.339 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Brazil 32%, Argentina 22%, Chile 8%, Russia 8% (2019)<br>
+Brazil 36%, Argentina 19%, Chile 12%, Russia 4%, US 3% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-soybeans and soybean products, electricity, beef, corn, insulated wiring (2019)<br>
+beef, electricity, soybeans, corn, soybean meal (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $17.142 billion (2022 est.)<br>
 $14.316 billion (2021 est.)<br>
 $10.982 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Brazil 24%, United States 22%, China 17%, Argentina 10%, Chile 5% (2019)<br>
+China 28%, Brazil 23%, US 11%, Argentina 8%, Chile 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-broadcasting equipment, cars, pesticides, refined petroleum, tires (2019)<br>
+refined petroleum, broadcasting equipment, cars, fertilizers, pesticides (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $9.519 billion (2022 est.)<br>
 $9.661 billion (2021 est.)<br>
 $9.202 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $16.622 billion (2019 est.)<br>

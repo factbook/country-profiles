@@ -243,7 +243,7 @@ parliamentary democracy (Parliament of Greenland or Inatsisartut)<br>
 part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark since 1979<br>
 
 **Capital**<br>
-_name_: Nuuk (Godthaab)<br>
+_name_: Nuuk<br>
 _geographic coordinates_: 64 11 N, 51 45 W<br>
 _time difference_: UTC-2 (3 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
@@ -252,7 +252,7 @@ _etymology_: "nuuk" is the Inuit word for "cape" and refers to the city's positi
 
 **Administrative divisions**<br>
 5 municipalities (kommuner, singular kommune); Avannaata, Kujalleq, Qeqertalik, Qeqqata, Sermersooq<br>
-<strong>note:</strong> Northeast Greenland National Park (Kalaallit Nunaanni Nuna Eqqissisimatitaq) and the Thule Air Base in Pituffik (in northwest Greenland) are two unincorporated areas; the national park's 972,000 sq km - about 46% of the island - makes it the largest national park in the world and also the most northerly<br>
+<strong>note:</strong> Northeast Greenland National Park (Kalaallit Nunaanni Nuna Eqqissisimatitaq) and the Pituffik Space Base (formerly known as Thule Air Base) in northwest Greenland are two unincorporated areas; the national park's 972,000 sq km - about 46% of the island - makes it the largest national park in the world and also the most northerly<br>
 
 **Independence**<br>
 none (extensive self-rule as part of the Kingdom of Denmark; foreign affairs is the responsibility of Denmark, but Greenland actively participates in international agreements relating to Greenland)<br>
@@ -273,7 +273,7 @@ see Denmark<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King FREDERIK X of Denmark (since 14 January 2024), represented by High Commissioner Mikaela ENGELL (since April 2011) (2024)<br>
+_chief of state_: King FREDERIK X of Denmark (since 14 January 2024), represented by High Commissioner Julie Praest WILCHE (since May 2022) (2024)<br>
 _head of government_: Premier Mute B. EGEDE (since 23 April 2021)<br>
 _cabinet_: Self-rule Government (Naalakkersuisut) elected by the Parliament (Inatsisartut)<br>
 _elections/appointments_: the monarchy is hereditary; high commissioner appointed by the monarch; premier indirectly elected by Parliament for a 4-year term<br>
@@ -281,7 +281,7 @@ _election results_: <em><br>2021:</em> Mute B. EGEDE elected premier; Parliament
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Inatsisartut (31 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote - by the d'Hondt method - to serve 4-year terms)<br>Greenland elects 2 members to the Danish Parliament to serve 4-year terms<br>
-_elections_: Greenland Parliament - last held on 6 April 2021 (next to be held in 2025)<br>Greenland members to Danish Parliament - last held on 5 June 2019 (next to be held by 4 June 2023)<br>
+_elections_: Greenland Parliament - last held on 6 April 2021 (next to be held in 2025)<br>
 _election results_: Greenland Parliament - percent of vote by party - IA 38.7%, S 32.2%, N 12.9%, D 9.7%, A 6.5%; seats by party - IA 12, S 10, N 4, D 3, A 2; composition as of April 2024 - men 22, women 9, percentage women 29%<br><br>Greenland members in Danish Parliament - percent of vote by party - NA; seats by party - IA 1, S 1; composition - 2 women<br>
 
 **Judicial branch**<br>
@@ -338,7 +338,7 @@ $2.203 billion (2013 est.)<br>
 1.29% (2021 est.)<br>
 0.19% (2020 est.)<br>
 2.83% (2019 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $41,800 (2015 est.)<br>
@@ -347,7 +347,7 @@ $38,500 (2013 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $3.236 billion (2021 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 0.3% (January 2017 est.)<br>
@@ -373,8 +373,8 @@ sheep, cattle, reindeer, fish, shellfish<br>
 fish processing (mainly shrimp and Greenland halibut), anorthosite and ruby mining, handicrafts, hides and skins, small shipyards<br>
 
 **Industrial production growth rate**<br>
--10.63% (2021 est.) NA<br>
-note: annual % change in industrial value added based on constant local currency<br>
+-10.63% (2021 est.)<br>
+<strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 26,840 (2015 est.)<br>
@@ -388,10 +388,6 @@ note: annual % change in industrial value added based on constant local currency
 
 **Gini Index coefficient - distribution of family income**<br>
 33.9 (2015 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Budget**<br>
 _revenues_: $1.719 billion (2016 est.)<br>
@@ -410,24 +406,32 @@ _expenditures_: $1.594 billion (2016 est.)<br>
 calendar year<br>
 
 **Exports**<br>
-$407.1 million (2015 est.)<br>
-$599.7 million (2014 est.)<br>
+$1.147 billion (2021 est.)<br>
+$1.108 billion (2020 est.)<br>
+$1.23 billion (2019 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Denmark 55%, China 22%, Japan 6% (2019)<br>
+Denmark 49%, China 24%, UK 6%, Japan 5%, Taiwan 3% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-shrimp, halibut, fish fillets, crabs, cod, mackerel (2021)<br>
+fish, shellfish, processed crustaceans, precious stones, animal products (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$783.5 million (2015 est.)<br>
-$866.1 million (2014 est.)<br>
+$1.609 billion (2021 est.)<br>
+$1.441 billion (2020 est.)<br>
+$1.533 billion (2019 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Denmark 51%, Spain 23%, Sweden 12%, Iceland 7% (2019)<br>
+Denmark 56%, Sweden 22%, France 10%, Iceland 3%, Canada 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-fishing ships, refined petroleum, construction vehicles, crustaceans, delivery trucks (2019)<br>
+refined petroleum, aircraft, garments, construction vehicles, plastic products (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Debt - external**<br>
 $36.4 million (2010)<br>

@@ -379,29 +379,29 @@ upper middle-income, fossil fuel-based North African economy; 31% economic contr
 $134.861 billion (2022 est.)<br>
 $136.55 billion (2021 est.)<br>
 $103.941 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -1.24% (2022 est.)<br>
 31.37% (2021 est.)<br>
 -29.79% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $19,800 (2022 est.)<br>
 $20,300 (2021 est.)<br>
 $15,600 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $45.752 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4.51% (2022 est.)<br>
 2.87% (2021 est.)<br>
 1.45% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.3% (2017 est.)<br>
@@ -417,24 +417,25 @@ _exports of goods and services_: 38.8% (2017 est.)<br>
 _imports of goods and services_: -33.8% (2017 est.)<br>
 
 **Agricultural products**<br>
-potatoes, watermelons, tomatoes, onions, dates, milk, olives, wheat, poultry, vegetables<br>
+potatoes, watermelons, tomatoes, onions, dates, milk, olives, chicken, wheat, vegetables (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 petroleum, petrochemicals, aluminum, iron and steel, food processing, textiles, handicrafts, cement<br>
 
 **Industrial production growth rate**<br>
 -9.9% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 2.327 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 19.3% (2022 est.)<br>
 19.71% (2021 est.)<br>
 19.71% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 50.5% (2021 est.)<br>
@@ -444,15 +445,11 @@ _female_: 73.8%<br>
 **Population below poverty line**<br>
 <p><strong>note:</strong> about one third of Libyans live at or below the national poverty line</p><br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 0% of GDP (2022 est.)<br>
 0% of GDP (2021 est.)<br>
 0% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $28.005 billion (2019 est.)<br>
@@ -475,37 +472,41 @@ calendar year<br>
 $5.675 billion (2021 est.)<br>
 -$4.78 billion (2020 est.)<br>
 $4.817 billion (2019 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $32.38 billion (2021 est.)<br>
 $9.537 billion (2020 est.)<br>
 $29.326 billion (2019 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Italy 18%, China 16%, Germany 15%, Spain 15%, United Arab Emirates 6%, France 6%, United States 5% (2019)<br>
+Italy 26%, Spain 10%, Germany 9%, China 7%, France 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, natural gas, refined petroleum, scrap iron, gold (2021)<br>
+crude petroleum, natural gas, gold, refined petroleum, scrap iron (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $25.406 billion (2021 est.)<br>
 $14.334 billion (2020 est.)<br>
 $25.368 billion (2019 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 16%, Turkey 14%, Italy 9%, United Arab Emirates 9%, Egypt 5% (2019)<br>
+Turkey 15%, China 12%, Italy 12%, Greece 10%, UAE 7% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, broadcasting equipment, cigarettes, jewelry (2019)<br>
+refined petroleum, cars, garments, broadcasting equipment, tobacco (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $86.683 billion (2022 est.)<br>
 $82.262 billion (2021 est.)<br>
 $79.656 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $3.02 billion (31 December 2017 est.)<br>

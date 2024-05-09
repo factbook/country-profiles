@@ -294,7 +294,7 @@ _election results_: <em>2023:</em> parliament elects Sylvanie BURTON (DLP) with 
 **Legislative branch**<br>
 _description_: unicameral House of Assembly (32 seats; 21 representatives directly elected in single-seat constituencies by simple majority vote, 9 senators appointed by the president - 5 on the advice of the prime minister, and 4 on the advice of the leader of the opposition party, plus 2 ex-officio members - the house speaker and the attorney general; members serve 5-year terms)<br>
 _elections_: last held on 6 December 2022 (next to be held in 2027); note - tradition dictates that the election is held within 5 years of the last election, but technically it is 5 years from the first seating of parliament plus a 90-day grace period<br>
-_election results_: percent of vote by party - DLP 82.3%, independent 16.9%; (elected) seats by party - DLP 19, independent 2; composition as of March 2024 - men 20, women 12, percent of women 37.5%<br>
+_election results_: percent of vote by party - DLP 82.3%, independent 16.9%; (elected) seats by party - DLP 19, independent 2; composition - men 20, women 12, percent of women 37.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 in Dominica; note - in 2015, Dominica acceded to the Caribbean Court of Justice as final court of appeal, replacing that of the Judicial Committee of the Privy Council, in London<br>
@@ -342,29 +342,29 @@ highly agrarian OECS island economy; ECCU-member state; large banana exporter; i
 $833.828 million (2022 est.)<br>
 $789.248 million (2021 est.)<br>
 $738.371 million (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 5.65% (2022 est.)<br>
 6.89% (2021 est.)<br>
 -16.6% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $11,500 (2022 est.)<br>
 $10,900 (2021 est.)<br>
 $10,300 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $607.441 million (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 -0.73% (2020 est.)<br>
 1.5% (2019 est.)<br>
 0.99% (2018 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 22.3% (2017 est.)<br>
@@ -380,28 +380,24 @@ _exports of goods and services_: 54.4% (2017 est.)<br>
 _imports of goods and services_: -62.7% (2017 est.)<br>
 
 **Agricultural products**<br>
-bananas, yams, grapefruit, taro, milk, coconuts, oranges, yautia, plantains, sugar cane<br>
-<strong>note:</strong> forest and fishery potential not exploited<br>
+taro, grapefruits, yams, bananas, plantains, coconuts, milk, yautia, oranges, sugarcane (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 soap, coconut oil, tourism, copra, furniture, cement blocks, shoes<br>
 
 **Industrial production growth rate**<br>
 1.07% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Population below poverty line**<br>
 29% (2009 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Remittances**<br>
 8.56% of GDP (2022 est.)<br>
 11.72% of GDP (2021 est.)<br>
 11.61% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $180 million (2021 est.)<br>
@@ -424,37 +420,41 @@ _expenditures_: $184 million (2021 est.)<br>
 -$133.58 million (2022 est.)<br>
 -$153.204 million (2021 est.)<br>
 -$178.7 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $192.278 million (2022 est.)<br>
 $123.36 million (2021 est.)<br>
 $95.366 million (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Saudi Arabia 28%, France 6%, United States 5%, Grenada 5%, China 4% (2021)<br>
+Bahamas, The 12%, Guyana 8%, Antigua and Barbuda 7%, Dominican Republic 7%, Barbados 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-medical instruments, low-voltage protection equipment, sutures, soap, bandages (2021)<br>
+power equipment, soap, raw iron bars, natural gas, tropical fruits (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $349.052 million (2022 est.)<br>
 $307.79 million (2021 est.)<br>
 $303.326 million (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 75%, China 5%, Trinidad and Tobago 4%, United Kingdom 2%, Italy 2% (2021)<br>
+US 51%, China 9%, Indonesia 4%, Trinidad and Tobago 4%, Italy 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, natural gas, crude petroleum, recreational boats, cars (2021)<br>
+refined petroleum, natural gas, crude petroleum, plastic products, cars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $204.343 million (2022 est.)<br>
 $190.843 million (2021 est.)<br>
 $165.824 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $280.4 million (31 December 2017 est.)<br>

@@ -213,13 +213,15 @@ _expenditures_: $4.8 million (FY99/00)<br>
 1 July - 30 June<br>
 
 **Exports - partners**<br>
-Philippines 29%, Singapore 21%, India 14%, Belgium 7%, Australia 5%, Canada 5% (2019)<br>
+India 16%, Belgium 14%, US 14%, Malaysia 13%, Singapore 10% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
 pine seeds, lumber, cars and vehicle parts, soybeans, lactose syrup, cleaning products, scrap aluminum (2021)<br>
 
 **Imports - partners**<br>
-New Zealand 23%, Australia 19%, Philippines 19%, Singapore 14%, Fiji 11% (2019)<br>
+Australia 34%, Philippines 19%, NZ 17%, Fiji 9%, Brazil 7% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
 clothing and apparel, chemical analysis instruments, refined petroleum, cars, kitchen machinery (2019)<br>

@@ -329,7 +329,7 @@ _elections/appointments_: the monarchy is hereditary; prime minister appointed b
 **Legislative branch**<br>
 _description_: bicameral National Assembly consists of:<br>Consultative Council or Majlis al-Shura (40 seats; members appointed by the king)<br>Council of Representatives or Majlis al-Nuwab (40 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year renewable terms)<br>
 _elections_: Consultative Council - last appointments on 30 November 2022 (next appointments in 2026)<br>Council of Representatives - first round for 6 members held on 12 November 2022; second round for remaining 34 members held on 19 November 2022 (next to be held in November 2026)<br>
-_election results_: Consultative Council - all members appointed; composition as of February 2024 - men 30, women 10, percentage women 25%<br><br>Council of Representatives - percent of vote by society - NA; seats by society - NA; composition as of February 2024 - men 32, women 8, percentage women 20%; total National Assembly percentage women 23%<br>
+_election results_: Consultative Council - all members appointed; composition - men 30, women 10, percentage women 25%<br><br>Council of Representatives - percent of vote by society - NA; seats by society - NA; composition - men 32, women 8, percentage women 20%; total National Assembly percentage women 23%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation (consists of the chairman and 3 judges); Supreme Court of Appeal (consists of the chairman and 3 judges); Constitutional Court (consists of the president and 6 members); High Sharia Court of Appeal (court sittings include the president and at least one judge)<br>
@@ -384,29 +384,29 @@ growing, economically diverse Middle Eastern island economy; major recovery and 
 $76.342 billion (2022 est.)<br>
 $72.803 billion (2021 est.)<br>
 $70.91 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.86% (2022 est.)<br>
 2.67% (2021 est.)<br>
 -4.64% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $51,900 (2022 est.)<br>
 $49,800 (2021 est.)<br>
 $48,000 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $44.383 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 3.63% (2022 est.)<br>
 -0.61% (2021 est.)<br>
 -2.32% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2020)<br>
@@ -428,40 +428,34 @@ _exports of goods and services_: 80.2% (2017 est.)<br>
 _imports of goods and services_: -67.9% (2017 est.)<br>
 
 **Agricultural products**<br>
-mutton, dates, milk, poultry, tomatoes, fruit, sheep offals, sheep skins, eggs, pumpkins<br>
+lamb/mutton, dates, milk, chicken, tomatoes, fruits, sheep offal, eggs, sheepskins, cucumbers/gherkins (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 petroleum processing and refining, aluminum smelting, iron pelletization, fertilizers, Islamic and offshore banking, insurance, ship repairing, tourism<br>
 
 **Industrial production growth rate**<br>
 1.21% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 844,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 1.34% (2022 est.)<br>
 1.55% (2021 est.)<br>
 1.79% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.9% (2021 est.)<br>
 _male_: 6.1%<br>
 _female_: 20.5%<br>
 
-**Population below poverty line**<br>
-NA<br>
-
 **Average household expenditures**<br>
 _on food_: 13.2% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 0.4% of household expenditures (2018 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Budget**<br>
 _revenues_: $9.168 billion (2019 est.)<br>
@@ -484,37 +478,41 @@ calendar year<br>
 $6.839 billion (2022 est.)<br>
 $2.602 billion (2021 est.)<br>
 -$3.245 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $44.58 billion (2022 est.)<br>
 $35.653 billion (2021 est.)<br>
 $25.68 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United Arab Emirates 17%, Saudi Arabia 16%, United States 7%, Japan 7%, India 4% (2021)<br>
+Saudi Arabia 15%, UAE 10%, US 9%, Japan 5%, India 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, aluminum, iron ore and reductions, aluminum wiring, crude petroleum (2021)<br>
+aluminum, refined petroleum, iron ore, aluminum wire, iron blocks (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $33.066 billion (2022 est.)<br>
 $27.996 billion (2021 est.)<br>
 $23.728 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United Arab Emirates 24%, Saudi Arabia 15%, Brazil 12%, China 9%, India 6% (2021)<br>
+China 15%, UAE 12%, Brazil 9%, Australia 8%, India 7% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-iron ore, jewelry, cars, floating platforms, refined petroleum, gold, broadcasting equipment (2021)<br>
+iron ore, aluminum oxide, cars, gold, ships (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $4.775 billion (2022 est.)<br>
 $4.993 billion (2021 est.)<br>
 $2.523 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $52.15 billion (31 December 2017 est.)<br>

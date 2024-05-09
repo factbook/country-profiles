@@ -307,7 +307,7 @@ _election results_: <em>2019: </em>Kausea NATANO elected prime minister by House
 **Legislative branch**<br>
 _description_: unicameral House of Assembly or Fale I Fono (16 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 4-year terms)<br>
 _elections_: last held on 26 January 2024 (next to be held in January 2028)<br>
-_election results_: percent of vote - NA; seats - independent 16; composition as of February 2024 - 16 men, 0 women, percentage women 0%<br>
+_election results_: percent of vote - NA; seats - independent 16; composition - 16 men, 0 women, percentage women 0%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and not less than 3 appeals judges); High Court (consists of the chief justice); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -351,23 +351,23 @@ upper middle-income Pacific island economy; extremely environmentally fragile; c
 $51.937 million (2022 est.)<br>
 $51.588 million (2021 est.)<br>
 $50.674 million (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 0.68% (2022 est.)<br>
 1.8% (2021 est.)<br>
 -4.27% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $4,600 (2022 est.)<br>
 $4,600 (2021 est.)<br>
 $4,600 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $59.066 million (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4.1% (2017 est.)<br>
@@ -385,14 +385,15 @@ _exports of goods and services_: 43.7% (2016 est.)<br>
 _imports of goods and services_: -66.1% (2016 est.)<br>
 
 **Agricultural products**<br>
-coconuts, vegetables, tropical fruit, bananas, roots/tubers, pork, poultry, eggs, pig fat, pig offals<br>
+coconuts, vegetables, tropical fruits, bananas, root vegetables, pork, chicken, eggs, pork fat, pork offal (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 fishing<br>
 
 **Industrial production growth rate**<br>
 4.3% (2014 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 3,615<br>
@@ -408,15 +409,11 @@ _female_: 45.9%<br>
 **Gini Index coefficient - distribution of family income**<br>
 39.1 (2010 est.)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 4.23% of GDP (2022 est.)<br>
 4.15% of GDP (2021 est.)<br>
 4.25% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $87 million (2019 est.)<br>
@@ -441,31 +438,35 @@ calendar year<br>
 $2.713 million (2022 est.)<br>
 $14.533 million (2021 est.)<br>
 $8.46 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $2.232 million (2022 est.)<br>
 $2.745 million (2021 est.)<br>
 $3.089 million (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Thailand 91%, Nigeria 5%, Philippines 3%, South Korea 1% (2021)<br>
+Thailand 69%, Croatia 21%, Philippines 4%, South Korea 2%, Japan 1% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-tugboats, tuna, nitrile compounds, integrated circuits, electrical power accessories (2021)<br>
+fish, ships, computers, integrated circuits, nitrile compounds (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $57.388 million (2022 est.)<br>
 $63.962 million (2021 est.)<br>
 $56.947 million (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 36%, Japan 33%, Fiji 13%, South Korea 9%, New Zealand 4% (2021)<br>
+China 34%, Japan 27%, Fiji 20%, NZ 5%, Australia 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cargo ships, fishing ships, refined petroleum, tankers, tugboats, construction vehicles (2021)<br>
+ships, refined petroleum, iron structures, engine parts, plastic products (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Debt - external**<br>
 <p>NA</p><br>

@@ -311,7 +311,7 @@ _election results_: Sandra MASON elected as first president on 20 October 2021<b
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (21 seats statutory - 21 current; members appointed by the president - 12 on the advice of the prime minister, 2 on the advice of the opposition leader, and 7 at the discretion of the president; members serve 5-year terms) <br>House of Assembly (30 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: Senate - last appointments on 4 February 2022 (next appointments in February 2027)<br>House of Assembly - last held on 19 January 2022 (next to be held in January 2027)<br>
-_election results_: Senate - appointed - BLP 12, independent 9; composition as of February 2024 - men 13, women 8, percentage women 38.1%<br><br>House of Assembly - percent of vote by party - BLP 69%, DLP 26.5%, other 4.5%; seats by party - BLP 30; composition as of February 2024 - men 22, women 8, percentage women 26.7%; note - total Parliament percentage women 32.7%<br>
+_election results_: Senate - appointed - BLP 12, independent 9; composition - men 13, women 8, percentage women 38.1%<br><br>House of Assembly - percent of vote by party - BLP 69%, DLP 26.5%, other 4.5%; seats by party - BLP 30; composition - men 22, women 8, percentage women 26.7%; note - total Parliament percentage women 32.7%<br>
 <strong>note:</strong> tradition dictates that the next election is held within 5 years of the last election, but constitutionally it is 5 years from the first seating of Parliament plus a 90-day grace period<br>
 
 **Judicial branch**<br>
@@ -365,29 +365,29 @@ largest Eastern Caribbean economy; dependent on US imports and currency strength
 $4.342 billion (2022 est.)<br>
 $3.9 billion (2021 est.)<br>
 $3.931 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 11.33% (2022 est.)<br>
 -0.78% (2021 est.)<br>
 -12.74% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $15,400 (2022 est.)<br>
 $13,900 (2021 est.)<br>
 $14,000 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $5.7 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4.1% (2019 est.)<br>
 3.67% (2018 est.)<br>
 4.66% (2017 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Caa1 (2019)<br>
@@ -408,42 +408,36 @@ _exports of goods and services_: 31.6% (2017 est.)<br>
 _imports of goods and services_: -47% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, poultry, vegetables, milk, eggs, pork, coconuts, pulses, sweet potatoes, tropical fruit<br>
+sugarcane, chicken, vegetables, milk, eggs, sweet potatoes, pork, coconuts, cantaloupes/melons, tropical fruits (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, sugar, light manufacturing, component assembly for export<br>
 
 **Industrial production growth rate**<br>
 5.02% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 145,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 8.5% (2022 est.)<br>
 9.48% (2021 est.)<br>
 9.74% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 30.6% (2021 est.)<br>
 _male_: 34.8%<br>
 _female_: 25.6%<br>
 
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 1.49% of GDP (2022 est.)<br>
 1.73% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.271 billion (2020 est.)<br>
@@ -456,11 +450,11 @@ _expenditures_: $1.483 billion (2020 est.)<br>
 146.61% of GDP (2016 est.)<br>
 141.16% of GDP (2015 est.)<br>
 129.32% of GDP (2014 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 27.42% (of GDP) (2016 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
@@ -469,37 +463,41 @@ note: central government tax revenue as a % of GDP<br>
 -$296.396 million (2017 est.)<br>
 -$452.39 million (2016 est.)<br>
 -$98.732 million (2015 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $2.228 billion (2017 est.)<br>
 $2.41 billion (2016 est.)<br>
 $2.358 billion (2015 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 20%, Jamaica 12%, Guyana 8%, Trinidad and Tobago 7%, Italy 6% (2021)<br>
+US 23%, Jamaica 11%, Trinidad and Tobago 9%, Guyana 8%, Poland 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-rums and liquors, ships, packaged medicines, cement, paper labels (2021)<br>
+liquor, packaged medicine, ships, paper labels, baked goods (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $2.12 billion (2021 est.)<br>
 $2.213 billion (2017 est.)<br>
 $2.238 billion (2016 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 33%, Guyana 13%, China 11%, Trinidad and Tobago 6%, United Kingdom 4% (2021)<br>
+US 43%, China 8%, Trinidad and Tobago 7%, UK 5%, Netherlands 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, crude petroleum, shipping containers, cars, ships, packaged medicines (2021)<br>
+refined petroleum, plastic products, cars, railway cargo containers, packaged medicine (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $1.52 billion (2022 est.)<br>
 $1.673 billion (2021 est.)<br>
 $1.358 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $4.49 billion (2010 est.)<br>

@@ -321,7 +321,7 @@ _election results_: <em>2020:</em> Taneti MAAMAU reelected president; percent of
 **Legislative branch**<br>
 _description_: unicameral House of Assembly or Maneaba Ni Maungatabu (46 seats; 44 members directly elected in single- and multi-seat constituencies by absolute majority vote in two rounds if needed; 1 member appointed by the Rabi Council of Leaders - representing Banaba Island, and 1 ex officio member - the attorney general; members serve 4-year terms)<br>
 _elections_: legislative elections originally scheduled to be held in two rounds on 7 and 15 April 2020 but rescheduled for 14 and 21 April 2020 (next to be held in 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - TKB 22, BKM 22, appointed 1; composition as of February 2024 - 42 men, 3 women; percentage women 6.7%<br>
+_election results_: percent of vote by party - NA; seats by party - TKB 22, BKM 22, appointed 1; composition - 42 men, 3 women; percentage women 6.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court (consists of a chief justice and other judges as prescribed by the president); note - the High Court has jurisdiction on constitutional issues<br>
@@ -369,29 +369,29 @@ lower-middle income, Pacific island economy; environmentally fragile; sizable re
 $262.821 million (2022 est.)<br>
 $258.777 million (2021 est.)<br>
 $239.908 million (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.56% (2022 est.)<br>
 7.87% (2021 est.)<br>
 -1.66% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $2,000 (2022 est.)<br>
 $2,000 (2021 est.)<br>
 $1,900 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $223.353 million (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 2.05% (2021 est.)<br>
 2.55% (2020 est.)<br>
 -1.81% (2019 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 23% (2016 est.)<br>
@@ -399,14 +399,15 @@ _industry_: 7% (2016 est.)<br>
 _services_: 70% (2016 est.)<br>
 
 **Agricultural products**<br>
-coconuts, roots/tubers, bananas, vegetables, taro, tropical fruit, poultry, pork, nuts, eggs<br>
+coconuts, bananas, vegetables, taro, tropical fruits, pork, chicken, nuts, eggs, pork offal (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 fishing, handicrafts<br>
 
 **Industrial production growth rate**<br>
 21.11% (2021 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 39,000 (2010 est.)<br>
@@ -422,23 +423,23 @@ _male_: 21.2%<br>
 _female_: 24.6%<br>
 
 **Population below poverty line**<br>
-21.9% (2019 est.) NA<br>
-note: % of population with income below national poverty line<br>
+21.9% (2019 est.)<br>
+<strong>note:</strong> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 27.8 (2019 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4%<br>
 _highest 10%_: 22.9% (2019 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 6.72% of GDP (2022 est.)<br>
 5.87% of GDP (2021 est.)<br>
 8.4% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $281 million (2017 est.)<br>
@@ -453,7 +454,7 @@ _expenditures_: $205 million (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 27.38% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 NA<br>
@@ -462,31 +463,35 @@ NA<br>
 -$6.46 million (2022 est.)<br>
 $20.251 million (2021 est.)<br>
 $71.279 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $19.677 million (2022 est.)<br>
 $10.754 million (2021 est.)<br>
 $21.228 million (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Thailand 60%, Indonesia 11%, Philippines 10%, Japan 6%, South Korea 3% (2021)<br>
+Thailand 55%, Philippines 15%, Japan 10%, Indonesia 8%, South Korea 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-skipjacks, tuna, fish fillets, ships, coconut oil, copra (2021)<br>
+fish, ships, coconut oil, copra, raw sugar (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $254.438 million (2022 est.)<br>
 $201.984 million (2021 est.)<br>
 $148.77 million (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 23%, Taiwan 16%, Fiji 16%, Australia 12%, New Zealand 6% (2021)<br>
+Taiwan 25%, China 22%, Fiji 13%, Australia 9%, South Korea 7% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-fishing ships, beef, netting, poultry meat, rice, refined petroleum, sugar, refrigerators (2021)<br>
+ships, refined petroleum, rice, twine and rope, prepared meat (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $8.37 million (31 December 2010 est.)<br>

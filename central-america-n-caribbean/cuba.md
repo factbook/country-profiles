@@ -342,7 +342,7 @@ _election results_: <br><em>2023: </em>Miguel DIAZ-CANEL Bermudez (PCC) reelecte
 **Legislative branch**<br>
 _description_: unicameral National Assembly of People's Power or Asamblea Nacional del Poder Popular (474 seats; (470 seats filled in 2023); members directly elected by absolute majority vote; members serve 5-year terms); note 1 - the National Candidature Commission submits a slate of approved candidates; to be elected, candidates must receive more than 50% of valid votes otherwise the seat remains vacant or the Council of State can declare another election<br>
 _elections_: last held on 26 March 2023 (next to be held in early 2028)<br>
-_election results_: Cuba's Communist Party is the only legal party, and officially sanctioned candidates run unopposed; composition as of March 2024 - men 208, women 262, percent of women 55.7%<br>
+_election results_: Cuba's Communist Party is the only legal party, and officially sanctioned candidates run unopposed; composition- men 208, women 262, percent of women 55.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: People's Supreme Court (consists of court president, vice president, 41 professional justices, and NA lay judges); organization includes the State Council, criminal, civil, administrative, labor, crimes against the state, and military courts)<br>
@@ -401,7 +401,7 @@ $134.2 billion (2015 est.)<br>
 1.77% (2022 est.)<br>
 1.25% (2021 est.)<br>
 -10.95% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $12,300 (2016 est.)<br>
@@ -411,7 +411,7 @@ $12,100 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $633.442 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5.5% (2017 est.)<br>
@@ -435,36 +435,30 @@ _exports of goods and services_: 14.6% (2017 est.)<br>
 _imports of goods and services_: -12.7% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, cassava, vegetables, plantains, sweet potatoes, tomatoes, milk, pumpkins, mangoes/guavas, rice<br>
+sugarcane, cassava, plantains, vegetables, mangoes/guavas, milk, pumpkins/squash, tomatoes, sweet potatoes, bananas (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 petroleum, nickel, cobalt, pharmaceuticals, tobacco, construction, steel, cement, agricultural machinery, sugar<br>
 
 **Industrial production growth rate**<br>
 -6.73% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 5.286 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 1.25% (2022 est.)<br>
 1.39% (2021 est.)<br>
 1.4% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 7.4% (2021 est.)<br>
 _male_: 7.6%<br>
 _female_: 7%<br>
-
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Budget**<br>
 _revenues_: $54.52 billion (2017 est.)<br>
@@ -488,25 +482,32 @@ $985.4 million (2017 est.)<br>
 $2.008 billion (2016 est.)<br>
 
 **Exports**<br>
-$2.63 billion (2017 est.)<br>
-$2.546 billion (2016 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+$8.769 billion (2020 est.)<br>
+$12.632 billion (2019 est.)<br>
+$14.53 billion (2018 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 38%, Spain 11%, Netherlands 5%, Germany 5% (2019)<br>
+China 40%, Spain 13%, Germany 5%, Portugal 4%, Switzerland 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cigars, nickel, sugar, rum, zinc (2021)<br>
+tobacco, nickel, zinc ore, liquor, raw sugar (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$11.06 billion (2017 est.)<br>
-$10.28 billion (2016 est.)<br>
+$8.067 billion (2020 est.)<br>
+$10.971 billion (2019 est.)<br>
+$12.567 billion (2018 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Spain 19%, China 15%, Italy 6%, Canada 5%, Russia 5%, United States 5%, Brazil 5% (2019)<br>
+Spain 23%, China 12%, US 10%, Brazil 8%, Netherlands 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-poultry meat, wheat, soybean products, corn, concentrated milk (2019)<br>
+poultry, wheat, milk, plastic products, soybean oil (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $11.35 billion (31 December 2017 est.)<br>

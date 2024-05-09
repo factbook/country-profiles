@@ -347,7 +347,7 @@ _election results_: Congress of Deputies vote - NA<br>
 **Legislative branch**<br>
 _description_: bicameral General Courts or Las Cortes Generales consists of:<br>Senate or Senado (265 seats; 208 members directly elected in multi-seat constituencies by simple majority vote and 57 members indirectly elected by the legislatures of the autonomous communities; members serve 4-year terms)<br>Congress of Deputies or Congreso de los Diputados (350 seats; 348 members directly elected in 50 multi-seat constituencies by closed-list proportional representation vote, with a 3% threshold needed to gain a seat, and 2 directly elected from the North African Ceuta and Melilla enclaves by simple majority vote; members serve 4-year terms or until the government is dissolved)<br>
 _elections_: Senate - last held on 23 July 2023 (next to be held no later than July 2027)<br>Congress of Deputies - last held on 23 July 2023 (next to be held no later than July 2027)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PP 120, PSOE 72, ERC 7, PNV 4, other 5; composition as of February 2024 - men 153, women 112; percentage women 42.3%<br><br>Congress of Deputies - percent of vote by party - PP 33.1%, PSOE 31.7%, Vox 12.4%, Sumar 12.3%, ERC 1.7%, Junts 1.6%, EH-Bildu 1.4%, PNV 1.1% other 4.7%; seats by party - PP 137, PSOE 121, Vox 33, Sumar 31, ERC 7, Junts 7, EH-Bildu 6, PNV 5, other 3; composition as of February 2024 - men 195, women 155, percentage women 44.3%; total General Courts percentage women 42%<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - PP 120, PSOE 72, ERC 7, PNV 4, other 5; composition - men 153, women 112; percentage women 42.3%<br><br>Congress of Deputies - percent of vote by party - PP 33.1%, PSOE 31.7%, Vox 12.4%, Sumar 12.3%, ERC 1.7%, Junts 1.6%, EH-Bildu 1.4%, PNV 1.1% other 4.7%; seats by party - PP 137, PSOE 121, Vox 33, Sumar 31, ERC 7, Junts 7, EH-Bildu 6, PNV 5, other 3; composition - men 195, women 155, percentage women 44.3%; total General Courts percentage women 42%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Tribunal Supremo (consists of the court president and organized into the Civil Room, with a president and 9 judges; the Penal Room, with a president and 14 judges; the Administrative Room, with a president and 32 judges; the Social Room, with a president and 12 judges; and the Military Room, with a president and 7 judges); Constitutional Court or Tribunal Constitucional de Espana (consists of 12 judges)<br>
@@ -402,29 +402,29 @@ high-income core EU economy; diversified trade portfolio; continental tourism lo
 $1.922 trillion (2022 est.)<br>
 $1.817 trillion (2021 est.)<br>
 $1.708 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 5.77% (2022 est.)<br>
 6.4% (2021 est.)<br>
 -11.17% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $40,200 (2022 est.)<br>
 $38,300 (2021 est.)<br>
 $36,100 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.418 trillion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8.39% (2022 est.)<br>
 3.09% (2021 est.)<br>
 -0.32% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A- (2018)<br>
@@ -446,24 +446,25 @@ _exports of goods and services_: 34.1% (2017 est.)<br>
 _imports of goods and services_: -31.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-barley, milk, wheat, olives, grapes, tomatoes, pork, maize, oranges, sugar beets<br>
+milk, barley, wheat, grapes, pork, olives, tomatoes, maize, oranges, sugar beets (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 textiles and apparel (including footwear), food and beverages, metals and metal manufactures, chemicals, shipbuilding, automobiles, machine tools, tourism, clay and refractory products, footwear, pharmaceuticals, medical equipment<br>
 
 **Industrial production growth rate**<br>
 2.71% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 23.687 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 12.92% (2022 est.)<br>
 14.78% (2021 est.)<br>
 15.53% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 36.9% (2021 est.)<br>
@@ -472,11 +473,11 @@ _female_: 38.2%<br>
 
 **Population below poverty line**<br>
 20.4% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 34.9 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 12.1% of household expenditures (2018 est.)<br>
@@ -485,13 +486,13 @@ _on alcohol and tobacco_: 3.5% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9%<br>
 _highest 10%_: 25% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.3% of GDP (2022 est.)<br>
 0.27% of GDP (2021 est.)<br>
 0.23% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $546.084 billion (2019 est.)<br>
@@ -504,11 +505,11 @@ _expenditures_: $585.979 billion (2019 est.)<br>
 134.1% of GDP (2021 est.)<br>
 140.27% of GDP (2020 est.)<br>
 112.05% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 15.03% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -517,37 +518,41 @@ calendar year<br>
 $8.095 billion (2022 est.)<br>
 $10.893 billion (2021 est.)<br>
 $8.229 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $578.039 billion (2022 est.)<br>
 $493.359 billion (2021 est.)<br>
 $393.87 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-France 15%, Germany 11%, Italy 8%, Portugal 8%, United Kingdom 7%, United States 5% (2019)<br>
+France 17%, Germany 10%, Portugal 9%, Italy 8%, UK 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, refined petroleum, packaged medicines, delivery trucks, clothing and apparel (2019)<br>
+cars, refined petroleum, garments, packaged medicine, vehicle parts/accessories (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $561.49 billion (2022 est.)<br>
 $479.392 billion (2021 est.)<br>
 $375.378 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 13%, France 11%, China 8%, Italy 7% (2019)<br>
+Germany 11%, China 10%, France 10%, Italy 7%, US 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, cars and vehicle parts, packaged medicines, natural gas, refined petroleum (2019)<br>
+crude petroleum, natural gas, garments, cars, vehicle parts/accessories (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $92.905 billion (2022 est.)<br>
 $92.201 billion (2021 est.)<br>
 $81.288 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2.338 trillion (2019 est.)<br>

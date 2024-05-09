@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-Ancient Peru was the seat of several prominent Andean civilizations, most notably that of the Incas whose empire was captured by Spanish conquistadors in 1533. Peru declared its independence in 1821, and remaining Spanish forces were defeated in 1824. After a dozen years of military rule, Peru returned to democratic leadership in 1980 but experienced economic problems and the growth of a violent insurgency. President Alberto FUJIMORI's election in 1990 ushered in a decade that saw a dramatic turnaround in the economy and significant progress in curtailing guerrilla activity. Nevertheless, the president's increasing reliance on authoritarian measures and an economic slump in the late 1990s generated mounting dissatisfaction with his regime, which led to his resignation in 2000. A caretaker government oversaw a new election in the spring of 2001, which installed Alejandro TOLEDO Manrique as the new head of government - Peru's first democratically elected president of indigenous ethnicity. The presidential election of 2006 saw the return of Alan GARCIA Perez who, after a disappointing presidential term from 1985 to 1990, oversaw a robust economic rebound. Former army officer Ollanta HUMALA Tasso was elected president in June 2011, and carried on the sound, market-oriented economic policies of the three preceding administrations. Pedro Pablo KUCZYNSKI Godard won a very narrow presidential runoff election in June 2016. Facing impeachment after evidence surfaced of his involvement in a vote-buying scandal, President KUCZYNSKI offered his resignation on 21 March 2018. Two days later, First Vice President Martin Alberto VIZCARRA Cornejo was sworn in as president. On 30 September 2019, President VIZCARRA invoked his constitutional authority to dissolve Peru's Congress after months of battling with the body over anticorruption reforms. New congressional elections took place on 26 January 2020 resulting in the return of an opposition-led legislature. President VIZCARRA was impeached by Congress on 9 November 2020 for a second time and removed from office after being accused of corruption and mishandling of the COVID-19 pandemic. Because of vacancies in the vice-presidential positions, constitutional succession led to the President of the Peruvian Congress, Manuel MERINO, becoming the next president of Peru. His ascension to office was not well received by the population, and large protests forced his resignation on 15 November 2020. On 17 November, Francisco SAGASTI assumed the position of President of Peru after being appointed President of the Congress the previous day. Jose Pedro CASTILLO Terrones won the second round of presidential elections on 6 June 2021 and was inaugurated on 28 July. After his impeachment and ousting the following year, his vice president, Dina BOLUARTE, assumed the presidency by constitutional succession on 7 December 2022.<br>
+Ancient Peru was the seat of several prominent Andean civilizations, most notably that of the Incas whose empire was captured by Spanish conquistadors in 1533. Peru declared its independence in 1821, and remaining Spanish forces were defeated in 1824. After a dozen years of military rule, Peru returned to democratic leadership in 1980 but experienced economic problems and the growth of a violent insurgency. President Alberto FUJIMORI's election in 1990 ushered in a decade that saw a dramatic turnaround in the economy and significant progress in curtailing guerrilla activity. Nevertheless, an economic slump and the president's increasing reliance on authoritarian measures in the late 1990s generated mounting dissatisfaction with his regime, which led to his resignation in 2000. <br><br>A caretaker government oversaw a new election in 2001 that installed Alejandro TOLEDO Manrique as the new head of government - Peru's first democratically elected president of indigenous ethnicity. The presidential election of 2006 saw the return of Alan GARCIA Perez who, after a disappointing presidential term from 1985 to 1990, presided over a robust economic rebound. Former army officer Ollanta HUMALA Tasso was elected president in 2011 and carried on the market-oriented economic policies of the three preceding administrations. Pedro Pablo KUCZYNSKI Godard won a very narrow runoff in the 2016 presidential election. Facing impeachment after evidence surfaced of his involvement in a vote-buying scandal, KUCZYNSKI offered his resignation in 2018, and First Vice President Martin Alberto VIZCARRA Cornejo was sworn in as president. In 2019, VIZCARRA invoked his constitutional authority to dissolve Peru's Congress after months of battling with the body over anticorruption reforms. New congressional elections in 2020 resulted in an opposition-led legislature. The Congress impeached VIZCARRA for a second time and removed him from office after accusations of corruption and mishandling of the COVID-19 pandemic. Because of vacancies in the vice-presidential positions, the President of the Peruvian Congress, Manuel MERINO, became the next president. His ascension to office was not well received, and large protests forced his resignation later in 2020. Francisco SAGASTI assumed the position of President of Peru after being appointed President of the Congress the previous day. Jose Pedro CASTILLO Terrones won presidential election in 2021 but was impeached and ousted the following year; his vice president, Dina BOLUARTE, assumed the presidency by constitutional succession in 2022.<br>
 
 ## Geography
 
@@ -370,7 +370,7 @@ _election results_: <br><em>2021: </em>Jose Pedro CASTILLO Terrones elected pre
 **Legislative branch**<br>
 _description_: unicameral Congress of the Republic of Peru or Congreso de la Rep&uacute;blica del Per&uacute; (130 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve single 5-year terms)<br>
 _elections_: last held on 11 April 2021 (next to be held in April 2026)<br>
-_election results_: <br>percent of vote by party/coalition - NA; seats by party/coalition - Free Peru 32, Popular Force 24, AP 15, APP 15, AvP 10, RP 9, Democratic Peru 7, We Are Peru 5, PP 5, JP 5, Purple Party 3; composition as of February 2024 - men 80, women 50, percentage women 40%<br>
+_election results_: <br>percent of vote by party/coalition - NA; seats by party/coalition - Free Peru 32, Popular Force 24, AP 15, APP 15, AvP 10, RP 9, Democratic Peru 7, We Are Peru 5, PP 5, JP 5, Purple Party 3; composition - men 80, women 50, percentage women 40%<br>
 <strong>note:</strong> seats by party/coalition as of January 2024 - Popular Force 23, Free Peru 16, AP 14, APP 11, AvP 9, Democratic Peru 9, RP 9, SP 6, PP 6, PB 5; BMCN 9, independent 25<br>
 
 **Judicial branch**<br>
@@ -424,29 +424,29 @@ upper middle-income South American economy; hit hard by political instability an
 $433.926 billion (2022 est.)<br>
 $422.584 billion (2021 est.)<br>
 $372.592 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.68% (2022 est.)<br>
 13.42% (2021 est.)<br>
 -10.87% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $12,700 (2022 est.)<br>
 $12,500 (2021 est.)<br>
 $11,200 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $242.632 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8.33% (2022 est.)<br>
 4.27% (2021 est.)<br>
 2% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB+ (2013)<br>
@@ -468,24 +468,25 @@ _exports of goods and services_: 24% (2017 est.)<br>
 _imports of goods and services_: -22% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, potatoes, rice, plantains, milk, poultry, maize, cassava, oil palm fruit, grapes<br>
+sugarcane, potatoes, rice, bananas, milk, chicken, maize, oil palm fruit, cassava, grapes (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 mining and refining of minerals; steel, metal fabrication; petroleum extraction and refining, natural gas and natural gas liquefaction; fishing and fish processing, cement, glass, textiles, clothing, food processing, beer, soft drinks, rubber, machinery, electrical machinery, chemicals, furniture<br>
 
 **Industrial production growth rate**<br>
 1.33% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 18.268 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.85% (2022 est.)<br>
 5.1% (2021 est.)<br>
 7.18% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.2% (2021 est.)<br>
@@ -494,11 +495,11 @@ _female_: 13.2%<br>
 
 **Population below poverty line**<br>
 27.5% (2022 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 40.2 (2021 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 26.3% of household expenditures (2018 est.)<br>
@@ -507,13 +508,13 @@ _on alcohol and tobacco_: 2.4% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1%<br>
 _highest 10%_: 30.6% (2021 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 1.53% of GDP (2022 est.)<br>
 1.61% of GDP (2021 est.)<br>
 1.44% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $45.983 billion (2019 est.)<br>
@@ -526,11 +527,11 @@ _expenditures_: $49.134 billion (2019 est.)<br>
 35.66% of GDP (2021 est.)<br>
 34.67% of GDP (2020 est.)<br>
 26.53% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 16.11% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -539,37 +540,41 @@ calendar year<br>
 -$9.908 billion (2022 est.)<br>
 -$5.064 billion (2021 est.)<br>
 $2.235 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $71.197 billion (2022 est.)<br>
 $65.914 billion (2021 est.)<br>
 $45.544 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 29%, United States 12%, Canada 5%, South Korea 5%, Switzerland 5% (2019)<br>
+China 30%, US 15%, Japan 5%, Canada 5%, South Korea 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-copper, gold, refined petroleum, zinc, fishmeal, tropical fruits, lead, iron, molybdenum (2019)<br>
+copper ore, gold, natural gas, refined copper, refined petroleum (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $69.506 billion (2022 est.)<br>
 $58.708 billion (2021 est.)<br>
 $42.303 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 24%, United States 22%, Brazil 6% (2019)<br>
+China 27%, US 24%, Brazil 6%, Argentina 4%, Chile 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, crude petroleum, cars, broadcasting equipment, delivery trucks (2019)<br>
+refined petroleum, crude petroleum, cars, broadcasting equipment, trucks (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $74.779 billion (2020 est.)<br>
 $67.711 billion (2019 est.)<br>
 $60.333 billion (2018 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $81.333 billion (2019 est.)<br>

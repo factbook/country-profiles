@@ -289,7 +289,7 @@ _elections/appointments_: the monarchy is hereditary; UK representative appointe
 **Legislative branch**<br>
 _description_: unicameral Parliament, formerly the Legislative Assembly (24 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms); note - the House of Ariki, a 24-member parliamentary body of traditional leaders appointed by the King's representative serves as a consultative body to the Parliament<br>
 _elections_: last held on 1 August 2022 (next to be held by 2026)<br>
-_election results_: percent of vote by party - CIP 44%, Demo 26.9%, Cook Islands United Party 26.9%, OCI 2.7%, other 0.2% independent 7.3%; seats by party - CIP 12, Demo 5, Cook Islands United Party 3, OCI 1, independent 3; composition as of September 2023 - men 18, women 6, percentage women 25%<br>
+_election results_: percent of vote by party - CIP 44%, Demo 26.9%, Cook Islands United Party 26.9%, OCI 2.7%, other 0.2% independent 7.3%; seats by party - CIP 12, Demo 5, Cook Islands United Party 3, OCI 1, independent 3; composition - men 18, women 6, percentage women 25%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and 3 judges of the High Court); High Court (consists of the chief justice and at least 4 judges and organized into civil, criminal, and land divisions); note - appeals beyond the Cook Islands Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -351,17 +351,11 @@ _industry_: 12.7% (2010 est.)<br>
 _services_: 82.1% (2010 est.)<br>
 
 **Agricultural products**<br>
-vegetables, coconuts, roots/tubers, cassava, papayas, tomatoes, pork, fruit, sweet potatoes, mangoes/guavas<br>
+coconuts, vegetables, papayas, pork, sweet potatoes, tomatoes, fruits, mangoes/guavas, watermelons, eggs (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 fishing, fruit processing, tourism, clothing, handicrafts<br>
-
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Budget**<br>
 _revenues_: $86.9 million (2010)<br>
@@ -380,10 +374,12 @@ $5.163 million (2010 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
-Japan 41%, France 18%, Thailand 16%, Greece 7%, China 6% (2021)<br>
+Japan 42%, France 27%, Thailand 12%, US 4%, Italy 3% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-fish products, recreational boats, paintings, lobsters, tuna (2021)<br>
+fish, ships, surveying equipment, sports equipment, garments (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $215 million (2021 est.)<br>
@@ -391,10 +387,12 @@ $109.3 million (2011 est.)<br>
 $90.62 million (2010 est.)<br>
 
 **Imports - partners**<br>
-New Zealand 57%, Turkey 12%, Italy 11%, Israel 5%, Fiji 4% (2021)<br>
+NZ 51%, Italy 18%, Fiji 11%, China 7%, Australia 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-motorboats, refined petroleum, integrated circuits, lumber, cars, edible preparations, flavored water, beer (2021)<br>
+refined petroleum, ships, cars, plastic products, other foods (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Debt - external**<br>
 $141 million (1996 est.)<br>

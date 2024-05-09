@@ -208,7 +208,7 @@ _election results_: Dalton TAGELAGI reelected premier; Legislative Assembly vote
 **Legislative branch**<br>
 _description_: unicameral Assembly or Fono Ekepule (20 seats; 14 members directly elected in single-seat constituencies by simple majority vote and 6 directly elected from the National Register or "common roll" by majority vote; members serve 3-year terms)<br>
 _elections_: last held on 29 April 2023 (next to be held in 2026)<br>
-_election results_: percent of vote - NA; seats - independent 20; composition as of July 2022 - men 17, women 3, percentage women 15%<br>
+_election results_: percent of vote - NA; seats - independent 20; composition - men 17, women 3, percentage women 15%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and up to 3 judges); note - the Judicial Committee of the Privy Council (in London) is the final appeal court beyond the Niue Court of Appeal<br>
@@ -262,17 +262,11 @@ _industry_: 26.9% (2003)<br>
 _services_: 49.5% (2003)<br>
 
 **Agricultural products**<br>
-coconuts, taro, fruit, sweet potatoes, tropical fruit, yams, vegetables, lemons, limes, bananas<br>
+taro, coconuts, fruits, sweet potatoes, tropical fruits, yams, vegetables, lemons/limes, bananas, pork (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 handicrafts, food processing<br>
-
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Budget**<br>
 _revenues_: $15.07 million (FY04/05)<br>
@@ -288,19 +282,23 @@ _expenditures_: $16.33 million (FY04/05)<br>
 $5.68 million (2021 est.)<br>
 
 **Exports - partners**<br>
-Indonesia 57%, Thailand 7%, South Korea 5%, Czechia 4%, Poland 4% (2021)<br>
+US 56%, Brazil 9%, UK 6%, Kuwait 4%, Australia 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-tanker ships, collector's items, commemorative coins, fruits, nuts, juice, electrical resistors (2021)<br>
+broadcasting equipment, abrasive powder, collector's items, coin, milling stones (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $43.8 million (2021 est.)<br>
 
 **Imports - partners**<br>
-New Zealand 41%, United Kingdom 40%, Japan 15%, Israel 3%, Fiji 1% (2021)<br>
+UK 46%, NZ 31%, Japan 19%, Brazil 1%, US 1% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-floating platforms, tugboats, refined petroleum, cargo ships, cars, plasticware (2021)<br>
+iron structures, ships, refined petroleum, plastic products, cars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Debt - external**<br>
 $418,000 (2002 est.)<br>

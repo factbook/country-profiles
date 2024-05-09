@@ -334,7 +334,7 @@ _election results_: <em><br>2020:</em> Katerina SAKELLAROPOULOU (independent) e
 **Legislative branch**<br>
 _description_: unicameral Hellenic Parliament or Vouli ton Ellinon (300 seats; 280 members in multi-seat and single-seat constituencies and 15 members - including 3 seats for Greek diaspora - in a single nationwide constituency directly elected by open party-list proportional representation vote; members serve up to 4 years); &nbsp;note - only parties surpassing a 3% threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups but can retain that status if the party participated in the last election and received the minimum 3% threshold<br>
 _elections_: last held on 25 June 2023 (next to be held in 2027)<br>
-_election results_: percent of vote by party - ND 40.6%, SYRIZA-PS 17.8%, PASOK-KINAL 11.9%, KKE 7.7%, Spartans 4.6%, Greek Solution 4.4%, NIKI 3.7%, Course of Freedom 3.2%, other 6.1%; seats by party - ND 158, SYRIZA-PS 48, PASOK-KINAL 32, KKE 20, Spartans 12, Greek Solution 12, NIKI 10, Course of Freedom 8; composition as of February 2024 - men 231, women 69, percentage women 23%<br>
+_election results_: percent of vote by party - ND 40.6%, SYRIZA-PS 17.8%, PASOK-KINAL 11.9%, KKE 7.7%, Spartans 4.6%, Greek Solution 4.4%, NIKI 3.7%, Course of Freedom 3.2%, other 6.1%; seats by party - ND 158, SYRIZA-PS 48, PASOK-KINAL 32, KKE 20, Spartans 12, Greek Solution 12, NIKI 10, Course of Freedom 8; composition - men 231, women 69, percentage women 23%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Civil and Criminal Court or Areios Pagos (consists of 56 judges, including the court presidents); Council of State (supreme administrative court) (consists of the president, 7 vice presidents, 42 privy councilors, 48 associate councilors and 50 reporting judges, organized into six 5- and 7-member chambers; Court of Audit (government audit and enforcement) consists of the president, 5 vice presidents, 20 councilors, and 90 associate and reporting judges<br>
@@ -390,29 +390,29 @@ tourism- and shipping-based EU economy; clientelism economic culture and systemi
 $330.579 billion (2022 est.)<br>
 $313.175 billion (2021 est.)<br>
 $288.961 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 5.56% (2022 est.)<br>
 8.38% (2021 est.)<br>
 -9.32% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $31,700 (2022 est.)<br>
 $29,600 (2021 est.)<br>
 $27,000 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $217.581 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 9.65% (2022 est.)<br>
 1.22% (2021 est.)<br>
 -1.25% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB (2020)<br>
@@ -434,24 +434,25 @@ _exports of goods and services_: 33.4% (2017 est.)<br>
 _imports of goods and services_: -34.7% (2017 est.)<br>
 
 **Agricultural products**<br>
-maize, olives, wheat, milk, peaches/nectarines, oranges, tomatoes, grapes, milk, potatoes<br>
+maize, wheat, sheep milk, peaches/nectarines, oranges, grapes, tomatoes, milk, watermelons, potatoes (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, food and tobacco processing, textiles, chemicals, metal products; mining, petroleum<br>
 
 **Industrial production growth rate**<br>
 -3.43% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 4.652 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 12.43% (2022 est.)<br>
 14.66% (2021 est.)<br>
 15.9% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 36.9% (2021 est.)<br>
@@ -460,11 +461,11 @@ _female_: 41.5%<br>
 
 **Population below poverty line**<br>
 18.8% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33.6 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 17.1% of household expenditures (2018 est.)<br>
@@ -473,13 +474,13 @@ _on alcohol and tobacco_: 4.9% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.4%<br>
 _highest 10%_: 25.2% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.28% of GDP (2022 est.)<br>
 0.32% of GDP (2021 est.)<br>
 0.32% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $98.523 billion (2019 est.)<br>
@@ -492,11 +493,11 @@ _expenditures_: $97.277 billion (2019 est.)<br>
 237.35% of GDP (2021 est.)<br>
 253.12% of GDP (2020 est.)<br>
 212.36% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 25.37% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -505,37 +506,41 @@ calendar year<br>
 -$22.623 billion (2022 est.)<br>
 -$13.858 billion (2021 est.)<br>
 -$12.413 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $106.189 billion (2022 est.)<br>
 $87.521 billion (2021 est.)<br>
 $59.022 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Italy 10%, Germany 7%, Turkey 5%, Cyprus 5%, Bulgaria 5% (2019)<br>
+Italy 10%, Bulgaria 7%, Germany 6%, Cyprus 5%, Turkey 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, packaged medicines, aluminum plating, cotton, cheese, copper piping (2021)<br>
+refined petroleum, packaged medicine, aluminum, natural gas, plastic products (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $127.82 billion (2022 est.)<br>
 $103.532 billion (2021 est.)<br>
 $71.758 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 11%, China 9%, Italy 8%, Iraq 7%, Russia 6%, Netherlands 5% (2019)<br>
+China 12%, Germany 9%, Russia 9%, Italy 7%, Iraq 7% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, refined petroleum, packaged medicines, cars, ships (2019)<br>
+crude petroleum, natural gas, refined petroleum, garments, packaged medicine (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $12.061 billion (2022 est.)<br>
 $14.447 billion (2021 est.)<br>
 $11.931 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $484.888 billion (2019 est.)<br>

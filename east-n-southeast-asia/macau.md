@@ -299,29 +299,29 @@ high-income, Chinese special administrative region economy; known for apparel ex
 $36.038 billion (2022 est.)<br>
 $45.88 billion (2021 est.)<br>
 $37.139 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -21.45% (2022 est.)<br>
 23.54% (2021 est.)<br>
 -54.34% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $51,800 (2022 est.)<br>
 $66,800 (2021 est.)<br>
 $54,900 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $24.042 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1.05% (2022 est.)<br>
 0.03% (2021 est.)<br>
 0.81% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA (2018)<br>
@@ -342,45 +342,39 @@ _exports of goods and services_: 79.4% (2017 est.)<br>
 _imports of goods and services_: -32% (2017 est.)<br>
 
 **Agricultural products**<br>
-pork, poultry, beef, pig fat, pig offals, eggs, pepper, cattle offals, cattle hides, goose/guinea fowl meat<br>
+pork, chicken, beef, eggs, pork offal, pork fat, pepper, beef offal, cattle hides, goose meat (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, gambling, clothing, textiles, electronics, footwear, toys<br>
 
 **Industrial production growth rate**<br>
 -5.63% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 401,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 2.41% (2022 est.)<br>
 2.24% (2021 est.)<br>
 2.57% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.2% (2021 est.)<br>
 _male_: 11.7%<br>
 _female_: 6.6%<br>
 
-**Population below poverty line**<br>
-NA<br>
-
 **Gini Index coefficient - distribution of family income**<br>
 35 (2013 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Remittances**<br>
 0.07% of GDP (2022 est.)<br>
 0.24% of GDP (2021 est.)<br>
 0.26% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $18.119 billion (2019 est.)<br>
@@ -395,7 +389,7 @@ _expenditures_: $10.165 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 19.31% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -404,37 +398,41 @@ calendar year<br>
 $1.339 billion (2022 est.)<br>
 $1.758 billion (2021 est.)<br>
 $3.785 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $19.082 billion (2022 est.)<br>
 $26.483 billion (2021 est.)<br>
 $15.665 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Hong Kong 66%, China 9% (2019)<br>
+Hong Kong 65%, China 8%, US 7%, Switzerland 3%, Israel 2% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-jewelry, broadcasting equipment, watches, telephones, clothing and apparel (2021)<br>
+jewelry, garments, broadcasting equipment, precious metal watches, trunks and cases (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $21.267 billion (2022 est.)<br>
 $22.889 billion (2021 est.)<br>
 $15.151 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 33%, Hong Kong 31%, France 5% (2019)<br>
+China 39%, Hong Kong 25%, France 5%, Italy 4%, US 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-jewelry, watches, electricity, aircraft, cars (2019)<br>
+jewelry, garments, electricity, broadcasting equipment, trunks and cases (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $25.971 billion (2022 est.)<br>
 $26.665 billion (2021 est.)<br>
 $25.145 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $0 (31 December 2013)<br>

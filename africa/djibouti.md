@@ -337,7 +337,7 @@ _election results_: <em><br>2021</em>: Ismail Omar GUELLEH reelected president f
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembl&eacute;e Nationale, formerly the Chamber of Deputies (65 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)<br>
 _elections_: last held on 24 February 2023 (next to be held in February 2028)<br>
-_election results_: percent of vote by party - UMP 93.6%, UDJ 6.3%; seats by party - UMP 58, UDJ 7; composition as of March 2024 - men 48, women 17, percentage women 26.2%<br>
+_election results_: percent of vote by party - UMP 93.6%, UDJ 6.3%; seats by party - UMP 58, UDJ 7; composition - men 48, women 17, percentage women 26.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of NA magistrates); Constitutional Council (consists of 6 magistrates)<br>
@@ -385,29 +385,29 @@ food import-dependent Horn of Africa economy driven by various national military
 $5.592 billion (2022 est.)<br>
 $5.423 billion (2021 est.)<br>
 $5.188 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.12% (2022 est.)<br>
 4.52% (2021 est.)<br>
 1.32% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $5,000 (2022 est.)<br>
 $4,900 (2021 est.)<br>
 $4,800 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $3.515 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5.18% (2022 est.)<br>
 1.18% (2021 est.)<br>
 1.78% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.4% (2017 est.)<br>
@@ -423,24 +423,25 @@ _exports of goods and services_: 38.6% (2017 est.)<br>
 _imports of goods and services_: -66.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-vegetables, milk, beef, camel milk, lemons, limes, goat meat, mutton, beans, tomatoes<br>
+vegetables, beans, milk, beef, camel milk, lemons/limes, goat meat, lamb/mutton, tomatoes, beef offal (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 construction, agricultural processing, shipping<br>
 
 **Industrial production growth rate**<br>
 -0.42% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 250,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 26.67% (2022 est.)<br>
 27.96% (2021 est.)<br>
 27.85% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 79.9% (2021 est.)<br>
@@ -449,22 +450,22 @@ _female_: 82.2%<br>
 
 **Population below poverty line**<br>
 21.1% (2017 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 41.6 (2017 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9%<br>
 _highest 10%_: 32.3% (2017 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 1.56% of GDP (2022 est.)<br>
 2.35% of GDP (2021 est.)<br>
 2.01% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $725 million (2019 est.)<br>
@@ -487,37 +488,41 @@ calendar year<br>
 $656.207 million (2022 est.)<br>
 -$225.106 million (2021 est.)<br>
 $366.358 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $5.674 billion (2022 est.)<br>
 $5.16 billion (2021 est.)<br>
 $3.695 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Saudi Arabia 42%, India 15%, China 14%, Egypt 5%, South Korea 5% (2019)<br>
+Ethiopia 61%, China 17%, India 7%, Jordan 2%, Central African Republic 1% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-palm oil, chlorides, sheep and goats, kidney beans, industrial fatty acids/oils, coffee (2021)<br>
+palm oil, chlorides, seed oils, flax yarn, cattle (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $5.096 billion (2022 est.)<br>
 $5.483 billion (2021 est.)<br>
 $3.425 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 43%, United Arab Emirates 15%, India 7%, Turkey 5% (2019)<br>
+China 38%, UAE 20%, India 10%, Morocco 6%, Turkey 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, fertilizers, iron sheeting, cars, palm oil (2019)<br>
+refined petroleum, palm oil, fertilizers, cars, raw sugar (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $589.437 million (2022 est.)<br>
 $588.418 million (2021 est.)<br>
 $686.339 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.954 billion (31 December 2017 est.)<br>

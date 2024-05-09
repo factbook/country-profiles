@@ -355,7 +355,7 @@ _election results_: <em>2022</em>:  William RUTO elected president in first rou
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (68 seats; 47 members directly elected in single-seat constituencies by simple majority vote and 20 directly elected by proportional representation vote - 16 women, 2 representing youth, 2 representing the disabled, and one Senate speaker; members serve 5-year terms)<br>National Assembly (350 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 47 women in single-seat constituencies elected by simple majority vote, and 12 members nominated by the National Assembly - 6 representing youth and 6 representing the disabled, and one Assembly speaker; members serve 5-year terms)<br>
 _elections_: Senate - last held on 9 August 2022 (next to be held on 10 August 2027)<br>National Assembly - last held on 9 August 2022 (next to be held on 10 August 2027)<br>
-_election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - Kenya Kwanza 33, Azimio La Umoja 32, independent 2, other 1; composition as of March 2024 - men 46, women 21, percentage women is 31.3%<br><br>National Assembly - percent of vote by party/coalition - NA; seats by party/coalition - Kenya Kwanza alliance 176, Azimio La Umoja alliance 161, independent 12, other 1; composition as of March 2024 - men 267, women 81, percentage women 24.6%<br>
+_election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - Kenya Kwanza 33, Azimio La Umoja 32, independent 2, other 1; composition - men 46, women 21, percentage women is 31.3%<br><br>National Assembly - percent of vote by party/coalition - NA; seats by party/coalition - Kenya Kwanza alliance 176, Azimio La Umoja alliance 161, independent 12, other 1; composition - men 267, women 81, percentage women 24.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of chief and deputy chief justices and 5 judges)<br>
@@ -403,35 +403,35 @@ _selected World Heritage Site locales_: Lake Turkana National Parks (n); Mount K
 ## Economy
 
 **Economic overview**<br>
-fast growing, third largest Sub-Saharan economy; strong agriculture and emerging services and tourism industries; current account deficit and high debt; broadband and mobile-money platform investments; surging inflation due to oil and food hikes; new investor-friendly incentives; environmentally fragile economy<br>
+fast growing, third largest Sub-Saharan economy; strong agriculture sector with emerging services and tourism industries; IMF program to address current account and debt service challenges; business-friendly policies foster infrastructure investment, digital innovation and public-private partnerships; vulnerable to climate change-induced droughts<br>
 
 **Real GDP (purchasing power parity)**<br>
 $263.737 billion (2022 est.)<br>
 $251.545 billion (2021 est.)<br>
 $233.799 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.85% (2022 est.)<br>
 7.59% (2021 est.)<br>
 -0.27% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $4,900 (2022 est.)<br>
 $4,700 (2021 est.)<br>
 $4,500 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $113.42 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 7.66% (2022 est.)<br>
 6.11% (2021 est.)<br>
 5.4% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2007)<br>
@@ -453,24 +453,25 @@ _exports of goods and services_: 13.9% (2017 est.)<br>
 _imports of goods and services_: -25.5% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, tea, beef, maize, sugar cane, tomatoes, mangoes/guavas, potatoes, beans, bananas<br>
+sugarcane, milk, maize, tea, bananas, potatoes, cabbages, camel milk, cassava, mangoes/guavas (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 agriculture, transportation, services, manufacturing, construction, telecommunications, tourism, retail<br>
 
 **Industrial production growth rate**<br>
 3.87% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 24.75 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.64% (2022 est.)<br>
 5.69% (2021 est.)<br>
 5.63% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 13.8% (2021 est.)<br>
@@ -479,11 +480,11 @@ _female_: 14.9%<br>
 
 **Population below poverty line**<br>
 36.1% (2015 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 38.7 (2021 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 52.9% of household expenditures (2018 est.)<br>
@@ -492,13 +493,13 @@ _on alcohol and tobacco_: 4.1% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
 _highest 10%_: 31.8% (2021 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 3.58% of GDP (2022 est.)<br>
 3.44% of GDP (2021 est.)<br>
 3.09% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $16.885 billion (2019 est.)<br>
@@ -513,7 +514,7 @@ _expenditures_: $24.271 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 13.26% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
@@ -522,37 +523,41 @@ note: central government tax revenue as a % of GDP<br>
 -$5.766 billion (2022 est.)<br>
 -$5.744 billion (2021 est.)<br>
 -$4.792 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $13.859 billion (2022 est.)<br>
 $11.825 billion (2021 est.)<br>
 $9.709 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Uganda 14%, Pakistan 8%, Netherlands 8%, United States 8%, United Kingdom 7% (2020)<br>
+US 10%, Uganda 9%, Pakistan 7%, Netherlands 7%, Rwanda 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-tea, cut flowers, coffee, refined petroleum, titanium (2021)<br>
+tea, cut flowers, garments, coffee, titanium ore (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $24.406 billion (2022 est.)<br>
 $21.853 billion (2021 est.)<br>
 $17.717 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 27%, India 11%, United Arab Emirates 7%, Japan 4%, Saudi Arabia 3% (2020)<br>
+China 26%, UAE 14%, India 11%, Malaysia 4%, Saudi Arabia 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, palm oil, broadcasting equipment, packaged medicines, cars (2020)<br>
+refined petroleum, palm oil, garments, wheat, plastics (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $7.969 billion (2022 est.)<br>
 $9.491 billion (2021 est.)<br>
 $8.297 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $29.289 billion (2019 est.)<br>

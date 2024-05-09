@@ -280,7 +280,7 @@ _election results_: as leader of the majority party of the ruling coalition, Eve
 **Legislative branch**<br>
 _description_: unicameral Legislature or Staten (21 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 25 June 2021 (next to be held in June 2025)<br>
-_election results_: percent of vote by party MEP 35.3%, AVP 31.3%, ROOTS 9.4%, MAS 8%, Accion21 5.8%; seats by party - MEP 9, AVP 7, ROOTS 2, MAS 2, Accion21 1; composition as of April 2024 - men 13, women 8, percentage women - 38.1%<br>
+_election results_: percent of vote by party MEP 35.3%, AVP 31.3%, ROOTS 9.4%, MAS 8%, Accion21 5.8%; seats by party - MEP 9, AVP 7, ROOTS 2, MAS 2, Accion21 1; composition - men 13, women 8, percentage women - 38.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court in The Hague, Netherlands<br>
@@ -319,29 +319,29 @@ small, tourism-dependent, territorial-island economy; very high public debt; COV
 $4.393 billion (2022 est.)<br>
 $3.977 billion (2021 est.)<br>
 $3.116 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 10.46% (2022 est.)<br>
 27.64% (2021 est.)<br>
 -23.98% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $41,300 (2022 est.)<br>
 $37,300 (2021 est.)<br>
 $29,200 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $3.545 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4.26% (2019 est.)<br>
 3.63% (2018 est.)<br>
 -1.03% (2017 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB (2020)<br>
@@ -374,18 +374,11 @@ tourism, petroleum transshipment facilities, banking<br>
 **Unemployment rate**<br>
 7.7% (2016 est.)<br>
 
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 1.08% of GDP (2022 est.)<br>
 1.16% of GDP (2021 est.)<br>
 1.37% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $793 million (2019 est.)<br>
@@ -408,37 +401,41 @@ calendar year<br>
 $230.556 million (2022 est.)<br>
 $79.257 million (2021 est.)<br>
 -$316.455 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $2.853 billion (2022 est.)<br>
 $2.201 billion (2021 est.)<br>
 $1.444 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Malaysia 57%, United States 11%, Netherlands 6%, Jordan 6%, Venezuela 5% (2019)<br>
+Colombia 40%, US 12%, Jordan 11%, Guyana 8%, Netherlands 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, cigarettes, whiskies, refined petroleum, scrap iron (2021)<br>
+tobacco, liquor, refined petroleum, scrap iron, orthopedic appliances (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $2.429 billion (2022 est.)<br>
 $1.947 billion (2021 est.)<br>
 $1.644 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 48%, Netherlands 16% (2019)<br>
+US 39%, Netherlands 11%, Guyana 9%, Colombia 8%, China 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, jewelry, cars, vehicle parts, tobacco products (2019)<br>
+refined petroleum, crude petroleum, tobacco, jewelry, other foods (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $1.544 billion (2022 est.)<br>
 $1.513 billion (2021 est.)<br>
 $1.213 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $693.2 million (31 December 2014 est.)<br>

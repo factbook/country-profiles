@@ -365,7 +365,7 @@ _election results_: <em><br>2020/2021</em>: Mohamed BAZOUM elected president in 
 **Legislative branch**<br>
 _description_: the CNSP dissolved the unicameral National Assembly or Assemblee Nationale (171 statutory seats - 166 currently; 158 members directly elected from 8 multi-member constituencies in 7 regions and Niamey by party-list proportional representation, 8 reserved for minorities elected in special single-seat constituencies by simple majority vote, 5 seats reserved for Nigeriens living abroad - l seat per continent - elected in single-seat constituencies by simple majority vote; members serve 5-year terms) as part of the 26 July 2023 military coup<br>
 _elections_: last held on 27 December 2020 (prior to the military coup, next elections were to be held in December 2025)<br>
-_election results_: percent of vote by party - PNDS-Tarrayya 37%, MODEN/FA Lumana 8.7%, MPR-Jamhuriya 7.6%, MNSD-Nassara 6.8%,&nbsp; RDR-Tchanji 4.4%, CPR-Inganci 4.2%, MPN-Kishin Kassa 4%, PJP Generation Dubara 2.9%, ANDP Zaman Lahya 2.5%, RPP Farrilla 2.1%, ARD Adaltchi-Mutuntchi 1.7%, AMEN AMIN 1.4%, MDEN Falala 1.4%, other 15.3%; seats by party - PNDS-Tarrayya 79, MODEN/FA Lumana 19, MPR-Jamhuriya 14, MNSD-Nassara 13, CPR-Inganci 8, MPN-Kishin Kassa 6, ANDP-Zaman Lahiya 3, RPP Farrilla 2, PJP Generation Dubara 2, ARD Adaltchi-Mutuntchi 2, AMEN AMIN 2, other 16; composition as of December 2022 - men 115, women 51, percentage women 30.7%<br>
+_election results_: percent of vote by party - PNDS-Tarrayya 37%, MODEN/FA Lumana 8.7%, MPR-Jamhuriya 7.6%, MNSD-Nassara 6.8%,&nbsp; RDR-Tchanji 4.4%, CPR-Inganci 4.2%, MPN-Kishin Kassa 4%, PJP Generation Dubara 2.9%, ANDP Zaman Lahya 2.5%, RPP Farrilla 2.1%, ARD Adaltchi-Mutuntchi 1.7%, AMEN AMIN 1.4%, MDEN Falala 1.4%, other 15.3%; seats by party - PNDS-Tarrayya 79, MODEN/FA Lumana 19, MPR-Jamhuriya 14, MNSD-Nassara 13, CPR-Inganci 8, MPN-Kishin Kassa 6, ANDP-Zaman Lahiya 3, RPP Farrilla 2, PJP Generation Dubara 2, ARD Adaltchi-Mutuntchi 2, AMEN AMIN 2, other 16; composition - men 115, women 51, percentage women 30.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Constitutional Court (consists of 7 judges); High Court of Justice (consists of 7 members)<br>
@@ -419,29 +419,29 @@ low-income Sahel economy; major instability and humanitarian crises limit econom
 $33.406 billion (2022 est.)<br>
 $29.963 billion (2021 est.)<br>
 $29.554 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 11.49% (2022 est.)<br>
 1.38% (2021 est.)<br>
 3.55% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $1,300 (2022 est.)<br>
 $1,200 (2021 est.)<br>
 $1,200 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $15.342 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4.23% (2022 est.)<br>
 3.84% (2021 est.)<br>
 2.9% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2019)<br>
@@ -461,24 +461,25 @@ _exports of goods and services_: 16.4% (2017 est.)<br>
 _imports of goods and services_: -34.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-millet, cow peas, sorghum, onions, milk, groundnuts, cassava, cabbages, goat milk, fruit<br>
+millet, cowpeas, sorghum, onions, milk, groundnuts, sugarcane, cabbages, cassava, potatoes (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 uranium mining, petroleum, cement, brick, soap, textiles, food processing, chemicals, slaughterhouses<br>
 
 **Industrial production growth rate**<br>
 -0.89% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 9.833 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 0.57% (2022 est.)<br>
 0.86% (2021 est.)<br>
 0.66% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 1% (2021 est.)<br>
@@ -487,22 +488,22 @@ _female_: 0.7%<br>
 
 **Population below poverty line**<br>
 40.8% (2018 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 37.3 (2018 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.2%<br>
 _highest 10%_: 31.1% (2018 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 3.26% of GDP (2022 est.)<br>
 2.37% of GDP (2021 est.)<br>
 3.79% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $2.325 billion (2019 est.)<br>
@@ -525,31 +526,35 @@ calendar year<br>
 -$2.099 billion (2021 est.)<br>
 -$1.816 billion (2020 est.)<br>
 -$1.572 billion (2019 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $1.487 billion (2021 est.)<br>
 $1.338 billion (2020 est.)<br>
 $1.387 billion (2019 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United Arab Emirates 54%, China 25%, France 7%, Pakistan 5% (2019)<br>
+UAE 69%, France 9%, China 9%, Nigeria 3%, Mali 2% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, sesame seeds, uranium, refined petroleum, onions (2021)<br>
+gold, oil seeds, radioactive chemicals, refined petroleum, uranium and thorium ore (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $4.027 billion (2021 est.)<br>
 $3.542 billion (2020 est.)<br>
 $3.395 billion (2019 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 19%, France 9%, United Arab Emirates 7%, Cote d'Ivoire 6%, India 6%, Nigeria 5%, Togo 5%, Turkey 5% (2019)<br>
+China 22%, France 14%, Nigeria 8%, Germany 5%, UAE 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-rice, packaged medicines, palm oil, cars, cement (2019)<br>
+weapons parts and accessories, rice, aircraft, tobacco, iron pipes (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $1.314 billion (31 December 2017 est.)<br>

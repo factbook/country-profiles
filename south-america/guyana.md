@@ -340,7 +340,7 @@ _election results_: <br><em>2020:</em> Mohammed Irfaan ALI (PPP/C) designated pr
 **Legislative branch**<br>
 _description_: unicameral National Assembly (70 seats; 40 members directly elected in a single nationwide constituencies, 25 directly elected in multi-seat constituencies - all by closed-list proportional representation vote, 2 non-elected ministers, 2 non-elected parliamentary secretaries, and the speaker; members serve 5-year terms)<br>
 _elections_: ast held on 2 March 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - PPP/C 50.69%, APNU-AFC 47.34%, LJP 0.58%, ANUG 0.5%, TNM 0.05%, other 0.84%; seats by party - PPP/C 33, APNU-AFC 31, LJP-ANUG-TNM 1; composition as of February 2024 (elected and non-elected) - men 43, women 28, percentage women 39.4%; note - the initial results were declared invalid and a partial recount was conducted from 6 May to 8 June 2020, in which PPP/C was declared the winner<br>
+_election results_: percent of vote by party - PPP/C 50.69%, APNU-AFC 47.34%, LJP 0.58%, ANUG 0.5%, TNM 0.05%, other 0.84%; seats by party - PPP/C 33, APNU-AFC 31, LJP-ANUG-TNM 1; composition - men 43, women 28, percentage women 39.4%; note - the initial results were declared invalid and a partial recount was conducted from 6 May to 8 June 2020, in which PPP/C was declared the winner<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal with a chief justice and 3 justices, and the High Court with a chief justice and 10 justices organized into 3- or 5-judge panels); note - in 2009, Guyana acceded to the Caribbean Court of Justice as the final court of appeal in civil and criminal cases, replacing that of the Judicial Committee of the Privy Council (in London)<br>
@@ -389,29 +389,29 @@ small, hydrocarbon-driven South American export economy; major forest coverage b
 $28.819 billion (2022 est.)<br>
 $17.64 billion (2021 est.)<br>
 $14.693 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 63.37% (2022 est.)<br>
 20.06% (2021 est.)<br>
 43.48% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $35,600 (2022 est.)<br>
 $21,900 (2021 est.)<br>
 $18,400 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $14.718 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 6.12% (2022 est.)<br>
 5.03% (2021 est.)<br>
 0.99% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 15.4% (2017 est.)<br>
@@ -427,24 +427,25 @@ _exports of goods and services_: 47.8% (2017 est.)<br>
 _imports of goods and services_: -63% (2017 est.)<br>
 
 **Agricultural products**<br>
-rice, sugar cane, coconuts, pumpkins, squash, gourds, milk, eggplants, green chillies/peppers, poultry<br>
+sugarcane, rice, plantains, papayas, cassava, pumpkins/squash, chicken, milk, eggplants, ginger (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 bauxite, sugar, rice milling, timber, textiles, gold mining<br>
 
 **Industrial production growth rate**<br>
 98.53% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 288,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 12.3% (2022 est.)<br>
 14.98% (2021 est.)<br>
 15.69% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 29.9% (2021 est.)<br>
@@ -465,7 +466,7 @@ _highest 10%_: 33.8% (1999)<br>
 3.67% of GDP (2022 est.)<br>
 6.81% of GDP (2021 est.)<br>
 7.84% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.333 billion (2019 est.)<br>
@@ -488,37 +489,41 @@ calendar year<br>
 -$254.121 million (2022 est.)<br>
 -$2.503 billion (2021 est.)<br>
 -$396.533 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $11.536 billion (2022 est.)<br>
 $4.64 billion (2021 est.)<br>
 $2.799 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 40%, Singapore 14%, United Arab Emirates 6%, United Kingdom 6%, Barbados 6% (2021)<br>
+Panama 32%, Netherlands 15%, US 13%, UAE 6%, Italy 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, gold, rice, aluminum ores, railway shipping containers, rums&nbsp;&nbsp; (2021)<br>
+crude petroleum, gold, rice, aluminum ore, liquor (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $7.067 billion (2022 est.)<br>
 $6.611 billion (2021 est.)<br>
 $3.756 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Singapore 33%, United States 19%, Trinidad and Tobago 12%, China 8%, Brazil 2% (2021)<br>
+US 28%, China 14%, Brazil 7%, Trinidad and Tobago 7%, Suriname 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-floating drilling platforms, refined petroleum, valves, construction vehicles, cars (2021)<br>
+refined petroleum, valves, iron pipes, construction vehicles, cars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $917.877 million (2022 est.)<br>
 $790.785 million (2021 est.)<br>
 $680.634 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.69 billion (31 December 2017 est.)<br>

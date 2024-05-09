@@ -277,7 +277,7 @@ National Day, 15 August (1940); note - a National Day was originally established
 
 **Constitution**<br>
 _history_: previous 1862; latest adopted 5 October 1921<br>
-_amendments_: proposed by Parliament, by the reigning prince (in the form of "Government" proposals), by petition of at least 1,500 qualified voters, or by at least four communes; passage requires unanimous approval of Parliament members in one sitting or three-quarters majority vote in two successive sittings; referendum required only if petitioned by at least 1,500 voters or by at least four communes; passage by referendum requires absolute majority of votes cast; amended many times, last in 2020<br>
+_amendments_: proposed by Parliament, by the reigning prince (in the form of "Government" proposals), by petition of at least 1,500 qualified voters, or by at least four communes; passage requires unanimous approval of Parliament members in one sitting or three-quarters majority vote in two successive sittings; referendum required only if petitioned by at least 1,500 voters or by at least four communes; passage by referendum requires absolute majority of votes cast; amended many times, last in 2023<br>
 
 **Legal system**<br>
 civil law system influenced by Swiss, Austrian, and German law<br>
@@ -303,7 +303,7 @@ _elections/appointments_: the monarchy is hereditary; following legislative elec
 **Legislative branch**<br>
 _description_: unicameral Parliament or Landtag (25 seats; members directly elected in 2 multi-seat constituencies by open-list proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 7 February 2021 (next to be held on 7 February 2025)<br>
-_election results_: percent of vote by party - FBP 40%, VU 40%, FL 12%, DpL 8%; seats by party - FBP 10, VU 10, FL 3, DpL 2; composition as of February 2024 - men 18, women 7, percentage women 28%<br>
+_election results_: percent of vote by party - FBP 40%, VU 40%, FL 12%, DpL 8%; seats by party - FBP 10, VU 10, FL 3, DpL 2; composition - men 18, women 7, percentage women 28%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supreme Court or F&uuml;rstlicher Oberster Gerichtshof (consists of 5 judges and 5 substitutes); Constitutional Court or Staatsgerichtshof (consists of 5 judges, and 5 alternates)<br>
@@ -359,7 +359,7 @@ $91,300 (2007 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $7.71 billion (2021 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 -0.4% (2016 est.)<br>
@@ -382,7 +382,7 @@ electronics, metal manufacturing, dental products, ceramics, pharmaceuticals, fo
 
 **Industrial production growth rate**<br>
 4.3% (2014 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 38,520 (2015 est.) (2012)<br>
@@ -391,13 +391,6 @@ note: annual % change in industrial value added based on constant local currency
 **Unemployment rate**<br>
 2.4% (2015)<br>
 2.4% (2014)<br>
-
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Budget**<br>
 _revenues_: $995.3 million (2012 est.)<br>

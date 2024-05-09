@@ -324,7 +324,7 @@ _election results_: Siaosi SOVALENI elected prime minister by the Legislative As
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Fale Alea (30 seats statutory, 28 current); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 4-year terms)<br>
 _elections_: last held on 18 November 2021 (next to be held in November 2025)<br>
-_election results_: percent of vote - NA; seats by party - independent 11, nobles' representatives 9, DPFI 3, TPPI 3; composition as of February 2024 - men 26, women 2, percentage women 7.1%<br>
+_election results_: percent of vote - NA; seats by party - independent 11, nobles' representatives 9, DPFI 3, TPPI 3; composition - men 26, women 2, percentage women 7.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers<br>
@@ -369,29 +369,29 @@ upper middle-income Pacific island economy; enormous diaspora and remittance rel
 $651.259 million (2021 est.)<br>
 $669.107 million (2020 est.)<br>
 $665.853 million (2019 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -2.67% (2021 est.)<br>
 0.49% (2020 est.)<br>
 0.71% (2019 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $6,100 (2021 est.)<br>
 $6,400 (2020 est.)<br>
 $6,300 (2019 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $469.228 million (2021 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 10.97% (2022 est.)<br>
 5.64% (2021 est.)<br>
 -0.35% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 19.9% (2017 est.)<br>
@@ -407,24 +407,25 @@ _exports of goods and services_: 22.8% (2017 est.)<br>
 _imports of goods and services_: -68.5% (2017 est.)<br>
 
 **Agricultural products**<br>
-coconuts, gourds, cassava, sweet potatoes, vegetables, yams, taro, roots/tubers, plantains, lemons/limes<br>
+coconuts, pumpkins/squash, cassava, sweet potatoes, vegetables, yams, taro, root vegetables, plantains, lemons/limes (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, construction, fishing<br>
 
 **Industrial production growth rate**<br>
 1.23% (2021 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 38,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 2.43% (2022 est.)<br>
 2.11% (2021 est.)<br>
 2.73% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.1% (2021 est.)<br>
@@ -436,18 +437,18 @@ _female_: 16.3%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33.5 (2015 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.2%<br>
 _highest 10%_: 26.8% (2015 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 46.22% of GDP (2021 est.)<br>
 39.31% of GDP (2020 est.)<br>
 37.18% of GDP (2019 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $212 million (2019 est.)<br>
@@ -460,7 +461,7 @@ _expenditures_: $196 million (2019 est.)<br>
 49.41% of GDP (2016 est.)<br>
 51.8% of GDP (FY2016 est.)<br>
 51.18% of GDP (2015 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 39.8% (of GDP) (2017 est.)<br>
@@ -472,37 +473,41 @@ note: central government debt as a % of GDP<br>
 -$31.432 million (2022 est.)<br>
 -$24.467 million (2021 est.)<br>
 -$25.78 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $59.622 million (2022 est.)<br>
 $58.152 million (2021 est.)<br>
 $99.78 million (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 22%, South Africa 18%, New Zealand 15%, Australia 13%, South Korea 11% (2021)<br>
+US 31%, Australia 19%, NZ 12%, Hong Kong 8%, Belgium 8% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-natural gas, shellfish, various fruits and nuts, vegetables, cassava, coral and shells (2021)<br>
+fish, scrap copper, processed crustaceans, vegetables, perfume plants (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $329.146 million (2022 est.)<br>
 $291.957 million (2021 est.)<br>
 $309.685 million (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-New Zealand 36%, China 20%, Fiji 18%, Australia 6%, United States 6% (2021)<br>
+Fiji 28%, China 23%, NZ 21%, Australia 6%, US 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, poultry meats, cars, mutton, goat meat, lumber, x-ray equipment, broadcasting equipment (2021)<br>
+refined petroleum, plastic products, poultry, sheep and goat meat, cars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $375.564 million (2022 est.)<br>
 $361.812 million (2021 est.)<br>
 $298.948 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $189.9 million (31 December 2017 est.)<br>

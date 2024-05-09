@@ -262,7 +262,7 @@ _elections/appointments_: the monarchy is hereditary; governor appointed by the 
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly (12 seats; 9 members directly elected in a single constituency by absolute majority vote in 2 rounds to serve 5-year terms; the speaker, normally elected from the outside by the Assembly for a 5-year term, and 2 ex-officio members - the attorney general and financial secretary)<br>
 _elections_: last held on 18 November 2019 (next to be held in 2024)<br>
-_election results_: percent of vote by party - MCAP 42.7%, PDM 29.9%, other 17.1%; seats by party - MCAP 5, PDM 3, independent 1; composition as of April 2024 (including the speaker and 2 ex-officio members) - men 8, women 4, percentage women 33.3%<br>
+_election results_: percent of vote by party - MCAP 42.7%, PDM 29.9%, other 17.1%; seats by party - MCAP 5, PDM 3, independent 1; composition - men 8, women 4, percentage women 33.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 1 assigned to Montserrat; Montserrat is also a member of the Caribbean Court of Justice<br>
@@ -334,13 +334,6 @@ tourism, rum, textiles, electronic appliances<br>
 5.6% (2017 est.)<br>
 6% (1998 est.)<br>
 
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Budget**<br>
 _revenues_: $66.67 million (2017 est.)<br>
 _expenditures_: $47.04 million (2017 est.)<br>
@@ -358,10 +351,12 @@ $4.4 million (2017 est.)<br>
 $5.2 million (2016 est.)<br>
 
 **Exports - partners**<br>
-Canada 48%, United States 14%, Belgium 14%, France 11%, Cost Rica 3% (2021)<br>
+US 23%, France 21%, Antigua and Barbuda 19%, Ireland 15%, UK 7% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-iron products, needles and catheters, sand, dental filling pharmaceuticals, gravel (2021)<br>
+sand, gravel and crushed stone, packaged medicine, lead products, liquid pumps (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $15.3 million (2021 est.)<br>
@@ -369,10 +364,12 @@ $39.44 million (2017 est.)<br>
 $36.1 million (2016 est.)<br>
 
 **Imports - partners**<br>
-United States 47%, Trinidad and Tobago 19%, United Kingdom 9%, Barbados 3%, Japan 2% (2021)<br>
+US 54%, UK 8%, Singapore 4%, Antigua and Barbuda 4%, Trinidad and Tobago 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, food preparations, cars, broadcasting equipment, poultry (2021)<br>
+refined petroleum, machine parts, plastic products, machinery, natural gas (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $47.58 million (31 December 2017 est.)<br>

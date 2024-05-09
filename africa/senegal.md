@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Senegal is one of the few countries in the world with evidence of continuous human life from the Paleolithic period to present. Between the 14th and 16th centuries, the Jolof Empire ruled most of Senegal. Starting in the 15th century, Portugal, the Netherlands, France, and Great Britain traded along the Senegalese coast. Senegal’s location on the western tip of Africa made it a favorable base for the European slave trade. European powers used the Senegalese island of Goree as a base to purchase slaves from the warring chiefdoms on the mainland, and at the height of the slave trade in Senegal, over one-third of the Senegalese population was enslaved. In 1815, France abolished slavery and began expanding inland. During the second half of the 19th century, France took possession of Senegal as a French colony. In 1959, the French colonies of Senegal and French Sudan were merged and granted independence in 1960 as the Mali Federation. The union broke up after only a few months. In 1982, Senegal joined with The Gambia to form the nominal confederation of Senegambia. The envisaged integration of the two countries was never implemented, and the union dissolved in 1989.<br><br>Since the 1980s, the Movement of Democratic Forces in the Casamance - a separatist movement based in southern Senegal - has led a low-level insurgency. Several attempts at reaching a comprehensive peace agreement have failed. Since 2012, despite sporadic incidents of violence, an unofficial cease-fire has remained largely in effect. Senegal is one of the most stable democracies in Africa and has a long history of participating in international peacekeeping and regional mediation. The Socialist Party of Senegal ruled for 40 years until Abdoulaye WADE was elected president in 2000 and re-elected in 2007. WADE amended Senegal's constitution over a dozen times to increase executive power and weaken the opposition. In 2012, WADE’s decision to run for a third presidential term sparked public backlash that led to his defeat to current President Macky SALL. A 2016 constitutional referendum limited future presidents to two consecutive five-year terms. SALL announced in July 2023 that he would not seek another term in office, and will conclude his tenure in April 2024. <br>
+Senegal is one of the few countries in the world with evidence of continuous human life from the Paleolithic period to present. Between the 14th and 16th centuries, the Jolof Empire ruled most of Senegal. Starting in the 15th century, Portugal, the Netherlands, France, and Great Britain traded along the Senegalese coast. Senegal’s location on the western tip of Africa made it a favorable base for the European slave trade. European powers used the Senegalese island of Goree as a base to purchase slaves from the warring chiefdoms on the mainland, and at the height of the slave trade in Senegal, over one-third of the Senegalese population was enslaved. In 1815, France abolished slavery and began expanding inland. During the second half of the 19th century, France took possession of Senegal as a French colony. In 1959, the French colonies of Senegal and French Sudan were merged and granted independence in 1960 as the Mali Federation. The union broke up after only a few months. In 1982, Senegal joined with The Gambia to form the nominal confederation of Senegambia. The envisaged integration of the two countries was never implemented, and the union dissolved in 1989.<br><br>Since the 1980s, the Movement of Democratic Forces in the Casamance -- a separatist movement based in southern Senegal -- has led a low-level insurgency. Several attempts at reaching a comprehensive peace agreement have failed. Since 2012, despite sporadic incidents of violence, an unofficial cease-fire has remained largely in effect. Senegal is one of the most stable democracies in Africa and has a long history of participating in international peacekeeping and regional mediation. The Socialist Party of Senegal ruled for 40 years until Abdoulaye WADE was elected president in 2000 and re-elected in 2007. WADE amended Senegal's constitution over a dozen times to increase executive power and weaken the opposition. In 2012, WADE’s decision to run for a third presidential term sparked public backlash that led to his loss to current President Macky SALL. A 2016 constitutional referendum limited future presidents to two consecutive five-year terms. SALL announced in July 2023 that he would not seek another term in office and will conclude his tenure in April 2024.<br>
 
 ## Geography
 
@@ -414,29 +414,29 @@ lower middle-income, services-driven West African economy; key mining, construct
 $61.727 billion (2022 est.)<br>
 $59.265 billion (2021 est.)<br>
 $55.627 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.15% (2022 est.)<br>
 6.54% (2021 est.)<br>
 1.34% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $3,600 (2022 est.)<br>
 $3,500 (2021 est.)<br>
 $3,400 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $27.684 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 9.7% (2022 est.)<br>
 2.18% (2021 est.)<br>
 2.54% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Ba3 (2017)<br>
@@ -457,24 +457,25 @@ _exports of goods and services_: 27% (2017 est.)<br>
 _imports of goods and services_: -42.8% (2017 est.)<br>
 
 **Agricultural products**<br>
-groundnuts, watermelons, rice, sugar cane, cassava, millet, maize, onions, sorghum, vegetables<br>
+groundnuts, watermelons, rice, cassava, sugarcane, millet, maize, onions, sorghum, milk (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 agricultural and fish processing, phosphate mining, fertilizer production, petroleum refining, zircon, and gold mining, construction materials, ship construction and repair<br>
 
 **Industrial production growth rate**<br>
 1.14% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 5.124 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.01% (2022 est.)<br>
 3.32% (2021 est.)<br>
 3.34% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 5% (2021 est.)<br>
@@ -486,18 +487,18 @@ _female_: 7.5%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 38.3 (2018 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3%<br>
 _highest 10%_: 30.8% (2018 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 9.03% of GDP (2022 est.)<br>
 11.23% of GDP (2021 est.)<br>
 10.63% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $4.76 billion (2019 est.)<br>
@@ -512,7 +513,7 @@ _expenditures_: $5.662 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 18.66% (of GDP) (2022 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -521,31 +522,35 @@ calendar year<br>
 -$3.327 billion (2021 est.)<br>
 -$2.662 billion (2020 est.)<br>
 -$1.898 billion (2019 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $6.78 billion (2021 est.)<br>
 $5.063 billion (2020 est.)<br>
 $5.836 billion (2019 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Mali 22%, Switzerland 14%, India 9%, China 7% (2019)<br>
+Mali 18%, India 16%, Switzerland 11%, US 8%, China 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, refined petroleum, phosphoric acid, fish, ground nuts (2019)<br>
+gold, phosphoric acid, refined petroleum, fish, precious metal products (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $12.278 billion (2021 est.)<br>
 $9.627 billion (2020 est.)<br>
 $9.17 billion (2019 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 17%, France 11%, Belgium 7%, Russia 7%, Netherlands 7% (2019)<br>
+China 22%, India 8%, France 7%, Belgium 5%, Netherlands 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, crude petroleum, rice, cars, malt extract, clothing and apparel (2019)<br>
+refined petroleum, ships, rice, crude petroleum, plastic products (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $1.827 billion (31 December 2017 est.)<br>

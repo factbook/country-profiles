@@ -309,7 +309,7 @@ _election results_: <em>2023: </em>Hilda C. HEINE elected president; National Pa
 **Legislative branch**<br>
 _description_: unicameral National Parliament consists of:<br>Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms); note - the Council of Iroij, a 12-member group of tribal leaders advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice); members appointed to serve 1-year terms<br>
 _elections_: last held on 20 November 2023 (next to be held in November 2027)<br>
-_election results_: percent of vote by party - NA; seats by part - independent 33; composition as of February 2024 - men 29, women 4, percent of women 12.1%<br>
+_election results_: percent of vote by party - NA; seats by part - independent 33; composition - men 29, women 4, percent of women 12.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 2 associate justices)<br>
@@ -362,23 +362,23 @@ upper middle-income Pacific island economy; US aid reliance; large public sector
 $249.595 million (2022 est.)<br>
 $251.292 million (2021 est.)<br>
 $248.528 million (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -0.68% (2022 est.)<br>
 1.11% (2021 est.)<br>
 -2.85% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $6,000 (2022 est.)<br>
 $6,000 (2021 est.)<br>
 $5,700 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $258.774 million (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 0% (2017 est.)<br>
@@ -397,14 +397,15 @@ _exports of goods and services_: 52.9% (2016 est.)<br>
 _imports of goods and services_: -102.3% (2016 est.)<br>
 
 **Agricultural products**<br>
-coconuts<br>
+coconuts (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 copra, tuna processing, tourism, craft items (from seashells, wood, and pearls)<br>
 
 **Industrial production growth rate**<br>
-10.24% (2022 est.) NA<br>
-note: annual % change in industrial value added based on constant local currency<br>
+10.24% (2022 est.)<br>
+<strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 10,670 (2013 est.)<br>
@@ -416,22 +417,22 @@ _female_: 14.2%<br>
 
 **Population below poverty line**<br>
 7.2% (2019 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 35.5 (2019 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.8% NA<br>
-_highest 10%_: 27.5% (2019 est.) NA<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+_lowest 10%_: 2.8%<br>
+_highest 10%_: 27.5% (2019 est.)<br>
+<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 11.59% of GDP (2022 est.)<br>
 13.36% of GDP (2021 est.)<br>
 13.89% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $148 million (2019 est.)<br>
@@ -444,11 +445,11 @@ _expenditures_: $153 million (2019 est.)<br>
 41.73% of GDP (2019 est.)<br>
 44.12% of GDP (2018 est.)<br>
 47.95% of GDP (2017 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 17.23% (of GDP) (2020 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
@@ -457,31 +458,35 @@ note: central government tax revenue as a % of GDP<br>
 $76.263 million (2021 est.)<br>
 $90.281 million (2020 est.)<br>
 $86.133 million (2019 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $130.016 million (2021 est.)<br>
 $88.042 million (2020 est.)<br>
 $91.394 million (2019 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Denmark 33%, South Korea 20%, Germany 15%, Poland 9%, Cyprus 4% (2021)<br>
+Germany 30%, Denmark 15%, UK 14%, Malta 6%, Indonesia 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-ships, recreational boats, skipjack, tuna, refined petroleum, broadcasting equipment (2021)<br>
+ships, refined petroleum, fish, coated flat-rolled iron, wood carpentry (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $206.025 million (2021 est.)<br>
 $132.845 million (2020 est.)<br>
 $129.682 million (2019 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-South Korea 33%, China 30%, Japan 11%, Greece 3%, Cyprus 3% (2021)<br>
+China 33%, South Korea 31%, Japan 12%, Taiwan 4%, Brazil 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-ships, refined petroleum, centrifuges, recreational boats, boat propellers (2019)<br>
+ships, refined petroleum, additive manufacturing machines, centrifuges, iron structures (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Debt - external**<br>
 $97.96 million (2013 est.)<br>

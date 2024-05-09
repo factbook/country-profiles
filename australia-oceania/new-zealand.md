@@ -338,7 +338,7 @@ _elections/appointments_: the monarchy is hereditary; governor-general appointed
 **Legislative branch**<br>
 _description_: unicameral House of Representatives - commonly called Parliament (121 seats for 2023-26 term); 72 members directly elected in 65 single-seat constituencies and 7 Maori constituencies by simple majority vote and 49 directly elected by closed party-list proportional representation vote; members serve 3-year terms)<br>
 _elections_: last held on 14 October 2023 (next scheduled for October 2026)<br>
-_election results_: percent of vote by party - National Party 38.1%, Labor Party 26.9%, Green Party 11.6%, ACT Party 8.6%, New Zealand First 6.1%; Maori Party 3.1%; seats by party - National Party 48, Labor Party 34, Green Party 15, ACT Party 11, New Zealand First 8, Maori Party 6; composition as of February 2024 - 67 men, 56 women; percentage of women 45.5%<br>
+_election results_: percent of vote by party - National Party 38.1%, Labor Party 26.9%, Green Party 11.6%, ACT Party 8.6%, New Zealand First 6.1%; Maori Party 3.1%; seats by party - National Party 48, Labor Party 34, Green Party 15, ACT Party 11, New Zealand First 8, Maori Party 6; composition - 67 men, 56 women; percentage of women 45.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 5 justices, including the chief justice); note - the Supreme Court in 2004 replaced the Judicial Committee of the Privy Council (in London) as the final appeals court<br>
@@ -392,29 +392,29 @@ high-income Pacific island economy; strong agriculture, manufacturing, tourism, 
 $231.534 billion (2022 est.)<br>
 $225.116 billion (2021 est.)<br>
 $214.054 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.85% (2022 est.)<br>
 5.17% (2021 est.)<br>
 -0.65% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $45,200 (2022 est.)<br>
 $44,000 (2021 est.)<br>
 $42,100 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $248.102 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 7.17% (2022 est.)<br>
 3.94% (2021 est.)<br>
 1.71% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA (2011)<br>
@@ -436,32 +436,30 @@ _exports of goods and services_: 27% (2017 est.)<br>
 _imports of goods and services_: -26.1% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, beef, kiwi fruit, apples, potatoes, mutton, grapes, wheat, barley, green onions/shallots<br>
+milk, beef, kiwifruit, apples, grapes, lamb/mutton, potatoes, wheat, barley, onions (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 agriculture, forestry, fishing, logs and wood articles, manufacturing, mining, construction, financial services, real estate services, tourism<br>
 
 **Industrial production growth rate**<br>
 3.94% (2021 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 2.971 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.3% (2022 est.)<br>
 3.78% (2021 est.)<br>
 4.6% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.4% (2021 est.)<br>
 _male_: 12.2%<br>
 _female_: 10.6%<br>
-
-**Population below poverty line**<br>
-NA<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 36.2 (1997)<br>
@@ -470,15 +468,11 @@ NA<br>
 _on food_: 13.4% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 4.8% of household expenditures (2018 est.)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 0.27% of GDP (2022 est.)<br>
 0.26% of GDP (2021 est.)<br>
 0.2% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $76.694 billion (2020 est.)<br>
@@ -491,11 +485,11 @@ _expenditures_: $88.593 billion (2020 est.)<br>
 54.27% of GDP (2022 est.)<br>
 50.99% of GDP (2021 est.)<br>
 46.15% of GDP (2020 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 29.77% (of GDP) (2022 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
@@ -505,37 +499,41 @@ note: central government tax revenue as a % of GDP<br>
 -$21.627 billion (2022 est.)<br>
 -$14.804 billion (2021 est.)<br>
 -$2.401 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $57.485 billion (2022 est.)<br>
 $54.923 billion (2021 est.)<br>
 $50.173 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 33%, Australia 12%, United States 11%, Japan 6%, South Korea 3% (2021)<br>
+China 28%, Australia 11%, US 11%, Japan 6%, South Korea 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-milk cream powders, lumber, beef, butter, mutton (2021)<br>
+milk, beef, wood, sheep and goat meat, butter (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $71.35 billion (2022 est.)<br>
 $62.984 billion (2021 est.)<br>
 $48.118 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 22%, Australia 15%, United States 7%, Japan 6%, Thailand 5% (2021)<br>
+China 21%, Australia 14%, US 8%, South Korea 7%, Singapore 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, refined petroleum, crude petroleum, delivery trucks, broadcasting equipment, gas turbines (2021)<br>
+refined petroleum, cars, plastic products, garments, trucks (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $14.4 billion (2022 est.)<br>
 $16.114 billion (2021 est.)<br>
 $13.733 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $190.621 billion (2019 est.)<br>

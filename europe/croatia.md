@@ -348,8 +348,8 @@ _election results_: <br><em>2019: </em>Zoran MILANOVIC elected president in seco
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Hrvatski Sabor (151 seats; 140 members in 10 multi-seat constituencies and 3 members in a single constituency for Croatian diaspora directly elected by proportional representation vote using the D'Hondt method with a 5% threshold; an additional 8 members elected from a nationwide constituency by simple majority by voters belonging to minorities recognized by Croatia; the Serb minority elects 3 Assembly members, the Hungarian and Italian minorities elect 1 each, the Czech and Slovak minorities elect 1 jointly, and all other minorities elect 2; all members serve 4-year terms<br>
-_elections_: early election held on 5 July 2020 (next to be held on 17 April 2024)<br>
-_election results_: percent of vote by party/coalition - HDZ-led coalition 37.3%, Restart coalition 24.9%, DP-led coalition 10.9%, MOST 7.4%, Green-Left coalition 7%, P-F-SSIP 4%, HNS-LD 1.3%, NS-R 1%, other 6.2%; seats by party/coalition - HDZ-led coalition 66, Restart coalition 41, DP-led coalition 16, MOST 8, Green-Left coalition 7, P-F-SSIP 3, HNS-LD 1, NS-R 1, national minorities 8; composition as of March 2024 - men 100, women 51, percentage women 33.8%<br>
+_elections_: last election held on 17 April 2024<br>
+_election results_: percent of vote by party/coalition - HDZ-led coalition 37.3%, Restart coalition 24.9%, DP-led coalition 10.9%, MOST 7.4%, Green-Left coalition 7%, P-F-SSIP 4%, HNS-LD 1.3%, NS-R 1%, other 6.2%; seats by party/coalition - HDZ-led coalition 66, Restart coalition 41, DP-led coalition 16, MOST 8, Green-Left coalition 7, P-F-SSIP 3, HNS-LD 1, NS-R 1, national minorities 8; composition - men 100, women 51, percentage women 33.8%<br>
 <strong>note: </strong>seats by party as of January 2024 - HDZ 62, SDP 14, Social Democrats 11, MOST 7, DP 5, HS 4, We Can! 4, HSS 3, SDSS 3, Focus 2, HDS 2, HSLS 2, IDS 2, BLOK 1, Center 1, GLAS 1, HNS 1, HRB 1, NS-R 1, NL 1, OIP 1, PH 1, RF 1, SSIP 1, independent 19<br>
 
 **Judicial branch**<br>
@@ -405,29 +405,29 @@ tourism-based economy that was one of the hardest hit by COVID-19 economic disru
 $132.256 billion (2022 est.)<br>
 $124.363 billion (2021 est.)<br>
 $109.296 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 6.35% (2022 est.)<br>
 13.78% (2021 est.)<br>
 -8.59% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $34,300 (2022 est.)<br>
 $32,100 (2021 est.)<br>
 $27,000 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $71.6 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 10.78% (2022 est.)<br>
 2.55% (2021 est.)<br>
 0.15% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2019)<br>
@@ -449,24 +449,25 @@ _exports of goods and services_: 51.1% (2017 est.)<br>
 _imports of goods and services_: -48.8% (2017 est.)<br>
 
 **Agricultural products**<br>
-maize, wheat, sugar beet, milk, barley, soybeans, potatoes, pork, grapes, sunflower seed<br>
+maize, wheat, maize, sugar beets, milk, barley, soybeans, sunflower seeds, grapes, pork (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 chemicals and plastics, machine tools, fabricated metal, electronics, pig iron and rolled steel products, aluminum, paper, wood products, construction materials, textiles, shipbuilding, petroleum and petroleum refining, food and beverages, tourism<br>
 
 **Industrial production growth rate**<br>
 2.69% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 1.732 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 6.96% (2022 est.)<br>
 7.61% (2021 est.)<br>
 7.51% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 23.6% (2021 est.)<br>
@@ -475,11 +476,11 @@ _female_: 26.3%<br>
 
 **Population below poverty line**<br>
 18% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 29.5 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 23% of household expenditures (2018 est.)<br>
@@ -488,13 +489,13 @@ _on alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
 _highest 10%_: 22.3% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 7.53% of GDP (2022 est.)<br>
 7.28% of GDP (2021 est.)<br>
 7.25% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $212.81 billion (2019 est.)<br>
@@ -507,11 +508,11 @@ _expenditures_: $211.069 billion (2019 est.)<br>
 91% of GDP (2021 est.)<br>
 98.78% of GDP (2020 est.)<br>
 81.68% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 20.13% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -520,37 +521,41 @@ calendar year<br>
 -$1.464 billion (2022 est.)<br>
 $2.082 billion (2021 est.)<br>
 -$184.775 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $41.953 billion (2022 est.)<br>
 $35.308 billion (2021 est.)<br>
 $24.007 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Italy 13%, Germany 13%, Slovenia 10%, Bosnia and Herzegovina 9%, Austria 6%, Serbia 5% (2019)<br>
+Italy 13%, Slovenia 11%, Germany 11%, Hungary 10%, Bosnia and Herzegovina 9% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, crude petroleum, packaged medicines, electricity, electrical transformers (2021)<br>
+refined petroleum, electricity, natural gas, garments, wood (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $46.307 billion (2022 est.)<br>
 $36.331 billion (2021 est.)<br>
 $27.954 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Italy 14%, Germany 14%, Slovenia 11%, Hungary 7%, Austria 6% (2019)<br>
+Italy 14%, Germany 12%, Slovenia 11%, Hungary 7%, US 7% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, cars, refined petroleum, packaged medicines, electricity (2019)<br>
+natural gas, refined petroleum, electricity, garments, cars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $29.726 billion (2022 est.)<br>
 $28.309 billion (2021 est.)<br>
 $23.254 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $48.263 billion (2019 est.)<br>

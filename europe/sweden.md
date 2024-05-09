@@ -343,7 +343,7 @@ _elections/appointments_: the monarchy is hereditary; following legislative elec
 **Legislative branch**<br>
 _description_: unicameral Parliament or Riksdag (349 seats; 310 members directly elected in multi-seat constituencies by open party-list proportional representation vote and 39 members in "at-large" seats directly elected by open party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 11 September 2022 (next to be held on 13 September 2026)<br>
-_election results_: percent of vote by party - S/SAP 30.3%, M 19.1%, SD 20.5%, C 6.7%, V 6.7%, KD 5.3%, L 4.6%, MP 5.1%, other 1.7%; seats by party - S/SAP 107, M 68, SD 73, C 24, V 24, KD 19, L 16, MP 18; composition as of February 2024 - men 186, women 163, percentage women 46.7%<br>
+_election results_: percent of vote by party - S/SAP 30.3%, M 19.1%, SD 20.5%, C 6.7%, V 6.7%, KD 5.3%, L 4.6%, MP 5.1%, other 1.7%; seats by party - S/SAP 107, M 68, SD 73, C 24, V 24, KD 19, L 16, MP 18; composition - men 186, women 163, percentage women 46.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Sweden (consists of 16 justices, including the court chairman); Supreme Administrative Court (consists of 18 justices, including the court president)<br>
@@ -351,7 +351,7 @@ _judge selection and term of office_: Supreme Court and Supreme Administrative C
 _subordinate courts_: first instance, appellate, general, and administrative courts; specialized courts that handle cases such as land and environment, immigration, labor, markets, and patents<br>
 
 **Political parties and leaders**<br>
-Center Party (Centerpartiet) or C [Muharrem DEMIROK]<br>Christian Democrats (Kristdemokraterna) or KD [Ebba BUSCH]<br>Green Party (Miljopartiet de Grona) or MP [Marta STEVENI and Daniel HELLDEN]<br>Left Party (Vansterpartiet) or V [Nooshi DADGOSTAR]<br>Moderate Party (Moderaterna) or M [Ulf KRISTERSSON]<br>Sweden Democrats (Sverigedemokraterna) or SD [Jimmie AKESSON]<br>Swedish Social Democratic Party (Socialdemokraterna) or S/SAP [Magdalena ANDERSSON]<br>The Liberals (Liberalerna) or L [Johan PEHRSON]<br>
+Center Party (Centerpartiet) or C [Muharrem DEMIROK]<br>Christian Democrats (Kristdemokraterna) or KD [Ebba BUSCH]<br>Green Party (Miljopartiet de Grona) or MP [Amanda LIND and Daniel HELLDEN]<br>Left Party (Vansterpartiet) or V [Nooshi DADGOSTAR]<br>Moderate Party (Moderaterna) or M [Ulf KRISTERSSON]<br>Sweden Democrats (Sverigedemokraterna) or SD [Jimmie AKESSON]<br>Swedish Social Democratic Party (Socialdemokraterna) or S/SAP [Magdalena ANDERSSON]<br>The Liberals (Liberalerna) or L [Johan PEHRSON]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNMOGIP, UNOOSA, UNRWA, UN Security Council (temporary), UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -396,29 +396,29 @@ high-income, knowledge-based economy; EU member but non-euro user (refuses to pe
 $580.099 billion (2022 est.)<br>
 $564.124 billion (2021 est.)<br>
 $531.455 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.83% (2022 est.)<br>
 6.15% (2021 est.)<br>
 -2.17% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $55,300 (2022 est.)<br>
 $54,200 (2021 est.)<br>
 $51,300 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $591.189 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8.37% (2022 est.)<br>
 2.16% (2021 est.)<br>
 0.5% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (2004)<br>
@@ -440,24 +440,25 @@ _exports of goods and services_: 45.3% (2017 est.)<br>
 _imports of goods and services_: -41.1% (2017 est.)<br>
 
 **Agricultural products**<br>
-wheat, milk, sugar beets, barley, potatoes, oats, rapeseed, pork, rye, triticale<br>
+wheat, milk, sugar beets, barley, potatoes, oats, rapeseed, pork, chicken, triticale (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 iron and steel, precision equipment (bearings, radio and telephone parts, armaments), wood pulp and paper products, processed foods, motor vehicles<br>
 
 **Industrial production growth rate**<br>
 2.1% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 5.724 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 7.39% (2022 est.)<br>
 8.72% (2021 est.)<br>
 8.29% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 24.5% (2021 est.)<br>
@@ -466,11 +467,11 @@ _female_: 23%<br>
 
 **Population below poverty line**<br>
 16% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 28.9 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 12.4% of household expenditures (2018 est.)<br>
@@ -479,13 +480,13 @@ _on alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3%<br>
 _highest 10%_: 22.4% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.56% of GDP (2022 est.)<br>
 0.49% of GDP (2021 est.)<br>
 0.57% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $259.17 billion (2019 est.)<br>
@@ -498,11 +499,11 @@ _expenditures_: $256.454 billion (2019 est.)<br>
 40.48% of GDP (2021 est.)<br>
 43.99% of GDP (2020 est.)<br>
 38.67% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 27.21% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -511,37 +512,41 @@ calendar year<br>
 $28.491 billion (2022 est.)<br>
 $43.475 billion (2021 est.)<br>
 $32.355 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $314.019 billion (2022 est.)<br>
 $299.365 billion (2021 est.)<br>
 $241.94 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 10%, Norway 9%, United States 8%, Denmark 8%, Finland 6% (2021)<br>
+Germany 10%, Norway 10%, US 9%, Denmark 8%, Finland 7% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, refined petroleum, packaged medicines, lumber, iron, broadcasting equipment (2021)<br>
+refined petroleum, cars, packaged medicine, paper, electricity (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $296.552 billion (2022 est.)<br>
 $268.334 billion (2021 est.)<br>
 $217.165 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 18%, Netherlands 9%, Norway 8%, China 7%, Denmark 7% (2021)<br>
+Germany 16%, Netherlands 10%, Norway 9%, China 7%, Denmark 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars and vehicle parts, crude petroleum, refined petroleum, broadcasting equipment, computers (2021)<br>
+crude petroleum, cars, refined petroleum, broadcasting equipment, garments (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $64.289 billion (2022 est.)<br>
 $62.053 billion (2021 est.)<br>
 $58.26 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $911.317 billion (2019 est.)<br>

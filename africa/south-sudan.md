@@ -308,7 +308,7 @@ _election results_: <em>2010:</em> Salva KIIR Mayardit elected leader of then-So
 **Legislative branch**<br>
 _description_: bicameral National Legislature consists of:<br>Council of States, pending establishment as stipulated by the 2018 peace deal<br>Transitional National Legislative Assembly (TNLA), established on 4 August 2016, in accordance with the August 2015 Agreement on the Resolution of the Conflict in the Republic of South Sudan; note - originally 400 seats; the TNLA was expanded to 550 members from 400 and reestablished in May 2020 under the 2018 peace agreement<br>
 _elections_: Council of States - pending establishment as stipulated by the 2018 peace deal<br>Transitional National Legislative Assembly - percent of vote by party - NA; seats by party - 332 SPLM, 128 SPLM-IO, 90 other political parties; composition - NA<br>
-_election results_: Council of States - percent of vote by party - NA; seats by party - SPLM 20, unknown 30; composition as of February 2024 - men 57, women 27, percentage women 32.1%<br><br>National Legislative Assembly - percent of vote by party - NA; seats by party - SPLM 251, DCP 10, independent 6, unknown 133; composition - men 372, women 178, percentage women 32.4%; total National Legislature percentage women 32.3%<br>
+_election results_: Council of States - percent of vote by party - NA; seats by party - SPLM 20, unknown 30; composition - men 57, women 27, percentage women 32.1%<br><br>National Legislative Assembly - percent of vote by party - NA; seats by party - SPLM 251, DCP 10, independent 6, unknown 133; composition - men 372, women 178, percentage women 32.4%; total National Legislature percentage women 32.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of South Sudan (consists of a chief justice, deputy chief justice, and 5 additional justices); note - consistent with the 2008 Judiciary Act, the Transitional Constitution of South Sudan calls for 9, rather than 5 additional justices<br>
@@ -363,7 +363,7 @@ $24.52 billion (2015 est.)<br>
 -5.2% (2017 est.)<br>
 -13.9% (2016 est.)<br>
 -10.79% (2015 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $1,600 (2017 est.)<br>
@@ -373,13 +373,13 @@ $2,100 (2015 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $11.998 billion (2015 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 -6.69% (2022 est.)<br>
 10.52% (2021 est.)<br>
 29.68% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 34.9% (2011 est.)<br>
@@ -389,21 +389,22 @@ _exports of goods and services_: 64.9% (2011 est.)<br>
 _imports of goods and services_: -27.2% (2011 est.)<br>
 
 **Agricultural products**<br>
-milk, sorghum, vegetables, cassava, goat milk, fruit, beef, sesame seed, sheep milk, mutton<br>
+milk, cassava, sorghum, goat milk, vegetables, fruits, maize, groundnuts, sesame seeds, beef (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industrial production growth rate**<br>
 -36.78% (2015 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 4.319 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 12.44% (2022 est.)<br>
 14.3% (2021 est.)<br>
 14.41% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 21% (2021 est.)<br>
@@ -412,17 +413,17 @@ _female_: 20.2%<br>
 
 **Population below poverty line**<br>
 82.3% (2016 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 44.1 (2016 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Remittances**<br>
 9.49% of GDP (2015 est.)<br>
 0.01% of GDP (2014 est.)<br>
 0% of GDP (2013 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.94 billion (2019 est.)<br>
@@ -442,37 +443,41 @@ _expenditures_: $1.938 billion (2019 est.)<br>
 -$596.748 million (2022 est.)<br>
 -$6.55 million (2021 est.)<br>
 -$1.718 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $5.811 billion (2022 est.)<br>
 $4.652 billion (2021 est.)<br>
 $2.344 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 88%, United Arab Emirates 5% (2019)<br>
+China 44%, Italy 26%, Singapore 12%, Japan 9%, UAE 8% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, gold, forage crops, lumber, insect resins (2019)<br>
+crude petroleum, refined petroleum, gold, forage crops, barley (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $6.402 billion (2022 est.)<br>
 $4.037 billion (2021 est.)<br>
 $4.245 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United Arab Emirates 37%, Kenya 18%, China 18% (2019)<br>
+UAE 39%, Kenya 18%, China 17%, US 4%, India 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, delivery trucks, packaged medicines, foodstuffs, clothing and apparel (2019)<br>
+garments, cars, trucks, packaged medicine, malt extract (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $183.615 million (2020 est.)<br>
 $378.282 million (2019 est.)<br>
 $36.396 million (2018 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Exchange rates**<br>
 _Currency_: South Sudanese pounds (SSP) per US dollar -<br>

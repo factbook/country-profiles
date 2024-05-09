@@ -329,7 +329,7 @@ _election results_: <em><br>2024: </em>Simon HARRIS is elected taoiseach by parl
 **Legislative branch**<br>
 _description_: bicameral Parliament or Oireachtas consists of:<br>Senate or Seanad Eireann (60 seats; 49 members indirectly elected from 5 vocational panels of nominees by an electoral college, 11 appointed by the prime minister<br>House of Representatives or Dail Eireann (160 seats; members directly elected in multi-seat constituencies by proportional representation vote; all Parliament members serve 5-year terms)<br>
 _elections_: Senate - last held early on 21-30 May 2020 (next to be held in March 2025)<br>House of Representatives - last held on 8 February 2020 (next to be held no later than March 2025)<br>
-_election results_: <strong> </strong>Senate - percent of vote by party - Fianna Fail 35%, Fine Gael 26.7%, Green Party 6.7%<strong>, </strong>Labor Party 6.7%, Sinn Fein 6.7%, other 1.6%, independent 16.7%; seats by party - Fianna Fail 21, Fine Gael 16, Green Party 4<strong>, </strong>Labor Party 4, Sinn Fein 4, other 1, independent 10; composition as of February 2024 - men 36, women 24, percentage women 40%<br><br>House of Representatives - percent of vote by party - Fianna Fail 23.8%, Sinn Fein 23.1%, Fine Gael 21.9%, Green Party 7.5%, other 11.8%, independent 11.9%; seats by party - Fianna Fail 38, Sinn Fein 37, Fine Gael 35, Green Party 12, Labor Party 6, Social Democrats 6, PBPS 5, other 2, independent 19; composition as of February 2024 - men 123, women 37, percentage women 23.1%; total Parliament percentage women 27.7%<br>
+_election results_: <strong> </strong>Senate - percent of vote by party - Fianna Fail 35%, Fine Gael 26.7%, Green Party 6.7%<strong>, </strong>Labor Party 6.7%, Sinn Fein 6.7%, other 1.6%, independent 16.7%; seats by party - Fianna Fail 21, Fine Gael 16, Green Party 4<strong>, </strong>Labor Party 4, Sinn Fein 4, other 1, independent 10; composition - men 36, women 24, percentage women 40%<br><br>House of Representatives - percent of vote by party - Fianna Fail 23.8%, Sinn Fein 23.1%, Fine Gael 21.9%, Green Party 7.5%, other 11.8%, independent 11.9%; seats by party - Fianna Fail 38, Sinn Fein 37, Fine Gael 35, Green Party 12, Labor Party 6, Social Democrats 6, PBPS 5, other 2, independent 19; composition - men 123, women 37, percentage women 23.1%; total Parliament percentage women 27.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Ireland (consists of the chief justice, 9 judges, 2 ex-officio members - the presidents of the High Court and Court of Appeal - and organized in 3-, 5-, or 7-judge panels, depending on the importance or complexity of an issue of law)<br>
@@ -383,29 +383,29 @@ strong, export-based EU economy; multinational-business-friendly environment kno
 $576.527 billion (2022 est.)<br>
 $526.831 billion (2021 est.)<br>
 $457.615 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 9.43% (2022 est.)<br>
 15.13% (2021 est.)<br>
 6.62% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $112,400 (2022 est.)<br>
 $104,700 (2021 est.)<br>
 $91,800 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $533.14 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 7.81% (2022 est.)<br>
 2.36% (2021 est.)<br>
 -0.33% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A+ (2017)<br>
@@ -427,24 +427,25 @@ _exports of goods and services_: 119.9% (2017 est.)<br>
 _imports of goods and services_: -89.7% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, barley, beef, wheat, potatoes, pork, oats, poultry, mushrooms/truffles, mutton<br>
+milk, barley, wheat, beef, potatoes, pork, oats, chicken, rapeseed, lamb/mutton (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 pharmaceuticals, chemicals, computer hardware and software, food products, beverages and brewing; medical devices<br>
 
 **Industrial production growth rate**<br>
 18.13% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 2.673 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.48% (2022 est.)<br>
 6.19% (2021 est.)<br>
 5.62% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 17.4% (2021 est.)<br>
@@ -453,11 +454,11 @@ _female_: 18.8%<br>
 
 **Population below poverty line**<br>
 14% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 29.2 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 9% of household expenditures (2018 est.)<br>
@@ -466,13 +467,13 @@ _on alcohol and tobacco_: 5.8% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.7%<br>
 _highest 10%_: 23.8% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.08% of GDP (2022 est.)<br>
 0.04% of GDP (2021 est.)<br>
 0.06% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $99.784 billion (2019 est.)<br>
@@ -485,11 +486,11 @@ _expenditures_: $97.713 billion (2019 est.)<br>
 64.23% of GDP (2021 est.)<br>
 71.28% of GDP (2020 est.)<br>
 69.6% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 17.16% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -498,37 +499,41 @@ calendar year<br>
 $57.807 billion (2022 est.)<br>
 $70.909 billion (2021 est.)<br>
 -$26.44 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $729.135 billion (2022 est.)<br>
 $685.814 billion (2021 est.)<br>
 $571.051 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 28%, Belgium 10%, Germany 10%, UK 9%, China 5%, Netherlands 5% (2019)<br>
+US 30%, Germany 12%, UK 8%, Belgium 7%, China 7% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-vaccines and cultures, packaged medicines, nitrogen compounds, integrated circuits, scented mixtures, medical instruments (2021)<br>
+vaccines, packaged medicine, nitrogen compounds, integrated circuits, scented mixtures (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $516.084 billion (2022 est.)<br>
 $479.284 billion (2021 est.)<br>
 $488.823 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United Kingdom 31%, United States 16%, Germany 10%, Netherlands 5%, France 5% (2019)<br>
+UK 26%, US 16%, Germany 9%, China 6%, Netherlands 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-aircraft, computers, packaged medicines, refined petroleum, medical cultures/vaccines (2019)<br>
+aircraft, nitrogen compounds, refined petroleum, natural gas, vaccines (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $13.039 billion (2022 est.)<br>
 $13.247 billion (2021 est.)<br>
 $7.463 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2.829 trillion (2019 est.)<br>

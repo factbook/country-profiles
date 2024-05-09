@@ -313,7 +313,7 @@ _election results_: <em>2022:</em> Nikenike VUROBARAVU elected president in eigh
 **Legislative branch**<br>
 _description_: unicameral Parliament (52 seats; members directly elected in 8 single-seat and 9 multi-seat constituencies by single non-transferable vote to serve 4-year terms (candidates in multi-seat constituencies can be elected with only 4% of the vote)<br>
 _elections_: last held on 13 October 2022 (next to be held in 2026)<br>
-_election results_: percent of vote by party - NA; seats by party - GJP 4, NUP 4, RDP 4, IG 3, PPP 2, NCM 2, VNDP 2, LM 1, NAG 1, PUDP 1, UCM 1, VLM 1, VPDP 1, independent 1; composition as of February 2024 - men 50, women 1, percentage women 2%; note - political party associations are fluid<br>
+_election results_: percent of vote by party - NA; seats by party - GJP 4, NUP 4, RDP 4, IG 3, PPP 2, NCM 2, VNDP 2, LM 1, NAG 1, PUDP 1, UCM 1, VLM 1, VPDP 1, independent 1; composition - men 50, women 1, percentage women 2%; note - political party associations are fluid<br>
 <strong>note:</strong> the National Council of Chiefs advises on matters of culture and language<br>
 
 **Judicial branch**<br>
@@ -363,29 +363,29 @@ lower-middle income Pacific island economy; extremely reliant on subsistence agr
 $910.266 million (2022 est.)<br>
 $893.741 million (2021 est.)<br>
 $887.981 million (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.85% (2022 est.)<br>
 0.65% (2021 est.)<br>
 -4.99% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $2,800 (2022 est.)<br>
 $2,800 (2021 est.)<br>
 $2,800 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.056 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 7.1% (2022 est.)<br>
 2.34% (2021 est.)<br>
 5.33% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 27.3% (2017 est.)<br>
@@ -401,24 +401,25 @@ _exports of goods and services_: 42.5% (2017 est.)<br>
 _imports of goods and services_: -48.5% (2017 est.)<br>
 
 **Agricultural products**<br>
-coconuts, roots/tubers, bananas, vegetables, pork, fruit, milk, beef, groundnuts, cocoa<br>
+coconuts, root vegetables, bananas, vegetables, fruits, pork, groundnuts, milk, beef, tropical fruits (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 food and fish freezing, wood processing, meat canning<br>
 
 **Industrial production growth rate**<br>
 4.92% (2018 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 137,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.22% (2022 est.)<br>
 4.79% (2021 est.)<br>
 4.05% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 5.4% (2021 est.)<br>
@@ -427,22 +428,22 @@ _female_: 5.6%<br>
 
 **Population below poverty line**<br>
 15.9% (2019 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 32.3 (2019 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3%<br>
 _highest 10%_: 24.7% (2019 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 14.21% of GDP (2022 est.)<br>
 21.4% of GDP (2021 est.)<br>
 15.8% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $398 million (2019 est.)<br>
@@ -457,7 +458,7 @@ _expenditures_: $355 million (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 14.04% (of GDP) (2020 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -466,37 +467,41 @@ calendar year<br>
 -$142.128 million (2022 est.)<br>
 -$60.642 million (2021 est.)<br>
 -$20.299 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $140.561 million (2022 est.)<br>
 $89.105 million (2021 est.)<br>
 $141.829 million (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Thailand 54%, Japan 18%, South Korea 6%, Cyprus 5%, China 4% (2021)<br>
+Thailand 42%, Japan 27%, South Korea 7%, Philippines 6%, China 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-tuna, floating platforms, cargo ships, perfume plants, mollusks, copra (2021)<br>
+fish, perfume plants, copra, shellfish, cocoa beans (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $577.334 million (2022 est.)<br>
 $520.15 million (2021 est.)<br>
 $449.277 million (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 26%, Australia 16%, New Zealand 15%, Fiji 8%, Singapore 7% (2021)<br>
+China 24%, Australia 15%, Malaysia 12%, NZ 9%, Fiji 8% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, fishing ships, poultry meats, delivery trucks, lumber, rice, broadcasting equipment (2021)<br>
+refined petroleum, ships, plastic products, poultry, broadcasting equipment (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $638.537 million (2022 est.)<br>
 $664.751 million (2021 est.)<br>
 $613.637 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $200.5 million (31 December 2017 est.)<br>

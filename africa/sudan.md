@@ -405,29 +405,29 @@ low-income Sahel economy; one of the world&rsquo;s major agricultural exporters;
 $167.369 billion (2022 est.)<br>
 $168.98 billion (2021 est.)<br>
 $172.198 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -0.95% (2022 est.)<br>
 -1.87% (2021 est.)<br>
 -3.63% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $3,600 (2022 est.)<br>
 $3,700 (2021 est.)<br>
 $3,900 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $51.662 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 138.81% (2022 est.)<br>
 359.09% (2021 est.)<br>
 163.26% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 39.6% (2017 est.)<br>
@@ -443,24 +443,25 @@ _exports of goods and services_: 9.7% (2017 est.)<br>
 _imports of goods and services_: -11.8% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, sorghum, milk, groundnuts, onions, sesame seed, goat milk, millet, bananas, wheat<br>
+sorghum, sugarcane, milk, groundnuts, millet, onions, sesame seeds, goat milk, bananas, mangoes/guavas (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 oil, cotton ginning, textiles, cement, edible oils, sugar, soap distilling, shoes, petroleum refining, pharmaceuticals, armaments, automobile/light truck assembly, milling<br>
 
 **Industrial production growth rate**<br>
 -0.74% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 13.45 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 17.59% (2022 est.)<br>
 19.19% (2021 est.)<br>
 19.21% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 35.6% (2021 est.)<br>
@@ -472,18 +473,18 @@ _female_: 45.8%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 34.2 (2014 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.2%<br>
 _highest 10%_: 27.8% (2014 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 2.9% of GDP (2022 est.)<br>
 3.27% of GDP (2021 est.)<br>
 1.83% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $3.479 billion (2019 est.)<br>
@@ -498,7 +499,7 @@ _expenditures_: $8.277 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 7.39% (of GDP) (2016 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -507,37 +508,41 @@ calendar year<br>
 -$4.443 billion (2022 est.)<br>
 -$2.62 billion (2021 est.)<br>
 -$5.841 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $5.908 billion (2022 est.)<br>
 $6.664 billion (2021 est.)<br>
 $5.065 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United Arab Emirates 31%, China 19%, Saudi Arabia 14%, India 12%, Egypt 5% (2019)<br>
+UAE 43%, China 16%, Italy 8%, Egypt 8%, Turkey 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, crude petroleum, sesame seeds, sheep, goats, cotton, ground nuts (2019)<br>
+gold, crude petroleum, oil seeds, ground nuts, cotton (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $11.575 billion (2022 est.)<br>
 $10.271 billion (2021 est.)<br>
 $10.52 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 31%, India 14%, United Arab Emirates 11%, Egypt 6% (2019)<br>
+China 22%, UAE 20%, India 18%, Egypt 9%, Turkey 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-raw sugar, wheat, packaged medicines, jewelry, tires, cars and vehicle parts (2019)<br>
+raw sugar, wheat, refined petroleum, garments, jewelry (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $177.934 million (2017 est.)<br>
 $168.284 million (2016 est.)<br>
 $173.516 million (2015 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $56.05 billion (31 December 2017 est.)<br>

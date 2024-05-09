@@ -319,20 +319,13 @@ tourism, banking and finance, ship repairing, tobacco<br>
 
 **Industrial production growth rate**<br>
 4.3% (2014 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 24,420 (2014 est.)<br>
 
 **Unemployment rate**<br>
 1% (2016 est.)<br>
-
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Budget**<br>
 _revenues_: $475.8 million (2008 est.)<br>
@@ -353,16 +346,20 @@ $202.3 million (2014 est.)<br>
 $271 million (2004 est.)<br>
 
 **Exports - partners**<br>
-Poland 31%, Netherlands 27%, France 11%, Germany 8%, United States 6% (2019)<br>
+Ireland 20%, India 18%, Brazil 12%, Netherlands 10%, South Korea 8% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, ships, refined petroleum, recreational boats, designer watches (2021)<br>
+refined petroleum, crude petroleum, ships, cars, natural gas (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports - partners**<br>
-Spain 19%, US 12%, India 12%, Italy 12%, Netherlands 11%, United Kingdom 7%, Greece 6% (2019)<br>
+Spain 19%, Italy 17%, Greece 11%, Nigeria 10%, UK 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, recreational boats, cars, coal tar oil, crude petroleum (2019)<br>
+refined petroleum, crude petroleum, coal tar oil, ships, cars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Debt - external**<br>
 <p>NA</p><br>

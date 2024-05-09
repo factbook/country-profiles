@@ -392,29 +392,29 @@ lower middle-income North African economy; drafting reforms for foreign lenders;
 $130.592 billion (2022 est.)<br>
 $127.485 billion (2021 est.)<br>
 $122.105 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.44% (2022 est.)<br>
 4.41% (2021 est.)<br>
 -8.82% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $10,600 (2022 est.)<br>
 $10,400 (2021 est.)<br>
 $10,000 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $46.304 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8.31% (2022 est.)<br>
 5.71% (2021 est.)<br>
 5.63% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2020)<br>
@@ -436,24 +436,25 @@ _exports of goods and services_: 43.2% (2017 est.)<br>
 _imports of goods and services_: -55.2% (2017 est.)<br>
 
 **Agricultural products**<br>
-wheat, milk, tomatoes, barley, olives, watermelons, green chillies/peppers, potatoes, dates, green onions/shallots<br>
+milk, olives, tomatoes, wheat, barley, watermelons, chilies/peppers, potatoes, dates, oranges (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 petroleum, mining (particularly phosphate, iron ore), tourism, textiles, footwear, agribusiness, beverages<br>
 
 **Industrial production growth rate**<br>
 -0.33% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 4.36 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 17.76% (2022 est.)<br>
 18.52% (2021 est.)<br>
 18.63% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 38.3% (2021 est.)<br>
@@ -462,11 +463,11 @@ _female_: 41.2%<br>
 
 **Population below poverty line**<br>
 16.6% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 32.8 (2015 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 21.9% of household expenditures (2018 est.)<br>
@@ -475,13 +476,13 @@ _on alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.2%<br>
 _highest 10%_: 25.6% (2015 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 6.68% of GDP (2022 est.)<br>
 6.61% of GDP (2021 est.)<br>
 5.57% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $10.866 billion (2019 est.)<br>
@@ -504,37 +505,41 @@ calendar year<br>
 -$4.018 billion (2022 est.)<br>
 -$2.794 billion (2021 est.)<br>
 -$2.536 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $17.288 billion (2022 est.)<br>
 $14.067 billion (2021 est.)<br>
 $11.213 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-France 29%, Italy 17%, Germany 13% (2019)<br>
+France 22%, Italy 16%, Germany 14%, Spain 4%, Libya 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-insulated wiring, clothing and apparel, crude petroleum, olive oil, vehicle parts (2019)<br>
+garments, insulated wire, refined petroleum, crude petroleum, pure olive oil (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $22.536 billion (2022 est.)<br>
 $18.215 billion (2021 est.)<br>
 $14.554 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-France 17%, Italy 16%, Germany 8%, China 8%, Algeria 7% (2019)<br>
+Italy 14%, France 14%, China 9%, Germany 7%, Turkey 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, natural gas, low-voltage protection equipment, cars, insulated wiring (2019)<br>
+refined petroleum, natural gas, plastic products, wheat, cars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $8.094 billion (2022 est.)<br>
 $8.846 billion (2021 est.)<br>
 $9.811 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $35.911 billion (2019 est.)<br>

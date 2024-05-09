@@ -289,7 +289,7 @@ _elections/appointments_: the monarchy is hereditary; minister of state appointe
 **Legislative branch**<br>
 _description_: unicameral National Council or Conseil National (24 seats; 16 members directly elected in multi-seat constituencies by simple majority vote and 8 directly elected by proportional representation vote; members serve 5-year terms)<br>
 _elections_: last held on 5 February 2023 (next to be held in February 2028)<br>
-_election results_: percent of vote by coalition - Monegasque National Union 100%; seats by coalition - Monegasque National Union 24; composition as of February 2024 - men 13, women 11, percent of women 45.8%<br>
+_election results_: percent of vote by coalition - Monegasque National Union 100%; seats by coalition - Monegasque National Union 24; composition - men 13, women 11, percent of women 45.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 5 permanent members and 2 substitutes)<br>
@@ -340,7 +340,7 @@ $6.79 billion (2013 est.)<br>
 11.1% (2022 est.)<br>
 21.87% (2021 est.)<br>
 -13.01% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $115,700 (2015 est.)<br>
@@ -349,7 +349,7 @@ $101,900 (2013 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $8.784 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0% (2013)<br>
@@ -364,7 +364,7 @@ banking, insurance, tourism, construction, small-scale industrial and consumer p
 
 **Industrial production growth rate**<br>
 4.3% (2014 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 52,000 (2014 est.)<br>
@@ -377,13 +377,6 @@ note: annual % change in industrial value added based on constant local currency
 _total_: 26.6% (2016 est.)<br>
 _male_: 25.7%<br>
 _female_: 27.9%<br>
-
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Budget**<br>
 _revenues_: $896.3 million (2011 est.)<br>

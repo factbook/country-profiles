@@ -281,7 +281,7 @@ _elections/appointments_: the monarchy is hereditary; governor appointed by the 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (11 seats; 3 members appointed by the governor, 5 by the premier, and 3 by the opposition party; members serve 5-year terms) <br>House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)<br>
 _elections_: Senate - last appointments in 2022 (next appointments in 2027)<br>House of Assembly - last held on 1 October 2020 (next to be held by 2025)<br>
-_election results_: Senate - composition as of April 2024 - men 5, women 6, percentage women 63.6%<br><br>House of Assembly - percent of vote by party - PLP 62.1%, OBA 32.3%, other 5.4%, independent 0.2%; seats by party - PLP 30, OBA 6; composition as of April 2024 - men 28, women 7, percentage women 20%; total Parliament percentage women 28.3%<br>
+_election results_: Senate - composition- men 5, women 6, percentage women 63.6%<br><br>House of Assembly - percent of vote by party - PLP 62.1%, OBA 32.3%, other 5.4%, independent 0.2%; seats by party - PLP 30, OBA 6; composition - men 28, women 7, percentage women 20%; total Parliament percentage women 28.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and at least 2 justices); Supreme Court (consists of the chief justice, 4 puisne judges, and 1 associate justice); note - the Judicial Committee of the Privy Council (in London) is the court of final appeal<br>
@@ -331,23 +331,23 @@ small, tourism- and construction-based, territorial-island economy; American imp
 $5.157 billion (2022 est.)<br>
 $5.01 billion (2021 est.)<br>
 $4.863 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.93% (2022 est.)<br>
 3.01% (2021 est.)<br>
 -6.84% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $81,200 (2022 est.)<br>
 $78,600 (2021 est.)<br>
 $76,100 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $7.546 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1.9% (2017 est.)<br>
@@ -380,7 +380,7 @@ international business, tourism, light manufacturing<br>
 
 **Industrial production growth rate**<br>
 0.1% (2021 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 33,480 (2016 est.)<br>
@@ -397,15 +397,11 @@ _female_: 29%<br>
 **Population below poverty line**<br>
 11% (2008 est.)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 23.85% of GDP (2022 est.)<br>
 23.23% of GDP (2021 est.)<br>
 22.86% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $999.2 million (2017 est.)<br>
@@ -427,31 +423,35 @@ _expenditures_: $1.176 billion (2017 est.)<br>
 $962.258 million (2021 est.)<br>
 $853.85 million (2020 est.)<br>
 $838.701 million (2019 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $1.136 billion (2021 est.)<br>
 $1.027 billion (2020 est.)<br>
 $1.605 billion (2019 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Jamaica 49.1%, Luxembourg 36.1%, US 4.9% (2017)<br>
+Zambia 26%, US 16%, Angola 10%, France 10%, Tanzania 8% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-recreational boats, ships, trailers, aircraft, fertilizers (2021)<br>
+fertilizers, ships, liquor, vaccines, railway cargo containers (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $1.925 billion (2021 est.)<br>
 $1.723 billion (2020 est.)<br>
 $2.224 billion (2019 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 44%, South Korea 17%, Germany 10%, Canada 8% (2019)<br>
+US 34%, Norway 19%, South Korea 19%, China 5%, Canada 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-ships, refined petroleum, postage stamps, recreational boats, aircraft (2019)<br>
+ships, refined petroleum, railway cargo containers, packaged medicine, cars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Debt - external**<br>
 $2.515 billion (2017 est.)<br>

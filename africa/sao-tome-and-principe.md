@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Portugal discovered and colonized the uninhabited islands in the late 15th century, setting up a sugar-based economy that gave way to coffee and cocoa in the 19th century - all grown with African plantation slave labor, a form of which lingered into the 20th century. While independence was achieved in 1975, democratic reforms were not instituted until the late 1980s. The country held its first free elections in 1991, but frequent internal wrangling between the various political parties precipitated repeated changes in leadership and five failed, non-violent coup attempts in 1995, 1998, 2003, and 2009. In 2012, three opposition parties combined in a no confidence vote to bring down the majority government of former Prime Minister Patrice TROVOADA, but in 2014, legislative elections returned him to the office. President Evaristo CARVALHO, of the same political party as Prime Minister TROVOADA, was elected in September 2016, marking a rare instance in which the positions of president and prime minister were held by the same party. Prime Minister TROVOADA resigned at the end of 2018 and was replaced by Jorge BOM JESUS. Carlos Vila NOVA was elected president in September 2021 and was inaugurated early the following month. TROVOADA began his fourth stint as prime minister in November 2022, following his party's victory in legislative elections held in September of that year. </p><br>
+<p>Portugal discovered and colonized the uninhabited Sao Tome and Principe islands in the late 15th century, setting up a sugar-based economy that gave way to coffee and cocoa in the 19th century -- all grown with African slave labor, a form of which lingered into the 20th century. While independence was achieved in 1975, democratic reforms were not instituted until the late 1980s. <br><br>The country held its first free elections in 1991, but frequent internal wrangling among the various political parties precipitated repeated changes in leadership and failed, non-violent coup attempts in 1995, 1998, 2003, and 2009. In 2012, three opposition parties combined in a no-confidence vote to bring down the majority government of former Prime Minister Patrice TROVOADA, but legislative elections returned him to the office two years later. President Evaristo CARVALHO, of the same political party as TROVOADA, was elected in 2016, marking a rare instance in which the same party held the positions of president and prime minister. TROVOADA resigned in 2018 and was replaced by Jorge BOM JESUS. Carlos Vila NOVA was elected president in 2021. TROVOADA began his fourth stint as prime minister in 2022, after his party's victory in legislative elections. </p><br>
 
 ## Geography
 
@@ -382,29 +382,29 @@ ower middle-income Central African island economy; falling cocoa production due 
 $781.928 million (2022 est.)<br>
 $781.418 million (2021 est.)<br>
 $766.853 million (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 0.07% (2022 est.)<br>
 1.9% (2021 est.)<br>
 2.62% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $3,400 (2022 est.)<br>
 $3,500 (2021 est.)<br>
 $3,500 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $542.687 million (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 18.01% (2022 est.)<br>
 8.14% (2021 est.)<br>
 9.82% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 11.8% (2017 est.)<br>
@@ -420,48 +420,49 @@ _exports of goods and services_: 7.9% (2017 est.)<br>
 _imports of goods and services_: -40.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-plantains, oil palm fruit, coconuts, taro, bananas, fruit, cocoa, yams, cassava, maize<br>
+plantains, oil palm fruit, taro, bananas, fruits, cocoa beans, coconuts, yams, cassava, carrots/turnips (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 light construction, textiles, soap, beer, fish processing, timber<br>
 
 **Industrial production growth rate**<br>
 6.59% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 74,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 14.35% (2022 est.)<br>
 15.41% (2021 est.)<br>
 15.37% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 22.9% (2021 est.)<br>
-_male_: 18% NA<br>
-_female_: 34.3% NA<br>
+_male_: 18%<br>
+_female_: 34.3%<br>
 
 **Population below poverty line**<br>
 55.5% (2017 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 40.7 (2017 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.6% NA<br>
-_highest 10%_: 32.9% (2017 est.) NA<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+_lowest 10%_: 2.6%<br>
+_highest 10%_: 32.9% (2017 est.)<br>
+<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 1.42% of GDP (2022 est.)<br>
 2.02% of GDP (2021 est.)<br>
 1.83% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $95 million (2019 est.)<br>
@@ -484,37 +485,41 @@ calendar year<br>
 -$79.437 million (2022 est.)<br>
 -$95.248 million (2021 est.)<br>
 -$59.595 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $96.977 million (2022 est.)<br>
 $75.256 million (2021 est.)<br>
 $49.337 million (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Singapore 30%, Switzerland 24%, France 11%, Poland 7%, Belgium 7%, United States 5% (2019)<br>
+Netherlands 26%, France 11%, Belgium 11%, Portugal 8%, Angola 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gas turbines, cocoa beans, aircraft parts, iron products, chocolate (2019)<br>
+cocoa beans, palm oil, gas turbines, integrated circuits, coconut oil (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $219.322 million (2022 est.)<br>
 $201.145 million (2021 est.)<br>
 $160.097 million (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Portugal 41%, Angola 17%, China 8% (2019 )<br>
+Portugal 35%, Angola 18%, Togo 13%, China 6%, Italy 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, rice, flavored water, postage stamps (2019)<br>
+refined petroleum, ships, electric generating sets, rice, cars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $48.607 million (2022 est.)<br>
 $75.017 million (2021 est.)<br>
 $75.288 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $292.9 million (31 December 2017 est.)<br>

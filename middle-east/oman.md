@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The inhabitants of the area of Oman have long prospered from Indian Ocean trade. In the late 18th century, the nascent sultanate in Muscat signed the first in a series of friendship treaties with Britain. Over time, Oman's dependence on British political and military advisors increased, although the sultanate never became a British colony. In 1970, QABOOS bin Said Al Said overthrew his father, and ruled as sultan for the next five decades. His extensive modernization program opened the country to the outside world. He prioritized strategic ties with the UK and US, and his moderate, independent foreign policy allowed Oman to maintain good relations with its neighbors and to avoid external entanglements.<br><br>Inspired by the popular uprisings that swept the Middle East and North Africa beginning in January 2011, some Omanis staged demonstrations, calling for more jobs and economic benefits and an end to corruption. In response to those protester demands, QABOOS in 2011 pledged to implement economic and political reforms, such as granting Oman’s bicameral legislative body more power and authorizing direct elections for its lower house, which took place in November 2011. Additionally, the sultan increased unemployment benefits, and, in August 2012, issued a royal directive mandating the speedy implementation of a national job creation plan for thousands of public and private sector Omani jobs. As part of the government's efforts to decentralize authority and allow greater citizen participation in local governance, Oman successfully conducted its first municipal council elections in December 2012. Announced by the sultan in 2011, the municipal councils have the power to advise the Royal Court on the needs of local districts across Oman's 11 governorates. Sultan QABOOS, Oman's longest reigning monarch, died on 11 January 2020. His cousin, HAYTHAM bin Tariq Al Said, former Minister of Heritage and Culture, was sworn in as Oman's new sultan the same day.</p><br>
+<p>The inhabitants of the area of present-day Oman have long prospered from Indian Ocean trade. In the late 18th century, the nascent sultanate in Muscat signed the first in a series of friendship treaties with Britain. Over time, Oman's dependence on British political and military advisors increased, although the sultanate never became a British colony. In 1970, QABOOS bin Said Al Said overthrew his father and ruled as sultan for the next five decades. His extensive modernization program opened the country to the outside world. He prioritized strategic ties to the UK and US, and his moderate, independent foreign policy allowed Oman to maintain good relations with its neighbors and avoid external entanglements.<br><br>In 2011, the popular uprisings that swept the Middle East and North Africa inspired demonstrations in Oman that called for more jobs and economic benefits and an end to corruption. In response, QABOOS implemented economic and political reforms such as granting Oman’s legislative body more power and authorizing direct elections for its lower house. Additionally, the sultan increased unemployment benefits and issued a royal directive mandating a national public- and private-sector job creation plan. As part of the government's efforts to decentralize authority and allow greater citizen participation in local governance, Oman successfully conducted its first municipal council elections in 2012. QABOOS, Oman's longest reigning monarch, died on in 2020. His cousin, HAYTHAM bin Tariq Al Said, former Minister of Heritage and Culture, was sworn in as Oman's new sultan the same day.</p><br>
 
 ## Geography
 
@@ -328,7 +328,7 @@ _cabinet_: Cabinet appointed by the monarch<br>
 **Legislative branch**<br>
 _description_: bicameral Council of Oman or Majlis Oman consists of:<br>Council of State or Majlis al-Dawla (87 seats including the chairman; members appointed by the sultan from among former government officials and prominent educators, businessmen, and citizens; members serve 4-year term)<br>Consultative Assembly or Majlis al-Shura (90 seats; members directly elected in single- and 2-seat constituencies by simple majority popular vote to serve renewable 4-year terms)<br>
 _elections_: Council of State - last appointments on 8 November 2023 (next appointments in November 2027)<br>Consultative Assembly - last held on 29 October 2023 (next to be held in October 2027)<br>
-_election results_: Council of State - 87 nonpartisan members were appointed by the sultan; composition as of February 2024 - men 68, women 18, percentage women 20.9%<br><br>Consultative Assembly percent of vote by party - NA; seats by party - NA; 90 nonpartisan members were elected (organized political parties in Oman are legally banned); composition - 90 men, 0 women, percentage women 0%; total Council of Oman percentage women 10.2%<br>
+_election results_: Council of State - 87 nonpartisan members were appointed by the sultan; composition - men 68, women 18, percentage women 20.9%<br><br>Consultative Assembly percent of vote by party - NA; seats by party - NA; 90 nonpartisan members were elected (organized political parties in Oman are legally banned); composition - 90 men, 0 women, percentage women 0%; total Council of Oman percentage women 10.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 5 judges)<br>
@@ -380,29 +380,29 @@ high-income, oil-based economy; large welfare system; growing government debt; c
 $161.712 billion (2022 est.)<br>
 $155.028 billion (2021 est.)<br>
 $150.378 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.31% (2022 est.)<br>
 3.09% (2021 est.)<br>
 -3.38% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $35,300 (2022 est.)<br>
 $34,300 (2021 est.)<br>
 $33,100 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $114.667 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 2.81% (2022 est.)<br>
 1.55% (2021 est.)<br>
 -0.9% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2020)<br>
@@ -424,46 +424,40 @@ _exports of goods and services_: 51.5% (2017 est.)<br>
 _imports of goods and services_: -46.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-dates, tomatoes, vegetables, goat milk, milk, cucumbers, green chillies/peppers, watermelons, sorghum, melons<br>
+dates, tomatoes, milk, sorghum, vegetables, goat milk, cucumbers/gherkins, chilies/peppers, watermelons, cantaloupes/melons (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 crude oil production and refining, natural and liquefied natural gas production; construction, cement, copper, steel, chemicals, optic fiber<br>
 
 **Industrial production growth rate**<br>
 5.05% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 2.261 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 1.53% (2022 est.)<br>
 1.9% (2021 est.)<br>
 2.94% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.6% (2021 est.)<br>
 _male_: 11.6%<br>
 _female_: 29.6%<br>
 
-**Population below poverty line**<br>
-NA<br>
-
 **Average household expenditures**<br>
 _on food_: 22.7% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 0.1% of household expenditures (2018 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Remittances**<br>
 0.03% of GDP (2022 est.)<br>
 0.04% of GDP (2021 est.)<br>
 0.05% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $29.334 billion (2018 est.)<br>
@@ -487,37 +481,41 @@ calendar year<br>
 $5.752 billion (2022 est.)<br>
 -$4.783 billion (2021 est.)<br>
 -$12.263 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $69.701 billion (2022 est.)<br>
 $46.572 billion (2021 est.)<br>
 $35.691 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 46%, India 8%, Japan 6%, South Korea 6%, United Arab Emirates 6%, Saudi Arabia 5% (2019)<br>
+China 40%, India 11%, South Korea 6%, UAE 4%, US 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, natural gas, refined petroleum, fertilizers, iron&nbsp; (2021)<br>
+crude petroleum, natural gas, refined petroleum, fertilizers, semi-finished iron (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $46.326 billion (2022 est.)<br>
 $37.216 billion (2021 est.)<br>
 $33.827 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United Arab Emirates 36%, China 10%, Japan 7%, India 7%, United States 5% (2019)<br>
+UAE 27%, Saudi Arabia 11%, India 10%, China 9%, Qatar 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, refined petroleum, broadcasting equipment, gold, iron (2019)<br>
+refined petroleum, cars, iron ore, milk, iron pipes (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $17.606 billion (2022 est.)<br>
 $19.731 billion (2021 est.)<br>
 $15.007 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $46.27 billion (31 December 2017 est.)<br>

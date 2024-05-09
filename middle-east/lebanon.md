@@ -333,7 +333,7 @@ _election results_: <br><em>2023:</em> on 14 June 2023, Parliament failed in its
 **Legislative branch**<br>
 _description_: unicameral Lebanese Parliament or Majlis al-Nuwab in Arabic, Chambre des d&eacute;put&eacute;s in French (128 seats; members directly elected in multi-member constituencies by open list proportional representation vote, apportioned evenly between Christian and Muslims; members serve 4-year terms)<br>
 _elections_: last held on 15 May 2022 (next to be held in May 2026)<br>
-_election results_: percent of vote by party/coalition &ndash; NA; seats by party/coalition &ndash; FPM 16, LF 14, Amal Movement 13, Hezbollah 13, PSP 9, Kata&rsquo;ib Party 4, other 30, independent 29; composition as of February 2024 - men 120, women 8, percentage women 6.3%; note - a dozen of the elected deputies are from groups pushing for reform with origins in the recent protest movements against the established elite and have formed a group called the "Forces of Change"<br>
+_election results_: percent of vote by party/coalition &ndash; NA; seats by party/coalition &ndash; FPM 16, LF 14, Amal Movement 13, Hezbollah 13, PSP 9, Kata&rsquo;ib Party 4, other 30, independent 29; composition - men 120, women 8, percentage women 6.3%; note - a dozen of the elected deputies are from groups pushing for reform with origins in the recent protest movements against the established elite and have formed a group called the "Forces of Change"<br>
 <strong>note:</strong> Lebanon’s constitution states the Lebanese Parliament cannot conduct regular business until it elects a president when the position is vacant<br>
 
 **Judicial branch**<br>
@@ -387,29 +387,29 @@ upper middle-income Middle Eastern economy; economic activity hurt by economic d
 $72.631 billion (2021 est.)<br>
 $78.099 billion (2020 est.)<br>
 $99.362 billion (2019 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -7% (2021 est.)<br>
 -21.4% (2020 est.)<br>
 -6.91% (2019 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $13,000 (2021 est.)<br>
 $13,800 (2020 est.)<br>
 $17,200 (2019 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $23.132 billion (2021 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 171.21% (2022 est.)<br>
 154.76% (2021 est.)<br>
 84.86% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: RD (2020)<br>
@@ -431,24 +431,25 @@ _exports of goods and services_: 23.6% (2017 est.)<br>
 _imports of goods and services_: -46.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-potatoes, milk, tomatoes, apples, oranges, olives, wheat, cucumbers, poultry, lemons<br>
+potatoes, milk, tomatoes, apples, oranges, olives, cucumbers/gherkins, chicken, lemons/limes, wheat (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 banking, tourism, real estate and construction, food processing, wine, jewelry, cement, textiles, mineral and chemical products, wood and furniture products, oil refining, metal fabricating<br>
 
 **Industrial production growth rate**<br>
 -6.85% (2021 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 1.813 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 11.75% (2022 est.)<br>
 12.78% (2021 est.)<br>
 13.27% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 29.6% (2021 est.)<br>
@@ -465,15 +466,11 @@ _female_: 26.7%<br>
 _on food_: 20.7% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 1.2% of household expenditures (2018 est.)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 27.47% of GDP (2021 est.)<br>
 20.79% of GDP (2020 est.)<br>
 14.28% of GDP (2019 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $11.061 billion (2019 est.)<br>
@@ -489,7 +486,7 @@ _expenditures_: $16.574 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 5.68% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -498,37 +495,41 @@ calendar year<br>
 -$6.481 billion (2022 est.)<br>
 -$3.405 billion (2021 est.)<br>
 -$2.779 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $12.606 billion (2022 est.)<br>
 $10.147 billion (2021 est.)<br>
 $8.773 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Switzerland 27%, United Arab Emirates 15%, South Korea 11%, Saudi Arabia 7%, Kuwait 6% (2019)<br>
+UAE 22%, Syria 8%, Egypt 5%, US 5%, Turkey 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, diamonds, scrap iron, wood furniture, grapes, jewelry, cars (2021)<br>
+diamonds, plastics, jewelry, gold, scrap iron (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $24.163 billion (2022 est.)<br>
 $17.383 billion (2021 est.)<br>
 $15.206 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United Arab Emirates 11%, China 10%, Italy 8%, Greece 8%, Turkey 7%, United States 6% (2019)<br>
+China 14%, Turkey 13%, Greece 9%, UAE 7%, Italy 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, packaged medicines, jewelry, gold (2019)<br>
+refined petroleum, cars, gold, broadcasting equipment, diamonds (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $32.513 billion (2022 est.)<br>
 $35.239 billion (2021 est.)<br>
 $42.44 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $33.077 billion (2019 est.)<br>

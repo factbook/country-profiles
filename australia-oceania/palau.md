@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-Humans arrived in the Palauan archipelago around 1000 B.C. from Southeast Asia and developed a complex, highly organized matrilineal society where high-ranking women picked the chiefs. The islands were the westernmost part of the widely scattered Pacific islands north of New Guinea that Spanish explorers named the Caroline Islands in the 17th century. There were several failed attempts by Spanish Jesuit missionaries to visit the islands in the early 1700s. Spain gained some influence in the islands and administered it from the Philippines but sold Palau to Germany in 1899 after it lost the Philippines in the Spanish-American War.<br><br>Japan seized Palau in 1914, was granted a League of Nations mandate to administer the islands in 1920, and made Koror the capital of its South Seas Mandate in 1922. By the outbreak of World War II, there were four times as many Japanese living in Koror as Palauans. In 1944, the US invasion of the island of Peleliu in 1944 was one of the bloodiest island fights of the Pacific War. Following the war, Palau became part of the US-administered Trust Territory of the Pacific Islands.<br><br>Palau voted against joining the Federated States of Micronesia in 1978 and adopted its own constitution in 1981, which stated that Palau was a nuclear-free country. In 1982, Palau signed a Compact of Free Association (COFA) with the US, which granted Palau financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities. However, many Palauans saw the COFA as incompatible with the Palauan Constitution because of the US military’s nuclear arsenal, and seven referenda failed to achieve ratification. Following a constitutional amendment and eighth referendum in 1993, the COFA was ratified and entered into force in 1994 when the islands gained their independence. Its funding was renewed in 2010.<br><br>Palau has been on the frontlines of combatting climate change and protecting marine resources. In 2011, Palau banned commercial shark fishing and created the world’s first shark sanctuary. In 2017, Palau began stamping the Palau Pledge into passports, reminding visitors to act in ecologically and culturally responsible ways. In 2020, Palau banned coral reef-toxic sunscreens and expanded its fishing prohibition to include 80% of its exclusive economic zone.<br>
+Humans arrived in the Palauan archipelago from Southeast Asia around 1000 B.C. and developed a complex, highly organized matrilineal society where high-ranking women picked the chiefs. The islands were the westernmost part of the widely scattered Pacific islands north of New Guinea that Spanish explorers named the Caroline Islands in the 17th century. There were several failed attempts by Spanish Jesuit missionaries to visit the islands in the early 1700s. Spain gained some influence in the islands and administered it from the Philippines but sold Palau to Germany in 1899 after losing the Philippines in the Spanish-American War.<br><br>Japan seized Palau in 1914, was granted a League of Nations mandate to administer the islands in 1920, and made Koror the capital of its South Seas Mandate in 1922. By the outbreak of World War II, there were four times as many Japanese living in Koror as Palauans. In 1944, the US invasion of the island of Peleliu was one of the bloodiest island fights of the Pacific War. After the war, Palau became part of the US-administered Trust Territory of the Pacific Islands.<br><br>Palau voted against joining the Federated States of Micronesia in 1978 and adopted its own constitution in 1981, which stated that Palau was a nuclear-free country. In 1982, Palau signed a Compact of Free Association (COFA) with the US, which granted Palau financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities. However, many Palauans saw the COFA as incompatible with the Palauan Constitution because of the US military’s nuclear arsenal, and seven referenda failed to achieve ratification. Following a constitutional amendment and eighth referendum in 1993, the COFA was ratified and entered into force in 1994 when the islands gained their independence. Its funding was renewed in 2010.<br><br>Palau has been on the frontlines of combatting climate change and protecting marine resources. In 2011, Palau banned commercial shark fishing and created the world’s first shark sanctuary. In 2017, Palau began stamping the Palau Pledge into passports, reminding visitors to act in ecologically and culturally responsible ways. In 2020, Palau banned coral reef-toxic sunscreens and expanded its fishing prohibition to include 80% of its exclusive economic zone.<br>
 
 ## Geography
 
@@ -302,7 +302,7 @@ _election results_: <br><em>2020: </em>Surangel WHIPPS, Jr. elected president in
 **Legislative branch**<br>
 _description_: bicameral National Congress or Olbiil Era Kelulau consists of:<br>Senate (13 seats; members directly elected in single-seat constituencies by majority vote to serve 4-year terms)<br>House of Delegates (16 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
 _elections_: Senate - last held on 3 November 2020 (next to be held in November 2024)<br>House of Delegates - last held on 3 November 2020 (next to be held in November 2024)<br>
-_election results_: Senate - percent of vote - NA; seats - independent 13; composition as of February 2024 - men 12, women 1; percentage women 7.7%<br><br>House of Delegates - percent of vote - NA; seats - independent 16; composition as of February 2024 - men 15, women 1; percentage women 6.3%; note - total National Congress percentage women 6.9%<br>
+_election results_: Senate - percent of vote - NA; seats - independent 13; composition - men 12, women 1; percentage women 7.7%<br><br>House of Delegates - percent of vote - NA; seats - independent 16; composition - men 15, women 1; percentage women 6.3%; note - total National Congress percentage women 6.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 3 associate justices organized into appellate trial divisions; the Supreme Court organization also includes the Common Pleas and Land Courts)<br>
@@ -355,29 +355,29 @@ high-income Pacific island economy; environmentally fragile; subsistence agricul
 $254.367 million (2021 est.)<br>
 $294.823 million (2020 est.)<br>
 $318.898 million (2019 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -13.72% (2021 est.)<br>
 -7.55% (2020 est.)<br>
 0.2% (2019 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $14,100 (2021 est.)<br>
 $16,400 (2020 est.)<br>
 $17,800 (2019 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $232.903 million (2021 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 12.35% (2022 est.)<br>
 2.61% (2021 est.)<br>
 0.22% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3% (2016 est.)<br>
@@ -399,8 +399,8 @@ coconuts, cassava (manioc, tapioca), sweet potatoes; fish, pigs, chickens, eggs,
 tourism, fishing, subsistence agriculture<br>
 
 **Industrial production growth rate**<br>
-1.42% (2021 est.) NA<br>
-note: annual % change in industrial value added based on constant local currency<br>
+1.42% (2021 est.)<br>
+<strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 11,610 (2016)<br>
@@ -411,21 +411,15 @@ note: annual % change in industrial value added based on constant local currency
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 5.6% (2014)<br>
-_male_: NA<br>
-_female_: NA<br>
 
 **Population below poverty line**<br>
-24.9% (2006) NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
+24.9% (2006)<br>
 
 **Remittances**<br>
 1.09% of GDP (2021 est.)<br>
 1% of GDP (2020 est.)<br>
 0.91% of GDP (2019 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $122 million (2019 est.)<br>
@@ -438,11 +432,11 @@ _expenditures_: $121 million (2019 est.)<br>
 85.19% of GDP (2019 est.)<br>
 83.68% of GDP (2018 est.)<br>
 79.83% of GDP (2017 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 18.16% (of GDP) (2020 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
@@ -451,31 +445,35 @@ note: central government tax revenue as a % of GDP<br>
 -$135.428 million (2022 est.)<br>
 -$115.739 million (2021 est.)<br>
 -$115.61 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $24.48 million (2022 est.)<br>
 $10.566 million (2021 est.)<br>
 $52.897 million (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Japan 34%, Taiwan 16%, Turkey 16%, Italy 12%, United States 9% (2021)<br>
+Greece 27%, Japan 26%, France 18%, Taiwan 8%, US 7% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-computers, scrap vessels, recreational boats, scrap iron, fish, scrap copper, scrap aluminum (2021)<br>
+ships, computers, machine parts, scrap iron, fish (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $216.681 million (2022 est.)<br>
 $169.938 million (2021 est.)<br>
 $207.224 million (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 34%, United States 21%, South Korea 12%, Japan 8%, Taiwan 6% (2021)<br>
+China 35%, US 14%, South Korea 13%, Japan 8%, Italy 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, boat propellers, iron structures, cars, floating docks, broadcasting equipment, prefabricated buildings (2021)<br>
+ships, refined petroleum, iron structures, plastic products, electric batteries (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $580.9 million (31 December 2015 est.)<br>

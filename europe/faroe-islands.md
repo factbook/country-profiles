@@ -279,7 +279,7 @@ _elections/appointments_: the monarchy is hereditary; high commissioner appointe
 **Legislative branch**<br>
 _description_: unicameral Faroese Parliament or Logting (33 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>the Faroe Islands elect 2 members to the Danish Parliament to serve 4-year terms<br>
 _elections_: Faroese Parliament - last held on 8 December 2022 (next to be held in 2026)<br><br>Faroese seats in the Danish Parliament last held on 31 October 2022 (next to be held no later than 31 October 2026)<br>
-_election results_: Faroese Parliament percent of vote by party - JF 26.6%, B 20%, A 18.9%, E 17.7%, F 7.5%, H 6.6%, seats by party - JF 9, B 7, A 6, E 6, F 3, H 2; composition as of April 2024 - men 24, women 9; percentage women 27.3%<br><br>Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - JF 1, B 1; composition - men 2, women 0; percentage women 0%<br>
+_election results_: Faroese Parliament percent of vote by party - JF 26.6%, B 20%, A 18.9%, E 17.7%, F 7.5%, H 6.6%, seats by party - JF 9, B 7, A 6, E 6, F 3, H 2; composition - men 24, women 9; percentage women 27.3%<br><br>Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - JF 1, B 1; composition - men 2, women 0; percentage women 0%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Faroese Court or Raett (Rett - Danish) decides both civil and criminal cases; the Court is part of the Danish legal system<br>
@@ -323,14 +323,14 @@ $1.608 billion (2012 est.)<br>
 5.4% (2022 est.)<br>
 5.76% (2021 est.)<br>
 -1.93% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $40,000 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $3.556 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 -0.3% (2016)<br>
@@ -347,14 +347,15 @@ _government consumption_: 29.6% (2013)<br>
 _investment in fixed capital_: 18.4% (2013)<br>
 
 **Agricultural products**<br>
-potatoes, mutton, sheep skins, sheep offals, beef, sheep fat, cattle offals, cattle hides, cattle fat<br>
+milk, potatoes, lamb/mutton, sheepskins, sheep offal, beef, sheep fat, beef offal, cattle hides, beef suet (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 fishing, fish processing, tourism, small ship repair and refurbishment, handicrafts<br>
 
 **Industrial production growth rate**<br>
 4.3% (2014 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 27,540 (2017 est.)<br>
@@ -369,15 +370,11 @@ note: annual % change in industrial value added based on constant local currency
 **Gini Index coefficient - distribution of family income**<br>
 22.7 (2013 est.)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 4.45% of GDP (2022 est.)<br>
 4.33% of GDP (2021 est.)<br>
 4.86% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $835.6 million (2014 est.)<br>
@@ -397,8 +394,10 @@ _expenditures_: $883.8 million (2014)<br>
 calendar year<br>
 
 **Exports**<br>
-$1.184 billion (2016 est.)<br>
-$1.019 billion (2015 est.)<br>
+$2.219 billion (2022 est.)<br>
+$1.923 billion (2021 est.)<br>
+$1.552 billion (2020 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 Russia 26.4%, UK 14.1%, Germany 8.4%, China 7.9%, Spain 6.8%, Denmark 6.2%, US 4.7%, Poland 4.4%, Norway 4.1% (2017)<br>
@@ -407,8 +406,10 @@ Russia 26.4%, UK 14.1%, Germany 8.4%, China 7.9%, Spain 6.8%, Denmark 6.2%, US 4
 fish and fish products (2021)<br>
 
 **Imports**<br>
-$978.4 million (2016 est.)<br>
-$906.1 million (2015 est.)<br>
+$2.223 billion (2022 est.)<br>
+$1.906 billion (2021 est.)<br>
+$1.597 billion (2020 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Denmark 33%, China 10.7%, Germany 7.6%, Poland 6.8%, Norway 6.7%, Ireland 5%, Chile 4.3% (2017)<br>

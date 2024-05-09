@@ -271,7 +271,7 @@ _election results_: <em>2021: </em> Vjosa OSMANI-Sadriu elected president in th
 **Legislative branch**<br>
 _description_: unicameral Assembly or Kuvendi i Kosoves/Skupstina Kosova (120 seats; 100 members directly elected by open-list proportional representation vote with 20 seats reserved for ethnic minorities - 10 for Serbs and 10 for other ethnic minorities; members serve 4-year terms)<br>
 _elections_: last held on 14 February 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party - LVV 50%, PDK 16.9%, LDK 12.7%, AAK 7.1%, Serb List 5.1%, other 8.2%; seats by party - LVV 58, PDK 19, LDK 15, Serb List 10, AAK 8, other 10; composition as of December 2021 - men 79, women 41, percentage women 34.2%<br>
+_election results_: percent of vote by party - LVV 50%, PDK 16.9%, LDK 12.7%, AAK 7.1%, Serb List 5.1%, other 8.2%; seats by party - LVV 58, PDK 19, LDK 15, Serb List 10, AAK 8, other 10; composition - men 79, women 41, percentage women 34.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president and 18 judges and organized into Appeals Panel of the Kosovo Property Agency and Special Chamber); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
@@ -327,29 +327,29 @@ small-but-growing European economy; non-EU member but unilateral euro user; very
 $22.333 billion (2022 est.)<br>
 $21.226 billion (2021 est.)<br>
 $19.166 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 5.22% (2022 est.)<br>
 10.75% (2021 est.)<br>
 -5.34% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $12,700 (2022 est.)<br>
 $11,900 (2021 est.)<br>
 $10,700 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $9.409 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 11.58% (2022 est.)<br>
 3.35% (2021 est.)<br>
 0.2% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 11.9% (2017 est.)<br>
@@ -372,7 +372,7 @@ mineral mining, construction materials, base metals, leather, machinery, applian
 
 **Industrial production growth rate**<br>
 2.09% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 500,300 (2017 est.)<br>
@@ -390,22 +390,22 @@ _female_: 57.3%<br>
 
 **Population below poverty line**<br>
 17.6% (2015 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 29 (2017 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8%<br>
 _highest 10%_: 24.6% (2017 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 17.14% of GDP (2022 est.)<br>
 18.01% of GDP (2021 est.)<br>
 18.61% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.951 billion (2020 est.)<br>
@@ -425,13 +425,13 @@ _expenditures_: $2.547 billion (2020 est.)<br>
 -$983.283 million (2022 est.)<br>
 -$818.351 million (2021 est.)<br>
 -$541.106 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $3.579 billion (2022 est.)<br>
 $3.138 billion (2021 est.)<br>
 $1.687 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 United States 16%, Albania 15%, North Macedonia 12%, Germany 8%, Italy 8% (2021)<br>
@@ -443,7 +443,7 @@ mattress materials, iron alloys, metal piping, scrap iron, building plastics, mi
 $6.661 billion (2022 est.)<br>
 $6.128 billion (2021 est.)<br>
 $4.187 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Germany 13%, Turkey 13%, China 10%, Serbia 7%, Italy 6% (2021)<br>
@@ -455,7 +455,7 @@ refined petroleum, cars, iron rods, electricity, cigars, packaged medicines (202
 $1.248 billion (2022 est.)<br>
 $1.244 billion (2021 est.)<br>
 $1.095 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2.388 billion (2019 est.)<br>

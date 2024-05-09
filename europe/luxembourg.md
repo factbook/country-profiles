@@ -334,7 +334,7 @@ _elections/appointments_: the monarchy is hereditary; following elections to the
 **Legislative branch**<br>
 _description_: unicameral Chamber of Deputies or Chambre des Deputes (60 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms); note - a 21-member Council of State appointed by the Grand Duke on the advice of the prime minister serves as an advisory body to the Chamber of Deputies<br>
 _elections_: last held on 8 October 2023 (next to be held by 31 October 2028)<br>
-_election results_: percent of vote by party - CSV 29.2%, LSAP 18.9%, DP 18.7%, ADR 9.3%, Green Party 8.6%, Pirate Party 6.7%, The Left 3.9%; seats by party - CSV 21, DP 14, LSAP 11, ADR 5, Green Party 4, Pirate Party 3, The Left 2; composition as of February 2024 - men 40, women 20, percentage women 33.3%<br>
+_election results_: percent of vote by party - CSV 29.2%, LSAP 18.9%, DP 18.7%, ADR 9.3%, Green Party 8.6%, Pirate Party 6.7%, The Left 3.9%; seats by party - CSV 21, DP 14, LSAP 11, ADR 5, Green Party 4, Pirate Party 3, The Left 2; composition - men 40, women 20, percentage women 33.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice includes Court of Appeal and Court of Cassation (consists of 27 judges on 9 benches); Constitutional Court (consists of 9 members)<br>
@@ -387,29 +387,29 @@ high-income, EU-member European economy; global financial and information storag
 $76.901 billion (2022 est.)<br>
 $75.854 billion (2021 est.)<br>
 $70.78 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.38% (2022 est.)<br>
 7.17% (2021 est.)<br>
 -0.91% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $117,700 (2022 est.)<br>
 $118,500 (2021 est.)<br>
 $112,300 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $81.642 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 6.34% (2022 est.)<br>
 2.53% (2021 est.)<br>
 0.82% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (1994)<br>
@@ -431,24 +431,25 @@ _exports of goods and services_: 230% (2017 est.)<br>
 _imports of goods and services_: -194% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, wheat, barley, triticale, potatoes, pork, beef, grapes, rapeseed, oats<br>
+milk, wheat, barley, triticale, potatoes, pork, grapes, beef, oats, rapeseed (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 banking and financial services, construction, real estate services, iron, metals, and steel, information technology, telecommunications, cargo transportation and logistics, chemicals, engineering, tires, glass, aluminum, tourism, biotechnology<br>
 
 **Industrial production growth rate**<br>
 -7.47% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 339,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.58% (2022 est.)<br>
 5.25% (2021 est.)<br>
 6.77% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.2% (2021 est.)<br>
@@ -457,22 +458,22 @@ _female_: 14.1%<br>
 
 **Population below poverty line**<br>
 17.4% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33.4 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
 _highest 10%_: 25% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 2.68% of GDP (2022 est.)<br>
 2.84% of GDP (2021 est.)<br>
 3.15% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $31.74 billion (2019 est.)<br>
@@ -488,7 +489,7 @@ _expenditures_: $30.014 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 26.11% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -497,37 +498,41 @@ calendar year<br>
 $6.168 billion (2022 est.)<br>
 $6.819 billion (2021 est.)<br>
 $6.357 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $172.145 billion (2022 est.)<br>
 $184.932 billion (2021 est.)<br>
 $150.519 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 23%, France 13%, Belgium 12%, Netherlands 6%, Italy 5% (2019)<br>
+Germany 20%, France 15%, Belgium 10%, Netherlands 8%, Italy 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-iron products, cars and vehicle parts, tires, gas turbines, adhesive plastics (2021)<br>
+iron blocks, plastic products, rubber tires, plastics, gas turbines (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $141.761 billion (2022 est.)<br>
 $152.01 billion (2021 est.)<br>
 $121.517 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Belgium 27%, Germany 24%, France 11%, Netherlands 5% (2019)<br>
+Belgium 26%, Germany 26%, France 11%, Netherlands 6%, US 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, refined petroleum, broadcasting equipment, scrap iron, aircraft (2019)<br>
+refined petroleum, cars, electricity, natural gas, scrap iron (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $2.874 billion (2022 est.)<br>
 $2.921 billion (2021 est.)<br>
 $1.119 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $4,266,792,000,000 (2019 est.)<br>

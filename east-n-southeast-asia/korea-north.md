@@ -394,36 +394,30 @@ _exports of goods and services_: 5.9% (2016 est.)<br>
 _imports of goods and services_: -11.1% (2016 est.)<br>
 
 **Agricultural products**<br>
-rice, maize, vegetables, apples, potatoes, cabbages, fruit, sweet potatoes, beans, soybeans<br>
+maize, rice, vegetables, apples, cabbages, fruits, sweet potatoes, potatoes, beans, soybeans (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 military products; machine building, electric power, chemicals; mining (coal, iron ore, limestone, magnesite, graphite, copper, zinc, lead, and precious metals), metallurgy; textiles, food processing; tourism<br>
 
 **Industrial production growth rate**<br>
 4.3% (2014 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 15.772 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.07% (2022 est.)<br>
 3.23% (2021 est.)<br>
 3.12% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 6.1% (2021 est.)<br>
 _male_: 5.4%<br>
 _female_: 6.9%<br>
-
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Budget**<br>
 _revenues_: $3.2 billion (2007 est.)<br>
@@ -441,20 +435,24 @@ $4.582 billion (2017 est.)<br>
 $2.908 billion (2015 est.)<br>
 
 **Exports - partners**<br>
-China 67%, Suriname 6% (2019)<br>
+China 53%, Senegal 11%, Nigeria 6%, Poland 4%, Netherlands 3% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, iron alloys, electricity, cars, vaccines and cultures (2021)<br>
+tungsten ore, refined petroleum, iron alloys, electricity, molybdenum ore (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $2.32 billion (2018 est.)<br>
 $3.86 billion (2016 est.)<br>
 
 **Imports - partners**<br>
-China 96% (2019)<br>
+China 98%, Zimbabwe 0%, Netherlands 0%, India 0%, Colombia 0% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-clothing and apparel, soybean oil, rice, wheat products, clocks/watches (2019)<br>
+plastic products, tobacco, soybean oil, rubber tires, packaged medicine (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Debt - external**<br>
 $5 billion (2013 est.)<br>

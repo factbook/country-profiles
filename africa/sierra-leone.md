@@ -390,29 +390,29 @@ low-income West African economy; primarily subsistent agriculture; key iron and 
 $14.068 billion (2022 est.)<br>
 $13.598 billion (2021 est.)<br>
 $13.062 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.46% (2022 est.)<br>
 4.1% (2021 est.)<br>
 -1.97% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $1,600 (2022 est.)<br>
 $1,600 (2021 est.)<br>
 $1,600 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $4.095 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 27.21% (2022 est.)<br>
 11.87% (2021 est.)<br>
 13.45% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 60.7% (2017 est.)<br>
@@ -428,24 +428,25 @@ _exports of goods and services_: 26.8% (2017 est.)<br>
 _imports of goods and services_: -55.3% (2017 est.)<br>
 
 **Agricultural products**<br>
-cassava, rice, vegetables, oil palm fruit, sweet potatoes, milk, citrus fruit, groundnuts, fruit, pulses nes<br>
+cassava, rice, oil palm fruit, vegetables, sweet potatoes, milk, citrus fruits, groundnuts, fruits, sugarcane (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 diamond mining; iron ore, rutile and bauxite mining; small-scale manufacturing (beverages, textiles, footwear)<br>
 
 **Industrial production growth rate**<br>
 8.17% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 2.829 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.27% (2022 est.)<br>
 3.66% (2021 est.)<br>
 3.57% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.8% (2021 est.)<br>
@@ -454,22 +455,22 @@ _female_: 7.6%<br>
 
 **Population below poverty line**<br>
 56.8% (2018 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 35.7 (2018 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
 _highest 10%_: 29.4% (2018 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 5.67% of GDP (2022 est.)<br>
 5.47% of GDP (2021 est.)<br>
 4.36% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $740 million (2019 est.)<br>
@@ -492,37 +493,41 @@ calendar year<br>
 -$358.39 million (2021 est.)<br>
 -$320.411 million (2020 est.)<br>
 -$792.257 million (2019 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $1.114 billion (2021 est.)<br>
 $661.505 million (2020 est.)<br>
 $632.405 million (2019 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Belgium 26%, China 25%, Romania 9%, United Arab Emirates 6%, Germany 5%, Netherlands 5% (2019)<br>
+China 54%, Belgium 12%, UAE 6%, Germany 4%, Netherlands 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-titanium, lumber, diamonds, aluminum, cocoa beans (2019)<br>
+iron ore, titanium ore, diamonds, wood, aluminum ore (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $1.869 billion (2021 est.)<br>
 $1.386 billion (2020 est.)<br>
 $1.818 billion (2019 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 27%, India 11%, United States 6%, Ghana 5%, Turkey 5% (2019)<br>
+China 33%, India 12%, Turkey 9%, US 6%, UAE 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-rice, plastics, packaged medicines, sauces/seasonings, cars (2019)<br>
+rice, plastic products, refined petroleum, vaccines, packaged medicine (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $624.641 million (2022 est.)<br>
 $945.908 million (2021 est.)<br>
 $707.704 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.615 billion (31 December 2017 est.)<br>

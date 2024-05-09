@@ -265,7 +265,7 @@ _elections/appointments_: the monarchy is hereditary; Council of Ministers, incl
 **Legislative branch**<br>
 _description_: unicameral Assembly of the States of Jersey (49 elected members; 8 senators to serve 4-year terms, and 29 deputies and 12 connetables, or heads of parishes, to serve 4-year terms; 5 non-voting members appointed by the monarch include the bailiff, lieutenant governor, dean of Jersey, attorney general, and the solicitor general)<br>
 _elections_: last held on 22 June 2022 (next to be held in 2026)<br>
-_election results_: percent of vote by party - BW 66.8%, RJ 12.3%, JA 2.0%, PP 2%, JLC 4.1%; seats by party - BW 35, RJ 10, JLC 2, JA 1, PP 1; composition as of April 2024 - men 28, women 21, percentage women 42.9%<br>
+_election results_: percent of vote by party - BW 66.8%, RJ 12.3%, JA 2.0%, PP 2%, JLC 4.1%; seats by party - BW 35, RJ 10, JLC 2, JA 1, PP 1; composition - men 28, women 21, percentage women 42.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Jersey Court of Appeal (consists of the bailiff, deputy bailiff, and 12 judges); Royal Court (consists of the bailiff, deputy bailiff, 6 commissioners and lay people referred to as jurats, and is organized into Heritage, Family, Probate, and Samedi Divisions); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -311,7 +311,7 @@ $4.98 billion (2014 est.)<br>
 8.65% (2021 est.)<br>
 -7.97% (2020 est.)<br>
 1.33% (2019 est.)<br>
-note: annual GDP % growth based on constant local currency; entry includes Jersey and Guernsey<br>
+<b>note:</b> annual GDP % growth based on constant local currency; entry includes Jersey and Guernsey<br>
 
 **Real GDP per capita**<br>
 $56,600 (2016 est.)<br>
@@ -319,7 +319,7 @@ $49,500 (2015 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $11.736 billion (2021 est.)<br>
-note: data in current dollars at official exchange rate; entry includes Jersey and Guernsey<br>
+<b>note:</b> data in current dollars at official exchange rate; entry includes Jersey and Guernsey<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2% (2010)<br>
@@ -334,32 +334,25 @@ tourism, banking and finance, dairy, electronics<br>
 
 **Industrial production growth rate**<br>
 25.3% (2021 est.)<br>
-note: annual % change in industrial value added based on constant local currency; entry includes Jersey and Guernsey<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency; entry includes Jersey and Guernsey<br>
 
 **Labor force**<br>
 86,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work;entry includes Jersey and Guernsey<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work;entry includes Jersey and Guernsey<br>
 
 **Unemployment rate**<br>
 6.03% (2022 est.)<br>
 6.73% (2021 est.)<br>
 6.72% (2020 est.)<br>
-note: % of labor force seeking employment; entry includes Jersey and Guernsey<br>
+<b>note:</b> % of labor force seeking employment; entry includes Jersey and Guernsey<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.8% (2021 est.)<br>
 _male_: 15.9%<br>
 _female_: 15.6%<br>
 
-**Population below poverty line**<br>
-NA<br>
-
 **Gini Index coefficient - distribution of family income**<br>
 0.3 (2014 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Budget**<br>
 _revenues_: $829 million (2005)<br>

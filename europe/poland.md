@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Poland's history as a state began near the middle of the 10th century. By the mid-16th century, the Polish-Lithuanian Commonwealth ruled a vast tract of land in Central and Eastern Europe. During the 18th century, internal disorders weakened the nation, and in a series of agreements between 1772 and 1795, Russia, Prussia, and Austria partitioned Poland among themselves. Poland regained its independence in 1918 only to be overrun by Germany and the Soviet Union in World War II. It became a Soviet satellite state following the war. Labor turmoil in 1980 led to the formation of the independent trade union "Solidarity" that over time became a political force with over 10 million members. Free elections in 1989 and 1990 won Solidarity control of the parliament and the presidency, bringing the communist era to a close. A "shock therapy" program during the early 1990s enabled the country to transform its economy into one of the most robust in Central Europe. Poland joined NATO in 1999 and the EU in 2004.<br>
+Poland's history as a state began near the middle of the 10th century. By the mid-16th century, the Polish-Lithuanian Commonwealth ruled a vast tract of land in Central and Eastern Europe. During the 18th century, internal disorder weakened the nation, and in a series of agreements between 1772 and 1795, Russia, Prussia, and Austria partitioned Poland among themselves. Poland regained its independence in 1918 only to be overrun by Germany and the Soviet Union in World War II. It became a Soviet satellite state following the war. Labor turmoil in 1980 led to the formation of the independent trade union Solidarity that over time became a political force with over 10 million members. Free elections in 1989 and 1990 won Solidarity control of the parliament and the presidency, bringing the communist era to a close. A "shock therapy" program during the early 1990s enabled the country to transform its economy into one of the most robust in Central Europe. Poland joined NATO in 1999 and the EU in 2004.<br>
 
 ## Geography
 
@@ -352,7 +352,7 @@ _election results_: <br><em>2020:</em> Andrzej DUDA reelected president in secon
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>Sejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minority parties exempt from threshold; members serve 4-year terms)<br>
 _elections_: Senate - last held on 15 October 2023 (next to be held in 2027)<br>Sejm - last held on 15 October 2023 (next to be held in 2027)<br>
-_election results_: Senate - percent of vote by party/coalition - United Right 34.8%, Civic Coalition 28.9%, Third Way 11.5%, The Left 5.3%, Senate Pact Independents 2.7%, independent 3%; seats by party/coalition - Civic Coalition 41, United Right 34, Third Way 11, The Left 9, Senate Pact Independents 4, independent 1<br><br>Sejm - percent of vote by party - PiS 35.4%, KO 30.7%, TD 14.4%, Lewica 8.6%, Konf 7.2%; seats by party - PiS 194, KO 157, TD 65, Lewica 26, Konf 18<br>
+_election results_: Senate - percent of vote by coalition/party - United Right 34.8%, Civic Coalition 28.9%, Third Way 11.5%, The Left 5.3%, Senate Pact Independents 2.7%, independent 3%; seats by coalition/party - Civic Coalition 41, United Right 34, Third Way 11, The Left 9, Senate Pact Independents 4, independent 1<br><br>Sejm - percent of vote by coalition/party - PiS 35.4%, KO 30.7%, TD 14.4%, Lewica 8.6%, Konf 7.2%; seats by coalition/party - United Way 194, Civic Coalition 157, Third Way 65, The Left 26, Confederation 18<br>
 <strong>note:</strong> the designation National Assembly or Zgromadzenie Narodowe is only used on those rare occasions when the 2 houses meet jointly<br>
 
 **Judicial branch**<br>
@@ -408,29 +408,29 @@ diversified, high-growth European economy; COVID-19 led to first recession in ne
 $1.388 trillion (2022 est.)<br>
 $1.319 trillion (2021 est.)<br>
 $1.233 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 5.26% (2022 est.)<br>
 6.93% (2021 est.)<br>
 -2.02% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $37,700 (2022 est.)<br>
 $34,900 (2021 est.)<br>
 $32,500 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $688.125 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 14.43% (2022 est.)<br>
 5.06% (2021 est.)<br>
 3.37% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A- (2007)<br>
@@ -452,24 +452,25 @@ _exports of goods and services_: 54% (2017 est.)<br>
 _imports of goods and services_: -49.9% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, sugar beets, wheat, potatoes, triticale, maize, barley, apples, mixed grains, rye<br>
+milk, sugar beets, wheat, maize, potatoes, triticale, apples, rapeseed, barley, rye (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 machine building, iron and steel, coal mining, chemicals, shipbuilding, food processing, glass, beverages, textiles<br>
 
 **Industrial production growth rate**<br>
 7.11% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 18.301 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 2.89% (2022 est.)<br>
 3.36% (2021 est.)<br>
 3.16% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 13.4% (2021 est.)<br>
@@ -478,11 +479,11 @@ _female_: 15%<br>
 
 **Population below poverty line**<br>
 11.8% (2022 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 28.8 (2019 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 16.7% of household expenditures (2018 est.)<br>
@@ -491,13 +492,13 @@ _on alcohol and tobacco_: 5.7% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
 _highest 10%_: 23.1% (2019 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.94% of GDP (2022 est.)<br>
 1.05% of GDP (2021 est.)<br>
 1.12% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $244.485 billion (2019 est.)<br>
@@ -513,7 +514,7 @@ _expenditures_: $248.868 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 19.15% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -522,37 +523,41 @@ calendar year<br>
 -$16.697 billion (2022 est.)<br>
 -$8.515 billion (2021 est.)<br>
 $14.764 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $434.008 billion (2022 est.)<br>
 $392.694 billion (2021 est.)<br>
 $318.967 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 28%, UK 6%, Czechia 6%, France 6%, Netherlands 4% (2020)<br>
+Germany 27%, Czechia 6%, France 6%, UK 5%, Netherlands 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, seats, furniture, electric batteries, computers (2020)<br>
+vehicle parts/accessories, plastic products, garments, electric batteries, computers (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $421.226 billion (2022 est.)<br>
 $369.82 billion (2021 est.)<br>
 $284.648 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 25%, China 12%, Italy 5%, Netherlands 5%, Czechia 4% (2020)<br>
+Germany 23%, China 11%, Italy 5%, Netherlands 5%, Czechia 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars and vehicle parts, crude petroleum, packaged medicines, broadcasting equipment, office machinery/parts (2020)<br>
+garments, crude petroleum, cars, vehicle parts/accessories, plastic products (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $166.664 billion (2022 est.)<br>
 $166.03 billion (2021 est.)<br>
 $154.219 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $351.77 billion (2019 est.)<br>

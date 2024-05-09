@@ -364,7 +364,7 @@ _election results_: <em>2024: </em>PRABOWO Subianto elected president; percent o
 **Legislative branch**<br>
 _description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat (MPR) consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br>House of Representatives or Dewan Perwakilan Rakyat (580 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms)<br>
 _elections_: Regional Representative Council - last held on 14 February 2024 (next to be held in 2029)<br>House of Representatives - last held on 14 February 2024 (next to be held in 2029)<br>
-_election results_: Regional Representative Council - all seats elected on a non-partisan basis; composition as of January 2024 - men 102, women 34, percentage women 25%<br><br>House of Representatives - percent of vote by party - PDI-P 16.7%, Golkar 15.3%, Gerindra 13.2%, PKB 10.6%, Nasdem 9.7%, PKS 8.4%, PD 7.4%, PAN 7.2%; other 11.5% (10 additional parties received votes); seats by party - PDI-P 110, Golkar 102, Gerindra 86, PKB 68, Nasdem 69, PKS 53, PD 44, PAN 48; composition as of December 2023 - men 449, women 126, percentage women 21.9%; total People's Consultative Assembly percentage women NA%<br>
+_election results_: Regional Representative Council - all seats elected on a non-partisan basis; composition - men 102, women 34, percentage women 25%<br><br>House of Representatives - percent of vote by party - PDI-P 16.7%, Golkar 15.3%, Gerindra 13.2%, PKB 10.6%, Nasdem 9.7%, PKS 8.4%, PD 7.4%, PAN 7.2%; other 11.5% (10 additional parties received votes); seats by party - PDI-P 110, Golkar 102, Gerindra 86, PKB 68, Nasdem 69, PKS 53, PD 44, PAN 48; composition - men 449, women 126, percentage women 21.9%; total People's Consultative Assembly percentage women NA%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Mahkamah Agung (51 judges divided into 8 chambers); Constitutional Court or Mahkamah Konstitusi (consists of 9 judges)<br>
@@ -420,29 +420,29 @@ upper middle-income, largest and growing Southeast Asian economy; higher lending
 $3.419 trillion (2022 est.)<br>
 $3.247 trillion (2021 est.)<br>
 $3.131 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 5.31% (2022 est.)<br>
 3.7% (2021 est.)<br>
 -2.07% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $12,400 (2022 est.)<br>
 $11,900 (2021 est.)<br>
 $11,500 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.319 trillion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4.21% (2022 est.)<br>
 1.56% (2021 est.)<br>
 1.92% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2017)<br>
@@ -464,24 +464,25 @@ _exports of goods and services_: 20.4% (2017 est.)<br>
 _imports of goods and services_: -19.2% (2017 est.)<br>
 
 **Agricultural products**<br>
-oil palm fruit, rice, maize, sugar cane, coconuts, cassava, bananas, eggs, poultry, rubber<br>
+oil palm fruit, rice, sugarcane, maize, coconuts, cassava, bananas, eggs, mangoes/guavas, chicken (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 petroleum and natural gas, textiles, automotive, electrical appliances, apparel, footwear, mining, cement, medical instruments and appliances, handicrafts, chemical fertilizers, plywood, rubber, processed food, jewelry, and tourism<br>
 
 **Industrial production growth rate**<br>
 4.11% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 138.099 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.46% (2022 est.)<br>
 3.83% (2021 est.)<br>
 4.25% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 16.1% (2021 est.)<br>
@@ -490,11 +491,11 @@ _female_: 15.7%<br>
 
 **Population below poverty line**<br>
 9.5% (2022 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 37.9 (2022 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 31.7% of household expenditures (2018 est.)<br>
@@ -503,13 +504,13 @@ _on alcohol and tobacco_: 7.2% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1%<br>
 _highest 10%_: 30.7% (2022 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.76% of GDP (2022 est.)<br>
 0.79% of GDP (2021 est.)<br>
 0.91% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $130.872 billion (2020 est.)<br>
@@ -522,11 +523,11 @@ _expenditures_: $192.97 billion (2020 est.)<br>
 44.4% of GDP (2021 est.)<br>
 42.9% of GDP (2020 est.)<br>
 33.73% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 9.09% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -535,37 +536,41 @@ calendar year<br>
 $12.67 billion (2022 est.)<br>
 $3.511 billion (2021 est.)<br>
 -$4.433 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $315.584 billion (2022 est.)<br>
 $246.787 billion (2021 est.)<br>
 $178.418 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 22%, United States 11%, Japan 8%, India 6%, Singapore 5% (2021)<br>
+China 21%, US 10%, Japan 8%, India 8%, Malaysia 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-coal, palm oil, natural gas, iron alloys, stainless steel (2021)<br>
+coal, palm oil, iron alloys, natural gas, steel (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $273.249 billion (2022 est.)<br>
 $217.579 billion (2021 est.)<br>
 $159.872 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 31%, Singapore 9%, Japan 7%, United States 5%, Malaysia 5% (2021)<br>
+China 31%, Singapore 10%, Japan 6%, Malaysia 5%, Thailand 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, crude petroleum, natural gas, vaccines and cultures, vehicle parts (2021)<br>
+refined petroleum, crude petroleum, vehicle parts/accessories, natural gas, plastics (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $137.222 billion (2022 est.)<br>
 $144.908 billion (2021 est.)<br>
 $135.916 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $393.252 billion (2019 est.)<br>

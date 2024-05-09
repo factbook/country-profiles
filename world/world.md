@@ -290,29 +290,29 @@ _total World Heritage Sites_: 1199 (933 cultural, 227 natural, 39 mixed) (2023)<
 $139.322 trillion (2022 est.)<br>
 $134.789 trillion (2021 est.)<br>
 $126.785 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.09% (2022 est.)<br>
 6.2% (2021 est.)<br>
 -3.07% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $17,500 (2022 est.)<br>
 $17,100 (2021 est.)<br>
 $16,200 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $101.326 trillion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 7.97% (2022 est.)<br>
 3.47% (2021 est.)<br>
 1.94% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.4% (2017 est.)<br>
@@ -327,22 +327,25 @@ _investment in inventories_: 1.4% (2017 est.)<br>
 _exports of goods and services_: 28.8% (2017 est.)<br>
 _imports of goods and services_: -28.3% (2017 est.)<br>
 
+**Agricultural products**<br>
+<p>the whole range of agricultural products<br><br><strong>top ten agricultural products by global production tonnage:</strong> sugarcane, maize, wheat, rice, milk, oil palm fruit, potatoes, soybeans, cassava, vegetables (2022)</p><br>
+
 **Industries**<br>
 <p>dominated by the onrush of technology, especially in computers, robotics, telecommunications, and medicines and medical equipment; most of these advances take place in OECD nations; only a small portion of non-OECD countries have succeeded in rapidly adjusting to these technological forces; the accelerated development of new technologies is complicating already grim environmental problems</p><br>
 
 **Industrial production growth rate**<br>
 2.77% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 3.553 billion (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.27% (2022 est.)<br>
 6.06% (2021 est.)<br>
 6.6% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 17.9% (2021 est.)<br>
@@ -360,7 +363,7 @@ _highest 10%_: 30.2% (2008 est.)<br>
 0.77% of GDP (2022 est.)<br>
 0.78% of GDP (2021 est.)<br>
 0.79% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $21.68 trillion (2017 est.)<br>
@@ -375,22 +378,22 @@ _expenditures_: $23.81 trillion (2017 est.)<br>
 
 **Taxes and other revenues**<br>
 14.39% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Exports**<br>
 $31.625 trillion (2022 est.)<br>
 $28.347 trillion (2021 est.)<br>
 $22.635 trillion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - commodities**<br>
-the whole range of industrial and agricultural goods and services<br><br><strong>top ten commodities by share of world trade: </strong>crude petroleum, refined petroleum, integrated circuits, natural gas, cars, broadcasting equipment, garments, gold, packaged medicine, vehicle parts/accessories (2022) (2022)<br>
+the whole range of industrial and agricultural goods and services<br><br><strong>top ten commodities by share of world trade: </strong>crude petroleum, refined petroleum, integrated circuits, natural gas, cars, broadcasting equipment, garments, gold, packaged medicine, vehicle parts/accessories (2022)<br>
 
 **Imports**<br>
 $30.812 trillion (2022 est.)<br>
 $27.27 trillion (2021 est.)<br>
 $21.994 trillion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - commodities**<br>
 <p>the whole range of industrial and agricultural goods and services</p> <p><strong>top ten - share of world trade:</strong> see listing for exports</p><br>

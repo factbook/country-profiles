@@ -330,29 +330,29 @@ high-income tourism- and services-based economy; global financial hub; COVID-19 
 $429.592 billion (2022 est.)<br>
 $445.064 billion (2021 est.)<br>
 $418.129 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -3.48% (2022 est.)<br>
 6.44% (2021 est.)<br>
 -6.54% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $58,500 (2022 est.)<br>
 $60,000 (2021 est.)<br>
 $55,900 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $359.839 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1.88% (2022 est.)<br>
 1.57% (2021 est.)<br>
 0.25% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA- (2020)<br>
@@ -374,24 +374,25 @@ _exports of goods and services_: 188% (2017 est.)<br>
 _imports of goods and services_: -187.1% (2017 est.)<br>
 
 **Agricultural products**<br>
-pork, poultry, spinach, vegetables, pork offals, game meat, fruit, lettuce, green onions, pig fat<br>
+pork, chicken, spinach, vegetables, game meat, pork offal, fruits, onions, lettuce, pork fat (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 trading and logistics, financial services, professional services, tourism, cultural and creative, clothing and textiles, shipping, electronics, toys, clocks and watches<br>
 
 **Industrial production growth rate**<br>
 3.19% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 3.761 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.32% (2022 est.)<br>
 5.17% (2021 est.)<br>
 5.81% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 15% (2021 est.)<br>
@@ -416,7 +417,7 @@ _highest 10%_: 38.1% (2016)<br>
 0.12% of GDP (2022 est.)<br>
 0.12% of GDP (2021 est.)<br>
 0.12% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $70.124 billion (2020 est.)<br>
@@ -439,37 +440,41 @@ _expenditures_: $105.849 billion (2020 est.)<br>
 $37.909 billion (2022 est.)<br>
 $43.659 billion (2021 est.)<br>
 $24.126 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $697.586 billion (2022 est.)<br>
 $752.621 billion (2021 est.)<br>
 $608.192 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 23%, India 14%, Netherlands 6%, United Kingdom 5% (2019)<br>
+China 21%, India 13%, Netherlands 6%, Switzerland 4%, US 3% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, integrated circuits, gas turbines, broadcasting equipment, silver, diamonds, telephones (2021)<br>
+gold, integrated circuits, gas turbines, broadcasting equipment, machine parts (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $683.415 billion (2022 est.)<br>
 $732.087 billion (2021 est.)<br>
 $601.528 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 46%, Taiwan 7%, Singapore 7%, South Korea 5%, United States 5%, Japan 5% (2019)<br>
+China 44%, Taiwan 11%, Singapore 8%, South Korea 5%, Japan 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-integrated circuits, broadcasting equipment, office machinery, telephones, diamonds (2019)<br>
+integrated circuits, broadcasting equipment, machine parts, gold, jewelry (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $424.025 billion (2022 est.)<br>
 $496.856 billion (2021 est.)<br>
 $491.755 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1,648,409,000,000 (2019 est.)<br>

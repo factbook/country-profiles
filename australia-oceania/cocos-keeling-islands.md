@@ -195,9 +195,6 @@ vegetables, bananas, pawpaws, coconuts<br>
 **Industries**<br>
 copra products, tourism<br>
 
-**Labor force**<br>
-NA<br>
-
 **Unemployment rate**<br>
 0.1% (2011)<br>
 60% (2000 est.)<br>
@@ -210,13 +207,15 @@ _expenditures_: NA<br>
 1 July - 30 June<br>
 
 **Exports - partners**<br>
-United States 57%, Ireland 15% (2019)<br>
+US 45%, UK 12%, France 7%, Canada 6%, Poland 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
 integrated circuits, vaccines and cultures, furniture, carbon batteries, rubber gloves (2021)<br>
 
 **Imports - partners**<br>
-Australia 73%, United Arab Emirates 15%, Netherlands 5% (2019)<br>
+Australia 75%, US 18%, Netherlands 2%, UK 2%, Turkey 1% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
 gold, x-ray equipment, cars, prefabricated buildings, packaged medicines (2019)<br>

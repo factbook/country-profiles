@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-Explored and settled by the Spanish in the 16th century, Panama broke with Spain in 1821 and joined a union of Colombia, Ecuador, and Venezuela - named the Republic of Gran Colombia. When the latter dissolved in 1830, Panama remained part of Colombia. With US backing, Panama seceded from Colombia in 1903 and promptly signed a treaty with the US allowing for the construction of a canal and US sovereignty over a strip of land on either side of the structure (the Panama Canal Zone). The Panama Canal was built by the US Army Corps of Engineers between 1904 and 1914. In 1977, an agreement was signed for the complete transfer of the Canal from the US to Panama by the end of the century. Certain portions of the Zone and increasing responsibility over the Canal were turned over in the subsequent decades. With US help, dictator Manuel NORIEGA was deposed in 1989. The entire Panama Canal, the area supporting the Canal, and remaining US military bases were transferred to Panama by the end of 1999. An ambitious expansion project to more than double the Canal's capacity - by allowing for more Canal transits and larger ships - was carried out between 2007 and 2016.<br>
+Explored and settled by the Spanish in the 16th century, Panama broke with Spain in 1821 and joined a union of Colombia, Ecuador, and Venezuela that was named the Republic of Gran Colombia. When the union dissolved in 1830, Panama remained part of Colombia. With US backing, Panama seceded from Colombia in 1903 and promptly signed a treaty with the US allowing for the construction of a canal and US sovereignty over a strip of land known as the Panama Canal Zone on either side of the structure. The US Army Corps of Engineers built the Panama Canal between 1904 and 1914. In 1977, an agreement was signed for the complete transfer of the Canal from the US to Panama by the end of the century. Certain portions of the Zone and increasing responsibility over the Canal were turned over in the subsequent decades. With US help, Panamanian dictator Manuel NORIEGA was deposed in 1989. The entire Panama Canal, the area supporting the Canal, and remaining US military bases were transferred to Panama by the end of 1999. An ambitious expansion project to more than double the Canal's capacity by allowing for more Canal transits and larger ships was carried out between 2007 and 2016.<br>
 
 ## Geography
 
@@ -330,13 +330,13 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Laurentino "Nito" CORTIZO Cohen (since 1 July 2019); Vice President Jose Gabriel CARRIZO Jaen (since 1 July 2019); note - the president is both chief of state and head of government<br>
 _head of government_: President Laurentino "Nito" CORTIZO Cohen (since 1 July 2019); Vice President Jose Gabriel CARRIZO Jaen (since 1 July 2019)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term; president eligible for a single non-consecutive term); election last held on 5 May 2019 (next to be held on 5 May 2024)<br>
-_election results_: <br><em>2019:</em> Laurentino "Nito" CORTIZO Cohen elected president; percent of vote - Laurentino CORTIZO Cohen (PRD) 33.3%, Romulo ROUX (CD) 31%, Ricardo LOMBANA (independent) 18.8%, Jose BLANDON (Panamenista Party) 10.8%, Ana Matilde GOMEZ Ruiloba (independent) 4.8%, other 1.3%<br><br><em>2014:</em> Juan Carlos VARELA elected president; percent of vote - Juan Carlos VARELA (PP) 39.1%, Jose Domingo ARIAS (CD) 31.4%, Juan Carlos NAVARRO (PRD) 28.2%, other 1.3%<br>
+_elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term; president eligible for a single non-consecutive term); election last held on 5 May 2024 (next to be held in May 2029)<br>
+_election results_: <br><em>2024:</em> José Raúl MULINO Quintero elected president; percent of vote - José Raúl MULINO Quintero (RM) 34.2%, Ricardo Alberto LOMBANA González (MOCA) 24.6%, Martín Erasto TORRIJOS Espino (PP) 16%, Rómulo Alberto ROUX Moses (CD) 11.4%, Zulay RODRÍGUEZ Lu (independent) 6.6%, José Gabriel CARRIZO Jaén (PRD) 5.9%, other 1.3%; note - MULINO will take office 1 July 2024<br><br><em>2019:</em> Laurentino "Nito" CORTIZO Cohen elected president; percent of vote - Laurentino CORTIZO Cohen (PRD) 33.3%, Romulo ROUX (CD) 31%, Ricardo LOMBANA (independent) 18.8%, Jose BLANDON (Panameñista Party) 10.8%, Ana Matilde GOMEZ Ruiloba (independent) 4.8%, other 1.3%<br><br><em>2014:</em> Juan Carlos VARELA elected president; percent of vote - Juan Carlos VARELA (PP) 39.1%, Jose Domingo ARIAS (CD) 31.4%, Juan Carlos NAVARRO (PRD) 28.2%, other 1.3%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Asamblea Nacional (71 seats; 45 members directly elected in multi-seat constituencies - populous towns and cities - by open list proportional representation vote and 26 directly elected in single-seat constituencies - outlying rural districts - by simple majority vote; members serve 5-year terms)<br>
-_elections_: last held on 5 May 2019 (next to be held on 5 May 2024)<br>
-_election results_: percent of vote by party - PRD 49.3%, CD 25.4%, Panamenista 11.3%, MOLIRENA 7%, independent 7%; seats by party - PRD 35, CD 18, Panamenista 8, MOLIRENA 5, independent 5; composition as of February 2024 - men 55, women 16, percentage women 22.5%<br>
+_elections_: last held on 5 May 2024 (next to be held in May 2029)<br>
+_election results_: percent of vote by party - NA; seats by party - independents 21, PRD 13, RM 13, CD 8, Paname&ntilde;ista 8, MOCA 3, PA 2, PP 2, MOLIRENA 1<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 magistrates and 9 alternates and divided into civil, criminal, administrative, and general business chambers)<br>
@@ -344,7 +344,7 @@ _judge selection and term of office_: magistrates appointed by the president for
 _subordinate courts_: appellate courts or Tribunal Superior; Labor Supreme Courts; Court of Audit; circuit courts or Tribunal Circuital (2 each in 9 of the 10 provinces); municipal courts; electoral, family, maritime, and adolescent courts<br>
 
 **Political parties and leaders**<br>
-Alliance Party or PA [Jose MUNOZ Molina]<br>Alternative Independent Socialist Party or PAIS [Jose ALVAREZ]<br>Democratic Change or CD [Romulo ROUX]<br>Democratic Revolutionary Party or PRD [Benicio ROBINSON]<br>Nationalist Republican Liberal Movement or MOLIRENA [Francisco "Pancho" ALEMAN]<br>Panamenista Party [Jose Isabel BLANDON Figueroa] (formerly the Arnulfista Party)<br>Popular Party or PP [Daniel Javier BREA Clavel] (formerly Christian Democratic Party or PDC)<br>Realizing Goals Party or RM [Ricardo Alberto MARTINELLI Berrocal]<br>
+Alliance Party or PA [Jose MUNOZ Molina]<br>Alternative Independent Socialist Party or PAIS [Jose ALVAREZ]<br>Another Way Movement or MOCA [Ricardo Alberto LOMBANA González]<br>Democratic Change or CD [Romulo ROUX]<br>Democratic Revolutionary Party or PRD [Benicio ROBINSON]<br>Nationalist Republican Liberal Movement or MOLIRENA [Francisco "Pancho" ALEMAN]<br>Panameñista Party [Jose Isabel BLANDON Figueroa] (formerly the Arnulfista Party)<br>Popular Party or PP [Daniel Javier BREA Clavel] (formerly Christian Democratic Party or PDC)<br>Realizing Goals Party or RM [Ricardo Alberto MARTINELLI Berrocal]<br>
 
 **International organization participation**<br>
 BCIE, CAN (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA, UN, UNASUR (observer), UNCTAD, UNESCO, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -389,29 +389,29 @@ upper middle-income Central American economy; increasing Chinese trade; US dolla
 $146.658 billion (2022 est.)<br>
 $132.352 billion (2021 est.)<br>
 $114.258 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 10.81% (2022 est.)<br>
 15.84% (2021 est.)<br>
 -17.67% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $33,300 (2022 est.)<br>
 $30,400 (2021 est.)<br>
 $26,600 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $76.523 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 2.86% (2022 est.)<br>
 1.63% (2021 est.)<br>
 -1.55% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2011)<br>
@@ -433,24 +433,25 @@ _exports of goods and services_: 41.9% (2017 est.)<br>
 _imports of goods and services_: -44.2% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, bananas, rice, poultry, milk, plantains, pineapples, maize, beef, pork<br>
+sugarcane, bananas, rice, oranges, oil palm fruit, plantains, chicken, milk, pineapples, maize (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 construction, brewing, cement and other construction materials, sugar milling<br>
 
 **Industrial production growth rate**<br>
 12.73% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 2.05 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 8.2% (2022 est.)<br>
 10.45% (2021 est.)<br>
 14.18% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 30% (2021 est.)<br>
@@ -459,11 +460,11 @@ _female_: 43.6%<br>
 
 **Population below poverty line**<br>
 21.5% (2019 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 50.9 (2021 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 15.7% of household expenditures (2018 est.)<br>
@@ -472,13 +473,13 @@ _on alcohol and tobacco_: 1.7% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2%<br>
 _highest 10%_: 39.4% (2021 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.68% of GDP (2022 est.)<br>
 0.84% of GDP (2021 est.)<br>
 0.8% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $9.743 billion (2020 est.)<br>
@@ -493,7 +494,7 @@ _expenditures_: $15.145 billion (2020 est.)<br>
 
 **Taxes and other revenues**<br>
 7.46% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -502,37 +503,41 @@ calendar year<br>
 -$3.001 billion (2022 est.)<br>
 -$2.051 billion (2021 est.)<br>
 -$189.254 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $36.145 billion (2022 est.)<br>
 $27.338 billion (2021 est.)<br>
 $19.792 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Ecuador 20%, Guatemala 14%, China 8%, United States 6%, Netherlands 6% (2019)<br>
+China 17%, Japan 12%, South Korea 8%, US 5%, Spain 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, copper, bananas, ships, coal tar oil, packaged medicines (2019)<br>
+copper ore, ships, fish, bananas, refined petroleum (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $35.692 billion (2022 est.)<br>
 $24.424 billion (2021 est.)<br>
 $17.614 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 21%, United States 19%, Japan 16%, Colombia 6%, Ecuador 5% (2019)<br>
+China 20%, US 20%, Guyana 11%, Colombia 11%, Ecuador 9% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-ships, refined petroleum, crude petroleum, tanker ships, packaged medicines (2019)<br>
+crude petroleum, refined petroleum, ships, garments, packaged medicine (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $6.876 billion (2022 est.)<br>
 $8.832 billion (2021 est.)<br>
 $9.614 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $101.393 billion (2019 est.)<br>

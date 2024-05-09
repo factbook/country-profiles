@@ -345,12 +345,12 @@ _chief of state_: President Alexander VAN DER BELLEN (since 26 January 2017)<br>
 _head of government_: Chancellor Karl NEHAMMER (since 6 December 2021)<br>
 _cabinet_: Council of Ministers proposed by the chancellor and appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 9 October 2022 (next to be held in 2028); chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor<br>
-_election results_: <br><em>2022:</em> Alexander VAN DER BELLEN reelected in first round; percent of vote - Alexander VAN DER BELLEN (the Greens) 56.7%, Walter ROSENKRANZ (FPO) 17.7%, Dominik WLAZNY (Beer) 8.3%, Tassilo WALLENTIN (independent) 8.1%, Gerald GROSZ (independent) 5.6%<em><br><br>2016:</em> Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br>
+_election results_: <br><em>2022:</em> Alexander VAN DER BELLEN reelected in first round; percent of vote - Alexander VAN DER BELLEN (independent) 56.7%, Walter ROSENKRANZ (FPO) 17.7%, Dominik WLAZNY (Beer Party) 8.3%, Tassilo WALLENTIN (independent) 8.1%, Gerald GROSZ (independent) 5.6%<em><br><br>2016:</em> Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Federal Assembly or Bundesversammlung consists of:<br>Federal Council or Bundesrat (61 seats - currently 60; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)<br>National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
 _elections_: Federal Council - last appointed in 2021<br>National Council - last held on 29 September 2019 (next to be held by 23 October 2024)<br>
-_election results_: Federal Council - percent of vote by party - OeVP 42.6%, SPOe 31.2%. FPOe 16.4%, The Greens 8.2%, NEOS 1.6%; seats by party - OeVP 26, SPOe 19, FPOe 10, The Greens 5, NEOS 1; composition as of February 2024 - men 32, women 28, percentage women 46.7%<br><br>National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26, NEOS 15; composition as of February 2024 - men 109, women 74, percentage women 41%; total Federal Assembly percentage women 42%<br>
+_election results_: Federal Council - percent of vote by party - OeVP 42.6%, SPOe 31.2%. FPOe 16.4%, The Greens 8.2%, NEOS 1.6%; seats by party - OeVP 26, SPOe 19, FPOe 10, The Greens 5, NEOS 1; composition - men 32, women 28, percentage women 46.7%<br><br>National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26, NEOS 15; composition - men 109, women 74, percentage women 41%; total Federal Assembly percentage women 42%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Oberster Gerichtshof (consists of 85 judges organized into 17 senates or panels of 5 judges each); Constitutional Court or Verfassungsgerichtshof (consists of 20 judges including 6 substitutes; Administrative Court or Verwaltungsgerichtshof - 2 judges plus other members depending on the importance of the case)<br>
@@ -404,29 +404,29 @@ one of the strongest EU and euro economies; diversified trade portfolios and rel
 $505.143 billion (2022 est.)<br>
 $481.977 billion (2021 est.)<br>
 $462.382 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.81% (2022 est.)<br>
 4.24% (2021 est.)<br>
 -6.63% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $55,900 (2022 est.)<br>
 $53,800 (2021 est.)<br>
 $51,900 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $470.942 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8.55% (2022 est.)<br>
 2.77% (2021 est.)<br>
 1.38% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA+ (2015)<br>
@@ -448,24 +448,25 @@ _exports of goods and services_: 54.2% (2017 est.)<br>
 _imports of goods and services_: -50.7% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, maize, sugar beet, wheat, barley, potatoes, pork, triticale, grapes, apples<br>
+milk, sugar beets, maize, wheat, barley, potatoes, pork, grapes, triticale, apples (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 construction, machinery, vehicles and parts, food, metals, chemicals, lumber and paper, electronics, tourism<br>
 
 **Industrial production growth rate**<br>
 3.03% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 4.762 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.99% (2022 est.)<br>
 6.46% (2021 est.)<br>
 5.2% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.4% (2021 est.)<br>
@@ -474,11 +475,11 @@ _female_: 11.3%<br>
 
 **Population below poverty line**<br>
 14.8% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 29.8 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 9.8% of household expenditures (2018 est.)<br>
@@ -487,13 +488,13 @@ _on alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
 _highest 10%_: 23.1% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.62% of GDP (2022 est.)<br>
 0.67% of GDP (2021 est.)<br>
 0.7% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $218.48 billion (2019 est.)<br>
@@ -506,11 +507,11 @@ _expenditures_: $215.485 billion (2019 est.)<br>
 94.53% of GDP (2021 est.)<br>
 99.91% of GDP (2020 est.)<br>
 83.1% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 25.84% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -519,37 +520,41 @@ calendar year<br>
 -$1.29 billion (2022 est.)<br>
 $7.77 billion (2021 est.)<br>
 $14.913 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $292.012 billion (2022 est.)<br>
 $267.791 billion (2021 est.)<br>
 $224.242 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 28%, United States 7%, Italy 6%, Switzerland 5% (2019)<br>
+Germany 28%, US 7%, Italy 7%, Switzerland 5%, Hungary 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-vaccines and cultures, cars, packaged medicines, vehicle parts, broadcasting equipment (2021)<br>
+cars, packaged medicine, vaccines, plastic products, electricity (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $290.277 billion (2022 est.)<br>
 $264.231 billion (2021 est.)<br>
 $209.817 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 39%, Italy 7%, Czechia 5% (2019)<br>
+Germany 40%, Italy 7%, Czechia 5%, Switzerland 5%, Netherlands 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, vehicle parts, broadcasting equipment, refined petroleum, packaged medical supplies (2019)<br>
+cars, refined petroleum, gold, garments, broadcasting equipment (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $33.078 billion (2022 est.)<br>
 $33.957 billion (2021 est.)<br>
 $30.44 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $688.434 billion (2019 est.)<br>

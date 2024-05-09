@@ -309,7 +309,7 @@ _elections/appointments_: the monarchy is hereditary but can be removed by a two
 **Legislative branch**<br>
 _description_: bicameral Parliament or Chi Tshog consists of:<br>non-partisan National Council or Gyelyong Tshogde (25 seats; 20 members directly elected in single-seat constituencies by simple majority vote and 5 members appointed by the king; members serve 5-year terms)<br> National Assembly or Tshogdu (47 seats; members directly elected in single-seat constituencies in a two-round system; in the primary round, contesting political parties are directly selected by simple majority vote; in the main round, the two top parties in the primary round field candidates who are directly elected by simple majority vote; members serve 5-year terms)<br>
 _elections_: National Council - last held on 20 April 2023 (next to be held in 2028)<br>National Assembly - first round held on 30 November 2023 with a runoff on 9 January 2024 (next to be held in 2028)<br>
-_election results_: National Council - seats by party - independent 20 (all candidates ran as independents) and 5 appointed by the king; composition as of February 2024 - men 22, women 3, percentage women 12%<br><br>National Assembly - percent of vote by party in first round - PDP 42.5%, BTP 19.6%, DPT 14.9%, DNT 13.1% DTT 9.8%; percent of vote in second round - PDP 55%, BTP 45%; seats by party PDP 30, BTP 17; composition as of February 2024 - men 45, women 2, percentage women 4.3%; total percentage women in Parliament 6.9%<br>
+_election results_: National Council - seats by party - independent 20 (all candidates ran as independents) and 5 appointed by the king; composition - men 22, women 3, percentage women 12%<br><br>National Assembly - percent of vote by party in first round - PDP 42.5%, BTP 19.6%, DPT 14.9%, DNT 13.1% DTT 9.8%; percent of vote in second round - PDP 55%, BTP 45%; seats by party PDP 30, BTP 17; composition - men 45, women 2, percentage women 4.3%; total percentage women in Parliament 6.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 4 associate&nbsp;justices); note - the Supreme Court has sole jurisdiction in constitutional matters<br>
@@ -354,29 +354,29 @@ hydropower investments spurring economic development; Gross National Happiness e
 $9.015 billion (2021 est.)<br>
 $8.634 billion (2020 est.)<br>
 $9.616 billion (2019 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.42% (2021 est.)<br>
 -10.22% (2020 est.)<br>
 5.76% (2019 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $11,600 (2021 est.)<br>
 $11,200 (2020 est.)<br>
 $12,500 (2019 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $2.768 billion (2021 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5.64% (2022 est.)<br>
 7.35% (2021 est.)<br>
 5.63% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 16.2% (2017 est.)<br>
@@ -392,24 +392,25 @@ _exports of goods and services_: 26% (2017 est.)<br>
 _imports of goods and services_: -48% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, rice, maize, potatoes, roots/tubers, oranges, areca nuts, chillies/peppers, spices, ginger<br>
+milk, rice, root vegetables, potatoes, maize, oranges, areca nuts, chilies/peppers, pumpkins/squash, bison milk (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 cement, wood products, processed fruits, alcoholic beverages, calcium carbide, tourism<br>
 
 **Industrial production growth rate**<br>
 3.94% (2021 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 426,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.95% (2022 est.)<br>
 4.8% (2021 est.)<br>
 5.03% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 18.8% (2021 est.)<br>
@@ -418,22 +419,22 @@ _female_: 22%<br>
 
 **Population below poverty line**<br>
 12.4% (2022 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 28.5 (2022 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6%<br>
 _highest 10%_: 22.7% (2022 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 2.65% of GDP (2021 est.)<br>
 3.39% of GDP (2020 est.)<br>
 2.07% of GDP (2019 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $710 million (2020 est.)<br>
@@ -447,11 +448,11 @@ _expenditures_: $777 million (2020 est.)<br>
 111.01% of GDP (2020 est.)<br>
 90.36% of GDP (2019 est.)<br>
 95.85% of GDP (2018 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 12.28% (of GDP) (2020 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
@@ -460,37 +461,41 @@ note: central government tax revenue as a % of GDP<br>
 -$852.583 million (2022 est.)<br>
 -$321.535 million (2021 est.)<br>
 -$381.153 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $791.08 million (2022 est.)<br>
 $741.602 million (2021 est.)<br>
 $786.681 million (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-India 94% (2019)<br>
+India 88%, Italy 5%, Nepal 2%, Colombia 2%, Singapore 1% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-iron alloys, dolomite, aircraft, cement, gypsum (2021)<br>
+iron alloys, dolomite, gypsum, cement, electricity (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $1.588 billion (2022 est.)<br>
 $1.027 billion (2021 est.)<br>
 $1.188 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-India 85%, Thailand 5% (2019)<br>
+India 75%, China 12%, Indonesia 5%, Thailand 2%, Singapore 1% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, iron products, delivery trucks, cars, wood charcoal (2019)<br>
+computers, refined petroleum, electrical machinery, coke, wood charcoal (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $976.26 million (2021 est.)<br>
 $1.427 billion (2020 est.)<br>
 $1.238 billion (2019 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2.671 billion (31 December 2017 est.)<br>

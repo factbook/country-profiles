@@ -413,29 +413,29 @@ lower middle-income Sub-Saharan economy; major copper exporter; high public debt
 $67.377 billion (2022 est.)<br>
 $64.016 billion (2021 est.)<br>
 $60.259 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 5.25% (2022 est.)<br>
 6.23% (2021 est.)<br>
 -2.79% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $3,400 (2022 est.)<br>
 $3,300 (2021 est.)<br>
 $3,200 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $29.164 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 10.99% (2022 est.)<br>
 22.02% (2021 est.)<br>
 15.73% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: RD (2020)<br>
@@ -457,24 +457,25 @@ _exports of goods and services_: 43% (2017 est.)<br>
 _imports of goods and services_: -44.9% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, cassava, maize, milk, vegetables, soybeans, beef, tobacco, wheat, groundnuts<br>
+sugarcane, cassava, maize, milk, soybeans, vegetables, wheat, groundnuts, beef, sweet potatoes (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 copper mining and processing, emerald mining, construction, foodstuffs, beverages, chemicals, textiles, fertilizer, horticulture<br>
 
 **Industrial production growth rate**<br>
 -2.23% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 6.827 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.37% (2022 est.)<br>
 5.2% (2021 est.)<br>
 6.03% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 26.1% (2021 est.)<br>
@@ -483,22 +484,22 @@ _female_: 25.4%<br>
 
 **Population below poverty line**<br>
 54.4% (2015 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 55.9 (2015 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.1%<br>
 _highest 10%_: 43.5% (2015 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.83% of GDP (2022 est.)<br>
 1.08% of GDP (2021 est.)<br>
 0.74% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $4.758 billion (2019 est.)<br>
@@ -511,11 +512,11 @@ _expenditures_: $7.044 billion (2019 est.)<br>
 71.41% of GDP (2021 est.)<br>
 103.7% of GDP (2020 est.)<br>
 61.93% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 16.78% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -524,37 +525,41 @@ calendar year<br>
 $1.067 billion (2022 est.)<br>
 $2.63 billion (2021 est.)<br>
 $2.174 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $12.444 billion (2022 est.)<br>
 $11.728 billion (2021 est.)<br>
 $8.558 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Switzerland 32%, China 14%, Namibia 12%, Democratic Republic of the Congo 9%, Singapore 8% (2020)<br>
+Switzerland 30%, China 18%, Democratic Republic of the Congo 10%, Pitcairn Islands 10%, UAE 7% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-copper, gold, gemstones, tobacco, cement (2020)<br>
+raw copper, refined copper, gold, precious stones, iron alloys (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $10.022 billion (2022 est.)<br>
 $7.691 billion (2021 est.)<br>
 $5.836 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-South Africa 31%, China 16%, United Arab Emirates 9%, Democratic Republic of the Congo 6%, India 5% (2020)<br>
+South Africa 26%, Equatorial Guinea 18%, China 14%, UAE 7%, Democratic Republic of the Congo 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-copper, petroleum, fertilizers, packaged medicines, delivery trucks (2020)<br>
+fertilizers, refined petroleum, trucks, copper ore, packaged medicine (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $2.968 billion (2022 est.)<br>
 $2.754 billion (2021 est.)<br>
 $1.203 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $11.66 billion (31 December 2017 est.)<br>

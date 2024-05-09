@@ -319,7 +319,7 @@ $10.89 billion (2016 est.)<br>
 3.5% (2022 est.)<br>
 -2.1% (2021 est.)<br>
 -2.4% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $35,700 (2021 est.)<br>
@@ -328,13 +328,13 @@ $32,100 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $9.623 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1.4% (2017 est.)<br>
 0.58% (2016 est.)<br>
 0.57% (2015 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.4% (2017 est.)<br>
@@ -350,24 +350,25 @@ _exports of goods and services_: 18.7% (2017 est.)<br>
 _imports of goods and services_: -45.5% (2017 est.)<br>
 
 **Agricultural products**<br>
-coconuts, vegetables, maize, fruit, beef, pork, potatoes, bananas, eggs, yams<br>
+coconuts, vegetables, fruits, maize, beef, pork, eggs, yams, bananas, mangoes/guavas (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 nickel mining and smelting<br>
 
 **Industrial production growth rate**<br>
 4.3% (2014 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 119,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 11.03% (2022 est.)<br>
 12.55% (2021 est.)<br>
 13.56% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 41% (2021 est.)<br>
@@ -377,15 +378,11 @@ _female_: 43.2%<br>
 **Population below poverty line**<br>
 17% (2008)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 6.45% of GDP (2022 est.)<br>
 6.17% of GDP (2021 est.)<br>
 6.57% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.995 billion (2015 est.)<br>
@@ -408,29 +405,35 @@ calendar year<br>
 -$654.237 million (2016 est.)<br>
 -$1.119 billion (2015 est.)<br>
 -$1.3 billion (2014 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $1.92 billion (2021 est.)<br>
 $1.8 billion (2020 est.)<br>
 $1.79 billion (2019 est.)<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 55%, South Korea 16%, Japan 11%, Taiwan 4%, Spain 3% (2021)<br>
+China 62%, South Korea 14%, Japan 12%, Taiwan 2%, Spain 2% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-iron alloys, nickel, essential oils, recreational boats, shrimp (2021)<br>
+iron alloys, nickel ore, nickel, aircraft, essential oils (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $2.26 billion (2021 est.)<br>
 $2.1 billion (2020 est.)<br>
 $2.48 billion (2019 est.)<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-France 39%, Australia 14%, Singapore 11%, New Zealand 7%, China 7% (2021)<br>
+France 30%, Australia 22%, Singapore 13%, China 6%, Malaysia 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, coal, cars, packaged medicines, delivery trucks (2021)<br>
+refined petroleum, coal, cars, packaged medicine, trucks (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Debt - external**<br>
 $112 million (31 December 2013 est.)<br>

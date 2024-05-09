@@ -308,7 +308,7 @@ _election results_: <br><em>2023: </em>Christine KANGALOO elected president by t
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (31 seats; 16 members appointed by the ruling party, 9 by the president, and 6 by the opposition party; members serve 5-year terms;)<br>House of Representatives (42 seats; 41 members directly elected in single-seat constituencies by simple majority vote and the house speaker - usually designated from outside Parliament; members serve 5-year terms)<br>
 _elections_: Senate - last appointments on 28 August 2020 (next appointments in August 2025)<br>House of Representatives - last held on 10 August 2020 (next to be held in 2025)<br>
-_election results_: Senate - percent by party - NA; seats by party - PNM 16, UNC 6, independent 9; composition as of February 2024 - men 19, women 13, percentage women 40.6%<br><br>House of Representatives - percent by party - NA; seats by party - PNM 23, UNC 19; composition as of February 2024 - men 30, women 12, percentage women 28.6%; total Parliament percentage women 33.8%<br>
+_election results_: Senate - percent by party - NA; seats by party - PNM 16, UNC 6, independent 9; composition - men 19, women 13, percentage women 40.6%<br><br>House of Representatives - percent by party - NA; seats by party - PNM 23, UNC 19; composition - men 30, women 12, percentage women 28.6%; total Parliament percentage women 33.8%<br>
 <strong>note:</strong> Tobago has a unicameral House of Assembly (19 seats; 15 assemblymen directly elected by simple majority vote and 4 appointed councilors - 3 on the advice of the chief secretary and 1 on the advice of the minority leader; members serve 4-year terms)<br>
 
 **Judicial branch**<br>
@@ -358,29 +358,29 @@ high-income Caribbean economy; major hydrocarbon exporter; key tourism and finan
 $35.667 billion (2022 est.)<br>
 $35.146 billion (2021 est.)<br>
 $35.514 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.48% (2022 est.)<br>
 -1.04% (2021 est.)<br>
 -9.08% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $23,300 (2022 est.)<br>
 $23,000 (2021 est.)<br>
 $23,400 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $30.054 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5.83% (2022 est.)<br>
 2.06% (2021 est.)<br>
 0.6% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Ba1 (2017)<br>
@@ -401,24 +401,25 @@ _exports of goods and services_: 45.4% (2017 est.)<br>
 _imports of goods and services_: -48.7% (2017 est.)<br>
 
 **Agricultural products**<br>
-poultry, fruit, coconuts, citrus fruit, milk, plantains, maize, oranges, eggs, gourds<br>
+chicken, fruits, coconuts, citrus fruits, plantains, maize, eggs, oranges, tomatoes, bananas (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 petroleum and petroleum products, liquefied natural gas, methanol, ammonia, urea, steel products, beverages, food processing, cement, cotton textiles<br>
 
 **Industrial production growth rate**<br>
 3.18% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 675,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.81% (2022 est.)<br>
 4.45% (2021 est.)<br>
 4.21% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 12.7% (2021 est.)<br>
@@ -428,15 +429,11 @@ _female_: 12.6%<br>
 **Population below poverty line**<br>
 20% (2014 est.)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 0.68% of GDP (2022 est.)<br>
 0.96% of GDP (2021 est.)<br>
 0.93% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $4.939 billion (2020 est.)<br>
@@ -451,7 +448,7 @@ _expenditures_: $7.528 billion (2020 est.)<br>
 
 **Taxes and other revenues**<br>
 16.55% (of GDP) (2019 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
@@ -460,37 +457,41 @@ note: central government tax revenue as a % of GDP<br>
 $5.382 billion (2022 est.)<br>
 $2.695 billion (2021 est.)<br>
 -$1.356 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $17.584 billion (2022 est.)<br>
 $11.542 billion (2021 est.)<br>
 $6.44 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 37%, Guyana 6%, China 5%, Mexico 4%, Belgium 4% (2021)<br>
+US 35%, Belgium 6%, Morocco 5%, Spain 4%, Brazil 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-ammonia, industrial alcohols, natural gas, crude petroleum, iron products, fertilizers, refined petroleum (2021)<br>
+ammonia, natural gas, crude petroleum, acyclic alcohols, fertilizers (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $10.694 billion (2022 est.)<br>
 $8.636 billion (2021 est.)<br>
 $6.785 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 37%, China 9%, Mexico 6%, Brazil 5%, Canada 4% (2021)<br>
+US 40%, China 9%, Italy 7%, Brazil 4%, Canada 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, iron, excavation machinery, ships, cars (2021)<br>
+refined petroleum, iron ore, cars, plastic products, excavation machinery (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $6.832 billion (2022 est.)<br>
 $6.88 billion (2021 est.)<br>
 $6.954 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $8.238 billion (31 December 2017 est.)<br>

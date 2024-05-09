@@ -332,7 +332,7 @@ _election results_: <em>2023: </em>THARMAN Shanmugaratnam elected president; per
 **Legislative branch**<br>
 _description_: unicameral Parliament (104 seats statutory, 103 current term; 93 members directly elected by simple majority popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members increased to 12 for the 2020 election for the first time<br>
 _elections_: last held on 10 July 2020 (next must be held by 24 November 2025)<br>
-_election results_: <br>percent of vote by party - PAP 89.2%, WP 10.6%, other 0.2%; seats by party - PAP 83, WP 10; composition as of February 2024 - men 70, women 29, percentage women 29.3%<br>
+_election results_: <br>percent of vote by party - PAP 89.2%, WP 10.6%, other 0.2%; seats by party - PAP 83, WP 10; composition - men 70, women 29, percentage women 29.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (although the number of judges varies - as of April 2019,&nbsp;the court&nbsp;totaled 20 judges, 7 judicial commissioners, 4 judges of appeal, and 16 international judges); the court is organized into an upper tier Appeal Court and a lower tier High Court<br>
@@ -387,29 +387,29 @@ high-income, service-based Southeast Asian economy; renowned for financial marke
 $609.002 billion (2022 est.)<br>
 $587.573 billion (2021 est.)<br>
 $539.641 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.65% (2022 est.)<br>
 8.88% (2021 est.)<br>
 -3.9% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $108,000 (2022 est.)<br>
 $107,700 (2021 est.)<br>
 $94,900 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $466.788 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 6.12% (2022 est.)<br>
 2.3% (2021 est.)<br>
 -0.18% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (2003)<br>
@@ -431,32 +431,30 @@ _exports of goods and services_: 173.3% (2017 est.)<br>
 _imports of goods and services_: -149.1% (2017 est.)<br>
 
 **Agricultural products**<br>
-poultry, eggs, vegetables, pork, duck meat, spinach, pig offals, bird eggs, pig fat, cabbages<br>
+chicken, eggs, pork, vegetables, duck, spinach, pork offal, pork fat, cabbages, lettuce (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 electronics, chemicals, financial services, oil drilling equipment, petroleum refining, biomedical products, scientific instruments, telecommunication equipment, processed food and beverages, ship repair, offshore platform construction, entrepot trade<br>
 
 **Industrial production growth rate**<br>
 2.9% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 3.541 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.59% (2022 est.)<br>
 4.64% (2021 est.)<br>
 4.1% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.1% (2021 est.)<br>
 _male_: 7%<br>
 _female_: 11.8%<br>
-
-**Population below poverty line**<br>
-NA<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 45.9 (2017)<br>
@@ -473,7 +471,7 @@ _highest 10%_: 27.5% (2017)<br>
 0% of GDP (2022 est.)<br>
 0% of GDP (2021 est.)<br>
 0% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $59.974 billion (2020 est.)<br>
@@ -487,11 +485,11 @@ _expenditures_: $90.264 billion (2020 est.)<br>
 153.8% of GDP (2021 est.)<br>
 152.04% of GDP (2020 est.)<br>
 127.85% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 13.12% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
@@ -500,37 +498,41 @@ note: central government tax revenue as a % of GDP<br>
 $90.239 billion (2022 est.)<br>
 $76.374 billion (2021 est.)<br>
 $57.316 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $870.806 billion (2022 est.)<br>
 $781.068 billion (2021 est.)<br>
 $634.034 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 16%, Hong Kong 16%, United States 8%, Malaysia 9%, Indonesia 5% (2021)<br>
+Hong Kong 14%, China 13%, Malaysia 9%, US 8%, Indonesia 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-integrated circuits, refined petroleum, gold, packaged medicines, appliances, photo lab equipment (2021)<br>
+integrated circuits, refined petroleum, machinery, gold, gas turbines (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $701.629 billion (2022 est.)<br>
 $631.615 billion (2021 est.)<br>
 $525.324 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 15%, Malaysia 14%, Taiwan 9%, United States 9%, Japan 5% (2021)<br>
+China 17%, Malaysia 13%, US 10%, Taiwan 9%, South Korea 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-integrated circuits, refined petroleum, crude petroleum, gold, gas turbines (2021)<br>
+integrated circuits, refined petroleum, crude petroleum, gold, machinery (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $296.629 billion (2022 est.)<br>
 $425.098 billion (2021 est.)<br>
 $369.834 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1,557,646,000,000 (2019 est.)<br>

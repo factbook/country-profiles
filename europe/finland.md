@@ -346,7 +346,7 @@ _election results_: <em>2024:  </em>Alexander STUBB elected in the second round
 **Legislative branch**<br>
 _description_: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms)<br>
 _elections_: last held on 2 April 2023 (next to be held on 30 April 2027)<br>
-_election results_: percent of vote by party/coalition - Kok 24%, PS 23%, SDP 21.5%. Center Party 11.5%, Vihr 6.5%, Vas 5.5%, SFP 4.5%, KD 2.5%, Aland 0.5%; Movement Now 0.5%; seats by party/coalition - Kok 48, PS 46, SDP 43, Center Party 23, Vihr 13, Vas 11, SFP 9, KD 5; Aland 1; Movement Now 1; composition as of February 2024 - men 108, women 92, percentage women 46%<br>
+_election results_: percent of vote by party/coalition - Kok 24%, PS 23%, SDP 21.5%. Center Party 11.5%, Vihr 6.5%, Vas 5.5%, SFP 4.5%, KD 2.5%, Aland 0.5%; Movement Now 0.5%; seats by party/coalition - Kok 48, PS 46, SDP 43, Center Party 23, Vihr 13, Vas 11, SFP 9, KD 5; Aland 1; Movement Now 1; composition - men 108, women 92, percentage women 46%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Korkein Oikeus (consists of the court president and 18 judges); Supreme Administrative Court (consists of 21 judges, including the court president and organized into 3 chambers); note - Finland has a dual judicial system - courts with civil and criminal jurisdiction and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities<br>
@@ -354,7 +354,7 @@ _judge selection and term of office_: Supreme Court and Supreme Administrative C
 _subordinate courts_: 6 Courts of Appeal; 8 regional administrative courts; 27 district courts; special courts for issues relating to markets, labor, insurance, impeachment, land, tenancy, and water rights<br>
 
 **Political parties and leaders**<br>
-Aland Coalition (a coalition of several political parties on the Aland Islands)<br>Center Party or Kesk [Annika SAARIKKO]<br>Christian Democrats or KD [Sari ESSAYAH]<br>Finns Party or PS [Riikka PURRA]<br>Green League or Vihr [Sofia VIRTA]<br>Left Alliance or Vas [Li ANDERSSON]<br>Movement Now or Liike Nyt [Harry HARKINO]<br>National Coalition Party or Kok [Petteri ORPO]<br>Social Democratic Party or SDP [Sanna MARIN]<br>Swedish People's Party or RKP or SFP [Anna-Maja HENRIKSSON]<br>
+Aland Coalition (a coalition of several political parties on the Aland Islands)<br>Center Party or Kesk [Annika SAARIKKO]<br>Christian Democrats or KD [Sari ESSAYAH]<br>Finns Party or PS [Riikka PURRA]<br>Green League or Vihr [Sofia VIRTA]<br>Left Alliance or Vas [Li ANDERSSON]<br>Movement Now or Liike Nyt [Harry HARKIMO]<br>National Coalition Party or Kok [Petteri ORPO]<br>Social Democratic Party or SDP [Antti LINDTMAN]<br>Swedish People's Party or RKP or SFP [Anna-Maja HENRIKSSON]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNOOSA, UNRWA, UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -399,29 +399,29 @@ highly industrialized, export-based EU economy and euro user; high per capita GD
 $274.576 billion (2022 est.)<br>
 $270.247 billion (2021 est.)<br>
 $261.941 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.6% (2022 est.)<br>
 3.17% (2021 est.)<br>
 -2.35% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $49,400 (2022 est.)<br>
 $48,800 (2021 est.)<br>
 $47,400 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $282.896 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 7.12% (2022 est.)<br>
 2.19% (2021 est.)<br>
 0.29% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA+ (2016)<br>
@@ -443,24 +443,25 @@ _exports of goods and services_: 38.5% (2017 est.)<br>
 _imports of goods and services_: -38.2% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, barley, oats, wheat, potatoes, sugar beets, rye, pork, poultry, beef<br>
+milk, barley, oats, wheat, potatoes, sugar beets, pork, chicken, peas, beef (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 metals and metal products, electronics, machinery and scientific instruments, shipbuilding, pulp and paper, foodstuffs, chemicals, textiles, clothing<br>
 
 **Industrial production growth rate**<br>
 0.04% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 2.846 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 6.72% (2022 est.)<br>
 7.61% (2021 est.)<br>
 7.76% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 18.1% (2021 est.)<br>
@@ -469,11 +470,11 @@ _female_: 17.1%<br>
 
 **Population below poverty line**<br>
 12.7% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 27.1 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 11.5% of household expenditures (2018 est.)<br>
@@ -482,13 +483,13 @@ _on alcohol and tobacco_: 4.3% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.9%<br>
 _highest 10%_: 22.6% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.21% of GDP (2022 est.)<br>
 0.23% of GDP (2021 est.)<br>
 0.22% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $140.643 billion (2020 est.)<br>
@@ -505,7 +506,7 @@ _expenditures_: $153.635 billion (2020 est.)<br>
 
 **Taxes and other revenues**<br>
 20.65% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -514,37 +515,41 @@ calendar year<br>
 -$7.318 billion (2022 est.)<br>
 $1.222 billion (2021 est.)<br>
 $1.734 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $127.83 billion (2022 est.)<br>
 $116.762 billion (2021 est.)<br>
 $97.42 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Germany 13%, Sweden 9%, United States 8%, Netherlands 6%, China 6% (2021)<br>
+Germany 11%, US 10%, Sweden 10%, Netherlands 7%, China 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, kaolin-coated paper, cars, lumber, stainless steel, wood pulp (2021)<br>
+paper, refined petroleum, steel, wood pulp, wood (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $134.721 billion (2022 est.)<br>
 $116.72 billion (2021 est.)<br>
 $97.037 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Germany 16%, Sweden 15%, Russia 11%, China 7%, Netherlands 7% (2021)<br>
+Sweden 15%, Germany 14%, China 8%, Norway 7%, Netherlands 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars and vehicle parts, crude petroleum, refined petroleum, broadcasting equipment, packaged medicines (2021)<br>
+crude petroleum, refined petroleum, cars, garments, electricity (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $16.036 billion (2022 est.)<br>
 $16.744 billion (2021 est.)<br>
 $13.48 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $631.549 billion (2019 est.)<br>

@@ -370,7 +370,7 @@ _elections/appointments_: the monarchy is hereditary; prime minister appointed b
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>House of Councillors or Majlis al-Mustacharine (120 seats; members indirectly elected by an electoral college of local councils, professional organizations, and labor unions; members serve 6-year terms)<br>House of Representatives or Majlis al-Nuwab (395 seats; 305 members directly elected in multi-seat constituencies by proportional representation vote and 90 directly elected in a single nationwide constituency by proportional representation vote; members serve 5-year terms); note - 60 seats reserved for women and 30 seats for those under age 40 in regional multi-seat constituencies, with the seats divided proportionally among the 12 regions by population size of the region<br>
 _elections_: House of Councillors - last held on 5 October 2021 (next to be held by 31 October 2027)<br>House of Representatives - last held on 8 September 2021 (next to be held by 30 September 2026)<br>
-_election results_: House of Councillors - percent of vote by party - NA; seats by party - RNI 27, PAM 19, PI 17, MP 12, USFP 8, UGIM 6, CDT 3, PJD 3, UC 2, UMT 2, Amal 1, FDT 1, MDS 1, PRD 1, independent 1; composition as of February 2024 - men 106, women 14, percentage women 11.7%<br><br>House of Representatives - percent of vote by party NA; seats by party - RNI 102, PAM 87, PI 81, USFP 34, MP 28, PPS 22, UC 18, PJD 13, MDS 5, other 5; composition as of February 2024 - men 299, women 96, percentage women 24.3%; total Parliament percentage women 21.4%<br>
+_election results_: House of Councillors - percent of vote by party - NA; seats by party - RNI 27, PAM 19, PI 17, MP 12, USFP 8, UGIM 6, CDT 3, PJD 3, UC 2, UMT 2, Amal 1, FDT 1, MDS 1, PRD 1, independent 1; composition - men 106, women 14, percentage women 11.7%<br><br>House of Representatives - percent of vote by party NA; seats by party - RNI 102, PAM 87, PI 81, USFP 34, MP 28, PPS 22, UC 18, PJD 13, MDS 5, other 5; composition - men 299, women 96, percentage women 24.3%; total Parliament percentage women 21.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Court of Cassation (consists of 5-judge panels organized into civil, family matters, commercial, administrative, social, and criminal sections); Constitutional Court (consists of 12 members)<br>
@@ -424,29 +424,29 @@ lower middle-income North African economy; ongoing recovery from recent drought;
 $307.442 billion (2022 est.)<br>
 $303.621 billion (2021 est.)<br>
 $281.076 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.26% (2022 est.)<br>
 8.02% (2021 est.)<br>
 -7.18% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $8,100 (2022 est.)<br>
 $8,100 (2021 est.)<br>
 $7,500 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $130.913 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 6.66% (2022 est.)<br>
 1.4% (2021 est.)<br>
 0.71% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB+ (2020)<br>
@@ -468,24 +468,25 @@ _exports of goods and services_: 37.1% (2017 est.)<br>
 _imports of goods and services_: -46.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-wheat, sugar beet, milk, potatoes, olives, tangerines/mandarins, tomatoes, oranges, barley, onions<br>
+wheat, milk, olives, sugar beets, potatoes, tomatoes, tangerines/mandarins, oranges, apples, onions (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 automotive parts, phosphate mining and processing, aerospace, food processing, leather goods, textiles, construction, energy, tourism<br>
 
 **Industrial production growth rate**<br>
 -1.7% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 12.183 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 9.99% (2022 est.)<br>
 11.22% (2021 est.)<br>
 11.73% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 27.2% (2021 est.)<br>
@@ -495,11 +496,11 @@ _female_: 28.7%<br>
 
 **Population below poverty line**<br>
 4.8% (2013 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 39.5 (2013 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 34% of household expenditures (2018 est.)<br>
@@ -508,13 +509,13 @@ _on alcohol and tobacco_: 1.4% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
 _highest 10%_: 31.9% (2013 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 8.53% of GDP (2022 est.)<br>
 7.69% of GDP (2021 est.)<br>
 6.11% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $30.697 billion (2019 est.)<br>
@@ -529,7 +530,7 @@ _expenditures_: $35.591 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 22.12% (of GDP) (2022 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -538,37 +539,41 @@ calendar year<br>
 -$4.775 billion (2022 est.)<br>
 -$3.349 billion (2021 est.)<br>
 -$1.368 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $58.556 billion (2022 est.)<br>
 $47.09 billion (2021 est.)<br>
 $37.545 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Spain 20%, France 19%, India 5%, Brazil 5%, Italy 5% (2021)<br>
+Spain 18%, France 17%, India 6%, Italy 5%, Brazil 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cars, fertilizers, insulated wiring, phosphoric acid, clothing and apparel (2021)<br>
+fertilizers, cars, garments, insulated wire, phosphoric acid (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $73.783 billion (2022 est.)<br>
 $60.215 billion (2021 est.)<br>
 $46.358 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Spain 19%, France 11%, China 9%, United States 7%, Germany 5%, Turkey 5%, Italy 5% (2019)<br>
+Spain 18%, France 10%, China 10%, US 6%, Saudi Arabia 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars and vehicle parts, natural gas, wheat, coal (2021)<br>
+refined petroleum, wheat, natural gas, coal, vehicle parts/accessories (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $32.314 billion (2022 est.)<br>
 $35.648 billion (2021 est.)<br>
 $35.998 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $52.957 billion (2019 est.)<br>

@@ -351,7 +351,7 @@ _elections/appointments_: prime minister appointed by the monarch<br>
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Majlis al-'Umma consists of:<br>Senate or the House of Notables or Majlis al-Ayan (65 seats; members appointed by the monarch to serve 4-year terms)<br>Chamber of Deputies or House of Representatives or Majlis al-Nuwaab (130 seats; 115 members directly elected in 23 multi-seat constituencies by open-list proportional representation vote and 15 seats for women; 12 of the 115 seats reserved for Christian, Chechen, and Circassian candidates; members serve 4-year terms)<br>
 _elections_: Senate - last appointments on 27 Sep 2020 (next to be held by November 2024)<br>Chamber of Deputies - last held on 10 November 2020 (next to be held by November 2024)<br>
-_election results_: Senate - composition as of March 2024 - men 55, women 10, percent of women 15.4%<br><em><br></em>Chamber of Deputies; note - tribal, centrist, and pro-government candidates dominated the election; the Islamic Action Front, the political wing of the Muslim Brotherhood, garnered only 10 seats, down from 15 in the previous election; women, who are guaranteed 15 seats by Jordan’s legislative quota system, won 16 seats, down from 20 seats won in the previous election; composition as of March 2024 - men 113, women 17, percentage women 13.1%; note - total National Assembly percentage women 13.8%<br> <p> </p><br>
+_election results_: Senate - composition - men 55, women 10, percent of women 15.4%<br><em><br></em>Chamber of Deputies; note - tribal, centrist, and pro-government candidates dominated the election; the Islamic Action Front, the political wing of the Muslim Brotherhood, garnered only 10 seats, down from 15 in the previous election; women, who are guaranteed 15 seats by Jordan’s legislative quota system, won 16 seats, down from 20 seats won in the previous election; composition - men 113, women 17, percentage women 13.1%; note - total National Assembly percentage women 13.8%<br> <p> </p><br>
 note: in 2022, a new electoral law - effective for the anticipated 2024 election - will increase the total number of Chamber of Deputies' seats to 138 from 130; 97 members to be directly elected from multi-seat geographic districts by open list proportional representation vote, with over 7 percent of total votes needed to gain a seat, and 41 members to be directly elected from a single national district by closed party-list proportional representation vote, with over a 2.5 percent of total votes needed to gain a seat<br>
 
 **Judicial branch**<br>
@@ -404,29 +404,29 @@ low growth, upper middle-income Middle Eastern economy; high debt and unemployme
 $107.11 billion (2022 est.)<br>
 $104.571 billion (2021 est.)<br>
 $100.883 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.43% (2022 est.)<br>
 3.66% (2021 est.)<br>
 -1.1% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $9,500 (2022 est.)<br>
 $9,400 (2021 est.)<br>
 $9,200 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $48.653 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4.23% (2022 est.)<br>
 1.35% (2021 est.)<br>
 0.33% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2019)<br>
@@ -448,24 +448,25 @@ _exports of goods and services_: 34.2% (2017 est.)<br>
 _imports of goods and services_: -58% (2017 est.)<br>
 
 **Agricultural products**<br>
-tomatoes, poultry, olives, milk, potatoes, cucumbers, vegetables, watermelons, green chillies/peppers, peaches/nectarines<br>
+tomatoes, milk, chicken, potatoes, cucumbers/gherkins, olives, watermelons, peaches/nectarines, sheep milk, chilies/peppers (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, information technology, clothing, fertilizer, potash, phosphate mining, pharmaceuticals, petroleum refining, cement, inorganic chemicals, light manufacturing<br>
 
 **Industrial production growth rate**<br>
 3.33% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 3.009 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 19.19% (2022 est.)<br>
 19.84% (2021 est.)<br>
 19.21% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 40.5% (2021 est.)<br>
@@ -474,7 +475,7 @@ _female_: 53.8%<br>
 
 **Population below poverty line**<br>
 15.7% (2018 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33.7 (2010 est.)<br>
@@ -491,7 +492,7 @@ _highest 10%_: 28.7% (2010 est.)<br>
 10.28% of GDP (2022 est.)<br>
 11.15% of GDP (2021 est.)<br>
 11.17% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $10.813 billion (2019 est.)<br>
@@ -504,11 +505,11 @@ _expenditures_: $13.489 billion (2019 est.)<br>
 75.97% of GDP (2020 est.)<br>
 79.35% of GDP (2019 est.)<br>
 75.38% of GDP (2017 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 15.98% (of GDP) (2020 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -517,37 +518,41 @@ calendar year<br>
 -$4.159 billion (2022 est.)<br>
 -$3.718 billion (2021 est.)<br>
 -$2.505 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $20.335 billion (2022 est.)<br>
 $13.87 billion (2021 est.)<br>
 $10.444 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 26%, India 13%, Saudi Arabia 11%, Iraq 5%, China 4% (2021)<br>
+US 20%, India 14%, Saudi Arabia 7%, China 6%, Iraq 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-fertilizers, clothing and apparel, calcium phosphates, phosphoric acid, packaged medicines (2021)<br>
+fertilizers, garments, phosphates, jewelry, phosphoric acid (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $29.955 billion (2022 est.)<br>
 $23.321 billion (2021 est.)<br>
 $18.424 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 17%, Saudi Arabia 14%, United Arab Emirates 11%, United States 5%, Turkey 3% (2021)<br>
+China 17%, UAE 12%, Saudi Arabia 12%, India 6%, US 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, refined petroleum, gold, crude petroleum, clothing and apparel, broadcasting equipment, packaged medicines (2021)<br>
+refined petroleum, cars, gold, crude petroleum, jewelry (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $15.56 billion (31 December 2017 est.)<br>
 $15.543 billion (2016 est.)<br>
 $16.572 billion (2015 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $32.088 billion (2019 est.)<br>

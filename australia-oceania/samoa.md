@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-The first Austronesian settlers arrived in Samoa around 1000 B.C., and early Samoans traded and intermarried with Fijian and Tongan nobility. The fa’amatai system of titles and nobility developed, which dominates Samoan politics to this day; all but two seats in the legislature are reserved for matai, or heads of families. Dutch explorer Jacob ROGGEVEEN was the first European to spot the islands in 1722. Christian missionaries arrived in the 1830s, converting most of the population. In the 1850s, Apia became a center for Pacific trading and hosted an American commercial agent and British and German consuls. In 1892, American traders convinced the Samoan king to align his country’s date with the US, moving to the east of the International Date Line.<br><br>Following the death of the Samoan king in 1841, rival families competed for his titles, devolving into civil war in 1886 with factions getting support from either Germany, the UK, or the US. All three countries sent warships to Apia in 1889, presaging a larger war, but a cyclone destroyed the ships and Malietoa LAUPEPA was installed as king. Upon LAUPEPA’s death in 1898, a second civil war over succession broke out. The war ended in 1899 and the Western powers abolished the monarchy, giving the western Samoan islands to Germany and the eastern Samoan islands to the US. The UK abandoned claims in Samoa and received former German territory in the Solomon Islands.<br><br>The Mau, a non-violent popular movement to advocate for Samoan independence, formed in 1908. New Zealand annexed Samoa in 1914 after the outbreak of World War I. Opposition to New Zealand’s rule quickly grew. In 1918, a New Zealand ship introduced the Spanish flu, infecting 90% of the population and killing more than 20%. In 1929, New Zealand police shot into a crowd of peaceful protestors, killing 11, in an event known as Black Sunday. In 1962, Samoa became the first Polynesian nation to reestablish its independence as Western Samoa but dropped the “Western” from its name in 1997. The Human Rights Protection Party dominated politics from 1982 until current Prime Minister FIAME Naomi Mata'afa's Fa'atuatua i le Atua Samoa ua Tasi or FAST party gained a majority in elections in 2021.<br><br>In the late 2000s, Samoa began making efforts to align more closely with Australia and New Zealand. In 2009, Samoa changed its driving orientation to the left side of the road, in line with other Commonwealth countries. In 2011, Samoa jumped forward one day - skipping December 30 - by moving to the west side of the International Date Line so that it was one hour ahead of New Zealand and three hours ahead of the east coast of Australia, rather than 23 and 21 hours behind, respectively.<br>
+The first Austronesian settlers arrived in Samoa around 1000 B.C., and early Samoans traded and intermarried with Fijian and Tongan nobility. The <em>fa’amatai</em> system of titles and nobility developed, which dominates Samoan politics to this day; all but two seats in the legislature are reserved for <em>matai</em>, or heads of families. Dutch explorer Jacob ROGGEVEEN was the first European to spot the islands in 1722. Christian missionaries arrived in the 1830s and converted most of the population. In the 1850s, Apia became a center for Pacific trading and hosted an American commercial agent and British and German consuls. In 1892, American traders convinced the Samoan king to place his country to the east of the International Date Line to align with the US.<br><br>After the Samoan king died in 1841, rival families competed for his titles, devolving into civil war in 1886 with factions getting support from either Germany, the UK, or the US. All three countries sent warships to Apia in 1889, presaging a larger war, but a cyclone destroyed the ships and Malietoa LAUPEPA was installed as king. Upon LAUPEPA’s death in 1898, a second civil war over succession broke out. When the war ended in 1899, the Western powers abolished the monarchy, giving the western Samoan islands to Germany and the eastern Samoan islands to the US. The UK abandoned claims in Samoa and received former German territory in the Solomon Islands.<br><br>The Mau, a non-violent popular movement to advocate for Samoan independence, formed in 1908. New Zealand annexed Samoa in 1914 after the outbreak of World War I. Opposition to New Zealand’s rule quickly grew. In 1918, a New Zealand ship introduced the Spanish flu, infecting 90% of the population and killing more than 20%. In 1929, New Zealand police shot into a crowd of peaceful protestors, killing 11, in an event known as Black Sunday. In 1962, Samoa became the first Polynesian nation to reestablish its independence as Western Samoa but dropped the “Western” from its name in 1997. The Human Rights Protection Party dominated politics from 1982 until current Prime Minister FIAME Naomi Mata'afa's Fa'atuatua i le Atua Samoa ua Tasi (FAST) party gained a majority in elections in 2021.<br><br>In the late 2000s, Samoa began making efforts to align more closely with Australia and New Zealand. In 2009, Samoa changed its driving orientation to the left side of the road, in line with other Commonwealth countries. In 2011, Samoa jumped forward one day -- skipping December 30 -- by moving back to the west side of the International Date Line, putting the country one hour ahead of New Zealand and three hours ahead of the east coast of Australia, rather than 23 and 21 hours behind, respectively.<br>
 
 ## Geography
 
@@ -315,7 +315,7 @@ _election results_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi II (independent) u
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Fono (53 seats statutory, 54 (2021-25 term); members from single-seat constituencies directly elected by simple majority vote, with a minimum 10% representation of women in the Assembly required; members serve 5-year terms)<br>
 _elections_: election last held on 9 April 2021 (next election to be held in 2026)<br>
-_election results_: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independent 5%; seats by party – 35 FAST, HRPP 18, independent 1; composition as of 1 April 2024 - men 47, women 7, percentage women 13%<br><br><strong>note:</strong> on 29 November 2021, the Election Commissioner added two seats for women to the National Assembly, bringing the HRPP’s total from 20 to 22 seats<br><strong><br></strong><br>
+_election results_: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independent 5%; seats by party – 35 FAST, HRPP 18, independent 1; composition - men 47, women 7, percentage women 13%<br><br><strong>note:</strong> on 29 November 2021, the Election Commissioner added two seats for women to the National Assembly, bringing the HRPP’s total from 20 to 22 seats<br><strong><br></strong><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and 2 Supreme Court judges and meets once or twice a year); Supreme Court (consists of the chief justice and several judges)<br>
@@ -365,29 +365,29 @@ ower middle-income Pacific island economy; enormous fishing and agriculture indu
 $1.147 billion (2022 est.)<br>
 $1.211 billion (2021 est.)<br>
 $1.303 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -5.31% (2022 est.)<br>
 -7.08% (2021 est.)<br>
 -3.11% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $5,200 (2022 est.)<br>
 $5,500 (2021 est.)<br>
 $6,100 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $832.945 million (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 10.96% (2022 est.)<br>
 3.13% (2021 est.)<br>
 -1.57% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 10.4% (2017 est.)<br>
@@ -403,24 +403,25 @@ _exports of goods and services_: 27.2% (2015 est.)<br>
 _imports of goods and services_: -50.5% (2015 est.)<br>
 
 **Agricultural products**<br>
-coconuts, taro, bananas, yams, tropical fruit, pineapples, mangoes/guavas, papayas, roots/tubers, pork<br>
+coconuts, taro, bananas, tropical fruits, pineapples, mangoes/guavas, papayas, root vegetables, milk, pork (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 food processing, building materials, auto parts<br>
 
 **Industrial production growth rate**<br>
 -0.18% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 75,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 10.04% (2022 est.)<br>
 10.62% (2021 est.)<br>
 10.37% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 19.7% (2021 est.)<br>
@@ -429,22 +430,22 @@ _female_: 24.5%<br>
 
 **Population below poverty line**<br>
 21.9% (2018 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 38.7 (2013 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.7% NA<br>
-_highest 10%_: 31.3% (2013 est.) NA<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+_lowest 10%_: 2.7%<br>
+_highest 10%_: 31.3% (2013 est.)<br>
+<strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 33.61% of GDP (2022 est.)<br>
 29.44% of GDP (2021 est.)<br>
 23.5% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $313 million (2020 est.)<br>
@@ -459,7 +460,7 @@ _expenditures_: $263 million (2020 est.)<br>
 
 **Taxes and other revenues**<br>
 25.02% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 June 1 - May 31<br>
@@ -468,37 +469,41 @@ June 1 - May 31<br>
 -$78.203 million (2022 est.)<br>
 -$114.383 million (2021 est.)<br>
 -$75.732 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $171.278 million (2022 est.)<br>
 $97.774 million (2021 est.)<br>
 $116.519 million (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 20%, New Zealand 16%, American Samoa 11%, Brazil 8%, Australia 7% (2021)<br>
+India 23%, US 19%, NZ 12%, Hungary 8%, Poland 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-coconut oil, insulated wiring, refined petroleum, integrated circuits, sardines, air pumps, tuna, lemons, beer (2021)<br>
+coconut oil, integrated circuits, insulated wire, citrus, power equipment (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $512.002 million (2022 est.)<br>
 $430.011 million (2021 est.)<br>
 $376.791 million (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-New Zealand 24%, China 19%, Singapore 11%, US 8%, Australia 7% (2021)<br>
+China 25%, Singapore 16%, NZ 14%, South Korea 7%, US 7% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, poultry meats, iron, lumber, processed fish, cars (2021)<br>
+refined petroleum, coated flat-rolled iron, fish, poultry, ships (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $321.163 million (2022 est.)<br>
 $294.682 million (2021 est.)<br>
 $277.056 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $447.2 million (31 December 2013 est.)<br>

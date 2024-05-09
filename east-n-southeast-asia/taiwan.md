@@ -273,7 +273,7 @@ _election results_: <em><em>2023:</em></em> LAI Ching-te elected president; perc
 **Legislative branch**<br>
 _description_: unicameral Legislative Yuan (113 seats; 73 members directly elected in single-seat constituencies by simple majority vote, 34 directly elected in a single island-wide constituency by proportional representation vote, and 6 directly elected in multi-seat aboriginal constituencies by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 13 January 2024 (next to be held in 2028)<br>
-_election results_: percent of vote by party - DPP 40.6%, KMT 37.2%, TPP 12.6%, other 5.7%, independent 3.9%; seats by party - KMT 52, DPP 51, TPP 8, independent 2; composition as of February 2024 - men 66, women 47, percentage women 41.6%<br>
+_election results_: percent of vote by party - DPP 40.6%, KMT 37.2%, TPP 12.6%, other 5.7%, independent 3.9%; seats by party - KMT 52, DPP 51, TPP 8, independent 2; composition - men 66, women 47, percentage women 41.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president, vice president, and approximately 100 judges organized into civil and criminal panels, each with a chief justice and 4 associate justices); Constitutional Court (consists of the court president, vice president, and 13 justices)<br>
@@ -363,7 +363,8 @@ _exports of goods and services_: 65.2% (2017 est.)<br>
 _imports of goods and services_: -52.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-rice, vegetables, pork, cabbages, poultry, sugar cane, milk, eggs, pineapples, tropical fruit<br>
+rice, vegetables, pork, chicken, cabbages, sugarcane, milk, eggs, tropical fruits, pineapples (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 electronics, communications and information technology products, petroleum refining, chemicals, textiles, iron and steel, machinery, cement, food processing, vehicles, consumer products, pharmaceuticals<br>
@@ -420,10 +421,12 @@ $383.484 billion (2018 est.)<br>
 $382.736 billion (2017 est.)<br>
 
 **Exports - partners**<br>
-China 26%, United States 14%, Hong Kong 12%, Japan 7%, Singapore 7%, South Korea 5% (2019)<br>
+China 22%, US 15%, Hong Kong 12%, Singapore 7%, Japan 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-integrated circuits, office machinery/parts, computers, refined petroleum, liquid crystal displays (2019)<br>
+integrated circuits, machine parts, computers, refined petroleum, plastics (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $308.744 billion (2019 est.)<br>
@@ -431,10 +434,12 @@ $305.428 billion (2018 est.)<br>
 $303.067 billion (2017 est.)<br>
 
 **Imports - partners**<br>
-China 21%, Japan 16%, United States 11%, South Korea 6% (2019)<br>
+China 19%, Japan 12%, US 10%, South Korea 7%, Australia 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-integrated circuits, crude petroleum, photography equipment, natural gas, refined petroleum (2019)<br>
+integrated circuits, crude petroleum, machinery, natural gas, coal (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $456.7 billion (31 December 2017 est.)<br>

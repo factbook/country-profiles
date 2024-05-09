@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Indus Valley civilization, one of the oldest in the world and dating back at least 5,000 years, spread over much of what is presently Pakistan. During the second millennium B.C., remnants of this culture fused with the migrating Indo-Aryan peoples. The area underwent successive invasions in subsequent centuries from the Persians, Greeks, Scythians, Arabs (who brought Islam), Afghans, and Turks. The Mughal Empire flourished in the 16th and 17th centuries; the British came to dominate the region in the 18th century. The partition in 1947 of British India into the Muslim state of Pakistan (with West and East sections) and largely Hindu India created lasting tension between the two countries, with India and Pakistan fighting two wars and a limited conflict - in 1947-48, 1965, and 1999 respectively - over the disputed Kashmir territory, a dispute that continues to cause tensions between both countries to this day. A third war between these countries in 1971 - in which India assisted an indigenous movement reacting to the marginalization of Bengalis in Pakistani politics - resulted in East Pakistan becoming the separate nation of Bangladesh.</p> <p>In response to Indian nuclear weapons testing, Pakistan conducted its own tests in mid-1998. Pakistan has been engaged in a decades-long armed conflict with militant groups, including the Tehreek-e-Taliban Pakistan (TTP) and other militant networks, that target government institutions and civilians.</p><br>
+<p>The Indus Valley civilization, one of the oldest in the world and dating back at least 5,000 years, spread over much of modern-day Pakistan. During the second millennium B.C., remnants of this culture fused with the migrating Indo-Aryan peoples. The area underwent successive invasions in subsequent centuries from the Persians, Greeks, Scythians, Arabs (who brought Islam), Afghans, and Turks. The Mughal Empire flourished in the 16th and 17th centuries; the British came to dominate the region in the 18th century. The partition in 1947 of British India into the Muslim state of Pakistan (with West and East sections) and largely Hindu India created lasting tension between the two countries. They have fought two wars and a limited conflict -- in 1947-48, 1965, and 1999 respectively -- over the Kashmir territory, a dispute that continues to this day. A third war in 1971 -- in which India assisted an indigenous movement reacting to Bengali marginalization in Pakistani politics -- resulted in East Pakistan becoming the separate nation of Bangladesh.</p> <p>In response to Indian nuclear weapons testing, Pakistan conducted its own tests in 1998. Pakistan has been engaged in a decades-long armed conflict with militant groups, including the Tehreek-e-Taliban Pakistan (TTP) and other militant networks that target government institutions and civilians.</p><br>
 
 ## Geography
 
@@ -420,29 +420,29 @@ lower middle-income South Asian economy; extremely high debt; endemic corruption
 $1.268 trillion (2022 est.)<br>
 $1.211 trillion (2021 est.)<br>
 $1.137 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.71% (2022 est.)<br>
 6.51% (2021 est.)<br>
 -1.27% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $5,400 (2022 est.)<br>
 $5,200 (2021 est.)<br>
 $5,000 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $374.697 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 19.87% (2022 est.)<br>
 9.5% (2021 est.)<br>
 9.74% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B- (2018)<br>
@@ -464,24 +464,25 @@ _exports of goods and services_: 8.2% (2017 est.)<br>
 _imports of goods and services_: -17.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, buffalo milk, wheat, milk, rice, maize, potatoes, cotton, fruit, mangoes/guavas<br>
+sugarcane, bison milk, wheat, milk, rice, maize, potatoes, mangoes/guavas, cotton, onions (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 textiles and apparel, food processing, pharmaceuticals, surgical instruments, construction materials, paper products, fertilizer, shrimp<br>
 
 **Industrial production growth rate**<br>
 6.83% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 78.863 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.6% (2022 est.)<br>
 6.34% (2021 est.)<br>
 6.22% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.4% (2021 est.)<br>
@@ -490,11 +491,11 @@ _female_: 8.2%<br>
 
 **Population below poverty line**<br>
 21.9% (2018 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 29.6 (2018 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 39.5% of household expenditures (2018 est.)<br>
@@ -503,13 +504,13 @@ _on alcohol and tobacco_: 1.1% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.2%<br>
 _highest 10%_: 25.5% (2018 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 7.97% of GDP (2022 est.)<br>
 8.98% of GDP (2021 est.)<br>
 8.68% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $38.966 billion (2020 est.)<br>
@@ -533,37 +534,41 @@ _expenditures_: $59.621 billion (2020 est.)<br>
 -$11.998 billion (2022 est.)<br>
 -$12.283 billion (2021 est.)<br>
 -$650.874 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $38.968 billion (2022 est.)<br>
 $35.612 billion (2021 est.)<br>
 $27.333 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 14%, China 8%, Germany 7%, United Kingdom 6% (2019)<br>
+US 17%, Germany 7%, China 7%, UAE 7%, UK 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-textiles, clothing and apparel, rice, leather goods, surgical instruments (2019)<br>
+garments, fabric, cotton fabric, rice, refined petroleum (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $76.426 billion (2022 est.)<br>
 $76.514 billion (2021 est.)<br>
 $52.098 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 28%, United Arab Emirates 11%, United States 5% (2019)<br>
+China 28%, UAE 8%, Indonesia 6%, Saudi Arabia 6%, Kuwait 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, crude petroleum, natural gas, palm oil, scrap iron (2019)<br>
+refined petroleum, crude petroleum, natural gas, palm oil, cotton (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $9.927 billion (2022 est.)<br>
 $22.812 billion (2021 est.)<br>
 $18.522 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $107.527 billion (2019 est.)<br>

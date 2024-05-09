@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-Resistance by native Caribs prevented colonization on Saint Vincent until 1719. Disputed by France and the UK for most of the 18th century, the island was ceded to Britain in 1783. The British prized Saint Vincent due to its fertile soil, which allowed for thriving slave-run plantations of sugar, coffee, indigo, tobacco, cotton, and cocoa. In 1834, the British abolished slavery. Immigration of indentured servants eased the ensuing labor shortage, as did subsequent Portuguese immigrants from Madeira and East Indian laborers. Conditions remained harsh for both former slaves and immigrant agricultural workers, however, as depressed world sugar prices kept the economy stagnant until the early 1900s. The economy then went into a period of decline with many landowners abandoning their estates and leaving the land to be cultivated by liberated slaves. Between 1960 and 1962, Saint Vincent and the Grenadines was a separate administrative unit of the Federation of the West Indies. Autonomy was granted in 1969 and independence in 1979. In April 2021, the explosive eruption of the La Soufri&egrave;re volcano in the north of Saint Vincent destroyed much of Saint Vincent&rsquo;s most productive agricultural lands. Unlike most of its tourism-dependent neighbors, the Vincentian economy is primarily agricultural. The US provided $4.7 million in humanitarian support after the eruption.<br>
+Resistance from native Caribs prevented colonization on Saint Vincent until 1719. France and England disputed the island for most of the 18th century, but it was ceded to England in 1783. The British prized Saint Vincent because of its fertile soil, which allowed for thriving slave-run plantations of sugar, coffee, indigo, tobacco, cotton, and cocoa. In 1834, the British abolished slavery. Immigration of indentured servants eased the ensuing labor shortage, as did subsequent immigrant waves from Portugal and East India. Conditions remained harsh for both former slaves and immigrant agricultural workers, however, as depressed world sugar prices kept the economy stagnant until the early 1900s. The economy then went into a period of decline, with many landowners abandoning their estates and leaving the land to be cultivated by liberated slaves. <br><br>Between 1960 and 1962, Saint Vincent and the Grenadines was a separate administrative unit of the Federation of the West Indies. Autonomy was granted in 1969 and independence in 1979. In 2021, the eruption of the La Soufrière volcano in the north of Saint Vincent destroyed much of Saint Vincent’s most productive agricultural lands. Unlike most of its tourism-dependent neighbors, the Vincentian economy is primarily agricultural. <br>
 
 ## Geography
 
@@ -307,7 +307,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 **Legislative branch**<br>
 _description_: unicameral House of Assembly (23 seats; 15 representatives directly elected in single-seat constituencies by simple majority vote, 6 senators appointed by the governor general, and 2 ex officio members - the speaker of the house and the attorney general; members serve 5-year terms)<br>
 _elections_: last held on 5 November 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - ULP 49.58%, NDP 50.34%, other 0.8%; seats by party - ULP 9, NDP 6; composition as of February 2024 - men 18, women 5, percentage women 21.7%<br>
+_election results_: percent of vote by party - ULP 49.58%, NDP 50.34%, other 0.8%; seats by party - ULP 9, NDP 6; composition - men 18, women 5, percentage women 21.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Saint Vincent and the Grenadines; note - Saint Vincent and the Grenadines is also a member of the Caribbean Court of Justice<br>
@@ -351,29 +351,29 @@ upper middle-income Caribbean island economy; key agriculture and tourism sector
 $1.515 billion (2022 est.)<br>
 $1.444 billion (2021 est.)<br>
 $1.433 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.91% (2022 est.)<br>
 0.8% (2021 est.)<br>
 -3.74% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $14,600 (2022 est.)<br>
 $13,800 (2021 est.)<br>
 $13,700 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $948.559 million (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5.66% (2022 est.)<br>
 1.57% (2021 est.)<br>
 -0.63% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2014)<br>
@@ -393,42 +393,36 @@ _exports of goods and services_: 37.1% (2017 est.)<br>
 _imports of goods and services_: -51.7% (2017 est.)<br>
 
 **Agricultural products**<br>
-bananas, sugar cane, roots/tubers, plantains, vegetables, fruit, coconuts, sweet potatoes, yams, mangoes/guavas<br>
+bananas, root vegetables, plantains, vegetables, fruits, coconuts, mangoes/guavas, yams, spices, sweet potatoes (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism; food processing, cement, furniture, clothing, starch<br>
 
 **Industrial production growth rate**<br>
 11.87% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 53,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 19.55% (2022 est.)<br>
 20.46% (2021 est.)<br>
 20.68% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 41.1% (2021 est.)<br>
 _male_: 39.7%<br>
 _female_: 43.9%<br>
 
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 7.33% of GDP (2022 est.)<br>
 8.03% of GDP (2021 est.)<br>
 7.25% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $243 million (2020 est.)<br>
@@ -443,7 +437,7 @@ _expenditures_: $288 million (2020 est.)<br>
 
 **Taxes and other revenues**<br>
 23.8% (of GDP) (2017 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -452,37 +446,41 @@ calendar year<br>
 -$184.796 million (2022 est.)<br>
 -$197.723 million (2021 est.)<br>
 -$136.29 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $262.355 million (2022 est.)<br>
 $140.343 million (2021 est.)<br>
 $184.627 million (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Netherlands 45%, India 9%, United States 6%, Barbados 5%, Greece 5% (2021)<br>
+Malaysia 34%, US 10%, Greece 9%, Barbados 8%, Spain 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-recreational boats, drilling platforms, cargo ships, wheat flours, animal food, collector's items (2021)<br>
+refined petroleum, ships, fish, shellfish, wheat (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $508.404 million (2022 est.)<br>
 $425.4 million (2021 est.)<br>
 $375.036 million (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 29%, Netherlands 15%, Trinidad and Tobago 10%, China 8%, France 5% (2021)<br>
+US 40%, Trinidad and Tobago 10%, China 6%, UK 6%, Turkey 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-dredger ships, refined petroleum, floating docks, aircraft, poultry, packaged medicines (2021)<br>
+refined petroleum, poultry, ships, raw sugar, plastic products (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $320.193 million (2022 est.)<br>
 $311.903 million (2021 est.)<br>
 $205.195 million (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $362.2 million (31 December 2017 est.)<br>

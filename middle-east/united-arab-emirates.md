@@ -325,7 +325,7 @@ _election results_: <em>2022:</em> MUHAMMAD BIN ZAYID Al-Nuhayyan elected presid
 **Legislative branch**<br>
 _description_: unicameral Federal National Council (FNC) or Majlis al-Ittihad al-Watani (40 seats; 20 members indirectly elected using single non-transferable vote by an electoral college whose members are selected by each emirate ruler proportional to its FNC membership, and 20 members appointed by the rulers of the 7 constituent states; members serve 4-year terms)<br>
 _elections_: last held for indirectly elected members on 7 October 2023 (next to be held in October 2027); last held for appointed members in October 2023 (next appointments expected in late 2027)<br>
-_election results_: seats by emirate - Abu Dhabi 4, Dubai 4, Sharjah 3, Ras al-Khaimah 3, Ajman 2, Fujairah 2, Umm al-Quwain 2; composition as of February 2024 - 13 men, 7 women, percentage elected women 35%; note - to attain overall FNC gender parity, 13 women and 7 men were appointed; total FNC percentage of women 50%<br>
+_election results_: seats by emirate - Abu Dhabi 4, Dubai 4, Sharjah 3, Ras al-Khaimah 3, Ajman 2, Fujairah 2, Umm al-Quwain 2; composition - 13 men, 7 women, percentage elected women 35%; note - to attain overall FNC gender parity, 13 women and 7 men were appointed; total FNC percentage of women 50%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court (consists of the court president and 4 judges; jurisdiction limited to federal cases)<br>
@@ -379,29 +379,29 @@ historically oil-driven Middle Eastern economy; diversifying into a trade-orient
 $707.307 billion (2022 est.)<br>
 $655.823 billion (2021 est.)<br>
 $628.455 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 7.85% (2022 est.)<br>
 4.35% (2021 est.)<br>
 -4.96% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $74,900 (2022 est.)<br>
 $70,000 (2021 est.)<br>
 $67,700 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $507.064 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4.83% (2022 est.)<br>
 -0.01% (2021 est.)<br>
 -2.08% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA- (2020)<br>
@@ -423,24 +423,25 @@ _exports of goods and services_: 100.4% (2017 est.)<br>
 _imports of goods and services_: -72.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-eggs, dates, cucumbers, camel milk, goat milk, tomatoes, goat meat, milk, poultry, camel meat<br>
+dates, cucumbers/gherkins, camel milk, goat milk, tomatoes, eggs, goat meat, milk, chicken, camel meat (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 petroleum and petrochemicals; fishing, aluminum, cement, fertilizer, commercial ship repair, construction materials, handicrafts, textiles<br>
 
 **Industrial production growth rate**<br>
 8.49% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 6.589 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 2.97% (2022 est.)<br>
 3.11% (2021 est.)<br>
 4.29% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.7% (2021 est.)<br>
@@ -452,7 +453,7 @@ _female_: 19.9%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 26 (2018 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 13.7% of household expenditures (2018 est.)<br>
@@ -461,7 +462,7 @@ _on alcohol and tobacco_: 0.4% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4%<br>
 _highest 10%_: 20% (2018 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Budget**<br>
 _revenues_: $129.741 billion (2019 est.)<br>
@@ -475,11 +476,11 @@ _expenditures_: $127.262 billion (2019 est.)<br>
 19.7% of GDP (2017 est.)<br>
 20.2% of GDP (2016 est.)<br>
 1.85% of GDP (2013 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 0.54% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -489,32 +490,38 @@ $26.47 billion (2017 est.)<br>
 $13.23 billion (2016 est.)<br>
 
 **Exports**<br>
-$335.238 billion (2020 est.) note: GDP expenditure basis - exports of goods and services in current dollars<br>
-$308.5 billion (2017 est.)<br>
-$298.6 billion (2016 est.)<br>
+$335.238 billion (2020 est.)<br>
+$404.046 billion (2019 est.)<br>
+$392.863 billion (2018 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 India 13%, Japan 10%, China 8%, Saudi Arabia 7%, Iraq 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude and refined petroleum, gold, broadcasting equipment, natural gas, diamonds (2022)<br>
+crude petroleum, refined petroleum, gold, broadcasting equipment, natural gas (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$246.886 billion (2020 est.) note: GDP expenditure basis - exports of goods and services in current dollars<br>
-$229.2 billion (2017 est.)<br>
-$226.5 billion (2016 est.)<br>
+$246.886 billion (2020 est.)<br>
+$295.6 billion (2019 est.)<br>
+$281.536 billion (2018 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 18%, India 10%, United States 6%, United Kingdom 4%, Saudi Arabia 3% (2022)<br>
+China 18%, India 10%, US 6%, UK 4%, Saudi Arabia 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
 gold, broadcasting equipment, refined petroleum, diamonds, cars (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $138.433 billion (2022 est.)<br>
 $131.117 billion (2021 est.)<br>
 $106.702 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $237.6 billion (31 December 2017 est.)<br>

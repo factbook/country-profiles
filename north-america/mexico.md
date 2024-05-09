@@ -372,7 +372,7 @@ _election results_: <br><em>2018:</em> Andrés Manuel LÓPEZ OBRADOR elected pre
 **Legislative branch**<br>
 _description_: <p>bicameral National Congress or Congreso de la Unión consists of:<br>Senate or Cámara de Senadores (128 seats; 96 members directly elected in multi-seat constituencies by simple majority vote and 32 directly elected in a single, nationwide constituency by proportional representation vote; members serve 6-year terms)<br><br>Chamber of Deputies or Cámara de Diputados (500 seats; 300 members directly elected in single-seat constituencies by simple majority vote and 200 directly elected in a single, nationwide constituency by proportional representation vote; members serve 3-year terms)</p><br>
 _elections_: Senate - last held on 1 July 2018 (next to be held in July 2024)<br>Chamber of Deputies - last held on 6 June 2021 (next to be held on 2 June 2024)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - MORENA 55, PAN 23, PRI 14, PES 8, PRD 8, MC 7, PT 6, PVEM 6, PNA/PANAL 1; composition as of February 2024 - men 62, women 64, percentage women 50.8%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - MORENA 191, PAN 81, PES 56, PRI 45, PT 61, MC 27, PRD 21, PVEM 16, PNA 2; composition - men 248, women 252, percentage women 50.4%; total National Congress percentage women 50.5%<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - MORENA 55, PAN 23, PRI 14, PES 8, PRD 8, MC 7, PT 6, PVEM 6, PNA/PANAL 1; composition - men 62, women 64, percentage women 50.8%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - MORENA 191, PAN 81, PES 56, PRI 45, PT 61, MC 27, PRD 21, PVEM 16, PNA 2; composition - men 248, women 252, percentage women 50.4%; total National Congress percentage women 50.5%<br>
 <strong>note: </strong>as of the 2018 election, senators will be eligible for a second term and deputies up to 4 consecutive terms<br>
 
 **Judicial branch**<br>
@@ -431,29 +431,29 @@ one of the world&rsquo;s largest economies; USMCA buttresses its manufacturing s
 $2.583 trillion (2022 est.)<br>
 $2.486 trillion (2021 est.)<br>
 $2.349 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.9% (2022 est.)<br>
 5.84% (2021 est.)<br>
 -8.65% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $20,300 (2022 est.)<br>
 $19,600 (2021 est.)<br>
 $18,600 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.466 trillion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 7.9% (2022 est.)<br>
 5.69% (2021 est.)<br>
 3.4% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2020)<br>
@@ -475,24 +475,25 @@ _exports of goods and services_: 37.8% (2017 est.)<br>
 _imports of goods and services_: -39.7% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugarcane, maize, milk, oranges, sorghum, tomatoes, poultry, wheat, green chillies/peppers, eggs<br>
+sugarcane, maize, milk, oranges, sorghum, tomatoes, chicken, wheat, chilies/peppers, lemons/limes (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 food and beverages, tobacco, chemicals, iron and steel, petroleum, mining, textiles, clothing, motor vehicles, consumer durables, tourism<br>
 
 **Industrial production growth rate**<br>
 5% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 58.718 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.26% (2022 est.)<br>
 4.09% (2021 est.)<br>
 4.44% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 8.1% (2021 est.)<br>
@@ -501,11 +502,11 @@ _female_: 8.6%<br>
 
 **Population below poverty line**<br>
 36.3% (2022 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 45.4 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 23.4% of household expenditures (2018 est.)<br>
@@ -514,13 +515,13 @@ _on alcohol and tobacco_: 2.8% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
 _highest 10%_: 35.5% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 4.17% of GDP (2022 est.)<br>
 4.12% of GDP (2021 est.)<br>
 3.83% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $264.261 billion (2020 est.)<br>
@@ -533,11 +534,11 @@ _expenditures_: $313.358 billion (2020 est.)<br>
 44.89% of GDP (2021 est.)<br>
 45.85% of GDP (2020 est.)<br>
 41.29% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 13.45% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -546,37 +547,41 @@ calendar year<br>
 -$18.046 billion (2022 est.)<br>
 -$8.343 billion (2021 est.)<br>
 $22.522 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $626.298 billion (2022 est.)<br>
 $533.22 billion (2021 est.)<br>
 $443.575 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 75% (2019)<br>
+US 77%, Canada 4%, China 2%, Taiwan 1%, South Korea 1% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, computers, delivery trucks, crude petroleum, video displays, insulated wiring (2021)<br>
+cars, computers, vehicle parts/accessories, crude petroleum, trucks (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $668.59 billion (2022 est.)<br>
 $558.969 billion (2021 est.)<br>
 $424.896 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 54%, China 14% (2019)<br>
+US 56%, China 17%, Germany 3%, South Korea 3%, Japan 2% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-integrated circuits, refined petroleum, cars and vehicle parts, office machinery/parts, telephones (2019)<br>
+refined petroleum, vehicle parts/accessories, machine parts, integrated circuits, natural gas (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $201.119 billion (2022 est.)<br>
 $207.799 billion (2021 est.)<br>
 $199.069 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $456.713 billion (2019 est.)<br>

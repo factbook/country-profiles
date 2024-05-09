@@ -219,7 +219,7 @@ unique supranational system of laws in which, according to an interpretive decla
 **Legislative branch**<br>
 _description_: two legislative bodies consisting of the Council of the European Union (27 seats; ministers representing the 27 member states) and the European Parliament (705 seats; seats allocated among member states roughly in proportion to population size; members elected by proportional representation to serve 5-year terms); note - the European Parliament President, Roberta METSOLA, was elected in January 2022 by a majority of fellow members of the European Parliament (MEPs) and represents the Parliament within the EU and internationally; the Council of the EU and the MEPs share responsibilities for adopting the bulk of EU legislation; the two bodies must come to agreement for a commission proposal to become law, after negotiations in which they reconcile differences in each body's text of the proposal, except in the area of Common Foreign and Security Policy, which is governed by consensus of the EU member-state governments)<br>
 _elections_: last held on 23-26 May 2019 (next to be held on 6-9 June 2024)<br>
-_election results_: European Parliament percent of vote - NA; seats by party - EPP 182, S&amp;D 153, RE 108, Greens/EFA 75, ECR 62, ENF 73, EFDD 43, GUE-NGL 41, non-attached 7, other 7; composition as of February 2024 - men 424, women 281, percentage women 39.8%<br>
+_election results_: European Parliament percent of vote - NA; seats by party - EPP 182, S&amp;D 153, RE 108, Greens/EFA 75, ECR 62, ENF 73, EFDD 43, GUE-NGL 41, non-attached 7, other 7; composition - men 424, women 281, percentage women 39.8%<br>
 <strong>note: </strong>European Parliament seats by party as of April 2024 - EPP 177, S&amp;D 139, RE 102, Greens/EFA 72, ECR, 68, ID 59, GUE-NGL 37, non-attached 51<br>
 
 **Judicial branch**<br>
@@ -264,29 +264,29 @@ _lyrics/music_: no lyrics/Ludwig VAN BEETHOVEN, arranged by Herbert VON KARAJAN<
 $20.569 trillion (2022 est.)<br>
 $19.86 trillion (2021 est.)<br>
 $18.724 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.44% (2022 est.)<br>
 6.02% (2021 est.)<br>
 -5.65% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $46,000 (2022 est.)<br>
 $44,400 (2021 est.)<br>
 $41,800 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $16.746 trillion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8.83% (2022 est.)<br>
 2.55% (2021 est.)<br>
 0.48% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (2010)<br>
@@ -308,24 +308,25 @@ _exports of goods and services_: 43.9% (2016 est.)<br>
 _imports of goods and services_: -40.5% (2016 est.)<br>
 
 **Agricultural products**<br>
-wheat, barley, oilseeds, sugar beets, wine, grapes, dairy products, cattle, sheep, pigs, poultry, fish<br>
+milk, wheat, sugar beets, maize, barley, potatoes, grapes, pork, rapeseed, tomatoes (2022)<br>
+note: top ten agricultural products based on tonnage for all EU member states<br>
 
 **Industries**<br>
 among the world's largest and most technologically advanced regions, the EU industrial base includes: ferrous and non-ferrous metal production and processing, metal products, petroleum, coal, cement, chemicals, pharmaceuticals, aerospace, rail transportation equipment, passenger and commercial vehicles, construction equipment, industrial equipment, shipbuilding, electrical power equipment, machine tools and automated manufacturing systems, electronics and telecommunications equipment, fishing, food and beverages, furniture, paper, textiles<br>
 
 **Industrial production growth rate**<br>
 1.97% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 219.322 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 6.15% (2022 est.)<br>
 7.02% (2021 est.)<br>
 7.04% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 19.5% (2021 est.)<br>
@@ -347,7 +348,7 @@ _highest 10%_: 23.8% (2016 est.)<br>
 0.85% of GDP (2022 est.)<br>
 0.78% of GDP (2021 est.)<br>
 0.8% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3% (of GDP) (2014)<br>
@@ -358,7 +359,7 @@ note: personal transfers and compensation between resident and non-resident indi
 
 **Taxes and other revenues**<br>
 19.8% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 NA<br>
@@ -371,25 +372,29 @@ $359.7 billion (2016 est.)<br>
 $9.446 trillion (2022 est.)<br>
 $8.777 trillion (2021 est.)<br>
 $7.182 trillion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 18%, United Kingdom 13%, China 10%, Switzerland 7%, Russia 4% (2021)<br>
+US 20%, UK 12%, China 9%, Switzerland 7%, Turkey 4% (2022)<br>
+note: top five non-EU export partners based on percentage share of external exports; does not include internal trade among EU member states<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, packaged medicines, vaccines and cultures, refined petroleum, aircraft, integrated circuits, medical instruments, gas turbines (2021)<br>
+cars, packaged medicine, refined petroleum, vaccines, vehicle parts/accessories (2022)<br>
+note: top five export commodities based on value in dollars; includes both exports to external partners and internal trade among EU member states<br>
 
 **Imports**<br>
 $9.114 trillion (2022 est.)<br>
 $8.088 trillion (2021 est.)<br>
 $6.599 trillion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 22%, United States 11%, United Kingdom 8%, Russia 7%, Switzerland 6% (2021)<br>
+China 20%, US 11%, UK 8%, Norway 6%, Russia 6% (2022)<br>
+note: top five non-EU import partners based on percentage share of external imports; does not include internal trade among EU member states<br>
 
 **Imports - commodities**<br>
-crude petroleum, natural gas, refined petroleum, cars, broadcasting equipment, vaccines and cultures, computers (2021)<br>
+natural gas, crude petroleum, cars, refined petroleum, garments (2022)<br>
+note: top five import commodities based on value in dollars; includes both imports from external partners and internal trade among EU member states<br>
 
 **Reserves of foreign exchange and gold**<br>
 $740.9 billion (31 December 2014 est.)<br>

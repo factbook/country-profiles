@@ -266,7 +266,7 @@ _elections/appointments_: the monarch is hereditary; governor appointed by the m
 **Legislative branch**<br>
 _description_: unicameral Parliament of Curacao (21 seats; members directly elected by party-list proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 19 March 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party - MFK 27.8%, PAR 13.9%, PNP 12.5%, MAN 6.4%, KEM 5.4%, TPK 5.2%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition as of April 2024 - men 15, women 6, percent of women 28.6%<br>
+_election results_: percent of vote by party - MFK 27.8%, PAR 13.9%, PNP 12.5%, MAN 6.4%, KEM 5.4%, TPK 5.2%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition - men 15, women 6, percent of women 28.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court, in The Hague, Netherlands<br>
@@ -314,29 +314,29 @@ high-income island economy; developed infrastructure; tourism and financial serv
 $3.467 billion (2022 est.)<br>
 $3.214 billion (2021 est.)<br>
 $3.085 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 7.89% (2022 est.)<br>
 4.18% (2021 est.)<br>
 -18.04% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $23,100 (2022 est.)<br>
 $21,100 (2021 est.)<br>
 $19,900 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $3.075 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 2.62% (2019 est.)<br>
 2.58% (2018 est.)<br>
 1.59% (2017 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.7% (2012 est.)<br>
@@ -359,7 +359,7 @@ tourism, petroleum refining, petroleum transshipment, light manufacturing, finan
 
 **Industrial production growth rate**<br>
 4.3% (2014 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 73,010 (2013)<br>
@@ -377,7 +377,7 @@ _female_: 47.1%<br>
 4.06% of GDP (2022 est.)<br>
 5.17% of GDP (2021 est.)<br>
 5.22% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.4% (of GDP) (2012 est.)<br>
@@ -393,31 +393,35 @@ note: personal transfers and compensation between resident and non-resident indi
 -$877.284 million (2022 est.)<br>
 -$507.018 million (2021 est.)<br>
 -$688.805 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $2.049 billion (2022 est.)<br>
 $1.373 billion (2021 est.)<br>
 $1.014 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Switzerland 27%, United States 17%, Spain 14%, Ecuador 7%, India 7%, Antigua and Barbuda 5% (2019)<br>
+US 17%, Costa Rica 16%, India 9%, Netherlands 7%, Guatemala 7% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, crude petroleum, petroleum coke, frozen fish, fishing ships (2021)<br>
+refined petroleum, petroleum coke, fish, coal tar oil, scrap iron (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $2.904 billion (2022 est.)<br>
 $1.919 billion (2021 est.)<br>
 $1.709 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 35%, Netherlands 24%, China 5% (2019)<br>
+US 35%, Netherlands 22%, China 7%, Ecuador 5%, Philippines 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, crude petroleum, packaged medicines, perfumes (2019)<br>
+refined petroleum, cars, garments, integrated circuits, packaged medicine (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Netherlands Antillean guilders (ANG) per US dollar -<br>

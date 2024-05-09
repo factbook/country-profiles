@@ -352,7 +352,7 @@ _election results_: <br><em>2023:</em> Daniel NOBOA Azin elected president; perc
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Asamblea Nacional (137 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 15 members directly elected in a single nationwide constituency by open-list proportional representation vote, and 6 directly elected in multi-seat constituencies for Ecuadorians living abroad by simple majority vote; members serve 4-year terms); note - all Assembly members have alternates from the same party who cast votes when a primary member is absent, resigns, or is removed from office<br>
 _elections_: last held on 20 August 2023 (next to be held on 28 February 2025); note &ndash; on 18 May 2023, Ecuador&rsquo;s National Electoral Council announced that the legislative and presidential elections - originally scheduled for February 2025 - would be held on 20 August 2023 after President Guillermo LASSO dissolved the National Assembly by decree on 17 May 2023; a return to a regular election cycle will occur in February 2025<br>
-_election results_: percent of vote by party - RC5 38%, Construye 20.4%, ADN 10.2%, PSC 10.2%, Actuemos 5.8%, MUPP 2.9%, other 12.4%; seats by party - RC5 52, Construye 28, ADN 14, PSC 14, Actuemos 8, MUPP 4, other 17; composition as of March 2024 - men 78, women 59, percentage women 43.1%; note - defections by National Assembly members are commonplace, resulting in frequent changes in the numbers of seats held by the various parties<br>
+_election results_: percent of vote by party - RC5 38%, Construye 20.4%, ADN 10.2%, PSC 10.2%, Actuemos 5.8%, MUPP 2.9%, other 12.4%; seats by party - RC5 52, Construye 28, ADN 14, PSC 14, Actuemos 8, MUPP 4, other 17; composition - men 78, women 59, percentage women 43.1%; note - defections by National Assembly members are commonplace, resulting in frequent changes in the numbers of seats held by the various parties<br>
 
 **Judicial branch**<br>
 _highest court(s)_: National Court of Justice or Corte Nacional de Justicia (consists of 21 judges, including the chief justice and organized into 5 specialized chambers); Constitutional Court or Corte Constitucional (consists of the court president and 8 judges)<br>
@@ -406,29 +406,29 @@ highly informal South American economy; USD currency user; major banana exporter
 $195.477 billion (2022 est.)<br>
 $189.88 billion (2021 est.)<br>
 $182.165 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.95% (2022 est.)<br>
 4.24% (2021 est.)<br>
 -7.79% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $10,900 (2022 est.)<br>
 $10,700 (2021 est.)<br>
 $10,400 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $115.049 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 3.47% (2022 est.)<br>
 0.13% (2021 est.)<br>
 -0.34% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B- (2020)<br>
@@ -450,24 +450,25 @@ _exports of goods and services_: 20.8% (2017 est.)<br>
 _imports of goods and services_: -21.3% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, bananas, milk, oil palm fruit, maize, rice, plantains, poultry, cocoa, potatoes<br>
+sugarcane, bananas, oil palm fruit, milk, maize, rice, plantains, chicken, cocoa beans, pineapples (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 petroleum, food processing, textiles, wood products, chemicals<br>
 
 **Industrial production growth rate**<br>
 1.08% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 8.813 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.76% (2022 est.)<br>
 4.55% (2021 est.)<br>
 6.13% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.2% (2021 est.)<br>
@@ -476,11 +477,11 @@ _female_: 18.8%<br>
 
 **Population below poverty line**<br>
 25.2% (2022 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 45.5 (2022 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 26.2% of household expenditures (2018 est.)<br>
@@ -489,13 +490,13 @@ _on alcohol and tobacco_: 0.8% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
 _highest 10%_: 34.3% (2022 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 4.13% of GDP (2022 est.)<br>
 4.11% of GDP (2021 est.)<br>
 3.37% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $35.914 billion (2019 est.)<br>
@@ -510,7 +511,7 @@ _expenditures_: $39.319 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 13.21% (of GDP) (2022 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -519,37 +520,41 @@ calendar year<br>
 $2.114 billion (2022 est.)<br>
 $3.097 billion (2021 est.)<br>
 $2.21 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $35.92 billion (2022 est.)<br>
 $29.037 billion (2021 est.)<br>
 $22.373 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 30%, China 13%, Panama 8%, Chile 7% (2019)<br>
+US 27%, China 17%, Panama 14%, Chile 4%, Colombia 3% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, shrimp, bananas, refined petroleum, tuna (2021)<br>
+crude petroleum, shellfish, bananas, fish, refined petroleum (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $36.051 billion (2022 est.)<br>
 $28.128 billion (2021 est.)<br>
 $19.874 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 22%, China 18%, Colombia 9%, Panama 5% (2019)<br>
+US 26%, China 23%, Colombia 6%, Peru 4%, Brazil 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, coal tar oil, cars, packaged medicines, soybean products (2019)<br>
+refined petroleum, coal tar oil, cars, natural gas, soybean meal (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $8.459 billion (2022 est.)<br>
 $7.912 billion (2021 est.)<br>
 $7.137 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $50.667 billion (2019 est.)<br>

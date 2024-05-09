@@ -302,7 +302,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the medieval name was spelt "Aslo"; the <em>as</em> component refered either to the Ekeberg ridge southeast of the town ("as" in modern Norwegian), or to the Aesir (Norse gods); <em>lo</em> refered to "meadow," so the most likely interpretations would have been either "the meadow beneath the ridge" or "the meadow of the gods"; both explanations are considered equally plausible<br>
 
 **Administrative divisions**<br>
-11 counties (fylker, singular - fylke); Agder, Innlandet, More og Romsdal, Nordland, Oslo, Rogaland, Troms og Finnmark, Trondelag, Vestfold og Telemark, Vestland, Viken<br>
+12 counties (fylker, singular - fylke); Agder, Innlandet, More og Romsdal, Nordland, Oslo, Rogaland, Romsdal, Troms og Finnmark, Trondelag, Vestfold og Telemark, Vestland, Viken (2024)<br>
 
 **Dependent areas**<br>
 Bouvet Island, Jan Mayen, Svalbard (3)<br>
@@ -340,8 +340,8 @@ _elections/appointments_: the monarchy is hereditary; following parliamentary el
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Storting (169 seats; members directly elected in multi-seat constituencies by list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 13 September 2021 (next to be held on 30 September 2025)<br>
-_election results_: percent of vote by party - Ap 26.3%, H 20.5%, SP 13.6%, FrP 11.7%, SV 7.6%, R 4.7%, V 4.6%, MDG 3.9%, KrF 3.8%, PF 0.2%, other 3.1%; seats by party - Ap 48, H 36, SP 28, FrP 21, SV 13, R 8, V 8, , KrF 3, MDG 3, PF 1; composition as of March 2024 - men 94, women 75, percentage women 44.4%<br>
+_elections_: last held on 13 September 2021 (next to be held by September 2025)<br>
+_election results_: percent of vote by party - Ap 26.3%, H 20.5%, SP 13.6%, FrP 11.7%, SV 7.6%, R 4.7%, V 4.6%, MDG 3.9%, KrF 3.8%, PF 0.2%, other 3.1%; seats by party - Ap 48, H 36, SP 28, FrP 21, SV 13, R 8, V 8, , KrF 3, MDG 3, PF 1; composition - men 94, women 75, percentage women 44.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Hoyesterett (consists of the chief justice and 18 associate justices)<br>
@@ -349,7 +349,7 @@ _judge selection and term of office_: justices appointed by the monarch (King in
 _subordinate courts_: Courts of Appeal or Lagmennsrett; regional and district courts; Conciliation Boards; ordinary and special courts; note - in addition to professionally trained judges, elected lay judges sit on the bench with professional judges in the Courts of Appeal and district courts<br>
 
 **Political parties and leaders**<br>
-<p>Center Party or Sp [Trygve Slagsvold VEDUM]<br>Christian Democratic Party or KrF [Olaug Vervik BOLLESTAD] <br>Conservative Party or H [Erna SOLBERG] <br>Green Party or MDG [Arild HERMSTAD]  <br>Labor Party or Ap [Jonas Gahr STORE] <br>Liberal Party or V [Guri MELBY]<br>Patient Focus or PF [Irene OJALA]<br>Progress Party or FrP [Sylvi LISTHAUG] <br>Red Party or R [Bjonar MOXNES]<br>Socialist Left Party or SV [Kristi BERGSTO]</p><br>
+<p>Center Party or Sp [Trygve Slagsvold VEDUM]<br>Christian Democratic Party or KrF [Olaug Vervik BOLLESTAD] <br>Conservative Party or H [Erna SOLBERG] <br>Green Party or MDG [Arild HERMSTAD]  <br>Labor Party or Ap [Jonas Gahr STORE] <br>Liberal Party or V [Guri MELBY]<br>Patient Focus or PF [Irene OJALA]<br>Progress Party or FrP [Sylvi LISTHAUG] <br>Red Party or R [Marie Sneve MARTINUSSEN]<br>Socialist Left Party or SV [Kristi BERGSTO]</p><br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -394,29 +394,29 @@ high-income non-EU European economy; aging labor force; large state-owned energy
 $368.139 billion (2022 est.)<br>
 $356.457 billion (2021 est.)<br>
 $343.082 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.28% (2022 est.)<br>
 3.9% (2021 est.)<br>
 -1.28% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $67,500 (2022 est.)<br>
 $65,900 (2021 est.)<br>
 $63,800 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $579.422 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 5.76% (2022 est.)<br>
 3.48% (2021 est.)<br>
 1.29% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (1995)<br>
@@ -438,24 +438,25 @@ _exports of goods and services_: 35.5% (2017 est.)<br>
 _imports of goods and services_: -33.2% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, barley, wheat, potatoes, oats, pork, poultry, beef, eggs, rye<br>
+milk, barley, wheat, potatoes, oats, pork, chicken, beef, eggs, rye (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 petroleum and gas, shipping, fishing, aquaculture, food processing, shipbuilding, pulp and paper products, metals, chemicals, timber, mining, textiles<br>
 
 **Industrial production growth rate**<br>
 0.61% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 2.981 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.23% (2022 est.)<br>
 4.37% (2021 est.)<br>
 4.42% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 13% (2021 est.)<br>
@@ -464,11 +465,11 @@ _female_: 12.5%<br>
 
 **Population below poverty line**<br>
 12.7% (2019 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 27.7 (2019 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 11.7% of household expenditures (2018 est.)<br>
@@ -477,13 +478,13 @@ _on alcohol and tobacco_: 4.1% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
 _highest 10%_: 22.4% (2019 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.11% of GDP (2022 est.)<br>
 0.13% of GDP (2021 est.)<br>
 0.16% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $185.338 billion (2020 est.)<br>
@@ -499,7 +500,7 @@ _expenditures_: $210.522 billion (2020 est.)<br>
 
 **Taxes and other revenues**<br>
 25.08% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -508,37 +509,41 @@ calendar year<br>
 $174.555 billion (2022 est.)<br>
 $66.254 billion (2021 est.)<br>
 $4.212 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $321.093 billion (2022 est.)<br>
 $203.228 billion (2021 est.)<br>
 $118.314 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United Kingdom 21%, Germany 19%, Sweden 8%, Netherlands 7%, China 6% (2021)<br>
+Germany 27%, UK 21%, France 9%, Belgium 7%, Sweden 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-natural gas, crude petroleum, salmon, refined petroleum, aluminum (2021)<br>
+natural gas, crude petroleum, fish, refined petroleum, aluminum (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $156.892 billion (2022 est.)<br>
 $140.331 billion (2021 est.)<br>
 $121.662 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Sweden 18%, Germany 12%, China 10%, Denmark 6%, United States 5% (2021)<br>
+Sweden 18%, Germany 11%, China 10%, Denmark 6%, Netherlands 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, refined petroleum, broadcasting equipment, computers, ships, nickel (2021)<br>
+cars, refined petroleum, ships, garments, nickel (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $72.077 billion (2022 est.)<br>
 $84.271 billion (2021 est.)<br>
 $75.259 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $651.04 billion (2019 est.)<br>

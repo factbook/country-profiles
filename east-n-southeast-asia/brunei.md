@@ -323,7 +323,7 @@ _elections/appointments_: none; the monarchy is hereditary<br>
 **Legislative branch**<br>
 _description_: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (33 seats; 20 members appointed by the sultan from ex-officio cabinet ministers, titled people, and prominent citizens in public service and various professional fields, 13 members from 4 multi-seat constituencies, and 3 ex-officio members - the speaker and first and second secretaries); members serve 5-year terms<br>
 _elections_: January 2023 - appointed by the sultan<br>
-_election results_: Legislative Council last appointed January 2023; composition as of March 2024 - men 30, women 4, percentage women 11.8%<br>
+_election results_: Legislative Council last appointed January 2023; composition - men 30, women 4, percentage women 11.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the Court of Appeal and the High Court, each with a chief justice and 2 judges); Sharia Court (consists the Court of Appeals and the High Court); note - Brunei has a dual judicial system of secular and sharia (religious) courts; the Judicial Committee of Privy Council (in London) serves as the final appellate court for civil cases only<br>
@@ -373,29 +373,29 @@ almost exclusively an oil and gas economy; high income country; expansive and ro
 $26.343 billion (2022 est.)<br>
 $26.779 billion (2021 est.)<br>
 $27.212 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -1.63% (2022 est.)<br>
 -1.59% (2021 est.)<br>
 1.13% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $58,700 (2022 est.)<br>
 $60,100 (2021 est.)<br>
 $61,600 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $16.682 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 3.68% (2022 est.)<br>
 1.73% (2021 est.)<br>
 1.94% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.2% (2017 est.)<br>
@@ -411,42 +411,36 @@ _exports of goods and services_: 45.9% (2017 est.)<br>
 _imports of goods and services_: -36.8% (2017 est.)<br>
 
 **Agricultural products**<br>
-poultry, eggs, fruit, cassava, bananas, legumes, cucumbers, rice, pineapples, beef<br>
+chicken, eggs, fruits, rice, vegetables, beans, bananas, beef, pineapples, cucumbers/gherkins (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 petroleum, petroleum refining, liquefied natural gas, construction, agriculture, aquaculture, transportation<br>
 
 **Industrial production growth rate**<br>
 -4.91% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 225,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.45% (2022 est.)<br>
 4.91% (2021 est.)<br>
 7.41% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 23.4% (2021 est.)<br>
 _male_: 20.7%<br>
 _female_: 27.6%<br>
 
-**Population below poverty line**<br>
-NA<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 0.01% of GDP (2022 est.)<br>
 0.01% of GDP (2021 est.)<br>
 0.01% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.058 billion (2020 est.)<br>
@@ -469,37 +463,41 @@ _expenditures_: $3.189 billion (2020 est.)<br>
 $3.264 billion (2022 est.)<br>
 $1.57 billion (2021 est.)<br>
 $513.713 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $14.411 billion (2022 est.)<br>
 $11.202 billion (2021 est.)<br>
 $6.886 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Singapore 21%, China 20%, Japan 19%, Australia 14%, Malaysia 5% (2021)<br>
+Australia 19%, Japan 17%, China 16%, Singapore 14%, Malaysia 10% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, natural gas, crude petroleum, industrial hydrocarbons, industrial alcohols&nbsp; (2021)<br>
+refined petroleum, natural gas, crude petroleum, hydrocarbons, fertilizers (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $10.106 billion (2022 est.)<br>
 $9.219 billion (2021 est.)<br>
 $6.382 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Malaysia 20%, Russia 14%, Singapore 11%, Saudi Arabia 10%, China 8% (2021)<br>
+Malaysia 22%, UAE 11%, China 10%, Singapore 7%, Qatar 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, refined petroleum, cars, coal, packaged medicines (2021)<br>
+crude petroleum, refined petroleum, cars, coal, gas turbines (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $5.035 billion (2022 est.)<br>
 $4.982 billion (2021 est.)<br>
 $3.997 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $0 (2014)<br>

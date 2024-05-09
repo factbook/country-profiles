@@ -339,7 +339,7 @@ _election results_: <em>2021:</em> Fumio KISHIDA reelected prime minister on 10 
 **Legislative branch**<br>
 _description_: bicameral National Diet or Kokkai consists of:<br>House of Councillors or Sangi-in (248 seats; 148 members directly elected in multi-seat districts by simple majority vote and 100 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)<br><br>House of Representatives or Shuugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve up to 4-year terms)<br>
 _elections_: House of Councillors - last held on 10 July 2022 (next to be held in July 2025)<br>House of Representatives - last held on 31 October 2021 (next to be held by October 2025)<br>
-_election results_: House of Councillors - percent of vote by party - NA; seats by party/grouping as of January 2024 - LDP 116, CDP-SDP 40, Komeito 27, JCP 11, Ishin-FEFA 21, DPFP 11, Reiwa 5, OW 2, NHK 2, independent 12; composition as of February 2024 - men 182, women 66; percentage women 26.6%<br><br>House of Representatives - percent of vote by party - NA; seats by party/grouping as of January 2024 - LDP 260, CDP 96, Ishin 41, Komeito 32, JCP 10, DPFP 7, Yushi no Kai 4, FEFA 4, Reiwa 3, independent 7; composition as of February 2024 - men 416 men, women 48; percentage women 10.3%; note - total National Diet percentage women 16%<br>
+_election results_: House of Councillors - percent of vote by party - NA; seats by party/grouping as of January 2024 - LDP 116, CDP-SDP 40, Komeito 27, JCP 11, Ishin-FEFA 21, DPFP 11, Reiwa 5, OW 2, NHK 2, independent 12; composition - men 182, women 66; percentage women 26.6%<br><br>House of Representatives - percent of vote by party - NA; seats by party/grouping as of January 2024 - LDP 260, CDP 96, Ishin 41, Komeito 32, JCP 10, DPFP 7, Yushi no Kai 4, FEFA 4, Reiwa 3, independent 7; composition - men 416 men, women 48; percentage women 10.3%; note - total National Diet percentage women 16%<br>
 <strong>note: </strong>the Diet in June 2017 redrew Japan's electoral district boundaries and reduced from 475 to 465 seats in the House of Representatives; the amended electoral law, which cuts 6 seats in single-seat districts and 4 in multi-seat districts, was reportedly intended to reduce voting disparities between densely and sparsely populated voting districts<br>
 
 **Judicial branch**<br>
@@ -395,29 +395,29 @@ fourth-largest economy; trade-oriented and highly diversified; high public debt 
 $5.21 trillion (2022 est.)<br>
 $5.157 trillion (2021 est.)<br>
 $5.049 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.03% (2022 est.)<br>
 2.14% (2021 est.)<br>
 -4.28% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $41,600 (2022 est.)<br>
 $41,000 (2021 est.)<br>
 $40,000 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $4.232 trillion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 2.5% (2022 est.)<br>
 -0.23% (2021 est.)<br>
 -0.02% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A (2015)<br>
@@ -439,24 +439,25 @@ _exports of goods and services_: 17.7% (2017 est.)<br>
 _imports of goods and services_: -16.8% (2017 est.)<br>
 
 **Agricultural products**<br>
-eggs, rice, milk, sugar beets, vegetables, poultry, potatoes, cabbages, sugar cane, pork<br>
+rice, milk, sugar beets, vegetables, eggs, chicken, potatoes, cabbages, sugarcane, pork (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 motor vehicles, electronic equipment, machine tools, steel and nonferrous metals, ships, chemicals, textiles, processed foods<br>
 
 **Industrial production growth rate**<br>
 -1.25% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 69.114 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 2.6% (2022 est.)<br>
 2.83% (2021 est.)<br>
 2.81% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 4.4% (2021 est.)<br>
@@ -468,7 +469,7 @@ _female_: 4.1%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 32.9 (2013 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 16% of household expenditures (2018 est.)<br>
@@ -477,13 +478,13 @@ _on alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
 _highest 10%_: 26.4% (2013 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.13% of GDP (2022 est.)<br>
 0.11% of GDP (2021 est.)<br>
 0.1% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $1.756 trillion (2019 est.)<br>
@@ -496,7 +497,7 @@ _expenditures_: $1.916 trillion (2019 est.)<br>
 216.36% of GDP (2021 est.)<br>
 215.77% of GDP (2020 est.)<br>
 198.02% of GDP (2019 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 35.2% (of GDP) (2017 est.)<br>
@@ -508,37 +509,41 @@ note: central government debt as a % of GDP<br>
 $90.963 billion (2022 est.)<br>
 $197.154 billion (2021 est.)<br>
 $150.029 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $921.212 billion (2022 est.)<br>
 $920.639 billion (2021 est.)<br>
 $794.291 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-US 19%, China 19%, Australia 10%, South Korea 7%, Taiwan 7%, Thailand 4% (2022)<br>
+US 19%, China 19%, South Korea 7%, Taiwan 7%, Thailand 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-cars/vehicle parts, general machinery, integrated circuits, refined petroleum, construction vehicles&nbsp; (2022)<br>
+cars, machinery, integrated circuits, vehicle parts/accessories, refined petroleum (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $1.08 trillion (2022 est.)<br>
 $942.45 billion (2021 est.)<br>
 $801.889 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 22%, US 10%, Australia 10%, Taiwan 4%, South Korea 4% (2022)<br>
+China 22%, Australia 10%, US 10%, UAE 5%, Saudi Arabia 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, natural gas, coal, integrated circuits, broadcasting equipment&nbsp; (2022)<br>
+crude petroleum, natural gas, coal, integrated circuits, garments (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $1.228 trillion (2022 est.)<br>
 $1.406 trillion (2021 est.)<br>
 $1.391 trillion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $4,254,271,000,000 (2019 est.)<br>

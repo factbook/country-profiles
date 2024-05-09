@@ -196,14 +196,8 @@ golden bosun bird<br>
 **Economic overview**<br>
 high-income Australian territorial economy; development through government services and phosphate mining; operates Australia&rsquo;s Immigration Detention Centre; increasing tourism and government investments; sustained environmental protections<br>
 
-**Agricultural products**<br>
-NA<br>
-
 **Industries**<br>
 tourism, phosphate extraction (near depletion)<br>
-
-**Labor force**<br>
-NA<br>
 
 **Budget**<br>
 _revenues_: NA<br>
@@ -213,16 +207,20 @@ _expenditures_: NA<br>
 1 July - 30 June<br>
 
 **Exports - partners**<br>
-Malaysia 36%, New Zealand 21%, Indonesia 20%, Australia 10% (2019)<br>
+NZ 25%, Indonesia 18%, Singapore 12%, Australia 9%, Ireland 8% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-calcium phosphates, fertilizers, barometers, electrical transformers, sulfates (2021)<br>
+phosphates, fertilizers, chemical analysis instruments, electrical transformers, measuring instruments (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports - partners**<br>
-Australia 80%, United States 7%, Canada 5% (2019)<br>
+Australia 93%, US 3%, Malaysia 2%, Singapore 1%, Fiji 0% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, iron structures, aircraft, crustaceans (2019)<br>
+refined petroleum, cars, iron structures, air conditioners, paintings (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>

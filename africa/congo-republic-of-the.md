@@ -416,29 +416,29 @@ primarily an oil- and natural resources-based economy; recovery from mid-2010s o
 $21.913 billion (2022 est.)<br>
 $21.594 billion (2021 est.)<br>
 $21.377 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.48% (2022 est.)<br>
 1.02% (2021 est.)<br>
 -6.27% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $3,700 (2022 est.)<br>
 $3,700 (2021 est.)<br>
 $3,700 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $15.817 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 3.04% (2022 est.)<br>
 1.72% (2021 est.)<br>
 1.8% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2019)<br>
@@ -460,24 +460,25 @@ _exports of goods and services_: 62.9% (2017 est.)<br>
 _imports of goods and services_: -62.7% (2017 est.)<br>
 
 **Agricultural products**<br>
-cassava, sugar cane, oil palm fruit, cassava leaves, bananas, plantains, roots/tubers, game meat, vegetables, mangoes/guavas<br>
+cassava, sugarcane, oil palm fruit, bananas, plantains, root vegetables, game meat, vegetables, mangoes/guavas, fruits (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 petroleum extraction, cement, lumber, brewing, sugar, palm oil, soap, flour, cigarettes<br>
 
 **Industrial production growth rate**<br>
 -0.62% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 2.384 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 20.48% (2022 est.)<br>
 22.62% (2021 est.)<br>
 22.67% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 42.3% (2021 est.)<br>
@@ -498,7 +499,7 @@ _highest 10%_: 37.1% (2005)<br>
 0% of GDP (2021 est.)<br>
 0.11% of GDP (2020 est.)<br>
 0.19% of GDP (2019 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $3.399 billion (2018 est.)<br>
@@ -513,7 +514,7 @@ _expenditures_: $2.628 billion (2018 est.)<br>
 
 **Taxes and other revenues**<br>
 8.32% (of GDP) (2020 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -522,37 +523,41 @@ calendar year<br>
 $1.441 billion (2020 est.)<br>
 $1.632 billion (2019 est.)<br>
 -$3.596 billion (2016 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $4.67 billion (2020 est.)<br>
 $7.855 billion (2019 est.)<br>
 $4.6 billion (2016 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 49%, United Arab Emirates 15%, India 6%, Italy 5% (2019)<br>
+China 39%, India 20%, UAE 15%, Italy 5%, Vietnam 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-copper, crude petroleum, refined petroleum, lumber, tin (2021)<br>
+crude petroleum, refined copper, wood, tin ores, rare earth ores (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $3.279 billion (2020 est.)<br>
 $4.945 billion (2019 est.)<br>
 $7,291,015,964 (2016 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 15%, France 12%, Belgium 6%, Angola 5% (2019)<br>
+China 26%, France 9%, UAE 6%, Belgium 6%, India 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-ships, chicken products, refined petroleum, processed fish, packaged medicines (2019)<br>
+poultry, garments, vaccines, ships, fish (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $828.56 million (2021 est.)<br>
 $1.141 billion (2020 est.)<br>
 $988.316 million (2019 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $4.605 billion (31 December 2017 est.)<br>

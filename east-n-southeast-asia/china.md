@@ -434,29 +434,29 @@ one of the world&rsquo;s top two economies; sustained growth due to export relat
 $25.684 trillion (2022 est.)<br>
 $24.939 trillion (2021 est.)<br>
 $22.996 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.99% (2022 est.)<br>
 8.45% (2021 est.)<br>
 2.24% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $18,200 (2022 est.)<br>
 $17,700 (2021 est.)<br>
 $16,300 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $17.963 trillion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1.97% (2022 est.)<br>
 0.98% (2021 est.)<br>
 2.42% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A+ (2007)<br>
@@ -478,24 +478,25 @@ _exports of goods and services_: 20.4% (2017 est.)<br>
 _imports of goods and services_: -18.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-maize, rice, vegetables, wheat, sugar cane, potatoes, cucumbers, tomatoes, watermelons, sweet potatoes<br>
+maize, rice, vegetables, wheat, sugarcane, potatoes, cucumbers/gherkins, tomatoes, watermelons, pork (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 world leader in gross value of industrial output; mining and ore processing, iron, steel, aluminum, and other metals, coal; machine building; armaments; textiles and apparel; petroleum; cement; chemicals; fertilizer; consumer products (including footwear, toys, and electronics); food processing; transportation equipment, including automobiles, railcars and locomotives, ships, aircraft; telecommunications equipment, commercial space launch vehicles, satellites<br>
 
 **Industrial production growth rate**<br>
 3.76% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 781.808 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.98% (2022 est.)<br>
 4.55% (2021 est.)<br>
 5% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.4% (2021 est.)<br>
@@ -504,11 +505,11 @@ _female_: 10.4%<br>
 
 **Population below poverty line**<br>
 0% (2020 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 37.1 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 21.6% of household expenditures (2018 est.)<br>
@@ -517,13 +518,13 @@ _on alcohol and tobacco_: 2.5% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1%<br>
 _highest 10%_: 29.4% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.15% of GDP (2022 est.)<br>
 0.13% of GDP (2021 est.)<br>
 0.13% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $3.983 trillion (2019 est.)<br>
@@ -539,7 +540,7 @@ _expenditures_: $4.893 trillion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 7.97% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -548,37 +549,41 @@ calendar year<br>
 $401.855 billion (2022 est.)<br>
 $352.886 billion (2021 est.)<br>
 $248.836 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $3.716 trillion (2022 est.)<br>
 $3.555 trillion (2021 est.)<br>
 $2.739 trillion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 17%, Hong Kong 10%, Japan 6% (2019)<br>
+US 15%, Hong Kong 7%, Japan 5%, Germany 4%, South Korea 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-broadcasting equipment, computers, integrated circuits, office machinery and parts, telephones (2021)<br>
+broadcasting equipment, integrated circuits, computers, garments, machine parts (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $3.139 trillion (2022 est.)<br>
 $3.094 trillion (2021 est.)<br>
 $2.38 trillion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-South Korea 9%, Japan 8%, Australia 7%, Germany 7%, US 7%, Taiwan 6% (2019)<br>
+US 7%, South Korea 7%, Japan 6%, Australia 6%, China 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, integrated circuits, iron, natural gas, cars, gold (2019)<br>
+crude petroleum, integrated circuits, iron ore, natural gas, gold (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $3.307 trillion (2022 est.)<br>
 $3.428 trillion (2021 est.)<br>
 $3.357 trillion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $2,027,950,000,000 (2019 est.)<br>

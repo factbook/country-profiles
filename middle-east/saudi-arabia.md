@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Saudi Arabia is the birthplace of Islam and home to Islam's two holiest shrines in Mecca and Medina. The king's official title is the Custodian of the Two Holy Mosques. The modern Saudi state was founded in 1932 by ABD AL-AZIZ bin Abd al-Rahman AL SAUD (Ibn Saud) after a 30-year campaign to unify most of the Arabian Peninsula. One of his male descendants rules the country today, as required by the country's 1992 Basic Law. Following Iraq's invasion of Kuwait in 1990, Saudi Arabia accepted the Kuwaiti royal family and 400,000 refugees while allowing Western and Arab troops to deploy on its soil for the liberation of Kuwait the following year. The continuing presence of foreign troops on Saudi soil after the liberation of Kuwait became a source of tension between the royal family and the public until all operational US troops left the country in 2003. Major terrorist attacks in May and November 2003 spurred a strong ongoing campaign against domestic terrorism and extremism. US troops returned to the Kingdom in October 2019 after attacks on Saudi oil infrastructure.</p> <p>From 2005 to 2015, King ABDALLAH bin Abd al-Aziz Al Saud incrementally modernized the Kingdom. Driven by personal ideology and political pragmatism, he introduced a series of social and economic initiatives, including expanding employment and social opportunities for women, attracting foreign investment, increasing the role of the private sector in the economy, and discouraging businesses from hiring foreign workers. These reforms have accelerated under King SALMAN bin Abd al-Aziz, who ascended to the throne in 2015, and has since lifted the Kingdom's ban on women driving, implemented education reforms, funded green initiatives, and allowed cinemas to operate for the first time in decades. Saudi Arabia saw some protests during the 2011 Arab Spring but not the level of bloodshed seen in protests elsewhere in the region. Shia Muslims in the Eastern Province protested primarily against the detention of political prisoners, endemic discrimination, and Bahraini and Saudi Government actions in Bahrain. Riyadh took a cautious but firm approach by arresting some protesters but releasing most of them quickly and by using its state-sponsored clerics to counter political and Islamist activism.</p> <p>The government held its first-ever elections in 2005 and 2011, when Saudis went to the polls to elect municipal councilors. In December 2015, women were allowed to vote and stand as candidates for the first time in municipal council elections, with 19 women winning seats. After King SALMAN ascended to the throne in 2015, he placed the first next-generation prince, MUHAMMAD BIN NAYIF bin Abd al-Aziz Al Saud, in the line of succession as Crown Prince. He designated his son, MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud, as the Deputy Crown Prince. In March 2015, Saudi Arabia led a coalition of 10 countries in a military campaign to restore the legitimate government of Yemen, which had been ousted by Houthi forces allied with former president ALI ABDULLAH al-Salih. The war in Yemen has drawn international criticism for civilian casualties and its effect on the country’s dire humanitarian situation. In December 2015, then Deputy Crown Prince MUHAMMAD BIN SALMAN announced Saudi Arabia would lead a 34-nation Islamic Coalition to fight terrorism (it has since grown to 41 nations). In May 2017, Saudi Arabia inaugurated the Global Center for Combatting Extremist Ideology (also known as "Etidal") as part of its ongoing efforts to counter violent extremism. In June 2017, King SALMAN elevated MUHAMMAD BIN SALMAN to Crown Prince and in September 2022 appointed him prime minister.</p> <p>The country remains a leading producer of oil and natural gas and holds about 17% of the world's proven oil reserves as of 2020. The government continues to pursue economic reform and diversification, particularly since Saudi Arabia's accession to the WTO in 2005 and promotes foreign investment in the Kingdom. In April 2016, the Saudi Government announced a broad set of socio-economic reforms, known as Vision 2030. Low global oil prices throughout 2015 and 2016 significantly lowered Saudi Arabia’s governmental revenue. In response, the government cut subsidies on water, electricity, and gasoline; reduced government employee compensation packages; and announced limited new land taxes. In coordination with OPEC and some key non-OPEC countries, Saudi Arabia agreed to cut oil output in early 2017 to regulate supply and help elevate global prices. In early 2020, this agreement by the so-called OPEC+ coalition collapsed. Saudi Arabia launched a price war by flooding the market with low-priced oil before returning to the negotiating table to agree to OPEC+’s largest and longest-lasting output cut. This cut helped to buoy prices that had collapsed as a result of the price war and the effect of the COVID-19 pandemic. </p><br>
+<p>Saudi Arabia is the birthplace of Islam and home to Islam's two holiest shrines in Mecca and Medina. The king's official title is the Custodian of the Two Holy Mosques. ABD AL-AZIZ bin Abd al-Rahman AL SAUD (Ibn Saud) founded the modern Saudi state in 1932 after a 30-year campaign to unify most of the Arabian Peninsula. One of his male descendants rules the country today, as required by the country's 1992 Basic Law. After Iraq invaded Kuwait in 1990, Saudi Arabia took in the Kuwaiti royal family and 400,000 refugees, while allowing Western and Arab troops to deploy on its soil and liberate Kuwait the following year. Major terrorist attacks in 2003 spurred a strong ongoing campaign against domestic terrorism and extremism. US troops returned to the Kingdom in 2019 after attacks on Saudi oil infrastructure.</p> <p>From 2005 to 2015, King ABDALLAH bin Abd al-Aziz Al Saud incrementally modernized the Kingdom through a series of social and economic initiatives that included expanding employment and social opportunities for women, attracting foreign investment, increasing the private sector's role in the economy, and discouraging the hiring of foreign workers. Saudi Arabia saw some protests during the 2011 Arab Spring but not the level of bloodshed seen in protests elsewhere in the region; Riyadh took a cautious but firm approach, arresting and quickly releasing some protesters and using its state-sponsored clerics to counter political and Islamist activism. The government held its first-ever elections in 2005 and 2011, when Saudis voted for municipal councilors. King ABDALLAH's reforms accelerated under King SALMAN bin Abd al-Aziz, who ascended to the throne in 2015 and lifted the Kingdom's ban on women driving, implemented education reforms, funded green initiatives, and allowed cinemas to operate for the first time in decades. In 2015, women were allowed to vote and stand as candidates for the first time in municipal elections, with 19 women winning seats. King SALMAN initially named his nephew, MUHAMMAD BIN NAYIF bin Abd al-Aziz Al Saud, as the Crown Prince, but a palace coup in 2017 resulted in King SALMAN's son, Deputy Crown Prince MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud, taking over as Crown Prince. King SALMAN appointed MUHAMMAD BIN SALMAN as prime minister in 2022.<br><br>In 2015, Saudi Arabia led a coalition of 10 countries in a military campaign to restore Yemen's legitimate government, which had been ousted by Houthi forces. The war in Yemen has drawn international criticism for civilian casualties and its effect on the country’s dire humanitarian situation. The same year, MUHAMMAD BIN SALMAN announced that Saudi Arabia would lead a multi-nation Islamic Coalition to fight terrorism, and in 2017, Saudi Arabia inaugurated the Global Center for Combatting Extremist Ideology (also known as "Etidal"). </p> <p>The country remains a leading producer of oil and natural gas and holds about 17% of the world's proven oil reserves as of 2020. The government continues to pursue economic reform and diversification -- particularly since Saudi Arabia's accession to the WTO in 2005 -- and promotes foreign investment in the Kingdom. In 2016, the Saudi Government announced broad socio-economic reforms known as Vision 2030. Low global oil prices in 2015 and 2016 significantly lowered Saudi Arabia’s governmental revenue, prompting cuts to subsidies on water, electricity, and gasoline; reduced government-employee compensation; and new land taxes. In coordination with OPEC and some key non-OPEC countries, Saudi Arabia agreed to cut oil output in 2017 to regulate supply and help boost global prices. In 2020, this agreement collapsed, and Saudi Arabia launched a price war by flooding the market with low-priced oil before returning to the negotiating table to agree to a major output cut that helped buoy prices. </p><br>
 
 ## Geography
 
@@ -336,7 +336,7 @@ _elections/appointments_: none; the monarchy is hereditary; an Allegiance Counci
 
 **Legislative branch**<br>
 _description_: unicameral Consultative Council or Majlis al-Shura (150 seats plus a speaker; members appointed by the monarch to serve 4-year terms); note - in early 2013, the monarch granted women 30 seats on the Council<br>
-_election results_: composition as of February 2024 - men 121, women 30, percentage women 19.9%<br>
+_election results_: composition - men 121, women 30, percentage women 19.9%<br>
 <strong>note:</strong> composition as of 2021 - men 121, women 30, percent of women 19.9%<br>
 
 **Judicial branch**<br>
@@ -392,29 +392,29 @@ high-income, oil-based Middle Eastern economy; OPEC leader; diversifying portfol
 $1.827 trillion (2022 est.)<br>
 $1.681 trillion (2021 est.)<br>
 $1.612 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 8.68% (2022 est.)<br>
 4.33% (2021 est.)<br>
 -4.34% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $50,200 (2022 est.)<br>
 $46,800 (2021 est.)<br>
 $44,800 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.109 trillion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 2.47% (2022 est.)<br>
 3.06% (2021 est.)<br>
 3.45% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A (2019)<br>
@@ -436,32 +436,30 @@ _exports of goods and services_: 34.8% (2017 est.)<br>
 _imports of goods and services_: -28.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, dates, poultry, fruit, watermelons, barley, wheat, potatoes, eggs, tomatoes<br>
+milk, dates, chicken, wheat, tomatoes, potatoes, watermelons, olives, eggs, onions (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 crude oil production, petroleum refining, basic petrochemicals, ammonia, industrial gases, sodium hydroxide (caustic soda), cement, fertilizer, plastics, metals, commercial ship repair, commercial aircraft repair, construction<br>
 
 **Industrial production growth rate**<br>
 13.12% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 16.617 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 5.59% (2022 est.)<br>
 6.62% (2021 est.)<br>
 7.45% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 28.8% (2021 est.)<br>
 _male_: 22.4%<br>
 _female_: 47.9%<br>
-
-**Population below poverty line**<br>
-NA<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 45.9 (2013 est.)<br>
@@ -470,15 +468,11 @@ NA<br>
 _on food_: 20.6% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 0.6% of household expenditures (2018 est.)<br>
 
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
-
 **Remittances**<br>
 0.03% of GDP (2022 est.)<br>
 0.03% of GDP (2021 est.)<br>
 0.04% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $247.093 billion (2019 est.)<br>
@@ -493,7 +487,7 @@ _expenditures_: $282.4 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 8.24% (of GDP) (2020 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -502,37 +496,41 @@ calendar year<br>
 $153.486 billion (2022 est.)<br>
 $44.324 billion (2021 est.)<br>
 -$22.814 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $445.882 billion (2022 est.)<br>
 $286.502 billion (2021 est.)<br>
 $182.848 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 19%, India 10%, Japan 9%, South Korea 8%, United Arab Emirates 5% (2021)<br>
+China 19%, India 13%, Japan 10%, South Korea 10%, US 7% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, refined petroleum, polymers, industrial alcohols, natural gas (2021)<br>
+crude petroleum, refined petroleum, ethylene polymers, plastics, fertilizers (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $258.213 billion (2022 est.)<br>
 $213.016 billion (2021 est.)<br>
 $182.184 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 19%, United Arab Emirates 15%, United States 8%, India 6%, Germany 4% (2021)<br>
+China 22%, UAE 16%, US 6%, India 6%, Germany 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, refined petroleum, broadcasting equipment, gold, packaged medicines (2021)<br>
+cars, broadcasting equipment, garments, gold, refined petroleum (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $478.232 billion (2022 est.)<br>
 $473.89 billion (2021 est.)<br>
 $472.851 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $205.1 billion (31 December 2017 est.)<br>

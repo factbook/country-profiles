@@ -135,16 +135,20 @@ white with six blue wavy horizontal stripes; the flag of the UK is in the upper 
 small island territory economy; economic activity mainly on Diego Garcia with national military installations; recently settled disputes with Mauritius have increased oil exports; established marine reserve has limited commercial fishing<br>
 
 **Exports - partners**<br>
-Singapore 69%, United States 10%, Canada 5%, Ireland 4%, Saudi Arabia 2% (2021)<br>
+Malta 42%, Brazil 11%, Switzerland 9%, France 8%, Egypt 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-tuna and other fish, computers, integrated circuits, diamonds, jewelry (2021)<br>
+ships, refined petroleum, asphalt, diamonds, jewelry (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports - partners**<br>
-Singapore 64%, United States 22%, Panama 4%, Ireland 3%, Bulgaria 1% (2021)<br>
+US 34%, Switzerland 13%, China 11%, Italy 11%, France 7% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-inedible fish and animal products, aluminum structures, cement, boat propellers, packaged medicines (2021)<br>
+ships, refined petroleum, diamonds, aircraft, aluminum (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Exchange rates**<br>
 <p>the US dollar is used</p><br>

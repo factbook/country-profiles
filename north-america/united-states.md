@@ -365,7 +365,7 @@ _election results_: <em><br>2020:</em> Joseph R. BIDEN, Jr. elected president; e
 **Legislative branch**<br>
 _description_: bicameral Congress consists of:<br>Senate (100 seats; 2 members directly elected in each of the 50 state constituencies by simple majority vote except in Georgia and Louisiana which require an absolute majority vote with a second round if needed; members serve 6-year terms with one-third of membership renewed every 2 years)<br>House of Representatives (435 seats; members directly elected in single-seat constituencies by simple majority vote except in Georgia which requires an absolute majority vote with a second round if needed; members serve 2-year terms)<br>
 _elections_: Senate - last held on 8 November 2022 (next to be held on 5 November 2024)<br>House of Representatives - last held on 8 November 2022 (next to be held on 5 November 2024)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - Democratic Party 51, Republican Party 49; composition as of February 2024 - men 75, women 25, percentage women 25%<br><br>House of Representatives - percent of vote by party - NA; seats by party - Republican Party 222, Democratic Party 213; composition as of February 2024 - men 305, women 126, percentage women 29.2%; total US Congress percentage women 28.4%<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - Democratic Party 51, Republican Party 49; composition - men 75, women 25, percentage women 25%<br><br>House of Representatives - percent of vote by party - NA; seats by party - Republican Party 222, Democratic Party 213; composition - men 305, women 126, percentage women 29.2%; total US Congress percentage women 28.4%<br>
 <strong>note:</strong> in addition to the regular members of the House of Representatives there are 6 non-voting delegates elected from the District of Columbia and the US territories of American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, and the Virgin Islands; these are single seat constituencies directly elected by simple majority vote to serve a 2-year term (except for the resident commissioner of Puerto Rico who serves a 4-year term); the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote; election of delegates last held on 8 November 2022 (next to be held on 3 November 2024)<br>
 
 **Judicial branch**<br>
@@ -405,29 +405,29 @@ high-income, diversified North American economy; NATO leader; largest importer a
 $21.538 trillion (2022 est.)<br>
 $21.129 trillion (2021 est.)<br>
 $19.943 trillion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.94% (2022 est.)<br>
 5.95% (2021 est.)<br>
 -2.77% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $64,600 (2022 est.)<br>
 $63,600 (2021 est.)<br>
 $60,200 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $25.44 trillion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 8% (2022 est.)<br>
 4.7% (2021 est.)<br>
 1.23% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (1994)<br>
@@ -449,24 +449,25 @@ _exports of goods and services_: 12.1% (2017 est.)<br>
 _imports of goods and services_: -15% (2017 est.)<br>
 
 **Agricultural products**<br>
-maize, milk, soybeans, wheat, sugar cane, sugar beet, poultry, potatoes, cotton, pork<br>
+maize, soybeans, milk, wheat, sugarcane, sugar beets, chicken, potatoes, beef, pork (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 highly diversified, world leading, high-technology innovator, second-largest industrial output in the world; petroleum, steel, motor vehicles, aerospace, telecommunications, chemicals, electronics, food processing, consumer goods, lumber, mining<br>
 
 **Industrial production growth rate**<br>
 3.25% (2021 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 168.19 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 3.65% (2022 est.)<br>
 5.35% (2021 est.)<br>
 8.05% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.6% (2021 est.)<br>
@@ -478,7 +479,7 @@ _female_: 8.6%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 39.8 (2021 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 6.4% of household expenditures (2018 est.)<br>
@@ -487,13 +488,13 @@ _on alcohol and tobacco_: 1.7% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
 _highest 10%_: 30.1% (2021 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.03% of GDP (2022 est.)<br>
 0.03% of GDP (2021 est.)<br>
 0.03% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $6.429 trillion (2019 est.)<br>
@@ -506,11 +507,11 @@ _expenditures_: $7.647 trillion (2019 est.)<br>
 115.7% of GDP (2022 est.)<br>
 120.36% of GDP (2021 est.)<br>
 126.24% of GDP (2020 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 12.32% (of GDP) (2022 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
@@ -519,37 +520,41 @@ note: central government tax revenue as a % of GDP<br>
 -$971.594 billion (2022 est.)<br>
 -$831.453 billion (2021 est.)<br>
 -$597.145 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $3.018 trillion (2022 est.)<br>
-$2.567 trillion (2021 est.) note: data are in current year dollars<br>
-$2.16 trillion (2020 est.) note: data are in current year dollars<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+$2.567 trillion (2021 est.)<br>
+$2.16 trillion (2020 est.)<br>
+<strong>note:</strong> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Canada 16%, Mexico 15%, China 9%, Japan 4%, South Korea 4% (2021)<br>
+Canada 16%, Mexico 15%, China 8%, Japan 4%, UK 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-refined petroleum, natural gas, crude petroleum, cars and vehicle parts, integrated circuits, aircraft, vaccines and cultures (2021)<br>
+refined petroleum, crude petroleum, natural gas, cars, integrated circuits (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $3.97 trillion (2022 est.)<br>
 $3.409 trillion (2021 est.)<br>
 $2.813 trillion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 19%, Mexico 13%, Canada 13%, Germany 5%, Japan 5% (2021)<br>
+China 18%, Canada 14%, Mexico 14%, Germany 5%, Japan 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cars, crude petroleum, computers, broadcasting equipment, packaged medicines (2021)<br>
+crude petroleum, cars, broadcasting equipment, garments, computers (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $706.644 billion (2022 est.)<br>
 $716.152 billion (2021 est.)<br>
 $628.37 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $20,275,951,000,000 (2019 est.)<br>
@@ -722,7 +727,7 @@ United States Armed Forces (aka US Military): US Army (USA), US Navy (USN; inclu
 3.5% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1.31 million active-duty personnel (446,000 Army; 328,000 Navy; 317,000 Air Force; 9,00 Space Force; 167,000 Marine Corps; 40,000 Coast Guard); 330,000 Army National Guard; 105,000 Air National Guard (2024)<br>
+approximately 1.31 million active-duty personnel (446,000 Army; 328,000 Navy; 317,000 Air Force; 9,000 Space Force; 167,000 Marine Corps; 40,000 Coast Guard); 330,000 Army National Guard; 105,000 Air National Guard (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the US military's inventory is comprised almost entirely of domestically produced weapons systems (some assembled with foreign components) along with a smaller mix of imported equipment from a variety of Western countries such as Germany and the UK; the US defense industry is capable of designing, developing, maintaining, and producing the full spectrum of weapons systems; the US is the world's leading arms exporter (2024)<br>

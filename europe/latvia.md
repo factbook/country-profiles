@@ -335,7 +335,7 @@ _election results_: <em><br>2023: </em>Edgars RINKEVICS elected president in the
 **Legislative branch**<br>
 _description_: unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 1 October 2012 (next to be held no later than 3 October 2026)<br>
-_election results_: percent of vote by party - JV 19.2%, ZZS 12.6%, AS 11.1%, NA 9.4%, S! 6.9%, LPV 6.3%, PRO 6.2%; seats by party - JV 26, ZZS 16, AS 15, NA 13, S! 11, LPV 9, PRO 10; composition as of February 2024 - men 68, women 32, percentage women 32%<br>
+_election results_: percent of vote by party - JV 19.2%, ZZS 12.6%, AS 11.1%, NA 9.4%, S! 6.9%, LPV 6.3%, PRO 6.2%; seats by party - JV 26, ZZS 16, AS 15, NA 13, S! 11, LPV 9, PRO 10; composition- men 68, women 32, percentage women 32%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the Senate with 36 judges); Constitutional Court (consists of 7 judges)<br>
@@ -387,29 +387,29 @@ high-income, EU-member Baltic economy; export-driven; Russian invasion of Ukrain
 $62.005 billion (2022 est.)<br>
 $59.991 billion (2021 est.)<br>
 $56.207 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.36% (2022 est.)<br>
 6.73% (2021 est.)<br>
 -3.51% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $33,000 (2022 est.)<br>
 $31,800 (2021 est.)<br>
 $29,600 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $40.932 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 17.31% (2022 est.)<br>
 3.28% (2021 est.)<br>
 0.22% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A- (2014)<br>
@@ -431,24 +431,25 @@ _exports of goods and services_: 60.6% (2017 est.)<br>
 _imports of goods and services_: -61.9% (2017 est.)<br>
 
 **Agricultural products**<br>
-wheat, milk, rapeseed, barley, oats, potatoes, rye, beans, pork, poultry<br>
+wheat, milk, rapeseed, barley, oats, potatoes, rye, beans, peas, pork (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 processed foods, processed wood products, textiles, processed metals, pharmaceuticals, railroad cars, synthetic fibers, electronics<br>
 
 **Industrial production growth rate**<br>
 -2.16% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 970,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 6.81% (2022 est.)<br>
 7.51% (2021 est.)<br>
 8.1% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.5% (2021 est.)<br>
@@ -457,11 +458,11 @@ _female_: 19.6%<br>
 
 **Population below poverty line**<br>
 22.5% (2021 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 35.7 (2020 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 17.3% of household expenditures (2018 est.)<br>
@@ -470,13 +471,13 @@ _on alcohol and tobacco_: 7.9% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.5%<br>
 _highest 10%_: 27.5% (2020 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 3.26% of GDP (2022 est.)<br>
 3.34% of GDP (2021 est.)<br>
 3.16% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $12.931 billion (2020 est.)<br>
@@ -492,7 +493,7 @@ _expenditures_: $14.242 billion (2020 est.)<br>
 
 **Taxes and other revenues**<br>
 21.92% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -501,37 +502,41 @@ calendar year<br>
 -$1.937 billion (2022 est.)<br>
 -$1.579 billion (2021 est.)<br>
 $1.017 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $29.374 billion (2022 est.)<br>
 $25.43 billion (2021 est.)<br>
 $20.932 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-Lithuania 17%, Estonia 9%, United Kingdom 8%, Germany 7%, Russia 7% (2021)<br>
+Lithuania 18%, Estonia 10%, Germany 6%, Russia 6%, Sweden 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-lumber, wheat, broadcasting equipment, packaged medicines, fuel woods, hard liquors (2021)<br>
+wood, wheat, natural gas, electricity, broadcasting equipment (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $31.213 billion (2022 est.)<br>
 $26.681 billion (2021 est.)<br>
 $20.479 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Lithuania 15%, Russia 14%, Germany 9%, Poland 8%, Estonia 8% (2021)<br>
+Lithuania 22%, Estonia 10%, Germany 9%, Poland 9%, Russia 6% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, packaged medicines, broadcasting equipment, electricity, cars, natural gas (2021)<br>
+natural gas, refined petroleum, electricity, cars, packaged medicine (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $4.46 billion (2022 est.)<br>
 $5.491 billion (2021 est.)<br>
 $5.29 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $40.164 billion (2019 est.)<br>

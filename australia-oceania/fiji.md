@@ -323,7 +323,7 @@ _election results_: <em>2021:</em> Ratu Wiliame KATONIVERE elected president; Wi
 **Legislative branch**<br>
 _description_: unicameral Parliament (55 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote with a 5% electoral threshold; members serve 4-year terms)<br>
 _elections_: last held on 14 December 2022 (next to be held in 2026)<br>
-_election results_: percent of vote by party - FijiFirst 42.5%, People's Alliance 35.8%, NFP 8.9%, SODELPA 5.1%, other 7.7%; seats by party - FijiFirst 26, People's Alliance 21, NFP 5, SODELPA 3; composition as of February&nbsp;2024 - men 50, women 5, percentage women 9.1%<br>
+_election results_: percent of vote by party - FijiFirst 42.5%, People's Alliance 35.8%, NFP 8.9%, SODELPA 5.1%, other 7.7%; seats by party - FijiFirst 26, People's Alliance 21, NFP 5, SODELPA 3; composition - men 50, women 5, percentage women 9.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice, all justices of the Court of Appeal, and judges appointed specifically as Supreme Court judges); Court of Appeal (consists of the court president, all puisne judges of the High Court, and judges specifically appointed to the Court of Appeal); High Court (chaired by the chief justice and includes a minimum of 10 puisne judges; High Court organized into civil, criminal, family, employment, and tax divisions)<br>
@@ -375,29 +375,29 @@ upper-middle income, tourism-based Pacific island economy; susceptible to ocean 
 $11.518 billion (2022 est.)<br>
 $9.597 billion (2021 est.)<br>
 $10.09 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 20.02% (2022 est.)<br>
 -4.88% (2021 est.)<br>
 -17.04% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $12,400 (2022 est.)<br>
 $10,400 (2021 est.)<br>
 $11,000 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $4.98 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4.52% (2022 est.)<br>
 0.16% (2021 est.)<br>
 -2.6% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Ba3 (2017)<br>
@@ -418,24 +418,25 @@ _exports of goods and services_: 29% (2017 est.)<br>
 _imports of goods and services_: -51.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, cassava, taro, poultry, vegetables, coconuts, eggs, milk, ginger, sweet potatoes<br>
+sugarcane, cassava, taro, chicken, vegetables, coconuts, ginger, rice, milk, sweet potatoes (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 tourism, sugar processing, clothing, copra, gold, silver, lumber<br>
 
 **Industrial production growth rate**<br>
 5.7% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 382,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.56% (2022 est.)<br>
 4.8% (2021 est.)<br>
 4.73% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 18.1% (2021 est.)<br>
@@ -444,22 +445,22 @@ _female_: 25.9%<br>
 
 **Population below poverty line**<br>
 24.1% (2019 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 30.7 (2019 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.5%<br>
 _highest 10%_: 24.2% (2019 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 9.21% of GDP (2022 est.)<br>
 9.14% of GDP (2021 est.)<br>
 7.16% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $885 million (2020 est.)<br>
@@ -474,7 +475,7 @@ _expenditures_: $1.515 billion (2020 est.)<br>
 
 **Taxes and other revenues**<br>
 15.87% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -483,37 +484,41 @@ calendar year<br>
 -$865.665 million (2022 est.)<br>
 -$686.577 million (2021 est.)<br>
 -$614.13 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $2.376 billion (2022 est.)<br>
 $1.171 billion (2021 est.)<br>
 $1.23 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 34%, Australia 14%, China 7%, New Zealand 7%, Tonga 4% (2021)<br>
+US 39%, Australia 11%, Tonga 5%, NZ 5%, China 4% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-water, fuel wood, gold, sugar, refined petroleum, fish (2021)<br>
+water, fish, refined petroleum, wood, garments (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $3.434 billion (2022 est.)<br>
 $2.344 billion (2021 est.)<br>
 $1.977 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-New Zealand 18%, China 16%, Singapore 14%, Australia 13%, United States 9% (2021)<br>
+Singapore 23%, China 16%, Australia 13%, NZ 11%, South Korea 8% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, aircraft, cars, dentistry devices, broadcasting equipment (2021)<br>
+refined petroleum, plastic products, plastics, wheat, garments (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $1.557 billion (2022 est.)<br>
 $1.518 billion (2021 est.)<br>
 $1.082 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.022 billion (31 December 2017 est.)<br>

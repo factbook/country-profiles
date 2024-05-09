@@ -363,29 +363,29 @@ growing CEMAC economy and new OPEC member; large oil and gas reserves; targeting
 $24.987 billion (2022 est.)<br>
 $24.077 billion (2021 est.)<br>
 $24.013 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.78% (2022 est.)<br>
 0.26% (2021 est.)<br>
 -4.79% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $14,900 (2022 est.)<br>
 $14,700 (2021 est.)<br>
 $15,000 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $12.03 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 4.79% (2022 est.)<br>
 -0.1% (2021 est.)<br>
 4.77% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.5% (2017 est.)<br>
@@ -401,24 +401,25 @@ _exports of goods and services_: 56.9% (2017 est.)<br>
 _imports of goods and services_: -39% (2017 est.)<br>
 
 **Agricultural products**<br>
-sweet potatoes, cassava, roots/tubers nes, plantains, oil palm fruit, bananas, coconuts, coffee, cocoa, eggs<br>
+sweet potatoes, cassava, plantains, oil palm fruit, root vegetables, bananas, coconuts, coffee, cocoa beans, chicken (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 petroleum, natural gas, sawmilling<br>
 
 **Industrial production growth rate**<br>
 3.13% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 572,000 (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 8.58% (2022 est.)<br>
 9.19% (2021 est.)<br>
 9.03% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 18.3% (2021 est.)<br>
@@ -427,10 +428,6 @@ _female_: 19.9%<br>
 
 **Population below poverty line**<br>
 44% (2011 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Remittances**<br>
 0% of GDP (2019 est.)<br>
@@ -450,7 +447,7 @@ _expenditures_: $2.535 billion (2018 est.)<br>
 
 **Taxes and other revenues**<br>
 5.44% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -460,32 +457,38 @@ calendar year<br>
 -$1.457 billion (2016 est.)<br>
 
 **Exports**<br>
-$8.776 billion (2019 est.)<br>
-$8.914 billion (2018 est.)<br>
-$9.94 billion (2017 est.)<br>
+$6.231 billion (2022 est.)<br>
+$5.851 billion (2021 est.)<br>
+$4.041 billion (2020 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 34%, India 19%, Spain 11%, United States 7% (2019)<br>
+Zambia 21%, Spain 15%, China 15%, India 10%, Italy 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-crude petroleum, natural gas, industrial alcohols, lumber, veneer sheeting (2021)<br>
+crude petroleum, natural gas, fertilizers, packaged medicine, cars (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$6.245 billion (2019 est.)<br>
-$6.129 billion (2018 est.)<br>
-$5.708 billion (2017 est.)<br>
+$4.297 billion (2022 est.)<br>
+$4.351 billion (2021 est.)<br>
+$3.669 billion (2020 est.)<br>
+<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-United States 22%, Spain 19%, China 12%, United Kingdom 6%, United Arab Emirates 5% (2019)<br>
+Zambia 38%, China 14%, Spain 10%, Nigeria 7%, US 4% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-gas turbines, beer, ships, industrial machinery, excavation machinery (2019)<br>
+ships, refined copper, iron alloys, raw copper, poultry (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $44.271 million (2021 est.)<br>
 $60.833 million (2020 est.)<br>
 $40.817 million (2019 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $1.211 billion (31 December 2017 est.)<br>

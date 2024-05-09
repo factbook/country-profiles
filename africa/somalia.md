@@ -327,7 +327,7 @@ _election results_: <em><br>2022:</em> HASSAN SHEIKH Mohamud elected president i
 **Legislative branch**<br>
 _description_: bicameral Federal Parliament to consist of:<br>Senate (54 seats; senators indirectly elected by state assemblies to serve 4-year terms)<br>House of the People (275 seats; members indirectly elected by electoral colleges, each consisting of 51 delegates selected by the 136 Traditional Elders in consultation with sub-clan elders; members serve 4-year terms)<br>
 _elections_: Senate - first held on 10 October 2016; last held 27 July - 13 November 2021 (next to be held in 2024)<br>House of the People - first held 23 October - 10 November 2016 (next scheduled for September - October 2021 but postponed to November 2021 and then extended several times until April 2022; next to be held in June 2024)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition as of February 2024 - men 40, women 14, percentage women 25.9%<br><br>House of the People - percent of vote by party - NA; seats by party - NA; composition as of February 2024 - men 221, women 54, percentage women 19.6%; total Federal Parliament percentage women 20.7%<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 40, women 14, percentage women 25.9%<br><br>House of the People - percent of vote by party - NA; seats by party - NA; composition - men 221, women 54, percentage women 19.6%; total Federal Parliament percentage women 20.7%<br>
 <strong>note 1:</strong> the inaugural House of the People was appointed in September 2012 by clan elders; in 2016 and 2017, the Federal Parliament became bicameral with indirect elections scheduled for 10 October 2016 for the Upper House - renamed 'Senate' and 23 October to 10 November 2016 for the House of the People; while the elections were delayed, they were eventually held in most regions despite voting irregularities; on 27 December 2016, 41 Upper House senators and 242 House of the People Members of Parliament were sworn in<br><strong><br>note 2: </strong>despite the formation of political parties in 2020, the 2021 parliamentary elections maintained a primarily clan-based system of appointments; seats in the legislature were apportioned to Somali member states and not by party representation <br><br><br><br><br><br>
 
 **Judicial branch**<br>
@@ -378,23 +378,23 @@ low-income African Horn economy; 30 years of war and instability crippled econom
 $25.491 billion (2022 est.)<br>
 $24.886 billion (2021 est.)<br>
 $24.089 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.43% (2022 est.)<br>
 3.31% (2021 est.)<br>
 -2.56% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $1,400 (2022 est.)<br>
 $1,500 (2021 est.)<br>
 $1,500 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $10.42 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 1.5% (2017 est.)<br>
@@ -414,24 +414,25 @@ _exports of goods and services_: 0.3% (2015 est.)<br>
 _imports of goods and services_: -1.6% (2015 est.)<br>
 
 **Agricultural products**<br>
-camel milk, milk, sheep milk, goat milk, sugar cane, fruit, sorghum, cassava, vegetables, maize<br>
+camel milk, milk, goat milk, sheep milk, sugarcane, fruits, sorghum, cassava, vegetables, maize (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 light industries, including sugar refining, textiles, wireless communication<br>
 
 **Industrial production growth rate**<br>
 4.3% (2014 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 3.163 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 19.29% (2022 est.)<br>
 19.94% (2021 est.)<br>
 19.59% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 34.7% (2021 est.)<br>
@@ -440,20 +441,16 @@ _female_: 38.5%<br>
 
 **Population below poverty line**<br>
 54.4% (2022 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 36.8 (2017 est.)<br>
-
-**Household income or consumption by percentage share**<br>
-_lowest 10%_: NA<br>
-_highest 10%_: NA<br>
 
 **Remittances**<br>
 16.65% of GDP (2022 est.)<br>
 17.63% of GDP (2021 est.)<br>
 18.85% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $145.3 million (2014 est.)<br>
@@ -468,7 +465,7 @@ _expenditures_: $151.1 million (2014 est.)<br>
 
 **Taxes and other revenues**<br>
 0% (of GDP) (2020 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 NA<br>
@@ -482,20 +479,24 @@ $819 million (2014 est.)<br>
 $779 million (2013 est.)<br>
 
 **Exports - partners**<br>
-United Arab Emirates 47%, Saudi Arabia 19%, India 5%, Japan 5% (2019)<br>
+UAE 50%, Oman 30%, Bulgaria 3%, India 3%, Kuwait 2% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-gold, sheep, goats, sesame seeds, insect resins, cattle (2019)<br>
+gold, sheep and goats, cattle, gum resins, shellfish (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $94.43 billion (2018 est.)<br>
 $80.07 billion (2017 est.)<br>
 
 **Imports - partners**<br>
-United Arab Emirates 32%, China 20%, India 17%, Turkey 7% (2019)<br>
+UAE 33%, China 19%, India 16%, Turkey 7%, Ethiopia 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-cigarettes, raw sugar, rice, broadcasting equipment, textiles (2019)<br>
+tobacco, raw sugar, palm oil, rice, milk (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $30.45 million (2014 est.)<br>

@@ -355,7 +355,7 @@ _election results_: President Mohammad Shahabuddin CHUPPI (AL) elected unopposed
 **Legislative branch**<br>
 _description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the House of the Nation membership by proportional representation vote using single transferable vote method; all members serve 5-year terms)<br>
 _elections_: last held on 7 January 2024 (next to be held in 2029)<br>
-_election results_: percent of vote by party - NA; seats by party as of December 2023 - AL 306, JP 27, BNP 0, other 14, independent 3; composition as of February 2024 - men 280, women 70, percentage women 20%<br>
+_election results_: percent of vote by party - NA; seats by party as of December 2023 - AL 306, JP 27, BNP 0, other 14, independent 3; composition - men 280, women 70, percentage women 20%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices)<br>
@@ -408,29 +408,29 @@ one of the fastest growing emerging market economies; strong economic rebound fo
 $1.072 trillion (2022 est.)<br>
 $1.001 trillion (2021 est.)<br>
 $936.113 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 7.1% (2022 est.)<br>
 6.94% (2021 est.)<br>
 3.45% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $6,300 (2022 est.)<br>
 $5,900 (2021 est.)<br>
 $5,600 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $460.201 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 7.7% (2022 est.)<br>
 5.55% (2021 est.)<br>
 5.69% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2014)<br>
@@ -452,24 +452,25 @@ _exports of goods and services_: 15% (2017 est.)<br>
 _imports of goods and services_: -20.3% (2017 est.)<br>
 
 **Agricultural products**<br>
-rice, milk, eggs, potatoes, maize, sugar cane, onions, jute, mangoes, other tropical fruits and vegetables<br>
+rice, milk, potatoes, maize, sugarcane, onions, vegetables, jute, mangoes/guavas, tropical fruits (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 cotton, textiles and clothing, jute, tea, paper, cement, fertilizer, sugar, light engineering&nbsp;<br>
 
 **Industrial production growth rate**<br>
 9.86% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 73.862 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 4.27% (2022 est.)<br>
 5.25% (2021 est.)<br>
 5.32% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.7% (2021 est.)<br>
@@ -478,11 +479,11 @@ _female_: 19.6%<br>
 
 **Population below poverty line**<br>
 18.7% (2022 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 31.8 (2022 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 53.5% of household expenditures (2018 est.)<br>
@@ -491,13 +492,13 @@ _on alcohol and tobacco_: 1.9% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6%<br>
 _highest 10%_: 26% (2022 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 4.67% of GDP (2022 est.)<br>
 5.33% of GDP (2021 est.)<br>
 5.82% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $30.023 billion (2019 est.)<br>
@@ -512,7 +513,7 @@ _expenditures_: $46.379 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 7.64% (of GDP) (2021 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
@@ -521,37 +522,41 @@ note: central government tax revenue as a % of GDP<br>
 -$14.37 billion (2022 est.)<br>
 -$15.775 billion (2021 est.)<br>
 $1.193 billion (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $60.138 billion (2022 est.)<br>
 $49.291 billion (2021 est.)<br>
 $38.476 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-United States 18%, Germany 16%, United Kingdom 8%, Spain 7%, Poland 5% (2022)<br>
+US 18%, Germany 16%, UK 8%, Spain 7%, Poland 6% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-textiles (knit/non-knit garments, linens, jute yarn), leather footwear, knitted hats (2022)<br>
+garments, footwear, fabric, textiles, jute yarn (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $93.815 billion (2022 est.)<br>
 $85.299 billion (2021 est.)<br>
 $56.776 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-China 32%, India 17%, Singapore 6%, Malaysia 5%, Indonesia 5%&nbsp; (2022)<br>
+China 32%, India 17%, Singapore 6%, Malaysia 5%, Indonesia 5% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-refined petroleum, cotton, textiles (woven/knitted fabrics, cotton yarn), palm oil, wheat (2022)<br>
+refined petroleum, cotton fabric, cotton, fabric, fertilizers (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $33.747 billion (2022 est.)<br>
 $46.166 billion (2021 est.)<br>
 $43.172 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $50.26 billion (31 December 2017 est.)<br>

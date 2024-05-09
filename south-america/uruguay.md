@@ -353,7 +353,7 @@ _election results_: <br><em>2019:</em> Luis Alberto LACALLE POU elected presiden
 **Legislative branch**<br>
 _description_: bicameral General Assembly or Asamblea General consists of:<br>Chamber of Senators or Camara de Senadores (30 seats; members directly elected in a single nationwide constituency by proportional representation vote; the vice-president serves as the presiding ex-officio member; elected members serve 5-year terms)<br>Chamber of Representatives or Camara de Representantes (99 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)<br>
 _elections_: Chamber of Senators - last held on 27 October 2019 (next to be held on 27 October 2024) <br>Chamber of Representatives - last held on 27 October 2019 (next to be held on 27 October 2024)<br>
-_election results_: Chamber of Senators - percent of vote by party/coalition - NA; seats by party/coalition - Frente Amplio 13, National Party 10, Colorado Party 4, Open Cabildo 3; composition as of February 2024 - men 21, women 10, percentage women 32.3%<br><br>Chamber of Representatives - percent of vote by party/coalition - NA; seats by coalition/party - Frente Amplio 42, National Party 30, Colorado Party 13, Open Cabildo 11, Independent Party 1, other 2; composition as of February 2024 - men 74, women 25, percentage women 25.3%; note - total General Assembly percentage women 26.9%<br>
+_election results_: Chamber of Senators - percent of vote by party/coalition - NA; seats by party/coalition - Frente Amplio 13, National Party 10, Colorado Party 4, Open Cabildo 3; composition - men 21, women 10, percentage women 32.3%<br><br>Chamber of Representatives - percent of vote by party/coalition - NA; seats by coalition/party - Frente Amplio 42, National Party 30, Colorado Party 13, Open Cabildo 11, Independent Party 1, other 2; composition - men 74, women 25, percentage women 25.3%; note - total General Assembly percentage women 26.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of 5 judges)<br>
@@ -407,29 +407,29 @@ high-income, export-oriented South American economy; South America&rsquo;s large
 $83.607 billion (2022 est.)<br>
 $79.685 billion (2021 est.)<br>
 $75.692 billion (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.92% (2022 est.)<br>
 5.28% (2021 est.)<br>
 -6.26% (2020 est.)<br>
-note: annual GDP % growth based on constant local currency<br>
+<b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
 $24,400 (2022 est.)<br>
 $23,300 (2021 est.)<br>
 $22,100 (2020 est.)<br>
-note: data in 2017 dollars<br>
+<b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $71.177 billion (2022 est.)<br>
-note: data in current dollars at official exchange rate<br>
+<b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
 9.1% (2022 est.)<br>
 7.75% (2021 est.)<br>
 9.76% (2020 est.)<br>
-note: annual % change based on consumer prices<br>
+<b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2013)<br>
@@ -451,24 +451,25 @@ _exports of goods and services_: 21.6% (2017 est.)<br>
 _imports of goods and services_: -18.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-soybeans, milk, rice, maize, wheat, barley, beef, sugar cane, sorghum, oranges<br>
+milk, rice, wheat, barley, soybeans, beef, rapeseed, sugarcane, maize, oranges (2022)<br>
+<b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
 food processing, electrical machinery, transportation equipment, petroleum products, textiles, chemicals, beverages<br>
 
 **Industrial production growth rate**<br>
 1.76% (2022 est.)<br>
-note: annual % change in industrial value added based on constant local currency<br>
+<b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
 1.751 million (2022 est.)<br>
-note: number of people ages 15 or older who are employed or seeking work<br>
+<b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
 7.87% (2022 est.)<br>
 9.29% (2021 est.)<br>
 10.33% (2020 est.)<br>
-note: % of labor force seeking employment<br>
+<b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 32.9% (2021 est.)<br>
@@ -477,11 +478,11 @@ _female_: 38.7%<br>
 
 **Population below poverty line**<br>
 9.9% (2022 est.)<br>
-note: % of population with income below national poverty line<br>
+<b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 40.8 (2021 est.)<br>
-note: index (0-100) of income distribution; higher values represent greater inequality<br>
+<b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
 _on food_: 18.6% of household expenditures (2018 est.)<br>
@@ -490,13 +491,13 @@ _on alcohol and tobacco_: 1.3% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
 _highest 10%_: 30.8% (2021 est.)<br>
-note: % share of income accruing to lowest and highest 10% of population<br>
+<b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
 0.18% of GDP (2022 est.)<br>
 0.2% of GDP (2021 est.)<br>
 0.21% of GDP (2020 est.)<br>
-note: personal transfers and compensation between resident and non-resident individuals/households/entities<br>
+<b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
 _revenues_: $14.991 billion (2020 est.)<br>
@@ -509,11 +510,11 @@ _expenditures_: $17.571 billion (2020 est.)<br>
 60.28% of GDP (2020 est.)<br>
 50.27% of GDP (2019 est.)<br>
 47.44% of GDP (2018 est.)<br>
-note: central government debt as a % of GDP<br>
+<b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 18.52% (of GDP) (2020 est.)<br>
-note: central government tax revenue as a % of GDP<br>
+<b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -522,37 +523,41 @@ calendar year<br>
 -$2.62 billion (2022 est.)<br>
 -$1.555 billion (2021 est.)<br>
 -$435.211 million (2020 est.)<br>
-note: balance of payments - net trade and primary/secondary income in current dollars<br>
+<b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
 $22.565 billion (2022 est.)<br>
 $19.527 billion (2021 est.)<br>
 $13.851 billion (2020 est.)<br>
-note: balance of payments - exports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
-China 29%, Brazil 12%, United States 5%, Netherlands 5%, Argentina 5% (2019)<br>
+China 24%, Brazil 14%, Argentina 8%, US 7%, Netherlands 5% (2022)<br>
+<b>note:</b> top five export partners based on percentage share of exports<br>
 
 **Exports - commodities**<br>
-sulfate wood pulp, beef, soybeans, concentrated milk, rice (2019)<br>
+beef, wood pulp, soybeans, milk, rice (2022)<br>
+<b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
 $18.894 billion (2022 est.)<br>
 $15.125 billion (2021 est.)<br>
 $11.43 billion (2020 est.)<br>
-note: balance of payments - imports of goods and services in current dollars<br>
+<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
-Brazil 25%, China 15%, United States 11%, Argentina 11% (2019)<br>
+Brazil 20%, China 18%, US 15%, Argentina 11%, Germany 3% (2022)<br>
+<b>note:</b> top five import partners based on percentage share of imports<br>
 
 **Imports - commodities**<br>
-crude petroleum, packaged medicines, cars, broadcasting equipment, delivery trucks (2019)<br>
+crude petroleum, fertilizers, cars, packaged medicine, broadcasting equipment (2022)<br>
+<b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
 $15.127 billion (2022 est.)<br>
 $16.963 billion (2021 est.)<br>
 $16.25 billion (2020 est.)<br>
-note: holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
+<b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
 $43.705 billion (2019 est.)<br>
