@@ -348,9 +348,9 @@ _election results_: <br><em>2019: </em>Zoran MILANOVIC elected president in seco
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Hrvatski Sabor (151 seats; 140 members in 10 multi-seat constituencies and 3 members in a single constituency for Croatian diaspora directly elected by proportional representation vote using the D'Hondt method with a 5% threshold; an additional 8 members elected from a nationwide constituency by simple majority by voters belonging to minorities recognized by Croatia; the Serb minority elects 3 Assembly members, the Hungarian and Italian minorities elect 1 each, the Czech and Slovak minorities elect 1 jointly, and all other minorities elect 2; all members serve 4-year terms<br>
-_elections_: last election held on 17 April 2024<br>
-_election results_: percent of vote by party/coalition - HDZ-led coalition 37.3%, Restart coalition 24.9%, DP-led coalition 10.9%, MOST 7.4%, Green-Left coalition 7%, P-F-SSIP 4%, HNS-LD 1.3%, NS-R 1%, other 6.2%; seats by party/coalition - HDZ-led coalition 66, Restart coalition 41, DP-led coalition 16, MOST 8, Green-Left coalition 7, P-F-SSIP 3, HNS-LD 1, NS-R 1, national minorities 8; composition - men 100, women 51, percentage women 33.8%<br>
-<strong>note: </strong>seats by party as of January 2024 - HDZ 62, SDP 14, Social Democrats 11, MOST 7, DP 5, HS 4, We Can! 4, HSS 3, SDSS 3, Focus 2, HDS 2, HSLS 2, IDS 2, BLOK 1, Center 1, GLAS 1, HNS 1, HRB 1, NS-R 1, NL 1, OIP 1, PH 1, RF 1, SSIP 1, independent 19<br>
+_elections_: last election held on 17 April 2024 (next to be held by April 2028)<br>
+_election results_: percent of vote by party/coalition - HDZ-led coalition 40.4%, SDP 27.8%, DP 9.3%, MOST 7.3%, We Can! 6.6%, SDSS 2.0%, Independents 1.3%, NPS 1.3%, IDS 1.3%, Bosniaks Together 0.7%, DZMH 0.7%, Focus 0.7%, SRRH 0.7%; seats by party/coalition - HDZ-led coalition 61, SDP 42, DP 14, MOST 11, We Can! 10, SDSS 3, Independents 2, NPS 2, IDS 2, Bosniaks Together 1, DZMH 1, Focus 1, SRRH 1; composition - N/A<br>
+<strong>note:</strong> on 14 March 2024, the Assembly voted unanimously to dissolve, prompting the April 2024 snap election<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president and vice president, 25 civil department justices, and 16 criminal department justices)<br>
@@ -358,7 +358,7 @@ _judge selection and term of office_: president of Supreme Court nominated by th
 _subordinate courts_: Administrative Court; county, municipal, and specialized courts; note - there is an 11-member Constitutional Court with jurisdiction limited to constitutional issues but is outside of the judicial system<br>
 
 **Political parties and leaders**<br>
-Bloc for Croatia or BLOK or BZH [Zlatko HASANBEGOVIC]<br>The Bridge or MOST [Bozo PETROV] (formerly the Bridge of Independent Lists)<br>Center or Centar [Ivica PULJAK] (formerly Pametno and Party with a First and Last Name or SSIP) <br>Civic Liberal Alliance or GLAS [Ankar Mrak TARITAS]<br>Croatian Demochristian Party or HDS [Goran DODIG]<br>Croatian Democratic Alliance of Slavonia and Baranja or HDSSB [Branimir GLAVAS]<br>Croatian Democratic Union or HDZ [Andrej PLENKOVIC]<br>Croatian Democratic Union-led coalition (includes HSLS, HDS, HDSSB)<br>Croatian Party of Pensioners or HSU [Veselko GABRICEVIC]<br>Croatian Peasant Party or HSS [Kreso BELJAK]<br>Croatian People's Party - Liberal Democrats or HNS or HNS-LD [Mirko KOROTAJ, acting]<br>Croatian Social Liberal Party or HSLS [Dario HREBAK]<br>Croatian Sovereignists or HS [Marijan PAVLICEK]<br>Determination and Justice Party or OIP [Karolina Vidović KRISTO]<br>Focus on the Important or Focus [Davor NADI]<br>Green-Left coalition [collective leadership] (includes MOZEMO!, NL)<br>Homeland Movement or DP [Ivan PENAVA] (also known as Miroslav Škoro Homeland Movement or DPMS)<br>Independent Democratic Serb Party or SDSS [Milorad PUPOVAC]<br>Istrian Democratic Assembly or IDS [Dalibor PAUS]<br>New Left or NL [Ivana KEKIN]<br>People's Party - Reformists or NS-R [Radimir CACIC]<br>Pulse of Croatia or HRB [Ante PRKACIN]<br>Restart Coalition (includes SDP, HSS, HSU, GLAS, IDS, NS-R)<br>Righteous Croatia or PH [Milan VRKLJAN]<br>Social Democratic Party of Croatia or SDP [Peda GRBIN]<br>Social Democrats or SD [Davorko VIDOVIC]<br>We Can! or Mozemo! [collective leadership]<br>Workers' Front or RF [collective leadership]<br><strong><br></strong><br>
+Bosniaks Together<br>The Bridge or MOST [Bozo PETROV] (formerly the Bridge of Independent Lists)<br>Croatia Romani Union Kali Sara (SRRH)<br>Croatian Democratic Union or HDZ [Andrej PLENKOVIC]<br>Democratic Union of Hungarians in Croatia (DZMH) [Robert JANKOVICS]<br>Focus or Fokus [Davor NADI]<br>Homeland Movement or DP [Ivan PENAVA] (also known as Miroslav Škoro Homeland Movement or DPMS)<br>Independent Democratic Serb Party or SDSS [Milorad PUPOVAC]<br>Independent Platform of the North (NPS) [Matija POSAVEC]<br>Istrian Democratic Assembly or IDS [Dalibor PAUS]<br>Social Democratic Party of Croatia or SDP [Peda GRBIN]<br>We Can! or Mozemo! [collective leadership]<br>
 
 **International organization participation**<br>
 AIIB, Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FAO, G-11, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM (observer), NATO, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -483,8 +483,8 @@ _female_: 26.3%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 23% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
+_on food_: 19.6% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 6.6% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
@@ -693,11 +693,14 @@ _total_: 26,958 km (2022)<br>
 _total_: 384 (2023)<br>
 _by type_: bulk carrier 10, general cargo 32, oil tanker 14, other 328<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Ploce, Rijeka, Sibenik, Split<br>
-_oil terminal(s)_: Omisalj<br>
-_LNG terminal(s) (import)_: Krk Island<br>
-_river port(s)_: Vukovar (Danube)<br>
+**Ports**<br>
+_total ports_: 16 (2024)<br>
+_large_: 2<br>
+_medium_: 0<br>
+_small_: 6<br>
+_very small_: 8<br>
+_ports with oil terminals_: 8<br>
+_key ports_: Bakar, Dubrovnik, Omisalj, Rijeka Luka, Rovinj, Sibenik, Split, Zadar<br>
 
 ## Military and Security
 

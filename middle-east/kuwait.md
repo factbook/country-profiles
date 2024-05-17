@@ -307,6 +307,7 @@ National Day, 25 February (1950)<br>
 **Constitution**<br>
 _history_: approved and promulgated 11 November 1962; suspended 1976 to 1981 (4 articles); 1986 to 1991; May to July 1999<br>
 _amendments_: proposed by the amir or supported by at least one third of the National Assembly; passage requires two-thirds consent of the Assembly membership and promulgation by the amir; constitutional articles on the initiation, approval, and promulgation of general legislation cannot be amended<br>
+<strong>Note:</strong> on 10 May 2024, Amir Sheikh MISHAL al-Ahmad al-Sabah dissolved the National Assembly and suspended several articles of the constitution for up to four years<br>
 
 **Legal system**<br>
 mixed legal system consisting of English common law, French civil law, and Islamic sharia law<br>
@@ -333,6 +334,7 @@ _elections/appointments_: amir chosen from within the ruling family, confirmed b
 _description_: unicameral National Assembly or Majlis al-Umma (65 seats; 50 members directly elected from 5 multi-seat constituencies by simple majority vote and 15 ex-officio members (cabinet ministers)&nbsp;appointed by the amir; members serve 4-year terms)<br>
 _elections_: last held on 4 April 2024 (next to be held in 2028)<br>
 _election results_: 50 nonpartisan candidates, including 29 opposition candidates; composition - men 63, women 2, percent of women 3.1%<br>
+<strong>Note:</strong> on 10 May 2024, Amir Sheikh MISHAL al-Ahmad al-Sabah dissolves the National Assembly, and some powers held by the National Assembly are assumed by the government<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Constitutional Court (consists of 5 judges); Supreme Court or Court of Cassation (organized into several circuits, each with 5 judges)<br>
@@ -451,8 +453,8 @@ _male_: 17.1%<br>
 _female_: 46.2%<br>
 
 **Average household expenditures**<br>
-_on food_: 19.2% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 0.2% of household expenditures (2018 est.)<br>
+_on food_: 19.3% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 0.2% of household expenditures (2021 est.)<br>
 
 **Remittances**<br>
 0.01% of GDP (2022 est.)<br>
@@ -648,8 +650,14 @@ _unpaved_: 862 km (2018)<br>
 _total_: 176 (2023)<br>
 _by type_: general cargo 15, oil tanker 28, other 133<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'Abd Allah, Mina' al Ahmadi<br>
+**Ports**<br>
+_total ports_: 6 (2024)<br>
+_large_: 0<br>
+_medium_: 2<br>
+_small_: 1<br>
+_very small_: 3<br>
+_ports with oil terminals_: 4<br>
+_key ports_: Al Kuwayt, Doha Harbor, Mina Abd Allah, Mina Al Ahmadi, Mina Ash Shuaybah, Mina Az Zawr<br>
 
 ## Military and Security
 

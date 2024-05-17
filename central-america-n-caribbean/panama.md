@@ -467,8 +467,8 @@ _female_: 43.6%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 15.7% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1.7% of household expenditures (2018 est.)<br>
+_on food_: 15.7% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 1.7% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2%<br>
@@ -675,9 +675,15 @@ _standard gauge_: 77 km (2014) 1.435-m gauge<br>
 _total_: 8,174 (2023)<br>
 _by type_: bulk carrier 2732, container ship 671, general cargo 1,428, oil tanker 866, other 2,477<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Balboa, Colon, Cristobal<br>
-_container port(s) (TEUs)_: Balboa (3,561,432), Colon (4,915,975) (2021)<br>
+**Ports**<br>
+_total ports_: 12 (2024)<br>
+_large_: 0<br>
+_medium_: 3<br>
+_small_: 3<br>
+_very small_: 5<br>
+_size unknown_: 1<br>
+_ports with oil terminals_: 5<br>
+_key ports_: Bahia De Las Minas, Balboa, Pedregal, Puerto Armuelles, Puerto Colon, Puerto Cristobal<br>
 
 ## Military and Security
 

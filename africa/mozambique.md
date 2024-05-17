@@ -697,9 +697,14 @@ _unpaved_: 24,604 km (2018)<br>
 _total_: 36 (2023)<br>
 _by type_: general cargo 9, other 27<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Beira, Maputo, Nacala<br>
-_LNG terminal(s) (export)_: Coral Sul (FLNG)<br>
+**Ports**<br>
+_total ports_: 11 (2024)<br>
+_large_: 0<br>
+_medium_: 2<br>
+_small_: 5<br>
+_very small_: 4<br>
+_ports with oil terminals_: 3<br>
+_key ports_: Beira, Chinde, Inhambane, Maputo, Mocambique, Pebane, Porto Belo<br>
 
 ## Military and Security
 

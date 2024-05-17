@@ -470,8 +470,8 @@ _female_: 18.3%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 26.5% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 0.5% of household expenditures (2018 est.)<br>
+_on food_: 26.5% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 0.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9%<br>
@@ -674,9 +674,14 @@ _unpaved_: 3,671 km (2017)<br>
 _total_: 5 (2023)<br>
 _by type_: other 5<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Puerto Cutuco<br>
-_oil terminal(s)_: Acajutla offshore terminal<br>
+**Ports**<br>
+_total ports_: 3 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 3<br>
+_ports with oil terminals_: 3<br>
+_key ports_: Acajutla, Acajutla Offshore Terminal, La Union<br>
 
 ## Military and Security
 
@@ -703,15 +708,6 @@ the FAES has a mix of mostly older imported platforms, largely from the US (2023
 
 **Military - note**<br>
 the Armed Force of El Salvador (FAES) is responsible for defending national sovereignty and ensuring territorial integrity but also has considerable domestic security responsibilities; while the National Civil Police (PNC) is responsible for maintaining public security, the country’s constitution allows the president to use the FAES “in exceptional circumstances” to maintain internal peace and public security; in 2016, the government created a special 1,000-strong joint unit of Army commandos and police to fight criminal gangs; more military personnel were devoted to internal security beginning in 2019 when President BUKELE signed a decree authorizing military involvement in police duties to combat rising gang violence, organized crime, and narcotics trafficking, as well as assisting with border security; since the decree, a considerable portion of the Army has been deployed in support of the PNC; in multiple cases since 2022, for example, as many as 8,000 troops have been deployed alongside thousands of police on single operations against criminal gang members <br><br>the FAES trains regularly, as well as with regional partners and the US, in such areas as internal security and disaster relief operations; it has deployed small numbers of personnel on UN peacekeeping missions and in support of military operations in Iraq (2003-2009); the FAES is deployed throughout the country in zones; the Army’s combat units are six infantry brigades, plus a special security brigade comprised of border guards and military police, and an artillery brigade; the Navy operates patrol boats and has a small force of naval commandos; the Air Force has a few dozen light ground attack fixed-wing aircraft and multirole helicopters<br><br>the military led the country for much of the 20th century; from 1980 to 1992, it fought a bloody civil war against guerrillas from the Farabundo Martí National Liberation Front or FMLN, the paramilitary arm of the Democratic Revolutionary Front (Frente Democrático Revolucionario), a coalition of left-wing dissident political groups backed by Cuba and the Soviet Union; the FAES received considerable US support during the conflict; significant human rights violations occurred during the war and approximately 75,000 Salvadorans, mostly civilians, were killed (2023)<br>
-
-## Space
-
-**Space agency/agencies**<br>
-El Salvador Aerospace Institute (ESAI; established 2018) is an aerospace think tank that is authorized by the Salvadoran Government decree to lead the country&rsquo;s national aerospace strategy (2023)<br>
-
-**Space program overview**<br>
-small, nascent space effort; ESAI serves as a link and coordination body for the aerospace industry with a focus on research, development, and innovation, particularly in the fields of science, technology, and engineering; has sought training and cooperation on space programs from South Korea and Turkey (2023)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
 

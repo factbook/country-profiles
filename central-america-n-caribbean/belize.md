@@ -653,8 +653,15 @@ _unpaved_: 2,680 km (2017)<br>
 _total_: 774 (2023)<br>
 _by type_: bulk carrier 49, general cargo 410, oil tanker 64, other 251<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Belize City, Big Creek<br>
+**Ports**<br>
+_total ports_: 2 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 0<br>
+_size unknown_: 1<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Belize City, Big Creek<br>
 
 ## Military and Security
 

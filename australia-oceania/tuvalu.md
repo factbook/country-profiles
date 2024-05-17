@@ -557,8 +557,14 @@ _total_: 16 km (2022)<br>
 _total_: 270 (2023)<br>
 _by type_: bulk carrier 21, container ship 3, general cargo 29, oil tanker 19, other 198<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Funafuti<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 1<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Funafuti Atoll<br>
 
 ## Military and Security
 

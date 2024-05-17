@@ -656,8 +656,14 @@ _unpaved_: 9,943 km (2021)<br>
 _total_: 4,821 (2023)<br>
 _by type_: bulk carrier 1,895, container ship 1,013, general cargo 170, oil tanker 1,038, other 705<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Buchanan, Monrovia<br>
+**Ports**<br>
+_total ports_: 4 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 3<br>
+_ports with oil terminals_: 3<br>
+_key ports_: Buchanan, Cape Palmas, Greenville, Monrovia<br>
 
 ## Military and Security
 

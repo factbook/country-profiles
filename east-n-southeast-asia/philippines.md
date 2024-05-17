@@ -486,8 +486,8 @@ _female_: 9%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 42% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1.4% of household expenditures (2018 est.)<br>
+_on food_: 38.6% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 2.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
@@ -702,10 +702,14 @@ _unpaved_: 155,294 km (2014)<br>
 _total_: 2,203 (2023)<br>
 _by type_: bulk carrier 52, container ship 43, general cargo 955, oil tanker 207, other 946<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila<br>
-_container port(s) (TEUs)_: Manila (4,976,014) (2021)<br>
-_LNG terminal(s) (import)_: Batangas<br>
+**Ports**<br>
+_total ports_: 70 (2024)<br>
+_large_: 2<br>
+_medium_: 4<br>
+_small_: 8<br>
+_very small_: 56<br>
+_ports with oil terminals_: 22<br>
+_key ports_: Batangas City, Cagayan De Oro, Cebu, Manila, San Fernando Harbor, Subic Bay<br>
 
 ## Military and Security
 

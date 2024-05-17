@@ -507,8 +507,8 @@ _female_: 7.2%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 56.6% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 3.8% of household expenditures (2018 est.)<br>
+_on food_: 41.3% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 3.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
@@ -715,9 +715,6 @@ _total_: 180,000 km (2023)<br>
 _total_: 12 (2023)<br>
 _by type_: general cargo 10, oil tanker 2<br>
 
-**Ports and terminals**<br>
-Ethiopia is landlocked and uses the ports of Djibouti in Djibouti and Berbera in Somalia<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
@@ -749,10 +746,10 @@ the ENDF has traditionally been one of sub-Saharan Africa’s largest, most expe
 ## Space
 
 **Space agency/agencies**<br>
-Ethiopian Space Science and Geospatial Institute (ESSGI; formed in 2022 from the joining of the Ethiopian Space Science and Technology Institute or ESSTI and the Ethiopian Geospatial Information Institute or EGII) (2023)<br>
+Ethiopian Space Science and Geospatial Institute (ESSGI; formed in 2022 from the joining of the Ethiopian Space Science and Technology Institute or ESSTI and the Ethiopian Geospatial Information Institute or EGII) (2024)<br>
 
 **Space program overview**<br>
-has a small space program with a focus on acquiring and operating satellites, as well as research and astronomy; jointly builds satellites with foreign partners and operates and exploits remote sensing (RS) satellites; developing the ability to manufacture satellites and their associated payloads; involved in astronomy and in the construction of space observatories; cooperates on space-related issues with a variety of countries, including China, France, India, Russia, and multiple African countries, particularly Kenya, Rwanda, Sudan, Tanzania, and Uganda; shares RS data with neighboring countries (2023)<br>
+has a small space program with a focus on acquiring and operating satellites, as well as research and astronomy; jointly builds satellites with foreign partners and operates and exploits remote sensing (RS) satellites; developing the ability to manufacture satellites and their associated payloads; involved in astronomy and in the construction of space observatories; cooperates on space-related issues with a variety of countries, including China, France, India, Russia, and multiple African countries, particularly Kenya, Rwanda, Sudan, Tanzania, and Uganda; shares RS data with neighboring countries (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

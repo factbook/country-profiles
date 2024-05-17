@@ -703,9 +703,6 @@ _unpaved_: 57,520 km (2021)<br>
 _total_: 2 (2023)<br>
 _by type_: general cargo 1, oil tanker 1<br>
 
-**Ports and terminals**<br>
-_river port(s)_: Mpulungu (Zambezi)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>

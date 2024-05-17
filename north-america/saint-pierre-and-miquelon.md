@@ -455,8 +455,15 @@ _total_: 117 km<br>
 _paved_: 80 km<br>
 _unpaved_: 37 km (2009)<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Saint-Pierre<br>
+**Ports**<br>
+_total ports_: 2 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 0<br>
+_size unknown_: 1<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Miquelon, St. Pierre<br>
 
 ## Military and Security
 

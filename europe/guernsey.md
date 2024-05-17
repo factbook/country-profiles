@@ -410,8 +410,14 @@ _inventory of registered aircraft operated by air carriers_: 9 (registered in UK
 **Roadways**<br>
 _total_: 260 km (2017)<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Braye Bay, Saint Peter Port<br>
+**Ports**<br>
+_total ports_: 3 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 2<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Alderney Harbour, Saint Peter Port, Saint Sampson<br>
 
 ## Military and Security
 

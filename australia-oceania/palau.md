@@ -540,8 +540,14 @@ _unpaved_: 36 km (2018)<br>
 _total_: 427 (2023)<br>
 _by type_: bulk carrier 49, container ship 8, general cargo 200, oil tanker 52, other 118<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Koror<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 1<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Malakal Harbor<br>
 
 ## Military and Security
 

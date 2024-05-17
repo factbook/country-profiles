@@ -612,10 +612,14 @@ _unpaved_: 1,080 km (2011)<br>
 _total_: 1,274 (2023)<br>
 _by type_: bulk carrier 345, container ship 39, general cargo 58, oil tanker 193, other 639<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Freeport, Nassau, South Riding Point<br>
-_cruise port(s)_: Freeport, Half Moon Cay, Nassau<br>
-_container port(s) (TEUs)_: Freeport (1,642,780) (2021)<br>
+**Ports**<br>
+_total ports_: 6 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 1<br>
+_very small_: 4<br>
+_ports with oil terminals_: 4<br>
+_key ports_: Clifton Pier, Cockburn Town, Freeport, Matthew Town, Nassau, South Riding Point<br>
 
 ## Military and Security
 
@@ -640,7 +644,7 @@ most of the RBDF's major equipment inventory has been acquired from the Netherla
 18-30 years of age for voluntary service for men and women (18-60 for Reserves); no conscription (2024)<br>
 
 **Military - note**<br>
-established in 1980; the RBDF's primary responsibilities are disaster relief, maritime security, and counter-narcotics operations; it also provides security at a detention center for migrants and performs some domestic security functions, such as guarding embassies; the RBDF is a naval force, but includes a lightly-armed marine infantry/commando squadron for base and internal security, as well as a few light non-combat aircraft; the maritime element has coastal patrol craft and patrol boats; the RBDF maintains training relationships with the UK and the US (2023)<br>
+established in 1980; the RBDF's primary responsibilities are disaster relief, maritime security, and counter-narcotics operations; it also provides security at a detention center for migrants and performs some domestic security functions, such as guarding embassies; the RBDF is a naval force, but includes a lightly-armed marine infantry/commando squadron for base and internal security, as well as a few light non-combat aircraft; the maritime element has coastal patrol craft and patrol boats; the RBDF maintains training relationships with the UK and the US (2024)<br>
 
 ## Transnational Issues
 

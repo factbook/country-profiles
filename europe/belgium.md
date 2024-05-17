@@ -470,8 +470,8 @@ _female_: 20.4%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 13.4% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 4.3% of household expenditures (2018 est.)<br>
+_on food_: 13.5% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.7%<br>
@@ -688,12 +688,14 @@ _paved_: 118,414 km (2015) (includes 1,747 km of expressways)<br>
 _total_: 198 (2023)<br>
 _by type_: bulk carrier 17, container ship 2, general cargo 16, oil tanker 21, other 142<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Oostende, Zeebrugge<br>
-_container port(s) (TEUs)_: Antwerp (12,020,000) (2021)<br>
-_LNG terminal(s) (import)_: Zeebrugge<br>
-_river port(s)_: Antwerp, Gent (Schelde River)<br>
-Brussels (Senne River) Liege (Meuse River)<br>
+**Ports**<br>
+_total ports_: 7 (2024)<br>
+_large_: 1<br>
+_medium_: 2<br>
+_small_: 2<br>
+_very small_: 2<br>
+_ports with oil terminals_: 5<br>
+_key ports_: Antwerpen, Bruxelles, Ghent, Oostende, Zeebrugge<br>
 
 ## Military and Security
 
@@ -727,10 +729,10 @@ the Belgian military’s responsibilities include territorial defense, humanitar
 ## Space
 
 **Space agency/agencies**<br>
-Royal Belgian Institute for Space Aeronomy-Interfederal Space Agency of Belgium (BIRA-IASB; established 1964; IASB added 2017); Belgium Federal Science Policy Office (BELSPO) (2023)<br>
+Royal Belgian Institute for Space Aeronomy-Interfederal Space Agency of Belgium (BIRA-IASB; established 1964; IASB added 2017); Belgium Federal Science Policy Office (BELSPO) (2024)<br>
 
 **Space program overview**<br>
-founding member of the European Space Agency (ESA), which acts as the de facto Belgian space agency as most programs are carried out under the ESA or bi-laterally with its member states; builds satellites, particularly research/science/technology and remote sensing (RS) platforms; also researches, develops, and produces a wide variety of other space technologies, including telecommunications, optics, robotics, scientific instruments, and space launch vehicle (SLV) components; supports the ESA’s SLV program with economic assistance (6% of the funding for the Ariane-5 SLV, for example), as well as legal, scientific, and technological expertise; hosts the European Space Security and Education Center (established 1968); participates in international astronomy efforts, particularly through the European Southern Observatory (ESO); participates in multiple ESA and EU space-related programs and research efforts; in addition to the ESA and EU, has cooperated with a variety foreign space agencies and commercial entities, including those of Argentina, China, India, Russia, South Africa, UAE, Vietnam, and the US (2023)<br>
+founding member of the European Space Agency (ESA), which acts as the de facto Belgian space agency as most programs are carried out under the ESA or bi-laterally with its member states; builds satellites, particularly research/science/technology and remote sensing (RS) platforms; also researches, develops, and produces a wide variety of other space technologies, including telecommunications, optics, robotics, scientific instruments, and space launch vehicle (SLV) components; supports the ESA’s SLV program with economic assistance (6% of the funding for the Ariane-5 SLV, for example), as well as legal, scientific, and technological expertise; hosts the European Space Security and Education Center (established 1968); participates in international astronomy efforts, particularly through the European Southern Observatory (ESO); participates in multiple ESA and EU space-related programs and research efforts; in addition to the ESA and EU and their individual country members, has cooperated with a variety foreign space agencies and commercial entities, including those of Argentina, China, India, Russia, South Africa, UAE, Vietnam, and the US (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

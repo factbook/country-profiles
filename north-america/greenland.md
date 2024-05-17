@@ -554,8 +554,15 @@ OY-H<br>
 _total_: 10 (2023)<br>
 _by type_: other 10<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Sisimiut<br>
+**Ports**<br>
+_total ports_: 23 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 7<br>
+_very small_: 10<br>
+_size unknown_: 6<br>
+_ports with oil terminals_: 5<br>
+_key ports_: Aasiaat, Illulissat (Jakobshavn), Kusanartoq, Nuuk, Paamuit (Frederikshab), Qeqertarsuaq, Sisimiut<br>
 
 ## Military and Security
 

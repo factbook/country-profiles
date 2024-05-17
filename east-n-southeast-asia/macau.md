@@ -561,8 +561,14 @@ _paved_: 428 km (2017)<br>
 _total_: 5 (2023)<br>
 _by type_: other 5<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Macau<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 0<br>
+_very small_: 0<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Macau<br>
 
 ## Military and Security
 

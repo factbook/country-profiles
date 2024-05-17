@@ -656,8 +656,15 @@ _total_: 12,905 km (2021)<br>
 _total_: 39 (2023)<br>
 _by type_: general cargo 5, oil tanker 2, other 32<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Grundartangi, Hafnarfjordur, Reykjavik<br>
+**Ports**<br>
+_total ports_: 43 (2024)<br>
+_large_: 0<br>
+_medium_: 2<br>
+_small_: 2<br>
+_very small_: 17<br>
+_size unknown_: 22<br>
+_ports with oil terminals_: 5<br>
+_key ports_: Grundartangi, Reykjavik, Seydhisfjordhur, Vestmannaeyjar<br>
 
 ## Military and Security
 

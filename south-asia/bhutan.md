@@ -644,10 +644,10 @@ the Army is responsible for external threats but also has some internal security
 ## Space
 
 **Space agency/agencies**<br>
-announced in 2018 that it intends to establish a space agency, but has not yet done so (2023)<br>
+announced in 2018 that it intends to establish a space agency, but has not yet done so; has a Division of Telecom and Space (DoTS) under the GovTech Agency (2024)<br>
 
 **Space program overview**<br>
-has a small, recently established program focused on acquiring satellites and developing the capabilities to manufacture satellites; cooperates with India (2023)<br>
+has a small, recently established program focused on acquiring satellites and developing the capabilities to manufacture satellites; cooperates with India and the US (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

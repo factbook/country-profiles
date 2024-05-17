@@ -463,8 +463,8 @@ _female_: 26.7%<br>
 31.8 (2011 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 20.7% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1.2% of household expenditures (2018 est.)<br>
+_on food_: 21% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 1.1% of household expenditures (2021 est.)<br>
 
 **Remittances**<br>
 27.47% of GDP (2021 est.)<br>
@@ -666,9 +666,14 @@ _total_: 21,705 km (2017)<br>
 _total_: 51 (2023)<br>
 _by type_: bulk carrier 2, container ship 1, general cargo 30, oil tanker 1, other 17<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Beirut, Tripoli<br>
-_container port(s) (TEUs)_: Beirut (1,229,100) (2019)<br>
+**Ports**<br>
+_total ports_: 5 (2024)<br>
+_large_: 1<br>
+_medium_: 1<br>
+_small_: 0<br>
+_very small_: 3<br>
+_ports with oil terminals_: 3<br>
+_key ports_: Bayrut, Sayda, Selaata, Sidon/zahrani Terminal, Tarabulus<br>
 
 ## Military and Security
 

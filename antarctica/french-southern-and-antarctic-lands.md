@@ -150,9 +150,6 @@ has one or more meteorological stations on each possession<br>
 _total_: 2 (2023)<br>
 _by type_: other 2<br>
 
-**Ports and terminals**<br>
-none; offshore anchorage only<br>
-
 ## Military and Security
 
 **Military - note**<br>

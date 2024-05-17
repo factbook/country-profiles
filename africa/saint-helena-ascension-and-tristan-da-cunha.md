@@ -455,11 +455,14 @@ _total_: 198 km (Saint Helena 138 km, Ascension 40 km, Tristan da Cunha 20 km)<b
 _paved_: 168 km (Saint Helena 118 km, Ascension 40 km, Tristan da Cunha 10 km)<br>
 _unpaved_: 30 km (2002) (Saint Helena 20 km, Tristan da Cunha 10 km)<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Saint Helena<br>
-_Saint Helena_: Jamestown<br>
-_Ascension Island_: Georgetown<br>
-_Tristan da Cunha_: Calshot Harbor (Edinburgh)<br>
+**Ports**<br>
+_total ports_: 4 (2024)<br>
+_large_: 1<br>
+_medium_: 1<br>
+_small_: 1<br>
+_very small_: 1<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Edinburgh Of The Seven Seas, Georgetown, Jamestown, North Point<br>
 
 **Transportation - note**<br>
 the new airport on Saint Helena opened for limited operations in July 2016, and the first commercial flight took place on 14 October 2017, marking the start of weekly air service between Saint Helena and South Africa via Namibia; the military airport on Ascension Island is closed to civilian traffic; there is no air connection to Tristan da Cunha and very limited sea connections making it one of the most isolated communities on the planet<br>

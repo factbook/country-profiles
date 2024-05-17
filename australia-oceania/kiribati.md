@@ -623,8 +623,14 @@ _total_: 670 km (2017)<br>
 _total_: 74 (2023)<br>
 _by type_: bulk carrier 2, general cargo 24, oil tanker 11, other 37<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Betio (Tarawa Atoll), Canton Island, English Harbor<br>
+**Ports**<br>
+_total ports_: 3 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 3<br>
+_ports with oil terminals_: 0<br>
+_key ports_: Canton Island, English Harbor, Tarawa Atoll<br>
 
 ## Military and Security
 

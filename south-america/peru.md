@@ -502,8 +502,8 @@ _female_: 13.2%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 26.3% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 2.4% of household expenditures (2018 est.)<br>
+_on food_: 26.6% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 2.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1%<br>
@@ -718,11 +718,14 @@ _paved_: 18,699 km (2022)<br>
 _total_: 111 (2023)<br>
 _by type_: general cargo 1, oil tanker 9, other 101<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Callao, Matarani, Paita<br>
-_oil terminal(s)_: Conchan oil terminal, La Pampilla oil terminal<br>
-_container port(s) (TEUs)_: Balboa (3,563,432); Callao (2,486,425) (2021)<br>
-_river port(s)_: Iquitos, Pucallpa, Yurimaguas (Amazon)<br>
+**Ports**<br>
+_total ports_: 20 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 3<br>
+_very small_: 16<br>
+_ports with oil terminals_: 16<br>
+_key ports_: Bahia De Matarani, Iquitos, Puerto Del Callao, Talara<br>
 
 ## Military and Security
 

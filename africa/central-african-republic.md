@@ -665,10 +665,6 @@ _unpaved_: 23,300 km (2018)<br>
 **Waterways**<br>
 2,800 km (2011) (the primary navigable river is the Ubangi, which joins the River Congo; it was the traditional route for the export of products because it connected with the Congo-Ocean railway at Brazzaville; because of the warfare on both sides of the River Congo from 1997, importers and exporters preferred routes through Cameroon)<br>
 
-**Ports and terminals**<br>
-_river port(s)_: Bangui (Oubangui)<br>
-Nola (Sangha)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>

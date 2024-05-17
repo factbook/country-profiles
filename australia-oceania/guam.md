@@ -372,6 +372,10 @@ _female_: 16.1%<br>
 **Population below poverty line**<br>
 23% (2001 est.)<br>
 
+**Average household expenditures**<br>
+_on food_: 34.6% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 1.3% of household expenditures (2021 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.24 billion (2016 est.)<br>
 _expenditures_: $1.299 billion (2016 est.)<br>
@@ -531,8 +535,14 @@ _total_: 1,045 km (2008)<br>
 _total_: 3 (2023)<br>
 _by type_: other 3<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Apra Harbor<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 0<br>
+_very small_: 0<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Apra Harbor<br>
 
 ## Military and Security
 

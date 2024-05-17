@@ -669,9 +669,6 @@ _unpaved_: 17,000 km (2021)<br>
 **Waterways**<br>
 1,200 km (2011) (chiefly Amu Darya, which handles vessels up to 500 DWT)<br>
 
-**Ports and terminals**<br>
-_river port(s)_: Hairatan, Qizil Qal`ah (Amu Darya)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>

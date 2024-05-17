@@ -473,8 +473,8 @@ _female_: 7.6%<br>
 40.8 (1998 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 37.5% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 2.2% of household expenditures (2018 est.)<br>
+_on food_: 36.9% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 2.2% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
@@ -676,9 +676,6 @@ _unpaved_: 11,015 km (2002)<br>
 **Merchant marine**<br>
 _total_: 73 (2023)<br>
 _by type_: general cargo 6, oil tanker 8, other 59<br>
-
-**Ports and terminals**<br>
-_major seaport(s)_: Caspian Sea - Turkmenbasy<br>
 
 ## Military and Security
 

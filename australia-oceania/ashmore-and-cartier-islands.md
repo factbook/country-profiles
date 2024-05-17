@@ -5,7 +5,7 @@ _Australia-Oceania / Dependencies (Australia)_
 ## Introduction
 
 **Background**<br>
-<p>Indonesian fishermen have long fished in the area around Ashmore Reef and Cartier Island. British explorers were the first Europeans to see Cartier Island and Ashmore Reef in 1800 and 1811, respectively. American whalers frequently sailed by the islands in the 1850s and later settled to mine the phosphate deposits on Ashmore Reef, which were exhausted by 1891. The UK disputed US access to Ashmore Reef and formally annexed it in 1878. Cartier Island was annexed in 1909. In 1931, the UK transferred the islands to Australia, which accepted them in 1934 as part of Western Australia. In 1938, Australia transferred governance to the Northern Territory. During World War II, the islands saw several Allied ship visits, and post-war, Cartier Island became a bombing range. In 1978, governance of Ashmore and Cartier Islands was moved to the federal government. Ashmore Reef and Cartier Island became marine reserves in 1983 and 2000 respectively.<br><br>In 1974, Australia and Indonesia signed a memorandum of understanding (MOU) to allow Indonesian fishermen to continue fishing around the islands. The MOU also allows Indonesian fishermen to visit the graves of past fishermen, replenish their fresh water, and shelter in the West Island Lagoon of Ashmore Reef. In the 1990s, Indonesia challenged Australia’s claim to the islands, which was settled in a maritime boundary treaty in 1997. The islands were a popular first point of contact for migrants and refugees seeking to enter Australia, so in 2001, Australia declared the islands to be outside the Australian migration zone.</p><br>
+<p>Indonesian fishermen have long fished in the area around Ashmore Reef and Cartier Island. British explorers were the first Europeans to see Cartier Island and Ashmore Reef in 1800 and 1811, respectively. American whalers frequently sailed by the islands in the 1850s and later settled to mine the phosphate deposits on Ashmore Reef, which were exhausted by 1891. The UK disputed US access to Ashmore Reef and formally annexed it in 1878. Cartier Island was annexed in 1909. In 1931, the UK transferred the islands to Australia, which accepted them in 1934 as part of Western Australia. In 1938, Australia transferred governance to the Northern Territory. During World War II, Cartier Island was used as a bombing range. In 1978, governance of Ashmore and Cartier Islands was moved to the federal government. Ashmore Reef and Cartier Island became marine reserves in 1983 and 2000 respectively.<br><br>In 1974, Australia and Indonesia signed a memorandum of understanding (MOU) to allow Indonesian fishermen to continue fishing around the islands. The MOU also allows Indonesian fishermen to visit the graves of past fishermen, replenish their fresh water, and shelter in the West Island Lagoon of Ashmore Reef. In the 1990s, Indonesia challenged Australia’s claim to the islands, which was settled in a maritime boundary treaty in 1997. The islands were a popular first point of contact for migrants and refugees seeking to enter Australia, so in 2001, Australia declared the islands to be outside the Australian migration zone.</p><br>
 
 ## Geography
 
@@ -108,13 +108,10 @@ the flag of Australia is used<br>
 
 ## Transportation
 
-**Ports and terminals**<br>
-none; offshore anchorage only<br>
-
 ## Military and Security
 
 **Military - note**<br>
-defense is the responsibility of Australia; periodic visits by the Royal Australian Navy and Royal Australian Air Force<br>
+defense is the responsibility of Australia<br>
 
 ## Transnational Issues
 

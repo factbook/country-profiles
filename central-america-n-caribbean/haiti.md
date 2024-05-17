@@ -656,8 +656,14 @@ _total_: 3,875 km (2022)<br>
 _total_: 4 (2023)<br>
 _by type_: general cargo 3, other 1<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Cap-Haitien, Gonaives, Jacmel, Port-au-Prince<br>
+**Ports**<br>
+_total ports_: 5 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 0<br>
+_very small_: 4<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Cap Haitien, Jacmel, Miragoane, Petit Goave, Port Au Prince<br>
 
 ## Military and Security
 

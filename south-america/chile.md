@@ -475,8 +475,8 @@ _female_: 22.8%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 16% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 2.9% of household expenditures (2018 est.)<br>
+_on food_: 18.5% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 3.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1%<br>
@@ -681,10 +681,14 @@ _total_: 77,801 km (2016)<br>
 _total_: 249 (2023)<br>
 _by type_: bulk carrier 3, container ship 5, general cargo 66, oil tanker 14, other 161<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San Vicente, Valparaiso<br>
-_container port(s) (TEUs)_: San Antonio (1,840,458), Valparaiso (793,118) (2021)<br>
-_LNG terminal(s) (import)_: Mejillones, Quintero<br>
+**Ports**<br>
+_total ports_: 39 (2024)<br>
+_large_: 0<br>
+_medium_: 2<br>
+_small_: 10<br>
+_very small_: 27<br>
+_ports with oil terminals_: 25<br>
+_key ports_: Antofagasta, Bahia De Valdivia, Bahia De Valparaiso, Coronel, Iquique, Mejillones, Puerto Montt, Puerto San Antonio, Rada De Arica, Rada Punta Arenas, Talcahuano, Tocopilla<br>
 
 ## Military and Security
 
@@ -715,10 +719,10 @@ the Chilean military is regarded as one of the top militaries in the region; it 
 ## Space
 
 **Space agency/agencies**<br>
-the Chilean Space Agency was established in 2001 and dissolved in 2014, at which time the space program became part of the Ministry of Defense; the Ministry of Science also participates in Chile&rsquo;s space program (2023)<br>
+the Chilean Space Agency was established in 2001 and dissolved in 2014, at which time the space program became part of the Ministry of Defense; the Ministry of Science also participates in Chile&rsquo;s space program (2024)<br>
 
 **Space program overview**<br>
-has a space program with a considerable history and largely focused on the acquisition and operation of satellites; operates foreign-built satellites and satellite ground stations; building small remote sensing (RS) satellites; researching and developing additional capabilities and technologies associated with the production of satellites and satellite sub-systems; is a world leader in astronomy and astrophysics (Chile’s Atacama Desert, where the skies are exceptionally clear and dry for more than 300 days a year, is home to more than a dozen astronomical observatories including the Cerro Tololo Inter-American Observatory, the Las Campanas Observatory, and the European Southern Observatory); Chile is also home to several astronomy institutes; has established relations with space agencies and industries of Canada, China, France, India, Israel, Mexico, Russia, the UK, and the US (2023)<br>
+has a space program with a considerable history and largely focused on the acquisition and operation of satellites; operates foreign-built satellites and satellite ground stations; building small remote sensing (RS) satellites; researching and developing additional capabilities and technologies associated with the production of satellites and satellite sub-systems; is a world leader in astronomy and astrophysics (Chile’s Atacama Desert, where the skies are exceptionally clear and dry for more than 300 days a year, is home to more than a dozen astronomical observatories including the Cerro Tololo Inter-American Observatory, the Las Campanas Observatory, and the European Southern Observatory); Chile is also home to several astronomy institutes; has established relations with space agencies and industries of Canada, China, France, India, Israel, Mexico, Russia, the UK, and the US (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

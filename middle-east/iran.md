@@ -468,8 +468,8 @@ _female_: 41.7%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 27.9% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 0.6% of household expenditures (2018 est.)<br>
+_on food_: 28.7% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 0.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3%<br>
@@ -682,9 +682,14 @@ _unpaved_: 27,867 km (2016)<br>
 _total_: 965 (2023)<br>
 _by type_: bulk carrier 32, container ship 28, general cargo 398, oil tanker 86, other 421<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Bandar-e Asaluyeh, Bandar Abbas, Bandar-e Emam Khomeyni<br>
-_container port(s) (TEUs)_: Bandar Abbas<br>
+**Ports**<br>
+_total ports_: 18 (2024)<br>
+_large_: 0<br>
+_medium_: 4<br>
+_small_: 6<br>
+_very small_: 8<br>
+_ports with oil terminals_: 13<br>
+_key ports_: Abadan, Bandar Abbas, Bushehr, Khorramshahr<br>
 
 ## Military and Security
 

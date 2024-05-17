@@ -661,9 +661,6 @@ _paved_: 1,500 km (2020)<br>
 **Waterways**<br>
 673 km (2022) (mainly on Lake Tanganyika between Bujumbura, Burundi's principal port, and lake ports in Tanzania, Zambia, and the Democratic Republic of the Congo)<br>
 
-**Ports and terminals**<br>
-_lake port(s)_: Bujumbura (Lake Tanganyika)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>

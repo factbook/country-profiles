@@ -464,8 +464,8 @@ _female_: 39.9%<br>
 33 (2011 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 30.7% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 9.2% of household expenditures (2018 est.)<br>
+_on food_: 30% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 8.2% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
@@ -669,8 +669,14 @@ _total_: 8,619 km (2022)<br>
 **Waterways**<br>
 990 km (2022) (Sava River on northern border; open to shipping but use limited)<br>
 
-**Ports and terminals**<br>
-_river port(s)_: Bosanska Gradiska, Bosanski Brod, Bosanski Samac, Brcko, Orasje (Sava River)<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 0<br>
+_ports with oil terminals_: 0<br>
+_key ports_: Neum<br>
 
 ## Military and Security
 

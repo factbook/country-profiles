@@ -473,8 +473,14 @@ _subscriptions per 100 inhabitants_: 53 (2020 est.)<br>
 **Merchant marine**<br>
 _total_: 1<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Hercules Port<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 1<br>
+_ports with oil terminals_: 0<br>
+_key ports_: Monaco<br>
 
 ## Military and Security
 

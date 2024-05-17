@@ -468,8 +468,8 @@ _female_: 41.5%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 17.1% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 4.9% of household expenditures (2018 est.)<br>
+_on food_: 17.6% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 4.8% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.4%<br>
@@ -677,11 +677,14 @@ _total_: 117,000 km (2018)<br>
 _total_: 1,215 (2023)<br>
 _by type_: bulk carrier 132, container ship 4, general cargo 79, oil tanker 299, other 701<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Aspropyrgos, Pachi, Piraeus, Thessaloniki<br>
-_oil terminal(s)_: Agioi Theodoroi<br>
-_container port(s) (TEUs)_: Piraeus (5,311,810) (2021)<br>
-_LNG terminal(s) (import)_: Revithoussa<br>
+**Ports**<br>
+_total ports_: 57 (2024)<br>
+_large_: 1<br>
+_medium_: 7<br>
+_small_: 7<br>
+_very small_: 42<br>
+_ports with oil terminals_: 13<br>
+_key ports_: Alexandroupoli, Iraklion, Kerkira, Ormos Aliveriou, Piraievs, Soudha, Thessaloniki, Volos<br>
 
 ## Military and Security
 

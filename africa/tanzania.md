@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Tanzania contains some of Africa’s most iconic national parks and famous paleoanthropological sites, and its diverse cultural heritage reflects the multiple ethnolinguistic groups that live in the country. Its long history of integration into trade networks spanning the Indian Ocean and the African interior led to the development of Swahili as a common language in much of east Africa and the introduction of Islam into the region. A number of independent coastal and island trading posts in what is now Tanzania came under Portuguese control after 1498 when they began to take control of much of the coast and Indian Ocean trade. By 1700, the Sultanate of Oman had become the dominant power in the region after ousting the Portuguese who were also facing a series of local uprisings. During the following hundred years, Zanzibar - an archipelago off the coast of Tanzania - became a hub of Indian Ocean trade, with Arab and Indian traders establishing and consolidating trade routes with communities in mainland Tanzania that contributed to the expansion of the slave trade. Zanzibar briefly become the capital of the Sultanate of Oman before it split into separate Omani and Zanzibar Sultanates in 1856. Beginning in the mid-1800s, European explorers, traders, and Christian missionaries became more active in the region. The Germans eventually established control over mainland Tanzania - which they called Tanganyika - and the British established control over Zanzibar. Tanganyika later came under British administration after the German defeat in World War I.</p> <p>Tanganyika gained independence from Great Britain in 1961, and Zanzibar followed in 1963 as a constitutional monarchy. In Tanganyika, Julius NYERERE, a charismatic and idealistic socialist, established a one-party political system that centralized power and encouraged national self-reliance and rural development. In 1964, a popular uprising overthrew the Sultan in Zanzibar and either killed or expelled many of the Arabs and Indians who had dominated the isles for more than 200 years. Later that year, Tanganyika and Zanzibar combined to form the United Republic of Tanzania, but Zanzibar retained considerable autonomy. Their two ruling parties combined to form the Chama Cha Mapinduzi (CCM) party in 1977, which has won every presidential election to date. NYERERE handed over power to Ali Hassan MWINYI in 1985 and remained CCM chair until 1990. Tanzania held its first multi-party elections in 1995, but CCM candidates have continued to dominate politics. Political opposition in Zanzibar has led to four contentious elections since 1995, in which the ruling party claimed victory despite international observers' claims of voting irregularities. In 2001, 35 people in Zanzibar died when soldiers fired on protestors following the 2000 election. John MAGUFULI won the 2015 presidential election, and the CCM won a two-thirds majority in Parliament. He was reelected in 2020 and the CCM increased its majority in an election that was also critiqued by observers. MAGUFULI died in March 2021 while in office and was constitutionally succeeded by his vice president, Samia Suluhu HASSAN.</p><br>
+<p>Tanzania contains some of Africa’s most iconic national parks and famous paleoanthropological sites, and its diverse cultural heritage reflects the multiple ethnolinguistic groups that live in the country. Its long history of integration into trade networks spanning the Indian Ocean and the African interior led to the development of Swahili as a common language in much of east Africa and the introduction of Islam into the region. A number of independent coastal and island trading posts in what is now Tanzania came under Portuguese control after 1498 when they began to take control of much of the coast and Indian Ocean trade. By 1700, the Sultanate of Oman had become the dominant power in the region after ousting the Portuguese, who were also facing a series of local uprisings. During the next hundred years, Zanzibar -- an archipelago off the coast that is now part of Tanzania -- became a hub of Indian Ocean trade, with Arab and Indian traders establishing and consolidating trade routes with communities in mainland Tanzania that contributed to the expansion of the slave trade. Zanzibar briefly became the capital of the Sultanate of Oman before it split into separate Omani and Zanzibar Sultanates in 1856. Beginning in the mid-1800s, European explorers, traders, and Christian missionaries became more active in the region. The Germans eventually established control over mainland Tanzania -- which they called Tanganyika -- and the British established control over Zanzibar. Tanganyika came under British administration after the German defeat in World War I.</p> <p>Tanganyika gained independence from Great Britain in 1961, and Zanzibar followed in 1963 as a constitutional monarchy. In Tanganyika, Julius NYERERE, a charismatic and idealistic socialist, established a one-party political system that centralized power and encouraged national self-reliance and rural development. In 1964, a popular uprising overthrew the Sultan in Zanzibar and either killed or expelled many of the Arabs and Indians who had dominated the isles for more than 200 years. Later that year, Tanganyika and Zanzibar combined to form the United Republic of Tanzania, but Zanzibar retained considerable autonomy. Their two ruling parties combined to form the Chama Cha Mapinduzi (CCM) party in 1977, which has since won every presidential election. Tanzania held its first multi-party elections in 1995, but CCM candidates have continued to dominate politics. The ruling party has claimed victory in four contentious elections since 1995, despite international observers' claims of voting irregularities. In 2001, 35 people died in Zanzibar when soldiers fired on protestors. John MAGUFULI won the 2015 and 2020 presidential elections, and the CCM won over two-thirds of the seats in Parliament in both elections. MAGUFULI died in 2021 while in office and was succeeded by his vice president, Samia Suluhu HASSAN.</p><br>
 
 ## Geography
 
@@ -499,8 +499,8 @@ _female_: 5.5%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 33.1% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 4.2% of household expenditures (2018 est.)<br>
+_on food_: 27.4% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 1.6% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
@@ -711,8 +711,14 @@ _unpaved_: 134,002 km (2022)<br>
 _total_: 381 (2023)<br>
 _by type_: bulk carrier 4, container ship 17, general cargo 170, oil tanker 58, other 132<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Dar es Salaam, Zanzibar<br>
+**Ports**<br>
+_total ports_: 8 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 3<br>
+_very small_: 4<br>
+_ports with oil terminals_: 4<br>
+_key ports_: Chake Chake, Dar Es Salaam, Tanga, Zanzibar<br>
 
 ## Military and Security
 

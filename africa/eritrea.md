@@ -624,8 +624,14 @@ _unpaved_: 14,400 km (2000)<br>
 _total_: 9 (2023)<br>
 _by type_: general cargo 4, oil tanker 1, other 4<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Assab, Massawa<br>
+**Ports**<br>
+_total ports_: 2 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 2<br>
+_very small_: 0<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Assab, Mitsiwa Harbor<br>
 
 ## Military and Security
 

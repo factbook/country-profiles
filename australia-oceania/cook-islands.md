@@ -5,7 +5,7 @@ _Australia-Oceania / Dependencies (New Zealand)_
 ## Introduction
 
 **Background**<br>
-Polynesians from Tahiti were probably the first people to settle Rarotonga -- the largest of the Cook Islands -- around A.D. 900. Over time, Samoans and Tongans also settled in Rarotonga, and Rarotongans voyaged to the northern Cook Islands, settling Manihiki and Rakahanga. Pukapuka and Penrhyn in the northern Cook Islands were settled directly from Samoa. Prior to European contact, there was considerable travel and trade between inhabitants of the different islands and atolls, but they were not united in a single political entity. Spanish navigators were the first Europeans to spot the northern Cook Islands in 1595, followed by the first landing in 1606, but no further European contact occurred until the 1760s. In 1773, British explorer James COOK spotted Manuae in the southern Cook Islands, and Russian mapmakers named the islands after COOK in the 1820s. English missionary activity during the 1820s and 1830s converted most of the population to Christianity.<br><br>Fearing France would militarily occupy the islands as it did in Tahiti, Rarotongans asked the UK for protectorate status in the 1840s and 1860s, a request the UK ignored. In 1888, Queen MAKEA TAKAU of Rarotonga formally petitioned for protectorate status, to which the UK reluctantly agreed. In 1901, the UK placed Rarotonga and the rest of the islands in the New Zealand Colony, and in 1915, the Cook Islands Act organized the islands into one political entity. It remained a protectorate until 1965, when New Zealand granted the Cook Islands self-governing status. The Cook Islands has a great deal of local autonomy and is an independent member of international organizations, but it is in free association with New Zealand, which is responsible for its defense and foreign affairs. In September 2023, the US recognized the Cook Islands as a sovereign and independent state.<br>
+Polynesians from Tahiti were probably the first people to settle Rarotonga -- the largest of the Cook Islands -- around A.D. 900. Over time, Samoans and Tongans also settled in Rarotonga, and Rarotongans voyaged to the northern Cook Islands, settling Manihiki and Rakahanga. Pukapuka and Penrhyn in the northern Cook Islands were settled directly from Samoa. Prior to European contact, there was considerable travel and trade between inhabitants of the different islands and atolls, but they were not united in a single political entity. Spanish navigators were the first Europeans to spot the northern Cook Islands in 1595, followed by the first landing in 1606, but no further European contact occurred until the 1760s. In 1773, British explorer James COOK spotted Manuae in the southern Cook Islands, and Russian mapmakers named the islands after COOK in the 1820s. <br><br>Fearing France would militarily occupy the islands as it did in Tahiti, Rarotongans asked the UK for protectorate status in the 1840s and 1860s, a request the UK ignored. In 1888, Queen MAKEA TAKAU of Rarotonga formally petitioned for protectorate status, to which the UK reluctantly agreed. In 1901, the UK placed Rarotonga and the rest of the islands in the New Zealand Colony, and in 1915, the Cook Islands Act organized the islands into one political entity. It remained a protectorate until 1965, when New Zealand granted the Cook Islands self-governing status. The Cook Islands has a great deal of local autonomy and is an independent member of international organizations, but it is in free association with New Zealand, which is responsible for its defense and foreign affairs. In September 2023, the US recognized the Cook Islands as a sovereign and independent state.<br>
 
 ## Geography
 
@@ -513,8 +513,14 @@ _unpaved_: 88 km (2018)<br>
 _total_: 190 (2023)<br>
 _by type_: bulk carrier 19, general cargo 44, oil tanker 58, other 69<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Avatiu<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 1<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Avatiu<br>
 
 ## Military and Security
 

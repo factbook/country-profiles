@@ -491,8 +491,8 @@ _female_: 33.7%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 25.6% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 7% of household expenditures (2018 est.)<br>
+_on food_: 24.1% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 8.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3%<br>
@@ -688,9 +688,6 @@ _total_: 45,022 km (2022)<br>
 
 **Waterways**<br>
 587 km (2009) (primarily on the Danube and Sava Rivers)<br>
-
-**Ports and terminals**<br>
-_river port(s)_: Belgrade (Danube)<br>
 
 ## Military and Security
 

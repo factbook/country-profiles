@@ -499,8 +499,8 @@ _female_: 26.7%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 29.8% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 2.4% of household expenditures (2018 est.)<br>
+_on food_: 32.1% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 2.2% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.5%<br>
@@ -722,10 +722,15 @@ _total_: 6,371,847 km (2021) note: includes 140,995 km of national highways and 
 _total_: 1,859 (2023)<br>
 _by type_: bulk carrier 66, container ship 22, general cargo 607, oil tanker 144, other 1020<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai (Bombay), Sikka, Vishakhapatnam<br>
-_container port(s) (TEUs)_: Jawaharal Nehru Port (5,630,000), Mundra (6,660,000) (2021)<br>
-_LNG terminal(s) (import)_: Dabhol, Dahej, Dhamra, Ennore, Hazira, Kochi, Mundra<br>
+**Ports**<br>
+_total ports_: 56 (2024)<br>
+_large_: 4<br>
+_medium_: 4<br>
+_small_: 13<br>
+_very small_: 30<br>
+_size unknown_: 5<br>
+_ports with oil terminals_: 18<br>
+_key ports_: Calcutta, Chennai (Madras), Jawaharlal Nehru Port (Nhava Shiva), Kattupalli Port, Kochi (Cochin), Mumbai (Bombay), New Mangalore, Vishakhapatnam<br>
 
 ## Military and Security
 

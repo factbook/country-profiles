@@ -101,9 +101,6 @@ the flag of France is used<br>
 
 ## Transportation
 
-**Ports and terminals**<br>
-none; offshore anchorage only<br>
-
 ## Military and Security
 
 **Military - note**<br>

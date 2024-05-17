@@ -480,8 +480,8 @@ _female_: 20.1%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 27.3% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 5.7% of household expenditures (2018 est.)<br>
+_on food_: 25.2% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 5.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
@@ -697,9 +697,14 @@ _total_: 85,387 km (2022)<br>
 _total_: 127 (2023)<br>
 _by type_: general cargo 9, oil tanker 7, other 111<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Constanta, Midia<br>
-_river port(s)_: Braila, Galati (Galatz), Mancanului (Giurgiu), Tulcea (Danube River)<br>
+**Ports**<br>
+_total ports_: 11 (2024)<br>
+_large_: 0<br>
+_medium_: 2<br>
+_small_: 1<br>
+_very small_: 8<br>
+_ports with oil terminals_: 4<br>
+_key ports_: Basarabi, Braila, Cernavoda, Constanta, Danube-Black Sea Canal, Galati, Mangalia, Medgidia, Midia, Sulina, Tulcea<br>
 
 ## Military and Security
 

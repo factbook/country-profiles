@@ -479,8 +479,8 @@ _female_: 9.2%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 11.4% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 3.3% of household expenditures (2018 est.)<br>
+_on food_: 12.1% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 3.3% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6%<br>
@@ -696,11 +696,14 @@ _total_: 139,027 km (2022)<br>
 _total_: 1,187 (2023)<br>
 _by type_: bulk carrier 11, container ship 36, general cargo 521, oil tanker 27, other 592<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: IJmuiden, Vlissingen<br>
-_container port(s) (TEUs)_: Rotterdam (15,300,000) (2021)<br>
-_LNG terminal(s) (import)_: Gate (Rotterdam)<br>
-_river port(s)_: Amsterdam (Nordsee Kanaal); Moerdijk (Hollands Diep River); Rotterdam (Rhine River); Terneuzen (Western Scheldt River)<br>
+**Ports**<br>
+_total ports_: 18 (2024)<br>
+_large_: 2<br>
+_medium_: 4<br>
+_small_: 5<br>
+_very small_: 7<br>
+_ports with oil terminals_: 12<br>
+_key ports_: Amsterdam, Dordrecht, Europoort, Rotterdam, Terneuzen, Vlissingen<br>
 
 ## Military and Security
 

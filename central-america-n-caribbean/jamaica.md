@@ -646,10 +646,14 @@ _total_: 25,595 km (2017)<br>
 _total_: 40 (2023)<br>
 _by type_: bulk carrier 1, general cargo 11, oil tanker 1, other 27<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Discovery Bay (Port Rhoades), Kingston, Montego Bay, Port Antonio, Port Esquivel, Port Kaiser, Rocky Point<br>
-_cruise port(s)_: Falmouth, Montego Bay, Port Antonio, Ocho Rios,<br>
-_container port(s) (TEUs)_: Kingston (2,004,302) (2021)<br>
+**Ports**<br>
+_total ports_: 11 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 2<br>
+_very small_: 8<br>
+_ports with oil terminals_: 5<br>
+_key ports_: Falmouth, Kingston, Lucea, Montego Bay, Ocho Rios, Port Antonio, Port Esquivel, Port Kaiser, Rio Bueno, Rocky Point, Savannah La Mar<br>
 
 ## Military and Security
 

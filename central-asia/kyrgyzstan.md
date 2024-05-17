@@ -684,9 +684,6 @@ _unpaved_: 7,700 km (2020)<br>
 **Waterways**<br>
 576 km (2022)<br>
 
-**Ports and terminals**<br>
-_lake port(s)_: Balykchy (Ysyk-Kol or Rybach'ye)(Lake Ysyk-Kol)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>

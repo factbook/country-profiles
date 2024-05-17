@@ -470,8 +470,8 @@ _female_: 17.8%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 21.5% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1.8% of household expenditures (2018 est.)<br>
+_on food_: 27.5% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 1.9% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3%<br>
@@ -683,11 +683,14 @@ _unpaved_: 28,234 km (2010)<br>
 _total_: 1,750 (2023)<br>
 _by type_: bulk carrier 14, container ship 35, general cargo 169, oil tanker 148, other 1,384<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Bintulu, Johor Bahru, George Town (Penang), Pelabuhan Klang (Port Klang), Tanjung Pelepas<br>
-_container port(s) (TEUs)_: Port Kelang (Port Klang) (13,724,460), Tanjung Pelepas (11,200,000) (2021)<br>
-_LNG terminal(s) (export)_: Bintulu (Sarawak)<br>
-_LNG terminal(s) (import)_: Sungei Udang<br>
+**Ports**<br>
+_total ports_: 35 (2024)<br>
+_large_: 3<br>
+_medium_: 4<br>
+_small_: 10<br>
+_very small_: 18<br>
+_ports with oil terminals_: 24<br>
+_key ports_: Johor, Kota Kinabalu, Port Dickson, Port Klang, Pulau Pinang, Tanjung Pelepas, Tapis Marine Terminal A<br>
 
 ## Military and Security
 

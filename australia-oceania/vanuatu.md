@@ -628,8 +628,14 @@ _total_: 2,958 km (2023)<br>
 _total_: 338 (2023)<br>
 _by type_: bulk carrier 11, container ship 3, general cargo 101, other 223<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Forari Bay, Luganville (Santo, Espiritu Santo), Port-Vila<br>
+**Ports**<br>
+_total ports_: 3 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 2<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Forari Bay, Luganville, Port Vila<br>
 
 ## Military and Security
 

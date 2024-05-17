@@ -498,8 +498,8 @@ _female_: 15.7%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 31.7% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 7.2% of household expenditures (2018 est.)<br>
+_on food_: 33.9% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 7.3% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1%<br>
@@ -714,11 +714,14 @@ _unpaved_: 213,505 km (2011)<br>
 _total_: 11,422 (2023)<br>
 _by type_: bulk carrier 160, container ship 219, general cargo 2,347, oil tanker 714, other 7,982<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok<br>
-_container port(s) (TEUs)_: Tanjung Perak (3,901,215), Tanjung Priok (6,849,227) (2021)<br>
-_LNG terminal(s) (export)_: Bontang, Tangguh<br>
-_LNG terminal(s) (import)_: Arun, Lampung, West Java<br>
+**Ports**<br>
+_total ports_: 123 (2024)<br>
+_large_: 3<br>
+_medium_: 6<br>
+_small_: 18<br>
+_very small_: 96<br>
+_ports with oil terminals_: 79<br>
+_key ports_: Belawan, Cilacap, Dumai, Jakarta, Kasim Terminal, Merak Mas Terminal, Palembang, Surabaya, Ujung Pandang<br>
 
 ## Military and Security
 

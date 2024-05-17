@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Aboriginal Australians arrived on the continent at least 60,000 years ago and developed complex hunter-gatherer societies and oral histories. Dutch navigators led by Abel TASMAN were the first Europeans to land in Australia in 1606, and they mapped the western and northern coasts. They named the continent New Holland but made no attempts to permanently settle it. In 1770, English captain James COOK sailed to the east coast of Australia, named it New South Wales, and claimed it for Great Britain. In 1788 and 1825 respectively, Great Britain established New South Wales and then Tasmania as penal colonies. Great Britain and Ireland sent more than 150,000 convicts to Australia before ending the practice in 1868. As Europeans began settling areas away from the coasts, they came into more direct contact with Aboriginal Australians. Europeans also cleared land for agriculture, impacting Aboriginal Australians’ ways of life. These issues, along with disease and a policy in the 1900s that forcefully removed Aboriginal children from their parents, reduced the Aboriginal Australian population from more than 700,000 pre-European contact to a low of 74,000 in 1933.<br><br>Four additional colonies were established in Australia in the mid-1800s: Western Australia (1829), South Australia (1836), Victoria (1851), and Queensland (1859). Gold rushes beginning in the 1850s brought thousands of new immigrants to New South Wales and Victoria, helping to reorient Australia away from its penal colony roots. In the second half of the 1800s, the colonies were all gradually granted self-government, and in 1901, they federated and became the Commonwealth of Australia. Australia contributed more than 400,000 troops to Allied efforts during World War I, and Australian troops played a large role in the defeat of Japanese troops in the Pacific in World War II. Australia severed most constitutional links with the UK in 1942 but remained part of the British Commonwealth. Australia’s post-war economy boomed and by the 1970s, racial policies that prevented most non-Whites from immigrating to Australia were removed, greatly increasing Asian immigration to the country. In recent decades, Australia has become an internationally competitive, advanced market economy due in large part to economic reforms adopted in the 1980s and its proximity to East and Southeast Asia. In 2021, Australia, the UK, and the US announced the AUKUS enhanced trilateral security partnership to maintain and expand the three countries’ edge in military capabilities and critical technologies.</p> <p>In the early 2000s, Australian politics became unstable with frequent attempts to oust party leaders, including five changes of prime minister between 2010 and 2018. As a result, both major parties instituted rules to make it harder to remove a party leader.</p><br>
+<p>Aboriginal Australians arrived on the continent at least 60,000 years ago and developed complex hunter-gatherer societies and oral histories. Dutch navigators led by Abel TASMAN were the first Europeans to land in Australia in 1606, and they mapped the western and northern coasts. They named the continent New Holland but made no attempts to permanently settle it. In 1770, Englishman James COOK sailed to the east coast of Australia, named it New South Wales, and claimed it for Great Britain. In 1788 and 1825 respectively, Great Britain established New South Wales and then Tasmania as penal colonies. Great Britain and Ireland sent more than 150,000 convicts to Australia before ending the practice in 1868. As Europeans began settling areas away from the coasts, they came into more direct contact with Aboriginal Australians. Europeans also cleared land for agriculture, impacting Aboriginal Australians’ ways of life. These issues, along with disease and a policy in the 1900s that forcefully removed Aboriginal children from their parents, reduced the Aboriginal Australian population from more than 700,000 pre-European contact to a low of 74,000 in 1933.<br><br>Four additional colonies were established in Australia in the mid-1800s: Western Australia (1829), South Australia (1836), Victoria (1851), and Queensland (1859). Gold rushes beginning in the 1850s brought thousands of new immigrants to New South Wales and Victoria, helping to reorient Australia away from its penal colony roots. In the second half of the 1800s, the colonies were all gradually granted self-government, and in 1901, they federated and became the Commonwealth of Australia. Australia contributed more than 400,000 troops to Allied efforts during World War I, and Australian troops played a large role in the defeat of Japanese troops in the Pacific in World War II. Australia severed most constitutional links with the UK in 1942 but remained part of the British Commonwealth. Australia’s post-war economy boomed and by the 1970s, racial policies that prevented most non-Whites from immigrating to Australia were removed, greatly increasing Asian immigration to the country. In recent decades, Australia has become an internationally competitive, advanced market economy due in large part to economic reforms adopted in the 1980s and its proximity to East and Southeast Asia. </p> <p>In the early 2000s, Australian politics became unstable with frequent attempts to oust party leaders, including five changes of prime minister between 2010 and 2018. As a result, both major parties instituted rules to make it harder to remove a party leader.</p><br>
 
 ## Geography
 
@@ -489,8 +489,8 @@ _female_: 8.9%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 9.3% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 3.5% of household expenditures (2018 est.)<br>
+_on food_: 10% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 4.2% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
@@ -704,11 +704,14 @@ _non-urban_: 727,645 km (2015)<br>
 _total_: 604 (2023)<br>
 _by type_: bulk carrier 2, general cargo 76, oil tanker 6, other 520<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: <em><br>Indian Ocean:</em> Adelaide, Darwin, Fremantle, Geelong, Melbourne<br><em>Pacific Ocean:</em> Brisbane, Cairns, Gladstone, Hobart, Newcastle, Port Port Kembla, Sydney<br>
-_container port(s) (TEUs)_: Melbourne (2,909,288), Sydney (2,761,648) (2021)<br>
-_LNG terminal(s) (export)_: Australia Pacific, Barrow Island, Burrup (Pluto), Curtis Island, Darwin, Karratha, Bladin Point (Ichthys), Gladstone,&nbsp;Prelude (offshore FLNG), Wheatstone<br>
-_dry bulk cargo port(s)_: Dampier (iron ore), Dalrymple Bay (coal), Hay Point (coal), Port Hedland (iron ore), Port Walcott (iron ore)<br>
+**Ports**<br>
+_total ports_: 66 (2024)<br>
+_large_: 5<br>
+_medium_: 8<br>
+_small_: 24<br>
+_very small_: 29<br>
+_ports with oil terminals_: 38<br>
+_key ports_: Brisbane, Dampier, Darwin, Fremantle, Geelong, Hobart, Melbourne, Newcastle, Port Adelaide, Port Dalrymple, Port Kembla, Port Lincoln, Sydney<br>
 
 ## Military and Security
 

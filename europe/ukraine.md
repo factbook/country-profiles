@@ -484,8 +484,8 @@ _female_: 16.7%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 42.2% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 7.7% of household expenditures (2018 est.)<br>
+_on food_: 41.6% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 6.9% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.3%<br>
@@ -709,9 +709,14 @@ _unpaved_: 3,599 km (2012)<br>
 _total_: 410 (2023)<br>
 _by type_: container ship 1, general cargo 83, oil tanker 14, other 312<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Feodosiia, Chornomorsk, Mariupol, Mykolaiv, Odesa, Yuzhne<br>
-_river port(s)_: Kherson, Kyiv (Dnieper River), Mykolaiv (Pivdennyy Buh River)<br>
+**Ports**<br>
+_total ports_: 26 (2024)<br>
+_large_: 3<br>
+_medium_: 0<br>
+_small_: 8<br>
+_very small_: 15<br>
+_ports with oil terminals_: 8<br>
+_key ports_: Berdyansk, Dnipro-Buzkyy, Feodosiya, Illichivsk, Kerch, Kherson, Mariupol, Mykolayiv, Odesa, Sevastopol, Yuzhnyy<br>
 
 ## Military and Security
 

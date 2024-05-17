@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>A military power during the 17th century, Sweden maintained a policy of military non-alignment until it applied to join NATO in May 2022. Stockholm preserved and armed neutrality in both World Wars. Since then, Sweden has pursued a successful economic formula consisting of a capitalist system intermixed with substantial welfare elements. Sweden joined the EU in 1995, but the public rejected the introduction of the euro in a 2003 referendum. The share of Sweden’s population born abroad increased from 11.3% in 2000 to 20% in 2021.</p> <p> </p><br>
+<p>A military power during the 17th century, Sweden maintained a policy of military non-alignment until it applied to join NATO in 2022. Stockholm preserved an armed neutrality in both World Wars. Since then, Sweden has pursued a successful economic formula consisting of a capitalist system intermixed with substantial welfare elements. Sweden joined the EU in 1995, but the public rejected the introduction of the euro in a 2003 referendum. The share of Sweden’s population born abroad increased from 11.3% in 2000 to 20% in 2021.</p> <p> </p><br>
 
 ## Geography
 
@@ -474,8 +474,8 @@ _female_: 23%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 12.4% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
+_on food_: 12.7% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 3.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3%<br>
@@ -690,9 +690,14 @@ _total_: 197,964 km (2022)<br>
 _total_: 361 (2023)<br>
 _by type_: general cargo 44, oil tanker 18, other 299<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo, Stockholm, Trelleborg, Visby<br>
-_LNG terminal(s) (import)_: Brunnsviksholme, Lysekil<br>
+**Ports**<br>
+_total ports_: 92 (2024)<br>
+_large_: 3<br>
+_medium_: 10<br>
+_small_: 30<br>
+_very small_: 49<br>
+_ports with oil terminals_: 49<br>
+_key ports_: Falkenberg, Goteborg, Helsingborg, Karlsborg, Karlshamn, Lulea, Malmo, Norrkoping, Stockholm, Sundsvall, Uddevalla, Varberg, Vasteras<br>
 
 ## Military and Security
 

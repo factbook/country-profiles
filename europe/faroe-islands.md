@@ -544,8 +544,14 @@ _unpaved_: 460 km (2017)<br>
 _total_: 91 (2023)<br>
 _by type_: container ships 6, general cargo 45, other 40<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Fuglafjordur, Torshavn, Vagur<br>
+**Ports**<br>
+_total ports_: 9 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 9<br>
+_ports with oil terminals_: 5<br>
+_key ports_: Fuglafjordur, Klaksvik, Kongshavn, Runavik, Sorvagur, Torshavn, Tvoroyri, Vagur, Vestmanna<br>
 
 ## Military and Security
 

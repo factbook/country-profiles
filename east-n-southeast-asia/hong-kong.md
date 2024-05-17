@@ -406,8 +406,8 @@ _female_: 13.6%<br>
 53.9 (2016 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 14.7% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1.2% of household expenditures (2018 est.)<br>
+_on food_: 12.1% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 0.7% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
@@ -603,9 +603,14 @@ _paved_: 2,193 km (2021)<br>
 _total_: 2,537 (2023)<br>
 _by type_: bulk carrier 1,047, container ship 560, general cargo 144, oil tanker 394, other 392<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Hong Kong<br>
-_container port(s) (TEUs)_: Hong Kong (17,798,000) (2021)<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 1<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 0<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Hong Kong<br>
 
 ## Military and Security
 

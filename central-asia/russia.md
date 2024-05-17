@@ -509,8 +509,8 @@ _female_: 18.4%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 28% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 7.4% of household expenditures (2018 est.)<br>
+_on food_: 29% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 7.3% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1%<br>
@@ -729,12 +729,15 @@ _unpaved_: 355,666 km (2012)<br>
 _total_: 2,910 (2023)<br>
 _by type_: bulk carrier 15, container ship 20, general cargo 976, oil tanker 387, other 1,512<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: <em><br>Arctic Ocean: </em>Arkhangelsk, Murmansk<em><br>Baltic Sea:</em> Kaliningrad, Primorsk, Saint Petersburg<br><em>Black Sea:</em> Novorossiysk<br><em>Pacific Ocean:</em> Nakhodka, Vladivostok, Vostochnyy<br>
-_oil terminal(s)_: Kavkaz oil terminal, Primorsk<br>
-_container port(s) (TEUs)_: Saint Petersburg (2,042,358) (2021)<br>
-_LNG terminal(s) (export)_: Sabetta, Sakhalin Island<br>
-_river port(s)_: Astrakhan, Kazan (Volga River); Rostov-on-Don (Don River); Saint Petersburg (Neva River)<br>
+**Ports**<br>
+_total ports_: 67 (2024)<br>
+_large_: 4<br>
+_medium_: 5<br>
+_small_: 19<br>
+_very small_: 38<br>
+_size unknown_: 1<br>
+_ports with oil terminals_: 32<br>
+_key ports_: Arkhangels'k, De Kastri, Dudinka, Kaliningrad, Murmansk, Novorossiysk, Sankt-Peterburg, Vladivostok, Vyborg<br>
 
 **Transportation - note**<br>
 Russia operates the largest polar-class icebreaker fleet in the world with 52 vessels, seven of which are the world's only nuclear-powered heavy icebreakers; the primary mission includes keeping open ports, terminals, and shipping lanes along the Northern Sea Route (see Arctic Ocean map), in the Baltic Sea, and in the Russian Far East, including the Sea of Okhotsk<br>

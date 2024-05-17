@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Seychelles was uninhabited prior to being discovered by Europeans early in the 16th century. A lengthy struggle between France and Great Britain for the islands ended in 1814, when they were ceded to the latter. During colonial rule, a plantation-based economy developed that relied on imported labor, primarily from European colonies in Africa. Seychelles gained independence in 1976 through negotiations with Great Britain. In 1977, prime minister France-Albert RENE launched a coup against the country’s first president and Seychelles became a socialist one-party state until adopting a new constitution and holding elections in 1993. RENE continued to lead Seychelles through two election cycles until he stepped down in 2004. Vice President James Alix MICHEL took over the presidency and in 2006 was elected to a new five-year term; he was reelected in 2011 and again in 2015. In 2016, James MICHEL resigned and handed over the presidency to his vice-president, Danny FAURE. In 2020, Wavel RAMKALAWAN was elected president, the first time an opposition candidate has won the presidency.</p><br>
+<p>Seychelles was uninhabited before Europeans discovered the islands early in the 16th century. After a lengthy struggle, France eventually ceded control of the islands to Great Britain in 1814. During colonial rule, a plantation-based economy developed that relied on imported labor, primarily from European colonies in Africa. Seychelles gained independence in 1976 through negotiations with Great Britain. In 1977, Prime Minister France-Albert RENE launched a coup against the country’s first president, and Seychelles became a socialist one-party state until adopting a new constitution and holding elections in 1993. RENE continued to lead Seychelles through two election cycles until he stepped down in 2004. Vice President James Alix MICHEL took over the presidency and in 2006 was elected to a new five-year term; he was reelected in 2011 and again in 2015. In 2016, James MICHEL resigned and handed over the presidency to his vice-president, Danny FAURE. In 2020, Wavel RAMKALAWAN was elected president, the first time an opposition candidate has won the presidency.</p><br>
 
 ## Geography
 
@@ -641,8 +641,14 @@ _unpaved_: 12 km (2015)<br>
 _total_: 30 (2023)<br>
 _by type_: general cargo 6, oil tanker 6, other 18<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Victoria<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 1<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Victoria<br>
 
 ## Military and Security
 

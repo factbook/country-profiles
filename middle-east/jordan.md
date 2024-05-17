@@ -481,8 +481,8 @@ _female_: 53.8%<br>
 33.7 (2010 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 29.6% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 4.6% of household expenditures (2018 est.)<br>
+_on food_: 26.4% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 4.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
@@ -691,8 +691,14 @@ _paved_: 7,203 km (2011)<br>
 _total_: 34 (2023)<br>
 _by type_: general cargo 5, other 29<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Al 'Aqabah<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 1<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Al Aqabah<br>
 
 ## Military and Security
 

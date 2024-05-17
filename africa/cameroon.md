@@ -498,8 +498,8 @@ _female_: 7.3%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 45.3% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 2.1% of household expenditures (2018 est.)<br>
+_on food_: 45.2% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 2% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
@@ -712,10 +712,15 @@ _unpaved_: 72,456 km (2019)<br>
 _total_: 198 (2023)<br>
 _by type_: bulk carrier 2, general cargo 91, oil tanker 42, other 63<br>
 
-**Ports and terminals**<br>
-_oil terminal(s)_: Limboh Terminal<br>
-_river port(s)_: Douala (Wouri)<br>
-Garoua (Benoue)<br>
+**Ports**<br>
+_total ports_: 7 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 0<br>
+_very small_: 5<br>
+_size unknown_: 1<br>
+_ports with oil terminals_: 5<br>
+_key ports_: Douala, Ebome Marine Terminal, Kole Oil Terminal, Kome Kribi 1 Marine Terminal, Kribi Deep Sea Port, Limboh Terminal, Moudi Marine Terminal<br>
 
 ## Military and Security
 

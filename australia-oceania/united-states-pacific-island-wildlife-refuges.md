@@ -103,9 +103,6 @@ the flag of the US is used<br>
 **Airports**<br>
 2 (2024)<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Baker, Howland, and Jarvis Islands, and Kingman Reef<br>
-
 ## Military and Security
 
 **Military - note**<br>

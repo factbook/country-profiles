@@ -5,7 +5,7 @@ _Antarctica / Dependencies (Australia)_
 ## Introduction
 
 **Background**<br>
-<p>American sailor John HEARD discovered Heard Island in 1853 and thought it was a glacier that had broken away from Antarctica. Fellow American William MCDONALD discovered the McDonald Islands the following year. Starting in 1855, sealers lived on the islands and harvested elephant seal oil; by the time the practice was ended in 1877, most of the islands’ seals were killed. The UK formally claimed the islands in 1910, and Australian explorer Douglas MAWSON visited Heard Island in 1929. In 1947, the UK transferred the islands to Australia for its Antarctica research, but Australia closed the research station on Heard Island in 1954 when it opened a new research station on the Antarctic continent. McDonald Island has been an active volcano since it emerged from dormancy in 1992, and the island doubled in size after an eruption in 1996. In 1997, the islands were named a UNESCO World Heritage site. Populated by a large number of bird species, seals, and penguins, the islands are primarily used for research, with limited fishing permitted in the surrounding waters.</p> <p style="margin: 0in; margin-bottom: .0001pt; line-height: 18.0pt; background: white;"> </p><br>
+<p>American sailor John HEARD discovered Heard Island in 1853 while fellow American William MCDONALD discovered the McDonald Islands the following year. Starting in 1855, sealers lived on the islands and harvested elephant seal oil; by the time the practice was ended in 1877, most of the islands’ seals were killed. The UK formally claimed the islands in 1910, and Australian explorer Douglas MAWSON visited Heard Island in 1929. In 1947, the UK transferred the islands to Australia for its Antarctica research, but Australia closed the research station on Heard Island in 1954 when it opened a new research station on the Antarctic continent. McDonald Island has been an active volcano since it emerged from dormancy in 1992, and the island doubled in size after an eruption in 1996. In 1997, the islands were named a UNESCO World Heritage site. Populated by a large number of bird species, seals, and penguins, the islands are primarily used for research, with limited fishing permitted in the surrounding waters.</p> <p style="margin: 0in; margin-bottom: .0001pt; line-height: 18.0pt; background: white;"> </p><br>
 
 ## Geography
 
@@ -114,9 +114,6 @@ _selected World Heritage Site locales_: Heard Island and McDonald Islands<br>
 
 **Heliports**<br>
 2 (2024)<br>
-
-**Ports and terminals**<br>
-none; offshore anchorage only<br>
 
 ## Military and Security
 

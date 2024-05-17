@@ -503,8 +503,8 @@ _female_: 20.3%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 13.2% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 3.7% of household expenditures (2018 est.)<br>
+_on food_: 14.1% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 4.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1%<br>
@@ -724,12 +724,14 @@ _total_: 553 (2023)<br>
 _by type_: container ship 32, general cargo 48, oil tanker 25, other 448<br>
 <strong>note:</strong> includes Monaco<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: <br><em>Atlantic Ocean:</em> Brest, Calais, Dunkerque, Le Havre, Nantes<br><em>Mediterranean Sea:</em> Marseille<br>
-_container port(s) (TEUs)_: Le Havre (3,018,550) (2021)<br>
-_LNG terminal(s) (import)_: Dunkerque, Fos Cavaou, Fos Tonkin, Montoir de Bretagne<br>
-_river port(s)_: Bordeaux (Garronne); Nantes - Saint Nazaire (Loire); Paris, Rouen (Seine); Strasbourg (Rhine)<br>
-_cruise/ferry port(s)_: Calais, Cherbourg, Le Havre<br>
+**Ports**<br>
+_total ports_: 66 (2024)<br>
+_large_: 6<br>
+_medium_: 12<br>
+_small_: 22<br>
+_very small_: 26<br>
+_ports with oil terminals_: 31<br>
+_key ports_: Bayonne, Bordeaux, Boulogne-sur-Mer, Dunkerque Port Est, Dunkerque Port Ouest, La Pallice, La Rochelle, Les Sables d'Olonne, Lorient, Montoir, Nantes, Le Havre, Rouen, Rade de Brest, Rade de Cherbourg, Rochefort, St. Nazaire, Toulon<br>
 
 **Transportation - note**<br>
 begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe<br>
@@ -767,13 +769,13 @@ the French military has a global footprint and a wide range of missions and resp
 ## Space
 
 **Space agency/agencies**<br>
-National Center for Space Studies (Centre National D'&eacute;tudes Spatiales, CNES; established 1961); established a military Space Command (Le Commandement de l&rsquo;Espace, CDE) under the Air and Space Force, 2020 (2023)<br>
+National Center for Space Studies (Centre National D'&eacute;tudes Spatiales, CNES; established 1961); established a military Space Command (Le Commandement de l&rsquo;Espace, CDE) under the Air and Space Force, 2020 (2024)<br>
 
 **Space launch site(s)**<br>
-Guiana Space Center (Kourou, French Guiana; also serves as the spaceport for the ESA); note &ndash; prior to the completion of the Guiana Space Center in 1969, France launched rockets from Algeria (2023)<br>
+Guiana Space Center (Kourou, French Guiana; also serves as the spaceport for the ESA); note &ndash; prior to the completion of the Guiana Space Center in 1969, France launched rockets from Algeria (2024)<br>
 
 **Space program overview**<br>
-has one of Europe’s largest space programs and is a key member of the European Space Agency (ESA), as well as one of its largest contributors; has independent capabilities in all areas of space categories except for autonomous manned space flight; can build, launch, and operate a range of space/satellite launch vehicles (SLVs) and spacecraft, including exploratory probes and a full spectrum of satellites; trained astronauts until training mission shifted to ESA in 2001; develops a wide range of space-related technologies; hosts the ESA headquarters; participates in international space programs such as the Square Kilometer Array Project (world’s largest radio telescope) and International Space Station (ISS); cooperates with a broad range of space agencies and commercial space companies, including those of China, Egypt, individual ESA member countries, India, Indonesia, Israel, Japan, Mexico, Russia, the UAE, the US, and several African countries; has a large commercial space sector involved in such areas as satellite construction and payloads, launch capabilities, and a range of other space-related capabilities and technologies (2023)<br>
+has one of Europe’s largest space programs and is a key member of the European Space Agency (ESA), as well as one of its largest contributors; has independent capabilities in all areas of space categories except for autonomous manned space flight; can build, launch, and operate a range of space/satellite launch vehicles (SLVs) and spacecraft, including exploratory probes and a full spectrum of satellites; trained astronauts until training mission shifted to ESA in 2001; develops a wide range of space-related technologies; hosts the ESA headquarters; participates in international space programs such as the Square Kilometer Array Project (world’s largest radio telescope) and International Space Station (ISS); cooperates with a broad range of space agencies and commercial space companies, including those of China, Egypt, individual ESA and EU member countries, India, Indonesia, Israel, Japan, Mexico, Russia, the UAE, the US, and several African countries; has a large commercial space sector involved in such areas as satellite construction and payloads, launch capabilities, and a range of other space-related capabilities and technologies (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

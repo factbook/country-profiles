@@ -587,8 +587,14 @@ _unpaved_: 24,830 km (2006)<br>
 _total_: 264 (2023)<br>
 _by type_: bulk carrier 10, container ship 5, general cargo 191, oil tanker 29, other 29<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Ch'ongjin, Haeju, Hungnam, Namp'o, Songnim, Sonbong (formerly Unggi), Wonsan<br>
+**Ports**<br>
+_total ports_: 10 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 7<br>
+_very small_: 3<br>
+_ports with oil terminals_: 0<br>
+_key ports_: Ch'ongjin, Haeju Hang, Hungnam, Najin, Nampo, Senbong, Wonsan<br>
 
 ## Military and Security
 

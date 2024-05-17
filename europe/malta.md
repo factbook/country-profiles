@@ -651,10 +651,14 @@ _total_: 2,855 km (2021)<br>
 _total_: 1,957 (2023)<br>
 _by type_: bulk carrier 490, container ship 348, general cargo 152, oil tanker 354, other 613<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Marsaxlokk (Malta Freeport), Valletta<br>
-_container port(s) (TEUs)_: Marsaxlokk (2,967,765) (2021)<br>
-_LNG terminal(s) (import)_: Delimara<br>
+**Ports**<br>
+_total ports_: 2 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 1<br>
+_very small_: 0<br>
+_ports with oil terminals_: 0<br>
+_key ports_: Marsaxlokk, Valletta Harbors<br>
 
 ## Military and Security
 

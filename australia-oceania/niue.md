@@ -404,8 +404,14 @@ _unpaved_: 24 km (2017)<br>
 _total_: 70 (2023)<br>
 _by type_: bulk carrier 5, container ship 2, general cargo 29, oil tanker 4, other 30<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Alofi<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 1<br>
+_ports with oil terminals_: 0<br>
+_key ports_: Alofi<br>
 
 ## Military and Security
 

@@ -601,8 +601,14 @@ _unpaved_: 225 km (2017)<br>
 _total_: 6 (2023)<br>
 _by type_: general cargo 3, other 3<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Saint George's<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 0<br>
+_ports with oil terminals_: 1<br>
+_key ports_: St. George's<br>
 
 ## Military and Security
 

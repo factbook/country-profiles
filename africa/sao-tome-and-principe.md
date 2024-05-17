@@ -647,8 +647,14 @@ _unpaved_: 1,070 km (2018)<br>
 _total_: 25 (2023)<br>
 _by type_: general cargo 15, oil tanker 4, other 6<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Sao Tome<br>
+**Ports**<br>
+_total ports_: 2 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 2<br>
+_ports with oil terminals_: 0<br>
+_key ports_: Santo Antonio, Sao Tome<br>
 
 ## Military and Security
 

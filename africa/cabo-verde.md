@@ -648,8 +648,14 @@ _unpaved_: 418 km (2013)<br>
 _total_: 44 (2023)<br>
 _by type_: general cargo 14, oil tanker 2, other 28<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Porto Grande<br>
+**Ports**<br>
+_total ports_: 2 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 1<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Porto Da Praia, Porto Grande<br>
 
 ## Military and Security
 

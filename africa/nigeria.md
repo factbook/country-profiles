@@ -494,8 +494,8 @@ _female_: 19.4%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 59% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1% of household expenditures (2018 est.)<br>
+_on food_: 59% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
@@ -708,10 +708,14 @@ _unpaved_: 135,000 km (2019)<br>
 _total_: 928 (2023)<br>
 _by type_: general cargo 23, oil tanker 128, other 777<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Bonny Inshore Terminal, Calabar, Lagos<br>
-_oil terminal(s)_: Bonny Terminal, Brass Terminal, Escravos Terminal, Forcados Terminal, Pennington Terminal, Qua Iboe Terminal<br>
-_LNG terminal(s) (export)_: Bonny Island<br>
+**Ports**<br>
+_total ports_: 28 (2024)<br>
+_large_: 2<br>
+_medium_: 1<br>
+_small_: 1<br>
+_very small_: 24<br>
+_ports with oil terminals_: 23<br>
+_key ports_: Antan Oil Terminal, Bonny, Lagos, Pennington Oil Terminal<br>
 
 ## Military and Security
 

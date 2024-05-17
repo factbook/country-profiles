@@ -669,8 +669,14 @@ _unpaved_: 2,459 km (2011)<br>
 _total_: 15 (2023)<br>
 _by type_: general cargo 5, other 10<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Banjul<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 1<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Banjul<br>
 
 ## Military and Security
 

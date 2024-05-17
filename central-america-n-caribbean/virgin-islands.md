@@ -506,8 +506,14 @@ _total_: 1,260 km (2008)<br>
 _total_: 2 (2023)<br>
 _by type_: general cargo 1, other 1<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Charlotte Amalie, Christiansted, Cruz Bay, Frederiksted, Limetree Bay<br>
+**Ports**<br>
+_total ports_: 6 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 3<br>
+_very small_: 3<br>
+_ports with oil terminals_: 3<br>
+_key ports_: Charlotte Amalie, Christiansted, Cruz Bay, Frederiksted, Limetree Bay, Port Alucroix<br>
 
 ## Military and Security
 

@@ -500,8 +500,8 @@ _female_: 38.2%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 15.7% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1.5% of household expenditures (2018 est.)<br>
+_on food_: 16.3% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 1.7% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1%<br>
@@ -725,13 +725,14 @@ _unpaved_: 1.754 million km (2018)<br>
 _total_: 888 (2023)<br>
 _by type_: bulk carrier 13, container ship 20, general cargo 38, oil tanker 27, other 790<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Belem, Itajai, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao Sebastiao, Tubarao<br>
-_oil terminal(s)_: DTSE/Gegua oil terminal, Ilha Grande (Gebig), Guaiba Island terminal, Guamare oil terminal<br>
-_container port(s) (TEUs)_: Itajai (1,610,092), Paranagua (1,044,157), Santos (4,442,876) (2021)<br>
-_LNG terminal(s) (import)_: Pecem, Rio de Janiero<br>
-_river port(s)_: Manaus (Amazon)<br>
-_dry bulk cargo port(s)_: Sepetiba ore terminal, Tubarao<br>
+**Ports**<br>
+_total ports_: 45 (2024)<br>
+_large_: 4<br>
+_medium_: 7<br>
+_small_: 19<br>
+_very small_: 15<br>
+_ports with oil terminals_: 31<br>
+_key ports_: Belem, DTSE/Gegua Oil Terminal, Itajai, Port de Salvador, Porto Alegre, Recife, Rio de Janeiro, Rio Grande, Santos, Tubarao, Vitoria<br>
 
 ## Military and Security
 
@@ -762,13 +763,13 @@ the Brazilian Armed Forces (BAF) are the second largest military in the Western 
 ## Space
 
 **Space agency/agencies**<br>
-Brazilian Space Agency (Ag&ecirc;ncia Espacial Brasileira, AEB; established in 1994 when Brazil&rsquo;s space program was transferred from the military to civilian control); National Institute for Space Research (established, 1971; part of the Brazilian Ministry of Science, Technology and Innovations); Space Operations Command (Armed Forces); Department of Aerospace Science and Technology (DCTA; established in 1953 as a military space research program under the Brazilian Air Force)&nbsp; (2023)<br>
+Brazilian Space Agency (Ag&ecirc;ncia Espacial Brasileira, AEB; established in 1994 when Brazil&rsquo;s space program was transferred from the military to civilian control); National Institute for Space Research (established, 1971; part of the Brazilian Ministry of Science, Technology and Innovations); Space Operations Command (Armed Forces); Department of Aerospace Science and Technology (DCTA; established in 1953 as a military space research program under the Brazilian Air Force) (2024)<br>
 
 **Space launch site(s)**<br>
-Alcantara Launch Site (Maranh&atilde;o state); Barreira do Inferno Launch Center (Rio Grande do Norte state) (2023)<br>
+Alcantara Launch Site (Maranh&atilde;o state); Barreira do Inferno Launch Center (Rio Grande do Norte state) (2024)<br>
 
 **Space program overview**<br>
-has an active program with a long history, although it has been hampered by inconsistent funding; develops, builds, operates, and tracks satellites, including communications, remote sensing (RS), multi-mission, navigational, and scientific/testing/research; satellites are launched by foreign partners, but Brazil has a long-standing sounding (research) rocket and space launch vehicle (SLV) program and rocket launch facilities; cooperates with a variety of foreign space agencies and commercial entities, including those of Argentina, Canada, the European Space Agency and individual member states (particularly France and Germany), India, Japan, Russia, South Africa, South Korea, Ukraine, and the US; has a state-controlled communications company that operates Brazil’s communications satellites and a growing commercial space sector with expertise in satellite technology (2023)<br>
+has an active program with a long history; develops, builds, operates, and tracks satellites, including communications, remote sensing (RS), multi-mission, navigational, and scientific/testing/research; satellites are launched by foreign partners, but Brazil has a long-standing sounding (research) rocket and space launch vehicle (SLV) program and rocket launch facilities; cooperates with a variety of foreign space agencies and commercial entities, including those of Argentina, Canada, the European Space Agency and individual member states (particularly France and Germany), India, Japan, Russia, South Africa, South Korea, Ukraine, and the US; has a state-controlled communications company that operates Brazil’s communications satellites and a growing commercial space sector with expertise in satellite technology (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

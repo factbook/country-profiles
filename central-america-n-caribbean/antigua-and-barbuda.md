@@ -596,9 +596,14 @@ _unpaved_: 784 km (2011)<br>
 _total_: 614 (2023)<br>
 _by type_: bulk carrier 24, container ship 109, general cargo 425, oil tanker 6, other 50<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Saint John's<br>
-_cruise port(s)_: St. John's<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 0<br>
+_very small_: 0<br>
+_ports with oil terminals_: 1<br>
+_key ports_: St. John's<br>
 
 ## Military and Security
 

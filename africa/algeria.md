@@ -468,8 +468,8 @@ _female_: 54%<br>
 27.6 (2011 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 37.3% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1% of household expenditures (2018 est.)<br>
+_on food_: 37.3% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
@@ -673,9 +673,14 @@ _total_: 112,696 km (2020)<br>
 _total_: 119 (2022)<br>
 _by type_: bulk carrier 1, container ship 4, general cargo 11, oil tanker 14, other 89<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Algiers, Annaba, Arzew, Bejaia, Djendjene, Jijel, Mostaganem, Oran, Skikda<br>
-_LNG terminal(s) (export)_: Arzew, Bethioua, Skikda<br>
+**Ports**<br>
+_total ports_: 17 (2024)<br>
+_large_: 2<br>
+_medium_: 1<br>
+_small_: 6<br>
+_very small_: 8<br>
+_ports with oil terminals_: 3<br>
+_key ports_: Alger, Annaba, Arzew, Arzew El Djedid, Bejaia, Mers El Kebir, Oran, Port Methanier, Skikda<br>
 
 ## Military and Security
 
@@ -701,7 +706,7 @@ the ANP's inventory includes mostly Russian-sourced equipment; in recent years, 
 <strong>note: </strong>conscripts comprise an estimated 70% of the military<br>
 
 **Military - note**<br>
-the ANP is responsible for external defense but also has some internal security responsibilities; key areas of concern include border and maritime security, terrorism, regional instability, and tensions with Morocco; Algeria supports the pro-independence Polisario Front in Western Sahara and accuses Morocco of supporting the Algerian separatist Movement for the Autonomy of Kabylie (MAK); border security and counterterrorism have received additional focus since the Arab Spring events of 2011 and the rise of terrorist threats emanating from Libya and the Sahel; the Army and Ministry of Defense (MND) paramilitary forces of the Gendarmerie and the border guards have beefed up their presence along the frontiers with Tunisia, Libya, Niger, and Mali to interdict and deter cross-border attacks by Islamic militant groups; the ANP and MND paramilitary forces have also increased counterterrorism cooperation with some neighboring countries, particularly Tunisia, including joint operations<br><br>the ANP has also played a large role in the country’s politics since independence in 1962, including coups in 1965 and 1991; it was a key backer of BOUTEFLIKA’s election in 1999 and remained a center of power during his 20-year rule; the military was instrumental in BOUTEFLIKA’s resignation in 2019, when it withdrew support and called for him to be removed from office<br><br>the ANP is well-funded and one of the better-equipped militaries in North Africa; over the past decade, it has made large investments in more modern equipment, including armored vehicles, air defense systems, fighter aircraft, unmanned aerial vehicles, and warships, largely from Russia but also China and Western European suppliers; it is a conscript-based force that exercises regularly, including jointly with foreign militaries such as those of Russia, Tunisia, and some Sahel countries; the ANP is part of the African Union’s Standby Force for North Africa; the core combat units of the Land Forces consists of multiple armored and mechanized divisions, as well as a combined airborne and special forces division, plus separate brigades of mechanized or motorized infantry and tanks; the Naval Forces’ principal warships include frigates, corvettes, and attack submarines; in 2015, the Naval Forces acquired from Italy its first amphibious transport dock (LHD) ship, which is capable of carrying helicopters, small landing craft, and more than 300 troops; the Air Force has more than 100 Russian-made combat aircraft, as well as about 200 Russian-made combat helicopters (2023)<br>
+the ANP is responsible for external defense but also has some internal security responsibilities; key areas of concern include border and maritime security, terrorism, regional instability, and tensions with Morocco; Algeria supports the pro-independence Polisario Front in Western Sahara and accuses Morocco of supporting the Algerian separatist Movement for the Autonomy of Kabylie (MAK); border security and counterterrorism have received additional focus since the Arab Spring events of 2011 and the rise of terrorist threats emanating from Libya and the Sahel; the Army and Ministry of Defense (MND) paramilitary forces of the Gendarmerie and the border guards have beefed up their presence along the frontiers with Tunisia, Libya, Niger, and Mali to interdict and deter cross-border attacks by Islamic militant groups; the ANP and MND paramilitary forces have also increased counterterrorism cooperation with some neighboring countries, particularly Tunisia, including joint operations<br><br>the ANP has also played a large role in the country’s politics since independence in 1962, including coups in 1965 and 1991; it was a key backer of BOUTEFLIKA’s election in 1999 and remained a center of power during his 20-year rule; the military was instrumental in BOUTEFLIKA’s resignation in 2019, when it withdrew support and called for him to be removed from office<br><br>the ANP is one of the better-equipped militaries in North Africa; over the past decade, it has made large investments in more modern equipment, including armored vehicles, air defense systems, fighter aircraft, unmanned aerial vehicles, and warships, largely from Russia but also China and Western European suppliers; it is a conscript-based force that exercises regularly, including jointly with foreign militaries such as those of Russia, Tunisia, and some Sahel countries; the ANP is part of the African Union’s Standby Force for North Africa; the core combat units of the Land Forces consists of multiple armored and mechanized divisions, as well as a combined airborne and special forces division, plus separate brigades of mechanized or motorized infantry and tanks; the Naval Forces’ principal warships include frigates, corvettes, and attack submarines; in 2015, the Naval Forces acquired from Italy its first amphibious transport dock (LHD) ship, which is capable of carrying helicopters, small landing craft, and more than 300 troops; the Air Force has more than 100 Russian-made combat aircraft, as well as about 200 Russian-made combat helicopters (2023)<br>
 
 ## Space
 

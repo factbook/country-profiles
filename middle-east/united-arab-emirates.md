@@ -456,8 +456,8 @@ _female_: 19.9%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 13.7% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 0.4% of household expenditures (2018 est.)<br>
+_on food_: 13.6% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 0.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4%<br>
@@ -661,10 +661,14 @@ _paved_: 4,080 km (2008) (includes 253 km of expressways)<br>
 _total_: 655 (2023)<br>
 _by type_: bulk carrier 2, container ship 3, general cargo 122, oil tanker 16, other 512<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khor Fakkan (Khawr Fakkan) (Sharjah), Mubarraz Island (Abu Dhabi), Mina' Rashid (Dubai), Mina' Saqr (Ra's al Khaymah)<br>
-_container port(s) (TEUs)_: Dubai Port (13,742,000) (2021)<br>
-_LNG terminal(s) (export)_: Das Island<br>
+**Ports**<br>
+_total ports_: 20 (2024)<br>
+_large_: 1<br>
+_medium_: 4<br>
+_small_: 9<br>
+_very small_: 6<br>
+_ports with oil terminals_: 17<br>
+_key ports_: Abu Zaby, Jabal Az Zannah/ruways, Khawr Fakkan, Mina Jabal Ali, Zirkuh<br>
 
 ## Military and Security
 

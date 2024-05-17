@@ -644,8 +644,14 @@ _paved_: 93 km (2018) - 60 km in Malée; 16 km on Addu Atolis; 17 km on Laamu<br
 _total_: 82 (2023)<br>
 _by type_: general cargo 30, oil tanker 20, other 32<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Male<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 1<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Male<br>
 
 ## Military and Security
 

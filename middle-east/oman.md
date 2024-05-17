@@ -450,8 +450,8 @@ _male_: 11.6%<br>
 _female_: 29.6%<br>
 
 **Average household expenditures**<br>
-_on food_: 22.7% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 0.1% of household expenditures (2018 est.)<br>
+_on food_: 22.6% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 0.2% of household expenditures (2021 est.)<br>
 
 **Remittances**<br>
 0.03% of GDP (2022 est.)<br>
@@ -648,10 +648,14 @@ _unpaved_: 30,545 km (2012)<br>
 _total_: 57 (2023)<br>
 _by type_: general cargo 11, other 46<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Mina' Qabus, Salalah, Suhar<br>
-_container port(s) (TEUs)_: Salalah (4,510,000) (2021)<br>
-_LNG terminal(s) (export)_: Qalhat<br>
+**Ports**<br>
+_total ports_: 7 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 4<br>
+_very small_: 2<br>
+_ports with oil terminals_: 6<br>
+_key ports_: Duqm, Khawr Khasab, Mina Al Fahl, Mina Raysut, Sohar<br>
 
 ## Military and Security
 

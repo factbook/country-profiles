@@ -488,8 +488,8 @@ _female_: 37.1%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 28.3% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1.9% of household expenditures (2018 est.)<br>
+_on food_: 23.2% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 1.9% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
@@ -705,11 +705,14 @@ _unpaved_: 158,645 km (2017)<br>
 _total_: 201 (2023)<br>
 _by type_: container ship 1, bulk carrier 1 general cargo 8, oil tanker 33, other 158<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, Ushuaia<br>
-_container port(s) (TEUs)_: Buenos Aires (1,446,452) (2021)<br>
-_LNG terminal(s) (import)_: Bahia Blanca<br>
-_river port(s)_: Arroyo Seco, Rosario, San Lorenzo-San Martin (Parana)<br>
+**Ports**<br>
+_total ports_: 37 (2024)<br>
+_large_: 1<br>
+_medium_: 2<br>
+_small_: 10<br>
+_very small_: 24<br>
+_ports with oil terminals_: 19<br>
+_key ports_: Buenos Aires, Campana, Concepcion Del Uruguay, La Plata, Mar Del Plata, Puerto Belgrano, Puerto Ingeniero White, Puerto Madryn, Rosario, San Sebastian Bay, Santa Fe, Ushuaia, Zarate<br>
 
 ## Military and Security
 

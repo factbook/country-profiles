@@ -486,8 +486,8 @@ _female_: 15%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 16.7% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 5.7% of household expenditures (2018 est.)<br>
+_on food_: 17.2% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 6.3% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
@@ -694,11 +694,14 @@ _total_: 427,580 km (2022)<br>
 _total_: 152 (2023)<br>
 _by type_: general cargo 6, oil tanker 6, other 140<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Gdansk, Gdynia, Swinoujscie<br>
-_container port(s) (TEUs)_: Gdansk (2,117,829) (2021)<br>
-_LNG terminal(s) (import)_: Swinoujscie<br>
-_river port(s)_: Szczecin (River Oder)<br>
+**Ports**<br>
+_total ports_: 10 (2024)<br>
+_large_: 2<br>
+_medium_: 2<br>
+_small_: 4<br>
+_very small_: 2<br>
+_ports with oil terminals_: 5<br>
+_key ports_: Gdansk, Gdynia, Port Polnochny, Szczecin<br>
 
 ## Military and Security
 

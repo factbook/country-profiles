@@ -478,8 +478,8 @@ _female_: 27.9%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 26.8% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 3.8% of household expenditures (2018 est.)<br>
+_on food_: 26.8% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 3.8% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
@@ -687,12 +687,15 @@ _unpaved_: 9,833 km (2002)<br>
 _total_: 40 (2023)<br>
 _by type_: container ship 1, general cargo 2, oil tanker 1, other 36<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Puerto Haina, Puerto Plata, Santo Domingo<br>
-_oil terminal(s)_: Punta Nizao oil terminal<br>
-_cruise port(s)_: La Romana<br>
-_container port(s) (TEUs)_: Caucedo (1,265,459); Haina (495,243)<br>
-_LNG terminal(s) (import)_: Andres LNG terminal (Boca Chica)<br>
+**Ports**<br>
+_total ports_: 17 (2024)<br>
+_large_: 0<br>
+_medium_: 2<br>
+_small_: 7<br>
+_very small_: 6<br>
+_size unknown_: 2<br>
+_ports with oil terminals_: 7<br>
+_key ports_: Andres (Andres Lng Terminal), Las Calderas, Puerto De Haina, Puerto Plata, Punta Nizao Oil Terminal, San Pedro De Macoris, Santa Barbara De Samana, Santa Cruz De Barahona, Santo Domingo<br>
 
 ## Military and Security
 

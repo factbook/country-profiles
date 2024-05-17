@@ -572,8 +572,15 @@ _paved_: 447 km (2010)<br>
 _total_: 122 (2023)<br>
 _by type_: container ship 15, oil tanker 8, other 99<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Hamilton, Ireland Island, Saint George<br>
+**Ports**<br>
+_total ports_: 4 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 2<br>
+_very small_: 0<br>
+_size unknown_: 1<br>
+_ports with oil terminals_: 3<br>
+_key ports_: Freeport, Hamilton, Ireland Island, St. George<br>
 
 ## Military and Security
 

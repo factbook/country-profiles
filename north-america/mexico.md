@@ -509,8 +509,8 @@ _female_: 8.6%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 23.4% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 2.8% of household expenditures (2018 est.)<br>
+_on food_: 26.2% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 3.6% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
@@ -729,12 +729,15 @@ _unpaved_: 529,358 km (2017)<br>
 _total_: 674 (2023)<br>
 _by type_: bulk carrier 4, general cargo 11, oil tanker 32, other 627<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz<br>
-_oil terminal(s)_: Cayo Arcas terminal, Dos Bocas terminal<br>
-_cruise port(s)_: Cancun, Cozumel, Ensenada<br>
-_container port(s) (TEUs)_: Lazaro Cardenas (1,686,076), Manzanillo (3,371,400), Veracruz (1,165,043) (2021)<br>
-_LNG terminal(s) (import)_: Altamira, Ensenada<br>
+**Ports**<br>
+_total ports_: 35 (2024)<br>
+_large_: 0<br>
+_medium_: 7<br>
+_small_: 10<br>
+_very small_: 14<br>
+_size unknown_: 4<br>
+_ports with oil terminals_: 21<br>
+_key ports_: Acapulco, Ensenada, Manzanillo, Mazatlan, Tampico, Tuxpan, Veracruz<br>
 
 ## Military and Security
 

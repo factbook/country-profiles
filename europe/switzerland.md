@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Swiss Confederation was founded in 1291 as a defensive alliance among three cantons. In succeeding years, other localities joined the original three. The Swiss Confederation secured its independence from the Holy Roman Empire in 1499. A constitution of 1848, subsequently modified in 1874 to allow voters to introduce referenda on proposed laws, replaced the confederation with a centralized federal government. Switzerland's sovereignty and neutrality have long been honored by the major European powers, and the country was not involved in either of the two World Wars. The political and economic integration of Europe over the past half century, as well as Switzerland's role in many UN and international organizations, has strengthened Switzerland's ties with its neighbors. However, the country did not officially become a UN member until 2002. Switzerland remains active in many UN and international organizations but retains a strong commitment to neutrality.</p> <p> </p><br>
+<p>The Swiss Confederation was founded in 1291 as a defensive alliance among three cantons. In succeeding years, other localities joined the original three. The Swiss Confederation secured its independence from the Holy Roman Empire in 1499. A constitution of 1848, which was modified in 1874 to allow voters to introduce referenda on proposed laws, replaced the confederation with a centralized federal government. The major European powers have long honored Switzerland's sovereignty and neutrality, and the country was not involved in either World War. The political and economic integration of Europe over the past half-century, as well as Switzerland's role in many UN and international organizations, has strengthened Switzerland's ties with its neighbors. However, the country did not officially become a UN member until 2002. Switzerland remains active in many UN and international organizations but retains a strong commitment to neutrality.</p> <p> </p><br>
 
 ## Geography
 
@@ -479,8 +479,8 @@ _female_: 8.8%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 9.2% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 3.6% of household expenditures (2018 est.)<br>
+_on food_: 9.9% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 3.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
@@ -696,9 +696,6 @@ _total_: 83,131 km (2022)<br>
 **Merchant marine**<br>
 _total_: 17 (2023)<br>
 _by type_: bulk carrier 14, general cargo 1, other 2 (includes Liechtenstein)<br>
-
-**Ports and terminals**<br>
-_river port(s)_: Basel (Rhine)<br>
 
 ## Military and Security
 

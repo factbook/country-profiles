@@ -497,8 +497,14 @@ _percent of population_: 40.3% (2021 est.)<br>
 **Roadways**<br>
 _total_: 241 km (2016)<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Pago Pago<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 0<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Pago Pago Harbor<br>
 
 ## Military and Security
 

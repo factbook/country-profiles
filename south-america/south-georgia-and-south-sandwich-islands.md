@@ -5,7 +5,7 @@ _South America / Dependencies (United Kingdom)_
 ## Introduction
 
 **Background**<br>
-The islands, with large bird and seal populations, lie approximately 1,000 km east of the Falkland Islands and have been under British administration since 1908 - except for a brief period in 1982 when Argentina occupied them. Grytviken, on South Georgia, was a 19th and early 20th century whaling station. Famed explorer Ernest SHACKLETON stopped there in 1914 en route to his ill-fated attempt to cross Antarctica on foot. He returned some 20 months later with a few companions in a small boat and arranged a successful rescue for the rest of his crew, stranded off the Antarctic Peninsula. He died in 1922 on a subsequent expedition and is buried in Grytviken. Today, the station houses scientists from the British Antarctic Survey. Recognizing the importance of preserving the marine stocks in adjacent waters, the UK, in 1993, extended the exclusive fishing zone from 12 nm to 200 nm around each island.<br>
+South Georgia and the South Sandwich Islands lie approximately 1,000 km east of the Falkland Islands and have been under British administration since 1908 -- except for a brief period in 1982 when Argentina occupied them. Grytviken, on South Georgia, was a 19th- and early 20th-century whaling station. Famed explorer Ernest SHACKLETON stopped there in 1914 en route to his ill-fated attempt to cross Antarctica on foot. He returned some 20 months later with a few companions in a small boat and arranged a successful rescue for the rest of his crew, which was stranded off the Antarctic Peninsula. He died in 1922 on a subsequent expedition and is buried in Grytviken. Today, the station houses scientists from the British Antarctic Survey. Recognizing the importance of preserving the marine stocks in adjacent waters, the UK extended the exclusive fishing zone in 1993, from 12 nm to 200 nm around each island.<br>
 
 ## Geography
 
@@ -114,8 +114,14 @@ blue with the flag of the UK in the upper hoist-side quadrant and the South Geor
 **Heliports**<br>
 1 (2024)<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Grytviken<br>
+**Ports**<br>
+_total ports_: 3 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 3<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Grytviken, Prince Olav Harbor, Stromness Harbor<br>
 
 ## Military and Security
 

@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-First explored by the Spaniards in the 16th century and then settled by the English in the mid-17th century, Suriname became a Dutch colony in 1667. With the abolition of African slavery in 1863, workers were brought in from India and Java. The Netherlands granted the colony independence in 1975. Five years later, the civilian government was replaced by a military regime that soon declared Suriname a socialist republic. It continued to exert control through a succession of nominally civilian administrations until 1987, when international pressure finally forced a democratic election. In 1990, the military overthrew the civilian leadership, but a democratically elected government - a four-party coalition - returned to power in 1991. The coalition expanded to eight parties in 2005 and ruled until August 2010, when voters returned former military leader Desire BOUTERSE and his opposition coalition to power. President BOUTERSE was reelected unopposed in 2015. Opposition parties campaigned hard against BOUTERSE in the lead up to the May 2020 elections and, in July 2020, a multi-party coalition led by Chandrikapersad SANTOKHI&rsquo;s VHP and Ronnie Brunswijk&rsquo;s ABOP was installed. The SANTOKHI government promised to tackle COVID-19, the economic crisis it inherited, and corruption.<br>
+The Spaniards first explored Suriname in the 16th century, and the English then settled it in the mid-17th century. Suriname became a Dutch colony in 1667. With the abolition of African slavery in 1863, workers were brought in from India and Java. The Netherlands granted the colony independence in 1975. Five years later, the civilian government was replaced by a military regime that soon declared Suriname a socialist republic. It continued to exert control through a succession of nominally civilian administrations until 1987, when international pressure finally forced a democratic election. In 1990, the military overthrew the civilian leadership, but a democratically elected government -- a four-party coalition -- returned to power in 1991. The coalition expanded to eight parties in 2005 and ruled until 2010, when voters returned former military leader Desire BOUTERSE and his opposition coalition to power. President BOUTERSE ran unopposed in 2015 and was reelected. Opposition parties campaigned hard against BOUTERSE in the run-up to the 2020 elections, and a multi-party coalition led by Chandrikapersad SANTOKHI&rsquo;s VHP and Ronnie Brunswijk&rsquo;s ABOP was installed.&nbsp;<br>
 
 ## Geography
 
@@ -655,8 +655,14 @@ _unpaved_: 3,185 km (2003)<br>
 _total_: 13 (2023)<br>
 _by type_: general cargo 5, oil tanker 3, other 5<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Paramaribo, Wageningen<br>
+**Ports**<br>
+_total ports_: 4 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 3<br>
+_ports with oil terminals_: 3<br>
+_key ports_: Moengo, Nieuw Nickerie, Paramaribo, Paranam<br>
 
 ## Military and Security
 

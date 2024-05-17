@@ -671,9 +671,14 @@ _unpaved_: 22,215 km (2015)<br>
 _total_: 205 (2023)<br>
 _by type_: container ship 6, general cargo 89, oil tanker 4, other 106<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Kimbe, Lae, Madang, Rabaul, Wewak<br>
-_LNG terminal(s) (export)_: Port Moresby<br>
+**Ports**<br>
+_total ports_: 22 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 6<br>
+_very small_: 16<br>
+_ports with oil terminals_: 8<br>
+_key ports_: Kavieng Harbor, Kieta, Port Moresby, Rabaul, Vanimo, Wewak Harbor<br>
 
 ## Military and Security
 

@@ -100,9 +100,6 @@ _etymology_: Portuguese navigators began to refer to the "Ilhas do Pracel" in th
 
 ## Transportation
 
-**Ports and terminals**<br>
-small Chinese port facilities on Woody Island and Duncan Island<br>
-
 ## Military and Security
 
 **Military - note**<br>

@@ -575,8 +575,14 @@ _unpaved_: 750 km (2018)<br>
 _total_: 77 (2023)<br>
 _by type_: general cargo 26, oil tanker 10, other 41<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Portsmouth, Roseau<br>
+**Ports**<br>
+_total ports_: 2 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 2<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Portsmouth, Roseau<br>
 
 ## Military and Security
 

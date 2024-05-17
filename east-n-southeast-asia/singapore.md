@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-A Malay trading port known as Temasek existed on the island of Singapore by the 14th century. The settlement changed hands several times in the ensuing centuries and was eventually burned in the 17th century and fell into obscurity. The British founded modern Singapore as a trading colony on the site in 1819. It joined the Malaysian Federation in 1963 but was ousted two years later and became independent. Singapore subsequently became one of the world's most prosperous countries with strong international trading links (its port is one of the world's busiest in terms of tonnage handled) and with per capita GDP among the highest globally.<br>
+A Malay trading port known as Temasek existed on the island of Singapore by the 14th century. The settlement changed hands several times in the ensuing centuries and was eventually burned in the 17th century, falling into obscurity. In 1819, the British founded modern Singapore as a trading colony on the same site. It joined the Malaysian Federation in 1963 but was ousted two years later and became independent. Singapore subsequently became one of the world's most prosperous countries, with strong international trading links and per capita GDP among the highest globally.<br>
 
 ## Geography
 
@@ -324,7 +324,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President THARMAN Shanmugaratnam (since 14 September 2023)<br>
-_head of government_: Prime Minister LEE Hsien Loong (since 12 August 2004)<br>
+_head of government_: Prime Minister Lawrence WONG (since 15 May 2024)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister; Cabinet responsible to Parliament<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 1 September 2023 (next to be held in 2029); following legislative elections, the leader of the majority party or majority coalition appointed prime minister by the president; deputy prime ministers appointed by the president<br>
 _election results_: <em>2023: </em>THARMAN Shanmugaratnam elected president; percent of vote - THARMAN Shanmugaratnam (independent) 70.4%, NG Kok Song (independent) 15.7%, TAN Kin Lian (independent) 13.9%<br><em><br>2017</em>: HALIMAH Yacob declared president on 13 September 2017, being the only eligible candidate<br><br><em>2011</em>: Tony TAN Keng Yam elected president; percent of vote - Tony TAN Keng Yam (independent) 35.2%, TAN Cheng Bock (independent) 34.9%, TAN Jee Say (independent) 25%, TAN Kin Lian (independent) 4.9%<br>
@@ -460,8 +460,8 @@ _female_: 11.8%<br>
 45.9 (2017)<br>
 
 **Average household expenditures**<br>
-_on food_: 6.9% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1.9% of household expenditures (2018 est.)<br>
+_on food_: 8.4% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 2% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.6%<br>
@@ -664,10 +664,14 @@ _paved_: 3,500 km (2017) (includes 164 km of expressways)<br>
 _total_: 3,202 (2023)<br>
 _by type_: bulk carrier 591, container ship 604, general cargo 107, oil tanker 600, other 1,300<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Singapore<br>
-_container port(s) (TEUs)_: Singapore (37,470,000) (2021)<br>
-_LNG terminal(s) (import)_: Singapore<br>
+**Ports**<br>
+_total ports_: 5 (2024)<br>
+_large_: 2<br>
+_medium_: 1<br>
+_small_: 1<br>
+_very small_: 1<br>
+_ports with oil terminals_: 3<br>
+_key ports_: Jurong Island, Keppel - (East Singapore), Pulau Bukom, Pulau Sebarok<br>
 
 ## Military and Security
 

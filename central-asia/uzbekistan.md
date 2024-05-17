@@ -479,8 +479,8 @@ _female_: 16.2%<br>
 36.8 (2003 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 30.2% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 2.5% of household expenditures (2018 est.)<br>
+_on food_: 46.5% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 3.2% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
@@ -683,9 +683,6 @@ _total_: 225,500 km (2013)<br>
 
 **Waterways**<br>
 1,100 km (2012)<br>
-
-**Ports and terminals**<br>
-_river port(s)_: Termiz (Amu Darya)<br>
 
 ## Military and Security
 

@@ -470,8 +470,8 @@ _female_: 41.2%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 21.9% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
+_on food_: 24.2% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 3.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.2%<br>
@@ -681,8 +681,14 @@ _unpaved_: 20,068 km (2020)<br>
 _total_: 72 (2023)<br>
 _by type_: container ship 1, general cargo 8, oil tanker 1, other 62<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Bizerte, Gabes, Rades, Sfax, Skhira<br>
+**Ports**<br>
+_total ports_: 16 (2024)<br>
+_large_: 0<br>
+_medium_: 3<br>
+_small_: 7<br>
+_very small_: 6<br>
+_ports with oil terminals_: 10<br>
+_key ports_: Ashtart Oil Terminal, Banzart, Didon Terminal, Gabes, La Goulette, Menzel Bourguiba, Mersa Sfax, Sousse, Tazerka Oil Terminal, Tunis<br>
 
 ## Military and Security
 

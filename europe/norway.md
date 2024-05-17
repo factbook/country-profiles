@@ -472,8 +472,8 @@ _female_: 12.5%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 11.7% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 4.1% of household expenditures (2018 est.)<br>
+_on food_: 12.5% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 4.2% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
@@ -679,10 +679,15 @@ _total_: 95,120 km (2022)<br>
 _total_: 1,720 (2022)<br>
 _by type_: bulk carrier 109, container ship 1, general cargo 274, oil tanker 95, other 1,241<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture<br>
-_LNG terminal(s) (export)_: Kamoy, Kollsnes, Melkoya Island, Tjeldbergodden<br>
-_LNG terminal(s) (import)_: Fredrikstad, Mosjoen<br>
+**Ports**<br>
+_total ports_: 141 (2024)<br>
+_large_: 1<br>
+_medium_: 10<br>
+_small_: 34<br>
+_very small_: 90<br>
+_size unknown_: 6<br>
+_ports with oil terminals_: 54<br>
+_key ports_: Bergen, Drammen, Hammerfest, Harstad, Horten, Karsto, Mongstad, Oslo, Stavanger, Tromso, Trondheim<br>
 
 ## Military and Security
 

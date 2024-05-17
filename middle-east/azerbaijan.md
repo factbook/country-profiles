@@ -471,8 +471,8 @@ _female_: 18.9%<br>
 33.7 (2008)<br>
 
 **Average household expenditures**<br>
-_on food_: 38.6% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1.6% of household expenditures (2018 est.)<br>
+_on food_: 43.6% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 2% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
@@ -678,9 +678,6 @@ _total_: 24,981 km (2013)<br>
 _total_: 312 (2023)<br>
 _by type_: general cargo 40, oil tanker 44, other 228<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Baku (Baki) located on the Caspian Sea<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
@@ -705,7 +702,7 @@ Baku has been actively upgrading its equipment for over a decade with purchases 
 <strong>note:</strong> most of the military is made up of professional contract soldiers; as of 2018, women made up an estimated 3% of the active duty military<br>
 
 **Military - note**<br>
-the Azerbaijani military was established in 1991, although its origins go back to 1918; much of the military’s original equipment was acquired from former Soviet military forces that left Azerbaijan by 1992; territorial defense is the military’s primary focus, particularly with regards to neighboring Armenia; a secondary focus is guarding against Iran; the Ground Forces have five army corps, plus an independent combined arms army, which is assigned to the Azerbaijani exclave of Naxicvan (Nakhichevan); between them, the corps and the combined arms army have more than 20 mechanized or motorized combat brigades; the Ground Forces also have separate brigades of artillery, battlefield rockets, and special forces; the Air Force has a few dozen Russian-origin fighters and ground attack aircraft, as well as some combat helicopters; the Navy patrols the Caspian Sea with a corvette and several coastal patrol craft<br><br>Armenia and Azerbaijan engaged in open conflicts over the Nagorno-Karabakh enclave in 1991-94 and 2020, plus a brief flare-up in 2016; tensions continued following the 2020 conflict; Azerbaijan seized the entire enclave in 2023 <br><br>Turkey is Azerbaijan’s strongest military partner, a relationship that has included weapons transfers, technical advice, bilateral training exercises, and key support during the 2020 conflict with Armenia; Azerbaijan is not part of NATO but has had a cooperative relationship with it dating back to when it joined NATO’s Partnership for Peace program in 1994 and has provided troops to NATO-led missions in Kosovo (1999-2008) and Afghanistan (2002-2014) (2023)<br>
+the Azerbaijani military was established in 1991, although its origins go back to 1918; much of the military’s original equipment was acquired from former Soviet military forces that departed Azerbaijan by 1992; territorial defense is the military’s primary focus, particularly with regards to neighboring Armenia; a secondary focus is guarding against Iran; the Ground Forces have five army corps, plus an independent combined arms army, which is assigned to the Azerbaijani exclave of Naxicvan (Nakhichevan); between them, the corps and the combined arms army have more than 20 mechanized or motorized combat brigades; the Ground Forces also have separate brigades of artillery, battlefield rockets, and special forces; the Air Force has a few dozen Russian-origin fighters and ground attack aircraft, as well as some combat helicopters; the Navy patrols the Caspian Sea with a corvette and several coastal patrol craft<br><br>Armenia and Azerbaijan engaged in open conflicts over the Nagorno-Karabakh enclave in 1991-94 and 2020; tensions continued following the 2020 conflict, and Azerbaijan seized the entire enclave in 2023 <br><br>Turkey is Azerbaijan’s strongest military partner, a relationship that has included weapons transfers, technical advice, bilateral training exercises, and key support during the 2020 conflict with Armenia; Azerbaijan is not part of NATO but has had a cooperative relationship with it dating back to when it joined NATO’s Partnership for Peace program in 1994 and has provided troops to NATO-led missions in Kosovo (1999-2008) and Afghanistan (2002-2014) (2023)<br>
 
 ## Space
 

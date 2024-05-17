@@ -475,8 +475,8 @@ _female_: 8.7%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 16.3% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 8% of household expenditures (2018 est.)<br>
+_on food_: 16.1% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 8.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4%<br>
@@ -685,10 +685,6 @@ _total_: 129,418 km (2022)<br>
 
 **Waterways**<br>
 664 km (2010) (principally on Elbe, Vltava, Oder, and other navigable rivers, lakes, and canals)<br>
-
-**Ports and terminals**<br>
-_river port(s)_: Prague (Vltava)<br>
-Decin, Usti nad Labem (Elbe)<br>
 
 ## Military and Security
 

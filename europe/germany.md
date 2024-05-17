@@ -487,8 +487,8 @@ _female_: 6.6%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 10.7% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
+_on food_: 12% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 3.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1%<br>
@@ -707,12 +707,14 @@ _paved_: 830,000 km (2022) (includes 13,155 km of expressways)<br>
 _total_: 595 (2023)<br>
 _by type_: bulk carrier 1, container ship 69, general cargo 82, oil tanker 32, other 411<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: <br><em>Baltic Sea:</em> Kiel, Rostock<br><em>North Sea:</em> Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven<br>
-_oil terminal(s)_: Brunsbuttel Canal terminals<br>
-_container port(s) (TEUs)_: Bremen/Bremerhaven (5,018,900), Hamburg (8,715,000) (2021)<br>
-_LNG terminal(s) (import)_: Hamburg; Brunsbuettel (FSRU); Lubmin (FSRU); Wilhelmshaven (FSRU)<br>
-_river port(s)_: Bremen (Weser); Bremerhaven (Geeste); Duisburg, Karlsruhe, Neuss-Dusseldorf (Rhine); Lubeck (Wakenitz); Brunsbuttel, Hamburg (Elbe)<br>
+**Ports**<br>
+_total ports_: 35 (2024)<br>
+_large_: 5<br>
+_medium_: 4<br>
+_small_: 11<br>
+_very small_: 15<br>
+_ports with oil terminals_: 12<br>
+_key ports_: Brake, Bremen, Bremerhaven, Cuxhaven, Emden, Hamburg, Kiel, Lubeck, Rostock<br>
 
 ## Military and Security
 
@@ -747,13 +749,13 @@ the Bundeswehr’s core mission is the defense of Germany and its NATO partners;
 ## Space
 
 **Space agency/agencies**<br>
-German Aerospace Center (Deutsches Zentrum f&uuml;r Luft- und Raumfahrt, DLR; established 1997); predecessor organization, German Test and Research Institute for Aviation and Space Flight, was established in 1969; note &ndash; the Federal Republic of Germany was allowed to research space flight after gaining sovereignty in 1955 (2023)<br>
+German Aerospace Center (Deutsches Zentrum f&uuml;r Luft- und Raumfahrt, DLR; established 1997); predecessor organization, German Test and Research Institute for Aviation and Space Flight, was established in 1969; note &ndash; the Federal Republic of Germany was allowed to research space flight after gaining sovereignty in 1955 (2024)<br>
 
 **Space launch site(s)**<br>
-none; launched an initiative in 2020 with the aim of launching SLVs from a floating, mobile platform in the North Sea, with a logistics base in Bremerhaven (2023)<br>
+establishing a commercial ship-based launch pad 350 kms (217 miles) off the German coast in the remotest corner of its exclusive economic zone; each launch is to be supervised by a control ship and a multifunctional mission control center in Bremen, Germany; the launch ship will be based out of Bremerhaven (2024)<br>
 
 **Space program overview**<br>
-has one of Europe’s largest space programs; is a key member of the European Space Agency (ESA) and one of its largest contributors; builds and operates satellites, satellite/space launch vehicles (SLVs), space probes, unmanned orbiters, and reusable space planes; conducts research and develops a range of other space-related capabilities technologies, including satellite payloads (cameras, remote sensing, communications, optics, sensors, etc.), rockets and rocket propulsion, propulsion assisted landing technologies, and aeronautics; participates in ESA’s astronaut training program and human space flight operations and hosts the European Astronaut Center; participates in other international space programs, such as the International Space Station (ISS); hosts the mission control centers for the ISS and the ESA, as well as the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT); in addition to ESA/EU and their member states, has ties to a range of foreign space programs, including those of China, Japan, Russia, and the US; has a robust commercial space industry sector that develops a broad range of space capabilities, including satellite launchers, and cooperates closely with DLR, ESA, and other international commercial entities and government agencies (2023)<br>
+has one of Europe’s largest space programs; is a key member of the European Space Agency (ESA) and one of its largest contributors; builds and operates satellites, satellite/space launch vehicles (SLVs), space probes, unmanned orbiters, and reusable space planes; conducts research and develops a range of other space-related capabilities technologies, including satellite payloads (cameras, remote sensing, communications, optics, sensors, etc.), rockets and rocket propulsion, propulsion assisted landing technologies, and aeronautics; participates in ESA’s astronaut training program and human space flight operations and hosts the European Astronaut Center; participates in other international space programs, such as the International Space Station (ISS); hosts the mission control centers for the ISS and the ESA, as well as the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT); in addition to ESA/EU and their member states, has ties to a range of foreign space programs, including those of China, Japan, Russia, and the US; has a robust commercial space industry sector that develops a broad range of space capabilities, including satellite launchers, and cooperates closely with DLR, ESA, and other international commercial entities and government agencies (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

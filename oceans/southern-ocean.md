@@ -5,7 +5,7 @@ _Oceans / Oceans_
 ## Introduction
 
 **Background**<br>
-A large body of recent oceanographic research has shown that the Antarctic Circumpolar Current (ACC), an ocean current that flows from west to east around Antarctica, plays a crucial role in global ocean circulation. The region where the cold waters of the ACC meet and mingle with the warmer waters of the north defines a distinct border - the Antarctic Convergence - which fluctuates with the seasons, but which encompasses a discrete body of water and a unique ecologic region. The Convergence concentrates nutrients, which promotes marine plant life, and which, in turn, allows for a greater abundance of animal life. In 2000, the International Hydrographic Organization delimited the waters within the Convergence as a fifth world ocean basin - the Southern Ocean - by combining the southern portions of the Atlantic Ocean, Indian Ocean, and Pacific Ocean. The Southern Ocean extends from the coast of Antarctica north to 60 degrees south latitude, which coincides with the Antarctic Treaty region and which approximates the extent of the Antarctic Convergence. As such, the Southern Ocean is now the fourth largest of the world's five ocean basins (after the Pacific Ocean, Atlantic Ocean, and Indian Ocean, but larger than the Arctic Ocean). It should be noted that inclusion of the Southern Ocean does not imply recognition of this feature as one of the world's primary ocean basins by the US Government.<br>
+A large body of recent oceanographic research has shown that the Antarctic Circumpolar Current (ACC), an ocean current that flows from west to east around Antarctica, plays a crucial role in global ocean circulation. The region where the cold waters of the ACC meet and mingle with the warmer waters of the north defines a distinct border -- the Antarctic Convergence -- which fluctuates with the seasons but encompasses a discrete body of water and a unique ecologic region. The Convergence concentrates nutrients, which promotes marine plant life, which in turn allows for a greater abundance of animal life. In 2000, the International Hydrographic Organization delimited the waters within the Convergence as a fifth world ocean basin -- the Southern Ocean -- by combining the southern portions of the Atlantic Ocean, Indian Ocean, and Pacific Ocean. The Southern Ocean extends from the coast of Antarctica north to 60 degrees south latitude, which coincides with the Antarctic Treaty region and which approximates the extent of the Antarctic Convergence. As such, the Southern Ocean is now the fourth largest of the world's five ocean basins (after the Pacific Ocean, Atlantic Ocean, and Indian Ocean). It should be noted that inclusion of the Southern Ocean does not imply US Government recognition of this feature as one of the world's primary ocean basins.<br>
 
 ## Geography
 
@@ -84,10 +84,6 @@ _etymology_: the International Hydrographic Organization (IHO) included the ocea
 ## Economy
 
 ## Transportation
-
-**Ports and terminals**<br>
-_major seaport(s)_: McMurdo, Palmer, and offshore anchorages in Antarctica<br>
-<strong>note:</strong> few ports or harbors exist on the southern side of the Southern Ocean; ice conditions limit use of most to short periods in midsummer; even then some cannot be entered without icebreaker escort; most Antarctic ports are operated by government research stations and, except in an emergency, are not open to commercial or private vessels<br>
 
 **Transportation - note**<br>
 Drake Passage offers alternative to transit through the Panama Canal<br>

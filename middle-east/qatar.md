@@ -457,8 +457,8 @@ _female_: 2.1%<br>
 41.1 (2007 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 12.3% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 0.3% of household expenditures (2018 est.)<br>
+_on food_: 12.3% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 0.3% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.3%<br>
@@ -656,9 +656,14 @@ _total_: 7,039 km (2016)<br>
 _total_: 123 (2023)<br>
 _by type_: bulk carrier 5, container ship 4, general cargo 4, oil tanker 2, other 108<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Doha, Musay'id, Ra's Laffan<br>
-_LNG terminal(s) (export)_: Ras Laffan<br>
+**Ports**<br>
+_total ports_: 6 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 2<br>
+_very small_: 3<br>
+_ports with oil terminals_: 5<br>
+_key ports_: Al Rayyan Terminal, Al Shaheen Terminal, Doha, Jazirat Halul, Ras Laffan, Umm Said<br>
 
 ## Military and Security
 

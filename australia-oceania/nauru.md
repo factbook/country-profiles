@@ -572,8 +572,14 @@ _unpaved_: 6 km (2002)<br>
 _total_: 6 (2023)<br>
 _by type_: other 6<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Nauru<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 1<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Nauru<br>
 
 ## Military and Security
 

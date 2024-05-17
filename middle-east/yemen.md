@@ -663,8 +663,14 @@ _unpaved_: 65,100 km (2005)<br>
 _total_: 30 (2023)<br>
 _by type_: general cargo 2, oil tanker 1, other 27<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Aden, Al Hudaydah, Al Mukalla<br>
+**Ports**<br>
+_total ports_: 10 (2024)<br>
+_large_: 1<br>
+_medium_: 2<br>
+_small_: 2<br>
+_very small_: 5<br>
+_ports with oil terminals_: 6<br>
+_key ports_: Aden, Al Ahmadi, Al Mukalla, Al Mukha, Ras Isa Marine Terminal<br>
 
 ## Military and Security
 

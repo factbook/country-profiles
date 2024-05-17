@@ -555,9 +555,14 @@ _paved_: 785 km (2007)<br>
 _total_: 130 (2023)<br>
 _by type_: bulk carrier 29, container ship 3, general cargo 1, oil tanker 20, other 77<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Cayman Brac, George Town<br>
-_cruise port(s)_: George Town, Grand Cayman<br>
+**Ports**<br>
+_total ports_: 2 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 2<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Cayman Brac, Georgetown<br>
 
 ## Military and Security
 

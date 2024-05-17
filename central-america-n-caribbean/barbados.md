@@ -624,8 +624,14 @@ _paved_: 1,700 km (2015)<br>
 _total_: 272 (2023)<br>
 _by type_: bulk carrier 90, general cargo 149, oil tanker 5, other 28<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Bridgetown<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 0<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Bridgetown<br>
 
 ## Military and Security
 

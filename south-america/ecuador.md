@@ -484,8 +484,8 @@ _female_: 18.8%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 26.2% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 0.8% of household expenditures (2018 est.)<br>
+_on food_: 26.3% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 0.8% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
@@ -691,10 +691,14 @@ _unpaved_: 35,055 km (2022)<br>
 _total_: 154 (2023)<br>
 _by type_: container ship 1, general cargo 8, oil tanker 28, other 117<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Esmeraldas, Manta, Puerto Bolivar<br>
-_container port(s) (TEUs)_: Guayaquil (2,163,151) (2021)<br>
-_river port(s)_: Guayaquil (Guayas)<br>
+**Ports**<br>
+_total ports_: 6 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 2<br>
+_very small_: 4<br>
+_ports with oil terminals_: 5<br>
+_key ports_: Esmeraldas, Guayaquil, La Libertad, Manta, Puerto Bolivar, Puerto Maritimo De Guayaquil<br>
 
 ## Military and Security
 
@@ -725,10 +729,10 @@ the military is responsible for preserving Ecuador’s national sovereignty and 
 ## Space
 
 **Space agency/agencies**<br>
-Ecuadorian Civilian Space Agency (EXA; a private research and development institution in charge of the administration and execution of Ecuador&rsquo;s space program, established 2007); Ecuadorian Space Institute (established 2012, disbanded 2018) (2023)<br>
+Ecuadorian Civilian Space Agency (EXA; a civilian independent research and development institution in charge of the administration and execution of Ecuador&rsquo;s space program, established 2007); Ecuadorian Space Institute (established 2012, disbanded 2018) (2024)<br>
 
 **Space program overview**<br>
-has a small program focused on acquiring or manufacturing satellites; builds scientific satellites; conducts research and develops some space-related technologies; has established relations with the space agencies and industries of China and Russia, as well as the Latin American and Caribbean Space Agency (ALCE) and its member states (2023)<br>
+has a small program focused on acquiring or manufacturing satellites; builds scientific satellites; conducts research and develops some space-related technologies; has established relations with the space agencies and industries of China and Russia, as well as the Latin American and Caribbean Space Agency (ALCE) and its member states (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

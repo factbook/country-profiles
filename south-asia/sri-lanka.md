@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The first Sinhalese arrived in Sri Lanka late in the 6th century B.C., probably from northern India. Buddhism was introduced circa 250 B.C., and the first kingdoms developed at the cities of Anuradhapura (from circa 200 B.C. to circa A.D. 1000) and Polonnaruwa (from about 1070 to 1200). In the 14th century, a south Indian dynasty established a Tamil kingdom in northern Sri Lanka. The Portuguese controlled the coastal areas of the island in the 16th century followed by the Dutch in the 17th century. The island was ceded to the British in 1796, became a crown colony in 1802, and was formally united under British rule by 1815. As Ceylon, it became independent in 1948; its name was changed to Sri Lanka in 1972. Prevailing tensions between the Sinhalese majority and Tamil separatists erupted into war in July 1983. Fighting between the government and Liberation Tigers of Tamil Eelam (LTTE) continued for over a quarter century. Although Norway brokered peace negotiations that led to a cease-fire in 2002, the fighting slowly resumed and was again in full force by 2006. The government defeated the LTTE in May 2009.</p> <p>During the post-conflict years under then-President Mahinda RAJAPAKSA, the government initiated infrastructure development projects, many of which were financed by loans from China. His regime faced significant allegations of human rights violations and a shrinking democratic space for civil society.  In 2015, a new coalition government headed by then-President Maithripala SIRISENA of the Sri Lanka Freedom Party and then-Prime Minister Ranil WICKREMESINGHE of the United National Party came to power with pledges to advance economic, governance, anti-corruption, reconciliation, justice, and accountability reforms. However, implementation of these reforms was uneven. In November 2019, Gotabaya RAJAPAKSA won the presidential election and appointed his brother, Mahinda, prime minister. Following Gotabaya RAJAPAKSA’s election, civil society raised concerns about his administration’s commitment to pursuing justice, human rights, and accountability reforms, as well as the risks to foreign creditors that Sri Lanka faces given its ongoing economic crisis. A combination of factors including the impact of the worldwide COVID-19 pandemic; severe shortages of food, medicine, and fuel; and power outages triggered increasingly violent protests in Columbo beginning in March 2022. In May 2022, longtime parliamentarian and former five-time prime minister, Ranil WICKREMESINGHE replaced Mahinda RAJAPASKA as prime-minister and then in July 2022, Gotabaya RAJAPAKSA fled from office in response to protests, and parliament subsequently elected WICKREMESINGHE president. Later that month, WICKREMESINGHE appointed Dinesh GUNAWARDENA to replace him as prime minister.</p><br>
+<p>The first Sinhalese arrived in Sri Lanka late in the 6th century B.C., probably from northern India. Buddhism was introduced circa 250 B.C., and the first kingdoms developed at the cities of Anuradhapura (from about 200 B.C. to about A.D. 1000) and Polonnaruwa (from about A.D. 1070 to 1200). In the 14th century, a South Indian dynasty established a Tamil kingdom in northern Sri Lanka. The Portuguese controlled the coastal areas of the island in the 16th century, followed by the Dutch in the 17th century. The island was ceded to the British in 1796, became a crown colony in 1802, and was formally united under British rule by 1815. As Ceylon, it became independent in 1948; the name was changed to Sri Lanka in 1972. Prevailing tensions between the Sinhalese majority and Tamil separatists erupted into war in 1983. Fighting between the government and Liberation Tigers of Tamil Eelam (LTTE) continued for over a quarter-century. Although Norway brokered peace negotiations that led to a cease-fire in 2002, the fighting slowly resumed and was again in full force by 2006. The government defeated the LTTE in 2009.</p> <p>During the post-conflict years under then-President Mahinda RAJAPAKSA, the government initiated infrastructure development projects, many of which were financed by loans from China. His regime faced allegations of human rights violations and a shrinking democratic space for civil society.  In 2015, a new coalition government headed by President Maithripala SIRISENA of the Sri Lanka Freedom Party and Prime Minister Ranil WICKREMESINGHE of the United National Party came to power with pledges to advance economic, political, and judicial reforms. However, implementation of these reforms was uneven. In 2019, Gotabaya RAJAPAKSA won the presidential election and appointed his brother Mahinda prime minister. Civil society raised concerns about the RAJAPAKSA administration’s commitment to pursuing justice, human rights, and accountability reforms, as well as the risks to foreign creditors that Sri Lanka faced given its ongoing economic crisis. A combination of factors including the COVID-19 pandemic; severe shortages of food, medicine, and fuel; and power outages triggered increasingly violent protests in Columbo beginning in 2022. In response, WICKREMESINGHE -- who had already served as prime minister five times -- was named to replace the prime minister, but he became president within a few months when Gotabaya RAJAPAKSA fled the country. </p><br>
 
 ## Geography
 
@@ -474,8 +474,8 @@ _female_: 35.6%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 28% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 2% of household expenditures (2018 est.)<br>
+_on food_: 27.7% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 3.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1%<br>
@@ -686,9 +686,15 @@ _unpaved_: 97,116 km (2010)<br>
 _total_: 96 (2023)<br>
 _by type_: bulk carrier 5, general cargo 15, oil tanker 11, other 65<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Colombo<br>
-_container port(s) (TEUs)_: Colombo (7,250,000) (2021)<br>
+**Ports**<br>
+_total ports_: 6 (2024)<br>
+_large_: 0<br>
+_medium_: 2<br>
+_small_: 1<br>
+_very small_: 1<br>
+_size unknown_: 2<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Batticaloa Roads, Colombo, Galle Harbor, Hambantota, Kankesanturai, Trincomalee Harbor<br>
 
 ## Military and Security
 

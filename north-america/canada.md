@@ -492,8 +492,8 @@ _female_: 13.1%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 9.1% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 3.3% of household expenditures (2018 est.)<br>
+_on food_: 10% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 4.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
@@ -712,14 +712,15 @@ _unpaved_: 626,700 km (2011)<br>
 _total_: 716 (2023)<br>
 _by type_: bulk carrier 22, container ship 1, general cargo 78, oil tanker 15, other 600<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Halifax, Saint John (New Brunswick), Vancouver<br>
-_oil terminal(s)_: Lower Lakes terminal<br>
-_container port(s) (TEUs)_: Montreal (1,585,465), Vancouver (3,678,952) (2021)<br>
-_LNG terminal(s) (import)_: Saint John<br>
-_river and lake port(s)_: Montreal, Quebec City, Sept-Isles (St. Lawrence)<br>
-_dry bulk cargo port(s)_: Port-Cartier (iron ore and grain),<br>
-Fraser River Port (Fraser) Hamilton (Lake Ontario)<br>
+**Ports**<br>
+_total ports_: 284 (2024)<br>
+_large_: 4<br>
+_medium_: 14<br>
+_small_: 58<br>
+_very small_: 149<br>
+_size unknown_: 59<br>
+_ports with oil terminals_: 59<br>
+_key ports_: Argentia, Canaport (St. John), Halifax, Hamilton, Montreal, New Westminster, Pond Inlet, Prince Rupert, Quebec, Sept Iles, St. John, Sydney, Thunder Bay, Toronto, Trois Rivieres, Vancouver, Victoria Harbor, Windsor<br>
 
 ## Military and Security
 
@@ -755,13 +756,13 @@ the Canadian Armed Forces (CAF) are responsible for external security; the CAFâ€
 ## Space
 
 **Space agency/agencies**<br>
-Canadian Space Agency (CSA; established 1989) (2023)<br>
+Canadian Space Agency (CSA; established 1989) (2024)<br>
 
 **Space launch site(s)**<br>
 Churchill Rocket Research Range (sounding rockets; Manitoba); constructing a private, commercial space launch site in Nova Scotia (2023)<br>
 
 **Space program overview**<br>
-has a substantial program, a national space strategy, and a long history of developing space-related technologies; designs, builds, operates, and tracks communications, remote sensing (RS), multi-mission, and scientific/testing satellites; has an astronaut program (train in the US); designs, builds, or contributes to a variety of other space-related programs, including space telescopes, planetary probes, sensors, and robotic systems (such as the Canadian-made robotic arms used on the US Space Shuttle and the International Space Station); participates in international space efforts and cooperates with a variety of foreign space agencies and commercial entities, including those of Argentina, Brazil, the European Space Agency (ESA)/EU (and their member states), India, and particularly the US; ESA Cooperating State since 1979; has a robust commercial space sector that is involved in satellite communications, optics, space exploration, navigation, and space science (2023)<br>
+has a substantial program, a national space strategy, and a long history of developing space-related technologies; designs, builds, operates, and tracks communications, remote sensing (RS), multi-mission, and scientific/testing satellites; has an astronaut program (train in the US); designs, builds, or contributes to a variety of other space-related programs, including space telescopes, planetary probes, sensors, and robotic systems (such as the Canadian-made robotic arms used on the US Space Shuttle and the International Space Station); participates in international space efforts and cooperates with a variety of foreign space agencies and commercial entities, including those of Argentina, Brazil, the European Space Agency (ESA)/EU (and their member states), India, and particularly the US; ESA Cooperating State since 1979; has a robust commercial space sector that is involved in satellite communications, optics, space exploration, navigation, and space science (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the countryâ€™s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

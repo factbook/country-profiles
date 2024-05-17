@@ -485,8 +485,8 @@ _female_: 4.3%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 44.9% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1.7% of household expenditures (2018 est.)<br>
+_on food_: 49.4% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 2.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.3%<br>
@@ -704,10 +704,6 @@ _unpaved_: 12,354 km (2021)<br>
 **Merchant marine**<br>
 _total_: 122 (2023)<br>
 _by type_: general cargo 3, oil tanker 7, other 112<br>
-
-**Ports and terminals**<br>
-_major seaport(s)_: Caspian Sea - Aqtau (Shevchenko), Atyrau (Gur'yev)<br>
-_river port(s)_: Oskemen (Ust-Kamenogorsk), Pavlodar, Semey (Semipalatinsk) (Irtysh River)<br>
 
 ## Military and Security
 

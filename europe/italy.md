@@ -474,8 +474,8 @@ _female_: 33.8%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 14.2% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 4.1% of household expenditures (2018 est.)<br>
+_on food_: 15.5% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 4.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1%<br>
@@ -691,11 +691,15 @@ _total_: 228,863 km (2021)<br>
 _total_: 1,276 (2023)<br>
 _by type_: bulk carrier 17, container ship 6, general cargo 109, oil tanker 95, other 1,049<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice<br>
-_oil terminal(s)_: Melilli (Santa Panagia) oil terminal, Sarroch oil terminal<br>
-_container port(s) (TEUs)_: Genoa (2,557,847), Gioia Tauro (3,146,553) (2021)<br>
-_LNG terminal(s) (import)_: Panigaglia (La Spezia), Adriatic (Porto Levante), Oristano (Sardinia), Ravenna, Toscana (Livorno)<br>
+**Ports**<br>
+_total ports_: 123 (2024)<br>
+_large_: 12<br>
+_medium_: 11<br>
+_small_: 71<br>
+_very small_: 28<br>
+_size unknown_: 1<br>
+_ports with oil terminals_: 33<br>
+_key ports_: Brindisi, Civitavecchia, Genova, Gioia Tauro, La Spezia, Livorno, Messina, Napoli, Porto Di Lido-Venezia, Siracusa, Taranto, Trieste<br>
 
 ## Military and Security
 

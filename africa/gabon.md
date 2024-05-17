@@ -672,9 +672,14 @@ _unpaved_: 13,400 km (2001)<br>
 _total_: 87 (2023)<br>
 _by type_: bulk carrier 1, general cargo 19, oil tanker 30, other 37<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Libreville, Owendo, Port-Gentil<br>
-_oil terminal(s)_: Gamba, Lucina<br>
+**Ports**<br>
+_total ports_: 9 (2024)<br>
+_large_: 0<br>
+_medium_: 2<br>
+_small_: 2<br>
+_very small_: 5<br>
+_ports with oil terminals_: 7<br>
+_key ports_: Libreville, Oguendjo Terminal, Port Gentil, Port Owendo<br>
 
 ## Military and Security
 
@@ -704,10 +709,10 @@ the Gabonese military is a small and lightly-armed force that is responsible for
 ## Space
 
 **Space agency/agencies**<br>
-Gabonese Studies and Space Observations Agency (Agence Gabonaise d&rsquo;Etudes et d&rsquo;Observations Spatiales or AGEOS; established 2015) (2023)<br>
+Gabonese Studies and Space Observations Agency (Agence Gabonaise d&rsquo;Etudes et d&rsquo;Observations Spatiales or AGEOS; established 2015) (2024)<br>
 
 **Space program overview**<br>
-has a small space program focused on the acquisition, processing, analysis, and furnishing of data from foreign remote sensing (RS) satellites for environmental management, mapping, natural resources, land use planning, and maritime surveillance, as well as research and innovation; has relationships with Brazil, China, the European Space Agency (ESA) and its member states (particularly France), Kenya, Niger, Rwanda, South Africa, and the US; shares RS data with neighboring countries (2023)<br>
+has a small space program focused on the acquisition, processing, analysis, and furnishing of data from foreign remote sensing (RS) satellites for environmental management, mapping, natural resources, land use planning, and maritime surveillance, as well as research and innovation; has relationships with Brazil, China, the European Space Agency (ESA) and its member states (particularly France), Kenya, Niger, Rwanda, South Africa, and the US; shares RS data with neighboring countries (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

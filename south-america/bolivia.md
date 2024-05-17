@@ -490,8 +490,8 @@ _female_: 18.4%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 29.1% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 2.1% of household expenditures (2018 est.)<br>
+_on food_: 29.2% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 2.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
@@ -703,10 +703,6 @@ _unpaved_: 80,776 km (2017)<br>
 _total_: 50 (2023)<br>
 _by type_: general cargo 30, oil tanker 2, other 18<br>
 
-**Ports and terminals**<br>
-_river port(s)_: Puerto Aguirre (Paraguay/Parana)<br>
-<strong>note:</strong> Bolivia has free port privileges in maritime ports in Argentina, Brazil, Chile, and Paraguay<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
@@ -736,10 +732,10 @@ the Bolivian Armed Forces (FAB) are responsible for territorial defense but also
 ## Space
 
 **Space agency/agencies**<br>
-Bolivian Space Agency (la Agencia Boliviana Espacial, ABE; established 2010) (2023)<br>
+Bolivian Space Agency (la Agencia Boliviana Espacial, ABE; established 2010 as a national public company) (2024)<br>
 
 **Space program overview**<br>
-has a small space program focused on acquiring and operating satellites; operates a telecommunications satellite and two ground stations; has cooperated with China and India and member states of the Latin American and Caribbean Space Agency (ALCE) (2023)<br>
+has a small space program focused on acquiring and operating satellites; operates a telecommunications satellite and two ground stations; has cooperated with China and India and member states of the Latin American and Caribbean Space Agency (ALCE) (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

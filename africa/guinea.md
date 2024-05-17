@@ -683,8 +683,14 @@ _unpaved_: 40,955 km (2018)<br>
 _total_: 2 (2023)<br>
 _by type_: other 2<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Conakry, Kamsar<br>
+**Ports**<br>
+_total ports_: 4 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 0<br>
+_very small_: 3<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Benti, Conakry, Kamsar, Victoria<br>
 
 ## Military and Security
 

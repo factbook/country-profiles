@@ -84,9 +84,6 @@ _etymology_: named for the country of India, which makes up much of its northern
 
 ## Transportation
 
-**Ports and terminals**<br>
-_major seaport(s)_: Chennai (Madras, India); Colombo (Sri Lanka); Durban (South Africa); Jakarta (Indonesia); Kolkata (Calcutta, India); Melbourne (Australia); Mumbai (Bombay, India); Richards Bay (South Africa)<br>
-
 ## Military and Security
 
 **Military - note**<br>

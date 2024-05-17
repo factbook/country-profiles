@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Some of the earliest human remains in the fossil record are found in South Africa. By about A.D. 500, Bantu speaking groups began settling into what is now northeastern South Africa displacing Khoisan speaking groups to the southwest. Dutch traders landed at the southern tip of present-day South Africa in 1652 and established a stopover point on the spice route between the Netherlands and the Far East, founding the city of Cape Town. After the British seized the Cape of Good Hope area in 1806, many of the settlers of Dutch descent (Afrikaners, also called "Boers" (farmers) at the time) trekked north to found their own republics, Transvaal and Orange Free State. In the 1820s, several decades of wars began as the Zulus expanded their territory, moving out of what is today southeastern South Africa and clashing with other indigenous peoples and with expanding European settlements. The discovery of diamonds (1867) and gold (1886) spurred mass immigration predominately from Europe.<br><br>The Anglo-Zulu War (1879) resulted in the incorporation of the Zulu kingdom's territory into the British Empire. Subsequently, the Afrikaner republics were incorporated into the British Empire after their defeat in the Second South African War (1899-1902). However, the British and the Afrikaners ruled together beginning in 1910 under the Union of South Africa, which left the British Commonwealth to become a fully self-governing republic in 1961 after a Whites-only referendum. In 1948, the National Party was voted into power and instituted a policy of apartheid – billed as "separate development" of the races - which favored the White minority and suppressed the Black majority and other non-White groups. The African National Congress (ANC) led the resistance to apartheid and many top ANC leaders, such as Nelson MANDELA, spent decades in South Africa's prisons. Internal protests and insurgency, as well as boycotts by some Western nations and institutions, led to the regime's eventual willingness to unban the ANC and negotiate a peaceful transition to majority rule.</p> <p>The first multi-racial elections in 1994 following the end of apartheid ushered in majority rule under an ANC-led government. South Africa has since struggled to address apartheid-era imbalances in wealth, housing, education, and health care under successive administrations. Cyril RAMAPHOSA, has made some progress in reigning in corruption, though many challenges persist. RAMAPHOSA was reelected ANC leader in 2022 ahead of national elections scheduled for 2024.</p><br>
+<p>Some of the earliest human remains in the fossil record were found in South Africa. By about A.D. 500, Bantu-speaking groups began settling into what is now northeastern South Africa, displacing Khoisan-speaking groups to the southwest. Dutch traders landed at the southern tip of present-day South Africa in 1652 and established a stopover point on the spice route between the Netherlands and the Far East, founding the city of Cape Town. After the British seized the Cape of Good Hope area in 1806, many settlers of Dutch descent -- known then as "Boers," or farmers, but later called Afrikaners -- trekked north to found their own republics, Transvaal and Orange Free State. In the 1820s, several decades of wars began as the Zulus expanded their territory, moving out of what is today southeastern South Africa and clashing with other indigenous peoples and the growing European settlements. The discovery of diamonds (1867) and gold (1886) spurred mass immigration, predominantly from Europe.<br><br>The Zulu kingdom's territory was incorporated into the British Empire after the Anglo-Zulu War in 1879, and the Afrikaner republics were incorporated after their defeat in the Second South African War (1899-1902). Beginning in 1910, the British and the Afrikaners ruled together under the Union of South Africa, which left the British Commonwealth to become a fully self-governing republic in 1961 after a Whites-only referendum. In 1948, the National Party was voted into power and instituted a policy of apartheid -– billed as "separate development" of the races -- which favored the White minority and suppressed the Black majority and other non-White groups. The African National Congress (ANC) led the resistance to apartheid, and many top ANC leaders such as Nelson MANDELA spent decades in South Africa's prisons. Internal protests and insurgency, as well as boycotts from some Western nations and institutions, led to the regime's eventual willingness to unban the ANC and negotiate a peaceful transition to majority rule.</p> <p>The first multi-racial elections in 1994 ushered in majority rule under an ANC-led government. South Africa has since struggled to address apartheid-era imbalances in wealth, housing, education, and health care under successive administrations. President Cyril RAMAPHOSA, who was reelected as the ANC leader in 2022, has made some progress in reigning in corruption. </p><br>
 
 ## Geography
 
@@ -487,8 +487,8 @@ _female_: 69.3%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 21.4% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 4.9% of household expenditures (2018 est.)<br>
+_on food_: 21.3% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 5.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 0.9%<br>
@@ -708,10 +708,14 @@ _unpaved_: 591,876 km (2016)<br>
 _total_: 110 (2023)<br>
 _by type_: bulk carrier 3, general cargo 1, oil tanker 7, other 99<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay<br>
-_container port(s) (TEUs)_: Durban (2,430,295) (2021)<br>
-_LNG terminal(s) (import)_: Mossel Bay<br>
+**Ports**<br>
+_total ports_: 8 (2024)<br>
+_large_: 2<br>
+_medium_: 4<br>
+_small_: 1<br>
+_very small_: 1<br>
+_ports with oil terminals_: 7<br>
+_key ports_: Cape Town, Durban, Mossel Bay, Port Elizabeth, Richards Bay, Saldanha Bay<br>
 
 ## Military and Security
 

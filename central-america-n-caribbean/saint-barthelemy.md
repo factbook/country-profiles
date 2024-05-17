@@ -296,9 +296,6 @@ _percent of population_: 71.3% (2022 est.)<br>
 **Roadways**<br>
 _total_: 40 km<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Gustavia<br>
-
 **Transportation - note**<br>
 nearest airport for international flights is Princess Juliana International Airport (SXM) located on Sint Maarten<br>
 

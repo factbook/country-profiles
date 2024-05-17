@@ -349,9 +349,9 @@ _elections/appointments_: president directly elected by simple majority popular 
 _election results_: <br><em>2020:</em> Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 70.8%, Agbeyome KODJO (MPDD) 19.5%, Jean-Pierre FABRE (ANC) 4.7%, other 5%<br><br><em>2015:</em> Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 58.8%, Jean-Pierre FABRE (ANC) 35.2%, Tchaboure GOGUE (ADDI) 4%, other 2% <p> </p><br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (91 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms); party lists are required to contain equal numbers of men and women<br>
-_elections_: last held on 20 December 2018 (next election was to be held on 20 April 2024 but has been indefinitely postponed)<br>
-_election results_: percent of vote by party - NA; seats by party - UNIR 59, UFC 7, NET 3, MPDD 2, MRC 1, PDP 1, independent 18; composition - men 73, women 17, percent of women 18.9%<br>
+_description_: unicameral National Assembly or Assemblee Nationale (113 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms); party lists are required to contain equal numbers of men and women<br>
+_elections_: last held on 29 April 2024 (next election April 2029)<br>
+_election results_: percent of vote by party - NA; seats by party - UNIR 108, ADDI 2, ANC 1, DMP 1, FDR 1 composition - NA<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (organized into criminal and administrative chambers, each with a chamber president and advisors); Constitutional Court (consists of 9 judges, including the court president)<br>
@@ -686,9 +686,14 @@ _urban_: 1,783 km (2018)<br>
 _total_: 397 (2023)<br>
 _by type_: bulk carrier 1, container ship 10, general cargo 250, oil tanker 56, other 80<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Kpeme, Lome<br>
-_container port(s) (TEUs)_: Lome (1,962,304) (2021)<br>
+**Ports**<br>
+_total ports_: 2 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 0<br>
+_very small_: 1<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Kpeme, Lome<br>
 
 ## Military and Security
 

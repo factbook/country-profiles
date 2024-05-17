@@ -694,9 +694,6 @@ _total_: 139,107 km (2014)<br>
 **Waterways**<br>
 1,800 km (2011) (downstream of Koulikoro; low water levels on the River Niger cause problems in dry years; in the months before the rainy season the river is not navigable by commercial vessels)<br>
 
-**Ports and terminals**<br>
-_river port(s)_: Koulikoro (Niger)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>

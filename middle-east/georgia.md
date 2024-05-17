@@ -470,8 +470,8 @@ _female_: 29.9%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 32.3% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
+_on food_: 32.3% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 3.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
@@ -678,8 +678,14 @@ _total_: 40,044 km (2021)<br>
 _total_: 26 (2023)<br>
 _by type_: general cargo 3, other 23<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Black Sea - Batumi, Poti<br>
+**Ports**<br>
+_total ports_: 3 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 2<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Batumi, Sokhumi, Supsa Marine Terminal<br>
 
 ## Military and Security
 

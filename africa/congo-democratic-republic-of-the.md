@@ -709,9 +709,14 @@ _non-urban_: 144,973 km (2015)<br>
 _total_: 24 (2023)<br>
 _by type_: general cargo 5, oil tanker 2, other 17<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Banana<br>
-_river or lake port(s)_: Boma, Bumba, Kinshasa, Kisangani, Matadi, Mbandaka (Congo); Kindu (Lualaba); Bukavu, Goma (Lake Kivu); Kalemie (Lake Tanganyika)<br>
+**Ports**<br>
+_total ports_: 3 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 2<br>
+_very small_: 1<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Banana, Boma, Matadi<br>
 
 ## Military and Security
 

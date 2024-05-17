@@ -483,8 +483,8 @@ _female_: 5.3%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 44.2% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1% of household expenditures (2018 est.)<br>
+_on food_: 44.2% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 0.9% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.4%<br>
@@ -687,9 +687,6 @@ _unpaved_: 16,287 km (2017)<br>
 
 **Waterways**<br>
 907 km (2022) (there are no long navigable stretches of river in Uganda; parts of the Albert Nile ( 210 km) that flow out of Lake Albert (160 km) in the northwestern part of the country are navigable; several lakes including Lake Victoria (337 km) and Lake Kyoga (199.5) have substantial traffic; Lake Albert is navigable along a 200-km stretch from its northern tip to its southern shores)<br>
-
-**Ports and terminals**<br>
-_lake port(s)_: Entebbe, Jinja, Port Bell (Lake Victoria)<br>
 
 ## Military and Security
 

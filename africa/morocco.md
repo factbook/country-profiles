@@ -503,8 +503,8 @@ _female_: 28.7%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 34% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1.4% of household expenditures (2018 est.)<br>
+_on food_: 33.9% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 1.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
@@ -711,10 +711,14 @@ _total_: 57,300 km (2018)<br>
 _total_: 94 (2023)<br>
 _by type_: container ship 6, general cargo 5, oil tanker 2, other 81<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Ad Dakhla, Agadir, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), Mohammedia, Safi, Tangier<br>
-_container port(s) (TEUs)_: Tangier (7,173,870) (2021)<br>
-_LNG terminal(s) (import)_: Jorf Lasfar (planned)<br>
+**Ports**<br>
+_total ports_: 12 (2024)<br>
+_large_: 3<br>
+_medium_: 1<br>
+_small_: 3<br>
+_very small_: 5<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Agadir, Casablanca, Tanger, Tangier-Mediterranean<br>
 
 ## Military and Security
 

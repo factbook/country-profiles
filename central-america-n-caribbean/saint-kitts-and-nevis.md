@@ -598,8 +598,14 @@ _unpaved_: 220 km (2002)<br>
 _total_: 341 (2023)<br>
 _by type_: bulk carrier 22, container ship 16, general cargo 85, oil tanker 59, other 159<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Basseterre, Charlestown<br>
+**Ports**<br>
+_total ports_: 2 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 2<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Basseterre, Charlestown<br>
 
 ## Military and Security
 

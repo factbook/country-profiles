@@ -493,11 +493,14 @@ _total_: 550 km<br>
 _total_: 57 (2023)<br>
 _by type_: general cargo 5, oil tanker 1, other 51<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Willemstad<br>
-_oil terminal(s)_: Bullen Baai (Curacao Terminal)<br>
-_cruise port(s)_: Willemstad<br>
-_bulk cargo port(s)_: Fuik Bay (phosphate rock)<br>
+**Ports**<br>
+_total ports_: 4 (2024)<br>
+_large_: 0<br>
+_medium_: 2<br>
+_small_: 1<br>
+_very small_: 1<br>
+_ports with oil terminals_: 3<br>
+_key ports_: Bullenbaai, Caracasbaai, Sint Michelsbaai, Willemstad<br>
 
 ## Military and Security
 

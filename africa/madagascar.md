@@ -669,8 +669,14 @@ _total_: 31,640 km (2017)<br>
 _total_: 29 (2023)<br>
 _by type_: general cargo 16, oil tanker 2, other 11<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (Tulear)<br>
+**Ports**<br>
+_total ports_: 13 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 2<br>
+_very small_: 11<br>
+_ports with oil terminals_: 5<br>
+_key ports_: Andoany, Antsiranana, Antsohim Bondrona, Iharana, Mahajanga, Maintirano, Manakara, Mananjary, Maroantsetra, Morondava, Toamasina, Tolanaro, Toliara<br>
 
 ## Military and Security
 

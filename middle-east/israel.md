@@ -473,8 +473,8 @@ _female_: 9.2%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 16.2% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 2.9% of household expenditures (2018 est.)<br>
+_on food_: 16% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 2.8% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9%<br>
@@ -681,10 +681,14 @@ _paved_: 20,391 km (2021) (includes 449 km of expressways)<br>
 _total_: 41 (2023)<br>
 _by type_: container ship 4, general cargo 1, oil tanker 4, other 32<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Ashdod, Elat (Eilat), Hadera, Haifa<br>
-_container port(s) (TEUs)_: Ashdod (1,584,000) (2019)<br>
-_LNG terminal(s) (import)_: Hadera<br>
+**Ports**<br>
+_total ports_: 5 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 2<br>
+_very small_: 2<br>
+_ports with oil terminals_: 4<br>
+_key ports_: Ashdod, Ashqelon, Elat, Hadera, Haifa<br>
 
 ## Military and Security
 

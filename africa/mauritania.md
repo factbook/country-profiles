@@ -692,8 +692,14 @@ _unpaved_: 8,265 km<br>
 _total_: 11 (2023)<br>
 _by type_: general cargo 2, other 9<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Nouadhibou, Nouakchott<br>
+**Ports**<br>
+_total ports_: 2 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 1<br>
+_very small_: 0<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Nouadhibou, Nouakchott<br>
 
 ## Military and Security
 

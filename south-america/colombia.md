@@ -489,8 +489,8 @@ _female_: 32.8%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 19.2% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 3% of household expenditures (2018 est.)<br>
+_on food_: 18.6% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 3.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2%<br>
@@ -703,13 +703,15 @@ _total_: 206,102 km (2022)<br>
 _total_: 153 (2023)<br>
 _by type_: general cargo 28, oil tanker 13, other 112<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo<br>Pacific Ocean - Buenaventura<br>
-_oil terminal(s)_: Covenas offshore terminal<br>
-_container port(s) (TEUs)_: Buenaventura (1,082,746), Cartagena (3,343,810) (2021)<br>
-_river port(s)_: Barranquilla (Rio Magdalena)<br>
-_dry bulk cargo port(s)_: Puerto Bolivar (coal)<br>
-Pacific Ocean - Buenaventura<br>
+**Ports**<br>
+_total ports_: 14 (2024)<br>
+_large_: 0<br>
+_medium_: 2<br>
+_small_: 8<br>
+_very small_: 3<br>
+_size unknown_: 1<br>
+_ports with oil terminals_: 10<br>
+_key ports_: Barranquilla, Buenaventura, Cartagena, Covenas, El Bosque, Mamonal, Pozos Colorados, Puerto Bolivar, Puerto Prodeco, Santa Marta<br>
 
 ## Military and Security
 
@@ -742,10 +744,10 @@ the Colombian military is responsible for defending and maintaining the countryâ
 ## Space
 
 **Space agency/agencies**<br>
-Colombian Space Commission (Comision Colombiana Del Espacio, CCE; established 2006); Air and Space Operations Command (Colombian military); note &ndash; the Colombian Space Agency (Agencia Espacial Del Colombia, AEC) is a private, non-profit agency established in 2017&nbsp; (2023)<br>
+Colombian Space Commission (Comision Colombiana Del Espacio, CCE; established 2006); Air and Space Operations Command (Colombian military); note &ndash; the Colombian Space Agency (Agencia Espacial Del Colombia, AEC) is a private, non-profit agency established in 2017 (2024)<br>
 
 **Space program overview**<br>
-has a small program focused on acquiring satellites, particularly remote sensing (RS) satellites; operates satellites and produces nanosatellites; researches other space technologies, including telecommunications, satellite navigation, and astronautics; has relations with a variety of foreign space agencies or commercial space industries, including those of Denmark, India, Russia, the US, and some members of the Latin American and Caribbean Space Agency (ALCE) (2023)<br>
+has a small program focused on acquiring satellites, particularly remote sensing (RS) satellites; operates satellites and produces nanosatellites; researches other space technologies, including telecommunications, satellite navigation, and astronautics; has relations with a variety of foreign space agencies or commercial space industries, including those of Denmark, India, Russia, Sweden, the US, and some members of the Latin American and Caribbean Space Agency (ALCE) (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the countryâ€™s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

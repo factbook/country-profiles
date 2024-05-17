@@ -655,8 +655,14 @@ _total_: 2,893 km (2013)<br>
 _total_: 40 (2023)<br>
 _by type_: bulk carrier 1, container ship 1, general cargo 4, oil tanker 13, other 21<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Djibouti<br>
+**Ports**<br>
+_total ports_: 2 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 2<br>
+_very small_: 0<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Djibouti, Doraleh<br>
 
 ## Military and Security
 

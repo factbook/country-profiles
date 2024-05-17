@@ -491,8 +491,8 @@ _female_: 6.3%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 56.1% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 0.5% of household expenditures (2018 est.)<br>
+_on food_: 56.6% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 0.6% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8%<br>
@@ -704,9 +704,14 @@ _unpaved_: 99,160 km (2017)<br>
 _total_: 101 (2023)<br>
 _by type_: bulk carrier 1, general cargo 44, oil tanker 5, other 51<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Mawlamyine (Moulmein), Sittwe<br>
-_river port(s)_: Rangoon (Yangon) (Rangoon River)<br>
+**Ports**<br>
+_total ports_: 7 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 5<br>
+_very small_: 2<br>
+_ports with oil terminals_: 3<br>
+_key ports_: Bassein, Mergui, Moulmein Harbor, Rangoon, Sittwe<br>
 
 ## Military and Security
 

@@ -484,8 +484,8 @@ _female_: 65.2%<br>
 29.5 (2012 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 30.1% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 4.2% of household expenditures (2018 est.)<br>
+_on food_: 29.6% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 4.2% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6%<br>
@@ -693,8 +693,14 @@ _total_: 58,592 km (2021)<br>
 _total_: 74 (2023)<br>
 _by type_: general cargo 1, oil tanker 6, other 67<br>
 
-**Ports and terminals**<br>
-_river port(s)_: Al Basrah (Shatt al Arab); Khawr az Zubayr, Umm Qasr (Khawr az Zubayr waterway)<br>
+**Ports**<br>
+_total ports_: 6 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 1<br>
+_very small_: 4<br>
+_ports with oil terminals_: 3<br>
+_key ports_: Al Basrah, Al-Basra Oil Terminal, Khawr Al Amaya, Khawr Al Zubair, Umm Qasr<br>
 
 ## Military and Security
 

@@ -569,8 +569,14 @@ _unpaved_: 1,953 km (2007)<br>
 _total_: 4,180 (2023)<br>
 _by type_: bulk carrier 1,939 container ship 277, general cargo 66, oil tanker 1039, other 859<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Enitwetak Island, Kwajalein, Majuro<br>
+**Ports**<br>
+_total ports_: 3 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 3<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Enitwetak Island, Kwajalein, Majuro Atoll<br>
 
 ## Military and Security
 

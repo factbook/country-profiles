@@ -474,8 +474,8 @@ _female_: 24.6%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 32.8% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 4.7% of household expenditures (2018 est.)<br>
+_on food_: 31.9% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 4.9% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2%<br>
@@ -686,8 +686,14 @@ _unpaved_: 11,375 km (2012) (1,543 km summer only)<br>
 _total_: 489 (2023)<br>
 _by type_: general cargo 233, oil tanker 82, other 174<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: La Ceiba, Puerto Cortes, San Lorenzo, Tela<br>
+**Ports**<br>
+_total ports_: 8 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 7<br>
+_ports with oil terminals_: 3<br>
+_key ports_: Coxen Hole, La Ceiba, Puerto Castilla, Puerto Cortes, Puerto De Hencan, Puerto Este, Tela, Trujillo<br>
 
 ## Military and Security
 

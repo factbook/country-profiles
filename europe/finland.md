@@ -477,8 +477,8 @@ _female_: 17.1%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 11.5% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 4.3% of household expenditures (2018 est.)<br>
+_on food_: 12% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.9%<br>
@@ -697,9 +697,14 @@ _urban_: 26,000 km (2012)<br>
 _total_: 282 (2023)<br>
 _by type_: bulk carrier 9, general cargo 75, oil tanker 4, other 194<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma<br>
-_LNG terminal(s) (import)_: Hamina, Inkoo (operational 2023), Pori, Tornio Manga<br>
+**Ports**<br>
+_total ports_: 37 (2024)<br>
+_large_: 5<br>
+_medium_: 7<br>
+_small_: 11<br>
+_very small_: 14<br>
+_ports with oil terminals_: 21<br>
+_key ports_: Helsinki, Kaskinen, Kokkola, Kotka, Kristinestad, Mantyluoto, Oulu, Pietarsaari, Pori, Rauma, Turku, Vaasa<br>
 
 ## Military and Security
 

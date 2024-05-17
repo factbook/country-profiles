@@ -465,8 +465,8 @@ _female_: 47.9%<br>
 45.9 (2013 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 20.6% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 0.6% of household expenditures (2018 est.)<br>
+_on food_: 20.5% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 0.7% of household expenditures (2021 est.)<br>
 
 **Remittances**<br>
 0.03% of GDP (2022 est.)<br>
@@ -670,9 +670,14 @@ _unpaved_: 173,843 km (2006)<br>
 _total_: 433 (2023)<br>
 _by type_: bulk carrier 9, container ship 1, general cargo 20, oil tanker 55, other 348<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Ad Dammam, Al Jubayl, Jeddah, King Abdulla, Yanbu'<br>
-_container port(s) (TEUs)_: Ad Dammam (1,770,000), Jeddah (4,882,342), King Abdulla (2,813,920) (2021)<br>
+**Ports**<br>
+_total ports_: 16 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 7<br>
+_very small_: 8<br>
+_ports with oil terminals_: 10<br>
+_key ports_: Dammam, Duba, Jiddah, Jizan, Ju Aymah Oil Terminal, Ras Tannurah, Ras Al Khafji, Ras Al Mishab<br>
 
 ## Military and Security
 

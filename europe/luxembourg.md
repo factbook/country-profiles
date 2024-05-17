@@ -669,9 +669,6 @@ _total_: 2,746 km (2022)<br>
 _total_: 147 (2023)<br>
 _by type_: bulk carrier 3, container ship 1, general cargo 24, oil tanker 4, other 115<br>
 
-**Ports and terminals**<br>
-_river port(s)_: Mertert (Moselle)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>

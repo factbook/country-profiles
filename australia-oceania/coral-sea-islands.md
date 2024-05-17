@@ -112,9 +112,6 @@ automatic weather stations on many of the isles and reefs relay data to the main
 
 ## Transportation
 
-**Ports and terminals**<br>
-none; offshore anchorage only<br>
-
 ## Military and Security
 
 **Military - note**<br>

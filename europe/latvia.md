@@ -465,8 +465,8 @@ _female_: 19.6%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 17.3% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 7.9% of household expenditures (2018 est.)<br>
+_on food_: 19.3% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 7.6% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.5%<br>
@@ -673,8 +673,14 @@ _total_: 57,972 km (2022)<br>
 _total_: 83 (2023)<br>
 _by type_: container ship 2, general cargo 30, oil tanker 10, other 41<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Riga, Ventspils<br>
+**Ports**<br>
+_total ports_: 5 (2024)<br>
+_large_: 1<br>
+_medium_: 2<br>
+_small_: 0<br>
+_very small_: 2<br>
+_ports with oil terminals_: 3<br>
+_key ports_: Lielupe, Liepaja, Riga, Salacgriva, Ventspils<br>
 
 ## Military and Security
 

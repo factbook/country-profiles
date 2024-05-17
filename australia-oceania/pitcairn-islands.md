@@ -244,9 +244,6 @@ satellite-based local phone service and broadband Internet connections available
 
 ## Transportation
 
-**Ports and terminals**<br>
-_major seaport(s)_: Adamstown (on Bounty Bay)<br>
-
 ## Military and Security
 
 **Military - note**<br>

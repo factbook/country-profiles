@@ -677,9 +677,14 @@ _Turkish Cypriot control_: 7,000 km (2011)<br>
 _total_: 1,005 (2023)<br>
 _by type_: bulk carrier 243, container ship 154, general cargo 211, oil tanker 47, other 350<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: area under government control: Larnaca, Limassol, Vasilikos<br>
-area administered by Turkish Cypriots: Famagusta, Kyrenia<br>
+**Ports**<br>
+_total ports_: 6 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 3<br>
+_very small_: 3<br>
+_ports with oil terminals_: 4<br>
+_key ports_: Dhekelia, Famagusta, Kyrenia, Larnaca, Limassol, Xeros<br>
 
 ## Military and Security
 

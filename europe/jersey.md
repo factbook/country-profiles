@@ -436,8 +436,14 @@ _inventory of registered aircraft operated by air carriers_: 4 (registered in UK
 **Roadways**<br>
 _total_: 576 km (2010)<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Gorey, Saint Aubin, Saint Helier<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 0<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Saint Helier Harbour<br>
 
 ## Military and Security
 

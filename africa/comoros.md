@@ -632,8 +632,14 @@ _unpaved_: 207 km (2019)<br>
 _total_: 273 (2023)<br>
 _by type_: bulk carrier 17, container ship 7, general cargo 125, oil tanker 36, other 88<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Moroni, Moutsamoudou<br>
+**Ports**<br>
+_total ports_: 4 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 4<br>
+_ports with oil terminals_: 3<br>
+_key ports_: Dzaoudzi, Fomboni, Moroni, Moutsamoudu<br>
 
 ## Military and Security
 

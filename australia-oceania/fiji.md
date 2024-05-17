@@ -656,8 +656,14 @@ _total_: 7,500 km (2023)<br>
 _total_: 74 (2023)<br>
 _by type_: general cargo 21, oil tanker 4, other 49<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Lautoka, Levuka, Suva<br>
+**Ports**<br>
+_total ports_: 5 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 2<br>
+_very small_: 3<br>
+_ports with oil terminals_: 4<br>
+_key ports_: Lautoka Harbor, Levuka, Malai, Savusavu Bay, Suva Harbor<br>
 
 ## Military and Security
 

@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Polynesians settled New Zealand between the late 1200s and the mid-1300s. They called the land Aotearoa, which legend holds is the name of the canoe that Kupe, the first Polynesian in New Zealand, used to sail to the country; the name Aotearoa is now in widespread use as the local Maori name for the country. By the 1500s, competition for land and resources led to intermittent fighting between different Maori tribes as large game became extinct. Dutch explorer Abel TASMAN was the first European to see the islands in 1642 but left after an encounter with local Maori. British Captain James COOK arrived in 1769, followed by whalers, sealers, and traders. The UK only nominally claimed New Zealand and included it as part of New South Wales in Australia. Concerns about increasing lawlessness led the UK to appoint its first British Resident in New Zealand in 1832, although he had few legal powers. In 1835, some Maori tribes from the North Island declared independence. Fearing an impending French settlement and takeover, the majority of Maori chiefs signed the Treaty of Waitangi with the British in 1840. Land tenure issues stemming from the treaty are still being actively negotiated in New Zealand.<br><br>The UK declared New Zealand a separate colony in 1841 and granted limited self-government in 1852. Different traditions of authority and land use led to a series of wars between Europeans and various Maori tribes from the 1840s to the 1870s. Along with disease, these conflicts halved the Maori population. In the 1890s, New Zealand initially expressed interest in joining independence talks with Australia but ultimately opted against it and changed its status to an independent dominion in 1907. New Zealand provided more than 100,000 troops during each World War, many of whom fought as part of the Australia and New Zealand Army Corps (ANZAC). New Zealand reaffirmed its independence in 1947, signed the Australia, New Zealand, and US (ANZUS) Treaty in 1951, and then militarily supported the US in the Korean and Vietnam Wars. Beginning in 1984, New Zealand began to adopt nuclear-free policies, contributing to a dispute with the US over naval ship visits that led the US to suspend its defense obligations to New Zealand in 1986.<br><br>In recent years, New Zealand has explored reducing some of its ties to the UK. There in an active, minority movement to change New Zealand to a republic, and in 2015-16, a referendum on changing the New Zealand flag to remove the Union Jack failed, 57% to 43%.</p><br>
+<p>Polynesians settled New Zealand between the late 1200s and the mid-1300s. They called the land Aotearoa, which legend holds is the name of the canoe that Kupe, the first Polynesian in New Zealand, used to sail to the country; the name Aotearoa is now in widespread use as the local Maori name for the country. By the 1500s, competition for land and resources led to intermittent fighting between different Maori tribes as large game became extinct. Dutch explorer Abel TASMAN was the first European to see the islands in 1642 but left after an encounter with local Maori. British sea captain James COOK arrived in 1769, followed by whalers, sealers, and traders. The UK only nominally claimed New Zealand and included it as part of New South Wales in Australia. Concerns about increasing lawlessness led the UK to appoint its first British Resident in New Zealand in 1832, although he had few legal powers. In 1835, some Maori tribes from the North Island declared independence. Fearing an impending French settlement and takeover, the majority of Maori chiefs signed the Treaty of Waitangi with the British in 1840. Land tenure issues stemming from the treaty are still being actively negotiated in New Zealand.<br><br>The UK declared New Zealand a separate colony in 1841 and granted limited self-government in 1852. Different traditions of authority and land use led to a series of wars between Europeans and various Maori tribes from the 1840s to the 1870s. Along with disease, these conflicts halved the Maori population. In the 1890s, New Zealand initially expressed interest in joining independence talks with Australia but ultimately opted against it and changed its status to an independent dominion in 1907. New Zealand provided more than 100,000 troops during each World War, many of whom fought as part of the Australia and New Zealand Army Corps (ANZAC). New Zealand reaffirmed its independence in 1947 and signed the Australia, New Zealand, and US (ANZUS) Treaty in 1951. Beginning in 1984, New Zealand began to adopt nuclear-free policies, contributing to a dispute with the US over naval ship visits that led the US to suspend its defense obligations to New Zealand in 1986.<br><br>In recent years, New Zealand has explored reducing some of its ties to the UK. There in an active, minority movement to change New Zealand to a republic, and in 2015-16, a referendum on changing the New Zealand flag to remove the Union Jack failed, 57% to 43%.</p><br>
 
 ## Geography
 
@@ -465,8 +465,8 @@ _female_: 10.6%<br>
 36.2 (1997)<br>
 
 **Average household expenditures**<br>
-_on food_: 13.4% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 4.8% of household expenditures (2018 est.)<br>
+_on food_: 12.2% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 5.2% of household expenditures (2021 est.)<br>
 
 **Remittances**<br>
 0.27% of GDP (2022 est.)<br>
@@ -670,8 +670,14 @@ _unpaved_: 32,400 km (2017)<br>
 _total_: 117 (2023)<br>
 _by type_: container ship 2, general cargo 12, oil tanker 3, other 100<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga, Wellington<br>
+**Ports**<br>
+_total ports_: 22 (2024)<br>
+_large_: 2<br>
+_medium_: 1<br>
+_small_: 10<br>
+_very small_: 9<br>
+_ports with oil terminals_: 14<br>
+_key ports_: Auckland, Bluff Harbor, Gisborne, Manukau Harbor, Napier, Nelson, New Plymouth, Otago Harbor, Picton, Tauranga, Timaru, Wellington, Whangarei<br>
 
 ## Military and Security
 

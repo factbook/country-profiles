@@ -392,8 +392,14 @@ _percent of population_: 45.8% (2021 est.)<br>
 _total_: 1 (2023)<br>
 _by type_: general cargo 1<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Leava, Mata-Utu<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 1<br>
+_ports with oil terminals_: 0<br>
+_key ports_: Mata-Utu<br>
 
 ## Military and Security
 

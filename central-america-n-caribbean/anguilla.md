@@ -438,9 +438,6 @@ _unpaved_: 93 km (2004)<br>
 _total_: 2 (2023)<br>
 _by type_: other 2<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Blowing Point, Road Bay<br>
-
 ## Military and Security
 
 **Military - note**<br>

@@ -554,10 +554,14 @@ _subscriptions per 100 inhabitants_: 24 (2020 est.)<br>
 **Roadways**<br>
 _total_: 26,862 km (2012) (includes 454 km of expressways)<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Ensenada Honda, Mayaguez, Playa de Guayanilla, Playa de Ponce, San Juan<br>
-_container port(s) (TEUs)_: San Juan (1,438,218) (2021)<br>
-_LNG terminal(s) (import)_: Guayanilla Bay<br>
+**Ports**<br>
+_total ports_: 14 (2024)<br>
+_large_: 0<br>
+_medium_: 3<br>
+_small_: 4<br>
+_very small_: 7<br>
+_ports with oil terminals_: 7<br>
+_key ports_: Arroyo, Ensenada Honda, Mayaguez, Playa De Guanica, Playa De Guayanilla, Playa De Ponce, San Juan<br>
 
 ## Military and Security
 

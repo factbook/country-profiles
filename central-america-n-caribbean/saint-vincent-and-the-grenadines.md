@@ -600,8 +600,14 @@ J8<br>
 _total_: 830 (2023)<br>
 _by type_: bulk carrier 30, container ship 18, general cargo 137, oil tanker 16, other 629<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Kingstown<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 0<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Kingstown<br>
 
 ## Military and Security
 

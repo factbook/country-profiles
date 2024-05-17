@@ -465,8 +465,8 @@ _female_: 6.9%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 13.8% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 2.7% of household expenditures (2018 est.)<br>
+_on food_: 12.8% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 1.8% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
@@ -684,10 +684,14 @@ _unpaved_: 7,633 km (2016)<br>
 _total_: 2,149 (2023)<br>
 _by type_: bulk carrier 93, container ship 115, general cargo 362, oil tanker 219, other 1,360<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu<br>
-_container port(s) (TEUs)_: Busan (22,706,130), Incheon (3,353,781), Kwangyang (2,122,903) (2021)<br>
-_LNG terminal(s) (import)_: Incheon, Kwangyang, Pyeongtaek, Samcheok, Tongyeong, Yeosu<br>
+**Ports**<br>
+_total ports_: 15 (2024)<br>
+_large_: 2<br>
+_medium_: 5<br>
+_small_: 4<br>
+_very small_: 4<br>
+_ports with oil terminals_: 10<br>
+_key ports_: Busan, Gwangyang Hang, Inchon, Masan, Mokpo, Pyeongtaek Hang, Ulsan<br>
 
 ## Military and Security
 

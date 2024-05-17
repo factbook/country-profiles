@@ -474,8 +474,8 @@ _female_: 14%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 19.3% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 5% of household expenditures (2018 est.)<br>
+_on food_: 19.3% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 5.3% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1%<br>
@@ -694,8 +694,14 @@ _total_: 19,117 km (2022)<br>
 _total_: 78 (2023)<br>
 _by type_: bulk carrier 2, general cargo 13, oil tanker 8, other 55<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Burgas, Varna (Black Sea)<br>
+**Ports**<br>
+_total ports_: 2 (2024)<br>
+_large_: 1<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 0<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Burgas, Varna<br>
 
 ## Military and Security
 
@@ -727,10 +733,10 @@ the Bulgarian military is responsible for guaranteeing Bulgaria’s independence
 ## Space
 
 **Space agency/agencies**<br>
-Space Research and Technology Institute - Bulgarian Academy of Sciences (SRTI-BAS; formed in 1987 but originated from the Central Laboratory for Space Research and the Bulgarian Aerospace Agency, which was established in 1969) (2023)<br>
+Space Research and Technology Institute - Bulgarian Academy of Sciences (SRTI-BAS; formed in 1987 but originated from the Central Laboratory for Space Research and the Bulgarian Aerospace Agency, which was established in 1969) (2024)<br>
 
 **Space program overview**<br>
-has a long history of involvement in space-related activities going back to the 1960s; develops, produces, and operates satellites, mostly with foreign partners; researches, develops, and produces other space technologies, including those related to astrophysics, remote sensing, data exploitation, optics, and electronics; has specialized in producing scientific instruments for space research; has more than 20 research institutes; Cooperating State of the European Space Agency (ESA) since 2015; cooperates with a variety of foreign space agencies and commercial entities, including those of the ESA and EU (and bi-laterally with their member states), India, Japan, Russia, and the US (2023)<br>
+has a long history of involvement in space-related activities going back to the 1960s; develops, produces, and operates satellites, mostly with foreign partners; researches, develops, and produces other space technologies, including those related to astrophysics, remote sensing, data exploitation, optics, and electronics; has specialized in producing scientific instruments for space research; has more than 20 research institutes; Cooperating State of the European Space Agency (ESA) since 2015; cooperates with a variety of foreign space agencies and commercial entities, including those of the ESA and EU (and bi-laterally with their member states), India, Japan, Russia, and the US (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

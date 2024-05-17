@@ -463,8 +463,8 @@ _female_: 19.3%<br>
 39 (2011 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 19.1% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 3.8% of household expenditures (2018 est.)<br>
+_on food_: 18.6% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 3.8% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
@@ -671,9 +671,14 @@ _total_: 96,189 km (2014)<br>
 _total_: 272 (2023)<br>
 _by type_: bulk carrier 3, container ship 1, general cargo 26, oil tanker 17, other 225<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: La Guaira, Maracaibo, Puerto Cabello, Punta Cardon<br>
-_oil terminal(s)_: Jose terminal<br>
+**Ports**<br>
+_total ports_: 31 (2024)<br>
+_large_: 1<br>
+_medium_: 2<br>
+_small_: 11<br>
+_very small_: 17<br>
+_ports with oil terminals_: 21<br>
+_key ports_: Amuay (Bahia De Amuay), Bahia De Pertigalete, Ciudad Bolivar, Guanta, La Guaira, La Salina, Las Piedras, Maracaibo, Puerto Cabello, Puerto De Hierro, Puerto La Cruz, Puerto Miranda, Puerto Ordaz, Punta Cardon<br>
 
 ## Military and Security
 

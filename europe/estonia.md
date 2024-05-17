@@ -469,8 +469,8 @@ _female_: 17.8%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 20.3% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 7.8% of household expenditures (2018 est.)<br>
+_on food_: 20.2% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 7.8% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3%<br>
@@ -677,8 +677,14 @@ _total_: 89,382 km (2022)<br>
 _total_: 72 (2023)<br>
 _by type_: general cargo 3, oil tanker 3, other 66<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn<br>
+**Ports**<br>
+_total ports_: 20 (2024)<br>
+_large_: 4<br>
+_medium_: 1<br>
+_small_: 4<br>
+_very small_: 11<br>
+_ports with oil terminals_: 5<br>
+_key ports_: Muuga - Port of Tallin, Paldiski Lounasadam, Paljassaare, Sillamae, Vanasadam - Port of Tallinn<br>
 
 ## Military and Security
 

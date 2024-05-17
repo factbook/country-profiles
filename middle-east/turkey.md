@@ -488,8 +488,8 @@ _female_: 29.9%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 21.8% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
+_on food_: 27.3% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 2.8% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2%<br>
@@ -708,10 +708,14 @@ _unpaved_: 43,251 km (2018)<br>
 _total_: 1,170 (2023)<br>
 _by type_: bulk carrier 43, container ship 43, general cargo 223, oil tanker 134, other 727<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), Mersin (Icel), Limani, Yarimca<br>
-_container port(s) (TEUs)_: Ambarli (2,942,550), Mersin (Icel) (2,106,937), Izmet (1,967,946) (2021)<br>
-_LNG terminal(s) (import)_: Aliaga, Dortyol, Ekti (Izmir), Marmara Ereglisi<br>
+**Ports**<br>
+_total ports_: 54 (2024)<br>
+_large_: 3<br>
+_medium_: 3<br>
+_small_: 6<br>
+_very small_: 42<br>
+_ports with oil terminals_: 28<br>
+_key ports_: Haydarpasa, Istanbul, Izmir, Mersin, Nemrut Limani Bay, Samsun<br>
 
 ## Military and Security
 

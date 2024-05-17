@@ -439,8 +439,14 @@ _unpaved_: 390 km (2008)<br>
 _total_: 2 (2023)<br>
 _by type_: general cargo 1, other 1<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Stanley<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 0<br>
+_very small_: 0<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Stanley<br>
 
 ## Military and Security
 

@@ -498,8 +498,8 @@ _female_: 8.2%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 39.5% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1.1% of household expenditures (2018 est.)<br>
+_on food_: 39.6% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 1.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.2%<br>
@@ -717,10 +717,14 @@ _unpaved_: 78,712 km (2021)<br>
 _total_: 60 (2023)<br>
 _by type_: bulk carrier 5, oil tanker 9, other 46<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Karachi, Port Muhammad Bin Qasim<br>
-_container port(s) (TEUs)_: Karachi (2,097,855) (2019)<br>
-_LNG terminal(s) (import)_: Port Qasim<br>
+**Ports**<br>
+_total ports_: 3 (2024)<br>
+_large_: 0<br>
+_medium_: 2<br>
+_small_: 1<br>
+_very small_: 0<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Gwadar, Karachi, Muhamamad Bin Qasim<br>
 
 ## Military and Security
 

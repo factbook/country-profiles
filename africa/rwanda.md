@@ -677,9 +677,6 @@ _unpaved_: 5,145 km (2024)<br>
 **Waterways**<br>
 90 km (2022) (Lake Kivu navigable by shallow-draft barges and native craft)<br>
 
-**Ports and terminals**<br>
-_lake port(s)_: Cyangugu, Gisenyi, Kibuye (Lake Kivu)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>

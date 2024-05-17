@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Slovakia traces its roots to the 9th century state of Great Moravia. Subsequently, the Slovaks became part of the Hungarian Kingdom, where they remained for the next 1,000 years. After the formation of the dual Austro-Hungarian monarchy in 1867, backlash to language and education policies favoring the use of Hungarian (Magyarization) encouraged the strengthening of Slovak nationalism and a cultivation of cultural ties with the closely related Czechs, who fell administratively under the Austrian half of the empire. After the dissolution of the Austro-Hungarian Empire at the close of World War I, the Slovaks joined the Czechs to form Czechoslovakia. The new state was envisioned as a nation with Czech and Slovak branches. During the interwar period, Slovak nationalist leaders pushed for autonomy within Czechoslovakia, and in 1939 Slovakia became an independent state created by and allied with Nazi Germany. Following World War II, Czechoslovakia was reconstituted and came under communist rule within Soviet-dominated Eastern Europe. In 1968, an invasion by Warsaw Pact troops ended the efforts of Czechoslovakia's leaders to liberalize communist rule and create "socialism with a human face," ushering in a period of repression known as "normalization." The peaceful "Velvet Revolution" swept the Communist Party from power at the end of 1989 and inaugurated a return to democratic rule and a market economy. On 1 January 1993, Czechoslovakia underwent a nonviolent "velvet divorce" into its two national components, Slovakia and the Czech Republic. Slovakia joined both NATO and the EU in the spring of 2004 and the euro zone on 1 January 2009.<br>
+Slovakia traces its roots to the 9th century state of Great Moravia. The Slovaks then became part of the Hungarian Kingdom, where they remained for the next 1,000 years. After the formation of the dual Austro-Hungarian monarchy in 1867, language and education policies favoring the use of Hungarian (known as "Magyarization") led to a public backlash that boosted Slovak nationalism and strengthened Slovak cultural ties with the closely related Czechs, who fell administratively under the Austrian half of the empire. When the Austro-Hungarian Empire dissolved at the end of World War I, the Slovaks joined the Czechs to form Czechoslovakia. During the interwar period, Slovak nationalist leaders pushed for autonomy within Czechoslovakia, and in 1939, in the wake of Germany's annexation of the Sudetenland, the newly established Slovak Republic became a German client state for the remainder of World War II. <br><br>After World War II, Czechoslovakia was reconstituted and came under communist rule within Soviet-dominated Eastern Europe. In 1968, Warsaw Pact troops invaded and ended the efforts of Czechoslovakia's leaders to liberalize communist rule and create "socialism with a human face," ushering in a period of repression known as "normalization." The peaceful Velvet Revolution swept the Communist Party from power at the end of 1989 and inaugurated a return to democratic rule and a market economy. On 1 January 1993, Czechoslovakia underwent a nonviolent "velvet divorce" into its two national components, Slovakia and the Czech Republic. Slovakia joined both NATO and the EU in 2004 and the euro zone in 2009.<br>
 
 ## Geography
 
@@ -474,8 +474,8 @@ _female_: 24.6%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 18.4% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 5% of household expenditures (2018 est.)<br>
+_on food_: 19.6% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 5.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6%<br>
@@ -684,9 +684,6 @@ _total_: 45,106 km (2022)<br>
 
 **Waterways**<br>
 172 km (2012) (on Danube River)<br>
-
-**Ports and terminals**<br>
-_river port(s)_: Bratislava, Komarno (Danube)<br>
 
 ## Military and Security
 

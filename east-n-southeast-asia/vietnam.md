@@ -489,8 +489,8 @@ _female_: 7.5%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 38.8% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
+_on food_: 31.2% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 2.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.5%<br>
@@ -700,10 +700,14 @@ _unpaved_: 47,130 km (2013)<br>
 _total_: 1,973 (2022)<br>
 _by type_: bulk carrier 117, container ship 45, general cargo 1,176, oil tanker 134, other 501<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon<br>
-_container port(s) (TEUs)_: Saigon (7,956,133), Cai Mep (5,385,289), Haiphong (5,695,839) (2021)<br>
-_river port(s)_: Ho Chi Minh (Mekong)<br>
+**Ports**<br>
+_total ports_: 16 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 6<br>
+_very small_: 9<br>
+_ports with oil terminals_: 12<br>
+_key ports_: Da Nang, Hai Phong, Nghe Tinh, Nha Trang, Thanh Ho Chi Minh, Vinh Cam Ranh, Vung Tau<br>
 
 ## Military and Security
 

@@ -697,7 +697,7 @@ approximately 15,500 personnel (10,000 Army; 500 Air Force; 5,000 National Genda
 <strong>note: </strong>in 2022, government authorities announced a special recruitment for up to 6,000 additional soldiers and 1,500 gendarmes to assist with its fight against terrorist groups operating in the country; the government also put out a recruitment call for up to 100,000 VDP volunteers, and as of 2023 claimed about 50,000 had volunteered (the VDP's original recruited strength was 15,000)<br><strong><br><br></strong><br>
 
 **Military equipment inventories and acquisitions**<br>
-the FABF has a mix of older, secondhand, and some modern equipment from a variety of suppliers, including China, France, Russia, South Africa, Turkey, the UK, and the US (2024)<br>
+the FABF has a mix of older, secondhand, and some modern equipment from a variety of suppliers, including China, Egypt, France, Russia, South Africa, Turkey, the UK, and the US (2024)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service for men and women (2023)<br>

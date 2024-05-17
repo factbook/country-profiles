@@ -177,8 +177,14 @@ Diego Garcia hosts one of four dedicated ground antennas that assist in the oper
 **Roadways**<br>
 <p><strong>note:</strong> short section of paved road between port and airfield on Diego Garcia</p><br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Diego Garcia<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 1<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Diego Garcia<br>
 
 ## Military and Security
 

@@ -485,8 +485,8 @@ _female_: 38.7%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 18.6% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1.3% of household expenditures (2018 est.)<br>
+_on food_: 18.8% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 1.3% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
@@ -695,8 +695,14 @@ _unpaved_: 69,989 km (2010)<br>
 _total_: 58 (2023)<br>
 _by type_: container ship 1, general cargo 4, oil tanker 3, other 50<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Montevideo<br>
+**Ports**<br>
+_total ports_: 8 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 1<br>
+_very small_: 6<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Colonia, Fray Bentos, Jose Ignacio, La Paloma, Montevideo, Nueva Palmira, Paysandu, Puerto Sauce<br>
 
 ## Military and Security
 

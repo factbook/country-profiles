@@ -471,8 +471,8 @@ _female_: 10.6%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 11.5% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
+_on food_: 12.3% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 3.6% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.7%<br>
@@ -679,12 +679,14 @@ _total_: 73,591 km (2022)<br>
 _total_: 715 (2023)<br>
 _by type_: bulk carrier 15, container ship 132, general cargo 69, oil tanker 107, other 392<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Baltic Sea - Aarhus, Copenhagen, Fredericia, Kalundborg<br>
-_cruise port(s)_: Copenhagen<br>
-_river port(s)_: Aalborg (Langerak)<br>
-_dry bulk cargo port(s)_: Ensted (coal)<br>
-North Sea - Esbjerg,<br>
+**Ports**<br>
+_total ports_: 69 (2024)<br>
+_large_: 1<br>
+_medium_: 2<br>
+_small_: 30<br>
+_very small_: 36<br>
+_ports with oil terminals_: 33<br>
+_key ports_: Abenra, Alborg, Arhus, Assens, Augustenborg, Bandholm, Esbjerg, Faborg, Fredericia, Frederikshavn, Haderslev, Holstebro-Stuer, Kalundborg, Kobenhavn, Kolding, Korsor, Marstal, Middelfart, Naestved, Nakskov, Nyborg, Nykobing, Odense, Randers, Ronne, Rudkobing, Sakskobing, Skagen Havn, Sonderborg, Stubbekobing, Studstrup, Svendborg, Vejle<br>
 
 ## Military and Security
 
@@ -718,10 +720,10 @@ the Danish Armed Forces (Forsvaret) have a variety of missions, including enforc
 ## Space
 
 **Space agency/agencies**<br>
-no formal space agency; the Ministry of Higher Education and Science has responsibility for coordinating Danish space activities managing international cooperation; the Danish Space Research Institute (Dansk Rumforskningsinstitut (DRKI) was the country&rsquo;s space agency from 1966-2005; DTU Space, National Space Institute, is Denmark&rsquo;s national space institute (2023)<br>
+no formal space agency; the Ministry of Higher Education and Science has responsibility for coordinating Danish space activities managing international cooperation; the Danish Space Research Institute (Dansk Rumforskningsinstitut (DRKI) was the country&rsquo;s space agency from 1966-2005; DTU Space, National Space Institute, is Denmark&rsquo;s national space institute (2024)<br>
 
 **Space program overview**<br>
-a member of the European Space Agency (ESA) and fully integrated within its structure; participates in ESA programs, particularly those linked to human spaceflight and satellite-based remote sensing activities, as well as technology programs involving telecommunications and navigation; independently builds and operates satellites, particularly those with meteorological, science, technology, and signal/traffic monitoring capabilities; in addition to cooperating with the ESA and EU, as well as bi-laterally with member states, it has relations with the space agencies and industries of Canada, India, Japan, and the US (2023)<br>
+a member of the European Space Agency (ESA) and fully integrated within its structure; participates in ESA programs, particularly those linked to human spaceflight and satellite-based remote sensing activities, as well as technology programs involving telecommunications and navigation; independently builds and operates satellites, particularly those with meteorological, science, technology, and signal/traffic monitoring capabilities; conducts research and development of such technologies as measurement and instrumentation systems, microwaves, remote sensing, electromagnetic systems, astrophysics, geomagnetism, etc.; in addition to cooperating with the ESA and EU, as well as bi-laterally with member states, it has relations with the space agencies and industries of Canada, India, Japan, and the US (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

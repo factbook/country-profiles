@@ -493,9 +493,6 @@ _subscriptions per 100 inhabitants_: 7 (2020 est.)<br>
 **Roadways**<br>
 <p><strong>note:</strong> see entry for the West Bank</p><br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Gaza<br>
-
 ## Military and Security
 
 **Military and security forces**<br>

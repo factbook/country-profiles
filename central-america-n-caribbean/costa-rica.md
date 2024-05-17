@@ -470,8 +470,8 @@ _female_: 56.3%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 25.7% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1.2% of household expenditures (2018 est.)<br>
+_on food_: 31.6% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 0.7% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
@@ -679,10 +679,14 @@ _total_: 5,035 km (2017)<br>
 _total_: 11 (2023)<br>
 _by type_: other 11<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Atlantic Ocean (Caribbean) - Puerto Limon<br>
-_container port(s) (TEUs)_: Puerto Limon (1,319,372)<br>
-Pacific Ocean - Caldera<br>
+**Ports**<br>
+_total ports_: 6 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 5<br>
+_ports with oil terminals_: 4<br>
+_key ports_: Golfito, Puerto Caldera, Puerto Limon, Puerto Moin, Puerto Quepos, Puntarenas<br>
 
 ## Military and Security
 
@@ -712,7 +716,7 @@ Costa Rica relies on specialized paramilitary units within the Ministry of Publi
 Costa Rican Space Agency (ACE; established 2021); ACE is a non-state, public entity subject to guidelines issued by the Ministry of Science, Technology, and Telecommunications (2023)<br>
 
 **Space program overview**<br>
-has a small, new program focused on promoting the use of space to develop the country’s economy and industry, including acquiring and utilizing satellites; has built a remote sensing (RS) cube satellite; has relations with the space agencies and commercial space industries of the US and members of the Latin American and Caribbean Space Agency (ALCE) (2023)<br>
+has a small, recently established program focused on promoting the use of space to develop the country’s economy and industry, including acquiring and utilizing satellites; has built a remote sensing (RS) cube satellite; has relations with the space agencies and commercial space industries of the US, members of the European Space Agency, and members of the Latin American and Caribbean Space Agency (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

@@ -478,8 +478,8 @@ _female_: 36.7%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 27.5% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 6.8% of household expenditures (2018 est.)<br>
+_on food_: 27.2% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 5.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
@@ -683,8 +683,14 @@ _total_: 9,825 km (2022)<br>
 _total_: 18 (2023)<br>
 _by type_: bulk carrier 4, other 14<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Bar<br>
+**Ports**<br>
+_total ports_: 4 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 3<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Bar, Kotor, Risan, Tivat<br>
 
 ## Military and Security
 

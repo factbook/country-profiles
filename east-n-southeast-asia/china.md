@@ -512,8 +512,8 @@ _female_: 10.4%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 21.6% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 2.5% of household expenditures (2018 est.)<br>
+_on food_: 20% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 2.9% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1%<br>
@@ -730,11 +730,14 @@ _unpaved_: 622,000 km (2017)<br>
 _total_: 8,314 (2023)<br>
 _by type_: bulk carrier 1,831, container ship 419, general cargo 1,392, oil tanker 1,196, other 3,476<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Dalian, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, Tianjin, Xiamen<br>
-_container port(s) (TEUs)_: Dalian (3,672,000), Guangzhou (24,180,000), Ningbo (31,070,000), Qingdao (23,710,000), Shanghai (47,030,300), Shenzhen (28,767,600), Tianjin (20,269,400), Xiamen (12,045,700) (2021)<br>
-_LNG terminal(s) (import)_: Fujian, Guangdong, Jiangsu, Shandong, Shanghai, Tangshan, Zhejiang<br>
-_river port(s)_: Guangzhou (Pearl)<br>
+**Ports**<br>
+_total ports_: 66 (2024)<br>
+_large_: 5<br>
+_medium_: 9<br>
+_small_: 25<br>
+_very small_: 27<br>
+_ports with oil terminals_: 48<br>
+_key ports_: Chaozhou, Dalian, Fang-Cheng, Guangzhou, Hankow, Lon Shui Terminal, Qingdao Gang, Qinhuangdao, Shanghai, Shekou, Tianjin Xin Gang, Weihai, Wenzhou, Xiamen<br>
 
 **Transportation - note**<br>
 seven of the world’s ten largest container ports are in China<br><br>
@@ -772,13 +775,13 @@ established in 1927, the PLA is the military arm of the ruling Chinese Communist
 ## Space
 
 **Space agency/agencies**<br>
-China National Space Administration (CNSA; established in 1993); Administration for Science, Technology, and Industry for National Defense (SASTIND; subordinate to the Ministry of Industry and Information Technology); People&rsquo;s Liberation Army Strategic Support Force (PLASSF; established 2016; includes the Space Systems Department and the China Manned Space Engineering Office or CMSEO) (2023)<br>
+China National Space Administration (CNSA; established in 1993); Administration for Science, Technology, and Industry for National Defense (SASTIND; subordinate to the Ministry of Industry and Information Technology); People&rsquo;s Liberation Army (PLA) Aerospace Force (in 2024, the PLA created the Aerospace Force from the former Strategic Support Force, which had included the Space Systems Department and the China Manned Space Engineering Office or CMSEO) (2024)<br>
 
 **Space launch site(s)**<br>
-Jiuquan Launch Center (Inner Mongolia), Xichang Launch Center (Sichuan), Wenchang Launch Center (Hainan), Taiyuan Launch Center (Shanxi), Eastern (Haiyang City) coastal spaceport (Shandong; designed to facilitate maritime launches) (2023)<br>
+Jiuquan Launch Center (Inner Mongolia), Xichang Launch Center (Sichuan), Wenchang Launch Center (Hainan; Wenchang includes a commercial launch pad, the Hainan Commercial Space Launch Site, which was scheduled to be completed in 2024), Taiyuan Launch Center (Shanxi), Eastern Spaceport (Shandong; a coastal spaceport designed to facilitate maritime launches); note - China also has a ship capable of conducting space launches (2024)<br>
 
 **Space program overview**<br>
-has a large, comprehensive, and ambitious space program and is considered one of the World’s leading space powers; capable of manufacturing and operating the full spectrum of space launch vehicles (SLVs) and spacecraft, including human crewed, satellite launchers, lunar/inter-planetary/asteroid probes, satellites (communications, remote sensing, navigational, scientific, etc.), space stations, and re-usable space transportation systems, such as orbital space planes/shuttles; trains astronauts (taikonauts); researches and develops a range of other space-related capabilities, including advanced telecommunications, optics, spacecraft components, satellite payloads, etc.; participates in international space programs, such as the Square Kilometer Array Project radio telescope project and co-leads (with Australian and Japan) the Global Earth Observation System of Systems; has signed space cooperation agreements with more than 30 countries, including Brazil, Canada, France, and Russia, as well as the European Space Agency (note – the US NASA is barred by a 2011 law from cooperating with the Chinese bilaterally in space unless approved by the US Congress; the US also objected to China’s participation in the International Space Station program); has a space industry dominated by two state-owned aerospace enterprises but since announcing in 2014 that it would allow private investment into the traditionally state-dominated space industry has developed a substantial commercial space sector, including space launch services (2023)<br>
+has a large, comprehensive, and ambitious space program and is considered one of the World’s leading space powers; capable of manufacturing and operating the full spectrum of space launch vehicles (SLVs) and spacecraft, including human crewed, satellite launchers, lunar/inter-planetary/asteroid probes, satellites (communications, remote sensing, navigational, scientific, etc.), space stations, and re-usable space transportation systems, such as orbital space planes/shuttles; trains astronauts (taikonauts); researches and develops a range of other space-related capabilities, including advanced telecommunications, optics, spacecraft components, satellite payloads, etc.; participates in international space programs, such as the Square Kilometer Array Project radio telescope project and co-leads (with Australian and Japan) the Global Earth Observation System of Systems; has signed space cooperation agreements with more than 30 countries, including Brazil, Canada, France, and Russia, as well as the European Space Agency (note – the US NASA is barred by a 2011 law from cooperating with the Chinese bilaterally in space unless approved by the US Congress; the US also objected to China’s participation in the International Space Station program); has a space industry dominated by two state-owned aerospace enterprises but since announcing in 2014 that it would allow private investment into the traditionally state-dominated space industry has developed a substantial commercial space sector, including space launch services (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

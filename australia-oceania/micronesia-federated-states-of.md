@@ -577,8 +577,14 @@ note - paved and unpaved circumferential roads, most interior roads are unpaved<
 _total_: 38 (2023)<br>
 _by type_: general cargo 17, oil tanker 4, other 17<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Colonia (Tamil Harbor), Molsron Lele Harbor, Pohnepi Harbor<br>
+**Ports**<br>
+_total ports_: 4 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 3<br>
+_ports with oil terminals_: 3<br>
+_key ports_: Colonia, Lele Harbor, Moen, Pohnpei Harbor<br>
 
 ## Military and Security
 

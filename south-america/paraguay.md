@@ -482,8 +482,8 @@ _female_: 21.9%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 31.7% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 4.2% of household expenditures (2018 est.)<br>
+_on food_: 30.3% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 4.2% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
@@ -689,8 +689,14 @@ _unpaved_: 70,238 km (2020)<br>
 _total_: 108 (2023)<br>
 _by type_: container ship 2, general cargo 22, oil tanker 5, other 79<br>
 
-**Ports and terminals**<br>
-_river port(s)_: Asuncion, Villeta, San Antonio, Encarnacion (Parana)<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 1<br>
+_ports with oil terminals_: 0<br>
+_key ports_: Puerto De Asuncion<br>
 
 ## Military and Security
 

@@ -154,8 +154,14 @@ _percent of population_: 100% (2021 est.)<br>
 **Heliports**<br>
 5 (2024)<br>
 
-**Ports and terminals**<br>
-most coastal stations have sparse and intermittent offshore anchorages; a few stations have basic wharf facilities<br>
+**Ports**<br>
+_total ports_: 8 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 7<br>
+_ports with oil terminals_: 0<br>
+_key ports_: Admiralty Bay, Andersen Harbor, Ellefsen Harbor, Mcmurdo Station, Melchior Harbor, Port Foster, Port Lockroy, Scotia Bay<br>
 
 **Transportation - note**<br>
 US coastal stations include McMurdo (77 51 S, 166 40 E) and Palmer (64 43 S, 64 03 W); government use only; all ships are subject to inspection in accordance with Article 7 of the Antarctic Treaty; ships must comply with relevant legal instruments and authorization procedures under the Antarctic Treaty (see "Legal System"); The Hydrographic Commission on Antarctica (HCA), a commission of the International Hydrographic Organization (IHO), coordinates and facilitates provision of accurate and appropriate charts and other aids to navigation; membership in HCA is open to any IHO Member State whose government has acceded to the Antarctic Treaty and which contributes resources or data to IHO Chart coverage of the area<br>

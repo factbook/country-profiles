@@ -686,8 +686,14 @@ _unpaved_: 40,982 km (2018)<br>
 _total_: 15 (2023)<br>
 _by type_: general cargo 1, other 14<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Luderitz, Walvis Bay<br>
+**Ports**<br>
+_total ports_: 2 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 2<br>
+_very small_: 0<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Luderitz Bay, Walvis Bay<br>
 
 ## Military and Security
 

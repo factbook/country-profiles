@@ -654,8 +654,15 @@ _unpaved_: 40,000 km (2001)<br>
 _total_: 65 (2023)<br>
 _by type_: general cargo 13, oil tanker 10, other 42<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, Nuevitas Bay, Santiago de Cuba<br>
+**Ports**<br>
+_total ports_: 34 (2024)<br>
+_large_: 6<br>
+_medium_: 3<br>
+_small_: 10<br>
+_very small_: 6<br>
+_size unknown_: 9<br>
+_ports with oil terminals_: 14<br>
+_key ports_: Antilla, Bahai De La Habana, Bahia De Sagua De Tanamo, Cabanas, Casilda, Cienfuegos, Nuevitas Bay, Puerto Guantanamo, Santiago De Cuba<br>
 
 ## Military and Security
 

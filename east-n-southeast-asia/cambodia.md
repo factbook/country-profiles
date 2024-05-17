@@ -479,8 +479,8 @@ _female_: 2.1%<br>
 37.9 (2008 est.)<br>
 
 **Average household expenditures**<br>
-_on food_: 42.3% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 2.2% of household expenditures (2018 est.)<br>
+_on food_: 42.7% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 1.9% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2%<br>
@@ -689,9 +689,14 @@ _unpaved_: 46,810 km (2021)<br>
 _total_: 195 (2023)<br>
 _by type_: container ship 2, general cargo 123, oil tanker 18, other 52<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Sihanoukville (Kampong Saom)<br>
-_river port(s)_: Phnom Penh (Mekong)<br>
+**Ports**<br>
+_total ports_: 2 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 0<br>
+_very small_: 1<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Kampong Saom, Phsar Ream<br>
 
 ## Military and Security
 

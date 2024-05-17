@@ -472,8 +472,8 @@ _female_: 4.1%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 16% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
+_on food_: 16.7% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 3% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
@@ -695,11 +695,15 @@ _unpaved_: 225,937 km (2015)<br>
 _total_: 5,229 (2023)<br>
 _by type_: bulk carrier 166, container ship 49, general cargo 1,893, oil tanker 666, other 2,455<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, Tomakomai, Yokohama<br>
-_container port(s) (TEUs)_: Kobe (2,823,774), Nagoya (2,725,597), Osaka (2,425,638), Tokyo (4,325,956), Yokohama (2,861,197) (2021)<br>
-_LNG terminal(s) (import)_: Chita, Chita Midorihama, Fukuoka, Futtsu, Hachinone, Hakodate, Hatsukaichi, Higashi Ohgishima, Higashi Niigata, Himeiji, Hitachi, Ishikari, Joetsu, Kagoshima, Kawagoe, Hibiki, Mitzushima, Nagasaki, Naoetsu, Negishi, Ohgishima, Oita, Sakai, Sakaide, Senboku, Shin Minato, Shin-Sendai, Sodeshi Shimizu, Sodegaura, Soma, Tobata, Toyama Shinko, Yanai, Yokkaichi, Yoshinoura<br>
-Okinawa - Nakagusuku<br>
+**Ports**<br>
+_total ports_: 163 (2024)<br>
+_large_: 11<br>
+_medium_: 26<br>
+_small_: 54<br>
+_very small_: 71<br>
+_size unknown_: 1<br>
+_ports with oil terminals_: 99<br>
+_key ports_: Kawasaki Ko, Kobe, Mikawa, Nagasaki, Nagoya Ko, Onomichi-Itozaki, Osaka, Tokyo Ko, Wakamatsu Ko, Wakayama-Shimotsu Ko, Yokohama Ko<br>
 
 ## Military and Security
 

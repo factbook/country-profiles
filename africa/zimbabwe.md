@@ -691,9 +691,6 @@ _unpaved_: 78,786 km (2023)<br>
 **Waterways**<br>
 223 km (2022) some navigation possible on Lake Kariba (223 km)<br>
 
-**Ports and terminals**<br>
-_river port(s)_: Binga, Kariba (Zambezi)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>

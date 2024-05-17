@@ -486,8 +486,8 @@ _female_: 19.6%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 53.5% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1.9% of household expenditures (2018 est.)<br>
+_on food_: 52.7% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 2.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6%<br>
@@ -708,16 +708,19 @@ _unpaved_: 258,794 km (2018)<br>
 _total_: 558 (2023)<br>
 _by type_: bulk carrier 68, container ship 10, general cargo 170, oil tanker 162, other 148<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Chattogram (Chittagong)<br>
-_container port(s) (TEUs)_: Chattogram (Chittagong) (3,214,548) (2021)<br>
-_LNG terminal(s) (import)_: Moheshkhali (2 FSRU)<br>
-_river port(s)_: Mongla Port (Sela River)<br>
+**Ports**<br>
+_total ports_: 2 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 1<br>
+_very small_: 0<br>
+_ports with oil terminals_: 0<br>
+_key ports_: Chittagong, Mongla<br>
 
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bangladesh Navy, Bangladesh Air Force<br><br>Ministry of Home Affairs: Border Guard Bangladesh (BGB), Bangladesh Coast Guard, Rapid Action Battalion (RAB), Ansars, Village Defense Party (VDP) (2023)<br>
+Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bangladesh Navy, Bangladesh Air Force<br><br>Ministry of Home Affairs: Border Guard Bangladesh (BGB), Bangladesh Coast Guard, Rapid Action Battalion (RAB), Ansars, Village Defense Party (VDP) (2024)<br>
 <strong>note 1: </strong>the Armed Forces of Bangladesh are jointly administered by the Ministry of Defense (MOD) and the Armed Forces Division (AFD), both under the Prime Minister's Office; the AFD has ministerial status and parallel functions with MOD; the AFD is a joint coordinating headquarters for the three services and also functions as a joint command center during wartime; to coordinate policy, the prime minister and the president are advised by a six-member board, which includes the three service chiefs of staff, the principal staff officer of the AFD, and the military secretaries to the prime minister and president<br><br><strong>note 2: </strong>the RAB, Ansars, and VDP are paramilitary organizations for internal security; the RAB is a joint task force founded in 2004 and composed of members of the police, Army, Navy, Air Force, and Border Guards seconded to the RAB from their respective units; its mandate includes internal security, intelligence gathering related to criminal activities, and government-directed investigations<br>
 
 **Military expenditures**<br>
@@ -741,7 +744,7 @@ approximately 1,400 Central African Republic (MINUSCA); 1,650 Democratic Republi
 <strong>note:</strong> as of early 2024, Bangladesh had nearly 6,000 total military and police personnel deployed on UN missions<br>
 
 **Military - note**<br>
-the military’s primary responsibility is external defense but it also has a domestic security role and has traditionally been a significant player in the country’s politics, as well as its economy; the military has a long history of participating in UN peacekeeping missions, which has provided operational experience and a source of funding; it runs an international institute for the training of peacekeepers; the military also conducts multinational and bilateral exercises with foreign partners, particularly India; it has commercial business interests in such areas as banking, food, hotels, manufacturing, real estate, and shipbuilding, and manages government infrastructure and construction projects<br><br>the Army is the dominant service and its primary combat forces are approximately 10 infantry divisions, complemented by several independent brigades and regiments of armor, artillery, and commandos; it maintains a large presence in the Chittagong Hills area where it conducted counterinsurgency operations against tribal guerrillas from the 1970s until the late 1990s; the Navy conducts both coastal and blue water operations and participates in UN and humanitarian missions and multinational exercises; its principal surface warships are a mix of frigates, corvettes, and large patrol ships; it also has a few attack submarines; the Air Force has several squadrons equipped Chinese- and Russian-made combat aircraft; the Air Force has about 50 mostly Chinese- and Russian-made combat aircraft organized into several squadrons (2023)<br>
+the military’s primary responsibility is external defense but it also has a domestic security role and has traditionally been a significant player in the country’s politics, as well as its economy; the military has a long history of participating in UN peacekeeping missions, which has provided operational experience and a source of funding; it runs an international institute for the training of peacekeepers; the military also conducts multinational and bilateral exercises with foreign partners, particularly India; it has commercial business interests in such areas as banking, food, hotels, manufacturing, real estate, and shipbuilding, and manages government infrastructure and construction projects<br><br>the Army is the dominant service and its primary combat forces are approximately 10 infantry divisions, supplemented by several independent brigades and regiments of armor, artillery, and commandos; it maintains a large presence in the Chittagong Hills area where it conducted counterinsurgency operations against tribal guerrillas from the 1970s until the late 1990s; the Navy conducts both coastal and blue water operations and participates in UN and humanitarian missions and multinational exercises; its principal surface warships are a mix of frigates, corvettes, and large patrol ships; it also has a few attack submarines; the Air Force has several squadrons equipped Chinese- and Russian-made combat aircraft; the Air Force has several squadrons of mostly Chinese- and Russian-made combat aircraft  (2024)<br>
 
 ## Space
 

@@ -334,9 +334,6 @@ _percent of population_: 58.3% (2021 est.)<br>
 **Roadways**<br>
 _total_: 10 km (2019)<br>
 
-**Ports and terminals**<br>
-none; offshore anchorage only<br>
-
 ## Military and Security
 
 **Military - note**<br>

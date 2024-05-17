@@ -632,8 +632,14 @@ _unpaved_: 496 km (2011)<br>
 _total_: 29 (2023)<br>
 _by type_: container ship 1, general cargo 13, oil tanker 1, other 14<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Nuku'alofa, Neiafu, Pangai<br>
+**Ports**<br>
+_total ports_: 3 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 3<br>
+_ports with oil terminals_: 0<br>
+_key ports_: Neiafu, Nuku Alofa, Pangai<br>
 
 ## Military and Security
 

@@ -521,8 +521,15 @@ _unpaved_: 97 km (2003)<br>
 _total_: 3 (2023)<br>
 _by type_: general cargo 1, other 2<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Cockburn Harbour, Grand Turk, Providenciales<br>
+**Ports**<br>
+_total ports_: 3 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 2<br>
+_size unknown_: 1<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Cockburn Harbor, Grand Turk, Providenciales<br>
 
 ## Military and Security
 

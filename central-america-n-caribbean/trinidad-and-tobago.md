@@ -613,10 +613,14 @@ _annual freight traffic on registered air carriers_: 41.14 million (2018) mt-km<
 _total_: 102 (2023)<br>
 _by type_: general cargo 1, other 101<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Point Fortin, Point Lisas, Port of Spain, Scarborough<br>
-_oil terminal(s)_: Galeota Point terminal<br>
-_LNG terminal(s) (export)_: Port Fortin<br>
+**Ports**<br>
+_total ports_: 10 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 4<br>
+_very small_: 5<br>
+_ports with oil terminals_: 8<br>
+_key ports_: Galeota Point Terminal, Point Lisas Industrial Port, Point Lisas Port, Pointe A Pierre, Port Of Spain<br>
 
 ## Military and Security
 

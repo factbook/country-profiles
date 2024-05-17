@@ -689,9 +689,6 @@ _unpaved_: 11,413 km (2022)<br>
 **Waterways**<br>
 700 km (2010) (on Lake Nyasa [Lake Malawi] and Shire River)<br>
 
-**Ports and terminals**<br>
-_lake port(s)_: Chipoka, Monkey Bay, Nkhata Bay, Nkhotakota, Chilumba (Lake Nyasa)<br>
-
 ## Military and Security
 
 **Military and security forces**<br>

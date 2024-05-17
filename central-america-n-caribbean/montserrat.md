@@ -491,9 +491,6 @@ VP-M<br>
 **Roadways**<br>
 <p><strong>note:</strong> volcanic eruptions that began in 1995 destroyed most of the 227 km road system; a new road infrastructure has been built on the north end of the island</p><br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Little Bay, Plymouth<br>
-
 ## Military and Security
 
 **Military and security forces**<br>

@@ -634,10 +634,14 @@ _total_: 34,000 km (2021)<br>
 _total_: 96 (2023)<br>
 _by type_: general cargo 2, oil tanker 13, other 81<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Marsa al Burayqah (Marsa el Brega), Tripoli<br>
-_oil terminal(s)_: Az Zawiyah, Ra's Lanuf<br>
-_LNG terminal(s) (export)_: Marsa el Brega<br>
+**Ports**<br>
+_total ports_: 14 (2024)<br>
+_large_: 0<br>
+_medium_: 2<br>
+_small_: 3<br>
+_very small_: 9<br>
+_ports with oil terminals_: 10<br>
+_key ports_: Al Burayqah, Az Zawiya, Banghazi, Mersa Tobruq, Mina Tarabulus (Tripoli)<br>
 
 ## Military and Security
 

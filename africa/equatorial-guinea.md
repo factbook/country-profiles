@@ -618,9 +618,14 @@ _total_: 2,880 km (2017)<br>
 _total_: 53 (2023)<br>
 _by type_: bulk carrier 1, general cargo 16, oil tanker 7, other 29<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Bata, Luba, Malabo<br>
-_LNG terminal(s) (export)_: Bioko Island<br>
+**Ports**<br>
+_total ports_: 7 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 6<br>
+_ports with oil terminals_: 6<br>
+_key ports_: Bata, Ceiba Terminal, Cogo, Luba, Malabo, Punta Europa Terminal, Serpentina Terminal<br>
 
 ## Military and Security
 

@@ -477,8 +477,8 @@ _female_: 3.2%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 50% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 10.5% of household expenditures (2018 est.)<br>
+_on food_: 50.6% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 10.8% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3%<br>

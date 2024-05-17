@@ -664,8 +664,14 @@ _unpaved_: 20,586 km (2013)<br>
 _total_: 5 (2023)<br>
 _by type_: general cargo 1, oil tanker 1, other 3<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Bluefields, Corinto<br>
+**Ports**<br>
+_total ports_: 5 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 2<br>
+_very small_: 3<br>
+_ports with oil terminals_: 4<br>
+_key ports_: Bluefields, Corinto, El Bluff, Puerto Cabezas, Puerto Sandino<br>
 
 ## Military and Security
 

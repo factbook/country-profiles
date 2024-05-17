@@ -454,8 +454,8 @@ _male_: 6.1%<br>
 _female_: 20.5%<br>
 
 **Average household expenditures**<br>
-_on food_: 13.2% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 0.4% of household expenditures (2018 est.)<br>
+_on food_: 13.1% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 0.4% of household expenditures (2021 est.)<br>
 
 **Budget**<br>
 _revenues_: $9.168 billion (2019 est.)<br>
@@ -645,8 +645,14 @@ _unpaved_: 730 km (2010)<br>
 _total_: 184 (2023)<br>
 _by type_: general cargo 12, oil tanker 3, other 169<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Mina' Salman, Sitrah<br>
+**Ports**<br>
+_total ports_: 4 (2024)<br>
+_large_: 0<br>
+_medium_: 3<br>
+_small_: 1<br>
+_very small_: 0<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Al Manamah, Khalifa Bin Salman, Mina Salman, Sitrah<br>
 
 ## Military and Security
 

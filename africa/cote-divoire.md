@@ -488,8 +488,8 @@ _female_: 6.8%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 39.6% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 3.1% of household expenditures (2018 est.)<br>
+_on food_: 38.5% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 3.2% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
@@ -701,9 +701,14 @@ _unpaved_: 75,494 km (2007)<br>
 _total_: 25 (2023)<br>
 _by type_: oil tanker 2, other 23<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Abidjan, San-Pedro<br>
-_oil terminal(s)_: Espoir Offshore Terminal<br>
+**Ports**<br>
+_total ports_: 5 (2024)<br>
+_large_: 1<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 4<br>
+_ports with oil terminals_: 5<br>
+_key ports_: Abidjan, Baobab Marine Terminal, Espoir Marine Terminal, Port Bouet, San Pedro<br>
 
 ## Military and Security
 
@@ -736,10 +741,10 @@ the military (FACI) was established in 1960 from home defense units the French c
 ## Space
 
 **Space agency/agencies**<br>
-announced in 2021 that it was in the process of establishing a national space agency (space issues currently managed by the Ministry of Scientific Research)&nbsp; (2023)<br>
+announced in 2021 that it was in the process of establishing a national space agency (space issues currently managed by the Ministry of Scientific Research) (2024)<br>
 
 **Space program overview**<br>
-has as nascent, small program focused on acquiring a remote sensing (RS) satellite for purposes detecting illegal gold mining, facilitating access to drinking water, mapping deforestation, and national security issues (2023)<br>
+has as small, nascent program focused on acquiring a remote sensing (RS) satellite for purposes detecting illegal gold mining, facilitating access to drinking water, mapping deforestation, and national security issues (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

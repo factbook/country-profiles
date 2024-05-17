@@ -5,7 +5,7 @@ _East & Southeast Asia / Other_
 ## Introduction
 
 **Background**<br>
-First inhabited by Austronesian people, Taiwan became home to Han immigrants beginning in the late Ming Dynasty (17th century). In 1895, military defeat forced China's Qing Dynasty to cede Taiwan to Japan, which then governed Taiwan for 50 years. Taiwan came under Chinese Nationalist (Kuomintang, KMT) control after World War II. With the communist victory in the Chinese civil war in 1949, the Nationalist-controlled Republic of China government and 2 million Nationalists fled to Taiwan and continued to claim to be the legitimate government for mainland China and Taiwan based on a 1947 constitution drawn up for all of China. Until 1987, however, the Nationalist Government ruled Taiwan under a civil war martial law declaration dating to 1948. Beginning in the 1970s, Nationalist authorities gradually began to incorporate the native population into the governing structure beyond the local level. The democratization process expanded rapidly in the 1980s, leading to the then illegal founding of the Democratic Progressive Party (DPP), Taiwan&rsquo;s first opposition party, in 1986 and the lifting of martial law the following year. Taiwan held legislative elections in 1992, the first in over 40 years, and its first direct presidential election in 1996. In the 2000 presidential elections, Taiwan underwent its first peaceful transfer of power with the KMT loss to the DPP and afterwards experienced two additional democratic transfers of power in 2008 and 2016. Throughout this period, the island prospered, became one of East Asia's economic "Tigers," and after 2000 became a major investor in mainland China as cross-Strait ties matured. The dominant political issues continue to be economic reform and growth as well as management of sensitive relations between Taiwan and China.<br>
+First inhabited by Austronesian people, Taiwan became home to Han immigrants beginning in the late Ming Dynasty (17th century). In 1895, military defeat forced China's Qing Dynasty to cede Taiwan to Japan, which then governed Taiwan for 50 years. Taiwan came under Chinese Nationalist (Kuomintang, KMT) control after World War II. With the communist victory in the Chinese civil war in 1949, the Nationalist-controlled Republic of China government and 2 million Nationalists fled to Taiwan and continued to claim to be the legitimate government for mainland China and Taiwan, based on a 1947 constitution drawn up for all of China. Until 1987, however, the Nationalist Government ruled Taiwan under a civil war martial law declaration dating to 1948. Beginning in the 1970s, Nationalist authorities gradually began to incorporate the native population into the governing structure beyond the local level. <br><br>The democratization process expanded rapidly in the 1980s, leading to the then-illegal founding of the Democratic Progressive Party (DPP), Taiwan’s first opposition party, in 1986 and the lifting of martial law the following year. Taiwan held legislative elections in 1992, the first in over 40 years, and its first direct presidential election in 1996. In the 2000 presidential elections, Taiwan underwent its first peaceful transfer of power with the KMT loss to the DPP and afterwards experienced two additional democratic transfers of power in 2008 and 2016. Throughout this period, the island prospered and turned into one of East Asia's economic "Tigers," becoming a major investor in mainland China after 2000 as cross-Strait ties matured. The dominant political issues continue to be economic reform and growth, as well as management of sensitive relations between Taiwan and China.<br>
 
 ## Geography
 
@@ -386,8 +386,8 @@ electronics, communications and information technology products, petroleum refin
 33.6 (2014)<br>
 
 **Average household expenditures**<br>
-_on food_: 14.7% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
+_on food_: 13.3% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 2.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 6.4%<br>
@@ -585,10 +585,14 @@ _unpaved_: 413 km (2017)<br>
 _total_: 465 (2023)<br>
 _by type_: bulk carrier 29, container ship 53, general cargo 58, oil tanker 35, other 290<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Keelung (Chi-lung), Kaohsiung, Hualian, Taichung<br>
-_container port(s) (TEUs)_: Kaohsiung (9,864,448), Taichung (1,979,222), Taipei (2,091,132) (2021)<br>
-_LNG terminal(s) (import)_: Yung An (Kaohsiung), Taichung<br>
+**Ports**<br>
+_total ports_: 8 (2024)<br>
+_large_: 1<br>
+_medium_: 3<br>
+_small_: 2<br>
+_very small_: 2<br>
+_ports with oil terminals_: 8<br>
+_key ports_: Chi-Lung, Hua-Lien Kang, Kao-Hsiung, Su-Ao<br>
 
 ## Military and Security
 

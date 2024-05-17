@@ -108,9 +108,6 @@ a coastal radio station has been remotely operated since 1994<br>
 
 ## Transportation
 
-**Ports and terminals**<br>
-none; offshore anchorage only<br>
-
 ## Military and Security
 
 **Military - note**<br>

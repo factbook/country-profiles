@@ -689,8 +689,14 @@ _unpaved_: 9,440 km (2022)<br>
 _total_: 9 (2023)<br>
 _by type_: oil tanker 1, other 8<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Puerto Quetzal, Santo Tomas de Castilla<br>
+**Ports**<br>
+_total ports_: 3 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 2<br>
+_very small_: 1<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Puerto Barrios, Puerto Quetzal, Santo Tomas De Castilla<br>
 
 ## Military and Security
 

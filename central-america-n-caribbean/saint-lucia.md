@@ -612,8 +612,14 @@ _total_: 1,210 km<br>
 _paved_: 847 km<br>
 _unpaved_: 363 km (2011)<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Castries, Cul-de-Sac, Vieux-Fort<br>
+**Ports**<br>
+_total ports_: 3 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 2<br>
+_very small_: 1<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Castries, Grand Cul De Sac Bay, Vieux Fort<br>
 
 ## Military and Security
 

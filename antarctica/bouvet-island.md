@@ -128,9 +128,6 @@ has an automated meteorological station<br>
 
 ## Transportation
 
-**Ports and terminals**<br>
-none; offshore anchorage only<br>
-
 ## Military and Security
 
 **Military - note**<br>

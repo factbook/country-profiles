@@ -486,8 +486,8 @@ _female_: 9.4%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 41.3% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1% of household expenditures (2018 est.)<br>
+_on food_: 39.2% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 0.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.6%<br>
@@ -699,8 +699,14 @@ _urban_: 28,480 km 27% total paved 73% total unpaved<br>
 _total_: 52 (2023)<br>
 _by type_: general cargo 8, oil tanker 3, other 41<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Takoradi, Tema<br>
+**Ports**<br>
+_total ports_: 4 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 1<br>
+_very small_: 2<br>
+_ports with oil terminals_: 3<br>
+_key ports_: Saltpond, Sekondi, Takoradi, Tema<br>
 
 ## Military and Security
 
@@ -734,10 +740,10 @@ the military’s primary missions are border defense, assisting with internal se
 ## Space
 
 **Space agency/agencies**<br>
-Ghana Space Science and Technology Center (GSSTC; established 2011); note &ndash; the GSSTC is eventually slated to become the Ghana Space Agency (2023)<br>
+Ghana Space Science and Technology Center (GSSTC; established 2011); note &ndash; the GSSTC is eventually slated to become the Ghana Space Agency (2024)<br>
 
 **Space program overview**<br>
-has a small, nascent space program focused on research in space sciences and exploiting remote sensing (RS) technology for natural resource management, weather forecasting, agriculture, and national security issues; relies on foreign imagery for analysis but seeks to develop its own RS satellite capabilities; one of Africa’s leaders in satellite dish research; trains aerospace scientists and engineers; has established relations on space-related issues with China, Japan, and South Africa; cooperating with Egypt, Kenya, Nigeria, Sudan, and Uganda to establish a joint satellite to monitor climate changes in the African continent; partner of the Square Kilometer Array (SKA) international astronomy initiative (2023)<br>
+has a small, nascent space program focused on research in space sciences and exploiting remote sensing (RS) technology for natural resource management, weather forecasting, agriculture, and national security issues; relies on foreign imagery for analysis but seeks to develop its own RS satellite capabilities; one of Africa’s leaders in satellite dish research; trains aerospace scientists and engineers; has established relations on space-related issues with China, Japan, and South Africa; cooperating with Egypt, Kenya, Nigeria, Sudan, and Uganda to establish a joint satellite to monitor climate changes in the African continent; partner of the Square Kilometer Array (SKA) international astronomy initiative (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear Appendix S<br>
 
 ## Transnational Issues

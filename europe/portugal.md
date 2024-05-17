@@ -469,8 +469,8 @@ _female_: 26.2%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 16.6% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
+_on food_: 17.5% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 3.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.4%<br>
@@ -677,10 +677,14 @@ _total_: 11,217 km (2022)<br>
 _total_: 888 (2023)<br>
 _by type_: bulk carrier 110, container ship 299, general cargo 191, oil tanker 29, other 259<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Leixoes, Lisbon, Setubal, Sines<br>
-_container port(s) (TEUs)_: Sines (1,420,000) (2019)<br>
-_LNG terminal(s) (import)_: Sines<br>
+**Ports**<br>
+_total ports_: 18 (2024)<br>
+_large_: 3<br>
+_medium_: 2<br>
+_small_: 4<br>
+_very small_: 9<br>
+_ports with oil terminals_: 5<br>
+_key ports_: Aveiro, Funchal, Lagos, Lisboa, Sines<br>
 
 ## Military and Security
 

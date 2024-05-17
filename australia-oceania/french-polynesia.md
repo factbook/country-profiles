@@ -557,8 +557,14 @@ _unpaved_: 855 km (1999)<br>
 _total_: 24 (2023)<br>
 _by type_: general cargo 14<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Papeete<br>
+**Ports**<br>
+_total ports_: 6 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 5<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Atuona, Baie Taiohae, Papeete, Port Rikitea, Uturoa, Vaitape<br>
 
 ## Military and Security
 

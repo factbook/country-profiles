@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Spain's powerful world empire of the 16th and 17th centuries ultimately yielded command of the seas to England. Subsequent failure to embrace the mercantile and industrial revolutions caused the country to fall behind Britain, France, and Germany in economic and political power. Spain remained neutral in World War I and II but suffered through a devastating civil war (1936-39). A peaceful transition to democracy following the death of dictator Francisco FRANCO in 1975, and rapid economic modernization (Spain joined the EU in 1986) gave Spain a dynamic and rapidly growing economy, and made it a global champion of freedom and human rights. More recently, Spain has emerged from a severe economic recession that began in mid-2008, posting solid years of GDP growth above the EU average. Unemployment has fallen but remains high, especially among youth. Spain is the euro-zone's fourth-largest economy. The country has faced increased domestic turmoil in recent years due to the independence movement in its restive Catalonia region.</p><br>
+<p>Spain's powerful world empire of the 16th and 17th centuries ultimately yielded command of the seas to England. Subsequent failure to embrace the mercantile and industrial revolutions caused the country to fall behind Britain, France, and Germany in economic and political power. Spain remained neutral during both World Wars but suffered through a devastating civil war (1936-39). A peaceful transition to democracy after the death of dictator Francisco FRANCO in 1975 and rapid economic modernization after Spain joined the EU in 1986 gave Spain a dynamic and rapidly growing economy. After a severe recession in the wake of the global financial crisis in 2008, Spain has posted solid years of GDP growth above the EU average. Unemployment has fallen but remains high, especially among youth. Spain is the euro-zone's fourth-largest economy. The country has faced increased domestic turmoil in recent years due to the independence movement in its restive Catalonia region.</p><br>
 
 ## Geography
 
@@ -480,8 +480,8 @@ _female_: 38.2%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 12.1% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 3.5% of household expenditures (2018 est.)<br>
+_on food_: 13.1% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9%<br>
@@ -697,11 +697,15 @@ _total_: 150,110 km (2021)<br>
 _total_: 503 (2023)<br>
 _by type_: bulk carrier 1, general cargo 33, oil tanker 24, other 445<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: <br><em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, Santa Cruz de Tenerife (in the Canary Islands)<br><em>Mediterranean Sea:</em> Algeciras, Barcelona, Cartagena, Tarragona, Valencia<br>
-_container port(s) (TEUs)_: Algeciras (4,799,497), Barcelona (3,531,762), Valencia (5,604,478) (2021)<br>
-_LNG terminal(s) (import)_: Barcelona, Bilbao, Cartagena, El Musel, Huelva, Mugardos, Sagunto<br>
-_river port(s)_: Seville (Guadalquivir River)<br>
+**Ports**<br>
+_total ports_: 52 (2024)<br>
+_large_: 3<br>
+_medium_: 14<br>
+_small_: 9<br>
+_very small_: 24<br>
+_size unknown_: 2<br>
+_ports with oil terminals_: 13<br>
+_key ports_: Alicante, Barcelona, Cadiz, Ceuta, Ferrol, Huelva, Las Palmas, Malaga, Palma De Mallorca, Puerto De Bilbao, Puerto De Pasajes, Santa Cruz De Tenerife, Santander, Sevilla, Tarragona, Valencia, Vigo<br>
 
 ## Military and Security
 

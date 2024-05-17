@@ -487,8 +487,8 @@ _female_: 14.9%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 52.9% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 4.1% of household expenditures (2018 est.)<br>
+_on food_: 56.1% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 3.7% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
@@ -698,9 +698,14 @@ _unpaved_: 157,596 km (2023)<br>
 _total_: 26 (2023)<br>
 _by type_: oil tanker 4, other 22<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Kisumu, Mombasa<br>
-_LNG terminal(s) (import)_: Mombasa<br>
+**Ports**<br>
+_total ports_: 4 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 2<br>
+_very small_: 1<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Kilifi, Lamu, Malindi, Mombasa<br>
 
 ## Military and Security
 

@@ -474,8 +474,14 @@ _percent of population_: 25.1% (2021 est.)<br>
 **Roadways**<br>
 _total_: 536 km (2008)<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Saipan, Tinian, Rota<br>
+**Ports**<br>
+_total ports_: 3 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 2<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Rota, Saipan, Tinian<br>
 
 ## Military and Security
 

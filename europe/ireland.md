@@ -461,8 +461,8 @@ _female_: 18.8%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 9% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 5.8% of household expenditures (2018 est.)<br>
+_on food_: 9.2% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 5.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.7%<br>
@@ -670,11 +670,14 @@ _total_: 102,227 km (2022)<br>
 _total_: 94 (2023)<br>
 _by type_: bulk carrier 12, general cargo 32, oil tanker 1, other 49<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Dublin, Shannon Foynes<br>
-_cruise port(s)_: Cork (250,000), Dublin (359,966) (2020)<br>
-_container port(s) (TEUs)_: Dublin (529,563) (2016)<br>
-_river port(s)_: Cork (Lee), Waterford (Suir)<br>
+**Ports**<br>
+_total ports_: 21 (2024)<br>
+_large_: 1<br>
+_medium_: 3<br>
+_small_: 3<br>
+_very small_: 14<br>
+_ports with oil terminals_: 8<br>
+_key ports_: Cobh, Cork, Dublin, Foynes<br>
 
 ## Military and Security
 

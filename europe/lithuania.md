@@ -334,8 +334,8 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Gitanas NAUSEDA (since 12 July 2019)<br>
 _head of government_: Prime Minister Ingrida SIMONYTE (since 24 November 2020)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the president, approved by Parliament<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 12 and 26 May 2019 (next to be held on 12 May 2024); prime minister appointed by the president, approved by Parliament<br>
-_election results_: <em><br>2019:</em> Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%<br><br><em>2014: </em>Dalia GRYBAUSKAITE elected president; percent of vote - Dalia GRYBAUSKAITE (independent) 59.1%, Zigmantas BALCYTIS (Social Democratic Party) 40.9%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); first round of the election held on 12 May 204 (runoff to be held on 12 May 2024); prime minister appointed by the president, approved by Parliament<br>
+_election results_: <em><br>2024: </em>Gitanas NAUSEDA elected president in the first round; percent of vote -Gitanas NAUSEDA (independent) 44.5%, Ingrida SIMONYTE (independent) 20.0%, Ignas VEGELE 12.5%, Remigijus ZEMAITAITIS 9.3%, and Eduardas VAITKUS 7.4%<br><em><br>2019:</em> Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%<br><br><em>2014: </em>Dalia GRYBAUSKAITE elected president; percent of vote - Dalia GRYBAUSKAITE (independent) 59.1%, Zigmantas BALCYTIS (Social Democratic Party) 40.9%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
@@ -471,8 +471,8 @@ _female_: 19.6%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 21.2% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 5.9% of household expenditures (2018 est.)<br>
+_on food_: 21% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 5.9% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
@@ -687,10 +687,14 @@ _total_: 83,821 km (2022)<br>
 _total_: 59 (2023)<br>
 _by type_: container ship 3, general cargo 19, oil tanker 2, other 35<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Klaipeda<br>
-_oil terminal(s)_: Butinge oil terminal<br>
-_LNG terminal(s) (import)_: Klaipeda<br>
+**Ports**<br>
+_total ports_: 2 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 0<br>
+_very small_: 1<br>
+_ports with oil terminals_: 2<br>
+_key ports_: Butinge Oil Terminal, Klaipeda<br>
 
 ## Military and Security
 

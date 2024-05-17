@@ -698,11 +698,14 @@ _unpaved_: 20,213 km (2017)<br>
 _total_: 11 (2023)<br>
 _by type_: oil tanker 1, other 10<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Pointe-Noire<br>
-_oil terminal(s)_: Djeno<br>
-_river port(s)_: Brazzaville (Congo)<br>
-Impfondo (Oubangui) Ouesso (Sangha) Oyo (Alima)<br>
+**Ports**<br>
+_total ports_: 5 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 4<br>
+_ports with oil terminals_: 4<br>
+_key ports_: Djeno Terminal, Dussafu Terminal, N'kossa Terminal, Pointe Noire, Yombo Terminal<br>
 
 ## Military and Security
 

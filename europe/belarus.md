@@ -475,8 +475,8 @@ _female_: 8.4%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 32.3% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 7.2% of household expenditures (2018 est.)<br>
+_on food_: 32.1% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 7.7% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.4%<br>
@@ -694,9 +694,6 @@ _total_: 86,600 km (2017)<br>
 _total_: 4 (2023)<br>
 _by type_: other 4<br>
 
-**Ports and terminals**<br>
-_river port(s)_: Mazyr (Prypyats')<br>
-
 ## Military and Security
 
 **Military and security forces**<br>
@@ -726,10 +723,10 @@ the military of Belarus is responsible for territorial defense; it is a mixed fo
 ## Space
 
 **Space agency/agencies**<br>
-Belarus Space Agency (aka National Agency for Space Research; established 2009) (2023)<br>
+Belarus Space Agency (aka National Agency for Space Research; established 2009); National Academy of Sciences of Belarus (2024)<br>
 
 **Space program overview**<br>
-has a modest national space program focused on developing remote sensing (RS) satellites; jointly builds satellites with foreign partners; develops some space technologies and components for space equipment, including satellite payloads and associated technology, such as optics and imaging equipment; has cooperated with a variety of foreign space agencies and commercial entities, including those of Azerbaijan, China, Kazakhstan, Russia, and Ukraine; has a state-owned satellite company (2023)<br>
+has a modest national space program focused on developing remote sensing (RS) satellites; jointly builds satellites with foreign partners; develops some space technologies and components for space equipment, including satellite payloads and associated technology, such as optics and imaging equipment; has cooperated with a variety of foreign space agencies and commercial entities, including those of Azerbaijan, China, Kazakhstan, Russia, and Ukraine; has a state-owned satellite company (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

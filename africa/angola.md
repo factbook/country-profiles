@@ -477,8 +477,8 @@ _female_: 18.8%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 48.6% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 1.5% of household expenditures (2018 est.)<br>
+_on food_: 49.7% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 1.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.3%<br>
@@ -690,9 +690,14 @@ _paved_: 13,680 km (2020)<br>
 _total_: 64 (2023)<br>
 _by type_: general cargo 13, oil tanker 8, other 43<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Cabinda, Lobito, Luanda, Namibe<br>
-_LNG terminal(s) (export)_: Angola Soyo<br>
+**Ports**<br>
+_total ports_: 21 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 8<br>
+_very small_: 13<br>
+_ports with oil terminals_: 17<br>
+_key ports_: Cabinda, Estrela Oil Field, Lobito, Luanda, Malongo Oil Terminal, Namibe, Palanca Terminal, Takula Terminal<br>
 
 ## Military and Security
 
@@ -719,7 +724,7 @@ most Angolan military weapons and equipment are of Russian or of Soviet-era orig
 in 2023, Angola agreed to send 500 troops to the Democratic Republic of the Congo (DRC) for 12 months to oversee cantonment of a rebel group known as M23 (2023)<br>
 
 **Military - note**<br>
-the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA); the current force is responsible for country&rsquo;s external defense but also has some domestic security responsibilities, including border protection, expulsion of irregular migrants, and small-scale counterinsurgency operations against groups like the Front for the Liberation of the Enclave of Cabinda separatists in Cabinda; the Army and Air Force are some of the largest and better equipped forces in the region; a significant portion of the Army's core combat forces--six infantry divisions--are motorized and supported by approximately 300 Soviet-era tanks, while the Air Force has a fleet of approximately 100 combat aircraft, plus a substantial inventory of transport aircraft and helicopter gunships; while naval modernization has received more attention in recent years, the Navy remains a small force of fast attack and coastal patrol craft (2023)<br>
+the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA); the current force is responsible for country&rsquo;s external defense but also has some domestic security responsibilities, including border protection, expulsion of irregular migrants, and small-scale counterinsurgency operations against separatist groups; the Army and Air Force are some of the largest and better equipped forces in the region; a significant portion of the Army's core combat forces--six infantry divisions--are motorized and supported by hundreds of Soviet-era tanks, while the Air Force has a fleet of approximately 100 combat aircraft, plus a substantial inventory of transport aircraft and helicopter gunships; while naval modernization has received more attention in recent years, the Navy remains a small force of fast attack and coastal patrol craft (2023)<br>
 
 ## Space
 

@@ -476,8 +476,8 @@ _female_: 11.8%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 8.1% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
+_on food_: 8.7% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3%<br>
@@ -697,11 +697,15 @@ _total_: 868 (2023)<br>
 _by type_: bulk carrier 34, container ship 46, general cargo 62, oil tanker 13, other 713<br>
 <strong> note: </strong>includes Channel Islands (total fleet 2; general cargo 1, other 1); excludes Isle of Man<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Dover, Felixstowe, Immingham, Liverpool, London, Southampton, Teesport (England); Forth Ports (Scotland); Milford Haven (Wales)<br>
-_oil terminal(s)_: Fawley Marine terminal, Liverpool Bay terminal (England); Braefoot Bay terminal, Finnart oil terminal, Hound Point terminal (Scotland)<br>
-_container port(s) (TEUs)_: Felixstowe (3,700,000), London (3,111,000), Southampton (1,871,081) (2021)<br>
-_LNG terminal(s) (import)_: Dragon, Isle of Grain, South Hook, Teesside<br>
+**Ports**<br>
+_total ports_: 185 (2024)<br>
+_large_: 7<br>
+_medium_: 24<br>
+_small_: 67<br>
+_very small_: 86<br>
+_size unknown_: 1<br>
+_ports with oil terminals_: 67<br>
+_key ports_: Aberdeen, Barrow In Furness, Barry, Belfast, Blyth, Bristol, Cardiff, Dundee, Falmouth Harbour, Glasgow, Greenock, Grimsby, Immingham, Kingston Upon Hull, Leith, Lerwick, Liverpool, London, Londonderry, Lyness, Manchester, Milford Haven, Newport, Peterhead, Plymouth, Portland Harbour, Portsmouth Harbour, Southampton, Sunderland, Teesport, Tynemouth<br>
 
 **Transportation - note**<br>
 begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe<br>

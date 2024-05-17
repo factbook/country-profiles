@@ -433,8 +433,14 @@ _paved_: 1,107 km<br>
 _total_: 269 (2023)<br>
 _by type_: bulk carrier 102, container ship 6, general cargo 27, oil tanker 56, other 78<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Douglas, Ramsey<br>
+**Ports**<br>
+_total ports_: 2 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 2<br>
+_very small_: 0<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Douglas, Ramsey<br>
 
 ## Military and Security
 

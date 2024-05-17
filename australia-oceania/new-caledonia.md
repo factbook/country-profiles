@@ -556,8 +556,14 @@ _total_: 5,622 km (2006)<br>
 _total_: 23 (2023)<br>
 _by type_: general cargo 5, oil tanker 1, other 17<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Noumea<br>
+**Ports**<br>
+_total ports_: 3 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 1<br>
+_very small_: 2<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Baie De Kouaoua, Baie Ugue, Noumea<br>
 
 ## Military and Security
 

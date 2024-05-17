@@ -159,8 +159,14 @@ American Armed Forces Radio and Television Service (AFRTS) provides satellite ra
 **Airports**<br>
 1 (2024)<br>
 
-**Ports and terminals**<br>
-none; two offshore anchorages for large ships<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 1<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Wake Island<br>
 
 **Transportation - note**<br>
 there are no commercial or civilian flights to and from Wake Island, except in direct support of island missions; emergency landing is available<br>

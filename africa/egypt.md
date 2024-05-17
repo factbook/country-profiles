@@ -493,8 +493,8 @@ _female_: 59.5%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 33.3% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 4.7% of household expenditures (2018 est.)<br>
+_on food_: 37.6% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 4.7% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8%<br>
@@ -715,12 +715,15 @@ _unpaved_: 17,050 km (2019)<br>
 _total_: 441 (2023)<br>
 _by type_: bulk carrier 14, container ship 6, general cargo 23, oil tanker 42, other 356<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said<br>
-_oil terminal(s)_: Ain Sukhna terminal, Sidi Kerir terminal<br>
-_container port(s) (TEUs)_: Port Said (East) (4,764,583) (2021)<br>
-_LNG terminal(s) (export)_: Damietta, Idku (Abu Qir Bay), Sumed<br>
-Gulf of Suez - Suez<br>
+**Ports**<br>
+_total ports_: 31 (2024)<br>
+_large_: 5<br>
+_medium_: 1<br>
+_small_: 8<br>
+_very small_: 16<br>
+_size unknown_: 1<br>
+_ports with oil terminals_: 17<br>
+_key ports_: Ain Sukhna Terminal, Al Iskandariyh (Alexandria), As Suways, Bur Sa'id, Damietta, Ras Shukhier<br>
 
 ## Military and Security
 
@@ -754,10 +757,10 @@ the Egyptian Armed Forces (EAF) are responsible for external defense but also ha
 ## Space
 
 **Space agency/agencies**<br>
-Egyptian Space Agency (EgSA; public economic authority established 2019); National Authority for Remote Sensing and Space Science (NARSS; formed in 1994 from the Remote Sensing Center, which was established in 1971) (2023)<br>
+Egyptian Space Agency (EgSA; public economic authority established 2019); National Authority for Remote Sensing and Space Science (NARSS; formed in 1994 from the Remote Sensing Center, which was established in 1971) (2024)<br>
 
 **Space program overview**<br>
-has a growing program with a focus on developing the capabilities to manufacture satellites and associated support infrastructure; seeks to become a regional space power; operates satellites; builds satellites jointly with foreign partners but developing localized satellite manufacturing capabilities; acquiring through technology transfers and domestic development programs other space-related technologies, including those related to communications, Earth imaging/remote sensing (RS), and satellite payloads and components; cooperating on space-related issues with a variety of foreign governments and commercial space companies, including those of Belarus, Canada, China, the European Space Agency and its member states (particularly France, Germany, Italy), Ghana, India, Japan, Kazakhstan, Kenya, Nigeria, Russia, South Africa, Sudan, Uganda, Ukraine, the UAE, and the US; also a member of the Arab Space Coordination Group, established by the UAE in 2019; has a commercial space sector that focuses on satellite communications, satellite design and production, RS, and space applications (2023)<br>
+has a growing program with a focus on developing the capabilities to manufacture satellites and associated support infrastructure; seeks to become a regional space power; operates satellites; builds satellites jointly with foreign partners but developing localized satellite manufacturing capabilities; acquiring through technology transfers and domestic development programs other space-related technologies, including those related to communications, Earth imaging/remote sensing (RS), and satellite payloads and components; cooperating on space-related issues with a variety of foreign governments and commercial space companies, including those of Belarus, Canada, China, the European Space Agency and its member states (particularly France, Germany, Italy), Ghana, India, Japan, Kazakhstan, Kenya, Nigeria, Russia, South Africa, Sudan, Uganda, Ukraine, the UAE, and the US; also a member of the Arab Space Coordination Group, established by the UAE in 2019; has a commercial space sector that focuses on satellite communications, satellite design and production, RS, and space applications (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

@@ -5,7 +5,7 @@ _Europe / Dependencies (Norway)_
 ## Introduction
 
 **Background**<br>
-The archipelago may have been first discovered by Norse explorers in the 12th century; the islands served as an international whaling base during the 17th and 18th centuries. Norway's sovereignty was internationally recognized by treaty in 1920, and five years later it officially took over the territory. In the 20th century, coal mining started and today a Norwegian and a Russian company are still functioning. Travel between the settlements is accomplished with snowmobiles, aircraft, and boats.<br>
+Norse explorers may have first discovered the Svalbard archipelago in the 12th century. The islands served as an international whaling base during the 17th and 18th centuries. Norway's sovereignty was internationally recognized by treaty in 1920, and five years later Norway officially took over the territory. Coal mining started in the 20th century, and a Norwegian company and a Russian company are still in operation today. Travel between the settlements is accomplished with snowmobiles, aircraft, and boats.<br>
 
 ## Geography
 
@@ -202,8 +202,14 @@ the Norwegian Broadcasting Corporation (NRK) began direct TV transmission to Sva
 **Roadways**<br>
 _total_: 40 km (2020)<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Barentsburg, Longyearbyen, Ny-Alesund, Pyramiden<br>
+**Ports**<br>
+_total ports_: 3 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 3<br>
+_ports with oil terminals_: 0<br>
+_key ports_: Barentsburg, Longyearbyen, Ny Alesund<br>
 
 ## Military and Security
 

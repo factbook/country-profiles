@@ -649,8 +649,14 @@ _unpaved_: 3,196 km (2019)<br>
 _total_: 80 (2023)<br>
 _by type_: general cargo 45, oil tanker 10, other 25<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Georgetown<br>
+**Ports**<br>
+_total ports_: 3 (2024)<br>
+_large_: 0<br>
+_medium_: 1<br>
+_small_: 0<br>
+_very small_: 2<br>
+_ports with oil terminals_: 3<br>
+_key ports_: Georgetown, Linden, New Amsterdam<br>
 
 ## Military and Security
 

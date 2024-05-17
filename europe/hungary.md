@@ -483,8 +483,8 @@ _female_: 16.2%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 18.2% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 7.3% of household expenditures (2018 est.)<br>
+_on food_: 18% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 7.7% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.1%<br>
@@ -698,9 +698,6 @@ _total_: 216,443 km (2022)<br>
 **Merchant marine**<br>
 _total_: 1 (2023)<br>
 _by type_: other 1<br>
-
-**Ports and terminals**<br>
-_river port(s)_: Baja, Csepel (Budapest), Dunaujvaros, Gyor-Gonyu, Mohacs (Danube)<br>
 
 ## Military and Security
 

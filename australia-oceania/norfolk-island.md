@@ -264,8 +264,14 @@ _total_: 80 km<br>
 _paved_: 53 km<br>
 _unpaved_: 27 km (2008)<br>
 
-**Ports and terminals**<br>
-_major seaport(s)_: Kingston<br>
+**Ports**<br>
+_total ports_: 1 (2024)<br>
+_large_: 0<br>
+_medium_: 0<br>
+_small_: 0<br>
+_very small_: 1<br>
+_ports with oil terminals_: 1<br>
+_key ports_: Kingston<br>
 
 ## Military and Security
 
