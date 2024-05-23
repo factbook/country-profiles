@@ -507,9 +507,6 @@ _expenditures_: $6.452 billion (2019 est.)<br>
 16.36% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$7.582 billion (2022 est.)<br>
 -$10.893 billion (2021 est.)<br>
@@ -629,12 +626,12 @@ _Total energy consumption per capita 2019_: 13.629 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 38,284 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_total subscriptions_: 38,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 19,899,790 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 120 (2021 est.)<br>
+_total subscriptions_: 19.505 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 116 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Cambodia&rsquo;s mobile-dominated telecoms sector spent much of 2020 battling two major challenges: the global pandemic, and the government&rsquo;s retraction of trial licenses for the rollout of 5G; citing concerns about waste and inefficiency occurring if each operator built a separate 5G infrastructure in order to maximize their own network&rsquo;s coverage (and, presumably, to capture greater market share), the regulator withdrew the licenses that the operators had been using for their 5G trials; this was despite all of the operators having already announced a successful completion of their trials; more than a year later, the market is still waiting on the government to release its 5G policy and roadmap, along with the allocation of spectrum and approvals to permit commercial operation; there is little expectation of any further progress happening before the start of 2022; the mobile network operators have maintained their focus and investment strategies on upgrading and expanding their existing LTE networks around the country, and to 5G-enable their base stations; when the 5G market eventually arrives, the underlying infrastructure will at least be ready to support a rapid adoption of the higher-value applications and services; the mobile market fell back slightly during 2020 and 2021 (in terms of total subscriber numbers) as the Covid-19 crisis wore on, but it remains in relatively good health as mobile users increased their data usage over the period; the mobile broadband market experienced a small but very rare contraction in 2020, although rates were already very high in this area; there is likely to be a quick rebound to previous levels once economic conditions stabilize, followed by a modest rates of growth over the next five years; the number of fixed telephony lines in service continues to fall sharply as customers migrate to mobile platforms for both voice and data; the lack of any widespread fixed-line infrastructure has had a flow-on effect in the fixed-line broadband market, a sector that also remains largely under-developed (2021)<br>

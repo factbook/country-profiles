@@ -500,9 +500,6 @@ _expenditures_: $12.269 billion (2019 est.)<br>
 21.42% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$1.231 billion (2022 est.)<br>
 -$1.002 billion (2021 est.)<br>
@@ -619,12 +616,12 @@ _Total energy consumption per capita 2019_: 76.329 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 265,944 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 22 (2021 est.)<br>
+_total subscriptions_: 266,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 20 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,980,838 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 149 (2021 est.)<br>
+_total subscriptions_: 2.056 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 155 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the competitive telecom market continues to progress with a range of regulatory measures which have enabled alternative operators to chip away at the fixed-line market share; fixed-line infrastructure upgrades have been focused on fiber, and the legacy DSL network has gradually been replaced; limited commercial 5G deployments have been made though an expansion of service availability awaits the delayed auction of spectrum in the 3.5GHz band, which is expected to be held later in 2021 (2021)<br>

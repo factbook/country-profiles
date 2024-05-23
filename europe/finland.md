@@ -508,9 +508,6 @@ _expenditures_: $153.635 billion (2020 est.)<br>
 20.65% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$7.318 billion (2022 est.)<br>
 $1.222 billion (2021 est.)<br>
@@ -636,11 +633,11 @@ _Total energy consumption per capita 2019_: 216.571 million Btu/person (2019 est
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 186,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.15 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 129 (2021 est.)<br>
+_total subscriptions_: 7.13 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 129 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Finland&rsquo;s telecom market is among the more progressive in Europe, with operators having been at the forefront in deploying technologies and with the regulator being among the first to auction spectrum for 5G use; these efforts have been supported by the government which is working towards its target of providing a broadband service of at least 100Mb/s by 2025; 5G services were available to more than 40% of the population by early 2021, and take-up among subscribers has been strong although most will remain with LTE in the short term; the country enjoys one of the highest broadband and mobile subscription rates in the region, with customers able to make use of the latest iterations of technologies including DOCSIS3.1, LTE-A, 5G, and GPON fiber infrastructure; Finland has emerged as one of the pioneers in 5G; the auction of spectrum in the 700MHz and 3.5GHh bands has enabled network operators to extend the availability of LTE services nationally and to prepare for 5G services; Spectrum in the 2.5GHz band was auctioned in mid-2020 and has since enabled the MNOs to widen their 5G footprint considerably; there is an ongoing shift away from DSL to fiber and mobile networks (2021)<br>

@@ -524,9 +524,6 @@ _expenditures_: $3.467 billion (2018 est.)<br>
 14.16% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$1.469 billion (2021 est.)<br>
 -$379.683 million (2020 est.)<br>
@@ -644,12 +641,12 @@ _Total energy consumption per capita 2019_: 4.396 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 306,900 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
+_total subscriptions_: 307,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21,882,251 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
+_total subscriptions_: 25.869 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 114 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Mali&rsquo;s telecom systems are challenged by recent conflict, geography, areas of low population, poverty, security issues, and high illiteracy; telecom infrastructure is barely adequate in urban areas and not available in most of the country with underinvestment in fixed-line networks; high mobile penetration and potential for mobile broadband service; local plans for IXP; dependent on neighboring countries for international bandwidth and access to submarine cables (2022)<br>

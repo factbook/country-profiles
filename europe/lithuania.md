@@ -502,9 +502,6 @@ _expenditures_: $18.491 billion (2019 est.)<br>
 21.27% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$3.874 billion (2022 est.)<br>
 $766.788 million (2021 est.)<br>
@@ -629,12 +626,12 @@ _Total energy consumption per capita 2019_: 101.651 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 249,573 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 10 (2021 est.)<br>
+_total subscriptions_: 250,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,726,653 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 134 (2021 est.)<br>
+_total subscriptions_: 3.826 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 139 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Lithuania&rsquo;s small telecoms market is among the more advanced in Europe, particularly given the universal access to LTE infrastructure and the extensive fiber footprint; investment has been focused on fiber broadband and mobile network upgrades; SIM card penetration is relatively high for the region, with a growing proportion of subscribers being on higher-Average Revenue Per User (ARPU) contract plans; while LTE services are available nationally, operators have made steady investments in 5G; the regulator has helped the network operators to develop 5G by allowing them to repurpose spectrum in the 2.1GHz and 2.4GHz bands; the regulator in mid-2022 completed auctions of spectrum in the 700MHz and 3.4GHz bands; service obligations on the licensees include the provision of services to the five main cities by the end of 2023 (2023)<br>
@@ -724,15 +721,6 @@ the military's inventory is a mix of Soviet-era and more modern European and US 
 
 **Military - note**<br>
 the Lithuanian Armed Forces are responsible for the defense of the country’s interests, sovereignty, and territory, fulfilling Lithuania’s commitments to NATO and European security, and contributing to UN international peacekeeping efforts; Russia is Lithuania’s primary security focus, which has only increased since the Russian seizure of Crimea in 2014 and subsequent full-scale attack on Ukraine in 2022; Lithuania has been a member of NATO since 2004 and is reliant on the Alliance as the country’s security guarantor; it is actively engaged in both NATO and EU security, as well as bilaterally with allies such as the other Baltic States, Germany, Poland, the UK, Ukraine, and the US; the Lithuanian military has participated in NATO and EU missions abroad and regularly conducts training and exercises with NATO and EU partner forces; it hosts NATO forces, is a member of the UK-led Joint Expeditionary Force, and contributes troops to a multinational brigade with Poland and Ukraine; Lithuania participated in its first UN peacekeeping mission in 1994<br><br>the Land Forces form the backbone of the country’s defense force; the active Land Forces comprise a mechanized infantry brigade and a motorized infantry brigade; they are supplemented by the part-time National Defense Volunteer Forces, which are organized into six district-based territorial units; since 2017, Lithuania has hosted a German-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative<br><br>Lithuania has no combat aircraft but has a ground air defense unit, and NATO has provided air protection for Lithuania since 2004 through its Baltic Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on four-month rotations; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base; Lithuania’s Naval Forces have small patrol vessel and mine warfare squadrons; the Special Operations Forces have air, ground, and naval units for missions such as counterterrorism, direct action, hostage rescue, military assistance, and reconnaissance (2024)<br>
-
-## Space
-
-**Space agency/agencies**<br>
-Lithuanian Space Office (established 2019; operates under the Agency for Science, Innovation and Technology and focuses on developing links between Lithuanian space business, science, and public sectors, as well as the international space community); Lithuanian Space Association (established 2009; is an association of public and state-funded scientific and technology research institutes and private businesses behind much of Lithuania&rsquo;s space program, including satellite development and ties to international space programs) (2023)<br>
-
-**Space program overview**<br>
-has a small but growing space program; operates satellites; manufactures small satellites; conducts research and development of other space-related capabilities, including in propulsion system components, infrared-based technologies, remote sensing applications, opto-electronics, and radio frequency systems, as well as those related to astronomy (has one of the oldest observatories in Europe located in Vilnius) and space applications for life and physical sciences; participates in international space programs; associate member of the European Space Agency (ESA); has cooperated with space agencies and industries of China, India, Russia, Ukraine, and the US, as well as individual ESA/EU member states; has a small commercial space sector that participates in space supply chains and small satellite production (2023)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
 

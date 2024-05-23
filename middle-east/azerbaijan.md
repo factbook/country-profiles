@@ -501,9 +501,6 @@ _expenditures_: $16.001 billion (2019 est.)<br>
 13.42% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $23.478 billion (2022 est.)<br>
 $8.203 billion (2021 est.)<br>
@@ -620,12 +617,12 @@ _Total energy consumption per capita 2019_: 64.416 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,641,150 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 16 (2021 est.)<br>
+_total subscriptions_: 1.641 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,817,071 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 105 (2021 est.)<br>
+_total subscriptions_: 11.068 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 107 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: in spite of the telecom sector being one of the major contributors to Azerbaijan&rsquo;s non-oil GDP, overall development, growth, and investment in the sector has been held back by years of political and civil unrest coupled with endemic corruption; mobile penetration rates reached 100% as far back as 2011 but have largely stagnated since then; the Mobile Network Operators (MNOs) are slowly extending the reach of their LTE networks around the country, and this increased coverage (along with access to faster data-based services) is expected to produce a moderate resurgence for both mobile and mobile broadband over the next few years as customers migrate from 3G to 4G. 5G services are still some ways off, as the demand for high-speed data and fast broadband can easily be met by existing capacity on LTE networks; fixed-line teledensity continues to drop down each year as customers consolidate their telecommunications services around the mobile platform; the rate of decline is comparatively slower than other countries, since Azerbaijan has a relatively high proportion of (87%) of fixed-line broadband customers still on DSL; fiber is gradually being rolled out in urban areas, and this makes up the bulk of the growth being seen in the overall fixed broadband market; DSL&rsquo;s predominance, however, will serve to keep Azerbaijan&rsquo;s average access speeds in the sub-10Mbps range for the foreseeable future (2020)<br>

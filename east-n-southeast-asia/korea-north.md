@@ -426,9 +426,6 @@ _expenditures_: $3.3 billion (2007 est.)<br>
 **Budget surplus (+) or deficit (-)**<br>
 -0.4% (of GDP) (2007 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Exports**<br>
 $222 million (2018)<br>
 $4.582 billion (2017 est.)<br>
@@ -622,13 +619,13 @@ North Korea is one of the most militarized countries in the World, and the Korea
 ## Space
 
 **Space agency/agencies**<br>
-National Aerospace Development Administration (NADA; established 2013); predecessor organization, Korean Committee of Space Technology (KCST; established 1980s); State Space Development Bureau; Academy of Defense Science; Ministry of People&rsquo;s Armed Forces (2023)<br>
+National Aerospace Development Administration (NADA; established 2013); predecessor organization, Korean Committee of Space Technology (KCST; established 1980s); State Space Development Bureau; Academy of Defense Science; Ministry of People&rsquo;s Armed Forces (2024)<br>
 
 **Space launch site(s)**<br>
-Sohae Satellite Launching Station (aka Tongch'ang-dong Space Launch Center; North Pyongan province); Tonghae Satellite Launching Ground (North Hamgyong province) (2023)<br>
+Sohae Satellite Launching Station (aka Tongch'ang-dong Space Launch Center; North Pyongan province); Tonghae Satellite Launching Ground (North Hamgyong province) (2024)<br>
 
 **Space program overview**<br>
-North Korea’s leader has emphasized the development of space capabilities, particularly space launch vehicles (SLVs) and remote sensing (RS) satellites; manufactures small satellites; manufactures and launches rockets/SLVs; note – the SLV program is closely related to North Korea’s development of intercontinental ballistic missiles (2023)<br>
+North Korea’s leader has emphasized the development of space capabilities, particularly space launch vehicles (SLVs) and remote sensing (RS) satellites; manufactures small satellites; manufactures and launches rockets/SLVs; note – the SLV program is closely related to North Korea’s development of intercontinental ballistic missiles (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

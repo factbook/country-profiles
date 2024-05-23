@@ -398,9 +398,6 @@ _expenditures_: $1.833 billion (2011)<br>
 **Taxes and other revenues**<br>
 39.4% (of GDP) (2012)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $411.963 million (2016 est.)<br>
 $291.182 million (2015 est.)<br>
@@ -510,12 +507,12 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 138,658 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 36 (2021 est.)<br>
+_total subscriptions_: 139,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 45 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 322,918 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 106 (2021 est.)<br>
+_total subscriptions_: 328,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 107 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: French Polynesia has one of the most advanced telecoms infrastructures in the Pacific Islands region; the remoteness of the territory with its scattering of 130 islands and atolls has made connectivity vital for its inhabitants; the first submarine cable was deployed in 2010 and since then additional cables have been connected to the islands, vastly improving French Polynesia&rsquo;s international connectivity; an additional domestic submarine cable, the Natitua Sud, will connect more remote islands by the end of 2022; French Polynesia is also a hub for satellite communications in the region; a considerable number of consumers access FttP-based services; with the first data center in French Polynesia on the cards, the quality and price of broadband services is expected to improve as content will be able to be cached locally, reducing costs for consumers; for 2022, fixed broadband subscriptions reached an estimated 22%; about 43% of the territory&rsquo;s mobile connections are on 3G networks, while LTE accounts for 12%; by 2025, LTE is expected to account for more than half of all connections; it is also estimated that 77% of mobile subscribers will have smart phones by 2025 (2022)<br>

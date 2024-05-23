@@ -449,9 +449,6 @@ _expenditures_: $2.535 billion (2018 est.)<br>
 5.44% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$738 million (2017 est.)<br>
 -$1.457 billion (2016 est.)<br>
@@ -568,12 +565,12 @@ _Total energy consumption per capita 2019_: 57.596 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 11,389 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_total subscriptions_: 11,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 650,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 39 (2021 est.)<br>
+_total subscriptions_: 893,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 53 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom service is forecasted to register a growth of more than 6% during the period of 2022-2026; mobile data is the largest contributor to total service revenue in 2021, followed by mobile voice, fixed broadband, mobile messaging, and fixed voice; the launch of the international submarine cable ACE, which connects 13 West African countries with Europe, will improve international capacity, bringing opportunities to data center providers; 4G network expansion and 4G service promotion will allow consumers and businesses to leverage 4G services (2022)<br>

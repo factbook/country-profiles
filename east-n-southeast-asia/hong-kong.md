@@ -433,9 +433,6 @@ _expenditures_: $105.849 billion (2020 est.)<br>
 **Taxes and other revenues**<br>
 23.2% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Current account balance**<br>
 $37.909 billion (2022 est.)<br>
 $43.659 billion (2021 est.)<br>
@@ -552,12 +549,12 @@ _Total energy consumption per capita 2019_: 172.009 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,673,290 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 51 (2021 est.)<br>
+_total subscriptions_: 3.673 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 49 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 23,939,650 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 319 (2021 est.)<br>
+_total subscriptions_: 21.861 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 292 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Hong Kong&rsquo;s telecommunications sector continues to stay near the top of world rankings for the industry; it has kept its #1 spot in the Asian region in terms of the maturity of its telecom market &ndash; a reflection of the high penetration rates across mobile, mobile broadband, and fixed broadband; even fixed-line teledensity in Hong Kong is impressive at over 50%, although it too has started a gradual decline in keeping with most other telecom markets around the world, as consumers slowly transition over to the mobile platform for all of their communication needs (2022)<br>

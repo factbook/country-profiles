@@ -504,9 +504,6 @@ _expenditures_: $10.373 billion (2019 est.)<br>
 11.61% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $1.243 billion (2022 est.)<br>
 $1.89 billion (2021 est.)<br>
@@ -626,12 +623,12 @@ _Total energy consumption per capita 2019_: 19.411 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,917,670 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
+_total subscriptions_: 1.918 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 22,124,839 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 126 (2021 est.)<br>
+_total subscriptions_: 20.553 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 115 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Guatemala&rsquo;s telecom infrastructure has suffered from years of under investment from state and provincial government; the poor state of fixed-line infrastructure has led to Guatemala having one of the lowest fixed-line teledensities in the region; in many rural regions of the country there is no fixed-line access available, and so mobile services are adopted by necessity; private investment has been supported by government and regulatory efforts, resulting in a steady growth in the number of fixed lines which has supported growth in the fixed broadband segment; delays in launching LTE services left the country lagging behind in the development of mobile broadband and the benefits which it can bring to the country's social and economic growth; two new submarine cables are due for completion by 2022; improved international connectivity should drive further uptake of both fixed and mobile broadband services; intense competition among the networks has helped to improve services and lower prices for end-users; given the commercial impetus of networks, insufficient government financial investment has resulted in many regional areas remaining with poor or non-existent services; the country benefits from one of the most open regulatory frameworks, with all telecom sectors having been open to competition since 1996; mobile subscriptions are on par with the regional average, though the slower growth in the mobile subscriber base suggests a level of market saturation, with the emphasis among networks being on generating revenue via mobile data services (2021)<br>
@@ -696,7 +693,7 @@ _medium_: 0<br>
 _small_: 2<br>
 _very small_: 1<br>
 _ports with oil terminals_: 2<br>
-_key ports_: Puerto Barrios, Puerto Quetzal, Santo Tomas De Castilla<br>
+_key ports_: Puerto Barrios, Puerto Quetzal, Santo Tomas de Castilla<br>
 
 ## Military and Security
 

@@ -502,9 +502,6 @@ _expenditures_: $1.21 billion (2020 est.)<br>
 32.05% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Current account balance**<br>
 -$177.918 million (2022 est.)<br>
 -$106.817 million (2021 est.)<br>
@@ -624,12 +621,12 @@ _Total energy consumption per capita 2019_: 7.823 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6,744 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_total subscriptions_: 7,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,821,374 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 80 (2021 est.)<br>
+_total subscriptions_: 1.557 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 68 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: until late 2020, Lesotho&rsquo;s telecom regulator maintained a market duopoly which is focused on fixed-line services; competition was insufficient to promote effective price reductions for consumers, while the regulator had no mechanisms in place to monitor the telcos to ensure quality of service and fair pricing for consumers; the small size of the country&rsquo;s population provided little incentive for new players to enter the market; a positive outcome for consumers was the deployment in early 2021 of a service to monitor traffic and billing; this ended the practice whereby the regulator was dependent on telcos submitting data about their performance, billing, and other matters; the regulator has also turned its attention to addressing multiple SIM ownership and stemming incidences of crimes committed using unregistered SIMs; in May 2022, it instructed the country&rsquo;s Mobile Network Operators to begin registering SIM cards on their networks from the following month; fixed-wireless 5G trials began in early 2019 (2022)<br>

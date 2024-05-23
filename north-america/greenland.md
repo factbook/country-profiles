@@ -402,9 +402,6 @@ _expenditures_: $1.594 billion (2016 est.)<br>
 **Taxes and other revenues**<br>
 77.4% (of GDP) (2016 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Exports**<br>
 $1.147 billion (2021 est.)<br>
 $1.108 billion (2020 est.)<br>
@@ -506,11 +503,11 @@ _from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6,352 (2020 est.)<br>
+_total subscriptions_: 6,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 66,605 (2021 est.)<br>
+_total subscriptions_: 67,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 118 (2021 est.)<br>
 
 **Telecommunication systems**<br>

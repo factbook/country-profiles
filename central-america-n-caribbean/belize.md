@@ -347,8 +347,7 @@ _chancery_: 2535 Massachusetts Avenue NW, Washington, DC 20008-2826<br>
 _telephone_: [1] (202) 332-9636<br>
 _FAX_: [1] (202) 332-6888<br>
 _email address and website_: <br>reception.usa@mfa.gov.bz<br><br>https://www.belizeembassyusa.mfa.gov.bz/<br>
-_consulate(s) general_: Los Angeles, New York (consular services temporarily suspended beginning 18 December 2020)<br>
-_consulate(s)_: Miami<br>
+_consulate(s) general_: Chicago, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Michelle KWAN (since 5 December 2022)<br>
@@ -476,9 +475,6 @@ _expenditures_: $656 million (2019 est.)<br>
 **Taxes and other revenues**<br>
 21.34% (of GDP) (2017 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
-
-**Fiscal year**<br>
-1 April - 31 March<br>
 
 **Current account balance**<br>
 -$234.493 million (2022 est.)<br>

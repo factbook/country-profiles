@@ -319,7 +319,7 @@ _chancery_: 600 New Hampshire Ave NW, Suite 530, Washington, DC 20037<br>
 _telephone_: [1] (202) 319-2660<br>
 _FAX_: [1] (202) 319-2668<br>
 _email address and website_: <br>embassy@bahamasembdc.org<br><br>https://www.bahamasembdc.org/<br>
-_consulate(s) general_: Atlanta, Miami, New York, Washington, DC<br>
+_consulate(s) general_: Atlanta, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Usha E. PITTS (since 1 January 2021)<br>
@@ -441,9 +441,6 @@ _expenditures_: $2.899 billion (2020 est.)<br>
 16.73% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 July - 30 June<br>
-
 **Current account balance**<br>
 -$1.763 billion (2022 est.)<br>
 -$2.434 billion (2021 est.)<br>
@@ -560,12 +557,12 @@ _Total energy consumption per capita 2019_: 140.505 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 86,484 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 22 (2020 est.)<br>
+_total subscriptions_: 86,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 21 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 466,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 115 (2020 est.)<br>
+_total subscriptions_: 404,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the two local providers ensure&nbsp; good telecoms coverage across the archipelago; fiber-to-home investments have been prioritized with 5G adoption pending (2023)<br>

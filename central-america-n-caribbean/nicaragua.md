@@ -489,9 +489,6 @@ _expenditures_: $3.511 billion (2019 est.)<br>
 19.81% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$215.895 million (2022 est.)<br>
 -$438.479 million (2021 est.)<br>
@@ -611,12 +608,12 @@ _Total energy consumption per capita 2019_: 14.916 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 215,729 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2021 est.)<br>
+_total subscriptions_: 216,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,233,864 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 91 (2021 est.)<br>
+_total subscriptions_: 6.652 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 97 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Nicaragua&rsquo;s telecoms market has mirrored the country&rsquo;s poor economic achievements, with fixed-line teledensity and mobile penetration also being the lowest in Central America; the fixed line broadband market remains nascent, with population penetration below 4%; most internet users are concentrated in the largest cities, given that rural and marginal areas lack access to the most basic telecom infrastructure; internet caf&eacute;s provide public access to internet and email services, but these also tend to be restricted to the larger population centers; to address poor infrastructure, the World Bank has funded a project aimed at improving connectivity via a national fiber broadband network; there are separate schemes to improve broadband in eastern regions and provide links to Caribbean submarine cables; the number of mobile subscribers overtook the number of fixed lines in early 2002, and the mobile sector now accounts for most lines in service (2021)<br>
@@ -701,10 +698,10 @@ the military is responsible for defending Nicaragua’s independence, sovereignt
 ## Space
 
 **Space agency/agencies**<br>
-National Secretariat for Extraterrestrial Space Affairs, The Moon and Other Celestial Bodies (Secretar&iacute;a Nacional para Asuntos del Espacio Ultraterrestre, la Luna y otros Cuerpos Celestes, established 2021; operates under the military&rsquo;s control) (2023)<br>
+National Secretariat for Extraterrestrial Space Affairs, The Moon and Other Celestial Bodies (Secretar&iacute;a Nacional para Asuntos del Espacio Ultraterrestre, la Luna y otros Cuerpos Celestes, established 2021; operates under the military&rsquo;s control) (2024)<br>
 
 **Space program overview**<br>
-stated mission of the space agency is to promote the development of space activities with the aim of broadening the country’s capacities in the fields of education, industry, science, and technology; has cooperated with China and Russia; is a signatory of the convention establishing the Latin American and Caribbean Space Agency (ALCE) (2023)<br>
+stated mission of the space agency is to promote the development of space activities with the aim of broadening the country’s capacities in the fields of education, industry, science, and technology; has cooperated with China and Russia; is a signatory of the convention establishing the Latin American and Caribbean Space Agency (ALCE) (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

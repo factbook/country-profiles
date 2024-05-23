@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The island of Timor was actively involved in Southeast Asian trading networks for centuries, and by the 14th century exported aromatic sandalwood, slaves, honey, and wax. A number of local chiefdoms ruled the island in the early 16th century when Portuguese traders arrived, chiefly attracted by the relative abundance of sandalwood on Timor; by mid-century, the Portuguese had colonized the island. Skirmishing with the Dutch in the region eventually resulted in an 1859 treaty in which Portugal ceded the western portion of the island. Imperial Japan occupied Portuguese Timor from 1942 to 1945, but Portugal resumed colonial authority after the Japanese defeat in World War II. East Timor declared itself independent from Portugal on 28 November 1975 and was invaded and occupied by Indonesian forces nine days later. It was incorporated into Indonesia in July 1976 as the province of Timor Timur (East Timor or Timor Leste). An unsuccessful campaign of pacification followed over the next two decades, during which an estimated 100,000 to 250,000 people died. In an August 1999 UN-supervised popular referendum, an overwhelming majority of the people of Timor-Leste voted for independence from Indonesia. However, in the next three weeks, anti-independence Timorese militias - organized and supported by the Indonesian military - commenced a large-scale, scorched-earth campaign of retribution. The militias killed approximately 1,400 Timorese and displaced nearly 500,000. Most of the country's infrastructure, including homes, irrigation systems, water supply systems, and schools, and nearly all of the country's electrical grid were destroyed. On 20 September 1999, Australian-led peacekeeping troops deployed to the country and brought the violence to an end. On 20 May 2002, Timor-Leste was internationally recognized as an independent state.</p> <p>In 2006, internal tensions threatened the new nation's security when a military strike led to violence and a breakdown of law and order. At Dili's request, an Australian-led International Stabilization Force (ISF) deployed to Timor-Leste, and the UN Security Council established the UN Integrated Mission in Timor-Leste (UNMIT), which included an authorized police presence of over 1,600 personnel. The ISF and UNMIT restored stability, allowing for presidential and parliamentary elections in 2007 in a largely peaceful atmosphere. In 2008, rebels staged an unsuccessful attack against the president and prime minister. Since the attack, Timor-Leste has made considerable progress in building stability and democratic institutions, holding a series of successful parliamentary and presidential elections since 2012. Nonetheless, weak and unstable political coalitions have led to periodic episodes of political stalemate and crisis in governance. The ISF and UNMIT departed in 2012 but the UN continues to provide assistance on economic development and strengthening governing institutions. Currently, Timor-Leste is one of the world's poorest nations with an economy that relies heavily on energy resources in the Timor Sea.</p><br>
+<p>The island of Timor was actively involved in Southeast Asian trading networks for centuries, and by the 14th century, it exported sandalwood, slaves, honey, and wax. The sandalwood trade attracted the Portuguese, who arrived in the early 16th century; by mid-century, they had colonized the island, which was previously ruled by local chieftains. In 1859, Portugal ceded the western portion of the island to the Dutch. Imperial Japan occupied Portuguese Timor from 1942 to 1945, but Portugal resumed colonial authority after the Japanese defeat in World War II. The eastern part of Timor declared itself independent from Portugal on 28 November 1975, but Indonesian forces invaded and occupied the area nine days later. It was incorporated into Indonesia in 1976 as the province of Timor Timur (East Timor or Timor Leste). Indonesia conducted an unsuccessful pacification campaign in the province over the next two decades, during which an estimated 100,000 to 250,000 people died. <br><br>In a UN-supervised referendum in 1999, an overwhelming majority of the people of Timor-Leste voted for independence from Indonesia. However, anti-independence Timorese militias -- organized and supported by the Indonesian military -- began a large-scale, scorched-earth campaign of retribution. The militias killed approximately 1,400 Timorese and displaced nearly 500,000. Most of the country's infrastructure was destroyed, including homes, irrigation systems, water supply systems, schools, and most of the electrical grid. Australian-led peacekeeping troops eventually deployed to the country and ended the violence. In 2002, Timor-Leste was internationally recognized as an independent state.</p> <p>In 2006, Australia and the UN had to step in again to stabilize the country, which allowed presidential and parliamentary elections to be conducted in 2007 in a largely peaceful atmosphere. In 2008, rebels staged an unsuccessful attack against the president and prime minister. Since that attack, Timor-Leste has made considerable progress in building stability and democratic institutions, holding a series of successful parliamentary and presidential elections since 2012. Nonetheless, weak and unstable political coalitions have led to periodic episodes of stalemate and crisis. The UN continues to provide assistance on economic development and strengthening governing institutions. Currently, Timor-Leste is one of the world's poorest nations, with an economy that relies heavily on energy resources in the Timor Sea.</p><br>
 
 ## Geography
 
@@ -481,9 +481,6 @@ _expenditures_: $1.396 billion (2019 est.)<br>
 15.1% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $265.772 million (2022 est.)<br>
 $1.328 billion (2021 est.)<br>
@@ -595,11 +592,11 @@ _Total energy consumption per capita 2019_: 5.74 million Btu/person (2019 est.)<
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,840 (2022 est.)<br>
+_total subscriptions_: 2,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,481,007 (2022 est.)<br>
+_total subscriptions_: 1.481 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 110 (2022 est.)<br>
 
 **Telecommunication systems**<br>

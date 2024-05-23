@@ -516,9 +516,6 @@ _expenditures_: $41.994 billion (2020 est.)<br>
 9.45% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $7.079 billion (2022 est.)<br>
 -$2.672 billion (2021 est.)<br>
@@ -643,12 +640,12 @@ _Total energy consumption per capita 2019_: 180.726 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,887,900 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 16 (2021 est.)<br>
+_total subscriptions_: 2.888 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 15 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 24.323 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 127 (2021 est.)<br>
+_total subscriptions_: 25.299 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 130 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Kazakhstan has one of the most developed telecommunications sectors in the Central Asian region; this is especially true of the mobile segment; the principal telcos have successfully generated revenue growth on the back of value-added services and the extended each of LTE and fiber networks; this has resulted in strong growth in mobile fixed line traffic; the mobile segment dominates the telecom sector in Kazakhstan overall, there was a drop in the number of subscribers in 2020; these effects also limited growth in 2021, though the easing of restrictions in 2022 resulted in a stronger recovery; the extensive deployment of LTE networks across the country, and the launch of limited 5G services in mid-2023 will provide a steady increase mobile broadband services (2021)<br>
@@ -734,13 +731,14 @@ Kazakhstan’s armed forces were formed in 1992 following the breakup of the Sov
 ## Space
 
 **Space agency/agencies**<br>
-National Space Agency of the Republic of Kazakhstan (KazCosmos; established 2007) (2023)<br>
+National Space Agency of the Republic of Kazakhstan (KazCosmos; established 2007) (2024)<br>
 
 **Space launch site(s)**<br>
-Baikonur Cosmodrome/Space Center (Baikonur; the cosmodrome and the surrounding area are leased and administered by Russia until 2050 for approximately $115 million/year; Baikonur cosmodrome was originally built by the Soviet Union in the mid-1950s; largest space launch facility in the World and site of the World&rsquo;s first successful satellite launch in 1957); note &ndash; in 2018, Kazakhstan and Russia agreed that Kazakhstan would build, maintain, and operate a new space launch facility (Baiterek) at the Baikonur space center (estimated to be ready for operations in 2024) (2023)<br>
+Baikonur Cosmodrome/Space Center (Baikonur) (2024)<br>
+<strong>note 1:</strong> the Baikonur cosmodrome and the surrounding area are leased and administered by Russia until 2050 for approximately $115 million/year; the cosmodrome was originally built by the Soviet Union in the mid-1950s and is the site of the World's first successful satellite launch (Sputnik) in 1957; it is also the largest space launch facility in the World, comprising 15 launch pads for space launch vehicles, four launch pads for testing intercontinental ballistic missiles, more than 10 assembly and test facilities, and other infrastructure <br><br><strong>note 2: </strong>in 2018, Kazakhstan and Russia agreed that Kazakhstan would build, maintain, and operate a new space launch facility (Baiterek) at the Baikonur space center (estimated to be ready for operations in 2025)<br>
 
 **Space program overview**<br>
-has an active and ambitious space program that originated with the former Soviet Union; focused on the acquisition and operation of satellites; builds (with foreign assistance) and operates communications, remote sensing (RS), and scientific satellites; building space infrastructure, such as launch and testing facilities, ground stations, and rocket manufacturing; has an astronaut (cosmonaut) program; has relations with a variety of foreign space agencies and industries, including those of China, France, Germany, India, Israel, Italy, Japan, Russia, Saudi Arabia, Sweden, Thailand, Turkey, Ukraine, UAE, and the UK; has state-owned and private companies that assist in the development and building of the country’s space program, including satellites, satellite payloads, and associated capabilities; they also work closely with foreign commercial entities (2023)<br>
+has an active and ambitious space program that originated with the former Soviet Union; focused on the acquisition and operation of satellites; builds (with foreign assistance) and operates communications, remote sensing (RS), and scientific satellites; building space infrastructure, such as launch and testing facilities, ground stations, and rocket manufacturing; has an astronaut (cosmonaut) program; has relations with a variety of foreign space agencies and industries, including those of China, France, Germany, India, Israel, Italy, Japan, Russia, Saudi Arabia, Sweden, Thailand, Turkey, Ukraine, UAE, and the UK; has state-owned and private companies that assist in the development and building of the country’s space program, including satellites, satellite payloads, and associated capabilities; they also work closely with foreign commercial entities (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

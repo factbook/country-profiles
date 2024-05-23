@@ -363,7 +363,7 @@ _chief of mission_: Ambassador (vacant; recalled by Belarus in 2008); Charg&eacu
 _chancery_: 1619 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 986-1606<br>
 _FAX_: [1] (202) 986-1805<br>
-_email address and website_: <br>usa@mfa.gov.by<br><br>https://usa.mfa.gov.by/en/<br>
+_email address and website_: <br>usa@mfa.gov.by<br><br>Embassy of the Republic of Belarus in the United States of America (mfa.gov.by)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Peter KAUFMAN (since June 2023)<br>
@@ -506,9 +506,6 @@ _expenditures_: $24.239 billion (2019 est.)<br>
 12.83% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $2.517 billion (2022 est.)<br>
 $2.157 billion (2021 est.)<br>
@@ -633,12 +630,12 @@ _Total energy consumption per capita 2019_: 102.558 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4,229,817 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 45 (2021 est.)<br>
+_total subscriptions_: 4.23 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 44 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,760,087 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 123 (2021 est.)<br>
+_total subscriptions_: 11.771 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 123 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the Government of Belarus has successfully promoted the migration to an all-IP platform as part of a wider effort towards a digital transformation for the economy; the state-supported infrastructure operator beCloud has built an extensive fiber network, which reaches all but the smallest settlements in the country; Belarus has the second-highest fiber subscription rate in Europe, behind only Iceland; LTE coverage is almost universal, while considerable progress has also been made in developing 5G services (2021)<br>

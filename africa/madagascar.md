@@ -493,9 +493,6 @@ _expenditures_: $2.09 billion (2020 est.)<br>
 10.24% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$829.376 million (2022 est.)<br>
 -$721.953 million (2021 est.)<br>
@@ -615,12 +612,12 @@ _Total energy consumption per capita 2019_: 2.307 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 25,761 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_total subscriptions_: 26,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 16,279,633 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 56 (2021 est.)<br>
+_total subscriptions_: 20.783 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 70 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: internet service is fast compared to other African countries, and telecom services in Madagascar have benefited from intensifying competition between the main operators; there have been positive developments with the country&rsquo;s link to international submarine cables, particularly the METISS cable connecting to South Africa and Mauritius; in addition, the country&rsquo;s connection to the Africa-1 cable, which arrived in 2023, provides links to Kenya, Djibouti, countries in north and south Africa, as well as Pakistan, the UAE, Saudi Arabia, and France; a national fiber backbone has been implemented connecting the major cities, however much of the fiber in country has been installed by Huawei, which also manages data centers for the government; in addition, the government has progressed with its five-year plan to develop a digital platform running to 2024; various schemes within the program have been managed by a unit within the President&rsquo;s office; penetration rates in all market sectors remain below the average for the African region, and so there remains considerable growth potential; much progress was made in 2020, stimulated by the particular conditions related to the pandemic, which encouraged greater use of voice and data services (2022)<br>

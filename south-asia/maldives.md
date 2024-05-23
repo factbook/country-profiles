@@ -329,7 +329,7 @@ _election results_: <em><br>2023:</em> Mohamed MUIZZU elected president in the s
 **Legislative branch**<br>
 _description_: unicameral Parliament or People's Majlis (93 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: last held on 21 April 2024 (next to be held in 2029)<br>
-_election results_: percent of vote - NA; seats by party (preliminary) - PNC 66, MDP 12, other 4, independent 11; composition - NA<br>
+_election results_: percent of vote by party - NA; seats by party - PNC 66, MDP 12, MDA 2, JP 1, MNP 1, independent 11; composition - men 90, women 3, percent of women 3.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 6 justices<br>
@@ -475,9 +475,6 @@ _expenditures_: $1.797 billion (2020 est.)<br>
 
 **Taxes and other revenues**<br>
 26.4% (of GDP) (2016 est.)<br>
-
-**Fiscal year**<br>
-calendar year<br>
 
 **Current account balance**<br>
 -$1.033 billion (2022 est.)<br>

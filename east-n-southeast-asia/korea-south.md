@@ -382,7 +382,7 @@ _selected World Heritage Site locales_: Jeju Volcanic Island and Lava Tubes (n);
 ## Economy
 
 **Economic overview**<br>
-strong export-driven East Asian economy; sustainable and social policy leader; foreign aid financier; automotive manufacturing; app-based developer and exporter; global healthcare technology leader; aging workforce; largest semiconductor producer<br>
+strong export- and technology-oriented East Asian economy; manufacturing led by semiconductor and automotive industries; aging workforce; increased restraint in fiscal policy while maintaining industry support initiatives<br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.352 trillion (2022 est.)<br>
@@ -495,9 +495,6 @@ _expenditures_: $372.412 billion (2019 est.)<br>
 **Taxes and other revenues**<br>
 16.73% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
-
-**Fiscal year**<br>
-calendar year<br>
 
 **Current account balance**<br>
 $29.831 billion (2022 est.)<br>
@@ -622,12 +619,12 @@ _Total energy consumption per capita 2019_: 242.346 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 22,809,806 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 45 (2021 est.)<br>
+_total subscriptions_: 22.81 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 44 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 72,855,492 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 141 (2021 est.)<br>
+_total subscriptions_: 76.992 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 149 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: South Korea is second only to Hong Kong in the world rankings of telecom market maturity; it is also on the leading edge of the latest telecom technology developments, including around 6G; with its highly urbanized, tech-savvy population, South Korea also enjoys very high communication levels across all segments &ndash; fixed-line telephony (44% at the start of 2022), fixed broadband (46%), mobile voice and data (144%), and mobile broadband (120%); the performance of the mobile sector is on a par with other developed markets around the region, but it&rsquo;s the wire line segment that allows South Korea to stand out from the crowd; this is partly a reflection of the large proportion of its population who live in apartment buildings (around 60%), making fiber and apartment LAN connections relatively easy and cost-effective to deploy; the government&rsquo;s Ultra Broadband convergence Network (UBcN) had aimed to reach 50% adoption by the end of 2022, but that target may be a few more years away; fixed-line teledensity is also at a very high level compared to most of the rest of the world, but it has been on a sharp decline from a rate of 60% ten years ago; on the mobile front, users have enthusiastically migrated from one generation of mobile platform to the next as each iteration becomes available; there also doesn&rsquo;t appear to be any great concern about there being a lack of demand for 5G in South Korea (when the country is already well supported by 4G networks), with 30% of all subscribers having already made the switch; part of the reason behind the rapid transition may be the subsidized handsets on offer from each of the MNOs and the MVNOs (2022)<br>
@@ -725,13 +722,14 @@ the South Korean military is primarily focused on the threat from North Korea bu
 ## Space
 
 **Space agency/agencies**<br>
-Korea Aerospace Research Institute (KARI; established 1989); Korea Advanced Institute of Science and Technology (KAIST); Korean Astronomy and Space Science Institute (KASI; funded by the South Korean Government); KARI works closely with the Agency for Defense Development (ADD), a &nbsp;national agency for research and development in defense technology established in 1970; established a military space branch in 2022; in 2022, announced plans to form a fully independent space agency for integrated management of both civil and military space programs (2023)<br>
+Korea Aerospace Research Institute (KARI; established 1989); Korea Advanced Institute of Science and Technology (KAIST); Korean Astronomy and Space Science Institute (KASI; funded by the South Korean Government); established a military space branch in 2022  (2023)<br>
+<strong>note:</strong> KARI works closely with the Agency for Defense Development (ADD), a national agency for research and development in defense technology established in 1970<br>
 
 **Space launch site(s)**<br>
-Naro Space Center (South Jeolla province) (2023)<br>
+Naro Space Center (South Jeolla province) (2024)<br>
 
 **Space program overview**<br>
-has a growing and ambitious space program focused on developing satellites, satellite/space launch vehicles (SLVs), and interplanetary probes; has a national space strategy; manufacturers and operates satellites, including those with communications, remote sensing (RS), scientific, and multipurpose capabilities; manufactures and launches SLVs; developing interplanetary space vehicles, including orbital probes and landers; participates in international space programs and has relations with an array of foreign space agencies and industries, including those of Australia, the European Space Agency (ESA) and its member states (particularly France, Germany, Italy, Spain, UK), India, Israel, Japan, Peru, Russia, UAE, and especially the US; has a robust commercial space industry that works closely with KARI in the development of satellites and space launch capabilities (2023)<br>
+has a growing and ambitious space program focused on developing satellites, satellite/space launch vehicles (SLVs), and interplanetary probes; has a national space strategy; manufacturers and operates satellites, including those with communications, remote sensing (RS), scientific, and multipurpose capabilities; manufactures and launches SLVs; developing interplanetary space vehicles, including orbital probes and landers; participates in international space programs and has relations with an array of foreign space agencies and industries, including those of Australia, the European Space Agency (ESA) and its member states (particularly France, Germany, Italy, Spain, UK), India, Israel, Japan, Peru, Russia, UAE, and especially the US; has a robust and growing commercial space industry that works closely with KARI in the development of satellites and space launch capabilities; the South Korean Government has said it aims to capture 10% of the global space market by 2045 (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

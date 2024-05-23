@@ -471,9 +471,6 @@ _expenditures_: $12.63 billion (2019 est.)<br>
 **Taxes and other revenues**<br>
 16.6% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $6.839 billion (2022 est.)<br>
 $2.602 billion (2021 est.)<br>
@@ -590,12 +587,12 @@ _Total energy consumption per capita 2019_: 547.976 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 253,431 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 18 (2021 est.)<br>
+_total subscriptions_: 253,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 17 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,923,443 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 131 (2021 est.)<br>
+_total subscriptions_: 2.141 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 145 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Bahrain continues to develop its telecoms sector in a bid to develop its long-term Economic Vision 2030 strategy; this is a multi-faceted strategy aimed at developing a digital transformation across numerous sectors, including e-government, e-health, e-commerce, and e-banking; 5G services have become widely available since they were launched in 2020; Bahrain&rsquo;s telecom sector by the Fourth National Telecommunications Plan (initiated in 2016) which focuses on fiber optic infrastructure deployment and establishing affordable prices for high-speed access (2022)<br>

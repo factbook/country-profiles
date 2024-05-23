@@ -361,9 +361,6 @@ _highest 10%_: 23.8% (2016 est.)<br>
 19.8% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-NA<br>
-
 **Current account balance**<br>
 $404.9 billion (2017 est.)<br>
 $359.7 billion (2016 est.)<br>
@@ -435,12 +432,12 @@ _electrification - rural areas_: 99.9% (2021)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 155,004,603 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 36 (2020 est.)<br>
+_total subscriptions_: 155.005 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 36 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 540,557,924 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 121 (2020 est.)<br>
+_total subscriptions_: 552.316 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 124 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 note - see individual country entries of member states<br>

@@ -516,9 +516,6 @@ _expenditures_: $17.571 billion (2020 est.)<br>
 18.52% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$2.62 billion (2022 est.)<br>
 -$1.555 billion (2021 est.)<br>
@@ -635,12 +632,12 @@ _Total energy consumption per capita 2019_: 66.909 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,258,557 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 36 (2021 est.)<br>
+_total subscriptions_: 1.259 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 37 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.7 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 140 (2021 est.)<br>
+_total subscriptions_: 4.741 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 139 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Uruguay has an advanced telecom market, with excellent infrastructure and one of the highest broadband penetration rates in Latin America; fixed-line teledensity is also particularly high for the region, while mobile penetration is the second highest after Panama; in terms of computer penetration, Uruguay tops all other countries in the region by a considerable margin, and this has facilitated growth in fixed-line broadband adoption; the government and telecom regulator have introduced a range of measures to help develop the deployment of fiber infrastructure, partly in a bid to encourage economic growth and stimulate e-commerce; fiber accounted for about 77% of all fixed and fixed-wireless broadband connections as of June 2020; with investment projected to reach $800 million, the state-owned incumbent Antel is expected to provide national FttP coverage by early 2022; together with the FttP network, the opening of the submarine cable system in early 2012 and August 2017 have helped boost Uruguay&rsquo;s internet bandwidth, and increase the data rate available to end-users; Uruguay is one of the very few Latin American countries where the local fixed-line market is neither privatized nor liberalized; other segments of the telecom market have been opened to competition, including international long-distance telephony, mobile telephony, and fixed-wireless broadband; Uruguay is also one of the few countries in the world where broadband access via cable modem does not exist; although cable networks are well equipped technologically, and digital cable TV is widely available, telecom legislation prohibits data transmission over pay TV networks; the government announced in December 2020 that it intended to introduce changes to the law to permit pay TV providers to offer internet and telephony packages over their own networks; all three operators offer mobile broadband through 3G and LTE networks; operators have achieved nationwide 3G coverage and the number of mobile broadband subscribers continues to grow; at the end of 2019, spectrum in the 5G-suitable range was auctioned, enabling operators to launch 5G services; the regulator is working on a spectrum and connectivity policy that emphasizes 5G (2021)<br>

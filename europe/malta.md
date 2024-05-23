@@ -482,9 +482,6 @@ _expenditures_: $5.586 billion (2019 est.)<br>
 23.77% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$1.02 billion (2022 est.)<br>
 $214.463 million (2021 est.)<br>
@@ -684,15 +681,6 @@ the military has a small inventory that consists of equipment from a mix of Euro
 
 **Military - note**<br>
 the Armed Forces of Malta (AFM) are responsible for external security but also have some domestic security responsibilities; the AFM’s primary roles include maintaining the country’s sovereignty and territorial integrity, monitoring and policing its territorial waters, participating in overseas peacekeeping and stability operations, and providing search and rescue and explosive ordnance disposal capabilities; secondary missions include assisting civil authorities during emergencies, supporting the police and other security services, and providing ceremonial and other public support duties; the AFM has a joint force headquarters with five subordinate units—three land regiments, an air wing, and a maritime squadron; the air wing does not have any fighter aircraft but has both fixed and rotary wing aircraft for such tasks as maritime law enforcement and surveillance, reconnaissance, search and rescue, and transport; the maritime squadron is outfitted with both offshore patrol vessels and inshore patrol boats, and includes a small marine force element for maritime law enforcement and boarding operations, as well as a small land component tasked with defending the territorial integrity of the island of Gozo and providing military assistance to the Malta Police Force and other government departments<br><br>Malta maintains a security policy of neutrality but contributes to EU and UN military missions and joined NATO’s Partnership for Peace program in 1995 (suspended in 1996, but reactivated in 2008); it also participates in various bilateral and multinational military exercises; Malta cooperates closely with Italy on defense matters; in 1973, Italy established a military mission in Malta to provide advice, training, and search and rescue assistance (2023)<br>
-
-## Space
-
-**Space agency/agencies**<br>
-Malta Council for Science and Technology (MCST; established in 1988 by the Maltese Government as a public body to provide advice and coordinate on science, technology, and space-related issues) (2023)<br>
-
-**Space program overview**<br>
-the MSCT was originally established by the Maltese Government to provide advice on science and technology policy; its mission has since expanded to building relationships with foreign space agencies, the Maltese Government, industry, and the educational sector with the aim of exploring the use and sharing of space-related applications; the MCST acts for and on behalf of the Foundation for Science and Technology; it has established relationships with the European Space Agency (ESA), the French Space Agency (CNES), the Italian Space Agency (ASI), and Eurisy, a Paris-based, non-profit association that brings together space agencies, international organizations, research institutions, and private businesses involved or interested in space-related activities across Europe (2023)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
 

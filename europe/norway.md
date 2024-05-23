@@ -502,9 +502,6 @@ _expenditures_: $210.522 billion (2020 est.)<br>
 25.08% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $174.555 billion (2022 est.)<br>
 $66.254 billion (2021 est.)<br>
@@ -622,12 +619,12 @@ _Total energy consumption per capita 2019_: 333.833 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 140,033 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 7 (2021 est.)<br>
+_total subscriptions_: 140,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5.8 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
+_total subscriptions_: 6.015 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 111 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Norway has a sophisticated telecom market with high broadband and mobile penetration rates and a highly developed digital media sector. Although not a member of the European Union, the country&rsquo;s telecoms sector is synchronized with relevant EC legislation; Norway enjoys near comprehensive LTE coverage with upgrades to 5G technologies in the future (2023)<br>
@@ -722,13 +719,13 @@ the Norwegian Armed Forces (Forsvaret) are responsible for protecting Norway and
 ## Space
 
 **Space agency/agencies**<br>
-the Norwegian Space Agency (NOSA, aka Norsk Romsenter; established 1987) (2023)<br>
+the Norwegian Space Agency (NOSA, aka Norsk Romsenter; established 1987) (2024)<br>
 
 **Space launch site(s)**<br>
-And&oslash;ya Space Center (And&oslash;ya Island; note - first operational spaceport in continental Europe) (2023)<br>
+And&oslash;ya Space Center (And&oslash;ya Island; note - first operational spaceport in continental Europe) (2024)<br>
 
 **Space program overview**<br>
-has a broad and active space program coordinated with the European Space Agency (ESA) and the EU; jointly designs and builds satellites with foreign partners, including communications, remote sensing (RS), scientific, and navigational/positional; operates satellites; develops and launches sounding rockets; researches and produces a range of other space-related technologies, including satellite/space launch vehicle (SLV) and space station components, telescopes, and robotics; conducts solar and telecommunications research; participates in international space programs, such as the International Space Station; hosts training for Mars landing missions on the island of Svalbard; active member of the ESA and cooperates with a variety of foreign space agencies and industries, including those of Canada, ESA/EU member states, Japan, Russia, and the US; has an active and advanced space industry that cooperates with both the NOSA and foreign space programs and produces a variety of space-related products, from terminals for satellite communications and technologies for RS satellites to sensors for gamma radiation in deep space (2023)<br>
+has a broad and active space program coordinated with the European Space Agency (ESA) and the EU; jointly designs and builds satellites with foreign partners, including communications, remote sensing (RS), scientific, and navigational/positional; operates satellites; develops and launches sounding rockets; researches and produces a range of other space-related technologies, including satellite/space launch vehicle (SLV) and space station components, telescopes, and robotics; conducts solar and telecommunications research; participates in international space programs, such as the International Space Station; hosts training for Mars landing missions on the island of Svalbard; active member of the ESA and cooperates with a variety of foreign space agencies and industries, including those of Canada, ESA/EU member states, Japan, Russia, and the US; has an active and advanced space industry that cooperates with both the NOSA and foreign space programs and produces a variety of space-related products, from terminals for satellite communications and technologies for RS satellites to sensors for gamma radiation in deep space (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

@@ -516,9 +516,6 @@ _expenditures_: $24.271 billion (2019 est.)<br>
 13.26% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 July - 30 June<br>
-
 **Current account balance**<br>
 -$5.766 billion (2022 est.)<br>
 -$5.744 billion (2021 est.)<br>
@@ -638,12 +635,12 @@ _Total energy consumption per capita 2019_: 6.31 million Btu/person (2019 est.)<
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 63,107 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_total subscriptions_: 63,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 65,085,720 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 123 (2021 est.)<br>
+_total subscriptions_: 65.737 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 122 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Kenya&rsquo;s telecom market continues to undergo considerable changes in the wake of increased competition, improved international connectivity, and rapid developments in the mobile market; the country is directly connected to a number of submarine cables, and with Mombasa through a terrestrial network, the country serves as a key junction for onward connectivity to the Arabian states and the Far East; numerous competitors are rolling out national and metropolitan backbone networks and wireless access networks to deliver services to population centers across the country; several fiber infrastructure sharing agreements have been forged, and as a result the number of fiber broadband connections has increased sharply in recent years; much of the progress in the broadband segment is due to the government&rsquo;s revised national broadband strategy, which has been updated with goals through to 2030, and which are largely dependent on mobile broadband platforms based on LTE and 5G (2022)<br>
@@ -738,13 +735,13 @@ the KDF's chief security concerns and missions include protecting the country’
 ## Space
 
 **Space agency/agencies**<br>
-Kenya Space Agency (KSA; established, 2017); predecessor organization, the National Space Secretariat was established in 2009 (2023)<br>
+Kenya Space Agency (KSA; established, 2017) (2024)<br>
 
 **Space launch site(s)**<br>
-Luigi Broglio Space Center (aka Malindi Space Center, Malindi Station, San Marco Satellite Launching and Tracking Station; Kilifi County; over 20 sounding rockets and nine satellites launched from the site, 1967-1989); note &ndash; Kenya&rsquo;s equatorial latitude makes it an attractive location for near-equatorial-orbit rocket and satellite launches (2023)<br>
+Luigi Broglio Space Center (aka Malindi Space Center, Malindi Station, San Marco Satellite Launching and Tracking Station; Kilifi County; over 20 sounding rockets and nine satellites launched from the site, 1967-1989); in 2020, Kenya concluded a new deal with Italy to conduct rocket launches from the site again in the future (2024)<br>
 
 **Space program overview**<br>
-has a national space strategy focused on acquiring and applying space technologies and applications for agriculture, communications, disaster and resource management, security, urban planning, and weather monitoring; jointly develops and builds nanosatellites with foreign partners; operates satellites; researching and developing satellite payloads and imagery data analysis capabilities; has cooperated on space issues with China, Japan, Italy, and the US, as well as African partners; developing a satellite imagery/geospatial analysis and data sharing portal that contains 17 years of satellite imagery for other African countries, including Ghana, Senegal, Sierra Leone, and Tanzania; cooperating with Egypt, Ethiopia, Ghana, Nigeria, Sudan, and Uganda to establish a joint remote sensing (RS) satellite to monitor climate changes on the African continent (African Development Satellite program) (2023)<br>
+has a national space strategy focused on acquiring and applying space technologies and applications for agriculture, communications, disaster and resource management, security, urban planning, and weather monitoring; jointly develops and builds nanosatellites with foreign partners; operates satellites; researching and developing satellite payloads and imagery data analysis capabilities; has cooperated on space issues with China, Japan, Italy, and the US, as well as African partners; developing a satellite imagery/geospatial analysis and data sharing portal that contains 17 years of satellite imagery for other African countries, including Ghana, Senegal, Sierra Leone, and Tanzania; cooperating with Egypt, Ethiopia, Ghana, Nigeria, Sudan, and Uganda to establish a joint remote sensing (RS) satellite to monitor climate changes on the African continent (African Development Satellite program) (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

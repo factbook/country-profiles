@@ -464,8 +464,8 @@ _female_: 38.4%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
-_on food_: 30.8% of household expenditures (2018 est.)<br>
-_on alcohol and tobacco_: 7.3% of household expenditures (2018 est.)<br>
+_on food_: 33.3% of household expenditures (2021 est.)<br>
+_on alcohol and tobacco_: 5.9% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9%<br>
@@ -493,9 +493,6 @@ _expenditures_: $4.5 billion (2020 est.)<br>
 **Taxes and other revenues**<br>
 17.39% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
-
-**Fiscal year**<br>
-calendar year<br>
 
 **Current account balance**<br>
 -$864.777 million (2022 est.)<br>
@@ -613,12 +610,12 @@ _Total energy consumption per capita 2019_: 53.572 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 436,182 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 20 (2021 est.)<br>
+_total subscriptions_: 436,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 21 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,941,352 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 92 (2021 est.)<br>
+_total subscriptions_: 2.048 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 98 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: as part of the EU pre-accession process, North Macedonia has built closer economic ties with the Union which accounts for 79% of Macedonia&rsquo;s exports and 49% of its imports; closer regulatory and administrative ties with European Commission (EC) institutions have done much to develop the telecom sector and prepare the market for the competitive environment encouraged in the EU; as part of EU integration legislation North Macedonia has implemented the principles of the EU&rsquo;s regulatory framework for communications, established an independent regulator and set out several provisions to provide for a competitive telecom market, including wholesale access to the incumbent&rsquo;s fixed-line network; broadband services are widely available, with effective competition between DSL and cable platforms complemented by wireless broadband and a developing fiber sector; the number of DSL subscribers has continued to fall in recent years as customers are migrated to fiber networks; the MNOs are increasingly focused on expanding their 5G networks, seeking stronger coverage across North Macedonia&rsquo;s high value urban areas; mobile data services are also becoming increasingly important following investments in LTE network rollouts and in upgrades to LTE-A technology (2022)<br>

@@ -531,9 +531,6 @@ _expenditures_: $617.332 billion (2020 est.)<br>
 14.97% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$53.62 billion (2022 est.)<br>
 -$46.358 billion (2021 est.)<br>
@@ -660,12 +657,12 @@ _Total energy consumption per capita 2019_: 59.444 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 27,257,833 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
+_total subscriptions_: 27.258 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 219,660,524 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 102 (2021 est.)<br>
+_total subscriptions_: 212.926 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Brazil is one of the largest mobile and broadband markets in Latin America with healthy competition and pricing; 5G services was provided to all capital cities in July 2022, as well as about 35,500km of the national highway network; the country also has one of the largest fixed line broadband markets in Latin America, though broadband subscriptions is only slightly above the regional average, trailing behind Chile, Argentina, and Uruguay; amendments to the licensing regime adopted in October 2019 also require that ISPs which have switched to authorizations invest money saved from lighter regulations in the expansion of broadband services; the fixed line broadband market has seen rapid growth for a number of years, with a growing focus on fiber broadband; in 2019 the number of fiber accesses overtook DSL connections; the country is a key landing point for a number of important submarine cables connecting to the US, Central and South America, the Caribbean, Europe, and Africa; several new cable systems are due to come into service through to 2022, which will increase bandwidth and push down broadband prices for end-users; investments have also been made into terrestrial fiber cables between Brazil, Argentina, and Chile (2022)<br>

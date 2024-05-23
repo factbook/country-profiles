@@ -338,16 +338,16 @@ _residency requirement for naturalization_: 2 years<br>
 18 years of age; universal and compulsory; married persons regardless of age can vote; note - members of the armed forces and national police by law cannot vote<br>
 
 **Executive branch**<br>
-_chief of state_: President Luis Rodolfo ABINADER Corona (since 16 August 2020); Vice President Raquel PENA de Antuna (since 16 August 2020); note - the president is both chief of state and head of government<br>
-_head of government_: President Luis Rodolfo ABINADER Corona (since 16 August 2020); Vice President Raquel PENA de Antuna (since 16 August 2020); note - the president is both chief of state and head of government<br>
+_chief of state_: President Luis Rodolfo ABINADER Corona (since 16 August 2020); Vice President Raquel PE&Ntilde;A de Antuna (since 16 August 2020); note - the president is both chief of state and head of government<br>
+_head of government_: President Luis Rodolfo ABINADER Corona (since 16 August 2020); Vice President Raquel PE&Ntilde;A de Antuna (since 16 August 2020); note - the president is both chief of state and head of government<br>
 _cabinet_: Cabinet nominated by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by absolute vote in 2 rounds if needed for a 4-year term (eligible for a maximum of two consecutive terms); election last held on 5 July 2020 (next to be held on 19 May 2024); note - the 2020 election was rescheduled from 17 May to 5 July 2020 due to COVID-19 pandemic<br>
-_election results_: <br><em>2020:</em> Luis Rodolfo ABINADER Corona elected president in first round; percent of vote - Luis Rodolfo ABINADER Corona (PRM) 52.5%, Gonzalo CASTILLO Terrero (PLD) 37.5%, Leonel Antonio FERNANDEZ Reyna (FP) 8.9% other 1.1%<br><br><em>2016:</em> Danilo MEDINA Sanchez reelected president; percent of vote - Danilo MEDINA Sanchez (PLD) 61.7%, Luis Rodolfo ABINADER Corona (PRM) 35%, other 3.3%; Margarita CEDENO DE FERNANDEZ (PLD) reelected vice president<br>
+_elections/appointments_: president and vice president directly elected on the same ballot by absolute vote in 2 rounds if needed for a 4-year term (eligible for a maximum of two consecutive terms); election last held on 19 May 2024 (next to be held on 21 May 2028)<br>
+_election results_: <em>2024:</em> Luis Rodolfo ABINADER Corona reelected president; percent of vote - Luis Rodolfo ABINADER Corona (PRM) 57.5%, Leonel Antonio FERNÁNDEZ Reyna (FP) 28.8%, Abel MARTÍNEZ (PLD) 10.4%, other 3.3%<br><br><em>2020:</em> Luis Rodolfo ABINADER Corona elected president in first round; percent of vote - Luis Rodolfo ABINADER Corona (PRM) 52.5%, Gonzalo CASTILLO Terrero (PLD) 37.5%, Leonel Antonio FERNÁNDEZ Reyna (FP) 8.9%, other 1.1%<br><br><em>2016:</em> Danilo MEDINA Sanchez reelected president; percent of vote - Danilo MEDINA Sanchez (PLD) 61.7%, Luis Rodolfo ABINADER Corona (PRM) 35%, other 3.3%; Margarita CEDENO DE FERNANDEZ (PLD) reelected vice president<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (32 seats; 26 members directly elected in single-seat constituencies by simple majority vote, and 6 members indirectly elected based upon province-wide party plurality votes for its candidates to the Chamber of Deputies; all members serve 4-year terms; note - in 2019, the Central Election Commission changed the electoral system for seats in 26 constituencies to simple majority vote but retained indirect election for the remaining 6 constituencies; previously, all 32 members were indirectly elected; the change had been challenged by the ruling and opposition parties)<br><br>House of Representatives or Camara de Diputados (190 seats; 178 members directly elected in multi-seat constituencies by closed party-list proportional representation vote using the D'Hondt method, 5 members in a nationwide constituency, and 7 diaspora members directly elected by simple majority vote; members serve 4-year terms)<br>
-_elections_: Senate - last held on 5 July 2020 (next to be held on 19 May 2024)<br>House of Representatives - last held on 5 July 2020 (next to be held on 19 May 2024); note - the 2020 election was rescheduled from 17 May to 5 July 2020 due to the COVID-19 pandemic<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PRM 17, PLD 6, PRSC 6, BIS 1, DXC 1, FP 1; composition - men 28, women 4, percentage women 12.5%<br><br>House of Representatives - percent of vote by party - NA; seats by party - PRM 86, PLD 75, PRSC 6, PRD 4, Broad Front 3, FP 3, AP 2, APD 2, BIS 2, DXC 2, other 5; composition - men 137, women 53, percentage women 27.9%; total National Congress percentage women 25.7%<br>
+_elections_: Senate - last held on 19 May 2024 (next to be held on 21 May 2028)<br>House of Representatives - 19 May 2024 (next to be held on 21 May 2028)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - PRM 24, FP 3, APD 1, PPG 1, PRI 1, PRL 1, PRSC 1; composition - men NA, women NA, percentage women NA%<br><br>House of Representatives - percent of vote by party - NA; seats by party - NA; composition - men NA, women NA, percentage women NA%; total National Congress percentage women NA%; note - results pending<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Suprema Corte de Justicia (consists of a minimum of 16 magistrates); Constitutional Court or Tribunal Constitucional (consists of 13 judges); note - the Constitutional Court was established in 2010 by constitutional amendment<br>
@@ -355,7 +355,7 @@ _judge selection and term of office_: Supreme Court and Constitutional Court jud
 _subordinate courts_: courts of appeal; courts of first instance; justices of the peace; special courts for juvenile, labor, and land cases; Contentious Administrative Court for cases filed against the government<br>
 
 **Political parties and leaders**<br>
-Alliance for Democracy or APD<br>Broad Front (Frente Amplio) [Fidel SANTANA]<br>Country Alliance or AP [Guillermo Antonio MORENO Garcia]<br>Dominican Liberation Party or PLD [Danilo MEDINA Sánchez]<br>Dominican Revolutionary Party or PRD [Miguel VARGAS Maldonado]<br>Dominicans For Change or DXC [Manuel OVIEDO Estrada]<br>Institutional Social Democratic Bloc or BIS<br>Liberal Reformist Party or PRL (formerly the Liberal Party of the Dominican Republic or PLRD)<br>Modern Revolutionary Party or PRM [Luis ABINADER]<br>National Progressive Front or FNP [Vinicio CASTILLO, Pelegrin CASTILLO]<br>People's Force or FP [Leonel FERNANDEZ Reyna]<br>Social Christian Reformist Party or PRSC [Federico Augusto "Quique" ANTUN Batile]<br>
+Alliance for Democracy or APD<br>Broad Front (Frente Amplio) [Fidel SANTANA]<br>Country Alliance or AP [Guillermo Antonio MORENO Garcia]<br>Dominican Liberation Party or PLD [Danilo MEDINA Sánchez]<br>Dominican Revolutionary Party or PRD [Miguel VARGAS Maldonado]<br>Dominicans For Change or DXC [Manuel OVIEDO Estrada]<br>Independent Revolutionary Party or PRI<br>Institutional Social Democratic Bloc or BIS<br>Liberal Reformist Party or PRL (formerly the Liberal Party of the Dominican Republic or PLRD)<br>Modern Revolutionary Party or PRM [Luis ABINADER]<br>National Progressive Front or FNP [Vinicio CASTILLO, Pelegrin CASTILLO]<br>People's First Party or PPG<br>People's Force or FP [Leonel FERNANDEZ Reyna]<br>Social Christian Reformist Party or PRSC [Federico Augusto "Quique" ANTUN Batile]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, BCIE, Caricom (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, MINUSMA, NAM, OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA (associated member), UN, UNCTAD, UNESCO, UNHRC, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -507,9 +507,6 @@ _expenditures_: $14.511 billion (2019 est.)<br>
 14.38% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$6.327 billion (2022 est.)<br>
 -$2.685 billion (2021 est.)<br>
@@ -629,12 +626,12 @@ _Total energy consumption per capita 2019_: 39.016 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,143,893 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 10 (2021 est.)<br>
+_total subscriptions_: 1.144 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 9,735,351 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 88 (2021 est.)<br>
+_total subscriptions_: 10.15 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 90 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the Dominican Republic&rsquo;s telecom sector continued its solid form throughout 2020 and into 2021, shrugging off the economic turmoil unleashed by the Covid-19 pandemic to maintain a decade-long run of low but positive growth across all areas of the market; the Dominican Republic remains behind most of its counterparts in the Latin American region, especially in terms of fixed-line network coverage; mobile subscriptions are on par with the regional average, but at subscription levels of around 88% there is still ample opportunity for growth; in terms of growth, the standout winner was once again the mobile broadband segment; the market is expected to see close to 8% growth in 2021, building further on the gains it already made in 2020 when lock downs and work-from-home rules encouraged many people to find ways to upgrade their internet access and performance; the limited coverage of fixed-line broadband networks makes mobile the first, if not only, choice for most people in the country (2021)<br>
@@ -695,7 +692,7 @@ _small_: 7<br>
 _very small_: 6<br>
 _size unknown_: 2<br>
 _ports with oil terminals_: 7<br>
-_key ports_: Andres (Andres Lng Terminal), Las Calderas, Puerto De Haina, Puerto Plata, Punta Nizao Oil Terminal, San Pedro De Macoris, Santa Barbara De Samana, Santa Cruz De Barahona, Santo Domingo<br>
+_key ports_: Andres (Andres Lng Terminal), Las Calderas, Puerto de Haina, Puerto Plata, Punta Nizao Oil Terminal, San Pedro de Macoris, Santa Barbara de Samana, Santa Cruz de Barahona, Santo Domingo<br>
 
 ## Military and Security
 

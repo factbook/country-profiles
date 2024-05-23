@@ -517,9 +517,6 @@ _expenditures_: $90.953 billion (2020 est.)<br>
 14.62% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$18.116 billion (2022 est.)<br>
 -$5.943 billion (2021 est.)<br>
@@ -639,12 +636,12 @@ _Total energy consumption per capita 2019_: 19.261 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4,884,608 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2021 est.)<br>
+_total subscriptions_: 4.885 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 163,345,244 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 143 (2021 est.)<br>
+_total subscriptions_: 166.454 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 144 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the Covid-19 pandemic had a relatively minor impact on the Philippine&rsquo;s telecom sector in 2020; subscriber numbers fell in some areas, but this was offset by strong growth in mobile data and broadband usage since a significant proportion of the population transitioned to working or studying from home; major investment programs covering LTE, 5G, and fiber broadband networks suffered slight delays due to holdups in supply chains, but activity has since ramped up in an attempt to complete the roll outs as per the original schedule; the major telecom operators had mixed financial results for the past year; overall, the number of mobile subscribers is expected to grow to 153 million by the end of 2021, with the penetration rate approaching 144%; the government remains keen, and committed, to seeing strong competition, growth, and service excellence in the telecom sector, so there is likely to be continued support (financially as well as through legislation such as enabling mobile tower sharing and number portability) to ensure that the sector remains viable for emerging players; the mobile sector will remain the Philippines&rsquo; primary market for telecommunications well into the future; the unique terrain and resulting challenges associated with accessing remote parts of the archipelago means that in many areas fixed networks are neither cost-effective nor logistically viable; the bulk of telecoms investment over the coming years will continue to be in 5G and 5G-enabled LTE networks; coverage of LTE and 5G networks extends to over 95% of the population, and for the vast majority of people mobile will likely remain their only platform for telecom services (2021)<br>
@@ -709,7 +706,7 @@ _medium_: 4<br>
 _small_: 8<br>
 _very small_: 56<br>
 _ports with oil terminals_: 22<br>
-_key ports_: Batangas City, Cagayan De Oro, Cebu, Manila, San Fernando Harbor, Subic Bay<br>
+_key ports_: Batangas City, Cagayan de Oro, Cebu, Manila, San Fernando Harbor, Subic Bay<br>
 
 ## Military and Security
 
@@ -740,13 +737,10 @@ the Armed Forces of the Philippines (AFP) were formally organized during the Ame
 ## Space
 
 **Space agency/agencies**<br>
-Philippine Space Agency (PhilSA; established 2019); Philippine Space Council (PSC; established in 2019 as an advisory body responsible for coordinating and integrating policies, programs and resources affecting space science and technology applications); prior to PhilSA&rsquo;s establishment, the Philippine&rsquo;s space program was decentralized under several organizations, including the Philippine Atmospheric, Geophysical, and Astronomical Services Administration (PAGASA), the National Mapping and Resource Information Authority (NAMRIA), and the National Disaster Risk Reduction and Management Council (NDRRMC) (2023)<br>
-
-**Space launch site(s)**<br>
-none; reviewing the possibility of establishing a commercial launchpad, possibly in Mindanao given its proximity to the Equator (2023)<br>
+Philippine Space Agency (PhilSA; established 2019); Philippine Space Council (PSC; established in 2019 as an advisory body responsible for coordinating and integrating policies, programs and resources affecting space science and technology applications) (2024)<br>
 
 **Space program overview**<br>
-has a small and ambitious space program focused on acquiring satellites and related technologies, largely for the areas of climate studies, national security, and risk management; also prioritizing development of the country’s space expertise and industry; manufactures and operates satellites (mostly micro- and nano-sized), including remote sensing (RS) and scientific/experimental; has relations with a variety of foreign space agencies and industries, including those of China, the European Space Agency and some of its member states, Japan, Russia, and the US (2023)<br>
+has a small and ambitious space program focused on acquiring satellites and related technologies, largely for the areas of climate studies, national security, and risk management; also prioritizing development of the country’s space expertise and industry; manufactures and operates satellites (mostly micro- and nano-sized), including remote sensing (RS) and scientific/experimental; has relations with a variety of foreign space agencies and industries, including those of China, the European Space Agency and some of its member states, Japan, Russia, and the US (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

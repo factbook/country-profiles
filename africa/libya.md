@@ -465,9 +465,6 @@ _expenditures_: $37.475 billion (2019 est.)<br>
 **Taxes and other revenues**<br>
 51.6% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $5.675 billion (2021 est.)<br>
 -$4.78 billion (2020 est.)<br>
@@ -585,12 +582,12 @@ _Total energy consumption per capita 2019_: 107.118 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,218,180 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 23 (2021 est.)<br>
+_total subscriptions_: 1.218 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.9 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 43 (2021 est.)<br>
+_total subscriptions_: 13.94 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 205 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: political and security instability in Libya has disrupted its telecom sector; much of its infrastructure remains superior to that in most other African countries; rival operators fight for control; investment in fiber backbone and upgrades to international cables; limited LTE and 5G service; some satellite broadband; in 2021 Libya signed deals and projects with US firms to upgrade portions of its infrastructure, increasing the diversity of its telecommunications networks (2022)<br>

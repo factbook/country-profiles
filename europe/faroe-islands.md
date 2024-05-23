@@ -390,9 +390,6 @@ _expenditures_: $883.8 million (2014)<br>
 **Taxes and other revenues**<br>
 30.2% (of GDP) (2014 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Exports**<br>
 $2.219 billion (2022 est.)<br>
 $1.923 billion (2021 est.)<br>
@@ -493,12 +490,12 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 15,341 (2021 est.)<br>
+_total subscriptions_: 15,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 29 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 59,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 112 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the Faroe Islands have a highly developed communication network, which covers the whole country; from telecommunication and mobile phones to the internet and media, the Faroe Islands are at the forefront of modern communications technology; working within the special geographic circumstances of the Faroe Islands; companies have become world experts in providing digital communication solutions to remote and sparsely populated areas (2022)<br>

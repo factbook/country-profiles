@@ -463,9 +463,6 @@ _expenditures_: $228 million (2018 est.)<br>
 **Taxes and other revenues**<br>
 25.3% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$6.614 million (2022 est.)<br>
 -$4.076 million (2021 est.)<br>
@@ -585,12 +582,12 @@ _Total energy consumption per capita 2019_: 5.346 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,370 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
+_total subscriptions_: 7,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 853,449 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 104 (2021 est.)<br>
+_total subscriptions_: 839,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 100 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Comoros launched a special program for the construction of a wireless network to inter connect the 3 islands of the archipelago; telephone service limited to the islands' few towns (2020)<br>

@@ -398,9 +398,6 @@ _expenditures_: $1.993 billion (2015 est.)<br>
 **Taxes and other revenues**<br>
 20.4% (of GDP) (2015 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$654.237 million (2016 est.)<br>
 -$1.119 billion (2015 est.)<br>
@@ -563,7 +560,7 @@ _medium_: 0<br>
 _small_: 1<br>
 _very small_: 2<br>
 _ports with oil terminals_: 1<br>
-_key ports_: Baie De Kouaoua, Baie Ugue, Noumea<br>
+_key ports_: Baie de Kouaoua, Baie Ugue, Noumea<br>
 
 ## Military and Security
 

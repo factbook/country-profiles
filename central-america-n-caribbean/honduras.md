@@ -503,9 +503,6 @@ _expenditures_: $6.454 billion (2019 est.)<br>
 14.77% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$2.083 billion (2022 est.)<br>
 -$1.528 billion (2021 est.)<br>
@@ -625,12 +622,12 @@ _Total energy consumption per capita 2019_: 19.8 million Btu/person (2019 est.)<
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 413,936 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 5 (2021 est.)<br>
+_total subscriptions_: 414,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,560,710 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 74 (2021 est.)<br>
+_total subscriptions_: 7.937 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 76 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p style="background: white; margin: 0in 0in 6.4pt 0in;">Honduras is among the poorest countries in Central America and has long been plagued by an unstable political framework which has rendered telecom sector reform difficult; this has created real difficulties for telcos as well as consumers; fixed-line teledensity, at only 4.9%, is significantly lower than the Latin American and Caribbean average; poor fixed-line infrastructure has been exacerbated by low investment and topographical difficulties which have made investment in rural areas unattractive or uneconomical; the internet has been slow to develop; DSL and cable modem technologies are available but are relatively expensive, while higher speed services are largely restricted to the major urban centers; the demand for broadband is steadily increasing and there has been some investment in network upgrades to fiber-based infrastructure</p> <p style="background: white; margin: 0in 0in 6.4pt 0in;"> </p> (2022)<br>
@@ -693,7 +690,7 @@ _medium_: 0<br>
 _small_: 1<br>
 _very small_: 7<br>
 _ports with oil terminals_: 3<br>
-_key ports_: Coxen Hole, La Ceiba, Puerto Castilla, Puerto Cortes, Puerto De Hencan, Puerto Este, Tela, Trujillo<br>
+_key ports_: Coxen Hole, La Ceiba, Puerto Castilla, Puerto Cortes, Puerto de Hencan, Puerto Este, Tela, Trujillo<br>
 
 ## Military and Security
 

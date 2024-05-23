@@ -504,9 +504,6 @@ _expenditures_: $73.176 billion (2020 est.)<br>
 19.6% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$27.102 billion (2022 est.)<br>
 -$23.193 billion (2021 est.)<br>
@@ -623,12 +620,12 @@ _Total energy consumption per capita 2019_: 81.953 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,216,786 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
+_total subscriptions_: 2.217 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 26,571,823 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 136 (2021 est.)<br>
+_total subscriptions_: 26.415 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 135 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the market for fixed and mobile telephony is highly competitive and rapidly evolving; the mobile rate is among the highest in South America; LTE infrastructure is extensive and 5G spectrum auctions which took place in February 2021 prompted deployment of 5G networks, following extensive trials held by the MNOs; fixed broadband is relatively high for the region, with services among the fastest and least expensive in Latin America; government initiatives such as the National Fiber Optic project and Fibra &Oacute;ptica Austral are providing high-capacity connectivity across the country and will further increase fixed-line broadband; there is a strong focus on fiber broadband, with the number of fiber subscribers having increased 61.7% in 2020, year-on-year; technological improvements have allowed operators to provide a variety of services via their networks, giving rise to a number of bundled packages at competitive prices, including access to video on demand services which in turn is increasing fixed-line broadband; traditional fixed-line teledensity continues to fall as consumers switch to mobile networks and to fixed broadband for voice and data connectivity; more than 8,300 schools receive free broadband as part of the &lsquo;Connectivity for Education 2030&rsquo; project (2021)<br>
@@ -688,7 +685,7 @@ _medium_: 2<br>
 _small_: 10<br>
 _very small_: 27<br>
 _ports with oil terminals_: 25<br>
-_key ports_: Antofagasta, Bahia De Valdivia, Bahia De Valparaiso, Coronel, Iquique, Mejillones, Puerto Montt, Puerto San Antonio, Rada De Arica, Rada Punta Arenas, Talcahuano, Tocopilla<br>
+_key ports_: Antofagasta, Bahia de Valdivia, Bahia de Valparaiso, Coronel, Iquique, Mejillones, Puerto Montt, Puerto San Antonio, Rada de Arica, Rada Punta Arenas, Talcahuano, Tocopilla<br>
 
 ## Military and Security
 

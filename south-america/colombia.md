@@ -520,9 +520,6 @@ _expenditures_: $103.098 billion (2019 est.)<br>
 15.35% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$21.526 billion (2022 est.)<br>
 -$17.951 billion (2021 est.)<br>
@@ -642,12 +639,12 @@ _Total energy consumption per capita 2019_: 34.703 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,587,694 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 15 (2021 est.)<br>
+_total subscriptions_: 7.588 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 15 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 75 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 150 (2021 est.)<br>
+_total subscriptions_: 80.812 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 156 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector had a solid year thanks to positive performances in the fixed-line broadband, mobile broadband, and mobile voice and data markets; the fixed-line penetration remained stable by the end of 2020, though began to increase into 2021 as a result of the particular demands on households resulting from government measures associated with addressing the pandemic; the mobile market reached a penetration rate of 136% (an increase of over three percentage points on 2019) and managed to keep the same upward growth trajectory that it has sustained over the last ten years; the fixed-line broadband market also expanded, with the number of subscribers increasing 11.4%, and with revenue increasing 9.9% thanks to increased data usage as many customers were forced to work or study from home during the year; the mobile broadband market was the standout performer in 2020, with a 13% increase in the number of subscribers year-on-year, the penetration rate is relatively low compared to other Latin American countries; most significant of all was the surge in mobile broadband traffic a 51% increase over the previous year (2022)<br>

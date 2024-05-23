@@ -503,9 +503,6 @@ _expenditures_: $4.489 billion (2019 est.)<br>
 18.2% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$1.117 billion (2022 est.)<br>
 -$1.37 billion (2021 est.)<br>
@@ -622,12 +619,12 @@ _Total energy consumption per capita 2019_: 38.442 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 177,152 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 7 (2021 est.)<br>
+_total subscriptions_: 177,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 6 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,635,466 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 92 (2021 est.)<br>
+_total subscriptions_: 2.782 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 98 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Albania&rsquo;s small telecom market has experienced some significant changes in recent years;&nbsp; upgrades were made to the fixed-line infrastructure to support broadband services; fixed-line telephony use and penetration in Albania is declining steadily as subscribers migrate to mobile solutions; the mobile sector is well provided with LTE networks, while operators have invested in 5G; some of these efforts have been made in conjunction with neighboring Kosovo, with the intention of a seamless 5G corridor along the highway connecting the two countries; the country has long sought accession to the European Union (EU) which has benefited its telecoms sector through closer scrutiny of its regulatory regime and through the injection of funding to help modernize infrastructure (2021)<br>

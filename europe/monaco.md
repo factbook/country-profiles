@@ -388,9 +388,6 @@ _expenditures_: $953.6 million (2011 est.)<br>
 **Taxes and other revenues**<br>
 14.9% (of GDP) (2011 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Exports**<br>
 $964.6 million (2017 est.)<br>
 $1.115 billion (2011)<br>
@@ -433,12 +430,12 @@ _electrification - total population_: 100% (2021)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 44,649 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 117 (2021 est.)<br>
+_total subscriptions_: 45,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 122 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 36,255 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 99 (2021 est.)<br>
+_total subscriptions_: 39,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 107 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: modern automatic telephone system: the country's sole fixed-line operator offers a full range of services to residential and business customers; competitive mobile telephony market; 4G LTE widely available (2020)<br>

@@ -321,7 +321,7 @@ Action for Andorra or ACCIO [Judith PALLARES]<br>Committed Citizens or CC [Carle
 CE, FAO, ICAO, ICC (NGOs), ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITU, OIF, OPCW, OSCE, UN, UNCTAD, UNESCO, Union Latina, UNWTO, WCO, WHO, WIPO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Elisenda VIVES BALMANA (since 2 March 2016)<br>
+_chief of mission_: Ambassador Elisenda VIVES BALMA&Ntilde;A (since 2 March 2016)<br>
 _chancery_: 2 United Nations Plaza, 27th Floor, New York, NY 10017<br>
 _telephone_: [1] (212) 750-8064<br>
 _FAX_: [1] (212) 750-6630<br>
@@ -424,9 +424,6 @@ _expenditures_: $2.06 billion (2016)<br>
 **Taxes and other revenues**<br>
 69% (of GDP) (2016)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $467.435 million (2021 est.)<br>
 $448.869 million (2020 est.)<br>
@@ -484,12 +481,12 @@ _electrification - total population_: 100% (2021)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 50,871 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 63 (2021 est.)<br>
+_total subscriptions_: 51,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 64 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 89,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
+_total subscriptions_: 114,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 142 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Andorra has a modern telecommunications system with microwave radio relay connections between the exchanges and land line circuits to France and Spain (2023)<br>

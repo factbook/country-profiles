@@ -416,9 +416,6 @@ _expenditures_: $1.176 billion (2017 est.)<br>
 **Taxes and other revenues**<br>
 16.3% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Current account balance**<br>
 $962.258 million (2021 est.)<br>
 $853.85 million (2020 est.)<br>
@@ -534,7 +531,7 @@ _subscriptions per 100 inhabitants_: 39 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 68,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 106 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>

@@ -522,9 +522,6 @@ _expenditures_: $6.382 billion (2019 est.)<br>
 **Taxes and other revenues**<br>
 11.2% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$587.407 million (2021 est.)<br>
 -$1.052 billion (2020 est.)<br>
@@ -648,8 +645,8 @@ _total subscriptions_: 0 (2021 est.) less than 1<br>
 _subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 47 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 49 (2021 est.)<br>
+_total subscriptions_: 49.844 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 50 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom system remains one of the least developed in the region; the government can only loosely regulate the sector; the investment made in infrastructure is derived from donor countries or from the efforts of foreign (particularly Chinese) companies and banks; efforts have been made to improve the regulation of the telecom sector; the limited fixed-line infrastructure has become the principal providers of basic telecom services; the development of the DRC&rsquo;s internet and broadband market has been held back by the poorly developed national and international infrastructure; the country was finally connected to international bandwidth through the WACS submarine cable in 2013; breakages in the WACS cable have exposed the vulnerability of international bandwidth, which is still limited; the Equiano submarine cable, and has also completed a 5,000km cable running through the DRC to link to cable systems landing in countries facing the Atlantic and Indian Oceans; the first commercial LTE networks were launched in May 2018 soon after LTE licenses were issued; mobile operators are keen to develop mobile data services, capitalizing on the growth of smartphones usage; there has been some progress with updating technologies, most of the GSM network has been upgraded to 3G by 2021 (2022)<br>

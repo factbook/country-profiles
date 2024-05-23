@@ -408,7 +408,7 @@ _selected World Heritage Site locales_: L'Anse aux Meadows (c); Canadian Rocky M
 ## Economy
 
 **Economic overview**<br>
-one of the world&rsquo;s largest economies; leading global financier and macroeconomic partner; largest US trading partner; key timber and oil and gas industries; Canada sends over half its development aid to the World Bank; key &ldquo;blue economy&rdquo; developer<br>
+one of the world&rsquo;s leading developed economies; globally integrated commercial and financial markets; largest US trading partner; key energy, forestry, manufacturing and service industries; inflation recovering following interest rate hikes; government priorities include climate policy, immigration and affordable housing<br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.907 trillion (2022 est.)<br>
@@ -522,9 +522,6 @@ _expenditures_: $861.955 billion (2020 est.)<br>
 **Taxes and other revenues**<br>
 12.83% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
-
-**Fiscal year**<br>
-1 April - 31 March<br>
 
 **Current account balance**<br>
 -$6.654 billion (2022 est.)<br>

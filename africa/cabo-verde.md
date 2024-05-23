@@ -370,7 +370,7 @@ _selected World Heritage Site locales_: Cidade Velha; Historic Center of Ribeira
 ## Economy
 
 **Economic overview**<br>
-tourism-dominated economy benefits from the country&rsquo;s relative close proximity to Europe; 2009 Financial Crisis halted economic growth for seven years; leveraging export-based growth; COVID-19 decimated economic growth and recovery; high external debt<br>
+stable, middle-income, developing island economy; strong GDP growth led by tourism sector recovery; sustained poverty reduction through PEDS II development plan; high reliance on foreign remittances and aid to finance external debt<br>
 
 **Real GDP (purchasing power parity)**<br>
 $4.377 billion (2022 est.)<br>
@@ -477,9 +477,6 @@ _expenditures_: $619 million (2019 est.)<br>
 **Taxes and other revenues**<br>
 17.8% (of GDP) (2017 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
-
-**Fiscal year**<br>
-calendar year<br>
 
 **Current account balance**<br>
 -$68.589 million (2022 est.)<br>
@@ -655,7 +652,7 @@ _medium_: 0<br>
 _small_: 1<br>
 _very small_: 1<br>
 _ports with oil terminals_: 1<br>
-_key ports_: Porto Da Praia, Porto Grande<br>
+_key ports_: Porto da Praia, Porto Grande<br>
 
 ## Military and Security
 

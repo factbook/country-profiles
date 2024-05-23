@@ -508,9 +508,6 @@ _expenditures_: $2.919 billion (2019 est.)<br>
 15.08% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$1.301 billion (2022 est.)<br>
 -$1.209 billion (2021 est.)<br>
@@ -630,12 +627,12 @@ _Total energy consumption per capita 2019_: 1.704 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 10,327 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_total subscriptions_: 10,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,902,989 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 81 (2021 est.)<br>
+_total subscriptions_: 11.002 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 80 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Rwanda was slow to liberalize the mobile sector; there was effective competition among three operators; the fixed broadband sector has suffered from limited fixed-line infrastructure and high prices; operators are rolling out national backbone networks which also allow them to connect to the international submarine cables on Africa&rsquo;s east coast; these cables gave the entire region greater internet bandwidth and ended the dependency on satellites; while the country also has a new cable link with Tanzania, and via Tanzania&rsquo;s national broadband backbone it has gained connectivity to the networks of several other countries in the region; the number of subscribers on LTE infrastructure has increased sharply, helped by national LTE coverage achieved in mid-2018; mobile remains the dominant platform for voice and data services; the regulator noted that the number of mobile subscribers increased 2.7% in 2021, year-on-year; there was a slight fall in the beginning of 2022 (2022)<br>

@@ -523,9 +523,6 @@ _expenditures_: $100.318 billion (2020 est.)<br>
 12.52% (of GDP) (2015 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 July - 30 June<br>
-
 **Current account balance**<br>
 -$10.537 billion (2022 est.)<br>
 -$18.611 billion (2021 est.)<br>
@@ -651,11 +648,11 @@ _Total energy consumption per capita 2019_: 40.063 million Btu/person (2019 est.
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 11.6 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 10 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 103,449,427 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 95 (2021 est.)<br>
+_total subscriptions_: 103.45 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 93 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Egypt&rsquo;s large telecom market is supported by a population of about 109 million and benefits from effective competition in most sectors; a liberal regulatory regime allows for unified licenses which permit operators to offer fixed-line as well as mobile services; in recent years the government has developed a number of digital migration projects aimed at increasing average broadband speeds, delivering fiber broadband to about 60% of the population, developing an in-house satellite program, and creating a knowledge-based economy through the greater adoption of ICTs; the New Administrative Capital being built is only one of more than a dozen smart city projects, which together are stimulating investment in 5G and fiber broadband, as well as the adoption of IoT and AI solutions; the country endeavors to be a significant ICT hub in the North Africa and Middle East regions; Egypt&rsquo;s mature mobile market has one of the highest subscription rates in Africa; progress in the adoption of mobile data services has been hampered by the lack of sufficient spectrum; the regulator in September 2020 made available 60MHz in the 2.6GHz band, though the spectrum was not allocated until late 2021; the additional spectrum will go far to enabling the MNOs to improve the quality of mobile broadband services offered; further 5G trials are to be held later in 2022, focused on the New Administrative Capital; the international cable infrastructure remains an important asset for Egypt, which benefits from its geographical position; Telecom Egypt has become one of the largest concerns in this segment, being a participating member in numerous cable systems; in mid-2021 the telco announced plans to build the Hybrid African Ring Path system, connecting a number of landlocked countries in Africa with Italy, France, and Portugal; the system will partly use the company&rsquo;s existing terrestrial and sub sea cable networks (2022)<br>

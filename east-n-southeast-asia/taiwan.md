@@ -264,7 +264,7 @@ _residency requirement for naturalization_: 5 years<br>
 20 years of age; universal; note - in March 2022, the Legislative Yuan approved lowering the voting age to 18, but the change will require a constitutional amendment that must be submitted to a referendum<br>
 
 **Executive branch**<br>
-_chief of state_: President TSAI Ing-wen (since 20 May 2016); Vice President LAI Ching-te (since 20 May 2020)<br>
+_chief of state_: President LAI Ching-te (since 19 May 2024)<br>
 _head of government_: Premier CHEN Chien-jen (President of the Executive Yuan) (since 31 January 2023); Vice Premier CHENG Wen-tsan (Vice President of the Executive Yuan) (since 31 January 2023)<br>
 _cabinet_: Executive Yuan - ministers appointed by president on recommendation of premier<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 13 January 2024 (next to be held in 2028); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier<br>
@@ -407,9 +407,6 @@ _expenditures_: $105.833 billion (2019 est.)<br>
 
 **Taxes and other revenues**<br>
 16% (of GDP) (2017 est.)<br>
-
-**Fiscal year**<br>
-calendar year<br>
 
 **Current account balance**<br>
 $65.173 billion (2019 est.)<br>

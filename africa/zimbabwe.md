@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The hunter-gatherer San people first inhabited the area that eventually became Zimbabwe. Farming communities migrated to the area around A.D. 500 during the Bantu expansion, and Shona-speaking societies began to develop in the Limpopo valley and Zimbabwean highlands around the 9th century. These societies traded with Arab merchants on the Indian Ocean coast and organized under the Kingdom of Mapungubwe in the 11th century. A series of powerful trade-oriented Shona states succeeded Mapungubwe, including the Kingdom of Zimbabwe (ca. 1220-1450), Kingdom of Mutapa (ca. 1450-1760), and the Rozwi Empire. The Rozwi Empire expelled Portuguese colonists from the Zimbabwean plateau but was eventually conquered in 1838 by the Ndebele clan of Zulu general MZILIKAZI during the era of conflict and population displacement known as the Mfecane. In the 1880s, colonists arrived with the British South Africa Company (BSAC) and obtained a written concession for mining rights from Ndebele King LOBENGULA. The king later disavowed the concession and accused the BSAC agents of deceit. The BSAC annexed Mashonaland and subsequently conquered Matabeleland by force during the First Matabele War of 1893-1894 to establish company rule over the territory. BSAC holdings south of the Zambezi River were annexed by the UK in 1923 and became the British colony of Southern Rhodesia. The 1930 Land Apportionment Act restricted Black land ownership and established structural racial inequalities that would favor the White minority for decades. A new constitution in 1961 further cemented White minority rule.<br><br>In 1965, the government under White Prime Minister Ian SMITH unilaterally declared its independence from the UK. London did not recognize Rhodesia’s independence and demanded more voting rights for the Black majority in the country. International diplomacy and a liberation struggle by Black Zimbabweans led to biracial elections in 1979 and independence (as Zimbabwe) in 1980. Robert MUGABE, who led the uprising and became the nation's first prime minister, was the country's only ruler (as president since 1987) from independence until November 2017, when loss of support from his political party and the country's military forced his resignation. In the mid-1980s, the government tortured and killed thousands of civilians in a crackdown on dissent known as the Gukurahundi campaign. Economic mismanagement and chaotic implementation of land redistribution policies following independence periodically crippled the economy and resulted in widespread shortages of basic commodities. General elections in 2002, 2008, and 2013 were severely flawed and widely condemned but allowed MUGABE to remain president. In November 2017, Vice President Emmerson MNANGAGWA became president following a military intervention led by Constantino CHIWENGA that forced MUGABE to resign, and MNANGAGWA cemented power by sidelining rivals Grace MUGABE (Robert MUGABE’s wife) and her faction of the ruling Zimbabwe African National Union-Patriotic Front party. In July 2018, MNANGAGWA won the presidential election after a close contest with opposition candidate Nelson CHAMISA. MNANGAGWA has maintained the government's longstanding practice of violently disrupting protests and opposition rallies and politicizing institutions. Economic conditions remain dire under MNANGAGWA.</p><br>
+<p>The hunter-gatherer San people first inhabited the area that eventually became Zimbabwe. Farming communities migrated to the area around A.D. 500 during the Bantu expansion, and Shona-speaking societies began to develop in the Limpopo valley and Zimbabwean highlands around the 9th century. These societies traded with Arab merchants on the Indian Ocean coast and organized under the Kingdom of Mapungubwe in the 11th century. A series of powerful trade-oriented Shona states succeeded Mapungubwe, including the Kingdom of Zimbabwe (ca. 1220-1450), Kingdom of Mutapa (ca. 1450-1760), and the Rozwi Empire. The Rozwi Empire expelled Portuguese colonists from the Zimbabwean plateau, but the Ndebele clan of Zulu King MZILIKAZI eventually conquered the area in 1838 during the era of conflict and population displacement known as the Mfecane. <br><br>In the 1880s, colonists arrived with the British South Africa Company (BSAC) and obtained a written concession for mining rights from Ndebele King LOBENGULA. The king later disavowed the concession and accused the BSAC agents of deceit. The BSAC annexed Mashonaland and then conquered Matabeleland during the First Matabele War of 1893-1894, establishing company rule over the territory. In 1923, the UK annexed BSAC holdings south of the Zambezi River, which became the British colony of Southern Rhodesia. The 1930 Land Apportionment Act restricted Black land ownership and established rules that would favor the White minority for decades. A new constitution in 1961 further cemented White minority rule.<br><br>In 1965, the government under White Prime Minister Ian SMITH unilaterally declared its independence from the UK. London did not recognize Rhodesia’s independence and demanded more voting rights for the Black majority in the country. International diplomacy and an uprising by Black Zimbabweans led to biracial elections in 1979 and independence (as Zimbabwe) in 1980. Robert MUGABE, who led the uprising and became the nation's first prime minister, was the country's only ruler (as president since 1987) from independence until 2017. In the mid-1980s, the government tortured and killed thousands of civilians in a crackdown on dissent known as the Gukurahundi campaign. Economic mismanagement and chaotic implementation of land redistribution policies periodically crippled the economy. General elections in 2002, 2008, and 2013 were severely flawed and widely condemned but allowed MUGABE to remain president. In 2017, Vice President Emmerson MNANGAGWA became president after a military intervention that forced MUGABE to resign, and MNANGAGWA cemented power by sidelining rival Grace MUGABE (Robert MUGABE’s wife). In 2018, MNANGAGWA won the presidential election, and he has maintained the government's longstanding practice of violently disrupting protests and politicizing institutions. Economic conditions remain dire under MNANGAGWA.</p><br>
 
 ## Geography
 
@@ -91,7 +91,7 @@ _noun_: Zimbabwean(s)<br>
 _adjective_: Zimbabwean<br>
 
 **Ethnic groups**<br>
-African 99.6% (predominantly Shona; Ndebele is the second largest ethnic group), other (includes caucasian, Asiatic, mixed race) 0.4% (2022 est.)<br>
+African 99.6% (predominantly Shona; Ndebele is the second largest ethnic group), other (includes Caucasian, Asiatic, mixed race) 0.4% (2022 est.)<br>
 
 **Languages**<br>
 Shona (official; most widely spoken) 80.9%, Ndebele (official, second most widely spoken) 11.5%, English (official; traditionally used for official business) 0.3%, 13 minority languages (official; includes Chewa, Chibarwe, Kalanga, Koisan, Nambya, Ndau, Shangani, sign language, Sotho, Tonga, Tswana, Venda, and Xhosa) 7%, other 0.3% (2022 est.)<br>
@@ -407,7 +407,7 @@ _selected World Heritage Site locales_: Mana Pools National Park, Sapi, and Chew
 ## Economy
 
 **Economic overview**<br>
-low income Sub-Saharan economy; political instability, protest crackdowns, and COVID-19 have damaged economic potential; reliant on natural resource extraction and agriculture; endemic corruption; ongoing hyperinflation<br>
+low income Sub-Saharan economy; political instability and endemic corruption have prevented reforms and stalled debt restructuring; new Zimbabwe Gold (ZiG) currency latest effort to combat ongoing hyperinflation; reliant on natural resource extraction, agriculture and remittances<br>
 
 **Real GDP (purchasing power parity)**<br>
 $36.035 billion (2022 est.)<br>
@@ -455,7 +455,7 @@ sugarcane, maize, beef, milk, cassava, wheat, bananas, vegetables, tobacco, cott
 <b>note:</b> top ten agricultural products based on tonnage<br>
 
 **Industries**<br>
-mining (coal, gold, platinum, copper, nickel, tin, diamonds, clay, numerous metallic and nonmetallic ores), steel; wood products, cement, chemicals, fertilizer, clothing and footwear, foodstuffs, beverages<br>
+mining (coal, gold, platinum, copper, nickel, tin, diamonds, clay, numerous metallic and nonmetallic ores), steel, wood products, cement, chemicals, fertilizer, clothing and footwear, foodstuffs, beverages<br>
 
 **Industrial production growth rate**<br>
 5.5% (2022 est.)<br>
@@ -510,9 +510,6 @@ _expenditures_: $23 million (2018 est.)<br>
 7.21% (of GDP) (2018 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $1.096 billion (2020 est.)<br>
 $920.472 million (2019 est.)<br>
@@ -520,10 +517,10 @@ $920.472 million (2019 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$5.263 billion (2020 est.)<br>
-$5.267 billion (2019 est.)<br>
-$5.178 billion (2018 est.)<br>
-<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
+$7.65 billion (2022 est.)<br>
+$6.462 billion (2021 est.)<br>
+$4.795 billion (2020 est.)<br>
+<strong>note:</strong> GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 UAE 57%, South Africa 17%, China 7%, Belgium 4%, Mozambique 2% (2022)<br>
@@ -534,10 +531,10 @@ gold, nickel, tobacco, iron alloys, diamonds (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$5.489 billion (2020 est.)<br>
-$5.398 billion (2019 est.)<br>
-$7.642 billion (2018 est.)<br>
-<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
+$10.126 billion (2022 est.)<br>
+$7.964 billion (2021 est.)<br>
+$5.382 billion (2020 est.)<br>
+<strong>note:</strong> GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 South Africa 39%, China 15%, Singapore 12%, UAE 6%, Mozambique 4% (2022)<br>
@@ -564,7 +561,7 @@ _Currency_: Zimbabwean dollars (ZWD) per US dollar -<br>
 51.329 (2020 est.)<br>
 16.446 (2019 est.)<br>
 322.355 (2018 est.)<br>
-<strong>note:</strong> the dollar was adopted as a legal currency in 2009; since then the Zimbabwean dollar has experienced hyperinflation and is essentially worthless<br>
+<strong>note: </strong>ongoing hyperinflation rendered Zimbabwean dollar essentially worthless; introduction of Zimbabwe Gold (ZiG) as new currency effective April 2024<br>
 
 ## Energy
 
@@ -633,12 +630,12 @@ _Total energy consumption per capita 2019_: 11.516 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 291,324 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2021 est.)<br>
+_total subscriptions_: 291,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 14,257,590 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 89 (2021 est.)<br>
+_total subscriptions_: 14.301 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 88 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Zimbabwe&rsquo;s telcos continue to be affected by the country&rsquo;s poor economy; this has been exacerbated by the significant economic difficulties related to the pandemic; revenue has also been under pressure from a number of recent regulatory measures and additional taxes imposed by the cash-strapped government; inflation has become so high that year-on-year revenue comparisons since 2019 have been difficult to assess meaningfully; the three MNOs continue to invest in network upgrades, partly supported by government efforts and cash released from the Universal Service Fund; as a result of these investments, LTE networks have expanded steadily, though services remain concentrated in urban areas; international bandwidth has improved since fiber links to several submarine cables were established via neighboring countries; the expansion of 3G and LTE-based mobile broadband services has meant that most of the population has access to the internet; the government has started a national broadband scheme aimed at delivering a 1Mb/s service nationally by 2030; investment in fixed broadband infrastructure has also resulted in a slow but steady growth in the number of DSL connections, and also fiber subscriptions; during 2021, most growth in the fixed broadband segment has been with fiber connections (2022)<br>

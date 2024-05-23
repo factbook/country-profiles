@@ -402,9 +402,6 @@ _expenditures_: $890.4 million (2011 est.)<br>
 **Taxes and other revenues**<br>
 14.9% (of GDP) (2012 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Exports**<br>
 $3.217 billion (2015 est.)<br>
 $3.774 billion (2014 est.)<br>
@@ -440,12 +437,12 @@ _electrification - total population_: 100% (2021)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 10,980 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 30 (2021 est.)<br>
+_total subscriptions_: 11,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 28 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 49,264 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 126 (2021 est.)<br>
+_total subscriptions_: 50,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 126 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: possesses a number of modern communications systems, some of which are shared with the neighboring country of Switzerland (2022)<br>

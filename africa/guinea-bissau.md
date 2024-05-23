@@ -473,9 +473,6 @@ _expenditures_: $278 million (2019 est.)<br>
 9.46% (of GDP) (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$14.128 million (2021 est.)<br>
 -$38.683 million (2020 est.)<br>
@@ -594,11 +591,11 @@ _Total energy consumption per capita 2019_: 2.46 million Btu/person (2019 est.)<
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 4,800 (2009 est.)<br>
-_subscriptions per 100 inhabitants_: (2009 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: (2018 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,236,511 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 109 (2021 est.)<br>
+_total subscriptions_: 2.652 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 126 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: small system including a combination of microwave radio relay, open-wire lines, radiotelephone, and mobile cellular communications; 2 mobile network operators; one of the poorest countries in the world and this is reflected in the country's telecommunications development; radio is the most important source of information for the public (2020)<br>

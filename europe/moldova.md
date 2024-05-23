@@ -495,9 +495,6 @@ _expenditures_: $3.754 billion (2019 est.)<br>
 18.94% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$2.482 billion (2022 est.)<br>
 -$1.699 billion (2021 est.)<br>
@@ -614,12 +611,12 @@ _Total energy consumption per capita 2019_: 40.398 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 951,138 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 33 (2021 est.)<br>
+_total subscriptions_: 951,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 29 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,900,179 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 127 (2021 est.)<br>
+_total subscriptions_: 4.17 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 127 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom market has been affected by a combination of high unemployment and economic difficulties which have led to constraints on consumer spending; this has resulted in telecom revenue having fallen steadily in recent years; this decline continued into 2020, with a 6.3% in revenue from the important mobile sector alone, year-on-year; Moldova&rsquo;s aspirations to join the EU have encouraged the government and regulator to adopt a range of measures to bring the country&rsquo;s telecoms sector into line with EU principles and standards; in July 2017 the Electronic Communications Act was amended to accommodate the 2009 European regulatory framework, while further amendments were adopted in December 2017 and additional changes were proposed in 2019; Moldova is also part of the Eastern Partnership group of countries, and as such has set in train a glide path to reducing roaming charges, effective between 2022 and 2026; the country&rsquo;s broadband strategy through to 2025 has been supported by the ITU and industry counterparts from South Korea; the internet market is developing rapidly; the market is highly competitive, with 101 active ISPs as of early 2021; the number of cable broadband subscribers is increasing steadily, though fiber is now by far the strongest sector; by the end of 2020 fiber accounted for about 72.3% of all fixed broadband connections; the mobile market has also grown rapidly; the near comprehensive geographical reach of their mobile networks, market brand recognition and existing customer relationships will make for steady subscriber growth in coming years (2022)<br>

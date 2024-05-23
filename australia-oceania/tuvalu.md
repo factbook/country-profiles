@@ -431,9 +431,6 @@ _expenditures_: $88 million (2019 est.)<br>
 106.7% (of GDP) (2013 est.)<br>
 <strong>note:</strong> revenue data include Official Development Assistance from Australia<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $2.713 million (2022 est.)<br>
 $14.533 million (2021 est.)<br>

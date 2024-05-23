@@ -360,9 +360,6 @@ see entry for the West Bank<br>
 21.47% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP; entry includes West Bank and Gaza Strip<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$2.865 billion (2022 est.)<br>
 -$1.778 billion (2021 est.)<br>
@@ -458,14 +455,14 @@ _Total energy consumption per capita 2019_: 13.604 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 457,706 (2022 est.)<br>
+_total subscriptions_: 458,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 9 (2021 est.)<br>
-<strong>note:</strong> data includes both the Gaza Strip and West Bank<br>
+<b>note:</b> entry includes the West Bank and the Gaza Strip<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,052,966 (2021 est.)<br>
+_total subscriptions_: 4.388 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 78 (2021 est.)<br>
-includes the West Bank<br>
+<b>note:</b> entry includes the West Bank and the Gaza Strip<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p class="paywall">Israel, which controls Palestinian frequencies and telecom infrastructure, limits mobile internet speeds in the Palestinian territories to levels that are significantly lower than in Israel and Jewish West Bank settlements; the World Bank urged Israel to let Palestinian cellular companies set up more advanced networks, and to ease restrictions on the import of equipment needed to build and operate them; Israel is rolling out fifth generation technology for its citizens, while the West Bank operates on 3G and Gaza, 2G; Israeli mobile operators don’t officially service Palestinian areas, but many Palestinians use the faster Israeli networks with SIM cards; the Times of Israel reported in November that Israel tentatively agreed to let Palestinian operators launch 4G services</p> (2022)<br>

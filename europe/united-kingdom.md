@@ -507,9 +507,6 @@ _expenditures_: $1.362 trillion (2020 est.)<br>
 26.22% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-6 April - 5 April<br>
-
 **Current account balance**<br>
 -$101.738 billion (2022 est.)<br>
 -$14.886 billion (2021 est.)<br>
@@ -635,11 +632,11 @@ _Total energy consumption per capita 2019_: 119.894 million Btu/person (2019 est
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 29.798 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 48 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 44 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 80 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 120 (2021 est.)<br>
+_total subscriptions_: 81.564 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 121 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: UK&rsquo;s telecom market remains one of the largest in Europe, characterized by competition, affordable pricing, and its technologically advanced systems; mobile penetration above the EU average; government to invest in infrastructure and 5G technologies with ambition for a fully-fibered nation by 2033; operators expanded the reach of 5G services in 2020; super-fast broadband available to about 95% of customers; London is developing smart city technology, in collaboration with private, tech, and academic sectors (2021)<br>
@@ -705,7 +702,7 @@ _small_: 67<br>
 _very small_: 86<br>
 _size unknown_: 1<br>
 _ports with oil terminals_: 67<br>
-_key ports_: Aberdeen, Barrow In Furness, Barry, Belfast, Blyth, Bristol, Cardiff, Dundee, Falmouth Harbour, Glasgow, Greenock, Grimsby, Immingham, Kingston Upon Hull, Leith, Lerwick, Liverpool, London, Londonderry, Lyness, Manchester, Milford Haven, Newport, Peterhead, Plymouth, Portland Harbour, Portsmouth Harbour, Southampton, Sunderland, Teesport, Tynemouth<br>
+_key ports_: Aberdeen, Barrow-in-Furness, Barry, Belfast, Blyth, Bristol, Cardiff, Dundee, Falmouth Harbour, Glasgow, Greenock, Grimsby, Immingham, Kingston-upon-Hull, Leith, Lerwick, Liverpool, London, Londonderry, Lyness, Manchester, Milford Haven, Newport, Peterhead, Plymouth, Portland Harbour, Portsmouth Harbour, Southampton, Sunderland, Teesport, Tynemouth<br>
 
 **Transportation - note**<br>
 begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe<br>

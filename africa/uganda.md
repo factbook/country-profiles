@@ -514,9 +514,6 @@ _expenditures_: $6.896 billion (2019 est.)<br>
 12.46% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 July - 30 June<br>
-
 **Current account balance**<br>
 -$3.821 billion (2022 est.)<br>
 -$4.095 billion (2021 est.)<br>
@@ -637,12 +634,12 @@ _Total energy consumption per capita 2019_: 2.943 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 116,660 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_total subscriptions_: 117,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 30 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 66 (2021 est.)<br>
+_total subscriptions_: 33.068 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 70 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: a series of reforms within Uganda&rsquo;s telecom sector have provided the country with one of the most competitive markets in the region; in line with the regulator&rsquo;s licensing requirements by which Uganda-based companies should be broadly owned by Ugandans by mid-2022; fixed-line infrastructure remains poor, with low penetration, and as a result fixed-line broadband penetration is also particularly low; consumers have largely depended on mobile infrastructure to provide voice and broadband services; there is sufficient capacity with LTE infrastructure to match data demand during the next few years; Uganda has anticipated the migration to 5G, having held trials in early 2020 though the roll out of 5G is not expected until later in 2022 (2022)<br>

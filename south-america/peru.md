@@ -533,9 +533,6 @@ _expenditures_: $49.134 billion (2019 est.)<br>
 16.11% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$9.908 billion (2022 est.)<br>
 -$5.064 billion (2021 est.)<br>
@@ -655,12 +652,12 @@ _Total energy consumption per capita 2019_: 36.465 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,797,709 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 7 (2021 est.)<br>
+_total subscriptions_: 1.798 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 43,129,394 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 128 (2021 est.)<br>
+_total subscriptions_: 41.549 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 122 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: after suffering a sharp retraction in the number of subscriptions and revenue during 2020 due to the pandemic, Peru&rsquo;s telecom sector managed to stage a small recovery in the first half of 2021; it will likely be two to three years before penetration rates return to the peak levels last seen in 2018; this is especially true given the overwhelming influence of mobile on Peru&rsquo;s telecommunications market, which now commands almost 95% of all connections; Peru&rsquo;s fixed-line teledensity continued its slow dropping below 7% at the end of 2021; investment in network infrastructure is mainly focused on rolling out fiber cable for fixed broadband services in (mainly) urban areas; fixed broadband services inched higher to reach 8.4% at the end of 2020, a positive result that reflected the shift to working from home during enforced lock downs at the start of the year; yet Peru has a relatively low level of computer use, and prices for fixed broadband services are among the highest in Latin America; the overwhelmingly preferred internet access platform will remain the smartphone, with a further 8.6% growth in the number of mobile broadband subscriptions expected in 2021 (2021)<br>
@@ -725,7 +722,7 @@ _medium_: 1<br>
 _small_: 3<br>
 _very small_: 16<br>
 _ports with oil terminals_: 16<br>
-_key ports_: Bahia De Matarani, Iquitos, Puerto Del Callao, Talara<br>
+_key ports_: Bahia de Matarani, Iquitos, Puerto del Callao, Talara<br>
 
 ## Military and Security
 
@@ -758,13 +755,13 @@ the Peruvian Armed Forces (FAP) are responsible for external defense in addition
 ## Space
 
 **Space agency/agencies**<br>
-National Aerospace Research and Development Commission (Comisi&oacute;n Nacional de Investigaci&oacute;n y Desarrollo Aeroespacia, CONIDA; established 1974); National Satellite Imagery Operations Center (Centro Nacional de Operaciones de Im&aacute;genes Satelitales, CONIS; established 2006) (2023)<br>
+National Aerospace Research and Development Commission (Comisi&oacute;n Nacional de Investigaci&oacute;n y Desarrollo Aeroespacia, CONIDA; established 1974); National Satellite Imagery Operations Center (Centro Nacional de Operaciones de Im&aacute;genes Satelitales, CONIS; established 2006) (2024)<br>
 
 **Space launch site(s)**<br>
 Punta Lobos Rocket Range (Chilca, Huancayo; used by foreign partners for scientific sounding rocket launches (1970s-1990s; the US used the site for scientific launches in 1975 and 1983) (2023)<br>
 
 **Space program overview**<br>
-has a small space program focused on acquiring satellites, applying space applications such as data satellite imagery, and building small rockets; has built a small science/technology satellite; operates satellites and processes satellite imagery data; builds and launches sounding rockets with goal of developing a satellite/space launch vehicle (SLV); researching, developing, and acquiring technologies for manufacturing satellites and satellite payloads with a focus on remote sensing (RS) capabilities; member of Latin American and Caribbean Space Agency (ALCE); cooperates with a variety of foreign space agencies and industries, including those of Brazil, China, the European Space Agency and individual member states (particularly France and Germany), India, Russia, South Korea, Thailand, and the US, as well as signatories of the Latin American and Caribbean Space Agency (ALCE) (2023)<br>
+has a small space program focused on acquiring satellites, applying space applications such as data satellite imagery, and building small rockets; has built a small science/technology satellite; operates satellites and processes satellite imagery data; builds and launches sounding rockets with goal of developing a satellite/space launch vehicle (SLV); researching, developing, and acquiring technologies for manufacturing satellites and satellite payloads with a focus on remote sensing (RS) capabilities; member of Latin American and Caribbean Space Agency (ALCE); cooperates with a variety of foreign space agencies and industries, including those of Brazil, China, the European Space Agency and individual member states (particularly France and Germany), India, Russia, South Korea, Thailand, and the US, as well as signatories of the Latin American and Caribbean Space Agency (ALCE) (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

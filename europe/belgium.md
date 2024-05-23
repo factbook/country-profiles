@@ -353,7 +353,7 @@ _subordinate courts_: Courts of Appeal; regional courts; specialized courts for 
 ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux, BIS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Jean-Arthur REGIBEAU (since 17 September 2020)<br>
+_chief of mission_: Ambassador Jean-Arthur R&Eacute;GIBEAU (since 17 September 2020)<br>
 _chancery_: 1430 K Street NW, Washington DC 20005<br>
 _telephone_: [1] (202) 333-6900<br>
 _FAX_: [1] (202) 338-4960<br>
@@ -501,9 +501,6 @@ _expenditures_: $277.492 billion (2019 est.)<br>
 23.1% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$5.304 billion (2022 est.)<br>
 $8.233 billion (2021 est.)<br>
@@ -628,12 +625,12 @@ _Total energy consumption per capita 2019_: 234.216 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,952,930 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 28 (2021 est.)<br>
+_total subscriptions_: 2.953 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 25 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,740,118 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 101 (2021 est.)<br>
+_total subscriptions_: 11.874 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 102 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: mobile networks have been upgraded to support growing mobile data use among subscribers, with near-comprehensive LTE coverage; operators have also trialed 5G in preparation for launching services; the auction of 5G-suitable spectrum has been delayed to the beginning of 2022, while the onerous restrictions on radiation have meant that some 5G trials have been suspended; there is effective competition in Belgium between the DSL and cable platforms, while in recent years government support has also encouraged investment in fiber networks; in a bid to encourage investment in under served areas, the regulator in 2018 amended the conditions by which market players grant wholesale access to copper and fiber infrastructure; in May 2019 it opened a further consultation on cost models for access to the networks of cablecos and fiber infrastructure (2021)<br>

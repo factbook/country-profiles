@@ -497,9 +497,6 @@ _expenditures_: $9.008 billion (2020 est.)<br>
 17.49% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-16 July - 15 July<br>
-
 **Current account balance**<br>
 -$2.518 billion (2022 est.)<br>
 -$5.363 billion (2021 est.)<br>
@@ -623,8 +620,8 @@ _total subscriptions_: 726,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 38 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 130 (2021 est.)<br>
+_total subscriptions_: 38.213 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 127 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: in relation to its telecom sector, Nepal has several topographical and economic constraints which have impeded efforts to expand network infrastructure and improve the quality of service for end-users; the fixed line market remains underdeveloped, and as a result most traffic is channeled via mobile networks; fixed broadband penetration remains very low, though to address this the government has initiated several programs as part of the Digital Nepal Framework and the wider Optical Fiber Backbone Network Expansion Project, started in 2012; supported by the Rural Telecommunications Development Fund, the programs include building out fiber backbone infrastructure and using this to provide broadband to schools and community centers nationally; telcos have also invested in fiber networks, and competition in the market is intensifying; cheap fiber-based services launched in mid-2021 prompted responses from other ISPs to provide faster and more competitively priced offers; Nepal&rsquo;s mobile market is relatively developed, with a focus on LTE; in 2021, the regulator considered a range of spectrum bands which could be used for 5G (2021)<br>

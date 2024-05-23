@@ -511,9 +511,6 @@ _expenditures_: $585.979 billion (2019 est.)<br>
 15.03% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $8.095 billion (2022 est.)<br>
 $10.893 billion (2021 est.)<br>
@@ -638,11 +635,11 @@ _Total energy consumption per capita 2019_: 122.673 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 18,687,040 (2022 est.)<br>
+_total subscriptions_: 18.687 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 39 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 59,019,998 (2022 est.)<br>
+_total subscriptions_: 59.02 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 124 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -705,7 +702,7 @@ _small_: 9<br>
 _very small_: 24<br>
 _size unknown_: 2<br>
 _ports with oil terminals_: 13<br>
-_key ports_: Alicante, Barcelona, Cadiz, Ceuta, Ferrol, Huelva, Las Palmas, Malaga, Palma De Mallorca, Puerto De Bilbao, Puerto De Pasajes, Santa Cruz De Tenerife, Santander, Sevilla, Tarragona, Valencia, Vigo<br>
+_key ports_: Alicante, Barcelona, Cadiz, Ceuta, Ferrol, Huelva, Las Palmas, Malaga, Palma de Mallorca, Puerto de Bilbao, Puerto de Pasajes, Santa Cruz de Tenerife, Santander, Sevilla, Tarragona, Valencia, Vigo<br>
 
 ## Military and Security
 

@@ -509,9 +509,6 @@ _expenditures_: $374.166 billion (2019 est.)<br>
 24.35% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $93.836 billion (2022 est.)<br>
 $124.924 billion (2021 est.)<br>
@@ -738,10 +735,10 @@ the Dutch military is charged with the three core tasks of defending the country
 ## Space
 
 **Space agency/agencies**<br>
-Netherlands Space Office (NSO; established 2009); Netherlands Institute for Space Research (SRON; advises NSO on scientific space research; established 1983) (2023)<br>
+Netherlands Space Office (NSO; established 2009); Netherlands Institute for Space Research (SRON; advises NSO on scientific space research; established 1983) (2024)<br>
 
 **Space program overview**<br>
-has an active space program focused on the added value of space on science, the economy, and society, as well as the development of cutting edge space technologies and services based on satellite data; builds and operates satellites; researches and develops technologies related to astrophysics, telecommunications, remote sensing (RS), propulsion systems, atmospheric measuring instruments (such as spectrometers), planetary/exoplanetary research, and robotics; active member of the European Space Agency (ESA) and participates in the construction of ESA satellite launch vehicles (Arienne and VEGA) and in the ESA astronaut training program; participates in international space programs and with other foreign space agencies and industries, including those of Japan, the US, and members of the EU; has a robust commercial space sector tied in to the larger European space economy (2023)<br>
+has an active space program focused on the added value of space on science, the economy, and society, as well as the development of cutting edge space technologies and services based on satellite data; builds and operates satellites; researches and develops technologies related to astrophysics, telecommunications, remote sensing (RS), propulsion systems, atmospheric measuring instruments (such as spectrometers), planetary/exoplanetary research, and robotics; active member of the European Space Agency (ESA) and participates in the construction of ESA satellite launch vehicles (Arienne and VEGA) and in the ESA astronaut training program; participates in international space programs and with other foreign space agencies and industries, including those of Japan, the US, and members of the EU; has a robust commercial space sector tied in to the larger European space economy (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

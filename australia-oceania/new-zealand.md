@@ -386,7 +386,7 @@ _selected World Heritage Site locales_: Te Wahipounamu – South West New Zealan
 ## Economy
 
 **Economic overview**<br>
-high-income Pacific island economy; strong agriculture, manufacturing, tourism, and energy sectors; reliant on Chinese market for exports; sustained growth; low unemployment; high living standards; sharp growth post COVID-19 lockdown<br>
+high-income, globally integrated Pacific island economy; strong agriculture, manufacturing, and tourism sectors; reliant on Chinese market for exports; slow recovery from post-COVID recession and inflation; challenges of fiscal deficits, below-average productivity, and curbing greenhouse gas emissions<br>
 
 **Real GDP (purchasing power parity)**<br>
 $231.534 billion (2022 est.)<br>
@@ -490,10 +490,6 @@ _expenditures_: $88.593 billion (2020 est.)<br>
 **Taxes and other revenues**<br>
 29.77% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
-
-**Fiscal year**<br>
-1 April - 31 March<br>
-<strong>note:</strong> this is the fiscal year for tax purposes<br>
 
 **Current account balance**<br>
 -$21.627 billion (2022 est.)<br>
@@ -711,13 +707,13 @@ the NZDF is a small military with considerable overseas experience; it supports 
 ## Space
 
 **Space agency/agencies**<br>
-New Zealand Space Agency (NZSA; established 2016 under the Ministry of Business, Innovation, and Employment); Center for Space Science and Technology (CSST; established 2017) (2023)<br>
+New Zealand Space Agency (NZSA; established 2016 under the Ministry of Business, Innovation, and Employment); Center for Space Science and Technology (CSST; established 2017) (2024)<br>
 
 **Space launch site(s)**<br>
-Mahia Peninsula Launch Complex (Hawke's Bay) (2023)<br>
+Mahia Peninsula Launch Complex (Hawke's Bay) (2024)<br>
 
 **Space program overview**<br>
-the New Zealand space sector model is mostly based on commercial space; NZSA and CSST primarily focus on developing space policy and strategy, bringing commercial space talent to New Zealand, and encouraging the commercial development of space technologies, particularly satellites and satellite/space launch vehicles (SLV); manufactures and launches satellites; builds and launches commercial SLVs; researches and develops a range of other space-related technologies, including propulsion systems; participates in international space programs and partners with a range of foreign space agencies and industries, including those of Australia, Canada, the EU and its member states, the European Space Agency (ESA) and its member states, South Africa, and the US; has a small, but growing commercial space sector that contributed over $1 billion to the New Zealand economy in 2019 and provided over 12,000 jobs (2023)<br>
+the New Zealand space sector model is mostly based on commercial space; NZSA and CSST primarily focus on developing space policy and strategy, bringing commercial space talent to New Zealand, and encouraging the commercial development of space technologies, particularly satellites and satellite/space launch vehicles (SLV); manufactures and launches satellites; builds and launches commercial SLVs; researches and develops a range of other space-related technologies, including propulsion systems; has a national space strategy; participates in international space programs and partners with a range of foreign space agencies and industries, including those of Australia, Canada, the EU and its member states, the European Space Agency (ESA) and its member states, South Africa, and the US; has a small, but growing commercial space sector  (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

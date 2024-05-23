@@ -501,9 +501,6 @@ _expenditures_: $8.277 billion (2019 est.)<br>
 7.39% (of GDP) (2016 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$4.443 billion (2022 est.)<br>
 -$2.62 billion (2021 est.)<br>
@@ -623,11 +620,11 @@ _Total energy consumption per capita 2019_: 8.047 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 155,802 (2022 est.)<br>
+_total subscriptions_: 156,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 34,671,259 (2022 est.)<br>
+_total subscriptions_: 34.671 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 74 (2022 est.)<br>
 
 **Telecommunication systems**<br>

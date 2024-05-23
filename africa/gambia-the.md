@@ -394,7 +394,7 @@ _selected World Heritage Site locales_: Kunta Kinteh Island and Related Sites; S
 ## Economy
 
 **Economic overview**<br>
-small West African economy; COVID-19 reversed robust growth trends; good fiscal management; substantial foreign direct investment and remittances; G20 Debt Service Suspension Initiative participant; widespread poverty; increasing Chinese relations<br>
+low-income West African economy; agriculture-dominant; high poverty rate; heightened inflation; dependent on foreign assistance and remittances; structural reforms conditioned by IMF Extended Credit Facility program<br>
 
 **Real GDP (purchasing power parity)**<br>
 $5.719 billion (2022 est.)<br>
@@ -495,9 +495,6 @@ _expenditures_: $353 million (2018 est.)<br>
 
 **Taxes and other revenues**<br>
 20.3% (of GDP) (2017 est.)<br>
-
-**Fiscal year**<br>
-calendar year<br>
 
 **Current account balance**<br>
 -$90.251 million (2022 est.)<br>
@@ -622,8 +619,8 @@ _total subscriptions_: 60,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 27 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
+_total subscriptions_: 2.678 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 101 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Gambia&rsquo;s telecom market has five mobile networks providing effective competition; mobile subscriptions are well above the African average, itself a testament to the poor condition of the fixed-line infrastructure and the lack of availability of fixed services in many rural areas of the country; there are only four licensed ISPs, which are small networks serving local areas, and so competition is minimal; their limited services are complemented by the fixed-wireless offerings of three of the MNOs; the government has embarked on a National Broadband Network program aimed at closing the digital divide affecting many parts of the country; despite efforts to improve internet connectivity, the country ranks among the lowest globally in terms of digital readiness. (2022)<br>

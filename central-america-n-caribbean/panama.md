@@ -496,9 +496,6 @@ _expenditures_: $15.145 billion (2020 est.)<br>
 7.46% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$3.001 billion (2022 est.)<br>
 -$2.051 billion (2021 est.)<br>
@@ -618,12 +615,12 @@ _Total energy consumption per capita 2019_: 98.946 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 811,488 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 18 (2021 est.)<br>
+_total subscriptions_: 811,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,003,255 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 138 (2021 est.)<br>
+_total subscriptions_: 6.891 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 156 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Panama has seen a steady increase in revenue from the telecom sector in recent years; mobile services and broadband remain the key growth sectors, with mobile connections accounting for 90% of all connections, and over half of telecom sector revenue; the mobile market has effective competition; internet services have grown in recent years as consumers responded to government fixed-line projects, improved mobile broadband connectivity and mobile applications (2021)<br>
@@ -683,7 +680,7 @@ _small_: 3<br>
 _very small_: 5<br>
 _size unknown_: 1<br>
 _ports with oil terminals_: 5<br>
-_key ports_: Bahia De Las Minas, Balboa, Pedregal, Puerto Armuelles, Puerto Colon, Puerto Cristobal<br>
+_key ports_: Bahia de las Minas, Balboa, Pedregal, Puerto Armuelles, Puerto Colon, Puerto Cristobal<br>
 
 ## Military and Security
 

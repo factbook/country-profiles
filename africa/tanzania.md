@@ -528,9 +528,6 @@ _expenditures_: $10.017 billion (2019 est.)<br>
 11.7% (of GDP) (2018 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 July - 30 June<br>
-
 **Current account balance**<br>
 -$1.122 billion (2020 est.)<br>
 -$1.512 billion (2019 est.)<br>
@@ -650,11 +647,11 @@ _Total energy consumption per capita 2019_: 3.334 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 84,696 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
+_total subscriptions_: 85,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 60,192,331 (2022 est.)<br>
+_total subscriptions_: 60.192 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 92 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -740,7 +737,7 @@ approximately 25,000 active-duty personnel (21,000 Land Forces; 1,000 Naval Forc
 the TPDF's inventory includes mostly Soviet-era and Chinese equipment; in recent years, China has been the leading supplier of arms and equipment (2023)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service for men and women; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2023)<br>
+18-25 years of age for voluntary military service for men and women; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2024)<br>
 
 **Military deployments**<br>
 520 Central African Republic (MINUSCA); 850 Democratic Republic of the Congo (MONUSCO; note - the MONUSCO mission is in the process of drawing down forces); 125 Lebanon (UNIFIL); approximately 300 Mozambique (under bi-lateral agreement to assist with combatting an insurgency) (2024)<br>

@@ -390,7 +390,7 @@ _selected World Heritage Site locales_: Historic Center of Rome (c); Archaeologi
 ## Economy
 
 **Economic overview**<br>
-core EU economy; strong services, manufacturing, and tourism sectors; hard hit by COVID-19 disruptions but starting to recover; large EU exporter but data skews due to inflated port entry valuation; corruption somewhat stymies foreign direct investment<br>
+core EU economy; strong services, manufacturing, and tourism sectors; sustained recovery in post-COVID inflationary environment; high public debt levels; increasing poverty levels particularly in poorer south; strong exports to EU and US partners<br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.611 trillion (2022 est.)<br>
@@ -503,9 +503,6 @@ _expenditures_: $1.08 trillion (2020 est.)<br>
 **Taxes and other revenues**<br>
 24.93% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
-
-**Fiscal year**<br>
-calendar year<br>
 
 **Current account balance**<br>
 -$30.222 billion (2022 est.)<br>
@@ -631,12 +628,12 @@ _Total energy consumption per capita 2019_: 112.606 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 19,982,393 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 34 (2021 est.)<br>
+_total subscriptions_: 19.982 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 34 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 78,114,933 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 132 (2021 est.)<br>
+_total subscriptions_: 78.503 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 133 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Italy&rsquo;s large telecom market has one of the most progressive fiber sectors in Europe, with regulatory measures encouraging network sharing; regulatory measures have also been introduced to facilitate access to next generation networks (NGNs), and a number of deals have been brokered which enable the main telcoms to provide bundled services to large numbers of the population; Italy&rsquo;s vibrant mobile market has one of the highest subscription rates in Europe, though the number of subscribers has fallen in recent years as customers respond to attractive off-net pricing which has reduced the financial benefit of having SIM cards from different providers; network companies were among the first in Europe to trial services based on 5G; the high cost also encouraged the regulator in early 2021 to consider extending the licenses by an additional six years (2021)<br>
@@ -699,7 +696,7 @@ _small_: 71<br>
 _very small_: 28<br>
 _size unknown_: 1<br>
 _ports with oil terminals_: 33<br>
-_key ports_: Brindisi, Civitavecchia, Genova, Gioia Tauro, La Spezia, Livorno, Messina, Napoli, Porto Di Lido-Venezia, Siracusa, Taranto, Trieste<br>
+_key ports_: Brindisi, Civitavecchia, Genova, Gioia Tauro, La Spezia, Livorno, Messina, Napoli, Porto di Lido-Venezia, Siracusa, Taranto, Trieste<br>
 
 ## Military and Security
 
@@ -734,13 +731,13 @@ the Italian military is responsible for Italy’s national defense and security 
 ## Space
 
 **Space agency/agencies**<br>
-Italian Space Agency (ISA; established 1988); Joint Space Operations Command (Comando Interforze delle Operazioni Spaziali or COS; established 2020) (2023)<br>
+Italian Space Agency (L&rsquo;Agenzia Spaziale Italiana or ASI; established 1988); Joint Space Operations Command (Comando Interforze delle Operazioni Spaziali or COS; established 2020) (2024)<br>
 
 **Space launch site(s)**<br>
-the Broglio (aka San Marco, Malindi) Space Center, located near Malindi, Kenya, served from 1967 to 1988 as an Italian and international satellite launch facility; in 2020, Kenya concluded a new deal with Italy to conduct rocket launches from the site again in the future; in 2018, the Italian Government designated the Taranto-Grottaglie Airport as a future spaceport and signed framework agreements with commercial space companies that could lead to suborbital and orbital launches from what would be called the Grottaglie Spaceport (2023)<br>
+the Broglio (aka San Marco, Malindi) Space Center, located near Malindi, Kenya, served from 1967 to 1988 as an Italian and international satellite launch facility; in 2020, Kenya concluded a new deal with Italy to conduct rocket launches from the site again in the future; in 2018, the Italian Government designated the Taranto-Grottaglie Airport as a future spaceport and signed framework agreements with commercial space companies that could lead to suborbital and orbital launches from what would be called the Grottaglie Spaceport (2024)<br>
 
 **Space program overview**<br>
-has one of the largest space programs in Europe; is a key member of the European Space Agency (ESA) and one of its largest contributors; designs, builds, launches, and operates communications, remote sensing (RS), and scientific satellites; designs and manufacturers sounding (research) rockets and orbital satellite launch vehicles (SLVs); hosts the ESA Center for Earth Observation; has astronaut cadre in the ESA astronaut corps; researches, develops, and builds a range of other space-related technologies and participates in a wide array of international programs with astronauts, cargo containers, construction, expertise, modules, scientific experiments, and technology; outside of the ESA/EU and their individual member states, has cooperated with a variety of foreign space agencies and industries, including those of Argentina, Brazil, Canada, China, Israel, Japan, Kenya, Mexico, Russia, South Korea, Thailand, the UAE, and the US; participates in international space projects such as the International Space Station (ISS); has a considerable commercial space industrial sector with more than 200 companies encompassing a wide range of capabilities, including manufacturing satellites, satellite payloads, launch vehicles, propulsion systems, cargo containers, and their sub-components (2023)<br>
+has one of the largest space programs in Europe; is a key member of the European Space Agency (ESA) and one of its largest contributors; designs, builds, launches, and operates communications, remote sensing (RS), and scientific satellites; designs and manufacturers sounding (research) rockets and orbital satellite launch vehicles (SLVs); hosts the ESA Center for Earth Observation; has astronaut cadre in the ESA astronaut corps; researches, develops, and builds a range of other space-related technologies and participates in a wide array of international programs with astronauts, cargo containers, construction, expertise, modules, scientific experiments, and technology; outside of the ESA/EU and their individual member states, has cooperated with a variety of foreign space agencies and industries, including those of Argentina, Brazil, Canada, China, Israel, Japan, Kenya, Mexico, Russia, South Korea, Thailand, the UAE, and the US; participates in international space projects such as the International Space Station (ISS); has a considerable commercial space industrial sector encompassing a wide range of capabilities, including manufacturing satellites, satellite payloads, launch vehicles, propulsion systems, cargo containers, and their sub-components (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

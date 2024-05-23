@@ -507,9 +507,6 @@ _expenditures_: $16.346 billion (2019 est.)<br>
 14.79% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $1.55 billion (2022 est.)<br>
 -$4.894 billion (2021 est.)<br>
@@ -628,12 +625,12 @@ _Total energy consumption per capita 2019_: 57.709 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,685,854 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 17 (2021 est.)<br>
+_total subscriptions_: 5.686 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 35 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
+_total subscriptions_: 35.69 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 103 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Uzbekistan&rsquo;s telecom markets both wireline and wireless have been playing "catch up" in terms of their development following the country's independence from the former Soviet Union; the government has formally adopted the principles of operating as a market economy, many elements of the old centrally planned economic model remain; this has had the effect of reducing the level of interest from foreign companies and investors in building out the necessary underlying infrastructure, which in turn has constrained the rate of growth in the country&rsquo;s telecoms sector; the last five years has seen an upswing in prospects for the sector as fiber network roll outs continue beyond the main urban centers, while the mobile market experiences some consolidation for stronger, more efficient competitors; growth is present in the fixed broadband segment with penetration projected to reach 24% by 2027 (a 5-year CAGR of 6.2%); despite the promising signs in the fixed markets, it is the mobile segment that continues to dominate Uzbekistan&rsquo;s telecoms sector in terms of penetration, revenue, and growth;&nbsp; there are four major operators providing a modicum of competition; three of the four are government owned entities; the mobile market is expected to reach 100% penetration in 2023 a 50% increase in the last five years (2022)<br>

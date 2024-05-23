@@ -515,9 +515,6 @@ _expenditures_: $2.129 billion (2019 est.)<br>
 11.38% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Current account balance**<br>
 -$1.543 billion (2021 est.)<br>
 -$1.466 billion (2020 est.)<br>
@@ -637,12 +634,12 @@ _Total energy consumption per capita 2019_: 1.809 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 9,456 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_total subscriptions_: 9,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,940,135 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 60 (2021 est.)<br>
+_total subscriptions_: 12.269 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 60 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: with few resources, Malawi is one of the world&rsquo;s least developed countries; there has been little investment in fixed-line telecom infrastructure, and as a result, the country&rsquo;s two mobile networks Airtel Malawi and TMN provide the vast majority of connections for voice and data services; both operators have invested in LTE technologies to improve the quality of data services; the lack of market competition, together with limited international internet bandwidth, has also resulted in some of the highest prices for telecom services in the region; the government in late 2020 secured an average 80% reduction in the cost of data bundles offered by the MNOs; following continuing customer complaints, the regulator in mid-2021 ensured that costs were again reduced, this time by about a third; mobile penetration remains low in comparison to the regional average and so there are considerable opportunities for further growth, particularly in the mobile broadband sector, though there is the possibility that a new play come launch services by the end of 2022; the internet sector is reasonably competitive, with about 50 licensed ISPs, though the limited availability and high cost of international bandwidth has held back growth and kept broadband access prices among the highest in the region; these limitations are being addressed, with the second phase of the national fiber backbone having started in mid-2021 (2022)<br>

@@ -507,9 +507,6 @@ _expenditures_: $2.014 billion (2019 est.)<br>
 **Taxes and other revenues**<br>
 16.6% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $3.35 billion (2022 est.)<br>
 $4.639 billion (2021 est.)<br>
@@ -630,11 +627,11 @@ _Total energy consumption per capita 2019_: 4.133 million Btu/person (2019 est.)
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 0 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 13.795 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 105 (2020 est.)<br>
+_total subscriptions_: 13.795 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 102 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the number of mobile subscribers grew strongly while revenue also increased steadily; fixed broadband services are still very limited and expensive, though there have been some positive developments in recent years; the landing of the first international submarine cable in 2012, and the setting up of an IXP in mid-2013, increased the bandwidth available to the ISPs, and helped reduce the cost of internet services for end-users; a National Backbone Network was completed in mid-2020, connecting administrative centers across the country; almost all internet connections are made via mobile networks; GSM services account for a dwindling proportion of connections, in line with the greater reach of services based on 3G and LTE (2022)<br>

@@ -377,7 +377,7 @@ _chancery_: 1600 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 238-6400<br>
 _FAX_: [1] (202) 332-3171<br>
 _email address and website_: <br>eeeuu@mrecic.gov.ar<br><br>https://eeeuu.cancilleria.gob.ar/en<br>
-_consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, New York, Washington, DC<br>
+_consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Marc Robert STANLEY (since 24 January 2022)<br>
@@ -517,9 +517,6 @@ _expenditures_: $170.725 billion (2019 est.)<br>
 11.47% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$4.29 billion (2022 est.)<br>
 $6.645 billion (2021 est.)<br>
@@ -644,12 +641,12 @@ _Total energy consumption per capita 2019_: 79.083 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,615,491 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 15 (2021 est.)<br>
+_total subscriptions_: 7.615 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 17 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 59,065,827 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 130 (2021 est.)<br>
+_total subscriptions_: 60.236 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 132 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Argentina&rsquo;s ongoing problem with hyperinflation continues to distort the telecom market&rsquo;s performance, which shows strong growth in revenue but only modest gains in subscriber numbers each year; the fixed broadband segment has penetration levels only slightly higher than the fixed-line teledensity; nearly a quarter of the country&rsquo;s broadband connections are via DSL, although fiber is starting claim an increasing share of that market as networks expand across most of the main cities; mobile broadband continues to be the preferred platform for internet access, supported by high mobile penetration levels and nationwide LTE coverage; the first 5G service was launched in February 2021 using refarmed LTE frequencies; the anticipated 5G spectrum auctions should drive even stronger uptake in mobile broadband services; while the various fixed, mobile, and cable operators push to expand and enhance their services, the government is also making an active contribution towards boosting broadband connectivity around the country; its national connectivity plan &lsquo;Plan Conectar&rsquo;, launched in September 2020, provides funding for a range of programs to increase coverage; in August 2021, the telecom regulator announced the release funding to help operators accelerate the rollout of their broadband infrastructure and services (2021)<br>
@@ -712,7 +709,7 @@ _medium_: 2<br>
 _small_: 10<br>
 _very small_: 24<br>
 _ports with oil terminals_: 19<br>
-_key ports_: Buenos Aires, Campana, Concepcion Del Uruguay, La Plata, Mar Del Plata, Puerto Belgrano, Puerto Ingeniero White, Puerto Madryn, Rosario, San Sebastian Bay, Santa Fe, Ushuaia, Zarate<br>
+_key ports_: Buenos Aires, Campana, Concepcion del Uruguay, La Plata, Mar del Plata, Puerto Belgrano, Puerto Ingeniero White, Puerto Madryn, Rosario, San Sebastian Bay, Santa Fe, Ushuaia, Zarate<br>
 
 ## Military and Security
 

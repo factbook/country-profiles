@@ -514,9 +514,6 @@ _expenditures_: $74.127 billion (2019 est.)<br>
 21.49% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$14.24 billion (2022 est.)<br>
 -$7.29 billion (2021 est.)<br>
@@ -641,12 +638,12 @@ _Total energy consumption per capita 2019_: 108.212 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,845,376 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 30 (2021 est.)<br>
+_total subscriptions_: 2.845 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 29 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,248,653 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 106 (2021 est.)<br>
+_total subscriptions_: 10.372 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 104 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Hungary benefits from having a developed telecom infrastructure, with a focus among operators to develop the 5G sector and upgrade fixed networks to provide a 1Gb/s service; services based on 5G have been supported by the January 2021 multi-spectrum auction for spectrum in the 900MHz and 1800MHz bands; the number of fixed-lines continues to fall as subscribers migrate to the mobile platform for voice and data services; operators have looked to bundled packages to boost revenue and retain subscribers; the broadband market has effective infrastructure-based competition, with an extensive cable network competing against DSL services and a vibrant and rapidly expanding fiber sector; the regulator has also introduced a number of measures aimed at promoting market competition, which is pushing the drive for higher speed platforms and encouraging operators to invest in technology upgrades; as a result, Hungary now has the highest fixed broadband penetration rate in Eastern Europe; the number of super fast broadband connections (above 30Mb/s) accounted for 78% of all fixed broadband connections (2022)<br>
@@ -732,10 +729,10 @@ the Hungarian Defense Forces (HDF) are responsible for ensuring the defense of t
 ## Space
 
 **Space agency/agencies**<br>
-Hungarian Space Office (HSO; established 1992) (2023)<br>
+Hungarian Space Office (HSO; established 1992) (2024)<br>
 
 **Space program overview**<br>
-has a history of involvement in space activities going back to the Soviet era; growing a modern space program focused on acquiring satellites and contributing to the European Space Agency (ESA); has a national space strategy; builds and operates satellites; researches and develops space technologies, including communications, navigation, and subsystems for satellites; has an astronaut corps; in addition to being an ESA member and cooperating with individual ESA and EU member states, particularly France, has relations with a variety of other foreign space agencies and industries, including those of Brazil, Israel, Russia, Singapore, Turkey, the UAE, and the US; national space strategy included the goals of fostering innovation and increasing Hungary’s competitiveness in the commercial space sector (2023)<br>
+has a history of involvement in space activities going back to the Soviet era; growing a modern space program focused on acquiring satellites and contributing to the European Space Agency (ESA); has a national space strategy; builds and operates satellites; researches and develops space technologies, including communications, navigation, and subsystems for satellites; has an astronaut corps; in addition to being an ESA member and cooperating with individual ESA and EU member states, particularly France, has relations with a variety of other foreign space agencies and industries, including those of Brazil, Israel, Russia, Singapore, Turkey, the UAE, and the US; national space strategy included the goals of fostering innovation and increasing Hungary’s competitiveness in the commercial space sector (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

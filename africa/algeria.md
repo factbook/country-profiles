@@ -496,9 +496,6 @@ _expenditures_: $64.728 billion (2019 est.)<br>
 **Taxes and other revenues**<br>
 32.3% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $19.036 billion (2022 est.)<br>
 -$4.515 billion (2021 est.)<br>
@@ -617,12 +614,12 @@ _Total energy consumption per capita 2019_: 61.433 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,576,193 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 12 (2021 est.)<br>
+_total subscriptions_: 5.576 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 12 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 47,028,685 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 106 (2021 est.)<br>
+_total subscriptions_: 49.019 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 109 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Algeria has a steadily developing telecom infrastructure with growth encouraged by supportive regulatory measures and by government policies aimed at delivering serviceable internet connections across the country; mobile broadband is largely based on 3G and LTE, and the data rates are also low in global terms; LTE is available in all provinces, investment is required from the mobile network operators (MNOs) to improve the quality of service; the state has previously been hesitant to commit to 5G, instead encouraging the MNOs to undertake upgrades to LTE infrastructure before investing in commercial 5G services; in March 2022, the state is in the process of freeing up the requisite spectrum to enable the MNOs to launch 5G services sometime this year; fixed internet speeds remain slow (2022)<br>

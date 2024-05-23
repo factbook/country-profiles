@@ -393,7 +393,7 @@ _selected World Heritage Site locales_: Mbanza-Kongo<br>
 ## Economy
 
 **Economic overview**<br>
-African oil leader and OPEC member; fairly stable currency; widespread poverty; emerging African finance and investment capital; systemic public corruption and lack of oversight; massive foreign direct investment recipient<br>
+middle-income, oil-dependent African economy; widespread poverty; rising inflation and currency depreciation; seeking diversification through agricultural production; significant corruption in public institutions; major infrastructure investments from China and US; exited OPEC in 2023<br>
 
 **Real GDP (purchasing power parity)**<br>
 $210.193 billion (2022 est.)<br>
@@ -505,9 +505,6 @@ _expenditures_: $17.244 billion (2019 est.)<br>
 **Taxes and other revenues**<br>
 10.09% (of GDP) (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
-
-**Fiscal year**<br>
-calendar year<br>
 
 **Current account balance**<br>
 $11.763 billion (2022 est.)<br>
@@ -628,12 +625,12 @@ _Total energy consumption per capita 2019_: 11.693 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 93,968 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_total subscriptions_: 94,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 15,327,864 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 44 (2021 est.)<br>
+_total subscriptions_: 23.978 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 67 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Angola&rsquo;s telecom sector in recent years has benefited from political stability, which has encouraged foreign investment in the sector; the government and regulator have also set in train mechanisms to open up the telecom sector to new competitors, mobile services were launched in April 2022; the MNOs were slow to develop LTE services, instead relying on their GSM and 3G network capabilities; there has been slow progress in LTE network development, with only a small proportion of the country covered by network infrastructure; the Ministry of Telecommunications in early 2021 set up a 5G hub to assess 5G user cases; the regulator in November 2021 granted licenses to various companies offering 5G services, with spectrum in the 3.3-3.7GHz range having been set aside for such services (2022)<br>

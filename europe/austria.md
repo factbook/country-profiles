@@ -369,7 +369,7 @@ _chancery_: 3524 International Court NW, Washington, DC 20008-3035<br>
 _telephone_: [1] (202) 895-6700<br>
 _FAX_: [1] (202) 895-6750<br>
 _email address and website_: <br>washington-ob@bmeia.gv.at<br><br>https://www.austria.org/<br>
-_consulate(s) general_: Los Angeles, New York, Washington<br>
+_consulate(s) general_: Los Angeles, New York<br>
 _consulate(s)_: Chicago<br>
 
 **Diplomatic representation from the US**<br>
@@ -513,9 +513,6 @@ _expenditures_: $215.485 billion (2019 est.)<br>
 25.84% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$1.29 billion (2022 est.)<br>
 $7.77 billion (2021 est.)<br>
@@ -632,12 +629,12 @@ _Total energy consumption per capita 2019_: 171.299 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,544,263 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 43 (2021 est.)<br>
+_total subscriptions_: 3.544 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 40 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,882,217 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 122 (2021 est.)<br>
+_total subscriptions_: 11.035 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 123 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: mature telecom market; the mobile market benefits from a growing number of Mobile Virtual Network Operators; the telcos as well as the government and regulator have been focused on delivering improved telecom infrastructure; the government has a program to provide a national gigabit service by 2030, delivered by private enterprise though with some state funding; this is based on fiber networks supported by 5G, with the Mobile Network Operators able to expand the reach of their 5G services following auctions held in March 2019 and September 2020; the fixed-line broadband market is still dominated by the DSL sector, while the cable broadband sector has held a steady share of connections in recent years; the fiber sector was slow to develop, and although fiber remains low there are plans to build out the network infrastructure (2021)<br>

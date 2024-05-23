@@ -492,9 +492,6 @@ _expenditures_: $97.713 billion (2019 est.)<br>
 17.16% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $57.807 billion (2022 est.)<br>
 $70.909 billion (2021 est.)<br>
@@ -611,12 +608,12 @@ _Total energy consumption per capita 2019_: 133.674 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,497,863 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 32 (2021 est.)<br>
+_total subscriptions_: 1.498 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 30 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,373,865 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 108 (2021 est.)<br>
+_total subscriptions_: 5.69 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 113 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Ireland&rsquo;s telecom market has rebounded from a long period in which fiscal constraints inhibited investment in the sector; significant infrastructure projects are underway, including the NBN which aims to deliver a fiber-based service of at least 150Mb/s nationally by the end of 2022; the renewed optimism has been seen in company investment in extending fiber-based networks providing 1Gb/s services; the mobile sector is preparing for a multi-frequency availability later in 2021 which will greatly increase the amount of frequencies available, and provide a boost for 5G services; the MNOs are rapidly expanding the reach of 5G (2021)<br>

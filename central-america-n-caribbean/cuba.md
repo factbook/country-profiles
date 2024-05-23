@@ -474,9 +474,6 @@ _expenditures_: $64.64 billion (2017 est.)<br>
 **Taxes and other revenues**<br>
 58.1% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $985.4 million (2017 est.)<br>
 $2.008 billion (2016 est.)<br>
@@ -589,12 +586,12 @@ _Total energy consumption per capita 2019_: 32.785 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,573,526 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 14 (2021 est.)<br>
+_total subscriptions_: 1.574 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,103,296 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 63 (2021 est.)<br>
+_total subscriptions_: 7.6 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 68 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: internet availability has increased substantially over the past few years, only about 70 percent of Cubans have Internet access; 69 percent (7.6 million) have acces to cell phone service, 68 percent have internet access through their cell phone; in 2021 the Cuban Government passed a decree that strengthened its authority to censor Internet and telephonic communications; state control of the telecom sector hinders development; Cuba has the lowest mobile phone and Internet subscription rates in the region; fixed-line density is also very low; thaw of US-Cuba relations encouraged access to services, such as Wi-Fi hot spots; access to websites and mobile applications is controlled and censored; DSL and Internet are available in Havana, though costs are too high for most Cubans and access can be turned off by the government; international investment and agreement to improve internet access through cost-free and direct connection between networks (2021)<br>
@@ -662,7 +659,7 @@ _small_: 10<br>
 _very small_: 6<br>
 _size unknown_: 9<br>
 _ports with oil terminals_: 14<br>
-_key ports_: Antilla, Bahai De La Habana, Bahia De Sagua De Tanamo, Cabanas, Casilda, Cienfuegos, Nuevitas Bay, Puerto Guantanamo, Santiago De Cuba<br>
+_key ports_: Antilla, Bahai de la Habana, Bahia de Sagua de Tanamo, Cabanas, Casilda, Cienfuegos, Nuevitas Bay, Puerto Guantanamo, Santiago de Cuba<br>
 
 ## Military and Security
 

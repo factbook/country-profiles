@@ -405,7 +405,7 @@ _selected World Heritage Site locales_: Island of Mozambique<br>
 ## Economy
 
 **Economic overview**<br>
-low-income East African economy; mostly rural labor force; natural resource rich; strong South African ties; Islamist terrorism in north endangers newly discovered natural gas; currently in court over massive (possibly unauthorized) debt<br>
+low-income East African economy; subsistence farming dominates labor force; return to growth led by agriculture and extractive industries; Islamist insurgency threatens natural gas projects in north; ongoing foreign debt restructuring and resolution under IMF Highly Indebted Poor Countries (HIPC) initiative<br>
 
 **Real GDP (purchasing power parity)**<br>
 $41.237 billion (2022 est.)<br>
@@ -515,9 +515,6 @@ _expenditures_: $4.591 billion (2019 est.)<br>
 **Taxes and other revenues**<br>
 22.75% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
-
-**Fiscal year**<br>
-calendar year<br>
 
 **Current account balance**<br>
 -$6.295 billion (2022 est.)<br>
@@ -638,12 +635,12 @@ _Total energy consumption per capita 2019_: 8.107 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 29,080 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_total subscriptions_: 29,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 13,686,234 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 43 (2021 est.)<br>
+_total subscriptions_: 13.871 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 42 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: one of the first countries in the region to embark upon telecom reform and to open the sector to competition; the mobile segment in particular has shown strong growth; additional competition followed in late 2020; a new licensing regime ensured that by mid-2019 all operators had been provided with universal licenses, enabling them to offer all types of telephony and data services; mobile, fixed-line and broadband penetration rates remain far below the average for the region; in recent years the government has enforced the registration of SIM cards, but with varying success; at the end of 2016 almost five million unregistered SIM cards were deactivated but poor monitoring meant that the process was revisited in mid-2019 and again in late 2020; the high cost of international bandwidth had long hampered internet use, though the landing of two international submarine cables (SEACOM and EASSy) has reduced the cost of bandwidth and so led to drastic reductions in broadband retail prices as well as a significant jump in available bandwidth; there is some cross-platform competition, with DSL, cable, fibre, WiMAX, and mobile broadband options available, though fixed broadband options can be limited to urban areas; improvements can be expected from the ongoing rollout of a national fiber backbone networks and of upgrades to mobile infrastructure (2022)<br>

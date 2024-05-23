@@ -515,9 +515,6 @@ _expenditures_: $14.062 billion (2018 est.)<br>
 11.34% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$1.517 billion (2022 est.)<br>
 -$2.541 billion (2021 est.)<br>
@@ -637,12 +634,12 @@ _Total energy consumption per capita 2019_: 11.239 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 330,016 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
+_total subscriptions_: 330,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 40,454,073 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 123 (2021 est.)<br>
+_total subscriptions_: 40.045 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 120 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: challenged by unreliable electricity and shortage of skilled labor, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure and off-grid solutions provide data coverage to over 23 million people; launch of LTE has improved mobile data services, including m-commerce and banking; moderately competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity; LTE services are widely available; the relatively high cost of 5G-compatible devices also inhibits most subscribers from migrating from 3G and LTE platforms (2022)<br>
@@ -711,7 +708,7 @@ _key ports_: Saltpond, Sekondi, Takoradi, Tema<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ghana Armed Forces: Army, Navy, Air Force (2024)<br>
+Ghana Armed Forces (GAF): Army, Navy, Air Force (2024)<br>
 <strong>note:</strong> the Ghana Police Service is under the Ministry of the Interior<br>
 
 **Military expenditures**<br>
@@ -722,13 +719,14 @@ Ghana Armed Forces: Army, Navy, Air Force (2024)<br>
 0.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 14,000 active personnel (10,000 Army; 2,000 Navy; 2,000 Air Force) (2023)<br>
+approximately 16,000 active personnel (12,000 Army; 2,000 Navy; 2,000 Air Force) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix older and some newer Russian, Chinese, and Western equipment (2023)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for voluntary military service, with basic education certificate; no conscription (2023)<br>
+18-27 years of age for voluntary military service, with basic education certificate; no conscription (2024)<br>
+<strong>note:</strong> as of 2024, women comprised approximately 15% of the military; Ghanaian women first began serving in the late 1950s<br>
 
 **Military deployments**<br>
 875 Lebanon (UNIFIL); 725 (plus about 275 police) South Sudan (UNMISS); 670 Sudan (UNISFA) (2024)<br>

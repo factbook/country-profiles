@@ -514,9 +514,6 @@ _expenditures_: $211.069 billion (2019 est.)<br>
 20.13% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$1.464 billion (2022 est.)<br>
 $2.082 billion (2021 est.)<br>
@@ -634,12 +631,12 @@ _Total energy consumption per capita 2019_: 89.733 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,234,915 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 31 (2021 est.)<br>
+_total subscriptions_: 1.235 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 31 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,402,213 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 108 (2021 est.)<br>
+_total subscriptions_: 4.48 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 111 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the mobile market is served by three MNOs, supplemented by a number of MVNOs; the network operators have focused on improving ARPU by encouraging prepaid subscribers to migrate to postpaid plans, and on developing revenue from mobile data services; 5G services are widely available, though the sector will only show its full potential later in 2021 following the award of licenses in several bands; this will contribute towards the government&rsquo;s national broadband plan to 2027, which is tied to the EC&rsquo;s two allied projects aimed at providing gigabit connectivity by the end of 2025; the broadband sector benefits from effective competition between the DSL and cable platforms, while there are also numerous fiber deployments in urban areas; the number of FttP subscribers broached 134,000 in March 2021. (2021)<br>

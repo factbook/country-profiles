@@ -518,9 +518,6 @@ _expenditures_: $75.834 billion (2019 est.)<br>
 **Taxes and other revenues**<br>
 24.8% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$1.074 billion (2022 est.)<br>
 -$4.628 billion (2021 est.)<br>
@@ -637,12 +634,12 @@ _Total energy consumption per capita 2019_: 36.392 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,390,671 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2021 est.)<br>
+_total subscriptions_: 2.391 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 140 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 140 (2021 est.)<br>
+_total subscriptions_: 137.412 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 140 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: even with Covid-19 pandemic-related mobility restrictions in place, Vietnam&rsquo;s economy has continued to outperform the rest of the region in 2020 and 2021; the telecom sector essentially spent most of this period in a holding pattern, focusing on maintaining service throughout the crisis while preparing for some major changes to come in the mobile market in 2022; both fixed-line telephony and mobile have experienced small drops in subscriber numbers since the start of the pandemic, but the similarities between the two markets end there; fixed-line teledensity continued its downwards trajectory towards virtual oblivion, with just 3% penetration (around 3 million subscribers) at the start of 2021; the mobile market has lost about the same number of subscribers since the end of 2019, but has been sitting on much higher penetration levels around 130% for many years; growth is expected to kick in again in 2022 following the anticipated launch of commercial 5G mobile services along with a range of government-led schemes to move consumers completely off 2G and 3G; one example is the planned redistribution of GSM/3G bandwidth to LTE; in addition to propelling Vietnam into having one of the most advanced mobile markets in the world, this should also spur on the mobile broadband segment; with a penetration level of just over 70%, mobile broadband has considerable room to grow; increasing economic prosperity coupled with the latest smartphone technology and networks should see mobile broadband underwriting the country&rsquo;s telecommunications sector for at least the next few years; this report includes the regulator's market data to July 2021, telcos' financial and operating data updates to June 2021, Telecom Maturity Index charts and analyses, assessment of the global impact of Covid-19 on the telecoms sector, and other recent market developments (2021)<br>

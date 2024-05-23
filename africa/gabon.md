@@ -359,7 +359,7 @@ _FAX_: [1] (301) 332-0668<br>
 _email address and website_: <br>info@gaboneembassyusa.org<br><br>https://gabonembassyusa.org/en/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Ambassador Vernelle Trim FITZPATRICK (since 26 January 2024); note - also accredited to Sao Tome and Principe<br>
+_chief of mission_: Ambassador Vernelle Trim FITZPATRICK (since 26 January 2024); note - also accredited to Sao Tome and Principe<br>
 _embassy_: Sabliere, B.P. 4000, Libreville<br>
 _mailing address_: 2270 Libreville Place, Washington, DC 20521-2270<br>
 _telephone_: [241] 011-45-71-00<br>
@@ -384,7 +384,7 @@ _selected World Heritage Site locales_: Ecosystem and Relict Cultural Landscape 
 ## Economy
 
 **Economic overview**<br>
-natural resource-rich, upper-middle-income, Central African economy; sparsely populated but high urbanization; young labor force; oil, manganese, and rubber exporter; foreign investment dependent; data integrity issue on poverty and income<br>
+natural-resource-rich, upper-middle-income, Central African economy; significant reliance on oil and mineral exports; highly urbanized population; high levels of poverty and unemployment; uncertainty on institutional and development reform progress following 2023 military coup<br>
 
 **Real GDP (purchasing power parity)**<br>
 $33.302 billion (2022 est.)<br>
@@ -493,9 +493,6 @@ _expenditures_: $2.937 billion (2019 est.)<br>
 11.48% (of GDP) (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$725 million (2017 est.)<br>
 -$1.389 billion (2016 est.)<br>
@@ -503,10 +500,10 @@ $140.996 million (2015 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$10.8 billion (2019 est.)<br>
-$9.533 billion (2018 est.)<br>
-$9.145 billion (2017 est.)<br>
-<b>note:</b> balance of payments - exports of goods and services in current dollars<br>
+$12.935 billion (2022 est.)<br>
+$11.229 billion (2021 est.)<br>
+$7.275 billion (2020 est.)<br>
+<strong>note:</strong> GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
 China 43%, South Korea 8%, Italy 7%, India 7%, Indonesia 5% (2022)<br>
@@ -517,10 +514,10 @@ crude petroleum, manganese ore, wood, veneer sheets, refined petroleum (2022)<br
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$5.02 billion (2019 est.)<br>
-$4.722 billion (2018 est.)<br>
-$4.749 billion (2017 est.)<br>
-<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
+$3.499 billion (2022 est.)<br>
+$3.353 billion (2021 est.)<br>
+$3.454 billion (2020 est.)<br>
+<strong>note:</strong> GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 22%, France 21%, UAE 5%, US 5%, Belgium 4% (2022)<br>
@@ -615,12 +612,12 @@ _Total energy consumption per capita 2019_: 26.786 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 43,395 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
+_total subscriptions_: 43,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,144,609 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 134 (2021 est.)<br>
+_total subscriptions_: 2.995 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 125 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom market was liberalized in 1999 when the government awarded three mobile telephony licenses and two ISP licenses and established an independent regulatory authority; in contrast with the mobile market, Gabon&rsquo;s fixed-line and internet sectors have remained underdeveloped due to a lack of competition and high prices; the country has sufficient international bandwidth on the SAT-3/WASC/SAFE submarine cable; the arrival of the ACE submarine cable, combined with progressing work on the CAB cable, has increased back haul capacity supporting mobile data traffic (2022)<br>

@@ -338,9 +338,6 @@ _expenditures_: $452.3 million (2008 est.)<br>
 7.5% of GDP (2008 est.)<br>
 8.4% of GDP (2006 est.)<br>
 
-**Fiscal year**<br>
-1 July - 30 June<br>
-
 **Exports**<br>
 $202.3 million (2014 est.)<br>
 $271 million (2004 est.)<br>
@@ -436,12 +433,12 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 17,155 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 53 (2021 est.)<br>
+_total subscriptions_: 17,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 53 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 34,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
+_total subscriptions_: 37,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 112 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Gibraltar&rsquo;s population is urban-based, served by a digital telephone exchange supported by a fiber optic and copper infrastructure; near universal mobile and Internet use (2019)<br>

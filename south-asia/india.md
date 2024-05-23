@@ -530,9 +530,6 @@ _expenditures_: $818.94 billion (2020 est.)<br>
 12.02% (of GDP) (2018 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Current account balance**<br>
 -$79.051 billion (2022 est.)<br>
 -$33.422 billion (2021 est.)<br>
@@ -661,11 +658,11 @@ _Total energy consumption per capita 2019_: 23.231 million Btu/person (2019 est.
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 27.45 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.15 billion (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 82 (2021 est.)<br>
+_total subscriptions_: 1.143 billion (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 81 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: India&rsquo;s telecommunications sector has struggled for growth over the last five years; the sector&rsquo;s lackluster performance has been in spite of concerted efforts by the government to bolster the underlying infrastructure in a bid to achieve universal coverage; instead, the country&rsquo;s relatively liberal regulatory environment has encouraged fierce competition and price wars among the operators; State-owned as well as private operators have been forced to seek redress from the government in order to avoid bankruptcy; one particular area of contention has been the billions owed by the operators to the government in the form of Adjusted Gross Revenue (AGR) dues &ndash; usage and licensing fees charged by the Department of Telecommunications (DoT) &ndash; that have been the subject of long-standing court battles over what should be counted as revenue; the government won that battle in the Supreme Court in 2019, but the financial impairment of that decision has pushed a number of telcos to the brink; add the impact of the Covid-19 crisis in 2020 and 2021 to the mix, and the government had to come to the industry&rsquo;s rescue by introducing a major reform package in September 2021; along with changes to the definition of AGR with regard to non-telecom revenue, the package includes a four-year moratorium on AGR dues and spectrum instalments; the government has also deferred the spectrum auctions for 5G until later in 2022; mobile spectrum in India is already in short supply in terms of providing the necessary capacity to reach universal coverage, but the cash-strapped MNOs may not yet be in a sufficiently strong financial position for which to make the 5G spectrum auction viable (2022)<br>
@@ -765,13 +762,13 @@ the Indian military performs a variety of missions; it is primarily focused on C
 ## Space
 
 **Space agency/agencies**<br>
-Indian Space Research Organization (ISRO; established 1969); the ISRO is subordinate to the Department of Space (DOS; established 1972); India&rsquo;s first space organization was the Indian National Committee for Space Research (INCOSPAR; established 1962); Defense Space Agency (DSA; established 2019 to command the space assets of the Army, Navy, and Air Force; the Defense Imagery Processing and Analysis Center, Defense Satellite Control Center, and Defense Space Research Organization were also merged into the DSA); National Space Promotion and Authorization Center (established 2020 to facilitate India&rsquo;s private sector in the country&rsquo;s space program) (2023)<br>
+Indian Space Research Organization (ISRO; established 1969); the ISRO is subordinate to the Department of Space (DOS; established 1972); India&rsquo;s first space organization was the Indian National Committee for Space Research (INCOSPAR; established 1962); Defense Space Agency (DSA; established 2019 to command the space assets of the Army, Navy, and Air Force; the Defense Imagery Processing and Analysis Center, Defense Satellite Control Center, and Defense Space Research Organization were also merged into the DSA); National Space Promotion and Authorization Center (established 2020 to facilitate India&rsquo;s private sector in the country&rsquo;s space program) (2024)<br>
 
 **Space launch site(s)**<br>
-Satish Dhawan Space Center (aka Sriharikota Range; located in Andhra Pradesh); Vikram Sarabhai Space Center (Kerala) (2023)<br>
+Satish Dhawan Space Center (aka Sriharikota Range; located in Andhra Pradesh); Vikram Sarabhai Space Center (Kerala) (2024)<br>
 
 **Space program overview**<br>
-has one of the world’s largest space programs; designs, builds, launches, operates, and tracks the full spectrum of satellites, including communications, navigation, remote sensing (RS), and scientific/technology; designs, builds, and launches rockets, space/satellite launch vehicles (SLVs), and lunar/interplanetary probes; launches satellites for foreign partners; developing human space flight capabilities with Russian assistance; researching and developing additional space-related technologies and capabilities; has space-related agreements with more than 50 countries, including China, France, Germany, Japan, Russia, and the US, as well as the European Space Agency; participates in international space projects such as the Square Kilometer Array (SKA) radio telescope; has a government-owned company under the administrative control of DOS; NewSpace India Limited (NSIL) is the commercial arm of the ISRO with the responsibility of researching and developing space-related technologies and promoting India’s growing space industry (2023)<br>
+has one of the world’s largest space programs; designs, builds, launches, operates, and tracks the full spectrum of satellites, including communications, navigation, remote sensing (RS), and scientific/technology; designs, builds, and launches rockets, space/satellite launch vehicles (SLVs), and lunar/interplanetary probes; launches satellites for foreign partners; developing human space flight capabilities (with assistance from Russia, US); researching and developing additional space-related technologies and capabilities; has space-related agreements with more than 50 countries, including China, France, Germany, Japan, Russia, and the US, as well as the European Space Agency; participates in international space projects such as the Square Kilometer Array (SKA) radio telescope; has a government-owned company under the administrative control of DOS; NewSpace India Limited (NSIL) is the commercial arm of the ISRO with the responsibility of researching and developing space-related technologies and promoting India’s growing space industry (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

@@ -497,9 +497,6 @@ _expenditures_: $385 million (2019 est.)<br>
 8.21% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$163 million (2017 est.)<br>
 -$97 million (2016 est.)<br>
@@ -621,7 +618,7 @@ _total subscriptions_: 2,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.8 million (2021 est.)<br>
+_total subscriptions_: 1.831 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 34 (2021 est.)<br>
 
 **Telecommunication systems**<br>

@@ -391,9 +391,6 @@ _expenditures_: $10.165 billion (2019 est.)<br>
 19.31% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $1.339 billion (2022 est.)<br>
 $1.758 billion (2021 est.)<br>
@@ -510,12 +507,12 @@ _Total energy consumption per capita 2019_: 81.407 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 92,382 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 16 (2021 est.)<br>
+_total subscriptions_: 92,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.8 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 410 (2021 est.)<br>
+_total subscriptions_: 1.213 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 175 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Macau&rsquo;s economy and GDP have been on a roller coaster ride since the start of the Covid-19 pandemic in 2020; the Special Administrative Region (SAR) of China is heavily dependent on tourists coming from the mainland and Hong Kong to play in Macau&rsquo;s many casinos, but the ensuing lock downs contributed to a dramatic fall in visitor numbers as well as income; this too, has had a major effect on the telecom sector (particularly in the mobile segment) with short-stay visitors as well as foreign workers on temporary-stay visas being forced to stay away.; total mobile subscription numbers are estimated to have dropped from a high of 2.8 million in 2019 (representing a whopping 442% penetration rate in a region with a population of just 700,000) to less than half that by the end of 2021: 1.3 million subscribers; Macau had almost the highest mobile penetration rate in the world; it is now sitting at a more &lsquo;reasonable&rsquo; level of 200%; a significant bounce back can be expected to follow the easing of travel restrictions, although perhaps not up to the same lofty heights achieved in 2019; asecond factor behind the steep fall in 2020 was the introduction of a Cyber Security Law that required all prepaid SIM cards to become registered or face being deactivated in October 2020; the combined effect of the pandemic and the new restrictions meant that prepaid subscriber numbers fell by more than 80%; postpaid accounts, largely the domain of Macau&rsquo;s permanent residents, were barely affected by the external upheaval; they continued to increase in number, year-on-year, and provided better returns to the operators thanks to substantially increased data usage during the lock downs; the mobile broadband market has experienced the same dramatic fluctuations as the broader mobile segment over the last two years, at least in terms of subscriber numbers; but this is largely because mobile broadband uptake is inextricably tied to the base mobile offering in Macau; with total mobile broadband data traffic going up, not down, between 2019 and 2021, that again points to the strength of the contract segment helping to drive future growth in Macau&rsquo;s telecom sector (2022)<br>

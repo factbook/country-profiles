@@ -514,9 +514,6 @@ _expenditures_: $85.546 billion (2020 est.)<br>
 1.34% (of GDP) (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $58.01 billion (2022 est.)<br>
 $24.565 billion (2021 est.)<br>
@@ -633,12 +630,12 @@ _Total energy consumption per capita 2019_: 63.174 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,392,422 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 7 (2021 est.)<br>
+_total subscriptions_: 2.392 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 37,649,112 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 86 (2021 est.)<br>
+_total subscriptions_: 43.688 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 98 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: civil stability has made it easier for mobile and fixed-line operators to rebuild telecom services and infrastructure damaged during previous periods of violence; the government extended the licenses held by the MNOs for an additional three years to compensate for the chaos and destruction caused between 2014 and 2017 when Islamic State controlled many areas of the country; the companies have struggled to develop LTE services; most services are still based on GSM and 3G, except in Iraq's Kurdistan region where LTE is more widely available (2022)<br>
@@ -726,15 +723,6 @@ the Iraqi military's inventory includes a mix of equipment from a wide variety o
 
 **Military - note**<br>
 the Iraqi security forces (ISF), including conventional air and ground forces, are primarily focused on internal security duties; they are actively conducting counterinsurgency and counterterrorism operations against the Islamic State of Iraq and ash-Sham (ISIS) terrorist group, particularly in northern and western Iraq; the Counter Terrorism Service (CTS), a highly regarded force comprised of three special forces brigades, is the ISF's principal operational unit against ISIS<br><br>Kurdish Security Forces (KSF, aka Peshmerga) also conducted operations against ISIS; the KSF were formally recognized as a legitimate Iraqi military force under the country’s constitution and have operated jointly with the Iraqi military against ISIS militants, but they also operate outside of Iraqi military command structure; since 2021, the ISF and the KSF have conducted joint counter-ISIS operations in an area known as the Kurdish Coordination Line (KCL), a swath of disputed territory in northern Iraq claimed by both the Kurdistan Regional Government and the central Iraqi Government; the KSF/Peshmerga report to the Kurdistan Regional Government or Kurdistan Democratic Party and Patriotic Union of Kurdistan parties instead of the Iraqi Ministry of Defense<br><br>Popular Mobilization Commission and Affiliated Forces (PMF or PMC), also known as Popular Mobilization Units (PMU, or al-Hashd al-Sha’abi in Arabic), tribal militia units have fought alongside the Iraqi military against ISIS since 2014, but the majority of these forces continue to largely ignore the 2016 Law of the Popular Mobilization Authority, which mandated that armed militias must be regulated in a fashion similar to Iraq’s other security forces and act under the Iraqi Government’s direct control; the Iraqi Government funds the PMF, and the prime minister legally commands it, but many of the militia units take orders from associated political parties and/or other government officials, including some with ties to the Iranian Revolutionary Guard Corps (IRGC) and some that have been designated as terrorist organizations by the US; the PMF/PMU is an umbrella organization comprised of many different militias, the majority of which are Shia: <br><br>--Shia militias backed by Iran; they are considered the most active and capable, and include such groups as the Badr Organization (Saraya al-Sala), Asaib Ahl al-Haq, and Kataib Hizballah <br><br>--Shia militias affiliated with Shia political parties, but not aligned with Iran, such as the Peace Brigades (Saray al-Salam) <br><br>--Shia militias not connected with political parties, but affiliated with the Najaf-based Grand Ayatollah Ali al-SISTANI (Iraq’s supreme Shia cleric), such as the Hawza militias<br><br>--other PMF/PMU militias include Sunni Tribal Mobilization militias, or Hashd al-Asha’iri; some of these militias take orders from the ISF and local authorities while others respond to orders from the larger Shia PMU militias; still other militias include Yazidi and Christian militias and the Turkmen brigades; the links of these forces to the PMU are not always clear-cut and may be loosely based on financial, legal, or political incentives<br><br>two international military task forces operate in Iraq to assist the country's security forces at the request of the Iraqi Government; in October 2018, NATO established an advisory, training and capacity-building mission for the Iraqi military known as the NATO Mission Iraq (NMI); in December 2021, a US-led task force that leads the defeat ISIS mission in Iraq, Combined Joint Task Force – Operation Inherent Resolve (CJTF-OIR), transitioned from a combat role to an advise, assist, and enable role (2023)<br>
-
-## Space
-
-**Space agency/agencies**<br>
-announced in 2019 that the Iraqi Ministry of Communication was working with France to create a national space agency (2023)<br>
-
-**Space program overview**<br>
-stated purpose of current program is to acquire satellites for security, economic, agricultural, industrial, environmental and military purposes; status unclear (2023)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism
 

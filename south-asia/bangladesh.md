@@ -374,7 +374,7 @@ _chancery_: 3510 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 244-0183<br>
 _FAX_: [1] (202) 244-2771<br>
 _email address and website_: <br>mission.washington@mofa.gov.bd<br><br>Embassy of the People’s Republic of Bangladesh, Washington, DC (mofa.gov.bd)<br>
-_consulate(s) general_: Los Angeles, New York<br>
+_consulate(s) general_: Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Peter HAAS (since 15 March 2022)<br>
@@ -515,9 +515,6 @@ _expenditures_: $46.379 billion (2019 est.)<br>
 7.64% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 July - 30 June<br>
-
 **Current account balance**<br>
 -$14.37 billion (2022 est.)<br>
 -$15.775 billion (2021 est.)<br>
@@ -645,12 +642,12 @@ _Total energy consumption per capita 2019_: 9.917 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 274,295 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 0 (2021 est.) less than 1<br>
+_total subscriptions_: 274,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 181,021,227 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 107 (2021 est.)<br>
+_total subscriptions_: 180.198 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 105 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Bangladesh&rsquo;s economic resurgence over the last decade took a battering in 2020 and 2021 as a result of the Covid-19 pandemic; the country had been on track to move off the United Nation&rsquo;s Least Developed Countries list by 2026, however the crisis may have pushed that back a few years; the telecommunications sector experienced a set of challenges, with mobile data usage exploding at the same time as many consumers were being forced to curb their spending in other areas; the demand on data grew so large and so rapidly that Bangladesh came close to running out of bandwidth; at the start of 2020, Bangladesh was consuming around 900Gb/s on average, well below the 2,642GB/s capacity of its submarine cables; this ballooned to over 2,300Gb/s during the pandemic; Bangladesh was looking forward to adding 7,200Gb/s capacity when the SEA-ME-WE-6 submarine cable goes into service in mid-2024, but the sudden upsurge in downloads is forcing state-run company Bangladesh Submarine Cable Company Limited (BSCCL) to scramble to find alternatives before the country&rsquo;s internet supply is maxed out; the increased demand during the Covid-19 crisis also put pressure on the country&rsquo;s existing mobile networks, already under strain as a result of strong growth in the mobile broadband market coupled with significant untapped potential for mobile services in general across the country; this led to premium prices being paid at auction for spectrum in the 1800MHz and 2100MHz bands, most of which will be used to enhance and expand LTE services; a 5G spectrum auction had been anticipated for 2020, but low interest from the MNOs in going down that path when there are still so many areas waiting for LTE access means that 5G&nbsp; will likely be deferred until 2023 (2021)<br>

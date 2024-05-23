@@ -500,9 +500,6 @@ _expenditures_: $1.111 billion (2020 est.)<br>
 **Taxes and other revenues**<br>
 15.8% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$362.645 million (2018 est.)<br>
 -$373.389 million (2017 est.)<br>
@@ -620,12 +617,12 @@ _Total energy consumption per capita 2019_: 1.087 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 14,918 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_total subscriptions_: 15,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,740,494 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 62 (2021 est.)<br>
+_total subscriptions_: 7.471 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 58 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Burundi provides an attractive telecom market given its high population density and existing low subscription rates for all services; one downside for investors is that the country has a very low economic output,and an unconducive business environment;&nbsp; disposable income is also very low, and fixed-line infrastructure is poor outside the main urban areas; this is a greater motivation for investors to focus on improving mobile networks than in expanding fixed-line infrastructure; to overcome difficulties associated with the poor telecom infrastructure, the government has supported a number of prominent telcos building a national fiber backbone network; this network offers onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania; the first sections of this network were switched on in early 2014, and additional provinces have since been connected; in addition, the government in early 2018 kick-started the Burundi Broadband project, which aims to deliver national connectivity by 2025; based on this improved infrastructure the government and ITU have developed an ICT strategy to make use of telecoms to promote the country&rsquo;s socio-economic development through to 2028; progress made by Tanzania with its own national backbone network has benefited Burundi, which has been provided with onward connectivity to most countries in the region; International bandwidth capacity has continued to increase in recent years, including a 38% increase in the nine months to September 2021, resulting in lower retail prices for consumers; two of the mobile operators have launched 3G and LTE services to capitalize on the growing demand for internet access; the number of mobile subscribers increased 7% in the third quarter of 2021, quarter-on-quarter; similar growth is expected for the next two years at least, which will help bring the mobile level closer to the average for the region (2022); Burundi&rsquo;s Telecommunications Regulation and Control Agency (ARCT) has recently published its roadmap for the deployment of 5G services in the country, setting out a target of July 2024 for the introduction of commercial services. &nbsp; (2022)<br>

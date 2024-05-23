@@ -522,9 +522,6 @@ _expenditures_: $59.868 billion (2019 est.)<br>
 **Taxes and other revenues**<br>
 3.4% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $1.019 billion (2022 est.)<br>
 -$3.254 billion (2021 est.)<br>
@@ -644,12 +641,12 @@ _Total energy consumption per capita 2019_: 8.466 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 96,996 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_total subscriptions_: 97,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 195,128,265 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 91 (2021 est.)<br>
+_total subscriptions_: 222.225 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 102 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: one of the larger telecom markets in Africa subject to sporadic access to electricity and vandalism of infrastructure; most Internet connections are via mobile networks; market competition with affordable access; LTE technologies available but GSM is dominant; mobile penetration high due to use of multiple SIM cards and phones; government committed to expanding broadband penetration; operators to deploy fiber optic cable in six geopolitical zones and Lagos; operators invested in base stations to deplete network congestion; submarine cable break in 2020 slowed speeds and interrupted connectivity; Nigeria concluded its first 5G spectrum auction in 2021 and granted licenses to two firms; construction of 5G infrastructure has not yet been completed (2022)<br>
@@ -749,10 +746,10 @@ the Nigerian military is sub-Saharan Africa’s largest and regarded as one of i
 ## Space
 
 **Space agency/agencies**<br>
-National Space Research and Development Agency (NARSDA; established 1999); NARSDA originated from the National Centre for Remote Sensing and National Committee on Space Applications (both established in 1987), and the Directorate of Science (established 1993); Defense Space Administration (DSA; established 2014) (2023)<br>
+National Space Research and Development Agency (NARSDA; established 1999); NARSDA originated from the National Centre for Remote Sensing and National Committee on Space Applications (both established in 1987), and the Directorate of Science (established 1993); Defense Space Administration (DSA; established 2014) (2024)<br>
 
 **Space program overview**<br>
-has a formal national space program, which is one of the largest in Africa; focused on acquiring satellites for agricultural, environmental, meteorology, mining and disaster monitoring, socio-economic development, and security purposes; designs, builds (mostly with foreign assistance), and operates satellites; processes overhead imagery data for analysis and sharing; developing additional capabilities in satellite and satellite payload production, including remote sensing (RS) technologies; researching rockets and rocket propulsion systems with goal of launching domestically produced satellites into space from a Nigerian spaceport by 2030; has relations and/or cooperation agreements with a variety of foreign space agencies and industries, including those of Algeria, Bangladesh, Belarus, China, Ghana, Japan, Kenya, Mongolia, South Africa, Thailand, Turkey, the UK, the US, and Vietnam; has a government-owned satellite company and a small commercial aerospace sector (2023)<br>
+has a formal national space program, which is one of the largest in Africa; focused on acquiring satellites for agricultural, environmental, meteorology, mining and disaster monitoring, socio-economic development, and security purposes; designs, builds (mostly with foreign assistance), and operates satellites; processes overhead imagery data for analysis and sharing; developing additional capabilities in satellite and satellite payload production, including remote sensing (RS) technologies; has a sounding rocket program for researching rockets and rocket propulsion systems with goal of launching domestically produced satellites into space from a Nigerian spaceport by 2030; has relations and/or cooperation agreements with a variety of foreign space agencies and industries, including those of Algeria, Bangladesh, Belarus, China, Ghana, India, Japan, Kenya, Mongolia, South Africa, Thailand, Turkey, the UK, the US, and Vietnam; has a government-owned satellite company and a small commercial aerospace sector (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

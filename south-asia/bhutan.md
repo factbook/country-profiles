@@ -324,11 +324,10 @@ ADB, BIMSTEC, CP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IMF, Interpol, IOC, IOM
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador/Permanent Representative to the United Nations (vacant); Charg&eacute; d'Affaires Phuntsho NORBU (since October 2022); note - also serving as the Deputy Permanent Representative to the UN<br>
-_telephone_: [1] (212) 682-2268<br>
+_telephone_: [1] (212) 682-2371<br>
 _FAX_: [1] (212) 661-0551<br>
 _email address and website_: <br>consulate.pmbny@mfa.gov.bt<br><br>https://www.mfa.gov.bt/pmbny/<br>
-_consulate(s) general_: New York<br>
-_embassy_: 343 East 43rd Street, New York, NY 10017<br>
+_consulate(s) general_: 343 East, 43rd Street, New York, NY 10017<br>
 <strong>note</strong> - although Bhutan and the United States do not have diplomatic relations, the two countries established consular relations on 23 July 1986; the Consulate General of the Kingdom of Bhutan was established in New York with an officer from the Permanent Mission of the Kingdom of Bhutan to the United Nations holding dual accreditation as the Consul General with consular jurisdiction in the US<br>
 
 **Diplomatic representation from the US**<br>
@@ -454,9 +453,6 @@ _expenditures_: $777 million (2020 est.)<br>
 12.28% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 July - 30 June<br>
-
 **Current account balance**<br>
 -$852.583 million (2022 est.)<br>
 -$321.535 million (2021 est.)<br>
@@ -573,12 +569,12 @@ _Total energy consumption per capita 2019_: 100.135 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 19,566 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2021 est.)<br>
+_total subscriptions_: 20,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 778,008 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
+_total subscriptions_: 742,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 95 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the small land-locked Kingdom of Bhutan has only recently emerged from decades of isolation from the modern world; that, and its mountainous terrain, left the country far back in the field in terms of teledensity as well as access to the Internet; over the last decade, the country has undergone a significant transformation due to the opening of its borders, liberalization of its telecom sector, and the active support from the government towards increased competition in the mobile, broadband, and ISP segments; the relatively widespread availability of the mobile platform has caused an explosion in mobile broadband subscriber numbers, growing from zero to over 100% penetration in just ten years (between 2010 and 2019).; the onset of the Covid-19 crisis in 2020 caused the subscription rates to drop back a little; growth is projected to return in 2022 (along with the broader mobile market) as the overall economy recovers; the government opens up more to foreign investment, trade, and tourism; and network expansion continues &ndash; the recent (December 2021) launch of 5G services by both of the country&rsquo;s mobile operators being particularly noteworthy (2022)<br>

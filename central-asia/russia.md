@@ -540,9 +540,6 @@ _expenditures_: $571.465 billion (2019 est.)<br>
 11.65% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $237.883 billion (2022 est.)<br>
 $122.114 billion (2021 est.)<br>
@@ -667,12 +664,12 @@ _Total energy consumption per capita 2019_: 227.898 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 23,864,124 (2021 est.)<br>
+_total subscriptions_: 23.864 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 16 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 250 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 170 (2021 est.)<br>
+_total subscriptions_: 245.267 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 169 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom market is the largest in Europe, supported by a population approaching 147 million; the overall market is dominated by the western regions, particularly Moscow and St Petersburg which are the main cities and economic centers; all sectors of the market have been liberalized, with competition most prevalent in the two largest regional markets; the fiber broadband sector has shown considerable growth, supported by the government&rsquo;s program to extend the reach of broadband to outlying regions; the development of 5G services has been stymied by the lack of spectrum; although MNOs have licenses to use 700MHz spectrum for 5G, this spectrum has yet to be released by broadcasters; spectrum in the 3.4GHz range commonly used for 5G in Europe has been restricted for use in Russia by the military and intelligence agencies; despite these limitations, the four principal MNOs each have an equal share in a joint venture aimed at developing a strategy to deploy 5G using shared network and spectrum assets (2022)<br>
@@ -780,7 +777,8 @@ State Space Corporation of the Russian Federation (Roscosmos); Roscosmos was est
 <strong>note:</strong> Russia’s space strategy is defined jointly by Roscosmos and the Ministry of Defense; prior to the breakup of the Soviet Union in 1991, the USSR’s space program was dispersed amongst several civil and military organizations<br>
 
 **Space launch site(s)**<br>
-Baikonur Cosmodrome (Kazakhstan; Russia leases the enclave for approximately $115 million annually); Vostochny Cosmodrome (Amur Oblast; first launch was in 2016); Plesetsk Cosmodrome (Arkhangel'sk Oblast) (2023)<br>
+Baikonur Cosmodrome (Kazakhstan); Vostochny Cosmodrome (Amur Oblast); Plesetsk Cosmodrome (Arkhangel'sk Oblast) (2024)<br>
+<strong>note 1:</strong> the Baikonur cosmodrome and the surrounding area are leased and administered by Russia until 2050 for approximately $115 million/year; the cosmodrome was originally built by the Soviet Union in the mid-1950s and is the site of the World's first successful satellite launch (Sputnik) in 1957; it is also the largest space launch facility in the World, comprising 15 launch pads for space launch vehicles, four launch pads for testing intercontinental ballistic missiles, more than 10 assembly and test facilities, and other infrastructure <br><br><strong>note 2:</strong> in 2018, Kazakhstan and Russia agreed that Kazakhstan would build, maintain, and operate a new space launch facility (Baiterek) at the Baikonur space center (estimated to be ready for operations in 2025)<br>
 
 **Space program overview**<br>
 has one of the world’s largest space programs and is active across all areas of the space sector; builds, launches, and operates rockets/space launch vehicles (SLVs), satellites, space stations, interplanetary probes, and manned, robotic, and re-usable spacecraft; has astronaut (cosmonaut) training program and conducts human space flight; researching and developing a broad range of other space-related technologies; participates in international space programs such as the International Space Station (ISS); prior to Russia’s 2022 full-scale invasion of Ukraine, Russia had relations with dozens of foreign space agencies and commercial entities, including those of China, the European Space Agency (ESA), India, Japan, and the US; Roscosmos and its public subsidiaries comprise the majority of the Russian space industry; Roscosmos has eight operating areas, including manned space flights, launch systems, unmanned spacecraft, rocket propulsion, military missiles, space avionics, special military space systems, and flight control systems; private companies are also involved in a range of space systems, including satellites, telecommunications, remote-sensing, and geo-spatial services (2023)<br>

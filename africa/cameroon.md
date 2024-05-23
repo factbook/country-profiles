@@ -527,9 +527,6 @@ _expenditures_: $7.405 billion (2019 est.)<br>
 11.35% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 July - 30 June<br>
-
 **Current account balance**<br>
 -$1.505 billion (2022 est.)<br>
 -$1.794 billion (2021 est.)<br>
@@ -649,12 +646,12 @@ _Total energy consumption per capita 2019_: 6.187 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 929,007 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2021 est.)<br>
+_total subscriptions_: 929,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 22,442,414 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 83 (2021 est.)<br>
+_total subscriptions_: 23.107 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 83 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Cameroon was for many years one of the few countries in Africa with only two competing mobile operators; the investment programs among operators over the next few years aims to considerably boost mobile broadband services in rural areas of the country, many of which are under served by fixed-line infrastructure; the government has also been supportive, having launched its &lsquo;Cameroon Digital 2020&rsquo; program, aimed at improving connectivity nationally; improved submarine and terrestrial cable connectivity has substantially increased international bandwidth, in turn leading to reductions in access prices for consumers; other projects such as Acceleration of the Digital Transformation of Cameroon are aimed at developing the digital economy (2022)<br>
@@ -750,7 +747,7 @@ the FAC inventory includes a wide mix of mostly older or second-hand Chinese, Ru
 <strong>note: </strong>Cameroon has committed approximately 2,000-2,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations occur occasionally<br>
 
 **Military - note**<br>
-the FAC is considered a politically independent military; the Army and the Rapid Intervention Battalion (BIR) are organized and equipped for mobile operations; the Army has 4 motorized infantry brigades spread amongst 5 military regions; the US-trained BIR has up to nine battalions, detachments, or groups consisting of airborne, air mobile, amphibious, light, and motorized infantry, armored reconnaissance, counterterrorism, and support units, such as artillery and intelligence; the BIR reportedly receives better training, equipment, and pay than regular Army units<br><br>the ground forces are largely focused on internal security, particularly the threat from the terrorist groups Boko Haram and ISIS-West Africa along its frontiers with Nigeria and Chad (Far North region) and an insurgency from armed Anglophone separatist groups in the North-West and South-West regions (as of 2023, this conflict had left more than 3,500 civilians dead and over 500,000 people displaced since fighting started in 2016); in addition, the FAC often deploys ground units to the border region with the Central African Republic to counter intrusions from armed militias and bandits; the Navy’s missions include protecting Cameroon’s oil installations, combatting crime and piracy in the Gulf of Guinea, and patrolling the country’s lakes and rivers; the Air Force supports both the ground and naval forces and has small numbers of light ground attack and reconnaissance aircraft, as well as attack, multipurpose, and transport helicopters (2023)<br>
+the FAC is considered a politically independent military; the Army and the Rapid Intervention Battalion (BIR) are organized and equipped for mobile operations; the Army has four motorized infantry brigades spread amongst five military regions; the US-trained BIR has up to nine battalions, detachments, or groups consisting of airborne, air mobile, amphibious, light, and motorized infantry, armored reconnaissance, counterterrorism, and support units, such as artillery and intelligence; the BIR reportedly receives better training, equipment, and pay than regular Army units<br><br>the ground forces are largely focused on internal security, particularly the threat from the terrorist groups Boko Haram and ISIS-West Africa along its frontiers with Nigeria and Chad (Far North region) and, since 2016, an insurgency from armed Anglophone separatist groups in the North-West and South-West regions; in addition, the FAC often deploys ground units to the border region with the Central African Republic to counter intrusions from armed militias and bandits; the Navy’s missions include protecting Cameroon’s oil installations, combatting crime and piracy in the Gulf of Guinea, and patrolling the country’s lakes and rivers; the Air Force supports both the ground and naval forces and has small numbers of light ground attack and reconnaissance aircraft, as well as attack, multipurpose, and transport helicopters (2023)<br>
 
 ## Terrorism
 

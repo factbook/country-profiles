@@ -319,7 +319,8 @@ _etymology_: named for the Niger River that passes through the southwest of the 
 <strong>note:</strong> pronounced nee-zhair<br>
 
 **Government type**<br>
-semi-presidential republic<br>
+formerly, semi-presidential republic<br>
+<strong>Note:</strong> on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved all government institutions, and rules by decree<br>
 
 **Capital**<br>
 _name_: Niamey<br>
@@ -339,9 +340,10 @@ Republic Day, 18 December (1958); note - commemorates the founding of the Republ
 **Constitution**<br>
 _history_: several previous; passed by referendum 31 October 2010, entered into force 25 November 2010<br>
 _amendments_: proposed by the president of the republic or by the National Assembly; consideration of amendments requires at least three-fourths majority vote by the Assembly; passage requires at least four-fifths majority vote; if disapproved, the proposed amendment is dropped or submitted to a referendum; constitutional articles on the form of government, the multiparty system, the separation of state and religion, disqualification of Assembly members, amendment procedures, and amnesty of participants in the 2010 coup cannot be amended; amended 2011, 2017; suspended indefinitely by military coup on 26 July 2023<br>
+<strong>Note: </strong>on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the country's constitution<br>
 
 **Legal system**<br>
-mixed legal system of civil law, based on French civil law, Islamic law, and customary law<br>
+note - following the 26 July 2023 military coup, the National Council for the Safeguard of the Homeland assumed control of all government institutions and rules by decree; formerly, mixed legal system of civil law, based on French civil law, Islamic law, and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
@@ -356,25 +358,27 @@ _residency requirement for naturalization_: unknown<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President of the National Council for Safeguarding of the Homeland (CNSP) General Abdourahame TIANI (since 28 July 2023); note - deposed president BAZOUM has been under house arrest since a military coup on 26 July 2023<br>
-_head of government_: Prime Minister Ali Mahaman Lamine ZEINE (since 9 August 2023)<br>
-_cabinet_: Cabinet appointed by the CNSP since the military coup and suspension of the constitution; previously appointed by the elected president<br>
-_elections/appointments_: the CNSP dissolved the constitution as part of the 26 July 2023 military coup and rules by decree; note - prior to the coupe, president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 27 December 2020 with a runoff held on 21 February 2021 (next election was to be held in 2025); prime minister appointed by the president, authorized by the National Assembly<br>
+_chief of state_: President of the National Council for Safeguarding of the Homeland (CNSP) General Abdourahame TIANI (since 28 July 2023); note - deposed president BAZOUM under house arrest since a military coup on 26 July 2023<br>
+_head of government_: CNSP Prime Minister Ali Mahaman Lamine ZEINE (since 9 August 2023)<br>
+_cabinet_: Cabinet appointed by the CNSP; Cabinet previously appointed by the elected president<br>
+_elections/appointments_: the CNSP rules by decree; previously, the president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 27 December 2020 with a runoff held on 21 February 2021 (next election was to be held in 2025); prime minister appointed by the president, authorized by the National Assembly<br>
 _election results_: <em><br>2020/2021</em>: Mohamed BAZOUM elected president in second round; percent of vote in first round - Mohamed BAZOUM (PNDS-Tarrayya) 39.3%, Mahamane OUSMANE (MODEN/FA Lumana Africa) 17%, Seini OUMAROU (MNSD-Nassara) 9%, Albade ABOUDA (MPR-Jamhuriya) 7.1%, other 27.6%; percent of vote in second round - Mohamed BAZOUM 55.7%, Mahamane OUSMANE 44.3%<br><br><em>2016</em>: ISSOUFOU Mahamadou reelected president in second round; percent of vote in first round - ISSOUFOU Mahamadou (PNDS-Tarrayya) 48.6%, Hama AMADOU (MODEN/FA Lumana Africa) 17.8%, Seini OUMAROU (MNSD-Nassara) 11.3%, other 22.3%; percent of vote in second round - ISSOUFOU Mahamadou 92%, Hama AMADOU 8%<br>
 
 **Legislative branch**<br>
-_description_: the CNSP dissolved the unicameral National Assembly or Assemblee Nationale (171 statutory seats - 166 currently; 158 members directly elected from 8 multi-member constituencies in 7 regions and Niamey by party-list proportional representation, 8 reserved for minorities elected in special single-seat constituencies by simple majority vote, 5 seats reserved for Nigeriens living abroad - l seat per continent - elected in single-seat constituencies by simple majority vote; members serve 5-year terms) as part of the 26 July 2023 military coup<br>
+_description_: formerly, the National Assembly (171 statutory seats - 166 currently; 158 members directly elected from 8 multi-member constituencies in 7 regions and Niamey by party-list proportional representation, 8 reserved for minorities elected in special single-seat constituencies by simple majority vote, 5 seats reserved for Nigeriens living abroad - l seat per continent - elected in single-seat constituencies by simple majority vote; members serve 5-year terms) as part of the 26 July 2023 military coup<br>
 _elections_: last held on 27 December 2020 (prior to the military coup, next elections were to be held in December 2025)<br>
 _election results_: percent of vote by party - PNDS-Tarrayya 37%, MODEN/FA Lumana 8.7%, MPR-Jamhuriya 7.6%, MNSD-Nassara 6.8%,&nbsp; RDR-Tchanji 4.4%, CPR-Inganci 4.2%, MPN-Kishin Kassa 4%, PJP Generation Dubara 2.9%, ANDP Zaman Lahya 2.5%, RPP Farrilla 2.1%, ARD Adaltchi-Mutuntchi 1.7%, AMEN AMIN 1.4%, MDEN Falala 1.4%, other 15.3%; seats by party - PNDS-Tarrayya 79, MODEN/FA Lumana 19, MPR-Jamhuriya 14, MNSD-Nassara 13, CPR-Inganci 8, MPN-Kishin Kassa 6, ANDP-Zaman Lahiya 3, RPP Farrilla 2, PJP Generation Dubara 2, ARD Adaltchi-Mutuntchi 2, AMEN AMIN 2, other 16; composition - men 115, women 51, percentage women 30.7%<br>
+<strong>Note:</strong> on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the National Assembly<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Constitutional Court (consists of 7 judges); High Court of Justice (consists of 7 members)<br>
-_judge selection and term of office_: Constitutional Court judges nominated/elected - 1 by the president of the Republic, 1 by the president of the National Assembly, 2 by peer judges, 2 by peer lawyers, 1 law professor by peers, and 1 from within Nigerien society; all appointed by the president; judges serve 6-year nonrenewable terms with one-third of membership renewed every 2 years; High Judicial Court members selected from among the legislature and judiciary; members serve 5-year terms<br>
-_subordinate courts_: Court of Cassation; Council of State; Court of Finances; various specialized tribunals and customary courts<br>
+_highest court(s)_: formerly the Constitutional Court (consists of 7 judges); High Court of Justice (consists of 7 members)<br>
+_judge selection and term of office_: formerly, Constitutional Court judges nominated/elected - 1 by the president of the Republic, 1 by the president of the National Assembly, 2 by peer judges, 2 by peer lawyers, 1 law professor by peers, and 1 from within Nigerien society; all appointed by the president; judges serve 6-year nonrenewable terms with one-third of membership renewed every 2 years; High Judicial Court members selected from among the legislature and judiciary; members serve 5-year terms<br>
+_subordinate courts_: formerly, Court of Cassation; Council of State; Court of Finances; various specialized tribunals and customary courts<br>
+<strong>Note:</strong> on 26 July 2023, the National Council for the Safeguard of the Homeland, a military junta which took control of Niger's government, dissolved the country's judicial system<br>
 
 **Political parties and leaders**<br>
 <p>Alliance for Democracy and the Republic<br>Alliance for Democratic Renewal or ARD-Adaltchi-Mutuntchi [Laouan MAGAGI] <br>Alliance of Movements for the Emergence of Niger or AMEN AMIN [Omar Hamidou TCHIANA]<br>Congress for the Republic or CPR-Inganci [Maradi Kassoum MOCTAR]<br>Democratic Alternation for Equity in Niger<br>Democratic and Republican Renewal-RDR-Tchanji [Mahamane OUSMANE]<br>Democratic Movement for the Emergence of Niger Falala [Tidjani Idrissa ABDOULKADRI]<br>Democratic Patriots' Rally or RPD Bazara [Yahouza SADISSOU]<br>National Movement for the Development of Society-Nassara or MNSD-Nassara [Seini OUMAROU]<br>Nigerien Alliance for Democracy and Progress-Zaman Lahiya or ANDP-Zaman Lahiya [Moussa Hassane BARAZE]<br>Nigerien Democratic Movement for an African Federation or MODEN/FA Lumana [Tahirou SAIDOU]<br>Nigerien Party for Democracy and Socialism or PNDS-Tarrayya [Pierre Foumakoye GADO]<br>Nigerien Patriotic Movement or MPN-Kishin Kassa [Ibrahim YACOUBA]<br>Nigerien Rally for Democracy and Peace<br>Patriotic Movement for the Republic or MPR-Jamhuriya [Albade ABOUBA]<br>Peace, Justice, Progress–Generation Doubara<br>Rally for Democracy and Progress-Jama'a or RDP-Jama'a [Hamid ALGABID]<br>Rally for Peace and Progress or RPP Farilla [Alma OUMAROU]<br>Social Democratic Rally or RSD-Gaskiyya [Amadou CHEIFFOU]<br>Social Democratic Party or PSD-Bassira [Sanoussi MAREINI]</p><br>
-<strong>note:</strong> The CNSP dissolved the National Assembly and prohibited all political party activity after the 26 July 2023 military coup<br>
+<strong>Note:</strong> after the 26 July 2023 military coup, the National Council for the Safeguard of the Homeland dissolved the National Assembly and prohibited all political party activity <br>
 
 **International organization participation**<br>
 ACP, AfDB, AU (suspended), CD, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSCA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -519,9 +523,6 @@ _expenditures_: $2.785 billion (2019 est.)<br>
 **Taxes and other revenues**<br>
 21.4% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$2.099 billion (2021 est.)<br>
 -$1.816 billion (2020 est.)<br>
@@ -643,7 +644,7 @@ _total subscriptions_: 58,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 14 million (2021 est.)<br>
+_total subscriptions_: 14.239 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 56 (2021 est.)<br>
 
 **Telecommunication systems**<br>

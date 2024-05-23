@@ -368,7 +368,6 @@ _chancery_: 1531-1533 New Hampshire Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 244-4990<br>
 _FAX_: [1] (202) 244-4164<br>
 _email address and website_: <br>info@botswanaembassy.org<br><br>http://www.botswanaembassy.org/<br>
-_consulate(s) general_: Atlanta<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Howard A. VAN VRANKEN (since 24 May 2023)<br>
@@ -506,9 +505,6 @@ _expenditures_: $6.006 billion (2020 est.)<br>
 22.25% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Current account balance**<br>
 $606.394 million (2022 est.)<br>
 -$250.118 million (2021 est.)<br>
@@ -627,12 +623,12 @@ _Total energy consumption per capita 2019_: 34.095 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 91,725 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 5 (2021 est.)<br>
+_total subscriptions_: 92,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,160,553 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 161 (2021 est.)<br>
+_total subscriptions_: 4.348 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 165 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: effective regulatory reform has made Botswana&rsquo;s telecom market one of the most liberalized in the region; there is a service-neutral licensing regime adapted to the convergence of technologies and services, and several operators now compete in all telecom sectors; Botswana has one of the highest mobile penetration rates in Africa; in a bid to generate new revenue streams and secure market share, the three mobile network operators have entered the underdeveloped broadband sector by adopting of 3G, LTE, and WiMAX technologies; in the fixed-line broadband market they compete with a large number of ISPs, some of which have rolled out their own wireless access infrastructure; the landlocked country depends on satellites for international bandwidth, and on other countries for transit capacity to the landing points of international submarine cables; the landing of additional cables in the region in recent years has improved the competitive situation in this sector, while prices for connectivity have fallen dramatically (2022)<br>

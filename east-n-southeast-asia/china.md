@@ -542,9 +542,6 @@ _expenditures_: $4.893 trillion (2019 est.)<br>
 7.97% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $401.855 billion (2022 est.)<br>
 $352.886 billion (2021 est.)<br>
@@ -669,12 +666,12 @@ _Total energy consumption per capita 2019_: 105.687 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 179,414,200 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
+_total subscriptions_: 179.414 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.73 billion (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 122 (2021 est.)<br>
+_total subscriptions_: 1.781 billion (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 125 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: China has the largest Internet market in the world with almost all subscribers accessing Internet through mobile devices; market is driven through government-allied investment; fast-developing data center market; government aims to provide universal and affordable broadband coverage through market competition and private investment in state-controlled enterprises; 3G and LTE subscribers will migrate to 5G aiming for 2 million 5G base stations by the end of 2022; government strengthens IoT policies to boost economic growth; China is pushing development of smart cities beyond Beijing; Beijing residents carry virtual card integrating identity, social security, health, and education documents; government controls gateways to global Internet through censorship, surveillance, and shut-downs; major exporter of broadcasting equipment world-wide (2022)<br>

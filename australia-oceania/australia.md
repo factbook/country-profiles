@@ -409,7 +409,7 @@ _selected World Heritage Site locales_: Great Barrier Reef (n); Greater Blue Mou
 ## Economy
 
 **Economic overview**<br>
-Asian and global economic leader and partner for 3 decades; strong financial sector and highly traded domestic currency support best credit ratings; aging workforce; export-led model; reduced consumer spending offset by government and business; energy investor<br>
+highly developed, diversified, regionally and globally integrated economy; strong mining, manufacturing, and service sectors; net exporter driven by commodities to East Asian trade partners; &ldquo;Future Made in Australia&rdquo; program focused on green energy investments<br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.329 trillion (2022 est.)<br>
@@ -519,9 +519,6 @@ _expenditures_: $532.579 billion (2019 est.)<br>
 **Taxes and other revenues**<br>
 23.6% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
-
-**Fiscal year**<br>
-1 July - 30 June<br>
 
 **Current account balance**<br>
 $17.875 billion (2022 est.)<br>
@@ -640,12 +637,12 @@ _Total energy consumption per capita 2019_: 241.004 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6,409,275 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 18 (2021 est.)<br>
+_total subscriptions_: 6.409 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 24 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 27.09 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 105 (2021 est.)<br>
+_total subscriptions_: 28.018 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 107 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the Australian telecom market since 2020 has been impacted by the pandemic, which forced many people to school and work from home and thus adopt fixed-line broadband services; internet traffic, both fixed and mobile, increased substantially as a result; in the fixed sector, there is an ongoing migration from copper-based platforms to fiber; the extension of fixed wireless access will mean that up to 120,000 premises currently dependent on satellite broadband will be able to access 5G-based fixed services; the fixed-line market has been falling steadily over the past five years; in the Australian fixed broadband market, there is a dynamic shift among customers to fiber networks; the DSL sector is steadily shrinking while subscribers on HFC infrastructure will continue to be provided by existing cable, with a steady migration to full fiber connectivity (2022)<br>
@@ -741,7 +738,7 @@ the military's inventory includes a mix of domestically produced and imported We
 <strong>note: </strong>the number of Australian military forces varies by mission; since the 1990s, Australia has deployed more than 30,000 personnel on nearly 100 UN peacekeeping and coalition military operations around the World<br>
 
 **Military - note**<br>
-Australia has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; Australia is also a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>Australia has a long-standing military relationship with the US; Australian and US forces first fought together in France in 1918 at the Battle of Hamel, and have fought together in every major US conflict since; Australia and the US signed an agreement in 2014 that allowed for closer bi-lateral defense and security cooperation, including annual rotations of US Marines and enhanced rotations of US Air Force aircraft to Australia; Australian military forces train often with US forces; Australia has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation <br><br>Australia also has long-standing defense and security ties to the UK, including defense and security cooperation treaties in 2024 and 2013; in 2020, Australia and the UK signed a memorandum of understanding to cooperate on the building of a next generation of frigates for their respective navies; the Australia-UK Ministerial Consultations (AUKMIN) is their premier bilateral forum on foreign policy, defense, and security issues <br><br>in 2021, Australia, the UK, and the US announced an enhanced trilateral security partnership called “AUKUS” which would build on existing bilateral ties, including deeper integration of defense and security-related science, technology, industrial bases, and supply chains, as well as deeper cooperation on a range of defense and security capabilities; the first initiative under AUKUS was a commitment to support Australia in acquiring conventionally armed nuclear-powered submarines for the Royal Australian Navy<br><br>the ADF's missions include protecting Australia’s borders and maritime interests, responding to domestic natural disasters, and deploying overseas for humanitarian, peacekeeping, and other security-related missions; it trains regularly and participates in international exercises; the Army’s principal combat forces include a divisional headquarters with three mechanized brigades and a special operations command; the Navy operates over 40 surface craft and submarines, including 11 destroyers and frigates, two landing helicopter dock (LHD) amphibious assault ships, and six attack-type submarines; the RAF has an air combat group with more than 140 modern combat aircraft, as well as transport and surveillance air groups (2024)<br>
+Australia has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; Australia is also a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>Australia has a long-standing military relationship with the US; Australian and US forces first fought together in France in 1918 at the Battle of Hamel, and have fought together in every major US conflict since; Australia and the US signed an agreement in 2014 that allowed for closer bi-lateral defense and security cooperation, including annual rotations of US Marines and enhanced rotations of US Air Force aircraft to Australia; Australian military forces train often with US forces; Australia has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation <br><br>Australia also has long-standing defense and security ties to the UK, including defense and security cooperation treaties in 2024 and 2013; in 2020, Australia and the UK signed a memorandum of understanding to cooperate on the building of a next generation of frigates for their respective navies; the Australia-UK Ministerial Consultations (AUKMIN) is their premier bilateral forum on foreign policy, defense, and security issues <br><br>in 2021, Australia, the UK, and the US announced an enhanced trilateral security partnership called “AUKUS” which would build on existing bilateral ties, including deeper integration of defense and security-related science, technology, industrial bases, and supply chains, as well as deeper cooperation on a range of defense and security capabilities; the first initiative under AUKUS was a commitment to support Australia in acquiring conventionally armed nuclear-powered submarines for the Royal Australian Navy<br><br>the ADF's missions include protecting Australia’s borders and maritime interests, responding to domestic natural disasters, and deploying overseas for humanitarian, peacekeeping, and other security-related missions; it trains regularly and participates in international exercises; the Army’s principal combat forces include a divisional headquarters with three mechanized brigades and a special operations command; the Navy operates over 40 surface craft and submarines, including 10 destroyers and frigates, two landing helicopter dock (LHD) amphibious assault ships, and six attack-type submarines; the RAF has an air combat group with more than 140 modern combat aircraft, as well as transport and surveillance air groups (2024)<br>
 
 ## Space
 

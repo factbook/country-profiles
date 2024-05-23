@@ -511,9 +511,6 @@ _expenditures_: $4.693 billion (2019 est.)<br>
 27.97% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Current account balance**<br>
 -$1.634 billion (2022 est.)<br>
 -$1.274 billion (2021 est.)<br>
@@ -633,12 +630,12 @@ _Total energy consumption per capita 2019_: 29.811 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 85,814 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2021 est.)<br>
+_total subscriptions_: 86,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,915,307 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 115 (2021 est.)<br>
+_total subscriptions_: 2.906 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 113 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the government&rsquo;s Broadband Policy aims to provide 95% population coverage by 2024; mobile network coverage has increased sharply in recent years; by 2023, 3G infrastructure provided 89% population coverage while LTE infrastructure provided 79% coverage; despite the relatively advanced nature of the market, progress towards 5G has been slow, partly due to unsubstantiated public concerns over health implications of the technology which caused the government to order an environmental assessment of 5G in mid-2020; the government has requested the regulator to speed up its 5G development strategy; Namibia&rsquo;s internet and broadband sector is reasonably competitive, its development was for many years held back by high prices for international bandwidth caused by the lack of a direct connection to international submarine cables; this market situation improved after operators invested in diversifying terrestrial access routes to adjacent countries; in June 2022 Namibia was connected to a 1,050km branch line of cable running between Portugal and South Africa (2022)<br>

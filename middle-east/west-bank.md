@@ -390,9 +390,6 @@ _expenditures_: $5.002 billion (2020 est.)<br>
 21.47% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP; entry includes West Bank and Gaza Strip<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$2.865 billion (2022 est.)<br>
 -$1.778 billion (2021 est.)<br>
@@ -504,14 +501,14 @@ _Total energy consumption per capita 2019_: 13.604 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 457,706 (2022 est.)<br>
+_total subscriptions_: 458,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 9 (2021 est.)<br>
-<strong>note:</strong> data includes both the Gaza Strip and West Bank<br>
+<b>note:</b> entry includes the West Bank and the Gaza Strip<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,052,966 (2021 est.)<br>
+_total subscriptions_: 4.388 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 78 (2021 est.)<br>
-<strong>note:</strong> includes Gaza Strip<br>
+<b>note:</b> entry includes the West Bank and the Gaza Strip<br>
 
 **Telecommunication systems**<br>
 _general assessment_: most telecommunications companies in the West Bank and Gaza import directly from international vendors; the major challenge they face are Israeli restrictions on telecommunication imports that are listed as &ldquo;Dual Use&rdquo; products; during a visit to the West Bank in July 2022, U.S. President Joe Biden announced that Israeli and Palestinian teams will work together to roll out an advanced infrastructure for 4G; currently, only 2G service is available in Gaza (2024)<br>

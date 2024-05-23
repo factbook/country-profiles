@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-First colonized by the Spanish, the islands came under British control in the early 19th century. The emancipation of enslaved people in 1834 disrupted the twin islands' sugar industry. &nbsp;Contract workers arriving from India between 1845 and 1917 augmented the labor force, which boosted sugar production as well as the cocoa industry. The discovery of oil on Trinidad in 1910 added another important export that remains the dominant economic industry. Trinidad and Tobago attained independence in 1962. The country is one of the most prosperous in the Caribbean thanks largely to petroleum and natural gas production and processing. Tobago has greater tourism potential but continues to recover from an 18-month travel ban imposed in response to the global COVID-19 pandemic. The government is struggling to reverse a surge in violent crime.<br>
+First colonized by the Spanish, Trinidad and Tobago came under British control in the early 19th century. The emancipation of enslaved people in 1834 disrupted the twin islands' sugar industry. Contract workers arriving from India between 1845 and 1917 augmented the labor force, which boosted sugar production as well as the cocoa industry. The discovery of oil on Trinidad in 1910 added another important export that remains the country's dominant industry. Trinidad and Tobago attained independence in 1962. The country is one of the most prosperous in the Caribbean, thanks largely to petroleum and natural gas production and processing. The government is struggling to reverse a surge in violent crime.<br>
 
 ## Geography
 
@@ -450,9 +450,6 @@ _expenditures_: $7.528 billion (2020 est.)<br>
 16.55% (of GDP) (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 October - 30 September<br>
-
 **Current account balance**<br>
 $5.382 billion (2022 est.)<br>
 $2.695 billion (2021 est.)<br>
@@ -566,11 +563,11 @@ _from consumed natural gas_: 35.011 million metric tonnes of CO2 (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 326,483 (2022 est.)<br>
+_total subscriptions_: 326,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 21 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,999,029 (2022 est.)<br>
+_total subscriptions_: 1.999 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 131 (2022 est.)<br>
 
 **Telecommunication systems**<br>
@@ -620,7 +617,7 @@ _medium_: 1<br>
 _small_: 4<br>
 _very small_: 5<br>
 _ports with oil terminals_: 8<br>
-_key ports_: Galeota Point Terminal, Point Lisas Industrial Port, Point Lisas Port, Pointe A Pierre, Port Of Spain<br>
+_key ports_: Galeota Point Terminal, Point Lisas Industrial Port, Point Lisas Port, Pointe-a-Pierre, Port of Spain<br>
 
 ## Military and Security
 

@@ -511,9 +511,6 @@ _expenditures_: $13.489 billion (2019 est.)<br>
 15.98% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$4.159 billion (2022 est.)<br>
 -$3.718 billion (2021 est.)<br>
@@ -633,12 +630,12 @@ _Total energy consumption per capita 2019_: 39.331 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 465,603 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2021 est.)<br>
+_total subscriptions_: 466,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,275,563 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 65 (2021 est.)<br>
+_total subscriptions_: 7.626 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 68 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Jordan&rsquo;s government has focused on the use of ICT in a range of sectors, aimed at transforming the relatively small economy through the use of digital services; this policy has helped the country rise in the league tables for digital connectivity and internet readiness, and it has also attracted investment from foreign companies; during the ongoing global pandemic, the start-up sector has been further encouraged to develop solutions to combat the crisis, while other efforts have facilitated e-government services and encouraged businesses to adapt to new methods of working through their own digital transformation; these developments have been supported by the highly developed mobile sector, led by three major regional players which have near-comprehensive LTE network coverage (2022)<br>

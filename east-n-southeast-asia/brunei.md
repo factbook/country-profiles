@@ -456,9 +456,6 @@ _expenditures_: $3.189 billion (2020 est.)<br>
 **Taxes and other revenues**<br>
 18.5% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Current account balance**<br>
 $3.264 billion (2022 est.)<br>
 $1.57 billion (2021 est.)<br>
@@ -576,12 +573,12 @@ _Total energy consumption per capita 2019_: 415.184 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 122,204 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 25 (2021 est.)<br>
+_total subscriptions_: 122,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 27 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 603,486 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 136 (2021 est.)<br>
+_total subscriptions_: 529,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 118 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Brunei&rsquo;s mobile market experienced drop-off in subscriber numbers in 2020; in 2022 there was a concerted effort to build out the fixed-line infrastructure while progressing towards introducing 5G mobile services, which was activated in June 2023; Brunei&rsquo;s fixed-line market is one of the few countries in the world to have displayed significant growth rather than a decline in teledensity in the last few years; this upward trend is set to continue as the new Unified National Network (UNN) works diligently to expand and enhance the fixed-line infrastructure around the country; strong growth was also seen in the fixed broadband space, on the back of those same infrastructure developments that are part of the Brunei Vision 2035 initiative; fixed broadband is starting from a relatively low base by international standards and is still only at 18%, leaving lots of room for growth; mobile and mobile broadband, on the other hand, are still suffering from the market contractions first felt in 2020; Brunei&rsquo;s 2G GSM network is shut down, with the spectrum to be reallocated to 3G, 4G, and potentially 5G use (2023)<br>

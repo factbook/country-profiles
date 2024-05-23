@@ -346,7 +346,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: Supreme Leader Ali Hoseini-KHAMENEI (since 4 June 1989)<br>
-_head of government_: President Ebrahim RAISI (since 18 June 2021); First Vice President Mohammad MOKHBER (since 8 August 2021)<br>
+_head of government_: Acting President Mohammad MOKHER - previously first vice president (since 19 May 2024); on 19 May 2024, President Ebrahim RAISI died in a helicopter crash<br>
 _cabinet_: Council of Ministers selected by the president with legislative approval; the supreme leader has some control over appointments to several ministries<br>
 _elections/appointments_: supreme leader appointed for life by Assembly of Experts; president directly elected by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term and an additional nonconsecutive term); election last held on 18 June 2021 (next to be held in June 2025)<br>
 _election results_: <br><em>2021:</em> Ebrahim RAISI elected president; percent of vote - Ebrahim RAISI (independent) 72.4%, Mohsen REZAI (RFII) 13.8%, Abbdolnaser HEMATI (ECP) 9.8%, Amir-Hosein Qazizadeh-HASHEMI (Islamic Law Party) 4%<br><br><em>2017:</em> Hasan Fereidun RUHANI reelected president; percent of vote - Hasan Fereidun RUHANI (Moderation and Development Party) 58.8%, Ebrahim RAISI (Combat Clergy Association) 39.4%, Mostafa Mir-SALIM Islamic Coalition Party) 1.2%, Mostafa HASHEMI-TABA (Executives of Construction Party) 0.5%<br>
@@ -496,9 +496,6 @@ _expenditures_: $90.238 billion (2019 est.)<br>
 **Taxes and other revenues**<br>
 17.3% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-21 March - 20 March<br>
-
 **Current account balance**<br>
 $9.491 billion (2017 est.)<br>
 $16.28 billion (2016 est.)<br>
@@ -619,12 +616,12 @@ _Total energy consumption per capita 2019_: 145.54 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 29,342,060 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 33 (2021 est.)<br>
+_total subscriptions_: 29.342 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 33 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 135,899,424 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 155 (2021 est.)<br>
+_total subscriptions_: 145.668 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 165 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Iran&rsquo;s telecom infrastructure has suffered from sanctions in recent years, which prevented the import of equipment and devices and encouraged widespread smuggling, with a consequent loss of tax revenue; to address this, the government introduced a device registration scheme, and bolstered the capacity for domestically manufactured mobile phones; companies have invested in broadening the reach of their LTE networks, which has increased network capacity and improved the quality of mobile broadband services; the country is also looking to 5G; the sector is still limited by low frequency bands; the government is addressing this with plans to reallocate the 3.5GHz band for 5G use; Iran is keen to grow its digital economy; Iran offers significant opportunities for growth in the telecoms sector; the country has one of the largest populations in the Middle East, and there is a high proportion of youthful, tech savvy users having considerable demand for both fixed and mobile telecom services; companies are offering national roaming to improve services in rural areas (2022)<br>
@@ -724,13 +721,13 @@ the Islamic Revolutionary Guard Corps (IRGC) was formed in May 1979 in the immed
 ## Space
 
 **Space agency/agencies**<br>
-Iranian Space Agency (ISA; created in 2003 from merging the activities of the Iranian Remote Sensing Center and some of the activities of the Telecommunications Company of Iran); Iran Space Research Center (established, 2000); Ministry of Defense and Armed Forces Logistics; Aerospace Industries Organization (AIO; under the Ministry of Defense); Islamic Revolutionary Guard Corps (IRGC) Space Command (formed in 2020) (2023)<br>
+Iranian Space Agency (ISA; created in 2003 from merging the activities of the Iranian Remote Sensing Center and some of the activities of the Telecommunications Company of Iran); Iran Space Research Center (established, 2000); Ministry of Defense and Armed Forces Logistics; Aerospace Industries Organization (AIO; under the Ministry of Defense); Islamic Revolutionary Guard Corps (IRGC) Space Command (formed in 2020) (2024)<br>
 
 **Space launch site(s)**<br>
-Imam Khomeini Space Center (aka Semnan Space Center; Semnan province); Shahroud Space Center (IGRC military base; Semnan Province); Qom Space Center (Qom Province); inaugurated its first space monitoring center located near Delijan (Markazi Province) in 2013 (2023)<br>
+Imam Khomeini Space Center (aka Semnan Space Center; Semnan province); Shahroud Space Center (IGRC military base; Semnan Province); Qom Space Center (Qom Province); inaugurated its first space monitoring center located near Delijan (Markazi Province) in 2013 (2024)<br>
 
 **Space program overview**<br>
-has an ambitious civil and military space program focused on acquiring and operating satellites and developing indigenous satellite/space launch vehicles (SLV); designs, builds, and operates satellites, including communications, remote sensing (RS), and scientific; manufactures and operates SLVs; researching and developing other space-related capabilities and technologies in such areas as telecommunications, RS, navigation, and space situational awareness; UN Security Council and other international sanctions against Iran’s weapons of mass destruction program have severely limited Iran’s cooperation with foreign space agencies and commercial space industries; in recent years, however, it has cooperated with North Korea and Russia on space issues; Iran has also had relations with regional and international space organizations, such as the Asia-Pacific Space Cooperation Organization and the International Telecommunications Satellite Organization; it was a founding member of the UN Committee on the Peaceful Uses of Outer Space (COPUOS) established in 1958 (2023)<br>
+has an ambitious civil and military space program focused on acquiring and operating satellites and developing indigenous satellite/space launch vehicles (SLV); designs, builds, and operates satellites, including communications, remote sensing (RS), and scientific; manufactures and operates SLVs; researching and developing other space-related capabilities and technologies in such areas as telecommunications, RS, navigation, and space situational awareness; UN Security Council and other international sanctions against Iran’s weapons of mass destruction program have severely limited Iran’s cooperation with foreign space agencies and commercial space industries; in recent years, however, it has cooperated with North Korea and Russia on space issues; Iran has also had relations with regional and international space organizations, such as the Asia-Pacific Space Cooperation Organization and the International Telecommunications Satellite Organization; it was a founding member of the UN Committee on the Peaceful Uses of Outer Space (COPUOS) established in 1958 (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

@@ -496,9 +496,6 @@ _expenditures_: $3.392 billion (2019 est.)<br>
 22% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $150.994 million (2022 est.)<br>
 -$482.982 million (2021 est.)<br>
@@ -623,12 +620,12 @@ _Total energy consumption per capita 2019_: 53.019 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 365,649 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 15 (2021 est.)<br>
+_total subscriptions_: 366,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,599,278 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 129 (2021 est.)<br>
+_total subscriptions_: 3.761 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 135 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Armenia&rsquo;s telecom sector was able to post in the mobile and broadband segments; its fixed-line penetration continues to slide downwards, with the rollout of fiber networks which have encouraged the increase in bundled services; the fixed broadband market remains undeveloped due to the lack of underlying infrastructure outside the main cities (2021)<br>

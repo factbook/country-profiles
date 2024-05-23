@@ -540,9 +540,6 @@ _expenditures_: $313.358 billion (2020 est.)<br>
 13.45% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$18.046 billion (2022 est.)<br>
 -$8.343 billion (2021 est.)<br>
@@ -667,12 +664,12 @@ _Total energy consumption per capita 2019_: 61.597 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 27,184,669 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 19 (2021 est.)<br>
+_total subscriptions_: 27.185 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 21 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 123,920,752 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 98 (2021 est.)<br>
+_total subscriptions_: 127.872 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 100 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: with a large population and relatively low broadband and mobile penetration, (86 lines for mobile broadband for every 100 habitants in June 2021) Mexico&rsquo;s telecom sector has potential for growth; adequate telephone service for business and government; improving quality and increasing mobile cellular availability, with mobile subscribers far outnumbering fixed-line subscribers (24.6 million fixed line subscribers and 125 million mobile line subscribers in June 2021); relatively low broadband and mobile penetration, potential for growth and international investment; extensive microwave radio relay network; considerable use of fiber-optic cable and coaxial cable; 5G development slow in part due to high costs (2021)<br>
@@ -768,10 +765,10 @@ the Mexican military is responsible for defending the independence, integrity, a
 ## Space
 
 **Space agency/agencies**<br>
-Mexican Space Agency (Agencia Espacial Mexicana or AEM; established 2010 and began operating in 2013); predecessor organization, the National Space Commission (Comisi&oacute;n Nacional del Espacio Exterior or CONEE was established in 1962 and terminated in 1977) (2023)<br>
+Mexican Space Agency (Agencia Espacial Mexicana or AEM; established 2010 and began operating in 2013)&nbsp; (2024)<br>
 
 **Space program overview**<br>
-the AEM’s focus is on coordinating Mexico’s space policy and the country’s commercial space sector, including developing specialists, technologies, and infrastructure, and acquiring satellites; manufactures and operates communications and scientific satellites; conducts research in a range of space-related capabilities and technologies, including satellites and satellite payloads, telecommunications, remote sensing, Earth and weather sciences, astronomy, and astrophysics; has relations with a variety of foreign space agencies and commercial space industries, including those of Argentina, Brazil, Chile, the European Space Agency (ESA) and its member states (particularly France, Germany, and the UK), India, Peru, Russia, Ukraine, and the US; leading member of the Latin American and Caribbean Space Agency (ALCE) (2023)<br>
+the AEM’s focus is on coordinating Mexico’s space policy and the country’s commercial space sector, including developing specialists, technologies, and infrastructure, and acquiring satellites; manufactures and operates communications and scientific satellites; conducts research in a range of space-related capabilities and technologies, including satellites and satellite payloads, telecommunications, remote sensing, robotics, Earth and weather sciences, astronomy, and astrophysics; has relations with a variety of foreign space agencies and commercial space industries, including those of Argentina, Brazil, Chile, the European Space Agency (ESA) and its member states (particularly France, Germany, and the UK), India, Peru, Russia, Ukraine, and the US; leading member of the Latin American and Caribbean Space Agency (ALCE) (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

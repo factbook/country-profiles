@@ -448,12 +448,12 @@ _from consumed natural gas_: 7,768,086,000 metric tonnes of CO2 (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 840,736,466 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2021 est.)<br>
+_total subscriptions_: 840.736 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8.5 billion (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 107 (2021 est.)<br>
+_total subscriptions_: 8.361 billion (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 108 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Information, Communications, and Technology (ICT) is tied to economic growth; business, trade, and foreign direct investment are all based on effective sources of ICT, and development of ICT flourishes with a vigorous economy, open trade, and sound regulation; some 2020 estimates point to a digital economy worth $11.5 trillion globally, equivalent to 15.5% of global GDP (with ICT growing 2.5 times faster than global GDP over the past 15 years);&nbsp; 2020 reports indicate about 7.7 billion global mobile broadband subscriptions, rising from 3.3 billion in five years, and over 1.1 billion fixed broadband subscribers, up from 830 million in 2015<br>

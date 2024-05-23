@@ -429,9 +429,6 @@ _expenditures_: $324 million (2020 est.)<br>
 15.04% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$33.19 million (2022 est.)<br>
 -$50.346 million (2021 est.)<br>
@@ -548,12 +545,12 @@ _Total energy consumption per capita 2019_: 71.96 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 15,700 (2021 est.)<br>
+_total subscriptions_: 16,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 33 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 57,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 120 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 119 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>

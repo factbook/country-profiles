@@ -502,9 +502,6 @@ _expenditures_: $1.916 trillion (2019 est.)<br>
 **Taxes and other revenues**<br>
 35.2% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Current account balance**<br>
 $90.963 billion (2022 est.)<br>
 $197.154 billion (2021 est.)<br>
@@ -630,12 +627,12 @@ _Total energy consumption per capita 2019_: 147.107 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 60,720,856 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 49 (2021 est.)<br>
+_total subscriptions_: 60.721 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 49 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 200,478,808 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 161 (2021 est.)<br>
+_total subscriptions_: 207.648 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 168 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Japan has one of the best developed telecom markets globally, the fixed-line segment remains stagnant and the focus for growth is in the mobile sector; the MNOs have shifted their investment from LTE to 5G, and growth in 5G showed early promise although there have been recent setbacks; these have partly been attributed to the economic difficulties, the impact of restrictions imposed during the pandemic, and unfavorable investment climate (not helped by the delay of the Tokyo Olympics from 2020 to 2021), and to restrictions in the supply of 5G-enabled devices; the fixed broadband market is dominated by fiber, with a strong cable platform also evident; fiber will continue to increase its share of the fixed broadband market, largely at the expense of DSL; the mobile market is dominated by three MNOs, mobile broadband subscriber growth is expected to be relatively low over the next five years, partly due to the high existing subscriptions though growth has been stimulated by measures which have encouraged people to school and work from home; there has also been a boost in accessing entertainment via mobile devices since 2020 (2021)<br>
@@ -738,13 +735,13 @@ the Japan Self-Defense Force's (JSDF) primary concerns are perceived threats pos
 ## Space
 
 **Space agency/agencies**<br>
-Japan Aerospace Exploration Agency (JAXA; established in 2003); JAXA was established from the merger of the Institute of Space and Astronautical Science (ISAS), the National Aerospace Laboratory of Japan (NAL), and National Space Development Agency of Japan (NASDA); the military has a space operations squadron under the Japan Air Self-Defense Force to monitor and counter threats to satellites (2023)<br>
+Japan Aerospace Exploration Agency (JAXA; established in 2003) (2024)<br>
 
 **Space launch site(s)**<br>
-Tanegashima Space Center/Yoshinobu Launch Complex (Kagoshima), Uchinoura Space Center (Kagoshima), Noshiro Testing Center (Akita) (2023)<br>
+Tanegashima Space Center/Yoshinobu Launch Complex (Kagoshima), Uchinoura Space Center (Kagoshima), Noshiro Testing Center (Akita) (2024)<br>
 
 **Space program overview**<br>
-has one of the world’s largest and most advanced space programs with independent capabilities in all areas of space categories except for autonomous manned space flight; designs, builds, launches, and operates the full spectrum of satellites, including communications, remote sensing (RS), astronomical observation, scientific, and navigational/positional; designs, builds, and independently launches satellite/space launch vehicles (SLVs) and other spacecraft, including interplanetary and Lunar probes, space station modules and space labs, and space transportation systems; has a wide range of research and development programs, including reusable SLVs, space-based astronomy, spacecraft components, robotics, solar sails, radio waves, and space plasma; has an astronaut training program; participates in international space programs, including the International Space Station (ISS), leading the Asia-Pacific Regional Space Agency Forum, and co-leading the Global Earth Observation System of Systems; cooperates with a variety of foreign space agencies and industries, including those of Canada, the European Space Agency (ESA) and its individual member states, India, Russia, the UAE, the US, and a range of other countries and space agencies throughout Africa, Europe, and the Asia-Pacific regions; has a substantial commercial space industry that develops an array of space-related capabilities and technologies, including satellites, satellite payloads and subcomponents, and SLVs; in 2018, the Japanese Government announced the establishment of a $950 million venture capital fund to support the development of Japanese space startup companies (2023)<br>
+has one of the world’s largest and most advanced space programs with independent capabilities in all areas of space categories except for autonomous manned space flight; designs, builds, launches, and operates the full spectrum of satellites, including communications, remote sensing (RS), astronomical observation, scientific, and navigational/positional; designs, builds, and independently launches satellite/space launch vehicles (SLVs) and other spacecraft, including interplanetary and Lunar probes, space station modules and space labs, and space transportation systems; has a wide range of research and development programs, including reusable SLVs, space-based astronomy, spacecraft components, robotics, solar sails, radio waves, and space plasma; has an astronaut training program; participates in international space programs, including the International Space Station (ISS), leading the Asia-Pacific Regional Space Agency Forum, and co-leading the Global Earth Observation System of Systems; cooperates with a variety of foreign space agencies and industries, including those of Canada, the European Space Agency (ESA) and its individual member states, India, Russia, the UAE, the US, and a range of other countries and space agencies throughout Africa, Europe, and the Asia-Pacific regions; has a substantial commercial space industry that develops an array of space-related capabilities and technologies, including satellites, satellite payloads and subcomponents, and SLVs; in recent years, the Japanese Government has encouraged and supported the development of space startup companies  (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

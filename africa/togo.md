@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>From the 11th to the 16th centuries, various ethnic groups settled the Togo region. From the 16th to the 18th centuries, the coastal region became a major trading center for enslaved people, and the surrounding region took on the name of "The Slave Coast." In 1884, Germany declared a region, which included present-day Togo, as a protectorate called Togoland. After World War I, colonial rule over Togo was transferred to France. French Togoland became Togo upon independence in 1960. Gen. Gnassingbe EYADEMA, installed as military ruler in 1967, ruled Togo with a heavy hand for almost four decades. Despite the facade of multi-party elections instituted in the early 1990s, the government was largely dominated by President EYADEMA, whose Rally of the Togolese People (RPT) party has been in power almost continually since 1967 and its successor, the Union for the Republic, maintains a majority of seats in today's legislature. Upon EYADEMA's death in February 2005, the military installed the president's son, Faure GNASSINGBE, and then engineered his formal election two months later. Togo held its first relatively free and fair legislative elections in October 2007. Since then, President GNASSINGBE has started the country along a gradual path to democratic reform. Togo has held multiple presidential and legislative elections, and in 2019 held its first local elections in 32 years. Despite those positive moves, political reconciliation has moved slowly, and the country experiences periodic outbursts of protests by frustrated citizens that have led to violence between security forces and protesters. Constitutional changes in 2019 to institute a runoff system in presidential elections and to establish term limits has done little to reduce the resentment many Togolese feel after more than 50 years of one-family rule. GNASSINGBE became eligible for his current fourth term and one additional fifth term under the new rules. The next presidential election will be in 2025. </p> <p> </p><br>
+<p>From the 11th to the 16th centuries, various ethnic groups settled the Togo region. From the 16th to the 18th centuries, the coastal region became a major trading center for enslaved people, and the surrounding region took on the name of "The Slave Coast." In 1884, Germany declared the area a protectorate called Togoland, which included present-day Togo. After World War I, colonial rule over Togo was transferred to France. French Togoland became Togo upon independence in 1960. <br><br>Gen. Gnassingbe EYADEMA, installed as military ruler in 1967, ruled Togo with a heavy hand for almost four decades. Despite the facade of multi-party elections instituted in the early 1990s, EYADEMA largely dominated the government. His Rally of the Togolese People (RPT) party has been in power almost continually since 1967, with its successor, the Union for the Republic, maintaining a majority of seats in today's legislature. Upon EYADEMA's death in 2005, the military installed his son, Faure GNASSINGBE, as president and then engineered his formal election two months later. Togo held its first relatively free and fair legislative elections in 2007. Since then, GNASSINGBE has started the country along a gradual path to democratic reform. Togo has held multiple presidential and legislative elections, and in 2019, the country held its first local elections in 32 years. <br><br>Despite those positive moves, political reconciliation has moved slowly, and the country experiences periodic outbursts of protests from frustrated citizens, leading to violence between security forces and protesters. Constitutional changes in 2019 to institute a runoff system in presidential elections and to establish term limits have done little to reduce the resentment many Togolese feel after more than 50 years of one-family rule. GNASSINGBE became eligible for his current fourth term and one additional fifth term under the new rules. The next presidential election is set for 2025. </p><br>
 
 ## Geography
 
@@ -343,7 +343,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Faure GNASSINGBE (since 4 May 2005)<br>
-_head of government_: Prime Minister Victoire Tomegah DOGBE (since 28 September 2020)<br>
+_head of government_: Prime Minister Victoire Tomegah DOGBE (since 28 September 2020) note: on 21 May 2024 Prime Minister DOGBE and her government resigned following the 29 April 2024 elections, but will remain to ensure the transition from a presidential system to a parliamentary system<br>
 _cabinet_: Council of Ministers appointed by the president on the advice of the prime minister<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 22 February 2020 (next to be held in 2025); prime minister appointed by the president<br>
 _election results_: <br><em>2020:</em> Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 70.8%, Agbeyome KODJO (MPDD) 19.5%, Jean-Pierre FABRE (ANC) 4.7%, other 5%<br><br><em>2015:</em> Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 58.8%, Jean-Pierre FABRE (ANC) 35.2%, Tchaboure GOGUE (ADDI) 4%, other 2% <p> </p><br>
@@ -506,9 +506,6 @@ _expenditures_: $1.158 billion (2019 est.)<br>
 13.58% (of GDP) (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$20.738 million (2020 est.)<br>
 -$55.444 million (2019 est.)<br>
@@ -626,11 +623,11 @@ _Total energy consumption per capita 2019_: 4.113 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 65,613 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
+_total subscriptions_: 66,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,564,132 (2022 est.)<br>
+_total subscriptions_: 6.564 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 74 (2022 est.)<br>
 
 **Telecommunication systems**<br>

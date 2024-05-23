@@ -486,9 +486,6 @@ _expenditures_: $1.527 billion (2020 est.)<br>
 **Taxes and other revenues**<br>
 18.2% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-1 October - 30 September<br>
-
 **Current account balance**<br>
 -$491.954 million (2022 est.)<br>
 $87.656 million (2021 est.)<br>
@@ -609,10 +606,10 @@ _Total energy consumption per capita 2019_: 3.97 million Btu/person (2019 est.)<
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 6,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 64 (2021 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.3 million (2021 est.)<br>
+_total subscriptions_: 7.319 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 64 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -663,7 +660,7 @@ _medium_: 1<br>
 _small_: 0<br>
 _very small_: 4<br>
 _ports with oil terminals_: 1<br>
-_key ports_: Cap Haitien, Jacmel, Miragoane, Petit Goave, Port Au Prince<br>
+_key ports_: Cap Haitien, Jacmel, Miragoane, Petit Goave, Port au Prince<br>
 
 ## Military and Security
 

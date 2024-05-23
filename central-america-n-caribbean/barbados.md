@@ -456,9 +456,6 @@ _expenditures_: $1.483 billion (2020 est.)<br>
 27.42% (of GDP) (2016 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Current account balance**<br>
 -$296.396 million (2017 est.)<br>
 -$452.39 million (2016 est.)<br>
@@ -576,12 +573,12 @@ _Total energy consumption per capita 2019_: 83.723 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 121,314 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 43 (2021 est.)<br>
+_total subscriptions_: 121,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 43 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 316,633 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 113 (2021 est.)<br>
+_total subscriptions_: 323,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 115 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>

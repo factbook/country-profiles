@@ -480,9 +480,6 @@ _expenditures_: $1.454 billion (2020 est.)<br>
 **Taxes and other revenues**<br>
 28.6% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Current account balance**<br>
 -$140.972 million (2022 est.)<br>
 $125.318 million (2021 est.)<br>
@@ -602,12 +599,12 @@ _Total energy consumption per capita 2019_: 19.371 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 37,746 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2021 est.)<br>
+_total subscriptions_: 38,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.4 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 120 (2021 est.)<br>
+_total subscriptions_: 1.468 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 122 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Eswatini was one of the last countries in the world to open up its telecom market to competition; until 2011 the state-owned Eswatini Posts and Telecommunications also acted as the industry regulator and had a stake in the country&rsquo;s sole mobile network; a new independent regulatory authority was established in late 2013 and has since embarked on significant changes to the sector; mobile market subscriptions have been affected by the common use among subscribers when they use SIM cards from different networks in order to access cheaper on-net calls; subscriber growth has slowed in recent years, but was expected to have reached 8% in 2021, as people adapted to the changing needs for connectivity caused by the pandemic; the internet sector has been open to competition with a small number of licensed ISPs; DSL services were introduced in 2008, development of the sector has been hampered by the limited fixed-line infrastructure and by a lack of competition in the access and backbone networks; Eswatini is landlocked and so depends on neighboring countries for international bandwidth; this has meant that access pricing is relatively high, and market subscriptions remains relatively low; prices have fallen recently in line with greater bandwidth availability resulting from several new submarine cable systems which have reached the region in recent years; in September 2020 a terrestrial cable linked Mozambique with Eswatini and South Africa (2022)<br>

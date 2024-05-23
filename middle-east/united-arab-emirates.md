@@ -482,9 +482,6 @@ _expenditures_: $127.262 billion (2019 est.)<br>
 0.54% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $26.47 billion (2017 est.)<br>
 $13.23 billion (2016 est.)<br>
@@ -607,12 +604,12 @@ _Total energy consumption per capita 2019_: 471.788 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,286,104 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 24 (2021 est.)<br>
+_total subscriptions_: 2.286 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 24 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 18 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 190 (2021 est.)<br>
+_total subscriptions_: 20.036 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 212 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the UAE has a strong mobile market; while the 5G penetration rate is the second highest globally after China; this has underpinned growth in the mobile broadband sector, and has enabled the strong development in the take-up of rich content and applications, as well as m-commerce; to help increase the capacity of 5G networks in coming years, and so keep up with data demand, the government has allowed for the GSM networks to be closed down and for spectrum and other assets to be re-purposed for 5G by the end of 2022; the fixed-broadband network in the UAE is dominated by fiber, with DSL having a minor and declining presence; this focus on a fully fiber infrastructure has also facilitated growth in e-commerce, and has supported the government&rsquo;s long-term aim of transitioning the economy from its dependence on oil to being knowledge-based and supported by digital services; the country stands to benefit from having signed the Abraham Accord Declaration with Israel, which aims to normalize relations between the two countries; such benefits can be seen in the agreement to enable local ISPs to access Bezeq International&rsquo;s submarine cable infrastructure, and so improve direct connectivity to Europe, South East Asia, and Africa; the UAE&rsquo;s ISPs can also access Bezeq International&rsquo;s data center in Tel Aviv, improving internet services (2022)<br>
@@ -668,7 +665,7 @@ _medium_: 4<br>
 _small_: 9<br>
 _very small_: 6<br>
 _ports with oil terminals_: 17<br>
-_key ports_: Abu Zaby, Jabal Az Zannah/ruways, Khawr Fakkan, Mina Jabal Ali, Zirkuh<br>
+_key ports_: Abu Zaby, Jabal Az Zannah/Ruways, Khawr Fakkan, Mina Jabal Ali, Zirkuh<br>
 
 ## Military and Security
 

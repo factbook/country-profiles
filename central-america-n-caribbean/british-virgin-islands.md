@@ -358,9 +358,6 @@ _expenditures_: $400 million (2017 est.)<br>
 **Taxes and other revenues**<br>
 38.9% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Exports**<br>
 $23 million (2017 est.)<br>
 $23 million (2015 est.)<br>
@@ -452,12 +449,12 @@ _Total energy consumption per capita 2019_: 80.136 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 22,571 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 22 (2021 est.)<br>
+_total subscriptions_: 23,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 73 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 35,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
+_total subscriptions_: 38,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 121 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one major casualty may be the region&rsquo;s second largest telco operator, Digicel; the company filed for bankruptcy in the US in April 2020; it continues to operate in all of its Caribbean markets as it seeks to refinance billions of dollars of debt; the other major telco, regional incumbent Cable &amp; Wireless Communications (CWC), is experiencing similar drops in subscriber numbers and revenue; CWC is expanding and enhancing its fixed and mobile networks in many of the countries it serves around the Caribbean, despite many locations being small islands with very small populations; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage. (2021)<br>

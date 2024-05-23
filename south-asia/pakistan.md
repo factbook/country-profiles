@@ -363,9 +363,9 @@ _elections/appointments_: president indirectly elected by the Electoral College 
 _election results_: <em>2024:</em> Asif Ali ZARDARI elected president; National Assembly vote - Asif Ali ZARDARI (PPP) 411 votes, Mehmood Khan ACHAKZALI (PMAP) -181 votes; Shahbaz SHARIF elected prime minister on 3 March 2024; National Assembly vote - Shahbaz SHARIF (PML-N) 201, Omar AYUB (PTI) 92<br><br><em>2018:</em> Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Majlis-e-Shoora consists of:<br>Senate (104 seats current, reduced by 4 seats at the 2024 election and 4 at the 2027 election; members indirectly elected by the 4 provincial assemblies and the federal capital territory indirectly elected by the National Assembly using proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly (342 seats; 272 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)<br>
-_elections_: Senate - last held on 2 April 2024 for 37 of 48 seats, remaining 11 seats to be held on 9 April 2024 (next to be held in 2027)<br>National Assembly - last held on 8 February 2024 (next to be held in 2029)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA<br><br>National Assembly - percent of vote by party - NA; seats by party - PML-N 75, PPP 54, MQM-P 17, JUI-F 4, Pakistan Muslim League 3, Istehkam-e-Pakistan Party 2, BNP-A 2, BAP 1, PMAP 1, PML-Z 1, NP 1, independent (PTI-backed) 101, other 8, vacant 2 (excludes 70 seats reserved for women and non-Muslims); composition - NA<br><br> <p> </p> <p> </p><br>
+_description_: bicameral Parliament or Majlis-e-Shoora consists of:<br>Senate (96 seats current; members indirectly elected by the 4 provincial assemblies and the federal capital territory indirectly elected by the National Assembly using proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly (336 seats; 266 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)<br>
+_elections_: Senate - last held on 2 and 9 April 2024 (next to be held in 2027)<br>National Assembly - last held on 8 February 2024 (next to be held in 2029)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 79, women 17, percent of women 17.7%<br><br>National Assembly - percent of vote by party - NA; seats by party - PML-N 75, PPP 54, MQM-P 17, JUI-F 4, Pakistan Muslim League 3, Istehkam-e-Pakistan Party 2, BNP-A 2, BAP 1, PMAP 1, PML-Z 1, NP 1, independent (PTI-backed) 101, other 8, vacant 2 (excludes 60 seats reserved for women and 10 non-Muslims); composition - men 276, women 60, percent of women 17.9%; note - total Parliament percent of women 17.8%<br><br> <p> </p> <p> </p><br>
 <strong>note</strong>: in May 2018, the Parliament of Pakistan and the Khyber Pakhtunkhwa Assembly passed a constitutional amendment to merge the Federally Administrated Tribal Areas and Provincially Administered Tribal Areas with the province of Khyber Pakhtunkhwa; the amendment will reduce the Senate from 104 to 96 members - 4 in the 2024 election and 4 in the 2027 election<br><br><br>
 
 **Judicial branch**<br>
@@ -527,9 +527,6 @@ _expenditures_: $59.621 billion (2020 est.)<br>
 **Taxes and other revenues**<br>
 15.4% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-1 July - 30 June<br>
-
 **Current account balance**<br>
 -$11.998 billion (2022 est.)<br>
 -$12.283 billion (2021 est.)<br>
@@ -657,12 +654,12 @@ _Total energy consumption per capita 2019_: 15.859 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,799,360 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
+_total subscriptions_: 2.799 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 188,711,452 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 82 (2021 est.)<br>
+_total subscriptions_: 192.78 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 82 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Pakistan&rsquo;s telecom market transitioned from a regulated state-owned monopoly to a deregulated competitive structure in 2003, now aided by foreign investment; moderate growth over the last six years, supported by a young population and a rising use of mobile services; telecom infrastructure is improving, with investments in mobile-cellular networks, fixed-line subscriptions declining; system consists of microwave radio relay, coaxial cable, fiber-optic cable, cellular, and satellite networks; 4G mobile services broadly available; 5G tests ongoing; data centers in major cities; mobile and broadband doing well and dominate over fixed-broadband sector; future growth (in market size as well as revenue) is likely to come from the wider availability of value-added services on top of the expansion of 4G LTE and (from 2023) 5G mobile networks; the Universal Service Fund (USF) continues to direct investment towards the development of mobile broadband (and, to a lesser extent, fiber-based networks) in under-served and even under served areas of the country, with multiple projects being approved to start in 2021 and 2022 (2021)<br>
@@ -757,13 +754,13 @@ the Pakistan military operates largely independently and without effective civil
 ## Space
 
 **Space agency/agencies**<br>
-Pakistan Space &amp; Upper Atmosphere Research Commission (SUPARCO; established 1961); National Remote Sensing Center (aka Resacent; established 1980) (2023)<br>
+Pakistan Space &amp; Upper Atmosphere Research Commission (SUPARCO; established 1961); National Remote Sensing Center (aka Resacent; established 1980) (2024)<br>
 
 **Space launch site(s)**<br>
-Somiani Flight Test Range (Balochistan); Tilla Satellite Launch Center (aka Tilla Range; Punjab) (2023)<br>
+Somiani Flight Test Range (Balochistan); Tilla Satellite Launch Center (aka Tilla Range; Punjab) (2024)<br>
 
 **Space program overview**<br>
-space program dates back to the early 1960s but funding shortfalls and shifts in priority toward ballistic missile development in the 1980s and 1990s hampered the program’s development; more recently, the program has regained attention and become more ambitious, particularly in acquiring satellites and reaching agreements with other space powers for additional capabilities; manufactures and operates satellites; researching and developing other space-related capabilities and technologies, such as satellite payloads and probably satellite/space launch vehicles (SLVs); also conducts research in such areas as astronomy, astrophysics, environmental monitoring, and space sciences; has relations or cooperation agreements on space with China, Russia, and Turkey (cooperated with the UK and US prior to the 1990s) (2023)<br>
+space program dates back to the early 1960s but funding shortfalls and shifts in priority toward ballistic missile development in the 1980s and 1990s hampered the program’s development; more recently, the program has regained attention and become more ambitious, particularly in acquiring satellites and reaching agreements with other space powers for additional capabilities; manufactures and operates satellites; researching and developing other space-related capabilities and technologies, such as satellite payloads and probably satellite/space launch vehicles (SLVs); also conducts research in such areas as astronomy, astrophysics, environmental monitoring, and space sciences; has relations or cooperation agreements on space with China, Russia, and Turkey (cooperated with the UK and US prior to the 1990s) (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

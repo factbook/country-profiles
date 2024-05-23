@@ -499,9 +499,6 @@ _expenditures_: $97.277 billion (2019 est.)<br>
 25.37% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$22.623 billion (2022 est.)<br>
 -$13.858 billion (2021 est.)<br>
@@ -618,12 +615,12 @@ _Total energy consumption per capita 2019_: 108.022 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4,907,123 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 47 (2021 est.)<br>
+_total subscriptions_: 4.907 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 47 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,494,008 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
+_total subscriptions_: 11.326 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 109 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Greece&rsquo;s telecom market is susceptible to the country&rsquo;s volatile economy, and, as a result, revenue among the key networks has been variable; broadband subscriptions in Greece are developing steadily; the main networks are concentrating investment on fiber-based next generation networks, enabling them to reach the European broadband targets for 2025; their work is also supported by government ultra-fast broadband projects, largely funded by the EC and aimed at delivering a service of at least 100Mb/s to under served areas; Greece&rsquo;s well-developed mobile market is dominated by the three MNOs; Networks continue to invest in LTE infrastructure and technologies to provide networks capable of meeting customer demand for data services; after extensive trials of 5G, the MNOs were able to launch commercial services in early 2021 following the December 2020 allocation of frequencies in a range of bands; the rapid rollout of 5G encouraged the shut down of the 3G network (a process expected to be completed by the end of 2021) and reallocate for LTE and 5G. (2023)<br>
@@ -719,10 +716,10 @@ the Hellenic Armed Forces (HAF) are responsible for protecting Greece’s indepe
 ## Space
 
 **Space agency/agencies**<br>
-Hellenic Space Center (HSC; aka Hellenic Space Agency; established 2018) (2023)<br>
+Hellenic Space Center (HSC; aka Hellenic Space Agency; established 2018) (2024)<br>
 
 **Space program overview**<br>
-has a relatively new and growing space program focused on building and operating satellites; also researches and develops technologies in a variety of other space sectors, including such areas as remote sensing (RS), telecommunications, defense, environmental studies, and agricultural development; as a member of the European Space Agency (ESA), it contributes to, participates in, and benefits from ESA capabilities and programs; cooperates with space agencies and commercial space sectors of ESA and EU member states, as well as the US; has a robust commercial space sector that researches, develops, and produces a variety of space technologies and capabilities, including satellite components, electronics, sensors, and communications (2023)<br>
+has a relatively new and growing space program focused on building and operating satellites; also researches and develops technologies in a variety of other space sectors, including such areas as remote sensing (RS), telecommunications, defense, environmental studies, and agricultural development; has a national space strategy; as a member of the European Space Agency (ESA), it contributes to, participates in, and benefits from ESA capabilities and programs; cooperates with space agencies and commercial space sectors of ESA and EU member states, as well as the US; has a robust commercial space sector that researches, develops, and produces a variety of space technologies and capabilities, including satellite components, electronics, sensors, and communications (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

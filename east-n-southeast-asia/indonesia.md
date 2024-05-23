@@ -529,9 +529,6 @@ _expenditures_: $192.97 billion (2020 est.)<br>
 9.09% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $12.67 billion (2022 est.)<br>
 $3.511 billion (2021 est.)<br>
@@ -651,12 +648,12 @@ _Total energy consumption per capita 2019_: 29.68 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 8,423,990 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2021 est.)<br>
+_total subscriptions_: 8.424 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 365,872,608 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 134 (2021 est.)<br>
+_total subscriptions_: 316.553 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 115 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Indonesia faces more than the usual number of obstacles in terms of enabling widespread access to quality telecommunications services for its population of more than 270 million; the geographical challenges have been further compounded by a variety of social, political, and economic problems over the years that have kept the country&rsquo;s wealth distributed very thinly; the fixed-line (fiber) and mobile operators have continued to expand and upgrade their networks across the country; Indonesia&rsquo;s 18,000 islands (many of which, however, are sparsely populated) makes the deployment of fixed-line infrastructure on a broad scale difficult; there has been renewed activity in fiber optic cable, but the bundling of fixed-line telephony with TV and internet services will see the country&rsquo;s teledensity stabilize; mobile subscriptions have reached more than 130% and is projected to exceed 150% by 2026; with 4G LTE universally available, the major mobile companies have been busy launching 5G services in selected areas; the rollout of 5G will be hampered by the lack of availability of suitable frequencies; the 4G had to be reallocated from broadcasting services, and indications are that the same process is going to have to be followed in order to allow the expansion of 5G into its core frequency bands (3.3 to 4.2GHz) (2022)<br>
@@ -755,13 +752,13 @@ the military is responsible for external defense, combatting separatism, and res
 ## Space
 
 **Space agency/agencies**<br>
-National Research and Innovation Agency (BRIN; established 2021); BRIN integrated five previously separate Indonesian institutions, including the National Institute of Aeronautics and Space of Indonesia (Lembaga Penerbangan Dan Antariksa Nasional or LAPAN; established 1964), and nearly 50 governmental research divisions; BRIN is under the Ministry of Research and Technology and manages Indonesia&rsquo;s space program through the Indonesian Space Agency (INASA; formed 2022) and the Research Organization for Aeronautics and Space (ORPA; formed 2021) (2023)<br>
+Indonesian Space Agency (INASA; formed 2022); National Research and Innovation Agency (BRIN; established 2021); Research Organization for Aeronautics and Space (ORPA; formed 2021) &nbsp; (2024)<br>
 
 **Space launch site(s)**<br>
-Stasiun Peluncuran Roket rocket launch facility (West Java); building an space launch facility/spaceport on Biak, Papua (estimated completion date is 2025) (2023)<br>
+Stasiun Peluncuran Roket rocket launch facility (West Java); building a space launch facility/spaceport on Biak, Papua (estimated completion date is 2025) (2024)<br>
 
 **Space program overview**<br>
-has had a space program since the 1960s that has focused largely on rocket development and the acquisition and operation of satellites; operates satellites; manufactures remote sensing (RS) satellites; has a sounding (research) rocket program geared towards development of an indigenous orbital satellite launch vehicle (SLV) and independent satellite launch capabilities; researching and developing a range of other space-related technologies and capabilities related to satellite payloads, communications, RS, and astronomy; has relations with several foreign space agencies and industries, including those of France, Germany, India, Japan, Russia, and the US (2023)<br>
+has had a space program since the 1960s that has focused largely on rocket development and the acquisition and operation of satellites; operates satellites; manufactures remote sensing (RS) satellites; has a sounding (research) rocket program geared towards development of an indigenous orbital satellite launch vehicle (SLV) and independent satellite launch capabilities; researching and developing a range of other space-related technologies and capabilities related to satellite payloads, communications, RS, and astronomy; has relations with several foreign space agencies and industries, including those of France, Germany, India, Japan, Russia, and the US (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

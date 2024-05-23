@@ -376,7 +376,7 @@ _chancery_: 3014 Massachusetts Ave., NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 483-4410<br>
 _FAX_: [1] (202) 328-3712<br>
 _email address and website_: <br>embolivia.wdc@gmail.com<br><br>https://www.boliviawdc.org/en-us/<br>
-_consulate(s) general_: Houston, Los Angeles, Maple Grove (MN), Miami, New York, Washington, DC<br>
+_consulate(s) general_: Houston, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Chargé d'Affaires Debra HEVIA (since September 2023)<br>
@@ -519,9 +519,6 @@ _expenditures_: $14.75 billion (2019 est.)<br>
 **Taxes and other revenues**<br>
 39.9% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$183.602 million (2022 est.)<br>
 $871.196 million (2021 est.)<br>
@@ -641,11 +638,11 @@ _Total energy consumption per capita 2019_: 27.094 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 550,011 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2021 est.)<br>
+_total subscriptions_: 550,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12,033,941 (2021 est.)<br>
+_total subscriptions_: 12.034 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
 
 **Telecommunication systems**<br>

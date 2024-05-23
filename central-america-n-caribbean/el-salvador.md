@@ -501,9 +501,6 @@ _expenditures_: $7.273 billion (2019 est.)<br>
 19.42% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$2.146 billion (2022 est.)<br>
 -$1.272 billion (2021 est.)<br>
@@ -618,12 +615,12 @@ _Total energy consumption per capita 2019_: 24.124 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 862,717 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 14 (2021 est.)<br>
+_total subscriptions_: 863,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,071,073 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 175 (2021 est.)<br>
+_total subscriptions_: 11.509 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 182 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: El Salvador is the smallest country in central America geographically, it has the fourth largest economy in the region; the country&rsquo;s telecom sector has been restricted by poor infrastructure and unequal income distribution; there have been organizational delays which have slowed the development of telecom services; El Salvador&rsquo;s fixed-line teledensity is substantially lower than the Latin American and Caribbean average; there has been a significant drop in the number of fixed lines since 2010, particularly in 2017, largely due to the substitution for mobile-only alternatives; about 94% of all telephony lines in the country are on mobile networks; mobile subscriptions are remarkably high considering El Salvador&rsquo;s economic indicators, being about a third higher than average for Latin America and the Caribbean; the country was one of the last in the region to provide LTE services, mainly due to the inadequate provision of suitable spectrum; the multi-spectrum auction conducted at the end of 2019 has allowed MNOs to improve the reach and quality of their service offerings; El Salvador&rsquo;s telecom legislation is one of the more liberal in Latin America, encouraging competition in most areas and permitting foreign investment; there are no regulations which promote wholesale broadband; the only effective cross-platform competition in the broadband market comes from the few cable operators; there has been some market consolidation in recent years (2021)<br>

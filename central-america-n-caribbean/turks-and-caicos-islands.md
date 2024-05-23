@@ -371,9 +371,6 @@ tourism, offshore financial services<br>
 _revenues_: $247.3 million (2017 est.)<br>
 _expenditures_: $224.3 million (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $172.709 million (2018 est.)<br>
 $35.016 million (2017 est.)<br>

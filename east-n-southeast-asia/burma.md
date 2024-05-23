@@ -520,9 +520,6 @@ _expenditures_: $18.035 billion (2020 est.)<br>
 6.02% (of GDP) (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Current account balance**<br>
 $67.72 million (2019 est.)<br>
 -$2.561 billion (2018 est.)<br>
@@ -642,12 +639,12 @@ _Total energy consumption per capita 2019_: 10.679 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 535,463 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
+_total subscriptions_: 535,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 67,930,093 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 126 (2021 est.)<br>
+_total subscriptions_: 57.807 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 107 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Burma, one of the least developed telecom markets in Asia, saw growth in mobile and broadband services through expanded foreign access and investment in the 2010s and roll outs 4G and limited 5G network infrastructures; infrastructure expansion has been challenged by armed conflict, severe weather events, unreliable electricity, inefficient bureaucracy, and decreased foreign investment since the 2021 military coup; digital divide affects rural areas; fixed broadband remains low due to number of fixed-lines and widespread installation of the mobile network platforms; multiple m-banking platforms; tests for NB-IoT; benefit from launch of regional satellite; government censors online content and restricts Internet and mobile network quality in political crisis (2023)<br>

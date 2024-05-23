@@ -325,7 +325,7 @@ Independence Day (independence of Quito), 10 August (1809)<br>
 
 **Constitution**<br>
 _history_: many previous; latest approved 20 October 2008<br>
-_amendments_: proposed by the president of the republic through a referendum, by public petition of at least 1% of registered voters, or by agreement of at least one-third membership of the National Assembly; passage requires two separate readings a year apart and approval by at least two-thirds majority vote of the Assembly, and approval by absolute majority in a referendum; amendments such as changes to the structure of the state, constraints on personal rights and guarantees, or constitutional amendment procedures are not allowed; amended 2011, 2015, 2018<br>
+_amendments_: proposed by the president of the republic through a referendum, by public petition of at least 1% of registered voters, or by agreement of at least one-third membership of the National Assembly; passage requires two separate readings a year apart and approval by at least two-thirds majority vote of the Assembly, and approval by absolute majority in a referendum; amendments such as changes to the structure of the state, constraints on personal rights and guarantees, or constitutional amendment procedures are not allowed; amended 2011, 2015, 2018, 2024<br>
 
 **Legal system**<br>
 civil law based on the Chilean civil code with modifications; traditional law in indigenous communities<br>
@@ -513,9 +513,6 @@ _expenditures_: $39.319 billion (2019 est.)<br>
 13.21% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $2.114 billion (2022 est.)<br>
 $3.097 billion (2021 est.)<br>
@@ -627,12 +624,12 @@ _Total energy consumption per capita 2019_: 42.564 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,644,238 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 10 (2021 est.)<br>
+_total subscriptions_: 1.644 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 16,789,600 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 94 (2021 est.)<br>
+_total subscriptions_: 17.491 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 97 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Ecuador has a small telecom market dominated by the mobile sector; the evolution of the market has been influenced by the poor fixed-line infrastructure, which has stymied the development of fixed-line broadband services; to some extent poor infrastructure has been the result of topographical challenges which have rendered the cost of deploying networks to remote and mountainous areas prohibitive; although Ecuador has several fixed-line operators and a large number of ISPs, the state-owned incumbent leads the fixed-line market, and thus also the fixed broadband market; thus far the MVNO sector has been slow to develop, partly because the incumbent operators also have their low-cost brands and thus there is little business case for new market entrants; the government is keen to advance and improve teledensity; from 2022, additional revenue will be earmarked for programs aimed at expanding the reach of internet and mobile services in rural areas of the country; Ecuador lacks a national 5G roadmap; the mobile operators have conducted several 5G pilots, but no progress has been made on allocation spectrum for 5G, or on developing strategies to encourage investment in the sector (2022)<br>
@@ -698,7 +695,7 @@ _medium_: 0<br>
 _small_: 2<br>
 _very small_: 4<br>
 _ports with oil terminals_: 5<br>
-_key ports_: Esmeraldas, Guayaquil, La Libertad, Manta, Puerto Bolivar, Puerto Maritimo De Guayaquil<br>
+_key ports_: Esmeraldas, Guayaquil, La Libertad, Manta, Puerto Bolivar, Puerto Maritimo de Guayaquil<br>
 
 ## Military and Security
 

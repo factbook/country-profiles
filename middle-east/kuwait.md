@@ -476,9 +476,6 @@ _expenditures_: $72.03 billion (2019 est.)<br>
 **Taxes and other revenues**<br>
 41.8% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Current account balance**<br>
 $63.078 billion (2022 est.)<br>
 $34.943 billion (2021 est.)<br>
@@ -595,12 +592,12 @@ _Total energy consumption per capita 2019_: 381.985 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 572,511 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
+_total subscriptions_: 573,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,918,180 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 163 (2021 est.)<br>
+_total subscriptions_: 7.726 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 181 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Kuwait&rsquo;s telecom infrastructure is well developed, with a focus on mobile infrastructure and services; the telecom sector is important to the country&rsquo;s economy, and this will become more pronounced in coming years as the economy is purposefully transitioned away from a dependence on oil and gas to one which is increasingly knowledge-based and focused on ICT and related services; the MNOs have focused investment on 5G networks, which support and promote the growth of data traffic; this in turn has been a catalyst for revenue growth in recent quarters; while Kuwait&rsquo;s mobile sector shows considerable progress; the country&rsquo;s fixed broadband system is the lowest in the region; the government has stepped up efforts to build up fixed broadband networks, and ultimately this sector offers a potential future growth opportunity; improvements to the fixed broadband infrastructure will help develop sectors such as e-commerce, along with smart infrastructure developments, and tech start-ups (2022)<br>

@@ -480,9 +480,6 @@ _expenditures_: $4.564 billion (2020 est.)<br>
 25.71% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Current account balance**<br>
 -$129.756 million (2022 est.)<br>
 $149.262 million (2021 est.)<br>
@@ -599,12 +596,12 @@ _Total energy consumption per capita 2019_: 49.7 million Btu/person (2019 est.)<
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 446,831 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 17 (2021 est.)<br>
+_total subscriptions_: 447,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,905,408 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 103 (2021 est.)<br>
+_total subscriptions_: 3.003 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 106 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Jamaica&rsquo;s telecom sector has for many years been propped up by the mobile sector, which accounts for the vast majority of internet connections and voice lines; it also accounts for just over half of telecom sector revenue; in December 2020, the government announced the rollout of a national broadband network costing up to $237 million; the funding will be spent on improving connectivity in under served areas, improving access to education, and deploying networks to public locations such as hospitals, municipal institutions, and police stations; to aid in this national broadband effort, the government received a donation of 650km of fiber cabling from local cable TV providers and the two main toll road operators; to encourage the use of digital channels as the country deals with the Covid-19 pandemic (2021)<br>
@@ -653,7 +650,7 @@ _medium_: 1<br>
 _small_: 2<br>
 _very small_: 8<br>
 _ports with oil terminals_: 5<br>
-_key ports_: Falmouth, Kingston, Lucea, Montego Bay, Ocho Rios, Port Antonio, Port Esquivel, Port Kaiser, Rio Bueno, Rocky Point, Savannah La Mar<br>
+_key ports_: Falmouth, Kingston, Lucea, Montego Bay, Ocho Rios, Port Antonio, Port Esquivel, Port Kaiser, Rio Bueno, Rocky Point, Savannah la Mar<br>
 
 ## Military and Security
 

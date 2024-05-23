@@ -498,9 +498,6 @@ _expenditures_: $2.393 billion (2019 est.)<br>
 10.35% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $1.635 billion (2022 est.)<br>
 $734.735 million (2021 est.)<br>

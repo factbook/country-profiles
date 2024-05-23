@@ -482,9 +482,6 @@ _expenditures_: $1.467 billion (2019 est.)<br>
 **Taxes and other revenues**<br>
 28.1% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$254.121 million (2022 est.)<br>
 -$2.503 billion (2021 est.)<br>
@@ -607,8 +604,8 @@ _total subscriptions_: 125,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 16 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 860,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
+_total subscriptions_: 856,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 106 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: after many years of delays and legal challenges, the 2016 Telecommunications Act was brought into force in October 2020 by the newly elected government of the People&rsquo;s Party Progressive (PPP); the Telecommunications Act sets out a framework for enabling competition across all segments of the telecommunications sector in Guyana; the mobile market has been open to competition since 2001; the Telecommunications Act presents the country with the potential to benefit from a more level playing field that may attract new players, but nevertheless Guyana&rsquo;s relatively small size and low GDP may restrict it from reaching its full potential for some more years to come (2021)<br>

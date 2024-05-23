@@ -516,9 +516,6 @@ _expenditures_: $248.868 billion (2019 est.)<br>
 19.15% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$16.697 billion (2022 est.)<br>
 -$8.515 billion (2021 est.)<br>
@@ -635,12 +632,12 @@ _Total energy consumption per capita 2019_: 112.831 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,277,054 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 14 (2021 est.)<br>
+_total subscriptions_: 5.277 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 50,588,785 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 132 (2021 est.)<br>
+_total subscriptions_: 52.589 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 132 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the liberalized telecom market has seen considerable development in the broadband and mobile sectors; the regulatory environment has encouraged market competition, partly by encouraging operators to secure spectrum and also by ensuring access to cable and fiber infrastructure; the mobile market in recent years has been characterized by the rapid extension of LTE and 5G networks, and the development of mobile data services based on newly released and re-farmed spectrum; the regulator&rsquo;s attempts to auction spectrum in a range of bands has been delayed, with spectrum in the 5G-suitable 3.4-3.8GHz range having been put back to later in 2023 as a result of the Covid-19 outbreak and changes to legislation (2021)<br>
@@ -737,10 +734,10 @@ Poland’s geographic location on NATO’s eastern flank and its history of fore
 ## Space
 
 **Space agency/agencies**<br>
-Polish Space Agency (POLSA; established 2014; operational in 2015); Space Research Center (SRC, interdisciplinary research institute of the Polish Academy of Sciences that acted as Poland&rsquo;s space agency until POLSA was established in 1977) (2023)<br>
+Polish Space Agency (POLSA; established 2014; operational in 2015); Space Research Center (SRC, interdisciplinary research institute of the Polish Academy of Sciences that acted as Poland&rsquo;s space agency until POLSA was established in 1977) (2024)<br>
 
 **Space program overview**<br>
-space program is integrated within the framework of the European Space Agency (ESA); builds satellites, including nano/cube remote sensing (RS) and educational/scientific/technology satellites; researches and develops communications, RS, navigational, and other scientific applications for satellite payloads; creating infrastructure for receiving, storing, processing and distributing data from meteorological and environmental satellites; researches and develops other space-related technologies, including sensors and robotic probes for interplanetary landers, and launcher systems; participates in international space programs and cooperates with a variety of foreign space agencies and industries, including those of Brazil, Canada, China, ESA/EU member states (particularly France, Germany, Italy), India, Japan, Mexico, Russia, Ukraine, UK, and the US; has a growing commercial space sector with more than 300 active enterprises (2023)<br>
+space program is integrated within the framework of the European Space Agency (ESA); builds satellites, including nano/cube remote sensing (RS) and educational/scientific/technology satellites; researches and develops communications, RS, navigational, and other scientific applications for satellite payloads; creating infrastructure for receiving, storing, processing and distributing data from meteorological and environmental satellites; researches and develops other space-related technologies, including sensors and robotic probes for interplanetary landers, and launcher systems; participates in international space programs and cooperates with a variety of foreign space agencies and industries, including those of Brazil, Canada, China, ESA/EU member states (particularly France, Germany, Italy), India, Japan, Mexico, Russia, Ukraine, UK, and the US; has a growing commercial space sector with more than 300 active enterprises (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

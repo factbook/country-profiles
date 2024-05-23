@@ -517,9 +517,6 @@ _expenditures_: $10.145 billion (2019 est.)<br>
 12.56% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$2.874 billion (2021 est.)<br>
 -$1.974 billion (2020 est.)<br>
@@ -637,12 +634,12 @@ _Total energy consumption per capita 2019_: 8.225 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 263,308 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
+_total subscriptions_: 263,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 44,561,505 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 162 (2021 est.)<br>
+_total subscriptions_: 49.006 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 174 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: in recent years the government of Ivory Coast has helped develop a competitive telecom sector focused on the provision of converged services, thus allowing operators to offer fixed-line and mobile services under a universal services license regime; the fixed internet and broadband sectors remain underdeveloped; this is a legacy of poor international connectivity, which resulted in high wholesale prices, limited bandwidth, and a lack of access for alternative operators to international infrastructure; these limitations were addressed following the landing of a second cable in November 2011; Orange Group has also launched its 20,000km Djoliba cable system, reaching across eight countries in the region, while the 2Africa submarine cable is being developed by a consortium of companies; with a landing station providing connectivity to C&ocirc;te d'Ivoire, the system is expected to be completed in late 2023 (2022)<br>

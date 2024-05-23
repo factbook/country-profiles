@@ -517,9 +517,6 @@ _expenditures_: $1.945 trillion (2020 est.)<br>
 11.18% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $172.459 billion (2022 est.)<br>
 $329.969 billion (2021 est.)<br>
@@ -646,11 +643,11 @@ _Total energy consumption per capita 2019_: 161.174 million Btu/person (2019 est
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 38.58 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 46 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 46 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 106.4 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 128 (2021 est.)<br>
+_total subscriptions_: 104.4 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 125 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: with one of Europe&rsquo;s largest telecom markets, Germany hosts a number of significant operators which offer effective competition in the mobile and broadband sectors; the German mobile market is driven by mobile data, with the number of mobile broadband subscribers having increased rapidly in recent years; with LTE now effectively universally available, considerable progress has recently been made in building out 5G networks (2022)<br>

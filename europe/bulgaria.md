@@ -505,9 +505,6 @@ _expenditures_: $26.544 billion (2020 est.)<br>
 20.63% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$591.65 million (2022 est.)<br>
 -$1.516 billion (2021 est.)<br>
@@ -634,12 +631,12 @@ _Total energy consumption per capita 2019_: 103.924 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 691,270 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2021 est.)<br>
+_total subscriptions_: 691,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,902,756 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 115 (2021 est.)<br>
+_total subscriptions_: 7.964 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 117 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>Bulgaria’s telecom market was for some years affected by the difficult macroeconomic climate, as well as by relatively high unemployment and a shrinking population; these factors continue to slow investments in the sector, though revenue growth has returned since 2019; there still remains pressure on revenue growth, with consumers migrating from fixed-line voice telephony to mobile and VoIP alternatives, while the volume of SMS and MMS traffic has been affected by the growing use of alternative OTT messaging services; investing in network upgrades and its development of services based on 5G have stimulated other market players to invest in their own service provision; by the end of 2022 about 70% of the population is expected to be covered by 5G; the broadband market in Bulgaria enjoys excellent cross-platform competition; the share of the market held by DSL has fallen steadily as a result of customers being migrated to fiber networks; by early 2021 about 65% of fixed-line broadband subscribers were on fiber infrastructure; Bulgaria joins the U.S. State Department’s Clean Network initiative in a bid to protect its 5G communications networks</p> (2022)<br>

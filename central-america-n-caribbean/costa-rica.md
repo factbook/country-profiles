@@ -499,9 +499,6 @@ _expenditures_: $14.001 billion (2019 est.)<br>
 14% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$2.469 billion (2022 est.)<br>
 -$1.605 billion (2021 est.)<br>
@@ -618,12 +615,12 @@ _Total energy consumption per capita 2019_: 44.899 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 491,613 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2021 est.)<br>
+_total subscriptions_: 492,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,834,435 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 152 (2021 est.)<br>
+_total subscriptions_: 7.876 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 152 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the fixed broadband market is one of the few parts of Costa Rica&rsquo;s telecom sector to experience solid growth in recent years, both in size and revenue; the country&rsquo;s fiber network expanded by 56% in 2020, reaching about 176,200km; fixed-line broadband traffic volume also increased by more than 30%, year-on-year;&nbsp; other areas of the market have proven relatively lack luster, with slow or even negative growth; some of this can be attributed to the economic and social impacts of the pandemic, but the fixed-line and mobile sectors have both been struggling to produce decent results since well before the start of the crisis; the rollout of 5G network infrastructure in Costa Rica is unlikely to occur to any scale before 2023, but this may be one of the few remaining areas of opportunity open to investors outside of fixed-line internet and pay TV services (2021)<br>

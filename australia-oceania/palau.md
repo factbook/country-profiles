@@ -438,9 +438,6 @@ _expenditures_: $121 million (2019 est.)<br>
 18.16% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 October - 30 September<br>
-
 **Current account balance**<br>
 -$135.428 million (2022 est.)<br>
 -$115.739 million (2021 est.)<br>
@@ -494,11 +491,11 @@ _electrification - total population_: 100% (2021)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 8,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 44 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 44 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 24,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 130 (2021 est.)<br>
+_total subscriptions_: 24,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 133 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Palau telecommunications is a small, formerly unregulated sector undertaking significant growth with the improvement and cost reduction in technology; mobile services have taken over the share of the market from landlines, with both 2-3G cell services throughout the islands; sim cards are easily available and offer 3G and data options; there are pre-paid and post-paid options for both voice and data; there are three data options for using a wireless hotspot network throughout Palau; connection from hotel and restaurant premises is available, enabling users to connect via WiFi throughout the main Islands of Palau (2022)<br>

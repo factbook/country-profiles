@@ -352,8 +352,8 @@ _chief of mission_: Ambassador Sven ALKALAJ (since 30 June 2023)<br>
 _chancery_: 2109 E Street NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 337-1500<br>
 _FAX_: [1] (202) 337-1502<br>
-_email address and website_: <br>consularaffairs@bhembassy; info@bhembassy.org<br><br>http://www.bhembassy.org/index.html<br>
-_consulate(s) general_: Chicago, New York<br>
+_email address and website_: <br>info@bhembassy.org<br><br>http://www.bhembassy.org/index.html<br>
+_consulate(s) general_: Chicago<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Michael J. MURPHY (since 23 February 2022)<br>
@@ -494,9 +494,6 @@ _expenditures_: $8.154 billion (2019 est.)<br>
 19.14% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$1.065 billion (2022 est.)<br>
 -$418.984 million (2021 est.)<br>
@@ -613,12 +610,12 @@ _Total energy consumption per capita 2019_: 71.815 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 651,069 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 21 (2021 est.)<br>
+_total subscriptions_: 651,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 20 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,728,775 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 114 (2021 est.)<br>
+_total subscriptions_: 3.812 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 118 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom market has been liberalized and a regulatory framework created based on the EU&rsquo;s regulatory framework for communications; although Bosnia-Herzegovina remains an EU candidate country, in July 2017 it applied amended mobile roaming charges to fit in with changes introduced across the Union; further roaming agreements were made in 2019 with other western Balkan countries; the fixed-line broadband network is comparatively underdeveloped, with the result that investments made in mobile upgrades to facilitate broadband connectivity in the country to a greater extent than is common elsewhere in Europe; internet services are available; DSL and cable are the main platforms for fixed-line connectivity, while fiber broadband as yet has only a small market presence; the three MNOs, each affiliated with one of the incumbent fixed-line operators, provide national coverage with 3G, though LTE coverage is only about 89%; their upgraded networks are helping to support broadband in rural areas where fixed-line infrastructure is insufficient; mobile data and mobile broadband offers will provide future revenue growth given the limited potential of mobile voice services; the MNOs tested LTE services under trial licenses from 2013, commercial launches were delayed until the award of spectrum in early 2019; the regulator stipulated that licenses must provide national coverage within five years; trials of 5G technology have been undertaken, though there are no plans to launch services commercially in the short term, given that the MNOs can continue to exploit the capacity of their existing LTE networks (2021)<br>

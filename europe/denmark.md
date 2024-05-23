@@ -501,9 +501,6 @@ _expenditures_: $172.408 billion (2019 est.)<br>
 34.81% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $53.067 billion (2022 est.)<br>
 $36.94 billion (2021 est.)<br>
@@ -620,12 +617,12 @@ _Total energy consumption per capita 2019_: 124.163 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 711,500 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 12 (2021 est.)<br>
+_total subscriptions_: 712,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 12 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,287,875 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 124 (2021 est.)<br>
+_total subscriptions_: 7.444 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 127 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Denmark has one of the highest broadband subscription rates globally, with a near universal availability of super-fast connections; extensive cable and DSL infrastructure has been supported by a progressive regulatory regime which has encouraged operator access to both copper and fiber networks; fiber networks have a fast-growing footprint, while a number of community and metropolitan schemes have supplemented their own commitments to build out fiber nationally; a number of wholesale fiber schemes have also added to the wider availability of fiber broadband; the reach of LTE infrastructure is comprehensive, while the Mobile Network Operators by mid-2021 had also provided about 90% population coverage with 5G; services based on 5G were initially launched using trial 3.5GHz licenses; the multi-spectrum auction held in April 2021 has enabled them to improve the resilience and capacity of 5G; all MNOs are engaged in closing down their 3G networks and repurposing spectrum for LTE and 5G use (2021)<br>

@@ -511,9 +511,6 @@ _expenditures_: $83.59 billion (2019 est.)<br>
 14.96% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$27.326 billion (2022 est.)<br>
 -$20.627 billion (2021 est.)<br>
@@ -639,11 +636,11 @@ _Total energy consumption per capita 2019_: 71.736 million Btu/person (2019 est.
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 2.222 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 22.929 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 119 (2021 est.)<br>
+_total subscriptions_: 23.219 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 118 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Romania&rsquo;s telecom market has undergone several significant changes in recent years; the mobile market is served by network operators that have extensive LTE networks in place, while services based on 5G have been offered under their existing spectrum concessions since 2019; the delayed multi-spectrum auction, expected to be completed later in 2021, will enable the operators to expand 5G network capacity and enable consumers to make far greater use of the technology&rsquo;s potential; in line with legislation passed in July 2021 the MNOs will have to replace equipment provided by vendors deemed to be a security risk (2021)<br>

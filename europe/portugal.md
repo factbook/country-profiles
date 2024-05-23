@@ -499,9 +499,6 @@ _expenditures_: $101.854 billion (2019 est.)<br>
 22.01% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$3.108 billion (2022 est.)<br>
 -$2.987 billion (2021 est.)<br>
@@ -618,12 +615,12 @@ _Total energy consumption per capita 2019_: 101.734 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,437,049 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 52 (2021 est.)<br>
+_total subscriptions_: 5.437 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 53 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12,476,165 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 121 (2021 est.)<br>
+_total subscriptions_: 12.792 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 125 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Portugal has a medium-sized telecom market with a strong mobile sector and a growing broadband customer base; before the pandemic, the country had seen improving economic growth, following several years of austerity measures; revenue among some operators remains under pressure, though investments in network upgrades are continuing in an effort to attract customers to high-end services; Portugal&rsquo;s broadband services have grown steadily in recent years, largely the result of joint efforts between the regulator and the key market operators which have invested in significant infrastructure upgrades; these operators are focused on fiber-based services, resulting in a migration of subscribers from digital subscriber line DSL infrastructure; the government has also supported open-access wholesale networks; the mobile virtual network operator (MVNO) market remains largely undeveloped, partly because network operators have their own low-cost brands; collectively, MVNOs have about 2.9% share of the market; population coverage by 3G infrastructure is universal, and most investment in the sector is being directed to LTE and 5G technologies; the MNOs have trialed 5G and are looking to launch commercial services (2021)<br>

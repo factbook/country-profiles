@@ -503,9 +503,6 @@ _expenditures_: $154.927 billion (2019 est.)<br>
 24.62% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $20.34 billion (2022 est.)<br>
 $19.095 billion (2021 est.)<br>
@@ -624,11 +621,11 @@ _Total energy consumption per capita 2019_: 113.273 million Btu/person (2019 est
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 3.574 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 39 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 40 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12.5 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 140 (2021 est.)<br>
+_total subscriptions_: 13.758 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 152 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Israel&rsquo;s developed economy largely revolves around high technology products and services, primarily used in the medical, biotechnology, agricultural, materials, and military industries; the country also attracts investment in its cyber-security industry, and has established itself as a hub for thousands of start-up companies; to underpin these developments, Israel has developed a robust telecoms sector; household broadband subscriptions is high, with a focus on fiber-network deployment; LTE services are almost universally available, while the August 2020 multi-frequency bands also enabled the MNOs to provide services based on 5G; 5G will be supported by moves to close down GSM and 3G networks in stages through to the end of 2025, with the physical assets and frequencies to be repurposed for LTE and 5G use (2023)<br>
@@ -719,13 +716,13 @@ the IDF is responsible for external defense but also has some domestic security 
 ## Space
 
 **Space agency/agencies**<br>
-Israel Space Agency (ISA; established 1983 under the Ministry of Science and Technology; origins go back to the creation of a National Committee for Space Research, established 1960); Ministry of Defense Space Department (2023)<br>
+Israel Space Agency (ISA; established 1983 under the Ministry of Science and Technology; origins go back to the creation of a National Committee for Space Research, established 1960); Ministry of Defense Space Department (2024)<br>
 
 **Space launch site(s)**<br>
-Palmachim Airbase (Central district) (2023)<br>
+Palmachim Airbase (Central district) (2024)<br>
 
 **Space program overview**<br>
-has one of the most advanced space programs in the region; designs, builds, and operates communications, remote sensing (RS), and scientific satellites; designs, builds, and operates sounding (research) rockets and orbital satellite/space launch vehicles (SLVs); launches satellites on domestic and foreign rockets; researches and develops a range of other space-related capabilities with a focus on lightweight and miniaturized technologies, including small satellites with high resolution RS imaging and communications capabilities; has relations with a variety of foreign space agencies and space industries, including those of Canada, the European Space Agency (and individual member states, such as France, Germany, and Italy), India, Japan, Mexico, and the US; has a substantial commercial space sector, including state-owned enterprises, in areas such as launchers, propulsion, satellite manufacturing, particularly micro- and nano-satellites, payloads and applications, RS, communications, and ground stations (2023)<br>
+has an ambitious space program and one of the most advanced in the region; designs, builds, and operates communications, remote sensing (RS), and scientific satellites; designs, builds, and operates sounding (research) rockets and orbital satellite/space launch vehicles (SLVs); launches satellites on domestic and foreign rockets; researches and develops a range of other space-related capabilities with a focus on lightweight and miniaturized technologies, including small satellites with high resolution RS imaging and communications capabilities; has relations with a variety of foreign space agencies and space industries, including those of Canada, the European Space Agency (and individual member states, such as France, Germany, and Italy), India, Japan, Mexico, and the US; has a substantial commercial space sector, including state-owned enterprises, in areas such as launchers, propulsion, satellite manufacturing, particularly micro- and nano-satellites, payloads and applications, RS, communications, and ground stations (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

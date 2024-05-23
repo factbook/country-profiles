@@ -481,9 +481,6 @@ _expenditures_: $754 million (2019 est.)<br>
 **Taxes and other revenues**<br>
 35.3% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $656.207 million (2022 est.)<br>
 -$225.106 million (2021 est.)<br>
@@ -603,12 +600,12 @@ _Total energy consumption per capita 2019_: 8.869 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 27,931 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2021 est.)<br>
+_total subscriptions_: 28,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 489,339 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 44 (2021 est.)<br>
+_total subscriptions_: 519,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 46 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Djibouti remains one of the last bastions where the national telco has a monopoly on telecom services, including fixed lines, mobile, internet, and broadband with the exception of broad band fiber; despite the country benefiting from its location as a hub for international submarine cables, prices for telecom services remain relatively high, and out of reach for a number of customers, weighing on market advancement; the Djibouti government is aiming to sell a minority stake in the incumbent telco (retaining some control of decisions) while securing the financial backing and the management acumen of a foreign operator; this is part of a larger plan to modernize the country&rsquo;s economy more generally; the state expects to conduct a sale of up to 40% of the company to an international investor (2023)<br>

@@ -454,9 +454,6 @@ _expenditures_: $516 million (2020 est.)<br>
 18.24% (of GDP) (2017 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Current account balance**<br>
 -$52.32 million (2022 est.)<br>
 -$129.365 million (2021 est.)<br>
@@ -573,11 +570,11 @@ _Total energy consumption per capita 2019_: 50.872 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 14,182 (2021 est.)<br>
+_total subscriptions_: 14,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 8 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 170,000 (2021 est.)<br>
+_total subscriptions_: 172,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 96 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -619,7 +616,7 @@ _medium_: 0<br>
 _small_: 2<br>
 _very small_: 1<br>
 _ports with oil terminals_: 2<br>
-_key ports_: Castries, Grand Cul De Sac Bay, Vieux Fort<br>
+_key ports_: Castries, Grand Cul de Sac Bay, Vieux Fort<br>
 
 ## Military and Security
 

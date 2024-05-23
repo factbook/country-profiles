@@ -534,9 +534,6 @@ _expenditures_: $1.509 trillion (2019 est.)<br>
 23.96% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$56.672 billion (2022 est.)<br>
 $9.868 billion (2021 est.)<br>
@@ -662,11 +659,11 @@ _Total energy consumption per capita 2019_: 151.053 million Btu/person (2019 est
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 37.74 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 59 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 58 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 73 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
+_total subscriptions_: 76.807 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 119 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: France's telecom market is one of the largest in Europe; there is a multi-year Engage 2025 plan which is focused on growth in the developing markets, and on the greater use of artificial intelligence and data; there are many MVNOs in the market; LTE networks provide near universal coverage, and carry about 95% of mobile data traffic; operators have launched 5G services, and these have been supported by the late-2020 auction of spectrum in the 3.5GHz range; France&rsquo;s fixed broadband market is increasingly focused on fiber, which accounted for 71% of all fixed lines at the beginning of 2021; growth in the fiber sector has been stimulated by households securing faster data packages during the pandemic; the number of DSL lines has fallen sharply as customers migrate to fiber infrastructure (2021)<br>

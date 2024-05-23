@@ -511,9 +511,6 @@ _expenditures_: $8.714 billion (2019 est.)<br>
 9.79% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$2.793 billion (2022 est.)<br>
 -$308.061 million (2021 est.)<br>
@@ -630,12 +627,12 @@ _Total energy consumption per capita 2019_: 62.775 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 168,517 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2021 est.)<br>
+_total subscriptions_: 169,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,975,074 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 119 (2021 est.)<br>
+_total subscriptions_: 8.659 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 128 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: limited progress on structural reform and deficient infrastructure of the landlocked country are obstacles to the telecom platform; effective competition in mobile market, serving 96% of population through LTE; deployment of fiber; operator enabled 109 free Internet points across the country and is looking to expand to 430 points in 2022; dependent on neighboring countries for access to submarine cables (2022)<br>
@@ -696,7 +693,7 @@ _medium_: 0<br>
 _small_: 0<br>
 _very small_: 1<br>
 _ports with oil terminals_: 0<br>
-_key ports_: Puerto De Asuncion<br>
+_key ports_: Puerto de Asuncion<br>
 
 ## Military and Security
 
@@ -727,10 +724,10 @@ the Paraguayan military is responsible for external defense but also has some do
 ## Space
 
 **Space agency/agencies**<br>
-Special Agency of Paraguay (Agencia Especial del Paraguay, AEP; established 2014) (2023)<br>
+Space Agency of Paraguay (Agencia Especial del Paraguay, AEP; established 2014) (2024)<br>
 
 **Space program overview**<br>
-has a small, recently established space program focused on the acquisition of satellites, satellite data, and the technologies and capabilities to manufacture satellites, as well as promoting in-country expertise building and space industry; a priority is acquiring remote sensing (RS) capabilities to support socio-economic develop, including resource mapping, weather, and crop monitoring; has built a cube satellite with foreign assistance; operates satellites; cooperates with foreign space agencies and industries, including those of India, Japan, Taiwan, the US, and member states of the Latin American and Caribbean Space Agency (ALCE) (2023)<br>
+has a small, recently established space program focused on the acquisition of satellites, satellite data, and the technologies and capabilities to manufacture satellites, as well as promoting in-country expertise building and space industry; a priority is acquiring remote sensing (RS) capabilities to support socio-economic develop, including resource mapping, weather, and crop monitoring; has built a cube satellite with foreign assistance; operates satellites; cooperates with foreign space agencies and industries, including those of India, Japan, Taiwan, the US, and member states of the Latin American and Caribbean Space Agency (ALCE) (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

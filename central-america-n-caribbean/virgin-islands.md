@@ -382,9 +382,6 @@ _expenditures_: $1.518 billion (2016 est.)<br>
 **Taxes and other revenues**<br>
 28.9% (of GDP) (2016 est.)<br>
 
-**Fiscal year**<br>
-1 October - 30 September<br>
-
 **Exports**<br>
 $4.075 billion (2021 est.)<br>
 $1.62 billion (2020 est.)<br>

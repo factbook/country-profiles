@@ -364,9 +364,6 @@ _expenditures_: $262.5 million (2016 est.)<br>
 **Taxes and other revenues**<br>
 37.8% (of GDP) (2016 est.)<br>
 
-**Fiscal year**<br>
-1 October - 30 September<br>
-
 **Exports**<br>
 $409 million (2022 est.)<br>
 $332 million (2021 est.)<br>

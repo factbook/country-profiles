@@ -501,9 +501,6 @@ _expenditures_: $5.059 billion (2019 est.)<br>
 23.09% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$1.12 billion (2022 est.)<br>
 -$1.943 billion (2021 est.)<br>
@@ -620,12 +617,12 @@ _Total energy consumption per capita 2019_: 63.286 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 301,117 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (2021 est.)<br>
+_total subscriptions_: 301,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 8 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,163,558 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 137 (2021 est.)<br>
+_total subscriptions_: 5.844 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 156 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector has been attempting for many years to overcome the decades of under-investment in its fixed-line infrastructure during the Soviet era; concerted efforts to privatize state-owned enterprises and open up the telecom market have been mostly successful, with a large number of networks now competing in both the fixed-line and the mobile segments; more needs to be done, however, to give investors the confidence to enter a market that has barely moved in terms of revenue growth over the last decade, and where regulatory overreach has sometimes come perilously close to arresting further development; Georgia&rsquo;s government moved fast following the collapse of the Soviet Union to liberalize the country&rsquo;s telecom market; this resulted in a relatively high number of networks competing in the under-developed fixed-line segment as well as in the emerging mobile market; both segments remain dominated by just a few companies (2022)<br>

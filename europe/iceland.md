@@ -490,9 +490,6 @@ _expenditures_: $11.536 billion (2018 est.)<br>
 23.03% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$577.122 million (2022 est.)<br>
 -$758.255 million (2021 est.)<br>
@@ -606,12 +603,12 @@ _from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 93,048 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 27 (2021 est.)<br>
+_total subscriptions_: 93,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 25 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 437,270 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 118 (2021 est.)<br>
+_total subscriptions_: 457,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 123 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Iceland has one of the smallest yet most progressive telecom markets in Europe; the country in 2020 became the top in Europe for fiber penetration; it aims to provide a fixed broadband service of at least 100Mb/s to 99.9% of the population by the end of 2021, an ambitious target by international standards and one which it is likely to achieve given the progress which operators have made in extending the reach of fiber networks; there is effective competition in the mobile and broadband markets, with a number of players having emerged to challenge the dominance of the two leading operators which have interests across the telecom sectors; the telecom market has shown some resilience in recent years following the significant economic downturn a decade ago, supported by continuing investment in mobile and fixed-line broadband infrastructure by operators and well as by the government&rsquo;s Telecommunications Fund which is supporting Next Generation Access networks, particularly in rural areas (2022)<br>

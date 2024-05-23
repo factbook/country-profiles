@@ -484,9 +484,6 @@ _expenditures_: $57.258 billion (2019 est.)<br>
 **Taxes and other revenues**<br>
 26.4% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Current account balance**<br>
 $63.118 billion (2022 est.)<br>
 $26.319 billion (2021 est.)<br>
@@ -603,12 +600,12 @@ _Total energy consumption per capita 2019_: 723.582 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 523,765 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 17 (2021 est.)<br>
+_total subscriptions_: 524,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 19 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,876,499 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 144 (2021 est.)<br>
+_total subscriptions_: 4.693 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 174 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Qatar had developed a mature telecom sector which has been able to absorb the additional data demands made on it during the pandemic; mobile services based on LTE are universally available to migrate to 5G; in combination with a strong fiber rollout, the country is aiming to provide gigabit services nationally; 5G services are largely based on 3.5GHz spectrum made available following an auction in early 2019 (2022)<br>

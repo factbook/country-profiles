@@ -415,9 +415,6 @@ _expenditures_: $9.974 billion (2017 est.)<br>
 **Taxes and other revenues**<br>
 8.9% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-1 July - 30 June<br>
-
 **Current account balance**<br>
 $0 (2017 est.)<br>
 $0 (2016 est.)<br>
@@ -517,12 +514,12 @@ _Total energy consumption per capita 2019_: 94.379 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 739,111 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 22 (2021 est.)<br>
+_total subscriptions_: 739,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 23 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,661,176 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 112 (2021 est.)<br>
+_total subscriptions_: 3.896 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 120 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Puerto Rico has a small telecom market which in recent years has been deeply affected by a combination of economic mismanagement and natural disasters, including two hurricanes which landed in late 2017 and an earthquake which struck in January 2020; these disasters caused considerable destruction of telecom infrastructure, which in turn led to a marked decline in the number of subscribers for all services; compounding these difficulties have been a long-term economic downturn which encouraged many people not to resume telecom services after these were restored; after some delay, the FCC in late 2019 issued an order relating to the release of funds to help rebuild telecom infrastructure; although Puerto Rico is a US territory it lags well behind the mainland US states in terms of fixed-line and broadband services; this is partly due to high unemployment rates (and consequently low disposable income) and poor telecoms investment in a market; the mobile market has been impacted by several mergers and acquisitions over the last few years; the activities of large multinational telcos continue to impact the Puerto Rican market; operators have secured spectrum in the 600MHz and 3.5GHz bands, thus enabling them to expand the reach of LTE services and launch services based on 5G;&nbsp; the growing number of submarine cables landing in Puerto Rico is helping to drive down the cost of telecom services, creating a demand for streaming content from abroad; the uptake of cloud-based applications for both business and individuals is also creating a heightened demand for affordable services (2021)<br>
@@ -561,7 +558,7 @@ _medium_: 3<br>
 _small_: 4<br>
 _very small_: 7<br>
 _ports with oil terminals_: 7<br>
-_key ports_: Arroyo, Ensenada Honda, Mayaguez, Playa De Guanica, Playa De Guayanilla, Playa De Ponce, San Juan<br>
+_key ports_: Arroyo, Ensenada Honda, Mayaguez, Playa de Guanica, Playa de Guayanilla, Playa de Ponce, San Juan<br>
 
 ## Military and Security
 

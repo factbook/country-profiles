@@ -512,9 +512,6 @@ _expenditures_: $1.407 billion (2019 est.)<br>
 **Taxes and other revenues**<br>
 27.4% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$1.424 billion (2022 est.)<br>
 -$807.862 million (2021 est.)<br>
@@ -634,12 +631,12 @@ _Total energy consumption per capita 2019_: 13.558 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 47,503 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
+_total subscriptions_: 48,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,512,361 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 141 (2021 est.)<br>
+_total subscriptions_: 5.358 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 113 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Mauritania&rsquo;s small population and low economic output has limited the country&rsquo;s ability to develop sustained growth in the telecom sector; low disposable income has restricted growth in the use of services; this has impacted their ability to invest in network upgrades and improvements to service offerings; this has been reflected in the repeated fines imposed against them by the regulator for failing to ensure a good quality of service; there are also practical challenges related to transparency and tax burdens which have hindered foreign investment; financial support has been forthcoming from the government as well as the World Bank and European Investment Bank; their efforts have focused on implementing appropriate regulatory measures and promoting the further penetration of fixed-line broadband services by improving the national backbone network, ensuring connectivity to international telecom cables, and facilitating operator access to infrastructure; progress has been made to improve internet bandwidth capacity, including the completion of a cable link at the border with Algeria, and the connection to the EllaLink submarine cable; the final stage of the national backbone network was completed in December 2021, which now runs to some 4,000km; penetration of fixed telephony and broadband service is very low and is expected to remain so in coming years, though growth is anticipated following improvements to backbone infrastructure and the reduction in access pricing; most voice and data services are carried over the mobile networks (2022)<br>

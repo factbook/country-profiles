@@ -482,9 +482,6 @@ _expenditures_: $3.675 billion (2020 est.)<br>
 19.02% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-1 July - 30 June<br>
-
 **Current account balance**<br>
 -$1.486 billion (2022 est.)<br>
 -$1.497 billion (2021 est.)<br>
@@ -603,12 +600,12 @@ _Total energy consumption per capita 2019_: 79.448 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 462,100 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 36 (2021 est.)<br>
+_total subscriptions_: 462,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 36 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,971,300 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 152 (2021 est.)<br>
+_total subscriptions_: 2.097 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 161 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector in Mauritius has long been supported by the varied needs of tourists; this has stimulated the mobile market, leading to a particularly high penetration rate; the response of the country&rsquo;s telcos to tourist requirements also contributed to the country being among the first in the region to provide services based on 3G and WiMAX technologies; the incumbent telco provides comprehensive LTE and fiber broadband coverage, and in late 2021 it launched a gigabit fiber-based broadband service; the country has seen improved international internet capacity in recent years, with direct cables linking to India, Madagascar, and South Africa, as well as other connections to Rodrigues and Reunion; mobile subscribers in Mauritius secured 5G services in mid-2021;&nbsp; this followed the regulator&rsquo;s award of spectrum in two bands to the MNOs (2022)<br>

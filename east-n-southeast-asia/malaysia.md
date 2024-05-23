@@ -501,9 +501,6 @@ _expenditures_: $85.851 billion (2019 est.)<br>
 11.21% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $12.271 billion (2022 est.)<br>
 $14.493 billion (2021 est.)<br>
@@ -620,12 +617,12 @@ _Total energy consumption per capita 2019_: 123.755 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 8,452,900 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 25 (2021 est.)<br>
+_total subscriptions_: 8.453 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 25 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 47,201,700 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 141 (2021 est.)<br>
+_total subscriptions_: 47.952 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 141 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: as part of a diverse range of initiatives designed to move the country from developing to developed status by 2025, Malaysia has enabled and encouraged open competition in its telecommunications market; the result is very high penetration levels in both the mobile (147%) and mobile broadband (127%) segments, and near-universal coverage of 4G LTE networks; steady growth is occurring as more fiber optic cable networks are being deployed around the country; consumers are the main beneficiaries of the highly competitive market; they enjoy widespread access to high-speed mobile services as well as attractive offers on bundles to keep data use up but prices low; the downside is that most of Malaysia&rsquo;s MNOs and MVNOs have struggled to increase revenue in line with growth in subscriber numbers as well as demand for broadband data; while the operators have been very successful in moving a significant proportion (now over 30%) of customers from prepaid over to higher-value postpaid accounts, ARPU continues to fall year after year as a result of competitive pricing pressures; the mobile market, in particular, has become overcrowded and the government is keen to see further rationalization and consolidation with the operators; while customers will no doubt continue to enjoy high quality services at competitive rates, the new entity will be hopeful of squeezing better margins through improved economies of scale; in 2022, the government abandoned its single wholesale 5G network model and committed to deploying a dual 5G network; currently, 80 percent of Malaysia&rsquo;s population is covered by 5G (2023)<br>
@@ -724,10 +721,10 @@ the Malaysian military is primarily focused on internal and maritime security an
 ## Space
 
 **Space agency/agencies**<br>
-Malaysian Space Agency (MYSA); MYSA was established in 2019 through the merging of the National Space Agency (ANGKASA; established 2002) and Malaysian Remote Sensing Agency (MRSA; established 1998); Astronautic Technology Sd Bhd (ATSB; established 1995)&nbsp; (2023)<br>
+Malaysian Space Agency (MYSA); MYSA was established in 2019 through the merging of the National Space Agency (ANGKASA; established 2002) and Malaysian Remote Sensing Agency (MRSA; established 1998); Astronautic Technology Sd Bhd (ATSB; established 1995) (2024)<br>
 
 **Space program overview**<br>
-has a growing space program focused on the areas of remote sensing (RS), communication, and navigational services to support domestic economic sectors; also seeks to promote a domestic space industry; acquires, manufactures, and operates satellites; conducts research in RS capabilities and space sciences such as astronomy, atmospherics, space environment, and weather; has an astronaut training exchange program with Russia and has relations with a variety of foreign space agencies and industries, including those of the European Space Agency and some of its individual member states, India, Japan, Russia, South Korea, the UK, and the US (2023)<br>
+has a growing space program focused on the areas of remote sensing (RS), communication, and navigational services to support domestic economic sectors; also seeks to promote a domestic space industry; acquires, manufactures, and operates satellites; conducts research in RS capabilities and space sciences such as astronomy, atmospherics, space environment, and weather; has an astronaut training exchange program with Russia and has relations with a variety of foreign space agencies and industries, including those of the European Space Agency and some of its individual member states, India, Japan, Russia, South Korea, the UK, and the US (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

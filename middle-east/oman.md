@@ -474,9 +474,6 @@ _expenditures_: $35.984 billion (2018 est.)<br>
 **Taxes and other revenues**<br>
 31.3% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $5.752 billion (2022 est.)<br>
 -$4.783 billion (2021 est.)<br>
@@ -593,11 +590,11 @@ _Total energy consumption per capita 2019_: 292.022 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 563,172 (2022 est.)<br>
+_total subscriptions_: 563,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,115,537 (2021 est.)<br>
+_total subscriptions_: 6.75 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 135 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -681,15 +678,6 @@ the SAF's inventory includes a mix of older and some more modern weapons systems
 
 **Military - note**<br>
 the SAF’s primary responsibility is external security; it is a small, but well-equipped military that trains regularly, including with foreign partners such as the UK, US, and Gulf Cooperation Council countries; the SAF has a longstanding security relationship with the British military going back to the 18th century; the relationship was notable during the Dhofar Rebellion (1963-1976), when the British military provided considerable assistance to the SAF in their eventually successful counterinsurgency campaign; today, the SAF and the British maintain a joint training base in Oman and exercise together regularly; in 2017, Oman and the UK signed an agreement allowing the British military the use of facilities at Al Duqm Port; in 2019, the US obtained access to the port, expanding on previous military cooperation agreements in 2014, 2010, and 1980; Oman also allows other nations to use some of its maritime facilities, including China<br><br>the Omani Navy conducts maritime security operations along the country’s long coastline, including patrolling, ensuring freedom of navigation in the key naval chokepoint of the Strait of Hormuz, and countering piracy and smuggling; while Oman is not a member of the US-led, 34-member nation Combined Maritime Forces (CMF), which operates task forces to counter piracy and smuggling, the Omani Navy has at times participated in CMF-led joint exercises; the Navy is a small but relatively modern force; its principal warships are five corvettes, which are supported by several offshore patrol ships, fast attack craft, and coastal patrol vessels<br><br>the Royal Army was formed as the Muscat Garrison in 1907; today, it has an armored brigade equipped with American and British tanks, 2 brigades of infantry, and a border guard brigade, as well as an airborne regiment; the Royal Guard is comprised of an infantry brigade and 2 special forces regiments; the Air Force has about three dozen modern European- and US-made multipurpose fighter aircraft (2023)<br>
-
-## Space
-
-**Space agency/agencies**<br>
-no government agency; the Government of Oman has established a limited liability company with the mission of spearheading a national satellite program initiative and building a national satellite communications infrastructure&nbsp; (2023)<br>
-
-**Space program overview**<br>
-has a nascent space program focused on the acquisition of satellites and satellite ground support infrastructure; contracts with foreign commercial companies for development of space capabilities, such as satellites and telecommunications infrastructure (2023)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
 

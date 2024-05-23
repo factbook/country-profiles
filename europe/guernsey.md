@@ -335,9 +335,6 @@ _expenditures_: $530.9 million (2005 est.)<br>
 **Budget surplus (+) or deficit (-)**<br>
 1.2% (of GDP) (2005)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Exports - partners**<br>
 almost entirely United Kingdom (2022)<br>
 

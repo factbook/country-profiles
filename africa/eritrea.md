@@ -456,9 +456,6 @@ _expenditures_: $549 million (2018 est.)<br>
 **Taxes and other revenues**<br>
 34.9% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$137 million (2017 est.)<br>
 -$105 million (2016 est.)<br>
@@ -576,7 +573,7 @@ _total subscriptions_: 66,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.8 million (2021 est.)<br>
+_total subscriptions_: 1.801 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 50 (2021 est.)<br>
 
 **Telecommunication systems**<br>

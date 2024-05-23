@@ -367,7 +367,7 @@ ACP, AfDB, AU, CD, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM,
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jean-Claude Felix DO REGO (since 17 July 2020)<br>
 _chancery_: 2124 Kalorama Road NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 232-6656; [1] (202) 232-2611<br>
+_telephone_: [1] (202) 232-6656<br>
 _FAX_: [1] (202) 265-1996<br>
 _email address and website_: <br>ambassade.washington@gouv.bj<br><br>https://beninembassy.us/<br>
 
@@ -506,9 +506,6 @@ _expenditures_: $2.101 billion (2019 est.)<br>
 **Taxes and other revenues**<br>
 17.1% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$734.659 million (2021 est.)<br>
 -$273.967 million (2020 est.)<br>
@@ -626,12 +623,12 @@ _Total energy consumption per capita 2019_: 8.468 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,526 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_total subscriptions_: 2,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12,731,782 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 98 (2021 est.)<br>
+_total subscriptions_: 14.55 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 109 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Benin&rsquo;s telecom market continues to be restricted by the poor condition of the country&rsquo;s fixed-line infrastructure; this has hampered the development of fixed-line voice and internet services, and there is negligible revenue derived from these sectors; mobile networks account for almost all internet connections, and also carry most voice traffic; there is promise for considerable change in the mobile sector; slow progress is being made in developing competition in the mobile sector; in May 2021 the government sought foreign companies to bid for a fourth mobile license; improved international internet connectivity has contributed to a reduction in end-user pricing, and provided the potential to transform many areas of the country&rsquo;s economy, bringing a greater proportion of the population into the orbit of internet commerce and connectivity; a 2,000km fiber project started in 2016 was finally completed in mid-2021, prompting the government to secure a loan to build additional fiber infrastructure connecting four of the country&rsquo;s 12 departments (2022)<br>
@@ -715,7 +712,7 @@ the FAB is equipped with a small mix of mostly older or secondhand French, Sovie
 18-35 years of age for voluntary and selective compulsory military service for men and women; a higher education diploma is required; conscript service is 18 months (2023)<br>
 
 **Military - note**<br>
-a key focus for the security forces of Benin is countering infiltrations into the country by terrorist groups tied to al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS) operating just over the border from northern Benin in Burkina Faso and Niger; in May 2022, the Benin Government said it was "at war" after suffering a series of attacks from these groups; later that same year, President TALON said his government would spend more than $130 million to recruit up to 4,000 additional military personnel, modernize military equipment, and build and fortify operating bases; in addition, the FAB participates in the Multinational Joint Task Force (MNJTF) along with Cameroon, Chad, Niger, and Nigeria against Boko Haram and ISIS-West Africa in the general area of the Lake Chad Basin and along Nigeria's northeastern border <br><br>the FAB has a close working relationship with the Belgian armed forces; the Belgians offer military advice, training, and second-hand equipment donations, and deploy to Benin for limited military exercises (2023)<br>
+a key focus for the security forces of Benin is countering infiltrations into the country by terrorist groups tied to al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS) operating just over the border from northern Benin in Burkina Faso and Niger; in 2022, the Benin Government said it was "at war" after suffering a series of attacks from these groups; later that same year, President TALON said his government would spend more than $130 million to recruit up to 4,000 (later increased to 5,000) additional military personnel, modernize military equipment, and build and fortify operating bases; in addition, the FAB participates in the Multinational Joint Task Force (MNJTF) along with Cameroon, Chad, Niger, and Nigeria against Boko Haram and ISIS-West Africa in the general area of the Lake Chad Basin and along Nigeria's northeastern border <br><br>the FAB has a close working relationship with the Belgian armed forces; the Belgians offer military advice, training, and second-hand equipment donations, and deploy to Benin for limited military exercises (2024)<br>
 
 ## Terrorism
 

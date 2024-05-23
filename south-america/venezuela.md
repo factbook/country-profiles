@@ -490,9 +490,6 @@ _expenditures_: $76 million (2017 est.)<br>
 **Taxes and other revenues**<br>
 44.2% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$3.87 billion (2016 est.)<br>
 -$16.051 billion (2015 est.)<br>
@@ -611,12 +608,12 @@ _Total energy consumption per capita 2019_: 85.829 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,146,844 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2021 est.)<br>
+_total subscriptions_: 3.147 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 17 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 60 (2021 est.)<br>
+_total subscriptions_: 17.949 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 63 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Venezuela&rsquo;s fixed-line teledensity was relatively high for the region before the steady growth in the number of lines came to an end in 2015; since then, the number of lines has plummeted, and by late 2021 teledensity had fallen to about 17.3%; the cause is largely linked to the country&rsquo;s ongoing economic troubles, which have compelled many people to terminate fixed-line telecom services and others still to flee the country; these pressures have also distorted sector revenue and have placed into disarray operators&rsquo; investment plans aimed at improving networks and expanding the reach and capabilities of new technologies and services; the fixed broadband penetration rate is lower than the regional average, while data speeds are also relatively low; there is no effective competition in the provision of DSL, and as a result the state-owned incumbent CANTV has had little incentive to improve services from its meager revenue streams; mobile penetration in Venezuela is also below the regional average; the number of mobile subscribers fell by an estimated 2.4% in 2020, year-on-year, as subscribers terminated services in a bid to reduce discretionary spending, this decline is expected to continue into 2022, with subscriber growth not returning until 2023 (2021)<br>
@@ -678,7 +675,7 @@ _medium_: 2<br>
 _small_: 11<br>
 _very small_: 17<br>
 _ports with oil terminals_: 21<br>
-_key ports_: Amuay (Bahia De Amuay), Bahia De Pertigalete, Ciudad Bolivar, Guanta, La Guaira, La Salina, Las Piedras, Maracaibo, Puerto Cabello, Puerto De Hierro, Puerto La Cruz, Puerto Miranda, Puerto Ordaz, Punta Cardon<br>
+_key ports_: Amuay (Bahia de Amuay), Bahia de Pertigalete, Ciudad Bolivar, Guanta, La Guaira, La Salina, Las Piedras, Maracaibo, Puerto Cabello, Puerto de Hierro, Puerto la Cruz, Puerto Miranda, Puerto Ordaz, Punta Cardon<br>
 
 ## Military and Security
 

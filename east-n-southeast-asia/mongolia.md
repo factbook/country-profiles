@@ -505,9 +505,6 @@ _expenditures_: $4.979 billion (2020 est.)<br>
 16.91% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$2.303 billion (2022 est.)<br>
 -$2.108 billion (2021 est.)<br>
@@ -623,12 +620,12 @@ _Total energy consumption per capita 2019_: 83.045 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 475,290 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 12 (2021 est.)<br>
+_total subscriptions_: 475,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,687,304 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 140 (2021 est.)<br>
+_total subscriptions_: 4.836 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 142 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: liberalized and competitive telecoms market comprises of a number of operators; fixed-line penetration increased steadily in the years to 2018 as more people took on fixed-line access for voice calls and to access copper-based broadband services; the number of lines fell in 2019, and again and more sharply in 2020, partly through the economic consequences of the pandemic (GDP fell 5.3% in 2020, year-on-year) and partly due to the migration to the mobile platform and to VoIP; fixed broadband penetration remains low, mainly due to a limited number of fixed lines and the dominance of the mobile platform; the attraction of fixed broadband as a preferred access where it is available is waning as the mobile networks are upgraded with greater capacity and capabilities; the growing popularity of mobile broadband continues to underpin overall broadband and telecom sector growth, with Mongolia&rsquo;s market very much being dominated by mobile services, supported by widely available LTE; this will largely determine and shape the future direction of Mongolia&rsquo;s developing digital economy (2021)<br>
@@ -708,15 +705,6 @@ the MAF's inventory is comprised largely of Soviet-era and Russian equipment (20
 
 **Military - note**<br>
 the MAF does not face a significant external military threat and focuses instead on counterterrorism, disaster response, and international peacekeeping; the Ground Force is the military’s primary service and is centered on a motorized infantry brigade equipped largely with Soviet-era equipment; it also has a battalion devoted to peacekeeping duties and hosts an annual international peacekeeping exercise known as “Khaan Quest”; Mongolia’s primary military partner is Russia, and in addition to receiving Russian military equipment, the MAF participates in Russia’s large “Vostok” exercise, which is conducted every four years <br><br>Mongolia has been engaged in dialogue and cooperation with NATO since 2005 and is considered by NATO to be a global partner; Mongolia supported the NATO-led Kosovo Force from 2005-2007 and contributed troops to the NATO-led International Security Assistance Force in Afghanistan from 2009-2014, as well as to the follow-on Resolute Support Mission that provided training, advice, and other assistance to the Afghan security forces (2015-2021) (2023)<br>
-
-## Space
-
-**Space agency/agencies**<br>
-National Remote Sensing Center (NRSC; established 1987; under the Ministry of Infrastructure); Mongolian Space Technology Association (established 2019); Mongolian Communication and Information Technologies Authority (ACTI), Mongolian Digital Development and Communications Ministry (2023)<br>
-
-**Space program overview**<br>
-has a space program dating back to the country’s ties to the Soviet Union; modern day program focused on acquiring and manufacturing satellites; operates satellites and jointly builds them with foreign partners; developing capabilities to independently manufacture satellites with communications and remote sensing (RS) payloads; has a national strategy to acquire digital communications satellites and make use of RS satellite imagery data for economic development, environmental monitoring, natural disaster response, security, and weather forecasting; the strategy also includes promoting Mongolia’s domestic space industry and international cooperation in space technologies; has relations or cooperation agreements with a variety of foreign space agencies and industries, including those of China, France, India, Japan, Russia, and the US (2023)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
 

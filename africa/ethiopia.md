@@ -538,9 +538,6 @@ _expenditures_: $13.979 billion (2020 est.)<br>
 6.2% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-8 July - 7 July<br>
-
 **Current account balance**<br>
 -$5.16 billion (2022 est.)<br>
 -$4.507 billion (2021 est.)<br>
@@ -660,12 +657,12 @@ _Total energy consumption per capita 2019_: 3.219 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 862,157 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_total subscriptions_: 862,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 65 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 54 (2021 est.)<br>
+_total subscriptions_: 69.123 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 56 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Ethio telecom is the major provider, but no longer has a complete monopoly on all telecom services; a consortium led by Kenyan Safaricom launched service in October 2022; the World Bank in early 2021 provided a $200 million loan to help develop the country&rsquo;s digital transformation, while the government has embarked on its 2020-2030 program as well as its Digital Ethiopia 2025 strategy, both aimed at making better use of digital technologies to promote socioeconomic development (2023)<br>

@@ -515,9 +515,6 @@ _expenditures_: $35.75 billion (2021 est.)<br>
 16.85% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $7.972 billion (2022 est.)<br>
 -$3.882 billion (2021 est.)<br>
@@ -643,12 +640,12 @@ _Total energy consumption per capita 2019_: 82.571 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,739,319 (2022 est.)<br>
+_total subscriptions_: 1.739 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 6 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 56 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 140 (2021 est.)<br>
+_total subscriptions_: 49.304 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 135 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: there has been considerable damage and destruction to the communications infrastructure in more than 10 out of 24 regions of Ukraine since the war started (2023)<br>

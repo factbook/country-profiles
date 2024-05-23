@@ -518,9 +518,6 @@ _expenditures_: $7.044 billion (2019 est.)<br>
 16.78% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 $1.067 billion (2022 est.)<br>
 $2.63 billion (2021 est.)<br>
@@ -640,12 +637,12 @@ _Total energy consumption per capita 2019_: 11.595 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 96,284 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_total subscriptions_: 96,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 20 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
+_total subscriptions_: 19.838 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: following elections held in August 2021, the new government immediately established a Ministry of Technology and Science to promote the use of ICT in developing economic growth and social inclusion; this focus on ICT, and on telecoms in particular, has been central to government strategies for some years; as part of the Smart Zambia initiative, investment has been made in data centers, a computer assembly plant, ICT training centers, and a Smart Education program; these efforts have been combined with the extension of broadband access and improved connectivity to international submarine cables; in turn, this has resulted in a considerable reduction in fixed-line and mobile access pricing for end-users; mobile network operators continue to invest in 3G and LTE-based services, the government contracted to upgrade the state-owned mobile infrastructure for 5G services; delays in holding spectrum have stymied the development of 5G thus far; in mid-2021 the regulator completed a consultation of auctioning low, medium, and high band spectrum for 5G, aiming to provide sufficient spectrum to meet the anticipated increase in data traffic in coming years; fixed-line broadband services remain underdeveloped (2022)<br>

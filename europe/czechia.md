@@ -504,9 +504,6 @@ _expenditures_: $103.167 billion (2019 est.)<br>
 13.36% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Current account balance**<br>
 -$17.366 billion (2022 est.)<br>
 -$7.686 billion (2021 est.)<br>
@@ -631,12 +628,12 @@ _Total energy consumption per capita 2019_: 161.972 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,214,380 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 12 (2021 est.)<br>
+_total subscriptions_: 1.214 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 12 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 13,129,905 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 125 (2021 est.)<br>
+_total subscriptions_: 13.475 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 128 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom market has attracted investment from among the key regional telcos; telcos in the Czech Republic have become multi-service providers, offering a full range of fixed and mobile services; this has enabled the reach of their 5G networks; this process has also been assisted by them closing down 3G networks and reforming spectrum for 5G and LTE use (2023)<br>
