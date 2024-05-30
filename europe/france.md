@@ -388,7 +388,7 @@ _chancery_: 4101 Reservoir Road NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 944-6000<br>
 _FAX_: [1] (202) 944-6166<br>
 _email address and website_: <br>info@ambafrance-us.org<br><br>https://franceintheus.org/<br>
-_consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco, Washington, DC<br>
+_consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Denise Campbell BAUER (since 5 February 2022); note - also accredited to Monaco<br>

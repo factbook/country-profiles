@@ -358,7 +358,7 @@ _chancery_: 1824 R Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 387-2390<br>
 _FAX_: [1] (202) 387-0864<br>
 _email address and website_: <br>embgeo.usa@mfa.gov.ge<br><br>https://georgiaembassyusa.org/contact/<br>
-_consulate(s) general_: New York<br>
+_consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Robin L. DUNNIGAN (since 12 October 2023)<br>

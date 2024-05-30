@@ -382,7 +382,6 @@ _chancery_: 1720 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 726-5500<br>
 _FAX_: [1] (202) 726-1860<br>
 _email address and website_: <br>info@ambacongo-us.org<br><br>http://www.ambacongo-us.org/en-us/home.aspx<br>
-_consulate(s)_: New Orleans<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Eugene S. YOUNG (since 30 March 2022)<br>

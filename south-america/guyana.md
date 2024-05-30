@@ -358,7 +358,7 @@ _chief of mission_: Ambassador Samuel Archibald HINDS (since 7 July 2021)<br>
 _chancery_: 2490 Tracy Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 265-6900<br>
 _FAX_: [1] (202) 232-1297<br>
-_email address and website_: <br>guyanaembassydc@verizon.net<br>
+_email address and website_: <br>guyanaembassydc@verizon.net<br><br>http://www.guyanaembassydc.org/<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>

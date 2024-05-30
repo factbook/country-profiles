@@ -647,11 +647,11 @@ Royal Brunei Armed Forces: Land Force, Navy, Air Force, Joint Force<br><br>Minis
 <strong>note: </strong>the Gurkha Reserve Unit (GRU) under the Ministry of Defense is a special guard force for the Sultan, the royal family, and the country’s oil installations<br>
 
 **Military expenditures**<br>
-2.5% of GDP (2022)<br>
+3% of GDP (2023 est.)<br>
+2.6% of GDP (2022 est.)<br>
 3.1% of GDP (2021 est.)<br>
 3.7% of GDP (2020 est.)<br>
 3.1% of GDP (2019 est.)<br>
-2.7% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 7,000 total active-duty troops (2023)<br>

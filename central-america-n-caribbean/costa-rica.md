@@ -357,7 +357,6 @@ _telephone_: [1] (202) 499-2980<br>
 _FAX_: [1] (202) 265-4795<br>
 _email address and website_: <br>embcr-us@rree.go.cr<br><br>http://www.costarica-embassy.org/index.php?q=node/21<br>
 _consulate(s) general_: Atlanta, Houston, Los Angeles, Miami, New York, Washington DC<br>
-_honorary consulate(s)_: San Juan (Puerto Rico), Saint Paul (MN), Tucson (AZ)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Cynthia A. TELLES (since 11 March 2022)<br>

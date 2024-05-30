@@ -313,7 +313,7 @@ Independence Day (or National Day), 16 February (1918); note - 16 February 1918 
 
 **Constitution**<br>
 _history_: several previous; latest adopted by referendum 25 October 1992, entered into force 2 November 1992<br>
-_amendments_: proposed by at least one fourth of all Parliament members or by petition of at least 300,000 voters; passage requires two-thirds majority vote of Parliament in each of two readings three months apart and a presidential signature; amendments to constitutional articles on national sovereignty and constitutional amendment procedure also require three-fourths voter approval in a referendum; amended many times, last in 2019<br>
+_amendments_: proposed by at least one fourth of all Parliament members or by petition of at least 300,000 voters; passage requires two-thirds majority vote of Parliament in each of two readings three months apart and a presidential signature; amendments to constitutional articles on national sovereignty and constitutional amendment procedure also require three-fourths voter approval in a referendum; amended many times, last in 2022<br>
 
 **Legal system**<br>
 civil law system; legislative acts can be appealed to the Constitutional Court<br>
@@ -344,7 +344,7 @@ _election results_: percent of vote by party - NA; seats by party - TS-LKD 50, L
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 37 judges); Constitutional Court (consists of 9 judges)<br>
-_judge selection and term of office_: Supreme Court judges nominated by the president and appointed by the Seimas; judges serve 5-year renewable terms; Constitutional Court judges appointed by the Seimas from nominations - 3 each by the president of the republic, the Seimas chairperson, and the Supreme Court president; judges serve 9-year, nonrenewable terms; one-third of membership reconstituted every 3 years<br>
+_judge selection and term of office_: Supreme Court judges nominated by the president and appointed by the Seimas; judges serve 5-year renewable terms; Constitutional Court judges appointed by the Seimas from nominations - 3 each by the president of the republic, the Seimas speaker, and the Supreme Court president; judges serve 9-year, nonrenewable terms; one-third of membership reconstituted every 3 years<br>
 _subordinate courts_: Court of Appeals; district and local courts<br>
 
 **Political parties and leaders**<br>

@@ -339,15 +339,15 @@ _residency requirement for naturalization_: 2 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Luis Rodolfo ABINADER Corona (since 16 August 2020); Vice President Raquel PE&Ntilde;A de Antuna (since 16 August 2020); note - the president is both chief of state and head of government<br>
-_head of government_: President Luis Rodolfo ABINADER Corona (since 16 August 2020); Vice President Raquel PE&Ntilde;A de Antuna (since 16 August 2020); note - the president is both chief of state and head of government<br>
+_head of government_: President Luis Rodolfo ABINADER Corona (since 16 August 2020); Vice President Raquel PE&Ntilde;A de Antuna (since 16 August 2020)<br>
 _cabinet_: Cabinet nominated by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute vote in 2 rounds if needed for a 4-year term (eligible for a maximum of two consecutive terms); election last held on 19 May 2024 (next to be held on 21 May 2028)<br>
-_election results_: <em>2024:</em> Luis Rodolfo ABINADER Corona reelected president; percent of vote - Luis Rodolfo ABINADER Corona (PRM) 57.5%, Leonel Antonio FERNÁNDEZ Reyna (FP) 28.8%, Abel MARTÍNEZ (PLD) 10.4%, other 3.3%<br><br><em>2020:</em> Luis Rodolfo ABINADER Corona elected president in first round; percent of vote - Luis Rodolfo ABINADER Corona (PRM) 52.5%, Gonzalo CASTILLO Terrero (PLD) 37.5%, Leonel Antonio FERNÁNDEZ Reyna (FP) 8.9%, other 1.1%<br><br><em>2016:</em> Danilo MEDINA Sanchez reelected president; percent of vote - Danilo MEDINA Sanchez (PLD) 61.7%, Luis Rodolfo ABINADER Corona (PRM) 35%, other 3.3%; Margarita CEDENO DE FERNANDEZ (PLD) reelected vice president<br>
+_election results_: <em>2024:</em> Luis Rodolfo ABINADER Corona reelected president; percent of vote - Luis Rodolfo ABINADER Corona (PRM) 57.5%, Leonel Antonio FERNÁNDEZ Reyna (FP) 28.8%, Abel MARTÍNEZ (PLD) 10.4%, other 3.3%<br><br><em>2020:</em> Luis Rodolfo ABINADER Corona elected president in first round; percent of vote - Luis Rodolfo ABINADER Corona (PRM) 52.5%, Gonzalo CASTILLO Terrero (PLD) 37.5%, Leonel Antonio FERNÁNDEZ Reyna (FP) 8.9%, other 1.1%<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (32 seats; 26 members directly elected in single-seat constituencies by simple majority vote, and 6 members indirectly elected based upon province-wide party plurality votes for its candidates to the Chamber of Deputies; all members serve 4-year terms; note - in 2019, the Central Election Commission changed the electoral system for seats in 26 constituencies to simple majority vote but retained indirect election for the remaining 6 constituencies; previously, all 32 members were indirectly elected; the change had been challenged by the ruling and opposition parties)<br><br>House of Representatives or Camara de Diputados (190 seats; 178 members directly elected in multi-seat constituencies by closed party-list proportional representation vote using the D'Hondt method, 5 members in a nationwide constituency, and 7 diaspora members directly elected by simple majority vote; members serve 4-year terms)<br>
 _elections_: Senate - last held on 19 May 2024 (next to be held on 21 May 2028)<br>House of Representatives - 19 May 2024 (next to be held on 21 May 2028)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PRM 24, FP 3, APD 1, PPG 1, PRI 1, PRL 1, PRSC 1; composition - men NA, women NA, percentage women NA%<br><br>House of Representatives - percent of vote by party - NA; seats by party - NA; composition - men NA, women NA, percentage women NA%; total National Congress percentage women NA%; note - results pending<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - PRM 24, FP 3, APD 1, PPG 1, PRI 1, PRL 1, PRSC 1; composition - men NA, women NA, percentage women NA%<br><br>House of Representatives - percent of vote by party - NA; seats by party - NA; composition - men NA, women NA, percentage women NA%; total National Congress percent of women NA%; note - results pending<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Suprema Corte de Justicia (consists of a minimum of 16 magistrates); Constitutional Court or Tribunal Constitucional (consists of 13 judges); note - the Constitutional Court was established in 2010 by constitutional amendment<br>
@@ -366,8 +366,7 @@ _chancery_: 1715 22nd Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-6280<br>
 _FAX_: [1] (202) 265-8057<br>
 _email address and website_: <br>embassy@drembassyusa.org<br><br>http://drembassyusa.org/<br>
-_consulate(s) general_: Boston, Chicago, Glendale (CA), Mayaguez (Puerto Rico), Miami, New Orleans, New York, San Juan (Puerto Rico)<br>
-_consulate(s)_: San Francisco<br>
+_consulate(s) general_: Boston, Chicago, Houston, Los Angelos, Miami, New Jersey, New Orleans, New York, Orlando, Philadelphia<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Patricia AGUILERA (since 1 October 2023)<br>
@@ -701,7 +700,7 @@ Armed Forces of the Dominican Republic: Army of the Dominican Republic (Ejercito
 <strong>note 1:</strong> in addition to the three main branches of the military, the Ministry of Defense directs the Airport Security Authority and Civil Aviation (CESAC), Port Security Authority (CESEP), the Tourist Security Corps (CESTUR), and Border Security Corps (CESFRONT); these specialized corps are joint forces, made up of personnel from all military branches in addition to civilian personnel; these forces may also assist in overall citizen security working together with the National Police, which is under the Ministry of Interior<br>
 
 **Military expenditures**<br>
-0.4% of GDP (2023 est.)<br>
+0.6% of GDP (2023 est.)<br>
 0.7% of GDP (2022 est.)<br>
 0.7% of GDP (2021 est.)<br>
 0.8% of GDP (2020 est.)<br>

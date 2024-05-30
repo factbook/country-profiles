@@ -715,13 +715,13 @@ the Portuguese military is an all-volunteer force with the primary responsibilit
 ## Space
 
 **Space agency/agencies**<br>
-Portugal Space (aka Portuguese Space Agency or Ag&ecirc;ncia Espacial Portuguesa; established 2019); Foundation for Science and Technology (FCT; government agency that funds space research established in 2009) (2023)<br>
+Portuguese Space Agency (Ag&ecirc;ncia Espacial Portuguesa; aka Portugal Space; established 2019); Foundation for Science and Technology (FCT; government agency that funds space research established in 2009) (2024)<br>
 
 **Space launch site(s)**<br>
-in 2019, announced intentions to build a commercial space port on Santa Maria Island in the Azores (2023)<br>
+developing a commercial space port on Santa Maria Island in the Azores (first anticipated launch, 2025) (2024)<br>
 
 **Space program overview**<br>
-has a national space program which is is integrated within the framework of the European Space Agency (ESA); builds and operates satellites; researches and develops a range of space-related technologies with an emphasis on small/micro/nano satellites for remote sensing (RS), navigation, science/technology, and telecommunications, as well as satellite launch services; in addition to the ESA/EU and their member states, cooperates with the space agencies and industries of a variety of countries, including those of Algeria, Brazil, China, India, Japan, Morocco, South Korea, and the US, as well as such international organizations and projects as the Europe South Observatory (ESO) and the Square Kilometer Array (SKA) Observatory project; Portugal Space acts as a business and development unit for universities, research entities and companies (2023)<br>
+has a national space program which is is integrated within the framework of the European Space Agency (ESA); builds and operates satellites; researches and develops a range of space-related technologies with an emphasis on small/micro/nano satellites for remote sensing (RS), navigational, science/technology, and telecommunications, as well as satellite launch services; in addition to the ESA/EU and their member states, cooperates with the space agencies and industries of a variety of countries, including those of Algeria, Angola, Brazil, China, India, Japan, Morocco, South Korea, and the US, as well as such international organizations and projects as the Europe South Observatory (ESO) and the Square Kilometer Array (SKA) Observatory project; one of the objectives of the country's national space strategy (Portugal Space 2030) is to increase the annual outcome of space related activities in the country to about $500 million by 2030 (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

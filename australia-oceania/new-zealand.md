@@ -608,11 +608,11 @@ _Total energy consumption per capita 2019_: 186.804 million Btu/person (2019 est
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 757,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 15 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5.846 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 114 (2021 est.)<br>
+_total subscriptions_: 5.947 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 115 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>the growth areas in in New Zealand’s telecom market have been in mobile broadband and fiber; New Zealand’s mobile market continues to undergo significant developments; the coverage of LTE networks has been supported by the Rural Broadband Initiative rollout, which added a significant number of mobile sites to new or underserved areas; the market is undergoing additional consolidation; offering fixed and mobile services</p> (2023)<br>
@@ -682,11 +682,11 @@ New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Roya
 <strong>note: </strong>the New Zealand Police, under the Minister of Police, are responsible for internal security<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2022 est.)<br>
+1.3% of GDP (2023)<br>
+1.3% of GDP (2022)<br>
 1.3% of GDP (2021)<br>
 1.5% of GDP (2020)<br>
 1.4% of GDP (2019)<br>
-1.2% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12,200 active-duty troops including active reservists (6,600 Army; 2,800 Navy; 2,800 Air Force) (2023)<br>

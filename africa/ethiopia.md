@@ -393,8 +393,7 @@ _chancery_: 3506 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 364-1200<br>
 _FAX_: [1] (202) 587-0195<br>
 _email address and website_: <br>ethiopia@ethiopianembassy.org<br><br>https://ethiopianembassy.org/<br>
-_consulate(s) general_: Los Angeles<br>
-_consulate(s)_: New York<br>
+_consulate(s) general_: Los Angeles, St. Paul (MN)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Ervin MASSINGA (since 4 October 2023)<br>

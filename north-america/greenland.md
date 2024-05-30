@@ -5,7 +5,7 @@ _North America / Dependencies (Denmark)_
 ## Introduction
 
 **Background**<br>
-Greenland, the world's largest island, is about 80% ice-capped. Vikings reached the island in the 10th century from Iceland; Danish colonization began in the 18th century, and Greenland became part of the Danish Realm in 1953. It joined the European Community (now the EU) with Denmark in 1973 but withdrew in 1985 over a dispute centered on stringent fishing quotas. Greenland remains a member of the EU's Overseas Countries and Territories Association. The Danish parliament granted Greenland self-government in 1979; the law went into effect the following year. Greenland voted in favor of increased self-rule in 2008 and acquired greater responsibility for internal affairs when the Act on Greenland Self-Government was signed into law in 2009. Denmark, however, continues to exercise control over several policy areas on behalf of Greenland, including foreign affairs, security, and financial policy, in consultation with Greenland's Self-Rule Government.<br>
+Greenland, the world's largest island, is about 80% ice capped. The Inuit came to Greenland from North America in a series of migrations that stretched from 2500 BC to the11th century.&nbsp; Vikings reached the island in the 10th century from Iceland; Danish colonization began in the 18th century, and Greenland became part of the Kingdom of Denmark in 1953. It joined the European Community (now the EU) with Denmark in 1973 but withdrew in 1985 over a dispute centered on stringent fishing quotas. Greenland remains a member of the EU's Overseas Countries and Territories Association. The Danish parliament granted Greenland home rule in 1979; the law went into effect the following year. Greenland voted in favor of self-government in 2008 and acquired greater responsibility for internal affairs when the Act on Greenland Self-Government was signed into law in 2009. The Kingdom of Denmark, however, continues to exercise control over several policy areas on behalf of Greenland, including foreign affairs, security, and financial policy, in consultation with Greenland's Self-Rule Government.<br>
 
 ## Geography
 
@@ -296,10 +296,10 @@ Democrats Party (Demokraatit) or D [Jens Frederik NIELSEN]<br>Fellowship Party (
 Arctic Council, ICC, NC, NIB, UPU<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Kenneth HOEGH, Head of Representation; note - Greenland also has offices in the Danish consulates in Chicago and New York<br>
+_chief of mission_: Kenneth H&Oslash;EGH, Head of Representation; note - Greenland also has offices in the Danish consulates in Chicago and New York<br>
 _chancery_: 3200 Whitehaven Street, NW<br>Washington, DC  20008<br>
 _telephone_: [1] (202) 234-4300<br>
-_FAX_: +1 (202) 328-1470<br>
+_FAX_: [1] (202) 328-1470<br>
 _email address and website_: <br>washington@nanoq.gl<br><br>All Greenlandic Representations | GrÃ¸nlands ReprÃ¦sentation (grl-rep.dk); <br>https://naalakkersuisut.gl/en/Naalakkersuisut/Groenlands-repraesentation-Washington<br>
 
 **Diplomatic representation from the US**<br>

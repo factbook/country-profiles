@@ -357,6 +357,7 @@ _chancery_: 2034 20th Street NW, Suite 200, Washington, DC 20009<br>
 _telephone_: [1] (202) 797-1000<br>
 _FAX_: [1] (301) 332-0668<br>
 _email address and website_: <br>info@gaboneembassyusa.org<br><br>https://gabonembassyusa.org/en/<br>
+_consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Vernelle Trim FITZPATRICK (since 26 January 2024); note - also accredited to Sao Tome and Principe<br>

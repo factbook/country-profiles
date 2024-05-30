@@ -349,7 +349,7 @@ _election results_: <br><em>2019: </em>Zoran MILANOVIC elected president in seco
 **Legislative branch**<br>
 _description_: unicameral Assembly or Hrvatski Sabor (151 seats; 140 members in 10 multi-seat constituencies and 3 members in a single constituency for Croatian diaspora directly elected by proportional representation vote using the D'Hondt method with a 5% threshold; an additional 8 members elected from a nationwide constituency by simple majority by voters belonging to minorities recognized by Croatia; the Serb minority elects 3 Assembly members, the Hungarian and Italian minorities elect 1 each, the Czech and Slovak minorities elect 1 jointly, and all other minorities elect 2; all members serve 4-year terms<br>
 _elections_: last election held on 17 April 2024 (next to be held by April 2028)<br>
-_election results_: percent of vote by party/coalition - HDZ-led coalition 40.4%, SDP 27.8%, DP 9.3%, MOST 7.3%, We Can! 6.6%, SDSS 2.0%, Independents 1.3%, NPS 1.3%, IDS 1.3%, Bosniaks Together 0.7%, DZMH 0.7%, Focus 0.7%, SRRH 0.7%; seats by party/coalition - HDZ-led coalition 61, SDP 42, DP 14, MOST 11, We Can! 10, SDSS 3, Independents 2, NPS 2, IDS 2, Bosniaks Together 1, DZMH 1, Focus 1, SRRH 1; composition - N/A<br>
+_election results_: percent of vote by party/coalition - HDZ-led coalition 40.4%, SDP 27.8%, DP 9.3%, MOST 7.3%, We Can! 6.6%, SDSS 2.0%, Independents 1.3%, NPS 1.3%, IDS 1.3%, Bosniaks Together 0.7%, DZMH 0.7%, Focus 0.7%, SRRH 0.7%; seats by party/coalition - HDZ-led coalition 61, SDP 42, DP 14, MOST 11, We Can! 10, SDSS 3, Independents 2, NPS 2, IDS 2, Bosniaks Together 1, DZMH 1, Focus 1, SRRH 1; composition - men 101, women 50, percent of women 33%<br>
 <strong>note:</strong> on 14 March 2024, the Assembly voted unanimously to dissolve, prompting the April 2024 snap election<br>
 
 **Judicial branch**<br>
@@ -364,13 +364,13 @@ Bosniaks Together<br>The Bridge or MOST [Bozo PETROV] (formerly the Bridge of In
 AIIB, Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FAO, G-11, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM (observer), NATO, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Pjer SIMUNOVIC (since 8 September 2017)<br>
+_chief of mission_: <br>Ambassador Pjer ŠIMUNOVIĆ (since 8 September 2017)<br>
 _chancery_: 2343 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 588-5899<br>
 _FAX_: [1] (202) 588-8937<br>
 _email address and website_: <br>washington@mvep.hr<br><br>https://mvep.gov.hr/embassy-114969/114969<br>
-_consulate(s) general_: Chicago, Los Angeles, New York, Seattle (WA), Washington, DC<br>
-_consulate(s)_: Anchorage (AL), Houston, Kansas City (MO), New Orleans, Pittsburgh (PA)<br>
+_consulate(s) general_: Chicago, Los Angeles, New York, Seattle (WA)<br>
+_consulate(s)_: Anchorage (AL), Houston, Kansas City (MO),Minneapolis/St. Paul (MN), New Orleans, Pittsburgh (PA)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Nathalie RAYES (since 25 January 2024)<br>

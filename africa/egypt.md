@@ -378,7 +378,7 @@ _chief of mission_: Ambassador Motaz Mounir ZAHRAN (since 17 September 2020)<br>
 _chancery_: 3521 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 895-5400<br>
 _FAX_: (202) 244-4319<br>
-_email address and website_: <br>consulate@egyptembassy.net<br><br>https://www.egyptembassy.net/<br>
+_email address and website_: <br>embassy@egyptembassy.net<br><br>https://www.egyptembassy.net/<br>
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>

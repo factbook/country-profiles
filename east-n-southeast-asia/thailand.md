@@ -718,11 +718,11 @@ Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Th
 <strong>note 1:</strong> the Thai Internal Security Operations Command (ISOC) oversees counter-insurgency operations, as well as countering terrorism, narcotics and weapons trafficking, and other internal security duties; it is primarily run by the Army<br><br><strong>note 2:</strong> official paramilitary forces in Thailand include the Thai Rangers (Thahan Phran or "Hunter Soldiers") under the Army; the Paramilitary Marines under the Navy; the Border Patrol Police (BPP) under the Royal Thai Police; the Volunteer Defense Corps (VDC or <em>O So</em>) and National Defense Volunteers (NDV), both under the Ministry of Interior; there are also several government-backed volunteer militias created to provide village security against insurgents in the Deep South or to assist the ISOC<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2023 est.)<br>
 1.3% of GDP (2022 est.)<br>
-1.3% of GDP (2021)<br>
-1.4% of GDP (2020)<br>
-1.3% of GDP (2019)<br>
-1.3% of GDP (2018)<br>
+1.3% of GDP (2021 est.)<br>
+1.4% of GDP (2020 est.)<br>
+1.3% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 350,000 active-duty personnel (250,000 Army; 70,000 Navy; 30,000 Air Force); approximately 230,000 Royal Thai Police (2023)<br>
@@ -743,13 +743,13 @@ the RTARF’s missions include defending the country’s territory and sovereign
 ## Space
 
 **Space agency/agencies**<br>
-Geo-Informatics and Space Technology Development Agency (GISTDA, under the Ministry of Science and Technology; created in 2000 from the Thailand Remote Sensing Center that was established in 1979); National Space Policy Committee (NSPC; advisory body to the prime minister) (2023)<br>
+Geo-Informatics and Space Technology Development Agency (GISTDA; created in 2000 from the Thailand Remote Sensing Center that was established in 1979; GISTDA is under the Ministry of Higher Education, Science, Research and Innovation); National Space Policy Committee (NSPC; advisory body to the prime minister) (2024)<br>
 
 **Space launch site(s)**<br>
-none, although as of 2023 the Thai Government was reviewing a proposal to build a spaceport (2023)<br>
+none; in 2023, announced intentions to build a spaceport with South Korean assistance (2024)<br>
 
 **Space program overview**<br>
-has an ambitious and growing space program focused on the acquisition and operation of satellites, as well as the development of related technologies; operates communications and remote sensing (RS) satellites; manufactures scientific/research/testing cube satellites and developing the capabilities to produce RS satellites (has historically built satellites with foreign assistance); cooperates with a range of foreign space agencies and industries, including those of other ASEAN countries, China, France, India, the Netherlands, Pakistan, Russia, South Korea, and the US; founding member of the China-led Asia-Pacific Space Cooperation Organization (APSCO); has a growing space industry, including Southeast Asia’s first dedicated satellite manufacturing facility, which opened in 2021 (2023)<br>
+has an ambitious and growing space program focused on the acquisition and operation of satellites and the development of related technologies; operates communications and remote sensing (RS) satellites; manufactures scientific/research/testing cube satellites and developing the capabilities to produce RS satellites (has historically built satellites with foreign assistance); cooperates with a range of foreign space agencies and industries, including those of other ASEAN countries, China, France, India, the Netherlands, Pakistan, Russia, South Korea, and the US; founding member of the China-led Asia-Pacific Space Cooperation Organization (APSCO); has a growing space industry, including Southeast Asia’s first dedicated satellite manufacturing facility, which opened in 2021 (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

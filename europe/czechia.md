@@ -357,7 +357,7 @@ Christian Democratic Union-Czechoslovak People's Party or KDU-CSL [Marian JURECK
 Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Miloslav STASEK (since 16 September 2022)<br>
+_chief of mission_: Ambassador Miloslav STA&Scaron;EK (since 16 September 2022)<br>
 _chancery_: 3900 Spring of Freedom Street NW, Washington, DC 20008-3803<br>
 _telephone_: [1] (202) 274-9100<br>
 _FAX_: [1] (202) 966-8540<br>

@@ -700,11 +700,11 @@ Sri Lanka Armed Forces: Sri Lanka Army (includes National Guard and the Voluntee
 <strong>note 1: </strong>the Civil Security Department, also known as the Civil Defense Force, is an auxiliary force administered by the Ministry of Defense<br><br><strong>note 2:</strong> the Sri Lanka Police includes the Special Task Force, a paramilitary unit responsible for counterterrorism and counterinsurgency operations; it coordinates internal security operations with the military<br>
 
 **Military expenditures**<br>
+1.6% of GDP (2023 est.)<br>
 1.7% of GDP (2022 est.)<br>
 1.9% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
 2% of GDP (2019 est.)<br>
-1.9% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 260,000 total personnel (200,000 Army; 30,000 Navy; 30,000 Air Force); approximately 11,000 Special Task Force personnel (2023)<br>
@@ -721,15 +721,6 @@ the military's inventory consists mostly of Chinese and Russian-origin equipment
 
 **Military - note**<br>
 the military is responsible for external defense and may be called upon to handle specifically delineated domestic security responsibilities that generally do not include arrest authority; it has sent small numbers of personnel on UN peacekeeping missions; from 1983 to 2009, it fought against the Liberation Tigers of Tamil Eelam (LTTE), a conflict that involved both guerrilla and conventional warfare, as well as acts of terrorism and human rights abuses, and cost the military nearly 30,000 killed; since the end of the war, a large portion of the Army reportedly remains deployed in the majority Tamil-populated northern and eastern provinces; the military over the past decade also has increased its role in a range of commercial sectors including agriculture, hotels, leisure, and restaurants <br><br>the Army did not downsize following the LTTE war and continues to have about 20 infantry divisions, plus several independent brigades and regiments; however, in 2023 the Sri Lankan Government announced that because of the country’s financial crisis, it would slash the size of the Army by up to half by 2030; the Navy has a frigate transferred from China in 2019 and several offshore patrol ships acquired from India and the US to patrol its territorial waters; it also has a large force of small in-shore patrol and fast attack boats, largely acquired to combat the LTTE; the Air Force is small and much of its inventory is aging; it has a handful of operational fighter aircraft and a few dozen attack and multi-role helicopters<br><br>Sri Lanka traditionally has had close security ties to India; India participated in the LTTE war in 1987-1991, losing over 1,000 soldiers; the Sri Lankan and Indian militaries continue to conduct exercises together, and India trains over 1,000 Sri Lankan soldiers per year; in recent years, Sri Lanka has increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training (2023)<br>
-
-## Space
-
-**Space agency/agencies**<br>
-Sri Lanka Aeronautics and Space Agency (SLASA; established 2019); Space Applications Division of the Arthur C. Clarke Institute for Modern Technologies (ACCIMT; created 1984) (2023)<br>
-
-**Space program overview**<br>
-has a small space program focused on acquiring satellites and conducting research and development in space-related technologies, such as electronics, telecommunications, information technology, and robotics; has cooperated with the space agencies or industries of China, France, India, Japan, and the US (2023)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism
 

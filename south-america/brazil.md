@@ -366,7 +366,7 @@ _election results_: <br><em>2022: </em>Luiz Inácio LULA da Silva elected presid
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congresso Nacional consists of:<br>Federal Senate or Senado Federal (81 seats; 3 members each from 26 states and 3 from the federal district directly elected in multi-seat constituencies by simple majority vote to serve 8-year terms, with one-third and two-thirds of the membership elected alternately every 4 years)<br><br>Chamber of Deputies or Camara dos Deputados (513 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 4-year terms)<br>
 _elections_: Federal Senate - last held on 2 October 2022 for one-third of the Senate (next to be held on 4 October 2026 for two-thirds of the seats)<br>Chamber of Deputies - last held on 2 October 2022 (next to be held on 4 October 2026)<br>
-_election results_: Federal Senate - percent of vote by party - PL 25.4%, PSB 13.7%, PT 12.1%, PSD 11.4%, Progressistas 7.6%, Brazil Union 5.5%, PSC 4.3%, Republicans 4.3%, MDB 3.9%, other 11.8%; seats by party - PL 8, Brazil Union 5, PT 4, PP 3, Republicans 2, PSD 2, MDB 1, PSB 1, PSC 1; <br>note - composition of the Federal Senate as of March 2024 - seats by party - PL 13, Brazil Union 12, MDB 10, PSD 10, PT 9, Progressistas 7, Podemos 6, PSDB 4, Republicans 3, PDT 2, Cidadania 1, PSB 1, PSC 1, PROS 1, REDE 1; composition - men 67, women 14, percentage women 17.3%  <br><br>Chamber of Deputies - percent of vote by party - PL 16.6%, PT 12.1%, Brazil Union 9.3%, PP 8%, PSD 7.6%, MDB 7.2%, Republicans 7%, PSB 3.8%, PDT 3.5%, PSOL 3.5%, Podemos 3.3%, PSDB 3%, Avante 2%, PSC 1.8%, SD 1.6%, Cidadania 1.5%, Patriota 1.4%, PTB 1.3%, NOVO 1.2%, PCdoB 1.1%, PV 0.9%, PROS 0.7%, REDE 0.7%, other 0.9%; seats by party - PL 99, PT 69, Brazil Union 59, PP 47, MDB 42, PSD 42, Republicans 40, PDT 17, PSB 14, PSDB 13, Podemos 12, PSOL 12, Avante 7, PCdoB 6, PSC 6, PV 6, Cidadania 5, Patriota 4, SD 4, NOVO 3, PROS 3, REDE 2, PTB 1; composition - men 423, women 90, percentage women 17.5%; total National Congress percentage women 17.5%<br>
+_election results_: Federal Senate - percent of vote by party - PL 25.4%, PSB 13.7%, PT 12.1%, PSD 11.4%, Progressistas 7.6%, Brazil Union 5.5%, PSC 4.3%, Republicans 4.3%, MDB 3.9%, other 11.8%; seats by party - PL 8, Brazil Union 5, PT 4, PP 3, Republicans 2, PSD 2, MDB 1, PSB 1, PSC 1<br>note - composition of the Federal Senate as of March 2024 - seats by party - PL 13, Brazil Union 12, MDB 10, PSD 10, PT 9, Progressistas 7, Podemos 6, PSDB 4, Republicans 3, PDT 2, Cidadania 1, PSB 1, PSC 1, PROS 1, REDE 1; composition - men 67, women 14, percentage women 17.3%  <br><br>Chamber of Deputies - percent of vote by party - PL 16.6%, PT 12.1%, Brazil Union 9.3%, PP 8%, PSD 7.6%, MDB 7.2%, Republicans 7%, PSB 3.8%, PDT 3.5%, PSOL 3.5%, Podemos 3.3%, PSDB 3%, Avante 2%, PSC 1.8%, SD 1.6%, Cidadania 1.5%, Patriota 1.4%, PTB 1.3%, NOVO 1.2%, PCdoB 1.1%, PV 0.9%, PROS 0.7%, REDE 0.7%, other 0.9%; seats by party - PL 99, PT 69, Brazil Union 59, PP 47, MDB 42, PSD 42, Republicans 40, PDT 17, PSB 14, PSDB 13, Podemos 12, PSOL 12, Avante 7, PCdoB 6, PSC 6, PV 6, Cidadania 5, Patriota 4, SD 4, NOVO 3, PROS 3, REDE 2, PTB 1; composition - men 423, women 90, percentage women 17.5%; total National Congress percentage women 17.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Federal Court or Supremo Tribunal Federal (consists of 11 justices)<br>
@@ -384,8 +384,8 @@ _chief of mission_: Ambassador Maria Luiza Ribeiro VIOTTI (since 30 June 2023)<b
 _chancery_: 3006 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 238-2700<br>
 _FAX_: [1] (202) 238-2827<br>
-_email address and website_: <br>ambassador.dc@itamaraty.gov.br<br><br>https://www.gov.br/mre/pt-br/embaixada-washington<br>
-_consulate(s) general_: Atlanta, Boston, Chicago, Hartford (CT), Houston, Los Angeles, Miami, New York, San Francisco, Washington, DC<br>
+_email address and website_: <br>contact.washington@itamaraty.gov.br <br><br>https://www.gov.br/mre/pt-br/embaixada-washington<br>
+_consulate(s) general_: Atlanta, Boston, Chicago, Hartford (CT), Houston, Los Angeles, Miami, New York, Orlando, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Elizabeth Frawley BAGLEY (since 5 February 2023)<br>
@@ -738,11 +738,11 @@ Brazilian Armed Forces (Forças Armadas Brasileiras): Brazilian Army (Exercito B
 <strong>note:</strong> Brazil's Federal Police are under the Minister of Justice and Public Security<br>
 
 **Military expenditures**<br>
+1.1% of GDP (2023 est.)<br>
 1.2% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
 1.4% of GDP (2019 est.)<br>
-1.5% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 360,000 active military personnel (220,000 Army; 70,000 Navy; 70,000 Air Force); approximately 400,000 paramilitary security forces (2023)<br>

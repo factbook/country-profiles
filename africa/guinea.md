@@ -372,11 +372,12 @@ African Congress for Democracy and Renewal or CADRE [Daniel KOLIE]<br>Alliance f
 ACP, AfDB, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Fatoumata KABA (since 19 April 2023)  <p> </p><br>
+_chief of mission_: Ambassador Fatoumata KABA (since 19 April 2023)<br>
 _chancery_: 2112 Leroy Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 986-4300<br>
 _FAX_: [1] (202) 986-3800<br>
 _email address and website_: <br>http://guineaembassyusa.org/en/welcome-to-the-embassy-of-guinea-washington-usa/<br>
+_consulate(s)_: Los Angelos<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Troy Damian FITRELL (since January 2022)<br>

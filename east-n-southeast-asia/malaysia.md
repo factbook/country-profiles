@@ -696,11 +696,11 @@ Malaysian Armed Forces (Angkatan Tentera Malaysia, ATM): Malaysian Army (Tentera
 <strong>note 1: </strong>the Royal Malaysia Police (RMP or Polis Diraja Malaysia, PDRM) are under the Ministry of Home Affairs; the PRMD includes the General Operations Force, a paramilitary force with a variety of roles, including patrolling borders, counter-terrorism, maritime security, and counterinsurgency; the Ministry of Home Affairs also includes the Malaysian Maritime Enforcement Agency (MMEA; aka Malaysian Coast Guard)<br><strong><br>note 2:</strong> Malaysia created a National Special Operations Force in 2016 for combating terrorism threats; the force is comprised of personnel from the ATM, the PRMD, and the MMEA<br>
 
 **Military expenditures**<br>
+0.9% of GDP (2023 est.)<br>
 1.1% of GDP (2022 est.)<br>
-1% of GDP (2021)<br>
-1.1% of GDP (2020)<br>
-1% of GDP (2019)<br>
-1% of GDP (2018)<br>
+1% of GDP (2021 est.)<br>
+1.1% of GDP (2020 est.)<br>
+1% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 110,000 active-duty troops (80,000 Army; 15,000 Navy; 15,000 Air Force) (2023)<br>

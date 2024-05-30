@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Once the seat of Viking raiders and later a major north European power, Denmark has evolved into a modern, prosperous nation that is part of the general political and economic integration of Europe. It joined NATO in 1949 and the EEC (now the EU) in 1973. However, the country has opted out of certain elements of the EU's Maastricht Treaty, including the European Economic and Monetary Union and justice and home affairs issues.</p><br>
+<p>Once the seat of Viking raiders and later a major north European power, Denmark has evolved into a modern, prosperous nation that is part of the general political and economic integration of Europe. It joined NATO in 1949 and the EEC (now the EU) in 1973. The country has opted out of certain elements of the EU's Maastricht Treaty, including the European Economic and Monetary Union and justice and home affairs issues. a 2022 referendum resulted in the removal of Denmark's 30-year opt-out on defense issues, now allowing Denmark to participate fully in the EU's Common Security and Defense Policy.</p><br>
 
 ## Geography
 

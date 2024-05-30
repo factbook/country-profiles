@@ -673,11 +673,11 @@ Nepalese Armed Forces (Ministry of Defense): Nepali Army (includes Air Wing)<br>
 <strong>note: </strong>the Nepal Police are responsible for enforcing law and order across the country; the Armed Police Force is responsible for combating terrorism, providing security during riots and public disturbances, assisting in natural disasters, and protecting vital infrastructure, public officials, and the borders; it also conducts counterinsurgency and counterterrorism operations and would assist the Army in the event of an external invasion<br>
 
 **Military expenditures**<br>
+1% of GDP (2023 est.)<br>
 1.1% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
 1.3% of GDP (2020 est.)<br>
-2.1% of GDP (2019)<br>
-2.3% of GDP (2018)<br>
+1.6% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 95,000 active troops (including a small air wing of about 500 personnel) (2023)<br>

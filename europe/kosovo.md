@@ -580,11 +580,11 @@ Kosovo Security Force (KSF; Forca e Sigurisë së Kosovës or FSK): Land Force, 
 <strong>note:</strong> the Kosovo Police are under the Ministry of Internal Affairs<br>
 
 **Military expenditures**<br>
-2% of GDP (2022 est.)<br>
-2% of GDP (2021 est.)<br>
-1.1% of GDP (2020 est.)<br>
+1.3% of GDP (2023 est.)<br>
+1.1% of GDP (2022 est.)<br>
+1.1% of GDP (2021 est.)<br>
+1% of GDP (2020 est.)<br>
 0.8% of GDP (2019 est.)<br>
-0.8% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 3,300 KSF personnel, including about 800 reserves (2023)<br>

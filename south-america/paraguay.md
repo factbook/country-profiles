@@ -702,11 +702,11 @@ Armed Forces of Paraguay (Fuerzas Armadas de Paraguay; aka Armed Forces of the N
 <strong>note: </strong>Paraguay also has a National Counterdrug Bureau (Secretaria Nacional Antidrogas or SENAD) that operates under the presidency<br>
 
 **Military expenditures**<br>
+0.8% of GDP (2023 est.)<br>
 0.8% of GDP (2022 est.)<br>
 1% of GDP (2021 est.)<br>
 1% of GDP (2020 est.)<br>
 1% of GDP (2019 est.)<br>
-1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 20,000 active-duty personnel (13,500 Army; 4,000 Navy; 2,500 Air Force) (2023)<br>

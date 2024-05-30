@@ -697,8 +697,8 @@ Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Republic o
 <strong>note 1: </strong>in January 2022, the South Korean military announced the formation of a space branch under its Joint Chiefs of Staff to coordinate the development of space and space-enabled capabilities across the Army, Navy and Air Force<br><br><strong>note 2:</strong> the military reserves include Mobilization Reserve Forces (First Combat Forces) and Homeland Defense Forces (Regional Combat Forces)<br>
 
 **Military expenditures**<br>
-2.6% of GDP (2023)<br>
-2.6% of GDP (2022 est.)<br>
+2.7% of GDP (2023 est.)<br>
+2.6% of GDP (2022)<br>
 2.6% of GDP (2021)<br>
 2.6% of GDP (2020)<br>
 2.7% of GDP (2019)<br>
@@ -722,14 +722,14 @@ the South Korean military is primarily focused on the threat from North Korea bu
 ## Space
 
 **Space agency/agencies**<br>
-Korea Aerospace Research Institute (KARI; established 1989); Korea Advanced Institute of Science and Technology (KAIST); Korean Astronomy and Space Science Institute (KASI; funded by the South Korean Government); established a military space branch in 2022  (2023)<br>
-<strong>note:</strong> KARI works closely with the Agency for Defense Development (ADD), a national agency for research and development in defense technology established in 1970<br>
+Korea AeroSpace Administration (KASA; established 2024); Korea Aerospace Research Institute (KARI; established 1989 and previously acted as South Korea's space agency); Korea Advanced Institute of Science and Technology (KAIST); Korean Astronomy and Space Science Institute (KASI; funded by the South Korean Government) (2024)<br>
+<strong>note:</strong> the South Korean space program works closely with the Agency for Defense Development (ADD), a national agency for research and development in defense technology established in 1970<br>
 
 **Space launch site(s)**<br>
 Naro Space Center (South Jeolla province) (2024)<br>
 
 **Space program overview**<br>
-has a growing and ambitious space program focused on developing satellites, satellite/space launch vehicles (SLVs), and interplanetary probes; has a national space strategy; manufacturers and operates satellites, including those with communications, remote sensing (RS), scientific, and multipurpose capabilities; manufactures and launches SLVs; developing interplanetary space vehicles, including orbital probes and landers; participates in international space programs and has relations with an array of foreign space agencies and industries, including those of Australia, the European Space Agency (ESA) and its member states (particularly France, Germany, Italy, Spain, UK), India, Israel, Japan, Peru, Russia, UAE, and especially the US; has a robust and growing commercial space industry that works closely with KARI in the development of satellites and space launch capabilities; the South Korean Government has said it aims to capture 10% of the global space market by 2045 (2024)<br>
+has a growing and ambitious space program focused on developing satellites, satellite/space launch vehicles (SLVs), and interplanetary probes; has a national space strategy; manufacturers and operates satellites, including those with communications, remote sensing (RS), scientific, and multipurpose capabilities; manufactures and launches SLVs; developing interplanetary space vehicles, including orbital probes and landers; participates in international space programs and has relations with an array of foreign space agencies and industries, including those of Australia, the European Space Agency (ESA) and its member states (particularly France, Germany, Italy, Spain, UK), India, Israel, Japan, Peru, Russia, UAE, and especially the US; has a robust and growing commercial space industry that works closely with government space program in the development of satellites and space launch capabilities; the South Korean Government has said it aims to capture 10% of the global space market by 2045 (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

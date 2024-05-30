@@ -358,7 +358,7 @@ _election results_: <em>2022:</em> Aleksandar VUCIC reelected in first round; pe
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Narodna Skupstina (250 seats; members directly elected by party list proportional representation vote in a single nationwide constituency to serve 4-year terms)<br>
 _elections_: last held on 17 December 2023 (next to be held in 2027)<br>
-_election results_: percent of vote by party/coalition - Serbia Must Stop 48%, SPN 24.4%, SPS-JS-ZS 6.7%, NADA 5.2%, MI-GIN 4.8%, Alliance of Vojvodina Hungarians 1.7%, SPP-DSHV 0.8%, SDAS 0.6%, Political Battle of the Albanians Continues 0.4%, RS-NKPJ 0.3%, other 7.1%; seats by party/coalition - Serbia Must Stop 128, SPN 65, SPS-JS-ZS 18, NADA 13, MI-GIN 13, Alliance of Vojvodina Hungarians 6, SPP-DSHV 3, SDAS 2, Political Battle of the Albanians Continues 1, RS-NKPJ 1; composition - men 155, women 95; percentage women 38%<br>
+_election results_: percent of vote by party/coalition - Serbia Must Stop 48%, SPN 24.4%, SPS-JS-ZS 6.7%, NADA 5.2%, MI-GIN 4.8%, Alliance of Vojvodina Hungarians 1.7%, SPP-DSHV 0.8%, SDAS 0.6%, Political Battle of the Albanians Continues 0.4%, RS-NKPJ 0.3%, other 7.1%; seats by party/coalition - Serbia Must Stop 128, SPN 65, SPS-JS-ZS 18, NADA 13, MI-GIN 13, Alliance of Vojvodina Hungarians 6, SPP-DSHV 3, SDAS 2, Political Battle of the Albanians Continues 1, RS-NKPJ 1; composition - men 155, women 95; percentage of women 38%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Cassation (consists of 36 judges, including the court president); Constitutional Court (consists of 15 judges, including the court president and vice president)<br>

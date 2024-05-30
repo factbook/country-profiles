@@ -362,11 +362,11 @@ Alliance for Patriotic Reorientation and Construction or APRC [Fabakary JATTA]<b
 ACP, AfDB, AU, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNISFA, UNMIL, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Momodou Lamin BAH (12 December 2022)<br><br>
+_chief of mission_: Ambassador Momodou Lamin BAH (12 December 2022)<br>
 _chancery_: 5630 16th Street NW, Washington, DC 20011<br>
-_telephone_: [1] (202) 785-1399; [1] (202) 785-1428<br>
+_telephone_: [1] (202) 785-1399<br>
 _FAX_: [1] (202) 785-1430<br>
-_email address and website_: <br>info@gambiaembassydc.us; <br>gambiaembassydc@gmail.com<br><br>https://www.gambiaembassydc.us/home<br>
+_email address and website_: <br>info@gambiaembassydc.us<br><br>https://www.gambiaembassydc.us/home<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Sharon L. CROMER (since 18 March 2022)<br>

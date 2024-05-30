@@ -707,7 +707,7 @@ Bolivian Armed Forces (Fuerzas Armadas de Bolivia or FAB): Bolivian Army (Ejerci
 <strong>note:</strong> the PNB includes two paramilitary forces, the Anti-Narcotics Special Forces (Fuerza Especial de Lucha Contra el Narcotráfico, FELCN) and the Anti-Terrorist Group (GAT); the PNB is part of the reserves for the Armed Forces; the police and military share responsibility for border enforcement<br>
 
 **Military expenditures**<br>
-1.04% of GDP (2023 est.)<br>
+1.2% of GDP (2023 est.)<br>
 1.3% of GDP (2022 est.)<br>
 1.4% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>

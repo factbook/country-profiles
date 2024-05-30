@@ -358,9 +358,9 @@ _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Viviana Raquel
 _chancery_: 2220 R Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 745-4953<br>
 _FAX_: [1] (202) 745-1908<br>
-_email address and website_: <br>infoembaguateeuu@minex.gob.gt<br><br>https://estadosunidos.minex.gob.gt/home/home.aspx<br>
-_consulate(s) general_: Atlanta, Chicago, Del Rio (TX), Denver, Houston, Los Angeles, McAllen (TX), Miami, New York, Oklahoma City, Philadelphia, Phoenix, Providence (RI), Raleigh (NC), San Bernardino (CA), San Francisco, Seattle<br>
-_consulate(s)_: Lake Worth (FL), Silver Spring (MD), Tucson (AZ)<br>
+_email address and website_: <br>embestadosunidos@minex.gob.gt<br><br>https://estadosunidos.minex.gob.gt/home/home.aspx<br>
+_consulate(s) general_: Atlanta, Chicago, Columbus (OH), Denver, Houston, Los Angeles, Miami, Nashville (TN), New York, Oklahoma City, Omaha (NE), Philadelphia, Phoenix, Providence (RI), Raleigh (NC), Rockville (MD), San Francisco, Seattle<br>
+_consulate(s)_: Dallas, Del Rio (TX), Lake Worth (FL), McAllen (TX), Riverhead (NY), San Bernardino (CA), Tucson (AZ)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Tobin BRADLEY (since 12 February 2024)<br>
@@ -702,11 +702,11 @@ Army of Guatemala (Ejercito de Guatemala; aka Armed Forces of Guatemala or Fuerz
 <strong>note:</strong> the National Civil Police (Policia Nacional Civil or PNC) are under the Ministry of Government (Interior)<br>
 
 **Military expenditures**<br>
-0.5% of GDP (2022 est.)<br>
+0.4% of GDP (2023 est.)<br>
+0.4% of GDP (2022 est.)<br>
 0.4% of GDP (2021 est.)<br>
 0.4% of GDP (2020 est.)<br>
 0.4% of GDP (2019 est.)<br>
-0.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 20,000 active military personnel (18,000 Land Forces; 1,000 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2023)<br>

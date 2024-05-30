@@ -677,11 +677,11 @@ Singapore Armed Forces (SAF; aka Singapore Defense Force): Singapore Army, Repub
 <strong>note 1: </strong>the Digital and Intelligence Service (DIS) was stood up as the fourth SAF service in October of 2022<strong><br><br>note 2:</strong> the Gurkha Contingent of the Singapore Police Force (GCSPF) is a paramilitary unit for riot control and acts as a rapid reaction force <strong><br></strong><br><strong>note 3:</strong> in 2009, Singapore established a multi-agency national Maritime Security Task Force (MSTF) to work with law enforcement and maritime agencies to guard Singapore’s waters, including conducting daily patrols, as well as boarding and escort operations in the Singapore Strait; the MSTF is subordinate to the Singapore Navy<br>
 
 **Military expenditures**<br>
+2.8% of GDP (2023 est.)<br>
 3% of GDP (2022 est.)<br>
 3% of GDP (2021 est.)<br>
 3% of GDP (2020)<br>
 2.9% of GDP (2019)<br>
-2.9% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 60,000 active-duty troops (45,000 Army; 7,000 Navy; 8,000 Air Force) (2023)<br>

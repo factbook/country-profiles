@@ -697,7 +697,7 @@ the RDF's inventory includes mostly Soviet-era and older Western--largely French
 note: as of 2022, women comprised approximately 6% of the Rwanda Defense Force<br>
 
 **Military deployments**<br>
-approximately 2,200 Central African Republic (MINUSCA; plus about 700 police); up to 3,000 Mozambique (deployed mid-2021 under a bilateral agreement to assist with combating an insurgency; includes both military and police forces); 2,600 (plus about 450 police) South Sudan (UNMISS) (2024)<br>
+approximately 2,200 Central African Republic (MINUSCA; plus about 700 police); approximately 2,500 Mozambique (deployed mid-2021 under a bilateral agreement to assist with combating an insurgency; includes both military and police forces); 2,600 (plus about 450 police) South Sudan (UNMISS) (2024)<br>
 <strong>note:</strong> in December 2020, Rwanda sent an additional 1,200 to the Central African Republic under a bilateral agreement to support and train Central African Republic military forces, but their status as of 2024 was unclear)<br>
 
 **Military - note**<br>
@@ -706,10 +706,10 @@ approximately 2,200 Central African Republic (MINUSCA; plus about 700 police); u
 ## Space
 
 **Space agency/agencies**<br>
-Rwanda Space Agency (RSA; established 2020 and approved by legislature in 2021)&nbsp; (2023)<br>
+Rwanda Space Agency (L&rsquo;Agence Spatiale Rwandaise; RSA; established 2020 and approved by legislature in 2021) (2024)<br>
 
 **Space program overview**<br>
-has a small program focused on developing and utilizing space technologies, such as satellite imagery for socioeconomic development and security purposes; operates communications and remote sensing (RS) satellites; the RSA is responsible for regulating and coordinating the country’s space activities and encouraging commercial and industrial development; has established ties with the space agencies or industries of several countries, including France, Israel, Japan, the UAE, and the US (2023)<br>
+has a small program focused on developing and utilizing space technologies, such as satellite imagery for socioeconomic development and security purposes; operates communications and remote sensing (RS) satellites; the RSA is responsible for regulating and coordinating the country’s space activities and encouraging commercial and industrial development; has established ties with the space agencies or industries of several countries, including France, Israel, Japan, the UAE, and the US (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

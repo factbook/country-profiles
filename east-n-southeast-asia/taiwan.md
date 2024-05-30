@@ -265,7 +265,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President LAI Ching-te (since 19 May 2024)<br>
-_head of government_: Premier CHEN Chien-jen (President of the Executive Yuan) (since 31 January 2023); Vice Premier CHENG Wen-tsan (Vice President of the Executive Yuan) (since 31 January 2023)<br>
+_head of government_: Premier CHO Jung-tai (President of the Executive Yuan) (since 20 May 2024)<br>
 _cabinet_: Executive Yuan - ministers appointed by president on recommendation of premier<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 13 January 2024 (next to be held in 2028); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier<br>
 _election results_: <em><em>2023:</em></em> LAI Ching-te elected president; percent of vote<em><em> - </em></em>LAI Ching-te (DPP) 40.1%, HOU Yu-ih (KMT) 33.5%, KO Wen-je (TPP) 26.5%; note - LAI takes office on 20 May 2024<em><br><br>2020: </em>TSAI Ing-wen reelected president; percent of vote - TSAI Ing-wen (DPP) 57.1%, HAN Kuo-yu (KMT) 38.6%, James SOONG (PFP) 4.3%; note - TSAI is the first woman elected president of Taiwan<br><em><br><br></em><br>
@@ -621,13 +621,13 @@ the military’s primary responsibility is external security, including the defe
 ## Space
 
 **Space agency/agencies**<br>
-Taiwan Space Agency (TASA; renamed from the National Space Program Organization, which was renamed in 2005 from the National Space Program Office, established in 1991); TASA is subordinate to the National Science and Technology Council (2023)<br>
+Taiwan Space Agency (TASA; renamed and reorganized in 2023 from the former National Space Program Organization or NSPO, which was established in 1991) (2024)<br>
 
 **Space launch site(s)**<br>
-sounding rockets launched from Jui Peng Air Base (Pingtung); in 2021, announced intentions to build future rocket launch site (2023)<br>
+sounding rockets launched from Jui Peng Air Base (Pingtung); has announced intentions to build a future rocket launch site (2024)<br>
 
 **Space program overview**<br>
-space program focused on the acquisition of satellites and the development of independent space capabilities; manufactures and operates remote sensing (RS) and scientific/research satellites; manufactures and tests sounding rockets and small satellite launch vehicles (SLVs); researching and developing other space technologies, including communications satellites, small satellites, satellite payloads and ground station components, spacecraft components, optical RS and telecommunications, navigational control, and rocket propulsion systems; has bi-lateral relations with the space programs of India and the US but is blocked from participating in most international and regional space organizations due to political pressure from China; has a commercial space industry that provides components and expertise for TASA and is independently developing satellites and satellite launch vehicles (2023)<br>
+space program focused on the acquisition of satellites and the development of independent space capabilities, such as rocket manufacturing and satellite launch services; manufactures and operates remote sensing (RS) and scientific/research satellites; manufactures and tests sounding rockets; researching and developing other space technologies, including communications satellites, small satellites, satellite payloads and ground station components, spacecraft components, optical RS and telecommunications, navigational control, and rocket propulsion systems; has bi-lateral relations with the space programs of India and the US, but is blocked from participating in most international and regional space organizations due to political pressure from China; has a commercial space industry that provides components and expertise for TASA and is independently developing satellites and a small satellite launch vehicle (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

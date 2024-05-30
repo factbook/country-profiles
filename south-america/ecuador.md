@@ -367,11 +367,11 @@ CAN, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committee
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Maria Soledad PE&Ntilde;A PLAZA (since 9 February 2024)<br>
-_chancery_: 2535 15th Street NW, Washington, DC 20009<br><br>Contact – Washington (cancilleria.gob.ec)<br>
+_chancery_: 2535 15th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 234-7200<br>
 _FAX_: [1] (202) 333-2893<br>
-_email address and website_: <br>embassy@ecuador.org<br><br>http://www.ecuador.org/<br>
-_consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, Minneapolis, New Haven (CT), New York, Newark (NJ), Phoenix, San Francisco<br>
+_email address and website_: <br>eecuusanotifications@mmrree.gob.ec<br><br>Contact – Washington (cancilleria.gob.ec)<br>
+_consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, Minneapolis (MN), New Haven (CT), New York, Newark (NJ), Phoenix, San Juan (PR)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Michael J. FITZPATRICK (since 3 July 2019)<br>

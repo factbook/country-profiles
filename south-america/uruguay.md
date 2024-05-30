@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Montevideo, founded by the Spanish in 1726 as a military stronghold, soon became an important commercial center due to its natural harbor. Claimed by Argentina but annexed by Brazil in 1821, Uruguay declared its independence in 1825 and secured its freedom in 1828 after a three-year struggle. The administrations of President Jose BATLLE in the early 20th century launched widespread political, social, and economic reforms that established a statist tradition. A violent Marxist urban guerrilla movement named the Tupamaros (or Movimiento de Liberación Nacional-Tupamaros (MLN-T)), launched in the late 1960s, led Uruguay's president to cede control of the government to the military in 1973. By yearend, the rebels had been crushed, but the military continued to expand its hold over the government. Civilian rule was restored in 1985. In 2004, the left-of-center Frente Amplio (FA) Coalition won national elections that effectively ended 170 years of political control previously held by the Colorado and National (Blanco) parties. The left-of-center retained the presidency and control of both chambers of congress until 2019. Uruguay's political and labor conditions are among the freest on the continent.</p><br>
+<p>The Spanish founded the city of Montevideo in modern-day Uruguay in 1726 as a military stronghold, and it soon became an important commercial center due to its natural harbor. Argentina initially claimed Uruguay, but Brazil annexed the country in 1821. Uruguay declared its independence in 1825 and secured its freedom in 1828 after a three-year struggle. The administrations of President Jose BATLLE in the early 20th century launched widespread political, social, and economic reforms that established a statist tradition. A violent Marxist urban guerrilla movement named the Tupamaros (or Movimiento de Liberación Nacional-Tupamaros) launched in the late 1960s and pushed Uruguay's president to cede control of the government to the military in 1973. By year-end, the rebels had been crushed, but the military continued to expand its hold over the government. Civilian rule was restored in 1985. In 2004, the left-of-center Frente Amplio (FA) Coalition won national elections that effectively ended 170 years of political control by the Colorado and National (Blanco) parties. The left-of-center coalition retained the presidency and control of both chambers of congress until 2019. Uruguay's political and labor conditions are among the freest on the South American continent.</p><br>
 
 ## Geography
 
@@ -729,15 +729,6 @@ the military's inventory includes a wide variety of older or second-hand equipme
 
 **Military - note**<br>
 the armed forces are responsible for defense of the country’s independence, national sovereignty, and territorial integrity, as well as protecting strategic resources; it has some domestic responsibilities, including perimeter security for a number of prisons and border security and providing humanitarian/disaster assistance; in 2020, the military deployed more than 1,000 troops to assist the National Police in securing the land border with Brazil and the riverine border with Argentina as part of a border control law passed in 2018; Uruguay has traditionally held security ties with Argentina, Brazil, Peru, and the US<br><br>the Army has four regionally based divisions comprised of approximately eight small brigades of infantry and mechanized cavalry; the Navy includes the Coast Guard, a naval aviation command, and a small naval infantry force; the Navy in recent years has undertaken a modest program to modernize its aging fleet, decommissioning several ships, including its only frigates, and acquiring secondhand patrol vessels from the US Coast Guard; it is also attempting to acquire larger and more modern offshore patrol vessels; the Air Force has a single squadron of light ground attack aircraft (2023)<br>
-
-## Space
-
-**Space agency/agencies**<br>
-drafted a bill to establish a space agency to be named the Uruguayan Space Agency, 2022&nbsp; (2023)<br>
-
-**Space program overview**<br>
-nascent program; the bill to establish a space agency declared its purpose to be promoting the development of the space sector in Uruguay with emphasis on the economic and social development of its inhabitants (2023)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
 

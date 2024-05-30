@@ -385,7 +385,7 @@ _chancery_: 2300 S Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-3344<br>
 _FAX_: [1] (202) 332-4351<br>
 _email address and website_: <br>washington-embassy@mofa.gov.mm<br><br>https://www.mewashingtondc.org/<br>
-_consulate(s) general_: Los Angeles, New York<br>
+_consulate(s) general_: Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Susan STEVENSON (since 10 July 2023)<br>
@@ -717,9 +717,9 @@ Burmese Defense Service (aka Armed Forces of Burma, Myanmar Army, Royal Armed Fo
 <strong>note 1:</strong> under the 2008 constitution, the Tatmadaw controls appointments of senior officials to lead the Ministry of Defense, the Ministry of Border Affairs, and the Ministry of Home Affairs; in March 2022, a new law gave the commander-in-chief of the Tatmadaw the authority to appoint or remove the head of the police force<br><br><strong>note 2:</strong> the Burma Police Force is primarily responsible for internal security; the Border Guard Police is administratively part of the Burma Police Force but operationally distinct; both are under the Ministry of Home Affairs, which is led by an active-duty military general and itself subordinate to the military command<br>
 
 **Military expenditures**<br>
-3.4% of GDP (2023 est.)<br>
-3% of GDP (2022 est.)<br>
-3.3% of GDP (2021 est.)<br>
+3.9% of GDP (2023 est.)<br>
+3.6% of GDP (2022 est.)<br>
+3.5% of GDP (2021 est.)<br>
 3% of GDP (2020 est.)<br>
 4.1% of GDP (2019 est.)<br>
 

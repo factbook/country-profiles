@@ -370,13 +370,12 @@ Alternative Democratic Pole or PDA [Alexander LOPEZ Maya]<br>Citizens Option (Op
 BCIE, BIS, CABEI, CAN, Caricom (observer), CD, CDB, CELAC, EITI (candidate country), FAO, G-3, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Luis Gilberto MURILLO URRUTIA (since 16 September 2022)<br>
+_chief of mission_: Ambassador Luis Gilberto MURILLO Urrutia (since 16 September 2022)<br>
 _chancery_: 1724 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 387-8338<br>
 _FAX_: [1] (202) 232-8643<br>
 _email address and website_: <br>eestadosunidos@cancilleria.gov.co<br><br>https://www.colombiaemb.org/<br>
-_consulate(s) general_: Atlanta, Houston, Los Angeles, Miami, New York, Newark (NJ), Orlando, San Juan (Puerto Rico), Washington, DC<br>
-_consulate(s)_: Boston, Chicago, San Francisco<br>
+_consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, Newark (NJ), Orlando, San Francisco, San Juan (Puerto Rico)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Francisco L. PALMIERI (since 1 June 2022)<br>

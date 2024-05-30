@@ -377,7 +377,7 @@ _chancery_: 501 Pennsylvania Avenue NW, Washington, DC 20001<br>
 _telephone_: [1] (844) 880-6519<br>
 _FAX_: [1] (202) 682-7738<br>
 _email address and website_: <br>ccs.scc@international.gc.ca<br><br>https://www.international.gc.ca/country-pays/us-eu/washington.aspx?lang=eng<br>
-_consulate(s) general_: Atlanta, Boston, Chicago, Dallas, Denver, Detroit, Los Angeles, Miami, Minneapolis, New York, San Francisco/Silicon Valley, Seattle<br>
+_consulate(s) general_: Atlanta, Boston, Chicago, Dallas, Denver, Detroit, Los Angeles, Miami, Minneapolis, New York, San Francisco, Seattle<br>
 _trade office(s)_: Houston, Palo Alto (CA), San Diego; note - there are trade offices in the Consulates General<br>
 
 **Diplomatic representation from the US**<br>
@@ -648,11 +648,11 @@ _Total energy consumption per capita 2019_: 403.7 million Btu/person (2019 est.)
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 11.312 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 34 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 29 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 32.723 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 86 (2021 est.)<br>
+_total subscriptions_: 35.082 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 91 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the Canadian telecom market continues to show steady development as operators invest in network upgrades; much of the investment among telcos has been channeled into LTE infrastructure to capitalize on consumer demand for mobile data services, while there has also been further investment in 5G; investment programs have also been supported by regulatory efforts to ensure that operators have spectrum available to develop 5G services; an investment in fixed-line infrastructure, focused on FttP and, among cable broadband providers; government policy has encouraged the extension of broadband to rural and regional areas, with the result that services are almost universally available and the emphasis now is on improving service speeds to enable the entire population to benefit from the digital economy and society; cable broadband is the principal access platform, followed by DSL; the mobile rate remains comparatively low by international standards; Canadians have provided for LTE and LTE-A infrastructure; despite topographical challenges and the remoteness of many areas, the major players effectively offer 99% population coverage with LTE; operators now provide up to 70% population coverage with 5G (2022)<br>

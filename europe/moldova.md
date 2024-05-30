@@ -676,7 +676,7 @@ Armed Forces of the Republic of Moldova (Forțele Armate ale Republicii Moldova)
 <strong>note 1:</strong> the Carabinieri is a quasi-militarized gendarmerie responsible for protecting public buildings, maintaining public order, and other national security functions<br><br><strong>note 2:</strong> the national police force reports to the Ministry of Internal Affairs and is the primary law enforcement body, responsible for internal security, public order, traffic, border security, and criminal investigations; the Moldovan Border Police (Poliției de Frontieră) are under the Ministry of Internal Affairs; prior to 2012, Border Police were under the armed forces and known as the Border Troops<br>
 
 **Military expenditures**<br>
-0.55% of GDP (2023 est.)<br>
+0.5% of GDP (2023 est.)<br>
 0.4% of GDP (2022 est.)<br>
 0.4% of GDP (2021 est.)<br>
 0.4% of GDP (2020 est.)<br>

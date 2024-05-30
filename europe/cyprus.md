@@ -363,7 +363,6 @@ _FAX_: [1] (202) 483-6710<br>
 _email address and website_: <br>info@cyprusembassy.net<br><br>https://www.cyprusembassy.net/<br>
 _consulate(s) general_: New York<br>
 _honorary consulate(s)_: Atlanta, Chicago, Houston, Kirkland (WA), Los Angeles, New Orleans, San Francisco<br>
-<strong>note:</strong> representative of the Turkish Cypriot community in the US is Mustafa LAKADAMYALI; office at 1667 K Street NW, Washington, DC; telephone [1] (202) 887-6198<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Julie D. FISHER (since 21 February 2023)<br>
@@ -689,11 +688,11 @@ _key ports_: Dhekelia, Famagusta, Kyrenia, Larnaca, Limassol, Xeros<br>
 Republic of Cyprus: Cypriot National Guard (Ethniki Froura, EF; includes Army Land Forces, Naval Command, Air Command) (2024)<br>
 
 **Military expenditures**<br>
-2% of GDP (2022 est.)<br>
-2% of GDP (2021)<br>
+1.8% of GDP (2023 est.)<br>
+1.8% of GDP (2022)<br>
+1.8% of GDP (2021)<br>
 1.8% of GDP (2020)<br>
 1.6% of GDP (2019)<br>
-1.8% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 15,000 total active-duty personnel (2023)<br>

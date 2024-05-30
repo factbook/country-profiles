@@ -350,7 +350,7 @@ _chief of mission_: Ambassador Kennedy Fitzgerald GROENING (7 June 2022)<br>
 _chancery_: 1712 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 234-5002<br>
 _FAX_: [1] (202) 234-8254<br>
-_email address and website_: <br>embassy@eswatini-usa.com; swaziland@compuserve.com<br>
+_email address and website_: <br>swaziland@compuserve.com<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant) Charg&eacute; d&rsquo;Affaires Caitlin PIPER (since 27 October 2023)<br>
