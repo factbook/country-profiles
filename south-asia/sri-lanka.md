@@ -333,10 +333,10 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Ranil WICKREMESINGHE (since 20 July 2022); the president is both chief of state and head of government; Prime Minister Dinesh GUNAWARDENA (since 22 July 2022); note - prime minister functions as deputy to the president)<br>
+_chief of state_: President Ranil WICKREMESINGHE (since 20 July 2022)<br>
 _head of government_: President Ranil WICKREMESINGHE (since 20 July 2022)<br>
 _cabinet_: Cabinet appointed by the president in consultation with the prime minister<br>
-_elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 16 November 2019 (next to be held on 30 September 2024); prime minister appointed by the president from among members of Parliament for a 5-year term)<br>
+_elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 16 November 2019 (next to be held on 30 September 2024)<br>
 _election results_: Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; Parliament vote - WICKREMESINGHE (UNP) 134, Dullas ALAHAPPERUMA (SLPP) 82<br>
 <strong>Note</strong>: amid public protests which began in March 2022, President Gotabaya RAJAPAKSA fled the country on 13 July and Ranil WICKREMESINGHE became acting president; RAJAPAKSA announced his resignation on the 14th, which was accepted by the speaker of Parliament the following day<br>
 
@@ -360,9 +360,10 @@ ABEDA, ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, FAO, G-11, G-15, G-24, G-7
 _chief of mission_: Ambassador Mahinda SAMARASINGHE (since 13 January 2022)<br>
 _chancery_: 3025 Whitehaven Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 483-4025<br>
-_FAX_: [1] (202) 232-7181<br>
-_email address and website_: <br>slembassy@slembassyusa.org<br><br>https://slembassyusa.org/new/<br>
-_consulate(s) general_: Los Angeles, New York<br>
+_FAX_: [1] 202-232-2329<br>
+_email address and website_: <br>slemb.washington@mfa.gov.lk<br><br>https://slembassyusa.org/new/<br>
+_consulate(s) general_: Los Angeles<br>
+_consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Julie J. CHUNG (since 17 February 2022)<br>

@@ -385,7 +385,7 @@ _selected World Heritage Site locales_: Historic Évora (c); Central Zone of the
 ## Economy
 
 **Economic overview**<br>
-fast-growing, high-income European economy; EU and NATO member; heavy Chinese infrastructure ownership; key tourism, banking, and telecommunications sectors; declining populations; major energy exporter<br>
+high-income EU and eurozone economy; strong services sector led by tourism and banking; tight labor market; private consumption and export recovery driving post-inflation rebound; EU Recovery and Resilience Plan (RRP) funds a key driver of public investment; high public debt but improving fiscal position<br>
 
 **Real GDP (purchasing power parity)**<br>
 $372.331 billion (2022 est.)<br>

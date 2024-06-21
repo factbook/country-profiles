@@ -317,7 +317,7 @@ _subordinate courts_: magistrates' courts; Court of Magisterial Appeals<br>
 National Democratic Congress or NDC [Dickon MITCHELL]<br>New National Party or NNP [Keith MITCHELL]<br>
 
 **International organization participation**<br>
-ACP, AOSIS, CARIFORUM, CARIBCAN, Caricom, CBI, CDB, CELAC, CSME, ECCU, EPA, FAO, G-77, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, ITUC, LAES, MIGA, NAM, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>
+ACP, ACS, AOSIS, CARIFORUM, CARIBCAN, Caricom, CBI, CDB, CELAC, CSME, ECCU, EPA, FAO, G-77, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, ITUC, LAES, MIGA, NAM, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Tarlie FRANCIS (since 15 September 2023)<br>

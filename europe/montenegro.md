@@ -395,7 +395,7 @@ _selected World Heritage Site locales_: Natural and Culturo-Historical Region of
 ## Economy
 
 **Economic overview**<br>
-upper middle-income Balkan economy; unsanctioned euro user; controversial religious property ownership law; persistent corruption; major infrastructure investments and high expenditures; growing offshore banking destination<br>
+upper middle-income, small Balkan economy; uses euro as de facto currency; strong growth driven by tourism and consumption; new impetus for EU accession under Europe Now government; influx of affluent migrants from Russia and Ukraine; progress in fiscal position subject to risks from pension costs, debt service, and informal sector<br>
 
 **Real GDP (purchasing power parity)**<br>
 $13.646 billion (2022 est.)<br>

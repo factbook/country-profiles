@@ -367,11 +367,11 @@ Democratic Party or DP [Norbert MAO]<br>Forum for Democratic Change or FDC [Patr
 ACP, AfDB, ATMIS, AU, C, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITC, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, PCA, UN, UNCDF, UNCTAD, UNECA, UNDP, UNFPA, UNESCO, UNHCR, UNICEF, UNIDO, UNISFA, UNOCI, UNOPS, UNSOM, UNWTO, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Robinah&nbsp;KAKONGE (since 12 December 2022)<br>
+_chief of mission_: Ambassador Robie KAKONGE (since 12 December 2022)<br>
 _chancery_: 5911 16th Street NW, Washington, DC 20011<br>
 _telephone_: [1] (202) 726-7100<br>
 _FAX_: [1] (202) 726-1727<br>
-_email address and website_: <br>washington@mofa.go.ug; info@ugandaembassyus.org<br><br>https://washington.mofa.go.ug/<br>
+_email address and website_: <br>washington@mofa.go.ug<br><br>https://washington.mofa.go.ug/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador William W. POPP (since 20 September 2023)<br>

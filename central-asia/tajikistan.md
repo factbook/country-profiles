@@ -362,7 +362,7 @@ _chief of mission_: Ambassador Farrukh HAMRALIZODA (since 17 February 2021)<br>
 _chancery_: 1005 New Hampshire Avenue NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 223-6090<br>
 _FAX_: [1] (202) 223-6091<br>
-_email address and website_: <br>tajemus@mfa.tj; tajikistan@verizon.net<br><br>https://mfa.tj/en/washington<br>
+_email address and website_: <br>tajemus@mfa.tj<br><br>https://mfa.tj/en/washington<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Manuel P. MICALLER Jr. (since 9 March 2023)<br>

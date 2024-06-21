@@ -329,7 +329,7 @@ _residency requirement for naturalization_: 5 years<br>
 https://www.wilsoncenter.org/publication/saudi-women-go-to-the-polls-finally<br>
 
 **Executive branch**<br>
-_chief of state_: King SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015); Crown Prince MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (born 31 August 1985)<br>
+_chief of state_: King SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015)<br>
 _head of government_: Crown Prince and Prime Minister MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (since 27 September 2022)<br>
 _cabinet_: Council of Ministers appointed by the monarch every 4 years and includes many royal family members<br>
 _elections/appointments_: none; the monarchy is hereditary; an Allegiance Council created by royal decree in October 2006 established a committee of Saudi princes for a voice in selecting future Saudi kings<br>
@@ -355,7 +355,7 @@ _chief of mission_: Ambassador Reema Bint Bandar Bin Sultan&nbsp;AL SAUD (since 
 _chancery_: 601 New Hampshire Avenue NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 342-3800<br>
 _FAX_: [1] (202) 295-3625<br>
-_email address and website_: <br>info@saudiembassy.net; Saudisusemb@mofa.gov.sa<br><br>https://www.saudiembassy.net/<br>
+_email address and website_: <br>saudisusemb@mofa.gov.sa<br><br>https://www.saudiembassy.net/<br>
 _consulate(s) general_: Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>

@@ -360,7 +360,7 @@ _election results_: <em><br>2021</em>: Lt. Gen. Idriss DEBY Itno reelected trans
 **Legislative branch**<br>
 _description_: formerly a unicameral National Assembly or Assembl&eacute;e Nationale (188 seats; 163 directly elected in multi-seat constituencies by proportional representation vote and 25 directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 4-year terms); note - on 5 October 2021, Interim President Mahamat Idriss DEBY installed 93 members of an interim parliament, called the National Transitional Council (NTC), replacing the National Assembly, which was disbanded after he took control of the country on 20 April 2021; according to DEBY, the NTC will act as a national assembly of transition until the country&rsquo;s next elections take place<br>
 _elections_: members of the so called "National Transitional Council" were installed by Interim President DEBY on 5 October 2021 (next to be held in September 2022)<br>
-_election results_: percent of vote by party - NA; seats by party - NA; composition - men 64, women 29, percent of women 31.2%&nbsp;<br>
+_election results_: percent of vote by party - NA; seats by party - NA; composition - men 64, women 29, percent of women 31.2%<br>
 <strong>note:</strong> the National Assembly mandate was extended to 2020, reportedly due to a lack of funding for the scheduled 2015 election; the MPS has held a majority in the NA since 1997<br>
 
 **Judicial branch**<br>
@@ -685,7 +685,7 @@ Chadian National Army (Armee Nationale du Tchad, ANT): Land Forces (l'Armee de T
 2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-limited and varied information; estimated to have up to 35,000 active ANT personnel (approximately 25-30,000 Ground Forces, 5,000 GDSSIE, and a few hundred Air Force); approximately 5,000 National Gendarmerie; approximately 3,000 Nomadic Guard (2023)<br>
+limited and varied information; estimated to have up to 40,000 active ANT personnel (approximately 30-35,000 Ground Forces, 5,000 GDSSIE, and a few hundred Air Force); approximately 5,000 National Gendarmerie; approximately 3,000 Nomadic Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ANT is mostly armed with older or secondhand equipment from Belgium, France, Russia, and the former Soviet Union; in recent years it has received equipment, including donations, from other countries, including China, Turkey, and the US (2023)<br>

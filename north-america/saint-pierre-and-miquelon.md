@@ -336,9 +336,6 @@ _expenditures_: $60 million (1996 est.)<br>
 **Budget surplus (+) or deficit (-)**<br>
 3.8% (of GDP) (1996 est.)<br>
 
-**Fiscal year**<br>
-calendar year<br>
-
 **Exports - partners**<br>
 Canada 84%, France 11%, Ireland 3%, Slovakia 1%, Democratic Republic of the Congo 0% (2022)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>

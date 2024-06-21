@@ -345,16 +345,16 @@ _residency requirement for naturalization_: 5 year<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Matamela Cyril RAMAPHOSA (since 15 February 2018); Deputy President Paul MASHSATILE (since 7 March 2023); note - the president is both chief of state and head of government; Deputy President David MABUZA resigned 1 March 2023<br>
-_head of government_: President Matamela Cyril RAMAPHOSA (since 15 February 2018); Deputy President Paul MASHSATILE (since 7 March 2023)<br>
+_chief of state_: President Matamela Cyril RAMAPHOSA (since 15 February 2018)&nbsp;<br>
+_head of government_: President Matamela Cyril RAMAPHOSA (since 15 February 2018)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 22 May 2019 (next to be held in 2024)<br>
+_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 22 May 2019 (next to be held in 2024) note - the president is both chief of state and head of government<br>
 _election results_: <br><em>2019: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<br><br><em>2014:</em> Jacob ZUMA (ANC) reelected president by the National Assembly unopposed  <p> </p><br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br><br>National Council of Provinces (90 seats; nine 10-member delegations, each with 6 permanent delegates and 4 special delegates, appointed by each of the 9 provincial legislatures to serve 5-year terms; note - the Council has special powers to protect regional interests, including safeguarding cultural and linguistic traditions among ethnic minorities)<br><br>National Assembly (400 seats; half the members directly elected in multi-seat constituencies and half in a single nationwide constituency, both by proportional representation popular vote; members serve 5-year terms)<br>
-_elections_: National Council of Provinces and National Assembly - last held on 8 May 2019 (next to be held on 29 May 2024)<br>
-_election results_: <p>National Council of Provinces - percent of vote by party - NA; seats by party - ANC 29, DA 13, EFF 9, FF+ 2, IFP 1; composition - men 30, women 24, percentage women 44.4%; note - 36 appointed seats not filled<br><br>National Assembly - percent of vote by party - ANC 57.5%, DA 20.8%, EFF 10.8%, IFP 3.8%, FF+ 2.4%, other 4.7%; seats by party - ANC 230, DA 84, EFF 44, IFP 14, FF+ 10, other 18; composition - men 210, women 181, percent age women 46.3%; total Parliament percentage women 46.1%</p><br>
+_elections_: National Council of Provinces and National Assembly - last held on 29 May 2024 (next to be held on 29 May 2029)<br>
+_election results_: <p>National Council of Provinces - percent of vote by party - NA; seats by party - ANC 29, DA 13, EFF 9, FF+ 2, IFP 1; composition - men 30, women 24, percentage women 44.4%; note - 36 appointed seats not filled<br><br>National Assembly - percent of vote by party - ANC 40.1% DA 21.8%, MK 14.5%, EFF 9.5%, IFP 3.8%, PA, 2.06%, FF+ 1.3%, Action SA 1.2%, ACDP 0.60%, UCM 0.49%, RISE 0.42%, BOSA 0.041%, ATM 0.40%, Al Jam-ah 0.24%, NCC 0.23%, PAC 0.23%, UAT 0.22%, GOOD 0.18% other 4.38%; seats by party - ANC 159, DA 87, MK 58, EFF 39, IFP 17, PA 9, FF+ 6, Action SA 6, ACDP 3, UDM 3, RISE  2, BOSA 2, ATM 2, AL Jam-ah 2, NCC 2, PAC 1, UAT 1, GOOD 1; composition - men 210, women 181, percentage women 46.3%; total Parliament percentage women 46.1%</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Appeals (consists of the court president, deputy president, and 21 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)<br>
@@ -370,10 +370,10 @@ ACP, AfDB, AIIB, AU, BIS, BRICS, C, CD, FAO, FATF, G-20, G-24, G-5, G-77, IAEA, 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ndumiso Ndima&nbsp;NTSHINGA (since 30 October 2023)<br>
 _chancery_: 3051 Massachusetts Avenue NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 413-1953<br>
+_telephone_: [1] (240) 937-5760<br>
 _FAX_: [1] (202) 265-1607<br>
-_email address and website_: <br>Info.SAembassyDC@dirco.gov.za<br><br>https://www.saembassy.org/<br>
-_consulate(s) general_: Chicago, Los Angeles, New York<br>
+_email address and website_: <br>Info.saembassyDC@dirco.gov.za<br><br>https://www.saembassy.org/<br>
+_consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Reuben E. BRIGETY II (since 11 August 2022)<br>

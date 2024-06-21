@@ -88,7 +88,7 @@ _adjective_: Slovenian<br>
 Slovene 83.1%, Serb 2%, Croat 1.8%, Bosniak 1.1%, other or unspecified 12% (2002 est.)<br>
 
 **Languages**<br>
-Slovene (official) 87.7%, Croatian 2.8%, Serbo-Croatian 1.8%, Bosnian 1.6%, Serbian 1.6%, Hungarian 0.4% (official, only in municipalities where Hungarian national communities reside), Italian 0.2% (official, only in municipalities where Italian national communities reside), other or unspecified 3.9% (2002 est.)<br>
+Slovene (official) 87.7%, Croatian 2.8%, Serbo-Croatian 1.8%, Bosnian 1.6%, Serbian 1.6%, Hungarian 0.4% (official, only in municipalities where Hungarian nationals reside), Italian 0.2% (official, only in municipalities where Italian nationals reside), other or unspecified 3.9% (2002 est.)<br>
 _major-language sample(s)_: <br>Svetovni informativni zvezek - neobhoden vir osnovnih informacij. (Slovene)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -327,14 +327,14 @@ _residency requirement for naturalization_: 10 years, the last 5 of which have b
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Natasa PIRC MUSAR (since 23 December 2022); note - PIRC MUSAR is Slovenia's first female president<br>
+_chief of state_: President Natasa PIRC MUSAR (since 23 December 2022)<br>
 _head of government_: Prime Minister Robert GOLOB (since 1 June 2022)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, elected by the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second consecutive term); election last held on 23 October 2022 with a runoff on 13 November 2022 (next to be held in 2027); following National Assembly elections, the leader of the majority party or majority coalition usually nominated prime minister by the president and elected by the National Assembly<br>
 _election results_: <em><br>2022:</em> Natasa PIRC MUSAR elected president in second round: percent of vote in first round - Anze LOGAR (SDS) 34%, Natasa PIRC MUSAR (independent) 26.9%, Milan BRGLEZ (SD) 15.5%, Vladimir PREBILIC (independent) 10.6%, Sabina SENCAR (Resni.ca) 5.9%, Janez CIGLER KRALJ (NSi) 4.4%, other 2.7%; percent of vote in second round - Natasa PIRC MUSAR 53.9%, Anze LOGAR 46.1%; Robert GOLOB (GS) elected prime minister on 25 May 2022, National Assembly vote - 54-30<br><em><br>2017:</em> Borut PAHOR reelected president in second round; percent of vote in first round - Borut PAHOR (independent) 47.1%, Marjan SAREC (Marjan Sarec List) 25%, Romana TOMC (SDS) 13.7%, Ljudmila NOVAK (NSi) 7.2%, other 7%; percent of vote in second round - Borut PAHOR 52.9%, Marjan SAREC 47.1%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>National Council (State Council)or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powers<br>National Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)<br>
+_description_: bicameral Parliament consists of:<br>National Council (State Council) or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powers<br>National Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)<br>
 _elections_: National Council - last held on 24 November 2022 (next to be held in 2027)<br>National Assembly - last held on 24 April 2022 (next to be held in 2026)<br>
 _election results_: National Council - percent of vote by party - NA; seats by party - NA; composition - men 33, women 7, percentage women 17.5%<br><br>National Assembly - percent of vote by party - GS 34.5%, SDS 23.5%, NSi 6.9%, SD 6.7%, Levica 4.4%, other 24%; seats by party - GS 41, SDS 27, NSi 8, SD 7, Levica 5; composition - men 56, women 34, percentage women 37.8%; total Parliament percentage women 31.5%<br>
 

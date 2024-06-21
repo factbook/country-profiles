@@ -403,7 +403,7 @@ _selected World Heritage Site locales_: Museumsinsel (Museum Island), Berlin (c)
 ## Economy
 
 **Economic overview**<br>
-leading EU service-based export-driven economy; highly skilled and educated labor force; fairly fiscally conservative; energy-related economic disruptions due to Russian gas cessations; increased defense spending and rising debts<br>
+leading diversified, export-driven, core EU and eurozone economy; key automotive, chemical, engineering, finance, and green energy industries; growth stalled by energy crisis; tight labor market with falling working-age population; fiscal rebalancing with phaseout of energy price supports<br>
 
 **Real GDP (purchasing power parity)**<br>
 $4.523 trillion (2022 est.)<br>

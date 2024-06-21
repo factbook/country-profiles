@@ -325,7 +325,7 @@ _chief of mission_: Ambassador Tapugao FALEFOU (since 19 April 2023); note - als
 _chancery_: 685 Third Avenue, Suite 1104, New York, NY 10017<br>
 _telephone_: [1] (212) 490-0534<br>
 _FAX_: [1] (212) 808-4975<br>
-_email address and website_: <br>tuvalumission.un@gmail.com<br><br>https://www.un.int/tuvalu/about<br>
+_email address and website_: <br>tuvalumission.un@gmail.com<br><br>tuvalu.unmission@gov.tv<br><br>https://www.un.int/tuvalu/about<br>
 note - the Tuvalu Permanent Mission to the UN serves as the Embassy<br>
 
 **Diplomatic representation from the US**<br>

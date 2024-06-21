@@ -338,7 +338,7 @@ _elections/appointments_: the predesignated candidate of the winning party in th
 _election results_: <br><em>2020:</em> Mohammed Irfaan ALI (PPP/C) designated president by the majority party in the National Assembly<br><br><em>2015:</em> David GRANGER (APNU-AFC) designated president by the majority party in the National Assembly<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly (70 seats; 40 members directly elected in a single nationwide constituencies, 25 directly elected in multi-seat constituencies - all by closed-list proportional representation vote, 2 non-elected ministers, 2 non-elected parliamentary secretaries, and the speaker; members serve 5-year terms)<br>
+_description_: unicameral National Assembly (70 seats; 40 members directly elected in single-seat, nationwide constituencies, 25 directly elected in multi-seat constituencies -- all by closed-list proportional representation vote, 2 non-elected ministers, 2 non-elected parliamentary secretaries, and the speaker; members serve 5-year terms)<br>
 _elections_: ast held on 2 March 2020 (next to be held in 2025)<br>
 _election results_: percent of vote by party - PPP/C 50.69%, APNU-AFC 47.34%, LJP 0.58%, ANUG 0.5%, TNM 0.05%, other 0.84%; seats by party - PPP/C 33, APNU-AFC 31, LJP-ANUG-TNM 1; composition - men 43, women 28, percentage women 39.4%; note - the initial results were declared invalid and a partial recount was conducted from 6 May to 8 June 2020, in which PPP/C was declared the winner<br>
 
@@ -351,7 +351,7 @@ _subordinate courts_: Land Court; magistrates' courts<br>
 A New and United Guyana or ANUG [Ralph RAMKARRAN]<br>A Partnership for National Unity or APNU [Joseph HARMON]<br>Alliance for Change or AFC [Khemraj RAMJATTAN]<br>Justice for All Party [Chandra Narine SHARMA]<br>Liberty and Justice Party or LJP [Lenox SHUMAN]<br>National Independent Party or NIP [Saphier Husain SUBEDAR]<br>People's Progressive Party/Civic or PPP/C [Dr. Bharrat JAGDEO]<br>The New Movement or TNM [Dr. Asha KISSOON]<br>The United Force or TUF [Marissa NADIR]<br>United Republican Party or URP [Vishnu BANDHU]<br>
 
 **International organization participation**<br>
-ACP, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (correspondent), ITU, LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, Petrocaribe, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (correspondent), ITU, LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, Petrocaribe, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Samuel Archibald HINDS (since 7 July 2021)<br>

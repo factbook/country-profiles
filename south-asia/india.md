@@ -357,7 +357,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Droupadi MURMU (since 25 July 2022); Vice President Jagdeep DHANKHAR (since 11 August 2022)<br>
+_chief of state_: President Droupadi MURMU (since 25 July 2022)<br>
 _head of government_: Prime Minister Narendra MODI (since 26 May 2014)<br>
 _cabinet_: Union Council of Ministers recommended by the prime minister, appointed by the president<br>
 _elections/appointments_: president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 18 July 2022 (next to be held in July 2027); vice president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 5 August 2022 (next to be held in August 2027); following legislative elections, the prime minister is elected by Lok Sabha members of the majority party<br>
@@ -365,8 +365,8 @@ _election results_: <br><em>2022:</em> Droupadi MURMU elected president; percen
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Sansad consists of:<br>Council of States or Rajya Sabha (245 seats; 233 members indirectly elected by state and territorial assemblies by proportional representation vote and 12 members appointed by the president; members serve 6-year terms with one-third of the membership renewed every 2 years at various dates)<br>House of the People or Lok Sabha (545 seats; 543 members directly elected in single-seat constituencies by simple majority vote and 2 appointed by the president; members serve 5-year terms)<br>
-_elections_: Council of States - last held by state and territorial assemblies at various dates in 2019 (in progress March through July 2022 to fill 70 expiry seats)<br><br>House of the People - last held April-May 2019 in 7 phases (currently being held in 7 phases from 19 April to 1 June 2024)<br>
-_election results_: Council of States - percent of vote by party - NA; seats by party - BJP 97, INC 34, AITC 13, DMK 10, other 2, independent 2; composition as of March 2024 - men 206, women 32, percentage women 13.8%<br><br>House of the People - percent of vote by party - BJP 55.8%, INC 9.6%, AITC 4.4%, YSRCP 4.4%, DMK 4.2%, SS 3.3%, JDU 2.9%, BJD 2.2%, BSP 1.8%, TRS 1.7%, LJP 1.1%, NCP 0.9%, SP 0.9%, other 21.2%, independent 0.7%; seats by party - BJP 303, INC 52, DMK 24, AITC 22, YSRCP 22, SS 18, JDU 16, BJD 12, BSP 10, TRS 9, LJP 6, NCP 5, SP 5, other 35, independent 4, vacant 2; composition as of March 2024 - men 446, women 77, percentage women 14.7%; total Parliament percentage women 14.3%<br>
+_elections_: Council of States - held by state and territorial assemblies being held from 12 January to 30 June 2024 for expiry of 68 seats<br><br>House of the People - last held in 7 phases from 19 April to 1 June 2024 (next to be held in 2027)<br>
+_election results_: Council of States (2022) - percent of vote by party - NA; seats by party - BJP 97, INC 34, AITC 13, DMK 10, other 2, independent 2; composition as of March 2024 - men 206, women 32, percentage women 13.8%<br><br>House of the People - percent of vote by party - NA; seats by party - BJP 240, INC 99, SP 37, AITC 29, DMK 22, BJD 12, RJD 4, AAP 3, other 93<br><br>seats by party - BJP 303, INC 52, DMK 24, AITC 22, YSRCP 22, SS 18, JDU 16, BJD 12, BSP 10, TRS 9, LJP 6, NCP 5, SP 5, other 35, independent 4, vacant 2; composition as of March 2024 - men 446, women 77, percentage women 14.7%; total Parliament percentage women 14.3%<br>
 <strong>note: </strong>in late September 2023, both Rajya Sabha and Lok Sabha passed a bill that reserves one third of the House seats for women; implementation could begin for the House election in 2029<br>
 
 **Judicial branch**<br>
@@ -382,10 +382,10 @@ ADB, AfDB (nonregional member), Arctic Council (observer), ARF, ASEAN (dialogue 
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Chargé d'Affaires Sripriya RANGANATHAN (since 1 February 2024)<br>
-_chancery_: 2107 Massachusetts Avenue NW, Washington, DC 20008; Consular Wing located at 2536 Massachusetts Avenue NW, Washington, DC 20008<br>
+_chancery_: 2107 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-7000<br>
 _FAX_: [1] (202) 265-4351<br>
-_email address and website_: <br>minca.washington@mea.gov.in (community affairs)<br><br>https://www.indianembassyusa.gov.in/<br>
+_email address and website_: <br>hoc.washington@mea.gov.in<br><br>https://www.indianembassyusa.gov.in/<br>
 _consulate(s) general_: Atlanta, Chicago, Houston, New York, San Francisco, Seattle<br>
 
 **Diplomatic representation from the US**<br>
@@ -732,7 +732,7 @@ _key ports_: Calcutta, Chennai (Madras), Jawaharlal Nehru Port (Nhava Shiva), Ka
 ## Military and Security
 
 **Military and security forces**<br>
-Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Defense Security Corps<br><br>Ministry of Home Affairs: Central Armed Police Forces (includes Assam Rifles, Border Security Force, Central Industrial Security Force, Central Reserve Police Force, Indo-Tibetan Border Police, National Security Guards, Sashastra Seema Bal) (2023)<br>
+Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Defense Security Corps<br><br>Ministry of Home Affairs: Central Armed Police Forces (includes Assam Rifles, Border Security Force, Central Industrial Security Force, Central Reserve Police Force, Indo-Tibetan Border Police, National Security Guards, Sashastra Seema Bal), Special Protection Group, National Disaster Response Force (NDRF)<br><br>Ministry of Railways: Railway Protection Force (2024)<br>
 <strong>note 1:</strong> the Defense Security Corps provides security for Ministry of Defense sites<br><br><strong>note 2: </strong>the Border Security Force (BSF) is responsible for the Indo-Pakistan and Indo-Bangladesh borders; the Sashastra Seema Bal (SSB or Armed Border Force) guards the Indo-Nepal and Indo-Bhutan borders<br><br><strong>note 3:</strong> the Central Reserve Police Force (CRPF) includes a Rapid Reaction Force (RAF) for riot control and the Commando Battalion for Resolute Action (COBRA) for counter-insurgency operations <br><br><strong>note 4:</strong> the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (specifically the Indian Army)<br><br><strong>note 5:</strong> the Territorial Army (TA) is a military reserve force composed of part-time volunteers who provide support services to the Indian Army; it is a part of the Regular Army with the role of relieving Regular Army units from static duties and assisting civil authorities with natural calamities and maintaining essential services in emergencies, as well as providing units for the Regular Army as required<br>
 
 **Military expenditures**<br>

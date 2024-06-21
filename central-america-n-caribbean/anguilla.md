@@ -335,9 +335,6 @@ _expenditures_: $80.32 million (2017 est.)<br>
 **Taxes and other revenues**<br>
 46.7% (of GDP) (2017 est.)<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Current account balance**<br>
 -$23.2 million (2017 est.)<br>
 -$25.3 million (2016 est.)<br>

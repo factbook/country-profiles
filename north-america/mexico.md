@@ -366,13 +366,13 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Andr&eacute;s Manuel L&Oacute;PEZ OBRADOR (since 1 December 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Andr&eacute;s Manuel L&Oacute;PEZ OBRADOR (since 1 December 2018)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a single 6-year term; election last held on 1 July 2018 (next to be held on 2 June 2024)<br>
-_election results_: <br><em>2018:</em> Andrés Manuel LÓPEZ OBRADOR elected president; percent of vote - Andrés Manuel LÓPEZ OBRADOR (MORENA) 53.2%, Ricardo ANAYA Cortés (PAN) 22.3%, José Antonio MEADE Kuribreña (PRI) 16.4%, Jaime RODRÍGUEZ Calderón 5.2% (independent), other 2.9%<br><br><em>2012:</em> Enrique PEÑA NIETO elected president; percent of vote - Enrique PEÑA NIETO (PRI) 38.2%, Andrés Manuel LÓPEZ OBRADOR (PRD) 31.6%, Josefina Eugenia VÁZQUEZ Mota (PAN) 25.4%, other 4.8%<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a single 6-year term; election last held on 2 June 2024 (next to be held in 2030)<br>
+_election results_: <br><em>2024: </em>Claudia SHEINBAUM Pardo elected president; percent of vote - Claudia SHEINBAUM Pardo (MORENA) 59.4%, Xóchitl GÁLVEZ Ruiz (PAN) 27.9%, Jorge Álvarez MÁYNEZ (MC) 10.4%, other 2.3%; note - official results pending; SHEINBAUM will take office 1 October 2024<em><br><br>2018:</em> Andrés Manuel LÓPEZ OBRADOR elected president; percent of vote - Andrés Manuel LÓPEZ OBRADOR (MORENA) 53.2%, Ricardo ANAYA Cortés (PAN) 22.3%, José Antonio MEADE Kuribreña (PRI) 16.4%, Jaime RODRÍGUEZ Calderón 5.2% (independent), other 2.9%<br><br><em>2012:</em> Enrique PEÑA NIETO elected president; percent of vote - Enrique PEÑA NIETO (PRI) 38.2%, Andrés Manuel LÓPEZ OBRADOR (PRD) 31.6%, Josefina Eugenia VÁZQUEZ Mota (PAN) 25.4%, other 4.8%<br>
 
 **Legislative branch**<br>
 _description_: <p>bicameral National Congress or Congreso de la Unión consists of:<br>Senate or Cámara de Senadores (128 seats; 96 members directly elected in multi-seat constituencies by simple majority vote and 32 directly elected in a single, nationwide constituency by proportional representation vote; members serve 6-year terms)<br><br>Chamber of Deputies or Cámara de Diputados (500 seats; 300 members directly elected in single-seat constituencies by simple majority vote and 200 directly elected in a single, nationwide constituency by proportional representation vote; members serve 3-year terms)</p><br>
-_elections_: Senate - last held on 1 July 2018 (next to be held in July 2024)<br>Chamber of Deputies - last held on 6 June 2021 (next to be held on 2 June 2024)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - MORENA 55, PAN 23, PRI 14, PES 8, PRD 8, MC 7, PT 6, PVEM 6, PNA/PANAL 1; composition - men 62, women 64, percentage women 50.8%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - MORENA 191, PAN 81, PES 56, PRI 45, PT 61, MC 27, PRD 21, PVEM 16, PNA 2; composition - men 248, women 252, percentage women 50.4%; total National Congress percentage women 50.5%<br>
+_elections_: Senate - last held on 2 June 2024 (next to be held in 2030)<br>Chamber of Deputies - last held on 2 June 2024 (next to be held in 2027)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; note - awaiting official results from the 2 June 2024 election<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - NA; note - awaiting official results from the 2 June 2024 election<br>
 <strong>note: </strong>as of the 2018 election, senators will be eligible for a second term and deputies up to 4 consecutive terms<br>
 
 **Judicial branch**<br>
@@ -385,7 +385,7 @@ _subordinate courts_: federal level includes circuit, collegiate, and unitary co
 <p>Citizen's Movement (Movimiento Ciudadano) or MC [Clemente CASTAÑEDA Hoeflich]<br>Institutional Revolutionary Party (Partido Revolucionario Institucional) or PRI [Claudia RUIZ Massieu]<br>Labor Party (Partido del Trabajo) or PT [Alberto ANAYA Gutiérrez]<br>Mexican Green Ecological Party (Partido Verde Ecologista de México) or PVEM [Karen CASTREJÓN Trujillo]<br>Movement for National Regeneration (Movimiento Regeneración Nacional) or MORENA [Mario DELGADO Carillo]<br>National Action Party (Partido Acción Nacional) or PAN [Antonio CORTÉS Mendoza]<br>Party of the Democratic Revolution (Partido de la Revolución Democrática) or PRD [Jesús ZAMBRANO Grijalva]<br>This Is For Mexico (Va Por México) (alliance that includes PAN, PRI, and PRD)<br>Together We Make History (Juntos Hacemos Historia) (alliance that included MORENA, PT, PVEM) (dissolved 23 December 2020)<br><br></p><br>
 
 **International organization participation**<br>
-APEC, Australia Group, BCIE, BIS, CABEI, CAN (observer), Caricom (observer), CD, CDB, CE (observer), CELAC, CSN (observer), EBRD, FAO, FATF, G-3, G-15, G-20, G-24, G-5, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAFTA, NAM (observer), NEA, NSG, OAS, OECD, OPANAL, OPCW, Pacific Alliance, Paris Club (associate), PCA, SICA (observer), UN, UNASUR (observer), UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina (observer), UNOOSA, UNWTO, UPU, USMCA, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACS, APEC, Australia Group, BCIE, BIS, CABEI, CAN (observer), Caricom (observer), CD, CDB, CE (observer), CELAC, CSN (observer), EBRD, FAO, FATF, G-3, G-15, G-20, G-24, G-5, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAFTA, NAM (observer), NEA, NSG, OAS, OECD, OPANAL, OPCW, Pacific Alliance, Paris Club (associate), PCA, SICA (observer), UN, UNASUR (observer), UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina (observer), UNOOSA, UNWTO, UPU, USMCA, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Esteban MOCTEZUMA Barrag&aacute;n (since 20 April 2021)<br>
@@ -394,7 +394,7 @@ _telephone_: [1] (202) 728-1600<br>
 _FAX_: [1] (202) 728-1698<br>
 _email address and website_: <br>mexembusa@sre.gob.mx<br><br>https://embamex.sre.gob.mx/eua/index.php/en/<br>
 _consulate(s) general_: Atlanta (GA), Austin (TX), Boston (MA), Chicago (IL), Dallas (TX), Denver (GA), El Paso (TX), Houston (TX), Laredo (TX), Miami (FL), New York (NY), Nogales (AZ), Phoenix (AZ), Raleigh (NC), Sacramento (CA), San Antonio (TX), San Diego (CA), San Francisco (CA), San Jose (CA), San Juan (Puerto Rico)<br>
-_consulate(s)_: Albuquerque (NM), Boise (ID), Brownsville (TX), Calexico (CA), Del Rio (TX), Detroit (MI), Douglas (AZ), Eagle Pass (TX), Fresno (CA), Indianapolis (IN), Kansas City (MO), Las Vegas (NV), Little Rock (AR), Los Angeles (CA), McAllen (TX), Milwaukee (WI), New Orleans (LA), Omaha (NE), Orlando (FL), Oxnard (CA), Philadelphia (PA), Portland (OR), Presidio (TX), Salt Lake City (UT), San Bernardino (CA), Santa Ana (CA), Seattle (WA), St. Paul (MN), Tucson (AZ), Yuma (AZ)<br>
+_consulate(s)_: Albuquerque (NM), Boise (ID), Brownsville (TX), Calexico (CA), Del Rio (TX), Detroit (MI), Douglas (AZ), Eagle Pass (TX), Fresno (CA), Indianapolis (IN), Kansas City (MO), Las Vegas (NV), Little Rock (AR), Los Angeles (CA), McAllen (TX), Milwaukee (WI), New Orleans (LA), Oklahoma City (OK), Omaha (NE), Orlando (FL), Oxnard (CA), Philadelphia (PA), Portland (OR), Presidio (TX), Salt Lake City (UT), San Bernardino (CA), Santa Ana (CA), Seattle (WA), St. Paul (MN), Tucson (AZ), Yuma (AZ)<br>
 <strong> </strong><br>
 
 **Diplomatic representation from the US**<br>
@@ -425,7 +425,7 @@ _selected World Heritage Site locales_: Historic Mexico City (c); Earliest 16th-
 ## Economy
 
 **Economic overview**<br>
-one of the world&rsquo;s largest economies; USMCA buttresses its manufacturing sector; has underperformed growth targets for three decades; COVID-19 disrupted export-based economy; corruption and cartel-based violence undermine economic stability<br>
+<p>upper-middle income economy; highly integrated with US via trade and nearshore manufacturing; low unemployment; inflation gradually decreasing amid tight monetary policy; state intervention in energy sector and public infrastructure projects; challenges from income inequality, corruption, and cartel-based violence</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.583 trillion (2022 est.)<br>

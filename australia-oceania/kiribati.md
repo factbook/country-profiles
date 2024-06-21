@@ -312,8 +312,8 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Taneti MAAMAU (since 11 March 2016); Vice President Teuea TOATU (since 19 June 2019); note - the president is both chief of state and head of government<br>
-_head of government_: President Taneti MAAMAU (since 11 March 2016); Vice President Teuea TOATU (since 19 June 2019)<br>
+_chief of state_: President Taneti MAAMAU (since 11 March 2016); note - the president is both chief of state and head of government<br>
+_head of government_: President Taneti MAAMAU (since 11 March 2016)<br>
 _cabinet_: Cabinet appointed by the president from among House of Assembly members<br>
 _elections/appointments_: president directly elected by simple majority popular vote following nomination of candidates from among House of Assembly members for a 4-year term (eligible for 2 additional terms); election last held on 22 June 2020 (next to be held in 2024); vice president appointed by the president<br>
 _election results_: <em>2020:</em> Taneti MAAMAU reelected president; percent of vote - Taneti MAAMAU (TKB) 59.3%, Banuera BERINA (BKM) 40.7%<br>
@@ -335,12 +335,11 @@ Boutokaan Kiribati Moa Party (Supporting Kiribati First) or BKM [Tessie LAMBOUR
 ABEDA, ACP, ADB, AOSIS, C, FAO, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IOC, ITU, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNDP, UNESCO, UPU, WHO, WIPO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Teburoro TITO (since 24 January 2018)<br>
+_chief of mission_: Ambassador Teburoro TITO (since 24 January 2018); note - also Permanent Representative to the UN<br>
 _chancery_: 685 Third Avenue, Suite 1109, New York, NY 10017<br>
 _telephone_: [1] (212) 867-3310<br>
 _FAX_: [1] (212) 867-3320<br>
 _email address and website_: <br>Kimission.newyork@mfa.gov.ki<br>
-note -&nbsp;the Kiribati Permanent Mission to the UN serves as the embassy<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Kiribati; the US Ambassador to Fiji is accredited to Kiribati<br>
@@ -572,11 +571,11 @@ _Total energy consumption per capita 2019_: 9.335 million Btu/person (2019 est.)
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 0 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 54,527 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 42 (2021 est.)<br>
+_total subscriptions_: 64,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 49 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: generally good national and international service; wireline service available on Tarawa and Kiritimati (Christmas Island); connections to outer islands by HF/VHF radiotelephone; recently formed (mobile network operator) MNO is implementing the first phase of improvements with 3G and 4G upgrades on some islands; islands are connected to each other and the rest of the world via satellite; launch of Kacific-1 in December 2019 will improve telecommunication for Kiribati (2020)<br>

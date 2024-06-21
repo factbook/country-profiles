@@ -346,10 +346,10 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017); Vice President Mahamudu BAWUMIA (since 7 January 2017); the president is both chief of state and head of government<br>
-_head of government_: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017); Vice President Mahamudu BAWUMIA (since 7 January 2017)<br>
+_chief of state_: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017)<br>
+_head of government_: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017)<br>
 _cabinet_: Council of Ministers; nominated by the president, approved by Parliament<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 7 December 2020 (next to be held on 7 December 2024)<br>
+_elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 7 December 2020 (next to be held on 7 December 2024); the president is both chief of state and head of government<br>
 _election results_: <em>2020:</em> Nana Addo Dankwa AKUFO-ADDO reelected president in the first round; percent of vote - Nana Addo Dankwa AKUFO-ADDO (NPP) 51.3%, John Dramani MAHAMA (NDC) 47.4%, other 1.3% (2020)<br>
 
 **Legislative branch**<br>
@@ -402,7 +402,7 @@ _selected World Heritage Site locales_: Forts and Castles, Volta, Greater Accra,
 ## Economy
 
 **Economic overview**<br>
-West African trade and agrarian economy; COVID-19 reversed nearly 4 decades of continuous growth; major diamond, gold, cocoa, and oil exporter; high public debts; financial and energy sector reform programs adding to fiscal pressures; high remittances<br>
+West African lower-middle income economy; major gold, oil and cocoa exporter; macroeconomic challenges following nearly four decades of sustained growth; recent progress in debt restructuring, fiscal reforms, financial stability, and curbing runaway inflation under 2023-26 IMF credit facility program<br>
 
 **Real GDP (purchasing power parity)**<br>
 $183.459 billion (2022 est.)<br>

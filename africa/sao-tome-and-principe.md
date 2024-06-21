@@ -656,7 +656,7 @@ _key ports_: Santo Antonio, Sao Tome<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Sao Tome and Principe (Forcas Armadas de Sao Tome e Principe, FASTP): Army, Coast Guard of Sao Tome e Principe (Guarda Costeira de Sao Tome e Principe, GCSTP), Presidential Guard, National Guard (2023)<br>
+Armed Forces of Sao Tome and Principe (Forcas Armadas de Sao Tome e Principe, FASTP): Army, Coast Guard of Sao Tome e Principe (Guarda Costeira de Sao Tome e Principe, GCSTP), Presidential Guard, National Guard (2024)<br>
 <strong>note:</strong> the Army and Coast Guard are responsible for external security while the public security police and judicial police maintain internal security; both the public security police and the military report to the Ministry of Defense and Internal Affairs; the judicial police report to the Ministry of Justice, Public Administration, and Human Rights<br>
 
 **Military and security service personnel strengths**<br>
@@ -669,7 +669,7 @@ the FASTP has a limited inventory of light weapons (2023)<br>
 18 is the legal minimum age for compulsory military service (reportedly not enforced); 17 is the legal minimum age for voluntary service (2023)<br>
 
 **Military - note**<br>
-the FASTP is one of the smallest militaries in Africa and consists of only a few companies of ground troops and some small patrol boats (2023)<br>
+the FASTP is one of the smallest militaries in Africa and consists of only a few companies of ground troops and some small patrol boats<br><br>in November 2022, the FASTP's headquarters was attacked shortly after the prime minister's inauguration in what São Tomé authorities described as an attempted coup (2023)<br>
 
 ## Transnational Issues
 

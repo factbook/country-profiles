@@ -301,7 +301,7 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King Jigme Khesar Namgyel WANGCHUCK (since 14 December 2006); note - King Jigme Singye WANGCHUCK abdicated the throne on 14 December 2006 to his son<br>
+_chief of state_: King Jigme Khesar Namgyel WANGCHUCK (since 14 December 2006)<br>
 _head of government_: Prime Minister Tshering TOBGAY (since 28 January 2024)<br>
 _cabinet_: Council of Ministers or Lhengye Zhungtshog members nominated by the monarch in consultation with the prime minister and approved by the National Assembly; members serve 5-year terms<br>
 _elections/appointments_: the monarchy is hereditary but can be removed by a two-thirds vote of Parliament; leader of the majority party in Parliament is nominated as the prime minister, appointed by the monarch<br>

@@ -361,9 +361,8 @@ _chief of mission_: Ambassador Karen Elizabeth PIERCE (since 8 April 2020)<br>
 _chancery_: 3100 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 588-6500<br>
 _FAX_: [1] (202) 588-7870<br>
-_email address and website_: <br>britishembassyenquiries@gmail.com<br><br>https://www.gov.uk/world/organisations/british-embassy-washington<br>
-_consulate(s) general_: Atlanta, Boston, Chicago, Denver, Houston, Los Angeles, Miami, New York, San Francisco<br>
-_consulate(s)_: Orlando (FL), San Juan (Puerto Rico)<br>
+_email address and website_: <br>ukin.washington@fcdo.gov.uk<br><br>https://www.gov.uk/world/organisations/british-embassy-washington<br>
+_consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Jane HARTLEY (since 19 July 2022)<br>
@@ -392,7 +391,7 @@ _selected World Heritage Site locales_: Giant's Causeway and Causeway Coast (n);
 ## Economy
 
 **Economic overview**<br>
-high-income, diversified non-EU European economy; sixth-largest importer and exporter; global financial and diplomatic leader; nominal consumption-led growth; high inflation and increased interest rates eroding purchasing power despite real wage growth<br>
+high-income, diversified, non-EU European economy; global financial center and dominant service sector; sluggish growth from stringent monetary policy, reduced business investment, low productivity and participation rates, and post-Brexit trade frictions; fiscal austerity in face of high public debt&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
 $3.187 trillion (2022 est.)<br>

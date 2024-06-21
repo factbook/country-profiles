@@ -363,7 +363,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Felix TSHISEKEDI (since 20 January 2024)<br>
-_head of government_: Prime Minister Judith Suminwa TULUKA (since 1 April 2024) note - TULUKA is the country's first female prime minister<br>
+_head of government_: Prime Minister Judith SUMINWA Tuluka (since 29 May 2024)<br>
 _cabinet_: Ministers of State appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority vote for a 5-year term (eligible for a second term); election last held on 20 December 2023 (next to be held on 20 December 2028); prime minister appointed by the president<br>
 _election results_: <em>2023: </em>Felix TSHISEKEDI reelected president; percent of vote - Felix TSHISEKEDI (UDPS) 73.3%, Moise KATUMBI (Ensemble) 18.8%, Martin FAYULU (ECIDE) 5.3%, other 2.6%<br><em><br>2018:</em> Felix TSHISEKEDI elected president; percent of vote - Felix TSHISEKEDI (UDPS) 38.6%, Martin FAYULU (Lamuka coalition) 34.8%, Emmanuel Ramazani SHADARY (PPRD) 23.9%, other 2.7%; note - election marred by serious voting irregularities<br>

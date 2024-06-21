@@ -277,7 +277,7 @@ _subordinate courts_: first instance courts, appeals court; specialized courts<b
 Korsou di Nos Tur or KdnT [Amparo dos SANTOS]<br>Korsou Esun Miho or KEM [Michelangelo MARTINES]<br>Movementu Futuro Korsou or MFK [<u>Gilmar PISAS</u>]<br>Movementu Progresivo or MP [Marylin MOSES]<br>Movishon Antia Nobo or MAN [Hensley KOEIMAN]<br>Partido Antia Restruktura or PAR [Eugene RHUGGENAATH]<br>Partido Inovashon Nashonal or PIN [Suzanne CAMELIA-ROMER]<br>Partido Nashonal di Pueblo or PNP [<u>Ruthmilda LARMONIE-CECILIA</u>]<br>Pueblo Soberano or PS <u>[Ben WHITEMAN]</u> <br>Trabou pa Kòrsou or TPK [Rennox CALMES] <br>Un Korsou Hustu [Omayra LEEFLANG]<br>
 
 **International organization participation**<br>
-<p>Caricom (observer), FATF, ILO, ITU, UNESCO (associate), UPU</p><br>
+<p>ACS (associate), Caricom (observer), FATF, ILO, ITU, UNESCO (associate), UPU</p><br>
 
 **Diplomatic representation in the US**<br>
 none (represented by the Kingdom of the Netherlands)<br>
@@ -448,11 +448,11 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 53,095 (2021 est.)<br>
+_total subscriptions_: 53,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 28 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 170,000 (2021 est.)<br>
+_total subscriptions_: 168,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 88 (2021 est.)<br>
 
 **Telecommunication systems**<br>

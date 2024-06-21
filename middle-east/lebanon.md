@@ -327,11 +327,11 @@ _residency requirement for naturalization_: unknown<br>
 _chief of state_: president (vacant)<br>
 _head of government_: Caretaker Prime Minister Najib MIQATI (since 20 September 2021)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president and Parliament<br>
-_elections/appointments_: president indirectly elected by Parliament with two-thirds majority vote in the first round and if needed absolute majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016; prime minister appointed by the president in consultation with Parliament; deputy prime minister determined during cabinet formation<br>
+_elections/appointments_: president indirectly elected by Parliament with two-thirds majority vote in the first round and if needed absolute majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016; prime minister appointed by the president in consultation with Parliament<br>
 _election results_: <br><em>2023:</em> on 14 June 2023, Parliament failed in its twelfth attempt to elect a president; note - the Hezbollah bloc withdrew following the first round of voting and a second round was not possible since Parliament lacked the required 86-member quorum for a second round of voting<br><em><br>2016:</em> Michel AWN elected president in second round; Parliament vote - Michel AWN (FPM) 83; the president was finally elected in its 46th attempt on 31 October 2016<br>
 
 **Legislative branch**<br>
-_description_: unicameral Lebanese Parliament or Majlis al-Nuwab in Arabic, Chambre des d&eacute;put&eacute;s in French (128 seats; members directly elected in multi-member constituencies by open list proportional representation vote, apportioned evenly between Christian and Muslims; members serve 4-year terms)<br>
+_description_: unicameral House of Representatives or Majlis al-Nuwab in Arabic, Chambre des d&eacute;put&eacute;s in French (128 seats; members directly elected in multi-member constituencies by open list proportional representation vote, apportioned evenly between Christian and Muslims; members serve 4-year terms)<br>
 _elections_: last held on 15 May 2022 (next to be held in May 2026)<br>
 _election results_: percent of vote by party/coalition &ndash; NA; seats by party/coalition &ndash; FPM 16, LF 14, Amal Movement 13, Hezbollah 13, PSP 9, Kata&rsquo;ib Party 4, other 30, independent 29; composition - men 120, women 8, percentage women 6.3%; note - a dozen of the elected deputies are from groups pushing for reform with origins in the recent protest movements against the established elite and have formed a group called the "Forces of Change"<br>
 <strong>note:</strong> Lebanon’s constitution states the Lebanese Parliament cannot conduct regular business until it elects a president when the position is vacant<br>
@@ -348,7 +348,7 @@ _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized tr
 ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Wael HACHEM, Counselor (since 15 March 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Wa&euml;l HACHEM, Counselor (since 15 March 2021)<br>
 _chancery_: 2560 28th Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-6300<br>
 _FAX_: [1] (202) 939-6324<br>

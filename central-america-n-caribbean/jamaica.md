@@ -335,16 +335,15 @@ _subordinate courts_: resident magistrate courts, district courts, and petty ses
 <p>Jamaica Labor Party or JLP [Andrew Michael HOLNESS]<br>Jamaica Progressive Party or JPP [Gilbert Alexander EDWARDS]<br>People's National Party or PNP [Mark GOLDING]<br>United Independents' Congress or UIC [Joseph L. PATTERSON]</p><br>
 
 **International organization participation**<br>
-ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Audrey Patrice MARKS (since 18 January 2017)<br>
 _chancery_: 1520 New Hampshire Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 452-0660<br>
 _FAX_: [1] (202) 452-0036<br>
-_email address and website_: <br>contactus@jamaicaembassy.org<br><br>https://www.embassyofjamaica.org/<br>
+_email address and website_: <br>contactus@jamaicaembassy.org<br><br>Jamaican Embassy (embassyofjamaica.org)<br>
 _consulate(s) general_: Miami, New York<br>
-_consulate(s)_: Atlanta, Boston, Chicago, Concord (MA), Houston, Los Angeles, Philadelphia, Richmond (VA), San Francisco, Seattle<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador N. Nickolas PERRY (since 13 May 2022)<br>
@@ -659,11 +658,11 @@ Jamaica Defense Force (JDF): Jamaica Regiment (Ground Forces), Maritime-Air-Cybe
 <strong>note 1:</strong> the JCF is the country’s police force; it has primary responsibility for internal security and has units for community policing, special response, intelligence gathering, and internal affairs; both it and the JDF are under the Ministry of National Security <br><strong><br>note 2: </strong>the JNSC is a third category of service that military recruits can join as a preparatory phase for future careers; JNSC soldiers receive basic military, vocational, and life skills training; upon completion of 12 months of service, soldiers can continue on with the JDF or the JDF reserves or seek opportunities in other public sector entities such as the JCF, the Department of Correctional Services, the Jamaica Fire Brigade, the Jamaica Customs Agency, or the Passport Immigration and Citizenship Agency<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2023 est.)<br>
 1.3% of GDP (2022 est.)<br>
 1.4% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
 1.6% of GDP (2019 est.)<br>
-1.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 5,000 personnel (2023)<br>

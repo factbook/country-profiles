@@ -364,9 +364,6 @@ _expenditures_: $77.9 million (2010)<br>
 **Budget surplus (+) or deficit (-)**<br>
 3% (of GDP) (2010 est.)<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Exports**<br>
 $31.4 million (2021 est.)<br>
 $3.125 million (2011 est.)<br>

@@ -339,8 +339,8 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Adama BARROW (since 19 January 2022); Vice President Muhammed B.S. JALLOW (24 February 2023; note - the president is both chief of state and head of government<br>
-_head of government_: President Adama BARROW (since 19 January 2022); Vice President Muhammed B.S. JALLOW (24 February 2023)<br>
+_chief of state_: President Adama BARROW (since 19 January 2022)<br>
+_head of government_: Vice President Mohammed JALLOW (since 23 February 2024)&nbsp;&nbsp;<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 4 December 2021 (next to be held in 2026); vice president appointed by the president<br>
 _election results_: <em><br>2021: </em>Adama BARROW reelected president; percent of vote - Adama BARROW (NPP) 53.2%, Ousainou DARBOE (UDP) 27.7%, Mamma KANDEH (GDC) 12.3%, other 6.8%<br><br><em>2016: </em>Adama BARROW elected president; percent of vote - Adama BARROW (Coalition 2016) 43.3%, Yahya JAMMEH (APRC) 39.6%, Mamma KANDEH (GDC) 17.1%<br>

@@ -320,14 +320,14 @@ _residency requirement for naturalization_: unknown<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Mohamed MUIZZU (since 17 November 2023); Vice President-elect Hussain Mohamed LATHEEF (since 30 September 2023); the president is both chief of state and head of government<br>
-_head of government_: President Mohamed MUIZZU (since 17 November 2023); Vice President-elect Hussain Mohamed LATHEEF (since 30 September 2023)<br>
+_chief of state_: President Mohamed MUIZZU (since 17 November 2023)<br>
+_head of government_: President Mohamed MUIZZU (since 17 November 2023)<br>
 _cabinet_: Cabinet of Ministers appointed by the president, approved by Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); first round held on 9 September 2023 and runoff held on 30 September 2023 (next to be held in 2028)<br>
 _election results_: <em><br>2023:</em> Mohamed MUIZZU elected president in the second round; percent of vote in first round - Mohamed MUIZZU (PNC) 46.1%, Ibrahim Mohamed SOLIH (MDP) 39.1%, Ilyas LABEEB (DEMS) 7.1%, other 7.7%; percent of vote in the second round - Mohamed MUIZZU 54%, Ibrahim Mohamed SOLIH 46%<br><br><em>2018</em>: Ibrahim Mohamed SOLIH elected president in first round; Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or People's Majlis (93 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_description_: unicameral People's Assembly or People's Majlis (93 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: last held on 21 April 2024 (next to be held in 2029)<br>
 _election results_: percent of vote by party - NA; seats by party - PNC 66, MDP 12, MDA 2, JP 1, MNP 1, independent 11; composition - men 90, women 3, percent of women 3.3%<br>
 
@@ -343,11 +343,10 @@ _subordinate courts_: High Court; Criminal, Civil, Family, Juvenile, and Drug Co
 ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: <p>Maldives has no embassy in the US, but its Permanent Representative to the UN in New York, Abdul GHAFOOR Mohamed (since 12 December 2022), is accredited to the US and serves as ambassador</p><br>
-_chancery_: 801 Second Avenue, Suite 201, New York, NY 10017<br>
-_telephone_: [1] (212) 599-6194<br>
-_FAX_: [1] (212) 661-6405<br>
-_email address and website_: <br>info@maldivesmission.com<br><br>http://www.maldivesmission.com/<br>
+_chief of mission_: <p>Ambassador Abdul GHAFOOR Mohamed (since 15 June 2023)</p><br>
+_chancery_: 1100 H Street NW, Suite 250, Washington, D.C. 20005<br>
+_telephone_: [1] (202) 516-5458<br>
+_email address and website_: <br>WashingtonInfo@foreign.gov.mv<br><br>The Embassy (mdvmission.gov.mv)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Hugo Yue-Ho YON (since 6 September 2023); note - Ambassador YON is the first resident US ambassador to the Republic of Maldives<br>
@@ -592,12 +591,12 @@ _Total energy consumption per capita 2019_: 59.69 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 13,376 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2021 est.)<br>
+_total subscriptions_: 13,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 706,043 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 135 (2021 est.)<br>
+_total subscriptions_: 715,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 137 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: with its economy so heavily dependent on tourism, the Maldives has suffered heavy economic as well as health casualties during the pandemic; the country had a relatively short period of lock down and was willing to welcome visitors back as early as July 2020; but the effective shutdown of international air travel for most of the year resulted in the bottom falling out of the Maldives&rsquo; tourism industry, taking GDP down 32% in the process; the economy fared better in 2021, with a return to growth, yet it may still be a few years before the country&rsquo;s key industries can return to the same level of prosperity that they previously enjoyed; the country&rsquo;s high number of tourists and expatriate workers has inflated the penetration rate for mobile services, making it one of the highest in the world; that rate crashed in 2020 as demand for SIM cards (primarily prepaid) dried up; however, the number of contract subscribers increased as locals took advantage of competitive pricing offers from operators; with commercial 5G services already launched and fiber networks rapidly expanding around the country, the Maldives is primed to deliver world-class telecommunications services to its domestic and international customers (2021)<br>

@@ -360,7 +360,7 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2019:</em> Mohamed Ould Cheikh El GHAZOUANI elected president in first round; percent of vote - Mahamed Ould Cheikh El GHAZOUANI (UPR) 52%, Biram Dah Ould ABEID (independent) 18.6%, Sidi Mohamed Ould BOUBACAR (independent) 17.9%, other 11.5%<br><br><em>2014:</em> Mohamed Ould Abdel AZIZ elected president in first round; percent of vote - Mohamed Ould Abdel AZIZ (UPR) 81.9%, Biram Dah ABEID (IRA) 8.7%, Boidiel Ould HOUMEIT (El Wiam) 4.5%, Ibrahima Moctar SARR (SJD/MR) 4.4%, other 0.5%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Barlamane consists of the National Assembly or Al Jamiya Al Wataniya (176 seats statutory; 88 members filled from one or two seat constituencies elected by a two-round majority system and the other 88 members filled from a single, nationwide constituency directly elected by proportional representation vote); 20 seats are reserved for women candidates in the nationwide constituency, 11 seats are reserved for young candidates (aged between 25 and 35), and 4 members directly elected by the diaspora; all members serve 5-year terms<br>
+_description_: bicameral Parliament or Barlamane consists of: <br>the National Assembly or Al Jamiya Al Wataniya (176 seats statutory; 88 members filled from one or two seat constituencies elected by a two-round majority system and the other 88 members filled from a single, nationwide constituency directly elected by proportional representation vote); 20 seats are reserved for women candidates in the nationwide constituency, 11 seats are reserved for young candidates (aged between 25 and 35), and 4 members directly elected by the diaspora; all members serve 5-year terms<br>the Senate or Majlis al-Shuyukh (56 seats, 53 members elected for a six-year term by municipal councilors, with one third renewed every two years)<br>
 _elections_: last held on 13 May 2023 with a second round on 27 May 2023 (next to be held in May 2028)<br>
 _election results_: National Assembly - percent of vote by party - NA; seats by party - El Insaf 107, Tawassoul 11, UDP 10, FRUD 7, El Islah 6, AND 6, El Karama 5, Nida Al-Watan 5, Sawab 5, AJD/MR 4, HIWAR 3, HATEM 3, El Vadila 2, UPC 1, Hakam 1; composition- men 135, women 41, percentage women 23.3%<br>
 <strong>note:</strong> the early parliamentary elections in 2023 were the first to be held under President Mohamed Ould Cheikh El GHAZOUANI, elected in 2019 in the first peaceful transition of power; the elections followed the agreement between the government and parties in September 2022 to renew the Independent National Electoral Commission (CENI) and hold the elections in the first semester of 2023 for climatic and logistical reasons<br>
@@ -377,11 +377,11 @@ Alliance for Justice and Democracy/Movement for Renewal or AJD/MR [Ibrahima Moct
 ABEDA, ACP, AfDB, AFESD, AIIB, AMF, AMU, AU, CAEU, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador BOIDE Cisse (since 15 September 2021)<br>
+_chief of mission_: Ambassador Ciss&eacute; Mint Cheikh Ould BOIDE (since 15 September 2021)<br>
 _chancery_: 2129 Leroy Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 232-5700<br>
 _FAX_: [1] (202) 319-2623<br>
-_email address and website_: <br>ambarimwash@gmail.com; ambarimwashington@diplomatie.gov.mr<br><br>mauritaniaembassyus.org – Mauritania Embassy washington<br>
+_email address and website_: <br>ambarimwashington@diplomatie.gov.mr<br><br>mauritaniaembassyus.org – Mauritania Embassy washington<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Cynthia KIERSCHT (since 27 January 2021)<br>

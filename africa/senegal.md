@@ -378,9 +378,9 @@ ACP, AfDB, AU, CD, CPLP (associate), ECOWAS, EITI (candidate country), FAO, FZ, 
 _chief of mission_: Ambassador Mansour Elimane KANE (since 6 January 2020)<br>
 _chancery_: 2215 M ST NW, Washington, D.C. 20037<br>
 _telephone_: [1] (202) 234-0540<br>
-_FAX_: [1] (202) 332-6315; [1] (202) 629-2961<br>
+_FAX_: [1] (202) 629-2961<br>
 _email address and website_: <br>contact@ambasenegal-us.org<br><br>http://www.ambasenegal-us.org/index.php<br>
-_consulate(s) general_: Houston, New York<br>
+_consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Michael RAYNOR (since 10 March 2022); note - also accredited to Guinea-Bissau<br>

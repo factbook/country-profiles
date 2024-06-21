@@ -315,10 +315,10 @@ _residency requirement for naturalization_: 30 years<br>
 limited; note - rulers of the seven emirates each select a proportion of voters for the Federal National Council (FNC) that together account for about 12 percent of Emirati citizens<br>
 
 **Executive branch**<br>
-_chief of state_: President MUHAMMAD BIN ZAYID Al Nuhayyan (since 14 May 2022); Co-Vice President MUHAMMAD BIN RASHID Al Maktum (since 5 January 2006); Co-Vice President MANSUR bin Zayid Al Nuhayyan (since 29 March 2023); Crown Prince KHALID bin Muhammad Al Nuhayyan, the eldest son of the monarch, born 14 November 1982; note - MUHAMMAD BIN ZAYID Al Nuhayyan elected president by the Federal Supreme Council following the death of President KHALIFA bin Zayid Al nNuhayyan on 13 May 2022<br>
-_head of government_: Prime Minister and Co-Vice President MUHAMMAD BIN RASHID Al Maktum (since 5 January 2006); Deputy Prime Ministers SAIF bin Zayid Al Nuhayyan, MANSUR bin Zayid Al Nuhayyan (both since 11 May 2009) and MAKTUM bin Muhammad bin Rashid Al Maktum (since 25 September 2021)<br>
+_chief of state_: President MUHAMMAD BIN ZAYID Al Nuhayyan (since 14 May 2022)<br>
+_head of government_: Prime Minister (since 5 January 2006)<br>
 _cabinet_: Council of Ministers announced by the prime minister and approved by the president<br>
-_elections/appointments_: president and vice president indirectly elected by the Federal Supreme Council - composed of the rulers of the 7 emirates - for a 5-year term (no term limits); unscheduled election held on 14 May 2022, following the death of President KHALIFA bin Zayid Al-Nuhayyan (next election expected in 2027); prime minister and deputy prime minister appointed by the president<br>
+_elections/appointments_: president and vice president indirectly elected by the Federal Supreme Council - composed of the rulers of the 7 emirates - for a 5-year term (no term limits); unscheduled election held on 14 May 2022, following the death of President KHALIFA bin Zayid Al-Nuhayyan (next election expected in 2027); prime minister appointed by the president<br>
 _election results_: <em>2022:</em> MUHAMMAD BIN ZAYID Al-Nuhayyan elected president; Federal Supreme Council vote - NA<br>
 <strong>note:</strong> the Federal Supreme Council (FSC) is composed of the 7 emirate rulers and is the highest constitutional authority in the UAE; the FSC establishes general policies and sanctions federal legislation; meets 4 times a year; Abu Zaby (Abu Dhabi) and Dubayy (Dubai) rulers have effective veto power<br>
 
@@ -339,12 +339,12 @@ none; political parties are banned; all candidates run as independents<br>
 ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, BRICS, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OIF (observer), OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Yousif Mana Saeed Ahmed AL OTAIBA (since 28 July 2008)<br>
+_chief of mission_: Ambassador Yousif AL OTAIBA (since 28 July 2008)<br>
 _chancery_: 3522 International Court NW, Suite 400, Washington, DC 20008<br>
 _telephone_: [1] (202) 243-2400<br>
 _FAX_: [1] (202) 243-2408<br>
 _email address and website_: <br>info@uaeembassy-usa.org<br><br>https://www.uae-embassy.org/<br>
-_consulate(s) general_: Boston, Los Angeles, New York<br>
+_consulate(s) general_: Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Martina A. STRONG (since 4 October 2023)<br>
@@ -670,7 +670,7 @@ _key ports_: Abu Zaby, Jabal Az Zannah/Ruways, Khawr Fakkan, Mina Jabal Ali, Zir
 ## Military and Security
 
 **Military and security forces**<br>
-United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presidential Guard (includes special operations forces)<br><br>Ministry of Interior: Coast Guard Forces, Critical Infrastructure and Coastal Patrol Agency (CICPA) (2023)<br>
+United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presidential Guard (includes special operations forces)<br><br>Ministry of Interior: Coast Guard Forces, Critical Infrastructure and Coastal Patrol Agency (CICPA) (2024)<br>
 <strong>note:</strong> each emirate maintains a local police force called a general directorate, which is officially a branch of the federal Ministry of Interior; all emirate-level general directorates of police enforce their respective emirate’s laws autonomously; they also enforce federal laws within their emirate in coordination with one another under the federal ministry; the State Security Directorate (SSD) in Abu Dhabi and Dubai State Security (DSS) have primary responsible for counterterrorism law enforcement efforts; local, emirate-level police forces, especially the Abu Dhabi Police and Dubai Police, are the first responders in such cases and provide technical assistance to SSD and DSS<br>
 
 **Military expenditures**<br>

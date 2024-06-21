@@ -209,9 +209,6 @@ tourism, light industry, ready mixed concrete<br>
 _revenues_: $4.6 million (FY99/00)<br>
 _expenditures_: $4.8 million (FY99/00)<br>
 
-**Fiscal year**<br>
-1 July - 30 June<br>
-
 **Exports - partners**<br>
 India 16%, Belgium 14%, US 14%, Malaysia 13%, Singapore 10% (2022)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>

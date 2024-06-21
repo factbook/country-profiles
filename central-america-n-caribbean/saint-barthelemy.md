@@ -220,7 +220,7 @@ _election results_: Territorial Council - percent of vote by party in first roun
 All for Saint Barth (Tous pour Saint-Barth) [Bettina COINTRE]<br>Saint Barth Action Equilibre [Marie-Hélène BERNIER]<br>Saint Barth First! (Saint-Barth d'Abord!) or SBA [Romaric MAGRAS] (affiliated with France's Republican party, Les Republicans)<br>Saint Barth United (Unis pour Saint-Barthelemy) [Xavier LEDEE]<br>
 
 **International organization participation**<br>
-UPU<br>
+ACS (associate), UPU<br>
 
 **Diplomatic representation in the US**<br>
 none (overseas collectivity of France)<br>

@@ -362,7 +362,7 @@ _chancery_: 2900 K Street NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 467-2600<br>
 _FAX_: [1] (202) 467-2699<br>
 _email address and website_: <br>ambassaden.washington@gov.se<br><br>https://www.swedenabroad.se/en/embassies/usa-washington/<br>
-_consulate(s) general_: New York<br>
+_consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Erik D. RAMANATHAN (since 20 January 2022)<br>
@@ -390,7 +390,7 @@ _selected World Heritage Site locales_: Royal Domain of Drottningholm (c); Lapon
 ## Economy
 
 **Economic overview**<br>
-high-income, knowledge-based economy; EU member but non-euro user (refuses to peg krona to euro); large welfare state that complements its free-market capitalism; high living standards, environmental protections, income and gender equality; rebounding well from COVID-19 disruptions<br>
+high-income, knowledge-based economy; EU member but non-euro user (refuses to peg krona to euro); large welfare state that complements its free-market capitalism; high living standards, environmental protections, income and gender equality<br>
 
 **Real GDP (purchasing power parity)**<br>
 $580.099 billion (2022 est.)<br>

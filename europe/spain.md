@@ -93,7 +93,7 @@ Spanish 84.8%, Moroccan 1.7%, Romanian 1.2%, other 12.3% (2021 est.)<br>
 <strong>note:</strong> data represent population by country of birth<br>
 
 **Languages**<br>
-Castilian Spanish (official nationwide) 74%, Catalan (official in Catalonia, the Balearic Islands, and the Valencian Community (where it is known as Valencian)) 17%, Galician (official in Galicia) 7%, Basque (official in the Basque Country and in the Basque-speaking area of Navarre) 2%, Aranese (official in the northwest corner of Catalonia (Vall d'Aran) along with Catalan, &lt;5,000 speakers); note - Aragonese, Aranese Asturian, Basque, Calo, Catalan, Galician, and Valencian are recognized as regional languages under the European Charter for Regional or Minority Languages<br>
+Castilian Spanish (official nationwide) 74%, Catalan (official in Catalonia, the Balearic Islands, and the Valencian Community) 17%, Galician (official in Galicia) 7%, Basque (official in the Basque Country and Navarre) 2%, Aranese (official in part of Catalonia) &lt;5,000 speakers; note - Aragonese, Aranese Asturian, Basque, Calo, Catalan, Galician, and Valencian are recognized as regional languages under the European Charter for Regional or Minority Languages<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -396,7 +396,7 @@ _selected World Heritage Site locales_: Cave of Altamira and Paleolithic Cave Ar
 ## Economy
 
 **Economic overview**<br>
-high-income core EU economy; diversified trade portfolio; continental tourism locale; high government spending and debt; prone to political financing corruption; negatively impacted by COVID-19; important port and customs infrastructure; key clothing/footwear supplier<br>
+high-income core EU and eurozone economy; strong growth driven by public consumption, tourism, and other service exports; tight labor market despite high structural unemployment; government debt remains high amid deficit reductions; innovation and economic freedom ranked lower than EU and OECD peers<br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.922 trillion (2022 est.)<br>

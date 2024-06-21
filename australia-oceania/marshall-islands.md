@@ -307,7 +307,7 @@ _elections/appointments_: president indirectly elected by the Nitijela from amon
 _election results_: <em>2023: </em>Hilda C. HEINE elected president; National Parliament vote - Hilda C. HEINE (independent) 17, David KABUA (independent) 16<br><br><em>2020: </em>David KABUA elected president; National Parliament vote - David KABUA (independent) 20, Hilda C. HEINE (independent) 12<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Parliament consists of:<br>Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms); note - the Council of Iroij, a 12-member group of tribal leaders advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice); members appointed to serve 1-year terms<br>
+_description_: unicameral National Parliament or Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms); note - the Council of Iroij, a 12-member group of tribal leaders advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice); members appointed to serve 1-year terms<br>
 _elections_: last held on 20 November 2023 (next to be held in November 2027)<br>
 _election results_: percent of vote by party - NA; seats by part - independent 33; composition - men 29, women 4, percent of women 12.1%<br>
 
@@ -514,7 +514,7 @@ _electrification - rural areas_: 92% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,361 (2014 est.)<br>
+_total subscriptions_: 2,000 (2014 est.)<br>
 _subscriptions per 100 inhabitants_: 5 (2014 est.)<br>
 
 **Telephones - mobile cellular**<br>

@@ -289,8 +289,8 @@ ADB (Chinese Taipei), APEC (Chinese Taipei), BCIE, CABEI, IOC, ITUC (NGOs), SICA
 note - separate customs territory of Taiwan, Penghu, Kinmen, and Matsu<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none; commercial and cultural relations with its citizens in the US are maintained through an unofficial instrumentality, the Taipei Economic and Cultural Representative Office in the United States (TECRO), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts, represented by HSIAO Bi-khim (since 20 July 2020); office: 4201 Wisconsin Avenue NW, Washington, DC 20016; telephone: [1] (202) 895-1800; fax: [1] (202) 363-0999<br>
-_Taipei Economic and Cultural Offices (branch offices)_: Atlanta, Boston, Chicago, Denver (CO), Houston, Honolulu, Los Angeles, Miami, New York, San Francisco, Seattle<br>
+_chief of mission_: none; commercial and cultural relations with its citizens in the US are maintained through an unofficial instrumentality, the Taipei Economic and Cultural Representative Office in the United States (TECRO), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts, represented by Ambassador Alexander YUI (since 11 December 2023); office: 4201 Wisconsin Avenue NW, Washington, DC 20016; telephone: [1] (202) 895-1800; fax: [1] (202) 363-0999<br>
+_Taipei Economic and Cultural Offices (branch offices)_: Atlanta, Boston, Chicago, Denver (CO), Hagatna (Guam), Honolulu, Houston, Los Angeles, Miami, New York, San Francisco, Seattle<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: the US does not have an embassy in Taiwan; commercial and cultural relations with the people of Taiwan are maintained through an unofficial instrumentality, the American Institute in Taiwan (AIT), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts; it is managed by Director Sandra OUDKIRK (since July 2021)<br>

@@ -297,9 +297,6 @@ _expenditures_: $75.3 million (FY09/10)<br>
 **Public debt**<br>
 0% of GDP (2015 est.)<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Exports**<br>
 $257.3 million (2015 est.)<br>
 

@@ -366,12 +366,13 @@ Christian Democratic People's Party or KDNP [Zsolt SEMJEN]<br>Democratic Coaliti
 Australia Group, BIS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA (cooperating state), EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Szabolcs Ferenc TAKACS (since 23 December 2020)<br>
+_chief of mission_: Ambassador Szabolcs Ferenc TAK&Aacute;CS (since 23 December 2020)<br>
 _chancery_: 1500 Rhode Island Avenue, N.W.<br>Washington, D.C. 20005<br>
 _telephone_: [1] (202) 362-6730<br>
 _FAX_: [1] (202) 966-8135<br>
 _email address and website_: <br>info.was@mfa.gov.hu<br><br>https://washington.mfa.gov.hu/eng<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
+_consulate(s)_: Houston, Miami<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador David PRESSMAN (since 14 September 2022)<br>

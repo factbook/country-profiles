@@ -326,10 +326,10 @@ _residency requirement for naturalization_: 2 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Joseph BOAKAI (since 22 January 2024); Vice President Jeremiah KUONG (since 22 January 2024); note - the president is both chief of state and head of government<br>
-_head of government_: President Joseph BOAKAI (since 22 January 2024); Vice President Jeremiah KUONG (since 22 January 2024)<br>
+_chief of state_: President Joseph BOAKAI (since 22 January 2024)&nbsp;<br>
+_head of government_: President Joseph BOAKAI (since 22 January 2024)<br>
 _cabinet_: Cabinet appointed by the president, confirmed by the Senate<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 10 October 2023 with a runoff on 14 November 2023 (next to be held in October 2029)<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 10 October 2023 with a runoff on 14 November 2023 (next to be held in October 2029) note - the president is both chief of state and head of government<br>
 _election results_: <em>2023:</em> Joseph BOAKAI elected president in second round; percent of vote in first round - George WEAH (CDC) 43.8%, Joseph BOAKAI (UP) 43.4%, Edward APPLETON (GDM) 2.2%, Lusinee KAMARA (ALCOP) 2%, Alexander B. CUMMINGS, Jr. (CPP) 1.6%, Tiawan Saye GONGLOE (LPP) 1.4%, other 5.6%; percentage of vote in second round - Joseph BOAKAI 50.6%, George WEAH 49.4%<br>
 
 **Legislative branch**<br>

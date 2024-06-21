@@ -694,11 +694,11 @@ Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chi
 <strong>note:</strong> the National Police Force (Carabineros de Chile) are responsible to both the Ministry of Defense and the Ministry of the Interior and Public Security<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2023 est.)<br>
 1.6% of GDP (2022 est.)<br>
 2% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
 1.9% of GDP (2019 est.)<br>
-1.9% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 80,000 active armed forces personnel (45,000 Army; 25,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2023)<br>

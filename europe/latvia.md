@@ -349,7 +349,7 @@ Development/For! or AP! [Daniels PAVLUTS, Ivars IJABS]<br>For Stability or S! [A
 Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Maris SELGA (since 16 September 2019)<br>
+_chief of mission_: Ambassador Māris SELGA (since 16 September 2019)<br>
 _chancery_: 2306 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 328-2840<br>
 _FAX_: [1] (202) 328-2860<br>
@@ -381,7 +381,7 @@ _selected World Heritage Site locales_: Historic Center of Riga; Struve Geodetic
 ## Economy
 
 **Economic overview**<br>
-high-income, EU-member Baltic economy; export-driven; Russian invasion of Ukraine has caused a temporary labor force surge and impacted growth due to Russian trade reliance; highly developed transit services<br>
+high-income EU and eurozone member; economic contraction triggered by export decline and energy shocks; recovery driven by easing inflation, wage growth, and investments supported by EU funds; challenges from skilled labor shortages, capital market access, large informal sector, and green and digital transitions&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
 $62.005 billion (2022 est.)<br>

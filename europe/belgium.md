@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Belgium became independent from the Netherlands in 1830; it was occupied by Germany during World Wars I and II. The country has since prospered as a modern, technologically advanced European state and member of NATO and the EU. In recent years, longstanding tensions between the Dutch-speaking Flemish of the north and the French-speaking Walloons of the south have led to constitutional amendments granting these regions formal recognition and autonomy. The capital city of Brussels is home to numerous international organizations, including the EU and NATO.</p><br>
+<p>Belgium became independent from the Netherlands in 1830; it was occupied by Germany during World Wars I and II. The country prospered as a modern, technologically advanced European state and member of NATO and the EU. In recent years, longstanding tensions between the Dutch-speaking Flemish of the north and the French-speaking Walloons of the south have led to constitutional amendments granting these regions formal recognition and autonomy. The capital city of Brussels is home to numerous international organizations, including the EU and NATO.</p><br>
 
 ## Geography
 
@@ -331,14 +331,14 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King PHILIPPE (since 21 July 2013); Heir Apparent Princess ELISABETH (daughter of the monarch, born 25 October 2001)<br>
-_head of government_: Prime Minister Alexander DE CROO (since 1 October 2020); Deputy Prime Ministers Paul Van TIGCHELT (since 22 October 2023), Vincent VAN PETEGHEM, Frank VANDENBROUCKE, Pierre-Yves DERMAGNE, Petra DE SUTTER, Georges GILKINET (all since 1 October 2020), David CLARINVAL (since 15 July 2022)<br>
+_head of government_: Prime Minister Alexander DE CROO (since 1 October 2020); note - He resigned on 9 June 2024 following the parliamentary elections and is serving as prime minister in a caretaker status until a new prime minister is named<br>
 _cabinet_: Council of Ministers formally appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary and constitutional; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch and approved by Parliament<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms)<br>Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: Senate - last held 26 May 2019 (next to be held on 9 June 2024) <br>Chamber of Representatives - last held on 26 May 2019 (next to be held on 9 June 2024); note - elections coincided with the EU parliamentary elections<br>
-_election results_: Senate - percent of vote by party - N-VA 15%, VB 12%, PS 12%, MR 12%, CD&amp;V 8.3%, Open VLD 8.3%, Ecolo 15%, SP.A 6.7%, CDH 3.3%, PVDA-PTB 8.3%; seats by party - N-VA 9, VB 7, PS 7, MR 7, CD&amp;V 5, Open VLD 5, Ecolo 9, SP.A 4, CDH 2, PVDA-PTB 5; composition - men 34, women 26, percent percentage women 43.3%<br><br>Chamber of Representatives - percent of vote by party - N-VA 16.7%, VB 12%, PS 13.3%, CD&amp;V 8%, PVDA-PTB 8%, Open VLD 8%, MR 9.3%, SP.A 6%, Ecolo 8.7%, Green 5.3%, CDH 3.3%, Defi 1.3%; seats by party - N-VA 25, VB 18, PS 20, CD&amp;V 12, PVDA+PTB 12, Open VLD 12, MR 14, SP.A 9, Ecolo 13, Green 8, CDH 5, Defi 2; composition - men 86, women 64, percentage women 42.7%; total Parliament percentage women 42.9%<br>
+_elections_: Senate - last held 4 July 2019 (next to be held on 24 July 2024) <br>Chamber of Representatives - last held on 9 June 2024 (next to be held on 30 June 2029); note - elections coincided with the EU parliamentary elections<br>
+_election results_: Senate - percent of vote by party - N-VA 15%, VB 12%, PS 12%, MR 12%, CD&amp;V 8.3%, Open VLD 8.3%, Ecolo 15%, SP.A 6.7%, CDH 3.3%, PVDA-PTB 8.3%; seats by party - N-VA 9, VB 7, PS 7, MR 7, CD&amp;V 5, Open VLD 5, Ecolo 9, SP.A 4, CDH 2, PVDA-PTB 5; composition - men 34, women 26, percent percentage women 43.3%<br><br>Chamber of Representatives - percent of vote by party - N-VA 16.7%, VB 13.5%, MR 10.3%, PVDA-PTB 9.9%, Vooruit 8.1%, PS 8%, CD&amp;V 8%, Les Engages 6.8%, Open VLD 5.5%, Green 4.7%, Ecolo 3%, Defi 1%; seats by party - N-VA 24, VB 20, MR 20, PS 16, PVDA+PTB 15, Les Engages 14, Vooruit 13, CD&amp;V 11, Open VLD 7,Green 6, Ecolo 3, Defi 1; composition - men 86, women 64, percentage women 42.7%; total Parliament percentage women 42.9%<br>
 <strong>note:</strong> the 1993 constitutional revision that further devolved Belgium into a federal state created three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; this reality leaves six governments, each with its own legislative assembly; changes above occurred since the sixth state reform<br>
 
 **Judicial branch**<br>
@@ -386,7 +386,7 @@ _selected World Heritage Site locales_: Belfries of Belgium (c); Historic Brugge
 ## Economy
 
 **Economic overview**<br>
-high income economy with strong but moderate growth; high public debt; aging labor force; low labor force participation of low-skilled, migrant, and older workers; strong welfare system; high congestion; complex business permitting and judicial systems<br>
+high-income, core EU and eurozone economy; slow but steady growth supported by household consumption and energy shock recovery; high public debt and structural deficits linked to social spending; aging workforce with weak productivity growth and participation rates<br>
 
 **Real GDP (purchasing power parity)**<br>
 $622.704 billion (2022 est.)<br>
@@ -745,5 +745,5 @@ _refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq
 _stateless persons_: 1,190 (2022)<br>
 
 **Illicit drugs**<br>
-<p>a transit point for precursor chemicals from China and India destined for clandestine synthetic drug laboratories in the Netherlands and to some labs in Belgium; a primary entry point for cocaine into Europe; one of the top methamphetamine producers in Europe;  a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
+<p>a transit point for precursor chemicals from China and India destined for clandestine synthetic drug laboratories in the Netherlands and to some labs in Belgium; a primary entry point for cocaine into Europe; one of the top methamphetamine producers in Europe; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
 

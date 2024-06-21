@@ -395,7 +395,7 @@ _selected World Heritage Site locales_: Old City of Berne (c); Swiss Alps Jungfr
 ## Economy
 
 **Economic overview**<br>
-high-income, non-EU European economy; renowned banking and financial hub; extremely low unemployment; highly skilled but aging workforce; key pharmaceutical and precision manufacturing exporter; fairly high public debt<br>
+high-income, non-EU European economy; top ten in GDP per capita; renowned banking and financial hub; low unemployment and inflation; slowed GDP growth post-pandemic; highly skilled but aging workforce; key pharmaceutical and precision manufacturing exporter; leader in innovation and competitiveness indices<br>
 
 **Real GDP (purchasing power parity)**<br>
 $634.296 billion (2022 est.)<br>

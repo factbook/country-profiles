@@ -203,9 +203,6 @@ copra products, tourism<br>
 _revenues_: NA<br>
 _expenditures_: NA<br>
 
-**Fiscal year**<br>
-1 July - 30 June<br>
-
 **Exports - partners**<br>
 US 45%, UK 12%, France 7%, Canada 6%, Poland 5% (2022)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>

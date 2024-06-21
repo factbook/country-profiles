@@ -347,7 +347,7 @@ _residency requirement for naturalization_: na<br>
 
 **Executive branch**<br>
 _chief of state_: President Col. Mamady DOUMBOUYA (since 1 October 2021); note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government and People's National Assembly dissolved; on 1 October 2021, DOUMBOUYA was sworn in as transitional president<br>
-_head of government_: Prime Minister Mamadou Oury BAH (since 29 February 2024); note - on 19 February 2024, Guinea's military leaders dissolved the government of Prime Minister Bernard GOUMOU; on 27 February 2024, Guinea's military leaders appointed Mamadou Oury BAH as prime minister<br>
+_head of government_: Prime Minister Mamadou Oury BAH (since 27 February 2024)<br>
 _cabinet_: formerly the Council of Ministers appointed by the president; note - on 5 September 2021, the military arrested and detained the president, suspended the constitution, and dissolved the government and legislature<br>
 _elections/appointments_: formerly, the president was directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term) and the prime minister appointed by the president; election last held on 18 October 2020; note - a new election timetable has not been announced by the transitional government<br>
 _election results_: <em>2020: </em>Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%<br>
@@ -693,7 +693,7 @@ _key ports_: Benti, Conakry, Kamsar, Victoria<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National (or Guinean) Armed Forces: Army, Guinean Navy (Armee de Mer or Marine Guineenne), Guinean Air Force (Force Aerienne de Guinee), Presidential Security Battalion (Battailon Autonome de la Sécurité Presidentielle, BASP), Gendarmerie (2023)<br>
+Guinean (or National) Armed Forces (Forces Armées Guinéennes): Army, Guinean Navy (Armee de Mer or Marine Guineenne), Guinean Air Force (Force Aerienne de Guinee), Presidential Security Battalion (Battailon Autonome de la Sécurité Presidentielle, BASP), Gendarmerie (2023)<br>
 <strong>note:</strong> the National Gendarmerie is overseen by the Ministry of Defense, while the National Police is under the Ministry of Security; the Gendarmerie and National Police share responsibility for internal security, but only the Gendarmerie can arrest police or military officials<br>
 
 **Military expenditures**<br>

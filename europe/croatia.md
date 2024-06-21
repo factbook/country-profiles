@@ -341,7 +341,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Zoran MILANOVIC (since 18 February 2020)<br>
-_head of government_: Prime Minister Andrej PLENKOVIC (since 19 October 2016); Deputy Prime Ministers Tomo MEDVED (since 23 July 2020), Davor BOZINOVIC (since 12 July 2019), Oleg BUTKOVIC (since 15 July 2022), Branko BACIC (since 17 January 2023), Anja SIMPRAG (since 29 April 2022)<br>
+_head of government_: Prime Minister Andrej PLENKOVIC (since 19 October 2016)<br>
 _cabinet_: Council of Ministers named by the prime minister and approved by the Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 22 December 2019 with a runoff on 5 January 2020 (next to be held in 2024); the leader of the majority party or majority coalition usually appointed prime minister by the president and approved by the Assembly<br>
 _election results_: <br><em>2019: </em>Zoran MILANOVIC elected president in second round; percent of vote in second round - Zoran MILANOVIC (SDP) 52.7%, Kolinda GRABAR-KITAROVIC (HDZ) 47.3%<br><br><em>2015:</em> Kolinda GRABAR-KITAROVIC elected president in second round; percent of vote in second round - Kolinda GRABAR-KITAROVIC (HDZ) 50.7%, Ivo JOSIPOVIC (Forward Croatia Progressive Alliance) 49.3%<br>

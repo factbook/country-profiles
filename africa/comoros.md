@@ -337,7 +337,7 @@ Convention for the Renewal of the Comoros or CRC [AZALI Assoumani]<br>Juwa Party
 ACP, AfDB, AMF, AOSIS, AU, CAEU (candidates), COMESA, FAO, FZ, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Issimail CHANFI (since 23 December 2020)<br>
+_chief of mission_: Ambassador Issimail CHANFI (since 23 December 2020); note - also Permanent Representative to the UN<br>
 _chancery_: Permanent Mission to the UN, 866 United Nations Plaza, Suite 495, New York, NY 10017<br>
 _telephone_: [1] (212) 750-1637<br>
 _FAX_: [1] (212) 750-1657<br>
@@ -641,7 +641,7 @@ _key ports_: Dzaoudzi, Fomboni, Moroni, Moutsamoudu<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Army for Development (l'Armee Nationale de Developpement, AND): Comoran Defense Force (Force Comorienne de Defense, FCD), includes Gendarmerie); Ministry of Interior: Coast Guard, Federal Police, National Directorate of Territorial Safety (2023)<br>
+National Army for Development (l'Armee Nationale de Developpement, AND): Comoran Defense Force (Force Comorienne de Defense or FCD; includes Comoran National Gendarmerie); Ministry of Interior: Coast Guard, Federal Police, National Directorate of Territorial Safety (2023)<br>
 <strong>note 1: </strong>when the Gendarmerie serves as the judicial police, it reports to the Minister of Justice; the Gendarmerie also has an intervention platoon that may act under the authority of the interior minister<br><br><strong>note 2:</strong> the National Directorate of Territorial Safety oversees customs and immigration<br><br><strong>note 3:</strong> the FCD is also known as the Comoran Security Force<br>
 
 **Military and security service personnel strengths**<br>
@@ -654,7 +654,7 @@ the defense forces are lightly armed with a mix of mostly older equipment origin
 18 years of age for 2-year voluntary military service for men and women; no conscription (2021)<br>
 
 **Military - note**<br>
-the security forces are limited in capabilities to performing search and rescue operations and maintaining internal security; a defense treaty with France provides naval resources for protection of territorial waters, training of Comoran military personnel, and air surveillance; France maintains a small maritime base and a Foreign Legion contingent on neighboring Mayotte (2023)<br>
+the focus for the security forces is search and rescue operations and maintaining internal security; a defense treaty with France provides naval resources for protection of territorial waters, training of Comoran military personnel, and air surveillance; France maintains a small maritime base and a Foreign Legion contingent on neighboring Mayotte (2023)<br>
 
 ## Transnational Issues
 

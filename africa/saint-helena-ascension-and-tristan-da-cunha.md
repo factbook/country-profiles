@@ -313,9 +313,6 @@ _revenues_: $8.427 million (FY06/07 est.)<br>
 _expenditures_: $20.7 million (FY06/07 est.)<br>
 <strong>note:</strong> revenue data reflect only locally raised revenues; the budget deficit is resolved by grant aid from the UK<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Exports - partners**<br>
 US 55%, Netherlands 17%, Singapore 10%, Japan 8%, Senegal 2% (2022)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>
@@ -462,7 +459,7 @@ _medium_: 1<br>
 _small_: 1<br>
 _very small_: 1<br>
 _ports with oil terminals_: 2<br>
-_key ports_: Edinburgh Of The Seven Seas, Georgetown, Jamestown, North Point<br>
+_key ports_: Edinburgh of the Seven Seas, Georgetown, Jamestown, North Point<br>
 
 **Transportation - note**<br>
 the new airport on Saint Helena opened for limited operations in July 2016, and the first commercial flight took place on 14 October 2017, marking the start of weekly air service between Saint Helena and South Africa via Namibia; the military airport on Ascension Island is closed to civilian traffic; there is no air connection to Tristan da Cunha and very limited sea connections making it one of the most isolated communities on the planet<br>

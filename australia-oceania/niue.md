@@ -275,9 +275,6 @@ _expenditures_: $16.33 million (FY04/05)<br>
 **Budget surplus (+) or deficit (-)**<br>
 -12.6% (of GDP) (FY04/05)<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Exports**<br>
 $5.68 million (2021 est.)<br>
 

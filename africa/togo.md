@@ -343,15 +343,15 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Faure GNASSINGBE (since 4 May 2005)<br>
-_head of government_: Prime Minister Victoire Tomegah DOGBE (since 28 September 2020) note: on 21 May 2024 Prime Minister DOGBE and her government resigned following the 29 April 2024 elections, but will remain to ensure the transition from a presidential system to a parliamentary system<br>
+_head of government_: Prime Minister Victoire TOMEGAH Dogb&eacute; (since 25 September 2020)&nbsp;<br>
 _cabinet_: Council of Ministers appointed by the president on the advice of the prime minister<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 22 February 2020 (next to be held in 2025); prime minister appointed by the president<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 22 February 2020 (next to be held in 2025); prime minister appointed by the president<br>note- on 21 May 2024 the Prime Minister and her cabinet resigned. The President requested they continue serving during the government transition.<br>
 _election results_: <br><em>2020:</em> Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 70.8%, Agbeyome KODJO (MPDD) 19.5%, Jean-Pierre FABRE (ANC) 4.7%, other 5%<br><br><em>2015:</em> Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 58.8%, Jean-Pierre FABRE (ANC) 35.2%, Tchaboure GOGUE (ADDI) 4%, other 2% <p> </p><br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (113 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms); party lists are required to contain equal numbers of men and women<br>
 _elections_: last held on 29 April 2024 (next election April 2029)<br>
-_election results_: percent of vote by party - NA; seats by party - UNIR 108, ADDI 2, ANC 1, DMP 1, FDR 1 composition - NA<br>
+_election results_: percent of vote by party - NA; seats by party - UNIR 108, ADDI 2, ANC 1, DMP 1, FDR 1 composition - men 92, women 21, percentage of women elected 18.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (organized into criminal and administrative chambers, each with a chamber president and advisors); Constitutional Court (consists of 9 judges, including the court president)<br>
@@ -365,7 +365,7 @@ Action Committee for Renewal or CAR [Dodji APEVON]<br>Alliance of Democrats for 
 ACP, AfDB, AIIB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Frederic Edem HEGBE (since 24 April 2017)<br>
+_chief of mission_: Ambassador Fr&eacute;d&eacute;ric Edem HEGBE (since 24 April 2017)<br>
 _chancery_: 2208 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 234-4212<br>
 _FAX_: [1] (202) 232-3190<br>

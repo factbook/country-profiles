@@ -344,7 +344,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Andrzej DUDA (since 6 August 2015)<br>
-_head of government_: Prime Minister Donald TUSK (since 11 December 2023); Deputy Prime Ministers Wladyslaw KOSINIAK-KAMYSZ, Krzysztof GAWKOWSKI (both since 11 December 2023)<br>
+_head of government_: Prime Minister Donald TUSK (since 11 December 2023)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president, and approved by the Sejm<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 June 2020 with a second round on 12 July 2020 (next to be held in 2025); prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm; all presidential candidates resign their party affiliation<br>
 _election results_: <br><em>2020:</em> Andrzej DUDA reelected president in second round; percent of vote - Andrzej DUDA (independent) 51%, Rafal TRZASKOWSKI (KO) 49%<br><em><br>2015:</em> Andrzej DUDA elected president in second round; percent of vote - Andrzej DUDA (independent) 51.5%, Bronislaw KOMOROWSKI (independent) 48.5% <p> </p><br>
@@ -370,7 +370,7 @@ Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, 
 _chief of mission_: Ambassador Marek Grzegorz  MAGIEROWSKI (since 13 January 2022)<br>
 _chancery_: 2640 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 499-1700<br>
-_FAX_: [1] (202) 328-2152; [1] (202) 328-6271<br>
+_FAX_: [1] (202) 328-2152<br>
 _email address and website_: <br>washington.amb.sekretariat@msz.gov.pl<br><br>https://www.gov.pl/web/usa-en/embassy-washington<br>
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 
@@ -402,7 +402,7 @@ _selected World Heritage Site locales_: Historic Krakow (c); Historic Warsaw (c)
 ## Economy
 
 **Economic overview**<br>
-diversified, high-growth European economy; COVID-19 led to first recession in nearly 3 decades, albeit small; EU and NATO member; bolstering US relations; economic concentration in western region; aging labor force; growing debt<br>
+high-income, diversified, EU-member economy; significant growth in GDP, trade, and investment since joining EU in 2004; rebounding from slowdown triggered by inflation and fall in consumer demand; strong foreign investment supported by EU structural funds; income tax reform and defense spending have added to public debt<br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.388 trillion (2022 est.)<br>

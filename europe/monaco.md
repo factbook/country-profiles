@@ -303,8 +303,8 @@ Monegasque National Union [Brigitte BOCCONE-PAGES] (includes Horizon Monaco, Pri
 CD, CE, FAO, IAEA, ICAO, ICC (national committees), ICRM, IFRCS, IHO, IMO, IMSO, Interpol, IOC, IPU, ITSO, ITU, OAS (observer), OIF, OPCW, OSCE, Schengen Convention (de facto member), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WHO, WIPO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Maguy MACCARIO-DOYLE (since 3 December 2013)<br>
-_chancery_: 888 17th Street NW, Washington, DC 20006<br>
+_chief of mission_: Ambassador Maguy MACCARIO&nbsp;DOYLE (since 3 December 2013)<br>
+_chancery_: 888 17th Street NW, Suite 500, Washington, DC 20006<br>
 _telephone_: [1] (202) 234-1530<br>
 _FAX_: [1] (202) 244-7656<br>
 _email address and website_: <br>info@monacodc.org<br><br>https://monacodc.org/index.html<br>

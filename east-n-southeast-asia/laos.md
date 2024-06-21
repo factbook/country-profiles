@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-Modern-day Laos has its roots in the ancient Lao kingdom of Lan Xang, established in the 14th century under King FA NGUM. For 300 years, Lan Xang had influence reaching into present-day Cambodia and Thailand, as well as over all of what is now Laos. After centuries of gradual decline, Laos came under the domination of Siam (Thailand) from the late 18th century until the late 19th century, when it became part of French Indochina. The Franco-Siamese Treaty of 1907 defined the current Lao border with Thailand. In 1975, the communist Pathet Lao took control of the government, ending a six-century-old monarchy and instituting a strict socialist regime closely aligned to Vietnam. A gradual, limited return to private enterprise and the liberalization of foreign investment laws began in 1988. Laos became a member of ASEAN in 1997 and the WTO in 2013.<br><br>In the 2010s, the country benefited from direct foreign investment, particularly in the natural resource and industry sectors. Construction of a number of large hydropower dams and expanding mining activities have also boosted the economy. Laos has retained its official commitment to communism and maintains close ties with its two communist neighbors, Vietnam and China, both of which continue to exert substantial political and economic influence on the country. China, for example, provided 70% of the funding for a $5.9 billion, 400-km railway line between the Chinese border and the capital Vientiane, which opened for operations in 2021. Laos financed the remaining 30% with loans from China. At the same time, Laos has expanded its economic reliance on the West and other Asian countries, such as Japan, Malaysia, Singapore, Taiwan, and Thailand. In 2023, Lao households faced the highest inflation in almost a quarter-century, with year-on-year inflation reaching 40% early in the year.<br>
+Modern-day Laos has its roots in the ancient Lao kingdom of Lan Xang, established in the 14th century under King FA NGUM. For 300 years, Lan Xang had influence reaching into present-day Cambodia and Thailand, as well as over all of what is now Laos. After centuries of gradual decline, Laos came under the domination of Siam (Thailand) from the late 18th century until the late 19th century, when it became part of French Indochina. The Franco-Siamese Treaty of 1907 defined the current Lao border with Thailand. Following more than 15 years of civil war, the communist Pathet Lao took control of the government in 1975, ending a six-century-old monarchy and instituting a one party--the Lao People's Revolutionary Party--communist state. A gradual, limited return to private enterprise and the liberalization of foreign investment laws began in the late 1980s. Laos became a member of ASEAN in 1997 and the WTO in 2013.<br><br>In the 2010s, the country benefited from direct foreign investment, particularly in the natural resource and industry sectors. Construction of a number of large hydropower dams and expanding mining activities have also boosted the economy. Laos has retained its official commitment to communism and maintains close ties with its two communist neighbors, Vietnam and China, both of which continue to exert substantial political and economic influence on the country. China, for example, provided 70% of the funding for a $5.9 billion, 400-km railway line between the Chinese border and the capital Vientiane, which opened for operations in 2021. Laos financed the remaining 30% with loans from China. At the same time, Laos has expanded its economic reliance on the West and other Asian countries, such as Japan, Malaysia, Singapore, Taiwan, and Thailand. Nevertheless, despite steady economic growth for more than a decade, it remains one of Asia's poorest countries.<br>
 
 ## Geography
 
@@ -337,7 +337,7 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President THONGLOUN Sisoulith (since 22 March 2021); Vice Presidents PANY Yathotou and BOUNTHONG Chitmany (since 22 March 2021)<br>
+_chief of state_: President THONGLOUN Sisoulith (since 22 March 2021)<br>
 _head of government_: Prime Minister SONEXAY Siphandon (since 30 December 2022)<br>
 _cabinet_: Council of Ministers appointed by the president and approved by the National Assembly<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (no term limits); election last held on 22 March 2021 (next to be held in March 2026); prime minister nominated by the president, elected by the National Assembly for a 5-year term<br>
@@ -366,7 +366,6 @@ _chancery_: 2222 S Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-6416<br>
 _FAX_: [1] (202) 332-4923<br>
 _email address and website_: <br>embasslao@gmail.com<br><br>https://laoembassy.com/<br>
-_consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Michelle OUTLAW (since August 2023)<br>

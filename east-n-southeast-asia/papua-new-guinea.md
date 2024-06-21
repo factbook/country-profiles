@@ -683,11 +683,11 @@ _key ports_: Kavieng Harbor, Kieta, Port Moresby, Rabaul, Vanimo, Wewak Harbor<b
 Papua New Guinea Defense Force (PNGDF): Land Element, Maritime Element, Air Element<br><br>Ministry of Internal Security: Royal Papua New Guinea Constabulary (RPNGC) (2024)<br>
 
 **Military expenditures**<br>
+0.3% of GDP (2023 est.)<br>
 0.3% of GDP (2022 est.)<br>
 0.4% of GDP (2021 est.)<br>
 0.4% of GDP (2020 est.)<br>
 0.3% of GDP (2019 est.)<br>
-0.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,500 active-duty PNGDF troops (2023)<br>

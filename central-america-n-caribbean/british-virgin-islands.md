@@ -280,7 +280,7 @@ _subordinate courts_: Magistrates' Courts<br>
 National Democratic Party or NDP [Marlon PENN]<br>Progressive Virgin Islands Movement or PVIM [Ronnie SKELTON]<br>Progressives United or PU [Julian FRASER]<br>Virgin Islands Party or VIP [Natalio WHEATLEY]<br>
 
 **International organization participation**<br>
-Caricom (associate), CDB, Interpol (subbureau), IOC, OECS, UNESCO (associate), UPU<br>
+ACS (associate), Caricom (associate), CDB, Interpol (subbureau), IOC, OECS, UNESCO (associate), UPU<br>
 
 **Diplomatic representation in the US**<br>
 none (overseas territory of the UK)<br>

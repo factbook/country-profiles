@@ -339,10 +339,10 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King LETSIE III (since 7 February 1996); note - King LETSIE III formerly occupied the throne from November 1990 to February 1995 while his father was in exile<br>
+_chief of state_: King LETSIE III (since 7 February 1996)<br>
 _head of government_: Prime Minister Ntsokoane Samuel MATEKANE (28 October 2022)<br>
-_cabinet_: consists of the prime minister, appointed by the King on the advice of the Council of State, the deputy prime minister, and 18 other ministers; the prime minister is the leader of the majority party or majority coalition in the National Assembly&nbsp;<br>
-_elections/appointments_: the monarchy is hereditary, but under the terms of the constitution that came into effect after the March 1993 election, the monarch is a "living symbol of national unity" with no executive or legislative powers; under traditional law, the College of Chiefs has the power to depose the monarch, to determine next in line of succession, or to serve as regent in the event that a successor is not of mature age<br>
+_cabinet_: consists of the prime minister, appointed by the King on the advice of the Council of State, the deputy prime minister, and 18 other ministers; the prime minister is the leader of the majority party or majority coalition in the National Assembly<br>
+_elections/appointments_: the monarchy is hereditary, but under the terms of the constitution that came into effect after the March 1993 election, the monarch is a "living symbol of national unity" with no executive or legislative powers; under traditional law, the College of Chiefs has the power to depose the monarch, to determine next in line of succession, or to serve as regent in the event that a successor is not of mature age<br>note - King LETSIE III formerly occupied the throne from November 1990 to February 1995 while his father was in exile<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (33 seats; 22 principal chiefs and 11 other senators nominated by the king with the advice of the Council of State, a 13-member body of key government and non-government officials; members serve 5-year terms)<br>National Assembly (120 seats; 80 members directly elected in single-seat constituencies by simple majority vote and 40 elected through proportional representation; members serve 5-year terms)<br>
@@ -365,7 +365,7 @@ _chief of mission_: Ambassador Tumisang MOSOTHO (since 16 September 2022)<br>
 _chancery_: 2511 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 797-5533<br>
 _FAX_: [1] (202) 234-6815<br>
-_email address and website_: lesothoembassy@verizon.net<br><br>https://www.gov.ls/<br>
+_email address and website_: <br>lesothoembassy@verizon.net<br><br>https://www.gov.ls/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Maria E. BREWER (since 10 March 2022)<br>
@@ -663,7 +663,7 @@ _unpaved_: 5,107 km (2022)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Lesotho Defense Force (LDF): Army (includes Air Wing)  (2023)<br>
+Lesotho Defense Force (LDF): Army (includes Air Wing) (2024)<br>
 <strong>note:</strong> the Lesotho Mounted Police Service is responsible for internal security and reports to the Minister of Local Government, Chieftainship, Home Affairs and Police<br>
 
 **Military expenditures**<br>
@@ -680,10 +680,10 @@ approximately 2,000 personnel (2023)<br>
 the LDF has a small inventory of older and second-hand equipment from a variety of countries (2023)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary military service for both men and women (women can serve in combat arms); no conscription (2023)<br>
+18-30 years of age for voluntary military service for both men and women (women can serve in combat arms); no conscription (2024)<br>
 
 **Military - note**<br>
-Lesotho's declared policy for its military is the maintenance of the country's sovereignty and the preservation of internal security; in practice, external security is guaranteed by South Africa; the LDF is a small force comprised of about a half dozen infantry companies; it began in 1964 as the Police Mobile Unit (PMU); the PMU was designated as the Lesotho Paramilitary Force in 1980 and became the Royal Lesotho Defense Force in 1986; it was renamed the Lesotho Defense Force in 1993 (2023)<br>
+Lesotho's declared policy for its military is the maintenance of the country's sovereignty and the preservation of internal security; in practice, external security is guaranteed by South Africa; the LDF is a small force comprised of about a half dozen infantry companies; it began in 1964 as the Police Mobile Unit (PMU); the PMU was designated as the Lesotho Paramilitary Force in 1980 and became the Royal Lesotho Defense Force in 1986; it was renamed the Lesotho Defense Force in 1993 (2024)<br>
 
 ## Transnational Issues
 

@@ -353,16 +353,15 @@ _subordinate courts_: courts of appeal; courts of first instance; justices of th
 Anti-Corruption Party or PAC [Marlene ALVARENGA] <br>Christian Democratic Party or DC [Carlos PORTILLO] <br>Democratic Liberation of Honduras or Liderh [Lempira VIANA]<br>Democratic Unification Party or UD [Alfonso DIAZ Narvaez] <br>The Front or El Frente [Kelin PEREZ]<br>Honduran Patriotic Alliance or AP [Romeo VASQUEZ Velasquez] <br>Innovation and Unity Party or PINU [Guillermo VALLE]<br>Liberal Party or PL [Yani Benjamin ROSENTHAL Hidalgo] <br>Liberty and Refoundation Party or LIBRE [Jose Manuel ZELAYA Rosales]<br>National Party of Honduras or PNH [Juan Nasry ASFURA] <br>New Route or NR [Esdras Amado LOPEZ] <br>Opposition Alliance against the Dictatorship or Alianza de Oposicion contra la Dictadura [Salvador NASRALLA] (electoral coalition)<br>Savior Party of Honduras or PSH [Salvador Alejandro Cesar NASRALLA Salum]<br>Vamos or Let’s Go [Jose COTO]<br>We Are All Honduras (Todos Somos Honduras) or TSH [Marlon Oniel ESCOTO Valerio]<br>
 
 **International organization participation**<br>
-BCIE, CACM, CD, CELAC, EITI (candidate country), FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC (suspended), IOM, IPU, ISO (subscriber), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINURSO, MINUSTAH, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNHRC, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO (suspended), WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACS, BCIE, CACM, CD, CELAC, EITI (candidate country), FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC (suspended), IOM, IPU, ISO (subscriber), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINURSO, MINUSTAH, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNHRC, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO (suspended), WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Javier Efrain BU SOTO (since 12 December 2022)<br>
 _chancery_: 1220 19th Street NW, Suite #320, Washington, DC 20036<br>
 _telephone_: [1] (202) 966-7702<br>
 _FAX_: [1] (202) 966-9751<br>
-_email address and website_: <br>https://hondurasembusa.org/<br>
-_consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco<br>
-_consulate(s)_: Dallas, McAllen (TX)<br>
+_email address and website_: <br>info@wadchn.com<br><br>https://hondurasembusa.org/<br>
+_consulate(s) general_: Atlanta, Boston, Charlotte (NC), Chicago, Dallas, Houston, Los Angeles, McAllen (TX), Miami, New Orleans, New York, San Francisco, Seattle<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Laura F. DOGU (since 12 April 2022)<br>

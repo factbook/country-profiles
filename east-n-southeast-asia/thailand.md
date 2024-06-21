@@ -360,7 +360,7 @@ _elections/appointments_: the monarchy is hereditary; prime minister candidate a
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Ratthasapha consists of:<br>Senate or Wuthisapha (currently 250 seats; members appointed by the National Council for Peace and Order to serve 5-year terms; the Senate appointed in 2024 will consist of 200 members elected from various groups of professionals for a 5-year term)<br>House of Representatives or Saphaphuthan Ratsadon (500 seats; 400 members directly elected in single-seat constituencies by simple majority vote and 100 members elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: Senate - last selections held on 14 May 2019 (next to be held in 2024)<br>House of Representatives - last held on 14 May 2023 (next to be held in May 2027)<br>
+_elections_: Senate - last selections held on 14 May 2019 (next to be held in June 2024)<br>House of Representatives - last held on 14 May 2023 (next to be held in May 2027)<br>
 _election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 223, women 26, percentage women 10.4%<br><br>House of Representatives - percent of vote by party - MFP 36.2%, PTP 27.7%, UTN 11.9%, PJT 2.9%, DP 2.3%, PPRP 1.4%, PCC 1.5%, other 16%; seats by party - MFP 152, PTP 141, PJT 71, PPRP 41, UTN 36, DP 24, PCC 9, CTP 10, Thai Sang Thai 6, other 11; composition - 403 men, 97 women, percentage women 19.4%; total National Assembly percentage women 16.4%<br>
 
 **Judicial branch**<br>
@@ -375,11 +375,11 @@ Action Coalition Party or ACP [ANEK Laothammathast]<br>Bhumjaithai Party (aka Ph
 ADB, APEC, ARF, ASEAN, BIMSTEC, BIS, CD, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE (partner), PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMOGIP, UNOOSA, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador TANEE Sangrat (since 12 December 2022)<br>
+_chief of mission_: Appointed Ambassador Dr. Suriya CHINDAWONGSE (since June 2024)<br>
 _chancery_: 1024 Wisconsin Avenue NW, Suite 401, Washington, DC 20007<br>
 _telephone_: [1] (202) 944-3600<br>
 _FAX_: [1] (202) 944-3611<br>
-_email address and website_: <br>thai.wsn@thaiembdc.org<br><br>https://thaiembdc.org<br>
+_email address and website_: <br>thai.wsn@thaiembdc.org<br><br>https://washingtondc.thaiembassy.org/en/index<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>

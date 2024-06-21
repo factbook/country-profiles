@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-A Malay trading port known as Temasek existed on the island of Singapore by the 14th century. The settlement changed hands several times in the ensuing centuries and was eventually burned in the 17th century, falling into obscurity. In 1819, the British founded modern Singapore as a trading colony on the same site. It joined the Malaysian Federation in 1963 but was ousted two years later and became independent. Singapore subsequently became one of the world's most prosperous countries, with strong international trading links and per capita GDP among the highest globally.<br>
+A Malay trading port known as Temasek existed on the island of Singapore by the 14th century. The settlement changed hands several times in the ensuing centuries and was eventually burned in the 17th century, falling into obscurity. In 1819, the British founded modern Singapore as a trading colony on the same site and granted it full internal self-government for all matters except defense and foreign affairs in 1959.&nbsp; Singapore joined the Malaysian Federation in 1963 but was ousted two years later and became independent. Singapore subsequently became one of the world's most prosperous countries, with strong international trading links and per capita GDP among the highest globally. The People&rsquo;s Action Party has won every general election in Singapore since the end of the British colonial era, aided by its success in delivering consistent economic growth, as well as the city-state's fragmented opposition and electoral procedures that strongly favor the ruling party.&nbsp;<br>
 
 ## Geography
 
@@ -327,12 +327,12 @@ _chief of state_: President THARMAN Shanmugaratnam (since 14 September 2023)<br>
 _head of government_: Prime Minister Lawrence WONG (since 15 May 2024)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister; Cabinet responsible to Parliament<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 1 September 2023 (next to be held in 2029); following legislative elections, the leader of the majority party or majority coalition appointed prime minister by the president; deputy prime ministers appointed by the president<br>
-_election results_: <em>2023: </em>THARMAN Shanmugaratnam elected president; percent of vote - THARMAN Shanmugaratnam (independent) 70.4%, NG Kok Song (independent) 15.7%, TAN Kin Lian (independent) 13.9%<br><em><br>2017</em>: HALIMAH Yacob declared president on 13 September 2017, being the only eligible candidate<br><br><em>2011</em>: Tony TAN Keng Yam elected president; percent of vote - Tony TAN Keng Yam (independent) 35.2%, TAN Cheng Bock (independent) 34.9%, TAN Jee Say (independent) 25%, TAN Kin Lian (independent) 4.9%<br>
+_election results_: <em>2023: </em>THARMAN Shanmugaratnam elected president; percent of vote - THARMAN Shanmugaratnam (independent) 70.4%, NG Kok Song (independent) 15.7%, TAN Kin Lian (independent) 13.9%<br><em><br>2017</em>: HALIMAH Yacob declared president on 13 September 2017, being the only eligible candidate<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (104 seats statutory, 103 current term; 93 members directly elected by simple majority popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members increased to 12 for the 2020 election for the first time<br>
+_description_: unicameral Parliament (104 seats statutory, 103 current; 93 members directly elected by simple majority popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members increased to 12 for the 2020 election for the first time<br>
 _elections_: last held on 10 July 2020 (next must be held by 24 November 2025)<br>
-_election results_: <br>percent of vote by party - PAP 89.2%, WP 10.6%, other 0.2%; seats by party - PAP 83, WP 10; composition - men 70, women 29, percentage women 29.3%<br>
+_election results_: percent of vote by party - PAP 89.2%, WP 10.6%, other 0.2%; seats by party - PAP 83, WP 10; composition - men 70, women 29, percentage women 29.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (although the number of judges varies - as of April 2019,&nbsp;the court&nbsp;totaled 20 judges, 7 judicial commissioners, 4 judges of appeal, and 16 international judges); the court is organized into an upper tier Appeal Court and a lower tier High Court<br>
@@ -350,7 +350,7 @@ ADB, AOSIS, APEC, Arctic Council (observer), ARF, ASEAN, BIS, C, CP, EAS, FAO, F
 _chief of mission_: Ambassador LUI Tuck Yew (since 30 June 2023)<br>
 _chancery_: 3501 International Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 537-3100<br>
-_FAX_: [1] (202) 537-7086<br>
+_FAX_: [1] (202) 537-0876<br>
 _email address and website_: <br>singemb_was@mfa.sg<br><br>https://www.mfa.gov.sg/washington/<br>
 _consulate(s) general_: San Francisco<br>
 _consulate(s)_: New York<br>

@@ -325,10 +325,10 @@ _residency requirement for naturalization_: not specified<br>
 21 years of age and at least 20-year citizenship<br>
 
 **Executive branch**<br>
-_chief of state_: Amir Sheikh MISHAL al-Ahmad al-Sabah (since 16 December 2023); he succeeded his brother, Amir Sheikh NAWAF al-Ahmad al-Jabir al-Sabah following his death on 16 December 2023<br>
-_head of government_: Prime Minister Sheikh MOHAMMAD Sabah Al Salim Al Sabah (since 4 January 2024); First Deputy Prime Minister and Minister of Interior Sheikh TALAL al-Khalid Al-Ahmad Al-Sabah (since 16 October 2022); Deputy Prime Minister and Minister of State for Cabinet Affairs Khalid al-FADIL (since 9 April 2022); Deputy Prime Minister and Minister of Oil Bader Hamed Yusef Al-Mula (since 16 October 2022)<br>
+_chief of state_: Amir Sheikh MISHAL al-Ahmad al-Sabah (since 16 December 2023)<br>
+_head of government_: Prime Minister AHMAD al-Abdullah al Sabah (since 15 May 2024)<br>
 _cabinet_: Council of Ministers appointed by the prime minister, approved by the amir<br>
-_elections/appointments_: amir chosen from within the ruling family, confirmed by the National Assembly; prime minister and deputy prime ministers appointed by the amir; crown prince appointed by the amir and approved by the National Assembly<br>
+_elections/appointments_: amir chosen from within the ruling family, confirmed by the National Assembly; prime minister appointed by the amir<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Majlis al-Umma (65 seats; 50 members directly elected from 5 multi-seat constituencies by simple majority vote and 15 ex-officio members (cabinet ministers)&nbsp;appointed by the amir; members serve 4-year terms)<br>
@@ -348,11 +348,11 @@ none; the government does not recognize any political parties or allow their for
 ABEDA, AfDB (nonregional member), AFESD, AMF, BDEAC, CAEU, CD, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, Paris Club (associate), PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNRWA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Alzain Sabah Naser Saud ALSABAH (since 19 April 2023)<br>
-_chancery_: 2940 Tilden Street NW, Washington, DC 20008 (po)<br>
+_chief of mission_: Ambassador AL-ZAIN Sabah Naser Saud Al-Sabah (since 19 April 2023)<br>
+_chancery_: 2940 Tilden Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 966-0702<br>
 _FAX_: [1] (202) 966-8468<br>
-_email address and website_: <br>consulate@kuwaitembassy.us<br><br>https://www.kuwaitembassy.us/<br>
+_email address and website_: <br>info@kuwaitembassy.us<br><br>https://www.kuwaitembassy.us/<br>
 _consulate(s) general_: Beverly Hills (CA), New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -659,8 +659,8 @@ _key ports_: Al Kuwayt, Doha Harbor, Mina Abd Allah, Mina Al Ahmadi, Mina Ash Sh
 ## Military and Security
 
 **Military and security forces**<br>
-Kuwaiti Armed Forces (KAF): Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwaiti Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Authority; Kuwaiti National Guard (KNG) (2023)<br>
-<strong>note 1:</strong> the Emiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services; the 25th Commando Brigade is Kuwait's leading special forces unit; the Emiri Guard Authority (aka Emiri Guard Brigade) is responsible for protecting Kuwait's heads of state<br><br><strong>note 2:</strong> the Kuwaiti National Guard reports directly to the prime minister and the amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior; it is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required<br><br><strong>note 3:</strong> the police, Kuwait State Security, and Coast Guard are under the Ministry of Interior<br>
+Kuwait Armed Forces (KAF): Kuwait Land Forces (KLF), Kuwait Navy, Kuwait Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwait Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Authority; Kuwait National Guard (KNG) (2024)<br>
+<strong>note 1:</strong> the Emiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the KAF, although activities such as training and equipment procurement are often coordinated with the other services; the 25th Commando Brigade is Kuwait's leading special forces unit; the Emiri Guard Authority (aka Emiri Guard Brigade) is responsible for protecting Kuwait's heads of state<br><br><strong>note 2:</strong> the National Guard reports directly to the prime minister and the amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior; it is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required<br><br><strong>note 3:</strong> the police, Kuwait State Security, and Coast Guard are under the Ministry of Interior<br>
 
 **Military expenditures**<br>
 4.5% of GDP (2022 est.)<br>

@@ -321,7 +321,7 @@ _subordinate courts_: magistrates' courts<br>
 Concerned Citizens Movement or CCM [Mark BRANTLEY]<br>Nevis Reformation Party or NRP [Dr. Janice DANIEL-HODGE]<br>People's Action Movement or PAM [Shawn K. RICHARDS]<br>People's Labour Party or PLP [Dr. Timothy HARRIS]<br>Saint Kitts and Nevis Labor Party or SKNLP [Dr. Terrance DREW]<br>
 
 **International organization participation**<br>
-ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, MIGA, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>
+ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, MIGA, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jacinth HENRY-MARTIN (since 15 September 2023)<br>

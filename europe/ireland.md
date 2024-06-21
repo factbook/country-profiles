@@ -348,7 +348,7 @@ _chancery_: 2234 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 462-3939<br>
 _FAX_: [1] (202) 232-5993<br>
 _email address and website_: <br>https://www.dfa.ie/irish-embassy/usa/<br>
-_consulate(s) general_: Atlanta, Austin (TX), Boston, Chicago, New York, San Francisco<br>
+_consulate(s) general_: Atlanta, Austin (TX), Boston, Chicago, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Claire D. CRONIN (since 10 February 2022)<br>

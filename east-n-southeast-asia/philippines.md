@@ -345,8 +345,8 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Ferdinand "BongBong" MARCOS, Jr. (since 30 June 2022); Vice President Sara DUTERTE-Carpio (since 30 June 2022); note - the president is both chief of state and head of government<br>
-_head of government_: President Ferdinand "BongBong" MARCOS, Jr. (since 30 June 2022); Vice President Sara DUTERTE-Carpio (since 30 June 2022)<br>
+_chief of state_: President Ferdinand "BongBong" MARCOS, Jr. (since 30 June 2022); note - the president is both chief of state and head of government<br>
+_head of government_: President Ferdinand "BongBong" MARCOS, Jr. (since 30 June 2022)<br>
 _cabinet_: Cabinet appointed by the president with the consent of the Commission of Appointments, an independent body of 25 Congressional members including the Senate president (ex officio chairman), appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on separate ballots by simple majority popular vote for a single 6-year term; election last held on 9 May 2022 (next to be held on 9 May 2028)<br>
 _election results_: <em><br>2022: </em>Ferdinand MARCOS, Jr. elected president; percent of vote - Ferdinand MARCOS, Jr. (PFP) 58.7%, Leni ROBREDO (independent) 27.9%, Manny PACQUIAO (PROMDI) 6.8%, other 6.6%; Sara DUTERTE-Carpio elected vice president; percent of vote Sara DUTERTE-Carpio (Lakas-CMD) 61.5%, Francis PANGILINAN (LP) 17.8%, Tito SOTTO 15.8%, other 4.9%<br><br><em>2016: </em>Rodrigo DUTERTE elected president; percent of vote - Rodrigo DUTERTE (PDP-Laban) 39%, Manuel "Mar" ROXAS (LP) 23.5%, Grace POE (independent) 21.4%, Jejomar BINAY (UNA) 12.7%, Miriam Defensor SANTIAGO (PRP) 3.4%; Leni ROBREDO elected vice president; percent of vote Leni ROBREDO (LP) 35.1%, Bongbong MARCOS (independent) 34.5%, Alan CAYETANO 14.4%, Francis ESCUDERO (independent) 12%, other 4%<br>
@@ -372,7 +372,7 @@ _chief of mission_: Ambassador Jose Manuel del Gallego ROMUALDEZ (since 29 Novem
 _chancery_: 1600 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 467-9300<br>
 _FAX_: [1] (202) 328-7614<br>
-_email address and website_: <br>info@phembassy-us.org; consular@phembassy-us.org<br><br>The Embassy of the Republic of the Philippines in Washington D.C. (philippineembassy-dc.org)<br>
+_email address and website_: <br>info@phembassy-us.org<br><br>The Embassy of the Republic of the Philippines in Washington D.C. (philippineembassy-dc.org)<br>
 _consulate(s) general_: Chicago, Honolulu, Houston, Los Angeles, New York, San Francisco, Tamuning (Guam)<br>
 
 **Diplomatic representation from the US**<br>
@@ -712,7 +712,7 @@ _key ports_: Batangas City, Cagayan de Oro, Cebu, Manila, San Fernando Harbor, S
 
 **Military and security forces**<br>
 Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air Force<br><br>Department of Transportation: Philippine Coast Guard (PCG)<br><br>Department of the Interior: Philippine National Police Force (PNP) (2024)<br>
-<strong>note 1:</strong> the PCG is an armed and uniformed service that would be attached to the AFP during a conflict<br><br><strong>note 2: </strong>the Philippine Government also arms and supports civilian militias; the AFP controls Civilian Armed Force Geographical Units, while the Civilian Volunteer Organizations fall under PNP command<br>
+<strong>note 1:</strong> the PCG is an armed and uniformed service that would be attached to the AFP during a conflict<br><br><strong>note 2: </strong>the Philippine Government also arms and supports civilian militias; the AFP controls the Civilian Armed Force Geographical Units, while the Civilian Volunteer Organizations fall under PNP command<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2023 est.)<br>

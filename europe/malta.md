@@ -342,10 +342,10 @@ Australia Group, C, CD, CE, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Godfrey C. XUEREB (since 19 April 2023)<br>
-_chancery_: 2017 Connecticut Avenue NW, Washington, DC 20008; note - The Embassy of Malta has relocated until further notice to the following address due to ongoing refurbishment:<br><br>C/O WeWork Flr 2<br>1333 New Hampshire Ave NW<br>Washington DC, 20036<br>
-_telephone_: [1] (202) 462-3611; note - The Embassy of Malta has relocated until further notice due to ongoing refurbishment and can be reached at the following number:&nbsp; [1] (202) 286-4610<br>
-_FAX_: [1] (202) 387-5470; note - The Embassy of Malta has relocated until further notice due to ongoing refurbishment and can be reached by FAX at the following number: &nbsp;[1] (202) 530-9753​<br>
-_email address and website_: <br>maltaembassy.washington@gov.mt<br><br>https://foreignandeu.gov.mt/en/Embassies/ME_United_States/Pages/ME_United_States.aspx<br>
+_chancery_: 2017 Connecticut Avenue NW, Washington, DC 20008<br>
+_telephone_: [1] (771) 213-4050<br>
+_FAX_: [1] (202) 530-9753​<br>
+_email address and website_: <br>maltaembassy.washington@gov.mt<br><br>The Embassy (gov.mt)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Constance J. MILSTEIN (since October 27, 2022)<br>
@@ -598,12 +598,12 @@ _Total energy consumption per capita 2019_: 267.739 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 259,120 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 49 (2021 est.)<br>
+_total subscriptions_: 259,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 49 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 644,955 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 122 (2021 est.)<br>
+_total subscriptions_: 702,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 132 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Malta&rsquo;s small telecom sector is among the most advanced in Europe; this has been helped by the topography, which has made it relatively easy for operators to expand the reach of their fiber infrastructure; with high mobile and broadband penetration rates, the government and regulator have effective strategies in place to capitalize on these infrastructure developments to ensure that the population has among the fastest data rates in Europe, and is well positioned to take advantage of emerging e-commerce opportunities; the sector has also been stimulated by regulatory measures designed to reduce consumer prices; the incumbent telco is investing in a sub sea cable to connect the islands to France and Egypt; expected to be ready for service in 2022, the cable will further enhance Malta&rsquo;s internet bandwidth and lead to reduced prices for end-users; there has also been some encouragement to increase market competition (2021)<br>

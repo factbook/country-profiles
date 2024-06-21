@@ -89,11 +89,11 @@ Macedonian 58.4%, Albanian 24.3%, Turkish 3.9%, Romani 2.5%, Serb 1.3%, other 2.
 <strong>note:</strong> data represent total resident population; Romani populations are usually underestimated in official statistics and may represent 6.5–13% of North Macedonia’s population<br>
 
 **Languages**<br>
-Macedonian (official) 61.4%, Albanian (official) 24.3%, Turkish 3.4%, Romani 1.7%, other (includes Aromanian (Vlach) and Bosnian) 2%, persons for whom data were taken from administrative sources and no language data was available 7.2% (2021 est.); note - data represent mother tongue; minority languages are co-official with Macedonian in municipalities where they are spoken by at least 20% of the population; Albanian is co-official in Tetovo, Brvenica, Vrapciste, and other municipalities; Turkish is co-official in Centar Zupa and Plasnica; Romani is co-official in Suto Orizari; Aromanian is co-official in Krusevo; Serbian is co-official in Cucer Sandevo<br>
+Macedonian (official) 61.4%, Albanian (official) 24.3%, Turkish 3.4%, Romani 1.7%, other (includes Aromanian (Vlach) and Bosnian) 2%, unspecified 7.2% (2021 est.); note - data represent mother tongue; minority languages are co-official with Macedonian in municipalities where they are spoken by at least 20% of the population; Albanian is co-official in Tetovo, Brvenica, Vrapciste, and other municipalities; Turkish is co-official in Centar Zupa and Plasnica; Romani is co-official in Suto Orizari; Aromanian is co-official in Krusevo; Serbian is co-official in Cucer Sandevo<br>
 _major-language sample(s)_: <br>Книга на Светски Факти, неопходен извор на основни информации. (Macedonian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Macedonian Orthodox 46.1%, Muslim 32.2%, other Christian 13.8%, other and non-believers 0.5%, unspecified 0.2%, persons for whom data were taken from administrative sources and no religious affiliation data was available 7.2% (2021 est.)<br>
+Macedonian Orthodox 46.1%, Muslim 32.2%, other Christian 13.8%, other and non-believers 0.5%, unspecified 7.4% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 16% (male 176,423/female 164,945)<br>
@@ -324,16 +324,16 @@ _residency requirement for naturalization_: 8 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Stevo PENDAROVSKI (since 12 May 2019)<br>
-_head of government_: Caretaker Prime Minister Talat XHAFERI (since 28 January 2024)<br>
+_chief of state_: President Gordana SILJANOVSKA-DAVKOVA (since 12 May 2024)<br>
+_head of government_: President Gordana SILJANOVSKA-DAVKOVA (since 12 May 2024)<br>
 _cabinet_: Council of Ministers elected by the Assembly by simple majority vote<br>
-_elections/appointments_: president directly elected using a modified 2-round system; a candidate can only be elected in the first round with an absolute majority from all registered voters; in the second round, voter turnout must be at least 40% for the result to be deemed valid; president elected for a 5-year term (eligible for a second term); election last held on 21 April and 5 May 2019 (next to be held in 2024); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the Assembly<br>
-_election results_: <em>2024: </em>Talat XHAFERI elected caretaker Prime Minister; Assembly vote - 65 for (opposition boycott)<em><br><br>2022: </em>Dimitar KOVACEVSKI elected Prime Minister; Assembly vote - NA<em><br><br>2019:</em> Stevo PENDAROVSKI elected president in second round; percent of vote in first round - Stevo PENDAROVSKI (SDSM) 44.8%, Gordana SILJANOVSKA-DAVKOVA (VMRO-DPMNE) 44.2%, Blerim REKA (independent) 11.1%; percent of vote in second round - Stevo PENDAROVSKI 53.6%, Gordana SILJANOVSKA-DAVKOVA 46.4%<br>
+_elections/appointments_: president directly elected using a modified 2-round system; a candidate can only be elected in the first round with an absolute majority from all registered voters; in the second round, voter turnout must be at least 40% for the result to be deemed valid; president elected for a 5-year term (eligible for a second term); election last held on 24 April and 8 May 2024 (next to be held in 2029); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the Assembly<br>
+_election results_: <em>2024: </em>Gordana SILJANOVSKA-DAVKOVA elected president in the second round; percent of vote - Gordana SILJANOVSKA-DAVKOVA (VMRO-DPMNE) 69%, Stevo PENDAROVSKI (SDSM) 31%<em><br><br>2024: </em>Talat XHAFERI elected caretaker Prime Minister; Assembly vote - 65 for (opposition boycott)<em><br><br>2022: </em>Dimitar KOVACEVSKI elected Prime Minister; Assembly vote - NA<em><br></em><br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly - Sobranie in Macedonian, Kuvend in Albanian (between 120 and 140 seats, currently 120; members directly elected in multi-seat constituencies by closed-list proportional representation vote; possibility of 3 directly elected in diaspora constituencies by simple majority vote provided there is sufficient voter turnout; members serve 4-year terms)<br>
-_elections_: last held on 15 July 2020 (next to be held on 8 May 2024)<br>
-_election results_: percent of vote by party/coalition - We Can! 35.9%, Renewal 34.6%, BDI 11.5%, AfA-Alternative 9%, The Left 4.1%, PDSH 1.5%, other 3.4%; seats by party/coalition - We Can! 46, Renewal 44, BDI 15, AfA-Alternative 12, The Left 2, PDSH 1; composition - men 69, women 51, percentage women 42.5%<br>
+_elections_: last held on 8 May 2024 (next to be held on 31 May 2028)<br>
+_election results_: percent of vote by party/coalition - Your Macedonia 44.6%, For a European Future 15.8%, European Front 14%, VLEN 10.9%, The Left 7%, For Our Macedonia 5.7%, other 1.9%; seats by party/coalition - Your Macedonia 58, For a European Future 18, European Front 18, VLEN 14, The Left 6, For Our Macedonia 6; composition - TBD<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 22 judges); Constitutional Court (consists of 9 judges)<br>
@@ -351,8 +351,8 @@ BIS, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, IAEA, IBRD, ICAO, ICC
 _chief of mission_: Ambassador Zoran POPOV (since 16 September 2022)<br>
 _chancery_: 2129 Wyoming Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 667-0501<br>
-_FAX_: [1] (202) 667-2131<br>
-_email address and website_: <br>washington@mfa.gov.mk<br>
+_FAX_: [1] (202) 667-2104<br>
+_email address and website_: <br>washington@mfa.gov.mk<br><br>United States (mfa.gov.mk)<br>
 _consulate(s) general_: Chicago, Detroit, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -381,7 +381,7 @@ _selected World Heritage Site locales_: Natural and Cultural Heritage of the Ohr
 ## Economy
 
 **Economic overview**<br>
-growing upper middle-income European economy; EU accession stalled due to Bulgarian dispute; new NATO member; private consumption-driven growth; investment declined due to COVID-19; regional economic power gains since Greek naming resolution<br>
+upper-middle-income European economy; recovering from energy-driven inflation; macroeconomic support from IMF and EU lending facilities; stalled progress on EU accession; fiscal consolidation hampered by deficit spending on public works; structural challenges of emigration, low productivity growth, and governance<br>
 
 **Real GDP (purchasing power parity)**<br>
 $35.245 billion (2022 est.)<br>

@@ -354,7 +354,7 @@ Democrats for Lithuania [Saulius SKVERNELIS]<br>Electoral Action of Lithuanian P
 Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Audra PLEPYTE (since 7 July 2021)<br>
+_chief of mission_: Ambassador Audra PLEPYTĖ (since 7 July 2021)<br>
 _chancery_: 2622 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 234-5860<br>
 _FAX_: [1] (202) 328-0466<br>
@@ -387,7 +387,7 @@ _selected World Heritage Site locales_: Vilnius Historic Center; Curonian Spit; 
 ## Economy
 
 **Economic overview**<br>
-high-income, EU-member, largest Baltic economy; privatized most state-owned enterprises; unmoved youth emigration; systemic corruption; issued Europe&rsquo;s first bank-backed digital coin (LBCOIN); highly educated workforce; lowest EU household debt<br>
+high-income EU and eurozone member, largest Baltic economy; growth stalled due to Ukraine war impact on energy, exports, and fiscal spending for defense and refugee support; rebound supported by EU fund-driven investments and reduced inflation; structural challenges include pension reform, labor market inefficiencies, health care, and education spending<br>
 
 **Real GDP (purchasing power parity)**<br>
 $113.139 billion (2022 est.)<br>

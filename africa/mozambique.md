@@ -373,7 +373,7 @@ Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM [
 ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF (observer), OPCW, SADC, UN, UNCTAD, UNDP, UNEP,&nbsp; UNESCO, UNHCR, UNIDO, UNWTO, Union Latina, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Alfredo Fabaio NUVUNGA (since 19 April 2023)<br>
+_chief of mission_: Ambassador Alfredo Fabi&atilde;o NUVUNGA (since 19 April 2023)<br>
 _chancery_: 1525 New Hampshire Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 293-7147<br>
 _FAX_: [1] (202) 835-0245<br>

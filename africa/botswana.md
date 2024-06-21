@@ -340,8 +340,8 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Mokgweetsi Eric Keabetswe MASISI (since 1 April 2018); Vice President Slumber TSOGWANE (since 4 April 2018); note - the president is both chief of state and head of government<br>
-_head of government_: President Mokgweetsi Eric Keabetswe MASISI (since 1 April 2018); Vice President Slumber TSOGWANE (since 4 April 2018)<br>
+_chief of state_: President Mokgweetsi Eric Keabetswe MASISI (since 1 April 2018)<br>
+_head of government_: President Mokgweetsi Eric Keabetswe MASISI (since 1 April 2018)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 23 October 2019 (next to be held in October 2024); vice president appointed by the president<br>
 _election results_: President Seretse Khama Ian KHAMA, who had served as president since 1 April 2008, stepped down on 1 April 2018 having completed the constitutionally mandated 10-year term limit; upon his retirement, then Vice President MASISI became president; national elections held in 2019 gave MASISI'S BPD 38 seats in the National Assembly, which then selected MASISI as President<br>
@@ -675,7 +675,7 @@ _unpaved_: 21,937 km (2017)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Botswana Defense Force (BDF): Ground Forces Command, Air Arm Command, Defense Logistics Command (2023)<br>
+Botswana Defense Force (BDF): Ground Forces Command, Air Arm Command, Defense Logistics Command (2024)<br>
 <strong>note:</strong> both the BDF and the Botswana Police Service report to the Ministry of Defense and Security; the Botswana Police Service has primary responsibility for internal security; the BDF reports to the Office of the President through the minister of defense and security and has some domestic security responsibilities<br>
 
 **Military expenditures**<br>

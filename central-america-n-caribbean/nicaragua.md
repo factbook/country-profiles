@@ -342,14 +342,14 @@ _subordinate courts_: Appeals Court; first instance civil, criminal, and labor c
 Alliance for the Republic or APRE [Carlos CANALES]<br>Alternative for Change or AC (operates in a political alliance with the FSLN) [Orlando Jose TARDENCILLA]<br>Autonomous Liberal Party or PAL [Rene Margarito BELLO ROMERO]<strong><br></strong>Caribbean Unity Movement or PAMUC [Armando Francisco ARISTA FLORES]<br>Christian Unity Party or PUC (operates in a political alliance with the FSLN) [Guillermo Daniel ORTEGA REYES]<br>Independent Liberal Party or PLI [Mario ASENSIO]<br>Liberal Constitutionalist Party or PLC [Maria Haydee OSUNA]<br>Moskitia Indigenous Progressive Movement or MOSKITIA PAWANKA (operates in a political alliance with the FSLN) [Wycliff Diego BLANDON]<br>Multiethnic Indigenous Party or PIM (operates in a political alliance with the FSLN) [Carla Elvis WHITE HODGSON]<br>Nationalist Liberal Party or PLN (operates in a political alliance with the FSLN) [Constantino Raul VELASQUEZ]<br>Nicaraguan Liberal Alliance or ALN [Alejandro MEJIA Ferreti]<br>Nicaraguan Party of the Christian Path or CCN [Guillermo OSORNO]<br>Nicaraguan Resistance Party or PRN (operates in a political alliance with the FSLN) [Julio Cesar BLANDON SANCHEZ]<strong><br></strong>Sandinista National Liberation Front or FSLN [Jose Daniel ORTEGA Saavedra]<br>Sons of Mother Earth or YATAMA [Brooklyn RIVERA]<br>The New Sons of Mother Earth Movement or MYATAMARAN (operates in a political alliance with the FSLN) [Osorno Salomon COLEMAN]<br>
 
 **International organization participation**<br>
-BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, NAM, OAS, OPANAL, OPCW, PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ACS, BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, NAM, OAS, OPANAL, OPCW, PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires M. Lautaro SANDINO Montes (since 23 February 2024)<br>
 _chancery_: 1627 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 939-6570<br>
 _FAX_: [1] (202) 939-6545<br>
-_email address and website_: <br>mperalta@cancilleria.gob.ni<br>
+_email address and website_: <br>mperalta@cancilleria.gob.ni<br><br>United States of America | ConsuladoDeNicaragua.com<br>
 _consulate(s) general_: Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>

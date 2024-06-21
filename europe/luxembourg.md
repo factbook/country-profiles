@@ -381,7 +381,7 @@ _selected World Heritage Site locales_: Luxembourg City Old Quarters and Fortifi
 ## Economy
 
 **Economic overview**<br>
-high-income, EU-member European economy; global financial and information storage leader; high government spending; one of highest GDP per capita countries; unique audit accountancy based on company sizing; aging labor force; hit by COVID-19<br>
+high-income EU and eurozone economy; global, highly capitalized banking sector; one of highest GDP-per-capita countries; trending toward recovery after economic contraction from energy-driven inflation, reduced exports and investments, and financial sector weakness<br>
 
 **Real GDP (purchasing power parity)**<br>
 $76.901 billion (2022 est.)<br>
@@ -607,12 +607,12 @@ _Total energy consumption per capita 2019_: 310.068 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 261,054 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 42 (2021 est.)<br>
+_total subscriptions_: 261,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 40 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 880,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 140 (2021 est.)<br>
+_total subscriptions_: 876,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 137 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Luxembourg has a small telecom sector; there remains some pressure from regulatory measures, though no further reductions to fixed and mobile interconnection tariffs have been imposed through to 2024; high mobile penetration has slowed subscriber growth in the mobile market since 2005, though a recent law requiring SIM card registration has not had an adverse effect on the number of mobile subscribers despite network operators deactivating unregistered cards (2021)<br>

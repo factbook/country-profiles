@@ -330,7 +330,7 @@ _residency requirement for naturalization_: 3 years<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General Dame Cindy KIRO (since 21 October 2021)<br>
-_head of government_: Prime Minister Christopher LUXON (since 27 November 2023); Deputy Prime Minister Winston PETERS (since 27 November 2023)<br>
+_head of government_: Prime Minister Christopher LUXON (since 27 November 2023)<br>
 _cabinet_: Executive Council appointed by the governor-general on the recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; deputy prime minister appointed by the governor-general<br>
 <strong>note: </strong>according to Prime Minister LUXON, the Winston PETERS of the New Zealand First Party would be the deputy prime minister in the first half of the term while Act party leader, David SEYMOUR, would take the role for the second half of the term<br>

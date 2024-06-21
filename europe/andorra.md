@@ -321,7 +321,7 @@ Action for Andorra or ACCIO [Judith PALLARES]<br>Committed Citizens or CC [Carle
 CE, FAO, ICAO, ICC (NGOs), ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITU, OIF, OPCW, OSCE, UN, UNCTAD, UNESCO, Union Latina, UNWTO, WCO, WHO, WIPO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Elisenda VIVES BALMA&Ntilde;A (since 2 March 2016)<br>
+_chief of mission_: Ambassador Elisenda VIVES BALMA&Ntilde;A (since 2 March 2016); note - also Permanent Representative to the UN<br>
 _chancery_: 2 United Nations Plaza, 27th Floor, New York, NY 10017<br>
 _telephone_: [1] (212) 750-8064<br>
 _FAX_: [1] (212) 750-6630<br>

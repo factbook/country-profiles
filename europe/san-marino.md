@@ -288,8 +288,8 @@ _election results_: <em>March 2024:  </em>Alessandro ROSSI (Demos) and Milena G
 
 **Legislative branch**<br>
 _description_: unicameral Grand and General Council or Consiglio Grande e Generale (60 seats; members directly elected in single- and multi-seat constituencies by list proportional representation vote in 2 rounds if needed; members serve 5-year terms)<br>
-_elections_: last held on 8 December 2019 (next to be held by 31 December 2024)<br>
-_election results_: percent of vote by party/coalition - PDCS 35%, Tomorrow in Movement coalition 25% (RETE Movement 18.3%, DML 6.7%), Liberia 16.7%, We for the Republic 13.3%, RF 10%; seats by party/coalition - PDCS 21, Tomorrow in Movement coalition 15 (RETE Movement 11, DML 4), Liberia 10, We for the Republic 8, RF 6; composition - men 41, women 19, percentage women 31.7%<br>
+_elections_: last held on 9 June 2024 (next to be held by 30 June 2029)<br>
+_election results_: percent of vote by party/coalition - (PDCS 34.1% &amp; AR 6.9% coalition), (PS 15.8% &amp; PSD 12.2% coalition), RF 12%, DML 8.5%, RETE 5.1% seats by party/coalition - (PDCS 22 &amp; AR 4 coalition), (PS 10 &amp; PSD 8 coalition), RF 8, DML 5, RETE 3, composition - men 37, women 23, percentage women 38.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Council of Twelve or Consiglio dei XII (consists of 12 members); note - the College of Guarantors for the Constitutionality and General Norms functions as San Marino's constitutional court<br>
@@ -297,17 +297,17 @@ _judge selection and term of office_: judges elected by the Grand and General Co
 _subordinate courts_: first instance and first appeal criminal, administrative, and civil courts; Court for the Trust and Trustee Relations; justices of the peace or conciliatory judges<br>
 
 **Political parties and leaders**<br>
-Demos Party (Movimento Demos) [Alessandro ROSSI]<br>Domani - Modus Liberi or DML [Lorenzo Forcellini REFFI]<br>Free San Marino (Libera San Marino) or Libera [Luca BOSCHI]<br>Future Republic or RF [Mario VENTURINI]<br>I Elect for a New Republic<br>Party of Socialists and Democrats or PSD [Paride ANDREOLI]<br>RETE Movement [Gloria ARCANGELONI]<br>Sammarinese Christian Democratic Party or PDCS [Marco GATTI]<br>Socialist Party or PS [Alessandro BEVITORI]<br>Tomorrow in Movement coalition (includes RETE Movement, DML)<br>We for the Republic [Denise BRONZETTI]<br>
+Demos Party (Movimento Demos) [Alessandro ROSSI]<br>Domani - Modus Liberi or DML [Lorenzo Forcellini REFFI]<br>Free San Marino (Libera San Marino) or Libera [Matteo CIACCI]<br>Future Republic or RF [Roberto GIORGETTI]<br>Party of Socialists and Democrats or PSD [Geraldo GIOVANOLI]<br>RETE Movement [Gloria ARCANGELONI]<br>Sammarinese Christian Democratic Party or PDCS [Gian Carlo VENTURINI]<br>Socialist Party or PS [Alessandro MANCINI]<br>Tomorrow in Movement coalition (includes RETE Movement, DML)<br>
 
 **International organization participation**<br>
 CE, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ITU, ITUC (NGOs), LAIA (observer), OPCW, OSCE, Schengen Convention (de facto member), UN, UNCTAD, UNESCO, Union Latina, UNWTO, UPU, WHO, WIPO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Damiano BELEFFI (since 21 July 2017)<br>
+_chief of mission_: Ambassador Damiano BELEFFI (since 21 July 2017); note - also Permanent Representative to the UN<br>
 _chancery_: 327 E 50th Street, New York, NY 10022<br>
 _telephone_: [1] (212) 751-1234<br>
 _FAX_: [1] (212) 751-1436<br>
-_email address and website_: <br>smrassistant@gmail.com<br><br>Republic of San Marino Permanent Mission to the United Nations<br>
+_email address and website_: <br>sanmarinoun@gmail.com<br><br>Republic of San Marino Permanent Mission to the United Nations<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Jack Markell (since September 2023); note - also accredited to Italy<br>

@@ -317,7 +317,7 @@ _subordinate courts_: Industrial Court; Magistrates' Courts<br>
 Antigua Labor Party or ABLP [Gaston BROWNE]<br>Barbuda People's Movement or BPM [Trevor WALKER]<br>Democratic National Alliance or DNA [Joanne MASSIAH]<br>Go Green for Life or GGL [Owen GEORGE]<br>United Progressive Party or UPP [Harold LOVELL]<br>
 
 **International organization participation**<br>
-ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (subscriber), ITU, ITUC (NGOs), MIGA, NAM (observer), OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UPU, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (subscriber), ITU, ITUC (NGOs), MIGA, NAM (observer), OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UPU, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sir Ronald SANDERS (since 17 September 2015)<br>

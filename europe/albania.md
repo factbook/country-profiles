@@ -337,7 +337,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Bajram BEGAJ (since 24 July 2022)<br>
-_head of government_: Prime Minister Edi RAMA (since 10 September 2013); Deputy Prime Minister Arben AHMETAJ (since 18 September 2021)<br>
+_head of government_: Prime Minister Edi RAMA (since 10 September 2013)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, nominated by the president, and approved by the Assembly<br>
 _elections/appointments_: president indirectly elected by the Assembly for a 5-year term (eligible for a second term); a candidate needs three-fifths majority vote of the Assembly in 1 of 3 rounds or a simple majority in 2 additional rounds to become president; election last held in 4 rounds on 16, 23, and 30 May and 4 June 2022 (next election to be held in 2027); prime minister appointed by the president on the proposal of the majority party or coalition of parties in the Assembly<br>
 _election results_: <em><br>2022: </em>Bajram BEGAJ elected president in the fourth round; Assembly vote - 78-4, opposition parties boycotted<br><em><br>2017:</em> Ilir META elected president in the fourth round; Assembly vote - 87-2<br>
@@ -393,7 +393,7 @@ _selected World Heritage Site locales_: Butrint (c); Historic Berat and Gjirokas
 ## Economy
 
 **Economic overview**<br>
-future hopeful EU member state; oil and gas exporter but investing toward a &ldquo;blue economy&rdquo;; COVID-19 and earthquake economic disruptions and declines; experiencing high debt and account balances; strengthening private sector growth and public sector trust<br>
+upper-middle -income Balkan economy; EU accession candidate; growth bolstered by tourism, services, construction, and private consumption; fiscal consolidation through revenue collection to address public debt; challenges include weak governance, corruption, climate adaptation, vulnerability to energy sector shocks, and emigration of workers<br>
 
 **Real GDP (purchasing power parity)**<br>
 $43.032 billion (2022 est.)<br>
@@ -690,7 +690,7 @@ _key ports_: Durres, Shengjin, Vlores<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqipërisë (FARSH); aka Albanian Armed Forces): Land Forces, Naval Force (includes Coast Guard), Air Forces<br><br>Ministry of Interior: Guard of the Republic, State Police (includes the Border and Migration Police) (2023)<br>
+Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqipërisë (FARSH); aka Albanian Armed Forces (AAF)): Land Forces, Naval Force (includes Coast Guard), Air Forces<br><br>Ministry of Interior: Guard of the Republic, State Police (includes the Border and Migration Police) (2024)<br>
 <strong>note:</strong> the State Police are primarily responsible for internal security, including counterterrorism, while the Guard of the Republic protects senior state officials, foreign dignitaries, and certain state properties<br>
 
 **Military expenditures**<br>
@@ -711,7 +711,7 @@ since joining NATO, the military has been in the process of modernizing by retir
 <strong>note: </strong>as of 2023, women comprised about 15% of the military's full-time personnel, including 20% of the officers<br>
 
 **Military - note**<br>
-the Albanian Armed Forces (AAF) are responsible for defending the country&rsquo;s independence, sovereignty, and territory, assisting with internal security, providing disaster and humanitarian relief, and participating in international peacekeeping missions; the AAF has contributed small numbers of forces to several NATO missions since Albania joined NATO in 2009, including peacekeeping/stability missions in Afghanistan, Kosovo, and Iraq, and multinational battlegroups in Bulgaria and Latvia; it has also contributed to EU and UN missions; the AAF is a small, lightly armed force that has been undergoing a modernization effort to improve its ability to fulfill NATO missions, including training and equipment purchases; the primary ground combat units include a few light infantry battalions (or battle groups), including one trained and certified for NATO missions, and a special operations regiment; the Naval Force and Coast Guard operate a small force of patrol boats while the Air Force has a small inventory of helicopters (2023)<br>
+the Albanian Armed Forces (AAF) are responsible for defending the country&rsquo;s independence, sovereignty, and territory, assisting with internal security, providing disaster and humanitarian relief, and participating in international peacekeeping missions; the AAF has contributed small numbers of forces to several NATO missions since Albania joined NATO in 2009, including peacekeeping/stability missions in Afghanistan, Kosovo, and Iraq, and multinational battlegroups in Bulgaria and Latvia; it has also contributed to EU and UN missions; the AAF is a small, lightly armed force that has been undergoing a modernization effort to improve its ability to fulfill NATO missions, including training and equipment purchases; the primary ground combat units include a few light infantry battalions (or battle groups), including one trained and certified for NATO missions, and a special operations regiment; the Naval Force and Coast Guard operate a small force of patrol boats while the Air Force has a small inventory of helicopters (2024)<br>
 
 ## Terrorism
 

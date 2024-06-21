@@ -325,12 +325,12 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King MSWATI III (since 25 April 1986)<br>
-_head of government_: <p>Prime Minister Russell Mmiso DLAMINI (since 3 November 2023)</p> <p> </p><br>
+_head of government_: Prime Minister Russell DLAMINI (since 6 November 2023)<br>
 _cabinet_: Cabinet recommended by the prime minister, confirmed by the monarch; at least one-half of the cabinet membership must be appointed from among elected members of the House of Assembly<br>
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch from among members of the House of Assembly<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament (Libandla) consists of:<br> Senate (30 seats; 20 members appointed by the monarch and 10 indirectly elected by simple majority vote by the House of Assembly; members serve 5-year terms)<br>House of Assembly (70 seats statutory, current 69; 59 members directly elected in single-seat constituencies or tinkhundla by absolute majority vote in 2 rounds if needed, 10 members appointed by the monarch, 4 women, one each representing each region, elected by the members if representation of elected women is less than 30%, and 1 ex-officio member - the attorney general; members serve 5-year terms)<br>
+_description_: bicameral Parliament or Libandla consists of:<br> Senate (30 seats; 20 members appointed by the monarch and 10 indirectly elected by simple majority vote by the House of Assembly; members serve 5-year terms)<br>House of Assembly (70 seats statutory, current 69; 59 members directly elected in single-seat constituencies or tinkhundla by absolute majority vote in 2 rounds if needed, 10 members appointed by the monarch, 4 women, one each representing each region, elected by the members if representation of elected women is less than 30%, and 1 ex-officio member - the attorney general; members serve 5-year terms)<br>
 _elections_: Senate - last election held on 12 October 2023 , senate fully constituted on November 5 when monarch appointed remaining 20 senators; (next to be held in 2028)<br>House of Assembly - last held on 29 September 2023 (next to be held in 2028) <p> </p><br>
 _election results_: Senate - percent of seats by party - NA; seats by party - NA; composition - men 16, women 14, percentage women 46.7%<br><br>House of Assembly - percent of vote by party - NA; seats by party - independent 59; composition - men 58, women 16, percent of women 17.14%; total Parliament percentage women 28.8%<br>
 

@@ -354,7 +354,7 @@ _chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Antonito
 _chancery_: 4201 Connecticut Avenue NW, Suite 504, Washington, DC 20008<br>
 _telephone_: [1] (202) 966-3202<br>
 _FAX_: [1] (202) 966-3205<br>
-_email address and website_: <br>info@timorlesteembassy.org<br><br>http://www.timorlesteembassy.org/<br>
+_email address and website_: <br>info@timorlesteembassy.org<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant), Charg&eacute; d'Affaires Marc WEINSTOCK (since August 2023)<br>

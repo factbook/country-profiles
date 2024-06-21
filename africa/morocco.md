@@ -368,7 +368,7 @@ _cabinet_: Council of Ministers chosen by the prime minister in consultation wit
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch from the majority party following legislative elections<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>House of Councillors or Majlis al-Mustacharine (120 seats; members indirectly elected by an electoral college of local councils, professional organizations, and labor unions; members serve 6-year terms)<br>House of Representatives or Majlis al-Nuwab (395 seats; 305 members directly elected in multi-seat constituencies by proportional representation vote and 90 directly elected in a single nationwide constituency by proportional representation vote; members serve 5-year terms); note - 60 seats reserved for women and 30 seats for those under age 40 in regional multi-seat constituencies, with the seats divided proportionally among the 12 regions by population size of the region<br>
+_description_: bicameral Parliament consists of:<br>House of Councilors or Majlis al-Mustacharine (120 seats; members indirectly elected by an electoral college of local councils, professional organizations, and labor unions; members serve 6-year terms)<br>House of Representatives or Majlis al-Nuwab (395 seats; 305 members directly elected in multi-seat constituencies by proportional representation vote and 90 directly elected in a single nationwide constituency by proportional representation vote; members serve 5-year terms); note - 60 seats reserved for women and 30 seats for those under age 40 in regional multi-seat constituencies, with the seats divided proportionally among the 12 regions by population size of the region<br>
 _elections_: House of Councillors - last held on 5 October 2021 (next to be held by 31 October 2027)<br>House of Representatives - last held on 8 September 2021 (next to be held by 30 September 2026)<br>
 _election results_: House of Councillors - percent of vote by party - NA; seats by party - RNI 27, PAM 19, PI 17, MP 12, USFP 8, UGIM 6, CDT 3, PJD 3, UC 2, UMT 2, Amal 1, FDT 1, MDS 1, PRD 1, independent 1; composition - men 106, women 14, percentage women 11.7%<br><br>House of Representatives - percent of vote by party NA; seats by party - RNI 102, PAM 87, PI 81, USFP 34, MP 28, PPS 22, UC 18, PJD 13, MDS 5, other 5; composition - men 299, women 96, percentage women 24.3%; total Parliament percentage women 21.4%<br>
 
@@ -388,7 +388,7 @@ _chief of mission_: Ambassador Youssef AMRANI (since 27 February 2024)<br>
 _chancery_: 3508 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 462-7979<br>
 _FAX_: [1] (202) 265-0161<br>
-_email address and website_: <br>washingtonembmorocco@maec.gov.ma<br>
+_email address and website_: <br>washingtonembmorocco@maec.gov.ma<br><br>Embassy of the Kingdom of Morocco in the United States (diplomatie.ma)<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>

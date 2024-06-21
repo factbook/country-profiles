@@ -304,8 +304,8 @@ Nauru does not have formal political parties; alliances within the government ar
 ACP, ADB, AOSIS, C, FAO, G-77, ICAO, ICCt, IFAD, Interpol, IOC, IOM, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WHO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Margo DEIYE (since 1 December 2021)<br>
-_chancery_: 800 2nd Avenue, Third Floor, New York, NY 10017<br>
+_chief of mission_: Ambassador Margo DEIYE (since 1 December 2021); note - also Permanent Representative to the UN<br>
+_chancery_: 801 2nd Avenue, Third Floor, New York, NY 10017<br>
 _telephone_: [1] (212) 937-0074<br>
 _FAX_: [1] (212) 937-0079<br>
 _email address and website_: <br>nauru@onecommonwealth.org<br><br>https://www.un.int/nauru/<br>

@@ -345,7 +345,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Recep Tayyip ERDOGAN (chief of state since 28 August 2014; head of government since 9 July 2018); Vice President Cevdet YILMAZ (since 3 June 2023); note - the president is both chief of state and head of government<br>
+_chief of state_: President Recep Tayyip ERDOGAN (chief of state since 28 August 2014; head of government since 9 July 2018)<br>
 _head of government_: President Recep Tayyip ERDOGAN (head of government since 9 July 2018; chief of state since 28 August 2014)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 May 2023 with a runoff on 28 May 2023 (next to be held in 2028)<br>
@@ -369,12 +369,12 @@ ADB (nonregional member), Australia Group, BIS, BSEC, CBSS (observer), CD, CE, C
 <strong>note</strong>: Turkey is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Halime Digdem BUNER (since 13 January 2024)<br>
+_chief of mission_: Appointed Ambassador Sedat &Ouml;NAL (since 24 April 2024)<br>
 _chancery_: 2525 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 612-6700<br>
 _FAX_: [1] (202) 612-6744<br>
 _email address and website_: <br>embassy.washingtondc@mfa.gov.tr<br><br>T.C. Dışişleri Bakanlığı - Turkish Embassy In Washington, D.C. (mfa.gov.tr)<br>
-_consulate(s) general_: Boston, Chicago, Houston, Los Angeles, Miami, New York<br>
+_consulate(s) general_: Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Jeffry Lane FLAKE (since 26 January 2022)<br>

@@ -340,7 +340,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King WILLEM-ALEXANDER (since 30 April 2013); Heir Apparent Princess CATHARINA-AMALIA (daughter of King WILLEM-ALEXANDER, born 7 December 2003)<br>
-_head of government_: Prime Minister Mark RUTTE (since 14 October 2010); Deputy Prime Ministers Sigrid KAAG and Wopke HOEKSTRA (since 10 January 2022), Carola SCHOUTEN (since 26 October 2017); note - Mark RUTTE's ruling coalition collapsed on 8 July 2023; he is serving as prime minister in a caretaker status until a new prime minister is named following the 22 November 2023<br>
+_head of government_: Prime Minister Mark RUTTE (since 14 October 2010); Deputy Prime Ministers Sigrid KAAG and Wopke HOEKSTRA (since 10 January 2022), Carola SCHOUTEN (since 26 October 2017); note - Mark RUTTE's ruling coalition collapsed on 8 July 2023; he is serving as prime minister in a caretaker status until a new prime minister is named following the 22 November 2023 elections<br>
 _cabinet_: Council of Ministers appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following Second Chamber elections, the leader of the majority party or majority coalition is usually appointed prime minister by the monarch; deputy prime ministers are appointed by the monarch<br>
 
@@ -395,7 +395,7 @@ _selected World Heritage Site locales_: Schokland and Surroundings (c); Dutch Wa
 ## Economy
 
 **Economic overview**<br>
-high-income European economy; core EU member; chemical, oil, and machinery exporter; some age-based income inequality; substantial amount of independent contractor employees; manageable public debt; key international aid funder.<br>
+high-income, core EU- and eurozone-member economy; trade-oriented with strong services, logistics, and high tech sectors; exiting mild recession triggered by inflation and weak export demand; tight labor market; low deficits and manageable public debt; strong ratings for innovation, competitiveness, and business climate<br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.049 trillion (2022 est.)<br>
@@ -634,11 +634,11 @@ _Total energy consumption per capita 2019_: 219.606 million Btu/person (2019 est
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 4.57 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 29 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 26 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21.888 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 125 (2021 est.)<br>
+_total subscriptions_: 20.737 million (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 118 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom infrastructure in the Netherlands continues to be upgraded as modernization schemes undertaken by telcos make steady progress; other fiber providers have been supported by regulatory measures which have encouraged municipal governments to intervene with telcos&rsquo; fiber builds, facilitating open access networks in a bid to make rollouts cheaper, and completed sooner; while the Mobile Network Operators (MNOs) are also closing down their Global System for Mobile Communication (MSM) and 3G networks and repurposing their spectrum and physical assets for LTE and 5G, the regulator has also encouraged GSM/3G roaming in the interim, thus safeguarding services such as machine to machine and other low data-use applications while individual MNOs disable their own GSM/3G networks; the country has one of the highest fixed broadband penetration rates in the world, with effective cross-platform competition between Digital Subscriber Line (DSL), Hybrid Fiber Coazial (HFC), and fiber networks; in the third quarter of 2020 the number of cable broadband connections fell for the first time, while the DSL segment has long been eclipsed by fiber; by the end of 2021, over a quarter of fixed broadband connections were on fiber infrastructure, while DSL accounted for only about 29%; almost 49% of fixed connections provided data above 100Mb/s, while an additional 43.7% provided data of at least 30Mb/s (2022)<br>

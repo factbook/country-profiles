@@ -195,9 +195,6 @@ postage stamps, handicrafts, beekeeping, honey<br>
 _revenues_: $746,000 (FY04/05)<br>
 _expenditures_: $1.028 million (FY04/05)<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Exports - partners**<br>
 Zambia 99%, Czechia 0%, UK 0%, US 0%, Australia 0% (2022)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>

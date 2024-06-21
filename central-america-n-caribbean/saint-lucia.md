@@ -320,7 +320,7 @@ _subordinate courts_: magistrate's court<br>
 Saint Lucia Labor Party or SLP [Philip J. PIERRE]<br>United Workers Party or UWP [Allen M. CHASTANET]<br>
 
 **International organization participation**<br>
-ACP, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Elizabeth DARIUS-CLARKE (since 7 June 2022)<br>
@@ -328,7 +328,7 @@ _chancery_: 1629 K Street NW, Suite 1250, Washington, DC 20006<br>
 _telephone_: [1] (202) 364-6792<br>
 _FAX_: [1] (202) 364-6723<br>
 _email address and website_: <br>embassydc@gosl.gov.lc<br><br>https://www.embassyofstlucia.org/<br>
-_consulate(s) general_: New York<br>
+_consulate(s) general_: Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Saint Lucia; the US Ambassador to Barbados is accredited to Saint Lucia<br>

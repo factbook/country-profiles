@@ -328,7 +328,7 @@ Democratic Alliance Party or DAP [Rick HOUENIPWELA]<br>Kadere Party of Solomon I
 ACP, ADB, AOSIS, C, EITI (candidate country), ESCAP, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IOC, ITU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WFTU, WHO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Jane Mugafalu Kabui WAETARA (since 16 September 2022)<br>
+_chief of mission_: Ambassador Jane Mugafalu Kabui WAETARA (since 16 September 2022); note - also Permanent Representative to the UN<br>
 _chancery_: 685 Third Avenue, 11th Floor, Suite 1102, New York, NY 10017<br>
 _telephone_: [1] (212) 599-6192<br>
 _FAX_: [1] (212) 661-8925<br>

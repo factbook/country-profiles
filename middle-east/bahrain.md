@@ -321,8 +321,8 @@ _residency requirement for naturalization_: 25 years; 15 years for Arab national
 20 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King HAMAD bin Isa Al-Khalifa (since 6 March 1999); Crown Prince SALMAN bin Hamad Al-Khalifa (born 21 October 1969)<br>
-_head of government_: Prime Minister Crown Prince SALMAN bin Hamad Al-Khalifa (since 11 November 2020); Deputy Prime Minister KHALID bin Abdallah Al Khalifa (since May 2011)<br>
+_chief of state_: King HAMAD bin Isa Al-Khalifa (since 6 March 1999)<br>
+_head of government_: Prime Minister Crown Prince SALMAN bin Hamad Al-Khalifa (since 11 November 2020)<br>
 _cabinet_: Cabinet appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch<br>
 
@@ -654,7 +654,7 @@ _key ports_: Al Manamah, Khalifa Bin Salman, Mina Salman, Sitrah<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Royal Bahraini Navy, Royal Bahraini Air Force<br><br>Ministry of Interior: National Guard, Special Security Forces Command (SSFC), Coast Guard<br> (2023)<br>
+Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Royal Bahraini Navy, Royal Bahraini Air Force<br><br>Ministry of Interior: National Guard, Special Security Forces Command (SSFC), Coast Guard<br> (2024)<br>
 <strong>note 1:</strong> the Royal Guard is officially under the command of the Army, but exercises considerable autonomy <br><br><strong>note 2:</strong> the Ministry of Interior is responsible for internal security and oversees police and specialized security units responsible for maintaining internal order; the National Guard's primary mission is to guard critical infrastructure such as the airport and oil fields and is a back-up to the police; the Guard is under the Ministry of Interior but reports directly to the king<br>
 
 **Military expenditures**<br>

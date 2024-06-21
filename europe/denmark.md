@@ -387,7 +387,7 @@ _selected World Heritage Site locales_: Denmark: Mounds, Runic Stones, and Churc
 ## Economy
 
 **Economic overview**<br>
-diversified EU trade-based economy; environmental regulatory innovator; dominant services sector; increased government spending but retaining budget surpluses; currently high inflation; unique "flexicurity" labor market<br>
+<p>high-income, EU member, trade-oriented Nordic economy; growth driven by pharmaceuticals, energy and services; large share of employment in public sector; fixed exchange rate pegged to euro; strong fiscal position; tight labor market addressed by migrant workers and higher average retirement age</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $353.799 billion (2022 est.)<br>
@@ -688,8 +688,7 @@ _key ports_: Abenra, Alborg, Arhus, Assens, Augustenborg, Bandholm, Esbjerg, Fab
 ## Military and Security
 
 **Military and security forces**<br>
-Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Danish Air Force, Danish Home Guard (Reserves) (2023)<br>
-<strong>note:</strong> the Danish military maintains a joint service Arctic Command with the mission of protecting the sovereignty of the Kingdom of Denmark in the Arctic Region, including the Faroe Islands and Greenland; the command also conducts maritime pollution prevention, environmental monitoring, fishery inspections, search and rescue, hydrographical surveys, and provides support to governmental science missions<br>
+Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Danish Air Force, Danish Home Guard (Reserves) (2024)<br>
 
 **Military expenditures**<br>
 2% of GDP (2023 est.)<br>

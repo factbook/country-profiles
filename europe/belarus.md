@@ -336,7 +336,7 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Alyaksandr LUKASHENKA (since 20 July 1994)<br>
-_head of government_: Prime Minister Roman GOLOVCHENKO (since 4 June 2020); First Deputy Prime Minister Mikalay SNAPKOW (since 4 June 2020); Deputy Prime Ministers Ihar PETRYSHENKA (since 18 August 2018), Anatol SIVAK (since 1 September 2020), Leanid ZAYATS (since 21 March 2022), Petr PARKHOMCHYK (since 16 August 2022)<br>
+_head of government_: Prime Minister Roman GOLOVCHENKO (since 4 June 2020)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); first election held on 23 June and 10 July 1994; according to the 1994 constitution, the next election should have been held in 1999; however, Alyaksandr LUKASHENKA extended his term to 2001 via a November 1996 referendum; subsequent election held on 9 September 2001; an October 2004 referendum ended presidential term limits and allowed the President LUKASHENKA to run and win a third&nbsp; term (19 March 2006); a fourth term (19 December 2010); a fifth term (11 October 2015); a sixth term (9 August 2020); next election to be held in 2025; prime minister and deputy prime ministers appointed by the president and approved by the National Assembly<br>
 _election results_: <em><br>2020:</em> Alyaksandr LUKASHENKA reelected president; percent of vote - Alyaksandr LUKASHENKA (independent) 80.1%, Svyatlana TSIKHANOWSKAYA (independent) 10.1%, other 9.8%; note - widespread street protests erupted following announcement of the election results amid allegations of voter fraud<br><em><br>2015:</em> Alyaksandr LUKASHENKA elected president; percent of vote - Alyaksandr LUKASHENKA (independent) 84.1%, Tatsyana KARATKEVIC (BSDPH) 4.4%, Sergey GAYDUKEVICH (LDP) 3.3%, other 8.2%.<br>
@@ -694,7 +694,7 @@ _by type_: other 4<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force, Special Troops (electronic warfare, signals, engineers, biological/chemical/nuclear protection troops, etc)<br><br>Ministry of Interior: State Border Troops, Militia, Internal Troops (2023)<br>
+Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force, Special Troops (electronic warfare, signals, engineers, biological/chemical/nuclear protection troops, etc)<br><br>Ministry of Interior: State Border Troops, Militia, Internal Troops (2024)<br>
 <strong>note:</strong> in early 2023, President LUKASHENKA ordered the formation of a new volunteer paramilitary territorial defense force to supplement the Army<br>
 
 **Military expenditures**<br>

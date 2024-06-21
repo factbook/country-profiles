@@ -347,7 +347,7 @@ _subordinate courts_: appellate courts or Tribunal Superior; Labor Supreme Court
 Alliance Party or PA [Jose MUNOZ Molina]<br>Alternative Independent Socialist Party or PAIS [Jose ALVAREZ]<br>Another Way Movement or MOCA [Ricardo Alberto LOMBANA González]<br>Democratic Change or CD [Romulo ROUX]<br>Democratic Revolutionary Party or PRD [Benicio ROBINSON]<br>Nationalist Republican Liberal Movement or MOLIRENA [Francisco "Pancho" ALEMAN]<br>Panameñista Party [Jose Isabel BLANDON Figueroa] (formerly the Arnulfista Party)<br>Popular Party or PP [Daniel Javier BREA Clavel] (formerly Christian Democratic Party or PDC)<br>Realizing Goals Party or RM [Ricardo Alberto MARTINELLI Berrocal]<br>
 
 **International organization participation**<br>
-BCIE, CAN (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA, UN, UNASUR (observer), UNCTAD, UNESCO, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACS, BCIE, CAN (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA, UN, UNASUR (observer), UNCTAD, UNESCO, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Ram&oacute;n Eduardo MART&Iacute;NEZ DE LA GUARDIA (since 16 September 2022)<br>
@@ -355,7 +355,7 @@ _chancery_: 2862 McGill Terrace NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 483-1407<br>
 _FAX_: [1] (202) 483-8413<br>
 _email address and website_: <br>info@embassyofpanama.org<br><br>https://www.embassyofpanama.org/<br>
-_consulate(s) general_: Houston, Miami, Los Angeles, New Orleans, New York, Philadelphia, Tampa, Washington DC<br>
+_consulate(s) general_: Houston, Los Angeles, Miami, New Orleans, New York, Philadelphia, Tampa<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Mari Carmen APONTE (since 21 November 2022)<br>

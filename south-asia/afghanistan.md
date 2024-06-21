@@ -348,7 +348,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: overall Taliban Leader HAYBATULLAH Akhundzada serves as the head of the Taliban as Amir-ul Momineen and as such is seen by the Taliban as head of state; he resides and issues decrees from the city of Kandahar while the legacy government ministries operate from Kabul<br>
+_chief of state_: Taliban Leader HAYBATULLAH Akhundzada (since 15 August 2021)<br>
 _head of government_: overall Taliban Leader HAYBATULLAH Akhundzada is the [so-called] Amir-ul Momineen of the Taliban and is seen by them as a head of government <p> </p><br>
 _cabinet_: <p>the Taliban have announced a “cabinet” for the “caretaker government,” including the “acting prime minister,” “acting deputy prime ministers,” and “ministers” who claim to represent 26 ministries</p><br>
 _elections/appointments_: the 2004 Afghan constitution directed that the president should be elected by majority popular vote for a 5-year term (eligible for a second term); election last held on 28 September 2019, and the Taliban have given no indication that they intend to reinstate elections or any other mechanism of democratic governance<br>

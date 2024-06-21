@@ -334,12 +334,11 @@ Seychelles Party for Social Justice and Democracy or SPSJD [Vesna RAKIC]<br>Seyc
 ACP, AfDB, AOSIS, AU, C, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Ian Dereck Joseph MADELEINE (since 1 December 2021)<br>note - also Permanent Representative to the UN<br>
+_chief of mission_: Ambassador Ian Dereck Joseph MADELEINE (since 1 December 2021); note - also Permanent Representative to the UN<br>
 _chancery_: 685 Third Avenue, Suite 1107, 11th Floor, New York, NY 10017<br>
 _telephone_: [1] (212) 972-1785<br>
 _FAX_: [1] (212) 972-1786<br>
-_email address and website_: <br>seychelles@un.int; seychellesmission@sycun.org<br><br>Foreign Affairs Department Republic of Seychelles » United States of America (mfa.gov.sc)<br>
-_consulate(s) general_: New York<br>
+_email address and website_: seychellesmission@sycun.org<br><br>Foreign Affairs Department Republic of Seychelles » United States of America (mfa.gov.sc)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Henry V. JARDINE (since 22 February 2023); Charg&eacute; d&rsquo;Affaires Adham LOUTFI (since 6 October 2023) note - Ambassador JARDINE is posted in Mauritius and is accredited to Seychelles, and Charg&eacute; d&rsquo;Affaires LOUTFI is posted in Victoria, Seychelles to manage the expanding policy interests<br>

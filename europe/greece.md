@@ -384,7 +384,7 @@ _selected World Heritage Site locales_: Acropolis, Athens (c); Archaeological si
 ## Economy
 
 **Economic overview**<br>
-tourism- and shipping-based EU economy; clientelism economic culture and systemic corruption; new structural reforms for fiscal solvency; high public debts and unemployment; increasing Chinese port control; oil and gas disputes with Turkey<br>
+developed EU and eurozone economy; strong post-COVID growth driven by tourism, shipping industry, exports, and foreign investment supported by EU cohesion funds; public debt remains high despite recent budget surplus; challenges from negative household savings, high unemployment, corruption, and competitiveness gaps<br>
 
 **Real GDP (purchasing power parity)**<br>
 $330.579 billion (2022 est.)<br>

@@ -344,7 +344,7 @@ _chief of mission_: Ambassador Purmanund JHUGROO (since 7 July 2021)<br>
 _chancery_: 1709 N Street NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 244-1491<br>
 _FAX_: [1] (202) 966-0983<br>
-_email address and website_: <br>mauritius.embassy@verizon.net; washingtonemb@govmu.org<br><br>https://mauritius-washington.govmu.org/Pages/index.aspx<br>
+_email address and website_: <br>mauritius.embassy@verizon.net<br><br>https://mauritius-washington.govmu.org/Pages/index.aspx<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Henry V. JARDINE (since 22 February 2023); note - also accredited to Seychelles<br>

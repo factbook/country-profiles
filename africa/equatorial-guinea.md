@@ -306,10 +306,10 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President OBIANG Nguema Mbasogo (since 3 August 1979 when he seized power in a military coup); First Vice President Teodoro Nguema OBIANG Mangue (since 20 November 2022)<br>
-_head of government_: Prime Minister Manuela ROKA Botey (since 1 February 2023); First Deputy Prime Minister Clemente Engonga NGUEMA Onguene (since 23 June 2016); Second Deputy Prime Minister Angel MESIE Mibuy (since 5 February 2018); Third Deputy Prime Minister Alfonso Nsue MOKUY (since 23 June 2016)<br>
+_chief of state_: President OBIANG Nguema Mbasogo (since 3 August 1979)<br>
+_head of government_: Prime Minister Manuela ROKA Botey (since 1 February 2023)<br>
 _cabinet_: Council of Ministers appointed by the president and overseen by the prime minister<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 20 November 2022 (next to be held in 2029); prime minister and deputy prime ministers appointed by the president<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 20 November 2022 (next to be held in 2029); prime minister and deputy prime ministers appointed by the president; President OBIANG Nguema Mbasogo since 3 August 1979 when he seized power in a military coup)<br>
 _election results_: <em>2022: </em>OBIANG Nguema Mbasogo reelected president; percent of vote - OBIANG Nguema Mbasogo (PDGE) 95%, other 6.1%<br>
 
 **Legislative branch**<br>
@@ -647,7 +647,7 @@ the FAGE is armed with mostly older (typically Soviet-era) and second-hand weapo
 18 years of age for selective compulsory military service, although conscription is rare in practice; 24-month service obligation (2023)<br>
 
 **Military - note**<br>
-the FAGE&rsquo;s National Guard (Army) has only three small infantry battalions with limited combat capabilities; the country has invested heavily in naval capabilities in recent years to protect its oil installations and combat piracy and crime in the Gulf of Guinea; while the Navy is small, its inventory includes a light frigate and a corvette, as well as several off-shore patrol vessels; the Air Force has only a few operational combat aircraft and ground attack-capable helicopters (2023)<br>
+the FAGE&rsquo;s National Guard (Army) is a small force with a few infantry battalions; in recent years, the country has invested heavily in naval capabilities to protect its oil installations and combat piracy and crime in the Gulf of Guinea; while the Navy is small, its inventory includes a light frigate and a corvette, as well as several off-shore patrol vessels; the Air Force has only a few operational combat aircraft and ground attack-capable helicopters (2023)<br>
 
 ## Transnational Issues
 

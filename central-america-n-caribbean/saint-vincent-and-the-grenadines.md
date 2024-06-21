@@ -318,7 +318,7 @@ _subordinate courts_: magistrates' courts<br>
 New Democratic Party or NDP [Dr. Godwin L. FRIDAY]<br>SVG Green Party or SVGP [Ivan O'NEAL]<br>Unity Labor Party or ULP [Dr. Ralph GONSALVES] (formed in 1994 by the coalition of Saint Vincent Labor Party or SVLP and the Movement for National Unity or MNU)<br>
 
 **International organization participation**<br>
-ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (subscriber), ITU, MIGA, NAM, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU (NGOs), WHO, WIPO, WTO<br>
+ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (subscriber), ITU, MIGA, NAM, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU (NGOs), WHO, WIPO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Lou-Anne Gaylene GILCHRIST (since 18 January 2017)<br>

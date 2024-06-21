@@ -329,11 +329,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Acting President Claudia Juana RODR&Iacute;GUEZ DE GUEVARA (since 1 December 2023); note - parliament granted a six-month leave of absence to President Nayib Armando BUKELE Ortez and Vice President F&eacute;lix Augusto Antonio ULLOA Garay (to allow them to participate in the 4 February 2024 presidential election) and approved the appointment of Claudia Juana RODR&Iacute;GUEZ DE GUEVARA as acting president from 1 December 2023 to 1 June 2024, when election winner Nayib Armando BUKELE Ortez will be sworn in for a second term<br>
-_head of government_: Acting President Claudia Juana RODR&Iacute;GUEZ DE GUEVARA (since 1 December 2023)<br>
+_chief of state_: President Nayib Armando BUKELE Ortez (since 1 June 2019); Vice President F&eacute;lix Augusto Antonio ULLOA Garay (since 1 June 2019); note - the president is both chief of state and head of government<br>
+_head of government_: President Nayib Armando BUKELE Ortez (since 1 June 2019); Vice President F&eacute;lix Augusto Antonio ULLOA Garay (since 1 June 2019)<br>
 _cabinet_: Council of Ministers selected by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a single 5-year term; election last held on 4 February 2024 (next to be held in 2029)<br>
-_election results_: <em>2024:</em> Nayib Armando BUKELE Ortez reelected president - Nayib Armando BUKELE Ortez (Nuevas Ideas) 84.7%, Manuel FLORES (FMLN) 6.4%, Joel SANCHEZ (ARENA) 5.6%, Luis PARADA (NT) 2%, other 1.3%; note he will be inaugurated on 1 June 2024<br><br><em>2019:</em> Nayib Armando BUKELE Ortez elected president - Nayib Armando BUKELE Ortez (GANA) 53.1%, Carlos CALLEJA Hakker (ARENA) 31.7%, Hugo MARTINEZ (FMLN) 14.4%, other 0.8%<br>
+_election results_: <em>2024:</em> Nayib Armando BUKELE Ortez reelected president - Nayib Armando BUKELE Ortez (Nuevas Ideas) 84.7%, Manuel FLORES (FMLN) 6.4%, Joel SANCHEZ (ARENA) 5.6%, Luis PARADA (NT) 2%, other 1.3%<br><br><em>2019:</em> Nayib Armando BUKELE Ortez elected president - Nayib Armando BUKELE Ortez (GANA) 53.1%, Carlos CALLEJA Hakker (ARENA) 31.7%, Hugo MARTINEZ (FMLN) 14.4%, other 0.8%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Asamblea Legislativa (84 seats; members directly elected in multi-seat constituencies and a single nationwide constituency by open-list proportional representation vote to serve 3-year terms)<br>
@@ -349,7 +349,7 @@ _subordinate courts_: Appellate Courts; Courts of First Instance; Courts of Peac
 Christian Democratic Party or PDC [Reynaldo CARBALLO]<br>Farabundo Marti National Liberation Front or FMLN [Oscar ORTIZ]<br>Great Alliance for National Unity or GANA [Nelson GUARDADO]<br>National Coalition Party or PCN [Manuel RODRIGUEZ]<br>Nationalist Republican Alliance or ARENA [Erick SALGUERO]<br>New Ideas (Nuevas Ideas) or NI [Xavier Zablah BUKELE]<br>Our Time (Nuestro Tiempo) or NT [Juan VALIENTE]<br>Vamos or V [Josue ALVARADO Flores]<br>
 
 **International organization participation**<br>
-BCIE, CACM, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINURSO, MINUSTAH, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, Union Latina, UNISFA, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACS, BCIE, CACM, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINURSO, MINUSTAH, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, Union Latina, UNISFA, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Carmen Milena MAYORGA VALERA (since 23 December 2020)<br>

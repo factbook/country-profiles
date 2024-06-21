@@ -348,8 +348,8 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Evariste NDAYISHIMIYE (since 18 June 2020); Vice President Prosper BAZOMBANZA (since 24 June 2020); note - the president is both chief of state and head of government<br>
-_head of government_: President Evariste NDAYISHIMIYE (since 18 June 2020); Vice President Prosper BAZOMBANZA (since 24 June 2020); Prime Minister Gervais NDIRAKOBUCA (since 7 September 2022)<br>
+_chief of state_: President Evariste NDAYISHIMIYE (since 18 June 2020)<br>
+_head of government_: Minister Gervais NDIRAKOBUCA (since 7 September 2022)<br>
 _cabinet_: Council of Ministers appointed by president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 20 May 2020 (next to be held in May 2027); vice presidents nominated by the president, endorsed by Parliament; note - a 2018 constitutional referendum, effective for the 2020 election, increased the presidential term from 5 to 7 years with a 2-consecutive-term limit, reinstated the position of the prime minister position, and reduced the number of vice presidents from 2 to 1<br>
 _election results_: <br><em>2020: </em>Evariste NDAYISHIMIYE elected president; percent of vote - Evariste NDAYISHIMIYE (CNDD-FDD) 71.5%, Agathon RWASA (CNL) 25.2%, Gaston SINDIMWO (UPRONA) 1.7%, other 1.6%<br><br><em>2015:</em> Pierre NKURUNZIZA reelected president; percent of vote - Pierre NKURUNZIZA (CNDD-FDD) 69.4%, Agathon RWASA (Hope of Burundians - Amizerio y'ABARUNDI) 19%, other 11.6% <p> </p><br>

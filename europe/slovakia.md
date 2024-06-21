@@ -333,8 +333,8 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Zuzana CAPUTOVA (since 15 June 2019)<br>
-_head of government_: Prime Minister Robert FICO (since 25 October 2023); Deputy Prime Ministers Robert KALINAK, Denisa SAKOVA, Tomas TARABA, and Peter KMEC (all since 25 October 2023)<br>
+_chief of state_: President Peter PELLEGRINI (since 15 June 2024)<br>
+_head of government_: Prime Minister Robert FICO (since 25 October 2023)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election first round 23 March 2024 with a runoff on 6 April 2024 (next to be held in 2029); following National Council elections (every 4 years), the president designates a prime minister candidate, usually the leader of the party or coalition that wins the most votes, who must win a vote of confidence in the National Council<br>
 _election results_: <em><br>2024: </em>Peter PELLEGRINI elected president in the second round; percent of vote in first round - Ivan KORCOK (independent) 42.5%; Peter PELLEGRINI (Hlas-SD) 37%; Stefan HARABIN (independent) 11.7%, other 8.8%; percent of vote in second round Peter PELLEGRINI (Hlas-SD) 53.1%; Ivan KORCOK (independent) 46.9%<em>; </em>PELLEGRINI will takeoffice on 15 June 2024<em><br><br>2019:</em> Zuzana CAPUTOVA elected president in second round; percent of vote - Zuzana CAPUTOVA (PS) 58.4%, Maros SEFCOVIC (independent) 41.6%<br><br><em>2014:</em> Andrej KISKA elected president in second round; percent of vote - Andrej KISKA (independent) 59.4%, Robert FICO (Smer-SD) 40.6%<br>
@@ -356,12 +356,12 @@ Alliance-Szovetseg or A-S [Krisztian FORRO]<br>Christian Union or KÚ [Anna ZABO
 Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Radovan JAVORCIK (since 18 January 2021)<br>
+_chief of mission_: Ambassador Radovan JAVORČ&Iacute;K (since 18 January 2021)<br>
 _chancery_: 3523 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 237-1054<br>
 _FAX_: [1] (202) 237-6438<br>
 _email address and website_: <br>emb.washington@mzv.sk<br><br>https://www.mzv.sk/web/washington-en<br>
-_consulate(s) general_: Los Angeles, New York<br>
+_consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Gautam A. RANA (since 28 September 2022)<br>
@@ -390,7 +390,7 @@ _selected World Heritage Site locales_: Historic Town of Bansk&aacute; &Scaron;t
 ## Economy
 
 **Economic overview**<br>
-high-income, EU-member European economy; major electronics and automobile exporter; new anticorruption and judiciary reforms; low unemployment; low regional innovation; strong financial sector<br>
+high-income EU- and eurozone-member economy; manufacturing and exports led by automotive sector; weakening of anti-corruption laws may impact foreign investment and status of EU funds; influx of foreign labor offsets aging workforce; widening fiscal deficit from social spending and EU-financed public investments&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
 $180.205 billion (2022 est.)<br>

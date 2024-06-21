@@ -293,8 +293,8 @@ _residency requirement for naturalization_: note - no procedure for naturalizati
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Surangel WHIPPS Jr. (since 21 January 2021); Vice President Jerrlyn Uduch Sengebau SENIOR (since 21 January 2021); note - the president is both chief of state and head of government<br>
-_head of government_: President Surangel WHIPPS Jr. (since 21 January 2021); Vice President Jerrlyn Uduch Sengebau SENIOR (since 21 January 2021)<br>
+_chief of state_: President Surangel WHIPPS Jr. (since 21 January 2021); note - the president is both chief of state and head of government<br>
+_head of government_: President Surangel WHIPPS Jr. (since 21 January 2021)<br>
 _cabinet_: Cabinet appointed by the president with the advice and consent of the Senate; also includes the vice president; the Council of Chiefs consists of chiefs from each of the states who advise the president on issues concerning traditional laws, customs, and their relationship to the constitution and laws of Palau<br>
 _elections/appointments_: president and vice president directly elected on separate ballots by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 3 November 2020 (next to be held on 12 November 2024)<br>
 _election results_: <br><em>2020: </em>Surangel WHIPPS, Jr. elected president in second round; percent of vote - Surangel WHIPPS, Jr. (independent) 56.7%, Raynold OILUCH (independent) 43.3%<br><br><em>2016:</em> Tommy REMENGESAU reelected president in the second round; percent of vote - Tommy REMENGESAU (independent) 51.3%, Surangel WHIPPS, Jr. (independent) 48.7%; Antonio BELLS elected vice president<br>

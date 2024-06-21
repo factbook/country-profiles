@@ -327,7 +327,7 @@ _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Angong ACUIL (
 _chancery_: 1015 31st Street NW, Suite 300, Washington, DC 20007<br>
 _telephone_: [1] (202) 600-2238<br>
 _FAX_: [1] (202) 644-9910<br>
-_email address and website_: <br>info.ssdembassy@gmail.com<br><br>https://www.southsudanembassyusa.org/<br>
+_email address and website_: <br>info.ssdembassy@gmail.com<br><br>https://www.ssembassydc.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Michael J. ADLER (since 24 August 2022)<br><br>
@@ -609,7 +609,7 @@ see entry for Sudan<br>
 ## Military and Security
 
 **Military and security forces**<br>
-South Sudan People’s Defense Force (SSPDF): Ground Force (includes Presidential Guard), Air Force, Air Defense Forces; National (or Necessary) Unified Forces (NUF)<br><br>Ministry of Interior: South Sudan National Police Service (2023)<br>
+South Sudan People’s Defense Force (SSPDF): Land Forces (includes Presidential Guard), Air Forces, Marines (Riverine Forces), Reserve Forces; National (or Necessary) Unified Forces (NUF)<br><br>Ministry of Interior: South Sudan National Police Service (SSNPS) (2024)<br>
 <strong>note 1: </strong>the NUF are being formed by retraining rebel and pro-government militia fighters into military, police, and other government security forces; the first operational NUF deployed in November 2023<strong><br><br>note 2:</strong> numerous irregular forces operate in the country with official knowledge, including militias operated by the National Security Service (an internal security force under the Ministry of National Security) and proxy forces<br>
 
 **Military expenditures**<br>
@@ -631,7 +631,7 @@ the SSPDF inventory is primarily of Soviet origin; South Sudan has been under a 
 <strong>note:</strong> in 2019, women made up less than 10% of the active military<br>
 
 **Military - note**<br>
-the South Sudan People's Defense Forces (SSPDF) are largely focused on internal security; the Ground Force has approximately eight light infantry divisions plus a mechanized presidential guard division (aka the Tiger Division); the Air Force has small numbers of transport aircraft and combat helicopters <br><br>the SSPDF, formerly the Sudan People’s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br><br>the UN Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS had about 15,000 personnel deployed in the country as of 2023<br><br>the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of 2023, UNISFA had approximately 3,500 personnel assigned (2023)<br>
+the South Sudan People's Defense Forces (SSPDF) are largely focused on internal security; the Land Forces have approximately eight light infantry divisions and a mechanized presidential guard division (aka the Tiger Division), plus some commandos/special forces and other independent combat units; the Air Force has small numbers of transport aircraft and combat helicopters <br><br>the SSPDF, formerly the Sudan People’s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br><br>the UN Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS had about 15,000 personnel deployed in the country as of 2023<br><br>the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of 2023, UNISFA had approximately 3,500 personnel assigned (2023)<br>
 
 ## Transnational Issues
 

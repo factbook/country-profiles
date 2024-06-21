@@ -595,12 +595,12 @@ _Total energy consumption per capita 2019_: 32.901 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 48,510 (2021 est.)<br>
+_total subscriptions_: 49,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 5 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 990,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
+_total subscriptions_: 992,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 107 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Fiji is the leading market to watch in terms of both LTE and 5G development in the region; the market boasts relatively sophisticated, advanced digital infrastructure, with telcos&rsquo; heavy investment resulting in the country having the highest mobile and internet subscriptions in the Pacific Islands region; LTE, LTE-A, and fiber technologies have received the most investment by the Fijian mobile operators, LTE now accounts for the largest share of connections in the mobile segment; concentrating on the more highly populated areas, the operators are preparing for the next growth area of high-speed data; they also have 5G in mind, and are preparing their networks to be 5G-ready, anticipating an easier migration to the technology based on the relatively high LTE subscription rate; Fiji presents a challenging geographic environment for infrastructure development due to its population being spread across more than 100 islands; the majority of Fijians live on the two main islands of Viti Levu and Vanua Levu; in July 2018, the two islands were linked by the Savusavu submarine cable system, which provides a more secure link in times of emergency weather events such as the regular tropical cyclones that often cause massive destruction to the area, including destroying essential infrastructure such as electricity and telecommunications equipment; notably, the December 2021 eruption of the Hunga Tonga&ndash;Hunga Ha'apai submarine volcano in Tonga damaged the Tonga Cable which connects Fiji, and Tonga blocking the latter off from internet services; cable theft and damage of critical communications infrastructure has also become a concern in Fiji, prompting authorities to establish a joint task force to tackle the issue (2022)<br>
@@ -669,11 +669,11 @@ Republic of Fiji Military Force (RFMF): Land Force Command, Maritime Command (20
 <strong>note: </strong>the RFMF is subordinate to the president as the commander-in-chief, while the Fiji Police Force reports to the Ministry of Defense, National Security, and Policing<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2023 est.)<br>
 1.2% of GDP (2022 est.)<br>
 1.5% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
 1.6% of GDP (2019 est.)<br>
-1.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 4,000 active personnel (2023)<br>

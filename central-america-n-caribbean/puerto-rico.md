@@ -563,7 +563,8 @@ _key ports_: Arroyo, Ensenada Honda, Mayaguez, Playa de Guanica, Playa de Guayan
 ## Military and Security
 
 **Military and security forces**<br>
-no regular indigenous military forces; US National Guard (Army and Air), State Guard, Police Force (2024)<br>
+Puerto Rico Police Bureau (Negociado de la Policía de Puerto Rico), Puerto Rico (US) National Guard (Guardia Nacional de Puerto Rico or GNPR)<br>
+<strong>note: </strong>the GNPR was created by order of the US Congress in June 1919; the organization traces its lineage and history to Spanish militias created in 1511 and is one of the oldest organizations in the US National Guard system<br>
 
 **Military - note**<br>
 defense is the responsibility of the US<br>

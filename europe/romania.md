@@ -340,7 +340,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Klaus Werner IOHANNIS (since 21 December 2014)<br>
-_head of government_: Prime Minister Marcel CIOLACU (since 15 June 2023); Deputy Prime Ministers Sorin GRINDEANU (since 25 November 2021) and Hunor KELEMEN (since 23 December 2020)<br>
+_head of government_: Prime Minister Marcel CIOLACU (since 15 June 2023)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on&nbsp;10 November 2019 with a runoff on&nbsp;24 November 2019 (next to be held&nbsp;in November 2024); prime minister appointed by the president with consent of Parliament<br>
 _election results_: <em><br>2019: </em>Klaus IOHANNIS reelected president in second round; percent of vote - Klaus IOHANNIS (PNL) 66.1%, Viorica DANCILA (PSD) 33.9%<br><br><em>2014:</em> Klaus IOHANNIS elected president in second round; percent of vote - Klaus IOHANNIS (PNL) 54.4%, Victor PONTA (PSD) 45.6%<br>
@@ -364,9 +364,9 @@ Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CEI, EAPC, EBRD, ECB, EIB, 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Dan Andrei MURARU (since 15 September 2021)<br>
 _chancery_: 1607 23rd Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 332-4829; [1] (202) 332-4846<br>
+_telephone_: [1] (202) 332-4829<br>
 _FAX_: [1] (202) 232-4748<br>
-_email address and website_: <br>washington@mae.ro; office@roembus.org<br><br>Embassy of Romania - Washington, DC (roembus.org)<br>
+_email address and website_: <br>washington@mae.ro<br><br>https://washington.mae.ro/en<br>
 _consulate(s) general_: Chicago, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -733,10 +733,10 @@ the Romanian Armed Forces are responsible for territorial defense, fulfilling Ro
 ## Space
 
 **Space agency/agencies**<br>
-Romanian Space Agency (Agentia Spatiala Romania, ROSA; established 1991) (2023)<br>
+Romanian Space Agency (Agentia Spatiala Romania, ROSA; established 1991) (2024)<br>
 
 **Space program overview**<br>
-space program is integrated into the European Space Agency (ESA) and dates back to the 1960s; program is involved in the development and production of a wide range of capabilities and technologies, including satellites, satellite/space launch vehicles (SLVs), remote sensing, human space flight, navigation, telecommunications, and other space-related applications; in addition to the ESA/EU and their member states (particularly Bulgaria, France, Germany, Hungary, Italy), it cooperates with a variety of other space agencies and commercial space entities, including those of Azerbaijan, China, Japan, Russia, and the US; also participates in international programs; has an active space industry sector with over 50 entities involved in space-related activities (2023)<br>
+space program is integrated into the European Space Agency (ESA) and dates back to the 1960s; program is involved in the development and production of a wide range of capabilities and technologies, including satellites, satellite/space launch vehicles (SLVs), remote sensing, human space flight, navigation, telecommunications, and other space-related applications; in addition to the ESA/EU and their member states (particularly Bulgaria, France, Germany, Hungary, Italy), it cooperates with a variety of other space agencies and commercial space entities, including those of Azerbaijan, China, Japan, Russia, and the US; also participates in international programs; has an active space industry sector with over 50 entities involved in space-related activities (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

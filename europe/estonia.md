@@ -385,7 +385,7 @@ _selected World Heritage Site locales_: Historic Center (Old Town) of Tallinn; S
 ## Economy
 
 **Economic overview**<br>
-advanced service-based EU and OECD economy; regional trade and telecommunications leader; recently rejected Baltic sea rail tunnel from Tallinn to Helsinki; flat income taxation; substantial welfare system; balanced budget culture; business-friendly climate<br>
+advanced, service-based EU and eurozone economy; economic downturn due to inflation, trade, and energy impacts of Ukraine war; decline in intra-EU trade; low public debt relative to EU members; recovery depends on improving private investment and productivity rates<br>
 
 **Real GDP (purchasing power parity)**<br>
 $50.867 billion (2022 est.)<br>

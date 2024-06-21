@@ -263,7 +263,7 @@ see United States<br>
 
 **Executive branch**<br>
 _chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)<br>
-_head of government_: Governor Lourdes LEON GUERRERO (since 7 January 2019); Lieutenant Governor Josh TENORIO (since 7 January 2019)<br>
+_head of government_: Governor Lourdes LEON GUERRERO (since 7 January 2019)<br>
 _cabinet_: Cabinet appointed by the governor with the consent of the Legislature<br>
 _elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as Guam, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for 2 consecutive terms); gubernatorial election last held on 8 November 2022 (next to be held in November 2026)<br>
 _election results_: <em>2022:</em> Lourdes LEON GUERRERO reelected governor; percent of vote - Lourdes LEON GUERRERO (Democratic Party) 55%, Felix CAMACHO (Republican Party) 44%; Josh TENORIO (Democratic Party) elected lieutenant governor<br>
@@ -544,7 +544,7 @@ _key ports_: Apra Harbor<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Guam National Guard (US Army)<br>
+Guam Police Department (GPD); Guam (US) National Guard&nbsp;<br>
 
 **Military - note**<br>
 defense is the responsibility of the US; the US military maintains over 6,000 personnel on Guam, including an air base, an air wing, and a naval installation command (2023)<br>

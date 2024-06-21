@@ -367,7 +367,7 @@ Broad Front or FA (Frente Amplio) [Fernando PEREIRA] - (a broad governing coalit
 CAN (associate), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAES, LAIA, Mercosur, MIGA, MINUSTAH, MONUSCO, NAM (observer), OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNIDO, Union Latina, UNISFA, UNMOGIP, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Andres Augusto DURAN HAREAU (since 23 December 2020)<br>
+_chief of mission_: Ambassador Andr&eacute;s Augusto DUR&Aacute;N Hareau (since 23 December 2020)<br>
 _chancery_: 1913 I Street NW, Washington, DC 20006<br>
 _telephone_: [1] (202) 331-1313<br>
 _FAX_: [1] (202) 331-8142<br>

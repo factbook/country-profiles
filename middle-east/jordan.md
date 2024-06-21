@@ -343,7 +343,7 @@ _residency requirement for naturalization_: 15 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King ABDALLAH II (since 7 February 1999); Heir Apparent Crown Prince HUSSEIN (eldest son of the monarch, born 28 June 1994); the monarchy is hereditary<br>
+_chief of state_: King ABDALLAH II (since 7 February 1999)<br>
 _head of government_: Prime Minister Bisher AL-KHASAWNEH (since 7 October 2020)<br>
 _cabinet_: Cabinet appointed by the monarch in consultation with the prime minister<br>
 _elections/appointments_: prime minister appointed by the monarch<br>

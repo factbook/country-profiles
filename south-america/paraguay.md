@@ -364,11 +364,11 @@ Asociacion Nacional Republicana (National Republican Association) - Colorado Par
 CAN (associate), CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHRC, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Jose Antonio DOS SANTOS BEDOYA (since 15 September 2021)<br>
+_chief of mission_: Ambassador José Antonio DOS SANTOS BEDOYA (since 15 September 2021)<br>
 _chancery_: 2209 Massachusetts Avenue, NW, Washington DC&nbsp; 20008<br>
 _telephone_: [1] (202) 483-6960<br>
 _FAX_: [1] (202) 234-4508<br>
-_email address and website_: <br>gabineteembaparusa@mre.gov.py; secretario@embaparusa.gov.py<br>
+_email address and website_: <br>gabineteembaparusa@mre.gov.py<br><br>Embajada de la República del Paraguay ante los Estados Unidos de América :: The Embassy (mre.gov.py)<br>
 _consulate(s) general_: Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>

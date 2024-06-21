@@ -374,7 +374,6 @@ _chancery_: 2249 R St NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 387-6101<br>
 _FAX_: [1] (202) 462-3829<br>
 _email address and website_: <br>information@kenyaembassydc.org<br><br>https://kenyaembassydc.org/#<br>
-_consulate(s) general_: Los Angeles<br>
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>

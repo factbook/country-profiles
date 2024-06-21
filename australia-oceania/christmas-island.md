@@ -203,9 +203,6 @@ tourism, phosphate extraction (near depletion)<br>
 _revenues_: NA<br>
 _expenditures_: NA<br>
 
-**Fiscal year**<br>
-1 July - 30 June<br>
-
 **Exports - partners**<br>
 NZ 25%, Indonesia 18%, Singapore 12%, Australia 9%, Ireland 8% (2022)<br>
 <b>note:</b> top five export partners based on percentage share of exports<br>

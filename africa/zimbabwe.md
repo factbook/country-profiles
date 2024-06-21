@@ -352,8 +352,8 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Emmerson Dambudzo MNANGAGWA (since 4 September 2023); First Vice President Constantino CHIWENGA (since 4 September 2023); Second Vice President Kembo MOHADI (8 September 2023); note - Robert Gabriel MUGABE resigned on 21 November 2017, after ruling for 37 years<br>
-_head of government_: President Emmerson Dambudzo MNANGAGWA (since 4 September 2023); First Vice President Constantino CHIWENGA (since 4 September 2023); Second Vice President Kembo MOHADI (8 September 2023)<br>
+_chief of state_: President Emmerson Dambudzo MNANGAGWA (since 4 September 2023)<br>
+_head of government_: Vice President Constantino CHIWENGA (since 11 September 2023)&nbsp;<br>
 _cabinet_: Cabinet appointed by president, responsible to National Assembly<br>
 _elections/appointments_: each presidential candidate nominated with a nomination paper signed by at least 10 registered voters (at least 1 candidate from each province) and directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 23 August 2023 (next to be held in 2028); co-vice presidents drawn from party leadership<br>
 _election results_: <em>2023: </em>Emmerson MNANGAGWA reelected president in first round; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 52.6%, Nelson CHAMISA (MDC-T) 44%, Wilbert MUBAIWA (NPC) 1.2%, other 2.2%<br><em><br>2018:</em> Emmerson MNANGAGWA elected president in first round; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 50.7%, Nelson CHAMISA (MDC-T) 44.4%, Thokozani KHUPE (MDC-N) 0.9%, other 4%<br>
@@ -691,7 +691,7 @@ _unpaved_: 78,786 km (2023)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ)<br><br>Ministry of Home Affairs: Zimbabwe Republic Police (2023)<br>
+Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ)<br><br>Ministry of Home Affairs: Zimbabwe Republic Police (2024)<br>
 
 **Military expenditures**<br>
 0.5% of GDP (2022 est.)<br>
@@ -715,10 +715,10 @@ the ZDF’s primary responsibilities are protecting the country’s sovereignty 
 ## Space
 
 **Space agency/agencies**<br>
-Zimbabwe National Geospatial and Space Agency (ZINGSA; established in 2019 and officially launched in 2021; under the Ministry of Higher and Tertiary Education, Science and Technology Development) (2023)<br>
+Zimbabwe National Geospatial and Space Agency (ZINGSA; established in 2019 and officially launched in 2021; under the Ministry of Higher and Tertiary Education, Science and Technology Development) (2024)<br>
 
 **Space program overview**<br>
-has a nascent program with the goal of utilizing space technologies in economic development; particularly interested in remote sensing capabilities to assist with monitoring or managing agriculture and food security, climate change, disease outbreaks, environmental hazards and disasters, and natural resources, as well as weather forecasting; part of a joint project (BIRDS-5) with Japan, which seeks to promote the first steps towards creating an indigenous space program by designing, building, testing, launching, and operating the first satellites for participating countries (2023)<br>
+has a nascent program with the goal of utilizing space technologies in economic development; particularly interested in remote sensing capabilities to assist with monitoring or managing agriculture and food security, climate change, disease outbreaks, environmental hazards and disasters, and natural resources, as well as weather forecasting; part of a joint project (BIRDS-5) with Japan, which seeks to promote the first steps towards creating an indigenous space program by designing, building, testing, launching, and operating the first satellites for participating countries (2024)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

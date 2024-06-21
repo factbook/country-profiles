@@ -189,7 +189,7 @@ none<br>
 CE (observer), IAEA, Interpol, IOM, ITSO, ITU, ITUC (NGOs), OAS (observer), OPCW, OSCE, Schengen Convention (de facto member), UN (observer), UNCTAD, UNHCR, UNWTO (observer), UPU, WIPO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Apostolic Nuncio Archbishop Christophe PIERRE (since 27 June 2016)<br>
+_chief of mission_: Apostolic Nuncio Cardinal Christophe PIERRE (since 27 June 2016)<br>
 _chancery_: 3339 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 333-7121<br>
 _FAX_: [1] (202) 337-4036<br>
@@ -235,9 +235,6 @@ _expenditures_: $348 million (2013)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 NA<br>
-
-**Fiscal year**<br>
-calendar year<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>

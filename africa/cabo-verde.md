@@ -596,12 +596,12 @@ _Total energy consumption per capita 2019_: 26.539 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 57,020 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (2021 est.)<br>
+_total subscriptions_: 57,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 590,171 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
+_total subscriptions_: 589,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 99 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: LTE reaches almost 40% of the population; regulator awards commercial 4G licenses and starts 5G pilot; govt. extends USD 25 million for submarine fiber-optic cable project linking Africa to Portugal and Brazil (2020)<br>
@@ -657,7 +657,7 @@ _key ports_: Porto da Praia, Porto Grande<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Cabo Verdean Armed Forces (FACV): Army (also called the National Guard, GN; includes a small air component), Cabo Verde Coast Guard (Guardia Costeira de Cabo Verde, GCCV) (2023)<br>
+Cabo Verdean Armed Forces (FACV): National Guard (GN; serves as the army and includes a small air component), Cabo Verde Coast Guard (Guardia Costeira de Cabo Verde, GCCV) (2024)<br>
 <strong>note:</strong>  the National Police are under the Ministry of Internal Affairs<br>
 
 **Military expenditures**<br>
@@ -674,10 +674,10 @@ the military has approximately 1,000-1,200 personnel (2023)<br>
 the FACV has a limited amount of mostly dated and second-hand equipment, largely from China, some European countries, and the former Soviet Union (2023)<br>
 
 **Military service age and obligation**<br>
-18-35 years of age for male and female selective compulsory military service; 24-month conscript service obligation; 17 years of age for voluntary service (with parental consent) (2023)<br>
+18-35 years of age for male and female selective compulsory military service; 24-month conscript service obligation; 17 years of age for voluntary service (with parental consent) (2024)<br>
 
 **Military - note**<br>
-the FACV/National Guard is mostly a ground force with approximately two infantry battalions and a small air component with a maritime patrol squadron; the Coast Guard had a few coastal patrol craft and patrol boats (2023)<br>
+the FACV/National Guard is organized into three small territorial commands; its missions are defense of the country and supporting internal security; forces include marines, military police, artillery, and support forces; the Coast Guard's key missions include patrolling, monitoring, and protecting Cabo Verde's territorial waters; it also conducts search and rescue and provides support to the National Guard; the Coast Guard is equipped with a few coastal patrol craft and patrol boats (2024)<br>
 
 ## Transnational Issues
 

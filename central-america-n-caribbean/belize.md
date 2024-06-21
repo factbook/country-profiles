@@ -339,7 +339,7 @@ _subordinate courts_: Magistrates' Courts; Family Court<br>
 Belize People’s Front or BPF [Nefretery Nancy MARIN]<br>Belize Progressive Party or BPP [Wil MAHEIA] (formed in 2015 from a merger of the People's National Party, elements of the Vision Inspired by the People, and other smaller political groups)<br>People's United Party or PUP [John BRICENO]<br>United Democratic Party or UDP [Moses “Shyne” BARROW and Hugo PATT]<br>Vision Inspired by the People or VIP [Hubert ENRIQUEZ]<br>
 
 **International organization participation**<br>
-ACP, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Lynn Raymond YOUNG (since 7 July 2021)<br>
@@ -598,7 +598,7 @@ _total subscriptions_: 19,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 5 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 260,000 (2021 est.)<br>
+_total subscriptions_: 264,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 66 (2021 est.)<br>
 
 **Telecommunication systems**<br>
@@ -666,11 +666,11 @@ Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard; Belize Police De
 <strong>note:</strong> the Ministry of National Defense and Border Security is responsible for oversight of the BDF and the Coast Guard, while the Ministry of Home Affairs and New Growth Industries has responsibility for the Belize Police Department and prisons; the Police Department is primarily responsible for internal security<br>
 
 **Military expenditures**<br>
+0.9% of GDP (2023 est.)<br>
 1.1% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
 1.5% of GDP (2020 est.)<br>
 1.4% of GDP (2019 est.)<br>
-1.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,500 BDF personnel; approximately 500 Coast Guard (2023)<br>

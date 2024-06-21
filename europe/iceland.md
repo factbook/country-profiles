@@ -326,8 +326,8 @@ _residency requirement for naturalization_: 3 to 7 years<br>
 _chief of state_: President Gudni Thorlacius JOHANNESSON (since 1 August 2016)<br>
 _head of government_: Prime Minister Bjarni BENEDIKTSSON (since 9 April 2024); note - Katrin JAKOBSDOTTIR resigned on 5 April 2024 in order to be a candidate in the 1 June 2024 presidential election.<br>
 _cabinet_: Cabinet appointed by the president upon the recommendation of the prime minister<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 27 June 2020 (next to be held on 1 June 2024); following legislative elections, the leader of the majority party or majority coalition becomes prime minister<br>
-_election results_: <em><br>2020: </em>Gudni Thorlacius JOHANNESSON reelected president; percent of vote - Gudni Thorlacius JOHANNESSON (independent) 92.2%, Gudmundur Franklin JONSSON (independent) 7.8%<br><br><em>2016: </em>Gudni Thorlacius JOHANNESSON elected president; Gudni Thorlacius JOHANNESSON (independent) 39.1%, Halla TOMASDOTTIR (independent) 27.9%, Andri Snær MAGNASON (Democracy Movement) 14.3%, David ODDSSON (independent) 13.7%, other 5%<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 1 June 2024 (next to be held in June 2028); following legislative elections, the leader of the majority party or majority coalition becomes prime minister<br>
+_election results_: <em>2024:  </em>Halla TOMASDOTTIR elected president; percent of vote - Halla TOMASDOTTIR (independent) 34.1%, Katrin JAKOBSDOTTIR (Left-Green Movement) 25.2%, Halla Hrund LOGADOTTIR (independent) 15.7%, Jon GNARR (Social Democratic Alliance) 10.1%, Baldur PORHALLSSON (independent) 8.4%, other 6.5%; note - TOMASDOTTIR will take office 1 August 2024<em><br><br>2020: </em>Gudni Thorlacius JOHANNESSON reelected president; percent of vote - Gudni Thorlacius JOHANNESSON (independent) 92.2%, Gudmundur Franklin JONSSON (independent) 7.8%<br><br><em>2016: </em>Gudni Thorlacius JOHANNESSON elected president; Gudni Thorlacius JOHANNESSON (independent) 39.1%, Halla TOMASDOTTIR (independent) 27.9%, Andri Snær MAGNASON (Democracy Movement) 14.3%, David ODDSSON (independent) 13.7%, other 5%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by closed-list proportional representation vote using the D'Hondt method; members serve 4-year terms)<br>
@@ -346,12 +346,11 @@ _subordinate courts_: Appellate Court or Landsrettur; 8 district courts; Labor C
 Arctic Council, Australia Group, BIS, CBSS, CD, CE, EAPC, EBRD, EFTA, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Bergdis ELLERTSDOTTIR (since 16 September 2019)<br>
+_chief of mission_: Ambassador Bergd&iacute;s ELLERTSD&Oacute;TTIR (since 16 September 2019)<br>
 _chancery_: House of Sweden, 2900 K Street NW, #509, Washington, DC 20007<br>
 _telephone_: [1] (202) 265-6653<br>
 _FAX_: [1] (202) 265-6656<br>
 _email address and website_: <br>washington@mfa.is<br><br>https://www.government.is/diplomatic-missions/embassy-of-iceland-in-washington-d.c/<br>
-_consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Carrin F. PATMAN (since 6 October 2022)<br>
@@ -379,7 +378,7 @@ _selected World Heritage Site locales_: Thingvellir National Park (c); Surtsey (
 ## Economy
 
 **Economic overview**<br>
-high-income European economy; frozen EU accession application but Schengen Area member; major tourism, fishing, and aluminum industries; complex regulatory environment; large FDI recipient; highly educated workforce<br>
+high-income north Atlantic island economy; non-EU member but market integration via European Economic Area (EEA); dominant tourism, fishing, and aluminum industries vulnerable to demand swings and volcanic activity; inflation remains above target rate; barriers to foreign business access and economic diversification<br>
 
 **Real GDP (purchasing power parity)**<br>
 $21.227 billion (2022 est.)<br>

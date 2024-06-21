@@ -337,8 +337,8 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Joao Manuel Goncalves LOURENCO (since 26 September 2017); Vice President Esperanca Francisco DA COSTA (since 15 September 2022); note - the president is both chief of state and head of government<br>
-_head of government_: President Joao Manuel Goncalves LOURENCO (since 15 September 2022); Vice President Esperanca Francisco DA COSTA (since 15 September 2022)<br>
+_chief of state_: President Joao Manuel Goncalves LOURENCO (since 26 September 2017)<br>
+_head of government_: President Joao Manuel Goncalves LOURENCO&nbsp;<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 24 August 2022 (next to be held in 2027)<br>
 _election results_: Joao Manuel Goncalves LOURENCO (MPLA) elected president by then winning party following the 24 August 2022 general election<br>
@@ -699,7 +699,7 @@ _key ports_: Cabinda, Estrela Oil Field, Lobito, Luanda, Malongo Oil Terminal, N
 ## Military and Security
 
 **Military and security forces**<br>
-Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Guerra Angola, MGA), Angolan National Air Force (Forca Aerea Nacional Angolana, FANA; under operational control of the Army)<br><br>Ministry of Interior: National Police, Border Guard Police (2023)<br>
+Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Guerra Angola, MGA), Angolan National Air Force (Forca Aerea Nacional Angolana, FANA; under operational control of the Army)<br><br>Ministry of Interior: National Police, Border Guard Police (2024)<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2022 est.)<br>

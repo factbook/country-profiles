@@ -338,9 +338,6 @@ tourism, rum, textiles, electronic appliances<br>
 _revenues_: $66.67 million (2017 est.)<br>
 _expenditures_: $47.04 million (2017 est.)<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Current account balance**<br>
 -$15.4 million (2017 est.)<br>
 -$12.2 million (2016 est.)<br>

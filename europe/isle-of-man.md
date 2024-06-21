@@ -365,9 +365,6 @@ _expenditures_: $943 million (FY05/06 est.)<br>
 **Budget surplus (+) or deficit (-)**<br>
 0.3% (of GDP) (FY05/06 est.)<br>
 
-**Fiscal year**<br>
-1 April - 31 March<br>
-
 **Exports - partners**<br>
 almost entirely United Kingdom (2022)<br>
 

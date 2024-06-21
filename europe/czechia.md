@@ -335,7 +335,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Petr PAVEL (since 9 March 2023)<br>
-_head of government_: Prime Minister Petr FIALA (since 17 December 2021); First Deputy Prime Minister Vit RAKUSAN (since 17 December 2021), Deputy Prime Ministers Marian JURECKA, Ivan BARTOS, Vlastimil VALEK (all since 17 December 2021)<br>
+_head of government_: Prime Minister Petr FIALA (since 17 December 2021)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 13 to 14 January 2023 with a second round held from 27 to 28 January 2023; next election to be by January 2028; prime minister appointed by the president for a 4-year term<br>
 _election results_: <em><br>2023: </em>Petr PAVEL elected in the second round; percent of vote in the first round - Petr PAVEL (independent) 35.4%, Andrej BABIS (ANO) 35<em>%</em>, Danuse NERUDOVA (Mayors and Independents) 13.9%, Pavel FISCHER (independent) 6.8%; percent of vote in the second round - Petr PAVEL 58.3%, Andrej BABIS 41.6%<em><br><br>2018:</em> Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%<br>
@@ -391,7 +391,7 @@ _selected World Heritage Site locales_: Historic Prague (c); Historic Telč (c);
 ## Economy
 
 **Economic overview**<br>
-high income, diversified EU economy; advanced services and automotive exporter; mostly intra-EU trader; low unemployment; usually maintains a positive trade balance; large investments in systems innovation and information technologies<br>
+high-income, diversified EU economy; manufacturing-oriented exporter led by automotive industry; growth stalled by inflation and energy supply disruption; business-friendly regulatory frameworks; tight labor market with low unemployment; seeking reforms to support decarbonization and improve energy efficiency<br>
 
 **Real GDP (purchasing power parity)**<br>
 $438.119 billion (2022 est.)<br>

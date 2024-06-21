@@ -419,7 +419,7 @@ _selected World Heritage Site locales_: Chartres Cathedral (c); Palace and Park 
 ## Economy
 
 **Economic overview**<br>
-high-income, advanced and diversified EU economy and euro user; strong tourism, aircraft manufacturing, pharmaceuticals, and industrial sectors; high public debt; ongoing pension and immigration reform efforts; transitioning to a green economy via "France 2030" strategy<br>
+high-income, advanced and diversified EU economy and euro user; strong tourism, aircraft manufacturing, pharmaceuticals, and industrial sectors; high public debt; ongoing pension reform efforts; transitioning to a green economy via "France 2030" strategy<br>
 
 **Real GDP (purchasing power parity)**<br>
 $3.12 trillion (2022 est.)<br>

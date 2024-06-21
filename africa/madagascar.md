@@ -344,7 +344,7 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2023</em>: Andry RAJOELINA reelected president in first round; percent of vote - Andry RAJOELINA (TGV) 59.0%, Siteny Thierry RANDRIANASOLONIAIKO 14.4%, Marc RAVALOMANANA (TIM) 12.1%, other 14.5%<br><em><br>2018</em>: Andry RAJOELINA elected president in second round; percent of vote in first round - Andry RAJOELINA (TGV) 39.2%, Marc RAVALOMANANA (TIM) 35.4%, other 25.4%; percent of vote in second round - Andry RAJOELINA 55.7%, Marc RAVALOMANANA 44.3%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate or Antenimierandoholona  (18 seats; 12 members indirectly elected by an electoral college of municipal, communal, regional, and provincial leaders and 6 appointed by the president; members serve 5-year terms)<br>National Assembly or Antenimierampirenena (151 seats; 87 members directly elected in single-seat constituencies by simple majority vote and 64 directly elected in multi-seat constituencies by closed-list proportional representation vote; members serve 5-year terms)<br>
+_description_: bicameral Parliament consists of:<br>Senate or Antenimierandoholona (18 seats; 12 members indirectly elected by an electoral college of municipal, communal, regional, and provincial leaders and 6 appointed by the president; members serve 5-year terms)<br>National Assembly or Antenimierampirenena (151 seats; 87 members directly elected in single-seat constituencies by simple majority vote and 64 directly elected in multi-seat constituencies by closed-list proportional representation vote; members serve 5-year terms)<br>
 _elections_: Senate - last held on 11 December 2020 (next to be held in December 2025)<br>National Assembly - last held on 27 May 2019 (next to be held on 29 May 2024)<br>
 _election results_: Senate - percent of vote by party - NA; elected seats by party - Irmar 10, Malagasy Miara Miainga 2; composition - men 17, women 1, percentage women 5.6%<br><br>National Assembly - percent of vote by party/coalition - IRD 55.6%, TIM 10.6%, independent 30.5%, other 3.3%; seats by party/coalition - IRD 84, TIM 16, independent 46, other 5; composition - men 123, women 28, percentage women 18.5%; total Parliament percentage women 10.7%<br>
 
@@ -364,8 +364,7 @@ _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Amielle Pelenn
 _chancery_: 2374 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 265-5525<br>
 _FAX_: [1] (202) 265-3034<br>
-_email address and website_: <br>contact@us-madagascar-embassy.org<br><br>https://us-madagascar-embassy.org/<br>
-_consulate(s) general_: New York<br>
+_email address and website_: <br>madagascar.embassy.dc@gmail.com<br><br>https://us-madagascar-embassy.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Claire PIERANGELO (since 2 May 2022)<br>

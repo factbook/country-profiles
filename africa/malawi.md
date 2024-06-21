@@ -355,10 +355,10 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Lazarus CHAKWERA (since 28 June 2020); Vice President Saulos CHILIMA (since 3 February 2020); note - the president is both chief of state and head of government<br>
-_head of government_: President Lazarus CHAKWERA (since 28 June 2020); Vice President Saulos CHILIMA (since 3 February 2020)<br>
+_chief of state_: President Lazarus CHAKWERA (since 28 June 2020)<br>
+_head of government_: President Lazarus CHAKWERA (since 28 June 2020)<br>
 _cabinet_: Cabinet named by the president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 23 June 2020 (next to be held in 2025)<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 23 June 2020 (next to be held in 2025) note - the president is both chief of state and head of government<br>
 _election results_: <br><em>2020: </em>Lazarus CHAKWERA elected president; Lazarus CHAKWERA (MCP) 59.3%, Peter Mutharika (DPP) 39.9%, other 0.8% <p><em>2014:</em> Peter MUTHARIKA elected president; percent of vote - Peter MUTHARIKA (DPP) 36.4%, Lazarus CHAKWERA (MCP) 27.8%, Joyce BANDA (PP) 20.2%, Atupele MULUZI (UDF) 13.7%, other 1.9% </p><br>
 
 **Legislative branch**<br>
@@ -380,9 +380,8 @@ ACP, AfDB, AU, C, CD, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Esme Jynet CHOMBO (since 19 April 2022)<br>
 _chancery_: 2408 Massachusetts Avenue NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 721-0270<br>
-_FAX_: [1] (202) 721-0288<br>
-_email address and website_: <br>info@malawiembassy-dc.org<br><br>http://www.malawiembassy-dc.org/<br>
+_telephone_: [1] (202) 451- 0409<br>
+_email address and website_: <br>malawidc@aol.com<br><br>Home | Malawi Embassy USA<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador David YOUNG (since 5 May 2022)<br>

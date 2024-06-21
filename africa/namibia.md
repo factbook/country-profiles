@@ -346,10 +346,10 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Acting President Nangolo MBUMBA (since 4 February 2024); Acting Vice President Netumbo NANDI-NDAITWAHNOTE (since 4 February 2024); note - the president is both chief of state and head of government; President Hage GEINGOB died on 4 February 2024, and Vice President MBUMBA was sworn in to run the government until the next presidential election in November 2024<br>
-_head of government_: Acting President Nangolo MBUMBA (since 4 February 2024); Acting Vice President Netumbo NANDI-NDAITWAHNOTE (since 4 February 2024); Prime Minister Saara KUUGONGELWA-AMADHILA (since 21 March 2015); note - the prime minister is appointed by the president to coordinate the work of the cabinet, advise the president, and is second in line of succession if the president is unable to serve; note - President Hage GEINGOB died on 4 February 2024, and the Vice President MBUMBA was sworn in to run the government until the next presidential election in November 2024<br> <p class="xmsonormal"> </p><br>
+_chief of state_: Acting President Nangolo MBUMBA (since 4 February 2024)&nbsp;<br>
+_head of government_: Acting President Nangolo MBUMBA (since 4 February 2024)<br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2019 (next to be held in November 2024)<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2019 (next to be held in November 2024) note - the president is both chief of state and head of government; note- President Hage GEINGOB died on 4 February 2024, and Vice President MBUMBA was sworn in to run the government until the next presidential election in November 2024<br>
 _election results_: <br><em>2019:</em> Hage GEINGOB reelected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 56.3%, Panduleni ITULA (independent) 29.4%, McHenry VENAANI (PDM) 5.3%, other .9% <p><em>2014:</em> Hage GEINGOB elected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 86.7%, McHenry VENAANI (DTA) 5%, Hidipo HAMUTENYA (RDP) 3.4%, Asser MBAI (NUDO)1.9%, Henk MUDGE (RP) 1%, other 2%</p><br>
 
 **Legislative branch**<br>
@@ -369,7 +369,7 @@ All People's Party or APP (Erastus SHUUMBWA)<br>Christian Democratic Voice or CD
 ACP, AfDB, AU, C, CD, CPLP (associate observer), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Margaret Natalie MENSAH-WILLIAMS (since 18 January 2021)<br>
+_chief of mission_: Ambassador Margareth Natalie MENSAH-WILLIAMS (since 18 January 2021)<br>
 _chancery_: 1605 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 986-0540<br>
 _FAX_: [1] (202) 986-0443<br>

@@ -681,11 +681,11 @@ _key ports_: Neum<br>
 Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegovine, OSBiH): Army, Air, Air Defense forces organized into an Operations Command and a Support Command<br><br>Ministry of Security: Border Police (2024)<br>
 
 **Military expenditures**<br>
-0.8% of GDP (2022 est.)<br>
+0.8% of GDP (2023 est.)<br>
+0.8% of GDP (2022)<br>
 0.9% of GDP (2021)<br>
 0.9% of GDP (2020)<br>
 0.8% of GDP (2019)<br>
-0.9% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 10,000 active-duty personnel (2023)<br>
