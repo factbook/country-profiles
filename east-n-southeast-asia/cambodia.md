@@ -342,9 +342,10 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: King Norodom SIHAMONI (since 29 October 2004)<br>
-_head of government_: Prime Minister HUN MANET (since 22 August 2023); note - MANET succeeded his father, HUN SEN, who had been prime minister since 1985<br>
+_head of government_: Prime Minister HUN MANET (since 22 August 2023)<br>
 _cabinet_: Council of Ministers named by the prime minister and appointed by the monarch<br>
 _elections/appointments_: monarch chosen by the 9-member Royal Council of the Throne from among all eligible males of royal descent; following legislative elections, a member of the majority party or majority coalition named prime minister by the Chairman of the National Assembly and appointed by the monarch<br>
+<strong>note: </strong> MANET succeeded his father, HUN SEN, who had been prime minister since 1985<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament of Cambodia consists of:<br>Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)<br><br>National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>

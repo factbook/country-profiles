@@ -322,11 +322,12 @@ _residency requirement for naturalization_: 4 years<br>
 16 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Jose Daniel ORTEGA Saavedra (since 10 January 2007); Vice President Rosario MURILLO Zambrana (since 10 January 2017); note - the president is both chief of state and head of government<br>
-_head of government_: President Jose Daniel ORTEGA Saavedra (since 10 January 2007); Vice President Rosario MURILLO Zambrana (since 10 January 2017)<br>
+_chief of state_: President Jose Daniel ORTEGA Saavedra (since 10 January 2007)<br>
+_head of government_: President Jose Daniel ORTEGA Saavedra (since 10 January 2007)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by qualified plurality vote for a 5-year term (no term limits); election last held on 7 November 2021 (next to be held on 1 November 2026)<br>
 _election results_: <br><em>2021:</em> Jose Daniel ORTEGA Saavedra reelected president for a fourth consecutive term; percent of vote - Jose Daniel ORTEGA Saavedra (FSLN) 75.9%, Walter ESPINOZA (PLC) 14.3%, Guillermo OSORNO (CCN) 3.3%, Marcelo MONTIEL (ALN) 3.1%, other 3.4%<br><em><br>2016:</em> Jose Daniel ORTEGA Saavedra reelected president for a third consecutive term; percent of vote - Jose Daniel ORTEGA Saavedra (FSLN) 72.4%, Maximino RODRIGUEZ (PLC) 15%, Jose del Carmen ALVARADO (PLI) 4.5%, Saturnino CERRATO Hodgson (ALN) 4.3%, other 3.7%<br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Asamblea Nacional (92 statutory seats, current 91; 70 members in multi-seat constituencies, representing the country's 15 departments and 2 autonomous regions, and 20 members in a single nationwide constituency directly elected by party-list proportional representation vote; up to 2 seats reserved for the previous president and the runner-up candidate in the previous presidential election; members serve 5-year terms)<br>

@@ -332,11 +332,12 @@ _residency requirement for naturalization_: 1 to 3 years<br>
 18 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022); Vice Presidents Salvador NASRALLA, Doris GUTI&Eacute;RREZ, and Renato FLORENTINO (all since 27 January 2022); note - the president is both chief of state and head of government; CASTRO is Honduras' first female president<br>
-_head of government_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022); Vice Presidents Salvador NASRALLA, Doris GUTI&Eacute;RREZ, and Renato FLORENTINO (all since 27 January 2022)<br>
+_chief of state_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022)&nbsp;<br>
+_head of government_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022)&nbsp;<br>
 _cabinet_: Cabinet appointed by president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term; election last held on 28 November 2021 (next to be held on 30 November 2025); note - in 2015, the Constitutional Chamber of the Honduran Supreme Court struck down the constitutional provisions on presidential term limits<br>
 _election results_: <br><em>2021: </em>Iris Xiomara CASTRO de Zelaya elected president; percent of vote - Iris Xiomara CASTRO de Zelaya (LIBRE) 51.1%, Nasry Juan ASFURA Zablah (PNH) 36.9%, Yani Benjamin ROSENTHAL Hidalgo (PL) 10%, other 2%<em><br><br>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Congress or Congreso Nacional (128 seats; members directly elected in 18 multi-seat constituencies by closed party-list proportional representation vote; members serve 4-year terms)<br>

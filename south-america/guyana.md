@@ -331,11 +331,12 @@ _residency requirement for naturalization_: na<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Mohammed Irfaan ALI (since 2 August 2020); First Vice President Mark PHILLIPS (since 2 August 2020); Vice President Bharrat JAGDEO (since 2 August 2020); Prime Minister Mark PHILLIPS (since 2 August 2020); note - the president is both chief of state and head of government<br>
-_head of government_: President Mohammed Irfaan ALI (since 2 August 2020); First Vice President Mark PHILLIPS (since 2 August 2020); Vice President Bharrat JAGDEO (since 2 August 2020)<br>
+_chief of state_: President Mohammed Irfaan ALI (since 2 August 2020)&nbsp;<br>
+_head of government_: President Mohammed Irfaan ALI (since 2 August 2020)<br>
 _cabinet_: Cabinet of Ministers appointed by the president, responsible to the National Assembly<br>
 _elections/appointments_: the predesignated candidate of the winning party in the last National Assembly election becomes president for a 5-year term (no term limits); election last held on 2 March 2020 (next to be held in 2025); prime minister appointed by the president<br>
 _election results_: <br><em>2020:</em> Mohammed Irfaan ALI (PPP/C) designated president by the majority party in the National Assembly<br><br><em>2015:</em> David GRANGER (APNU-AFC) designated president by the majority party in the National Assembly<br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (70 seats; 40 members directly elected in single-seat, nationwide constituencies, 25 directly elected in multi-seat constituencies -- all by closed-list proportional representation vote, 2 non-elected ministers, 2 non-elected parliamentary secretaries, and the speaker; members serve 5-year terms)<br>

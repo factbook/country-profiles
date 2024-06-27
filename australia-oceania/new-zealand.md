@@ -352,7 +352,7 @@ ACT New Zealand [David SEYMOUR]<br>Green Party [Marama DAVIDSON and James SHAW]<
 ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OECD, OPCW, Pacific Alliance (observer), Paris Club (associate), PCA, PIF, SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNOOSA, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Bede Gilbert CORRY (since 16 September 2022)<br>
+_chief of mission_: Ambassador Rosemary&nbsp;BANKS (since 17 June 2024)<br>
 _chancery_: 37 Observatory Circle NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 328-4800<br>
 _FAX_: [1] (202) 667-5277<br>

@@ -330,10 +330,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: King PHILIPPE (since 21 July 2013); Heir Apparent Princess ELISABETH (daughter of the monarch, born 25 October 2001)<br>
-_head of government_: Prime Minister Alexander DE CROO (since 1 October 2020); note - He resigned on 9 June 2024 following the parliamentary elections and is serving as prime minister in a caretaker status until a new prime minister is named<br>
+_chief of state_: King PHILIPPE (since 21 July 2013)<br>
+_head of government_: Caretaker Prime Minister Alexander DE CROO (since 1 October 2020)&nbsp;<br>
 _cabinet_: Council of Ministers formally appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary and constitutional; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch and approved by Parliament<br>
+<strong>note </strong>- Alexander DE CROO resigned on 9 June 2024 following the parliamentary elections and is serving as prime minister in a caretaker status until a new prime minister is named<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms)<br>Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>

@@ -356,11 +356,12 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Joseph R. BIDEN, Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021); note - the president is both chief of state and head of government<br>
-_head of government_: President Joseph R. BIDEN, Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)<br>
+_chief of state_: President Joseph R. BIDEN, Jr. (since 20 January 2021)<br>
+_head of government_: President Joseph R. BIDEN, Jr. (since 20 January 2021)<br>
 _cabinet_: Cabinet appointed by the president, approved by the Senate<br>
 _elections/appointments_: president and vice president indirectly elected on the same ballot by the Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); election last held on 3 November 2020 (next to be held on 5 November 2024)<br>
 _election results_: <em><br>2020:</em> Joseph R. BIDEN, Jr. elected president; electoral vote - Joseph R. BIDEN, Jr. (Democratic Party) 306, Donald J. TRUMP (Republican Party) 232; percent of direct popular vote - Joseph R. BIDEN Jr. 51.3%, Donald J. TRUMP 46.9%, other 1.8%<br><br><em>2016:</em> Donald J. TRUMP elected president; electoral vote - Donald J. TRUMP (Republican Party) 304, Hillary D. CLINTON (Democratic Party) 227, other 7; percent of direct popular vote - Hillary D. CLINTON 48.2%, Donald J. TRUMP 46.1%, other 5.7%<br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: bicameral Congress consists of:<br>Senate (100 seats; 2 members directly elected in each of the 50 state constituencies by simple majority vote except in Georgia and Louisiana which require an absolute majority vote with a second round if needed; members serve 6-year terms with one-third of membership renewed every 2 years)<br>House of Representatives (435 seats; members directly elected in single-seat constituencies by simple majority vote except in Georgia which requires an absolute majority vote with a second round if needed; members serve 2-year terms)<br>

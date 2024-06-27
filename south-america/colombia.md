@@ -346,11 +346,12 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Gustavo Francisco PETRO Urrego (since 7 August 2022); Vice President Francia Elena M&Aacute;RQUEZ Mina (since 7 August 2022); the president is both chief of state and head of government<br>
-_head of government_: President Gustavo Francisco PETRO Urrego (since 7 August 2022); Vice President Francia Elena M&Aacute;RQUEZ Mina (since 7 August 2022)<br>
+_chief of state_: President Gustavo Francisco PETRO Urrego (since 7 August 2022)<br>
+_head of government_: President Gustavo Francisco PETRO Urrego (since 7 August 2022)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority vote in 2 rounds if needed for a single 4-year term; election last held on 29 May 2022 with a runoff held on 19 June 2022 (next to be held on 31 May 2026); note - political reform in 2015 eliminated presidential reelection<br>
 _election results_: <em><br>2022:</em> Gustavo Francisco PETRO Urrego elected president in second round; percent of vote in first round - Gustavo Francisco PETRO Urrego (PHxC) 40.3%, Rodolfo HERNÁNDEZ Suárez (LIGA) 28.2%, Federico GUTIÉRREZ Zuluaga (Team for Colombia / CREEMOS) 23.9%, other 7.6%; percent of vote in second round - Gustavo Francisco PETRO Urrego 50.4%, Rodolfo HERNÁNDEZ Suarez 47.3%, blank 2.3%<br><em><br>2018:</em> Iván DUQUE Márquez elected president in second round; percent of vote - Iván DUQUE Márquez (CD) 54%, Gustavo Francisco PETRO Urrego (Humane Colombia) 41.8%, other/blank/invalid 4.2%<br>
+<strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: bicameral Congress or Congreso consists of:<br>Senate or Senado (108 seats; 100 members elected in a single nationwide constituency by party-list proportional representation vote, 2 members elected in a special nationwide constituency for indigenous communities, 5 members of the Commons political party, formerly the People's Alternative Revolutionary Force (FARC), for 2 legislative terms only: 2018-2022 and 2022-2026 as per the 2016 peace accord, and 1 seat reserved for the runner-up presidential candidate in the recent election; all members serve 4-year terms)<br> <p>Chamber of Representatives or Camara de Representantes (188 seats; 162 members elected in multi-seat constituencies by party-list proportional representation vote, 2 members elected in a special nationwide constituency for Afro-Colombians, 1 member elected by Colombians residing abroad, 1 member elected in a special nationwide constituency for the indigenous communities, 5 members of the Commons political party for two legislative terms only: 2018-2022 and 2022-2026 as per the 2016 peace accord, 16 seats for rural conflict victims for two legislative terms only: 2022-2026 and 2026-2030, and 1 seat reserved for the runner-up vice presidential candidate in the recent election; all members serve 4-year terms)</p><br>
@@ -370,7 +371,7 @@ Alternative Democratic Pole or PDA [Alexander LOPEZ Maya]<br>Citizens Option (Op
 ACS, BCIE, BIS, CABEI, CAN, Caricom (observer), CD, CDB, CELAC, EITI (candidate country), FAO, G-3, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador-designate Daniel GARCIA PE&Ntilde;A (since 21 May 2024)<br>
+_chief of mission_: Appointed Ambassador Daniel GARCIA PE&Ntilde;A (since 21 May 2024)<br>
 _chancery_: 1724 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 387-8338<br>
 _FAX_: [1] (202) 232-8643<br>

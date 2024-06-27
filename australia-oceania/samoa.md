@@ -315,7 +315,7 @@ _election results_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi II (independent) u
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Fono (53 seats statutory, 54 (2021-25 term); members from single-seat constituencies directly elected by simple majority vote, with a minimum 10% representation of women in the Assembly required; members serve 5-year terms)<br>
 _elections_: election last held on 9 April 2021 (next election to be held in 2026)<br>
-_election results_: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independent 5%; seats by party – 35 FAST, HRPP 18, independent 1; composition - men 47, women 7, percentage women 13%<br><br><strong>note:</strong> on 29 November 2021, the Election Commissioner added two seats for women to the National Assembly, bringing the HRPP’s total from 20 to 22 seats<br><strong><br></strong><br>
+_election results_: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independent 5%; seats by party – 35 FAST, HRPP 18, independent 1; composition - men 47, women 7, percentage women 13%<br><br><strong>note:</strong> on 29 November 2021, the Election Commissioner added two seats for women to the Legislative Assembly, bringing the HRPP’s total from 20 to 22 seats<br><strong><br></strong><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and 2 Supreme Court judges and meets once or twice a year); Supreme Court (consists of the chief justice and several judges)<br>

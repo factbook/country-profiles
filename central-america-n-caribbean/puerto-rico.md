@@ -283,7 +283,7 @@ see United States<br>
 18 years of age; universal; note - island residents are US citizens but do not vote in US presidential elections<br>
 
 **Executive branch**<br>
-_chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)<br>
+_chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021)<br>
 _head of government_: Governor Pedro PIERLUISI (since 2 January 2021)<br>
 _cabinet_: Cabinet appointed by governor with the consent of the Legislative Assembly<br>
 _elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of Puerto Rico do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 3 November 2020 (next to be held on 5 November 2024)<br>

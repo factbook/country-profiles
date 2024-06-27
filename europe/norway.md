@@ -315,7 +315,7 @@ Constitution Day, 17 May (1814)<br>
 
 **Constitution**<br>
 _history_: drafted spring 1814, adopted 16 May 1814, signed by Constituent Assembly 17 May 1814<br>
-_amendments_: proposals submitted by members of Parliament or by the government within the first three years of Parliament's four-year term; passage requires two-thirds majority vote of a two-thirds quorum in the next elected Parliament; amended over 400 times, last in 2020<br>
+_amendments_: proposals submitted by members of Parliament or by the government within the first three years of Parliament's four-year term; passage requires two-thirds majority vote of a two-thirds quorum in the next elected Parliament; amended over 400 times, last in 2023<br>
 
 **Legal system**<br>
 mixed legal system of civil, common, and customary law; Supreme Court can advise on legislative acts<br>
@@ -333,7 +333,7 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King HARALD V (since 17 January 1991); Heir Apparent Crown Prince HAAKON MAGNUS (son of the monarch, born 20 July 1973)<br>
+_chief of state_: King HARALD V (since 17 January 1991)<br>
 _head of government_: Prime Minister Jonas Gahr STORE (since 14 October 2021)<br>
 _cabinet_: Council of State appointed by the monarch, approved by Parliament<br>
 _elections/appointments_: the monarchy is hereditary; following parliamentary elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch with the approval of the parliament<br>
@@ -363,12 +363,12 @@ _email address and website_: <br>emb.washington@mfa.no<br><br>https://www.norway
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Marc NATHANSON (since 16 June 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sharon HUDSON-DEAN (since February 2024)<br>
 _embassy_: Morgedalsvegen 36, 0378 Oslo<br>
 _mailing address_: 5460 Oslo Place, Washington DC&nbsp; 20521-5460<br>
 _telephone_: [47] 21-30-85-40<br>
 _FAX_: [47] 22-56-27-51<br>
-_email address and website_: <br>OsloACS@state.gov<br>https://no.usembassy.gov/<br>
+_email address and website_: <br>OsloACS@state.gov<br><br>https://no.usembassy.gov/<br>
 
 **Flag description**<br>
 red with a blue cross outlined in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors recall Norway's past political unions with Denmark (red and white) and Sweden (blue)<br>

@@ -349,8 +349,8 @@ _residency requirement for naturalization_: 2 years<br>
 18-70 years of age; universal and compulsory; 16-17 years of age - optional for national elections<br>
 
 **Executive branch**<br>
-_chief of state_: President Javier Gerardo MILEI (since 10 December 2023); Vice President Victoria Eugenia VILLARRUEL (since 10 December 2023); note - the president is both chief of state and head of government<br>
-_head of government_: President Javier Gerardo MILEI (since 10 December 2023); Vice President Victoria Eugenia VILLARRUEL (since 10 December 2023)<br>
+_chief of state_: President Javier Gerardo MILEI (since 10 December 2023)<br>
+_head of government_: President Javier Gerardo MILEI (since 10 December 2023)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by qualified majority vote (to win, a candidate must receive at least 45% of votes or 40% of votes and a 10-point lead over the second place candidate; if neither occurs, a second round is held ); the president serves a 4-year term (eligible for a second consecutive term); election last held on 22 October 2023 with a runoff held 19 November 2023 (next to be held in October 2027)<br>
 _election results_: <p><br><em>2023: </em>Javier Gerardo MILEI elected president in second round; percent vote in first round - Sergio Tomás MASSA (FR) 36.7%, Javier Gerardo MILEI (PL) 30%, Patricia BULLRICH 23.8% (JxC/PRO), Juan SCHIARETTI (PJ) 6.8%, Myriam BREGMAN (PTS)<em> </em>2.7%; percent of vote in second round - Javier Gerardo MILEI 55.7%, Sergio Tomás MASSA 44.3%<em><br><br>2019:</em> Alberto Ángel FERNÁNDEZ elected president; percent of vote - Alberto Angel FERNÁNDEZ (TODOS) 48.1%, Mauricio MACRI (PRO) 40.4%, Roberto LAVAGNA (independent) 6.2%, other 5.3%</p><br>
@@ -372,7 +372,7 @@ _subordinate courts_: federal level appellate, district, and territorial courts;
 AfDB (nonregional member), Australia Group, BCIE, BIS, CAN (associate), CD, CABEI, CELAC, FAO, FATF, G-15, G-20, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, NAM (observer), NSG, OAS, OPANAL, OPCW, Paris Club (associate), PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNDOF, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, Union Latina (observer), UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Adri&aacute;n Roberto NADOR (since 7 December 2023)<br>
+_chief of mission_: Ambassador Gerardo&nbsp;WERTHEIN (since 17 June 2024)<br>
 _chancery_: 1600 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 238-6400<br>
 _FAX_: [1] (202) 332-3171<br>

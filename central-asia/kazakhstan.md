@@ -345,10 +345,11 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Kasym-Zhomart TOKAYEV (since 20 March 2019)<br>
-_head of government_: Prime Minister Olzhas BEKTENOV (since 6 February 2024); note - Alikhan SMAILOV resigned on 5 February 2024<br>
+_head of government_: Prime Minister Olzhas BEKTENOV (since 6 February 2024)<br>
 _cabinet_: the president appoints ministers based on the prime minister's recommendations; the president has veto power over all appointments and independently appoints the ministers of defense, internal affairs, and foreign affairs<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a single 7-year term (prior to September 2022, the president of Kazakhstan could serve up to two 5-year terms; legislation passed in September 2022 reduced the maximum number of terms to one 7-year term); election last held on 20 November 2022 (next to be held in 2029); prime minister and deputy prime ministers appointed by the president, approved by the Mazhilis<br>
 _election results_: <em>2024: </em>Olzhas BEKTENOV elected as prime minister; 69-0 in parliament<em><br><br>2022</em>: Kasym-Zhomart TOKAYEV reelected president; percent of vote - Kassym-Jomart TOKAYEV (Amanat) 81.3%, Zhiguli DAYRABAEV (Auyl) 3.4%, Qaraqat or Karakat ÄBDEN (KÄQŪA) 2.6%, Meyram KAZHYKEN (Amanat) 2.5%, Nurlan AUYESBAYEV (NSDP) 2.2%, Saltanat TURSYNBEKOVA (QA-DJ) 2.1%, other 5.8%<br><br><em>2019</em>: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV (Amanat) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%<br>
+<strong>note: </strong>Prime Minister Alikhan SMAILOV resigned on 5 February 2024<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament of the Republic of Kazakhstan consists of:<br>Senate (50 seats); 40 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 10 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (98 seats; 69 members directly elected in a single national constituency by party list proportional representation vote (5% minimum threshold to gain seats) and 29 directly elected in single-seat constituencies to serve 5-year terms<br>

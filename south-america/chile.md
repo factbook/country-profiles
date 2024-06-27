@@ -333,11 +333,12 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Gabriel BORIC (since 11 March 2022); note - the president is both chief of state and head of government<br>
+_chief of state_: President Gabriel BORIC (since 11 March 2022)<br>
 _head of government_: President Gabriel BORIC (since 11 March 2022)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single 4-year term; election last held on 21 November 2021 with a runoff held on 19 December 2021 (next to be held on 23 November 2025 with runoff if needed on 20 December)<br>
 _election results_: <br><em>2021: </em>Gabriel BORIC elected president in second round; percent of vote in first round - Jose Antonio KAST (FSC) 27.9%; Gabriel BORIC (AD) 25.8%; Franco PARISI (PDG) 12.8%; Sebastian SICHEL (ChP+) 12.8%; Yasna PROVOSTE (New Social Pact) 11.6%; other 9.1%; percent of vote in second round - Gabriel BORIC 55.9%; Jose Antonio KAST 44.1%<br><em><br>2017:</em> Sebastian PINERA Echenique elected president in second round; percent of vote in first round - Sebastian PINERA Echenique (independent) 36.6%; Alejandro GUILLIER (independent) 22.7%; Beatriz SANCHEZ (independent) 20.3%; Jose Antonio KAST (independent) 7.9%; Carolina GOIC (PDC) 5.9%; Marco ENRIQUEZ-OMINAMI (PRO) 5.7%; other 0.9%; percent of vote in second round - Sebastian PINERA Echenique 54.6%, Alejandro GUILLIER 45.4%<br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (50 seats); members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 8-year terms with one-half of the membership renewed every 4 years)<br>Chamber of Deputies or Camara de Diputados (155 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 4-year terms)<br>

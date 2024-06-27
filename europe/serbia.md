@@ -373,7 +373,7 @@ BIS, BSEC, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, G-9, IAEA, IBRD
 <strong>note</strong>: Serbia is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Marko DJURIC (since 18 January 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Vladimir MARIC (since 30 April 2024)<br>
 _chancery_: 1333 16th Street, NW Washington, D.C. 20036<br>
 _telephone_: [1] (202) 507-8654<br>
 _FAX_: [1] (202) 332-3933<br>

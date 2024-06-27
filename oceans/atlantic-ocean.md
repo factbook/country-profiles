@@ -90,8 +90,5 @@ Kiel Canal and Saint Lawrence Seaway are two important waterways; significant do
 
 ## Military and Security
 
-**Military - note**<br>
-according to the International Maritime Bureau and the Maritime Administration of the US Department of Transportation, the risk of piracy and armed robbery of ships in the territorial and offshore waters of the Niger Delta and Gulf of Guinea off the western coast of Africa is high; some criminals/pirates have operated as far as 200 nm offshore (2023)<br>
-
 ## Transnational Issues
 

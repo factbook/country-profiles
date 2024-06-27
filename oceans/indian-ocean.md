@@ -86,8 +86,5 @@ _etymology_: named for the country of India, which makes up much of its northern
 
 ## Military and Security
 
-**Military - note**<br>
-according to the International Maritime Bureau, areas of high risk for piracy and armed robbery against ships in territorial waters of littoral states and offshore waters include the Gulf of Aden, along the east coast of Africa, the Bay of Bengal, and the Strait of Malacca; in addition, the Maritime Administration of the US Department of Transportation advises that regional conflict, military activity, and political tensions pose threats to commercial vessels in the Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Gulf of Aden, Bab al Mandeb Strait, Red Sea, and Somali Basin (2023)<br>
-
 ## Transnational Issues
 

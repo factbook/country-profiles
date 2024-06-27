@@ -357,11 +357,12 @@ _residency requirement for naturalization_: 4 years<br>
 voluntary between 16 to 18 years of age, over 70, and if illiterate; compulsory between 18 to 70 years of age; note - military conscripts by law cannot vote<br>
 
 **Executive branch**<br>
-_chief of state_: President Luiz In&aacute;cio LULA da Silva (since 1 January 2023); Vice President Geraldo Jos&eacute; Rodrigues ALCKMIN Filho (since 1 January 2023); note - the president is both chief of state and head of government<br>
-_head of government_: President Luiz In&aacute;cio LULA da Silva (since 1 January 2023); Vice President Geraldo Jos&eacute; Rodrigues ALCKMIN Filho (since 1 January 2023)<br>
+_chief of state_: President Luiz In&aacute;cio LULA da Silva (since 1 January 2023)<br>
+_head of government_: President Luiz In&aacute;cio LULA da Silva (since 1 January 2023)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a single consecutive term and additional terms after at least one term has elapsed); election last held on 2 October 2022 with runoff on 30 October 2022 (next to be held on 4 October 2026)<br>
 _election results_: <br><em>2022: </em>Luiz Inácio LULA da Silva elected president in second round; percent of vote in first round - Luiz Inácio LULA da Silva (PT) 48.4%, Jair BOLSONARO (PSL) 43.2%, Simone Nassar TEBET (MDB) 4.2%, Ciro GOMES (PDT) 3%, other 1.2%; percent of vote in second round - Luiz Inácio LULA da Silva (PT) 50.9%, Jair BOLSONARO (PSL) 49.1%<em><br><br>2018: </em>Jair BOLSONARO elected president in second round; percent of vote in first round - Jair BOLSONARO (PSL) 46%, Fernando HADDAD (PT) 29.3%, Ciro GOMEZ (PDT) 12.5%, Geraldo ALCKMIN (PSDB) 4.8%, other 7.4%; percent of vote in second round - Jair BOLSONARO (PSL) 55.1%, Fernando HADDAD (PT) 44.9%<br>
+<strong>note </strong>- the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congresso Nacional consists of:<br>Federal Senate or Senado Federal (81 seats; 3 members each from 26 states and 3 from the federal district directly elected in multi-seat constituencies by simple majority vote to serve 8-year terms, with one-third and two-thirds of the membership elected alternately every 4 years)<br><br>Chamber of Deputies or Camara dos Deputados (513 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 4-year terms)<br>

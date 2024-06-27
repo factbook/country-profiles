@@ -355,11 +355,12 @@ _residency requirement for naturalization_: 5 continuous years<br>
 17 years of age; universal; married persons regardless of age<br>
 
 **Executive branch**<br>
-_chief of state_: President Joko "Jokowi" WIDODO (since 20 October 2014); note - the president is both chief of state and head of government<br>
+_chief of state_: President Joko "Jokowi" WIDODO (since 20 October 2014)&nbsp;<br>
 _head of government_: President Joko "Jokowi" WIDODO (since 20 October 2014)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected by absolute majority popular vote for a 5-year term (eligible for a second term); election last held on 14 February 2024 (next to be held in 2029)<br>
 _election results_: <em>2024: </em>PRABOWO Subianto elected president; percent of vote - PRABOWO Subianto (GERINDRA) 58.6%, Anies Rasyid BASWEDAN (Independent) 24.9%, GANJAR Pranowo (PDI-P) 16.5%<em><br><br>2019</em>: Joko WIDODO reelected president; percent of vote - Joko WIDODO (PDI-P) 55.5%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 44.5%<br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat (MPR) consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br>House of Representatives or Dewan Perwakilan Rakyat (580 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms)<br>

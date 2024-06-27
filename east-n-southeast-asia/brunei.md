@@ -315,10 +315,11 @@ _residency requirement for naturalization_: 12 years<br>
 18 years of age for village elections; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967); note - the monarch is both chief of state and head of government<br>
+_chief of state_: Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967)<br>
 _head of government_: Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967)<br>
 _cabinet_: Council of Ministers appointed and presided over by the monarch; note - 4 additional advisory councils appointed by the monarch are the Religious Council, Privy Council for constitutional issues, Council of Succession, and Legislative Council; Sultan and Prime Minister Sir HASSANAL Bolkiah is also Minister of Finance, Defense, and Foreign Affairs and Trade<br>
 _elections/appointments_: none; the monarchy is hereditary<br>
+<strong>note </strong>- the monarch is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (33 seats; 20 members appointed by the sultan from ex-officio cabinet ministers, titled people, and prominent citizens in public service and various professional fields, 13 members from 4 multi-seat constituencies, and 3 ex-officio members - the speaker and first and second secretaries); members serve 5-year terms<br>

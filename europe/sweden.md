@@ -335,8 +335,8 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CARL XVI GUSTAF (since 15 September 1973); Heir Apparent Princess VICTORIA Ingrid Alice Desiree (daughter of the monarch, born 14 July 1977)<br>
-_head of government_: Prime Minister Ulf KRISTERSSON (since 18 October 2022); Deputy Prime Minister Ebba BUSCH (since 18 October 2022)<br>
+_chief of state_: King CARL XVI GUSTAF (since 15 September 1973)<br>
+_head of government_: Prime Minister Ulf KRISTERSSON (since 18 October 2022)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister<br>
 

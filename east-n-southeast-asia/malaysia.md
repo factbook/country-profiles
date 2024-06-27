@@ -330,10 +330,11 @@ _residency requirement for naturalization_: 10 out 12 years preceding applicatio
 18&nbsp;years of age; universal (2019)<br>
 
 **Executive branch**<br>
-_chief of state_: King Sultan IBRAHIM ibni al-Marhum Sultan Iskandar (since 31 January 2024); the position of the king is primarily ceremonial, but he is the final arbiter on the appointment of the prime minister<br>
+_chief of state_: King Sultan IBRAHIM ibni al-Marhum Sultan Iskandar (since 31 January 2024)&nbsp;<br>
 _head of government_: Prime Minister ANWAR Ibrahim (since 25 November 2022)<br>
 _cabinet_: Cabinet appointed by the prime minister from among members of Parliament with the consent of the king<br>
 _elections/appointments_: king elected by and from the hereditary rulers of 9 states for a 5-year term; election is on a rotational basis among rulers of the 9 states; election last held on 24 October 2023 (next to be held in October 2028 with installation in January 2029); prime minister designated from among members of the House of Representatives; following legislative elections, the leader who commands support of the majority of members in the House becomes prime minister<br>
+<strong>note: </strong>the position of the king is primarily ceremonial, but he is the final arbiter on the appointment of the prime minister<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament of Malaysia or Parlimen Malaysia consists of:<br>Senate or Dewan Negara (70 seats; 44 members appointed by the king and 26 indirectly elected by 13 state legislatures; members serve 3-year terms)<br>House of Representatives or Dewan Rakyat (222 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>

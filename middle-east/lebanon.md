@@ -286,7 +286,7 @@ _former_: Greater Lebanon<br>
 _etymology_: derives from the Semitic root "lbn" meaning "white" and refers to snow-capped Mount Lebanon<br>
 
 **Government type**<br>
-parliamentary republic<br>
+parliamentary democratic republic<br>
 
 **Capital**<br>
 _name_: Beirut<br>
@@ -327,7 +327,7 @@ _residency requirement for naturalization_: unknown<br>
 _chief of state_: president (vacant)<br>
 _head of government_: Caretaker Prime Minister Najib MIQATI (since 20 September 2021)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president and Parliament<br>
-_elections/appointments_: president indirectly elected by Parliament with two-thirds majority vote in the first round and if needed absolute majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016; prime minister appointed by the president in consultation with Parliament<br>
+_elections/appointments_: president indirectly elected by a qualified majority of two-thirds of Parliament members in the first round and if needed a two-thirds quorum of members by simple majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016; prime minister appointed by the president in consultation with Parliament<br>
 _election results_: <br><em>2023:</em> on 14 June 2023, Parliament failed in its twelfth attempt to elect a president; note - the Hezbollah bloc withdrew following the first round of voting and a second round was not possible since Parliament lacked the required 86-member quorum for a second round of voting<br><em><br>2016:</em> Michel AWN elected president in second round; Parliament vote - Michel AWN (FPM) 83; the president was finally elected in its 46th attempt on 31 October 2016<br>
 
 **Legislative branch**<br>

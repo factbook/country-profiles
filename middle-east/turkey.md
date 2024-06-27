@@ -352,7 +352,7 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2023: </em>Recep Tayyip ERDOGAN reelected president in second round - Recep Tayyip ERDOGAN (AKP) 52.2%, Kemal KILICDAROGLU (CHP) 47.8%<em><br><br>2018:</em> Recep Tayyip ERDOGAN reelected president in first round - Recep Tayyip ERDOGAN (AKP) 52.6%, Muharrem INCE (CHP) 30.6%, Selahattin DEMIRTAS (HDP) 8.4%, Meral AKSENER (IYI) 7.3%, other 1.1%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Grand National Assembly of Turkey or Turkey Buyuk Millet Meclisi (600 seats); members directly elected in multi-seat constituencies by closed party-list proportional representation vote, with a 10% threshold required to win a seat; members serve 5-year terms)<br>
+_description_: unicameral Grand National Assembly of Turkey or Turkey Buyuk Millet Meclisi (600 seats); members directly elected in multi-seat constituencies by closed party-list proportional representation vote, with a 7% threshold required to win a seat; members serve 5-year terms)<br>
 _elections_: last held on 14 May 2023 (next to be held in 2028)<br>
 _election results_: percent of vote by party/coalition - People's Alliance 49.9% (AKP 35.6%, MHP 10.1%, YRP 2.8%, BBP 1%), Nation Alliance 35.4% (CHP 25.3%, IYI 9.7%), Labor and Freedom Alliance 10.7% (YSGP 8.9%, TIP 1.8%); seats by party/coalition - People's Alliance 323 (AKP 268, MHP 50, YRP 5), Nation Alliance 212 (CHP 169, IYI 43), Labor and Freedom Alliance 65 (YSGP 61, TIP 4); composition - men 480, women 119, percentage women 19.9%<br>
 
@@ -369,7 +369,7 @@ ADB (nonregional member), Australia Group, BIS, BSEC, CBSS (observer), CD, CE, C
 <strong>note</strong>: Turkey is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Appointed Ambassador Sedat &Ouml;NAL (since 24 April 2024)<br>
+_chief of mission_: Ambassador Sedat &Ouml;NAL (since 17 June 2024)<br>
 _chancery_: 2525 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 612-6700<br>
 _FAX_: [1] (202) 612-6744<br>

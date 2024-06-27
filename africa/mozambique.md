@@ -350,11 +350,12 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Filipe Jacinto NYUSI (since 15 January 2015); note - the president is both chief of state and head of government<br>
-_head of government_: President Filipe Jacinto NYUSI (since 15 January 2015); Prime Minister Adriano Afonso MALEIANE (since 3 March 2022); note - President NYUSI removed Prime Minister Carlos Agostinho DO ROSARIO from office on 3 March 2022 as part of a cabinet reshuffle<br>
+_chief of state_: President Filipe Jacinto NYUSI (since 15 January 2015)<br>
+_head of government_: President Filipe Jacinto NYUSI (since 15 January 2015)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president elected directly by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 consecutive terms); election last held on 15 October 2019 (next to be held on 9 October 2024); prime minister appointed by the president<br>
 _election results_: <em><br>2019</em>: Filipe NYUSI reelected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 73.0%, Ossufo MOMADE (RENAMO) 21.9%, Daviz SIMANGO (MDM) 5.1%<br><br><em>2014</em>:  Filipe NYUSI elected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 57.0%, Afonso DHLAKAMA (RENAMO) 36.6%, Daviz SIMANGO (MDM) 6.4%<br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Republic or Assembleia da Republica (250 seats; 248 members elected in multi-seat constituencies by party-list proportional representation vote and 2 members representing Mozambicans abroad directly elected by simple majority vote; members serve 5-year terms)<br>

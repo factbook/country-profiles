@@ -332,8 +332,8 @@ _residency requirement for naturalization_: unknown<br>
 16 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Miguel DIAZ-CANEL Bermudez (since 19 April 2018); Vice President Salvador Antonio VALDES Mesa (since 10 October 2019)<br>
-_head of government_: Prime Minister Manuel MARRERO Cruz (since 21 December 2019); Deputy Prime Ministers Ramiro VALDES Menendez, Ines Maria CHAPMAN Waugh, Jorge Luis TAPIA Fonseca, Alejandro GIL Fernandez, Ricardo CABRISAS Ruiz (since 21 December 2019), and Jorge Luis PERDOMO DI-LELLA (since 20 April 2021)<br>
+_chief of state_: President Miguel DIAZ-CANEL Bermudez (since 19 April 2018)<br>
+_head of government_: Prime Minister Manuel MARRERO Cruz (since 21 December 2019)<br>
 _cabinet_: Council of Ministers proposed by the president and appointed by the National Assembly<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 19 April 2023 (next to be held in 2028)<br>
 _election results_: <br><em>2023: </em>Miguel DIAZ-CANEL Bermudez (PCC) reelected president; percent of National Assembly vote - 97.7%; Salvador Antonio VALDES Mesa (PCC) reelected vice president; percent of National Assembly vote - 93.4%<em><br><br>2018: </em>Miguel DIAZ-CANEL Bermudez (PCC) elected president; percent of National Assembly vote - 98.8%; Salvador Antonio VALDES Mesa (PCC) elected vice president; percent of National Assembly vote - 98.1%<br>

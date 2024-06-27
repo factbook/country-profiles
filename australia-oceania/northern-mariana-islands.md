@@ -259,7 +259,7 @@ see United States<br>
 18 years of age; universal; note - indigenous inhabitants are US citizens but do not vote in US presidential elections<br>
 
 **Executive branch**<br>
-_chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)<br>
+_chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021)<br>
 _head of government_: Governor Arnold PALACIOS (since 9 January 2023)<br>
 _cabinet_: Cabinet appointed by the governor with the advice and consent of the Senate<br>
 _elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Northern Mariana Islands do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by absolute majority vote in 2 rounds if needed; election last held on 8 November 2022 with a runoff held on 25 November 2022 (next to be held in 2026)<br>

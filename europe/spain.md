@@ -337,8 +337,8 @@ _residency requirement for naturalization_: 10 years for persons with no ties to
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King FELIPE VI (since 19 June 2014); Heir Apparent Princess LEONOR, Princess of Asturias (daughter of the monarch, born 31 October 2005)<br>
-_head of government_: President of the Government of Spain (prime minister-equivalent) Pedro SANCHEZ PEREZ-CASTEJON (since 2 June 2018); Vice President Nadia Maria CALVINO Santamaria (since 12 July 2021)<br>
+_chief of state_: King FELIPE VI (since 19 June 2014)<br>
+_head of government_: President of the Government of Spain (prime minister-equivalent) Pedro SANCHEZ PEREZ-CASTEJON (since 2 June 2018)<br>
 _cabinet_: Council of Ministers designated by the president<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the monarch usually proposes as president the leader of the majority party or coalition, who is then indirectly elected by the Congress of Deputies; election last held on 23 July 2023 (next to be held on 31 July 2027); vice president and Council of Ministers appointed by the president<br>
 _election results_: Congress of Deputies vote - NA<br>
@@ -374,7 +374,7 @@ _embassy_: Calle de Serrano, 75, 28006 Madrid<br>
 _mailing address_: 8500 Madrid Place, Washington DC&nbsp; 20521-8500<br>
 _telephone_: [34] (91) 587-2200<br>
 _FAX_: [34] (91) 587-2303<br>
-_email address and website_: <br>askACS@state.gov<br>https://es.usembassy.gov/<br>
+_email address and website_: <br>askACS@state.gov<br><br>https://es.usembassy.gov/<br>
 _consulate(s) general_: Barcelona<br>
 
 **Flag description**<br>

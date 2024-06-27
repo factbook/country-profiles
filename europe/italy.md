@@ -331,7 +331,7 @@ _residency requirement for naturalization_: 4 years for EU nationals, 5 years fo
 
 **Executive branch**<br>
 _chief of state_: President Sergio MATTARELLA (since 3 February 2015)<br>
-_head of government_: Prime Minister Giorgia MELONI (since 22 October 2022); the prime minister's official title is President of the Council of Ministers; Deputy Prime Ministers Matteo SALVINI and Antonio TAIANI (since 22 October 2022); the deputy prime ministers' official titles are Vice Presidents of the Council of Ministers<br>
+_head of government_: Prime Minister Giorgia MELONI (since 22 October 2022); the prime minister's official title is President of the Council of Ministers<br>
 _cabinet_: Council of Ministers proposed by the prime minister, known officially as the President of the Council of Ministers and locally as the Premier; nominated by the president; deputy prime ministers are known officially as Vice Presidents of the Council of Ministers<br>
 _elections/appointments_: president indirectly elected by an electoral college consisting of both houses of Parliament and 58 regional representatives for a 7-year term (no term limits); election last held on 24-29 January 2022 (eight rounds) (next to be held in 2029); prime minister appointed by the president, confirmed by parliament<br>
 _election results_: <br><em>2022:</em> Sergio MATTARELLA (independent) reelected president; electoral college vote count in eighth round - 759 out of 1,009 (505 vote threshold)<br><br><em>2015: </em>Sergio MATTARELLA (independent) elected president; electoral college vote count in fourth round - 665 out of 995 (505 vote threshold) <p> </p><br>

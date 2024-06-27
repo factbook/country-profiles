@@ -281,11 +281,12 @@ has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
 20 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President David ADEANG (since 30 October 2023); note - the president is both chief of state and head of government<br>
+_chief of state_: President David ADEANG (since 30 October 2023)<br>
 _head of government_: President David ADEANG (since 30 October 2023)<br>
 _cabinet_: Cabinet appointed by the president from among members of Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament for 3-year term (eligible for a second term); election last held on 30 October 2023 (next to be held in 2026)<br>
 _election results_: <em>2023:</em> David ADEAGN elected president over Delvin THOMA, 10-8<br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (19 seats; members directly elected in multi-seat constituencies by majority vote using the "Dowdall" counting system by which voters rank candidates on their ballots; members serve 3-year terms)<br>

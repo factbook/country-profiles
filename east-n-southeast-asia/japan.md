@@ -330,7 +330,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Emperor NARUHITO (since 1 May 2019); note - succeeded his father who abdicated on 30 April 2019<br>
+_chief of state_: Emperor NARUHITO (since 1 May 2019)<br>
 _head of government_: Prime Minister Fumio KISHIDA (since 4 October 2021)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister<br>

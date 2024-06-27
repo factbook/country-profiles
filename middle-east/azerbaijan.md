@@ -332,7 +332,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Ilham ALIYEV (since 31 October 2003); First Vice President Mehriban ALIYEVA (since 21 February 2017)<br>
+_chief of state_: President Ilham ALIYEV (since 31 October 2003)<br>
 _head of government_: Prime Minister Ali ASADOV (since 8 October 2019)<br>
 _cabinet_: Council of Ministers appointed by the president and confirmed by the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds (if needed) for a 7-year term; a single individual is eligible for unlimited terms; election last held on 7 February 2024 (next to be held in 2031); prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly; note - a constitutional amendment approved in a September 2016 referendum extended the presidential term from 5 to 7 years; a separate constitutional amendment approved in the same referendum also introduced the post of first vice president and additional vice-presidents, who are directly appointed by the president; however, no additional vice presidents have been appointed since the constitutional amendment was passed<br>

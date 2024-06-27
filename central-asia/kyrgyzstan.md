@@ -340,12 +340,12 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Sadyr JAPAROV (since 28 January 2021); note - the president is both chief of state and head of government<br>
+_chief of state_: President Sadyr JAPAROV (since 28 January 2021)<br>
 _head of government_: President Sadyr JAPAROV (since 28 January 2021)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a five-year term (eligible for a second term); election last held on 10 January 2021 (next to be held in 2027)<br>
 _election results_: <em><br>2021:</em> Sadyr JAPAROV elected president in first round; percent of vote - Sadyr JAPAROV (Mekenchil) 79.2%, Adakhan MADUMAROV (United Kyrgyzstan) 6.8%, other 14%<br><br><em>2017:</em> Sooronbay JEENBEKOV elected president; Sooronbay JEENBEKOV (Social Democratic Party of Kyrgyzstan) 54.7%, Omurbek BABANOV (independent) 33.8%, Adakhan MADUMAROV (United Kyrgyzstan) 6.6%, other 4.9%<br>
-<strong>note:</strong> the President is both Chief of State and Head of Government.<br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: unicameral Supreme Council or Jogorku Kenesh (90 seats statutory, current 88; 54 seats allocated for proportional division among political party lists from the national vote and 36 seats allocated for candidates running in single-seat constituencies; members serve 5-year terms; parties must receive 5% of the vote to win seats in the Council)<br>

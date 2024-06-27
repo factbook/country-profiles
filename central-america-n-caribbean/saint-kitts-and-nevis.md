@@ -303,7 +303,7 @@ _residency requirement for naturalization_: 14 years<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Marcella LIBURD (since 1 February 2023)<br>
-_head of government_: Prime Minister Dr. Terrance DREW (since 6 August 2022); Deputy Prime Minister Dr. Geoffrey HANLEY (since 13 August 2022)<br>
+_head of government_: Prime Minister Dr. Terrance DREW (since 6 August 2022)<br>
 _cabinet_: Cabinet appointed by governor general in consultation with prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by governor general; deputy prime minister appointed by governor general<br>
 

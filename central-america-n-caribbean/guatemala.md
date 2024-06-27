@@ -331,11 +331,12 @@ _residency requirement for naturalization_: 5 years with no absences of six cons
 18 years of age; universal; note - active duty members of the armed forces and police by law cannot vote and are restricted to their barracks on election day<br>
 
 **Executive branch**<br>
-_chief of state_: President Bernardo AR&Eacute;VALO de Le&oacute;n (since 15 January 2024); Vice President Karin HERRERA (since 15 January 2024); note - the president is both chief of state and head of government<br>
-_head of government_: President Bernardo AR&Eacute;VALO de Le&oacute;n (since 15 January 2024); Vice President Karin HERRERA (since 15 January 2024)<br>
+_chief of state_: President Bernardo AR&Eacute;VALO de Le&oacute;n (since 15 January 2024)&nbsp;<br>
+_head of government_: President Bernardo AR&Eacute;VALO de Le&oacute;n (since 15 January 2024)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (not eligible for consecutive terms); election last held on 25 June 2023 with a runoff on 20 August 2023 (next to be held in June 2027)<br>
 _election results_: <em><br>2023:</em> Bernardo ARÉVALO de León elected president in second round; percent of vote in first round - Sandra TORRES (UNE) 21%; Bernardo ARÉVALO de León (SEMILLA) 15.6%, Manuel CONDE Orellana (VAMOS) 10.4%; Armando CASTILLO Alvarado (VIVA) 9.6%, other 43.4%; percent of vote in second round - Bernardo ARÉVALO de León 60.9%, Sandra TORRES 39.1%<br><em><br>2019:</em> Alejandro GIAMMATTEI elected president; percent of vote in first round - Sandra TORRES (UNE) 25.5%, Alejandro GIAMMATTEI (VAMOS) 14%, Edmond MULET (PHG) 11.2%, Thelma CABRERA (MLP) 10.4%, Roberto ARZU (PAN-PODEMOS) 6.1%, other 32.8%; percent of vote in second round - Alejandro GIAMMATTEI 58%, Sandra TORRES 42%<br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: unicameral Congress of the Republic or Congreso de la Republica (160 seats; 128 members directly elected in multi-seat constituencies in the country's 22 departments and 32 directly elected in a single nationwide constituency by closed party-list proportional representation vote, using the D'Hondt method; members serve 4-year terms)<br>
@@ -354,7 +355,7 @@ Bienestar Nacional or BIEN [Fidel REYES LEE]<br>Blue Party (Partido Azul) or Blu
 ACS, BCIE, CACM, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, Union Latina, UNISFA, UNITAR, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Viviana Raquel ARENAS AGUILAR (since 30 January 2024)<br>
+_chief of mission_: Ambassador Hugo Eduardo&nbsp;BETETA (since 17 June 2024)<br>
 _chancery_: 2220 R Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 745-4953<br>
 _FAX_: [1] (202) 745-1908<br>

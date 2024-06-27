@@ -146,7 +146,7 @@ none<br>
 Election Day of Pope FRANCIS, 13 March (2013)<br>
 
 **Constitution**<br>
-_history_: previous 1929, 1963; latest promulgated November 2000, effective 22 February 2001 (Fundamental Law of Vatican City State, the main governing document of the Vatican's civil entities); the Roman Curia is the administrative apparatus – the departments and ministries – used by the pontiff in governing the church; note - Pope Francis in October 2013, instituted a 9-member Council of Cardinal Advisers to reform the Roman Curia to include writing a new constitution; in June 2018, Pope Francis approved the Council of Cardinals' first draft of the new apostolic constitution, <em>Predicate Evangelium</em> (Preach the Gospel); it became effective 5 June 2022, replacing <em>Pastor Bonus</em>, the previous governing document of the Roman Curia<br>
+_history_: previous 1929, 2000; latest issued by Pope FRANCIS 13 May 2023, effective 7 June 2023 (Fundamental Law of Vatican City State, the main governing document of the Vatican's civil entities); the Roman Curia is the administrative apparatus – the departments and ministries – used by the pontiff in governing the church; note - Pope Francis in October 2013, instituted a 9-member Council of Cardinal Advisers to reform the Roman Curia to include writing a new constitution; in June 2018, Pope Francis approved the Council of Cardinals' first draft of the new apostolic constitution, <em>Predicate Evangelium</em> (Preach the Gospel); it became effective 5 June 2022, replacing <em>Pastor Bonus</em>, the previous governing document of the Roman Curia<br>
 _amendments_: note - although the Fundamental Law of Vatican City State makes no mention of amendments, Article Four (drafting laws), states that this legislative responsibility resides with the Pontifical Commission for Vatican City State; draft legislation is submitted through the Secretariat of State and considered by the pope<br>
 
 **Legal system**<br>
@@ -167,7 +167,7 @@ election of the pope is limited to cardinals less than 80 years old<br>
 
 **Executive branch**<br>
 _chief of state_: Pope FRANCIS (since 13 March 2013)<br>
-_head of government_: President of the Pontifical Commission for the State of Vatican City and President of the Governorate of the Vatican City State is Fernando VERGEZ ALZAGA (since 1 October 2021)<br>
+_head of government_: President of the Pontifical Commission for the State of Vatican City and President of the Governorate of the Vatican City State Fernando VERGEZ ALZAGA (since 1 October 2021)<br>
 _cabinet_: Pontifical Commission for the State of Vatican City appointed by the pope<br>
 _elections/appointments_: pope elected by the College of Cardinals, usually for life or until voluntary resignation; election last held on 13 March 2013 after the resignation of Pope BENEDICT XVI (next to be held after the death or resignation of the current pope); Secretary of State appointed by the pope<br>
 _election results_: <em>2013:</em> Jorge Mario BERGOGLIO, former Archbishop of Buenos Aires, elected Pope FRANCIS<br>

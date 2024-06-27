@@ -300,7 +300,7 @@ _etymology_: the decision to move the capital of the country inland to higher an
 Battle of St. George's Caye Day (National Day), 10 September (1798); Independence Day, 21 September (1981)<br>
 
 **Constitution**<br>
-_history_: previous 1954, 1963 (preindependence); latest signed and entered into force 21 September 1981<br>
+_history_: previous 1954, 1963 (preindependence); latest signed and entered into force 21 September 1981; note - in July 2022, the government introduced a bill to establish the People's Constitutional Commission to review the constitution and to provide recommendations to the National Assembly<br>
 _amendments_: proposed and adopted by two-thirds majority vote of the National Assembly House of Representatives except for amendments relating to rights and freedoms, changes to the Assembly, and to elections and judiciary matters, which require at least three-quarters majority vote of the House; both types of amendments require assent of the governor general; amended several times, last in 2017<br>
 
 **Legal system**<br>
@@ -320,7 +320,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General Froyla TZALAM (since 27 May 2021)<br>
-_head of government_: Prime Minister John BRICENO (since 12 November 2020); Deputy Prime Minister Cordel HYDE (since 16 November 2020)<br>
+_head of government_: Prime Minister John BRICENO (since 12 November 2020)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister from among members of the National Assembly<br>
 _elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; prime minister recommends the deputy prime minister<br>
 

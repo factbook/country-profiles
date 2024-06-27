@@ -325,11 +325,12 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal; note - the voting age was lowered from 19 to 18 beginning with the 2020 national election<br>
 
 **Executive branch**<br>
-_chief of state_: President YOON Suk Yeol (since 10 May 2022); the president is both chief of state and head of government; Prime Minister HAN Duck-soo (since 21 May 2022) serves as the principal executive assistant to the president, similar to the role of a vice president<br>
+_chief of state_: President YOON Suk Yeol (since 10 May 2022)<br>
 _head of government_: President YOON Suk Yeol (since 10 May 2022)<br>
 _cabinet_: State Council appointed by the president on the prime minister's recommendation<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 March 2022 (next to be held in March 2027); prime minister appointed by president with consent of the National Assembly<br>
 _election results_: <em><br>2022</em>: YOON Suk-yeol elected president; YOON Suk-yeol (PPP) 48.6%, LEE Jae-myung (DP) 47.8%; other 3.6%<br><br><em>2017</em>: MOON Jae-in elected president; MOON Jae-in (DP) 41.1%, HONG Joon-pyo (Liberty Korea Party) 24%, AHN Cheol-soo (PP) 21.4%, YOO Seung-min (Bareun Party) 6.8%, SIM Sang-jung (Justice Party) 6.2%<br>
+<strong>note: </strong>the president is both chief of state and head of government; Prime Minister HAN Duck-soo (since 21 May 2022) serves as the principal executive assistant to the president, similar to the role of a vice president<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Gukhoe (300 seats; 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)<br>

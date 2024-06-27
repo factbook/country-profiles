@@ -314,7 +314,7 @@ _residency requirement for naturalization_: 5 years<br>
 21 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King TUPOU VI (since 18 March 2012); Heir Apparent Crown Prince Siaosi Manumataogo 'Alaivahamama'o 'Ahoeitu Konstantin Tuku'aho, son of the king (born 17 September 1985)<br>
+_chief of state_: King TUPOU VI (since 18 March 2012)<br>
 _head of government_: Prime Minister Siaosi SOVALENI (since 27 December 2021)<br>
 _cabinet_: Cabinet nominated by the prime minister and appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; prime minister and deputy prime minister indirectly elected by the Legislative Assembly and appointed by the monarch; election last held on 18 November 2021 (next to be held in November 2025)<br>
@@ -342,7 +342,7 @@ _chief of mission_: Ambassador Viliana Va&rsquo;inga TONE (since 20 April 2021)<
 _chancery_: 250 East 51st Street, New York, NY 10022<br>
 _telephone_: [1] (917) 369-1025<br>
 _FAX_: [1] (917) 369-1024<br>
-_email address and website_: <br>tongaunmission@aol.com<br>
+_email address and website_: <br>tongaconsnot@gmail.com<br>
 _consulate(s) general_: San Francisco<br>
 
 **Diplomatic representation from the US**<br>

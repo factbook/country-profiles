@@ -346,7 +346,7 @@ _residency requirement for naturalization_: 35 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Faustin-Archange TOUADERA (since 30 March 2016)<br>
-_head of government_: Prime Minister Felix MOLOUA (since 7 February 2022); note - Prime Minister Henri-Marie DONDRA resigned on 2 February 2022<br>
+_head of government_: Prime Minister Felix MOLOUA (since 7 February 2022)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected for 5-year term; election last held 27 December 2020 (next to be held in December 2025); constitutional referendum in July 2023 removed term limits and institutes 7-year terms; note - presidential and partial legislative elections were held on 27 December 2020; voting was disrupted in some areas, delaying the first round of legislative elections until 14 March 2021; constituencies that did vote on 27 December 2020 held runoff elections for their legislators<br>
 _election results_: <em><br>2020</em>: Faustin-Archange TOUADERA reelected president in first round; percent of vote - Faustin-Archange TOUADERA (independent) 53.9%, Anicet Georges DOLOGUELE (URCA) 21%, other 25.1%<br><br><em>2015</em>: Faustin-Archange TOUADERA elected president in the second round; percent of vote in first round - Anicet-Georges DOLOGUELE (URCA) 23.7%, Faustin-Archange TOUADERA (independent) 19.1%, Desire KOLINGBA (RDC) 12%, Martin ZIGUELE (MLPC) 11.4%, other 33.8%; percent of vote in second round - Faustin-Archange TOUADERA 62.7%, Anicet-Georges DOLOGUELE 37.3%<br>

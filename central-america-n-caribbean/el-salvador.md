@@ -329,11 +329,12 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Nayib Armando BUKELE Ortez (since 1 June 2019); Vice President F&eacute;lix Augusto Antonio ULLOA Garay (since 1 June 2019); note - the president is both chief of state and head of government<br>
-_head of government_: President Nayib Armando BUKELE Ortez (since 1 June 2019); Vice President F&eacute;lix Augusto Antonio ULLOA Garay (since 1 June 2019)<br>
+_chief of state_: President Nayib Armando BUKELE Ortez (since 1 June 2019)<br>
+_head of government_: President Nayib Armando BUKELE Ortez (since 1 June 2019)<br>
 _cabinet_: Council of Ministers selected by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a single 5-year term; election last held on 4 February 2024 (next to be held in 2029)<br>
 _election results_: <em>2024:</em> Nayib Armando BUKELE Ortez reelected president - Nayib Armando BUKELE Ortez (Nuevas Ideas) 84.7%, Manuel FLORES (FMLN) 6.4%, Joel SANCHEZ (ARENA) 5.6%, Luis PARADA (NT) 2%, other 1.3%<br><br><em>2019:</em> Nayib Armando BUKELE Ortez elected president - Nayib Armando BUKELE Ortez (GANA) 53.1%, Carlos CALLEJA Hakker (ARENA) 31.7%, Hugo MARTINEZ (FMLN) 14.4%, other 0.8%<br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Asamblea Legislativa (84 seats; members directly elected in multi-seat constituencies and a single nationwide constituency by open-list proportional representation vote to serve 3-year terms)<br>

@@ -344,11 +344,12 @@ _residency requirement for naturalization_: 3-5 years<br>
 18 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President Luis Alberto LACALLE POU (since 1 March 2020); Vice President Beatriz ARGIMON Cedeira (since 1 March 2020); the president is both chief of state and head of government<br>
-_head of government_: President Luis Alberto LACALLE POU (since 1 March 2020); Vice President Beatriz ARGIMON Cedeira (since 1 March 2020)<br>
+_chief of state_: President Luis Alberto LACALLE POU (since 1 March 2020)<br>
+_head of government_: President Luis Alberto LACALLE POU (since 1 March 2020)<br>
 _cabinet_: Council of Ministers appointed by the president with approval of the General Assembly<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 27 October 2019 with a runoff on 24 November 2019 (next to be held in October 2024 and a runoff, if needed, in November 2024)<br>
 _election results_: <br><em>2019:</em> Luis Alberto LACALLE POU elected president in second round; percent of vote in first round - Daniel MARTINEZ (FA) 40.7%, Luis Alberto LACALLE POU (Blanco) 29.7%, Ernesto TALVI (Colorado Party) 12.8%, Guido MANINI RIOS (Open Cabildo) 11.3%, other 5.5%; percent of vote in second round - Luis Alberto LACALLE POU 50.6%, Daniel MARTINEZ 49.4%<br><br><em>2014:</em> Tabare VAZQUEZ elected president in second round; percent of vote - Tabare VAZQUEZ (Socialist Party) 56.5%, Luis Alberto LACALLE Pou (Blanco) 43.4%<br>
+<strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: bicameral General Assembly or Asamblea General consists of:<br>Chamber of Senators or Camara de Senadores (30 seats; members directly elected in a single nationwide constituency by proportional representation vote; the vice-president serves as the presiding ex-officio member; elected members serve 5-year terms)<br>Chamber of Representatives or Camara de Representantes (99 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)<br>

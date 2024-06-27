@@ -326,11 +326,12 @@ _residency requirement for naturalization_: 10 years<br>
 17 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Jos&eacute; RAMOS-HORTA (since 20 May 2022); note - the president is commander in chief of the military and can veto legislation, dissolve parliament, and call national elections<br>
+_chief of state_: President Jos&eacute; RAMOS-HORTA (since 20 May 2022)<br>
 _head of government_: Prime Minister Kay Rala Xanana GUSMAO (since 1 July 2023)<br>
 _cabinet_: Council of Ministers; ministers proposed to the prime minister by the coalition in the Parliament and sworn in by the President of the Republic<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last election held on 19 March 2022 with a runoff on 19 April 2022 (next to be held in April 2027); following parliamentary elections, the president appoints the leader of the majority party or majority coalition as the prime minister<br>
 _election results_: <br><em>2022</em>: José RAMOS-HORTA elected president in second round - RAMOS-HORTA (CNRT) 62.1%, Francisco GUTERRES (FRETILIN) 37.9%<br><br><em>2017</em>: Francisco GUTERRES elected president; Francisco GUTERRES (FRETILIN) 57.1%, António da CONCEICAO (PD) 32.5%, other 10.4%<br>
+<strong>note:</strong> the president is commander in chief of the military and can veto legislation, dissolve parliament, and call national elections<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (65 seats; members directly elected in a single nationwide constituency by closed, party-list proportional representation vote using the D'Hondt method to serve 5-year terms)<br>
@@ -350,7 +351,7 @@ Democratic Party or PD [Mariano Assanami SABINO Lopes]<br>National Congress for 
 ACP, ADB, AOSIS, ARF, ASEAN (observer), CPLP, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OPCW, PIF (observer), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Antonito DE ARAUJO (since 24 February 2023)<br>
+_chief of mission_: Ambassador Jos&eacute; Luis GUTERRES (since 17 June 2024)<br>
 _chancery_: 4201 Connecticut Avenue NW, Suite 504, Washington, DC 20008<br>
 _telephone_: [1] (202) 966-3202<br>
 _FAX_: [1] (202) 966-3205<br>

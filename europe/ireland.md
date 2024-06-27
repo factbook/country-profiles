@@ -321,10 +321,11 @@ _residency requirement for naturalization_: 4 of the previous 8 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Michael D. HIGGINS (since 11 November 2011)<br>
-_head of government_: Taoiseach (Prime Minister) Simon HARRIS (since 9 April 2024); note - Taoiseach Leo VARADKAR resigned from the ruling party on 20 March 2024 but remained as the caretaker taoiseach until a successor was appointed<br>
+_head of government_: Taoiseach (Prime Minister) Simon HARRIS (since 9 April 2024)<br>
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)<br>
 _elections/appointments_: president directly elected by majority popular vote for a 7-year term (eligible for a second term); election last held on 26 October 2018 (next to be held no later than November 2025); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president<br>
 _election results_: <em><br>2024: </em>Simon HARRIS is elected taoiseach by parliament, 88 votes to 69, and is appointed taoiseach by the president<em><br><br>2018:</em> Michael D. HIGGINS reelected president in first round; percent of vote in first round - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%<br><br><em>2011: </em>Michael D. HIGGINS elected president in second round; percent of vote in first round - Michael D. HIGGINS (Labor) 39.6%, Sean GALLAGHER (independent) 28.5%, Martin McGuinness (Sinn Féin) 13.7%, Gay Mitchell (Fine Gael) 6.4%, David Norris (independent) 6.2%, Mary DAVIS (independent) 2.7%; percent of vote in second round - Michael D. HIGGINS 56.8%, Sean GALLAGHER 35.5%<br>
+<strong>note:</strong> Taoiseach Leo VARADKAR resigned from the ruling party on 20 March 2024 but remained as the caretaker taoiseach until a successor was appointed<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Oireachtas consists of:<br>Senate or Seanad Eireann (60 seats; 49 members indirectly elected from 5 vocational panels of nominees by an electoral college, 11 appointed by the prime minister<br>House of Representatives or Dail Eireann (160 seats; members directly elected in multi-seat constituencies by proportional representation vote; all Parliament members serve 5-year terms)<br>

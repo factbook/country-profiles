@@ -364,7 +364,7 @@ _residency requirement for naturalization_: 4 years<br>
 
 **Executive branch**<br>
 _chief of state_: President SAHLE-WORK Zewde (since 25 October 2018)<br>
-_head of government_: Prime Minister ABIY Ahmed Ali (since April 2018); Deputy Prime Minister TEMESGEN Tiruneh Dinku (since 8 February 2024)<br>
+_head of government_: Prime Minister ABIY Ahmed Ali (since April 2018)<br>
 _cabinet_: Council of Ministers selected by the prime minister and approved by the House of People's Representatives<br>
 _elections/appointments_: president indirectly elected by both chambers of Parliament for a 6-year term (eligible for a second term); election held on 21 June 2021 and 30 September 2021 (the scheduled 29 August 2020 election was postponed by Prime Minister ABIY due to the COVID-19 pandemic); prime minister designated by the majority party following legislative elections<br>
 _election results_: <em><br>2021</em>: SAHLE-WORK Zewde reelected president during joint session of Parliament, vote - 659 (unanimous); ABIY confirmed Prime Minister by House of Peoples' Representatives (4 October 2021)<br><br><em>2018</em>: SAHLE-WORK Zewde elected president during joint session of Parliament, vote - 659 (unanimous); note - snap election held on 25 October 2018 due to resignation of President MULATA Teshome<br>

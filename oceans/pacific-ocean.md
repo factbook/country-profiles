@@ -92,8 +92,5 @@ _etymology_: named by Portuguese explorer Ferdinand MAGELLAN during the Spanish 
 
 ## Military and Security
 
-**Military - note**<br>
-according to the International Maritime Bureau, the risk for piracy and armed robbery in the territorial waters of littoral states and offshore waters in the South China Sea is high, particularly the Singapore Straits and the Celebes and Sulu Seas between the Philippines and Malaysia (2023)<br>
-
 ## Transnational Issues
 

@@ -331,10 +331,11 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King FREDERIK X (since 14 January 2024); Heir Apparent Crown Prince CHRISTIAN (son of the king, born 15 October 2005); note - Queen MARGRETHE II abdicated on 14 January 2024, the first Danish monarch to voluntarily abdicate since King ERIC III in 1146<br>
+_chief of state_: King FREDERIK X (since 14 January 2024)&nbsp;<br>
 _head of government_: Prime Minister Mette FREDERIKSEN (since 27 June 2019)<br>
 _cabinet_: Council of State appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch<br>
+<strong>note: </strong>Queen MARGRETHE II abdicated on 14 January 2024, the first Danish monarch to voluntarily abdicate since King ERIC III in 1146<br>
 
 **Legislative branch**<br>
 _description_: unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)<br>

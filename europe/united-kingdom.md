@@ -334,15 +334,15 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); Heir Apparent Prince WILLIAM (son of the king, born 21 June 1982); note - CHARLES succeeded his mother, Queen ELIZABETH II, after serving as Prince of Wales (heir apparent) for over 64 years - the longest such tenure in British history<br>
+_chief of state_: King CHARLES III (since 8 September 2022)<br>
 _head of government_: Prime Minister Rishi SUNAK (Conservative) (since 25 October 2022)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister; election last held on 12 December 2019 (next to be held no later than 28 January 2025)<br>
-<strong>note:</strong> in addition to serving as the UK head of state, the British sovereign is the constitutional monarch for 14 additional Commonwealth countries (these 15 states are each referred to as a Commonwealth realm)<br><br><br><br>
+<strong>note 1:</strong> in addition to serving as the UK head of state, the British sovereign is the constitutional monarch for 14 additional Commonwealth countries (these 15 states are each referred to as a Commonwealth realm)<br><br><strong>note 2</strong>: King CHARLES succeeded his mother, Queen ELIZABETH II, after serving as Prince of Wales (heir apparent) for over 64 years - the longest such tenure in British history<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>House of Lords (membership not fixed; as of December 2023, 784 lords were eligible to participate in the work of the House of Lords - 667 life peers, 91 hereditary peers, and 26 clergy; members are appointed by the monarch on the advice of the prime minister and non-party political members recommended by the House of Lords Appointments Commission); note - House of Lords total does not include ineligible members or members on leave of absence<br>House of Commons (650 seats; members directly elected in single-seat constituencies by simple majority popular vote to serve 5-year terms unless the House is dissolved earlier)<br>
-_elections_: House of Lords - no elections; note - in 1999, as provided by the House of Lords Act, elections were held in the House of Lords to determine the 92 hereditary peers who would remain; elections held only as vacancies in the hereditary peerage arise)<br>House of Commons - last held on 12 December 2019 (next to be held no later than 28 January 2025)<br>
+_elections_: House of Lords - no elections; note - in 1999, as provided by the House of Lords Act, elections were held in the House of Lords to determine the 92 hereditary peers who would remain; elections held only as vacancies in the hereditary peerage arise)<br>House of Commons - last held on 12 December 2019 (next to be held 4 July 2024)<br>
 _election results_: House of Lords - composition - men 556, women 228, percentage women 29%<br><br>House of Commons - percent of vote by party - Conservative 54.9%, Labor 30.8%, SNP 6.8%, Lib Dems 2.2%, DUP 1.2%, Sinn Fein 1.1%, Plaid Cymru .6%, other 2.5%; seats by party - Conservative 365, Labor 202, SNP 48, Lib Dems 11, DUP 8, Sinn Fein 7, Plaid Cymru 4, other 5; composition - men 424, women 226, percentage women 34.8%, total Parliament percentage women 31.6%<br>
 
 **Judicial branch**<br>
@@ -370,7 +370,7 @@ _embassy_: 33 Nine Elms Lane, London, SW11 7US<br>
 _mailing address_: 8400 London Place, Washington DC&nbsp; 20521-8400<br>
 _telephone_: [44] (0) 20-7499-9000<br>
 _FAX_: [44] (0) 20-7891-3845<br>
-_email address and website_: SCSLondon@state.gov<br>https://uk.usembassy.gov/<br>
+_email address and website_: <br>SCSLondon@state.gov<br><br>https://uk.usembassy.gov/<br>
 _consulate(s) general_: Belfast, Edinburgh<br>
 
 **Flag description**<br>

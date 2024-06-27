@@ -313,7 +313,7 @@ _etymology_: name derives from the Arabic "al-Jazair" meaning "the islands" and 
 Independence Day, 5 July (1962); Revolution Day, 1 November (1954)<br>
 
 **Constitution**<br>
-_history_: several previous; latest approved by referendum November 2020<br>
+_history_: several previous; latest approved by referendum 1 November 2020<br>
 _amendments_: proposed by the president of the republic or through the president with the support of three fourths of the members of both houses of Parliament in joint session; passage requires approval by both houses, approval by referendum, and promulgation by the president; the president can forego a referendum if the Constitutional Council determines the proposed amendment does not conflict with basic constitutional principles; articles including the republican form of government, the integrity and unity of the country, and fundamental citizens&rsquo; liberties and rights cannot be amended; amended 2002, 2008, 2016; last in 2020<br>
 
 **Legal system**<br>

@@ -321,7 +321,7 @@ King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967); note - King's o
 
 **Constitution**<br>
 _history_: many previous to adoption of the "Basic Law of the Kingdom of the Netherlands" on 24 August 1815; revised 8 times, the latest in 1983<br>
-_amendments_: proposed as an Act of Parliament by or on behalf of the king or by the Second Chamber of the States General; the Second Chamber is dissolved after its first reading of the Act; passage requires a second reading by both the First Chamber and the newly elected Second Chamber, followed by at least two-thirds majority vote of both chambers, and ratification by the king; amended many times, last in 2018<br>
+_amendments_: proposed as an Act of Parliament by or on behalf of the king or by the Second Chamber of the States General; the Second Chamber is dissolved after its first reading of the Act; passage requires a second reading by both the First Chamber and the newly elected Second Chamber, followed by at least two-thirds majority vote of both chambers, and ratification by the king; amended many times, last in 2023<br>
 
 **Legal system**<br>
 civil law system based on the French system; constitution does not permit judicial review of acts of the States General<br>
@@ -339,10 +339,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King WILLEM-ALEXANDER (since 30 April 2013); Heir Apparent Princess CATHARINA-AMALIA (daughter of King WILLEM-ALEXANDER, born 7 December 2003)<br>
-_head of government_: Prime Minister Mark RUTTE (since 14 October 2010); Deputy Prime Ministers Sigrid KAAG and Wopke HOEKSTRA (since 10 January 2022), Carola SCHOUTEN (since 26 October 2017); note - Mark RUTTE's ruling coalition collapsed on 8 July 2023; he is serving as prime minister in a caretaker status until a new prime minister is named following the 22 November 2023 elections<br>
+_chief of state_: King WILLEM-ALEXANDER (since 30 April 2013)<br>
+_head of government_: Prime Minister Mark RUTTE (since 14 October 2010)<br>
 _cabinet_: Council of Ministers appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following Second Chamber elections, the leader of the majority party or majority coalition is usually appointed prime minister by the monarch; deputy prime ministers are appointed by the monarch<br>
+<strong>note:</strong> Mark RUTTE's ruling coalition collapsed on 8 July 2023; he is serving as prime minister in a caretaker status until a new prime minister is named following the 22 November 2023 elections<br>
 
 **Legislative branch**<br>
 _description_: bicameral States General or Staten Generaal consists of:<br>Senate or Eerste Kamer (75 seats; members indirectly elected by the country's 12 provincial council members by proportional representation vote; members serve 4-year terms)<br>House of Representatives or Tweede Kamer (150 seats; members directly elected in multi-seat constituencies by open-list proportional representation vote to serve up to 4-year terms)<br>

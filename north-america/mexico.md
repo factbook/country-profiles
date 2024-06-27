@@ -363,11 +363,12 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President Andr&eacute;s Manuel L&Oacute;PEZ OBRADOR (since 1 December 2018); note - the president is both chief of state and head of government<br>
+_chief of state_: President Andr&eacute;s Manuel L&Oacute;PEZ OBRADOR (since 1 December 2018)<br>
 _head of government_: President Andr&eacute;s Manuel L&Oacute;PEZ OBRADOR (since 1 December 2018)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a single 6-year term; election last held on 2 June 2024 (next to be held in 2030)<br>
 _election results_: <br><em>2024: </em>Claudia SHEINBAUM Pardo elected president; percent of vote - Claudia SHEINBAUM Pardo (MORENA) 59.4%, Xóchitl GÁLVEZ Ruiz (PAN) 27.9%, Jorge Álvarez MÁYNEZ (MC) 10.4%, other 2.3%; note - official results pending; SHEINBAUM will take office 1 October 2024<em><br><br>2018:</em> Andrés Manuel LÓPEZ OBRADOR elected president; percent of vote - Andrés Manuel LÓPEZ OBRADOR (MORENA) 53.2%, Ricardo ANAYA Cortés (PAN) 22.3%, José Antonio MEADE Kuribreña (PRI) 16.4%, Jaime RODRÍGUEZ Calderón 5.2% (independent), other 2.9%<br><br><em>2012:</em> Enrique PEÑA NIETO elected president; percent of vote - Enrique PEÑA NIETO (PRI) 38.2%, Andrés Manuel LÓPEZ OBRADOR (PRD) 31.6%, Josefina Eugenia VÁZQUEZ Mota (PAN) 25.4%, other 4.8%<br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: <p>bicameral National Congress or Congreso de la Unión consists of:<br>Senate or Cámara de Senadores (128 seats; 96 members directly elected in multi-seat constituencies by simple majority vote and 32 directly elected in a single, nationwide constituency by proportional representation vote; members serve 6-year terms)<br><br>Chamber of Deputies or Cámara de Diputados (500 seats; 300 members directly elected in single-seat constituencies by simple majority vote and 200 directly elected in a single, nationwide constituency by proportional representation vote; members serve 3-year terms)</p><br>

@@ -322,7 +322,7 @@ _chief of state_: President Myriam Spiteri DEBONO (since 4 April 2024)<br>
 _head of government_: Prime Minister Robert ABELA (13 January 2020)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
 _elections/appointments_: president indirectly elected by the House of Representatives for a single 5-year term; election last held on 27 March 2024 (next to be held by March 2029); following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the president for a 5-year term; deputy prime minister appointed by the president on the advice of the prime minister<br>
-_election results_: <em>2024:  </em>Myriam SPITERI DEBONO elected president; House of representatives vote - unanimous<br><em><br>2020: </em>Robert ABELA (PL) appointed prime minister<em><br><br>2019:</em> George VELLA (PL) elected president; House of Representatives vote - unanimous<br>
+_election results_: <em>2024:  </em>Myriam SPITERI DEBONO (PL) elected president; House of Representatives vote - unanimous<br><em><br>2019:</em> George VELLA (PL) elected president; House of Representatives vote - unanimous<br>
 
 **Legislative branch**<br>
 _description_: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (65 seats statutory, 79 for 2022-2027 term; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>

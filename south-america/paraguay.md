@@ -341,11 +341,12 @@ _residency requirement for naturalization_: 3 years<br>
 18 years of age; universal and compulsory until the age of 75<br>
 
 **Executive branch**<br>
-_chief of state_: President Santiago PE&Ntilde;A Palacios (since 15 August 2023); Vice President Pedro Lorenzo ALLIANA Rodr&iacute;guez (since 15 August 2023); note - the president is both chief of state and head of government<br>
-_head of government_: President Santiago PE&Ntilde;A Palacios (since 15 August 2023); Vice President Pedro Lorenzo ALLIANA Rodr&iacute;guez (since 15 August 2023)<br>
+_chief of state_: President Santiago PE&Ntilde;A Palacios (since 15 August 2023)<br>
+_head of government_: President Santiago PE&Ntilde;A Palacios (since 15 August 2023)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a single 5-year term; election last held on 30 April 2023 (next to be held in April 2028)<br>
 _election results_: <br><em>2023: </em>Santiago PEÑA Palacios elected president; percent of vote - Santiago PEÑA Palacios (ANR) 43.9%, Efraín ALEGRE (PLRA) 28.3%, Paraguayo "Payo" CUBAS Colomés (PCN) 23.6%, other 4.2%<em><br><br>2018:</em> Mario ABDO BENÍTEZ elected president; percent of vote - Mario ABDO BENÍTEZ (ANR) 49%, Efraín ALEGRE (PLRA) 45.1%, other 5.9%<br>
+<strong>note</strong>: the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Chamber of Senators or Camara de Senadores (45 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote to serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (80 seats; members directly elected in 18 multi-seat constituencies - corresponding to the country's 17 departments and capital city - by closed-list proportional representation vote to serve 5-year terms)<br>

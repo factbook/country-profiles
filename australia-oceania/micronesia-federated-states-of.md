@@ -287,11 +287,12 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Wesley W. SIMINA (since 12 May 2023); note - the president is both chief of state and head of government<br>
+_chief of state_: President Wesley W. SIMINA (since 12 May 2023)<br>
 _head of government_: President Wesley W. SIMINA (since 12 May 2023)<br>
 _cabinet_: Cabinet includes the vice president and the heads of the 8 executive departments<br>
 _elections/appointments_: president and vice president indirectly elected by Congress from among the 4 'at large' senators for a 4-year term (eligible for a second term); election last held on 12 May 2023 (next to be held in 2027)<br>
 _election results_: David W. PANUELO elected president by Congress; Yosiwo P. GEORGE reelected vice president<br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: unicameral Congress (14 seats; 10 members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms and 4 at- large members directly elected from each of the 4 states by proportional representation vote to serve 4-year terms)<br>

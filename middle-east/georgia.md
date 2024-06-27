@@ -330,11 +330,11 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Salome ZOURABICHVILI (since 16 December 2018)<br>
-_head of government_: Prime Minister Irakli KOBAKHIDZE (since 8 February 2024); note - Irakli GARIBASHVILI resigned on 29 January 2024 to prepare for general elections in October 2024<br>
+_head of government_: Prime Minister Irakli KOBAKHIDZE (since 8 February 2024)<br>
 _cabinet_: Cabinet of Ministers<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2018 (next to be held in 2024); prime minister nominated by Parliament, appointed by the president; note - 2017 constitutional amendments made the 2018 election the last where the president was directly elected; future presidents will be elected by a 300-member College of Electors; in light of these changes, ZOURABICHVILI was allowed a six-year term<br>
 _election results_: <em>2024: </em>Irakli KOBAKHIDZE approved as prime minister by Parliamentary vote 84-10<em><br><br>2018:</em> Salome ZOURABICHVILI elected president in second round; percent of vote in second round - Salome ZOURABICHVILI (independent, backed by Georgian Dream) 59.5%, Grigol VASHADZE (UNM) 40.5%; Irakli GARIBASHVILI approved as prime minister by Parliamentary vote 89-2; note-resigned on January 29, 2024<br>
-<em>2013:</em> Giorgi MARGVELASHVILI elected president; Giorgi MARGVELASHVILI (Georgian Dream) 62.1%, David BAKRADZE (ENM) 21.7%, Nino BURJANADZE (DM-UG) 10.2%, other 6%<br>
+<strong>note: </strong>Irakli GARIBASHVILI resigned on 29 January 2024 to prepare for general elections in October 2024<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Sakartvelos Parlamenti (150 seats statutory, 140 as of May 2023); 120 members directly elected in a single nationwide constituency by closed, party-list proportional representation vote and 30 directly elected in single-seat constituencies by at least 50% majority vote, with a runoff if needed; no party earning less than 40% of total votes may claim a majority; members serve 4-year terms)<br>
