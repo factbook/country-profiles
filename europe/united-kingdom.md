@@ -177,7 +177,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Current health expenditure**<br>
 12% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 3 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -712,14 +712,14 @@ begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) 
 United Kingdom Armed Forces (aka British Armed Forces, aka His Majesty's Armed Forces): British Army, Royal Navy (includes Royal Marines), Royal Air Force (2024)<br>
 
 **Military expenditures**<br>
-2.3% of GDP (2023 est.)<br>
+2.3% of GDP (2024 est.)<br>
+2.3% of GDP (2023)<br>
 2.3% of GDP (2022)<br>
 2.3% of GDP (2021)<br>
 2.4% of GDP (2020)<br>
-2.1% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 145,000 regular forces (80,000 Army including the Gurkhas; 33,000 Navy including the Royal Marines; 32,000 Air Force) (2023)<br>
+approximately 145,000 regular forces (80,000 Army including the Gurkhas; 33,000 Navy including the Royal Marines; 32,000 Air Force) (2024)<br>
 <strong>note: </strong>the military also has approximately 40-45,000 reserves and other personnel on active duty<br>
 
 **Military equipment inventories and acquisitions**<br>

@@ -178,7 +178,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 **Current health expenditure**<br>
 9.6% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 3.95 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -705,11 +705,11 @@ Italian Armed Forces (Forze Armate Italiane): Army (Esercito Italiano, EI), Navy
 <strong>note 1:</strong> the National Police and Carabinieri (gendarmerie or military police) maintain internal security; the National Police reports to the Ministry of Interior while the Carabinieri reports to the Ministry of Defense but is also under the coordination of the Ministry of Interior; the Carabinieri is primarily a domestic police force organized along military lines, with some overseas responsibilities<br><br><strong>note 2:</strong> the Financial Guard (Guardia di Finanza) under the Ministry of Economy and Finance is a force with military status and nationwide remit for financial crime investigations, including narcotics trafficking, smuggling, and illegal immigration<br>
 
 **Military expenditures**<br>
-1.5% of GDP (2023 est.)<br>
+1.5% of GDP (2024 est.)<br>
+1.5% of GDP (2023)<br>
 1.5% of GDP (2022)<br>
 1.5% of GDP (2021)<br>
 1.6% of GDP (2020)<br>
-1.2% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 108,000 Carabinieri (2024)<br>

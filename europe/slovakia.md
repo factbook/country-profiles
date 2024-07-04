@@ -179,7 +179,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Current health expenditure**<br>
 7.2% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 3.57 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
@@ -689,14 +689,14 @@ Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land 
 <strong>note:</strong> the SPF has sole responsibility for internal and border security<br>
 
 **Military expenditures**<br>
-2.1% of GDP (2023 est.)<br>
+2% of GDP (2024 est.)<br>
+2.1% of GDP (2023)<br>
 1.8% of GDP (2022)<br>
 1.7% of GDP (2021)<br>
 1.9% of GDP (2020)<br>
-1.7% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 14,000 active-duty personnel (8,000 Land Forces; 4,000 Air Forces; 2,000 other, including staff, special operations, and support forces) (2023)<br>
+approximately 15,000 active-duty personnel (8,000 Land Forces; 4,000 Air Forces; 3,000 other, including staff, special operations, and support forces) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists mostly of Soviet-era platforms; in recent years, it has imported limited quantities of more modern equipment, particularly from Italy and the US (2023)<br>

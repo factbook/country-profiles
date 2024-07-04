@@ -184,7 +184,7 @@ _unimproved: total_: total: 1% of population (2020 est.)<br>
 **Current health expenditure**<br>
 4.6% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 1.93 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
@@ -721,14 +721,14 @@ Turkish Armed Forces (TAF; Türk Silahlı Kuvvetleri, TSK): Turkish Land Forces 
 <strong>note:</strong> the Gendarmerie (Jandarma) is responsible for the maintenance of the public order in areas that fall outside the jurisdiction of police forces (generally in rural areas); in wartime, the Gendarmerie and Coast Guard would be placed under the operational control of the Land Forces and Naval Forces, respectively<br>
 
 **Military expenditures**<br>
+2.1% of GDP (2024 est.)<br>
 1.6% of GDP (2023 est.)<br>
 1.4% of GDP (2022)<br>
 1.6% of GDP (2021)<br>
 1.9% of GDP (2020)<br>
-1.9% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 450,000 active-duty personnel (350,000 Army; 50,000 Navy; 50,000 Air Force); approximately 150,000 Gendarmerie (2023)<br>
+approximately 480,000 active-duty personnel (380,000 Army; 50,000 Navy; 50,000 Air Force); approximately 150,000 Gendarmerie (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is mostly comprised of a mix of domestically produced and Western weapons systems, although in recent years, Turkey has also acquired some Chinese, Russian, and South Korean equipment; over the past decade, Italy, Spain, and the US have been among the leading providers of armaments to Turkey; Turkey has a robust defense industry capable of producing a range of weapons systems for both export and internal use, including armored vehicles, naval vessels, and unmanned aerial vehicles (UAVs); Turkey's defense industry also partners with other countries for defense production (2023)<br>

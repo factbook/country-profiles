@@ -183,7 +183,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Current health expenditure**<br>
 6.3% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 2.98 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
@@ -362,7 +362,7 @@ _subordinate courts_: Courts of Appeal; regional tribunals; first instance court
 Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CEI, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNOOSA,UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Dan Andrei MURARU (since 15 September 2021)<br>
+_chief of mission_: Ambassador Dan-Andrei MURARU (since 15 September 2021)<br>
 _chancery_: 1607 23rd Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-4829<br>
 _FAX_: [1] (202) 232-4748<br>
@@ -709,14 +709,14 @@ _key ports_: Basarabi, Braila, Cernavoda, Constanta, Danube-Black Sea Canal, Gal
 Romanian Armed Forces (Forțele Armate Române or Armata Română): Land Forces, Naval Forces, Air Force<br><br>Ministry of Internal Affairs: General Inspectorate of the Romanian Police, the Romanian Gendarmerie (Jandarmeria Română), the Romanian Border Police, the General Directorate for Internal Protection, and the Directorate General for Anticorruption (2024)<br>
 
 **Military expenditures**<br>
-1.6% of GDP (2023 est.)<br>
+2.3% of GDP (2024 est.)<br>
+1.6% of GDP (2023)<br>
 1.7% of GDP (2022)<br>
 1.9% of GDP (2021)<br>
 2% of GDP (2020)<br>
-1.8% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 75,000 active-duty military personnel (58,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force) (2023)<br>
+approximately 68,000 active-duty military personnel (53,000 Land Forces; 7,000 Naval Forces; 8,000 Air Force) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a considerable amount of Soviet-era and older domestically produced weapons systems, although in recent years it has launched an effort to acquire more Western-origin equipment from European countries and the US, including aircraft and armored vehicles (2023)<br>

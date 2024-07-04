@@ -180,7 +180,7 @@ _unimproved: total_: total: 12.4% of population (2020 est.)<br>
 **Current health expenditure**<br>
 4.9% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 3.85 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
@@ -345,8 +345,8 @@ _election results_: <em>2021:</em> Ukhnaagiin KHURELSUKH elected president in fi
 
 **Legislative branch**<br>
 _description_: unicameral State Great Hural or Ulsyn Ikh Khural (126 seats; 78 members directly elected in a selected constituency by simple majority vote and 48 members directly elected by proportional representation vote; members serve 4-year terms); note - a constitutional referendum passed in May 2023 increased the number of seats from 76 to 126<br>
-_elections_: last held on 24 June 2020 (next to be held 30 June 2024)<br>
-_election results_: percent of vote by party - MPP 44.9%, DP 24.5%, Our Coalition 8.1%, independent 8.7%, Right Person Electorate Coalition 5.2%, other 8.5%; seats by party - MPP 62, DP 11, Our Coalition 1, Right Person Electorate Coalition 1, independent 1; composition - 59 men, 13 women; percentage women 18.1%<br>
+_elections_: last held on 28 June 2024 (next to be held June 2028)<br>
+_election results_: percent of vote by party - MPP 35.0%, DP 30.1%, HUN Party 10.4%, National Coalition 5.2%, CWGP 5%, other 14.3%; seats by party - MPP 68, DP 42, HUN Party 8, National Coalition 4, CWGP 4; composition - N/A<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the Chief Justice and 24 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tsets (consists of the chairman and 8 members)<br>
@@ -354,8 +354,7 @@ _judge selection and term of office_: Supreme Court chief justice and judges app
 _subordinate courts_: aimag (provincial) and capital city appellate courts; soum, inter-soum, and district courts; Administrative Cases Courts<br>
 
 **Political parties and leaders**<br>
-Democratic Party or DP [Sodnomzunduin ERDENE]<br>Mongolian People's Party or MPP [Ukhnaagiin KHURELSUKH]<br>Civil Will-Green Party or CWGP [Tserendorj GANKHUYAG] <br>Justice Party [Batbayar NASANBILEG]<br>Mongolian National Democratic Party or MNDP [Bayanjargal TSOGTGEREL]<br>Mongolian People's Revolutionary Party or MPRP [Nambaryn ENKHBAYAR]<br>Mongolian Social Democratic Party or MSDP [Adiya GANBAATAR]<br>Mongolian Traditionally United Party or MTUP [Batdelgeriin BATBOLD]<br>National Labor Party or HUN [Togmidyn DORJKHAND]<br><br>Coalitions:<br>Our Coalition (MPRP, CWGP, and MTUP)<br>Right Person Electorate Coalition or RPEC (HUN, MSDP, Justice Party) [Togmidyn DORJKHAND]<br>
-<strong>note:</strong> 36 total parties registered for the 2020 legislative elections to the State Great Hural<br>
+Democratic Party or DP [ Luvsannyamyn GANTOMOR]<br>Mongolian People's Party or MPP [ Luvsannamsrain OYUN-ERDENE] <br>National Coalition [Nyamtaishiriin NOMTOIBAYAR]  <br>National Labor Party or HUN [Togmidyn DORJKHAND] <br>Civil Will-Green Party or CWGP [Batyn BATBAATAR] <br><br>National Coalition consists of the Mongolian Green Party (MGP) and the Mongolian National Democratic Party (MNDP)<br>
 
 **International organization participation**<br>
 ADB, ARF, CD, CICA, CP, EBRD, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, MONUSCO, NAM, OPCW, OSCE, SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMISS, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

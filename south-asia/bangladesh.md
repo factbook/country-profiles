@@ -180,7 +180,7 @@ _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 **Current health expenditure**<br>
 2.6% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 0.67 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -741,7 +741,7 @@ approximately 1,400 Central African Republic (MINUSCA); 1,650 Democratic Republi
 <strong>note:</strong> as of early 2024, Bangladesh had nearly 6,000 total military and police personnel deployed on UN missions<br>
 
 **Military - note**<br>
-the military’s primary responsibility is external defense but it also has a domestic security role and has traditionally been a significant player in the country’s politics, as well as its economy; the military has a long history of participating in UN peacekeeping missions, which has provided operational experience and a source of funding; it runs an international institute for the training of peacekeepers; the military also conducts multinational and bilateral exercises with foreign partners, particularly India; it has commercial business interests in such areas as banking, food, hotels, manufacturing, real estate, and shipbuilding, and manages government infrastructure and construction projects<br><br>the Army is the dominant service and its primary combat forces are approximately 10 infantry divisions, supplemented by several independent brigades and regiments of armor, artillery, and commandos; it maintains a large presence in the Chittagong Hills area where it conducted counterinsurgency operations against tribal guerrillas from the 1970s until the late 1990s; the Navy conducts both coastal and blue water operations and participates in UN and humanitarian missions and multinational exercises; its principal surface warships are a mix of frigates, corvettes, and large patrol ships; it also has a few attack submarines; the Air Force has several squadrons equipped Chinese- and Russian-made combat aircraft; the Air Force has several squadrons of mostly Chinese- and Russian-made combat aircraft  (2024)<br>
+the military&rsquo;s primary responsibility is external defense but it also has a domestic security role and has traditionally been a significant player in the country&rsquo;s politics, as well as its economy; the military has a long history of participating in UN peacekeeping missions, which has provided operational experience and a source of funding; it runs an international institute for the training of peacekeepers; the military also conducts multinational and bilateral exercises with foreign partners, particularly India; it has commercial business interests in such areas as banking, food, hotels, manufacturing, real estate, and shipbuilding, and manages government infrastructure and construction projects (2024)<br>
 
 ## Space
 

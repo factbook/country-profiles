@@ -180,7 +180,7 @@ _unimproved: total_: total: 3.2% of population (2020 est.)<br>
 **Current health expenditure**<br>
 5.5% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 1.42 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -659,7 +659,7 @@ _key ports_: Georgetown, Linden, New Amsterdam<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Guyana Defense Force is a unified force with ground, air, and coast guard components, as well as the Guyana National Reserve (2024)<br>
+the Guyana Defense Force (GDF) is a unified force with ground, air, and coast guard components, as well as the Guyana National Reserve (2024)<br>
 <strong>note:</strong> the Guyana Police Force under the Ministry of Home Affairs is responsible for internal security<br>
 
 **Military expenditures**<br>
@@ -679,7 +679,7 @@ the military has a limited inventory comprised mostly of older or second-hand pl
 18-25 years of age or older for voluntary military service; no conscription (2024)<br>
 
 **Military - note**<br>
-the Guyana Defense Force (GDF) was established in 1965; its primary missions are defense of the country, including border security, assisting civil authorities with law and order as needed, and contributing to the Guyana’s economic development; key areas of concern include disaster response, illegal fishing, narcotics trafficking, piracy, and porous borders; the GDF participates in both bilateral and multinational exercises and has relationships with Brazil, China, France, the UK, and the US; the GDF’s ground force officers are trained at the British Royal Military Academy at Sandhurst, while coast guard officers receive training at the British Royal Naval College<br><br>the GDF’s ground combat forces include three infantry battalions (one reserve), a special forces squadron, and an artillery company; the coast guard has an offshore patrol craft and a few patrol boats, as well as a small amphibious “raider” force; the air corps does not have any combat aircraft but instead provides tactical observation, transport, casualty evacuation, and other forms of support to the ground forces<br><br>Guyana joined the Caribbean Regional Security System (RSS) in 2022; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>
+the Guyana Defense Force (GDF) was established in 1965; its primary missions are defense of the country, including border security, assisting civil authorities with law and order as needed, and contributing to Guyana’s economic development; key areas of concern include disaster response, illegal fishing, narcotics trafficking, piracy, and porous borders; the GDF participates in both bilateral and multinational exercises and has relationships with Brazil, China, France, the UK, and the US; the GDF’s ground force officers are trained at the British Royal Military Academy at Sandhurst, while coast guard officers receive training at the British Royal Naval College<br><br>Guyana joined the Caribbean Regional Security System (RSS) in 2022; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>
 
 ## Transnational Issues
 

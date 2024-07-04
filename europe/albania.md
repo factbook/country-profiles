@@ -181,7 +181,7 @@ _unimproved: total_: total: 3% of population (2020 est.)<br>
 **Current health expenditure**<br>
 6.7% of GDP (2018)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 1.88 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -694,14 +694,14 @@ Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqip�
 <strong>note:</strong> the State Police are primarily responsible for internal security, including counterterrorism, while the Guard of the Republic protects senior state officials, foreign dignitaries, and certain state properties<br>
 
 **Military expenditures**<br>
-1.7% of GDP (2023 est.)<br>
+2% of GDP (2024 est.)<br>
+1.7% of GDP (2023)<br>
 1.2% of GDP (2022)<br>
 1.2% of GDP (2021)<br>
 1.3% of GDP (2020)<br>
-1.5% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,000 total active-duty personnel (5,000 Army; 1,500 Navy; 500 Air Force) (2023)<br>
+approximately 7,000 total active-duty personnel (5,000 Army; 1,500 Navy; 500 Air Force) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 since joining NATO, the military has been in the process of modernizing by retiring its inventory of Soviet-era weapons and replacing them with Western equipment, including donated and secondhand purchases&nbsp; (2023)<br>
@@ -711,7 +711,7 @@ since joining NATO, the military has been in the process of modernizing by retir
 <strong>note: </strong>as of 2023, women comprised about 15% of the military's full-time personnel, including 20% of the officers<br>
 
 **Military - note**<br>
-the Albanian Armed Forces (AAF) are responsible for defending the country&rsquo;s independence, sovereignty, and territory, assisting with internal security, providing disaster and humanitarian relief, and participating in international peacekeeping missions; the AAF has contributed small numbers of forces to several NATO missions since Albania joined NATO in 2009, including peacekeeping/stability missions in Afghanistan, Kosovo, and Iraq, and multinational battlegroups in Bulgaria and Latvia; it has also contributed to EU and UN missions; the AAF is a small, lightly armed force that has been undergoing a modernization effort to improve its ability to fulfill NATO missions, including training and equipment purchases; the primary ground combat units include a few light infantry battalions (or battle groups), including one trained and certified for NATO missions, and a special operations regiment; the Naval Force and Coast Guard operate a small force of patrol boats while the Air Force has a small inventory of helicopters (2024)<br>
+the Albanian Armed Forces (AAF) are responsible for defending the country&rsquo;s independence, sovereignty, and territory, assisting with internal security, providing disaster and humanitarian relief, and participating in international peacekeeping missions; the it is a small, lightly armed force that has been undergoing a modernization effort to improve its ability to fulfill NATO missions, including training and equipment purchases; the AAF has contributed small numbers of forces to several NATO missions since Albania joined NATO in 2009, including peacekeeping/stability missions in Afghanistan, Kosovo, and Iraq, and multinational battlegroups in Bulgaria and Latvia; it has also contributed to EU and UN missions (2024)<br>
 
 ## Terrorism
 

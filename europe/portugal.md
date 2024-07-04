@@ -176,7 +176,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 **Current health expenditure**<br>
 10.6% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 5.48 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
@@ -364,7 +364,7 @@ _embassy_: Avenida das Forcas Armadas, 1600-081 Lisboa<br>
 _mailing address_: 5320 Lisbon Place, Washington DC&nbsp; 20521-5320<br>
 _telephone_: [351] (21) 727-3300<br>
 _FAX_: [351] (21) 726-9109<br>
-_email address and website_: <br>conslisbon@state.gov<br>https://pt.usembassy.gov/<br>
+_email address and website_: <br>conslisbon@state.gov<br><br>https://pt.usembassy.gov/<br>
 _consulate(s)_: Ponta Delgada (Azores)<br>
 
 **Flag description**<br>
@@ -690,14 +690,14 @@ Portuguese Armed Forces (Forças Armadas): Portuguese Army (Exercito Portuguesa)
 <strong>note:</strong> the Foreigners and Borders Service has jurisdiction over immigration and border matters, the Public Security Police has jurisdiction in cities, and the GNR has jurisdiction in rural areas; the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to both the Ministry of Internal Administration and to the Ministry of National Defense; it is not part of the Armed Forces, but may be placed under the operational command of the Chief of the General Staff of the Armed Forces in the event of a national emergency; the GNR describes itself as a hinge between the Armed Forces and the police forces and other security services<br>
 
 **Military expenditures**<br>
-1.5% of GDP (2023 est.)<br>
+1.6% of GDP (2024 est.)<br>
+1.5% of GDP (2023)<br>
 1.4% of GDP (2022 est.)<br>
 1.5% of GDP (2021)<br>
 1.4% of GDP (2020)<br>
-1.4% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25,000 active-duty personnel (12,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2023)<br>
+approximately 28,000 active-duty personnel (15,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes mostly European- and US-origin weapons systems along with a smaller mix of domestically produced equipment; in recent years, leading foreign suppliers have included Germany and the US; Portugal's defense industry is primarily focused on shipbuilding (2023)<br>

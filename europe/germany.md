@@ -186,7 +186,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Current health expenditure**<br>
 12.8% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 4.44 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -720,14 +720,14 @@ Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes 
 <strong>note:</strong> responsibility for internal and border security is shared by the police forces of the 16 states, the Federal Criminal Police Office, and the Federal Police; the states’ police forces report to their respective interior ministries while the Federal Police forces report to the Federal Ministry of the Interior<br>
 
 **Military expenditures**<br>
-1.7% of GDP (2023 est.)<br>
+2.1% of GDP (2024 est.)<br>
+1.7% of GDP (2023)<br>
 1.5% of GDP (2022)<br>
 1.5% of GDP (2021)<br>
 1.5% of GDP (2020)<br>
-1.4% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 185,000 active-duty armed forces personnel (62,000 Army; 16,000 Navy; 27,000 Air Force; 20,000 Medical Service, 14,000 Cyber and Information Space Command; 45,000 other, including central staff, support, logistics, etc.) (2023)<br>
+approximately 185,000 active-duty armed forces personnel (62,000 Army; 16,000 Navy; 27,000 Air Force; 20,000 Medical Service, 14,000 Cyber and Information Space Command; 45,000 other, including central staff, support, logistics, etc.) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of Federal Armed Forces is comprised of weapons systems produced domestically or jointly with other European countries and Western imports, particularly from the US; in recent years, the US has been the leading foreign supplier; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems, and Germany is one of the world's leading arms exporters; it also participates in joint defense production projects with the US and European partners (2024)<br>
@@ -741,7 +741,7 @@ the inventory of Federal Armed Forces is comprised of weapons systems produced d
 <strong>note: </strong>the German military has over 2,000 ground forces, plus air and naval contingents deployed on some 18 foreign missions <br>
 
 **Military - note**<br>
-the Bundeswehr’s core mission is the defense of Germany and its NATO partners; it has a wide range of peacetime duties, including crisis management, cyber security, deterrence, homeland security, humanitarian and disaster relief, and international peacekeeping and stability operations; as a key member of NATO and the EU, the Bundeswehr typically operates in a coalition environment, and its capabilities are largely based on NATO and EU planning goals and needs; it has participated in a range of NATO and EU missions in Europe, Africa, and Asia, as well as global maritime operations; the Bundeswehr has close bilateral defense ties with a number of EU countries, including the Czechia, France, the Netherlands, and Romania, as well as the UK and the US; it also contributes forces to UN peacekeeping missions<br><br>the Bundeswehr was established in 1955; at the height of the Cold War in the 1980s, it had nearly 600,000 personnel, over 7,000 tanks, and 1,000 combat aircraft; in addition, over 400,000 soldiers from other NATO countries—including about 200,000 US military personnel—were stationed in West Germany; in the years following the collapse of the Soviet Union and the end of the Cold War, the Bundeswehr shrank by more than 60% in size (over 90% in tanks and about 80% in aircraft), while funding fell from nearly 3% of GDP and over 4% of government spending in the mid-1980s to 1.2% and 1.6% respectively; by the 2010s, the Bundeswehr’s ability to fulfill its regional security commitments had deteriorated; the Russian annexation of Crimea in 2014 and full-scale assault on Ukraine in 2022 led to renewed emphasis on Germany’s leadership role in European defense and NATO and efforts to boost funding for the Bundeswehr to improve readiness, modernize, and expand<br><br>the current Bundeswehr Army is comprised of two armored divisions and a rapid forces division; the armored divisions have multiple armored and mechanized infantry brigades, including a Dutch brigade and a bi-national Franco-German brigade; one of the divisions also has a mountain infantry brigade; the rapid forces division has airborne, special operations, and helicopter forces, as well as a Dutch air mobile infantry brigade<br><br>the Navy is organized into flotillas for high seas and coastal operations; the high seas flotilla has 12 frigates, while the coastal flotilla has five corvettes and six submarines, plus mine warfare vessels, special operations forces, and marines; the marines cooperate closely with their Dutch counterparts, the Corps Mariniers, and together form a bi-national amphibious group; the Navy also has an aviation command for missions such as maritime surveillance, anti-submarine, and anti-surface warfare<br><br>the Air Force has commands for air, transport/logistics, and space operations; it has about 200 combat aircraft, plus dozens of aircraft for other missions, such as transport, tankers, electronic warfare, and reconnaissance, as well as more than 80 helicopters of various types (2023)<br>
+the Bundeswehr’s core mission is the defense of Germany and its NATO partners; it has a wide range of peacetime duties, including crisis management, cyber security, deterrence, homeland security, humanitarian and disaster relief, and international peacekeeping and stability operations; as a key member of NATO and the EU, the Bundeswehr typically operates in a coalition environment, and its capabilities are largely based on NATO and EU planning goals and needs; it has participated in a range of NATO and EU missions in Europe, Africa, and Asia, as well as global maritime operations; the Bundeswehr has close bilateral defense ties with a number of EU countries, including the Czechia, France, the Netherlands, and Romania, as well as the UK and the US; it also contributes forces to UN peacekeeping missions<br><br>the Bundeswehr was established in 1955; at the height of the Cold War in the 1980s, it had nearly 600,000 personnel, over 7,000 tanks, and 1,000 combat aircraft; in addition, over 400,000 soldiers from other NATO countries—including about 200,000 US military personnel—were stationed in West Germany; in the years following the collapse of the Soviet Union and the end of the Cold War, the Bundeswehr shrank by more than 60% in size (over 90% in tanks and about 80% in aircraft), while funding fell from nearly 3% of GDP and over 4% of government spending in the mid-1980s to 1.2% and 1.6% respectively; by the 2010s, the Bundeswehr’s ability to fulfill its regional security commitments had deteriorated; the Russian annexation of Crimea in 2014 and full-scale assault on Ukraine in 2022 led to renewed emphasis on Germany’s leadership role in European defense and NATO and efforts to boost funding for the Bundeswehr to improve readiness, modernize, and expand (2024)<br>
 
 ## Space
 

@@ -183,7 +183,7 @@ _unimproved: total_: total: 6.9% of population (2020 est.)<br>
 **Current health expenditure**<br>
 3.4% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 0.65 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
@@ -352,7 +352,7 @@ Paul Mba Abessole<br>
 ACP, AfDB, AU (suspended), BDEAC, CEMAC, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Noel Nelson&nbsp;MESSONE (12 December 2022)<br>
+_chief of mission_: Ambassador No&euml;l Nelson MESSONE (12 December 2022)<br>
 _chancery_: 2034 20th Street NW, Suite 200, Washington, DC 20009<br>
 _telephone_: [1] (202) 797-1000<br>
 _FAX_: [1] (301) 332-0668<br>
@@ -683,7 +683,7 @@ _key ports_: Libreville, Oguendjo Terminal, Port Gentil, Port Owendo<br>
 
 **Military and security forces**<br>
 Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka Gabonese Defense and Security Forces): Land Forces (Army), National Navy, Air Force, National Gendarmerie (includes Coast Guard), Corps of Firemen; Republican Guard (2024)<br>
-<strong>note: </strong>the National Police Forces, under the Ministry of Interior, and the National Gendarmerie, under the Ministry of Defense, are responsible for law enforcement and public security; elements of the armed forces and the Republican Guard, an elite unit that protects the president under his direct authority, sometimes perform internal security functions<br>
+<strong>note 1: </strong>the National Police Forces, under the Ministry of Interior, and the National Gendarmerie, under the Ministry of Defense, are responsible for law enforcement and public security; elements of the armed forces and the Republican Guard, an elite unit that protects the president under his direct authority, sometimes perform internal security functions<br><br><strong>note 2:</strong> the Gendarmerie is organized into regionally-based “legions,” mobile forces, a national parks security unit, and a special intervention group<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2022 est.)<br>
@@ -702,7 +702,7 @@ the Gabonese military is lightly armed with a mix of equipment from a variety of
 18-26 years of age for voluntary military service; no conscription (2023)<br>
 
 **Military - note**<br>
-the Gabonese military is a small and lightly-armed force that is responsible for both external and internal security; in August 2023, it seized control of the government in a coup; some members of the military attempted a failed coup in 2019; the Army&rsquo;s core forces are the Republican Guard and an airborne infantry battalion, which are supported by several small regionally-based infantry units; the Gendarmerie has regionally-based &ldquo;legions,&rdquo; as well as mobile forces, a national parks security unit, and a special intervention group; the Air Force has a small number of older French-made fighter aircraft and some combat helicopters, also mostly of French origin; the Navy has a small force of patrol boats (2023)<br>
+the Gabonese military is a small and lightly-armed force that is responsible for both external and internal security; in August 2023, it seized control of the government in a coup; some members of the military attempted a failed coup in 2019 (2023)<br>
 
 ## Space
 
@@ -717,5 +717,4 @@ has a small space program focused on the acquisition, processing, analysis, and 
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Gabon does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials increased funding and capacity at an NGO-run shelter for victims, and also increased prosecutions and convictions of alleged traffickers; however, the government did not demonstrate overall increasing efforts, compared to the previous year, to expand its anti-trafficking capacity; authorities did not report any referrals of victims to services and did not report efforts to identify, protect, or provide justice for adult victims&mdash;potential efforts that have been inadequate for several years; for the fourth consecutive year, the government did not adopt its anti-trafficking National Action Plan and lacked inter-ministerial coordination; officials did not report investigating allegations of judicial corruption related to trafficking crimes; therefore, Gabon remained on Tier 2 Watch List for the second consecutive year (2023)<br>
-_trafficking profile_: human traffickers exploit domestic and foreign victims in Gabon, as well as victims from Gabon abroad; Gabon is a primary destination and transit country for West and Central African men, women, and children subjected to forced labor and sex trafficking; poverty continues to represent a key risk factor in forced labor and sex trafficking; girls are exploited in forced labor in domestic service, markets, or roadside restaurants, and boys are forced to work as street vendors, mechanics, and laborers in the fishing sector; West African women are coerced into domestic servitude or commercial sex within Gabon; criminals may exploit children in illegal gold mines and wildlife trafficking; Gabonese labor recruiters associated with large agricultural firms exploit English-speaking Cameroonians displaced by violence and insecurity in Cameroon&rsquo;s Northwest and Southwest regions, forcing some Cameroonians to work on rubber and palm oil plantations in northern Gabon; West African traffickers reportedly exploit children from other countries to work in markets and urban centers in Gabon; smugglers who assist foreign adults migrating to or through Gabon subject them to forced labor or commercial sex; some families willingly give children to intermediaries promising education or employment who instead subject the children to forced labor; women are exploited in sex trafficking at roadside bars, and brothel owners reportedly conduct child sex trafficking; traffickers often operate outside the capital to avoid detection and take advantage of Gabon&rsquo;s porous borders and unguarded beaches to import victims by car or boat (2023)<br>
 

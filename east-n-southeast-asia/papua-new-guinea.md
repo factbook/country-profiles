@@ -180,7 +180,7 @@ _unimproved: total_: total: 52.5% of population (2020 est.)<br>
 **Current health expenditure**<br>
 2.5% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 0.07 physicians/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
@@ -710,7 +710,6 @@ _stateless persons_: 15 (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 &mdash; Papua New Guinea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Papua New Guinea was downgraded to Tier 3; officials took some steps such as investigating government complicity in a sex trafficking syndicate; however, the government did not prosecute or convict any traffickers or identify and assist victims, and it often deported potential victims without screening them; endemic corruption and complicity among officials, particularly in the logging and fishing sectors, left foreigners and locals vulnerable to trafficking; the lack of resources for anti-trafficking efforts, low awareness among officials and the public, and lack of training and awareness activities continued to hinder progress (2023)<br>
-_trafficking profile_: human traffickers exploit domestic and foreign victims in Papua New Guinea, and Papua New Guineans are exploited abroad; traffickers use Papua New Guinea as a transit point to exploit foreign victims in other countries; foreign and local women and children are exploited in sex trafficking and in forced labor in domestic service, the tourism sector, manual labor, begging, and street vending; families or tribe members reportedly exploit children in sex trafficking or forced labor; some parents force their daughters into marriages or child sex trafficking to resolve debts or disputes, or force children to beg or sell goods on the street; young women and girls face exploitation in sex trafficking and domestic service as part of marriages that involve a &ldquo;bride price&rdquo; of money or chattel; traffickers force some children into criminal gold panning; adolescent boys are increasingly involved in intercommunal armed conflict, possibly via forced recruitment by local leaders; LGBTQI+ individuals are vulnerable to trafficking; asylum seekers detained in Papua New Guinea while attempting to reach Australia may face increased vulnerability to forced labor or sex trafficking; Chinese, Malaysian, and local men are forced to work in logging and mining camps; migrant women from China, Indonesia, Malaysia, the Philippines, and Thailand are recruited by Chinese and Malaysian-based logging companies and subjected to sex trafficking and domestic servitude at logging and mining camps, fisheries, and entertainment sites; local and foreign men and boys seeking work on fishing vessels are at risk of debt bondage, harsh working and living conditions, and physical violence; government officials reportedly facilitate trafficking by accepting bribes or ignoring trafficking in return for political favors (2023)&nbsp;<br>
 
 **Illicit drugs**<br>
 <p>transit point for smuggling drugs such as methamphetamine and cocaine; major consumer of cannabis</p><br>

@@ -183,7 +183,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Current health expenditure**<br>
 9.6% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 4.64 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
@@ -710,14 +710,14 @@ Finnish Defense Forces (FDF; Puolustusvoimat): Army (Maavoimat), Navy (Merivoima
 <strong>note:</strong> the Border Guard (Rajavartiolaitos) and National Police are under the Ministry of the Interior; the Border Guard becomes part of the FDF in wartime<br>
 
 **Military expenditures**<br>
-2.5% of GDP (2023 est.)<br>
+2.4% of GDP (2024 est.)<br>
+2.5% of GDP (2023)<br>
 2% of GDP (2022)<br>
 1.9% of GDP (2021)<br>
 1.5% of GDP (2020)<br>
-1.4% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 30,000 active-duty personnel (22,000 Army; 5,000 Navy; 3,000 Air Force) (2023)<br>
+approximately 31,000 active-duty personnel (23,000 Army; 5,000 Navy; 3,000 Air Force) (2024)<br>
 <strong>note:</strong> active-duty figures include about 21,000 conscripts carrying out their obligated military service (approximately 17,000 Army; 3,500 Navy; 1,000 Air Force)<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -731,7 +731,7 @@ at age 18, all Finnish men are obligated to serve 5.5-12 months of service withi
 165 Lebanon (UNIFIL) (2024)<br>
 
 **Military - note**<br>
-the Finnish Defense Forces (FDF) are focused primarily on territorial defense, which is based on having a large, trained reserve force created by general conscription; active-duty FDF units absorb and train more than 20,000 conscripts annually; the resulting pool of trained reservists gives the FDF a wartime strength of approximately 280,000 and a total reserve of some 900,000 citizens with military service; other FDF responsibilities include support to international peacekeeping operations and some domestic security duties, such as assisting the National Police in maintaining law and order in crises<br><br>the FDF is also focused on fulfilling its new commitment to NATO; following Russia’s full-scale invasion of Ukraine in 2022, Finland reassessed its security policy situation and applied for NATO membership and gained entry in April 2023; as a member of the Alliance, Finland is part of NATO’s collective defense and is covered by the security guarantees enshrined in Article 5 of the North Atlantic Treaty (also known as the Washington Treaty); Finland had been part of NATO’s Partnership for Peace program since 1994, and the FDF exercised with some NATO members and participated in NATO-led military missions in the Balkans, Afghanistan, and Iraq; in 2024, it joined NATO's Air Policing mission in Eastern Europe; Finland also is a signatory of the EU’s Common Security and Defense Policy and actively participates in EU crisis management missions and operations; the FDF cooperates closely with the militaries of other Nordic countries through the Nordic Defense Cooperation structure (NORDEFCO; established 2009), which consists of Denmark, Finland, Iceland, Norway, and Sweden and involves cooperation in such areas as armaments, education, human resources, training and exercises, and operations; Finland considers Sweden as its closest bi-lateral security partner; the UK and the US are also close defense partners; in 2022, Finland signed a mutual security agreement with the UK, and since 2014 has been part of the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies in the North Atlantic, Baltic Sea, and High North regions<br><br>the bulk of the FDF’s annual intake of conscripts go into the Army; in peacetime, the Army has five combat brigades, which include armored, jaeger/light infantry, and mechanized infantry forces, plus regiments of light infantry, special forces, and helicopter assault forces; the Navy has a mix of missile-armed patrol craft, fast patrol boats, and mine warfare vessels; it is slated to receive four multirole corvettes by 2029; the Navy also has a coastal defense brigade, which includes anti-ship missile and naval special operations forces and a naval infantry brigade maintained at cadre strength that incorporates about 1,500 conscripts annually; the Air Force has about 60 US-made F/A-18 multirole fighters, which are scheduled to be replaced by US-origin F-35 stealth multirole fighters beginning in 2025 (2023)<br>
+the Finnish Defense Forces (FDF) are focused primarily on territorial defense, which is based on having a large, trained reserve force created by general conscription; active-duty FDF units absorb and train more than 20,000 conscripts annually; the resulting pool of trained reservists gives the FDF a wartime strength of approximately 280,000 and a total reserve of some 900,000 citizens with military service; other FDF responsibilities include support to international peacekeeping operations and some domestic security duties, such as assisting the National Police in maintaining law and order in crises<br><br>the FDF is also focused on fulfilling its new commitment to NATO; following Russia’s full-scale invasion of Ukraine in 2022, Finland reassessed its security policy situation and applied for NATO membership and gained entry in April 2023; as a member of the Alliance, Finland is part of NATO’s collective defense and is covered by the security guarantees enshrined in Article 5 of the North Atlantic Treaty (also known as the Washington Treaty); Finland had been part of NATO’s Partnership for Peace program since 1994, and the FDF exercised with some NATO members and participated in NATO-led military missions in the Balkans, Afghanistan, and Iraq; in 2024, it joined NATO's Air Policing mission in Eastern Europe; Finland also is a signatory of the EU’s Common Security and Defense Policy and actively participates in EU crisis management missions and operations; the FDF cooperates closely with the militaries of other Nordic countries through the Nordic Defense Cooperation structure (NORDEFCO; established 2009), which consists of Denmark, Finland, Iceland, Norway, and Sweden and involves cooperation in such areas as armaments, education, human resources, training and exercises, and operations; Sweden, the UK, and the US are close defense partners; in 2022, Finland signed a mutual security agreement with the UK, and since 2014 has been part of the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies in the North Atlantic, Baltic Sea, and High North regions (2024)<br>
 
 ## Transnational Issues
 

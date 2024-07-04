@@ -186,7 +186,7 @@ _unimproved: total_: total: 21.4% of population (2020 est.)<br>
 **Current health expenditure**<br>
 3.8% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 0.13 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
@@ -747,7 +747,7 @@ the FAC inventory includes a wide mix of mostly older or second-hand Chinese, Ru
 <strong>note: </strong>Cameroon has committed approximately 2,000-2,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations occur occasionally<br>
 
 **Military - note**<br>
-the FAC is considered a politically independent military; the Army and the Rapid Intervention Battalion (BIR) are organized and equipped for mobile operations; the Army has several motorized infantry brigades spread amongst five military regions; the US-trained BIR has up to nine battalions, detachments, or groups consisting of airborne, air mobile, amphibious, light, and motorized infantry, armored reconnaissance, counterterrorism, and support units, such as artillery and intelligence; the BIR reportedly receives better training, equipment, and pay than regular Army units<br><br>the ground forces are largely focused on internal security, particularly the threat from the terrorist groups Boko Haram and ISIS-West Africa along its frontiers with Nigeria and Chad (Far North region) and, since 2016, an insurgency from armed Anglophone separatist groups in the North-West and South-West regions; in addition, the FAC often deploys ground units to the border region with the Central African Republic to counter intrusions from armed militias and bandits; the Navy’s missions include protecting Cameroon’s oil installations, combatting crime and piracy in the Gulf of Guinea, and patrolling the country’s lakes and rivers; the Air Force supports both the ground and naval forces and has small numbers of light ground attack and reconnaissance aircraft, as well as attack, multipurpose, and transport helicopters (2023)<br>
+the FAC ground forces (Army and the Rapid Intervention Battalion) are largely focused on internal security, particularly the threat from the terrorist groups Boko Haram and ISIS-West Africa along its frontiers with Nigeria and Chad (Far North region) and, since 2016, an insurgency from armed Anglophone separatist groups in the North-West and South-West regions; in addition, the FAC often deploys ground units to the border region with the Central African Republic to counter intrusions from armed militias and bandits; the Navy&rsquo;s missions include protecting Cameroon&rsquo;s oil installations, combatting crime and piracy in the Gulf of Guinea, and patrolling the country&rsquo;s lakes and rivers; the FAC's small Air Force supports both the ground and naval forces (2024)<br>
 
 ## Terrorism
 

@@ -410,7 +410,6 @@ _population without electricity_: 757 million (2020)<br>
 _electrification - total population_: 91.4% (2021)<br>
 _electrification - urban areas_: 97.6% (2021)<br>
 _electrification - rural areas_: 84.4% (2021)<br>
-<strong>note:</strong> sub-Saharan Africa remains the region with the largest number of people without access to electricity with 77% of the World's total<br>
 
 **Electricity generation sources**<br>
 _fossil fuels_: 60.6% of total installed capacity (2020 est.)<br>
@@ -529,7 +528,6 @@ more than 30 countries have existing or planned commercial or government space l
 
 **Trafficking in persons**<br>
 _tier rating_: <strong><br><br>Tier 2 Watch List:</strong> (26 countries) Bolivia, Botswana, Brunei, Bulgaria, Republic of the Congo, Dominican Republic, Egypt, El Salvador, Eswatini, Gabon, Haiti, Iraq, Kuwait, Lebanon, Madagascar, Malaysia, Marshall Islands, Mauritius, Montenegro, Mozambique, Serbia, Solomon Islands, South Africa, Trinidad and Tobago, Vanuatu, Vietnam (2023)<br><br><strong>Tier 3:</strong> (24 countries) Afghanistan, Algeria, Belarus, Burma, Cambodia, Chad, People's Republic of China, Cuba, Curacao, Djibouti, Equatorial Guinea, Eritrea, Guinea-Bissau, Iran, Democratic People's Republic of Korea, Macau, Nicaragua, Papua New Guinea, Russia, Sint Maarten, South Sudan, Syria, Turkmenistan, Venezuela (2023)<br>
-_trafficking profile_: approximately 800,000 people, mostly women and children, are trafficked annually across national borders, not including millions trafficked within their own countries; at least 80% of the victims are female and up to 50% are minors; 75% of all victims are trafficked into commercial sexual exploitation; almost two-thirds of the global victims are trafficked intra-regionally within East Asia and the Pacific (260,000 to 280,000 people) and Europe and Eurasia (170,000 to 210,000 people)<br>
 
 **Illicit drugs**<br>
 <p><strong>cocaine:</strong> worldwide coca cultivation in 2020 likely amounted to 373,000 hectares, potential pure cocaine production reached 2,100 metric tons in 2020<br><strong><br>opiates:</strong> worldwide illicit opium poppy cultivation probably reached about 265,000 hectares in 2020, with potential opium production reaching 7,300 metric tons; Afghanistan is world's primary opium producer, accounting for 85% of the global supply; Southeast Asia was responsible for 7% of global opium; Latin America opium in 2020 was sufficient to produce about 61 metric tons of pure heroin</p> (2015)<br>

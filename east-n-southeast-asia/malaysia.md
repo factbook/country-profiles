@@ -174,7 +174,7 @@ _unimproved: total_: total: 2.5% of population (2020 est.)<br>
 **Current health expenditure**<br>
 4.1% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 1.54 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -742,7 +742,6 @@ _stateless persons_: 113,930 (2022); note - Malaysia's stateless population cons
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Malaysia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government made key achievements during the reporting period, therefore Malaysia was upgraded to Tier 2 Watch List; officials initiated more investigations, prosecuted and convicted more traffickers, and prosecuted complicit officials; the government identified more victims, funded efforts to raise awareness of trafficking and increase victim access to services and shelters, and increased training for officials and victim service providers; however, the government did not sufficiently press criminal prosecution of labor traffickers in several sectors; Standard Operating Procedures were not systematically implemented countrywide to identify victims, including those who came in contact with officials during law enforcement raids or other situations; authorities likely detained, arrested, and deported some victims; delays in prosecution, insufficient interagency coordination, and inadequate services for victims discouraged victim participation in criminal proceedings and hindered anti-trafficking law enforcement efforts (2023)<br>
-_trafficking profile_: human traffickers exploit domestic and foreign victims in Malaysia and Malaysians abroad; most victims in Malaysia are documented and undocumented migrant workers from Bangladesh, Burma, Cambodia, China, India, Indonesia, Laos, Nepal, Pakistan, the Philippines, Sri Lanka, Thailand, and Vietnam; employers and agents exploit some migrants through debt-based coercion, and large organized crime syndicates are involved in some trafficking; Chinese nationals working for Chinese state-affiliated construction projects in Malaysia are vulnerable to forced labor; some young foreign women and girls&mdash;mainly from Southeast Asia, although also from Nigeria, Tanzania, and Uganda&mdash;are forced into commercial sex work in Malaysia after false recruitment for work in restaurants, hotels, beauty salons, or brokered marriages; refugees, Rohingya and other asylum-seekers, and stateless individuals are vulnerable to sex and labor trafficking; traffickers force Malaysian orphans and children to beg, and exploit Malaysian women and children in forced labor; corrupt immigration officials facilitate trafficking by accepting bribes from brokers and smugglers at the borders and airports, and other government officials profit from bribes or extortion from and exploitation of migrants &nbsp;(2023)<br>
 
 **Illicit drugs**<br>
 <p>not a source country for illicit drugs bound for the United States but is a significant transit country for drugs destined for Australia;  drugs trafficked to Malaysia include crystal methamphetamine and lesser quantities of MDMA (ecstasy), cannabis, heroin, and ketamine; significant number of the population abuse drugs especially  methamphetamine</p><br>

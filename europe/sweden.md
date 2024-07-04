@@ -184,7 +184,7 @@ _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 **Current health expenditure**<br>
 11.4% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 7.09 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
@@ -702,14 +702,14 @@ _key ports_: Falkenberg, Goteborg, Helsingborg, Karlsborg, Karlshamn, Lulea, Mal
 Swedish Armed Forces (F&ouml;rsvarsmakten or "the Defense Force"): Army, Navy, Air Force, Home Guard (2024)<br>
 
 **Military expenditures**<br>
-1.5% of GDP (2023 est.)<br>
+2.1% of GDP (2024 est.)<br>
+1.7% of GDP (2023)<br>
 1.3% of GDP (2022)<br>
 1.3% of GDP (2021)<br>
 1.2% of GDP (2020)<br>
-1.1% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-the SAF has about 25,000 active-duty personnel: approximately 14,000 continuous service/full-time and approximately 11,000 temporary service; approximately 21,000 Home Guard (some on active duty) (2023)<br>
+the SAF has about 25,000 active-duty personnel: approximately 14,000 continuous service/full-time and approximately 11,000 temporary service; approximately 21,000 Home Guard (some on active duty) (2024)<br>
 <strong>note 1: </strong>SAF personnel are divided into continuously serving (full-time) and temporary service troops (part-timers who serve periodically and have another main employer or attend school); additional personnel have signed service agreements with the SAF and mostly serve in the Home Guard; the SAF also has about 9,000 civilian employees<br><br><strong>note 2:</strong> in 2021, Sweden announced plans that increase the total size of the armed forces to about 100,000 personnel by 2030<br>
 
 **Military equipment inventories and acquisitions**<br>

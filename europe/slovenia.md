@@ -174,7 +174,7 @@ _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 **Current health expenditure**<br>
 9.5% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 3.28 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
@@ -696,13 +696,13 @@ Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force wi
 
 **Military expenditures**<br>
 1.3% of GDP (2024 est.)<br>
-1.3% of GDP (2023 est.)<br>
+1.3% of GDP (2023)<br>
 1.3% of GDP (2022)<br>
 1.2% of GDP (2021)<br>
 1% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,000 active-duty troops (2023)<br>
+approximately 6,000 active-duty troops (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of Soviet-era and smaller quantities of more modern, mostly Western equipment; in recent years, Slovenia has begun a modernization program and imported growing amounts of European and US equipment&nbsp; (2023)<br>

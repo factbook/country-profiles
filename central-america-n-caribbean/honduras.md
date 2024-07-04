@@ -182,7 +182,7 @@ _unimproved: total_: total: 3.9% of population (2020 est.)<br>
 **Current health expenditure**<br>
 9% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 0.5 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -716,7 +716,7 @@ the FFAA's inventory is comprised of mostly older imported equipment from Israel
 <strong>note: </strong>as of 2023, women made up about 9% of the active duty military<br>
 
 **Military - note**<br>
-the Honduran Armed Forces (FFAA) are responsible for maintaining the country’s territory, defending its sovereignty, providing emergency/humanitarian assistance, and supporting the National Police (PNH); the FFAA’s primary focus is internal and border security, and since 2011 a considerable portion of it has been deployed to support the PNH in combating narcotics trafficking and organized crime; military support to domestic security included the creation of the Military Police of Public Order (PMOP) in 2013 to provide security in areas controlled by street gangs to combat crime and make arrests; the PMOP also has sent personnel to reinforce security operations along the country’s border as part of a tri-national security task force with El Salvador and Guatemala; the FFAA has received military equipment, training, humanitarian, and technical assistance from the US military; the US military maintains a joint service task force co-located with the FFAA at Soto Cano Air Base<br><br>the Army’s combat forces include five infantry brigades, a special operations group, and approximately eight military police battalions; the Navy is a small force focused on coastal and riverine security that operates an ocean-going patrol vessel acquired in 2019 and supported by small flotillas of coastal and riverine patrol boats, as well as a small naval infantry force; the Air Force has a handful of older US-made jet fighters and light ground attack aircraft (2023)<br>
+the Honduran Armed Forces (FFAA) are responsible for maintaining the country&rsquo;s territory, defending its sovereignty, providing emergency/humanitarian assistance, and supporting the National Police (PNH); the FFAA&rsquo;s primary focus is internal and border security, and since 2011 a considerable portion of it has been deployed to support the PNH in combating narcotics trafficking and organized crime; military support to domestic security included the creation of the Military Police of Public Order (PMOP) in 2013 to provide security in areas controlled by street gangs to combat crime and make arrests; the PMOP also has sent personnel to reinforce security operations along the country&rsquo;s border as part of a tri-national security task force with El Salvador and Guatemala; the FFAA has received military equipment, training, humanitarian, and technical assistance from the US military; the US military maintains a joint service task force co-located with the FFAA at Soto Cano Air Base (2024)<br>
 
 ## Transnational Issues
 

@@ -167,7 +167,7 @@ _unimproved: total_: total: 3.2% of population (2017 est.)<br>
 **Current health expenditure**<br>
 5.6% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 2.76 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
@@ -617,7 +617,7 @@ the ABDF's equipment inventory is limited to small arms, light weapons, and soft
 18-23 years of age for voluntary military service for both men and women; no conscription (2023)<br>
 
 **Military - note**<br>
-the ABDF’s responsibilities include providing for internal security and support to the police in maintaining law and order, interdicting narcotics smuggling, responding to natural disasters, and monitoring the country’s territorial waters and maritime resources; established in 1981 from colonial forces originally created in 1897, it is one of the world’s smallest militaries<br><br>the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Barbados, Dominica, Grenada, Guyana, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2023)<br>
+the ABDF’s responsibilities include providing for internal security and support to the police in maintaining law and order, interdicting narcotics smuggling, responding to natural disasters, and monitoring the country’s territorial waters and maritime resources; established in 1981 from colonial forces originally created in 1897, it is one of the world’s smallest militaries<br><br>the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Barbados, Dominica, Grenada, Guyana, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>
 
 ## Transnational Issues
 

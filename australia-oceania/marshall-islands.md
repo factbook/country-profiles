@@ -169,7 +169,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Current health expenditure**<br>
 13% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 0.42 physicians/1,000 population (2012)<br>
 
 **Hospital bed density**<br>
@@ -588,5 +588,4 @@ defense is the responsibility of the US; in 1982, the Marshall Islands signed a 
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Marshall Islands does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials identified a labor trafficking victim, conducted awareness-raising activities, and continued to investigate a government official allegedly complicit in trafficking; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; the government did not prosecute any traffickers for the third consecutive year and has not convicted any traffickers since 2011; officials did not use standard operating procedures to identify trafficking victims and penalized victims for immigration offenses committed as a direct result of being trafficked; law enforcement officials, who have a limited understanding of trafficking, did not receive anti-trafficking training, nor did the government provide adequate financial and technical resources for anti-trafficking efforts; therefore, Marshall Islands was downgraded to Tier 2 Watch List (2023)<br>
-_trafficking profile_: human traffickers exploit domestic and foreign victims in the Marshall lslands, as well as Marshallese victims abroad; traffickers, including hotel and bar staff and family members, recruit and transport Marshallese and East Asian women and girls and exploit them in sex trafficking in the Marshall Islands with foreign construction workers and crew members of foreign fishing and commercial ships; traffickers exploit some foreign fishermen under conditions indicative of forced labor on ships in Marshallese waters; foreign women, including some Chinese nationals, are recruited with promises of work, are forced into commercial sex in establishments frequented by crew members of China-affiliated and other foreign fishing vessels; traffickers exploit Chinese nationals in Chinese-owned businesses; some wealthier or more powerful family members use traditional cultural practices to exploit impoverished Marshallese from outer Islands to serve as indentured labor; limited reports indicate some Marshallese searching for work in the US experience indicators of trafficking, such as passport confiscation, excessive work hours, and fraudulent recruitment, while some Marshallese children are transported to the US and exploited in situations of sexual abuse with indicators of sex trafficking (2023)<br>
 

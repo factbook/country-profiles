@@ -164,7 +164,7 @@ _unimproved: total_: total: 0% of population (2020)<br>
 **Current health expenditure**<br>
 NA<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 2.62 physicians/1,000 population (2016)<br>
 
 **Hospital bed density**<br>

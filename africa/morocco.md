@@ -189,7 +189,7 @@ _unimproved: total_: total: 9% of population (2017 est.)<br>
 6% of GDP (2020)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 0.73 physicians/1,000 population (2017)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 

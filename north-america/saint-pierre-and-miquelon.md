@@ -166,7 +166,7 @@ _unimproved: total_: total: 8.6% of population (2017 est.)<br>
 **Current health expenditure**<br>
 NA<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 NA<br>
 
 **Sanitation facility access**<br>

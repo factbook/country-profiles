@@ -182,7 +182,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Current health expenditure**<br>
 11.1% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 4.08 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -340,10 +340,10 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King WILLEM-ALEXANDER (since 30 April 2013)<br>
-_head of government_: Prime Minister Mark RUTTE (since 14 October 2010)<br>
+_head of government_: Prime Minister Dick SCHOOF (since 2 July 2024)<br>
 _cabinet_: Council of Ministers appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following Second Chamber elections, the leader of the majority party or majority coalition is usually appointed prime minister by the monarch; deputy prime ministers are appointed by the monarch<br>
-<strong>note:</strong> Mark RUTTE's ruling coalition collapsed on 8 July 2023; he is serving as prime minister in a caretaker status until a new prime minister is named following the 22 November 2023 elections<br>
+<strong>note:</strong> Mark RUTTE's ruling coalition collapsed on 8 July 2023; he is serving as prime minister in a caretaker status until a new prime minister is sworn into office<br>
 
 **Legislative branch**<br>
 _description_: bicameral States General or Staten Generaal consists of:<br>Senate or Eerste Kamer (75 seats; members indirectly elected by the country's 12 provincial council members by proportional representation vote; members serve 4-year terms)<br>House of Representatives or Tweede Kamer (150 seats; members directly elected in multi-seat constituencies by open-list proportional representation vote to serve up to 4-year terms)<br>
@@ -710,14 +710,14 @@ Netherlands (Dutch) Armed Forces (Nederlandse Krijgsmacht): Royal Netherlands Ar
 <strong>note 1:</strong> the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature but managed by the Royal Netherlands Navy<br><br><strong>note 2:</strong> the national police maintain internal security in the Netherlands and report to the Ministry of Justice and Security, which oversees law enforcement organizations, as do the justice ministries in Aruba, Curacao, and Sint Maarten<br>
 
 **Military expenditures**<br>
-1.6% of GDP (2023 est.)<br>
+2.1% of GDP (2024 est.)<br>
+1.6% of GDP (2023)<br>
 1.5% of GDP (2022)<br>
 1.4% of GDP (2021)<br>
 1.4% of GDP (2020)<br>
-1.3% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 48,000 active-duty personnel (20,000 Army; 9,000 Navy; 7,000 Air Force; 7,000 Constabulary; 5,000 other) (2023)<br>
+approximately 45,000 active-duty personnel (19,000 Army; 8,000 Navy; 8,000 Air Force; 6,000 Constabulary; 4,000 other) (2024)<br>
 <strong>note:</strong> the total figures include about 6,000 reservists on active duty; the Navy has about 2,300 marines<br>
 
 **Military equipment inventories and acquisitions**<br>

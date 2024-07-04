@@ -174,7 +174,7 @@ _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 **Current health expenditure**<br>
 11.4% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 2.05 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
@@ -329,7 +329,7 @@ _election results_: <em><br>2023:</em> Mohamed MUIZZU elected president in the s
 **Legislative branch**<br>
 _description_: unicameral People's Assembly or People's Majlis (93 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: last held on 21 April 2024 (next to be held in 2029)<br>
-_election results_: percent of vote by party - NA; seats by party - PNC 66, MDP 12, MDA 2, JP 1, MNP 1, independent 11; composition - men 90, women 3, percent of women 3.3%<br>
+_election results_: percent of vote by party - NA; seats by party - PNC 66, MDP 12, MDA 2, JP 1, MNP 1, independent 11; composition - men 90, women 3, percentage women 3.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 6 justices<br>

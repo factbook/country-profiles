@@ -180,7 +180,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Current health expenditure**<br>
 7.8% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 3.47 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
@@ -706,14 +706,14 @@ Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH)
 <strong>note:</strong> the Ministry of the Interior is responsible for internal security, including law enforcement (Croatia Police) and border security<br>
 
 **Military expenditures**<br>
-1.8% of GDP (2023 est.)<br>
+1.8% of GDP (2024 est.)<br>
+1.8% of GDP (2023)<br>
 1.8% of GDP (2022)<br>
 2% of GDP (2021)<br>
 1.7% of GDP (2020)<br>
-1.6% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 15,000 active-duty personnel (10,000 Army; 1,500 Navy; 1,500 Air force; 2,000 joint/other) (2023)<br>
+approximately 14,000 active-duty personnel (10,000 Army; 1,500 Navy; 1,500 Air force; 1,000 joint/other) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of Soviet-era equipment and a growing amount of more modern weapon systems from Western suppliers, including France, Germany, and the US (2024)<br>
@@ -726,7 +726,7 @@ the military's inventory is a mix of Soviet-era equipment and a growing amount o
 150 Kosovo (KFOR/NATO); 175 Lithuania (NATO; Croatia also has a few hundred personnel participating in several other EU, NATO, and UN missions (2024)<br>
 
 **Military - note**<br>
-the Armed Forces of Croatia (OSRH) are responsible for the defense of Croatia’s sovereignty and territory, contributing to international humanitarian, peacekeeping, and security missions, and providing assistance to civil authorities for such missions as responding to disasters, search and rescue, anti-terrorism, and internal security in times of crisis if called upon by the prime minister or the president; Croatia joined NATO in 2009, and the OSRH participates in NATO missions, including its peacekeeping force in Kosovo and the Enhanced Forward Presence mission in Eastern Europe; it also contributes to EU and UN missions; the OSRH trains regularly with NATO and regional partners  <br><br>the OSRH was established in 1991 from the Croatian National Guard during the Croatian War of Independence (1991-95); during the war, the ground forces grew to as many as 60 brigades and dozens of independent battalions, and a single military offensive against Serbian forces in 1995 included some 100,000 Croatian troops; in 2000, Croatia initiated an effort to modernize and reform the OSRH into a small, professional military capable of meeting the challenges of NATO membership; the current 15,000-strong military’s principal combat forces are two mechanized infantry brigades, a small joint service special operations command, a flotilla of missile boats and coastal patrol vessels, and a squadron of Soviet-era fighter aircraft that are in the process of being replaced by more modern French aircraft  (2023)<br>
+the Armed Forces of Croatia (OSRH) are responsible for the defense of Croatia’s sovereignty and territory, contributing to international humanitarian, peacekeeping, and security missions, and providing assistance to civil authorities for such missions as responding to disasters, search and rescue, anti-terrorism, and internal security in times of crisis if called upon by the prime minister or the president; Croatia joined NATO in 2009, and the OSRH participates in NATO missions, including its peacekeeping force in Kosovo and the Enhanced Forward Presence mission in Eastern Europe; it also contributes to EU and UN missions; the OSRH trains regularly with NATO and regional partners  <br><br>the OSRH was established in 1991 from the Croatian National Guard during the Croatian War of Independence (1991-95); during the war, the ground forces grew to as many as 60 brigades and dozens of independent battalions, and a single military offensive against Serbian forces in 1995 included some 100,000 Croatian troops; in 2000, Croatia initiated an effort to modernize and reform the OSRH into a small, professional military capable of meeting the challenges of NATO membership; the current 15,000-strong military’s principal combat forces are two mechanized infantry brigades, a small joint service special operations command, a flotilla of missile boats and coastal patrol vessels, and a squadron of Soviet-era fighter aircraft that are in the process of being replaced by more modern French aircraft (2023)<br>
 
 ## Transnational Issues
 

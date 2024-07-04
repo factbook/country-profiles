@@ -179,7 +179,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 **Current health expenditure**<br>
 9.2% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 4.15 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -689,14 +689,14 @@ _total_: 129,418 km (2022)<br>
 Czech Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (2024)<br>
 
 **Military expenditures**<br>
-1.5% of GDP (2023 est.)<br>
+2.1% of GDP (2024 est.)<br>
+1.5% of GDP (2023)<br>
 1.3% of GDP (2022)<br>
 1.4% of GDP (2021)<br>
 1.3% of GDP (2020)<br>
-1.2% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 30,000 active personnel (24,000 Army; 6,000 Air Force) (2023)<br>
+approximately 30,000 active personnel (24,000 Army; 6,000 Air Force) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Czech military has a mix of Soviet-era and more modern equipment, mostly of Western European origin from such suppliers as Austria, Germany, and Spain; Czechia has a considerable domestic defense industry; during the Cold War, Czechoslovakia was a major producer of tanks, armored personnel carriers, military trucks, and trainer aircraft (2023)<br>
@@ -710,7 +710,7 @@ the Czech military has a mix of Soviet-era and more modern equipment, mostly of 
 up to 130 Lithuania (NATO); 130 Slovakia (NATO) (2024)<br>
 
 **Military - note**<br>
-the Czech military is responsible for national and territorial defense, assisting civil authorities during natural disasters or other emergencies, boosting border security alongside the police, participating in international peacekeeping operations, and supporting its collective security commitments to the EU and NATO, both of which Czechia considers pillars of its national security strategy; Czechia is a member of the Organization for Security and Cooperation in Europe, contributes to UN peacekeeping operations, and actively participates in EU military and security missions under the EU Common Security and Defense Policy; the Czech military has been an active member of NATO since the country joined in 2009 and participates in a variety of NATO’s collective defense missions, including contributing to the Enhanced Forward Presence in Eastern Europe, Baltic Air Policing operations, rapid response forces, and operations in Kosovo; it also exercises regularly with NATO partners and maintains close bilateral ties to a number of militaries particularly partner members of the Visegrad Group (Hungary, Poland, and Slovakia) and Germany<br><br>the military has commands for its land, air, cyber/information operations, and territorial forces, as well as a joint operations command and a special forces directorate; the principal combat forces under the Land Force Command include two mechanized brigades, an airborne regiment, and regiments of artillery, reconnaissance, and electronic warfare forces; the Air Force Command is responsible for securing Czech airspace and has about 30 Czech- and Swedish-made light multirole combat fighter aircraft organized in two squadrons, as well as small squadron of Soviet-era attack helicopters; the Territorial Command is responsible for the active reserves and regional military commands that align with each of Czechia’s 13 regions and the capital, Prague (2023)<br>
+the Czech military is responsible for national and territorial defense, assisting civil authorities during natural disasters or other emergencies, boosting border security alongside the police, participating in international peacekeeping operations, and supporting its collective security commitments to the EU and NATO, both of which Czechia considers pillars of its national security strategy; Czechia is a member of the Organization for Security and Cooperation in Europe, contributes to UN peacekeeping operations, and actively participates in EU military and security missions under the EU Common Security and Defense Policy; the Czech military has been an active member of NATO since the country joined in 2009 and participates in a variety of NATO’s collective defense missions, including contributing to the Enhanced Forward Presence in Eastern Europe, Baltic Air Policing operations, rapid response forces, and operations in Kosovo; it also exercises regularly with NATO partners and maintains close bilateral ties to a number of militaries particularly partner members of the Visegrad Group (Hungary, Poland, and Slovakia) and Germany<br><br>the military has commands for its land, air, cyber/information operations, and territorial forces, as well as a joint operations command and a special forces directorate; the Territorial Command is responsible for the active reserves and regional military commands that align with each of Czechia’s 13 regions and the capital, Prague (2023)<br>
 
 ## Transnational Issues
 

@@ -161,7 +161,7 @@ _unimproved: urban_: urban: 4.3% of population<br>
 **Current health expenditure**<br>
 5.7% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 1.1 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>

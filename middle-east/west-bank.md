@@ -176,7 +176,7 @@ _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 **Current health expenditure**<br>
 NA<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 3.25 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -450,28 +450,31 @@ _electrification - total population_: 100% (2021)<br>
 <strong>note:</strong> data for West Bank and Gaza Strip combined<br>
 
 **Electricity**<br>
-_installed generating capacity_: 215,000 kW (2020 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_consumption_: 5,702,816,000 kWh (2019 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_exports_: 0 kWh (2019 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_imports_: 5.9 billion kWh (2019 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_transmission/distribution losses_: 847 million kWh (2019 est.) Data represented includes both the Gaza Strip and West Bank<br>
+_installed generating capacity_: 215,000 kW (2020 est.)<br>
+_consumption_: 5,702,816,000 kWh (2019 est.)<br>
+_exports_: 0 kWh (2019 est.)<br>
+_imports_: 5.9 billion kWh (2019 est.)<br>
+_transmission/distribution losses_: 847 million kWh (2019 est.)<br>
+<strong>note:</strong> includes the West Bank and the Gaza Strip<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 100% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_nuclear_: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_solar_: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_wind_: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_tide and wave_: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_geothermal_: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.) Data represented includes both the Gaza Strip and West Bank<br>
+_fossil fuels_: 100% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+<strong>note:</strong> includes the West Bank and the Gaza Strip<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_refined petroleum consumption_: 24,600 bbl/day (2019 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.) Data represented includes both the Gaza Strip and West Bank<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 24,600 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+<strong>note:</strong> includes the West Bank and the Gaza Strip<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
@@ -490,13 +493,15 @@ _imports_: 0 cubic meters (2021 est.)<br>
 _proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 3.341 million metric tonnes of CO2 (2019 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.) Data includes both the Gaza Strip and West Bank<br>
-_from petroleum and other liquids_: 3.341 million metric tonnes of CO2 (2019 est.) Data includes both the Gaza Strip and West Bank<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.) Data includes both the Gaza Strip and West Bank<br>
+_total emissions_: 3.341 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 3.341 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+<strong>note:</strong> includes the West Bank and the Gaza Strip<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 13.604 million Btu/person (2019 est.) Data represented includes both the Gaza Strip and West Bank<br>
+_Total energy consumption per capita 2019_: 13.604 million Btu/person (2019 est.)<br>
+<strong>note:</strong> includes the West Bank and the Gaza Strip<br>
 
 ## Communications
 

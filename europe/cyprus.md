@@ -178,7 +178,7 @@ _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 **Current health expenditure**<br>
 8.1% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 3.14 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
@@ -568,7 +568,6 @@ _consumption_: 4.733 billion kWh (2019 est.)<br>
 _exports_: 0 kWh (2019 est.)<br>
 _imports_: 0 kWh (2019 est.)<br>
 _transmission/distribution losses_: 184 million kWh (2019 est.)<br>
-<strong>note: </strong>electricity production in area administered by Turkish Cypriots - 998.9 million kWh (est. 2005)<br><br><strong>note: </strong>electricity consumption in area administered by Turkish Cypriots - 797.9 million kWh (est. 2005)<br>
 
 **Electricity generation sources**<br>
 _fossil fuels_: 86.8% of total installed capacity (2020 est.)<br>
@@ -705,7 +704,7 @@ Cypriot National Guard (CNG): 18-50 years of age for compulsory military service
 <strong>note:</strong> the CNG accepts all foreign nationals of at least partial Cypriot descent under age 32 as volunteers; dual citizenship Cypriot origin citizens, who were born in Cyprus or abroad, have the obligation to serve in the CNG on repatriation, regardless of whether or not they possess a foreign citizenship; a person is considered as having Cypriot origin where a grandparent or parent was/is a Cypriot citizen<br>
 
 **Military - note**<br>
-established in 1964, the National Guard (EF) is responsible for ensuring Cyprus’s territorial integrity and sovereignty; its primary focus is Turkey, which invaded Cyprus in 1974 and maintains a large military presence in the unrecognized Turkish Republic of Northern Cyprus; the EF also participates in some internal missions, such as providing assistance during natural disasters; Greece is its main security partner and maintains about 1,000 troops on Cyprus; the EF has conducted training exercises with other militaries including France, Israel, and the US; since Cyprus joined the EU in 2004, the EF has actively participated in the EU’s Common Security and Defense Policy and has sent small numbers of personnel to some EU and missions; Cyprus is also part of the Organization for Security and Cooperation in Europe<br><br>the EF, particularly the Army, would rely heavily on the mobilization of approximately 50,000 available reserves during a crisis; the majority of the active Army is deployed along the “Green Line” that separates the Greek Cypriots from the Turkish Cypriots; its principal combat forces are five infantry brigades, an armored brigade, and regiments of artillery, light infantry, and special forces; the Navy has a small number of coastal patrol craft and boats, as well as a special operations unit, while the Air Force has a few combat helicopters and ground-based air defense units (2023)<br>
+established in 1964, the National Guard (EF) is responsible for ensuring Cyprus&rsquo;s territorial integrity and sovereignty; its primary focus is Turkey, which invaded Cyprus in 1974 and maintains a large military presence in the unrecognized Turkish Republic of Northern Cyprus; the majority of the force is deployed along the &ldquo;Green Line&rdquo; that separates the Greek Cypriots from the Turkish Cypriots; the EF also participates in some internal missions, such as providing assistance during natural disasters; Greece is its main security partner and maintains about 1,000 troops on Cyprus; the EF has conducted training exercises with other militaries including France, Israel, and the US; since Cyprus joined the EU in 2004, the EF has actively participated in the EU&rsquo;s Common Security and Defense Policy and has sent small numbers of personnel to some EU and missions; Cyprus is also part of the Organization for Security and Cooperation in Europe (2023)<br>
 
 ## Terrorism
 

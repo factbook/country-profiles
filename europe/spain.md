@@ -182,7 +182,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 **Current health expenditure**<br>
 10.7% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 4.44 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
@@ -711,14 +711,14 @@ Spanish Armed Forces (Fuerzas Armadas de España): Army (Ejército de Tierra), S
 <strong>note 1:</strong> the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defense and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance<br><br><strong>note 2:</strong> the Emergency Response Unit was established in 2006 as a separate branch of service for responding to natural disasters and providing disaster relief both domestically and abroad; it has personnel from all the other military services<br><br><strong>note 3:</strong> the Spanish National Police (Cuerpo Nacional de Policía, CNP) and the Civil Guard maintain internal security as well as migration and border enforcement under the authority of the Ministry of the Interior; the regional police under the authority of the Catalan and the Basque Country regional governments and municipal police throughout the country also support domestic security <br><br><strong>note 4:</strong> the military has a Common Corps of four specialized corps that provide professional services to all the branches of the Armed Forces and the Civil Guard, including comptroller, legal, medical, and music services<br><br><strong>note 5: </strong>the Royal Guard is an independent regiment of the military dedicated to the protection of the King and members of the royal family; it is made up of members of the Army, Navy, Air Force, and Common Corps<br>
 
 **Military expenditures**<br>
-1.2% of GDP (2023 est.)<br>
+1.3% of GDP (2024 est.)<br>
+1.2% of GDP (2023)<br>
 1.2% of GDP (2022)<br>
 1% of GDP (2021)<br>
 1% of GDP (2020)<br>
-0.9% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 120,000 active-duty troops (72,000 Army; 25,000 Navy, including about 5,500 marines; 23,000 Air and Space Force); 80,000 Guardia Civil (2023)<br>
+approximately 118,000 active-duty troops (70,000 Army; 25,000 Navy, including about 5,500 marines; 23,000 Air and Space Force); 80,000 Guardia Civil (2024)<br>
 <strong>note: </strong>military figures include about 3,500 Emergency Response Unit and 1,500-2,000 Royal Guard personnel<br>
 
 **Military equipment inventories and acquisitions**<br>

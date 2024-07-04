@@ -181,7 +181,7 @@ _unimproved: total_: total: 1% of population (2020 est.)<br>
 **Current health expenditure**<br>
 8.5% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 4.2 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
@@ -315,7 +315,7 @@ Liberation Day, 3 March (1878)<br>
 
 **Constitution**<br>
 _history_: several previous; latest drafted between late 1990 and early 1991, adopted 13 July 1991<br>
-_amendments_: proposed by the National Assembly or by the president of the republic; passage requires three-fourths majority vote of National Assembly members in three ballots; signed by the National Assembly chairperson; note - under special circumstances, a "Grand National Assembly" is elected with the authority to write a new constitution and amend certain articles of the constitution, including those affecting basic civil rights and national sovereignty; passage requires at least two-thirds majority vote in each of several readings; amended several times, last in 2015<br>
+_amendments_: proposed by the National Assembly or by the president of the republic; passage requires three-fourths majority vote of National Assembly members in three ballots; signed by the National Assembly chairperson; note - under special circumstances, a "Grand National Assembly" is elected with the authority to write a new constitution and amend certain articles of the constitution, including those affecting basic civil rights and national sovereignty; passage requires at least two-thirds majority vote in each of several readings; amended several times, last in 2023<br>
 
 **Legal system**<br>
 civil law<br>
@@ -707,14 +707,14 @@ Bulgarian Armed Forces (aka Bulgarian Army): Land Forces, Air Force, Navy<br><br
 <strong>note:</strong> the GDMP includes the Gendarmerie, a special police force with military status deployed to secure important facilities, buildings and infrastructure, to respond to riots, and to counter militant threats<br>
 
 **Military expenditures**<br>
-2.1% of GDP (2024 est.)<br>
-1.9% of GDP (2023 est.)<br>
+2.2% of GDP (2024 est.)<br>
+1.9% of GDP (2023)<br>
 1.6% of GDP (2022)<br>
 1.6% of GDP (2021)<br>
 1.6% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 30,000 active-duty personnel (19,000 Army; 4,000 Navy; 7,000 Air Force) (2023)<br>
+approximately 27,000 active-duty personnel (17,000 Army; 3,000 Navy; 7,000 Air Force) (2024)<br>
 <strong>note:</strong> in 2021, Bulgaria released a 10-year defense plan which called for an active military strength of 43,000<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -725,7 +725,7 @@ the military's inventory consists primarily of Soviet-era equipment, although in
 <strong>note 1:</strong> in 2021, women comprised about 17% of the Bulgarian military's full-time personnel<br><br><strong>note 2:</strong> in 2020, Bulgaria announced a program to allow every citizen up to the age of 40 to join the armed forces for 6 months of military service in the voluntary reserve<br>
 
 **Military - note**<br>
-the Bulgarian military is responsible for guaranteeing Bulgaria’s independence, sovereignty, and territorial integrity, providing support to international peace and security missions, and contributing to national security in peacetime, including such missions as responding to disasters or assisting with border security; the military trains regularly including in multinational exercises with regional partners and with NATO since Bulgaria joined the organization in 2004; it also participates in overseas peacekeeping and other security missions under the EU, NATO, and the UN; in 2022, Bulgaria established and began leading a NATO multinational battlegroup as part of an effort to boost NATO defenses in Eastern Europe following Russia’s invasion of Ukraine; in 2021, Bulgaria approved a 10-year defense development program, which included calls for equipment upgrades and procurements, boosts in manpower, organizational reforms, and greater focus on such areas as cyber defense, communications, logistics support, and research and development<br><br>the Bulgarian military has participated in several significant conflicts since its establishment in 1878, including the Serbo-Bulgarian War (1885), the First Balkan War (1912-13), the Second Balkan War (1913), World War I (1915-1918), and World War II (1941-45); during the Cold War it was one of the Warsaw Pact’s largest militaries with over 150,000 personnel, eight ground combat divisions, and more than 200 Soviet-made combat aircraft; the principal combat units of the modern-day Land Forces are two mechanized infantry brigades and regiments of artillery and mountain infantry, while the Air Force has a mix of about 20 US-made and Soviet-era fighter aircraft; it is in the midst of retiring the Soviet fighters and replacing them with additional US-made aircraft; NATO partners provide assistance with protecting Bulgaria’s airspace; the Navy has four frigates, including one Soviet-era and three secondhand vessels acquired from Belgium, plus three Soviet-era corvettes; Bulgaria retired the last of its Soviet-era submarines in 2011; the military also has a joint special operations command, a communications, information support, and cyber defense command, and a joint forces command, which was established in 2021 to coordinate the operations of the services (2023)<br>
+the Bulgarian military is responsible for guaranteeing Bulgaria’s independence, sovereignty, and territorial integrity, providing support to international peace and security missions, and contributing to national security in peacetime, including such missions as responding to disasters or assisting with border security; the military trains regularly including in multinational exercises with regional partners and with NATO since Bulgaria joined the organization in 2004; it also participates in overseas peacekeeping and other security missions under the EU, NATO, and the UN; in 2022, Bulgaria established and began leading a NATO multinational battlegroup as part of an effort to boost NATO defenses in Eastern Europe following Russia’s invasion of Ukraine; in 2021, Bulgaria approved a 10-year defense development program, which included calls for equipment upgrades and procurements, boosts in manpower, organizational reforms, and greater focus on such areas as cyber defense, communications, logistics support, and research and development<br><br>the Bulgarian military has participated in several significant conflicts since its establishment in 1878, including the Serbo-Bulgarian War (1885), the First Balkan War (1912-13), the Second Balkan War (1913), World War I (1915-1918), and World War II (1941-45); during the Cold War it was one of the Warsaw Pact’s largest militaries with over 150,000 personnel and more than 200 Soviet-made combat aircraft (2023)<br>
 
 ## Space
 
@@ -751,7 +751,6 @@ _stateless persons_: 1,129 (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Bulgaria does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials convicted more traffickers, informally adopted new National Action Plans for 2022 and 2023, and utilized seized assets to supplement shelters and service centers assisting victims; the government mandated specialized training for investigative prosecutors and magistrates and required assignment of trafficking cases to those individuals; the National Investigative Service established a cyber unit, focusing on internet-based exploitation, including trafficking; Bulgaria and Germany cooperated on a bilateral program to combat labor trafficking, information campaigns targeting the large number of Bulgarians seeking jobs in Germany, and a referral mechanism for trafficking cases between countries; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; courts continued to issue suspended sentences for most convicted traffickers; officials did not adequately screen for trafficking indicators or identify victims, particularly among vulnerable groups such as Roma; the government provided limited funding to NGOs for victim services and a national commission for capacity building and implementation of anti-trafficking activities, limiting the sustainability of the government&rsquo;s anti-trafficking systems; a lack of resources, legal authority, and training impeded law enforcement; corruption in law enforcement and the judiciary hindered progress, and alleged complicity in trafficking crimes persisted; therefore, Bulgaria remained on Tier 2 Watch List for the second consecutive year (2023)&nbsp;<br>
-_trafficking profile_: human traffickers exploit domestic and foreign victims in Bulgaria, and traffickers exploit victims from Bulgaria abroad; Bulgaria remains one of the primary source countries of human trafficking in the EU; vulnerable groups include Bulgarians with little education and income, the unemployed, children in residential care, homeless individuals, individuals working in commercial sex, migrants, and Roma; most victims are Roma or individuals with disabilities or mental health conditions; Bulgarians of Turkish ethnicity and Romani women and girls account for most of the sex trafficking victims in Bulgaria; family- or clan-based organizations and independent traffickers are overwhelmingly of Romani ethnicity and usually know the victims, who are also Roma; sex trafficking rings typically consist of Bulgarian traffickers who cooperate with foreign nationals in destination countries but do not have direct ties to organized crime groups; traffickers exploit Bulgarian women and girls in sex trafficking throughout Western Europe and in Bulgaria, and exploit Bulgarian men and boys in forced labor across Europe, predominantly in agriculture, construction, and hospitality industries; Romani children are exploited in forced labor, particularly begging and pick-pocketing in Austria, France, and Sweden; child trafficking cases reportedly are increasing; thousands of Ukrainian refugees fleeing Russia&rsquo;s invasion of Ukraine and seeking sanctuary in Bulgaria are highly vulnerable to trafficking; corruption among law enforcement and judiciary officials continues to enable some trafficking crimes (2023)<br>
 
 **Illicit drugs**<br>
 source country for amphetamine tablets<br>

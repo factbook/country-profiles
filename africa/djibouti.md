@@ -176,7 +176,7 @@ _unimproved: total_: total: 9.2% of population (2020 est.)<br>
 **Current health expenditure**<br>
 2% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 0.22 physicians/1,000 population (2014)<br>
 
 **Hospital bed density**<br>
@@ -702,5 +702,4 @@ _refugees (country of origin)_: 6,518 (Yemen) (mid-year 2022); 13,467 (Somalia) 
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 &mdash; Djibouti does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Djibouti was downgraded to Tier 3; the government took some steps to address trafficking, including partnering with international organizations to establish a shelter and provide services to victims, and directing creation of a national coordinating body to combat trafficking; however, officials did not report investigating or prosecuting any cases and did not convict any traffickers for the sixth consecutive year; prosecutors dropped trafficking charges or reclassified cases as other crimes with lower penalties, and judges did not incorporate provisions from the 2016 anti-trafficking law; no victims were identified for the fourth consecutive year, and protection services remained limited; the government lacked coordinated anti-trafficking efforts and did not draft a new National Action Plan to replace the expired plan; some officials continued to deny the existence of sex and labor trafficking in Djibouti (2023)<br>
-_trafficking profile_: human traffickers exploit domestic and foreign victims in Djibouti, and to a lesser extent, traffickers exploit victims from Djibouti abroad; traffickers, including family members, exploit local and migrant children in forced begging; homeless Djiboutian and migrant women and children face exploitation in sex trafficking or forced labor; foreign workers&mdash;including Ethiopians, Filipinos, Indians, Pakistanis, and Yemenis&mdash;may be exploited in forced labor in domestic servitude, construction, and food service sectors; adults and children, primarily undocumented economic migrants from Ethiopia and Somalia, transit Djibouti en route to Yemen and other locations in the Middle East, particularly Saudi Arabia; some of these migrants are exploited in forced labor and sex trafficking at their intended destinations; migrants who transit Djibouti to return to their home countries are vulnerable to trafficking, particularly in agricultural labor and sex trafficking; Djibouti hosts approximately 35,000 refugees and asylumseekers, and many of them have endured and remain vulnerable to trafficking; Cuban medical professionals in Djibouti may have been forced to work by the Cuban government (2023)<br>
 

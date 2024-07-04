@@ -176,7 +176,7 @@ _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 **Current health expenditure**<br>
 7.8% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 3.47 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
@@ -689,14 +689,14 @@ _key ports_: Muuga - Port of Tallin, Paldiski Lounasadam, Paljassaare, Sillamae,
 Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League <br><br>Ministry of Interior: Police and Border Guard Board, Internal Security Service (2024)<br>
 
 **Military expenditures**<br>
-2.9% of GDP (2023 est.)<br>
+3.4% of GDP (2024 est.)<br>
+2.9% of GDP (2023)<br>
 2.2% of GDP (2022)<br>
 2% of GDP (2021)<br>
 2.3% of GDP (2020)<br>
-2% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,000 active-duty personnel; approximately 15,000 Defense League (2023)<br>
+approximately 7,500 active-duty personnel; approximately 15,000 Defense League (2024)<br>
 <strong>note: </strong>the Estonian Defense Forces rely largely on reservists who have completed compulsory conscription in the previous 10 years to fill out its active duty and Territorial Defense units during a crisis; there are more than 40,000 trained reservists and approximately 230,000 Estonians are enrolled in the mobilization registry<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -707,7 +707,7 @@ the Estonian military has a mix of Soviet-era and growing amounts of more modern
 <strong>note 1:</strong> conscripts comprise approximately 3,000-3,300 of the Estonian military's 7,000 active-duty personnel and serve in all branches, except for the Air Force; after conscript service, reservists are called up for training every 5 years; Estonia has had conscription since 1991<br><br><strong>note 2:</strong> in 2020, women comprised about 10% of the full-time professional military force; the Defense League includes a Women's Voluntary Defense Organization of more than 3,000 members<br>
 
 **Military - note**<br>
-the Estonian military is a compact force that relies heavily on conscripts and reservists and the support of its NATO allies; Estonia’s defense policy aims to guarantee the country’s independence and sovereignty, protect its territorial integrity, including waters and airspace, and preserve constitutional order; Estonia’s main defense goals are developing and maintaining a credible deterrent to outside aggression and ensuring the Estonian Defense Forces (EDF) can fulfill their commitments to NATO and interoperate with the armed forces of NATO and EU member states; the EDF’s primary external focus is Russia; since Russia’s full-scale invasion of Ukraine in 2022, Estonia has boosted defense spending, sent arms to Ukraine, and sought to boost the EDF’s capabilities in such areas as air defense, artillery, personnel readiness, and surveillance<br><br>Estonia has been a member of NATO since 2004 and is fully integrated within the NATO structure; since 2017, Estonia has hosted a UK-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; as the EDF Air Force does not have any combat aircraft, NATO has provided airspace protection for Estonia since 2004 through its Baltic Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on four-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014; Estonia also hosts a NATO cyber security center; it cooperates closely with the EU on defense issues through the EU Common Security and Defense Policy and is a member of the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies in the North Atlantic, Baltic Sea, and High North regions; Estonia also has close defense ties with its Baltic neighbors and has bilateral military agreements with a number of European countries, as well as Canada and the US<br><br>the Estonian Army features a divisional headquarters, two infantry brigades, and an artillery battalion, plus supporting units; it would rely heavily on mobilized reserves during a crisis, which would be used to fill out active-duty units and staff territorial defense units; the Estonian Navy features a mine warfare flotilla; the EDF also has a special operations command and a cyber command (2023)<br>
+the Estonian military is a compact force that relies heavily on conscripts and reservists and the support of its NATO allies; Estonia’s defense policy aims to guarantee the country’s independence and sovereignty, protect its territorial integrity, including waters and airspace, and preserve constitutional order; Estonia’s main defense goals are developing and maintaining a credible deterrent to outside aggression and ensuring the Estonian Defense Forces (EDF) can fulfill their commitments to NATO and interoperate with the armed forces of NATO and EU member states; the EDF’s primary external focus is Russia; since Russia’s full-scale invasion of Ukraine in 2022, Estonia has boosted defense spending, sent arms to Ukraine, and sought to boost the EDF’s capabilities in such areas as air defense, artillery, personnel readiness, and surveillance<br><br>Estonia has been a member of NATO since 2004 and is fully integrated within the NATO structure; since 2017, Estonia has hosted a UK-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; as the EDF Air Force does not have any combat aircraft, NATO has provided airspace protection for Estonia since 2004 through its Baltic Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on four-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014; Estonia also hosts a NATO cyber security center; it cooperates closely with the EU on defense issues through the EU Common Security and Defense Policy and is a member of the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies in the North Atlantic, Baltic Sea, and High North regions; Estonia also has close defense ties with its Baltic neighbors and has bilateral military agreements with a number of European countries, as well as Canada and the US (2024)<br>
 
 ## Transnational Issues
 

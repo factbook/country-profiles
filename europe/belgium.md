@@ -178,7 +178,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Current health expenditure**<br>
 11.1% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 6.08 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -331,10 +331,10 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King PHILIPPE (since 21 July 2013)<br>
-_head of government_: Caretaker Prime Minister Alexander DE CROO (since 1 October 2020)&nbsp;<br>
+_head of government_: Prime Minister Alexander DE CROO (since 1 October 2020)<br>
 _cabinet_: Council of Ministers formally appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary and constitutional; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch and approved by Parliament<br>
-<strong>note </strong>- Alexander DE CROO resigned on 9 June 2024 following the parliamentary elections and is serving as prime minister in a caretaker status until a new prime minister is named<br>
+<strong>note </strong>- Alexander DE CROO resigned on 9 June 2024 following the parliamentary elections and is serving as prime minister in a caretaker status until a new prime minister is sworn into office<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms)<br>Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
@@ -702,14 +702,14 @@ Belgian Armed Forces (Defensie or  La Défense): Land Component, Marine (Naval)
 <strong>note: </strong>the Belgian Federal Police is the national police force and responsible for internal security and nationwide law and order, including migration and border enforcement; the force reports to the ministers of interior and justice<br>
 
 **Military expenditures**<br>
-1.2% of GDP (2023 est.)<br>
+1.3% of GDP (2024 est.)<br>
+1.2% of GDP (2023)<br>
 1.2% of GDP (2022)<br>
 1.1% of GDP (2021)<br>
 1% of GDP (2020)<br>
-0.9% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25,000 active-duty personnel (10,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Component; 7,000 other, including joint staff, support, and training schools) (2023)<br>
+approximately 23,000 active-duty personnel (10,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Component; 5,000 other, including joint staff, support, and training schools) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the armed forces have a mix of weapons systems from European countries, Israel, and the US; Belgium has an export-focused defense industry that focuses on components and subcontracting (2024)<br>
@@ -722,7 +722,7 @@ the armed forces have a mix of weapons systems from European countries, Israel, 
 100 Middle East; Belgium has more than 300 ground forces deployed in Eastern Europe, as well as air and naval assets, supporting NATO missions for the defense of NATO's eastern flank (numbers vary based on the mission) (2024)<br>
 
 **Military - note**<br>
-the Belgian military’s responsibilities include territorial defense, humanitarian/disaster relief, assistance to the police if required, international peacekeeping missions, and support to its NATO and EU security commitments, which Belgium considers vital components of its national security policy; outside of the country, the military operates almost always within an international organization or a coalition, such as its ongoing deployments to Africa for the EU and UN, eastern Europe as part of NATO’s Enhanced Forward Presence mission, and the Middle East with an international coalition to combat the Islamic State of Iraq and ash-Sham; Belgium was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) establishing NATO in 1949; it hosts the NATO headquarters in Brussels; Belgium also cooperates with neighboring countries, such as Luxembourg and the Netherlands, in conducting joint patrols of their respective air spaces and in a composite combined special operations command with Denmark and the Netherlands<br><br>the Belgian military is a small, professional, and all-volunteer force equipped with modern Western equipment; the Land Component’s combat forces are a motorized brigade and a special operations regiment; the Marine Component is a compact but active force that conducts a variety of missions ranging from territorial water patrols to humanitarian and counterpiracy operations, as well as support to multinational security operations; it has two frigates, which are supported by several patrol boats and mine warfare vessels; the Air Component has about 50 US-made F-16 fighter aircraft, which are slated to be replaced by US F-35 stealth multirole fighter aircraft by 2025 (2023)<br>
+the Belgian military is a small, professional, and all-volunteer force equipped with modern Western equipment; its responsibilities include territorial defense, humanitarian/disaster relief, assistance to the police if required, international peacekeeping missions, and support to its NATO and EU security commitments, which Belgium considers vital components of its national security policy; outside of the country, the military operates almost always within an international organization or a coalition, such as its ongoing deployments to Africa for the EU and UN, eastern Europe as part of NATO&rsquo;s Enhanced Forward Presence mission, and the Middle East with an international coalition to combat the Islamic State of Iraq and ash-Sham; Belgium was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) establishing NATO in 1949; it hosts the NATO headquarters in Brussels; Belgium also cooperates with neighboring countries, such as Luxembourg and the Netherlands, in conducting joint patrols of their respective air spaces and in a composite combined special operations command with Denmark and the Netherlands (2024)<br>
 
 ## Space
 

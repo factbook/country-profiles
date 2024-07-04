@@ -90,7 +90,7 @@ _adjective_: Panamanian<br>
 Mestizo (mixed Indigenous and White) 65%, Indigenous 12.3% (Ngabe 7.6%, Kuna 2.4%, Embera 0.9%, Bugle 0.8%, other 0.4%, unspecified 0.2%), Black or African descent 9.2%, Mulatto 6.8%, White 6.7% (2010 est.)<br>
 
 **Languages**<br>
-Spanish (official), indigenous languages (including Ngabere (or Guaymi), Buglere, Kuna, Embera, Wounaan, Naso (or Teribe), and Bri Bri), Panamanian English Creole (similar to Jamaican English Creole; a mixture of English and Spanish with elements of Ngabere; also known as Guari Guari and Colon Creole), English, Chinese (Yue and Hakka), Arabic, French Creole, other (Yiddish, Hebrew, Korean, Japanese); note - many Panamanians are bilingual<br>
+Spanish (official), Indigenous languages (including Ngabere (or Guaymi), Buglere, Kuna, Embera, Wounaan, Naso (or Teribe), and Bri Bri), Panamanian English Creole (similar to Jamaican English Creole; a mixture of English and Spanish with elements of Ngabere; also known as Guari Guari and Colon Creole), English, Chinese (Yue and Hakka), Arabic, French Creole, other (Yiddish, Hebrew, Korean, Japanese); note - many Panamanians are bilingual<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -177,7 +177,7 @@ _unimproved: total_: total: 3.8% of population (2020 est.)<br>
 **Current health expenditure**<br>
 9.7% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 1.63 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>

@@ -194,7 +194,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 **Current health expenditure**<br>
 18.8% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 2.61 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
@@ -717,11 +717,11 @@ United States Armed Forces (aka US Military): US Army (USA), US Navy (USN; inclu
 <strong>note 1: </strong>the US Coast Guard is administered in peacetime by the Department of Homeland Security, but in wartime reports to the Department of the Navy<br><strong><br>note 2:</strong> the Army National Guard and the Air National Guard are reserve components of their services and operate in part under state authority; the US military also maintains reserve forces for each branch<br><br><strong>note 3: </strong>US law enforcement personnel include those of federal agencies, such as the Department of Homeland Security and Department of Justice, the 50 states, special jurisdictions, local sheriff’s offices, and municipal, county, regional, and tribal police departments<br><br><strong>note 4:</strong> the US has state defense forces (SDFs), which are military units that operate under the sole authority of state governments; SDFs are authorized by state and federal law and are under the command of the governor of each state; as of 2023, more than 20 states and the Commonwealth of Puerto Rico had SDFs, which typically have emergency management and homeland security missions; most are organized as ground units, but air and naval units also exist<br>
 
 **Military expenditures**<br>
-3.2% of GDP (2023 est.)<br>
+3.4% of GDP (2024 est.)<br>
+3.2% of GDP (2023)<br>
 3.3% of GDP (2022)<br>
 3.5% of GDP (2021)<br>
 3.6% of GDP (2020)<br>
-3.5% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1.31 million active-duty personnel (446,000 Army; 328,000 Navy; 317,000 Air Force; 9,000 Space Force; 167,000 Marine Corps; 40,000 Coast Guard); 330,000 Army National Guard; 105,000 Air National Guard (2024)<br>

@@ -172,7 +172,7 @@ _unimproved: total_: total: 2.6% of population (2020 est.)<br>
 **Current health expenditure**<br>
 7.1% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 3.49 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -325,7 +325,7 @@ _head of government_: Taoiseach (Prime Minister) Simon HARRIS (since 9 April 202
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)<br>
 _elections/appointments_: president directly elected by majority popular vote for a 7-year term (eligible for a second term); election last held on 26 October 2018 (next to be held no later than November 2025); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president<br>
 _election results_: <em><br>2024: </em>Simon HARRIS is elected taoiseach by parliament, 88 votes to 69, and is appointed taoiseach by the president<em><br><br>2018:</em> Michael D. HIGGINS reelected president in first round; percent of vote in first round - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%<br><br><em>2011: </em>Michael D. HIGGINS elected president in second round; percent of vote in first round - Michael D. HIGGINS (Labor) 39.6%, Sean GALLAGHER (independent) 28.5%, Martin McGuinness (Sinn Féin) 13.7%, Gay Mitchell (Fine Gael) 6.4%, David Norris (independent) 6.2%, Mary DAVIS (independent) 2.7%; percent of vote in second round - Michael D. HIGGINS 56.8%, Sean GALLAGHER 35.5%<br>
-<strong>note:</strong> Taoiseach Leo VARADKAR resigned from the ruling party on 20 March 2024 but remained as the caretaker taoiseach until a successor was appointed<br>
+<strong>note:</strong> Taoiseach Leo VARADKAR resigned from the ruling party on 20 March 2024 but remained as the caretaker taoiseach until a successor was appointed on 9 April 2024<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Oireachtas consists of:<br>Senate or Seanad Eireann (60 seats; 49 members indirectly elected from 5 vocational panels of nominees by an electoral college, 11 appointed by the prime minister<br>House of Representatives or Dail Eireann (160 seats; members directly elected in multi-seat constituencies by proportional representation vote; all Parliament members serve 5-year terms)<br>
@@ -344,11 +344,11 @@ Aontu [Peadar TOIBIN]<br>Solidarity-People Before Profit or PBPS [collective lea
 ADB (nonregional member), Australia Group, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNIFIL, UNOCI, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Geraldine Byrne NASON (since 16 September 2022)<br>
+_chief of mission_: Ambassador Geraldine BYRNE NASON (since 16 September 2022)<br>
 _chancery_: 2234 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 462-3939<br>
 _FAX_: [1] (202) 232-5993<br>
-_email address and website_: <br>https://www.dfa.ie/irish-embassy/usa/<br>
+_email address and website_: <br>https://www.ireland.ie/en/usa/washington/<br>
 _consulate(s) general_: Atlanta, Austin (TX), Boston, Chicago, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>

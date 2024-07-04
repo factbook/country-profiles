@@ -183,7 +183,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Current health expenditure**<br>
 6.5% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 3.77 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -706,14 +706,14 @@ _key ports_: Gdansk, Gdynia, Port Polnochny, Szczecin<br>
 Polish Armed Forces (Polskie Siły Zbrojne): Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air Force (Sily Powietrzne), Special Forces (Wojska Specjalne), Territorial Defense Forces (Wojska Obrony Terytorialnej), Cyberspace Defense Forces (Wojska Obrony Cyberprzestrzeni)<br><br>Ministry of Interior and Administration: Polish National Police (Policja); Border Guard (Straż Graniczna or SG) (2024)<br>
 
 **Military expenditures**<br>
-4.2% of GDP (2024 est.)<br>
+4.1% of GDP (2024 est.)<br>
 3.9% of GDP (2023 est.)<br>
 2.2% of GDP (2022)<br>
 2.2% of GDP (2021)<br>
 2.2% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 120,000 active-duty personnel (65,000 Army; 7,000 Navy; 15,000 Air Force; 3,000 Special Forces; 30,000 joint service/other); approximately 40,000 Territorial Defense Forces (2023)<br>
+approximately 120,000 active-duty personnel (65,000 Army; 7,000 Navy; 15,000 Air Force; 3,000 Special Forces; 30,000 joint service/other); approximately 40,000 Territorial Defense Forces (2024)<br>
 <strong>note: </strong>in June 2019, the Polish Government approved a plan to increase the size of the military over a period of 10 years to over 200,000 troops, including doubling the size of the Territorial Defense Forces; in 2021, it announced further plans to increase the size of the military to over 300,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>

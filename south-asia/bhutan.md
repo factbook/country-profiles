@@ -162,7 +162,7 @@ _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 **Current health expenditure**<br>
 4.4% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 0.5 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -635,7 +635,7 @@ India has provided most of the Royal Bhutan Army's equipment (2023)<br>
 190 Central African Republic (MINUSCA) (2024)<br>
 
 **Military - note**<br>
-the Army is responsible for external threats but also has some internal security functions such as conducting counterinsurgency operations, guarding forests, and providing security for prominent persons; the force is deployed throughout the country in more than a dozen &ldquo;wings,&rdquo; each comprised of a few infantry companies; the Army also has units of royal bodyguards and special forces; Bhutan relies on India for military training, arms supplies, and the country&rsquo;s air defense (2023)<br>
+the Army is responsible for external threats but also has some internal security functions such as conducting counterinsurgency operations, guarding forests, and providing security for prominent persons; Bhutan relies on India for military training, arms supplies, and the country&rsquo;s air defense (2023)<br>
 
 ## Space
 

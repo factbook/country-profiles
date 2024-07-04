@@ -175,7 +175,7 @@ _unimproved: total_: total: 8.9% of population (2017 est.)<br>
 **Current health expenditure**<br>
 5.4% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 0.26 physicians/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
@@ -655,7 +655,7 @@ the defense forces are lightly armed with a mix of mostly older equipment origin
 18 years of age for 2-year voluntary military service for men and women; no conscription (2021)<br>
 
 **Military - note**<br>
-the focus for the security forces is search and rescue operations and maintaining internal security; a defense treaty with France provides naval resources for protection of territorial waters, training of Comoran military personnel, and air surveillance; France maintains a small maritime base and a Foreign Legion contingent on neighboring Mayotte (2023)<br>
+the focus for the security forces is search and rescue operations and maintaining internal security; a defense treaty with France provides naval resources for the protection of territorial waters, training of Comoran military personnel, and air surveillance; France maintains a small maritime base and a Foreign Legion contingent on neighboring Mayotte (2023)<br>
 
 ## Transnational Issues
 

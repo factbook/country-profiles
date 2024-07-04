@@ -181,7 +181,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Current health expenditure**<br>
 11.4% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 5.04 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -693,8 +693,8 @@ Norwegian Armed Forces (Forsvaret or "the Defense"): Norwegian Army (Haeren), Ro
 <strong>note:</strong> the national police have primary responsibility for internal security; the National Police Directorate, an entity under the Ministry of Justice and Public Security, oversees the police force<br>
 
 **Military expenditures**<br>
-1.8% of GDP (2024 est.)<br>
-1.8% of GDP (2023 est.)<br>
+2.2% of GDP (2024 est.)<br>
+1.8% of GDP (2023)<br>
 1.5% of GDP (2022)<br>
 1.7% of GDP (2021)<br>
 2% of GDP (2020)<br>

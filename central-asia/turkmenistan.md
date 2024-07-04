@@ -184,7 +184,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Current health expenditure**<br>
 5.7% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 2.23 physicians/1,000 population (2014)<br>
 
 **Hospital bed density**<br>
@@ -715,7 +715,6 @@ _stateless persons_: 4,463 (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 &mdash; Turkmenistan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Turkmenistan remained on Tier 3; the government took some steps to address trafficking, including granting access to an international organization to monitor the cotton harvest, providing support for anti-trafficking campaigns, and training officials in collaboration with international organizations; however, a government policy or pattern of forced labor, including mobilization of adults for forced labor in the annual cotton harvest, public works, and other sectors, continued; the government did not report any investigations, prosecutions, or convictions, nor hold any officials accountable for complicity in forced labor crimes; authorities did not identify victims or fund victim assistance programs (2023)<br>
-_trafficking profile_: human traffickers exploit Turkmen citizens in Turkmenistan and abroad; state policies continue to perpetuate government-compelled forced labor in the cotton sector, as well as in public works and community cleaning and beautification projects; police reportedly force the homeless into agricultural work or domestic servitude in the homes of law enforcement families; some children are reportedly forced to work in cotton and potato fields during summer educational camps; residents of rural areas are at highest risk for trafficking both in country and abroad; LGBTQI+ communities are vulnerable to police abuse, extortion, coercion, and possibly sex trafficking or forced labor; Turkmen men and women are subjected to forced labor abroad in textile, agricultural, construction, and domestic service sectors; some migrant men are forced into criminal drug trafficking, and some migrant women are exploited by sex traffickers; most Turkmen migrant victims are in India, Russia, and Turkey, as well as other countries in the Middle East, South and Central Asia, and Europe (2023)<br>
 
 **Illicit drugs**<br>
 <p>transit country for Afghan opiates to Turkish, Russian, and European markets, either directly from Afghanistan or through Iran; not a major producer or source country for illegal drugs or precursor chemicals</p> <p> </p> <p> </p><br>

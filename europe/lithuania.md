@@ -175,7 +175,7 @@ _unimproved: total_: total: 2% of population (2020 est.)<br>
 **Current health expenditure**<br>
 7.5% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 5.08 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -700,14 +700,14 @@ Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos 
 <strong>note 1: </strong>the National Rifleman's Union is a civilian paramilitary organization supported by the Lithuanian Government that cooperates with the military but is not part of it; however, in a state of war, its armed formations would fall under the armed forces<br><br><strong>note 2:</strong> the Lithuanian Police and State Border Guard Service are under the Ministry of Interior; in wartime, the State Border Guard Service becomes part of the armed forces<br>
 
 **Military expenditures**<br>
-2.8% of GDP (2023 est.)<br>
+2.9% of GDP (2024 est.)<br>
+2.8% of GDP (2023)<br>
 2.5% of GDP (2022)<br>
 2% of GDP (2021)<br>
 2.1% of GDP (2020)<br>
-2% of GDP (2019) (approximately $1.7 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 17,000 active-duty personnel (13,000 Army, including about 5,000 National Defense Voluntary Forces and 2,500 conscripts); 500 Navy; 1,000 Air Force; 2,500 other, including special operations forces, logistics support, training, etc) (2023)<br>
+approximately 18,000 active-duty personnel (14,000 Army, including about 5,000 active National Defense Voluntary Forces); 500 Navy; 1,000 Air Force; 2,500 other, including special operations forces, logistics support, training, etc) (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of Soviet-era and more modern European and US equipment; Germany and the US have been the leading suppliers in recent years (2023)<br>

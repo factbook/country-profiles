@@ -180,7 +180,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Current health expenditure**<br>
 7.3% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 6.06 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -704,14 +704,14 @@ Hungarian Defense Forces (HDF or Magyar Honvédség): the HDF is organized as a 
 <strong>note:</strong> the National Police are under the Ministry of Interior and responsible for maintaining order nationwide; the Ministry of Interior also has the Counterterrorism Center, a special police force responsible for protecting the president and the prime minister and for preventing, uncovering, and detecting terrorist acts<br>
 
 **Military expenditures**<br>
-2.1% of GDP (2023 est.)<br>
+2.1% of GDP (2024 est.)<br>
+2.1% of GDP (2023)<br>
 1.8% of GDP (2022)<br>
 1.7% of GDP (2021)<br>
 1.8% of GDP (2020)<br>
-1.4% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25,000 active-duty troops (20,000 Army; 5,000 Air Force) (2023)<br>
+approximately 21,000 active-duty troops (16,000 Army; 5,000 Air Force) (2024)<br>
 <strong>note:</strong> in 2017, Hungary announced plans to increase the number of active soldiers to around 37,000 but did not give a timeline<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -725,7 +725,7 @@ the military's inventory consists largely of Soviet-era weapons, with a smaller 
 150 Bosnia-Herzegovina (EUFOR stabilization force); 150 Iraq (NATO); 410 Kosovo (NATO/KFOR); note - Hungary has small numbers of troops on several UN missions (2024)<br>
 
 **Military - note**<br>
-the Hungarian Defense Forces (HDF) are responsible for ensuring the defense of the country’s sovereignty, territorial integrity, and citizens, and fulfilling Hungary’s commitments to the EU and NATO, as well as contributing to other international peacekeeping efforts under the UN; the HDF is also responsible for some aspects of domestic security, crisis management, and disaster response, and since 2015, under a declared state of emergency prompted by mass migration, it may assist law enforcement forces in border protection and handling mass migration situations; Hungary’s most recent national security strategy addressed migration as an important security concern, alongside other issues, such as great power competition and cyber security; modernizing the HDF by replacing Soviet-era equipment with Western systems and building up Hungary’s defense industrial capacity has been a priority over the past decade<br><br>Hungary has been a member of NATO since 1999 and considers the collective defense ensured within the Alliance as a cornerstone of the country’s security; NATO membership is complemented by Hungary’s ties to the EU under the EU’s Common Security and Defense Policy; the HDF has participated in multiple NATO-led security missions, including in Afghanistan, Iraq, and Kosovo, as well as EU-led missions in Bosnia and Herzegovina and Mali; it hosts a NATO battlegroup comprised of troops from Croatia, Hungary, Italy, and the US, and NATO’s Multinational Division Center, a headquarters capable of commanding a division-sized force (typically 15-20,000 troops) in a crisis; both organizations were established as a result of Russian aggression against Ukraine; Hungary also hosts NATO’s Center of Excellence for Military Medicine; Hungary is a member of the Visegrad Group, a regional platform that brings together Czechia, Hungary, Poland, and Slovakia to discuss cultural, defense, and political cooperation<br><br>the HDF is organized as a joint force under a general staff with commands for land, air, cyber, special operations, territorial defense, and support forces; the combat units of the HDF’s Land Command have recently been reorganized and currently consists of three combined arms brigades, plus a reconnaissance regiment; one of the brigades has a joint Hungarian-Romanian peacekeeping battalion; the Special Operations Command includes a special purpose brigade; the Air Command’s combat forces are a squadron of Swedish-made fighter aircraft, an attack helicopter battalion, and an air defense missile regiment; the Territorial Defense Forces Command has volunteer operational reservists to backfill regular units on occasion and non-deployable volunteer territorial reservists that are organized into local defense units (typically battalions) spread throughout the country (2023)<br>
+the Hungarian Defense Forces (HDF) are responsible for ensuring the defense of the country’s sovereignty, territorial integrity, and citizens, and fulfilling Hungary’s commitments to the EU and NATO, as well as contributing to other international peacekeeping efforts under the UN; the HDF is also responsible for some aspects of domestic security, crisis management, disaster response, and assisting law enforcement forces in border security; Hungary’s most recent national security strategy addressed migration as an important security concern, alongside other issues, such as great power competition and cyber security; modernizing the HDF by replacing Soviet-era equipment with Western systems and building up Hungary’s defense industrial capacity has been a priority over the past decade<br><br>Hungary has been a member of NATO since 1999 and considers the collective defense ensured within the Alliance as a cornerstone of the country’s security; NATO membership is complemented by Hungary’s ties to the EU under its Common Security and Defense Policy; the HDF has participated in multiple NATO-led security missions, including in Afghanistan, Iraq, and Kosovo, as well as EU-led missions in Bosnia and Herzegovina and Mali; it hosts a NATO battlegroup comprised of troops from Croatia, Hungary, Italy, and the US, and NATO’s Multinational Division Center, a headquarters capable of commanding a division-sized force (typically 15-20,000 troops) in a crisis; both organizations were established as a result of Russian aggression against Ukraine; Hungary also hosts NATO’s Center of Excellence for Military Medicine; Hungary is a member of the Visegrad Group, a regional platform that brings together Czechia, Hungary, Poland, and Slovakia to discuss cultural, defense, and political cooperation (2024)<br>
 
 ## Space
 

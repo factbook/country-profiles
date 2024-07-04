@@ -137,7 +137,7 @@ _unimproved: total_: total: 0% of population (2020)<br>
 **Current health expenditure**<br>
 NA<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 NA<br>
 
 **Sanitation facility access**<br>

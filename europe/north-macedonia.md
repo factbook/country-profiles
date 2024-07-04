@@ -176,7 +176,7 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 **Current health expenditure**<br>
 7.9% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 2.87 physicians/1,000 population (2015)<br>
 
 **Hospital bed density**<br>
@@ -663,14 +663,14 @@ Army of the Republic of North Macedonia (ARSM or ARNM): joint force with air, gr
 <strong>note: </strong>the Police of Macedonia maintain internal security, including migration and border enforcement, and report to the Ministry of the Interior<br>
 
 **Military expenditures**<br>
-1.7% of GDP (2023 est.)<br>
-1.6% of GDP (2022 est.)<br>
+2.2% of GDP (2024 est.)<br>
+1.7% of GDP (2023)<br>
+1.6% of GDP (2022)<br>
 1.5% of GDP (2021)<br>
 1.2% of GDP (2020)<br>
-1.2% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,000 active-duty personnel (2023)<br>
+approximately 6,000 active-duty personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of Soviet-era and increasing amounts of more modern Western-origin equipment from countries such as France, Turkey, and the US (2023)<br>

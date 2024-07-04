@@ -165,7 +165,7 @@ _unimproved: total_: total: 0.1% of population (2020)<br>
 **Current health expenditure**<br>
 NA<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 NA<br>
 
 **Sanitation facility access**<br>
@@ -595,7 +595,7 @@ the Regiment is equipped with small arms (2024)<br>
 men and women who are Commonwealth citizens and 18-45 years of age can volunteer for the Bermuda Regiment; service is for a minimum period of three years and two months from the date of enlistment; service can be extended only by volunteering or an executive order from the Governor; annual training commitment is about 30 days a year, which includes a two-week camp, weekends, and drill nights (2024)<br>
 
 **Military - note**<br>
-defense is the responsibility of the UK; the Royal Bermuda Regiment&rsquo;s responsibilities include maritime security of Bermuda&rsquo;s inshore waters, search and rescue, ceremonial duties, humanitarian/disaster assistance, security of key installations, and assisting the Bermuda Police with maintaining public order; it includes explosive ordnance disposal, diver, maritime, security police, and support units (2023)<br>
+defense is the responsibility of the UK; the Royal Bermuda Regiment&rsquo;s responsibilities include maritime security of Bermuda&rsquo;s inshore waters, search and rescue, ceremonial duties, humanitarian/disaster assistance, security of key installations, and assisting the Bermuda Police with maintaining public order; it includes explosive ordnance disposal, diver, maritime, security police, and support units (2024)<br>
 
 ## Transnational Issues
 

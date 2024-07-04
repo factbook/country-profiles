@@ -118,7 +118,7 @@ _selected World Heritage Site locales_: Heard Island and McDonald Islands<br>
 ## Military and Security
 
 **Military - note**<br>
-defense is the responsibility of Australia; Australia conducts fisheries patrols<br>
+defense is the responsibility of Australia<br>
 
 ## Transnational Issues
 

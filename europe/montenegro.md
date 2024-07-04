@@ -179,7 +179,7 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 **Current health expenditure**<br>
 11.4% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 2.74 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -347,7 +347,7 @@ _election results_: <em><br>2023: </em>Jakov MILATOVIC elected president in seco
 **Legislative branch**<br>
 _description_: unicameral Assembly or Skupstina (81 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 11 June 2023 (next to be held in June 2027)<br>
-_election results_: percent of vote by party/coalition - Europe Now! 25.5%, Together! 23.2%, For the Future of Montenegro 14.7%, Aleksa and Dritan - Count Bravely 12.5%, BP 7.1%, SNP-DEMOS 3.1%, Albanian Forum 1.9%, HGI 0.7%; seats by party/coalition Europe Now! 24, Together! 21, For the Future of Montenegro 13, Aleksa and Dritan - Count Bravely 11, BP 6, SNP-DEMOS 2, Albanian Forum 2, Albanian Alliance 1, HGI 1; composition - men 59, women 22, percent of women 27.2%<br>
+_election results_: percent of vote by party/coalition - Europe Now! 25.5%, Together! 23.2%, For the Future of Montenegro 14.7%, Aleksa and Dritan - Count Bravely 12.5%, BP 7.1%, SNP-DEMOS 3.1%, Albanian Forum 1.9%, HGI 0.7%; seats by party/coalition Europe Now! 24, Together! 21, For the Future of Montenegro 13, Aleksa and Dritan - Count Bravely 11, BP 6, SNP-DEMOS 2, Albanian Forum 2, Albanian Alliance 1, HGI 1; composition - men 59, women 22, percentage women 27.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Vrhovni Sud (consists of the court president, deputy president, and 15 judges); Constitutional Court or Ustavni Sud (consists of the court president and 7 judges)<br>
@@ -697,13 +697,13 @@ Army of Montenegro (Vojska Crne Gore or VCG): Ground Forces (Kopnene snage), Air
 
 **Military expenditures**<br>
 2% of GDP (2024 est.)<br>
-1.6% of GDP (2023 est.)<br>
+1.6% of GDP (2023)<br>
 1.4% of GDP (2022)<br>
 1.6% of GDP (2021)<br>
 1.7% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,000 active-duty troops (2023)<br>
+approximately 1,600 active-duty troops (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is small and consists mostly of Soviet-era equipment inherited from the former Yugoslavia military, along with a limited mix of other imported systems from such countries as Austria, Turkey, and the US (2023)<br>
@@ -726,7 +726,6 @@ _stateless persons_: 468 (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Montenegro does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government prosecuted more defendants and identified more trafficking victims, adopted the National Action Plan for 2022, and coordinating bodies met consistently; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; officials did not convict any traffickers and reorganized the police office dedicated to investigating trafficking, reducing its ability to conduct proactive investigations; the government did not act quickly to protect victims after experts published credible allegations of abuse by an employee with management duties for the government-funded NGO-run anti-trafficking shelter, including physical violence, intimidation, and blackmail; although civil society and international organizations ceased victim referrals to the shelter, the government did not suspend its license and funding, continued to refer two child victims, and funded the shelter until the grant ended in December 2022; afterwards, Montenegro did not renew the shelter&rsquo;s grant and decided to start renovating a government-run shelter for child trafficking victims; the government attempted to organize accommodations for child victims in foster families, but it did not develop a plan to provide protection for adult victims; therefore, Montenegro was downgraded to Tier 2 Watch List (2023)<br>
-_trafficking profile_: human traffickers exploit domestic and foreign victims in Montenegro, and Montenegrins abroad; traffickers are predominantly men between the ages of 25 and 49 and members of organized criminal groups that operate in the Western Balkans; victims in Montenegro are primarily women and girls from Montenegro, neighboring Balkan countries, and, to a lesser extent, other countries in Eastern Europe; traffickers exploit victims in the hospitality industry, including bars, restaurants, nightclubs, and cafes; children, particularly Romani, Ashkali, and Balkan Egyptian children, are forced to beg; Romani girls from Montenegro reportedly have been sold into marriages and forced into domestic servitude in Romani communities in Montenegro and, to a lesser extent, in Albania, Germany, and Kosovo; migrants from neighboring countries are vulnerable to forced labor, particularly during the summer tourism season; transnational organized criminal groups exploit some Montenegrin women and girls in sex trafficking in other Balkan countries (2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine destined for European markets</p><br>

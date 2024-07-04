@@ -175,7 +175,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 **Current health expenditure**<br>
 5.8% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 3.01 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
@@ -673,14 +673,14 @@ Luxembourg Army (l'Armée Luxembourgeoise) (2024)<br>
 <strong>note:</strong> the Grand Ducal Police maintain internal security and report to the Ministry of Internal Security<br>
 
 **Military expenditures**<br>
-1% of GDP (2023 est.)<br>
+1.3% of GDP (2024 est.)<br>
+1% of GDP (2023)<br>
 0.6% of GDP (2022)<br>
 0.5% of GDP (2021)<br>
 0.6% of GDP (2020)<br>
-0.6% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 900 active-duty personnel (2023)<br>
+approximately 900 active-duty personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of Luxembourg's Army is a small mix of Western origin equipment (2024)<br>

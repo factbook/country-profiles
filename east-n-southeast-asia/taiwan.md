@@ -168,7 +168,7 @@ _unimproved: total_: total: NA<br>
 **Current health expenditure**<br>
 NA<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 NA<br>
 
 **Sanitation facility access**<br>

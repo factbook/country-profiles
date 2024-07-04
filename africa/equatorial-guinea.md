@@ -173,7 +173,7 @@ _unimproved: total_: total: 32.4% of population (2017 est.)<br>
 **Current health expenditure**<br>
 3.8% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 0.4 physicians/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
@@ -653,5 +653,4 @@ the FAGE&rsquo;s National Guard (Army) is a small force with a few infantry batt
 
 **Trafficking in persons**<br>
 _tier rating_: <p>Tier 3 — Equatorial Guinea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Equatorial Guinea was downgraded to Tier 3; officials took some steps such as training law enforcement officials on trafficking; however, the government did not prosecute any traffickers and has never convicted a trafficker under its 2004 anti-trafficking law; officials did not identify any victims for the second consecutive year nor screen vulnerable populations; the anti-trafficking law did not criminalize all forms of trafficking; allegations of senior government officials’ complicity in trafficking crimes continued to hinder efforts to combat trafficking (2023)</p><br>
-_trafficking profile_: human traffickers exploit domestic and foreign victims in Equatorial Guinea and Equatoguineans abroad; the majority of trafficking victims are subjected to forced domestic service and sex trafficking in cities, particularly in the hospitality and restaurant sector; local and foreign women are exploited in commercial sex domestically, while some Equatoguineans may face sex trafficking in Spain; some business owners recruit women from Benin, Cameroon, Ethiopia, other African countries, and Latin America for work in Equatorial Guinea and exploit them in forced labor and sex trafficking; some children from rural areas have been exploited in forced labor; traffickers fraudulently recruit Equatoguinean and foreign children to attend school or learn a trade but exploit them in domestic servitude and other forced labor; observers report LGBTQI+ youth are often left homeless and stigmatized by family and society, increasing their vulnerability to trafficking (2023)<br>
 

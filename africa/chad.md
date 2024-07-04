@@ -185,7 +185,7 @@ _unimproved: total_: total: 39.1% of population (2020 est.)<br>
 **Current health expenditure**<br>
 5.4% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 0.06 physicians/1,000 population (2020)<br>
 
 **Sanitation facility access**<br>
@@ -714,7 +714,6 @@ _IDPs_: 215,918 (majority are in the east) (2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 &mdash; Chad does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Chad was downgraded to Tier 3; officials took some steps to address trafficking, prosecuting trafficking cases and launching an inter-ministerial committee to enhance protections for migrant workers and reduce vulnerabilities to trafficking; however, the government did not identify any victims or convict traffickers for the second consecutive year; officials did not consistently implement standard operating procedures to screen for and identify victims; the government did not operationalize its National Trafficking Commission nor conduct awareness campaigns (2023)<br>
-_trafficking profile_: human traffickers exploit domestic and foreign victims in Chad, and traffickers exploit Chadian victims abroad; most trafficking is internal; some children are sent by their parents to relatives or intermediaries to receive education, an apprenticeship, goods, or money and are then forced to work in domestic service or cattle herding; children are also forced to work in agriculture, gold mines, charcoal production, and fishing, and those attending Quranic schools are forced into begging and street vending or other forms of trafficking; some military or local officials exploit with impunity child herders in forced labor; girls from rural areas who search for work in larger towns are exploited in sex trafficking and domestic servitude; armed groups most likely recruit and use children in armed conflict; traffickers exploit some undocumented migrants in sex or labor trafficking; Chinese and Cuban nationals working in Chad may have been forced to work by their governments (2023)<br>
 
 **Illicit drugs**<br>
 NA<br>

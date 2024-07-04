@@ -547,7 +547,7 @@ _key ports_: Apra Harbor<br>
 Guam Police Department (GPD); Guam (US) National Guard&nbsp;<br>
 
 **Military - note**<br>
-defense is the responsibility of the US; the US military maintains over 6,000 personnel on Guam, including an air base, an air wing, and a naval installation command (2023)<br>
+defense is the responsibility of the US; the US military maintains over 6,000 personnel on Guam, including an air base, an air wing, and a naval installation command (2024)<br>
 
 ## Transnational Issues
 

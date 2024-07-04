@@ -175,7 +175,7 @@ _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 **Current health expenditure**<br>
 7.5% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 3.4 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -686,14 +686,14 @@ National Armed Forces (Nacionalie Brunotie Speki or NBS): Land Forces (Latvijas 
 <strong>note: </strong>the National Armed Forces (including the National Guard), the Defense Intelligence and Security Service, and the Constitution Protection Bureau are subordinate to the Ministry of Defense; the State Police, State Border Guards, and State Security Service are under the Ministry of Interior; the State Border Guard may become part of the armed forces during an emergency<br>
 
 **Military expenditures**<br>
-2.4% of GDP (2023 est.)<br>
+3.2% of GDP (2024 est.)<br>
+2.4% of GDP (2023)<br>
 2.1% of GDP (2022)<br>
 2.1% of GDP (2021)<br>
 2.2% of GDP (2020)<br>
-2% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,200 regular military forces; approximately 10,000 National Guard (2024)<br>
+approximately 8,000 regular military forces; approximately 10,000 National Guard (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Latvian military's inventory consists of a mixture of Soviet-era and limited amounts of more modern, Western-produced systems acquired since the country joined NATO in 2004; in recent years, the UK and US have been the leading suppliers of military equipment (2023)<br>

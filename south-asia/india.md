@@ -188,7 +188,7 @@ _unimproved: total_: total: 4.5% of population (2020 est.)<br>
 **Current health expenditure**<br>
 3% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 0.74 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
@@ -339,7 +339,7 @@ Republic Day, 26 January (1950)<br>
 
 **Constitution**<br>
 _history_: previous 1935 (preindependence); latest draft completed 4 November 1949, adopted 26 November 1949, effective 26 January 1950<br>
-_amendments_: proposed by either the Council of States or the House of the People; passage requires majority participation of the total membership in each house and at least two-thirds majority of voting members of each house, followed by assent of the president of India; proposed amendments to the constitutional amendment procedures also must be ratified by at least one half of the India state legislatures before presidential assent; amended many times, last in 2020<br>
+_amendments_: proposed by either the Council of States or the House of the People; passage requires majority participation of the total membership in each house and at least two-thirds majority of voting members of each house, followed by assent of the president of India; proposed amendments to the constitutional amendment procedures also must be ratified by at least one half of the India state legislatures before presidential assent; amended many times, last in 2023<br>
 
 **Legal system**<br>
 common law system based on the English model; separate personal law codes apply to Muslims, Christians, and Hindus; judicial review of legislative acts<br>

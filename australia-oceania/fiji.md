@@ -171,7 +171,7 @@ _unimproved: total_: total: 5.7% of population (2020 est.)<br>
 **Current health expenditure**<br>
 3.8% of GDP (2020)<br>
 
-**Physicians density**<br>
+**Physician density**<br>
 0.86 physicians/1,000 population (2015)<br>
 
 **Hospital bed density**<br>
