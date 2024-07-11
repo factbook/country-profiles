@@ -562,65 +562,46 @@ _Currency_: Uzbekistani soum (UZS) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 99.9% (2020)<br>
-_electrification - urban areas_: 100% (2021)<br>
-_electrification - rural areas_: 99.7% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 16.042 million kW (2020 est.)<br>
-_consumption_: 57,605,687,000 kWh (2019 est.)<br>
-_exports_: 2.067 billion kWh (2019 est.)<br>
-_imports_: 3.379 billion kWh (2019 est.)<br>
-_transmission/distribution losses_: 3.858 billion kWh (2019 est.)<br>
+_installed generating capacity_: 16.926 million kW (2022 est.)<br>
+_consumption_: 67.642 billion kWh (2022 est.)<br>
+_exports_: 2.644 billion kWh (2022 est.)<br>
+_imports_: 6.232 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 10.704 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 88.1% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 11.9% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 93.3% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 6.7% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 3.98 million metric tons (2020 est.)<br>
-_consumption_: 5.668 million metric tons (2020 est.)<br>
-_exports_: 1,000 metric tons (2020 est.)<br>
-_imports_: 2.995 million metric tons (2020 est.)<br>
-_proven reserves_: 1.375 billion metric tons (2019 est.)<br>
+_production_: 5.356 million metric tons (2022 est.)<br>
+_consumption_: 7.396 million metric tons (2022 est.)<br>
+_exports_: 9,000 metric tons (2022 est.)<br>
+_imports_: 2.194 million metric tons (2022 est.)<br>
+_proven reserves_: 1.375 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 5,200 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 98,200 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 24,000 bbl/day (2018 est.)<br>
+_total petroleum production_: 64,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 91,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 594 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-61,740 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-3,977 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-0 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 46,968,227,000 cubic meters (2020 est.)<br>
-_consumption_: 43,882,007,000 cubic meters (2019 est.)<br>
-_exports_: 13,283,524,000 cubic meters (2019 est.)<br>
-_imports_: 0 cubic meters (2020 est.)<br>
-_proven reserves_: 1,840,592,000,000 cubic meters (2021 est.)<br>
+_production_: 47.5 billion cubic meters (2022 est.)<br>
+_consumption_: 43.227 billion cubic meters (2022 est.)<br>
+_exports_: 5.595 billion cubic meters (2022 est.)<br>
+_imports_: 12,000 cubic meters (2022 est.)<br>
+_proven reserves_: 1.841 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 102.965 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 7.816 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 11.53 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 83.619 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 103.219 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 9.807 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 11.041 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 82.37 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 57.709 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 53.528 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -705,7 +686,7 @@ the Uzbek Armed Forces use mainly Soviet-era equipment; in recent years, Russia 
 <strong>note:</strong> Uzbek citizens who have completed their service terms in the armed forces have privileges in employment and admission to higher educational institutions<br>
 
 **Military - note**<br>
-the military’s primary concerns and responsibilities are border security, ensuring the country’s sovereignty and territorial integrity, instability in neighboring countries, and terrorism; the military is equipped largely with Soviet-era arms and its units are based on Soviet Army formations that were in the territory of Uzbekistan when the USSR collapsed in 1991; the armed forces were established in January 1992 when Uzbekistan assumed jurisdiction over all former Soviet ground, air, and air defense units, formations, and installations then deployed on its soil; the building hosting the headquarters for the ex-Soviet Turkestan Military District became the headquarters for the Uzbek armed forces; all former Soviet troops departed Uzbekistan by 1995<br><br>the Army has up to 15 combat brigades, mostly motorized or mechanized infantry, as well as air assault, artillery, special forces, and tank brigades; the Air Force received a considerable number of aircraft inherited from the Soviet Union in the 1990s and continues to have an inventory estimated to be more than 100 combat aircraft and combat helicopters <br><br>Uzbekistan joined the Russian-sponsored Collective Security Treaty Organization (CSTO) in the 1990s but withdrew in 1999; it returned in 2006 but left again in 2012; although it is not part of CSTO, Uzbekistan continues to maintain defense ties with Russia, including joint military exercises and defense industrial cooperation; it also has defense ties with other regional countries, including India, Pakistan, and Turkey; it is part of the Shanghai Cooperation Organization (SCO) and participates in SCO training exercises (2023)<br>
+the military’s primary concerns and responsibilities are border security, ensuring the country’s sovereignty and territorial integrity, instability in neighboring countries, and terrorism; the military is equipped largely with Soviet-era arms and its units are based on Soviet Army formations that were in the territory of Uzbekistan when the USSR collapsed in 1991; the armed forces were established in January 1992 when Uzbekistan assumed jurisdiction over all former Soviet ground, air, and air defense units, formations, and installations then deployed on its soil; the building hosting the headquarters for the ex-Soviet Turkestan Military District became the headquarters for the Uzbek armed forces; all former Soviet troops departed Uzbekistan by 1995<br><br>Uzbekistan joined the Russian-sponsored Collective Security Treaty Organization (CSTO) in the 1990s but withdrew in 1999; it returned in 2006 but left again in 2012; although it is not part of CSTO, Uzbekistan continues to maintain defense ties with Russia, including joint military exercises and defense industrial cooperation; it also has defense ties with other regional countries, including India, Pakistan, and Turkey; it is part of the Shanghai Cooperation Organization (SCO) and participates in SCO training exercises (2023)<br>
 
 ## Space
 

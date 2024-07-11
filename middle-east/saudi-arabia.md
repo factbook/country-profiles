@@ -544,63 +544,43 @@ _Currency_: Saudi riyals (SAR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 76.785 million kW (2020 est.)<br>
-_consumption_: 331,381,500,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2020 est.)<br>
-_imports_: 0 kWh (2020 est.)<br>
-_transmission/distribution losses_: 31.055 billion kWh (2019 est.)<br>
+_installed generating capacity_: 80.11 million kW (2022 est.)<br>
+_consumption_: 393.213 billion kWh (2022 est.)<br>
+_exports_: 382.556 million kWh (2022 est.)<br>
+_imports_: 334.737 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 38.658 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 99.9% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.2% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 99.7% of total installed capacity (2022 est.)<br>
+_solar_: 0.2% of total installed capacity (2022 est.)<br>
+_wind_: 0.1% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 73,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 73,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 164,000 metric tons (2022 est.)<br>
+_exports_: 200 metric tons (2022 est.)<br>
+_imports_: 164,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 10,815,700 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 3,182,300 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 7,340,800 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
+_total petroleum production_: 11.113 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 3.649 million bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 258.6 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-2.476 million bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-1.784 million bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-609,600 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 113,776,648,000 cubic meters (2020 est.)<br>
-_consumption_: 113,776,648,000 cubic meters (2020 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 9,422,812,000,000 cubic meters (2021 est.)<br>
+_production_: 121.87 billion cubic meters (2022 est.)<br>
+_consumption_: 121.87 billion cubic meters (2022 est.)<br>
+_proven reserves_: 9.423 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 579.925 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 300,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 358.414 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 221.211 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 638.449 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 437,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 398.933 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 239.078 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 296.949 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 313.903 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -705,7 +685,7 @@ men (17-40) and women (21-40) may volunteer for military service; no conscriptio
 continues to maintain a military presence in Yemen; has also established and supports several local militias, including the National Shield Forces in Aden and the Amajid Brigade in Abyan (2023)<br>
 
 **Military - note**<br>
-the Saudi Arabian Armed Forces (SAAF) are divided into the regular forces under the Ministry of Defense and the Saudi Arabian National Guard (SANG); the regular forces are responsible for territorial defense, although they can be called for domestic security duties if needed; they include land, naval, air, air defense, and strategic missile forces; the Land Forces have approximately 15 combat brigades which include a mix of armored, aviation, light infantry, mechanized or motorized infantry, royal guards, and airborne/special forces, plus separate battalions of artillery; the Naval Forces are undergoing a major acquisitions and modernization program; its principal warships are approximately 16 frigates and corvettes, with an additional four frigates on order; the Air Force is the largest and one of the most modern in the region, with over 350 combat aircraft from Europe and the US with more on order; the Strategic Missile Force manages Saudi Arabia’s ballistic missile inventory, largely acquired from China<br><br>the SANG is responsible for both internal security and external defense; its duties include protecting the royal family, guarding against military coups, defending strategic facilities and resources, and providing security for the cities of Mecca and Medina; the SANG is primarily comprised of tribal elements loyal to the Saud family and is comprised of brigades of light infantry, mechanized or motorized infantry, and security forces; it is supplemented by combat helicopter units and tribal levies/militias known as Fowj<br><br>the US is Saudi Arabia’s closest security partner; the SAAF conducts bilateral exercises with the US military and hosts US forces; the US has participated in a cooperative program to equip and train the SANG since 1973; much of the equipment for both the regular forces and the SANG has been acquired from the US; Saudi Arabia also has defense relationships with China, France, India, the UK, and fellow Gulf Cooperation Council members<br><br>in 2015, Saudi Arabia led a military intervention into Yemen by a coalition of Arab states in support of the Republic of Yemen Government against the separatist Houthis; Saudi forces from both the Ministry of Defense and the SANG participated in combat operations in Yemen; Saudi Arabia also raised and equipped paramilitary/militia security forces in Yemen--based largely on tribal or regional affiliation--to deploy along the Saudi-Yemen border (2023)<br>
+the Saudi Arabian Armed Forces (SAAF) are divided into the regular forces under the Ministry of Defense and the Saudi Arabian National Guard (SANG); the regular forces are responsible for territorial defense, although they can be called for domestic security duties if needed; they include land, naval, air, air defense, and strategic missile forces<br><br>the SANG is responsible for both internal security and external defense; its duties include protecting the royal family, guarding against military coups, defending strategic facilities and resources, and providing security for the cities of Mecca and Medina; the SANG is primarily comprised of tribal elements loyal to the Saud family and is comprised of brigades of light infantry, mechanized or motorized infantry, and security forces; it is supplemented by combat helicopter units and tribal levies/militias known as Fowj<br><br>the US is Saudi Arabia’s closest security partner; the SAAF conducts bilateral exercises with the US military and hosts US forces; the US has participated in a cooperative program to equip and train the SANG since 1973; much of the equipment for both the regular forces and the SANG has been acquired from the US; Saudi Arabia also has defense relationships with China, France, India, the UK, and fellow Gulf Cooperation Council members<br><br>in 2015, Saudi Arabia led a military intervention into Yemen by a coalition of Arab states in support of the Republic of Yemen Government against the separatist Houthis; Saudi forces from both the Ministry of Defense and the SANG participated in combat operations in Yemen; Saudi Arabia also raised and equipped paramilitary/militia security forces in Yemen--based largely on tribal or regional affiliation--to deploy along the Saudi-Yemen border (2023)<br>
 
 ## Space
 

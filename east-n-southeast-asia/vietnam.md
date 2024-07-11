@@ -572,63 +572,47 @@ _Currency_: dong (VND) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 65.283 million kW (2020 est.)<br>
-_consumption_: 199,846,440,000 kWh (2019 est.)<br>
-_exports_: 2.067 billion kWh (2019 est.)<br>
-_imports_: 3.316 billion kWh (2019 est.)<br>
-_transmission/distribution losses_: 15.479 billion kWh (2019 est.)<br>
+_installed generating capacity_: 85.04 million kW (2022 est.)<br>
+_consumption_: 251.549 billion kWh (2022 est.)<br>
+_exports_: 628.664 million kWh (2022 est.)<br>
+_imports_: 1.515 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 17.084 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 70.7% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 2.4% of total installed capacity (2020 est.)<br>
-_wind_: 0.4% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 25.2% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1.4% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 56.8% of total installed capacity (2022 est.)<br>
+_solar_: 11.2% of total installed capacity (2022 est.)<br>
+_wind_: 1.3% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 29.6% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 1.1% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 47.789 million metric tons (2020 est.)<br>
-_consumption_: 80.568 million metric tons (2020 est.)<br>
-_exports_: 902,000 metric tons (2020 est.)<br>
-_imports_: 55 million metric tons (2020 est.)<br>
-_proven reserves_: 3.36 billion metric tons (2019 est.)<br>
+_production_: 43.614 million metric tons (2022 est.)<br>
+_consumption_: 83.116 million metric tons (2022 est.)<br>
+_exports_: 1.032 million metric tons (2022 est.)<br>
+_imports_: 40.534 million metric tons (2022 est.)<br>
+_proven reserves_: 3.36 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 197,700 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 495,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 66,900 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 103,500 bbl/day (2018 est.)<br>
+_total petroleum production_: 187,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 494,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 4.4 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-153,800 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-25,620 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-282,800 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 8,438,095,000 cubic meters (2019 est.)<br>
-_consumption_: 8,438,095,000 cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 699.425 billion cubic meters (2021 est.)<br>
+_production_: 7.676 billion cubic meters (2022 est.)<br>
+_consumption_: 7.676 billion cubic meters (2022 est.)<br>
+_proven reserves_: 699.426 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 249.929 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 165.775 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 67.775 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 16.379 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 297.826 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 219.167 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 63.759 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 14.9 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 36.392 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 39.117 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -731,7 +715,7 @@ the PAVN is armed largely with weapons and equipment from Russia and the former 
 190 Abyei/South Sudan/Sudan (UNISFA) (2024)<br>
 
 **Military - note**<br>
-the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary<br><br>the PAVN is one of the region’s largest militaries and has participated in numerous conflicts since its founding in the mid-1940s, including the First (1946-54) and Second (1950s-1975) Indochina Wars, the Cambodian-Vietnamese War (1978-1989), and the Sino-Vietnamese War (1979); the PAVN’s current missions include protecting the country's independence, sovereignty, territorial integrity, and national interests; in recent years, it has increased focus on protecting the country’s maritime economy and sovereignty; it also assists with natural disasters and is involved in economic projects, including electrical infrastructure, oil and gas services, hydroelectric projects, aviation and seaport services, telecommunications, and the shipbuilding industry, while military-owned factories and enterprises produce weapons and equipment; the Ground Forces are spread throughout the country in approximately eight regional commands, four operational corps, and dozens of divisions and brigades, including some that are maintained at cadre strength and filled in wartime by reservists; the Navy is organized into five regional commands; in recent years, it has received increased government focus for procurement efforts because of the rise in territorial disputes in the South China Sea and has a growing combat force of frigates, corvettes, and fast-attack surface vessels, as well as a small number of attack submarines; the Air Force is organized into divisions, regiments, and squadrons and has a mix of Soviet-era and Russian-made combat aircraft (2023)<br>
+the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary<br><br>the PAVN is one of the region’s largest militaries and has participated in numerous conflicts since its founding in the mid-1940s, including the First (1946-54) and Second (1950s-1975) Indochina Wars, the Cambodian-Vietnamese War (1978-1989), and the Sino-Vietnamese War (1979); the PAVN’s current missions include protecting the country's independence, sovereignty, territorial integrity, and national interests; in recent years, it has placed additional emphasis on protecting the country’s maritime economy and sovereignty; it also assists with natural disasters and is involved in economic projects, including electrical infrastructure, oil and gas services, hydroelectric projects, aviation and seaport services, telecommunications, and the shipbuilding industry, while military-owned factories and enterprises produce weapons and equipment (2023)<br>
 
 ## Space
 
@@ -746,9 +730,6 @@ has a growing space program focused on acquiring, operating, and exploiting sate
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 35,475 (2022); note - Vietnam's stateless ethnic Chinese Cambodian population dates to the 1970s when thousands of Cambodians fled to Vietnam to escape the Khmer Rouge and were no longer recognized as Cambodian citizens; Vietnamese women who gave up their citizenship to marry foreign men have found themselves stateless after divorcing and returning home to Vietnam; the government addressed this problem in 2009, and Vietnamese women are beginning to reclaim their citizenship<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Vietnam does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government made key achievements during the reporting period, therefore Vietnam was upgraded to Tier 2 Watch List; Vietnam initiated more investigations, prosecuted and convicted more traffickers, increased international law enforcement cooperation, and initiated criminal proceedings against allegedly complicit officials; officials also identified and assisted more victims and implemented protection for overseas workers; despite these achievements, the government did not proactively identify trafficking victims forced to work in cyber scams or provide services, including foreign national victims in Vietnam; authorities inspected thousands of the most at-risk establishments for sex trafficking but only identified two victims (2023)<br>
 
 **Illicit drugs**<br>
 <p>a transshipment and destination country for all types of illegal drugs; most transshipments destined for other Asian countries and not the United States; heroin transits from Thailand, Laos, and Burma for domestic use and shipping to r countries in Southeast Asia, Oceania, China and Taiwan; methamphetamine and amphetamine type stimulants from Burma locally consumed and shipped; South American cocaine locally consumed and distributed to Southeast Asia and Oceania</p><br>

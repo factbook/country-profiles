@@ -563,66 +563,43 @@ _Currency_: Rwandan francs (RWF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 5.8 million (2020)<br>
-_electrification - total population_: 48.7% (2021)<br>
-_electrification - urban areas_: 97.9% (2021)<br>
-_electrification - rural areas_: 38.1% (2021)<br>
+_electrification - total population_: 50.6% (2022 est.)<br>
+_electrification - urban areas_: 98%<br>
+_electrification - rural areas_: 38.2%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 265,000 kW (2020 est.)<br>
-_consumption_: 1,007,300,000 kWh (2019 est.)<br>
-_exports_: 4.5 million kWh (2019 est.)<br>
-_imports_: 93.96 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 142 million kWh (2019 est.)<br>
+_installed generating capacity_: 273,000 kW (2022 est.)<br>
+_consumption_: 861.285 million kWh (2022 est.)<br>
+_exports_: 9 million kWh (2022 est.)<br>
+_imports_: 31 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 140.605 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 39% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 6.5% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 53.9% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 45.5% of total installed capacity (2022 est.)<br>
+_solar_: 1.8% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 52.5% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.2% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 41,000 metric tons (2022 est.)<br>
+_imports_: 64,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 8,300 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-6,628 bbl/day (2015 est.)<br>
+_refined petroleum consumption_: 9,000 bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
+_production_: 60.145 million cubic meters (2022 est.)<br>
+_consumption_: 59.715 million cubic meters (2022 est.)<br>
 _proven reserves_: 56.634 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 1.189 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 1.189 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 1.442 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 77,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 1.249 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 116,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 1.704 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 1.659 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -701,7 +678,7 @@ approximately 2,200 Central African Republic (MINUSCA; plus about 700 police); a
 <strong>note:</strong> in December 2020, Rwanda sent an additional 1,200 to the Central African Republic under a bilateral agreement to support and train Central African Republic military forces, but their status as of 2024 was unclear)<br>
 
 **Military - note**<br>
-<p>the RDF is widely regarded as one of East Africa’s best trained and most experienced militaries; the Army is relatively large with four divisions that are mostly comprised of light infantry brigades; it also has separate artillery, presidential guard, and special operations brigades; the Air Force has a small inventory of combat helicopters and a handful of transport aircraft</p> the RDF’s principle responsibilities are ensuring territorial integrity and national sovereignty and preventing infiltrations of illegal armed groups from neighboring countries, particularly the Democratic Republic of the Congo (DRC); since 2021, Rwanda has deployed troops to the border region with the DRC to combat the rebel Democratic Forces for the Liberation of Rwanda (FDLR), which it has accused the DRC of backing; the RDF has been accused by the DRC, the UN, and the US of making incursions into the DRC and providing material support to the March 23 Movement (M23, aka Congolese Revolutionary Army) rebel group, which has been fighting with DRC troops and UN peacekeeping forces; the RDF also participates in UN and regional military operations; over 6,000 RDF personnel are deployed in the Central African Republic, Mozambique, and South Sudan  <br><br>the Rwandan Armed Forces (FAR) were established following independence in 1962; after the 1990-1994 civil war and genocide, the victorious Tutsi-dominated Rwandan Patriotic Front's military wing, the Rwandan Patriotic Army (RPA), became the country's military force; the RPA participated in the First (1996-1997) and Second (1998-2003) Congolese Wars; the RPA was renamed the Rwanda Defense Force (RDF) in 2003, by which time it had assumed a more national character with the inclusion of many former Hutu officers as well as newly recruited soldiers (2023)<br>
+<p>the RDF is widely regarded as one of East Africa’s best trained and most experienced militaries; its principle responsibilities are ensuring territorial integrity and national sovereignty and preventing infiltrations of illegal armed groups from neighboring countries, particularly the Democratic Republic of the Congo (DRC); since 2021, Rwanda has deployed troops to the border region with the DRC to combat the rebel Democratic Forces for the Liberation of Rwanda (FDLR), which it has accused the DRC of backing; the RDF has been accused by the DRC, the UN, and the US of making incursions into the DRC and providing material support to the March 23 Movement (M23, aka Congolese Revolutionary Army) rebel group, which has been fighting with DRC troops and UN peacekeeping forces; the RDF also participates in UN and regional military operations; over 6,000 RDF personnel are deployed in the Central African Republic, Mozambique, and South Sudan </p> the Rwandan Armed Forces (FAR) were established following independence in 1962; after the 1990-1994 civil war and genocide, the victorious Tutsi-dominated Rwandan Patriotic Front's military wing, the Rwandan Patriotic Army (RPA), became the country's military force; the RPA participated in the First (1996-1997) and Second (1998-2003) Congolese Wars; the RPA was renamed the Rwanda Defense Force (RDF) in 2003, by which time it had assumed a more national character with the inclusion of many former Hutu officers as well as newly recruited soldiers (2023)<br>
 
 ## Space
 

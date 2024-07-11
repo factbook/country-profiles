@@ -465,66 +465,33 @@ _Currency_: North Korean won (KPW) per US dollar (average market rate)<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 19 million (2020)<br>
-_electrification - total population_: 52.6% (2021)<br>
-_electrification - urban areas_: 36% (2020)<br>
-_electrification - rural areas_: 11% (2020)<br>
+_electrification - total population_: 54.7% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 8.413 million kW (2020 est.)<br>
-_consumption_: 13,930,320,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2020 est.)<br>
-_imports_: 0 kWh (2020 est.)<br>
-_transmission/distribution losses_: 2.146 billion kWh (2019 est.)<br>
+_installed generating capacity_: 8.277 million kW (2022 est.)<br>
+_consumption_: 18.24 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 4.033 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 15.8% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.1% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 84.1% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 42.1% of total installed capacity (2022 est.)<br>
+_solar_: 0.3% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 57.6% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 16.376 million metric tons (2020 est.)<br>
-_consumption_: 6.698 million metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 22,000 metric tons (2020 est.)<br>
-_proven reserves_: 600 million metric tons (2019 est.)<br>
+_production_: 21.747 million metric tons (2022 est.)<br>
+_consumption_: 21.747 million metric tons (2022 est.)<br>
+_proven reserves_: 10.6 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 20,300 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 10,600 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-11,270 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-8,260 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_refined petroleum consumption_: 17,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 18.465 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 15.252 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 3.213 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 61.605 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 58.987 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 2.617 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 12.61 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 25.876 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -614,7 +581,7 @@ the KPA is equipped with older weapon systems originally acquired from the forme
 <strong>note:</strong> the bulk of the KPA is made up of conscripts; as many as 20% of North Korean males between the ages of 16 and 54 are in the military at a given time and possibly up to 30 percent of males between the ages of 18 and 27, not counting the reserves or paramilitary units; women comprise about 20% of the military by some estimates<br>
 
 **Military - note**<br>
-North Korea is one of the most militarized countries in the World, and the Korean People's Army (KPA) is one of the World’s largest military forces; founded in 1948, the KPA’s primary responsibilities are national defense and protection of the Kim regime; it also provides considerable support to domestic economic projects such as agriculture production and infrastructure construction; North Korea views the US as its primary external security threat while South Korea and Japan are treated as extensions of perceived US aggression; the North also sees South Korea’s different economic and political systems as a threat to the regime’s legitimacy; the Kim regime is driven by fears of threats to its power from internal sources as well <br><br>in addition to the invasion of South Korea and the subsequent Korean War (1950-53), North Korea from the 1960s to the 1980s launched a considerable number of limited military and subversive actions against South Korea using special forces and terrorist tactics; including aggressive skirmishes along the DMZ, overt attempts to assassinate South Korean leaders, kidnappings, the bombing of an airliner, and a failed effort in 1968 to foment an insurrection and conduct a guerrilla war in the South with more than 100 seaborne commandos; from the 1990s until 2010, the North lost two submarines and a semi-submersible boat attempting to insert infiltrators into the South (1996, 1998) and provoked several engagements in the Northwest Islands area along the disputed Northern Limit Line (NLL), including naval skirmishes between patrol boats in 1999 and 2002, the torpedoing and sinking of a South Korean Navy corvette in 2010, and the bombardment of a South Korean military installation on Yeonpyeong Island, also in 2010; since 2010, further minor incidents continue to occur periodically along the DMZ, where both the KPA and the South Korean military maintain large numbers of troops<br><br>Kim Jong Un is the KPA supreme commander, while operational control of the armed forces resides in the General Staff Department (GSD), which reports directly to Kim; the GSD maintains overall control of all military forces and is charged with turning Kim’s directives into operational military orders; the Ministry of National Defense (MND) is responsible for administrative control of the military and external relations with foreign militaries<br><br>the KPA Ground Force is the core of North Korea’s military power and as of 2021 was assessed to be comprised of 10 regular infantry corps, two mechanized corps, one armored division, four mechanized divisions, and one artillery division plus numerous combat, combat support, and combat service support brigades and regiments; it was also estimated to have over 15,000 artillery systems and over 4,000 tanks <br><br>the Air and Air Defense Forces control over 900 combat aircraft and 300 helicopters, nearly all of which are older Soviet-era models, as well as hundreds of surface-to-air missiles and anti-aircraft artillery guns<br><br>the Navy is primarily a coastal force, and its surface fleet is comprised of patrol craft; however, it maintains one of the world’s largest submarine forces, which includes about 70 diesel-electric attack, coastal, and midget class submarines <br><br>the North's Special Operations Forces is assessed to have more than 100,000 personnel, making it the largest such force in the world; it includes ground, airborne, seaborne, reconnaissance, and infiltration units typically organized into brigades or regiments<br><br>North Korea’s Strategic Force operates the regime’s ballistic missiles, which include a growing inventory of close- (CRBM), short- (SRBM), medium- (MRBM), intermediate- (IRBM), and intercontinental- (ICBM) range ballistic missiles and its mission is to conduct both conventional and nuclear strikes (2023)<br>
+North Korea is one of the most militarized countries in the World, and the Korean People's Army (KPA) is one of the World’s largest military forces; founded in 1948, the KPA’s primary responsibilities are national defense and protection of the Kim regime; it also provides considerable support to domestic economic projects such as agriculture production and infrastructure construction; North Korea views the US as its primary external security threat while South Korea and Japan are treated as extensions of perceived US aggression; the North also sees South Korea’s different economic and political systems as a threat to the regime’s legitimacy; the Kim regime is driven by fears of threats to its power from internal sources as well <br><br>in addition to the invasion of South Korea and the subsequent Korean War (1950-53), North Korea from the 1960s to the 1980s launched a considerable number of limited military and subversive actions against South Korea using special forces and terrorist tactics; including aggressive skirmishes along the DMZ, overt attempts to assassinate South Korean leaders, kidnappings, the bombing of an airliner, and a failed effort in 1968 to foment an insurrection and conduct a guerrilla war in the South with more than 100 seaborne commandos; from the 1990s until 2010, the North lost two submarines and a semi-submersible boat attempting to insert infiltrators into the South (1996, 1998) and provoked several engagements in the Northwest Islands area along the disputed Northern Limit Line (NLL), including naval skirmishes between patrol boats in 1999 and 2002, the torpedoing and sinking of a South Korean Navy corvette in 2010, and the bombardment of a South Korean military installation on Yeonpyeong Island, also in 2010; since 2010, further minor incidents continue to occur periodically along the DMZ, where both the KPA and the South Korean military maintain large numbers of troops<br><br>Kim Jong Un is the KPA supreme commander, while operational control of the armed forces resides in the General Staff Department (GSD), which reports directly to Kim; the GSD maintains overall control of all military forces and is charged with turning Kim’s directives into operational military orders; the Ministry of National Defense (MND) is responsible for administrative control of the military and external relations with foreign militaries (2023)<br>
 
 ## Space
 

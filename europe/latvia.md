@@ -550,63 +550,42 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 3.089 million kW (2020 est.)<br>
-_consumption_: 6.706 billion kWh (2020 est.)<br>
-_exports_: 2.548 billion kWh (2020 est.)<br>
-_imports_: 4.173 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 377 million kWh (2020 est.)<br>
+_installed generating capacity_: 3.233 million kW (2022 est.)<br>
+_consumption_: 5.982 billion kWh (2022 est.)<br>
+_exports_: 2.997 billion kWh (2022 est.)<br>
+_imports_: 5.307 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 374.152 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 33.4% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.1% of total installed capacity (2020 est.)<br>
-_wind_: 3.2% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 47.5% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 15.9% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 27.5% of total installed capacity (2022 est.)<br>
+_solar_: 0.2% of total installed capacity (2022 est.)<br>
+_wind_: 4.8% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 67.5% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 39,000 metric tons (2020 est.)<br>
-_exports_: 3,000 metric tons (2020 est.)<br>
-_imports_: 40,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 20,000 metric tons (2022 est.)<br>
+_exports_: 55,000 metric tons (2022 est.)<br>
+_imports_: 146,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 1,600 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 39,900 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-16,180 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-54,370 bbl/day (2017 est.)<br>
+_total petroleum production_: 2,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 35,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 1.068 billion cubic meters (2020 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 1.068 billion cubic meters (2020 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_consumption_: 828.214 million cubic meters (2022 est.)<br>
+_imports_: 801.356 million cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 8.45 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 149,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 5.693 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 2.608 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 6.458 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 42,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 4.809 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 1.606 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 86.645 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 64.272 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -619,8 +598,8 @@ _total subscriptions_: 2.167 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 117 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom market continues to benefit from investment and from regulatory measures aimed at developing 5G and fiber-based infrastructure; there is effective competition in the mobile market; these multi-service operators have focused investment on fiber networks and on expanding the reach of 5G (2023)<br>
-_domestic_: fixed-line roughly 10 per 100 and mobile-cellular nearly 115 per 100 subscriptions (2021)<br>
+_general assessment_: <p>the telecom market continues to benefit from investment and from regulatory measures aimed at developing 5G and fiber-based infrastructure; the mobile market is dominated by three operators and there is effective competition between them, with the smallest among them having almost a quarter of the market by subscribers; these multi-service operators have focused investment on fiber networks and on expanding the reach of 5G; mobile network capacity has been improved since 2022 following the auction of spectrum in the 700MHz and 1.5GHz bands; operators have entered into agreements with neighboring Estonia and Lithuania to coordinate the use of spectrum for 5G in border areas, improving coverage to end-users without interference; in the fixed-line broadband sector, the country is ranked among the highest in Europe for fiber coverage; it has the second highest rural FttP coverage after Denmark; with this infrastructure in place, the country has also developed a sophisticated digital economy, with e-commerce and e-government services widely available</p> (2024)<br>
+_domestic_: fixed-line 9 per 100 and mobile-cellular nearly 117 per 100 subscriptions (2022)<br>
 _international_: country code - 371; the Latvian network is now connected via fiber-optic cable to Estonia, Finland, and Sweden<br>
 
 **Broadcast media**<br>
@@ -706,7 +685,7 @@ the Latvian military's inventory consists of a mixture of Soviet-era and limited
 135 Kosovo (KFOR/NATO) (2024)<br>
 
 **Military - note**<br>
-the National Armed Forces are responsible for the defense of the country’s sovereignty and territory; they also have some domestic security responsibilities, including coast guard functions, search and rescue, humanitarian assistance, and providing support to other internal security services, including the State Border Service, the State Police, and the State Security Service; the Military Police provides protection to the president and other government officials, foreign dignitaries, and key facilities; for external defense, Latvia’s primary security focus is Russia, which has only increased since the Russian seizure of Crimea in 2014 and full-scale attack on Ukraine in 2022; in 2004, Latvia joined NATO and the EU, which it depends on to play a decisive role in Latvia’s security policy; Latvia is actively engaged in both NATO and the EU, as well as bilaterally with its allies in order to bolster its own security and that of the surrounding region; the Latvian military has participated in NATO and EU missions abroad and regularly conducts training and exercises with NATO and EU partner forces; Latvia also hosts NATO partner forces and is a member of the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies in the North Atlantic, Baltic Sea, and High North regions<br><br>the Land Forces have a single mechanized brigade; since 2017, Latvia has hosted a Canadian-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; in addition, Latvia hosts a NATO-led divisional headquarters (Multinational Division North; activated 2020), which coordinates training and preparation activities of its respective subordinate NATO battlegroups in Estonia and Latvia; the Land Forces are supplemented by the National Guard, which has four regionally based infantry brigades that are manned by part-time personnel supplemented by some full-time professional soldiers; in peacetime, the brigades participate in emergency, fire and rescue operations, and other emergencies<br><br>the Air Force has no combat aircraft; NATO has provided air protection for Latvia since 2004 through its Baltics Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on four-month rotations; the Naval Forces feature a few patrol vessels and minesweepers; the military also has logistics, military police, special operations forces, and training commands (2024)<br>
+the National Armed Forces are responsible for the defense of the country’s sovereignty and territory; they also have some domestic security responsibilities, including coast guard functions, search and rescue, humanitarian assistance, and providing support to other internal security services, including the State Border Service, the State Police, and the State Security Service; the Military Police provides protection to the president and other government officials, foreign dignitaries, and key facilities; for external defense, Latvia’s primary security focus is Russia<br><br>in 2004, Latvia joined NATO and the EU, which it depends on to play a decisive role in Latvia’s security policy; the Latvian military has participated in NATO and EU missions abroad and regularly conducts training and exercises with NATO and EU partner forces<br><br>Latvia also hosts NATO partner forces; since 2017, it has hosted a Canadian-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; in addition, Latvia hosts a NATO-led divisional headquarters (Multinational Division North; activated 2020), which coordinates training and preparation activities of its respective subordinate NATO battlegroups in Estonia and Latvia<br><br>the Air Force has no combat aircraft; NATO has provided air protection for Latvia since 2004 through its Baltics Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on four-month rotations<br><br>Latvia is a member of the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies in the North Atlantic, Baltic Sea, and High North regions (2024)<br>
 
 ## Transnational Issues
 

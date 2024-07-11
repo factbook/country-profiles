@@ -568,66 +568,43 @@ _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 5 million (2020)<br>
-_electrification - total population_: 67.9% (2021)<br>
-_electrification - urban areas_: 93.9% (2021)<br>
-_electrification - rural areas_: 43.4% (2021)<br>
+_electrification - total population_: 67.9% (2022 est.)<br>
+_electrification - urban areas_: 96.6%<br>
+_electrification - rural areas_: 43.4%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 1.312 million kW (2020 est.)<br>
-_consumption_: 4,735,980,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 324 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 764 million kWh (2019 est.)<br>
+_installed generating capacity_: 1.668 million kW (2022 est.)<br>
+_consumption_: 7.025 billion kWh (2022 est.)<br>
+_imports_: 326.425 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 1.057 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 84.8% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 6% of total installed capacity (2020 est.)<br>
-_wind_: 0.5% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 6.3% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 2.4% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 74.3% of total installed capacity (2022 est.)<br>
+_solar_: 10.9% of total installed capacity (2022 est.)<br>
+_wind_: 9.5% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 4% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 1.4% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 894,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 894,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 502,000 metric tons (2022 est.)<br>
+_imports_: 502,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 57,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 20,500 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-17,590 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-4,063 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-32,050 bbl/day (2015 est.)<br>
+_total petroleum production_: 9,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 55,000 bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 60.003 million cubic meters (2019 est.)<br>
-_consumption_: 60.003 million cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 54.646 million cubic meters (2022 est.)<br>
+_consumption_: 54.498 million cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 10.696 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 1.955 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 8.64 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 101,000 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 9.152 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 1.134 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 7.926 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 92,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 9.221 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 7.836 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -726,7 +703,7 @@ the FAS inventory includes mostly older or secondhand equipment from a variety o
 200 Central African Republic (MINUSCA; plus about 525 police); 800 (ECOWAS Military Intervention in The Gambia--ECOMIG); 500 (ECOWAS Stabilization Support Mission in Guinea-Bissau--EESMGB); 450 police Democratic Republic of the Congo (MONUSCO) (2024)<br>
 
 **Military - note**<br>
-despite limited resources, the FAS is considered to be a well-equipped, experienced, and effective military; it has a history of non-interference in the country’s political process and positive relations with civil authorities; the FAS is experienced in foreign deployments and has received assistance from the French military, which maintains a presence in Senegal, as well as Germany, Spain, the UK, and the US; the FAS’s primary focuses are border, internal, and maritime security; it is watching the prevalence of multiple active terrorist groups across the region and political instability in neighboring Mali and Guinea and has recently established new military and gendarmerie camps along its eastern border with Mali; the FAS also works with the civilian government in areas such as preventive healthcare, infrastructure development, environmental protection, and disaster response<br><br>the Army is spread amongst seven military zones and organized into a mix of light infantry battalions and light armored reconnaissance squadrons, as well as airborne, special operations, and artillery battalions; the Gendarmerie includes mobile units, as well as the Presidential Guard (aka “The Red Guard”); the Navy is small and its principal warships are coastal patrol craft; in recent years the Navy has acquired some modern naval platforms from France, Israel, and Spain, including several offshore patrol vessels, to improve its ability to monitor Senegal’s coastline and economic exclusion zone, conduct fisheries inspections, counter drug trafficking, and combat piracy; the Air Force is configured for supporting the ground forces and has a small number of light attack aircraft and helicopter gunships, as well as transport and reconnaissance aircraft<br><br>Senegalese security forces have been engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance (MDFC) since 1982; the conflict is one of longest running low-level insurgencies in the World, having claimed more than 5,000 lives while leaving another 60,000 displaced; in May 2023, a faction of the MFDC agreed to a peace deal (2023)<br>
+despite limited resources, the FAS is considered to be a well-equipped, experienced, and effective military; it has a history of non-interference in the country’s political process and positive relations with civil authorities; the FAS is experienced in foreign deployments and has received assistance from the French military, which maintains a presence in Senegal, as well as Germany, Spain, the UK, and the US; the FAS’s primary focuses are border, internal, and maritime security; it is watching the prevalence of multiple active terrorist groups across the region and political instability in neighboring Mali and Guinea and has recently established new military and gendarmerie camps along its eastern border with Mali; the FAS also works with the civilian government in areas such as preventive healthcare, infrastructure development, environmental protection, and disaster response<br><br>Senegalese security forces have been engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance (MDFC) since 1982; the conflict is one of longest running low-level insurgencies in the World, having claimed more than 5,000 lives while leaving another 60,000 displaced; in May 2023, a faction of the MFDC agreed to a peace deal (2023)<br>
 
 ## Space
 

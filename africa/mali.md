@@ -578,66 +578,36 @@ _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 10 million (2020)<br>
-_electrification - total population_: 53.3% (2021)<br>
-_electrification - urban areas_: 96.8% (2021)<br>
-_electrification - rural areas_: 18.2% (2021)<br>
+_electrification - total population_: 53% (2022 est.)<br>
+_electrification - urban areas_: 99.7%<br>
+_electrification - rural areas_: 18.3%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 890,000 kW (2020 est.)<br>
-_consumption_: 2,620,980,000 kWh (2019 est.)<br>
-_exports_: 550 million kWh (2019 est.)<br>
-_imports_: 200 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 346 million kWh (2019 est.)<br>
+_installed generating capacity_: 1.145 million kW (2022 est.)<br>
+_consumption_: 3.5 billion kWh (2022 est.)<br>
+_exports_: 600 million kWh (2022 est.)<br>
+_imports_: 775.87 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 433.773 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 67.4% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 1% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 29.7% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1.9% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 60.2% of total installed capacity (2022 est.)<br>
+_solar_: 0.9% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 37.3% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 1.6% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_exports_: (2022 est.) less than 1 metric ton<br>
+_imports_: 100 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 37,600 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-20,610 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_refined petroleum consumption_: 46,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 5.679 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 5.679 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 6.868 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 6.868 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 4.396 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 4.476 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -718,7 +688,7 @@ the FAMa's inventory consists primarily of Soviet-era equipment, although in rec
 <strong>note: </strong>until announcing its withdrawal in May of 2022, Mali was part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mauritania, and Niger; Mali had committed 1,100 troops and 200 gendarmes to the force<br>
 
 **Military - note**<br>
-the FAMa is responsible for defense of the country’s sovereignty and territory, but also has some domestic security duties, including the maintenance of public order and support to law enforcement if required, as well as counterterrorism and counterinsurgency operations; it also participates in socio-economic development projects; the military has traditionally played a large role in Mali’s politics; prior to the coup in August 2020 and military takeover in May 2021, it had intervened in the political arena at least five times since the country gained independence in 1960 (1968, 1976, 1978, 1991, 2012)<br><br>the FAMa and other security forces are actively engaged in operations against several insurgent/terrorist groups affiliated with al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS), as well as other rebel groups, communal militias, and criminal bands spread across the central, northern, and southern regions of the country; the government is reportedly in control of only an estimated 10-20% of the country's central and northern territories, and attacks have increased in the more heavily populated south, including around the capital Bamako; the Macina Liberation Front (FLM), part of the Jama’at Nusrat al Islam wal Muslimin (JNIM) coalition of al-Qa'ida-linked terror groups, has played a large role in a surge in violence in Mali’s central and southern regions; in the north, ISIS in the Greater Sahara (ISIS-GS) has regained strength in recent years<br> <p>the FAMa and the remainder of the security forces collapsed in 2012 during the fighting against Tuareg rebels and Islamic militants and have since been rebuilt with considerable external assistance, including the EU, France, and the UN; for example, the EU Training Mission in Mali (EUTM) from 2013-2022 trained as many as 15,000 Malian soldiers and eight combined arms battalions/battlegroups (Groupement Tactique InterArmes, GTIA), each of which was structured to be self-sufficient with its own motorized/mechanized infantry, light armor, commandos, artillery, engineers, and other support forces; the EUTM and the French military ended their missions in 2022 citing issues with the ruling military government, including human rights abuses and the presence of Russian private military contractors; the UN Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) operated in the country from 2013-2023 with the mission of providing security, rebuilding Malian security forces, protecting civilians, supporting national political dialogue, and assisting in the reestablishment of Malian government authority; MINUSMA had more than 15,000 personnel at its peak strength and lost over 300 peacekeepers during the course of the mission, which was concluded at the end of 2023 after the ruling junta demanded the withdrawal of foreign forces</p> in addition to the EU-trained GTIAs, the Army has commandos and special forces, as well as motorcycle-mounted reconnaissance units; the Air Force has small numbers of combat aircraft, helicopters, and armed drones; the Gendarmerie and National Guard field company-sized paramilitary units, including camel-mounted forces in the National Guard; they also have special anti-terrorism and intervention forces<br><br>the military government has increased security ties with Russia; Russia has provided military equipment, and in December 2021, Mali contracted with a Russian private military company to provide training and other support for local armed forces, as well as security for senior Malian officials (2024)<br>
+the FAMa is responsible for defense of the country’s sovereignty and territory, but also has some domestic security duties, including the maintenance of public order and support to law enforcement if required, as well as counterterrorism and counterinsurgency operations; it also participates in socio-economic development projects; the military has traditionally played a large role in Mali’s politics; prior to the coup in August 2020 and military takeover in May 2021, it had intervened in the political arena at least five times since the country gained independence in 1960 (1968, 1976, 1978, 1991, 2012)<br><br>the FAMa and other security forces are actively engaged in operations against several insurgent/terrorist groups affiliated with al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS), as well as other rebel groups, communal militias, and criminal bands spread across the central, northern, and southern regions of the country; the government is reportedly in control of only an estimated 10-20% of the country's central and northern territories, and attacks have increased in the more heavily populated south, including around the capital Bamako; the Macina Liberation Front (FLM), part of the Jama’at Nusrat al Islam wal Muslimin (JNIM) coalition of al-Qa'ida-linked terror groups, has played a large role in a surge in violence in Mali’s central and southern regions; in the north, ISIS in the Greater Sahara (ISIS-GS) has regained strength in recent years<br> <p>the FAMa and the remainder of the security forces collapsed in 2012 during the fighting against Tuareg rebels and Islamic militants and have since been rebuilt with considerable external assistance, including the EU, France, and the UN; for example, the EU Training Mission in Mali (EUTM) from 2013-2022 trained as many as 15,000 Malian soldiers and eight combined arms battalions/battlegroups (Groupement Tactique InterArmes, GTIA), each of which was structured to be self-sufficient with its own motorized/mechanized infantry, light armor, commandos, artillery, engineers, and other support forces; the EUTM and the French military ended their missions in 2022 citing issues with the ruling military government, including human rights abuses and the presence of Russian private military contractors; the UN Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) operated in the country from 2013-2023 with the mission of providing security, rebuilding Malian security forces, protecting civilians, supporting national political dialogue, and assisting in the reestablishment of Malian government authority; MINUSMA had more than 15,000 personnel at its peak strength and lost over 300 peacekeepers during the course of the mission, which was concluded at the end of 2023 after the ruling junta demanded the withdrawal of foreign forces</p> the military government has increased security ties with Russia; Russia has provided military equipment, and in December 2021, Mali contracted with a Russian private military company to provide training and other support for local armed forces, as well as security for senior Malian officials (2024)<br>
 
 ## Terrorism
 

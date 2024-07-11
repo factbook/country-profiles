@@ -560,71 +560,55 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 7.868 million kW (2020 est.)<br>
-_consumption_: 26.503 billion kWh (2020 est.)<br>
-_exports_: 12.97 billion kWh (2020 est.)<br>
-_imports_: 13.288 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 1.589 billion kWh (2020 est.)<br>
+_installed generating capacity_: 8.029 million kW (2022 est.)<br>
+_consumption_: 26.372 billion kWh (2022 est.)<br>
+_exports_: 15.336 billion kWh (2022 est.)<br>
+_imports_: 16.709 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 1.236 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 19.7% of total installed capacity (2020 est.)<br>
-_nuclear_: 55.4% of total installed capacity (2020 est.)<br>
-_solar_: 2.4% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 16.8% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0.2% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 5.6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 17.8% of total installed capacity (2022 est.)<br>
+_nuclear_: 60.7% of total installed capacity (2022 est.)<br>
+_solar_: 2.5% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 11.8% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 7.2% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 5 (2023)<br>
-_Number of nuclear reactors under construction_: 1<br>
-_Net capacity of operational nuclear reactors_: 2.31GW (2023)<br>
-_Percent of total electricity production_: 52.3% (2021)<br>
-_Percent of total energy produced_: 70.4% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 1<br>
+_Number of nuclear reactors under construction_: 1 (2023)<br>
+_Net capacity of operational nuclear reactors_: 2.31GW (2023 est.)<br>
+_Percent of total electricity production_: 61.3% (2023 est.)<br>
+_Number of nuclear reactors permanently shut down_: 3 (2023)<br>
 
 **Coal**<br>
-_production_: 2.148 million metric tons (2020 est.)<br>
-_consumption_: 5.371 million metric tons (2020 est.)<br>
-_exports_: 1,000 metric tons (2020 est.)<br>
-_imports_: 3.111 million metric tons (2020 est.)<br>
-_proven reserves_: 135 million metric tons (2019 est.)<br>
+_production_: 2.343 million metric tons (2022 est.)<br>
+_consumption_: 5.794 million metric tons (2022 est.)<br>
+_exports_: 20,000 metric tons (2022 est.)<br>
+_imports_: 3.414 million metric tons (2022 est.)<br>
+_proven reserves_: 19 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 3,800 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 85,200 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 100 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 109,800 bbl/day (2018 est.)<br>
+_total petroleum production_: 7,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 94,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 9 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-131,300 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-81,100 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-38,340 bbl/day (2017 est.)<br>
-
 **Natural gas**<br>
-_production_: 62.495 million cubic meters (2020 est.)<br>
-_consumption_: 4.928 billion cubic meters (2020 est.)<br>
-_exports_: 0 cubic meters (2020 est.)<br>
-_imports_: 4.361 billion cubic meters (2020 est.)<br>
+_production_: 52.556 million cubic meters (2022 est.)<br>
+_consumption_: 60.424 million cubic meters (2022 est.)<br>
+_imports_: 6.241 billion cubic meters (2022 est.)<br>
 _proven reserves_: 14.158 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 32.506 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 11.521 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 11.747 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 9.238 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 21.405 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 9.253 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 12.033 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 118,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 129.665 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 93.681 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -637,8 +621,8 @@ _total subscriptions_: 7.445 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 132 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the broadband market has shown steady growth in recent years; fiber has become the principal platform for fixed broadband services, followed by DSL; the cable sector is a distant third in terms of subscribers, though cable is particularly strong in urban areas; mobile broadband access and content services are developing rapidly in line with operators having upgraded their networks; the regulator prepared the groundwork for 5G services in line with European Union requirements, with concessions in the 3.5GHz range followed by those in the 700MHz, 900MHz and 1800MHz bands; 5G was launched in late 2021 and is expected to cover about a fifth of the population by the end of 2022 (2021)<br>
-_domestic_: fixed-line is 11 per 100 and mobile-cellular is 135 per 100 teledensity (2021)<br>
+_general assessment_: the broadband market has shown steady growth in recent years; fiber has become the principal platform for fixed broadband services, followed by DSL; the cable sector is a distant third in terms of subscribers, though cable is particularly strong in urban areas; mobile broadband access and content services are developing rapidly in line with operators having upgraded their networks; the regulator prepared the groundwork for 5G services in line with European Union requirements, with concessions in the 3.5GHz range followed by those in the 700MHz, 900MHz and 1800MHz bands; 5G was launched in late 2021 and is expected to cover about a fifth of the population by the end of 2022 (2024)<br>
+_domestic_: fixed-line is 10 per 100 and mobile-cellular is 132 per 100 tele density (2022)<br>
 _international_: country code - 421; 3 international exchanges (1 in Bratislava and 2 in Banska Bystrica) are available; Slovakia is participating in several international telecommunications projects that will increase the availability of external services; connects to DREAM cable (2017)<br>
 
 **Broadcast media**<br>
@@ -709,7 +693,7 @@ the military's inventory consists mostly of Soviet-era platforms; in recent year
 240 Cyprus (UNFICYP); up to 150 Latvia (NATO) (2024)<br>
 
 **Military - note**<br>
-the Slovak military was created from the Czechoslovak Army after the dissolution of Czechoslovakia in January 1993; it is a small and professional force responsible for external defense and fulfilling Slovakia’s commitments to European and international security; Slovakia has been a member of both the EU and NATO since 2004; a key focus of the Slovak military is fulfilling the country’s security responsibilities to NATO, including modernizing and acquiring NATO-compatible equipment, participating in training exercises, and providing forces for security missions such as NATO’s Enhanced Forward Presence in the Baltic States; since 2022, Slovakia has hosted a NATO ground force battlegroup comprised of troops from Czechia, Germany, the Netherlands, Poland, Slovakia, Slovenia, and the US as part of the NATO effort to boost the defenses of Eastern Europe since the Russian invasion of Ukraine; Slovakia also contributes to EU and UN peacekeeping missions<br><br>the military operates under a General Staff and a Joint Operations Command; the combat units of the subordinate Land Forces are two mechanized infantry brigades, plus separate battalions of artillery and reconnaissance forces; the separate Special Operations Forces include special forces and airborne units; the Air Force has only a handful of fighter aircraft and is assisted by NATO’s air policing mission over Slovakia, which includes fighter aircraft from Czechia and Poland; in 2022, Slovakia signed a defense agreement with the US that allows the US to use two Slovak military air bases; as a landlocked country, Slovakia does not have a naval force (2023)<br>
+the Slovak military was created from the Czechoslovak Army after the dissolution of Czechoslovakia in January 1993; it is responsible for external defense and fulfilling Slovakia’s commitments to European and international security; Slovakia has been a member of both the EU and NATO since 2004; a key focus of the Slovak military is fulfilling the country’s security responsibilities to NATO, including modernizing and acquiring NATO-compatible equipment, participating in training exercises, and providing forces for security missions such as NATO’s Enhanced Forward Presence in the Baltic States; since 2022, Slovakia has hosted a NATO ground force battlegroup comprised of troops from Czechia, Germany, the Netherlands, Poland, Slovakia, Slovenia, and the US as part of the NATO effort to boost the defenses of Eastern Europe since the Russian invasion of Ukraine; Slovakia also contributes to EU and UN peacekeeping missions<br><br>the Slovak Air Force has only a handful of fighter aircraft and is assisted by NATO’s air policing mission over Slovakia, which includes fighter aircraft from Czechia and Poland; in 2022, Slovakia signed a defense agreement with the US that allows the US to use two Slovak military air bases (2023)<br>
 
 ## Space
 

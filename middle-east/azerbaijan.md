@@ -556,63 +556,46 @@ _Currency_: Azerbaijani manats (AZN) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 7.677 million kW (2020 est.)<br>
-_consumption_: 21.027 billion kWh (2019 est.)<br>
-_exports_: 1.491 billion kWh (2020 est.)<br>
-_imports_: 137 million kWh (2020 est.)<br>
-_transmission/distribution losses_: 2.226 billion kWh (2019 est.)<br>
+_installed generating capacity_: 7.71 million kW (2022 est.)<br>
+_consumption_: 23.827 billion kWh (2022 est.)<br>
+_exports_: 2.997 billion kWh (2022 est.)<br>
+_imports_: 137 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 2.25 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 94.2% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.2% of total installed capacity (2020 est.)<br>
-_wind_: 0.4% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 4.4% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.8% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 93.6% of total installed capacity (2022 est.)<br>
+_solar_: 0.2% of total installed capacity (2022 est.)<br>
+_wind_: 0.3% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 5.5% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.4% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 19,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 19,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 60,000 metric tons (2022 est.)<br>
+_imports_: 20,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 711,700 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 107,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 679,900 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
+_total petroleum production_: 618,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 105,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 7 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-138,900 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-46,480 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-5,576 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 23.075 billion cubic meters (2019 est.)<br>
-_consumption_: 11.468 billion cubic meters (2019 est.)<br>
-_exports_: 11.586 billion cubic meters (2019 est.)<br>
-_imports_: 1.233 billion cubic meters (2019 est.)<br>
+_production_: 34.175 billion cubic meters (2022 est.)<br>
+_consumption_: 11.759 billion cubic meters (2022 est.)<br>
+_exports_: 22.4 billion cubic meters (2022 est.)<br>
+_imports_: 67.711 million cubic meters (2022 est.)<br>
 _proven reserves_: 1.699 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 35.389 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 29,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 12.863 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 22.497 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 36.187 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 137,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 12.982 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 23.068 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 64.416 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 61.497 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -625,8 +608,8 @@ _total subscriptions_: 11.068 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 107 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: in spite of the telecom sector being one of the major contributors to Azerbaijan&rsquo;s non-oil GDP, overall development, growth, and investment in the sector has been held back by years of political and civil unrest coupled with endemic corruption; mobile penetration rates reached 100% as far back as 2011 but have largely stagnated since then; the Mobile Network Operators (MNOs) are slowly extending the reach of their LTE networks around the country, and this increased coverage (along with access to faster data-based services) is expected to produce a moderate resurgence for both mobile and mobile broadband over the next few years as customers migrate from 3G to 4G. 5G services are still some ways off, as the demand for high-speed data and fast broadband can easily be met by existing capacity on LTE networks; fixed-line teledensity continues to drop down each year as customers consolidate their telecommunications services around the mobile platform; the rate of decline is comparatively slower than other countries, since Azerbaijan has a relatively high proportion of (87%) of fixed-line broadband customers still on DSL; fiber is gradually being rolled out in urban areas, and this makes up the bulk of the growth being seen in the overall fixed broadband market; DSL&rsquo;s predominance, however, will serve to keep Azerbaijan&rsquo;s average access speeds in the sub-10Mbps range for the foreseeable future (2020)<br>
-_domestic_: 16 fixed-lines subscriptions per 100 persons; mobile-cellular subscriptions of 105 telephones per 100 persons (2021)<br>
+_general assessment_: <p>the telecom sector was one of the major contributors to Azerbaijan’s non-oil GDP, overall development, growth, and investment; mobile usage rates reached 100% as far back as 2011, but have largely stagnated since then; the Mobile Network Operators (MNOs) are slowly extending the reach of their long-term evolution (LTE) networks around the country, and this increased coverage (along with access to faster data-based services) is expected to produce a moderate resurgence for both mobile and mobile broadband over the next few years as customers migrate from 3G to 4G. 5G services are still some ways off, as the demand for high-speed data and fast broadband can easily be met by existing capacity on LTE networks; fixed-line tele density continues to drop down each year as customers consolidate their telecommunications services around the mobile platform; yet the rate of decline is comparatively slow to other countries, since Azerbaijan has a relatively high proportion of (87%) of fixed-line broadband customers still on DSL; Fiber (12% of fixed broadband connections) is gradually being rolled out in urban areas, and this makes up the bulk of the (limited) growth being seen in the overall fixed broadband market; DSL’s predominance, however, will serve to keep Azerbaijan’s average access speeds in the sub-10Mbps range for the foreseeable future</p> (2024)<br>
+_domestic_: 16 fixed-lines subscriptions per 100 persons; mobile-cellular subscriptions of 107 telephones per 100 persons (2022)<br>
 _international_: country code - 994; Azerbaijan’s largest mobile network operator (MNO)  launched trial 5G mobile services in Baku on 27 December 2022 (2023)<br>
 
 **Broadcast media**<br>

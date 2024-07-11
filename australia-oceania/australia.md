@@ -352,7 +352,7 @@ _residency requirement for naturalization_: 4 years<br>
 18 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General David HURLEY (since 1 July 2019)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Samantha (Sam) MOSTYN (since 1 July 2024)<br>
 _head of government_: Prime Minister Anthony ALBANESE (since 23 May 2022)<br>
 _cabinet_: Cabinet nominated by the prime minister from among members of Parliament and sworn in by the governor general<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition is sworn in as prime minister by the governor general<br>
@@ -575,64 +575,47 @@ _Currency_: Australian dollars (AUD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 82.517 million kW (2020 est.)<br>
-_consumption_: 237,388,272,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2020 est.)<br>
-_imports_: 0 kWh (2020 est.)<br>
-_transmission/distribution losses_: 12,607,778,000 kWh (2019 est.)<br>
+_installed generating capacity_: 101.35 million kW (2022 est.)<br>
+_consumption_: 250.005 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 11.481 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 75.4% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 8.6% of total installed capacity (2020 est.)<br>
-_wind_: 8.4% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 6.2% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1.4% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 65.5% of total installed capacity (2022 est.)<br>
+_solar_: 15.2% of total installed capacity (2022 est.)<br>
+_wind_: 12% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 6.3% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 1.1% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 504.051 million metric tons (2020 est.)<br>
-_consumption_: 99.048 million metric tons (2020 est.)<br>
-_exports_: 390.808 million metric tons (2020 est.)<br>
-_imports_: 583,000 metric tons (2020 est.)<br>
-_proven reserves_: 149.079 billion metric tons (2019 est.)<br>
+_production_: 465.865 million metric tons (2022 est.)<br>
+_consumption_: 107.624 million metric tons (2022 est.)<br>
+_exports_: 364.589 million metric tons (2022 est.)<br>
+_imports_: 657,000 metric tons (2022 est.)<br>
+_proven reserves_: 150.227 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 442,500 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 1,174,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 197,700 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 356,900 bbl/day (2018 est.)<br>
+_total petroleum production_: 386,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 1.123 million bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 2.446 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-462,500 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-64,120 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-619,600 bbl/day (2017 est.)<br>
-
 **Natural gas**<br>
-_production_: 142,104,321,000 cubic meters (2020 est.)<br>
-_consumption_: 41,905,381,000 cubic meters (2020 est.)<br>
-_exports_: 101,766,728,000 cubic meters (2020 est.)<br>
-_imports_: 6,295,646,000 cubic meters (2020 est.)<br>
-_proven reserves_: 3,228,115,000,000 cubic meters (2021 est.)<br>
-<strong>note: </strong>Australia was the largest exporter of LNG in the world in 2020.<br>
+_production_: 153.783 billion cubic meters (2022 est.)<br>
+_consumption_: 50.188 billion cubic meters (2022 est.)<br>
+_exports_: 106.072 billion cubic meters (2022 est.)<br>
+_imports_: 2.925 billion cubic meters (2022 est.)<br>
+_proven reserves_: 3.228 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 417.87 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 162.26 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 158.668 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 96.942 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 415.177 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 173.542 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 145.566 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 96.069 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 241.004 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 236.653 million Btu/person (2022 est.)<br>
 
 ## Communications
 

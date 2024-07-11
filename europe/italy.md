@@ -559,71 +559,53 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 121.442 million kW (2020 est.)<br>
-_consumption_: 286.375 billion kWh (2020 est.)<br>
-_exports_: 7.587 billion kWh (2020 est.)<br>
-_imports_: 39.787 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 17.702 billion kWh (2020 est.)<br>
+_installed generating capacity_: 123.327 million kW (2022 est.)<br>
+_consumption_: 298.32 billion kWh (2022 est.)<br>
+_exports_: 4.419 billion kWh (2022 est.)<br>
+_imports_: 47.402 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 18.827 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 55.9% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 9.2% of total installed capacity (2020 est.)<br>
-_wind_: 6.9% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 17.5% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0.2% of total installed capacity (2020 est.)<br>
-_geothermal_: 2.2% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 8.1% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 63.7% of total installed capacity (2022 est.)<br>
+_solar_: 9.9% of total installed capacity (2022 est.)<br>
+_wind_: 7.5% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 10% of total installed capacity (2022 est.)<br>
+_geothermal_: 2% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 7% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 0<br>
-_Number of nuclear reactors under construction_: 0<br>
-_Net capacity of operational nuclear reactors_: 0GW<br>
-_Percent of total electricity production_: 0%<br>
-_Percent of total energy produced_: 0%<br>
-_Number of nuclear reactors permanently shut down_: 4<br>
+_Number of nuclear reactors permanently shut down_: 4 (2023)<br>
 
 **Coal**<br>
-_production_: 1.456 million metric tons (2020 est.)<br>
-_consumption_: 9.335 million metric tons (2020 est.)<br>
-_exports_: 368,000 metric tons (2020 est.)<br>
-_imports_: 8.235 million metric tons (2020 est.)<br>
-_proven reserves_: 17 million metric tons (2019 est.)<br>
+_production_: 1.618 million metric tons (2022 est.)<br>
+_consumption_: 13.127 million metric tons (2022 est.)<br>
+_exports_: 294,000 metric tons (2022 est.)<br>
+_imports_: 12.462 million metric tons (2022 est.)<br>
+_proven reserves_: 609.999 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 107,700 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 1,255,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 10,100 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 1.253 million bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 497.9 million barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-1.607 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-615,900 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-422,500 bbl/day (2017 est.)<br>
+_total petroleum production_: 116,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 1.246 million bbl/day (2023 est.)<br>
+_crude oil estimated reserves_: 497.934 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 3,888,491,000 cubic meters (2020 est.)<br>
-_consumption_: 74,313,109,000 cubic meters (2019 est.)<br>
-_exports_: 314.656 million cubic meters (2020 est.)<br>
-_imports_: 70,908,014,000 cubic meters (2019 est.)<br>
+_production_: 3.117 billion cubic meters (2022 est.)<br>
+_consumption_: 68.735 billion cubic meters (2022 est.)<br>
+_exports_: 4.594 billion cubic meters (2022 est.)<br>
+_imports_: 72.579 billion cubic meters (2022 est.)<br>
 _proven reserves_: 45.76 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 332.041 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 27.194 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 162.472 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 142.375 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 316.578 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 27.291 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 157.6 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 131.687 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 112.606 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 98.458 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -726,7 +708,7 @@ the military's inventory includes a mix of domestically manufactured, imported, 
 <strong>note:</strong> Italy has about 11,500 total air, ground, and naval forces deployed on foreign missions<br>
 
 **Military - note**<br>
-the Italian military is responsible for Italy’s national defense and security and fulfilling the country’s commitments to the EU, NATO, and the UN; it also has some domestic security duties; for example, the Army has provided troops for guarding public buildings and for more than a decade several thousand Army and Carabinieri personnel have been deployed domestically to support the National Police as part of a government effort to curb crime in various Italian cities <br><br>Italy has been an active member of NATO since its founding in 1948, and the Alliance is a cornerstone of Rome’s national security strategy; it is a strong supporter of European/EU defense cooperation and integration; Italy is an active participant in EU, NATO, UN, and other multinational military, security, and humanitarian operations; key areas of emphasis for Italy’s security policy and multinational cooperation are NATO/Europe’s eastern and southern flanks, including the Mediterranean Sea, East and North Africa, and the Middle East and its adjacent waters; Italy is one of NATO’s leading contributors of military forces and participates in such missions as NATO’s Air Policing in the Baltics, the Enhanced Forward Presence in Eastern Europe, and maritime patrols in the Mediterranean and beyond; it hosts NATO’s Joint Force Command in Naples and a NATO Rapid Deployable Corps headquarters in Milan, as well as the headquarters for the EU’s Mediterranean naval operations force in Rome; since 1960, Italy has committed more than 60,000 troops to UN missions, and it hosts a training center in Vicenza for police personnel destined for peacekeeping missions; in addition, Italy has close defense ties with the US and hosts several US military air, army, and naval bases and facilities<br><br>the Italian Army has participated in many colonial engagements, conflicts, major wars, and peacekeeping missions since its establishment in the 1850s and 1860s during Italian unification, from African colonization in the late 1800s to both World Wars and more recently, Afghanistan and Iraq; the current Italian Army is equipped largely with domestically manufactured weapons systems and organized into functional areas (operational, logistic, infrastructural, training, and territorial); the combat forces are under the operational commands, which include the Alpine Command (one divisional headquarters and two alpine/mountain brigades), the Southern Operational Forces Command (five mechanized brigades), the Northern Operational Forces Command (armored, cavalry, and airborne brigades), the Operational Land Forces Support Command (commands for artillery, air defense, engineers, etc), and the Operational Land Forces Command and Army Operational Command (two divisional headquarters, an aviation command with an air mobile brigade, and a special forces command)<br><br>the Navy was officially established in 1860; as a country with seas on three sides, naval power has long been a key component of Italy’s national security; today, it maintains one of the largest navies in NATO with several functional and regionally based commands and operates globally; in addition to maritime defense, the Navy’s missions include countering illegal trafficking, protecting the marine environment, and assisting with humanitarian and disaster assistance, as well as contributing to civil projects, such as scientific research; its principal warships include two aircraft carriers, four destroyers, 13 frigates, and eight attack submarines, as well as several large amphibious assault ships and a large inventory of patrol vessels; it also has a marine amphibious force, a special operations force, and operates a diverse array of naval fixed-wing, rotary-wing, and unmanned aircraft, including naval fighters and anti-submarine warfare helicopters; the Air Force was established in 1923, but the first air unit was established in 1884; today, it has nearly 500 total aircraft, including around 200 fighters and multirole fighter aircraft; to coordinate the different services, the military has several joint commands, including for operations, space, and special operations (2023)<br>
+the Italian military is responsible for Italy’s national defense and security and fulfilling the country’s commitments to the EU, NATO, and the UN; it also has some domestic security duties; for example, the Army has provided troops for guarding public buildings and for more than a decade several thousand Army and Carabinieri personnel have been deployed domestically to support the National Police as part of a government effort to curb crime in various Italian cities <br><br>Italy has been an active member of NATO since its founding in 1948, and the Alliance is a cornerstone of Rome’s national security strategy; it is a strong supporter of European/EU defense cooperation and integration; Italy is an active participant in EU, NATO, UN, and other multinational military, security, and humanitarian operations; key areas of emphasis for Italy’s security policy and multinational cooperation are NATO/Europe’s eastern and southern flanks, including the Mediterranean Sea, East and North Africa, and the Middle East and its adjacent waters; Italy is one of NATO’s leading contributors of military forces and participates in such missions as NATO’s Air Policing in the Baltics, the Enhanced Forward Presence in Eastern Europe, and maritime patrols in the Mediterranean and beyond; it hosts NATO’s Joint Force Command in Naples and a NATO Rapid Deployable Corps headquarters in Milan, as well as the headquarters for the EU’s Mediterranean naval operations force in Rome; since 1960, Italy has committed more than 60,000 troops to UN missions, and it hosts a training center in Vicenza for police personnel destined for peacekeeping missions; in addition, Italy has close defense ties with the US and hosts several US military air, army, and naval bases and facilities (2023)<br>
 
 ## Space
 

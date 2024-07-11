@@ -509,64 +509,28 @@ _Currency_: Australian dollars (AUD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 92.8% (2020)<br>
-_electrification - urban areas_: 88.2% (2021)<br>
+_electrification - total population_: 94.4% (2022 est.)<br>
+_electrification - urban areas_: 86%<br>
+_electrification - rural areas_: 94.3% (2020 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 11,000 kW (2020 est.)<br>
-_consumption_: 25.137 million kWh (2019 est.)<br>
-_exports_: 0 kWh (2020 est.)<br>
-_imports_: 0 kWh (2020 est.)<br>
-_transmission/distribution losses_: 4.7 million kWh (2019 est.)<br>
+_installed generating capacity_: 11,000 kW (2022 est.)<br>
+_consumption_: 26.225 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 5 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 84.9% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 15.1% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
-
-**Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_fossil fuels_: 84.5% of total installed capacity (2022 est.)<br>
+_solar_: 15.5% of total installed capacity (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-420 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_refined petroleum consumption_: 500 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 76,000 metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 76,000 metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 78,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 78,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 9.335 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 8.403 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -635,7 +599,7 @@ _key ports_: Canton Island, English Harbor, Tarawa Atoll<br>
 no regular military forces; Kiribati Police and Prison Service (Ministry of Justice) (2024)<br>
 
 **Military - note**<br>
-defense assistance is provided by Australia and NZ<br><br>Kiribati has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Kiribati's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
+Australia, NZ, and the US have provided security assistance<br><br>Kiribati has a "ship rider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Kiribati's designated exclusive economic zone (EEZ) or on the high seas; ship rider agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
 
 ## Transnational Issues
 

@@ -558,63 +558,49 @@ _Currency_: Norwegian kroner (NOK) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 38.36 million kW (2020 est.)<br>
-_consumption_: 124.288 billion kWh (2020 est.)<br>
-_exports_: 24.968 billion kWh (2020 est.)<br>
-_imports_: 4.496 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 8.909 billion kWh (2020 est.)<br>
+_installed generating capacity_: 40.54 million kW (2022 est.)<br>
+_consumption_: 121.899 billion kWh (2022 est.)<br>
+_exports_: 25.792 billion kWh (2022 est.)<br>
+_imports_: 13.259 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 8.951 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 1.2% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0% of total installed capacity (2020 est.)<br>
-_wind_: 6.4% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 92.1% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.3% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 0.5% of total installed capacity (2022 est.)<br>
+_solar_: 0.1% of total installed capacity (2022 est.)<br>
+_wind_: 10.3% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 88.7% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.3% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 69,000 metric tons (2020 est.)<br>
-_consumption_: 1.13 million metric tons (2020 est.)<br>
-_exports_: 46,000 metric tons (2020 est.)<br>
-_imports_: 1.172 million metric tons (2020 est.)<br>
-_proven reserves_: 2 million metric tons (2019 est.)<br>
+_production_: 117,000 metric tons (2022 est.)<br>
+_consumption_: 1.201 million metric tons (2022 est.)<br>
+_exports_: 84,000 metric tons (2022 est.)<br>
+_imports_: 1.204 million metric tons (2022 est.)<br>
+_proven reserves_: 2 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 2.026 million bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 215,900 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 1,242,500 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 66,300 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 8,122,200,000 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-371,600 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-432,800 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-135,300 bbl/day (2017 est.)<br>
+_total petroleum production_: 2.02 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 229,000 bbl/day (2023 est.)<br>
+_crude oil estimated reserves_: 8.122 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 112,052,523,000 cubic meters (2020 est.)<br>
-_consumption_: 3,980,351,000 cubic meters (2020 est.)<br>
-_exports_: 107,337,690,000 cubic meters (2020 est.)<br>
-_imports_: 32.196 million cubic meters (2020 est.)<br>
-_proven reserves_: 1,544,455,000,000 cubic meters (2021 est.)<br>
+_production_: 123.727 billion cubic meters (2022 est.)<br>
+_consumption_: 4.548 billion cubic meters (2022 est.)<br>
+_exports_: 121.285 billion cubic meters (2022 est.)<br>
+_imports_: 67.96 million cubic meters (2022 est.)<br>
+_proven reserves_: 1.544 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 36.731 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 3.182 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 25.256 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 8.294 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 38.928 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 3.231 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 26.72 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 8.977 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 333.833 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 201.034 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -714,7 +700,7 @@ the military's inventory includes a mix of modern, imported European, US, and do
 up to 200 Lithuania (NATO); Norway also has deployed air and naval assets in support of other NATO operations such as the Iceland Air Policing and the Mine Counter Measures Group missions&nbsp; (2024)<br>
 
 **Military - note**<br>
-the Norwegian Armed Forces (Forsvaret) are responsible for protecting Norway and its allies, including monitoring Norway’s airspace, digital, land, and maritime areas, maintaining the country’s borders and sovereignty, contributing to NATO and UN missions, and providing support to civil society, such as assisting the police, search and rescue, and maritime counterterrorism efforts; the military’s territorial and sovereignty defense missions are complicated by Norway’s vast sea areas, numerous islands, long and winding fjords, and difficult and mountainous terrain; a key area of focus is its far northern border with Russia<br><br>Norway is one of the original members of NATO, and the Alliance is a key component of Norway’s defense policy; the Forsvaret participates regularly in NATO exercises, missions, and operations, including air policing of NATO territory, NATO’s Enhanced Forward Presence mission in the Baltic States and Eastern Europe, and standing naval missions, as well as operations in non-NATO areas, such as the Middle East; the Forsvaret also cooperates closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO; established 2009), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; Norway contributes to the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies both in peacetime and in times of crisis or conflict with a focus on the High North, North Atlantic, and Baltic Sea regions; the Forsvaret participates in UN missions in such areas as Africa and the Middle East; Norway has close military ties with the US, including rotational US military deployments and an agreement allowing for mutual defense activities and US military forces to access some Norwegian facilities <br><br>the Forsvaret is a compact and mixed force of conscripts and professionals that trains regularly and is equipped with modern weapons systems; its origins go back to the leidangen, defense forces which were established along the coastline in the 10th century to protect the Norwegian coast; the Army was created in 1628; its principal combat forces are a mechanized infantry brigade, plus a special operations commando (group); the Finnmark Land Command safeguards Norway's northernmost land territories and the land border with Russia; the Army is supplemented by the Home Guard (Heimevernet or HV), a reserve mobilization and national emergency force consisting of some 40,000 part-time soldiers spread over 11 districts where they have territorial responsibility for protecting key civilian and military installations and may assist civil authorities during natural disasters and search and rescue operations; the HV includes several rapid-reaction intervention task forces<br><br>the Navy is comprised of the fleet, the Coast Guard, and several bases; the fleet has a small mix of frigates, corvettes, and attack submarines, as well as mine warfare vessels; it also has a special operations group and the Coastal Hunter Command (Kystjegerkommandoen), which monitors coastal seas and land; the Air Force has about 60 US-made combat aircraft and is slated to have a new fully operational fleet of US F-35 stealth multirole fighters by 2025 (2024)<br>
+the Norwegian Armed Forces (Forsvaret) are responsible for protecting Norway and its allies, including monitoring Norway’s airspace, digital, land, and maritime areas, maintaining the country’s borders and sovereignty, contributing to NATO and UN missions, and providing support to civil society, such as assisting the police, search and rescue, and maritime counterterrorism efforts; the military’s territorial and sovereignty defense missions are complicated by Norway’s vast sea areas, numerous islands, long and winding fjords, and difficult and mountainous terrain; a key area of emphasis is its far northern border with Russia<br><br>Norway is one of the original members of NATO, and the Alliance is a key component of Norway’s defense policy; the Forsvaret participates regularly in NATO exercises, missions, and operations, including air policing of NATO territory, NATO’s Enhanced Forward Presence mission in the Baltic States and Eastern Europe, and standing naval missions, as well as operations in non-NATO areas, such as the Middle East; the Forsvaret also cooperates closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO; established 2009), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; Norway contributes to the UK-led Joint Expeditionary Force, a pool of high-readiness military forces from 10 Baltic and Scandinavian countries designed to respond to a wide range of contingencies both in peacetime and in times of crisis or conflict with a focus on the High North, North Atlantic, and Baltic Sea regions; the Forsvaret participates in UN missions in such areas as Africa and the Middle East; Norway has close military ties with the US, including rotational US military deployments and an agreement allowing for mutual defense activities and US military forces to access some Norwegian facilities<br><br>the Forsvaret's origins go back to the leidangen, defense forces which were established along the coastline in the 10th century to protect the Norwegian coast (2024)<br>
 
 ## Space
 

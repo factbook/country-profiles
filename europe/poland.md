@@ -571,63 +571,49 @@ _Currency_: zlotych (PLN) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 47.269 million kW (2020 est.)<br>
-_consumption_: 149.203 billion kWh (2020 est.)<br>
-_exports_: 7.357 billion kWh (2020 est.)<br>
-_imports_: 20.624 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 9.995 billion kWh (2020 est.)<br>
+_installed generating capacity_: 58.719 million kW (2022 est.)<br>
+_consumption_: 156.869 billion kWh (2022 est.)<br>
+_exports_: 16.915 billion kWh (2022 est.)<br>
+_imports_: 15.238 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 8.659 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 79.8% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 1.4% of total installed capacity (2020 est.)<br>
-_wind_: 10.8% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 2% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 78.4% of total installed capacity (2022 est.)<br>
+_solar_: 4.9% of total installed capacity (2022 est.)<br>
+_wind_: 11% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 0.8% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 4.9% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 108.152 million metric tons (2020 est.)<br>
-_consumption_: 110.674 million metric tons (2020 est.)<br>
-_exports_: 11.063 million metric tons (2020 est.)<br>
-_imports_: 13.281 million metric tons (2020 est.)<br>
-_proven reserves_: 26.932 billion metric tons (2019 est.)<br>
+_production_: 116.682 million metric tons (2022 est.)<br>
+_consumption_: 123.782 million metric tons (2022 est.)<br>
+_exports_: 12.047 million metric tons (2022 est.)<br>
+_imports_: 13.347 million metric tons (2022 est.)<br>
+_proven reserves_: 28.531 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 28,400 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 697,700 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 6,000 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 542,100 bbl/day (2018 est.)<br>
+_total petroleum production_: 24,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 722,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 113 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-554,200 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-104,800 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-222,300 bbl/day (2017 est.)<br>
-
 **Natural gas**<br>
-_production_: 5.667 billion cubic meters (2020 est.)<br>
-_consumption_: 21.464 billion cubic meters (2020 est.)<br>
-_exports_: 704.975 million cubic meters (2019 est.)<br>
-_imports_: 16.633 billion cubic meters (2020 est.)<br>
+_production_: 5.551 billion cubic meters (2022 est.)<br>
+_consumption_: 20.056 billion cubic meters (2022 est.)<br>
+_exports_: 587.771 million cubic meters (2022 est.)<br>
+_imports_: 14.42 billion cubic meters (2022 est.)<br>
 _proven reserves_: 91.492 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 304.04 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 176.938 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 89.944 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 37.158 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 293.356 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 163.359 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 94.138 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 35.86 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 112.831 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 106.196 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -640,8 +626,8 @@ _total subscriptions_: 52.589 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 132 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the liberalized telecom market has seen considerable development in the broadband and mobile sectors; the regulatory environment has encouraged market competition, partly by encouraging operators to secure spectrum and also by ensuring access to cable and fiber infrastructure; the mobile market in recent years has been characterized by the rapid extension of LTE and 5G networks, and the development of mobile data services based on newly released and re-farmed spectrum; the regulator&rsquo;s attempts to auction spectrum in a range of bands has been delayed, with spectrum in the 5G-suitable 3.4-3.8GHz range having been put back to later in 2023 as a result of the Covid-19 outbreak and changes to legislation (2021)<br>
-_domestic_: fixed-line is 14 per 100 (service lags in rural areas), mobile-cellular is 132 per 100 persons (2021)<br>
+_general assessment_: the liberalized telecom market has seen considerable development in the broadband and mobile sectors; the regulatory environment has encouraged market competition, partly by encouraging operators to secure spectrum and also by ensuring access to cable and fiber infrastructure; the mobile market in recent years has been characterized by the rapid extension of LTE and 5G networks, and the development of mobile data services based on newly released and re-farmed spectrum; the regulator&rsquo;s attempts to auction spectrum in a range of bands has been delayed, with spectrum in the 5G-suitable 3.4-3.8GHz range having been put back to later in 2023 as a result of the Covid-19 outbreak and changes to legislation (2024)<br>
+_domestic_: fixed-line is 13 per 100 (service lags in rural areas), mobile-cellular is 132 per 100 persons (2022)<br>
 _international_: country code - 48; landing points for the Baltica and the Denmark-Poland2 submarine cables connecting Poland, Denmark and Sweden; international direct dialing with automated exchanges; satellite earth station - 1 with access to Intelsat, Eutelsat, Inmarsat, and Intersputnik (2019)<br>
 
 **Broadcast media**<br>
@@ -729,7 +715,7 @@ the military's inventory consists of a mix of some Soviet-era and a growing amou
 <strong>note 1: </strong>Poland has obligated about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units; units affiliated with the multinational brigade remain within the structures of the armed forces of their respective countries until the brigade is activated for participation in an international operation<br>
 
 **Military - note**<br>
-Poland’s geographic location on NATO’s eastern flank and its history of foreign invasion underpin the Polish military’s heavy focus on territorial and border defense and supporting its NATO and EU security commitments; its chief concern is Russian aggression, particularly following Moscow’s seizure of Crimea in 2014 and full-scale invasion of neighboring Ukraine in 2022, which has led to increased defense spending and modernization efforts, as well as efforts to boost the NATO and US military presence in Poland; since 2014, Poland has been hosting several NATO military formations designed to enhance the defense of Poland and NATO’s eastern flank, including a US-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative, NATO fighter detachments at Malbork Air Base, a NATO-led divisional headquarters (Multinational Division Northeast), which coordinates training and preparation activities of its respective subordinate battlegroups in Poland and Lithuania, and a corps-level NATO field headquarters (Multinational Corps Northeast); since 2022, the US has established a permanent corps headquarters in Poland to command US rotational forces in Europe; Poland also participates in a variety of EU and NATO military deployments in Africa, the Baltic States, Southern Europe, and the Middle East; Poland provided considerable support to the NATO mission in Afghanistan, where more than 30,000 military personnel served over a 20-year period before the mission ended in 2021<br><br>the Polish military is organized into a General Staff, an Armed Forces General Command, an Armed Forces Operational Command, Territorial Defense Forces (established 2017), Military Police, and the Warsaw Garrison Command; the Army is comprised of several armored cavalry and mechanized infantry divisions, which are complemented by independent airborne, air mobile, and aviation brigades, as well as armored reconnaissance and artillery regiments ; the active forces are backed up by the Territorial Defense Forces, which have nearly 20 light infantry brigades manned by part-time reserve personnel; the Navy is a compact force for defending Poland's territorial waters, coastline, and its interests abroad, as well as providing support to NATO missions; its principal warships are two frigates, two corvettes, three attack submarines, and a few fast-attack craft; it also has a considerable force of mine warfare vessels, as well as a naval aviation brigade focused on anti-submarine warfare and maritime patrolling; the Air Force has a mix of about 80 Soviet-era and more modern US fighter aircraft; it has more advanced US (F-35s) and South Korean (FA-50s) on order to replace its Soviet-era inventory beginning in 2024; Poland also has a joint special forces command with air, ground, and maritime components (2023)<br>
+Poland’s geographic location on NATO’s eastern flank and its history of foreign invasion underpin the Polish military’s heavy focus on territorial and border defense and supporting its NATO and EU security commitments; its chief concern is Russian aggression, particularly following Moscow’s seizure of Crimea in 2014 and full-scale invasion of neighboring Ukraine in 2022, which has led to increased defense spending and modernization efforts, as well as efforts to boost the NATO and US military presence in Poland<br><br>since 2014, Poland has been hosting several NATO military formations designed to enhance the defense of Poland and NATO’s eastern flank, including a US-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative, NATO fighter detachments at Malbork Air Base, a NATO-led divisional headquarters (Multinational Division Northeast), which coordinates training and preparation activities of its respective subordinate battlegroups in Poland and Lithuania, and a corps-level NATO field headquarters (Multinational Corps Northeast); since 2022, the US has established a permanent corps headquarters in Poland to command US rotational forces in Europe; Poland also participates in a variety of EU and NATO military deployments in Africa, the Baltic States, Southern Europe, and the Middle East; Poland provided considerable support to the NATO mission in Afghanistan, where more than 30,000 military personnel served over a 20-year period before the mission ended in 2021 (2023)<br>
 
 ## Space
 

@@ -575,66 +575,49 @@ _Currency_: kyats (MMK) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 26 million (2020)<br>
-_electrification - total population_: 72.4% (2021)<br>
-_electrification - urban areas_: 93.6% (2021)<br>
-_electrification - rural areas_: 62.7% (2021)<br>
+_electrification - total population_: 73.7% (2022 est.)<br>
+_electrification - urban areas_: 93.9%<br>
+_electrification - rural areas_: 62.8%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 7.247 million kW (2020 est.)<br>
-_consumption_: 20,474,380,000 kWh (2019 est.)<br>
-_exports_: 1.002 billion kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 3.405 billion kWh (2019 est.)<br>
+_installed generating capacity_: 6.993 million kW (2022 est.)<br>
+_consumption_: 15.473 billion kWh (2022 est.)<br>
+_exports_: 1.317 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 3.591 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 52.6% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.1% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 47.3% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 50.6% of total installed capacity (2022 est.)<br>
+_solar_: 0.5% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 47.6% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 1.3% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 1.468 million metric tons (2020 est.)<br>
-_consumption_: 1.981 million metric tons (2020 est.)<br>
-_exports_: 1,000 metric tons (2020 est.)<br>
-_imports_: 514,000 metric tons (2020 est.)<br>
-_proven reserves_: 6 million metric tons (2019 est.)<br>
+_production_: 1.268 million metric tons (2022 est.)<br>
+_consumption_: 1.453 million metric tons (2022 est.)<br>
+_exports_: 89,000 metric tons (2022 est.)<br>
+_imports_: 305,000 metric tons (2022 est.)<br>
+_proven reserves_: 252 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 7,800 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 146,200 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 4,700 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
+_total petroleum production_: 7,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 148,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 139 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-13,330 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-102,600 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 17,710,912,000 cubic meters (2019 est.)<br>
-_consumption_: 3,612,431,000 cubic meters (2019 est.)<br>
-_exports_: 14,188,161,000 cubic meters (2019 est.)<br>
-_imports_: 475.156 million cubic meters (2020 est.)<br>
-_proven reserves_: 637.128 billion cubic meters (2021 est.)<br>
+_production_: 16.78 billion cubic meters (2022 est.)<br>
+_consumption_: 3.788 billion cubic meters (2022 est.)<br>
+_exports_: 13.099 billion cubic meters (2022 est.)<br>
+_imports_: 219.822 million cubic meters (2021 est.)<br>
+_proven reserves_: 637.129 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 31.848 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 3.881 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 20.832 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 7.134 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 31.347 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 2.693 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 21.174 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 7.48 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 10.679 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 9.244 million Btu/person (2022 est.)<br>
 
 ## Communications
 

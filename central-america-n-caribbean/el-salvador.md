@@ -552,66 +552,42 @@ the US dollar is used as a medium of exchange and circulates freely in the econo
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) less than 1 million<br>
-_electrification - total population_: 97.8% (2021)<br>
-_electrification - urban areas_: 99.2% (2021)<br>
-_electrification - rural areas_: 94% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 2.586 million kW (2020 est.)<br>
-_consumption_: 6,443,200,000 kWh (2019 est.)<br>
-_exports_: 158 million kWh (2019 est.)<br>
-_imports_: 1.45 billion kWh (2019 est.)<br>
-_transmission/distribution losses_: 795.8 million kWh (2019 est.)<br>
+_installed generating capacity_: 2.853 million kW (2022 est.)<br>
+_consumption_: 6.666 billion kWh (2022 est.)<br>
+_exports_: 85.75 million kWh (2022 est.)<br>
+_imports_: 1.351 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 953.156 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 28.2% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 7.5% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 30% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 22.2% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 12.1% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 9.1% of total installed capacity (2022 est.)<br>
+_solar_: 16.2% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 35.6% of total installed capacity (2022 est.)<br>
+_geothermal_: 24.8% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 14.3% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 1,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 1,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 500 metric tons (2022 est.)<br>
+_imports_: 2,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 59,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-347 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-49,280 bbl/day (2015 est.)<br>
+_total petroleum production_: 3 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 58,000 bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_consumption_: 226.472 million cubic meters (2022 est.)<br>
+_imports_: 226.472 million cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 7.632 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 2,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 7.63 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 8.256 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 1,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 7.814 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 441,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 24.124 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 23.672 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -711,9 +687,6 @@ the Armed Force of El Salvador (FAES) is responsible for defending national sove
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 52,000 (2022)<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; El Salvador does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; El Salvador hired more police and prosecutors in specialized anti-trafficking units and provided awareness training for Salvadorans participating in temporary work programs abroad; however, the government did not demonstrate overall increasing efforts, compared with the previous year, to improve its anti-trafficking capacity; the government investigated, prosecuted, and convicted fewer traffickers; less than half of all victims received government services or referrals to care providers, and services provided were inadequate; the government arrested and detained thousands of suspected gang members, disabling criminal networks that fueled demand for sex and labor trafficking, but authorities arrested and detained children affiliated with gangs without screening for trafficking indicators; interagency coordination remained weak, government data was unreliable, and the national anti-trafficking council did not reconcile the data or publish a report on the government&rsquo;s 2022 efforts; therefore, El Salvador remained on Tier 2 Watch list (2023)<br>
 
 **Illicit drugs**<br>
 <p>a transit country for illicit drugs destined for the United States;  a major source of precursor or essential chemicals used in the production of illicit narcotics</p> <p> </p><br>

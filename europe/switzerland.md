@@ -567,71 +567,50 @@ _Currency_: Swiss francs (CHF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 22.921 million kW (2020 est.)<br>
-_consumption_: 56.407 billion kWh (2020 est.)<br>
-_exports_: 32.549 billion kWh (2020 est.)<br>
-_imports_: 26.988 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 4.19 billion kWh (2020 est.)<br>
+_installed generating capacity_: 24.014 million kW (2022 est.)<br>
+_consumption_: 57.187 billion kWh (2022 est.)<br>
+_exports_: 29.881 billion kWh (2022 est.)<br>
+_imports_: 33.02 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 4.678 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 0.8% of total installed capacity (2020 est.)<br>
-_nuclear_: 34.2% of total installed capacity (2020 est.)<br>
-_solar_: 3.8% of total installed capacity (2020 est.)<br>
-_wind_: 0.2% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 56.3% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 4.7% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 0.9% of total installed capacity (2022 est.)<br>
+_nuclear_: 39.4% of total installed capacity (2022 est.)<br>
+_solar_: 6.5% of total installed capacity (2022 est.)<br>
+_wind_: 0.3% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 48% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 5% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 4 (2023)<br>
-_Number of nuclear reactors under construction_: 0<br>
-_Net capacity of operational nuclear reactors_: 2.97GW (2023)<br>
-_Percent of total electricity production_: 28.8% (2021)<br>
-_Percent of total energy produced_: 34.2% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 1<br>
+_Net capacity of operational nuclear reactors_: 2.97GW (2023 est.)<br>
+_Percent of total electricity production_: 32.4% (2023 est.)<br>
+_Number of nuclear reactors permanently shut down_: 2 (2023)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 150,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 139,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 161,000 metric tons (2022 est.)<br>
+_exports_: 3.3 metric tons (2022 est.)<br>
+_imports_: 184,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 300 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 220,000 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 60,900 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-61,550 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-7,345 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-165,100 bbl/day (2017 est.)<br>
+_total petroleum production_: 300 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 193,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 3,616,169,000 cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 3,577,884,000 cubic meters (2019 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_consumption_: 3.138 billion cubic meters (2022 est.)<br>
+_imports_: 3.099 billion cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 38.739 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 319,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 31.494 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 6.926 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 33.609 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 268,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 27.331 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 6.009 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 137.918 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 101.938 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -722,7 +701,7 @@ the military's inventory includes a mix of domestically produced and imported we
 175 Kosovo (NATO/KFOR) (2024)<br>
 
 **Military - note**<br>
-the Swiss military is responsible for territorial defense, limited support to international disaster response and peacekeeping, and providing support to civil authorities when their resources are not sufficient to ward off threats to internal security or provide sufficient relief during disasters; Switzerland has long maintained a policy of military neutrality but does periodically participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military and peacekeeping operations; however, Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO’s Partnership for Peace program in 1996; it contributed to the NATO-led Kosovo force (KFOR) in 1999 and, as of 2024, continued doing so with up to 195 personnel<br><br>the military is comprised of conscripts, militia, and a small professional component; it is led by the Chief of the Armed Forces with an Armed Forces Staff and consists of a Joint Operations Command (JOC), an Armed Forces Logistics Organization, an Armed Forces Command Support Organization, and a Training and Education Command; the JOC controls, among other subordinate commands, the Air Force, the Land Forces, four territorial divisions, the Military Police Command, and the Special Forces Command; the primary combat forces of the Army/Land Forces are three mechanized brigades, plus additional reserve brigades of armor, infantry, and mountain infantry forces; the four territorial divisions link the Army with the cantons; the Air Force is responsible for airspace protection (air sovereignty and air defense, including ground-based air defense), air transport, and airborne intelligence; it has about 50 US-origin multirole fighter aircraft (2024)<br>
+the Swiss military is responsible for territorial defense, limited support to international disaster response and peacekeeping, and providing support to civil authorities when their resources are not sufficient to ward off threats to internal security or provide sufficient relief during disasters; Switzerland has long maintained a policy of military neutrality but does periodically participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military and peacekeeping operations; however, Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO’s Partnership for Peace program in 1996; it has contributed to the NATO-led force in Kosovo (KFOR) since 1999<br><br>the military is comprised of conscripts, militia, and a small professional component; it is led by the Chief of the Armed Forces with an Armed Forces Staff and consists of a Joint Operations Command (JOC), an Armed Forces Logistics Organization, an Armed Forces Command Support Organization, and a Training and Education Command; the JOC controls, among other subordinate commands, the Air Force, the Land Forces, four territorial divisions, the Military Police Command, and the Special Forces Command (2024)<br>
 
 ## Terrorism
 

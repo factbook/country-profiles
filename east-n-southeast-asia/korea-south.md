@@ -552,70 +552,55 @@ _Currency_: South Korean won (KRW) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 135.789 million kW (2020 est.)<br>
-_consumption_: 531.258 billion kWh (2020 est.)<br>
-_exports_: 0 kWh (2020 est.)<br>
-_imports_: 0 kWh (2020 est.)<br>
-_transmission/distribution losses_: 18.61 billion kWh (2020 est.)<br>
+_installed generating capacity_: 146.539 million kW (2022 est.)<br>
+_consumption_: 586.766 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 19.994 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 64.8% of total installed capacity (2020 est.)<br>
-_nuclear_: 27.7% of total installed capacity (2020 est.)<br>
-_solar_: 3.3% of total installed capacity (2020 est.)<br>
-_wind_: 0.6% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 1.3% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0.7% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1.7% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 65.1% of total installed capacity (2022 est.)<br>
+_nuclear_: 27.6% of total installed capacity (2022 est.)<br>
+_solar_: 4.6% of total installed capacity (2022 est.)<br>
+_wind_: 0.6% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 0.4% of total installed capacity (2022 est.)<br>
+_tide and wave_: 0.1% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 1.7% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 25 (2023)<br>
-_Number of nuclear reactors under construction_: 3<br>
-_Net capacity of operational nuclear reactors_: 24.49GW (2021)<br>
-_Percent of total electricity production_: 27.4% (2021)<br>
-_Percent of total energy produced_: 76.5% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 2<br>
+_Number of operational nuclear reactors_: 26 (2023)<br>
+_Number of nuclear reactors under construction_: 2 (2023)<br>
+_Net capacity of operational nuclear reactors_: 25.83GW (2023 est.)<br>
+_Percent of total electricity production_: 31.5% (2023 est.)<br>
+_Number of nuclear reactors permanently shut down_: 2 (2023)<br>
 
 **Coal**<br>
-_production_: 16.364 million metric tons (2020 est.)<br>
-_consumption_: 140.579 million metric tons (2020 est.)<br>
-_exports_: 16,000 metric tons (2020 est.)<br>
-_imports_: 123.784 million metric tons (2020 est.)<br>
-_proven reserves_: 326 million metric tons (2019 est.)<br>
+_production_: 15.595 million metric tons (2022 est.)<br>
+_consumption_: 136.413 million metric tons (2022 est.)<br>
+_exports_: 29,000 metric tons (2022 est.)<br>
+_imports_: 121.272 million metric tons (2022 est.)<br>
+_proven reserves_: 326 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 37,400 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 2,598,700 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 3,034,400 bbl/day (2018 est.)<br>
-
-**Refined petroleum products - production**<br>
-3.302 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-1.396 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-908,800 bbl/day (2017 est.)<br>
+_total petroleum production_: 38,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 2.452 million bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
-_production_: 240.042 million cubic meters (2019 est.)<br>
-_consumption_: 53,419,105,000 cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2019 est.)<br>
-_imports_: 55,417,677,000 cubic meters (2019 est.)<br>
+_production_: 55.127 million cubic meters (2021 est.)<br>
+_consumption_: 59.48 billion cubic meters (2022 est.)<br>
+_exports_: 93.639 million cubic meters (2022 est.)<br>
+_imports_: 62.622 billion cubic meters (2022 est.)<br>
 _proven reserves_: 7.079 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 686.954 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 319.383 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 255.518 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 112.052 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 643.456 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 268.556 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 250.135 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 124.765 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 242.346 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 235.518 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -718,7 +703,7 @@ the South Korean military is equipped with a mix of domestically produced and im
 250 Lebanon (UNIFIL); 275 South Sudan (UNMISS); 170 United Arab Emirates; note - since 2009, South Korea has kept a naval flotilla with approximately 300 personnel in the waters off of the Horn of Africa and the Arabian Peninsula (2024)<br>
 
 **Military - note**<br>
-the South Korean military is primarily focused on the threat from North Korea but also deploys abroad for multinational missions, including peacekeeping and other security operations; it also participates in bilateral and multinational exercises<br><br>South Korea's primary defense partner is the US, and the 1953 US-South Korea Mutual Defense Treaty is a cornerstone of South Korea’s security; the Treaty committed the US to provide assistance in the event of an attack, particularly from North Korea; in addition, the Treaty gave the US permission to station land, air, and sea forces in and about the territory of South Korea as determined by mutual agreement; the US maintains approximately 28,000 military personnel in the country and conducts bilateral exercises with the South Korean military; South Korea has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; the South Korean military has assisted the US in conflicts in Afghanistan (5,000 troops; 2001-2014), Iraq (20,000 troops; 2003-2008), and Vietnam (325,000 troops; 1964-1973)<br><br>in 2016, South Korea concluded an agreement with the EU for participation in EU Common Security and Defense Policy (CSDP) missions and operations, such as the EU Naval Force Somalia – Operation Atalanta, which protects maritime shipping and conducts counter-piracy operations off the coast of East Africa<br><br>South Korea has been engaged with NATO through dialogue and security cooperation since 2005 and is considered by NATO to be a global partner; in 2022, South Korea established its Mission to NATO to further institutionalize its cooperative relationship; it has participated in NATO-led missions and exercises, including leading an integrated civilian-military reconstruction team in Afghanistan as part of the NATO-led International Security Assistance Force, 2010-2013; it has also cooperated with NATO in countering the threat of piracy in the Gulf of Aden by providing naval vessels as escorts<br><br>in addition to the invasion of South Korea and the subsequent Korean War (1950-53), North Korea from the 1960s to the 1980s launched a considerable number of limited military and subversive actions against South Korea using special forces and terrorist tactics; including aggressive skirmishes along the DMZ, overt attempts to assassinate South Korean leaders, kidnappings, the bombing of an airliner, and a failed effort in 1968 to foment an insurrection and conduct a guerrilla war in the South with more than 100 seaborne commandos; from the 1990s until 2010, the North lost two submarines and a semi-submersible boat attempting to insert infiltrators into the South (1996, 1998) and provoked several engagements in the Northwest Islands area along the disputed Northern Limit Line (NLL), including naval skirmishes between patrol boats in 1999 and 2002, the torpedoing and sinking of a South Korean corvette, the <em>Cheonan</em>, in 2010, and the bombardment of a South Korean Marine Corps installation on Yeonpyeong Island, also in 2010; since 2010, further minor incidents continue to occur periodically along the DMZ, where both the North and the South Korean militaries maintain large numbers of troops<br><br>the South Korean Army is organized into commands for aviation, ballistic and cruise missile operations, capital defense, ground operations, air and missile defense, and rear area defense operations; the Ground Operations Command has six corps and most of the Army’s ground combat power, which includes 21 combined arms infantry divisions, several of which are mechanized, and about 20 independent armored, artillery, air assault, aviation, and special operations brigades; the active ground forces are backed up by a large reserve force made up of former active duty soldiers<br><br>the Navy is a modern force that conducts both coastal and blue water operations; it has three numbered fleets, each assigned to the seas east, west, and south of the country; it also has a submarine command, surface flotillas for specialized missions such as mine warfare and amphibious operations, an aviation wing, a special warfare force, and South Korea’s Marine Corps, which is one of the largest in the World and functions as a rapid reaction, strategic reserve, and island defense force; the Navy’s principal warships include more than 25 destroyers and frigates, two landing platform helicopter (LPH) amphibious assault ships, and about 20 attack-type submarines, complemented by a large force of corvettes and coastal patrol vessels<br><br>the South Korean Air Force has a largely modern inventory of more than 800 fixed and rotary wing aircraft, including over 500 fighter and multirole fighter aircraft; it is organized into commands for air combat and air mobility/reconnaissance with subordinate wings and squadrons; the Air Force also has commands for ground based air defense (2023)<br>
+the South Korean military is primarily focused on the threat from North Korea but also deploys abroad for multinational missions, including peacekeeping and other security operations; it also participates in bilateral and multinational exercises<br><br>South Korea's primary defense partner is the US, and the 1953 US-South Korea Mutual Defense Treaty is a cornerstone of the country's national security; the Treaty committed the US to provide assistance in the event of an attack; in addition, the Treaty gave the US permission to station land, air, and sea forces in and about the territory of South Korea as determined by mutual agreement; the US maintains approximately 28,000 military personnel in the country and conducts bilateral exercises with the South Korean military; South Korea has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; the South Korean military has assisted the US in conflicts in Afghanistan (5,000 troops; 2001-2014), Iraq (20,000 troops; 2003-2008), and Vietnam (325,000 troops; 1964-1973)<br><br>in 2016, South Korea concluded an agreement with the EU for participation in EU Common Security and Defense Policy (CSDP) missions and operations, such as the EU Naval Force Somalia – Operation Atalanta, which protects maritime shipping and conducts counter-piracy operations off the coast of East Africa<br><br>South Korea has been engaged with NATO through dialogue and security cooperation since 2005 and is considered by NATO to be a global partner; in 2022, South Korea established its Mission to NATO to further institutionalize its cooperative relationship; it has participated in NATO-led missions and exercises, including leading an integrated civilian-military reconstruction team in Afghanistan as part of the NATO-led International Security Assistance Force, 2010-2013; it has also cooperated with NATO in countering the threat of piracy in the Gulf of Aden by providing naval vessels as escorts<br><br>in addition to the invasion of South Korea and the subsequent Korean War (1950-53), North Korea from the 1960s to the 1980s launched a considerable number of limited military and subversive actions against South Korea using special forces and terrorist tactics; including aggressive skirmishes along the DMZ, overt attempts to assassinate South Korean leaders, kidnappings, the bombing of an airliner, and a failed effort in 1968 to foment an insurrection and conduct a guerrilla war in the South with more than 100 seaborne commandos; from the 1990s until 2010, the North lost two submarines and a semi-submersible boat attempting to insert infiltrators into the South (1996, 1998) and provoked several engagements in the Northwest Islands area along the disputed Northern Limit Line (NLL), including naval skirmishes between patrol boats in 1999 and 2002, the torpedoing and sinking of a South Korean corvette, the <em>Cheonan</em>, in 2010, and the bombardment of a South Korean Marine Corps installation on Yeonpyeong Island, also in 2010; since 2010, further minor incidents continue to occur periodically along the DMZ, where both the North and the South Korean militaries maintain large numbers of troops (2023)<br>
 
 ## Space
 

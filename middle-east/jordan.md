@@ -566,66 +566,48 @@ _Currency_: Jordanian dinars (JOD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) less than 1 million<br>
-_electrification - total population_: 99.9% (2021)<br>
-_electrification - urban areas_: 100% (2021)<br>
-_electrification - rural areas_: 98.8% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
+_electrification - urban areas_: 100%<br>
+_electrification - rural areas_: 98.9%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 5.644 million kW (2020 est.)<br>
-_consumption_: 17.366 billion kWh (2019 est.)<br>
-_exports_: 98 million kWh (2019 est.)<br>
-_imports_: 239 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 2.249 billion kWh (2019 est.)<br>
+_installed generating capacity_: 6.805 million kW (2022 est.)<br>
+_consumption_: 19.679 billion kWh (2022 est.)<br>
+_exports_: 177.332 million kWh (2022 est.)<br>
+_imports_: 389.867 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 2.4 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 83.5% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 11.7% of total installed capacity (2020 est.)<br>
-_wind_: 4.6% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0.2% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 77.1% of total installed capacity (2022 est.)<br>
+_solar_: 15.4% of total installed capacity (2022 est.)<br>
+_wind_: 7.4% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 0.1% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 219,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 219,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 479,000 metric tons (2022 est.)<br>
+_exports_: (2022 est.) less than 1 metric ton<br>
+_imports_: 297,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 114,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 47,400 bbl/day (2018 est.)<br>
+_total petroleum production_: 20 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 97,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 1 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-67,240 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-68,460 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 115.872 million cubic meters (2019 est.)<br>
-_consumption_: 4.651 billion cubic meters (2019 est.)<br>
-_exports_: 375.849 million cubic meters (2019 est.)<br>
-_imports_: 4.911 billion cubic meters (2019 est.)<br>
+_production_: 187.262 million cubic meters (2022 est.)<br>
+_consumption_: 4.382 billion cubic meters (2022 est.)<br>
+_exports_: 375.998 million cubic meters (2018 est.)<br>
+_imports_: 4.255 billion cubic meters (2022 est.)<br>
 _proven reserves_: 6.031 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 23.47 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 381,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 15.786 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 7.303 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 21.261 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 1.124 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 13.256 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 6.881 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 39.331 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 30.906 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -724,7 +706,7 @@ the JAF inventory is comprised of a wide mix of imported equipment from Europe, 
 Jordan has about 200 police deployed to the MONUSCO mission in the Democratic Republic of the Congo (2024)<br>
 
 **Military - note**<br>
-the JAF traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s; it is responsible for territorial defense and border security, but also has a supporting role for internal security; the JAF’s primary concerns are terrorist and criminal threats emanating from its 230-mile border with Syria and 112-mile border with Iraq, as well as the potential impact of Israeli-Palestinian tensions; the terrorist group Hizballah and Iranian-backed militia forces operate in southwestern Syria near Jordan’s border while fighters from the Islamic State of Iraq and ash-Sham (ISIS) terrorist group continue to operate in both Iraq and Syria; ISIS fighters have included Jordanian nationals, some of whom have returned to Jordan; meanwhile, individuals and groups sympathetic to Palestine have planned and conducted terrorist attacks in Jordan<br><br>the JAF participates in both bilateral and multinational exercises and has taken part in regional military operations alongside allied forces in Afghanistan, Syria, and Yemen; in recent years, it has contributed to regional military operations alongside allied forces in Afghanistan, Syria, and Yemen; it also participates in UN peacekeeping missions; the Army is organized and equipped for a mobile territorial defense against conventional threats and rapid responses to unconventional threats such as terrorism; border security forces are backed up by approximately 10 mechanized or armored brigades, plus a rapid reaction/high readiness airborne/ranger brigade; the Army also has a well-regarded special operations/counterterrorism group, and Jordan hosts an international special operations training center; the Air Force maintains about 50 US-made multirole fighter aircraft and dozens of attack helicopters; the Navy is a coastal defense force with some fast, gun- or missile-armed patrol craft for monitoring Jordan’s coastline on the Gulf of Aqaba<br><br>the US is a key security partner, and Jordan is one of the largest recipients of US military aid in the region; it cooperates with the US on a number of issues, including border and maritime security, arms transfers, cybersecurity, and counterterrorism; Jordan has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
+the JAF traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s; it is responsible for territorial defense and border security, but also has a supporting role for internal security; the JAF participates in both bilateral and multinational exercises, UN peacekeeping missions, and has taken part in regional military operations alongside allied forces in Afghanistan, Syria, and Yemen<br><br>the JAF’s primary concerns are terrorist and criminal threats emanating from its 230-mile border with Syria and 112-mile border with Iraq, as well as the potential impact of Israeli-Palestinian tensions; the terrorist group Hizballah and Iranian-backed militia forces operate in southwestern Syria near Jordan’s border while fighters from the Islamic State of Iraq and ash-Sham (ISIS) terrorist group continue to operate in both Iraq and Syria; ISIS fighters have included Jordanian nationals, some of whom have returned to Jordan; individuals and groups sympathetic to Palestine have planned and conducted terrorist attacks in Jordan<br><br>the US is a key security partner, and Jordan is one of the largest recipients of US military aid in the region; it cooperates with the US on a number of issues, including border and maritime security, arms transfers, cybersecurity, and counterterrorism; Jordan has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
 
 ## Terrorism
 

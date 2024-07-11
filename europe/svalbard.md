@@ -178,12 +178,6 @@ _Currency_: Norwegian kroner (NOK) per US dollar -<br>
 
 ## Energy
 
-**Refined petroleum products - exports**<br>
-4,488 bbl/day (2012 est.)<br>
-
-**Refined petroleum products - imports**<br>
-18,600 bbl/day (2012 est.)<br>
-
 ## Communications
 
 **Telecommunication systems**<br>

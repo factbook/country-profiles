@@ -559,63 +559,38 @@ _Currency_: kips (LAK) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 9.346 million kW (2020 est.)<br>
-_consumption_: 5,108,640,000 kWh (2019 est.)<br>
-_exports_: 24.114 billion kWh (2019 est.)<br>
-_imports_: 1.345 billion kWh (2019 est.)<br>
-_transmission/distribution losses_: 2.262 billion kWh (2019 est.)<br>
+_installed generating capacity_: 12.222 million kW (2022 est.)<br>
+_consumption_: 8.829 billion kWh (2022 est.)<br>
+_exports_: 35.113 billion kWh (2022 est.)<br>
+_imports_: 1.365 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 3.376 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 35.6% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.1% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 64.1% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.2% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 27% of total installed capacity (2022 est.)<br>
+_solar_: 0.1% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 72.7% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.2% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 16.04 million metric tons (2020 est.)<br>
-_consumption_: 15.823 million metric tons (2020 est.)<br>
-_exports_: 235,000 metric tons (2020 est.)<br>
-_imports_: 18,000 metric tons (2020 est.)<br>
-_proven reserves_: 503 million metric tons (2019 est.)<br>
+_production_: 14.845 million metric tons (2022 est.)<br>
+_consumption_: 13.691 million metric tons (2022 est.)<br>
+_exports_: 845,000 metric tons (2022 est.)<br>
+_imports_: 6,000 metric tons (2022 est.)<br>
+_proven reserves_: 62 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 19,300 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-17,460 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_refined petroleum consumption_: 24,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 40.726 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 37.871 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 2.855 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 20.151 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 16.499 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 3.652 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 73.187 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 29.176 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -702,7 +677,7 @@ the LPAF is armed largely with Soviet-era weapons; in recent years, China and Ru
 18 years of age for compulsory or voluntary military service; minimum 18-month service obligation (2023)<br>
 
 **Military - note**<br>
-the LPAF’s primary missions are border and internal security, including counterinsurgency and counterterrorism; the Army is organized into a few small divisions and independent regiments deployed around the country in four military regions; the Army is supported by a self-defense militia, which is estimated to be 100,000 strong; the small Air Force does not have any combat aircraft<br><br>Vietnam is the military's primary security partner, although in recent years, Laos has expanded defense ties with China and Russia (2023)<br>
+the LPAF&rsquo;s primary missions are border and internal security, including counterinsurgency and counterterrorism; Vietnam is the military's primary security partner, although in recent years, Laos has expanded defense ties with China and Russia (2023)<br>
 
 ## Transnational Issues
 

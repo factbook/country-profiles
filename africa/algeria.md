@@ -551,65 +551,45 @@ _Currency_: Algerian dinars (DZD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 99.8% (2021)<br>
-_electrification - urban areas_: 99.6% (2021)<br>
-_electrification - rural areas_: 99.2% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
+_electrification - urban areas_: 100%<br>
+_electrification - rural areas_: 99.3%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 21.694 million kW (2020 est.)<br>
-_consumption_: 66.646 billion kWh (2019 est.)<br>
-_exports_: 673 million kWh (2019 est.)<br>
-_imports_: 531 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 9.897 billion kWh (2019 est.)<br>
+_installed generating capacity_: 21.706 million kW (2022 est.)<br>
+_consumption_: 77.786 billion kWh (2022 est.)<br>
+_exports_: 1.529 billion kWh (2022 est.)<br>
+_imports_: 391.148 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 9.263 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 98.9% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.9% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0.1% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 99.2% of total installed capacity (2022 est.)<br>
+_solar_: 0.7% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 85,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 85,000 metric tons (2020 est.)<br>
-_proven reserves_: 59 million metric tons (2019 est.)<br>
+_consumption_: 167,000 metric tons (2022 est.)<br>
+_imports_: 168,000 metric tons (2022 est.)<br>
+_proven reserves_: 223 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 1,414,800 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 450,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 633,500 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 4,100 bbl/day (2018 est.)<br>
+_total petroleum production_: 1.443 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 428,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 12.2 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-627,900 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-578,800 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-82,930 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 87,853,976,000 cubic meters (2019 est.)<br>
-_consumption_: 46,945,035,000 cubic meters (2019 est.)<br>
-_exports_: 42,667,386,000 cubic meters (2019 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 4,503,900,000,000 cubic meters (2021 est.)<br>
+_production_: 100.726 billion cubic meters (2022 est.)<br>
+_consumption_: 47.963 billion cubic meters (2022 est.)<br>
+_exports_: 49.583 billion cubic meters (2022 est.)<br>
+_proven reserves_: 4.504 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 151.633 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 352,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 57.867 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 93.414 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 147.93 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 501,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 51.989 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 95.439 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 61.433 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 58.473 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -729,7 +709,7 @@ al-Qa'ida in the Islamic Maghreb (AQIM); Islamic State of Iraq and ash-Sham (ISI
 _refugees (country of origin)_: more than 100,000 (Sahrawi, mostly living in Algerian-sponsored camps in the southwestern Algerian town of Tindouf); 7,345 (Syria) (mid-year 2022)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 &mdash; Algeria does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Algeria was downgraded to Tier 3; the government did take some steps to address trafficking, including adopting a National Action Plan, creating specialized trafficking units, and approving standardized victim identification indicators, although the indicators had not yet been promulgated; a draft anti-trafficking law was pending in Parliament at the end of the reporting period and the government continued work with an international organization to develop a National Referral Mechanism and train officials; however, officials conducted fewer investigations and prosecutions, and efforts to identify and assist victims remained insufficient; authorities most likely continued to penalize trafficking victims for immigration offenses committed as a result of being trafficked; government efforts to deport undocumented migrants without screening for trafficking indicators deterred some victims from reporting crimes or seeking assistance (2023)<br>
+_tier rating_: Tier 2 Watch list &mdash; update pending (2024)<br>
 
 **Illicit drugs**<br>
 NA<br>

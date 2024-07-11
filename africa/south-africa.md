@@ -573,74 +573,55 @@ _Currency_: rand (ZAR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 3 million (2020)<br>
-_electrification - total population_: 89.3% (2021)<br>
-_electrification - urban areas_: 87.3% (2021)<br>
-_electrification - rural areas_: 93.3% (2019)<br>
+_electrification - total population_: 86.5% (2022 est.)<br>
+_electrification - urban areas_: 87.1%<br>
+_electrification - rural areas_: 93.4%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 62.728 million kW (2020 est.)<br>
-_consumption_: 202,285,870,000 kWh (2019 est.)<br>
-_exports_: 14.482 billion kWh (2019 est.)<br>
-_imports_: 7.823 billion kWh (2019 est.)<br>
-_transmission/distribution losses_: 22.904 billion kWh (2019 est.)<br>
+_installed generating capacity_: 63.411 million kW (2022 est.)<br>
+_consumption_: 200.565 billion kWh (2022 est.)<br>
+_exports_: 13.967 billion kWh (2022 est.)<br>
+_imports_: 10.331 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 25.285 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 87.9% of total installed capacity (2020 est.)<br>
-_nuclear_: 5.2% of total installed capacity (2020 est.)<br>
-_solar_: 1.6% of total installed capacity (2020 est.)<br>
-_wind_: 2.6% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 2.5% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.2% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 87.8% of total installed capacity (2022 est.)<br>
+_nuclear_: 4.4% of total installed capacity (2022 est.)<br>
+_solar_: 2.7% of total installed capacity (2022 est.)<br>
+_wind_: 4.2% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 0.7% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.2% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 2 (2023)<br>
-_Number of nuclear reactors under construction_: 0<br>
-_Net capacity of operational nuclear reactors_: 1.85GW (2023)<br>
-_Percent of total electricity production_: 6% (2021)<br>
-_Percent of total energy produced_: 2.3% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 0<br>
+_Net capacity of operational nuclear reactors_: 1.85GW (2023 est.)<br>
+_Percent of total electricity production_: 4.4% (2023 est.)<br>
 
 **Coal**<br>
-_production_: 248.388 million metric tons (2020 est.)<br>
-_consumption_: 170.308 million metric tons (2020 est.)<br>
-_exports_: 74.965 million metric tons (2020 est.)<br>
-_imports_: 2.054 million metric tons (2020 est.)<br>
-_proven reserves_: 9.893 billion metric tons (2019 est.)<br>
+_production_: 245.467 million metric tons (2022 est.)<br>
+_consumption_: 176.148 million metric tons (2022 est.)<br>
+_exports_: 75.512 million metric tons (2022 est.)<br>
+_imports_: 3.026 million metric tons (2022 est.)<br>
+_proven reserves_: 9.893 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 97,900 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 622,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 9,000 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 397,700 bbl/day (2018 est.)<br>
+_total petroleum production_: 95,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 601,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 15 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-487,100 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-105,600 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-195,200 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 1,229,544,000 cubic meters (2019 est.)<br>
-_consumption_: 4,771,551,000 cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 3,542,007,000 cubic meters (2019 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 59.128 million cubic meters (2022 est.)<br>
+_consumption_: 4.487 billion cubic meters (2022 est.)<br>
+_imports_: 4.428 billion cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 470.358 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 387.835 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 73.163 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 9.361 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 476.987 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 392.305 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 75.88 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 8.803 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 98.474 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 95.511 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -741,7 +722,7 @@ the SANDF's inventory consists of a mix of domestically produced and foreign-sup
 up to 1,500 Mozambique; 1,150 Democratic Republic of the Congo (MONUSCO) (2024)<br>
 
 **Military - note**<br>
-the SANDF’s primary responsibilities include territorial and maritime defense, supporting the Police Service, protecting key infrastructure, and participating in international peacekeeping missions; the SANDF traditionally has been one of Africa’s most capable militaries, but in recent years its operational readiness and modernization programs have been hampered by funding shortfalls; it participates regularly in African and UN peacekeeping missions and is a member of the Southern Africa Development Community (SADC) Standby Force; in 2021, it sent up to 1,500 troops to Mozambique as part of a multinational SADC force to help combat an insurgency, and South African forces are a key component of the UN’s Force Intervention Brigade in the Democratic Republic of the Congo; in recent years, the SANDF has been deployed internally to assist the Police Service with quelling unrest and assisting with border security<br><br>the Army in recent years has reorganized, and its combat forces are organized into four “modern” brigades, each designed for specific missions and responding to modern-day threats such as “asymmetric” warfare; the new brigades are separated into airborne, light infantry, mechanized, and motorized forces; the Navy operates a mixed force of warships, patrol craft, submarines, and support vessels; its principal combatants are four frigates and three attack submarines; the Navy also has a maritime rapid reaction squadron that includes naval infantry and combat divers; the Air Force has squadrons of multipurpose fighter, ground attack, and transport aircraft, as well as attack and transport helicopters<br><br>the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the guerrilla and militia forces of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands (2023)<br>
+the SANDF’s primary responsibilities include territorial and maritime defense, supporting the Police Service, protecting key infrastructure, and participating in international peacekeeping missions; the SANDF traditionally has been one of Africa’s most capable militaries, but in recent years its operational readiness and modernization programs have been hampered by funding shortfalls<br><br>the SANDF participates regularly in African and UN peacekeeping missions and is a member of the Southern Africa Development Community (SADC) Standby Force; in 2021, it sent about 1,500 troops to Mozambique as part of a multinational SADC force to help combat an insurgency, and South African forces have been a key component of the UN’s Force Intervention Brigade in the Democratic Republic of the Congo; in recent years, the SANDF has been deployed internally to assist the Police Service with quelling unrest and assisting with border security<br><br>the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the guerrilla and militia forces of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands (2023)<br>
 
 ## Space
 
@@ -766,9 +747,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 22,388 (Somalia), 15,240 (Ethiopia) (mid-year 2022); 42,132 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
 _IDPs_: 5,000 (2020)<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; South Africa does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government increased investigations and convictions of traffickers, investigated and prosecuted some allegedly complicit government officials, coordinated with foreign governments on trafficking investigations and the repatriation of victims, and increased inspections to investigate forced labor; officials adopted an anti-trafficking National Action Plan, accredited two shelters, and expanded awareness-raising activities; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; while the government approved regulations under the Prevention and Combating of Trafficking in Persons Act on immigration, the regulations had not been put into effect at the end of the reporting period; a lack of inter-agency coordination in identifying, referring, and certifying victims most likely hindered protection efforts; law enforcement personnel lacked the capacity and training to effectively identify and refer victims; victims were inappropriately penalized for offenses committed as a direct result of being trafficked, even after officials identified them as trafficking victims; reports of low-level official complicity persisted; because the government has devoted significant resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards, South Africa was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3; therefore, South Africa remained on Tier 2 Watch List for the third consecutive year (2023)<br>
 
 **Illicit drugs**<br>
 <p>leading regional importer of chemicals used in the production of illicit drugs especially synthetic drugs;</p><br>

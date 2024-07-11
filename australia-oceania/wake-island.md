@@ -109,42 +109,12 @@ the flag of the US is used<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2021)<br>
 
-**Electricity**<br>
-_installed generating capacity_: 0 kW (2020 est.)<br>
-_consumption_: 0 kWh (2020 est.)<br>
-_exports_: 0 kWh (2020 est.)<br>
-_imports_: 0 kWh (2020 est.)<br>
-_transmission/distribution losses_: 0 kWh (2019 est.)<br>
-
-**Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
-
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 9,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_refined petroleum consumption_: 8,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 1.275 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 1.275 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
-
-**Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
+_total emissions_: 1.221 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 1.221 million metric tonnes of CO2 (2022 est.)<br>
 
 ## Communications
 
@@ -174,7 +144,7 @@ there are no commercial or civilian flights to and from Wake Island, except in d
 ## Military and Security
 
 **Military - note**<br>
-defense is the responsibility of the US; the US Air Force is responsible for overall administration and operation of the island facilities; the launch support facility is administered by the US Missile Defense Agency (MDA)<br>
+defense is the responsibility of the US; the island serves as a trans-Pacific refueling stop for military aircraft and supports US Missile Defense Agency (MDA) testing activities; the US Air Force is responsible for overall administration and operation of the island facilities while the launch support facility is administered by the MDA (2024)<br>
 
 ## Transnational Issues
 

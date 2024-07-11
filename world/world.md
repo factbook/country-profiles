@@ -406,43 +406,58 @@ $75.09 trillion (31 December 2016 est.)<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 757 million (2020)<br>
-_electrification - total population_: 91.4% (2021)<br>
-_electrification - urban areas_: 97.6% (2021)<br>
-_electrification - rural areas_: 84.4% (2021)<br>
+_electrification - total population_: 91.4% (2022 est.)<br>
+_electrification - urban areas_: 97.7%<br>
+_electrification - rural areas_: 84%<br>
+
+**Electricity**<br>
+_installed generating capacity_: 8.483 billion kW (2022 est.)<br>
+_consumption_: 26.587 trillion kWh (2022 est.)<br>
+_exports_: 805.371 billion kWh (2022 est.)<br>
+_imports_: 811.992 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 2.064 trillion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 60.6% of total installed capacity (2020 est.)<br>
-_nuclear_: 10.3% of total installed capacity (2020 est.)<br>
-_solar_: 3.3% of total installed capacity (2020 est.)<br>
-_wind_: 6.2% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 17% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0.4% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 2.4% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 61.2% of total installed capacity (2022 est.)<br>
+_nuclear_: 9% of total installed capacity (2022 est.)<br>
+_solar_: 4.5% of total installed capacity (2022 est.)<br>
+_wind_: 7.3% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 15% of total installed capacity (2022 est.)<br>
+_geothermal_: 0.3% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 2.6% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 410 (2023)<br>
-_Number of nuclear reactors under construction_: 57<br>
-_Net capacity of operational nuclear reactors_: 368.61GW (2023)<br>
-_Percent of total electricity production_: 10% (2021)<br>
-_Percent of total energy produced_: 4.6% (2021)<br>
-<strong>note:</strong>  Three countries, the US, France, and China, have 57% of the World's net capacity of operational nuclear reactors<br>
+_Number of operational nuclear reactors_: 416 (2023)<br>
+_Number of nuclear reactors under construction_: 59<br>
+_Net capacity of operational nuclear reactors_: 374.67GW (2023)<br>
 
-**Refined petroleum products - production**<br>
-88.4 million bbl/day (2014 est.)<br>
+**Coal**<br>
+_production_: 9.279 billion metric tons (2022 est.)<br>
+_consumption_: 9.456 billion metric tons (2022 est.)<br>
+_exports_: 1.445 billion metric tons (2022 est.)<br>
+_imports_: 1.416 billion metric tons (2022 est.)<br>
+_proven reserves_: 1.141 trillion metric tons (2022 est.)<br>
 
-**Refined petroleum products - exports**<br>
-29.66 million bbl/day (2014 est.)<br>
+**Petroleum**<br>
+_total petroleum production_: 99.478 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 99.845 million bbl/day (2022 est.)<br>
+_crude oil estimated reserves_: 1.697 trillion barrels (2021 est.)<br>
 
-**Refined petroleum products - imports**<br>
-28.62 million bbl/day (2014 est.)<br>
+**Natural gas**<br>
+_production_: 4.108 trillion cubic meters (2022 est.)<br>
+_consumption_: 4.052 trillion cubic meters (2022 est.)<br>
+_exports_: 1.288 trillion cubic meters (2022 est.)<br>
+_imports_: 1.274 trillion cubic meters (2022 est.)<br>
+_proven reserves_: 206.683 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 35,551,713,000 metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 15,587,834,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 12,195,793,000 metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 7,768,086,000 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 38.502 billion metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 18.399 billion metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 12.242 billion metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 7.862 billion metric tonnes of CO2 (2022 est.)<br>
+
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2022_: 75.306 million Btu/person (2022 est.)<br>
 
 ## Communications
 

@@ -396,7 +396,7 @@ _selected World Heritage Site locales_: Danube Delta (n); Churches of Moldavia (
 ## Economy
 
 **Economic overview**<br>
-high-income, service- and industrial-based European economy; EU member but non-euro user until convergence criteria met; sustained growth prior to COVID-19; major FDI recipient; flat taxation structure; digital hub of Eastern Europe<br>
+high-income EU member economy; joined Schengen area as of March 2024; euro membership delayed over convergence criteria; persistent inflation but recovery driven by consumption and EU-funded investments; skilled labor shortage; regional economic disparities; fiscal reforms to address rising deficits<br>
 
 **Real GDP (purchasing power parity)**<br>
 $618.95 billion (2022 est.)<br>
@@ -566,71 +566,55 @@ _Currency_: lei (RON) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 20.528 million kW (2020 est.)<br>
-_consumption_: 50,039,421,000 kWh (2019 est.)<br>
-_exports_: 5.459 billion kWh (2020 est.)<br>
-_imports_: 8.252 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 6.501 billion kWh (2019 est.)<br>
+_installed generating capacity_: 19.126 million kW (2022 est.)<br>
+_consumption_: 49.805 billion kWh (2022 est.)<br>
+_exports_: 7.429 billion kWh (2022 est.)<br>
+_imports_: 8.653 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 6.204 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 32.1% of total installed capacity (2020 est.)<br>
-_nuclear_: 20.4% of total installed capacity (2020 est.)<br>
-_solar_: 3.4% of total installed capacity (2020 est.)<br>
-_wind_: 13.4% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 29.9% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.9% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 39.1% of total installed capacity (2022 est.)<br>
+_nuclear_: 18.6% of total installed capacity (2022 est.)<br>
+_solar_: 3.2% of total installed capacity (2022 est.)<br>
+_wind_: 12.7% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 25.3% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.9% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 2 (2023)<br>
-_Number of nuclear reactors under construction_: 0<br>
-_Net capacity of operational nuclear reactors_: 1.3GW (2023)<br>
-_Percent of total electricity production_: 18.5% (2021)<br>
-_Percent of total energy produced_: 12.9% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 0<br>
+_Net capacity of operational nuclear reactors_: 1.3GW (2023 est.)<br>
+_Percent of total electricity production_: 18.9% (2023 est.)<br>
 
 **Coal**<br>
-_production_: 15.002 million metric tons (2020 est.)<br>
-_consumption_: 16.412 million metric tons (2020 est.)<br>
-_exports_: 2,000 metric tons (2020 est.)<br>
-_imports_: 1.384 million metric tons (2020 est.)<br>
-_proven reserves_: 291 million metric tons (2019 est.)<br>
+_production_: 18.16 million metric tons (2022 est.)<br>
+_consumption_: 19.404 million metric tons (2022 est.)<br>
+_exports_: 242,000 metric tons (2022 est.)<br>
+_imports_: 1.338 million metric tons (2022 est.)<br>
+_proven reserves_: 291 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 74,000 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 222,200 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 1,400 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 161,600 bbl/day (2018 est.)<br>
+_total petroleum production_: 67,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 221,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 600 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-232,600 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-103,000 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-49,420 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 10,367,941,000 cubic meters (2019 est.)<br>
-_consumption_: 11,087,528,000 cubic meters (2019 est.)<br>
-_exports_: 11.185 million cubic meters (2019 est.)<br>
-_imports_: 2,800,985,000 cubic meters (2019 est.)<br>
+_production_: 9.501 billion cubic meters (2022 est.)<br>
+_consumption_: 10.055 billion cubic meters (2022 est.)<br>
+_exports_: 832.421 million cubic meters (2022 est.)<br>
+_imports_: 2.977 billion cubic meters (2022 est.)<br>
 _proven reserves_: 105.48 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 68.746 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 20.891 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 27.268 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 20.588 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 62.594 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 15.319 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 28.604 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 18.67 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 71.736 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 60.67 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -728,7 +712,7 @@ the military's inventory includes a considerable amount of Soviet-era and older 
 up to 120 Poland (NATO); Romania also has small numbers of military personnel deployed on other international missions under the EU, NATO, and UN (2024)<br>
 
 **Military - note**<br>
-the Romanian Armed Forces are responsible for territorial defense, fulfilling Romania’s commitments to European security, and contributing to multinational peacekeeping operations; the military has a variety of concerns, including cyber attacks and terrorism, but its primary focus is Russian aggression against neighboring Ukraine and Russia's activities in the Black Sea and Romania’s other eastern neighbor, Moldova<br><br>Romania joined NATO in 2004, and the Alliance forms a key pillar of the country’s defense policy; it hosts a NATO multinational divisional headquarters (Multinational Division Southeast) and a French-led ground force battlegroup as part of NATO's Enhanced Forward Presence initiative in the southeastern part of the Alliance, which came about in response to Russia’s 2022 invasion of Ukraine; NATO allies have also sent detachments of fighters to augment the Romanian Air Force since 2014 because of aggressive Russian activity in the Black Sea region; the Romanian military trains regularly with NATO and its member states and participates in NATO- and EU-led multinational missions in Bosnia and Herzegovina, Kosovo, and Poland<br><br>the military is an all-volunteer force equipped largely with Soviet-era or other aging weapons systems, although since joining NATO it has embarked on an effort to acquire more modern, NATO-compatible weapons systems, such as armored vehicles, combat aircraft, and naval vessels; the main combat formations of the Land Forces are two combined arms infantry divisions, each comprised of three or four mechanized and mountain infantry brigades, plus artillery, reconnaissance, and other combat support forces; the Army also has a tactical missile brigade; the military’s special operations forces were consolidated into a special operations command in 2018<br><br>the Romanian Navy operates on the Black Sea and the Danube River; the Black Sea fleet command has a small force of frigates and corvettes organized into flotillas and divisions, as well as divisions of mine warfare vessels, naval missiles, and coastal defense; the Danube River flotilla operates gunboats and has a marine infantry regiment <br><br>the Air Force had approximately 400 Soviet-made combat aircraft when Romania was a member of the Warsaw Pact, but by the 2020s the number was down to a few dozen that were being replaced by secondhand US-origin F-16 fighter aircraft acquired from NATO partners; in 2023, Romania retired the last of its Soviet-era fighters and signed a contract to acquire about 30 additional F-16s from Norway (2023)<br>
+the Romanian Armed Forces are responsible for territorial defense, fulfilling Romania’s commitments to European security, and contributing to multinational peacekeeping operations; the military has a variety of concerns, including cyber attacks and terrorism, but its primary focus is Russian aggression against neighboring Ukraine and Russia's activities in the Black Sea and Romania’s other eastern neighbor, Moldova<br><br>Romania joined NATO in 2004, and the Alliance forms a key pillar of the country’s defense policy; it hosts a NATO multinational divisional headquarters (Multinational Division Southeast) and a French-led ground force battlegroup as part of NATO's Enhanced Forward Presence initiative in the southeastern part of the Alliance, which came about in response to Russia’s 2022 invasion of Ukraine; NATO allies have also sent detachments of fighters to augment the Romanian Air Force since 2014 because of aggressive Russian activity in the Black Sea region; the Romanian military trains regularly with NATO and its member states and has participated in NATO- and EU-led multinational missions in Bosnia and Herzegovina, Kosovo, and Poland (2023)<br>
 
 ## Space
 

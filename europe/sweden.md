@@ -390,7 +390,7 @@ _selected World Heritage Site locales_: Royal Domain of Drottningholm (c); Lapon
 ## Economy
 
 **Economic overview**<br>
-high-income, knowledge-based economy; EU member but non-euro user (refuses to peg krona to euro); large welfare state that complements its free-market capitalism; high living standards, environmental protections, income and gender equality<br>
+high-income, largest Nordic economy; EU member but non-euro user; export-oriented led by automotive, electronics, machinery and pharmaceuticals; highly ranked for competitiveness, R&amp;D investments and governance; slowdown triggered by high inflation, weak consumption and financial tightening<br>
 
 **Real GDP (purchasing power parity)**<br>
 $580.099 billion (2022 est.)<br>
@@ -560,71 +560,53 @@ _Currency_: Swedish kronor (SEK) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 43.499 million kW (2020 est.)<br>
-_consumption_: 124.609 billion kWh (2020 est.)<br>
-_exports_: 36.824 billion kWh (2020 est.)<br>
-_imports_: 11.827 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 10.434 billion kWh (2020 est.)<br>
+_installed generating capacity_: 52.706 million kW (2022 est.)<br>
+_consumption_: 129.934 billion kWh (2022 est.)<br>
+_exports_: 39.064 billion kWh (2022 est.)<br>
+_imports_: 6.177 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 10.932 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 1% of total installed capacity (2020 est.)<br>
-_nuclear_: 29.5% of total installed capacity (2020 est.)<br>
-_solar_: 0.7% of total installed capacity (2020 est.)<br>
-_wind_: 17.2% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 44.7% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 6.9% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 1% of total installed capacity (2022 est.)<br>
+_nuclear_: 28.8% of total installed capacity (2022 est.)<br>
+_solar_: 0.9% of total installed capacity (2022 est.)<br>
+_wind_: 18.9% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 41.9% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 8.6% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 6 (2023)<br>
-_Number of nuclear reactors under construction_: 0<br>
-_Net capacity of operational nuclear reactors_: 6.94GW (2023)<br>
-_Percent of total electricity production_: 30.8% (2021)<br>
-_Percent of total energy produced_: 34% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 4<br>
+_Net capacity of operational nuclear reactors_: 6.94GW (2023 est.)<br>
+_Percent of total electricity production_: 28.6% (2023 est.)<br>
+_Number of nuclear reactors permanently shut down_: 7 (2023)<br>
 
 **Coal**<br>
-_production_: 1.07 million metric tons (2020 est.)<br>
-_consumption_: 3.328 million metric tons (2020 est.)<br>
-_exports_: 24,000 metric tons (2020 est.)<br>
-_imports_: 2.144 million metric tons (2020 est.)<br>
-_proven reserves_: 1 million metric tons (2019 est.)<br>
+_production_: 1.115 million metric tons (2022 est.)<br>
+_consumption_: 3.396 million metric tons (2022 est.)<br>
+_exports_: 43,000 metric tons (2022 est.)<br>
+_imports_: 2.152 million metric tons (2022 est.)<br>
+_proven reserves_: 5 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 10,600 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 295,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 403,200 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-413,200 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-371,100 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-229,600 bbl/day (2017 est.)<br>
+_total petroleum production_: 11,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 283,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 1,275,785,000 cubic meters (2020 est.)<br>
-_exports_: 34.886 million cubic meters (2020 est.)<br>
-_imports_: 1,310,671,000 cubic meters (2020 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_consumption_: 889.924 million cubic meters (2022 est.)<br>
+_exports_: 12.15 million cubic meters (2022 est.)<br>
+_imports_: 680.998 million cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 48.144 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 7.38 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 38.406 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 2.359 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 47.364 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 6.548 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 38.96 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 1.855 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 210.882 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 150.621 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -723,7 +705,7 @@ the SAF's inventory is comprised of domestically produced and imported Western w
 the Swedish military has small numbers of personnel deployed on multiple EU-, NATO-, and UN-led missions (2024)<br>
 
 **Military - note**<br>
-the Swedish military is responsible for the defense of the country and its territories against armed attack, supporting Sweden’s national security interests, providing societal support, such as humanitarian aid, and contributing to international peacekeeping and peacemaking operations; it has a relatively small active duty force that is designed to be rapidly mobilized in a crisis; it is equipped with modern, mostly Swedish-made weapons, exercises regularly, and is backed up by a trained reserve and a Home Guard; the military’s main focus is maintaining itself as a credible and visible deterrent through training and exercises, sustaining high levels of readiness, cooperating and collaborating with both domestic and foreign partners<br><br>Sweden maintained a policy of military non-alignment for over 200 years before applying for NATO membership in May 2022 following Russia’s full-scale invasion of Ukraine; it became a NATO member in March of 2024; before then, Stockholm joined NATO’s Partnership for Peace program in 1994 and contributed to NATO-led missions, including those in Afghanistan, Iraq, and Kosovo; the military cooperates closely with the forces of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO; established 2009), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; Sweden is a signatory of the EU’s Common Security and Defense Policy (CSDP) and contributes to CSDP missions and operations, including EU battlegroups; it also participates in UN-led missions; Sweden has close bilateral security relations with some NATO member states, particularly Finland, the UK, and the US<br><br>the military is headed by the Supreme Commander, who leads and supervises the force through Armed Forces Headquarters, which is the highest level of command and control of the military; the Army’s principal active combat arms units are more than a dozen battalions of armor, artillery, reconnaissance, security, and infantry forces, which include airborne/rangers, light, mechanized, and motorized infantry; in a crisis, the battalions would be filled out by reservists and formed into battlegroups/task forces and brigades; they are backed up by 40 Home Guard battalions comprised of locally based rapid-response units with mostly part-time but experienced soldiers; the Navy is organized into flotillas and an amphibious/naval infantry battalion; its principal warships are seven corvettes and four attack submarines; other combat vessels include patrol boats, fast attack craft, and minesweepers; all of the Navy’s warships are produced by Sweden; the Swedish Air Force has about 70 Swedish-made multirole fighter aircraft organized into wings with an additional 60 on order; the military also has a joint service special operations group directly under the Supreme Commander (2024)<br>
+the Swedish military is responsible for the defense of the country and its territories against armed attack, supporting Sweden’s national security interests, providing societal support, such as humanitarian aid, and contributing to international peacekeeping and peacemaking operations<br><br>the military has a relatively small active duty force that is designed to be rapidly mobilized in a crisis; it is equipped with modern, mostly Swedish-made weapons, exercises regularly, and is backed up by a trained reserve and a Home Guard; the military’s main focus is maintaining itself as a credible and visible deterrent through training and exercises, sustaining high levels of readiness, cooperating and collaborating with both domestic and foreign partners<br><br>Sweden maintained a policy of military non-alignment for over 200 years before applying for NATO membership in May 2022 following Russia’s full-scale invasion of Ukraine; it became a NATO member in March of 2024; before then, Stockholm joined NATO’s Partnership for Peace program in 1994 and contributed to NATO-led missions, including those in Afghanistan, Iraq, and Kosovo; the military cooperates closely with the forces of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO; established 2009), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; Sweden is a signatory of the EU’s Common Security and Defense Policy (CSDP) and contributes to CSDP missions and operations, including EU battlegroups; it also participates in UN-led missions; Sweden has close bilateral security relations with some NATO member states, particularly Finland, the UK, and the US (2024)<br>
 
 ## Space
 

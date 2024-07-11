@@ -496,18 +496,9 @@ $87 million (2008 est.)<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 99.7% (2021)<br>
-_electrification - urban areas_: 96% (2021)<br>
-_electrification - rural areas_: 92% (2020)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-2,060 bbl/day (2015 est.)<br>
+_electrification - total population_: 100% (2022 est.)<br>
+_electrification - urban areas_: 96.1%<br>
+_electrification - rural areas_: 100%<br>
 
 **Carbon dioxide emissions**<br>
 293,700 metric tonnes of CO2 (2017 est.)<br>

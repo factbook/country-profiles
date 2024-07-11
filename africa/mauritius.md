@@ -538,65 +538,36 @@ _Currency_: Mauritian rupees (MUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 99.6% (2020)<br>
-_electrification - urban areas_: 99.2% (2021)<br>
-_electrification - rural areas_: 99.8% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
+_electrification - urban areas_: 99%<br>
+_electrification - rural areas_: 100%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 936,000 kW (2020 est.)<br>
-_consumption_: 2,904,500,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 182.4 million kWh (2019 est.)<br>
+_installed generating capacity_: 956,000 kW (2022 est.)<br>
+_consumption_: 3.288 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 208.205 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 75.4% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 5.3% of total installed capacity (2020 est.)<br>
-_wind_: 0.7% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 3.7% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 15% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 80.9% of total installed capacity (2022 est.)<br>
+_solar_: 4.4% of total installed capacity (2022 est.)<br>
+_wind_: 0.5% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 3.7% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 10.6% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 661,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 1.189 million metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 580,000 metric tons (2022 est.)<br>
+_imports_: 580,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 36,700 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-26,960 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_refined petroleum consumption_: 25,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 7.191 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 1.595 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 5.596 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 5.091 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 1.31 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 3.781 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 79.448 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 54.401 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -675,9 +646,6 @@ the MPF's inventory is comprised of mostly secondhand equipment from Western Eur
 the country’s primary security partner is India, and Indian naval vessels often patrol Mauritian waters; the MPF has also received assistance and training from France, the UK, and the US; the MPF’s chief security concerns are piracy and narcotics trafficking<br><br>the Special Mobile Force was created in 1960 following the withdrawal of the British garrison (2023)<br>
 
 ## Transnational Issues
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Mauritius does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; these efforts included partnering with an international organization to adopt standard operating procedures for victim identification and referral, enhancing screening for trafficking indicators during labor inspections, and adopting a 2022-2026 National Action Plan; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; officials did not prosecute any suspected traffickers, did not convict any traffickers, nor report initiating any investigations for the second consecutive year; the government provided minimal services to victims and did not identify any victims for the third consecutive year; officials continued to compel some adult foreign victims to participate in criminal proceedings using threats of deportation and arrest; police regularly investigated potential trafficking cases as other crimes, and prosecutors routinely pursued lesser offenses with lesser penalties in cases initially investigated as trafficking; courts continued to provide lenient sentences to first-time offenders, weakening deterrence; therefore, Mauritius was downgraded to Tier 2 Watch List (2023)<br>
 
 **Illicit drugs**<br>
 <p>consumer and transshipment point for heroin from South Asia; small amounts of cannabis produced and consumed locally; significant offshore financial industry creates potential for money laundering</p><br>

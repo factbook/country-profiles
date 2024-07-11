@@ -578,71 +578,52 @@ _Currency_: Egyptian pounds (EGP) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 59.826 million kW (2020 est.)<br>
-_consumption_: 149,079,120,000 kWh (2019 est.)<br>
-_exports_: 360 million kWh (2019 est.)<br>
-_imports_: 74 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 33.623 billion kWh (2019 est.)<br>
+_installed generating capacity_: 59.248 million kW (2022 est.)<br>
+_consumption_: 176.719 billion kWh (2022 est.)<br>
+_exports_: 1.61 billion kWh (2022 est.)<br>
+_imports_: 176 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 37.615 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 88.7% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 1% of total installed capacity (2020 est.)<br>
-_wind_: 2.5% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 7.7% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.2% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 88.5% of total installed capacity (2022 est.)<br>
+_solar_: 2.1% of total installed capacity (2022 est.)<br>
+_wind_: 2.9% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 6.2% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.2% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 0<br>
-_Number of nuclear reactors under construction_: 3 (2023)<br>
-_Net capacity of operational nuclear reactors_: 0GW<br>
-_Percent of total electricity production_: 0%<br>
-_Percent of total energy produced_: 0%<br>
-_Number of nuclear reactors permanently shut down_: 0<br>
+_Number of nuclear reactors under construction_: 4 (2023)<br>
 
 **Coal**<br>
-_production_: 262,000 metric tons (2020 est.)<br>
-_consumption_: 2.31 million metric tons (2020 est.)<br>
-_exports_: 86,000 metric tons (2020 est.)<br>
-_imports_: 2.134 million metric tons (2020 est.)<br>
-_proven reserves_: 16 million metric tons (2019 est.)<br>
+_production_: 289,000 metric tons (2022 est.)<br>
+_consumption_: 3.083 million metric tons (2022 est.)<br>
+_exports_: 92.8 metric tons (2022 est.)<br>
+_imports_: 2.733 million metric tons (2022 est.)<br>
+_proven reserves_: 182 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 660,800 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 810,200 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 204,100 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 117,400 bbl/day (2018 est.)<br>
+_total petroleum production_: 667,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 851,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 3.3 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-547,500 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-47,360 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-280,200 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 64,292,955,000 cubic meters (2019 est.)<br>
-_consumption_: 58,176,781,000 cubic meters (2019 est.)<br>
-_exports_: 5,009,100,000 cubic meters (2019 est.)<br>
-_imports_: 83.563 million cubic meters (2019 est.)<br>
-_proven reserves_: 1,783,958,000,000 cubic meters (2021 est.)<br>
+_production_: 64.817 billion cubic meters (2022 est.)<br>
+_consumption_: 60.089 billion cubic meters (2022 est.)<br>
+_exports_: 9.28 billion cubic meters (2022 est.)<br>
+_imports_: 6.648 billion cubic meters (2022 est.)<br>
+_proven reserves_: 1.784 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 235.137 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 8.728 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 112.281 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 114.128 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 240.225 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 6.77 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 115.575 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 117.879 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 40.063 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 36.463 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -771,9 +752,6 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province (ISIS-SP); 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 464,827 (Sudan) (refugees since 15 April 2023), 156,159 (Syria) (2024)<br>
 _stateless persons_: 10 (2022)<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Egypt does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts included approving a new national strategy to combat trafficking, increasing convictions of traffickers, more than doubling the training of officials and partners, and issuing presidential directives to improve public awareness and protection; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; officials identified the fewest victims since 2019 and investigations decreased; the government pursued trafficking charges to prosecute some non-trafficking offenses, undercutting efforts to hold traffickers criminally accountable; officials continued to penalize victims for unlawful acts committed as a direct result of being trafficked; despite high risks for foreign nationals in Egypt, non-Egyptian victims are rarely identified; victim services and shelter remained insufficient and relied on international organizations and NGOs to provide some services, especially for men and foreign victims; for the third consecutive year, the government did not approve a draft law to expand labor protections to domestic workers; therefore, Egypt was downgraded to Tier 2 Watch List (2023)<br>
 
 **Illicit drugs**<br>
 <p>major source of precursor chemicals used in the production of illicit narcotics</p><br>

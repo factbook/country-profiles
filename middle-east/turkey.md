@@ -574,71 +574,53 @@ _Currency_: Turkish liras (TRY) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 96.846 million kW (2020 est.)<br>
-_consumption_: 263.952 billion kWh (2020 est.)<br>
-_exports_: 2.484 billion kWh (2020 est.)<br>
-_imports_: 1.888 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 29.275 billion kWh (2020 est.)<br>
+_installed generating capacity_: 103.817 million kW (2022 est.)<br>
+_consumption_: 280.458 billion kWh (2022 est.)<br>
+_exports_: 3.71 billion kWh (2022 est.)<br>
+_imports_: 6.423 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 30.452 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 56.2% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 3.8% of total installed capacity (2020 est.)<br>
-_wind_: 8.4% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 26.3% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0.4% of total installed capacity (2020 est.)<br>
-_geothermal_: 3.4% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1.5% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 58.2% of total installed capacity (2022 est.)<br>
+_solar_: 4.9% of total installed capacity (2022 est.)<br>
+_wind_: 11.3% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 21.7% of total installed capacity (2022 est.)<br>
+_geothermal_: 2.9% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 1% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 0<br>
 _Number of nuclear reactors under construction_: 4 (2023)<br>
-_Net capacity of operational nuclear reactors_: 0GW<br>
-_Percent of total electricity production_: 0%<br>
-_Percent of total energy produced_: 0%<br>
-_Number of nuclear reactors permanently shut down_: 0<br>
 
 **Coal**<br>
-_production_: 78.871 million metric tons (2020 est.)<br>
-_consumption_: 108.271 million metric tons (2020 est.)<br>
-_exports_: 54,000 metric tons (2020 est.)<br>
-_imports_: 40.919 million metric tons (2020 est.)<br>
-_proven reserves_: 11.525 billion metric tons (2019 est.)<br>
+_production_: 88.746 million metric tons (2022 est.)<br>
+_consumption_: 123.976 million metric tons (2022 est.)<br>
+_exports_: 879,000 metric tons (2022 est.)<br>
+_imports_: 38.046 million metric tons (2022 est.)<br>
+_proven reserves_: 11.525 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 70,300 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 987,300 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 423,500 bbl/day (2018 est.)<br>
+_total petroleum production_: 83,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 1.077 million bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 366 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-657,900 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-141,600 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-560,000 bbl/day (2017 est.)<br>
-
 **Natural gas**<br>
-_production_: 469.464 million cubic meters (2019 est.)<br>
-_consumption_: 44,605,473,000 cubic meters (2019 est.)<br>
-_exports_: 759.372 million cubic meters (2019 est.)<br>
-_imports_: 45,091,248,000 cubic meters (2019 est.)<br>
+_production_: 379.701 million cubic meters (2022 est.)<br>
+_consumption_: 52.887 billion cubic meters (2022 est.)<br>
+_exports_: 581.666 million cubic meters (2022 est.)<br>
+_imports_: 54.536 billion cubic meters (2022 est.)<br>
 _proven reserves_: 3.794 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 391.792 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 172.298 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 133.587 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 85.907 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 391.592 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 149.781 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 139.954 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 101.858 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 79.126 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 70.594 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -742,7 +724,7 @@ approximately 150 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosni
 <strong>note:</strong> Turkey maintains significant military forces in both Iraq and Syria; size estimates vary as some forces are long-term deployments while others are deployed for specific operations; between 2016 and 2020, Turkey conducted four significant military ground campaigns in northern Syria with the stated purpose of securing its southern border; Turkey also has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018, and smaller-scale operations in 2021 and 2022; Turkey has also conducted numerous air strikes in both Iraq and Syria<br>
 
 **Military - note**<br>
-the Turkish Armed Forces (TAF) have a range of responsibilities, including defending and deterring against external threats, participating in international peacekeeping operations, fulfilling Turkey’s military commitments to NATO, providing disaster/humanitarian relief and assistance to domestic law enforcement if requested by civil authorities, and supporting Turkey’s overall national security interests; the TAF also has overall responsibility for the security of Turkey’s borders; Turkey is active in international peacekeeping and other security operations under the EU, NATO, and the UN, as well as under bilateral agreements with some countries; Turkey has established expeditionary military bases in northern Cyprus, Qatar, Somalia, and Sudan<br><br>Turkey has been a member of NATO since 1952 and hosts a considerable NATO and US military presence, including the headquarters for a NATO Land Command and a Rapid Deployment Corps, multiple airbases for NATO and US aircraft, NATO air/missile defense systems, and training centers; the TAF is the second-largest military in NATO behind the US and exercises regularly with NATO partners<br><br>the TAF is a large, well-equipped force comprised of a mix of professionals and conscripts; it has considerable operational experience; in addition to peacekeeping and military assistance operations in recent years in such places as Afghanistan (NATO), Bosnia and Herzegovina (EU), Kosovo (NATO), Lebanon (UN), and Somalia (bilateral), it has conducted combat missions of varying duration and scale in Iraq, Libya, and Syria; since the 1980s, the TAF has been involved in a protracted counterinsurgency campaign against the US-designated terrorist group the Kurdistan Worker’s Party or PKK, a Kurdish militant political organization and armed guerrilla movement, which historically operated throughout Kurdistan but is now primarily based in the mountainous Kurdish-majority regions of southeastern Turkey and northern Iraq; other key areas of concern for the TAF include tensions with fellow NATO member Greece over territorial disputes and Cyprus, tensions between neighboring Armenia and Azerbaijan, threats from the terrorist groups al-Qa’ida and the Islamic State of Iraq and ash-Sham, and the Russia-Ukraine war; under a long-range (2033) strategic plan, the TAF continues a considerable effort to modernize its equipment and force structure<br><br>the TAF is led by a General Staff headed by a Chief of the General Staff; the Land Forces are organized into four army- and eight corps-level commands; these include an army command for the Aegean and a corps command for northern Cyprus (“Turkish Republic of Northern Cyprus”); subordinate units include a few armored, mechanized infantry, or motorized infantry divisions, but most of the Land Force’s combat forces are formed into more than 30 armored, commando, light infantry, mechanized infantry, and motorized infantry brigades; the Land Forces also have an aviation command; the TAF has a Special Forces Command that is directly subordinate to the General Staff and independent of the other services<br><br>the Naval Forces’ role includes securing control of Turkey’s territorial waters and sea lines of communications; it is one of the largest maritime forces in the region and is seeking to develop greater blue water capabilities to protect Turkey’s broader regional interests with plans to acquire new frigates, submarines, and a light aircraft carrier in the next few years; the backbone of its warship inventory is a recently acquired large landing helicopter dock (LHD) amphibious assault ship, which is the fleet’s largest warship and serves as its flagship, and a sizeable force of frigates and attack-type submarines, which are supported by dozens of corvettes, fast-attack craft, and patrol vessels of varying sizes and capabilities<br><br>the Air Force is organized into commands for combat, training, and logistics, with the combat command further divided into two regional (east and west) tactical commands; it has about 200 US-made fighter and multirole fighter aircraft organized into squadrons; Air Force priorities include acquiring more advanced aircraft, boosting ground-based air defenses, and establishing a sustainable command and control system<br><br>Turkey’s military has a rich history that it traces back to 200 B.C., although the modern TAF was formed following the collapse of the Ottoman Empire at the conclusion of the Turkish War of Independence (1919-1923); the TAF has traditionally had a significant influence in the country as the “guardian” of Turkish politics, but its political role was largely lost after the failed 2016 coup attempt; the military has a substantial stake in Turkey's economy through a holding company that is involved in the automotive, energy, finance, and logistics sectors, as well as iron and steel production (2023)<br>
+the Turkish Armed Forces (TAF) have a range of responsibilities, including defending and deterring against external threats, participating in international peacekeeping operations, fulfilling Turkey’s military commitments to NATO, providing disaster/humanitarian relief and assistance to domestic law enforcement if requested by civil authorities, and supporting Turkey’s overall national security interests; the TAF also has overall responsibility for the security of Turkey’s borders; Turkey is active in international peacekeeping and other security operations under the EU, NATO, and the UN, as well as under bilateral agreements with some countries; Turkey has established expeditionary military bases in northern Cyprus, Qatar, Somalia, and Sudan<br><br>Turkey has been a member of NATO since 1952 and hosts a considerable NATO and US military presence, including the headquarters for a NATO Land Command and a Rapid Deployment Corps, multiple airbases for NATO and US aircraft, NATO air/missile defense systems, and training centers; the TAF is the second-largest military in NATO behind the US and exercises regularly with NATO partners<br><br>the TAF is a large, well-equipped force comprised of a mix of professionals and conscripts; it has considerable operational experience; in addition to peacekeeping and military assistance operations in recent years in such places as Afghanistan (NATO), Bosnia and Herzegovina (EU), Kosovo (NATO), Lebanon (UN), and Somalia (bilateral), it has conducted combat missions of varying duration and scale in Iraq, Libya, and Syria; since the 1980s, the TAF has been involved in a protracted counterinsurgency campaign against the US-designated terrorist group the Kurdistan Worker’s Party or PKK, a Kurdish militant political organization and armed guerrilla movement, which historically operated throughout Kurdistan but is now primarily based in the mountainous Kurdish-majority regions of southeastern Turkey and northern Iraq; other key areas of concern for the TAF include tensions with fellow NATO member Greece over territorial disputes and Cyprus, tensions between neighboring Armenia and Azerbaijan, threats from the terrorist groups al-Qa’ida and the Islamic State of Iraq and ash-Sham, and the Russia-Ukraine war; under a long-range (2033) strategic plan, the TAF continues a considerable effort to modernize its equipment and force structure<br><br>Turkey’s military has a rich history that it traces back to 200 B.C., although the modern TAF was formed following the collapse of the Ottoman Empire at the conclusion of the Turkish War of Independence (1919-1923); the TAF has traditionally had a significant influence in the country as the “guardian” of Turkish politics, but its political role was largely lost after the failed 2016 coup attempt; the military has a substantial stake in Turkey's economy through a holding company that is involved in the automotive, energy, finance, and logistics sectors, as well as iron and steel production (2023)<br>
 
 ## Space
 

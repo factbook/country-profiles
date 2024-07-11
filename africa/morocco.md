@@ -587,63 +587,47 @@ _Currency_: Moroccan dirhams (MAD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 14.187 million kW (2020 est.)<br>
-_consumption_: 29,447,883,000 kWh (2019 est.)<br>
-_exports_: 624 million kWh (2020 est.)<br>
-_imports_: 856 million kWh (2020 est.)<br>
-_transmission/distribution losses_: 6.703 billion kWh (2019 est.)<br>
+_installed generating capacity_: 14.237 million kW (2022 est.)<br>
+_consumption_: 35.278 billion kWh (2022 est.)<br>
+_exports_: 471 million kWh (2022 est.)<br>
+_imports_: 1.868 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 7.366 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 81.6% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 1.1% of total installed capacity (2020 est.)<br>
-_wind_: 13% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 4.4% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 82.1% of total installed capacity (2022 est.)<br>
+_solar_: 3.5% of total installed capacity (2022 est.)<br>
+_wind_: 13% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 1.3% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.1% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 9.321 million metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 9.321 million metric tons (2020 est.)<br>
-_proven reserves_: 14 million metric tons (2019 est.)<br>
+_consumption_: 11.94 million metric tons (2022 est.)<br>
+_exports_: 12.8 metric tons (2022 est.)<br>
+_imports_: 11.772 million metric tons (2022 est.)<br>
+_proven reserves_: 96 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 307,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 700,000 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-66,230 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-9,504 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-229,300 bbl/day (2015 est.)<br>
+_total petroleum production_: 25 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 318,000 bbl/day (2022 est.)<br>
+_crude oil estimated reserves_: 684,000 barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 105.678 million cubic meters (2019 est.)<br>
-_consumption_: 1,051,658,000 cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 950.765 million cubic meters (2019 est.)<br>
+_production_: 82.595 million cubic meters (2022 est.)<br>
+_consumption_: 243.201 million cubic meters (2022 est.)<br>
+_imports_: 162.157 million cubic meters (2022 est.)<br>
 _proven reserves_: 1.444 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 60.2 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 20.267 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 37.834 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 2.099 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 67.688 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 27.475 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 39.727 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 485,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 24.59 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 24.936 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -743,7 +727,7 @@ the Moroccan military's inventory is comprised of mostly older French and US equ
 770 Central African Republic (MINUSCA); 930 Democratic Republic of the Congo (MONUSCO) (2024)<br>
 
 **Military - note**<br>
-the Royal Armed Forces (FAR) are responsible for defending Morocco’s territorial integrity; key areas of concern for the FAR include regional challenges such as the Polisario Front in Western Sahara and Algeria; Morocco claims the territory of Western Sahara and administers the territory that it controls; the Polisario Front (Popular Front for the Liberation of Saguia el Hamra and Rio de Oro), an organization that seeks the territory’s independence, disputes Morocco’s claim of sovereignty over the territory; Moroccan and Polisario forces fought intermittently from 1975, when Spain relinquished colonial authority over the territory, until a 1991 cease-fire and the establishment of a UN peacekeeping mission; the Polisario withdrew from the cease-fire in November 2020, and since then there have been reports of intermittent indirect fire between the FAR and Polisario fighters across the 2,500-kilometer-long berm built in 1987 that separates the two sides; Algeria is considered a regional rival and has openly backed the Polisario Front<br><br>the FAR has experience in counterinsurgency, desert warfare, and international peacekeeping and security operations; it participates in both bilateral and multinational exercises and has relations with a variety of partners including the militaries of France, Spain, and the US, as well as NATO, the Arab League, and the African Union; the FAR provided fighter aircraft to the Saudi-led coalition in Yemen from 2015-2019; Morocco has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the Royal Army has considerable artillery, armored, mechanized infantry, and motorized infantry forces formed as brigades, regiments, and independent battalions that are mostly deployed in two geographic commands focused on Western Sahara in the south and Algeria in the east and north; its armored forces include some 400 modern US-made tanks purchased since 2012; the Army also has brigades of airborne and security troops; the Navy's warships include about six frigates and more than 20 offshore patrol craft of varying size and capabilities; it also has a small force of naval infantry; the Air Force has approximately 100 French- and US-made combat aircraft<br> <br>the FAR was created in May 1956; large numbers of Moroccans were recruited for service in the Spahi and Tirailleur regiments of the French Army of Africa during the period of the French protectorate (1912-1956); many Moroccans fought under the French Army during both World Wars; after World War II, Moroccans formed part of the French Far East Expeditionary Corps during the First Indochina War (1946-1954); the Spanish Army recruited Moroccans from the Spanish Protectorate during both the Rif War (1921-26) and the Spanish Civil War (1936-39)<br><br>the UN Mission for the Referendum in Western Sahara (MINURSO) was established by Security Council resolution 690 in April 1991 in accordance with settlement proposals accepted in August 1988 by Morocco and the Polisario Front; MINURSO was unable to carry out all the original settlement proposals, but continues to monitor the cease-fire and reduce the threat of mines and unexploded ordnance, and has provided logistic support to the Office of the UN High Commissioner for Refugees (UNHCR) with personnel and air and ground assets (2023)<br>
+the Royal Armed Forces (FAR) are responsible for defending Morocco’s territorial integrity; key areas of concern for the FAR include regional challenges such as the Polisario Front in Western Sahara and Algeria; Morocco claims the territory of Western Sahara and administers the territory that it controls; the Polisario Front (Popular Front for the Liberation of Saguia el Hamra and Rio de Oro), an organization that seeks the territory’s independence, disputes Morocco’s claim of sovereignty over the territory; Moroccan and Polisario forces fought intermittently from 1975, when Spain relinquished colonial authority over the territory, until a 1991 cease-fire and the establishment of a UN peacekeeping mission; the Polisario withdrew from the cease-fire in November 2020, and since then there have been reports of intermittent indirect fire between the FAR and Polisario fighters across the 2,500-kilometer-long berm built in 1987 that separates the two sides; Algeria is considered a regional rival and has openly backed the Polisario Front<br><br>the FAR has experience in counterinsurgency, desert warfare, and international peacekeeping and security operations; it participates in both bilateral and multinational exercises and has relations with a variety of partners including the militaries of France, Spain, and the US, as well as NATO, the Arab League, and the African Union; the FAR provided fighter aircraft to the Saudi-led coalition in Yemen from 2015-2019; Morocco has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the FAR was created in May 1956; large numbers of Moroccans were recruited for service in the Spahi and Tirailleur regiments of the French Army of Africa during the period of the French protectorate (1912-1956); many Moroccans fought under the French Army during both World Wars; after World War II, Moroccans formed part of the French Far East Expeditionary Corps during the First Indochina War (1946-1954); the Spanish Army recruited Moroccans from the Spanish Protectorate during both the Rif War (1921-26) and the Spanish Civil War (1936-39)<br><br>the UN Mission for the Referendum in Western Sahara (MINURSO) was established by Security Council resolution 690 in April 1991 in accordance with settlement proposals accepted in August 1988 by Morocco and the Polisario Front; MINURSO was unable to carry out all the original settlement proposals, but continues to monitor the cease-fire and reduce the threat of mines and unexploded ordnance, and has provided logistic support to the Office of the UN High Commissioner for Refugees (UNHCR) with personnel and air and ground assets (2023)<br>
 
 ## Terrorism
 

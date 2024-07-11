@@ -566,71 +566,56 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 115.837 million kW (2020 est.)<br>
-_consumption_: 233.267 billion kWh (2020 est.)<br>
-_exports_: 14.649 billion kWh (2020 est.)<br>
-_imports_: 17.928 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 23.999 billion kWh (2020 est.)<br>
+_installed generating capacity_: 118.141 million kW (2022 est.)<br>
+_consumption_: 232.66 billion kWh (2022 est.)<br>
+_exports_: 27.916 billion kWh (2022 est.)<br>
+_imports_: 8.043 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 26.117 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 32.4% of total installed capacity (2020 est.)<br>
-_nuclear_: 21.9% of total installed capacity (2020 est.)<br>
-_solar_: 8.1% of total installed capacity (2020 est.)<br>
-_wind_: 22.1% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 13.1% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 2.6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 37.8% of total installed capacity (2022 est.)<br>
+_nuclear_: 20.1% of total installed capacity (2022 est.)<br>
+_solar_: 11.8% of total installed capacity (2022 est.)<br>
+_wind_: 22% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 5.6% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 2.8% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 7 (2023)<br>
-_Number of nuclear reactors under construction_: 0<br>
-_Net capacity of operational nuclear reactors_: 7.12GW (2023)<br>
-_Percent of total electricity production_: 21.38% (2016)<br>
-_Percent of total energy produced_: 33.2% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 1<br>
+_Net capacity of operational nuclear reactors_: 7.12GW (2023 est.)<br>
+_Percent of total electricity production_: 20.3% (2023 est.)<br>
+_Number of nuclear reactors permanently shut down_: 3 (2023)<br>
 
 **Coal**<br>
-_production_: 546,000 metric tons (2020 est.)<br>
-_consumption_: 4.918 million metric tons (2020 est.)<br>
-_exports_: 2.083 million metric tons (2020 est.)<br>
-_imports_: 4.857 million metric tons (2020 est.)<br>
-_proven reserves_: 1.187 billion metric tons (2019 est.)<br>
+_production_: 1.293 million metric tons (2022 est.)<br>
+_consumption_: 8.255 million metric tons (2022 est.)<br>
+_exports_: 1.45 million metric tons (2022 est.)<br>
+_imports_: 10.775 million metric tons (2022 est.)<br>
+_proven reserves_: 1.187 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 47,200 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 1.328 million bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 1,364,700 bbl/day (2018 est.)<br>
+_total petroleum production_: 47,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 1.269 million bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 150 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-1.361 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-562,400 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-464,800 bbl/day (2017 est.)<br>
-
 **Natural gas**<br>
-_production_: 57.99 million cubic meters (2020 est.)<br>
-_consumption_: 32.03 billion cubic meters (2020 est.)<br>
-_exports_: 1.185 billion cubic meters (2020 est.)<br>
-_imports_: 32.489 billion cubic meters (2020 est.)<br>
+_production_: 41.009 million cubic meters (2022 est.)<br>
+_consumption_: 32.833 billion cubic meters (2022 est.)<br>
+_exports_: 6.066 billion cubic meters (2022 est.)<br>
+_imports_: 39.662 billion cubic meters (2022 est.)<br>
 _proven reserves_: 2.549 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 280.624 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 16.743 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 191.299 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 72.582 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 266.476 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 15.6 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 184.054 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 66.823 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 122.673 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 105.979 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -733,7 +718,7 @@ Spain has up to 3,000 military personnel deployed on 17 missions supporting the 
 <strong> </strong><br>
 
 **Military - note**<br>
-the Spanish Armed Forces have a wide variety of responsibilities, including protecting the country’s national interests, sovereignty, and territory, providing support during natural disasters, and fulfilling Spain’s responsibilities to European and international security; the military conducts operations worldwide, and its air, ground, and naval forces participate in a variety of EU-, NATO-, and UN-led missions; Spain joined NATO in 1982 and is fully integrated into the NATO structure; it routinely conducts exercises with EU and NATO partners, and hosts one of NATO’s two combined air operations centers <br><br>the military is organized into commands for air, cyberspace, joint, land, maritime, and space operations; it also has a separate Emergency Response Unit, a permanent joint service force designed to respond to catastrophes and emergencies in both domestic and overseas environments; the Army is the largest service and has two divisional headquarters with several subordinate brigades of mechanized infantry and one of paratroopers; there are also separate commands for air defense, artillery, aviation, mountain troops, and special operations forces, as well as for the garrison units in the Balearic Islands, the Canary Islands, Ceuta, and Melilla<br><br>the basic structure of the Navy’s operational units includes surface and action forces, aviation and submarine flotillas, and a marine corps; the Surface Combat Force includes amphibious, mine warfare, surface warship, and escort squadrons and groups, while the Maritime Action Force is generally made up of units and assets whose main task is to conduct maritime security and surveillance operations in geographically based areas such as the Balearic and Canary islands, Cadiz, and Cartagena; the Navy’s principal warships include 11 frigates, four attack submarines, and three large helicopter-capable amphibious assault ships; it also has squadrons of multirole fighters and anti-submarine warfare aircraft; the 5,500-strong Marine Corps (aka Marine Infantry or Infantería de Armada) has amphibious, garrison, and special operations forces<br><br>the Air Force is organized into an Air Combat Command, home to the air combat squadrons, a General Air Command, and a Canary Islands Air Command; it has approximately 400 aircraft, including about 170 modern European- and US-made fighters and multirole fighter aircraft; in addition to traditional military operations, the Air Force supports such missions as medical operations, delivering humanitarian aid, evacuations, search and rescue, firefighting, and surveillance<br><br>the Spanish military has a rich history that goes back to the 13th century; the Army has an infantry regiment, formed in the 13th century, that is considered the oldest still active military unit in the Western world; the Marine Corps, which traces its roots back to 1537, is the oldest naval infantry force in the World; Spain created a Spanish Legion for foreigners in 1920, but early on the Legion was primarily filled by native Spaniards due to difficulties in recruiting foreigners, and most of its foreign members were from the Republic of Cuba; it was modeled after the French Foreign Legion and its purpose was to provide a corps of professional troops to fight in Spain's colonial campaigns in North Africa; in more recent years, it has been used in NATO peacekeeping deployments; today’s Legion includes a mix of native Spaniards and foreigners with Spanish residency (2023)<br>
+the Spanish Armed Forces have a wide variety of responsibilities, including protecting the country’s national interests, sovereignty, and territory, providing support during natural disasters, and fulfilling Spain’s responsibilities to European and international security; the military conducts operations worldwide, and its air, ground, and naval forces participate in a variety of EU-, NATO-, and UN-led missions; Spain joined NATO in 1982 and is fully integrated into the NATO structure; it routinely conducts exercises with EU and NATO partners, and hosts one of NATO’s two combined air operations centers <br><br>the military is organized into commands for air, cyberspace, joint, land, maritime, and space operations; it maintains garrisons in the Balearic Islands, the Canary Islands, Ceuta, and Melilla<br><br>the Spanish military has a rich history that goes back to the 13th century; the Army has an infantry regiment, formed in the 13th century, that is considered the oldest still active military unit in the Western world; the Marine Corps, which traces its roots back to 1537, is the oldest naval infantry force in the World; Spain created a Spanish Legion for foreigners in 1920, but early on the Legion was primarily filled by native Spaniards due to difficulties in recruiting foreigners, and most of its foreign members were from the Republic of Cuba; it was modeled after the French Foreign Legion and its purpose was to provide a corps of professional troops to fight in Spain's colonial campaigns in North Africa; in more recent years, it has been used in NATO peacekeeping deployments; today’s Legion includes a mix of native Spaniards and foreigners with Spanish residency (2023)<br>
 
 ## Space
 

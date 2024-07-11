@@ -557,66 +557,41 @@ _Currency_: Sudanese pounds (SDG) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 23 million (2020)<br>
-_electrification - total population_: 61.7% (2021)<br>
-_electrification - urban areas_: 84.2% (2021)<br>
-_electrification - rural areas_: 49.3% (2021)<br>
+_electrification - total population_: 63.2% (2022 est.)<br>
+_electrification - urban areas_: 84%<br>
+_electrification - rural areas_: 49.4%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 4.354 million kW (2020 est.)<br>
-_consumption_: 9,682,060,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 4.599 billion kWh (2019 est.)<br>
+_installed generating capacity_: 3.815 million kW (2022 est.)<br>
+_consumption_: 14.875 billion kWh (2022 est.)<br>
+_imports_: 933 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 3.913 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 43.5% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.1% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 55.5% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.9% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 37.6% of total installed capacity (2022 est.)<br>
+_solar_: 0.2% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 61.6% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.6% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_exports_: 35 metric tons (2022 est.)<br>
+_imports_: 300 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 66,900 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 137,700 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 12,900 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 9,000 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 5 billion barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-94,830 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-8,541 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-24,340 bbl/day (2015 est.)<br>
+_total petroleum production_: 68,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 127,000 bbl/day (2022 est.)<br>
+_crude oil estimated reserves_: 1.25 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 84.95 billion cubic meters (2021 est.)<br>
+_proven reserves_: 84.951 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 17.319 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 17.319 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 16.497 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 1,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 16.496 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 8.047 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 6.271 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -718,7 +693,7 @@ the SAF's inventory includes a mix of Chinese, Russian, Soviet-era, and domestic
 <strong>note:</strong> implementation of conscription is reportedly uneven<br>
 
 **Military - note**<br>
-<p>the primary responsibilities of the Sudanese Armed Forces (SAF) are internal security, border control, and countering potential external threats from its neighbors; SAF operations have traditionally been supported by militia and paramilitary forces, particularly the Rapid Support Forces (RSF); in the Spring of 2023, heavy fighting broke out between the SAF and the RSF amid disputes over an internationally-backed plan for a transition towards civilian rule, particularly around the capital Khartoum and the western region of Darfur; fighting continued into 2024 with reports of ethnic cleansing, food insecurity, heavy civilian casualties, and millions of internally displaced persons<br><br>information on the organization of the SAF and the RSF varies; prior to the conflict with the RSF, the SAF Army was estimated to have more than 10 infantry divisions, as well as divisions of mechanized, armored, and airborne/special forces, and several independent infantry brigades; the SAF Air Force has several squadrons of Chinese- and Russian-origin combat aircraft, as well as multiple squadrons of combat helicopters, also largely of Russian origin; the Navy has a small force of coastal patrol boats; prior to the 2023 conflict, the RSF was a lightly armed ground force reportedly organized into brigades of varying size and makeup   </p> <p>the Sudanese military has been a dominant force in the ruling of the country since its independence in 1956; in addition, the military has a large role in the country's economy, reportedly controlling over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports</p> the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of early 2024, UNISFA had approximately 4,000 uniformed personnel assigned<br><br>the October 2020 peace agreement provided for the establishment of a Joint Security Keeping Forces (JSKF) comprised of 12,000 personnel tasked with securing the Darfur region in the place of the UN African Union Hybrid Operation in Darfur (UNAMID), a joint African Union-UN peacekeeping force that operated in the war-torn region between 2007 and the end of its mandate in December 2020; in June 2021, Sudan's transitional government announced it would increase the size of this force to 20,000 and expand its mission scope to include the capital and other parts of the country suffering from violence; the force would include the SAF, RSF, police, intelligence, and representatives from armed groups involved in peace negotiations; in September 2022, the first 2,000 members of the JSKF completed training; the status of the JSKF since the start of the civil war is unclear (2024)<br>
+<p>the primary responsibilities of the Sudanese Armed Forces (SAF) are internal security, border control, and countering potential external threats from its neighbors; SAF operations have traditionally been supported by militia and paramilitary forces, particularly the Rapid Support Forces (RSF); in the Spring of 2023, heavy fighting broke out between the SAF and the RSF amid disputes over an internationally-backed plan for a transition towards civilian rule, particularly around the capital Khartoum and the western region of Darfur; fighting continued into 2024 with reports of ethnic cleansing, food insecurity, heavy civilian casualties, and millions of internally displaced persons<br><br>the Sudanese military has been a dominant force in the ruling of the country since its independence in 1956; in addition, the military has a large role in the country's economy, reportedly controlling over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports</p> the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of 2024, UNISFA had approximately 3,200 personnel assigned<br><br>the October 2020 peace agreement provided for the establishment of a Joint Security Keeping Forces (JSKF) comprised of 12,000 personnel tasked with securing the Darfur region in the place of the UN African Union Hybrid Operation in Darfur (UNAMID), a joint African Union-UN peacekeeping force that operated in the war-torn region between 2007 and the end of its mandate in December 2020; in June 2021, Sudan's transitional government announced it would increase the size of this force to 20,000 and expand its mission scope to include the capital and other parts of the country suffering from violence; the force would include the SAF, RSF, police, intelligence, and representatives from armed groups involved in peace negotiations; in September 2022, the first 2,000 members of the JSKF completed training; the status of the JSKF since the start of the civil war is unclear (2024)<br>
 
 ## Terrorism
 

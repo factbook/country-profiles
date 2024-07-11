@@ -486,7 +486,9 @@ $16.47 billion (31 December 2013 est.)<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
+_electrification - urban areas_: 99.9%<br>
+_electrification - rural areas_: 100%<br>
 
 ## Communications
 
@@ -556,7 +558,7 @@ no regular military forces; the Ministry of Justice includes divisions/bureaus f
 since 2018, Australia and Japan have provided patrol boats to Palau's Division of Marine Law Enforcement (2023)<br>
 
 **Military - note**<br>
-under the Compact of Free Association (COFA) between Palau and the US, the US is responsible for the defense of Palau and the US military is granted access to the islands, but it has not stationed any military forces there; the COFA also allows citizens of Palau to serve in the US armed forces<br><br>Palau has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Palau's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
+under the Compact of Free Association between Palau and the US, the US is responsible for the defense of Palau and the US military is granted access to the islands; the COFA also allows citizens of Palau to serve in the US armed forces<br><br>Palau has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Palau's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
 
 ## Transnational Issues
 

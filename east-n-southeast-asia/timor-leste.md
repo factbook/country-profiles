@@ -532,63 +532,36 @@ $687 million (31 December 2013 est.)<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 99.7% (2022 est.)<br>
+_electrification - urban areas_: 100%<br>
+_electrification - rural areas_: 100%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 284,000 kW (2020 est.)<br>
-_consumption_: -103 million kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 103 million kWh (2019 est.)<br>
+_installed generating capacity_: 283,000 kW (2022 est.)<br>
+_consumption_: 414.76 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 100 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 100% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 99.6% of total installed capacity (2022 est.)<br>
+_solar_: 0.4% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_imports_: 122,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 14,000 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 3,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 32,900 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-3,481 bbl/day (2015 est.)<br>
+_total petroleum production_: 5,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 4,000 bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 5,104,670,000 cubic meters (2019 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 5,104,670,000 cubic meters (2019 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 2.925 billion cubic meters (2022 est.)<br>
+_exports_: 2.925 billion cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 538,000 metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 538,000 metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 637,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 637,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 5.74 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 6.497 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -674,7 +647,7 @@ the military is lightly armed and has a limited inventory consisting of equipmen
 18 years of age for voluntary military service for men and women; compulsory service was authorized in 2020 for men and women aged 18-30 for 18 months of service, but the level of implementation is unclear (2023)<br>
 
 **Military - note**<br>
-the small and lightly equipped F-FDTL has both external defense and internal security roles; it has two infantry battalions, a small air component, and a handful of naval patrol boats <br><br>since achieving independence, Timor-Leste has received security assistance from or has made defense cooperation arrangements with Australia, China, Indonesia, Malaysia, New Zealand, the Philippines, Portugal, the UN, and the US; some Defense Force personnel train with the Indonesian military (2023)<br>
+the F-FDTL is a small and lightly equipped force with both external defense and internal security roles<br><br>since achieving independence, Timor-Leste has received security assistance from or has made defense cooperation arrangements with Australia, China, Indonesia, Malaysia, New Zealand, the Philippines, Portugal, the UN, and the US; some Defense Force personnel train with the Indonesian military (2023)<br>
 
 ## Transnational Issues
 

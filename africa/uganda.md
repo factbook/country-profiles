@@ -570,66 +570,41 @@ _Currency_: Ugandan shillings (UGX) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 34 million (2020)<br>
-_electrification - total population_: 45.2% (2021)<br>
-_electrification - urban areas_: 72.2% (2021)<br>
-_electrification - rural areas_: 35.9% (2021)<br>
+_electrification - total population_: 47.1% (2022 est.)<br>
+_electrification - urban areas_: 72%<br>
+_electrification - rural areas_: 35.9%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 2.397 million kW (2020 est.)<br>
-_consumption_: 4,207,040,000 kWh (2019 est.)<br>
-_exports_: 299.2 million kWh (2019 est.)<br>
-_imports_: 104.2 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 1.157 billion kWh (2019 est.)<br>
+_installed generating capacity_: 2.436 million kW (2022 est.)<br>
+_consumption_: 3.971 billion kWh (2022 est.)<br>
+_exports_: 336.98 million kWh (2022 est.)<br>
+_imports_: 23 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 1.101 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 1.3% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 1.6% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 86.4% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 10.8% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 1% of total installed capacity (2022 est.)<br>
+_solar_: 2.5% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 89.3% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 7.2% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_exports_: 85.4 metric tons (2022 est.)<br>
+_imports_: (2022 est.) less than 1 metric ton<br>
+_proven reserves_: 799.999 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 40,900 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
+_refined petroleum consumption_: 43,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 2.5 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-31,490 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
 _proven reserves_: 14.158 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 5.841 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 5.841 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 6.19 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 6.19 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 2.943 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 2.248 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -711,7 +686,7 @@ the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited
 as many as 6,000 Somalia (625 for UNSOM; the remainder under ATMIS; note - foreign troop contingents in Somalia under ATMIS are drawing down towards a final withdrawal in December 2024) (2024)<br>
 
 **Military - note**<br>
-<p>the UPDF’s missions include defending the sovereignty and territorial integrity of Uganda, assisting the civilian authorities in emergencies and natural disasters, and participating in socio-economic development projects; it supports the police in maintaining internal security and participates in African and UN peacekeeping missions; it is a key contributor to the East Africa Standby Force; the UPDF also has considerable political influence; it is constitutionally granted seats in parliament and is widely viewed as a key constituency for MUSEVENI; it has been used by MUSEVENI and his political party to break up rallies, raid opposition offices, and surveil rival candidates <br><br>the UPDF is viewed as a well-equipped force with considerable operational experience; from 2012-2017, it led regional efforts to pursue the Lord’s Resistance Army (LRA), a small, violent group of Ugandan origin that conducted widespread attacks against civilians in much of Central Africa; Uganda intervened in the South Sudan civil war in 2013-2016, and UPDF forces have clashed with South Sudanese forces along the border as recently as 2023; it is also conducting operations along the border with the Democratic Republic of the Congo (DRC) against the Allied Democratic Front (ADF), which has been designated by the US as the Islamic State of Iraq and ash-Sham in the DRC (see Appendix T); in December 2022, Uganda sent about 1,000 UPDF troops to the DRC as part of a regional force to assist the DRC Government in combating the M23 rebel group; in addition, elements of the UPDF are deployed in the northeast region of Karamoja against cattle rustlers and criminal gangs<br><br>the Land Force has five light infantry divisions, including one trained for mountain warfare; it also has independent armored, artillery, and motorized infantry brigades, as well as a marine force for patrolling Uganda’s lakes and rivers; the special forces command includes armor, artillery, commandos, motorized infantry, and presidential guard forces; the Air Force has small numbers of largely Russian-made combat aircraft and helicopters<br><br>the military traces its history back to the formation of the Uganda Rifles in 1895 under the British colonial government; the Uganda Rifles were merged with the Central Africa Regiment and the East Africa Rifles to form the King’s African Rifles (KAR) in 1902, which participated in both world wars, as well as the Mau Mau rebellion in Kenya (1952-1960); in 1962, the Ugandan battalion of the KAR was transformed into the country's first military force, the Uganda Rifles, which was subsequently renamed the Uganda Army; the UPDF was established in 1995 from the former rebel National Resistance Army following the enactment of the 1995 Constitution of Uganda</p> (2023)<br>
+<p>the UPDF’s missions include defending the sovereignty and territorial integrity of Uganda, assisting the civilian authorities in emergencies and natural disasters, and participating in socio-economic development projects; it supports the police in maintaining internal security and participates in African and UN peacekeeping missions; it is a key contributor to the East Africa Standby Force; the UPDF also has considerable political influence; it is constitutionally granted seats in parliament and is widely viewed as a key constituency for MUSEVENI; it has been used by MUSEVENI and his political party to break up rallies, raid opposition offices, and surveil rival candidates <br><br>the UPDF is viewed as a well-equipped force with considerable operational experience; from 2012-2017, it led regional efforts to pursue the Lord’s Resistance Army (LRA), a small, violent group of Ugandan origin that conducted widespread attacks against civilians in much of Central Africa; Uganda intervened in the South Sudan civil war in 2013-2016, and UPDF forces have clashed with South Sudanese forces along the border as recently as 2023; it is also conducting operations along the border with the Democratic Republic of the Congo (DRC) against the Allied Democratic Front (ADF), which has been designated by the US as the Islamic State of Iraq and ash-Sham in the DRC (see Appendix T); in December 2022, Uganda sent about 1,000 UPDF troops to the DRC as part of a regional force to assist the DRC Government in combating the M23 rebel group; in addition, elements of the UPDF are deployed in the northeast region of Karamoja against cattle rustlers and criminal gangs<br><br>the military traces its history back to the formation of the Uganda Rifles in 1895 under the British colonial government; the Uganda Rifles were merged with the Central Africa Regiment and the East Africa Rifles to form the King’s African Rifles (KAR) in 1902, which participated in both world wars, as well as the Mau Mau rebellion in Kenya (1952-1960); in 1962, the Ugandan battalion of the KAR was transformed into the country's first military force, the Uganda Rifles, which was subsequently renamed the Uganda Army; the UPDF was established in 1995 from the former rebel National Resistance Army following the enactment of the 1995 Constitution of Uganda</p> (2023)<br>
 
 ## Space
 

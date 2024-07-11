@@ -559,71 +559,54 @@ _Currency_: koruny (CZK) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 22.485 million kW (2020 est.)<br>
-_consumption_: 60.814 billion kWh (2020 est.)<br>
-_exports_: 23.521 billion kWh (2020 est.)<br>
-_imports_: 13.368 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 4.117 billion kWh (2020 est.)<br>
+_installed generating capacity_: 21.914 million kW (2022 est.)<br>
+_consumption_: 62.077 billion kWh (2022 est.)<br>
+_exports_: 30.255 billion kWh (2022 est.)<br>
+_imports_: 16.726 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 3.414 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 47% of total installed capacity (2020 est.)<br>
-_nuclear_: 37.6% of total installed capacity (2020 est.)<br>
-_solar_: 3% of total installed capacity (2020 est.)<br>
-_wind_: 0.9% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 4.5% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 7% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 48.4% of total installed capacity (2022 est.)<br>
+_nuclear_: 39.3% of total installed capacity (2022 est.)<br>
+_solar_: 3.1% of total installed capacity (2022 est.)<br>
+_wind_: 0.8% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 2.2% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 6.2% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 6 (2023)<br>
-_Number of nuclear reactors under construction_: 0<br>
-_Net capacity of operational nuclear reactors_: 3.93GW (2023)<br>
-_Percent of total electricity production_: 36.7% (2021)<br>
-_Percent of total energy produced_: 38.3% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 0<br>
+_Net capacity of operational nuclear reactors_: 3.93GW (2023 est.)<br>
+_Percent of total electricity production_: 40% (2023 est.)<br>
 
 **Coal**<br>
-_production_: 33.806 million metric tons (2020 est.)<br>
-_consumption_: 37.212 million metric tons (2020 est.)<br>
-_exports_: 1.885 million metric tons (2020 est.)<br>
-_imports_: 3.795 million metric tons (2020 est.)<br>
-_proven reserves_: 2.927 billion metric tons (2019 est.)<br>
+_production_: 37.423 million metric tons (2022 est.)<br>
+_consumption_: 40.239 million metric tons (2022 est.)<br>
+_exports_: 2.575 million metric tons (2022 est.)<br>
+_imports_: 4.516 million metric tons (2022 est.)<br>
+_proven reserves_: 3.595 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 6,300 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 219,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 400 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 150,200 bbl/day (2018 est.)<br>
+_total petroleum production_: 4,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 211,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 15 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-177,500 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-52,200 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-83,860 bbl/day (2017 est.)<br>
-
 **Natural gas**<br>
-_production_: 189.185 million cubic meters (2020 est.)<br>
-_consumption_: 8,815,133,000 cubic meters (2020 est.)<br>
-_exports_: 0 cubic meters (2020 est.)<br>
-_imports_: 7,590,318,000 cubic meters (2020 est.)<br>
+_production_: 224.725 million cubic meters (2022 est.)<br>
+_consumption_: 7.602 billion cubic meters (2022 est.)<br>
+_imports_: 8.608 billion cubic meters (2022 est.)<br>
 _proven reserves_: 3.964 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 99.533 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 57.268 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 25.526 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 16.739 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 91.213 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 51.306 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 25.255 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 14.652 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 161.972 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 149.874 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -636,8 +619,8 @@ _total subscriptions_: 13.475 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 128 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom market has attracted investment from among the key regional telcos; telcos in the Czech Republic have become multi-service providers, offering a full range of fixed and mobile services; this has enabled the reach of their 5G networks; this process has also been assisted by them closing down 3G networks and reforming spectrum for 5G and LTE use (2023)<br>
-_domestic_: roughly 12 fixed-telephone subscriptions per 100 inhabitants and mobile telephone usage of 125 per 100 inhabitants (2021)<br>
+_general assessment_: <p>telcos in the Czech Republic have become multi-service providers, offering a full range of fixed and mobile services; this has enabled the Mobile Network Operators (MNOs) to expand the reach of their 5G networks while they have been closing down 3G networks and repurposing the internet for 5G and long-term evolution (LTE) use</p> (2024)<br>
+_domestic_: roughly 12 fixed-telephone subscriptions per 100 inhabitants and mobile telephone usage of 128 per 100 inhabitants (2022)<br>
 _international_: country code - 420; satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar) (2019)<br>
 
 **Broadcast media**<br>

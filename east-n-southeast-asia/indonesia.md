@@ -585,66 +585,51 @@ _Currency_: Indonesian rupiah (IDR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) less than 1 million<br>
-_electrification - total population_: 99.2% (2021)<br>
-_electrification - urban areas_: 99.9% (2021)<br>
-_electrification - rural areas_: 98.2% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
+_electrification - urban areas_: 100%<br>
+_electrification - rural areas_: 98.2%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 69.065 million kW (2020 est.)<br>
-_consumption_: 256,742,190,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2020 est.)<br>
-_imports_: 1.553 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 25.08 billion kWh (2019 est.)<br>
+_installed generating capacity_: 69.706 million kW (2022 est.)<br>
+_consumption_: 312.423 billion kWh (2022 est.)<br>
+_imports_: 972.7 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 25.71 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 82.3% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0% of total installed capacity (2020 est.)<br>
-_wind_: 0.2% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 6.8% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 5.7% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 5% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 79.9% of total installed capacity (2022 est.)<br>
+_solar_: 0.1% of total installed capacity (2022 est.)<br>
+_wind_: 0.1% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 8.1% of total installed capacity (2022 est.)<br>
+_geothermal_: 4.9% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 6.8% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 563.728 million metric tons (2020 est.)<br>
-_consumption_: 132.548 million metric tons (2020 est.)<br>
-_exports_: 409.892 million metric tons (2020 est.)<br>
-_imports_: 8.95 million metric tons (2020 est.)<br>
-_proven reserves_: 39.891 billion metric tons (2019 est.)<br>
+_production_: 659.357 million metric tons (2022 est.)<br>
+_consumption_: 202.283 million metric tons (2022 est.)<br>
+_exports_: 469.09 million metric tons (2022 est.)<br>
+_imports_: 12.396 million metric tons (2022 est.)<br>
+_proven reserves_: 34.869 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 842,300 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 1.649 million bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 204,000 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 309,700 bbl/day (2018 est.)<br>
+_total petroleum production_: 865,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 1.728 million bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 2.48 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-950,000 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-79,930 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-591,500 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 62,612,013,000 cubic meters (2020 est.)<br>
-_consumption_: 38,673,953,000 cubic meters (2020 est.)<br>
-_exports_: 23,938,060,000 cubic meters (2020 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 1,408,478,000,000 cubic meters (2021 est.)<br>
+_production_: 57.41 billion cubic meters (2022 est.)<br>
+_consumption_: 36.061 billion cubic meters (2022 est.)<br>
+_exports_: 22.064 billion cubic meters (2022 est.)<br>
+_imports_: 1.027 billion cubic meters (2022 est.)<br>
+_proven reserves_: 1.408 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 563.543 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 267.326 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 209.279 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 86.938 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 684.926 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 386.828 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 224.45 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 73.649 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 29.68 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 33.039 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -748,7 +733,7 @@ the military's inventory is a wide mix of Chinese, Russian, and Western (includi
 225 (plus about 140 police) Central African Republic (MINUSCA); 1,025 Democratic Republic of the Congo (MONUSCO); 1,225 Lebanon (UNIFIL) (2024)<br>
 
 **Military - note**<br>
-the military is responsible for external defense, combatting separatism, and responding to natural disasters; in certain conditions it may provide operational support to police, such as for counterterrorism operations, maintaining public order, and addressing communal conflicts; the TNI has undergone reforms since the 1990s to improve its professionalism and limit its involvement in internal politics; the infantry-heavy Army is the largest service and deployed throughout the country in 15 area (KODAM) and three joint area (KOGABWILHAN) defense commands; it also has a special forces command (KOPASSUS) and three strategic reserve (KOSTRAD) infantry division headquarters; as of 2024, the Army was conducting counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since Indonesia annexed the former Dutch colony in the 1960s; it has also been assisting police in Sulawesi in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local militant group affiliated with the Islamic State of Iraq and ash-Sham (ISIS)<br><br>the Navy is organized and equipped for coastal defense and patrolling Indonesia’s territorial waters where it faces such issues as piracy, transnational crime, illegal fishing, and incursions by Chinese vessels; its surface warships include more than 30 frigates and corvettes and a substantial number of patrol vessels; it also has a few attack-type submarines, as well as a maritime aviation component and an amphibious force with several marine infantry brigades and amphibious assault ships; the Air Force has more than 100 combat aircraft <br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands Province, and held military exercises in the surrounding waters (2024)<br>
+the military is responsible for external defense, combatting separatism, and responding to natural disasters; in certain conditions it may provide operational support to police, such as for counterterrorism operations, maintaining public order, and addressing communal conflicts; the TNI has undergone reforms since the 1990s to improve its professionalism and limit its involvement in internal politics<br><br>the Army is involved in counterinsurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since Indonesia annexed the former Dutch colony in the 1960s; the Army has also been assisting police in Sulawesi in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local militant group affiliated with the Islamic State of Iraq and ash-Sham (ISIS)<br><br>the Navy is responsible for coastal defense and patrolling Indonesia’s territorial waters where it faces such issues as piracy, transnational crime, illegal fishing, and incursions by Chinese vessels; Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands Province, and held military exercises in the surrounding waters (2024)<br>
 
 ## Space
 

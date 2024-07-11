@@ -346,10 +346,10 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: Supreme Leader Ali Hoseini-KHAMENEI (since 4 June 1989)<br>
-_head of government_: Acting President Mohammad MOKHER<br>
+_head of government_: President-elect Masoud PEZESHKIAN (assumes office on 30 July 2024)<br>
 _cabinet_: Council of Ministers selected by the president with legislative approval; the supreme leader has some control over appointments to several ministries<br>
 _elections/appointments_: supreme leader appointed for life by Assembly of Experts; president directly elected by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term and an additional nonconsecutive term); election last held on 28 June 2024 first round (runoff to be held on 5 July 2024)<br>
-_election results_: <em>2024: </em>first round results - Masoud PEZESHKIAN (independent) 44.4%, Saeed JALILI [Front of Islamic Revolution Stability] 40.4%, Mohammad Baqer QAKIBAF (Progress and Justice Population of Islamic Iran) 14.3%, other 0.9% <br><em><br>2021:</em> Ebrahim RAISI elected president; percent of vote - Ebrahim RAISI (independent) 72.4%, Mohsen REZAI (RFII) 13.8%, Abbdolnaser HEMATI (ECP) 9.8%, Amir-Hosein Qazizadeh-HASHEMI (Islamic Law Party) 4%<br>
+_election results_: <em>2024: </em>first round results - Masoud PEZESHKIAN (independent) 44.4%, Saeed JALILI (Front of Islamic Revolution Stability) 40.4%, Mohammad Baqer QAKIBAF (Progress and Justice Population of Islamic Iran) 14.3%, other 0.9%; second round results - Masoud PEZESHKIAN elected; Masoud PEZESHKIAN 54.8%, Saeed JALILI 45.2$<br><em><br>2021:</em> Ebrahim RAISI elected president; percent of vote - Ebrahim RAISI (independent) 72.4%, Mohsen REZAI (RFII) 13.8%, Abbdolnaser HEMATI (ECP) 9.8%, Amir-Hosein Qazizadeh-HASHEMI (Islamic Law Party) 4%<br>
 <strong>Note: </strong>presidential election held early due to the death of President Ebrahim RAISI in a helicopter accident in May 2024<br>
 
 **Legislative branch**<br>
@@ -548,71 +548,55 @@ _Currency_: Iranian rials (IRR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 80.553 million kW (2020 est.)<br>
-_consumption_: 279,826,390,000 kWh (2019 est.)<br>
-_exports_: 6.365 billion kWh (2019 est.)<br>
-_imports_: 2.738 billion kWh (2019 est.)<br>
-_transmission/distribution losses_: 34.303 billion kWh (2019 est.)<br>
+_installed generating capacity_: 80.74 million kW (2022 est.)<br>
+_consumption_: 315.843 billion kWh (2022 est.)<br>
+_exports_: 9.47 billion kWh (2022 est.)<br>
+_imports_: 2.273 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 37.65 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 88.7% of total installed capacity (2020 est.)<br>
-_nuclear_: 1.9% of total installed capacity (2020 est.)<br>
-_solar_: 0.1% of total installed capacity (2020 est.)<br>
-_wind_: 0.2% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 9.1% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 93.5% of total installed capacity (2022 est.)<br>
+_nuclear_: 1.7% of total installed capacity (2022 est.)<br>
+_solar_: 0.2% of total installed capacity (2022 est.)<br>
+_wind_: 0.2% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 4.4% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 1 (2023)<br>
-_Number of nuclear reactors under construction_: 1<br>
-_Net capacity of operational nuclear reactors_: 0.92GW (2023)<br>
-_Percent of total electricity production_: 0.1% (2021)<br>
-_Percent of total energy produced_: 0.19% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 0<br>
+_Number of nuclear reactors under construction_: 1 (2023)<br>
+_Net capacity of operational nuclear reactors_: 0.92GW (2023 est.)<br>
+_Percent of total electricity production_: 1.7% (2023 est.)<br>
 
 **Coal**<br>
-_production_: 2.783 million metric tons (2020 est.)<br>
-_consumption_: 2.794 million metric tons (2020 est.)<br>
-_exports_: 76,000 metric tons (2020 est.)<br>
-_imports_: 87,000 metric tons (2020 est.)<br>
-_proven reserves_: 1.203 billion metric tons (2019 est.)<br>
+_production_: 2.791 million metric tons (2022 est.)<br>
+_consumption_: 3.531 million metric tons (2022 est.)<br>
+_exports_: 261,000 metric tons (2022 est.)<br>
+_imports_: 852,000 metric tons (2022 est.)<br>
+_proven reserves_: 1.203 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 3,450,300 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 1.934 million bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 2,230,900 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 33,500 bbl/day (2018 est.)<br>
+_total petroleum production_: 3.985 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 2.136 million bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 208.6 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-1.764 million bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-397,200 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-64,160 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 237,561,415,000 cubic meters (2019 est.)<br>
-_consumption_: 220,704,282,000 cubic meters (2019 est.)<br>
-_exports_: 17,607,046,000 cubic meters (2019 est.)<br>
-_imports_: 1,153,457,000 cubic meters (2019 est.)<br>
-_proven reserves_: 33,987,296,000,000 cubic meters (2021 est.)<br>
+_production_: 263.28 billion cubic meters (2022 est.)<br>
+_consumption_: 244.89 billion cubic meters (2022 est.)<br>
+_exports_: 19.251 billion cubic meters (2022 est.)<br>
+_imports_: 2.788 billion cubic meters (2022 est.)<br>
+_proven reserves_: 33.987 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 646.038 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 5.142 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 204.21 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 436.687 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 750.453 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 6.714 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 259.198 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 484.541 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 145.54 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 152.479 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -717,7 +701,7 @@ continues to maintain a military presence in Syria reportedly of a few thousand 
 <strong>note:</strong> Iran has recruited, trained, and funded thousands of Syrian and foreign fighters to support the ASAD regime during the Syrian civil war<br>
 
 **Military - note**<br>
-the Islamic Revolutionary Guard Corps (IRGC) was formed in May 1979 in the immediate aftermath of Shah Mohammad Reza PAHLAVI’s fall, as leftists, nationalists, and Islamists jockeyed for power; while the interim prime minister controlled the government and state institutions, such as the Army, followers of Ayatollah Ruhollah KHOMEINI organized counterweights, including the IRGC, to protect the Islamic revolution; the IRGC’s command structure bypassed the elected president and went directly to KHOMEINI; the IRGC played a critical role in helping KHOMEINI consolidate power in the aftermath of the 1979 revolution, and it ensured that KHOMEINI's Islamic revolutionary vision prevailed against domestic challenges from nationalists and leftist factions in the scramble for control after the Shah's departure<br><br>the Iran-Iraq War (1980–88) transformed the IRGC into more of a conventional fighting force with its own ground, air, naval, and special forces, plus control over Iran’s strategic missile and rocket forces; today, the IRGC is a highly institutionalized and parallel military force to Iran’s regular armed forces (Artesh); it is heavily involved in internal security and has significant influence in the political and economic spheres of Iranian society, as well as Iran’s foreign policy; on the economic front, it owns factories and corporations and subsidiaries in banking, infrastructure, housing, airlines, tourism and other sectors; its special operations forces, known as the Qods/Quds Force, specialize in foreign missions and have provided advice, funding, guidance, material support, training, and weapons to militants in countries such as Afghanistan, Iraq, Syria, and Yemen, as well as extremist groups, including HAMAS, Hizballah, Kata’ib Hizballah, and Palestine Islamic Jihad (see Appendix T for additional details on the IRGC and Qods Force); the Qods Force also conducts intelligence and reconnaissance operations <br><br>the Supreme Council for National Security (SCNS) is the senior-most body for formulating Iran’s foreign and security policy; it is formally chaired by the president, who also appoints the SCNS secretary; its members include the speaker of the Majles, the head of the judiciary, the chief of the Armed Forces General Staff (chief of defense or CHOD), the commanders of the Artesh (regular forces) and IRGC, and the ministers of defense, foreign affairs, interior, and intelligence; the SCNS reports to the supreme leader; the supreme leader is the commander-in-chief of the armed forces<br><br>the Iranian Armed Forces are divided between the regular forces (Artesh) and the IRGC; the Artesh primarily focuses on defending Iran’s borders and territorial waters from external threats, while the IRGC has a broader mission to defend the Iranian revolution from any foreign or domestic threat; in 1989, Iran established the Armed Forces General Staff to coordinate military action across both the Artesh and the IRGC; Iran also has a joint military headquarters, the Khatam ol-Anbia Central Headquarters, to command the Artesh and IRGC in wartime<br><br>the Artesh Ground Force consists of about 50 combat brigades, mostly infantry with a sizable contingent of airborne, armored, commando, mechanized, and special operations forces; most units are concentrated along the Iran-Iraq border, reflecting the force’s primary mission to defend against foreign invasion; the IRGC Ground Force is organized into corps for each of the 31 provinces and Tehran city; the corps have a broad mix of armored, infantry, mechanized, and commando units and are postured to counter internal unrest or a ground invasion; the IRGC’s special operations forces are known as the Qods Force; the IRGC controls the Basij Paramilitary Forces, which are also organized into provincial corps with mobile/rapid-reaction, security, infantry, and commando battalions<br><br>the Artesh Navy is considered Iran’s “blue water” navy and has the primary mission of defending Iranian territorial waters and protecting the country’s economic interests in the Caspian Sea, Gulf of Oman, and beyond; it has approximately 10 frigates and corvettes, plus a small force of attack and midget submarines (note - Iran is the only Persian Gulf nation with a submarine force); the IRGC Navy is tasked with protecting primarily the Iranian littoral waters in the Persian Gulf and Strait of Hormuz and employs a force of mostly small, fast attack vessels armed with a variety of weapons systems including anti-ship missiles <br><br>Iran’s air and air defense capabilities are split primarily across three services: the Islamic Republic of Iran Air Force (IRIAF) and the Islamic Republic of Iran Air Defense Force (IRIADF), both under the Artesh, and the IRGC Aerospace Force (IRGCASF); the IRIAF operates the majority of Iran’s combat aircraft and has more than 200 such aircraft, a considerable portion of which are older US models acquired before the 1979 revolution; the remainder includes older Chinese-, French-, and Russian-produced aircraft; the IRIADF controls the country’s surface-to-air missile capabilities; the IRGCASF operates some ground attack aircraft and most of Iran’s unmanned aerial vehicles; it also controls Iran’s cruise and ballistic missile force (2023)<br>
+the Islamic Revolutionary Guard Corps (IRGC) was formed in May 1979 in the immediate aftermath of Shah Mohammad Reza PAHLAVI’s fall, as leftists, nationalists, and Islamists jockeyed for power; while the interim prime minister controlled the government and state institutions, such as the Army, followers of Ayatollah Ruhollah KHOMEINI organized counterweights, including the IRGC, to protect the Islamic revolution; the IRGC’s command structure bypassed the elected president and went directly to KHOMEINI; the IRGC played a critical role in helping KHOMEINI consolidate power in the aftermath of the 1979 revolution, and it ensured that KHOMEINI's Islamic revolutionary vision prevailed against domestic challenges from nationalists and leftist factions in the scramble for control after the Shah's departure<br><br>the Iran-Iraq War (1980–88) transformed the IRGC into more of a conventional fighting force with its own ground, air, naval, and special forces, plus control over Iran’s strategic missile and rocket forces; today, the IRGC is a highly institutionalized and parallel military force to Iran’s regular armed forces (Artesh); it is heavily involved in internal security and has significant influence in the political and economic spheres of Iranian society, as well as Iran’s foreign policy; on the economic front, it owns factories and corporations and subsidiaries in banking, infrastructure, housing, airlines, tourism and other sectors; its special operations forces, known as the Qods/Quds Force, specialize in foreign missions and have provided advice, funding, guidance, material support, training, and weapons to militants in countries such as Afghanistan, Iraq, Syria, and Yemen, as well as extremist groups, including HAMAS, Hizballah, Kata’ib Hizballah, and Palestine Islamic Jihad (see Appendix T for additional details on the IRGC and Qods Force); the Qods Force also conducts intelligence and reconnaissance operations <br><br>the Supreme Council for National Security (SCNS) is the senior-most body for formulating Iran’s foreign and security policy; it is formally chaired by the president, who also appoints the SCNS secretary; its members include the speaker of the Majles, the head of the judiciary, the chief of the Armed Forces General Staff (chief of defense or CHOD), the commanders of the Artesh (regular forces) and IRGC, and the ministers of defense, foreign affairs, interior, and intelligence; the SCNS reports to the supreme leader; the supreme leader is the commander-in-chief of the armed forces<br><br>the Iranian Armed Forces are divided between the regular forces (Artesh) and the IRGC; the Artesh primarily focuses on defending Iran’s borders and territorial waters from external threats, while the IRGC has a broader mission to defend the Iranian revolution from any foreign or domestic threat; in 1989, Iran established the Armed Forces General Staff to coordinate military action across both the Artesh and the IRGC; Iran also has a joint military headquarters, the Khatam ol-Anbia Central Headquarters, to command the Artesh and IRGC in wartime (2023)<br>
 
 ## Space
 

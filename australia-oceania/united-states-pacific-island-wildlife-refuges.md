@@ -98,6 +98,16 @@ the flag of the US is used<br>
 
 ## Energy
 
+**Coal**<br>
+_imports_: 108,000 metric tons (2022 est.)<br>
+
+**Petroleum**<br>
+_refined petroleum consumption_: 2,000 bbl/day (2022 est.)<br>
+
+**Carbon dioxide emissions**<br>
+_total emissions_: 297,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 297,000 metric tonnes of CO2 (2022 est.)<br>
+
 ## Transportation
 
 **Airports**<br>

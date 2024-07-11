@@ -457,68 +457,51 @@ _Currency_: New Taiwan dollars (TWD) per US dollar -<br>
 ## Energy
 
 **Electricity**<br>
-_installed generating capacity_: 57.738 million kW (2020 est.)<br>
-_consumption_: 269,570,325,000 kWh (2020 est.)<br>
-_exports_: 0 kWh (2020 est.)<br>
-_imports_: 0 kWh (2020 est.)<br>
-_transmission/distribution losses_: 9.484 billion kWh (2020 est.)<br>
+_installed generating capacity_: 61.944 million kW (2022 est.)<br>
+_consumption_: 274.029 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 9.615 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 82.2% of total installed capacity (2020 est.)<br>
-_nuclear_: 11.2% of total installed capacity (2020 est.)<br>
-_solar_: 2.2% of total installed capacity (2020 est.)<br>
-_wind_: 0.9% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 2.2% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1.3% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 83.7% of total installed capacity (2022 est.)<br>
+_nuclear_: 8.1% of total installed capacity (2022 est.)<br>
+_solar_: 3.8% of total installed capacity (2022 est.)<br>
+_wind_: 1.2% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 1.8% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 1.3% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 2 (2023)<br>
 _Number of nuclear reactors under construction_: 0<br>
 _Net capacity of operational nuclear reactors_: 1.87GW (2023)<br>
 _Percent of total electricity production_: 11% (2021)<br>
-_Percent of total energy produced_: 63.9% (2021)<br>
 _Number of nuclear reactors permanently shut down_: 2<br>
 
 **Coal**<br>
-_production_: 5.955 million metric tons (2020 est.)<br>
-_consumption_: 67.985 million metric tons (2020 est.)<br>
-_exports_: 118,000 metric tons (2020 est.)<br>
-_imports_: 63.523 million metric tons (2020 est.)<br>
-_proven reserves_: 1 million metric tons (2019 est.)<br>
+_production_: 5.608 million metric tons (2022 est.)<br>
+_consumption_: 66.855 million metric tons (2022 est.)<br>
+_exports_: 52,000 metric tons (2022 est.)<br>
+_imports_: 63.855 million metric tons (2022 est.)<br>
+_proven reserves_: 1 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 800 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 998,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 886,200 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 2.4 million barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-924,000 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-349,600 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-418,300 bbl/day (2015 est.)<br>
+_total petroleum production_: 800 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 1.022 million bbl/day (2022 est.)<br>
+_crude oil estimated reserves_: 2.38 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 150.589 million cubic meters (2019 est.)<br>
-_consumption_: 22,002,493,000 cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 22,172,507,000 cubic meters (2019 est.)<br>
+_production_: 63.747 million cubic meters (2022 est.)<br>
+_consumption_: 27.157 billion cubic meters (2022 est.)<br>
+_imports_: 27.085 billion cubic meters (2022 est.)<br>
 _proven reserves_: 6.23 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 279.206 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 141.445 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 92.207 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 45.554 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 306.035 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 143.069 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 106.739 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 56.227 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 160.669 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 208.336 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -616,7 +599,7 @@ men 18-36 years of age may volunteer or must complete 12 months of compulsory mi
 <strong>note 1: </strong>in January 2024, Taiwan extended compulsory service from 4 to 12 months for men born in 2005 and thereafter<strong><br><br>note 2:</strong> as of 2023, women made up about 15% of the active-duty military<br>
 
 **Military - note**<br>
-the military’s primary responsibility is external security, including the defense of the country’s sovereignty and territory, and the protection of Taiwan’s air space, maritime claims, and sea lanes of communication; its main focus is the challenge posed by the People’s Republic of China; the Army’s primary combat forces include nine mechanized or motorized infantry brigades, four armored brigades, and three artillery brigades; it also has an aviation and special forces command that includes several squadrons of attack helicopters; the Air Force has nearly 300 fighter and multipurpose fighter aircraft organized into tactical wings and squadrons, plus squadrons for anti-submarine and electronic warfare, early warning, and surveillance, as well as an air defense command with surface-to-air missiles; the Navy’s warship inventory includes four destroyers, 22 frigates, more than 40 corvettes, patrol vessels, and missile-armed attack craft, and two combat-capable attack submarines; it also has three marine infantry brigades <br><br>the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2023)<br>
+the military’s primary responsibility is external security, including the defense of the country’s sovereignty and territory, and the protection of Taiwan’s air space, maritime claims, and sea lines of communication; its main focus is the challenge posed by the People’s Republic of China<br><br>the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2024)<br>
 
 ## Space
 

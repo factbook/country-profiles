@@ -557,71 +557,48 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 3.512 million kW (2020 est.)<br>
-_consumption_: 11.063 billion kWh (2020 est.)<br>
-_exports_: 4.105 billion kWh (2020 est.)<br>
-_imports_: 12.013 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 951 million kWh (2020 est.)<br>
+_installed generating capacity_: 4.258 million kW (2022 est.)<br>
+_consumption_: 11.227 billion kWh (2022 est.)<br>
+_exports_: 2.652 billion kWh (2022 est.)<br>
+_imports_: 11.22 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 855.476 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 38% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 3% of total installed capacity (2020 est.)<br>
-_wind_: 35.5% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 6.9% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 16.7% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 28.1% of total installed capacity (2022 est.)<br>
+_solar_: 4.7% of total installed capacity (2022 est.)<br>
+_wind_: 42.8% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 6.6% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 17.8% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 0<br>
-_Number of nuclear reactors under construction_: 0<br>
-_Net capacity of operational nuclear reactors_: 0GW<br>
-_Percent of total electricity production_: 0%<br>
-_Percent of total energy produced_: 0%<br>
-_Number of nuclear reactors permanently shut down_: 2<br>
+_Number of nuclear reactors permanently shut down_: 2 (2023)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 221,000 metric tons (2020 est.)<br>
-_exports_: 75,000 metric tons (2020 est.)<br>
-_imports_: 268,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 263,000 metric tons (2022 est.)<br>
+_exports_: 154,000 metric tons (2022 est.)<br>
+_imports_: 496,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 4,000 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 68,000 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 900 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 194,900 bbl/day (2018 est.)<br>
+_total petroleum production_: 4,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 68,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 12 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-196,500 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-174,800 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-42,490 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 2.231 billion cubic meters (2019 est.)<br>
-_exports_: 497.923 million cubic meters (2020 est.)<br>
-_imports_: 2.819 billion cubic meters (2020 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_consumption_: 1.601 billion cubic meters (2022 est.)<br>
+_exports_: 1.921 billion cubic meters (2022 est.)<br>
+_imports_: 3.53 billion cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 14.503 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 693,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 9.488 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 4.322 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 12.803 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 586,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 9.115 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 3.102 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 101.651 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 85.201 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -634,8 +611,8 @@ _total subscriptions_: 3.826 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 139 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Lithuania&rsquo;s small telecoms market is among the more advanced in Europe, particularly given the universal access to LTE infrastructure and the extensive fiber footprint; investment has been focused on fiber broadband and mobile network upgrades; SIM card penetration is relatively high for the region, with a growing proportion of subscribers being on higher-Average Revenue Per User (ARPU) contract plans; while LTE services are available nationally, operators have made steady investments in 5G; the regulator has helped the network operators to develop 5G by allowing them to repurpose spectrum in the 2.1GHz and 2.4GHz bands; the regulator in mid-2022 completed auctions of spectrum in the 700MHz and 3.4GHz bands; service obligations on the licensees include the provision of services to the five main cities by the end of 2023 (2023)<br>
-_domestic_: nearly 10 per 100 for fixed-line subscriptions; mobile-cellular subscriptions at 134 per 100 persons (2021)<br>
+_general assessment_: <p>Lithuania’s small telecoms market is among the more advanced in Europe, particularly given the universal access to long-term evolution (LTE) infrastructure and the extensive fiber footprint; Operator investment has been focused on fiber broadband and mobile network upgrades; Fiber is now by far the dominant fixed broadband platform, with the number of Digital Subscriber Line (DSL) and cable connections in steady decline; LTE services are available nationally, operators have made steady investments in 5G</p> (2024)<br>
+_domestic_: nearly 9 per 100 for fixed-line subscriptions; mobile-cellular subscriptions at 139 per 100 persons (2022)<br>
 _international_: country code - 370; landing points for the BCS East, BCS East-West Interlink and NordBalt connecting Lithuania to Sweden, and Latvia&nbsp;; further transmission by satellite; landline connections to Latvia and Poland (2019)<br>
 
 **Broadcast media**<br>
@@ -720,7 +697,7 @@ the military's inventory is a mix of Soviet-era and more modern European and US 
 <strong>note: </strong>contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units; units affiliated with the multinational brigade remain within the structures of the armed forces of their respective countries until the brigade is activated for participation in an international operation<br>
 
 **Military - note**<br>
-the Lithuanian Armed Forces are responsible for the defense of the country’s interests, sovereignty, and territory, fulfilling Lithuania’s commitments to NATO and European security, and contributing to UN international peacekeeping efforts; Russia is Lithuania’s primary security focus, which has only increased since the Russian seizure of Crimea in 2014 and subsequent full-scale attack on Ukraine in 2022; Lithuania has been a member of NATO since 2004 and is reliant on the Alliance as the country’s security guarantor; it is actively engaged in both NATO and EU security, as well as bilaterally with allies such as the other Baltic States, Germany, Poland, the UK, Ukraine, and the US; the Lithuanian military has participated in NATO and EU missions abroad and regularly conducts training and exercises with NATO and EU partner forces; it hosts NATO forces, is a member of the UK-led Joint Expeditionary Force, and contributes troops to a multinational brigade with Poland and Ukraine; Lithuania participated in its first UN peacekeeping mission in 1994<br><br>the Land Forces form the backbone of the country’s defense force; the active Land Forces comprise a mechanized infantry brigade and a motorized infantry brigade; they are supplemented by the part-time National Defense Volunteer Forces, which are organized into six district-based territorial units; since 2017, Lithuania has hosted a German-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative<br><br>Lithuania has no combat aircraft but has a ground air defense unit, and NATO has provided air protection for Lithuania since 2004 through its Baltic Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on four-month rotations; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base; Lithuania’s Naval Forces have small patrol vessel and mine warfare squadrons; the Special Operations Forces have air, ground, and naval units for missions such as counterterrorism, direct action, hostage rescue, military assistance, and reconnaissance (2024)<br>
+the Lithuanian Armed Forces are responsible for the defense of the country’s interests, sovereignty, and territory, fulfilling Lithuania’s commitments to NATO and European security, and contributing to UN international peacekeeping efforts; Russia is Lithuania’s primary security focus, which has only increased since the Russian seizure of Crimea in 2014 and subsequent full-scale attack on Ukraine in 2022; Lithuania has been a member of NATO since 2004 and is reliant on the Alliance as the country’s security guarantor; it is actively engaged in both NATO and EU security, as well as bilaterally with allies such as the other Baltic States, Germany, Poland, the UK, Ukraine, and the US; the Lithuanian military has participated in NATO and EU missions abroad and regularly conducts training and exercises with NATO and EU partner forces; it hosts NATO forces, is a member of the UK-led Joint Expeditionary Force, and contributes troops to a multinational brigade with Poland and Ukraine; Lithuania participated in its first UN peacekeeping mission in 1994<br><br>since 2017, Lithuania has hosted a German-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; NATO has also provided air protection for Lithuania since 2004 through its Baltic Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on four-month rotations; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base (2024)<br>
 
 ## Transnational Issues
 

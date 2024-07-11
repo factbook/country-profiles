@@ -554,63 +554,45 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 22.364 million kW (2020 est.)<br>
-_consumption_: 48.409 billion kWh (2020 est.)<br>
-_exports_: 6.097 billion kWh (2020 est.)<br>
-_imports_: 7.553 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 5.269 billion kWh (2020 est.)<br>
+_installed generating capacity_: 23.316 million kW (2022 est.)<br>
+_consumption_: 50.255 billion kWh (2022 est.)<br>
+_exports_: 3.062 billion kWh (2022 est.)<br>
+_imports_: 12.314 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 4.54 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 39% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 3.2% of total installed capacity (2020 est.)<br>
-_wind_: 23.3% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 26.5% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0.4% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 7.7% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 42.1% of total installed capacity (2022 est.)<br>
+_solar_: 7.4% of total installed capacity (2022 est.)<br>
+_wind_: 28.8% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 12.8% of total installed capacity (2022 est.)<br>
+_geothermal_: 0.4% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 8.6% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 957,000 metric tons (2020 est.)<br>
-_exports_: 1,000 metric tons (2020 est.)<br>
-_imports_: 238,000 metric tons (2020 est.)<br>
-_proven reserves_: 36 million metric tons (2019 est.)<br>
+_consumption_: 9,000 metric tons (2022 est.)<br>
+_exports_: 200 metric tons (2022 est.)<br>
+_imports_: 23,000 metric tons (2022 est.)<br>
+_proven reserves_: 3 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 8,000 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 249,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 255,400 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-323,000 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-143,500 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-78,700 bbl/day (2017 est.)<br>
+_total petroleum production_: 8,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 212,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 5.94 billion cubic meters (2020 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 6.09 billion cubic meters (2020 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_consumption_: 5.515 billion cubic meters (2022 est.)<br>
+_imports_: 5.97 billion cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 50.37 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 4.882 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 33.429 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 12.059 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 42.562 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 40,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 31.394 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 11.128 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 101.734 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 80.316 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -710,7 +692,7 @@ the military's inventory includes mostly European- and US-origin weapons systems
 the Portuguese Armed Forces have more than 1,100 military personnel deployed around the world engaged in missions supporting the EU, NATO, the UN, and partner nations; key deployments include 225 troops in the Central African Republic (MINUSCA), approximately 220 in Lithuania (NATO), and approximately 150 in Romania (NATO); it also participates in NATO air policing and maritime patrolling operations (2024)<br>
 
 **Military - note**<br>
-the Portuguese military is an all-volunteer force with the primary responsibilities of external defense, humanitarian operations, and fulfilling Portugal’s commitments to European and international security; Portugal was one of the original signers of the North Atlantic Treaty (also known as the Washington Treaty) in 1949 establishing NATO, and the Alliance forms a key pillar of Portugal’s defense policy; Portugal is also a signatory of the EU’s Common Security and Defense Policy, and it regularly participates in a variety of EU, NATO, and UN deployments around the world; the military’s largest commitments include air, ground, and naval forces under NATO-led missions and standing task forces in the Baltics, Eastern Europe, and the Mediterranean Sea; the military also participates regularly in exercises with NATO partners <br><br>Portugal has had a standing army since the 1570s; the modern-day Army’s primary combat forces are a heavy mechanized brigade, a light mechanized “intervention” brigade, and a rapid reaction brigade comprised of commandos, paratroopers, and special forces; there are also garrison units in the Azores and Madeira <br><br>Portugal’s Navy is one of the oldest in the world, having been permanently established in in the 1300s, and maritime security has long been a key component of the military’s portfolio; the current Navy has a wide variety of missions in addition to war fighting, such as combating piracy, evacuating national citizens from conflict zones, fishery inspections, maritime interdiction, search and rescue, providing support to other domestic security agencies, and assisting with scientific research; its principal warships are 11 frigates, corvettes, and offshore patrol ships, and two attack-type submarines; the Navy also has a small marine force, which constitutes the Navy’s commando and special operations component <br><br>the Air Force was formed in 1952 although the first flying unit was created in 1911; the current Air Force has about 20 US-made fighter aircraft, as well as reconnaissance and surveillance, maritime patrol, transport, search and rescue, and firefighting fixed- and rotary-wing aircraft (2023)<br>
+the Portuguese military is an all-volunteer force with the primary responsibilities of external defense, humanitarian operations, and fulfilling Portugal’s commitments to European and international security; maritime security has long been a key component of the military's portfolio, and Portugal has one of the world's oldest navies<br><br>Portugal was one of the original signers of the North Atlantic Treaty (also known as the Washington Treaty) in 1949 establishing NATO, and the Alliance forms a key pillar of Portugal’s defense policy; Portugal is also a signatory of the EU’s Common Security and Defense Policy, and it regularly participates in a variety of EU, NATO, and UN deployments around the world; the military’s largest commitments include air, ground, and naval forces under NATO-led missions and standing task forces in the Baltics, Eastern Europe, and the Mediterranean Sea; the military also participates regularly in exercises with NATO partners (2023)<br>
 
 ## Space
 

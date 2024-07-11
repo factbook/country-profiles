@@ -561,71 +561,52 @@ _Currency_: Belarusian rubles (BYB/BYR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 11.36 million kW (2020 est.)<br>
-_consumption_: 32,665,500,000 kWh (2019 est.)<br>
-_exports_: 4.777 billion kWh (2020 est.)<br>
-_imports_: 4.277 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 2.711 billion kWh (2019 est.)<br>
+_installed generating capacity_: 11.508 million kW (2022 est.)<br>
+_consumption_: 35.516 billion kWh (2022 est.)<br>
+_exports_: 4.676 billion kWh (2022 est.)<br>
+_imports_: 4.287 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 2.717 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 95.8% of total installed capacity (2020 est.)<br>
-_nuclear_: 0.9% of total installed capacity (2020 est.)<br>
-_solar_: 0.5% of total installed capacity (2020 est.)<br>
-_wind_: 0.5% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 1.1% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1.2% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 84.5% of total installed capacity (2022 est.)<br>
+_nuclear_: 12.1% of total installed capacity (2022 est.)<br>
+_solar_: 0.4% of total installed capacity (2022 est.)<br>
+_wind_: 0.5% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 1% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 1.4% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 2 (2023)<br>
-_Number of nuclear reactors under construction_: 0<br>
-_Net capacity of operational nuclear reactors_: 2.22GW (2023)<br>
-_Percent of total electricity production_: 14.1% (2021)<br>
-_Percent of total energy produced_: 40.8% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 0<br>
+_Net capacity of operational nuclear reactors_: 2.22GW (2023 est.)<br>
+_Percent of total electricity production_: 28.6% (2023 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 621,000 metric tons (2020 est.)<br>
-_exports_: 1.574 million metric tons (2020 est.)<br>
-_imports_: 2.117 million metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 778,000 metric tons (2022 est.)<br>
+_exports_: 1.213 million metric tons (2022 est.)<br>
+_imports_: 2.467 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 34,300 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 134,600 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 32,200 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 383,200 bbl/day (2018 est.)<br>
+_total petroleum production_: 30,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 131,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 198 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-477,200 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-351,200 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-14,630 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 68.951 million cubic meters (2019 est.)<br>
-_consumption_: 18,639,590,000 cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 18,673,429,000 cubic meters (2019 est.)<br>
+_production_: 73.929 million cubic meters (2022 est.)<br>
+_consumption_: 16.683 billion cubic meters (2022 est.)<br>
+_imports_: 16.688 billion cubic meters (2022 est.)<br>
 _proven reserves_: 2.832 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 54.695 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 1.623 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 16.856 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 36.217 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 51.682 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 1.946 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 17.32 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 32.415 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 102.558 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 99.484 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -638,8 +619,8 @@ _total subscriptions_: 11.771 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 123 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the Government of Belarus has successfully promoted the migration to an all-IP platform as part of a wider effort towards a digital transformation for the economy; the state-supported infrastructure operator beCloud has built an extensive fiber network, which reaches all but the smallest settlements in the country; Belarus has the second-highest fiber subscription rate in Europe, behind only Iceland; LTE coverage is almost universal, while considerable progress has also been made in developing 5G services (2021)<br>
-_domestic_: fixed-line teledensity is improving although rural areas continue to be underserved, approximately 45 per 100 fixed-line; mobile-cellular teledensity now roughly 123 telephones per 100 persons (2021)<br>
+_general assessment_: <p>the government of Belarus has successfully promoted the migration to an all-internet protocol (IP) platform as part of a wider effort towards a digital transformation for the economy; the state-supported infrastructure operator has built an extensive fiber network which reaches all but the smallest settlements in the country; Belarus has the second highest fiber usage rate in Europe, behind only Iceland; long-term evolution (LTE) coverage is almost universal, while considerable progress has also been made in developing 5G services; telcos have had to invest in network infrastructure while managing a significant fall in the value of the local currency (particularly against the euro and the US dollar)</p> (2024)<br>
+_domestic_: fixed-line tele density 44 per 100 fixed-line; mobile-cellular tele density 123 telephones per 100 persons (2022)<br>
 _international_: country code - 375; Belarus is landlocked and therefore a member of the Trans-European Line (TEL), Trans-Asia-Europe (TAE) fiber-optic line, and has access to the Trans-Siberia Line (TSL); 3 fiber-optic segments provide connectivity to Latvia, Poland, Russia, and Ukraine; worldwide service is available to Belarus through this infrastructure; additional analog lines to Russia; Intelsat, Eutelsat, and Intersputnik earth stations; almost 31,000 base stations in service in 2019 (2020)<br>
 
 **Broadcast media**<br>

@@ -558,66 +558,40 @@ _Currency_: lempiras (HNL) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 1 million (2020)<br>
-_electrification - total population_: 94.1% (2021)<br>
-_electrification - urban areas_: 100% (2021)<br>
-_electrification - rural areas_: 85.6% (2021)<br>
+_electrification - total population_: 94.4% (2022 est.)<br>
+_electrification - urban areas_: 100%<br>
+_electrification - rural areas_: 86.8%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 3.991 million kW (2020 est.)<br>
-_consumption_: 8,140,480,000 kWh (2019 est.)<br>
-_exports_: 540 million kWh (2019 est.)<br>
-_imports_: 787 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 3.16 billion kWh (2019 est.)<br>
+_installed generating capacity_: 3.195 million kW (2022 est.)<br>
+_consumption_: 8.789 billion kWh (2022 est.)<br>
+_exports_: 3 million kWh (2022 est.)<br>
+_imports_: 212.156 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 3.424 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 46.7% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 10.3% of total installed capacity (2020 est.)<br>
-_wind_: 7.5% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 24.7% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 2.7% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 8.1% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 36.9% of total installed capacity (2022 est.)<br>
+_solar_: 9.9% of total installed capacity (2022 est.)<br>
+_wind_: 6.5% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 33.3% of total installed capacity (2022 est.)<br>
+_geothermal_: 3% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 10.4% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 25,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 25,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 190,000 metric tons (2022 est.)<br>
+_imports_: 190,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 66,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-12,870 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-56,120 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_total petroleum production_: 20 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 67,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 8.523 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 61,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 8.462 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 9.428 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 429,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 8.999 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 19.8 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 16.386 million Btu/person (2022 est.)<br>
 
 ## Communications
 

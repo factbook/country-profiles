@@ -571,66 +571,40 @@ _Currency_: Kenyan shillings (KES) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 12 million (2020)<br>
-_electrification - total population_: 76.5% (2021)<br>
-_electrification - urban areas_: 97.5% (2021)<br>
-_electrification - rural areas_: 68.1% (2021)<br>
+_electrification - total population_: 76% (2022 est.)<br>
+_electrification - urban areas_: 98%<br>
+_electrification - rural areas_: 65.6%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 3.304 million kW (2020 est.)<br>
-_consumption_: 8.243 billion kWh (2019 est.)<br>
-_exports_: 16 million kWh (2019 est.)<br>
-_imports_: 277 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 2.724 billion kWh (2019 est.)<br>
+_installed generating capacity_: 3.746 million kW (2022 est.)<br>
+_consumption_: 9.622 billion kWh (2022 est.)<br>
+_exports_: 18 million kWh (2022 est.)<br>
+_imports_: 221.841 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 2.947 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 8.3% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 1% of total installed capacity (2020 est.)<br>
-_wind_: 10.7% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 32.6% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 46.2% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1.2% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 8% of total installed capacity (2022 est.)<br>
+_solar_: 3.1% of total installed capacity (2022 est.)<br>
+_wind_: 17.3% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 24.6% of total installed capacity (2022 est.)<br>
+_geothermal_: 44.6% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 2.3% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 821,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 822,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 1.168 million metric tons (2022 est.)<br>
+_exports_: (2022 est.) less than 1 metric ton<br>
+_imports_: 1.168 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 116,400 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-13,960 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-173 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-90,620 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_refined petroleum consumption_: 119,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 17.709 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 1.25 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 16.459 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 19.471 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 2.638 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 16.833 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 6.31 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 5.692 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -730,7 +704,7 @@ no conscription; 18-26 years of age for voluntary service for men and women (und
 400 Democratic Republic of the Congo (MONUSCO); more than 3,000 troops deployed in Somalia under ATMIS (note - ATMIS troop contingents are drawing down towards a final exit in December 2024) (2024)<br>
 
 **Military - note**<br>
-the KDF's chief security concerns and missions include protecting the country’s sovereignty and territory, regional disputes, the threat posed by the al-Shabaab terrorist group based in neighboring Somalia, maritime crime and piracy, and assisting civil authorities in responding to emergency, disaster, or political unrest as requested; it has considerable experience, having conducted operations in neighboring Somalia since 2011 and taken part in numerous regional peacekeeping and security missions; the KDF is a leading member of the Africa Standby Force; it participates in multinational exercises, and has ties to a variety of foreign militaries, including those of France, the UK, and the US <br><br>the Army has five combat brigades comprised of infantry, armored, and artillery forces, as well as special operations regiment with airborne, special forces, and ranger battalions; it also has a helicopter-equipped air cavalry battalion; the Navy has several offshore patrol vessels, large coastal patrol boats, and missile-armed craft; the Air Force has a small inventory of older US-origin fighter aircraft, as well as some transport aircraft and combat helicopters <br><br>Kenyan military forces intervened in Somalia in October 2011 to combat the al-Shabaab terrorist group, which had conducted numerous cross-border attacks into Kenya; in November 2011, the UN and the African Union invited Kenya to incorporate its forces into the African Union Mission in Somalia (AMISOM); Kenyan forces were formally integrated into AMISOM (now the AU Transition Mission in Somalia or ATMIS) in February 2012<br><br>the Kenya Military Forces were created following independence in 1963; the current KDF was established and its composition laid out in the 2010 constitution; it is governed by the Kenya Defense Forces Act of 2012; the Army traces its origins back to the Kings African Rifles (KAR), a British colonial regiment raised from Britain's East Africa possessions from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2023)<br>
+the KDF's chief security concerns and missions include protecting the country’s sovereignty and territory, regional disputes, the threat posed by the al-Shabaab terrorist group based in neighboring Somalia, maritime crime and piracy, and assisting civil authorities in responding to emergency, disaster, or political unrest as requested; it has considerable experience, having conducted operations in neighboring Somalia since 2011 and taken part in numerous regional peacekeeping and security missions; the KDF is a leading member of the Africa Standby Force; it participates in multinational exercises, and has ties to a variety of foreign militaries, including those of France, the UK, and the US <br><br>Kenyan military forces intervened in Somalia in October 2011 to combat the al-Shabaab terrorist group, which had conducted numerous cross-border attacks into Kenya; in November 2011, the UN and the African Union invited Kenya to incorporate its forces into the African Union Mission in Somalia (AMISOM); Kenyan forces were formally integrated into AMISOM (now the AU Transition Mission in Somalia or ATMIS) in February 2012<br><br>the Kenya Military Forces were created following independence in 1963; the current KDF was established and its composition laid out in the 2010 constitution; it is governed by the Kenya Defense Forces Act of 2012; the Army traces its origins back to the Kings African Rifles (KAR), a British colonial regiment raised from Britain's East Africa possessions from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2023)<br>
 
 ## Space
 

@@ -560,65 +560,38 @@ _Currency_: pulas (BWP) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 73.7% (2021)<br>
-_electrification - urban areas_: 93% (2021)<br>
-_electrification - rural areas_: 24.9% (2021)<br>
+_electrification - total population_: 75.9% (2022 est.)<br>
+_electrification - urban areas_: 95.5%<br>
+_electrification - rural areas_: 25%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 766,000 kW (2020 est.)<br>
-_consumption_: 3,515,900,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 1.101 billion kWh (2019 est.)<br>
-_transmission/distribution losses_: 631 million kWh (2019 est.)<br>
+_installed generating capacity_: 738,000 kW (2022 est.)<br>
+_consumption_: 3.697 billion kWh (2022 est.)<br>
+_exports_: 2 million kWh (2022 est.)<br>
+_imports_: 1.662 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 591.813 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 99.8% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.2% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 99.8% of total installed capacity (2022 est.)<br>
+_solar_: 0.2% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 1.876 million metric tons (2020 est.)<br>
-_consumption_: 1.416 million metric tons (2020 est.)<br>
-_exports_: 497,000 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 1.66 billion metric tons (2019 est.)<br>
+_production_: 2.634 million metric tons (2022 est.)<br>
+_consumption_: 2.291 million metric tons (2022 est.)<br>
+_exports_: 539,000 metric tons (2022 est.)<br>
+_imports_: 1,000 metric tons (2022 est.)<br>
+_proven reserves_: 1.66 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 21,700 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-21,090 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_refined petroleum consumption_: 21,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 5.965 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 2.922 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 3.042 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 8.145 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 5.171 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 2.974 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 34.095 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 39.265 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -698,7 +671,4 @@ the BDF has a mix of mostly older weapons and equipment, largely of Western/Euro
 the BDF’s key functions include defending the country's territorial integrity on land and in the air, ensuring national security and stability, and aiding civil authorities in support of domestic missions such as disaster relief and anti-poaching; it participates in regional and international security operations<br><br>Bechuanaland/Botswana did not have a permanent military during colonial times, with the British colonial administrators relying instead on small, lightly armed constabularies such as the Bechuanaland Mounted Police, the Bechuanaland Border Police, and by the early 1960s, the Police Mobile Unit (PMU); after independence in 1966, Botswana militarized the PMU and gave it responsibility for the country’s defense rather than create a conventional military force; however, turmoil in neighboring countries and numerous cross-border incursions by Rhodesian and South African security forces in the 1960s and 1970s demonstrated that the PMU was inadequate for defending the country and led to the establishment of the Botswana Defense Force (BDF) in 1977 (2023)<br>
 
 ## Transnational Issues
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Botswana does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials investigated some additional trafficking crimes and referred victims to services, increased cooperation with foreign governments to investigate and prosecute cross-border trafficking, and sought trafficking survivors&rsquo; input in drafting a new National Action Plan; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; officials did not initiate any new prosecutions or convict any traffickers, nor did they amend the anti-trafficking law to remove sentencing provisions that allow fines in lieu of imprisonment; fewer trafficking victims were identified, and the lack of formal procedures to identify and refer victims to care hindered protection efforts; the government continued to rely on civil society to provide most victim services and did not report providing adequate in-kind or financial support for these efforts; efforts to regulate labor recruitment agencies remained minimal, increasing migrant workers&rsquo; vulnerability to trafficking; therefore, Botswana was downgraded to Tier 2 Watch List (2023)<br>
 

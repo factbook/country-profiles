@@ -574,66 +574,46 @@ _Currency_: bolivianos (BOB) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 2 million (2020)<br>
-_electrification - total population_: 98.5% (2021)<br>
-_electrification - urban areas_: 100% (2021)<br>
-_electrification - rural areas_: 95.1% (2021)<br>
+_electrification - total population_: 99.9% (2022 est.)<br>
+_electrification - urban areas_: 100%<br>
+_electrification - rural areas_: 95.6%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 3.834 million kW (2020 est.)<br>
-_consumption_: 8,756,690,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 1.227 billion kWh (2019 est.)<br>
+_installed generating capacity_: 4.104 million kW (2022 est.)<br>
+_consumption_: 10.565 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 948.628 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 64.4% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 2.6% of total installed capacity (2020 est.)<br>
-_wind_: 0.7% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 30.5% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1.8% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 65% of total installed capacity (2022 est.)<br>
+_solar_: 3% of total installed capacity (2022 est.)<br>
+_wind_: 3.8% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 24.8% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 3.4% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 1 million metric tons (2019 est.)<br>
+_consumption_: 9,000 metric tons (2022 est.)<br>
+_imports_: 9,000 metric tons (2022 est.)<br>
+_proven reserves_: 1 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 65,400 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 87,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
+_total petroleum production_: 58,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 87,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 240.9 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-65,960 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-9,686 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-20,620 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 15,328,422,000 cubic meters (2019 est.)<br>
-_consumption_: 2,918,839,000 cubic meters (2019 est.)<br>
-_exports_: 11,818,215,000 cubic meters (2019 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
+_production_: 13.76 billion cubic meters (2022 est.)<br>
+_consumption_: 3.055 billion cubic meters (2022 est.)<br>
+_exports_: 10.285 billion cubic meters (2022 est.)<br>
 _proven reserves_: 302.99 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 17.786 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 12.071 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 5.715 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 17.773 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 24,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 11.768 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 5.981 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 27.094 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 24.229 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -739,9 +719,6 @@ has a small space program focused on acquiring and operating satellites; operate
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 16,350 (Venezuela) (2023)<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Bolivia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government adopted a National Action Plan for the elimination of trafficking and reportedly sentenced three traffickers who had been detained since 2016; however, Bolivia did not demonstrate overall increasing efforts compared with the previous reporting period; officials did not report investigating, prosecuting, or convicting traffickers and did not report identifying or referring victims to care; therefore, Bolivia was downgraded to Tier 2 Watch List (2023)<br>
 
 **Illicit drugs**<br>
 <p>the third-largest source country of cocaine and a major transit country for Peruvian cocaine; coca cultivation in 2021 totaled 39,700 hectares (ha); most  cocaine is exported to other Latin American countries, especially Brazil, Paraguay, and Argentina, for domestic consumption, or for onward transit from those countries to West Africa and Europe, not the United States.</p> <p> </p><br>

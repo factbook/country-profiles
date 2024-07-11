@@ -495,40 +495,16 @@ $93.5 million (2012 est.)<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 83.6% (2021)<br>
-_electrification - urban areas_: 97.5% (2021)<br>
-_electrification - rural areas_: 79.4% (2021)<br>
-
-**Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
+_electrification - total population_: 85.3% (2022 est.)<br>
+_electrification - urban areas_: 98.6%<br>
+_electrification - rural areas_: 79.4%<br>
 
 **Petroleum**<br>
-_refined petroleum consumption_: 1,200 bbl/day (2019 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2014)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_refined petroleum consumption_: 1,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 177,000 metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 177,000 metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
-
-**Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
+_total emissions_: 166,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 166,000 metric tonnes of CO2 (2022 est.)<br>
 
 ## Communications
 
@@ -590,7 +566,7 @@ _key ports_: Colonia, Lele Harbor, Moen, Pohnpei Harbor<br>
 no military forces; Federated States of Micronesia National Police (includes a maritime wing); the Department of Justice oversees the National Police; State police forces are responsible for law enforcement in their respective states and are under the jurisdiction of each state&rsquo;s director of public safety (2024)<br>
 
 **Military - note**<br>
-defense is the responsibility of the US; in 1982, the FSM signed a Compact of Free Association (COFA) with the US, which granted the FSM financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986, and its funding was renewed in 2003; Micronesians can serve in the US armed forces<br><br>Micronesia has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Micronesia's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
+defense is the responsibility of the US; in 1982, the FSM signed a Compact of Free Association (COFA) with the US, which granted the FSM financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986 and its funding was renewed in 2003; Micronesians can serve in the US armed forces<br><br>the FSM has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within the FSM's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2024)<br>
 
 ## Transnational Issues
 

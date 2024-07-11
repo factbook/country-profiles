@@ -546,63 +546,39 @@ _Currency_: Singapore dollars (SGD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 12.24 million kW (2020 est.)<br>
-_consumption_: 50,742,380,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2020 est.)<br>
-_transmission/distribution losses_: 571 million kWh (2019 est.)<br>
+_installed generating capacity_: 12.538 million kW (2022 est.)<br>
+_consumption_: 57.029 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 656.085 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 96.5% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 1.2% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 2.3% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 94.7% of total installed capacity (2022 est.)<br>
+_solar_: 2.1% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 3.2% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 423,000 metric tons (2020 est.)<br>
-_exports_: 1,000 metric tons (2020 est.)<br>
-_imports_: 424,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 784,000 metric tons (2022 est.)<br>
+_exports_: 2,000 metric tons (2022 est.)<br>
+_imports_: 595,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 1.448 million bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 13,000 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 1,121,200 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-755,000 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-1.82 million bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-2.335 million bbl/day (2015 est.)<br>
+_refined petroleum consumption_: 1.47 million bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 13,396,282,000 cubic meters (2019 est.)<br>
-_exports_: 550.818 million cubic meters (2020 est.)<br>
-_imports_: 14,727,709,000 cubic meters (2020 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_consumption_: 13.724 billion cubic meters (2022 est.)<br>
+_exports_: 352.812 million cubic meters (2022 est.)<br>
+_imports_: 15.124 billion cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 238.983 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 1.588 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 211.115 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 26.28 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 241.71 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 1.558 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 213.229 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 26.923 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 639.951 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 653.844 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -697,7 +673,7 @@ the SAF has a diverse and largely modern mix of domestically produced and import
 maintains permanent training detachments of military personnel in Australia, France, and the US (2023)<br>
 
 **Military - note**<br>
-the SAF's roots go back to 1854 when the Singapore Volunteer Rifle Corps was formed under colonial rule; the first battalion of regular soldiers, the First Singapore Infantry Regiment, was organized in 1957; the modern SAF was established in 1965 and is today widely viewed as the best equipped military in Southeast Asia; the SAF’s primary responsibility is external defense, but it has trained for certain domestic security operations, including joint deterrence patrols with police in instances of heightened terrorism alerts; the Army is organized into three combined arms divisions and a “people’s defense force,” a divisional headquarters responsible for homeland security and counterterrorism; the Army is based largely on 2-year conscripts and reservists with a small cadre of professional soldiers, and Army units are comprised of a mix of active duty and cadre/reserve battalions that are filled out by reservists upon mobilization; the Air Force and Navy are primarily comprised of professionals; the Air Force has over 100 modern US-origin combat aircraft, plus squadrons for anti-submarine warfare, maritime patrol, early warning, surveillance, and logistical support, as well as unmanned aerial vehicles and attack helicopters; the Navy’s principal combat vessels are a mix of about 20 frigates, corvettes, and littoral combat ships (comparable to a corvette in capabilities), plus about a half dozen submarines; it has additional frigates on order<br><br>Singapore is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily (2023)<br>
+the SAF’s primary responsibility is external defense, but it has trained for certain domestic security operations, including joint deterrence patrols with police in instances of heightened terrorism alerts; the Army includes a “people’s defense force,” which is a divisional headquarters responsible for homeland security and counterterrorism<br><br>the SAF's roots go back to 1854 when the Singapore Volunteer Rifle Corps was formed under colonial rule; the first battalion of regular soldiers, the First Singapore Infantry Regiment, was organized in 1957; the modern SAF was established in 1965 and is today widely viewed as the best equipped military in Southeast Asia<br><br>Singapore is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily (2023)<br>
 
 ## Space
 

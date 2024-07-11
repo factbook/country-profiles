@@ -335,15 +335,15 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022)<br>
-_head of government_: Prime Minister Rishi SUNAK (Conservative) (since 25 October 2022)<br>
+_head of government_: Prime Minister Keir STARMER (Labor) (since 5 July 2024)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister; election last held on 12 December 2019 (next to be held no later than 28 January 2025)<br>
 <strong>note 1:</strong> in addition to serving as the UK head of state, the British sovereign is the constitutional monarch for 14 additional Commonwealth countries (these 15 states are each referred to as a Commonwealth realm)<br><br><strong>note 2</strong>: King CHARLES succeeded his mother, Queen ELIZABETH II, after serving as Prince of Wales (heir apparent) for over 64 years - the longest such tenure in British history<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>House of Lords (membership not fixed; as of December 2023, 784 lords were eligible to participate in the work of the House of Lords - 667 life peers, 91 hereditary peers, and 26 clergy; members are appointed by the monarch on the advice of the prime minister and non-party political members recommended by the House of Lords Appointments Commission); note - House of Lords total does not include ineligible members or members on leave of absence<br>House of Commons (650 seats; members directly elected in single-seat constituencies by simple majority popular vote to serve 5-year terms unless the House is dissolved earlier)<br>
-_elections_: House of Lords - no elections; note - in 1999, as provided by the House of Lords Act, elections were held in the House of Lords to determine the 92 hereditary peers who would remain; elections held only as vacancies in the hereditary peerage arise)<br>House of Commons - last held on 12 December 2019 (next to be held 4 July 2024)<br>
-_election results_: House of Lords - composition - men 556, women 228, percentage women 29%<br><br>House of Commons - percent of vote by party - Conservative 54.9%, Labor 30.8%, SNP 6.8%, Lib Dems 2.2%, DUP 1.2%, Sinn Fein 1.1%, Plaid Cymru .6%, other 2.5%; seats by party - Conservative 365, Labor 202, SNP 48, Lib Dems 11, DUP 8, Sinn Fein 7, Plaid Cymru 4, other 5; composition - men 424, women 226, percentage women 34.8%, total Parliament percentage women 31.6%<br>
+_elections_: House of Lords - no elections; note - in 1999, as provided by the House of Lords Act, elections were held in the House of Lords to determine the 92 hereditary peers who would remain; elections held only as vacancies in the hereditary peerage arise)<br>House of Commons - last held on 4 July 2024 (next to be held 4 July 2029)<br>
+_election results_: House of Lords - composition - men 556, women 228, percentage women 29%<br><br>House of Commons - percent of vote by party - Labor 33.7%, Conservative 23.7%, Lib Dems 12.2%, Green 6.7%, SNP 2.5%, independents 2.0%, Sinn Fein .7%, Plaid Cymru .7%, Workers Party .7%, DUP .6%, other 2.9%; seats by party -  Labor 411, Conservative 121, Lib Dems 72, SNP 9, Sinn Fein 7, independents 6, DUP 5, Reform UK 5, Green 4, Plaid Cymru 4, SDLP 2, other 5; composition - men 387, women 263, percentage women 40.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 12 justices, including the court president and deputy president); note - the Supreme Court was established by the Constitutional Reform Act 2005 and implemented in 2009, replacing the Appellate Committee of the House of Lords as the highest court in the United Kingdom<br>
@@ -351,7 +351,7 @@ _judge selection and term of office_: judge candidates selected by an independen
 _subordinate courts_: England and Wales: Court of Appeal (civil and criminal divisions); High Court; Crown Court; County Courts; Magistrates' Courts; Scotland: Court of Sessions; Sheriff Courts; High Court of Justiciary; tribunals; Northern Ireland: Court of Appeal in Northern Ireland; High Court; county courts; magistrates' courts; specialized tribunals<br>
 
 **Political parties and leaders**<br>
-Alliance Party (Northern Ireland) [Naomi LONG] <br>Conservative and Unionist Party [Rishi SUNAK]<br>Democratic Unionist Party or DUP (Northern Ireland) [interim leader Gavin ROBINSON]<br>Green Party of England and Wales or Greens [Carla DENYER and Adrian RAMSAY]<br>Labor (Labour) Party [Sir Keir STARMER]<br>Liberal Democrats (Lib Dems) [Sir Ed DAVEY]<br>Party of Wales (Plaid Cymru) [Rhu ap LORWERTH]<br>Scottish National Party or SNP [John SWINNEY]<br>Sinn Fein (Northern Ireland) [Mary Lou MCDONALD]<br>Social Democratic and Labor Party or SDLP (Northern Ireland) [Colum EASTWOOD]<br>UK Independence Party or UKIP [Neil HAMILTON]<br>Ulster Unionist Party or UUP (Northern Ireland) [Doug BEATTIE]<br>
+Alliance Party or APNI (Northern Ireland) [Naomi LONG] <br>Conservative and Unionist Party [Rishi SUNAK]<br>Democratic Unionist Party or DUP (Northern Ireland) [Gavin ROBINSON]<br>Green Party of England and Wales or Greens [Carla DENYER and Adrian RAMSAY]<br>Labor (Labour) Party [Sir Keir STARMER]<br>Liberal Democrats (Lib Dems) [Sir Ed DAVEY]<br>Party of Wales (Plaid Cymru) [Rhun ap LORWERTH]<br>Reform UK [Nigel FARAGE]<br>Scottish National Party or SNP [John SWINNEY]<br>Sinn Fein (Northern Ireland) [Mary Lou MCDONALD]<br>Social Democratic and Labor Party or SDLP (Northern Ireland) [Colum EASTWOOD]<br>Traditional Unionist Voice or TUV [Jim ALLISTER]<br>UK Independence Party or UKIP [Neil HAMILTON]<br>Ulster Unionist Party or UUP (Northern Ireland) [Doug BEATTIE]<br>Workers Party of Great Britian [George GALLAWAY]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, C, CBSS (observer), CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNOOSA, UNRWA, UN Security Council (permanent), UNSOM, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -561,71 +561,59 @@ _Currency_: British pounds (GBP) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
+_electrification - urban areas_: 99.9%<br>
+_electrification - rural areas_: 100%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 113.153 million kW (2020 est.)<br>
-_consumption_: 289.688 billion kWh (2020 est.)<br>
-_exports_: 4.481 billion kWh (2020 est.)<br>
-_imports_: 22.391 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 27.746 billion kWh (2020 est.)<br>
+_installed generating capacity_: 111.02 million kW (2022 est.)<br>
+_consumption_: 287.128 billion kWh (2022 est.)<br>
+_exports_: 20.793 billion kWh (2022 est.)<br>
+_imports_: 15.451 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 26.125 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 37.8% of total installed capacity (2020 est.)<br>
-_nuclear_: 15.2% of total installed capacity (2020 est.)<br>
-_solar_: 4.3% of total installed capacity (2020 est.)<br>
-_wind_: 25.2% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 2.6% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 15% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 41.5% of total installed capacity (2022 est.)<br>
+_nuclear_: 13.6% of total installed capacity (2022 est.)<br>
+_solar_: 4.3% of total installed capacity (2022 est.)<br>
+_wind_: 25.3% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 1.7% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 13.5% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 9 (2023)<br>
-_Number of nuclear reactors under construction_: 2<br>
-_Net capacity of operational nuclear reactors_: 5.88GW (2023)<br>
-_Percent of total electricity production_: 14.8% (2021)<br>
-_Percent of total energy produced_: 8% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 8<br>
+_Number of nuclear reactors under construction_: 2 (2023)<br>
+_Net capacity of operational nuclear reactors_: 5.88GW (2023 est.)<br>
+_Percent of total electricity production_: 12.5% (2023 est.)<br>
+_Number of nuclear reactors permanently shut down_: 36 (2023)<br>
 
 **Coal**<br>
-_production_: 2.892 million metric tons (2020 est.)<br>
-_consumption_: 9.401 million metric tons (2020 est.)<br>
-_exports_: 1.309 million metric tons (2020 est.)<br>
-_imports_: 5.537 million metric tons (2020 est.)<br>
-_proven reserves_: 26 million metric tons (2019 est.)<br>
+_production_: 1.891 million metric tons (2022 est.)<br>
+_consumption_: 8.568 million metric tons (2022 est.)<br>
+_exports_: 691,000 metric tons (2022 est.)<br>
+_imports_: 7.792 million metric tons (2022 est.)<br>
+_proven reserves_: 26 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 890,400 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 1,578,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 818,200 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 891,700 bbl/day (2018 est.)<br>
+_total petroleum production_: 753,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 1.397 million bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 2.5 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-1.29 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-613,800 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-907,500 bbl/day (2017 est.)<br>
-
 **Natural gas**<br>
-_production_: 32.48 billion cubic meters (2021 est.)<br>
-_consumption_: 75.7 billion cubic meters (2021 est.)<br>
-_exports_: 6.873 billion cubic meters (2021 est.)<br>
-_imports_: 51,050,178,000 cubic meters (2021 est.)<br>
+_production_: 37.758 billion cubic meters (2022 est.)<br>
+_consumption_: 70.141 billion cubic meters (2022 est.)<br>
+_exports_: 23.475 billion cubic meters (2022 est.)<br>
+_imports_: 56.501 billion cubic meters (2022 est.)<br>
 _proven reserves_: 180.661 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 398.084 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 23.5 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 216.237 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 158.346 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 353.407 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 19.558 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 194.001 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 139.848 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 119.894 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 99.499 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -733,7 +721,7 @@ some variations by service, but generally 16-36 years of age for enlisted (with 
 the British military has more than 8,000 personnel on permanent or long-term rotational deployments around the globe in support of NATO, UN, or other commitments and agreements; key deployments include approximately 1,000 in Brunei, approximately 2,500 in Cyprus (includes 250 for UNFICYP), approximately 1,000 in Estonia (NATO), over 1,000 in the Falkland Islands, almost 600 in Gibraltar, and more than 1,000 in the Middle East; its air and naval forces conduct missions on a global basis; the British military also participates in large scale NATO exercises, including providing some 16,000 personnel for the 6-month 2024 Steadfast Defender exercise (2024)<br>
 
 **Military - note**<br>
-the British military is a highly regarded and experienced force with a long history, a global presence, and a wide range of missions and responsibilities; these responsibilities include protecting the UK, its territories, national interests, and values, preventing conflict, providing humanitarian assistance, participating in international peacekeeping, building relationships, and fulfilling the UK’s alliance and treaty commitments; in addition to its role in the UN, the UK is a leading member of NATO and has made considerable military contributions to NATO missions in such places as Afghanistan, the Baltics, and Iraq, as well the Baltic and Mediterranean seas and the waters of the North Atlantic; it is also a member of the Five Power Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; in 2014, the UK led the formation of the Joint Expeditionary Force (JEF), a pool of high-readiness military forces from the Baltic and Scandinavian countries able to respond to a wide range of contingencies both in peacetime and in times of crisis or conflict; the UK military also has strong bilateral ties with a variety of foreign militaries, particularly the US, with which it has a mutual defense treaty; British and US military forces have routinely operated side-by-side across a wide range of operations; other close military relationships include Australia, France, and the Netherlands; in 2010, for example, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations<br><br>the British Army is divided into a Field Army and a Home Command; the Field Army has three divisions, including one comprised of light forces and designed for expeditionary operations, a heavy division with armored and mechanized brigades, and a specialized division that brings together special operations, intelligence, reconnaissance, electronic warfare, and information operations capabilities; the Army also has some independent brigades and aviation forces<br><br>the Royal Navy conducts operations globally and has a sustained presence in the Baltic, Caribbean, and Mediterranean seas, the Middle East, and the South Atlantic Ocean, and increasingly in the Pacific Ocean; it is organized into a surface fleet, a submarine service, a fleet air arm, marines, and a fleet auxiliary, which is a civilian support branch that provides logistical and operational support to military operations; the heart of the surface fleet are two aircraft carriers, the largest and most advanced warships ever built for the Royal Navy, which serve as the fleet’s flagships; the carriers are complemented by six destroyers and 14 frigates, as well as two large amphibious assault ships and flotillas of patrol and mine warfare vessels; the Navy also has nine attack submarines and four ballistic missile submarines that form the UK's strategic nuclear deterrent force; the air arm has modern, US-made multirole fighter aircraft, as well as anti-submarine capable helicopters; the Royal Marines have an amphibious infantry/commando brigade and special forces<br><br>the Royal Air Force also conducts operations globally and has a wide variety of aircraft types and capabilities, including fighter, surface attack, airborne early warning and control, intelligence, surveillance, target acquisition, reconnaissance, signals intelligence, maritime patrol, air-to-air refueling, and transport organized into groups, stations, and squadrons; it has a mix of more than 150 modern European- and US-made multirole fighter aircraft<br><br>in addition, the British military has a Space Command (established in 2021) staffed by Army, Navy, and Air Force personnel, as well as civilians and key members of the commercial sector to manage space operations, training, and capabilities; it established a joint service National Cyber Force in 2020; in 2019, the UK formed the joint service Strategic Command to develop and manage the British military's medical services, training and education, defense intelligence, and information systems, as well as joint overseas operations; national-level special forces (UK Special Forces) also fall under the Strategic Command<br><br>the British Armed Forces were formed in 1707 as the armed forces of the Kingdom of Great Britain when England and Scotland merged under the terms of the Treaty of Union; while the origins of the armed forces of England and Scotland stretch back to the Middle Ages, the first standing armies for England and Scotland were organized in the 1600s while the navies were formed in the 1500s; the Royal Marines were established in 1755; the Royal Air Force was created in April 1918 by the merger of the British Army's Royal Flying Corps and the Admiralty's Royal Naval Air Service (2023)<br>
+the British military is a highly regarded and experienced force with a long history, a global presence, and a wide range of missions and responsibilities; these responsibilities include protecting the UK, its territories, national interests, and values, preventing conflict, providing humanitarian assistance, participating in international peacekeeping, building relationships, and fulfilling the UK’s alliance and treaty commitments; in addition to its role in the UN, the UK is a leading member of NATO and has made considerable military contributions to NATO missions in such places as Afghanistan, the Baltics, and Iraq, as well the Baltic and Mediterranean seas and the waters of the North Atlantic<br><br>the UK is a member of the Five Power Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; in 2014, the UK led the formation of the Joint Expeditionary Force (JEF), a pool of high-readiness military forces from the Baltic and Scandinavian countries able to respond to a wide range of contingencies both in peacetime and in times of crisis or conflict; the UK military also has strong bilateral ties with a variety of foreign militaries, particularly the US, with which it has a mutual defense treaty; British and US military forces have routinely operated side-by-side across a wide range of operations; other close military relationships include Australia, France, and the Netherlands; in 2010, for example, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations<br><br>the British Armed Forces were formed in 1707 as the armed forces of the Kingdom of Great Britain when England and Scotland merged under the terms of the Treaty of Union; while the origins of the armed forces of England and Scotland stretch back to the Middle Ages, the first standing armies for England and Scotland were organized in the 1600s while the navies were formed in the 1500s; the Royal Marines were established in 1755; the Royal Air Force was created in April 1918 by the merger of the British Army's Royal Flying Corps and the Admiralty's Royal Naval Air Service (2024)<br>
 
 ## Space
 

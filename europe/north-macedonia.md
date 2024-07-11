@@ -549,63 +549,44 @@ _Currency_: Macedonian denars (MKD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 1.928 million kW (2020 est.)<br>
-_consumption_: 6,350,982,000 kWh (2019 est.)<br>
-_exports_: 639 million kWh (2020 est.)<br>
-_imports_: 2.965 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 979 million kWh (2019 est.)<br>
+_installed generating capacity_: 2.153 million kW (2022 est.)<br>
+_consumption_: 5.791 billion kWh (2022 est.)<br>
+_exports_: 5.662 billion kWh (2022 est.)<br>
+_imports_: 7.074 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 1.064 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 71.4% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.5% of total installed capacity (2020 est.)<br>
-_wind_: 2.3% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 24.7% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1.1% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 71.9% of total installed capacity (2022 est.)<br>
+_solar_: 0.6% of total installed capacity (2022 est.)<br>
+_wind_: 2% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 24.6% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.9% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 5.026 million metric tons (2020 est.)<br>
-_consumption_: 5.211 million metric tons (2020 est.)<br>
-_exports_: 1,000 metric tons (2020 est.)<br>
-_imports_: 174,000 metric tons (2020 est.)<br>
-_proven reserves_: 332 million metric tons (2019 est.)<br>
+_production_: 5.075 million metric tons (2022 est.)<br>
+_consumption_: 5.776 million metric tons (2022 est.)<br>
+_exports_: 53,000 metric tons (2022 est.)<br>
+_imports_: 750,000 metric tons (2022 est.)<br>
+_proven reserves_: 332 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 22,700 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-3,065 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-23,560 bbl/day (2015 est.)<br>
+_refined petroleum consumption_: 22,000 bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 218.917 million cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 218.917 million cubic meters (2019 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_consumption_: 274.928 million cubic meters (2022 est.)<br>
+_imports_: 274.918 million cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 7.383 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 3.866 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 3.094 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 423,000 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 6.775 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 3.132 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 3.111 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 532,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 53.572 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 46.564 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -680,7 +661,7 @@ the military's inventory is a mix of Soviet-era and increasing amounts of more m
 <strong>note:</strong> as of 2023, women made up about 10% of the military's full-time personnel<br>
 
 **Military - note**<br>
-the Army of the Republic of North Macedonia (ARSM) is responsible for the defense of the country’s territory and independence, fulfilling North Macedonia’s commitments to NATO and European security, and contributing to EU, NATO, and UN peace and security missions; the ARSM has participated in multinational missions and operations in Afghanistan (NATO), Bosnia and Herzegovina (EU), Eastern Europe (NATO), Iraq (NATO), Kosovo (NATO), and Lebanon (UN); a key area of focus over the past decade has been improving capabilities and bringing the largely Soviet-era-equipped ARSM up to NATO standards; it has increased its participation in NATO training exercises since becoming the 30th member of the Alliance in 2020 and currently has small numbers of combat troops deployed to Bulgaria and Romania as part of NATO’s Enhance Forward Presence mission implemented because of Russian military aggression against Ukraine<br><br>the ARSM is a joint force led by a general staff with subordinate commands for operations, logistics, reserves, special operations, and training; the Operational Command includes the active air and ground combat forces, which include a mechanized infantry brigade, an air brigade with a small combat helicopter squadron, and a ground air defense unit; the Special Operations Command has battalions of rangers and special forces, while the Reserve Forces Command has an infantry brigade (2024)<br>
+the Army of the Republic of North Macedonia (ARSM) is responsible for the defense of the country&rsquo;s territory and independence, fulfilling North Macedonia&rsquo;s commitments to NATO and European security, and contributing to EU, NATO, and UN peace and security missions; the ARSM has participated in multinational missions and operations in Afghanistan (NATO), Bosnia and Herzegovina (EU), Eastern Europe (NATO), Iraq (NATO), Kosovo (NATO), and Lebanon (UN); a key area of focus over the past decade has been improving capabilities and bringing the largely Soviet-era-equipped ARSM up to NATO standards; it has increased its participation in NATO training exercises since becoming the 30th member of the Alliance in 2020 and currently has small numbers of combat troops deployed to Bulgaria and Romania as part of NATO&rsquo;s Enhance Forward Presence mission implemented because of Russian military aggression against Ukraine (2024)<br>
 
 ## Terrorism
 

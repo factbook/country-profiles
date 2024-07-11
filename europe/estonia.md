@@ -555,63 +555,44 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 3.03 million kW (2020 est.)<br>
-_consumption_: 9.172 billion kWh (2020 est.)<br>
-_exports_: 3.722 billion kWh (2020 est.)<br>
-_imports_: 7.367 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 375 million kWh (2020 est.)<br>
+_installed generating capacity_: 2.871 million kW (2022 est.)<br>
+_consumption_: 7.476 billion kWh (2022 est.)<br>
+_exports_: 6.173 billion kWh (2022 est.)<br>
+_imports_: 7.182 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 532 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 55.8% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 2% of total installed capacity (2020 est.)<br>
-_wind_: 14.3% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0.7% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 27.2% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 63.5% of total installed capacity (2022 est.)<br>
+_solar_: 5.1% of total installed capacity (2022 est.)<br>
+_wind_: 9.6% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 0.2% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 21.7% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 3,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 3,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 3,000 metric tons (2022 est.)<br>
+_exports_: 18.5 metric tons (2022 est.)<br>
+_imports_: 2,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 21,800 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 27,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-27,150 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-35,520 bbl/day (2017 est.)<br>
+_total petroleum production_: 24,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 28,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 417.106 million cubic meters (2020 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 417.276 million cubic meters (2020 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_consumption_: 354.912 million cubic meters (2022 est.)<br>
+_exports_: 706.983 million cubic meters (2022 est.)<br>
+_imports_: 1.255 billion cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 4.924 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 44,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 3.979 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 901,000 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 5.16 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 7,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 4.466 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 688,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 76.329 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 73.259 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -624,8 +605,8 @@ _total subscriptions_: 2.056 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 155 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the competitive telecom market continues to progress with a range of regulatory measures which have enabled alternative operators to chip away at the fixed-line market share; fixed-line infrastructure upgrades have been focused on fiber, and the legacy DSL network has gradually been replaced; limited commercial 5G deployments have been made though an expansion of service availability awaits the delayed auction of spectrum in the 3.5GHz band, which is expected to be held later in 2021 (2021)<br>
-_domestic_: 22 per 100 for fixed-line subscribership and approximately 149 per 100 for mobile-cellular (2021)<br>
+_general assessment_: <p>investment in Estonia’s telecom market has been focused on fixed-line infrastructure upgrades, and the deployment of 5G services; fixed broadband subscribers are gradually migrating from digital subscriber lines (DSL) to fiber, with the legacy copper being replaced; the Mobile Network Operators (MNOs) have comprehensive long-term evolution (LTE) infrastructure in place, and have in recent years channeled investment to 5G; several 5G trials have been undertaken in recent years, though commercial service launches have been restricted by the lack of available internet services</p> (2024)<br>
+_domestic_: 20 per 100 for fixed-line subscribership and approximately 155 per 100 for mobile-cellular (2022)<br>
 _international_: country code - 372; landing points for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, FEC and EESF-2 fiber-optic submarine cables to other Estonia points, Finland, and Sweden; 2 international switches are located in Tallinn (2019)<br>
 
 **Broadcast media**<br>

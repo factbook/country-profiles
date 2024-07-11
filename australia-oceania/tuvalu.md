@@ -479,21 +479,9 @@ _Currency_: Tuvaluan dollars or Australian dollars (AUD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 99.6% (2021)<br>
-_electrification - urban areas_: 100% (2021)<br>
-_electrification - rural areas_: 99% (2021)<br>
-
-**Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2014 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day<br>
+_electrification - total population_: 100% (2022 est.)<br>
+_electrification - urban areas_: 100%<br>
+_electrification - rural areas_: 99.1%<br>
 
 **Natural gas**<br>
 _production_: 0 cubic meters (2021 est.)<br>
@@ -501,14 +489,6 @@ _consumption_: 0 cubic meters (2021 est.)<br>
 _exports_: 0 cubic meters (2021 est.)<br>
 _imports_: 0 cubic meters (2021 est.)<br>
 _proven reserves_: 0 cubic meters (2021 est.)<br>
-
-**Carbon dioxide emissions**<br>
-_total emissions_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
-
-**Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 
 ## Communications
 

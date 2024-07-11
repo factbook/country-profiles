@@ -364,11 +364,12 @@ _head of government_: Prime Minister Gabriel ATTAL (since 9 January 2024)<br>
 _cabinet_: Council of Ministers appointed by the president at the suggestion of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 10 April 2022 with a runoff held on 24 April 2022 (next to be held in April 2027); prime minister appointed by the president<br>
 _election results_: <em><br>2022: </em>Emmanuel MACRON reelected in second round; percent of vote in first round - Emmanuel MACRON (LREM) 27.8%, Marine LE PEN (RN) 23.2%, Jean-Luc MELENCHON (LFI) 22%, Eric ZEMMOUR (Reconquete) 7.1%, Valerie PECRESSE (LR) 4.8%, Yannick JADOT (EELV) 4.6%, other 10.6%; percent of vote in second round - MACRON 58.5%, LE PEN 41.5%<em><br></em><br><em>2017:</em> Emmanuel MACRON elected president in second round; percent of vote in first round - Emmanuel MACRON (EM) 24%, Marine LE PEN (FN) 21.3%, Francois FILLON (LR) 20%, Jean-Luc MELENCHON (FI) 19.6%, Benoit HAMON (PS) 6.4%, other 8.7%; percent of vote in second round - MACRON 66.1%, LE PEN 33.9%<br>
+<strong>note </strong>- Gabriel ATTAL resigned on 8 July 2024 following the parliamentary elections and is serving as prime minister in a caretaker status until a new prime minister is sworn into office<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (348 seats - 328 for metropolitan France and overseas departments and regions of Guadeloupe, Martinique, French Guiana, Reunion, and Mayotte, 2 for New Caledonia, 2 for French Polynesia, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 1 for Wallis and Futuna, and 12 for French nationals abroad; members indirectly elected by departmental electoral colleges using absolute majority vote in 2 rounds if needed for departments with 1-3 members, and proportional representation vote in departments with 4 or more members; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly or Assemblee Nationale (577 seats - 556 for metropolitan France, 10 for overseas departments, and 11 for citizens abroad; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br>
-_elections_: Senate - last held on 24 September 2023 (next to be held by 30 September 2026)<br>National Assembly - last held on 12 and 19 June 2022 (next to be held on 30 June and 7 July 2024)<br>
-_election results_: Senate - percent of vote by party - NA; seats by political caucus (party or group of parties) LR 139, SER 69, UC 51, RDPI 21, CRCE 17, LIRT 17, EST 16, RDSE 14; composition - men 222, women 126, percentage women 36.2%.<br><br>2022 National Assembly - percent of vote by party/coalition in the first round - ENS 25.8%, NUPES 25.7%, RN 18.7%, UDC 11.3%, other 18.5%; seats by party/coalition in the first round - NUPES 4, ENS 1; percent of vote in the second round - ENS 38.6%, NUPES 31.6%, RN 17.3%, UDC 7.3%, other 5.2%, seats by party/coalition in the second round - ENS 244, NUPES 127, RN 89, UDC 64, other 48; composition - men 362, women 215, percentage women 37.3%; total Parliament percentage women 36.9%<br>
+_elections_: Senate - last held on 24 September 2023 (next to be held by 30 September 2026)<br>National Assembly - last held on 30 June and 7 July 2024 (next to be held on 30 June 2029)<br>
+_election results_: Senate - percent of vote by party - NA; seats by political caucus (party or group of parties) LR 139, SER 69, UC 51, RDPI 21, CRCE 17, LIRT 17, EST 16, RDSE 14; composition - men 222, women 126, percentage women 36.2%.<br><br>National Assembly - percent of vote by party/coalition in the first round - RN 29.26%, NPF 28.06%, ENS 20.04%, LR 6.57%, UXD 3.96%, other 12.11%; seats by party/coalition in the first round - RN 37, NPF 32, ENS 2, LR 1, UXD 1, other 3; percent of vote in the second round - RN 32.05%, NPF 25.68, ENS 23.14% LR 5.41%, UXD 5.0%, other 8.72%, seats by party/coalition in the second round - NPF 178, ENS 150, RN 88, LR 38, UXD 16, other 65; composition - men 369, women 208, percentage women 36%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation or Cour de Cassation (consists of the court president, 6 divisional presiding judges, 120 trial judges, and 70 deputy judges organized into 6 divisions - 3 civil, 1 commercial, 1 labor, and 1 criminal); Constitutional Council (consists of 9 members)<br>
@@ -377,7 +378,7 @@ _subordinate courts_: appellate courts or Cour d'Appel; regional courts or Tribu
 <strong>note:</strong> in April 2021, the French Government submitted a bill on judicial reform to Parliament<br>
 
 **Political parties and leaders**<br>
-Citizen and Republican Movement or MRC <br>Debout la France or DLF [Nicolas DUPONT-AIGNAN]<br>Democratic Movement or MoDem [Francois BAYROU]<br>Ensemble or ENS [Stephane SEJOURNE] (electoral coalition including RE, MoDem, Horizons, PRV, UDI)<br>The Ecologists - the Greens or EELV [Marine TONDELIER]<br>French Communist Party or PCF [Fabien ROUSSEL]<br>Horizons [Hubert VALADE]<br>La France Insoumise or FI [Manuel BOMPARD]<br>Liberties, Independents, Overseas and Territories or LIOT [Bertrand PANCHER, Christopher NAEGELEN]<br>Movement of Progressives or MDP [Robert HUE]<br>National Rally or RN [Jordan BARDELLA] (formerly National Front or FN)<br>New Democrats or LND [Aurelien TACHE, Emilie CARIOU] (formerly Ecology Democracy Solidarity or EDS)<br>New Popular Front or NFP [collective leadership] (electoral coalition including FI, EELV, PS, PCF)<br>Radical Party of the Left or PRV [Laurent HENART]<br>Reconquete or REC [Eric ZEMMOUR]<br>Renaissance or RE [Stephane SEJOURNE] <br>Resistons! [Jean LASSALLE]<br>Socialist Party or PS [Olivier FAURE]<br>The Republicans or LR [Eric CIOTTI]<br>Union of Democrats and Independents or UDI [Jean-Christophe LAGARDE]<br>Union of Right and Center or UDC [Christian JACOB] (electoral coalition including LR, UDI)<br>
+Citizen and Republican Movement or MRC <br>Debout la France or DLF [Nicolas DUPONT-AIGNAN]<br>Democratic Movement or MoDem [Francois BAYROU]<br>Ensemble or ENS [Stephane SEJOURNE] (electoral coalition including RE, MoDem, Horizons, PRV, UDI)<br>The Ecologists - the Greens or EELV [Marine TONDELIER]<br>French Communist Party or PCF [Fabien ROUSSEL]<br>Horizons [Hubert VALADE]<br>La France Insoumise or FI [Manuel BOMPARD]<br>Liberties, Independents, Overseas and Territories or LIOT [Bertrand PANCHER, Christopher NAEGELEN]<br>Movement of Progressives or MDP [Robert HUE]<br>National Rally or RN [Jordan BARDELLA] (formerly National Front or FN)<br>New Democrats or LND [Aurelien TACHE, Emilie CARIOU] (formerly Ecology Democracy Solidarity or EDS)<br>New Popular Front or NFP [collective leadership] (electoral coalition including FI, EELV, PS, PCF)<br>Radical Party of the Left or PRV [Laurent HENART]<br>Reconquete or REC [Eric ZEMMOUR]<br>Renaissance or RE [Stephane SEJOURNE] <br>Resistons! [Jean LASSALLE]<br>Socialist Party or PS [Olivier FAURE]<br>The Republicans or LR [Eric CIOTTI]<br>Union of Democrats and Independents or UDI [Jean-Christophe LAGARDE]<br>Union of Far Right or UXD (electoral coalition of LR, RN)<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BDEAC, BIS, BSEC (observer), CBSS (observer), CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, FZ, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SPC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, Union Latina, UNMIL, UNOCI, UNOOSA, UNRWA, UN Security Council (permanent), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -589,71 +590,58 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 138.611 million kW (2020 est.)<br>
-_consumption_: 472.699 billion kWh (2020 est.)<br>
-_exports_: 64.425 billion kWh (2020 est.)<br>
-_imports_: 19.613 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 36.203 billion kWh (2020 est.)<br>
+_installed generating capacity_: 148.914 million kW (2022 est.)<br>
+_consumption_: 425.994 billion kWh (2022 est.)<br>
+_exports_: 37.329 billion kWh (2022 est.)<br>
+_imports_: 53.255 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 36.223 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 8% of total installed capacity (2020 est.)<br>
-_nuclear_: 68.4% of total installed capacity (2020 est.)<br>
-_solar_: 2.5% of total installed capacity (2020 est.)<br>
-_wind_: 7.3% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 11.7% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0.2% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 2% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 12.1% of total installed capacity (2022 est.)<br>
+_nuclear_: 62.5% of total installed capacity (2022 est.)<br>
+_solar_: 4.5% of total installed capacity (2022 est.)<br>
+_wind_: 8.5% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 9.5% of total installed capacity (2022 est.)<br>
+_tide and wave_: 0.1% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 2.7% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 56 (2023)<br>
-_Number of nuclear reactors under construction_: 1<br>
-_Net capacity of operational nuclear reactors_: 61.37GW (2021)<br>
-_Percent of total electricity production_: 70% (2021)<br>
-_Percent of total energy produced_: 77% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 6<br>
+_Number of nuclear reactors under construction_: 1 (2023)<br>
+_Net capacity of operational nuclear reactors_: 61.37GW (2023 est.)<br>
+_Percent of total electricity production_: 64.8% (2023 est.)<br>
+_Number of nuclear reactors permanently shut down_: 14 (2023)<br>
 
 **Coal**<br>
-_production_: 2.312 million metric tons (2020 est.)<br>
-_consumption_: 10.712 million metric tons (2020 est.)<br>
-_exports_: 35,000 metric tons (2020 est.)<br>
-_imports_: 7.891 million metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 2.419 million metric tons (2022 est.)<br>
+_consumption_: 12.985 million metric tons (2022 est.)<br>
+_exports_: 120,000 metric tons (2022 est.)<br>
+_imports_: 10.181 million metric tons (2022 est.)<br>
+_proven reserves_: 160 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 81,500 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 1,688,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 1,064,700 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 61.7 million barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-1.311 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-440,600 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-886,800 bbl/day (2017 est.)<br>
+_total petroleum production_: 80,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 1.554 million bbl/day (2023 est.)<br>
+_crude oil estimated reserves_: 61.719 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 16.226 million cubic meters (2019 est.)<br>
-_consumption_: 38.192 billion cubic meters (2020 est.)<br>
-_exports_: 9.104 billion cubic meters (2020 est.)<br>
-_imports_: 46.11 billion cubic meters (2020 est.)<br>
+_production_: 20.132 million cubic meters (2022 est.)<br>
+_consumption_: 37.001 billion cubic meters (2022 est.)<br>
+_exports_: 15.25 billion cubic meters (2022 est.)<br>
+_imports_: 56.281 billion cubic meters (2022 est.)<br>
 _proven reserves_: 7.787 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 338.425 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 26.971 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 225.865 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 85.589 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 311.904 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 27.266 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 207.798 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 76.84 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 151.053 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 121.928 million Btu/person (2022 est.)<br>
 
 ## Communications
 

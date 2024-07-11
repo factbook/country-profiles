@@ -546,63 +546,42 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 1.899 million kW (2020 est.)<br>
-_consumption_: 6.188 billion kWh (2020 est.)<br>
-_exports_: 1.079 billion kWh (2020 est.)<br>
-_imports_: 6.543 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 156 million kWh (2020 est.)<br>
+_installed generating capacity_: 2.002 million kW (2022 est.)<br>
+_consumption_: 6.122 billion kWh (2022 est.)<br>
+_exports_: 1.639 billion kWh (2022 est.)<br>
+_imports_: 7.146 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 147.934 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 13.8% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 14.6% of total installed capacity (2020 est.)<br>
-_wind_: 27.7% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 7.5% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 36.4% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 13.6% of total installed capacity (2022 est.)<br>
+_solar_: 28% of total installed capacity (2022 est.)<br>
+_wind_: 43.4% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: -40.1% of total installed capacity (2022 est.) <b>note:</b> Luxembourg has negative net hydroelectric power generation based on losses from use of pumped storage hydropower<br>
+_biomass and waste_: 55.1% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 65,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 74,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 62,000 metric tons (2022 est.)<br>
+_exports_: 30.2 metric tons (2022 est.)<br>
+_imports_: 3,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 63,900 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-59,020 bbl/day (2017 est.)<br>
+_refined petroleum consumption_: 51,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 776.022 million cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 772.624 million cubic meters (2019 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_consumption_: 594.24 million cubic meters (2022 est.)<br>
+_imports_: 590.144 million cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 11.308 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 149,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 9.564 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 1.594 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 8.694 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 135,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 7.338 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 1.221 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 310.068 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 232.384 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -690,7 +669,7 @@ the inventory of Luxembourg's Army is a small mix of Western origin equipment (2
 <strong>note 1: </strong>since 2003, the Army has allowed EU citizens 18-24 years of age who have been a resident in the country for at least 36 months to volunteer<strong><br><br>note 2:</strong> 2023, women made up about 12% of the military's full-time personnel<br>
 
 **Military - note**<br>
-founded in 1881, the Luxembourg Army is responsible for the defense of the country and fulfilling the Grand Duchy’s commitments to NATO, European security, and international peacekeeping, as well as providing support to civil authorities in the event of emergencies, such as floods or disease outbreaks; the Army is an active participant in EU, NATO, and UN missions and has contributed small numbers of troops to multinational operations in such places as Afghanistan, Bosnia and Herzegovina, Chad, Croatia, the Democratic Republic of the Congo, Iraq, Kosovo, Lebanon, North Macedonia, Mali, Mozambique, and Uganda; it trains and exercises regularly with EU and NATO partners and has contributed to the NATO battlegroup forward deployed in Lithuania since 2017; Luxembourg was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) establishing NATO in 1949<br><br>the combat forces of the Luxembourg Army are two companies of infantry and reconnaissance troops; the Army has no combat aircraft; in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries (2024)<br>
+founded in 1881, the Luxembourg Army is responsible for the defense of the country and fulfilling the Grand Duchy’s commitments to NATO, European security, and international peacekeeping, as well as providing support to civil authorities in the event of emergencies, such as floods or disease outbreaks; the Army is an active participant in EU, NATO, and UN missions and has contributed small numbers of troops to multinational operations in such places as Afghanistan, Bosnia and Herzegovina, Chad, Croatia, the Democratic Republic of the Congo, Iraq, Kosovo, Lebanon, North Macedonia, Mali, Mozambique, and Uganda; it trains and exercises regularly with EU and NATO partners and has contributed to the NATO battlegroup forward deployed in Lithuania since 2017; Luxembourg was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) establishing NATO in 1949<br><br>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries (2024)<br>
 
 ## Space
 

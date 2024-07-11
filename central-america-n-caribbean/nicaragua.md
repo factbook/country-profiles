@@ -545,66 +545,34 @@ _Currency_: cordobas (NIO) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) less than 1 million<br>
-_electrification - total population_: 86.2% (2021)<br>
-_electrification - urban areas_: 100% (2021)<br>
-_electrification - rural areas_: 66.3% (2021)<br>
+_electrification - total population_: 86.5% (2022 est.)<br>
+_electrification - urban areas_: 100%<br>
+_electrification - rural areas_: 66.3%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 1.837 million kW (2020 est.)<br>
-_consumption_: 3,182,620,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 434 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 1.89 billion kWh (2019 est.)<br>
+_installed generating capacity_: 1.841 million kW (2022 est.)<br>
+_consumption_: 4.169 billion kWh (2022 est.)<br>
+_imports_: 995.1 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 1.11 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 37.8% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.5% of total installed capacity (2020 est.)<br>
-_wind_: 15.7% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 12.2% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 16.7% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 17.2% of total installed capacity (2020 est.)<br>
-
-**Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_fossil fuels_: 31.4% of total installed capacity (2022 est.)<br>
+_solar_: 0.7% of total installed capacity (2022 est.)<br>
+_wind_: 15.3% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 14% of total installed capacity (2022 est.)<br>
+_geothermal_: 16.9% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 21.6% of total installed capacity (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 200 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 35,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 13,000 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-14,720 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-460 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-20,120 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_total petroleum production_: 200 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 36,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 4.851 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 4.851 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 4.987 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 4.987 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 14.916 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 12.903 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -694,7 +662,7 @@ the military's inventory includes mostly secondhand Russian/Soviet-era equipment
 18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months (2024)<br>
 
 **Military - note**<br>
-the military is responsible for defending Nicaragua’s independence, sovereignty, and territory, but also has some domestic security responsibilities; key tasks include border security, assisting the police, protecting natural resources, and providing disaster relief and humanitarian assistance; it has ties with the militaries of Cuba, Venezuela, and Russia; Russia has provided training support and equipment <br><br>the military’s Land Forces have a mechanized brigade and approximately eight regional commands or detachments, each with one or more light infantry battalions; there is also a small special operations command; the Naval Forces operate patrol boats and have a naval infantry battalion; the Air Forces do not possess any combat aircraft <br><br>the modern Army of Nicaragua was created in 1979 as the Sandinista Popular Army (1979-1984); prior to 1979, the military was known as the National Guard, which was organized and trained by the US in the 1920s and 1930s; the first commander of the National Guard, Anastasio SOMOZA GARCIA, seized power in 1937 and ran the country as a military dictator until his assassination in 1956; his sons ran the country either directly or through figureheads until the Sandinistas came to power in 1979; the defeated National Guard was disbanded by the Sandinistas (2024)<br>
+the military is responsible for defending Nicaragua’s independence, sovereignty, and territory, but also has some domestic security responsibilities; key tasks include border security, assisting the police, protecting natural resources, and providing disaster relief and humanitarian assistance; it has ties with the militaries of Cuba, Venezuela, and Russia; Russia has provided training support and equipment <br><br>the modern Army of Nicaragua was created in 1979 as the Sandinista Popular Army (1979-1984); prior to 1979, the military was known as the National Guard, which was organized and trained by the US in the 1920s and 1930s; the first commander of the National Guard, Anastasio SOMOZA GARCIA, seized power in 1937 and ran the country as a military dictator until his assassination in 1956; his sons ran the country either directly or through figureheads until the Sandinistas came to power in 1979; the defeated National Guard was disbanded by the Sandinistas (2024)<br>
 
 ## Space
 

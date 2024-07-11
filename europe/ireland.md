@@ -548,63 +548,46 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 11.43 million kW (2020 est.)<br>
-_consumption_: 30.627 billion kWh (2020 est.)<br>
-_exports_: 1.913 billion kWh (2020 est.)<br>
-_imports_: 1.761 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 2.309 billion kWh (2020 est.)<br>
+_installed generating capacity_: 11.53 million kW (2022 est.)<br>
+_consumption_: 30.736 billion kWh (2022 est.)<br>
+_exports_: 1.342 billion kWh (2022 est.)<br>
+_imports_: 1.552 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 2.455 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 57.8% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.2% of total installed capacity (2020 est.)<br>
-_wind_: 34.8% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 3.7% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 3.6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 58.2% of total installed capacity (2022 est.)<br>
+_solar_: 0.3% of total installed capacity (2022 est.)<br>
+_wind_: 35.9% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 1.5% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 4.1% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 351,000 metric tons (2020 est.)<br>
-_exports_: 132,000 metric tons (2020 est.)<br>
-_imports_: 408,000 metric tons (2020 est.)<br>
-_proven reserves_: 14 million metric tons (2019 est.)<br>
+_consumption_: 1.322 million metric tons (2022 est.)<br>
+_exports_: 96,000 metric tons (2022 est.)<br>
+_imports_: 1.335 million metric tons (2022 est.)<br>
+_proven reserves_: 40 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 600 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 159,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 60,300 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-64,970 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-37,040 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-126,600 bbl/day (2017 est.)<br>
+_total petroleum production_: 600 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 156,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
-_production_: 2.652 billion cubic meters (2019 est.)<br>
-_consumption_: 5.492 billion cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 2.847 billion cubic meters (2019 est.)<br>
+_production_: 1.447 billion cubic meters (2022 est.)<br>
+_consumption_: 5.28 billion cubic meters (2022 est.)<br>
+_imports_: 3.836 billion cubic meters (2022 est.)<br>
 _proven reserves_: 9.911 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 35.475 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 1.43 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 23.08 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 10.965 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 35.957 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 2.973 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 22.441 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 10.543 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 133.674 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 118.037 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -704,7 +687,7 @@ the Irish Defense Forces have a small inventory of imported weapons systems from
 130 Golan Heights (UNDOF); 325 Lebanon (UNIFIL) (2024)<br>
 
 **Military - note**<br>
-Ireland has a long-standing policy of military neutrality; however, it participates in multinational peacekeeping and humanitarian operations, as well as crisis management; Ireland is a signatory of the EU’s Common Security and Defense Policy and has committed a battalion of troops to the EU’s Rapid Reaction Force; Ireland is not a member of NATO but has a relationship with it going back to 1997, when it deployed personnel in support of the NATO-led peacekeeping operation in Bosnia and Herzegovina; Ireland joined NATO’s Partnership for Peace program in 1999; it has been active in UN peacekeeping operations since the 1950s<br><br>the Irish Defense Forces (IDF) trace their origins back to the Irish Volunteers, a unit established in 1913 which took part in the 1916 Easter Rising and the Irish War of Independence (1919-1921); today, the IDF is comprised of an Army, an Air Corps, a Naval Service, and the Reserve Defense Forces (RDF); the Army has two combined arms combat brigades, one responsible for military operations in the south of the country, the other in the north; the Army’s primary mission is national defense, but elements have deployed on overseas humanitarian and peacekeeping operations, and at times have assisted civil authorities and the national police by providing security at airports, foreign embassies, government facilities, and ports; the Air Corps operates a range of non-combat fixed-wing aircraft and helicopters for a variety of missions, including air ambulance, civil assistance, maritime patrol, reconnaissance and surveillance, search and rescue, support to the Army, and transport; the Naval Service’s warships are six large or offshore patrol vessels, and its roles include defending territorial seas, deterrence, maritime surveillance, protecting marine assets, and supporting Army operations; the RDF was established in 2005 and has both an Army and a Naval Service Reserve; the RDF takes its lineage from the Volunteer Reserve Force, which was established in 1929 (2023)<br>
+Ireland has a long-standing policy of military neutrality; however, it participates in multinational peacekeeping and humanitarian operations, as well as crisis management; Ireland is a signatory of the EU&rsquo;s Common Security and Defense Policy and has committed a battalion of troops to the EU&rsquo;s Rapid Reaction Force; Ireland is not a member of NATO but has a relationship with it going back to 1997, when it deployed personnel in support of the NATO-led peacekeeping operation in Bosnia and Herzegovina; Ireland joined NATO&rsquo;s Partnership for Peace program in 1999; it has been active in UN peacekeeping operations since the 1950s (2023)<br>
 
 ## Terrorism
 

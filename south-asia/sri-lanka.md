@@ -561,63 +561,35 @@ _Currency_: Sri Lankan rupees (LKR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 4.527 million kW (2020 est.)<br>
-_consumption_: 13,991,420,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2020 est.)<br>
-_imports_: 0 kWh (2020 est.)<br>
-_transmission/distribution losses_: 1.337 billion kWh (2019 est.)<br>
+_installed generating capacity_: 5.04 million kW (2022 est.)<br>
+_consumption_: 10.401 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 1.62 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 64% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.7% of total installed capacity (2020 est.)<br>
-_wind_: 2.3% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 32.2% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.8% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 47.4% of total installed capacity (2022 est.)<br>
+_solar_: 5.3% of total installed capacity (2022 est.)<br>
+_wind_: 5.8% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 40.6% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.8% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 2.237 million metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 2.586 million metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 2.084 million metric tons (2022 est.)<br>
+_exports_: (2022 est.) less than 1 metric ton<br>
+_imports_: 2.205 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 131,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 35,300 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-34,210 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-3,871 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-66,280 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_refined petroleum consumption_: 121,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 23.939 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 5.546 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 18.393 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 21.766 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 4.663 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 17.103 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 17.268 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 14.449 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -721,7 +693,7 @@ the military's inventory consists mostly of Chinese and Russian-origin equipment
 110 Central African Republic (MINUSCA); 125 Lebanon (UNIFIL); 240 Mali (MINUSMA) (2024)<br>
 
 **Military - note**<br>
-the military is responsible for external defense and may be called upon to handle specifically delineated domestic security responsibilities that generally do not include arrest authority; it has sent small numbers of personnel on UN peacekeeping missions; from 1983 to 2009, it fought against the Liberation Tigers of Tamil Eelam (LTTE), a conflict that involved both guerrilla and conventional warfare, as well as acts of terrorism and human rights abuses, and cost the military nearly 30,000 killed; since the end of the war, a large portion of the Army reportedly remains deployed in the majority Tamil-populated northern and eastern provinces; the military over the past decade also has increased its role in a range of commercial sectors including agriculture, hotels, leisure, and restaurants <br><br>the Army did not downsize following the LTTE war and continues to have about 20 infantry divisions, plus several independent brigades and regiments; however, in 2023 the Sri Lankan Government announced that because of the country’s financial crisis, it would slash the size of the Army by up to half by 2030; the Navy has a frigate transferred from China in 2019 and several offshore patrol ships acquired from India and the US to patrol its territorial waters; it also has a large force of small in-shore patrol and fast attack boats, largely acquired to combat the LTTE; the Air Force is small and much of its inventory is aging; it has a handful of operational fighter aircraft and a few dozen attack and multi-role helicopters<br><br>Sri Lanka traditionally has had close security ties to India; India participated in the LTTE war in 1987-1991, losing over 1,000 soldiers; the Sri Lankan and Indian militaries continue to conduct exercises together, and India trains over 1,000 Sri Lankan soldiers per year; in recent years, Sri Lanka has increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training (2023)<br>
+the military is responsible for external defense and may be called upon to handle specifically delineated domestic security responsibilities that generally do not include arrest authority; it has sent small numbers of personnel on UN peacekeeping missions; from 1983 to 2009, it fought against the Liberation Tigers of Tamil Eelam (LTTE), a conflict that involved both guerrilla and conventional warfare, as well as acts of terrorism and human rights abuses, and cost the military nearly 30,000 killed; since the end of the war, a large portion of the Army reportedly remains deployed in the majority Tamil-populated northern and eastern provinces; the military over the past decade also has increased its role in a range of commercial sectors including agriculture, hotels, leisure, and restaurants <br><br>Sri Lanka traditionally has had close security ties to India; India participated in the LTTE war in 1987-1991, losing over 1,000 soldiers; the Sri Lankan and Indian militaries continue to conduct exercises together, and India trains over 1,000 Sri Lankan soldiers per year; in recent years, Sri Lanka has increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training (2023)<br>
 
 ## Terrorism
 

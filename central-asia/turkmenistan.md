@@ -552,63 +552,39 @@ _Currency_: Turkmenistani manat (TMM) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 5.205 million kW (2020 est.)<br>
-_consumption_: 15.09 billion kWh (2019 est.)<br>
-_exports_: 3.2 billion kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 2.892 billion kWh (2019 est.)<br>
+_installed generating capacity_: 5.202 million kW (2022 est.)<br>
+_consumption_: 16.977 billion kWh (2022 est.)<br>
+_exports_: 3.201 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 2.892 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 100% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 100% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_imports_: 100 metric tons (2022 est.)<br>
+_proven reserves_: 799.999 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 235,300 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 153,400 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 59,900 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
+_total petroleum production_: 272,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 152,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 600 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-191,100 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-53,780 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-0 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 83.623 billion cubic meters (2019 est.)<br>
-_consumption_: 45.399 billion cubic meters (2019 est.)<br>
-_exports_: 38.224 billion cubic meters (2019 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
+_production_: 86.472 billion cubic meters (2022 est.)<br>
+_consumption_: 41.561 billion cubic meters (2022 est.)<br>
+_exports_: 44.567 billion cubic meters (2022 est.)<br>
 _proven reserves_: 11.327 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 109.037 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 19.977 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 89.06 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 101.442 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 19.91 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 81.532 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 330.507 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 282.657 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -697,7 +673,7 @@ the inventory for Turkmenistan's military is comprised largely of older Russian 
 18-27 years of age for compulsory military service for men; 24-month conscript service obligation (30 months for the Navy); 20 years of age for voluntary service for men and women; men may enroll in military schools from age 15 (2023)<br>
 
 **Military - note**<br>
-the military is responsible for external defense and works closely with the Border Service on protecting the country’s borders; it is conscript-based and equipped with Soviet-era arms; while Turkmenistan has a policy of permanent and "positive" neutrality and has declined to participate in post-Soviet military groupings such as the Collective Security Treaty Organization and the Shanghai Cooperation Organization, it has participated in multinational exercises and bilateral training with neighboring countries, including Russia and Uzbekistan; Turkmenistan joined NATO's Partnership for Peace program in 1994, but it does not offer any military forces to NATO-led operations<br><br>information on the structure of the military is limited and varied; the primary Land Force combat units are organized into several “motorized rifle” divisions (MRD) inherited from the former Soviet Army after the USSR’s collapse in 1991 (note - MRDs are typically comprised of one or more mechanized infantry regiments, plus a tank and an artillery regiment); there are reportedly also some separate motorized rifle (mechanized infantry), artillery, and surface-to-surface missile brigades; in recent years, Turkmenistan has made efforts to strengthen its naval capabilities on the Caspian Sea, including expanding ship building capabilities and adding larger vessels to the Navy’s inventory; in 2018, Turkmenistan opened its first naval shipyard, and in 2021 the Navy commissioned its largest warship, a corvette that was jointly constructed with Turkey, to complement a small existing force of coastal patrol craft; the Border Service also has a force of patrol boats; the Air Force has approximately 50 operational Soviet-era fighter and ground attack aircraft, as well as a few combat helicopters (2023)<br>
+the military is responsible for external defense and works closely with the Border Service on protecting the country’s borders; it is conscript-based and equipped with Soviet-era arms; while Turkmenistan has a policy of permanent and "positive" neutrality and has declined to participate in post-Soviet military groupings such as the Collective Security Treaty Organization and the Shanghai Cooperation Organization, it has participated in multinational exercises and bilateral training with neighboring countries, including Russia and Uzbekistan; Turkmenistan joined NATO's Partnership for Peace program in 1994, but it does not offer any military forces to NATO-led operations<br><br>in recent years, Turkmenistan has made efforts to strengthen its naval capabilities on the Caspian Sea, including expanding ship building capabilities and adding larger vessels to the Navy’s inventory; in 2018, Turkmenistan opened its first naval shipyard, and in 2021 the Navy commissioned its largest warship, a corvette that was jointly constructed with Turkey, to complement a small existing force of coastal patrol craft (2023)<br>
 
 ## Space
 

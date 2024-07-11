@@ -491,65 +491,33 @@ _Currency_: South Sudanese pounds (SSP) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 10 million (2020)<br>
-_electrification - total population_: 7.7% (2021)<br>
-_electrification - urban areas_: 15.5% (2021)<br>
-_electrification - rural areas_: 5.7% (2021)<br>
+_electrification - total population_: 8.4% (2022 est.)<br>
+_electrification - urban areas_: 15%<br>
+_electrification - rural areas_: 1.7%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 121,000 kW (2020 est.)<br>
-_consumption_: 531.66 million kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 26 million kWh (2019 est.)<br>
+_installed generating capacity_: 134,000 kW (2022 est.)<br>
+_consumption_: 595.604 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 24.506 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 99.2% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.8% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 97.1% of total installed capacity (2022 est.)<br>
+_solar_: 2.9% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_imports_: 100 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 157,100 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 12,900 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 126,500 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-7,160 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_total petroleum production_: 146,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 14,000 bbl/day (2022 est.)<br>
+_crude oil estimated reserves_: 3.75 billion barrels (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 1.778 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 1.778 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 1.97 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 1.97 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 2.404 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 2.627 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -632,7 +600,7 @@ the SSPDF inventory is primarily of Soviet origin; South Sudan has been under a 
 <strong>note:</strong> in 2019, women made up less than 10% of the active military<br>
 
 **Military - note**<br>
-the South Sudan People's Defense Forces (SSPDF) are largely focused on internal security; the Land Forces have approximately eight light infantry divisions and a mechanized presidential guard division (aka the Tiger Division), plus some commandos/special forces and other independent combat units; the Air Force has small numbers of transport aircraft and combat helicopters <br><br>the SSPDF, formerly the Sudan People’s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br><br>the UN Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS had about 15,000 personnel deployed in the country as of 2023<br><br>the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of 2023, UNISFA had approximately 3,500 personnel assigned (2023)<br>
+the South Sudan People's Defense Forces (SSPDF) are largely focused on internal security<br><br>the SSPDF, formerly the Sudan People’s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br><br>the UN Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS had about 15,000 personnel deployed in the country as of 2024<br><br>the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of 2024, UNISFA had approximately 3,200 personnel assigned (2024)<br>
 
 ## Transnational Issues
 

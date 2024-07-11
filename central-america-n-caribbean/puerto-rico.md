@@ -453,63 +453,40 @@ $52.98 billion (31 December 2009 est.)<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 6.18 million kW (2020 est.)<br>
-_consumption_: 15,203,140,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2020 est.)<br>
-_imports_: 0 kWh (2020 est.)<br>
-_transmission/distribution losses_: 2.5 billion kWh (2019 est.)<br>
+_installed generating capacity_: 6.601 million kW (2022 est.)<br>
+_consumption_: 18.1 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 1.224 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 94.8% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 1.4% of total installed capacity (2020 est.)<br>
-_wind_: 3.4% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0.3% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.1% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 97.4% of total installed capacity (2022 est.)<br>
+_solar_: 1.4% of total installed capacity (2022 est.)<br>
+_wind_: 0.8% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 0.3% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.1% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 1.361 million metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 1.502 million metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 1.299 million metric tons (2022 est.)<br>
+_exports_: 3 metric tons (2022 est.)<br>
+_imports_: 1.299 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 79,000 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-18,420 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-127,100 bbl/day (2015 est.)<br>
+_refined petroleum consumption_: 80,000 bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 1,366,512,000 cubic meters (2020 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 1,366,512,000 cubic meters (2020 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_consumption_: 1.409 billion cubic meters (2022 est.)<br>
+_imports_: 1.409 billion cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 18.999 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 3.774 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 11.407 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 3.818 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 17.26 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 2.935 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 11.561 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 2.763 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 94.379 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 76.228 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -563,7 +540,7 @@ _key ports_: Arroyo, Ensenada Honda, Mayaguez, Playa de Guanica, Playa de Guayan
 ## Military and Security
 
 **Military and security forces**<br>
-Puerto Rico Police Bureau (Negociado de la Policía de Puerto Rico), Puerto Rico (US) National Guard (Guardia Nacional de Puerto Rico or GNPR)<br>
+Puerto Rico Police Bureau (Negociado de la Policía de Puerto Rico); Puerto Rico (US) National Guard (Guardia Nacional de Puerto Rico or GNPR)<br>
 <strong>note: </strong>the GNPR was created by order of the US Congress in June 1919; the organization traces its lineage and history to Spanish militias created in 1511 and is one of the oldest organizations in the US National Guard system<br>
 
 **Military - note**<br>

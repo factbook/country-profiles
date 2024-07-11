@@ -543,63 +543,36 @@ _Currency_: Lebanese pounds (LBP) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 3.768 million kW (2020 est.)<br>
-_consumption_: 18,715,620,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 900 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 2.219 billion kWh (2019 est.)<br>
+_installed generating capacity_: 4.141 million kW (2022 est.)<br>
+_consumption_: 9.166 billion kWh (2022 est.)<br>
+_imports_: 448.671 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 1.328 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 94.3% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.5% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 5% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.2% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 90.6% of total installed capacity (2022 est.)<br>
+_solar_: 3% of total installed capacity (2022 est.)<br>
+_wind_: 0.1% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 6% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.3% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 268,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 268,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 207,000 metric tons (2022 est.)<br>
+_exports_: 47.1 metric tons (2022 est.)<br>
+_imports_: 197,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 168,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-151,100 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_refined petroleum consumption_: 174,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 25.838 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 563,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 25.275 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 26.594 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 456,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 26.137 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 53.528 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 67.466 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -696,7 +669,7 @@ the LAF inventory includes a wide mix of mostly older equipment from a diverse a
 <strong>note:</strong> women were allowed to volunteer for military service in the 1980s; as of 2023, they comprised about 5% of the active duty military<br>
 
 **Military - note**<br>
-the LAF’s primary responsibilities are defense against external attack, border security, protecting the country’s territorial waters, and assisting with internal security and development projects; on Lebanon’s eastern and northern borders with Syria, the LAF has conducted operations to prevent or eliminate infiltrations of militants linked to the Islamic State of Iraq and ash-Sham (ISIS) and al-Qa’ida terrorist groups since the start of the Syrian civil war in 2011; in the south, its focus is on maintaining stability along its volatile border with Israel where the LAF and the Israel Defense Forces (IDF) are separated by the "Blue Line," a demarcation line established by the UN in 2000 following the withdrawal of the IDF, which had occupied southern Lebanon since invading in 1982; since the line’s establishment, the LAF and IDF have had periodic clashes, and IDF aircraft have routinely entered Lebanese air space; the Iranian-backed terrorist group Hizballah is based in south Lebanon and acts as a militia alongside the LAF; it has launched periodic cross-border attacks on Israel and threatened additional attacks, while the IDF has conducted air strikes on Hizballah positions and in 2006 launched a ground invasion into southern Lebanon to suppress the group; in 2022, Israeli and Lebanese officials agreed on a common demarcation of their maritime border after US mediation<br><br>the LAF’s domestic security responsibilities include countering narcotics trafficking and smuggling, managing protests, conducting search and rescue, and intervening to prevent violence between rival political factions; in recent years, the military has faced a financial crisis as government debt and national economic difficulties have undercut its ability to train and fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate; the UN, as well as countries such as France and the US have provided financial assistance <br><br>the Army has about 12 infantry brigades (including a presidential guard brigade) that are supplemented by independent armored, artillery, border security, and “intervention” infantry regiments, as well as a special operations force comprised of airborne, marine commando, and ranger regiments that are regarded as the LAF’s elite units; the Air Force has a small inventory of aging combat aircraft and helicopters, while the Navy operates a mix of patrol craft and patrol boats<br><br>the UN Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities, support the LAF as they deployed throughout the south of Lebanon, and provide assistance for humanitarian access for civilians and the return of displaced persons; UNIFIL has approximately 9,500 military personnel deployed in the country and includes a maritime task force (2023)<br>
+the LAF’s primary responsibilities are defense against external attack, border security, protecting the country’s territorial waters, and assisting with internal security and development projects; on Lebanon’s eastern and northern borders with Syria, the LAF has conducted operations to prevent or eliminate infiltrations of militants linked to the Islamic State of Iraq and ash-Sham (ISIS) and al-Qa’ida terrorist groups since the start of the Syrian civil war in 2011; in the south, its focus is on maintaining stability along its volatile border with Israel where the LAF and the Israel Defense Forces (IDF) are separated by the "Blue Line," a demarcation line established by the UN in 2000 following the withdrawal of the IDF, which had occupied southern Lebanon since invading in 1982; since the line’s establishment, the LAF and IDF have had periodic clashes, and IDF aircraft have routinely entered Lebanese air space; the Iranian-backed terrorist group Hizballah is based in south Lebanon and acts as a militia alongside the LAF; it has launched periodic cross-border attacks on Israel and threatened additional attacks, while the IDF has conducted air strikes on Hizballah positions and in 2006 launched a ground invasion into southern Lebanon to suppress the group; in 2022, Israeli and Lebanese officials agreed on a common demarcation of their maritime border after US mediation<br><br>the LAF’s domestic security responsibilities include countering narcotics trafficking and smuggling, managing protests, conducting search and rescue, and intervening to prevent violence between rival political factions; in recent years, the military has faced a financial crisis as government debt and national economic difficulties have undercut its ability to train and fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate; the UN, as well as countries such as France and the US have provided financial assistance <br><br>the UN Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities, support the LAF as they deployed throughout the south of Lebanon, and provide assistance for humanitarian access for civilians and the return of displaced persons; UNIFIL has approximately 9,500 military personnel deployed in the country and includes a maritime task force (2023)<br>
 
 ## Terrorism
 

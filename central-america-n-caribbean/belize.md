@@ -320,7 +320,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General Froyla TZALAM (since 27 May 2021)<br>
-_head of government_: Prime Minister John BRICENO (since 12 November 2020)<br>
+_head of government_: Prime Minister John BRICE&Ntilde;O (since 12 November 2020)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister from among members of the National Assembly<br>
 _elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; prime minister recommends the deputy prime minister<br>
 
@@ -531,65 +531,36 @@ _Currency_: Belizean dollars (BZD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 97.7% (2021)<br>
-_electrification - urban areas_: 98.4% (2021)<br>
-_electrification - rural areas_: 97% (2021)<br>
+_electrification - total population_: 98.6% (2022 est.)<br>
+_electrification - urban areas_: 98.4%<br>
+_electrification - rural areas_: 97.1%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 204,000 kW (2020 est.)<br>
-_consumption_: 992.305 million kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 240 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 80.3 million kWh (2019 est.)<br>
+_installed generating capacity_: 217,000 kW (2022 est.)<br>
+_consumption_: 443.175 million kWh (2022 est.)<br>
+_imports_: 283.8 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 143.637 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 63.6% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.2% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 13.4% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 22.9% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 18.7% of total installed capacity (2022 est.)<br>
+_solar_: 3.6% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 26.4% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 51.3% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_imports_: (2022 est.) less than 1 metric ton<br>
 
 **Petroleum**<br>
-_total petroleum production_: 1,300 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 3,900 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 1,200 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
+_total petroleum production_: 800 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 5,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 6.7 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-36 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-4,161 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
-
 **Carbon dioxide emissions**<br>
-_total emissions_: 541,000 metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 541,000 metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 690,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 690,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 31.552 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 30.71 million Btu/person (2022 est.)<br>
 
 ## Communications
 

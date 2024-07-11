@@ -559,62 +559,39 @@ _Currency_: togrog/tugriks (MNT) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 1.479 million kW (2020 est.)<br>
-_consumption_: 7,336,520,000 kWh (2019 est.)<br>
-_exports_: 24 million kWh (2019 est.)<br>
-_imports_: 1.723 billion kWh (2019 est.)<br>
-_transmission/distribution losses_: 892 million kWh (2019 est.)<br>
+_installed generating capacity_: 1.61 million kW (2022 est.)<br>
+_consumption_: 8.602 billion kWh (2022 est.)<br>
+_exports_: 24 million kWh (2022 est.)<br>
+_imports_: 1.861 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 1.036 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 89.2% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 1.3% of total installed capacity (2020 est.)<br>
-_wind_: 8.1% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 1.3% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 88.9% of total installed capacity (2022 est.)<br>
+_solar_: 2.2% of total installed capacity (2022 est.)<br>
+_wind_: 7.8% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 1% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 43.904 million metric tons (2020 est.)<br>
-_consumption_: 8.818 million metric tons (2020 est.)<br>
-_exports_: 28.551 million metric tons (2020 est.)<br>
-_imports_: 1,000 metric tons (2020 est.)<br>
-_proven reserves_: 2.52 billion metric tons (2019 est.)<br>
+_production_: 28.276 million metric tons (2022 est.)<br>
+_consumption_: 6.393 million metric tons (2022 est.)<br>
+_exports_: 19.47 million metric tons (2022 est.)<br>
+_imports_: 2,000 metric tons (2022 est.)<br>
+_proven reserves_: 2.52 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 16,700 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 35,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 14,700 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-24,190 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_total petroleum production_: 15,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 36,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 22.74 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 17.445 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 5.295 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 15.918 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 10.63 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 5.289 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 83.045 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 57.093 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -703,7 +680,7 @@ the MAF's inventory is comprised largely of Soviet-era and Russian equipment (20
 <strong>note:</strong> since 2002, Mongolia has deployed more than 20,000 peacekeepers and observers to UN operations in more than a dozen countries<br>
 
 **Military - note**<br>
-the MAF traditionally has focused on counterterrorism, disaster response, and international peacekeeping duties; the Ground Force is the military’s primary service and is centered on a motorized infantry brigade equipped largely with Soviet-era equipment; it also has a battalion devoted to peacekeeping duties and hosts an annual international peacekeeping exercise known as “Khaan Quest”; Mongolia’s primary military partner is Russia, and in addition to receiving Russian military equipment, the MAF participates in Russia’s large “Vostok” exercise, which is conducted every four years; the MAF has a growing relationship with the US military<br><br>Mongolia has been engaged in dialogue and cooperation with NATO since 2005 and is considered by NATO to be a global partner; Mongolia supported the NATO-led Kosovo Force from 2005-2007 and contributed troops to the NATO-led International Security Assistance Force in Afghanistan from 2009-2014, as well as to the follow-on Resolute Support Mission that provided training, advice, and other assistance to the Afghan security forces (2015-2021) (2023)<br>
+the MAF traditionally has focused on counterterrorism, disaster response, and international peacekeeping duties; the Ground Force is the military’s primary service and is centered on a motorized infantry brigade; it also has a battalion devoted to peacekeeping duties and hosts an annual international peacekeeping exercise known as “Khaan Quest”; Mongolia’s primary military partner is Russia, and in addition to receiving Russian military equipment, the MAF participates in Russia’s large “Vostok” exercise, which is conducted every four years; the MAF has a growing relationship with the US military<br><br>Mongolia has been engaged in dialogue and cooperation with NATO since 2005 and is considered by NATO to be a global partner; Mongolia supported the NATO-led Kosovo Force from 2005-2007 and contributed troops to the NATO-led International Security Assistance Force in Afghanistan from 2009-2014, as well as to the follow-on Resolute Support Mission that provided training, advice, and other assistance to the Afghan security forces (2015-2021) (2023)<br>
 
 ## Transnational Issues
 

@@ -553,66 +553,46 @@ _Currency_: Tunisian dinars (TND) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) less than 1 million<br>
-_electrification - total population_: 99.9% (2020)<br>
-_electrification - urban areas_: 100% (2021)<br>
-_electrification - rural areas_: 99.6% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
+_electrification - urban areas_: 100%<br>
+_electrification - rural areas_: 99.7%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 5.777 million kW (2020 est.)<br>
-_consumption_: 16,737,180,000 kWh (2019 est.)<br>
-_exports_: 631 million kWh (2019 est.)<br>
-_imports_: 472 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 3.641 billion kWh (2019 est.)<br>
+_installed generating capacity_: 6.328 million kW (2022 est.)<br>
+_consumption_: 19.061 billion kWh (2022 est.)<br>
+_exports_: 154 million kWh (2022 est.)<br>
+_imports_: 2.726 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 4.722 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 95.9% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 1.3% of total installed capacity (2020 est.)<br>
-_wind_: 2.6% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0.3% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 96.9% of total installed capacity (2022 est.)<br>
+_solar_: 1.5% of total installed capacity (2022 est.)<br>
+_wind_: 1.5% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 0.1% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 5,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 5,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 2,000 metric tons (2022 est.)<br>
+_imports_: 2,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 42,500 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 107,700 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 29,400 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 10,200 bbl/day (2018 est.)<br>
+_total petroleum production_: 35,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 108,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 425 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-27,770 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-13,660 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-85,340 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 1,025,974,000 cubic meters (2019 est.)<br>
-_consumption_: 5,279,951,000 cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 4,305,994,000 cubic meters (2019 est.)<br>
+_production_: 1.323 billion cubic meters (2022 est.)<br>
+_consumption_: 5.153 billion cubic meters (2022 est.)<br>
+_imports_: 3.898 billion cubic meters (2022 est.)<br>
 _proven reserves_: 65.129 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 23.692 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 16,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 12.982 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 10.694 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 23.645 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 5,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 13.203 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 10.437 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 35.62 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 33.641 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -714,7 +694,7 @@ the Tunisian military's inventory includes mostly older or second-hand NATO-stan
 775 Central African Republic (MINUSCA) (2024)<br>
 
 **Military - note**<br>
-the FAT is responsible for territorial defense and internal security; its operational areas of focus are countering Islamic terrorist groups and assisting with securing the border; it is conducting counterterrorism and counterinsurgency operations against militant groups linked to al-Qa’ida in the Islamic Maghreb (AQIM) and the Islamic State of ash-Sham (ISIS) who are fighting a low-intensity insurgency, mostly in the mountainous region along the border with Algeria, particularly the Chaambi Mountains near the city of Kasserine; the military has the lead role for security in this area and also routinely conducts joint operations with Algerian security forces against these groups, as well to counter smuggling and trafficking activities; the FAT in recent years also has increased its role in securing the southern border against militant activity, smuggling, and trafficking from war-torn Libya; in the remote southern areas of the border with Libya, buffer/exclusion zones have also been established where the military has the lead for counterterrorism efforts; outside of these border areas, the Ministry of Interior (MOI) has the responsibility for counterterrorism, particularly for urban areas; the National Police Anti-Terrorism Brigade and the National Guard Special Unit have the lead for MOI counterterrorism operations<br><br>the FAT has historically remained largely apolitical and stayed out of the country’s economy; following Tunisia’s 1956 independence, FAT officers were legally prohibited from joining political parties, and the military did not intervene to prop up BEN ALI in 2011; nevertheless, President SAIED’s use of military courts to try civilians and placement of military troops outside of the parliament building after he dissolved the Assembly in 2021 has raised concerns of military politicization<br> <br>the FAT conducts bilateral and multinational training exercises with a variety of countries, including Algeria and other North African and Middle Eastern countries, France, and the US, as well as NATO; it also participates in UN peacekeeping operations; the Army has five combat brigades, including three mechanized infantry, a desert patrol, and a special forces brigade, as well as an armored reconnaissance regiment; the Navy is a coastal defense force with a limited inventory of offshore patrol ships complemented by a mix of small, fast attack and patrol craft; the Air Force largely supports the Army’s operations; it has a handful of older US-made fighter aircraft and a few dozen combat helicopters, mostly of French and US origin <br><br>Tunisia has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
+the FAT is responsible for territorial defense and internal security; its operational areas of focus are countering Islamic terrorist groups and assisting with securing the border; it is conducting counterterrorism and counterinsurgency operations against militant groups linked to al-Qa’ida in the Islamic Maghreb (AQIM) and the Islamic State of ash-Sham (ISIS) who are fighting a low-intensity insurgency, mostly in the mountainous region along the border with Algeria, particularly the Chaambi Mountains near the city of Kasserine; the military has the lead role for security in this area and also routinely conducts joint operations with Algerian security forces against these groups, as well to counter smuggling and trafficking activities; the FAT in recent years also has increased its role in securing the southern border against militant activity, smuggling, and trafficking from war-torn Libya; in the remote southern areas of the border with Libya, buffer/exclusion zones have also been established where the military has the lead for counterterrorism efforts; outside of these border areas, the Ministry of Interior (MOI) has the responsibility for counterterrorism, particularly for urban areas; the National Police Anti-Terrorism Brigade and the National Guard Special Unit have the lead for MOI counterterrorism operations<br><br>the FAT has historically remained largely apolitical and stayed out of the country’s economy; following Tunisia’s 1956 independence, FAT officers were legally prohibited from joining political parties, and the military did not intervene to prop up BEN ALI in 2011; nevertheless, President SAIED’s use of military courts to try civilians and placement of military troops outside of the parliament building after he dissolved the Assembly in 2021 has raised concerns of military politicization<br> <br>the FAT conducts bilateral and multinational training exercises with a variety of countries, including Algeria and other North African and Middle Eastern countries, France, and the US, as well as NATO; it also participates in UN peacekeeping operations<br><br>Tunisia has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
 
 ## Terrorism
 

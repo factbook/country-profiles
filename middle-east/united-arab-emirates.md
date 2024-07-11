@@ -535,71 +535,50 @@ _Currency_: Emirati dirhams (AED) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 35.173 million kW (2020 est.)<br>
-_consumption_: 122.386 billion kWh (2019 est.)<br>
-_exports_: 257 million kWh (2019 est.)<br>
-_imports_: 245 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 7.011 billion kWh (2019 est.)<br>
+_installed generating capacity_: 39.915 million kW (2022 est.)<br>
+_consumption_: 161.89 billion kWh (2022 est.)<br>
+_exports_: 657 million kWh (2022 est.)<br>
+_imports_: 868 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 7.524 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 95.7% of total installed capacity (2020 est.)<br>
-_nuclear_: 1.3% of total installed capacity (2020 est.)<br>
-_solar_: 3% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 84.6% of total installed capacity (2022 est.)<br>
+_nuclear_: 11.4% of total installed capacity (2022 est.)<br>
+_solar_: 4% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 3 (2023)<br>
-_Number of nuclear reactors under construction_: 1<br>
-_Net capacity of operational nuclear reactors_: 4.01GW (2023)<br>
-_Percent of total electricity production_: 1.3% (2021)<br>
-_Percent of total energy produced_: 0.17% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 0<br>
+_Number of operational nuclear reactors_: 4 (2023)<br>
+_Net capacity of operational nuclear reactors_: 5.32GW (2023 est.)<br>
+_Percent of total electricity production_: 19.7% (2023 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 2.563 million metric tons (2020 est.)<br>
-_exports_: 2,000 metric tons (2020 est.)<br>
-_imports_: 2.565 million metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 3.273 million metric tons (2022 est.)<br>
+_exports_: 99,000 metric tons (2022 est.)<br>
+_imports_: 3.538 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 3,769,100 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 863,700 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 2,427,200 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 172,900 bbl/day (2018 est.)<br>
+_total petroleum production_: 4.146 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 939,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 97.8 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-943,500 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-817,700 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-392,000 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 62,889,064,000 cubic meters (2019 est.)<br>
-_consumption_: 73,750,936,000 cubic meters (2019 est.)<br>
-_exports_: 7,673,768,000 cubic meters (2019 est.)<br>
-_imports_: 20,041,951,000 cubic meters (2019 est.)<br>
-_proven reserves_: 6,090,887,000,000 cubic meters (2021 est.)<br>
+_production_: 56.683 billion cubic meters (2022 est.)<br>
+_consumption_: 66.091 billion cubic meters (2022 est.)<br>
+_exports_: 6.991 billion cubic meters (2022 est.)<br>
+_imports_: 19.29 billion cubic meters (2022 est.)<br>
+_proven reserves_: 6.091 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 276.236 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 5.032 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 126.524 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 144.681 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 268.041 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 8.274 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 130.114 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 129.653 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 471.788 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 496.365 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -695,7 +674,7 @@ continues to maintain a small force in Yemen; also maintains some troops at mili
 <strong>note:</strong> in 2015, UAE intervened militarily in Yemen as part of the Saudi-led coalition in support of the Republic of Yemen Government with an estimated 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC)<br>
 
 **Military - note**<br>
-the UAE Armed Forces (UAEAF) are responsible for external defense and supporting the UAE’s foreign policy objectives; the military’s primary concerns include terrorism, regional instability, particularly in neighboring Yemen, and Iran, including a territorial dispute over three islands in the Strait of Hormuz and Iranian support to proxy forces in the region; in recent years, the UAE has undertaken a large military modernization program to go along with an assertive security policy which has included military interventions in Libya, Syria, and Yemen, as well as peacekeeping missions in Afghanistan and Somalia; the UAEAF has organized, trained, and equipped tens of thousands of militia forces in Yemen and offered training and equipment to several countries in Africa; the UAE also hosts the region’s first military school for women, which has trained female peacekeepers for deployment in Africa and Asia<br><br>the UAE has strong security ties to France and the US; it hosts a multi-service French military base, which includes the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and hosts about 3,500 US troops, mostly air and naval personnel; it also has defense ties with a variety of other countries, including Australia, China, Egypt, Israel, Jordan, Malaysia, South Korea, and the UK, as well as NATO and fellow members of the Gulf Cooperation Council, particularly Saudi Arabia<br><br>the UAEAF traces its origins to the establishment of the Trucial Oman Scouts in 1951, a joint UK-Abu Dhabi organization modeled after Jordan’s Arab Legion, which became the Abu Dhabi Defense Force in 1965; the modern UAEAF were formed in 1976; the modern UAE military is considered to be one of the best-trained and most capable forces in the Persian Gulf region; the Land Forces have approximately five brigades of armored, light infantry, and mechanized forces, plus supporting artillery units; the Presidential Guard, considered the elite of the Land Forces, has a mechanized brigade and a special operations command; the Air Forces and the Joint Aviation Command together have nearly 150 French- and US-made combat aircraft with more advanced US multipurpose fighters on order; the Navy’s principal warships include more than a dozen corvettes and offshore patrol vessels, also with more on order (2023)<br>
+the UAE Armed Forces (UAEAF) are responsible for external defense and supporting the UAE’s foreign policy objectives; the military’s primary concerns include terrorism, regional instability, particularly in neighboring Yemen, and Iran, including a territorial dispute over three islands in the Strait of Hormuz and Iranian support to proxy forces in the region; in recent years, the UAE has undertaken a large military modernization program to go along with an assertive security policy which has included military interventions in Libya, Syria, and Yemen, as well as peacekeeping missions in Afghanistan and Somalia; the UAEAF has organized, trained, and equipped tens of thousands of militia forces in Yemen and offered training and equipment to several countries in Africa; the UAE also hosts the region’s first military school for women, which has trained female peacekeepers for deployment in Africa and Asia<br><br>the UAE has strong security ties to France and the US; it hosts a multi-service French military base, which includes the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and hosts about 3,500 US troops, mostly air and naval personnel; it also has defense ties with a variety of other countries, including Australia, China, Egypt, Israel, Jordan, Malaysia, South Korea, and the UK, as well as NATO and fellow members of the Gulf Cooperation Council, particularly Saudi Arabia<br><br>the UAEAF traces its origins to the establishment of the Trucial Oman Scouts in 1951, a joint UK-Abu Dhabi organization modeled after Jordan’s Arab Legion, which became the Abu Dhabi Defense Force in 1965; the modern UAEAF were formed in 1976 and are considered to be one of the best-trained and most capable forces in the Persian Gulf region (2023)<br>
 
 ## Space
 

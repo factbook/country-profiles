@@ -583,66 +583,45 @@ _Currency_: Tanzanian shillings (TZS) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 37 million (2020)<br>
-_electrification - total population_: 42.7% (2021)<br>
-_electrification - urban areas_: 77.3% (2021)<br>
-_electrification - rural areas_: 23.3% (2021)<br>
+_electrification - total population_: 45.8% (2022 est.)<br>
+_electrification - urban areas_: 74.7%<br>
+_electrification - rural areas_: 36%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 1.623 million kW (2020 est.)<br>
-_consumption_: 6,522,440,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 113 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 974 million kWh (2019 est.)<br>
+_installed generating capacity_: 1.677 million kW (2022 est.)<br>
+_consumption_: 7.931 billion kWh (2022 est.)<br>
+_imports_: 148.53 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 1.238 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 65% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 1.3% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 32.8% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 67.4% of total installed capacity (2022 est.)<br>
+_solar_: 0.5% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 31.3% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.8% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 712,000 metric tons (2020 est.)<br>
-_consumption_: 577,000 metric tons (2020 est.)<br>
-_exports_: 126,000 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 269 million metric tons (2019 est.)<br>
+_production_: 2.511 million metric tons (2022 est.)<br>
+_consumption_: 802,000 metric tons (2022 est.)<br>
+_exports_: 1.71 million metric tons (2022 est.)<br>
+_imports_: 100 metric tons (2022 est.)<br>
+_proven reserves_: 1.41 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 52,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-67,830 bbl/day (2015 est.)<br>
+_refined petroleum consumption_: 58,000 bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 1,378,773,000 cubic meters (2019 est.)<br>
-_consumption_: 1,378,773,000 cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
+_production_: 1.808 billion cubic meters (2022 est.)<br>
+_consumption_: 1.808 billion cubic meters (2022 est.)<br>
 _proven reserves_: 6.513 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 11.491 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 1.32 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 7.466 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 2.705 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 12.804 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 1.762 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 7.494 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 3.547 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 3.334 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 3.221 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -743,7 +722,7 @@ the TPDF's inventory includes mostly Soviet-era and Chinese equipment; in recent
 520 Central African Republic (MINUSCA); 850 Democratic Republic of the Congo (MONUSCO; note - the MONUSCO mission is in the process of drawing down forces); 125 Lebanon (UNIFIL); approximately 300 Mozambique (under bi-lateral agreement to assist with combatting an insurgency) (2024)<br>
 
 **Military - note**<br>
-the TDPF&rsquo;s primary concerns are maritime piracy and smuggling, border security, terrorism, animal poaching, and spillover from instability in neighboring countries, particularly Mozambique and the Democratic Republic of the Congo (DRC); it participates in multinational training exercises, regional peacekeeping deployments, and has ties with a variety of foreign militaries, including those of China and the US; it has contributed troops to the UN&rsquo;s Force Intervention Brigade in the DRC and to the Southern African Development Community intervention force in Mozambique; since 2020, the TPDF has deployed additional troops to its border with Mozambique following several cross-border attacks by fighters from the Islamic State of Iraq and ash-Sham operating in Mozambique; the TPDF&rsquo;s principal ground forces are five infantry brigades and an armored brigade; the Naval Forces operate patrol and fast attack boats, while the Air Force inventory includes small numbers of combat aircraft and helicopters (2023)<br>
+the TDPF&rsquo;s primary concerns are maritime piracy and smuggling, border security, terrorism, animal poaching, and spillover from instability in neighboring countries, particularly Mozambique and the Democratic Republic of the Congo (DRC); it participates in multinational training exercises, regional peacekeeping deployments, and has ties with a variety of foreign militaries, including those of China and the US; it has contributed troops to the UN&rsquo;s Force Intervention Brigade in the DRC and to the Southern African Development Community intervention force in Mozambique; since 2020, the TPDF has deployed additional troops to its border with Mozambique following several cross-border attacks by fighters from the Islamic State of Iraq and ash-Sham operating in Mozambique (2023)<br>
 
 ## Terrorism
 

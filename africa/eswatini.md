@@ -535,66 +535,39 @@ _Currency_: emalangeni per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) less than 1 million<br>
-_electrification - total population_: 82.9% (2021)<br>
-_electrification - urban areas_: 94.5% (2021)<br>
-_electrification - rural areas_: 79.1% (2021)<br>
+_electrification - total population_: 82.3% (2022 est.)<br>
+_electrification - urban areas_: 86.1%<br>
+_electrification - rural areas_: 81.6%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 286,000 kW (2020 est.)<br>
-_consumption_: 1,448,308,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 942 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 154.7 million kWh (2019 est.)<br>
+_installed generating capacity_: 287,000 kW (2022 est.)<br>
+_consumption_: 1.344 billion kWh (2022 est.)<br>
+_imports_: 914.13 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 155.872 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 44.1% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.2% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 24.8% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 31% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 7.1% of total installed capacity (2022 est.)<br>
+_solar_: 0.2% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 51.2% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 41.5% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 108,000 metric tons (2020 est.)<br>
-_consumption_: 169,000 metric tons (2020 est.)<br>
-_exports_: 163,000 metric tons (2020 est.)<br>
-_imports_: 135,000 metric tons (2020 est.)<br>
-_proven reserves_: 144 million metric tons (2019 est.)<br>
+_production_: 219,000 metric tons (2022 est.)<br>
+_consumption_: 124,000 metric tons (2022 est.)<br>
+_exports_: 5,000 metric tons (2022 est.)<br>
+_imports_: 147,000 metric tons (2022 est.)<br>
+_proven reserves_: 4.644 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 6,000 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-5,279 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_refined petroleum consumption_: 6,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 1.224 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 350,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 875,000 metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 1.151 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 264,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 887,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 19.371 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 17.642 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -667,7 +640,4 @@ the UEDF is lightly armed with mostly older equipment from Europe, South Africa,
 the UEDF&rsquo;s primary mission is external security but it also has domestic security responsibilities, including protecting members of the royal family; the king is the UEDF commander in chief and holds the position of minister of defense, although the UEDF reports to the Army commander and principal undersecretary of defense for day-to-day operations; the Royal Eswatini Police Service (REPS) is responsible for maintaining internal security as well as migration and border crossing enforcement; it is under the prime minister, although the king is the force&rsquo;s titular commissioner in chief; the UEDF was originally created in 1973 as the Royal Swaziland Defense Force (2023)<br>
 
 ## Transnational Issues
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Eswatini does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; Eswatini established multi-agency emergency response teams to respond to trafficking victim identification; however, the government did not demonstrate overall increasing efforts, compared with the previous year, to expand its anti-trafficking capacity; the lack of government coordination and leadership of the Prevention of People Trafficking and Smuggling Secretariat continued to hinder efforts; the government did not allocate funding for the Prevention of People Trafficking and People Smuggling Task Force to coordinate anti-trafficking efforts; the lack of specialized training for front-line officers continued to hamper efforts; serious allegations of trafficking and victim abuse by senior government officials have remained pending for multiple years; the first shelter for victims refurbished in collaboration with foreign donor support remained inoperative for the second consecutive year; therefore, Eswatini remained on Tier 2 Watch List for the second consecutive year (2023)<br>
 

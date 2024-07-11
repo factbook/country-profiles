@@ -535,63 +535,41 @@ _Currency_: Jamaican dollars (JMD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 1.216 million kW (2020 est.)<br>
-_consumption_: 3,050,780,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2020 est.)<br>
-_imports_: 0 kWh (2020 est.)<br>
-_transmission/distribution losses_: 1.149 billion kWh (2019 est.)<br>
+_installed generating capacity_: 1.222 million kW (2022 est.)<br>
+_consumption_: 3.367 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 1.212 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 87.5% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 1.2% of total installed capacity (2020 est.)<br>
-_wind_: 6.8% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 4% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 86.6% of total installed capacity (2022 est.)<br>
+_solar_: 3% of total installed capacity (2022 est.)<br>
+_wind_: 6.1% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 3.1% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 1.2% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 61,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 82,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 65,000 metric tons (2022 est.)<br>
+_exports_: 100 metric tons (2022 est.)<br>
+_imports_: 65,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 3,000 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 61,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 20,100 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-24,250 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-823 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-30,580 bbl/day (2015 est.)<br>
+_total petroleum production_: 3,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 49,000 bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 693.422 million cubic meters (2020 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 667.115 million cubic meters (2020 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_consumption_: 664.834 million cubic meters (2022 est.)<br>
+_imports_: 664.834 million cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 10.002 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 177,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 9.276 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 549,000 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 8.86 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 147,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 7.411 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 1.302 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 49.7 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 46.586 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -676,7 +654,7 @@ the JDF is lightly armed with a limited inventory featuring equipment mostly fro
 <strong>note:</strong> as of 2022, women made up about 20% of the JDF's uniformed personnel<br>
 
 **Military - note**<br>
-in addition to its responsibility of defending against external aggression, the JDF's primary missions are border, internal, and maritime security, including support to police operations in combating crime and violence; other missions include search and rescue, disaster response, humanitarian assistance, and peacekeeping; it has arrest authority and partners with the Jamaica Constabulary Force (JCF); both the JDF and JCF are under the Ministry of National Security, which directs policy for the security forces; the JDF participates in bilateral and multinational training exercises, including with the militaries of Canada, the UK, the US, and other Caribbean nations <br><br>while Jamaica had a militia force as early as the 1660s, the JDF was constituted in 1962 from the West India Regiment (WIR), a British colonial regiment which dates back to 1795; troops for the WIR were recruited from freed slaves from North America, slaves purchased in the West Indies, and slaves from Africa bought off slave ships (2023)<br>
+in addition to its responsibility of defending against external aggression, the JDF's primary missions are border, internal, and maritime security, including support to police operations in combating crime and violence; other missions include search and rescue, disaster response, humanitarian assistance, and peacekeeping; it has arrest authority and partners with the Jamaica Constabulary Force (JCF); both the JDF and JCF are under the Ministry of National Security, which directs policy for the security forces; the JDF participates in bilateral and multinational training exercises, including with the militaries of Canada, the UK, the US, and other Caribbean nations <br><br>while Jamaica had a militia force as early as the 1660s, the JDF was constituted in 1962 from the West India Regiment (WIR), a British colonial regiment which dates back to 1795 (2023)<br>
 
 ## Transnational Issues
 

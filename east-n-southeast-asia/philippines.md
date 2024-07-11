@@ -573,66 +573,48 @@ _Currency_: Philippine pesos (PHP) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 3 million (2020)<br>
-_electrification - total population_: 97.4% (2021)<br>
-_electrification - urban areas_: 98.6% (2021)<br>
-_electrification - rural areas_: 96.4% (2021)<br>
+_electrification - total population_: 94.8% (2022 est.)<br>
+_electrification - urban areas_: 98%<br>
+_electrification - rural areas_: 91.1%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 27.885 million kW (2020 est.)<br>
-_consumption_: 90,926,990,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2020 est.)<br>
-_imports_: 0 kWh (2020 est.)<br>
-_transmission/distribution losses_: 9.994 billion kWh (2019 est.)<br>
+_installed generating capacity_: 27.542 million kW (2022 est.)<br>
+_consumption_: 102.834 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 10.174 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 77.6% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 1.3% of total installed capacity (2020 est.)<br>
-_wind_: 1.1% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 8% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 11% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1.1% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 78.2% of total installed capacity (2022 est.)<br>
+_solar_: 1.4% of total installed capacity (2022 est.)<br>
+_wind_: 1.1% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 8% of total installed capacity (2022 est.)<br>
+_geothermal_: 10.2% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 1.1% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 13.752 million metric tons (2020 est.)<br>
-_consumption_: 32.855 million metric tons (2020 est.)<br>
-_exports_: 7.554 million metric tons (2020 est.)<br>
-_imports_: 28.358 million metric tons (2020 est.)<br>
-_proven reserves_: 361 million metric tons (2019 est.)<br>
+_production_: 14.483 million metric tons (2022 est.)<br>
+_consumption_: 37.13 million metric tons (2022 est.)<br>
+_exports_: 8.698 million metric tons (2022 est.)<br>
+_imports_: 31.634 million metric tons (2022 est.)<br>
+_proven reserves_: 361 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 10,300 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 527,400 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 12,400 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 232,500 bbl/day (2018 est.)<br>
+_total petroleum production_: 10,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 453,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 138.5 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-215,500 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-26,710 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-211,400 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 3,632,507,000 cubic meters (2019 est.)<br>
-_consumption_: 3,632,507,000 cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 98.542 billion cubic meters (2021 est.)<br>
+_production_: 2.251 billion cubic meters (2022 est.)<br>
+_consumption_: 2.251 billion cubic meters (2022 est.)<br>
+_proven reserves_: 98.543 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 142.282 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 70.82 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 64.418 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 7.044 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 136.273 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 70.975 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 60.932 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 4.365 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 19.261 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 15.558 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -733,7 +715,7 @@ the AFP is equipped with a wide mix of imported weapons systems; in recent years
 <strong>note:</strong> as of 2020, women made up about 6% of the active military; women were allowed to enter the Philippine Military Academy and train as combat soldiers in 1993<br>
 
 **Military - note**<br>
-the Armed Forces of the Philippines (AFP) were formally organized during the American colonial period as the Philippine Army; they were established by the National Defense Act of 1935 and were comprised of both Filipinos and Americans<br><br>the US and Philippines agreed to a mutual defense treaty in 1951; in 2014, the two governments signed an Enhanced Defense Cooperation Agreement (EDCA) that established new parameters for military cooperation; under the EDCA, the Philippine Government may grant US troops access to Philippine military bases on a rotational basis “for security cooperation exercises, joint and combined military training activities, and humanitarian assistance and disaster relief activities”; the Philippines has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the Philippine Government faces a number of internal threats from several armed separatists, terrorists, and criminal groups; as such, much of the AFP's operational focus is internal security, particularly in the south, where several separatist Islamic insurgent and terrorist groups operate and up to 60% of the armed forces are deployed; additional combat operations are conducted against the Communist People’s Party/New People’s Army, which is active mostly on Luzon, the Visayas, and areas of Mindanao; prior to a peace deal in 2014, the AFP fought a decades-long conflict against the Moro Islamic Liberation Front (MILF), a separatist organization based mostly on the island of Mindanao; the MILF's armed wing, the Bangsamoro Islamic Armed Forces (BIAF), had up to 40,000 fighters under arms<br><br>the AFP’s air and ground forces are experienced with and largely configured for counterinsurgency and counterterrorist operations; a majority of the Air Force’s combat aircraft are ground attack capable and organized in mixed fixed-wing and helicopter squadrons or combat groups formed for mobile operations against insurgents and terrorists; ten of the Army’s 11 divisions are light infantry, and the AFP has a joint-service special operations command comprised of rangers, scouts, special forces, counterterrorism, quick reaction, marine, naval, and air units<br><br>in addition to its typical roles of patrolling the country's territorial waters, the Navy conducts interdiction operations against terrorist, insurgent, and criminal groups around the southern islands, including joint maritime patrols with Indonesia and Malaysia, particularly in the Sulu Sea; the Navy has commands for offshore, littoral, and amphibious operations; most of its surface fleet consists of coastal patrol vessels and fast attack craft, although in response to maritime and territorial disputes with China in the South China Sea over the past decade the Navy has acquired some larger warships, including frigates, a corvette, offshore patrol vessels (OPVs), and landing platform dock (LPD) amphibious assault ships, and has plans to acquire additional corvettes and OPVs in the next few years; the Marine Corps consists of four infantry brigades and also conducts counterinsurgency operations <br><br>the Philippines National Police (PNP) has an active role in counterinsurgency and counter-terrorism operations alongside the AFP, particularly the Special Action Force, a PNP commando unit that specializes in urban counter-terrorism operations (2023)<br>
+the Armed Forces of the Philippines (AFP) were formally organized during the American colonial period as the Philippine Army; they were established by the National Defense Act of 1935 and were comprised of both Filipinos and Americans<br><br>the US and Philippines agreed to a mutual defense treaty in 1951; in 2014, the two governments signed an Enhanced Defense Cooperation Agreement (EDCA) that established new parameters for military cooperation; under the EDCA, the Philippine Government may grant US troops access to Philippine military bases on a rotational basis “for security cooperation exercises, joint and combined military training activities, and humanitarian assistance and disaster relief activities”; the Philippines has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the Philippine Government faces a number of internal threats from several armed separatists, terrorists, and criminal groups; as such, much of the AFP's operational focus is internal security, particularly in the south, where several separatist Islamic insurgent and terrorist groups operate and up to 60% of the AFP is typically deployed; additional combat operations are conducted against the Communist People’s Party/New People’s Army, which is active mostly on Luzon, as well as the Visayas and areas of Mindanao; prior to a peace deal in 2014, the AFP fought a decades-long conflict against the Moro Islamic Liberation Front (MILF), a separatist organization based mostly on the island of Mindanao; the MILF's armed wing, the Bangsamoro Islamic Armed Forces (BIAF), had up to 40,000 fighters under arms<br><br>the AFP's naval forces are also involved in interdiction operations against terrorist, insurgent, and criminal groups around the southern islands, including joint maritime patrols with Indonesia and Malaysia, particularly in the Sulu Sea; rising tensions with China over disputed waters and land features in the South China Sea since 2012 has spurred the AFP to place more emphasis on blue-water naval capabilities, including acquiring larger warships such frigates, corvettes, offshore patrol vessels, and a landing platform dock (LPD) amphibious assault ship<br><br>the Philippines National Police (PNP) has an active role in counterinsurgency and counter-terrorism operations alongside the AFP, particularly the Special Action Force, a PNP commando unit that specializes in urban counter-terrorism operations (2023)<br>
 
 ## Space
 

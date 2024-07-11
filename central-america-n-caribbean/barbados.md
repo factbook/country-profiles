@@ -512,63 +512,39 @@ _Currency_: Barbadian dollars (BBD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 311,000 kW (2020 est.)<br>
-_consumption_: 1 billion kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 20 million kWh (2019 est.)<br>
+_installed generating capacity_: 340,000 kW (2022 est.)<br>
+_consumption_: 1.02 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 65.871 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 95.9% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 4.1% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 92.1% of total installed capacity (2022 est.)<br>
+_solar_: 7.7% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.2% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_imports_: 100 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 1,000 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 10,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 700 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 2 million barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-10,630 bbl/day (2015 est.)<br>
+_total petroleum production_: 2,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 9,000 bbl/day (2022 est.)<br>
+_crude oil estimated reserves_: 1.978 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 14.923 million cubic meters (2019 est.)<br>
-_consumption_: 20.954 million cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 6.031 million cubic meters (2019 est.)<br>
-_proven reserves_: 113 million cubic meters (2021 est.)<br>
+_production_: 9.759 million cubic meters (2022 est.)<br>
+_consumption_: 15.813 million cubic meters (2022 est.)<br>
+_imports_: 6.054 million cubic meters (2022 est.)<br>
+_proven reserves_: 113.267 million cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 1.703 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 1.662 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 41,000 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 1.347 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 1.316 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 31,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 83.723 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 68.271 million Btu/person (2022 est.)<br>
 
 ## Communications
 

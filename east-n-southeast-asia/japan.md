@@ -558,72 +558,56 @@ _Currency_: yen (JPY) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 348.666 million kW (2020 est.)<br>
-_consumption_: 903,698,740,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2020 est.)<br>
-_imports_: 0 kWh (2020 est.)<br>
-_transmission/distribution losses_: 44.094 billion kWh (2019 est.)<br>
+_installed generating capacity_: 349.94 million kW (2022 est.)<br>
+_consumption_: 939.314 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 52.053 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 73.5% of total installed capacity (2020 est.)<br>
-_nuclear_: 4.8% of total installed capacity (2020 est.)<br>
-_solar_: 8.8% of total installed capacity (2020 est.)<br>
-_wind_: 1% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 10% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0.3% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1.6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 71.7% of total installed capacity (2022 est.)<br>
+_nuclear_: 5.2% of total installed capacity (2022 est.)<br>
+_solar_: 9.4% of total installed capacity (2022 est.)<br>
+_wind_: 1% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 6.8% of total installed capacity (2022 est.)<br>
+_geothermal_: 0.3% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 5.6% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 10 (2023)<br>
-_Number of nuclear reactors under construction_: 2<br>
-_Net capacity of operational nuclear reactors_: 9.49GW (2023)<br>
-_Percent of total electricity production_: 7% (2018)<br>
-_Percent of total energy produced_: 24% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 17<br>
+_Number of operational nuclear reactors_: 12 (2023)<br>
+_Number of nuclear reactors under construction_: 2 (2023)<br>
+_Net capacity of operational nuclear reactors_: 11.05GW (2023 est.)<br>
+_Percent of total electricity production_: 5.5% (2023 est.)<br>
+_Number of nuclear reactors permanently shut down_: 27 (2023)<br>
 
 **Coal**<br>
-_production_: 29.84 million metric tons (2020 est.)<br>
-_consumption_: 210.882 million metric tons (2020 est.)<br>
-_exports_: 3.201 million metric tons (2020 est.)<br>
-_imports_: 174.486 million metric tons (2020 est.)<br>
-_proven reserves_: 350 million metric tons (2019 est.)<br>
+_production_: 29.141 million metric tons (2022 est.)<br>
+_consumption_: 216.332 million metric tons (2022 est.)<br>
+_exports_: 917,000 metric tons (2022 est.)<br>
+_imports_: 191.092 million metric tons (2022 est.)<br>
+_proven reserves_: 350 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 10,200 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 3,739,300 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 3,012,800 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 44.1 million barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-3.467 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-370,900 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-1.1 million bbl/day (2017 est.)<br>
+_total petroleum production_: 8,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 3.289 million bbl/day (2023 est.)<br>
+_crude oil estimated reserves_: 44.115 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 1,928,431,000 cubic meters (2020 est.)<br>
-_consumption_: 102,108,738,000 cubic meters (2019 est.)<br>
-_exports_: 28,000 cubic meters (2019 est.)<br>
-_imports_: 105,255,103,000 cubic meters (2019 est.)<br>
+_production_: 2.22 billion cubic meters (2022 est.)<br>
+_consumption_: 92.843 billion cubic meters (2022 est.)<br>
+_exports_: 271.607 million cubic meters (2022 est.)<br>
+_imports_: 92.567 billion cubic meters (2022 est.)<br>
 _proven reserves_: 20.898 billion cubic meters (2021 est.)<br>
-<strong>note: </strong>Japan had been the largest global liquefied natural gas (LNG) importer until 2021 when it was exceeded by China; prior to 2021, Japan had been the largest importer of LNG for 51 years; Japan has the largest LNG storage tank capacity in the world, or about 643 million cubic feet (MMcf) as of early 2020; in 2019, Japan sourced 28% of its LNG imports from regional suppliers in Southeast Asia and 39% from Australia<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 1,103,234,000 metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 439.243 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 444.271 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 219.72 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 1.049 billion metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 442.647 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 406.998 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 199.783 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 147.107 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 136.122 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -731,7 +715,7 @@ the JSDF is equipped with a mix of imported and domestically produced equipment;
 approximately 200 Djibouti (2024)<br>
 
 **Military - note**<br>
-the Japan Self-Defense Force's (JSDF) primary concerns are perceived threats posed by China and North Korea, as well as protecting the country’s territorial waters, countering piracy and terrorism, and conducting humanitarian operations; it exercises regularly with the US military and increasingly with other regional countries, such as Australia; the ground forces are organized into 10 divisions and a number of independent brigades, which include airborne, air assault, and amphibious rapid reaction forces; the maritime force is one of the largest and most modern navies in the world; its principal warships include four helicopter carriers (two are undergoing conversion to light aircraft carriers), more than 40 destroyers and frigates, three landing platform/dock (LPD) amphibious assault ships, and more than 20 attack-type submarines; it also has a large force of maritime aircraft, including over 150 for anti-submarine warfare; the Air Self Defense Force has over 300 modern combat aircraft, as well as more than 200 other aircraft for surveillance, early warning, electronic warfare, search and rescue, transportation, and logistics<br><br>Japan’s alliance with the US (signed in 1951) is one of the cornerstones of the country’s security, as well as a large component of the US security role in Asia; approximately 55,000 US troops and other military assets, including aircraft and naval ships, are stationed in Japan and have exclusive use of more than 80 bases and facilities; in exchange for their use, the US guarantees Japan’s security; the Japanese Government provides about $2 billion per year to offset the cost of stationing US forces in Japan; in addition, it pays compensation to localities hosting US troops, rent for bases, and costs for new facilities to support the US presence; Japan also has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>Japan was disarmed after its defeat in World War II; shortly after the Korean War began in 1950, US occupation forces in Japan created a 75,000-member lightly armed force called the National Police Reserve; the JSDF was founded in 1954; Article 9 of Japan’s 1947 constitution renounced the use of force as a means of settling international disputes; however, Japan has interpreted Article 9 to mean that it can maintain a military for national defense purposes and, since 1991, has allowed the JSDF to participate in noncombat roles overseas in a number of UN peacekeeping missions and in the US-led coalition in Iraq; in 2014-2015, the Japanese Government reinterpreted the constitution as allowing for "collective self-defense," described as the use of force on others’ behalf if Japan’s security was threatened; in 2022, the government released three security policy documents that labeled China as an “unprecedented strategic challenge,” declared Japan’s intention to develop "counterstrike” capabilities, including cruise missiles and armed drones, and outlined plans to increase Japan’s security-related expenditures to 2% of its national gross domestic product (GDP), in line with NATO standards; post-war Japan generally has limited defense spending to 1% of its GDP (2023)<br>
+the Japan Self-Defense Force's (JSDF) primary concerns are perceived threats posed by China and North Korea, as well as protecting the country’s territorial waters, countering piracy and terrorism, and conducting humanitarian operations; it exercises regularly with the US military and increasingly with other regional countries, such as Australia<br><br>Japan’s alliance with the US (signed in 1951) is one of the cornerstones of the country’s security, as well as a large component of the US security role in Asia; approximately 55,000 US troops and other military assets, including aircraft and naval ships, are stationed in Japan and have exclusive use of more than 80 bases and facilities; in exchange for their use, the US guarantees Japan’s security; the Japanese Government provides about $2 billion per year to offset the cost of stationing US forces in Japan; in addition, it pays compensation to localities hosting US troops, rent for bases, and costs for new facilities to support the US presence; Japan also has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>Japan was disarmed after its defeat in World War II; shortly after the Korean War began in 1950, US occupation forces in Japan created a 75,000-member lightly armed force called the National Police Reserve; the JSDF was founded in 1954; Article 9 of Japan’s 1947 constitution renounced the use of force as a means of settling international disputes; however, Japan has interpreted Article 9 to mean that it can maintain a military for national defense purposes and, since 1991, has allowed the JSDF to participate in noncombat roles overseas in a number of UN peacekeeping missions and in the US-led coalition in Iraq; in 2014-2015, the Japanese Government reinterpreted the constitution as allowing for "collective self-defense," described as the use of force on others’ behalf if Japan’s security was threatened; in 2022, the government released three security policy documents that labeled China as an “unprecedented strategic challenge,” declared Japan’s intention to develop "counterstrike” capabilities, including cruise missiles and armed drones, and outlined plans to increase Japan’s security-related expenditures to 2% of its national gross domestic product (GDP), in line with NATO standards; post-war Japan generally has limited defense spending to 1% of its GDP (2023)<br>
 
 ## Space
 

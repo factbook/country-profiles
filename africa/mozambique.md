@@ -572,66 +572,47 @@ _Currency_: meticais (MZM) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 19 million (2020)<br>
-_electrification - total population_: 31.4% (2021)<br>
-_electrification - urban areas_: 77.3% (2021)<br>
-_electrification - rural areas_: 3.8% (2021)<br>
+_electrification - total population_: 33.2% (2022 est.)<br>
+_electrification - urban areas_: 79.4%<br>
+_electrification - rural areas_: 5%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 2.765 million kW (2020 est.)<br>
-_consumption_: 12,724,100,000 kWh (2019 est.)<br>
-_exports_: 10.771 billion kWh (2019 est.)<br>
-_imports_: 8.276 billion kWh (2019 est.)<br>
-_transmission/distribution losses_: 2.768 billion kWh (2019 est.)<br>
+_installed generating capacity_: 2.77 million kW (2022 est.)<br>
+_consumption_: 13.09 billion kWh (2022 est.)<br>
+_exports_: 11.096 billion kWh (2022 est.)<br>
+_imports_: 8.219 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 3.052 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 19.6% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.2% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 79.6% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 17.6% of total installed capacity (2022 est.)<br>
+_solar_: 0.4% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 81.4% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.6% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 7.25 million metric tons (2020 est.)<br>
-_consumption_: 46,000 metric tons (2020 est.)<br>
-_exports_: 8.355 million metric tons (2020 est.)<br>
-_imports_: 48,000 metric tons (2020 est.)<br>
-_proven reserves_: 1.792 billion metric tons (2019 est.)<br>
+_production_: 9.015 million metric tons (2022 est.)<br>
+_consumption_: 11,000 metric tons (2022 est.)<br>
+_exports_: 9.413 million metric tons (2022 est.)<br>
+_imports_: 9,000 metric tons (2022 est.)<br>
+_proven reserves_: 1.792 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 35,400 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-25,130 bbl/day (2015 est.)<br>
+_refined petroleum consumption_: 40,000 bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 5,423,828,000 cubic meters (2019 est.)<br>
-_consumption_: 1,397,604,000 cubic meters (2019 est.)<br>
-_exports_: 4,067,255,000 cubic meters (2019 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 2,831,680,000,000 cubic meters (2021 est.)<br>
+_production_: 5.338 billion cubic meters (2022 est.)<br>
+_consumption_: 1.347 billion cubic meters (2022 est.)<br>
+_exports_: 3.963 billion cubic meters (2022 est.)<br>
+_proven reserves_: 2.832 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 7.753 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 109,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 4.743 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 2.901 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 8.423 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 59,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 5.568 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 2.796 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 8.107 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 5.426 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -708,7 +689,7 @@ _key ports_: Beira, Chinde, Inhambane, Maputo, Mocambique, Pebane, Porto Belo<br
 
 **Military and security forces**<br>
 Armed Forces for the Defense of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army (Ramo do Exercito), Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM)<br><br>Ministry of Interior: Mozambique National Police (PRM), the National Criminal Investigation Service (SERNIC), Rapid Intervention Unit (UIR; police special forces), Border Security Force; other security forces include the Presidential Guard and the Force for the Protection of High-Level Individuals (2024)<br>
-<strong>note 1: </strong>the FADM and other security forces are referred to collectively as the Defense and Security Forces (DFS)<br><strong><br>note 2:</strong> the PRM, SERNIC, and the UIR are responsible for law enforcement and internal security; the Border Security Force is responsible for protecting the country’s international borders and for carrying out police duties within 24 miles of borders<br><strong><br>note 3</strong>: the Presidential Guard provides security for the president, and the Force for the Protection of High-level Individuals provides security for senior-level officials at the national and provincial levels<br>
+<strong>note 1: </strong>the FADM and other security forces are referred to collectively as the Defense and Security Forces (DFS)<br><strong><br>note 2:</strong> the PRM, SERNIC, and the UIR are responsible for law enforcement and internal security; the Border Security Force is responsible for protecting the country’s international borders and for carrying out police duties within 24 miles of borders<br><strong><br>note 3</strong>: the Presidential Guard provides security for the president, and the Force for the Protection of High-level Individuals provides security for senior-level officials at the national and provincial levels<br><br><strong>note 4:</strong> in 2023, the Mozambique Government legalized local militias that have been assisting security forces operating in Cabo Delgado against Islamic militants since 2020; this Local Force is comprised of ex-combatants and other civilians and receives training, uniforms, weapons, and logistical support from the FADM<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2022 est.)<br>
@@ -727,7 +708,7 @@ the FADM's inventory consists primarily of Soviet-era equipment, although in rec
 registration for military service is mandatory for all men and women at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service for men and women; 24-month service obligation (2023)<br>
 
 **Military - note**<br>
-the FADM is responsible for external security, cooperating with police on internal security, and responding to natural disasters and other emergencies; the current primary focus of the FADM is countering an insurgency driven by militants with ties to the Islamic State of Iraq and ash-Sham (ISIS) terrorist group in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and the fighting has left an estimated 5,000 estimated dead and nearly 1 million displaced;  several countries from the Southern Africa Development Community (SADC) and the EU, as well as Rwanda and the US are providing various forms of military assistance to the FADM; the SADC countries and Rwanda have sent more than 3,000 military and security personnel, while some EU member states and the US have provided training assistance; in early 2024, the SADC began withdrawing personnel, although the insurgency remained active<br><br>the FADM’s Army is comprised largely of light infantry supplemented by several battalions of artillery and special forces; the Air Force has small numbers of Soviet-era combat aircraft and helicopters<br><br>in 2023, the Mozambique Government legalized local militias that have been assisting security forces operating in Cabo Delgado against Islamic militants since 2020; this Local Force is comprised of ex-combatants and other civilians and is to receive training, uniforms, weapons, and logistical support from the FADM (2023)<br>
+the FADM is responsible for external security, cooperating with police on internal security, and responding to natural disasters and other emergencies; the current primary focus of the FADM is countering an insurgency driven by militants with ties to the Islamic State of Iraq and ash-Sham (ISIS) terrorist group in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and the fighting has left an estimated 5,000 estimated dead and nearly 1 million displaced; several countries from the Southern Africa Development Community (SADC) and the EU, as well as Rwanda and the US have provided various forms of military assistance to the FADM; the SADC countries and Rwanda have sent more than 3,000 military and security personnel, while some EU member states and the US have provided training assistance; in early 2024, the SADC began withdrawing personnel, although the insurgency remained active (2023)<br>
 
 ## Terrorism
 
@@ -740,9 +721,6 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 10,655 (Burundi) (refugees and asylum seekers) (2023); 9,340 (Democratic Republic of Congo) (refugees and asylum seekers) (2024)<br>
 _IDPs_: 850,599 (north Mozambique, violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2023)<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Mozambique does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government increased investigations and prosecutions, trained law enforcement and front-line officials, published and disseminated draft standard operating procedures (SOPs) for victim referral and care and raising public awareness; officials convened government and civil society stakeholders and coordinated with neighboring governments; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; despite increased investigations, Mozambique did not report identifying any victims and lacked adequate procedures to screen vulnerable populations for trafficking; for the seventh consecutive year, the government failed to adopt its draft National Referral Mechanism and SOPs for care and referral of victims; Mozambique did not report providing financial or in-kind support to the civil society organizations that identify and assist victims; the lack of a formally adopted National Action Plan, including dedicated resources for preventing trafficking, reduced integration of anti-trafficking efforts; reports of low-level official complicity in trafficking crimes persisted; the government did not provide sufficient resources to victim protection services, relying on NGOs and international organizations to provide the majority of services to victims; the government lacked effective policies or laws to regulate foreign labor recruiters and hold them liable for fraudulent recruiting; therefore, Mozambique was downgraded to Tier 2 Watch List (2023)<br>
 
 **Illicit drugs**<br>
 <br><br> <p>a transit country for large shipments of heroin and methamphetamine originating from Afghanistan to primarily South Africa</p> <p> </p><br>

@@ -549,65 +549,44 @@ _Currency_: afghanis (AFA) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 97.7% (2021)<br>
-_electrification - urban areas_: 99.5% (2021)<br>
-_electrification - rural areas_: 97% (2021)<br>
+_electrification - total population_: 85.3% (2022 est.)<br>
+_electrification - urban areas_: 95.9%<br>
+_electrification - rural areas_: 81.7%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 776,000 kW (2020 est.)<br>
-_consumption_: 5.913 billion kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 4.912 billion kWh (2019 est.)<br>
-_transmission/distribution losses_: 61.6 million kWh (2019 est.)<br>
+_installed generating capacity_: 627,000 kW (2022 est.)<br>
+_consumption_: 5.994 billion kWh (2022 est.)<br>
+_imports_: 5.881 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 717.333 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 15.9% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 5.1% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 79.1% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 15.6% of total installed capacity (2022 est.)<br>
+_solar_: 9.6% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 74.8% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 2.096 million metric tons (2020 est.)<br>
-_consumption_: 2.096 million metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 66 million metric tons (2019 est.)<br>
+_production_: 4.885 million metric tons (2022 est.)<br>
+_consumption_: 1.545 million metric tons (2022 est.)<br>
+_exports_: 3.343 million metric tons (2022 est.)<br>
+_imports_: 4,000 metric tons (2022 est.)<br>
+_proven reserves_: 66 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 24,300 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-34,210 bbl/day (2015 est.)<br>
+_refined petroleum consumption_: 27,000 bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 80.193 million cubic meters (2020 est.)<br>
-_consumption_: 80.193 million cubic meters (2020 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
+_production_: 80.2 million cubic meters (2020 est.)<br>
+_consumption_: 80.2 million cubic meters (2020 est.)<br>
 _proven reserves_: 49.554 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 7.893 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 4.158 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 3.468 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 267,000 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 7.029 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 3.125 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 3.904 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 167,000 metric tonnes of CO2 (2020 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 3.227 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 2.686 million Btu/person (2022 est.)<br>
 
 ## Communications
 

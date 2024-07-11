@@ -566,66 +566,42 @@ _Currency_: Namibian dollars (NAD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 1 million (2020)<br>
-_electrification - total population_: 55.2% (2021)<br>
-_electrification - urban areas_: 74.7% (2021)<br>
-_electrification - rural areas_: 33.2% (2021)<br>
+_electrification - total population_: 56.2% (2022 est.)<br>
+_electrification - urban areas_: 74.8%<br>
+_electrification - rural areas_: 33.2%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 640,000 kW (2020 est.)<br>
-_consumption_: 4,065,360,000 kWh (2019 est.)<br>
-_exports_: 119 million kWh (2019 est.)<br>
-_imports_: 3.417 billion kWh (2019 est.)<br>
-_transmission/distribution losses_: 270 million kWh (2019 est.)<br>
+_installed generating capacity_: 646,000 kW (2022 est.)<br>
+_consumption_: 3.433 billion kWh (2022 est.)<br>
+_exports_: 382 million kWh (2022 est.)<br>
+_imports_: 2.835 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 370.694 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 6.1% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 4.7% of total installed capacity (2020 est.)<br>
-_wind_: 0.5% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 88.8% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 3.8% of total installed capacity (2022 est.)<br>
+_solar_: 36.8% of total installed capacity (2022 est.)<br>
+_wind_: 1.6% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 57.8% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 38,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 59,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 32,000 metric tons (2022 est.)<br>
+_exports_: (2022 est.) less than 1 metric ton<br>
+_imports_: 33,000 metric tons (2022 est.)<br>
+_proven reserves_: 350 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 26,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-80 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-26,270 bbl/day (2015 est.)<br>
+_refined petroleum consumption_: 25,000 bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
 _proven reserves_: 62.297 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 3.831 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 66,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 3.764 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 3.61 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 72,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 3.538 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 29.811 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 24.695 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -716,7 +692,7 @@ the NDF's inventory consists of a mix of Soviet-era and some more modern systems
 <strong>note:</strong> as of 2018, women comprised more than 20% of the active duty military<br>
 
 **Military - note**<br>
-the NDF’s primary responsibility is external security; it has participated in UN and regional peacekeeping and security missions and provides assistance to civil authorities as needed; it participates in multinational training exercises; the Army fields a largely mobile force centered on three small motorized infantry brigades and a reconnaissance regiment; the Navy has a Chinese-built multipurpose offshore patrol ship equipped with a helicopter landing platform and supported by several coastal patrol vessels, while the Air Force has a small inventory of aircraft, including a few Chinese-made fighters and Soviet-era attack helicopters <br><br>the NDF was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); PLAN was the armed wing of the South West Africa People’s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF (2023)<br>
+the NDF’s primary responsibility is external security; it has participated in UN and regional peacekeeping and security missions and provides assistance to civil authorities as needed; it also participates in multinational training exercises<br><br>the NDF was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); the PLAN was the armed wing of the South West Africa People’s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF (2023)<br>
 
 ## Transnational Issues
 

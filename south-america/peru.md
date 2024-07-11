@@ -588,66 +588,49 @@ _Currency_: nuevo sol (PEN) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) less than 1 million<br>
-_electrification - total population_: 95.6% (2021)<br>
-_electrification - urban areas_: 98.9% (2021)<br>
-_electrification - rural areas_: 83.5% (2021)<br>
+_electrification - total population_: 96.2% (2022 est.)<br>
+_electrification - urban areas_: 99%<br>
+_electrification - rural areas_: 85.1%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 15.34 million kW (2020 est.)<br>
-_consumption_: 49,121,370,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 60 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 6.408 billion kWh (2019 est.)<br>
+_installed generating capacity_: 15.504 million kW (2022 est.)<br>
+_consumption_: 50.868 billion kWh (2022 est.)<br>
+_imports_: 43 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 6.814 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 38.5% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 1.5% of total installed capacity (2020 est.)<br>
-_wind_: 3.5% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 55.4% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1.1% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 38.6% of total installed capacity (2022 est.)<br>
+_solar_: 1.4% of total installed capacity (2022 est.)<br>
+_wind_: 3.1% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 55.8% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 1% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 696,000 metric tons (2020 est.)<br>
-_consumption_: 396,000 metric tons (2020 est.)<br>
-_exports_: 252,000 metric tons (2020 est.)<br>
-_imports_: 262,000 metric tons (2020 est.)<br>
-_proven reserves_: 102 million metric tons (2019 est.)<br>
+_production_: 153,000 metric tons (2022 est.)<br>
+_consumption_: 712,000 metric tons (2022 est.)<br>
+_exports_: 1.159 million metric tons (2022 est.)<br>
+_imports_: 356,000 metric tons (2022 est.)<br>
+_proven reserves_: 1.567 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 122,500 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 265,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 6,500 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 112,900 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 858.9 million barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-166,600 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-62,640 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-65,400 bbl/day (2015 est.)<br>
+_total petroleum production_: 118,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 210,000 bbl/day (2022 est.)<br>
+_crude oil estimated reserves_: 858.89 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 12,079,211,000 cubic meters (2020 est.)<br>
-_consumption_: 8,278,048,000 cubic meters (2019 est.)<br>
-_exports_: 5.446 billion cubic meters (2019 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 300.158 billion cubic meters (2021 est.)<br>
+_production_: 12.27 billion cubic meters (2022 est.)<br>
+_consumption_: 7.185 billion cubic meters (2022 est.)<br>
+_exports_: 5.041 billion cubic meters (2022 est.)<br>
+_proven reserves_: 300.159 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 54.996 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 1.171 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 35.119 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 18.706 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 45.504 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 1.481 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 27.786 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 16.236 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 36.465 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 24.932 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -750,7 +733,7 @@ the military's inventory is a mix of mostly older equipment from a wide variety 
 225 Central African Republic (MINUSCA) (2024)<br>
 
 **Military - note**<br>
-the Peruvian Armed Forces (FAP) are responsible for external defense in addition to some domestic security responsibilities in designated emergency areas and in exceptional circumstances; key areas of focus include counterinsurgency, counternarcotics, disaster relief, and maritime security operations; the FAP has contributed to UN missions since 1958 and has ties to regional militaries, particularly Colombia, as well as those of numerous other countries such as China, Russia, Spain, and the US; the FAP’s last external conflict was a brief border war with Ecuador in 1995; the FAP supported the police during anti-government protests in early 2023 and was accused of human rights violations <br><br>the Joint Command of the Armed Forces of Peru (Comando Conjunto de las Fuerzas Armadas del Perú or CCFFAA) has responsibility for the planning, preparation, coordination, and direction of the military’s operations; the CCFFAA has oversight over commands for air, air defense, cyber, maritime, and special operations, as well as five regional commands (Amazonas, central, north, south, and Ucayali) and a Special Command of the Valley of the Apurimac, Ene, and Mantaro rivers (CE-VRAEM); CE-VRAEM is responsible for combating the remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T) and includes several thousand air, ground, naval, police, and special forces personnel; the FAP also provides aircraft, vehicles, and logistical support to the command  <br><br>the Army was officially established in 1821 with the formation of the Peruvian Guard Legion; today, it has five regionally based divisions comprised of about 20 combat brigades, which include a mix of armored, artillery, jungle infantry, light infantry, mechanized cavalry, and special forces; the Army also has an aviation brigade and a multi-purpose support brigade designed in large part to provide assistance during natural disasters; the Navy, also established in 1821, includes the Coast Guard; it has undertaken efforts to modernize since the 2000s; the Navy’s principal warships include seven frigates and six attack submarines, which are supported by a force of corvettes and patrol ships; it also has a flotilla of river gunboats, plus naval aviation and a marine force comprised of amphibious infantry, light infantry, jungle infantry, and commandos; the Air Force, established in the 1920s, has several squadrons of French-, Russian-, and US-made fighters, multirole fighters, and fixed-wing ground attack aircraft, as well as attack helicopters (2023)<br>
+the Peruvian Armed Forces (FAP) are responsible for external defense in addition to some domestic security responsibilities in designated emergency areas and in exceptional circumstances; key areas of focus include counterinsurgency, counternarcotics, disaster relief, and maritime security operations; the FAP has contributed to UN missions since 1958 and has ties to regional militaries, particularly Colombia, as well as those of numerous other countries such as China, Russia, Spain, and the US; the FAP’s last external conflict was a brief border war with Ecuador in 1995; the FAP supported the police during anti-government protests in early 2023 and was accused of human rights violations <br><br>the Joint Command of the Armed Forces of Peru (Comando Conjunto de las Fuerzas Armadas del Perú or CCFFAA) has responsibility for the planning, preparation, coordination, and direction of the military’s operations; the CCFFAA has oversight over commands for air, air defense, cyber, maritime, and special operations, as well as five regional commands (Amazonas, central, north, south, and Ucayali) and a Special Command of the Valley of the Apurimac, Ene, and Mantaro rivers (CE-VRAEM); CE-VRAEM is responsible for combating the remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T) and includes several thousand air, ground, naval, police, and special forces personnel; the FAP also provides aircraft, vehicles, and logistical support to the command (2023)<br>
 
 ## Space
 

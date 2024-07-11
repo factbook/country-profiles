@@ -596,71 +596,58 @@ _Currency_: Mexican pesos (MXN) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
+_electrification - urban areas_: 99.8%<br>
+_electrification - rural areas_: 100%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 93.43 million kW (2020 est.)<br>
-_consumption_: 267.34 billion kWh (2020 est.)<br>
-_exports_: 5.954 billion kWh (2020 est.)<br>
-_imports_: 9.965 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 42.121 billion kWh (2020 est.)<br>
+_installed generating capacity_: 104.318 million kW (2022 est.)<br>
+_consumption_: 296.969 billion kWh (2022 est.)<br>
+_exports_: 1.447 billion kWh (2022 est.)<br>
+_imports_: 4.551 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 39.275 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 75.7% of total installed capacity (2020 est.)<br>
-_nuclear_: 3.6% of total installed capacity (2020 est.)<br>
-_solar_: 4.4% of total installed capacity (2020 est.)<br>
-_wind_: 6.5% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 7.6% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 1.5% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.8% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 75% of total installed capacity (2022 est.)<br>
+_nuclear_: 3.2% of total installed capacity (2022 est.)<br>
+_solar_: 3.5% of total installed capacity (2022 est.)<br>
+_wind_: 6.1% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 10.2% of total installed capacity (2022 est.)<br>
+_geothermal_: 1.5% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.6% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 2 (2023)<br>
-_Number of nuclear reactors under construction_: 0<br>
-_Net capacity of operational nuclear reactors_: 1.55GW (2023)<br>
-_Percent of total electricity production_: 5.3% (2021)<br>
-_Percent of total energy produced_: 1.9% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 0<br>
+_Net capacity of operational nuclear reactors_: 1.55GW (2023 est.)<br>
+_Percent of total electricity production_: 4.9% (2023 est.)<br>
 
 **Coal**<br>
-_production_: 9.886 million metric tons (2020 est.)<br>
-_consumption_: 10.241 million metric tons (2020 est.)<br>
-_exports_: 3,000 metric tons (2020 est.)<br>
-_imports_: 5.182 million metric tons (2020 est.)<br>
-_proven reserves_: 1.211 billion metric tons (2019 est.)<br>
+_production_: 7.453 million metric tons (2022 est.)<br>
+_consumption_: 18.423 million metric tons (2022 est.)<br>
+_exports_: 2,000 metric tons (2022 est.)<br>
+_imports_: 9.917 million metric tons (2022 est.)<br>
+_proven reserves_: 1.211 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 1,905,500 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 1,928,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 1,283,300 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 3,900 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 5,786,100,000 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-844,600 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-155,800 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-867,500 bbl/day (2017 est.)<br>
+_total petroleum production_: 2.101 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 1.737 million bbl/day (2023 est.)<br>
+_crude oil estimated reserves_: 5.786 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 27,037,730,000 cubic meters (2019 est.)<br>
-_consumption_: 86,101,223,000 cubic meters (2019 est.)<br>
-_exports_: 53.037 million cubic meters (2019 est.)<br>
-_imports_: 59,119,362,000 cubic meters (2019 est.)<br>
-_proven reserves_: 180.321 billion cubic meters (2021 est.)<br>
+_production_: 31.422 billion cubic meters (2022 est.)<br>
+_consumption_: 90.566 billion cubic meters (2022 est.)<br>
+_exports_: 30.129 million cubic meters (2022 est.)<br>
+_imports_: 59.436 billion cubic meters (2022 est.)<br>
+_proven reserves_: 180.322 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 463.739 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 43.24 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 260.311 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 160.188 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 453.6 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 38.781 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 246.324 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 168.494 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 61.597 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 59.319 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -761,7 +748,7 @@ the Mexican military inventory includes a mix of domestically produced and impor
 <strong>note: </strong>as of 2022, women comprised about 15% of the active duty military<br>
 
 **Military - note**<br>
-the Mexican military is responsible for defending the independence, integrity, and sovereignty of Mexico, as well as providing for internal security, disaster response, humanitarian assistance, and socio-economic development; in recent years, internal security duties have been a key focus, particularly in countering narcotics trafficking and organized crime groups, as well as border control and immigration enforcement; the constitution was amended in 2019 to grant the president the authority to use the armed forces to protect internal and national security, and courts have upheld the legality of the armed forces’ role in law enforcement activities in support of civilian authorities through 2028; the military also provides security for strategic facilities, such as oil production infrastructure, and administers most of the country's land and sea ports and customs services, plus the approximately 2,700 branches of a state-owned development bank; in addition, President LOPEZ OBRADOR has placed the military in charge of a growing number of infrastructure projects, such as building and operating a new airport for Mexico City and sections of a train line in the country’s southeast<br><br>the Mexican Army is a lightly armed force comprised largely of infantry supplemented by mechanized or motorized forces; it is primarily focused on internal security operations vice conventional warfare, and its posture and composition reflects an internal focus over external threats; much of the force is deployed throughout the country in 12 military regional commands and 48 subordinate military zones, giving the Army a country-wide presence and the ability to respond quickly to a crisis; force strengths in each zone vary according to the security situation, from a single infantry battalion to over 10 infantry battalions and small motorized cavalry regiments, plus other units on rotation; the Army’s principal mobile combat forces are approximately 10 light or mechanized/motorized infantry brigades, three special forces brigades, and a paratrooper brigade, which are separate from the units under the military zones; the National Guard has up to 12 military police brigades<br><br>the Air Force’s inventory reflects its chief roles of supporting the Army, conducting counter-narcotics operations, and providing assistance during natural disasters; its fixed-wing combat aircraft include a handful of US-made fighters acquired in the 1980s and some light attack planes<br><br>the Mexican Navy is largely a coastal patrol force but has a growing blue water capability; it has a range of missions including maritime law enforcement, security of maritime facilities, resources, and the environment, humanitarian assistance, and search and rescue; it has fleet commands for both the Pacific and Caribbean Sea/Gulf of Mexico, plus naval aviation, and naval infantry forces; the Navy’s warships include five frigates and more than 100 patrol vessels of varying sizes and capabilities; the Naval Infantry Corps (Cuerpo de Infantería de Marina) has both external and internal security responsibilities, including providing port security, protecting the coastal fringe, and patrolling major waterways; it also has had a significant role in combating narcotics trafficking and organized crime; the Corps has more than 30 combat battalions, which include amphibious, commando, infantry, paratrooper, security, and special operations forces (2023)<br>
+the Mexican military is responsible for defending the independence, integrity, and sovereignty of Mexico, as well as providing for internal security, disaster response, humanitarian assistance, and socio-economic development; in recent years, internal security duties have been a key focus, particularly in countering narcotics trafficking and organized crime groups, as well as border control and immigration enforcement; the constitution was amended in 2019 to grant the president the authority to use the armed forces to protect internal and national security, and courts have upheld the legality of the armed forces&rsquo; role in law enforcement activities in support of civilian authorities through 2028; the military also provides security for strategic facilities, such as oil production infrastructure, and administers most of the country's land and sea ports and customs services, plus the approximately 2,700 branches of a state-owned development bank; in addition, President LOPEZ OBRADOR has placed the military in charge of a growing number of infrastructure projects, such as building and operating a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast (2023)<br>
 
 ## Space
 

@@ -572,71 +572,51 @@ _Currency_: tenge (KZT) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 25.022 million kW (2020 est.)<br>
-_consumption_: 92,133,960,000 kWh (2019 est.)<br>
-_exports_: 2.419 billion kWh (2019 est.)<br>
-_imports_: 1.935 billion kWh (2019 est.)<br>
-_transmission/distribution losses_: 9.689 billion kWh (2019 est.)<br>
+_installed generating capacity_: 26.033 million kW (2022 est.)<br>
+_consumption_: 108.34 billion kWh (2022 est.)<br>
+_exports_: 2.726 billion kWh (2022 est.)<br>
+_imports_: 1.902 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 9.758 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 88.2% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.9% of total installed capacity (2020 est.)<br>
-_wind_: 0.7% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 10.1% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 89% of total installed capacity (2022 est.)<br>
+_solar_: 1.4% of total installed capacity (2022 est.)<br>
+_wind_: 1.5% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 8% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 0<br>
-_Number of nuclear reactors under construction_: 0<br>
-_Net capacity of operational nuclear reactors_: 0GW<br>
-_Percent of total electricity production_: 0%<br>
-_Percent of total energy produced_: 0%<br>
-_Number of nuclear reactors permanently shut down_: 1<br>
+_Number of nuclear reactors permanently shut down_: 1 (2023)<br>
 
 **Coal**<br>
-_production_: 102.338 million metric tons (2020 est.)<br>
-_consumption_: 74.819 million metric tons (2020 est.)<br>
-_exports_: 3.002 million metric tons (2020 est.)<br>
-_imports_: 993,000 metric tons (2020 est.)<br>
-_proven reserves_: 25.605 billion metric tons (2019 est.)<br>
+_production_: 118.195 million metric tons (2022 est.)<br>
+_consumption_: 84.852 million metric tons (2022 est.)<br>
+_exports_: 37.309 million metric tons (2022 est.)<br>
+_imports_: 31,000 metric tons (2022 est.)<br>
+_proven reserves_: 25.605 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 1,864,900 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 320,600 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 1,531,600 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 500 bbl/day (2018 est.)<br>
+_total petroleum production_: 1.955 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 288,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 30 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-290,700 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-105,900 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-39,120 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 25.786 billion cubic meters (2019 est.)<br>
-_consumption_: 14.557 billion cubic meters (2019 est.)<br>
-_exports_: 16.418 billion cubic meters (2019 est.)<br>
-_imports_: 7.714 billion cubic meters (2019 est.)<br>
+_production_: 27.011 billion cubic meters (2022 est.)<br>
+_consumption_: 22.623 billion cubic meters (2022 est.)<br>
+_exports_: 7.77 billion cubic meters (2022 est.)<br>
+_imports_: 2.181 billion cubic meters (2022 est.)<br>
 _proven reserves_: 2.407 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 263.689 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 195.926 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 39.205 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 28.557 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 265.46 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 185.014 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 36.066 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 44.38 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 180.726 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 176.085 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -649,8 +629,8 @@ _total subscriptions_: 25.299 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 130 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Kazakhstan has one of the most developed telecommunications sectors in the Central Asian region; this is especially true of the mobile segment; the principal telcos have successfully generated revenue growth on the back of value-added services and the extended each of LTE and fiber networks; this has resulted in strong growth in mobile fixed line traffic; the mobile segment dominates the telecom sector in Kazakhstan overall, there was a drop in the number of subscribers in 2020; these effects also limited growth in 2021, though the easing of restrictions in 2022 resulted in a stronger recovery; the extensive deployment of LTE networks across the country, and the launch of limited 5G services in mid-2023 will provide a steady increase mobile broadband services (2021)<br>
-_domestic_: fixed telephone subscriptions are 16 per 100 persons; mobile-cellular subscriber base 127 per 100 persons (2021)<br>
+_general assessment_: <p>Kazakhstan has one of the most developed telecommunications sectors in the region; this is especially true of the mobile segment, where the country has the second fastest average mobile data rates in Central Asia after Azerbaijan; the competing Mobile Network Operators (MNOs) have built extensive Long Term Evolution (LTE) networks: about 76% of mobile subscribers were on LTE as of March 2024, while the company’s LTE network provided 89% geographic coverage; this widespread network coverage, as well as the development of 5G networks, has been encouraged by the government with the second stage of its Digital Kazakhstan program, by which most settlements across the country will be furnished with mobile internet connectivity; the remaining rural villages will be covered by satellite services; at the turn of the century, Kazakhstan had a relatively high fixed-line tele density thanks to efforts to invest in the fixed-line infrastructure and in next-generation networks; the gobal demand for traditional voice services are decreasing as customers are increasingly attracted to the flexibility of the mobile platform for voice as well as data services</p> (2024)<br>
+_domestic_: fixed telephone subscriptions are 15 per 100 persons; mobile-cellular subscriber base 130 per 100 persons (2022)<br>
 _international_: country code - 7; international traffic with other former Soviet republics and China carried by landline and microwave radio relay and with other countries by satellite and by the TAE fiber-optic cable; satellite earth stations - 2 Intelsat<br>
 
 **Broadcast media**<br>
@@ -727,7 +707,7 @@ all men 18-27 are required to serve in the military for 12-24 months; women may 
 <strong>note:</strong> as of 2022, more than 10,000 women served in the Armed Forces and the National Guard<br>
 
 **Military - note**<br>
-Kazakhstan’s armed forces were formed in 1992 following the breakup of the Soviet Union and the disbandment of the Soviet Turkestan Military District whose forces formed the core of the new Kazakh military; the military’s principal responsibilities are territorial defense while the National Police, National Guard, Committee for National Security, and Border Service have primary responsibility for internal security, although the military may provide assistance as required; the military also participates in humanitarian and peacekeeping operations; in 2008, Kazakhstan opened up Central Asia’s first peacekeeper training center for military personnel of Kazakhstan, NATO, and other partners <br><br>in 2022, Kazakhstan initiated a wide-ranging effort to enhance the country’s security sector, including organizational changes such as establishing new National Guard units, enhancing existing ones, and forming a special operations force, spending increases for equipment acquisitions, a new doctrine with renewed emphasis on defense of the border, and reforms to improve professionalism in the military<br><br>the Land Forces are organized into combat brigades of air assault and mechanized infantry, tank, artillery, and surface-to-surface missile forces; the Naval Forces include a naval infantry brigade and patrol craft for operating on the Caspian Sea; the Air Defense Forces have over 100 combat aircraft, largely of Soviet-origin; the National Guard is organized into regions and deployed throughout the country<br><br>Kazakhstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and has obligated troops to CSTO's rapid reaction force; it also has a relationship with NATO focused on democratic, institutional, and defense reforms; relations with NATO started in 1992, and Kazakhstan joined NATO's Partnership for Peace program in 1995 (2023)<br>
+Kazakhstan’s armed forces were formed in 1992 following the breakup of the Soviet Union and the disbandment of the Soviet Turkestan Military District whose forces formed the core of the new Kazakh military; the military’s principal responsibilities are territorial defense while the National Police, National Guard, Committee for National Security, and Border Service have primary responsibility for internal security, although the military may provide assistance as required; the military also participates in humanitarian and peacekeeping operations; in 2008, Kazakhstan opened up Central Asia’s first peacekeeper training center for military personnel of Kazakhstan, NATO, and other partners <br><br>in 2022, Kazakhstan initiated a wide-ranging effort to enhance the country’s security sector, including organizational changes such as establishing new National Guard units, enhancing existing ones, and forming a special operations force, spending increases for equipment acquisitions, a new doctrine with renewed emphasis on defense of the border, and reforms to improve professionalism in the military<br><br>Kazakhstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and has obligated troops to CSTO's rapid reaction force; it also has a relationship with NATO focused on democratic, institutional, and defense reforms; relations with NATO started in 1992, and Kazakhstan joined NATO's Partnership for Peace program in 1995 (2023)<br>
 
 ## Space
 

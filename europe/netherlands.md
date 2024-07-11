@@ -565,71 +565,55 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 43.409 million kW (2020 est.)<br>
-_consumption_: 109.796 billion kWh (2020 est.)<br>
-_exports_: 22.433 billion kWh (2020 est.)<br>
-_imports_: 19.773 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 5.059 billion kWh (2020 est.)<br>
+_installed generating capacity_: 57.194 million kW (2022 est.)<br>
+_consumption_: 111.757 billion kWh (2022 est.)<br>
+_exports_: 22.811 billion kWh (2022 est.)<br>
+_imports_: 18.544 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 4.817 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 68.3% of total installed capacity (2020 est.)<br>
-_nuclear_: 3.3% of total installed capacity (2020 est.)<br>
-_solar_: 6.8% of total installed capacity (2020 est.)<br>
-_wind_: 13.1% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 8.5% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 55.3% of total installed capacity (2022 est.)<br>
+_nuclear_: 3.3% of total installed capacity (2022 est.)<br>
+_solar_: 14.6% of total installed capacity (2022 est.)<br>
+_wind_: 17.6% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 9.2% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 1 (2023)<br>
-_Number of nuclear reactors under construction_: 0<br>
-_Net capacity of operational nuclear reactors_: 0.48GW (2023)<br>
-_Percent of total electricity production_: 3.1% (2021)<br>
-_Percent of total energy produced_: 3% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 0<br>
+_Net capacity of operational nuclear reactors_: 0.48GW (2023 est.)<br>
+_Percent of total electricity production_: 3.4% (2023 est.)<br>
+_Number of nuclear reactors permanently shut down_: 1 (2023)<br>
 
 **Coal**<br>
-_production_: 1.879 million metric tons (2020 est.)<br>
-_consumption_: 8.241 million metric tons (2020 est.)<br>
-_exports_: 20.164 million metric tons (2020 est.)<br>
-_imports_: 21.552 million metric tons (2020 est.)<br>
-_proven reserves_: 497 million metric tons (2019 est.)<br>
+_production_: 1.825 million metric tons (2022 est.)<br>
+_consumption_: 10.61 million metric tons (2022 est.)<br>
+_exports_: 16.123 million metric tons (2022 est.)<br>
+_imports_: 24.908 million metric tons (2022 est.)<br>
+_proven reserves_: 3.247 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 76,100 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 915,200 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 8,800 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 1,096,500 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 137.7 million barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-1.282 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-2.406 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-2.148 million bbl/day (2017 est.)<br>
+_total petroleum production_: 70,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 872,000 bbl/day (2023 est.)<br>
+_crude oil estimated reserves_: 137.747 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 32.858 billion cubic meters (2019 est.)<br>
-_consumption_: 44.753 billion cubic meters (2019 est.)<br>
-_exports_: 42.827 billion cubic meters (2019 est.)<br>
-_imports_: 55.767 billion cubic meters (2019 est.)<br>
+_production_: 17.774 billion cubic meters (2022 est.)<br>
+_consumption_: 33.243 billion cubic meters (2022 est.)<br>
+_exports_: 43.026 billion cubic meters (2022 est.)<br>
+_imports_: 65.807 billion cubic meters (2022 est.)<br>
 _proven reserves_: 132.608 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 214.416 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 23.15 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 116.24 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 75.027 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 186.092 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 20.014 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 110.348 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 55.73 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 219.606 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 186.89 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -707,7 +691,7 @@ _key ports_: Amsterdam, Dordrecht, Europoort, Rotterdam, Terneuzen, Vlissingen<b
 
 **Military and security forces**<br>
 Netherlands (Dutch) Armed Forces (Nederlandse Krijgsmacht): Royal Netherlands Army, Royal Netherlands Navy (includes Marine Corps), Royal Netherlands Air Force, Royal Netherlands Marechaussee (Military Constabulary) (2024)<br>
-<strong>note 1:</strong> the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature but managed by the Royal Netherlands Navy<br><br><strong>note 2:</strong> the national police maintain internal security in the Netherlands and report to the Ministry of Justice and Security, which oversees law enforcement organizations, as do the justice ministries in Aruba, Curacao, and Sint Maarten<br>
+<strong>note 1:</strong> the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature but managed by the Royal Netherlands Navy<br><br><strong>note 2: </strong>the core missions of the Royal Netherlands Marechaussee are border security, security and surveillance, and international and military police tasks; it has 21 brigades based in eight Dutch provinces, plus Curaçao in the Caribbean, a special missions security brigade, and separate security platoons to guard and protect domestic sites that are most likely to be the targets of attacks, such as government buildings<br><br><strong>note 3:</strong> the national police maintain internal security in the Netherlands and report to the Ministry of Justice and Security, which oversees law enforcement organizations, as do the justice ministries in Aruba, Curacao, and Sint Maarten<br>
 
 **Military expenditures**<br>
 2.1% of GDP (2024 est.)<br>
@@ -731,7 +715,7 @@ the military's inventory consists of a mix of domestically produced and modern E
 350 Lithuania (NATO); 200 Romania (NATO) (2024)<br>
 
 **Military - note**<br>
-the Dutch military is charged with the three core tasks of defending the country’s national territory and that of its allies, enforcing the national and international rule of law, and providing assistance during disasters and other crises; it also has some domestic security duties, including in the Dutch Caribbean territories; the military operates globally but rarely carries out military operations independently and focuses on cooperating with the armed forces of other countries, particularly with Belgium, Denmark, Germany, and the UK to include combined military units<br><br>the Netherlands has been a member of NATO since its founding in 1949, and the Dutch military is heavily involved in NATO missions and operations with air, ground, and naval forces, including air policing missions over the Benelux countries and Eastern Europe, NATO’s Enhanced Forward Presence initiative in the Baltic States and Eastern Europe, and several NATO naval flotillas, as well as standby units for NATO’s rapid response force; the military has previously deployed forces to NATO-led operations in Afghanistan, Iraq, and Kosovo and also regularly contributes to EU- and UN-led missions<br><br>the Dutch military conforms to NATO standards; the Army is experienced, equipped with modern weapons, and exercises regularly, including with allied partners; it has three brigades of mechanized, light, and air mobile infantry, plus artillery, air defense, and commando/special forces units; the Army cooperates closely with the German Army, including having its air mobile and mechanized brigades assigned to German divisional headquarters; in addition, the Army shares with the Germans command of a NATO high-readiness corps-level headquarters, which can be ready for deployment inside or outside NATO territory within 20 days; in 2020, Belgium, Denmark, and the Netherlands formed a joint composite special operations component command<br><br>founded in the late 1400s, the Royal Netherlands Navy is one of the oldest naval forces in the World and conducts a variety of missions worldwide; in addition to its close ties with NATO, the Navy cooperates closely with the Belgian Navy, including a joint staff known as the Admiralty Benelux; it has a command responsible for the activities of Dutch naval units in the Caribbean, which includes combating drug trafficking, environmental crime, and illegal fishing, as well as providing search and rescue and disaster relief capabilities; the Netherlands has naval bases on Curaçao and Aruba; the Navy’s principal warships are 10 frigates and ocean-going patrol ships and three attack submarines; the Marine Corps has two battalion-size combat groups and special operations forces; since 1973, it has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force<br><br>the Air Force operates globally and is equipped with about 50 modern US-origin combat aircraft, including F-35 stealth multirole fighters; the Air Force has a helicopter command with attack and other combat-capable helicopters; Belgium, the Netherlands, and Luxembourg have an agreement to allow the Belgian and Dutch Air Forces to conduct air policing patrols over the three countries<br><br>the core missions of the Royal Netherlands Marechaussee’s (military police) are border security, security and surveillance, and international and military police tasks; it has 21 brigades based in eight Dutch provinces, plus Curaçao in the Caribbean, a special missions security brigade, and separate security platoons to guard and protect domestic sites that are most likely to be the targets of attacks, such as government buildings; Marechaussee detachments have been included in international police units deployed by NATO<br><br>the Dutch military is also part of the UK-led Joint Expeditionary Force, a defense framework of 10 Northern European nations designed to provide security to the High North, North Atlantic, and the Baltic Sea Region in response to a crisis (2023)<br>
+the Dutch military is charged with the three core tasks of defending the country’s national territory and that of its allies, enforcing the national and international rule of law, and providing assistance during disasters and other crises; it also has some domestic security duties, including in the Dutch Caribbean territories; the military operates globally but rarely carries out military operations independently and focuses on cooperating with the armed forces of other countries, particularly with Belgium, Denmark, Germany, and the UK <br><br>the Netherlands has been a member of NATO since its founding in 1949, and the Dutch military is heavily involved in NATO missions and operations with air, ground, and naval forces, including air policing missions over the Benelux countries and Eastern Europe, NATO’s Enhanced Forward Presence initiative in the Baltic States and Eastern Europe, and several NATO naval flotillas, as well as standby units for NATO’s rapid response force; the military has previously deployed forces to NATO-led operations in Afghanistan, Iraq, and Kosovo and also regularly contributes to EU- and UN-led missions; Royal Netherlands Marechaussee detachments have been included in international police units deployed by NATO<br><br>the Dutch Army has especially close ties with the German Army, including having its air mobile and mechanized brigades assigned to German divisional headquarters; in addition, the Army shares with the Germans command of a NATO high-readiness corps-level headquarters, which can be ready for deployment inside or outside NATO territory within 20 days; in 2020, Belgium, Denmark, and the Netherlands formed a joint composite special operations component command<br><br>founded in the late 1400s, the Royal Netherlands Navy is one of the oldest naval forces in the World and conducts a variety of missions worldwide; in addition to its close ties with NATO, the Navy cooperates closely with the Belgian Navy, including a joint staff known as the Admiralty Benelux; it has a command responsible for the activities of Dutch naval units in the Caribbean, which includes combating drug trafficking, environmental crime, and illegal fishing, as well as providing search and rescue and disaster relief capabilities; the Netherlands has naval bases on Curaçao and Aruba; since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force<br><br>the Dutch military is also part of the UK-led Joint Expeditionary Force, a defense framework of 10 Northern European nations designed to provide security to the High North, North Atlantic, and the Baltic Sea Region in response to a crisis (2023)<br>
 
 ## Space
 

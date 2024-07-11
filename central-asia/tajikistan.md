@@ -553,65 +553,47 @@ _Currency_: Tajikistani somoni (TJS) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 99.5% (2021)<br>
-_electrification - urban areas_: 98.9% (2021)<br>
-_electrification - rural areas_: 99.8% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
+_electrification - urban areas_: 99%<br>
+_electrification - rural areas_: 100%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 7.114 million kW (2020 est.)<br>
-_consumption_: 15.071 billion kWh (2019 est.)<br>
-_exports_: 3.175 billion kWh (2019 est.)<br>
-_imports_: 281 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 2.429 billion kWh (2019 est.)<br>
+_installed generating capacity_: 5.993 million kW (2022 est.)<br>
+_consumption_: 14.32 billion kWh (2022 est.)<br>
+_exports_: 3.051 billion kWh (2022 est.)<br>
+_imports_: 883 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 4.399 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 8.7% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 91.3% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 10.7% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 89.3% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 2.103 million metric tons (2020 est.)<br>
-_consumption_: 2.16 million metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 57,000 metric tons (2020 est.)<br>
-_proven reserves_: 375 million metric tons (2019 est.)<br>
+_production_: 2.175 million metric tons (2022 est.)<br>
+_consumption_: 2.245 million metric tons (2022 est.)<br>
+_exports_: 2,000 metric tons (2022 est.)<br>
+_imports_: 105,000 metric tons (2022 est.)<br>
+_proven reserves_: 4.075 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 300 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 26,200 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 900 bbl/day (2018 est.)<br>
+_total petroleum production_: 300 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 28,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 12 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-172 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-22,460 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 18.208 million cubic meters (2019 est.)<br>
-_consumption_: 157.611 million cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 139.375 million cubic meters (2019 est.)<br>
+_production_: 18.476 million cubic meters (2022 est.)<br>
+_consumption_: 85.567 million cubic meters (2022 est.)<br>
+_imports_: 65.997 million cubic meters (2022 est.)<br>
 _proven reserves_: 5.663 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 7.643 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 4.362 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 2.971 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 309,000 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 8.324 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 4.982 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 3.174 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 168,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 27.651 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 16.255 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -624,8 +606,8 @@ _total subscriptions_: 11.584 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 119 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the size of Tajikistan&rsquo;s mobile market dwarfs the fixed line segment, with an estimated penetration rate of nearly 120%; with a number of private sector companies active in the mobile market, there been more commitment to investment in network upgrades and expansion; three MNOs have all launched commercial 5G services, initially in areas of the capital city Dushanbe; the move towards higher speed mobile services should further underpin the growth in the nascent mobile broadband market, which is still estimated to be at a relatively low penetration level of 42% (at least relative to most other Asian nations) but is predicted to be a strong compound annual growth rate of more than 8% for at least the next five years; the ICT ecosystem is a complex mix of foreign operators from the People's Republic of China, the Russian Federation, state-owned enterprises, and telecom systems established by donors and non-governmental organizations (2021)<br>
-_domestic_: fixed-line over 5 per 100 and mobile-cellular over 119 per 100 (2021)<br>
+_general assessment_: the size of Tajikistan&rsquo;s mobile market dwarfs the fixed line segment, with an estimated penetration rate of nearly 120%; with a number of private sector companies active in the mobile market, there been more commitment to investment in network upgrades and expansion; three MNOs have all launched commercial 5G services, initially in areas of the capital city Dushanbe; the move towards higher speed mobile services should further underpin the growth in the nascent mobile broadband market, which is still estimated to be at a relatively low penetration level of 42% (at least relative to most other Asian nations) but is predicted to be a strong compound annual growth rate of more than 8% for at least the next five years; the ICT ecosystem is a complex mix of foreign operators from the People's Republic of China, the Russian Federation, state-owned enterprises, and telecom systems established by donors and non-governmental organizations (2024)<br>
+_domestic_: fixed-line over 5 per 100 and mobile-cellular over 119 per 100 (2022)<br>
 _international_: country code - 992; linked by cable and microwave radio relay to other CIS republics and by leased connections to the Moscow international gateway switch; Dushanbe linked by Intelsat to international gateway switch in Ankara (Turkey); 3 satellite earth stations - 2 Intelsat and 1 Orbita<br>
 
 **Broadcast media**<br>
@@ -693,7 +675,7 @@ the military's inventory is comprised of older Russian and Soviet-era equipment;
 <strong>note:</strong> in August 2021, the Tajik Government removed an exemption for university graduates but began allowing men to pay a fee in order to avoid conscription, although there is a cap on the number of individuals who can take advantage of this exemption<br>
 
 **Military - note**<br>
-the military is a small and limited force equipped largely with Soviet-era weapons; its primary concerns are terrorism, border security, territorial defense, and instability in neighboring countries; the Tajik Land and Mobile Forces have together an estimated five combat brigades of mechanized infantry, light/mountain infantry, air assault and special forces, and artillery; the Air and Air Defense force has a small number attack and multipurpose helicopters<br><br>Russia is Tajikistan’s primary security partner and thousands of Russian troops are stationed in the country, primarily at the 201st military base, which is leased until at least 2042; the Russian forces include combat troops and combat aircraft; Russia and Tajikistan have a joint air defense system and they conduct periodic joint exercises; Tajikistan has been a member of the Russian-led Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br><br>Tajikistan is the only former Soviet republic that did not form its armed forces from old Soviet Army units following the collapse of the USSR in 1991; rather, Russia retained command of the Soviet units there while the Tajik government raised a military from scratch; the first ground forces were officially created in 1993 from groups that fought for the government during the Tajik Civil War (2023)<br>
+the military is a small and limited force equipped largely with Soviet-era weapons; its primary concerns are terrorism, border security, territorial defense, and instability in neighboring countries<br><br>Russia is Tajikistan’s primary security partner and thousands of Russian troops are stationed in the country, primarily at the 201st military base, which is leased until at least 2042; the Russian forces include combat troops and combat aircraft; Russia and Tajikistan have a joint air defense system and they conduct periodic joint exercises; Tajikistan has been a member of the Russian-led Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br><br>Tajikistan is the only former Soviet republic that did not form its armed forces from old Soviet Army units following the collapse of the USSR in 1991; rather, Russia retained command of the Soviet units there while the Tajik government raised a military from scratch; the first ground forces were officially created in 1993 from groups that fought for the government during the Tajik Civil War (2023)<br>
 
 ## Terrorism
 

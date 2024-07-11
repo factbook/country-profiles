@@ -531,63 +531,40 @@ _Currency_: Kuwaiti dinars (KD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 19.371 million kW (2020 est.)<br>
-_consumption_: 63,802,360,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 6.701 billion kWh (2019 est.)<br>
+_installed generating capacity_: 20.25 million kW (2022 est.)<br>
+_consumption_: 78.703 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 7.727 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 99.9% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0% of total installed capacity (2020 est.)<br>
-_wind_: 0.1% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 99.8% of total installed capacity (2022 est.)<br>
+_solar_: 0.2% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 68,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 68,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 145,000 metric tons (2022 est.)<br>
+_imports_: 77,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 2,720,500 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 342,000 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 1,837,900 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
+_total petroleum production_: 2.91 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 372,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 101.5 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-915,800 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-705,500 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-0 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 19,509,907,000 cubic meters (2019 est.)<br>
-_consumption_: 24,322,970,000 cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 4,805,531,000 cubic meters (2019 est.)<br>
-_proven reserves_: 1,783,958,000,000 cubic meters (2021 est.)<br>
+_production_: 19.285 billion cubic meters (2022 est.)<br>
+_consumption_: 26.083 billion cubic meters (2022 est.)<br>
+_imports_: 7.988 billion cubic meters (2022 est.)<br>
+_proven reserves_: 1.784 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 92.582 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 578,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 44.288 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 47.715 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 100.596 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 337,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 49.09 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 51.169 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 381.985 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 402.03 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -680,7 +657,7 @@ the military's inventory consists of weapons from a wide variety of sources, inc
 <strong>note:</strong> the National Guard is restricted to citizens, but in 2018, the Army began allowing non-Kuwaitis to join on contract or as non-commissioned officers; that same year, it also began allowing stateless people (Bidoon) to join<br>
 
 **Military - note**<br>
-the Kuwaiti Armed Forces (KAF) are responsible for external defense; the independent National Guard is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required; the National Guard and the Ministry of Interior are the Kuwaiti Government’s lead counterterrorism organizations; Kuwait’s primary security concerns are potential threats emanating from Iran, including regional militias loyal to Iran, and Islamic terrorist groups<br><br>the KAF participates in bilateral and multilateral exercises, as well as a limited number of multinational security operations such as maritime patrols in the Persian Gulf; it also provided a few fighter aircraft to the Saudi-led coalition in Yemen in 2015; the KAF is part of the military arm of the Gulf Cooperation Council; the Land Forces have approximately six small armored or mechanized brigades, plus the separate Emiri Guard and Commando brigades; the National Guard, which would support the Land Forces in a conflict, is comprised of a mix of security, light armored, and special forces battalions; the Air Force has less than 50 combat aircraft, while the Navy and Coast Guard operate a small force of missile-armed patrol craft and patrol boats<br> <br>Kuwait's key security partner since the 1991 Gulf War has been the US; the US has approximately 13,000 military personnel as well as logistics and training facilities in Kuwait as part of a 1991 Defense Cooperation Agreement and a 2013 Acquisition and Cross-Servicing Agreement; the KAF conducts bilateral exercises with the US military and would look to US assistance in the event of an external attack; Kuwait has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
+the Kuwaiti Armed Forces (KAF) are responsible for external defense; the independent National Guard is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required, including supporting the KAF Land Forces during a conflict; the National Guard and the Ministry of Interior are the Kuwaiti Government’s lead counterterrorism organizations; Kuwait’s primary security concerns are potential threats emanating from Iran, including regional militias loyal to Iran, and Islamic terrorist groups<br><br>the KAF participates in bilateral and multilateral exercises, as well as a limited number of multinational security operations such as maritime patrols in the Persian Gulf; it also provided a few fighter aircraft to the Saudi-led coalition in Yemen in 2015; the KAF is part of the military arm of the Gulf Cooperation Council<br><br>Kuwait's key security partner since the 1991 Gulf War has been the US; the US has approximately 13,000 military personnel as well as logistics and training facilities in Kuwait as part of a 1991 Defense Cooperation Agreement and a 2013 Acquisition and Cross-Servicing Agreement; the KAF conducts bilateral exercises with the US military and would look to US assistance in the event of an external attack; Kuwait has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
 
 ## Transnational Issues
 

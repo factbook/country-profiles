@@ -5,7 +5,7 @@ _Antarctica / Miscellaneous_
 ## Introduction
 
 **Background**<br>
-Speculation over the existence of a "southern land" was not confirmed until the early 1820s when British and American commercial operators and British and Russian national expeditions began exploring the Antarctic Peninsula region and other areas south of the Antarctic Circle. Not until 1840 was it established that Antarctica was indeed a continent and not merely a group of islands or an area of ocean. Several exploration "firsts" were achieved in the early 20th century, but generally the area saw little human activity. Following World War II, however, the continent experienced an upsurge in scientific research. A number of countries have set up a range of year-round and seasonal stations, camps, and refuges to support scientific research in Antarctica. Seven have made territorial claims and two maintain the basis for a claim, but most countries do not recognize these claims. In order to form a legal framework for the activities of nations on the continent, an Antarctic Treaty was negotiated that neither denies nor gives recognition to existing territorial claims; signed in 1959, it entered into force in 1961.&nbsp; Also relevant to Antarctic governance are the Environmental Protocol to the Antarctic Treaty and the Convention on the Conservation of Antarctic Marine Living Resources.<br>
+Speculation over the existence of a "southern land" was confirmed in the early 1820s when British and American commercial operators and British and Russian national expeditions began exploring the Antarctic Peninsula region and other areas south of the Antarctic Circle. In 1840, it was finally established that Antarctica was indeed a continent and not merely a group of islands or an area of ocean. Several exploration "firsts" were achieved in the early 20th century, but the area saw little human activity. Following World War II, however, the continent experienced an upsurge in scientific research. A number of countries have set up a range of year-round and seasonal stations, camps, and refuges to support scientific research in Antarctica. Seven have made territorial claims, with two maintaining the basis for a claim, but most countries do not recognize these claims. In order to form a legal framework for countries' activities on the continent, an Antarctic Treaty was negotiated that neither denies nor recognizes existing territorial claims; it was signed in 1959 and entered into force in 1961.&nbsp; Also relevant to Antarctic governance are the Environmental Protocol to the Antarctic Treaty and the Convention on the Conservation of Antarctic Marine Living Resources.<br>
 
 ## Geography
 
@@ -89,48 +89,18 @@ _etymology_: name derived from two Greek words meaning "opposite to the Arctic" 
 Antarctica is administered through annual meetings - known as Antarctic Treaty Consultative Meetings - which include consultative member nations, non-consultative member nations, observer organizations, and expert organizations; decisions from these meetings are carried out by these member nations (with respect to their own nationals and operations) in accordance with their own national laws; more generally, the Antarctic Treaty area and all areas south of 60 degrees south latitude, including all ice shelves and islands, are subject to a number of relevant legal instruments and procedures adopted by the states party to the Antarctic Treaty; note - US law, including certain criminal offenses by or against US nationals, such as murder, may apply extraterritoriality; some US laws directly apply to Antarctica; for example, the Antarctic Conservation Act, 16 U.S.C. section 2401 et seq., provides civil and criminal penalties for the following activities unless authorized by regulation or statute: the taking of native mammals or birds; the introduction of nonindigenous plants and animals; entry into specially protected areas; the discharge or disposal of pollutants; and the importation into the US of certain items from Antarctica; violation of the Antarctic Conservation Act carries penalties of up to $10,000 in fines and one year in prison; the National Science Foundation and Department of Justice share enforcement responsibilities; Public Law 95-541, the US Antarctic Conservation Act of 1978, as amended in 1996, requires expeditions from the US to Antarctica to notify, in advance, the Office of Ocean and Polar Affairs, Room 2665, Department of State, Washington, DC 20520, which reports such plans to other nations as required by the Antarctic Treaty; for more information, contact antarctica@state.gov<br>
 
 **Flag description**<br>
-unofficial; a True South flag, created in 2018, has quickly become popular for its simple yet elegant design and has been used by various National Antarctic Programs, Antarctic nonprofits, and expedition teams; the flag's meaning is described as: horizontal stripes of navy and white represent the long days and nights at Antarctica's extreme latitude; in the center, a lone white peak erupts from a field of snow and ice, echoing those of the bergs, mountains, and pressure ridges that define the Antarctic horizon; the long shadow it casts forms the unmistakable shape of a compass arrow pointed south, an homage to the continent's legacy of exploration; together, the two center shapes create a diamond, symbolizing the hope that Antarctica will continue to be a center of peace, discovery, and cooperation for generations to come<br>
+unofficial; a True South flag, created in 2018, has quickly become popular for its simple yet elegant design and has been used by various National Antarctic Programs, Antarctic nonprofits, and expedition teams; the flag's meaning is described as horizontal stripes of navy and white representing the long days and nights at Antarctica's extreme latitude, with a lone white peak erupting from a field of snow and ice at the center; the long shadow it casts forms the shape of a compass arrow pointed south, an homage to the continent's legacy of exploration; together, the two center shapes create a diamond, symbolizing the hope that Antarctica will continue to be a center of peace, discovery, and cooperation for generations to come<br>
 
 ## Economy
 
 ## Energy
 
-**Electricity**<br>
-_installed generating capacity_: 0 kW (2020 est.)<br>
-_consumption_: 0 kWh (2019 est.)<br>
-_exports_: 0 kWh (2020 est.)<br>
-_imports_: 0 kWh (2020 est.)<br>
-_transmission/distribution losses_: 0 kWh (2019 est.)<br>
-
-**Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
-
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_refined petroleum consumption_: 79.9 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 28,000 metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 28,000 metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
-
-**Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
+_total emissions_: 12,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 12,000 metric tonnes of CO2 (2022 est.)<br>
 
 ## Communications
 

@@ -595,71 +595,59 @@ _Currency_: Russian rubles (RUB) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
+_electrification - urban areas_: 99.1%<br>
+_electrification - rural areas_: 100%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 276.463 million kW (2020 est.)<br>
-_consumption_: 942.895 billion kWh (2019 est.)<br>
-_exports_: 12.116 billion kWh (2020 est.)<br>
-_imports_: 1.377 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 99.077 billion kWh (2019 est.)<br>
+_installed generating capacity_: 301.123 million kW (2022 est.)<br>
+_consumption_: 1.026 trillion kWh (2022 est.)<br>
+_exports_: 18.582 billion kWh (2022 est.)<br>
+_imports_: 1.532 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 95.804 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 59.4% of total installed capacity (2020 est.)<br>
-_nuclear_: 21% of total installed capacity (2020 est.)<br>
-_solar_: 0.2% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 19.1% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.3% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 60.3% of total installed capacity (2022 est.)<br>
+_nuclear_: 19.6% of total installed capacity (2022 est.)<br>
+_solar_: 0.2% of total installed capacity (2022 est.)<br>
+_wind_: 0.3% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 19.2% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.3% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 37 (2023)<br>
-_Number of nuclear reactors under construction_: 3<br>
-_Net capacity of operational nuclear reactors_: 27.73GW (2021)<br>
-_Percent of total electricity production_: 20.7% (2021)<br>
-_Percent of total energy produced_: 3.6% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 4<br>
+_Number of operational nuclear reactors_: 36 (2023)<br>
+_Number of nuclear reactors under construction_: 4 (2023)<br>
+_Net capacity of operational nuclear reactors_: 26.8GW (2023 est.)<br>
+_Percent of total electricity production_: 18.4% (2023 est.)<br>
+_Number of nuclear reactors permanently shut down_: 11 (2023)<br>
 
 **Coal**<br>
-_production_: 447.332 million metric tons (2020 est.)<br>
-_consumption_: 266.038 million metric tons (2020 est.)<br>
-_exports_: 224.324 million metric tons (2020 est.)<br>
-_imports_: 24.027 million metric tons (2020 est.)<br>
-_proven reserves_: 162.166 billion metric tons (2019 est.)<br>
+_production_: 508.19 million metric tons (2022 est.)<br>
+_consumption_: 310.958 million metric tons (2022 est.)<br>
+_exports_: 220.306 million metric tons (2022 est.)<br>
+_imports_: 23.074 million metric tons (2022 est.)<br>
+_proven reserves_: 162.166 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 10,749,500 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 3.699 million bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 5.196 million bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 14,200 bbl/day (2018 est.)<br>
+_total petroleum production_: 10.727 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 3.684 million bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 80 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-6.076 million bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-2.671 million bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-41,920 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 701.544 billion cubic meters (2021 est.)<br>
-_consumption_: 460.612 billion cubic meters (2020 est.)<br>
-_exports_: 250.855 billion cubic meters (2021 est.)<br>
-_imports_: 16.112 billion cubic meters (2019 est.)<br>
+_production_: 617.83 billion cubic meters (2022 est.)<br>
+_consumption_: 472.239 billion cubic meters (2022 est.)<br>
+_exports_: 176.056 billion cubic meters (2022 est.)<br>
+_imports_: 8.129 billion cubic meters (2022 est.)<br>
 _proven reserves_: 47.805 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 1,848,070,000 metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 456.033 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 470.289 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 921.748 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 1.84 billion metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 517.718 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 414.253 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 907.83 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 227.898 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 225.235 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -672,8 +660,8 @@ _total subscriptions_: 245.267 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 169 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom market is the largest in Europe, supported by a population approaching 147 million; the overall market is dominated by the western regions, particularly Moscow and St Petersburg which are the main cities and economic centers; all sectors of the market have been liberalized, with competition most prevalent in the two largest regional markets; the fiber broadband sector has shown considerable growth, supported by the government&rsquo;s program to extend the reach of broadband to outlying regions; the development of 5G services has been stymied by the lack of spectrum; although MNOs have licenses to use 700MHz spectrum for 5G, this spectrum has yet to be released by broadcasters; spectrum in the 3.4GHz range commonly used for 5G in Europe has been restricted for use in Russia by the military and intelligence agencies; despite these limitations, the four principal MNOs each have an equal share in a joint venture aimed at developing a strategy to deploy 5G using shared network and spectrum assets (2022)<br>
-_domestic_: 16 per 100 for fixed-line and mobile-cellular is 170 per 100 persons (2021)<br>
+_general assessment_: <p>the telecom market is the largest in Europe, supported by a population of about 143 million; the overall market is dominated by the western regions, particularly Moscow and St Petersburg which are the main cities and economic centers; many other regions in the east and north of the country were settled during the Soviet period; the telecommunication companies continue to deploy and modernize fixed-line network infrastructure to offer improved broadband services as well as a range of IP-delivered content; the number of Digital Subscriber Line (DSL) connections continues to decrease as subscribers are migrated to fiber; the development of 5G services has been hindered by the lack of frequencies; the 3.4GHz range commonly used for 5G in Europe has been restricted for use in Russia by the military and intelligence agencies; the Mobile Network Operators (MNOs) have an equal share in a joint venture, New Digital Solutions, aimed at developing a strategy to deploy 5G using a shared network</p> (2024)<br>
+_domestic_: 16 per 100 for fixed-line and mobile-cellular is 169 per 100 persons (2022)<br>
 _international_: country code - 7; landing points for the Far East Submarine Cable System, HSCS, Sakhalin-Kuril Island Cable, RSCN, BCS North-Phase 2, Kerch Strait Cable and the Georgia-Russian submarine cable system connecting Russia, Japan, Finland, Georgia and Ukraine; satellite earth stations provide access to Intelsat, Intersputnik, Eutelsat, Inmarsat, and Orbita systems (2019)<br>
 
 **Broadcast media**<br>
@@ -768,7 +756,7 @@ information varies and may not reflect troops transferred to support Russian mil
 <strong>note 1:</strong> in February 2022, Russia invaded Ukraine with an estimated 150,000 troops, some of which were staged out of Belarus; prior to the invasion, it maintained an estimated 30,000 troops in areas of Ukraine occupied since 2014; in 2024, the Russian Government claimed to have nearly 700,000 troops in the occupied portions of Ukraine<br><br><strong>note 2: </strong>as of 2023, Russia was assessed to have thousands private military contractors conducting military and security operations in Africa and the Middle East, including in Burkina Faso, the Central African Republic, Libya, Mali, Niger, Sudan, and Syria<br>
 
 **Military - note**<br>
-the Russian military is a mixed force of conscripts and professionals (contract servicemen) that is capable of conducting the full range of air, land, maritime, and strategic missile operations; it is also active in the areas of cyber warfare, electronic warfare, and space; in addition to protecting Russia’s sovereignty and territorial integrity, the military supports Moscow’s national security objectives, which include maintaining and projecting influence and power outside Russia, particularly in the former Soviet republics, and deterring perceived external threats from the US and NATO; in recent years, the Russian military has conducted combat operations in both Syria and Ukraine; in February 2022, Russia launched an unprovoked full-scale invasion of Ukraine, and the military, particularly the ground forces, continues to be heavily engaged there in what is the largest war in Europe since World War II ended in 1945; Russia has occupied Ukraine’s province of Crimea and backed separatist forces in the Donbas region of Ukraine since 2014 with arms, equipment, and training, as well as special operations forces and troops, although Moscow denied their presence prior to 2022; Russia intervened in the Syrian civil war at the request of the ASAD government in September 2015 in what was Moscow’s first overseas expeditionary operation since the Soviet era; Russian assistance has included air support, arms and equipment, intelligence, military advisors, private military contractors, special operations forces, and training; it seized the Georgian regions of Abkhazia and South Ossetia in 2008; separately, Russia has provided military personnel and private military contractors to conduct missions in Africa, including in the Central African Republic, Libya, Mali, and Sudan <br><br>Russian forces are organized into military districts and operational/joint strategic commands; prior to the 2022 invasion of Ukraine, the Ground Troops were configured into at least 11 combined arms armies, one tank army, and four army corps, each comprised of a mixture of tank or “motorized rifle” (mechanized or motorized infantry) division and brigade structures supplemented by artillery, tactical missile, and air defense forces; the most capable ground forces are the special forces (Spetsial’noye naznacheniye or Spetsnaz) brigades and Airborne and Air Assault Troops (VDV), which are considered strategic-level assets; as of 2022, the Spetsnaz forces had eight brigades, while the VDV had four airborne and air assault divisions, plus some independent air assault and Spetsnaz brigades<br><br>the Navy conducts operations globally and has four fleets (Baltic, Black Sea, Pacific, and Northern), as well as a flotilla in the Caspian Sea; the principal surface warships are an aircraft carrier (under repair until at least 2024), four battlecruisers or cruisers, and over 20 destroyers and frigates; the backbone of the Navy is its submarine force, which has approximately 50-60 nuclear ballistic missile, nuclear cruise missile, nuclear attack-type, and conventional attack submarines; the ballistic missile submarines are an essential arm of Russia’s nuclear triad; the Navy has an aviation force with fighters, multipurpose fighters, and surface attack aircraft, as well as anti-submarine warfare and attack helicopters; it also has coastal defense forces and a ground force of several naval infantry brigades, which have been used as ground troops in Ukraine<br><br>the Aerospace Forces include as sub-branches the Air Force, the Air and Missile Defense Forces, and Space Forces; the Air and Air/Missile Defense elements are typically organized into armies, commands, bases, brigades, and regiments; the Air Forces are some of the largest in the world, and prior to the 2022 invasion of Ukraine included nearly 1,500 fighters, multirole fighters, and bombers, as well as nearly 1,500 combat helicopters<br><br>the Strategic Rocket Forces have both road-mobile and silo-based intercontinental ballistic missiles (ICBMs) and are organized into three armies with 12 subordinate divisions, each further broken down into regiments<br><br>the paramilitary Russian National Guard is organized into regions or districts with subordinate divisions and brigades, which include a mix of security, special purpose, protective, and motorized units, as well as some artillery and aviation forces (2023)<br>
+the Russian military is a mixed force of conscripts and professionals (contract servicemen) that is capable of conducting the full range of air, land, maritime, and strategic missile operations; it is also active in the areas of cyber warfare, electronic warfare, and space; in addition to protecting Russia’s sovereignty and territorial integrity, the military supports Moscow’s national security objectives, which include maintaining and projecting influence and power outside Russia, particularly in the former Soviet republics, and deterring perceived external threats from the US and NATO<br><br>in recent years, the Russian military has conducted combat operations in both Ukraine and Syria; in February 2022, Russia launched an unprovoked full-scale invasion of Ukraine, and the military continues to be heavily engaged there in what is the largest war in Europe since World War II ended in 1945; Russia has occupied Ukraine’s province of Crimea and backed separatist forces in the Donbas region of Ukraine since 2014 with arms, equipment, and training, as well as special operations forces and troops, although Moscow denied their presence prior to 2022; Russia intervened in the Syrian civil war at the request of the ASAD government in September 2015 in what was Moscow’s first overseas expeditionary operation since the Soviet era; Russian assistance has included air support, arms and equipment, intelligence, military advisors, private military contractors, special operations forces, and training<br><br>prior to its military operations in Syria and Ukraine, Russia seized the Georgian regions of Abkhazia and South Ossetia by force in 2008 (2023)<br>
 
 ## Space
 

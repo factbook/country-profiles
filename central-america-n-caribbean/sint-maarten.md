@@ -378,16 +378,7 @@ _Currency_: Netherlands Antillean guilders (ANG) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-10,440 bbl/day (2015 est.)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 ## Communications
 

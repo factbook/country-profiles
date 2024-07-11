@@ -546,63 +546,46 @@ _Currency_: New Zealand dollars (NZD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 9.615 million kW (2020 est.)<br>
-_consumption_: 41,169,838,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2020 est.)<br>
-_imports_: 0 kWh (2020 est.)<br>
-_transmission/distribution losses_: 2,256,332,000 kWh (2019 est.)<br>
+_installed generating capacity_: 10.412 million kW (2022 est.)<br>
+_consumption_: 41.466 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 2.712 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 19.5% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.4% of total installed capacity (2020 est.)<br>
-_wind_: 5.3% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 54.8% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0.1% of total installed capacity (2020 est.)<br>
-_geothermal_: 18.6% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1.4% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 13.2% of total installed capacity (2022 est.)<br>
+_solar_: 0.5% of total installed capacity (2022 est.)<br>
+_wind_: 6.5% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 58.5% of total installed capacity (2022 est.)<br>
+_geothermal_: 17.7% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 3.5% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 3.226 million metric tons (2020 est.)<br>
-_consumption_: 3.001 million metric tons (2020 est.)<br>
-_exports_: 1.14 million metric tons (2020 est.)<br>
-_imports_: 1.09 million metric tons (2020 est.)<br>
-_proven reserves_: 7.575 billion metric tons (2019 est.)<br>
+_production_: 3.036 million metric tons (2022 est.)<br>
+_consumption_: 2.441 million metric tons (2022 est.)<br>
+_exports_: 1.278 million metric tons (2022 est.)<br>
+_imports_: 727,000 metric tons (2022 est.)<br>
+_proven reserves_: 7.575 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 13,400 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 184,600 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 21,600 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 99,900 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 41 million barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-115,100 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-1,782 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-56,000 bbl/day (2017 est.)<br>
+_total petroleum production_: 12,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 154,000 bbl/day (2023 est.)<br>
+_crude oil estimated reserves_: 40.993 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 4,771,126,000 cubic meters (2019 est.)<br>
-_consumption_: 4,946,237,000 cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 31.148 billion cubic meters (2021 est.)<br>
+_production_: 3.77 billion cubic meters (2022 est.)<br>
+_consumption_: 3.819 billion cubic meters (2022 est.)<br>
+_proven reserves_: 31.149 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 40.344 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 5.139 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 25.76 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 9.445 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 31.998 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 3.687 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 21.018 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 7.293 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 186.804 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 120.219 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -702,7 +685,7 @@ the NZDF is equipped mostly with Western-supplied weapons and equipment with the
 small numbers of NZ military personnel are deployed on a variety of international missions in Africa, Antarctica, the Asia-Pacific region, and the Middle East (2024)<br>
 
 **Military - note**<br>
-the NZDF is a small military with considerable overseas experience; it supports the country’s national security objectives by protecting New Zealand’s sovereignty, promoting its interests, safeguarding peace and security, and conducting peacekeeping, humanitarian, and other international missions; the Army’s primary combat units are an infantry brigade and a special forces regiment; the Navy has a small force of frigates and patrol vessels, while the Air Force has squadrons of maritime patrol, anti-submarine, and anti-surface warfare aircraft <br><br>New Zealand is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>New Zealand has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; however, the US suspended its ANZUS security obligations to New Zealand in 1986 after New Zealand implemented a policy barring nuclear-armed and nuclear-powered warships from its ports; the US and New Zealand signed the Wellington Declaration in 2010, which reaffirmed close ties between the two countries, and in 2012 signed the Washington Declaration, which provided a framework for future security cooperation and defense dialogues; in 2016, a US naval ship conducted the first bilateral warship visit to New Zealand since the 1980s; New Zealand has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2024)<br>
+the NZDF is a small military with considerable overseas experience; it supports the country’s national security objectives by protecting New Zealand’s sovereignty, promoting its interests, safeguarding peace and security, and conducting peacekeeping, humanitarian, and other international missions<br><br>New Zealand is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>New Zealand has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; however, the US suspended its ANZUS security obligations to New Zealand in 1986 after New Zealand implemented a policy barring nuclear-armed and nuclear-powered warships from its ports; the US and New Zealand signed the Wellington Declaration in 2010, which reaffirmed close ties between the two countries, and in 2012 signed the Washington Declaration, which provided a framework for future security cooperation and defense dialogues; in 2016, a US naval ship conducted the first bilateral warship visit to New Zealand since the 1980s; New Zealand has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2024)<br>
 
 ## Space
 

@@ -533,65 +533,29 @@ _Currency_: Cabo Verdean escudos (CVE) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 95.2% (2021)<br>
-_electrification - urban areas_: 94.8% (2021)<br>
-_electrification - rural areas_: 96.8% (2021)<br>
+_electrification - total population_: 97.1% (2022 est.)<br>
+_electrification - urban areas_: 95.3%<br>
+_electrification - rural areas_: 96.9%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 205,000 kW (2020 est.)<br>
-_consumption_: 436.854 million kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 32.146 million kWh (2019 est.)<br>
+_installed generating capacity_: 204,000 kW (2022 est.)<br>
+_consumption_: 327 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 106 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 80.2% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 2% of total installed capacity (2020 est.)<br>
-_wind_: 17.8% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
-
-**Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_fossil fuels_: 83.1% of total installed capacity (2022 est.)<br>
+_solar_: 2.1% of total installed capacity (2022 est.)<br>
+_wind_: 14.8% of total installed capacity (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 6,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-5,607 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_refined petroleum consumption_: 4,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 1.002 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 1.002 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 681,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 681,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 26.539 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 16.298 million Btu/person (2022 est.)<br>
 
 ## Communications
 

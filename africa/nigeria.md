@@ -577,66 +577,47 @@ _Currency_: nairas (NGN) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 66 million (2020)<br>
-_electrification - total population_: 59.6% (2021)<br>
-_electrification - urban areas_: 89.2% (2021)<br>
-_electrification - rural areas_: 26.3% (2021)<br>
+_electrification - total population_: 60.5% (2022 est.)<br>
+_electrification - urban areas_: 89%<br>
+_electrification - rural areas_: 27%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 11.691 million kW (2020 est.)<br>
-_consumption_: 24,611,480,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 4.713 billion kWh (2019 est.)<br>
+_installed generating capacity_: 11.697 million kW (2022 est.)<br>
+_consumption_: 31.57 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 5.41 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 78.1% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.2% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 21.7% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.1% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 78.3% of total installed capacity (2022 est.)<br>
+_solar_: 0.1% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 21.5% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.1% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 44,000 metric tons (2020 est.)<br>
-_consumption_: 85,000 metric tons (2020 est.)<br>
-_exports_: 12,000 metric tons (2020 est.)<br>
-_imports_: 77,000 metric tons (2020 est.)<br>
-_proven reserves_: 344 million metric tons (2019 est.)<br>
+_production_: 3.043 million metric tons (2022 est.)<br>
+_consumption_: 3.044 million metric tons (2022 est.)<br>
+_exports_: (2022 est.) less than 1 metric ton<br>
+_imports_: 1,000 metric tons (2022 est.)<br>
+_proven reserves_: 2.144 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 1,646,900 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 483,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 1,889,100 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
+_total petroleum production_: 1.514 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 515,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 36.89 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-35,010 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-2,332 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-223,400 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 46,296,835,000 cubic meters (2019 est.)<br>
-_consumption_: 18,787,602,000 cubic meters (2019 est.)<br>
-_exports_: 27,509,177,000 cubic meters (2019 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 5,760,883,000,000 cubic meters (2021 est.)<br>
+_production_: 39.951 billion cubic meters (2022 est.)<br>
+_consumption_: 20.719 billion cubic meters (2022 est.)<br>
+_exports_: 19.722 billion cubic meters (2022 est.)<br>
+_proven reserves_: 5.761 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 104.494 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 231,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 67.406 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 36.856 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 118.699 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 6.8 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 71.255 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 40.645 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 8.466 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 8.564 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -741,7 +722,7 @@ the military's inventory consists of a wide variety of imported weapons systems 
 <strong>note:</strong> Nigeria has committed an Army combat brigade (approximately 3,000 troops) to the Multinational Joint Task Force (MNJTF), a regional counter-terrorism force comprised of troops from Benin, Cameroon, Chad, and Niger; MNJTF conducts operations against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically<br>
 
 **Military - note**<br>
-the Nigerian military is sub-Saharan Africa’s largest and regarded as one of its most capable forces; the Army is organized into eight divisions comprised of a diverse mix of more than 20 combat brigades, including airborne infantry, amphibious infantry, armor, artillery, light infantry, mechanized and motorized infantry, and special operations forces; there is also a presidential guard brigade; the Army typically organizes into battalion- and brigade-sized task forces for operations; the Air Force has a few squadrons of fighters, ground attack fighters, armed UAVs, and attack helicopter squadrons primarily for supporting the Army<br><br>the Army and Air Force are focused largely on internal security and face a number of challenges; the Army is deployed in all 36 of the country's states; in the northeast, it is conducting counterinsurgency/counterterrorist operations against the Boko Haram (BH) and Islamic State of Iraq and ash-Sham in West Africa (ISIS-WA) terrorist groups, where it has deployed as many as 70,000 troops at times and jihadist-related violence has killed an estimated 35-40,000 people, mostly civilians, since 2009; in the northwest, it faces growing threats from criminal gangs--locally referred to as bandits--and violence associated with long-standing farmer-herder conflicts, as well as BH and ISIS-WA terrorists; bandits in the northwestern Nigeria are estimated to number in the low 10,000s and violence there has killed more than 10,000 people since the mid-2010s; the military also continues to protect the oil industry in the Niger Delta region against militants and criminal activity; since 2021, additional troops and security forces have been deployed to eastern Nigeria to quell renewed agitation for a state of Biafra (Biafra seceded from Nigeria in the late 1960s, sparking a civil war that caused more than 1 million deaths)<br><br>the Navy is focused on security in the Gulf of Guinea; since 2016, it has developed a maritime strategy, boosted naval training and its naval presence in the Gulf, increased participation in regional maritime security efforts, and acquired a number of new naval platforms, including offshore and coastal patrol craft, fast attack boats, and air assets; its principal surface ships include a frigate and a few corvettes or offshore patrol ships<br><br>the Nigerian military traces its origins to the Nigeria Regiment of the West African Frontier Force (WAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Gold Coast, Sierra Leone, and Gambia; the WAFF served with distinction in both East and West Africa during World War I; in 1928, it received royal recognition and was re-named the Royal West African Frontier Force (RWAFF); the RWAFF went on to serve in World War II as part of the British 81st and 82nd (West African) divisions in the East Africa and Burma campaigns; in 1956, the Nigeria Regiment of the RWAFF was renamed the Nigerian Military Forces (NMF) and in 1958, the colonial government of Nigeria took over control of the NMF from the British War Office; the Nigerian Armed Forces were established following independence in 1960 (2023)<br>
+the Nigerian military is sub-Saharan Africa’s largest and regarded as one of its most capable forces; the military's primary concerns are internal and maritime security, and it faces a number of challenges; the Army is deployed in all 36 of the country's states; in the northeast, it is conducting counterinsurgency/counterterrorist operations against the Boko Haram (BH) and Islamic State of Iraq and ash-Sham in West Africa (ISIS-WA) terrorist groups, where it has deployed as many as 70,000 troops at times and jihadist-related violence has killed an estimated 35-40,000 people, mostly civilians, since 2009; in the northwest, it faces growing threats from criminal gangs--locally referred to as bandits--and violence associated with long-standing farmer-herder conflicts, as well as BH and ISIS-WA terrorists; bandits in the northwestern Nigeria are estimated to number in the low 10,000s and violence there has killed more than 10,000 people since the mid-2010s; the military also continues to protect the oil industry in the Niger Delta region against militants and criminal activity; since 2021, additional troops and security forces have been deployed to eastern Nigeria to quell renewed agitation for a state of Biafra (Biafra seceded from Nigeria in the late 1960s, sparking a civil war that caused more than 1 million deaths)<br><br>the Navy is focused on maritime security in the Gulf of Guinea; since 2016, it has developed a maritime strategy, boosted naval training and its naval presence in the Gulf, increased participation in regional maritime security efforts, and acquired a number of new naval platforms, including offshore and coastal patrol craft, fast attack boats, and air assets<br><br>the Nigerian military traces its origins to the Nigeria Regiment of the West African Frontier Force (WAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Gold Coast, Sierra Leone, and Gambia; the WAFF served with distinction in both East and West Africa during World War I; in 1928, it received royal recognition and was re-named the Royal West African Frontier Force (RWAFF); the RWAFF went on to serve in World War II as part of the British 81st and 82nd (West African) divisions in the East Africa and Burma campaigns; in 1956, the Nigeria Regiment of the RWAFF was renamed the Nigerian Military Forces (NMF) and in 1958, the colonial government of Nigeria took over control of the NMF from the British War Office; the Nigerian Armed Forces were established following independence in 1960 (2023)<br>
 
 ## Space
 

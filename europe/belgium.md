@@ -557,71 +557,54 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 26.929 million kW (2020 est.)<br>
-_consumption_: 81,171,300,000 kWh (2020 est.)<br>
-_exports_: 14.053 billion kWh (2020 est.)<br>
-_imports_: 13.394 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 3.444 billion kWh (2020 est.)<br>
+_installed generating capacity_: 26.31 million kW (2022 est.)<br>
+_consumption_: 79.972 billion kWh (2022 est.)<br>
+_exports_: 23.877 billion kWh (2022 est.)<br>
+_imports_: 16.35 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 3.394 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 33.1% of total installed capacity (2020 est.)<br>
-_nuclear_: 38.1% of total installed capacity (2020 est.)<br>
-_solar_: 5.8% of total installed capacity (2020 est.)<br>
-_wind_: 15% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0.3% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 7.7% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 29% of total installed capacity (2022 est.)<br>
+_nuclear_: 45.8% of total installed capacity (2022 est.)<br>
+_solar_: 7.7% of total installed capacity (2022 est.)<br>
+_wind_: 13% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: -0.2% of total installed capacity (2022 est.) <b>note:</b> Belgium has negative net hydroelectric power generation based on losses from use of pumped storage hydropower<br>
+_biomass and waste_: 4.7% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 5 (2023)<br>
-_Number of nuclear reactors under construction_: 0<br>
-_Net capacity of operational nuclear reactors_: 3.93GW (2023)<br>
-_Percent of total electricity production_: 50.8% (2021)<br>
-_Percent of total energy produced_: 71% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 2<br>
+_Net capacity of operational nuclear reactors_: 3.91GW (2023 est.)<br>
+_Percent of total electricity production_: 41.2% (2023 est.)<br>
+_Number of nuclear reactors permanently shut down_: 3 (2023)<br>
 
 **Coal**<br>
-_production_: 1.105 million metric tons (2020 est.)<br>
-_consumption_: 4.167 million metric tons (2020 est.)<br>
-_exports_: 504,000 metric tons (2020 est.)<br>
-_imports_: 3.467 million metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 1.27 million metric tons (2022 est.)<br>
+_consumption_: 4.869 million metric tons (2022 est.)<br>
+_exports_: 557,000 metric tons (2022 est.)<br>
+_imports_: 4.554 million metric tons (2022 est.)<br>
+_proven reserves_: 4.1 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 11,400 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 642,300 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 666,700 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-731,700 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-680,800 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-601,400 bbl/day (2017 est.)<br>
+_total petroleum production_: 11,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 585,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 18.17 billion cubic meters (2019 est.)<br>
-_exports_: 3.943 billion cubic meters (2019 est.)<br>
-_imports_: 22.61 billion cubic meters (2019 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 13.436 million cubic meters (2022 est.)<br>
+_consumption_: 15.347 billion cubic meters (2022 est.)<br>
+_exports_: 9.86 billion cubic meters (2022 est.)<br>
+_imports_: 25.327 billion cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 128.247 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 10.301 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 83.474 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 34.472 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 116.271 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 8.163 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 78.995 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 29.113 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 234.216 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 205.444 million Btu/person (2022 est.)<br>
 
 ## Communications
 

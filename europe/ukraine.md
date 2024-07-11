@@ -570,72 +570,57 @@ _Currency_: hryvnia (UAH) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
-<strong>note: </strong>pre-war numbers<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 56.816 million kW (2020 est.)<br>
-_consumption_: 124,533,790,000 kWh (2019 est.)<br>
-_exports_: 5.139 billion kWh (2020 est.)<br>
-_imports_: 2.72 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 16.434 billion kWh (2019 est.)<br>
+_installed generating capacity_: 58.531 million kW (2022 est.)<br>
+_consumption_: 99.69 billion kWh (2022 est.)<br>
+_exports_: 2.48 billion kWh (2022 est.)<br>
+_imports_: 1.034 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 11.108 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 37.6% of total installed capacity (2020 est.)<br>
-_nuclear_: 55.9% of total installed capacity (2020 est.)<br>
-_solar_: 1.2% of total installed capacity (2020 est.)<br>
-_wind_: 1.4% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 3.6% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.3% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 32.6% of total installed capacity (2022 est.)<br>
+_nuclear_: 54.5% of total installed capacity (2022 est.)<br>
+_solar_: 4.1% of total installed capacity (2022 est.)<br>
+_wind_: 1.8% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 6.5% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.5% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 15 (2023)<br>
-_Number of nuclear reactors under construction_: 2<br>
-_Net capacity of operational nuclear reactors_: 13.11GW (2023)<br>
-_Percent of total electricity production_: 53.9% (2019)<br>
-_Percent of total energy produced_: 37% (2021)<br>
-<strong>note </strong>- This information does not take into account the effects from the current conflict in Ukraine and should be considered the prewar status<br>
+_Number of nuclear reactors under construction_: 2 (2023)<br>
+_Net capacity of operational nuclear reactors_: 13.11GW (2023 est.)<br>
+_Percent of total electricity production_: 55% (2023 est.)<br>
+_Number of nuclear reactors permanently shut down_: 4 (2023)<br>
 
 **Coal**<br>
-_production_: 23.908 million metric tons (2020 est.)<br>
-_consumption_: 41.181 million metric tons (2020 est.)<br>
-_exports_: 61,000 metric tons (2020 est.)<br>
-_imports_: 17.333 million metric tons (2020 est.)<br>
-_proven reserves_: 34.375 billion metric tons (2019 est.)<br>
+_production_: 4.248 million metric tons (2022 est.)<br>
+_consumption_: 10.953 million metric tons (2022 est.)<br>
+_exports_: 9,000 metric tons (2022 est.)<br>
+_imports_: 6.553 million metric tons (2022 est.)<br>
+_proven reserves_: 34.375 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 57,700 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 248,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 700 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 6,500 bbl/day (2018 est.)<br>
+_total petroleum production_: 3,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 248,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 395 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-63,670 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-1,828 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-167,000 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 19,511,040,000 cubic meters (2019 est.)<br>
-_consumption_: 26,413,486,000 cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 10,740,619,000 cubic meters (2019 est.)<br>
-_proven reserves_: 1,104,355,000,000 cubic meters (2021 est.)<br>
+_production_: 18.725 billion cubic meters (2022 est.)<br>
+_consumption_: 22.856 billion cubic meters (2022 est.)<br>
+_exports_: 95.994 million cubic meters (2022 est.)<br>
+_imports_: 5.404 billion cubic meters (2022 est.)<br>
+_proven reserves_: 1.104 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 185.686 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 105.929 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 30.365 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 49.392 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 93.36 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 19.401 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 31.22 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 42.739 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 82.571 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 53.302 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -743,7 +728,7 @@ the Ukrainian military is equipped largely with Russian-origin and Soviet-era we
 <strong>note:</strong> prior to the Russian invasion in 2022, Ukraine had committed about 500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units; units affiliated with the multinational brigade remain within the structures of the armed forces of their respective countries until the brigade is activated for participation in an international operation<br>
 
 **Military - note**<br>
-the primary focus of the Ukrainian Armed Forces (UAF) is defense against Russian aggression; in February 2022, Russia launched an unprovoked full-scale invasion of Ukraine in what is the largest conflict in Europe since the end of World War II in 1945; as of 2024, the front line of the fighting stretched about 1,000 kilometers (some 600 miles) north and south in eastern and southern Ukraine; Russia’s forces have also launched missile and armed drone strikes throughout Ukraine, hitting critical infrastructure, including power, water, and heating facilities, as well as other civilian targets; Russia first invaded Ukraine in 2014, occupying Ukraine’s province of Crimea and backing separatist forces in the Donbas region with arms, equipment, and training, as well as special operations forces and regular troops, although Moscow denied their presence prior to 2022; the UAF has received considerable outside military assistance since the Russian invasion, including equipment and training, chiefly from Europe and the US <br><br>Ukraine has a relationship with NATO dating back to the early 1990s, when Ukraine joined the North Atlantic Cooperation Council (1991) and the Partnership for Peace program (1994); the relationship intensified in the wake of the 2014 Russia-Ukraine conflict and Russian seizure of Crimea to include NATO support for Ukrainian military capabilities development and capacity-building; NATO further increased its support to the Ukrainian military following Russia’s full-scale invasion in 2022<br><br>the UAF Ground Forces have air defense, armored, artillery, aviation, infantry, mechanized, motorized, and rocket forces; the basic structure of the Ground Forces and the Territorial Defense Forces is the brigade; there are also regionally based (east, north, south, west) Operational Commands and some corps-level commands; the combat brigades are assigned amongst the commands and corps based on operational requirements; the separate Air Assault Forces and Special Operations Forces are organized into brigades and regiments and considered the UAF’s elite units; prior to the 2022 Russian invasion, the UAF Air Force had over 100 combat aircraft, as well as ground-based air defenses, typically organized into brigades under regional commands; the Navy is a coastal defense force and includes naval infantry brigades that have been used as ground forces in the war with Russia (2024)<br>
+the primary focus of the Ukrainian Armed Forces (UAF) is defense against Russian aggression; in February 2022, Russia launched an unprovoked full-scale invasion of Ukraine in what is the largest conflict in Europe since the end of World War II in 1945; as of 2024, the front line of the fighting stretched about 1,000 kilometers (some 600 miles) north and south in eastern and southern Ukraine; Russia’s forces have also launched missile and armed drone strikes throughout Ukraine, hitting critical infrastructure, including power, water, and heating facilities, as well as other civilian targets; Russia first invaded Ukraine in 2014, occupying Ukraine’s province of Crimea and backing separatist forces in the Donbas region with arms, equipment, and training, as well as special operations forces and regular troops, although Moscow denied their presence prior to 2022; the UAF has received considerable outside military assistance since the Russian invasion, including equipment and training, chiefly from Europe and the US <br><br>Ukraine has a relationship with NATO dating back to the early 1990s, when Ukraine joined the North Atlantic Cooperation Council (1991) and the Partnership for Peace program (1994); the relationship intensified in the wake of the 2014 Russia-Ukraine conflict and Russian seizure of Crimea to include NATO support for Ukrainian military capabilities development and capacity-building; NATO further increased its support to the Ukrainian military following Russia’s full-scale invasion in 2022 (2024)<br>
 
 ## Space
 

@@ -502,65 +502,40 @@ _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dolla
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 66.7% (2021)<br>
-_electrification - urban areas_: 90.3% (2021)<br>
-_electrification - rural areas_: 47% (2020)<br>
+_electrification - total population_: 67% (2022 est.)<br>
+_electrification - urban areas_: 89.8%<br>
+_electrification - rural areas_: 1.4%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 349,000 kW (2020 est.)<br>
-_consumption_: 1,002,960,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 183 million kWh (2019 est.)<br>
+_installed generating capacity_: 349,000 kW (2022 est.)<br>
+_consumption_: 1.326 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 147.498 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 89.4% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 10.6% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 67.1% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 32.9% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_imports_: 17.1 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 142,600 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 22,300 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 184,500 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
+_total petroleum production_: 98,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 6,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 1.1 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-5,094 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 4,569,369,000 cubic meters (2019 est.)<br>
-_consumption_: 1,080,003,000 cubic meters (2019 est.)<br>
-_exports_: 3,568,030,000 cubic meters (2019 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
+_production_: 6.75 billion cubic meters (2022 est.)<br>
+_consumption_: 1.504 billion cubic meters (2022 est.)<br>
+_exports_: 4.964 billion cubic meters (2022 est.)<br>
 _proven reserves_: 139.007 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 4.528 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 2.409 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 2.119 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 3.806 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 855,000 metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 2.951 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 57.596 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 41.487 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -652,5 +627,5 @@ the FAGE&rsquo;s National Guard (Army) is a small force with a few infantry batt
 ## Transnational Issues
 
 **Trafficking in persons**<br>
-_tier rating_: <p>Tier 3 — Equatorial Guinea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Equatorial Guinea was downgraded to Tier 3; officials took some steps such as training law enforcement officials on trafficking; however, the government did not prosecute any traffickers and has never convicted a trafficker under its 2004 anti-trafficking law; officials did not identify any victims for the second consecutive year nor screen vulnerable populations; the anti-trafficking law did not criminalize all forms of trafficking; allegations of senior government officials’ complicity in trafficking crimes continued to hinder efforts to combat trafficking (2023)</p><br>
+_tier rating_: <p>Tier 3 — update pending (2024)</p><br>
 

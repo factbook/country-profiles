@@ -582,74 +582,56 @@ _Currency_: Pakistani rupees (PKR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 46 million (2020)<br>
-_electrification - total population_: 94.9% (2021)<br>
-_electrification - urban areas_: 99.9% (2021)<br>
-_electrification - rural areas_: 91.9% (2021)<br>
+_electrification - total population_: 95% (2022 est.)<br>
+_electrification - urban areas_: 100%<br>
+_electrification - rural areas_: 93%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 39.925 million kW (2020 est.)<br>
-_consumption_: 103,493,520,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 487 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 17.389 billion kWh (2019 est.)<br>
+_installed generating capacity_: 43.478 million kW (2022 est.)<br>
+_consumption_: 145.999 billion kWh (2022 est.)<br>
+_imports_: 498.228 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 23.021 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 55.2% of total installed capacity (2020 est.)<br>
-_nuclear_: 8.2% of total installed capacity (2020 est.)<br>
-_solar_: 1% of total installed capacity (2020 est.)<br>
-_wind_: 2.8% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 31.9% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.8% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 62.5% of total installed capacity (2022 est.)<br>
+_nuclear_: 13.2% of total installed capacity (2022 est.)<br>
+_solar_: 0.8% of total installed capacity (2022 est.)<br>
+_wind_: 1.9% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 20.5% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 1.1% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 6 (2023)<br>
-_Number of nuclear reactors under construction_: 0<br>
-_Net capacity of operational nuclear reactors_: 3.26GW (2023)<br>
-_Percent of total electricity production_: 10.6% (2021)<br>
-_Percent of total energy produced_: 8.7% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 0<br>
+_Net capacity of operational nuclear reactors_: 3.26GW (2023 est.)<br>
+_Percent of total electricity production_: 17.4% (2023 est.)<br>
+_Number of nuclear reactors permanently shut down_: 1 (2023)<br>
 
 **Coal**<br>
-_production_: 4.855 million metric tons (2020 est.)<br>
-_consumption_: 21.012 million metric tons (2020 est.)<br>
-_exports_: 1,000 metric tons (2020 est.)<br>
-_imports_: 17.239 million metric tons (2020 est.)<br>
-_proven reserves_: 3.064 billion metric tons (2019 est.)<br>
+_production_: 12.712 million metric tons (2022 est.)<br>
+_consumption_: 34.027 million metric tons (2022 est.)<br>
+_exports_: 1,000 metric tons (2022 est.)<br>
+_imports_: 21.944 million metric tons (2022 est.)<br>
+_proven reserves_: 3.064 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 100,700 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 493,400 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 7,800 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 198,400 bbl/day (2018 est.)<br>
+_total petroleum production_: 101,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 473,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 540 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-291,200 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-25,510 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-264,500 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 38,056,250,000 cubic meters (2019 est.)<br>
-_consumption_: 48,391,627,000 cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 10,743,167,000 cubic meters (2019 est.)<br>
-_proven reserves_: 592.218 billion cubic meters (2021 est.)<br>
+_production_: 36.937 billion cubic meters (2022 est.)<br>
+_consumption_: 46.448 billion cubic meters (2022 est.)<br>
+_imports_: 10.851 billion cubic meters (2022 est.)<br>
+_proven reserves_: 592.219 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 193.869 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 47.468 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 67.789 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 78.611 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 213.498 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 71.24 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 66.804 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 75.454 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 15.859 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 14.902 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -749,7 +731,7 @@ the military's inventory includes a broad mix of equipment, primarily from China
 1,300 Central African Republic (MINUSCA); 290 South Sudan (UNMISS); 590 Sudan (UNISFA) (2024)<br>
 
 **Military - note**<br>
-the Pakistan military operates largely independently and without effective civilian oversight; it has ruled the country for more than 30 years since independence in 1947 and continues to play a significant role in Pakistan's political arena; it also has a large stake in the country’s economic sector and is involved in a diverse array of commercial activities, including banking, construction of public projects, employment services, energy and power generation, fertilizer, food, housing, real estate, and security services<br><br>the military is responsible for external defense but also has a large role in domestic security; its chief external focus is on the perceived threat from India; the military is the lead security agency in many areas of the former Federally Administered Tribal Areas (FATA); it has considerable operational experience, having engaged in several conflicts with India and conducted counterinsurgency and counterterrorism operations for decades against various militant groups in the former FATA; it is also one of the longest serving and largest contributors to UN peacekeeping missions; China is its closest security partner<br><br>the Army is the largest component; it has more than 20 combat divisions, plus about 20 independent combat brigades; the Army also has an inventory of over 5,000 artillery systems organized into divisions and brigades, plus several squadrons of attack helicopters; the Navy operates throughout the Indian Ocean and conducts a variety of missions, including countering piracy, narcotics, and smuggling, protecting Pakistan’s sea lines of communications, multinational security and humanitarian operations, and naval diplomacy; the Navy is in the midst of a large modernization effort; its principal combat ships are a mix of about 15 frigates and corvettes, plus a handful of attack submarines; there is also a small marine amphibious force; the Air Force’s combat missions include the air defense of Pakistan and support to the Army and Navy; it has over 400 Chinese-, French-, and US-made combat aircraft <br><br>Pakistan and India have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well as two clashes over the disputed region of Kashmir (First Kashmir War of 1947 and the Kargil Conflict of 1999); a fragile cease-fire in Kashmir was reached in 2003, revised in 2018, and reaffirmed in 2021, although the Line of Control remains contested, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area in 1985, 1987, and 1995; despite a cease-fire, as of 2023 both sides continued to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties were due to extreme weather or the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness<br><br>Pakistan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
+the Pakistan military operates largely independently and without effective civilian oversight; it has ruled the country for more than 30 years since independence in 1947 and continues to play a significant role in Pakistan's political arena; it also has a large stake in the country’s economic sector and is involved in a diverse array of commercial activities, including banking, construction of public projects, employment services, energy and power generation, fertilizer, food, housing, real estate, and security services<br><br>the military is responsible for external defense but also has a large role in domestic security; its chief external focus is on the perceived threat posed by India; the military is the lead security agency in many areas of the former Federally Administered Tribal Areas (FATA); it has considerable operational experience, having engaged in several conflicts with India and conducted counterinsurgency and counterterrorism operations for decades against various militant groups in the former FATA; it is also one of the longest serving and largest contributors to UN peacekeeping missions; China is its closest security partner<br><br>Pakistan and India have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well as two clashes over the disputed region of Kashmir (First Kashmir War of 1947 and the Kargil Conflict of 1999); a fragile cease-fire in Kashmir was reached in 2003, revised in 2018, and reaffirmed in 2021, although the Line of Control remains contested, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area in 1985, 1987, and 1995; despite a cease-fire, as of 2023 both sides continued to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties were due to extreme weather or the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness<br><br>Pakistan has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
 
 ## Space
 

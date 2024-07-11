@@ -567,66 +567,37 @@ _Currency_: ouguiyas (MRO) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 3 million (2020)<br>
-_electrification - total population_: 47.6% (2021)<br>
-_electrification - urban areas_: 89.6% (2021)<br>
-_electrification - rural areas_: 1% (2020)<br>
+_electrification - total population_: 49% (2022 est.)<br>
+_electrification - urban areas_: 91.6%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 656,000 kW (2020 est.)<br>
-_consumption_: 1.577 billion kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 245 million kWh (2019 est.)<br>
+_installed generating capacity_: 675,000 kW (2022 est.)<br>
+_consumption_: 1.658 billion kWh (2022 est.)<br>
+_imports_: 193.742 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 231.44 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 73.2% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 8.1% of total installed capacity (2020 est.)<br>
-_wind_: 6.8% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 11.9% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 70.1% of total installed capacity (2022 est.)<br>
+_solar_: 8.3% of total installed capacity (2022 est.)<br>
+_wind_: 9.2% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 12.4% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_imports_: 58 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 27,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 4,800 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
+_refined petroleum consumption_: 29,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 20 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-17,290 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
 _proven reserves_: 28.317 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 4.041 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 4.041 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 4.322 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 4.322 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 13.558 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 13.306 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -724,7 +695,7 @@ the military's inventory is limited and made up largely of older French and Sovi
 450 (plus about 325 police) Central African Republic (MINUSCA) (2024)<br>
 
 **Military - note**<br>
-founded in 1960, the Mauritanian military is responsible for territorial defense and internal security; it also assists in economic development projects, humanitarian missions, and disaster response; securing the border and countering terrorist groups operating in the Sahel, particularly from Mali, are key operational priorities; since a spate of deadly terrorist attacks on civilian and military targets in the 2005-2011 timeframe, the Mauritanian Government has increased the defense budget (up 40% between 2008 and 2018) and military equipment acquisitions, enhanced military training, heightened security cooperation with its neighbors and the international community, and built up the military’s counterinsurgency and counterterrorism forces and capabilities; equipment acquisitions have prioritized mobility, flexibility, and intelligence collection, including light ground attack and reconnaissance aircraft, assault helicopters, patrol vessels, light trucks, and surveillance radars; Mauritania has received foreign security assistance from France, NATO, and the US in areas such as commando/special forces operations, counterterrorism, and professional military education<br><br>the Army has sought to create lighter, more nimble units capable of operating in the harsh environment of the Sahel; since 2009, for example, it has enhanced existing camel-mounted nomad patrol units and created up to eight Special Intervention Groups (GSI), 200-man French-trained Army commando/counterterrorism units that are mounted on light vehicles, carry their own supplies, and operate in remote desert border areas for extended periods of time; in addition to the GSI and camel-mounted forces, the Army has multiple motorized infantry battalions, plus individual battalions of tanks, light armored reconnaissance, presidential guards, and airborne/commando forces to supplement garrison units stationed throughout the country in six military regions; the Gendarmerie has territorial-based, mobile, and specialized units such rapid reaction forces (Rapid Action Group – Surveillance and Intervention Group or GAR-SI) that conduct counterterrorism missions and work with the regular military services; the Air Force has acquired a few light attack combat aircraft in recent years, but remains small with a total inventory of about 20 patrol, transport, and trainer airplanes and helicopters; in addition to two offshore patrol vessels acquired from China in 2016, the Navy has a small force of coastal and inshore patrol craft and boats to monitor the country’s 750km-long coastline and Economic Exclusion Zone, plus a unit of marines (Fusiliers Marins); it has conducted joint patrols with the Senegalese Navy along their shared maritime border (2023)<br>
+founded in 1960, the Mauritanian military is responsible for territorial defense and internal security; it also assists in economic development projects, humanitarian missions, and disaster response; securing the border and countering terrorist groups operating in the Sahel, particularly from Mali, are key operational priorities; since a spate of deadly terrorist attacks on civilian and military targets in the 2005-2011 timeframe, the Mauritanian Government has increased the defense budget (up 40% between 2008 and 2018) and military equipment acquisitions, enhanced military training, heightened security cooperation with its neighbors and the international community, and built up the military&rsquo;s counterinsurgency and counterterrorism forces and capabilities; equipment acquisitions have prioritized mobility, flexibility, and intelligence collection, including light ground attack and reconnaissance aircraft, assault helicopters, patrol vessels, light trucks, and surveillance radars; Mauritania has received foreign security assistance from France, NATO, and the US in areas such as commando/special forces operations, counterterrorism, and professional military education (2023)<br>
 
 ## Terrorism
 

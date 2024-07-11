@@ -567,63 +567,34 @@ _Currency_: guarani (PYG) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 8.831 million kW (2020 est.)<br>
-_consumption_: 12,718,590,000 kWh (2019 est.)<br>
-_exports_: 31.748 billion kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 4.47 billion kWh (2019 est.)<br>
+_installed generating capacity_: 8.833 million kW (2022 est.)<br>
+_consumption_: 17.486 billion kWh (2022 est.)<br>
+_exports_: 21.719 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 4.8 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 0% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 100% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 99.7% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.3% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 1,000 metric tons (2022 est.)<br>
+_exports_: (2022 est.) less than 1 metric ton<br>
+_imports_: 200 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 2,000 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 56,900 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-40,760 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_total petroleum production_: 2,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 57,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 7.896 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 3,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 7.893 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 8.234 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 3,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 8.231 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 62.775 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 28.472 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -720,7 +691,7 @@ the military's inventory is comprised of mostly older equipment from a variety o
 <strong>note:</strong> as of 2021, women made up about 6% of the active military<br>
 
 **Military - note**<br>
-the Paraguayan military is responsible for external defense but also has some domestic security duties; while the National Police are responsible for maintaining internal security, the military works with the police through a Joint Task Force (Fuerza de Tarea Conjunta or FTC) in combatting the Paraguayan People’s Army (Ejército del Pueblo Paraguayo or EPP) and transnational criminal organizations; the military has an Internal Defense Operations Command (Comando de Defensa Interna or CODI), which includes the Army, Navy, and Air Force, to coordinate internal security support to the police and other security organizations, such as the National Anti-Drug Secretariat or SENAD<br><br>the EPP is a domestic criminal/guerrilla group initially dedicated to a Marxist-Leninist revolution in Paraguay that operates in the rural northern part of the country along the border with Brazil; the activities of the EPP and its offshoots—Marsical López’s Army (EML) and the Armed Peasant Association (ACA)—have consisted largely of isolated attacks on remote police and army posts, or against ranchers and peasants accused of aiding Paraguayan security forces<br><br>the military is a small force by regional standards, and its limited equipment inventory is largely obsolete, with some of it pre-dating World War II; it has deployed small numbers of troops on UN missions and cooperates with neighboring countries, such as Argentina and Brazil, on security issues, particularly organized crime and narco-trafficking in what is known as the Tri-Border Area; Paraguay has not fought a war against a neighboring country since the Chaco War with Bolivia in the 1930s; formally established in 1811, the Army has nine divisions of infantry and cavalry, but each division is reportedly about the size of a US battalion or 500-1,000 troops; there is also a presidential guard regiment; the Navy is a riverine force that has some of the oldest operational warships in the World, as well as a small marine infantry force; the Air Force has a single combat squadron with a handful of light ground attack/trainer aircraft (2023)<br>
+the Paraguayan military is responsible for external defense but also has some domestic security duties; while the National Police are responsible for maintaining internal security, the military works with the police through a Joint Task Force (Fuerza de Tarea Conjunta or FTC) in combatting the Paraguayan People’s Army (Ejército del Pueblo Paraguayo or EPP) and transnational criminal organizations; the military has an Internal Defense Operations Command (Comando de Defensa Interna or CODI), which includes the Army, Navy, and Air Force, to coordinate internal security support to the police and other security organizations, such as the National Anti-Drug Secretariat or SENAD<br><br>the EPP is a domestic criminal/guerrilla group initially dedicated to a Marxist-Leninist revolution in Paraguay that operates in the rural northern part of the country along the border with Brazil; the activities of the EPP and its offshoots—Marsical López’s Army (EML) and the Armed Peasant Association (ACA)—have consisted largely of isolated attacks on remote police and army posts, or against ranchers and peasants accused of aiding Paraguayan security forces<br><br>the Paraguayan military is a small force by regional standards, and its limited equipment inventory is largely obsolete, with some of it pre-dating World War II; it has deployed small numbers of troops on UN missions and cooperates with neighboring countries, such as Argentina and Brazil, on security issues, particularly organized crime and narco-trafficking in what is known as the Tri-Border Area; Paraguay has not fought a war against a neighboring country since the Chaco War with Bolivia in the 1930s (2023)<br>
 
 ## Space
 

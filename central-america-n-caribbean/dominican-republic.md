@@ -348,7 +348,7 @@ _election results_: <em>2024:</em> Luis Rodolfo ABINADER Corona reelected presid
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (32 seats; 26 members directly elected in single-seat constituencies by simple majority vote, and 6 members indirectly elected based upon province-wide party plurality votes for its candidates to the Chamber of Deputies; all members serve 4-year terms; note - in 2019, the Central Election Commission changed the electoral system for seats in 26 constituencies to simple majority vote but retained indirect election for the remaining 6 constituencies; previously, all 32 members were indirectly elected; the change had been challenged by the ruling and opposition parties)<br><br>House of Representatives or Camara de Diputados (190 seats; 178 members directly elected in multi-seat constituencies by closed party-list proportional representation vote using the D'Hondt method, 5 members in a nationwide constituency, and 7 diaspora members directly elected by simple majority vote; members serve 4-year terms)<br>
 _elections_: Senate - last held on 19 May 2024 (next to be held on 21 May 2028)<br>House of Representatives - 19 May 2024 (next to be held on 21 May 2028)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PRM 24, FP 3, APD 1, PPG 1, PRI 1, PRL 1, PRSC 1; composition - men NA, women NA, percentage women NA%<br><br>House of Representatives - percent of vote by party - NA; seats by party - PRM 142, FP 28, PLD 14, other 6; composition - men NA, women NA, percentage women NA%; total National Congress percent of women NA%; note - official results pending<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - PRM 24, FP 3, APD 1, PPG 1, PRI 1, PRL 1, PRSC 1; composition - men NA, women NA, percentage women NA%<br><br>House of Representatives - percent of vote by party - NA; seats by party - PRM 142, FP 28, PLD 13, PRSC 2, other 5; composition - men NA, women NA, percentage women NA%; total National Congress percent of women NA%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Suprema Corte de Justicia (consists of a minimum of 16 magistrates); Constitutional Court or Tribunal Constitucional (consists of 13 judges); note - the Constitutional Court was established in 2010 by constitutional amendment<br>
@@ -562,66 +562,43 @@ _Currency_: Dominican pesos (DOP) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) less than 1 million<br>
-_electrification - total population_: 98.1% (2021)<br>
-_electrification - urban areas_: 98.7% (2021)<br>
-_electrification - rural areas_: 94.8% (2021)<br>
+_electrification - total population_: 98.1% (2022 est.)<br>
+_electrification - urban areas_: 98.8%<br>
+_electrification - rural areas_: 95%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 5.674 million kW (2020 est.)<br>
-_consumption_: 16,330,980,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 2.576 billion kWh (2019 est.)<br>
+_installed generating capacity_: 5.573 million kW (2022 est.)<br>
+_consumption_: 19.087 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 2.448 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 93.4% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 1.5% of total installed capacity (2020 est.)<br>
-_wind_: 3.2% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0.7% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1.2% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 85.8% of total installed capacity (2022 est.)<br>
+_solar_: 2.6% of total installed capacity (2022 est.)<br>
+_wind_: 6.1% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 4.6% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.8% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 1.791 million metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 2.359 million metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 2.188 million metric tons (2022 est.)<br>
+_exports_: 5.9 metric tons (2022 est.)<br>
+_imports_: 2.188 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 148,200 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 24,900 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-16,060 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-108,500 bbl/day (2015 est.)<br>
+_refined petroleum consumption_: 134,000 bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 1,602,759,000 cubic meters (2019 est.)<br>
-_exports_: 28.657 million cubic meters (2019 est.)<br>
-_imports_: 1,586,449,000 cubic meters (2019 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_consumption_: 2.44 billion cubic meters (2022 est.)<br>
+_exports_: 96.479 million cubic meters (2022 est.)<br>
+_imports_: 2.537 billion cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 26.808 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 4.713 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 18.951 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 3.144 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 27.132 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 4.941 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 17.403 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 4.788 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 39.016 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 36.656 million Btu/person (2022 est.)<br>
 
 ## Communications
 

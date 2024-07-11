@@ -505,60 +505,36 @@ _Currency_: Trinidad and Tobago dollars (TTD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 2.123 million kW (2020 est.)<br>
-_consumption_: 8,213,020,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 424 million kWh (2019 est.)<br>
+_installed generating capacity_: 2.522 million kW (2022 est.)<br>
+_consumption_: 8.981 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 427.688 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 99.9% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.1% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 99.9% of total installed capacity (2022 est.)<br>
+_solar_: 0.1% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 1,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 1,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 100 metric tons (2021 est.)<br>
+_imports_: 200 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 81,000 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 35,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 22,100 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 64,700 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 243 million barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-134,700 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-106,100 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-0 bbl/day (2015 est.)<br>
+_total petroleum production_: 73,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 32,000 bbl/day (2022 est.)<br>
+_crude oil estimated reserves_: 242.982 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 30,886,691,000 cubic meters (2020 est.)<br>
-_consumption_: 16,247,415,000 cubic meters (2020 est.)<br>
-_exports_: 14,662,269,000 cubic meters (2020 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
+_production_: 26.772 billion cubic meters (2022 est.)<br>
+_consumption_: 15.913 billion cubic meters (2022 est.)<br>
+_exports_: 10.878 billion cubic meters (2022 est.)<br>
 _proven reserves_: 298.063 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 39.652 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 10,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 4.631 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 35.011 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 35.415 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 4.257 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 31.158 million metric tonnes of CO2 (2022 est.)<br>
 
 ## Communications
 
@@ -649,9 +625,6 @@ the Police Service maintains internal security; the TTDF's primary responsibilit
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 36,218 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Trinidad and Tobago does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials implemented new standard operating procedures for victim referral and care, opened a government-funded and operated shelter for female child victims, provided the first government shelters for adult victims; and increased the size of the Counter-Trafficking Unit; officials took steps to prevent trafficking among vulnerable populations, including migrants, Cuban medical workers, and Venezuelan refugees and migrants; however, the government did not demonstrate overall increasing efforts, compared to the previous year, to expand its anti-trafficking capacity; courts have never convicted a trafficker under the 2011 anti-trafficking law, and corruption and complicity among officials, including at senior levels, inhibited law enforcement action; victim identification, referral, and services remained weak, and interagency coordination was poor; because the government has devoted significant resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards, Trinidad and Tobago was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3; therefore, Trinidad and Tobago remained on Tier 2 Watch List for the third consecutive year (2023)<br>
 
 **Illicit drugs**<br>
 <p>a transit point for drugs destined for Europe, North America, and the rest of the Caribbean;  drug trafficking organizations use  the country’s proximity to Venezuela, its porous borders, vulnerabilities at ports of entry, a limited law enforcement capacity and resources, and corruption</p> <p> </p><br>

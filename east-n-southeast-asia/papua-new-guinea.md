@@ -547,65 +547,43 @@ _Currency_: kina (PGK) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 20.9% (2021)<br>
-_electrification - urban areas_: 65.1% (2021)<br>
-_electrification - rural areas_: 14% (2021)<br>
+_electrification - total population_: 19% (2022 est.)<br>
+_electrification - urban areas_: 65.1%<br>
+_electrification - rural areas_: 14.2%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 1.139 million kW (2020 est.)<br>
-_consumption_: 3,701,693,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 340 million kWh (2019 est.)<br>
+_installed generating capacity_: 1.263 million kW (2022 est.)<br>
+_consumption_: 4.524 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 318.563 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 80.2% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 18.9% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 74.8% of total installed capacity (2022 est.)<br>
+_solar_: 0.1% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 16.5% of total installed capacity (2022 est.)<br>
+_geothermal_: 8.3% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.3% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_imports_: 9,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 37,200 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 38,200 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 60,300 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 27,400 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 159.7 million barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-22,170 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-17,110 bbl/day (2015 est.)<br>
+_total petroleum production_: 32,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 27,000 bbl/day (2022 est.)<br>
+_crude oil estimated reserves_: 159.656 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 11,784,065,000 cubic meters (2020 est.)<br>
-_consumption_: 166.984 million cubic meters (2020 est.)<br>
-_exports_: 11,764,498,000 cubic meters (2020 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
+_production_: 10.837 billion cubic meters (2022 est.)<br>
+_consumption_: 166.98 million cubic meters (2022 est.)<br>
+_exports_: 10.67 billion cubic meters (2022 est.)<br>
 _proven reserves_: 183.125 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 6.491 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 5.965 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 526,000 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 4.375 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 4.048 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 328,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 11.316 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 6.565 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -699,7 +677,7 @@ the PNGDF is lightly armed; most of its military assistance has come from Austra
 18-27 for voluntary military service for men and women; no conscription (2024)<br>
 
 **Military - note**<br>
-the PNGDF is a small and lightly armed force tasked with defense of the country and its territories against external attack, as well as internal security and socio-economic development duties; following some inter-tribal violence in Wapenamanda in early 2024, the PNGDF was given arrest powers; the Land Element includes two infantry battalions, plus small supporting engineer, communications, explosive ordnance disposal, and medical units; the Air Element is a small air wing operating a light transport aircraft and a few leased helicopters, while the Maritime Element consists of a few patrol boats and landing craft<br><br>the PNGDF was established in 1973, and its primary combat unit, the Royal Pacific Islands Regiment (RPIR), is descended from Australian Army infantry battalions comprised of native soldiers and led by Australian officers and non-commissioned officers formed during World War II to help fight the Japanese; the RPIR was disbanded after the war, but reestablished in 1951 as part of the Australian Army where it continued to serve until Papua New Guinea gained its independence in 1975, when it became part of the PNGDF<br><br>Papua New Guinea's traditional security partners are Australia, Indonesia, New Zealand, and the US; Australia and the US are assisting the country with expanding and improving the Defense Force naval base at Lombrum on Manus Island; the US first established a Lombrum base in 1944 during World War II; in recent years, Papua New Guinea has established security ties with France and the UK; the US and PNG signed a defense cooperation agreement in May 2023, which included a shiprider agreement that provides the opportunity for PNG personnel to work on US Coast Guard and US Navy vessels, and vice versa, to tackle maritime crime such as illegal fishing (2024)<br>
+the Papua New Guinea Defense Force (PNGDF) is a small and lightly armed force tasked with defense of the country and its territories against external attack, as well as internal security and socio-economic development duties; following some inter-tribal violence in Wapenamanda in early 2024, the PNGDF was given arrest powers<br><br>the PNGDF was established in 1973, and its primary combat unit, the Royal Pacific Islands Regiment (RPIR), is descended from Australian Army infantry battalions comprised of native soldiers and led by Australian officers and non-commissioned officers formed during World War II to help fight the Japanese; the RPIR was disbanded after the war, but reestablished in 1951 as part of the Australian Army where it continued to serve until Papua New Guinea (PNG) gained its independence in 1975, when it became part of the PNGDF<br><br>PNG's security partners include Australia, France, Indonesia, New Zealand, the UK, and the US; the US and PNG signed a defense cooperation agreement in 2023, which included a shiprider agreement that provides the opportunity for PNG personnel to work on US Coast Guard and US Navy vessels, and vice versa, to tackle maritime crime such as illegal fishing; the agreement also allowed the US military to develop and operate out of bases in PNG with the PNG Government’s approval (2024)<br>
 
 ## Transnational Issues
 

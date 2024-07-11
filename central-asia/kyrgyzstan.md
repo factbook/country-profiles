@@ -561,65 +561,47 @@ _Currency_: soms (KGS) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 99.6% (2021)<br>
-_electrification - urban areas_: 99.8% (2021)<br>
-_electrification - rural areas_: 99.5% (2021)<br>
+_electrification - total population_: 99.7% (2022 est.)<br>
+_electrification - urban areas_: 100%<br>
+_electrification - rural areas_: 99.6%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 4.626 million kW (2020 est.)<br>
-_consumption_: 12,324,140,000 kWh (2019 est.)<br>
-_exports_: 271 million kWh (2019 est.)<br>
-_imports_: 269 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 2.514 billion kWh (2019 est.)<br>
+_installed generating capacity_: 4.408 million kW (2022 est.)<br>
+_consumption_: 13.465 billion kWh (2022 est.)<br>
+_exports_: 457 million kWh (2022 est.)<br>
+_imports_: 2.806 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 2.738 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 8.5% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 91.5% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 14.1% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 85.9% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 2.287 million metric tons (2020 est.)<br>
-_consumption_: 1.717 million metric tons (2020 est.)<br>
-_exports_: 984,000 metric tons (2020 est.)<br>
-_imports_: 481,000 metric tons (2020 est.)<br>
-_proven reserves_: 971 million metric tons (2019 est.)<br>
+_production_: 3.637 million metric tons (2022 est.)<br>
+_consumption_: 3.352 million metric tons (2022 est.)<br>
+_exports_: 1.321 million metric tons (2022 est.)<br>
+_imports_: 738,000 metric tons (2022 est.)<br>
+_proven reserves_: 28.499 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 700 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 32,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 1,400 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 8,200 bbl/day (2018 est.)<br>
+_total petroleum production_: 6,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 31,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 40 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-6,996 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-2,290 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-34,280 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 25.542 million cubic meters (2019 est.)<br>
-_consumption_: 207.845 million cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 191.478 million cubic meters (2019 est.)<br>
+_production_: 31.026 million cubic meters (2022 est.)<br>
+_consumption_: 438 million cubic meters (2022 est.)<br>
+_imports_: 406.974 million cubic meters (2022 est.)<br>
 _proven reserves_: 5.663 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 7.88 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 2.967 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 4.505 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 408,000 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 10.197 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 5.066 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 4.272 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 859,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 35.059 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 26.992 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -632,8 +614,8 @@ _total subscriptions_: 8.511 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 130 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the country&rsquo;s telecom sector (specifically the mobile segment) has been able to prosper; Kyrgyzstan has opened up its telecom market to competition; the mobile market has achieved high levels of penetration (140% in 2021) along with a fairly competitive operating environment with four major players; mobile broadband has come along strongly, reaching over 125% penetration in 2019 before falling back slightly during the COVID-19 crisis; slow-to-moderate growth is expected for both segments in coming years, supported by the anticipated rollout of 5G services which began testing in 2022 with a pilot service to follow some time in 2023 (2022)<br>
-_domestic_: fixed-line subscriptions 5 per 100; mobile-cellular subscribership up to over 130 per 100 persons (2021)<br>
+_general assessment_: the country&rsquo;s telecom sector (specifically the mobile segment) has been able to prosper; Kyrgyzstan has opened up its telecom market to competition; the mobile market has achieved high levels of penetration (140% in 2021) along with a fairly competitive operating environment with four major players; mobile broadband has come along strongly, reaching over 125% penetration in 2019 before falling back slightly during the COVID-19 crisis; slow-to-moderate growth is expected for both segments in coming years, supported by the anticipated rollout of 5G services which began testing in 2022 with a pilot service in 2023 which has been delayed into 2024 (2024)<br>
+_domestic_: fixed-line subscriptions 5 per 100; mobile-cellular subscribership up to over 130 per 100 persons (2022)<br>
 _international_: country code - 996; connections with other CIS (Commonwealth of Independent States, 9 members post-Soviet Republics in EU) countries by landline or microwave radio relay and with other countries by leased connections with Moscow international gateway switch and by satellite; satellite earth stations - 2 (1 Intersputnik, 1 Intelsat) (2019)<br>
 
 **Broadcast media**<br>
@@ -703,7 +685,7 @@ the Kyrgyz military inventory is comprised of mostly older Russian and Soviet-er
 18-27 years of age for compulsory or voluntary service for men in the Armed Forces or Interior Ministry; 12-month service obligation (9 months for university graduates), with optional fee-based 3-year service in the call-up mobilization reserve; women may volunteer at age 19; 16-17 years of age for military cadets, who cannot take part in military operations (2023)<br>
 
 **Military - note**<br>
-Kyrgyzstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force; it also started a relationship with NATO in 1992 and joined NATO's Partnership for Peace program in 1994<br><br>the Kyrgyz military’s primary responsibility is defense of the country’s sovereignty and territory, although it also has some internal security duties; elements of the military were called out in 2020 to respond to post-election demonstrations for example, and the National Guard’s missions include counterterrorism, responding to emergencies, and the protection of government facilities; the military also participates in UN and CSTO peacekeeping missions; border disputes with Tajikistan and Uzbekistan, as well as the threat posed by militant Islamic groups, have been particular areas of concern for both the military and internal security forces; the military’s closest security partner is Russia, which provides training and material assistance, and maintains a presence in the country, including an airbase; the military also conducts training with other regional countries such as India, traditionally with a focus on counterterrorism<br><br>the Kyrgyz military was formed in 1992 from Soviet Army units then based in Kyrgyzstan following the dissolution of the USSR; the current organization continues to be based on those former Soviet formations; the Army’s principal combat units are reportedly a few small Soviet-style “motor rifle” (mechanized) infantry brigades, plus brigades of mountain infantry, special forces, and artillery; the National Guard has some rapid reaction and special forces units; the Air Defense Forces reportedly have only a few operational combat helicopters (2023)<br>
+Kyrgyzstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force; it also started a relationship with NATO in 1992 and joined NATO's Partnership for Peace program in 1994<br><br>the Kyrgyz military’s primary responsibility is defense of the country’s sovereignty and territory, although it also has some internal security duties; elements of the military were called out in 2020 to respond to post-election demonstrations for example, and the National Guard’s missions include counterterrorism, responding to emergencies, and the protection of government facilities; the military also participates in UN and CSTO peacekeeping missions; border disputes with Tajikistan and Uzbekistan, as well as the threat posed by militant Islamic groups, have been particular areas of concern for both the military and internal security forces; the military’s closest security partner is Russia, which provides training and material assistance, and maintains a presence in the country, including an airbase; the military also conducts training with other regional countries such as India, traditionally with a focus on counterterrorism<br><br>the Kyrgyz military was formed in 1992 from Soviet Army units then based in Kyrgyzstan following the dissolution of the USSR (2023)<br>
 
 ## Terrorism
 

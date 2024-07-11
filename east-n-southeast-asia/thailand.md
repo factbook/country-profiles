@@ -580,63 +580,50 @@ _Currency_: baht per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 99.9% (2022 est.)<br>
+_electrification - urban areas_: 100%<br>
+_electrification - rural areas_: 100%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 53.13 million kW (2020 est.)<br>
-_consumption_: 190,569,262,000 kWh (2019 est.)<br>
-_exports_: 2,617,583,000 kWh (2020 est.)<br>
-_imports_: 29,550,571,000 kWh (2020 est.)<br>
-_transmission/distribution losses_: 13.286 billion kWh (2019 est.)<br>
+_installed generating capacity_: 57.216 million kW (2022 est.)<br>
+_consumption_: 199.672 billion kWh (2022 est.)<br>
+_exports_: 2.02 billion kWh (2022 est.)<br>
+_imports_: 34.223 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 14.464 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 83.3% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 2.8% of total installed capacity (2020 est.)<br>
-_wind_: 1.7% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 2.6% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 9.6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 82.1% of total installed capacity (2022 est.)<br>
+_solar_: 2.8% of total installed capacity (2022 est.)<br>
+_wind_: 1.7% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 3.7% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 9.7% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 13.251 million metric tons (2020 est.)<br>
-_consumption_: 35.761 million metric tons (2020 est.)<br>
-_exports_: 63,000 metric tons (2020 est.)<br>
-_imports_: 23.899 million metric tons (2020 est.)<br>
-_proven reserves_: 1.063 billion metric tons (2019 est.)<br>
+_production_: 13.642 million metric tons (2022 est.)<br>
+_consumption_: 36.03 million metric tons (2022 est.)<br>
+_exports_: 96,000 metric tons (2022 est.)<br>
+_imports_: 22.485 million metric tons (2022 est.)<br>
+_proven reserves_: 1.063 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 438,200 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 1,284,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 28,600 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 979,800 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 252.8 million barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-1.328 million bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-278,300 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-134,200 bbl/day (2015 est.)<br>
+_total petroleum production_: 386,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 1.248 million bbl/day (2022 est.)<br>
+_crude oil estimated reserves_: 252.75 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 38,420,517,000 cubic meters (2019 est.)<br>
-_consumption_: 54,802,466,000 cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 14,944,842,000 cubic meters (2019 est.)<br>
+_production_: 30.797 billion cubic meters (2022 est.)<br>
+_consumption_: 48.898 billion cubic meters (2022 est.)<br>
+_imports_: 17.112 billion cubic meters (2022 est.)<br>
 _proven reserves_: 138.243 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 305.273 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 58.78 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 146.172 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 100.321 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 307.934 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 61.666 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 156.756 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 89.511 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 76.714 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 69.958 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -738,7 +725,7 @@ the RTARF has a diverse array of foreign-supplied weapons systems, including a c
 280 South Sudan (UNMISS) (2024)<br>
 
 **Military - note**<br>
-the RTARF’s missions include defending the country’s territory and sovereignty, protecting the monarchy, ensuring internal security, and responding to natural disasters; it also plays a large role in domestic politics and has attempted as many as 20 coups since the fall of absolute monarchy in 1932, the most recent being in 2014; the Army, formed in 1874, is the dominant service and has 15 combat divisions spread across four military regions; ten of the divisions are infantry, while the others are armored/mechanized cavalry, special forces, and artillery; established in 1906, the Navy’s principal warships include a light aircraft/helicopter carrier, a landing platform dock (LPD) amphibious assault ship, and nearly 20 frigates, corvettes, and offshore patrol vessels; it also has a marine infantry division; the Air Force, established in 1913, is one of the oldest in Southeast Asia and has around 100 combat aircraft<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, Thai officials have been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, violence associated with the insurgency has claimed more than 7,300 lives (as of 2023); the Thai Government has had as many as 100,000 military and paramilitary forces deployed in the south to combat the insurgency<br><br>Thailand has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; the Thai and US militaries host the annual "Cobra Gold" multinational military exercises in Thailand; the exercise is one of the largest multinational exercises in the Pacific region (2023)<br>
+the RTARF’s missions include defending the country’s territory and sovereignty, protecting the monarchy, ensuring internal security, and responding to natural disasters; it also plays a large role in domestic politics and has attempted as many as 20 coups since the fall of absolute monarchy in 1932, the most recent being in 2014<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, Thai officials have been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, violence associated with the insurgency has claimed more than 7,000 lives; the Thai Government has had as many as 100,000 military and paramilitary forces deployed in the south to combat the insurgency<br><br>Thailand has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; the Thai and US militaries host the annual "Cobra Gold" multinational military exercises in Thailand; the exercise is one of the largest multinational exercises in the Pacific region (2024)<br>
 
 ## Space
 

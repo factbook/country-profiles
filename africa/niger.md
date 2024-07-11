@@ -577,66 +577,43 @@ _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 21 million (2020)<br>
-_electrification - total population_: 18.6% (2021)<br>
-_electrification - urban areas_: 65.9% (2021)<br>
-_electrification - rural areas_: 9% (2021)<br>
+_electrification - total population_: 19.5% (2022 est.)<br>
+_electrification - urban areas_: 66.1%<br>
+_electrification - rural areas_: 7.7%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 324,000 kW (2020 est.)<br>
-_consumption_: 1,325,420,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 1.057 billion kWh (2019 est.)<br>
-_transmission/distribution losses_: 313 million kWh (2019 est.)<br>
+_installed generating capacity_: 359,000 kW (2022 est.)<br>
+_consumption_: 1.594 billion kWh (2022 est.)<br>
+_imports_: 1.173 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 364.8 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 94.1% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 5.9% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 94.1% of total installed capacity (2022 est.)<br>
+_solar_: 5.9% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 224,000 metric tons (2020 est.)<br>
-_consumption_: 224,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 6 million metric tons (2019 est.)<br>
+_production_: 457,000 metric tons (2022 est.)<br>
+_consumption_: 457,000 metric tons (2022 est.)<br>
+_imports_: 3,000 metric tons (2022 est.)<br>
+_proven reserves_: 90 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 8,000 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 13,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
+_total petroleum production_: 6,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 13,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 150 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-15,280 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-5,422 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-3,799 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 29.509 million cubic meters (2022 est.)<br>
+_consumption_: 29.858 million cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 2.374 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 499,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 1.875 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 2.454 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 674,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 1.722 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 58,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 1.54 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 1.405 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -717,7 +694,7 @@ the FAN's inventory consists of a wide variety of older weapons; in recent years
 Niger has committed about 1,000 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically (2024)<br>
 
 **Military - note**<br>
-while the FAN is responsible for ensuring external security, most of its focus is on internal counterinsurgency/counterterrorism operations against terrorist groups operating in the areas bordering Burkina Faso, Libya, Mali, and Nigeria, as well as much of northern Niger and the Diffa and Lake Chad regions; these groups include the Islamic State of Iraq and ash-Sham (ISIS) in the Greater Sahara, Boko Haram, ISIS-West Africa, and Jama’at Nusrat al-Islam wal-Muslimin (JNIM)<br><br>the FAN has conducted training and combat operations with foreign partners, including the French and US; the EU has also provided security assistance, particularly to the Gendarmerie (GN), National Guard (GNN), and the National Police; the FAN also conducts counterterrorism operations with the Multinational Joint Task Force (MNJTF), which coordinates the Lake Chad states’ operations against Boko Haram; it conducted counterinsurgency operations against Taureg rebels during the periods of 1990-95 and 2007-09<br><br>the Army is deployed in nine defense zones encompassing the entire country, plus a separate military district for Niamey; the National Gendarmerie (GN) is organized into mobile and territory-based forces<br><br>in recent years, Niger has focused on making its security services more mobile to improve their effectiveness in countering terrorism and protecting the country’s borders; with training support and material assistance from the US and the EU, each security service has created new units or reconfigured existing units with an emphasis on mobility, hybridization, and specialized training; since the 2010s, the Army has created a special operations command, several special intervention battalions, and an anti-terrorism unit known as the 1st Expeditionary Force of Niger (EFoN); the GN has created mobile units modeled on European gendarmerie forces known as the Rapid Action Group—Surveillance and Response in the Sahel (Groupe d'action Rapides—Surveillance et Intervention au Sahel or GAR-SI Sahel); the National Guard (GNN) has developed mobile Multipurpose Squadrons (Escadrons Polyvalentes de la Garde Nationale de Niger or EP-GNN), while the National Police have created Mobile Border Control Companies (Compagnie Mobile de Contrôle des Frontières or CMCF); Niger has also established training centers for special forces in Tillia and peacekeeping in Ouallam; meanwhile, the Air Force has received armed UAVs from Turkey<br><br>the Army was established in 1960 from French colonial forces, while the Air Force was formed as the Niger National Escadrille in 1961; the GN received its first Nigerien commander in 1962; since its establishment, Niger’s military has played a significant role in the country’s politics, conducting coups in 1974, 1996, 1999, and 2010, and ruling Niger for much of the period before 1999; it seized control of the government again in 2023 (2023)<br>
+while the FAN is responsible for ensuring external security, most of its focus is on internal counterinsurgency/counterterrorism operations against terrorist groups operating in the areas bordering Burkina Faso, Libya, Mali, and Nigeria, as well as much of northern Niger and the Diffa and Lake Chad regions; these groups include the Islamic State of Iraq and ash-Sham (ISIS) in the Greater Sahara, Boko Haram, ISIS-West Africa, and Jama’at Nusrat al-Islam wal-Muslimin (JNIM)<br><br>the FAN has conducted training and combat operations with foreign partners, including the French and US; the EU has also provided security assistance, particularly to the Gendarmerie (GN), National Guard (GNN), and the National Police; the FAN also conducts counterterrorism operations with the Multinational Joint Task Force (MNJTF), which coordinates the Lake Chad states’ operations against Boko Haram; it conducted counterinsurgency operations against Taureg rebels during the periods of 1990-95 and 2007-09<br><br>in recent years, Niger has focused on making its security services more mobile to improve their effectiveness in countering terrorism and protecting the country’s borders; with training support and material assistance from the US and the EU, each security service has created new units or reconfigured existing units with an emphasis on mobility, hybridization, and specialized training; since the 2010s, the Army has created a special operations command, several special intervention battalions, and an anti-terrorism unit known as the 1st Expeditionary Force of Niger (EFoN); the GN has created mobile units modeled on European gendarmerie forces known as the Rapid Action Group—Surveillance and Response in the Sahel (Groupe d'action Rapides—Surveillance et Intervention au Sahel or GAR-SI Sahel); the National Guard (GNN) has developed mobile Multipurpose Squadrons (Escadrons Polyvalentes de la Garde Nationale de Niger or EP-GNN), while the National Police have created Mobile Border Control Companies (Compagnie Mobile de Contrôle des Frontières or CMCF); Niger has also established training centers for special forces in Tillia and peacekeeping in Ouallam; meanwhile, the Air Force has received armed UAVs from Turkey<br><br>the Army was established in 1960 from French colonial forces, while the Air Force was formed as the Niger National Escadrille in 1961; the GN received its first Nigerien commander in 1962; since its establishment, Niger’s military has played a significant role in the country’s politics, conducting coups in 1974, 1996, 1999, and 2010, and ruling Niger for much of the period before 1999; it seized control of the government again in 2023 (2023)<br>
 
 ## Terrorism
 

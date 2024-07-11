@@ -446,61 +446,36 @@ _Currency_: new Israeli shekels (ILS) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
-<strong>note:</strong> data for West Bank and Gaza Strip combined<br>
+_electrification - total population_: 100% (2022 est.)<br>
+<strong>note:</strong> includes the West Bank and the Gaza Strip<br>
 
 **Electricity**<br>
-_installed generating capacity_: 215,000 kW (2020 est.)<br>
-_consumption_: 5,702,816,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 5.9 billion kWh (2019 est.)<br>
-_transmission/distribution losses_: 847 million kWh (2019 est.)<br>
+_installed generating capacity_: 352,000 kW (2022 est.)<br>
+_consumption_: 6.746 billion kWh (2022 est.)<br>
+_imports_: 6.7 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 880.312 million kWh (2022 est.)<br>
 <strong>note:</strong> includes the West Bank and the Gaza Strip<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 100% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 77.5% of total installed capacity (2022 est.)<br>
+_solar_: 22.4% of total installed capacity (2022 est.)<br>
+<strong>note:</strong> includes the West Bank and the Gaza Strip<br>
+
+**Coal**<br>
+_exports_: (2022 est.) less than 1 metric ton<br>
 <strong>note:</strong> includes the West Bank and the Gaza Strip<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 24,600 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_refined petroleum consumption_: 29,000 bbl/day (2022 est.)<br>
 <strong>note:</strong> includes the West Bank and the Gaza Strip<br>
 
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-19 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-22,740 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
-
 **Carbon dioxide emissions**<br>
-_total emissions_: 3.341 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 3.341 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 3.942 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 3.942 million metric tonnes of CO2 (2022 est.)<br>
 <strong>note:</strong> includes the West Bank and the Gaza Strip<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 13.604 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 15.201 million Btu/person (2022 est.)<br>
 <strong>note:</strong> includes the West Bank and the Gaza Strip<br>
 
 ## Communications

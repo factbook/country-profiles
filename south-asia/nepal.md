@@ -552,66 +552,38 @@ _Currency_: Nepalese rupees (NPR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 1 million (2020)<br>
-_electrification - total population_: 89.9% (2021)<br>
-_electrification - urban areas_: 94.2% (2021)<br>
-_electrification - rural areas_: 97% (2020)<br>
+_electrification - total population_: 91.3% (2022 est.)<br>
+_electrification - urban areas_: 97.7%<br>
+_electrification - rural areas_: 93.7%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 1.392 million kW (2020 est.)<br>
-_consumption_: 4.676 billion kWh (2019 est.)<br>
-_exports_: 107 million kWh (2019 est.)<br>
-_imports_: 1.729 billion kWh (2019 est.)<br>
-_transmission/distribution losses_: 1.183 billion kWh (2019 est.)<br>
+_installed generating capacity_: 2.389 million kW (2022 est.)<br>
+_consumption_: 9.327 billion kWh (2022 est.)<br>
+_exports_: 347.784 million kWh (2022 est.)<br>
+_imports_: 1.601 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 1.738 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 0% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 2.6% of total installed capacity (2020 est.)<br>
-_wind_: 0.2% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 97.2% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 1.4% of total installed capacity (2022 est.)<br>
+_wind_: 0.1% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 98.5% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 28,000 metric tons (2020 est.)<br>
-_consumption_: 839,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 811,000 metric tons (2020 est.)<br>
-_proven reserves_: 1 million metric tons (2019 est.)<br>
+_production_: 15,000 metric tons (2022 est.)<br>
+_consumption_: 1.095 million metric tons (2022 est.)<br>
+_imports_: 1.015 million metric tons (2022 est.)<br>
+_proven reserves_: 8 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 49,400 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-26,120 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_refined petroleum consumption_: 62,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 7.708 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 1.051 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 6.657 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 10.515 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 2.179 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 8.336 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 5.219 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 5.881 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -693,7 +665,7 @@ the Army's inventory includes a mix of mostly older equipment largely of British
 1240 Central African Republic (MINUSCA); 1,150 Democratic Republic of the Congo (MONUSCO); 400 Golan Heights (UNDOF); 875 Lebanon (UNIFIL); 225 Liberia (UNSMIL); 100 South Sudan/Sudan (UNISFA); 1,725 (plus about 220 police) South Sudan (UNMISS); note - Nepal has over 6,000 total personnel deployed on 15 UN missions (2024)<br>
 
 **Military - note**<br>
-the Nepali Army is a lightly equipped force responsible for territorial defense, although it has some domestic duties such as disaster relief/humanitarian assistance and nature conservation efforts; during the 10-year civil war that ended in 2006, it conducted extensive counterinsurgency operations against Maoist guerrillas; the Army also has a long and distinguished history of supporting UN missions, having sent its first UN observers to Lebanon in 1958 and its first troop contingent to Egypt in 1974; as of 2023, nearly 150,000 Nepali military personnel had deployed on over 40 UN missions; the Army conducts training with foreign partners, including China, India, and the US; it has eight geographically-based divisions, each comprised of light infantry brigades and support units; the Army also has independent special forces and security force (palace guard) brigades; the Air Wing has a small number of multi-role and transport helicopters<br><br>the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816); the Gurkhas subsequently were brought into the British Indian Army and by 1914, there were 10 Gurkha regiments, collectively known as the Gurkha Brigade; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; four regiments were transferred to the British Army, where they have since served continuously as the Brigade of Gurkhas; six Gurkha (aka Gorkha in India) regiments went to the new Indian Army; a seventh regiment was later added; Gurkhas are also recruited into the Singaporean Police and a special guard in the Sultanate of Brunei known as the Gurkha Reserve Unit (2024)<br>
+the Nepali Army is a lightly equipped force responsible for territorial defense, although it has some domestic duties such as disaster relief/humanitarian assistance and nature conservation efforts; during the 10-year civil war that ended in 2006, it conducted extensive counterinsurgency operations against Maoist guerrillas; the Army also has a long and distinguished history of supporting UN missions, having sent its first UN observers to Lebanon in 1958 and its first troop contingent to Egypt in 1974; as of 2023, nearly 150,000 Nepali military personnel had deployed on over 40 UN missions; the Army conducts training with foreign partners, including China, India, and the US<br><br>the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816); the Gurkhas subsequently were brought into the British Indian Army and by 1914, there were 10 Gurkha regiments, collectively known as the Gurkha Brigade; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; four regiments were transferred to the British Army, where they have since served continuously as the Brigade of Gurkhas; six Gurkha (aka Gorkha in India) regiments went to the new Indian Army; a seventh regiment was later added; Gurkhas are also recruited into the Singaporean Police and a special guard in the Sultanate of Brunei known as the Gurkha Reserve Unit (2024)<br>
 
 ## Terrorism
 

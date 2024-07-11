@@ -541,66 +541,33 @@ _Currency_: leones (SLL) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 6 million (2020)<br>
-_electrification - total population_: 27.4% (2021)<br>
-_electrification - urban areas_: 56.9% (2021)<br>
-_electrification - rural areas_: 4.9% (2021)<br>
+_electrification - total population_: 29.4% (2022 est.)<br>
+_electrification - urban areas_: 55.3%<br>
+_electrification - rural areas_: 5%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 180,000 kW (2020 est.)<br>
-_consumption_: 130.708 million kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2020 est.)<br>
-_transmission/distribution losses_: 77 million kWh (2019 est.)<br>
+_installed generating capacity_: 138,000 kW (2022 est.)<br>
+_consumption_: 122.083 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 76.158 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 8.2% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 2.9% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 87% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1.9% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 3.7% of total installed capacity (2022 est.)<br>
+_solar_: 3% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 90.8% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 2.5% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_imports_: (2022 est.) less than 1 metric ton<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 5,900 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-6,439 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_refined petroleum consumption_: 9,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 899,000 metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 899,000 metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 1.352 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 1.352 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 1.803 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 2.229 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -687,7 +654,7 @@ the RSLAF has a small inventory that includes a mix of Soviet-origin and other o
 18-30 for voluntary military service for men and women (25-40 for specialists); no conscription (2023)<br>
 
 **Military - note**<br>
-the RSLAF’s principle responsibilities are securing the borders and the country’s territorial waters, supporting civil authorities during emergencies and reconstruction efforts, and participating in peacekeeping missions; it is small, lightly armed, and has a limited budget; since being reduced in size and restructured with British assistance after the end of the civil war in 2002, it has received assistance from several foreign militaries, including those of Canada, China, France, the UK, and the US; the RSLAF has participated in peacekeeping operations in Somalia and Sudan; the Land Forces are by far the largest service with four small light infantry brigades and a separate battalion, each assigned to a separate region, including the capital; the Maritime Forces have a few small coastal and in-shore patrol craft, while the Air Wing has a handful of serviceable combat helicopters; the RSLAF operates under a Joint Forces Command<br><br>the RSLAF’s origins lie in the Sierra Leone Battalion of the Royal West African Frontier Force (RWAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and The Gambia; the RWAFF fought in both World Wars (2023)<br>
+the RSLAF’s principle responsibilities are securing the borders and the country’s territorial waters, supporting civil authorities during emergencies and reconstruction efforts, and participating in peacekeeping missions; it is small, lightly armed, and has a limited budget; since being reduced in size and restructured with British assistance after the end of the civil war in 2002, it has received assistance from several foreign militaries, including those of Canada, China, France, the UK, and the US; the RSLAF has participated in peacekeeping operations in Somalia and Sudan<br><br>the RSLAF’s origins lie in the Sierra Leone Battalion of the Royal West African Frontier Force (RWAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and The Gambia; the RWAFF fought in both World Wars (2023)<br>
 
 ## Transnational Issues
 

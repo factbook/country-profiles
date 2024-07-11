@@ -585,74 +585,58 @@ _Currency_: Indian rupees (INR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 3 million (2020)<br>
-_electrification - total population_: 99.5% (2021)<br>
-_electrification - urban areas_: 100% (2021)<br>
-_electrification - rural areas_: 99.3% (2021)<br>
+_electrification - total population_: 99.2% (2022 est.)<br>
+_electrification - urban areas_: 100%<br>
+_electrification - rural areas_: 99.3%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 432.768 million kW (2020 est.)<br>
-_consumption_: 1,229,387,712,000 kWh (2019 est.)<br>
-_exports_: 9.491 billion kWh (2019 est.)<br>
-_imports_: 5.794 billion kWh (2019 est.)<br>
-_transmission/distribution losses_: 270.701 billion kWh (2019 est.)<br>
+_installed generating capacity_: 487.407 million kW (2022 est.)<br>
+_consumption_: 1.463 trillion kWh (2022 est.)<br>
+_exports_: 9.574 billion kWh (2022 est.)<br>
+_imports_: 9.127 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 296.958 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 75.5% of total installed capacity (2020 est.)<br>
-_nuclear_: 2.8% of total installed capacity (2020 est.)<br>
-_solar_: 4.2% of total installed capacity (2020 est.)<br>
-_wind_: 4.6% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 10.7% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 2.3% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 76.1% of total installed capacity (2022 est.)<br>
+_nuclear_: 2.6% of total installed capacity (2022 est.)<br>
+_solar_: 5.2% of total installed capacity (2022 est.)<br>
+_wind_: 4.3% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 9.9% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 1.9% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
-_Number of operational nuclear reactors_: 19 (2023)<br>
-_Number of nuclear reactors under construction_: 8<br>
-_Net capacity of operational nuclear reactors_: 6.29GW (2023)<br>
-_Percent of total electricity production_: 3% (2021)<br>
-_Percent of total energy produced_: 2.7% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 0<br>
+_Number of operational nuclear reactors_: 20 (2023)<br>
+_Number of nuclear reactors under construction_: 7 (2023)<br>
+_Net capacity of operational nuclear reactors_: 6.92GW (2023 est.)<br>
+_Percent of total electricity production_: 3.1% (2023 est.)<br>
 
 **Coal**<br>
-_production_: 743.214 million metric tons (2020 est.)<br>
-_consumption_: 883.979 million metric tons (2020 est.)<br>
-_exports_: 1.029 million metric tons (2020 est.)<br>
-_imports_: 219.212 million metric tons (2020 est.)<br>
-_proven reserves_: 105.931 billion metric tons (2019 est.)<br>
+_production_: 985.671 million metric tons (2022 est.)<br>
+_consumption_: 1.2 billion metric tons (2022 est.)<br>
+_exports_: 1.775 million metric tons (2022 est.)<br>
+_imports_: 215.649 million metric tons (2022 est.)<br>
+_proven reserves_: 111.052 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 771,400 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 4,920,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 4.53 million bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 4,604,900,000 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-4.897 million bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-1.305 million bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-653,300 bbl/day (2015 est.)<br>
+_total petroleum production_: 795,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 5.049 million bbl/day (2022 est.)<br>
+_crude oil estimated reserves_: 4.605 billion barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 27,734,833,000 cubic meters (2020 est.)<br>
-_consumption_: 61,646,806,000 cubic meters (2020 est.)<br>
-_exports_: 91.916 million cubic meters (2019 est.)<br>
-_imports_: 33,911,973,000 cubic meters (2020 est.)<br>
-_proven reserves_: 1,380,614,000,000 cubic meters (2021 est.)<br>
+_production_: 33.17 billion cubic meters (2022 est.)<br>
+_consumption_: 58.867 billion cubic meters (2022 est.)<br>
+_exports_: 91.921 million cubic meters (2019 est.)<br>
+_imports_: 27.446 billion cubic meters (2022 est.)<br>
+_proven reserves_: 1.381 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 2,314,738,000 metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 1,574,331,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 615.903 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 124.505 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 2.805 billion metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 2.067 billion metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 620.731 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 117.577 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 23.231 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 24.793 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -757,7 +741,7 @@ ages vary by service, but generally 16.5-27 years of age for voluntary military 
 <strong>note: </strong>India has over 6,000 total military and police personnel deployed on UN missions<br>
 
 **Military - note**<br>
-the Indian military performs a variety of missions; it is primarily focused on China and Pakistan and territorial defense, while secondary missions include regional power projection, UN peacekeeping deployments, humanitarian operations, and support to internal security forces; it has fought in several significant conflicts and counterinsurgency operations since 1947 and regularly conducts large-scale exercises; the military may act internally under the Armed Forces (Special Powers) Act (AFSPA) of 1958, an act of the Indian Parliament that granted special powers to put down separatist movements in "disturbed areas"; the AFSPA of 1958 and a virtually identical law, the Armed Forces (Jammu &amp; Kashmir) Special Powers Act of 1990, have been in force since 1958 in parts of northeast India, and since 1990 in Jammu &amp; Kashmir<br><br>the Army is organized into 14 operational corps; the basic field formations under the corps are approximately 40 armored, artillery, infantry, mechanized, or mountain infantry divisions; there are also a number of independent airborne, armored, and artillery brigades, as well as special operations forces; in 2023, the Army announced that it was reorganizing its operational corps and divisions into division-sized “integrated battle groups,” which the Army assessed would be more agile and flexible<br><br>the Navy is a blue water force that operates in seas stretching from the western Mediterranean to the Strait of Malacca and the western Pacific; it routinely conducts months-long deployments, exercises with other navies, and conducts a variety of missions such as counter-piracy, humanitarian, and naval diplomacy; its principal ships include two aircraft carriers, more than 50 destroyers, frigates, corvettes, and large patrol vessels, and nearly 20 submarines, including two with ballistic missile capabilities; the Navy also has several combat aircraft and anti-submarine warfare helicopter squadrons, as well as a marine amphibious brigade and a marine commando force<br><br>the Air Force is one of the World’s largest with more than 600 British-, French-, Russian/Soviet-, and domestically produced combat aircraft, plus nearly 500 combat helicopters; the tri-service Strategic Forces Command manages all of India’s strategic missile forces <br><br>the short 1962 Sino-India War left in place one of the World’s longest disputed international borders, resulting in occasional standoffs between Indian and Chinese security forces, including lethal clashes in 1975 and 2020; meanwhile, India and Pakistan have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well clashes over the disputed region of Kashmir (the First Kashmir War of 1947 and the 1999 Kargil Conflict); a fragile cease-fire in Kashmir was reached in 2003, revised in 2018, and reaffirmed in 2021, although the Line of Control remains contested, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir where Indian forces have conducted counterinsurgency operations since the 1980s; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area at least three times between 1985 and 1995; despite a cease-fire, both sides continue to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties are due to extreme weather and the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness (2023)<br>
+the Indian military performs a variety of missions; it is primarily focused on China and Pakistan and territorial defense, while secondary missions include regional power projection, UN peacekeeping deployments, humanitarian operations, and support to internal security forces; it has fought in several significant conflicts and counterinsurgency operations since 1947 and regularly conducts large-scale exercises; the military may act internally under the Armed Forces (Special Powers) Act (AFSPA) of 1958, an act of the Indian Parliament that granted special powers to put down separatist movements in "disturbed areas"; the AFSPA of 1958 and a virtually identical law, the Armed Forces (Jammu &amp; Kashmir) Special Powers Act of 1990, have been in force since 1958 in parts of northeast India, and since 1990 in Jammu &amp; Kashmir<br><br>the short 1962 Sino-India War left in place one of the World’s longest disputed international borders, resulting in occasional standoffs between Indian and Chinese security forces, including lethal clashes in 1975 and 2020; meanwhile, India and Pakistan have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well clashes over the disputed region of Kashmir (the First Kashmir War of 1947 and the 1999 Kargil Conflict); a fragile cease-fire in Kashmir was reached in 2003, revised in 2018, and reaffirmed in 2021, although the Line of Control remains contested, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir where Indian forces have conducted counterinsurgency operations since the 1980s; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area at least three times between 1985 and 1995; despite a cease-fire, both sides continue to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties are due to extreme weather and the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness (2023)<br>
 
 ## Space
 

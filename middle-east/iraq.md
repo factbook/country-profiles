@@ -569,63 +569,40 @@ _Currency_: Iraqi dinars (IQD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 28.369 million kW (2020 est.)<br>
-_consumption_: 46.493 billion kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 14.18 billion kWh (2019 est.)<br>
-_transmission/distribution losses_: 58.502 billion kWh (2019 est.)<br>
+_installed generating capacity_: 31.339 million kW (2022 est.)<br>
+_consumption_: 65.908 billion kWh (2022 est.)<br>
+_imports_: 3.534 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 71.17 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 97.8% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.1% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 2.1% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 98% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 2% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_imports_: 3,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 4.162 million bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 863,300 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 3.976 million bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
+_total petroleum production_: 4.437 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 918,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 145.019 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-398,000 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-8,284 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-255,100 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 10.711 billion cubic meters (2019 est.)<br>
-_consumption_: 18.014 billion cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 7.303 billion cubic meters (2019 est.)<br>
+_production_: 9.86 billion cubic meters (2022 est.)<br>
+_consumption_: 19.298 billion cubic meters (2022 est.)<br>
+_imports_: 9.438 billion cubic meters (2022 est.)<br>
 _proven reserves_: 3.729 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 143.479 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 108.14 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 35.339 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 156.892 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 6,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 119.027 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 37.858 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 63.174 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 57.702 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -723,7 +700,7 @@ the Iraqi military's inventory includes a mix of equipment from a wide variety o
 <strong>note:</strong> service in the armed forces was mandatory in Iraq from 1935 up until 2003; in 2021, the Iraqi cabinet approved a draft law to reinstate compulsory military service and referred the proposed law, called the “Service Under the Flag Law,” to the Iraqi parliament<br>
 
 **Military - note**<br>
-the Iraqi security forces (ISF), including conventional air and ground forces, are primarily focused on internal security duties; they are actively conducting counterinsurgency and counterterrorism operations against the Islamic State of Iraq and ash-Sham (ISIS) terrorist group, particularly in northern and western Iraq; the Counter Terrorism Service (CTS), a highly regarded force comprised of three special forces brigades, is the ISF's principal operational unit against ISIS<br><br>Kurdish Security Forces (KSF, aka Peshmerga) also conducted operations against ISIS; the KSF were formally recognized as a legitimate Iraqi military force under the country’s constitution and have operated jointly with the Iraqi military against ISIS militants, but they also operate outside of Iraqi military command structure; since 2021, the ISF and the KSF have conducted joint counter-ISIS operations in an area known as the Kurdish Coordination Line (KCL), a swath of disputed territory in northern Iraq claimed by both the Kurdistan Regional Government and the central Iraqi Government; the KSF/Peshmerga report to the Kurdistan Regional Government or Kurdistan Democratic Party and Patriotic Union of Kurdistan parties instead of the Iraqi Ministry of Defense<br><br>Popular Mobilization Commission and Affiliated Forces (PMF or PMC), also known as Popular Mobilization Units (PMU, or al-Hashd al-Sha’abi in Arabic), tribal militia units have fought alongside the Iraqi military against ISIS since 2014, but the majority of these forces continue to largely ignore the 2016 Law of the Popular Mobilization Authority, which mandated that armed militias must be regulated in a fashion similar to Iraq’s other security forces and act under the Iraqi Government’s direct control; the Iraqi Government funds the PMF, and the prime minister legally commands it, but many of the militia units take orders from associated political parties and/or other government officials, including some with ties to the Iranian Revolutionary Guard Corps (IRGC) and some that have been designated as terrorist organizations by the US; the PMF/PMU is an umbrella organization comprised of many different militias, the majority of which are Shia: <br><br>--Shia militias backed by Iran; they are considered the most active and capable, and include such groups as the Badr Organization (Saraya al-Sala), Asaib Ahl al-Haq, and Kataib Hizballah <br><br>--Shia militias affiliated with Shia political parties, but not aligned with Iran, such as the Peace Brigades (Saray al-Salam) <br><br>--Shia militias not connected with political parties, but affiliated with the Najaf-based Grand Ayatollah Ali al-SISTANI (Iraq’s supreme Shia cleric), such as the Hawza militias<br><br>--other PMF/PMU militias include Sunni Tribal Mobilization militias, or Hashd al-Asha’iri; some of these militias take orders from the ISF and local authorities while others respond to orders from the larger Shia PMU militias; still other militias include Yazidi and Christian militias and the Turkmen brigades; the links of these forces to the PMU are not always clear-cut and may be loosely based on financial, legal, or political incentives<br><br>two international military task forces operate in Iraq to assist the country's security forces at the request of the Iraqi Government; in October 2018, NATO established an advisory, training and capacity-building mission for the Iraqi military known as the NATO Mission Iraq (NMI); in December 2021, a US-led task force that leads the defeat ISIS mission in Iraq, Combined Joint Task Force – Operation Inherent Resolve (CJTF-OIR), transitioned from a combat role to an advise, assist, and enable role (2023)<br>
+the Iraqi security forces (ISF) are primarily focused on internal security duties; they are actively conducting counterinsurgency and counterterrorism operations against the Islamic State of Iraq and ash-Sham (ISIS) terrorist group, particularly in northern and western Iraq; the Counter Terrorism Service (CTS), a highly regarded force comprised of three special forces brigades, is the ISF's principal operational unit against ISIS<br><br>Kurdish Security Forces (KSF, aka Peshmerga) also conducted operations against ISIS; the KSF were formally recognized as a legitimate Iraqi military force under the country’s constitution and have operated jointly with the Iraqi military against ISIS militants, but they also operate outside of Iraqi military command structure; since 2021, the ISF and the KSF have conducted joint counter-ISIS operations in an area known as the Kurdish Coordination Line (KCL), a swath of disputed territory in northern Iraq claimed by both the Kurdistan Regional Government and the central Iraqi Government; the KSF/Peshmerga report to the Kurdistan Regional Government or Kurdistan Democratic Party and Patriotic Union of Kurdistan parties instead of the Iraqi Ministry of Defense<br><br>Popular Mobilization Commission and Affiliated Forces (PMF or PMC), also known as Popular Mobilization Units (PMU, or al-Hashd al-Sha’abi in Arabic), tribal militia units have fought alongside the Iraqi military against ISIS since 2014, but the majority of these forces continue to largely ignore the 2016 Law of the Popular Mobilization Authority, which mandated that armed militias must be regulated in a fashion similar to Iraq’s other security forces and act under the Iraqi Government’s direct control; the Iraqi Government funds the PMF, and the prime minister legally commands it, but many of the militia units take orders from associated political parties and/or other government officials, including some with ties to the Iranian Revolutionary Guard Corps (IRGC) and some that have been designated as terrorist organizations by the US; the PMF/PMU is an umbrella organization comprised of many different militias, the majority of which are Shia: <br><br>--Shia militias backed by Iran; they are considered the most active and capable, and include such groups as the Badr Organization (Saraya al-Sala), Asaib Ahl al-Haq, and Kataib Hizballah <br><br>--Shia militias affiliated with Shia political parties, but not aligned with Iran, such as the Peace Brigades (Saray al-Salam) <br><br>--Shia militias not connected with political parties, but affiliated with the Najaf-based Grand Ayatollah Ali al-SISTANI (Iraq’s supreme Shia cleric), such as the Hawza militias<br><br>--other PMF/PMU militias include Sunni Tribal Mobilization militias, or Hashd al-Asha’iri; some of these militias take orders from the ISF and local authorities while others respond to orders from the larger Shia PMU militias; still other militias include Yazidi and Christian militias and the Turkmen brigades; the links of these forces to the PMU are not always clear-cut and may be loosely based on financial, legal, or political incentives<br><br>two international military task forces operate in Iraq to assist the country's security forces at the request of the Iraqi Government; in October 2018, NATO established an advisory, training and capacity-building mission for the Iraqi military known as the NATO Mission Iraq (NMI); in December 2021, a US-led task force that leads the defeat ISIS mission in Iraq, Combined Joint Task Force – Operation Inherent Resolve (CJTF-OIR), transitioned from a combat role to an advise, assist, and enable role (2023)<br>
 
 ## Terrorism
 
@@ -737,7 +714,4 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps (IRGC)/Qods
 _refugees (country of origin)_: 7,864 (West Bank and Gaza Strip) (mid-year 2022); 273,258 (Syria), 8,575 (Iran), 8,091 (Turkey) (2023)<br>
 _IDPs_: 1.142 million (displacement in central and northern Iraq since January 2014) (2023)<br>
 _stateless persons_: 47,253 (2022); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Iraq does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; more traffickers were convicted and officials improved oversight of recruitment agencies in Iraqi Kurdistan Region (IKR); Iraq implemented an action plan to address recruitment or use of children in armed conflict and developed another action plan to prevent recruitment or use of children by the Popular Mobilization Forces (PMF); however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; officials identified fewer trafficking victims and the Kurdistan Regional Government did not report any enforcement or victim data; deficient procedures, and some officials&rsquo; limited understanding of trafficking, continued to prevent some victims from receiving protection services; some victims continued to receive inappropriate punishment for unlawful acts committed as a direct result of being trafficked; the government lacked adequate protection services for victims of all forms of trafficking and did not have shelters for adult males or LBGTQI+ victims; therefore, Iraq was downgraded to Tier 2 Watch List (2023)<br>
 

@@ -539,63 +539,40 @@ _Currency_: Qatari rials (QAR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 10.633 million kW (2020 est.)<br>
-_consumption_: 44,116,984,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 2.772 billion kWh (2019 est.)<br>
+_installed generating capacity_: 11.414 million kW (2022 est.)<br>
+_consumption_: 51.079 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 2.968 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 100% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 99.7% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.3% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_exports_: 3,000 metric tons (2022 est.)<br>
+_imports_: 4,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 1,815,100 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 293,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 1,264,400 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
+_total petroleum production_: 1.851 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 297,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 25.244 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-273,800 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-485,000 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-12,300 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 167,460,996,000 cubic meters (2019 est.)<br>
-_consumption_: 37,701,809,000 cubic meters (2019 est.)<br>
-_exports_: 126,749,621,000 cubic meters (2019 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 23,860,500,000,000 cubic meters (2021 est.)<br>
+_production_: 169.595 billion cubic meters (2022 est.)<br>
+_consumption_: 41.515 billion cubic meters (2022 est.)<br>
+_exports_: 126.221 billion cubic meters (2022 est.)<br>
+_proven reserves_: 23.861 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 111.922 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 33.44 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 78.482 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 122.122 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 3,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 35.699 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 86.42 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 723.582 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 767.202 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -686,7 +663,7 @@ conscription for men aged 18-35 introduced in 2013; compulsory service times ran
 <strong>note:</strong> the military incorporates about 2,000 conscripts annually and recruits foreign contract soldiers to overcome manpower limitations<br>
 
 **Military - note**<br>
-the QAF is a small and well-equipped force that is responsible for defense against external threats; following the downturn in ties with Bahrain, Egypt, Saudi Arabia, and the UAE in the mid-2010s, the Qatari Government embarked on a major arms acquisition and modernization program to increase the QAF’s capabilities and regional standing; the Air Force has benefited the most, growing from an inventory of 12 older combat aircraft and a few fighter trainers in 2017 to a current inventory of about 60 modern multirole fighter aircraft from France, the UK, and the US; it is slated to grow to about 100 such aircraft by the mid-2020s; other aircraft acquisitions have included US attack helicopters; the Land Force has re-equipped its armored, mechanized, and artillery units with modern tanks, armored vehicles, and self-propelled artillery, mostly with purchases from Germany and Turkey; meanwhile, the Navy over the same period has received several corvettes and offshore patrol vessels from Italy and Turkey<br><br>Qatar hosts the regional headquarters for the US Central Command (CENTCOM; established 1983) and several thousand US military forces at various military facilities, including the large Al Udeid Air Base; it has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Qatar also hosts Turkish military forces at two bases established in 2014 and 2019 (2023)<br>
+the QAF is a small and well-equipped force that is responsible for defense against external threats; following the downturn in ties with Bahrain, Egypt, Saudi Arabia, and the UAE in the mid-2010s, the Qatari Government embarked on a major arms acquisition and modernization program to increase the QAF’s capabilities and regional standing; the Air Force has benefited the most, growing from an inventory of 12 older combat aircraft in 2017 to a current inventory of about 60 modern multirole fighter aircraft from France, the UK, and the US; it is slated to grow to about 100 such aircraft by the mid-2020s; other aircraft acquisitions have included US attack helicopters; the Land Force has re-equipped its armored, mechanized, and artillery units with modern tanks, armored vehicles, and self-propelled artillery, mostly with purchases from Germany and Turkey; meanwhile, the Navy over the same period has received several corvettes and offshore patrol vessels from Italy and Turkey<br><br>Qatar hosts the regional headquarters for the US Central Command (CENTCOM; established 1983) and several thousand US military forces at various military facilities, including the large Al Udeid Air Base; it has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Qatar also hosts Turkish military forces at two bases established in 2014 and 2019 (2023)<br>
 
 ## Terrorism
 

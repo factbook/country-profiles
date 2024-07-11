@@ -529,63 +529,42 @@ _Currency_: Omani rials (OMR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 8.601 million kW (2020 est.)<br>
-_consumption_: 32,320,020,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 3.717 billion kWh (2019 est.)<br>
+_installed generating capacity_: 9.129 million kW (2022 est.)<br>
+_consumption_: 39.012 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 4.043 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 100% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 99.4% of total installed capacity (2022 est.)<br>
+_solar_: 0.6% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 115,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 115,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 31,000 metric tons (2022 est.)<br>
+_exports_: 73,000 metric tons (2022 est.)<br>
+_imports_: 105,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 978,800 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 234,200 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 779,000 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
+_total petroleum production_: 1.056 million bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 211,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 5.373 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-229,600 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-33,700 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-6,041 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 36,596,746,000 cubic meters (2019 est.)<br>
-_consumption_: 24,279,419,000 cubic meters (2019 est.)<br>
-_exports_: 13,798,040,000 cubic meters (2019 est.)<br>
-_imports_: 1,605,959,000 cubic meters (2019 est.)<br>
-_proven reserves_: 651.286 billion cubic meters (2021 est.)<br>
+_production_: 40.754 billion cubic meters (2022 est.)<br>
+_consumption_: 27.364 billion cubic meters (2022 est.)<br>
+_exports_: 15.446 billion cubic meters (2022 est.)<br>
+_imports_: 1.506 billion cubic meters (2022 est.)<br>
+_proven reserves_: 651.287 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 76.321 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 191,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 29.682 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 46.447 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 79.559 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 24,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 27.188 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 52.348 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 292.022 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 285.886 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -677,7 +656,7 @@ the SAF's inventory includes a mix of older and some more modern weapons systems
 18 for voluntary military service for men and women (women have been allowed to serve since 2011); no conscription (2023)<br>
 
 **Military - note**<br>
-the SAF’s primary responsibility is external security; it is a small but well-equipped military that trains regularly, including with foreign partners such as the UK, US, and Gulf Cooperation Council countries; the SAF has a longstanding security relationship with the British military going back to the 18th century; the relationship was notable during the Dhofar Rebellion (1963-1976), when the British military provided considerable assistance to the SAF in their eventually successful counterinsurgency campaign; today, the SAF and the British maintain a joint training base in Oman and exercise together regularly; in 2017, Oman and the UK signed an agreement allowing the British military the use of facilities at Al Duqm Port; in 2019, the US obtained access to the port, expanding on previous military cooperation agreements in 2014, 2010, and 1980; Oman also allows other nations to use some of its maritime facilities, including China<br><br>the Omani Navy conducts maritime security operations along the country’s long coastline, including patrolling, ensuring freedom of navigation in the key naval chokepoint of the Strait of Hormuz, and countering piracy and smuggling; while Oman is not a member of the US-led, multinational Combined Maritime Forces (CMF), which operates task forces to counter piracy and smuggling, the Omani Navy has at times participated in CMF-led joint exercises; the Navy is a small but relatively modern force; its principal warships are five corvettes, which are supported by several offshore patrol ships, fast attack craft, and coastal patrol vessels<br><br>the Royal Army was formed as the Muscat Garrison in 1907; today, it has an armored brigade equipped with American and British tanks, two brigades of infantry, and a border guard brigade, as well as an airborne regiment; the Royal Guard is comprised of an infantry brigade and two special forces regiments; the Air Force has about three dozen modern European- and US-made multipurpose fighter aircraft (2023)<br>
+the SAF’s primary responsibility is external security; it is a small but well-equipped military that trains regularly, including with foreign partners such as the UK, US, and Gulf Cooperation Council countries; the SAF has a longstanding security relationship with the British military going back to the 18th century; the relationship was notable during the Dhofar Rebellion (1963-1976), when the British military provided considerable assistance to the SAF in their eventually successful counterinsurgency campaign; today, the SAF and the British maintain a joint training base in Oman and exercise together regularly; in 2017, Oman and the UK signed an agreement allowing the British military the use of facilities at Al Duqm Port; in 2019, the US obtained access to the port, expanding on previous military cooperation agreements in 2014, 2010, and 1980; Oman also allows other nations to use some of its maritime facilities, including China<br><br>Oman has a small but relatively modern navy that conducts maritime security operations along the country’s long coastline, including patrolling, ensuring freedom of navigation in the key naval chokepoint of the Strait of Hormuz, and countering piracy and smuggling; while Oman is not a member of the US-led, multinational Combined Maritime Forces (CMF), which operates task forces to counter piracy and smuggling, the Omani Navy has at times participated in CMF-led joint exercises (2023)<br>
 
 ## Transnational Issues
 

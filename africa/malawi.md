@@ -569,66 +569,39 @@ _Currency_: Malawian kwachas (MWK) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 17 million (2020)<br>
-_electrification - total population_: 14.1% (2021)<br>
-_electrification - urban areas_: 54.2% (2021)<br>
-_electrification - rural areas_: 5.5% (2021)<br>
+_electrification - total population_: 14% (2022 est.)<br>
+_electrification - urban areas_: 54%<br>
+_electrification - rural areas_: 5.6%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 618,000 kW (2020 est.)<br>
-_consumption_: 1,117,378,000 kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 460 million kWh (2019 est.)<br>
+_installed generating capacity_: 758,000 kW (2022 est.)<br>
+_consumption_: 1.101 billion kWh (2022 est.)<br>
+_exports_: 20 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 231.84 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 11.8% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 3.2% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 81.9% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 3.2% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 5.7% of total installed capacity (2022 est.)<br>
+_solar_: 12.7% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 77.7% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 4% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 48,000 metric tons (2020 est.)<br>
-_consumption_: 47,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 2 million metric tons (2019 est.)<br>
+_production_: 50,000 metric tons (2022 est.)<br>
+_consumption_: 50,000 metric tons (2022 est.)<br>
+_exports_: (2022 est.) less than 1 metric ton<br>
+_imports_: 2.5 metric tons (2022 est.)<br>
+_proven reserves_: 801.999 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 9,400 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-4,769 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_refined petroleum consumption_: 11,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 1.542 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 203,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 1.339 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 1.617 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 112,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 1.505 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 1.809 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 1.331 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -711,7 +684,7 @@ the MDF's inventory is comprised of mostly obsolescent or secondhand equipment o
 740 Democratic Republic of the Congo (MONUSCO; note - as of early 2024, MONUSCO forces were drawing down towards a complete withdrawal by the end of 2024) (2024)<br>
 
 **Military - note**<br>
-the MDF’s primary responsibility is external security; it is also tasked as necessary with providing support to civilian authorities during emergencies, supporting the Police Service, protecting national forest reserves, and participating in regional peacekeeping missions, as well as assisting with infrastructure development; it is generally considered to be a professional and effective service, although most of its equipment is aging and obsolescent; Malawi contributes regularly to African Union and UN peace support operations; the Army is the dominant service and has three infantry brigades while its subordinate maritime force has a few patrol boats for monitoring Lake Malawi <br><br>the MDF was established in 1964 from elements of the Kings African Rifles (KAR), a British colonial regiment raised from Great Britain's various possessions in East Africa from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2023)<br>
+the MDF’s primary responsibility is external security; it is also tasked as necessary with providing support to civilian authorities during emergencies, supporting the Police Service, protecting national forest reserves, and participating in regional peacekeeping missions, as well as assisting with infrastructure development; it is generally considered to be a professional and effective service, although most of its equipment is aging and obsolescent; Malawi contributes regularly to African Union and UN peace support operations<br><br>the MDF was established in 1964 from elements of the Kings African Rifles (KAR), a British colonial regiment raised from Great Britain's various possessions in East Africa from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2023)<br>
 
 ## Transnational Issues
 

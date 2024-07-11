@@ -564,66 +564,31 @@ _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dolla
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 15 million (2020)<br>
-_electrification - total population_: 11.2% (2021)<br>
-_electrification - urban areas_: 43.2% (2021)<br>
-_electrification - rural areas_: 1.3% (2021)<br>
+_electrification - total population_: 11.7% (2022 est.)<br>
+_electrification - urban areas_: 46.3%<br>
+_electrification - rural areas_: 1.3%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 87,000 kW (2020 est.)<br>
-_consumption_: 188.46 million kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 111 million kWh (2019 est.)<br>
+_installed generating capacity_: 90,000 kW (2022 est.)<br>
+_consumption_: 301.523 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 48.261 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 96.8% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0% of total installed capacity (2020 est.)<br>
-_wind_: 3.2% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
-
-**Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_fossil fuels_: 94.5% of total installed capacity (2022 est.)<br>
+_wind_: 2.6% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 2.9% of total installed capacity (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 87,900 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 12,600 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 116,000 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
+_total petroleum production_: 124,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 15,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 1.5 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-2,285 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
-
 **Carbon dioxide emissions**<br>
-_total emissions_: 1.771 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 1.771 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 2.064 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 2.064 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 1.575 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 1.649 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -713,7 +678,7 @@ _refugees (country of origin)_: 694,569 (Sudan) (includes refugees since 15 Apri
 _IDPs_: 215,918 (majority are in the east) (2023)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 &mdash; Chad does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Chad was downgraded to Tier 3; officials took some steps to address trafficking, prosecuting trafficking cases and launching an inter-ministerial committee to enhance protections for migrant workers and reduce vulnerabilities to trafficking; however, the government did not identify any victims or convict traffickers for the second consecutive year; officials did not consistently implement standard operating procedures to screen for and identify victims; the government did not operationalize its National Trafficking Commission nor conduct awareness campaigns (2023)<br>
+_tier rating_: Tier 2 Watch List &mdash; update pending (2024)&nbsp;<br>
 
 **Illicit drugs**<br>
 NA<br>

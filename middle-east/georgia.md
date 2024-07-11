@@ -556,63 +556,46 @@ _Currency_: laris (GEL) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 4.579 million kW (2020 est.)<br>
-_consumption_: 12,062,080,000 kWh (2019 est.)<br>
-_exports_: 256 million kWh (2020 est.)<br>
-_imports_: 1.712 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 918.2 million kWh (2019 est.)<br>
+_installed generating capacity_: 4.128 million kW (2022 est.)<br>
+_consumption_: 13.902 billion kWh (2022 est.)<br>
+_exports_: 4.131 billion kWh (2022 est.)<br>
+_imports_: 4.693 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 905.421 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 25.3% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0% of total installed capacity (2020 est.)<br>
-_wind_: 0.8% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 73.9% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 23.8% of total installed capacity (2022 est.)<br>
+_wind_: 0.6% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 75.6% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 99,000 metric tons (2020 est.)<br>
-_consumption_: 362,000 metric tons (2020 est.)<br>
-_exports_: 1,000 metric tons (2020 est.)<br>
-_imports_: 277,000 metric tons (2020 est.)<br>
-_proven reserves_: 201 million metric tons (2019 est.)<br>
+_production_: 256,000 metric tons (2022 est.)<br>
+_consumption_: 516,000 metric tons (2022 est.)<br>
+_exports_: 100 metric tons (2022 est.)<br>
+_imports_: 241,000 metric tons (2022 est.)<br>
+_proven reserves_: 900.999 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 300 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 32,400 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 100 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
+_total petroleum production_: 300 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 32,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 35 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-247 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-2,052 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-28,490 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 6.088 million cubic meters (2020 est.)<br>
-_consumption_: 2.54 billion cubic meters (2020 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 2.535 billion cubic meters (2020 est.)<br>
+_production_: 8.76 million cubic meters (2022 est.)<br>
+_consumption_: 2.796 billion cubic meters (2022 est.)<br>
+_imports_: 2.787 billion cubic meters (2022 est.)<br>
 _proven reserves_: 8.495 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 10.299 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 1.063 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 4.245 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 4.992 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 10.958 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 1.157 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 4.34 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 5.46 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 63.286 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 58.044 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -625,8 +608,8 @@ _total subscriptions_: 5.844 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 156 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom sector has been attempting for many years to overcome the decades of under-investment in its fixed-line infrastructure during the Soviet era; concerted efforts to privatize state-owned enterprises and open up the telecom market have been mostly successful, with a large number of networks now competing in both the fixed-line and the mobile segments; more needs to be done, however, to give investors the confidence to enter a market that has barely moved in terms of revenue growth over the last decade, and where regulatory overreach has sometimes come perilously close to arresting further development; Georgia&rsquo;s government moved fast following the collapse of the Soviet Union to liberalize the country&rsquo;s telecom market; this resulted in a relatively high number of networks competing in the under-developed fixed-line segment as well as in the emerging mobile market; both segments remain dominated by just a few companies (2022)<br>
-_domestic_: fixed-line subscriptions 9 per 100, mobile-cellular teledensity roughly 137 per 100 persons (2021)<br>
+_general assessment_: <p>the telecom sector has been attempting for many years to overcome the decades of under-investment in its fixed-line infrastructure during the Soviet era; concerted efforts to privatize state-owned enterprises and open up the telecom market have been mostly successful, with a large number of operators now competing in both the fixed-line and the mobile segments; Georgia’s government moved fast following the collapse of the Soviet Union to liberalize the country’s telecom market; this resulted in a relatively high number of operators competing in the under-developed fixed-line segment as well as in the emerging mobile market;  the mobile and mobile broadband segments have both demonstrated solid growth in 2021; this upturn follows a significant contraction in subscriber numbers as well as revenue during 2020 due to the Covid-19 crisis; funding has continued to flow into mobile ventures, with the Mobile Network Operators (MNOs) preparing for 5G</p> (2024)<br>
+_domestic_: fixed-line subscriptions 8 per 100, mobile-cellular tele density roughly 156 per 100 persons (2022)<br>
 _international_: country code - 995; landing points for the Georgia-Russia, Diamond Link Global, and Caucasus Cable System fiber-optic submarine cable that provides connectivity to Russia, Romania and Bulgaria; international service is available by microwave, landline, and satellite through the Moscow switch; international electronic mail and telex service are available (2019)<br>
 
 **Broadcast media**<br>

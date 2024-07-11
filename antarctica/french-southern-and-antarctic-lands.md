@@ -153,7 +153,7 @@ _by type_: other 2<br>
 ## Military and Security
 
 **Military - note**<br>
-defense is the responsibility of France; French forces on Mayotte, the D&eacute;tachement de L&eacute;gion &Eacute;trang&egrave;re de Mayotte (DLEM), regularly deploys small elements for periodic rotations to Europa Island, Glorioso Islands, Juan de Nova Island, and Tromelin Island<br>
+defense is the responsibility of France; the French military maintains a Foreign Legion detachment on Mayotte to maintain France&rsquo;s presence in the region and support French forces operating in the southern zone of the Indian Ocean and the east coast of Africa; the detachment regularly deploys to the outlying Glorioso Islands<br>
 
 ## Transnational Issues
 

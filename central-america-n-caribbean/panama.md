@@ -552,66 +552,44 @@ _Currency_: balboas (PAB) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) less than 1 million<br>
-_electrification - total population_: 95.2% (2021)<br>
-_electrification - urban areas_: 99.7% (2021)<br>
-_electrification - rural areas_: 85.6% (2020)<br>
+_electrification - total population_: 95% (2022 est.)<br>
+_electrification - urban areas_: 99%<br>
+_electrification - rural areas_: 100%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 4.106 million kW (2020 est.)<br>
-_consumption_: 10,808,780,000 kWh (2019 est.)<br>
-_exports_: 427 million kWh (2019 est.)<br>
-_imports_: 77 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 1.309 billion kWh (2019 est.)<br>
+_installed generating capacity_: 4.434 million kW (2022 est.)<br>
+_consumption_: 11.608 billion kWh (2022 est.)<br>
+_exports_: 502 million kWh (2022 est.)<br>
+_imports_: 69.81 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 1.315 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 24.5% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 2.7% of total installed capacity (2020 est.)<br>
-_wind_: 6.4% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 66.2% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.2% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 21.8% of total installed capacity (2022 est.)<br>
+_solar_: 4.9% of total installed capacity (2022 est.)<br>
+_wind_: 4% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 69.2% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.2% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 1.118 million metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 1.15 million metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 837,000 metric tons (2022 est.)<br>
+_exports_: (2022 est.) less than 1 metric ton<br>
+_imports_: 845,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 143,700 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-66 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-129,200 bbl/day (2015 est.)<br>
+_refined petroleum consumption_: 146,000 bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 552.744 million cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 552.744 million cubic meters (2019 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_consumption_: 389.611 million cubic meters (2022 est.)<br>
+_imports_: 389.611 million cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 25.263 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 1.905 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 22.281 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 1.077 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 25.763 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 1.89 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 23.114 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 759,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 98.946 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 87.16 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -703,7 +681,7 @@ approximately 27,000 Ministry of Public Security personnel (2023)<br>
 Panama's security forces are lightly armed; Canada, Italy and the US have provided equipment to the security forces in recent years (2023)<br>
 
 **Military - note**<br>
-the Panama National Police is principally responsible for internal law enforcement and public order, while the National Border Service handles border security; the Aeronaval Service is responsible for carrying out air and naval operations that include some internal security responsibilities; key areas of focus are countering narcotics trafficking and securing the border, particularly along the southern border with Colombia where the National Border Service (SENAFRONT) maintains a significant presence<br><br>Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution (2023)<br>
+the Panama National Police is principally responsible for internal law enforcement and public order, while the National Border Service handles border security; the Aeronaval Service is responsible for carrying out air and naval operations that include some internal security responsibilities; key areas of focus are countering narcotics trafficking and securing the border, particularly along the southern border with Colombia where the National Border Service (SENAFRONT) maintains a significant presence<br><br>Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution (2024)<br>
 
 ## Transnational Issues
 

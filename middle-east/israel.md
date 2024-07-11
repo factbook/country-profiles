@@ -559,63 +559,44 @@ _Currency_: new Israeli shekels (ILS) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 18.993 million kW (2020 est.)<br>
-_consumption_: 59,192,500,000 kWh (2019 est.)<br>
-_exports_: 6.243 billion kWh (2020 est.)<br>
-_imports_: 0 kWh (2020 est.)<br>
-_transmission/distribution losses_: 2.642 billion kWh (2019 est.)<br>
+_installed generating capacity_: 22.207 million kW (2022 est.)<br>
+_consumption_: 65.442 billion kWh (2022 est.)<br>
+_exports_: 6.916 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 3.557 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 93.7% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 5.9% of total installed capacity (2020 est.)<br>
-_wind_: 0.3% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 90.1% of total installed capacity (2022 est.)<br>
+_solar_: 9.7% of total installed capacity (2022 est.)<br>
+_wind_: 0.2% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 5.089 million metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 5.565 million metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 6.476 million metric tons (2022 est.)<br>
+_exports_: 8.9 metric tons (2022 est.)<br>
+_imports_: 6.561 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 232,400 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 232,900 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 12.7 million barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-294,300 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-111,700 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-98,860 bbl/day (2017 est.)<br>
+_total petroleum production_: 15,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 230,000 bbl/day (2023 est.)<br>
+_crude oil estimated reserves_: 12.73 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
-_production_: 10.474 billion cubic meters (2019 est.)<br>
-_consumption_: 9.442 billion cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 820.508 million cubic meters (2019 est.)<br>
-_proven reserves_: 176.017 billion cubic meters (2021 est.)<br>
+_production_: 22.886 billion cubic meters (2022 est.)<br>
+_consumption_: 11.51 billion cubic meters (2022 est.)<br>
+_exports_: 9.578 billion cubic meters (2022 est.)<br>
+_imports_: 59.369 million cubic meters (2022 est.)<br>
+_proven reserves_: 176.018 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 61.092 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 13.653 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 29.416 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 18.023 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 64.871 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 14.043 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 28.858 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 21.97 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 113.273 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 113.455 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -711,7 +692,7 @@ the majority of the IDF's inventory is comprised of weapons that are domesticall
 <strong>note 1:</strong> women have served in the Israeli military since its establishment in 1948; as of 2021, women made up about 35% of IDF personnel; more than 90% of military specialties, including combat specialties, were open to women and more than 3,000 women were serving in combat units; the IDF's first mixed-gender infantry unit, the Caracal Battalion, was established in 2004<br><br><strong>note 2:</strong> conscripts comprise about 70% of the IDF active-duty ground forces<br><br><strong>note 3:</strong> the IDF recruits non-Israeli Jews and non-Jews with a minimum of one Jewish grandparent, as well as converts to Judaism; each year the IDF brings in about 800-1,000 foreign recruits from around the world<br>
 
 **Military - note**<br>
-the IDF is responsible for external defense but also has some domestic security responsibilities; its primary operational focuses include the threat posed by Iran, instability in Syria, and terrorist organizations, including HAMAS and Hizballah, both of which are backed by Iran, Palestine Islamic Jihad (PIJ), and the Islamic State of Iraq and ash-Sham; it has considerable experience in conventional and unconventional warfare; since the country’s founding in 1948, the IDF has been in conflicts against one or more of its Arab neighbors in 1948-49, 1956, 1967, 1967-70 (“War of Attrition”), 1973, 1982, and 2006; it bombed nuclear sites in Iraq in 1981 and Syria in 2007, and since the outbreak of the Syrian civil war in 2011, has conducted numerous air strikes in Syria against Iranian, Iranian-backed militia, and Hizballah forces, and Syrian Government targets; over the same period, the IDF has carried out strikes against Hizballah in Lebanon in response to attacks on Israeli territory; these strikes followed an Israeli invasion of Lebanon in 2006, also to suppress Hizballah attacks; the IDF has conducted operations against HAMAS and PIJ, which operate out of the Gaza Strip and have launched numerous rocket attacks against Israel; HAMAS and Israel fought an 11-day conflict in 2021, which ended in an informal truce, although sporadic clashes continued; in October 2023, HAMAS conducted a surprise ground assault into Israel, supported by rockets and armed drones, killing more than 1,000 Israelis and foreigners living in Israel; the attack sparked another war with Israel, including an IDF ground invasion of Gaza; the IDF also has conducted security operations against Palestinians in the Israeli-occupied territories of East Jerusalem and the West Bank <br><br>since its creation from armed Jewish militias during the First Arab-Israeli War in 1948-49, the IDF, particularly the Ground Force, has been guided by a requirement to rapidly mobilize and defend the country’s territory from numerically superior neighboring countries; the Ground Force has a relatively small active combat force of approximately 10 armored, mechanized infantry, paratrooper, and commandos/special forces brigades, plus an artillery corps, that is backed up by a large force of trained reserves—approximately 300-400,000 personnel—that can be mobilized rapidly into dozens of combat brigades; the Ground Force also controls Israel’s ballistic missile force; the Air Force has approximately 250 modern US-made combat aircraft, as well as one of the world’s most advanced theater missile defense systems; the Navy is largely a coastal defense force with a small but growing and largely modern inventory; its primary surface warships are seven German- and US-built corvettes, supplemented by a small flotilla of missile attack vessels and six German-made attack submarines<br><br>Israel’s primary security partner is the US; consistent with a 10-year (2019-2028) Memorandum of Understanding, the US annually provides over $3 billion in military financing and cooperative military programs, such as missile defense; the US also provides Israel access to US-produced military weapons systems including advanced fighter aircraft; Israel has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; UNDOF consists of about 1,000 military personnel (2023)<br>
+the IDF is responsible for external defense but also has some domestic security responsibilities; its primary operational focuses include the threat posed by Iran, instability in Syria, and terrorist organizations, including HAMAS and Hizballah, both of which are backed by Iran, Palestine Islamic Jihad (PIJ), and the Islamic State of Iraq and ash-Sham; it has considerable experience in conventional and unconventional warfare; since the country’s founding in 1948, the IDF has been in conflicts against one or more of its Arab neighbors in 1948-49, 1956, 1967, 1967-70 (“War of Attrition”), 1973, 1982, and 2006; it bombed nuclear sites in Iraq in 1981 and Syria in 2007, and since the outbreak of the Syrian civil war in 2011, has conducted numerous air strikes in Syria against Iranian, Iranian-backed militia, and Hizballah forces, and Syrian Government targets; over the same period, the IDF has carried out strikes against Hizballah in Lebanon in response to attacks on Israeli territory; these strikes followed an Israeli invasion of Lebanon in 2006, also to suppress Hizballah attacks; the IDF has conducted operations against HAMAS and PIJ, which operate out of the Gaza Strip and have launched numerous rocket attacks against Israel; HAMAS and Israel fought an 11-day conflict in 2021, which ended in an informal truce, although sporadic clashes continued; in October 2023, HAMAS conducted a surprise ground assault into Israel, supported by rockets and armed drones, killing more than 1,000 Israelis and foreigners living in Israel; the attack sparked another war with Israel, including an IDF ground invasion of Gaza; the IDF also has conducted security operations against Palestinians in the Israeli-occupied territories of East Jerusalem and the West Bank <br><br>since its creation from armed Jewish militias during the First Arab-Israeli War in 1948-49, the IDF, particularly the Ground Force, has been guided by a requirement to rapidly mobilize and defend the country’s territory from numerically superior neighboring countries<br><br>Israel’s primary security partner is the US; consistent with a 10-year (2019-2028) Memorandum of Understanding, the US annually provides over $3 billion in military financing and cooperative military programs, such as missile defense; the US also provides Israel access to US-produced military weapons systems including advanced fighter aircraft; Israel has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; UNDOF consists of about 1,000 military personnel (2023)<br>
 
 ## Space
 

@@ -512,66 +512,35 @@ _Currency_: Somali shillings (SOS) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 10 million (2020)<br>
-_electrification - total population_: 49.3% (2021)<br>
-_electrification - urban areas_: 70.6% (2021)<br>
-_electrification - rural areas_: 30.6% (2021)<br>
+_electrification - total population_: 48.9% (2022 est.)<br>
+_electrification - urban areas_: 76.7%<br>
+_electrification - rural areas_: 30.6%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 91,000 kW (2020 est.)<br>
-_consumption_: 311.2 million kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 35 million kWh (2019 est.)<br>
+_installed generating capacity_: 131,000 kW (2022 est.)<br>
+_consumption_: 362.985 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 15.408 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 95.3% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 3% of total installed capacity (2020 est.)<br>
-_wind_: 1.7% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 90.4% of total installed capacity (2022 est.)<br>
+_solar_: 8% of total installed capacity (2022 est.)<br>
+_wind_: 1.6% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_imports_: (2022 est.) less than 1 metric ton<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 5,900 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-5,590 bbl/day (2015 est.)<br>
+_refined petroleum consumption_: 6,000 bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
 _proven reserves_: 5.663 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 882,000 metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 882,000 metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 815,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 815,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 802,000 Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 661,000 Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -655,7 +624,7 @@ the SNA is lightly armed with an inventory that includes a variety of older, sec
 18 is the legal minimum age for voluntary military service for men and women; conscription of men aged 18-40 and women aged 18-30 is authorized, but not currently utilized (2023)<br>
 
 **Military - note**<br>
-the Somali National Army (SNA) and supporting security and militia forces are actively conducting operations against the al-Shabaab terrorist group; al-Shabaab controls large parts of southern and central Somalia (see Appendix T)<br><br>the SNA is a lightly armed force of approximately 13 brigades; its most effective units are assessed to be the US-trained Danab ("Lightning") Advanced Infantry Brigade and those of the Turkish-trained Gorgor ("Eagle") Special Division; as of 2023, the Danab Brigade numbered about 2,000 troops with an eventual projected strength of 3,000, while the Gorgor Division was estimated to have up to 5,000 trained troops; SNA soldiers have also received training from Egypt, Eritrea, Ethiopia, the European Union, Uganda, and the UK<br><br>the African Union Mission in Somalia (AMISOM) operated in the country with the approval of the UN from 2007-2022; its peacekeeping mission included assisting Somali forces in providing security for a stable political process, enabling the gradual handing over of security responsibilities from AMISOM to the Somali security forces, and reducing the threat posed by al-Shabaab and other armed opposition groups; in April 2022, AMISOM was reconfigured and replaced with the AU Transition Mission in Somalia (ATMIS); the ATMIS mission is to support the Somalia Federal Government (FGS) in implementing the security objectives of the FGS's security transition plan, a comprehensive strategy developed by the FGS and its international partners in 2018 and updated in 2021 to gradually transfer security responsibilities from ATMIS to Somali security forces; originally about 20,000-strong (civilians, military, and police), ATMIS began reducing its staffing levels in mid-2023; its planned departure from Somalia is the end of 2024 <br><br>UN Assistance Mission in Somalia (UNSOM; established 2013) is mandated by the Security Council to work with the FGS to support national reconciliation, provide advice on peace-building and state-building, monitor the human rights situation, and help coordinate the efforts of the international community; the UN Support Office in Somalia (UNSOS; established 2015) is responsible for providing logistical field support to ATMIS, UNSOM, and the Somali security forces on joint operations with ATMIS (2024)<br>
+the Somali National Army (SNA) and supporting security and militia forces are actively conducting operations against the al-Shabaab terrorist group; al-Shabaab controls large parts of southern and central Somalia (see Appendix T)<br><br>the SNA is a lightly armed force of more than a dozen brigades; its most effective units are assessed to be the US-trained Danab ("Lightning") Advanced Infantry Brigade and those of the Turkish-trained Gorgor ("Eagle") Special Division; as of 2023, the Danab Brigade numbered about 2,000 troops with an eventual projected strength of 3,000, while the Gorgor Division was estimated to have up to 5,000 trained troops; SNA soldiers have also received training from Egypt, Eritrea, Ethiopia, the EU, Uganda, and the UK<br><br>the African Union Mission in Somalia (AMISOM) operated in the country with the approval of the UN from 2007-2022; its peacekeeping mission included assisting Somali forces in providing security for a stable political process, enabling the gradual handing over of security responsibilities from AMISOM to the Somali security forces, and reducing the threat posed by al-Shabaab and other armed opposition groups; in April 2022, AMISOM was reconfigured and replaced with the AU Transition Mission in Somalia (ATMIS); the ATMIS mission is to support the Somalia Federal Government (FGS) in implementing the security objectives of the FGS's security transition plan, a comprehensive strategy developed by the FGS and its international partners in 2018 and updated in 2021 to gradually transfer security responsibilities from ATMIS to Somali security forces; originally about 20,000-strong (civilians, military, and police), ATMIS began reducing its staffing levels in mid-2023; its planned departure from Somalia is the end of 2024 <br><br>UN Assistance Mission in Somalia (UNSOM; established 2013) is mandated by the Security Council to work with the FGS to support national reconciliation, provide advice on peace-building and state-building, monitor the human rights situation, and help coordinate the efforts of the international community; the UN Support Office in Somalia (UNSOS; established 2015) is responsible for providing logistical field support to ATMIS, UNSOM, and the Somali security forces on joint operations with ATMIS (2024)<br>
 
 ## Terrorism
 

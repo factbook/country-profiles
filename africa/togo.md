@@ -559,66 +559,41 @@ _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 5 million (2020)<br>
-_electrification - total population_: 55.7% (2021)<br>
-_electrification - urban areas_: 96.3% (2021)<br>
-_electrification - rural areas_: 24.6% (2021)<br>
+_electrification - total population_: 57.2% (2022 est.)<br>
+_electrification - urban areas_: 96.5%<br>
+_electrification - rural areas_: 25%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 210,000 kW (2020 est.)<br>
-_consumption_: 1,180,140,000 kWh (2019 est.)<br>
-_exports_: 118 million kWh (2019 est.)<br>
-_imports_: 963 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 210 million kWh (2019 est.)<br>
+_installed generating capacity_: 309,000 kW (2022 est.)<br>
+_consumption_: 1.562 billion kWh (2022 est.)<br>
+_imports_: 796.563 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 121.682 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 82.2% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.6% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 17.2% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 74.4% of total installed capacity (2022 est.)<br>
+_solar_: 6.8% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 18.4% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.4% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 46,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 46,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 108,000 metric tons (2022 est.)<br>
+_imports_: 108,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 10,000 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-13,100 bbl/day (2015 est.)<br>
+_refined petroleum consumption_: 12,000 bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2020 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 44.797 million cubic meters (2019 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_consumption_: 131.373 million cubic meters (2022 est.)<br>
+_imports_: 131.373 million cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 2.244 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 706,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 1.451 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 87,000 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 2.306 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 257,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 1.793 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 256,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 4.113 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 4.077 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -717,7 +692,7 @@ the FAT has a small, mixed inventory of mostly older equipment from a variety of
 <strong>note:</strong> as of 2022, about 7% of the military's personnel were women<br>
 
 **Military - note**<br>
-since its creation in 1963, the Togolese military has had a history of interfering in the country’s politics with assassinations, coups, influence, and a large military crackdown in 2005 that killed hundreds; over the past decade, however, it has made some efforts to reform and professionalize, as well as increase its role in UN peacekeeping activities; Togo maintains a regional peacekeeping training center for military and police in Lome; the military participates in multinational exercises and has received training from foreign partners, including France and the US<br><br>the FAT’s current focuses are primarily terrorism and maritime security; in recent years, it has increased operations in the northern border region of the country to boost border security and prevent terrorist infiltrations from Jama'at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida-affiliated militant groups based in Mali that also operates in neighboring Burkina Faso; in 2022, the Togolese Government declared a state of emergency in the north due to the threat from JNIM following an attack on a Togolese military post that killed several soldiers; the Navy and Air Force have increased focus on combating piracy and smuggling in the Gulf of Guinea<br><br>the Army has a mixed force of small, lightly-armed combined arms, infantry, and commando regiments, as well as a rapid reaction force; the Gendarmerie includes mobile, regionally-based, and maritime units; the Navy operates a few patrol boats while the Air Force has a small inventory of training, light attack-capable, and transport aircraft, as well as combat helicopters and a few armed UAVs acquired from Turkey in 2022 (2023)<br>
+since its creation in 1963, the Togolese military has had a history of interfering in the country’s politics with assassinations, coups, influence, and a large military crackdown in 2005 that killed hundreds; over the past decade, however, it has made some efforts to reform and professionalize, as well as increase its role in UN peacekeeping activities; Togo maintains a regional peacekeeping training center for military and police in Lome; the military participates in multinational exercises and has received training from foreign partners, including France and the US<br><br>the FAT’s current focuses are primarily terrorism and maritime security; in recent years, it has increased operations in the northern border region of the country to boost border security and prevent terrorist infiltrations from Jama'at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida-affiliated militant groups based in Mali that also operates in neighboring Burkina Faso; in 2022, the Togolese Government declared a state of emergency in the north due to the threat from JNIM following an attack on a Togolese military post that killed several soldiers; the Navy and Air Force have increased focus on combating piracy and smuggling in the Gulf of Guinea (2023)<br>
 
 ## Terrorism
 

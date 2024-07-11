@@ -390,7 +390,7 @@ _selected World Heritage Site locales_: Boyana Church (c); Madara Rider (c); Thr
 ## Economy
 
 **Economic overview**<br>
-upper-middle-income EU economy; improving living standards and very robust economic growth; coal-based infrastructure; legacy structural vulnerabilities and widespread corruption; increasing Russian economic relations, particularly through energy trade<br>
+upper-middle-income EU economy; currency pegged to the euro with accession pending; joined Schengen area as of March 2024; global events and internal political turmoil triggered export slump and stalled reforms; EU structural funds contributing to investment recovery; skilled labor shortage driven by emigration and aging population<br>
 
 **Real GDP (purchasing power parity)**<br>
 $174.307 billion (2022 est.)<br>
@@ -560,73 +560,58 @@ _Currency_: leva (BGN) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 99.8% (2021)<br>
-_electrification - urban areas_: 99.9% (2021)<br>
-_electrification - rural areas_: 99.5% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
+_electrification - urban areas_: 100%<br>
+_electrification - rural areas_: 99.6%<br>
 
 **Electricity**<br>
-_installed generating capacity_: 11.097 million kW (2020 est.)<br>
-_consumption_: 30,905,170,000 kWh (2019 est.)<br>
-_exports_: 7.115 billion kWh (2020 est.)<br>
-_imports_: 3.707 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 2.767 billion kWh (2019 est.)<br>
+_installed generating capacity_: 12.031 million kW (2022 est.)<br>
+_consumption_: 35.369 billion kWh (2022 est.)<br>
+_exports_: 13.665 billion kWh (2022 est.)<br>
+_imports_: 1.47 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 2.616 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 36.5% of total installed capacity (2020 est.)<br>
-_nuclear_: 44.7% of total installed capacity (2020 est.)<br>
-_solar_: 4% of total installed capacity (2020 est.)<br>
-_wind_: 4% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 9.1% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1.9% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 48.6% of total installed capacity (2022 est.)<br>
+_nuclear_: 32.8% of total installed capacity (2022 est.)<br>
+_solar_: 4% of total installed capacity (2022 est.)<br>
+_wind_: 3% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 7.2% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 4.5% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 2 (2023)<br>
-_Number of nuclear reactors under construction_: 0<br>
-_Net capacity of operational nuclear reactors_: 2.01GW (2023)<br>
-_Percent of total electricity production_: 34.6% (2021)<br>
-_Percent of total energy produced_: 40% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 2<br>
+_Net capacity of operational nuclear reactors_: 2.01GW (2023 est.)<br>
+_Percent of total electricity production_: 40.3% (2023 est.)<br>
+_Number of nuclear reactors permanently shut down_: 4 (2023)<br>
 
 **Coal**<br>
-_production_: 22.298 million metric tons (2020 est.)<br>
-_consumption_: 23.213 million metric tons (2020 est.)<br>
-_exports_: 35,000 metric tons (2020 est.)<br>
-_imports_: 675,000 metric tons (2020 est.)<br>
-_proven reserves_: 2.366 billion metric tons (2019 est.)<br>
+_production_: 35.516 million metric tons (2022 est.)<br>
+_consumption_: 35.97 million metric tons (2022 est.)<br>
+_exports_: 504,000 metric tons (2022 est.)<br>
+_imports_: 928,000 metric tons (2022 est.)<br>
+_proven reserves_: 2.366 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 4,500 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 97,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 119,800 bbl/day (2018 est.)<br>
+_total petroleum production_: 4,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 101,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 15 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-144,300 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-92,720 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-49,260 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 62.439 million cubic meters (2020 est.)<br>
-_consumption_: 2,929,401,000 cubic meters (2019 est.)<br>
-_exports_: 2.747 million cubic meters (2020 est.)<br>
-_imports_: 2,950,157,000 cubic meters (2019 est.)<br>
+_production_: 20.837 million cubic meters (2022 est.)<br>
+_consumption_: 2.801 billion cubic meters (2022 est.)<br>
+_exports_: 2.75 million cubic meters (2020 est.)<br>
+_imports_: 2.911 billion cubic meters (2022 est.)<br>
 _proven reserves_: 5.663 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 38.373 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 20.483 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 12.248 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 5.642 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 43.234 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 24.654 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 13.185 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 5.395 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 103.924 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 107.943 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -748,9 +733,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 _refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 72,775 (Ukraine) (as of 8 March 2024)<br>
 _stateless persons_: 1,129 (2022)<br>
 <strong>note:</strong> 106,227 estimated refugee and migrant arrivals (January 2015-January 2024); Bulgaria is predominantly a transit country<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Bulgaria does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials convicted more traffickers, informally adopted new National Action Plans for 2022 and 2023, and utilized seized assets to supplement shelters and service centers assisting victims; the government mandated specialized training for investigative prosecutors and magistrates and required assignment of trafficking cases to those individuals; the National Investigative Service established a cyber unit, focusing on internet-based exploitation, including trafficking; Bulgaria and Germany cooperated on a bilateral program to combat labor trafficking, information campaigns targeting the large number of Bulgarians seeking jobs in Germany, and a referral mechanism for trafficking cases between countries; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; courts continued to issue suspended sentences for most convicted traffickers; officials did not adequately screen for trafficking indicators or identify victims, particularly among vulnerable groups such as Roma; the government provided limited funding to NGOs for victim services and a national commission for capacity building and implementation of anti-trafficking activities, limiting the sustainability of the government&rsquo;s anti-trafficking systems; a lack of resources, legal authority, and training impeded law enforcement; corruption in law enforcement and the judiciary hindered progress, and alleged complicity in trafficking crimes persisted; therefore, Bulgaria remained on Tier 2 Watch List for the second consecutive year (2023)&nbsp;<br>
 
 **Illicit drugs**<br>
 source country for amphetamine tablets<br>

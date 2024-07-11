@@ -412,18 +412,7 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 99.9% (2021)<br>
-_electrification - urban areas_: 99.9% (2021)<br>
-_electrification - rural areas_: 99.9% (2021)<br>
-
-**Refined petroleum products - production**<br>
-11.66 million bbl/day (2016 est.)<br>
-
-**Refined petroleum products - exports**<br>
-2.196 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-8.613 million bbl/day (2017 est.)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
 3.475 billion metric tonnes of CO2 (2015 est.)<br>

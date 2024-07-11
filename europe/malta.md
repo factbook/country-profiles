@@ -537,63 +537,39 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 784,000 kW (2020 est.)<br>
-_consumption_: 2,497,143,000 kWh (2019 est.)<br>
-_exports_: 4 million kWh (2020 est.)<br>
-_imports_: 420 million kWh (2020 est.)<br>
-_transmission/distribution losses_: 158 million kWh (2019 est.)<br>
+_installed generating capacity_: 805,000 kW (2022 est.)<br>
+_consumption_: 2.786 billion kWh (2022 est.)<br>
+_exports_: 7 million kWh (2022 est.)<br>
+_imports_: 646 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 95.168 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 88.5% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 11.2% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.3% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 86.8% of total installed capacity (2022 est.)<br>
+_solar_: 12.9% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.3% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 8.4 metric tons (2021 est.)<br>
+_exports_: (2022 est.) less than 1 metric ton<br>
+_imports_: 3.9 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 54,000 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-10,400 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-52,290 bbl/day (2015 est.)<br>
+_refined petroleum consumption_: 46,000 bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 415.606 million cubic meters (2020 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 415.606 million cubic meters (2020 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_consumption_: 399.719 million cubic meters (2022 est.)<br>
+_imports_: 399.719 million cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 9.576 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 8.831 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 745,000 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 8.352 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 7.586 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 766,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 267.739 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 226.072 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -680,7 +656,7 @@ the military has a small inventory that consists of equipment from a mix of Euro
 18-30 years of age for men and women for voluntary military service; no conscription (2024)<br>
 
 **Military - note**<br>
-the Armed Forces of Malta (AFM) are responsible for external security but also have some domestic security responsibilities; the AFM’s primary roles include maintaining the country’s sovereignty and territorial integrity, monitoring and policing its territorial waters, participating in overseas peacekeeping and stability operations, and providing search and rescue and explosive ordnance disposal capabilities; secondary missions include assisting civil authorities during emergencies, supporting the police and other security services, and providing ceremonial and other public support duties; the AFM has a joint force headquarters with five subordinate units—three land regiments, an air wing, and a maritime squadron; the air wing does not have any fighter aircraft but has both fixed and rotary wing aircraft for such tasks as maritime law enforcement and surveillance, reconnaissance, search and rescue, and transport; the maritime squadron is outfitted with both offshore patrol vessels and inshore patrol boats, and includes a small marine force element for maritime law enforcement and boarding operations, as well as a small land component tasked with defending the territorial integrity of the island of Gozo and providing military assistance to the Malta Police Force and other government departments<br><br>Malta maintains a security policy of neutrality but contributes to EU and UN military missions and joined NATO’s Partnership for Peace program in 1995 (suspended in 1996, but reactivated in 2008); it also participates in various bilateral and multinational military exercises; Malta cooperates closely with Italy on defense matters; in 1973, Italy established a military mission in Malta to provide advice, training, and search and rescue assistance (2023)<br>
+the Armed Forces of Malta (AFM) are responsible for external security but also have some domestic security responsibilities; the AFM’s primary roles include maintaining the country’s sovereignty and territorial integrity, monitoring and policing its territorial waters, participating in overseas peacekeeping and stability operations, and providing search and rescue and explosive ordnance disposal capabilities; secondary missions include assisting civil authorities during emergencies, supporting the police and other security services, and providing ceremonial and other public support duties<br><br>Malta maintains a security policy of neutrality but contributes to EU and UN military missions and joined NATO’s Partnership for Peace program in 1995 (suspended in 1996, but reactivated in 2008); it also participates in various bilateral and multinational military exercises; Malta cooperates closely with Italy on defense matters; in 1973, Italy established a military mission in Malta to provide advice, training, and search and rescue assistance (2023)<br>
 
 ## Transnational Issues
 

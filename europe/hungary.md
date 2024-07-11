@@ -570,71 +570,54 @@ _Currency_: forints (HUF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 10.873 million kW (2020 est.)<br>
-_consumption_: 41.533 billion kWh (2020 est.)<br>
-_exports_: 7.498 billion kWh (2020 est.)<br>
-_imports_: 19.176 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 3.139 billion kWh (2020 est.)<br>
+_installed generating capacity_: 11.995 million kW (2022 est.)<br>
+_consumption_: 43.186 billion kWh (2022 est.)<br>
+_exports_: 9.439 billion kWh (2022 est.)<br>
+_imports_: 21.589 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 2.801 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 36.1% of total installed capacity (2020 est.)<br>
-_nuclear_: 46% of total installed capacity (2020 est.)<br>
-_solar_: 7.4% of total installed capacity (2020 est.)<br>
-_wind_: 2% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 0.7% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0.5% of total installed capacity (2020 est.)<br>
-_geothermal_: 0.1% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 7.3% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 33.1% of total installed capacity (2022 est.)<br>
+_nuclear_: 44.2% of total installed capacity (2022 est.)<br>
+_solar_: 13.6% of total installed capacity (2022 est.)<br>
+_wind_: 1.8% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 0.5% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 6.8% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 4 (2023)<br>
-_Number of nuclear reactors under construction_: 0<br>
-_Net capacity of operational nuclear reactors_: 1.92GW (2023)<br>
-_Percent of total electricity production_: 46.8% (2021)<br>
-_Percent of total energy produced_: 44% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 0<br>
+_Net capacity of operational nuclear reactors_: 1.92GW (2023 est.)<br>
+_Percent of total electricity production_: 48.8% (2023 est.)<br>
 
 **Coal**<br>
-_production_: 6.956 million metric tons (2020 est.)<br>
-_consumption_: 8.079 million metric tons (2020 est.)<br>
-_exports_: 230,000 metric tons (2020 est.)<br>
-_imports_: 1.395 million metric tons (2020 est.)<br>
-_proven reserves_: 2.909 billion metric tons (2019 est.)<br>
+_production_: 5.45 million metric tons (2022 est.)<br>
+_consumption_: 6.18 million metric tons (2022 est.)<br>
+_exports_: 132,000 metric tons (2022 est.)<br>
+_imports_: 804,000 metric tons (2022 est.)<br>
+_proven reserves_: 2.909 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 35,200 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 180,600 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 8,000 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 134,800 bbl/day (2018 est.)<br>
+_total petroleum production_: 36,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 175,000 bbl/day (2023 est.)<br>
 _crude oil estimated reserves_: 12.1 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-152,400 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-58,720 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-82,110 bbl/day (2017 est.)<br>
-
 **Natural gas**<br>
-_production_: 1.685 billion cubic meters (2020 est.)<br>
-_consumption_: 10.545 billion cubic meters (2020 est.)<br>
-_exports_: 3.758 billion cubic meters (2020 est.)<br>
-_imports_: 11.678 billion cubic meters (2020 est.)<br>
+_production_: 1.523 billion cubic meters (2022 est.)<br>
+_consumption_: 9.485 billion cubic meters (2022 est.)<br>
+_imports_: 9.314 billion cubic meters (2022 est.)<br>
 _proven reserves_: 3.738 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 48.589 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 7.501 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 21.568 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 19.52 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 44.884 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 4.915 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 21.781 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 18.187 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 108.212 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 102.832 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -647,8 +630,8 @@ _total subscriptions_: 10.372 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 104 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Hungary benefits from having a developed telecom infrastructure, with a focus among operators to develop the 5G sector and upgrade fixed networks to provide a 1Gb/s service; services based on 5G have been supported by the January 2021 multi-spectrum auction for spectrum in the 900MHz and 1800MHz bands; the number of fixed-lines continues to fall as subscribers migrate to the mobile platform for voice and data services; operators have looked to bundled packages to boost revenue and retain subscribers; the broadband market has effective infrastructure-based competition, with an extensive cable network competing against DSL services and a vibrant and rapidly expanding fiber sector; the regulator has also introduced a number of measures aimed at promoting market competition, which is pushing the drive for higher speed platforms and encouraging operators to invest in technology upgrades; as a result, Hungary now has the highest fixed broadband penetration rate in Eastern Europe; the number of super fast broadband connections (above 30Mb/s) accounted for 78% of all fixed broadband connections (2022)<br>
-_domestic_: fixed-line connections, with 30 fixed per 100 persons and 106 mobile-cellular subscriptions per 100 (2021)<br>
+_general assessment_: <p>Hungary’s telecom infrastructure has been upgraded in recent years following considerable investments made by telcos as they upgrade their mobile networks to 5G and deploy more fiber; these developments have helped operators to promote converged fixed and mobile service; the number of fixed lines continue to fall as subscribers migrate to the mobile platform for voice and data services; a number of measures aimed at promoting competition in the broadband market encourage investment in technology upgrades; Hungary has the highest fixed broadband penetration rate in Eastern Europe; there remains considerable growth in mobile broadband services delivered via upgraded networks; 5G development is supported by the government, universities, other telcos, and vendors</p> (2024)<br>
+_domestic_: fixed-line connections, with 29 fixed per 100 persons and 104 mobile-cellular subscriptions per 100 (2022)<br>
 _international_: country code - 36; Hungary has fiber-optic cable connections with all neighboring countries; the international switch is in Budapest; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean regions), 1 Inmarsat, 1 (very small aperture terminal) VSAT system of ground terminals<br>
 
 **Broadcast media**<br>

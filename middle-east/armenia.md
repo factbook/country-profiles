@@ -551,71 +551,49 @@ _Currency_: drams (AMD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 3.633 million kW (2020 est.)<br>
-_consumption_: 5,758,470,000 kWh (2019 est.)<br>
-_exports_: 1.251 billion kWh (2020 est.)<br>
-_imports_: 320 million kWh (2020 est.)<br>
-_transmission/distribution losses_: 548 million kWh (2019 est.)<br>
+_installed generating capacity_: 3.893 million kW (2022 est.)<br>
+_consumption_: 7.393 billion kWh (2022 est.)<br>
+_exports_: 1.12 billion kWh (2022 est.)<br>
+_imports_: 362.079 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 621.552 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 40.6% of total installed capacity (2020 est.)<br>
-_nuclear_: 34.8% of total installed capacity (2020 est.)<br>
-_solar_: 0.3% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 24.3% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 43.4% of total installed capacity (2022 est.)<br>
+_nuclear_: 30% of total installed capacity (2022 est.)<br>
+_solar_: 3.8% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 22.8% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 1 (2023)<br>
-_Number of nuclear reactors under construction_: 0<br>
-_Net capacity of operational nuclear reactors_: 0.42GW (2023)<br>
-_Percent of total electricity production_: 25.3% (2021)<br>
-_Percent of total energy produced_: 52.3% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 0<br>
+_Net capacity of operational nuclear reactors_: 0.42GW (2023 est.)<br>
+_Percent of total electricity production_: 31.1% (2023 est.)<br>
+_Number of nuclear reactors permanently shut down_: 1 (2023)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 12,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 12,000 metric tons (2020 est.)<br>
-_proven reserves_: 163 million metric tons (2019 est.)<br>
+_production_: 60 metric tons (2022 est.)<br>
+_consumption_: 23,000 metric tons (2022 est.)<br>
+_exports_: 32.3 metric tons (2022 est.)<br>
+_imports_: 47,000 metric tons (2022 est.)<br>
+_proven reserves_: 317 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 10,900 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-7,145 bbl/day (2015 est.)<br>
+_refined petroleum consumption_: 14,000 bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 2,537,497,000 cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 2,514,220,000 cubic meters (2019 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_consumption_: 2.861 billion cubic meters (2022 est.)<br>
+_imports_: 2.861 billion cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 6.354 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 12,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 1.364 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 4.978 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 7.344 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 62,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 1.669 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 5.613 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 53.019 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 60.957 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -628,8 +606,8 @@ _total subscriptions_: 3.761 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 135 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Armenia&rsquo;s telecom sector was able to post in the mobile and broadband segments; its fixed-line penetration continues to slide downwards, with the rollout of fiber networks which have encouraged the increase in bundled services; the fixed broadband market remains undeveloped due to the lack of underlying infrastructure outside the main cities (2021)<br>
-_domestic_: roughly 15 per 100 fixed-line and 129 per 100 mobile-cellular; reliable fixed-line and mobile-cellular services are available across Yerevan and in major cities and towns; mobile-cellular coverage available in most rural areas (2021)<br>
+_general assessment_: <p>the telecom sector was able to post modest gains in the mobile and broadband segments; fixed-line services continue to decrease with the rollout of fiber networks; the fixed broadband market remains undeveloped due to the lack of infrastructure outside the main cities; mobile broadband is expected increase by 2026</p> (2024)<br>
+_domestic_: roughly 13 per 100 fixed-line and 135 per 100 mobile-cellular; reliable fixed-line and mobile-cellular services are available across Yerevan and in major cities and towns; mobile-cellular coverage available in most rural areas (2022)<br>
 _international_: country code - 374; Yerevan is connected to the&nbsp;Caucasus Cable System&nbsp;fiber-optic cable through Georgia and Iran to Europe; additional international service is available by microwave radio relay and landline connections to the other countries of the Commonwealth of Independent States, through the Moscow international switch, and by satellite to the rest of the world; satellite earth stations - 3 (2019)<br>
 
 **Broadcast media**<br>

@@ -329,10 +329,10 @@ _residency requirement for naturalization_: 10 years; reduced to five years in t
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Notification Statement: the United States does not recognize Nicolas MADURO Moros as president of Venezuela<br><br>President Nicolas MADURO Moros (since 19 April 2013) <br>
+_chief of state_: Notification Statement: the United States does not recognize Nicolas MADURO Moros as president of Venezuela<br><br>President Nicolas MADURO Moros (since 19 April 2013)<br>
 _head of government_: President Nicolas MADURO Moros (since 19 April 2013)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 20 May 2018 (next to be held in the second half of 2024)<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 20 May 2018 (next to be held on 28 July 2024)<br>
 _election results_: <br><em>2018: </em>Nicolas MADURO Moros reelected president; percent of vote - Nicolas MADURO Moros (PSUV) 67.9%, Henri FALCON (AP) 20.9%, Javier BERTUCCI 10.8%; note - the election was reportedly marred by serious shortcomings and electoral fraud<br><br><em>2013:</em> Nicolas MADURO Moros elected president; percent of vote - Nicolas MADURO Moros (PSUV) 50.6%, Henrique CAPRILES Radonski (PJ) 49.1%, other 0.3%<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
@@ -545,66 +545,44 @@ _Currency_: bolivars (VEB) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) less than 1 million<br>
-_electrification - total population_: 99.9% (2021)<br>
-_electrification - urban areas_: 100% (2021)<br>
-_electrification - rural areas_: 99.8% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 32.956 million kW (2020 est.)<br>
-_consumption_: 78,082,020,000 kWh (2019 est.)<br>
-_exports_: 870 million kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 26.452 billion kWh (2019 est.)<br>
+_installed generating capacity_: 34.742 million kW (2022 est.)<br>
+_consumption_: 56.768 billion kWh (2022 est.)<br>
+_exports_: 652 million kWh (2020 est.)<br>
+_transmission/distribution losses_: 27.882 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 30.5% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0% of total installed capacity (2020 est.)<br>
-_wind_: 0.1% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 69.4% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 22.3% of total installed capacity (2022 est.)<br>
+_wind_: 0.1% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 77.6% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 396,000 metric tons (2020 est.)<br>
-_consumption_: 33,000 metric tons (2020 est.)<br>
-_exports_: 685,000 metric tons (2020 est.)<br>
-_imports_: 1,000 metric tons (2020 est.)<br>
-_proven reserves_: 731 million metric tons (2019 est.)<br>
+_production_: 197,000 metric tons (2022 est.)<br>
+_consumption_: 82,000 metric tons (2022 est.)<br>
+_exports_: 124,000 metric tons (2022 est.)<br>
+_imports_: 300 metric tons (2022 est.)<br>
+_proven reserves_: 730.999 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 604,800 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 470,600 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 1,002,700 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
+_total petroleum production_: 761,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 367,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 303.806 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-926,300 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-325,800 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-20,640 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 22,694,584,000 cubic meters (2019 est.)<br>
-_consumption_: 22,694,584,000 cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2020 est.)<br>
-_proven reserves_: 5,673,894,000,000 cubic meters (2021 est.)<br>
+_production_: 17.696 billion cubic meters (2022 est.)<br>
+_consumption_: 17.696 billion cubic meters (2022 est.)<br>
+_proven reserves_: 5.674 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 103.708 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 108,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 57.378 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 46.222 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 80.769 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 188,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 44.539 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 36.042 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 85.829 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 57.282 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -703,7 +681,7 @@ the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of
 18-30 (25 for women) for voluntary service; the minimum service obligation is 24-30 months; all citizens of military service age (18-50) are obligated to register for military service and subject to military training, although &ldquo;forcible recruitment&rdquo; is forbidden (2023)<br>
 
 **Military - note**<br>
-the armed forces (FANB) are responsible for ensuring Venezuela’s independence, sovereignty, and territorial integrity but also have a domestic role, including assisting with maintaining internal order and law enforcement, contributing to national socio-economic development, and providing disaster/humanitarian assistance; the military conducts internal security operations in large parts of the country and has been deployed against illegal armed groups operating in the Colombian border region and other areas to combat organized crime gangs involved in narcotics trafficking and illegal mining<br><br>the military has a large role in the country’s economy and political sectors; between 2013 and 2017, Venezuela established at least a dozen military-led firms in economic areas such as agriculture, banking, construction, insurance, the media, mining, oil, and tourism; military officers reportedly lead as many as 60 state-owned companies; as of 2023, 14 of 32 government ministries were controlled by the military, including the ministries of agriculture, food, petroleum, and water<br><br>the FANB is deployed throughout the country in one maritime and seven geographical regional commands known as Integral Strategic Defense Regions (Regiones Estrategicas de Defensa Integral or REDI) that are mandated to provide for the defense, security, social, and economic needs of their respective areas of responsibility; the REDIs are further broken down into zones and state commands; the Army has six divisional headquarters and approximately 20 combat brigades spread amongst the seven REDIs; the brigades are a mix of armored, artillery, infantry, military police, motorized cavalry, and special operations forces; some infantry brigades are mechanized or are specialized for airborne, jungle, mountain, or security operations; the Army also has an aviation brigade; the Navy is a coastal defense force and includes commands for operations, aviation, and the coast guard; the operational readiness of the Navy’s ship inventory has been affected by Venezuela’s economic problems; its principal operational warships include two frigates and approximately four ocean-going patrol ships; it also has two attack submarines although they are not assessed to be operational; the Navy has a marine infantry force that includes several amphibious or riverine brigades and a special operations brigade; the Air Force has less than 50 US- and Russian-made fighters and multirole fighter aircraft<br><br>the National Guard is organized into nine regional commands which control battalion and regimental size units; the Bolivarian Militia is reportedly divided into a reserve service, a territorial guard component comprised of local battalions and detachments, and a coastal guard force<br><br>members of the terrorist organizations National Liberation Army (ELN) and Revolutionary Armed Forces of Colombia dissidents (FARC-People's Army and Segundo Marquetalia - see Appendix T) operate in Venezuela, mostly in the states of Amazonas, Apure, Bolivar, Guarico, Tachira, and Zulia; the ELN is assessed to be present in 12 of Venezuela’s 23 states; the groups are particularly active in Apure state; the Venezuelan military has been deployed to the border region to patrol border crossings and has clashed with both the ELN and the FARC dissident groups (2023)<br>
+the armed forces (FANB) are responsible for ensuring Venezuela’s independence, sovereignty, and territorial integrity but also have a domestic role, including assisting with maintaining internal order and law enforcement, contributing to national socio-economic development, and providing disaster/humanitarian assistance; the military conducts internal security operations in large parts of the country and has been deployed against illegal armed groups operating in the Colombian border region and other areas to combat organized crime gangs involved in narcotics trafficking and illegal mining<br><br>the military has a large role in the country’s economy and political sectors; between 2013 and 2017, Venezuela established at least a dozen military-led firms in economic areas such as agriculture, banking, construction, insurance, the media, mining, oil, and tourism; military officers reportedly lead as many as 60 state-owned companies; as of 2023, 14 of 32 government ministries were controlled by the military, including the ministries of agriculture, food, petroleum, and water<br><br>the FANB is deployed throughout the country in one maritime and seven geographical regional commands known as Integral Strategic Defense Regions (Regiones Estrategicas de Defensa Integral or REDI) that are mandated to provide for the defense, security, social, and economic needs of their respective areas of responsibility; the REDIs are further broken down into zones and state commands; the National Guard is also organized into regional commands, while the Bolivarian Militia is reportedly divided into a reserve service, a territorial guard component comprised of local battalions and detachments, and a coastal guard force<br><br>members of the terrorist organizations National Liberation Army (ELN) and Revolutionary Armed Forces of Colombia dissidents (FARC-People's Army and Segundo Marquetalia - see Appendix T) operate in Venezuela, mostly in the states of Amazonas, Apure, Bolivar, Guarico, Tachira, and Zulia, although the ELN is assessed to be present in 12 of Venezuela’s 23 states; the groups are particularly active in Apure state; the Venezuelan military has been deployed to the border region to patrol border crossings and has clashed with both the ELN and the FARC dissident groups (2023)<br>
 
 ## Space
 

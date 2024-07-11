@@ -563,65 +563,38 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 99.7% (2021)<br>
-_electrification - urban areas_: 100% (2021)<br>
-_electrification - rural areas_: 99.3% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 1.007 million kW (2020 est.)<br>
-_consumption_: 3,246,760,000 kWh (2019 est.)<br>
-_exports_: 943 million kWh (2019 est.)<br>
-_imports_: 1.196 billion kWh (2019 est.)<br>
-_transmission/distribution losses_: 493 million kWh (2019 est.)<br>
+_installed generating capacity_: 1.066 million kW (2022 est.)<br>
+_consumption_: 2.963 billion kWh (2022 est.)<br>
+_exports_: 8.326 billion kWh (2022 est.)<br>
+_imports_: 8.467 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 507.151 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 42.3% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0% of total installed capacity (2020 est.)<br>
-_wind_: 10.5% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 47.2% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 47% of total installed capacity (2022 est.)<br>
+_solar_: 0.1% of total installed capacity (2022 est.)<br>
+_wind_: 9.8% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 43.1% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 1.456 million metric tons (2020 est.)<br>
-_consumption_: 1.351 million metric tons (2020 est.)<br>
-_exports_: 96,000 metric tons (2020 est.)<br>
-_imports_: 1,000 metric tons (2020 est.)<br>
-_proven reserves_: 142 million metric tons (2019 est.)<br>
+_production_: 1.734 million metric tons (2022 est.)<br>
+_consumption_: 1.517 million metric tons (2022 est.)<br>
+_exports_: 234,000 metric tons (2022 est.)<br>
+_imports_: 2.8 metric tons (2022 est.)<br>
+_proven reserves_: 337 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 7,600 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-357 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-6,448 bbl/day (2015 est.)<br>
-
-**Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 0 cubic meters (2021 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_refined petroleum consumption_: 8,000 bbl/day (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 2.447 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 1.333 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 1.114 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 2.566 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 1.401 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 1.165 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 77.286 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 59.174 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -713,7 +686,7 @@ the military's inventory is small and consists mostly of Soviet-era equipment in
 <strong>note:</strong> as of 2023, women made up over 15% of the military's full-time personnel<br>
 
 **Military - note**<br>
-the Army of Montenegro is a small military focused on the defense of Montenegro’s sovereignty and territorial integrity, cooperating in international and multinational security, and assisting civil authorities during emergencies such as natural disasters; since Montenegro joined NATO in 2017, another focus has been integrating into the Alliance, including adapting NATO standards for planning and professionalization, structural reforms, and modernization by replacing its Soviet-era equipment; the Army trains and exercises with NATO partners and actively supports NATO missions and operations, committing small numbers of troops in Afghanistan, Kosovo, and NATO’s Enhanced Forward Presence mission in Eastern Europe; a few personnel have also been deployed on EU- and UN-led operations<br><br>the combat units of the Ground Forces include an infantry battalion, plus artillery and special forces; there are two additional infantry battalions in reserve; the Air Force has ground air defense units but no combat aircraft; the Navy is a coastal defense force with a small inventory of coastal patrol craft and patrol boats, plus a marine/special forces detachment (2023)<br>
+the Army of Montenegro is a small military focused on the defense of Montenegro&rsquo;s sovereignty and territorial integrity, cooperating in international and multinational security, and assisting civil authorities during emergencies such as natural disasters; since Montenegro joined NATO in 2017, another focus has been integrating into the Alliance, including adapting NATO standards for planning and professionalization, structural reforms, and modernization by replacing its Soviet-era equipment; the Army trains and exercises with NATO partners and actively supports NATO missions and operations, committing small numbers of troops in Afghanistan, Kosovo, and NATO&rsquo;s Enhanced Forward Presence mission in Eastern Europe; a few personnel have also been deployed on EU- and UN-led operations (2023)<br>
 
 ## Terrorism
 
@@ -723,9 +696,6 @@ the Army of Montenegro is a small military focused on the defense of Montenegro�
 _refugees (country of origin)_: 65,105 (Ukraine) (as of 29 January 2024)<br>
 _stateless persons_: 468 (2022)<br>
 <strong>note:</strong> 34,511 estimated refugee and migrant arrivals (January 2015-March 2024)<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Montenegro does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government prosecuted more defendants and identified more trafficking victims, adopted the National Action Plan for 2022, and coordinating bodies met consistently; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; officials did not convict any traffickers and reorganized the police office dedicated to investigating trafficking, reducing its ability to conduct proactive investigations; the government did not act quickly to protect victims after experts published credible allegations of abuse by an employee with management duties for the government-funded NGO-run anti-trafficking shelter, including physical violence, intimidation, and blackmail; although civil society and international organizations ceased victim referrals to the shelter, the government did not suspend its license and funding, continued to refer two child victims, and funded the shelter until the grant ended in December 2022; afterwards, Montenegro did not renew the shelter&rsquo;s grant and decided to start renovating a government-run shelter for child trafficking victims; the government attempted to organize accommodations for child victims in foster families, but it did not develop a plan to provide protection for adult victims; therefore, Montenegro was downgraded to Tier 2 Watch List (2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine destined for European markets</p><br>

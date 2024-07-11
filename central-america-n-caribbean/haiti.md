@@ -542,66 +542,37 @@ _Currency_: gourdes (HTG) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 7 million (2020)<br>
-_electrification - total population_: 47.1% (2021)<br>
-_electrification - urban areas_: 81.8% (2021)<br>
-_electrification - rural areas_: 3% (2020)<br>
+_electrification - total population_: 49.3% (2022 est.)<br>
+_electrification - urban areas_: 83%<br>
+_electrification - rural areas_: 1.2% (2019 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 3.453 million kW (2020 est.)<br>
-_consumption_: 339 million kWh (2019 est.)<br>
-_exports_: 0 kWh (2019 est.)<br>
-_imports_: 0 kWh (2019 est.)<br>
-_transmission/distribution losses_: 643 million kWh (2019 est.)<br>
+_installed generating capacity_: 471,000 kW (2022 est.)<br>
+_consumption_: 418.367 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 624 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 85.8% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.3% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 13.9% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 85.9% of total installed capacity (2022 est.)<br>
+_solar_: 0.3% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 13.8% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 0 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 0 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_imports_: 5.7 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 21,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-20,030 bbl/day (2015 est.)<br>
+_refined petroleum consumption_: 19,000 bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 3.341 million cubic meters (2020 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 3.341 million cubic meters (2020 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_consumption_: 3.256 million cubic meters (2022 est.)<br>
+_imports_: 3.256 million cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 3.139 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 3.137 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 2,000 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 2.805 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 2.799 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 6,000 metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 3.97 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 3.403 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -685,7 +656,7 @@ _IDPs_: 362,551 (violence among armed gangs in primarily in the metropolitan are
 _stateless persons_: 2,992 (2018); note - individuals without a nationality who were born in the Dominican Republic prior to January 2010<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Haiti does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials initiated two prosecutions under the anti-trafficking law and assigned investigative judges in two additional high-profile cases; the government also identified and provided services to 11 adult trafficking victims, and also provided support to an unknown number of child victims and conducted an audit of judicial and child protection cases; however, the government did not demonstrate overall increasing efforts, compared with the previous year, to expand its anti-trafficking capacity; impunity and complicity, particularly in high-profile cases, remained problems; Haiti lacked sustained law enforcement efforts and did not pursue investigations following victim identification; improvements in law enforcement or victim protection efforts were unclear because the government did not disaggregate information on anti-trafficking law enforcement or victim protection efforts; anti-trafficking agencies did not cooperate effectively, and the government did not make sufficient efforts to combat child domestic servitude; because the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards, Haiti was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3; therefore, Haiti remained on Tier 2 Watch List for the third consecutive year (2023)<br>
+_tier rating_: Special Category<br>
 
 **Illicit drugs**<br>
 <p>a transit point for cocaine from South America and marijuana from Jamaica en route to the United States; not a producer or large consumer of illicit drugs; some cultivation of cannabis for local consumption</p><br>

@@ -433,7 +433,7 @@ _Currency_: Swiss francs (CHF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 ## Communications
 

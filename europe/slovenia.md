@@ -383,7 +383,7 @@ _selected World Heritage Site locales_: &Scaron;kocjan Caves (n); Ancient and Pr
 ## Economy
 
 **Economic overview**<br>
-high-income, fast-growing EU-member economy; high human capital; key health infrastructure investments; high government spending; key Croatian investments; high-technology and manufacturing sectors; growing financial hub<br>
+high-income, EU and eurozone member economy; high per-capita income and low inequality; key exports in automotive and pharmaceuticals; tight labor market with low unemployment; growth supported by EU funds and reconstruction from 2023 floods; pressures over public sector wage demands<br>
 
 **Real GDP (purchasing power parity)**<br>
 $86.624 billion (2022 est.)<br>
@@ -552,71 +552,51 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 4.062 million kW (2020 est.)<br>
-_consumption_: 13.447 billion kWh (2020 est.)<br>
-_exports_: 9.123 billion kWh (2020 est.)<br>
-_imports_: 7.12 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 848 million kWh (2020 est.)<br>
+_installed generating capacity_: 4.322 million kW (2022 est.)<br>
+_consumption_: 13.081 billion kWh (2022 est.)<br>
+_exports_: 8.752 billion kWh (2022 est.)<br>
+_imports_: 10.198 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 834.794 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 27.2% of total installed capacity (2020 est.)<br>
-_nuclear_: 36.8% of total installed capacity (2020 est.)<br>
-_solar_: 2.2% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 32% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1.7% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 26.7% of total installed capacity (2022 est.)<br>
+_nuclear_: 42.6% of total installed capacity (2022 est.)<br>
+_solar_: 4.3% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 24.1% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 2.2% of total installed capacity (2022 est.)<br>
 
 **Nuclear energy**<br>
 _Number of operational nuclear reactors_: 1 (2023)<br>
-_Number of nuclear reactors under construction_: 0<br>
-_Net capacity of operational nuclear reactors_: 0.69GW (2023)<br>
-_Percent of total electricity production_: 36.9% (2021)<br>
-_Percent of total energy produced_: 40.6% (2021)<br>
-_Number of nuclear reactors permanently shut down_: 0<br>
+_Net capacity of operational nuclear reactors_: 0.69GW (2023 est.)<br>
+_Percent of total electricity production_: 36.8% (2023 est.)<br>
 
 **Coal**<br>
-_production_: 3.175 million metric tons (2020 est.)<br>
-_consumption_: 3.502 million metric tons (2020 est.)<br>
-_exports_: 3,000 metric tons (2020 est.)<br>
-_imports_: 335,000 metric tons (2020 est.)<br>
-_proven reserves_: 371 million metric tons (2019 est.)<br>
+_production_: 2.358 million metric tons (2022 est.)<br>
+_consumption_: 2.553 million metric tons (2022 est.)<br>
+_exports_: 5,000 metric tons (2022 est.)<br>
+_imports_: 486,000 metric tons (2022 est.)<br>
+_proven reserves_: 95 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 54,900 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - exports**<br>
-29,350 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - imports**<br>
-93,060 bbl/day (2017 est.)<br>
+_refined petroleum consumption_: 45,000 bbl/day (2023 est.)<br>
 
 **Natural gas**<br>
-_production_: 4.899 million cubic meters (2020 est.)<br>
-_consumption_: 904.439 million cubic meters (2020 est.)<br>
-_exports_: 0 cubic meters (2020 est.)<br>
-_imports_: 903.108 million cubic meters (2020 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 3.863 million cubic meters (2022 est.)<br>
+_consumption_: 840.902 million cubic meters (2022 est.)<br>
+_exports_: 11.387 million cubic meters (2018 est.)<br>
+_imports_: 840.606 million cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 13.553 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 4.08 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 7.967 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 1.506 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 12.26 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 2.97 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 7.689 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 1.601 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 134.836 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 114.991 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -716,7 +696,7 @@ the military's inventory is a mix of Soviet-era and smaller quantities of more m
 <strong>note:</strong> in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Slovenia, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-the Slovenian Armed Forces (Slovenska Vojska or SV) are responsible for the defense of the country’s sovereignty and territory, deterring external threats, and contributing to European security and other international peacekeeping missions; the SV is also active in civil-military cooperation, such as the maintenance of local infrastructure; Slovenia has been a member of the EU and NATO since 2004, and one of the SV’s key missions is fulfilling the country’s commitments to NATO, including equipment modernization, participating in training exercises, and contributing to NATO missions; the SV provides troops to NATO’s efforts to enhance its presence in the Baltics (Latvia) and Eastern Europe (Slovakia); it has also participated in other international security missions with small numbers of personnel in such places as Africa, southern Europe, the Mediterranean Sea, and the Middle East<br><br>the SV is configured as a joint force with land, naval, air, and special forces components; the SV is led by a General Staff with a joint-service Forces Command controlling the operational elements; the principal land combat units are two infantry brigades, but they may be organized as battlegroups or other response forces based on their mission; the naval component has a few patrol boats; the SV air component has no fighter aircraft, and NATO allies Hungary and Italy provide air policing for Slovenia<br><br>the SV was formally established in 1993 as a reorganization of the Slovenia Defense Force; the Defense Force, along with the Slovenian police, comprised the majority of the forces that engaged with the Yugoslav People’s Army during the 10-Day War after Slovenia declared its independence in 1991 (2023)<br>
+the Slovenian Armed Forces (Slovenska Vojska or SV) are responsible for the defense of the country’s sovereignty and territory, deterring external threats, and contributing to European security and other international peacekeeping missions; the SV is also active in civil-military cooperation, such as the maintenance of local infrastructure; Slovenia has been a member of the EU and NATO since 2004, and one of the SV’s key missions is fulfilling the country’s commitments to NATO, including equipment modernization, participating in training exercises, and contributing to NATO missions; the SV provides troops to NATO’s efforts to enhance its presence in the Baltics (Latvia) and Eastern Europe (Slovakia); it has also participated in other international security missions with small numbers of personnel in such places as Africa, southern Europe, the Mediterranean Sea, and the Middle East; because the SV air component has no fighter aircraft, NATO allies Hungary and Italy provide air policing for Slovenia<br><br>the SV was formally established in 1993 as a reorganization of the Slovenia Defense Force; the Defense Force, along with the Slovenian police, comprised the majority of the forces that engaged with the Yugoslav People’s Army during the 10-Day War after Slovenia declared its independence in 1991 (2023)<br>
 
 ## Transnational Issues
 

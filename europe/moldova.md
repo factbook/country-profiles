@@ -550,63 +550,42 @@ _Currency_: Moldovan lei (MDL) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 594,000 kW (2020 est.)<br>
-_consumption_: 4.591 billion kWh (2019 est.)<br>
-_exports_: 0 kWh (2020 est.)<br>
-_imports_: 629 million kWh (2020 est.)<br>
-_transmission/distribution losses_: 571 million kWh (2019 est.)<br>
+_installed generating capacity_: 625,000 kW (2022 est.)<br>
+_consumption_: 5.579 billion kWh (2022 est.)<br>
+_exports_: 94 million kWh (2022 est.)<br>
+_imports_: 936 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 576.529 million kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 93.6% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.1% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 90.8% of total installed capacity (2022 est.)<br>
+_solar_: 0.6% of total installed capacity (2022 est.)<br>
 _wind_: 1.2% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 4.5% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.6% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 5.5% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.5% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 0 metric tons (2020 est.)<br>
-_consumption_: 133,000 metric tons (2020 est.)<br>
-_exports_: 0 metric tons (2020 est.)<br>
-_imports_: 133,000 metric tons (2020 est.)<br>
-_proven reserves_: 0 metric tons (2019 est.)<br>
+_consumption_: 120,000 metric tons (2022 est.)<br>
+_imports_: 121,000 metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 0 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 22,000 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
-_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
-
-**Refined petroleum products - production**<br>
-232 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-275 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-18,160 bbl/day (2015 est.)<br>
+_refined petroleum consumption_: 22,000 bbl/day (2022 est.)<br>
 
 **Natural gas**<br>
-_production_: 57,000 cubic meters (2019 est.)<br>
-_consumption_: 2.802 billion cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 2.802 billion cubic meters (2019 est.)<br>
-_proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 10,000 cubic meters (2021 est.)<br>
+_consumption_: 2.344 billion cubic meters (2022 est.)<br>
+_imports_: 2.344 billion cubic meters (2022 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 8.114 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 374,000 metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 2.968 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 4.773 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 7.319 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 293,000 metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 3.035 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 3.991 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 40.398 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 34.021 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -619,8 +598,8 @@ _total subscriptions_: 4.17 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 127 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom market has been affected by a combination of high unemployment and economic difficulties which have led to constraints on consumer spending; this has resulted in telecom revenue having fallen steadily in recent years; this decline continued into 2020, with a 6.3% in revenue from the important mobile sector alone, year-on-year; Moldova&rsquo;s aspirations to join the EU have encouraged the government and regulator to adopt a range of measures to bring the country&rsquo;s telecoms sector into line with EU principles and standards; in July 2017 the Electronic Communications Act was amended to accommodate the 2009 European regulatory framework, while further amendments were adopted in December 2017 and additional changes were proposed in 2019; Moldova is also part of the Eastern Partnership group of countries, and as such has set in train a glide path to reducing roaming charges, effective between 2022 and 2026; the country&rsquo;s broadband strategy through to 2025 has been supported by the ITU and industry counterparts from South Korea; the internet market is developing rapidly; the market is highly competitive, with 101 active ISPs as of early 2021; the number of cable broadband subscribers is increasing steadily, though fiber is now by far the strongest sector; by the end of 2020 fiber accounted for about 72.3% of all fixed broadband connections; the mobile market has also grown rapidly; the near comprehensive geographical reach of their mobile networks, market brand recognition and existing customer relationships will make for steady subscriber growth in coming years (2022)<br>
-_domestic_: fixed-line service is 33 per 100; mobile-cellular teledensity is 127 per 100 persons (2021)<br>
+_general assessment_: <p>the telecom market has been affected by a combination of high unemployment and economic difficulties which have led to constraints on consumer spending; Moldova’s aspirations to join the EU have encouraged the government and regulator to adopt a range of measures to bring the country’s telecoms sector into line with EU principles and standards; in July 2017 the Electronic Communications Act was amended to accommodate the 2009 European regulatory framework, while further amendments were adopted in December 2017 and additional changes were proposed in 2019; Moldova is also part of the Eastern Partnership group of countries, and as such has set in train a glidepath to reducing roaming charges, effective between 2022 and 2026; the country’s broadband strategy through to 2025 has been supported by the ITU and industry counterparts from Korea; the internet market is developing rapidly, and though the penetration rate is well below the average for most European countries there are many opportunities for further development; the number of cable broadband subscribers is increasing steadily, though fiber is now by far the strongest sector; by the end of 2020 fiber accounted for about 72.3% of all fixed broadband connections; the mobile market has also grown rapidly, and the sector accounts for the majority of total telecoms revenue; the launch of LTE services has opened up a new revenue growth opportunity centered on mobile broadband; the near comprehensive geographical reach of their mobile networks, market brand recognition and existing customer relationships will make for steady subscriber growth in coming years</p> (2024)<br>
+_domestic_: fixed-line service is 29 per 100; mobile cellular tele density is 127 per 100 persons (2022)<br>
 _international_: country code - 373; service through Romania and Russia via landline; satellite earth stations - at least 3 - Intelsat, Eutelsat, and Intersputnik<br>
 
 **Broadcast media**<br>
@@ -693,7 +672,7 @@ the military's inventory is limited and almost entirely comprised of older Russi
 <strong>note:</strong> as of 2021, women made up about 20% of the military's full-time personnel<br>
 
 **Military - note**<br>
-the National Army is responsible for defense against external aggression, suppressing illegal military violence along the state border or inside the country, and supporting other internal security forces in maintaining public order if necessary; its primary focuses are Transnistrian separatist forces and their Russian backers; the 1992 war between Moldovan forces and the Transnistrian separatists backed by Russian troops ended with a cease-fire; the separatists maintain several armed paramilitary combat units, plus other security forces and reserves; Russia maintains approximately 1,500 troops in the breakaway region, including some Transnistrian locals who serve as Russian troops; some troops are under the authority of a peacekeeping force known as a Joint Control Commission that also includes Moldovan and separatist personnel, while the remainder of the Russian contingent (Operational Group of Russian Forces - Transnistria or OGF-T) guard a depot of Soviet-era ammunition and train Transnistrian separatist forces<br><br>the National Army is equipped almost entirely with outdated Soviet-era material; following the Russian invasion of Ukraine in 2022, Moldova announced that the National Army would undergo a process to modernize and professionalize while declaring that it had been largely neglected since its formation in the early 1990s; some Western countries have provided gear and equipment; the National Army is comprised of a Land Force Command and an Air Force Command with a General Staff exercising operational leadership of the force; the Land Force’s combat units include three small motorized infantry brigades and a designated peacekeeping battalion, plus artillery and special forces;  the Air Force does not have any combat aircraft; the Carabinieri Troops under the Ministry of Internal Affairs are organized into three regions with five subordinate military units<br><br>Moldova is constitutionally neutral but has maintained a relationship with NATO since 1992; bilateral cooperation started when Moldova joined NATO’s Partnership for Peace program in 1994; Moldova has contributed small numbers of troops to NATO’s Kosovo Force (KFOR) since 2014, and a civilian NATO liaison office was established in Moldova in 2017 at the request of the Moldovan Government to promote practical cooperation and facilitate support (2023)<br>
+the National Army is responsible for defense against external aggression, suppressing illegal military violence along the state border or inside the country, and supporting other internal security forces in maintaining public order if necessary; its primary focuses are Transnistrian separatist forces and their Russian backers; the 1992 war between Moldovan forces and the Transnistrian separatists backed by Russian troops ended with a cease-fire; the separatists maintain several armed paramilitary combat units, plus other security forces and reserves; Russia maintains approximately 1,500 troops in the breakaway region, including some Transnistrian locals who serve as Russian troops; some troops are under the authority of a peacekeeping force known as a Joint Control Commission that also includes Moldovan and separatist personnel, while the remainder of the Russian contingent (Operational Group of Russian Forces - Transnistria or OGF-T) guard a depot of Soviet-era ammunition and train Transnistrian separatist forces<br><br>Moldova is constitutionally neutral but has maintained a relationship with NATO since 1992; bilateral cooperation started when Moldova joined NATO’s Partnership for Peace program in 1994; Moldova has contributed small numbers of troops to NATO’s Kosovo Force (KFOR) since 2014, and a civilian NATO liaison office was established in Moldova in 2017 at the request of the Moldovan Government to promote practical cooperation and facilitate support (2023)<br>
 
 ## Transnational Issues
 

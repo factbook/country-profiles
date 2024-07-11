@@ -576,63 +576,47 @@ _Currency_: Serbian dinars (RSD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 8.986 million kW (2020 est.)<br>
-_consumption_: 29,933,262,000 kWh (2019 est.)<br>
-_exports_: 5.943 billion kWh (2020 est.)<br>
-_imports_: 5.002 billion kWh (2020 est.)<br>
-_transmission/distribution losses_: 4.332 billion kWh (2019 est.)<br>
+_installed generating capacity_: 8.075 million kW (2022 est.)<br>
+_consumption_: 30.678 billion kWh (2022 est.)<br>
+_exports_: 5.613 billion kWh (2022 est.)<br>
+_imports_: 8.236 billion kWh (2022 est.)<br>
+_transmission/distribution losses_: 4.494 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 69.2% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0% of total installed capacity (2020 est.)<br>
-_wind_: 2.9% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 27.3% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 0.5% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 68.8% of total installed capacity (2022 est.)<br>
+_wind_: 2.9% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 27.5% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.8% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 39.673 million metric tons (2020 est.)<br>
-_consumption_: 40.83 million metric tons (2020 est.)<br>
-_exports_: 72,000 metric tons (2020 est.)<br>
-_imports_: 987,000 metric tons (2020 est.)<br>
-_proven reserves_: 7.514 billion metric tons (2019 est.)<br>
+_production_: 35.129 million metric tons (2022 est.)<br>
+_consumption_: 38.297 million metric tons (2022 est.)<br>
+_exports_: 9,000 metric tons (2022 est.)<br>
+_imports_: 1.641 million metric tons (2022 est.)<br>
+_proven reserves_: 7.514 billion metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 15,200 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 79,200 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 200 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 53,800 bbl/day (2018 est.)<br>
+_total petroleum production_: 13,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 82,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 77.5 million barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-74,350 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-15,750 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-18,720 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 455.787 million cubic meters (2019 est.)<br>
-_consumption_: 2,619,191,000 cubic meters (2019 est.)<br>
-_exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 1,980,647,000 cubic meters (2019 est.)<br>
+_production_: 353.376 million cubic meters (2022 est.)<br>
+_consumption_: 2.939 billion cubic meters (2022 est.)<br>
+_imports_: 2.652 billion cubic meters (2022 est.)<br>
 _proven reserves_: 48.139 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 47.735 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 32.686 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 10.17 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 4.878 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 42.933 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 27.399 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 10.06 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 5.474 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 98.195 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 89.037 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -716,7 +700,7 @@ the military's inventory consists of domestically produced equipment and weapons
 180 Lebanon (UNIFIL) (2024)<br>
 
 **Military - note**<br>
-the Serbian military is responsible for defense and deterrence against external threats, supporting international peacekeeping operations, and providing support to civil authorities for internal security; specific threat concerns of the military include extremism, separatism, and deepening international recognition of Kosovo; Serbia has cooperated with NATO since 2006, when it joined the Partnership for Peace program, and the military trains with NATO countries, particularly other Balkan states; Serbia has participated in EU peacekeeping missions, as well as missions under the Organization for Security and Cooperation in Europe and the UN; it also maintains close security ties with Russia and has a growing security relationship with China<br><br>the modern Serbian military was established in 2006 but traces its origins back through World War II, World War I, the Balkan Wars of 1912-1913, and the Bulgarian-Serb War of 1885 to the First (1804-1813) and Second (1815-1817) Uprisings against the Ottoman Empire; the military’s combat forces are organized into Army and Air and Defense commands under a General Staff, as well as some independent forces; the Army’s combat forces include four combined arms brigades and an artillery brigade, plus several independent battalions and a river flotilla; there are also independent brigades of parachute infantry, special operations, and security/guard forces, which are directly under the General Staff; the Air and Air Defense force is organized into brigades and squadrons of aircraft, air defense missiles, and early warning and surveillance; its combat aircraft include approximately 25 Russian- and Yugoslavian-made multirole and attack aircraft, as well as a force of attack and multirole helicopters (2023)<br>
+the Serbian military is responsible for defense and deterrence against external threats, supporting international peacekeeping operations, and providing support to civil authorities for internal security; specific threat concerns of the military include extremism, separatism, and deepening international recognition of Kosovo; Serbia has cooperated with NATO since 2006, when it joined the Partnership for Peace program, and the military trains with NATO countries, particularly other Balkan states; Serbia has participated in EU peacekeeping missions, as well as missions under the Organization for Security and Cooperation in Europe and the UN; it also maintains close security ties with Russia and has a growing security relationship with China<br><br>the modern Serbian military was established in 2006 but traces its origins back through World War II, World War I, the Balkan Wars of 1912-1913, and the Bulgarian-Serb War of 1885 to the First (1804-1813) and Second (1815-1817) Uprisings against the Ottoman Empire (2023)<br>
 
 ## Transnational Issues
 

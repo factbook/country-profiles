@@ -557,63 +557,48 @@ _Currency_: ringgits (MYR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2021)<br>
+_electrification - total population_: 100% (2022 est.)<br>
 
 **Electricity**<br>
-_installed generating capacity_: 34.959 million kW (2020 est.)<br>
-_consumption_: 150.062 billion kWh (2019 est.)<br>
-_exports_: 669 million kWh (2019 est.)<br>
-_imports_: 19 million kWh (2019 est.)<br>
-_transmission/distribution losses_: 12.124 billion kWh (2019 est.)<br>
+_installed generating capacity_: 36.301 million kW (2022 est.)<br>
+_consumption_: 181.004 billion kWh (2022 est.)<br>
+_exports_: 1.062 billion kWh (2022 est.)<br>
+_imports_: 38.028 million kWh (2022 est.)<br>
+_transmission/distribution losses_: 12.262 billion kWh (2022 est.)<br>
 
 **Electricity generation sources**<br>
-_fossil fuels_: 87.5% of total installed capacity (2020 est.)<br>
-_nuclear_: 0% of total installed capacity (2020 est.)<br>
-_solar_: 0.7% of total installed capacity (2020 est.)<br>
-_wind_: 0% of total installed capacity (2020 est.)<br>
-_hydroelectricity_: 10.9% of total installed capacity (2020 est.)<br>
-_tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_geothermal_: 0% of total installed capacity (2020 est.)<br>
-_biomass and waste_: 1% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 81.4% of total installed capacity (2022 est.)<br>
+_solar_: 1.1% of total installed capacity (2022 est.)<br>
+_hydroelectricity_: 16.9% of total installed capacity (2022 est.)<br>
+_biomass and waste_: 0.6% of total installed capacity (2022 est.)<br>
 
 **Coal**<br>
-_production_: 2.977 million metric tons (2020 est.)<br>
-_consumption_: 35.268 million metric tons (2020 est.)<br>
-_exports_: 17,000 metric tons (2020 est.)<br>
-_imports_: 37.295 million metric tons (2020 est.)<br>
-_proven reserves_: 226 million metric tons (2019 est.)<br>
+_production_: 3.731 million metric tons (2022 est.)<br>
+_consumption_: 35.05 million metric tons (2022 est.)<br>
+_exports_: 168,000 metric tons (2022 est.)<br>
+_imports_: 31.834 million metric tons (2022 est.)<br>
+_proven reserves_: 226 million metric tons (2022 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 593,800 bbl/day (2021 est.)<br>
-_refined petroleum consumption_: 718,600 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 303,600 bbl/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 182,300 bbl/day (2018 est.)<br>
+_total petroleum production_: 582,000 bbl/day (2023 est.)<br>
+_refined petroleum consumption_: 717,000 bbl/day (2022 est.)<br>
 _crude oil estimated reserves_: 3.6 billion barrels (2021 est.)<br>
 
-**Refined petroleum products - production**<br>
-528,300 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - exports**<br>
-208,400 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - imports**<br>
-304,600 bbl/day (2015 est.)<br>
-
 **Natural gas**<br>
-_production_: 74,985,350,000 cubic meters (2019 est.)<br>
-_consumption_: 39,586,915,000 cubic meters (2019 est.)<br>
-_exports_: 34,197,548,000 cubic meters (2020 est.)<br>
-_imports_: 4,008,073,000 cubic meters (2020 est.)<br>
-_proven reserves_: 1,189,306,000,000 cubic meters (2021 est.)<br>
+_production_: 75.456 billion cubic meters (2022 est.)<br>
+_consumption_: 42.499 billion cubic meters (2022 est.)<br>
+_exports_: 38.603 billion cubic meters (2022 est.)<br>
+_imports_: 4.529 billion cubic meters (2022 est.)<br>
+_proven reserves_: 1.189 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_total emissions_: 254.764 million metric tonnes of CO2 (2019 est.)<br>
-_from coal and metallurgical coke_: 81.726 million metric tonnes of CO2 (2019 est.)<br>
-_from petroleum and other liquids_: 94.934 million metric tonnes of CO2 (2019 est.)<br>
-_from consumed natural gas_: 78.104 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 262.458 million metric tonnes of CO2 (2022 est.)<br>
+_from coal and metallurgical coke_: 82.481 million metric tonnes of CO2 (2022 est.)<br>
+_from petroleum and other liquids_: 96.127 million metric tonnes of CO2 (2022 est.)<br>
+_from consumed natural gas_: 83.85 million metric tonnes of CO2 (2022 est.)<br>
 
 **Energy consumption per capita**<br>
-_Total energy consumption per capita 2019_: 123.755 million Btu/person (2019 est.)<br>
+_Total energy consumption per capita 2022_: 116.494 million Btu/person (2022 est.)<br>
 
 ## Communications
 
@@ -717,7 +702,7 @@ the military fields a diverse array of mostly older weapons systems along with a
 830 Lebanon (UNIFIL) (2024)<br>
 
 **Military - note**<br>
-the Malaysian military is primarily focused on internal and maritime security and responding to natural disasters; maritime security has received increased emphasis in recent years, particularly anti-piracy operations in the Strait of Malacca and countering Chinese incursions in Malaysia’s Economic Exclusion Zone, as well as addressing identified shortfalls in maritime capabilities; as such, Malaysia has undertaken efforts to procure more modern ships, improve air and maritime surveillance, expand the Navy’s support infrastructure (particularly bases/ports) and domestic ship-building capacities, restructure naval command and control, and increase naval cooperation with regional and international partners; as of 2023, for example, the Navy had five frigates on order (due in 2026-2029), which would increase the number of operational frigates from two to seven, and complement its small inventory of littoral combat ships (comparable to light frigates in capabilities) and offshore patrol vessels; in addition, the Navy conducts air and naval patrols with Indonesia and the Philippines; it also cooperates with the US military, including on maritime surveillance and training<br><br>the Army’s force structure reflects its traditional focus on counterinsurgency operations and terrorist threats; its four divisional commands are comprised largely of infantry brigades; it also has separate brigades of airborne, security, and special operations forces; Malaysia does not have a marine corps, but places considerable emphasis on amphibious capabilities for some of its Army ground units; the Air Force has a mix of about 50 combat aircraft and helicopters <br><br>Malaysia is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily (2023)<br>
+the Malaysian military is primarily focused on internal and maritime security and responding to natural disasters; maritime security has received increased emphasis in recent years, particularly anti-piracy operations in the Strait of Malacca and countering Chinese incursions in Malaysia’s Economic Exclusion Zone, as well as addressing identified shortfalls in maritime capabilities; as such, Malaysia has undertaken efforts to procure more modern ships, improve air and maritime surveillance, expand the Navy’s support infrastructure (particularly bases/ports) and domestic ship-building capacities, restructure naval command and control, and increase naval cooperation with regional and international partners; as of 2023, for example, the Navy had five frigates on order (due in 2026-2029), which would increase the number of operational frigates from two to seven, and complement its small inventory of littoral combat ships (comparable to light frigates in capabilities) and offshore patrol vessels; in addition, the Navy conducts air and naval patrols with Indonesia and the Philippines; it also cooperates with the US military, including on maritime surveillance and training<br><br>Malaysia is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily (2023)<br>
 
 ## Space
 
@@ -739,9 +724,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Jemaah Islamiyah (JI); Abu Sayyaf Gro
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 157,731 (Burma) (refugees and asylum seekers) (2023)<br>
 _stateless persons_: 113,930 (2022); note - Malaysia's stateless population consists of Rohingya refugees from Burma, ethnic Indians, and the children of Filipino and Indonesian illegal migrants; Burma stripped the Rohingya of their nationality in 1982; Filipino and Indonesian children who have not been registered for birth certificates by their parents or who received birth certificates stamped "foreigner" are not eligible to attend government schools; these children are vulnerable to statelessness should they not be able to apply to their parents' country of origin for passports<br>
-
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Malaysia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government made key achievements during the reporting period, therefore Malaysia was upgraded to Tier 2 Watch List; officials initiated more investigations, prosecuted and convicted more traffickers, and prosecuted complicit officials; the government identified more victims, funded efforts to raise awareness of trafficking and increase victim access to services and shelters, and increased training for officials and victim service providers; however, the government did not sufficiently press criminal prosecution of labor traffickers in several sectors; Standard Operating Procedures were not systematically implemented countrywide to identify victims, including those who came in contact with officials during law enforcement raids or other situations; authorities likely detained, arrested, and deported some victims; delays in prosecution, insufficient interagency coordination, and inadequate services for victims discouraged victim participation in criminal proceedings and hindered anti-trafficking law enforcement efforts (2023)<br>
 
 **Illicit drugs**<br>
 <p>not a source country for illicit drugs bound for the United States but is a significant transit country for drugs destined for Australia;  drugs trafficked to Malaysia include crystal methamphetamine and lesser quantities of MDMA (ecstasy), cannabis, heroin, and ketamine; significant number of the population abuse drugs especially  methamphetamine</p><br>
