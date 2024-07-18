@@ -331,8 +331,8 @@ _election results_: <em> </em>Bashar al-ASAD elected president; percent of vote
 
 **Legislative branch**<br>
 _description_: unicameral People's Assembly or Majlis al-Shaab (250 seats; members directly elected in multi-seat constituencies by simple majority preferential vote to serve 4-year terms)<br>
-_elections_: last held on 19 July 2020 (next to be held on 31 July 2024)<br>
-_election results_: percent of vote by party - NPF 80%, other 20%; seats by party - NPF 200, other 50; composition - men 224, women 26, percentage women 10.4%<br>
+_elections_: last held on 15 July 2024 (next to be held in July 2028)<br>
+_election results_: percent of vote by party - NA; seats by party - NA; composition - NA<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation (organized into civil, criminal, religious, and military divisions, each with 3 judges); Supreme Constitutional Court (consists of 7 members)<br>

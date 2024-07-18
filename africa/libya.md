@@ -305,6 +305,7 @@ Liberation Day, 23 October (2011)<br>
 
 **Constitution**<br>
 _history_: previous 1951, 1977; in July 2017, the Constitutional Assembly completed and approved a draft of a new permanent constitution; in September 2018, the House of Representatives passed a constitutional referendum law in a session with contested reports of the quorum needed to pass the vote and submitted it to the High National Elections Commission in December to begin preparations for a constitutional referendum<br>
+_amendments_: note - in early March 2023, the High Council of State voted for a constitutional amendment to provide a groundwork for elections<br>
 
 **Legal system**<br>
 Libya's post-revolution legal system is in flux and driven by state and non-state entities<br>

@@ -301,7 +301,7 @@ _chief of state_: Co-prince Emmanuel MACRON (since 14 May 2017); represented by 
 _head of government_: Prime Minister Xavier Espot ZAMORA (since 16 May 2019)<br>
 _cabinet_: Executive Council composed of head of government and 11 ministers designated by the head of government<br>
 _elections/appointments_: head of government indirectly elected by the General Council (Andorran parliament), formally appointed by the co-princes for a 4-year term; election last held on 2 April 2023 (next to be held in April 2027); the leader of the majority party in the General Council is usually elected head of government<br>
-_election results_: <em><br>2023: </em>Xaviar Espot ZAMORA (DA) reelected head of government; percent of General Council vote - 57.1%<br><em><br>2019:</em>  Xaviar Espot ZAMORA (DA) elected head of government; percent of General Council vote - 60.7<br>
+_election results_: <em><br>2023: </em>Xaviar Espot ZAMORA (DA) reelected head of government; percent of General Council vote - 57.1%<br><em><br>2019:</em> Xaviar Espot ZAMORA (DA) elected head of government; percent of General Council vote - 60.7<br>
 
 **Legislative branch**<br>
 _description_: unicameral General Council of the Valleys or Consell General de les Valls (28 seats; 14 members directly elected in two-seat constituencies (7 parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms); note - voters cast two separate ballots - one for national election and one for their parish<br>

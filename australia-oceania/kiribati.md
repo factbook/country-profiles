@@ -320,7 +320,7 @@ _election results_: <em>2020:</em> Taneti MAAMAU reelected president; percent of
 <strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral House of Assembly or Maneaba Ni Maungatabu (46 seats; 44 members directly elected in single- and multi-seat constituencies by absolute majority vote in two rounds if needed; 1 member appointed by the Rabi Council of Leaders - representing Banaba Island, and 1 ex officio member - the attorney general; members serve 4-year terms)<br>
+_description_: unicameral House of Assembly or Maneaba Ni Maungatabu (45 seats; 44 members directly elected in single- and multi-seat constituencies by absolute majority vote in two rounds if needed, and 1 member appointed by the Rabi Council of Leaders - representing Banaba Island; members serve 4-year terms)<br>
 _elections_: legislative elections originally scheduled to be held in two rounds on 7 and 15 April 2020 but rescheduled for 14 and 21 April 2020 (next to be held in 2024)<br>
 _election results_: percent of vote by party - NA; seats by party - TKB 22, BKM 22, appointed 1; composition - 42 men, 3 women; percentage women 6.7%<br>
 

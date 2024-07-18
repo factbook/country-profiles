@@ -322,7 +322,7 @@ _chief of state_: President ISAIAS Afwerki (since 24 May 1993)<br>
 _head of government_: President ISAIAS Afwerki (since 8 June 1993)<br>
 _cabinet_: State Council appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term), according to the constitution; the only election held was&nbsp;on 24 May 1993, following independence from Ethiopia (next postponed indefinitely)<br>
-_election results_: <em>1993:</em> ISAIAS Afwerki elected president by the transitional National Assembly; percent of National Assembly vote - ISAIAS Afwerki (PFDJ) 95%, other 5%<br>
+_election results_: <em><br>1993:</em> ISAIAS Afwerki elected president by the transitional National Assembly; percent of National Assembly vote - ISAIAS Afwerki (PFDJ) 95%, other 5%<br>
 <strong>note:</strong> the president is both chief of state and head of government and is head of the State Council and National Assembly<br>
 
 **Legislative branch**<br>

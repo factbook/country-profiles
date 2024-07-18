@@ -70,7 +70,7 @@ most people live in urban clusters found on many of the country's islands; more 
 infrequent typhoons<br>
 
 **Geography - note**<br>
-the islands of Bikini and Enewetak are former US nuclear test sites; Kwajalein atoll, famous as a World War II battleground, surrounds the world's largest lagoon and is used as a US missile test range; the island city of Ebeye is the second largest settlement in the Marshall Islands, after the capital of Majuro, and one of the most densely populated locations in the Pacific<br>
+the islands of Bikini and Enewetak are former US nuclear test sites; Kwajalein atoll surrounds the world's largest lagoon and is used as a US missile test range; the island city of Ebeye is the second largest settlement in the Marshall Islands, after the capital of Majuro, and one of the most densely populated locations in the Pacific<br>
 
 ## People and Society
 
@@ -556,7 +556,7 @@ _unpaved_: 1,953 km (2007)<br>
 
 **Merchant marine**<br>
 _total_: 4,180 (2023)<br>
-_by type_: bulk carrier 1,939 container ship 277, general cargo 66, oil tanker 1039, other 859<br>
+_by type_: bulk carrier 1,939, container ship 277, general cargo 66, oil tanker 1039, other 859<br>
 
 **Ports**<br>
 _total ports_: 3 (2024)<br>

@@ -351,11 +351,10 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Filipe Jacinto NYUSI (since 15 January 2015)<br>
-_head of government_: President Filipe Jacinto NYUSI (since 15 January 2015)<br>
+_head of government_: Prime Minister Adriano MALEIANE (since 3 March 2022)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president elected directly by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 consecutive terms); election last held on 15 October 2019 (next to be held on 9 October 2024); prime minister appointed by the president<br>
 _election results_: <em><br>2019</em>: Filipe NYUSI reelected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 73.0%, Ossufo MOMADE (RENAMO) 21.9%, Daviz SIMANGO (MDM) 5.1%<br><br><em>2014</em>:  Filipe NYUSI elected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 57.0%, Afonso DHLAKAMA (RENAMO) 36.6%, Daviz SIMANGO (MDM) 6.4%<br>
-<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Republic or Assembleia da Republica (250 seats; 248 members elected in multi-seat constituencies by party-list proportional representation vote and 2 members representing Mozambicans abroad directly elected by simple majority vote; members serve 5-year terms)<br>
@@ -708,7 +707,7 @@ the FADM's inventory consists primarily of Soviet-era equipment, although in rec
 registration for military service is mandatory for all men and women at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service for men and women; 24-month service obligation (2023)<br>
 
 **Military - note**<br>
-the FADM is responsible for external security, cooperating with police on internal security, and responding to natural disasters and other emergencies; the current primary focus of the FADM is countering an insurgency driven by militants with ties to the Islamic State of Iraq and ash-Sham (ISIS) terrorist group in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and the fighting has left an estimated 5,000 estimated dead and nearly 1 million displaced; several countries from the Southern Africa Development Community (SADC) and the EU, as well as Rwanda and the US have provided various forms of military assistance to the FADM; the SADC countries and Rwanda have sent more than 3,000 military and security personnel, while some EU member states and the US have provided training assistance; in early 2024, the SADC began withdrawing personnel, although the insurgency remained active (2023)<br>
+the FADM is responsible for external security, cooperating with police on internal security, and responding to natural disasters and other emergencies; the current primary focus of the FADM is countering an insurgency driven by militants with ties to the Islamic State of Iraq and ash-Sham (ISIS) terrorist group in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017, and the fighting has left an estimated 6,000 dead and 1 million displaced; several countries from the Southern Africa Development Community (SADC) and the EU, as well as Rwanda and the US have provided various forms of military assistance to the FADM; the SADC countries and Rwanda have sent more than 3,000 military and security personnel, while some EU member states and the US have provided training assistance; in early 2024, the SADC began withdrawing personnel, although the insurgency remained active (2024)<br>
 
 ## Terrorism
 

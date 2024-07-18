@@ -331,7 +331,7 @@ _elections/appointments_: president directly elected using a modified 2-round sy
 _election results_: <em>2024: </em>Gordana SILJANOVSKA-DAVKOVA elected president in the second round; percent of vote - Gordana SILJANOVSKA-DAVKOVA (VMRO-DPMNE) 69%, Stevo PENDAROVSKI (SDSM) 31%<em><br><br>2024: </em>Talat XHAFERI elected caretaker Prime Minister; Assembly vote - 65 for (opposition boycott)<em><br><br>2022: </em>Dimitar KOVACEVSKI elected Prime Minister; Assembly vote - NA<em><br></em><br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly - Sobranie in Macedonian, Kuvend in Albanian (between 120 and 140 seats, currently 120; members directly elected in multi-seat constituencies by closed-list proportional representation vote; possibility of 3 directly elected in diaspora constituencies by simple majority vote provided there is sufficient voter turnout; members serve 4-year terms)<br>
+_description_: unicameral Assembly - Sobranie in Macedonian, Kuvend in Albanian (between 120 and 140 seats, current 123; members directly elected in multi-seat constituencies by closed-list proportional representation vote; possibility of 3 directly elected in diaspora constituencies by simple majority vote provided there is sufficient voter turnout; members serve 4-year terms)<br>
 _elections_: last held on 8 May 2024 (next to be held on 31 May 2028)<br>
 _election results_: percent of vote by party/coalition - Your Macedonia 44.6%, For a European Future 15.8%, European Front 14%, VLEN 10.9%, The Left 7%, For Our Macedonia 5.7%, other 1.9%; seats by party/coalition - Your Macedonia 58, For a European Future 18, European Front 18, VLEN 14, The Left 6, For Our Macedonia 6; composition - TBD<br>
 

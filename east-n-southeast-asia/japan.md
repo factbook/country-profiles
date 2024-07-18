@@ -334,7 +334,7 @@ _chief of state_: Emperor NARUHITO (since 1 May 2019)<br>
 _head of government_: Prime Minister Fumio KISHIDA (since 4 October 2021)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister<br>
-_election results_: <em>2021:</em> Fumio KISHIDA reelected prime minister on 10 November 2021; upper house vote - Fumio KISHIDA (LDP) 141, Yukio EDANO (CDP) 60; lower house vote - Fumio KISHIDA 297, Yukio EDANO 108<br>
+_election results_: <em><br>2021:</em> Fumio KISHIDA reelected prime minister on 10 November 2021; upper house vote - Fumio KISHIDA (LDP) 141, Yukio EDANO (CDP) 60; lower house vote - Fumio KISHIDA 297, Yukio EDANO 108<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Diet or Kokkai consists of:<br>House of Councilors or Sangi-in (248 seats; 148 members directly elected in multi-seat districts by simple majority vote and 100 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)<br><br>House of Representatives or Shuugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve up to 4-year terms)<br>

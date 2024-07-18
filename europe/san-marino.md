@@ -289,7 +289,7 @@ _election results_: <em>March 2024:  </em>Alessandro ROSSI (Demos) and Milena G
 **Legislative branch**<br>
 _description_: unicameral Grand and General Council or Consiglio Grande e Generale (60 seats; members directly elected in single- and multi-seat constituencies by list proportional representation vote in 2 rounds if needed; members serve 5-year terms)<br>
 _elections_: last held on 9 June 2024 (next to be held by 30 June 2029)<br>
-_election results_: percent of vote by party/coalition - (PDCS 34.1% &amp; AR 6.9% coalition), (PS 15.8% &amp; PSD 12.2% coalition), RF 12%, DML 8.5%, RETE 5.1% seats by party/coalition - (PDCS 22 &amp; AR 4 coalition), (PS 10 &amp; PSD 8 coalition), RF 8, DML 5, RETE 3, composition - men 37, women 23, percentage women 38.3%<br>
+_election results_: percent of vote by party/coalition - (PDCS 34.1% &amp; AR 6.9% coalition), (PS 15.8% &amp; PSD 12.2% coalition), RF 12%, DML 8.5%, RETE 5.1% seats by party/coalition - (PDCS 22 &amp; AR 4 coalition), (PS 10 &amp; PSD 8 coalition), RF 8, DML 5, RETE 3, composition - men 42, women 18, percentage women 30%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Council of Twelve or Consiglio dei XII (consists of 12 members); note - the College of Guarantors for the Constitutionality and General Norms functions as San Marino's constitutional court<br>

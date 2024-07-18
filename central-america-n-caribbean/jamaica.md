@@ -298,7 +298,7 @@ Independence Day, 6 August (1962)<br>
 
 **Constitution**<br>
 _history_: several previous (preindependence); latest drafted 1961-62, submitted to British Parliament 24 July 1962, entered into force 6 August 1962 (at independence)<br>
-_amendments_: proposed by Parliament; passage of amendments to "non-entrenched" constitutional sections, such as lowering the voting age, requires majority vote by the Parliament membership; passage of amendments to "entrenched" sections, such as fundamental rights and freedoms, requires two-thirds majority vote of Parliament; passage of amendments to "specially entrenched" sections such as the dissolution of Parliament or the executive authority of the monarch requires two-thirds approval by Parliament and approval in a referendum; amended many times, last in 2017<br>
+_amendments_: proposed by Parliament; passage of amendments to "non-entrenched" constitutional sections, such as lowering the voting age, requires majority vote by the Parliament membership; passage of amendments to "entrenched" sections, such as fundamental rights and freedoms, requires two-thirds majority vote of Parliament; passage of amendments to "specially entrenched" sections such as the dissolution of Parliament or the executive authority of the monarch requires two-thirds approval by Parliament and approval in a referendum; amended many times, last in 2017; note - in mid-July 2024 Jamaica’s Constitutional Reform Committee submitted its report on recommendations for reform of the constitution and awaiting debate in Parliament<br>
 
 **Legal system**<br>
 common law system based on the English model<br>

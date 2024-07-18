@@ -507,12 +507,11 @@ _by type_: bulk carrier 13,141, container ship 5,815, general cargo 19,918, oil 
 ## Military and Security
 
 **Military expenditures**<br>
+2.3% of GDP (2023 est.)<br>
 2.2% of GDP (2022 est.)<br>
 2.3% of GDP (2021 est.)<br>
 2.4% of GDP (2020 est.)<br>
 2.2% of GDP (2019 est.)<br>
-2.2% of GDP (2018 est.)<br>
-<strong>note:</strong> in 2022, total global military expenditures were estimated at more than $2 trillion<br>
 
 **Military and security service personnel strengths**<br>
 approximately 20 million active-duty military personnel worldwide (2023)<br>
@@ -523,9 +522,6 @@ the US is the world's leading arms exporter (2023)<br>
 
 **Military deployments**<br>
 as of January 2024, there were approximately 65,000 personnel deployed on UN peacekeeping missions worldwide (2024)<br>
-
-**Military - note**<br>
-Atlantic Ocean: according to the International Maritime Bureau and the Maritime Administration of the US Department of Transportation, the risk of piracy and armed robbery of ships in the territorial and offshore waters of the Niger Delta and Gulf of Guinea off the western coast of Africa is high; some criminals/pirates have operated as far as 200 nm offshore <br><br>Indian Ocean: according to the International Maritime Bureau, areas of high risk for piracy and armed robbery against ships in territorial waters of littoral states and offshore waters include the Gulf of Aden, along the east coast of Africa, the Bay of Bengal, and the Strait of Malacca; in addition, the Maritime Administration of the US Department of Transportation advises that regional conflict, military activity, and political tensions pose threats to commercial vessels in the Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Gulf of Aden, Bab al Mandeb Strait, Red Sea, and Somali Basin <br><br>Pacific Ocean: according to the International Maritime Bureau, the risk for piracy and armed robbery in the territorial waters of littoral states and offshore waters in the South China Sea is high, particularly the Singapore Straits and the Celebes and Sulu Seas between the Philippines and Malaysia<br><br>Other: the Maritime Administration of the US Department of Transportation also advises that regional conflict, military activity, and political tensions pose threats to commercial vessels in the Black Sea, Sea of Azov, and the Eastern Mediterranean (2023)<br>
 
 ## Space
 

@@ -279,7 +279,7 @@ _chief of state_: President of China XI Jinping (since 14 March 2013)<br>
 _head of government_: Chief Executive John LEE Ka-chiu (since 1 July 2022)<br>
 _cabinet_: Executive Council or ExCo appointed by the chief executive<br>
 _elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 10 March 2023 (next to be held in March 2028); chief executive indirectly elected by the Election Committee and appointed by the PRC Government for a 5-year term (eligible for a second term); election last held on 8 May 2022 (next to be held in 2027)<br>
-_election results_: <em>2022: </em>John LEE was the only candidate and won with over 99% of the vote by the Election Committee<em><br><br><em>2017</em>: </em>Carrie LAM elected; Election Committee vote - Carrie LAM (non-partisan) 777, John TSANG (non-partisan) 365, WOO Kwok-hing (non-partisan) 21, 23 ballots rejected (1,186 votes cast)<br>
+_election results_: <em><br>2022: </em>John LEE was the only candidate and won with over 99% of the vote by the Election Committee<em><br><br><em>2017</em>: </em>Carrie LAM elected; Election Committee vote - Carrie LAM (non-partisan) 777, John TSANG (non-partisan) 365, WOO Kwok-hing (non-partisan) 21, 23 ballots rejected (1,186 votes cast)<br>
 <strong>note:</strong> electoral changes that Beijing imposed in March 2021 expanded the Election Committee to 1,500 members<br>
 
 **Legislative branch**<br>

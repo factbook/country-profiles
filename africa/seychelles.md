@@ -311,7 +311,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Wavel RAMKALAWAN (since 26 October 2020)&nbsp;<br>
+_chief of state_: President Wavel RAMKALAWAN (since 26 October 2020)<br>
 _head of government_: President Wavel RAMKALAWAN (since 26 October 2020)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 22 to 24 October 2020 (next to be held in 2025)<br>

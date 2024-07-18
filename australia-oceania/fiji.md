@@ -318,7 +318,7 @@ _chief of state_: President Ratu Wiliame KATONIVERE (since 12 November 2021)<br>
 _head of government_: Prime Minister Sitiveni Ligamamada RABUKA (since 24 December 2022)<br>
 _cabinet_: Cabinet appointed by the prime minister from among members of Parliament and is responsible to Parliament<br>
 _elections/appointments_: president elected by Parliament for a 3-year term (eligible for a second term); election last held on 22 October 2021 (next to be held in 2024); prime minister endorsed by the president<br>
-_election results_: <em>2021:</em> Ratu Wiliame KATONIVERE elected president; Wiliame KATONIVERE (People's Alliance) 28 votes, Teimumu KEPA (SODELPA) 23 votes<br>
+_election results_: <em>2021:</em> Ratu Wiliame KATONIVERE elected president; Wiliame KATONIVERE (People's Alliance) 28 votes, Teimumu KEPA (SODELPA) 23 votes<br><br><em>2018:</em> Jioji Konousi KONROTE reelected president (unopposed) <br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (55 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote with a 5% electoral threshold; members serve 4-year terms)<br>

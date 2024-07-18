@@ -308,7 +308,7 @@ _cabinet_: Cabinet appointed by governor general in consultation with prime mini
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by governor general; deputy prime minister appointed by governor general<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly (14 or 15 seats, depending on inclusion of attorney general; 11 members directly elected in single-seat constituencies by simple majority vote and 3 appointed by the governor general - 2 on the advice of the prime minister and the third on the advice of the opposition leader; members serve 5-year terms)<br>
+_description_: unicameral National Assembly (15 seats, including the attorney general; 11 members directly elected in single-seat constituencies by simple majority vote and 3 appointed by the governor general - 2 on the advice of the prime minister and the third on the advice of the opposition leader; members serve 5-year terms)<br>
 _elections_: last held on 5 August 2022 (next to be held on 2027)<br>
 _election results_: percent of vote by party - SKNLP 44.4%, PLP 16.1%, PAM 16.2%, CCM 12.7%, other 10.6%; seats by party - SKNLP 6, CCM 3, PLP 1, CCM 1; composition - men 11, women 5, percentage women 31.3%<br>
 

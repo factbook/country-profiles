@@ -441,7 +441,7 @@ _total subscriptions_: 20,474 (2004 est.)<br>
 _subscriptions per 100 inhabitants_: 28 (2004)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: digital fiber-optic cables and satellites connect the islands to worldwide networks; demand for broadband growing given that mobile services are the source for Internet across region; future launch of 5G (2020)<br>
+_general assessment_: digital fiber-optic cables and satellites connect the islands to worldwide networks; demand for broadband growing given that mobile services are the source for Internet across region; future launch of 5G; as of April 2024 the Northern Mariana Islands Broadband Policy and Development Office (BPD) received an award of $81 million from the National Telecommunications and Information Administration (NTIA) Broadband Equity, Access, and Deployment (BEAD) Program; CNMI submitted its BEAD Five-Year Action Plan to NTIA; this plan aims to improve Internet services in the Commonwealth by outlining strategies for enhancing Internet accessibility and affordability for all members of the CNMI community (2024)<br>
 _domestic_: fixed-line teledensity is 40 per 100 persons; mobile cellular subscriptions are 28 per 100 (2021)<br>
 _international_: country code - 1-670; landing points for the Atisa and Mariana-Guam submarine cables linking Mariana islands to Guam; satellite earth stations - 2 Intelsat (Pacific Ocean) (2019)<br>
 

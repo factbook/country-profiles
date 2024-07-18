@@ -336,7 +336,7 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: President Ranil WICKREMESINGHE (since 20 July 2022)<br>
 _head of government_: President Ranil WICKREMESINGHE (since 20 July 2022)<br>
 _cabinet_: Cabinet appointed by the president in consultation with the prime minister<br>
-_elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 16 November 2019 (next to be held on 30 September 2024)<br>
+_elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 16 November 2019 (next to be held between mid-September and mid-October 2024)<br>
 _election results_: Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; Parliament vote - WICKREMESINGHE (UNP) 134, Dullas ALAHAPPERUMA (SLPP) 82<br>
 <strong>Note</strong>: amid public protests which began in March 2022, President Gotabaya RAJAPAKSA fled the country on 13 July and Ranil WICKREMESINGHE became acting president; RAJAPAKSA announced his resignation on the 14th, which was accepted by the speaker of Parliament the following day<br>
 

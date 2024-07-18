@@ -351,12 +351,12 @@ _residency requirement for naturalization_: 15 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Mahamat Idriss DEBY (since 6 May 2024)&nbsp;<br>
+_chief of state_: President Mahamat Idriss D&Eacute;BY (since 6 May 2024)<br>
 _head of government_: Prime Minister Allamaye HALINA (since 23 May 2024)<br>
 _cabinet_: Council of Ministers<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 6 May 2024 (next to be held NA)<br>
-_election results_: <em><br>2024: </em>Mahamat Idriss DEBY elected president; percent of vote - Mahamat Idriss DEBY (MPS) 61%, Succes MASRA (Transformers) 18.5%, Albert PADACKE 16.9%, other 3.6%<br><em><br>2021</em>: Lt. Gen. Idriss DEBY Itno reelected transitional president; percent of vote - Lt. Gen. Idriss DEBY (MPS) 79.3%, Pahimi PADACKET Albert (RNDT) 10.3%, Lydie BEASSEMDA (Party for Democracy and Independence) 3.2%, other 7.2%<br><em><br></em><br>
-<strong>note:</strong> on 20 April 2021; President Idriss DEBY died of injuries sustained following clashes between government forces and insurgents in northern Chad; following his death, Mahamat Idriss DEBY, his son, took control of the country, established a Transitional Military Council which was dissolved in October 2022, and was elected president by popular vote in May 2024<br>
+_election results_: <em><br>2024: </em>Mahamat Idriss DÉBY elected president; percent of vote - Mahamat Idriss DÉBY (MPS) 61%, Succes MASRA (Transformers) 18.5%, Albert PADACKE 16.9%, other 3.6%<br><em><br>2021:</em> Lt. Gen. Idriss DÉBY reelected transitional president; percent of vote - Lt. Gen. Idriss DÉBY (MPS) 79.3%, Pahimi PADACKET Albert (RNDT) 10.3%, Lydie BEASSEMDA (Party for Democracy and Independence) 3.2%, other 7.2%<br><em><br></em><br>
+<strong>note:</strong> on 20 April 2021; President Idriss DÉBY died of injuries sustained following clashes between government forces and insurgents in northern Chad; following his death, Mahamat Idriss DÉBY , his son, took control of the country, established a Transitional Military Council which was dissolved in October 2022, and was elected president by popular vote in May 2024<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament to replace unicameral National Assembly and to consist of:<br>Senate - representing the Autonomous Communities - NA seats (members indirectly elected by electoral college of provincial and communal councilors for 6-year renewable terms)<br>National Assembly NA seats (members directly elected by popular vote to serve 5-year renewable terms)<br>

@@ -316,7 +316,7 @@ limited; note - rulers of the seven emirates each select a proportion of voters 
 
 **Executive branch**<br>
 _chief of state_: President MUHAMMAD BIN ZAYID Al Nuhayyan (since 14 May 2022)<br>
-_head of government_: Prime Minister (since 5 January 2006)<br>
+_head of government_: Prime Minister and Co-Vice President MUHAMMAD BIN RASHID Al Maktum (since 5 January 2006)<br>
 _cabinet_: Council of Ministers announced by the prime minister and approved by the president<br>
 _elections/appointments_: president and vice president indirectly elected by the Federal Supreme Council - composed of the rulers of the 7 emirates - for a 5-year term (no term limits); unscheduled election held on 14 May 2022, following the death of President KHALIFA bin Zayid Al-Nuhayyan (next election expected in 2027); prime minister appointed by the president<br>
 _election results_: <em>2022:</em> MUHAMMAD BIN ZAYID Al-Nuhayyan elected president; Federal Supreme Council vote - NA<br>

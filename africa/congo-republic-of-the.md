@@ -355,10 +355,10 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Denis SASSOU-Nguesso (since 1997)<br>
-_head of government_: Prime Minister Anatole Collinet MAKOSSO (since 12 May 2021)&nbsp;<br>
+_head of government_: Prime Minister Anatole Collinet MAKOSSO (since 12 May 2021)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 additional terms); election last held on 21 March 2021 (next to be held on 21 March 2026)<br>
-_election results_: <br><em>2021: </em>Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 88.4%, Guy Price Parfait KOLELAS (MCDDI) 8.0%, other 3.6% <p><em>2016: </em>Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 60.4%, Guy Price Parfait KOLELAS (MCDDI) 15.1%, Jean-Marie MOKOKO (independent) 13.9%, Pascal Tsaty MABIALA (UPADS) 4.4%, other 6.2% </p><br>
+_election results_: <br><em>2021: </em>Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 88.4%, Guy Price Parfait KOLELAS (MCDDI) 8.0%, other 3.6% <br><br><em>2016: </em>Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 60.4%, Guy Price Parfait KOLELAS (MCDDI) 15.1%, Jean-Marie MOKOKO (independent) 13.9%, Pascal Tsaty MABIALA (UPADS) 4.4%, other 6.2%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (72 seats; members indirectly elected by local, district, and regional councils by simple majority vote to serve 6-year terms) note- the Senate is renewed in its entirety following a constitutional reform implemented in 2015 ending the renewal by half<br>National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms)<br>

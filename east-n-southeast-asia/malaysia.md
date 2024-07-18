@@ -327,7 +327,7 @@ _dual citizenship recognized_: no<br>
 _residency requirement for naturalization_: 10 out 12 years preceding application<br>
 
 **Suffrage**<br>
-18&nbsp;years of age; universal (2019)<br>
+18&nbsp;years of age; universal<br>
 
 **Executive branch**<br>
 _chief of state_: King Sultan IBRAHIM ibni al-Marhum Sultan Iskandar (since 31 January 2024)&nbsp;<br>
