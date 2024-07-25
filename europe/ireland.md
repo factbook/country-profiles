@@ -19,7 +19,7 @@ Western Europe, occupying five-sixths of the island of Ireland in the North Atla
 Europe<br>
 
 **Area**<br>
-_total_: 70,273 sq km<br>
+_total _: 70,273 sq km<br>
 _land_: 68,883 sq km<br>
 _water_: 1,390 sq km<br>
 
@@ -381,31 +381,31 @@ _selected World Heritage Site locales_: Br&uacute; na B&oacute;inne - Archaeolog
 strong, export-based EU economy; multinational-business-friendly environment known for resilience, even amid COVID-19 disruptions; real wage growth beyond other OECD members; high livings standards; strong social equity and cohesion; aging labor force<br>
 
 **Real GDP (purchasing power parity)**<br>
-$576.527 billion (2022 est.)<br>
-$526.831 billion (2021 est.)<br>
-$457.615 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$608.463 billion (2023 est.)<br>
+$628.57 billion (2022 est.)<br>
+$574.387 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+-3.2% (2023 est.)<br>
 9.43% (2022 est.)<br>
 15.13% (2021 est.)<br>
-6.62% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$112,400 (2022 est.)<br>
-$104,700 (2021 est.)<br>
-$91,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$115,600 (2023 est.)<br>
+$122,600 (2022 est.)<br>
+$114,100 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$533.14 billion (2022 est.)<br>
+$545.629 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-7.81% (2022 est.)<br>
-2.36% (2021 est.)<br>
--0.33% (2020 est.)<br>
+6.3% (2023 est.)<br>
+7.83% (2022 est.)<br>
+2.34% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -435,17 +435,17 @@ milk, barley, wheat, beef, potatoes, pork, oats, chicken, rapeseed, lamb/mutton 
 pharmaceuticals, chemicals, computer hardware and software, food products, beverages and brewing; medical devices<br>
 
 **Industrial production growth rate**<br>
-18.13% (2022 est.)<br>
+-10.79% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.673 million (2022 est.)<br>
+2.766 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+4.34% (2023 est.)<br>
 4.48% (2022 est.)<br>
 6.19% (2021 est.)<br>
-5.62% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -458,7 +458,7 @@ _female_: 18.8%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-29.2 (2020 est.)<br>
+30.1 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -466,14 +466,14 @@ _on food_: 9.2% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 5.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.7%<br>
-_highest 10%_: 23.8% (2020 est.)<br>
+_lowest 10%_: 3.6% (2021 est.)<br>
+_highest 10%_: 24.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.08% of GDP (2023 est.)<br>
 0.08% of GDP (2022 est.)<br>
 0.04% of GDP (2021 est.)<br>
-0.06% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -484,25 +484,25 @@ _expenditures_: $97.713 billion (2019 est.)<br>
 -0.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-64.23% of GDP (2021 est.)<br>
-71.28% of GDP (2020 est.)<br>
-69.6% of GDP (2019 est.)<br>
+46.71% of GDP (2022 est.)<br>
+64.34% of GDP (2021 est.)<br>
+71.3% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-17.16% (of GDP) (2021 est.)<br>
+17.27% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$53.997 billion (2023 est.)<br>
 $57.807 billion (2022 est.)<br>
 $70.909 billion (2021 est.)<br>
--$26.44 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$731.814 billion (2023 est.)<br>
 $729.135 billion (2022 est.)<br>
 $685.814 billion (2021 est.)<br>
-$571.051 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -514,9 +514,9 @@ vaccines, packaged medicine, nitrogen compounds, integrated circuits, scented mi
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$548.827 billion (2023 est.)<br>
 $516.084 billion (2022 est.)<br>
 $479.284 billion (2021 est.)<br>
-$488.823 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -528,9 +528,9 @@ aircraft, nitrogen compounds, refined petroleum, natural gas, vaccines (2022)<br
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$12.905 billion (2023 est.)<br>
 $13.039 billion (2022 est.)<br>
 $13.247 billion (2021 est.)<br>
-$7.463 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -539,11 +539,11 @@ $2.759 trillion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 
 ## Energy
 
@@ -693,7 +693,7 @@ Ireland has a long-standing policy of military neutrality; however, it participa
 
 **Terrorist group(s)**<br>
 Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

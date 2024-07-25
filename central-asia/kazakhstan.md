@@ -19,7 +19,7 @@ Central Asia, northwest of China; a small portion west of the Ural (Oral) River 
 Asia<br>
 
 **Area**<br>
-_total_: 2,724,900 sq km<br>
+_total _: 2,724,900 sq km<br>
 _land_: 2,699,700 sq km<br>
 _water_: 25,200 sq km<br>
 
@@ -78,7 +78,7 @@ most of the country displays a low population density, particularly the interior
 earthquakes in the south; mudslides around Almaty<br>
 
 **Geography - note**<br>
-world's largest landlocked country and one of only two landlocked countries in the world that extends into two continents (the other is Azerbaijan); Russia leases approximately 6,000 sq km of territory enclosing the Baikonur Cosmodrome; in January 2004, Kazakhstan and Russia extended the lease to 2050<br>
+world's largest landlocked country and one of only two landlocked countries in the world that extends into two continents (the other is Azerbaijan); Russia leases approximately 6,000 sq km of territory enclosing the Baikonur Cosmodrome; in 2004, Kazakhstan and Russia extended the lease to 2050<br>
 
 ## People and Society
 
@@ -405,31 +405,31 @@ _selected World Heritage Site locales_: Mausoleum of Khoja Ahmed Yasawi (c); Pet
 oil and gas giant, with growing international investment; domestic economy hit hard by COVID-19 disruptions; reforming civil society and improving business confidence; legacy state controls and Russian influence inhibit growth and autonomy<br>
 
 **Real GDP (purchasing power parity)**<br>
-$512.002 billion (2022 est.)<br>
-$496.126 billion (2021 est.)<br>
-$475.672 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$705.52 billion (2023 est.)<br>
+$671.285 billion (2022 est.)<br>
+$650.47 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+5.1% (2023 est.)<br>
 3.2% (2022 est.)<br>
 4.3% (2021 est.)<br>
--2.5% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$26,100 (2022 est.)<br>
-$26,100 (2021 est.)<br>
-$25,400 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$35,500 (2023 est.)<br>
+$34,200 (2022 est.)<br>
+$33,900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$225.496 billion (2022 est.)<br>
+$261.421 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+14.72% (2023 est.)<br>
+15.03% (2022 est.)<br>
 8.04% (2021 est.)<br>
-6.77% (2020 est.)<br>
-5.25% (2019 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -459,17 +459,17 @@ wheat, milk, potatoes, barley, watermelons, sunflower seeds, cantaloupes/melons,
 oil, coal, iron ore, manganese, chromite, lead, zinc, copper, titanium, bauxite, gold, silver, phosphates, sulfur, uranium, iron and steel; tractors and other agricultural machinery, electric motors, construction materials<br>
 
 **Industrial production growth rate**<br>
-4.15% (2022 est.)<br>
+7.36% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-9.481 million (2022 est.)<br>
+9.587 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+4.85% (2023 est.)<br>
 4.86% (2022 est.)<br>
-5.57% (2021 est.)<br>
-4.89% (2020 est.)<br>
+5.56% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -482,7 +482,7 @@ _female_: 4.3%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-27.8 (2018 est.)<br>
+29.2 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -490,14 +490,14 @@ _on food_: 49.4% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 2.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4.3%<br>
-_highest 10%_: 23.4% (2018 est.)<br>
+_lowest 10%_: 4.3% (2021 est.)<br>
+_highest 10%_: 24.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.17% of GDP (2023 est.)<br>
 0.21% of GDP (2022 est.)<br>
 0.16% of GDP (2021 est.)<br>
-0.22% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -518,15 +518,15 @@ _expenditures_: $41.994 billion (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$7.079 billion (2022 est.)<br>
--$2.672 billion (2021 est.)<br>
--$10.96 billion (2020 est.)<br>
+-$8.658 billion (2023 est.)<br>
+$7.054 billion (2022 est.)<br>
+-$2.673 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$93.581 billion (2022 est.)<br>
+$90.167 billion (2023 est.)<br>
+$93.598 billion (2022 est.)<br>
 $71.726 billion (2021 est.)<br>
-$49.273 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -538,9 +538,9 @@ crude petroleum, gold, refined copper, iron alloys, radioactive chemicals (2022)
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$60.147 billion (2022 est.)<br>
+$71.811 billion (2023 est.)<br>
+$60.151 billion (2022 est.)<br>
 $49.597 billion (2021 est.)<br>
-$46.502 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -552,9 +552,9 @@ garments, cars, broadcasting equipment, plastic products, packaged medicine (202
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$35.965 billion (2023 est.)<br>
 $35.076 billion (2022 est.)<br>
 $34.378 billion (2021 est.)<br>
-$35.638 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -563,11 +563,11 @@ $163.73 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: tenge (KZT) per US dollar -<br>
+456.165 (2023 est.)<br>
 460.165 (2022 est.)<br>
 425.908 (2021 est.)<br>
 412.953 (2020 est.)<br>
 382.747 (2019 est.)<br>
-344.706 (2018 est.)<br>
 
 ## Energy
 
@@ -690,11 +690,11 @@ Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and A
 <strong>note:</strong> the National Guard is a gendarmerie type force administered by the Ministry of Internal Affairs, but also serves the Ministry of Defense; it is responsible for fighting crime, maintaining public order, and ensuring public safety; other duties include anti-terrorism operations, guarding prisons, riot control, and territorial defense in time of war<br>
 
 **Military expenditures**<br>
+0.8% of GDP (2023 est.)<br>
 0.7% of GDP (2022 est.)<br>
 1% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
 1.1% of GDP (2019 est.)<br>
-0.9% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 40,000 active-duty personnel (25,000 Land Forces; 3,000 Naval Forces; 12,000 Air and Air Defense Forces); approximately 30,000 National Guard (2023)<br>
@@ -720,7 +720,7 @@ Baikonur Cosmodrome/Space Center (Baikonur) (2024)<br>
 
 **Space program overview**<br>
 has an active and ambitious space program that originated with the former Soviet Union; focused on the acquisition and operation of satellites; builds (with foreign assistance) and operates communications, remote sensing (RS), and scientific satellites; building space infrastructure, such as launch and testing facilities, ground stations, and rocket manufacturing; has an astronaut (cosmonaut) program; has relations with a variety of foreign space agencies and industries, including those of China, France, Germany, India, Israel, Italy, Japan, Russia, Saudi Arabia, Sweden, Thailand, Turkey, Ukraine, UAE, and the UK; has state-owned and private companies that assist in the development and building of the country’s space program, including satellites, satellite payloads, and associated capabilities; they also work closely with foreign commercial entities (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

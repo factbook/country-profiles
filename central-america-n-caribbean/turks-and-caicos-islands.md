@@ -19,7 +19,7 @@ two island groups in the North Atlantic Ocean, southeast of The Bahamas, north o
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 948 sq km<br>
+_total _: 948 sq km<br>
 _land_: 948 sq km<br>
 _water_: 0 sq km<br>
 
@@ -313,25 +313,25 @@ _lyrics/music_: Conrad HOWELL<br>
 British Caribbean island territorial economy; GDP and its tourism industry hit hard by COVID-19 disruptions; major biodiversity locale; US dollar user; fossil fuel dependent; negative trade balance; increasing unemployment<br>
 
 **Real GDP (purchasing power parity)**<br>
-$946.893 million (2022 est.)<br>
-$891.613 million (2021 est.)<br>
-$817.993 million (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.03 billion (2023 est.)<br>
+$1.018 billion (2022 est.)<br>
+$958.811 million (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+1.2% (2023 est.)<br>
 6.2% (2022 est.)<br>
-9% (2021 est.)<br>
--26.78% (2020 est.)<br>
+9.03% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$20,700 (2022 est.)<br>
-$19,800 (2021 est.)<br>
-$18,500 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$22,400 (2023 est.)<br>
+$22,300 (2022 est.)<br>
+$21,300 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.139 billion (2022 est.)<br>
+$1.402 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -358,13 +358,13 @@ corn, beans, cassava (manioc, tapioca), citrus fruits; fish<br>
 tourism, offshore financial services<br>
 
 **Industrial production growth rate**<br>
-5% (2021 est.)<br>
+5.84% (2016 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Remittances**<br>
+0% of GDP (2023 est.)<br>
 0% of GDP (2022 est.)<br>
 0% of GDP (2021 est.)<br>
-0% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>

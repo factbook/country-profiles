@@ -19,7 +19,7 @@ Central Africa, east of the Democratic Republic of the Congo, west of Tanzania<b
 Africa<br>
 
 **Area**<br>
-_total_: 27,830 sq km<br>
+_total _: 27,830 sq km<br>
 _land_: 25,680 sq km<br>
 _water_: 2,150 sq km<br>
 
@@ -401,31 +401,31 @@ _lyrics/music_: Jean-Baptiste NTAHOKAJA/Marc BARENGAYABO<br>
 highly agrarian, low-income Sub-Saharan economy; declining foreign assistance; increasing fiscal insolvencies; dense and still growing population; COVID-19 weakened economic recovery and flipped two years of deflation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$9.128 billion (2022 est.)<br>
-$8.962 billion (2021 est.)<br>
-$8.693 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$11.347 billion (2023 est.)<br>
+$11.048 billion (2022 est.)<br>
+$10.848 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.7% (2023 est.)<br>
 1.85% (2022 est.)<br>
 3.1% (2021 est.)<br>
-0.33% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$700 (2022 est.)<br>
-$700 (2021 est.)<br>
-$700 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$900 (2023 est.)<br>
+$900 (2022 est.)<br>
+$900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.339 billion (2022 est.)<br>
+$2.642 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+26.94% (2023 est.)<br>
 18.8% (2022 est.)<br>
 8.4% (2021 est.)<br>
-7.32% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -449,17 +449,17 @@ cassava, bananas, sweet potatoes, vegetables, beans, potatoes, maize, sugarcane,
 light consumer goods (sugar, shoes, soap, beer); cement, assembly of imported components; public works construction; food processing (fruits)<br>
 
 **Industrial production growth rate**<br>
-3.16% (2022 est.)<br>
+2.75% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.511 million (2022 est.)<br>
+5.722 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-0.91% (2022 est.)<br>
-1.14% (2021 est.)<br>
-1.03% (2020 est.)<br>
+0.93% (2023 est.)<br>
+0.92% (2022 est.)<br>
+1.11% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -472,18 +472,18 @@ _female_: 2.5%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-38.6 (2013 est.)<br>
+37.5 (2020 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.8%<br>
-_highest 10%_: 31% (2013 est.)<br>
+_lowest 10%_: 2.9% (2020 est.)<br>
+_highest 10%_: 29.9% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+1.83% of GDP (2023 est.)<br>
 1.45% of GDP (2022 est.)<br>
 1.74% of GDP (2021 est.)<br>
-1.82% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -498,7 +498,7 @@ _expenditures_: $1.111 billion (2020 est.)<br>
 48.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-15.8% (of GDP) (2017 est.)<br>
+15.64% (of GDP) (2021 est.)<br>
 
 **Current account balance**<br>
 -$362.645 million (2018 est.)<br>
@@ -533,9 +533,9 @@ refined petroleum, fertilizers, packaged medicine, cement, plastic products (202
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$163.238 million (2022 est.)<br>
+$90.35 million (2023 est.)<br>
+$158.53 million (2022 est.)<br>
 $266.164 million (2021 est.)<br>
-$90.319 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -544,11 +544,11 @@ $622.4 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Burundi francs (BIF) per US dollar -<br>
+2,574.052 (2023 est.)<br>
 2,034.307 (2022 est.)<br>
 1,975.951 (2021 est.)<br>
 1,915.046 (2020 est.)<br>
 1,845.623 (2019 est.)<br>
-1,782.877 (2018 est.)<br>
 
 ## Energy
 

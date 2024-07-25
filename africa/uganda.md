@@ -19,7 +19,7 @@ East-Central Africa, west of Kenya, east of the Democratic Republic of the Congo
 Africa<br>
 
 **Area**<br>
-_total_: 241,038 sq km<br>
+_total _: 241,038 sq km<br>
 _land_: 197,100 sq km<br>
 _water_: 43,938 sq km<br>
 
@@ -76,7 +76,7 @@ population density is relatively high in comparison to other African nations; mo
 droughts; floods; earthquakes; landslides; hailstorms<br>
 
 **Geography - note**<br>
-landlocked; fertile, well-watered country with many lakes and rivers; Lake Victoria, the world's largest tropical lake and the second largest fresh water lake, is shared among three countries: Kenya, Tanzania, and Uganda<br>
+landlocked; fertile, well-watered country with many lakes and rivers; Lake Victoria, the world's largest tropical lake and the second largest freshwater lake, is shared among three countries: Kenya, Tanzania, and Uganda<br>
 
 ## People and Society
 
@@ -402,31 +402,31 @@ _selected World Heritage Site locales_: Bwindi Impenetrable National Park (n); R
 low-income, primarily agrarian East African economy; COVID-19 hurt economic growth and poverty reduction; lower oil prices threaten prior sector investments; endemic corruption; natural resource rich; high female labor force participation but undervalued<br>
 
 **Real GDP (purchasing power parity)**<br>
-$107.733 billion (2022 est.)<br>
-$103.007 billion (2021 est.)<br>
-$99.488 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$135.668 billion (2023 est.)<br>
+$128.923 billion (2022 est.)<br>
+$123.267 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+5.23% (2023 est.)<br>
 4.59% (2022 est.)<br>
 3.54% (2021 est.)<br>
-2.95% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,300 (2022 est.)<br>
-$2,200 (2021 est.)<br>
-$2,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2,800 (2023 est.)<br>
+$2,700 (2022 est.)<br>
+$2,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$45.567 billion (2022 est.)<br>
+$49.273 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.35% (2023 est.)<br>
 7.2% (2022 est.)<br>
 2.2% (2021 est.)<br>
-3.31% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -456,17 +456,17 @@ plantains, sugarcane, maize, cassava, milk, sweet potatoes, beans, vegetables, r
 sugar processing, brewing, tobacco, cotton textiles; cement, steel production<br>
 
 **Industrial production growth rate**<br>
-5.13% (2022 est.)<br>
+3.5% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-18.243 million (2022 est.)<br>
+18.881 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.94% (2022 est.)<br>
+2.83% (2023 est.)<br>
+2.93% (2022 est.)<br>
 3.42% (2021 est.)<br>
-3.81% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -487,14 +487,14 @@ _on food_: 44.2% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 0.9% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.4%<br>
+_lowest 10%_: 2.4% (2019 est.)<br>
 _highest 10%_: 34.5% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.79% of GDP (2022 est.)<br>
-2.67% of GDP (2021 est.)<br>
-2.82% of GDP (2020 est.)<br>
+2.63% of GDP (2023 est.)<br>
+2.74% of GDP (2022 est.)<br>
+2.85% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -505,25 +505,25 @@ _expenditures_: $6.896 billion (2019 est.)<br>
 -4.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+53.89% of GDP (2022 est.)<br>
 51.3% of GDP (2021 est.)<br>
 44.19% of GDP (2020 est.)<br>
-38.48% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-12.46% (of GDP) (2021 est.)<br>
+12.55% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$3.821 billion (2022 est.)<br>
--$4.095 billion (2021 est.)<br>
--$3.657 billion (2020 est.)<br>
+-$4.172 billion (2022 est.)<br>
+-$3.972 billion (2021 est.)<br>
+-$3.598 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$6.058 billion (2022 est.)<br>
-$6.174 billion (2021 est.)<br>
-$5.563 billion (2020 est.)<br>
+$6.115 billion (2022 est.)<br>
+$6.231 billion (2021 est.)<br>
+$5.622 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -561,11 +561,11 @@ $6.241 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Ugandan shillings (UGX) per US dollar -<br>
+3,726.14 (2023 est.)<br>
 3,689.817 (2022 est.)<br>
 3,587.052 (2021 est.)<br>
 3,718.249 (2020 est.)<br>
 3,704.049 (2019 est.)<br>
-3,727.069 (2018 est.)<br>
 
 ## Energy
 
@@ -667,11 +667,11 @@ Uganda People's Defense Force (UPDF): Land Force (includes marines), Air Force, 
 <strong>note 1:</strong> the Special Forces Command is a separate branch within the UPDF; it evolved from the former Presidential Guard Brigade and has continued to retain presidential protection duties in addition to its traditional missions, such as counterinsurgency<br><br><strong>note 2:</strong> the Uganda Police Force includes air, field, territorial, and marine units, as well as a presidential guard force<br><br><strong>note 3:</strong> in 2018, President MUSEVENI created a volunteer force of Local Defense Units under the military to beef up local security in designated parts of the country<br>
 
 **Military expenditures**<br>
+2% of GDP (2023 est.)<br>
 2.2% of GDP (2022 est.)<br>
 2.5% of GDP (2021 est.)<br>
 2.5% of GDP (2020 est.)<br>
 1.7% of GDP (2019 est.)<br>
-1.2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 45-50,000 active-duty troops (2023)<br>
@@ -691,13 +691,13 @@ as many as 6,000 Somalia (625 for UNSOM; the remainder under ATMIS; note - forei
 ## Space
 
 **Space program overview**<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (ISIS-DRC)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

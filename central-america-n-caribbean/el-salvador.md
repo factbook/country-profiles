@@ -19,7 +19,7 @@ Central America, bordering the North Pacific Ocean, between Guatemala and Hondur
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 21,041 sq km<br>
+_total _: 21,041 sq km<br>
 _land_: 20,721 sq km<br>
 _water_: 320 sq km<br>
 
@@ -390,31 +390,31 @@ _selected World Heritage Site locales_: Joya de Cer&eacute;n Archaeological Site
 growth-challenged Central American economy buttressed via remittances; dense labor force; fairly aggressive COVID-19 stimulus plan; new and lower banking reserve requirements; earthquake, tropical storm, and crime disruptions; widespread corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
-$59.537 billion (2022 est.)<br>
-$58.028 billion (2021 est.)<br>
-$52.195 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$71.957 billion (2023 est.)<br>
+$69.516 billion (2022 est.)<br>
+$67.623 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.6% (2022 est.)<br>
-11.18% (2021 est.)<br>
--7.82% (2020 est.)<br>
+3.51% (2023 est.)<br>
+2.8% (2022 est.)<br>
+11.9% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$9,400 (2022 est.)<br>
-$9,200 (2021 est.)<br>
-$8,300 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$11,300 (2023 est.)<br>
+$11,000 (2022 est.)<br>
+$10,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$32.489 billion (2022 est.)<br>
+$34.016 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.05% (2023 est.)<br>
 7.2% (2022 est.)<br>
 3.47% (2021 est.)<br>
--0.37% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -444,17 +444,17 @@ sugarcane, maize, milk, chicken, beans, sorghum, coconuts, oranges, eggs, yautia
 food processing, beverages, petroleum, chemicals, fertilizer, textiles, furniture, light metals<br>
 
 **Industrial production growth rate**<br>
-2.82% (2022 est.)<br>
+4.12% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.835 million (2022 est.)<br>
+2.87 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+2.76% (2023 est.)<br>
 3% (2022 est.)<br>
 4.33% (2021 est.)<br>
-5.01% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -475,14 +475,14 @@ _on food_: 26.5% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 0.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.9%<br>
+_lowest 10%_: 1.9% (2022 est.)<br>
 _highest 10%_: 28.7% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-23.68% of GDP (2022 est.)<br>
-25.38% of GDP (2021 est.)<br>
-23.79% of GDP (2020 est.)<br>
+23.94% of GDP (2023 est.)<br>
+24.05% of GDP (2022 est.)<br>
+25.74% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -493,25 +493,25 @@ _expenditures_: $7.273 billion (2019 est.)<br>
 -2.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-65.55% of GDP (2021 est.)<br>
-70.36% of GDP (2020 est.)<br>
+66.47% of GDP (2021 est.)<br>
+70.38% of GDP (2020 est.)<br>
 53.88% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-19.42% (of GDP) (2021 est.)<br>
+19.69% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$2.146 billion (2022 est.)<br>
--$1.272 billion (2021 est.)<br>
-$403.054 million (2020 est.)<br>
+-$465.688 million (2023 est.)<br>
+-$2.182 billion (2022 est.)<br>
+-$1.25 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$10.129 billion (2022 est.)<br>
-$8.33 billion (2021 est.)<br>
-$6.073 billion (2020 est.)<br>
+$10.629 billion (2023 est.)<br>
+$10.164 billion (2022 est.)<br>
+$8.351 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -523,9 +523,9 @@ garments, plastic products, electrical capacitors, fabric, raw sugar (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$18.07 billion (2022 est.)<br>
-$15.459 billion (2021 est.)<br>
-$10.398 billion (2020 est.)<br>
+$17.032 billion (2023 est.)<br>
+$18.184 billion (2022 est.)<br>
+$15.483 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -664,11 +664,11 @@ the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of 
 <strong>note:</strong> the National Civil Police (Policia Nacional Civil, PNC) are under the Ministry of Justice and Public Safety; in 2016, El Salvador created a combined Army commando and PNC unit to combat criminal gang violence<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2023 est.)<br>
 1.2% of GDP (2022 est.)<br>
 1.2% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
 1.2% of GDP (2019 est.)<br>
-1.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active military personnel (21,000 Army; 2,000 Navy; 2,000 Air Force) (2023)<br>

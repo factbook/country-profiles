@@ -19,7 +19,7 @@ Western South America, bordering the South Pacific Ocean, between Chile and Ecua
 South America<br>
 
 **Area**<br>
-_total_: 1,285,216 sq km<br>
+_total _: 1,285,216 sq km<br>
 _land_: 1,279,996 sq km<br>
 _water_: 5,220 sq km<br>
 
@@ -82,7 +82,7 @@ approximately one-third of the population resides along the desert coastal belt 
 <p>earthquakes, tsunamis, flooding, landslides, mild volcanic activity</p><p><strong>volcanism:</strong> volcanic activity in the Andes Mountains; Ubinas (5,672 m), which last erupted in 2009, is the country's most active volcano; other historically active volcanoes include El Misti, Huaynaputina, Sabancaya, and Yucamane; see note 2 under "Geography - note"</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> shares control of Lago Titicaca, world's highest navigable lake, with Bolivia; a remote slope of Nevado Mismi, a 5,316 m peak, is the ultimate source of the Amazon River</p> <p><strong>note 2:</strong> Peru is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire<br><br><strong>note 3:</strong> on 19 February 1600, Mount Huaynaputina in the southern Peruvian Andes erupted in the largest volcanic explosion in South America in historical times; intermittent eruptions lasted until 5 March 1600 and pumped an estimated 16 to 32 million metric tons of particulates into the atmosphere reducing the amount of sunlight reaching the earth's surface and affecting weather worldwide; over the next two and a half years, millions died around the globe in famines from bitterly cold winters, cool summers, and the loss of crops and animals<br><br><strong>note 4:</strong> the southern regions of Peru and the extreme northwestern part of Bolivia are considered to be the place of origin for the common potato </p><br>
+<p><strong>note 1:</strong> shares control of Lago Titicaca, world's highest navigable lake, with Bolivia; a remote slope of Nevado Mismi, a 5,316 m peak, is the ultimate source of the Amazon River</p> <p><strong>note 2:</strong> Peru is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire<br><br><strong>note 3:</strong> on 19 February 1600, Mount Huaynaputina in the southern Peruvian Andes erupted in the largest volcanic explosion in South America in historical times; intermittent eruptions lasted until 5 March 1600 and pumped an estimated 16 to 32 million metric tons of particulates into the atmosphere, reducing the amount of sunlight reaching the earth's surface and affecting weather worldwide; over the next two and a half years, millions died around the globe in famines from bitterly cold winters, cool summers, and the loss of crops and animals<br><br><strong>note 4:</strong> the southern regions of Peru and the extreme northwestern part of Bolivia are considered to be the place of origin for the common potato</p><br>
 
 ## People and Society
 
@@ -421,31 +421,31 @@ _selected World Heritage Site locales_: Cuzco (c); Machu Picchu (m); Chavin (c);
 upper middle-income South American economy; hit hard by political instability and COVID-19 but rebounding quickly; second-largest cocaine producer; current account balance improving; persistent income inequality; diversified exporter<br>
 
 **Real GDP (purchasing power parity)**<br>
-$433.926 billion (2022 est.)<br>
-$422.584 billion (2021 est.)<br>
-$372.592 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$517.644 billion (2023 est.)<br>
+$520.507 billion (2022 est.)<br>
+$506.697 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.68% (2022 est.)<br>
-13.42% (2021 est.)<br>
--10.87% (2020 est.)<br>
+-0.55% (2023 est.)<br>
+2.73% (2022 est.)<br>
+13.36% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$12,700 (2022 est.)<br>
-$12,500 (2021 est.)<br>
-$11,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$15,100 (2023 est.)<br>
+$15,300 (2022 est.)<br>
+$15,000 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$242.632 billion (2022 est.)<br>
+$267.603 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.46% (2023 est.)<br>
 8.33% (2022 est.)<br>
 4.27% (2021 est.)<br>
-2% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -475,17 +475,17 @@ sugarcane, potatoes, rice, bananas, milk, chicken, maize, oil palm fruit, cassav
 mining and refining of minerals; steel, metal fabrication; petroleum extraction and refining, natural gas and natural gas liquefaction; fishing and fish processing, cement, glass, textiles, clothing, food processing, beer, soft drinks, rubber, machinery, electrical machinery, chemicals, furniture<br>
 
 **Industrial production growth rate**<br>
-1.33% (2022 est.)<br>
+-1.28% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-18.268 million (2022 est.)<br>
+18.529 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+4.82% (2023 est.)<br>
 3.85% (2022 est.)<br>
 5.1% (2021 est.)<br>
-7.18% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -498,7 +498,7 @@ _female_: 13.2%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-40.2 (2021 est.)<br>
+40.3 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -506,14 +506,14 @@ _on food_: 26.6% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 2.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.1%<br>
-_highest 10%_: 30.6% (2021 est.)<br>
+_lowest 10%_: 2.1% (2022 est.)<br>
+_highest 10%_: 30.7% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.53% of GDP (2022 est.)<br>
-1.61% of GDP (2021 est.)<br>
-1.44% of GDP (2020 est.)<br>
+1.58% of GDP (2023 est.)<br>
+1.5% of GDP (2022 est.)<br>
+1.59% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -524,25 +524,25 @@ _expenditures_: $49.134 billion (2019 est.)<br>
 -3.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-35.66% of GDP (2021 est.)<br>
-34.67% of GDP (2020 est.)<br>
+35.25% of GDP (2021 est.)<br>
+34.76% of GDP (2020 est.)<br>
 26.53% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-16.11% (of GDP) (2021 est.)<br>
+15.92% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$9.908 billion (2022 est.)<br>
--$5.064 billion (2021 est.)<br>
-$2.235 billion (2020 est.)<br>
+$2.219 billion (2023 est.)<br>
+-$9.743 billion (2022 est.)<br>
+-$4.674 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$71.197 billion (2022 est.)<br>
-$65.914 billion (2021 est.)<br>
-$45.544 billion (2020 est.)<br>
+$73.326 billion (2023 est.)<br>
+$71.129 billion (2022 est.)<br>
+$66.061 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -554,9 +554,9 @@ copper ore, gold, natural gas, refined copper, refined petroleum (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$69.506 billion (2022 est.)<br>
-$58.708 billion (2021 est.)<br>
-$42.303 billion (2020 est.)<br>
+$62.99 billion (2023 est.)<br>
+$69.44 billion (2022 est.)<br>
+$58.509 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -568,9 +568,9 @@ refined petroleum, crude petroleum, cars, broadcasting equipment, trucks (2022)<
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$74.779 billion (2020 est.)<br>
-$67.711 billion (2019 est.)<br>
-$60.333 billion (2018 est.)<br>
+$71.394 billion (2023 est.)<br>
+$72.328 billion (2022 est.)<br>
+$78.59 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -579,11 +579,11 @@ $75.467 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: nuevo sol (PEN) per US dollar -<br>
+3.744 (2023 est.)<br>
 3.835 (2022 est.)<br>
 3.881 (2021 est.)<br>
 3.495 (2020 est.)<br>
 3.337 (2019 est.)<br>
-3.287 (2018 est.)<br>
 
 ## Energy
 
@@ -713,11 +713,11 @@ _key ports_: Bahia de Matarani, Iquitos, Puerto del Callao, Talara<br>
 Armed Forces of Peru (Fuerzas Armadas del Perú or FAP): Peruvian Army (Ejercito del Peru), Peruvian Navy (Marina de Guerra del Peru, MGP, includes naval infantry and Coast Guard), Air Force of Peru (Fuerza Aerea del Peru, FAP)<br><br>Ministry of the Interior (Ministerio del Interior): Peruvian National Police (Policía Nacional del Perú, PNP) (2024)<br>
 
 **Military expenditures**<br>
+1% of GDP (2023 est.)<br>
 1.1% of GDP (2022 est.)<br>
 1.1% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
 1.2% of GDP (2019 est.)<br>
-1.2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 95,000 active-duty personnel (60,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 10,000 Air Force) (2023)<br>
@@ -745,13 +745,13 @@ Punta Lobos Rocket Range (Chilca, Huancayo; used by foreign partners for scienti
 
 **Space program overview**<br>
 has a small space program focused on acquiring satellites, applying space applications such as data satellite imagery, and building small rockets; has built a small science/technology satellite; operates satellites and processes satellite imagery data; builds and launches sounding rockets with goal of developing a satellite/space launch vehicle (SLV); researching, developing, and acquiring technologies for manufacturing satellites and satellite payloads with a focus on remote sensing (RS) capabilities; member of Latin American and Caribbean Space Agency (ALCE); cooperates with a variety of foreign space agencies and industries, including those of Brazil, China, the European Space Agency and individual member states (particularly France and Germany), India, Russia, South Korea, Thailand, and the US, as well as signatories of the Latin American and Caribbean Space Agency (ALCE) (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Shining Path (Sendero Luminoso)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

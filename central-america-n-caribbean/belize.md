@@ -19,7 +19,7 @@ Central America, bordering the Caribbean Sea, between Guatemala and Mexico<br>
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 22,966 sq km<br>
+_total _: 22,966 sq km<br>
 _land_: 22,806 sq km<br>
 _water_: 160 sq km<br>
 
@@ -379,31 +379,31 @@ _selected World Heritage Site locales_: Belize Barrier Reef Reserve System<br>
 tourism- and agriculture-driven economy; strong post-pandemic rebound; innovative and ecological bond restructuring that significantly lowered public debt and expanded marine protections; central bank offering USD-denominated treasury notes; high mobility across borders<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.839 billion (2022 est.)<br>
-$3.531 billion (2021 est.)<br>
-$2.996 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$5.257 billion (2023 est.)<br>
+$5.028 billion (2022 est.)<br>
+$4.624 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+4.54% (2023 est.)<br>
 8.73% (2022 est.)<br>
 17.86% (2021 est.)<br>
--13.73% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$9,500 (2022 est.)<br>
-$8,800 (2021 est.)<br>
-$7,600 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$12,800 (2023 est.)<br>
+$12,400 (2022 est.)<br>
+$11,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.831 billion (2022 est.)<br>
+$3.282 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.39% (2023 est.)<br>
 6.28% (2022 est.)<br>
 3.24% (2021 est.)<br>
-0.12% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -432,17 +432,17 @@ sugarcane, maize, bananas, oranges, soybeans, sorghum, chicken, rice, beans, mil
 garment production, food processing, tourism, construction, oil<br>
 
 **Industrial production growth rate**<br>
--2.17% (2022 est.)<br>
+-4.52% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-185,000 (2022 est.)<br>
+190,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.67% (2022 est.)<br>
+8.26% (2023 est.)<br>
+8.72% (2022 est.)<br>
 10.16% (2021 est.)<br>
-10.62% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -454,9 +454,9 @@ _female_: 31.9%<br>
 41% (2013 est.)<br>
 
 **Remittances**<br>
+4.63% of GDP (2023 est.)<br>
 5.03% of GDP (2022 est.)<br>
 5.58% of GDP (2021 est.)<br>
-5.89% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -477,15 +477,15 @@ _expenditures_: $656 million (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$234.493 million (2022 est.)<br>
+-$90.63 million (2023 est.)<br>
+-$235.566 million (2022 est.)<br>
 -$157.868 million (2021 est.)<br>
--$127.92 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$1.462 billion (2023 est.)<br>
 $1.369 billion (2022 est.)<br>
 $1.043 billion (2021 est.)<br>
-$714.624 million (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -497,9 +497,9 @@ raw sugar, bananas, shellfish, bran, refined petroleum (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$1.571 billion (2023 est.)<br>
 $1.574 billion (2022 est.)<br>
 $1.249 billion (2021 est.)<br>
-$901.819 million (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -511,9 +511,9 @@ refined petroleum, ships, tobacco, garments, plastic products (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$473.729 million (2023 est.)<br>
 $482.146 million (2022 est.)<br>
 $420.103 million (2021 est.)<br>
-$348.09 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -522,11 +522,11 @@ $1.338 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Belizean dollars (BZD) per US dollar -<br>
+2 (2023 est.)<br>
 2 (2022 est.)<br>
 2 (2021 est.)<br>
 2 (2020 est.)<br>
 2 (2019 est.)<br>
-2 (2018 est.)<br>
 
 ## Energy
 

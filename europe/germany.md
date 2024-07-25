@@ -19,7 +19,7 @@ Central Europe, bordering the Baltic Sea and the North Sea, between the Netherla
 Europe<br>
 
 **Area**<br>
-_total_: 357,022 sq km<br>
+_total _: 357,022 sq km<br>
 _land_: 348,672 sq km<br>
 _water_: 8,350 sq km<br>
 
@@ -80,7 +80,7 @@ second most populous country in Europe; a fairly even distribution throughout mo
 flooding<br>
 
 **Geography - note**<br>
-strategic location on North European Plain and along the entrance to the Baltic Sea; most major rivers in Germany - the Rhine, Weser, Oder, Elbe - flow northward; the Danube, which originates in the Black Forest, flows eastward<br>
+strategic location on North European Plain and along the entrance to the Baltic Sea; most major rivers in Germany -- the Rhine, Weser, Oder, Elbe -- flow northward; the Danube, which originates in the Black Forest, flows eastward<br>
 
 ## People and Society
 
@@ -406,31 +406,31 @@ _selected World Heritage Site locales_: Museumsinsel (Museum Island), Berlin (c)
 leading diversified, export-driven, core EU and eurozone economy; key automotive, chemical, engineering, finance, and green energy industries; growth stalled by energy crisis; tight labor market with falling working-age population; fiscal rebalancing with phaseout of energy price supports<br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.523 trillion (2022 est.)<br>
-$4.442 trillion (2021 est.)<br>
-$4.306 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$5.23 trillion (2023 est.)<br>
+$5.246 trillion (2022 est.)<br>
+$5.153 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+-0.3% (2023 est.)<br>
 1.81% (2022 est.)<br>
 3.16% (2021 est.)<br>
--3.83% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$54,000 (2022 est.)<br>
-$53,400 (2021 est.)<br>
-$51,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$61,900 (2023 est.)<br>
+$62,600 (2022 est.)<br>
+$61,900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.082 trillion (2022 est.)<br>
+$4.456 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.95% (2023 est.)<br>
 6.87% (2022 est.)<br>
 3.07% (2021 est.)<br>
-0.14% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -460,17 +460,17 @@ milk, sugar beets, wheat, barley, potatoes, pork, rapeseed, maize, rye, tritical
 <p>iron, steel, coal, cement, chemicals, machinery, vehicles, machine tools, electronics, automobiles, food and beverages, shipbuilding, textiles</p><br>
 
 **Industrial production growth rate**<br>
--0.92% (2022 est.)<br>
+-1.59% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-44.198 million (2022 est.)<br>
+44.784 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+3.05% (2023 est.)<br>
 3.14% (2022 est.)<br>
 3.64% (2021 est.)<br>
-3.86% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -479,7 +479,7 @@ _male_: 7.2%<br>
 _female_: 6.6%<br>
 
 **Population below poverty line**<br>
-14.7% (2021 est.)<br>
+14.8% (2021 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -491,14 +491,14 @@ _on food_: 12% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.1%<br>
+_lowest 10%_: 3.1% (2019 est.)<br>
 _highest 10%_: 25.2% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.46% of GDP (2023 est.)<br>
 0.47% of GDP (2022 est.)<br>
-0.49% of GDP (2021 est.)<br>
-0.5% of GDP (2020 est.)<br>
+0.46% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -514,19 +514,19 @@ _expenditures_: $1.945 trillion (2020 est.)<br>
 <strong>note:</strong> general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises the sub-sectors of central government, state government, local government and social security funds; the series are presented as a percentage of GDP and in millions of euros; GDP used as a denominator is the gross domestic product at current market prices; data expressed in national currency are converted into euro using end-of-year exchange rates provided by the European Central Bank<br>
 
 **Taxes and other revenues**<br>
-11.18% (of GDP) (2021 est.)<br>
+11.23% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$172.459 billion (2022 est.)<br>
-$329.969 billion (2021 est.)<br>
-$275.87 billion (2020 est.)<br>
+$262.723 billion (2023 est.)<br>
+$174.831 billion (2022 est.)<br>
+$312.08 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$2.06 trillion (2022 est.)<br>
-$2.021 trillion (2021 est.)<br>
-$1.692 trillion (2020 est.)<br>
+$2.104 trillion (2023 est.)<br>
+$2.092 trillion (2022 est.)<br>
+$2.034 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -538,9 +538,9 @@ cars, packaged medicine, vehicle parts/accessories, vaccines, plastic products (
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.973 trillion (2022 est.)<br>
-$1.785 trillion (2021 est.)<br>
-$1.464 trillion (2020 est.)<br>
+$1.927 trillion (2023 est.)<br>
+$1.997 trillion (2022 est.)<br>
+$1.798 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -552,9 +552,9 @@ natural gas, cars, garments, vehicle parts/accessories, crude petroleum (2022)<b
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$322.7 billion (2023 est.)<br>
 $293.914 billion (2022 est.)<br>
 $295.736 billion (2021 est.)<br>
-$268.409 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -563,11 +563,11 @@ $5,751,408,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 
 ## Energy
 
@@ -734,13 +734,13 @@ establishing a commercial ship-based launch pad 350 kms (217 miles) off the Germ
 
 **Space program overview**<br>
 has one of Europe’s largest space programs; is a key member of the European Space Agency (ESA) and one of its largest contributors; builds and operates satellites, satellite/space launch vehicles (SLVs), space probes, unmanned orbiters, and reusable space planes; conducts research and develops a range of other space-related capabilities technologies, including satellite payloads (cameras, remote sensing, communications, optics, sensors, etc.), rockets and rocket propulsion, propulsion assisted landing technologies, and aeronautics; participates in ESA’s astronaut training program and human space flight operations and hosts the European Astronaut Center; participates in other international space programs, such as the International Space Station (ISS); hosts the mission control centers for the ISS and the ESA, as well as the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT); in addition to ESA/EU and their member states, has ties to a range of foreign space programs, including those of China, Japan, Russia, and the US; has a robust commercial space industry sector that develops a broad range of space capabilities, including satellite launchers, and cooperates closely with DLR, ESA, and other international commercial entities and government agencies (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); al-Qa'ida<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

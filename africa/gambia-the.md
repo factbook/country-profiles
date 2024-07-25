@@ -19,7 +19,7 @@ Western Africa, bordering the North Atlantic Ocean and Senegal<br>
 Africa<br>
 
 **Area**<br>
-_total_: 11,300 sq km<br>
+_total _: 11,300 sq km<br>
 _land_: 10,120 sq km<br>
 _water_: 1,180 sq km<br>
 
@@ -397,31 +397,31 @@ _selected World Heritage Site locales_: Kunta Kinteh Island and Related Sites; S
 low-income West African economy; agriculture-dominant; high poverty rate; heightened inflation; dependent on foreign assistance and remittances; structural reforms conditioned by IMF Extended Credit Facility program<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.719 billion (2022 est.)<br>
-$5.482 billion (2021 est.)<br>
-$5.258 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$7.905 billion (2023 est.)<br>
+$7.508 billion (2022 est.)<br>
+$7.156 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.33% (2022 est.)<br>
-4.27% (2021 est.)<br>
-0.59% (2020 est.)<br>
+5.3% (2023 est.)<br>
+4.92% (2022 est.)<br>
+5.26% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,100 (2022 est.)<br>
-$2,100 (2021 est.)<br>
-$2,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2,900 (2023 est.)<br>
+$2,800 (2022 est.)<br>
+$2,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.187 billion (2022 est.)<br>
+$2.34 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+16.97% (2023 est.)<br>
 11.51% (2022 est.)<br>
 7.37% (2021 est.)<br>
-5.93% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -445,17 +445,17 @@ groundnuts, milk, rice, millet, oil palm fruit, maize, vegetables, cassava, frui
 peanuts, fish, hides, tourism, beverages, agricultural machinery assembly, woodworking, metalworking, clothing<br>
 
 **Industrial production growth rate**<br>
-5.59% (2022 est.)<br>
+6.5% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-937,000 (2022 est.)<br>
+969,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.27% (2022 est.)<br>
-4.72% (2021 est.)<br>
-4.76% (2020 est.)<br>
+6.48% (2023 est.)<br>
+6.08% (2022 est.)<br>
+6.21% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -472,14 +472,14 @@ _female_: 20.5%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.6%<br>
+_lowest 10%_: 2.6% (2020 est.)<br>
 _highest 10%_: 30.6% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-28.14% of GDP (2022 est.)<br>
-26.84% of GDP (2021 est.)<br>
-22.98% of GDP (2020 est.)<br>
+26.82% of GDP (2023 est.)<br>
+23.07% of GDP (2022 est.)<br>
+27.16% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -531,9 +531,9 @@ cotton fabric, rice, raw sugar, poultry, palm oil (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$577.028 million (2023 est.)<br>
 $568.244 million (2022 est.)<br>
 $652.671 million (2021 est.)<br>
-$387.046 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -542,11 +542,11 @@ $571.2 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: dalasis (GMD) per US dollar -<br>
+61.096 (2023 est.)<br>
 54.923 (2022 est.)<br>
 51.484 (2021 est.)<br>
 51.502 (2020 est.)<br>
 50.062 (2019 est.)<br>
-48.152 (2018 est.)<br>
 
 ## Energy
 
@@ -644,11 +644,11 @@ Gambian Armed Forces (GAF; aka Armed Forces of the Gambia): the Gambian National
 <strong>note: </strong>the National Guard is responsible for VIP protection, riot control, and presidential security; the Gambia Police Force under the Ministry of Interior maintains internal security<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2023 est.)<br>
 0.7% of GDP (2022 est.)<br>
 0.8% of GDP (2021 est.)<br>
 0.8% of GDP (2020 est.)<br>
 0.8% of GDP (2019 est.)<br>
-0.7% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 3,000 military personnel (2023)<br>

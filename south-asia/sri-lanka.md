@@ -19,7 +19,7 @@ Southern Asia, island in the Indian Ocean, south of India<br>
 Asia<br>
 
 **Area**<br>
-_total_: 65,610 sq km<br>
+_total _: 65,610 sq km<br>
 _land_: 64,630 sq km<br>
 _water_: 980 sq km<br>
 
@@ -337,7 +337,7 @@ _chief of state_: President Ranil WICKREMESINGHE (since 20 July 2022)<br>
 _head of government_: President Ranil WICKREMESINGHE (since 20 July 2022)<br>
 _cabinet_: Cabinet appointed by the president in consultation with the prime minister<br>
 _elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 16 November 2019 (next to be held between mid-September and mid-October 2024)<br>
-_election results_: Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; Parliament vote - WICKREMESINGHE (UNP) 134, Dullas ALAHAPPERUMA (SLPP) 82<br>
+_election results_: <br><em>2022: </em>Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; Parliament vote - WICKREMESINGHE (UNP) 134, Dullas ALAHAPPERUMA (SLPP) 82<br><br><em>2019:</em> Gotabaya RAJAPAKSA elected president; percent of vote - Gotabaya RAJAPAKSA (SLPP) 52.2%, Sajith PREMADASA (UNP) 42%, other 5.8%<br>
 <strong>Note</strong>: amid public protests which began in March 2022, President Gotabaya RAJAPAKSA fled the country on 13 July and Ranil WICKREMESINGHE became acting president; RAJAPAKSA announced his resignation on the 14th, which was accepted by the speaker of Parliament the following day<br>
 
 **Legislative branch**<br>
@@ -394,31 +394,31 @@ _selected World Heritage Site locales_: Ancient City of Polonnaruwa (c); Ancient
 economic contraction in 2022-23 marked by increased poverty and significant inflation; IMF two-year debt relief program following 2022 sovereign default; structural challenges from non-diversified economy and rigid labor laws; heavy dependence on tourism receipts and remittances<br>
 
 **Real GDP (purchasing power parity)**<br>
-$270.611 billion (2022 est.)<br>
-$293.581 billion (2021 est.)<br>
-$283.62 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$287.132 billion (2023 est.)<br>
+$293.885 billion (2022 est.)<br>
+$317.188 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--7.82% (2022 est.)<br>
-3.51% (2021 est.)<br>
--4.62% (2020 est.)<br>
+-2.3% (2023 est.)<br>
+-7.35% (2022 est.)<br>
+4.21% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$12,200 (2022 est.)<br>
-$13,300 (2021 est.)<br>
-$12,900 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$13,000 (2023 est.)<br>
+$13,200 (2022 est.)<br>
+$14,300 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$74.404 billion (2022 est.)<br>
+$84.357 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+16.54% (2023 est.)<br>
 49.72% (2022 est.)<br>
 7.01% (2021 est.)<br>
-6.15% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -448,17 +448,17 @@ rice, coconuts, plantains, tea, sugarcane, milk, cassava, fiber crops, maize, ch
 processing of rubber, tea, coconuts, tobacco and other agricultural commodities; tourism; clothing and textiles; mining<br>
 
 **Industrial production growth rate**<br>
--15.95% (2022 est.)<br>
+-9.23% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.775 million (2022 est.)<br>
+8.707 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.18% (2022 est.)<br>
-5.31% (2021 est.)<br>
-5.36% (2020 est.)<br>
+6.36% (2023 est.)<br>
+6.33% (2022 est.)<br>
+5.26% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -479,14 +479,14 @@ _on food_: 27.7% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.1%<br>
+_lowest 10%_: 3.1% (2019 est.)<br>
 _highest 10%_: 30.8% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-5.13% of GDP (2022 est.)<br>
-6.24% of GDP (2021 est.)<br>
-8.46% of GDP (2020 est.)<br>
+6.4% of GDP (2023 est.)<br>
+5.15% of GDP (2022 est.)<br>
+6.23% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -503,19 +503,19 @@ _expenditures_: $17.496 billion (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-7.38% (of GDP) (2021 est.)<br>
+7.28% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.453 billion (2022 est.)<br>
+$1.559 billion (2023 est.)<br>
+-$1.448 billion (2022 est.)<br>
 -$3.284 billion (2021 est.)<br>
--$1.187 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$17.327 billion (2023 est.)<br>
 $16.169 billion (2022 est.)<br>
 $14.974 billion (2021 est.)<br>
-$13.083 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -527,9 +527,9 @@ garments, tea, used rubber tires, rubber products, precious stones (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$18.823 billion (2023 est.)<br>
 $19.244 billion (2022 est.)<br>
 $21.526 billion (2021 est.)<br>
-$18.271 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -699,7 +699,7 @@ the military is responsible for external defense and may be called upon to handl
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS); Liberation Tigers of Tamil Eelam (LTTE)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

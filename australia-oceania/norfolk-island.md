@@ -19,7 +19,7 @@ Oceania, island in the South Pacific Ocean, east of Australia<br>
 Oceania<br>
 
 **Area**<br>
-_total_: 36 sq km<br>
+_total _: 36 sq km<br>
 _land_: 36 sq km<br>
 _water_: 0 sq km<br>
 

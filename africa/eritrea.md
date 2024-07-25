@@ -19,7 +19,7 @@ Eastern Africa, bordering the Red Sea, between Djibouti and Sudan<br>
 Africa<br>
 
 **Area**<br>
-_total_: 117,600 sq km<br>
+_total _: 117,600 sq km<br>
 _land_: 101,000 sq km<br>
 _water_: 16,600 sq km<br>
 
@@ -426,13 +426,13 @@ food processing, beverages, clothing and textiles, light manufacturing, salt, ce
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.749 million (2022 est.)<br>
+1.8 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.97% (2022 est.)<br>
-6.51% (2021 est.)<br>
-6.45% (2020 est.)<br>
+5.87% (2023 est.)<br>
+5.94% (2022 est.)<br>
+6.34% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -497,11 +497,11 @@ $875.6 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: nakfa (ERN) per US dollar -<br>
+15.075 (2023 est.)<br>
 15.075 (2022 est.)<br>
 15.075 (2021 est.)<br>
 15.075 (2020 est.)<br>
 15.075 (2019 est.)<br>
-15.075 (2018 est.)<br>
 
 ## Energy
 

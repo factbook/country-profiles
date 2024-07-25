@@ -19,7 +19,7 @@ Western Africa, bordering the North Atlantic Ocean, between Ghana and Liberia<br
 Africa<br>
 
 **Area**<br>
-_total_: 322,463 sq km<br>
+_total _: 322,463 sq km<br>
 _land_: 318,003 sq km<br>
 _water_: 4,460 sq km<br>
 
@@ -408,31 +408,31 @@ _selected World Heritage Site locales_: Como&eacute; National Park (n); Historic
 one of West Africa&rsquo;s most influential, stable, and rapidly developing economies; poverty declines in urban but increases in rural areas; strong construction sector and increasingly diverse economic portfolio; increasing but manageable public debt; large labor force in agriculture<br>
 
 **Real GDP (purchasing power parity)**<br>
-$155.935 billion (2022 est.)<br>
-$146.087 billion (2021 est.)<br>
-$136.53 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$202.758 billion (2023 est.)<br>
+$190.319 billion (2022 est.)<br>
+$179.178 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-6.74% (2022 est.)<br>
-7% (2021 est.)<br>
-1.74% (2020 est.)<br>
+6.54% (2023 est.)<br>
+6.22% (2022 est.)<br>
+7.06% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$5,500 (2022 est.)<br>
-$5,300 (2021 est.)<br>
-$5,100 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$7,000 (2023 est.)<br>
+$6,800 (2022 est.)<br>
+$6,500 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$70.019 billion (2022 est.)<br>
+$78.789 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.39% (2023 est.)<br>
 5.28% (2022 est.)<br>
 4.09% (2021 est.)<br>
-2.43% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -461,17 +461,17 @@ yams, cassava, oil palm fruit, cocoa beans, sugarcane, plantains, rice, rubber, 
 foodstuffs, beverages; wood products, oil refining, gold mining, truck and bus assembly, textiles, fertilizer, building materials, electricity<br>
 
 **Industrial production growth rate**<br>
-8.09% (2022 est.)<br>
+9.06% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-10.609 million (2022 est.)<br>
+10.954 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.49% (2022 est.)<br>
-2.71% (2021 est.)<br>
-2.64% (2020 est.)<br>
+2.4% (2023 est.)<br>
+2.43% (2022 est.)<br>
+2.59% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -480,11 +480,11 @@ _male_: 4.8%<br>
 _female_: 6.8%<br>
 
 **Population below poverty line**<br>
-39.5% (2018 est.)<br>
+37.5% (2021 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-37.2 (2018 est.)<br>
+35.3 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -492,14 +492,14 @@ _on food_: 38.5% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3.2% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9%<br>
-_highest 10%_: 29% (2018 est.)<br>
+_lowest 10%_: 3.1% (2021 est.)<br>
+_highest 10%_: 27.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.51% of GDP (2022 est.)<br>
-0.61% of GDP (2021 est.)<br>
-0.52% of GDP (2020 est.)<br>
+0.57% of GDP (2023 est.)<br>
+1.48% of GDP (2022 est.)<br>
+0.6% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -514,19 +514,19 @@ _expenditures_: $10.145 billion (2019 est.)<br>
 47% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-12.56% (of GDP) (2021 est.)<br>
+11.94% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$5.394 billion (2022 est.)<br>
 -$2.874 billion (2021 est.)<br>
 -$1.974 billion (2020 est.)<br>
--$1.349 billion (2019 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$17.211 billion (2022 est.)<br>
 $16.23 billion (2021 est.)<br>
 $13.232 billion (2020 est.)<br>
-$13.791 billion (2019 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -538,9 +538,9 @@ cocoa beans, gold, rubber, refined petroleum, cocoa paste (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$19.948 billion (2022 est.)<br>
 $16.191 billion (2021 est.)<br>
 $12.66 billion (2020 est.)<br>
-$12.881 billion (2019 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -561,11 +561,11 @@ $11.02 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
-555.446 (2018 est.)<br>
 
 ## Energy
 
@@ -692,11 +692,11 @@ Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republi
 <strong>note:</strong> the National Gendarmerie is a military force established to ensure public safety, maintain order, enforce laws, and protect institutions, people, and property; it is organized into "legions" and has both territorial and mobile units; the Mobile Gendarmerie is responsible for maintaining and restoring order and is considered the backbone of the country’s domestic security; the Territorial Gendarmerie is responsible for the administrative, judicial, and military police; the Gendarmerie also has separate specialized units for security, intervention (counterterrorism, hostage rescue, etc), VIP protection, and surveillance; the Directorate of Territorial Surveillance is responsible for countering internal threats<br>
 
 **Military expenditures**<br>
+0.9% of GDP (2023 est.)<br>
 0.9% of GDP (2022 est.)<br>
 1.1% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
 1.1% of GDP (2019 est.)<br>
-1.2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active troops (23,000 Army, including about 2,000 Special Forces; 1,000 Navy; 1,000 Air Force); 5-10,000 Gendarmerie (2023)<br>
@@ -720,13 +720,13 @@ announced in 2021 that it was in the process of establishing a national space ag
 
 **Space program overview**<br>
 has as small, nascent program focused on acquiring a remote sensing (RS) satellite for purposes detecting illegal gold mining, facilitating access to drinking water, mapping deforestation, and national security issues (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 al-Qa'ida in the Islamic Maghreb (AQIM); Jama’at Nusrat al Islam wal Muslimeen (JNIM)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

@@ -19,7 +19,7 @@ Middle East, bordering the Persian Gulf and the Red Sea, north of Yemen<br>
 Middle East<br>
 
 **Area**<br>
-_total_: 2,149,690 sq km<br>
+_total _: 2,149,690 sq km<br>
 _land_: 2,149,690 sq km<br>
 _water_: 0 sq km<br>
 
@@ -389,31 +389,31 @@ _selected World Heritage Site locales_: Hegra Archaeological Site (al-Hijr / Mad
 high-income, oil-based Middle Eastern economy; OPEC leader; diversifying portfolio; declining per-capita incomes; young labor force; key human capital gaps; heavy bureaucracy and increasing corruption; substantial poverty; low innovation economy<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.827 trillion (2022 est.)<br>
-$1.681 trillion (2021 est.)<br>
-$1.612 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.831 trillion (2023 est.)<br>
+$1.845 trillion (2022 est.)<br>
+$1.717 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-8.68% (2022 est.)<br>
-4.33% (2021 est.)<br>
--4.34% (2020 est.)<br>
+-0.75% (2023 est.)<br>
+7.49% (2022 est.)<br>
+5.08% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$50,200 (2022 est.)<br>
-$46,800 (2021 est.)<br>
-$44,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$49,600 (2023 est.)<br>
+$50,700 (2022 est.)<br>
+$47,800 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.109 trillion (2022 est.)<br>
+$1.068 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.33% (2023 est.)<br>
 2.47% (2022 est.)<br>
 3.06% (2021 est.)<br>
-3.45% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -443,17 +443,17 @@ milk, dates, chicken, wheat, tomatoes, potatoes, watermelons, olives, eggs, onio
 crude oil production, petroleum refining, basic petrochemicals, ammonia, industrial gases, sodium hydroxide (caustic soda), cement, fertilizer, plastics, metals, commercial ship repair, commercial aircraft repair, construction<br>
 
 **Industrial production growth rate**<br>
-13.12% (2022 est.)<br>
+-1.51% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-16.617 million (2022 est.)<br>
+16.934 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+4.88% (2023 est.)<br>
 5.59% (2022 est.)<br>
 6.62% (2021 est.)<br>
-7.45% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -469,9 +469,9 @@ _on food_: 20.5% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 0.7% of household expenditures (2021 est.)<br>
 
 **Remittances**<br>
+0.03% of GDP (2023 est.)<br>
 0.03% of GDP (2022 est.)<br>
 0.03% of GDP (2021 est.)<br>
-0.04% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -486,19 +486,19 @@ _expenditures_: $282.4 billion (2019 est.)<br>
 13.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-8.24% (of GDP) (2020 est.)<br>
+7.77% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$153.486 billion (2022 est.)<br>
-$44.324 billion (2021 est.)<br>
--$22.814 billion (2020 est.)<br>
+$34.07 billion (2023 est.)<br>
+$151.519 billion (2022 est.)<br>
+$41.718 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$445.882 billion (2022 est.)<br>
+$370.974 billion (2023 est.)<br>
+$445.881 billion (2022 est.)<br>
 $286.502 billion (2021 est.)<br>
-$182.848 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -510,9 +510,9 @@ crude petroleum, refined petroleum, ethylene polymers, plastics, fertilizers (20
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$291.565 billion (2023 est.)<br>
 $258.213 billion (2022 est.)<br>
-$213.016 billion (2021 est.)<br>
-$182.184 billion (2020 est.)<br>
+$213.516 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -524,9 +524,9 @@ cars, broadcasting equipment, garments, gold, refined petroleum (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$457.949 billion (2023 est.)<br>
 $478.232 billion (2022 est.)<br>
 $473.89 billion (2021 est.)<br>
-$472.851 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -535,11 +535,11 @@ $189.3 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Saudi riyals (SAR) per US dollar -<br>
+3.75 (2023 est.)<br>
 3.75 (2022 est.)<br>
 3.75 (2021 est.)<br>
 3.75 (2020 est.)<br>
 3.75 (2019 est.)<br>
-3.75 (2018 est.)<br>
 
 ## Energy
 
@@ -663,11 +663,11 @@ the Saudi Arabian Armed Forces (SAAF) include forces from two ministries: <br><b
 <strong>note 1:</strong> the SANG (also known as the White Army) is a land force comprised off tribal elements loyal to the House of Saud; it is responsible for internal security, protecting the royal family, and external defense<br><br><strong>note 2:</strong> the SAAF includes the Saudi Royal Guard Command, a unit which provides security and protection to the ruling family and other dignitaries<br>
 
 **Military expenditures**<br>
+7% of GDP (2023 est.)<br>
 6% of GDP (2022 est.)<br>
 6% of GDP (2021 est.)<br>
 8% of GDP (2020 est.)<br>
 8.8% of GDP (2019 est.)<br>
-10% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Saudi Armed Forces have about 250,000 total active troops; approximately 125,000 under the Ministry of Defense (75,000 Land Forces; 15,000 Naval Forces, including about 3,000 marines; 35,000 Air Force/Air Defense/Strategic Missile Forces) and up to 125,000 in the Saudi Arabia National Guard (SANG) (2023)<br>
@@ -694,13 +694,13 @@ Saudi Space Agency (SSA; elevated to agency level from previous Saudi Space Comm
 
 **Space program overview**<br>
 has an ambitious and growing space program; manufactures and operates communications, remote sensing (RS), and scientific satellites; develops a range of satellite subsystems and payload technologies; SSA's missions also include accelerating economic diversification, enhancing research and development, and raising private sector participation in the global space industry; is the main founder and financier of the Arab Satellite Communications Organization (Arabsat; launched in 1976; headquartered in Riyadh, Saudi Arabia and the primary satellite communications service provider for over 170 million persons in the Arab world); cooperates with the space agencies and industries of a wide range of countries, including those of Belarus, China, Egypt, the European Space Agency and its member states (particularly France, Germany, Greece, and Hungary), India, Kazakhstan, Morocco, Russia, South Africa, South Korea, Ukraine, the UAE, the UK, and the US; member of the Arab Space Cooperation Group (established by the UAE in 2019 and includes Algeria, Bahrain, Egypt, Jordan, Kuwait, Lebanon, Morocco, and Sudan) (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; al-Qa’ida in the Arabian Peninsula (AQAP)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

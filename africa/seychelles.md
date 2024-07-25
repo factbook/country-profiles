@@ -19,7 +19,7 @@ archipelago in the Indian Ocean, northeast of Madagascar<br>
 Africa<br>
 
 **Area**<br>
-_total_: 455 sq km<br>
+_total _: 455 sq km<br>
 _land_: 455 sq km<br>
 _water_: 0 sq km<br>
 
@@ -69,7 +69,7 @@ more than three-quarters of the population lives on the main island of Mahe; Pra
 lies outside the cyclone belt, so severe storms are rare; occasional short droughts<br>
 
 **Geography - note**<br>
-the smallest African country in terms of both area and population; the constitution of the Republic of Seychelles lists 155 islands: 42 granitic and 113 coralline; by far the largest island is Mahe, which is home to about 90% of the population and the site of the capital city of Victoria<br>
+the smallest African country in terms of both area and population; the constitution of the Republic of Seychelles lists 155 islands, 42 granitic and 113 coralline; by far the largest island is Mahe, which is home to about 90% of the population and the site of the capital city of Victoria<br>
 
 ## People and Society
 
@@ -367,25 +367,25 @@ _selected World Heritage Site locales_: Aldabra Atoll; Vall&eacute;e de Mai Natu
 high-income Indian Ocean island economy; rapidly growing tourism sector; major tuna exporter; offshore financial hub; environmentally fragile and investing in ocean rise mitigation; recently discovered offshore oil potential; successful anticorruption efforts<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.022 billion (2022 est.)<br>
-$2.772 billion (2021 est.)<br>
-$2.629 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$3.53 billion (2023 est.)<br>
+$3.421 billion (2022 est.)<br>
+$2.976 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-9% (2022 est.)<br>
-5.43% (2021 est.)<br>
--7.73% (2020 est.)<br>
+3.16% (2023 est.)<br>
+14.98% (2022 est.)<br>
+0.55% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$25,200 (2022 est.)<br>
-$27,900 (2021 est.)<br>
-$26,700 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$29,500 (2023 est.)<br>
+$28,500 (2022 est.)<br>
+$30,000 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.588 billion (2022 est.)<br>
+$2.141 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -419,7 +419,7 @@ coconuts, vegetables, bananas, eggs, chicken, pork, fruits, tomatoes, tropical f
 fishing, tourism, beverages<br>
 
 **Industrial production growth rate**<br>
-3.7% (2022 est.)<br>
+2.13% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -443,14 +443,14 @@ _female_: 15.6%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.6%<br>
+_lowest 10%_: 2.6% (2018 est.)<br>
 _highest 10%_: 23.9% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.68% of GDP (2022 est.)<br>
-0.74% of GDP (2021 est.)<br>
-0.84% of GDP (2020 est.)<br>
+0.49% of GDP (2023 est.)<br>
+0.49% of GDP (2022 est.)<br>
+0.64% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -463,23 +463,23 @@ _expenditures_: $586 million (2019 est.)<br>
 **Public debt**<br>
 63.6% of GDP (2017 est.)<br>
 69.1% of GDP (2016 est.)<br>
-62.71% of GDP (2015 est.)<br>
+60.91% of GDP (2015 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-30.58% (of GDP) (2020 est.)<br>
+26.18% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$142.526 million (2022 est.)<br>
--$154.259 million (2021 est.)<br>
--$173.236 million (2020 est.)<br>
+-$155.194 million (2023 est.)<br>
+-$141.648 million (2022 est.)<br>
+-$160.168 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$2.375 billion (2023 est.)<br>
 $2.247 billion (2022 est.)<br>
 $1.751 billion (2021 est.)<br>
-$1.24 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -491,9 +491,9 @@ fish, refined petroleum, ships, aircraft, animal meal (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$2.437 billion (2023 est.)<br>
 $2.298 billion (2022 est.)<br>
 $1.821 billion (2021 est.)<br>
-$1.332 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -621,11 +621,11 @@ Seychelles Defense Forces (SDF): Army (includes infantry, special forces, and a 
 <strong>note:</strong> the SDF reports to the president, who acts as minister of defense  <br>
 
 **Military expenditures**<br>
+1.6% of GDP (2023 est.)<br>
 1.4% of GDP (2022 est.)<br>
 1.5% of GDP (2021 est.)<br>
 1.6% of GDP (2020 est.)<br>
 1.3% of GDP (2019 est.)<br>
-1.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 500-1,000 personnel (2023)<br>

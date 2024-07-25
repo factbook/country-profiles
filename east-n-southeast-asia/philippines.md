@@ -19,7 +19,7 @@ Southeastern Asia, archipelago between the Philippine Sea and the South China Se
 Southeast Asia<br>
 
 **Area**<br>
-_total_: 300,000 sq km<br>
+_total _: 300,000 sq km<br>
 _land_: 298,170 sq km<br>
 _water_: 1,830 sq km<br>
 
@@ -72,7 +72,7 @@ population concentrated where good farmlands lie; highest concentrations are nor
 <p>astride typhoon belt, usually affected by 15 and struck by five to six cyclonic storms each year; landslides; active volcanoes; destructive earthquakes; tsunamis</p><p><strong>volcanism:</strong> significant volcanic activity; Taal (311 m), which has shown recent unrest and may erupt in the near future, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Mayon (2,462 m), the country's most active volcano, erupted in 2009 forcing over 33,000 to be evacuated; other historically active volcanoes include Biliran, Babuyan Claro, Bulusan, Camiguin, Camiguin de Babuyanes, Didicas, Iraya, Jolo, Kanlaon, Makaturing, Musuan, Parker, Pinatubo, and Ragang; see note 2 under "Geography - note"</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> for decades, the Philippine archipelago was reported as having 7,107 islands; in 2016, the national mapping authority reported that hundreds of new islands had been discovered and increased the number of islands to 7,641 - though not all of the new islands have been verified; the country is favorably located in relation to many of Southeast Asia's main water bodies: the South China Sea, Philippine Sea, Sulu Sea, Celebes Sea, and Luzon Strait</p> <p><strong>note 2:</strong> Philippines is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Philippines sits astride the Pacific typhoon belt and an average of 9 typhoons make landfall on the islands each year - with about 5 of these being destructive; the country is the most exposed in the world to tropical storms</p><br>
+<p><strong>note 1:</strong> for decades, the Philippine archipelago was reported as having 7,107 islands; in 2016, the national mapping authority reported that hundreds of new islands had been discovered and increased the number of islands to 7,641, though not all of the new islands have been verified; the country is favorably located in relation to many of Southeast Asia's main water bodies: the South China Sea, Philippine Sea, Sulu Sea, Celebes Sea, and Luzon Strait</p> <p><strong>note 2:</strong> Philippines is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Philippines sits astride the Pacific typhoon belt and an average of 9 typhoons make landfall on the islands each year -- with about 5 of these being destructive; the country is the most exposed in the world to tropical storms</p><br>
 
 ## People and Society
 
@@ -406,31 +406,31 @@ _selected World Heritage Site locales_: Baroque Churches of the Philippines (c);
 growing Southeast Asian economy; commercial rebound led by transportation, construction and financial services; electronics exports recovering from sector slowdown; significant remittances; interest rate rises following heightened inflation; uncertainties due to increased regional tensions with China&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
-$991.72 billion (2022 est.)<br>
-$921.927 billion (2021 est.)<br>
-$872.09 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.138 trillion (2023 est.)<br>
+$1.078 trillion (2022 est.)<br>
+$1.002 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-7.57% (2022 est.)<br>
+5.55% (2023 est.)<br>
+7.58% (2022 est.)<br>
 5.71% (2021 est.)<br>
--9.52% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$8,600 (2022 est.)<br>
-$8,100 (2021 est.)<br>
-$7,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$9,700 (2023 est.)<br>
+$9,300 (2022 est.)<br>
+$8,800 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$404.284 billion (2022 est.)<br>
+$437.146 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.98% (2023 est.)<br>
 5.82% (2022 est.)<br>
 3.93% (2021 est.)<br>
-2.39% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -460,17 +460,17 @@ sugarcane, rice, coconuts, maize, bananas, vegetables, tropical fruits, plantain
 semiconductors and electronics assembly, business process outsourcing, food and beverage manufacturing, construction, electric/gas/water supply, chemical products, radio/television/communications equipment and apparatus, petroleum and fuel, textile and garments, non-metallic minerals, basic metal industries, transport equipment<br>
 
 **Industrial production growth rate**<br>
-6.54% (2022 est.)<br>
+3.59% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-47.872 million (2022 est.)<br>
+49.477 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.38% (2022 est.)<br>
+2.23% (2023 est.)<br>
+2.6% (2022 est.)<br>
 3.4% (2021 est.)<br>
-2.52% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -491,14 +491,14 @@ _on food_: 38.6% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 2.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.7%<br>
+_lowest 10%_: 2.7% (2021 est.)<br>
 _highest 10%_: 32.5% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.24% of GDP (2022 est.)<br>
+8.94% of GDP (2023 est.)<br>
+9.41% of GDP (2022 est.)<br>
 9.31% of GDP (2021 est.)<br>
-9.64% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -519,15 +519,15 @@ _expenditures_: $90.953 billion (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$18.116 billion (2022 est.)<br>
+-$11.206 billion (2023 est.)<br>
+-$18.261 billion (2022 est.)<br>
 -$5.943 billion (2021 est.)<br>
-$11.578 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$98.853 billion (2022 est.)<br>
+$103.601 billion (2023 est.)<br>
+$98.832 billion (2022 est.)<br>
 $87.798 billion (2021 est.)<br>
-$80.034 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -539,9 +539,9 @@ integrated circuits, machine parts, gold, semiconductors, insulated wire (2022)<
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$152.656 billion (2022 est.)<br>
+$150.269 billion (2023 est.)<br>
+$152.638 billion (2022 est.)<br>
 $126.565 billion (2021 est.)<br>
-$99.943 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -553,9 +553,9 @@ integrated circuits, refined petroleum, coal, cars, plastic products (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$103.742 billion (2023 est.)<br>
 $96.04 billion (2022 est.)<br>
 $108.755 billion (2021 est.)<br>
-$109.99 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -564,11 +564,11 @@ $75.192 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Philippine pesos (PHP) per US dollar -<br>
+55.63 (2023 est.)<br>
 54.478 (2022 est.)<br>
 49.255 (2021 est.)<br>
 49.624 (2020 est.)<br>
 51.796 (2019 est.)<br>
-52.661 (2018 est.)<br>
 
 ## Energy
 
@@ -724,13 +724,13 @@ Philippine Space Agency (PhilSA; established 2019); Philippine Space Council (PS
 
 **Space program overview**<br>
 has a small and ambitious space program focused on acquiring satellites and related technologies, largely for the areas of climate studies, national security, and risk management; also prioritizing development of the country’s space expertise and industry; manufactures and operates satellites (mostly micro- and nano-sized), including remote sensing (RS) and scientific/experimental; has relations with a variety of foreign space agencies and industries, including those of China, the European Space Agency and some of its member states, Japan, Russia, and the US (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Abu Sayyaf Group; Communist Party of the Philippines/New People's Army (CPP/NPA); Islamic State of Iraq and ash-Sham – East Asia (ISIS-EA) in the Philippines<br>
-<strong>note 1: </strong>ISIS-EA factions include Daulah Islamiya-Lanao (aka Maute Group), Daulah Islamiya-Maguindanao, Daulah Islamiya-Socsargen, ISIS-aligned elements of the Abu Sayyaf Group (ASG), ISIS-aligned elements of the Bangsamoro Islamic Freedom Fighters (BIFF), and rogue elements of the Moro Islamic Liberation Front (MILF) <strong><br><br>note 2:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note 1: </strong>ISIS-EA factions include Daulah Islamiya-Lanao (aka Maute Group), Daulah Islamiya-Maguindanao, Daulah Islamiya-Socsargen, ISIS-aligned elements of the Abu Sayyaf Group (ASG), ISIS-aligned elements of the Bangsamoro Islamic Freedom Fighters (BIFF), and rogue elements of the Moro Islamic Liberation Front (MILF) <strong><br><br>note 2:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

@@ -19,7 +19,7 @@ Central America, bordering the North Pacific Ocean, between El Salvador and Mexi
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 108,889 sq km<br>
+_total _: 108,889 sq km<br>
 _land_: 107,159 sq km<br>
 _water_: 1,730 sq km<br>
 
@@ -393,31 +393,31 @@ _selected World Heritage Site locales_: Antigua Guatemala (c); Tikal National Pa
 developing Central American economy; steady economic growth fueled by remittances; high poverty and income inequality; limited government services, lack of employment opportunities, and frequent natural disasters impede human development efforts and drive emigration<br>
 
 **Real GDP (purchasing power parity)**<br>
-$159.034 billion (2022 est.)<br>
-$152.744 billion (2021 est.)<br>
-$141.426 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$223.183 billion (2023 est.)<br>
+$215.668 billion (2022 est.)<br>
+$207.138 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.48% (2023 est.)<br>
 4.12% (2022 est.)<br>
 8% (2021 est.)<br>
--1.79% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$9,200 (2022 est.)<br>
-$8,900 (2021 est.)<br>
-$8,400 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$12,700 (2023 est.)<br>
+$12,400 (2022 est.)<br>
+$12,100 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$95.003 billion (2022 est.)<br>
+$102.05 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.21% (2023 est.)<br>
 6.89% (2022 est.)<br>
 4.26% (2021 est.)<br>
-3.21% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -447,17 +447,17 @@ sugarcane, bananas, oil palm fruit, maize, cantaloupes/melons, potatoes, milk, t
 sugar, textiles and clothing, furniture, chemicals, petroleum, metals, rubber, tourism<br>
 
 **Industrial production growth rate**<br>
-4.64% (2022 est.)<br>
+1.91% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-7.069 million (2022 est.)<br>
+7.258 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+2.71% (2023 est.)<br>
 3.05% (2022 est.)<br>
 2.17% (2021 est.)<br>
-2.88% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -478,14 +478,14 @@ _on food_: 41.2% of household expenditures (2018 est.)<br>
 _on alcohol and tobacco_: 1.6% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.7%<br>
+_lowest 10%_: 1.7% (2014 est.)<br>
 _highest 10%_: 38.1% (2014 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+19.46% of GDP (2023 est.)<br>
 19.16% of GDP (2022 est.)<br>
 17.9% of GDP (2021 est.)<br>
-14.68% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -502,19 +502,19 @@ _expenditures_: $10.373 billion (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-11.61% (of GDP) (2021 est.)<br>
+11.9% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$1.243 billion (2022 est.)<br>
+$3.281 billion (2023 est.)<br>
+$1.197 billion (2022 est.)<br>
 $1.89 billion (2021 est.)<br>
-$3.918 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$18.127 billion (2022 est.)<br>
+$17.308 billion (2023 est.)<br>
+$18.141 billion (2022 est.)<br>
 $15.246 billion (2021 est.)<br>
-$12.713 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -526,9 +526,9 @@ garments, coffee, bananas, palm oil, raw sugar (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$33.938 billion (2022 est.)<br>
+$33.041 billion (2023 est.)<br>
+$33.939 billion (2022 est.)<br>
 $27.343 billion (2021 est.)<br>
-$19.267 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -540,9 +540,9 @@ refined petroleum, video displays, paper, plastic products, cars (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$21.311 billion (2023 est.)<br>
 $20.415 billion (2022 est.)<br>
 $20.935 billion (2021 est.)<br>
-$18.464 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -551,11 +551,11 @@ $21.45 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: quetzales (GTQ) per US dollar -<br>
+7.832 (2023 est.)<br>
 7.748 (2022 est.)<br>
 7.734 (2021 est.)<br>
 7.722 (2020 est.)<br>
 7.697 (2019 est.)<br>
-7.519 (2018 est.)<br>
 
 ## Energy
 

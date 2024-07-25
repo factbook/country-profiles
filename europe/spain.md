@@ -19,7 +19,7 @@ Southwestern Europe, bordering the Mediterranean Sea, North Atlantic Ocean, Bay 
 Europe<br>
 
 **Area**<br>
-_total_: 505,370 sq km<br>
+_total _: 505,370 sq km<br>
 _land_: 498,980 sq km<br>
 _water_: 6,390 sq km<br>
 <strong>note:</strong> there are two autonomous cities - Ceuta and Melilla - and 17 autonomous communities including Balearic Islands and Canary Islands, and three small Spanish possessions off the coast of Morocco - Islas Chafarinas, Penon de Alhucemas, and Penon de Velez de la Gomera<br>
@@ -341,7 +341,7 @@ _chief of state_: King FELIPE VI (since 19 June 2014)<br>
 _head of government_: President of the Government of Spain (prime minister-equivalent) Pedro SANCHEZ PEREZ-CASTEJON (since 2 June 2018)<br>
 _cabinet_: Council of Ministers designated by the president<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the monarch usually proposes as president the leader of the majority party or coalition, who is then indirectly elected by the Congress of Deputies; election last held on 23 July 2023 (next to be held on 31 July 2027); vice president and Council of Ministers appointed by the president<br>
-_election results_: Congress of Deputies vote - NA<br>
+_election results_: Congress of Deputies vote - 179 to 171 (16 November 2023)<br>
 <strong>note:</strong> there is also a Council of State that is the supreme consultative organ of the government, but its recommendations are non-binding<br>
 
 **Legislative branch**<br>
@@ -399,31 +399,31 @@ _selected World Heritage Site locales_: Cave of Altamira and Paleolithic Cave Ar
 high-income core EU and eurozone economy; strong growth driven by public consumption, tourism, and other service exports; tight labor market despite high structural unemployment; government debt remains high amid deficit reductions; innovation and economic freedom ranked lower than EU and OECD peers<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.922 trillion (2022 est.)<br>
-$1.817 trillion (2021 est.)<br>
-$1.708 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2.242 trillion (2023 est.)<br>
+$2.188 trillion (2022 est.)<br>
+$2.068 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.5% (2023 est.)<br>
 5.77% (2022 est.)<br>
 6.4% (2021 est.)<br>
--11.17% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$40,200 (2022 est.)<br>
-$38,300 (2021 est.)<br>
-$36,100 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$46,400 (2023 est.)<br>
+$45,800 (2022 est.)<br>
+$43,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.418 trillion (2022 est.)<br>
+$1.581 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.53% (2023 est.)<br>
 8.39% (2022 est.)<br>
 3.09% (2021 est.)<br>
--0.32% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -453,17 +453,17 @@ milk, barley, wheat, grapes, pork, olives, tomatoes, maize, oranges, sugar beets
 textiles and apparel (including footwear), food and beverages, metals and metal manufactures, chemicals, shipbuilding, automobiles, machine tools, tourism, clay and refractory products, footwear, pharmaceuticals, medical equipment<br>
 
 **Industrial production growth rate**<br>
-2.71% (2022 est.)<br>
+1.94% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-23.687 million (2022 est.)<br>
+24.108 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+12.14% (2023 est.)<br>
 12.92% (2022 est.)<br>
 14.78% (2021 est.)<br>
-15.53% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -472,11 +472,11 @@ _male_: 35.9%<br>
 _female_: 38.2%<br>
 
 **Population below poverty line**<br>
-20.4% (2021 est.)<br>
+20.2% (2022 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-34.9 (2020 est.)<br>
+33.9 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -484,14 +484,14 @@ _on food_: 13.1% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.9%<br>
-_highest 10%_: 25% (2020 est.)<br>
+_lowest 10%_: 2.2% (2021 est.)<br>
+_highest 10%_: 24.7% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.31% of GDP (2023 est.)<br>
 0.3% of GDP (2022 est.)<br>
 0.27% of GDP (2021 est.)<br>
-0.23% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -502,25 +502,25 @@ _expenditures_: $585.979 billion (2019 est.)<br>
 -3.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-134.1% of GDP (2021 est.)<br>
-140.27% of GDP (2020 est.)<br>
-112.05% of GDP (2019 est.)<br>
+111.43% of GDP (2022 est.)<br>
+134.02% of GDP (2021 est.)<br>
+140.18% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-15.03% (of GDP) (2021 est.)<br>
+15.82% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$41.094 billion (2023 est.)<br>
 $8.095 billion (2022 est.)<br>
 $10.893 billion (2021 est.)<br>
-$8.229 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$615.83 billion (2023 est.)<br>
 $578.039 billion (2022 est.)<br>
 $493.359 billion (2021 est.)<br>
-$393.87 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -532,9 +532,9 @@ cars, refined petroleum, garments, packaged medicine, vehicle parts/accessories 
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$550.576 billion (2023 est.)<br>
 $561.49 billion (2022 est.)<br>
 $479.392 billion (2021 est.)<br>
-$375.378 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -546,9 +546,9 @@ crude petroleum, natural gas, garments, cars, vehicle parts/accessories (2022)<b
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$103.089 billion (2023 est.)<br>
 $92.905 billion (2022 est.)<br>
 $92.201 billion (2021 est.)<br>
-$81.288 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -557,11 +557,11 @@ $2.366 trillion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 
 ## Energy
 
@@ -730,13 +730,13 @@ El Arenosillo Test Center/Range (Andalusia); private launch site (Teruel provinc
 
 **Space program overview**<br>
 space program is integrated into the European Space Agency (ESA) and dates back to the 1940s; manufactures and operates communications, remote sensing (RS), and scientific/technology satellites; has developed sounding rockets; conducts research and development in a broad range of space-related capabilities, including astrobiology, astronomy, imaging/RS, materials, meteorology, optics, propulsion, robotics, satellites (particularly micro- and nano-satellites), satellite systems and subsystems, satellite/space launch vehicles (SLVs), and space sciences; participates in ESA, EU, and other international programs; hosts the European Space Astronomy Center (ESOC) and the ESA’s Space Surveillance and Tracking Data Centre (ESAC); cooperates with foreign space agencies and industries, including those of ESA and EU member states and the US; has a considerable commercial space industry, which is involved in a wide range of space-related research, development, and production, including satellites and SLVs; the CDTI coordinates the activities of the commercial space sector (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

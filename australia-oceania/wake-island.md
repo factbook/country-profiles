@@ -19,7 +19,7 @@ Oceania, atoll in the North Pacific Ocean, about two-thirds of the way from Hawa
 Oceania<br>
 
 **Area**<br>
-_total_: 7 sq km<br>
+_total _: 7 sq km<br>
 _land_: 6.5 sq km<br>
 _water_: 0 sq km<br>
 

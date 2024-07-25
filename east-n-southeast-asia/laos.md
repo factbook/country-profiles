@@ -19,7 +19,7 @@ Southeastern Asia, northeast of Thailand, west of Vietnam<br>
 Southeast Asia<br>
 
 **Area**<br>
-_total_: 236,800 sq km<br>
+_total _: 236,800 sq km<br>
 _land_: 230,800 sq km<br>
 _water_: 6,000 sq km<br>
 
@@ -300,7 +300,7 @@ _abbreviation_: Lao PDR<br>
 _etymology_: name means "Land of the Lao [people]"<br>
 
 **Government type**<br>
-communist state<br>
+communist party-led state<br>
 
 **Capital**<br>
 _name_: Vientiane (Viangchan)<br>
@@ -341,7 +341,7 @@ _chief of state_: President THONGLOUN Sisoulith (since 22 March 2021)<br>
 _head of government_: Prime Minister SONEXAY Siphandon (since 30 December 2022)<br>
 _cabinet_: Council of Ministers appointed by the president and approved by the National Assembly<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (no term limits); election last held on 22 March 2021 (next to be held in March 2026); prime minister nominated by the president, elected by the National Assembly for a 5-year term<br>
-_election results_: <em><br>2021: </em>THONGLOUN Sisoulith elected president; National Assembly vote - THONGLOUN Sisoulith (LPRP) 161-1; PANY Yathotou and BOUNTHONG Chitmany (LPRP) elected vice presidents; National Assembly vote - NA; PHANKHAM Viphavanh (LPRP) elected prime minister; National Assembly vote - 158-3<br><br><em>2016:</em> BOUNNHANG Vorachit (LPRP) elected president; PHANKHAM Viphavanh (LPRP) elected vice president; percent of National Assembly vote - NA; THONGLOUN Sisoulith (LPRP) elected prime minister; percent of National Assembly vote - NA<br>
+_election results_: <em><br>2021: </em>THONGLOUN Sisoulith (LPRP) elected president; National Assembly vote - 161-1; PHANKHAM Viphavanh (LPRP) elected prime minister; National Assembly vote - 158-3<br><br><em>2016:</em> BOUNNHANG Vorachit (LPRP) elected president; percent of National Assembly vote - NA; THONGLOUN Sisoulith (LPRP) elected prime minister; percent of National Assembly vote - NA<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Sapha Heng Xat (164 seats; members directly elected in multi-seat constituencies by simple majority vote from candidate lists provided by the Lao People's Revolutionary Party; members serve 5-year terms)<br>
@@ -396,37 +396,37 @@ _selected World Heritage Site locales_: Town of Luangphrabang; Vat Phou and Asso
 lower middle-income, industrial Southeast Asian economy; high inflation due to 2022 currency depreciation brought on by persistently high debt; new Laos-China railway and dry port; rising inequities; ongoing labor shortages<br>
 
 **Real GDP (purchasing power parity)**<br>
-$59.842 billion (2022 est.)<br>
-$58.264 billion (2021 est.)<br>
-$56.827 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$64.173 billion (2023 est.)<br>
+$61.856 billion (2022 est.)<br>
+$60.225 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.75% (2023 est.)<br>
 2.71% (2022 est.)<br>
 2.53% (2021 est.)<br>
-0.5% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$7,900 (2022 est.)<br>
-$7,800 (2021 est.)<br>
-$7,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$8,400 (2023 est.)<br>
+$8,200 (2022 est.)<br>
+$8,100 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$15.469 billion (2022 est.)<br>
+$15.843 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+31.23% (2023 est.)<br>
 22.96% (2022 est.)<br>
 3.76% (2021 est.)<br>
-5.1% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2020)<br>
 _Moody's rating_: Caa2 (2020)<br>
-<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
+<strong>note: </strong>the year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 20.9% (2017 est.)<br>
@@ -449,17 +449,17 @@ cassava, root vegetables, rice, sugarcane, vegetables, bananas, maize, rubber, c
 mining (copper, tin, gold, gypsum); timber, electric power, agricultural processing, rubber, construction, garments, cement, tourism<br>
 
 **Industrial production growth rate**<br>
-3.34% (2022 est.)<br>
+2.61% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.106 million (2022 est.)<br>
+3.174 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.82% (2022 est.)<br>
-4.15% (2021 est.)<br>
-3.86% (2020 est.)<br>
+1.18% (2023 est.)<br>
+1.21% (2022 est.)<br>
+2% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -480,14 +480,14 @@ _on food_: 50.6% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 10.8% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3%<br>
+_lowest 10%_: 3% (2018 est.)<br>
 _highest 10%_: 31.2% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.28% of GDP (2022 est.)<br>
+1.42% of GDP (2023 est.)<br>
+1.55% of GDP (2022 est.)<br>
 1.17% of GDP (2021 est.)<br>
-1.22% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -502,7 +502,7 @@ _expenditures_: $3.839 billion (2019 est.)<br>
 58.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-18.3% (of GDP) (2017 est.)<br>
+12.11% (of GDP) (2022 est.)<br>
 
 **Current account balance**<br>
 -$10.954 million (2022 est.)<br>
@@ -539,9 +539,9 @@ refined petroleum, gold, electrical machinery, raw sugar, plastic products (2022
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.216 billion (2022 est.)<br>
-$1.476 billion (2021 est.)<br>
-$1.393 billion (2020 est.)<br>
+$1.77 billion (2023 est.)<br>
+$1.576 billion (2022 est.)<br>
+$1.951 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -550,11 +550,11 @@ $12.9 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: kips (LAK) per US dollar -<br>
+17,688.874 (2023 est.)<br>
 14,035.227 (2022 est.)<br>
 9,697.916 (2021 est.)<br>
 9,045.788 (2020 est.)<br>
 8,679.409 (2019 est.)<br>
-8,401.335 (2018 est.)<br>
 
 ## Energy
 

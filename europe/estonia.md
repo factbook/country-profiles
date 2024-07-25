@@ -19,7 +19,7 @@ Eastern Europe, bordering the Baltic Sea and Gulf of Finland, between Latvia and
 Europe<br>
 
 **Area**<br>
-_total_: 45,228 sq km<br>
+_total _: 45,228 sq km<br>
 _land_: 42,388 sq km<br>
 _water_: 2,840 sq km<br>
 <strong>note:</strong> includes 1,520 islands in the Baltic Sea<br>
@@ -389,31 +389,31 @@ _selected World Heritage Site locales_: Historic Center (Old Town) of Tallinn; S
 advanced, service-based EU and eurozone economy; economic downturn due to inflation, trade, and energy impacts of Ukraine war; decline in intra-EU trade; low public debt relative to EU members; recovery depends on improving private investment and productivity rates<br>
 
 **Real GDP (purchasing power parity)**<br>
-$50.867 billion (2022 est.)<br>
-$51.531 billion (2021 est.)<br>
-$47.708 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$57.377 billion (2023 est.)<br>
+$59.155 billion (2022 est.)<br>
+$59.429 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--1.29% (2022 est.)<br>
-8.01% (2021 est.)<br>
--0.55% (2020 est.)<br>
+-3.01% (2023 est.)<br>
+-0.46% (2022 est.)<br>
+7.25% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$37,700 (2022 est.)<br>
-$38,700 (2021 est.)<br>
-$35,900 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$42,000 (2023 est.)<br>
+$43,900 (2022 est.)<br>
+$44,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$38.101 billion (2022 est.)<br>
+$40.745 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+9.16% (2023 est.)<br>
 19.4% (2022 est.)<br>
 4.65% (2021 est.)<br>
--0.44% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -443,17 +443,17 @@ wheat, milk, barley, rapeseed, oats, peas, potatoes, rye, pork, beans (2022)<br>
 food, engineering, electronics, wood and wood products, textiles; information technology, telecommunications<br>
 
 **Industrial production growth rate**<br>
--2.96% (2022 est.)<br>
+-9.7% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-734,000 (2022 est.)<br>
+752,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+6.35% (2023 est.)<br>
 5.57% (2022 est.)<br>
 6.18% (2021 est.)<br>
-6.8% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -462,11 +462,11 @@ _male_: 16.5%<br>
 _female_: 17.8%<br>
 
 **Population below poverty line**<br>
-22.8% (2021 est.)<br>
+22.5% (2022 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-30.7 (2020 est.)<br>
+31.8 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -474,14 +474,14 @@ _on food_: 20.2% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 7.8% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3%<br>
-_highest 10%_: 23.5% (2020 est.)<br>
+_lowest 10%_: 3.1% (2021 est.)<br>
+_highest 10%_: 24.3% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.23% of GDP (2022 est.)<br>
-1.56% of GDP (2021 est.)<br>
-1.61% of GDP (2020 est.)<br>
+1.2% of GDP (2023 est.)<br>
+1.24% of GDP (2022 est.)<br>
+1.6% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -492,25 +492,25 @@ _expenditures_: $12.269 billion (2019 est.)<br>
 -0.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-23.67% of GDP (2021 est.)<br>
-23.76% of GDP (2020 est.)<br>
-14.05% of GDP (2019 est.)<br>
+25.2% of GDP (2022 est.)<br>
+23.89% of GDP (2021 est.)<br>
+23.77% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-21.42% (of GDP) (2021 est.)<br>
+21.01% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$848.528 million (2023 est.)<br>
 -$1.231 billion (2022 est.)<br>
 -$1.002 billion (2021 est.)<br>
--$660.167 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$31.939 billion (2023 est.)<br>
 $32.461 billion (2022 est.)<br>
 $29.522 billion (2021 est.)<br>
-$21.721 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -522,9 +522,9 @@ electricity, broadcasting equipment, refined petroleum, wood, coal tar oil (2022
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$31.701 billion (2023 est.)<br>
 $32.671 billion (2022 est.)<br>
 $29.937 billion (2021 est.)<br>
-$21.966 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -536,9 +536,9 @@ refined petroleum, cars, electricity, natural gas, coal tar oil (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$2.593 billion (2023 est.)<br>
 $2.217 billion (2022 est.)<br>
 $2.371 billion (2021 est.)<br>
-$1.997 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -547,11 +547,11 @@ $23.607 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 
 ## Energy
 

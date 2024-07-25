@@ -19,7 +19,7 @@ Oceania, group of islands in the South Pacific Ocean, east of Papua New Guinea<b
 Oceania<br>
 
 **Area**<br>
-_total_: 28,896 sq km<br>
+_total _: 28,896 sq km<br>
 _land_: 27,986 sq km<br>
 _water_: 910 sq km<br>
 
@@ -358,31 +358,31 @@ _selected World Heritage Site locales_: East Rennell<br>
 lower middle-income Pacific island economy; natural resource rich but environmentally fragile; key agrarian sector; growing Chinese economic relationship; infrastructure damage due to social unrest; metal mining operations<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.628 billion (2022 est.)<br>
-$1.697 billion (2021 est.)<br>
-$1.707 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2.025 billion (2023 est.)<br>
+$1.967 billion (2022 est.)<br>
+$1.921 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--4.06% (2022 est.)<br>
--0.57% (2021 est.)<br>
--3.38% (2020 est.)<br>
+2.95% (2023 est.)<br>
+2.4% (2022 est.)<br>
+2.56% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,200 (2022 est.)<br>
-$2,400 (2021 est.)<br>
-$2,500 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2,700 (2023 est.)<br>
+$2,700 (2022 est.)<br>
+$2,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.597 billion (2022 est.)<br>
+$1.631 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.89% (2023 est.)<br>
 5.52% (2022 est.)<br>
 -0.12% (2021 est.)<br>
-2.96% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -410,17 +410,17 @@ oil palm fruit, coconuts, sweet potatoes, taro, yams, fruits, pulses, vegetables
 fish (tuna), mining, timber<br>
 
 **Industrial production growth rate**<br>
--3.84% (2020 est.)<br>
+4.7% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-372,000 (2022 est.)<br>
+382,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.61% (2022 est.)<br>
-0.94% (2021 est.)<br>
-0.89% (2020 est.)<br>
+1.55% (2023 est.)<br>
+1.58% (2022 est.)<br>
+0.87% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -435,9 +435,9 @@ _female_: 2.3%<br>
 37.1 (2013 est.)<br>
 
 **Remittances**<br>
-5.08% of GDP (2022 est.)<br>
-3.23% of GDP (2021 est.)<br>
-1.79% of GDP (2020 est.)<br>
+5.18% of GDP (2023 est.)<br>
+5.18% of GDP (2022 est.)<br>
+3.35% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -448,25 +448,25 @@ _expenditures_: $537 million (2019 est.)<br>
 -2.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+15.39% of GDP (2022 est.)<br>
 11.46% of GDP (2020 est.)<br>
 7.74% of GDP (2019 est.)<br>
-7.69% of GDP (2018 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-20.67% (of GDP) (2021 est.)<br>
+20.67% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$178.197 million (2023 est.)<br>
 -$218.534 million (2022 est.)<br>
 -$78.192 million (2021 est.)<br>
--$25.06 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$546.025 million (2023 est.)<br>
 $411.359 million (2022 est.)<br>
 $413.657 million (2021 est.)<br>
-$428.834 million (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -478,9 +478,9 @@ wood, fish, palm oil, gold, coconut oil (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$883.611 million (2023 est.)<br>
 $764.641 million (2022 est.)<br>
 $619.46 million (2021 est.)<br>
-$556.26 million (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -503,11 +503,11 @@ $643 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Solomon Islands dollars (SBD) per US dollar -<br>
+8.376 (2023 est.)<br>
 8.156 (2022 est.)<br>
 8.03 (2021 est.)<br>
 8.213 (2020 est.)<br>
 8.173 (2019 est.)<br>
-7.953 (2018 est.)<br>
 
 ## Energy
 

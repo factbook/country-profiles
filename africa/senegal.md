@@ -19,7 +19,7 @@ Western Africa, bordering the North Atlantic Ocean, between Guinea-Bissau and Ma
 Africa<br>
 
 **Area**<br>
-_total_: 196,722 sq km<br>
+_total _: 196,722 sq km<br>
 _land_: 192,530 sq km<br>
 _water_: 4,192 sq km<br>
 
@@ -356,7 +356,7 @@ _chief of state_: President Bassirou Diomaye FAYE (since 2 April 2024)<br>
 _head of government_: Prime Minister Ousmane SONKO (since 2 April 2024)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single, renewable 5-year term; election last held on 24 March 2024 (next to be held in 2029)<br>
-_election results_: <em>2024:</em> Bassirou Diomaye FAYE elected president in first round; percent of vote - Bassirou Diomaye FAYE (PASTEF) 54%, Amadou BA (APR) 36%, other 10%<br><em><em><br>2019:</em></em> Macky SALL reelected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%, other 5.5% <p> </p><br>
+_election results_: <em><br>2024:</em> Bassirou Diomaye FAYE elected president in first round; percent of vote - Bassirou Diomaye FAYE (PASTEF) 54%, Amadou BA (APR) 36%, other 10%<br><em><em><br>2019:</em></em> Macky SALL reelected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%, other 5.5% <p> </p><br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembl&eacute;e Nationale (165 seats; 112 members including 15 representing Senegalese diaspora directly elected by plurality vote in single- and multi-seat constituencies and 53 members directly elected by proportional representation vote in a single nationwide constituency; member term is 5-years)<br>
@@ -411,25 +411,25 @@ _selected World Heritage Site locales_: Island of Gor&eacute;e (c); Niokolo-Koba
 lower middle-income, services-driven West African economy; key mining, construction, agriculture, and fishing industries; tourism and exports hit hard by COVID-19; large informal economy; developing offshore oil and gas fields; systemic corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
-$61.727 billion (2022 est.)<br>
-$59.265 billion (2021 est.)<br>
-$55.627 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$77.382 billion (2023 est.)<br>
+$74.621 billion (2022 est.)<br>
+$71.874 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.15% (2022 est.)<br>
+3.7% (2023 est.)<br>
+3.82% (2022 est.)<br>
 6.54% (2021 est.)<br>
-1.34% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,600 (2022 est.)<br>
-$3,500 (2021 est.)<br>
-$3,400 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$4,400 (2023 est.)<br>
+$4,300 (2022 est.)<br>
+$4,300 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$27.684 billion (2022 est.)<br>
+$31.014 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -464,17 +464,17 @@ groundnuts, watermelons, rice, cassava, sugarcane, millet, maize, onions, sorghu
 agricultural and fish processing, phosphate mining, fertilizer production, petroleum refining, zircon, and gold mining, construction materials, ship construction and repair<br>
 
 **Industrial production growth rate**<br>
-1.14% (2022 est.)<br>
+2.9% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.124 million (2022 est.)<br>
+5.257 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.01% (2022 est.)<br>
-3.32% (2021 est.)<br>
-3.34% (2020 est.)<br>
+2.93% (2023 est.)<br>
+2.97% (2022 est.)<br>
+3.37% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -486,18 +486,18 @@ _female_: 7.5%<br>
 46.7% (2011 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-38.3 (2018 est.)<br>
+36.2 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3%<br>
-_highest 10%_: 30.8% (2018 est.)<br>
+_lowest 10%_: 3% (2021 est.)<br>
+_highest 10%_: 28.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-9.03% of GDP (2022 est.)<br>
-11.23% of GDP (2021 est.)<br>
-10.63% of GDP (2020 est.)<br>
+9.47% of GDP (2023 est.)<br>
+10.89% of GDP (2022 est.)<br>
+11.25% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -512,7 +512,7 @@ _expenditures_: $5.662 billion (2019 est.)<br>
 47.8% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-18.66% (of GDP) (2022 est.)<br>
+18.7% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -559,11 +559,11 @@ $6.327 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
-555.446 (2018 est.)<br>
 
 ## Energy
 
@@ -684,11 +684,11 @@ Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army (l’Arm�
 <strong>note:</strong> the National Police operates in major cities, while the Gendarmerie under the FAS primarily operates outside urban areas; both services have specialized anti-terrorism units<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2023 est.)<br>
 1.6% of GDP (2022 est.)<br>
 1.7% of GDP (2021 est.)<br>
 1.5% of GDP (2020 est.)<br>
 1.5% of GDP (2019 est.)<br>
-1.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 27,000 active personnel (15,000 Army; 1,500 Navy; 1,500 Air Force; 16,000 National Gendarmerie); 15,000 National Police (2023)<br>

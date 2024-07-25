@@ -19,7 +19,7 @@ Northern North America, bordering the North Atlantic Ocean on the east, North Pa
 North America<br>
 
 **Area**<br>
-_total_: 9,984,670 sq km<br>
+_total _: 9,984,670 sq km<br>
 _land_: 9,093,507 sq km<br>
 _water_: 891,163 sq km<br>
 
@@ -85,7 +85,7 @@ vast majority of Canadians are positioned in a discontinuous band within approxi
 <p>continuous permafrost in north is a serious obstacle to development; cyclonic storms form east of the Rocky Mountains, a result of the mixing of air masses from the Arctic, Pacific, and North American interior, and produce most of the country's rain and snow east of the mountains</p><p><strong>volcanism:</strong> the vast majority of volcanoes in Western Canada's Coast Mountains remain dormant</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> second-largest country in world (after Russia) and largest in the Americas; strategic location between Russia and US via north polar route; approximately 90% of the population is concentrated within 160 km (100 mi) of the US border</p> <p><strong>note 2:</strong> Canada has more fresh water than any other country and almost 9% of Canadian territory is water; Canada has at least 2 million and possibly over 3 million lakes - that is more than all other countries combined</p><br>
+<p><strong>note 1:</strong> second-largest country in world (after Russia) and largest in the Americas; strategic location between Russia and US via north polar route; approximately 90% of the population is concentrated within 160 km (100 mi) of the US border</p> <p><strong>note 2:</strong> Canada has more fresh water than any other country and almost 9% of Canadian territory is water; Canada has at least 2 million and possibly over 3 million lakes -- that is more than all other countries combined</p><br>
 
 ## People and Society
 
@@ -411,31 +411,31 @@ _selected World Heritage Site locales_: L'Anse aux Meadows (c); Canadian Rocky M
 one of the world&rsquo;s leading developed economies; globally integrated commercial and financial markets; largest US trading partner; key energy, forestry, manufacturing and service industries; inflation recovering following interest rate hikes; government priorities include climate policy, immigration and affordable housing<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.907 trillion (2022 est.)<br>
-$1.843 trillion (2021 est.)<br>
-$1.755 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2.238 trillion (2023 est.)<br>
+$2.215 trillion (2022 est.)<br>
+$2.133 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.44% (2022 est.)<br>
-5.01% (2021 est.)<br>
--5.07% (2020 est.)<br>
+1.07% (2023 est.)<br>
+3.82% (2022 est.)<br>
+5.29% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$49,000 (2022 est.)<br>
-$48,200 (2021 est.)<br>
-$46,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$55,800 (2023 est.)<br>
+$56,900 (2022 est.)<br>
+$55,800 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.138 trillion (2022 est.)<br>
+$2.14 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.88% (2023 est.)<br>
 6.8% (2022 est.)<br>
 3.4% (2021 est.)<br>
-0.72% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -465,17 +465,17 @@ wheat, rapeseed, maize, barley, milk, soybeans, potatoes, oats, peas, lentils (2
 transportation equipment, chemicals, processed and unprocessed minerals, food products, wood and paper products, fish products, petroleum, natural gas<br>
 
 **Industrial production growth rate**<br>
-3.21% (2022 est.)<br>
+-0.9% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-21.363 million (2022 est.)<br>
+22.11 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+5.37% (2023 est.)<br>
 5.28% (2022 est.)<br>
 7.53% (2021 est.)<br>
-9.66% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -496,14 +496,14 @@ _on food_: 10% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 4.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9%<br>
+_lowest 10%_: 2.9% (2019 est.)<br>
 _highest 10%_: 24.4% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.04% of GDP (2023 est.)<br>
 0.04% of GDP (2022 est.)<br>
 0.04% of GDP (2021 est.)<br>
-0.05% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -524,15 +524,15 @@ _expenditures_: $861.955 billion (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$6.654 billion (2022 est.)<br>
--$5.448 billion (2021 est.)<br>
--$35.373 billion (2020 est.)<br>
+-$13.255 billion (2023 est.)<br>
+-$7.622 billion (2022 est.)<br>
+$256.504 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$722.831 billion (2022 est.)<br>
-$618.761 billion (2021 est.)<br>
-$490.107 billion (2020 est.)<br>
+$717.677 billion (2023 est.)<br>
+$731.81 billion (2022 est.)<br>
+$626.676 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -544,9 +544,9 @@ crude petroleum, cars, natural gas, refined petroleum, gold (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$719.339 billion (2022 est.)<br>
-$619.639 billion (2021 est.)<br>
-$526.936 billion (2020 est.)<br>
+$726.139 billion (2023 est.)<br>
+$728.732 billion (2022 est.)<br>
+$626.558 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -558,9 +558,9 @@ cars, refined petroleum, vehicle parts/accessories, trucks, crude petroleum (202
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$117.551 billion (2023 est.)<br>
 $106.952 billion (2022 est.)<br>
 $106.615 billion (2021 est.)<br>
-$90.428 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -569,11 +569,11 @@ $1,949,796,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Canadian dollars (CAD) per US dollar -<br>
+1.35 (2023 est.)<br>
 1.302 (2022 est.)<br>
 1.254 (2021 est.)<br>
 1.341 (2020 est.)<br>
 1.327 (2019 est.)<br>
-1.296 (2018 est.)<br>
 
 ## Energy
 
@@ -640,8 +640,8 @@ _total subscriptions_: 35.082 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 91 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the Canadian telecom market continues to show steady development as operators invest in network upgrades; much of the investment among telcos has been channeled into LTE infrastructure to capitalize on consumer demand for mobile data services, while there has also been further investment in 5G; investment programs have also been supported by regulatory efforts to ensure that operators have spectrum available to develop 5G services; an investment in fixed-line infrastructure, focused on FttP and, among cable broadband providers; government policy has encouraged the extension of broadband to rural and regional areas, with the result that services are almost universally available and the emphasis now is on improving service speeds to enable the entire population to benefit from the digital economy and society; cable broadband is the principal access platform, followed by DSL; the mobile rate remains comparatively low by international standards; Canadians have provided for LTE and LTE-A infrastructure; despite topographical challenges and the remoteness of many areas, the major players effectively offer 99% population coverage with LTE; operators now provide up to 70% population coverage with 5G (2022)<br>
-_domestic_: Nearly 34 per 100 fixed-line and 86 per 100 mobile-cellular teledensity (2021)<br>
+_general assessment_: the Canadian telecom market continues to show steady development as operators invest in network upgrades; much of the investment among telcos has been channeled into LTE infrastructure to capitalize on consumer demand for mobile data services, while there has also been further investment in 5G; investment programs have also been supported by regulatory efforts to ensure that operators have spectrum available to develop 5G services; an investment in fixed-line infrastructure, focused on FttP and, among cable broadband providers; government policy has encouraged the extension of broadband to rural and regional areas, with the result that services are almost universally available and the emphasis now is on improving service speeds to enable the entire population to benefit from the digital economy and society; cable broadband is the principal access platform, followed by DSL; the mobile rate remains comparatively low by international standards; Canadians have provided for LTE and LTE-A infrastructure; despite topographical challenges and the remoteness of many areas, the major players effectively offer 99% population coverage with LTE; operators now provide up to 70% population coverage with 5G (2024)<br>
+_domestic_: Nearly 29 per 100 fixed-line and 91 per 100 mobile-cellular teledensity (2022)<br>
 _international_: country code - 1; landing points for the Nunavut Undersea Fiber Optic Network System, Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 Submarine Fiber Cable system, St Pierre and Miquelon Cable submarine cables providing links to the US and Europe; satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific Ocean, and 2 Intersputnik - Atlantic Ocean region) (2019)<br>
 
 **Broadcast media**<br>
@@ -745,13 +745,13 @@ Churchill Rocket Research Range (sounding rockets; Manitoba); constructing a pri
 
 **Space program overview**<br>
 has a substantial program, a national space strategy, and a long history of developing space-related technologies; designs, builds, operates, and tracks communications, remote sensing (RS), multi-mission, and scientific/testing satellites; has an astronaut program (train in the US); designs, builds, or contributes to a variety of other space-related programs, including space telescopes, planetary probes, sensors, and robotic systems (such as the Canadian-made robotic arms used on the US Space Shuttle and the International Space Station); participates in international space efforts and cooperates with a variety of foreign space agencies and commercial entities, including those of Argentina, Brazil, the European Space Agency (ESA)/EU (and their member states), India, and particularly the US; ESA Cooperating State since 1979; has a robust commercial space sector that is involved in satellite communications, optics, space exploration, navigation, and space science (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS); Hizballah<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

@@ -19,7 +19,7 @@ Middle East, bordering the Persian Gulf, between Iraq and Saudi Arabia<br>
 Middle East<br>
 
 **Area**<br>
-_total_: 17,818 sq km<br>
+_total _: 17,818 sq km<br>
 _land_: 17,818 sq km<br>
 _water_: 0 sq km<br>
 
@@ -380,31 +380,31 @@ _lyrics/music_: Ahmad MUSHARI al-Adwani/Ibrahim Nasir al-SOULA<br>
 small, high-income, oil-based Middle East economy; renewable energy proponent; regional finance and investment leader; maintains oldest sovereign wealth fund; emerging space and tourism industries; mid-way through 25-year development program<br>
 
 **Real GDP (purchasing power parity)**<br>
-$210.884 billion (2022 est.)<br>
-$193.719 billion (2021 est.)<br>
-$191.522 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$219.06 billion (2023 est.)<br>
+$224.057 billion (2022 est.)<br>
+$211.099 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-8.86% (2022 est.)<br>
-1.15% (2021 est.)<br>
--8.86% (2020 est.)<br>
+-2.23% (2023 est.)<br>
+6.14% (2022 est.)<br>
+1.7% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$49,400 (2022 est.)<br>
-$45,600 (2021 est.)<br>
-$43,900 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$50,800 (2023 est.)<br>
+$52,500 (2022 est.)<br>
+$49,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$175.363 billion (2022 est.)<br>
+$161.772 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.64% (2023 est.)<br>
 3.98% (2022 est.)<br>
 3.42% (2021 est.)<br>
-2.1% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -434,17 +434,17 @@ tomatoes, dates, cucumbers/gherkins, eggs, milk, chicken, lamb/mutton, vegetable
 petroleum, petrochemicals, cement, shipbuilding and repair, water desalination, food processing, construction materials<br>
 
 **Industrial production growth rate**<br>
--12.2% (2020 est.)<br>
+8.05% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.422 million (2022 est.)<br>
+2.463 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.2% (2022 est.)<br>
-2.94% (2021 est.)<br>
-3.45% (2020 est.)<br>
+2.08% (2023 est.)<br>
+2.12% (2022 est.)<br>
+3% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -457,9 +457,9 @@ _on food_: 19.3% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 0.2% of household expenditures (2021 est.)<br>
 
 **Remittances**<br>
+0.01% of GDP (2023 est.)<br>
 0.01% of GDP (2022 est.)<br>
-0.59% of GDP (2021 est.)<br>
-0.02% of GDP (2020 est.)<br>
+0.57% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -477,15 +477,15 @@ _expenditures_: $72.03 billion (2019 est.)<br>
 41.8% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
+$51.396 billion (2023 est.)<br>
 $63.078 billion (2022 est.)<br>
 $34.943 billion (2021 est.)<br>
-$22.03 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$95.476 billion (2023 est.)<br>
 $110.923 billion (2022 est.)<br>
 $77.121 billion (2021 est.)<br>
-$47.416 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -497,9 +497,9 @@ crude petroleum, refined petroleum, hydrocarbons, natural gas, acyclic alcohols 
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$63.43 billion (2023 est.)<br>
 $55.909 billion (2022 est.)<br>
 $48.954 billion (2021 est.)<br>
-$44.015 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -511,9 +511,9 @@ cars, gold, jewelry, garments, packaged medicine (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$52.619 billion (2023 est.)<br>
 $52.462 billion (2022 est.)<br>
 $49.525 billion (2021 est.)<br>
-$52.919 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -522,11 +522,11 @@ $38.34 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Kuwaiti dinars (KD) per US dollar -<br>
+0.307 (2023 est.)<br>
 0.306 (2022 est.)<br>
 0.302 (2021 est.)<br>
 0.306 (2020 est.)<br>
 0.304 (2019 est.)<br>
-0.302 (2018 est.)<br>
 
 ## Energy
 
@@ -640,11 +640,11 @@ Kuwait Armed Forces (KAF): Kuwait Land Forces (KLF), Kuwait Navy, Kuwait Air For
 <strong>note 1:</strong> the Emiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the KAF, although activities such as training and equipment procurement are often coordinated with the other services; the 25th Commando Brigade is Kuwait's leading special forces unit; the Emiri Guard Authority (aka Emiri Guard Brigade) is responsible for protecting Kuwait's heads of state<br><br><strong>note 2:</strong> the National Guard reports directly to the prime minister and the amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior; it is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required<br><br><strong>note 3:</strong> the police, Kuwait State Security, and Coast Guard are under the Ministry of Interior<br>
 
 **Military expenditures**<br>
+5% of GDP (2023 est.)<br>
 4.5% of GDP (2022 est.)<br>
 6.8% of GDP (2021 est.)<br>
 6.3% of GDP (2020 est.)<br>
 5.6% of GDP (2019 est.)<br>
-5.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 17,000 active-duty armed forces personnel (12,500 Army, including the Amiri Guard and 25th Commando Brigade; 2,000 Navy; 2,500 Air Force); approximately 7,000 National Guard (2023)<br>

@@ -19,7 +19,7 @@ Central Asia, north of Turkmenistan, south of Kazakhstan<br>
 Asia<br>
 
 **Area**<br>
-_total_: 447,400 sq km<br>
+_total _: 447,400 sq km<br>
 _land_: 425,400 sq km<br>
 _water_: 22,000 sq km<br>
 
@@ -309,7 +309,7 @@ _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time
 _etymology_: <em>tash</em> means "stone" and <em>kent</em> means "city" in Turkic languages, so the name simply denotes "stone city"<br>
 
 **Administrative divisions**<br>
-<p>12 provinces (viloyatlar, singular - viloyat), 1 autonomous republic* (avtonom respublikasi), and 3 cities** (shahar); Andijon Viloyati, Buxoro Viloyati [Bukhara Province], Farg'ona Viloyati [Fergana Province], Jizzax Viloyati, Namangan Shahri, Namangan Viloyati, Navoiy Viloyati, Qashqadaryo Viloyati (Qarshi), Qoraqalpog'iston Respublikasi [Karakalpakstan Republic]* (Nukus), Samarqand Shahri [Samarkand City], Samarqand Viloyati [Samarkand Province], Sirdaryo Viloyati (Guliston), Surxondaryo Viloyati (Termiz), Toshkent Shahri [Tashkent City]**, Toshkent Viloyati [Tashkent Province], Xorazm Viloyati (Urganch)  </p><br>
+<p>12 provinces (viloyatlar, singular - viloyat), 1 autonomous republic* (avtonom respublikasi), and 3 cities** (shahar); Andijon Viloyati, Buxoro Viloyati [Bukhara Province], Farg'ona Viloyati [Fergana Province], Jizzax Viloyati, Namangan Shahri, Namangan Viloyati, Navoiy Viloyati, Qashqadaryo Viloyati (Qarshi), Qoraqalpog'iston Respublikasi [Karakalpakstan Republic]* (Nukus), Samarqand Shahri [Samarkand City], Samarqand Viloyati [Samarkand Province], Sirdaryo Viloyati (Guliston), Surxondaryo Viloyati (Termiz), Toshkent Shahri [Tashkent City]**, Toshkent Viloyati [Nurafshon], Xorazm Viloyati (Urganch)  </p><br>
 <strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses) <br>
 
 **Independence**<br>
@@ -399,25 +399,25 @@ _selected World Heritage Site locales_: Itchan Kala (c); Historic Bukhara (c); H
 lower middle-income Central Asian economy; CIS Free Trade Area member but no intention of EAEU membership; key natural gas, cotton, and gold exporter; landlocked and environmentally fragile; positive growth through COVID-19, but poverty increasing<br>
 
 **Real GDP (purchasing power parity)**<br>
-$287.795 billion (2022 est.)<br>
-$272.355 billion (2021 est.)<br>
-$253.582 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$319.174 billion (2023 est.)<br>
+$301.139 billion (2022 est.)<br>
+$284.984 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+5.99% (2023 est.)<br>
 5.67% (2022 est.)<br>
 7.4% (2021 est.)<br>
-2% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$8,100 (2022 est.)<br>
-$7,800 (2021 est.)<br>
-$7,400 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$8,800 (2023 est.)<br>
+$8,400 (2022 est.)<br>
+$8,200 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$80.392 billion (2022 est.)<br>
+$90.889 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -453,17 +453,17 @@ milk, wheat, carrots/turnips, cotton, potatoes, tomatoes, grapes, vegetables, wa
 textiles, food processing, machine building, metallurgy, mining, hydrocarbon extraction, chemicals<br>
 
 **Industrial production growth rate**<br>
-5.48% (2022 est.)<br>
+6.15% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-13.971 million (2022 est.)<br>
+14.27 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.51% (2022 est.)<br>
-5.42% (2021 est.)<br>
-5.29% (2020 est.)<br>
+4.53% (2023 est.)<br>
+4.54% (2022 est.)<br>
+5.35% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -476,20 +476,20 @@ _female_: 16.2%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-36.8 (2003 est.)<br>
+31.2 (2022 est.)<br>
 
 **Average household expenditures**<br>
 _on food_: 46.5% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3.2% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.8%<br>
-_highest 10%_: 29.6% (2003)<br>
+_lowest 10%_: 2.5% (2022 est.)<br>
+_highest 10%_: 23.2% (2022 est.)<br>
 
 **Remittances**<br>
-20.82% of GDP (2022 est.)<br>
+17.71% of GDP (2023 est.)<br>
+20.63% of GDP (2022 est.)<br>
 13.33% of GDP (2021 est.)<br>
-11.76% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -508,15 +508,15 @@ _expenditures_: $16.346 billion (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$1.55 billion (2022 est.)<br>
--$4.894 billion (2021 est.)<br>
--$3.028 billion (2020 est.)<br>
+-$7.788 billion (2023 est.)<br>
+-$617.833 million (2022 est.)<br>
+-$4.898 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$24.094 billion (2022 est.)<br>
-$16.443 billion (2021 est.)<br>
-$14.536 billion (2020 est.)<br>
+$24.536 billion (2023 est.)<br>
+$21.926 billion (2022 est.)<br>
+$16.442 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -528,9 +528,9 @@ gold, cotton yarn, garments, natural gas, refined copper (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$42.098 billion (2023 est.)<br>
 $35.61 billion (2022 est.)<br>
 $27.936 billion (2021 est.)<br>
-$22.638 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -542,9 +542,9 @@ vehicle parts/accessories, packaged medicine, cars, wheat, refined petroleum (20
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$34.558 billion (2023 est.)<br>
 $35.774 billion (2022 est.)<br>
 $35.375 billion (2021 est.)<br>
-$34.903 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -553,11 +553,11 @@ $16.76 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Uzbekistani soum (UZS) per US dollar -<br>
+11,734.833 (2023 est.)<br>
 11,050.145 (2022 est.)<br>
 10,609.464 (2021 est.)<br>
 10,054.261 (2020 est.)<br>
 8,836.788 (2019 est.)<br>
-8,069.606 (2018 est.)<br>
 
 ## Energy
 
@@ -695,13 +695,13 @@ Agency for Space Research and Technology (Uzbekcosmos; established 2019) (2024)<
 
 **Space program overview**<br>
 has a small space program focused on acquiring satellites and developing the country’s space industry; Uzbekcosmos largely sets state policy and shapes the strategic direction, development, and use of the country’s space-related industries and technologies in key sectors, including cartography, environmental and disaster monitoring, land use, resource management, and telecommunications; also has an astronomy program; cooperates with foreign space agencies or commercial companies from a variety of countries, including those of Canada, China, France, India, Israel, Kazakhstan, Russia, South Korea, and Spain (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic Jihad Union; Islamic Movement of Uzbekistan; Islamic State of Iraq and ash-Sham - Khorasan (ISIS-K)<br>
-<strong>note 1:</strong> these groups have typically been active in the area where the Uzbek, Kyrgyz, and Tajik borders converge and ill-defined and porous borders allow for the relatively free movement of people and illicit goods <strong><br><br>note 2:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note 1:</strong> these groups have typically been active in the area where the Uzbek, Kyrgyz, and Tajik borders converge and ill-defined and porous borders allow for the relatively free movement of people and illicit goods <strong><br><br>note 2:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Most Cambodians consider themselves to be Khmers, descendants of the Angkor Empire that extended over much of Southeast Asia and reached its zenith between the 10th and 13th centuries.  Attacks by the Thai and Cham (from present-day Vietnam) weakened the empire, ushering in a long period of decline. The king placed the country under French protection in 1863, and it became part of French Indochina in 1887. Following Japanese occupation in World War II, Cambodia gained full independence from France in 1953. In 1975, after a seven-year struggle, communist Khmer Rouge forces captured Phnom Penh and evacuated all cities and towns. At least 1.5 million Cambodians died from execution, forced hardships, or starvation during the Khmer Rouge regime under POL POT. A 1978 Vietnamese invasion drove the Khmer Rouge into the countryside, began a 10-year Vietnamese occupation, and touched off 13 years of internecine warfare in which a coalition of Khmer Rouge, Cambodian nationalists, and royalist insurgents, with assistance from China, fought the Vietnamese-backed People’s Republic of Kampuchea (PRK). <br><br>The 1991 Paris Agreements ended the country’s civil war and mandated democratic elections, which took place in 1993 and ushered in a period of multi-party democracy with a constitutional monarchy. King Norodom SIHANOUK was reinstated as head of state, and the Cambodian People's Party (CPP) and the royalist FUNCINPEC party formed a coalition government.  Nevertheless, the power-sharing arrangement proved fractious and fragile, and in 1997, a coup led by CPP leader and former PRK prime minister HUN SEN dissolved the coalition and sidelined FUNCINPEC. Despite further attempts at coalition governance, the CPP has since remained in power through elections criticized for lacking fairness, political and judicial corruption, media control, and influence over labor unions, all of which are enforced with violence and intimidation. HUN SEN remained as prime minister until 2023, when he transferred power to his son, HUN MANET. HUN SEN has subsequently maintained considerable influence as the leader of the CPP and the Senate. The CPP has also placed limits on civil society, press freedom, and freedom of expression. Despite some economic growth and considerable investment from China over the past decade, Cambodia remains one of East Asia's poorest countries.<br><br>The remaining elements of the Khmer Rouge surrendered in 1999. A UN-backed special tribunal established in Cambodia in 1997 tried some of the surviving Khmer Rouge leaders for crimes against humanity and genocide. The tribunal concluded in 2022 with three convictions.<br><br></p><br>
+<p>Most Cambodians consider themselves to be Khmers, descendants of the Angkor Empire that extended over much of Southeast Asia and reached its zenith between the 10th and 13th centuries.  Attacks by the Thai and Cham (from present-day Vietnam) weakened the empire, ushering in a long period of decline. The king placed the country under French protection in 1863, and it became part of French Indochina in 1887. Following Japanese occupation in World War II, Cambodia gained full independence from France in 1953. In 1975, after a seven-year struggle, communist Khmer Rouge forces captured Phnom Penh and evacuated all cities and towns. At least 1.5 million Cambodians died from execution, forced hardships, or starvation during the Khmer Rouge regime under POL POT. A 1978 Vietnamese invasion drove the Khmer Rouge into the countryside, began a 10-year Vietnamese occupation, and touched off 13 years of internecine warfare in which a coalition of Khmer Rouge, Cambodian nationalists, and royalist insurgents, with assistance from China, fought the Vietnamese-backed People’s Republic of Kampuchea (PRK). <br><br>The 1991 Paris Agreements ended the country’s civil war and mandated democratic elections, which took place in 1993 and ushered in a period of multi-party democracy with a constitutional monarchy. King Norodom SIHANOUK was reinstated as head of state, and the Cambodian People's Party (CPP) and the royalist FUNCINPEC party formed a coalition government.  Nevertheless, the power-sharing arrangement proved fractious and fragile, and in 1997, a coup led by CPP leader and former PRK prime minister HUN SEN dissolved the coalition and sidelined FUNCINPEC. Despite further attempts at coalition governance, the CPP has since remained in power through elections criticized for lacking fairness, political and judicial corruption, media control, and influence over labor unions, all of which have been enforced with violence and intimidation. HUN SEN remained as prime minister until 2023, when he transferred power to his son, HUN MANET. HUN SEN has subsequently maintained considerable influence as the leader of the CPP and the Senate. The CPP has also placed limits on civil society, press freedom, and freedom of expression. Despite some economic growth and considerable investment from China over the past decade, Cambodia remains one of East Asia's poorest countries.<br><br>The remaining elements of the Khmer Rouge surrendered in 1999. A UN-backed special tribunal established in Cambodia in 1997 tried some of the surviving Khmer Rouge leaders for crimes against humanity and genocide. The tribunal concluded in 2022 with three convictions.<br><br></p><br>
 
 ## Geography
 
@@ -19,7 +19,7 @@ Southeastern Asia, bordering the Gulf of Thailand, between Thailand, Vietnam, an
 Southeast Asia<br>
 
 **Area**<br>
-_total_: 181,035 sq km<br>
+_total _: 181,035 sq km<br>
 _land_: 176,515 sq km<br>
 _water_: 4,520 sq km<br>
 
@@ -402,31 +402,31 @@ _selected World Heritage Site locales_: Angkor; Temple of Preah Vihear; Sambor P
 one of the fastest growing Southeast Asian economies; rebounding tourism and clothing exports; substantial manufacturing and construction sectors; new trade agreements expanding agricultural markets; significant public debt; investing in new ports and roads<br>
 
 **Real GDP (purchasing power parity)**<br>
-$76.023 billion (2022 est.)<br>
-$72.238 billion (2021 est.)<br>
-$70.116 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$85.9 billion (2023 est.)<br>
+$81.499 billion (2022 est.)<br>
+$77.442 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+5.4% (2023 est.)<br>
 5.24% (2022 est.)<br>
 3.03% (2021 est.)<br>
--3.1% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$4,500 (2022 est.)<br>
-$4,400 (2021 est.)<br>
-$4,300 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$5,100 (2023 est.)<br>
+$4,900 (2022 est.)<br>
+$4,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$29.505 billion (2022 est.)<br>
+$31.773 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.13% (2023 est.)<br>
 5.34% (2022 est.)<br>
 2.92% (2021 est.)<br>
-2.94% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -455,17 +455,17 @@ cassava, rice, maize, sugarcane, vegetables, oil palm fruit, rubber, bananas, ju
 tourism, garments, construction, rice milling, fishing, wood and wood products, rubber, cement, gem mining, textiles<br>
 
 **Industrial production growth rate**<br>
-8.85% (2022 est.)<br>
+4.3% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-9.057 million (2022 est.)<br>
+9.175 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-0.23% (2022 est.)<br>
+0.24% (2023 est.)<br>
+0.25% (2022 est.)<br>
 0.4% (2021 est.)<br>
-0.17% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -488,9 +488,9 @@ _lowest 10%_: 2%<br>
 _highest 10%_: 28% (2013 est.)<br>
 
 **Remittances**<br>
+8.81% of GDP (2023 est.)<br>
 8.87% of GDP (2022 est.)<br>
 9.42% of GDP (2021 est.)<br>
-10% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -509,15 +509,15 @@ _expenditures_: $6.452 billion (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$552.607 million (2023 est.)<br>
 -$7.582 billion (2022 est.)<br>
 -$10.893 billion (2021 est.)<br>
--$881.214 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$27.753 billion (2023 est.)<br>
 $25.497 billion (2022 est.)<br>
 $20.178 billion (2021 est.)<br>
-$20.29 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -529,9 +529,9 @@ garments, trunks and cases, footwear, cassava, shoes (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$29.42 billion (2023 est.)<br>
 $34.759 billion (2022 est.)<br>
 $32.816 billion (2021 est.)<br>
-$23.091 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -554,11 +554,11 @@ $10.3 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: riels (KHR) per US dollar -<br>
+4,110.653 (2023 est.)<br>
 4,102.038 (2022 est.)<br>
 4,098.723 (2021 est.)<br>
 4,092.783 (2020 est.)<br>
 4,061.149 (2019 est.)<br>
-4,051.167 (2018 est.)<br>
 
 ## Energy
 

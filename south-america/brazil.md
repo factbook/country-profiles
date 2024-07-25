@@ -19,7 +19,7 @@ Eastern South America, bordering the Atlantic Ocean<br>
 South America<br>
 
 **Area**<br>
-_total_: 8,515,770 sq km<br>
+_total _: 8,515,770 sq km<br>
 _land_: 8,358,140 sq km<br>
 _water_: 157,630 sq km<br>
 <strong>note:</strong> includes Arquipelago de Fernando de Noronha, Atol das Rocas, Ilha da Trindade, Ilhas Martin Vaz, and Penedos de Sao Pedro e Sao Paulo<br>
@@ -85,7 +85,7 @@ the vast majority of people live along, or relatively near, the Atlantic coast i
 recurring droughts in northeast; floods and occasional frost in south<br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> largest country in South America and in the Southern Hemisphere; shares common boundaries with every South American country except Chile and Ecuador; most of the Pantanal, the world's largest tropical wetland, extends through the west central part of the country; shares Iguaçu Falls (Iguazú Falls), the world's largest waterfalls system, with Argentina<br><br><strong>note 2:</strong> cassava (manioc) the sixth most important food crop in the world - after maize, rice, wheat, potatoes, and soybeans - seems to have originated in the west-central part of Brazil; pineapples are probably indigenous to the southern Brazil-Paraguay region<br><br><strong>note 3:</strong> Rocas Atoll, located off the northeast coast of Brazil, is the only atoll in the South Atlantic<br>
+<strong>note 1:</strong> largest country in South America and in the Southern Hemisphere; shares common boundaries with every South American country except Chile and Ecuador; most of the Pantanal, the world's largest tropical wetland, extends through the west central part of the country; shares Iguaçu Falls (Iguazú Falls), the world's largest waterfalls system, with Argentina<br><br><strong>note 2:</strong> cassava (manioc) the sixth most important food crop in the world -- after maize, rice, wheat, potatoes, and soybeans -- probably originated in the west-central part of Brazil; pineapples are probably indigenous to the southern Brazil-Paraguay region<br><br><strong>note 3:</strong> Rocas Atoll, located off the northeast coast of Brazil, is the only atoll in the South Atlantic<br>
 
 ## People and Society
 
@@ -420,31 +420,31 @@ _selected World Heritage Site locales_: Brasilia (c); Historic Salvador de Bahia
 industrial-led economic growth model; recovering from 2014-2016 recession when COVID-19 hit; industry limited by Amazon rainforest but increasing deforestation; new macroeconomic structural reforms; high income inequality; left UNASUR to join PROSUR<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.25 trillion (2022 est.)<br>
-$3.158 trillion (2021 est.)<br>
-$3.008 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$4.016 trillion (2023 est.)<br>
+$3.902 trillion (2022 est.)<br>
+$3.788 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.9% (2022 est.)<br>
-4.99% (2021 est.)<br>
--3.28% (2020 est.)<br>
+2.91% (2023 est.)<br>
+3.02% (2022 est.)<br>
+4.76% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$15,100 (2022 est.)<br>
-$14,700 (2021 est.)<br>
-$14,100 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$18,600 (2023 est.)<br>
+$18,100 (2022 est.)<br>
+$17,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.92 trillion (2022 est.)<br>
+$2.174 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.59% (2023 est.)<br>
 9.28% (2022 est.)<br>
 8.3% (2021 est.)<br>
-3.21% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -474,17 +474,17 @@ sugarcane, soybeans, maize, milk, cassava, oranges, chicken, rice, beef, wheat (
 textiles, shoes, chemicals, cement, lumber, iron ore, tin, steel, aircraft, motor vehicles and parts, other machinery and equipment<br>
 
 **Industrial production growth rate**<br>
-1.62% (2022 est.)<br>
+1.59% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-108.751 million (2022 est.)<br>
+108.695 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+7.95% (2023 est.)<br>
 9.23% (2022 est.)<br>
 13.16% (2021 est.)<br>
-13.7% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -497,7 +497,7 @@ _female_: 38.2%<br>
 <strong>note:</strong> approximately 4% of the population are below the "extreme" poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-52.9 (2021 est.)<br>
+52 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -505,14 +505,14 @@ _on food_: 16.3% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 1.7% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1%<br>
-_highest 10%_: 41.5% (2021 est.)<br>
+_lowest 10%_: 1.2% (2022 est.)<br>
+_highest 10%_: 41% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.26% of GDP (2022 est.)<br>
+0.2% of GDP (2023 est.)<br>
+0.25% of GDP (2022 est.)<br>
 0.25% of GDP (2021 est.)<br>
-0.24% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -523,25 +523,25 @@ _expenditures_: $617.332 billion (2020 est.)<br>
 -1.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-80.41% of GDP (2022 est.)<br>
-86.09% of GDP (2021 est.)<br>
+79.1% of GDP (2022 est.)<br>
+85.01% of GDP (2021 est.)<br>
 98.71% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-14.97% (of GDP) (2022 est.)<br>
+14.73% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$53.62 billion (2022 est.)<br>
+-$30.828 billion (2023 est.)<br>
+-$48.253 billion (2022 est.)<br>
 -$46.358 billion (2021 est.)<br>
--$28.208 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$389.626 billion (2023 est.)<br>
 $380.619 billion (2022 est.)<br>
 $315.494 billion (2021 est.)<br>
-$238.221 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -553,9 +553,9 @@ soybeans, crude petroleum, iron ore, refined petroleum, corn (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$346.639 billion (2023 est.)<br>
 $376.084 billion (2022 est.)<br>
 $306.087 billion (2021 est.)<br>
-$230.508 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -567,9 +567,9 @@ refined petroleum, fertilizers, vehicle parts/accessories, crude petroleum, pest
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$355.021 billion (2023 est.)<br>
 $324.673 billion (2022 est.)<br>
 $362.21 billion (2021 est.)<br>
-$355.614 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -578,11 +578,11 @@ $660.693 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: reals (BRL) per US dollar -<br>
+4.994 (2023 est.)<br>
 5.164 (2022 est.)<br>
 5.394 (2021 est.)<br>
 5.155 (2020 est.)<br>
 3.944 (2019 est.)<br>
-3.654 (2018 est.)<br>
 
 ## Energy
 
@@ -753,13 +753,13 @@ Alcantara Launch Site (Maranh&atilde;o state); Barreira do Inferno Launch Center
 
 **Space program overview**<br>
 has an active program with a long history; develops, builds, operates, and tracks satellites, including communications, remote sensing (RS), multi-mission, navigational, and scientific/testing/research; satellites are launched by foreign partners, but Brazil has a long-standing sounding (research) rocket and space launch vehicle (SLV) program and rocket launch facilities; cooperates with a variety of foreign space agencies and commercial entities, including those of Argentina, Canada, the European Space Agency and individual member states (particularly France and Germany), India, Japan, Russia, South Africa, South Korea, Ukraine, and the US; has a state-controlled communications company that operates Brazil’s communications satellites and a growing commercial space sector with expertise in satellite technology (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Hizballah (2022)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

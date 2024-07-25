@@ -19,7 +19,7 @@ Western Africa, bordering the Bight of Benin, between Nigeria and Togo<br>
 Africa<br>
 
 **Area**<br>
-_total_: 112,622 sq km<br>
+_total _: 112,622 sq km<br>
 _land_: 110,622 sq km<br>
 _water_: 2,000 sq km<br>
 
@@ -401,31 +401,31 @@ _selected World Heritage Site locales_: Royal Palaces of Abomey (c); W-Arly-Pend
 robust economic growth; slightly declining but still widespread poverty; strong trade relations with Nigeria; cotton exporter; COVID-19 has led to capital outflows and border closures; WAEMU member with currency pegged to the euro; recent fiscal deficit and debt reductions<br>
 
 **Real GDP (purchasing power parity)**<br>
-$45.869 billion (2022 est.)<br>
-$43.17 billion (2021 est.)<br>
-$40.287 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$52.51 billion (2023 est.)<br>
+$49.374 billion (2022 est.)<br>
+$46.468 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+6.35% (2023 est.)<br>
 6.25% (2022 est.)<br>
 7.16% (2021 est.)<br>
-3.85% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,400 (2022 est.)<br>
-$3,300 (2021 est.)<br>
-$3,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$3,800 (2023 est.)<br>
+$3,700 (2022 est.)<br>
+$3,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$17.397 billion (2022 est.)<br>
+$19.673 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.73% (2023 est.)<br>
 1.35% (2022 est.)<br>
 1.73% (2021 est.)<br>
-3.02% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -455,17 +455,17 @@ cassava, yams, maize, oil palm fruit, cotton, rice, pineapples, soybeans, tomato
 textiles, food processing, construction materials, cement<br>
 
 **Industrial production growth rate**<br>
-7.89% (2022 est.)<br>
+7.29% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.797 million (2022 est.)<br>
+4.964 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.48% (2022 est.)<br>
-1.78% (2021 est.)<br>
-1.62% (2020 est.)<br>
+1.45% (2023 est.)<br>
+1.47% (2022 est.)<br>
+1.69% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -474,22 +474,22 @@ _male_: 3.1%<br>
 _female_: 4.6%<br>
 
 **Population below poverty line**<br>
-38.5% (2018 est.)<br>
+38.5% (2019 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-37.9 (2018 est.)<br>
+34.4 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9%<br>
-_highest 10%_: 30% (2018 est.)<br>
+_lowest 10%_: 3.1% (2021 est.)<br>
+_highest 10%_: 27.2% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.33% of GDP (2022 est.)<br>
+1.19% of GDP (2023 est.)<br>
+1.32% of GDP (2022 est.)<br>
 1.31% of GDP (2021 est.)<br>
-1.3% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -550,11 +550,11 @@ $2.476 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
-623.937 (2022 est.)<br>
+606.655 (2023 est.)<br>
+622.912 (2022 est.)<br>
 554.608 (2021 est.)<br>
 574.295 (2020 est.)<br>
 585.951 (2019 est.)<br>
-555.446 (2018 est.)<br>
 
 ## Energy
 
@@ -672,11 +672,11 @@ Beninese Armed Forces (Forces Armees Beninoises, FAB; aka Benin Defense Forces):
 <strong>note:</strong> FAB is under the Ministry of Defense and is responsible for external security and supporting the DGPR in maintaining internal security, which has primary responsibility for enforcing law and maintaining order; the DGPR was formed in 2018 through a merger of police and gendarmes<br>
 
 **Military expenditures**<br>
+0.5% of GDP (2023 est.)<br>
 0.7% of GDP (2022 est.)<br>
 0.7% of GDP (2021 est.)<br>
 0.5% of GDP (2020 est.)<br>
 0.5% of GDP (2019 est.)<br>
-0.7% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12,000 active-duty troops, including about 3,000 National Guard; estimated 5,000 Republican Police (2023)<br>
@@ -688,13 +688,13 @@ the FAB is equipped with a small mix of mostly older or secondhand French, Sovie
 18-35 years of age for voluntary and selective compulsory military service for men and women; a higher education diploma is required; conscript service is 18 months (2023)<br>
 
 **Military - note**<br>
-in addition to its defense against external aggression duties, the Beninese Armed Forces (FAB) may be required to assist in maintaining public order and internal security under conditions defined by the country's president; it may also participate in economic development projects<br><br>a key focus for the security forces of Benin is countering infiltrations into the country by terrorist groups tied to al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS) operating just over the border from northern Benin in Burkina Faso and Niger; in 2022, the Benin Government said it was "at war" after suffering a series of attacks from these groups; later that same year, President TALON pledged to increase the size of the military, modernize military equipment, and establish forward operating bases; in addition, the FAB participates in the Multinational Joint Task Force (MNJTF) along with Cameroon, Chad, Niger, and Nigeria against Boko Haram and ISIS-West Africa in the general area of the Lake Chad Basin and along Nigeria's northeastern border <br><br>the FAB has a close working relationship with the Belgian armed forces; the Belgians offer military advice, training, and second-hand equipment donations, and deploy to Benin for limited military exercises (2024)<br>
+in addition to its defense against external aggression duties, the Beninese Armed Forces (FAB) may be required to assist in maintaining public order and internal security under conditions defined by the country's president; it may also participate in economic development projects<br><br>a key focus for the security forces of Benin is countering infiltrations into the country by terrorist groups tied to al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS) operating just over the border from northern Benin in Burkina Faso and Niger; in 2022, the Benin Government said it was "at war" after suffering a series of attacks from these groups; later that same year, President TALON pledged to increase the size of the military, modernize military equipment, and establish forward operating bases; as of 2024, Benin had sent approximately 3,000 troops to the north of the country to better secure its border and had begun recruiting another 5,000 more new troops for the northern region; in addition, the FAB participates in the Multinational Joint Task Force (MNJTF) along with Cameroon, Chad, Niger, and Nigeria against Boko Haram and ISIS-West Africa in the general area of the Lake Chad Basin and along Nigeria's northeastern border <br><br>the FAB has a close working relationship with the Belgian armed forces; the Belgians offer military advice, training, and second-hand equipment donations, and deploy to Benin for limited military exercises (2024)<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 al-Qa’ida (Jama’at Nusrat al Islam wal Muslimeen); Islamic State in the Greater Sahara (ISIS-GS); Boko Haram<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

@@ -19,7 +19,7 @@ Southern Europe, a peninsula extending into the central Mediterranean Sea, north
 Europe<br>
 
 **Area**<br>
-_total_: 301,340 sq km<br>
+_total _: 301,340 sq km<br>
 _land_: 294,140 sq km<br>
 _water_: 7,200 sq km<br>
 <strong>note:</strong> includes Sardinia and Sicily<br>
@@ -393,31 +393,31 @@ _selected World Heritage Site locales_: Historic Center of Rome (c); Archaeologi
 core EU economy; strong services, manufacturing, and tourism sectors; sustained recovery in post-COVID inflationary environment; high public debt levels; increasing poverty levels particularly in poorer south; strong exports to EU and US partners<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.611 trillion (2022 est.)<br>
-$2.517 trillion (2021 est.)<br>
-$2.324 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$3.097 trillion (2023 est.)<br>
+$3.068 trillion (2022 est.)<br>
+$2.951 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.72% (2022 est.)<br>
+0.92% (2023 est.)<br>
+3.99% (2022 est.)<br>
 8.31% (2021 est.)<br>
--8.97% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$44,300 (2022 est.)<br>
-$42,600 (2021 est.)<br>
-$39,100 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$52,700 (2023 est.)<br>
+$52,100 (2022 est.)<br>
+$49,900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.05 trillion (2022 est.)<br>
+$2.255 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.62% (2023 est.)<br>
 8.2% (2022 est.)<br>
 1.87% (2021 est.)<br>
--0.14% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -447,17 +447,17 @@ milk, grapes, wheat, tomatoes, maize, apples, olives, oranges, potatoes, pork (2
 tourism, machinery, iron and steel, chemicals, food processing, textiles, motor vehicles, clothing, footwear, ceramics<br>
 
 **Industrial production growth rate**<br>
-1.9% (2022 est.)<br>
+-0.02% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-25.342 million (2022 est.)<br>
+25.669 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+7.62% (2023 est.)<br>
 8.07% (2022 est.)<br>
 9.5% (2021 est.)<br>
-9.16% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -470,7 +470,7 @@ _female_: 33.8%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-35.2 (2020 est.)<br>
+34.8 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -478,14 +478,14 @@ _on food_: 15.5% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 4.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.1%<br>
-_highest 10%_: 26.1% (2020 est.)<br>
+_lowest 10%_: 2.3% (2021 est.)<br>
+_highest 10%_: 26.2% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.47% of GDP (2023 est.)<br>
 0.51% of GDP (2022 est.)<br>
 0.49% of GDP (2021 est.)<br>
-0.52% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -501,19 +501,19 @@ _expenditures_: $1.08 trillion (2020 est.)<br>
 <strong>note:</strong> Italy reports its data on public debt according to guidelines set out in the Maastricht Treaty; general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year, in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises central, state, and local government and social security funds<br>
 
 **Taxes and other revenues**<br>
-24.93% (of GDP) (2021 est.)<br>
+24.92% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$30.222 billion (2022 est.)<br>
-$52.543 billion (2021 est.)<br>
-$75.097 billion (2020 est.)<br>
+$11.552 billion (2023 est.)<br>
+-$32.783 billion (2022 est.)<br>
+$51.549 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$751.092 billion (2022 est.)<br>
-$690.534 billion (2021 est.)<br>
-$559.952 billion (2020 est.)<br>
+$793.589 billion (2023 est.)<br>
+$752.864 billion (2022 est.)<br>
+$691.428 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -525,9 +525,9 @@ packaged medicine, refined petroleum, garments, cars, vehicle parts/accessories 
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$781.083 billion (2022 est.)<br>
-$642.948 billion (2021 est.)<br>
-$490.684 billion (2020 est.)<br>
+$756.154 billion (2023 est.)<br>
+$785.549 billion (2022 est.)<br>
+$644.93 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -539,9 +539,9 @@ natural gas, crude petroleum, cars, packaged medicine, garments (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$247.396 billion (2023 est.)<br>
 $224.581 billion (2022 est.)<br>
 $227.478 billion (2021 est.)<br>
-$210.687 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -550,11 +550,11 @@ $2,533,153,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 
 ## Energy
 
@@ -720,13 +720,13 @@ the Broglio (aka San Marco, Malindi) Space Center, located near Malindi, Kenya, 
 
 **Space program overview**<br>
 has one of the largest space programs in Europe; is a key member of the European Space Agency (ESA) and one of its largest contributors; designs, builds, launches, and operates communications, remote sensing (RS), and scientific satellites; designs and manufacturers sounding (research) rockets and orbital satellite launch vehicles (SLVs); hosts the ESA Center for Earth Observation; has astronaut cadre in the ESA astronaut corps; researches, develops, and builds a range of other space-related technologies and participates in a wide array of international programs with astronauts, cargo containers, construction, expertise, modules, scientific experiments, and technology; outside of the ESA/EU and their individual member states, has cooperated with a variety of foreign space agencies and industries, including those of Argentina, Brazil, Canada, China, Israel, Japan, Kenya, Mexico, Russia, South Korea, Thailand, the UAE, and the US; participates in international space projects such as the International Space Station (ISS); has a considerable commercial space industrial sector encompassing a wide range of capabilities, including manufacturing satellites, satellite payloads, launch vehicles, propulsion systems, cargo containers, and their sub-components (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

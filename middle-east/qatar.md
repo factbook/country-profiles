@@ -19,7 +19,7 @@ Middle East, peninsula bordering the Persian Gulf and Saudi Arabia<br>
 Middle East<br>
 
 **Area**<br>
-_total_: 11,586 sq km<br>
+_total _: 11,586 sq km<br>
 _land_: 11,586 sq km<br>
 _water_: 0 sq km<br>
 
@@ -330,7 +330,7 @@ _elections/appointments_: the monarchy is hereditary; prime minister appointed b
 **Legislative branch**<br>
 _description_: unicameral Advisory Council or Majlis al-Shura (45 seats; 30 members directly elected by popular vote for 4-year re-electable terms; 15 members appointed by the monarch to serve until resignation or until relieved; note - legislative drafting authority rests with the Council of Ministers and is reviewed by the Advisory Council<br>
 _elections_: last held for 30 elected members on 2 October 2021 (next to be held in 2025); last members appointed - 14 October 2021 (next appointments - NA)<br>
-_election results_: 30 nonpartisan members elected; composition - men 30, women 0, percentage women 0%<br><br>15 appointed members; composition men 13, women 2, percentage women 13.3%<br>
+_election results_: <br>30 nonpartisan members elected; composition - men 30, women 0, percentage women 0%<br>15 appointed members; composition men 13, women 2, percentage women 13.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Court of Cassation (consists of the court president and several judges); Supreme Constitutional Court (consists of the chief justice and 6 members)<br>
@@ -381,10 +381,10 @@ _selected World Heritage Site locales_: Al Zubarah Archaeological Site<br>
 high-income, oil-and-gas-based Middle Eastern economy; National Vision 2030 government strategy for economic development, diversification, favorable business conditions to grow investment and employment; infrastructure investments; Islamic finance leader; citizenship-based labor force growth<br>
 
 **Real GDP (purchasing power parity)**<br>
-$260.235 billion (2022 est.)<br>
-$249.725 billion (2021 est.)<br>
-$245.727 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$304.973 billion (2022 est.)<br>
+$292.655 billion (2021 est.)<br>
+$287.97 billion (2020 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
 4.21% (2022 est.)<br>
@@ -393,19 +393,19 @@ $245.727 billion (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$96,600 (2022 est.)<br>
-$92,900 (2021 est.)<br>
-$89,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$113,200 (2022 est.)<br>
+$108,900 (2021 est.)<br>
+$104,300 (2020 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$236.258 billion (2022 est.)<br>
+$235.77 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.03% (2023 est.)<br>
 5% (2022 est.)<br>
 2.3% (2021 est.)<br>
--2.54% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -439,13 +439,13 @@ liquefied natural gas, crude oil production and refining, ammonia, fertilizer, p
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.011 million (2022 est.)<br>
+2.035 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+0.13% (2023 est.)<br>
 0.13% (2022 est.)<br>
 0.14% (2021 est.)<br>
-0.14% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -485,15 +485,15 @@ _expenditures_: $57.258 billion (2019 est.)<br>
 26.4% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
+$36.47 billion (2023 est.)<br>
 $63.118 billion (2022 est.)<br>
 $26.319 billion (2021 est.)<br>
--$2.986 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$128.726 billion (2023 est.)<br>
 $161.693 billion (2022 est.)<br>
 $105.549 billion (2021 est.)<br>
-$70.933 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -505,9 +505,9 @@ natural gas, crude petroleum, refined petroleum, fertilizers, ethylene polymers 
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$72.174 billion (2023 est.)<br>
 $74.52 billion (2022 est.)<br>
 $61.204 billion (2021 est.)<br>
-$59.065 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -519,9 +519,9 @@ gas turbines, jewelry, cars, garments, aircraft (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$51.539 billion (2023 est.)<br>
 $47.389 billion (2022 est.)<br>
 $42.213 billion (2021 est.)<br>
-$40.973 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -530,11 +530,11 @@ $157.9 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Qatari rials (QAR) per US dollar -<br>
+3.64 (2023 est.)<br>
 3.64 (2022 est.)<br>
 3.64 (2021 est.)<br>
 3.64 (2020 est.)<br>
 3.64 (2019 est.)<br>
-3.64 (2018 est.)<br>
 
 ## Energy
 
@@ -646,11 +646,11 @@ Qatar Armed Forces (QAF): Qatari Amiri Land Force (QALF, includes Emiri Guard), 
 <strong>note:</strong> the national police and Ministry of Interior forces maintain internal security, including preventing terrorism, cyberattacks, and espionage<br>
 
 **Military expenditures**<br>
-5% of GDP (2022 est.)<br>
+4% of GDP (2023 est.)<br>
+4% of GDP (2022 est.)<br>
 4% of GDP (2021 est.)<br>
 4% of GDP (2020 est.)<br>
 3.4% of GDP (2019 est.)<br>
-3.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 15,000 active-duty personnel (10,000 Land Force, including Emiri Guard; 3,000 Navy; 2,000 Air Force) (2023)<br>

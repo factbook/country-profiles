@@ -19,7 +19,7 @@ Southern Asia, north and west of Pakistan, east of Iran<br>
 Asia<br>
 
 **Area**<br>
-_total_: 652,230 sq km<br>
+_total _: 652,230 sq km<br>
 _land_: 652,230 sq km<br>
 _water_: 0 sq km<br>
 
@@ -396,25 +396,25 @@ _selected World Heritage Site locales_: Minaret of Jam; Buddhas of Bamyan<br>
 extremely low-income South Asian economy; import drops, currency depreciation, disappearing central bank reserves, and increasing inflation after Taliban takeover; increasing Chinese trade; hit hard by COVID; ongoing sanctions<br>
 
 **Real GDP (purchasing power parity)**<br>
-$60.802 billion (2021 est.)<br>
-$76.711 billion (2020 est.)<br>
-$78.558 billion (2019 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$80.416 billion (2022 est.)<br>
+$85.768 billion (2021 est.)<br>
+$108.209 billion (2020 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+-6.24% (2022 est.)<br>
 -20.74% (2021 est.)<br>
 -2.35% (2020 est.)<br>
-3.91% (2019 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,500 (2021 est.)<br>
-$2,000 (2020 est.)<br>
-$2,100 (2019 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2,000 (2022 est.)<br>
+$2,100 (2021 est.)<br>
+$2,800 (2020 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$14.266 billion (2021 est.)<br>
+$14.502 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -445,17 +445,17 @@ wheat, milk, watermelons, grapes, potatoes, cantaloupes/melons, vegetables, rice
 small-scale production of bricks, textiles, soap, furniture, shoes, fertilizer, apparel, food products, non-alcoholic beverages, mineral water, cement; handwoven carpets; natural gas, coal, copper<br>
 
 **Industrial production growth rate**<br>
--12.81% (2021 est.)<br>
+-5.73% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.804 million (2022 est.)<br>
+8.921 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+14.39% (2023 est.)<br>
 14.1% (2022 est.)<br>
-12.08% (2021 est.)<br>
-11.71% (2020 est.)<br>
+11.93% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -475,9 +475,9 @@ _lowest 10%_: 3.8%<br>
 _highest 10%_: 24% (2008)<br>
 
 **Remittances**<br>
-2.1% of GDP (2021 est.)<br>
+2.55% of GDP (2022 est.)<br>
+2.24% of GDP (2021 est.)<br>
 3.95% of GDP (2020 est.)<br>
-4.41% of GDP (2019 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -675,7 +675,7 @@ the Taliban&rsquo;s primary security threats include ISIS-Khorasan and anti-Tali
 
 **Terrorist group(s)**<br>
 Haqqani Taliban Network; Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Islamic Jihad Union; Islamic Movement of Uzbekistan; Islamic State of Iraq and ash-Sham-Khorasan Province (ISIS-K); Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Jaish-e-Mohammed; Jaysh al Adl (Jundallah); Lashkar i Jhangvi; Lashkar-e Tayyiba; al-Qa’ida; al-Qa'ida in the Indian Subcontinent (AQIS); Tehrik-e-Taliban Pakistan (TTP)<br>
-<strong><strong>note 1:  </strong></strong>as of mid-2022, TTP was reportedly the largest component of foreign terrorist fighters in Afghanistan, with an estimated 3-4,000 armed fighters operating primarily along the Afghanistan-Pakistan border<strong><strong><br></strong></strong><strong><br>note 2:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix T<br>
+<strong><strong>note 1:  </strong></strong>as of mid-2022, TTP was reportedly the largest component of foreign terrorist fighters in Afghanistan, with an estimated 3-4,000 armed fighters operating primarily along the Afghanistan-Pakistan border<strong><strong><br></strong></strong><strong><br>note 2:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

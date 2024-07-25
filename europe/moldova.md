@@ -19,7 +19,7 @@ Eastern Europe, northeast of Romania<br>
 Europe<br>
 
 **Area**<br>
-_total_: 33,851 sq km<br>
+_total _: 33,851 sq km<br>
 _land_: 32,891 sq km<br>
 _water_: 960 sq km<br>
 
@@ -74,7 +74,7 @@ pockets of agglomeration exist throughout the country, the largest being in the 
 landslides<br>
 
 **Geography - note**<br>
-landlocked; well endowed with various sedimentary rocks and minerals including sand, gravel, gypsum, and limestone<br>
+landlocked; well-endowed with various sedimentary rocks and minerals including sand, gravel, gypsum, and limestone<br>
 
 ## People and Society
 
@@ -388,31 +388,31 @@ _selected World Heritage Site locales_: Struve Geodetic Arc<br>
 upper middle-income Eastern European economy; sustained growth reversed by COVID-19; significant remittances; Russian energy and regional dependence; agricultural exporter; declining workforce due to emigration and low fertility<br>
 
 **Real GDP (purchasing power parity)**<br>
-$33.789 billion (2022 est.)<br>
-$35.573 billion (2021 est.)<br>
-$31.223 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$38.969 billion (2023 est.)<br>
+$38.666 billion (2022 est.)<br>
+$40.708 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+0.78% (2023 est.)<br>
 -5.02% (2022 est.)<br>
 13.93% (2021 est.)<br>
--8.28% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$13,300 (2022 est.)<br>
-$13,700 (2021 est.)<br>
-$11,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$15,700 (2023 est.)<br>
+$15,200 (2022 est.)<br>
+$15,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$14.508 billion (2022 est.)<br>
+$16.539 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+13.42% (2023 est.)<br>
 28.74% (2022 est.)<br>
 5.11% (2021 est.)<br>
-3.77% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -440,17 +440,17 @@ wheat, maize, sunflower seeds, grapes, sugar beets, apples, milk, potatoes, barl
 sugar processing, vegetable oil, food processing, agricultural machinery; foundry equipment, refrigerators and freezers, washing machines; hosiery, shoes, textiles<br>
 
 **Industrial production growth rate**<br>
--10.43% (2022 est.)<br>
+-11.74% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.486 million (2022 est.)<br>
+1.464 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+1.62% (2023 est.)<br>
 0.91% (2022 est.)<br>
 0.79% (2021 est.)<br>
-1.21% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -467,14 +467,14 @@ _female_: 14.7%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4.3%<br>
+_lowest 10%_: 4.3% (2021 est.)<br>
 _highest 10%_: 22.1% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+12.27% of GDP (2023 est.)<br>
 14.04% of GDP (2022 est.)<br>
 15.48% of GDP (2021 est.)<br>
-16.27% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -496,15 +496,15 @@ _expenditures_: $3.754 billion (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$1.974 billion (2023 est.)<br>
 -$2.482 billion (2022 est.)<br>
 -$1.699 billion (2021 est.)<br>
--$886.72 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$5.865 billion (2023 est.)<br>
 $5.981 billion (2022 est.)<br>
 $4.197 billion (2021 est.)<br>
-$3.222 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -516,9 +516,9 @@ refined petroleum, insulated wire, garments, seed oils, corn (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$9.867 billion (2023 est.)<br>
 $10.265 billion (2022 est.)<br>
 $7.915 billion (2021 est.)<br>
-$5.918 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -530,9 +530,9 @@ refined petroleum, natural gas, cars, plastic products, insulated wire (2022)<br
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$5.453 billion (2023 est.)<br>
 $4.474 billion (2022 est.)<br>
 $3.902 billion (2021 est.)<br>
-$3.784 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -541,11 +541,11 @@ $7.16 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Moldovan lei (MDL) per US dollar -<br>
+18.164 (2023 est.)<br>
 18.897 (2022 est.)<br>
 17.68 (2021 est.)<br>
 17.322 (2020 est.)<br>
 17.573 (2019 est.)<br>
-16.802 (2018 est.)<br>
 
 ## Energy
 

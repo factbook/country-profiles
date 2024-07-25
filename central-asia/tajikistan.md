@@ -19,7 +19,7 @@ Central Asia, west of China, south of Kyrgyzstan<br>
 Asia<br>
 
 **Area**<br>
-_total_: 144,100 sq km<br>
+_total _: 144,100 sq km<br>
 _land_: 141,510 sq km<br>
 _water_: 2,590 sq km<br>
 
@@ -393,25 +393,25 @@ _selected World Heritage Site locales_: Proto-urban Site of Sarazm (c); Tajik Na
 lower middle-income Central Asian economy; key gold, cotton, and aluminum exporter; declining poverty; sustained high growth; very limited private sector; substantial illicit drug trade; significant remittances; environmentally fragile<br>
 
 **Real GDP (purchasing power parity)**<br>
-$41.177 billion (2022 est.)<br>
-$38.127 billion (2021 est.)<br>
-$34.851 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$46.467 billion (2023 est.)<br>
+$42.905 billion (2022 est.)<br>
+$39.727 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+8.3% (2023 est.)<br>
 8% (2022 est.)<br>
 9.4% (2021 est.)<br>
-4.4% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$4,100 (2022 est.)<br>
-$3,900 (2021 est.)<br>
-$3,700 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$4,600 (2023 est.)<br>
+$4,300 (2022 est.)<br>
+$4,100 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$10.492 billion (2022 est.)<br>
+$12.061 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -446,17 +446,17 @@ milk, potatoes, wheat, watermelons, onions, cotton, tomatoes, carrots/turnips, v
 aluminum, cement, coal, gold, silver, antimony, textile, vegetable oil<br>
 
 **Industrial production growth rate**<br>
-12.84% (2022 est.)<br>
+9.26% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.612 million (2022 est.)<br>
+2.677 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7% (2022 est.)<br>
-7.47% (2021 est.)<br>
-7.3% (2020 est.)<br>
+6.98% (2023 est.)<br>
+6.98% (2022 est.)<br>
+7.25% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -473,14 +473,14 @@ _female_: 14.4%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3%<br>
+_lowest 10%_: 3% (2015 est.)<br>
 _highest 10%_: 26.4% (2015 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-50.95% of GDP (2022 est.)<br>
+38.42% of GDP (2023 est.)<br>
+49.9% of GDP (2022 est.)<br>
 32.69% of GDP (2021 est.)<br>
-26.88% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -495,19 +495,19 @@ _expenditures_: $2.393 billion (2019 est.)<br>
 42% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-10.35% (of GDP) (2021 est.)<br>
+10.34% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$584.022 million (2023 est.)<br>
 $1.635 billion (2022 est.)<br>
-$734.735 million (2021 est.)<br>
-$335.906 million (2020 est.)<br>
+$735.526 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$2.105 billion (2023 est.)<br>
 $1.753 billion (2022 est.)<br>
 $2.161 billion (2021 est.)<br>
-$1.409 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -519,9 +519,9 @@ gold, precious metal ore, cotton, copper ore, aluminum (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$5.931 billion (2023 est.)<br>
 $5.261 billion (2022 est.)<br>
 $4.258 billion (2021 est.) note: data are in current year dollars<br>
-$3.125 billion (2020 est.) note: data are in current year dollars<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -544,11 +544,11 @@ $5.849 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Tajikistani somoni (TJS) per US dollar -<br>
+10.845 (2023 est.)<br>
 11.031 (2022 est.)<br>
 11.309 (2021 est.)<br>
 10.322 (2020 est.)<br>
 9.53 (2019 est.)<br>
-9.151 (2018 est.)<br>
 
 ## Energy
 
@@ -658,11 +658,11 @@ Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and 
 <strong>note: </strong>the National Guard, formerly the Presidential Guard, is tasked with ensuring public safety and security, similar to the tasks of the Internal Troops; it also takes part in ceremonial duties<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2023 est.)<br>
 1.1% of GDP (2022 est.)<br>
 1.2% of GDP (2021 est.)<br>
 1% of GDP (2020 est.)<br>
 2.1% of GDP (2019 est.)<br>
-2.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 10,000 active-duty troops (8,000 Land and Mobile Forces; 2,000 Air and Air Defense Forces) (2023)<br>
@@ -681,7 +681,7 @@ the military is a small and limited force equipped largely with Soviet-era weapo
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note 1: </strong>US-designated foreign terrorist groups such as the Islamic Jihad Union, the Islamic Movement of Uzbekistan, and the Islamic State of Iraq and ash-Sham-Khorasan Province have operated in the area where the Uzbek, Kyrgyz, and Tajik borders converge and ill-defined and porous borders allow for the relatively free movement of people and illicit goods <strong><br><br>note 2:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note 1: </strong>US-designated foreign terrorist groups such as the Islamic Jihad Union, the Islamic Movement of Uzbekistan, and the Islamic State of Iraq and ash-Sham-Khorasan Province have operated in the area where the Uzbek, Kyrgyz, and Tajik borders converge and ill-defined and porous borders allow for the relatively free movement of people and illicit goods <strong><br><br>note 2:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

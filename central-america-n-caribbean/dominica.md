@@ -19,7 +19,7 @@ Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, about 
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 751 sq km<br>
+_total _: 751 sq km<br>
 _land_: 751 sq km<br>
 _water_: NEGL<br>
 
@@ -68,7 +68,7 @@ population is mosly clustered along the coast, with roughly a third living in th
 <p>flash floods are a constant threat; destructive hurricanes can be expected during the late summer months</p><p><strong>volcanism:</strong> Dominica was the last island to be formed in the Caribbean some 26 million years ago, it lies in the middle of the volcanic island arc of the Lesser Antilles that extends from the island of Saba in the north to Grenada in the south; of the 16 volcanoes that make up this arc, five are located on Dominica, more than any other island in the Caribbean: Morne aux Diables (861 m), Morne Diablotins (1,430 m), Morne Trois Pitons (1,387 m), Watt Mountain (1,224 m), which last erupted in 1997, and Morne Plat Pays (940 m); the two best known volcanic features on Dominica, the Valley of Desolation and the Boiling Lake thermal areas, lie on the flanks of Watt Mountain and both are popular tourist destinations</p><br>
 
 **Geography - note**<br>
-known as "The Nature Island of the Caribbean" due to its spectacular, lush, and varied flora and fauna, which are protected by an extensive natural park system; the most mountainous of the Lesser Antilles, its volcanic peaks are cones of lava craters and include Boiling Lake, the second-largest, thermally active lake in the world<br>
+known as "The Nature Island of the Caribbean" due to its spectacular, lush, and varied flora and fauna, which are protected by an extensive natural park system; the most mountainous of the Lesser Antilles, its volcanic peaks are cones of lava craters and include Boiling Lake, the second-largest thermally active lake in the world<br>
 
 ## People and Society
 
@@ -339,31 +339,31 @@ _selected World Heritage Site locales_: Pitons Management Area<br>
 highly agrarian OECS island economy; ECCU-member state; large banana exporter; improved oversight of its citizenship-by-investment program; emerging ecotourism, information and communications, and education industries<br>
 
 **Real GDP (purchasing power parity)**<br>
-$833.828 million (2022 est.)<br>
-$789.248 million (2021 est.)<br>
-$738.371 million (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.159 billion (2023 est.)<br>
+$1.106 billion (2022 est.)<br>
+$1.048 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.65% (2022 est.)<br>
+4.71% (2023 est.)<br>
+5.58% (2022 est.)<br>
 6.89% (2021 est.)<br>
--16.6% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$11,500 (2022 est.)<br>
-$10,900 (2021 est.)<br>
-$10,300 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$15,900 (2023 est.)<br>
+$15,200 (2022 est.)<br>
+$14,500 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$607.441 million (2022 est.)<br>
+$653.993 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
--0.73% (2020 est.)<br>
-1.5% (2019 est.)<br>
-0.99% (2018 est.)<br>
+3.48% (2023 est.)<br>
+7.78% (2022 est.)<br>
+1.48% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -387,16 +387,16 @@ taro, grapefruits, yams, bananas, plantains, coconuts, milk, yautia, oranges, su
 soap, coconut oil, tourism, copra, furniture, cement blocks, shoes<br>
 
 **Industrial production growth rate**<br>
-1.07% (2022 est.)<br>
+5.01% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Population below poverty line**<br>
 29% (2009 est.)<br>
 
 **Remittances**<br>
-8.56% of GDP (2022 est.)<br>
-11.72% of GDP (2021 est.)<br>
-11.61% of GDP (2020 est.)<br>
+9.05% of GDP (2023 est.)<br>
+6.22% of GDP (2022 est.)<br>
+7.24% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -414,15 +414,15 @@ _expenditures_: $184 million (2021 est.)<br>
 40.9% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$133.58 million (2022 est.)<br>
--$153.204 million (2021 est.)<br>
--$178.7 million (2020 est.)<br>
+-$221.939 million (2023 est.)<br>
+-$162.036 million (2022 est.)<br>
+-$182.647 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$192.278 million (2022 est.)<br>
-$123.36 million (2021 est.)<br>
-$95.366 million (2020 est.)<br>
+$185.062 million (2023 est.)<br>
+$174.041 million (2022 est.)<br>
+$117.709 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -434,9 +434,9 @@ power equipment, soap, raw iron bars, natural gas, tropical fruits (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$349.052 million (2022 est.)<br>
-$307.79 million (2021 est.)<br>
-$303.326 million (2020 est.)<br>
+$414.13 million (2023 est.)<br>
+$350.982 million (2022 est.)<br>
+$313.729 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -448,9 +448,9 @@ refined petroleum, natural gas, crude petroleum, plastic products, cars (2022)<b
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$183.53 million (2023 est.)<br>
 $204.343 million (2022 est.)<br>
 $190.843 million (2021 est.)<br>
-$165.824 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -459,11 +459,11 @@ $314.2 million (31 December 2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2023 est.)<br>
 2.7 (2022 est.)<br>
 2.7 (2021 est.)<br>
 2.7 (2020 est.)<br>
 2.7 (2019 est.)<br>
-2.7 (2018 est.)<br>
 
 ## Energy
 

@@ -19,7 +19,7 @@ islands in the South Atlantic Ocean, about midway between South America and Afri
 Africa<br>
 
 **Area**<br>
-_total_: 394 sq km<br>
+_total _: 394 sq km<br>
 _land_: 122 sq km Saint Helena Island<br>
 _water_: 0 sq km<br>
 88 sq km Ascension Island, 184 sq km Tristan da Cunha island group (includes Tristan (98 sq km), Inaccessible, Nightingale, and Gough islands)<br>

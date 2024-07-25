@@ -19,7 +19,7 @@ Oceania, islands in the South Pacific Ocean, southeast of Australia<br>
 Oceania<br>
 
 **Area**<br>
-_total_: 268,838 sq km<br>
+_total _: 268,838 sq km<br>
 _land_: 264,537 sq km<br>
 _water_: 4,301 sq km<br>
 <strong>note:</strong> includes Antipodes Islands, Auckland Islands, Bounty Islands, Campbell Island, Chatham Islands, and Kermadec Islands<br>
@@ -389,31 +389,31 @@ _selected World Heritage Site locales_: Te Wahipounamu – South West New Zealan
 high-income, globally integrated Pacific island economy; strong agriculture, manufacturing, and tourism sectors; reliant on Chinese market for exports; slow recovery from post-COVID recession and inflation; challenges of fiscal deficits, below-average productivity, and curbing greenhouse gas emissions<br>
 
 **Real GDP (purchasing power parity)**<br>
-$231.534 billion (2022 est.)<br>
-$225.116 billion (2021 est.)<br>
-$214.054 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$254.77 billion (2023 est.)<br>
+$253.17 billion (2022 est.)<br>
+$246.334 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.85% (2022 est.)<br>
-5.17% (2021 est.)<br>
--0.65% (2020 est.)<br>
+0.63% (2023 est.)<br>
+2.77% (2022 est.)<br>
+4.55% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$45,200 (2022 est.)<br>
-$44,000 (2021 est.)<br>
-$42,100 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$48,800 (2023 est.)<br>
+$49,500 (2022 est.)<br>
+$48,200 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$248.102 billion (2022 est.)<br>
+$253.466 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.73% (2023 est.)<br>
 7.17% (2022 est.)<br>
 3.94% (2021 est.)<br>
-1.71% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -443,17 +443,17 @@ milk, beef, kiwifruit, apples, grapes, lamb/mutton, potatoes, wheat, barley, oni
 agriculture, forestry, fishing, logs and wood articles, manufacturing, mining, construction, financial services, real estate services, tourism<br>
 
 **Industrial production growth rate**<br>
-3.94% (2021 est.)<br>
+-2.56% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.971 million (2022 est.)<br>
+3.068 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+3.74% (2023 est.)<br>
 3.3% (2022 est.)<br>
 3.78% (2021 est.)<br>
-4.6% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -469,9 +469,9 @@ _on food_: 12.2% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 5.2% of household expenditures (2021 est.)<br>
 
 **Remittances**<br>
-0.27% of GDP (2022 est.)<br>
+0.24% of GDP (2023 est.)<br>
+0.23% of GDP (2022 est.)<br>
 0.26% of GDP (2021 est.)<br>
-0.2% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -482,25 +482,25 @@ _expenditures_: $88.593 billion (2020 est.)<br>
 1.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-54.27% of GDP (2022 est.)<br>
-50.99% of GDP (2021 est.)<br>
-46.15% of GDP (2020 est.)<br>
+54.57% of GDP (2022 est.)<br>
+51.37% of GDP (2021 est.)<br>
+46.12% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-29.77% (of GDP) (2022 est.)<br>
+29.93% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$16.982 billion (2023 est.)<br>
 -$21.627 billion (2022 est.)<br>
 -$14.804 billion (2021 est.)<br>
--$2.401 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$59.043 billion (2023 est.)<br>
 $57.485 billion (2022 est.)<br>
 $54.923 billion (2021 est.)<br>
-$50.173 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -512,9 +512,9 @@ milk, beef, wood, sheep and goat meat, butter (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$68.429 billion (2023 est.)<br>
 $71.35 billion (2022 est.)<br>
 $62.984 billion (2021 est.)<br>
-$48.118 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -526,9 +526,9 @@ refined petroleum, cars, plastic products, garments, trucks (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$15.487 billion (2023 est.)<br>
 $14.4 billion (2022 est.)<br>
 $16.114 billion (2021 est.)<br>
-$13.733 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -537,11 +537,11 @@ $192.327 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: New Zealand dollars (NZD) per US dollar -<br>
+1.628 (2023 est.)<br>
 1.577 (2022 est.)<br>
 1.414 (2021 est.)<br>
 1.542 (2020 est.)<br>
 1.518 (2019 est.)<br>
-1.445 (2018 est.)<br>
 
 ## Energy
 
@@ -696,14 +696,14 @@ New Zealand Space Agency (NZSA; established 2016 under the Ministry of Business,
 Mahia Peninsula Launch Complex (Hawke's Bay) (2024)<br>
 
 **Space program overview**<br>
-the New Zealand space sector model is mostly based on commercial space; NZSA and CSST primarily focus on developing space policy and strategy, bringing commercial space talent to New Zealand, and encouraging the commercial development of space technologies, particularly satellites and satellite/space launch vehicles (SLV); manufactures and launches satellites; builds and launches commercial SLVs; researches and develops a range of other space-related technologies, including propulsion systems; has a national space strategy; participates in international space programs and partners with a range of foreign space agencies and industries, including those of Australia, Canada, the EU and its member states, the European Space Agency (ESA) and its member states, South Africa, and the US; has a small, but growing commercial space sector  (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+the New Zealand space sector model is mostly based on commercial space; NZSA and CSST primarily focus on developing space policy and strategy, bringing commercial space talent to New Zealand, and encouraging the commercial development of space technologies, particularly satellites and satellite/space launch vehicles (SLV); manufactures and launches satellites; builds and launches commercial SLVs; researches and develops a range of other space-related technologies, including propulsion systems; has a national space strategy; participates in international space programs and partners with a range of foreign space agencies and industries, including those of Australia, Canada, the EU and its member states, the European Space Agency (ESA) and its member states, South Africa, and the US; has a small, but growing commercial space sector (2024)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

@@ -706,7 +706,7 @@ the Iraqi security forces (ISF) are primarily focused on internal security dutie
 
 **Terrorist group(s)**<br>
 Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); Jaysh Rijal al-Tariq al-Naqshabandi; Kata'ib Hizballah; Kurdistan Workers' Party (PKK)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

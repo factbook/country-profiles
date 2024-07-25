@@ -19,7 +19,7 @@ Oceania, archipelago in the South Pacific Ocean, about two-thirds of the way fro
 Oceania<br>
 
 **Area**<br>
-_total_: 747 sq km<br>
+_total _: 747 sq km<br>
 _land_: 717 sq km<br>
 _water_: 30 sq km<br>
 
@@ -318,7 +318,7 @@ _chief of state_: King TUPOU VI (since 18 March 2012)<br>
 _head of government_: Prime Minister Siaosi SOVALENI (since 27 December 2021)<br>
 _cabinet_: Cabinet nominated by the prime minister and appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; prime minister and deputy prime minister indirectly elected by the Legislative Assembly and appointed by the monarch; election last held on 18 November 2021 (next to be held in November 2025)<br>
-_election results_: Siaosi SOVALENI elected prime minister by the Legislative Assembly; Siaosi SOVALENI 16 votes, Aisake EKE 10<br>
+_election results_: <em><br>2021:</em> Siaosi SOVALENI elected prime minister by the Legislative Assembly; Siaosi SOVALENI 16 votes, Aisake EKE 10<br><br><em>2019:</em> Pohiva TU'I'ONETOA (Peoples Party) elected prime minister by parliament receiving 15 of 23 votes cast<br>
 <strong>note:</strong> a Privy Council advises the monarch<br>
 
 **Legislative branch**<br>
@@ -366,31 +366,31 @@ _lyrics/music_: Uelingatoni Ngu TUPOUMALOHI/Karl Gustavus SCHMITT<br>
 upper middle-income Pacific island economy; enormous diaspora and remittance reliance; key tourism and agricultural sectors; major fish exporter; rapidly growing Chinese infrastructure investments; rising methamphetamine hub<br>
 
 **Real GDP (purchasing power parity)**<br>
-$651.259 million (2021 est.)<br>
-$669.107 million (2020 est.)<br>
-$665.853 million (2019 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$700.437 million (2022 est.)<br>
+$714.816 million (2021 est.)<br>
+$734.406 million (2020 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+-2.01% (2022 est.)<br>
 -2.67% (2021 est.)<br>
 0.49% (2020 est.)<br>
-0.71% (2019 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$6,100 (2021 est.)<br>
-$6,400 (2020 est.)<br>
-$6,300 (2019 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$6,600 (2022 est.)<br>
+$6,700 (2021 est.)<br>
+$7,000 (2020 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$469.228 million (2021 est.)<br>
+$500.275 million (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.35% (2023 est.)<br>
 10.97% (2022 est.)<br>
 5.64% (2021 est.)<br>
--0.35% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -418,13 +418,13 @@ tourism, construction, fishing<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-38,000 (2022 est.)<br>
+38,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.43% (2022 est.)<br>
+2.3% (2023 est.)<br>
+2.35% (2022 est.)<br>
 2.11% (2021 est.)<br>
-2.73% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -433,21 +433,21 @@ _male_: 7.5%<br>
 _female_: 16.3%<br>
 
 **Population below poverty line**<br>
-22.5% (2010 est.)<br>
+20.6% (2021 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-33.5 (2015 est.)<br>
+27.1 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.2%<br>
-_highest 10%_: 26.8% (2015 est.)<br>
+_lowest 10%_: 4% (2021 est.)<br>
+_highest 10%_: 22% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-46.22% of GDP (2021 est.)<br>
-39.31% of GDP (2020 est.)<br>
-37.18% of GDP (2019 est.)<br>
+45.03% of GDP (2022 est.)<br>
+46.95% of GDP (2021 est.)<br>
+38.26% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -458,23 +458,23 @@ _expenditures_: $196 million (2019 est.)<br>
 0% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-49.41% of GDP (2016 est.)<br>
-51.8% of GDP (FY2016 est.)<br>
-51.18% of GDP (2015 est.)<br>
+45.02% of GDP (2020 est.)<br>
+42.55% of GDP (2019 est.)<br>
+48.7% of GDP (2018 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-39.8% (of GDP) (2017 est.)<br>
+21.3% (of GDP) (2020 est.)<br>
 
 **Current account balance**<br>
--$31.432 million (2022 est.)<br>
--$24.467 million (2021 est.)<br>
--$25.78 million (2020 est.)<br>
+-$28.84 million (2022 est.)<br>
+-$33.414 million (2021 est.)<br>
+-$36.294 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$59.622 million (2022 est.)<br>
-$58.152 million (2021 est.)<br>
+$59.926 million (2022 est.)<br>
+$57.534 million (2021 est.)<br>
 $99.78 million (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
@@ -487,9 +487,9 @@ fish, scrap copper, processed crustaceans, vegetables, perfume plants (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$329.146 million (2022 est.)<br>
-$291.957 million (2021 est.)<br>
-$309.685 million (2020 est.)<br>
+$332.743 million (2022 est.)<br>
+$299.094 million (2021 est.)<br>
+$314.803 million (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -501,9 +501,9 @@ refined petroleum, plastic products, poultry, sheep and goat meat, cars (2022)<b
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$396.53 million (2023 est.)<br>
 $375.564 million (2022 est.)<br>
 $361.812 million (2021 est.)<br>
-$298.948 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -512,11 +512,11 @@ $198.2 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: pa'anga (TOP) per US dollar -<br>
+2.364 (2023 est.)<br>
 2.328 (2022 est.)<br>
 2.265 (2021 est.)<br>
 2.3 (2020 est.)<br>
 2.289 (2019 est.)<br>
-2.237 (2018 est.)<br>
 
 ## Energy
 
@@ -554,7 +554,7 @@ _total subscriptions_: 64,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 61 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Tonga was only connected to the global submarine telecommunication network in the last decade; though this system is more stable than other technologies such as satellite and fixed infrastructure; the January 2022 eruption of Hunga Tonga-Hunga Ha’apai severed Tonga’s connection to the submarine telecommunication network <p> </p> (2023)<br>
+_general assessment_: Tonga was only connected to the global submarine telecommunication network in the last decade; though this system is more stable than other technologies such as satellite and fixed infrastructure; the January 2022 eruption of Hunga Tonga-Hunga Ha&rsquo;apai severed Tonga&rsquo;s connection to the submarine telecommunication network (2023)<br>
 _domestic_: fixed-line 10 per 100 persons and mobile-cellular teledensity 61 telephones per 100 (2021)<br>
 _international_: country code - 676; landing point for the Tonga Cable and the TDCE connecting to Fiji and 3 separate Tonga islands; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)<br>
 

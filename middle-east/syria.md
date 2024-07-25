@@ -19,7 +19,7 @@ Middle East, bordering the Mediterranean Sea, between Lebanon and Turkey<br>
 Middle East<br>
 
 **Area**<br>
-_total_: 187,437 sq km<br>
+_total _: 187,437 sq km<br>
 _land_: 185,887 sq km<br>
 _water_: 1,550 sq km<br>
 <strong>note:</strong> includes 1,295 sq km of Israeli-occupied territory<br>
@@ -77,7 +77,7 @@ significant population density along the Mediterranean coast; larger concentrati
 <p>dust storms, sandstorms</p><p><strong>volcanism:</strong> Syria's two historically active volcanoes, Es Safa and an unnamed volcano near the Turkish border have not erupted in centuries</p><br>
 
 **Geography - note**<br>
-the capital of Damascus - located at an oasis fed by the Barada River - is thought to be one of the world's oldest continuously inhabited cities; there are 42 Israeli settlements and civilian land use sites in the Israeli-controlled Golan Heights (2017)<br>
+the capital of Damascus -- located at an oasis fed by the Barada River -- is thought to be one of the world's oldest continuously inhabited cities; there are 42 Israeli settlements and civilian land use sites in the Israeli-controlled Golan Heights (2017)<br>
 
 ## People and Society
 
@@ -327,7 +327,7 @@ _chief of state_: President Bashar al-ASAD (since 17 July 2000)<br>
 _head of government_: Prime Minister Hussein ARNOUS (since 30 August 2020)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 26 May 2021 (next to be held in 2028); the president appoints the vice president and prime minister<br>
-_election results_: <em> </em>Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party) 95.2%, Mahmoud Ahmad MAREI (Democratic Arab Socialist Union) 3.3%, other1.5%<br>
+_election results_: <em><br>2021: </em>Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party) 95.2%, Mahmoud Ahmad MAREI (Democratic Arab Socialist Union) 3.3%, other 1.5%<br><br><em>2014: </em>Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party) 88.7%, Hassan al-NOURI (independent) 4.3%, Maher HAJJER (independent) 3.2%, other/invalid 3.8%<br>
 
 **Legislative branch**<br>
 _description_: unicameral People's Assembly or Majlis al-Shaab (250 seats; members directly elected in multi-seat constituencies by simple majority preferential vote to serve 4-year terms)<br>
@@ -375,10 +375,10 @@ _selected World Heritage Site locales_: Ancient City of Damascus; Ancient City o
 low-income Middle Eastern economy; prior infrastructure and economy devastated by 11-year civil war; ongoing US sanctions; sporadic trans-migration during conflict; currently being supported by World Bank trust fund; ongoing hyperinflation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$50.28 billion (2015 est.)<br>
-$55.8 billion (2014 est.)<br>
-$61.9 billion (2013 est.)<br>
-<strong>note:</strong> data are in 2015 dollars<br>the war-driven deterioration of the economy resulted in a disappearance of quality national level statistics in the 2012-13 period<br>
+$62.151 billion (2021 est.)<br>
+$61.353 billion (2020 est.)<br>
+$61.465 billion (2019 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
 1.3% (2021 est.)<br>
@@ -387,13 +387,13 @@ $61.9 billion (2013 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,900 (2015 est.)<br>
-$3,300 (2014 est.)<br>
-$2,800 (2013 est.)<br>
-<strong>note:</strong> data are in 2015 US dollars<br>
+$2,900 (2021 est.)<br>
+$3,000 (2020 est.)<br>
+$3,100 (2019 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$8.97 billion (2021 est.)<br>
+$8.98 billion (2021 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -425,13 +425,13 @@ petroleum, textiles, food processing, beverages, tobacco, phosphate rock mining,
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.816 million (2022 est.)<br>
+6.315 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+13.54% (2023 est.)<br>
 13.81% (2022 est.)<br>
-15.08% (2021 est.)<br>
-15.28% (2020 est.)<br>
+14.8% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -441,6 +441,13 @@ _female_: 51.1%<br>
 
 **Population below poverty line**<br>
 82.5% (2014 est.)<br>
+
+**Gini Index coefficient - distribution of family income**<br>
+26.6 (2022 est.)<br>
+
+**Household income or consumption by percentage share**<br>
+_lowest 10%_: 3.8% (2022 est.)<br>
+_highest 10%_: 21.1% (2022 est.)<br>
 
 **Remittances**<br>
 0% of GDP (2021 est.)<br>
@@ -485,7 +492,7 @@ pure olive oil, nuts, phosphates, cotton, garments (2022)<br>
 $6.553 billion (2021 est.)<br>
 $3.751 billion (2020 est.)<br>
 $6.552 billion (2019 est.)<br>
-<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
+<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Turkey 45%, UAE 10%, China 9%, Lebanon 8%, Egypt 7% (2022)<br>
@@ -505,11 +512,11 @@ $5.085 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Syrian pounds (SYP) per US dollar -<br>
-492.611 (2017 est.)<br>
-460.276 (2016 est.)<br>
-237.029 (2015 est.)<br>
-154.13 (2014 est.)<br>
-108.733 (2013 est.)<br>
+2,505.747 (2022 est.)<br>
+1,256 (2021 est.)<br>
+877.945 (2020 est.)<br>
+436.5 (2019 est.)<br>
+436.5 (2018 est.)<br>
 
 ## Energy
 
@@ -662,13 +669,13 @@ Syrian Space Agency (created in 2014); General Organization of Remote Sensing (G
 
 **Space program overview**<br>
 status unclear; has been handicapped by the impact of the civil war, including the loss of students and scientists who fled the country; had previously focused on satellite development and related space technologies, as well as scientific research; has relations with the space agency and space industries of Russia (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Abdallah Azzam Brigades; Ansar al-Islam; Asa’ib Ahl Al-Haq; Hizballah; Hurras al-Din; Islamic Jihad Union; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); Kata'ib Hizballah; Kurdistan Workers' Party (PKK); Mujahidin Shura Council in the Environs of Jerusalem; al-Nusrah Front (Hay'at Tahrir al-Sham); al-Qa'ida; Palestine Liberation Front; Popular Front for the Liberation of Palestine (PFLP); PFLP-General Command<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

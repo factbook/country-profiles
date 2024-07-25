@@ -19,7 +19,7 @@ Northern Europe, island group between the Norwegian Sea and the North Atlantic O
 Europe<br>
 
 **Area**<br>
-_total_: 1,393 sq km<br>
+_total _: 1,393 sq km<br>
 _land_: 1,393 sq km<br>
 _water_: 0 sq km (some lakes and streams)<br>
 
@@ -315,9 +315,10 @@ _lyrics/music_: Simun av SKAROI/Peter ALBERG<br>
 high-income Danish territorial economy; party neither to the EU nor the Schengen Area; associate Nordic Council member; very low unemployment; unique foreign ownership allowance in fishing industry; known salmon exporter; growing IT industries<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.001 billion (2014 est.)<br>
-$1.89 billion (2013 est.)<br>
-$1.608 billion (2012 est.)<br>
+$3.798 billion (2022 est.)<br>
+$3.603 billion (2021 est.)<br>
+$3.407 billion (2020 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
 5.4% (2022 est.)<br>
@@ -326,7 +327,10 @@ $1.608 billion (2012 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$40,000 (2014 est.)<br>
+$71,500 (2022 est.)<br>
+$68,100 (2021 est.)<br>
+$65,000 (2020 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $3.556 billion (2022 est.)<br>
@@ -406,7 +410,7 @@ fish and fish products (2021)<br>
 $2.223 billion (2022 est.)<br>
 $1.906 billion (2021 est.)<br>
 $1.597 billion (2020 est.)<br>
-<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
+<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Denmark 33%, China 10.7%, Germany 7.6%, Poland 6.8%, Norway 6.7%, Ireland 5%, Chile 4.3% (2017)<br>
@@ -420,11 +424,11 @@ $274.5 million (2010)<br>
 
 **Exchange rates**<br>
 _Currency_: Danish kroner (DKK) per US dollar -<br>
+6.89 (2023 est.)<br>
+7.076 (2022 est.)<br>
 6.287 (2021 est.)<br>
 6.542 (2020 est.)<br>
 6.669 (2019 est.)<br>
-6.315 (2018 est.)<br>
-6.603 (2017 est.)<br>
 
 ## Energy
 

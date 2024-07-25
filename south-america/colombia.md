@@ -19,7 +19,7 @@ Northern South America, bordering the Caribbean Sea, between Panama and Venezuel
 South America<br>
 
 **Area**<br>
-_total_: 1,138,910 sq km<br>
+_total _: 1,138,910 sq km<br>
 _land_: 1,038,700 sq km<br>
 _water_: 100,210 sq km<br>
 <strong>note:</strong> includes Isla de Malpelo, Roncador Cay, and Serrana Bank<br>
@@ -408,31 +408,31 @@ _selected World Heritage Site locales_: Chiribiquete National Park (m); Coffee C
 prior to COVID-19, one of the most consistent growth economies; declining poverty; large stimulus package has mitigated economic fallout, but delayed key infrastructure investments; successful inflation management; sound flexible exchange rate regime; domestic economy suffers from lack of trade integration and infrastructure<br>
 
 **Real GDP (purchasing power parity)**<br>
-$810.104 billion (2022 est.)<br>
-$755.295 billion (2021 est.)<br>
-$680.347 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$978.024 billion (2023 est.)<br>
+$972.073 billion (2022 est.)<br>
+$906.034 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-7.26% (2022 est.)<br>
-11.02% (2021 est.)<br>
--7.25% (2020 est.)<br>
+0.61% (2023 est.)<br>
+7.29% (2022 est.)<br>
+10.8% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$15,600 (2022 est.)<br>
-$14,700 (2021 est.)<br>
-$13,400 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$18,800 (2023 est.)<br>
+$18,700 (2022 est.)<br>
+$17,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$343.622 billion (2022 est.)<br>
+$363.54 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+11.74% (2023 est.)<br>
 10.18% (2022 est.)<br>
 3.5% (2021 est.)<br>
-2.53% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -462,17 +462,17 @@ sugarcane, oil palm fruit, milk, rice, potatoes, bananas, plantains, maize, chic
 textiles, food processing, oil, clothing and footwear, beverages, chemicals, cement; gold, coal, emeralds<br>
 
 **Industrial production growth rate**<br>
-7.04% (2022 est.)<br>
+-1.95% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-25.771 million (2022 est.)<br>
+26.003 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+9.57% (2023 est.)<br>
 10.55% (2022 est.)<br>
 13.9% (2021 est.)<br>
-15.98% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -481,11 +481,11 @@ _male_: 21.9%<br>
 _female_: 32.8%<br>
 
 **Population below poverty line**<br>
-39.3% (2021 est.)<br>
+36.6% (2022 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-51.5 (2021 est.)<br>
+54.8 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -493,14 +493,14 @@ _on food_: 18.6% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.2%<br>
-_highest 10%_: 40.2% (2021 est.)<br>
+_lowest 10%_: 1% (2022 est.)<br>
+_highest 10%_: 43.5% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.75% of GDP (2022 est.)<br>
+2.78% of GDP (2023 est.)<br>
+2.74% of GDP (2022 est.)<br>
 2.7% of GDP (2021 est.)<br>
-2.56% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -511,25 +511,25 @@ _expenditures_: $103.098 billion (2019 est.)<br>
 -2.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-70.49% of GDP (2022 est.)<br>
+70.14% of GDP (2022 est.)<br>
 80.37% of GDP (2021 est.)<br>
-91.22% of GDP (2020 est.)<br>
+91.16% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-15.35% (of GDP) (2022 est.)<br>
+15.28% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$21.526 billion (2022 est.)<br>
--$17.951 billion (2021 est.)<br>
--$9.267 billion (2020 est.)<br>
+-$9.715 billion (2023 est.)<br>
+-$21.367 billion (2022 est.)<br>
+-$17.956 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$73.112 billion (2022 est.)<br>
+$67.762 billion (2023 est.)<br>
+$73.06 billion (2022 est.)<br>
 $50.907 billion (2021 est.)<br>
-$38.224 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -541,9 +541,9 @@ crude petroleum, coal, coffee, refined petroleum, gold (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$89.54 billion (2022 est.)<br>
-$70.909 billion (2021 est.)<br>
-$51.328 billion (2020 est.)<br>
+$75.983 billion (2023 est.)<br>
+$89.649 billion (2022 est.)<br>
+$70.914 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -555,9 +555,9 @@ refined petroleum, cars, broadcasting equipment, corn, packaged medicine (2022)<
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$59.041 billion (2023 est.)<br>
 $56.704 billion (2022 est.)<br>
 $58.019 billion (2021 est.)<br>
-$58.499 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -566,11 +566,11 @@ $128.238 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Colombian pesos (COP) per US dollar -<br>
+4,325.955 (2023 est.)<br>
 4,256.194 (2022 est.)<br>
 3,744.244 (2021 est.)<br>
 3,693.276 (2020 est.)<br>
 3,281.622 (2019 est.)<br>
-2,955.704 (2018 est.)<br>
 
 ## Energy
 
@@ -699,11 +699,11 @@ Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: 
 note: the PNC is a civilian force that is under the jurisdiction of the Ministry of Defense<br>
 
 **Military expenditures**<br>
+2.9% of GDP (2023 est.)<br>
 3% of GDP (2022 est.)<br>
 3% of GDP (2021 est.)<br>
 3% of GDP (2020 est.)<br>
 3.1% of GDP (2019 est.)<br>
-3.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 265,000 active troops (200,000 Army; 50,000 Navy, including about 20,000 marines; 15,000 Air Force); approximately 175,000 National Police (2023)<br>
@@ -728,13 +728,13 @@ Colombian Space Commission (Comision Colombiana Del Espacio, CCE; established 20
 
 **Space program overview**<br>
 has a small program focused on acquiring satellites, particularly remote sensing (RS) satellites; operates satellites and produces nanosatellites; researches other space technologies, including telecommunications, satellite navigation, and astronautics; has relations with a variety of foreign space agencies or commercial space industries, including those of Denmark, India, Russia, Sweden, the US, and some members of the Latin American and Caribbean Space Agency (ALCE) (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 National Liberation Army (ELN); Revolutionary Armed Forces of Colombia - People's Army (FARC-EP); Segunda Marquetalia<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

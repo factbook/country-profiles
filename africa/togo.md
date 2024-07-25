@@ -19,7 +19,7 @@ Western Africa, bordering the Bight of Benin, between Benin and Ghana<br>
 Africa<br>
 
 **Area**<br>
-_total_: 56,785 sq km<br>
+_total _: 56,785 sq km<br>
 _land_: 54,385 sq km<br>
 _water_: 2,400 sq km<br>
 
@@ -401,25 +401,25 @@ _selected World Heritage Site locales_: Koutammakou; the Land of the Batammariba
 low-income West African economy; primarily agrarian economy; has a deep-water port; growing international shipping locale; improving privatization and public budgeting transparency; key phosphate mining industry; extremely high rural poverty<br>
 
 **Real GDP (purchasing power parity)**<br>
-$19.491 billion (2022 est.)<br>
-$18.421 billion (2021 est.)<br>
-$17.38 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$25.75 billion (2023 est.)<br>
+$24.199 billion (2022 est.)<br>
+$22.881 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.81% (2022 est.)<br>
+6.41% (2023 est.)<br>
+5.76% (2022 est.)<br>
 5.99% (2021 est.)<br>
-2.16% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,200 (2022 est.)<br>
-$2,100 (2021 est.)<br>
-$2,100 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2,800 (2023 est.)<br>
+$2,700 (2022 est.)<br>
+$2,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$8.341 billion (2022 est.)<br>
+$9.171 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -454,17 +454,17 @@ cassava, yams, maize, oil palm fruit, sorghum, soybeans, beans, rice, vegetables
 phosphate mining, agricultural processing, cement, handicrafts, textiles, beverages<br>
 
 **Industrial production growth rate**<br>
-7.27% (2022 est.)<br>
+6.74% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.074 million (2022 est.)<br>
+3.166 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.85% (2022 est.)<br>
-4.4% (2021 est.)<br>
-4.17% (2020 est.)<br>
+2.05% (2023 est.)<br>
+2.07% (2022 est.)<br>
+2.29% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -477,18 +477,18 @@ _female_: 7.7%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-42.5 (2018 est.)<br>
+37.9 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.3%<br>
-_highest 10%_: 33% (2018 est.)<br>
+_lowest 10%_: 2.8% (2021 est.)<br>
+_highest 10%_: 29.6% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-7.8% of GDP (2022 est.)<br>
-7.7% of GDP (2021 est.)<br>
-8.69% of GDP (2020 est.)<br>
+6.1% of GDP (2023 est.)<br>
+6.81% of GDP (2022 est.)<br>
+6.67% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -503,7 +503,7 @@ _expenditures_: $1.158 billion (2019 est.)<br>
 81.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-13.58% (of GDP) (2019 est.)<br>
+14.19% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -550,11 +550,11 @@ $1.22 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
-555.446 (2018 est.)<br>
 
 ## Energy
 
@@ -674,11 +674,11 @@ Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de 
 <strong>note:</strong> the Police Directorate and GNT are responsible for law enforcement and maintenance of order within the country; the GNT is also responsible for migration and border enforcement; the GNT falls under the Ministry of the Armed Forces but also reports to the Ministry of Security and Civil Protection on many matters involving law enforcement and internal security; in 2022, the Ministry of the Armed Forces was made part of the Office of the Presidency<br>
 
 **Military expenditures**<br>
+2.2% of GDP (2023 est.)<br>
 2.1% of GDP (2022 est.)<br>
 1.9% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
 2.6% of GDP (2019 est.)<br>
-1.9% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 15,000 active-duty personnel, including approximately 3,000 Gendarmerie (2023)<br>
@@ -692,13 +692,13 @@ the FAT has a small, mixed inventory of mostly older equipment from a variety of
 <strong>note:</strong> as of 2022, about 7% of the military's personnel were women<br>
 
 **Military - note**<br>
-since its creation in 1963, the Togolese military has had a history of interfering in the country’s politics with assassinations, coups, influence, and a large military crackdown in 2005 that killed hundreds; over the past decade, however, it has made some efforts to reform and professionalize, as well as increase its role in UN peacekeeping activities; Togo maintains a regional peacekeeping training center for military and police in Lome; the military participates in multinational exercises and has received training from foreign partners, including France and the US<br><br>the FAT’s current focuses are primarily terrorism and maritime security; in recent years, it has increased operations in the northern border region of the country to boost border security and prevent terrorist infiltrations from Jama'at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida-affiliated militant groups based in Mali that also operates in neighboring Burkina Faso; in 2022, the Togolese Government declared a state of emergency in the north due to the threat from JNIM following an attack on a Togolese military post that killed several soldiers; the Navy and Air Force have increased focus on combating piracy and smuggling in the Gulf of Guinea (2023)<br>
+since its creation in 1963, the Togolese military has had a history of interfering in the country’s politics with assassinations, coups, influence, and a large military crackdown in 2005 that killed hundreds; over the past decade, however, it has made some efforts to reform and professionalize, as well as increase its role in UN peacekeeping activities; Togo maintains a regional peacekeeping training center for military and police in Lome; the military participates in multinational exercises and has received training from foreign partners, including France and the US<br><br>the FAT’s current focuses are primarily terrorism and maritime security; in recent years, it has increased operations in the northern border region of the country to boost border security and prevent terrorist infiltrations from Jama'at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida-affiliated militant groups based in Mali that also operates in neighboring Burkina Faso; in 2022, the Togolese Government declared a state of emergency in the north due to the threat from JNIM following an attack on a Togolese military post that killed several soldiers; northern Togo has also had problems with banditry, as well as arms, drugs, fuel, and gold smuggling, which has aggravated local disputes and provided terrorist groups with financial resources; the Navy and Air Force have increased focus on combating piracy and smuggling in the Gulf of Guinea (2023)<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Jama’at Nusrat al Islam wal Muslimeen (JNIM)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

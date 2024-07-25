@@ -19,7 +19,7 @@ Central Africa, northeast of Angola<br>
 Africa<br>
 
 **Area**<br>
-_total_: 2,344,858 sq km<br>
+_total _: 2,344,858 sq km<br>
 _land_: 2,267,048 sq km<br>
 _water_: 77,810 sq km<br>
 
@@ -50,7 +50,7 @@ _mean elevation_: 726 m<br>
 
 **Natural resources**<br>
 cobalt, copper, niobium, tantalum, petroleum, industrial and gem diamonds, gold, silver, zinc, manganese, tin, uranium, coal, hydropower, timber<br>
-<strong>note 1:</strong> coltan, the industrial name for a columbite–tantalite mineral from which niobium and tantalum are extracted, is being linked to warfare in the Democratic Republic of the Congo; mining of coltan is mainly artisanal and small-scale and vulnerable to extortion and human trafficking; fighting over cassiterite deposits, a tin ore, is also a major cause of conflict in eastern parts of the Democratic Republic of the Congo; tantalum, tin, tungsten, and gold extracted from central Africa are considered "conflict minerals" and as such are subject to international monitoring<br><br><strong>note 2:</strong> the DROC is the World's leading producer of cobalt, accounting for as much as 70% of the World's supply; between 20-30% of this cobalt is produced in artisanal and small-scale mining operations which are vulnerable to extortion, human trafficking, and exploitative working conditions including child labor<br>
+<strong>note 1:</strong> coltan, the industrial name for a columbite–tantalite mineral from which niobium and tantalum are extracted, is mainly artisanal and small-scale; tantalum, tin, tungsten, and gold extracted from central Africa are considered "conflict minerals" and as such are subject to international monitoring<br><br><strong>note 2:</strong> the DROC is the World's leading producer of cobalt, accounting for as much as 70% of the World's supply; between 20-30% of this cobalt is produced in artisanal and small-scale mining operations <br>
 
 **Land use**<br>
 _agricultural land_: 11.4% (2018 est.)<br>
@@ -421,25 +421,25 @@ _selected World Heritage Site locales_: Garamba National Park; Kahuzi-Biega Nati
 very poor, large, natural resource-rich sub-Saharan country; possesses the world&rsquo;s second largest rainforest; increasing Chinese extractive sector trade; massive decrease in government investments; increasing current account deficit and public debts<br>
 
 **Real GDP (purchasing power parity)**<br>
-$112.144 billion (2022 est.)<br>
-$102.956 billion (2021 est.)<br>
-$96.945 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$154.012 billion (2023 est.)<br>
+$141.867 billion (2022 est.)<br>
+$130.244 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+8.56% (2023 est.)<br>
 8.92% (2022 est.)<br>
 6.2% (2021 est.)<br>
-1.74% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,100 (2022 est.)<br>
-$1,100 (2021 est.)<br>
-$1,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1,500 (2023 est.)<br>
+$1,400 (2022 est.)<br>
+$1,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$64.719 billion (2022 est.)<br>
+$66.383 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -474,17 +474,17 @@ cassava, plantains, sugarcane, oil palm fruit, maize, rice, root vegetables, ban
 mining (copper, cobalt, gold, diamonds, coltan, zinc, tin, tungsten), mineral processing, consumer products (textiles, plastics, footwear, cigarettes), metal products, processed foods and beverages, timber, cement, commercial ship repair<br>
 
 **Industrial production growth rate**<br>
-15.66% (2022 est.)<br>
+14.56% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-34.812 million (2022 est.)<br>
+35.983 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.69% (2022 est.)<br>
-5.51% (2021 est.)<br>
-5.49% (2020 est.)<br>
+4.54% (2023 est.)<br>
+4.59% (2022 est.)<br>
+5.27% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -496,16 +496,16 @@ _female_: 8.5%<br>
 63% (2014 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-42.1 (2012 est.)<br>
+44.7 (2020 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.3%<br>
-_highest 10%_: 34.7% (2006)<br>
+_lowest 10%_: 2.1% (2020 est.)<br>
+_highest 10%_: 35.8% (2020 est.)<br>
 
 **Remittances**<br>
-2.57% of GDP (2022 est.)<br>
+2.05% of GDP (2023 est.)<br>
+2.05% of GDP (2022 est.)<br>
 2.44% of GDP (2021 est.)<br>
-2.46% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -516,11 +516,12 @@ _expenditures_: $6.382 billion (2019 est.)<br>
 -0.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+15.99% of GDP (2022 est.)<br>
 18.1% of GDP (2017 est.)<br>
 19.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-11.2% (of GDP) (2017 est.)<br>
+11.41% (of GDP) (2022 est.)<br>
 
 **Current account balance**<br>
 -$587.407 million (2021 est.)<br>
@@ -702,11 +703,11 @@ Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Repu
 <strong>note 1: </strong>the Congolese National Police are under the Ministry of Interior<br><br><strong>note 2: </strong>the Republican Guard is a division-size element consisting of approximately 5 regiments; it is regarded as the country’s best equipped and trained military unit and is under the direct control of the president<br>
 
 **Military expenditures**<br>
-0.6% of GDP (2022 est.)<br>
+1.2% of GDP (2023 est.)<br>
+0.7% of GDP (2022 est.)<br>
 0.7% of GDP (2021 est.)<br>
 0.7% of GDP (2020 est.)<br>
 0.9% of GDP (2019 est.)<br>
-0.8% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimates vary; up to 140,000 active troops, including approximately 10,000 Republican Guard (2023)<br>
@@ -725,7 +726,7 @@ the FARDC is equipped mostly with Soviet-era weapons systems and equipment (2023
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DRC)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

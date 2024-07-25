@@ -19,7 +19,7 @@ Northern Africa, bordering the Mediterranean Sea, between Egypt, Tunisia, and Al
 Africa<br>
 
 **Area**<br>
-_total_: 1,759,540 sq km<br>
+_total _: 1,759,540 sq km<br>
 _land_: 1,759,540 sq km<br>
 _water_: 0 sq km<br>
 
@@ -76,7 +76,7 @@ well over 90% of the population lives along the Mediterranean coast in and betwe
 hot, dry, dust-laden ghibli is a southern wind lasting one to four days in spring and fall; dust storms, sandstorms<br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> more than 90% of the country is desert or semidesert<br><br><strong>note 2:</strong> the volcano Waw an Namus lies in south central Libya in the middle of the Sahara; the caldera is an oasis - the name means "oasis of mosquitoes" - containing several small lakes surrounded by vegetation and hosting various insects and a large diversity of birds<br>
+<strong>note 1:</strong> more than 90% of the country is desert or semidesert<br><br><strong>note 2:</strong> the volcano Waw an Namus lies in south central Libya in the middle of the Sahara; the caldera is an oasis -- the name means "oasis of mosquitoes" -- containing several small lakes surrounded by vegetation and hosting various insects and a large diversity of birds<br>
 
 ## People and Society
 
@@ -377,31 +377,31 @@ _selected World Heritage Site locales_: Archaeological Site of Cyrene; Archaeolo
 upper middle-income, fossil fuel-based North African economy; 31% economic contraction due to COVID-19 and 2020 oil blockade; reduced government spending; central bank had to devalue currency; public wages are over 60% of expenditures<br>
 
 **Real GDP (purchasing power parity)**<br>
-$134.861 billion (2022 est.)<br>
-$136.55 billion (2021 est.)<br>
-$103.941 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$121.951 billion (2023 est.)<br>
+$124.026 billion (2022 est.)<br>
+$122.39 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--1.24% (2022 est.)<br>
-31.37% (2021 est.)<br>
--29.79% (2020 est.)<br>
+-1.67% (2023 est.)<br>
+1.34% (2022 est.)<br>
+153.49% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$19,800 (2022 est.)<br>
-$20,300 (2021 est.)<br>
-$15,600 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$17,700 (2023 est.)<br>
+$18,200 (2022 est.)<br>
+$18,200 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$45.752 billion (2022 est.)<br>
+$50.492 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.37% (2023 est.)<br>
 4.51% (2022 est.)<br>
 2.87% (2021 est.)<br>
-1.45% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -425,17 +425,17 @@ potatoes, watermelons, tomatoes, onions, dates, milk, olives, chicken, wheat, ve
 petroleum, petrochemicals, aluminum, iron and steel, food processing, textiles, handicrafts, cement<br>
 
 **Industrial production growth rate**<br>
--9.9% (2022 est.)<br>
+12.54% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.327 million (2022 est.)<br>
+2.398 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-19.3% (2022 est.)<br>
-19.71% (2021 est.)<br>
-19.71% (2020 est.)<br>
+18.74% (2023 est.)<br>
+19.32% (2022 est.)<br>
+19.6% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -501,9 +501,9 @@ refined petroleum, cars, garments, broadcasting equipment, tobacco (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$92.427 billion (2023 est.)<br>
 $86.683 billion (2022 est.)<br>
 $82.262 billion (2021 est.)<br>
-$79.656 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -512,11 +512,11 @@ $3.116 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Libyan dinars (LYD) per US dollar -<br>
+4.813 (2023 est.)<br>
 4.813 (2022 est.)<br>
 4.514 (2021 est.)<br>
 1.389 (2020 est.)<br>
 1.398 (2019 est.)<br>
-1.365 (2018 est.)<br>
 
 ## Energy
 
@@ -641,7 +641,7 @@ Turkey has provided military advisers to train and assist western/GNU Libyan for
 
 **Terrorist group(s)**<br>
 Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham - Libya (ISIS-L); al-Mulathamun Battalion (al-Mourabitoun); al-Qa'ida in the Islamic Maghreb (AQIM)<br>
-<strong>note: </strong>details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note: </strong>details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

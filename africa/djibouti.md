@@ -19,7 +19,7 @@ Eastern Africa, bordering the Gulf of Aden and the Red Sea, between Eritrea and 
 Africa<br>
 
 **Area**<br>
-_total_: 23,200 sq km<br>
+_total _: 23,200 sq km<br>
 _land_: 23,180 sq km<br>
 _water_: 20 sq km<br>
 
@@ -332,7 +332,7 @@ _chief of state_: President Ismail Omar GUELLEH (since 8 May 1999)<br>
 _head of government_: Prime Minister Abdoulkader Kamil MOHAMED (since 1 April 2013)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 9 April 2021 (next to be held in April 2026); prime minister appointed by the president<br>
-_election results_: <em><br>2021</em>: Ismail Omar GUELLEH reelected president for a fifth term; percent of vote - Ismail Omar GUELLEH (RPP) 97.4%, Zakaria Ismael FARAH (MDEND) 2.7%<br><br><em>2016</em>: Ismail Omar GUELLEH reelected president for a fourth term; percent of vote - Ismail Omar GUELLEH (RPP) 87%, Omar Elmi KHAIREH (CDU) 7.3%, other 5.6%<br>
+_election results_: <em><br>2021:</em> Ismail Omar GUELLEH reelected president for a fifth term; percent of vote - Ismail Omar GUELLEH (RPP) 97.4%, Zakaria Ismael FARAH (MDEND) 2.7%<br><br><em>2016:</em> Ismail Omar GUELLEH reelected president for a fourth term; percent of vote - Ismail Omar GUELLEH (RPP) 87%, Omar Elmi KHAIREH (CDU) 7.3%, other 5.6%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembl&eacute;e Nationale, formerly the Chamber of Deputies (65 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)<br>
@@ -382,31 +382,31 @@ _lyrics/music_: Aden ELMI/Abdi ROBLEH<br>
 food import-dependent Horn of Africa economy driven by various national military bases and port-based trade; fairly resilient from COVID-19 disruptions; major re-exporter; increasing Ethiopian and Chinese trade relations; investing in infrastructure<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.592 billion (2022 est.)<br>
-$5.423 billion (2021 est.)<br>
-$5.188 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$7.38 billion (2023 est.)<br>
+$6.918 billion (2022 est.)<br>
+$6.669 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.12% (2022 est.)<br>
+6.68% (2023 est.)<br>
+3.73% (2022 est.)<br>
 4.52% (2021 est.)<br>
-1.32% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$5,000 (2022 est.)<br>
-$4,900 (2021 est.)<br>
-$4,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$6,500 (2023 est.)<br>
+$6,200 (2022 est.)<br>
+$6,000 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.515 billion (2022 est.)<br>
+$4.099 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+1.5% (2023 est.)<br>
 5.18% (2022 est.)<br>
 1.18% (2021 est.)<br>
-1.78% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -430,17 +430,17 @@ vegetables, beans, milk, beef, camel milk, lemons/limes, goat meat, lamb/mutton,
 construction, agricultural processing, shipping<br>
 
 **Industrial production growth rate**<br>
--0.42% (2022 est.)<br>
+10% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-250,000 (2022 est.)<br>
+256,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-26.67% (2022 est.)<br>
-27.96% (2021 est.)<br>
-27.85% (2020 est.)<br>
+26.26% (2023 est.)<br>
+26.37% (2022 est.)<br>
+27.55% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -457,14 +457,14 @@ _female_: 82.2%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.9%<br>
+_lowest 10%_: 1.9% (2017 est.)<br>
 _highest 10%_: 32.3% (2017 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.56% of GDP (2022 est.)<br>
+1.41% of GDP (2023 est.)<br>
+1.54% of GDP (2022 est.)<br>
 2.35% of GDP (2021 est.)<br>
-2.01% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -516,9 +516,9 @@ refined petroleum, palm oil, fertilizers, cars, raw sugar (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$502.034 million (2023 est.)<br>
 $589.437 million (2022 est.)<br>
 $588.418 million (2021 est.)<br>
-$686.339 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -527,11 +527,11 @@ $1.519 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Djiboutian francs (DJF) per US dollar -<br>
+177.721 (2023 est.)<br>
 177.721 (2022 est.)<br>
 177.721 (2021 est.)<br>
 177.721 (2020 est.)<br>
 177.721 (2019 est.)<br>
-177.721 (2018 est.)<br>
 
 ## Energy
 
@@ -660,7 +660,7 @@ Djibouti's military forces are largely focused on border, coastal, and internal 
 
 **Terrorist group(s)**<br>
 al-Shabaab<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

@@ -19,7 +19,7 @@ Southern Asia, bordering the Arabian Sea and the Bay of Bengal, between Burma an
 Asia<br>
 
 **Area**<br>
-_total_: 3,287,263 sq km<br>
+_total _: 3,287,263 sq km<br>
 _land_: 2,973,193 sq km<br>
 _water_: 314,070 sq km<br>
 
@@ -419,31 +419,31 @@ _selected World Heritage Site locales_: Taj Mahal (c); Red Fort Complex (c); Ell
 largest South Asian economy; key US trading partner; many informal domestic economies; promoting self-reliance and increasing market access barriers; credit access weaknesses contributing to lower private consumption and inflation; ongoing social and infrastructure equity efforts<br>
 
 **Real GDP (purchasing power parity)**<br>
-$10.079 trillion (2022 est.)<br>
-$9.399 trillion (2021 est.)<br>
-$8.619 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$13.104 trillion (2023 est.)<br>
+$12.18 trillion (2022 est.)<br>
+$11.384 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-7.24% (2022 est.)<br>
-9.05% (2021 est.)<br>
--5.83% (2020 est.)<br>
+7.58% (2023 est.)<br>
+6.99% (2022 est.)<br>
+9.69% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$7,100 (2022 est.)<br>
-$6,700 (2021 est.)<br>
-$6,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$9,200 (2023 est.)<br>
+$8,600 (2022 est.)<br>
+$8,100 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.417 trillion (2022 est.)<br>
+$3.55 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.65% (2023 est.)<br>
 6.7% (2022 est.)<br>
 5.13% (2021 est.)<br>
-6.62% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -473,17 +473,17 @@ sugarcane, rice, milk, wheat, bison milk, potatoes, vegetables, bananas, maize, 
 textiles, chemicals, food processing, steel, transportation equipment, cement, mining, petroleum, machinery, software, pharmaceuticals<br>
 
 **Industrial production growth rate**<br>
-4.38% (2022 est.)<br>
+9.02% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-554.145 million (2022 est.)<br>
+593.729 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+4.17% (2023 est.)<br>
 4.82% (2022 est.)<br>
 6.38% (2021 est.)<br>
-7.86% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -495,7 +495,7 @@ _female_: 26.7%<br>
 21.9% (2011 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-34.2 (2021 est.)<br>
+32.8 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -503,14 +503,14 @@ _on food_: 32.1% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 2.2% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.5%<br>
-_highest 10%_: 27.8% (2021 est.)<br>
+_lowest 10%_: 3.3% (2021 est.)<br>
+_highest 10%_: 25.6% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.26% of GDP (2022 est.)<br>
-2.84% of GDP (2021 est.)<br>
-3.11% of GDP (2020 est.)<br>
+3.52% of GDP (2023 est.)<br>
+3.32% of GDP (2022 est.)<br>
+2.82% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -531,15 +531,15 @@ _expenditures_: $818.94 billion (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$32.336 billion (2023 est.)<br>
 -$79.051 billion (2022 est.)<br>
 -$33.422 billion (2021 est.)<br>
-$32.73 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$773.224 billion (2023 est.)<br>
 $767.643 billion (2022 est.)<br>
 $643.08 billion (2021 est.)<br>
-$484.691 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -551,9 +551,9 @@ refined petroleum, diamonds, packaged medicine, garments, jewelry (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$859.485 billion (2023 est.)<br>
 $902.304 billion (2022 est.)<br>
 $717.119 billion (2021 est.)<br>
-$493.033 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -565,9 +565,9 @@ crude petroleum, coal, gold, natural gas, diamonds (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$627.793 billion (2023 est.)<br>
 $567.298 billion (2022 est.)<br>
 $638.485 billion (2021 est.)<br>
-$590.227 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -576,11 +576,11 @@ $518.34 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Indian rupees (INR) per US dollar -<br>
+82.599 (2023 est.)<br>
 78.604 (2022 est.)<br>
 73.918 (2021 est.)<br>
 74.1 (2020 est.)<br>
 70.42 (2019 est.)<br>
-68.389 (2018 est.)<br>
 
 ## Energy
 
@@ -720,7 +720,7 @@ Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Defense Security Corps<
 <strong>note 1:</strong> the Defense Security Corps provides security for Ministry of Defense sites<br><br><strong>note 2: </strong>the Border Security Force (BSF) is responsible for the Indo-Pakistan and Indo-Bangladesh borders; the Sashastra Seema Bal (SSB or Armed Border Force) guards the Indo-Nepal and Indo-Bhutan borders<br><br><strong>note 3:</strong> the Central Reserve Police Force (CRPF) includes a Rapid Reaction Force (RAF) for riot control and the Commando Battalion for Resolute Action (COBRA) for counter-insurgency operations <br><br><strong>note 4:</strong> the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (specifically the Indian Army)<br><br><strong>note 5:</strong> the Territorial Army (TA) is a military reserve force composed of part-time volunteers who provide support services to the Indian Army; it is a part of the Regular Army with the role of relieving Regular Army units from static duties and assisting civil authorities with natural calamities and maintaining essential services in emergencies, as well as providing units for the Regular Army as required<br>
 
 **Military expenditures**<br>
-2% of GDP (2023 est.)<br>
+2.3% of GDP (2023 est.)<br>
 2.1% of GDP (2022 est.)<br>
 2.2% of GDP (2021 est.)<br>
 2.5% of GDP (2020 est.)<br>
@@ -753,13 +753,13 @@ Satish Dhawan Space Center (aka Sriharikota Range; located in Andhra Pradesh); V
 
 **Space program overview**<br>
 has one of the world’s largest space programs; designs, builds, launches, operates, and tracks the full spectrum of satellites, including communications, navigation, remote sensing (RS), and scientific/technology; designs, builds, and launches rockets, space/satellite launch vehicles (SLVs), and lunar/interplanetary probes; launches satellites for foreign partners; developing human space flight capabilities (with assistance from Russia, US); researching and developing additional space-related technologies and capabilities; has space-related agreements with more than 50 countries, including China, France, Germany, Japan, Russia, and the US, as well as the European Space Agency; participates in international space projects such as the Square Kilometer Array (SKA) radio telescope; has a government-owned company under the administrative control of DOS; NewSpace India Limited (NSIL) is the commercial arm of the ISRO with the responsibility of researching and developing space-related technologies and promoting India’s growing space industry (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Hizbul Mujahideen; Indian Mujahedeen; Islamic State of Iraq and ash-Sham – India; Jaish-e-Mohammed;<strong> </strong>Lashkar-e Tayyiba; al-Qa’ida; al-Qa’ida in the Indian Subcontinent; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

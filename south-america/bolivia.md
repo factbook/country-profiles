@@ -19,7 +19,7 @@ Central South America, southwest of Brazil<br>
 South America<br>
 
 **Area**<br>
-_total_: 1,098,581 sq km<br>
+_total _: 1,098,581 sq km<br>
 _land_: 1,083,301 sq km<br>
 _water_: 15,280 sq km<br>
 
@@ -409,31 +409,31 @@ _selected World Heritage Site locales_: City of Potosi (c); El Fuerte de Samaipa
 resource-rich economy benefits during commodity booms; has bestowed juridical rights to Mother Earth, impacting extraction industries; increasing Chinese lithium mining trade relations; hard hit by COVID-19; increased fiscal spending amid poverty increases; rampant banking and finance corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
-$100.778 billion (2022 est.)<br>
-$97.271 billion (2021 est.)<br>
-$91.669 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$119.785 billion (2023 est.)<br>
+$116.927 billion (2022 est.)<br>
+$112.858 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.44% (2023 est.)<br>
 3.61% (2022 est.)<br>
 6.11% (2021 est.)<br>
--8.74% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$8,200 (2022 est.)<br>
-$8,100 (2021 est.)<br>
-$7,700 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$9,700 (2023 est.)<br>
+$9,600 (2022 est.)<br>
+$9,300 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$44.008 billion (2022 est.)<br>
+$45.85 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.58% (2023 est.)<br>
 1.75% (2022 est.)<br>
 0.74% (2021 est.)<br>
-0.94% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -463,17 +463,17 @@ sugarcane, soybeans, potatoes, maize, rice, sorghum, milk, chicken, plantains, w
 mining, smelting, electricity, petroleum, food and beverages, handicrafts, clothing, jewelry<br>
 
 **Industrial production growth rate**<br>
-1.03% (2022 est.)<br>
+1% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.912 million (2022 est.)<br>
+6.114 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+3.08% (2023 est.)<br>
 3.55% (2022 est.)<br>
 5.09% (2021 est.)<br>
-7.9% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -482,7 +482,7 @@ _male_: 16.8%<br>
 _female_: 18.4%<br>
 
 **Population below poverty line**<br>
-36.4% (2021 est.)<br>
+39% (2020 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -494,14 +494,14 @@ _on food_: 29.2% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 2.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.8%<br>
+_lowest 10%_: 1.8% (2021 est.)<br>
 _highest 10%_: 30.3% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.31% of GDP (2022 est.)<br>
+3.21% of GDP (2023 est.)<br>
+3.32% of GDP (2022 est.)<br>
 3.51% of GDP (2021 est.)<br>
-3.08% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -520,15 +520,15 @@ _expenditures_: $14.75 billion (2019 est.)<br>
 39.9% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$183.602 million (2022 est.)<br>
-$871.196 million (2021 est.)<br>
--$26.05 million (2020 est.)<br>
+-$1.247 billion (2023 est.)<br>
+$939.089 million (2022 est.)<br>
+$1.582 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$14.467 billion (2022 est.)<br>
-$11.424 billion (2021 est.)<br>
-$7.443 billion (2020 est.)<br>
+$11.975 billion (2023 est.)<br>
+$14.465 billion (2022 est.)<br>
+$11.596 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -540,9 +540,9 @@ natural gas, gold, zinc ore, soybean meal, soybean oil (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$14.577 billion (2022 est.)<br>
-$10.726 billion (2021 est.)<br>
-$8.078 billion (2020 est.)<br>
+$13.13 billion (2023 est.)<br>
+$13.462 billion (2022 est.)<br>
+$10.187 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -554,9 +554,9 @@ refined petroleum, cars, pesticides, plastic products, trucks (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.8 billion (2023 est.)<br>
 $3.752 billion (2022 est.)<br>
 $4.73 billion (2021 est.)<br>
-$5.247 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -565,11 +565,11 @@ $7.268 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: bolivianos (BOB) per US dollar -<br>
+6.91 (2023 est.)<br>
 6.91 (2022 est.)<br>
 6.91 (2021 est.)<br>
 6.91 (2020 est.)<br>
 6.91 (2019 est.)<br>
-6.91 (2018 est.)<br>
 
 ## Energy
 
@@ -713,7 +713,7 @@ Bolivian Space Agency (la Agencia Boliviana Espacial, ABE; established 2010 as a
 
 **Space program overview**<br>
 has a small space program focused on acquiring and operating satellites; operates a telecommunications satellite and two ground stations; has cooperated with China and India and member states of the Latin American and Caribbean Space Agency (ALCE) (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

@@ -19,7 +19,7 @@ Europe between the North Atlantic Ocean in the west and Russia, Belarus, and Ukr
 Europe<br>
 
 **Area**<br>
-_total_: 4,236,351 sq km<br>
+_total _: 4,236,351 sq km<br>
 <strong>rank by area (sq km):<br></strong>1. France (includes five overseas regions) 643,801 <br>2. Spain 505,370 <br>3. Sweden 450,295 <br>4. Germany 357,022 <br>5. Finland 338,145 <br>6. Poland 312,685 <br>7. Italy 301,340<br>8. Romania 238,391 <br>9. Greece 131,957 <br>10. Bulgaria 110,879 <br>11. Hungary 93,028 <br>12. Portugal 92,090 <br>13. Austria 83,871 <br>14. Czechia 78,867 <br>15. Ireland 70,273 <br>16. Lithuania 65,300 <br>17. Latvia 64,589 <br>18. Croatia 56,594 <br>19. Slovakia 49,035 <br>20. Estonia 45,228 <br>21. Denmark 43,094 <br>22. Netherlands 41,543 <br>23. Belgium 30,528 <br>24. Slovenia 20,273 <br>25. Cyprus 9,251 <br>26. Luxembourg 2,586 <br>27. Malta 316<br>
 
 **Area - comparative**<br>
@@ -260,31 +260,31 @@ _lyrics/music_: no lyrics/Ludwig VAN BEETHOVEN, arranged by Herbert VON KARAJAN<
 ## Economy
 
 **Real GDP (purchasing power parity)**<br>
-$20.569 trillion (2022 est.)<br>
-$19.86 trillion (2021 est.)<br>
-$18.724 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$24.177 trillion (2023 est.)<br>
+$24.05 trillion (2022 est.)<br>
+$23.216 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.44% (2022 est.)<br>
-6.02% (2021 est.)<br>
--5.65% (2020 est.)<br>
+0.45% (2023 est.)<br>
+3.48% (2022 est.)<br>
+6.01% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$46,000 (2022 est.)<br>
-$44,400 (2021 est.)<br>
-$41,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$53,800 (2023 est.)<br>
+$53,800 (2022 est.)<br>
+$51,900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$16.746 trillion (2022 est.)<br>
+$18.349 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.3% (2023 est.)<br>
 8.83% (2022 est.)<br>
 2.55% (2021 est.)<br>
-0.48% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -314,17 +314,17 @@ milk, wheat, sugar beets, maize, barley, potatoes, grapes, pork, rapeseed, tomat
 among the world's largest and most technologically advanced regions, the EU industrial base includes: ferrous and non-ferrous metal production and processing, metal products, petroleum, coal, cement, chemicals, pharmaceuticals, aerospace, rail transportation equipment, passenger and commercial vehicles, construction equipment, industrial equipment, shipbuilding, electrical power equipment, machine tools and automated manufacturing systems, electronics and telecommunications equipment, fishing, food and beverages, furniture, paper, textiles<br>
 
 **Industrial production growth rate**<br>
-1.97% (2022 est.)<br>
+-1.01% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-219.322 million (2022 est.)<br>
+221.858 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+6.02% (2023 est.)<br>
 6.15% (2022 est.)<br>
 7.02% (2021 est.)<br>
-7.04% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -344,9 +344,9 @@ _lowest 10%_: 2.8%<br>
 _highest 10%_: 23.8% (2016 est.)<br>
 
 **Remittances**<br>
-0.85% of GDP (2022 est.)<br>
-0.78% of GDP (2021 est.)<br>
-0.8% of GDP (2020 est.)<br>
+0.77% of GDP (2023 est.)<br>
+0.79% of GDP (2022 est.)<br>
+0.77% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget surplus (+) or deficit (-)**<br>
@@ -357,7 +357,7 @@ _highest 10%_: 23.8% (2016 est.)<br>
 85.5% of GDP (2013)<br>
 
 **Taxes and other revenues**<br>
-19.8% (of GDP) (2021 est.)<br>
+19.94% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -365,9 +365,9 @@ $404.9 billion (2017 est.)<br>
 $359.7 billion (2016 est.)<br>
 
 **Exports**<br>
-$9.446 trillion (2022 est.)<br>
-$8.777 trillion (2021 est.)<br>
-$7.182 trillion (2020 est.)<br>
+$9.712 trillion (2023 est.)<br>
+$9.478 trillion (2022 est.)<br>
+$8.789 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -379,9 +379,9 @@ cars, packaged medicine, refined petroleum, vaccines, vehicle parts/accessories 
 <strong>note:</strong> top five export commodities based on value in dollars; includes both exports to external partners and internal trade among EU member states<br>
 
 **Imports**<br>
-$9.114 trillion (2022 est.)<br>
-$8.088 trillion (2021 est.)<br>
-$6.599 trillion (2020 est.)<br>
+$9.004 trillion (2023 est.)<br>
+$9.143 trillion (2022 est.)<br>
+$8.103 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -403,11 +403,11 @@ $28.68 trillion (31 December 2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 
 ## Energy
 
@@ -469,12 +469,12 @@ the EU's Common Security and Defense Policy (CSDP) provides the civilian, milita
 <strong>note 1: </strong>Frontex is the European Border and Coast Guard Agency that supports EU Member States and Schengen-associated countries in the management of the EU’s external borders and the fight against cross-border crime; it has a standing corps of uniformed border guard officers directly employed by Frontex as staff members and regularly deployed to border guarding missions, plus thousands of other officers seconded by EU member states <br><br><strong>note 2:</strong> in 2017, the EU set up the Permanent Structured Cooperation on Defense (PESCO), a mechanism for deepening defense cooperation amongst member states through binding commitments and collaborative programs on a variety of military-related capabilities such as cyber, maritime surveillance, medical support, operational readiness, procurement, and training; similar efforts to promote collaboration and cooperation that same year amongst members included the Military Planning and Conduct Capability (MPCC), the Coordinated Annual Review on Defense (CARD), and the European Defense Fund (EDF)<br>
 
 **Military expenditures**<br>
+1.8% of GDP (2023 est.)<br>
 1.6% of GDP (2022 est.)<br>
-1.6% of GDP (2021)<br>
-1.6% of GDP (2020)<br>
-1.4% of GDP (2019)<br>
-1.4% of GDP (2018)<br>
-<strong>note 1:</strong> the European Defense Fund (EDF) has a budget of approximately $8 billion for 2021-2027; about $2.7 billion is devoted to funding collaborative defense research while about $5.3 billion is allocated for collaborative capability development projects that complement national contributions; the EDF identifies critical defense domains that it will support <br><br><strong>note 2:</strong> NATO is resourced through the direct and indirect contributions of its members; NATO’s common funds are direct contributions to collective budgets, capabilities and programs, which equate to only 0.3% of total NATO defense spending (approximately $3.3 billion for 2023) to develop capabilities and run NATO, its military commands, capabilities, and infrastructure; NATO's 2014 Defense Investment Pledge called for NATO members to meet the 2% of GDP guideline for defense spending and the 20% of annual defense expenditure on major new equipment by 2024; since Russia’s full-scale invasion of Ukraine in February 2022, a majority of the NATO countries have committed to investing more in defense and at a more rapid pace<br>
+1.6% of GDP (2021 est.)<br>
+1.6% of GDP (2020 est.)<br>
+1.4% of GDP (2019 est.)<br>
+<strong>note 1:</strong> the European Defense Fund (EDF) has a budget of approximately $8 billion for 2021-2027; about $2.7 billion is devoted to funding collaborative defense research while about $5.3 billion is allocated for collaborative capability development projects that complement national contributions; the EDF identifies critical defense domains that it will support <br><br><strong>note 2:</strong> NATO is resourced through the direct and indirect contributions of its members; NATO’s common funds are direct contributions to collective budgets, capabilities and programs, which equate to only 0.3% of total NATO defense spending (approximately $3.3 billion for 2023) to develop capabilities and run NATO, its military commands, capabilities, and infrastructure; NATO's 2014 Defense Investment Pledge called for NATO members to meet the 2% of GDP guideline for defense spending and the 20% of annual defense expenditure on major new equipment by 2024<br><br><strong>note 3:</strong>  average spending for all NATO countries in 2023 was 2.5% of GDP in 2023 and 2.7% of GDP in 2024<br>
 
 **Military and security service personnel strengths**<br>
 the 27 EU countries have a cumulative total of approximately 1.34 million active-duty troops; the largest EU country military forces belong to France, Germany, and Italy (2023)<br>
@@ -497,7 +497,7 @@ ESA&rsquo;s spaceport is located in Kourou, French Guiana; Europe also has or is
 
 **Space program overview**<br>
 the EUSPA’s mission is to provide a link between European users and space technologies and capabilities, including remote sensing (RS), satellite navigation, and telecommunications; it is responsible for the operational management of the European Geostationary Navigation Overlay Service (EGNOS) and Galileo satellite navigation programs; the EU has a space strategy, which includes encouraging investment in and the use of space services and data, fostering competition and innovation, developing space technologies, and reinforcing Europe’s autonomy in accessing space<br><br>the ESA is a comprehensive space agency and active across all areas of the space sector outside of launching humans into space, including producing and operating satellites with a full spectrum of capabilities (communications, multipurpose, navigational, RS, science/technology), satellite launch vehicles (SLVs), space launches, human space flight (has an astronaut training program), space transportation/automated transfer vehicles, re-usable spacecraft, space station modules, spacecraft components, robotic space labs, lunar/planetary surface rovers, interplanetary space probes and exploration, space telescopes, research, science, technology development, etc.; ESA also participates in international space programs such as the International Space Station and works closely with Europe’s commercial space industry; it also cooperates with a broad range of space agencies and industries of non-member countries, including China, Japan, Russia, and the US; many of its programs are conducted jointly, particularly with the US space program<br><br>Europe has a large and advanced commercial space sector capable of developing and producing a full range of capabilities and technologies; a key focus for both the ESA and EUSPA is encouraging the European commercial space sector; Europe is a global leader in satellite-based communications and hosts the headquarters of three of the world’s major satellite communications companies (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 

@@ -19,7 +19,7 @@ Southeastern Europe, bordering the Adriatic Sea and Croatia<br>
 Europe<br>
 
 **Area**<br>
-_total_: 51,197 sq km<br>
+_total _: 51,197 sq km<br>
 _land_: 51,187 sq km<br>
 _water_: 10 sq km<br>
 
@@ -386,25 +386,25 @@ _selected World Heritage Site locales_: Old Bridge Area of Mostar (c); Mehmed Pa
 import-dominated economy; remains consumption-heavy; lack of private sector investments and diversification; jointly addressing structural economic challenges; Chinese energy infrastructure investments; high unemployment; tourism industry impacted by COVID-19<br>
 
 **Real GDP (purchasing power parity)**<br>
-$54.12 billion (2022 est.)<br>
-$51.986 billion (2021 est.)<br>
-$48.407 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$63.769 billion (2023 est.)<br>
+$62.717 billion (2022 est.)<br>
+$60.174 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.11% (2022 est.)<br>
+1.68% (2023 est.)<br>
+4.23% (2022 est.)<br>
 7.39% (2021 est.)<br>
--3.02% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$16,700 (2022 est.)<br>
-$15,900 (2021 est.)<br>
-$14,600 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$19,900 (2023 est.)<br>
+$19,400 (2022 est.)<br>
+$18,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$24.474 billion (2022 est.)<br>
+$27.055 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -438,17 +438,17 @@ maize, milk, vegetables, potatoes, plums, wheat, apples, barley, chicken, pears 
 steel, coal, iron ore, lead, zinc, manganese, bauxite, aluminum, motor vehicle assembly, textiles, tobacco products, wooden furniture, ammunition, domestic appliances, oil refining<br>
 
 **Industrial production growth rate**<br>
-1.77% (2022 est.)<br>
+-2.8% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.382 million (2022 est.)<br>
+1.369 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+10.42% (2023 est.)<br>
 12.66% (2022 est.)<br>
 14.9% (2021 est.)<br>
-15.87% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -472,9 +472,9 @@ _lowest 10%_: 2.9%<br>
 _highest 10%_: 25.8% (2011 est.)<br>
 
 **Remittances**<br>
-10.08% of GDP (2022 est.)<br>
-10.04% of GDP (2021 est.)<br>
-9.45% of GDP (2020 est.)<br>
+10.53% of GDP (2023 est.)<br>
+10.52% of GDP (2022 est.)<br>
+10.47% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -485,25 +485,25 @@ _expenditures_: $8.154 billion (2019 est.)<br>
 2.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-41.85% of GDP (2022 est.)<br>
-47.02% of GDP (2021 est.)<br>
+41.74% of GDP (2022 est.)<br>
+46.97% of GDP (2021 est.)<br>
 45.42% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-19.14% (of GDP) (2022 est.)<br>
+19.09% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$760.467 million (2023 est.)<br>
 -$1.065 billion (2022 est.)<br>
 -$418.984 million (2021 est.)<br>
--$574.322 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$11.942 billion (2023 est.)<br>
 $11.794 billion (2022 est.)<br>
 $10.058 billion (2021 est.)<br>
-$7.02 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -515,9 +515,9 @@ aluminum, electricity, footwear, garments, plastic products (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$15.398 billion (2023 est.)<br>
 $15.162 billion (2022 est.)<br>
 $12.738 billion (2021 est.)<br>
-$9.726 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -529,9 +529,9 @@ refined petroleum, aluminum, garments, coal, cars (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$9.205 billion (2023 est.)<br>
 $8.762 billion (2022 est.)<br>
 $9.475 billion (2021 est.)<br>
-$8.707 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -540,11 +540,11 @@ $10.64 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: konvertibilna markas (BAM) per US dollar -<br>
+1.809 (2023 est.)<br>
 1.859 (2022 est.)<br>
 1.654 (2021 est.)<br>
 1.717 (2020 est.)<br>
 1.747 (2019 est.)<br>
-1.657 (2018 est.)<br>
 
 ## Energy
 
@@ -685,7 +685,7 @@ the Armed Forces of Bosnia and Herzegovina (AFBiH) are comprised of the former B
 
 **Terrorist group(s)**<br>
 Islamic Revolutionary Guard Corps/Qods Force<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

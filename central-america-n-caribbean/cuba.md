@@ -19,7 +19,7 @@ Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, 150 km
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 110,860 sq km<br>
+_total _: 110,860 sq km<br>
 _land_: 109,820 sq km<br>
 _water_: 1,040 sq km<br>
 
@@ -410,7 +410,7 @@ $12,100 (2014 est.)<br>
 <strong>note:</strong> data are in 2016 US dollars<br>
 
 **GDP (official exchange rate)**<br>
-$633.442 billion (2022 est.)<br>
+$107.352 billion (2020 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -446,13 +446,13 @@ petroleum, nickel, cobalt, pharmaceuticals, tobacco, construction, steel, cement
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.286 million (2022 est.)<br>
+5.317 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+1.16% (2023 est.)<br>
 1.25% (2022 est.)<br>
-1.39% (2021 est.)<br>
-1.4% (2020 est.)<br>
+1.37% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -496,7 +496,7 @@ tobacco, nickel, zinc ore, liquor, raw sugar (2022)<br>
 $8.067 billion (2020 est.)<br>
 $10.971 billion (2019 est.)<br>
 $12.567 billion (2018 est.)<br>
-<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
+<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Spain 23%, China 12%, US 10%, Brazil 8%, Netherlands 6% (2022)<br>

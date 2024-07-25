@@ -19,7 +19,7 @@ Central Africa, south of Libya<br>
 Africa<br>
 
 **Area**<br>
-_total_: 1.284 million sq km<br>
+_total _: 1.284 million sq km<br>
 _land_: 1,259,200 sq km<br>
 _water_: 24,800 sq km<br>
 
@@ -77,7 +77,7 @@ the population is unevenly distributed due to contrasts in climate and physical 
 hot, dry, dusty harmattan winds occur in north; periodic droughts; locust plagues<br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> Chad is the largest of Africa's 16 landlocked countries</p> <p><strong>note 2:</strong> not long ago - geologically speaking - what is today the Sahara was green savannah teeming with wildlife; during the African Humid Period, roughly 11,000 to 5,000 years ago, a vibrant animal community, including elephants, giraffes, hippos, and antelope lived there; the last remnant of the "Green Sahara" exists in the Lakes of Ounianga (oo-nee-ahn-ga) in northern Chad, a series of 18 interconnected freshwater, saline, and hypersaline lakes now protected as a World Heritage site</p> <p><strong>note 3:</strong> Lake Chad, the most significant water body in the Sahel, is a remnant of a former inland sea, paleolake Mega-Chad; at its greatest extent, sometime before 5000 B.C., Lake Mega-Chad was the largest of four Saharan paleolakes that existed during the African Humid Period; it covered an area of about 400,000 sq km (150,000 sq mi), roughly the size of today's Caspian Sea</p><br>
+<p><strong>note 1:</strong> Chad is the largest of Africa's 16 landlocked countries</p> <p><strong>note 2:</strong> not long ago, geologically speaking, what is today the Sahara was green savannah teeming with wildlife; during the African Humid Period, roughly 11,000 to 5,000 years ago, a vibrant animal community, including elephants, giraffes, hippos, and antelope lived there; the last remnant of the "Green Sahara" exists in the Lakes of Ounianga (oo-nee-ahn-ga) in northern Chad, a series of 18 interconnected freshwater, saline, and hypersaline lakes now protected as a World Heritage site</p> <p><strong>note 3:</strong> Lake Chad, the most significant water body in the Sahel, is a remnant of a former inland sea, paleolake Mega-Chad; at its greatest extent, sometime before 5000 B.C., Lake Mega-Chad was the largest of four Saharan paleolakes that existed during the African Humid Period; it covered an area of about 400,000 sq km (150,000 sq mi), roughly the size of today's Caspian Sea</p><br>
 
 ## People and Society
 
@@ -413,31 +413,31 @@ _selected World Heritage Site locales_: Lakes of Ounianga (n); Ennedi Massif: Na
 primarily oil-based economy, vulnerable to regional competition and international price shocks; increasing extreme poverty and minimal human capital capacities; one of the most environmentally disrupted economies; high maternal and infant mortality rates destabilizing labor force potentials<br>
 
 **Real GDP (purchasing power parity)**<br>
-$25.037 billion (2022 est.)<br>
-$24.49 billion (2021 est.)<br>
-$24.787 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$32.446 billion (2023 est.)<br>
+$31.161 billion (2022 est.)<br>
+$30.311 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.24% (2022 est.)<br>
--1.2% (2021 est.)<br>
--1.6% (2020 est.)<br>
+4.12% (2023 est.)<br>
+2.8% (2022 est.)<br>
+-1.17% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,400 (2022 est.)<br>
-$1,400 (2021 est.)<br>
-$1,500 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1,800 (2023 est.)<br>
+$1,800 (2022 est.)<br>
+$1,800 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$12.704 billion (2022 est.)<br>
+$13.149 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+10.84% (2023 est.)<br>
 5.79% (2022 est.)<br>
 -0.77% (2021 est.)<br>
-4.46% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -461,17 +461,17 @@ sorghum, groundnuts, millet, cereals, beef, sugarcane, yams, maize, cassava, mil
 oil, cotton textiles, brewing, natron (sodium carbonate), soap, cigarettes, construction materials<br>
 
 **Industrial production growth rate**<br>
-4.08% (2022 est.)<br>
+3.27% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.602 million (2022 est.)<br>
+5.806 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+1.08% (2023 est.)<br>
 1.1% (2022 est.)<br>
-1.59% (2021 est.)<br>
-1.68% (2020 est.)<br>
+1.51% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -484,18 +484,18 @@ _female_: 1.4%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-37.5 (2018 est.)<br>
+37.4 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9%<br>
-_highest 10%_: 29.7% (2018 est.)<br>
+_lowest 10%_: 2.8% (2022 est.)<br>
+_highest 10%_: 29.6% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0% of GDP (2020 est.)<br>
-0% of GDP (2019 est.)<br>
-0% of GDP (2018 est.)<br>
+0% of GDP (2023 est.)<br>
+0% of GDP (2022 est.)<br>
+0% of GDP (2021 est.)<br>
 
 **Budget**<br>
 _revenues_: $2.29 billion (2020 est.)<br>
@@ -533,7 +533,7 @@ crude petroleum, gold, oil seeds, gum resins, cotton (2022)<br>
 $5.028 billion (2022 est.)<br>
 $5.211 billion (2021 est.)<br>
 $4.502 billion (2020 est.)<br>
-<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
+<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 25%, UAE 20%, France 7%, US 7%, Belgium 7% (2022)<br>
@@ -555,11 +555,11 @@ $1.281 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
-555.446 (2018 est.)<br>
 
 ## Energy
 
@@ -644,11 +644,11 @@ Chadian National Army (Armee Nationale du Tchad, ANT): Land Forces (l'Armee de T
 <strong>note 1:</strong> the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and is considered to be Chad's elite military unit; it is reportedly a division-sized force with infantry, armor, and special forces/anti-terrorism regiments (known as the Special Anti-Terrorist Group or SATG, aka Division of Special Anti-Terrorist Groups or DGSAT)<br><br><strong>note 2:</strong> the Chadian National Police are under the Ministry of Public Security and Immigration; border security duties are shared by the Army, Customs (Ministry of Public Security and Immigration), the Gendarmerie, and the GNNT<br>
 
 **Military expenditures**<br>
-2.5% of GDP (2022 est.)<br>
+2.9% of GDP (2023 est.)<br>
+2.6% of GDP (2022 est.)<br>
 2.5% of GDP (2021 est.)<br>
 2.9% of GDP (2020 est.)<br>
 2% of GDP (2019 est.)<br>
-2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 limited and varied information; estimated to have up to 40,000 active ANT personnel (approximately 30-35,000 Ground Forces, 5,000 GDSSIE, and a few hundred Air Force); approximately 5,000 National Gendarmerie; approximately 3,000 Nomadic Guard (2023)<br>
@@ -669,7 +669,7 @@ the ANT has considerable combat experience against insurgents and terrorist grou
 
 **Terrorist group(s)**<br>
 Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

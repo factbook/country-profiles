@@ -19,7 +19,7 @@ Western Europe, islands - including the northern one-sixth of the island of Irel
 Europe<br>
 
 **Area**<br>
-_total_: 243,610 sq km<br>
+_total _: 243,610 sq km<br>
 _land_: 241,930 sq km<br>
 _water_: 1,680 sq km<br>
 <strong>note 1:</strong> the percentage area breakdown of the four UK countries is: England 53%, Scotland 32%, Wales 9%, and Northern Ireland 6%<br><br><strong>note 2:</strong> includes Rockall and the Shetland Islands, which are part of Scotland<br>
@@ -394,31 +394,31 @@ _selected World Heritage Site locales_: Giant's Causeway and Causeway Coast (n);
 high-income, diversified, non-EU European economy; global financial center and dominant service sector; sluggish growth from stringent monetary policy, reduced business investment, low productivity and participation rates, and post-Brexit trade frictions; fiscal austerity in face of high public debt&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.187 trillion (2022 est.)<br>
-$3.054 trillion (2021 est.)<br>
-$2.81 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$3.7 trillion (2023 est.)<br>
+$3.696 trillion (2022 est.)<br>
+$3.542 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+0.1% (2023 est.)<br>
 4.35% (2022 est.)<br>
 8.67% (2021 est.)<br>
--10.36% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$47,600 (2022 est.)<br>
-$45,600 (2021 est.)<br>
-$41,900 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$54,100 (2023 est.)<br>
+$54,500 (2022 est.)<br>
+$52,800 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.089 trillion (2022 est.)<br>
+$3.34 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.79% (2023 est.)<br>
 7.92% (2022 est.)<br>
 2.52% (2021 est.)<br>
-0.99% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -448,17 +448,17 @@ milk, wheat, barley, sugar beets, potatoes, chicken, rapeseed, oats, pork, beef 
 machine tools, electric power equipment, automation equipment, railroad equipment, shipbuilding, aircraft, motor vehicles and parts, electronics and communications equipment, metals, chemicals, coal, petroleum, paper and paper products, food processing, textiles, clothing, other consumer goods<br>
 
 **Industrial production growth rate**<br>
--0.95% (2022 est.)<br>
+0.14% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-34.376 million (2022 est.)<br>
+35.275 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+4.06% (2023 est.)<br>
 3.73% (2022 est.)<br>
 4.83% (2021 est.)<br>
-4.47% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -471,7 +471,7 @@ _female_: 11.8%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-32.6 (2020 est.)<br>
+32.4 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -479,14 +479,14 @@ _on food_: 8.7% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3%<br>
-_highest 10%_: 25% (2020 est.)<br>
+_lowest 10%_: 3% (2021 est.)<br>
+_highest 10%_: 25% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.12% of GDP (2023 est.)<br>
 0.13% of GDP (2022 est.)<br>
 0.11% of GDP (2021 est.)<br>
-0.12% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -497,25 +497,25 @@ _expenditures_: $1.362 trillion (2020 est.)<br>
 -1.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-185.35% of GDP (2021 est.)<br>
-195.88% of GDP (2020 est.)<br>
-160.34% of GDP (2019 est.)<br>
+142.28% of GDP (2022 est.)<br>
+186.85% of GDP (2021 est.)<br>
+196.61% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-26.22% (of GDP) (2021 est.)<br>
+27.3% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$101.738 billion (2022 est.)<br>
+-$110.393 billion (2023 est.)<br>
+-$100.436 billion (2022 est.)<br>
 -$14.886 billion (2021 est.)<br>
--$78.217 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$1.024 trillion (2022 est.)<br>
+$1.075 trillion (2023 est.)<br>
+$1.029 trillion (2022 est.)<br>
 $929.185 billion (2021 est.)<br>
-$802.02 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -527,9 +527,9 @@ gold, cars, gas turbines, crude petroleum, packaged medicine (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.112 trillion (2022 est.)<br>
+$1.116 trillion (2023 est.)<br>
+$1.115 trillion (2022 est.)<br>
 $933.904 billion (2021 est.)<br>
-$786.95 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -541,9 +541,9 @@ natural gas, cars, crude petroleum, gold, garments (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$177.915 billion (2023 est.)<br>
 $176.41 billion (2022 est.)<br>
 $194.181 billion (2021 est.)<br>
-$180.054 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -552,11 +552,11 @@ $8.697 trillion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: British pounds (GBP) per US dollar -<br>
+0.805 (2023 est.)<br>
 0.811 (2022 est.)<br>
 0.727 (2021 est.)<br>
 0.78 (2020 est.)<br>
 0.783 (2019 est.)<br>
-0.75 (2018 est.)<br>
 
 ## Energy
 
@@ -733,13 +733,13 @@ Spaceport 1 (Outer Hebrides, Scotland; operational 2023); Spaceport Machrihanish
 
 **Space program overview**<br>
 has a comprehensive space program and is active across all areas of the space sector outside of launching humans into space, including satellite/space launch vehicles (SLVs)/rockets and their components, space probes, satellites and satellite subcomponents, space sensors, spaceports, and various other space-related technologies; as a founding member of the European Space Agency (ESA), it is heavily involved in ESA programs and has bi-lateral relations with many members; is a close partner of the US NASA and since 2016 has forged over 350 relationships with international organizations across nearly 50 developing countries; has a large commercial space sector that produces SLVs, SLV components, satellites, satellite subcomponents and sensors, and other space-related technologies; the UK has a space industrial plan, and the UKSA has provided funding to encourage and support commercial space projects (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New Irish Republican Army; al-Qa'ida<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

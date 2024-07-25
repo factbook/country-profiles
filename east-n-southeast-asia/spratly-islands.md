@@ -5,7 +5,7 @@ _East & Southeast Asia / Miscellaneous_
 ## Introduction
 
 **Background**<br>
-The Spratly Islands consist of more than 100 small islands or reefs surrounded by rich fishing grounds -- and potentially by gas and oil deposits. China, Taiwan, and Vietnam all claim the islands in their entirety, while portions are claimed by Malaysia and the Philippines. About 45 islands are occupied by relatively small numbers of military forces from China, Malaysia, the Philippines, Taiwan, and Vietnam. Since 1985, Brunei has claimed a continental shelf that overlaps a southern reef but has not made any formal claim to the reef. Brunei claims an exclusive economic zone over this area.<br>
+The Spratly Islands consist of more than 100 small islands or reefs surrounded by rich fishing grounds -- and potentially by gas and oil deposits. China, Taiwan, and Vietnam all claim the islands in their entirety, while portions are claimed by Malaysia and the Philippines. Around 70 disputed islets and reefs in the Spratly Islands are occupied by China, Malaysia, the Philippines, Taiwan, and Vietnam. Since 1985, Brunei has claimed a continental shelf that overlaps a southern reef but has not made any formal claim to the reef. Brunei claims an exclusive economic zone over this area.<br>
 
 ## Geography
 
@@ -19,7 +19,7 @@ Southeastern Asia, group of reefs and islands in the South China Sea, about two-
 Southeast Asia<br>
 
 **Area**<br>
-_total_: 5 sq km less than<br>
+_total _: 5 sq km less than<br>
 _land_: 5 sq km less than<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes 100 or so islets, coral reefs, and sea mounts scattered over an area of nearly 410,000 sq km (158,000 sq mi) of the central South China Sea<br>

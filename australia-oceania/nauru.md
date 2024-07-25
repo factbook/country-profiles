@@ -68,7 +68,7 @@ extensive phosphate mining made approximately 90% of the island unsuitable for f
 periodic droughts<br>
 
 **Geography - note**<br>
-Nauru is the third-smallest country in the world behind the Holy See (Vatican City) and Monaco; it is the smallest country in the Pacific Ocean, the smallest country outside Europe, the world's smallest island country, and the the world's smallest independent republic; situated just 53 km south of the Equator, Nauru is one of the three great phosphate rock islands in the Pacific Ocean - the others are Banaba (Ocean Island) in Kiribati and Makatea in French Polynesia<br>
+Nauru is the third-smallest country in the world behind the Holy See (Vatican City) and Monaco; it is the smallest country in the Pacific Ocean, the smallest country outside Europe, the world's smallest island country, and the world's smallest independent republic; situated just 53 km south of the Equator, Nauru is one of the three great phosphate rock islands in the Pacific Ocean -- the others are Banaba (Ocean Island) in Kiribati and Makatea in French Polynesia<br>
 
 ## People and Society
 

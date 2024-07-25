@@ -19,7 +19,7 @@ Southeastern Europe, bordering the Black Sea, between Romania and Turkey<br>
 Europe<br>
 
 **Area**<br>
-_total_: 110,879 sq km<br>
+_total _: 110,879 sq km<br>
 _land_: 108,489 sq km<br>
 _water_: 2,390 sq km<br>
 
@@ -393,31 +393,31 @@ _selected World Heritage Site locales_: Boyana Church (c); Madara Rider (c); Thr
 upper-middle-income EU economy; currency pegged to the euro with accession pending; joined Schengen area as of March 2024; global events and internal political turmoil triggered export slump and stalled reforms; EU structural funds contributing to investment recovery; skilled labor shortage driven by emigration and aging population<br>
 
 **Real GDP (purchasing power parity)**<br>
-$174.307 billion (2022 est.)<br>
-$167.722 billion (2021 est.)<br>
-$155.786 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$214.061 billion (2023 est.)<br>
+$210.181 billion (2022 est.)<br>
+$202.24 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+1.85% (2023 est.)<br>
 3.93% (2022 est.)<br>
 7.66% (2021 est.)<br>
--3.97% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$27,000 (2022 est.)<br>
-$24,400 (2021 est.)<br>
-$22,500 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$33,300 (2023 est.)<br>
+$32,500 (2022 est.)<br>
+$29,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$90.346 billion (2022 est.)<br>
+$101.584 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+9.44% (2023 est.)<br>
 15.33% (2022 est.)<br>
 3.3% (2021 est.)<br>
-1.67% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -447,17 +447,17 @@ wheat, maize, sunflower seeds, milk, barley, rapeseed, potatoes, grapes, tomatoe
 electricity, gas, water; food, beverages, tobacco; machinery and equipment, automotive parts, base metals, chemical products, coke, refined petroleum, nuclear fuel; outsourcing centers<br>
 
 **Industrial production growth rate**<br>
-11.92% (2022 est.)<br>
+0.91% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.147 million (2022 est.)<br>
+3.103 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+4.3% (2023 est.)<br>
 4.27% (2022 est.)<br>
 5.27% (2021 est.)<br>
-5.12% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -466,11 +466,11 @@ _male_: 14.3%<br>
 _female_: 14%<br>
 
 **Population below poverty line**<br>
-22.9% (2021 est.)<br>
+20.6% (2022 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-40.5 (2020 est.)<br>
+39 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -478,14 +478,14 @@ _on food_: 19.3% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 5.3% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.1%<br>
-_highest 10%_: 32.6% (2020 est.)<br>
+_lowest 10%_: 2% (2021 est.)<br>
+_highest 10%_: 29.9% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+2.44% of GDP (2023 est.)<br>
 2.25% of GDP (2022 est.)<br>
 2.35% of GDP (2021 est.)<br>
-2.93% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -496,25 +496,25 @@ _expenditures_: $26.544 billion (2020 est.)<br>
 1.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-32.82% of GDP (2021 est.)<br>
+30.3% of GDP (2022 est.)<br>
+32.9% of GDP (2021 est.)<br>
 32.26% of GDP (2020 est.)<br>
-26.94% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-20.63% (of GDP) (2021 est.)<br>
+21.8% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$248.13 million (2023 est.)<br>
 -$591.65 million (2022 est.)<br>
 -$1.516 billion (2021 est.)<br>
--$31.23 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$62.118 billion (2023 est.)<br>
 $60.712 billion (2022 est.)<br>
 $51.49 billion (2021 est.)<br>
-$39.541 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -526,9 +526,9 @@ refined petroleum, natural gas, garments, wheat, refined copper (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$58.79 billion (2023 est.)<br>
 $60.252 billion (2022 est.)<br>
 $50.048 billion (2021 est.)<br>
-$38.197 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -540,9 +540,9 @@ crude petroleum, natural gas, copper ore, cars, packaged medicine (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$46.334 billion (2023 est.)<br>
 $40.989 billion (2022 est.)<br>
 $39.188 billion (2021 est.)<br>
-$37.86 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -551,11 +551,11 @@ $41.139 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: leva (BGN) per US dollar -<br>
+1.809 (2023 est.)<br>
 1.86 (2022 est.)<br>
 1.654 (2021 est.)<br>
 1.716 (2020 est.)<br>
 1.747 (2019 est.)<br>
-1.657 (2018 est.)<br>
 
 ## Energy
 
@@ -719,13 +719,13 @@ Space Research and Technology Institute - Bulgarian Academy of Sciences (SRTI-BA
 
 **Space program overview**<br>
 has a long history of involvement in space-related activities going back to the 1960s; develops, produces, and operates satellites, mostly with foreign partners; researches, develops, and produces other space technologies, including those related to astrophysics, remote sensing, data exploitation, optics, and electronics; has specialized in producing scientific instruments for space research; has more than 20 research institutes; Cooperating State of the European Space Agency (ESA) since 2015; cooperates with a variety of foreign space agencies and commercial entities, including those of the ESA and EU (and bi-laterally with their member states), India, Japan, Russia, and the US (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qods Force<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

@@ -19,7 +19,7 @@ Southern Europe, islands in the Mediterranean Sea, south of Sicily (Italy)<br>
 Europe<br>
 
 **Area**<br>
-_total_: 316 sq km<br>
+_total _: 316 sq km<br>
 _land_: 316 sq km<br>
 _water_: 0 sq km<br>
 
@@ -69,7 +69,7 @@ most of the population lives on the eastern half of Malta, the largest of the th
 occasional droughts<br>
 
 **Geography - note**<br>
-the country comprises an archipelago, with only the three largest islands (Malta, Ghawdex or Gozo, and Kemmuna or Comino) inhabited; numerous bays provide good harbors; Malta and Tunisia are discussing oil exploration on the continental shelf between their countries, although no commercially viable reserves have been found as of 2017<br>
+the country is an archipelago, with only the three largest islands (Malta, Ghawdex or Gozo, and Kemmuna or Comino) inhabited; numerous bays provide good harbors<br>
 
 ## People and Society
 
@@ -375,31 +375,31 @@ _selected World Heritage Site locales_: City of Valletta; Ħal Saflieni Hypogeum
 high-income, EU-member European economy; diversified portfolio; euro user; dependent on food and energy imports; strong tourism, trade, and manufacturing sectors; high North African immigration; large welfare system; educated workforce<br>
 
 **Real GDP (purchasing power parity)**<br>
-$25.834 billion (2022 est.)<br>
-$24.163 billion (2021 est.)<br>
-$21.517 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$31.661 billion (2023 est.)<br>
+$29.978 billion (2022 est.)<br>
+$27.738 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-6.92% (2022 est.)<br>
-12.3% (2021 est.)<br>
--8.08% (2020 est.)<br>
+5.61% (2023 est.)<br>
+8.08% (2022 est.)<br>
+12.51% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$48,600 (2022 est.)<br>
-$46,600 (2021 est.)<br>
-$41,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$57,200 (2023 est.)<br>
+$56,400 (2022 est.)<br>
+$53,500 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$18.126 billion (2022 est.)<br>
+$20.957 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.09% (2023 est.)<br>
 6.15% (2022 est.)<br>
 1.5% (2021 est.)<br>
-0.64% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -433,13 +433,13 @@ tourism, electronics, ship building and repair, construction, food and beverages
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-295,000 (2022 est.)<br>
+313,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.92% (2022 est.)<br>
-3.39% (2021 est.)<br>
-4.35% (2020 est.)<br>
+3.13% (2023 est.)<br>
+2.93% (2022 est.)<br>
+3.4% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -456,14 +456,14 @@ _female_: 5.8%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.1%<br>
+_lowest 10%_: 3.1% (2020 est.)<br>
 _highest 10%_: 25.1% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.25% of GDP (2022 est.)<br>
+1.11% of GDP (2023 est.)<br>
+1.23% of GDP (2022 est.)<br>
 1.49% of GDP (2021 est.)<br>
-1.7% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -479,7 +479,7 @@ _expenditures_: $5.586 billion (2019 est.)<br>
 <strong>note:</strong> Malta reports public debt at nominal value outstanding at the end of the year, according to guidelines set out in the Maastricht Treaty for general government gross debt; the data include the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); general government comprises the central, state, and local governments, and social security funds<br>
 
 **Taxes and other revenues**<br>
-23.77% (of GDP) (2021 est.)<br>
+23.37% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -517,9 +517,9 @@ ships, refined petroleum, aircraft, integrated circuits, packaged medicine (2022
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.223 billion (2023 est.)<br>
 $1.199 billion (2022 est.)<br>
 $1.149 billion (2021 est.)<br>
-$930.464 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -528,11 +528,11 @@ $104.467 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 
 ## Energy
 

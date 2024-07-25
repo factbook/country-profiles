@@ -19,7 +19,7 @@ Southwestern Asia, bordering the Black Sea, between Turkey and Russia, with a sl
 Asia<br>
 
 **Area**<br>
-_total_: 69,700 sq km<br>
+_total _: 69,700 sq km<br>
 _land_: 69,700 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> approximately 12,560 sq km, or about 18% of Georgia's area, is Russian occupied; the seized area includes all of Abkhazia and the breakaway region of South Ossetia, which consists of the northern part of Shida Kartli, eastern slivers of the Imereti region and Racha-Lechkhumi and Kvemo Svaneti, and part of western Mtskheta-Mtianeti<br>
@@ -389,31 +389,31 @@ _selected World Heritage Site locales_: Gelati Monastery (c); Historical Monumen
 <p>main economic activities include cultivation of agricultural products, such as grapes, citrus fruits, and hazelnuts; mining of manganese, copper, and gold; producing alcoholic and nonalcoholic beverages</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$63.403 billion (2022 est.)<br>
-$57.434 billion (2021 est.)<br>
-$51.993 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$83.656 billion (2023 est.)<br>
+$77.838 billion (2022 est.)<br>
+$70.151 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-10.39% (2022 est.)<br>
-10.47% (2021 est.)<br>
--6.76% (2020 est.)<br>
+7.47% (2023 est.)<br>
+10.96% (2022 est.)<br>
+10.64% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$17,100 (2022 est.)<br>
-$15,500 (2021 est.)<br>
-$14,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$22,200 (2023 est.)<br>
+$21,000 (2022 est.)<br>
+$18,900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$24.781 billion (2022 est.)<br>
+$30.536 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.49% (2023 est.)<br>
 11.9% (2022 est.)<br>
 9.57% (2021 est.)<br>
-5.2% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -443,17 +443,17 @@ milk, grapes, potatoes, wheat, maize, apples, watermelons, barley, tangerines/ma
 steel, machine tools, electrical appliances, mining (manganese, copper, gold), chemicals, wood products, wine<br>
 
 **Industrial production growth rate**<br>
-15.3% (2022 est.)<br>
+6.15% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.84 million (2022 est.)<br>
+1.853 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.68% (2022 est.)<br>
-11.85% (2021 est.)<br>
-11.73% (2020 est.)<br>
+11.62% (2023 est.)<br>
+11.66% (2022 est.)<br>
+11.79% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -474,14 +474,14 @@ _on food_: 32.3% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.7%<br>
+_lowest 10%_: 2.7% (2021 est.)<br>
 _highest 10%_: 26.2% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-15.55% of GDP (2022 est.)<br>
-14.19% of GDP (2021 est.)<br>
-13.32% of GDP (2020 est.)<br>
+14.74% of GDP (2023 est.)<br>
+15.42% of GDP (2022 est.)<br>
+14.02% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -492,25 +492,25 @@ _expenditures_: $5.059 billion (2019 est.)<br>
 -3.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-43.32% of GDP (2022 est.)<br>
-55.38% of GDP (2021 est.)<br>
-65.88% of GDP (2020 est.)<br>
+42.97% of GDP (2022 est.)<br>
+54.73% of GDP (2021 est.)<br>
+65.19% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-23.09% (of GDP) (2022 est.)<br>
+22.9% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$1.326 billion (2023 est.)<br>
 -$1.12 billion (2022 est.)<br>
 -$1.943 billion (2021 est.)<br>
--$1.984 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$15.161 billion (2023 est.)<br>
 $13.24 billion (2022 est.)<br>
 $8.086 billion (2021 est.)<br>
-$5.927 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -522,9 +522,9 @@ copper ore, cars, fertilizers, iron alloys, wine (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$17.791 billion (2023 est.)<br>
 $15.665 billion (2022 est.)<br>
 $11.151 billion (2021 est.)<br>
-$8.967 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -536,9 +536,9 @@ cars, refined petroleum, natural gas, packaged medicine, copper ore (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$5.002 billion (2023 est.)<br>
 $4.886 billion (2022 est.)<br>
 $4.271 billion (2021 est.)<br>
-$3.913 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -547,11 +547,11 @@ $17.608 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: laris (GEL) per US dollar -<br>
+2.628 (2023 est.)<br>
 2.916 (2022 est.)<br>
 3.222 (2021 est.)<br>
 3.109 (2020 est.)<br>
 2.818 (2019 est.)<br>
-2.534 (2018 est.)<br>
 
 ## Energy
 

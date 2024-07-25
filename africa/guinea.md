@@ -19,7 +19,7 @@ Western Africa, bordering the North Atlantic Ocean, between Guinea-Bissau and Si
 Africa<br>
 
 **Area**<br>
-_total_: 245,857 sq km<br>
+_total _: 245,857 sq km<br>
 _land_: 245,717 sq km<br>
 _water_: 140 sq km<br>
 
@@ -409,31 +409,31 @@ _selected World Heritage Site locales_: Mount Nimba Strict Nature Reserve<br>
 growing but primarily agrarian West African economy; major mining sector; improving fiscal and debt balances prior to COVID-19; economy increasingly vulnerable to climate change; slow infrastructure improvements; gender wealth and human capital gaps<br>
 
 **Real GDP (purchasing power parity)**<br>
-$37.408 billion (2022 est.)<br>
-$35.729 billion (2021 est.)<br>
-$34.388 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$56.655 billion (2023 est.)<br>
+$52.918 billion (2022 est.)<br>
+$50.543 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+7.06% (2023 est.)<br>
 4.7% (2022 est.)<br>
 3.9% (2021 est.)<br>
-4.92% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,700 (2022 est.)<br>
-$2,600 (2021 est.)<br>
-$2,600 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$4,000 (2023 est.)<br>
+$3,800 (2022 est.)<br>
+$3,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$20.999 billion (2022 est.)<br>
+$23.612 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.8% (2023 est.)<br>
 10.49% (2022 est.)<br>
 12.6% (2021 est.)<br>
-10.6% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -457,17 +457,17 @@ cassava, rice, groundnuts, oil palm fruit, maize, fonio, plantains, potatoes, sw
 bauxite, gold, diamonds, iron ore; light manufacturing, agricultural processing<br>
 
 **Industrial production growth rate**<br>
-4.7% (2022 est.)<br>
+11.47% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.268 million (2022 est.)<br>
+4.401 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.53% (2022 est.)<br>
-5.97% (2021 est.)<br>
-6.06% (2020 est.)<br>
+5.3% (2023 est.)<br>
+5.33% (2022 est.)<br>
+5.77% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -484,14 +484,14 @@ _female_: 9.2%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.5%<br>
+_lowest 10%_: 3.5% (2018 est.)<br>
 _highest 10%_: 23.1% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+2.36% of GDP (2023 est.)<br>
 2.51% of GDP (2022 est.)<br>
 2.14% of GDP (2021 est.)<br>
-0.16% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -664,11 +664,11 @@ Guinean (or National) Armed Forces (Forces Armées Guinéennes): Army, Guinean N
 <strong>note:</strong> the National Gendarmerie is overseen by the Ministry of Defense, while the National Police is under the Ministry of Security; the Gendarmerie and National Police share responsibility for internal security, but only the Gendarmerie can arrest police or military officials<br>
 
 **Military expenditures**<br>
+2.2% of GDP (2023 est.)<br>
 1.8% of GDP (2022 est.)<br>
 1.5% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
 1.6% of GDP (2019 est.)<br>
-1.8% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12,000 active personnel, including about 1,500 Gendarmerie (2023)<br>

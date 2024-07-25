@@ -19,7 +19,7 @@ Southeastern Asia, group of small islands and reefs in the South China Sea, abou
 Southeast Asia<br>
 
 **Area**<br>
-_total_: 8 sq km ca.<br>
+_total _: 8 sq km ca.<br>
 _land_: 7.75 sq km ca.<br>
 _water_: 0 sq km<br>
 

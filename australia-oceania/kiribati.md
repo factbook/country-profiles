@@ -19,7 +19,7 @@ Oceania, group of 32 coral atolls and one raised coral island in the Pacific Oce
 Oceania<br>
 
 **Area**<br>
-_total_: 811 sq km<br>
+_total _: 811 sq km<br>
 _land_: 811 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes three island groups - Gilbert Islands, Line Islands, and Phoenix Islands - dispersed over about 3.5 million sq km (1.35 million sq mi)<br>
@@ -69,7 +69,7 @@ consists of three achipelagos spread out over an area roughly the size of India;
 typhoons can occur any time, but usually November to March; occasional tornadoes; low level of some of the islands make them sensitive to changes in sea level<br>
 
 **Geography - note**<br>
-21 of the 33 islands are inhabited; Banaba (Ocean Island) in Kiribati is one of the three great phosphate rock islands in the Pacific Ocean - the others are Makatea in French Polynesia, and Nauru; Kiribati is the only country in the world to fall into all four hemispheres (northern, southern, eastern, and western)<br>
+21 of the 33 islands are inhabited; Banaba (Ocean Island) in Kiribati is one of the three great phosphate rock islands in the Pacific Ocean -- the others are Makatea in French Polynesia, and Nauru; Kiribati is the only country in the world to fall into all four hemispheres (northern, southern, eastern, and western)<br>
 
 ## People and Society
 
@@ -366,25 +366,25 @@ _selected World Heritage Site locales_: Phoenix Islands Protected Area<br>
 lower-middle income, Pacific island economy; environmentally fragile; sizable remittances; key phosphate mining fund; tourism and fishing industries; public sector-dominated economy; recent withdrawal from Pacific Islands Forum; ongoing constitutional crisis<br>
 
 **Real GDP (purchasing power parity)**<br>
-$262.821 million (2022 est.)<br>
-$258.777 million (2021 est.)<br>
-$239.908 million (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$423.828 million (2023 est.)<br>
+$406.41 million (2022 est.)<br>
+$391.315 million (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.56% (2022 est.)<br>
-7.87% (2021 est.)<br>
--1.66% (2020 est.)<br>
+4.29% (2023 est.)<br>
+3.86% (2022 est.)<br>
+8.71% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,000 (2022 est.)<br>
-$2,000 (2021 est.)<br>
-$1,900 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$3,200 (2023 est.)<br>
+$3,100 (2022 est.)<br>
+$3,000 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$223.353 million (2022 est.)<br>
+$279.034 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -423,7 +423,7 @@ _male_: 21.2%<br>
 _female_: 24.6%<br>
 
 **Population below poverty line**<br>
-21.9% (2019 est.)<br>
+21.9% (2020 est.)<br>
 <strong>note:</strong> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -431,14 +431,14 @@ _female_: 24.6%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4%<br>
+_lowest 10%_: 4% (2019 est.)<br>
 _highest 10%_: 22.9% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-6.72% of GDP (2022 est.)<br>
-5.87% of GDP (2021 est.)<br>
-8.4% of GDP (2020 est.)<br>
+5.38% of GDP (2023 est.)<br>
+10.48% of GDP (2022 est.)<br>
+4.62% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -453,7 +453,7 @@ _expenditures_: $205 million (2017 est.)<br>
 22.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-27.38% (of GDP) (2021 est.)<br>
+20.22% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -499,11 +499,11 @@ $32.3 million (2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>
+1.505 (2023 est.)<br>
 1.442 (2022 est.)<br>
 1.331 (2021 est.)<br>
 1.453 (2020 est.)<br>
 1.439 (2019 est.)<br>
-1.338 (2018 est.)<br>
 <strong>note:</strong> the Australian dollar circulates as legal tender<br>
 
 ## Energy

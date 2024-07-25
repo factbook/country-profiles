@@ -19,7 +19,7 @@ Eastern Africa, west of Somalia<br>
 Africa<br>
 
 **Area**<br>
-_total_: 1,104,300 sq km<br>
+_total _: 1,104,300 sq km<br>
 _land_: 1,096,570 sq km<br>
 _water_: 7,730 sq km<br>
 <strong>note:</strong> area numbers are approximate since a large portion of the Ethiopia-Somalia border is undefined<br>
@@ -82,7 +82,7 @@ highest density is found in the highlands of the north and middle areas of the c
 <p>geologically active Great Rift Valley susceptible to earthquakes, volcanic eruptions; frequent droughts</p><p><strong>volcanism:</strong> volcanic activity in the Great Rift Valley; Erta Ale (613 m), which has caused frequent lava flows in recent years, is the country's most active volcano; Dabbahu became active in 2005, forcing evacuations; other historically active volcanoes include Alayta, Dalaffilla, Dallol, Dama Ali, Fentale, Kone, Manda Hararo, and Manda-Inakir</p><br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> landlocked - entire coastline along the Red Sea was lost with the de jure independence of Eritrea on 24 May 1993; Ethiopia is, therefore, the most populous landlocked country in the world; the Blue Nile, the chief headstream of the Nile by water volume, rises in T'ana Hayk (Lake Tana) in northwest Ethiopia<br><br><strong>note 2:</strong> three major crops may have originated in Ethiopia: coffee (almost certainly), grain sorghum, and castor bean<br>
+<strong>note 1:</strong> landlocked -- entire coastline along the Red Sea was lost with the de jure independence of Eritrea on 24 May 1993; Ethiopia is, therefore, the most populous landlocked country in the world; the Blue Nile, the chief headstream of the Nile by water volume, rises in T'ana Hayk (Lake Tana) in northwest Ethiopia<br><br><strong>note 2:</strong> three major crops may have originated in Ethiopia: coffee (almost certainly), grain sorghum, and castor bean<br>
 
 ## People and Society
 
@@ -425,31 +425,31 @@ _selected World Heritage Site locales_: Rock-Hewn Churches, Lalibela (c); Simien
 growing Horn of Africa construction- and services-based economy; port access via Djibouti and Eritrea; widespread but declining poverty; COVID-19, locust invasion, and Tigray crisis disruptions; public investment increases; second largest African labor force<br>
 
 **Real GDP (purchasing power parity)**<br>
-$293.788 billion (2022 est.)<br>
-$278.956 billion (2021 est.)<br>
-$264.059 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$354.604 billion (2023 est.)<br>
+$332.968 billion (2022 est.)<br>
+$316.145 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+6.5% (2023 est.)<br>
 5.32% (2022 est.)<br>
 5.64% (2021 est.)<br>
-6.06% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,400 (2022 est.)<br>
-$2,300 (2021 est.)<br>
-$2,300 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2,800 (2023 est.)<br>
+$2,700 (2022 est.)<br>
+$2,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$126.783 billion (2022 est.)<br>
+$163.698 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+30.22% (2023 est.)<br>
 33.89% (2022 est.)<br>
 26.84% (2021 est.)<br>
-20.36% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -479,17 +479,17 @@ maize, wheat, cereals, sorghum, milk, barley, taro, potatoes, millet, beans (202
 food processing, beverages, textiles, leather, garments, chemicals, metals processing, cement<br>
 
 **Industrial production growth rate**<br>
-4.9% (2022 est.)<br>
+6.93% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-59.752 million (2022 est.)<br>
+61.664 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.42% (2022 est.)<br>
-3.93% (2021 est.)<br>
-3.91% (2020 est.)<br>
+3.5% (2023 est.)<br>
+3.49% (2022 est.)<br>
+3.94% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -510,14 +510,14 @@ _on food_: 41.3% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9%<br>
+_lowest 10%_: 2.9% (2015 est.)<br>
 _highest 10%_: 28.5% (2015 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.36% of GDP (2023 est.)<br>
 0.4% of GDP (2022 est.)<br>
 0.4% of GDP (2021 est.)<br>
-0.38% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -534,19 +534,19 @@ _expenditures_: $13.979 billion (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-6.2% (of GDP) (2020 est.)<br>
+4.51% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$4.788 billion (2023 est.)<br>
 -$5.16 billion (2022 est.)<br>
 -$4.507 billion (2021 est.)<br>
--$2.719 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$10.865 billion (2023 est.)<br>
 $10.971 billion (2022 est.)<br>
 $9.496 billion (2021 est.)<br>
-$7.715 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -558,9 +558,9 @@ coffee, gold, garments, cut flowers, vegetables (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$22.951 billion (2023 est.)<br>
 $24.187 billion (2022 est.)<br>
 $20.859 billion (2021 est.)<br>
-$17.17 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -583,11 +583,11 @@ $26.269 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: birr (ETB) per US dollar -<br>
+54.601 (2023 est.)<br>
 51.756 (2022 est.)<br>
 43.734 (2021 est.)<br>
 34.927 (2020 est.)<br>
 29.07 (2019 est.)<br>
-27.429 (2018 est.)<br>
 
 ## Energy
 
@@ -694,7 +694,7 @@ Ethiopian National Defense Force (ENDF): Ground Forces, Ethiopian Air Force (Ye 
 <strong>note 1: </strong>national and regional police forces are responsible for law enforcement and maintenance of order, with the ENDF sometimes providing internal security support; the Ethiopian Federal Police (EFP) report to the Prime Minister’s Office<br><br><strong>note 2:</strong> the regional governments control regional security forces, including "special" paramilitary forces, which generally operate independently from the federal government and in some cases operate as regional defense forces maintaining national borders; local militias also operate across the country in loose and varying coordination with these regional security and police forces, the ENDF, and the EFP; in April 2023, the federal government ordered the integration of these regional special forces into the EFP or ENDF; in some cases, the regional governments have maintained former members of the special forces for “crowd control/Adma Bitena” as a separate unit within their security structures<br><br><strong>note 3:</strong> in 2020 the Ethiopian Government announced it had re-established a navy, which had been disbanded in 1996; in March 2019, Ethiopia signed a defense cooperation agreement with France which stipulated that France would support the establishment of an Ethiopian navy, which would reportedly be based out of Djibouti; in 2018, Ethiopia established a Republican Guard military unit responsible to the Prime Minister for protecting senior officials<br><br><br><br>
 
 **Military expenditures**<br>
-0.6% of GDP (2023 est.)<br>
+1% of GDP (2023 est.)<br>
 1.7% of GDP (2022 est.)<br>
 0.5% of GDP (2021 est.)<br>
 0.5% of GDP (2020 est.)<br>
@@ -722,13 +722,13 @@ Ethiopian Space Science and Geospatial Institute (ESSGI; formed in 2022 from the
 
 **Space program overview**<br>
 has a small space program with a focus on acquiring and operating satellites, as well as research and astronomy; jointly builds satellites with foreign partners and operates and exploits remote sensing (RS) satellites; developing the ability to manufacture satellites and their associated payloads; involved in astronomy and in the construction of space observatories; cooperates on space-related issues with a variety of countries, including China, France, India, Russia, and multiple African countries, particularly Kenya, Rwanda, Sudan, Tanzania, and Uganda; shares RS data with neighboring countries (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

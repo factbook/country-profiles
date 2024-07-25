@@ -19,7 +19,7 @@ Northern Africa, bordering the Mediterranean Sea, between Morocco and Tunisia<br
 Africa<br>
 
 **Area**<br>
-_total_: 2,381,740 sq km<br>
+_total _: 2,381,740 sq km<br>
 _land_: 2,381,740 sq km<br>
 _water_: 0 sq km<br>
 
@@ -76,7 +76,7 @@ the vast majority of the populace is found in the extreme northern part of the c
 mountainous areas subject to severe earthquakes; mudslides and floods in rainy season; droughts<br>
 
 **Geography - note**<br>
-largest country in Africa but 80% desert; canyons and caves in the southern Hoggar Mountains and in the barren Tassili n'Ajjer area in the southeast of the country contain numerous examples of prehistoric art - rock paintings and carvings depicting human activities and wild and domestic animals (elephants, giraffes, cattle) - that date to the African Humid Period, roughly 11,000 to 5,000 years ago, when the region was completely vegetated<br>
+largest country in Africa but 80% desert; canyons and caves in the southern Hoggar Mountains and in the barren Tassili n'Ajjer area in the southeast of the country contain numerous examples of prehistoric art -- rock paintings and carvings depicting human activities and wild and domestic animals (elephants, giraffes, cattle) -- that date to the African Humid Period, roughly 11,000 to 5,000 years ago, when the region was completely vegetated<br>
 
 ## People and Society
 
@@ -392,31 +392,31 @@ _selected World Heritage Site locales_: Beni Hammad Fort (c); Djémila (c); Casb
 suffering oil and gas economy; lack of sector and market diversification; political instability chilling domestic consumption; poor credit access and declines in business confidence; COVID-19 austerity policies; delayed promised socio-economic reforms<br>
 
 **Real GDP (purchasing power parity)**<br>
-$502.837 billion (2022 est.)<br>
-$487.245 billion (2021 est.)<br>
-$471.223 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$699.947 billion (2023 est.)<br>
+$672.379 billion (2022 est.)<br>
+$649.015 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.2% (2022 est.)<br>
-3.4% (2021 est.)<br>
--5.1% (2020 est.)<br>
+4.1% (2023 est.)<br>
+3.6% (2022 est.)<br>
+3.8% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$11,200 (2022 est.)<br>
-$11,000 (2021 est.)<br>
-$10,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$15,300 (2023 est.)<br>
+$15,000 (2022 est.)<br>
+$14,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$194.998 billion (2022 est.)<br>
+$239.899 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+9.32% (2023 est.)<br>
 9.27% (2022 est.)<br>
 7.23% (2021 est.)<br>
-2.42% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -443,17 +443,17 @@ potatoes, wheat, milk, watermelons, onions, tomatoes, barley, vegetables, dates,
 petroleum, natural gas, light industries, mining, electrical, petrochemical, food processing<br>
 
 **Industrial production growth rate**<br>
-1.32% (2022 est.)<br>
+3.74% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-13.023 million (2022 est.)<br>
+13.425 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-12.49% (2022 est.)<br>
-13.73% (2021 est.)<br>
-14.04% (2020 est.)<br>
+11.81% (2023 est.)<br>
+12.44% (2022 est.)<br>
+13.61% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -476,9 +476,9 @@ _lowest 10%_: 2.8%<br>
 _highest 10%_: 26.8% (1995)<br>
 
 **Remittances**<br>
-0.9% of GDP (2022 est.)<br>
-1.1% of GDP (2021 est.)<br>
-1.17% of GDP (2020 est.)<br>
+0.74% of GDP (2023 est.)<br>
+0.74% of GDP (2022 est.)<br>
+0.96% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -497,15 +497,15 @@ _expenditures_: $64.728 billion (2019 est.)<br>
 32.3% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
-$19.036 billion (2022 est.)<br>
--$4.515 billion (2021 est.)<br>
--$18.187 billion (2020 est.)<br>
+$5.424 billion (2023 est.)<br>
+$19.448 billion (2022 est.)<br>
+-$4.51 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$69.058 billion (2022 est.)<br>
+$58.816 billion (2023 est.)<br>
+$69.242 billion (2022 est.)<br>
 $41.851 billion (2021 est.)<br>
-$24.902 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -517,9 +517,9 @@ natural gas, crude petroleum, refined petroleum, fertilizers, ammonia (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$46.617 billion (2022 est.)<br>
-$44.302 billion (2021 est.)<br>
-$42.347 billion (2020 est.)<br>
+$51.516 billion (2023 est.)<br>
+$46.63 billion (2022 est.)<br>
+$44.297 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -531,9 +531,9 @@ wheat, milk, plastics, corn, iron ore (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$81.217 billion (2023 est.)<br>
 $71.852 billion (2022 est.)<br>
 $56.211 billion (2021 est.)<br>
-$59.434 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -542,11 +542,11 @@ $5.666 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Algerian dinars (DZD) per US dollar -<br>
+135.843 (2023 est.)<br>
 141.995 (2022 est.)<br>
 135.064 (2021 est.)<br>
 126.777 (2020 est.)<br>
 119.354 (2019 est.)<br>
-116.594 (2018 est.)<br>
 
 ## Energy
 
@@ -695,13 +695,13 @@ none; note - in 1947, Algeria began hosting a French military rocket test site, 
 
 **Space program overview**<br>
 has a national space policy and a national space research program with stated goals of supporting internal development, managing resource usage, mastering space technology, and reinforcing national sovereignty; builds and operates communications and remote sensing (RS) satellites; researching and developing a range of space-related capabilities, including satellites and satellite payloads, communications, RS, instrumentation, satellite image processing, and geo-spatial information; has bilateral relationships with a variety of foreign space agencies and industries, including those of Argentina, China, France, Germany, India, Russia, Ukraine, and the UK; also a member of the Arab Space Coordination Group, established by the UAE in 2019 (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 al-Qa'ida in the Islamic Maghreb (AQIM); Islamic State of Iraq and ash-Sham (ISIS) – Algeria; al-Mulathamun Battalion (al-Mourabitoun)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

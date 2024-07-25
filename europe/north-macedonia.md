@@ -19,7 +19,7 @@ Southeastern Europe, north of Greece<br>
 Europe<br>
 
 **Area**<br>
-_total_: 25,713 sq km<br>
+_total _: 25,713 sq km<br>
 _land_: 25,433 sq km<br>
 _water_: 280 sq km<br>
 
@@ -384,31 +384,31 @@ _selected World Heritage Site locales_: Natural and Cultural Heritage of the Ohr
 upper-middle-income European economy; recovering from energy-driven inflation; macroeconomic support from IMF and EU lending facilities; stalled progress on EU accession; fiscal consolidation hampered by deficit spending on public works; structural challenges of emigration, low productivity growth, and governance<br>
 
 **Real GDP (purchasing power parity)**<br>
-$35.245 billion (2022 est.)<br>
-$34.505 billion (2021 est.)<br>
-$32.704 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$42.444 billion (2023 est.)<br>
+$42.012 billion (2022 est.)<br>
+$41.099 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.15% (2022 est.)<br>
-5.51% (2021 est.)<br>
--6.11% (2020 est.)<br>
+1.03% (2023 est.)<br>
+2.22% (2022 est.)<br>
+4.51% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$17,100 (2022 est.)<br>
-$16,700 (2021 est.)<br>
-$15,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$23,400 (2023 est.)<br>
+$22,900 (2022 est.)<br>
+$22,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$13.563 billion (2022 est.)<br>
+$14.761 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+9.36% (2023 est.)<br>
 14.2% (2022 est.)<br>
 3.23% (2021 est.)<br>
-1.2% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -437,17 +437,17 @@ milk, grapes, chilies/peppers, wheat, potatoes, apples, tomatoes, cabbages, maiz
 food processing, beverages, textiles, chemicals, iron, steel, cement, energy, pharmaceuticals, automotive parts<br>
 
 **Industrial production growth rate**<br>
--4.33% (2022 est.)<br>
+-1.07% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-916,000 (2022 est.)<br>
+801,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-14.43% (2022 est.)<br>
-15.78% (2021 est.)<br>
-16.55% (2020 est.)<br>
+13.08% (2023 est.)<br>
+14.48% (2022 est.)<br>
+15.8% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -468,14 +468,14 @@ _on food_: 33.3% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 5.9% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.9%<br>
+_lowest 10%_: 1.9% (2019 est.)<br>
 _highest 10%_: 22.9% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.36% of GDP (2022 est.)<br>
+3.13% of GDP (2023 est.)<br>
+3.33% of GDP (2022 est.)<br>
 3.5% of GDP (2021 est.)<br>
-3.8% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -495,15 +495,15 @@ _expenditures_: $4.5 billion (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$99.23 million (2023 est.)<br>
 -$864.777 million (2022 est.)<br>
 -$374.85 million (2021 est.)<br>
--$360.444 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$10.748 billion (2023 est.)<br>
 $10.126 billion (2022 est.)<br>
 $9.208 billion (2021 est.)<br>
-$7.19 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -515,9 +515,9 @@ reaction and catalytic products, insulated wire, electricity, garments, vehicle 
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$12.745 billion (2023 est.)<br>
 $13.008 billion (2022 est.)<br>
 $11.362 billion (2021 est.)<br>
-$8.773 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -529,9 +529,9 @@ platinum, refined petroleum, electricity, precious metal compounds, natural gas 
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$5.015 billion (2023 est.)<br>
 $4.12 billion (2022 est.)<br>
 $4.129 billion (2021 est.)<br>
-$4.126 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -540,11 +540,11 @@ $9.398 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Macedonian denars (MKD) per US dollar -<br>
+56.947 (2023 est.)<br>
 58.574 (2022 est.)<br>
 52.102 (2021 est.)<br>
 54.144 (2020 est.)<br>
 54.947 (2019 est.)<br>
-52.107 (2018 est.)<br>
 
 ## Energy
 
@@ -667,7 +667,7 @@ the Army of the Republic of North Macedonia (ARSM) is responsible for the defens
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

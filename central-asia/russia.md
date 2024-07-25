@@ -19,7 +19,7 @@ North Asia bordering the Arctic Ocean, extending from Eastern Europe (the portio
 Asia<br>
 
 **Area**<br>
-_total_: 17,098,242 sq km<br>
+_total _: 17,098,242 sq km<br>
 _land_: 16,377,742 sq km<br>
 _water_: 720,500 sq km<br>
 
@@ -51,7 +51,8 @@ _lowest point_: Caspian Sea -28 m<br>
 _mean elevation_: 600 m<br>
 
 **Natural resources**<br>
-wide natural resource base including major deposits of oil, natural gas, coal, and many strategic minerals, bauxite, reserves of rare earth elements, timber; note - formidable obstacles of climate, terrain, and distance hinder exploitation of natural resources<br>
+wide natural-resource base including major deposits of oil, natural gas, coal, and many strategic minerals, bauxite, reserves of rare earth elements, timber<br>
+<strong>note:</strong> formidable obstacles of climate, terrain, and distance hinder exploitation of natural resources<br>
 
 **Land use**<br>
 _agricultural land_: 13.1% (2018 est.)<br>
@@ -84,7 +85,7 @@ population is heavily concentrated in the westernmost fifth of the country exten
 <p>permafrost over much of Siberia is a major impediment to development; volcanic activity in the Kuril Islands; volcanoes and earthquakes on the Kamchatka Peninsula; spring floods and summer/autumn forest fires throughout Siberia and parts of European Russia</p><p><strong>volcanism:</strong> significant volcanic activity on the Kamchatka Peninsula and Kuril Islands; the peninsula alone is home to some 29 historically active volcanoes, with dozens more in the Kuril Islands; Kliuchevskoi (4,835 m), which erupted in 2007 and 2010, is Kamchatka's most active volcano; Avachinsky and Koryaksky volcanoes, which pose a threat to the city of Petropavlovsk-Kamchatsky, have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; other notable historically active volcanoes include Bezymianny, Chikurachki, Ebeko, Gorely, Grozny, Karymsky, Ketoi, Kronotsky, Ksudach, Medvezhia, Mutnovsky, Sarychev Peak, Shiveluch, Tiatia, Tolbachik, and Zheltovsky; see note 2 under "Geography - note"</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> largest country in the world in terms of area but unfavorably located in relation to major sea lanes of the world; despite its size, much of the country lacks proper soils and climates (either too cold or too dry) for agriculture</p> <p><strong>note 2:</strong> Russia's far east, particularly the Kamchatka Peninsula, lies along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> Mount El'brus is Europe's tallest peak; Lake Baikal, the deepest lake in the world, is estimated to hold one fifth of the world's fresh surface water<br><br><strong>note 4:</strong> Kaliningrad oblast is an exclave annexed from Germany following World War II (it was formerly part of East Prussia); its capital city of Kaliningrad - formerly Koenigsberg - is the only Baltic port in Russia that remains ice free in the winter</p><br>
+<p><strong>note 1:</strong> largest country in the world in terms of area but unfavorably located in relation to major sea lanes of the world; despite its size, much of the country lacks proper soils and climates (either too cold or too dry) for agriculture</p> <p><strong>note 2:</strong> Russia's far east, particularly the Kamchatka Peninsula, lies along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> Mount El'brus is Europe's tallest peak; Lake Baikal, the deepest lake in the world, is estimated to hold one fifth of the world's fresh surface water<br><br><strong>note 4:</strong> Kaliningrad oblast is an exclave annexed from Germany following World War II (it was formerly part of East Prussia); its capital city of Kaliningrad -- formerly Koenigsberg -- is the only Baltic port in Russia that remains ice free in the winter</p><br>
 
 ## People and Society
 
@@ -428,25 +429,25 @@ _selected World Heritage Site locales_: Kremlin and Red Square, Moscow (c); Hist
 natural resource-rich Eurasian economy; leading energy exporter to Europe and Asia; decreased oil export reliance; endemic corruption, Ukrainian invasion, and lack of green infrastructure limit investment and have led to sanctions<br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.027 trillion (2022 est.)<br>
-$4.112 trillion (2021 est.)<br>
-$3.894 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$5.816 trillion (2023 est.)<br>
+$5.614 trillion (2022 est.)<br>
+$5.732 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.6% (2023 est.)<br>
 -2.07% (2022 est.)<br>
 5.61% (2021 est.)<br>
--2.65% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$27,500 (2022 est.)<br>
-$28,100 (2021 est.)<br>
-$26,600 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$39,800 (2023 est.)<br>
+$38,300 (2022 est.)<br>
+$38,900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.24 trillion (2022 est.)<br>
+$2.021 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -482,17 +483,17 @@ wheat, sugar beets, milk, barley, potatoes, sunflower seeds, maize, soybeans, ch
 complete range of mining and extractive industries producing coal, oil, gas, chemicals, and metals; all forms of machine building from rolling mills to high-performance aircraft and space vehicles; defense industries (including radar, missile production, advanced electronic components), shipbuilding; road and rail transportation equipment; communications equipment; agricultural machinery, tractors, and construction equipment; electric power generating and transmitting equipment; medical and scientific instruments; consumer durables, textiles, foodstuffs, handicrafts<br>
 
 **Industrial production growth rate**<br>
--0.17% (2022 est.)<br>
+3.56% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-73.799 million (2022 est.)<br>
+72.408 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+3.33% (2023 est.)<br>
 3.87% (2022 est.)<br>
 4.72% (2021 est.)<br>
-5.59% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -501,7 +502,7 @@ _male_: 15.7%<br>
 _female_: 18.4%<br>
 
 **Population below poverty line**<br>
-12.1% (2020 est.)<br>
+11% (2021 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -513,14 +514,14 @@ _on food_: 29% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 7.3% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.1%<br>
+_lowest 10%_: 3.1% (2020 est.)<br>
 _highest 10%_: 29% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.34% of GDP (2023 est.)<br>
 0.15% of GDP (2022 est.)<br>
-0.53% of GDP (2021 est.)<br>
-0.66% of GDP (2020 est.)<br>
+0.52% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -531,25 +532,25 @@ _expenditures_: $571.465 billion (2019 est.)<br>
 -1.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-20.94% of GDP (2021 est.)<br>
+19.51% of GDP (2022 est.)<br>
+20.87% of GDP (2021 est.)<br>
 22.99% of GDP (2020 est.)<br>
-17.28% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-11.65% (of GDP) (2021 est.)<br>
+10.97% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$237.883 billion (2022 est.)<br>
-$122.114 billion (2021 est.)<br>
-$35.373 billion (2020 est.)<br>
+$50.224 billion (2023 est.)<br>
+$237.678 billion (2022 est.)<br>
+$124.953 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$640.688 billion (2022 est.)<br>
-$549.9 billion (2021 est.)<br>
-$381.49 billion (2020 est.)<br>
+$465.432 billion (2023 est.)<br>
+$640.709 billion (2022 est.)<br>
+$549.717 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -561,9 +562,9 @@ crude petroleum, natural gas, refined petroleum, coal, fertilizers (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$347.375 billion (2022 est.)<br>
-$379.946 billion (2021 est.)<br>
-$304.837 billion (2020 est.)<br>
+$378.615 billion (2023 est.)<br>
+$347.384 billion (2022 est.)<br>
+$376.923 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -575,9 +576,9 @@ packaged medicine, broadcasting equipment, cars, garments, plastic products (202
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$597.217 billion (2023 est.)<br>
 $581.71 billion (2022 est.)<br>
 $632.242 billion (2021 est.)<br>
-$596.77 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -586,11 +587,11 @@ $484.355 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Russian rubles (RUB) per US dollar -<br>
+85.162 (2023 est.)<br>
 68.485 (2022 est.)<br>
 73.654 (2021 est.)<br>
 72.105 (2020 est.)<br>
 64.738 (2019 est.)<br>
-62.668 (2018 est.)<br>
 
 ## Energy
 
@@ -734,11 +735,11 @@ Armed Forces of the Russian Federation: Ground Troops (Sukhoputnyye Voyskia, SV)
 <strong>note 1: </strong>the Air Force and Aerospace Defense Forces were merged into the VKS in 2015; VKS responsibilities also include launching military and dual‐use satellites, maintaining military satellites, and monitoring and defending against space threats<br><br><strong>note 2:</strong> the Ministry of Internal Affairs, Federal Security Service, Investigative Committee, Office of the Prosecutor General, and National Guard are responsible for law enforcement; the Federal Security Service is responsible for state security, counterintelligence, and counterterrorism, as well as for fighting organized crime and corruption; the national police force, under the Ministry of Internal Affairs, is responsible for combating all crime<br><br><strong>note 3:</strong> the National Guard was created in 2016 as an independent agency for internal/regime security, combating terrorism and narcotics trafficking, protecting important state facilities and government personnel, and supporting border security; it also participates in armed defense of the country’s territory in coordination with the Armed Forces; forces under the National Guard include the Special Purpose Mobile Units (OMON), Special Rapid Response Detachment (SOBR), and Interior Troops (VV); these troops were originally under the command of the Interior Ministry (MVD); also nominally under the National Guard’s command are the forces of Chechen Republic head Ramzan KADYROV<br>
 
 **Military expenditures**<br>
+5% of GDP (2023 est.)<br>
 4% of GDP (2022 est.)<br>
 4% of GDP (2021 est.)<br>
 4% of GDP (2020 est.)<br>
 3.8% of GDP (2019 est.)<br>
-3.7% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 prior to Russia's full-scale invasion of Ukraine in February 2022, approximately 900,000 active-duty troops (350,000 Ground Troops; 40,000 Airborne Troops; 150,000 Navy; 160,000 Aerospace Forces; 70,000 Strategic Rocket Forces; approximately 20,000 special operations forces; approximately 100,000 other uniformed personnel (command and control, cyber, support, logistics, security, etc.); estimated 350,000-plus Federal National Guard Troops (2023)<br>
@@ -770,13 +771,13 @@ Baikonur Cosmodrome (Kazakhstan); Vostochny Cosmodrome (Amur Oblast); Plesetsk C
 
 **Space program overview**<br>
 has one of the world’s largest space programs and is active across all areas of the space sector; builds, launches, and operates rockets/space launch vehicles (SLVs), satellites, space stations, interplanetary probes, and manned, robotic, and re-usable spacecraft; has astronaut (cosmonaut) training program and conducts human space flight; researching and developing a broad range of other space-related technologies; participates in international space programs such as the International Space Station (ISS); prior to Russia’s 2022 full-scale invasion of Ukraine, Russia had relations with dozens of foreign space agencies and commercial entities, including those of China, the European Space Agency (ESA), India, Japan, and the US; Roscosmos and its public subsidiaries comprise the majority of the Russian space industry; Roscosmos has eight operating areas, including manned space flights, launch systems, unmanned spacecraft, rocket propulsion, military missiles, space avionics, special military space systems, and flight control systems; private companies are also involved in a range of space systems, including satellites, telecommunications, remote-sensing, and geo-spatial services (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

@@ -19,7 +19,7 @@ Caribbean, island in the Caribbean Sea, south of Cuba<br>
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 10,991 sq km<br>
+_total _: 10,991 sq km<br>
 _land_: 10,831 sq km<br>
 _water_: 160 sq km<br>
 
@@ -375,31 +375,31 @@ _selected World Heritage Site locales_: Blue and John Crow Mountains<br>
 upper middle-income Caribbean island economy; ongoing debt restructuring; hurricane-vulnerable economy; high crime, youth unemployment, and poverty; susceptible to commodity shocks from ongoing Russia invasion of Ukraine<br>
 
 **Real GDP (purchasing power parity)**<br>
-$28.579 billion (2022 est.)<br>
-$27.161 billion (2021 est.)<br>
-$25.966 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$29.225 billion (2023 est.)<br>
+$28.596 billion (2022 est.)<br>
+$27.177 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.2% (2023 est.)<br>
 5.22% (2022 est.)<br>
 4.6% (2021 est.)<br>
--9.92% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$10,300 (2023 est.)<br>
 $10,100 (2022 est.)<br>
 $9,600 (2021 est.)<br>
-$9,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$17.098 billion (2022 est.)<br>
+$19.423 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.47% (2023 est.)<br>
 10.35% (2022 est.)<br>
 5.86% (2021 est.)<br>
-5.23% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -429,17 +429,17 @@ sugarcane, yams, goat milk, chicken, coconuts, oranges, bananas, pumpkins/squash
 agriculture, mining, manufacture, construction, financial and insurance services, tourism, telecommunications<br>
 
 **Industrial production growth rate**<br>
--0.38% (2022 est.)<br>
+4.98% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.517 million (2022 est.)<br>
+1.559 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.5% (2022 est.)<br>
-6.16% (2021 est.)<br>
-6.5% (2020 est.)<br>
+4.42% (2023 est.)<br>
+4.08% (2022 est.)<br>
+5.19% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -451,16 +451,16 @@ _female_: 31.4%<br>
 17.1% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-35 (2016 est.)<br>
+40.2 (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.6%<br>
-_highest 10%_: 29.3% (2015)<br>
+_lowest 10%_: 2.2% (2021 est.)<br>
+_highest 10%_: 29.9% (2021 est.)<br>
 
 **Remittances**<br>
+19.1% of GDP (2023 est.)<br>
 21.57% of GDP (2022 est.)<br>
 25.29% of GDP (2021 est.)<br>
-22.2% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -515,9 +515,9 @@ refined petroleum, crude petroleum, natural gas, cars, plastic products (2022)<b
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$4.869 billion (2023 est.)<br>
 $4.52 billion (2022 est.)<br>
 $4.838 billion (2021 est.)<br>
-$3.938 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -526,11 +526,11 @@ $13.912 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Jamaican dollars (JMD) per US dollar -<br>
+154.159 (2023 est.)<br>
 153.427 (2022 est.)<br>
 150.79 (2021 est.)<br>
 142.403 (2020 est.)<br>
 133.312 (2019 est.)<br>
-128.872 (2018 est.)<br>
 
 ## Energy
 

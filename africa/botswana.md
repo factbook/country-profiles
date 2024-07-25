@@ -19,7 +19,7 @@ Southern Africa, north of South Africa<br>
 Africa<br>
 
 **Area**<br>
-_total_: 581,730 sq km<br>
+_total _: 581,730 sq km<br>
 _land_: 566,730 sq km<br>
 _water_: 15,000 sq km<br>
 
@@ -398,31 +398,31 @@ _selected World Heritage Site locales_: Tsodilo Hills (c); Okavango Delta (n)<br
 good economic governance and financial management; diamond-driven growth model declining; rapid poverty reductions; high unemployment, particularly among youth; COVID-19 sharply contracted the economy and recovery is slow; public sector wages have posed fiscal challenges<br>
 
 **Real GDP (purchasing power parity)**<br>
-$40.819 billion (2022 est.)<br>
-$38.585 billion (2021 est.)<br>
-$34.491 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$46.742 billion (2023 est.)<br>
+$45.499 billion (2022 est.)<br>
+$43.133 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.79% (2022 est.)<br>
-11.87% (2021 est.)<br>
--8.73% (2020 est.)<br>
+2.73% (2023 est.)<br>
+5.49% (2022 est.)<br>
+11.92% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$15,500 (2022 est.)<br>
-$14,900 (2021 est.)<br>
-$13,500 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$17,500 (2023 est.)<br>
+$17,300 (2022 est.)<br>
+$16,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$20.356 billion (2022 est.)<br>
+$19.396 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.07% (2023 est.)<br>
 11.67% (2022 est.)<br>
 7.24% (2021 est.)<br>
-1.89% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -451,17 +451,17 @@ milk, root vegetables, vegetables, maize, sorghum, beef, game meat, watermelons,
 diamonds, copper, nickel, salt, soda ash, potash, coal, iron ore, silver; beef processing; textiles<br>
 
 **Industrial production growth rate**<br>
-7.57% (2022 est.)<br>
+2.25% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.145 million (2022 est.)<br>
+1.17 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+23.38% (2023 est.)<br>
 23.62% (2022 est.)<br>
 23.11% (2021 est.)<br>
-21.02% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -478,14 +478,14 @@ _female_: 43.3%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.5%<br>
+_lowest 10%_: 1.5% (2015 est.)<br>
 _highest 10%_: 41.5% (2015 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.31% of GDP (2023 est.)<br>
 0.34% of GDP (2022 est.)<br>
 0.32% of GDP (2021 est.)<br>
-0.3% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -502,7 +502,7 @@ _expenditures_: $6.006 billion (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-22.25% (of GDP) (2021 est.)<br>
+19.65% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -540,9 +540,9 @@ diamonds, refined petroleum, trucks, raw sugar, plastic products (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$4.756 billion (2023 est.)<br>
 $4.279 billion (2022 est.)<br>
 $4.802 billion (2021 est.)<br>
-$4.941 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -551,11 +551,11 @@ $2.421 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: pulas (BWP) per US dollar -<br>
+13.596 (2023 est.)<br>
 12.369 (2022 est.)<br>
 11.087 (2021 est.)<br>
 11.456 (2020 est.)<br>
 10.756 (2019 est.)<br>
-10.2 (2018 est.)<br>
 
 ## Energy
 
@@ -652,11 +652,11 @@ Botswana Defense Force (BDF): Ground Forces Command, Air Arm Command, Defense Lo
 <strong>note 1:</strong> both the BDF and the Botswana Police Service report to the Ministry of Defense and Security; the Botswana Police Service has primary responsibility for internal security; the BDF reports to the Office of the President through the minister of defense and security and has some domestic security responsibilities<br><br><strong>note 2: </strong>the Ground Force Command includes a marine unit with boats and river craft for patrolling Botswana's internal waterways and supporting anti-poaching operations<br>
 
 **Military expenditures**<br>
+2.6% of GDP (2023 est.)<br>
 2.8% of GDP (2022 est.)<br>
 3% of GDP (2021 est.)<br>
 3% of GDP (2020 est.)<br>
 2.8% of GDP (2019 est.)<br>
-2.8% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 9,000 active BDF personnel (2023)<br>

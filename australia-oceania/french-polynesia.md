@@ -19,7 +19,7 @@ Oceania, five archipelagoes (Archipel des Tuamotu, Iles Gambier, Iles Marquises,
 Oceania<br>
 
 **Area**<br>
-_total_: 4,167 sq km (118 islands and atolls; 67 are inhabited)<br>
+_total _: 4,167 sq km (118 islands and atolls; 67 are inhabited)<br>
 _land_: 3,827 sq km<br>
 _water_: 340 sq km<br>
 
@@ -67,7 +67,7 @@ the majority of the population lives in the Society Islands, one of five archipe
 occasional cyclonic storms in January<br>
 
 **Geography - note**<br>
-includes five archipelagoes: four volcanic (Iles Gambier, Iles Marquises, Iles Tubuai, Society Islands) and one coral (Archipel des Tuamotu); the Tuamotu Archipelago forms the largest group of atolls in the world - 78 in total, 48 inhabited; Makatea in the Tuamotu Archipelago is one of the three great phosphate rock islands in the Pacific Ocean - the others are Banaba (Ocean Island) in Kiribati and Nauru<br>
+includes five archipelagoes: four volcanic (Iles Gambier, Iles Marquises, Iles Tubuai, Society Islands) and one coral (Archipel des Tuamotu); the Tuamotu Archipelago forms the largest group of atolls in the world -- 78 in total, 48 inhabited; Makatea in the Tuamotu Archipelago is one of the three great phosphate rock islands in the Pacific Ocean -- the others are Banaba (Ocean Island) in Kiribati and Nauru<br>
 
 ## People and Society
 
@@ -247,7 +247,7 @@ _etymology_: the name means "water basket" and refers to the fact that the islan
 none (overseas land of France)<br>
 
 **National holiday**<br>
-Fete de la Federation, 14 July (1790); note - the local holiday is Internal Autonomy Day, 29 June (1880)<br>
+F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - the local holiday is Internal Autonomy Day, 29 June (1880)<br>
 
 **Constitution**<br>
 _history_: 4 October 1958 (French Constitution)<br>
@@ -365,13 +365,13 @@ tourism, pearls, agricultural processing, handicrafts, phosphates<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-136,000 (2022 est.)<br>
+137,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.8% (2022 est.)<br>
-12.36% (2021 est.)<br>
-12.83% (2020 est.)<br>
+11.72% (2023 est.)<br>
+11.91% (2022 est.)<br>
+12.49% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -437,11 +437,11 @@ refined petroleum, cars, packaged medicine, beef, plastic products (2022)<br>
 
 **Exchange rates**<br>
 _Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
+110.347 (2023 est.)<br>
 113.474 (2022 est.)<br>
 100.88 (2021 est.)<br>
 104.711 (2020 est.)<br>
 106.589 (2019 est.)<br>
-101.047 (2018 est.)<br>
 
 ## Energy
 

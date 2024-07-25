@@ -19,7 +19,7 @@ _Europe / Countries_
 <p><strong>metropolitan France:</strong> Europe; </p><p><strong>French Guiana:</strong> South America; </p><p><strong>Guadeloupe:</strong> Central America and the Caribbean; </p><p><strong>Martinique:</strong> Central America and the Caribbean; </p><p><strong>Mayotte:</strong> Africa; </p><p><strong>Reunion:</strong> World</p><br>
 
 **Area**<br>
-_total_: 643,801 sq km ; 551,500 sq km (metropolitan France)<br>
+_total _: 643,801 sq km ; 551,500 sq km (metropolitan France)<br>
 _land_: 640,427 sq km ; 549,970 sq km (metropolitan France)<br>
 _water_: 3,374 sq km ; 1,530 sq km (metropolitan France)<br>
 <strong>note:</strong> the first numbers include the overseas regions of French Guiana, Guadeloupe, Martinique, Mayotte, and Reunion<br>
@@ -88,7 +88,7 @@ much of the population is concentrated in the north and southeast; although ther
 <p><strong>metropolitan France:</strong> flooding; avalanches; midwinter windstorms; drought; forest fires in south near the Mediterranean;</p> <p><strong>overseas departments:</strong> hurricanes (cyclones); flooding;</p> <p><strong>volcanism:</strong> Montagne Pelee (1,394 m) on the island of Martinique in the Caribbean is the most active volcano of the Lesser Antilles arc, it last erupted in 1932; a catastrophic eruption in May 1902 destroyed the city of St. Pierre, killing an estimated 30,000 people; La Soufriere (1,467 m) on the island of Guadeloupe in the Caribbean last erupted from July 1976 to March 1977; these volcanoes are part of the volcanic island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south</p><br>
 
 **Geography - note**<br>
-largest West European nation; most major French rivers - the Meuse, Seine, Loire, Charente, Dordogne, and Garonne - flow northward or westward into the Atlantic Ocean, only the Rhone flows southward into the Mediterranean Sea<br>
+largest West European nation; most major French rivers -- the Meuse, Seine, Loire, Charente, Dordogne, and Garonne -- flow northward or westward into the Atlantic Ocean, only the Rhone flows southward into the Mediterranean Sea<br>
 
 ## People and Society
 
@@ -337,7 +337,7 @@ Clipperton Island, French Polynesia, French Southern and Antarctic Lands, New Ca
 no official date of independence: 486 (Frankish tribes unified under Merovingian kingship); 10 August 843 (Western Francia established from the division of the Carolingian Empire); 14 July 1789 (French monarchy overthrown); 22 September 1792 (First French Republic founded); 4 October 1958 (Fifth French Republic established)<br>
 
 **National holiday**<br>
-Fete de la Federation, 14 July (1790); note - although often incorrectly referred to as Bastille Day, the celebration actually commemorates the holiday held on the first anniversary of the storming of the Bastille (on 14 July 1789) and the establishment of a constitutional monarchy; other names for the holiday are Fete Nationale (National Holiday) and quatorze juillet (14th of July)<br>
+Fête de la Fédération, 14 July (1790); note - often incorrectly referred to as Bastille Day, the celebration commemorates the holiday held on the first anniversary of the storming of the Bastille (on 14 July 1789) and the establishment of a constitutional monarchy; other names for the holiday are <em>la Fête nationale</em> (National Holiday) and <em>le Quatorze Juillet</em> (14th of July)<br>
 
 **Constitution**<br>
 _history_: many previous; latest effective 4 October 1958<br>
@@ -423,31 +423,31 @@ _selected World Heritage Site locales_: Chartres Cathedral (c); Palace and Park 
 high-income, advanced and diversified EU economy and euro user; strong tourism, aircraft manufacturing, pharmaceuticals, and industrial sectors; high public debt; ongoing pension reform efforts; transitioning to a green economy via "France 2030" strategy<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.12 trillion (2022 est.)<br>
-$3.045 trillion (2021 est.)<br>
-$2.861 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$3.764 trillion (2023 est.)<br>
+$3.738 trillion (2022 est.)<br>
+$3.648 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+0.7% (2023 est.)<br>
 2.45% (2022 est.)<br>
 6.44% (2021 est.)<br>
--7.54% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$45,900 (2022 est.)<br>
-$44,900 (2021 est.)<br>
-$42,300 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$55,200 (2023 est.)<br>
+$55,000 (2022 est.)<br>
+$53,800 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.779 trillion (2022 est.)<br>
+$3.031 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.88% (2023 est.)<br>
 5.22% (2022 est.)<br>
 1.64% (2021 est.)<br>
-0.48% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -477,17 +477,17 @@ wheat, sugar beets, milk, barley, maize, potatoes, grapes, rapeseed, pork, sunfl
 machinery, chemicals, automobiles, metallurgy, aircraft, electronics, textiles, food processing, tourism<br>
 
 **Industrial production growth rate**<br>
--1.15% (2022 est.)<br>
+0.74% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-31.617 million (2022 est.)<br>
+31.825 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+7.32% (2023 est.)<br>
 7.31% (2022 est.)<br>
-7.86% (2021 est.)<br>
-8.01% (2020 est.)<br>
+7.87% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -500,7 +500,7 @@ _female_: 20.3%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-30.7 (2020 est.)<br>
+31.5 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -508,14 +508,14 @@ _on food_: 14.1% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 4.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.1%<br>
-_highest 10%_: 24.5% (2020 est.)<br>
+_lowest 10%_: 2.9% (2021 est.)<br>
+_highest 10%_: 24.9% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+1.15% of GDP (2023 est.)<br>
 1.22% of GDP (2022 est.)<br>
 1.11% of GDP (2021 est.)<br>
-1.09% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -526,25 +526,25 @@ _expenditures_: $1.509 trillion (2019 est.)<br>
 -2.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-116.49% of GDP (2021 est.)<br>
-122.89% of GDP (2020 est.)<br>
-104.96% of GDP (2019 est.)<br>
+98.66% of GDP (2022 est.)<br>
+116.89% of GDP (2021 est.)<br>
+123.17% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-23.96% (of GDP) (2021 est.)<br>
+24.62% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$22.792 billion (2023 est.)<br>
 -$56.672 billion (2022 est.)<br>
 $9.868 billion (2021 est.)<br>
--$41.381 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$1.052 trillion (2023 est.)<br>
 $1.013 trillion (2022 est.)<br>
 $925.551 billion (2021 est.)<br>
-$752.31 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -556,9 +556,9 @@ aircraft, packaged medicine, cars, natural gas, vehicle parts/accessories (2022)
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$1.099 trillion (2023 est.)<br>
 $1.103 trillion (2022 est.)<br>
 $963.999 billion (2021 est.)<br>
-$799.147 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -570,9 +570,9 @@ natural gas, cars, refined petroleum, crude petroleum, garments (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$240.792 billion (2023 est.)<br>
 $242.416 billion (2022 est.)<br>
 $244.28 billion (2021 est.)<br>
-$224.236 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -581,11 +581,11 @@ $6.058 trillion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 
 ## Energy
 
@@ -761,13 +761,13 @@ Guiana Space Center (Kourou, French Guiana; also serves as the spaceport for the
 
 **Space program overview**<br>
 has one of Europe’s largest space programs and is a key member of the European Space Agency (ESA), as well as one of its largest contributors; has independent capabilities in all areas of space categories except for autonomous manned space flight; can build, launch, and operate a range of space/satellite launch vehicles (SLVs) and spacecraft, including exploratory probes and a full spectrum of satellites; trained astronauts until training mission shifted to ESA in 2001; develops a wide range of space-related technologies; hosts the ESA headquarters; participates in international space programs such as the Square Kilometer Array Project (world’s largest radio telescope) and International Space Station (ISS); cooperates with a broad range of space agencies and commercial space companies, including those of China, Egypt, individual ESA and EU member countries, India, Indonesia, Israel, Japan, Mexico, Russia, the UAE, the US, and several African countries; has a large commercial space sector involved in such areas as satellite construction and payloads, launch capabilities, and a range of other space-related capabilities and technologies (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); al-Qa'ida<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

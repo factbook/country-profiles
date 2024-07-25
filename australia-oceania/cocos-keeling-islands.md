@@ -19,7 +19,7 @@ Southeastern Asia, group of islands in the Indian Ocean, southwest of Indonesia,
 Southeast Asia<br>
 
 **Area**<br>
-_total_: 14 sq km<br>
+_total _: 14 sq km<br>
 _land_: 14 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes the two main islands of West Island and Home Island<br>
@@ -65,7 +65,7 @@ only Home Island and West Island are populated<br>
 cyclone season is October to April<br>
 
 **Geography - note**<br>
-<strong>note 1: </strong>there are 27 coral islands in the group; apart from North Keeling Island, which lies 30 km north of the main group, the islands form a horseshoe-shaped atoll surrounding a lagoon; North Keeling Island was declared a national park in 1995 and is administered by Parks Australia; the population on the two inhabited islands generally is split between the ethnic Europeans on West Island and the ethnic Malays on Home Island; the islands are thickly covered with coconut palms and other vegetation<br><br><strong>note 2:</strong> site of a World War I naval battle in November 1914 between the Australian light cruiser HMAS Sydney and the German raider SMS Emden; after being heavily damaged in the engagement, the Emden was beached by her captain on North Keeling Island<br>
+<strong>note: </strong>there are 27 coral islands in the group; apart from North Keeling Island, which lies 30 km north of the main group, the islands form a horseshoe-shaped atoll surrounding a lagoon; North Keeling Island was declared a national park in 1995 and is administered by Parks Australia; the population on the two inhabited islands generally is split between the ethnic Europeans on West Island and the ethnic Malays on Home Island; the islands are thickly covered with coconut palms and other vegetation<br>
 
 ## People and Society
 

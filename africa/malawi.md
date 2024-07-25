@@ -19,7 +19,7 @@ Southern Africa, east of Zambia, west and north of Mozambique<br>
 Africa<br>
 
 **Area**<br>
-_total_: 118,484 sq km<br>
+_total _: 118,484 sq km<br>
 _land_: 94,080 sq km<br>
 _water_: 24,404 sq km<br>
 
@@ -412,31 +412,31 @@ _selected World Heritage Site locales_: Lake Malawi National Park (n); Chongoni 
 low-income East African economy; primarily agrarian; investing in human capital; urban poverty increasing due to COVID-19; high public debt; endemic corruption and poor property rights; poor hydroelectric grid; localized pharmaceutical industry<br>
 
 **Real GDP (purchasing power parity)**<br>
-$29.932 billion (2022 est.)<br>
-$29.658 billion (2021 est.)<br>
-$28.864 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$35.238 billion (2023 est.)<br>
+$34.703 billion (2022 est.)<br>
+$34.386 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+1.54% (2023 est.)<br>
 0.92% (2022 est.)<br>
 2.75% (2021 est.)<br>
-0.8% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,500 (2022 est.)<br>
-$1,500 (2021 est.)<br>
-$1,500 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1,700 (2023 est.)<br>
+$1,700 (2022 est.)<br>
+$1,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$13.165 billion (2022 est.)<br>
+$14.084 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+28.79% (2023 est.)<br>
 20.95% (2022 est.)<br>
 9.33% (2021 est.)<br>
-8.63% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -460,17 +460,17 @@ sweet potatoes, cassava, maize, sugarcane, mangoes/guavas, potatoes, tomatoes, p
 tobacco, tea, sugar, sawmill products, cement, consumer goods<br>
 
 **Industrial production growth rate**<br>
-0.89% (2022 est.)<br>
+1.58% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.072 million (2022 est.)<br>
+8.366 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.11% (2022 est.)<br>
-5.76% (2021 est.)<br>
-5.74% (2020 est.)<br>
+5.04% (2023 est.)<br>
+5.05% (2022 est.)<br>
+5.59% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -487,14 +487,14 @@ _female_: 12.2%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9%<br>
+_lowest 10%_: 2.9% (2019 est.)<br>
 _highest 10%_: 31% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.97% of GDP (2022 est.)<br>
-2.05% of GDP (2021 est.)<br>
-1.92% of GDP (2020 est.)<br>
+1.85% of GDP (2023 est.)<br>
+2.01% of GDP (2022 est.)<br>
+2.53% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -505,25 +505,25 @@ _expenditures_: $2.129 billion (2019 est.)<br>
 -3.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+52.63% of GDP (2022 est.)<br>
 44.89% of GDP (2019 est.)<br>
 41.7% of GDP (2018 est.)<br>
-34.29% of GDP (2017 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-11.38% (of GDP) (2021 est.)<br>
+12.78% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.543 billion (2021 est.)<br>
--$1.466 billion (2020 est.)<br>
--$1.321 billion (2019 est.)<br>
+-$2.276 billion (2022 est.)<br>
+-$1.918 billion (2021 est.)<br>
+-$1.639 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$1.538 billion (2021 est.)<br>
-$1.268 billion (2020 est.)<br>
-$1.447 billion (2019 est.)<br>
+$1.487 billion (2022 est.)<br>
+$1.587 billion (2021 est.)<br>
+$1.308 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -535,9 +535,9 @@ tobacco, gold, tea, ground nuts, dried legumes (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$3.582 billion (2021 est.)<br>
-$3.208 billion (2020 est.)<br>
-$3.266 billion (2019 est.)<br>
+$3.706 billion (2022 est.)<br>
+$3.768 billion (2021 est.)<br>
+$3.373 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -665,11 +665,11 @@ Malawi Defense Force (MDF): Land Forces (Army), Maritime Force, Air Force, Natio
 <strong>note:</strong> the MDF reports directly to the president as commander in chief; the Malawi Police Service is under the Ministry of Homeland Security<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2023 est.)<br>
 0.7% of GDP (2022 est.)<br>
 0.9% of GDP (2021 est.)<br>
 0.9% of GDP (2020 est.)<br>
 1.1% of GDP (2019 est.)<br>
-0.8% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 10,000 active military personnel (2023)<br>

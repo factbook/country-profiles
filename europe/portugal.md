@@ -19,7 +19,7 @@ Southwestern Europe, bordering the North Atlantic Ocean, west of Spain<br>
 Europe<br>
 
 **Area**<br>
-_total_: 92,090 sq km<br>
+_total _: 92,090 sq km<br>
 _land_: 91,470 sq km<br>
 _water_: 620 sq km<br>
 <strong>note:</strong> includes Azores and Madeira Islands<br>
@@ -388,31 +388,31 @@ _selected World Heritage Site locales_: Historic Évora (c); Central Zone of the
 high-income EU and eurozone economy; strong services sector led by tourism and banking; tight labor market; private consumption and export recovery driving post-inflation rebound; EU Recovery and Resilience Plan (RRP) funds a key driver of public investment; high public debt but improving fiscal position<br>
 
 **Real GDP (purchasing power parity)**<br>
-$372.331 billion (2022 est.)<br>
-$348.535 billion (2021 est.)<br>
-$329.623 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$439.008 billion (2023 est.)<br>
+$429.3 billion (2022 est.)<br>
+$401.863 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.26% (2023 est.)<br>
 6.83% (2022 est.)<br>
 5.74% (2021 est.)<br>
--8.3% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$35,800 (2022 est.)<br>
-$33,600 (2021 est.)<br>
-$32,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$41,700 (2023 est.)<br>
+$41,200 (2022 est.)<br>
+$38,800 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$255.197 billion (2022 est.)<br>
+$287.08 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.31% (2023 est.)<br>
 7.83% (2022 est.)<br>
 1.27% (2021 est.)<br>
--0.01% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -442,17 +442,17 @@ milk, tomatoes, grapes, olives, maize, oranges, pork, potatoes, chicken, apples 
 textiles, clothing, footwear, wood and cork, paper and pulp, chemicals, fuels and lubricants, automobiles and auto parts, base metals, minerals, porcelain and ceramics, glassware, technology, telecommunications; dairy products, wine, other foodstuffs; ship construction and refurbishment; tourism, plastics, financial services, optics<br>
 
 **Industrial production growth rate**<br>
-1.84% (2022 est.)<br>
+-1.13% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.296 million (2022 est.)<br>
+5.419 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+6.49% (2023 est.)<br>
 6.01% (2022 est.)<br>
 6.58% (2021 est.)<br>
-6.8% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -465,7 +465,7 @@ _female_: 26.2%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-34.7 (2020 est.)<br>
+34.6 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -473,14 +473,14 @@ _on food_: 17.5% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.4%<br>
-_highest 10%_: 26.9% (2020 est.)<br>
+_lowest 10%_: 2.8% (2021 est.)<br>
+_highest 10%_: 27.6% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-4.03% of GDP (2022 est.)<br>
+0.47% of GDP (2023 est.)<br>
+0.38% of GDP (2022 est.)<br>
 0.3% of GDP (2021 est.)<br>
-0.32% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -496,19 +496,19 @@ _expenditures_: $101.854 billion (2019 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-22.01% (of GDP) (2021 est.)<br>
+23.05% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$3.974 billion (2023 est.)<br>
 -$3.108 billion (2022 est.)<br>
 -$2.987 billion (2021 est.)<br>
--$2.292 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$136.589 billion (2023 est.)<br>
 $126.541 billion (2022 est.)<br>
 $105.648 billion (2021 est.)<br>
-$85.128 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -520,9 +520,9 @@ cars, garments, refined petroleum, vehicle parts/accessories, plastic products (
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$133.006 billion (2023 est.)<br>
 $131.627 billion (2022 est.)<br>
 $112.413 billion (2021 est.)<br>
-$89.515 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -534,9 +534,9 @@ crude petroleum, cars, refined petroleum, natural gas, vehicle parts/accessories
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$35.243 billion (2023 est.)<br>
 $32.232 billion (2022 est.)<br>
 $32.535 billion (2021 est.)<br>
-$29.46 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -545,11 +545,11 @@ $483.206 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 
 ## Energy
 
@@ -704,13 +704,13 @@ developing a commercial space port on Santa Maria Island in the Azores (first an
 
 **Space program overview**<br>
 has a national space program which is is integrated within the framework of the European Space Agency (ESA); builds and operates satellites; researches and develops a range of space-related technologies with an emphasis on small/micro/nano satellites for remote sensing (RS), navigational, science/technology, and telecommunications, as well as satellite launch services; in addition to the ESA/EU and their member states, cooperates with the space agencies and industries of a variety of countries, including those of Algeria, Angola, Brazil, China, India, Japan, Morocco, South Korea, and the US, as well as such international organizations and projects as the Europe South Observatory (ESO) and the Square Kilometer Array (SKA) Observatory project; one of the objectives of the country's national space strategy (Portugal Space 2030) is to increase the annual outcome of space related activities in the country to about $500 million by 2030 (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

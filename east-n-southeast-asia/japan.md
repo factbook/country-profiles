@@ -19,7 +19,7 @@ Eastern Asia, island chain between the North Pacific Ocean and the Sea of Japan,
 Asia<br>
 
 **Area**<br>
-_total_: 377,915 sq km<br>
+_total _: 377,915 sq km<br>
 _land_: 364,485 sq km<br>
 _water_: 13,430 sq km<br>
 <strong>note:</strong> includes Bonin Islands (Ogasawara-gunto), Daito-shoto, Minami-jima, Okino-tori-shima, Ryukyu Islands (Nansei-shoto), and Volcano Islands (Kazan-retto)<br>
@@ -50,7 +50,8 @@ _lowest point_: Hachiro-gata -4 m<br>
 _mean elevation_: 438 m<br>
 
 **Natural resources**<br>
-negligible mineral resources, fish; note - with virtually no natural energy resources, Japan is almost totally dependent on imported sources of energy<br>
+negligible mineral resources, fish <br>
+<strong>note:</strong> with virtually no natural energy resources, Japan is almost totally dependent on imported sources of energy<br>
 
 **Land use**<br>
 _agricultural land_: 12.5% (2018 est.)<br>
@@ -73,7 +74,7 @@ all primary and secondary regions of high population density lie on the coast; o
 <p>many dormant and some active volcanoes; about 1,500 seismic occurrences (mostly tremors but occasional severe earthquakes) every year; tsunamis; typhoons</p><p><strong>volcanism:</strong> both Unzen (1,500 m) and Sakura-jima (1,117 m), which lies near the densely populated city of Kagoshima, have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; other notable historically active volcanoes include Asama, Honshu Island's most active volcano, Aso, Bandai, Fuji, Iwo-Jima, Kikai, Kirishima, Komaga-take, Oshima, Suwanosejima, Tokachi, Yake-dake, and Usu; see note 2 under "Geography - note"</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> strategic location in northeast Asia; composed of four main islands (the "Home Islands") - from north: Hokkaido, Honshu (the largest, most populous, and site of Tokyo, the capital), Shikoku, and Kyushu  <br><br><strong>note 2:</strong> a 2023 Geospatial Information Authority of Japan survey technically detected 100,000 islands and islets, but only the 14,125 islands with a circumference of at least 100 m (330 ft) were officially counted; only about 260 of the islands are inhabited</p> <p><strong>note 3:</strong> Japan annually records the most earthquakes in the world; it is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p><br>
+<p><strong>note 1:</strong> strategic location in northeast Asia; composed of four main islands (the "Home Islands") -- Hokkaido, Honshu (the largest, most populous, and site of Tokyo, the capital), Shikoku, and Kyushu  <br><br><strong>note 2:</strong> a 2023 Geospatial Information Authority of Japan survey technically detected 100,000 islands and islets, but only the 14,125 islands with a circumference of at least 100 m (330 ft) were officially counted; only about 260 of the islands are inhabited</p> <p><strong>note 3:</strong> Japan annually records the most earthquakes in the world; it is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p><br>
 
 ## People and Society
 
@@ -393,31 +394,31 @@ _selected World Heritage Site locales_: Buddhist Monuments in the Horyu-ji Area 
 fourth-largest economy; trade-oriented and highly diversified; high public debt levels; real wage declines in inflationary environment; sustained near-zero central bank rates coupled with depreciation of yen; strong rebound in tourism<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.21 trillion (2022 est.)<br>
-$5.157 trillion (2021 est.)<br>
-$5.049 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$5.761 trillion (2023 est.)<br>
+$5.652 trillion (2022 est.)<br>
+$5.599 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.03% (2022 est.)<br>
-2.14% (2021 est.)<br>
--4.28% (2020 est.)<br>
+1.92% (2023 est.)<br>
+0.95% (2022 est.)<br>
+2.56% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$41,600 (2022 est.)<br>
-$41,000 (2021 est.)<br>
-$40,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$46,300 (2023 est.)<br>
+$45,200 (2022 est.)<br>
+$44,500 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.232 trillion (2022 est.)<br>
+$4.213 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.27% (2023 est.)<br>
 2.5% (2022 est.)<br>
 -0.23% (2021 est.)<br>
--0.02% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -451,13 +452,13 @@ motor vehicles, electronic equipment, machine tools, steel and nonferrous metals
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-69.114 million (2022 est.)<br>
+69.349 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+2.58% (2023 est.)<br>
 2.6% (2022 est.)<br>
 2.83% (2021 est.)<br>
-2.81% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -482,9 +483,9 @@ _highest 10%_: 26.4% (2013 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.13% of GDP (2023 est.)<br>
 0.13% of GDP (2022 est.)<br>
 0.11% of GDP (2021 est.)<br>
-0.1% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -495,24 +496,24 @@ _expenditures_: $1.916 trillion (2019 est.)<br>
 -3.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-216.36% of GDP (2021 est.)<br>
-215.77% of GDP (2020 est.)<br>
-198.02% of GDP (2019 est.)<br>
+216.21% of GDP (2022 est.)<br>
+216.33% of GDP (2021 est.)<br>
+215.76% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
 35.2% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
-$90.963 billion (2022 est.)<br>
-$197.154 billion (2021 est.)<br>
-$150.029 billion (2020 est.)<br>
+$150.691 billion (2023 est.)<br>
+$90.277 billion (2022 est.)<br>
+$196.525 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$921.212 billion (2022 est.)<br>
+$920.737 billion (2023 est.)<br>
+$922.813 billion (2022 est.)<br>
 $920.639 billion (2021 est.)<br>
-$794.291 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -524,9 +525,9 @@ cars, machinery, integrated circuits, vehicle parts/accessories, refined petrole
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.08 trillion (2022 est.)<br>
+$989.843 billion (2023 est.)<br>
+$1.081 trillion (2022 est.)<br>
 $942.45 billion (2021 est.)<br>
-$801.889 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -538,9 +539,9 @@ crude petroleum, natural gas, coal, integrated circuits, garments (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.295 trillion (2023 est.)<br>
 $1.228 trillion (2022 est.)<br>
 $1.406 trillion (2021 est.)<br>
-$1.391 trillion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -549,11 +550,11 @@ $3,944,898,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: yen (JPY) per US dollar -<br>
+140.491 (2023 est.)<br>
 131.498 (2022 est.)<br>
 109.754 (2021 est.)<br>
 106.775 (2020 est.)<br>
 109.01 (2019 est.)<br>
-110.423 (2018 est.)<br>
 
 ## Energy
 
@@ -726,8 +727,8 @@ Japan Aerospace Exploration Agency (JAXA; established in 2003) (2024)<br>
 Tanegashima Space Center/Yoshinobu Launch Complex (Kagoshima), Uchinoura Space Center (Kagoshima), Noshiro Testing Center (Akita) (2024)<br>
 
 **Space program overview**<br>
-has one of the world’s largest and most advanced space programs with independent capabilities in all areas of space categories except for autonomous manned space flight; designs, builds, launches, and operates the full spectrum of satellites, including communications, remote sensing (RS), astronomical observation, scientific, and navigational/positional; designs, builds, and independently launches satellite/space launch vehicles (SLVs) and other spacecraft, including interplanetary and Lunar probes, space station modules and space labs, and space transportation systems; has a wide range of research and development programs, including reusable SLVs, space-based astronomy, spacecraft components, robotics, solar sails, radio waves, and space plasma; has an astronaut training program; participates in international space programs, including the International Space Station (ISS), leading the Asia-Pacific Regional Space Agency Forum, and co-leading the Global Earth Observation System of Systems; cooperates with a variety of foreign space agencies and industries, including those of Canada, the European Space Agency (ESA) and its individual member states, India, Russia, the UAE, the US, and a range of other countries and space agencies throughout Africa, Europe, and the Asia-Pacific regions; has a substantial commercial space industry that develops an array of space-related capabilities and technologies, including satellites, satellite payloads and subcomponents, and SLVs; in recent years, the Japanese Government has encouraged and supported the development of space startup companies  (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+has one of the world’s largest and most advanced space programs with independent capabilities in all areas of space categories except for autonomous manned space flight; designs, builds, launches, and operates the full spectrum of satellites, including communications, remote sensing (RS), astronomical observation, scientific, and navigational/positional; designs, builds, and independently launches satellite/space launch vehicles (SLVs) and other spacecraft, including interplanetary and Lunar probes, space station modules and space labs, and space transportation systems; has a wide range of research and development programs, including reusable SLVs, space-based astronomy, spacecraft components, robotics, solar sails, radio waves, and space plasma; has an astronaut training program; participates in international space programs, including the International Space Station (ISS), leading the Asia-Pacific Regional Space Agency Forum, and co-leading the Global Earth Observation System of Systems; cooperates with a variety of foreign space agencies and industries, including those of Canada, the European Space Agency (ESA) and its individual member states, India, Russia, the UAE, the US, and a range of other countries and space agencies throughout Africa, Europe, and the Asia-Pacific regions; has a substantial commercial space industry that develops an array of space-related capabilities and technologies, including satellites, satellite payloads and subcomponents, and SLVs; in recent years, the Japanese Government has encouraged and supported the development of space startup companies (2024)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 

@@ -19,7 +19,7 @@ Southeastern Europe, bordering the Adriatic Sea and Ionian Sea, between Greece t
 Europe<br>
 
 **Area**<br>
-_total_: 28,748 sq km<br>
+_total _: 28,748 sq km<br>
 _land_: 27,398 sq km<br>
 _water_: 1,350 sq km<br>
 
@@ -396,25 +396,25 @@ _selected World Heritage Site locales_: Butrint (c); Historic Berat and Gjirokas
 upper-middle -income Balkan economy; EU accession candidate; growth bolstered by tourism, services, construction, and private consumption; fiscal consolidation through revenue collection to address public debt; challenges include weak governance, corruption, climate adaptation, vulnerability to energy sector shocks, and emigration of workers<br>
 
 **Real GDP (purchasing power parity)**<br>
-$43.032 billion (2022 est.)<br>
-$41.039 billion (2021 est.)<br>
-$37.682 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$49.592 billion (2023 est.)<br>
+$47.943 billion (2022 est.)<br>
+$45.723 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.44% (2023 est.)<br>
 4.86% (2022 est.)<br>
 8.91% (2021 est.)<br>
--3.3% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$15,500 (2022 est.)<br>
-$14,600 (2021 est.)<br>
-$13,300 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$18,100 (2023 est.)<br>
+$17,300 (2022 est.)<br>
+$16,300 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$18.916 billion (2022 est.)<br>
+$22.978 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -449,17 +449,17 @@ milk, maize, tomatoes, potatoes, watermelons, wheat, grapes, olives, cucumbers/g
 food; footwear, apparel and clothing; lumber, oil, cement, chemicals, mining, basic metals, hydropower<br>
 
 **Industrial production growth rate**<br>
-7.86% (2022 est.)<br>
+4.03% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.405 million (2022 est.)<br>
+1.388 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.63% (2022 est.)<br>
-12.59% (2021 est.)<br>
-12.83% (2020 est.)<br>
+11.58% (2023 est.)<br>
+11.59% (2022 est.)<br>
+12.47% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -476,14 +476,14 @@ _female_: 27.6%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.4%<br>
+_lowest 10%_: 3.4% (2020 est.)<br>
 _highest 10%_: 22.8% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+8.57% of GDP (2023 est.)<br>
 9.23% of GDP (2022 est.)<br>
 9.58% of GDP (2021 est.)<br>
-9.67% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -504,15 +504,15 @@ _expenditures_: $4.489 billion (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$202.323 million (2023 est.)<br>
 -$1.117 billion (2022 est.)<br>
 -$1.37 billion (2021 est.)<br>
--$1.315 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$9.178 billion (2023 est.)<br>
 $7.057 billion (2022 est.)<br>
 $5.612 billion (2021 est.)<br>
-$3.461 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -524,9 +524,9 @@ garments, footwear, iron alloys, electricity, crude petroleum (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$10.373 billion (2023 est.)<br>
 $9.016 billion (2022 est.)<br>
 $8.004 billion (2021 est.)<br>
-$5.671 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -538,9 +538,9 @@ refined petroleum, garments, electricity, cars, raw iron bars (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$6.455 billion (2023 est.)<br>
 $5.266 billion (2022 est.)<br>
 $5.635 billion (2021 est.)<br>
-$4.817 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -549,11 +549,11 @@ $9.547 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: leke (ALL) per US dollar -<br>
+100.645 (2023 est.)<br>
 113.042 (2022 est.)<br>
 103.52 (2021 est.)<br>
 108.65 (2020 est.)<br>
 109.851 (2019 est.)<br>
-107.989 (2018 est.)<br>
 
 ## Energy
 
@@ -698,7 +698,7 @@ the Albanian Armed Forces (AAF) are responsible for defending the country&rsquo;
 
 **Terrorist group(s)**<br>
 Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note: </strong>details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix T<br>
+<strong>note: </strong>details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

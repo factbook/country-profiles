@@ -19,7 +19,7 @@ Western Africa, bordering the North Atlantic Ocean, between Guinea and Senegal<b
 Africa<br>
 
 **Area**<br>
-_total_: 36,125 sq km<br>
+_total _: 36,125 sq km<br>
 _land_: 28,120 sq km<br>
 _water_: 8,005 sq km<br>
 
@@ -373,25 +373,25 @@ _lyrics/music_: Amilcar Lopes CABRAL/XIAO He<br>
 extremely poor West African economy; ethnically diverse labor force; increasing government expenditures; slight inflation due to food supply disruptions; major cashew exporter; systemic banking instabilities and corruption; vulnerable to oil price shocks<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.906 billion (2022 est.)<br>
-$3.774 billion (2021 est.)<br>
-$3.636 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$5.099 billion (2023 est.)<br>
+$4.892 billion (2022 est.)<br>
+$4.694 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.5% (2022 est.)<br>
-3.8% (2021 est.)<br>
--2.4% (2020 est.)<br>
+4.25% (2023 est.)<br>
+4.2% (2022 est.)<br>
+6.4% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,900 (2022 est.)<br>
-$1,800 (2021 est.)<br>
-$1,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2,400 (2023 est.)<br>
+$2,300 (2022 est.)<br>
+$2,300 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.634 billion (2022 est.)<br>
+$1.966 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -421,17 +421,17 @@ rice, groundnuts, cashews, root vegetables, oil palm fruit, plantains, cassava, 
 agricultural products processing, beer, soft drinks<br>
 
 **Industrial production growth rate**<br>
--0.7% (2020 est.)<br>
+4% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-705,000 (2022 est.)<br>
+726,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.24% (2022 est.)<br>
-3.81% (2021 est.)<br>
-3.72% (2020 est.)<br>
+3.18% (2023 est.)<br>
+3.2% (2022 est.)<br>
+3.63% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -444,18 +444,18 @@ _female_: 14.2%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-34.8 (2018 est.)<br>
+33.4 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.3%<br>
-_highest 10%_: 27.6% (2018 est.)<br>
+_lowest 10%_: 3.4% (2021 est.)<br>
+_highest 10%_: 26.1% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-10.9% of GDP (2022 est.)<br>
-12.58% of GDP (2021 est.)<br>
-12.22% of GDP (2020 est.)<br>
+9.38% of GDP (2023 est.)<br>
+12.02% of GDP (2022 est.)<br>
+11.95% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -470,19 +470,19 @@ _expenditures_: $278 million (2019 est.)<br>
 57.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-9.46% (of GDP) (2019 est.)<br>
+9.16% (of GDP) (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$146.64 million (2022 est.)<br>
 -$14.128 million (2021 est.)<br>
 -$38.683 million (2020 est.)<br>
--$127.41 million (2019 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$280.065 million (2022 est.)<br>
 $334.904 million (2021 est.)<br>
 $232.536 million (2020 est.)<br>
-$291.805 million (2019 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -494,9 +494,9 @@ coconuts/Brazil nuts/cashews, fish, fish oil, palm oil, dried fruits (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$577.899 million (2022 est.)<br>
 $518.162 million (2021 est.)<br>
 $439.386 million (2020 est.)<br>
-$502.204 million (2019 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -517,11 +517,11 @@ $941.5 million (31 December 2000 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
-555.446 (2018 est.)<br>
 
 ## Energy
 
@@ -614,11 +614,11 @@ People's Revolutionary Armed Force (Forcas Armadas Revolucionarias do Povo or FA
 <strong>note: </strong>the Public Order Police is responsible for maintaining law and order, while the Judicial Police, under the Ministry of Justice, has primary responsibility for investigating drug trafficking, terrorism, and other transnational crimes<br>
 
 **Military expenditures**<br>
+1.4% of GDP (2023 est.)<br>
 1.6% of GDP (2022 est.)<br>
 1.8% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
 1.9% of GDP (2019 est.)<br>
-1.7% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 4,000 active troops, including a few hundred air and naval personnel (2023)<br>

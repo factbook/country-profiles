@@ -19,7 +19,7 @@ Central America, bordering both the Caribbean Sea and the North Pacific Ocean, b
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 51,100 sq km<br>
+_total _: 51,100 sq km<br>
 _land_: 51,060 sq km<br>
 _water_: 40 sq km<br>
 <strong>note:</strong> includes Isla del Coco<br>
@@ -389,31 +389,31 @@ _selected World Heritage Site locales_: Guanacaste Conservation Area (n); Cocos 
 trade-based upper middle-income economy; green economy leader, having reversed deforestation; investing in blue economy infrastructure; declining poverty until hard impacts of COVID-19; lingering inequality and growing government debts have prompted a liquidity crisis<br>
 
 **Real GDP (purchasing power parity)**<br>
-$114.346 billion (2022 est.)<br>
-$109.368 billion (2021 est.)<br>
-$101.327 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$134.238 billion (2023 est.)<br>
+$127.71 billion (2022 est.)<br>
+$122.15 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+5.11% (2023 est.)<br>
 4.55% (2022 est.)<br>
 7.94% (2021 est.)<br>
--4.27% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$22,100 (2022 est.)<br>
-$21,200 (2021 est.)<br>
-$19,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$25,800 (2023 est.)<br>
+$24,700 (2022 est.)<br>
+$23,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$69.244 billion (2022 est.)<br>
+$86.498 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+0.53% (2023 est.)<br>
 8.27% (2022 est.)<br>
 1.73% (2021 est.)<br>
-0.72% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -443,17 +443,17 @@ sugarcane, pineapples, bananas, milk, oil palm fruit, fruits, oranges, chicken, 
 medical equipment, food processing, textiles and clothing, construction materials, fertilizer, plastic products<br>
 
 **Industrial production growth rate**<br>
-2.05% (2022 est.)<br>
+8.35% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.543 million (2022 est.)<br>
+2.408 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.32% (2022 est.)<br>
+8.3% (2023 est.)<br>
+11.33% (2022 est.)<br>
 15.14% (2021 est.)<br>
-16.43% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -474,14 +474,14 @@ _on food_: 31.6% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 0.7% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.7%<br>
+_lowest 10%_: 1.7% (2022 est.)<br>
 _highest 10%_: 35.7% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.73% of GDP (2023 est.)<br>
 0.9% of GDP (2022 est.)<br>
 0.91% of GDP (2021 est.)<br>
-0.84% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -492,23 +492,24 @@ _expenditures_: $14.001 billion (2019 est.)<br>
 -6.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+71.11% of GDP (2022 est.)<br>
 48.9% of GDP (2017 est.)<br>
 44.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-14% (of GDP) (2021 est.)<br>
+14.35% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$2.469 billion (2022 est.)<br>
--$1.605 billion (2021 est.)<br>
--$631.662 million (2020 est.)<br>
+-$844.64 million (2023 est.)<br>
+-$2.235 billion (2022 est.)<br>
+-$2.061 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$28.692 billion (2022 est.)<br>
-$24.036 billion (2021 est.)<br>
-$19.995 billion (2020 est.)<br>
+$33.699 billion (2023 est.)<br>
+$29.404 billion (2022 est.)<br>
+$23.609 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -520,9 +521,9 @@ medical instruments, orthopedic appliances, bananas, tropical fruits, other food
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$26.602 billion (2022 est.)<br>
+$28.441 billion (2023 est.)<br>
+$27.07 billion (2022 est.)<br>
 $21.94 billion (2021 est.)<br>
-$17.519 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -534,9 +535,9 @@ refined petroleum, plastic products, medical instruments, cars, broadcasting equ
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$13.225 billion (2023 est.)<br>
 $8.554 billion (2022 est.)<br>
 $6.921 billion (2021 est.)<br>
-$7.232 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -545,11 +546,11 @@ $28.553 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Costa Rican colones (CRC) per US dollar -<br>
+544.051 (2023 est.)<br>
 647.136 (2022 est.)<br>
 620.785 (2021 est.)<br>
 584.901 (2020 est.)<br>
 587.295 (2019 est.)<br>
-576.973 (2018 est.)<br>
 
 ## Energy
 
@@ -667,11 +668,11 @@ no regular military forces; Ministry of Public Security: National Police (Fuerza
 <strong>note:</strong> Costa Rica's armed forces were constitutionally abolished in 1949<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2023 est.)<br>
 0.6% of GDP (2022 est.)<br>
 0.7% of GDP (2021 est.)<br>
 0.7% of GDP (2020 est.)<br>
 0.7% of GDP (2019 est.)<br>
-0.7% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 15-17,000 Ministry of Public Security personnel (2024)<br>
@@ -689,7 +690,7 @@ Costa Rican Space Agency (ACE; established 2021); ACE is a non-state, public ent
 
 **Space program overview**<br>
 has a small, recently established program focused on promoting the use of space to develop the country’s economy and industry, including acquiring and utilizing satellites; has built a remote sensing (RS) cube satellite; has relations with the space agencies and commercial space industries of the US, members of the European Space Agency, and members of the Latin American and Caribbean Space Agency (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

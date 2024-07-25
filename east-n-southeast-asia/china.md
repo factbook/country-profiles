@@ -19,7 +19,7 @@ Eastern Asia, bordering the East China Sea, Korea Bay, Yellow Sea, and South Chi
 Asia<br>
 
 **Area**<br>
-_total_: 9,596,960 sq km<br>
+_total _: 9,596,960 sq km<br>
 _land_: 9,326,410 sq km<br>
 _water_: 270,550 sq km<br>
 
@@ -431,31 +431,31 @@ in 2018, the Beijing established an investigatory National Supervisory Commissio
 one of the world&rsquo;s top two economies; sustained growth due to export relations, its manufacturing sector, and low-wage workers; only major economy to avoid COVID-19 economic decline; recovery efforts slowing due to longstanding poverty imbalances and other institutional issues; state-sponsored economic controls<br>
 
 **Real GDP (purchasing power parity)**<br>
-$25.684 trillion (2022 est.)<br>
-$24.939 trillion (2021 est.)<br>
-$22.996 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$31.227 trillion (2023 est.)<br>
+$29.683 trillion (2022 est.)<br>
+$28.822 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+5.2% (2023 est.)<br>
 2.99% (2022 est.)<br>
 8.45% (2021 est.)<br>
-2.24% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$18,200 (2022 est.)<br>
-$17,700 (2021 est.)<br>
-$16,300 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$22,100 (2023 est.)<br>
+$21,000 (2022 est.)<br>
+$20,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$17.963 trillion (2022 est.)<br>
+$17.795 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+0.23% (2023 est.)<br>
 1.97% (2022 est.)<br>
 0.98% (2021 est.)<br>
-2.42% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -485,17 +485,17 @@ maize, rice, vegetables, wheat, sugarcane, potatoes, cucumbers/gherkins, tomatoe
 world leader in gross value of industrial output; mining and ore processing, iron, steel, aluminum, and other metals, coal; machine building; armaments; textiles and apparel; petroleum; cement; chemicals; fertilizer; consumer products (including footwear, toys, and electronics); food processing; transportation equipment, including automobiles, railcars and locomotives, ships, aircraft; telecommunications equipment, commercial space launch vehicles, satellites<br>
 
 **Industrial production growth rate**<br>
-3.76% (2022 est.)<br>
+3.58% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-781.808 million (2022 est.)<br>
+779.246 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+4.67% (2023 est.)<br>
 4.98% (2022 est.)<br>
 4.55% (2021 est.)<br>
-5% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -516,14 +516,14 @@ _on food_: 20% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 2.9% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.1%<br>
+_lowest 10%_: 3.1% (2020 est.)<br>
 _highest 10%_: 29.4% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.28% of GDP (2023 est.)<br>
 0.15% of GDP (2022 est.)<br>
 0.13% of GDP (2021 est.)<br>
-0.13% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -539,19 +539,19 @@ _expenditures_: $4.893 trillion (2019 est.)<br>
 <strong>note:</strong> official data; data cover both central and local government debt, including debt officially recognized by China's National Audit Office report in 2011; data exclude policy bank bonds, Ministry of Railway debt, and China Asset Management Company debt<br>
 
 **Taxes and other revenues**<br>
-7.97% (of GDP) (2021 est.)<br>
+7.7% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$401.855 billion (2022 est.)<br>
+$252.987 billion (2023 est.)<br>
+$443.374 billion (2022 est.)<br>
 $352.886 billion (2021 est.)<br>
-$248.836 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$3.716 trillion (2022 est.)<br>
+$3.511 trillion (2023 est.)<br>
+$3.719 trillion (2022 est.)<br>
 $3.555 trillion (2021 est.)<br>
-$2.739 trillion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -563,9 +563,9 @@ broadcasting equipment, integrated circuits, computers, garments, machine parts 
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$3.139 trillion (2022 est.)<br>
+$3.125 trillion (2023 est.)<br>
+$3.142 trillion (2022 est.)<br>
 $3.094 trillion (2021 est.)<br>
-$2.38 trillion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -577,9 +577,9 @@ crude petroleum, integrated circuits, iron ore, natural gas, gold (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$3.45 trillion (2023 est.)<br>
 $3.307 trillion (2022 est.)<br>
 $3.428 trillion (2021 est.)<br>
-$3.357 trillion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -588,11 +588,11 @@ $1,935,206,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Renminbi yuan (RMB) per US dollar -<br>
+7.084 (2023 est.)<br>
 6.737 (2022 est.)<br>
 6.449 (2021 est.)<br>
 6.901 (2020 est.)<br>
 6.908 (2019 est.)<br>
-6.616 (2018 est.)<br>
 
 ## Energy
 
@@ -764,7 +764,7 @@ Jiuquan Launch Center (Inner Mongolia), Xichang Launch Center (Sichuan), Wenchan
 
 **Space program overview**<br>
 has a large, comprehensive, and ambitious space program and is considered one of the World’s leading space powers; capable of manufacturing and operating the full spectrum of space launch vehicles (SLVs) and spacecraft, including human crewed, satellite launchers, lunar/inter-planetary/asteroid probes, satellites (communications, remote sensing, navigational, scientific, etc.), space stations, and re-usable space transportation systems, such as orbital space planes/shuttles; trains astronauts (taikonauts); researches and develops a range of other space-related capabilities, including advanced telecommunications, optics, spacecraft components, satellite payloads, etc.; participates in international space programs, such as the Square Kilometer Array Project radio telescope project and co-leads (with Australian and Japan) the Global Earth Observation System of Systems; has signed space cooperation agreements with more than 30 countries, including Brazil, Canada, France, and Russia, as well as the European Space Agency (note – the US NASA is barred by a 2011 law from cooperating with the Chinese bilaterally in space unless approved by the US Congress; the US also objected to China’s participation in the International Space Station program); has a space industry dominated by two state-owned aerospace enterprises but since announcing in 2014 that it would allow private investment into the traditionally state-dominated space industry has developed a substantial commercial space sector, including space launch services (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

@@ -19,7 +19,7 @@ Southern Africa, bordering the South Atlantic Ocean, between Namibia and Democra
 Africa<br>
 
 **Area**<br>
-_total_: 1,246,700 sq km<br>
+_total _: 1,246,700 sq km<br>
 _land_: 1,246,700 sq km<br>
 _water_: 0 sq km<br>
 
@@ -396,31 +396,31 @@ _selected World Heritage Site locales_: Mbanza-Kongo<br>
 middle-income, oil-dependent African economy; widespread poverty; rising inflation and currency depreciation; seeking diversification through agricultural production; significant corruption in public institutions; major infrastructure investments from China and US; exited OPEC in 2023<br>
 
 **Real GDP (purchasing power parity)**<br>
-$210.193 billion (2022 est.)<br>
-$203.981 billion (2021 est.)<br>
-$201.563 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$265.868 billion (2023 est.)<br>
+$263.611 billion (2022 est.)<br>
+$255.821 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+0.86% (2023 est.)<br>
 3.05% (2022 est.)<br>
 1.2% (2021 est.)<br>
--5.64% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$5,900 (2022 est.)<br>
-$5,900 (2021 est.)<br>
-$6,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$7,200 (2023 est.)<br>
+$7,400 (2022 est.)<br>
+$7,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$106.783 billion (2022 est.)<br>
+$84.723 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+13.64% (2023 est.)<br>
+21.36% (2022 est.)<br>
 25.75% (2021 est.)<br>
-22.27% (2020 est.)<br>
-17.08% (2019 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -450,17 +450,17 @@ cassava, bananas, maize, sweet potatoes, sugarcane, pineapples, tomatoes, onions
 petroleum; diamonds, iron ore, phosphates, feldspar, bauxite, uranium, and gold; cement; basic metal products; fish processing; food processing, brewing, tobacco products, sugar; textiles; ship repair<br>
 
 **Industrial production growth rate**<br>
-1.77% (2022 est.)<br>
+-7.18% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-14.746 million (2022 est.)<br>
+15.223 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-14.48% (2022 est.)<br>
+14.62% (2023 est.)<br>
+14.69% (2022 est.)<br>
 15.8% (2021 est.)<br>
-16.7% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -481,14 +481,14 @@ _on food_: 49.7% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 1.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.3%<br>
+_lowest 10%_: 1.3% (2018 est.)<br>
 _highest 10%_: 39.6% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.01% of GDP (2023 est.)<br>
 0.01% of GDP (2022 est.)<br>
 0.02% of GDP (2021 est.)<br>
-0.02% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -507,15 +507,15 @@ _expenditures_: $17.244 billion (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$4.21 billion (2023 est.)<br>
 $11.763 billion (2022 est.)<br>
 $8.399 billion (2021 est.)<br>
-$871.918 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$36.961 billion (2023 est.)<br>
 $50.12 billion (2022 est.)<br>
 $33.675 billion (2021 est.)<br>
-$21.004 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -527,9 +527,9 @@ crude petroleum, natural gas, diamonds, ships, refined petroleum (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$23.676 billion (2023 est.)<br>
 $28.564 billion (2022 est.)<br>
 $18.845 billion (2021 est.)<br>
-$15.146 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -541,9 +541,9 @@ refined petroleum, wheat, cars, poultry, palm oil (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$13.942 billion (2023 est.)<br>
 $13.655 billion (2022 est.)<br>
 $14.468 billion (2021 est.)<br>
-$13.782 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -552,11 +552,11 @@ $27.14 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: kwanza (AOA) per US dollar -<br>
+685.02 (2023 est.)<br>
 460.568 (2022 est.)<br>
 631.442 (2021 est.)<br>
 578.259 (2020 est.)<br>
 364.826 (2019 est.)<br>
-252.856 (2018 est.)<br>
 
 ## Energy
 
@@ -679,11 +679,11 @@ _key ports_: Cabinda, Estrela Oil Field, Lobito, Luanda, Malongo Oil Terminal, N
 Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Guerra Angola, MGA), Angolan National Air Force (Forca Aerea Nacional Angolana, FANA; under operational control of the Army)<br><br>Ministry of Interior: National Police, Border Guard Police (2024)<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2023 est.)<br>
 1.3% of GDP (2022 est.)<br>
 1.4% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
 1.8% of GDP (2019 est.)<br>
-2.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 100,000 active troops (mostly Army; 5-6,000 Air Force and Navy); estimated 10,000 Rapid Reaction Police (2023)<br>
@@ -707,7 +707,7 @@ National Space Program Office (Gabinete de Gest&atilde;o do Programa Espacial Na
 
 **Space program overview**<br>
 has a national space strategy with a focus on capacity building, developing space infrastructure, investing in domestic space sector, supporting socioeconomic growth, and establishing cooperation agreements with foreign technical and scientific institutions in the space industry; contracts with foreign companies to build and launch satellites; operates satellites; cooperates with a variety of foreign space agencies and industries, including those of France, Russia, and the US (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

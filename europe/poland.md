@@ -19,7 +19,7 @@ Central Europe, east of Germany<br>
 Europe<br>
 
 **Area**<br>
-_total_: 312,685 sq km<br>
+_total _: 312,685 sq km<br>
 _land_: 304,255 sq km<br>
 _water_: 8,430 sq km<br>
 
@@ -405,31 +405,31 @@ _selected World Heritage Site locales_: Historic Krakow (c); Historic Warsaw (c)
 high-income, diversified, EU-member economy; significant growth in GDP, trade, and investment since joining EU in 2004; rebounding from slowdown triggered by inflation and fall in consumer demand; strong foreign investment supported by EU structural funds; income tax reform and defense spending have added to public debt<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.388 trillion (2022 est.)<br>
-$1.319 trillion (2021 est.)<br>
-$1.233 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.616 trillion (2023 est.)<br>
+$1.613 trillion (2022 est.)<br>
+$1.527 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.26% (2022 est.)<br>
+0.16% (2023 est.)<br>
+5.64% (2022 est.)<br>
 6.93% (2021 est.)<br>
--2.02% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$37,700 (2022 est.)<br>
-$34,900 (2021 est.)<br>
-$32,500 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$44,100 (2023 est.)<br>
+$43,800 (2022 est.)<br>
+$40,500 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$688.125 billion (2022 est.)<br>
+$811.229 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+11.53% (2023 est.)<br>
 14.43% (2022 est.)<br>
 5.06% (2021 est.)<br>
-3.37% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -459,17 +459,17 @@ milk, sugar beets, wheat, maize, potatoes, triticale, apples, rapeseed, barley, 
 machine building, iron and steel, coal mining, chemicals, shipbuilding, food processing, glass, beverages, textiles<br>
 
 **Industrial production growth rate**<br>
-7.11% (2022 est.)<br>
+0.55% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-18.301 million (2022 est.)<br>
+18.387 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+2.91% (2023 est.)<br>
 2.89% (2022 est.)<br>
 3.36% (2021 est.)<br>
-3.16% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -482,7 +482,7 @@ _female_: 15%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-28.8 (2019 est.)<br>
+28.5 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -490,14 +490,14 @@ _on food_: 17.2% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 6.3% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.4%<br>
-_highest 10%_: 23.1% (2019 est.)<br>
+_lowest 10%_: 3.4% (2021 est.)<br>
+_highest 10%_: 22.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.94% of GDP (2022 est.)<br>
+0.84% of GDP (2023 est.)<br>
+0.93% of GDP (2022 est.)<br>
 1.05% of GDP (2021 est.)<br>
-1.12% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -513,19 +513,19 @@ _expenditures_: $248.868 billion (2019 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, the data include subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-19.15% (of GDP) (2021 est.)<br>
+17.27% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$12.689 billion (2023 est.)<br>
 -$16.697 billion (2022 est.)<br>
 -$8.515 billion (2021 est.)<br>
-$14.764 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$469.264 billion (2023 est.)<br>
 $434.008 billion (2022 est.)<br>
 $392.694 billion (2021 est.)<br>
-$318.967 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -537,9 +537,9 @@ vehicle parts/accessories, plastic products, garments, electric batteries, compu
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$419.701 billion (2023 est.)<br>
 $421.226 billion (2022 est.)<br>
 $369.82 billion (2021 est.)<br>
-$284.648 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -551,9 +551,9 @@ garments, crude petroleum, cars, vehicle parts/accessories, plastic products (20
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$193.783 billion (2023 est.)<br>
 $166.664 billion (2022 est.)<br>
 $166.03 billion (2021 est.)<br>
-$154.219 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -562,11 +562,11 @@ $373.721 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: zlotych (PLN) per US dollar -<br>
+4.204 (2023 est.)<br>
 4.458 (2022 est.)<br>
 3.862 (2021 est.)<br>
 3.9 (2020 est.)<br>
 3.839 (2019 est.)<br>
-3.612 (2018 est.)<br>
 
 ## Energy
 
@@ -699,8 +699,8 @@ Polish Armed Forces (Polskie Siły Zbrojne): Land Forces (Wojska Ladowe), Navy (
 2.2% of GDP (2020)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 120,000 active-duty personnel (65,000 Army; 7,000 Navy; 15,000 Air Force; 3,000 Special Forces; 30,000 joint service/other); approximately 40,000 Territorial Defense Forces (2024)<br>
-<strong>note: </strong>in June 2019, the Polish Government approved a plan to increase the size of the military over a period of 10 years to over 200,000 troops, including doubling the size of the Territorial Defense Forces; in 2021, it announced further plans to increase the size of the military to over 300,000 personnel<br>
+approximately 210,000 including air, ground, naval, special forces, and Territorial Defense Forces (2024)<br>
+<strong>note: </strong>a new national defense law in 2022 set a goal to double the size of Poland’s armed forces to 300,000 personnel, including 250,000 professional soldiers and 50,000 territorials<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of a mix of some Soviet-era and a growing amount of more modern, NATO-compatible, weapons systems; in recent years, the leading suppliers of armaments have included several European countries, South Korea, and the US; Poland has a large domestic defense sector that produces or provides upgrades to a wide variety of weapons systems, particularly ground systems such as tanks and other armored vehicles; it also cooperates with the European and US defense sectors (2023)<br>
@@ -724,13 +724,13 @@ Polish Space Agency (POLSA; established 2014; operational in 2015); Space Resear
 
 **Space program overview**<br>
 space program is integrated within the framework of the European Space Agency (ESA); builds satellites, including nano/cube remote sensing (RS) and educational/scientific/technology satellites; researches and develops communications, RS, navigational, and other scientific applications for satellite payloads; creating infrastructure for receiving, storing, processing and distributing data from meteorological and environmental satellites; researches and develops other space-related technologies, including sensors and robotic probes for interplanetary landers, and launcher systems; participates in international space programs and cooperates with a variety of foreign space agencies and industries, including those of Brazil, Canada, China, ESA/EU member states (particularly France, Germany, Italy), India, Japan, Mexico, Russia, Ukraine, UK, and the US; has a growing commercial space sector with more than 300 active enterprises (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

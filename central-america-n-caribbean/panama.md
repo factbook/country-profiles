@@ -19,7 +19,7 @@ Central America, bordering both the Caribbean Sea and the North Pacific Ocean, b
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 75,420 sq km<br>
+_total _: 75,420 sq km<br>
 _land_: 74,340 sq km<br>
 _water_: 1,080 sq km<br>
 
@@ -387,31 +387,31 @@ _selected World Heritage Site locales_: Caribbean Fortifications (c); Darien Nat
 upper middle-income Central American economy; increasing Chinese trade; US dollar user; canal expansion fueling broader infrastructure investment; services sector dominates economy; historic money-laundering and illegal drug hub<br>
 
 **Real GDP (purchasing power parity)**<br>
-$146.658 billion (2022 est.)<br>
-$132.352 billion (2021 est.)<br>
-$114.258 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$159.867 billion (2023 est.)<br>
+$148.968 billion (2022 est.)<br>
+$134.436 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+7.32% (2023 est.)<br>
 10.81% (2022 est.)<br>
 15.84% (2021 est.)<br>
--17.67% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$33,300 (2022 est.)<br>
-$30,400 (2021 est.)<br>
-$26,600 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$35,800 (2023 est.)<br>
+$33,800 (2022 est.)<br>
+$30,900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$76.523 billion (2022 est.)<br>
+$83.382 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+1.49% (2023 est.)<br>
 2.86% (2022 est.)<br>
 1.63% (2021 est.)<br>
--1.55% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -441,17 +441,17 @@ sugarcane, bananas, rice, oranges, oil palm fruit, plantains, chicken, milk, pin
 construction, brewing, cement and other construction materials, sugar milling<br>
 
 **Industrial production growth rate**<br>
-12.73% (2022 est.)<br>
+13.06% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.05 million (2022 est.)<br>
+2.096 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+6.7% (2023 est.)<br>
 8.2% (2022 est.)<br>
 10.45% (2021 est.)<br>
-14.18% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -464,7 +464,7 @@ _female_: 43.6%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-50.9 (2021 est.)<br>
+48.9 (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -472,14 +472,14 @@ _on food_: 15.7% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 1.7% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.2%<br>
-_highest 10%_: 39.4% (2021 est.)<br>
+_lowest 10%_: 1.2% (2023 est.)<br>
+_highest 10%_: 36.9% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.68% of GDP (2022 est.)<br>
+0.64% of GDP (2023 est.)<br>
+0.69% of GDP (2022 est.)<br>
 0.84% of GDP (2021 est.)<br>
-0.8% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -498,15 +498,15 @@ _expenditures_: $15.145 billion (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$3.001 billion (2022 est.)<br>
--$2.051 billion (2021 est.)<br>
--$189.254 million (2020 est.)<br>
+-$3.739 billion (2023 est.)<br>
+-$475.146 million (2022 est.)<br>
+-$778.779 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$36.145 billion (2022 est.)<br>
-$27.338 billion (2021 est.)<br>
-$19.792 billion (2020 est.)<br>
+$36.569 billion (2023 est.)<br>
+$35.731 billion (2022 est.)<br>
+$27.488 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -518,9 +518,9 @@ copper ore, ships, fish, bananas, refined petroleum (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$35.692 billion (2022 est.)<br>
-$24.424 billion (2021 est.)<br>
-$17.614 billion (2020 est.)<br>
+$36.135 billion (2023 est.)<br>
+$32.693 billion (2022 est.)<br>
+$24.459 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -532,9 +532,9 @@ crude petroleum, refined petroleum, ships, garments, packaged medicine (2022)<br
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$6.757 billion (2023 est.)<br>
 $6.876 billion (2022 est.)<br>
 $8.832 billion (2021 est.)<br>
-$9.614 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -543,11 +543,11 @@ $94.898 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: balboas (PAB) per US dollar -<br>
+1 (2023 est.)<br>
 1 (2022 est.)<br>
 1 (2021 est.)<br>
 1 (2020 est.)<br>
 1 (2019 est.)<br>
-1 (2018 est.)<br>
 
 ## Energy
 
@@ -668,11 +668,11 @@ no regular military forces; the paramilitary Panamanian Public Forces are under 
 <strong>note:</strong> the PNP includes a special forces directorate with counterterrorism and counternarcotics units; SENAFRONT has three regionally based border security brigades, plus a specialized brigade comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
 
 **Military expenditures**<br>
+1.1% of GDP (2023 est.)<br>
 1.2% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
-1.2% of GDP (2019)<br>
-1.1% of GDP (2018)<br>
+1.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 27,000 Ministry of Public Security personnel (2023)<br>

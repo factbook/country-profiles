@@ -19,7 +19,7 @@ Central Europe, between Germany, Poland, Slovakia, and Austria<br>
 Europe<br>
 
 **Area**<br>
-_total_: 78,867 sq km<br>
+_total _: 78,867 sq km<br>
 _land_: 77,247 sq km<br>
 _water_: 1,620 sq km<br>
 
@@ -74,7 +74,7 @@ a fairly even distribution throughout most of the country, but the northern and 
 flooding<br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> landlocked; strategically located astride some of oldest and most significant land routes in Europe; Moravian Gate is a traditional military corridor between the North European Plain and the Danube in central Europe<br><br><strong>note 2:</strong> the Hranice Abyss in Czechia is the world's deepest surveyed underwater cave at 404 m (1,325 ft); its survey is not complete and it could end up being some 800-1,200 m deep<br>
+<strong>note 1:</strong> landlocked; strategically located astride some of oldest and most significant land routes in Europe; Moravian Gate is a traditional military corridor between the North European Plain and the Danube in central Europe<br><br><strong>note 2:</strong> the Hranice Abyss in Czechia is the world's deepest surveyed underwater cave at 404 m (1,325 ft); its survey is not complete, and it could end up being some 800-1,200 m deep<br>
 
 ## People and Society
 
@@ -394,31 +394,31 @@ _selected World Heritage Site locales_: Historic Prague (c); Historic Telč (c);
 high-income, diversified EU economy; manufacturing-oriented exporter led by automotive industry; growth stalled by inflation and energy supply disruption; business-friendly regulatory frameworks; tight labor market with low unemployment; seeking reforms to support decarbonization and improve energy efficiency<br>
 
 **Real GDP (purchasing power parity)**<br>
-$438.119 billion (2022 est.)<br>
-$428.052 billion (2021 est.)<br>
-$413.365 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$519.007 billion (2023 est.)<br>
+$520.629 billion (2022 est.)<br>
+$508.67 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+-0.31% (2023 est.)<br>
 2.35% (2022 est.)<br>
 3.55% (2021 est.)<br>
--5.5% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$41,100 (2022 est.)<br>
-$40,700 (2021 est.)<br>
-$38,600 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$47,700 (2023 est.)<br>
+$48,800 (2022 est.)<br>
+$48,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$290.528 billion (2022 est.)<br>
+$330.858 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+10.66% (2023 est.)<br>
 15.1% (2022 est.)<br>
 3.84% (2021 est.)<br>
-3.16% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -448,17 +448,17 @@ wheat, sugar beets, milk, barley, rapeseed, potatoes, maize, pork, triticale, oa
 motor vehicles, metallurgy, machinery and equipment, glass, armaments<br>
 
 **Industrial production growth rate**<br>
-0.91% (2022 est.)<br>
+-0.44% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.373 million (2022 est.)<br>
+5.502 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+2.59% (2023 est.)<br>
 2.22% (2022 est.)<br>
 2.8% (2021 est.)<br>
-2.55% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -471,7 +471,7 @@ _female_: 8.7%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-26.2 (2020 est.)<br>
+26.2 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -479,14 +479,14 @@ _on food_: 16.1% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 8.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4%<br>
-_highest 10%_: 22.5% (2020 est.)<br>
+_lowest 10%_: 3.9% (2021 est.)<br>
+_highest 10%_: 22.2% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+1.27% of GDP (2023 est.)<br>
 1.43% of GDP (2022 est.)<br>
 1.56% of GDP (2021 est.)<br>
-1.7% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -501,19 +501,19 @@ _expenditures_: $103.167 billion (2019 est.)<br>
 36.8% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-13.36% (of GDP) (2021 est.)<br>
+13.13% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$1.281 billion (2023 est.)<br>
 -$17.366 billion (2022 est.)<br>
 -$7.686 billion (2021 est.)<br>
-$4.967 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$236.688 billion (2023 est.)<br>
 $217.731 billion (2022 est.)<br>
 $205.626 billion (2021 est.)<br>
-$172.837 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -525,9 +525,9 @@ cars, vehicle parts/accessories, broadcasting equipment, computers, plastic prod
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$219.393 billion (2023 est.)<br>
 $218.002 billion (2022 est.)<br>
 $197.515 billion (2021 est.)<br>
-$156.129 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -539,9 +539,9 @@ broadcasting equipment, vehicle parts/accessories, natural gas, machine parts, p
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$148.379 billion (2023 est.)<br>
 $139.981 billion (2022 est.)<br>
 $173.618 billion (2021 est.)<br>
-$166.126 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -550,11 +550,11 @@ $200.197 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: koruny (CZK) per US dollar -<br>
+22.198 (2023 est.)<br>
 23.357 (2022 est.)<br>
 21.678 (2021 est.)<br>
 23.21 (2020 est.)<br>
 22.932 (2019 est.)<br>
-21.73 (2018 est.)<br>
 
 ## Energy
 

@@ -19,7 +19,7 @@ Southern Africa, east of Angola, south of the Democratic Republic of the Congo<b
 Africa<br>
 
 **Area**<br>
-_total_: 752,618 sq km<br>
+_total _: 752,618 sq km<br>
 _land_: 743,398 sq km<br>
 _water_: 9,220 sq km<br>
 
@@ -410,31 +410,31 @@ _selected World Heritage Site locales_: Mosi-oa-Tunya/Victoria Falls<br>
 lower middle-income Sub-Saharan economy; major copper exporter; high public debt is held mostly by China; systemic corruption; one of youngest and fastest growing labor forces; regional hydroelectricity exporter; extreme rural poverty<br>
 
 **Real GDP (purchasing power parity)**<br>
-$67.377 billion (2022 est.)<br>
-$64.016 billion (2021 est.)<br>
-$60.259 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$76.493 billion (2023 est.)<br>
+$72.277 billion (2022 est.)<br>
+$68.672 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+5.83% (2023 est.)<br>
 5.25% (2022 est.)<br>
 6.23% (2021 est.)<br>
--2.79% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,400 (2022 est.)<br>
-$3,300 (2021 est.)<br>
-$3,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$3,700 (2023 est.)<br>
+$3,600 (2022 est.)<br>
+$3,500 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$29.164 billion (2022 est.)<br>
+$28.163 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+10.88% (2023 est.)<br>
 10.99% (2022 est.)<br>
 22.02% (2021 est.)<br>
-15.73% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -464,17 +464,17 @@ sugarcane, cassava, maize, milk, soybeans, vegetables, wheat, groundnuts, beef, 
 copper mining and processing, emerald mining, construction, foodstuffs, beverages, chemicals, textiles, fertilizer, horticulture<br>
 
 **Industrial production growth rate**<br>
--2.23% (2022 est.)<br>
+1.73% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-6.827 million (2022 est.)<br>
+7.051 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.37% (2022 est.)<br>
+5.91% (2023 est.)<br>
+5.99% (2022 est.)<br>
 5.2% (2021 est.)<br>
-6.03% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -483,22 +483,22 @@ _male_: 26.7%<br>
 _female_: 25.4%<br>
 
 **Population below poverty line**<br>
-54.4% (2015 est.)<br>
+60% (2022 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-55.9 (2015 est.)<br>
+51.5 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.1%<br>
-_highest 10%_: 43.5% (2015 est.)<br>
+_lowest 10%_: 1.4% (2022 est.)<br>
+_highest 10%_: 39.1% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.89% of GDP (2023 est.)<br>
 0.83% of GDP (2022 est.)<br>
 1.08% of GDP (2021 est.)<br>
-0.74% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -510,7 +510,7 @@ _expenditures_: $7.044 billion (2019 est.)<br>
 
 **Public debt**<br>
 71.41% of GDP (2021 est.)<br>
-103.7% of GDP (2020 est.)<br>
+103.54% of GDP (2020 est.)<br>
 61.93% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
@@ -519,9 +519,9 @@ _expenditures_: $7.044 billion (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$1.067 billion (2022 est.)<br>
+$1.093 billion (2022 est.)<br>
 $2.63 billion (2021 est.)<br>
-$2.174 billion (2020 est.)<br>
+$2.139 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
@@ -541,7 +541,7 @@ raw copper, refined copper, gold, precious stones, iron alloys (2022)<br>
 **Imports**<br>
 $10.022 billion (2022 est.)<br>
 $7.691 billion (2021 est.)<br>
-$5.836 billion (2020 est.)<br>
+$5.866 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -564,11 +564,11 @@ $9.562 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Zambian kwacha (ZMK) per US dollar -<br>
+20.212 (2023 est.)<br>
 16.938 (2022 est.)<br>
 20.018 (2021 est.)<br>
 18.344 (2020 est.)<br>
 12.89 (2019 est.)<br>
-10.458 (2018 est.)<br>
 
 ## Energy
 
@@ -681,11 +681,11 @@ Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Servi
 <strong>note:</strong> the Zambia National Service is a support organization that also does public work projects<br>
 
 **Military expenditures**<br>
+1.4% of GDP (2023 est.)<br>
 1.2% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
 1.3% of GDP (2020 est.)<br>
 1.3% of GDP (2019 est.)<br>
-1.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 17,000 active troops (15,000 Army; 2,000 Air) (2023)<br>

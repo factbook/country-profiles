@@ -19,7 +19,7 @@ Central Africa, east of the Democratic Republic of the Congo, north of Burundi<b
 Africa<br>
 
 **Area**<br>
-_total_: 26,338 sq km<br>
+_total _: 26,338 sq km<br>
 _land_: 24,668 sq km<br>
 _water_: 1,670 sq km<br>
 
@@ -77,7 +77,7 @@ one of Africa's most densely populated countries; large concentrations tend to b
 <p>periodic droughts; the volcanic Virunga Mountains are in the northwest along the border with Democratic Republic of the Congo</p><p><strong>volcanism:</strong> Visoke (3,711 m), located on the border with the Democratic Republic of the Congo, is the country's only historically active volcano</p><br>
 
 **Geography - note**<br>
-landlocked; most of the country is intensively cultivated and rugged with the population predominantly rural<br>
+landlocked; most of the country is intensively cultivated and rugged, with the population predominantly rural<br>
 
 ## People and Society
 
@@ -402,31 +402,31 @@ _selected World Heritage Site locales_: Memorial sites of the Genocide: Nyamata,
 fast-growing Sub-Saharan economy; major public investments; trade and tourism hit hard by COVID-19; increasing poverty after 2 decades of declines; Ugandan competition for regional influence; major coffee exporter; contested GDP figures<br>
 
 **Real GDP (purchasing power parity)**<br>
-$32.579 billion (2022 est.)<br>
-$30.121 billion (2021 est.)<br>
-$27.167 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$42.701 billion (2023 est.)<br>
+$39.45 billion (2022 est.)<br>
+$36.474 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+8.24% (2023 est.)<br>
 8.16% (2022 est.)<br>
-10.88% (2021 est.)<br>
--3.38% (2020 est.)<br>
+10.86% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,400 (2022 est.)<br>
-$2,200 (2021 est.)<br>
-$2,100 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$3,000 (2023 est.)<br>
+$2,900 (2022 est.)<br>
+$2,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$13.311 billion (2022 est.)<br>
+$14.098 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+19.79% (2023 est.)<br>
 17.69% (2022 est.)<br>
 -0.39% (2021 est.)<br>
-9.85% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -456,17 +456,17 @@ bananas, cassava, sweet potatoes, potatoes, plantains, maize, beans, pumpkins/sq
 cement, agricultural products, small-scale beverages, soap, furniture, shoes, plastic goods, textiles, cigarettes<br>
 
 **Industrial production growth rate**<br>
-4.97% (2022 est.)<br>
+10.25% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.1 million (2022 est.)<br>
+5.283 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-15.08% (2022 est.)<br>
+14.93% (2023 est.)<br>
+15.09% (2022 est.)<br>
 15.79% (2021 est.)<br>
-11.83% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -483,14 +483,14 @@ _female_: 3.6%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.4%<br>
+_lowest 10%_: 2.4% (2016 est.)<br>
 _highest 10%_: 35.6% (2016 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+3.93% of GDP (2023 est.)<br>
 3.56% of GDP (2022 est.)<br>
-3.54% of GDP (2021 est.)<br>
-2.75% of GDP (2020 est.)<br>
+3.53% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -505,19 +505,19 @@ _expenditures_: $2.919 billion (2019 est.)<br>
 37.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-15.08% (of GDP) (2020 est.)<br>
+15.07% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.301 billion (2022 est.)<br>
+-$1.654 billion (2023 est.)<br>
+-$1.246 billion (2022 est.)<br>
 -$1.209 billion (2021 est.)<br>
--$1.228 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$3.509 billion (2023 est.)<br>
 $2.993 billion (2022 est.)<br>
 $2.11 billion (2021 est.)<br>
-$1.929 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -529,9 +529,9 @@ gold, tin ores, coffee, malt extract, rare earth ores (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$4.98 billion (2022 est.)<br>
+$5.783 billion (2023 est.)<br>
+$4.978 billion (2022 est.)<br>
 $3.856 billion (2021 est.)<br>
-$3.578 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -543,9 +543,9 @@ refined petroleum, gold, palm oil, rice, raw sugar (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.834 billion (2023 est.)<br>
 $1.726 billion (2022 est.)<br>
 $1.867 billion (2021 est.)<br>
-$1.72 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -554,11 +554,11 @@ $2.611 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Rwandan francs (RWF) per US dollar -<br>
+1,160.099 (2023 est.)<br>
 1,030.308 (2022 est.)<br>
 988.625 (2021 est.)<br>
 943.278 (2020 est.)<br>
 899.351 (2019 est.)<br>
-861.093 (2018 est.)<br>
 
 ## Energy
 
@@ -657,11 +657,11 @@ _unpaved_: 5,145 km (2024)<br>
 Rwanda Defense Force (RDF; Ingabo z’u Rwanda): Rwanda Army (Rwanda Land Force), Rwanda Air Force (Force Aerienne Rwandaise, FAR), Rwanda Reserve Force, Special Units<br><br>Ministry of Internal Security: Rwanda National Police (2024)<br>
 
 **Military expenditures**<br>
+1.4% of GDP (2023 est.)<br>
 1.4% of GDP (2022 est.)<br>
 1.4% of GDP (2021 est.)<br>
 1.3% of GDP (2020 est.)<br>
 1.2% of GDP (2019 est.)<br>
-1.2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 33,000 active RDF personnel (32,000 Army; 1,000 Air Force) (2023)<br>
@@ -687,7 +687,7 @@ Rwanda Space Agency (L&rsquo;Agence Spatiale Rwandaise; RSA; established 2020 an
 
 **Space program overview**<br>
 has a small program focused on developing and utilizing space technologies, such as satellite imagery for socioeconomic development and security purposes; operates communications and remote sensing (RS) satellites; the RSA is responsible for regulating and coordinating the country’s space activities and encouraging commercial and industrial development; has established ties with the space agencies or industries of several countries, including France, Israel, Japan, the UAE, and the US (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

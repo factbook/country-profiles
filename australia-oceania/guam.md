@@ -19,7 +19,7 @@ Oceania, island in the North Pacific Ocean, about three-quarters of the way from
 Oceania<br>
 
 **Area**<br>
-_total_: 544 sq km<br>
+_total _: 544 sq km<br>
 _land_: 544 sq km<br>
 _water_: 0 sq km<br>
 
@@ -313,9 +313,9 @@ $5.697 billion (2015 est.)<br>
 $5.531 billion (2014 est.)<br>
 
 **Real GDP growth rate**<br>
-1.06% (2021 est.)<br>
--11.39% (2020 est.)<br>
-2.6% (2019 est.)<br>
+5.1% (2022 est.)<br>
+2.06% (2021 est.)<br>
+-10.52% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
@@ -324,7 +324,7 @@ $35,200 (2015 est.)<br>
 $34,400 (2014 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$6.123 billion (2021 est.)<br>
+$6.91 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -355,13 +355,13 @@ national defense, tourism, construction, transshipment services, concrete produc
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-80,000 (2022 est.)<br>
+80,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.57% (2022 est.)<br>
+5.42% (2023 est.)<br>
+5.53% (2022 est.)<br>
 6% (2021 est.)<br>
-6.25% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -408,7 +408,7 @@ refined petroleum, scrap iron, scrap copper, trunks and cases, aircraft parts (2
 $3.667 billion (2021 est.)<br>
 $3.383 billion (2020 est.)<br>
 $3.552 billion (2019 est.)<br>
-<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
+<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 South Korea 37%, Singapore 35%, Japan 12%, Taiwan 3%, Hong Kong 3% (2022)<br>

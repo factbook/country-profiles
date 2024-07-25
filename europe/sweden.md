@@ -19,7 +19,7 @@ Northern Europe, bordering the Baltic Sea, Gulf of Bothnia, Kattegat, and Skager
 Europe<br>
 
 **Area**<br>
-_total_: 450,295 sq km<br>
+_total _: 450,295 sq km<br>
 _land_: 410,335 sq km<br>
 _water_: 39,960 sq km<br>
 
@@ -393,31 +393,31 @@ _selected World Heritage Site locales_: Royal Domain of Drottningholm (c); Lapon
 high-income, largest Nordic economy; EU member but non-euro user; export-oriented led by automotive, electronics, machinery and pharmaceuticals; highly ranked for competitiveness, R&amp;D investments and governance; slowdown triggered by high inflation, weak consumption and financial tightening<br>
 
 **Real GDP (purchasing power parity)**<br>
-$580.099 billion (2022 est.)<br>
-$564.124 billion (2021 est.)<br>
-$531.455 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$676.353 billion (2023 est.)<br>
+$677.682 billion (2022 est.)<br>
+$660.102 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.83% (2022 est.)<br>
+-0.2% (2023 est.)<br>
+2.66% (2022 est.)<br>
 6.15% (2021 est.)<br>
--2.17% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$55,300 (2022 est.)<br>
-$54,200 (2021 est.)<br>
-$51,300 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$64,200 (2023 est.)<br>
+$64,600 (2022 est.)<br>
+$63,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$591.189 billion (2022 est.)<br>
+$593.268 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.55% (2023 est.)<br>
 8.37% (2022 est.)<br>
 2.16% (2021 est.)<br>
-0.5% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -447,17 +447,17 @@ wheat, milk, sugar beets, barley, potatoes, oats, rapeseed, pork, chicken, triti
 iron and steel, precision equipment (bearings, radio and telephone parts, armaments), wood pulp and paper products, processed foods, motor vehicles<br>
 
 **Industrial production growth rate**<br>
-2.1% (2022 est.)<br>
+-2.68% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.724 million (2022 est.)<br>
+5.825 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+7.59% (2023 est.)<br>
 7.39% (2022 est.)<br>
 8.72% (2021 est.)<br>
-8.29% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -466,11 +466,11 @@ _male_: 26.1%<br>
 _female_: 23%<br>
 
 **Population below poverty line**<br>
-16% (2021 est.)<br>
+16.1% (2022 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-28.9 (2020 est.)<br>
+29.8 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -478,14 +478,14 @@ _on food_: 12.7% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3%<br>
-_highest 10%_: 22.4% (2020 est.)<br>
+_lowest 10%_: 2.8% (2021 est.)<br>
+_highest 10%_: 22.7% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.62% of GDP (2023 est.)<br>
 0.56% of GDP (2022 est.)<br>
 0.49% of GDP (2021 est.)<br>
-0.57% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -496,25 +496,25 @@ _expenditures_: $256.454 billion (2019 est.)<br>
 1.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-40.48% of GDP (2021 est.)<br>
-43.99% of GDP (2020 est.)<br>
-38.67% of GDP (2019 est.)<br>
+36.25% of GDP (2022 est.)<br>
+40.49% of GDP (2021 est.)<br>
+44.02% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-27.21% (of GDP) (2021 est.)<br>
+27.11% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$28.491 billion (2022 est.)<br>
-$43.475 billion (2021 est.)<br>
-$32.355 billion (2020 est.)<br>
+$40.073 billion (2023 est.)<br>
+$31.881 billion (2022 est.)<br>
+$45.248 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$314.019 billion (2022 est.)<br>
+$324.073 billion (2023 est.)<br>
+$314.412 billion (2022 est.)<br>
 $299.365 billion (2021 est.)<br>
-$241.94 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -526,9 +526,9 @@ refined petroleum, cars, packaged medicine, paper, electricity (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$296.552 billion (2022 est.)<br>
+$296.796 billion (2023 est.)<br>
+$298.253 billion (2022 est.)<br>
 $268.334 billion (2021 est.)<br>
-$217.165 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -540,9 +540,9 @@ crude petroleum, cars, refined petroleum, broadcasting equipment, garments (2022
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$60.863 billion (2023 est.)<br>
 $64.289 billion (2022 est.)<br>
 $62.053 billion (2021 est.)<br>
-$58.26 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -551,11 +551,11 @@ $1,012,171,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Swedish kronor (SEK) per US dollar -<br>
+10.61 (2023 est.)<br>
 10.114 (2022 est.)<br>
 8.577 (2021 est.)<br>
 9.21 (2020 est.)<br>
 9.458 (2019 est.)<br>
-8.693 (2018 est.)<br>
 
 ## Energy
 
@@ -717,13 +717,13 @@ Esrange Space Center (Kiruna) (2024)<br>
 
 **Space program overview**<br>
 member of the European Space Agency (ESA) and program is integrated within the framework of the ESA; produces and operates satellites; builds and launches sounding rockets; involved in the research, development, production, and operations of a wide variety of other space-related areas and capabilities, including astronomy, atmospheric monitoring, geographic information systems, infrared imaging, meteorology, propulsion systems, remote sensing, satellite subsystems, spacecraft systems and structures, space physics, scientific research, stratospheric balloons, and telecommunications; conducts extensive bilateral and multilateral international cooperation, in particular through the ESA and EU and their member states, as well as with the US; has a robust commercial space industry involved in a broad range of space-related capabilities (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

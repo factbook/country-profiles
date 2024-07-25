@@ -19,7 +19,7 @@ Western Africa, north of Ghana<br>
 Africa<br>
 
 **Area**<br>
-_total_: 274,200 sq km<br>
+_total _: 274,200 sq km<br>
 _land_: 273,800 sq km<br>
 _water_: 400 sq km<br>
 
@@ -404,31 +404,31 @@ _selected World Heritage Site locales_: Ruins of Lorop&eacute;ni (c); Ancient Fe
 highly agrarian, low-income economy; limited natural resources; widespread poverty; terrorism disrupting potential economic activity; improving trade balance via increases in gold exports; economy inflating after prior deflation; growing public debt but still manageable<br>
 
 **Real GDP (purchasing power parity)**<br>
-$48.949 billion (2022 est.)<br>
-$48.093 billion (2021 est.)<br>
-$44.973 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$57.152 billion (2023 est.)<br>
+$55.508 billion (2022 est.)<br>
+$54.539 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.96% (2023 est.)<br>
 1.78% (2022 est.)<br>
 6.94% (2021 est.)<br>
-1.92% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,200 (2022 est.)<br>
-$2,200 (2021 est.)<br>
-$2,100 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2,500 (2023 est.)<br>
+$2,400 (2022 est.)<br>
+$2,500 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$18.82 billion (2022 est.)<br>
+$20.325 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+0.74% (2023 est.)<br>
 14.29% (2022 est.)<br>
 3.65% (2021 est.)<br>
-1.88% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -456,17 +456,17 @@ sorghum, maize, fruits, vegetables, millet, cowpeas, cotton, groundnuts, sugarca
 cotton lint, beverages, agricultural processing, soap, cigarettes, textiles, gold<br>
 
 **Industrial production growth rate**<br>
--8.28% (2022 est.)<br>
+1.95% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.328 million (2022 est.)<br>
+8.577 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.07% (2022 est.)<br>
-5.36% (2021 est.)<br>
-5.15% (2020 est.)<br>
+5.29% (2023 est.)<br>
+5.35% (2022 est.)<br>
+5.11% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -475,22 +475,22 @@ _male_: 7.5%<br>
 _female_: 8%<br>
 
 **Population below poverty line**<br>
-41.4% (2018 est.)<br>
+43.2% (2021 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-43 (2018 est.)<br>
+37.4 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.6%<br>
-_highest 10%_: 35.3% (2018 est.)<br>
+_lowest 10%_: 3% (2021 est.)<br>
+_highest 10%_: 30.2% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.13% of GDP (2022 est.)<br>
+2.85% of GDP (2023 est.)<br>
+2.78% of GDP (2022 est.)<br>
 2.91% of GDP (2021 est.)<br>
-2.96% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -501,25 +501,25 @@ _expenditures_: $3.757 billion (2019 est.)<br>
 -7.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+62.53% of GDP (2022 est.)<br>
 55.74% of GDP (2021 est.)<br>
 73.39% of GDP (2020 est.)<br>
-47.06% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-15.98% (of GDP) (2021 est.)<br>
+17.67% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$1.404 billion (2022 est.)<br>
 $77.255 million (2021 est.)<br>
 $743.232 million (2020 est.)<br>
--$523.837 million (2019 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$5.814 billion (2022 est.)<br>
 $6.234 billion (2021 est.)<br>
 $5.356 billion (2020 est.)<br>
-$4.468 billion (2019 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -531,9 +531,9 @@ gold, cotton, oil seeds, coconuts/Brazil nuts/cashews, zinc ore (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$6.761 billion (2022 est.)<br>
 $5.835 billion (2021 est.)<br>
 $4.779 billion (2020 est.)<br>
-$5.023 billion (2019 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -554,11 +554,11 @@ $2.88 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
-555.446 (2018 est.)<br>
 
 ## Energy
 
@@ -653,11 +653,11 @@ Armed Forces of Burkina Faso (FABF; aka National Armed Forces (FAN), aka Defense
 <strong>note 1:</strong> the National Gendarmerie officially reports to the Ministry of Defense, but usually operates in support of the Ministry of Territorial Administration, Decentralization, and Security; Gendarmerie troops are typically integrated with Army forces in anti-terrorism operations; specialized counterterrorism units include the Army's special forces, the Special Legion of the National Gendarmerie, and the Multipurpose Intervention Unit of National Police<br><br><strong>note 2:</strong> the VDP is a lightly-armed civilian defense/militia force established in 2019 to act as auxiliaries to the Army in the fight against militants; the volunteers receive two weeks of training and typically assist with carrying out surveillance, information-gathering, and escort duties, as well as local defense, and were to be based in each of the country's more than 300 municipalities; in 2022, the military government created a "Patriotic Watch and Defense Brigade" (La Brigade de Veille et de Défense Patriotique or BVDP) under the FABF to coordinate the VDP recruits<br>
 
 **Military expenditures**<br>
+4% of GDP (2023 est.)<br>
 2.9% of GDP (2022 est.)<br>
 2.4% of GDP (2021 est.)<br>
 2.4% of GDP (2020 est.)<br>
 2.2% of GDP (2019 est.)<br>
-1.9% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 15,500 personnel (10,000 Army; 500 Air Force; 5,000 National Gendarmerie) (2023)<br>
@@ -677,7 +677,7 @@ the FABF has a history of interference in the country’s politics, having condu
 
 **Terrorist group(s)**<br>
 Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); al-Mulathamun Battalion (al-Mourabitoun); Jama'at Nusrat al-Islam wal-Muslimin (JNIM)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

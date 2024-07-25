@@ -5,7 +5,7 @@ _East & Southeast Asia / Dependencies (China)_
 ## Introduction
 
 **Background**<br>
-The UK seized Hong Kong in 1841, and China formally ceded it the following year at the end of the First Opium War. The Kowloon Peninsula was added in 1860 at the end of the Second Opium War, and the UK obtained a 99-year lease of the New Territories in 1898. Pursuant to a UK-China agreement in 1984, Hong Kong became the Hong Kong Special Administrative Region (HKSAR) of the People's Republic of China as of 1 July 1997. In this agreement, China promised that, under its "one country, two systems" formula, China's socialist economic and strict political system would not be imposed on Hong Kong and that Hong Kong would enjoy a "high degree of autonomy" in all matters except foreign and defense affairs for the next 50 years. <br><br>Since the handover, Hong Kong has continued to enjoy success as an international financial center. However, dissatisfaction with the Hong Kong Government and growing Chinese political influence have been central issues and have led to considerable civil unrest, including large-scale pro-democracy demonstrations in 2019 after the HKSAR attempted to revise a local ordinance to allow extraditions to mainland China. In response to the protests, the governments of the HKSAR and China reduced the city's autonomy and placed new restrictions on the rights of Hong Kong residents, moves that were widely criticized as contravening obligations under the Hong Kong Basic Law and the Sino-British Joint Declaration. Democratic lawmakers and political figures were arrested in a widespread crackdown, while others fled abroad. At the same time, dozens of civil society groups and several independent media outlets were closed or disbanded. In 2021, Beijing imposed a more restrictive electoral system, restructuring the Legislative Council (LegCo) and allowing only government-approved candidates to run for office. The changes ensured that virtually all seats in the 2021 LegCo election went to pro-establishment candidates and effectively ended political opposition to Beijing. In 2024, the LegCo passed a new national security law (Article 23 of the Basic Law) further expanding the Hong Kong Government's power to curb dissent.<br>
+The UK seized Hong Kong in 1841, and China formally ceded it the following year at the end of the First Opium War. The Kowloon Peninsula was added in 1860 at the end of the Second Opium War, and the UK obtained a 99-year lease of the New Territories in 1898. Pursuant to a UK-China agreement in 1984, Hong Kong became the Hong Kong Special Administrative Region (HKSAR) of the People's Republic of China as of 1 July 1997. In this agreement, China promised that, under its "one country, two systems" formula, China's socialist economic and strict political system would not be imposed on Hong Kong and that Hong Kong would enjoy a "high degree of autonomy" in all matters except foreign and defense affairs for the next 50 years. <br><br>After the handover, Hong Kong continued to enjoy success as an international financial center. However, growing Chinese political influence and dissatisfaction with the Hong Kong Government in the 2010s became central issues and led to considerable civil unrest, including large-scale pro-democracy demonstrations in 2019 after the HKSAR attempted to revise a local ordinance to allow extraditions to mainland China. In response to the protests, the governments of the HKSAR and China reduced the city's autonomy and placed new restrictions on the rights of Hong Kong residents, moves that were widely criticized as contravening obligations under the Hong Kong Basic Law and the Sino-British Joint Declaration. Democratic lawmakers and political figures were arrested in a widespread crackdown, while others fled abroad. At the same time, dozens of civil society groups and several independent media outlets were closed or disbanded. In 2021, Beijing imposed a more restrictive electoral system, restructuring the Legislative Council (LegCo) and allowing only government-approved candidates to run for office. The changes ensured that virtually all seats in the 2021 LegCo election went to pro-establishment candidates and effectively ended political opposition to Beijing. In 2024, the LegCo passed a new national security law (Article 23 of the Basic Law) further expanding the Hong Kong Government's power to curb dissent.<br>
 
 ## Geography
 
@@ -19,7 +19,7 @@ Eastern Asia, bordering the South China Sea and China<br>
 Southeast Asia<br>
 
 **Area**<br>
-_total_: 1,108 sq km<br>
+_total _: 1,108 sq km<br>
 _land_: 1,073 sq km<br>
 _water_: 35 sq km<br>
 
@@ -327,31 +327,31 @@ orchid tree flower; national colors: red, white<br>
 high-income tourism- and services-based economy; global financial hub; COVID-19 and political protests fueled recent recession; ongoing recovery but lower-skilled unemployment remains high; investing in job-reskilling programs<br>
 
 **Real GDP (purchasing power parity)**<br>
-$429.592 billion (2022 est.)<br>
-$445.064 billion (2021 est.)<br>
-$418.129 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$485.559 billion (2023 est.)<br>
+$470.434 billion (2022 est.)<br>
+$488.412 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--3.48% (2022 est.)<br>
-6.44% (2021 est.)<br>
--6.54% (2020 est.)<br>
+3.22% (2023 est.)<br>
+-3.68% (2022 est.)<br>
+6.45% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$58,500 (2022 est.)<br>
-$60,000 (2021 est.)<br>
-$55,900 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$64,400 (2023 est.)<br>
+$64,000 (2022 est.)<br>
+$65,900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$359.839 billion (2022 est.)<br>
+$382.055 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.1% (2023 est.)<br>
 1.88% (2022 est.)<br>
 1.57% (2021 est.)<br>
-0.25% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -381,17 +381,17 @@ pork, chicken, spinach, vegetables, game meat, pork offal, fruits, onions, lettu
 trading and logistics, financial services, professional services, tourism, cultural and creative, clothing and textiles, shipping, electronics, toys, clocks and watches<br>
 
 **Industrial production growth rate**<br>
-3.19% (2022 est.)<br>
+5.06% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.761 million (2022 est.)<br>
+3.825 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+3.93% (2023 est.)<br>
 4.32% (2022 est.)<br>
 5.17% (2021 est.)<br>
-5.81% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -414,9 +414,9 @@ _lowest 10%_: 1.8%<br>
 _highest 10%_: 38.1% (2016)<br>
 
 **Remittances**<br>
+0.11% of GDP (2023 est.)<br>
 0.12% of GDP (2022 est.)<br>
 0.12% of GDP (2021 est.)<br>
-0.12% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -434,15 +434,15 @@ _expenditures_: $105.849 billion (2020 est.)<br>
 23.2% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
-$37.909 billion (2022 est.)<br>
+$35.366 billion (2023 est.)<br>
+$36.525 billion (2022 est.)<br>
 $43.659 billion (2021 est.)<br>
-$24.126 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$697.586 billion (2022 est.)<br>
+$673.305 billion (2023 est.)<br>
+$697.583 billion (2022 est.)<br>
 $752.621 billion (2021 est.)<br>
-$608.192 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -454,9 +454,9 @@ gold, integrated circuits, gas turbines, broadcasting equipment, machine parts (
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$683.415 billion (2022 est.)<br>
+$670.085 billion (2023 est.)<br>
+$682.881 billion (2022 est.)<br>
 $732.087 billion (2021 est.)<br>
-$601.528 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -468,9 +468,9 @@ integrated circuits, broadcasting equipment, machine parts, gold, jewelry (2022)
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$425.553 billion (2023 est.)<br>
 $424.025 billion (2022 est.)<br>
 $496.856 billion (2021 est.)<br>
-$491.755 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -479,11 +479,11 @@ $1,670,919,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Hong Kong dollars (HKD) per US dollar -<br>
+7.83 (2023 est.)<br>
 7.831 (2022 est.)<br>
 7.773 (2021 est.)<br>
 7.757 (2020 est.)<br>
 7.836 (2019 est.)<br>
-7.839 (2018 est.)<br>
 
 ## Energy
 

@@ -19,7 +19,7 @@ Western Europe, bordering the North Sea, between Belgium and Germany<br>
 Europe<br>
 
 **Area**<br>
-_total_: 41,543 sq km<br>
+_total _: 41,543 sq km<br>
 _land_: 33,893 sq km<br>
 _water_: 7,650 sq km<br>
 
@@ -399,31 +399,31 @@ _selected World Heritage Site locales_: Schokland and Surroundings (c); Dutch Wa
 high-income, core EU- and eurozone-member economy; trade-oriented with strong services, logistics, and high tech sectors; exiting mild recession triggered by inflation and weak export demand; tight labor market; low deficits and manageable public debt; strong ratings for innovation, competitiveness, and business climate<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.049 trillion (2022 est.)<br>
-$1.005 trillion (2021 est.)<br>
-$946.637 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.24 trillion (2023 est.)<br>
+$1.238 trillion (2022 est.)<br>
+$1.187 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+0.12% (2023 est.)<br>
 4.33% (2022 est.)<br>
 6.19% (2021 est.)<br>
--3.89% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$59,200 (2022 est.)<br>
-$57,300 (2021 est.)<br>
-$54,300 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$69,300 (2023 est.)<br>
+$70,000 (2022 est.)<br>
+$67,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.009 trillion (2022 est.)<br>
+$1.118 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.84% (2023 est.)<br>
 10% (2022 est.)<br>
 2.68% (2021 est.)<br>
-1.27% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -453,17 +453,17 @@ milk, sugar beets, potatoes, pork, onions, wheat, chicken, tomatoes, carrots/tur
 agroindustries, metal and engineering products, electrical machinery and equipment, chemicals, petroleum, construction, microelectronics, fishing<br>
 
 **Industrial production growth rate**<br>
-2.84% (2022 est.)<br>
+-2.02% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-9.794 million (2022 est.)<br>
+9.999 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+3.56% (2023 est.)<br>
 3.52% (2022 est.)<br>
 4.21% (2021 est.)<br>
-3.82% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -476,7 +476,7 @@ _female_: 9.2%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-26 (2020 est.)<br>
+25.7 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -484,14 +484,14 @@ _on food_: 12.1% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3.3% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.6%<br>
-_highest 10%_: 21.6% (2020 est.)<br>
+_lowest 10%_: 3.6% (2021 est.)<br>
+_highest 10%_: 21.4% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.24% of GDP (2023 est.)<br>
 0.23% of GDP (2022 est.)<br>
 0.22% of GDP (2021 est.)<br>
-0.23% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -507,19 +507,19 @@ _expenditures_: $374.166 billion (2019 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment, debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-24.35% (of GDP) (2021 est.)<br>
+24.11% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$112.952 billion (2023 est.)<br>
 $93.836 billion (2022 est.)<br>
 $124.924 billion (2021 est.)<br>
-$46.849 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$949.983 billion (2023 est.)<br>
 $944.421 billion (2022 est.)<br>
 $865.094 billion (2021 est.)<br>
-$712.412 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -531,9 +531,9 @@ refined petroleum, broadcasting equipment, machinery, packaged medicine, crude p
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$825.799 billion (2023 est.)<br>
 $835.47 billion (2022 est.)<br>
 $749.324 billion (2021 est.)<br>
-$620.63 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -545,9 +545,9 @@ crude petroleum, refined petroleum, natural gas, broadcasting equipment, compute
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$69.83 billion (2023 est.)<br>
 $63.353 billion (2022 est.)<br>
 $64.469 billion (2021 est.)<br>
-$53.971 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -556,11 +556,11 @@ $4,625,016,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 
 ## Energy
 
@@ -724,13 +724,13 @@ Netherlands Space Office (NSO; established 2009); Netherlands Institute for Spac
 
 **Space program overview**<br>
 has an active space program focused on the added value of space on science, the economy, and society, as well as the development of cutting edge space technologies and services based on satellite data; builds and operates satellites; researches and develops technologies related to astrophysics, telecommunications, remote sensing (RS), propulsion systems, atmospheric measuring instruments (such as spectrometers), planetary/exoplanetary research, and robotics; active member of the European Space Agency (ESA) and participates in the construction of ESA satellite launch vehicles (Arienne and VEGA) and in the ESA astronaut training program; participates in international space programs and with other foreign space agencies and industries, including those of Japan, the US, and members of the EU; has a robust commercial space sector tied in to the larger European space economy (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

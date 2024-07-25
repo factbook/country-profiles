@@ -19,7 +19,7 @@ Oceania, consists of 29 atolls and five isolated islands in the North Pacific Oc
 Oceania<br>
 
 **Area**<br>
-_total_: 181 sq km<br>
+_total _: 181 sq km<br>
 _land_: 181 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> the archipelago includes 11,673 sq km of lagoon waters and encompasses the atolls of Bikini, Enewetak, Kwajalein, Majuro, Rongelap, and Utirik<br>
@@ -360,25 +360,25 @@ _selected World Heritage Site locales_: Bikini Atoll Nuclear Test Site<br>
 upper middle-income Pacific island economy; US aid reliance; large public sector; coconut oil production as diesel fuel substitute; growing offshore banking locale; fishing rights seller; import-dependent<br>
 
 **Real GDP (purchasing power parity)**<br>
-$249.595 million (2022 est.)<br>
-$251.292 million (2021 est.)<br>
-$248.528 million (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$283.577 million (2023 est.)<br>
+$274.715 million (2022 est.)<br>
+$276.583 million (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.23% (2023 est.)<br>
 -0.68% (2022 est.)<br>
 1.11% (2021 est.)<br>
--2.85% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$6,000 (2022 est.)<br>
-$6,000 (2021 est.)<br>
-$5,700 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$6,800 (2023 est.)<br>
+$6,600 (2022 est.)<br>
+$6,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$258.774 million (2022 est.)<br>
+$284 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -425,14 +425,14 @@ _female_: 14.2%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.8%<br>
+_lowest 10%_: 2.8% (2019 est.)<br>
 _highest 10%_: 27.5% (2019 est.)<br>
 <strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-11.59% of GDP (2022 est.)<br>
+10.56% of GDP (2023 est.)<br>
+3.23% of GDP (2022 est.)<br>
 13.36% of GDP (2021 est.)<br>
-13.89% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -445,7 +445,7 @@ _expenditures_: $153 million (2019 est.)<br>
 **Public debt**<br>
 41.73% of GDP (2019 est.)<br>
 44.12% of GDP (2018 est.)<br>
-47.95% of GDP (2017 est.)<br>
+47.9% of GDP (2017 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>

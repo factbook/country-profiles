@@ -19,7 +19,7 @@ Oceania, group of islands in the South Pacific Ocean, about halfway between Hawa
 Oceania<br>
 
 **Area**<br>
-_total_: 224 sq km<br>
+_total _: 224 sq km<br>
 _land_: 224 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes Rose Atoll and Swains Island<br>
@@ -382,7 +382,7 @@ animal meal, packaged medicine, machinery, refined petroleum, insulated wire (20
 $677 million (2022 est.)<br>
 $694 million (2021 est.)<br>
 $686 million (2020 est.)<br>
-<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
+<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Malaysia 27%, Singapore 24%, Fiji 12%, South Korea 9%, Taiwan 9% (2022)<br>

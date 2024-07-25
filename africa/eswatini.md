@@ -19,7 +19,7 @@ Southern Africa, between Mozambique and South Africa<br>
 Africa<br>
 
 **Area**<br>
-_total_: 17,364 sq km<br>
+_total _: 17,364 sq km<br>
 _land_: 17,204 sq km<br>
 _water_: 160 sq km<br>
 
@@ -377,25 +377,25 @@ _lyrics/music_: Andrease Enoke Fanyana SIMELANE/David Kenneth RYCROFT<br>
 landlocked southern African economy; South African trade dependent and currency pegging; CMA and SACU member state; COVID-19 economic slowdown; growing utilities inflation; persistent poverty and unemployment; HIV/AIDS labor force disruptions<br>
 
 **Real GDP (purchasing power parity)**<br>
-$10.885 billion (2022 est.)<br>
-$10.834 billion (2021 est.)<br>
-$9.788 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$12.814 billion (2023 est.)<br>
+$12.222 billion (2022 est.)<br>
+$12.164 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+4.84% (2023 est.)<br>
 0.48% (2022 est.)<br>
 10.68% (2021 est.)<br>
--1.56% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$9,100 (2022 est.)<br>
-$9,100 (2021 est.)<br>
-$8,300 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$10,600 (2023 est.)<br>
+$10,200 (2022 est.)<br>
+$10,200 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.791 billion (2022 est.)<br>
+$4.598 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -429,17 +429,17 @@ sugarcane, maize, root vegetables, grapefruits, oranges, milk, pineapples, banan
 soft drink concentrates, coal, forestry, sugar processing, textiles, and apparel<br>
 
 **Industrial production growth rate**<br>
--0.33% (2022 est.)<br>
+1.53% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-399,000 (2022 est.)<br>
+405,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-22.64% (2022 est.)<br>
-24.37% (2021 est.)<br>
-24.77% (2020 est.)<br>
+37.64% (2023 est.)<br>
+37.85% (2022 est.)<br>
+35.71% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -456,14 +456,14 @@ _female_: 54.1%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.4%<br>
+_lowest 10%_: 1.4% (2016 est.)<br>
 _highest 10%_: 42.7% (2016 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+2.62% of GDP (2023 est.)<br>
 2.64% of GDP (2022 est.)<br>
 2.72% of GDP (2021 est.)<br>
-2.82% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -474,11 +474,12 @@ _expenditures_: $1.454 billion (2020 est.)<br>
 -8.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-28.4% of GDP (2017 est.)<br>
-25.5% of GDP (2016 est.)<br>
+35.4% of GDP (2021 est.)<br>
+39.83% of GDP (2020 est.)<br>
+30.61% of GDP (2019 est.)<br>
 
 **Taxes and other revenues**<br>
-28.6% (of GDP) (2017 est.)<br>
+24.13% (of GDP) (2021 est.)<br>
 
 **Current account balance**<br>
 -$140.972 million (2022 est.)<br>
@@ -515,9 +516,9 @@ refined petroleum, gold, plastic products, electricity, garments (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$479.261 million (2023 est.)<br>
 $452.352 million (2022 est.)<br>
 $572.282 million (2021 est.)<br>
-$545.564 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -526,11 +527,11 @@ $456 million (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: emalangeni per US dollar -<br>
+18.454 (2023 est.)<br>
 16.362 (2022 est.)<br>
 14.783 (2021 est.)<br>
 16.47 (2020 est.)<br>
 14.452 (2019 est.)<br>
-13.234 (2018 est.)<br>
 
 ## Energy
 
@@ -621,11 +622,11 @@ _unpaved_: 3,000 km (2022)<br>
 Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing); the Royal Eswatini Police Service (REPS) (2023)<br>
 
 **Military expenditures**<br>
+1.6% of GDP (2023 est.)<br>
+1.6% of GDP (2022 est.)<br>
 1.7% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
 1.9% of GDP (2019 est.)<br>
-2.1% of GDP (2018 est.)<br>
-2.1% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 3,000 active-duty personnel (2022)<br>

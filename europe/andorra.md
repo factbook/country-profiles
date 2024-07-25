@@ -19,7 +19,7 @@ Southwestern Europe, Pyrenees mountains, on the border between France and Spain<
 Europe<br>
 
 **Area**<br>
-_total_: 468 sq km<br>
+_total _: 468 sq km<br>
 _land_: 468 sq km<br>
 _water_: 0 sq km<br>
 
@@ -352,24 +352,25 @@ _selected World Heritage Site locales_: Madriu-Perafita-Claror Valley<br>
 high GDP; low unemployment; non-EU Euro user; co-principality duty-free area between Spain and France; tourist hub but hit hard by COVID-19; modern, non-tax haven financial sector; looking for big tech investments; new member of SEPA and IMF<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.327 billion (2015 est.)<br>
-$3.363 billion (2014 est.)<br>
-$3.273 billion (2013 est.)<br>
-<strong>note:</strong> data are in 2012 dollars<br>
+$5.168 billion (2023 est.)<br>
+$5.094 billion (2022 est.)<br>
+$4.65 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-8.81% (2022 est.)<br>
+1.44% (2023 est.)<br>
+9.56% (2022 est.)<br>
 8.29% (2021 est.)<br>
--11.18% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$49,900 (2015 est.)<br>
-$51,300 (2014 est.)<br>
-$50,300 (2013 est.)<br>
+$64,500 (2023 est.)<br>
+$63,800 (2022 est.)<br>
+$58,800 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.352 billion (2022 est.)<br>
+$3.728 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -394,7 +395,7 @@ small quantities of rye, wheat, barley, oats, vegetables, tobacco, sheep, cattle
 tourism (particularly skiing), banking, timber, furniture<br>
 
 **Industrial production growth rate**<br>
-4.94% (2022 est.)<br>
+3.88% (2023 est.)<br>
 <strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -405,9 +406,9 @@ tourism (particularly skiing), banking, timber, furniture<br>
 4.1% (2015 est.)<br>
 
 **Remittances**<br>
+0% of GDP (2023 est.)<br>
+0% of GDP (2022 est.)<br>
 1.59% of GDP (2021 est.)<br>
-1.64% of GDP (2020 est.)<br>
-0.67% of GDP (2019 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -425,15 +426,15 @@ _expenditures_: $2.06 billion (2016)<br>
 69% (of GDP) (2016)<br>
 
 **Current account balance**<br>
+$583.199 million (2022 est.)<br>
 $467.435 million (2021 est.)<br>
 $448.869 million (2020 est.)<br>
-$568.257 million (2019 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$2.736 billion (2022 est.)<br>
 $2.414 billion (2021 est.)<br>
 $1.842 billion (2020 est.)<br>
-$2.335 billion (2019 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -445,9 +446,9 @@ paintings, integrated circuits, cars, orthopedic appliances, garments (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$2.44 billion (2022 est.)<br>
 $2.143 billion (2021 est.)<br>
 $1.727 billion (2020 est.)<br>
-$2.032 billion (2019 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -463,11 +464,11 @@ $0 (2016)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.951 (2022 est.)<br>
+0.925 (2023 est.)<br>
+0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
-0.885 (2017 est.)<br>
-0.903 (2016 est.)<br>
-0.921 (2015 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
 <strong>note: </strong>while not an EU member state, Andorra has a 2011 monetary agreement with the EU to produce limited euro coinage—but not banknotes—that began enforcement in April 2012<br>
 
 ## Energy

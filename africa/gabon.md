@@ -19,7 +19,7 @@ Central Africa, bordering the Atlantic Ocean at the Equator, between Republic of
 Africa<br>
 
 **Area**<br>
-_total_: 267,667 sq km<br>
+_total _: 267,667 sq km<br>
 _land_: 257,667 sq km<br>
 _water_: 10,000 sq km<br>
 
@@ -388,31 +388,31 @@ _selected World Heritage Site locales_: Ecosystem and Relict Cultural Landscape 
 natural-resource-rich, upper-middle-income, Central African economy; significant reliance on oil and mineral exports; highly urbanized population; high levels of poverty and unemployment; uncertainty on institutional and development reform progress following 2023 military coup<br>
 
 **Real GDP (purchasing power parity)**<br>
-$33.302 billion (2022 est.)<br>
-$32.361 billion (2021 est.)<br>
-$31.874 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$48.201 billion (2023 est.)<br>
+$47.134 billion (2022 est.)<br>
+$45.776 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.91% (2022 est.)<br>
-1.53% (2021 est.)<br>
--1.84% (2020 est.)<br>
+2.26% (2023 est.)<br>
+2.97% (2022 est.)<br>
+1.47% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$13,900 (2022 est.)<br>
-$13,800 (2021 est.)<br>
-$13,900 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$19,800 (2023 est.)<br>
+$19,700 (2022 est.)<br>
+$19,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$21.072 billion (2022 est.)<br>
+$20.516 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.63% (2023 est.)<br>
 4.23% (2022 est.)<br>
 1.09% (2021 est.)<br>
-1.35% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -442,17 +442,17 @@ plantains, cassava, sugarcane, yams, taro, vegetables, maize, groundnuts, game m
 petroleum extraction and refining; manganese, gold; chemicals, ship repair, food and beverages, textiles, lumbering and plywood, cement<br>
 
 **Industrial production growth rate**<br>
-6.02% (2022 est.)<br>
+3.5% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-740,000 (2022 est.)<br>
+763,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-20.61% (2022 est.)<br>
-21.41% (2021 est.)<br>
-21.43% (2020 est.)<br>
+20.36% (2023 est.)<br>
+20.5% (2022 est.)<br>
+21.23% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -469,14 +469,14 @@ _female_: 44.4%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.2%<br>
+_lowest 10%_: 2.2% (2017 est.)<br>
 _highest 10%_: 27.7% (2017 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.09% of GDP (2023 est.)<br>
 0.09% of GDP (2022 est.)<br>
 0.09% of GDP (2021 est.)<br>
-0.12% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -491,7 +491,7 @@ _expenditures_: $2.937 billion (2019 est.)<br>
 64.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-11.48% (of GDP) (2019 est.)<br>
+9.13% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -540,11 +540,11 @@ $5.321 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
-555.446 (2018 est.)<br>
 
 ## Energy
 
@@ -663,11 +663,11 @@ Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka Gabonese Defense and 
 <strong>note 1: </strong>the National Police Forces, under the Ministry of Interior, and the National Gendarmerie, under the Ministry of Defense, are responsible for law enforcement and public security; elements of the armed forces and the Republican Guard, an elite unit that protects the president under his direct authority, sometimes perform internal security functions<br><br><strong>note 2:</strong> the Gendarmerie is organized into regionally-based “legions,” mobile forces, a national parks security unit, and a special intervention group<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2023 est.)<br>
 1.3% of GDP (2022 est.)<br>
 1.7% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
 1.6% of GDP (2019 est.)<br>
-1.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 6,500 active-duty troops including the Republican Guard and Gendarmerie (2023)<br>
@@ -688,7 +688,7 @@ Gabonese Studies and Space Observations Agency (Agence Gabonaise d&rsquo;Etudes 
 
 **Space program overview**<br>
 has a small space program focused on the acquisition, processing, analysis, and furnishing of data from foreign remote sensing (RS) satellites for environmental management, mapping, natural resources, land use planning, and maritime surveillance, as well as research and innovation; has relationships with Brazil, China, the European Space Agency (ESA) and its member states (particularly France), Kenya, Niger, Rwanda, South Africa, and the US; shares RS data with neighboring countries (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

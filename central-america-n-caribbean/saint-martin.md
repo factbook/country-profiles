@@ -19,7 +19,7 @@ Caribbean, located in the Leeward Islands (northern) group; French part of the i
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 50 sq km<br>
+_total _: 50 sq km<br>
 _land_: 50 sq km<br>
 _water_: negligible<br>
 
@@ -196,7 +196,7 @@ _etymology_: marigot is a French term referring to a body of water, a watercours
 none (overseas collectivity of France)<br>
 
 **National holiday**<br>
-Fete de la Federation, 14 July (1790); note - local holiday is Schoelcher Day (Slavery Abolition Day) 12 July (1848), as well as St. Martin's Day, 11 November (1985), which commemorates the discovery of the island by COLUMBUS on Saint Martin's Day, 11 November 1493; the latter holiday celebrated on both halves of the island<br>
+F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - local holiday is Schoelcher Day (Slavery Abolition Day) 12 July (1848), as well as St. Martin's Day, 11 November (1985), which commemorates the discovery of the island by COLUMBUS on Saint Martin's Day, 11 November 1493; the latter holiday celebrated on both halves of the island<br>
 
 **Constitution**<br>
 _history_: 4 October 1958 (French Constitution)<br>
@@ -290,11 +290,11 @@ jewelry, diamonds, pearls, recreational boats, cars (2019)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 
 ## Energy
 

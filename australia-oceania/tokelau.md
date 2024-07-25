@@ -19,7 +19,7 @@ Oceania, group of three atolls in the South Pacific Ocean, about one-half of the
 Oceania<br>
 
 **Area**<br>
-_total_: 12 sq km<br>
+_total _: 12 sq km<br>
 _land_: 12 sq km<br>
 _water_: 0 sq km<br>
 
@@ -47,7 +47,7 @@ _highest point_: unnamed location 5 m<br>
 _lowest point_: Pacific Ocean 0 m<br>
 
 **Natural resources**<br>
-Fisheries<br>
+fish<br>
 
 **Land use**<br>
 _agricultural land_: 60% (2018 est.)<br>

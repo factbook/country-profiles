@@ -19,7 +19,7 @@ Caribbean, island between the Caribbean Sea and the North Atlantic Ocean; locate
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 25 sq km<br>
+_total _: 25 sq km<br>
 _land_: 25 sq km<br>
 _water_: negligible<br>
 
@@ -189,7 +189,7 @@ _etymology_: named in honor of King Gustav III (1746-1792) of Sweden during whos
 none (overseas collectivity of France)<br>
 
 **National holiday**<br>
-Fete de la Federation, 14 July (1790); note - local holiday is St. Barthelemy Day, 24 August (1572)<br>
+F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - local holiday is St. Barthelemy Day, 24 August (1572)<br>
 
 **Constitution**<br>
 _history_: 4 October 1958 (French Constitution)<br>

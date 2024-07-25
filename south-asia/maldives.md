@@ -19,7 +19,7 @@ Southern Asia, group of atolls in the Indian Ocean, south-southwest of India<br>
 Asia<br>
 
 **Area**<br>
-_total_: 298 sq km<br>
+_total _: 298 sq km<br>
 _land_: 298 sq km<br>
 _water_: 0 sq km<br>
 
@@ -371,25 +371,25 @@ _lyrics/music_: Mohamed Jameel DIDI/Wannakuwattawaduge DON AMARADEVA<br>
 upper middle-income Indian Ocean island economy; major tourism, fishing, and shipping industries; high public debt; systemic corruption; crippled by COVID-19; ongoing deflation; poverty has tripled since pandemic began<br>
 
 **Real GDP (purchasing power parity)**<br>
-$11.142 billion (2022 est.)<br>
-$9.781 billion (2021 est.)<br>
-$7.104 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$11.651 billion (2023 est.)<br>
+$11.206 billion (2022 est.)<br>
+$9.838 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.97% (2023 est.)<br>
 13.91% (2022 est.)<br>
 37.69% (2021 est.)<br>
--32.91% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$21,300 (2022 est.)<br>
-$18,800 (2021 est.)<br>
-$13,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$22,400 (2023 est.)<br>
+$21,400 (2022 est.)<br>
+$18,900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$6.171 billion (2022 est.)<br>
+$6.6 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -424,17 +424,17 @@ fruits, vegetables, nuts, other meats, tomatoes, bananas, maize, pulses, coconut
 tourism, fish processing, shipping, boat building, coconut processing, woven mats, rope, handicrafts, coral and sand mining<br>
 
 **Industrial production growth rate**<br>
-25.2% (2022 est.)<br>
+7.26% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-261,000 (2022 est.)<br>
+260,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.39% (2022 est.)<br>
-5.12% (2021 est.)<br>
-5.48% (2020 est.)<br>
+4.13% (2023 est.)<br>
+4.42% (2022 est.)<br>
+5.02% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -451,14 +451,14 @@ _female_: 12.6%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.8%<br>
+_lowest 10%_: 3.8% (2019 est.)<br>
 _highest 10%_: 23.3% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.07% of GDP (2023 est.)<br>
 0.08% of GDP (2022 est.)<br>
 0.09% of GDP (2021 est.)<br>
-0.13% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -473,7 +473,7 @@ _expenditures_: $1.797 billion (2020 est.)<br>
 61.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-26.4% (of GDP) (2016 est.)<br>
+19.45% (of GDP) (2021 est.)<br>
 
 **Current account balance**<br>
 -$1.033 billion (2022 est.)<br>
@@ -510,9 +510,9 @@ refined petroleum, ships, aircraft, plastic products, broadcasting equipment (20
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$590.523 million (2023 est.)<br>
 $832.094 million (2022 est.)<br>
 $805.808 million (2021 est.)<br>
-$984.931 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -521,11 +521,11 @@ $696.2 million (31 December 2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: rufiyaa (MVR) per US dollar -<br>
+15.387 (2023 est.)<br>
 15.387 (2022 est.)<br>
 15.373 (2021 est.)<br>
 15.381 (2020 est.)<br>
 15.382 (2019 est.)<br>
-15.391 (2018 est.)<br>
 
 ## Energy
 
@@ -641,7 +641,7 @@ the Maldives National Defense Force (MNDF) is responsible for defending and safe
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

@@ -19,7 +19,7 @@ Southern Europe, bordering the Aegean Sea, Ionian Sea, and the Mediterranean Sea
 Europe<br>
 
 **Area**<br>
-_total_: 131,957 sq km<br>
+_total _: 131,957 sq km<br>
 _land_: 130,647 sq km<br>
 _water_: 1,310 sq km<br>
 
@@ -387,31 +387,31 @@ _selected World Heritage Site locales_: Acropolis, Athens (c); Archaeological si
 developed EU and eurozone economy; strong post-COVID growth driven by tourism, shipping industry, exports, and foreign investment supported by EU cohesion funds; public debt remains high despite recent budget surplus; challenges from negative household savings, high unemployment, corruption, and competitiveness gaps<br>
 
 **Real GDP (purchasing power parity)**<br>
-$330.579 billion (2022 est.)<br>
-$313.175 billion (2021 est.)<br>
-$288.961 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$375.78 billion (2023 est.)<br>
+$368.37 billion (2022 est.)<br>
+$348.977 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.01% (2023 est.)<br>
 5.56% (2022 est.)<br>
 8.38% (2021 est.)<br>
--9.32% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$31,700 (2022 est.)<br>
-$29,600 (2021 est.)<br>
-$27,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$36,300 (2023 est.)<br>
+$35,300 (2022 est.)<br>
+$33,000 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$217.581 billion (2022 est.)<br>
+$238.206 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.46% (2023 est.)<br>
 9.65% (2022 est.)<br>
 1.22% (2021 est.)<br>
--1.25% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -441,17 +441,17 @@ maize, wheat, sheep milk, peaches/nectarines, oranges, grapes, tomatoes, milk, w
 tourism, food and tobacco processing, textiles, chemicals, metal products; mining, petroleum<br>
 
 **Industrial production growth rate**<br>
--3.43% (2022 est.)<br>
+1.68% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.652 million (2022 est.)<br>
+4.645 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+11% (2023 est.)<br>
 12.43% (2022 est.)<br>
 14.66% (2021 est.)<br>
-15.9% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -464,7 +464,7 @@ _female_: 41.5%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-33.6 (2020 est.)<br>
+32.9 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -472,14 +472,14 @@ _on food_: 17.6% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 4.8% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.4%<br>
-_highest 10%_: 25.2% (2020 est.)<br>
+_lowest 10%_: 2.6% (2021 est.)<br>
+_highest 10%_: 24.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.22% of GDP (2023 est.)<br>
 0.28% of GDP (2022 est.)<br>
 0.32% of GDP (2021 est.)<br>
-0.32% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -490,25 +490,25 @@ _expenditures_: $97.277 billion (2019 est.)<br>
 0.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-237.35% of GDP (2021 est.)<br>
-253.12% of GDP (2020 est.)<br>
-212.36% of GDP (2019 est.)<br>
+203.29% of GDP (2022 est.)<br>
+237.49% of GDP (2021 est.)<br>
+253.23% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-25.37% (of GDP) (2021 est.)<br>
+27.81% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$15.056 billion (2023 est.)<br>
 -$22.623 billion (2022 est.)<br>
 -$13.858 billion (2021 est.)<br>
--$12.413 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$106.65 billion (2023 est.)<br>
 $106.189 billion (2022 est.)<br>
 $87.521 billion (2021 est.)<br>
-$59.022 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -520,9 +520,9 @@ refined petroleum, packaged medicine, aluminum, natural gas, plastic products (2
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$117.922 billion (2023 est.)<br>
 $127.82 billion (2022 est.)<br>
 $103.532 billion (2021 est.)<br>
-$71.758 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -534,9 +534,9 @@ crude petroleum, natural gas, refined petroleum, garments, packaged medicine (20
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$13.608 billion (2023 est.)<br>
 $12.061 billion (2022 est.)<br>
 $14.447 billion (2021 est.)<br>
-$11.931 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -545,11 +545,11 @@ $478.646 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 
 ## Energy
 
@@ -706,13 +706,13 @@ Hellenic Space Center (HSC; aka Hellenic Space Agency; established 2018) (2024)<
 
 **Space program overview**<br>
 has a relatively new and growing space program focused on building and operating satellites; also researches and develops technologies in a variety of other space sectors, including such areas as remote sensing (RS), telecommunications, defense, environmental studies, and agricultural development; has a national space strategy; as a member of the European Space Agency (ESA), it contributes to, participates in, and benefits from ESA capabilities and programs; cooperates with space agencies and commercial space sectors of ESA and EU member states, as well as the US; has a robust commercial space sector that researches, develops, and produces a variety of space technologies and capabilities, including satellite components, electronics, sensors, and communications (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary People's Liberation Party/Front (DHKP/C)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

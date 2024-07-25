@@ -19,7 +19,7 @@ Southeastern Asia, along the northern coast of the island of Borneo, bordering t
 Southeast Asia<br>
 
 **Area**<br>
-_total_: 5,765 sq km<br>
+_total _: 5,765 sq km<br>
 _land_: 5,265 sq km<br>
 _water_: 500 sq km<br>
 
@@ -322,7 +322,7 @@ _elections/appointments_: none; the monarchy is hereditary<br>
 <strong>note </strong>- the monarch is both chief of state and head of government<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (33 seats; 20 members appointed by the sultan from ex-officio cabinet ministers, titled people, and prominent citizens in public service and various professional fields, 13 members from 4 multi-seat constituencies, and 3 ex-officio members - the speaker and first and second secretaries); members serve 5-year terms<br>
+_description_: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (up to 45 seats; up to 30 appointed; up to 15 representatives from the country's four districts: Brunei and Muara (up to seven members), Belait (up to three), Tutong (up to three), and Temburong (up to two)); members serve 5-year terms<br>
 _elections_: January 2023 - appointed by the sultan<br>
 _election results_: Legislative Council last appointed January 2023; composition - men 30, women 4, percentage women 11.8%<br>
 
@@ -371,31 +371,31 @@ _lyrics/music_: Pengiran Haji Mohamed YUSUF bin Pengiran Abdul Rahim/Awang Haji 
 almost exclusively an oil and gas economy; high income country; expansive and robust welfare system; the majority of the population works for the government; promulgating a nationalized halal brand; considering establishment of a bond market and stock exchange<br>
 
 **Real GDP (purchasing power parity)**<br>
-$26.343 billion (2022 est.)<br>
-$26.779 billion (2021 est.)<br>
-$27.212 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$35.26 billion (2023 est.)<br>
+$34.771 billion (2022 est.)<br>
+$35.347 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+1.41% (2023 est.)<br>
 -1.63% (2022 est.)<br>
 -1.59% (2021 est.)<br>
-1.13% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$58,700 (2022 est.)<br>
-$60,100 (2021 est.)<br>
-$61,600 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$77,900 (2023 est.)<br>
+$77,400 (2022 est.)<br>
+$79,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$16.682 billion (2022 est.)<br>
+$15.128 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+0.36% (2023 est.)<br>
 3.68% (2022 est.)<br>
 1.73% (2021 est.)<br>
-1.94% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -419,17 +419,17 @@ chicken, eggs, fruits, rice, vegetables, beans, bananas, beef, pineapples, cucum
 petroleum, petroleum refining, liquefied natural gas, construction, agriculture, aquaculture, transportation<br>
 
 **Industrial production growth rate**<br>
--4.91% (2022 est.)<br>
+-1.43% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-225,000 (2022 est.)<br>
+228,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.45% (2022 est.)<br>
+5.27% (2023 est.)<br>
+5.19% (2022 est.)<br>
 4.91% (2021 est.)<br>
-7.41% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -438,9 +438,9 @@ _male_: 20.7%<br>
 _female_: 27.6%<br>
 
 **Remittances**<br>
+0.01% of GDP (2023 est.)<br>
 0.01% of GDP (2022 est.)<br>
 0.01% of GDP (2021 est.)<br>
-0.01% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -492,9 +492,9 @@ crude petroleum, refined petroleum, cars, coal, gas turbines (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$4.483 billion (2023 est.)<br>
 $5.035 billion (2022 est.)<br>
 $4.982 billion (2021 est.)<br>
-$3.997 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -504,11 +504,11 @@ $0 (2013)<br>
 
 **Exchange rates**<br>
 _Currency_: Bruneian dollars (BND) per US dollar -<br>
+1.343 (2023 est.)<br>
 1.379 (2022 est.)<br>
 1.344 (2021 est.)<br>
 1.38 (2020 est.)<br>
 1.364 (2019 est.)<br>
-1.349 (2018 est.)<br>
 
 ## Energy
 

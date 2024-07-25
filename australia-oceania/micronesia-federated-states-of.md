@@ -19,7 +19,7 @@ Oceania, island group in the North Pacific Ocean, about three-quarters of the wa
 Oceania<br>
 
 **Area**<br>
-_total_: 702 sq km<br>
+_total _: 702 sq km<br>
 _land_: 702 sq km<br>
 _water_: 0 sq km (fresh water only)<br>
 <strong>note:</strong> includes Pohnpei (Ponape), Chuuk (Truk) Islands, Yap Islands, and Kosrae (Kosaie)<br>
@@ -347,25 +347,25 @@ _selected World Heritage Site locales_: Nan Madol: Ceremonial Center of Eastern 
 lower middle-income Pacific island economy; US aid reliance, sunsetting in 2024; low entrepreneurship; mostly fishing and farming; US dollar user; no patent laws; tourism remains underdeveloped; significant corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
-$372.593 million (2022 est.)<br>
-$375.698 million (2021 est.)<br>
-$383.46 million (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$437.922 million (2023 est.)<br>
+$434.514 million (2022 est.)<br>
+$437.922 million (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--0.83% (2022 est.)<br>
--2.02% (2021 est.)<br>
--2.77% (2020 est.)<br>
+0.78% (2023 est.)<br>
+-0.78% (2022 est.)<br>
+2.8% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,300 (2022 est.)<br>
-$3,300 (2021 est.)<br>
-$3,400 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$3,800 (2023 est.)<br>
+$3,800 (2022 est.)<br>
+$3,900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$424 million (2022 est.)<br>
+$460 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -395,7 +395,7 @@ coconuts, cassava, vegetables, sweet potatoes, bananas, pork, plantains, fruits,
 tourism, construction; specialized aquaculture, craft items (shell and wood)<br>
 
 **Industrial production growth rate**<br>
--4.51% (2022 est.)<br>
+0.78% (2023 est.)<br>
 <strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -423,9 +423,9 @@ _highest 10%_: 29.7% (2013 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-5.5% of GDP (2022 est.)<br>
-5.75% of GDP (2021 est.)<br>
-5.72% of GDP (2020 est.)<br>
+5.07% of GDP (2023 est.)<br>
+5.43% of GDP (2022 est.)<br>
+5.98% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -436,13 +436,13 @@ _expenditures_: $223 million (2018 est.)<br>
 6.6% (of GDP) (FY12/13 est.)<br>
 
 **Public debt**<br>
-25.4% of GDP (2020 est.)<br>
-22.87% of GDP (2019 est.)<br>
-23.11% of GDP (2018 est.)<br>
+27.86% of GDP (2020 est.)<br>
+24.15% of GDP (2019 est.)<br>
+23.7% of GDP (2018 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-6.43% (of GDP) (2020 est.)<br>
+7.05% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>

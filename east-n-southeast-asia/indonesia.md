@@ -19,7 +19,7 @@ Southeastern Asia, archipelago between the Indian Ocean and the Pacific Ocean<br
 Southeast Asia<br>
 
 **Area**<br>
-_total_: 1,904,569 sq km<br>
+_total _: 1,904,569 sq km<br>
 _land_: 1,811,569 sq km<br>
 _water_: 93,000 sq km<br>
 
@@ -365,7 +365,7 @@ _election results_: <em>2024: </em>PRABOWO Subianto elected president (assumes o
 **Legislative branch**<br>
 _description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat (MPR) consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br>House of Representatives or Dewan Perwakilan Rakyat (580 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms)<br>
 _elections_: Regional Representative Council - last held on 14 February 2024 (next to be held in 2029)<br>House of Representatives - last held on 14 February 2024 (next to be held in 2029)<br>
-_election results_: Regional Representative Council - all seats elected on a non-partisan basis; composition - men 102, women 34, percentage women 25%<br><br>House of Representatives - percent of vote by party - PDI-P 16.7%, Golkar 15.3%, Gerindra 13.2%, PKB 10.6%, Nasdem 9.7%, PKS 8.4%, PD 7.4%, PAN 7.2%; other 11.5% (10 additional parties received votes); seats by party - PDI-P 110, Golkar 102, Gerindra 86, PKB 68, Nasdem 69, PKS 53, PD 44, PAN 48; composition - men 449, women 126, percentage women 21.9%; total People's Consultative Assembly percentage women NA%<br>
+_election results_: Regional Representative Council - all seats elected on a non-partisan basis; composition - men 102, women 34, percentage women 25%<br><br>House of Representatives - percent of vote by party - PDI-P 16.7%, Golkar 15.3%, Gerindra 13.2%, PKB 10.6%, Nasdem 9.7%, PKS 8.4%, PD 7.4%, PAN 7.2%; other 11.5% (10 additional parties received votes); seats by party - PDI-P 110, Golkar 102, Gerindra 86, PKB 68, Nasdem 69, PKS 53, PD 44, PAN 48; composition - men 449, women 126, percentage women 21.9%; total People's Consultative Assembly percentage women NA<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Mahkamah Agung (51 judges divided into 8 chambers); Constitutional Court or Mahkamah Konstitusi (consists of 9 judges)<br>
@@ -418,31 +418,31 @@ _selected World Heritage Site locales_: Borobudur Temple Compounds (c); Komodo N
 upper middle-income, largest and growing Southeast Asian economy; higher lending rates to moderate inflation; ongoing relocation of capital fueling infrastructure projects; major tourism sector prompting green economy goals<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.419 trillion (2022 est.)<br>
-$3.247 trillion (2021 est.)<br>
-$3.131 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$3.906 trillion (2023 est.)<br>
+$3.718 trillion (2022 est.)<br>
+$3.531 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+5.05% (2023 est.)<br>
 5.31% (2022 est.)<br>
 3.7% (2021 est.)<br>
--2.07% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$12,400 (2022 est.)<br>
-$11,900 (2021 est.)<br>
-$11,500 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$14,100 (2023 est.)<br>
+$13,500 (2022 est.)<br>
+$12,900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.319 trillion (2022 est.)<br>
+$1.371 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.67% (2023 est.)<br>
 4.21% (2022 est.)<br>
 1.56% (2021 est.)<br>
-1.92% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -472,17 +472,17 @@ oil palm fruit, rice, sugarcane, maize, coconuts, cassava, bananas, eggs, mangoe
 petroleum and natural gas, textiles, automotive, electrical appliances, apparel, footwear, mining, cement, medical instruments and appliances, handicrafts, chemical fertilizers, plywood, rubber, processed food, jewelry, and tourism<br>
 
 **Industrial production growth rate**<br>
-4.11% (2022 est.)<br>
+5% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-138.099 million (2022 est.)<br>
+140.931 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+3.42% (2023 est.)<br>
 3.46% (2022 est.)<br>
 3.83% (2021 est.)<br>
-4.25% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -491,11 +491,11 @@ _male_: 16.3%<br>
 _female_: 15.7%<br>
 
 **Population below poverty line**<br>
-9.5% (2022 est.)<br>
+9.4% (2023 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-37.9 (2022 est.)<br>
+38.3 (2023 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -503,14 +503,14 @@ _on food_: 33.9% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 7.3% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.1%<br>
-_highest 10%_: 30.7% (2022 est.)<br>
+_lowest 10%_: 3.1% (2023 est.)<br>
+_highest 10%_: 31.4% (2023 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.76% of GDP (2022 est.)<br>
+1.06% of GDP (2023 est.)<br>
+0.99% of GDP (2022 est.)<br>
 0.79% of GDP (2021 est.)<br>
-0.91% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -521,25 +521,25 @@ _expenditures_: $192.97 billion (2020 est.)<br>
 -2.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+45.34% of GDP (2022 est.)<br>
 44.4% of GDP (2021 est.)<br>
 42.9% of GDP (2020 est.)<br>
-33.73% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-9.09% (of GDP) (2021 est.)<br>
+11.6% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$12.67 billion (2022 est.)<br>
+-$1.88 billion (2023 est.)<br>
+$13.215 billion (2022 est.)<br>
 $3.511 billion (2021 est.)<br>
--$4.433 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$315.584 billion (2022 est.)<br>
+$292.79 billion (2023 est.)<br>
+$315.746 billion (2022 est.)<br>
 $246.787 billion (2021 est.)<br>
-$178.418 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -551,9 +551,9 @@ coal, palm oil, iron alloys, natural gas, steel (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$273.249 billion (2022 est.)<br>
+$264.426 billion (2023 est.)<br>
+$273.031 billion (2022 est.)<br>
 $217.579 billion (2021 est.)<br>
-$159.872 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -565,9 +565,9 @@ refined petroleum, crude petroleum, vehicle parts/accessories, natural gas, plas
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$146.359 billion (2023 est.)<br>
 $137.222 billion (2022 est.)<br>
 $144.908 billion (2021 est.)<br>
-$135.916 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -576,11 +576,11 @@ $360.945 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Indonesian rupiah (IDR) per US dollar -<br>
+15,236.885 (2023 est.)<br>
 14,849.854 (2022 est.)<br>
 14,308.144 (2021 est.)<br>
 14,582.203 (2020 est.)<br>
 14,147.671 (2019 est.)<br>
-14,236.939 (2018 est.)<br>
 
 ## Energy
 
@@ -745,13 +745,13 @@ Stasiun Peluncuran Roket rocket launch facility (West Java); building a space la
 
 **Space program overview**<br>
 has had a space program since the 1960s that has focused largely on rocket development and the acquisition and operation of satellites; operates satellites; manufactures remote sensing (RS) satellites; has a sounding (research) rocket program geared towards development of an indigenous orbital satellite launch vehicle (SLV) and independent satellite launch capabilities; researching and developing a range of other space-related technologies and capabilities related to satellite payloads, communications, RS, and astronomy; has relations with several foreign space agencies and industries, including those of France, Germany, India, Japan, Russia, and the US (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (aka Jemaah Anshorut Daulah); Jemaah Islamiyah<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

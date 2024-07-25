@@ -19,7 +19,7 @@ Southern South America, bordering the South Atlantic Ocean, between Argentina an
 South America<br>
 
 **Area**<br>
-_total_: 176,215 sq km<br>
+_total _: 176,215 sq km<br>
 _land_: 175,015 sq km<br>
 _water_: 1,200 sq km<br>
 
@@ -405,31 +405,31 @@ _selected World Heritage Site locales_: Historic City of Colonia del Sacramento;
 high-income, export-oriented South American economy; South America&rsquo;s largest middle class; low socioeconomic inequality; growing homicide rates; growing Chinese and EU relations; 2019 Argentine recession hurt; key milk, beef, rice, and wool exporter<br>
 
 **Real GDP (purchasing power parity)**<br>
-$83.607 billion (2022 est.)<br>
-$79.685 billion (2021 est.)<br>
-$75.692 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$105.096 billion (2023 est.)<br>
+$104.711 billion (2022 est.)<br>
+$100.004 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.92% (2022 est.)<br>
-5.28% (2021 est.)<br>
--6.26% (2020 est.)<br>
+0.37% (2023 est.)<br>
+4.71% (2022 est.)<br>
+5.56% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$24,400 (2022 est.)<br>
-$23,300 (2021 est.)<br>
-$22,100 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$30,700 (2023 est.)<br>
+$30,600 (2022 est.)<br>
+$29,200 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$71.177 billion (2022 est.)<br>
+$77.241 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.87% (2023 est.)<br>
 9.1% (2022 est.)<br>
 7.75% (2021 est.)<br>
-9.76% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -459,17 +459,17 @@ milk, rice, wheat, barley, soybeans, beef, rapeseed, sugarcane, maize, oranges (
 food processing, electrical machinery, transportation equipment, petroleum products, textiles, chemicals, beverages<br>
 
 **Industrial production growth rate**<br>
-1.76% (2022 est.)<br>
+-3.83% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.751 million (2022 est.)<br>
+1.775 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7.87% (2022 est.)<br>
-9.29% (2021 est.)<br>
-10.33% (2020 est.)<br>
+8.35% (2023 est.)<br>
+7.88% (2022 est.)<br>
+9.3% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -482,7 +482,7 @@ _female_: 38.7%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-40.8 (2021 est.)<br>
+40.6 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -490,14 +490,14 @@ _on food_: 18.8% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 1.3% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.2%<br>
-_highest 10%_: 30.8% (2021 est.)<br>
+_lowest 10%_: 2.2% (2022 est.)<br>
+_highest 10%_: 30.5% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.16% of GDP (2023 est.)<br>
 0.18% of GDP (2022 est.)<br>
-0.2% of GDP (2021 est.)<br>
-0.21% of GDP (2020 est.)<br>
+0.21% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -509,24 +509,24 @@ _expenditures_: $17.571 billion (2020 est.)<br>
 
 **Public debt**<br>
 60.28% of GDP (2020 est.)<br>
-50.27% of GDP (2019 est.)<br>
-47.44% of GDP (2018 est.)<br>
+50.13% of GDP (2019 est.)<br>
+47.34% of GDP (2018 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-18.52% (of GDP) (2020 est.)<br>
+18.51% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$2.62 billion (2022 est.)<br>
--$1.555 billion (2021 est.)<br>
--$435.211 million (2020 est.)<br>
+-$2.797 billion (2023 est.)<br>
+-$2.725 billion (2022 est.)<br>
+-$1.472 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$22.565 billion (2022 est.)<br>
-$19.527 billion (2021 est.)<br>
-$13.851 billion (2020 est.)<br>
+$21.286 billion (2023 est.)<br>
+$22.611 billion (2022 est.)<br>
+$19.639 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -538,9 +538,9 @@ beef, wood pulp, soybeans, milk, rice (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$18.894 billion (2022 est.)<br>
-$15.125 billion (2021 est.)<br>
-$11.43 billion (2020 est.)<br>
+$18.865 billion (2023 est.)<br>
+$18.993 billion (2022 est.)<br>
+$15.134 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -552,9 +552,9 @@ crude petroleum, fertilizers, cars, packaged medicine, broadcasting equipment (2
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$16.257 billion (2023 est.)<br>
 $15.127 billion (2022 est.)<br>
 $16.963 billion (2021 est.)<br>
-$16.25 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -563,11 +563,11 @@ $42.861 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Uruguayan pesos (UYU) per US dollar -<br>
+38.824 (2023 est.)<br>
 41.171 (2022 est.)<br>
 43.555 (2021 est.)<br>
 42.013 (2020 est.)<br>
 35.255 (2019 est.)<br>
-30.725 (2018 est.)<br>
 
 ## Energy
 
@@ -688,11 +688,11 @@ Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito N
 <strong>note: </strong>the National Police includes the paramilitary National Republican Guard (Guardia Nacional Republicana); the National Police maintains internal security, while the National Directorate for Migration is responsible for migration and border enforcement<br>
 
 **Military expenditures**<br>
+1% of GDP (2023 est.)<br>
 1% of GDP (2022 est.)<br>
 2.3% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
 2.1% of GDP (2019 est.)<br>
-2.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 23,000 active-duty personnel (15,000 Army; 5,000 Navy; 3,000 Air Force) (2023)<br>

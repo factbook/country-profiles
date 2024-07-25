@@ -19,7 +19,7 @@ interior Western Africa, southwest of Algeria, north of Guinea, Cote d'Ivoire, a
 Africa<br>
 
 **Area**<br>
-_total_: 1,240,192 sq km<br>
+_total _: 1,240,192 sq km<br>
 _land_: 1,220,190 sq km<br>
 _water_: 20,002 sq km<br>
 
@@ -48,7 +48,8 @@ _lowest point_: Senegal River 23 m<br>
 _mean elevation_: 343 m<br>
 
 **Natural resources**<br>
-gold, phosphates, kaolin, salt, limestone, uranium, gypsum, granite, hydropower, note, bauxite, iron ore, manganese, tin, and copper deposits are known but not exploited<br>
+gold, phosphates, kaolin, salt, limestone, uranium, gypsum, granite, hydropower<br>
+<strong>note: </strong>bauxite, iron ore, manganese, tin, and copper deposits are known but not exploited<br>
 
 **Land use**<br>
 _agricultural land_: 34.1% (2018 est.)<br>
@@ -421,31 +422,31 @@ _selected World Heritage Site locales_: Old Towns of Djenn&eacute; (c); Timbuktu
 low-income Saharan economy; recession due to COVID-19 and political instability; extreme poverty; environmentally fragile; high public debt; agricultural and gold exporter; terrorism and warfare are common<br>
 
 **Real GDP (purchasing power parity)**<br>
-$48.184 billion (2022 est.)<br>
-$46.452 billion (2021 est.)<br>
-$45.076 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$57.235 billion (2023 est.)<br>
+$54.387 billion (2022 est.)<br>
+$52.56 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.73% (2022 est.)<br>
+5.24% (2023 est.)<br>
+3.47% (2022 est.)<br>
 3.05% (2021 est.)<br>
--1.24% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,100 (2022 est.)<br>
-$2,100 (2021 est.)<br>
-$2,100 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2,500 (2023 est.)<br>
+$2,400 (2022 est.)<br>
+$2,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$18.827 billion (2022 est.)<br>
+$20.905 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.06% (2023 est.)<br>
 9.62% (2022 est.)<br>
 3.93% (2021 est.)<br>
-0.44% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -473,17 +474,17 @@ maize, rice, millet, sorghum, okra, sugarcane, mangoes/guavas, onions, cotton, b
 food processing; construction; phosphate and gold mining<br>
 
 **Industrial production growth rate**<br>
-2.36% (2022 est.)<br>
+-0.82% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-7.958 million (2022 est.)<br>
+8.277 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.14% (2022 est.)<br>
-2.44% (2021 est.)<br>
-3.53% (2020 est.)<br>
+3.01% (2023 est.)<br>
+3.09% (2022 est.)<br>
+2.29% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -496,18 +497,18 @@ _female_: 19.8%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-36 (2018 est.)<br>
+35.7 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.2%<br>
-_highest 10%_: 28.1% (2018 est.)<br>
+_lowest 10%_: 3.2% (2021 est.)<br>
+_highest 10%_: 28.3% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-6.01% of GDP (2022 est.)<br>
+5.52% of GDP (2023 est.)<br>
+5.89% of GDP (2022 est.)<br>
 5.86% of GDP (2021 est.)<br>
-5.71% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -526,15 +527,15 @@ _expenditures_: $3.467 billion (2018 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$1.475 billion (2022 est.)<br>
 -$1.469 billion (2021 est.)<br>
 -$379.683 million (2020 est.)<br>
--$1.289 billion (2019 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$5.855 billion (2022 est.)<br>
 $5.381 billion (2021 est.)<br>
 $5.196 billion (2020 est.)<br>
-$4.442 billion (2019 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -546,9 +547,9 @@ gold, cotton, oil seeds, wood, fertilizers (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$7.942 billion (2022 est.)<br>
 $7.596 billion (2021 est.)<br>
 $6.339 billion (2020 est.)<br>
-$6.559 billion (2019 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -569,11 +570,11 @@ $3.981 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
-555.446 (2018 est.)<br>
 
 ## Energy
 
@@ -669,11 +670,11 @@ Malian Armed Forces (Forces Armées Maliennes or FAMa): Land Forces (l’Armée 
 <strong>note 1:</strong> the Gendarmerie and the National Guard are under the authority of the Ministry of Defense and Veterans Affairs (Ministere De La Defense Et Des Anciens Combattants, MDAC), but operational control is shared with the Ministry of Internal Security and Civil Protection which also controls the National Police; the National Police has responsibility for law enforcement and maintenance of order in urban areas and supports the FAMa in internal military operations<br><br><strong>note 2: </strong>the Gendarmerie's primary mission is internal security and public order; its duties also include territorial defense, humanitarian operations, intelligence gathering, and protecting private property, mainly in rural areas; it also has a specialized border security unit<br><br><strong>note 3: </strong>the National Guard is a military force responsible for providing security to government facilities and institutions, prison service, public order, humanitarian operations, some border security, and intelligence gathering; its forces include a camel corps for patrolling the deserts and borders of northern Mali<br><br><strong>note 4: </strong>there are also pro-government militias operating in Mali, such as the Imghad Tuareg Self-Defense Group and Allies (GATIA); the leader of GATIA is also a general in the national army<br>
 
 **Military expenditures**<br>
+4% of GDP (2023 est.)<br>
 3.5% of GDP (2022 est.)<br>
 3.5% of GDP (2021 est.)<br>
 3.4% of GDP (2020 est.)<br>
 3.1% of GDP (2019 est.)<br>
-3.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; estimated 35-40,000 total active military and paramilitary personnel, including approximately 20-25,000 FAMa (up to 2,000 Air Force), 5-7,000 Gendarmerie, and 10,000 National Guard (2023)<br>
@@ -694,7 +695,7 @@ the FAMa is responsible for defense of the country’s sovereignty and territory
 
 **Terrorist group(s)**<br>
 Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); Jama'at Nusrat al-Islam wal-Muslimin (JNIM); al-Mulathamun Battalion (al-Mourabitoun)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

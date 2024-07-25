@@ -19,7 +19,7 @@ Southern South America, islands in the South Atlantic Ocean, east of the tip of 
 Antarctic Region<br>
 
 **Area**<br>
-_total_: 3,903 sq km<br>
+_total _: 3,903 sq km<br>
 _land_: 3,903 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes Shag Rocks, Black Rock, Clerke Rocks, South Georgia Island, Bird Island, and the South Sandwich Islands, which consist of 11 islands<br>

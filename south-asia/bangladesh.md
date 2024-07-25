@@ -19,7 +19,7 @@ Southern Asia, bordering the Bay of Bengal, between Burma and India<br>
 Asia<br>
 
 **Area**<br>
-_total_: 148,460 sq km<br>
+_total _: 148,460 sq km<br>
 _land_: 130,170 sq km<br>
 _water_: 18,290 sq km<br>
 
@@ -405,31 +405,31 @@ _selected World Heritage Site locales_: Bagerhat Historic Mosque (c); Ruins of t
 one of the fastest growing emerging market economies; strong economic rebound following COVID-19; significant poverty reduction; exports dominated by textile industry; weakened exports and remittances resulted in declining foreign exchange reserves and 2022 IMF loan request<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.072 trillion (2022 est.)<br>
-$1.001 trillion (2021 est.)<br>
-$936.113 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.413 trillion (2023 est.)<br>
+$1.336 trillion (2022 est.)<br>
+$1.248 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+5.78% (2023 est.)<br>
 7.1% (2022 est.)<br>
 6.94% (2021 est.)<br>
-3.45% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$6,300 (2022 est.)<br>
-$5,900 (2021 est.)<br>
-$5,600 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$8,200 (2023 est.)<br>
+$7,800 (2022 est.)<br>
+$7,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$460.201 billion (2022 est.)<br>
+$437.415 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+9.88% (2023 est.)<br>
 7.7% (2022 est.)<br>
 5.55% (2021 est.)<br>
-5.69% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -459,17 +459,17 @@ rice, milk, potatoes, maize, sugarcane, onions, vegetables, jute, mangoes/guavas
 cotton, textiles and clothing, jute, tea, paper, cement, fertilizer, sugar, light engineering&nbsp;<br>
 
 **Industrial production growth rate**<br>
-9.86% (2022 est.)<br>
+8.37% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-73.862 million (2022 est.)<br>
+74.914 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.27% (2022 est.)<br>
-5.25% (2021 est.)<br>
-5.32% (2020 est.)<br>
+5.06% (2023 est.)<br>
+5.25% (2022 est.)<br>
+5.82% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -482,7 +482,7 @@ _female_: 19.6%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-31.8 (2022 est.)<br>
+33.4 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -490,14 +490,14 @@ _on food_: 52.7% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 2.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.6%<br>
-_highest 10%_: 26% (2022 est.)<br>
+_lowest 10%_: 3.5% (2022 est.)<br>
+_highest 10%_: 27.4% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+5.26% of GDP (2023 est.)<br>
 4.67% of GDP (2022 est.)<br>
 5.33% of GDP (2021 est.)<br>
-5.82% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -516,15 +516,15 @@ _expenditures_: $46.379 billion (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$14.37 billion (2022 est.)<br>
+$4.388 billion (2023 est.)<br>
+-$14.438 billion (2022 est.)<br>
 -$15.775 billion (2021 est.)<br>
-$1.193 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$60.138 billion (2022 est.)<br>
+$58.885 billion (2023 est.)<br>
+$60.066 billion (2022 est.)<br>
 $49.291 billion (2021 est.)<br>
-$38.476 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -536,9 +536,9 @@ garments, footwear, fabric, textiles, jute yarn (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$93.815 billion (2022 est.)<br>
+$73.172 billion (2023 est.)<br>
+$93.635 billion (2022 est.)<br>
 $85.299 billion (2021 est.)<br>
-$56.776 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -550,9 +550,9 @@ refined petroleum, cotton fabric, cotton, fabric, fertilizers (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$21.86 billion (2023 est.)<br>
 $33.747 billion (2022 est.)<br>
 $46.166 billion (2021 est.)<br>
-$43.172 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -561,11 +561,11 @@ $41.85 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: taka (BDT) per US dollar -<br>
+106.309 (2023 est.)<br>
 91.745 (2022 est.)<br>
 85.084 (2021 est.)<br>
 84.871 (2020 est.)<br>
 84.454 (2019 est.)<br>
-83.466 (2018 est.)<br>
 
 ## Energy
 
@@ -725,13 +725,13 @@ Bangladesh Space Research and Remote Sensing Organization (SPARRSO; established 
 
 **Space program overview**<br>
 has a modest space program focused on designing, building, and operating satellites, particularly those with remote sensing (RS) capabilities; researching a variety of other space-related capabilities and technologies; has a government-owned company for acquiring and operating satellites (Bangladesh Satellite Company Limited or BSCL, established in 2017); has relations with several foreign space agencies and commercial entities, including those of France, Japan, Russia, and the US (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bangladesh (ISB); al-Qa'ida; al-Qa'ida in the Indian Subcontinent (AQIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

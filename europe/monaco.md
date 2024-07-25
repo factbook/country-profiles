@@ -19,7 +19,7 @@ Western Europe, bordering the Mediterranean Sea on the southern coast of France,
 Europe<br>
 
 **Area**<br>
-_total_: 2 sq km<br>
+_total _: 2 sq km<br>
 _land_: 2 sq km<br>
 _water_: 0 sq km<br>
 
@@ -363,7 +363,7 @@ none<br>
 banking, insurance, tourism, construction, small-scale industrial and consumer products<br>
 
 **Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
+-3.16% (2014 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -415,11 +415,11 @@ jewelry, cars and vehicle parts, recreational boats, plastic products, artwork (
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 <strong>note: </strong>while not an EU member state, Monaco, due to its preexisting monetary and banking agreements with France, has a 1998 monetary agreement with the EU to produce limited euro coinage—but not banknotes—that began enforcement in January 2002 and superseded by a new EU agreement in 2012<br>
 
 ## Energy

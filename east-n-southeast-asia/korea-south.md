@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The first recorded kingdom (Choson) on the Korean Peninsula dates from approximately 2300 B.C. Over the subsequent centuries, three main kingdoms -- Kogoryo, Paekche, and Silla -- were established on the Peninsula. By the 5th century A.D., Kogoryo emerged as the most powerful, with control over much of the Peninsula and part of Manchuria (modern-day northeast China). However, Silla allied with the Chinese to create the first unified Korean state in 688. Following the collapse of Silla in the 9th century, Korea was unified under the Koryo (Goryeo; 918-1392) and the Chosen (Joseon; 1392-1910) dynasties.</p> <p>Korea became the object of intense imperialistic rivalry among the Chinese (its traditional benefactor), Japanese, and Russian empires in the latter half of the 19th and early 20th centuries. After the Sino-Japanese War (1894-95) and the Russo-Japanese War (1904-1905), Korea was occupied by Imperial Japan. In 1910, Japan formally annexed the entire Peninsula. Korea regained its independence after Japan's surrender to the US and its allies in 1945. A US-supported democratic government (Republic of Korea, ROK) was set up in the southern half of the Korean Peninsula, while a communist-style government backed by the Soviet Union was installed in the north (North Korea; aka Democratic People's Republic of Korea, DPRK). During the Korean War (1950-53), US troops and UN forces fought alongside ROK soldiers to defend South Korea from a North Korean invasion supported by communist China and the Soviet Union. After the 1953 armistice, the two Koreas were separated by a demilitarized zone.<br><br>Syngman RHEE led the country as its first president from 1948 to 1960. PARK Chung-hee took over leadership of the country in a 1961 coup. During his controversial rule (1961-79), South Korea achieved rapid economic growth, with per capita income rising to roughly 17 times the level of North Korea by 1979. PARK was assassinated in 1979, and subsequent years were marked by political turmoil and continued military rule as the country's pro-democracy movement grew. South Korea held its first free presidential election under a revised democratic constitution in 1987, with former South Korean Army general ROH Tae-woo winning a close race. In 1993, KIM Young-sam became the first civilian president of South Korea's new democratic era. President KIM Dae-jung (1998-2003) won the Nobel Peace Prize in 2000 for his contributions to South Korean democracy and his "Sunshine Policy" of engagement with North Korea. President PARK Geun-hye, daughter of former South Korean President PARK Chung-hee, took office in 2013 as South Korea's first female leader. In 2016, the National Assembly passed an impeachment motion against PARK over her alleged involvement in a corruption and influence-peddling scandal, triggering an early presidential election in 2017 won by MOON Jae-in. In 2022, longtime prosecutor and political newcomer YOON Suk Yeol won the presidency by the slimmest margin in South Korean history.</p> <p>Discord and tensions with North Korea, punctuated by North Korean military provocations, missile launches, and nuclear tests, have permeated inter-Korean relations for years. Relations remained strained, despite a period of respite in 2018-2019 ushered in by North Korea's participation in the 2018 Winter Olympic and Paralympic Games in South Korea and high-level diplomatic meetings, including historic US-North Korea summits. In 2024, Pyongyang announced it was ending all economic cooperation with South Korea, a move that followed earlier proclamations that it was scrapping a 2018 military pact to de-escalate tensions along their militarized border, abandoning the country’s decades-long pursuit of peaceful unification with South Korea, and designating the South as North Korea’s “principal enemy.”</p><br>
+<p>The first recorded kingdom (Choson) on the Korean Peninsula dates from approximately 2300 B.C. Over the subsequent centuries, three main kingdoms -- Kogoryo, Baekche, and Silla -- were established on the Peninsula. By the 5th century A.D., Kogoryo emerged as the most powerful, with control over much of the Peninsula and part of Manchuria (modern-day northeast China). However, Silla allied with the Chinese to create the first unified Korean state in 688. Following the collapse of Silla in the 9th century, Korea was unified under the Koryo (Goryeo; 918-1392) and the Chosen (Joseon; 1392-1910) dynasties.</p> <p>Korea became the object of intense imperialistic rivalry among the Chinese (its traditional benefactor), Japanese, and Russian empires in the latter half of the 19th and early 20th centuries. After the Sino-Japanese War (1894-95) and the Russo-Japanese War (1904-1905), Korea was occupied by Imperial Japan. In 1910, Japan formally annexed the entire Peninsula. Korea regained its independence after Japan's surrender to the US and its allies in 1945. A US-supported democratic government (Republic of Korea, ROK) was set up in the southern half of the Korean Peninsula, while a communist-style government backed by the Soviet Union was installed in the north (North Korea; aka Democratic People's Republic of Korea, DPRK). During the Korean War (1950-53), US troops and UN forces fought alongside ROK soldiers to defend South Korea from a North Korean invasion supported by communist China and the Soviet Union. After the 1953 armistice, the two Koreas were separated by a demilitarized zone.<br><br>Syngman RHEE led the country as its first president from 1948 to 1960. PARK Chung-hee took over leadership of the country in a 1961 coup. During his controversial rule (1961-79), South Korea achieved rapid economic growth, with per capita income rising to roughly 17 times the level of North Korea by 1979. PARK was assassinated in 1979, and subsequent years were marked by political turmoil and continued military rule as the country's pro-democracy movement grew. South Korea held its first free presidential election under a revised democratic constitution in 1987, with former South Korean Army general ROH Tae-woo winning a close race. In 1993, KIM Young-sam became the first civilian president of South Korea's new democratic era. President KIM Dae-jung (1998-2003) won the Nobel Peace Prize in 2000 for his contributions to South Korean democracy and his "Sunshine Policy" of engagement with North Korea. President PARK Geun-hye, daughter of former South Korean President PARK Chung-hee, took office in 2013 as South Korea's first female leader. In 2016, the National Assembly passed an impeachment motion against PARK over her alleged involvement in a corruption and influence-peddling scandal, triggering an early presidential election in 2017 won by MOON Jae-in. In 2022, longtime prosecutor and political newcomer YOON Suk Yeol won the presidency by the slimmest margin in South Korean history.</p> <p>Discord and tensions with North Korea, punctuated by North Korean military provocations, missile launches, and nuclear tests, have permeated inter-Korean relations for years. Relations remained strained, despite a period of respite in 2018-2019 ushered in by North Korea's participation in the 2018 Winter Olympic and Paralympic Games in South Korea and high-level diplomatic meetings, including historic US-North Korea summits. In 2024, Pyongyang announced it was ending all economic cooperation with South Korea, a move that followed earlier proclamations that it was scrapping a 2018 military pact to de-escalate tensions along their militarized border, abandoning the country’s decades-long pursuit of peaceful unification with South Korea, and designating the South as North Korea’s “principal enemy.”</p><br>
 
 ## Geography
 
@@ -19,7 +19,7 @@ Eastern Asia, southern half of the Korean Peninsula bordering the Sea of Japan a
 Asia<br>
 
 **Area**<br>
-_total_: 99,720 sq km<br>
+_total _: 99,720 sq km<br>
 _land_: 96,920 sq km<br>
 _water_: 2,800 sq km<br>
 
@@ -386,31 +386,31 @@ _selected World Heritage Site locales_: Jeju Volcanic Island and Lava Tubes (n);
 strong export- and technology-oriented East Asian economy; manufacturing led by semiconductor and automotive industries; aging workforce; increased restraint in fiscal policy while maintaining industry support initiatives<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.352 trillion (2022 est.)<br>
-$2.292 trillion (2021 est.)<br>
-$2.198 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2.615 trillion (2023 est.)<br>
+$2.58 trillion (2022 est.)<br>
+$2.515 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+1.36% (2023 est.)<br>
 2.61% (2022 est.)<br>
 4.3% (2021 est.)<br>
--0.71% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$45,600 (2022 est.)<br>
-$44,300 (2021 est.)<br>
-$42,400 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$50,600 (2023 est.)<br>
+$49,900 (2022 est.)<br>
+$48,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.674 trillion (2022 est.)<br>
+$1.713 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.59% (2023 est.)<br>
 5.09% (2022 est.)<br>
 2.5% (2021 est.)<br>
-0.54% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -440,17 +440,17 @@ rice, vegetables, cabbages, milk, pork, onions, chicken, eggs, tangerines/mandar
 electronics, telecommunications, automobile production, chemicals, shipbuilding, steel<br>
 
 **Industrial production growth rate**<br>
-1.35% (2022 est.)<br>
+1.14% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-29.314 million (2022 est.)<br>
+29.611 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+2.64% (2023 est.)<br>
 2.86% (2022 est.)<br>
 3.64% (2021 est.)<br>
-3.93% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -470,14 +470,14 @@ _on food_: 12.8% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 1.8% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.8%<br>
+_lowest 10%_: 2.8% (2016 est.)<br>
 _highest 10%_: 24% (2016 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.45% of GDP (2023 est.)<br>
 0.47% of GDP (2022 est.)<br>
 0.43% of GDP (2021 est.)<br>
-0.45% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -488,25 +488,25 @@ _expenditures_: $372.412 billion (2019 est.)<br>
 1.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+51.18% of GDP (2022 est.)<br>
 48.96% of GDP (2021 est.)<br>
 46.43% of GDP (2020 est.)<br>
-39.97% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-16.73% (of GDP) (2021 est.)<br>
+18.44% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$29.831 billion (2022 est.)<br>
+$35.488 billion (2023 est.)<br>
+$25.829 billion (2022 est.)<br>
 $85.228 billion (2021 est.)<br>
-$75.902 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$820.643 billion (2022 est.)<br>
+$769.534 billion (2023 est.)<br>
+$825.961 billion (2022 est.)<br>
 $769.424 billion (2021 est.)<br>
-$607.505 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -518,9 +518,9 @@ integrated circuits, refined petroleum, cars, broadcasting equipment, ships (202
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$811.129 billion (2022 est.)<br>
+$761.102 billion (2023 est.)<br>
+$817.594 billion (2022 est.)<br>
 $698.98 billion (2021 est.)<br>
-$541.57 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -532,9 +532,9 @@ crude petroleum, integrated circuits, natural gas, coal, refined petroleum (2022
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$420.93 billion (2023 est.)<br>
 $423.366 billion (2022 est.)<br>
 $463.281 billion (2021 est.)<br>
-$443.463 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -543,11 +543,11 @@ $435.98 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: South Korean won (KRW) per US dollar -<br>
+1,305.663 (2023 est.)<br>
 1,291.447 (2022 est.)<br>
 1,143.952 (2021 est.)<br>
 1,180.266 (2020 est.)<br>
 1,165.358 (2019 est.)<br>
-1,100.163 (2018 est.)<br>
 
 ## Energy
 
@@ -680,7 +680,7 @@ _key ports_: Busan, Gwangyang Hang, Inchon, Masan, Mokpo, Pyeongtaek Hang, Ulsan
 
 **Military and security forces**<br>
 Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Republic of Korea Navy (ROKN, includes Marine Corps, ROKMC), Republic of Korea Air Force (ROKAF)<br><br>Ministry of Maritime Affairs and Fisheries: Korea Coast Guard; Ministry of Interior and Safety: Korean National Police Agency (2023)<br>
-<strong>note 1: </strong>in January 2022, the South Korean military announced the formation of a space branch under its Joint Chiefs of Staff to coordinate the development of space and space-enabled capabilities across the Army, Navy and Air Force<br><br><strong>note 2:</strong> the military reserves include Mobilization Reserve Forces (First Combat Forces) and Homeland Defense Forces (Regional Combat Forces)<br>
+<strong>note 1: </strong>the military reserves include Mobilization Reserve Forces (First Combat Forces) and Homeland Defense Forces (Regional Combat Forces)<br>
 
 **Military expenditures**<br>
 2.7% of GDP (2023 est.)<br>
@@ -703,20 +703,20 @@ the South Korean military is equipped with a mix of domestically produced and im
 250 Lebanon (UNIFIL); 275 South Sudan (UNMISS); 170 United Arab Emirates; note - since 2009, South Korea has kept a naval flotilla with approximately 300 personnel in the waters off of the Horn of Africa and the Arabian Peninsula (2024)<br>
 
 **Military - note**<br>
-the South Korean military is primarily focused on the threat from North Korea but also deploys abroad for multinational missions, including peacekeeping and other security operations; it also participates in bilateral and multinational exercises<br><br>South Korea's primary defense partner is the US, and the 1953 US-South Korea Mutual Defense Treaty is a cornerstone of the country's national security; the Treaty committed the US to provide assistance in the event of an attack; in addition, the Treaty gave the US permission to station land, air, and sea forces in and about the territory of South Korea as determined by mutual agreement; the US maintains approximately 28,000 military personnel in the country and conducts bilateral exercises with the South Korean military; South Korea has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; the South Korean military has assisted the US in conflicts in Afghanistan (5,000 troops; 2001-2014), Iraq (20,000 troops; 2003-2008), and Vietnam (325,000 troops; 1964-1973)<br><br>in 2016, South Korea concluded an agreement with the EU for participation in EU Common Security and Defense Policy (CSDP) missions and operations, such as the EU Naval Force Somalia – Operation Atalanta, which protects maritime shipping and conducts counter-piracy operations off the coast of East Africa<br><br>South Korea has been engaged with NATO through dialogue and security cooperation since 2005 and is considered by NATO to be a global partner; in 2022, South Korea established its Mission to NATO to further institutionalize its cooperative relationship; it has participated in NATO-led missions and exercises, including leading an integrated civilian-military reconstruction team in Afghanistan as part of the NATO-led International Security Assistance Force, 2010-2013; it has also cooperated with NATO in countering the threat of piracy in the Gulf of Aden by providing naval vessels as escorts<br><br>in addition to the invasion of South Korea and the subsequent Korean War (1950-53), North Korea from the 1960s to the 1980s launched a considerable number of limited military and subversive actions against South Korea using special forces and terrorist tactics; including aggressive skirmishes along the DMZ, overt attempts to assassinate South Korean leaders, kidnappings, the bombing of an airliner, and a failed effort in 1968 to foment an insurrection and conduct a guerrilla war in the South with more than 100 seaborne commandos; from the 1990s until 2010, the North lost two submarines and a semi-submersible boat attempting to insert infiltrators into the South (1996, 1998) and provoked several engagements in the Northwest Islands area along the disputed Northern Limit Line (NLL), including naval skirmishes between patrol boats in 1999 and 2002, the torpedoing and sinking of a South Korean corvette, the <em>Cheonan</em>, in 2010, and the bombardment of a South Korean Marine Corps installation on Yeonpyeong Island, also in 2010; since 2010, further minor incidents continue to occur periodically along the DMZ, where both the North and the South Korean militaries maintain large numbers of troops (2023)<br>
+the South Korean military is primarily focused on the threat from North Korea but also deploys abroad for multinational missions, including peacekeeping and other security operations; it also participates in bilateral and multinational exercises<br><br>South Korea's primary defense partner is the US, and the 1953 US-South Korea Mutual Defense Treaty is a cornerstone of the country's national security; the Treaty committed the US to provide assistance in the event of an attack and gave the US permission to station land, air, and sea forces in and about the territory of South Korea as determined by mutual agreement; the US maintains approximately 28,000 military personnel in the country and conducts bilateral exercises with the South Korean military; South Korea has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; the South Korean military has assisted the US in conflicts in Afghanistan (5,000 troops; 2001-2014), Iraq (20,000 troops; 2003-2008), and Vietnam (325,000 troops; 1964-1973)<br><br>in 2016, South Korea concluded an agreement with the EU for participation in EU Common Security and Defense Policy (CSDP) missions and operations, such as the EU Naval Force Somalia – Operation Atalanta, which protects maritime shipping and conducts counter-piracy operations off the coast of East Africa<br><br>South Korea has been engaged with NATO through dialogue and security cooperation since 2005 and is considered by NATO to be a global partner; in 2022, South Korea established its Mission to NATO to further institutionalize its cooperative relationship; it has participated in NATO-led missions and exercises, including leading an integrated civilian-military reconstruction team in Afghanistan as part of the NATO-led International Security Assistance Force, 2010-2013; it has also cooperated with NATO in countering the threat of piracy in the Gulf of Aden by providing naval vessels as escorts<br><br>in addition to the invasion of South Korea and the subsequent Korean War (1950-53), North Korea from the 1960s to the 1980s launched a considerable number of limited military and subversive actions against South Korea using special forces and terrorist tactics; including aggressive skirmishes along the DMZ, overt attempts to assassinate South Korean leaders, kidnappings, the bombing of an airliner, and a failed effort in 1968 to foment an insurrection and conduct a guerrilla war in the South with more than 100 seaborne commandos; from the 1990s until 2010, the North lost two submarines and a semi-submersible boat attempting to insert infiltrators into the South (1996, 1998) and provoked several engagements in the Northwest Islands area along the disputed Northern Limit Line (NLL), including naval skirmishes between patrol boats in 1999 and 2002, the torpedoing and sinking of a South Korean corvette, the <em>Cheonan</em>, in 2010, and the bombardment of a South Korean Marine Corps installation on Yeonpyeong Island, also in 2010; since 2010, further minor incidents continue to occur periodically along the DMZ, where both the North and the South Korean militaries maintain large numbers of troops (2023)<br>
 
 ## Space
 
 **Space agency/agencies**<br>
 Korea AeroSpace Administration (KASA; established 2024); Korea Aerospace Research Institute (KARI; established 1989 and previously acted as South Korea's space agency); Korea Advanced Institute of Science and Technology (KAIST); Korean Astronomy and Space Science Institute (KASI; funded by the South Korean Government) (2024)<br>
-<strong>note:</strong> the South Korean space program works closely with the Agency for Defense Development (ADD), a national agency for research and development in defense technology established in 1970<br>
+<strong>note 1:</strong> the South Korean space program works closely with the Agency for Defense Development (ADD), a national agency for research and development in defense technology established in 1970<br><br><strong>note 2:</strong> in January 2022, the South Korean military announced the formation of a space branch under its Joint Chiefs of Staff to coordinate the development of space and space-enabled capabilities across the Army, Navy and Air Force<br>
 
 **Space launch site(s)**<br>
 Naro Space Center (South Jeolla province) (2024)<br>
 
 **Space program overview**<br>
 has a growing and ambitious space program focused on developing satellites, satellite/space launch vehicles (SLVs), and interplanetary probes; has a national space strategy; manufacturers and operates satellites, including those with communications, remote sensing (RS), scientific, and multipurpose capabilities; manufactures and launches SLVs; developing interplanetary space vehicles, including orbital probes and landers; participates in international space programs and has relations with an array of foreign space agencies and industries, including those of Australia, the European Space Agency (ESA) and its member states (particularly France, Germany, Italy, Spain, UK), India, Israel, Japan, Peru, Russia, UAE, and especially the US; has a robust and growing commercial space industry that works closely with government space program in the development of satellites and space launch capabilities; the South Korean Government has said it aims to capture 10% of the global space market by 2045 (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

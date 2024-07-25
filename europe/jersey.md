@@ -19,7 +19,7 @@ Western Europe, island in the English Channel, northwest of France<br>
 Europe<br>
 
 **Area**<br>
-_total_: 116 sq km<br>
+_total _: 116 sq km<br>
 _land_: 116 sq km<br>
 _water_: 0 sq km<br>
 
@@ -308,9 +308,9 @@ $4.98 billion (2014 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
-8.65% (2021 est.)<br>
--7.97% (2020 est.)<br>
-1.33% (2019 est.)<br>
+7.81% (2022 est.)<br>
+15.46% (2021 est.)<br>
+-8.47% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency; entry includes Jersey and Guernsey<br>
 
 **Real GDP per capita**<br>
@@ -318,7 +318,7 @@ $56,600 (2016 est.)<br>
 $49,500 (2015 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$11.736 billion (2021 est.)<br>
+$11.228 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate; entry includes Jersey and Guernsey<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -333,17 +333,17 @@ potatoes, cauliflower, tomatoes; beef, dairy products<br>
 tourism, banking and finance, dairy, electronics<br>
 
 **Industrial production growth rate**<br>
-25.3% (2021 est.)<br>
+1.64% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency; entry includes Jersey and Guernsey<br>
 
 **Labor force**<br>
-86,000 (2022 est.)<br>
+86,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work;entry includes Jersey and Guernsey<br>
 
 **Unemployment rate**<br>
-6.03% (2022 est.)<br>
-6.73% (2021 est.)<br>
-6.72% (2020 est.)<br>
+5.98% (2023 est.)<br>
+5.91% (2022 est.)<br>
+6.61% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment; entry includes Jersey and Guernsey<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -378,11 +378,11 @@ artwork, ships, vegetables, fruits, jewelry (2022)<br>
 
 **Exchange rates**<br>
 _Currency_: Jersey pounds (JEP) per US dollar<br>
+0.805 (2023 est.)<br>
 0.811 (2022 est.)<br>
 0.727 (2021 est.)<br>
 0.78 (2020 est.)<br>
 0.783 (2019 est.)<br>
-0.75 (2018 est.)<br>
 
 ## Energy
 

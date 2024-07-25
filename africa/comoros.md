@@ -19,7 +19,7 @@ Southern Africa, group of islands at the northern mouth of the Mozambique Channe
 Africa<br>
 
 **Area**<br>
-_total_: 2,235 sq km<br>
+_total _: 2,235 sq km<br>
 _land_: 2,235 sq km<br>
 _water_: 0 sq km<br>
 
@@ -365,25 +365,25 @@ _lyrics/music_: Said Hachim SIDI ABDEREMANE/Said Hachim SIDI ABDEREMANE and Kami
 small trade-based island economy; declining remittances; new structural and fiscal reforms; adverse cyclone and COVID-19 impacts; manageable debts; fragile liquidity environment; large foreign direct investment; state-owned enterprises suffering<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.716 billion (2022 est.)<br>
-$2.653 billion (2021 est.)<br>
-$2.598 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2.961 billion (2023 est.)<br>
+$2.883 billion (2022 est.)<br>
+$2.816 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.7% (2023 est.)<br>
 2.39% (2022 est.)<br>
 2.11% (2021 est.)<br>
--0.2% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,200 (2022 est.)<br>
-$3,200 (2021 est.)<br>
-$3,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$3,500 (2023 est.)<br>
+$3,400 (2022 est.)<br>
+$3,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.243 billion (2022 est.)<br>
+$1.352 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -413,17 +413,17 @@ coconuts, bananas, cassava, yams, maize, taro, milk, tomatoes, sweet potatoes, p
 fishing, tourism, perfume distillation<br>
 
 **Industrial production growth rate**<br>
-0.83% (2022 est.)<br>
+0% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-229,000 (2022 est.)<br>
+234,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.75% (2022 est.)<br>
+5.8% (2023 est.)<br>
+5.85% (2022 est.)<br>
 5.86% (2021 est.)<br>
-5.78% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -440,14 +440,14 @@ _female_: 21.5%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.6%<br>
+_lowest 10%_: 1.6% (2014 est.)<br>
 _highest 10%_: 33.7% (2014 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-20.93% of GDP (2022 est.)<br>
+20.77% of GDP (2023 est.)<br>
+22.68% of GDP (2022 est.)<br>
 22.22% of GDP (2021 est.)<br>
-18.5% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -499,9 +499,9 @@ rice, refined petroleum, poultry, water, synthetic fabric (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$324.561 million (2023 est.)<br>
 $283.746 million (2022 est.)<br>
 $329.672 million (2021 est.)<br>
-$294.34 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -510,11 +510,11 @@ $132 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Comoran francs (KMF) per US dollar -<br>
+454.991 (2023 est.)<br>
 467.184 (2022 est.)<br>
 415.956 (2021 est.)<br>
 430.721 (2020 est.)<br>
 439.463 (2019 est.)<br>
-416.585 (2018 est.)<br>
 
 ## Energy
 

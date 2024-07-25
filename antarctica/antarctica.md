@@ -19,7 +19,7 @@ continent mostly south of the Antarctic Circle<br>
 Antarctic Region<br>
 
 **Area**<br>
-_total_: 14.2 million sq km<br>
+_total _: 14.2 million sq km<br>
 _land_: 14.2 million sq km (285,000 sq km ice-free, 13.915 million sq km ice-covered) (est.)<br>
 <strong>note:</strong> fifth-largest continent, following Asia, Africa, North America, and South America, but larger than Australia and the subcontinent of Europe<br>
 

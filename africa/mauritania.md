@@ -19,7 +19,7 @@ Western Africa, bordering the North Atlantic Ocean, between Senegal and Western 
 Africa<br>
 
 **Area**<br>
-_total_: 1,030,700 sq km<br>
+_total _: 1,030,700 sq km<br>
 _land_: 1,030,700 sq km<br>
 _water_: 0 sq km<br>
 
@@ -412,31 +412,31 @@ _selected World Heritage Site locales_: Ancient Ksour (Fortified Villages) of Ou
 lower middle-income West African economy; primarily agrarian; rising urbanization; poor property rights; systemic corruption; endemic social and workforce tensions; wide-scale terrorism; foreign over-fishing; environmentally fragile<br>
 
 **Real GDP (purchasing power parity)**<br>
-$25.245 billion (2022 est.)<br>
-$23.731 billion (2021 est.)<br>
-$23.557 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$30.395 billion (2023 est.)<br>
+$29.4 billion (2022 est.)<br>
+$27.635 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-6.38% (2022 est.)<br>
+3.38% (2023 est.)<br>
+6.39% (2022 est.)<br>
 0.74% (2021 est.)<br>
--0.36% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$5,300 (2022 est.)<br>
-$5,100 (2021 est.)<br>
-$5,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$6,300 (2023 est.)<br>
+$6,200 (2022 est.)<br>
+$6,000 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$9.781 billion (2022 est.)<br>
+$10.453 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.95% (2023 est.)<br>
 9.53% (2022 est.)<br>
 3.57% (2021 est.)<br>
-2.39% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -461,17 +461,17 @@ fish processing, oil production, mining (iron ore, gold, copper)<br>
 <strong>note:</strong> gypsum deposits have never been exploited<br>
 
 **Industrial production growth rate**<br>
-7.31% (2022 est.)<br>
+-0.48% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.135 million (2022 est.)<br>
+1.179 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-10.79% (2022 est.)<br>
-11.33% (2021 est.)<br>
-11.17% (2020 est.)<br>
+10.51% (2023 est.)<br>
+10.6% (2022 est.)<br>
+11.07% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -484,18 +484,18 @@ _female_: 27.9%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-32.6 (2014 est.)<br>
+32 (2019 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3%<br>
-_highest 10%_: 24.9% (2014 est.)<br>
+_lowest 10%_: 3.1% (2019 est.)<br>
+_highest 10%_: 24.6% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.51% of GDP (2022 est.)<br>
+0.57% of GDP (2023 est.)<br>
+1.12% of GDP (2022 est.)<br>
 0.14% of GDP (2021 est.)<br>
-2.04% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -676,11 +676,11 @@ Mauritanian Armed Forces (aka Armée Nationale Mauritanienne): National Army, Na
 <strong>note 1:</strong> the National Police are responsible for enforcing the law and maintaining order in urban areas, while the paramilitary Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas; like the Mauritanian Armed Forces, the Gendarmerie is under the Ministry of Defense, but also supports the ministries of Interior and Justice<br><br><strong>note 2:</strong> the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons; regional authorities may call upon the National Guard to restore civil order during riots and other large-scale disturbances<br>
 
 **Military expenditures**<br>
+2.5% of GDP (2023 est.)<br>
 2.5% of GDP (2022 est.)<br>
 2.4% of GDP (2021 est.)<br>
 2.5% of GDP (2020 est.)<br>
 2.1% of GDP (2019 est.)<br>
-2.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 16,000 Mauritanian Armed Forces personnel (15,000 Army; 700 Navy; 300 Air Force); estimated 3,000 Gendarmerie; estimated 2,000 National Guard (2023)<br>

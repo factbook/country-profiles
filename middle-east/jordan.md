@@ -19,7 +19,7 @@ Middle East, northwest of Saudi Arabia, between Israel (to the west) and Iraq<br
 Middle East<br>
 
 **Area**<br>
-_total_: 89,342 sq km<br>
+_total _: 89,342 sq km<br>
 _land_: 88,802 sq km<br>
 _water_: 540 sq km<br>
 
@@ -401,31 +401,31 @@ _selected World Heritage Site locales_: Petra (c); Quseir Amra (c); Um er-Rasas 
 low growth, upper middle-income Middle Eastern economy; high debt and unemployment, especially for youth and women; key US foreign assistance recipient; natural resource-poor and import-reliant<br>
 
 **Real GDP (purchasing power parity)**<br>
-$107.11 billion (2022 est.)<br>
-$104.571 billion (2021 est.)<br>
-$100.883 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$106.806 billion (2023 est.)<br>
+$104.084 billion (2022 est.)<br>
+$101.617 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.62% (2023 est.)<br>
 2.43% (2022 est.)<br>
 3.66% (2021 est.)<br>
--1.1% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$9,500 (2022 est.)<br>
-$9,400 (2021 est.)<br>
-$9,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$9,400 (2023 est.)<br>
+$9,200 (2022 est.)<br>
+$9,100 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$48.653 billion (2022 est.)<br>
+$50.814 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.08% (2023 est.)<br>
 4.23% (2022 est.)<br>
 1.35% (2021 est.)<br>
-0.33% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -455,17 +455,17 @@ tomatoes, milk, chicken, potatoes, cucumbers/gherkins, olives, watermelons, peac
 tourism, information technology, clothing, fertilizer, potash, phosphate mining, pharmaceuticals, petroleum refining, cement, inorganic chemicals, light manufacturing<br>
 
 **Industrial production growth rate**<br>
-3.33% (2022 est.)<br>
+3.28% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.009 million (2022 est.)<br>
+3.063 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-19.19% (2022 est.)<br>
+17.94% (2023 est.)<br>
+18.2% (2022 est.)<br>
 19.84% (2021 est.)<br>
-19.21% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -489,9 +489,9 @@ _lowest 10%_: 3.4%<br>
 _highest 10%_: 28.7% (2010 est.)<br>
 
 **Remittances**<br>
-10.28% of GDP (2022 est.)<br>
-11.15% of GDP (2021 est.)<br>
-11.17% of GDP (2020 est.)<br>
+9.72% of GDP (2023 est.)<br>
+10.1% of GDP (2022 est.)<br>
+10.96% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -502,13 +502,13 @@ _expenditures_: $13.489 billion (2019 est.)<br>
 -5.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+101.14% of GDP (2022 est.)<br>
 75.97% of GDP (2020 est.)<br>
 79.35% of GDP (2019 est.)<br>
-75.38% of GDP (2017 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-15.98% (of GDP) (2020 est.)<br>
+17.51% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -557,11 +557,11 @@ $29.916 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Jordanian dinars (JOD) per US dollar -<br>
+0.71 (2023 est.)<br>
 0.71 (2022 est.)<br>
 0.71 (2021 est.)<br>
 0.71 (2020 est.)<br>
 0.71 (2019 est.)<br>
-0.71 (2018 est.)<br>
 
 ## Energy
 
@@ -686,11 +686,11 @@ Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations 
 <strong>note: </strong>the JAF report administratively to the minister of defense and have a support role for internal security; the prime minister serves as defense minister, but there is no separate ministry of defense<br>
 
 **Military expenditures**<br>
+4.5% of GDP (2023 est.)<br>
 4.8% of GDP (2022 est.)<br>
 5% of GDP (2021 est.)<br>
 5% of GDP (2020 est.)<br>
 5.6% of GDP (2019 est.)<br>
-5.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 100,000 active-duty armed forces personnel (85,000 Army; 14,000 Air Force; 1,000 Navy); approximately 15,000 Gendarmerie Forces (2023)<br>
@@ -712,7 +712,7 @@ the JAF traces its origins back to the Arab Legion, which was formed under the B
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

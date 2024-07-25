@@ -19,7 +19,7 @@ Western Africa, southeast of Algeria<br>
 Africa<br>
 
 **Area**<br>
-_total_: 1.267 million sq km<br>
+_total _: 1.267 million sq km<br>
 _land_: 1,266,700 sq km<br>
 _water_: 300 sq km<br>
 
@@ -421,31 +421,31 @@ _selected World Heritage Site locales_: Air and T&eacute;n&eacute;r&eacute; Natu
 low-income Sahel economy; major instability and humanitarian crises limit economic activity; COVID-19 eliminated recent antipoverty gains; economy rebounding since December 2020 Nigerian border reopening and new investments; uranium resource rich<br>
 
 **Real GDP (purchasing power parity)**<br>
-$33.406 billion (2022 est.)<br>
-$29.963 billion (2021 est.)<br>
-$29.554 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$44.561 billion (2023 est.)<br>
+$43.474 billion (2022 est.)<br>
+$38.851 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-11.49% (2022 est.)<br>
+2.5% (2023 est.)<br>
+11.9% (2022 est.)<br>
 1.38% (2021 est.)<br>
-3.55% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,300 (2022 est.)<br>
-$1,200 (2021 est.)<br>
-$1,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1,600 (2023 est.)<br>
+$1,700 (2022 est.)<br>
+$1,500 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$15.342 billion (2022 est.)<br>
+$16.819 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.7% (2023 est.)<br>
 4.23% (2022 est.)<br>
 3.84% (2021 est.)<br>
-2.9% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -473,17 +473,17 @@ millet, cowpeas, sorghum, onions, milk, groundnuts, sugarcane, cabbages, cassava
 uranium mining, petroleum, cement, brick, soap, textiles, food processing, chemicals, slaughterhouses<br>
 
 **Industrial production growth rate**<br>
--0.89% (2022 est.)<br>
+2.9% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-9.833 million (2022 est.)<br>
+10.237 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-0.57% (2022 est.)<br>
-0.86% (2021 est.)<br>
-0.66% (2020 est.)<br>
+0.55% (2023 est.)<br>
+0.55% (2022 est.)<br>
+0.82% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -496,18 +496,18 @@ _female_: 0.7%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-37.3 (2018 est.)<br>
+32.9 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.2%<br>
-_highest 10%_: 31.1% (2018 est.)<br>
+_lowest 10%_: 3.8% (2021 est.)<br>
+_highest 10%_: 27.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.26% of GDP (2022 est.)<br>
+3.15% of GDP (2023 est.)<br>
+4.7% of GDP (2022 est.)<br>
 2.37% of GDP (2021 est.)<br>
-3.79% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -525,15 +525,15 @@ _expenditures_: $2.785 billion (2019 est.)<br>
 21.4% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
+-$2.5 billion (2022 est.)<br>
 -$2.099 billion (2021 est.)<br>
 -$1.816 billion (2020 est.)<br>
--$1.572 billion (2019 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$1.376 billion (2022 est.)<br>
 $1.487 billion (2021 est.)<br>
 $1.338 billion (2020 est.)<br>
-$1.387 billion (2019 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -545,9 +545,9 @@ gold, oil seeds, radioactive chemicals, refined petroleum, uranium and thorium o
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$4.194 billion (2022 est.)<br>
 $4.027 billion (2021 est.)<br>
 $3.542 billion (2020 est.)<br>
-$3.395 billion (2019 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -568,11 +568,11 @@ $2.926 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
-555.446 (2018 est.)<br>
 
 ## Energy
 
@@ -674,11 +674,11 @@ Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force
 <strong>note 1:</strong> the Gendarmerie (GN) and the National Guard (GNN) are paramilitary forces; the GN has primary responsibility for rural security while the GNN is responsible for domestic security and the protection of high-level officials and government buildings; the GNN in past years was known as the National Forces of Intervention and Security and the Republican Guard<br><br><strong>note 2: </strong>the National Police includes the Directorate of Territorial Surveillance, which is charged with border management<br>
 
 **Military expenditures**<br>
+2% of GDP (2023 est.)<br>
 1.7% of GDP (2022 est.)<br>
 1.8% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
 1.7% of GDP (2019 est.)<br>
-1.9% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; estimated 30-35,000 active FAN troops; estimated 5-10,000 paramilitary Gendarmerie and National Guard personnel (2023)<br>
@@ -700,7 +700,7 @@ while the FAN is responsible for ensuring external security, most of its focus i
 
 **Terrorist group(s)**<br>
 Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); Islamic State of Iraq and ash-Sham – West Africa (ISIS-WA); Jama'at Nusrat al-Islam wal-Muslimin (JNIM); al-Mulathamun Battalion (al-Mourabitoun)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

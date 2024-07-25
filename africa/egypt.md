@@ -19,7 +19,7 @@ Northern Africa, bordering the Mediterranean Sea, between Libya and the Gaza Str
 Africa<br>
 
 **Area**<br>
-_total_: 1,001,450 sq km<br>
+_total _: 1,001,450 sq km<br>
 _land_: 995,450 sq km<br>
 _water_: 6,000 sq km<br>
 
@@ -83,7 +83,7 @@ approximately 95% of the population lives within 20 km of the Nile River and its
 periodic droughts; frequent earthquakes; flash floods; landslides; hot, driving windstorms called khamsin occur in spring; dust storms; sandstorms<br>
 
 **Geography - note**<br>
-<strong>note:</strong> controls Sinai Peninsula, the only land bridge between Africa and remainder of Eastern Hemisphere; controls Suez Canal, a sea link between Indian Ocean and Mediterranean Sea; size, and juxtaposition to Israel, establish its major role in Middle Eastern geopolitics; dependence on upstream neighbors; dominance of Nile basin issues; prone to influxes of refugees from Sudan and the Palestinian territories<br>
+<strong>note:</strong> controls Sinai Peninsula, the only land bridge between Africa and remainder of Eastern Hemisphere; controls Suez Canal, a sea link between Indian Ocean and Mediterranean Sea; size, and juxtaposition to Israel, establish its major role in Middle Eastern geopolitics; dependence on upstream neighbors; dominance of Nile basin issues<br>
 
 ## People and Society
 
@@ -412,31 +412,31 @@ _selected World Heritage Site locales_: Memphis and its Necropolis (c); Ancient 
 Africa&rsquo;s second-largest economy; 2030 Vision to diversify markets and energy infrastructure; improving fiscal, external, and current accounts; underperforming private sector; poor labor force participation; expanded credit access<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.419 trillion (2022 est.)<br>
-$1.331 trillion (2021 est.)<br>
-$1.288 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.912 trillion (2023 est.)<br>
+$1.842 trillion (2022 est.)<br>
+$1.729 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.76% (2023 est.)<br>
 6.59% (2022 est.)<br>
 3.29% (2021 est.)<br>
-3.55% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$12,800 (2022 est.)<br>
-$12,200 (2021 est.)<br>
-$12,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$17,000 (2023 est.)<br>
+$16,600 (2022 est.)<br>
+$15,800 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$476.748 billion (2022 est.)<br>
+$395.926 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+33.88% (2023 est.)<br>
 13.9% (2022 est.)<br>
 5.21% (2021 est.)<br>
-5.04% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -466,17 +466,17 @@ sugarcane, sugar beets, wheat, maize, tomatoes, potatoes, rice, milk, onions, or
 textiles, food processing, tourism, chemicals, pharmaceuticals, hydrocarbons, construction, cement, metals, light manufactures<br>
 
 **Industrial production growth rate**<br>
-6.86% (2022 est.)<br>
+-0.57% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-32.614 million (2022 est.)<br>
+33.431 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.4% (2022 est.)<br>
+7.31% (2023 est.)<br>
+7.34% (2022 est.)<br>
 7.44% (2021 est.)<br>
-7.97% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -497,14 +497,14 @@ _on food_: 37.6% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 4.7% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.8%<br>
+_lowest 10%_: 3.8% (2019 est.)<br>
 _highest 10%_: 27.5% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+6.11% of GDP (2023 est.)<br>
 5.94% of GDP (2022 est.)<br>
 7.41% of GDP (2021 est.)<br>
-7.71% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -558,9 +558,9 @@ refined petroleum, wheat, crude petroleum, natural gas, plastics (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$33.07 billion (2023 est.)<br>
 $32.144 billion (2022 est.)<br>
 $39.824 billion (2021 est.)<br>
-$38.973 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -569,11 +569,11 @@ $92.638 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Egyptian pounds (EGP) per US dollar -<br>
+30.626 (2023 est.)<br>
 19.16 (2022 est.)<br>
 15.645 (2021 est.)<br>
 15.759 (2020 est.)<br>
 16.771 (2019 est.)<br>
-17.767 (2018 est.)<br>
 
 ## Energy
 
@@ -710,11 +710,11 @@ Egyptian Armed Forces (EAF): Army (includes Republican Guard), Navy (includes Co
 <strong>note 1:</strong> the Public Security Sector Police are responsible for law enforcement nationwide; the Central Security Force protects infrastructure and is responsible for crowd control; the National Security Agency is responsible for internal security threats and counterterrorism along with other security services<br><br><strong>note 2:</strong> in addition to its external defense duties, the EAF also has a mandate to assist police in protecting vital infrastructure during a state of emergency; military personnel were granted full arrest authority in 2011 but normally only use this authority during states of emergency and “periods of significant turmoil”<br>
 
 **Military expenditures**<br>
+1% of GDP (2023 est.)<br>
 1.2% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
 1.3% of GDP (2020 est.)<br>
 1.3% of GDP (2019 est.)<br>
-1.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 450,000 active-duty personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces personnel (2023)<br>
@@ -739,13 +739,13 @@ Egyptian Space Agency (EgSA; public economic authority established 2019); Nation
 
 **Space program overview**<br>
 has a growing program with a focus on developing the capabilities to manufacture satellites and associated support infrastructure; seeks to become a regional space power; operates satellites; builds satellites jointly with foreign partners but developing localized satellite manufacturing capabilities; acquiring through technology transfers and domestic development programs other space-related technologies, including those related to communications, Earth imaging/remote sensing (RS), and satellite payloads and components; cooperating on space-related issues with a variety of foreign governments and commercial space companies, including those of Belarus, Canada, China, the European Space Agency and its member states (particularly France, Germany, Italy), Ghana, India, Japan, Kazakhstan, Kenya, Nigeria, Russia, South Africa, Sudan, Uganda, Ukraine, the UAE, and the US; also a member of the Arab Space Coordination Group, established by the UAE in 2019; has a commercial space sector that focuses on satellite communications, satellite design and production, RS, and space applications (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province (ISIS-SP); al-Qa’ida<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

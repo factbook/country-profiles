@@ -19,7 +19,7 @@ Southwestern Asia, bordering the Caspian Sea, between Iran and Russia, with a sm
 Asia<br>
 
 **Area**<br>
-_total_: 86,600 sq km<br>
+_total _: 86,600 sq km<br>
 _land_: 82,629 sq km<br>
 _water_: 3,971 sq km<br>
 <strong>note:</strong> includes the exclave of Naxcivan Autonomous Republic and the Nagorno-Karabakh region; the final status of the region has yet to be determined<br>
@@ -392,31 +392,31 @@ _selected World Heritage Site locales_: Walled City of Baku; Gobustan Rock Art C
 oil-based economy; macroeconomic instabilities due to demand shocks; recent state bailout of largest lender; potential economic gains from Nagorno-Karabakh conflict; negatively impacted by COVID-19; investing in human capital to diversify and retain younger generation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$153.083 billion (2022 est.)<br>
-$146.327 billion (2021 est.)<br>
-$138.546 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$215.896 billion (2023 est.)<br>
+$213.497 billion (2022 est.)<br>
+$203.884 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.62% (2022 est.)<br>
+1.12% (2023 est.)<br>
+4.71% (2022 est.)<br>
 5.62% (2021 est.)<br>
--4.3% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$15,100 (2022 est.)<br>
-$14,400 (2021 est.)<br>
-$13,700 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$21,300 (2023 est.)<br>
+$21,100 (2022 est.)<br>
+$20,100 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$78.721 billion (2022 est.)<br>
+$72.356 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.79% (2023 est.)<br>
 13.85% (2022 est.)<br>
 6.65% (2021 est.)<br>
-2.76% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -446,17 +446,17 @@ milk, wheat, potatoes, barley, tomatoes, watermelons, cotton, apples, onions, ma
 petroleum and petroleum products, natural gas, oilfield equipment; steel, iron ore; cement; chemicals and petrochemicals; textiles<br>
 
 **Industrial production growth rate**<br>
-0.4% (2022 est.)<br>
+1.34% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.433 million (2022 est.)<br>
+5.473 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+5.64% (2023 est.)<br>
 5.65% (2022 est.)<br>
 6.04% (2021 est.)<br>
-7.24% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -479,9 +479,9 @@ _lowest 10%_: 3.4%<br>
 _highest 10%_: 27.4% (2008)<br>
 
 **Remittances**<br>
-5.02% of GDP (2022 est.)<br>
+3.87% of GDP (2023 est.)<br>
+5.01% of GDP (2022 est.)<br>
 2.78% of GDP (2021 est.)<br>
-3.29% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -502,15 +502,15 @@ _expenditures_: $16.001 billion (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$8.329 billion (2023 est.)<br>
 $23.478 billion (2022 est.)<br>
 $8.203 billion (2021 est.)<br>
--$316.301 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$35.487 billion (2023 est.)<br>
 $47.274 billion (2022 est.)<br>
 $25.494 billion (2021 est.)<br>
-$15.214 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -522,9 +522,9 @@ crude petroleum, natural gas, refined petroleum, fertilizers, aluminum (2022)<br
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$25.016 billion (2023 est.)<br>
 $21.274 billion (2022 est.)<br>
 $16.432 billion (2021 est.)<br>
-$15.632 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -536,9 +536,9 @@ cars, refined petroleum, crude petroleum, wheat, packaged medicine (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$11.29 billion (2022 est.)<br>
-$8.307 billion (2021 est.)<br>
-$7.634 billion (2020 est.)<br>
+$13.749 billion (2023 est.)<br>
+$11.338 billion (2022 est.)<br>
+$8.29 billion (2021 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -547,11 +547,11 @@ $13.83 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Azerbaijani manats (AZN) per US dollar -<br>
+1.7 (2023 est.)<br>
 1.7 (2022 est.)<br>
 1.7 (2021 est.)<br>
 1.7 (2020 est.)<br>
 1.7 (2019 est.)<br>
-1.7 (2018 est.)<br>
 
 ## Energy
 
@@ -665,11 +665,11 @@ Azerbaijan Armed Forces: Land Forces, Air Forces, Navy Forces, State Border Serv
 <strong>note:</strong> the Ministry of Internal Affairs and the State Security Service (intelligence, counterterrorism) are responsible for internal security; the SSPS is under the president and provides protective services to senior officials, foreign missions, significant state assets, government buildings, etc; the National Guard also serves as a reserve for the Army<br>
 
 **Military expenditures**<br>
+4.5% of GDP (2023 est.)<br>
 4.5% of GDP (2022 est.)<br>
 5% of GDP (2021 est.)<br>
 5% of GDP (2020 est.)<br>
 3.8% of GDP (2019 est.)<br>
-3.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimates vary; approximately 60-75,000 active armed forces; approximately 15,000 Ministry of Internal Affairs troops (2023)<br>
@@ -691,13 +691,13 @@ Azerbaijan National Aerospace Agency (NASA; Azərbaycan Milli Aerokosmik Agentli
 
 **Space program overview**<br>
 national space program largely focused on the acquisition and operation of satellites; operates foreign-built communications and remote sensing (RS) satellites; has two satellite ground control stations; cooperates with a variety of foreign space agencies and commercial entities, including those of China, the European Space Agency (and individual member states such as France), Israel, Russia, Turkey, and the US; Azercosmos is the largest satellite operator in the Caucasus region (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

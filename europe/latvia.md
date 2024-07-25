@@ -19,7 +19,7 @@ Eastern Europe, bordering the Baltic Sea, between Estonia and Lithuania<br>
 Europe<br>
 
 **Area**<br>
-_total_: 64,589 sq km<br>
+_total _: 64,589 sq km<br>
 _land_: 62,249 sq km<br>
 _water_: 2,340 sq km<br>
 
@@ -384,31 +384,31 @@ _selected World Heritage Site locales_: Historic Center of Riga; Struve Geodetic
 high-income EU and eurozone member; economic contraction triggered by export decline and energy shocks; recovery driven by easing inflation, wage growth, and investments supported by EU funds; challenges from skilled labor shortages, capital market access, large informal sector, and green and digital transitions&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
-$62.005 billion (2022 est.)<br>
-$59.991 billion (2021 est.)<br>
-$56.207 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$71.154 billion (2023 est.)<br>
+$71.355 billion (2022 est.)<br>
+$69.308 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.36% (2022 est.)<br>
+-0.28% (2023 est.)<br>
+2.95% (2022 est.)<br>
 6.73% (2021 est.)<br>
--3.51% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$33,000 (2022 est.)<br>
-$31,800 (2021 est.)<br>
-$29,600 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$37,800 (2023 est.)<br>
+$38,000 (2022 est.)<br>
+$36,800 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$40.932 billion (2022 est.)<br>
+$43.627 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.94% (2023 est.)<br>
 17.31% (2022 est.)<br>
 3.28% (2021 est.)<br>
-0.22% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -438,17 +438,17 @@ wheat, milk, rapeseed, barley, oats, potatoes, rye, beans, peas, pork (2022)<br>
 processed foods, processed wood products, textiles, processed metals, pharmaceuticals, railroad cars, synthetic fibers, electronics<br>
 
 **Industrial production growth rate**<br>
--2.16% (2022 est.)<br>
+0.71% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-970,000 (2022 est.)<br>
+978,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.81% (2022 est.)<br>
+6.53% (2023 est.)<br>
+6.82% (2022 est.)<br>
 7.51% (2021 est.)<br>
-8.1% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -457,11 +457,11 @@ _male_: 12%<br>
 _female_: 19.6%<br>
 
 **Population below poverty line**<br>
-22.5% (2021 est.)<br>
+22.5% (2022 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-35.7 (2020 est.)<br>
+34.3 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -469,14 +469,14 @@ _on food_: 19.3% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 7.6% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.5%<br>
-_highest 10%_: 27.5% (2020 est.)<br>
+_lowest 10%_: 2.6% (2021 est.)<br>
+_highest 10%_: 26.2% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.26% of GDP (2022 est.)<br>
+2.82% of GDP (2023 est.)<br>
+3.2% of GDP (2022 est.)<br>
 3.34% of GDP (2021 est.)<br>
-3.16% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -492,19 +492,19 @@ _expenditures_: $14.242 billion (2020 est.)<br>
 <strong>note:</strong> data cover general government debt, and includes debt instruments issued (or owned) by government entities, including sub-sectors of central government, state government, local government, and social security funds<br>
 
 **Taxes and other revenues**<br>
-21.92% (of GDP) (2021 est.)<br>
+22.79% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$1.752 billion (2023 est.)<br>
 -$1.937 billion (2022 est.)<br>
 -$1.579 billion (2021 est.)<br>
-$1.017 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$27.947 billion (2023 est.)<br>
 $29.374 billion (2022 est.)<br>
 $25.43 billion (2021 est.)<br>
-$20.932 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -516,9 +516,9 @@ wood, wheat, natural gas, electricity, broadcasting equipment (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$29.626 billion (2023 est.)<br>
 $31.213 billion (2022 est.)<br>
 $26.681 billion (2021 est.)<br>
-$20.479 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -530,9 +530,9 @@ natural gas, refined petroleum, electricity, cars, packaged medicine (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$4.957 billion (2023 est.)<br>
 $4.46 billion (2022 est.)<br>
 $5.491 billion (2021 est.)<br>
-$5.29 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -541,11 +541,11 @@ $42.488 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 
 ## Energy
 

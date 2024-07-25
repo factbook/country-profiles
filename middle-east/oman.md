@@ -19,7 +19,7 @@ Middle East, bordering the Arabian Sea, Gulf of Oman, and Persian Gulf, between 
 Middle East<br>
 
 **Area**<br>
-_total_: 309,500 sq km<br>
+_total _: 309,500 sq km<br>
 _land_: 309,500 sq km<br>
 _water_: 0 sq km<br>
 
@@ -377,31 +377,31 @@ _selected World Heritage Site locales_: Bahla Fort; Archaeological Sites of Bat;
 high-income, oil-based economy; large welfare system; growing government debt; citizenship-based labor force growth policy; US free trade agreement; diversifying portfolio; high female labor force participation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$161.712 billion (2022 est.)<br>
-$155.028 billion (2021 est.)<br>
-$150.378 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$185.96 billion (2023 est.)<br>
+$183.574 billion (2022 est.)<br>
+$175.986 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+1.3% (2023 est.)<br>
 4.31% (2022 est.)<br>
 3.09% (2021 est.)<br>
--3.38% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$35,300 (2022 est.)<br>
-$34,300 (2021 est.)<br>
-$33,100 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$40,000 (2023 est.)<br>
+$40,100 (2022 est.)<br>
+$38,900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$114.667 billion (2022 est.)<br>
+$108.192 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.81% (2022 est.)<br>
-1.55% (2021 est.)<br>
--0.9% (2020 est.)<br>
+0.94% (2023 est.)<br>
+2.51% (2022 est.)<br>
+1.68% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -435,13 +435,13 @@ crude oil production and refining, natural and liquefied natural gas production;
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.261 million (2022 est.)<br>
+2.316 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.53% (2022 est.)<br>
+1.46% (2023 est.)<br>
+1.51% (2022 est.)<br>
 1.9% (2021 est.)<br>
-2.94% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -454,9 +454,9 @@ _on food_: 22.6% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 0.2% of household expenditures (2021 est.)<br>
 
 **Remittances**<br>
+0.04% of GDP (2023 est.)<br>
 0.03% of GDP (2022 est.)<br>
 0.04% of GDP (2021 est.)<br>
-0.05% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -475,9 +475,9 @@ _expenditures_: $35.984 billion (2018 est.)<br>
 31.3% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
-$5.752 billion (2022 est.)<br>
--$4.783 billion (2021 est.)<br>
--$12.263 billion (2020 est.)<br>
+$5.652 billion (2022 est.)<br>
+-$4.834 billion (2021 est.)<br>
+-$12.514 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
@@ -509,9 +509,9 @@ refined petroleum, cars, iron ore, milk, iron pipes (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$17.455 billion (2023 est.)<br>
 $17.606 billion (2022 est.)<br>
 $19.731 billion (2021 est.)<br>
-$15.007 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -520,11 +520,11 @@ $27.05 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Omani rials (OMR) per US dollar -<br>
+0.385 (2023 est.)<br>
 0.385 (2022 est.)<br>
 0.385 (2021 est.)<br>
 0.385 (2020 est.)<br>
 0.385 (2019 est.)<br>
-0.385 (2018 est.)<br>
 
 ## Energy
 
@@ -640,11 +640,11 @@ Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO),
 <strong>note 1: </strong>the Sultan’s Special Forces and the ROP Special Task Force are Oman’s primary tactical counterterrorism response forces<strong><br><br>note 2:</strong> in addition to its policing duties, the ROP conducts many administrative functions similar to the responsibilities of a Ministry of Interior in other countries<br>
 
 **Military expenditures**<br>
+5.5% of GDP (2023 est.)<br>
 5.5% of GDP (2022 est.)<br>
 8% of GDP (2021 est.)<br>
 11% of GDP (2020 est.)<br>
 11.8% of GDP (2019 est.)<br>
-11.2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 40,000 active-duty troops (25,000 Army, 5,000 Navy; 5,000 Air Force; 5,000 Royal Guard) (2023)<br>

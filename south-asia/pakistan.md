@@ -19,7 +19,7 @@ Southern Asia, bordering the Arabian Sea, between India on the east and Iran and
 Asia<br>
 
 **Area**<br>
-_total_: 796,095 sq km<br>
+_total _: 796,095 sq km<br>
 _land_: 770,875 sq km<br>
 _water_: 25,220 sq km<br>
 
@@ -417,31 +417,31 @@ _selected World Heritage Site locales_: Archaeological Ruins at Moenjodaro; Budd
 lower middle-income South Asian economy; extremely high debt; endemic corruption; major currency devaluation; major food insecurity and inflation; environmentally fragile agricultural sector; regional disputes with India and Afghanistan hinder investment<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.268 trillion (2022 est.)<br>
-$1.211 trillion (2021 est.)<br>
-$1.137 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.347 trillion (2023 est.)<br>
+$1.347 trillion (2022 est.)<br>
+$1.285 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.71% (2022 est.)<br>
+0% (2023 est.)<br>
+4.77% (2022 est.)<br>
 6.51% (2021 est.)<br>
--1.27% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$5,400 (2022 est.)<br>
-$5,200 (2021 est.)<br>
-$5,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$5,600 (2023 est.)<br>
+$5,700 (2022 est.)<br>
+$5,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$374.697 billion (2022 est.)<br>
+$338.368 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+30.77% (2023 est.)<br>
 19.87% (2022 est.)<br>
 9.5% (2021 est.)<br>
-9.74% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -471,17 +471,17 @@ sugarcane, bison milk, wheat, milk, rice, maize, potatoes, mangoes/guavas, cotto
 textiles and apparel, food processing, pharmaceuticals, surgical instruments, construction materials, paper products, fertilizer, shrimp<br>
 
 **Industrial production growth rate**<br>
-6.83% (2022 est.)<br>
+-3.76% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-78.863 million (2022 est.)<br>
+80.99 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.6% (2022 est.)<br>
+5.5% (2023 est.)<br>
+5.55% (2022 est.)<br>
 6.34% (2021 est.)<br>
-6.22% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -502,14 +502,14 @@ _on food_: 39.6% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 1.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4.2%<br>
+_lowest 10%_: 4.2% (2018 est.)<br>
 _highest 10%_: 25.5% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-7.97% of GDP (2022 est.)<br>
+7.85% of GDP (2023 est.)<br>
+8.05% of GDP (2022 est.)<br>
 8.98% of GDP (2021 est.)<br>
-8.68% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -528,15 +528,15 @@ _expenditures_: $59.621 billion (2020 est.)<br>
 15.4% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$11.998 billion (2022 est.)<br>
+-$350.044 million (2023 est.)<br>
+-$12.216 billion (2022 est.)<br>
 -$12.283 billion (2021 est.)<br>
--$650.874 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$38.968 billion (2022 est.)<br>
+$36.442 billion (2023 est.)<br>
+$38.967 billion (2022 est.)<br>
 $35.612 billion (2021 est.)<br>
-$27.333 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -548,9 +548,9 @@ garments, fabric, cotton fabric, rice, refined petroleum (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$76.426 billion (2022 est.)<br>
+$57.806 billion (2023 est.)<br>
+$76.594 billion (2022 est.)<br>
 $76.514 billion (2021 est.)<br>
-$52.098 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -562,9 +562,9 @@ refined petroleum, crude petroleum, natural gas, palm oil, cotton (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$13.73 billion (2023 est.)<br>
 $9.927 billion (2022 est.)<br>
 $22.812 billion (2021 est.)<br>
-$18.522 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -573,11 +573,11 @@ $95.671 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Pakistani rupees (PKR) per US dollar -<br>
+280.356 (2023 est.)<br>
 204.867 (2022 est.)<br>
 162.906 (2021 est.)<br>
 161.838 (2020 est.)<br>
 150.036 (2019 est.)<br>
-121.824 (2018 est.)<br>
 
 ## Energy
 
@@ -712,11 +712,11 @@ Pakistan Armed Forces: Pakistan Army (includes National Guard), Pakistan Navy (i
 <strong>note 1:</strong> the National Guard is a paramilitary force and one of the Army's reserve forces, along with the Pakistan Army Reserve, the Frontier Corps, and the Pakistan Rangers<br><br><strong>note 2: </strong>the Frontier Corps is a paramilitary force manned mostly by individuals from the tribal areas and commanded by officers from the Pakistan Army; its primary mission is security of the border with Afghanistan; the Frontier Corps is under the Ministry of Interior, but would report to the Army in times of conflict<br><br><strong>note 3: </strong>the Pakistan Rangers is a paramilitary force operating in Sindh and Punjab<br>
 
 **Military expenditures**<br>
+3% of GDP (2023 est.)<br>
 4% of GDP (2022 est.)<br>
 4% of GDP (2021 est.)<br>
 4% of GDP (2020 est.)<br>
 4.1% of GDP (2019 est.)<br>
-4.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 630,000 active-duty personnel (550,000 Army; 30,000 Navy; 50,000 Air Force); approximately 150,000 Frontier Corps and Pakistan Rangers (2023)<br>
@@ -743,13 +743,13 @@ Somiani Flight Test Range (Balochistan); Tilla Satellite Launch Center (aka Till
 
 **Space program overview**<br>
 space program dates back to the early 1960s but funding shortfalls and shifts in priority toward ballistic missile development in the 1980s and 1990s hampered the program’s development; more recently, the program has regained attention and become more ambitious, particularly in acquiring satellites and reaching agreements with other space powers for additional capabilities; manufactures and operates satellites; researching and developing other space-related capabilities and technologies, such as satellite payloads and probably satellite/space launch vehicles (SLVs); also conducts research in such areas as astronomy, astrophysics, environmental monitoring, and space sciences; has relations or cooperation agreements on space with China, Russia, and Turkey (cooperated with the UK and US prior to the 1990s) (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Haqqani Network; Harakat ul-Jihad-i-Islami; Harakat ul-Mujahidin; Hizbul Mujahideen;<strong> </strong>Indian Mujahedeen; Islamic State of Iraq and ash-Sham-Khorasan (ISIS-K); Islamic State of ash-Sham – India; Islamic State of ash-Sham – Pakistan; Islamic Movement of Uzbekistan; Jaish-e-Mohammed; Jaysh al Adl (Jundallah); Lashkar i Jhangvi; Lashkar-e Tayyiba; Tehrik-e-Taliban Pakistan (TTP); al-Qa’ida; al-Qa’ida in the Indian Subcontinent (AQIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

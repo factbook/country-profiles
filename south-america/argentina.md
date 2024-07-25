@@ -19,7 +19,7 @@ Southern South America, bordering the South Atlantic Ocean, between Chile and Ur
 South America<br>
 
 **Area**<br>
-_total_: 2,780,400 sq km<br>
+_total _: 2,780,400 sq km<br>
 _land_: 2,736,690 sq km<br>
 _water_: 43,710 sq km<br>
 
@@ -408,25 +408,25 @@ _selected World Heritage Site locales_: Los Glaciares National Park (n); Jesuit 
 large diversified economy; financial risks from debt obligations, rapid inflation, and reduced investor appetites; resource-rich, export-led growth model; increasing trade relations with China; G20 and OAS leader; tendency to nationalize businesses and under-report inflation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.039 trillion (2022 est.)<br>
-$989.46 billion (2021 est.)<br>
-$893.675 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.235 trillion (2023 est.)<br>
+$1.254 trillion (2022 est.)<br>
+$1.195 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+-1.55% (2023 est.)<br>
 4.96% (2022 est.)<br>
 10.72% (2021 est.)<br>
--9.9% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$22,500 (2022 est.)<br>
-$21,600 (2021 est.)<br>
-$19,700 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$26,500 (2023 est.)<br>
+$27,100 (2022 est.)<br>
+$26,100 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$631.133 billion (2022 est.)<br>
+$640.591 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -461,17 +461,17 @@ maize, soybeans, wheat, sugarcane, milk, barley, sunflower seeds, beef, sorghum,
 food processing, motor vehicles, consumer durables, textiles, chemicals and petrochemicals, printing, metallurgy, steel<br>
 
 **Industrial production growth rate**<br>
-5.71% (2022 est.)<br>
+-0.35% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-21.511 million (2022 est.)<br>
+21.906 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+6.18% (2023 est.)<br>
 6.81% (2022 est.)<br>
 8.74% (2021 est.)<br>
-11.46% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -484,7 +484,7 @@ _female_: 37.1%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-42 (2021 est.)<br>
+40.7 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -492,14 +492,14 @@ _on food_: 23.2% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 1.9% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.8%<br>
-_highest 10%_: 30.8% (2021 est.)<br>
+_lowest 10%_: 2% (2022 est.)<br>
+_highest 10%_: 29.8% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.25% of GDP (2023 est.)<br>
 0.2% of GDP (2022 est.)<br>
 0.18% of GDP (2021 est.)<br>
-0.17% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -514,19 +514,19 @@ _expenditures_: $170.725 billion (2019 est.)<br>
 55% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-11.47% (of GDP) (2021 est.)<br>
+11.15% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$21.494 billion (2023 est.)<br>
 -$4.29 billion (2022 est.)<br>
 $6.645 billion (2021 est.)<br>
-$2.688 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$83.359 billion (2023 est.)<br>
 $103.002 billion (2022 est.)<br>
 $87.486 billion (2021 est.)<br>
-$64.437 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -538,9 +538,9 @@ soybean meal, corn, soybean oil, wheat, trucks (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$92.574 billion (2023 est.)<br>
 $97.558 billion (2022 est.)<br>
 $72.392 billion (2021 est.)<br>
-$52.343 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -552,9 +552,9 @@ refined petroleum, vehicle parts/accessories, natural gas, fertilizers, cars (20
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$23.081 billion (2023 est.)<br>
 $44.795 billion (2022 est.)<br>
 $39.653 billion (2021 est.)<br>
-$39.404 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -563,11 +563,11 @@ $261.949 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Argentine pesos (ARS) per US dollar -<br>
+296.258 (2023 est.)<br>
 130.617 (2022 est.)<br>
 94.991 (2021 est.)<br>
 70.539 (2020 est.)<br>
 48.148 (2019 est.)<br>
-28.095 (2018 est.)<br>
 
 ## Energy
 
@@ -735,13 +735,13 @@ Manuel Belgrano Space Center (Buenos Aires province): planned launch platform of
 
 **Space program overview**<br>
 has a long history of involvement in the development of space-related capabilities, including rockets and satellites; develops, builds, and operates communications, remote sensing (RS), and scientific satellites, often in partnership with other countries; developing additional satellites with more advanced payloads; has a national space plan; contracts with commercial and other government space agencies for launches but has a domestic rocket program and is developing space launch vehicle (SLV) capabilities; cooperates with a broad range of space agencies and industries, including those of Brazil, China, the European Space Agency and its member states (particularly France, Italy), and the US; also has a commercial space industry, which includes efforts to design, build, and launch reusable small SLVs (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Hizballah<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

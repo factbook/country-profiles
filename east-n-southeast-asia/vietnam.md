@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-Vietnam's early history included periods of occupation by outside forces and eventual power consolidation under Vietnamese dynastic families. A succession of Han Chinese emperors ruled the area, which was centered on the Red River Valley, until approximately the 10th century. The Ly Dynasty (11th-13th century) created the first independent Vietnamese state, which was known as Dai Viet, and established their capital at Thang Long (Hanoi). Under the Tran Dynasty (13th-15th century), TRAN Hung Dao, one of Vietnam’s national heroes, led Dai Viet forces to fight off Mongol invaders in 1279. After a brief Chinese occupation in the early 1400s, Vietnamese resistance leader LE Thai To made himself emperor and established the Le Dynasty, which lasted until the late 18th century despite decades of political turmoil, civil war, and division. During this period, Dai Viet expanded southward to the Central Highlands and Mekong Delta, reaching the approximate boundaries of modern-day Vietnam by the 1750s. Dai Viet suffered additional civil war and division in the latter half of the 18th century, but it was reunited and renamed Vietnam under Emperor NGUYEN Phuc Anh (aka Gia Long) in 1802.<br><br>France began its conquest of Vietnam in 1858 and made Vietnam part of French Indochina in 1887. Vietnam declared independence after World War II, but the French continued to rule until communist forces under Ho Chi MINH defeated them in 1954. Under the Geneva Accords of 1954, Vietnam was divided into the communist North and anti-communist South. Fighting erupted between the two governments shortly afterwards with the North supporting communist rebels in the South and eventually committing thousands of combat troops. The US provided to the South significant economic and military assistance, including large numbers of US military forces, which reached a peak strength of over 500,000 troops in 1968. US combat forces were withdrawn following a cease-fire agreement in 1973. Two years later, North Vietnamese forces overran the South, reuniting the country under communist rule. The conflict, known as the Second Indochina War (1955-1975), caused more than 58,000 US combat and non-combat deaths and created deep domestic divisions in the US. It also devastated Vietnam, spilled over into the neighboring countries of Cambodia and Laos, and is estimated to have resulted in the deaths of up to 3 million Vietnamese civilians and soldiers.  <br><br>Despite the return of peace, the country experienced little economic growth for over a decade because of its diplomatic isolation, leadership policies, and the persecution and mass exodus of citizens, many of them successful South Vietnamese merchants. However, since the enactment of Vietnam's "doi moi" (renovation) policy in 1986, the economy has seen strong growth, particularly in agricultural and industrial production, construction, exports, foreign investment, and tourism. Nevertheless, the Communist Party maintains tight political and social control of the country, and Vietnam faces many related challenges, such as rising income inequality and corruption.<br><br>Since withdrawing its military occupation forces from Cambodia in the late 1980s and the end of Soviet aid in 1991, Vietnam has practiced a non-aligned foreign policy that emphasizes friendly ties with all members of the international community. Vietnam adheres to a security doctrine called the "Four Nos" (no alliances, no siding with one country against another, no foreign bases, and no using force in international relations). Despite longstanding tensions with Beijing over maritime boundaries in the South China Sea, Vietnam puts a priority on stable relations with China, given its proximity, size, and status as Vietnam's largest trading partner.<br>
+Vietnam's early history included periods of occupation by outside forces and eventual power consolidation under Vietnamese dynastic families. A succession of Han Chinese emperors ruled the area, which was centered on the Red River Valley, until approximately the 10th century. The Ly Dynasty (11th-13th century) created the first independent Vietnamese state, which was known as Dai Viet, and established their capital at Thang Long (Hanoi). Under the Tran Dynasty (13th-15th century), TRAN Hung Dao, one of Vietnam’s national heroes, led Dai Viet forces to fight off Mongol invaders in 1279. After a brief Chinese occupation in the early 1400s, Vietnamese resistance leader LE Thai To made himself emperor and established the Le Dynasty, which lasted until the late 18th century despite decades of political turmoil, civil war, and division. During this period, Dai Viet expanded southward to the Central Highlands and Mekong Delta, reaching the approximate boundaries of modern-day Vietnam by the 1750s. Dai Viet suffered additional civil war and division in the latter half of the 18th century, but it was reunited and renamed Vietnam under Emperor NGUYEN Phuc Anh (aka Gia Long) in 1802.<br><br>France began its conquest of Vietnam in 1858 and made Vietnam part of French Indochina in 1887. Vietnam declared independence after World War II, but the French continued to rule until communist forces under Ho Chi MINH defeated them in 1954. Under the Geneva Accords of 1954, Vietnam was divided into the communist North and anti-communist South. Fighting erupted between the two governments shortly afterwards with the North supporting communist rebels in the South and eventually committing thousands of combat troops. The US provided to the South significant economic and military assistance, including large numbers of US military forces, which reached a peak strength of over 500,000 troops in 1968. US combat forces were withdrawn following a cease-fire agreement in 1973. Two years later, North Vietnamese forces overran the South, reuniting the country under communist rule. The conflict, known as the Second Indochina War (1955-1975), caused more than 58,000 US combat and non-combat deaths and created deep domestic divisions in the US. It also devastated Vietnam, spilled over into the neighboring countries of Cambodia and Laos, and is estimated to have resulted in the deaths of up to 3 million Vietnamese civilians and soldiers.  <br><br>Despite the return of peace, the country experienced little economic growth for over a decade because of its diplomatic isolation, leadership policies, and the persecution and mass exodus of citizens, many of them successful South Vietnamese merchants. However, since the enactment of Vietnam's "doi moi" (renovation) policy in 1986, the economy has seen strong growth, particularly in agricultural and industrial production, construction, exports, foreign investment, and tourism. Nevertheless, the Communist Party maintains tight political and social control of the country, and Vietnam faces many related challenges, such as rising income inequality and corruption.<br>
 
 ## Geography
 
@@ -19,7 +19,7 @@ Southeastern Asia, bordering the Gulf of Thailand, Gulf of Tonkin, and South Chi
 Southeast Asia<br>
 
 **Area**<br>
-_total_: 331,210 sq km<br>
+_total _: 331,210 sq km<br>
 _land_: 310,070 sq km<br>
 _water_: 21,140 sq km<br>
 
@@ -77,7 +77,7 @@ though it has one of the highest population densities in the world, the populati
 occasional typhoons (May to January) with extensive flooding, especially in the Mekong River delta<br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> extending 1,650 km north to south, the country is only 50 km across at its narrowest point <br><br><strong>note 2:</strong> Son Doong in Phong Nha-Ke Bang National Park is the world's largest cave (greatest cross sectional area) and is the largest known cave passage in the world by volume; it currently measures a total of 38.5 million cu m (about 1.35 billion cu ft); it connects to Thung cave (but not yet officially); when recognized, it will add an additional 1.6 million cu m in volume; Son Doong is so massive that it contains its own jungle, underground river, and localized weather system; clouds form inside the cave and spew out from its exits and two dolines (openings (sinkhole skylights) created by collapsed ceilings that allow sunlight to stream in)<br><strong><br></strong><br>
+<strong>note 1:</strong> extending 1,650 km north to south, the country is only 50 km across at its narrowest point <br><br><strong>note 2:</strong> Son Doong in Phong Nha-Ke Bang National Park is the world's largest cave (greatest cross sectional area) and is the largest known cave passage in the world by volume; it currently measures a total of 38.5 million cu m (about 1.35 billion cu ft); it connects to Thung cave (but not yet officially); when recognized, it will add an additional 1.6 million cu m in volume; Son Doong is so massive that it contains its own jungle, underground river, and localized weather system; clouds form inside the cave and spew out from its exits and two dolines (openings, or sinkhole skylights, created by collapsed ceilings that allow sunlight to stream in)<br><strong><br></strong><br>
 
 ## People and Society
 
@@ -103,7 +103,7 @@ Catholic 6.1%, Buddhist 5.8%, Protestant 1%, other 0.8%, none 86.3% (2019 est.)<
 <strong>note:</strong> most Vietnamese are culturally Buddhist<br>
 
 **Demographic profile**<br>
-<p>When Vietnam was reunified in 1975, the country had a youthful age structure and a high fertility rate.  The population growth rate slowed dramatically during the next 25 years, as fertility declined and infant mortality and life expectancy improved.  The country’s adoption of a one-or-two-child policy in 1988 led to increased rates of contraception and abortion.  The total fertility rate dropped rapidly from nearly 5 in 1979 to 2.1 or replacement level in 1990, and at 1.8 is below replacement level today.  Fertility is higher in the more rural central highlands and northern uplands, which are inhabited primarily by poorer ethnic minorities, and is lower among the majority Kinh, ethnic Chinese, and a few other ethnic groups, particularly in urban centers.  With more than two-thirds of the population of working age (15-64), Vietnam has the potential to reap a demographic dividend for approximately three decades (between 2010 and 2040).  However, its ability to do so will depend on improving the quality of education and training for its workforce and creating jobs.  The Vietnamese Government is also considering changes to the country’s population policy because if the country’s fertility rate remains below replacement level, it could lead to a worker shortage in the future.</p> <p>Vietnam has experienced both internal migration and net emigration, both for humanitarian and economic reasons, for the last several decades.  Internal migration – rural-rural and rural-urban, temporary and permanent – continues to be a means of coping with Vietnam’s extreme weather and flooding.  Although Vietnam’s population is still mainly rural, increasing numbers of young men and women have been drawn to the country’s urban centers where they are more likely to find steady jobs and higher pay in the growing industrial and service sectors.</p> <p>The aftermath of the Vietnam War in 1975 resulted in an outpouring of approximately 1.6 million Vietnamese refugees over the next two decades.  Between 1975 and 1997, programs such as the Orderly Departure Program and the Comprehensive Plan of Action resettled hundreds of thousands of Vietnamese refugees abroad, including the United States (880,000), China (260,000, mainly ethnic Chinese Hoa), Canada (160,000), Australia (155,000), and European countries (150,000). </p> In the 1980s, some Vietnamese students and workers began to migrate to allied communist countries, including the Soviet Union, Czechoslovakia, Bulgaria, and East Germany.  The vast majority returned home following the fall of communism in Eastern Europe in the early 1990s.  Since that time, Vietnamese labor migrants instead started to pursue opportunities in Asia and the Middle East.  They often perform low-skilled jobs under harsh conditions for low pay and are vulnerable to forced labor, including debt bondage to the private brokers who arrange the work contracts.  Despite Vietnam’s current labor surplus, the country has in recent years attracted some foreign workers, mainly from China and other Asian countries.<br>
+<p>When Vietnam was reunified in 1975, the country had a youthful age structure and a high fertility rate.  The population growth rate slowed dramatically during the next 25 years, as fertility declined and infant mortality and life expectancy improved.  The country’s adoption of a one-or-two-child policy in 1988 led to increased rates of contraception and abortion.  The total fertility rate dropped rapidly from nearly 5 in 1979 to 2.1 or replacement level in 1990, and at 1.8 is below replacement level today.  Fertility is higher in the more rural central highlands and northern uplands, which are inhabited primarily by poorer ethnic minorities, and is lower among the majority Kinh, ethnic Chinese, and a few other ethnic groups, particularly in urban centers.  With more than two-thirds of the population of working age (15-64), Vietnam has the potential to reap a demographic dividend for approximately three decades (between 2010 and 2040).  However, its ability to do so will depend on improving the quality of education and training for its workforce and creating jobs.  The Vietnamese Government is also considering changes to the country’s population policy because if the country’s fertility rate remains below replacement level, it could lead to a worker shortage in the future.</p> <p>Vietnam has experienced both internal migration and net emigration, both for humanitarian and economic reasons, for the last several decades.  Internal migration – rural-rural and rural-urban, temporary and permanent – continues to be a means of coping with Vietnam’s extreme weather and flooding.  Although Vietnam’s population is still mainly rural, increasing numbers of young men and women have been drawn to the country’s urban centers where they are more likely to find steady jobs and higher pay in the growing industrial and service sectors.</p> <p>The aftermath of the Vietnam War in 1975 resulted in an outpouring of approximately 1.6 million Vietnamese refugees over the next two decades.  Between 1975 and 1997, programs such as the Orderly Departure Program and the Comprehensive Plan of Action resettled hundreds of thousands of Vietnamese refugees abroad, including the United States (880,000), China (260,000, mainly ethnic Chinese Hoa), Canada (160,000), Australia (155,000), and European countries (150,000). <br><br>In the 1980s, some Vietnamese students and workers began to migrate to allied communist countries, including the Soviet Union, Czechoslovakia, Bulgaria, and East Germany.  The vast majority returned home following the fall of communism in Eastern Europe in the early 1990s.  Since that time, Vietnamese labor migrants instead started to pursue opportunities in Asia and the Middle East.  They often perform low-skilled jobs under harsh conditions for low pay and are vulnerable to forced labor, including debt bondage to the private brokers who arrange the work contracts.  Despite Vietnam’s current labor surplus, the country has in recent years attracted some foreign workers, mainly from China and other Asian countries.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 23.2% (male 12,953,719/female 11,579,690)<br>
@@ -308,7 +308,7 @@ _abbreviation_: SRV<br>
 _etymology_: "Viet nam" translates as "Viet south," where "Viet" is an ethnic self identification dating to a second century B.C. kingdom and "nam" refers to its location in relation to other Viet kingdoms<br>
 
 **Government type**<br>
-communist state<br>
+communist party-led state<br>
 
 **Capital**<br>
 _name_: Hanoi (Ha Noi)<br>
@@ -349,10 +349,9 @@ _chief of state_: President To LAM (since 22 May 2024)<br>
 _head of government_: Prime Minister Pham Minh CHINH (since 26 July 2021)<br>
 _cabinet_: Cabinet proposed by the prime minister, confirmed by the National Assembly, and appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly from among its members for a single 5-year term; prime minister recommended by the president and confirmed by the National Assembly; deputy prime ministers confirmed by the National Assembly and appointed by the president<br>
-<strong>note: </strong>Nguyen Phu TRONG is the General Secretary of the Vietnam Communist Party (CPV) (since 2011); the CPV sets the general policy direction, leaving most of the day-to-day implementation to the government; Vietnam's two top leadership posts are the CPV General Secretary and the Prime Minister<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Quoc Hoi (500 seats, 499 current; members directly elected in multi-seat constituencies by absolute majority vote; members serve 5-year terms)<br>
+_description_: unicameral National Assembly or Quoc Hoi (500 seats; members directly elected in multi-seat constituencies by absolute majority vote; members serve 5-year terms)<br>
 _elections_: last held on 23 May 2021 (next to be held in spring 2026)<br>
 _election results_: percent of vote by party - CPV 97.2%, 2.8% non-party; seats by party - CPV 486, non-party 14; composition- 342 men, 151 women, percentage women 30.6%<br>
 
@@ -362,7 +361,7 @@ _judge selection and term of office_: chief justice elected by the National Asse
 _subordinate courts_: High Courts (administrative, civil, criminal, economic, labor, family, juvenile); provincial courts; district courts; Military Court; note - the National Assembly Standing Committee can establish special tribunals upon the recommendation of the chief justice<br>
 
 **Political parties and leaders**<br>
-Communist Party of Vietnam or CPV [General Secretary Nguyen Phu TRONG]<br>
+Communist Party of Vietnam or CPV [acting General Secretary To LAM since 18 July 2024]<br>
 <strong>note:</strong> other parties proscribed<br>
 
 **International organization participation**<br>
@@ -407,31 +406,31 @@ _selected World Heritage Site locales_: Complex of Hué Monuments (c); Ha Long B
 lower middle-income socialist East Asian economy; rapid economic growth since Đổi Mới reforms; strong investment and productivity growth; tourism and manufacturing hub; TPP signatory; declining poverty aside from ethnic minorities; systemic corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.119 trillion (2022 est.)<br>
-$1.036 trillion (2021 est.)<br>
-$1.01 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.354 trillion (2023 est.)<br>
+$1.289 trillion (2022 est.)<br>
+$1.192 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-8.02% (2022 est.)<br>
-2.56% (2021 est.)<br>
-2.87% (2020 est.)<br>
+5.05% (2023 est.)<br>
+8.12% (2022 est.)<br>
+2.55% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$11,400 (2022 est.)<br>
-$10,600 (2021 est.)<br>
-$10,500 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$13,700 (2023 est.)<br>
+$13,100 (2022 est.)<br>
+$12,200 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$408.802 billion (2022 est.)<br>
+$429.717 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.25% (2023 est.)<br>
 3.16% (2022 est.)<br>
 1.83% (2021 est.)<br>
-3.22% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -461,17 +460,17 @@ rice, vegetables, sugarcane, cassava, maize, pork, fruits, bananas, coffee, coco
 food processing, garments, shoes, machine-building; mining, coal, steel; cement, chemical fertilizer, glass, tires, oil, mobile phones<br>
 
 **Industrial production growth rate**<br>
-7.78% (2022 est.)<br>
+3.74% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-55.689 million (2022 est.)<br>
+56.149 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+1.6% (2023 est.)<br>
 1.54% (2022 est.)<br>
-2.38% (2021 est.)<br>
-2.1% (2020 est.)<br>
+2.39% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -484,7 +483,7 @@ _female_: 7.5%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-36.8 (2020 est.)<br>
+36.1 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -492,14 +491,14 @@ _on food_: 31.2% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 2.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.5%<br>
-_highest 10%_: 28.5% (2020 est.)<br>
+_lowest 10%_: 2.6% (2022 est.)<br>
+_highest 10%_: 28.1% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+3.26% of GDP (2023 est.)<br>
 3.22% of GDP (2022 est.)<br>
-3.41% of GDP (2021 est.)<br>
-3.04% of GDP (2020 est.)<br>
+3.47% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -518,15 +517,15 @@ _expenditures_: $75.834 billion (2019 est.)<br>
 24.8% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$1.074 billion (2022 est.)<br>
+$25.09 billion (2023 est.)<br>
+$1.402 billion (2022 est.)<br>
 -$4.628 billion (2021 est.)<br>
-$15.06 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$384.204 billion (2022 est.)<br>
+$374.265 billion (2023 est.)<br>
+$385.241 billion (2022 est.)<br>
 $340.126 billion (2021 est.)<br>
-$290.229 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -538,9 +537,9 @@ broadcasting equipment, garments, telephones, integrated circuits, machine parts
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$371.111 billion (2022 est.)<br>
+$339.767 billion (2023 est.)<br>
+$369.746 billion (2022 est.)<br>
 $338.327 billion (2021 est.)<br>
-$269.808 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -563,11 +562,11 @@ $84.34 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: dong (VND) per US dollar -<br>
+23,787.319 (2023 est.)<br>
 23,271.213 (2022 est.)<br>
 23,159.783 (2021 est.)<br>
 23,208.368 (2020 est.)<br>
 23,050.242 (2019 est.)<br>
-22,602.05 (2018 est.)<br>
 
 ## Energy
 
@@ -696,11 +695,11 @@ People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, 
 <strong>note 1:</strong> the People's Public Security Ministry is responsible for internal security and controls the national police, a special national security investigative agency, and other internal security units, including specialized riot police regiments<br><br><strong>note 2:</strong> the Vietnam Coast Guard was established in 1998 as the Vietnam Marine Police and renamed in 2013; Vietnam officially established a maritime self-defense force (civilian militia) in 2010 after the National Assembly passed the Law on Militia and Self-Defense Forces in 2009; the Vietnam Department of Fisheries Resources Surveillance (DFIRES; under the Ministry of Agriculture and Rural Development), established in 2013, is responsible for fisheries enforcement, aquatic conservation roles, and is designated as Vietnam's standing agency for combating illegal, unregulated, and unreported fishing; it is armed, allowed to use force if necessary, and works in tandem with the Vietnam Coast Guard<br>
 
 **Military expenditures**<br>
+1.8% of GDP (2023 est.)<br>
 2.3% of GDP (2022 est.)<br>
 2.3% of GDP (2021 est.)<br>
 2.4% of GDP (2020 est.)<br>
 2.3% of GDP (2019 est.)<br>
-2.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information is limited and varied; estimated 450,000 active-duty troops; estimated 40,000 Border Defense Force and Coast Guard (2023)<br>
@@ -715,7 +714,7 @@ the PAVN is armed largely with weapons and equipment from Russia and the former 
 190 Abyei/South Sudan/Sudan (UNISFA) (2024)<br>
 
 **Military - note**<br>
-the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary<br><br>the PAVN is one of the region’s largest militaries and has participated in numerous conflicts since its founding in the mid-1940s, including the First (1946-54) and Second (1950s-1975) Indochina Wars, the Cambodian-Vietnamese War (1978-1989), and the Sino-Vietnamese War (1979); the PAVN’s current missions include protecting the country's independence, sovereignty, territorial integrity, and national interests; in recent years, it has placed additional emphasis on protecting the country’s maritime economy and sovereignty in the South China Sea, including strengthening air and naval capabilities; the PAVN also assists with natural disasters and is involved in economic projects, such as electrical infrastructure, oil and gas services, hydroelectric projects, aviation and seaport services, telecommunications, and the shipbuilding industry, while military-owned factories and enterprises produce weapons and equipment (2023)<br>
+since withdrawing its military occupation forces from Cambodia in the late 1980s and the end of Soviet aid in 1991, Vietnam has practiced a non-aligned foreign policy that emphasizes friendly ties with all members of the international community; Hanoi adheres to a security doctrine called the "Four Nos" (no alliances, no siding with one country against another, no foreign bases, and no using force in international relations); despite longstanding tensions with Beijing over maritime boundaries in the South China Sea, Vietnam puts a priority on stable relations with China, given its proximity, size, and status as Vietnam's largest trading partner<br><br>the PAVN is one of the region’s largest militaries and has participated in numerous conflicts since its founding in the mid-1940s, including the First (1946-54) and Second (1950s-1975) Indochina Wars, the Cambodian-Vietnamese War (1978-1989), and the Sino-Vietnamese War (1979); the PAVN’s current missions include protecting the country's independence, sovereignty, territorial integrity, and national interests; in recent years, it has placed additional emphasis on protecting the country’s maritime economy and sovereignty in the South China Sea, including strengthening air and naval capabilities; the PAVN also assists with natural disasters and is involved in economic projects, such as electrical infrastructure, oil and gas services, hydroelectric projects, aviation and seaport services, telecommunications, and the shipbuilding industry, while military-owned factories and enterprises produce weapons and equipment<br><br>the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary (2023)<br>
 
 ## Space
 
@@ -723,8 +722,8 @@ the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and 
 Vietnam National Space Center (VNSC; established 2011; formerly known as the Vietnam National Satellite Center); Space Technology Institute (STI; established 2006); both the VNSC and the STI operate under the Vietnamese Academy of Science and Technology (VAST); Ministry of Science and Technology (2024)<br>
 
 **Space program overview**<br>
-has a growing space program focused on acquiring, operating, and exploiting satellites, as well as expanding domestic capabilities in satellites and associated sub-system production, space sciences, and technology applications; builds and operates communications and remote sensing satellites; conducting research and development on space science and applied space technologies, such as advanced optics and space data exploitation; has worked closely with Japan’s Aerospace Exploration Agency (JAXA) and Japanese companies and universities on its space program since inception; cooperation has included funding, loans, training, technical expertise, and data sharing; has also established relationships with the space agencies or commercial space sectors of some European countries (such as France), India, and the US (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+has a growing space program focused on acquiring, operating, and exploiting satellites, as well as expanding domestic capabilities in satellites and associated sub-system production, space sciences, and technology applications; builds and operates communications and remote sensing satellites; conducting research and development on space science and applied space technologies, such as advanced optics and space data exploitation; has worked closely with Japan on its space program since inception; cooperation has included funding, loans, training, technical expertise, and data sharing; has also established relationships with the space agencies or commercial space sectors of some European countries (such as France), India, and the US (2024)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

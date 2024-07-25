@@ -19,7 +19,7 @@ Southeastern Asia, islands between Malaysia and Indonesia<br>
 Southeast Asia<br>
 
 **Area**<br>
-_total_: 719 sq km<br>
+_total _: 719 sq km<br>
 _land_: 709.2 sq km<br>
 _water_: 10 sq km<br>
 
@@ -67,7 +67,7 @@ most of the urbanization is along the southern coast, with relatively dense popu
 flash floods<br>
 
 **Geography - note**<br>
-focal point for Southeast Asian sea routes; consists of about 60 islands, by far the largest of which is Pulau Ujong; land reclamation has removed many former islands and created a number of new ones<br>
+focal point for Southeast Asian sea routes; consists of about 60 islands, the largest of which by far is Pulau Ujong; land reclamation has removed many former islands and created a number of new ones<br>
 
 ## People and Society
 
@@ -327,12 +327,12 @@ _chief of state_: President THARMAN Shanmugaratnam (since 14 September 2023)<br>
 _head of government_: Prime Minister Lawrence WONG (since 15 May 2024)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister; Cabinet responsible to Parliament<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 1 September 2023 (next to be held in 2029); following legislative elections, the leader of the majority party or majority coalition appointed prime minister by the president; deputy prime ministers appointed by the president<br>
-_election results_: <em>2023: </em>THARMAN Shanmugaratnam elected president; percent of vote - THARMAN Shanmugaratnam (independent) 70.4%, NG Kok Song (independent) 15.7%, TAN Kin Lian (independent) 13.9%<br><em><br>2017</em>: HALIMAH Yacob declared president on 13 September 2017, being the only eligible candidate<br>
+_election results_: <em><br>2023: </em>THARMAN Shanmugaratnam elected president; percent of vote - THARMAN Shanmugaratnam (independent) 70.4%, NG Kok Song (independent) 15.7%, TAN Kin Lian (independent) 13.9%<br><em><br>2017</em>: HALIMAH Yacob declared president on 13 September 2017, being the only eligible candidate<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (104 seats statutory, 103 current; 93 members directly elected by simple majority popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members increased to 12 for the 2020 election for the first time<br>
+_description_: unicameral Parliament (104 seats statutory; 93 members directly elected by simple majority popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members increased to 12 for the 2020 election for the first time<br>
 _elections_: last held on 10 July 2020 (next must be held by 24 November 2025)<br>
-_election results_: percent of vote by party - PAP 89.2%, WP 10.6%, other 0.2%; seats by party - PAP 83, WP 10; composition - men 70, women 29, percentage women 29.3%<br>
+_election results_: percent of vote by party - PAP 89.2%, WP 10.6%, other 0.2%; seats by party - PAP 79, WP 10, PSP 2, independent 9; composition - men 70, women 29, percentage women 29.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (although the number of judges varies - as of April 2019,&nbsp;the court&nbsp;totaled 20 judges, 7 judicial commissioners, 4 judges of appeal, and 16 international judges); the court is organized into an upper tier Appeal Court and a lower tier High Court<br>
@@ -340,7 +340,7 @@ _judge selection and term of office_: judges appointed by the president from can
 _subordinate courts_: district, magistrates', juvenile, family, community, and coroners' courts; small claims tribunals; employment claims tribunals<br>
 
 **Political parties and leaders**<br>
-Democratic Progressive Party or DPP [Mohamad Hamim BIN ALIYA]<br>National Solidarity Party or NSP [Spencer NG]<br>People's Action Party or PAP [LEE Hsien Loong]<br>People's Power Party or PPP [Goh Meng SENG]<br>People's Voice or PV [Lim TEAN]<br>Progress Singapore Party or PSP [Francis YUEN]<br>Red Dot United or RDU [Ravi PHILEMON]<br>Reform Party or RP [Kenneth JEYARETNAM]<br>Singapore Democratic Alliance or SDA [Desmond LIM]<br>Singapore Democratic Party or SDP [Dr. CHEE Soon Juan]<br>Singapore People's Party or SPP [Steve CHIA]<br>Singapore United Party or SUP [Andy ZHU]<br>Workers' Party or WP [Pritam SINGH]<br>
+People's Action Party or PAP [LEE Hsien Loong]<br>Progress Singapore Party or PSP [Francis YUEN]<br>Workers' Party or WP [Pritam SINGH]<br>
 <strong>note: </strong>the PAP has won every general election since the end of the British colonial era in 1959<br>
 
 **International organization participation**<br>
@@ -384,31 +384,31 @@ _selected World Heritage Site locales_: Singapore Botanic Gardens<br>
 high-income, service-based Southeast Asian economy; renowned for financial markets and Asian Infrastructure Exchange; business-driven regulations; low unemployment; electronics, oil, and chemicals exporter; continuing education investment<br>
 
 **Real GDP (purchasing power parity)**<br>
-$609.002 billion (2022 est.)<br>
-$587.573 billion (2021 est.)<br>
-$539.641 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$754.758 billion (2023 est.)<br>
+$746.73 billion (2022 est.)<br>
+$719.13 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.65% (2022 est.)<br>
-8.88% (2021 est.)<br>
--3.9% (2020 est.)<br>
+1.08% (2023 est.)<br>
+3.84% (2022 est.)<br>
+9.69% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$108,000 (2022 est.)<br>
-$107,700 (2021 est.)<br>
-$94,900 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$127,500 (2023 est.)<br>
+$132,500 (2022 est.)<br>
+$131,900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$466.788 billion (2022 est.)<br>
+$501.428 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.82% (2023 est.)<br>
 6.12% (2022 est.)<br>
 2.3% (2021 est.)<br>
--0.18% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -438,17 +438,17 @@ chicken, eggs, pork, vegetables, duck, spinach, pork offal, pork fat, cabbages, 
 electronics, chemicals, financial services, oil drilling equipment, petroleum refining, biomedical products, scientific instruments, telecommunication equipment, processed food and beverages, ship repair, offshore platform construction, entrepot trade<br>
 
 **Industrial production growth rate**<br>
-2.9% (2022 est.)<br>
+-2.89% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.541 million (2022 est.)<br>
+3.619 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+3.47% (2023 est.)<br>
 3.59% (2022 est.)<br>
 4.64% (2021 est.)<br>
-4.1% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -468,9 +468,9 @@ _lowest 10%_: 1.6%<br>
 _highest 10%_: 27.5% (2017)<br>
 
 **Remittances**<br>
+0% of GDP (2023 est.)<br>
 0% of GDP (2022 est.)<br>
 0% of GDP (2021 est.)<br>
-0% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -482,25 +482,25 @@ _expenditures_: $90.264 billion (2020 est.)<br>
 -0.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-153.8% of GDP (2021 est.)<br>
-152.04% of GDP (2020 est.)<br>
-127.85% of GDP (2019 est.)<br>
+150.14% of GDP (2021 est.)<br>
+151.57% of GDP (2020 est.)<br>
+127.83% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-13.12% (of GDP) (2021 est.)<br>
+12.03% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$90.239 billion (2022 est.)<br>
-$76.374 billion (2021 est.)<br>
-$57.316 billion (2020 est.)<br>
+$99.128 billion (2023 est.)<br>
+$89.701 billion (2022 est.)<br>
+$86.137 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$870.806 billion (2022 est.)<br>
-$781.068 billion (2021 est.)<br>
-$634.034 billion (2020 est.)<br>
+$873.989 billion (2023 est.)<br>
+$925.952 billion (2022 est.)<br>
+$794.47 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -512,9 +512,9 @@ integrated circuits, refined petroleum, machinery, gold, gas turbines (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$701.629 billion (2022 est.)<br>
-$631.615 billion (2021 est.)<br>
-$525.324 billion (2020 est.)<br>
+$686.656 billion (2023 est.)<br>
+$733.876 billion (2022 est.)<br>
+$637.165 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -526,9 +526,9 @@ integrated circuits, refined petroleum, crude petroleum, gold, machinery (2022)<
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$359.835 billion (2023 est.)<br>
 $296.629 billion (2022 est.)<br>
 $425.098 billion (2021 est.)<br>
-$369.834 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -537,11 +537,11 @@ $1,528,177,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Singapore dollars (SGD) per US dollar -<br>
+1.343 (2023 est.)<br>
 1.379 (2022 est.)<br>
 1.343 (2021 est.)<br>
 1.38 (2020 est.)<br>
 1.364 (2019 est.)<br>
-1.349 (2018 est.)<br>
 
 ## Energy
 
@@ -627,7 +627,7 @@ _annual freight traffic on registered air carriers_: 5,194,900,000 (2018) mt-km<
 1 (2024)<br>
 
 **Pipelines**<br>
-3,220 km domestic gas (2014), 1,122 km cross-border pipelines (2017), 8 km refined products (2013) (2013)<br>
+3,220 km domestic gas (2014), 1,122 km cross-border pipelines (2017), 8 km refined products (2013)<br>
 
 **Roadways**<br>
 _total_: 3,500 km<br>
@@ -653,11 +653,11 @@ Singapore Armed Forces (SAF; aka Singapore Defense Force): Singapore Army, Repub
 <strong>note 1: </strong>the Digital and Intelligence Service (DIS) was stood up as the fourth SAF service in October of 2022<strong><br><br>note 2:</strong> the Gurkha Contingent of the Singapore Police Force (GCSPF) is a paramilitary unit for riot control and acts as a rapid reaction force <strong><br></strong><br><strong>note 3:</strong> in 2009, Singapore established a multi-agency national Maritime Security Task Force (MSTF) to work with law enforcement and maritime agencies to guard Singapore’s waters, including conducting daily patrols, as well as boarding and escort operations in the Singapore Strait; the MSTF is subordinate to the Singapore Navy<br>
 
 **Military expenditures**<br>
-2.8% of GDP (2023 est.)<br>
+2.7% of GDP (2023 est.)<br>
 3% of GDP (2022 est.)<br>
 3% of GDP (2021 est.)<br>
-3% of GDP (2020)<br>
-2.9% of GDP (2019)<br>
+3% of GDP (2020 est.)<br>
+2.9% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 60,000 active-duty troops (45,000 Army; 7,000 Navy; 8,000 Air Force) (2023)<br>
@@ -675,21 +675,9 @@ maintains permanent training detachments of military personnel in Australia, Fra
 **Military - note**<br>
 the SAF’s primary responsibility is external defense, but it has trained for certain domestic security operations, including joint deterrence patrols with police in instances of heightened terrorism alerts; the Army includes a “people’s defense force,” which is a divisional headquarters responsible for homeland security and counterterrorism<br><br>the SAF's roots go back to 1854 when the Singapore Volunteer Rifle Corps was formed under colonial rule; the first battalion of regular soldiers, the First Singapore Infantry Regiment, was organized in 1957; the modern SAF was established in 1965 and is today widely viewed as the best equipped military in Southeast Asia<br><br>Singapore is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily (2023)<br>
 
-## Space
-
-**Space agency/agencies**<br>
-no national government agency; Office for Space Technology and Industry (OSTin) was established in 2013 as a non-government space economic development program with the role of coordinating local space-related industry, universities, international businesses, and government agencies to encourage the development of space technologies in the private sector; the Center for Remote Sensing and Processing (CRISP) is under the National University of Singapore and established with funding from the Agency for Science, Technology, and Research of Singapore; CRISP&rsquo;s mission is to develop an advanced capability in remote sensing (RS) to meet the scientific, operational, and business requirements of Singapore and the region (2023)<br>
-
-**Space program overview**<br>
-space program and capabilities are largely commercial with a focus on acquiring or developing and manufacturing small RS (including optical and microwave) satellites, other satellite-related capabilities, such as data processing, and rockets capable of placing small satellites in low Earth orbit; manufactures and operates satellites; has a considerable civil/commercial and university-based research and development program; has established relations with the space agencies and industries of China, the European Space Agency, India, Japan, and the US; has over 50 companies involved in space-related technology development and manufacturing (2023)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
-
 ## Terrorism
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-&nbsp;<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 1,109 (2022)<br>

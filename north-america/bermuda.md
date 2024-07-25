@@ -19,7 +19,7 @@ North America, group of islands in the North Atlantic Ocean, east of South Carol
 North America<br>
 
 **Area**<br>
-_total_: 54 sq km<br>
+_total _: 54 sq km<br>
 _land_: 54 sq km<br>
 _water_: 0 sq km<br>
 
@@ -328,25 +328,25 @@ _selected World Heritage Site locales_: Historic Town of St George and Related F
 small, tourism- and construction-based, territorial-island economy; American import and tourist destination; known offshore banking hub; increasing inflation; major re-exportation and re-importation area<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.157 billion (2022 est.)<br>
-$5.01 billion (2021 est.)<br>
-$4.863 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$6.349 billion (2022 est.)<br>
+$5.965 billion (2021 est.)<br>
+$5.659 billion (2020 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.93% (2022 est.)<br>
-3.01% (2021 est.)<br>
+6.43% (2022 est.)<br>
+5.42% (2021 est.)<br>
 -6.84% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$81,200 (2022 est.)<br>
-$78,600 (2021 est.)<br>
-$76,100 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$99,800 (2022 est.)<br>
+$93,600 (2021 est.)<br>
+$88,600 (2020 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$7.546 billion (2022 est.)<br>
+$7.828 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -379,7 +379,7 @@ bananas, vegetables, citrus, flowers; dairy products, honey<br>
 international business, tourism, light manufacturing<br>
 
 **Industrial production growth rate**<br>
-0.1% (2021 est.)<br>
+5.57% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -398,8 +398,8 @@ _female_: 29%<br>
 11% (2008 est.)<br>
 
 **Remittances**<br>
-23.85% of GDP (2022 est.)<br>
-23.23% of GDP (2021 est.)<br>
+22.99% of GDP (2022 est.)<br>
+22.72% of GDP (2021 est.)<br>
 22.86% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -456,11 +456,11 @@ $2.435 billion (2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Bermudian dollars (BMD) per US dollar -<br>
+1 (2023 est.)<br>
 1 (2022 est.)<br>
 1 (2021 est.)<br>
 1 (2020 est.)<br>
 1 (2019 est.)<br>
-1 (2018 est.)<br>
 
 ## Energy
 

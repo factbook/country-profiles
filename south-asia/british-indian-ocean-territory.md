@@ -19,7 +19,7 @@ archipelago in the Indian Ocean, south of India, about halfway between Africa an
 Political Map of the World<br>
 
 **Area**<br>
-_total_: 60 sq km<br>
+_total _: 60 sq km<br>
 _land_: 60 sq km (44 Diego Garcia)<br>
 _water_: 54,340 sq km<br>
 <strong>note:</strong> includes the entire Chagos Archipelago of 55 islands<br>

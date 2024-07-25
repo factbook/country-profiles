@@ -19,7 +19,7 @@ Caribbean, island in the North Atlantic Ocean, northeast of Venezuela<br>
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 430 sq km<br>
+_total _: 430 sq km<br>
 _land_: 430 sq km<br>
 _water_: 0 sq km<br>
 
@@ -362,31 +362,31 @@ _selected World Heritage Site locales_: Historic Bridgetown and its Garrison<br>
 largest Eastern Caribbean economy; dependent on US imports and currency strength; high Human Development Index; key tourism and financial sectors; declining but still very high public debt; cost-of-living and cost competitiveness vulnerabilities<br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.342 billion (2022 est.)<br>
-$3.9 billion (2021 est.)<br>
-$3.931 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$4.92 billion (2023 est.)<br>
+$4.708 billion (2022 est.)<br>
+$4.148 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-11.33% (2022 est.)<br>
--0.78% (2021 est.)<br>
--12.74% (2020 est.)<br>
+4.52% (2023 est.)<br>
+13.48% (2022 est.)<br>
+-1.18% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$15,400 (2022 est.)<br>
-$13,900 (2021 est.)<br>
-$14,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$17,400 (2023 est.)<br>
+$16,700 (2022 est.)<br>
+$14,800 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$5.7 billion (2022 est.)<br>
+$6.394 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+9.79% (2023 est.)<br>
 4.1% (2019 est.)<br>
 3.67% (2018 est.)<br>
-4.66% (2017 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -415,17 +415,17 @@ sugarcane, chicken, vegetables, milk, eggs, sweet potatoes, pork, coconuts, cant
 tourism, sugar, light manufacturing, component assembly for export<br>
 
 **Industrial production growth rate**<br>
-5.02% (2022 est.)<br>
+3.64% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-145,000 (2022 est.)<br>
+146,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.5% (2022 est.)<br>
-9.48% (2021 est.)<br>
-9.74% (2020 est.)<br>
+7.95% (2023 est.)<br>
+8.49% (2022 est.)<br>
+9.42% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -434,9 +434,9 @@ _male_: 34.8%<br>
 _female_: 25.6%<br>
 
 **Remittances**<br>
-1.49% of GDP (2022 est.)<br>
-1.73% of GDP (2021 est.)<br>
-1.8% of GDP (2020 est.)<br>
+1.33% of GDP (2023 est.)<br>
+1.46% of GDP (2022 est.)<br>
+1.72% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -447,13 +447,13 @@ _expenditures_: $1.483 billion (2020 est.)<br>
 -4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-146.61% of GDP (2016 est.)<br>
-141.16% of GDP (2015 est.)<br>
-129.32% of GDP (2014 est.)<br>
+146.46% of GDP (2016 est.)<br>
+141.02% of GDP (2015 est.)<br>
+129.2% of GDP (2014 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-27.42% (of GDP) (2016 est.)<br>
+27.39% (of GDP) (2016 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -502,11 +502,11 @@ $668 million (2003 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Barbadian dollars (BBD) per US dollar -<br>
+2 (2023 est.)<br>
 2 (2022 est.)<br>
 2 (2021 est.)<br>
 2 (2020 est.)<br>
 2 (2019 est.)<br>
-2 (2018 est.)<br>
 <strong>note:</strong> the Barbadian dollar is pegged to the US dollar<br>
 
 ## Energy
@@ -613,11 +613,11 @@ Barbados Defense Force (BDF): The Barbados Regiment, The Barbados Coast Guard (2
 <strong>note 1: </strong>the BDF also has a Youth Development Wing, which is comprised of the Barbados Cadet Corps and the Barbados Defense Force Sports Program<br><br><strong>note 2:</strong> authority over the BDF is shared between the president and prime minister, with the president overseeing strategic direction and the prime minister responsible for operational leadership<br><br><strong>note 3: </strong>the Barbados Police Service (TBPS) is the national police force; it is modeled after London's Metropolitan Police Service and divided into three territorial divisions<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2023 est.)<br>
 0.8% of GDP (2022 est.)<br>
 0.9% of GDP (2021 est.)<br>
 0.9% of GDP (2020 est.)<br>
-0.8% of GDP (2019 est.) (approximately $35 million)<br>
-0.8% of GDP (2018 est.) (approximately $40 million)<br>
+0.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 600 active personnel (2023)<br>

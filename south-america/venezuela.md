@@ -19,7 +19,7 @@ Northern South America, bordering the Caribbean Sea and the North Atlantic Ocean
 South America<br>
 
 **Area**<br>
-_total_: 912,050 sq km<br>
+_total _: 912,050 sq km<br>
 _land_: 882,050 sq km<br>
 _water_: 30,000 sq km<br>
 
@@ -438,17 +438,17 @@ milk, sugarcane, maize, plantains, oil palm fruit, bananas, rice, potatoes, pine
 agricultural products, livestock, raw materials, machinery and equipment, transport equipment, construction materials, medical equipment, pharmaceuticals, chemicals, iron and steel products, crude oil and petroleum products<br>
 
 **Industrial production growth rate**<br>
-4.3% (2014 est.)<br>
+-5.84% (2014 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-10.969 million (2022 est.)<br>
+11.548 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.62% (2022 est.)<br>
-7.13% (2021 est.)<br>
-7.53% (2020 est.)<br>
+5.53% (2023 est.)<br>
+5.75% (2022 est.)<br>
+7.03% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -690,13 +690,13 @@ Bolivarian Agency for Space Activities (Agencia Bolivariana para Actividades Esp
 
 **Space program overview**<br>
 has a small program primarily focused on the acquisition of satellites and developing the country’s space engineering and sciences capabilities; operates satellites and maintains two satellite ground control stations; has relations with the space programs of China and Russia (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 National Liberation Army (ELN); Revolutionary Armed Forces of Colombia-People's Army (FARC-EP); Segundo Marquetalia<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

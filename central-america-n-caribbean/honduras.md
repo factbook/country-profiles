@@ -19,7 +19,7 @@ Central America, bordering the Caribbean Sea, between Guatemala and Nicaragua an
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 112,090 sq km<br>
+_total _: 112,090 sq km<br>
 _land_: 111,890 sq km<br>
 _water_: 200 sq km<br>
 
@@ -394,31 +394,31 @@ _selected World Heritage Site locales_: Maya Site of Copan (c); Río Plátano Bi
 second-fastest-growing Central American economy; COVID-19 and two hurricanes crippled activity; high poverty and inequality; declining-but-still-high violent crime disruption; systemic corruption; coffee and banana exporter; enormous remittances<br>
 
 **Real GDP (purchasing power parity)**<br>
-$59.562 billion (2022 est.)<br>
-$57.273 billion (2021 est.)<br>
-$50.894 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$68.854 billion (2023 est.)<br>
+$66.473 billion (2022 est.)<br>
+$63.828 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4% (2022 est.)<br>
-12.53% (2021 est.)<br>
--8.96% (2020 est.)<br>
+3.58% (2023 est.)<br>
+4.14% (2022 est.)<br>
+12.57% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$5,700 (2022 est.)<br>
-$5,600 (2021 est.)<br>
-$5,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$6,500 (2023 est.)<br>
+$6,400 (2022 est.)<br>
+$6,200 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$31.718 billion (2022 est.)<br>
+$34.401 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.66% (2023 est.)<br>
 9.09% (2022 est.)<br>
 4.48% (2021 est.)<br>
-3.47% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -447,17 +447,17 @@ sugarcane, oil palm fruit, milk, maize, bananas, coffee, cantaloupes/melons, chi
 sugar processing, coffee, woven and knit apparel, wood products, cigars<br>
 
 **Industrial production growth rate**<br>
-5.31% (2022 est.)<br>
+-2.04% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.565 million (2022 est.)<br>
+4.676 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-7% (2022 est.)<br>
-8.23% (2021 est.)<br>
-10.68% (2020 est.)<br>
+6.06% (2023 est.)<br>
+7.04% (2022 est.)<br>
+7.94% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -478,14 +478,14 @@ _on food_: 31.9% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 4.9% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.2%<br>
+_lowest 10%_: 1.2% (2019 est.)<br>
 _highest 10%_: 34.6% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-26.75% of GDP (2022 est.)<br>
-25.29% of GDP (2021 est.)<br>
-23.45% of GDP (2020 est.)<br>
+25.58% of GDP (2023 est.)<br>
+27% of GDP (2022 est.)<br>
+25.59% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -500,19 +500,19 @@ _expenditures_: $6.454 billion (2019 est.)<br>
 38.5% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-14.77% (of GDP) (2020 est.)<br>
+15.07% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$2.083 billion (2022 est.)<br>
--$1.528 billion (2021 est.)<br>
-$665.854 million (2020 est.)<br>
+-$1.335 billion (2023 est.)<br>
+-$2.063 billion (2022 est.)<br>
+-$1.538 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$9.385 billion (2022 est.)<br>
-$8.062 billion (2021 est.)<br>
-$6.269 billion (2020 est.)<br>
+$9.701 billion (2023 est.)<br>
+$9.403 billion (2022 est.)<br>
+$8.052 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -524,9 +524,9 @@ garments, coffee, insulated wire, palm oil, bananas (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$17.957 billion (2022 est.)<br>
+$17.861 billion (2023 est.)<br>
+$17.943 billion (2022 est.)<br>
 $14.869 billion (2021 est.)<br>
-$9.94 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -538,9 +538,9 @@ refined petroleum, cotton yarn, garments, synthetic fibers, plastic products (20
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$7.543 billion (2023 est.)<br>
 $8.41 billion (2022 est.)<br>
 $8.667 billion (2021 est.)<br>
-$8.138 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -549,11 +549,11 @@ $8.722 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: lempiras (HNL) per US dollar -<br>
+24.602 (2023 est.)<br>
 24.486 (2022 est.)<br>
 24.017 (2021 est.)<br>
 24.582 (2020 est.)<br>
 24.509 (2019 est.)<br>
-23.903 (2018 est.)<br>
 
 ## Energy
 
@@ -673,11 +673,11 @@ Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Hond
 <strong>note 1:</strong> the National Police of Honduras (Policía Nacional de Honduras, PNH) are under the Secretariat of Security and responsible for internal security; some larger cities have police forces that operate independently of the national police and report to municipal authorities <br><br><strong>note 2:</strong> the PMOP supports the PNH against narcotics trafficking and organized crime; it is subordinate to the Secretariat of Defense/FFAA, but conducts operations sanctioned by civilian security officials as well as by military leaders <br><br><strong>note 3:</strong> the National Interinstitutional Security Force is an interagency command that coordinates the overlapping responsibilities of the HNP, PMOP, and other security organizations such as the National Intelligence Directorate and the Public Ministry (public prosecutor), but exercises coordination, command, and control responsibilities only during interagency operations involving those forces<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2023 est.)<br>
 1.4% of GDP (2022 est.)<br>
 1.5% of GDP (2021 est.)<br>
 1.6% of GDP (2020 est.)<br>
 1.6% of GDP (2019 est.)<br>
-1.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Military Police of Public Order); approximately 18,000 National Police (2023)<br>

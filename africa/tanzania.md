@@ -19,7 +19,7 @@ Eastern Africa, bordering the Indian Ocean, between Kenya and Mozambique<br>
 Africa<br>
 
 **Area**<br>
-_total_: 947,300 sq km<br>
+_total _: 947,300 sq km<br>
 _land_: 885,800 sq km<br>
 _water_: 61,500 sq km<br>
 <strong>note:</strong> includes the islands of Mafia, Pemba, and Zanzibar<br>
@@ -80,7 +80,7 @@ the largest and most populous East African country; population distribution is e
 <p>flooding on the central plateau during the rainy season; drought</p><p><strong>volcanism:</strong> limited volcanic activity; Ol Doinyo Lengai (2,962 m) has emitted lava in recent years; other historically active volcanoes include Kieyo and Meru</p><br>
 
 **Geography - note**<br>
-Kilimanjaro is the highest point in Africa and one of only three mountain ranges on the continent that has glaciers (the others are Mount Kenya [in Kenya] and the Ruwenzori Mountains [on the Uganda-Democratic Republic of the Congo border]); Tanzania is bordered by three of the largest lakes on the continent: Lake Victoria (the world's second-largest freshwater lake) in the north, Lake Tanganyika (the world's second deepest) in the west, and Lake Nyasa (Lake Malawi) in the southwest<br>
+Kilimanjaro is the highest point in Africa and one of only three mountain ranges on the continent that has glaciers (the others are Mount Kenya in Kenya and the Ruwenzori Mountains on the Uganda-Democratic Republic of the Congo border); Tanzania is bordered by three of the largest lakes on the continent: Lake Victoria (the world's second-largest freshwater lake) in the north, Lake Tanganyika (the world's second deepest) in the west, and Lake Nyasa (Lake Malawi) in the southwest<br>
 
 ## People and Society
 
@@ -420,31 +420,31 @@ _selected World Heritage Site locales_: Ngorongoro Conservation Area (m); Ruins 
 emerging lower middle-income East African economy; resource-rich and growing tourism; strong post-pandemic recovery from hospitality, electricity, mining, and transit sectors; declining poverty; stable inflation; gender-based violence economic and labor force disruptions<br>
 
 **Real GDP (purchasing power parity)**<br>
-$166.597 billion (2022 est.)<br>
-$159.334 billion (2021 est.)<br>
-$152.734 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$234.05 billion (2023 est.)<br>
+$222.506 billion (2022 est.)<br>
+$212.79 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.56% (2022 est.)<br>
+5.19% (2023 est.)<br>
+4.57% (2022 est.)<br>
 4.32% (2021 est.)<br>
-1.99% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,600 (2022 est.)<br>
-$2,600 (2021 est.)<br>
-$2,600 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$3,600 (2023 est.)<br>
+$3,500 (2022 est.)<br>
+$3,500 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$75.732 billion (2022 est.)<br>
+$79.158 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.8% (2023 est.)<br>
 4.35% (2022 est.)<br>
 3.69% (2021 est.)<br>
-3.29% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -472,17 +472,17 @@ cassava, maize, sweet potatoes, sugarcane, bananas, milk, rice, vegetables, bean
 agricultural processing (sugar, beer, cigarettes, sisal twine); mining (diamonds, gold, and iron), salt, soda ash; cement, oil refining, shoes, apparel, wood products, fertilizer<br>
 
 **Industrial production growth rate**<br>
-4.3% (2022 est.)<br>
+3.9% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-30.096 million (2022 est.)<br>
+31.219 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.6% (2022 est.)<br>
-2.87% (2021 est.)<br>
-2.78% (2020 est.)<br>
+2.61% (2023 est.)<br>
+2.61% (2022 est.)<br>
+2.81% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -503,14 +503,14 @@ _on food_: 27.4% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 1.6% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9%<br>
+_lowest 10%_: 2.9% (2018 est.)<br>
 _highest 10%_: 33.1% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.42% of GDP (2023 est.)<br>
 0.92% of GDP (2022 est.)<br>
 0.79% of GDP (2021 est.)<br>
-0.49% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -525,19 +525,19 @@ _expenditures_: $10.017 billion (2019 est.)<br>
 38% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-11.7% (of GDP) (2018 est.)<br>
+11.47% (of GDP) (2023 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.122 billion (2020 est.)<br>
--$1.512 billion (2019 est.)<br>
--$2.262 billion (2018 est.)<br>
+-$5.384 billion (2022 est.)<br>
+-$2.388 billion (2021 est.)<br>
+-$1.459 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$11.986 billion (2022 est.)<br>
+$9.874 billion (2021 est.)<br>
 $8.555 billion (2020 est.)<br>
-$9.659 billion (2019 est.)<br>
-$8.307 billion (2018 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -549,9 +549,9 @@ gold, raw copper, refined copper, copper ore, coconuts/Brazil nuts/cashews (2022
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$9.181 billion (2020 est.)<br>
-$10.576 billion (2019 est.)<br>
-$10.399 billion (2018 est.)<br>
+$16.674 billion (2022 est.)<br>
+$11.61 billion (2021 est.)<br>
+$9.151 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -703,7 +703,7 @@ Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): 
 <strong>note 1:</strong> the National Building Army (aka National Services) is a paramilitary organization under the Defense Forces that provides six months of military and vocational training to individuals as part of their two years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia<br><br><strong>note 2:</strong> the Tanzania Police Force includes the Police Field Force (aka Field Force Unit), a special police division with the responsibility for controlling unlawful demonstrations and riots<br>
 
 **Military expenditures**<br>
-2.9% of GDP (2023 est.)<br>
+1.3% of GDP (2023 est.)<br>
 1.2% of GDP (2022 est.)<br>
 1.1% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
@@ -728,7 +728,7 @@ the TDPF&rsquo;s primary concerns are maritime piracy and smuggling, border secu
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

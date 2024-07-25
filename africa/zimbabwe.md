@@ -19,7 +19,7 @@ Southern Africa, between South Africa and Zambia<br>
 Africa<br>
 
 **Area**<br>
-_total_: 390,757 sq km<br>
+_total _: 390,757 sq km<br>
 _land_: 386,847 sq km<br>
 _water_: 3,910 sq km<br>
 
@@ -410,25 +410,25 @@ _selected World Heritage Site locales_: Mana Pools National Park, Sapi, and Chew
 low income Sub-Saharan economy; political instability and endemic corruption have prevented reforms and stalled debt restructuring; new Zimbabwe Gold (ZiG) currency latest effort to combat ongoing hyperinflation; reliant on natural resource extraction, agriculture and remittances<br>
 
 **Real GDP (purchasing power parity)**<br>
-$36.035 billion (2022 est.)<br>
-$33.829 billion (2021 est.)<br>
-$31.188 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$58.583 billion (2023 est.)<br>
+$55.817 billion (2022 est.)<br>
+$52.399 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+4.96% (2023 est.)<br>
 6.52% (2022 est.)<br>
 8.47% (2021 est.)<br>
--7.82% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,200 (2022 est.)<br>
-$2,100 (2021 est.)<br>
-$2,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$3,500 (2023 est.)<br>
+$3,400 (2022 est.)<br>
+$3,300 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$27.367 billion (2022 est.)<br>
+$26.538 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -462,13 +462,13 @@ mining (coal, gold, platinum, copper, nickel, tin, diamonds, clay, numerous meta
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-6.371 million (2022 est.)<br>
+6.561 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.26% (2022 est.)<br>
+8.76% (2023 est.)<br>
+10.09% (2022 est.)<br>
 9.54% (2021 est.)<br>
-8.65% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -485,14 +485,14 @@ _female_: 8.5%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.5%<br>
+_lowest 10%_: 2.5% (2017 est.)<br>
 _highest 10%_: 34.8% (2017 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+11.74% of GDP (2023 est.)<br>
 11.27% of GDP (2022 est.)<br>
 9.07% of GDP (2021 est.)<br>
-8.52% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -519,7 +519,7 @@ $920.472 million (2019 est.)<br>
 **Exports**<br>
 $7.65 billion (2022 est.)<br>
 $6.462 billion (2021 est.)<br>
-$4.795 billion (2020 est.)<br>
+$5.263 billion (2020 est.)<br>
 <strong>note:</strong> GDP expenditure basis - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -533,7 +533,7 @@ gold, nickel, tobacco, iron alloys, diamonds (2022)<br>
 **Imports**<br>
 $10.126 billion (2022 est.)<br>
 $7.964 billion (2021 est.)<br>
-$5.382 billion (2020 est.)<br>
+$5.489 billion (2020 est.)<br>
 <strong>note:</strong> GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -545,9 +545,9 @@ refined petroleum, fertilizers, trucks, soybean oil, electricity (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$115.53 million (2023 est.)<br>
 $598.622 million (2022 est.)<br>
 $838.78 million (2021 est.)<br>
-$33.405 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -556,11 +556,11 @@ $10.14 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Zimbabwean dollars (ZWD) per US dollar -<br>
+3,509.172 (2023 est.)<br>
 374.954 (2022 est.)<br>
 88.552 (2021 est.)<br>
 51.329 (2020 est.)<br>
 16.446 (2019 est.)<br>
-322.355 (2018 est.)<br>
 <strong>note: </strong>ongoing hyperinflation rendered Zimbabwean dollar essentially worthless; introduction of Zimbabwe Gold (ZiG) as new currency effective April 2024<br>
 
 ## Energy
@@ -669,11 +669,11 @@ _unpaved_: 78,786 km (2023)<br>
 Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ)<br><br>Ministry of Home Affairs: Zimbabwe Republic Police (2024)<br>
 
 **Military expenditures**<br>
+0.3% of GDP (2023 est.)<br>
 0.5% of GDP (2022 est.)<br>
 0.8% of GDP (2021 est.)<br>
 0.5% of GDP (2020 est.)<br>
 2.6% of GDP (2019 est.)<br>
-1.7% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 30,000 active-duty troops, including about 4,000 Air Force personnel (2023)<br>
@@ -694,7 +694,7 @@ Zimbabwe National Geospatial and Space Agency (ZINGSA; established in 2019 and o
 
 **Space program overview**<br>
 has a nascent program with the goal of utilizing space technologies in economic development; particularly interested in remote sensing capabilities to assist with monitoring or managing agriculture and food security, climate change, disease outbreaks, environmental hazards and disasters, and natural resources, as well as weather forecasting; part of a joint project (BIRDS-5) with Japan, which seeks to promote the first steps towards creating an indigenous space program by designing, building, testing, launching, and operating the first satellites for participating countries (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

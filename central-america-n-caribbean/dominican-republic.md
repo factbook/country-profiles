@@ -19,7 +19,7 @@ Caribbean, eastern two-thirds of the island of Hispaniola, between the Caribbean
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 48,670 sq km<br>
+_total _: 48,670 sq km<br>
 _land_: 48,320 sq km<br>
 _water_: 350 sq km<br>
 
@@ -397,31 +397,31 @@ _selected World Heritage Site locales_: Colonial City of Santo Domingo<br>
 surging middle-income tourism, construction, mining, and telecommunications OECS economy; major foreign US direct investment and free-trade zones; developing local financial markets; improving debt management; declining poverty<br>
 
 **Real GDP (purchasing power parity)**<br>
-$217.143 billion (2022 est.)<br>
-$207.082 billion (2021 est.)<br>
-$184.447 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$261.616 billion (2023 est.)<br>
+$255.582 billion (2022 est.)<br>
+$243.74 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.36% (2023 est.)<br>
 4.86% (2022 est.)<br>
 12.27% (2021 est.)<br>
--6.72% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$19,300 (2022 est.)<br>
-$18,600 (2021 est.)<br>
-$16,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$23,100 (2023 est.)<br>
+$22,800 (2022 est.)<br>
+$21,900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$113.537 billion (2022 est.)<br>
+$121.444 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.79% (2023 est.)<br>
 8.81% (2022 est.)<br>
 8.24% (2021 est.)<br>
-3.78% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -451,17 +451,17 @@ sugarcane, bananas, papayas, plantains, rice, milk, avocados, watermelons, veget
 tourism, sugar processing, gold mining, textiles, cement, tobacco, electrical components, medical devices<br>
 
 **Industrial production growth rate**<br>
-1.43% (2022 est.)<br>
+-0.07% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.175 million (2022 est.)<br>
+5.302 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+5.56% (2023 est.)<br>
 5.5% (2022 est.)<br>
 7.7% (2021 est.)<br>
-6.13% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -474,7 +474,7 @@ _female_: 27.9%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-38.5 (2021 est.)<br>
+37 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -482,14 +482,14 @@ _on food_: 26.8% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3.8% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.6%<br>
-_highest 10%_: 30.2% (2021 est.)<br>
+_lowest 10%_: 2.6% (2022 est.)<br>
+_highest 10%_: 28.3% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+8.65% of GDP (2023 est.)<br>
 9.05% of GDP (2022 est.)<br>
 11.4% of GDP (2021 est.)<br>
-10.57% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -504,19 +504,19 @@ _expenditures_: $14.511 billion (2019 est.)<br>
 34.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-14.38% (of GDP) (2021 est.)<br>
+13.82% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$6.327 billion (2022 est.)<br>
+-$4.376 billion (2023 est.)<br>
+-$6.549 billion (2022 est.)<br>
 -$2.685 billion (2021 est.)<br>
--$1.337 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$25.103 billion (2022 est.)<br>
+$25.843 billion (2023 est.)<br>
+$25.169 billion (2022 est.)<br>
 $20.601 billion (2021 est.)<br>
-$14.889 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -528,9 +528,9 @@ medical instruments, gold, tobacco, power equipment, garments (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$36.36 billion (2022 est.)<br>
+$34.455 billion (2023 est.)<br>
+$36.838 billion (2022 est.)<br>
 $28.69 billion (2021 est.)<br>
-$20.302 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -542,9 +542,9 @@ refined petroleum, natural gas, cars, plastic products, crude petroleum (2022)<b
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$15.547 billion (2023 est.)<br>
 $14.523 billion (2022 est.)<br>
 $13.125 billion (2021 est.)<br>
-$10.845 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -553,11 +553,11 @@ $21.198 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Dominican pesos (DOP) per US dollar -<br>
+56.158 (2023 est.)<br>
 55.141 (2022 est.)<br>
 57.221 (2021 est.)<br>
 56.525 (2020 est.)<br>
 51.295 (2019 est.)<br>
-49.51 (2018 est.)<br>
 
 ## Energy
 

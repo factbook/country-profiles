@@ -19,7 +19,7 @@ Central Africa, bordering the Bight of Biafra, between Equatorial Guinea and Nig
 Africa<br>
 
 **Area**<br>
-_total_: 475,440 sq km<br>
+_total _: 475,440 sq km<br>
 _land_: 472,710 sq km<br>
 _water_: 2,730 sq km<br>
 
@@ -417,31 +417,31 @@ _selected World Heritage Site locales_: Dja Faunal Reserve; Sangha Trinational F
 largest CEMAC economy with many natural resources; recent political instability and terrorism reducing economic output; systemic corruption; poor property rights enforcement; increasing poverty in northern regions<br>
 
 **Real GDP (purchasing power parity)**<br>
-$103.941 billion (2022 est.)<br>
-$100.346 billion (2021 est.)<br>
-$97.103 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$138.925 billion (2023 est.)<br>
+$133.59 billion (2022 est.)<br>
+$128.969 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.99% (2023 est.)<br>
 3.58% (2022 est.)<br>
 3.34% (2021 est.)<br>
-0.26% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,700 (2022 est.)<br>
-$3,700 (2021 est.)<br>
-$3,700 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$4,800 (2023 est.)<br>
+$4,800 (2022 est.)<br>
+$4,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$43.644 billion (2022 est.)<br>
+$47.946 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.38% (2023 est.)<br>
 6.25% (2022 est.)<br>
 2.27% (2021 est.)<br>
-2.44% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -471,17 +471,17 @@ cassava, plantains, oil palm fruit, maize, taro, tomatoes, sorghum, sugarcane, b
 petroleum production and refining, aluminum production, food processing, light consumer goods, textiles, lumber, ship repair<br>
 
 **Industrial production growth rate**<br>
-2.74% (2022 est.)<br>
+3.8% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-11.592 million (2022 est.)<br>
+11.965 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.78% (2022 est.)<br>
-4.15% (2021 est.)<br>
-3.99% (2020 est.)<br>
+3.65% (2023 est.)<br>
+3.69% (2022 est.)<br>
+3.95% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -494,7 +494,7 @@ _female_: 7.3%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-46.6 (2014 est.)<br>
+42.2 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -502,14 +502,14 @@ _on food_: 45.2% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 2% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.7%<br>
-_highest 10%_: 35% (2014 est.)<br>
+_lowest 10%_: 2.1% (2021 est.)<br>
+_highest 10%_: 31.1% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.84% of GDP (2022 est.)<br>
+0.78% of GDP (2023 est.)<br>
+1.29% of GDP (2022 est.)<br>
 0.96% of GDP (2021 est.)<br>
-0.82% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -562,9 +562,9 @@ refined petroleum, wheat, garments, rice, plastic products (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.459 billion (2018 est.)<br>
-$3.197 billion (2017 est.)<br>
-$2.226 billion (2016 est.)<br>
+$5.133 billion (2022 est.)<br>
+$4.3 billion (2021 est.)<br>
+$3.962 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -573,11 +573,11 @@ $7.364 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
-555.446 (2018 est.)<br>
 
 ## Energy
 
@@ -730,7 +730,7 @@ the FAC ground forces (Army and the Rapid Intervention Battalion) are largely fo
 
 **Terrorist group(s)**<br>
 Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

@@ -19,7 +19,7 @@ Southeastern Asia, peninsula bordering Thailand and northern one-third of the is
 Southeast Asia<br>
 
 **Area**<br>
-_total_: 329,847 sq km<br>
+_total _: 329,847 sq km<br>
 _land_: 328,657 sq km<br>
 _water_: 1,190 sq km<br>
 
@@ -390,31 +390,31 @@ _selected World Heritage Site locales_: Gunung Mulu National Park (n); Kinabalu 
 upper middle-income Southeast Asian economy; implementing key anticorruption policies; major electronics, oil, and chemicals exporter; trade sector employs over 40% of jobs; key economic equity initiative; high labor productivity<br>
 
 **Real GDP (purchasing power parity)**<br>
-$963.29 billion (2022 est.)<br>
-$886.596 billion (2021 est.)<br>
-$858.293 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.152 trillion (2023 est.)<br>
+$1.111 trillion (2022 est.)<br>
+$1.023 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.68% (2023 est.)<br>
 8.65% (2022 est.)<br>
 3.3% (2021 est.)<br>
--5.46% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$28,400 (2022 est.)<br>
-$26,400 (2021 est.)<br>
-$25,900 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$33,600 (2023 est.)<br>
+$32,700 (2022 est.)<br>
+$30,500 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$407.027 billion (2022 est.)<br>
+$399.649 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.49% (2023 est.)<br>
 3.38% (2022 est.)<br>
 2.48% (2021 est.)<br>
--1.14% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -444,17 +444,17 @@ oil palm fruit, rice, chicken, eggs, coconuts, tropical fruits, vegetables, rubb
 Peninsular Malaysia - rubber and oil palm processing and manufacturing, petroleum and natural gas, light manufacturing, pharmaceuticals, medical technology, electronics and semiconductors, timber processing; Sabah - logging, petroleum and natural gas production; Sarawak - agriculture processing, petroleum and natural gas production, logging<br>
 
 **Industrial production growth rate**<br>
-6.46% (2022 est.)<br>
+1.43% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-17.129 million (2022 est.)<br>
+17.308 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.63% (2022 est.)<br>
-4.08% (2021 est.)<br>
-4.54% (2020 est.)<br>
+3.86% (2023 est.)<br>
+3.93% (2022 est.)<br>
+4.64% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -467,7 +467,7 @@ _female_: 17.8%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-41.2 (2018 est.)<br>
+40.7 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -475,14 +475,14 @@ _on food_: 27.5% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 1.9% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.3%<br>
-_highest 10%_: 31.2% (2018 est.)<br>
+_lowest 10%_: 2.3% (2021 est.)<br>
+_highest 10%_: 30.9% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.44% of GDP (2023 est.)<br>
 0.4% of GDP (2022 est.)<br>
 0.42% of GDP (2021 est.)<br>
-0.42% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -493,13 +493,13 @@ _expenditures_: $85.851 billion (2019 est.)<br>
 -3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+60.27% of GDP (2022 est.)<br>
 63.26% of GDP (2021 est.)<br>
 62.01% of GDP (2020 est.)<br>
-52.42% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-11.21% (of GDP) (2021 est.)<br>
+11.65% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -537,9 +537,9 @@ integrated circuits, refined petroleum, crude petroleum, coal, vehicle parts/acc
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$113.438 billion (2023 est.)<br>
 $114.659 billion (2022 est.)<br>
 $116.916 billion (2021 est.)<br>
-$107.644 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -548,11 +548,11 @@ $226.901 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: ringgits (MYR) per US dollar -<br>
+4.561 (2023 est.)<br>
 4.401 (2022 est.)<br>
 4.143 (2021 est.)<br>
 4.203 (2020 est.)<br>
 4.142 (2019 est.)<br>
-4.035 (2018 est.)<br>
 
 ## Energy
 
@@ -711,13 +711,13 @@ Malaysian Space Agency (MYSA); MYSA was established in 2019 through the merging 
 
 **Space program overview**<br>
 has a growing space program focused on the areas of remote sensing (RS), communication, and navigational services to support domestic economic sectors; also seeks to promote a domestic space industry; acquires, manufactures, and operates satellites; conducts research in RS capabilities and space sciences such as astronomy, atmospherics, space environment, and weather; has an astronaut training exchange program with Russia and has relations with a variety of foreign space agencies and industries, including those of the European Space Agency and some of its individual member states, India, Japan, Russia, South Korea, the UK, and the US (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS); Jemaah Islamiyah (JI); Abu Sayyaf Group (ASG)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

@@ -19,7 +19,7 @@ Eastern Africa, bordering the Indian Ocean, between Somalia and Tanzania<br>
 Africa<br>
 
 **Area**<br>
-_total_: 580,367 sq km<br>
+_total _: 580,367 sq km<br>
 _land_: 569,140 sq km<br>
 _water_: 11,227 sq km<br>
 
@@ -406,31 +406,31 @@ _selected World Heritage Site locales_: Lake Turkana National Parks (n); Mount K
 fast growing, third largest Sub-Saharan economy; strong agriculture sector with emerging services and tourism industries; IMF program to address current account and debt service challenges; business-friendly policies foster infrastructure investment, digital innovation and public-private partnerships; vulnerable to climate change-induced droughts<br>
 
 **Real GDP (purchasing power parity)**<br>
-$263.737 billion (2022 est.)<br>
-$251.545 billion (2021 est.)<br>
-$233.799 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$314.063 billion (2023 est.)<br>
+$297.9 billion (2022 est.)<br>
+$284.129 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+5.43% (2023 est.)<br>
 4.85% (2022 est.)<br>
 7.59% (2021 est.)<br>
--0.27% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$4,900 (2022 est.)<br>
-$4,700 (2021 est.)<br>
-$4,500 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$5,700 (2023 est.)<br>
+$5,500 (2022 est.)<br>
+$5,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$113.42 billion (2022 est.)<br>
+$107.441 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.67% (2023 est.)<br>
 7.66% (2022 est.)<br>
 6.11% (2021 est.)<br>
-5.4% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -460,17 +460,17 @@ sugarcane, milk, maize, tea, bananas, potatoes, cabbages, camel milk, cassava, m
 agriculture, transportation, services, manufacturing, construction, telecommunications, tourism, retail<br>
 
 **Industrial production growth rate**<br>
-3.87% (2022 est.)<br>
+2.2% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-24.75 million (2022 est.)<br>
+25.502 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.64% (2022 est.)<br>
+5.68% (2023 est.)<br>
+5.81% (2022 est.)<br>
 5.69% (2021 est.)<br>
-5.63% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -491,14 +491,14 @@ _on food_: 56.1% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3.7% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9%<br>
+_lowest 10%_: 2.9% (2021 est.)<br>
 _highest 10%_: 31.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+3.92% of GDP (2023 est.)<br>
 3.58% of GDP (2022 est.)<br>
 3.44% of GDP (2021 est.)<br>
-3.09% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -551,9 +551,9 @@ refined petroleum, palm oil, garments, wheat, plastics (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$7.342 billion (2023 est.)<br>
 $7.969 billion (2022 est.)<br>
 $9.491 billion (2021 est.)<br>
-$8.297 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -562,11 +562,11 @@ $25.706 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Kenyan shillings (KES) per US dollar -<br>
+139.846 (2023 est.)<br>
 117.866 (2022 est.)<br>
 109.638 (2021 est.)<br>
 106.451 (2020 est.)<br>
 101.991 (2019 est.)<br>
-101.302 (2018 est.)<br>
 
 ## Energy
 
@@ -685,11 +685,11 @@ Kenya Defense Forces (KDF): Kenya Army, Kenya Navy, Kenya Air Force (2024)<br>
 <strong>note 1:</strong> the National Police Service maintains internal security and reports to the Ministry of Interior and Coordination of National Government; it includes a paramilitary General Service Unit and Rapid Deployment Unit, as well as a Border Police Unit<br><br><strong>note 2:</strong> the Kenya Coast Guard Service (established 2018) is under the Ministry of Interior but led by a military officer and comprised of personnel from the military, as well as the National Police Service, intelligence services, and other government agencies<br>
 
 **Military expenditures**<br>
+1% of GDP (2023 est.)<br>
 1.1% of GDP (2022 est.)<br>
 1.2% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
 1.2% of GDP (2019 est.)<br>
-1.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 24,000 personnel (20,000 Army; 1,500 Navy; 2,500 Air Force) (2023)<br>
@@ -716,13 +716,13 @@ Luigi Broglio Space Center (aka Malindi Space Center, Malindi Station, San Marco
 
 **Space program overview**<br>
 has a national space strategy focused on acquiring and applying space technologies and applications for agriculture, communications, disaster and resource management, security, urban planning, and weather monitoring; jointly develops and builds nanosatellites with foreign partners; operates satellites; researching and developing satellite payloads and imagery data analysis capabilities; has cooperated on space issues with China, Japan, Italy, and the US, as well as African partners; developing a satellite imagery/geospatial analysis and data sharing portal that contains 17 years of satellite imagery for other African countries, including Ghana, Senegal, Sierra Leone, and Tanzania; cooperating with Egypt, Ethiopia, Ghana, Nigeria, Sudan, and Uganda to establish a joint remote sensing (RS) satellite to monitor climate changes on the African continent (African Development Satellite program) (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

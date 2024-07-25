@@ -19,7 +19,7 @@ Caribbean, islands in the Caribbean Sea, about one-third of the way from Puerto 
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 261 sq km (Saint Kitts 168 sq km; Nevis 93 sq km)<br>
+_total _: 261 sq km (Saint Kitts 168 sq km; Nevis 93 sq km)<br>
 _land_: 261 sq km<br>
 _water_: 0 sq km<br>
 
@@ -69,7 +69,7 @@ population clusters are found in the small towns located on the periphery of bot
 <p>hurricanes (July to October)</p><p><strong>volcanism:</strong> Mount Liamuiga (1,156 m) on Saint Kitts, and Nevis Peak (985 m) on Nevis, are both volcanoes that are part of the volcanic island arc of the Lesser Antilles, which extends from Saba in the north to Grenada in the south</p><br>
 
 **Geography - note**<br>
-smallest country in the Western Hemisphere both in terms of area and population; with coastlines in the shape of a baseball bat and ball, the two volcanic islands are separated by a 3-km-wide channel called The Narrows; on the southern tip of long, baseball bat-shaped Saint Kitts lies the Great Salt Pond; Nevis Peak sits in the center of its almost circular namesake island and its ball shape complements that of its sister island<br>
+smallest country in the Western Hemisphere both in terms of area and population; with coastlines in the shape of a baseball bat and ball, the two volcanic islands are separated by a 3-km-wide channel called The Narrows; on the southern tip of baseball-bat-shaped Saint Kitts lies the Great Salt Pond; Nevis Peak sits in the center of its almost circular namesake island and its ball shape complements that of its sister island<br>
 
 ## People and Society
 
@@ -355,31 +355,31 @@ _selected World Heritage Site locales_: Brimstone Hill Fortress National Park<br
 high-income, tourism-based Caribbean OECS economy; better debt balancing; CARICOM and ECCU member; growing offshore financial and telecommunications hub; environmentally fragile; unique citizenship-driven growth model<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.371 billion (2022 est.)<br>
-$1.26 billion (2021 est.)<br>
-$1.271 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.438 billion (2023 est.)<br>
+$1.39 billion (2022 est.)<br>
+$1.258 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-8.85% (2022 est.)<br>
--0.89% (2021 est.)<br>
--14.56% (2020 est.)<br>
+3.43% (2023 est.)<br>
+10.52% (2022 est.)<br>
+0.48% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$28,800 (2022 est.)<br>
-$26,500 (2021 est.)<br>
-$26,700 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$30,100 (2023 est.)<br>
+$29,200 (2022 est.)<br>
+$26,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$965.639 million (2022 est.)<br>
+$1.077 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.56% (2023 est.)<br>
 2.67% (2022 est.)<br>
 1.2% (2021 est.)<br>
--1.17% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -403,13 +403,13 @@ coconuts, tropical fruits, root vegetables, vegetables, eggs, pulses, tomatoes, 
 tourism, cotton, salt, copra, clothing, footwear, beverages<br>
 
 **Industrial production growth rate**<br>
--2.92% (2022 est.)<br>
+-2.4% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Remittances**<br>
-3.41% of GDP (2022 est.)<br>
+3.48% of GDP (2023 est.)<br>
+3.83% of GDP (2022 est.)<br>
 4.32% of GDP (2021 est.)<br>
-3.57% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -422,7 +422,7 @@ _expenditures_: $324 million (2020 est.)<br>
 **Public debt**<br>
 62.9% of GDP (2017 est.)<br>
 61.5% of GDP (2016 est.)<br>
-57.6% of GDP (2014 est.)<br>
+57.67% of GDP (2014 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
@@ -430,15 +430,15 @@ _expenditures_: $324 million (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$33.19 million (2022 est.)<br>
--$50.346 million (2021 est.)<br>
--$96.291 million (2020 est.)<br>
+-$143.262 million (2023 est.)<br>
+-$105.744 million (2022 est.)<br>
+-$43.725 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$531.408 million (2022 est.)<br>
-$392.744 million (2021 est.)<br>
-$353.961 million (2020 est.)<br>
+$577.568 million (2023 est.)<br>
+$546.373 million (2022 est.)<br>
+$389.355 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -450,9 +450,9 @@ measuring instruments, broadcasting equipment, electrical transformers, electric
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$531.167 million (2022 est.)<br>
-$412.276 million (2021 est.)<br>
-$430.263 million (2020 est.)<br>
+$674.134 million (2023 est.)<br>
+$606.301 million (2022 est.)<br>
+$407.417 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -464,9 +464,9 @@ ships, refined petroleum, plastic products, cars, jewelry (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$286.075 million (2023 est.)<br>
 $293.98 million (2022 est.)<br>
 $337.533 million (2021 est.)<br>
-$373.502 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -475,11 +475,11 @@ $187.9 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2023 est.)<br>
 2.7 (2022 est.)<br>
 2.7 (2021 est.)<br>
 2.7 (2020 est.)<br>
 2.7 (2019 est.)<br>
-2.7 (2018 est.)<br>
 
 ## Energy
 

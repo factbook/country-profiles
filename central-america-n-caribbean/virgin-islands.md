@@ -19,7 +19,7 @@ Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, east 
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 1,910 sq km<br>
+_total _: 1,910 sq km<br>
 _land_: 346 sq km<br>
 _water_: 1,564 sq km<br>
 
@@ -67,7 +67,7 @@ while overall population density throughout the islands is relatively low, conce
 several hurricanes in recent years; frequent and severe droughts and floods; occasional earthquakes<br>
 
 **Geography - note**<br>
-important location along the Anegada Passage - a key shipping lane for the Panama Canal; Saint Thomas has one of the best natural deepwater harbors in the Caribbean<br>
+important location along the Anegada Passage -- a key shipping lane for the Panama Canal; Saint Thomas has one of the best natural deepwater harbors in the Caribbean<br>
 
 ## People and Society
 
@@ -303,10 +303,10 @@ _lyrics/music_: multiple/Alton Augustus ADAMS, Sr.<br>
 high-income, tourism-based American territorial economy; severe COVID-19 economic disruptions; major rum distillery; high public debt; sluggish reopening of large oil refinery; environmentally susceptible to hurricanes; many informal industries<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.872 billion (2016 est.)<br>
-$3.759 billion (2015 est.)<br>
-$3.622 billion (2014 est.)<br>
-<strong>note:</strong> data are in 2013 dollars<br>
+$4.895 billion (2021 est.)<br>
+$4.759 billion (2020 est.)<br>
+$4.852 billion (2019 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
 2.85% (2021 est.)<br>
@@ -315,9 +315,10 @@ $3.622 billion (2014 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$37,000 (2016 est.)<br>
-$35,800 (2015 est.)<br>
-$34,500 (2014 est.)<br>
+$46,200 (2021 est.)<br>
+$44,800 (2020 est.)<br>
+$45,500 (2019 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $4.444 billion (2021 est.)<br>
@@ -351,13 +352,13 @@ tourism, watch assembly, rum distilling, construction, pharmaceuticals, electron
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-47,000 (2022 est.)<br>
+46,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-12.86% (2022 est.)<br>
-14.13% (2021 est.)<br>
-14.69% (2020 est.)<br>
+12.09% (2023 est.)<br>
+12.67% (2022 est.)<br>
+13.93% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -398,7 +399,7 @@ refined petroleum, jewelry, recreational boats, watches, rum (2019)<br>
 $4.065 billion (2021 est.)<br>
 $3.185 billion (2020 est.)<br>
 $4.139 billion (2019 est.)<br>
-<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
+<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 India 18%, Algeria 14%, South Korea 9%, Argentina 9%, Sweden 7%, Brazil 5% (2019)<br>

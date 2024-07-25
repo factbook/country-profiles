@@ -19,7 +19,7 @@ Southern Africa, bordering the South Atlantic Ocean, between Angola and South Af
 Africa<br>
 
 **Area**<br>
-_total_: 824,292 sq km<br>
+_total _: 824,292 sq km<br>
 _land_: 823,290 sq km<br>
 _water_: 1,002 sq km<br>
 
@@ -50,7 +50,8 @@ _lowest point_: Atlantic Ocean 0 m<br>
 _mean elevation_: 1,141 m<br>
 
 **Natural resources**<br>
-diamonds, copper, uranium, gold, silver, lead, tin, lithium, cadmium, tungsten, zinc, salt, hydropower, fish; note - suspected deposits of oil, coal, and iron ore<br>
+diamonds, copper, uranium, gold, silver, lead, tin, lithium, cadmium, tungsten, zinc, salt, hydropower, fish<br>
+<strong>note:</strong> suspected deposits of oil, coal, and iron ore<br>
 
 **Land use**<br>
 _agricultural land_: 47.2% (2018 est.)<br>
@@ -404,31 +405,31 @@ _selected World Heritage Site locales_: Twyfelfontein or /Ui-//aes (c); Namib Sa
 upper middle-income, export-driven Sub-Saharan economy; natural resource rich; Walvis Bay port expansion for trade; high potential for renewable power generation and energy independence; major nature-based tourist locale; natural resource rich; shortage of skilled labor<br>
 
 **Real GDP (purchasing power parity)**<br>
-$25.061 billion (2022 est.)<br>
-$23.299 billion (2021 est.)<br>
-$22.506 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$29.944 billion (2023 est.)<br>
+$28.748 billion (2022 est.)<br>
+$27.288 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-7.56% (2022 est.)<br>
-3.52% (2021 est.)<br>
--8.1% (2020 est.)<br>
+4.16% (2023 est.)<br>
+5.35% (2022 est.)<br>
+3.6% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$9,800 (2022 est.)<br>
-$9,200 (2021 est.)<br>
-$9,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$11,500 (2023 est.)<br>
+$11,200 (2022 est.)<br>
+$10,800 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$12.915 billion (2022 est.)<br>
+$12.351 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.88% (2023 est.)<br>
 6.08% (2022 est.)<br>
 3.62% (2021 est.)<br>
-2.21% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -457,17 +458,17 @@ root vegetables, milk, maize, millet, grapes, beef, onions, wheat, fruits, pulse
 mining, tourism, fishing, agriculture<br>
 
 **Industrial production growth rate**<br>
-22.46% (2022 est.)<br>
+9.19% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-968,000 (2022 est.)<br>
+989,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-19.99% (2022 est.)<br>
-21.15% (2021 est.)<br>
-21.15% (2020 est.)<br>
+19.42% (2023 est.)<br>
+19.75% (2022 est.)<br>
+20.88% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -484,14 +485,14 @@ _female_: 41.7%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1%<br>
+_lowest 10%_: 1% (2015 est.)<br>
 _highest 10%_: 47.3% (2015 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.42% of GDP (2022 est.)<br>
+0.5% of GDP (2023 est.)<br>
+0.43% of GDP (2022 est.)<br>
 0.37% of GDP (2021 est.)<br>
-0.6% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -508,19 +509,19 @@ _expenditures_: $4.693 billion (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-27.97% (of GDP) (2021 est.)<br>
+27.17% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.634 billion (2022 est.)<br>
--$1.274 billion (2021 est.)<br>
-$270.73 million (2020 est.)<br>
+-$1.848 billion (2023 est.)<br>
+-$1.628 billion (2022 est.)<br>
+-$1.391 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$5.099 billion (2022 est.)<br>
-$4.246 billion (2021 est.)<br>
-$3.838 billion (2020 est.)<br>
+$5.641 billion (2023 est.)<br>
+$5.314 billion (2022 est.)<br>
+$4.341 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -532,9 +533,9 @@ diamonds, gold, fish, radioactive chemicals, ships (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$7.313 billion (2022 est.)<br>
-$6.384 billion (2021 est.)<br>
-$4.886 billion (2020 est.)<br>
+$8.281 billion (2023 est.)<br>
+$7.423 billion (2022 est.)<br>
+$6.467 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -546,9 +547,9 @@ refined petroleum, ships, copper ore, trucks, electricity (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$2.956 billion (2023 est.)<br>
 $2.803 billion (2022 est.)<br>
 $2.764 billion (2021 est.)<br>
-$2.171 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -557,11 +558,11 @@ $6.904 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Namibian dollars (NAD) per US dollar -<br>
+18.446 (2023 est.)<br>
 16.356 (2022 est.)<br>
 14.779 (2021 est.)<br>
 16.463 (2020 est.)<br>
 14.449 (2019 est.)<br>
-13.234 (2018 est.)<br>
 
 ## Energy
 
@@ -675,11 +676,11 @@ Namibian Defense Force (NDF): Army, Navy, Air Force (2024)<br>
 <strong>note:</strong> the Namibian Police Force is under the Ministry of Home Affairs, Immigration, Safety, and Security; it has a paramilitary Special Field Force responsible for protecting borders and government installations<br>
 
 **Military expenditures**<br>
+2.8% of GDP (2023 est.)<br>
 3% of GDP (2022 est.)<br>
 3% of GDP (2021 est.)<br>
 3.4% of GDP (2020 est.)<br>
 3.3% of GDP (2019 est.)<br>
-3.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 12,500 personnel (11,000 Army; 1,000 Navy; 500 Air Force) (2023)<br>

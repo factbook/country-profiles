@@ -19,7 +19,7 @@ Central Europe, between Austria and Switzerland<br>
 Europe<br>
 
 **Area**<br>
-_total_: 160 sq km<br>
+_total _: 160 sq km<br>
 _land_: 160 sq km<br>
 _water_: 0 sq km<br>
 
@@ -359,7 +359,7 @@ $90,100 (2008 est.)<br>
 $91,300 (2007 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$7.71 billion (2021 est.)<br>
+$7.365 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -424,11 +424,11 @@ $0 (2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Swiss francs (CHF) per US dollar -<br>
+0.898 (2023 est.)<br>
 0.955 (2022 est.)<br>
 0.914 (2021 est.)<br>
 0.939 (2020 est.)<br>
 0.994 (2019 est.)<br>
-0.978 (2018 est.)<br>
 
 ## Energy
 

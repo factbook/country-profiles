@@ -19,7 +19,7 @@ Southern South America, bordering the South Pacific Ocean, between Argentina and
 South America<br>
 
 **Area**<br>
-_total_: 756,102 sq km<br>
+_total _: 756,102 sq km<br>
 _land_: 743,812 sq km<br>
 _water_: 12,290 sq km<br>
 <strong>note:</strong> includes Easter Island (Isla de Pascua) and Isla Sala y Gomez<br>
@@ -75,7 +75,7 @@ _fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq k
 <p>severe earthquakes; active volcanism; tsunamis</p><p><strong>volcanism:</strong> significant volcanic activity due to more than three-dozen active volcanoes along the Andes Mountains; Lascar (5,592 m), which last erupted in 2007, is the most active volcano in the northern Chilean Andes; Llaima (3,125 m) in central Chile, which last erupted in 2009, is another of the country's most active; Chaiten's 2008 eruption forced major evacuations; other notable historically active volcanoes include Cerro Hudson, Calbuco, Copahue, Guallatiri, Llullaillaco, Nevados de Chillan, Puyehue, San Pedro, and Villarrica; see note 2 under "Geography - note"</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> the longest north-south trending country in the world, extending across 39 degrees of latitude; strategic location relative to sea lanes between the Atlantic and Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage)</p> <p><strong>note 2:</strong> Chile is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Atacama Desert - the driest desert in the world - spreads across the northern part of the country; Ojos del Salado (6,893 m) in the Atacama Desert is the highest active volcano in the world, Chile's tallest mountain, and the second highest in the Western Hemisphere and the Southern Hemisphere - its small crater lake (at 6,390 m) is the world's highest lake </p><br>
+<p><strong>note 1:</strong> the longest north-south trending country in the world, extending across 39 degrees of latitude; strategic location relative to sea lanes between the Atlantic and Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage)</p> <p><strong>note 2:</strong> Chile is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Atacama Desert -- the driest desert in the world -- spreads across the northern part of the country; Ojos del Salado (6,893 m) in the Atacama Desert is the highest active volcano in the world, Chile's tallest mountain, and the second highest in the Western Hemisphere and the Southern Hemisphere -- its small crater lake (at 6,390 m) is the world's highest lake</p><br>
 
 ## People and Society
 
@@ -395,31 +395,31 @@ _selected World Heritage Site locales_: Rapa Nui National Park; Churches of Chil
 export-driven economy; leading copper producer; though hit by COVID-19, fairly quick rebound from increased liquidity and rapid vaccine rollouts; decreasing poverty but still lingering inequality; public debt rising but still manageable; recent political violence has had negative economic consequences<br>
 
 **Real GDP (purchasing power parity)**<br>
-$507.465 billion (2022 est.)<br>
-$495.375 billion (2021 est.)<br>
-$443.339 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$579.201 billion (2023 est.)<br>
+$577.937 billion (2022 est.)<br>
+$566.279 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.44% (2022 est.)<br>
-11.74% (2021 est.)<br>
--6.15% (2020 est.)<br>
+0.22% (2023 est.)<br>
+2.06% (2022 est.)<br>
+11.33% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$25,900 (2022 est.)<br>
-$25,400 (2021 est.)<br>
-$23,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$29,500 (2023 est.)<br>
+$29,500 (2022 est.)<br>
+$29,100 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$301.025 billion (2022 est.)<br>
+$335.533 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.58% (2023 est.)<br>
 11.64% (2022 est.)<br>
 4.52% (2021 est.)<br>
-3.05% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -449,17 +449,17 @@ grapes, milk, apples, wheat, potatoes, chicken, tomatoes, sugar beets, maize, oa
 copper, lithium, other minerals, foodstuffs, fish processing, iron and steel, wood and wood products, transport equipment, cement, textiles<br>
 
 **Industrial production growth rate**<br>
--1.67% (2022 est.)<br>
+1.56% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-9.63 million (2022 est.)<br>
+9.848 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.25% (2022 est.)<br>
-9.28% (2021 est.)<br>
-10.94% (2020 est.)<br>
+9.04% (2023 est.)<br>
+8.3% (2022 est.)<br>
+9.33% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -472,7 +472,7 @@ _female_: 22.8%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-44.9 (2020 est.)<br>
+43 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -480,14 +480,14 @@ _on food_: 18.5% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.1%<br>
-_highest 10%_: 35.8% (2020 est.)<br>
+_lowest 10%_: 2.3% (2022 est.)<br>
+_highest 10%_: 34.5% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.02% of GDP (2023 est.)<br>
 0.02% of GDP (2022 est.)<br>
 0.02% of GDP (2021 est.)<br>
-0.03% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -502,19 +502,19 @@ _expenditures_: $73.176 billion (2020 est.)<br>
 21% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-19.6% (of GDP) (2021 est.)<br>
+21.27% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$27.102 billion (2022 est.)<br>
--$23.193 billion (2021 est.)<br>
--$4.952 billion (2020 est.)<br>
+-$11.899 billion (2023 est.)<br>
+-$26.162 billion (2022 est.)<br>
+-$22.962 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$107.078 billion (2022 est.)<br>
-$100.747 billion (2021 est.)<br>
-$79.579 billion (2020 est.)<br>
+$104.349 billion (2023 est.)<br>
+$107.071 billion (2022 est.)<br>
+$100.448 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -526,9 +526,9 @@ copper ore, refined copper, carbonates, fish, raw copper (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$118.094 billion (2022 est.)<br>
-$102.595 billion (2021 est.)<br>
-$68.134 billion (2020 est.)<br>
+$99.808 billion (2023 est.)<br>
+$118.941 billion (2022 est.)<br>
+$102.637 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -540,9 +540,9 @@ refined petroleum, cars, crude petroleum, garments, trucks (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$46.377 billion (2023 est.)<br>
 $39.102 billion (2022 est.)<br>
 $51.252 billion (2021 est.)<br>
-$39.166 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -551,11 +551,11 @@ $181.089 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Chilean pesos (CLP) per US dollar -<br>
+840.067 (2023 est.)<br>
 873.314 (2022 est.)<br>
 758.955 (2021 est.)<br>
 792.727 (2020 est.)<br>
 702.897 (2019 est.)<br>
-641.277 (2018 est.)<br>
 
 ## Energy
 
@@ -706,7 +706,7 @@ the Chilean Space Agency was established in 2001 and dissolved in 2014, at which
 
 **Space program overview**<br>
 has a space program with a considerable history and largely focused on the acquisition and operation of satellites; operates foreign-built satellites and satellite ground stations; building small remote sensing (RS) satellites; researching and developing additional capabilities and technologies associated with the production of satellites and satellite sub-systems; is a world leader in astronomy and astrophysics (Chile’s Atacama Desert, where the skies are exceptionally clear and dry for more than 300 days a year, is home to more than a dozen astronomical observatories including the Cerro Tololo Inter-American Observatory, the Las Campanas Observatory, and the European Southern Observatory); Chile is also home to several astronomy institutes; has established relations with space agencies and industries of Canada, China, France, India, Israel, Mexico, Russia, the UK, and the US (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

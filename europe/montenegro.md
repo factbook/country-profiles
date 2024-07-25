@@ -19,7 +19,7 @@ Southeastern Europe, between the Adriatic Sea and Serbia<br>
 Europe<br>
 
 **Area**<br>
-_total_: 13,812 sq km<br>
+_total _: 13,812 sq km<br>
 _land_: 13,452 sq km<br>
 _water_: 360 sq km<br>
 
@@ -398,31 +398,31 @@ _selected World Heritage Site locales_: Natural and Culturo-Historical Region of
 upper middle-income, small Balkan economy; uses euro as de facto currency; strong growth driven by tourism and consumption; new impetus for EU accession under Europe Now government; influx of affluent migrants from Russia and Ukraine; progress in fiscal position subject to risks from pension costs, debt service, and informal sector<br>
 
 **Real GDP (purchasing power parity)**<br>
-$13.646 billion (2022 est.)<br>
-$12.824 billion (2021 est.)<br>
-$11.344 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$17.115 billion (2023 est.)<br>
+$16.149 billion (2022 est.)<br>
+$15.177 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+5.98% (2023 est.)<br>
 6.41% (2022 est.)<br>
 13.04% (2021 est.)<br>
--15.31% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$22,100 (2022 est.)<br>
-$20,700 (2021 est.)<br>
-$18,300 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$27,800 (2023 est.)<br>
+$26,200 (2022 est.)<br>
+$24,500 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$6.23 billion (2022 est.)<br>
+$7.405 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.58% (2023 est.)<br>
 13.04% (2022 est.)<br>
 2.41% (2021 est.)<br>
--0.26% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -451,17 +451,17 @@ milk, potatoes, grapes, watermelons, sheep milk, cabbages, oranges, eggs, goat m
 steelmaking, aluminum, agricultural processing, consumer goods, tourism<br>
 
 **Industrial production growth rate**<br>
--5.2% (2022 est.)<br>
+3.34% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-284,000 (2022 est.)<br>
+286,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-15.25% (2022 est.)<br>
+15.25% (2023 est.)<br>
+15.29% (2022 est.)<br>
 16.54% (2021 est.)<br>
-17.88% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -474,7 +474,7 @@ _female_: 36.7%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-36.8 (2018 est.)<br>
+34.3 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -482,14 +482,14 @@ _on food_: 27.2% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 5.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.8%<br>
-_highest 10%_: 26% (2018 est.)<br>
+_lowest 10%_: 2.1% (2021 est.)<br>
+_highest 10%_: 24.7% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+10.87% of GDP (2023 est.)<br>
 13.33% of GDP (2022 est.)<br>
 13.52% of GDP (2021 est.)<br>
-12.59% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -508,15 +508,15 @@ _expenditures_: $2.568 billion (2020 est.)<br>
 37.2% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
+-$841.765 million (2023 est.)<br>
 -$817.858 million (2022 est.)<br>
 -$541.201 million (2021 est.)<br>
--$1.237 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$3.775 billion (2023 est.)<br>
 $3.178 billion (2022 est.)<br>
 $2.502 billion (2021 est.)<br>
-$1.247 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -528,9 +528,9 @@ copper ore, electricity, aluminum, aluminum ore, packaged medicine (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$5.163 billion (2023 est.)<br>
 $4.614 billion (2022 est.)<br>
 $3.637 billion (2021 est.)<br>
-$2.917 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -542,9 +542,9 @@ electricity, refined petroleum, aluminum, cars, garments (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.574 billion (2023 est.)<br>
 $2.041 billion (2022 est.)<br>
 $1.982 billion (2021 est.)<br>
-$2.135 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -553,11 +553,11 @@ $2.224 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.951 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.877 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 <strong>note:</strong> Montenegro, which is neither an EU member state nor a party to a formal EU monetary agreement, uses the euro as its de facto currency<br>
 
 ## Energy

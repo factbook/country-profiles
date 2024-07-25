@@ -19,7 +19,7 @@ Oceania, island group consisting of nine coral atolls in the South Pacific Ocean
 Oceania<br>
 
 **Area**<br>
-_total_: 26 sq km<br>
+_total _: 26 sq km<br>
 _land_: 26 sq km<br>
 _water_: 0 sq km<br>
 
@@ -69,7 +69,7 @@ over half of the population resides on the atoll of Funafuti<br>
 severe tropical storms are usually rare, but in 1997 there were three cyclones; low levels of islands make them sensitive to changes in sea level<br>
 
 **Geography - note**<br>
-one of the smallest and most remote countries on Earth; six of the nine coral atolls - Nanumea, Nui, Vaitupu, Nukufetau, Funafuti, and Nukulaelae - have lagoons open to the ocean; Nanumaya and Niutao have landlocked lagoons; Niulakita does not have a lagoon<br>
+one of the smallest and most remote countries on Earth; six of the nine coral atolls -- Nanumea, Nui, Vaitupu, Nukufetau, Funafuti, and Nukulaelae -- have lagoons open to the ocean; Nanumaya and Niutao have landlocked lagoons; Niulakita does not have a lagoon<br>
 
 ## People and Society
 
@@ -302,7 +302,7 @@ _chief of state_: King CHARLES III (since 8 September 2022); represented by Gove
 _head of government_: Prime Minister Feleti Penitala TEO (since 27 February 2024)<br>
 _cabinet_: Cabinet appointed by the governor general on recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on recommendation of the prime minister; prime minister and deputy prime minister elected by and from members of House of Assembly following parliamentary elections<br>
-_election results_: <em><br>2019: </em>Kausea NATANO elected prime minister by House of Assembly; House of Assembly vote - 10 to 6<br><br><em>2013:</em> Enele SOPOAGA elected prime minister by House of Assembly; House of Assembly vote - 8 to 5<br>
+_election results_: <em>2024: </em>TEO was the only candidate nominated by the House of Assembly<em><br><br>2019: </em>Kausea NATANO elected prime minister by House of Assembly; House of Assembly vote - 10 to 6<br>
 
 **Legislative branch**<br>
 _description_: unicameral House of Assembly or Fale I Fono (16 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 4-year terms)<br>
@@ -348,25 +348,25 @@ _lyrics/music_: Afaese MANOA<br>
 upper middle-income Pacific island economy; extremely environmentally fragile; currency pegged to Australian dollar; large international aid recipient; subsistence agrarian sector; Te Kakeega sustainable development; domain name licensing incomes<br>
 
 **Real GDP (purchasing power parity)**<br>
-$51.937 million (2022 est.)<br>
-$51.588 million (2021 est.)<br>
-$50.674 million (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$59.202 million (2023 est.)<br>
+$57.006 million (2022 est.)<br>
+$56.622 million (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.85% (2023 est.)<br>
 0.68% (2022 est.)<br>
 1.8% (2021 est.)<br>
--4.27% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$4,600 (2022 est.)<br>
-$4,600 (2021 est.)<br>
-$4,600 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$5,200 (2023 est.)<br>
+$5,000 (2022 est.)<br>
+$5,100 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$59.066 million (2022 est.)<br>
+$62.28 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -410,9 +410,9 @@ _female_: 45.9%<br>
 39.1 (2010 est.)<br>
 
 **Remittances**<br>
-4.23% of GDP (2022 est.)<br>
-4.15% of GDP (2021 est.)<br>
-4.25% of GDP (2020 est.)<br>
+4.82% of GDP (2023 est.)<br>
+4.18% of GDP (2022 est.)<br>
+4.9% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -470,11 +470,11 @@ ships, refined petroleum, iron structures, engine parts, plastic products (2022)
 
 **Exchange rates**<br>
 _Currency_: Tuvaluan dollars or Australian dollars (AUD) per US dollar -<br>
+1.505 (2023 est.)<br>
 1.442 (2022 est.)<br>
 1.331 (2021 est.)<br>
 1.453 (2020 est.)<br>
 1.439 (2019 est.)<br>
-1.338 (2018 est.)<br>
 
 ## Energy
 

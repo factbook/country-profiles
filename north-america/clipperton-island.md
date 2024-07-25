@@ -19,7 +19,7 @@ Middle America, atoll in the North Pacific Ocean, 1,120 km southwest of Mexico<b
 Political Map of the World<br>
 
 **Area**<br>
-_total_: 6 sq km<br>
+_total _: 6 sq km<br>
 _land_: 6 sq km<br>
 _water_: 0 sq km<br>
 

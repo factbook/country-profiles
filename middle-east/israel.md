@@ -19,7 +19,7 @@ Middle East, bordering the Mediterranean Sea, between Egypt and Lebanon<br>
 Middle East<br>
 
 **Area**<br>
-_total_: 21,937 sq km<br>
+_total _: 21,937 sq km<br>
 _land_: 21,497 sq km<br>
 _water_: 440 sq km<br>
 
@@ -72,7 +72,7 @@ population concentrated in and around Tel-Aviv, as well as around the Sea of Gal
 sandstorms may occur during spring and summer; droughts; periodic earthquakes<br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> Lake Tiberias (Sea of Galilee) is an important freshwater source; the Dead Sea is the second saltiest body of water in the world (after Lake Assal in Djibouti)<br><br><strong>note 2: </strong>the Malham Cave in Mount Sodom is the world's longest salt cave at 10 km (6 mi); its survey is not complete and its length will undoubtedly increase; Mount Sodom is actually a hill some 220 m (722 ft) high that is 80% salt (multiple salt layers covered by a veneer of rock) <br><br><strong>note 3:</strong> in March 2019, there were 380 Israeli settlements,to include 213 settlements and 132 outposts in the West Bank, and 35 settlements in East Jerusalem; there are no Israeli settlements in the Gaza Strip, as all were evacuated in 2005 (2019)<br>
+<strong>note 1:</strong> Lake Tiberias (Sea of Galilee) is an important freshwater source; the Dead Sea is the second saltiest body of water in the world (after Lake Assal in Djibouti)<br><br><strong>note 2: </strong>the Malham Cave in Mount Sodom is the world's longest salt cave at 10 km (6 mi); its survey is not complete, and its length will undoubtedly increase; Mount Sodom is actually a hill some 220 m (722 ft) high that is 80% salt (multiple salt layers covered by a veneer of rock)<br>
 
 ## People and Society
 
@@ -392,31 +392,31 @@ _selected World Heritage Site locales_: Masada; Old City of Acre; White City of 
 high-income, technology- and industrial-based economy; economic contraction and fiscal deficits resulting from war in Gaza; labor force stabilizing following military reservist mobilization; high-tech industry remains resilient while construction and tourism among hardest-hit sectors<br>
 
 **Real GDP (purchasing power parity)**<br>
-$424.289 billion (2022 est.)<br>
-$397.152 billion (2021 est.)<br>
-$365.661 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$471.03 billion (2023 est.)<br>
+$461.808 billion (2022 est.)<br>
+$432.271 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2% (2023 est.)<br>
 6.83% (2022 est.)<br>
 8.61% (2021 est.)<br>
--1.86% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$44,400 (2022 est.)<br>
-$42,400 (2021 est.)<br>
-$39,700 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$48,300 (2023 est.)<br>
+$48,300 (2022 est.)<br>
+$46,100 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$525.002 billion (2022 est.)<br>
+$509.901 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.23% (2023 est.)<br>
 4.39% (2022 est.)<br>
 1.51% (2021 est.)<br>
--0.61% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -450,13 +450,13 @@ high-technology products (including aviation, communications, computer-aided des
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.451 million (2022 est.)<br>
+4.554 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+3.39% (2023 est.)<br>
 3.7% (2022 est.)<br>
 4.81% (2021 est.)<br>
-4.17% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -469,7 +469,7 @@ _female_: 9.2%<br>
 <strong>note:</strong> Israel's poverty line is $7.30 per person per day<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-38.6 (2018 est.)<br>
+37.9 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -477,14 +477,14 @@ _on food_: 16% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 2.8% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.9%<br>
-_highest 10%_: 27.6% (2018 est.)<br>
+_lowest 10%_: 1.9% (2021 est.)<br>
+_highest 10%_: 27.1% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.19% of GDP (2023 est.)<br>
 0.24% of GDP (2022 est.)<br>
 0.25% of GDP (2021 est.)<br>
-0.28% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -500,19 +500,19 @@ _expenditures_: $154.927 billion (2019 est.)<br>
 60.4% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-24.62% (of GDP) (2021 est.)<br>
+25.01% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$25.089 billion (2023 est.)<br>
 $20.34 billion (2022 est.)<br>
 $19.095 billion (2021 est.)<br>
-$19.806 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$156.165 billion (2023 est.)<br>
 $166.227 billion (2022 est.)<br>
 $143.505 billion (2021 est.)<br>
-$113.687 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -524,9 +524,9 @@ diamonds, integrated circuits, refined petroleum, fertilizers, medical instrumen
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$137.567 billion (2023 est.)<br>
 $150.804 billion (2022 est.)<br>
 $125.948 billion (2021 est.)<br>
-$96.886 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -538,9 +538,9 @@ diamonds, cars, crude petroleum, refined petroleum, garments (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$204.661 billion (2023 est.)<br>
 $194.231 billion (2022 est.)<br>
 $212.934 billion (2021 est.)<br>
-$173.292 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -550,11 +550,11 @@ $94.247 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: new Israeli shekels (ILS) per US dollar -<br>
+3.667 (2023 est.)<br>
 3.36 (2022 est.)<br>
 3.23 (2021 est.)<br>
 3.442 (2020 est.)<br>
 3.565 (2019 est.)<br>
-3.591 (2018 est.)<br>
 
 ## Energy
 
@@ -675,11 +675,11 @@ Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes com
 <strong>note 1:</strong> the national police, including the border police and the immigration police, are under the authority of the Ministry of Public Security<br><br><strong>note 2:</strong> the Israeli Security Agency (ISA) is charged with combating terrorism and espionage in Israel and the West Bank and Gaza Strip; it is under the authority of the Prime Minister; ISA forces operating in the West Bank fall under the IDF for operations and operational debriefing<br>
 
 **Military expenditures**<br>
+4.5% of GDP (2023 est.)<br>
 4.5% of GDP (2022 est.)<br>
 5% of GDP (2021 est.)<br>
 5% of GDP (2020 est.)<br>
 5.2% of GDP (2019 est.)<br>
-5.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 170,000 active-duty personnel (130,000 Ground Forces; 10,000 Naval; 30,000 Air Force) (2023)<br>
@@ -704,13 +704,13 @@ Palmachim Airbase (Central district) (2024)<br>
 
 **Space program overview**<br>
 has an ambitious space program and one of the most advanced in the region; designs, builds, and operates communications, remote sensing (RS), and scientific satellites; designs, builds, and operates sounding (research) rockets and orbital satellite/space launch vehicles (SLVs); launches satellites on domestic and foreign rockets; researches and develops a range of other space-related capabilities with a focus on lightweight and miniaturized technologies, including small satellites with high resolution RS imaging and communications capabilities; has relations with a variety of foreign space agencies and space industries, including those of Canada, the European Space Agency (and individual member states, such as France, Germany, and Italy), India, Japan, Mexico, and the US; has a substantial commercial space sector, including state-owned enterprises, in areas such as launchers, propulsion, satellite manufacturing, particularly micro- and nano-satellites, payloads and applications, RS, communications, and ground stations (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS); Popular Front for the Liberation of Palestine; Palestinian Islamic Jihad; HAMAS<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

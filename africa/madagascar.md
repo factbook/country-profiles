@@ -19,7 +19,7 @@ Southern Africa, island in the Indian Ocean, east of Mozambique<br>
 Africa<br>
 
 **Area**<br>
-_total_: 587,041 sq km<br>
+_total _: 587,041 sq km<br>
 _land_: 581,540 sq km<br>
 _water_: 5,501 sq km<br>
 
@@ -395,31 +395,31 @@ _selected World Heritage Site locales_: Tsingy de Bemaraha Strict Nature Reserve
 low-income East African island economy; natural resource rich; extreme poverty; return of political stability has helped growth; sharp tax revenue drop due to COVID-19; leading vanilla producer; environmentally fragile<br>
 
 **Real GDP (purchasing power parity)**<br>
-$44.491 billion (2022 est.)<br>
-$42.864 billion (2021 est.)<br>
-$40.537 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$51.255 billion (2023 est.)<br>
+$49.291 billion (2022 est.)<br>
+$47.488 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.99% (2023 est.)<br>
 3.8% (2022 est.)<br>
 5.74% (2021 est.)<br>
--7.14% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,500 (2022 est.)<br>
-$1,500 (2021 est.)<br>
-$1,400 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1,700 (2023 est.)<br>
+$1,700 (2022 est.)<br>
+$1,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$15.297 billion (2022 est.)<br>
+$16.032 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+9.87% (2023 est.)<br>
 8.16% (2022 est.)<br>
 5.81% (2021 est.)<br>
-4.2% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -443,17 +443,17 @@ rice, sugarcane, cassava, sweet potatoes, milk, bananas, vegetables, mangoes/gua
 meat processing, seafood, soap, beer, leather, sugar, textiles, glassware, cement, automobile assembly plant, paper, petroleum, tourism, mining<br>
 
 **Industrial production growth rate**<br>
--1.2% (2022 est.)<br>
+-33.28% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-15.363 million (2022 est.)<br>
+15.83 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.9% (2022 est.)<br>
-2.25% (2021 est.)<br>
-2.21% (2020 est.)<br>
+3.06% (2023 est.)<br>
+3.19% (2022 est.)<br>
+3.42% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -472,9 +472,9 @@ _lowest 10%_: 2.2%<br>
 _highest 10%_: 34.7% (2010 est.)<br>
 
 **Remittances**<br>
-2.88% of GDP (2022 est.)<br>
+2.37% of GDP (2023 est.)<br>
+2.52% of GDP (2022 est.)<br>
 3.02% of GDP (2021 est.)<br>
-3.8% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -489,7 +489,7 @@ _expenditures_: $2.09 billion (2020 est.)<br>
 38.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-10.24% (of GDP) (2021 est.)<br>
+9.25% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -527,9 +527,9 @@ refined petroleum, rice, fabric, palm oil, cotton fabric (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$2.632 billion (2023 est.)<br>
 $2.16 billion (2022 est.)<br>
 $2.335 billion (2021 est.)<br>
-$1.981 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -538,11 +538,11 @@ $4.107 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Malagasy ariary (MGA) per US dollar -<br>
+4,429.579 (2023 est.)<br>
 4,096.116 (2022 est.)<br>
 3,829.978 (2021 est.)<br>
 3,787.754 (2020 est.)<br>
 3,618.322 (2019 est.)<br>
-3,334.752 (2018 est.)<br>
 
 ## Energy
 

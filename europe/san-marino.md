@@ -19,7 +19,7 @@ Southern Europe, an enclave in central Italy<br>
 Europe<br>
 
 **Area**<br>
-_total_: 61 sq km<br>
+_total _: 61 sq km<br>
 _land_: 61 sq km<br>
 _water_: 0 sq km<br>
 
@@ -334,10 +334,10 @@ _selected World Heritage Site locales_: San Marino Historic Center and Mount Tit
 high-income, non-EU European economy; surrounded by Italy, which is the dominant importer and exporter; open border to EU and a euro user; strong financial sector; high foreign investments; low taxation; increasingly high and risky debt<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.079 billion (2021 est.)<br>
-$1.917 billion (2020 est.)<br>
-$2.053 billion (2019 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2.218 billion (2021 est.)<br>
+$2.045 billion (2020 est.)<br>
+$2.19 billion (2019 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
 8.46% (2021 est.)<br>
@@ -346,10 +346,10 @@ $2.053 billion (2019 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$61,600 (2021 est.)<br>
-$56,400 (2020 est.)<br>
-$60,100 (2019 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$65,700 (2021 est.)<br>
+$60,100 (2020 est.)<br>
+$64,100 (2019 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.855 billion (2021 est.)<br>
@@ -445,7 +445,7 @@ washing and bottling machines, woodworking machines, furniture, other foods, pac
 $2.934 billion (2021 est.)<br>
 $2.164 billion (2020 est.)<br>
 $2.315 billion (2019 est.)<br>
-<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
+<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Italy 22%, Germany 20%, Poland 7%, Spain 7%, Netherlands 7% (2022)<br>
@@ -456,9 +456,9 @@ electricity, garments, cars, aluminum, footwear (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$836.088 million (2023 est.)<br>
 $716.066 million (2022 est.)<br>
 $954.383 million (2021 est.)<br>
-$781.674 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -466,11 +466,11 @@ $781.674 million (2020 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.951 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.877 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 <strong>note: </strong>while not an EU member state, San Marino, due to its preexisting monetary and banking agreements with Italy, has a 2000 monetary agreement with the EU to produce limited euro coinage—but not banknotes—that began enforcement in January 2002 and was superseded by a new EU agreement in 2012<br>
 
 ## Energy

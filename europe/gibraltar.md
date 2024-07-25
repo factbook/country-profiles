@@ -19,7 +19,7 @@ Southwestern Europe, bordering the Strait of Gibraltar, which links the Mediterr
 Europe<br>
 
 **Area**<br>
-_total_: 7 sq km<br>
+_total _: 7 sq km<br>
 _land_: 6.5 sq km<br>
 _water_: 0 sq km<br>
 
@@ -363,11 +363,11 @@ refined petroleum, crude petroleum, coal tar oil, ships, cars (2022)<br>
 
 **Exchange rates**<br>
 _Currency_: Gibraltar pounds (GIP) per US dollar -<br>
+0.805 (2023 est.)<br>
 0.811 (2022 est.)<br>
 0.727 (2021 est.)<br>
 0.78 (2020 est.)<br>
 0.783 (2019 est.)<br>
-0.75 (2018 est.)<br>
 
 ## Energy
 

@@ -19,7 +19,7 @@ Southern Africa, an enclave of South Africa<br>
 Africa<br>
 
 **Area**<br>
-_total_: 30,355 sq km<br>
+_total _: 30,355 sq km<br>
 _land_: 30,355 sq km<br>
 _water_: 0 sq km<br>
 
@@ -396,31 +396,31 @@ _selected World Heritage Site locales_: Maloti-Drakensberg Park<br>
 lower middle-income economy surrounded by South Africa; environmentally fragile and politically unstable; key infrastructure and renewable energy investments; dire poverty; urban job and income losses due to COVID-19; systemic corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.166 billion (2022 est.)<br>
-$5.109 billion (2021 est.)<br>
-$5.016 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$5.868 billion (2023 est.)<br>
+$5.816 billion (2022 est.)<br>
+$5.742 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.11% (2022 est.)<br>
+0.9% (2023 est.)<br>
+1.29% (2022 est.)<br>
 1.85% (2021 est.)<br>
--7.46% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,200 (2022 est.)<br>
-$2,200 (2021 est.)<br>
-$2,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2,500 (2023 est.)<br>
+$2,500 (2022 est.)<br>
+$2,500 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.237 billion (2022 est.)<br>
+$2.046 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.34% (2023 est.)<br>
 8.27% (2022 est.)<br>
 6.05% (2021 est.)<br>
-4.98% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -448,17 +448,17 @@ milk, potatoes, maize, vegetables, fruits, beans, wheat, game meat, sorghum, woo
 food, beverages, textiles, apparel assembly, handicrafts, construction, tourism<br>
 
 **Industrial production growth rate**<br>
--0.12% (2022 est.)<br>
+-0.33% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-990,000 (2022 est.)<br>
+1.004 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-16.75% (2022 est.)<br>
-18.45% (2021 est.)<br>
-18.46% (2020 est.)<br>
+16.46% (2023 est.)<br>
+16.67% (2022 est.)<br>
+18.13% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -475,14 +475,14 @@ _female_: 43.8%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.7%<br>
+_lowest 10%_: 1.7% (2017 est.)<br>
 _highest 10%_: 32.9% (2017 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-25.73% of GDP (2022 est.)<br>
-21.25% of GDP (2021 est.)<br>
-22.63% of GDP (2020 est.)<br>
+24.12% of GDP (2023 est.)<br>
+23.29% of GDP (2022 est.)<br>
+19.71% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -493,25 +493,25 @@ _expenditures_: $1.21 billion (2020 est.)<br>
 -6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-2.97% of GDP (2020 est.)<br>
-32.56% of GDP (2019 est.)<br>
+2.99% of GDP (2020 est.)<br>
+32.17% of GDP (2019 est.)<br>
 32.84% of GDP (2018 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-32.05% (of GDP) (2022 est.)<br>
+31.31% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$177.918 million (2022 est.)<br>
--$106.817 million (2021 est.)<br>
--$35.402 million (2020 est.)<br>
+-$117.501 million (2023 est.)<br>
+-$264.265 million (2022 est.)<br>
+-$194.1 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$886.278 million (2023 est.)<br>
 $1.07 billion (2022 est.)<br>
 $1.082 billion (2021 est.)<br>
-$902.123 million (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -523,9 +523,9 @@ garments, diamonds, water, wool, power equipment (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$2.058 billion (2023 est.)<br>
 $2.244 billion (2022 est.)<br>
 $2.222 billion (2021 est.)<br>
-$1.986 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -548,11 +548,11 @@ $834 million (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: maloti (LSL) per US dollar -<br>
+18.45 (2023 est.)<br>
 16.356 (2022 est.)<br>
 14.779 (2021 est.)<br>
 16.459 (2020 est.)<br>
 14.448 (2019 est.)<br>
-13.234 (2018 est.)<br>
 
 ## Energy
 
@@ -634,11 +634,11 @@ Lesotho Defense Force (LDF): Army (includes Air Wing) (2024)<br>
 <strong>note:</strong> the Lesotho Mounted Police Service is responsible for internal security and reports to the Minister of Local Government, Chieftainship, Home Affairs and Police<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2023 est.)<br>
 1.6% of GDP (2022 est.)<br>
 1.5% of GDP (2021 est.)<br>
 1.6% of GDP (2020 est.)<br>
 1.8% of GDP (2019 est.)<br>
-2.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 personnel (2023)<br>

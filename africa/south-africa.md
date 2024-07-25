@@ -19,7 +19,7 @@ Southern Africa, at the southern tip of the continent of Africa<br>
 Africa<br>
 
 **Area**<br>
-_total_: 1,219,090 sq km<br>
+_total _: 1,219,090 sq km<br>
 _land_: 1,214,470 sq km<br>
 _water_: 4,620 sq km<br>
 <strong>note:</strong> includes Prince Edward Islands (Marion Island and Prince Edward Island)<br>
@@ -349,7 +349,7 @@ _chief of state_: President Matamela Cyril RAMAPHOSA (since 19 June 2024)<br>
 _head of government_: President Matamela Cyril RAMAPHOSA (since 19 June 2024)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 29 May 2024 (next to be held in 2029) note - the president is both chief of state and head of government<br>
-_election results_: <br><em>2024: Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<br><br>2019: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<br><br><em>2014:</em> Jacob ZUMA (ANC) reelected president by the National Assembly unopposed  <p> </p><br>
+_election results_: <br><em>2024: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<em><br><br>2019: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<br><br><em>2014:</em> Jacob ZUMA (ANC) reelected president by the National Assembly unopposed  <p> </p><br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br><br>National Council of Provinces (90 seats; nine 10-member delegations, each with 6 permanent delegates and 4 special delegates, appointed by each of the 9 provincial legislatures to serve 5-year terms; note - the Council has special powers to protect regional interests, including safeguarding cultural and linguistic traditions among ethnic minorities)<br><br>National Assembly (400 seats; half the members directly elected in multi-seat constituencies and half in a single nationwide constituency, both by proportional representation popular vote; members serve 5-year terms)<br>
@@ -406,31 +406,31 @@ _selected World Heritage Site locales_: Fossil Hominid Sites of South Africa (c)
 upper middle-income South African economy; hard hit by COVID-19; poor utilities management; key rare earth goods exporter; high income inequality; hosts Africa&rsquo;s largest stock exchange; rising unemployment, especially youth; land rights changes<br>
 
 **Real GDP (purchasing power parity)**<br>
-$807.295 billion (2022 est.)<br>
-$792.161 billion (2021 est.)<br>
-$756.579 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$862.981 billion (2023 est.)<br>
+$857.82 billion (2022 est.)<br>
+$841.739 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+0.6% (2023 est.)<br>
 1.91% (2022 est.)<br>
 4.7% (2021 est.)<br>
--5.96% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$13,500 (2022 est.)<br>
-$13,300 (2021 est.)<br>
-$12,900 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$14,300 (2023 est.)<br>
+$14,300 (2022 est.)<br>
+$14,200 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$405.271 billion (2022 est.)<br>
+$377.782 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.07% (2023 est.)<br>
 7.04% (2022 est.)<br>
 4.61% (2021 est.)<br>
-3.21% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -460,17 +460,17 @@ sugarcane, maize, milk, potatoes, wheat, grapes, chicken, oranges, apples, soybe
 mining (world's largest producer of platinum, gold, chromium), automobile assembly, metalworking, machinery, textiles, iron and steel, chemicals, fertilizer, foodstuffs, commercial ship repair<br>
 
 **Industrial production growth rate**<br>
--2.49% (2022 est.)<br>
+-0.15% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-24.367 million (2022 est.)<br>
+25.158 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+27.99% (2023 est.)<br>
 28.84% (2022 est.)<br>
 28.77% (2021 est.)<br>
-24.34% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -491,14 +491,14 @@ _on food_: 21.3% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 5.1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 0.9%<br>
+_lowest 10%_: 0.9% (2014 est.)<br>
 _highest 10%_: 50.5% (2014 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.22% of GDP (2023 est.)<br>
 0.22% of GDP (2022 est.)<br>
 0.22% of GDP (2021 est.)<br>
-0.24% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -509,25 +509,25 @@ _expenditures_: $121.204 billion (2020 est.)<br>
 -4.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-75.42% of GDP (2021 est.)<br>
-77.38% of GDP (2020 est.)<br>
-64.59% of GDP (2019 est.)<br>
+76.55% of GDP (2022 est.)<br>
+73.94% of GDP (2021 est.)<br>
+75.65% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-25.85% (of GDP) (2021 est.)<br>
+26.11% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$6.16 billion (2023 est.)<br>
 -$1.698 billion (2022 est.)<br>
 $15.5 billion (2021 est.)<br>
-$6.701 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$124.731 billion (2023 est.)<br>
 $136.112 billion (2022 est.)<br>
 $130.882 billion (2021 est.)<br>
-$94.059 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -539,9 +539,9 @@ gold, platinum, coal, cars, diamonds (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$123.541 billion (2023 est.)<br>
 $127.596 billion (2022 est.)<br>
 $104.867 billion (2021 est.)<br>
-$79.039 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -553,9 +553,9 @@ refined petroleum, cars, crude petroleum, vehicle parts/accessories, broadcastin
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$62.492 billion (2023 est.)<br>
 $60.553 billion (2022 est.)<br>
 $57.597 billion (2021 est.)<br>
-$55.008 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -564,11 +564,11 @@ $173.714 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: rand (ZAR) per US dollar -<br>
+18.45 (2023 est.)<br>
 16.356 (2022 est.)<br>
 14.779 (2021 est.)<br>
 16.459 (2020 est.)<br>
 14.448 (2019 est.)<br>
-13.234 (2018 est.)<br>
 
 ## Energy
 
@@ -734,13 +734,13 @@ Arniston launch facility (Western Cape) used to support space launch vehicle and
 
 **Space program overview**<br>
 the largest producer of satellites (particularly nanosatellites) in Africa; areas of focus for development include remote sensing (RS) capabilities, such as optical instruments and synthetic aperture radar systems, space engineering, ground support to space operations (tracking, telemetry, etc.), and space science, particularly astronomy; SANSA is responsible for aggregating RS data for southern African countries; has a sounding rocket program for carrying experimental payloads for research purposes; cooperates with foreign space agencies and industries, including those of China, France, India, Russia, and the US; participates in international programs such as the Square Kilometer Array (SKA) Project, an international effort to build the world’s largest radio telescope by 2030; has a substantial number of state- and privately-owned aerospace companies, as well as academic and research institutions involved in space-related activities (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

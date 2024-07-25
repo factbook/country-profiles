@@ -19,7 +19,7 @@ Central America, bordering both the Caribbean Sea and the North Pacific Ocean, b
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 130,370 sq km<br>
+_total _: 130,370 sq km<br>
 _land_: 119,990 sq km<br>
 _water_: 10,380 sq km<br>
 
@@ -383,31 +383,31 @@ _selected World Heritage Site locales_: Ruins of Le&oacute;n Viejo; Le&oacute;n 
 low-income Central American economy; until 2018, nearly 20 years of sustained GDP growth; recent struggles due to COVID-19, political instability, and hurricanes; significant remittances; increasing poverty and food scarcity since 2005; sanctions limit investment<br>
 
 **Real GDP (purchasing power parity)**<br>
-$40.456 billion (2022 est.)<br>
-$38.994 billion (2021 est.)<br>
-$35.337 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$51.088 billion (2023 est.)<br>
+$48.856 billion (2022 est.)<br>
+$47.089 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+4.57% (2023 est.)<br>
 3.75% (2022 est.)<br>
-10.35% (2021 est.)<br>
--1.77% (2020 est.)<br>
+10.32% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$5,800 (2022 est.)<br>
-$5,700 (2021 est.)<br>
-$5,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$7,300 (2023 est.)<br>
+$7,000 (2022 est.)<br>
+$6,900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$15.672 billion (2022 est.)<br>
+$17.829 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.39% (2023 est.)<br>
 10.47% (2022 est.)<br>
 4.93% (2021 est.)<br>
-3.68% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -437,17 +437,17 @@ sugarcane, milk, rice, oil palm fruit, maize, plantains, cassava, groundnuts, be
 food processing, chemicals, machinery and metal products, knit and woven apparel, petroleum refining and distribution, beverages, footwear, wood, electric wire harness manufacturing, mining<br>
 
 **Industrial production growth rate**<br>
-1.39% (2022 est.)<br>
+6.07% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.189 million (2022 est.)<br>
+3.264 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.99% (2022 est.)<br>
-6.27% (2021 est.)<br>
-6.28% (2020 est.)<br>
+4.8% (2023 est.)<br>
+4.98% (2022 est.)<br>
+6.06% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -464,14 +464,14 @@ _female_: 15.5%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2%<br>
+_lowest 10%_: 2% (2014 est.)<br>
 _highest 10%_: 37.2% (2014 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-20.59% of GDP (2022 est.)<br>
+26.18% of GDP (2023 est.)<br>
+20.62% of GDP (2022 est.)<br>
 15.2% of GDP (2021 est.)<br>
-14.63% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -487,19 +487,19 @@ _expenditures_: $3.511 billion (2019 est.)<br>
 <strong>note:</strong> official data; data cover general government debt and include debt instruments issued (or owned) by Government entities other than the treasury; the data include treasury debt held by foreign entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as retirement, medical care, and unemployment, debt instruments for the social funds are not sold at public auctions; Nicaragua rebased its GDP figures in 2012, which reduced the figures for debt as a percentage of GDP<br>
 
 **Taxes and other revenues**<br>
-19.81% (of GDP) (2022 est.)<br>
+19.84% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$215.895 million (2022 est.)<br>
--$438.479 million (2021 est.)<br>
-$456.1 million (2020 est.)<br>
+$1.381 billion (2023 est.)<br>
+-$386.9 million (2022 est.)<br>
+-$540.879 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$8.25 billion (2023 est.)<br>
 $7.87 billion (2022 est.)<br>
 $6.618 billion (2021 est.)<br>
-$5.342 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -511,9 +511,9 @@ garments, gold, coffee, insulated wire, beef (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$10.213 billion (2022 est.)<br>
+$10.517 billion (2023 est.)<br>
+$10.212 billion (2022 est.)<br>
 $8.342 billion (2021 est.)<br>
-$5.952 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -525,9 +525,9 @@ garments, refined petroleum, fabric, plastic products, crude petroleum (2022)<br
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$5.447 billion (2023 est.)<br>
 $4.404 billion (2022 est.)<br>
 $4.047 billion (2021 est.)<br>
-$3.212 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -536,11 +536,11 @@ $11.771 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: cordobas (NIO) per US dollar -<br>
+36.441 (2023 est.)<br>
 35.874 (2022 est.)<br>
 35.171 (2021 est.)<br>
 34.342 (2020 est.)<br>
 33.122 (2019 est.)<br>
-31.553 (2018 est.)<br>
 
 ## Energy
 
@@ -646,11 +646,11 @@ Armed Forces of Nicaragua (formal name is Army of Nicaragua or Ejercito de Nicar
 <strong>note:</strong> both the military and the Nicaraguan National Police (Policía Nacional de Nicaragua or PNN) report directly to the president; Parapolice, which are non-uniformed, armed, and masked units with marginal tactical training and loose hierarchical organization, act in coordination with government security forces and report directly to the National Police; they have been used to suppress anti-government protesters<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2023 est.)<br>
 0.6% of GDP (2022 est.)<br>
 0.6% of GDP (2021 est.)<br>
 0.6% of GDP (2020 est.)<br>
 0.6% of GDP (2019 est.)<br>
-0.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12,000 active personnel (10,000 Army; 800 Navy; 1,200 Air Force) (2023)<br>
@@ -671,7 +671,7 @@ National Secretariat for Extraterrestrial Space Affairs, The Moon and Other Cele
 
 **Space program overview**<br>
 stated mission of the space agency is to promote the development of space activities with the aim of broadening the country’s capacities in the fields of education, industry, science, and technology; has cooperated with China and Russia; is a signatory of the convention establishing the Latin American and Caribbean Space Agency (ALCE) (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

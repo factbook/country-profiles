@@ -19,7 +19,7 @@ Caribbean, island between the Caribbean Sea and Atlantic Ocean, north of Trinida
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 344 sq km<br>
+_total _: 344 sq km<br>
 _land_: 344 sq km<br>
 _water_: 0 sq km<br>
 
@@ -352,31 +352,31 @@ _lyrics/music_: Irva Merle BAPTISTE/Louis Arnold MASANTO<br>
 small OECS service-based economy; large tourism, construction, transportation, and education sectors; major spice exporter; shrinking but still high public debt; vulnerable to hurricanes; emerging blue economy incentives<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.814 billion (2022 est.)<br>
-$1.706 billion (2021 est.)<br>
-$1.629 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2.008 billion (2023 est.)<br>
+$1.916 billion (2022 est.)<br>
+$1.785 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-6.36% (2022 est.)<br>
+4.81% (2023 est.)<br>
+7.32% (2022 est.)<br>
 4.69% (2021 est.)<br>
--13.76% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$14,500 (2022 est.)<br>
-$13,700 (2021 est.)<br>
-$13,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$15,900 (2023 est.)<br>
+$15,300 (2022 est.)<br>
+$14,300 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.215 billion (2022 est.)<br>
+$1.32 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-2.56% (2022 est.)<br>
+2.7% (2023 est.)<br>
+2.58% (2022 est.)<br>
 1.22% (2021 est.)<br>
--0.74% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -404,7 +404,7 @@ coconuts, sugarcane, eggs, bananas, vegetables, fruits, plantains, root vegetabl
 food and beverages, textiles, light assembly operations, tourism, construction, education, call-center operations<br>
 
 **Industrial production growth rate**<br>
-17.38% (2022 est.)<br>
+-4.07% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -415,12 +415,19 @@ food and beverages, textiles, light assembly operations, tourism, construction, 
 28.2% (2016 est.)<br>
 
 **Population below poverty line**<br>
-38% (2008 est.)<br>
+25% (2018 est.)<br>
+
+**Gini Index coefficient - distribution of family income**<br>
+43.8 (2018 est.)<br>
+
+**Household income or consumption by percentage share**<br>
+_lowest 10%_: 2.1% (2018 est.)<br>
+_highest 10%_: 33.7% (2018 est.)<br>
 
 **Remittances**<br>
-5.71% of GDP (2022 est.)<br>
-6.59% of GDP (2021 est.)<br>
-6.75% of GDP (2020 est.)<br>
+3.74% of GDP (2023 est.)<br>
+5.74% of GDP (2022 est.)<br>
+5.53% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -438,15 +445,15 @@ _expenditures_: $263 million (2019 est.)<br>
 25.8% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$55.225 million (2022 est.)<br>
--$146.201 million (2021 est.)<br>
--$171.392 million (2020 est.)<br>
+-$184.237 million (2023 est.)<br>
+-$135.727 million (2022 est.)<br>
+-$162.344 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$816.533 million (2022 est.)<br>
-$534.892 million (2021 est.)<br>
-$428.623 million (2020 est.)<br>
+$899.153 million (2023 est.)<br>
+$712.263 million (2022 est.)<br>
+$537.898 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -458,9 +465,9 @@ nutmeg/cardamom, frozen fruits and nuts, fish, other fruits, toilet paper (2022)
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$802.567 million (2022 est.)<br>
-$622.303 million (2021 est.)<br>
-$544.695 million (2020 est.)<br>
+$1.021 billion (2023 est.)<br>
+$791.232 million (2022 est.)<br>
+$621.896 million (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -472,9 +479,9 @@ refined petroleum, poultry, plastic products, wheat, cars (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$404.13 million (2023 est.)<br>
 $371.767 million (2022 est.)<br>
 $348.259 million (2021 est.)<br>
-$293.32 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -483,11 +490,11 @@ $682.3 million (2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2023 est.)<br>
 2.7 (2022 est.)<br>
 2.7 (2021 est.)<br>
 2.7 (2020 est.)<br>
 2.7 (2019 est.)<br>
-2.7 (2018 est.)<br>
 
 ## Energy
 

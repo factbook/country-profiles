@@ -19,7 +19,7 @@ Central Europe, north of Italy and Slovenia<br>
 Europe<br>
 
 **Area**<br>
-_total_: 83,871 sq km<br>
+_total _: 83,871 sq km<br>
 _land_: 82,445 sq km<br>
 _water_: 1,426 sq km<br>
 
@@ -77,7 +77,7 @@ the northern and eastern portions of the country are more densely populated; nea
 landslides; avalanches; earthquakes<br>
 
 **Geography - note**<br>
-note 1: landlocked; strategic location at the crossroads of central Europe with many easily traversable Alpine passes and valleys; major river is the Danube; population is concentrated on eastern lowlands because of steep slopes, poor soils, and low temperatures elsewhere<br><br>note 2: the world's largest and longest ice cave system at 42 km (26 mi) is the Eisriesenwelt (Ice Giants World) inside the Hochkogel mountain near Werfen, about 40 km south of Salzburg; ice caves are bedrock caves that contain year-round ice formations; they differ from glacial caves, which are transient and are formed by melting ice and flowing water within and under glaciers<br>
+<strong>note 1</strong>: landlocked; strategic location at the crossroads of central Europe with many easily traversable Alpine passes and valleys; major river is the Danube; population is concentrated on eastern lowlands because of steep slopes, poor soils, and low temperatures elsewhere<br><br><strong>note 2</strong>: the world's largest and longest ice cave system at 42 km (26 mi) is the Eisriesenwelt (Ice Giants World) inside the Hochkogel mountain near Werfen, about 40 km south of Salzburg; ice caves are bedrock caves that contain year-round ice formations; they differ from glacial caves, which are transient and are formed by melting ice and flowing water within and under glaciers<br>
 
 ## People and Society
 
@@ -401,31 +401,31 @@ _selected World Heritage Site locales_: Historic Salzburg (c); Palace and Garden
 one of the strongest EU and euro economies; diversified trade portfolios and relations; enormous trade economy; Russian energy dependence, but investing in alternative energy; aging labor force but large refugee population; large government debt<br>
 
 **Real GDP (purchasing power parity)**<br>
-$505.143 billion (2022 est.)<br>
-$481.977 billion (2021 est.)<br>
-$462.382 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$590.354 billion (2023 est.)<br>
+$595.287 billion (2022 est.)<br>
+$567.987 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+-0.83% (2023 est.)<br>
 4.81% (2022 est.)<br>
 4.24% (2021 est.)<br>
--6.63% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$55,900 (2022 est.)<br>
-$53,800 (2021 est.)<br>
-$51,900 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$64,600 (2023 est.)<br>
+$65,800 (2022 est.)<br>
+$63,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$470.942 billion (2022 est.)<br>
+$516.034 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.81% (2023 est.)<br>
 8.55% (2022 est.)<br>
 2.77% (2021 est.)<br>
-1.38% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -455,17 +455,17 @@ milk, sugar beets, maize, wheat, barley, potatoes, pork, grapes, triticale, appl
 construction, machinery, vehicles and parts, food, metals, chemicals, lumber and paper, electronics, tourism<br>
 
 **Industrial production growth rate**<br>
-3.03% (2022 est.)<br>
+-1.99% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.762 million (2022 est.)<br>
+4.825 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+5.24% (2023 est.)<br>
 4.99% (2022 est.)<br>
 6.46% (2021 est.)<br>
-5.2% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -478,7 +478,7 @@ _female_: 11.3%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-29.8 (2020 est.)<br>
+30.7 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -486,14 +486,14 @@ _on food_: 11.3% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3.6% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.8%<br>
-_highest 10%_: 23.1% (2020 est.)<br>
+_lowest 10%_: 2.8% (2021 est.)<br>
+_highest 10%_: 23.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.62% of GDP (2022 est.)<br>
+0.64% of GDP (2023 est.)<br>
+0.64% of GDP (2022 est.)<br>
 0.67% of GDP (2021 est.)<br>
-0.7% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -504,25 +504,25 @@ _expenditures_: $215.485 billion (2019 est.)<br>
 -0.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-94.53% of GDP (2021 est.)<br>
+75.05% of GDP (2022 est.)<br>
+94.64% of GDP (2021 est.)<br>
 99.91% of GDP (2020 est.)<br>
-83.1% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-25.84% (of GDP) (2021 est.)<br>
+26.24% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$13.686 billion (2023 est.)<br>
 -$1.29 billion (2022 est.)<br>
 $7.77 billion (2021 est.)<br>
-$14.913 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$306.466 billion (2023 est.)<br>
 $292.012 billion (2022 est.)<br>
 $267.791 billion (2021 est.)<br>
-$224.242 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -534,9 +534,9 @@ cars, packaged medicine, vaccines, plastic products, electricity (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$288.146 billion (2023 est.)<br>
 $290.277 billion (2022 est.)<br>
 $264.231 billion (2021 est.)<br>
-$209.817 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -548,9 +548,9 @@ cars, refined petroleum, gold, garments, broadcasting equipment (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$31.212 billion (2023 est.)<br>
 $33.078 billion (2022 est.)<br>
 $33.957 billion (2021 est.)<br>
-$30.44 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -559,11 +559,11 @@ $686.196 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 
 ## Energy
 
@@ -711,13 +711,13 @@ Aerospace Agency (established in 1972 as the Austrian Space Agency) (2024)<br>
 
 **Space program overview**<br>
 has a national space program and is a member of the European Space Agency (ESA); develops, builds, operates, and tracks satellites, including remote sensing (RS) and research/scientific satellites; works closely with member states of ESA, the EU, and the commercial sector to develop a range of space capabilities and technologies, including applications for satellite payloads, space flight, and space research; has also cooperated with other foreign space agencies and industries, including those of China, India, Russia, and the US (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

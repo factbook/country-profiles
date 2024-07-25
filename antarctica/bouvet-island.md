@@ -19,7 +19,7 @@ island in the South Atlantic Ocean, southwest of the Cape of Good Hope (South Af
 Antarctic Region<br>
 
 **Area**<br>
-_total_: 49 sq km<br>
+_total _: 49 sq km<br>
 _land_: 49 sq km<br>
 _water_: 0 sq km<br>
 

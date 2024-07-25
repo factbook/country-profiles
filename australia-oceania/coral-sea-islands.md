@@ -19,7 +19,7 @@ Oceania, islands in the Coral Sea, northeast of Australia<br>
 Oceania<br>
 
 **Area**<br>
-_total_: 3 sq km less than<br>
+_total _: 3 sq km less than<br>
 _land_: 3 sq km less than<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes numerous small islands and reefs scattered over a sea area of about 780,000 sq km (300,000 sq mi) with the Willis Islets the most important<br>

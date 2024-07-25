@@ -19,7 +19,7 @@ Middle East, island in the Mediterranean Sea, south of Turkey; note - Cyprus vie
 Middle East<br>
 
 **Area**<br>
-_total_: 9,251 sq km (of which 3,355 sq km are in north Cyprus)<br>
+_total _: 9,251 sq km (of which 3,355 sq km are in north Cyprus)<br>
 _land_: 9,241 sq km<br>
 _water_: 10 sq km<br>
 
@@ -395,31 +395,31 @@ services-based, high-income EU island economy; heavy tourism; sustained growth b
 <strong>note: </strong>Even though the whole of the island is part of the EU, implementation of the EU "acquis communautaire" has been suspended in the area administered by Turkish Cypriots, known locally as the Turkish Republic of Northern Cyprus, until political conditions permit the reunification of the island. Its market-based economy is roughly one-fifth the size of its southern neighbor and is likewise dominated by the service sector with a large portion of the population employed by the government. Manufacturing is limited mainly to food and beverages, furniture and fixtures, construction materials, metal and non-metal products, textiles and clothing. Little trade exists with the Republic of Cyprus outside of construction, historically relying heavily upon Turkey for financial aid, defense, telecommunications, utilities, and postal services. The Turkish Lira is the preferred currency, though foreign currencies are widely accepted in business transactions.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$41.068 billion (2022 est.)<br>
-$39.091 billion (2021 est.)<br>
-$35.566 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$46.976 billion (2023 est.)<br>
+$45.845 billion (2022 est.)<br>
+$43.637 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.47% (2023 est.)<br>
 5.06% (2022 est.)<br>
 9.91% (2021 est.)<br>
--3.39% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$45,000 (2022 est.)<br>
-$43,400 (2021 est.)<br>
-$39,900 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$50,600 (2023 est.)<br>
+$50,200 (2022 est.)<br>
+$48,500 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$29.251 billion (2022 est.)<br>
+$32.23 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.54% (2023 est.)<br>
 8.4% (2022 est.)<br>
 2.45% (2021 est.)<br>
--0.64% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -451,17 +451,17 @@ tourism, food and beverage processing, cement and gypsum, ship repair and refurb
 <strong>note:</strong> area administered by Turkish Cypriots - foodstuffs, textiles, clothing, ship repair, clay, gypsum, copper, furniture<br>
 
 **Industrial production growth rate**<br>
--0.66% (2022 est.)<br>
+3.16% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-685,000 (2022 est.)<br>
+693,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.78% (2022 est.)<br>
+5.96% (2023 est.)<br>
+6.81% (2022 est.)<br>
 7.51% (2021 est.)<br>
-7.76% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -474,18 +474,18 @@ _female_: 14.9%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-31.7 (2020 est.)<br>
+31.3 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.5%<br>
-_highest 10%_: 26.3% (2020 est.)<br>
+_lowest 10%_: 3.5% (2021 est.)<br>
+_highest 10%_: 25.7% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.78% of GDP (2022 est.)<br>
+1.86% of GDP (2023 est.)<br>
+1.79% of GDP (2022 est.)<br>
 2.13% of GDP (2021 est.)<br>
-2.25% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -502,19 +502,19 @@ _expenditures_: $9.996 billion (2019 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment<br>
 
 **Taxes and other revenues**<br>
-23.23% (of GDP) (2021 est.)<br>
+24.71% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$3.886 billion (2023 est.)<br>
 -$2.357 billion (2022 est.)<br>
 -$1.812 billion (2021 est.)<br>
--$2.523 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$28.808 billion (2023 est.)<br>
 $27.72 billion (2022 est.)<br>
 $26.303 billion (2021 est.)<br>
-$20.379 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -526,9 +526,9 @@ ships, refined petroleum, packaged medicine, cheese, scented mixtures (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$29.091 billion (2023 est.)<br>
 $27.658 billion (2022 est.)<br>
 $25.164 billion (2021 est.)<br>
-$20.711 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -540,9 +540,9 @@ refined petroleum, ships, cars, packaged medicine, garments (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.789 billion (2023 est.)<br>
 $1.671 billion (2022 est.)<br>
 $1.611 billion (2021 est.)<br>
-$1.237 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -551,11 +551,11 @@ $231.885 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 
 ## Energy
 
@@ -681,7 +681,7 @@ established in 1964, the National Guard (EF) is responsible for ensuring Cyprus&
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

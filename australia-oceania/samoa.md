@@ -19,7 +19,7 @@ Oceania, group of islands in the South Pacific Ocean, about halfway between Hawa
 Oceania<br>
 
 **Area**<br>
-_total_: 2,831 sq km<br>
+_total _: 2,831 sq km<br>
 _land_: 2,821 sq km<br>
 _water_: 10 sq km<br>
 
@@ -362,31 +362,31 @@ _lyrics/music_: Sauni Liga KURESA<br>
 ower middle-income Pacific island economy; enormous fishing and agriculture industries; significant remittances; growing offshore financial hub; recently hosted Pacific Games to drive tourism and infrastructure growth<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.147 billion (2022 est.)<br>
-$1.211 billion (2021 est.)<br>
-$1.303 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.359 billion (2023 est.)<br>
+$1.258 billion (2022 est.)<br>
+$1.329 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+7.99% (2023 est.)<br>
 -5.31% (2022 est.)<br>
 -7.08% (2021 est.)<br>
--3.11% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$5,200 (2022 est.)<br>
-$5,500 (2021 est.)<br>
-$6,100 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$6,000 (2023 est.)<br>
+$5,700 (2022 est.)<br>
+$6,100 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$832.945 million (2022 est.)<br>
+$934.1 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.12% (2023 est.)<br>
 10.96% (2022 est.)<br>
 3.13% (2021 est.)<br>
--1.57% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -410,17 +410,17 @@ coconuts, taro, bananas, tropical fruits, pineapples, mangoes/guavas, papayas, r
 food processing, building materials, auto parts<br>
 
 **Industrial production growth rate**<br>
--0.18% (2022 est.)<br>
+-1.9% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-75,000 (2022 est.)<br>
+77,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-10.04% (2022 est.)<br>
-10.62% (2021 est.)<br>
-10.37% (2020 est.)<br>
+9.75% (2023 est.)<br>
+9.92% (2022 est.)<br>
+10.37% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -442,9 +442,9 @@ _highest 10%_: 31.3% (2013 est.)<br>
 <strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+28.36% of GDP (2023 est.)<br>
 33.61% of GDP (2022 est.)<br>
 29.44% of GDP (2021 est.)<br>
-23.5% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -463,15 +463,15 @@ _expenditures_: $263 million (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$78.203 million (2022 est.)<br>
+$46.511 million (2023 est.)<br>
+-$86.678 million (2022 est.)<br>
 -$114.383 million (2021 est.)<br>
--$75.732 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$171.278 million (2022 est.)<br>
+$347.19 million (2023 est.)<br>
+$162.803 million (2022 est.)<br>
 $97.774 million (2021 est.)<br>
-$116.519 million (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -483,9 +483,9 @@ coconut oil, integrated circuits, insulated wire, citrus, power equipment (2022)
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$560.488 million (2023 est.)<br>
 $512.002 million (2022 est.)<br>
 $430.011 million (2021 est.)<br>
-$376.791 million (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -497,9 +497,9 @@ refined petroleum, coated flat-rolled iron, fish, poultry, ships (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$447.09 million (2023 est.)<br>
 $321.163 million (2022 est.)<br>
 $294.682 million (2021 est.)<br>
-$277.056 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -507,11 +507,11 @@ $447.2 million (31 December 2013 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: tala (SAT) per US dollar -<br>
+2.738 (2023 est.)<br>
 2.689 (2022 est.)<br>
 2.556 (2021 est.)<br>
 2.665 (2020 est.)<br>
 2.649 (2019 est.)<br>
-2.587 (2018 est.)<br>
 
 ## Energy
 

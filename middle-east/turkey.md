@@ -19,7 +19,7 @@ Southeastern Europe and Southwestern Asia (that portion of Turkey west of the Bo
 Middle East<br>
 
 **Area**<br>
-_total_: 783,562 sq km<br>
+_total _: 783,562 sq km<br>
 _land_: 769,632 sq km<br>
 _water_: 13,930 sq km<br>
 
@@ -407,31 +407,31 @@ _selected World Heritage Site locales_: Archaeological Site of Troy (c); Ephesus
 upper middle-income, diversified Middle Eastern economy; heightened inflation and currency depreciation triggered by expansionary monetary and fiscal policy ahead of 2023 elections, now being reversed; industrializing economy that maintains large agricultural base<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.817 trillion (2022 est.)<br>
-$2.669 trillion (2021 est.)<br>
-$2.395 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2.936 trillion (2023 est.)<br>
+$2.81 trillion (2022 est.)<br>
+$2.662 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+4.52% (2023 est.)<br>
 5.53% (2022 est.)<br>
 11.44% (2021 est.)<br>
-1.86% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$34,400 (2023 est.)<br>
 $33,100 (2022 est.)<br>
-$31,700 (2021 est.)<br>
-$28,700 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$31,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$907.118 billion (2022 est.)<br>
+$1.108 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+53.86% (2023 est.)<br>
 72.31% (2022 est.)<br>
 19.6% (2021 est.)<br>
-12.28% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -461,17 +461,17 @@ milk, wheat, sugar beets, tomatoes, barley, maize, potatoes, apples, grapes, wat
 textiles, food processing, automobiles, electronics, mining (coal, chromate, copper, boron), steel, petroleum, construction, lumber, paper<br>
 
 **Industrial production growth rate**<br>
--0.57% (2022 est.)<br>
+2.34% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-34.63 million (2022 est.)<br>
+35.071 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+9.41% (2023 est.)<br>
 10.43% (2022 est.)<br>
-11.98% (2021 est.)<br>
-13.11% (2020 est.)<br>
+11.97% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -484,7 +484,7 @@ _female_: 29.9%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-41.9 (2019 est.)<br>
+44.4 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -492,14 +492,14 @@ _on food_: 27.3% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 2.8% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2%<br>
-_highest 10%_: 31.6% (2019 est.)<br>
+_lowest 10%_: 2% (2021 est.)<br>
+_highest 10%_: 34.7% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.08% of GDP (2023 est.)<br>
 0.08% of GDP (2022 est.)<br>
 0.09% of GDP (2021 est.)<br>
-0.11% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -520,15 +520,15 @@ _expenditures_: $249.268 billion (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$48.751 billion (2022 est.)<br>
--$7.232 billion (2021 est.)<br>
--$31.888 billion (2020 est.)<br>
+-$44.961 billion (2023 est.)<br>
+-$45.799 billion (2022 est.)<br>
+-$6.433 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$343.688 billion (2022 est.)<br>
-$286.094 billion (2021 est.)<br>
-$206.621 billion (2020 est.)<br>
+$352.514 billion (2023 est.)<br>
+$346.369 billion (2022 est.)<br>
+$287.318 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -540,9 +540,9 @@ garments, refined petroleum, cars, jewelry, plastic products (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$383.5 billion (2022 est.)<br>
-$283.595 billion (2021 est.)<br>
-$230.136 billion (2020 est.)<br>
+$386.828 billion (2023 est.)<br>
+$383.02 billion (2022 est.)<br>
+$284.019 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -554,9 +554,9 @@ gold, refined petroleum, plastics, scrap iron, cars (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$140.858 billion (2023 est.)<br>
 $123.735 billion (2022 est.)<br>
 $109.535 billion (2021 est.)<br>
-$93.512 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -565,11 +565,11 @@ $454.251 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Turkish liras (TRY) per US dollar -<br>
+23.739 (2023 est.)<br>
 16.549 (2022 est.)<br>
 8.85 (2021 est.)<br>
 7.009 (2020 est.)<br>
 5.674 (2019 est.)<br>
-4.828 (2018 est.)<br>
 
 ## Energy
 
@@ -736,13 +736,13 @@ rocket test launch site on the Black Sea in Sinop Province; the 2021 national sp
 
 **Space program overview**<br>
 has an ambitious space program with a large focus on satellites, software development, ground station technologies, and building up the country’s space industries; in recent years has also initiated a space launch program with the goal of placing domestically produced satellites into orbit independently and a probe on the Moon; manufactures and operates remote sensing and telecommunications satellites, as well as satellite components; has a space/satellite launch vehicle program; space sector is heavily import-reliant, particularly at the component level; has established relations with more than 25 foreign space agencies and corporations, including those of Azerbaijan, China, France, India, Japan, Kazakhstan, Pakistan, Russia, South Korea, Ukraine, and the US, as well as the European Space Agency; has state-owned rocket development and satellite communications companies, including some under the Ministry of Defense (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU); Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Kurdistan Workers' Party (PKK); al-Qa'ida; Revolutionary People's Liberation Party/Front (DHKP/C)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

@@ -19,7 +19,7 @@ Central Asia, west of China, south of Kazakhstan<br>
 Asia<br>
 
 **Area**<br>
-_total_: 199,951 sq km<br>
+_total _: 199,951 sq km<br>
 _land_: 191,801 sq km<br>
 _water_: 8,150 sq km<br>
 
@@ -399,31 +399,31 @@ _selected World Heritage Site locales_: Sulaiman-Too Sacred Mountain (c); Silk R
 landlocked, lower-middle-income Central Asian economy; natural resource rich; growing hydroelectricity and tourism; high remittances; corruption limits investment; COVID-19 and political turmoil hurt GDP, limited public revenues, and increased spending<br>
 
 **Real GDP (purchasing power parity)**<br>
-$35.364 billion (2022 est.)<br>
-$33.258 billion (2021 est.)<br>
-$31.522 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$45.461 billion (2023 est.)<br>
+$42.826 billion (2022 est.)<br>
+$39.302 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-6.33% (2022 est.)<br>
+6.15% (2023 est.)<br>
+8.97% (2022 est.)<br>
 5.51% (2021 est.)<br>
--7.15% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$5,100 (2022 est.)<br>
-$4,900 (2021 est.)<br>
-$4,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$6,400 (2023 est.)<br>
+$6,100 (2022 est.)<br>
+$5,800 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$11.544 billion (2022 est.)<br>
+$13.988 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+10.75% (2023 est.)<br>
 13.92% (2022 est.)<br>
 11.91% (2021 est.)<br>
-6.33% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -452,17 +452,17 @@ milk, potatoes, maize, wheat, barley, sugar beets, tomatoes, onions, watermelons
 small machinery, textiles, food processing, cement, shoes, lumber, refrigerators, furniture, electric motors, gold, rare earth metals<br>
 
 **Industrial production growth rate**<br>
-10.89% (2022 est.)<br>
+4.93% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.004 million (2022 est.)<br>
+3.069 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.02% (2022 est.)<br>
+4.04% (2023 est.)<br>
+4.06% (2022 est.)<br>
 4.1% (2021 est.)<br>
-4.63% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -475,18 +475,18 @@ _female_: 27.3%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-29 (2020 est.)<br>
+28.8 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4%<br>
-_highest 10%_: 24% (2020 est.)<br>
+_lowest 10%_: 4.1% (2021 est.)<br>
+_highest 10%_: 24.2% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-27.94% of GDP (2022 est.)<br>
-30.19% of GDP (2021 est.)<br>
-29.29% of GDP (2020 est.)<br>
+18.59% of GDP (2023 est.)<br>
+26.58% of GDP (2022 est.)<br>
+32.56% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -497,13 +497,13 @@ _expenditures_: $2.89 billion (2019 est.)<br>
 -3.2% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+47.09% of GDP (2022 est.)<br>
 56.36% of GDP (2021 est.)<br>
 67.96% of GDP (2020 est.)<br>
-51.33% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-16.49% (of GDP) (2021 est.)<br>
+19.54% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -541,9 +541,9 @@ garments, footwear, refined petroleum, cars, fabric (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$3.237 billion (2023 est.)<br>
 $2.799 billion (2022 est.)<br>
 $2.983 billion (2021 est.)<br>
-$2.812 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -552,11 +552,11 @@ $8.066 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: soms (KGS) per US dollar -<br>
+87.856 (2023 est.)<br>
 84.116 (2022 est.)<br>
 84.641 (2021 est.)<br>
 77.346 (2020 est.)<br>
 69.789 (2019 est.)<br>
-68.84 (2018 est.)<br>
 
 ## Energy
 

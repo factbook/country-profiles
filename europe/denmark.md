@@ -19,7 +19,7 @@ Northern Europe, bordering the Baltic Sea and the North Sea, on a peninsula nort
 Europe<br>
 
 **Area**<br>
-_total_: 43,094 sq km<br>
+_total _: 43,094 sq km<br>
 _land_: 42,434 sq km<br>
 _water_: 660 sq km<br>
 <strong>note:</strong> includes the island of Bornholm in the Baltic Sea and the rest of metropolitan Denmark (the Jutland Peninsula, and the major islands of Sjaelland and Fyn) but excludes the Faroe Islands and Greenland<br>
@@ -391,31 +391,31 @@ _selected World Heritage Site locales_: Denmark: Mounds, Runic Stones, and Churc
 <p>high-income, EU member, trade-oriented Nordic economy; growth driven by pharmaceuticals, energy and services; large share of employment in public sector; fixed exchange rate pegged to euro; strong fiscal position; tight labor market addressed by migrant workers and higher average retirement age</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$353.799 billion (2022 est.)<br>
-$344.393 billion (2021 est.)<br>
-$322.331 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$428.385 billion (2023 est.)<br>
+$420.44 billion (2022 est.)<br>
+$409.262 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+1.89% (2023 est.)<br>
 2.73% (2022 est.)<br>
 6.84% (2021 est.)<br>
--2.42% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$59,900 (2022 est.)<br>
-$58,800 (2021 est.)<br>
-$55,300 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$72,000 (2023 est.)<br>
+$71,200 (2022 est.)<br>
+$69,900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$400.167 billion (2022 est.)<br>
+$404.199 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.31% (2023 est.)<br>
 7.7% (2022 est.)<br>
 1.85% (2021 est.)<br>
-0.42% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -445,17 +445,17 @@ milk, wheat, barley, potatoes, sugar beets, pork, rapeseed, rye, oats, chicken (
 wind turbines, pharmaceuticals, medical equipment, shipbuilding and refurbishment, iron, steel, nonferrous metals, chemicals, food processing, machinery and transportation equipment, textiles and clothing, electronics, construction, furniture and other wood products<br>
 
 **Industrial production growth rate**<br>
-6.98% (2022 est.)<br>
+7.92% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.141 million (2022 est.)<br>
+3.18 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+5.14% (2023 est.)<br>
 4.43% (2022 est.)<br>
 5.04% (2021 est.)<br>
-5.64% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -468,7 +468,7 @@ _female_: 10.6%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-27.5 (2020 est.)<br>
+28.3 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -476,14 +476,14 @@ _on food_: 12.3% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3.6% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.7%<br>
-_highest 10%_: 22.9% (2020 est.)<br>
+_lowest 10%_: 3.7% (2021 est.)<br>
+_highest 10%_: 23.8% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.35% of GDP (2023 est.)<br>
 0.31% of GDP (2022 est.)<br>
 0.35% of GDP (2021 est.)<br>
-0.38% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -499,19 +499,19 @@ _expenditures_: $172.408 billion (2019 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-34.81% (of GDP) (2021 est.)<br>
+30.56% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$44.195 billion (2023 est.)<br>
 $53.067 billion (2022 est.)<br>
 $36.94 billion (2021 est.)<br>
-$28.731 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$278.917 billion (2023 est.)<br>
 $279.939 billion (2022 est.)<br>
 $237.861 billion (2021 est.)<br>
-$195.876 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -523,9 +523,9 @@ packaged medicine, garments, fish, electricity, refined petroleum (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$240.269 billion (2023 est.)<br>
 $235.68 billion (2022 est.)<br>
 $210.716 billion (2021 est.)<br>
-$172.954 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -537,9 +537,9 @@ garments, cars, refined petroleum, electricity, packaged medicine (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$109.371 billion (2023 est.)<br>
 $96.073 billion (2022 est.)<br>
 $82.236 billion (2021 est.)<br>
-$72.823 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -548,11 +548,11 @@ $517.972 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Danish kroner (DKK) per US dollar -<br>
+6.89 (2023 est.)<br>
 7.076 (2022 est.)<br>
 6.287 (2021 est.)<br>
 6.542 (2020 est.)<br>
 6.669 (2019 est.)<br>
-6.315 (2018 est.)<br>
 
 ## Energy
 
@@ -704,13 +704,13 @@ no formal space agency; the Ministry of Higher Education and Science has respons
 
 **Space program overview**<br>
 a member of the European Space Agency (ESA) and fully integrated within its structure; participates in ESA programs, particularly those linked to human spaceflight and satellite-based remote sensing activities, as well as technology programs involving telecommunications and navigation; independently builds and operates satellites, particularly those with meteorological, science, technology, and signal/traffic monitoring capabilities; conducts research and development of such technologies as measurement and instrumentation systems, microwaves, remote sensing, electromagnetic systems, astrophysics, geomagnetism, etc.; in addition to cooperating with the ESA and EU, as well as bi-laterally with member states, it has relations with the space agencies and industries of Canada, India, Japan, and the US (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qods Force<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

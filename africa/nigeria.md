@@ -19,7 +19,7 @@ Western Africa, bordering the Gulf of Guinea, between Benin and Cameroon<br>
 Africa<br>
 
 **Area**<br>
-_total_: 923,768 sq km<br>
+_total _: 923,768 sq km<br>
 _land_: 910,768 sq km<br>
 _water_: 13,000 sq km<br>
 
@@ -413,31 +413,31 @@ _selected World Heritage Site locales_: Sukur Cultural Landscape; Osun-Osogbo Sa
 largest African market economy; enormous but mostly lower middle income labor force; major oil exporter; key telecommunications and finance industries; susceptible to global energy price shocks; regional leader in critical infrastructure; primarily agrarian employment<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.085 trillion (2022 est.)<br>
-$1.05 trillion (2021 est.)<br>
-$1.014 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.275 trillion (2023 est.)<br>
+$1.239 trillion (2022 est.)<br>
+$1.2 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.86% (2023 est.)<br>
 3.25% (2022 est.)<br>
 3.65% (2021 est.)<br>
--1.79% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$5,000 (2022 est.)<br>
-$4,900 (2021 est.)<br>
-$4,900 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$5,700 (2023 est.)<br>
+$5,700 (2022 est.)<br>
+$5,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$472.625 billion (2022 est.)<br>
+$362.815 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+24.66% (2023 est.)<br>
 18.85% (2022 est.)<br>
 16.95% (2021 est.)<br>
-13.25% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -467,17 +467,17 @@ yams, cassava, maize, oil palm fruit, rice, taro, bananas, vegetables, sorghum, 
 crude oil, coal, tin, columbite; rubber products, wood; hides and skins, textiles, cement and other construction materials, food products, footwear, chemicals, fertilizer, printing, ceramics, steel<br>
 
 **Industrial production growth rate**<br>
--4.62% (2022 est.)<br>
+0.72% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-73.389 million (2022 est.)<br>
+75.721 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+3.07% (2023 est.)<br>
 3.83% (2022 est.)<br>
-5.26% (2021 est.)<br>
-5.63% (2020 est.)<br>
+5.39% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -498,14 +498,14 @@ _on food_: 59% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 1% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9%<br>
+_lowest 10%_: 2.9% (2018 est.)<br>
 _highest 10%_: 26.7% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+5.65% of GDP (2023 est.)<br>
 4.26% of GDP (2022 est.)<br>
 4.42% of GDP (2021 est.)<br>
-3.98% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -523,15 +523,15 @@ _expenditures_: $59.868 billion (2019 est.)<br>
 3.4% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
+-$805.777 million (2023 est.)<br>
 $1.019 billion (2022 est.)<br>
 -$3.254 billion (2021 est.)<br>
--$15.986 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$60.261 billion (2023 est.)<br>
 $69.091 billion (2022 est.)<br>
 $50.856 billion (2021 est.)<br>
-$39.937 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -543,9 +543,9 @@ crude petroleum, natural gas, fertilizers, refined petroleum, gold (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$72.251 billion (2023 est.)<br>
 $77.049 billion (2022 est.)<br>
 $67.478 billion (2021 est.)<br>
-$72.178 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -702,11 +702,11 @@ Armed Forces of Nigeria (AFN): Army, Navy (includes Coast Guard), Air Force<br><
 <strong>note 1: </strong>the NSCDC is a paramilitary agency commissioned to assist the military in the management of threats to internal security, including attacks and natural disasters<br><br><strong>note 2:</strong> the Office of the National Security Advisor is responsible for coordinating all security and enforcement agencies, including the Department of State Security (DSS), the NSCDC, the Ministry of Justice, and the NPF; border security responsibilities are shared among the NPF, the DSS, the NSCDC, Nigeria Customs Service, Immigration Service, and the AFN<br><br><strong>note 3: </strong>some states have created local security forces akin to neighborhood watches in response to increased violence, insecurity, and criminality that have exceeded the response capacity of federal government security forces but as of January 2024, official security forces remained the constitutional perogative of the federal government<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2023 est.)<br>
 0.6% of GDP (2022 est.)<br>
 0.7% of GDP (2021 est.)<br>
 0.6% of GDP (2020 est.)<br>
 0.5% of GDP (2019 est.)<br>
-0.5% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 135,000 active-duty armed forces personnel (100,000 Army; 20,000 Navy/Coast Guard; 15,000 Air Force); approximately 80,000 Security and Civil Defense Corps; approximately 370,000 police (2023)<br>
@@ -731,13 +731,13 @@ National Space Research and Development Agency (NARSDA; established 1999); NARSD
 
 **Space program overview**<br>
 has a formal national space program, which is one of the largest in Africa; focused on acquiring satellites for agricultural, environmental, meteorology, mining and disaster monitoring, socio-economic development, and security purposes; designs, builds (mostly with foreign assistance), and operates satellites; processes overhead imagery data for analysis and sharing; developing additional capabilities in satellite and satellite payload production, including remote sensing (RS) technologies; has a sounding rocket program for researching rockets and rocket propulsion systems with goal of launching domestically produced satellites into space from a Nigerian spaceport by 2030; has relations and/or cooperation agreements with a variety of foreign space agencies and industries, including those of Algeria, Bangladesh, Belarus, China, Ghana, India, Japan, Kenya, Mongolia, South Africa, Thailand, Turkey, the UK, the US, and Vietnam; has a government-owned satellite company and a small commercial aerospace sector (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Boko Haram; Islamic State of Iraq and ash-Sham – West Africa; Jama’atu Ansarul Muslimina Fi Biladis-Sudan (Ansaru)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

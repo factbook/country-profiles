@@ -19,7 +19,7 @@ Southeastern Europe, between Macedonia and Hungary<br>
 Europe<br>
 
 **Area**<br>
-_total_: 77,474 sq km<br>
+_total _: 77,474 sq km<br>
 _land_: 77,474 sq km<br>
 _water_: 0 sq km<br>
 
@@ -353,7 +353,7 @@ _chief of state_: President Aleksandar VUCIC (since 31 May 2017)<br>
 _head of government_: Prime Minister Milos Vucevic (since 2 May 2024)<br>
 _cabinet_: Cabinet elected by the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 17 December 2023 (next to be held in 2028); prime minister elected by the National Assembly<br>
-_election results_: <em>2022:</em> Aleksandar VUCIC reelected in first round; percent of vote - Aleksandar VUCIC (SNS) 60%, Zdravko PONOS (US) 18.9%, Milos JOVANOVIC (NADA) 6.1%, Bosko OBRADOVIC (Dveri-POKS) 4.5%, Milica DJURDJEVIC STAMENKOVSKI (SSZ) 4.3%, other 6.2%<br><br><em>2017:</em> Aleksandar VUCIC elected president in first round; percent of vote - Aleksandar VUCIC (SNS) 55.1%, Sasa JANKOVIC (independent) 16.4%, Luka MAKSIMOVIC (independent) 9.4%, Vuk JEREMIC (independent) 5.7%, Vojislav SESELJ (SRS) 4.5%, other 7.3%, invalid/blank 1.6%; Prime Minister Ana BRNABIC reelected by the National Assembly on 5 October 2020; National Assembly vote - NA<br>
+_election results_: <em><br>2022:</em> Aleksandar VUCIC reelected in first round; percent of vote - Aleksandar VUCIC (SNS) 60%, Zdravko PONOS (US) 18.9%, Milos JOVANOVIC (NADA) 6.1%, Bosko OBRADOVIC (Dveri-POKS) 4.5%, Milica DJURDJEVIC STAMENKOVSKI (SSZ) 4.3%, other 6.2%<br><br><em>2017:</em> Aleksandar VUCIC elected president in first round; percent of vote - Aleksandar VUCIC (SNS) 55.1%, Sasa JANKOVIC (independent) 16.4%, Luka MAKSIMOVIC (independent) 9.4%, Vuk JEREMIC (independent) 5.7%, Vojislav SESELJ (SRS) 4.5%, other 7.3%, invalid/blank 1.6%; Prime Minister Ana BRNABIC reelected by the National Assembly on 5 October 2020; National Assembly vote - NA<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Narodna Skupstina (250 seats; members directly elected by party list proportional representation vote in a single nationwide constituency to serve 4-year terms)<br>
@@ -410,31 +410,31 @@ _selected World Heritage Site locales_: Stari Ras and Sopoćani; Studenica Monas
 upper middle-income Balkan economy; current EU accession candidate; hit by COVID-19; pursuing green growth development; manageable public debt; new anticorruption efforts; falling unemployment; historic Russian relations; energy import-dependent<br>
 
 **Real GDP (purchasing power parity)**<br>
-$139.193 billion (2022 est.)<br>
-$135.732 billion (2021 est.)<br>
-$125.997 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$162.213 billion (2023 est.)<br>
+$158.214 billion (2022 est.)<br>
+$154.28 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.53% (2023 est.)<br>
 2.55% (2022 est.)<br>
 7.73% (2021 est.)<br>
--0.9% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$20,900 (2022 est.)<br>
-$19,900 (2021 est.)<br>
-$18,300 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$24,500 (2023 est.)<br>
+$23,700 (2022 est.)<br>
+$22,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$63.563 billion (2022 est.)<br>
+$75.187 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+12.37% (2023 est.)<br>
 11.98% (2022 est.)<br>
 4.09% (2021 est.)<br>
-1.58% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -464,17 +464,17 @@ maize, wheat, sugar beets, milk, sunflower seeds, potatoes, plums, apples, barle
 automobiles, base metals, furniture, food processing, machinery, chemicals, sugar, tires, clothes, pharmaceuticals<br>
 
 **Industrial production growth rate**<br>
--0.06% (2022 est.)<br>
+3.62% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.373 million (2022 est.)<br>
+3.333 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+8.68% (2023 est.)<br>
 8.68% (2022 est.)<br>
 10.06% (2021 est.)<br>
-9.01% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -487,7 +487,7 @@ _female_: 33.7%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-35 (2020 est.)<br>
+33.1 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -495,14 +495,14 @@ _on food_: 24.1% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 8.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.3%<br>
-_highest 10%_: 27.1% (2020 est.)<br>
+_lowest 10%_: 2.5% (2021 est.)<br>
+_highest 10%_: 25.9% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-8.81% of GDP (2022 est.)<br>
+7.68% of GDP (2023 est.)<br>
+8.97% of GDP (2022 est.)<br>
 7.29% of GDP (2021 est.)<br>
-7.25% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -518,19 +518,19 @@ _expenditures_: $25.72 billion (2020 est.)<br>
 73.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-20.61% (of GDP) (2021 est.)<br>
+25.11% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$1.954 billion (2023 est.)<br>
 -$4.457 billion (2022 est.)<br>
 -$2.654 billion (2021 est.)<br>
--$2.177 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$44.343 billion (2023 est.)<br>
 $39.905 billion (2022 est.)<br>
 $34.035 billion (2021 est.)<br>
-$25.5 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -542,9 +542,9 @@ insulated wire, copper ore, plastic products, electricity, rubber tires (2022)<b
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$48.216 billion (2023 est.)<br>
 $47.395 billion (2022 est.)<br>
 $39.476 billion (2021 est.)<br>
-$30.177 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -556,9 +556,9 @@ electricity, crude petroleum, natural gas, plastic products, packaged medicine (
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$27.569 billion (2023 est.)<br>
 $20.68 billion (2022 est.)<br>
 $18.617 billion (2021 est.)<br>
-$16.587 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -567,11 +567,11 @@ $30.618 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Serbian dinars (RSD) per US dollar -<br>
+108.403 (2023 est.)<br>
 111.662 (2022 est.)<br>
 99.396 (2021 est.)<br>
 103.163 (2020 est.)<br>
 105.25 (2019 est.)<br>
-100.175 (2018 est.)<br>
 
 ## Energy
 
@@ -680,7 +680,7 @@ Serbian Armed Forces (Vojska Srbije, VS): Army (aka Land Forces; includes Riveri
 <strong>note:</strong> the Serbian Guard is a brigade-sized unit that is directly subordinate to the Serbian Armed Forces Chief of General Staff; its duties include safeguarding key defense facilities and rendering military honors to top foreign, state, and military officials <br><br>
 
 **Military expenditures**<br>
-2% of GDP (2023 est.)<br>
+2.4% of GDP (2023 est.)<br>
 2.2% of GDP (2022 est.)<br>
 2.2% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>

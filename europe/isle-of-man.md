@@ -19,7 +19,7 @@ Western Europe, island in the Irish Sea, between Great Britain and Ireland<br>
 Europe<br>
 
 **Area**<br>
-_total_: 572 sq km<br>
+_total _: 572 sq km<br>
 _land_: 572 sq km<br>
 _water_: 0 sq km<br>
 
@@ -311,9 +311,9 @@ $6.298 billion (2013 est.)<br>
 <strong>note:</strong> data are in 2014 dollars<br>
 
 **Real GDP growth rate**<br>
+3.84% (2021 est.)<br>
 -8.84% (2020 est.)<br>
 0.25% (2019 est.)<br>
-2.21% (2018 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
@@ -322,7 +322,7 @@ $86,200 (2013 est.)<br>
 $73,700 (2012 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$6.684 billion (2020 est.)<br>
+$7.931 billion (2021 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -346,7 +346,7 @@ cereals, vegetables; cattle, sheep, pigs, poultry<br>
 financial services, light manufacturing, tourism<br>
 
 **Industrial production growth rate**<br>
-6.66% (2020 est.)<br>
+9.95% (2021 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Unemployment rate**<br>
@@ -382,11 +382,11 @@ ships, delivery trucks (2022)<br>
 
 **Exchange rates**<br>
 _Currency_: Manx pounds (IMP) per US dollar -<br>
+0.805 (2023 est.)<br>
 0.811 (2022 est.)<br>
 0.727 (2021 est.)<br>
 0.78 (2020 est.)<br>
 0.783 (2019 est.)<br>
-0.75 (2018 est.)<br>
 
 ## Energy
 

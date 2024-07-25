@@ -19,7 +19,7 @@ Middle East, bordering the Gulf of Oman and the Persian Gulf, between Oman and S
 Middle East<br>
 
 **Area**<br>
-_total_: 83,600 sq km<br>
+_total _: 83,600 sq km<br>
 _land_: 83,600 sq km<br>
 _water_: 0 sq km<br>
 
@@ -376,25 +376,25 @@ _selected World Heritage Site locales_: Cultural Sites of Al Ain (Hafit, Hili, B
 historically oil-driven Middle Eastern economy; diversifying into a trade-oriented logistics and supply chain leader; strong foreign direct investment orientation; building trade and investment ties through partnership agreements; growing banking sector; recent economic linkages with Israel slowing due to Gaza conflict<br>
 
 **Real GDP (purchasing power parity)**<br>
-$707.307 billion (2022 est.)<br>
-$655.823 billion (2021 est.)<br>
-$628.455 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$719.733 billion (2023 est.)<br>
+$696.041 billion (2022 est.)<br>
+$645.376 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.4% (2023 est.)<br>
 7.85% (2022 est.)<br>
 4.35% (2021 est.)<br>
--4.96% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$74,900 (2022 est.)<br>
-$70,000 (2021 est.)<br>
-$67,700 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$75,600 (2023 est.)<br>
+$73,700 (2022 est.)<br>
+$68,900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$507.064 billion (2022 est.)<br>
+$504.173 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -434,13 +434,13 @@ petroleum and petrochemicals; fishing, aluminum, cement, fertilizer, commercial 
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-6.589 million (2022 est.)<br>
+6.668 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.97% (2022 est.)<br>
+2.71% (2023 est.)<br>
+2.87% (2022 est.)<br>
 3.11% (2021 est.)<br>
-4.29% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -460,7 +460,7 @@ _on food_: 13.6% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 0.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4%<br>
+_lowest 10%_: 4% (2018 est.)<br>
 _highest 10%_: 20% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
@@ -479,7 +479,7 @@ _expenditures_: $127.262 billion (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-0.54% (of GDP) (2021 est.)<br>
+0.57% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -504,7 +504,7 @@ crude petroleum, refined petroleum, gold, broadcasting equipment, natural gas (2
 $246.886 billion (2020 est.)<br>
 $295.6 billion (2019 est.)<br>
 $281.536 billion (2018 est.)<br>
-<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
+<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 18%, India 10%, US 6%, UK 4%, Saudi Arabia 3% (2022)<br>
@@ -515,9 +515,9 @@ gold, broadcasting equipment, refined petroleum, diamonds, cars (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$189.491 billion (2023 est.)<br>
 $138.433 billion (2022 est.)<br>
 $131.117 billion (2021 est.)<br>
-$106.702 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -526,11 +526,11 @@ $218.7 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Emirati dirhams (AED) per US dollar -<br>
+3.673 (2023 est.)<br>
 3.673 (2022 est.)<br>
 3.673 (2021 est.)<br>
 3.673 (2020 est.)<br>
 3.673 (2019 est.)<br>
-3.673 (2018 est.)<br>
 
 ## Energy
 
@@ -653,11 +653,11 @@ United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presiden
 <strong>note:</strong> each emirate maintains a local police force called a general directorate, which is officially a branch of the federal Ministry of Interior; all emirate-level general directorates of police enforce their respective emirate’s laws autonomously; they also enforce federal laws within their emirate in coordination with one another under the federal ministry; the State Security Directorate (SSD) in Abu Dhabi and Dubai State Security (DSS) have primary responsible for counterterrorism law enforcement efforts; local, emirate-level police forces, especially the Abu Dhabi Police and Dubai Police, are the first responders in such cases and provide technical assistance to SSD and DSS<br>
 
 **Military expenditures**<br>
+4% of GDP (2023 est.)<br>
 4% of GDP (2022 est.)<br>
 5% of GDP (2021 est.)<br>
 5.6% of GDP (2020 est.)<br>
 5.4% of GDP (2019 est.)<br>
-5.5% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 65,000 active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2023)<br>
@@ -683,7 +683,7 @@ UAE Space Agency (created in 2014); Mohammed bin Rashid Space Centre (MBRSC; est
 
 **Space program overview**<br>
 has an ambitious and growing space program and is recognized as one of the leading programs in the region; focused on satellite development, including communications, remote sensing, and navigational; also placing emphasis on building expertise, infrastructure, ground stations, technology, and research and development capabilities to support its space program domestically; rather than building its own launch capabilities, has elected to utilize foreign partners to launch payloads from spaceports abroad; has looked to invest heavily in foreign commercial space companies and  encourage global partnerships; has a foreign-assisted astronaut training program; seeking to establish UAE as an international hub for space education; has signed more than 25 cooperation agreements or memorandums of understanding with major global and regional players in the space sector, including the Arab Space Cooperation Group, China, the European Space Agency (ESA), France, Germany, India, Japan, Russia, South Korea, the UK, and the US; sees the development of its commercial space industry as a key pillar for diversifying and developing the country’s non-oil economy; dozens of space companies and entities operate in the UAE, including international and start-ups, plus several space science research centers (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

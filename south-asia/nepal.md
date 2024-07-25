@@ -19,7 +19,7 @@ Southern Asia, between China and India<br>
 Asia<br>
 
 **Area**<br>
-_total_: 147,181 sq km<br>
+_total _: 147,181 sq km<br>
 _land_: 143,351 sq km<br>
 _water_: 3,830 sq km<br>
 
@@ -74,7 +74,7 @@ most of the population is divided nearly equally between a concentration in the 
 severe thunderstorms; flooding; landslides; drought and famine depending on the timing, intensity, and duration of the summer monsoons<br>
 
 **Geography - note**<br>
-landlocked; strategic location between China and India; contains eight of world's 10 highest peaks, including Mount Everest and Kanchenjunga - the world's tallest and third tallest mountains - on the borders with China and India respectively<br>
+landlocked; strategic location between China and India; contains eight of world's 10 highest peaks, including Mount Everest and Kanchenjunga -- the world's tallest and third tallest mountains -- on the borders with China and India respectively<br>
 
 ## People and Society
 
@@ -398,31 +398,31 @@ _selected World Heritage Site locales_: Kathmandu Valley (c); Sagarmatha Nationa
 low-income South Asian economy; post-conflict fiscal federalism increasing stability; COVID-19 hurt trade and tourism; widening current account deficits; environmentally fragile economy from earthquakes; growing Chinese relations and investments<br>
 
 **Real GDP (purchasing power parity)**<br>
-$122.242 billion (2022 est.)<br>
-$115.745 billion (2021 est.)<br>
-$110.404 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$144.31 billion (2023 est.)<br>
+$141.546 billion (2022 est.)<br>
+$134 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.61% (2022 est.)<br>
+1.95% (2023 est.)<br>
+5.63% (2022 est.)<br>
 4.84% (2021 est.)<br>
--2.37% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$4,000 (2022 est.)<br>
-$3,900 (2021 est.)<br>
-$3,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$4,700 (2023 est.)<br>
+$4,600 (2022 est.)<br>
+$4,500 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$40.828 billion (2022 est.)<br>
+$40.908 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.11% (2023 est.)<br>
 7.65% (2022 est.)<br>
 4.15% (2021 est.)<br>
-5.05% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -446,17 +446,17 @@ rice, vegetables, potatoes, sugarcane, maize, wheat, bison milk, milk, mangoes/g
 tourism, carpets, textiles; small rice, jute, sugar, and oilseed mills; cigarettes, cement and brick production<br>
 
 **Industrial production growth rate**<br>
-10.8% (2022 est.)<br>
+1.38% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.741 million (2022 est.)<br>
+8.937 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+10.69% (2023 est.)<br>
 10.92% (2022 est.)<br>
-12.58% (2021 est.)<br>
-13.12% (2020 est.)<br>
+12.32% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -475,9 +475,9 @@ _lowest 10%_: 3.2%<br>
 _highest 10%_: 29.5% (2011)<br>
 
 **Remittances**<br>
-22.76% of GDP (2022 est.)<br>
+26.89% of GDP (2023 est.)<br>
+22.56% of GDP (2022 est.)<br>
 22.28% of GDP (2021 est.)<br>
-24.25% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -498,15 +498,15 @@ _expenditures_: $9.008 billion (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$939.38 million (2023 est.)<br>
 -$2.518 billion (2022 est.)<br>
 -$5.363 billion (2021 est.)<br>
--$84.137 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$2.999 billion (2023 est.)<br>
 $2.733 billion (2022 est.)<br>
 $2.52 billion (2021 est.)<br>
-$1.771 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -518,9 +518,9 @@ palm oil, soybean oil, garments, synthetic fibers, knotted carpets (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$14.098 billion (2023 est.)<br>
 $15.462 billion (2022 est.)<br>
 $16.993 billion (2021 est.)<br>
-$10.694 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -532,9 +532,9 @@ refined petroleum, natural gas, gold, rice, soybean oil (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$12.456 billion (2023 est.)<br>
 $9.319 billion (2022 est.)<br>
 $9.639 billion (2021 est.)<br>
-$11.468 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -543,11 +543,11 @@ $4.321 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Nepalese rupees (NPR) per US dollar -<br>
+132.115 (2023 est.)<br>
 125.199 (2022 est.)<br>
 118.134 (2021 est.)<br>
 118.345 (2020 est.)<br>
 112.609 (2019 est.)<br>
-108.93 (2018 est.)<br>
 
 ## Energy
 
@@ -671,7 +671,7 @@ the Nepali Army is a lightly equipped force responsible for territorial defense,
 
 **Terrorist group(s)**<br>
 Indian Mujahedeen<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

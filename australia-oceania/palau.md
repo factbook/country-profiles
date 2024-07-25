@@ -19,7 +19,7 @@ Oceania, group of islands in the North Pacific Ocean, southeast of the Philippin
 Oceania<br>
 
 **Area**<br>
-_total_: 459 sq km<br>
+_total _: 459 sq km<br>
 _land_: 459 sq km<br>
 _water_: 0 sq km<br>
 
@@ -69,7 +69,7 @@ most of the population is located on the southern end of the main island of Babe
 typhoons (June to December)<br>
 
 **Geography - note**<br>
-westernmost archipelago in the Caroline chain, consists of six island groups totaling more than 300 islands; includes World War II battleground of Beliliou (Peleliu) and world-famous Rock Islands<br>
+westernmost archipelago in the Caroline chain, consists of six island groups totaling more than 300 islands; includes world-famous Rock Islands<br>
 
 ## People and Society
 
@@ -353,31 +353,31 @@ _selected World Heritage Site locales_: Rock Islands Southern Lagoon<br>
 high-income Pacific island economy; environmentally fragile; subsistence agriculture and fishing industries; US aid reliance; rebounding post-pandemic tourism industry and services sector; very high living standard and low unemployment<br>
 
 **Real GDP (purchasing power parity)**<br>
-$254.367 million (2021 est.)<br>
-$294.823 million (2020 est.)<br>
-$318.898 million (2019 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$284.695 million (2023 est.)<br>
+$283.424 million (2022 est.)<br>
+$284.454 million (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--13.72% (2021 est.)<br>
--7.55% (2020 est.)<br>
-0.2% (2019 est.)<br>
+0.45% (2023 est.)<br>
+-0.36% (2022 est.)<br>
+-14.16% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$14,100 (2021 est.)<br>
-$16,400 (2020 est.)<br>
-$17,800 (2019 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$15,800 (2023 est.)<br>
+$15,700 (2022 est.)<br>
+$15,800 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$232.903 million (2021 est.)<br>
+$263.021 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+12.8% (2023 est.)<br>
 12.35% (2022 est.)<br>
 2.61% (2021 est.)<br>
-0.22% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -400,7 +400,7 @@ coconuts, cassava (manioc, tapioca), sweet potatoes; fish, pigs, chickens, eggs,
 tourism, fishing, subsistence agriculture<br>
 
 **Industrial production growth rate**<br>
-1.42% (2021 est.)<br>
+-19.56% (2022 est.)<br>
 <strong>note:</strong> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -417,9 +417,9 @@ _total_: 5.6% (2014)<br>
 24.9% (2006)<br>
 
 **Remittances**<br>
-1.09% of GDP (2021 est.)<br>
-1% of GDP (2020 est.)<br>
-0.91% of GDP (2019 est.)<br>
+0.38% of GDP (2023 est.)<br>
+0.81% of GDP (2022 est.)<br>
+0.82% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -430,13 +430,13 @@ _expenditures_: $121 million (2019 est.)<br>
 8.8% (of GDP) (2016 est.)<br>
 
 **Public debt**<br>
-85.19% of GDP (2019 est.)<br>
-83.68% of GDP (2018 est.)<br>
-79.83% of GDP (2017 est.)<br>
+85.24% of GDP (2019 est.)<br>
+83.79% of GDP (2018 est.)<br>
+77.99% of GDP (2017 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-18.16% (of GDP) (2020 est.)<br>
+17.93% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>

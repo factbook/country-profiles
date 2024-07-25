@@ -19,7 +19,7 @@ Northern South America, bordering the North Atlantic Ocean, between Suriname and
 South America<br>
 
 **Area**<br>
-_total_: 214,969 sq km<br>
+_total _: 214,969 sq km<br>
 _land_: 196,849 sq km<br>
 _water_: 18,120 sq km<br>
 
@@ -387,31 +387,31 @@ _lyrics/music_: Archibald Leonard LUKERL/Robert Cyril Gladstone POTTER<br>
 small, hydrocarbon-driven South American export economy; major forest coverage being leveraged in carbon credit offsets to encourage preservation; strengthening financial sector; large bauxite and gold resources<br>
 
 **Real GDP (purchasing power parity)**<br>
-$28.819 billion (2022 est.)<br>
-$17.64 billion (2021 est.)<br>
-$14.693 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$40.539 billion (2023 est.)<br>
+$30.476 billion (2022 est.)<br>
+$18.647 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-63.37% (2022 est.)<br>
-20.06% (2021 est.)<br>
-43.48% (2020 est.)<br>
+33.02% (2023 est.)<br>
+63.44% (2022 est.)<br>
+20.01% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$35,600 (2022 est.)<br>
-$21,900 (2021 est.)<br>
-$18,400 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$49,800 (2023 est.)<br>
+$37,700 (2022 est.)<br>
+$23,200 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$14.718 billion (2022 est.)<br>
+$16.786 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.82% (2023 est.)<br>
 6.12% (2022 est.)<br>
 5.03% (2021 est.)<br>
-0.99% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -439,13 +439,13 @@ bauxite, sugar, rice milling, timber, textiles, gold mining<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-288,000 (2022 est.)<br>
+295,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-12.3% (2022 est.)<br>
-14.98% (2021 est.)<br>
-15.69% (2020 est.)<br>
+12.43% (2023 est.)<br>
+12.42% (2022 est.)<br>
+14.93% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -464,9 +464,9 @@ _lowest 10%_: 1.3%<br>
 _highest 10%_: 33.8% (1999)<br>
 
 **Remittances**<br>
-3.67% of GDP (2022 est.)<br>
+3.27% of GDP (2023 est.)<br>
+3.57% of GDP (2022 est.)<br>
 6.81% of GDP (2021 est.)<br>
-7.84% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -518,9 +518,9 @@ refined petroleum, valves, iron pipes, construction vehicles, cars (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$895.275 million (2023 est.)<br>
 $917.877 million (2022 est.)<br>
 $790.785 million (2021 est.)<br>
-$680.634 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -529,11 +529,11 @@ $1.542 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Guyanese dollars (GYD) per US dollar -<br>
+208.5 (2023 est.)<br>
 208.5 (2022 est.)<br>
 208.5 (2021 est.)<br>
 208.5 (2020 est.)<br>
 208.5 (2019 est.)<br>
-207.717 (2018 est.)<br>
 
 ## Energy
 
@@ -636,11 +636,11 @@ the Guyana Defense Force (GDF) is a unified force with ground, air, and coast gu
 <strong>note:</strong> the Guyana Police Force under the Ministry of Home Affairs is responsible for internal security<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2023 est.)<br>
 0.6% of GDP (2022 est.)<br>
 1% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
 1.3% of GDP (2019 est.)<br>
-1.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 3,500 active-duty military personnel (2024)<br>

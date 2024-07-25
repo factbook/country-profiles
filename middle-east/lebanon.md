@@ -19,7 +19,7 @@ Middle East, bordering the Mediterranean Sea, between Israel and Syria<br>
 Middle East<br>
 
 **Area**<br>
-_total_: 10,400 sq km<br>
+_total _: 10,400 sq km<br>
 _land_: 10,230 sq km<br>
 _water_: 170 sq km<br>
 
@@ -384,31 +384,31 @@ _selected World Heritage Site locales_: Anjar; Baalbek; Byblos; Tyre; Ouadi Qadi
 upper middle-income Middle Eastern economy; economic activity hurt by economic depression, COVID-19, and port explosion; hyperinflation and sharp poverty increases; banks have ceased lending; new financing facility helping with recovery<br>
 
 **Real GDP (purchasing power parity)**<br>
-$72.631 billion (2021 est.)<br>
-$78.099 billion (2020 est.)<br>
-$99.362 billion (2019 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$65.818 billion (2023 est.)<br>
+$65.917 billion (2022 est.)<br>
+$66.329 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+-0.15% (2023 est.)<br>
+-0.62% (2022 est.)<br>
 -7% (2021 est.)<br>
--21.4% (2020 est.)<br>
--6.91% (2019 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$13,000 (2021 est.)<br>
-$13,800 (2020 est.)<br>
-$17,200 (2019 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$12,300 (2023 est.)<br>
+$12,000 (2022 est.)<br>
+$11,900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$23.132 billion (2021 est.)<br>
+$17.937 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+221.34% (2023 est.)<br>
 171.21% (2022 est.)<br>
 154.76% (2021 est.)<br>
-84.86% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -438,17 +438,17 @@ potatoes, milk, tomatoes, apples, oranges, olives, cucumbers/gherkins, chicken, 
 banking, tourism, real estate and construction, food processing, wine, jewelry, cement, textiles, mineral and chemical products, wood and furniture products, oil refining, metal fabricating<br>
 
 **Industrial production growth rate**<br>
--6.85% (2021 est.)<br>
+0.74% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.813 million (2022 est.)<br>
+1.771 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.75% (2022 est.)<br>
-12.78% (2021 est.)<br>
-13.27% (2020 est.)<br>
+11.57% (2023 est.)<br>
+11.6% (2022 est.)<br>
+12.62% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -467,9 +467,9 @@ _on food_: 21% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 1.1% of household expenditures (2021 est.)<br>
 
 **Remittances**<br>
+35.51% of GDP (2023 est.)<br>
+30.66% of GDP (2022 est.)<br>
 27.47% of GDP (2021 est.)<br>
-20.79% of GDP (2020 est.)<br>
-14.28% of GDP (2019 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -489,15 +489,15 @@ _expenditures_: $16.574 billion (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$6.481 billion (2022 est.)<br>
--$3.405 billion (2021 est.)<br>
--$2.779 billion (2020 est.)<br>
+-$5.643 billion (2023 est.)<br>
+-$7.265 billion (2022 est.)<br>
+-$4.556 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$12.606 billion (2022 est.)<br>
-$10.147 billion (2021 est.)<br>
-$8.773 billion (2020 est.)<br>
+$11.77 billion (2023 est.)<br>
+$12.445 billion (2022 est.)<br>
+$9.684 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -509,9 +509,9 @@ diamonds, plastics, jewelry, gold, scrap iron (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$24.163 billion (2022 est.)<br>
-$17.383 billion (2021 est.)<br>
-$15.206 billion (2020 est.)<br>
+$23.313 billion (2023 est.)<br>
+$24.536 billion (2022 est.)<br>
+$17.667 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -675,7 +675,7 @@ the LAF’s primary responsibilities are defense against external attack, border
 
 **Terrorist group(s)**<br>
 Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; HAMAS; Hizballah; Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); al-Nusrah Front (Hay'at Tahrir al-Sham); Palestine Liberation Front; Popular Front for the Liberation of Palestine (PFLP); PFLP-General Command<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

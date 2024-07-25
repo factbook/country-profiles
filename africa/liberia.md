@@ -19,7 +19,7 @@ Western Africa, bordering the North Atlantic Ocean, between Cote d'Ivoire and Si
 Africa<br>
 
 **Area**<br>
-_total_: 111,369 sq km<br>
+_total _: 111,369 sq km<br>
 _land_: 96,320 sq km<br>
 _water_: 15,049 sq km<br>
 
@@ -382,25 +382,25 @@ _lyrics/music_: Daniel Bashiel WARNER/Olmstead LUCA<br>
 low-income West African economy; food scarcity, especially in rural areas; high poverty and inflation; bad recession prior to COVID-19 due to Ebola crisis; growing government debt; longest continuously operated rubber plantation; large informal economy<br>
 
 **Real GDP (purchasing power parity)**<br>
-$7.747 billion (2022 est.)<br>
-$7.391 billion (2021 est.)<br>
-$7.04 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$8.884 billion (2023 est.)<br>
+$8.484 billion (2022 est.)<br>
+$8.095 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+4.71% (2023 est.)<br>
 4.81% (2022 est.)<br>
 4.99% (2021 est.)<br>
--2.98% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,500 (2022 est.)<br>
-$1,400 (2021 est.)<br>
-$1,400 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1,600 (2023 est.)<br>
+$1,600 (2022 est.)<br>
+$1,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.001 billion (2022 est.)<br>
+$4.332 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -430,17 +430,17 @@ cassava, rice, sugarcane, oil palm fruit, bananas, rubber, vegetables, plantains
 mining (iron ore and gold), rubber processing, palm oil processing, diamonds<br>
 
 **Industrial production growth rate**<br>
-4.02% (2022 est.)<br>
+13.86% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.418 million (2022 est.)<br>
+2.499 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.03% (2022 est.)<br>
-3.96% (2021 est.)<br>
-4.12% (2020 est.)<br>
+2.94% (2023 est.)<br>
+2.99% (2022 est.)<br>
+3.79% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -457,14 +457,14 @@ _female_: 3.2%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9%<br>
+_lowest 10%_: 2.9% (2016 est.)<br>
 _highest 10%_: 27.1% (2016 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-8.65% of GDP (2022 est.)<br>
-9.87% of GDP (2021 est.)<br>
-11.39% of GDP (2020 est.)<br>
+18.47% of GDP (2023 est.)<br>
+17.24% of GDP (2022 est.)<br>
+15.11% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>

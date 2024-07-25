@@ -19,7 +19,7 @@ Eastern Europe, east of Poland<br>
 Europe<br>
 
 **Area**<br>
-_total_: 207,600 sq km<br>
+_total _: 207,600 sq km<br>
 _land_: 202,900 sq km<br>
 _water_: 4,700 sq km<br>
 
@@ -342,7 +342,7 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2020:</em> Alyaksandr LUKASHENKA reelected president; percent of vote - Alyaksandr LUKASHENKA (independent) 80.1%, Svyatlana TSIKHANOWSKAYA (independent) 10.1%, other 9.8%; note - widespread street protests erupted following announcement of the election results amid allegations of voter fraud<br><em><br>2015:</em> Alyaksandr LUKASHENKA elected president; percent of vote - Alyaksandr LUKASHENKA (independent) 84.1%, Tatsyana KARATKEVIC (BSDPH) 4.4%, Sergey GAYDUKEVICH (LDP) 3.3%, other 8.2%.<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly or Natsyyalny Skhod consists of:<br>Council of the Republic or Savet Respubliki (64 seats statutory, currently 58; 56 members indirectly elected by regional and Minsk city councils and 8 members appointed by the president; members serve 4-year terms)<br>House of Representatives or Palata Pradstawnikow (110 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms)<br>
+_description_: bicameral National Assembly or Natsyyalny Skhod consists of:<br>Council of the Republic or Savet Respubliki (65 seats statutory, currently 58; 56 members indirectly elected by regional and Minsk city councils and 8 members appointed by the president; members serve 4-year terms)<br>House of Representatives or Palata Pradstawnikow (110 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms)<br>
 _elections_: Council of the Republic - indirect election last held on 7 November 2019<br>House of Representatives - last held on 25 February 2024 (next to be held in 2028)<br>
 _election results_: Council of the Republic - percent of vote by party - NA; seats by party - independent 58, other 2; composition - men 42, women 16, percentage women 27.6%<br><br>House of Representatives - percent of vote by party - NA; seats by party - Belaya Rus 51, RPTS 8, CPB 7, LDPB 4, independent 40; composition - men 73, women 37, percentage women 33.6%; note - total National Assembly percentage women 31.5%<br>
 <strong>note:</strong> the US does not recognize the legitimacy of the National Assembly<br>
@@ -394,31 +394,31 @@ _selected World Heritage Site locales_: Białowieża Forest (n); Mir Castle Comp
 declining Russian energy subsidies will end in 2024; growing public debt; strong currency pressures have led to higher inflation; recent price controls on basic food and drugs; public sector wage increases and fragile private sector threaten household income gains and economic growth<br>
 
 **Real GDP (purchasing power parity)**<br>
-$176.183 billion (2022 est.)<br>
-$184.867 billion (2021 est.)<br>
-$180.466 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$254.407 billion (2023 est.)<br>
+$244.89 billion (2022 est.)<br>
+$256.855 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--4.7% (2022 est.)<br>
+3.89% (2023 est.)<br>
+-4.66% (2022 est.)<br>
 2.44% (2021 est.)<br>
--0.67% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$19,100 (2022 est.)<br>
-$19,900 (2021 est.)<br>
-$19,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$27,700 (2023 est.)<br>
+$26,500 (2022 est.)<br>
+$27,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$72.793 billion (2022 est.)<br>
+$71.857 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5% (2023 est.)<br>
 15.21% (2022 est.)<br>
 9.46% (2021 est.)<br>
-5.55% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -448,17 +448,17 @@ milk, sugar beets, potatoes, wheat, triticale, barley, maize, rapeseed, rye, app
 metal-cutting machine tools, tractors, trucks, earthmovers, motorcycles, synthetic fibers, fertilizer, textiles, refrigerators, washing machines and other household appliances<br>
 
 **Industrial production growth rate**<br>
--6.11% (2022 est.)<br>
+8.12% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.994 million (2022 est.)<br>
+4.956 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+3.57% (2023 est.)<br>
 3.57% (2022 est.)<br>
 3.9% (2021 est.)<br>
-4.05% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -479,14 +479,14 @@ _on food_: 32.1% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 7.7% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4.4%<br>
+_lowest 10%_: 4.4% (2020 est.)<br>
 _highest 10%_: 20.7% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.01% of GDP (2022 est.)<br>
+1.85% of GDP (2023 est.)<br>
+1.99% of GDP (2022 est.)<br>
 1.65% of GDP (2021 est.)<br>
-1.65% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -503,19 +503,19 @@ _expenditures_: $24.239 billion (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-12.83% (of GDP) (2021 est.)<br>
+11.23% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$2.517 billion (2022 est.)<br>
+-$1.02 billion (2023 est.)<br>
+$2.539 billion (2022 est.)<br>
 $2.157 billion (2021 est.)<br>
--$178.4 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$46.846 billion (2022 est.)<br>
+$47.87 billion (2023 est.)<br>
+$46.878 billion (2022 est.)<br>
 $49.435 billion (2021 est.)<br>
-$37.183 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -527,9 +527,9 @@ fertilizers, refined petroleum, rapeseed oil, wood, beef (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$42.28 billion (2022 est.)<br>
+$47.398 billion (2023 est.)<br>
+$42.289 billion (2022 est.)<br>
 $45.465 billion (2021 est.)<br>
-$35.236 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -541,9 +541,9 @@ cars, packaged medicine, fabric, plastic products, vehicle parts/accessories (20
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$8.118 billion (2023 est.)<br>
 $7.923 billion (2022 est.)<br>
 $8.425 billion (2021 est.)<br>
-$7.468 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -552,11 +552,11 @@ $39.297 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Belarusian rubles (BYB/BYR) per US dollar -<br>
+3.007 (2023 est.)<br>
 2.626 (2022 est.)<br>
 2.539 (2021 est.)<br>
 2.44 (2020 est.)<br>
 2.092 (2019 est.)<br>
-2.038 (2018 est.)<br>
 
 ## Energy
 
@@ -679,11 +679,11 @@ Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force,
 <strong>note:</strong> in early 2023, President LUKASHENKA ordered the formation of a new volunteer paramilitary territorial defense force to supplement the Army<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2023 est.)<br>
 1.1% of GDP (2022 est.)<br>
 1.2% of GDP (2021 est.)<br>
 1.5% of GDP (2020 est.)<br>
-1.5% of GDP (2019 est.) (approximately $2.11 billion)<br>
-1.5% of GDP (2018 est.) (approximately $2.05 billion)<br>
+1.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 45-50,000 active-duty troops; information on the individual services varies, but reportedly includes about 25-30,000 Army, 15,000 Air/Air Defense, and 5,000 Special Operations forces (2023)<br>
@@ -705,7 +705,7 @@ Belarus Space Agency (aka National Agency for Space Research; established 2009);
 
 **Space program overview**<br>
 has a modest national space program focused on developing remote sensing (RS) satellites; jointly builds satellites with foreign partners; develops some space technologies and components for space equipment, including satellite payloads and associated technology, such as optics and imaging equipment; has cooperated with a variety of foreign space agencies and commercial entities, including those of Azerbaijan, China, Kazakhstan, Russia, and Ukraine; has a state-owned satellite company (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

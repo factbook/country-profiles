@@ -16,7 +16,7 @@ Globally, the 20th century was marked by: (a) two devastating World Wars; (b) th
 Physical Map of the World<br>
 
 **Area**<br>
-_total_: 510.072 million sq km<br>
+_total _: 510.072 million sq km<br>
 _land_: 148.94 million sq km<br>
 _water_: 361,899,999 sq km<br>
 <strong>note:</strong> 70.9% of the world's surface is water, 29.1% is land<br>
@@ -54,9 +54,6 @@ _lowest point_: Denman Glacier (Antarctica) more than -3,500 m (in the oceanic r
 _mean elevation_: 840 m<br>
 <strong>top ten highest mountains (measured from sea level):</strong> Mount Everest (China-Nepal) 8,849 m; K2 (Pakistan) 8,611 m; Kanchenjunga (India-Nepal) 8,598 m; Lhotse (Nepal) 8,516 m; Makalu (China-Nepal) 8,463 m; Cho Oyu (China-Nepal) 8,201 m; Dhaulagiri (Nepal) 8,167 m; Manaslu (Nepal) 8,163 m; Nanga Parbat (Pakistan) 8,125 m; Anapurna (Nepal) 8,091 m; <strong>note -</strong> Mauna Kea (United States) is the world's tallest mountain as measured from base to summit; the peak of this volcanic colossus lies on the island of Hawaii, but its base begins more than 70 km offshore and at a depth of about 6,000 m; total height estimates range from 9,966 m to 10,203 m <br><br><strong>top ten highest island peaks:</strong> Puncak Jaya (New Guinea) 4,884 m (Indonesia)*; Mauna Kea (Hawaii) 4,207 m (United States); Gunung Kinabalu (Borneo) 4,095 m (Malaysia)*; Yu Shan (Taiwan) 3,952 (Taiwan)*; Mount Kerinci (Sumatra) 3,805 m (Indonesia); Mount Erebus (Ross Island) 3,794 (Antarctica); Mount Fuji (Honshu) 3,776 m (Japan)*; Mount Rinjani (Lombok) 3,726 m (Indonesia); Aoraki-Mount Cook (South Island) 3,724 m (New Zealand)*; Pico de Teide (Tenerife) 3,718 m (Spain)*; <strong>note -</strong> * indicates the highest peak for that Factbook entry <br><br><strong>highest point on each continent:</strong> Asia - Mount Everest (China-Nepal) 8,849 m; South America - Cerro Aconcagua (Argentina) 6,960 m; North America - Denali (Mount McKinley) (United States) 6,190 m; Africa - Kilimanjaro (Tanzania) 5,895 m; Europe - El'brus (Russia) 5,633 m; Antarctica - Vinson Massif 4,897 m; Australia - Mount Kosciuszko 2,229 m <br><br><strong>highest capital on each continent:</strong> South America - La Paz (Bolivia) 3,640 m; Africa - Addis Ababa (Ethiopia) 2,355 m; Asia - Thimphu (Bhutan) 2,334 m; North America - Mexico City (Mexico) 2,240 m; Europe - Andorra la Vella (Andorra) 1,023 m; Australia - Canberra (Australia) 605 m <br><br><strong>lowest point on each continent:</strong> Antarctica - Denman Glacier more than -3,500 m; Asia - Dead Sea (Israel-Jordan) -431 m; Africa - Lac Assal (Djibouti) -155 m; South America - Laguna del Carbon (Argentina) -105 m; North America - Death Valley (United States) -86 m; Europe - Caspian Sea (Azerbaijan-Kazakhstan-Russia) -28 m; Australia - Lake Eyre -15 <br><br><strong>lowest capital on each continent:</strong> Asia - Baku (Azerbaijan) -28 m; Europe - Amsterdam (Netherlands) -2 m; Africa - Banjul (Gambia); Bissau (Guinea-Bissau), Conakry (Guinea), Djibouti (Djibouti), Libreville (Gabon), Male (Maldives), Monrovia (Liberia), Tunis (Tunisia), Victoria (Seychelles) 0 m; North America - Basseterre (Saint Kitts and Nevis), Kingstown (Saint Vincent and the Grenadines), Panama City (Panama), Port of Spain (Trinidad and Tobago), Roseau (Dominica), Saint John's (Antigua and Barbuda), Santo Domingo (Dominican Republic) 0 m; South America - Georgetown (Guyana) 0 m; Australia - Canberra (Australia) 605 m<br>
 
-**Natural resources**<br>
-the rapid depletion of nonrenewable mineral resources, the depletion of forest areas and wetlands, the extinction of animal and plant species, and the deterioration in air and water quality pose serious long-term problems<br>
-
 **Irrigated land**<br>
 3,242,917 sq km (2012 est.)<br>
 
@@ -85,7 +82,7 @@ _The New Seven Wonders of the World_: <p>A private initiative to come up with a 
 _The World Factbook's Seven Natural Ultra-Wonders of the World_: <p>While all of the above Wonders are indeed outstanding, their presence in any type of list is entirely <em>subjective</em>. There are many other fabulous sites around the world that are equally worthy of being designated as Wonders. (An example is the inclusion of Chichen Itza from Mexico. While it is spectacular, it became a 'Wonder' for its popularity as a tourist site. Equally worthy in the same country is Teotihuacan, a far larger site outside of Mexico City that has two immense pyramids that dwarf the one at Chichen Itza.)</p> <p>Taking these considerations into account, <em>The World Factbook</em> has come up with a Seven Wonders list that is indisputable, i.e., a list derived in a completely <em>objective</em> manner. A decision was made to focus on natural wonders and not anything man-made. These Wonders are all the biggest in their respective categories (they cannot be topped) and so there can be no dispute with the choice, therefore the 'ultra' designation. This fact distinguishes the <em>Factbook</em> listing from other Seven Natural Wonders lists that have been compiled in the past.</p> <p>1. <strong>Amazonia</strong><br>A trans-national Wonder that is: a. the World's largest collection of land biodiversity, b. the World's largest rainforest, and c. includes the World's largest swamp in the Amazon River floodplain; mostly in Brazil, Peru, and Colombia, but also in Venezuela, Ecuador, Bolivia, Guyana, Suriname, and French Guiana.</p> <p>2. <strong>Central Indo-Pacific Region</strong><br>A Wonder hotspot that is the World's largest collection of marine biodiversity; best represented by the <strong><em>Coral Triangle</em></strong> in the tropical waters around the Philippines, Indonesia, Malaysia, Papua New Guinea, the Solomon Islands, and Timor-Leste; as well as by the <strong><em>Great Barrier Ree</em></strong><em>f</em> (the World's largest reef) in Australia.</p> <p>3. <strong>The Aurora</strong> (Aurora Borealis and Aurora Australis; aka the Polar Lights)<br>The World's largest light display that never ceases to awe; seen in countries of the northern latitudes, as well as those of the southern latitudes and Antarctica.</p> <p>4. <strong>Mount Everest and the Himalayas</strong><br>The World's tallest mountain and mountain range above sea level that stretches across Nepal, China (Tibet), India, Pakistan, and Bhutan (see alternate below).</p> <p>5. <strong>Victoria Falls</strong><br>The World's largest unbroken waterfall on the border between Zambia and Zimbabwe (see alternates below).</p> <p>6. <strong>Sahara</strong><br>The World's largest hot desert that spreads across Algeria, Chad, Egypt, Libya, Mali, Mauritania, Morocco, Niger, Sudan, and Tunisia (see alternate below).</p> <p>7. <strong>Animal Migrations</strong><br>The Earth is full of astounding migrations – occurring daily, seasonally, or annually – that are truly awe-inspiring natural wonders. A few extraordinary examples are: a. the diel vertical migrations (DVM, the World's largest animal migration in terms of biomass and number of animals participating), which occur twice daily in all the oceans when zooplankton (microscopic animals) and fish rise to near the surface at night to feed on phytoplankton (microscopic plants) and then with the return of day dive back into the depths to hide in dark waters; b. the Arctic tern's annual round trip of 71,000 km (from the Northern Hemisphere to the Southern Hemisphere and back (the World's longest avian migration); or c. the 22,000 km annual migration of the humpback whale (World's longest mammal migration).</p> <p><strong>Alternates</strong></p> <p>Mountain alternate (no. 4). If measured strictly from base to peak, then the World's tallest and largest mountains would be on the <strong>Island of Hawaii</strong>, which includes both the World's tallest mountain [Mauna Kea] <em>and</em> the World's largest active volcano and most voluminous mountain [Mauna Loa]); United States (Hawaii).</p> <p>Waterfall alternate (no. 5). What constitutes the 'biggest' waterfall(s) can be approached in a number of ways. Depending on one's viewpoint, <strong>Iguazu Falls</strong> (World's largest waterfall system (275 drops)) in Argentina and Brazil, or <strong>Angel Falls</strong> (World's tallest waterfall) in Venezuela could substitute.</p> <p>Desert alternate (no. 6). If a desert is defined as a barren area where little precipitation occurs, then <strong>Antarctica </strong>with the World's largest polar desert would certainly qualify; it is about 1.5 times the size of the Sahara. The southern continent does not belong to any one country but is a condominium governed by parties to the Antarctic Treaty.<br><br>note: A question might arise, how about the World's largest canyon? The Grand Canyon (United States, Arizona) is sometimes mentioned as a Wonder of the World, but 'largest' canyons can be notoriously difficult to define and measure. Does one go by length, depth, or total area of canyon system? Then too, there are largely inaccessible canyons in the Himalayas that have never been properly surveyed and massive canyons are known to exist in some ice-covered parts of Greenland and Antarctica. Therefore, it is not possible to come up with a superlative canyon.</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> the World is now thought to be about 4.55 billion years old, just about one-third of the 13.8-billion-year age estimated for the universe; the earliest widely accepted date for life appearing on Earth is 3.48 billion years ago, but this date is conservative and may get pushed back further</p> <p><strong>note 2:</strong> although earthquakes can strike anywhere at any time, the vast majority occur in three large zones of the Earth; the world's greatest earthquake belt, the Circum-Pacific Belt (popularly referred to as the Ring of Fire), is the zone of active volcanoes and earthquake epicenters bordering the Pacific Ocean; about 90% of the World's earthquakes (81% of the largest earthquakes) and some 75% of the World's volcanoes occur within the Ring of Fire; the belt extends northward from Chile, along the South American coast, through Central America, Mexico, the western US, southern Alaska and the Aleutian Islands, to Japan, the Philippines, Papua New Guinea, island groups in the southwestern Pacific, and New Zealand<br><br>the second prominent belt, the Alpide, extends from Java to Sumatra, northward along the mountains of Burma, then eastward through the Himalayas, the Mediterranean, and out into the Atlantic Ocean; it accounts for about 17% of the world's largest earthquakes; the third important belt follows the long Mid-Atlantic Ridge<br><br><strong>note 3:</strong> information on the origin sites for many of the World's major food crops may be found in the "Geography - note" for the following countries: Argentina, Bolivia, Brazil, China, Ecuador, Ethiopia, Indonesia, Mexico, Papua New Guinea, Paraguay, Peru, and the United States</p><br>
+<p><strong>note 1:</strong> the World is now thought to be about 4.55 billion years old, just about one-third of the 13.8-billion-year age estimated for the universe; the earliest widely accepted date for life appearing on Earth is 3.48 billion years ago</p> <p><strong>note 2:</strong> although earthquakes can strike anywhere at any time, the vast majority occur in three large zones of the Earth; the world's greatest earthquake belt, the Circum-Pacific Belt (popularly referred to as the Ring of Fire), is the zone of active volcanoes and earthquake epicenters bordering the Pacific Ocean; about 90% of the World's earthquakes (81% of the largest earthquakes) and some 75% of the World's volcanoes occur within the Ring of Fire; the belt extends northward from Chile, along the South American coast, through Central America, Mexico, the western US, southern Alaska and the Aleutian Islands, to Japan, the Philippines, Papua New Guinea, island groups in the southwestern Pacific, and New Zealand<br><br>the second prominent belt, the Alpide, extends from Java to Sumatra, northward along the mountains of Burma, then eastward through the Himalayas, the Mediterranean, and out into the Atlantic Ocean; it accounts for about 17% of the world's largest earthquakes; the third important belt follows the long Mid-Atlantic Ridge<br><br><strong>note 3:</strong> information on the origin sites for many of the World's major food crops may be found in the "Geography - note" for the following countries: Argentina, Bolivia, Brazil, China, Ecuador, Ethiopia, Indonesia, Mexico, Papua New Guinea, Paraguay, Peru, and the United States</p><br>
 
 ## People and Society
 
@@ -287,31 +284,31 @@ _total World Heritage Sites_: 1199 (933 cultural, 227 natural, 39 mixed) (2023)<
 ## Economy
 
 **Real GDP (purchasing power parity)**<br>
-$139.322 trillion (2022 est.)<br>
-$134.789 trillion (2021 est.)<br>
-$126.785 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$165.804 trillion (2023 est.)<br>
+$160.74 trillion (2022 est.)<br>
+$155.603 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.72% (2023 est.)<br>
 3.09% (2022 est.)<br>
-6.2% (2021 est.)<br>
--3.07% (2020 est.)<br>
+6.26% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$17,500 (2022 est.)<br>
-$17,100 (2021 est.)<br>
-$16,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$20,700 (2023 est.)<br>
+$20,200 (2022 est.)<br>
+$19,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$101.326 trillion (2022 est.)<br>
+$105.435 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-7.97% (2022 est.)<br>
-3.47% (2021 est.)<br>
-1.94% (2020 est.)<br>
+5.8% (2023 est.)<br>
+7.99% (2022 est.)<br>
+3.45% (2021 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -334,17 +331,17 @@ _imports of goods and services_: -28.3% (2017 est.)<br>
 <p>dominated by the onrush of technology, especially in computers, robotics, telecommunications, and medicines and medical equipment; most of these advances take place in OECD nations; only a small portion of non-OECD countries have succeeded in rapidly adjusting to these technological forces; the accelerated development of new technologies is complicating already grim environmental problems</p><br>
 
 **Industrial production growth rate**<br>
-2.77% (2022 est.)<br>
+1.95% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.553 billion (2022 est.)<br>
+3.628 billion (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.27% (2022 est.)<br>
-6.06% (2021 est.)<br>
-6.6% (2020 est.)<br>
+4.96% (2023 est.)<br>
+5.26% (2022 est.)<br>
+6.03% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -360,9 +357,9 @@ _lowest 10%_: 2.6%<br>
 _highest 10%_: 30.2% (2008 est.)<br>
 
 **Remittances**<br>
-0.77% of GDP (2022 est.)<br>
+0.82% of GDP (2023 est.)<br>
+0.8% of GDP (2022 est.)<br>
 0.78% of GDP (2021 est.)<br>
-0.79% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -377,22 +374,22 @@ _expenditures_: $23.81 trillion (2017 est.)<br>
 67.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-14.39% (of GDP) (2021 est.)<br>
+14.68% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Exports**<br>
-$31.625 trillion (2022 est.)<br>
-$28.347 trillion (2021 est.)<br>
-$22.635 trillion (2020 est.)<br>
+$31.132 trillion (2023 est.)<br>
+$31.696 trillion (2022 est.)<br>
+$28.359 trillion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - commodities**<br>
 the whole range of industrial and agricultural goods and services<br><br><strong>top ten commodities by share of world trade: </strong>crude petroleum, refined petroleum, integrated circuits, natural gas, cars, broadcasting equipment, garments, gold, packaged medicine, vehicle parts/accessories (2022)<br>
 
 **Imports**<br>
-$30.812 trillion (2022 est.)<br>
+$30.184 trillion (2023 est.)<br>
+$30.874 trillion (2022 est.)<br>
 $27.27 trillion (2021 est.)<br>
-$21.994 trillion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - commodities**<br>

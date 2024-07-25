@@ -19,7 +19,7 @@ Oceania, group of islands in the South Pacific Ocean, about three-quarters of th
 Oceania<br>
 
 **Area**<br>
-_total_: 12,189 sq km<br>
+_total _: 12,189 sq km<br>
 _land_: 12,189 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes more than 80 islands, about 65 of which are inhabited<br>
@@ -360,29 +360,29 @@ _selected World Heritage Site locales_: Chief Roi Mata&rsquo;s Domain<br>
 lower-middle income Pacific island economy; extremely reliant on subsistence agriculture and tourism; environmentally fragile; struggling post-pandemic and Tropical Cyclone Harold rebound; sizeable inflation; road infrastructure aid from Australia<br>
 
 **Real GDP (purchasing power parity)**<br>
-$910.266 million (2022 est.)<br>
-$893.741 million (2021 est.)<br>
-$887.981 million (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$999.536 million (2023 est.)<br>
+$977.896 million (2022 est.)<br>
+$959.511 million (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.85% (2022 est.)<br>
-0.65% (2021 est.)<br>
--4.99% (2020 est.)<br>
+2.21% (2023 est.)<br>
+1.92% (2022 est.)<br>
+-1.55% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,800 (2022 est.)<br>
-$2,800 (2021 est.)<br>
-$2,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$3,000 (2023 est.)<br>
+$3,000 (2022 est.)<br>
+$3,000 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.056 billion (2022 est.)<br>
+$1.126 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
-7.1% (2022 est.)<br>
+6.68% (2022 est.)<br>
 2.34% (2021 est.)<br>
 5.33% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
@@ -412,13 +412,13 @@ food and fish freezing, wood processing, meat canning<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-137,000 (2022 est.)<br>
+142,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-5.22% (2022 est.)<br>
-4.79% (2021 est.)<br>
-4.05% (2020 est.)<br>
+5.1% (2023 est.)<br>
+5.17% (2022 est.)<br>
+4.73% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -427,7 +427,7 @@ _male_: 5.2%<br>
 _female_: 5.6%<br>
 
 **Population below poverty line**<br>
-15.9% (2019 est.)<br>
+15.9% (2020 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -435,14 +435,14 @@ _female_: 5.6%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3%<br>
+_lowest 10%_: 3% (2019 est.)<br>
 _highest 10%_: 24.7% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-14.21% of GDP (2022 est.)<br>
-21.4% of GDP (2021 est.)<br>
-15.8% of GDP (2020 est.)<br>
+15.68% of GDP (2023 est.)<br>
+19.35% of GDP (2022 est.)<br>
+21.03% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -453,23 +453,24 @@ _expenditures_: $355 million (2019 est.)<br>
 -0.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+87.07% of GDP (2021 est.)<br>
 48.4% of GDP (2017 est.)<br>
 46.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-14.04% (of GDP) (2020 est.)<br>
+15.88% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$142.128 million (2022 est.)<br>
--$60.642 million (2021 est.)<br>
--$20.299 million (2020 est.)<br>
+-$127.432 million (2022 est.)<br>
+-$75.451 million (2021 est.)<br>
+-$57.858 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$140.561 million (2022 est.)<br>
-$89.105 million (2021 est.)<br>
-$141.829 million (2020 est.)<br>
+$152.087 million (2022 est.)<br>
+$82.08 million (2021 est.)<br>
+$132.943 million (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -481,9 +482,9 @@ fish, perfume plants, copra, shellfish, cocoa beans (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$577.334 million (2022 est.)<br>
-$520.15 million (2021 est.)<br>
-$449.277 million (2020 est.)<br>
+$579.347 million (2022 est.)<br>
+$520.391 million (2021 est.)<br>
+$438.373 million (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -495,9 +496,9 @@ refined petroleum, ships, plastic products, poultry, broadcasting equipment (202
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$643.768 million (2023 est.)<br>
 $638.537 million (2022 est.)<br>
 $664.751 million (2021 est.)<br>
-$613.637 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -506,11 +507,11 @@ $182.5 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: vatu (VUV) per US dollar -<br>
+119.113 (2023 est.)<br>
 115.354 (2022 est.)<br>
 109.453 (2021 est.)<br>
 115.38 (2020 est.)<br>
 114.733 (2019 est.)<br>
-110.165 (2018 est.)<br>
 
 ## Energy
 

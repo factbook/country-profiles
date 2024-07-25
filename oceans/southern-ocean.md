@@ -19,7 +19,7 @@ body of water between 60 degrees south latitude and Antarctica<br>
 Antarctic Region<br>
 
 **Area**<br>
-_total_: 21.96 million sq km<br>
+_total _: 21.96 million sq km<br>
 <strong>note:</strong> includes Amundsen Sea, Bellingshausen Sea, part of the Drake Passage, Ross Sea, a small part of the Scotia Sea, Weddell Sea, and other tributary water bodies<br>
 
 **Area - comparative**<br>
@@ -54,13 +54,13 @@ _mean depth_: -3,270 m<br>
 _ocean zones_: Composed of water and in a fluid state, the ocean is delimited differently than the solid continents. The ocean is divided into three zones based on depth and light level. Although some sea creatures depend on light to live, others can do without it. Sunlight entering the water may travel about 1,000 m into the oceans under the right conditions, but there is rarely any significant light beyond 200 m.<br><br>The upper 200 m (656 ft) of the ocean is called the euphotic, or "sunlight," zone. This zone contains the vast majority of commercial fisheries and is home to many protected marine mammals and sea turtles. Only a small amount of light penetrates beyond this depth. <br><br>The zone between 200 m (656 ft) and 1,000 m (3,280 ft) is usually referred to as the "twilight" zone, but is officially the dysphotic zone. In this zone, the intensity of light rapidly dissipates as depth increases. Such a minuscule amount of light penetrates beyond a depth of 200 m that photosynthesis is no longer possible.<br><br>The aphotic, or "midnight," zone exists in depths below 1,000 m (3,280 ft). Sunlight does not penetrate to these depths and the zone is bathed in darkness.<br>
 
 **Natural resources**<br>
-probable large oil and gas fields on the continental margin; manganese nodules, possible placer deposits, sand and gravel, fresh water as icebergs; squid, whales, and seals - none exploited; krill, fish<br>
+probable large oil and gas fields on the continental margin; manganese nodules, possible placer deposits, sand and gravel, fresh water as icebergs; krill, fish<br>
 
 **Natural hazards**<br>
 huge icebergs with drafts up to several hundred meters; smaller bergs and iceberg fragments; sea ice (generally 0.5 to 1 m thick) with sometimes dynamic short-term variations and with large annual and interannual variations; deep continental shelf floored by glacial deposits varying widely over short distances; high winds and large waves much of the year; ship icing, especially May-October; most of region is remote from sources of search and rescue<br>
 
 **Geography - note**<br>
-the major chokepoint is the Drake Passage between South America and Antarctica; the Polar Front (Antarctic Convergence) is the best natural definition of the northern extent of the Southern Ocean; it is a distinct region at the middle of the Antarctic Circumpolar Current that separates the cold polar surface waters to the south from the warmer waters to the north; the Front and the Current extend entirely around Antarctica, reaching south of 60 degrees south near New Zealand and near 48 degrees south in the far South Atlantic coinciding with the path of the maximum westerly winds<br>
+the major chokepoint is the Drake Passage between South America and Antarctica; the Polar Front (Antarctic Convergence) is the best natural definition of the northern extent of the Southern Ocean; it is a distinct region at the middle of the Antarctic Circumpolar Current that separates the cold polar surface waters to the south from the warmer waters to the north; the Front and the Current extend entirely around Antarctica, reaching south of 60 degrees south near New Zealand and near 48 degrees south in the far South Atlantic, coinciding with the path of the maximum westerly winds<br>
 
 ## Environment
 

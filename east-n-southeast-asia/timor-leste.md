@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The island of Timor was actively involved in Southeast Asian trading networks for centuries, and by the 14th century, it exported sandalwood, slaves, honey, and wax. The sandalwood trade attracted the Portuguese, who arrived in the early 16th century; by mid-century, they had colonized the island, which was previously ruled by local chieftains. In 1859, Portugal ceded the western portion of the island to the Dutch. Imperial Japan occupied Portuguese Timor from 1942 to 1945, but Portugal resumed colonial authority after the Japanese defeat in World War II. The eastern part of Timor declared itself independent from Portugal on 28 November 1975, but Indonesian forces invaded and occupied the area nine days later. It was incorporated into Indonesia in 1976 as the province of Timor Timur (East Timor or Timor Leste). Indonesia conducted an unsuccessful pacification campaign in the province over the next two decades, during which an estimated 100,000 to 250,000 people died. <br><br>In a UN-supervised referendum in 1999, an overwhelming majority of the people of Timor-Leste voted for independence from Indonesia. However, anti-independence Timorese militias -- organized and supported by the Indonesian military -- began a large-scale, scorched-earth campaign of retribution. The militias killed approximately 1,400 Timorese and displaced nearly 500,000. Most of the country's infrastructure was destroyed, including homes, irrigation systems, water supply systems, schools, and most of the electrical grid. Australian-led peacekeeping troops eventually deployed to the country and ended the violence. In 2002, Timor-Leste was internationally recognized as an independent state.</p> <p>In 2006, Australia and the UN had to step in again to stabilize the country, which allowed presidential and parliamentary elections to be conducted in 2007 in a largely peaceful atmosphere. In 2008, rebels staged an unsuccessful attack against the president and prime minister. Since that attack, Timor-Leste has made considerable progress in building stability and democratic institutions, holding a series of successful parliamentary and presidential elections since 2012. Nonetheless, weak and unstable political coalitions have led to periodic episodes of stalemate and crisis. The UN continues to provide assistance on economic development and strengthening governing institutions. Currently, Timor-Leste is one of the world's poorest nations, with an economy that relies heavily on energy resources in the Timor Sea.</p><br>
+<p>The island of Timor was actively involved in Southeast Asian trading networks for centuries, and by the 14th century, it exported sandalwood, slaves, honey, and wax. The sandalwood trade attracted the Portuguese, who arrived in the early 16th century; by mid-century, they had colonized the island, which was previously ruled by local chieftains. In 1859, Portugal ceded the western portion of the island to the Dutch. Imperial Japan occupied Portuguese Timor from 1942 to 1945, but Portugal resumed colonial authority after the Japanese defeat in World War II. The eastern part of Timor declared itself independent from Portugal on 28 November 1975, but Indonesian forces invaded and occupied the area nine days later. It was incorporated into Indonesia in 1976 as the province of Timor Timur (East Timor or Timor Leste). Indonesia conducted an unsuccessful pacification campaign in the province over the next two decades, during which an estimated 100,000 to 250,000 people died. <br><br>In a UN-supervised referendum in 1999, an overwhelming majority of the people of Timor-Leste voted for independence from Indonesia. However, anti-independence Timorese militias -- organized and supported by the Indonesian military -- began a large-scale, scorched-earth campaign of retribution, killing approximately 1,400 Timorese and displacing nearly 500,000. Most of the country's infrastructure was destroyed, including homes, irrigation systems, water supply systems, schools, and most of the electrical grid. Australian-led peacekeeping troops eventually deployed to the country and ended the violence. In 2002, Timor-Leste was internationally recognized as an independent state.</p> <p>In 2006, Australia and the UN had to step in again to stabilize the country, which allowed presidential and parliamentary elections to be conducted in 2007 in a largely peaceful atmosphere. In 2008, rebels staged an unsuccessful attack against the president and prime minister. Since that attack, Timor-Leste has made considerable progress in building stability and democratic institutions, holding a series of successful parliamentary and presidential elections since 2012. Nonetheless, weak and unstable political coalitions have led to periodic episodes of stalemate and crisis. The UN continues to provide assistance on economic development and strengthening governing institutions. Currently, Timor-Leste is one of the world's poorest nations, with an economy that relies heavily on energy resources in the Timor Sea.</p><br>
 
 ## Geography
 
@@ -19,7 +19,7 @@ Southeastern Asia, northwest of Australia in the Lesser Sunda Islands at the eas
 Southeast Asia<br>
 
 **Area**<br>
-_total_: 14,874 sq km<br>
+_total _: 14,874 sq km<br>
 _land_: 14,874 sq km<br>
 _water_: 0 sq km<br>
 
@@ -69,7 +69,7 @@ most of the population concentrated in the western third of the country, particu
 floods and landslides are common; earthquakes; tsunamis; tropical cyclones<br>
 
 **Geography - note**<br>
-Timor comes from the Malay word for "east"; the island of Timor is part of the Malay Archipelago and is the largest and easternmost of the Lesser Sunda Islands; the district of Oecussi is an exclave separated from Timor-Leste proper by Indonesia; Timor-Leste has the unique distinction of being the only Asian country located completely in the Southern Hemisphere<br>
+the island of Timor is part of the Malay Archipelago and is the largest and easternmost of the Lesser Sunda Islands; the district of Oecussi is an exclave separated from Timor-Leste proper by Indonesia; Timor-Leste has the unique distinction of being the only Asian country located completely in the Southern Hemisphere<br>
 
 ## People and Society
 
@@ -382,25 +382,25 @@ _lyrics/music_: Fransisco Borja DA COSTA/Afonso DE ARAUJO<br>
 lower middle-income Southeast Asian economy; government expenditures funded via oil fund drawdowns; endemic corruption undermines growth; foreign aid-dependent; wide-scale poverty, unemployment, and illiteracy<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.289 billion (2022 est.)<br>
-$6.656 billion (2021 est.)<br>
-$6.32 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$6.265 billion (2023 est.)<br>
+$7.316 billion (2022 est.)<br>
+$9.207 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+-14.36% (2023 est.)<br>
 -20.54% (2022 est.)<br>
 5.32% (2021 est.)<br>
-31.96% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,900 (2022 est.)<br>
-$5,000 (2021 est.)<br>
-$4,900 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$4,600 (2023 est.)<br>
+$5,500 (2022 est.)<br>
+$7,000 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.205 billion (2022 est.)<br>
+$2.243 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -434,13 +434,13 @@ printing, soap manufacturing, handicrafts, woven cloth<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-581,000 (2022 est.)<br>
+597,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.79% (2022 est.)<br>
+1.52% (2023 est.)<br>
+1.54% (2022 est.)<br>
 2.34% (2021 est.)<br>
-2.79% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -457,14 +457,14 @@ _female_: 16.8%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4%<br>
+_lowest 10%_: 4% (2014 est.)<br>
 _highest 10%_: 24% (2014 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+10.88% of GDP (2023 est.)<br>
 5.8% of GDP (2022 est.)<br>
 4.85% of GDP (2021 est.)<br>
-7.19% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -479,19 +479,19 @@ _expenditures_: $1.396 billion (2019 est.)<br>
 3.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-15.1% (of GDP) (2021 est.)<br>
+21.67% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$265.772 million (2022 est.)<br>
+-$227.62 million (2023 est.)<br>
+$256.151 million (2022 est.)<br>
 $1.328 billion (2021 est.)<br>
-$266.301 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$701.808 million (2023 est.)<br>
 $1.858 billion (2022 est.)<br>
 $2.772 billion (2021 est.)<br>
-$1.598 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -503,9 +503,9 @@ crude petroleum, coffee, natural gas, beer, construction vehicles (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.396 billion (2022 est.)<br>
+$1.179 billion (2023 est.)<br>
+$1.405 billion (2022 est.)<br>
 $1.298 billion (2021 est.)<br>
-$1.486 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -517,9 +517,9 @@ refined petroleum, rice, cars, coal, cranes (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$781.995 million (2023 est.)<br>
 $830.81 million (2022 est.)<br>
 $934.781 million (2021 est.)<br>
-$656.524 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -631,11 +631,11 @@ _key ports_: Dili<br>
 Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Joint Headquarters with Land, Air, Naval, Service Support, and Education/Training components<br><br>Ministry of Interior: National Police (Polícia Nacional de Timor-Leste, PNTL) (2024)<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2023 est.)<br>
 1.8% of GDP (2022 est.)<br>
 1.8% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
 1.7% of GDP (2019 est.)<br>
-1.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,500-2,000 personnel (2023)<br>

@@ -19,7 +19,7 @@ Oceania, islands in the South Pacific Ocean, east of Australia<br>
 Oceania<br>
 
 **Area**<br>
-_total_: 18,575 sq km<br>
+_total _: 18,575 sq km<br>
 _land_: 18,275 sq km<br>
 _water_: 300 sq km<br>
 
@@ -245,7 +245,7 @@ _etymology_: established in 1854 as Port-de-France, the settlement was renamed N
 none (overseas collectivity of France); note - in three independence referenda, on 4 November 2018, 4 October 2020, and 12 December 2021, the majority voted to reject independence in favor of maintaining the status quo; an 18-month transition period is now in place (ending 30 June 2023), during which a referendum on the new status of New Caledonia within France will take place<br>
 
 **National holiday**<br>
-Fete de la Federation, 14 July (1790); note - the local holiday is New Caledonia Day, 24 September (1853)<br>
+F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790); note - the local holiday is New Caledonia Day, 24 September (1853)<br>
 
 **Constitution**<br>
 _history_: 4 October 1958 (French Constitution with changes as reflected in the Noumea Accord of 5 May 1998)<br>
@@ -361,13 +361,13 @@ nickel mining and smelting<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-119,000 (2022 est.)<br>
+119,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-11.03% (2022 est.)<br>
-12.55% (2021 est.)<br>
-13.56% (2020 est.)<br>
+11.22% (2023 est.)<br>
+11.29% (2022 est.)<br>
+12.54% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -438,11 +438,11 @@ $79 million (31 December 1998 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
+110.347 (2023 est.)<br>
 113.474 (2022 est.)<br>
 100.88 (2021 est.)<br>
 104.711 (2020 est.)<br>
 106.589 (2019 est.)<br>
-101.047 (2018 est.)<br>
 
 ## Energy
 

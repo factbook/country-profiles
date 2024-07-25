@@ -19,7 +19,7 @@ Caribbean, an island in the Caribbean Sea, 55 km off the coast of Venezuela<br>
 <p>Central America and the Caribbean</p><br>
 
 **Area**<br>
-_total_: 444 sq km<br>
+_total _: 444 sq km<br>
 _land_: 444 sq km<br>
 _water_: 0 sq km<br>
 
@@ -311,25 +311,25 @@ _selected World Heritage Site locales_: Historic Willemstad<br>
 high-income island economy; developed infrastructure; tourism and financial services-based economy; investing in information technology incentives; oil refineries service Venezuela and China; unique COVID-19 stimulus support applied to government debts rather than household support<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.467 billion (2022 est.)<br>
-$3.214 billion (2021 est.)<br>
-$3.085 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$4.137 billion (2022 est.)<br>
+$3.834 billion (2021 est.)<br>
+$3.68 billion (2020 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-7.89% (2022 est.)<br>
-4.18% (2021 est.)<br>
+7.9% (2022 est.)<br>
+4.2% (2021 est.)<br>
 -18.04% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$23,100 (2022 est.)<br>
-$21,100 (2021 est.)<br>
-$19,900 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$27,600 (2022 est.)<br>
+$25,200 (2021 est.)<br>
+$23,700 (2020 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.075 billion (2022 est.)<br>
+$3.074 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -374,8 +374,8 @@ _male_: 38.1%<br>
 _female_: 47.1%<br>
 
 **Remittances**<br>
-4.06% of GDP (2022 est.)<br>
-5.17% of GDP (2021 est.)<br>
+5.16% of GDP (2022 est.)<br>
+5.18% of GDP (2021 est.)<br>
 5.22% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
@@ -425,11 +425,11 @@ refined petroleum, cars, garments, integrated circuits, packaged medicine (2022)
 
 **Exchange rates**<br>
 _Currency_: Netherlands Antillean guilders (ANG) per US dollar -<br>
+1.79 (2023 est.)<br>
 1.79 (2022 est.)<br>
 1.79 (2021 est.)<br>
 1.79 (2020 est.)<br>
 1.79 (2019 est.)<br>
-1.79 (2018 est.)<br>
 
 ## Energy
 

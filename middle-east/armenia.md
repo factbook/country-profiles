@@ -19,7 +19,7 @@ Southwestern Asia, between Turkey (to the west) and Azerbaijan; note - Armenia v
 Asia<br>
 
 **Area**<br>
-_total_: 29,743 sq km<br>
+_total _: 29,743 sq km<br>
 _land_: 28,203 sq km<br>
 _water_: 1,540 sq km<br>
 
@@ -389,31 +389,31 @@ _selected World Heritage Site locales_: Monasteries of Haghpat and Sanahin; Mona
 EEU-and CIS-member state but seeking more EU and US trade; business-friendly growth environments; stable monetary regime but vulnerable demand economy; key copper and gold exporter; persistent unemployment; large diaspora and remittances<br>
 
 **Real GDP (purchasing power parity)**<br>
-$44.646 billion (2022 est.)<br>
-$39.65 billion (2021 est.)<br>
-$37.476 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$57.728 billion (2023 est.)<br>
+$53.108 billion (2022 est.)<br>
+$47.165 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+8.7% (2023 est.)<br>
 12.6% (2022 est.)<br>
 5.8% (2021 est.)<br>
--7.2% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$16,100 (2022 est.)<br>
-$14,200 (2021 est.)<br>
-$13,400 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$20,800 (2023 est.)<br>
+$19,100 (2022 est.)<br>
+$16,900 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$19.513 billion (2022 est.)<br>
+$24.212 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+1.98% (2023 est.)<br>
 8.64% (2022 est.)<br>
 7.18% (2021 est.)<br>
-1.21% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -442,17 +442,17 @@ milk, potatoes, grapes, tomatoes, vegetables, wheat, watermelons, apricots, appl
 brandy, mining, diamond processing, metal-cutting machine tools, forging and pressing machines, electric motors, knitted wear, hosiery, shoes, silk fabric, chemicals, trucks, instruments, microelectronics, jewelry, software, food processing<br>
 
 **Industrial production growth rate**<br>
-9.18% (2022 est.)<br>
+5.51% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.368 million (2022 est.)<br>
+1.356 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.59% (2022 est.)<br>
+8.59% (2023 est.)<br>
+8.61% (2022 est.)<br>
 10.01% (2021 est.)<br>
-12.18% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -461,22 +461,22 @@ _male_: 34%<br>
 _female_: 38.7%<br>
 
 **Population below poverty line**<br>
-26.5% (2021 est.)<br>
+24.8% (2022 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-27.9 (2021 est.)<br>
+27.9 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4%<br>
-_highest 10%_: 23.6% (2021 est.)<br>
+_lowest 10%_: 3.9% (2022 est.)<br>
+_highest 10%_: 23% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+7.64% of GDP (2023 est.)<br>
 10.43% of GDP (2022 est.)<br>
 11.22% of GDP (2021 est.)<br>
-10.5% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -487,25 +487,25 @@ _expenditures_: $3.392 billion (2019 est.)<br>
 -4.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+46.55% of GDP (2022 est.)<br>
 60.08% of GDP (2021 est.)<br>
 63.4% of GDP (2020 est.)<br>
-50.03% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-22% (of GDP) (2021 est.)<br>
+21.83% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$510.104 million (2023 est.)<br>
 $150.994 million (2022 est.)<br>
 -$482.982 million (2021 est.)<br>
--$505.387 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$14.13 billion (2023 est.)<br>
 $10.038 billion (2022 est.)<br>
 $5.012 billion (2021 est.)<br>
-$3.818 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -517,9 +517,9 @@ copper ore, gold, diamonds, tobacco, iron alloys (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$14.279 billion (2023 est.)<br>
 $10.186 billion (2022 est.)<br>
 $6.12 billion (2021 est.)<br>
-$5.082 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -531,9 +531,9 @@ postage stamps/documents, cars, broadcasting equipment, refined petroleum, natur
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$3.607 billion (2023 est.)<br>
 $4.112 billion (2022 est.)<br>
 $3.23 billion (2021 est.)<br>
-$2.616 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -542,11 +542,11 @@ $10.785 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: drams (AMD) per US dollar -<br>
+392.476 (2023 est.)<br>
 435.666 (2022 est.)<br>
 503.77 (2021 est.)<br>
 489.009 (2020 est.)<br>
 480.445 (2019 est.)<br>
-482.988 (2018 est.)<br>
 
 ## Energy
 
@@ -657,11 +657,11 @@ Armenian Republic Armed Forces: Armenian Army (includes land, air, air defense f
 <strong>note: </strong>the Police of the Republic of Armenia is responsible for internal security, while the National Security Service is responsible for national security, intelligence activities, and border control<br>
 
 **Military expenditures**<br>
+5.3% of GDP (2023 est.)<br>
 4.3% of GDP (2022 est.)<br>
 4.4% of GDP (2021 est.)<br>
 5% of GDP (2020 est.)<br>
 5.3% of GDP (2019 est.)<br>
-4.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 45,000 active troops (42,000 ground; 3,000 air/defense) (2023)<br>

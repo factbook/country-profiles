@@ -19,7 +19,7 @@ Central Europe, northwest of Romania<br>
 Europe<br>
 
 **Area**<br>
-_total_: 93,028 sq km<br>
+_total _: 93,028 sq km<br>
 _land_: 89,608 sq km<br>
 _water_: 3,420 sq km<br>
 
@@ -315,7 +315,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the Hungarian capital city was formed in 1873 from the merger of three cities on opposite banks of the Danube: Buda and Obuda (Old Buda) on the western shore and Pest on the eastern; the origins of the original names are obscure, but according to the second century A.D. geographer, Ptolemy, the settlement that would become Pest was called "Pession" in ancient times; "Buda" may derive from either a Slavic or Turkic personal name<br>
 
 **Administrative divisions**<br>
-<p>19 counties (megyek, singular - megye), 23 cities with county rights (megyei jogu varosok, singular - megyei jogu varos), and 1 capital city (fovaros)</p> <p><strong>counties:</strong> Bacs-Kiskun, Baranya, Bekes, Borsod-Abauj-Zemplen, Csongrad-Csanad, Fejer, Gyor-Moson-Sopron, Hajdu-Bihar, Heves, Jasz-Nagykun-Szolnok, Komarom-Esztergom, Nograd, Pest, Somogy, Szabolcs-Szatmar-Bereg, Tolna, Vas, Veszprem, Zala</p> <p><strong>cities with county rights:</strong> Bekescsaba, Debrecen, Dunaujvaros, Eger, Erd, Gyor, Hodmezovasarhely, Kaposvar, Kecskemet, Miskolc, Nagykanizsa, Nyiregyhaza, Pecs, Salgotarjan, Sopron, Szeged, Szekesfehervar, Szekszard, Szolnok, Szombathely, Tatabanya, Veszprem, Zalaegerszeg</p> <p><strong>capital city:</strong> Budapest</p><br>
+<p>19 counties (megyek, singular - megye), 25 cities with county rights (megyei jogu varosok, singular - megyei jogu varos), and 1 capital city (fovaros)</p> <p><strong>counties:</strong> Bacs-Kiskun, Baranya, Bekes, Borsod-Abauj-Zemplen, Csongrad-Csanad, Fejer, Gyor-Moson-Sopron, Hajdu-Bihar, Heves, Jasz-Nagykun-Szolnok, Komarom-Esztergom, Nograd, Pest, Somogy, Szabolcs-Szatmar-Bereg, Tolna, Vas, Veszprem, Zala</p> <p><strong>cities with county rights:</strong> Baja, Bekescsaba, Debrecen, Dunaujvaros, Eger, Erd, Esztergom, Gyor, Hodmezovasarhely, Kaposvar, Kecskemet, Miskolc, Nagykanizsa, Nyiregyhaza, Pecs, Salgotarjan, Sopron, Szeged, Szekesfehervar, Szekszard, Szolnok, Szombathely, Tatabanya, Veszprem, Zalaegerszeg</p> <p><strong>capital city:</strong> Budapest</p><br>
 
 **Independence**<br>
 16 November 1918 (republic proclaimed); notable earlier dates: 25 December 1000 (crowning of King STEPHEN I, traditional founding date); 30 March 1867 (Austro-Hungarian dual monarchy established)<br>
@@ -403,31 +403,31 @@ _selected World Heritage Site locales_: Budapest, including the Banks of the Dan
 high-income EU and OECD economy; tightening fiscal policy in response to budget deficit; delayed EU cohesion fund disbursement due to judicial independence concerns; high inflation and low consumer confidence; seeking alternatives to dependence on Russian natural gas&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
-$340.947 billion (2022 est.)<br>
-$326.095 billion (2021 est.)<br>
-$304.518 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$388.906 billion (2023 est.)<br>
+$392.468 billion (2022 est.)<br>
+$375.268 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.55% (2022 est.)<br>
-7.09% (2021 est.)<br>
--4.54% (2020 est.)<br>
+-0.91% (2023 est.)<br>
+4.58% (2022 est.)<br>
+7.06% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$35,400 (2022 est.)<br>
-$33,600 (2021 est.)<br>
-$31,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$40,600 (2023 est.)<br>
+$40,700 (2022 est.)<br>
+$38,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$177.337 billion (2022 est.)<br>
+$212.389 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+17.12% (2023 est.)<br>
 14.61% (2022 est.)<br>
 5.11% (2021 est.)<br>
-3.33% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -457,17 +457,17 @@ wheat, maize, milk, barley, sunflower seeds, rapeseed, sugar beets, pork, grapes
 mining, metallurgy, construction materials, processed foods, textiles, chemicals (especially pharmaceuticals), motor vehicles<br>
 
 **Industrial production growth rate**<br>
-2.06% (2022 est.)<br>
+-5.16% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.984 million (2022 est.)<br>
+5.006 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+4.13% (2023 est.)<br>
 3.61% (2022 est.)<br>
 4.05% (2021 est.)<br>
-4.25% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -480,7 +480,7 @@ _female_: 16.2%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-29.7 (2020 est.)<br>
+29.2 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -488,14 +488,14 @@ _on food_: 18% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 7.7% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.1%<br>
-_highest 10%_: 23.3% (2020 est.)<br>
+_lowest 10%_: 3.5% (2021 est.)<br>
+_highest 10%_: 24.1% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.02% of GDP (2022 est.)<br>
-2.09% of GDP (2021 est.)<br>
-2.51% of GDP (2020 est.)<br>
+1.7% of GDP (2023 est.)<br>
+2.2% of GDP (2022 est.)<br>
+2.1% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -506,25 +506,25 @@ _expenditures_: $74.127 billion (2019 est.)<br>
 -2% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-87% of GDP (2021 est.)<br>
-96% of GDP (2020 est.)<br>
-83.37% of GDP (2019 est.)<br>
+75.53% of GDP (2022 est.)<br>
+86.92% of GDP (2021 est.)<br>
+95.94% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-21.49% (of GDP) (2021 est.)<br>
+23.43% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$14.24 billion (2022 est.)<br>
--$7.29 billion (2021 est.)<br>
--$1.582 billion (2020 est.)<br>
+$623.545 million (2023 est.)<br>
+-$14.47 billion (2022 est.)<br>
+-$7.337 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$161.761 billion (2022 est.)<br>
+$172.484 billion (2023 est.)<br>
+$160.038 billion (2022 est.)<br>
 $145.539 billion (2021 est.)<br>
-$124.111 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -536,9 +536,9 @@ cars, vehicle parts/accessories, electric batteries, packaged medicine, computer
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$169.199 billion (2022 est.)<br>
+$161.558 billion (2023 est.)<br>
+$167.744 billion (2022 est.)<br>
 $145.058 billion (2021 est.)<br>
-$121.016 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -550,9 +550,9 @@ natural gas, vehicle parts/accessories, electricity, cars, plastic products (202
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$45.719 billion (2023 est.)<br>
 $41.219 billion (2022 est.)<br>
 $43.483 billion (2021 est.)<br>
-$41.349 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -561,11 +561,11 @@ $125.29 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: forints (HUF) per US dollar -<br>
+353.088 (2023 est.)<br>
 372.596 (2022 est.)<br>
 303.141 (2021 est.)<br>
 307.997 (2020 est.)<br>
 290.66 (2019 est.)<br>
-270.212 (2018 est.)<br>
 
 ## Energy
 
@@ -717,13 +717,13 @@ Hungarian Space Office (HSO; established 1992) (2024)<br>
 
 **Space program overview**<br>
 has a history of involvement in space activities going back to the Soviet era; growing a modern space program focused on acquiring satellites and contributing to the European Space Agency (ESA); has a national space strategy; builds and operates satellites; researches and develops space technologies, including communications, navigation, and subsystems for satellites; has an astronaut corps; in addition to being an ESA member and cooperating with individual ESA and EU member states, particularly France, has relations with a variety of other foreign space agencies and industries, including those of Brazil, Israel, Russia, Singapore, Turkey, the UAE, and the US; national space strategy included the goals of fostering innovation and increasing Hungary’s competitiveness in the commercial space sector (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

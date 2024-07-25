@@ -19,7 +19,7 @@ Caribbean, island in the Caribbean Sea, north of Venezuela<br>
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 180 sq km<br>
+_total _: 180 sq km<br>
 _land_: 180 sq km<br>
 _water_: 0 sq km<br>
 
@@ -316,10 +316,10 @@ _lyrics/music_: Juan Chabaya 'Padu' LAMPE/Rufo Inocencio WEVER<br>
 small, tourism-dependent, territorial-island economy; very high public debt; COVID-19 crippled economic activity; partial recovery underway via tourism, benefitting from its high amount of timeshare residences; considering reopening oil refinery<br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.393 billion (2022 est.)<br>
-$3.977 billion (2021 est.)<br>
-$3.116 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$4.498 billion (2022 est.)<br>
+$4.072 billion (2021 est.)<br>
+$3.191 billion (2020 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
 10.46% (2022 est.)<br>
@@ -328,10 +328,10 @@ $3.116 billion (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$41,300 (2022 est.)<br>
-$37,300 (2021 est.)<br>
-$29,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$42,300 (2022 est.)<br>
+$38,200 (2021 est.)<br>
+$29,900 (2020 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $3.545 billion (2022 est.)<br>
@@ -440,11 +440,11 @@ $666.4 million (31 December 2013 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Aruban guilders/florins per US dollar -<br>
+1.79 (2023 est.)<br>
 1.79 (2022 est.)<br>
 1.79 (2021 est.)<br>
 1.79 (2020 est.)<br>
 1.79 (2019 est.)<br>
-1.79 (2018 est.)<br>
 
 ## Energy
 

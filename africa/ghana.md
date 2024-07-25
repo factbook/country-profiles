@@ -19,7 +19,7 @@ Western Africa, bordering the Gulf of Guinea, between Cote d'Ivoire and Togo<br>
 Africa<br>
 
 **Area**<br>
-_total_: 238,533 sq km<br>
+_total _: 238,533 sq km<br>
 _land_: 227,533 sq km<br>
 _water_: 11,000 sq km<br>
 
@@ -405,31 +405,31 @@ _selected World Heritage Site locales_: Forts and Castles, Volta, Greater Accra,
 West African lower-middle income economy; major gold, oil and cocoa exporter; macroeconomic challenges following nearly four decades of sustained growth; recent progress in debt restructuring, fiscal reforms, financial stability, and curbing runaway inflation under 2023-26 IMF credit facility program<br>
 
 **Real GDP (purchasing power parity)**<br>
-$183.459 billion (2022 est.)<br>
-$177.981 billion (2021 est.)<br>
-$169.382 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$229.639 billion (2023 est.)<br>
+$223.07 billion (2022 est.)<br>
+$214.867 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.08% (2022 est.)<br>
+2.94% (2023 est.)<br>
+3.82% (2022 est.)<br>
 5.08% (2021 est.)<br>
-0.51% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$5,500 (2022 est.)<br>
-$5,400 (2021 est.)<br>
-$5,300 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$6,700 (2023 est.)<br>
+$6,700 (2022 est.)<br>
+$6,500 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$73.766 billion (2022 est.)<br>
+$76.37 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+38.11% (2023 est.)<br>
 31.26% (2022 est.)<br>
 9.97% (2021 est.)<br>
-9.89% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -459,17 +459,17 @@ cassava, yams, plantains, maize, oil palm fruit, taro, rice, cocoa beans, orange
 mining, lumbering, light manufacturing, aluminum smelting, food processing, cement, small commercial ship building, petroleum<br>
 
 **Industrial production growth rate**<br>
-0.93% (2022 est.)<br>
+-1.22% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-14.549 million (2022 est.)<br>
+14.887 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.52% (2022 est.)<br>
-3.56% (2021 est.)<br>
-3.42% (2020 est.)<br>
+3.08% (2023 est.)<br>
+3.08% (2022 est.)<br>
+3.34% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -490,14 +490,14 @@ _on food_: 39.2% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 0.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.6%<br>
+_lowest 10%_: 1.6% (2016 est.)<br>
 _highest 10%_: 32.2% (2016 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-6.32% of GDP (2022 est.)<br>
+6.41% of GDP (2023 est.)<br>
+6.24% of GDP (2022 est.)<br>
 5.24% of GDP (2021 est.)<br>
-6.13% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -512,7 +512,7 @@ _expenditures_: $14.062 billion (2018 est.)<br>
 73.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-11.34% (of GDP) (2020 est.)<br>
+12.3% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -550,9 +550,9 @@ refined petroleum, plastic products, garments, coated flat-rolled iron, ships (2
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$3.624 billion (2023 est.)<br>
+$5.205 billion (2022 est.)<br>
 $9.917 billion (2021 est.)<br>
-$7.884 billion (2020 est.)<br>
-$7.563 billion (2019 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -561,11 +561,11 @@ $17.885 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: cedis (GHC) per US dollar -<br>
+11.02 (2023 est.)<br>
 8.272 (2022 est.)<br>
 5.806 (2021 est.)<br>
 5.596 (2020 est.)<br>
 5.217 (2019 est.)<br>
-4.585 (2018 est.)<br>
 
 ## Energy
 
@@ -693,11 +693,11 @@ Ghana Armed Forces (GAF): Army, Navy, Air Force (2024)<br>
 <strong>note:</strong> the Ghana Police Service is under the Ministry of the Interior<br>
 
 **Military expenditures**<br>
+0.4% of GDP (2023 est.)<br>
 0.4% of GDP (2022 est.)<br>
 0.5% of GDP (2021 est.)<br>
 0.4% of GDP (2020 est.)<br>
 0.4% of GDP (2019 est.)<br>
-0.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 16,000 active personnel (12,000 Army; 2,000 Navy; 2,000 Air Force) (2024)<br>
@@ -723,7 +723,7 @@ Ghana Space Science and Technology Center (GSSTC; established 2011); note &ndash
 
 **Space program overview**<br>
 has a small, nascent space program focused on research in space sciences and exploiting remote sensing (RS) technology for natural resource management, weather forecasting, agriculture, and national security issues; relies on foreign imagery for analysis but seeks to develop its own RS satellite capabilities; one of Africa’s leaders in satellite dish research; trains aerospace scientists and engineers; has established relations on space-related issues with China, Japan, and South Africa; cooperating with Egypt, Kenya, Nigeria, Sudan, and Uganda to establish a joint satellite to monitor climate changes in the African continent; partner of the Square Kilometer Array (SKA) international astronomy initiative (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

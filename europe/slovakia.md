@@ -19,7 +19,7 @@ Central Europe, south of Poland<br>
 Europe<br>
 
 **Area**<br>
-_total_: 49,035 sq km<br>
+_total _: 49,035 sq km<br>
 _land_: 48,105 sq km<br>
 _water_: 930 sq km<br>
 
@@ -337,7 +337,7 @@ _chief of state_: President Peter PELLEGRINI (since 15 June 2024)<br>
 _head of government_: Prime Minister Robert FICO (since 25 October 2023)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election first round 23 March 2024 with a runoff on 6 April 2024 (next to be held in 2029); following National Council elections (every 4 years), the president designates a prime minister candidate, usually the leader of the party or coalition that wins the most votes, who must win a vote of confidence in the National Council<br>
-_election results_: <em><br>2024: </em>Peter PELLEGRINI elected president in the second round; percent of vote in first round - Ivan KORCOK (independent) 42.5%; Peter PELLEGRINI (Hlas-SD) 37%; Stefan HARABIN (independent) 11.7%, other 8.8%; percent of vote in second round Peter PELLEGRINI (Hlas-SD) 53.1%; Ivan KORCOK (independent) 46.9%<em>; </em>PELLEGRINI will takeoffice on 15 June 2024<em><br><br>2019:</em> Zuzana CAPUTOVA elected president in second round; percent of vote - Zuzana CAPUTOVA (PS) 58.4%, Maros SEFCOVIC (independent) 41.6%<br><br><em>2014:</em> Andrej KISKA elected president in second round; percent of vote - Andrej KISKA (independent) 59.4%, Robert FICO (Smer-SD) 40.6%<br>
+_election results_: <em><br>2024: </em>Peter PELLEGRINI elected president in the second round; percent of vote in first round - Ivan KORCOK (independent) 42.5%; Peter PELLEGRINI (Hlas-SD) 37%; Stefan HARABIN (independent) 11.7%, other 8.8%; percent of vote in second round Peter PELLEGRINI (Hlas-SD) 53.1%; Ivan KORCOK (independent) 46.9%<em><br><br>2019:</em> Zuzana CAPUTOVA elected president in second round; percent of vote - Zuzana CAPUTOVA (PS) 58.4%, Maros SEFCOVIC (independent) 41.6%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Council or Narodna Rada (150 seats; members directly elected in a single- and multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms)<br>
@@ -393,31 +393,31 @@ _selected World Heritage Site locales_: Historic Town of Bansk&aacute; &Scaron;t
 high-income EU- and eurozone-member economy; manufacturing and exports led by automotive sector; weakening of anti-corruption laws may impact foreign investment and status of EU funds; influx of foreign labor offsets aging workforce; widening fiscal deficit from social spending and EU-financed public investments&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
-$180.205 billion (2022 est.)<br>
-$177.105 billion (2021 est.)<br>
-$169.011 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$213.053 billion (2023 est.)<br>
+$209.705 billion (2022 est.)<br>
+$205.856 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.75% (2022 est.)<br>
-4.79% (2021 est.)<br>
--3.34% (2020 est.)<br>
+1.6% (2023 est.)<br>
+1.87% (2022 est.)<br>
+4.77% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$33,200 (2022 est.)<br>
-$32,500 (2021 est.)<br>
-$31,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$39,300 (2023 est.)<br>
+$38,600 (2022 est.)<br>
+$37,800 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$115.462 billion (2022 est.)<br>
+$132.794 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+10.53% (2023 est.)<br>
 12.77% (2022 est.)<br>
 3.15% (2021 est.)<br>
-1.94% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -447,17 +447,17 @@ wheat, sugar beets, milk, maize, barley, rapeseed, sunflower seeds, potatoes, so
 automobiles; metal and metal products; electricity, gas, coke, oil, nuclear fuel; chemicals, synthetic fibers, wood and paper products; machinery; earthenware and ceramics; textiles; electrical and optical apparatus; rubber products; food and beverages; pharmaceutical<br>
 
 **Industrial production growth rate**<br>
--0.4% (2022 est.)<br>
+15.61% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.815 million (2022 est.)<br>
+2.823 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+5.84% (2023 est.)<br>
 6.14% (2022 est.)<br>
 6.89% (2021 est.)<br>
-6.72% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -470,7 +470,7 @@ _female_: 24.6%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-23.2 (2019 est.)<br>
+24.1 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -478,14 +478,14 @@ _on food_: 19.6% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 5.4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.6%<br>
-_highest 10%_: 18.8% (2019 est.)<br>
+_lowest 10%_: 3.4% (2021 est.)<br>
+_highest 10%_: 19.2% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.86% of GDP (2022 est.)<br>
+1.69% of GDP (2023 est.)<br>
+2% of GDP (2022 est.)<br>
 2.05% of GDP (2021 est.)<br>
-2.31% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -496,25 +496,25 @@ _expenditures_: $44.914 billion (2019 est.)<br>
 -1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-79.31% of GDP (2021 est.)<br>
-78.41% of GDP (2020 est.)<br>
-63.15% of GDP (2019 est.)<br>
+64.51% of GDP (2022 est.)<br>
+78.84% of GDP (2021 est.)<br>
+78.33% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-19.3% (of GDP) (2021 est.)<br>
+19.5% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$2.088 billion (2023 est.)<br>
 -$8.452 billion (2022 est.)<br>
 -$4.655 billion (2021 est.)<br>
-$671.914 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$121.238 billion (2023 est.)<br>
 $114.678 billion (2022 est.)<br>
 $109.565 billion (2021 est.)<br>
-$90.546 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -526,9 +526,9 @@ cars, vehicle parts/accessories, video displays, broadcasting equipment, electri
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$118.869 billion (2023 est.)<br>
 $120.622 billion (2022 est.)<br>
 $109.265 billion (2021 est.)<br>
-$88.214 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -540,9 +540,9 @@ vehicle parts/accessories, broadcasting equipment, natural gas, cars, electricit
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$11.288 billion (2023 est.)<br>
 $10.28 billion (2022 est.)<br>
 $9.61 billion (2021 est.)<br>
-$9.344 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -551,11 +551,11 @@ $114.224 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 
 ## Energy
 
@@ -702,7 +702,7 @@ no national government agency; the Slovak Space Office is responsible for inter-
 
 **Space program overview**<br>
 focused on the development of satellites, satellite subcomponents, and other space-related technologies; as a member state of the EU, it is actively involved in all key components of the EU space program, and Slovak researchers actively participate in a variety of EU and/or European Space Agency (ESA) space missions including the Galileo global navigational system program, Copernicus Earth observation satellite program, Rosetta comet probe, BepiColombo (Mercury planetary orbiter), and Jupiter Icy Moons Explorer (JUICE) mission; has more than 40 established companies actively involved in the space sector (2023)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

@@ -19,7 +19,7 @@ North America, bordering both the North Atlantic Ocean and the North Pacific Oce
 North America<br>
 
 **Area**<br>
-_total_: 9,833,517 sq km<br>
+_total _: 9,833,517 sq km<br>
 _land_: 9,147,593 sq km<br>
 _water_: 685,924 sq km<br>
 <strong>note:</strong> includes only the 50 states and District of Columbia, no overseas territories<br>
@@ -55,8 +55,8 @@ _mean elevation_: 760 m<br>
 <strong>note: </strong>Denali is one of the most striking features on the entire planet; at 20,310 feet, it is the crowning peak of the Alaska Range and the highest mountain on North America; it towers three and one-half vertical miles above its base, making it a mile taller from base to summit than Mt. Everest; Denali's base sits at about 2,000 feet above sea level and rises over three and one-half miles to its 20,310 foot summit; Everest begins on a 14,000-foot high plain, then summits at 29,028 feet.<strong><br>note:</strong> the peak of Mauna Kea (4,207 m above sea level) on the island of Hawaii rises about 10,200 m above the Pacific Ocean floor; by this measurement, it is the world's tallest mountain - higher than Mount Everest (8,850 m), which is recognized as the tallest mountain above sea level<br>
 
 **Natural resources**<br>
-coal, copper, lead, molybdenum, phosphates, rare earth elements, uranium, bauxite, gold, iron, mercury, nickel, potash, silver, tungsten, zinc, petroleum, natural gas, timber, arable land;<br>
-<strong>note 1: </strong>the US has the world's largest coal reserves with 491 billion short tons accounting for 27% of the world's total<br><br><strong>note 2:</strong> the US is reliant on foreign imports for 100% of its needs for the following strategic resources: Arsenic, Cesium, Fluorspar, Gallium, Graphite, Indium, Manganese, Niobium, Rare Earths, Rubidium, Scandium, Tantalum, Yttrium; see Appendix H: Strategic Materials for further details<br>
+coal, copper, lead, molybdenum, phosphates, rare earth elements, uranium, bauxite, gold, iron, mercury, nickel, potash, silver, tungsten, zinc, petroleum, natural gas, timber, arable land<br>
+<strong>note: </strong>the US has the world's largest coal reserves with 491 billion short tons accounting for 27% of the world's total<br>
 
 **Land use**<br>
 _agricultural land_: 44.5% (2018 est.)<br>
@@ -89,7 +89,7 @@ large urban clusters are spread throughout the eastern half of the US (particula
 <p>tsunamis; volcanoes; earthquake activity around Pacific Basin; hurricanes along the Atlantic and Gulf of Mexico coasts; tornadoes in the Midwest and Southeast; mud slides in California; forest fires in the west; flooding; permafrost in northern Alaska, a major impediment to development</p> <p><strong>volcanism:</strong> volcanic activity in the Hawaiian Islands, Western Alaska, the Pacific Northwest, and in the Northern Mariana Islands; both Mauna Loa (4,170 m) in Hawaii and Mount Rainier (4,392 m) in Washington have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; Pavlof (2,519 m) is the most active volcano in Alaska's Aleutian Arc and poses a significant threat to air travel since the area constitutes a major flight path between North America and East Asia; St. Helens (2,549 m), famous for the devastating 1980 eruption, remains active today; numerous other historically active volcanoes exist, mostly concentrated in the Aleutian arc and Hawaii; they include: in Alaska: Aniakchak, Augustine, Chiginagak, Fourpeaked, Iliamna, Katmai, Kupreanof, Martin, Novarupta, Redoubt, Spurr, Wrangell, Trident, Ugashik-Peulik, Ukinrek Maars, Veniaminof; in Hawaii: Haleakala, Kilauea, Loihi; in the Northern Mariana Islands: Anatahan; and in the Pacific Northwest: Mount Baker, Mount Hood; see note 2 under "Geography - note"</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> world's third-largest country by size (after Russia and Canada) and by population (after China and India); Denali (Mt. McKinley) is the highest point (6,190 m) in North America and Death Valley the lowest point (-86 m) on the continent</p> <p><strong>note 2:</strong> the western coast of the United States and southern coast of Alaska lie along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Aleutian Islands are a chain of volcanic islands that divide the Bering Sea (north) from the main Pacific Ocean (south); they extend about 1,800 km westward from the Alaskan Peninsula; the archipelago consists of 14 larger islands, 55 smaller islands, and hundreds of islets; there are 41 active volcanoes on the islands, which together form a large northern section of the Ring of Fire<br><br><strong>note 4: </strong>Mammoth Cave, in west-central Kentucky, is the world's longest known cave system with more than 650 km (405 miles) of surveyed passageways, which is nearly twice as long as the second-longest cave system, the Sac Actun underwater cave in Mexico - the world's longest underwater cave system (see "Geography - note" under Mexico); <br><br><strong>note 5:</strong> Kazumura Cave on the island of Hawaii is the world's longest and deepest lava tube cave; it has been surveyed at 66 km (41 mi) long and 1,102 m (3,614 ft) deep <br><br><strong>note 6: </strong>Bracken Cave outside of San Antonio, Texas is the world's largest bat cave; it is the summer home to the largest colony of bats in the world; an estimated 20 million Mexican free-tailed bats roost in the cave from March to October making it the world's largest known concentration of mammals<br><br><strong>note 7:</strong> the US is reliant on foreign imports for 100% of its needs for the following strategic resources - Arsenic, Cesium, Fluorspar, Gallium, Graphite, Indium, Manganese, Niobium, Rare Earths, Rubidium, Scandium, Tantalum, Yttrium; see Appendix H: Strategic Materials for further details<br><br><strong>note 8:</strong> three food crops are generally acknowledged to be native to areas of what is now the United States: cranberries, pecans, and sunflowers</p><br>
+<p><strong>note 1:</strong> world's third-largest country by size (after Russia and Canada) and by population (after China and India); Denali (Mt. McKinley) is the highest point (6,190 m) in North America and Death Valley the lowest point (-86 m) on the continent</p> <p><strong>note 2:</strong> the western coast of the United States and southern coast of Alaska lie along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Aleutian Islands are a chain of volcanic islands that divide the Bering Sea (north) from the main Pacific Ocean (south); they extend about 1,800 km westward from the Alaskan Peninsula; the archipelago consists of 14 larger islands, 55 smaller islands, and hundreds of islets; there are 41 active volcanoes on the islands, which together form a large northern section of the Ring of Fire<br><br><strong>note 4: </strong>Mammoth Cave, in west-central Kentucky, is the world's longest known cave system with more than 650 km (405 miles) of surveyed passageways, which is nearly twice as long as the second-longest cave system, the Sac Actun underwater cave in Mexico -- the world's longest underwater cave system (see "Geography - note" under Mexico)<br><br><strong>note 5:</strong> Kazumura Cave on the island of Hawaii is the world's longest and deepest lava tube cave; it has been surveyed at 66 km (41 mi) long and 1,102 m (3,614 ft) deep <br><br><strong>note 6: </strong>Bracken Cave outside of San Antonio, Texas is the world's largest bat cave; it is the summer home to the largest colony of bats in the world; an estimated 20 million Mexican free-tailed bats roost in the cave from March to October making it the world's largest known concentration of mammals<br><br><strong>note 7:</strong> three food crops are generally acknowledged to be native to areas of what is now the United States: cranberries, pecans, and sunflowers</p><br>
 
 ## People and Society
 
@@ -403,31 +403,31 @@ _selected World Heritage Site locales_: Yellowstone National Park (n); Grand Can
 high-income, diversified North American economy; NATO leader; largest importer and second-largest exporter; home to leading financial exchanges; high and growing public debt; rising socioeconomic inequalities; historically low interest rates; hit by COVID-19<br>
 
 **Real GDP (purchasing power parity)**<br>
-$21.538 trillion (2022 est.)<br>
-$21.129 trillion (2021 est.)<br>
-$19.943 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$24.662 trillion (2023 est.)<br>
+$24.051 trillion (2022 est.)<br>
+$23.594 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.54% (2023 est.)<br>
 1.94% (2022 est.)<br>
-5.95% (2021 est.)<br>
--2.77% (2020 est.)<br>
+5.8% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$64,600 (2022 est.)<br>
-$63,600 (2021 est.)<br>
-$60,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$73,600 (2023 est.)<br>
+$72,200 (2022 est.)<br>
+$71,100 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$25.44 trillion (2022 est.)<br>
+$27.361 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.12% (2023 est.)<br>
 8% (2022 est.)<br>
 4.7% (2021 est.)<br>
-1.23% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -461,13 +461,13 @@ highly diversified, world leading, high-technology innovator, second-largest ind
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-168.19 million (2022 est.)<br>
+170.549 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+3.63% (2023 est.)<br>
 3.65% (2022 est.)<br>
 5.35% (2021 est.)<br>
-8.05% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -487,14 +487,14 @@ _on food_: 6.7% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 1.9% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.2%<br>
+_lowest 10%_: 2.2% (2021 est.)<br>
 _highest 10%_: 30.1% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.03% of GDP (2023 est.)<br>
 0.03% of GDP (2022 est.)<br>
 0.03% of GDP (2021 est.)<br>
-0.03% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -505,25 +505,25 @@ _expenditures_: $7.647 trillion (2019 est.)<br>
 -3.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-115.7% of GDP (2022 est.)<br>
-120.36% of GDP (2021 est.)<br>
-126.24% of GDP (2020 est.)<br>
+110.39% of GDP (2022 est.)<br>
+118.89% of GDP (2021 est.)<br>
+124.73% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-12.32% (of GDP) (2022 est.)<br>
+12.18% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$818.822 billion (2023 est.)<br>
 -$971.594 billion (2022 est.)<br>
 -$831.453 billion (2021 est.)<br>
--$597.145 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$3.052 trillion (2023 est.)<br>
 $3.018 trillion (2022 est.)<br>
 $2.567 trillion (2021 est.)<br>
-$2.16 trillion (2020 est.)<br>
 <strong>note:</strong> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -535,9 +535,9 @@ refined petroleum, crude petroleum, natural gas, cars, integrated circuits (2022
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$3.832 trillion (2023 est.)<br>
 $3.97 trillion (2022 est.)<br>
 $3.409 trillion (2021 est.)<br>
-$2.813 trillion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -549,9 +549,9 @@ crude petroleum, cars, broadcasting equipment, garments, computers (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$773.426 billion (2023 est.)<br>
 $706.644 billion (2022 est.)<br>
 $716.152 billion (2021 est.)<br>
-$628.37 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -628,8 +628,8 @@ _total subscriptions_: 372.682 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 110 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the US telecom sector adapted well to the particular demands of the pandemic, which has led to strong growth in the number of mobile, mobile broadband, and fixed broadband subscribers since 2020; the level of growth is expected to taper off from late 2022 as the demand for working and schooling from home subsides; the pandemic also encouraged the Federal government to increase its investment in broadband infrastructure; of particular note was the Infrastructure Investment and Jobs Act of November 2021, which provided $65 billion to a range of programs aimed at delivering broadband to unserved areas, providing fiber-based broadband to upgrade existing service areas, and subsidizing the cost of services to low income households; alongside these fiscal efforts have been the several spectrum auctions undertaken during the last two years, which have greatly assisted the main licensees to improve the reach and quality of their offers based on LTE and 5G; some of this spectrum, auctioned during 2021, was only made available to licensees from February 2022; the widening availability of 5G from the main providers has resulted in a dramatic increase in mobile data traffic; in tandem with the focus on 5G, operators have closed down their GSM and CDMA networks, and have either closed down 3G networks (as AT&amp;T did in January 2022), or plan to in coming months; given the size of the US broadband market, and the growing demand for data on both fixed and mobile networks, there is continuous pressure for operators to invest in fiber networks, and to push connectivity closer to consumers; in recent years the US has seen increased activity from regional players as well as the major telcos and cablecos; although there has been considerable investment in DOCSIS4.0, some of the cablecos are looking to ditch HFC in preference for fiber broadband; the process of migrating from copper (HFC and DSL) to fiber is ongoing, but given the scale of the work involved it will take some years; some operators have investment strategies in place through to 2025, which will see the vast majority of their fixed networks being entirely on fiber; service offerings of up to 2Gb/s are becoming more widely available as the process continues (2022)<br>
-_domestic_: fixed-line just over 29 per 100 and mobile-cellular is 110 per 100 (2021)<br>
+_general assessment_: the US telecom sector adapted well to the particular demands of the pandemic, which has led to strong growth in the number of mobile, mobile broadband, and fixed broadband subscribers since 2020; the level of growth is expected to taper off from late 2022 as the demand for working and schooling from home subsides; the pandemic also encouraged the Federal government to increase its investment in broadband infrastructure; of particular note was the Infrastructure Investment and Jobs Act of November 2021, which provided $65 billion to a range of programs aimed at delivering broadband to unserved areas, providing fiber-based broadband to upgrade existing service areas, and subsidizing the cost of services to low income households; alongside these fiscal efforts have been the several spectrum auctions undertaken during the last two years, which have greatly assisted the main licensees to improve the reach and quality of their offers based on LTE and 5G; some of this spectrum, auctioned during 2021, was only made available to licensees from February 2022; the widening availability of 5G from the main providers has resulted in a dramatic increase in mobile data traffic; in tandem with the focus on 5G, operators have closed down their GSM and CDMA networks, and have either closed down 3G networks (as AT&amp;T did in January 2022), or plan to in coming months; given the size of the US broadband market, and the growing demand for data on both fixed and mobile networks, there is continuous pressure for operators to invest in fiber networks, and to push connectivity closer to consumers; in recent years the US has seen increased activity from regional players as well as the major telcos and cablecos; although there has been considerable investment in DOCSIS4.0, some of the cablecos are looking to ditch HFC in preference for fiber broadband; the process of migrating from copper (HFC and DSL) to fiber is ongoing, but given the scale of the work involved it will take some years; some operators have investment strategies in place through to 2025, which will see the vast majority of their fixed networks being entirely on fiber; service offerings of up to 2Gb/s are becoming more widely available as the process continues (2024)<br>
+_domestic_: fixed-line just over 27 per 100 and mobile-cellular is 110 per 100 (2022)<br>
 _international_: country code - 1; landing points for the Quintillion Subsea Cable Network, TERRA SW, AU-Aleutian, KKFL, AKORN, Alaska United -West, &amp; -East &amp; -Southeast, North Star, Lynn Canal Fiber, KetchCar 1, PC-1, SCCN, Tat TGN-Pacific &amp; -Atlantic, Jupiter, Hawaiki, NCP, FASTER, HKA, JUS, AAG, BtoBE, Currie, Southern Cross NEXT, SxS, PLCN, Utility EAC-Pacific, SEA-US, Paniolo Cable Network, HICS, HIFN, ASH, Telstra Endeavor, Honotua, AURORA, ARCOS, AMX-1, Americas -I &amp;&nbsp;-II, Columbus IIb &amp; -III, Maya-1, MAC, GTMO-1, BICS, CFX-1, GlobeNet, Monet, SAm-1, Bahamas 2, PCCS, BRUSA, Dunant, MAREA, SAE x1,&nbsp;TAT 14,&nbsp;Apollo, Gemini Bermuda, Havfrue/AEC-2, Seabras-1,&nbsp;WALL-LI, NYNJ-1, FLAG Atalantic-1, Yellow, Atlantic Crossing-1,&nbsp;AE Connect -1, sea2shore, Challenger Bermuda-1, and&nbsp;GTT Atlantic&nbsp;submarine cable systems providing international connectivity to Europe, Africa,&nbsp;the Middle East, Asia, Southeast Asia, Australia,&nbsp;New Zealand, Pacific, &amp;&nbsp;Atlantic, and Indian Ocean&nbsp;Islands, Central and South America, Caribbean, Canada&nbsp;and US; satellite earth stations - 61 Intelsat (45 Atlantic Ocean and 16 Pacific Ocean), 5 Intersputnik (Atlantic Ocean region), and 4 Inmarsat (Pacific and Atlantic Ocean regions) (2020)<br>
 
 **Broadcast media**<br>
@@ -736,13 +736,13 @@ has 20 commercial, government, and private space ports hosting Federal Aviation 
 
 **Space program overview**<br>
 has a large and comprehensive space program and is one of the world’s top space powers; builds, launches, and operates space launch vehicles (SLVs)/rockets and the full spectrum of spacecraft, including interplanetary probes, manned craft, reusable rockets, satellites, space stations, and space planes; has an astronaut program and a large corps of astronauts; researching and developing a broad range of other space-related capabilities and technologies, such as advanced telecommunications and optics, navigational aids, propulsion, robotics, solar sails, space-based manufacturing, and robotic satellite repair/refueling; has launched orbital or lander probes to the Sun and all planets in the solar system, as well as to asteroids and beyond the solar system; has international missions and projects with dozens of countries and organizations, including such major partners as Canada, Japan, Russia, and South Korea, as well as the European Space Agency (ESA), the EU, and their individual member states; as of June 2024, more than 40 countries had signed onto the US-led Artemis Accords, whose purpose is to establish principles, guidelines, and best practices to enhance the governance of the civil exploration and use of outer space with the intention of advancing the Artemis Program, an international effort to establish a sustainable and robust presence on the Moon and an onward human mission to Mars; the US commercial space industry is one of the world’s largest and most capable and is active across the entire spectrum of US government space programs; the majority of both NASA and US military space launches are conducted by US commercial companies; the US space economy was valued at over $200 billion in 2021 (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Hizballah; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); al-Qa'ida; Lashkar-e Tayyiba (LeT) <br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Hizballah; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); al-Qa'ida; Lashkar-e Tayyiba (LeT)<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

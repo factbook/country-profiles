@@ -19,7 +19,7 @@ Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, north
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 5,128 sq km<br>
+_total _: 5,128 sq km<br>
 _land_: 5,128 sq km<br>
 _water_: 0 sq km<br>
 
@@ -355,31 +355,31 @@ _lyrics/music_: Patrick Stanislaus CASTAGNE<br>
 high-income Caribbean economy; major hydrocarbon exporter; key tourism and finance sectors; high inflation and growing public debt; long foreign currency access delays; large foreign reserves and sovereign wealth fund<br>
 
 **Real GDP (purchasing power parity)**<br>
-$35.667 billion (2022 est.)<br>
-$35.146 billion (2021 est.)<br>
-$35.514 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$43.681 billion (2023 est.)<br>
+$42.781 billion (2022 est.)<br>
+$42.157 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.1% (2023 est.)<br>
 1.48% (2022 est.)<br>
 -1.04% (2021 est.)<br>
--9.08% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$23,300 (2022 est.)<br>
-$23,000 (2021 est.)<br>
-$23,400 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$28,500 (2023 est.)<br>
+$27,900 (2022 est.)<br>
+$27,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$30.054 billion (2022 est.)<br>
+$28.14 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.63% (2023 est.)<br>
 5.83% (2022 est.)<br>
 2.06% (2021 est.)<br>
-0.6% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -412,13 +412,13 @@ petroleum and petroleum products, liquefied natural gas, methanol, ammonia, urea
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-675,000 (2022 est.)<br>
+681,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.81% (2022 est.)<br>
+4.21% (2023 est.)<br>
+4.38% (2022 est.)<br>
 4.45% (2021 est.)<br>
-4.21% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -430,9 +430,9 @@ _female_: 12.6%<br>
 20% (2014 est.)<br>
 
 **Remittances**<br>
+0.63% of GDP (2023 est.)<br>
 0.68% of GDP (2022 est.)<br>
 0.96% of GDP (2021 est.)<br>
-0.93% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -485,9 +485,9 @@ refined petroleum, iron ore, cars, plastic products, excavation machinery (2022)
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$6.256 billion (2023 est.)<br>
 $6.832 billion (2022 est.)<br>
 $6.88 billion (2021 est.)<br>
-$6.954 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -496,11 +496,11 @@ $8.746 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Trinidad and Tobago dollars (TTD) per US dollar -<br>
+6.75 (2023 est.)<br>
 6.754 (2022 est.)<br>
 6.759 (2021 est.)<br>
 6.751 (2020 est.)<br>
 6.754 (2019 est.)<br>
-6.771 (2018 est.)<br>
 
 ## Energy
 
@@ -602,11 +602,11 @@ Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago 
 <strong>note:</strong> the Ministry of National Security oversees both the TTDF and the TTPS<br>
 
 **Military expenditures**<br>
+1% of GDP (2023 est.)<br>
 1.1% of GDP (2022 est.)<br>
 1% of GDP (2021 est.)<br>
 1% of GDP (2020 est.)<br>
 1% of GDP (2019 est.)<br>
-1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 5,000 TTDF personnel (2023)<br>

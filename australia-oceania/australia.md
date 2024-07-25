@@ -19,7 +19,7 @@ Oceania, continent between the Indian Ocean and the South Pacific Ocean<br>
 Oceania<br>
 
 **Area**<br>
-_total_: 7,741,220 sq km<br>
+_total _: 7,741,220 sq km<br>
 _land_: 7,682,300 sq km<br>
 _water_: 58,920 sq km<br>
 <strong>note:</strong> includes Lord Howe Island and Macquarie Island<br>
@@ -52,7 +52,7 @@ _mean elevation_: 330 m<br>
 
 **Natural resources**<br>
 alumina, coal, iron ore, copper, lithium, tin, gold, silver, uranium, nickel, tungsten, rare earth elements, mineral sands, lead, zinc, diamonds, opals, natural gas, petroleum<br>
-<strong>note 1:</strong> Australia is the world's largest net exporter of coal accounting for 26.5% of global coal exports in 2021; coal is the country’s most abundant energy resource, and coal ranks as the second-largest export commodity from Australia in terms of revenue; in 2020, Australia held the third-largest recoverable coal reserves in the world behind the United States and Russia<br><br><strong>note 2:</strong> Australia is by far the world's largest supplier of opals<br><br><strong>note 3:</strong> Australia holds the largest uranium reserves in the world, and was the second-largest global uranium producer behind Kazakhstan in 2020.<br><br><strong>note 4: </strong>Australia was the largest exporter of LNG in the world in 2020.<br>
+<strong>note 1:</strong> Australia is the world's largest net exporter of coal accounting for 26.5% of global coal exports in 2021; coal is the country’s most abundant energy resource, and coal ranks as the second-largest export commodity from Australia in terms of revenue; in 2020, Australia held the third-largest recoverable coal reserves in the world behind the United States and Russia<br><br><strong>note 2:</strong> Australia is by far the world's largest supplier of opals<br><br><strong>note 3:</strong> Australia holds the largest uranium reserves in the world and was the second-largest global uranium producer behind Kazakhstan in 2020<br><br><strong>note 4: </strong>Australia was the largest exporter of LNG in the world in 2020<br>
 
 **Land use**<br>
 _agricultural land_: 46.65% (2018 est.)<br>
@@ -85,7 +85,7 @@ population is primarily located on the periphery, with the highest concentration
 <p>cyclones along the coast; severe droughts; forest fires</p><p><strong>volcanism:</strong> volcanic activity on Heard and McDonald Islands</p><br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> world's smallest continent but sixth-largest country; the largest country in Oceania, the largest country entirely in the Southern Hemisphere, and the largest country without land borders<br><br><strong>note 2:</strong> the Great Dividing Range that runs along eastern Australia is that continent’s longest mountain range and the third-longest land-based range in the world; the term "Great Dividing Range" refers to the fact that the mountains form a watershed crest from which all of the rivers of eastern Australia flow – east, west, north, and south<br><br><strong>note 3:</strong> Australia is the only continent without glaciers; it is the driest inhabited continent on earth, making it particularly vulnerable to the challenges of climate change; the invigorating sea breeze known as the "Fremantle Doctor" affects the city of Perth on the west coast and is one of the most consistent winds in the world; Australia is home to 10% of the world's biodiversity, and a great number of its flora and fauna exist nowhere else in the world<br>
+<strong>note 1:</strong> world's smallest continent but sixth-largest country; the largest country in Oceania, the largest country entirely in the Southern Hemisphere, and the largest country without land borders<br><br><strong>note 2:</strong> the Great Dividing Range that runs along eastern Australia is that continent’s longest mountain range and the third-longest land-based range in the world; the term "Great Dividing Range" refers to the fact that the mountains form a watershed crest from which all of the rivers of eastern Australia flow – east, west, north, and south<br><br><strong>note 3:</strong> Australia is the only continent without glaciers; it is the driest inhabited continent on earth; the invigorating sea breeze known as the "Fremantle Doctor" affects the city of Perth on the west coast and is one of the most consistent winds in the world; Australia is home to 10% of the world's biodiversity, and a great number of its flora and fauna exist nowhere else in the world<br>
 
 ## People and Society
 
@@ -412,31 +412,31 @@ _selected World Heritage Site locales_: Great Barrier Reef (n); Greater Blue Mou
 highly developed, diversified, regionally and globally integrated economy; strong mining, manufacturing, and service sectors; net exporter driven by commodities to East Asian trade partners; &ldquo;Future Made in Australia&rdquo; program focused on green energy investments<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.329 trillion (2022 est.)<br>
-$1.274 trillion (2021 est.)<br>
-$1.248 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.584 trillion (2023 est.)<br>
+$1.537 trillion (2022 est.)<br>
+$1.475 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.02% (2023 est.)<br>
 4.27% (2022 est.)<br>
 2.11% (2021 est.)<br>
--0.33% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$51,100 (2022 est.)<br>
-$49,600 (2021 est.)<br>
-$48,700 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$59,500 (2023 est.)<br>
+$59,100 (2022 est.)<br>
+$57,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.693 trillion (2022 est.)<br>
+$1.724 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.6% (2023 est.)<br>
 6.59% (2022 est.)<br>
 2.86% (2021 est.)<br>
-0.85% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -466,23 +466,26 @@ wheat, sugarcane, barley, milk, rapeseed, cotton, sorghum, beef, oats, chicken (
 mining, industrial and transportation equipment, food processing, chemicals, steel<br>
 
 **Industrial production growth rate**<br>
-0.8% (2022 est.)<br>
+1.34% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-14.075 million (2022 est.)<br>
+14.501 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+3.67% (2023 est.)<br>
 3.7% (2022 est.)<br>
 5.12% (2021 est.)<br>
-6.46% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.8% (2021 est.)<br>
 _male_: 12.7%<br>
 _female_: 8.9%<br>
+
+**Population below poverty line**<br>
+13.4% (2020 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 34.3 (2018 est.)<br>
@@ -493,14 +496,14 @@ _on food_: 10% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 4.2% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.7%<br>
+_lowest 10%_: 2.7% (2018 est.)<br>
 _highest 10%_: 26.6% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.1% of GDP (2023 est.)<br>
 0.08% of GDP (2022 est.)<br>
 0.06% of GDP (2021 est.)<br>
-0.09% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -521,15 +524,15 @@ _expenditures_: $532.579 billion (2019 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$17.875 billion (2022 est.)<br>
-$49.878 billion (2021 est.)<br>
-$31.376 billion (2020 est.)<br>
+$21.384 billion (2023 est.)<br>
+$17.741 billion (2022 est.)<br>
+$49.092 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$464.925 billion (2022 est.)<br>
-$390.027 billion (2021 est.)<br>
-$300.81 billion (2020 est.)<br>
+$447.508 billion (2023 est.)<br>
+$464.688 billion (2022 est.)<br>
+$389.158 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -541,9 +544,9 @@ coal, iron ore, natural gas, gold, wheat (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$367.458 billion (2022 est.)<br>
-$299.618 billion (2021 est.)<br>
-$251.779 billion (2020 est.)<br>
+$363.573 billion (2023 est.)<br>
+$367.488 billion (2022 est.)<br>
+$299.549 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -555,9 +558,9 @@ refined petroleum, cars, garments, trucks, plastic products (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$61.703 billion (2023 est.)<br>
 $56.702 billion (2022 est.)<br>
 $57.878 billion (2021 est.)<br>
-$42.545 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -566,11 +569,11 @@ $2,837,818,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>
+1.505 (2023 est.)<br>
 1.442 (2022 est.)<br>
 1.331 (2021 est.)<br>
 1.453 (2020 est.)<br>
 1.439 (2019 est.)<br>
-1.338 (2018 est.)<br>
 
 ## Energy
 
@@ -733,13 +736,13 @@ Whalers Way Orbital Launch Complex (commercial site, South Australia); Arnhem Sp
 
 **Space program overview**<br>
 has a long history of involvement in space-related activities, including astronomy, rockets, satellites, and space tracking; develops, builds, operates, and tracks satellites, including communications, remote sensing (RS), navigational, and scientific/testing/research, often in partnership with other countries; develops other space technologies, including communications, RS capabilities, and telescopes; encouraging growth in domestic commercial space industry sector; cooperates with a variety of foreign space agencies and industries, including those of China, the European Space Agency/EU and their individual member states, India, Japan, New Zealand, South Korea, the UK, and the US; co-leads the Global Earth Observation System of Systems (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

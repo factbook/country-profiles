@@ -19,7 +19,7 @@ Southeastern Africa, bordering the Mozambique Channel, between South Africa and 
 Africa<br>
 
 **Area**<br>
-_total_: 799,380 sq km<br>
+_total _: 799,380 sq km<br>
 _land_: 786,380 sq km<br>
 _water_: 13,000 sq km<br>
 
@@ -408,31 +408,31 @@ _selected World Heritage Site locales_: Island of Mozambique<br>
 low-income East African economy; subsistence farming dominates labor force; return to growth led by agriculture and extractive industries; Islamist insurgency threatens natural gas projects in north; ongoing foreign debt restructuring and resolution under IMF Highly Indebted Poor Countries (HIPC) initiative<br>
 
 **Real GDP (purchasing power parity)**<br>
-$41.237 billion (2022 est.)<br>
-$39.515 billion (2021 est.)<br>
-$38.597 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$50.631 billion (2023 est.)<br>
+$48.22 billion (2022 est.)<br>
+$46.206 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+5% (2023 est.)<br>
 4.36% (2022 est.)<br>
 2.38% (2021 est.)<br>
--1.22% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,300 (2022 est.)<br>
-$1,200 (2021 est.)<br>
-$1,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1,500 (2023 est.)<br>
+$1,500 (2022 est.)<br>
+$1,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$18.407 billion (2022 est.)<br>
+$20.625 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.13% (2023 est.)<br>
 10.28% (2022 est.)<br>
 6.41% (2021 est.)<br>
-3.48% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -462,17 +462,17 @@ cassava, sugarcane, maize, tomatoes, sweet potatoes, beans, bananas, onions, ric
 aluminum, petroleum products, chemicals (fertilizer, soap, paints), textiles, cement, glass, asbestos, tobacco, food, beverages<br>
 
 **Industrial production growth rate**<br>
-4.72% (2022 est.)<br>
+10.43% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-14.693 million (2022 est.)<br>
+15.191 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.79% (2022 est.)<br>
-4.25% (2021 est.)<br>
-4.07% (2020 est.)<br>
+3.54% (2023 est.)<br>
+3.62% (2022 est.)<br>
+3.98% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -489,14 +489,14 @@ _female_: 8.2%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.6%<br>
+_lowest 10%_: 1.6% (2019 est.)<br>
 _highest 10%_: 41.2% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.65% of GDP (2022 est.)<br>
-2.81% of GDP (2021 est.)<br>
-2.45% of GDP (2020 est.)<br>
+3.22% of GDP (2023 est.)<br>
+1.34% of GDP (2022 est.)<br>
+4.57% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -507,25 +507,25 @@ _expenditures_: $4.591 billion (2019 est.)<br>
 -5.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+78.62% of GDP (2022 est.)<br>
 84.16% of GDP (2021 est.)<br>
 101.39% of GDP (2020 est.)<br>
-78.88% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-22.75% (of GDP) (2021 est.)<br>
+23.25% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$6.295 billion (2022 est.)<br>
--$3.601 billion (2021 est.)<br>
--$3.9 billion (2020 est.)<br>
+-$2.426 billion (2023 est.)<br>
+-$6.88 billion (2022 est.)<br>
+-$3.436 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$9.289 billion (2023 est.)<br>
 $9.409 billion (2022 est.)<br>
-$6.404 billion (2021 est.)<br>
-$4.37 billion (2020 est.)<br>
+$6.526 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -537,9 +537,9 @@ coal, aluminum, coke, natural gas, gold (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$15.913 billion (2022 est.)<br>
-$10.392 billion (2021 est.)<br>
-$8.661 billion (2020 est.)<br>
+$11.18 billion (2023 est.)<br>
+$15.932 billion (2022 est.)<br>
+$10.534 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -551,9 +551,9 @@ ships, refined petroleum, iron alloys, chromium ore, refined copper (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$3.515 billion (2023 est.)<br>
 $2.939 billion (2022 est.)<br>
 $3.781 billion (2021 est.)<br>
-$4.075 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -562,11 +562,11 @@ $10.48 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: meticais (MZM) per US dollar -<br>
+63.886 (2023 est.)<br>
 63.851 (2022 est.)<br>
 65.465 (2021 est.)<br>
 69.465 (2020 est.)<br>
 62.548 (2019 est.)<br>
-60.326 (2018 est.)<br>
 
 ## Energy
 
@@ -691,11 +691,11 @@ Armed Forces for the Defense of Mozambique (Forcas Armadas de Defesa de Mocambiq
 <strong>note 1: </strong>the FADM and other security forces are referred to collectively as the Defense and Security Forces (DFS)<br><strong><br>note 2:</strong> the PRM, SERNIC, and the UIR are responsible for law enforcement and internal security; the Border Security Force is responsible for protecting the country’s international borders and for carrying out police duties within 24 miles of borders<br><strong><br>note 3</strong>: the Presidential Guard provides security for the president, and the Force for the Protection of High-level Individuals provides security for senior-level officials at the national and provincial levels<br><br><strong>note 4:</strong> in 2023, the Mozambique Government legalized local militias that have been assisting security forces operating in Cabo Delgado against Islamic militants since 2020; this Local Force is comprised of ex-combatants and other civilians and receives training, uniforms, weapons, and logistical support from the FADM<br>
 
 **Military expenditures**<br>
-1.2% of GDP (2022 est.)<br>
+1.5% of GDP (2023 est.)<br>
+1.3% of GDP (2022 est.)<br>
 1.2% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
 1.2% of GDP (2019 est.)<br>
-1.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information limited and varied; estimated 12,000 active personnel (11,000 Army and about 1,000 Air Force and Navy) (2023)<br>
@@ -713,7 +713,7 @@ the FADM is responsible for external security, cooperating with police on intern
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

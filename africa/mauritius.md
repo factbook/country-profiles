@@ -19,7 +19,7 @@ Southern Africa, island in the Indian Ocean, about 800 km (500 mi) east of Madag
 Africa<br>
 
 **Area**<br>
-_total_: 2,040 sq km<br>
+_total _: 2,040 sq km<br>
 _land_: 2,030 sq km<br>
 _water_: 10 sq km<br>
 <strong>note:</strong> includes Agalega Islands, Cargados Carajos Shoals (Saint Brandon), and Rodrigues<br>
@@ -376,31 +376,31 @@ _selected World Heritage Site locales_: Aapravasi Ghat; Le Morne Cultural Landsc
 upper middle-income Indian Ocean island economy; diversified portfolio; investing in maritime security; strong tourism sector decimated by COVID-19; expanding in information and financial services; environmentally fragile<br>
 
 **Real GDP (purchasing power parity)**<br>
-$28.838 billion (2022 est.)<br>
-$26.486 billion (2021 est.)<br>
-$25.614 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$33.53 billion (2023 est.)<br>
+$31.35 billion (2022 est.)<br>
+$28.793 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+6.95% (2023 est.)<br>
 8.88% (2022 est.)<br>
 3.4% (2021 est.)<br>
--14.55% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$22,800 (2022 est.)<br>
-$20,900 (2021 est.)<br>
-$20,200 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$26,600 (2023 est.)<br>
+$24,800 (2022 est.)<br>
+$22,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$12.949 billion (2022 est.)<br>
+$14.397 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.05% (2023 est.)<br>
 10.77% (2022 est.)<br>
 4.03% (2021 est.)<br>
-2.58% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -428,17 +428,17 @@ sugarcane, chicken, pumpkins/squash, eggs, potatoes, tomatoes, bananas, onions, 
 food processing (largely sugar milling), textiles, clothing, mining, chemicals, metal products, transport equipment, nonelectrical machinery, tourism<br>
 
 **Industrial production growth rate**<br>
-6.74% (2022 est.)<br>
+10.47% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-583,000 (2022 est.)<br>
+588,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+6.06% (2023 est.)<br>
 6.32% (2022 est.)<br>
 7.72% (2021 est.)<br>
-8.63% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -455,14 +455,14 @@ _female_: 32.9%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9%<br>
+_lowest 10%_: 2.9% (2017 est.)<br>
 _highest 10%_: 29.9% (2017 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-2.11% of GDP (2022 est.)<br>
+1.94% of GDP (2023 est.)<br>
+2.12% of GDP (2022 est.)<br>
 2.37% of GDP (2021 est.)<br>
-2.5% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -479,19 +479,19 @@ _expenditures_: $3.675 billion (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-19.02% (of GDP) (2022 est.)<br>
+19.05% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.486 billion (2022 est.)<br>
+-$654.051 million (2023 est.)<br>
+-$1.437 billion (2022 est.)<br>
 -$1.497 billion (2021 est.)<br>
--$1.003 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$5.005 billion (2022 est.)<br>
+$5.499 billion (2023 est.)<br>
+$5.004 billion (2022 est.)<br>
 $3.194 billion (2021 est.)<br>
-$3.088 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -503,9 +503,9 @@ garments, fish, raw sugar, fertilizers, diamonds (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$8.037 billion (2022 est.)<br>
+$8.038 billion (2023 est.)<br>
+$8.052 billion (2022 est.)<br>
 $6.057 billion (2021 est.)<br>
-$5.222 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -517,9 +517,9 @@ refined petroleum, coal, fish, cars, packaged medicine (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$7.248 billion (2023 est.)<br>
 $7.793 billion (2022 est.)<br>
 $8.563 billion (2021 est.)<br>
-$7.291 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -528,11 +528,11 @@ $232.17 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Mauritian rupees (MUR) per US dollar -<br>
+45.267 (2023 est.)<br>
 44.183 (2022 est.)<br>
 41.692 (2021 est.)<br>
 39.347 (2020 est.)<br>
 35.474 (2019 est.)<br>
-33.934 (2018 est.)<br>
 
 ## Energy
 

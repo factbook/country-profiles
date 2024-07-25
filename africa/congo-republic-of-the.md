@@ -19,7 +19,7 @@ Central Africa, bordering the South Atlantic Ocean, between Angola and Gabon<br>
 Africa<br>
 
 **Area**<br>
-_total_: 342,000 sq km<br>
+_total _: 342,000 sq km<br>
 _land_: 341,500 sq km<br>
 _water_: 500 sq km<br>
 
@@ -412,31 +412,31 @@ _selected World Heritage Site locales_: Sangha Trinational Forest; Forest Massif
 primarily an oil- and natural resources-based economy; recovery from mid-2010s oil devaluation has been slow and curtailed by COVID-19; extreme poverty increasing, particularly in southern rural regions; attempting to implement recommended CEMAC reforms; increasing likelihood of debt default<br>
 
 **Real GDP (purchasing power parity)**<br>
-$21.913 billion (2022 est.)<br>
-$21.594 billion (2021 est.)<br>
-$21.377 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$38.163 billion (2023 est.)<br>
+$37.448 billion (2022 est.)<br>
+$36.904 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+1.91% (2023 est.)<br>
 1.48% (2022 est.)<br>
 1.02% (2021 est.)<br>
--6.27% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,700 (2022 est.)<br>
-$3,700 (2021 est.)<br>
-$3,700 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$6,200 (2023 est.)<br>
+$6,300 (2022 est.)<br>
+$6,300 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$15.817 billion (2022 est.)<br>
+$15.321 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.3% (2023 est.)<br>
 3.04% (2022 est.)<br>
 1.72% (2021 est.)<br>
-1.8% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -466,17 +466,17 @@ cassava, sugarcane, oil palm fruit, bananas, plantains, root vegetables, game me
 petroleum extraction, cement, lumber, brewing, sugar, palm oil, soap, flour, cigarettes<br>
 
 **Industrial production growth rate**<br>
--0.62% (2022 est.)<br>
+0.75% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.384 million (2022 est.)<br>
+2.461 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-20.48% (2022 est.)<br>
-22.62% (2021 est.)<br>
-22.67% (2020 est.)<br>
+20.05% (2023 est.)<br>
+20.26% (2022 est.)<br>
+22.08% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -495,9 +495,9 @@ _lowest 10%_: 2.1%<br>
 _highest 10%_: 37.1% (2005)<br>
 
 **Remittances**<br>
-0% of GDP (2021 est.)<br>
-0.11% of GDP (2020 est.)<br>
-0.19% of GDP (2019 est.)<br>
+0.02% of GDP (2023 est.)<br>
+0.02% of GDP (2022 est.)<br>
+0.3% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -512,19 +512,19 @@ _expenditures_: $2.628 billion (2018 est.)<br>
 128.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-8.32% (of GDP) (2020 est.)<br>
+6.51% (of GDP) (2021 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$1.716 billion (2021 est.)<br>
 $1.441 billion (2020 est.)<br>
 $1.632 billion (2019 est.)<br>
--$3.596 billion (2016 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$7.752 billion (2021 est.)<br>
 $4.67 billion (2020 est.)<br>
 $7.855 billion (2019 est.)<br>
-$4.6 billion (2016 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -536,9 +536,9 @@ crude petroleum, refined copper, wood, tin ores, rare earth ores (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$4.487 billion (2021 est.)<br>
 $3.279 billion (2020 est.)<br>
 $4.945 billion (2019 est.)<br>
-$7,291,015,964 (2016 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -550,9 +550,9 @@ poultry, garments, vaccines, ships, fish (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$715.391 million (2023 est.)<br>
+$835.649 million (2022 est.)<br>
 $828.56 million (2021 est.)<br>
-$1.141 billion (2020 est.)<br>
-$988.316 million (2019 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -561,11 +561,11 @@ $4.721 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
-555.446 (2018 est.)<br>
 
 ## Energy
 
@@ -685,11 +685,11 @@ Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese A
 <strong>note:</strong> the National Gendarmerie is a paramilitary force with domestic law enforcement and security responsibilities; it is under the Ministry of Defense, but also reports to the Ministry of Interior; the Ministry of Interior also controls the National Police<br>
 
 **Military expenditures**<br>
+2% of GDP (2023 est.)<br>
 1.8% of GDP (2022 est.)<br>
 2.5% of GDP (2021 est.)<br>
 3.2% of GDP (2020 est.)<br>
 2.3% of GDP (2019 est.)<br>
-2.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12,000 active-duty troops (including 2,000 Gendarmerie) (2023)<br>

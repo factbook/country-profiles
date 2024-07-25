@@ -19,7 +19,7 @@ Northern Asia, between China and Russia<br>
 Asia<br>
 
 **Area**<br>
-_total_: 1,564,116 sq km<br>
+_total _: 1,564,116 sq km<br>
 _land_: 1,553,556 sq km<br>
 _water_: 10,560 sq km<br>
 
@@ -396,31 +396,31 @@ _selected World Heritage Site locales_: Uvs Nuur Basin (n); Orkhon Valley Cultur
 lower middle-income East Asian economy; large human capital improvements over last 3 decades; agricultural and natural resource rich; export and consumption-led growth; high inflation due to supply bottlenecks and increased food and energy prices; currency depreciation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$41.029 billion (2022 est.)<br>
-$39.063 billion (2021 est.)<br>
-$38.434 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$56.264 billion (2023 est.)<br>
+$52.572 billion (2022 est.)<br>
+$50.053 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+7.02% (2023 est.)<br>
 5.03% (2022 est.)<br>
 1.64% (2021 est.)<br>
--4.56% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$12,100 (2022 est.)<br>
-$11,700 (2021 est.)<br>
-$11,700 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$16,300 (2023 est.)<br>
+$15,500 (2022 est.)<br>
+$15,000 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$17.146 billion (2022 est.)<br>
+$19.872 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+10.35% (2023 est.)<br>
 15.15% (2022 est.)<br>
 7.35% (2021 est.)<br>
-3.8% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -450,17 +450,17 @@ milk, wheat, potatoes, lamb/mutton, goat milk, beef, goat meat, bison milk, shee
 construction and construction materials; mining (coal, copper, molybdenum, fluorspar, tin, tungsten, gold); oil; food and beverages; processing of animal products, cashmere and natural fiber manufacturing<br>
 
 **Industrial production growth rate**<br>
--4.52% (2022 est.)<br>
+12.57% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.389 million (2022 est.)<br>
+1.403 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+6.13% (2023 est.)<br>
 6.21% (2022 est.)<br>
 7.75% (2021 est.)<br>
-6.59% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -473,18 +473,18 @@ _female_: 22.4%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-32.7 (2018 est.)<br>
+31.4 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.3%<br>
-_highest 10%_: 25.7% (2018 est.)<br>
+_lowest 10%_: 3.4% (2022 est.)<br>
+_highest 10%_: 24.6% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+2.21% of GDP (2023 est.)<br>
 2.33% of GDP (2022 est.)<br>
 3.08% of GDP (2021 est.)<br>
-4.12% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -505,15 +505,15 @@ _expenditures_: $4.979 billion (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$121.266 million (2023 est.)<br>
 -$2.303 billion (2022 est.)<br>
 -$2.108 billion (2021 est.)<br>
--$674.612 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$15.501 billion (2023 est.)<br>
 $10.989 billion (2022 est.)<br>
 $8.95 billion (2021 est.)<br>
-$7.646 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -525,9 +525,9 @@ coal, copper ore, gold, animal hair, iron ore (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$13.545 billion (2023 est.)<br>
 $12.112 billion (2022 est.)<br>
 $9.256 billion (2021 est.)<br>
-$7.34 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -539,9 +539,9 @@ refined petroleum, cars, trucks, trailers, raw iron bars (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$4.782 billion (2023 est.)<br>
 $3.398 billion (2022 est.)<br>
 $4.38 billion (2021 est.)<br>
-$4.545 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -550,11 +550,11 @@ $28.046 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: togrog/tugriks (MNT) per US dollar -<br>
+3,465.737 (2023 est.)<br>
 3,140.678 (2022 est.)<br>
 2,849.289 (2021 est.)<br>
 2,813.29 (2020 est.)<br>
 2,663.541 (2019 est.)<br>
-2,472.484 (2018 est.)<br>
 
 ## Energy
 

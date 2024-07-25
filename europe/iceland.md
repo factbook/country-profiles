@@ -19,7 +19,7 @@ Northern Europe, island between the Greenland Sea and the North Atlantic Ocean, 
 Arctic Region<br>
 
 **Area**<br>
-_total_: 103,000 sq km<br>
+_total _: 103,000 sq km<br>
 _land_: 100,250 sq km<br>
 _water_: 2,750 sq km<br>
 
@@ -382,31 +382,31 @@ _selected World Heritage Site locales_: Thingvellir National Park (c); Surtsey (
 high-income north Atlantic island economy; non-EU member but market integration via European Economic Area (EEA); dominant tourism, fishing, and aluminum industries vulnerable to demand swings and volcanic activity; inflation remains above target rate; barriers to foreign business access and economic diversification<br>
 
 **Real GDP (purchasing power parity)**<br>
-$21.227 billion (2022 est.)<br>
-$19.794 billion (2021 est.)<br>
-$18.94 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$26.155 billion (2023 est.)<br>
+$25.134 billion (2022 est.)<br>
+$23.084 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-7.24% (2022 est.)<br>
-4.51% (2021 est.)<br>
--7.22% (2020 est.)<br>
+4.06% (2023 est.)<br>
+8.88% (2022 est.)<br>
+5.15% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$55,600 (2022 est.)<br>
-$53,100 (2021 est.)<br>
-$51,700 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$66,500 (2023 est.)<br>
+$65,800 (2022 est.)<br>
+$62,000 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$28.065 billion (2022 est.)<br>
+$31.02 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+8.74% (2023 est.)<br>
 8.31% (2022 est.)<br>
 4.44% (2021 est.)<br>
-2.85% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -436,17 +436,17 @@ milk, chicken, barley, lamb/mutton, potatoes, pork, beef, eggs, other meats, cuc
 tourism, fish processing; aluminum smelting; geothermal power, hydropower; medical/pharmaceutical products<br>
 
 **Industrial production growth rate**<br>
-4.27% (2022 est.)<br>
+3.24% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-231,000 (2022 est.)<br>
+239,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+3.56% (2023 est.)<br>
 3.79% (2022 est.)<br>
 6.03% (2021 est.)<br>
-5.48% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -463,14 +463,14 @@ _female_: 13.7%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4%<br>
+_lowest 10%_: 4% (2017 est.)<br>
 _highest 10%_: 22.1% (2017 est.)<br>
 <strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.69% of GDP (2022 est.)<br>
-0.75% of GDP (2021 est.)<br>
-0.77% of GDP (2020 est.)<br>
+0.66% of GDP (2023 est.)<br>
+0.67% of GDP (2022 est.)<br>
+0.74% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -481,25 +481,25 @@ _expenditures_: $11.536 billion (2018 est.)<br>
 1.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-88.46% of GDP (2022 est.)<br>
-96.68% of GDP (2021 est.)<br>
-100.61% of GDP (2020 est.)<br>
+86.5% of GDP (2022 est.)<br>
+95.92% of GDP (2021 est.)<br>
+100.32% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-23.03% (of GDP) (2022 est.)<br>
+22.52% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$577.122 million (2022 est.)<br>
--$758.255 million (2021 est.)<br>
-$200.648 million (2020 est.)<br>
+$324.663 million (2023 est.)<br>
+-$498.416 million (2022 est.)<br>
+-$687.447 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$13.044 billion (2022 est.)<br>
-$9.555 billion (2021 est.)<br>
-$7.197 billion (2020 est.)<br>
+$13.49 billion (2023 est.)<br>
+$13.109 billion (2022 est.)<br>
+$9.606 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -511,9 +511,9 @@ fish, aluminum, iron alloys, aluminum wire, animal meal (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$13.484 billion (2023 est.)<br>
 $13.146 billion (2022 est.)<br>
 $10.065 billion (2021 est.)<br>
-$7.518 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -525,9 +525,9 @@ refined petroleum, aluminum oxide, cars, carbon-based electronics, aircraft (202
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$5.809 billion (2023 est.)<br>
 $5.887 billion (2022 est.)<br>
 $7.079 billion (2021 est.)<br>
-$6.419 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -536,11 +536,11 @@ $22.055 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Icelandic kronur (ISK) per US dollar -<br>
+137.943 (2023 est.)<br>
 135.28 (2022 est.)<br>
 126.989 (2021 est.)<br>
 135.422 (2020 est.)<br>
 122.607 (2019 est.)<br>
-108.3 (2018 est.)<br>
 
 ## Energy
 

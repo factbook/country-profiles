@@ -5,7 +5,7 @@ _East & Southeast Asia / Dependencies (China)_
 ## Introduction
 
 **Background**<br>
-Colonized by the Portuguese in the 16th century, Macau was the first European settlement in the Far East. Pursuant to an agreement signed by China and Portugal in 1987, Macau became the Macau Special Administrative Region of the People's Republic of China in 1999. In this agreement, China promised that, under its "one country, two systems" formula, China's political and economic system would not be imposed on Macau, and that Macau would enjoy a "high degree of autonomy" in all matters except foreign affairs and defense for the next 50 years. However, after China's multi-year crackdown against the pro-democracy movement in nearby Hong Kong, the governments of China and the Macau Special Administrative Region worked to limit Macau's political autonomy by suppressing opposition activity in the 2021 legislative elections.<br>
+Portuguese ships began arriving in 1513. In the 1550s, Portuguese paying tribute to China settled in Macau, which became the official entrepôt for all international trade with China and Japan and the first European settlement in the Far East.  The first governor was appointed in the 17th century, but the Portuguese remained largely under the control of the Chinese. In the 1930s and ’40s Macau was declared a neutral territory during the Sino-Japanese War and World War II and became a refuge for both Chinese and Europeans. Portugal officially made Macau an overseas province in 1951.  <br><br>In April 1987, Portugal and China reached an agreement to return Macau to Chinese rule in 1999, using the Hong Kong Joint Declaration between China and the UK as a model. In this agreement, China promised that, under its "one country, two systems" formula, China's political and economic system would not be imposed on Macau, and that Macau would enjoy a "high degree of autonomy" in all matters except foreign affairs and defense for the next 50 years. However, after China's multi-year crackdown against the pro-democracy movement in nearby Hong Kong, the governments of China and the Macau Special Administrative Region worked to limit Macau's political autonomy by suppressing opposition activity in the 2021 legislative elections.<br>
 
 ## Geography
 
@@ -19,7 +19,7 @@ Eastern Asia, bordering the South China Sea and China<br>
 Southeast Asia<br>
 
 **Area**<br>
-_total_: 28 sq km<br>
+_total _: 28 sq km<br>
 _land_: 28.2 sq km<br>
 _water_: 0 sq km<br>
 
@@ -269,7 +269,7 @@ _judge selection and term of office_: justices appointed by the Macau chief exec
 _subordinate courts_: Court of Second Instance; Court of First instance; Lower Court; Administrative Court<br>
 
 **Political parties and leaders**<br>
-Alliance for a Happy Home or ABL [WONG Kit-cheng]<br>Association of Synergy of Macau ("Synergy Power" or Poder da Singeria) or PS [Vitor VAI]<br>Macau-Guangdong Union or UGM [MAK Soi-kun]<br>New Hope or NE [José Maria Pereira COUTINHO]<br>Union for Development or UPD [HO Sut Heng]<br>Union for Promoting Progress or UPP or UNIPRO [HO Ion-sang]<br>United Citizens Association of Macau or ACUM [CHAN Meng-kam]<br>Women's General Association of Macau or AGMM [HO Teng-iat]<br>
+Alliance for a Happy Home or ABL [WONG Kit-cheng]<br>Association of Synergy of Macau ("Synergy Power" or Poder da Singeria) or PS [Vitor VAI]<br>Macau-Guangdong Union or UGM [MAK Soi-kun]<br>New Hope or NE [José Maria Pereira COUTINHO]<br>Union for Development or UPD [HO Sut Heng]<br>Union for Promoting Progress or UPP or UNIPRO [HO Ion-sang]<br>United Citizens Association of Macau or ACUM [CHAN Meng-kam]<br>
 <strong>note:</strong> there is no political party ordinance, so there are no registered political parties; politically active groups register as societies or companies<br>
 
 **International organization participation**<br>
@@ -296,25 +296,25 @@ lotus blossom; national colors: green, white, yellow<br>
 high-income, Chinese special administrative region economy; known for apparel exports and gambling tourism; currency pegged to Hong Kong dollar; significant recession due to 2015 Chinese anticorruption campaign; COVID-19 further halved economic activity<br>
 
 **Real GDP (purchasing power parity)**<br>
-$36.038 billion (2022 est.)<br>
-$45.88 billion (2021 est.)<br>
-$37.139 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$71.837 billion (2023 est.)<br>
+$39.791 billion (2022 est.)<br>
+$50.626 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--21.45% (2022 est.)<br>
+80.53% (2023 est.)<br>
+-21.4% (2022 est.)<br>
 23.54% (2021 est.)<br>
--54.34% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$51,800 (2022 est.)<br>
-$66,800 (2021 est.)<br>
-$54,900 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$102,000 (2023 est.)<br>
+$57,200 (2022 est.)<br>
+$73,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$24.042 billion (2022 est.)<br>
+$47.062 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -353,13 +353,13 @@ tourism, gambling, clothing, textiles, electronics, footwear, toys<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-401,000 (2022 est.)<br>
+407,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.41% (2022 est.)<br>
-2.24% (2021 est.)<br>
-2.57% (2020 est.)<br>
+2.25% (2023 est.)<br>
+2.48% (2022 est.)<br>
+2.25% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -371,9 +371,9 @@ _female_: 6.6%<br>
 35 (2013 est.)<br>
 
 **Remittances**<br>
-0.07% of GDP (2022 est.)<br>
+0.19% of GDP (2023 est.)<br>
+0.34% of GDP (2022 est.)<br>
 0.24% of GDP (2021 est.)<br>
-0.26% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -388,19 +388,19 @@ _expenditures_: $10.165 billion (2019 est.)<br>
 0% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-19.31% (of GDP) (2021 est.)<br>
+17.07% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$1.339 billion (2022 est.)<br>
-$1.758 billion (2021 est.)<br>
-$3.785 billion (2020 est.)<br>
+$2.782 billion (2022 est.)<br>
+$2.683 billion (2021 est.)<br>
+$3.635 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$19.082 billion (2022 est.)<br>
-$26.483 billion (2021 est.)<br>
-$15.665 billion (2020 est.)<br>
+$20.985 billion (2022 est.)<br>
+$28.163 billion (2021 est.)<br>
+$15.578 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -412,9 +412,9 @@ jewelry, garments, broadcasting equipment, precious metal watches, trunks and ca
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$21.267 billion (2022 est.)<br>
-$22.889 billion (2021 est.)<br>
-$15.151 billion (2020 est.)<br>
+$21.795 billion (2022 est.)<br>
+$23.769 billion (2021 est.)<br>
+$15.214 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -426,9 +426,9 @@ jewelry, garments, electricity, broadcasting equipment, trunks and cases (2022)<
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$27.771 billion (2023 est.)<br>
 $25.971 billion (2022 est.)<br>
 $26.665 billion (2021 est.)<br>
-$25.145 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -437,11 +437,11 @@ $0 (31 December 2012)<br>
 
 **Exchange rates**<br>
 _Currency_: patacas (MOP) per US dollar -<br>
+8.063 (2023 est.)<br>
 8.065 (2022 est.)<br>
 8.006 (2021 est.)<br>
 7.989 (2020 est.)<br>
 8.07 (2019 est.)<br>
-8.073 (2018 est.)<br>
 
 ## Energy
 

@@ -19,7 +19,7 @@ Caribbean, between the Caribbean Sea and the North Atlantic Ocean, east of Puert
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 151 sq km<br>
+_total _: 151 sq km<br>
 _land_: 151 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> comprised of 16 inhabited and more than 20 uninhabited islands; includes the islands of Tortola, Anegada, Virgin Gorda, Jost van Dyke<br>

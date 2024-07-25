@@ -19,7 +19,7 @@ Western Europe, bordering the North Sea, between France and the Netherlands<br>
 Europe<br>
 
 **Area**<br>
-_total_: 30,528 sq km<br>
+_total _: 30,528 sq km<br>
 _land_: 30,278 sq km<br>
 _water_: 250 sq km<br>
 
@@ -390,31 +390,31 @@ _selected World Heritage Site locales_: Belfries of Belgium (c); Historic Brugge
 high-income, core EU and eurozone economy; slow but steady growth supported by household consumption and energy shock recovery; high public debt and structural deficits linked to social spending; aging workforce with weak productivity growth and participation rates<br>
 
 **Real GDP (purchasing power parity)**<br>
-$622.704 billion (2022 est.)<br>
-$604.509 billion (2021 est.)<br>
-$565.749 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$751.592 billion (2023 est.)<br>
+$741.47 billion (2022 est.)<br>
+$719.771 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+1.37% (2023 est.)<br>
 3.01% (2022 est.)<br>
-6.85% (2021 est.)<br>
--5.26% (2020 est.)<br>
+6.93% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$53,300 (2022 est.)<br>
-$52,200 (2021 est.)<br>
-$49,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$63,600 (2023 est.)<br>
+$63,500 (2022 est.)<br>
+$62,100 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$583.436 billion (2022 est.)<br>
+$632.217 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.05% (2023 est.)<br>
 9.6% (2022 est.)<br>
 2.44% (2021 est.)<br>
-0.74% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -444,17 +444,17 @@ sugar beets, milk, potatoes, wheat, pork, lettuce, maize, chicken, barley, pears
 engineering and metal products, motor vehicle assembly, transportation equipment, scientific instruments, processed food and beverages, chemicals, pharmaceuticals, base metals, textiles, glass, petroleum<br>
 
 **Industrial production growth rate**<br>
--0.1% (2022 est.)<br>
+-1.95% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.374 million (2022 est.)<br>
+5.432 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+5.51% (2023 est.)<br>
 5.56% (2022 est.)<br>
 6.26% (2021 est.)<br>
-5.55% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -463,11 +463,11 @@ _male_: 18.9%<br>
 _female_: 20.4%<br>
 
 **Population below poverty line**<br>
-13.2% (2021 est.)<br>
+12.3% (2022 est.)<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-26 (2020 est.)<br>
+26.6 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -475,14 +475,14 @@ _on food_: 13.5% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 4% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.7%<br>
-_highest 10%_: 21.4% (2020 est.)<br>
+_lowest 10%_: 3.6% (2021 est.)<br>
+_highest 10%_: 21.9% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+2.29% of GDP (2023 est.)<br>
 2.3% of GDP (2022 est.)<br>
-2.28% of GDP (2021 est.)<br>
-2.44% of GDP (2020 est.)<br>
+2.34% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -493,25 +493,25 @@ _expenditures_: $277.492 billion (2019 est.)<br>
 -1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-108.06% of GDP (2021 est.)<br>
-119.24% of GDP (2020 est.)<br>
-103.38% of GDP (2019 est.)<br>
+94.04% of GDP (2022 est.)<br>
+108.01% of GDP (2021 est.)<br>
+119.27% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-23.1% (of GDP) (2021 est.)<br>
+23.09% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$6.205 billion (2023 est.)<br>
 -$5.304 billion (2022 est.)<br>
 $8.233 billion (2021 est.)<br>
-$7.325 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$535.174 billion (2023 est.)<br>
 $558.271 billion (2022 est.)<br>
 $527.746 billion (2021 est.)<br>
-$413.773 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -523,9 +523,9 @@ natural gas, vaccines, refined petroleum, packaged medicine, cars (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$545.471 billion (2023 est.)<br>
 $567.164 billion (2022 est.)<br>
 $516.8 billion (2021 est.)<br>
-$403.359 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -537,9 +537,9 @@ natural gas, refined petroleum, cars, packaged medicine, vaccines (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$40.813 billion (2023 est.)<br>
 $41.274 billion (2022 est.)<br>
 $41.872 billion (2021 est.)<br>
-$33.296 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -548,11 +548,11 @@ $1,332,358,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.95 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.876 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 
 ## Energy
 
@@ -714,13 +714,13 @@ Royal Belgian Institute for Space Aeronomy-Interfederal Space Agency of Belgium 
 
 **Space program overview**<br>
 founding member of the European Space Agency (ESA), which acts as the de facto Belgian space agency as most programs are carried out under the ESA or bi-laterally with its member states; builds satellites, particularly research/science/technology and remote sensing (RS) platforms; also researches, develops, and produces a wide variety of other space technologies, including telecommunications, optics, robotics, scientific instruments, and space launch vehicle (SLV) components; supports the ESA’s SLV program with economic assistance (6% of the funding for the Ariane-5 SLV, for example), as well as legal, scientific, and technological expertise; hosts the European Space Security and Education Center (established 1968); participates in international astronomy efforts, particularly through the European Southern Observatory (ESO); participates in multiple ESA and EU space-related programs and research efforts; in addition to the ESA and EU and their individual country members, has cooperated with a variety foreign space agencies and commercial entities, including those of Argentina, China, India, Russia, South Africa, UAE, Vietnam, and the US (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

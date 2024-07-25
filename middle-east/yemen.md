@@ -19,7 +19,7 @@ Middle East, bordering the Arabian Sea, Gulf of Aden, and Red Sea, between Oman 
 Middle East<br>
 
 **Area**<br>
-_total_: 527,968 sq km<br>
+_total _: 527,968 sq km<br>
 _land_: 527,968 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes Perim, Socotra, the former Yemen Arab Republic (YAR or North Yemen), and the former People's Democratic Republic of Yemen (PDRY or South Yemen)<br>
@@ -439,13 +439,13 @@ crude oil production and petroleum refining; small-scale production of cotton te
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-6.663 million (2022 est.)<br>
+6.883 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-17.61% (2022 est.)<br>
-18.65% (2021 est.)<br>
-18.34% (2020 est.)<br>
+17.22% (2023 est.)<br>
+17.52% (2022 est.)<br>
+18.25% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -462,14 +462,14 @@ _female_: 36.3%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3%<br>
+_lowest 10%_: 3% (2014 est.)<br>
 _highest 10%_: 29.4% (2014 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-17.21% of GDP (2022 est.)<br>
-21.03% of GDP (2021 est.)<br>
-20.19% of GDP (2020 est.)<br>
+20.52% of GDP (2023 est.)<br>
+16.01% of GDP (2022 est.)<br>
+19.58% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -650,9 +650,6 @@ _key ports_: Aden, Al Ahmadi, Al Mukalla, Al Mukha, Ras Isa Marine Terminal<br>
 Republic of Yemen Government (ROYG) forces:<br><br>Ministry of Defense: Yemeni National Army, Air Force and Air Defense, Navy and Coastal Defense Forces, Border Guard, Strategic Reserve Forces (includes Special Forces and Presidential Protection Brigades, which are under the Ministry of Defense but responsible to the president), Popular Committee Forces (aka Popular Resistance Forces; government-backed tribal militia)<br><br>Ministry of Interior: Special Security Forces (paramilitary; formerly known as Central Security Forces), Political Security Organization (state security), National Security Bureau (intelligence), Counterterrorism Unit <br><br>Saudi-backed forces: paramilitary/militia border security brigades based largely on tribal or regional affiliation (based along the Saudi-Yemen border)<br><br>United Arab Emirates-backed forces include tribal and regionally based militia and paramilitary forces (concentrated in the southern governates): Southern Transitional Council (STC) forces, including the Security Belt Forces, the Shabwani and Hadrami “Elite” Forces, the Support and Backup Forces (aka Logistics and Support Forces), Facilities Protection Forces, and Anti-Terrorism Forces; Republican Forces; Joint Forces<br><br>Houthi (aka Ansarallah) forces: land, aerospace (air, missile), naval/coastal defense, presidential protection, special operations, internal security, and militia/tribal auxiliary forces (2023)<br>
 <strong>note 1: </strong>under the 2019 Riyadh Agreement, the STC forces were to be incorporated into Yemen’s Ministries of Defense and Interior under the authority of the HADI government <strong><br><br>note 2: </strong>a considerable portion--up to 70 percent by some estimates--of Yemen’s military and security forces defected in whole or in part to former president SALAH and the Houthi opposition in 2011-2015<br>
 
-**Military expenditures**<br>
-<p>prior to the start of the civil war in 2014, annual military expenditures were approximately 4-5% of Yemen's GDP </p><br>
-
 **Military and security service personnel strengths**<br>
 information limited and widely varied; Yemen Government: up to 300,000 estimated military, paramilitary, militia, and other security forces; UAE- and Saudi-backed forces: estimated 150-200,000 trained militia and paramilitary fighters; Houthis: up to 200,000 estimated fighters (2022)<br>
 
@@ -670,7 +667,7 @@ government forces under the Yemeni Ministry of Defense are responsible for terri
 
 **Terrorist group(s)**<br>
 Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham - Yemen; al-Qa'ida in the Arabian Peninsula (AQAP), Hizballah<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

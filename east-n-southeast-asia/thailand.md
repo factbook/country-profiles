@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Two unified Thai kingdoms emerged in the mid-13th century. The Sukhothai Kingdom, located in the south-central plains, gained its independence from the Khmer Empire to the east. By the late 13th century, Sukhothai’s territory extended into present-day Burma and Laos. Sukhothai lasted until the mid-15th century. The Thai Lan Na Kingdom was established in the north with its capital at Chang Mai; the Burmese conquered Lan Na in the 16th century. The Ayutthaya Kingdom (14th-18th centuries) succeeded the Sukhothai and would become known as the Siamese Kingdom. During the Ayutthaya period, the Thai/Siamese peoples consolidated their hold on what is present-day central and north-central Thailand. Following a military defeat at the hands of the Burmese in 1767, the Siamese Kingdom rose to new heights under the military ruler TAKSIN, who defeated the Burmese occupiers and expanded the kingdom’s territory into modern-day northern Thailand (formerly the Lan Na Kingdom), Cambodia, Laos, and the Malay Peninsula. The kingdom fought off additional Burmese invasions and raids in the late 1700s and early 1800s. In the mid-1800s, Western pressure led to Siam signing trade treaties that reduced the country’s sovereignty and independence. In the 1890s and 1900s, the British and French forced the kingdom to cede Cambodian, Laotian, and Malay territories that had been under Siamese control.</p> <p>A bloodless revolution in 1932 led to the establishment of a constitutional monarchy. After the Japanese invaded Thailand in 1941, the government split into a pro-Japan faction and a pro-Allied faction backed by the king. Thailand became a US treaty ally in 1954 after sending troops to Korea and later fighting alongside the US in Vietnam. Thailand since 2005 has experienced several rounds of political turmoil, including a military coup in 2006 that ousted then Prime Minister THAKSIN Chinnawat and large-scale street protests led by competing political factions in 2008, 2009, and 2010. In 2011, THAKSIN's youngest sister, YINGLAK Chinnawat, led the Puea Thai Party to an electoral win and assumed control of the government.</p> <p>In 2014, after months of major anti-government protests in Bangkok, the Constitutional Court removed YINGLAK from office, and the Royal Thai Army, led by Gen. PRAYUT Chan-ocha, then staged a coup against the caretaker government. The military-affiliated National Council for Peace and Order (NCPO) ruled the country under PRAYUT for more than four years, drafting a new constitution that allowed the military to appoint the entire 250-member Senate and required a joint meeting of the House and Senate to select the prime minister -- which effectively gave the military a veto on the selection. King PHUMIPHON Adunyadet passed away in 2016 after 70 years on the throne; his only son, WACHIRALONGKON (aka King RAMA X), formally ascended the throne in 2019. The same year, a long-delayed election allowed PRAYUT to continue his premiership, although the results were disputed and widely viewed as skewed in favor of the party aligned with the military. The country again experienced major anti-government protests in 2020. The reformist Move Forward Party won the most seats in the 2023 election but was unable to form a government, and Srettha THRAVISIN from the Pheu Thai Party replaced PRAYUT as prime minister after forming a coalition of moderate and conservative parties.</p><br>
+<p>Two unified Thai kingdoms emerged in the mid-13th century. The Sukhothai Kingdom, located in the south-central plains, gained its independence from the Khmer Empire to the east. By the late 13th century, Sukhothai’s territory extended into present-day Burma and Laos. Sukhothai lasted until the mid-15th century. The Thai Lan Na Kingdom was established in the north with its capital at Chang Mai; the Burmese conquered Lan Na in the 16th century. The Ayutthaya Kingdom (14th-18th centuries) succeeded the Sukhothai and would become known as the Siamese Kingdom. During the Ayutthaya period, the Thai/Siamese peoples consolidated their hold on what is present-day central and north-central Thailand. Following a military defeat at the hands of the Burmese in 1767, the Siamese Kingdom rose to new heights under the military ruler TAKSIN, who defeated the Burmese occupiers and expanded the kingdom’s territory into modern-day northern Thailand (formerly the Lan Na Kingdom), Cambodia, Laos, and the Malay Peninsula. In the mid-1800s, Western pressure led to Siam signing trade treaties that reduced the country’s sovereignty and independence. In the 1890s and 1900s, the British and French forced the kingdom to cede Cambodian, Laotian, and Malay territories that had been under Siamese control.</p> <p>Following a bloodless revolution in 1932 that led to the establishment of a constitutional monarchy, Thailand's political history was marked by a series of mostly bloodless coups with power concentrated among military and bureaucratic elites. Periods of civilian rule were unstable. The Cold War era saw a communist insurgency and the rise of strongman leaders. Thailand became a US treaty ally in 1954 after sending troops to Korea and later fighting alongside the US in Vietnam. In the 21st century, Thailand has experienced additional turmoil, including a military coup in 2006 that ousted then Prime Minister THAKSIN Chinnawat and large-scale street protests led by competing political factions in 2008-2010. In 2011, THAKSIN's youngest sister, YINGLAK Chinnawat, led the Puea Thai Party to an electoral win and assumed control of the government.</p> <p>In 2014, after months of major anti-government protests in Bangkok, the Constitutional Court removed YINGLAK from office, and the Army, led by Gen. PRAYUT Chan-ocha, then staged a coup against the caretaker government. The military-affiliated National Council for Peace and Order (NCPO) ruled the country under PRAYUT for more than four years, drafting a new constitution that allowed the military to appoint the entire 250-member Senate and required a joint meeting of the House and Senate to select the prime minister -- which effectively gave the military a veto on the selection. King PHUMIPHON Adunyadet passed away in 2016 after 70 years on the throne; his only son, WACHIRALONGKON (aka King RAMA X), formally ascended the throne in 2019. The same year, a long-delayed election allowed PRAYUT to continue his premiership, although the results were disputed and widely viewed as skewed in favor of the party aligned with the military. The country again experienced major anti-government protests in 2020. The reformist Move Forward Party won the most seats in the 2023 election but was unable to form a government, and Srettha THRAVISIN from the Pheu Thai Party replaced PRAYUT as prime minister after forming a coalition of moderate and conservative parties.</p><br>
 
 ## Geography
 
@@ -19,7 +19,7 @@ Southeastern Asia, bordering the Andaman Sea and the Gulf of Thailand, southeast
 Southeast Asia<br>
 
 **Area**<br>
-_total_: 513,120 sq km<br>
+_total _: 513,120 sq km<br>
 _land_: 510,890 sq km<br>
 _water_: 2,230 sq km<br>
 
@@ -370,7 +370,7 @@ _judge selection and term of office_: Supreme Court judges selected by the Judic
 _subordinate courts_: courts of first instance and appeals courts within both the judicial and administrative systems; military courts<br>
 
 **Political parties and leaders**<br>
-Action Coalition Party or ACP [ANEK Laothammathast]<br>Bhumjaithai Party (aka Phumchai Thai Party or PJT; aka Thai Pride Party) or BJT [ANUTIN Chanwirakun]<br>Chat Phatthana Kla arty (National Development Party) [KON Chatikawanit]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [VARAWUT Silpa-archa]<br>Move Forward Party or MFP [CHAITHAWAT Tulathon] <br>New Economics Party or NEP [MANUN Siwaphiromrat]<br>Palang Pracharat Party (People's State Power Party) or PPRP [PRAWIT Wongsuwan] <br>Pheu (Puea) Thai Party (For Thais Party) or PTP [PAETONGTARN Shinawatra (aka Ung In)]<br>Prachachat Party or PCC [THAWEE Sodsong]<br>Prachathipat Party (Democrat Party) or DP [CHALERMCHAI Sri-on] <br>Puea Chat Party (For Nation Party) or PCP [SARUNWUT Sarunket]<br>Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br>Seri Ruam Thai Party (Thai Liberal Party or TLP) [SERIPHISUT Temiyawet]<br>Thai Civilized Party or TCL [MONGKOLKIT Suksintharanon]<br>Thai Local Power Party or TLP [CHATCHAWAI Kong-udom]<br>Thai People Power Party or TLPT [NIKHOM Bunwiset]<br>Thai Sang Thai Party [SUDARAT Keyuraphan]<br>United Thai Nation (Ruam Thai Sang Chat) or UTN [PHIRAPHAN Saliratthawiphak]<br>
+Bhumjaithai Party (aka Phumchai Thai Party or PJT; aka Thai Pride Party) or BJT [ANUTIN Chanwirakun]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [VARAWUT Silpa-archa]<br>Move Forward Party or MFP [CHAITHAWAT Tulathon] <br>Palang Pracharat Party (People's State Power Party) or PPRP [PRAWIT Wongsuwan] <br>Pheu (Puea) Thai Party (For Thais Party) or PTP [PAETONGTARN Shinawatra (aka Ung In)]<br>Prachachat Party or PCC [THAWEE Sodsong]<br>Prachathipat Party (Democrat Party) or DP [CHALERMCHAI Sri-on] <br>Thai Sang Thai Party [SUDARAT Keyuraphan]<br>United Thai Nation (Ruam Thai Sang Chat) or UTN [PHIRAPHAN Saliratthawiphak]<br>
 
 **International organization participation**<br>
 ADB, APEC, ARF, ASEAN, BIMSTEC, BIS, CD, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE (partner), PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMOGIP, UNOOSA, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -414,31 +414,31 @@ _selected World Heritage Site locales_: Historic City of Ayutthaya (c); Historic
 upper middle-income Southeast Asian economy; substantial infrastructure; major electronics, food, and automobile parts exporter; globally used currency; extremely low unemployment; ongoing Thailand 4.0 economic development<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.255 trillion (2022 est.)<br>
-$1.223 trillion (2021 est.)<br>
-$1.205 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.516 trillion (2023 est.)<br>
+$1.488 trillion (2022 est.)<br>
+$1.452 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.6% (2022 est.)<br>
-1.49% (2021 est.)<br>
--6.07% (2020 est.)<br>
+1.88% (2023 est.)<br>
+2.46% (2022 est.)<br>
+1.57% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$17,500 (2022 est.)<br>
-$17,100 (2021 est.)<br>
-$16,900 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$21,100 (2023 est.)<br>
+$20,800 (2022 est.)<br>
+$20,300 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$495.423 billion (2022 est.)<br>
+$514.945 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+1.23% (2023 est.)<br>
 6.08% (2022 est.)<br>
 1.23% (2021 est.)<br>
--0.85% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -468,17 +468,17 @@ sugarcane, rice, cassava, oil palm fruit, maize, rubber, tropical fruits, chicke
 tourism, textiles and garments, agricultural processing, beverages, tobacco, cement, light manufacturing such as jewelry and electric appliances, computers and parts, integrated circuits, furniture, plastics, automobiles and automotive parts, agricultural machinery, air conditioning and refrigeration, ceramics, aluminum, chemical, environmental management, glass, granite and marble, leather, machinery and metal work, petrochemical, petroleum refining, pharmaceuticals, printing, pulp and paper, rubber, sugar, rice, fishing, cassava, world's second-largest tungsten producer and third-largest tin producer<br>
 
 **Industrial production growth rate**<br>
--0.67% (2022 est.)<br>
+-2.27% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-40.908 million (2022 est.)<br>
+40.814 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+0.91% (2023 est.)<br>
 0.94% (2022 est.)<br>
-1.21% (2021 est.)<br>
-1.1% (2020 est.)<br>
+1.22% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -491,7 +491,7 @@ _female_: 8.1%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-35.1 (2021 est.)<br>
+34.9 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -499,14 +499,14 @@ _on food_: 28.3% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3.3% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.2%<br>
-_highest 10%_: 27.3% (2021 est.)<br>
+_lowest 10%_: 3.2% (2021 est.)<br>
+_highest 10%_: 27.1% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+1.9% of GDP (2023 est.)<br>
 1.8% of GDP (2022 est.)<br>
 1.79% of GDP (2021 est.)<br>
-1.65% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -517,25 +517,25 @@ _expenditures_: $128.581 billion (2020 est.)<br>
 -3.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-58.56% of GDP (2021 est.)<br>
+60.35% of GDP (2022 est.)<br>
+58.48% of GDP (2021 est.)<br>
 50.32% of GDP (2020 est.)<br>
-40.14% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-14.32% (of GDP) (2021 est.)<br>
+14.38% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+$7.002 billion (2023 est.)<br>
 -$15.742 billion (2022 est.)<br>
 -$10.268 billion (2021 est.)<br>
-$20.933 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$336.871 billion (2023 est.)<br>
 $324.063 billion (2022 est.)<br>
 $295.972 billion (2021 est.)<br>
-$257.981 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -547,9 +547,9 @@ machine parts, integrated circuits, cars, trucks, vehicle parts/accessories (202
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$328.009 billion (2023 est.)<br>
 $334.478 billion (2022 est.)<br>
 $296.115 billion (2021 est.)<br>
-$232.048 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -561,9 +561,9 @@ crude petroleum, integrated circuits, gold, natural gas, vehicle parts/accessori
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$224.47 billion (2023 est.)<br>
 $216.501 billion (2022 est.)<br>
 $246.025 billion (2021 est.)<br>
-$258.104 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -572,11 +572,11 @@ $158.964 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: baht per US dollar -<br>
+34.802 (2023 est.)<br>
 35.061 (2022 est.)<br>
 31.977 (2021 est.)<br>
 31.294 (2020 est.)<br>
 31.048 (2019 est.)<br>
-32.31 (2018 est.)<br>
 
 ## Energy
 
@@ -738,7 +738,7 @@ none; in 2023, announced intentions to build a spaceport with South Korean assis
 
 **Space program overview**<br>
 has an ambitious and growing space program focused on the acquisition and operation of satellites and the development of related technologies; operates communications and remote sensing (RS) satellites; manufactures scientific/research/testing cube satellites and developing the capabilities to produce RS satellites (has historically built satellites with foreign assistance); cooperates with a range of foreign space agencies and industries, including those of other ASEAN countries, China, France, India, the Netherlands, Pakistan, Russia, South Korea, and the US; founding member of the China-led Asia-Pacific Space Cooperation Organization (APSCO); has a growing space industry, including Southeast Asia’s first dedicated satellite manufacturing facility, which opened in 2021 (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

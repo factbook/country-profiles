@@ -19,7 +19,7 @@ Eastern Asia, northern half of the Korean Peninsula bordering the Korea Bay and 
 Asia<br>
 
 **Area**<br>
-_total_: 120,538 sq km<br>
+_total _: 120,538 sq km<br>
 _land_: 120,408 sq km<br>
 _water_: 130 sq km<br>
 
@@ -272,7 +272,7 @@ _abbreviation_: DPRK<br>
 _etymology_: derived from the Chinese name for Goryeo, which was the Korean dynasty that united the peninsula in the 10th century A.D.; the North Korean name "Choson" means "[Land of the] Morning Calm"<br>
 
 **Government type**<br>
-dictatorship, single-party state; official state ideology of "Juche" or "national self-reliance"<br>
+dictatorship, single-party communist state<br>
 
 **Capital**<br>
 _name_: Pyongyang<br>
@@ -405,13 +405,13 @@ military products; machine building, electric power, chemicals; mining (coal, ir
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-15.772 million (2022 est.)<br>
+15.837 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.07% (2022 est.)<br>
-3.23% (2021 est.)<br>
-3.12% (2020 est.)<br>
+3% (2023 est.)<br>
+2.97% (2022 est.)<br>
+3.13% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -564,7 +564,7 @@ _key ports_: Ch'ongjin, Haeju Hang, Hungnam, Najin, Nampo, Senbong, Wonsan<br>
 
 **Military and security forces**<br>
 Korean People's Army (KPA): KPA Ground Forces, KPA Navy, KPA Air Force and Air Defense Forces, KPA Strategic Forces (missile forces), KPA Special Forces (special operations forces); Security Guard Command (aka Bodyguard Command); Military Security Command<br><br>Ministry of Social Security (formerly Ministry of Public Security): Border Guard General Bureau, civil security forces; Ministry of State Security: internal security, investigations (2024)<br>
-<strong>note 1</strong>: North Korea employs a systematic and intentional overlap of powers and responsibilities among its multiple internal security organizations to prevent any potential subordinate consolidation of power and assure that each unit provided a check and balance on the other <strong><br><br>note 2:</strong> the Security Guard Command protects the Kim family, other senior leadership figures, and government facilities<br><strong><br>note 3: </strong>the North also has a large paramilitary/militia force organized into the Worker Peasant Red Guard and Red Youth Guard; these organizations are present at all levels of government (province, county, ward) and are under the control of the Korean Workers' Party in peacetime, but revert to KPA control in crisis or war; they are often mobilized for domestic projects, such as road building and agricultural support<br>
+<strong>note 1</strong>: North Korea employs a systematic and intentional overlap of powers and responsibilities among its multiple internal security organizations to prevent any potential subordinate consolidation of power and assure that each unit provided a check and balance on the other; Kim Jong Un is the KPA supreme commander, while operational control of the armed forces resides in the General Staff Department (GSD), which reports directly to Kim; the GSD maintains overall control of all military forces and is charged with turning Kim’s directives into operational military orders; the Ministry of National Defense (MND) is responsible for administrative control of the military and external relations with foreign militaries<strong><br><br>note 2:</strong> the Security Guard Command protects the Kim family, other senior leadership figures, and government facilities<br><strong><br>note 3: </strong>the North also has a large paramilitary/militia force organized into the Worker Peasant Red Guard and Red Youth Guard; these organizations are present at all levels of government (province, county, ward) and are under the control of the Korean Workers' Party in peacetime, but revert to KPA control in crisis or war; they are often mobilized for domestic projects, such as road building and agricultural support<br>
 
 **Military expenditures**<br>
 defense spending is a regime priority; between 2010 and 2020, military expenditures accounted for an estimated 20-30% of North Korea's GDP annually; spending estimates ranged from $7 billion to $11 billion annually; in 2023, North Korea announced that it would spend nearly 16% of state expenditures on defense; North Korea in the 2010s and 2020s has increasingly relied on illicit activities &mdash; including cybercrime &mdash; to generate revenue for its weapons of mass destruction and ballistic missile programs to evade US and UN sanctions<br>
@@ -581,7 +581,7 @@ the KPA is equipped with older weapon systems originally acquired from the forme
 <strong>note:</strong> the bulk of the KPA is made up of conscripts; as many as 20% of North Korean males between the ages of 16 and 54 are in the military at a given time and possibly up to 30 percent of males between the ages of 18 and 27, not counting the reserves or paramilitary units; women comprise about 20% of the military by some estimates<br>
 
 **Military - note**<br>
-North Korea is one of the most militarized countries in the World, and the Korean People's Army (KPA) is one of the World’s largest military forces; founded in 1948, the KPA’s primary responsibilities are national defense and protection of the Kim regime; it also provides considerable support to domestic economic projects such as agriculture production and infrastructure construction; North Korea views the US as its primary external security threat while South Korea and Japan are treated as extensions of perceived US aggression; the North also sees South Korea’s different economic and political systems as a threat to the regime’s legitimacy; the Kim regime is driven by fears of threats to its power from internal sources as well <br><br>in addition to the invasion of South Korea and the subsequent Korean War (1950-53), North Korea from the 1960s to the 1980s launched a considerable number of limited military and subversive actions against South Korea using special forces and terrorist tactics; including aggressive skirmishes along the DMZ, overt attempts to assassinate South Korean leaders, kidnappings, the bombing of an airliner, and a failed effort in 1968 to foment an insurrection and conduct a guerrilla war in the South with more than 100 seaborne commandos; from the 1990s until 2010, the North lost two submarines and a semi-submersible boat attempting to insert infiltrators into the South (1996, 1998) and provoked several engagements in the Northwest Islands area along the disputed Northern Limit Line (NLL), including naval skirmishes between patrol boats in 1999 and 2002, the torpedoing and sinking of a South Korean Navy corvette in 2010, and the bombardment of a South Korean military installation on Yeonpyeong Island, also in 2010; since 2010, further minor incidents continue to occur periodically along the DMZ, where both the KPA and the South Korean military maintain large numbers of troops<br><br>Kim Jong Un is the KPA supreme commander, while operational control of the armed forces resides in the General Staff Department (GSD), which reports directly to Kim; the GSD maintains overall control of all military forces and is charged with turning Kim’s directives into operational military orders; the Ministry of National Defense (MND) is responsible for administrative control of the military and external relations with foreign militaries (2023)<br>
+North Korea is one of the most militarized countries in the World, and the Korean People's Army (KPA) is one of the World’s largest military forces; founded in 1948, the KPA’s primary responsibilities are national defense and protection of the Kim regime; it also provides considerable support to domestic economic projects such as agriculture production and infrastructure construction; North Korea views the US as its primary external security threat while South Korea and Japan are treated as extensions of perceived US aggression; the North also sees South Korea’s different economic and political systems as a threat to the regime’s legitimacy; the Kim regime is driven by fears of threats to its power from internal sources as well <br><br>in addition to the invasion of South Korea and the subsequent Korean War (1950-53), North Korea from the 1960s to the 1980s launched a considerable number of limited military and subversive actions against South Korea using special forces and terrorist tactics; including aggressive skirmishes along the DMZ, overt attempts to assassinate South Korean leaders, kidnappings, the bombing of an airliner, and a failed effort in 1968 to foment an insurrection and conduct a guerrilla war in the South with more than 100 seaborne commandos; from the 1990s until 2010, the North lost two submarines and a semi-submersible boat attempting to insert infiltrators into the South (1996, 1998) and provoked several engagements in the Northwest Islands area along the disputed Northern Limit Line (NLL), including naval skirmishes between patrol boats in 1999 and 2002, the torpedoing and sinking of a South Korean Navy corvette in 2010, and the bombardment of a South Korean military installation on Yeonpyeong Island, also in 2010; since 2010, further minor incidents continue to occur periodically along the DMZ, where both the KPA and the South Korean military maintain large numbers of troops<br><br>North Korea also has a history of provocative regional military actions and posturing that are of major concern to the international community, including: proliferation of military-related items; ballistic and cruise missile development and testing; WMD programs including tests of nuclear devices in 2006, 2009, 2013, 2016, and 2017; and large conventional armed forces; despite high-level efforts to ease tensions during the 2018-19 timeframe, including summits with the leaders of China, South Korea, and the US, North Korea has continued developing its WMD programs and, in recent years, issued statements condemning the US and vowing to further strengthen its military capabilities, including long range missiles and nuclear weapons (2023)<br>
 
 ## Space
 
@@ -593,12 +593,9 @@ Sohae Satellite Launching Station (aka Tongch'ang-dong Space Launch Center; Nort
 
 **Space program overview**<br>
 North Korea’s leader has emphasized the development of space capabilities, particularly space launch vehicles (SLVs) and remote sensing (RS) satellites; manufactures small satellites; manufactures and launches rockets/SLVs; note – the SLV program is closely related to North Korea’s development of intercontinental ballistic missiles (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
-
-**Disputes - international**<br>
-<strong>note: </strong>North Korea has a history of provocative regional military actions and posturing that are of major concern to the international community. These include proliferation of military-related items; ballistic and cruise missile development and testing; WMD programs including tests of nuclear devices in 2006, 2009, 2013, 2016, and 2017; and large conventional armed forces. Despite high-level efforts to ease tensions during the 2018-19 timeframe, including summits with the leaders of China, South Korea, and the US, North Korea has continued developing its WMD programs and, in recent years, issued statements condemning the US and vowing to further strengthen its military capabilities, including long range missiles and nuclear weapons. <br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: undetermined (2021)<br>

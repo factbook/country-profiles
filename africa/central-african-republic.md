@@ -19,7 +19,7 @@ Central Africa, north of Democratic Republic of the Congo<br>
 Africa<br>
 
 **Area**<br>
-_total_: 622,984 sq km<br>
+_total _: 622,984 sq km<br>
 _land_: 622,984 sq km<br>
 _water_: 0 sq km<br>
 
@@ -403,31 +403,31 @@ _selected World Heritage Site locales_: Manovo-Gounda St. Floris National Park; 
 enormous natural resources; extreme poverty; weak public institutions and infrastructure; political and gender-based violence have led to displacement of roughly 25% of population; Bangui-Douala corridor blockade reduced activity and tax collection; strong agricultural performance offset COVID-19 downturn<br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.597 billion (2022 est.)<br>
-$4.574 billion (2021 est.)<br>
-$4.53 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$5.849 billion (2023 est.)<br>
+$5.798 billion (2022 est.)<br>
+$5.769 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+0.87% (2023 est.)<br>
 0.5% (2022 est.)<br>
 0.98% (2021 est.)<br>
-0.9% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$800 (2022 est.)<br>
-$800 (2021 est.)<br>
-$800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1,000 (2023 est.)<br>
+$1,000 (2022 est.)<br>
+$1,100 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.383 billion (2022 est.)<br>
+$2.555 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.98% (2023 est.)<br>
 5.58% (2022 est.)<br>
 4.26% (2021 est.)<br>
-1.71% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -451,17 +451,17 @@ cassava, groundnuts, yams, coffee, maize, sesame seeds, bananas, taro, sugarcane
 gold and diamond mining, logging, brewing, sugar refining<br>
 
 **Industrial production growth rate**<br>
--1.5% (2022 est.)<br>
+-10.28% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.039 million (2022 est.)<br>
+2.114 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+6.29% (2023 est.)<br>
 6.34% (2022 est.)<br>
-6.81% (2021 est.)<br>
-6.66% (2020 est.)<br>
+6.68% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -478,9 +478,14 @@ _female_: 13.1%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.1%<br>
+_lowest 10%_: 2.1% (2021 est.)<br>
 _highest 10%_: 33.1% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
+
+**Remittances**<br>
+0% of GDP (2023 est.)<br>
+0% of GDP (2022 est.)<br>
+0% of GDP (2021 est.)<br>
 
 **Budget**<br>
 _revenues_: $418 million (2019 est.)<br>
@@ -519,7 +524,7 @@ gold, wood, diamonds, vehicle parts/accessories, electrical machinery (2022)<br>
 $784.669 million (2022 est.)<br>
 $778.395 million (2021 est.)<br>
 $799.195 million (2020 est.)<br>
-<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
+<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Cameroon 28%, US 8%, China 7%, France 6%, South Korea 5% (2022)<br>
@@ -530,9 +535,9 @@ refined petroleum, engines, aircraft, prefabricated buildings, packaged medicine
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$374.405 million (2022 est.)<br>
 $483.872 million (2021 est.)<br>
 $432.524 million (2020 est.)<br>
-$350.305 million (2019 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -541,11 +546,11 @@ $691.5 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
-555.446 (2018 est.)<br>
 
 ## Energy
 

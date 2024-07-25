@@ -19,7 +19,7 @@ Oceania, group of islands in the South Pacific Ocean, about halfway between Hawa
 Oceania<br>
 
 **Area**<br>
-_total_: 236 sq km<br>
+_total _: 236 sq km<br>
 _land_: 236 sq km<br>
 _water_: 0 sq km<br>
 

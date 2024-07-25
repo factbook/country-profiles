@@ -19,7 +19,7 @@ Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, east o
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 9,104 sq km<br>
+_total _: 9,104 sq km<br>
 _land_: 8,959 sq km<br>
 _water_: 145 sq km<br>
 
@@ -68,7 +68,7 @@ population clusters tend to be found along the coast, the largest of these is fo
 periodic droughts; hurricanes<br>
 
 **Geography - note**<br>
-important location along the Mona Passage - a key shipping lane to the Panama Canal; San Juan is one of the biggest and best natural harbors in the Caribbean; many small rivers and high central mountains ensure land is well watered; south coast relatively dry; fertile coastal plain belt in north<br>
+important location along the Mona Passage -- a key shipping lane to the Panama Canal; San Juan is one of the biggest and best natural harbors in the Caribbean; many small rivers and high central mountains ensure land is well watered; south coast relatively dry; fertile coastal plain belt in north<br>
 
 ## People and Society
 
@@ -333,25 +333,25 @@ _selected World Heritage Site locales_: La Fortaleza and San Juan National Histo
 US Caribbean island territorial economy; hit hard by COVID-19 and hurricanes; declining labor force and job growth after a decade of continuous recession; capital-based industry and tourism; high poverty; energy import-dependent<br>
 
 **Real GDP (purchasing power parity)**<br>
-$110.501 billion (2022 est.)<br>
-$106.908 billion (2021 est.)<br>
-$106.447 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$137.828 billion (2023 est.)<br>
+$137.056 billion (2022 est.)<br>
+$132.334 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.36% (2022 est.)<br>
-0.43% (2021 est.)<br>
--4.2% (2020 est.)<br>
+0.56% (2023 est.)<br>
+3.57% (2022 est.)<br>
+0.39% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$34,300 (2022 est.)<br>
-$32,800 (2021 est.)<br>
-$32,400 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$43,000 (2023 est.)<br>
+$42,600 (2022 est.)<br>
+$40,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$113.435 billion (2022 est.)<br>
+$117.902 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -387,13 +387,13 @@ pharmaceuticals, electronics, apparel, food products, tourism<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.16 million (2022 est.)<br>
+1.154 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+5.96% (2023 est.)<br>
 6% (2022 est.)<br>
 7.9% (2021 est.)<br>
-8.89% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -435,7 +435,7 @@ packaged medicines, medical cultures/vaccines, hormones, orthopedic and medical 
 $51.509 billion (2022 est.)<br>
 $45.052 billion (2021 est.)<br>
 $44.513 billion (2020 est.)<br>
-<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
+<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Ireland 38%, Singapore 9%, Switzerland 8%, South Korea 5% (2019)<br>

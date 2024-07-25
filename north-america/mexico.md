@@ -19,7 +19,7 @@ North America, bordering the Caribbean Sea and the Gulf of Mexico, between Beliz
 North America<br>
 
 **Area**<br>
-_total_: 1,964,375 sq km<br>
+_total _: 1,964,375 sq km<br>
 _land_: 1,943,945 sq km<br>
 _water_: 20,430 sq km<br>
 
@@ -84,7 +84,7 @@ most of the population is found in the middle of the country between the states 
 <p>tsunamis along the Pacific coast, volcanoes and destructive earthquakes in the center and south, and hurricanes on the Pacific, Gulf of Mexico, and Caribbean coasts</p><p><strong>volcanism:</strong> volcanic activity in the central-southern part of the country; the volcanoes in Baja California are mostly dormant; Colima (3,850 m), which erupted in 2010, is Mexico's most active volcano and is responsible for causing periodic evacuations of nearby villagers; it has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Popocatepetl (5,426 m) poses a threat to Mexico City; other historically active volcanoes include Barcena, Ceboruco, El Chichon, Michoacan-Guanajuato, Pico de Orizaba, San Martin, Socorro, and Tacana; see note 2 under "Geography - note"</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> strategic location on southern border of the US; Mexico is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 2:</strong> some of the world's most important food crops were first domesticated in Mexico; the "Three Sisters" companion plants - winter squash, maize (corn), and climbing beans - served as the main agricultural crops for various North American Indian groups; all three apparently originated in Mexico but then were widely disseminated through much of North America; avocado, amaranth, and chili peppers also emanate from Mexico, as does vanilla, the world's most popular aroma and flavor spice; although cherry tomatoes originated in Ecuador, their domestication in Mexico transformed them into the larger modern tomato<br><br><strong>note 3: </strong>the Sac Actun cave system at 348 km (216 mi) is the longest underwater cave in the world and the second longest cave worldwide, after Mammoth Cave in the United States (see "Geography - note" under United States)<br><br><strong>note 4:</strong> the prominent Yucatán Peninsula that divides the Gulf of Mexico from the Caribbean Sea is shared by Mexico, Guatemala, and Belize; just on the northern coast of Yucatan, near the town of Chicxulub (pronounce cheek-sha-loob), lie the remnants of a massive crater (some 150 km in diameter and extending well out into the Gulf of Mexico); formed by an asteroid or comet when it struck the earth 66 million years ago, the impact is now widely accepted as initiating a worldwide climate disruption that caused a mass extinction of 75% of all the earth's plant and animal species - including the non-avian dinosaurs</p><br>
+<p><strong>note 1:</strong> strategic location on southern border of the US; Mexico is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 2:</strong> some of the world's most important food crops were first domesticated in Mexico; the "Three Sisters" companion plants -- winter squash, maize (corn), and climbing beans -- served as the main agricultural crops for various North American Indian groups; all three apparently originated in Mexico but then were widely disseminated through much of North America; avocado, amaranth, and chili peppers also emanate from Mexico, as does vanilla, the world's most popular aroma and flavor spice; although cherry tomatoes originated in Ecuador, their domestication in Mexico transformed them into the larger modern tomato<br><br><strong>note 3: </strong>the Sac Actun cave system at 348 km (216 mi) is the longest underwater cave in the world and the second longest cave worldwide, after Mammoth Cave in the United States (see "Geography - note" under United States)<br><br><strong>note 4:</strong> the prominent Yucatán Peninsula that divides the Gulf of Mexico from the Caribbean Sea is shared by Mexico, Guatemala, and Belize; just on the northern coast of Yucatan, near the town of Chicxulub (pronounce cheek-sha-loob), lie the remnants of a massive crater (some 150 km in diameter and extending well out into the Gulf of Mexico); formed by an asteroid or comet when it struck the earth 66 million years ago, the impact is now widely accepted as initiating a worldwide climate disruption that caused a mass extinction of 75% of all the earth's plant and animal species -- including the non-avian dinosaurs</p><br>
 
 ## People and Society
 
@@ -429,31 +429,31 @@ _selected World Heritage Site locales_: Historic Mexico City (c); Earliest 16th-
 <p>upper-middle income economy; highly integrated with US via trade and nearshore manufacturing; low unemployment; inflation gradually decreasing amid tight monetary policy; state intervention in energy sector and public infrastructure projects; challenges from income inequality, corruption, and cartel-based violence</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.583 trillion (2022 est.)<br>
-$2.486 trillion (2021 est.)<br>
-$2.349 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2.873 trillion (2023 est.)<br>
+$2.783 trillion (2022 est.)<br>
+$2.678 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.9% (2022 est.)<br>
-5.84% (2021 est.)<br>
--8.65% (2020 est.)<br>
+3.23% (2023 est.)<br>
+3.95% (2022 est.)<br>
+5.74% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$20,300 (2022 est.)<br>
-$19,600 (2021 est.)<br>
-$18,600 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$22,400 (2023 est.)<br>
+$21,800 (2022 est.)<br>
+$21,100 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.466 trillion (2022 est.)<br>
+$1.789 trillion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+5.53% (2023 est.)<br>
 7.9% (2022 est.)<br>
 5.69% (2021 est.)<br>
-3.4% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -483,17 +483,17 @@ sugarcane, maize, milk, oranges, sorghum, tomatoes, chicken, wheat, chilies/pepp
 food and beverages, tobacco, chemicals, iron and steel, petroleum, mining, textiles, clothing, motor vehicles, consumer durables, tourism<br>
 
 **Industrial production growth rate**<br>
-5% (2022 est.)<br>
+3.52% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-58.718 million (2022 est.)<br>
+60.042 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+2.81% (2023 est.)<br>
 3.26% (2022 est.)<br>
-4.09% (2021 est.)<br>
-4.44% (2020 est.)<br>
+4.02% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -506,7 +506,7 @@ _female_: 8.6%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-45.4 (2020 est.)<br>
+43.5 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -514,14 +514,14 @@ _on food_: 26.2% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3.6% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.8%<br>
-_highest 10%_: 35.5% (2020 est.)<br>
+_lowest 10%_: 2.1% (2022 est.)<br>
+_highest 10%_: 34.4% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-4.17% of GDP (2022 est.)<br>
-4.12% of GDP (2021 est.)<br>
-3.83% of GDP (2020 est.)<br>
+3.7% of GDP (2023 est.)<br>
+4.2% of GDP (2022 est.)<br>
+4.19% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -532,25 +532,25 @@ _expenditures_: $313.358 billion (2020 est.)<br>
 -1.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-44.89% of GDP (2021 est.)<br>
+44.05% of GDP (2022 est.)<br>
+44.98% of GDP (2021 est.)<br>
 45.85% of GDP (2020 est.)<br>
-41.29% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-13.45% (of GDP) (2021 est.)<br>
+13.44% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$18.046 billion (2022 est.)<br>
--$8.343 billion (2021 est.)<br>
-$22.522 billion (2020 est.)<br>
+-$5.716 billion (2023 est.)<br>
+-$17.667 billion (2022 est.)<br>
+-$4.493 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$626.298 billion (2022 est.)<br>
-$533.22 billion (2021 est.)<br>
-$443.575 billion (2020 est.)<br>
+$649.312 billion (2023 est.)<br>
+$630.384 billion (2022 est.)<br>
+$537.714 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -562,9 +562,9 @@ cars, computers, vehicle parts/accessories, crude petroleum, trucks (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$668.59 billion (2022 est.)<br>
-$558.969 billion (2021 est.)<br>
-$424.896 billion (2020 est.)<br>
+$673.828 billion (2023 est.)<br>
+$672.914 billion (2022 est.)<br>
+$560.842 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -576,9 +576,9 @@ refined petroleum, vehicle parts/accessories, machine parts, integrated circuits
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$214.317 billion (2023 est.)<br>
 $201.119 billion (2022 est.)<br>
 $207.799 billion (2021 est.)<br>
-$199.069 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -587,11 +587,11 @@ $448.268 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Mexican pesos (MXN) per US dollar -<br>
+17.759 (2023 est.)<br>
 20.127 (2022 est.)<br>
 20.272 (2021 est.)<br>
 21.486 (2020 est.)<br>
 19.264 (2019 est.)<br>
-19.244 (2018 est.)<br>
 
 ## Energy
 
@@ -731,11 +731,11 @@ the Mexican Armed Forces (Fuerzas Armadas de México) are divided between the S
 <strong>note:</strong> the National Guard was formed in 2019 of personnel from the former Federal Police (disbanded in December 2019) and military police units of the Army and Navy; up until September 2022, the Guard was under the civilian-led Secretariat of Security and Civilian Protection, while the SEDENA had day-to-day operational control and provided the commanders and the training; in September 2022, complete control of the Guard was handed over to the SEDENA/Mexican Army; the Guard, along with state and municipal police, is responsible for enforcing the law and maintaining order; the regular military also actively supports police operations<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2023 est.)<br>
 0.7% of GDP (2022 est.)<br>
-0.7% of GDP (2021)<br>
-0.6% of GDP (2020)<br>
-0.5% of GDP (2019)<br>
-0.5% of GDP (2018)<br>
+0.7% of GDP (2021 est.)<br>
+0.6% of GDP (2020 est.)<br>
+0.5% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 225,000 armed forces personnel (165,000 Army; 10,000 Air Force; 50,000 Navy, including about 20,000 marines); approximately 110,000 National Guard personnel (2023)<br>
@@ -757,7 +757,7 @@ Mexican Space Agency (Agencia Espacial Mexicana or AEM; established 2010 and beg
 
 **Space program overview**<br>
 the AEM’s focus is on coordinating Mexico’s space policy and the country’s commercial space sector, including developing specialists, technologies, and infrastructure, and acquiring satellites; manufactures and operates communications and scientific satellites; conducts research in a range of space-related capabilities and technologies, including satellites and satellite payloads, telecommunications, remote sensing, robotics, Earth and weather sciences, astronomy, and astrophysics; has relations with a variety of foreign space agencies and commercial space industries, including those of Argentina, Brazil, Chile, the European Space Agency (ESA) and its member states (particularly France, Germany, and the UK), India, Peru, Russia, Ukraine, and the US; leading member of the Latin American and Caribbean Space Agency (ALCE) (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

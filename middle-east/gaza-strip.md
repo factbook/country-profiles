@@ -19,7 +19,7 @@ Middle East, bordering the Mediterranean Sea, between Egypt and Israel<br>
 Middle East<br>
 
 **Area**<br>
-_total_: 360 sq km<br>
+_total _: 360 sq km<br>
 _land_: 360 sq km<br>
 _water_: 0 sq km<br>
 
@@ -59,7 +59,7 @@ population concentrated in major cities, particularly Gaza City in the north<br>
 droughts<br>
 
 **Geography - note**<br>
-once a strategic strip of land along Mideast-North African trade routes that has experienced an incredibly turbulent history; the town of Gaza itself has been besieged countless times in its history; Israel evacuated its civilian settlements and soldiers from the Gaza Strip in 2005<br>
+once a strategic strip of land along Mideast-North African trade routes that has experienced an incredibly turbulent history<br>
 
 ## People and Society
 
@@ -263,31 +263,31 @@ _etymology_: named for the largest city in the enclave, Gaza, whose settlement c
 ## Economy
 
 **Real GDP (purchasing power parity)**<br>
-$28.862 billion (2022 est.)<br>
-$27.769 billion (2021 est.)<br>
-$25.95 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars; entry includes West Bank and Gaza Strip<br>
+$27.418 billion (2023 est.)<br>
+$29.016 billion (2022 est.)<br>
+$27.878 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars; entry includes West Bank and Gaza Strip<br>
 
 **Real GDP growth rate**<br>
-3.93% (2022 est.)<br>
+-5.51% (2023 est.)<br>
+4.08% (2022 est.)<br>
 7.01% (2021 est.)<br>
--11.32% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency; entry includes West Bank and Gaza Strip<br>
 
 **Real GDP per capita**<br>
-$5,700 (2022 est.)<br>
-$5,600 (2021 est.)<br>
-$5,400 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars; entry includes West Bank and Gaza Strip<br>
+$5,300 (2023 est.)<br>
+$5,800 (2022 est.)<br>
+$5,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars; entry includes West Bank and Gaza Strip<br>
 
 **GDP (official exchange rate)**<br>
-$19.112 billion (2022 est.)<br>
+$17.396 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate; entry includes West Bank and Gaza Strip<br>
 
 **Inflation rate (consumer prices)**<br>
+5.87% (2023 est.)<br>
 3.74% (2022 est.)<br>
 1.24% (2021 est.)<br>
--0.74% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices; entry includes West Bank and Gaza Strip<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -313,7 +313,7 @@ tomatoes, milk, cucumbers/gherkins, olives, potatoes, sheep milk, eggplants, pum
 textiles, food processing, furniture<br>
 
 **Industrial production growth rate**<br>
-3.36% (2022 est.)<br>
+-8.57% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency; entry includes West Bank and Gaza Strip<br>
 
 **Labor force**<br>
@@ -323,7 +323,7 @@ textiles, food processing, furniture<br>
 **Unemployment rate**<br>
 24.42% (2022 est.)<br>
 26.39% (2021 est.)<br>
-25.89% (2020 est.)<br>
+25.9% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment; entry includes West Bank and Gaza Strip<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -341,14 +341,14 @@ _female_: 69%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality; entry includes West Bank and Gaza Strip<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9%<br>
+_lowest 10%_: 2.9% (2016 est.)<br>
 _highest 10%_: 25.2% (2016 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population; entry includes West Bank and Gaza Strip<br>
 
 **Remittances**<br>
-21.19% of GDP (2022 est.)<br>
+21.84% of GDP (2023 est.)<br>
+21.13% of GDP (2022 est.)<br>
 20.77% of GDP (2021 est.)<br>
-16.48% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities; entry includes West Bank and Gaza Strip<br>
 
 **Budget**<br>
@@ -361,13 +361,13 @@ see entry for the West Bank<br>
 <b>note:</b> central government tax revenue as a % of GDP; entry includes West Bank and Gaza Strip<br>
 
 **Current account balance**<br>
--$2.865 billion (2022 est.)<br>
+-$2.037 billion (2022 est.)<br>
 -$1.778 billion (2021 est.)<br>
 -$1.903 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars; entry includes West Bank and Gaza Strip<br>
 
 **Exports**<br>
-$3.544 billion (2022 est.)<br>
+$3.533 billion (2022 est.)<br>
 $3.14 billion (2021 est.)<br>
 $2.385 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars; entry includes West Bank and Gaza Strip<br>
@@ -381,10 +381,10 @@ building stone, scrap iron, plastic products, furniture, seats (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars; entry includes the West Bank and the Gaza Strip<br>
 
 **Imports**<br>
-$12.874 billion (2022 est.)<br>
+$12.257 billion (2022 est.)<br>
 $10.094 billion (2021 est.)<br>
 $8.065 billion (2020 est.)<br>
-<b>note:</b> balance of payments - imports of goods and services in current dollars<br>
+<strong>note:</strong> balance of payments - imports of goods and services in current dollars; entry includes West Bank and Gaza Strip<br>
 
 **Imports - partners**<br>
 Israel 57%, Turkey 6%, Egypt 6%, Jordan 4%, China 4% (2022)<br>
@@ -395,9 +395,9 @@ refined petroleum, electricity, animal food, cars, cement (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars; entry includes the West Bank and the Gaza Strip<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.323 billion (2023 est.)<br>
 $896.9 million (2022 est.)<br>
 $872.541 million (2021 est.)<br>
-$697.075 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars; entry includes West Bank and Gaza Strip<br>
 
 **Debt - external**<br>
@@ -500,7 +500,7 @@ since seizing control of the Gaza Strip in 2007, HAMAS has had repeated clashes 
 
 **Terrorist group(s)**<br>
 Army of Islam; Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; HAMAS; Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham - Sinai Province (ISIS-SP); Mujahidin Shura Council in the Environs of Jerusalem; Palestine Islamic Jihad (PIJ); Palestine Liberation Front; Popular Front for the Liberation of Palestine (PFLP); PFLP-General Command<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

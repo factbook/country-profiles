@@ -19,7 +19,7 @@ Southeastern Europe, bordering the Adriatic Sea, between Bosnia and Herzegovina 
 Europe<br>
 
 **Area**<br>
-_total_: 56,594 sq km<br>
+_total _: 56,594 sq km<br>
 _land_: 55,974 sq km<br>
 _water_: 620 sq km<br>
 
@@ -75,7 +75,7 @@ more of the population lives in the northern half of the country, with approxima
 destructive earthquakes<br>
 
 **Geography - note**<br>
-controls most land routes from Western Europe to Aegean Sea and Turkish Straits; most Adriatic Sea islands lie off the coast of Croatia - some 1,200 islands, islets, ridges, and rocks<br>
+controls most land routes from Western Europe to Aegean Sea and Turkish Straits; most Adriatic Sea islands lie off the coast of Croatia -- some 1,200 islands, islets, ridges, and rocks<br>
 
 ## People and Society
 
@@ -402,31 +402,31 @@ _selected World Heritage Site locales_: Plitvice Lakes National Park (n); Histor
 tourism-based economy that was one of the hardest hit by COVID-19 economic disruptions; newest euro user since 2023, helping recover from a 6-year recession; public debt increases due to COVID-19 and stimulus packages; weak exports; continuing emigration; new liquefied natural gas import terminal<br>
 
 **Real GDP (purchasing power parity)**<br>
-$132.256 billion (2022 est.)<br>
-$124.363 billion (2021 est.)<br>
-$109.296 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$159.305 billion (2023 est.)<br>
+$154.574 billion (2022 est.)<br>
+$144.425 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-6.35% (2022 est.)<br>
-13.78% (2021 est.)<br>
--8.59% (2020 est.)<br>
+3.06% (2023 est.)<br>
+7.03% (2022 est.)<br>
+13.04% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$34,300 (2022 est.)<br>
-$32,100 (2021 est.)<br>
-$27,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$41,300 (2023 est.)<br>
+$40,100 (2022 est.)<br>
+$37,200 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$71.6 billion (2022 est.)<br>
+$82.689 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+7.94% (2023 est.)<br>
 10.78% (2022 est.)<br>
 2.55% (2021 est.)<br>
-0.15% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -456,17 +456,17 @@ maize, wheat, maize, sugar beets, milk, barley, soybeans, sunflower seeds, grape
 chemicals and plastics, machine tools, fabricated metal, electronics, pig iron and rolled steel products, aluminum, paper, wood products, construction materials, textiles, shipbuilding, petroleum and petroleum refining, food and beverages, tourism<br>
 
 **Industrial production growth rate**<br>
-2.69% (2022 est.)<br>
+-0.47% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-1.732 million (2022 est.)<br>
+1.744 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+6.06% (2023 est.)<br>
 6.96% (2022 est.)<br>
 7.61% (2021 est.)<br>
-7.51% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -479,7 +479,7 @@ _female_: 26.3%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-29.5 (2020 est.)<br>
+28.9 (2021 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -487,14 +487,14 @@ _on food_: 19.6% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 6.6% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9%<br>
-_highest 10%_: 22.3% (2020 est.)<br>
+_lowest 10%_: 3.1% (2021 est.)<br>
+_highest 10%_: 22.3% (2021 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-7.53% of GDP (2022 est.)<br>
-7.28% of GDP (2021 est.)<br>
-7.25% of GDP (2020 est.)<br>
+6.89% of GDP (2023 est.)<br>
+7.51% of GDP (2022 est.)<br>
+7.23% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -505,25 +505,25 @@ _expenditures_: $211.069 billion (2019 est.)<br>
 0.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-91% of GDP (2021 est.)<br>
-98.78% of GDP (2020 est.)<br>
-81.68% of GDP (2019 est.)<br>
+82.08% of GDP (2022 est.)<br>
+90.32% of GDP (2021 est.)<br>
+98% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-20.13% (of GDP) (2021 est.)<br>
+21.41% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$1.464 billion (2022 est.)<br>
-$2.082 billion (2021 est.)<br>
--$184.775 million (2020 est.)<br>
+$956.968 million (2023 est.)<br>
+-$2.336 billion (2022 est.)<br>
+$651.685 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$41.953 billion (2022 est.)<br>
-$35.308 billion (2021 est.)<br>
-$24.007 billion (2020 est.)<br>
+$44.969 billion (2023 est.)<br>
+$41.903 billion (2022 est.)<br>
+$34.367 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -535,9 +535,9 @@ refined petroleum, electricity, natural gas, garments, wood (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$46.307 billion (2022 est.)<br>
-$36.331 billion (2021 est.)<br>
-$27.954 billion (2020 est.)<br>
+$46.571 billion (2023 est.)<br>
+$46.664 billion (2022 est.)<br>
+$36.256 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -549,9 +549,9 @@ natural gas, refined petroleum, electricity, garments, cars (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$3.176 billion (2023 est.)<br>
 $29.726 billion (2022 est.)<br>
 $28.309 billion (2021 est.)<br>
-$23.254 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>

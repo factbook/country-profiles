@@ -19,7 +19,7 @@ Christopher COLUMBUS claimed Saint Martin for Spain in 1493, naming it after the
 <p>Central America and the Caribbean</p><br>
 
 **Area**<br>
-_total_: 34 sq km<br>
+_total _: 34 sq km<br>
 _land_: 34 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> Dutch part of the island of Saint Martin<br>
@@ -58,7 +58,7 @@ most populous areas are Lower Prince's Quarter (north of Philipsburg), followed 
 <p>subject to hurricanes from July to November</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> the northern border is shared with the French overseas collectivity of Saint Martin; together, these two entities make up the smallest landmass in the world shared by two self-governing states<br><br><strong>note 2:</strong> Simpson Bay Lagoon (aka as Simson Bay Lagoon or The Great Pond) is one of the largest inland lagoons in the West Indies; the border between the French and Dutch halves of the island of Saint Martin runs across the center of the lagoon, which is shared by both of the island's entities</p><br>
+<p><strong>note 1:</strong> the northern border is shared with the French overseas collectivity of Saint Martin; together, these two entities make up the smallest landmass in the world shared by two self-governing states<br><br><strong>note 2:</strong> Simpson Bay Lagoon (aka Simson Bay Lagoon or The Great Pond) is one of the largest inland lagoons in the West Indies; the border between the French and Dutch halves of the island of Saint Martin runs across the center of the lagoon, which is shared by both entities</p><br>
 
 ## People and Society
 
@@ -278,25 +278,25 @@ _lyrics/music_: Gerard KEMPS<br>
 high-income, tourism-based Dutch autonomous constituent economy; severe hurricane- and COVID-19-related economic recessions; multilateral trust fund helping offset economic downturn; no property taxation; re-exporter to Saint Martin<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.797 billion (2022 est.)<br>
-$1.637 billion (2021 est.)<br>
-$1.565 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.912 billion (2023 est.)<br>
+$1.849 billion (2022 est.)<br>
+$1.684 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.4% (2023 est.)<br>
 9.8% (2022 est.)<br>
 4.58% (2021 est.)<br>
--13.32% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$41,900 (2022 est.)<br>
-$38,400 (2021 est.)<br>
-$37,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$46,400 (2023 est.)<br>
+$45,200 (2022 est.)<br>
+$41,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$1.537 billion (2022 est.)<br>
+$1.623 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -328,9 +328,9 @@ tourism, light industry<br>
 10.6% (2008 est.)<br>
 
 **Remittances**<br>
-3.2% of GDP (2022 est.)<br>
-3.42% of GDP (2021 est.)<br>
-3.13% of GDP (2020 est.)<br>
+2.9% of GDP (2023 est.)<br>
+3.15% of GDP (2022 est.)<br>
+3.44% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Current account balance**<br>
@@ -369,11 +369,11 @@ refined petroleum, jewelry, pearl products, diamonds, cars (2022)<br>
 
 **Exchange rates**<br>
 _Currency_: Netherlands Antillean guilders (ANG) per US dollar -<br>
+1.79 (2023 est.)<br>
 1.79 (2022 est.)<br>
 1.79 (2021 est.)<br>
 1.79 (2020 est.)<br>
 1.79 (2019 est.)<br>
-1.79 (2018 est.)<br>
 
 ## Energy
 

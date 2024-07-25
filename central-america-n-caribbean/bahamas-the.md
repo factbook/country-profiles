@@ -19,7 +19,7 @@ chain of islands in the North Atlantic Ocean, southeast of Florida, northeast of
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 13,880 sq km<br>
+_total _: 13,880 sq km<br>
 _land_: 10,010 sq km<br>
 _water_: 3,870 sq km<br>
 
@@ -346,31 +346,31 @@ _lyrics/music_: Timothy GIBSON<br>
 high-income tourism and financial services economy; major income inequality; strong US bilateral relations; several tax relief programs; targeted investment in agriculture, energy, light manufacturing, and technology industries<br>
 
 **Real GDP (purchasing power parity)**<br>
-$14.211 billion (2022 est.)<br>
-$12.426 billion (2021 est.)<br>
-$10.622 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$13.224 billion (2023 est.)<br>
+$12.884 billion (2022 est.)<br>
+$11.63 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-14.37% (2022 est.)<br>
-16.98% (2021 est.)<br>
--23.51% (2020 est.)<br>
+2.64% (2023 est.)<br>
+10.78% (2022 est.)<br>
+15.4% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$34,700 (2022 est.)<br>
-$30,500 (2021 est.)<br>
-$26,100 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$32,000 (2023 est.)<br>
+$31,400 (2022 est.)<br>
+$28,500 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$12.897 billion (2022 est.)<br>
+$14.339 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+3.05% (2023 est.)<br>
 5.61% (2022 est.)<br>
 2.9% (2021 est.)<br>
-0.04% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -399,17 +399,17 @@ sugarcane, grapefruits, vegetables, bananas, tomatoes, chicken, tropical fruits,
 tourism, banking, oil bunkering, maritime industries, transshipment and logistics, salt, aragonite, pharmaceuticals<br>
 
 **Industrial production growth rate**<br>
-10.18% (2022 est.)<br>
+10.34% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-238,000 (2022 est.)<br>
+242,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-10.09% (2022 est.)<br>
-11.58% (2021 est.)<br>
-12.56% (2020 est.)<br>
+9.2% (2023 est.)<br>
+9.87% (2022 est.)<br>
+11.69% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -424,6 +424,11 @@ _female_: 35.6%<br>
 _lowest 10%_: 1%<br>
 _highest 10%_: 22% (2007 est.)<br>
 
+**Remittances**<br>
+0.38% of GDP (2023 est.)<br>
+0.44% of GDP (2022 est.)<br>
+0.47% of GDP (2021 est.)<br>
+
 **Budget**<br>
 _revenues_: $2.087 billion (2020 est.)<br>
 _expenditures_: $2.899 billion (2020 est.)<br>
@@ -432,13 +437,13 @@ _expenditures_: $2.899 billion (2020 est.)<br>
 -2.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-83.68% of GDP (2022 est.)<br>
-86.19% of GDP (2021 est.)<br>
-83.97% of GDP (2020 est.)<br>
+82.16% of GDP (2022 est.)<br>
+87.39% of GDP (2021 est.)<br>
+82.26% of GDP (2020 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-16.73% (of GDP) (2022 est.)<br>
+16.43% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -476,9 +481,9 @@ refined petroleum, ships, cars, crude petroleum, coal tar oil (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$2.512 billion (2023 est.)<br>
 $2.609 billion (2022 est.)<br>
 $2.433 billion (2021 est.)<br>
-$2.382 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -487,11 +492,11 @@ $16.35 billion (31 December 2012 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Bahamian dollars (BSD) per US dollar -<br>
+1 (2023 est.)<br>
 1 (2022 est.)<br>
 1 (2021 est.)<br>
 1 (2020 est.)<br>
 1 (2019 est.)<br>
-1 (2018 est.)<br>
 
 ## Energy
 
@@ -593,11 +598,11 @@ Royal Bahamas Defense Force (RBDF): includes land, air, maritime elements; Royal
 <strong>note:</strong> the RBPF maintains internal security; both the RBDF and the RBPF, as well as the Department of Corrections, report to the Minister of National Security<br>
 
 **Military expenditures**<br>
+0.8% of GDP (2023 est.)<br>
 0.8% of GDP (2022 est.)<br>
-0.9% of GDP (2021)<br>
-0.9% of GDP (2020)<br>
-0.7% of GDP (2019)<br>
-0.7% of GDP (2018)<br>
+0.9% of GDP (2021 est.)<br>
+0.9% of GDP (2020 est.)<br>
+0.7% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,700 active RBDF personnel (2024)<br>

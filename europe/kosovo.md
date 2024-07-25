@@ -19,7 +19,7 @@ Southeastern Europe, between Serbia and Macedonia<br>
 Europe<br>
 
 **Area**<br>
-_total_: 10,887 sq km<br>
+_total _: 10,887 sq km<br>
 _land_: 10,887 sq km<br>
 _water_: 0 sq km<br>
 
@@ -68,7 +68,7 @@ Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 population clusters exist throughout the country, the largest being in the east in and around the capital of Pristina<br>
 
 **Geography - note**<br>
-the 41-km long Nerodimka River divides into two branches each of which flows into a different sea: the northern branch flows into the Sitnica River, which via the Ibar, Morava, and Danube Rivers ultimately flows into the Black Sea; the southern branch flows via the Lepenac and Vardar Rivers into the Aegean Sea<br>
+the 41-km long Nerodimka River divides into two branches, each of which flows into a different sea: the northern branch flows into the Sitnica River, which via the Ibar, Morava, and Danube Rivers ultimately flows into the Black Sea; the southern branch flows via the Lepenac and Vardar Rivers into the Aegean Sea<br>
 
 ## People and Society
 
@@ -324,31 +324,31 @@ _selected World Heritage Site locales_: Medieval Monuments in Kosovo<br>
 small-but-growing European economy; non-EU member but unilateral euro user; very high unemployment, especially youth; vulnerable reliance on diaspora tourism services, curtailed by COVID-19 disruptions; unclear public loan portfolio health<br>
 
 **Real GDP (purchasing power parity)**<br>
-$22.333 billion (2022 est.)<br>
-$21.226 billion (2021 est.)<br>
-$19.166 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$23.794 billion (2023 est.)<br>
+$23.025 billion (2022 est.)<br>
+$22.08 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-5.22% (2022 est.)<br>
+3.34% (2023 est.)<br>
+4.28% (2022 est.)<br>
 10.75% (2021 est.)<br>
--5.34% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$12,700 (2022 est.)<br>
-$11,900 (2021 est.)<br>
-$10,700 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$13,500 (2023 est.)<br>
+$13,000 (2022 est.)<br>
+$12,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$9.409 billion (2022 est.)<br>
+$10.438 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.94% (2023 est.)<br>
 11.58% (2022 est.)<br>
 3.35% (2021 est.)<br>
-0.2% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -371,7 +371,7 @@ wheat, corn, berries, potatoes, peppers, fruit; dairy, livestock; fish<br>
 mineral mining, construction materials, base metals, leather, machinery, appliances, foodstuffs and beverages, textiles<br>
 
 **Industrial production growth rate**<br>
-2.09% (2022 est.)<br>
+1.56% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -397,14 +397,14 @@ _female_: 57.3%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.8%<br>
+_lowest 10%_: 3.8% (2017 est.)<br>
 _highest 10%_: 24.6% (2017 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-17.14% of GDP (2022 est.)<br>
+18.2% of GDP (2023 est.)<br>
+17.24% of GDP (2022 est.)<br>
 18.01% of GDP (2021 est.)<br>
-18.61% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -422,15 +422,15 @@ _expenditures_: $2.547 billion (2020 est.)<br>
 29% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
+-$794.765 million (2023 est.)<br>
 -$983.283 million (2022 est.)<br>
 -$818.351 million (2021 est.)<br>
--$541.106 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$4.155 billion (2023 est.)<br>
 $3.579 billion (2022 est.)<br>
 $3.138 billion (2021 est.)<br>
-$1.687 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -440,9 +440,9 @@ United States 16%, Albania 15%, North Macedonia 12%, Germany 8%, Italy 8% (2021)
 mattress materials, iron alloys, metal piping, scrap iron, building plastics, mineral water, seating (2021)<br>
 
 **Imports**<br>
+$7.362 billion (2023 est.)<br>
 $6.661 billion (2022 est.)<br>
 $6.128 billion (2021 est.)<br>
-$4.187 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -452,9 +452,9 @@ Germany 13%, Turkey 13%, China 10%, Serbia 7%, Italy 6% (2021)<br>
 refined petroleum, cars, iron rods, electricity, cigars, packaged medicines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.245 billion (2023 est.)<br>
 $1.248 billion (2022 est.)<br>
 $1.244 billion (2021 est.)<br>
-$1.095 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -463,11 +463,11 @@ $2.409 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.925 (2023 est.)<br>
 0.951 (2022 est.)<br>
 0.845 (2021 est.)<br>
 0.877 (2020 est.)<br>
 0.893 (2019 est.)<br>
-0.847 (2018 est.)<br>
 <strong>note: </strong>Kosovo, which is neither an EU member state nor a party to a formal EU monetary agreement, uses the euro as its de facto currency<br>
 
 ## Energy
@@ -575,7 +575,7 @@ the Kosovo Security Force (KSF) was established in 2009 as a small (1,500 person
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

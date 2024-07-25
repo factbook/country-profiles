@@ -19,7 +19,7 @@ Central South America, northeast of Argentina, southwest of Brazil<br>
 South America<br>
 
 **Area**<br>
-_total_: 406,752 sq km<br>
+_total _: 406,752 sq km<br>
 _land_: 397,302 sq km<br>
 _water_: 9,450 sq km<br>
 
@@ -402,31 +402,31 @@ _selected World Heritage Site locales_: Jesuit Missions of La Sant&iacute;sima T
 upper middle-income South American economy; COVID-19 hit while still recovering from 2019 Argentina-driven recession; global hydroelectricity leader; major corruption and money-laundering locale; highly agrarian economy; significant income inequality<br>
 
 **Real GDP (purchasing power parity)**<br>
-$91.753 billion (2022 est.)<br>
-$91.684 billion (2021 est.)<br>
-$88.143 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$108.022 billion (2023 est.)<br>
+$103.159 billion (2022 est.)<br>
+$102.978 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-0.08% (2022 est.)<br>
+4.71% (2023 est.)<br>
+0.18% (2022 est.)<br>
 4.02% (2021 est.)<br>
--0.82% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$13,500 (2022 est.)<br>
-$13,700 (2021 est.)<br>
-$13,300 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$15,700 (2023 est.)<br>
+$15,200 (2022 est.)<br>
+$15,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$41.722 billion (2022 est.)<br>
+$42.956 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.63% (2023 est.)<br>
 9.77% (2022 est.)<br>
 4.79% (2021 est.)<br>
-1.77% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -456,17 +456,17 @@ sugarcane, maize, soybeans, cassava, rice, wheat, milk, beef, oranges, oil palm 
 sugar processing, cement, textiles, beverages, wood products, steel, base metals, electric power<br>
 
 **Industrial production growth rate**<br>
-0.3% (2022 est.)<br>
+3.43% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.404 million (2022 est.)<br>
+3.469 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-6.75% (2022 est.)<br>
+5.78% (2023 est.)<br>
+6.76% (2022 est.)<br>
 7.31% (2021 est.)<br>
-7.55% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -487,14 +487,14 @@ _on food_: 30.3% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 4.2% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.8%<br>
+_lowest 10%_: 1.8% (2022 est.)<br>
 _highest 10%_: 35.4% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.42% of GDP (2022 est.)<br>
+1.4% of GDP (2023 est.)<br>
+1.41% of GDP (2022 est.)<br>
 1.47% of GDP (2021 est.)<br>
-1.65% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -509,19 +509,19 @@ _expenditures_: $8.714 billion (2019 est.)<br>
 18.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-9.79% (of GDP) (2021 est.)<br>
+10.27% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$2.793 billion (2022 est.)<br>
--$308.061 million (2021 est.)<br>
-$685.188 million (2020 est.)<br>
+$109.625 million (2023 est.)<br>
+-$2.993 billion (2022 est.)<br>
+-$347.383 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$18.711 billion (2023 est.)<br>
 $14.971 billion (2022 est.)<br>
 $14.821 billion (2021 est.)<br>
-$12.339 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -533,9 +533,9 @@ beef, electricity, soybeans, corn, soybean meal (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$17.906 billion (2023 est.)<br>
 $17.142 billion (2022 est.)<br>
 $14.316 billion (2021 est.)<br>
-$10.982 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -547,9 +547,9 @@ refined petroleum, broadcasting equipment, cars, fertilizers, pesticides (2022)<
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$9.886 billion (2023 est.)<br>
 $9.519 billion (2022 est.)<br>
 $9.661 billion (2021 est.)<br>
-$9.202 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -558,11 +558,11 @@ $16.238 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: guarani (PYG) per US dollar -<br>
+7,288.872 (2023 est.)<br>
 6,982.752 (2022 est.)<br>
 6,774.163 (2021 est.)<br>
 6,771.097 (2020 est.)<br>
 6,240.722 (2019 est.)<br>
-5,732.105 (2018 est.)<br>
 
 ## Energy
 
@@ -700,13 +700,13 @@ Space Agency of Paraguay (Agencia Especial del Paraguay, AEP; established 2014) 
 
 **Space program overview**<br>
 has a small, recently established space program focused on the acquisition of satellites, satellite data, and the technologies and capabilities to manufacture satellites, as well as promoting in-country expertise building and space industry; a priority is acquiring remote sensing (RS) capabilities to support socio-economic develop, including resource mapping, weather, and crop monitoring; has built a cube satellite with foreign assistance; operates satellites; cooperates with foreign space agencies and industries, including those of India, Japan, Taiwan, the US, and member states of the Latin American and Caribbean Space Agency (ALCE) (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Hizballah (2022)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

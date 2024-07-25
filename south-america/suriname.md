@@ -19,7 +19,7 @@ Northern South America, bordering the North Atlantic Ocean, between French Guian
 South America<br>
 
 **Area**<br>
-_total_: 163,820 sq km<br>
+_total _: 163,820 sq km<br>
 _land_: 156,000 sq km<br>
 _water_: 7,820 sq km<br>
 
@@ -322,11 +322,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Chandrikapersad SANTOKHI (since 16 July 2020)&nbsp;<br>
+_chief of state_: President Chandrikapersad SANTOKHI (since 16 July 2020)<br>
 _head of government_: President Chandrikapersad SANTOKHI (since 16 July 2020)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly; president and vice president serve a 5-year term (no term limits); election last held on 13 July 2020 (next to be held in May 2025)<br>
-_election results_: <em>2020:</em> Chandrikapersad SANTOKHI elected president unopposed; National Assembly vote - NA<br>
+_election results_: <em><br>2020:</em> Chandrikapersad SANTOKHI elected president unopposed; National Assembly vote - NA<br><br><em>2015:</em> Desire Delano BOUTERSE reelected president unopposed; National Assembly vote - NA<br>
 <strong>note: </strong>the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
@@ -382,25 +382,25 @@ _selected World Heritage Site locales_: Central Suriname Nature Reserve (n); His
 upper middle-income South American economy; new floating currency regime; key aluminum goods, gold, and hydrocarbon exporter; new IMF plan for economic recovery and fiscal sustainability; controversial hardwood industry<br>
 
 **Real GDP (purchasing power parity)**<br>
-$9.3 billion (2022 est.)<br>
-$9.079 billion (2021 est.)<br>
-$9.306 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$11.824 billion (2023 est.)<br>
+$11.583 billion (2022 est.)<br>
+$11.308 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.08% (2023 est.)<br>
 2.43% (2022 est.)<br>
 -2.44% (2021 est.)<br>
--15.98% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$15,000 (2022 est.)<br>
-$14,800 (2021 est.)<br>
-$15,300 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$19,000 (2023 est.)<br>
+$18,700 (2022 est.)<br>
+$18,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$3.621 billion (2022 est.)<br>
+$3.782 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -440,13 +440,13 @@ gold mining, oil, lumber, food processing, fishing<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-246,000 (2022 est.)<br>
+250,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+7.7% (2023 est.)<br>
 8.23% (2022 est.)<br>
-8.53% (2021 est.)<br>
-8.74% (2020 est.)<br>
+8.46% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -457,10 +457,17 @@ _female_: 46.1%<br>
 **Population below poverty line**<br>
 70% (2002 est.)<br>
 
+**Gini Index coefficient - distribution of family income**<br>
+39.2 (2022 est.)<br>
+
+**Household income or consumption by percentage share**<br>
+_lowest 10%_: 2.2% (2022 est.)<br>
+_highest 10%_: 30.1% (2022 est.)<br>
+
 **Remittances**<br>
+3.88% of GDP (2023 est.)<br>
 4.09% of GDP (2022 est.)<br>
 4.79% of GDP (2021 est.)<br>
-4.26% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -478,15 +485,15 @@ _expenditures_: $1.648 billion (2019 est.)<br>
 16.4% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
+$146.749 million (2023 est.)<br>
 $76.321 million (2022 est.)<br>
 $176.058 million (2021 est.)<br>
-$259.846 million (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$2.534 billion (2023 est.)<br>
 $2.6 billion (2022 est.)<br>
 $2.299 billion (2021 est.)<br>
-$2.446 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -498,9 +505,9 @@ gold, refined petroleum, excavation machinery, wood, fish (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$2.218 billion (2023 est.)<br>
 $2.342 billion (2022 est.)<br>
 $1.876 billion (2021 est.)<br>
-$1.845 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -512,9 +519,9 @@ refined petroleum, excavation machinery, cars, plastic products, tobacco (2022)<
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.346 billion (2023 est.)<br>
 $1.195 billion (2022 est.)<br>
 $992.257 million (2021 est.)<br>
-$584.929 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -523,11 +530,11 @@ $1.436 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Surinamese dollars (SRD) per US dollar -<br>
+36.776 (2023 est.)<br>
 24.709 (2022 est.)<br>
 18.239 (2021 est.)<br>
 9.31 (2020 est.)<br>
 7.458 (2019 est.)<br>
-7.463 (2018 est.)<br>
 
 ## Energy
 

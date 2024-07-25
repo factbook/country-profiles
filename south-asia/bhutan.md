@@ -19,7 +19,7 @@ Southern Asia, between China and India<br>
 Asia<br>
 
 **Area**<br>
-_total_: 38,394 sq km<br>
+_total _: 38,394 sq km<br>
 _land_: 38,394 sq km<br>
 _water_: 0 sq km<br>
 
@@ -350,31 +350,31 @@ _lyrics/music_: Gyaldun Dasho Thinley DORJI/Aku TONGMI<br>
 hydropower investments spurring economic development; Gross National Happiness economy; sharp poverty declines; low inflation; strong monetary and fiscal policies; stable currency; fairly resilient response to COVID-19; key economic and strategic relations with India; climate vulnerabilities<br>
 
 **Real GDP (purchasing power parity)**<br>
-$9.015 billion (2021 est.)<br>
-$8.634 billion (2020 est.)<br>
-$9.616 billion (2019 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$10.981 billion (2022 est.)<br>
+$10.437 billion (2021 est.)<br>
+$9.995 billion (2020 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+5.21% (2022 est.)<br>
 4.42% (2021 est.)<br>
 -10.22% (2020 est.)<br>
-5.76% (2019 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$11,600 (2021 est.)<br>
-$11,200 (2020 est.)<br>
-$12,500 (2019 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$14,000 (2022 est.)<br>
+$13,400 (2021 est.)<br>
+$12,900 (2020 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.768 billion (2021 est.)<br>
+$2.898 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+4.23% (2023 est.)<br>
 5.64% (2022 est.)<br>
 7.35% (2021 est.)<br>
-5.63% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -398,17 +398,17 @@ milk, rice, root vegetables, potatoes, maize, oranges, areca nuts, chilies/peppe
 cement, wood products, processed fruits, alcoholic beverages, calcium carbide, tourism<br>
 
 **Industrial production growth rate**<br>
-3.94% (2021 est.)<br>
+5.6% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-426,000 (2022 est.)<br>
+430,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+5.65% (2023 est.)<br>
 5.95% (2022 est.)<br>
 4.8% (2021 est.)<br>
-5.03% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -425,14 +425,14 @@ _female_: 22%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.6%<br>
+_lowest 10%_: 3.6% (2022 est.)<br>
 _highest 10%_: 22.7% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+3.31% of GDP (2022 est.)<br>
 2.65% of GDP (2021 est.)<br>
 3.39% of GDP (2020 est.)<br>
-2.07% of GDP (2019 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -454,15 +454,15 @@ _expenditures_: $777 million (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$852.583 million (2022 est.)<br>
--$321.535 million (2021 est.)<br>
--$381.153 million (2020 est.)<br>
+-$999.999 million (2023 est.)<br>
+-$805.723 million (2022 est.)<br>
+-$319.279 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$791.08 million (2022 est.)<br>
-$741.602 million (2021 est.)<br>
-$786.681 million (2020 est.)<br>
+$815.05 million (2023 est.)<br>
+$791.342 million (2022 est.)<br>
+$739.514 million (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -474,9 +474,9 @@ iron alloys, dolomite, gypsum, cement, electricity (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.588 billion (2022 est.)<br>
+$1.754 billion (2023 est.)<br>
+$1.581 billion (2022 est.)<br>
 $1.027 billion (2021 est.)<br>
-$1.188 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -499,11 +499,11 @@ $2.355 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: ngultrum (BTN) per US dollar -<br>
+82.601 (2023 est.)<br>
 78.604 (2022 est.)<br>
 73.918 (2021 est.)<br>
 74.1 (2020 est.)<br>
 70.42 (2019 est.)<br>
-68.389 (2018 est.)<br>
 
 ## Energy
 
@@ -615,7 +615,7 @@ announced in 2018 that it intends to establish a space agency, but has not yet d
 
 **Space program overview**<br>
 has a small, recently established program focused on acquiring satellites and developing the capabilities to manufacture satellites; cooperates with India and the US (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

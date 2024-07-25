@@ -19,7 +19,7 @@ Oceania, island group in the South Pacific Ocean, about two-thirds of the way fr
 Oceania<br>
 
 **Area**<br>
-_total_: 18,274 sq km<br>
+_total _: 18,274 sq km<br>
 _land_: 18,274 sq km<br>
 _water_: 0 sq km<br>
 
@@ -372,25 +372,25 @@ _selected World Heritage Site locales_: Levuka Historical Port Town<br>
 upper-middle income, tourism-based Pacific island economy; susceptible to ocean rises; key energy and infrastructure investments; post-pandemic tourism resurgence; improved debt standing; limited workforce<br>
 
 **Real GDP (purchasing power parity)**<br>
-$11.518 billion (2022 est.)<br>
-$9.597 billion (2021 est.)<br>
-$10.09 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$12.699 billion (2023 est.)<br>
+$11.756 billion (2022 est.)<br>
+$9.795 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+8.03% (2023 est.)<br>
 20.02% (2022 est.)<br>
 -4.88% (2021 est.)<br>
--17.04% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$12,400 (2022 est.)<br>
-$10,400 (2021 est.)<br>
-$11,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$13,600 (2023 est.)<br>
+$12,600 (2022 est.)<br>
+$10,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.98 billion (2022 est.)<br>
+$5.495 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -425,17 +425,17 @@ sugarcane, cassava, taro, chicken, vegetables, coconuts, ginger, rice, milk, swe
 tourism, sugar processing, clothing, copra, gold, silver, lumber<br>
 
 **Industrial production growth rate**<br>
-5.7% (2022 est.)<br>
+15.32% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-382,000 (2022 est.)<br>
+391,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.56% (2022 est.)<br>
-4.8% (2021 est.)<br>
-4.73% (2020 est.)<br>
+4.33% (2023 est.)<br>
+4.48% (2022 est.)<br>
+4.68% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -452,14 +452,14 @@ _female_: 25.9%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.5%<br>
+_lowest 10%_: 3.5% (2019 est.)<br>
 _highest 10%_: 24.2% (2019 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+9.1% of GDP (2023 est.)<br>
 9.21% of GDP (2022 est.)<br>
 9.14% of GDP (2021 est.)<br>
-7.16% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -512,9 +512,9 @@ refined petroleum, plastic products, plastics, wheat, garments (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.548 billion (2023 est.)<br>
 $1.557 billion (2022 est.)<br>
 $1.518 billion (2021 est.)<br>
-$1.082 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -523,11 +523,11 @@ $696.4 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Fijian dollars (FJD) per US dollar -<br>
+2.25 (2023 est.)<br>
 2.201 (2022 est.)<br>
 2.071 (2021 est.)<br>
 2.169 (2020 est.)<br>
 2.16 (2019 est.)<br>
-2.087 (2018 est.)<br>
 
 ## Energy
 
@@ -639,7 +639,7 @@ Republic of Fiji Military Force (RFMF): Land Force Command, Maritime Command (20
 <strong>note: </strong>the RFMF is subordinate to the president as the commander-in-chief, while the Fiji Police Force reports to the Ministry of Defense, National Security, and Policing<br>
 
 **Military expenditures**<br>
-1.2% of GDP (2023 est.)<br>
+1.1% of GDP (2023 est.)<br>
 1.2% of GDP (2022 est.)<br>
 1.5% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>

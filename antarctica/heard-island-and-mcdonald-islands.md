@@ -19,7 +19,7 @@ islands in the Indian Ocean, about two-thirds of the way from Madagascar to Anta
 Antarctic Region<br>
 
 **Area**<br>
-_total_: 412 sq km<br>
+_total _: 412 sq km<br>
 _land_: 412 sq km<br>
 _water_: 0 sq km<br>
 

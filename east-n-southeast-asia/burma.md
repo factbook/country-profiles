@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Burma is home to ethnic Burmans and scores of other ethnic and religious minority groups that have resisted external efforts to consolidate control of the country throughout its history. Burma was a province of British India until 1937 and then a self-governing colony until it gained independence from Britain in 1948. In 1962, General NE WIN seized power and ruled Burma until 1988 when a new military regime took control. <br><br>In 1990, the military regime permitted an election but then rejected the results after the main opposition National League for Democracy (NLD) and its leader AUNG SAN SUU KYI (ASSK) won in a landslide. The military regime placed ASSK under house arrest until 2010. In 2007, rising fuel prices in Burma led pro-democracy activists and Buddhist monks to launch a "Saffron Revolution" consisting of large protests against the regime, which violently suppressed the movement. The regime prevented new elections until it had drafted a constitution designed to preserve the military's political control; it passed the new constitution in its 2008 referendum. The regime conducted an election in 2010, but the NLD boycotted the vote, and the military’s political proxy, the Union Solidarity and Development Party, easily won; international observers denounced the election as flawed. <br><br>Burma nonetheless began a halting process of political and economic reforms. ASSK's return to government in 2012 eventually led to the NLD's sweeping victory in the 2015 election. With ASSK as the de facto head of state, Burma’s first credibly elected civilian government drew international criticism for blocking investigations into Burma’s military operations -- which the US Department of State determined constituted genocide -- against its ethnic Rohingya population. When the 2020 elections resulted in further NLD gains, the military denounced the vote as fraudulent. In 2021, Commander-in-Chief Sr. General MIN AUNG HLAING launched a coup that returned Burma to authoritarian rule, with military crackdowns that undid reforms and resulted in the detention of ASSK and thousands of pro-democracy actors.<br><br>Pro-democracy organizations have formed in the wake of the coup, including the National Unity Government (NUG). Members of the NUG include representatives from the NLD, ethnic minority groups, and civil society. In 2021, the NUG announced the formation of armed militias called the People's Defense Forces (PDF) and an insurgency against the military junta. As of 2024, PDF groups across the country continued to fight the regime with varying levels of support from and cooperation with the NUG and other anti-regime groups, including armed ethnic groups that have been fighting the central government for decades. </p><br>
+<p>Burma is home to ethnic Burmans and scores of other ethnic and religious minority groups that have resisted external efforts to consolidate control of the country throughout its history. Britain conquered Burma over a period extending from the 1820s to the 1880s and administered it as a province of India until 1937, when Burma became a self-governing colony.  Burma gained full independence in 1948. In 1962, General NE WIN seized power and ruled the country until 1988 when a new military regime took control. <br><br>In 1990, the military regime permitted an election but then rejected the results after the main opposition National League for Democracy (NLD) and its leader AUNG SAN SUU KYI (ASSK) won in a landslide. The military regime placed ASSK under house arrest until 2010. In 2007, rising fuel prices in Burma led pro-democracy activists and Buddhist monks to launch a "Saffron Revolution" consisting of large protests against the regime, which violently suppressed the movement. The regime prevented new elections until it had drafted a constitution designed to preserve the military's political control; it passed the new constitution in its 2008 referendum. The regime conducted an election in 2010, but the NLD boycotted the vote, and the military’s political proxy, the Union Solidarity and Development Party, easily won; international observers denounced the election as flawed. <br><br>Burma nonetheless began a halting process of political and economic reforms. ASSK's return to government in 2012 eventually led to the NLD's sweeping victory in the 2015 election. With ASSK as the de facto head of state, Burma’s first credibly elected civilian government drew international criticism for blocking investigations into Burma’s military operations -- which the US Department of State determined constituted genocide -- against its ethnic Rohingya population. When the 2020 elections resulted in further NLD gains, the military denounced the vote as fraudulent. In 2021, the military's senior leader General MIN AUNG HLAING launched a coup that returned Burma to authoritarian rule, with military crackdowns that undid reforms and resulted in the detention of ASSK and thousands of pro-democracy actors.<br><br>Pro-democracy organizations have formed in the wake of the coup, including the National Unity Government (NUG). Members of the NUG include representatives from the NLD, ethnic minority groups, and civil society. In 2021, the NUG announced the formation of armed militias called the People's Defense Forces (PDF) and an insurgency against the military junta. As of 2024, PDF units across the country continued to fight the regime with varying levels of support from and cooperation with the NUG and other anti-regime organizations, including armed ethnic groups that have been fighting the central government for decades. </p><br>
 
 ## Geography
 
@@ -19,7 +19,7 @@ Southeastern Asia, bordering the Andaman Sea and the Bay of Bengal, between Bang
 Southeast Asia<br>
 
 **Area**<br>
-_total_: 676,578 sq km<br>
+_total _: 676,578 sq km<br>
 _land_: 653,508 sq km<br>
 _water_: 23,070 sq km<br>
 
@@ -416,25 +416,25 @@ _selected World Heritage Site locales_: Pyu Ancient Cities; Bagan<br>
 slowly recovering Southeast Asian economy; household incomes weaken domestic consumption; growing trade deficit; declining employment; high inflation and reduced currency power; agriculture sector remains most stable&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
-$230.255 billion (2022 est.)<br>
-$221.32 billion (2021 est.)<br>
-$251.546 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$290.507 billion (2023 est.)<br>
+$287.624 billion (2022 est.)<br>
+$276.462 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+1% (2023 est.)<br>
 4.04% (2022 est.)<br>
 -12.02% (2021 est.)<br>
--9.05% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$4,200 (2022 est.)<br>
-$4,100 (2021 est.)<br>
-$4,700 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$5,300 (2023 est.)<br>
+$5,300 (2022 est.)<br>
+$5,100 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$62.263 billion (2022 est.)<br>
+$64.815 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -464,17 +464,17 @@ rice, sugarcane, vegetables, beans, maize, groundnuts, fruits, plantains, coconu
 agricultural processing; wood and wood products; copper, tin, tungsten, iron; cement, construction materials; pharmaceuticals; fertilizer; oil and natural gas; garments; jade and gems<br>
 
 **Industrial production growth rate**<br>
-8.02% (2022 est.)<br>
+1.53% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-22.527 million (2022 est.)<br>
+22.884 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.96% (2022 est.)<br>
+2.84% (2023 est.)<br>
+2.83% (2022 est.)<br>
 4.34% (2021 est.)<br>
-1.48% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -495,14 +495,14 @@ _on food_: 56.6% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 0.6% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.8%<br>
+_lowest 10%_: 3.8% (2017 est.)<br>
 _highest 10%_: 25.5% (2017 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-3.05% of GDP (2022 est.)<br>
-3.02% of GDP (2021 est.)<br>
-3.38% of GDP (2020 est.)<br>
+2.31% of GDP (2023 est.)<br>
+2.03% of GDP (2022 est.)<br>
+1.93% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -729,5 +729,5 @@ _stateless persons_: 600,000 (2022); note - Rohingya Muslims, living predominant
 _tier rating_: Tier 3 &mdash; Burma does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Burma remained on Tier 3; the regime reported investigating and convicting more traffickers, sentencing some to imprisonment, and conducting an awareness-raising event; the 2022 anti-trafficking law was enacted, criminalizing all forms of labor and sex trafficking; however, the regime did not identify or screen for any victims and, as a result, penalized victims for unlawful acts committed as a result of being trafficked; the military continued to use children and adults in forced labor; the regime did not prosecute any military or deposed government officials despite continued reports of complicity in trafficking, and it prevented civil society organizations from assisting victims; displacement resulting from military conflict, exacerbated by the February 2021 military coup that deposed the democratically elected government, made Rohingya and other ethnic groups more vulnerable to human trafficking; efforts to combat trafficking continued to decline dramatically since the coup, as the military regime shifted its focus from serving justice to persecuting pro-democracy opposition (2023)<br>
 
 **Illicit drugs**<br>
-<p>source of precursor or essential chemicals used in the production of illicit narcotics; narcotics produced in Burma trafficked throughout the region, with routes extending beyond Southeast Asia to Australia, New Zealand, and Japan; largest opium poppy cultivator  globally with an estimated 47,100 hectares grown in 2023; not a major source or transit country for drugs entering the United States; domestic consumption of synthetic drug cocktails such as Yaba, “Happy Water,” and “Wei Tiong” (mixtures of drugs including caffeine, methamphetamine, tramadol, and MDMA) popular among the younger population and domestic drug consumption  substantial and widespread.</p> <p> </p> <p> </p> (2021)<br>
+source of precursor or essential chemicals used in the production of illicit narcotics; narcotics produced in Burma trafficked throughout the region, with routes extending beyond Southeast Asia to Australia, New Zealand, and Japan; largest opium poppy cultivator &nbsp;globally with an estimated 47,100 hectares grown in 2023; not a major source or transit country for drugs entering the United States; domestic consumption of synthetic drug cocktails such as Yaba, &ldquo;Happy Water,&rdquo; and &ldquo;Wei Tiong&rdquo; (mixtures of drugs including caffeine, methamphetamine, tramadol, and MDMA) popular among the younger population and domestic drug consumption &nbsp;substantial and widespread. (2021)<br>
 

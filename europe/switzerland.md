@@ -19,7 +19,7 @@ Central Europe, east of France, north of Italy<br>
 Europe<br>
 
 **Area**<br>
-_total_: 41,277 sq km<br>
+_total _: 41,277 sq km<br>
 _land_: 39,997 sq km<br>
 _water_: 1,280 sq km<br>
 
@@ -341,7 +341,7 @@ _chief of state_: President of the Swiss Confederation Viola AMHERD (since 1 Jan
 _head of government_: President of the Swiss Confederation Viola AMHERD (since 1 January 2024)<br>
 _cabinet_: Federal Council or Bundesrat (in German), Conseil Federal (in French), Consiglio Federale (in Italian) indirectly elected by the Federal Assembly for a 4-year term<br>
 _elections/appointments_: president and vice president elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term; election last held on 13 December 2023 (next to be held in December 2024)<br>
-_election results_: <em>2023:  </em>Viola AMHERD elected president for 2024; Federal Assembly vote - Viola AMHERD (The Center) 158 of 204; Karin Keller-Sutter (FDP.The Liberals) elected vice president for 2024; Federal Assembly vote - 138 of 196<br><br><em>2022:  </em>Alain BERSET elected president for 2023; Federal Assembly vote - Alain BERSET (SP) 140 OF 181; Viola AMHERD elected vice president; Federal assembly vote - 207 of 223 <em><br><br></em><br><br> <p> </p><br>
+_election results_: <em><br>2023:  </em>Viola AMHERD elected president for 2024; Federal Assembly vote - Viola AMHERD (The Center) 158 of 204; Karin Keller-Sutter (FDP.The Liberals) elected vice president for 2024; Federal Assembly vote - 138 of 196<br><br><em>2022:  </em>Alain BERSET elected president for 2023; Federal Assembly vote - Alain BERSET (SP) 140 OF 181; Viola AMHERD elected vice president; Federal assembly vote - 207 of 223<br>
 <strong>note:</strong> the Federal Council, comprised of 7 federal councillors, constitutes the federal government of Switzerland; council members rotate the 1-year term of federal president<br>
 
 **Legislative branch**<br>
@@ -399,31 +399,31 @@ _selected World Heritage Site locales_: Old City of Berne (c); Swiss Alps Jungfr
 high-income, non-EU European economy; top ten in GDP per capita; renowned banking and financial hub; low unemployment and inflation; slowed GDP growth post-pandemic; highly skilled but aging workforce; key pharmaceutical and precision manufacturing exporter; leader in innovation and competitiveness indices<br>
 
 **Real GDP (purchasing power parity)**<br>
-$634.296 billion (2022 est.)<br>
-$618.413 billion (2021 est.)<br>
-$586.775 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$733.779 billion (2023 est.)<br>
+$728.562 billion (2022 est.)<br>
+$710.319 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+0.72% (2023 est.)<br>
 2.57% (2022 est.)<br>
 5.39% (2021 est.)<br>
--2.14% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$72,300 (2022 est.)<br>
-$71,000 (2021 est.)<br>
-$67,900 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$82,900 (2023 est.)<br>
+$83,000 (2022 est.)<br>
+$81,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$818.427 billion (2022 est.)<br>
+$884.94 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.14% (2023 est.)<br>
 2.84% (2022 est.)<br>
 0.58% (2021 est.)<br>
--0.73% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -453,17 +453,17 @@ milk, sugar beets, wheat, potatoes, pork, apples, barley, beef, grapes, maize (2
 machinery, chemicals, watches, textiles, precision instruments, tourism, banking, insurance, pharmaceuticals<br>
 
 **Industrial production growth rate**<br>
-4.63% (2022 est.)<br>
+-1.66% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.968 million (2022 est.)<br>
+4.991 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+4.05% (2023 est.)<br>
 4.3% (2022 est.)<br>
 5.1% (2021 est.)<br>
-4.82% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -476,7 +476,7 @@ _female_: 8.8%<br>
 <b>note:</b> % of population with income below national poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-33.1 (2018 est.)<br>
+33.7 (2020 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -484,14 +484,14 @@ _on food_: 9.9% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 3.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.9%<br>
-_highest 10%_: 25.8% (2018 est.)<br>
+_lowest 10%_: 2.9% (2020 est.)<br>
+_highest 10%_: 26.4% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-0.32% of GDP (2022 est.)<br>
-0.34% of GDP (2021 est.)<br>
-0.38% of GDP (2020 est.)<br>
+0.28% of GDP (2023 est.)<br>
+0.38% of GDP (2022 est.)<br>
+0.39% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -503,25 +503,25 @@ _expenditures_: $230.383 billion (2018 est.)<br>
 1.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+17.8% of GDP (2022 est.)<br>
 19.99% of GDP (2021 est.)<br>
 20.85% of GDP (2020 est.)<br>
-18.95% of GDP (2019 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-10.09% (of GDP) (2021 est.)<br>
+9.1% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$81.231 billion (2022 est.)<br>
-$72.055 billion (2021 est.)<br>
-$2.451 billion (2020 est.)<br>
+$67.821 billion (2023 est.)<br>
+$77.245 billion (2022 est.)<br>
+$56.091 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$627.54 billion (2022 est.)<br>
-$579.017 billion (2021 est.)<br>
-$474.042 billion (2020 est.)<br>
+$661.628 billion (2023 est.)<br>
+$627.788 billion (2022 est.)<br>
+$579.011 billion (2021 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -533,9 +533,9 @@ gold, vaccines, packaged medicine, nitrogen compounds, base metal watches (2022)
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$518.451 billion (2022 est.)<br>
-$481.093 billion (2021 est.)<br>
-$429.875 billion (2020 est.)<br>
+$554.358 billion (2023 est.)<br>
+$516.517 billion (2022 est.)<br>
+$481.27 billion (2021 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -547,9 +547,9 @@ gold, packaged medicine, vaccines, cars, garments (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$863.892 billion (2023 est.)<br>
 $923.628 billion (2022 est.)<br>
 $1.11 trillion (2021 est.)<br>
-$1.083 trillion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -558,11 +558,11 @@ $1.931 trillion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Swiss francs (CHF) per US dollar -<br>
+0.898 (2023 est.)<br>
 0.955 (2022 est.)<br>
 0.914 (2021 est.)<br>
 0.939 (2020 est.)<br>
 0.994 (2019 est.)<br>
-0.978 (2018 est.)<br>
 
 ## Energy
 
@@ -707,7 +707,7 @@ the Swiss military is responsible for territorial defense, limited support to in
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

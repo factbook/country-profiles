@@ -19,7 +19,7 @@ Oceania, islands in the South Pacific Ocean, about midway between Peru and New Z
 Oceania<br>
 
 **Area**<br>
-_total_: 47 sq km<br>
+_total _: 47 sq km<br>
 _land_: 47 sq km<br>
 _water_: 0 sq km<br>
 
@@ -47,7 +47,8 @@ _highest point_: Palwala Valley Point on Big Ridge 347 m<br>
 _lowest point_: Pacific Ocean 0 m<br>
 
 **Natural resources**<br>
-miro trees (used for handicrafts), fish; note - manganese, iron, copper, gold, silver, and zinc have been discovered offshore<br>
+miro trees (used for handicrafts), fish<br>
+<strong>note: </strong>manganese, iron, copper, gold, silver, and zinc have been discovered offshore<br>
 
 **Land use**<br>
 _agricultural land_: 0% (2011 est.)<br>
@@ -64,7 +65,7 @@ less than 50 inhabitants on Pitcairn Island, most reside near the village of Ada
 occasional tropical cyclones (especially November to March), but generally only heavy tropical storms; landslides<br>
 
 **Geography - note**<br>
-Britain's most isolated dependency; only the larger island of Pitcairn is inhabited but it has no port or natural harbor; supplies must be transported by rowed longboat from larger ships stationed offshore<br>
+Britain's most isolated dependency; only the larger island of Pitcairn is inhabited but it has no port or natural harbor; supplies must be transported by longboat from larger ships stationed offshore<br>
 
 ## People and Society
 

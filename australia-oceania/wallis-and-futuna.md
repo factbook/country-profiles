@@ -19,7 +19,7 @@ Oceania, islands in the South Pacific Ocean, about two-thirds of the way from Ha
 Oceania<br>
 
 **Area**<br>
-_total_: 142 sq km<br>
+_total _: 142 sq km<br>
 _land_: 142 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes Ile Uvea (Wallis Island), Ile Futuna (Futuna Island), Ile Alofi, and 20 islets<br>

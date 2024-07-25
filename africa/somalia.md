@@ -19,7 +19,7 @@ Eastern Africa, bordering the Gulf of Aden and the Indian Ocean, east of Ethiopi
 Africa<br>
 
 **Area**<br>
-_total_: 637,657 sq km<br>
+_total _: 637,657 sq km<br>
 _land_: 627,337 sq km<br>
 _water_: 10,320 sq km<br>
 
@@ -375,25 +375,25 @@ regional and local governing bodies continue to exist and control various areas 
 low-income African Horn economy; 30 years of war and instability crippled economic potential; high remittances for basic survival; new fiscal federalism approach; cleared some unsustainable debt; environmentally fragile; digitally driven urbanization efforts<br>
 
 **Real GDP (purchasing power parity)**<br>
-$25.491 billion (2022 est.)<br>
-$24.886 billion (2021 est.)<br>
-$24.089 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$26.351 billion (2023 est.)<br>
+$25.558 billion (2022 est.)<br>
+$24.949 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.43% (2022 est.)<br>
+3.1% (2023 est.)<br>
+2.44% (2022 est.)<br>
 3.31% (2021 est.)<br>
--2.56% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$1,400 (2022 est.)<br>
+$1,500 (2023 est.)<br>
+$1,500 (2022 est.)<br>
 $1,500 (2021 est.)<br>
-$1,500 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$10.42 billion (2022 est.)<br>
+$11.68 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -425,13 +425,13 @@ light industries, including sugar refining, textiles, wireless communication<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.163 million (2022 est.)<br>
+3.277 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-19.29% (2022 est.)<br>
-19.94% (2021 est.)<br>
-19.59% (2020 est.)<br>
+19.03% (2023 est.)<br>
+19.13% (2022 est.)<br>
+19.55% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -447,9 +447,9 @@ _female_: 38.5%<br>
 36.8 (2017 est.)<br>
 
 **Remittances**<br>
+14.85% of GDP (2023 est.)<br>
 16.65% of GDP (2022 est.)<br>
 17.63% of GDP (2021 est.)<br>
-18.85% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -630,7 +630,7 @@ the Somali National Army (SNA) and supporting security and militia forces are ac
 
 **Terrorist group(s)**<br>
 al-Shabaab; Islamic State of Iraq and ash-Sham – Somalia<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

@@ -19,7 +19,7 @@ Central Africa, bordering the Bight of Biafra, between Cameroon and Gabon<br>
 Africa<br>
 
 **Area**<br>
-_total_: 28,051 sq km<br>
+_total _: 28,051 sq km<br>
 _land_: 28,051 sq km<br>
 _water_: 0 sq km<br>
 
@@ -360,25 +360,25 @@ _lyrics/music_: Atanasio Ndongo MIYONO/Atanasio Ndongo MIYONO or Ramiro Sanchez 
 growing CEMAC economy and new OPEC member; large oil and gas reserves; targeting economic diversification and poverty reduction; still recovering from CEMAC crisis; improving public financial management; persistent poverty; hard-hit by COVID-19<br>
 
 **Real GDP (purchasing power parity)**<br>
-$24.987 billion (2022 est.)<br>
-$24.077 billion (2021 est.)<br>
-$24.013 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$28.938 billion (2023 est.)<br>
+$30.685 billion (2022 est.)<br>
+$29.585 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.78% (2022 est.)<br>
-0.26% (2021 est.)<br>
--4.79% (2020 est.)<br>
+-5.69% (2023 est.)<br>
+3.72% (2022 est.)<br>
+0.86% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$14,900 (2022 est.)<br>
-$14,700 (2021 est.)<br>
-$15,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$16,900 (2023 est.)<br>
+$18,300 (2022 est.)<br>
+$18,100 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$12.03 billion (2022 est.)<br>
+$12.117 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -408,17 +408,17 @@ sweet potatoes, cassava, plantains, oil palm fruit, root vegetables, bananas, co
 petroleum, natural gas, sawmilling<br>
 
 **Industrial production growth rate**<br>
-3.13% (2022 est.)<br>
+-11.87% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-572,000 (2022 est.)<br>
+593,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.58% (2022 est.)<br>
+8.67% (2023 est.)<br>
+8.75% (2022 est.)<br>
 9.19% (2021 est.)<br>
-9.03% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -446,7 +446,7 @@ _expenditures_: $2.535 billion (2018 est.)<br>
 43.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-5.44% (of GDP) (2021 est.)<br>
+6.69% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
@@ -471,7 +471,7 @@ crude petroleum, natural gas, fertilizers, packaged medicine, cars (2022)<br>
 $4.297 billion (2022 est.)<br>
 $4.351 billion (2021 est.)<br>
 $3.669 billion (2020 est.)<br>
-<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
+<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Zambia 38%, China 14%, Spain 10%, Nigeria 7%, US 4% (2022)<br>
@@ -482,9 +482,9 @@ ships, refined copper, iron alloys, raw copper, poultry (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$1.538 billion (2023 est.)<br>
+$1.458 billion (2022 est.)<br>
 $44.271 million (2021 est.)<br>
-$60.833 million (2020 est.)<br>
-$40.817 million (2019 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -493,11 +493,11 @@ $1.074 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+606.57 (2023 est.)<br>
 623.76 (2022 est.)<br>
 554.531 (2021 est.)<br>
 575.586 (2020 est.)<br>
 585.911 (2019 est.)<br>
-555.446 (2018 est.)<br>
 
 ## Energy
 
@@ -606,11 +606,11 @@ Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equ
 <strong>note:</strong> police report to the Ministry of National Security, while gendarmes report to the Ministry of National Defense; police generally are responsible for maintaining law and order in the cities, while gendarmes are responsible for security outside cities and for special events; military personnel also fulfill some police functions in border areas, sensitive sites, and high-traffic areas<br>
 
 **Military expenditures**<br>
+1.6% of GDP (2023 est.)<br>
 1.1% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
 1.5% of GDP (2020 est.)<br>
 1.5% of GDP (2019 est.)<br>
-1.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,500 active-duty troops; approximately 500 Gendarmerie (2023)<br>

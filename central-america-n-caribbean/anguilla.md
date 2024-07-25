@@ -19,7 +19,7 @@ Caribbean, islands between the Caribbean Sea and North Atlantic Ocean, east of P
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 91 sq km<br>
+_total _: 91 sq km<br>
 _land_: 91 sq km<br>
 _water_: 0 sq km<br>
 
@@ -255,7 +255,7 @@ _cabinet_: Executive Council appointed by the governor from among elected member
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor<br>
 
 **Legislative branch**<br>
-_description_: unicameral House of Assembly (11 seats; 7 members directly elected in single-seat constituencies by simple majority vote, 2 appointed by the governor, and 2 ex officio members - the attorney general and deputy governor; members serve five-year terms)<br>
+_description_: unicameral House of Assembly (11 seats; 7 members directly elected in single-seat constituencies by simple majority vote, 2 appointed by the governor, and 2 ex-officio members - the attorney general and deputy governor; members serve five-year terms)<br>
 _elections_: last held on 29 June 2020 (next to be held in 2025)<br>
 _election results_: percent of vote by party - NA; seats by party - APM 7, AUF 4; composition - men 8, women 3, percentage women 27.3%<br>
 

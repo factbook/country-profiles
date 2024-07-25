@@ -19,7 +19,7 @@ body of water between the Southern Ocean, Asia, Australia, and the Western Hemis
 Political Map of the World<br>
 
 **Area**<br>
-_total_: 168.723 million sq km<br>
+_total _: 168.723 million sq km<br>
 <strong>note:</strong> includes Arafura Sea, Bali Sea, Banda Sea, Bering Sea, Bering Strait, Celebes Sea, Coral Sea, East China Sea, Flores Sea, Gulf of Alaska, Gulf of Thailand, Gulf of Tonkin, Java Sea, Philippine Sea, Sea of Japan, Sea of Okhotsk, Solomon Sea, South China Sea, Sulu Sea, Tasman Sea, and other tributary water bodies<br>
 
 **Area - comparative**<br>

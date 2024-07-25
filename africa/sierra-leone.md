@@ -19,7 +19,7 @@ Western Africa, bordering the North Atlantic Ocean, between Guinea and Liberia<b
 Africa<br>
 
 **Area**<br>
-_total_: 71,740 sq km<br>
+_total _: 71,740 sq km<br>
 _land_: 71,620 sq km<br>
 _water_: 120 sq km<br>
 
@@ -387,31 +387,31 @@ _lyrics/music_: Clifford Nelson FYLE/John Joseph AKA<br>
 low-income West African economy; primarily subsistent agriculture; key iron and diamond mining activities suspended; slow recovery from 1990s civil war; systemic corruption; high-risk debt; high youth unemployment; natural resource rich<br>
 
 **Real GDP (purchasing power parity)**<br>
-$14.068 billion (2022 est.)<br>
-$13.598 billion (2021 est.)<br>
-$13.062 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$14.633 billion (2023 est.)<br>
+$14.148 billion (2022 est.)<br>
+$13.675 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.43% (2023 est.)<br>
 3.46% (2022 est.)<br>
 4.1% (2021 est.)<br>
--1.97% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$1,700 (2023 est.)<br>
 $1,600 (2022 est.)<br>
 $1,600 (2021 est.)<br>
-$1,600 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$4.095 billion (2022 est.)<br>
+$3.81 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+47.64% (2023 est.)<br>
 27.21% (2022 est.)<br>
 11.87% (2021 est.)<br>
-13.45% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -435,17 +435,17 @@ cassava, rice, oil palm fruit, vegetables, sweet potatoes, milk, citrus fruits, 
 diamond mining; iron ore, rutile and bauxite mining; small-scale manufacturing (beverages, textiles, footwear)<br>
 
 **Industrial production growth rate**<br>
-8.17% (2022 est.)<br>
+3.27% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.829 million (2022 est.)<br>
+2.913 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-3.27% (2022 est.)<br>
-3.66% (2021 est.)<br>
-3.57% (2020 est.)<br>
+3.17% (2023 est.)<br>
+3.19% (2022 est.)<br>
+3.52% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -462,14 +462,14 @@ _female_: 7.6%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.4%<br>
+_lowest 10%_: 3.4% (2018 est.)<br>
 _highest 10%_: 29.4% (2018 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-5.67% of GDP (2022 est.)<br>
+6.1% of GDP (2023 est.)<br>
+7.85% of GDP (2022 est.)<br>
 5.47% of GDP (2021 est.)<br>
-4.36% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -487,15 +487,15 @@ _expenditures_: $867 million (2019 est.)<br>
 15.6% (of GDP) (2017 est.)<br>
 
 **Current account balance**<br>
--$358.39 million (2021 est.)<br>
+-$156.702 million (2022 est.)<br>
+-$395.465 million (2021 est.)<br>
 -$320.411 million (2020 est.)<br>
--$792.257 million (2019 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$1.195 billion (2022 est.)<br>
 $1.114 billion (2021 est.)<br>
 $661.505 million (2020 est.)<br>
-$632.405 million (2019 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -507,9 +507,9 @@ iron ore, titanium ore, diamonds, wood, aluminum ore (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.869 billion (2021 est.)<br>
+$2.013 billion (2022 est.)<br>
+$1.906 billion (2021 est.)<br>
 $1.386 billion (2020 est.)<br>
-$1.818 billion (2019 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -521,9 +521,9 @@ rice, plastic products, refined petroleum, vaccines, packaged medicine (2022)<br
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$624.641 million (2022 est.)<br>
+$495.699 million (2023 est.)<br>
+$624.496 million (2022 est.)<br>
 $945.908 million (2021 est.)<br>
-$707.704 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -532,11 +532,11 @@ $1.503 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: leones (SLL) per US dollar -<br>
+21.305 (2023 est.)<br>
 14.048 (2022 est.)<br>
 10.439 (2021 est.)<br>
 9.83 (2020 est.)<br>
 9.01 (2019 est.)<br>
-7.932 (2018 est.)<br>
 
 ## Energy
 
@@ -638,11 +638,11 @@ _key ports_: Bonthe, Freetown, Pepel<br>
 Republic of Sierra Leone Armed Forces (RSLAF): Land Forces, Maritime Forces, Air Wing<br><br>Ministry of Internal Affairs: Sierra Leone Police (2024)<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2023 est.)<br>
 0.6% of GDP (2022 est.)<br>
 0.3% of GDP (2021 est.)<br>
 0.3% of GDP (2020 est.)<br>
 0.3% of GDP (2019 est.)<br>
-0.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 8,500 personnel, mostly ground forces&nbsp; (2023)<br>

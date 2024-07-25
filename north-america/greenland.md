@@ -19,7 +19,7 @@ Northern North America, island between the Arctic Ocean and the North Atlantic O
 Arctic Region<br>
 
 **Area**<br>
-_total_: 2,166,086 sq km<br>
+_total _: 2,166,086 sq km<br>
 _land_: 2,166,086 sq km (approximately 1,710,000 sq km ice-covered)<br>
 
 **Area - comparative**<br>
@@ -329,10 +329,10 @@ _selected World Heritage Site locales_: Ilulissat Icefjord (n); Kujataa, Norse a
 large self-governing Danish territorial economy; preferential EU market access; high-income economy; dependent on Danish financial support, even for whaling and sealing industries; growing tourism; hydropower-fueled but environmentally fragile economy<br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.413 billion (2015 est.)<br>
-$2.24 billion (2014 est.)<br>
-$2.203 billion (2013 est.)<br>
-<strong>note:</strong> data are in 2015 dollars<br>
+$3.857 billion (2021 est.)<br>
+$3.808 billion (2020 est.)<br>
+$3.801 billion (2019 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
 1.29% (2021 est.)<br>
@@ -341,9 +341,10 @@ $2.203 billion (2013 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$41,800 (2015 est.)<br>
-$38,800 (2014 est.)<br>
-$38,500 (2013 est.)<br>
+$68,100 (2021 est.)<br>
+$67,600 (2020 est.)<br>
+$67,600 (2019 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $3.236 billion (2021 est.)<br>
@@ -420,7 +421,7 @@ fish, shellfish, processed crustaceans, precious stones, animal products (2022)<
 $1.609 billion (2021 est.)<br>
 $1.441 billion (2020 est.)<br>
 $1.533 billion (2019 est.)<br>
-<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
+<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Denmark 56%, Sweden 22%, France 10%, Iceland 3%, Canada 3% (2022)<br>
@@ -436,11 +437,11 @@ $58 million (2009)<br>
 
 **Exchange rates**<br>
 _Currency_: Danish kroner (DKK) per US dollar -<br>
+6.89 (2023 est.)<br>
+7.076 (2022 est.)<br>
 6.287 (2021 est.)<br>
 6.542 (2020 est.)<br>
 6.669 (2019 est.)<br>
-6.315 (2018 est.)<br>
-6.603 (2017 est.)<br>
 
 ## Energy
 

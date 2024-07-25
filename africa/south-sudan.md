@@ -19,7 +19,7 @@ East-Central Africa; south of Sudan, north of Uganda and Kenya, west of Ethiopia
 Africa<br>
 
 **Area**<br>
-_total_: 644,329 sq km<br>
+_total _: 644,329 sq km<br>
 _land_: NA<br>
 _water_: NA<br>
 
@@ -70,7 +70,7 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> N
 clusters found in urban areas, particularly in the western interior and around the White Nile as shown in this population distribution map<br>
 
 **Geography - note**<br>
-landlocked; The Sudd is a vast swamp in the north central region of South Sudan, formed by the White Nile, its size is variable but can reach some 15% of the country's total area during the rainy season; it is one of the world's largest wetlands<br>
+landlocked; The Sudd is a vast swamp in the north central region of South Sudan, formed by the White Nile; its size is variable but can reach some 15% of the country's total area during the rainy season; it is one of the world's largest wetlands<br>
 
 ## People and Society
 
@@ -377,9 +377,9 @@ $11.998 billion (2015 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.38% (2023 est.)<br>
 -6.69% (2022 est.)<br>
 10.52% (2021 est.)<br>
-29.68% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by end use**<br>
@@ -398,13 +398,13 @@ milk, cassava, sorghum, goat milk, vegetables, fruits, maize, groundnuts, sesame
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-4.319 million (2022 est.)<br>
+4.471 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-12.44% (2022 est.)<br>
-14.3% (2021 est.)<br>
-14.41% (2020 est.)<br>
+12.27% (2023 est.)<br>
+12.4% (2022 est.)<br>
+13.87% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -419,6 +419,10 @@ _female_: 20.2%<br>
 **Gini Index coefficient - distribution of family income**<br>
 44.1 (2016 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
+
+**Household income or consumption by percentage share**<br>
+_lowest 10%_: 1.7% (2016 est.)<br>
+_highest 10%_: 33.1% (2016 est.)<br>
 
 **Remittances**<br>
 9.49% of GDP (2015 est.)<br>

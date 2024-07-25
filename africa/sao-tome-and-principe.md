@@ -19,7 +19,7 @@ Central Africa, islands in the Gulf of Guinea, just north of the Equator, west o
 Africa<br>
 
 **Area**<br>
-_total_: 964 sq km<br>
+_total _: 964 sq km<br>
 _land_: 964 sq km<br>
 _water_: 0 sq km<br>
 
@@ -68,7 +68,7 @@ Sao Tome, the capital city, has roughly a quarter of the nation's population; Sa
 flooding<br>
 
 **Geography - note**<br>
-the second-smallest African country (after the Seychelles); the two main islands form part of a chain of extinct volcanoes and both are mountainous<br>
+the second-smallest African country (after the Seychelles); the two main islands form part of a chain of extinct volcanoes, and both are mountainous<br>
 
 ## People and Society
 
@@ -379,31 +379,31 @@ _lyrics/music_: Alda Neves DA GRACA do Espirito Santo/Manuel dos Santos Barreto 
 ower middle-income Central African island economy; falling cocoa production due to drought and mismanagement; joint oil venture with Nigeria; government owns 90% of land; high debt, partly from fuel subsidies; tourism gutted by COVID-19<br>
 
 **Real GDP (purchasing power parity)**<br>
-$781.928 million (2022 est.)<br>
-$781.418 million (2021 est.)<br>
-$766.853 million (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.267 billion (2023 est.)<br>
+$1.273 billion (2022 est.)<br>
+$1.272 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+-0.47% (2023 est.)<br>
 0.07% (2022 est.)<br>
 1.9% (2021 est.)<br>
-2.62% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,400 (2022 est.)<br>
-$3,500 (2021 est.)<br>
-$3,500 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$5,500 (2023 est.)<br>
+$5,600 (2022 est.)<br>
+$5,700 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$542.687 million (2022 est.)<br>
+$603.241 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+21.26% (2023 est.)<br>
 18.01% (2022 est.)<br>
 8.14% (2021 est.)<br>
-9.82% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -431,13 +431,13 @@ light construction, textiles, soap, beer, fish processing, timber<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-74,000 (2022 est.)<br>
+76,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-14.35% (2022 est.)<br>
-15.41% (2021 est.)<br>
-15.37% (2020 est.)<br>
+14.21% (2023 est.)<br>
+14.12% (2022 est.)<br>
+15.04% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -454,14 +454,14 @@ _female_: 34.3%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.6%<br>
-_highest 10%_: 32.9% (2017 est.)<br>
+_lowest 10%_: 2.6% (2017 est.)<br>
+_highest 10%_: 32.8% (2017 est.)<br>
 <strong>note:</strong> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-1.42% of GDP (2022 est.)<br>
+1.35% of GDP (2023 est.)<br>
+1.87% of GDP (2022 est.)<br>
 2.02% of GDP (2021 est.)<br>
-1.83% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -513,7 +513,7 @@ refined petroleum, ships, electric generating sets, rice, cars (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
-$48.607 million (2022 est.)<br>
+$64.476 million (2022 est.)<br>
 $75.017 million (2021 est.)<br>
 $75.288 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>

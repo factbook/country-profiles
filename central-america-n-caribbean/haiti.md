@@ -19,7 +19,7 @@ Caribbean, western one-third of the island of Hispaniola, between the Caribbean 
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 27,750 sq km<br>
+_total _: 27,750 sq km<br>
 _land_: 27,560 sq km<br>
 _water_: 190 sq km<br>
 
@@ -390,31 +390,31 @@ _selected World Heritage Site locales_: National History Park &ndash; Citadel, S
 small Caribbean island economy and OECS-member state; extreme poverty and inflation; enormous income inequality; ongoing civil unrest due to recent presidential assassination; US preferential market access; very open to foreign direct investment<br>
 
 **Real GDP (purchasing power parity)**<br>
-$32.428 billion (2022 est.)<br>
-$32.982 billion (2021 est.)<br>
-$33.586 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$34.406 billion (2023 est.)<br>
+$35.059 billion (2022 est.)<br>
+$35.659 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+-1.86% (2023 est.)<br>
 -1.68% (2022 est.)<br>
 -1.8% (2021 est.)<br>
--3.31% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$2,800 (2022 est.)<br>
-$2,900 (2021 est.)<br>
-$3,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2,900 (2023 est.)<br>
+$3,000 (2022 est.)<br>
+$3,100 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$20.254 billion (2022 est.)<br>
+$19.851 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+36.81% (2023 est.)<br>
 33.98% (2022 est.)<br>
 16.84% (2021 est.)<br>
-22.8% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -439,17 +439,17 @@ sugarcane, cassava, mangoes/guavas, plantains, bananas, maize, avocados, tropica
 textiles, sugar refining, flour milling, cement, light assembly using imported parts<br>
 
 **Industrial production growth rate**<br>
--0.37% (2022 est.)<br>
+-3.82% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-5.15 million (2022 est.)<br>
+5.238 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-14.78% (2022 est.)<br>
-15.56% (2021 est.)<br>
-15.65% (2020 est.)<br>
+14.62% (2023 est.)<br>
+14.72% (2022 est.)<br>
+15.25% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -468,9 +468,9 @@ _lowest 10%_: 0.7%<br>
 _highest 10%_: 47.7% (2001)<br>
 
 **Remittances**<br>
-22.38% of GDP (2022 est.)<br>
-20.1% of GDP (2021 est.)<br>
-23.82% of GDP (2020 est.)<br>
+21.4% of GDP (2023 est.)<br>
+18.75% of GDP (2022 est.)<br>
+19.13% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -533,11 +533,11 @@ $2.17 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: gourdes (HTG) per US dollar -<br>
+141.036 (2023 est.)<br>
 115.631 (2022 est.)<br>
 89.227 (2021 est.)<br>
 93.51 (2020 est.)<br>
 88.815 (2019 est.)<br>
-68.032 (2018 est.)<br>
 
 ## Energy
 
@@ -647,7 +647,7 @@ up to 2,000 military troops (the force is planned to eventually have around 5,00
 men and women 18-25 may volunteer for the FAdH (2023)<br>
 
 **Military - note**<br>
-Haiti's military was disbanded in 1995 after it participated in multiple coups and was accused of other political interference and human rights violations; the military was reinstated by former President MOISE in 2017 after the UN ended its peacekeeping operation in Haiti; the reconstituted military established an Army command in 2018 and has received training assistance from Argentina, Colombia, Ecuador, and Mexico; the military’s stated mission is to assist with natural disaster relief, border security, and combating transnational crime; in 2023, Prime Minister HENRY called upon the military to assist the National Police (PNH) in combating armed gangs, which have overwhelmed the PNH, killed hundreds of Haitians, and seized control of much of the capital Port-au-Prince since the assassination of President MOISE in 2021; as of early 2024, at least 300 criminal groups were operating in Haiti<br><br>in 2023, the UN Security Council approved the deployment of a Kenya-led multinational security support <br>mission (MSS) to help bring gang violence under control; the first deployment of MSS personnel from the Kenya National Police Service occured in mid-2024; the Bahamas, Bangladesh, Barbados, Benin, Chad, and Jamaica have also pledged forces (2024)<br>
+Haiti's military was disbanded in 1995 after it participated in multiple coups and was accused of other political interference and human rights violations; the military was reinstated by former President MOISE in 2017 after the UN ended its peacekeeping operation in Haiti; the reconstituted military established an Army command in 2018 and has received training assistance from Argentina, Colombia, Ecuador, and Mexico; the military’s stated mission is to assist with natural disaster relief, border security, and combating transnational crime; in 2023, Prime Minister HENRY called upon the military to assist the National Police (PNH) in combating armed gangs, which have overwhelmed the PNH, killed hundreds of Haitians, and seized control of much of the capital Port-au-Prince since the assassination of President MOISE in 2021; as of early 2024, at least 300 criminal groups were operating in Haiti<br><br>in 2023, the UN Security Council approved the deployment of a Kenya-led multinational security support <br>mission (MSS) to help bring gang violence under control; the first contingent of MSS personnel from the Kenya National Police Service arrived in mid-2024; the Bahamas, Bangladesh, Barbados, Benin, Chad, and Jamaica have also pledged forces (2024)<br>
 
 ## Transnational Issues
 

@@ -19,7 +19,7 @@ Oceania, islands in the North Pacific Ocean, about three-quarters of the way fro
 Oceania<br>
 
 **Area**<br>
-_total_: 464 sq km<br>
+_total _: 464 sq km<br>
 _land_: 464 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> consists of 14 islands including Saipan, Rota, and Tinian<br>
@@ -387,7 +387,7 @@ scrap iron, refined petroleum, scrap copper, hydraulic engines, integrated circu
 $536 million (2020 est.)<br>
 $735 million (2019 est.)<br>
 $754 million (2018 est.)<br>
-<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
+<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 Singapore 42%, Japan 20%, South Korea 16%, Hong Kong 7%, Taiwan 3% (2022)<br>

@@ -19,7 +19,7 @@ Eastern Europe, bordering the Black Sea, between Poland, Romania, and Moldova in
 AsiaEurope<br>
 
 **Area**<br>
-_total_: 603,550 sq km<br>
+_total _: 603,550 sq km<br>
 _land_: 579,330 sq km<br>
 _water_: 24,220 sq km<br>
 <strong>note:</strong> Russia annexed Crimea in 2014, an area of approximately 27,000 sq km (10,400 sq miles)<br>
@@ -403,31 +403,31 @@ _selected World Heritage Site locales_: Kyiv: Saint Sophia Cathedral and Related
 lower- middle-income, non-EU Eastern European economy; key wheat and corn exporter; gradual recovery after 30% GDP contraction at start of war; damage to infrastructure and agriculture balanced by consumer and business resilience; international aid has stabilized foreign exchange reserves, allowing managed currency float; continued progress on anti-corruption reforms<br>
 
 **Real GDP (purchasing power parity)**<br>
-$379.893 billion (2022 est.)<br>
-$535.815 billion (2021 est.)<br>
-$517.968 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$559.981 billion (2023 est.)<br>
+$531.796 billion (2022 est.)<br>
+$746.471 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--29.1% (2022 est.)<br>
+5.3% (2023 est.)<br>
+-28.76% (2022 est.)<br>
 3.45% (2021 est.)<br>
--3.75% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$10,700 (2022 est.)<br>
-$12,900 (2021 est.)<br>
-$12,400 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$16,200 (2023 est.)<br>
+$15,000 (2022 est.)<br>
+$18,000 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$160.503 billion (2022 est.)<br>
+$178.757 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+12.85% (2023 est.)<br>
 20.18% (2022 est.)<br>
 9.36% (2021 est.)<br>
-2.73% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -457,11 +457,11 @@ maize, potatoes, wheat, sunflower seeds, sugar beets, milk, barley, soybeans, ra
 industrial machinery, ferrous and nonferrous metals, automotive and aircraft components, electronics, chemicals, textiles, mining, construction<br>
 
 **Industrial production growth rate**<br>
--43.15% (2022 est.)<br>
+8.61% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-20.3 million (2021 est.)<br>
+20.312 million (2021 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
@@ -488,14 +488,14 @@ _on food_: 41.6% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 6.9% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 4.3%<br>
+_lowest 10%_: 4.3% (2020 est.)<br>
 _highest 10%_: 21.8% (2020 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-10.41% of GDP (2022 est.)<br>
+8.46% of GDP (2023 est.)<br>
+10.36% of GDP (2022 est.)<br>
 9.04% of GDP (2021 est.)<br>
-9.71% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -512,19 +512,19 @@ _expenditures_: $35.75 billion (2021 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-16.85% (of GDP) (2022 est.)<br>
+16.69% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
+-$9.209 billion (2023 est.)<br>
 $7.972 billion (2022 est.)<br>
 -$3.882 billion (2021 est.)<br>
-$5.267 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$51.093 billion (2023 est.)<br>
 $57.517 billion (2022 est.)<br>
 $81.504 billion (2021 est.)<br>
-$60.707 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -536,9 +536,9 @@ corn, seed oils, wheat, iron ore, rapeseed (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$88.488 billion (2023 est.)<br>
 $83.254 billion (2022 est.)<br>
 $84.175 billion (2021 est.)<br>
-$63.085 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -550,9 +550,9 @@ refined petroleum, cars, natural gas, garments, packaged medicine (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$40.51 billion (2023 est.)<br>
 $28.506 billion (2022 est.)<br>
 $30.967 billion (2021 est.)<br>
-$29.138 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -561,11 +561,11 @@ $114.449 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: hryvnia (UAH) per US dollar -<br>
+36.574 (2023 est.)<br>
 32.342 (2022 est.)<br>
 27.286 (2021 est.)<br>
 26.958 (2020 est.)<br>
 25.846 (2019 est.)<br>
-27.2 (2018 est.)<br>
 
 ## Energy
 
@@ -712,6 +712,7 @@ Armed Forces of Ukraine (AFU; Zbroyni Syly Ukrayiny or ZSU): Ground Forces (Sukh
 3.4% of GDP (2019 est.)<br>
 3.1% of GDP (2018 est.)<br>
 3.1% of GDP (2017 est.)<br>
+<strong>note:</strong> since Russia's invasion of the country in early 2022, defense spending has increased to more than 25% of GDP according to some estimates<br>
 
 **Military and security service personnel strengths**<br>
 at least 700,000 under arms, including the Armed Forces, Territorial Defense Forces, National Guard, and State Border Guard (2022)<br>
@@ -737,7 +738,7 @@ State Space Agency of Ukraine (SSAU; established 1992 as the National Space Agen
 
 **Space program overview**<br>
 SSAU/NSAU inherited a large and well-developed space program when it took over all of the former Soviet defense/space industrial industry that was located on the territory of Ukraine upon the country’s declaration of independence in 1991; prior to the 2014 Russia takeover of Crimea and support for separatists in Ukraine’s Donbas region, Ukraine’s space efforts largely provided support to the Russian space program, including the production of satellite/space launch vehicles (SLVs)/rocket carriers and their components; today, it develops and produces SLVs/rocket carriers, spacecraft, satellites, and satellite sub-components both independently and jointly with numerous foreign space agencies and private space industry companies, including those of Brazil, Canada, China, the European Space Agency (ESA) and its member states (particularly Italy and Poland), Japan, Kazakhstan, Russia (curtailed after 2014), Turkey, and the US; prior to the full scale Russian invasion in February 2022, Ukraine was producing more than 100 SLVs, SLV stages, or SLV engines annually, and since 1991, over 160 rockets and more than 370 spacecraft had been manufactured by Ukraine or produced with its participation; as of 2022, SSAU had 16,000 employees and controlled 20 state-run corporations in Ukraine's “space cluster,” a region between the cities of Dnipro, Kharkiv, and Kyiv (note – Dnipro, known as Ukraine's “Rocket City,” was one of the Soviet Union’s main centers for space, nuclear, and military industries and played a crucial role in the development and manufacture of both civilian and military rockets); in 2019, the Ukrainian Parliament began allowing private companies to engage in space endeavors, including launching rockets into space and allowing companies to negotiate with foreign companies without the state’s approval; previously, only state-owned companies could do so (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

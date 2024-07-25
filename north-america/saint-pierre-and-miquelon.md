@@ -19,7 +19,7 @@ Northern North America, islands in the North Atlantic Ocean, south of Newfoundla
 North America<br>
 
 **Area**<br>
-_total_: 242 sq km<br>
+_total _: 242 sq km<br>
 _land_: 242 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes eight small islands in the Saint Pierre and the Miquelon groups<br>
@@ -68,7 +68,7 @@ most of the population is found on Saint Pierre Island; a small settlement is lo
 persistent fog throughout the year can be a maritime hazard<br>
 
 **Geography - note**<br>
-vegetation scanty; the islands are actually part of the northern Appalachians along with Newfoundland<br>
+vegetation scanty; the islands are part of the northern Appalachians, along with Newfoundland<br>
 
 ## People and Society
 
@@ -240,7 +240,7 @@ none (territorial overseas collectivity of France); note - there are no first-or
 none (overseas collectivity collectivity of France; has been under French control since 1763)<br>
 
 **National holiday**<br>
-Fete de la Federation, 14 July (1790)<br>
+F&ecirc;te de la F&eacute;d&eacute;ration, 14 July (1790)<br>
 
 **Constitution**<br>
 _history_: 4 October 1958 (French Constitution)<br>

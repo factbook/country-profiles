@@ -19,7 +19,7 @@ Oceania, group of islands including the eastern half of the island of New Guinea
 Oceania<br>
 
 **Area**<br>
-_total_: 462,840 sq km<br>
+_total _: 462,840 sq km<br>
 _land_: 452,860 sq km<br>
 _water_: 9,980 sq km<br>
 
@@ -388,31 +388,31 @@ _selected World Heritage Site locales_: Kuk Early Agricultural Site<br>
 lower middle-income Pacific island economy; primarily informal agrarian sector; natural resource-rich; key liquified natural gas exporter; growing young workforce; slow post-pandemic recovery; increasingly impoverished citizenry; sustainable inflation<br>
 
 **Real GDP (purchasing power parity)**<br>
-$38.065 billion (2022 est.)<br>
-$36.195 billion (2021 est.)<br>
-$36.48 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$42.9 billion (2023 est.)<br>
+$41.779 billion (2022 est.)<br>
+$39.728 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+2.68% (2023 est.)<br>
 5.17% (2022 est.)<br>
 -0.78% (2021 est.)<br>
--3.17% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,800 (2022 est.)<br>
-$3,600 (2021 est.)<br>
-$3,700 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$4,200 (2023 est.)<br>
+$4,100 (2022 est.)<br>
+$4,000 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$31.604 billion (2022 est.)<br>
+$30.932 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.3% (2023 est.)<br>
 5.25% (2022 est.)<br>
 4.48% (2021 est.)<br>
-4.87% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -445,13 +445,13 @@ oil and gas; mining (gold, copper, and nickel); palm oil processing; plywood and
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-3.167 million (2022 est.)<br>
+3.229 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-2.78% (2022 est.)<br>
-3.24% (2021 est.)<br>
-3.07% (2020 est.)<br>
+2.65% (2023 est.)<br>
+2.69% (2022 est.)<br>
+2.91% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -470,9 +470,9 @@ _lowest 10%_: 1.7%<br>
 _highest 10%_: 40.5% (1996)<br>
 
 **Remittances**<br>
+0.01% of GDP (2023 est.)<br>
 0.01% of GDP (2022 est.)<br>
 0.05% of GDP (2021 est.)<br>
-0.01% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -483,13 +483,13 @@ _expenditures_: $5.135 billion (2019 est.)<br>
 -4.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
+48.26% of GDP (2022 est.)<br>
+52.58% of GDP (2021 est.)<br>
 48.68% of GDP (2020 est.)<br>
-40.15% of GDP (2019 est.)<br>
-36.67% of GDP (2018 est.)<br>
 <b>note:</b> central government debt as a % of GDP<br>
 
 **Taxes and other revenues**<br>
-11.88% (of GDP) (2020 est.)<br>
+14.79% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>

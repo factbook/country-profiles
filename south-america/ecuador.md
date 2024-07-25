@@ -19,7 +19,7 @@ Western South America, bordering the Pacific Ocean at the Equator, between Colom
 South America<br>
 
 **Area**<br>
-_total_: 283,561 sq km<br>
+_total _: 283,561 sq km<br>
 _land_: 276,841 sq km<br>
 _water_: 6,720 sq km<br>
 <strong>note:</strong> includes Galapagos Islands<br>
@@ -76,7 +76,7 @@ nearly half of the population is concentrated in the interior in the Andean inte
 <p>frequent earthquakes; landslides; volcanic activity; floods; periodic droughts</p><p><strong>volcanism:</strong> volcanic activity concentrated along the Andes Mountains; Sangay (5,230 m), which erupted in 2010, is mainland Ecuador's most active volcano; other historically active volcanoes in the Andes include Antisana, Cayambe, Chacana, Cotopaxi, Guagua Pichincha, Reventador, Sumaco, and Tungurahua; Fernandina (1,476 m), a shield volcano that last erupted in 2009, is the most active of the many Galapagos volcanoes; other historically active Galapagos volcanoes include Wolf, Sierra Negra, Cerro Azul, Pinta, Marchena, and Santiago</p><br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> Cotopaxi in Andes is highest active volcano in world<br><br><strong>note 2:</strong> genetic research indicates that the cherry-sized tomato originated in Ecuador without any human domestication; later domestication in Mexico transformed the plant into the large modern tomato; archeological research indicates that the cacao tree, whose seeds are used to make chocolate and which was long thought to have originated in Mesoamerica, was first domesticated in the upper Amazon region of northwest South America - present-day Ecuador - about 3,300 B.C.<br>
+<strong>note 1:</strong> Cotopaxi in Andes is highest active volcano in world<br><br><strong>note 2:</strong> genetic research indicates that the cherry-sized tomato originated in Ecuador without any human domestication; later domestication in Mexico transformed the plant into the large modern tomato; archeological research indicates that the cacao tree, whose seeds are used to make chocolate and which was long thought to have originated in Mesoamerica, was first domesticated in the upper Amazon region of northwest South America -- present-day Ecuador -- about 3,300 B.C.<br>
 
 ## People and Society
 
@@ -404,31 +404,31 @@ _selected World Heritage Site locales_: Historic Quito (c); Galápagos Islands (
 highly informal South American economy; USD currency user; major banana exporter; hard hit by COVID-19; macroeconomic fragility from oil dependency; successful debt restructuring; China funding budget deficits; social unrest hampering economic activity<br>
 
 **Real GDP (purchasing power parity)**<br>
-$195.477 billion (2022 est.)<br>
-$189.88 billion (2021 est.)<br>
-$182.165 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$260.213 billion (2023 est.)<br>
+$254.226 billion (2022 est.)<br>
+$239.415 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-2.95% (2022 est.)<br>
-4.24% (2021 est.)<br>
--7.79% (2020 est.)<br>
+2.36% (2023 est.)<br>
+6.19% (2022 est.)<br>
+9.82% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$10,900 (2022 est.)<br>
-$10,700 (2021 est.)<br>
-$10,400 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$14,300 (2023 est.)<br>
+$14,100 (2022 est.)<br>
+$13,500 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$115.049 billion (2022 est.)<br>
+$118.845 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+2.22% (2023 est.)<br>
 3.47% (2022 est.)<br>
 0.13% (2021 est.)<br>
--0.34% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -458,17 +458,17 @@ sugarcane, bananas, oil palm fruit, milk, maize, rice, plantains, chicken, cocoa
 petroleum, food processing, textiles, wood products, chemicals<br>
 
 **Industrial production growth rate**<br>
-1.08% (2022 est.)<br>
+-0.75% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-8.813 million (2022 est.)<br>
+8.893 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
+3.37% (2023 est.)<br>
 3.76% (2022 est.)<br>
 4.55% (2021 est.)<br>
-6.13% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -489,14 +489,14 @@ _on food_: 26.3% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 0.8% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 1.7%<br>
+_lowest 10%_: 1.7% (2022 est.)<br>
 _highest 10%_: 34.3% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-4.13% of GDP (2022 est.)<br>
-4.11% of GDP (2021 est.)<br>
-3.37% of GDP (2020 est.)<br>
+4.33% of GDP (2023 est.)<br>
+4.07% of GDP (2022 est.)<br>
+4.07% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -511,19 +511,19 @@ _expenditures_: $39.319 billion (2019 est.)<br>
 43.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-13.21% (of GDP) (2022 est.)<br>
+13.04% (of GDP) (2022 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
-$2.114 billion (2022 est.)<br>
-$3.097 billion (2021 est.)<br>
-$2.21 billion (2020 est.)<br>
+$2.291 billion (2023 est.)<br>
+$2.133 billion (2022 est.)<br>
+$3.098 billion (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$35.92 billion (2022 est.)<br>
+$34.64 billion (2023 est.)<br>
+$35.943 billion (2022 est.)<br>
 $29.037 billion (2021 est.)<br>
-$22.373 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -535,9 +535,9 @@ crude petroleum, shellfish, bananas, fish, refined petroleum (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$34.447 billion (2023 est.)<br>
 $36.051 billion (2022 est.)<br>
 $28.128 billion (2021 est.)<br>
-$19.874 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -549,9 +549,9 @@ refined petroleum, coal tar oil, cars, natural gas, soybean meal (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$4.442 billion (2023 est.)<br>
 $8.459 billion (2022 est.)<br>
 $7.912 billion (2021 est.)<br>
-$7.137 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -688,11 +688,11 @@ Ecuadorian Armed Forces: the Ecuadorian Army (Ejército Ecuatoriano), Ecuadorian
 <strong>note:</strong> the National Police of Ecuador (Policía Nacional del Ecuador) is under the Ministry of Government/Interior<br>
 
 **Military expenditures**<br>
+2% of GDP (2023 est.)<br>
 2% of GDP (2022 est.)<br>
 2% of GDP (2021 est.)<br>
 2.3% of GDP (2020 est.)<br>
-2.2% of GDP (2019)<br>
-2.4% of GDP (2018)<br>
+2.2% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 40,000 active military personnel (25,000 Army; 9,000 Navy; 6,000 Air Force) (2023)<br>
@@ -714,7 +714,7 @@ Ecuadorian Civilian Space Agency (EXA; a civilian independent research and devel
 
 **Space program overview**<br>
 has a small program focused on acquiring or manufacturing satellites; builds scientific satellites; conducts research and develops some space-related technologies; has established relations with the space agencies and industries of China and Russia, as well as the Latin American and Caribbean Space Agency (ALCE) and its member states (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

@@ -523,7 +523,7 @@ natural gas, refined petroleum, fertilizers, crude petroleum, electricity (2022)
 $6.25 billion (2021 est.)<br>
 $8.301 billion (2020 est.)<br>
 $8.844 billion (2019 est.)<br>
-<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
+<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 UAE 27%, Turkey 24%, China 19%, Kazakhstan 7%, Germany 4% (2022)<br>
@@ -682,7 +682,7 @@ Turkmenistan National Space Agency (established 2011; in 2019, was transferred t
 
 **Space program overview**<br>
 has a small space program focused on acquiring satellites and developing the infrastructure to build and operate satellites; particularly interested in remote sensing satellites for such purposes as monitoring its agricultural and transportation sectors, the oil and natural gas industry, and the ecology of the Caspian Sea; has cooperated with the space agencies and/or space industries of France, Italy, Russia, South Korea, and the US (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Transnational Issues
 

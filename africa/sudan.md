@@ -19,7 +19,7 @@ north-eastern Africa, bordering the Red Sea, between Egypt and Eritrea<br>
 Africa<br>
 
 **Area**<br>
-_total_: 1,861,484 sq km<br>
+_total _: 1,861,484 sq km<br>
 _land_: 1,731,671 sq km<br>
 _water_: 129,813 sq km<br>
 
@@ -80,7 +80,7 @@ with the exception of a ribbon of settlement that corresponds to the banks of th
 dust storms and periodic persistent droughts<br>
 
 **Geography - note**<br>
-the Nile is Sudan's primary water source; its major tributaries, the White Nile and the Blue Nile, meet at Khartoum to form the River Nile which flows northward through Egypt to the Mediterranean Sea<br>
+the Nile is Sudan's primary water source; its major tributaries, the White Nile and the Blue Nile, meet at Khartoum to form the River Nile, which flows northward through Egypt to the Mediterranean Sea<br>
 
 ## People and Society
 
@@ -403,25 +403,25 @@ _selected World Heritage Site locales_: Gebel Barkal and the Sites of the Napata
 low-income Sahel economy; one of the world&rsquo;s major agricultural exporters; shared oil pipeline exports with South Sudan; transitional government increasing human capital investment; food prices hit hard by COVID-19; ongoing Gezira Scheme irrigation project<br>
 
 **Real GDP (purchasing power parity)**<br>
-$167.369 billion (2022 est.)<br>
-$168.98 billion (2021 est.)<br>
-$172.198 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$136.039 billion (2023 est.)<br>
+$154.672 billion (2022 est.)<br>
+$156.168 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
--0.95% (2022 est.)<br>
+-12.05% (2023 est.)<br>
+-0.96% (2022 est.)<br>
 -1.87% (2021 est.)<br>
--3.63% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$3,600 (2022 est.)<br>
-$3,700 (2021 est.)<br>
-$3,900 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$2,800 (2023 est.)<br>
+$3,300 (2022 est.)<br>
+$3,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$51.662 billion (2022 est.)<br>
+$109.327 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -451,17 +451,17 @@ sorghum, sugarcane, milk, groundnuts, millet, onions, sesame seeds, goat milk, b
 oil, cotton ginning, textiles, cement, edible oils, sugar, soap distilling, shoes, petroleum refining, pharmaceuticals, armaments, automobile/light truck assembly, milling<br>
 
 **Industrial production growth rate**<br>
--0.74% (2022 est.)<br>
+-11.6% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-13.45 million (2022 est.)<br>
+13.59 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-17.59% (2022 est.)<br>
-19.19% (2021 est.)<br>
-19.21% (2020 est.)<br>
+11.45% (2023 est.)<br>
+7.53% (2022 est.)<br>
+11.47% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -477,14 +477,14 @@ _female_: 45.8%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 3.2%<br>
+_lowest 10%_: 3.2% (2014 est.)<br>
 _highest 10%_: 27.8% (2014 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+0.91% of GDP (2023 est.)<br>
 2.9% of GDP (2022 est.)<br>
 3.27% of GDP (2021 est.)<br>
-1.83% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -699,7 +699,7 @@ the SAF's inventory includes a mix of Chinese, Russian, Soviet-era, and domestic
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; Harakat Sawa’d Misr<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

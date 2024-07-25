@@ -19,7 +19,7 @@ Northern Europe, islands between the Arctic Ocean, Barents Sea, Greenland Sea, a
 Arctic Region<br>
 
 **Area**<br>
-_total_: 62,045 sq km<br>
+_total _: 62,045 sq km<br>
 _land_: 62,045 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes Spitsbergen and Bjornoya (Bear Island)<br>

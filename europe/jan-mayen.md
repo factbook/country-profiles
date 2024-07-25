@@ -19,7 +19,7 @@ Northern Europe, island between the Greenland Sea and the Norwegian Sea, northea
 Arctic Region<br>
 
 **Area**<br>
-_total_: 377 sq km<br>
+_total _: 377 sq km<br>
 _land_: 377 sq km<br>
 _water_: 0 sq km<br>
 

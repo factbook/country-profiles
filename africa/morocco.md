@@ -19,7 +19,7 @@ Northern Africa, bordering the North Atlantic Ocean and the Mediterranean Sea, b
 Africa<br>
 
 **Area**<br>
-_total_: 716,550 sq km<br>
+_total _: 716,550 sq km<br>
 _land_: 716,300 sq km<br>
 _water_: 250 sq km<br>
 
@@ -421,31 +421,31 @@ _selected World Heritage Site locales_: Medina of Fez; Medina of Marrakesh; Ksar
 lower middle-income North African economy; ongoing recovery from recent drought and earthquake; rebounding via tourism, manufacturing, and raw materials processing; significant trade and investment with EU; reform programs include fiscal rebalancing, state enterprise governance and private sector investments<br>
 
 **Real GDP (purchasing power parity)**<br>
-$307.442 billion (2022 est.)<br>
-$303.621 billion (2021 est.)<br>
-$281.076 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$337.48 billion (2023 est.)<br>
+$327.085 billion (2022 est.)<br>
+$323.02 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+3.18% (2023 est.)<br>
 1.26% (2022 est.)<br>
 8.02% (2021 est.)<br>
--7.18% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$8,100 (2022 est.)<br>
-$8,100 (2021 est.)<br>
-$7,500 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$8,800 (2023 est.)<br>
+$8,600 (2022 est.)<br>
+$8,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$130.913 billion (2022 est.)<br>
+$141.109 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+6.09% (2023 est.)<br>
 6.66% (2022 est.)<br>
 1.4% (2021 est.)<br>
-0.71% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -475,17 +475,17 @@ wheat, milk, olives, sugar beets, potatoes, tomatoes, tangerines/mandarins, oran
 automotive parts, phosphate mining and processing, aerospace, food processing, leather goods, textiles, construction, energy, tourism<br>
 
 **Industrial production growth rate**<br>
--1.7% (2022 est.)<br>
+0.96% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-12.183 million (2022 est.)<br>
+12.284 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-9.99% (2022 est.)<br>
-11.22% (2021 est.)<br>
-11.73% (2020 est.)<br>
+9.11% (2023 est.)<br>
+9.53% (2022 est.)<br>
+10.54% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -512,9 +512,9 @@ _highest 10%_: 31.9% (2013 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
+8.6% of GDP (2023 est.)<br>
 8.53% of GDP (2022 est.)<br>
 7.69% of GDP (2021 est.)<br>
-6.11% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -567,9 +567,9 @@ refined petroleum, wheat, natural gas, coal, vehicle parts/accessories (2022)<br
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$36.328 billion (2023 est.)<br>
 $32.314 billion (2022 est.)<br>
 $35.648 billion (2021 est.)<br>
-$35.998 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -578,11 +578,11 @@ $51.851 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Moroccan dirhams (MAD) per US dollar -<br>
+10.131 (2023 est.)<br>
 10.161 (2022 est.)<br>
 8.988 (2021 est.)<br>
 9.497 (2020 est.)<br>
 9.617 (2019 est.)<br>
-9.386 (2018 est.)<br>
 
 ## Energy
 
@@ -708,11 +708,11 @@ Royal Armed Forces (FAR): Royal Moroccan Army (includes the Moroccan Royal Guard
 <strong>note 1:</strong> the Moroccan Royal Guard is officially part of the Royal Moroccan Army, but is under the direct operational control of the Royal Military Household of His Majesty the King; it provides for the security and safety of the King and royal family; it was established in the 11th century and is considered one of the world's oldest active units still in military service<strong><br><br></strong><strong>note 2: </strong>Morocco's security apparatus includes several police and paramilitary organizations with overlapping authority; the National Police (DGSN; Ministry of Interior) manages internal law enforcement in cities; the Royal Gendarmerie (Administration of National Defense) is responsible for law enforcement in rural regions and on national highways; the Gendarmerie operates mobile and fixed checkpoints along the roads in border areas and at the entrances to major municipalities; it also has a counterterrorism role; the Auxiliary Forces (Ministry of Interior) provide support to the Gendarmerie and National Police; it includes a Mobile Intervention Corps, a motorized paramilitary security force that supplements the military and the police as needed<br>
 
 **Military expenditures**<br>
+4% of GDP (2023 est.)<br>
 4.5% of GDP (2022 est.)<br>
 4.5% of GDP (2021 est.)<br>
 4.5% of GDP (2020 est.)<br>
 3.4% of GDP (2019 est.)<br>
-3.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); estimated 20,000 Gendarmerie; estimated 5,000 Mobile Intervention Corps; estimated 25-30,000 Auxiliary Forces (2023)<br>
@@ -733,7 +733,7 @@ the Royal Armed Forces (FAR) are responsible for defending Morocco’s territori
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 

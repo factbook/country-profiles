@@ -19,7 +19,7 @@ Middle East, archipelago in the Persian Gulf, east of Saudi Arabia<br>
 Middle East<br>
 
 **Area**<br>
-_total_: 760 sq km<br>
+_total _: 760 sq km<br>
 _land_: 760 sq km<br>
 _water_: 0 sq km<br>
 
@@ -381,31 +381,31 @@ _selected World Heritage Site locales_: Dilmun Burial Mounds; Qal'at al-Bahrain 
 growing, economically diverse Middle Eastern island economy; major recovery and balancing efforts to fulfill Economic Vision 2030; regional finance hub; increasing openness; high youth unemployment; water scarcity amid reservoir depletion<br>
 
 **Real GDP (purchasing power parity)**<br>
-$76.342 billion (2022 est.)<br>
-$72.803 billion (2021 est.)<br>
-$70.91 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$85.491 billion (2023 est.)<br>
+$83.421 billion (2022 est.)<br>
+$79.531 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-4.86% (2022 est.)<br>
-2.67% (2021 est.)<br>
--4.64% (2020 est.)<br>
+2.48% (2023 est.)<br>
+4.89% (2022 est.)<br>
+2.59% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$51,900 (2022 est.)<br>
-$49,800 (2021 est.)<br>
-$48,000 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$57,600 (2023 est.)<br>
+$56,700 (2022 est.)<br>
+$54,400 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$44.383 billion (2022 est.)<br>
+$43.205 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+0.07% (2023 est.)<br>
 3.63% (2022 est.)<br>
 -0.61% (2021 est.)<br>
--2.32% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **Credit ratings**<br>
@@ -435,17 +435,17 @@ lamb/mutton, dates, milk, chicken, tomatoes, fruits, sheep offal, eggs, sheepski
 petroleum processing and refining, aluminum smelting, iron pelletization, fertilizers, Islamic and offshore banking, insurance, ship repairing, tourism<br>
 
 **Industrial production growth rate**<br>
-1.21% (2022 est.)<br>
+-1.1% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-844,000 (2022 est.)<br>
+855,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-1.34% (2022 est.)<br>
+1.16% (2023 est.)<br>
+1.33% (2022 est.)<br>
 1.55% (2021 est.)<br>
-1.79% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -457,6 +457,11 @@ _female_: 20.5%<br>
 _on food_: 13.1% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 0.4% of household expenditures (2021 est.)<br>
 
+**Remittances**<br>
+0% of GDP (2023 est.)<br>
+0% of GDP (2022 est.)<br>
+0% of GDP (2021 est.)<br>
+
 **Budget**<br>
 _revenues_: $9.168 billion (2019 est.)<br>
 _expenditures_: $12.63 billion (2019 est.)<br>
@@ -465,22 +470,23 @@ _expenditures_: $12.63 billion (2019 est.)<br>
 -10.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-88.5% of GDP (2017 est.)<br>
-81.4% of GDP (2016 est.)<br>
+115.52% of GDP (2020 est.)<br>
+95.6% of GDP (2019 est.)<br>
+88.24% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-16.6% (of GDP) (2017 est.)<br>
+2.92% (of GDP) (2020 est.)<br>
 
 **Current account balance**<br>
+$2.699 billion (2023 est.)<br>
 $6.839 billion (2022 est.)<br>
 $2.602 billion (2021 est.)<br>
--$3.245 billion (2020 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
+$40.344 billion (2023 est.)<br>
 $44.58 billion (2022 est.)<br>
 $35.653 billion (2021 est.)<br>
-$25.68 billion (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -492,9 +498,9 @@ aluminum, refined petroleum, iron ore, aluminum wire, iron blocks (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
+$32.374 billion (2023 est.)<br>
 $33.066 billion (2022 est.)<br>
 $27.996 billion (2021 est.)<br>
-$23.728 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -506,9 +512,9 @@ iron ore, aluminum oxide, cars, gold, ships (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$5.118 billion (2023 est.)<br>
 $4.775 billion (2022 est.)<br>
 $4.993 billion (2021 est.)<br>
-$2.523 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -517,11 +523,11 @@ $42.55 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Bahraini dinars (BHD) per US dollar -<br>
+0.376 (2023 est.)<br>
 0.376 (2022 est.)<br>
 0.376 (2021 est.)<br>
 0.376 (2020 est.)<br>
 0.376 (2019 est.)<br>
-0.376 (2018 est.)<br>
 
 ## Energy
 
@@ -635,11 +641,11 @@ Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Roy
 <strong>note 1:</strong> the Royal Guard is officially under the command of the Army, but exercises considerable autonomy <br><br><strong>note 2:</strong> the Ministry of Interior is responsible for internal security and oversees police and specialized security units responsible for maintaining internal order; the National Guard's primary mission is to guard critical infrastructure such as the airport and oil fields and is a back-up to the police; the Guard is under the Ministry of Interior but reports directly to the king<br>
 
 **Military expenditures**<br>
+3.1% of GDP (2023 est.)<br>
 3.2% of GDP (2022 est.)<br>
 3.6% of GDP (2021 est.)<br>
 4.2% of GDP (2020 est.)<br>
 4% of GDP (2019 est.)<br>
-4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); approximately 3,000 National Guard (2023)<br>
@@ -661,13 +667,13 @@ Bahrain National Space Science Agency (NSSA; established 2014) (2024)<br>
 
 **Space program overview**<br>
 space program in nascent stages and is focused on developing the capabilities to build and operate satellites; the NSSA’s mission includes promoting space science, technology, and research, building capacity in the fields of satellite manufacturing, tracking, control, data processing and analysis, and remote sensing, developing space-related programs and space policy, and facilitating international cooperation; cooperates with a variety of foreign agencies and commercial entities, including those of India, Italy, Japan, Saudi Arabia, the UK, the UAE, and the US; also a member of the Arab Space Coordination Group, established by the UAE in 2019 (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 al-Ashtar Brigades; Islamic Revolutionary Guard Corps/Qods Force<br>
-<strong>note 1:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T <br><br><strong>note 2: </strong>in addition to the al-Ashtar Brigades and the IRGC/Qods Force, Saraya al-Mukhtar (aka The Mukhtar Brigade) is an Iran-backed terrorist organization based in Bahrain, reportedly receiving financial and logistic support from the IRGC; Saraya al-Mukhtar's self-described goal is to depose the Bahraini Government with the intention of paving the way for Iran to exert greater influence in Bahrain; the group was designated by the US as a Specially Designated Global Terrorist in Dec 2020<br>
+<strong>note 1:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide <br><br><strong>note 2: </strong>in addition to the al-Ashtar Brigades and the IRGC/Qods Force, Saraya al-Mukhtar (aka The Mukhtar Brigade) is an Iran-backed terrorist organization based in Bahrain, reportedly receiving financial and logistic support from the IRGC; Saraya al-Mukhtar's self-described goal is to depose the Bahraini Government with the intention of paving the way for Iran to exert greater influence in Bahrain; the group was designated by the US as a Specially Designated Global Terrorist in Dec 2020<br>
 
 ## Transnational Issues
 

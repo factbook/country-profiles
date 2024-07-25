@@ -19,7 +19,7 @@ Western Africa, group of islands in the North Atlantic Ocean, west of Senegal<br
 Africa<br>
 
 **Area**<br>
-_total_: 4,033 sq km<br>
+_total _: 4,033 sq km<br>
 _land_: 4,033 sq km<br>
 _water_: 0 sq km<br>
 
@@ -373,25 +373,25 @@ _selected World Heritage Site locales_: Cidade Velha; Historic Center of Ribeira
 stable, middle-income, developing island economy; strong GDP growth led by tourism sector recovery; sustained poverty reduction through PEDS II development plan; high reliance on foreign remittances and aid to finance external debt<br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.377 billion (2022 est.)<br>
-$3.737 billion (2021 est.)<br>
-$3.539 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$4.903 billion (2023 est.)<br>
+$4.663 billion (2022 est.)<br>
+$3.971 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-17.12% (2022 est.)<br>
-5.62% (2021 est.)<br>
--20.81% (2020 est.)<br>
+5.15% (2023 est.)<br>
+17.44% (2022 est.)<br>
+7.03% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$7,400 (2022 est.)<br>
-$6,400 (2021 est.)<br>
-$6,100 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$8,200 (2023 est.)<br>
+$7,900 (2022 est.)<br>
+$6,800 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.227 billion (2022 est.)<br>
+$2.587 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -426,17 +426,17 @@ sugarcane, tomatoes, coconuts, pulses, goat milk, vegetables, bananas, milk, cab
 food and beverages, fish processing, shoes and garments, salt mining, ship repair<br>
 
 **Industrial production growth rate**<br>
-7.55% (2022 est.)<br>
+1.18% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-252,000 (2022 est.)<br>
+257,000 (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-12.44% (2022 est.)<br>
-14.09% (2021 est.)<br>
-14.59% (2020 est.)<br>
+11.99% (2023 est.)<br>
+12.27% (2022 est.)<br>
+13.91% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -453,14 +453,14 @@ _female_: 40.7%<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.2%<br>
+_lowest 10%_: 2.2% (2015 est.)<br>
 _highest 10%_: 32.3% (2015 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
-14.07% of GDP (2022 est.)<br>
-15.74% of GDP (2021 est.)<br>
-12.85% of GDP (2020 est.)<br>
+12.24% of GDP (2023 est.)<br>
+13.6% of GDP (2022 est.)<br>
+15.33% of GDP (2021 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -475,19 +475,19 @@ _expenditures_: $619 million (2019 est.)<br>
 127.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-17.8% (of GDP) (2017 est.)<br>
+18.39% (of GDP) (2020 est.)<br>
 <b>note:</b> central government tax revenue as a % of GDP<br>
 
 **Current account balance**<br>
--$68.589 million (2022 est.)<br>
--$249.511 million (2021 est.)<br>
--$285.681 million (2020 est.)<br>
+-$82.487 million (2023 est.)<br>
+-$69.634 million (2022 est.)<br>
+-$250.632 million (2021 est.)<br>
 <b>note:</b> balance of payments - net trade and primary/secondary income in current dollars<br>
 
 **Exports**<br>
-$855.067 million (2022 est.)<br>
+$951.224 million (2023 est.)<br>
+$860.578 million (2022 est.)<br>
 $465.348 million (2021 est.)<br>
-$423.252 million (2020 est.)<br>
 <b>note:</b> balance of payments - exports of goods and services in current dollars<br>
 
 **Exports - partners**<br>
@@ -499,9 +499,9 @@ fish, shellfish, garments, natural gas, scrap iron (2022)<br>
 <b>note:</b> top five export commodities based on value in dollars<br>
 
 **Imports**<br>
-$1.301 billion (2022 est.)<br>
+$1.424 billion (2023 est.)<br>
+$1.31 billion (2022 est.)<br>
 $1.117 billion (2021 est.)<br>
-$1.008 billion (2020 est.)<br>
 <b>note:</b> balance of payments - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
@@ -513,9 +513,9 @@ refined petroleum, fish, plastic products, milk, cars (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$816.554 million (2023 est.)<br>
 $704.63 million (2022 est.)<br>
 $769.65 million (2021 est.)<br>
-$735.085 million (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -524,11 +524,11 @@ $1.688 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cabo Verdean escudos (CVE) per US dollar -<br>
-105.531 (2022 est.)<br>
+101.805 (2023 est.)<br>
+104.863 (2022 est.)<br>
 93.218 (2021 est.)<br>
 96.796 (2020 est.)<br>
 98.495 (2019 est.)<br>
-93.414 (2018 est.)<br>
 
 ## Energy
 
@@ -625,11 +625,11 @@ Cabo Verdean Armed Forces (FACV): National Guard (GN; serves as the army and inc
 <strong>note:</strong>  the National Police are under the Ministry of Internal Affairs<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2023 est.)<br>
 0.5% of GDP (2022 est.)<br>
 0.5% of GDP (2021 est.)<br>
 0.5% of GDP (2020 est.)<br>
 0.5% of GDP (2019 est.)<br>
-0.5% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the military has approximately 1,000-1,200 personnel (2023)<br>

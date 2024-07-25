@@ -19,7 +19,7 @@ Middle East, bordering the Gulf of Oman, the Persian Gulf, and the Caspian Sea, 
 Middle East<br>
 
 **Area**<br>
-_total_: 1,648,195 sq km<br>
+_total _: 1,648,195 sq km<br>
 _land_: 1,531,595 sq km<br>
 _water_: 116,600 sq km<br>
 
@@ -349,7 +349,7 @@ _chief of state_: Supreme Leader Ali Hoseini-KHAMENEI (since 4 June 1989)<br>
 _head of government_: President-elect Masoud PEZESHKIAN (assumes office on 30 July 2024)<br>
 _cabinet_: Council of Ministers selected by the president with legislative approval; the supreme leader has some control over appointments to several ministries<br>
 _elections/appointments_: supreme leader appointed for life by Assembly of Experts; president directly elected by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term and an additional nonconsecutive term); election last held on 28 June 2024 first round (runoff to be held on 5 July 2024)<br>
-_election results_: <em><br>2024: </em>first round results - Masoud PEZESHKIAN (independent) 44.4%, Saeed JALILI (Front of Islamic Revolution Stability) 40.4%, Mohammad Baqer QAKIBAF (Progress and Justice Population of Islamic Iran) 14.3%, other 0.9%; second round results - Masoud PEZESHKIAN elected; Masoud PEZESHKIAN 54.8%, Saeed JALILI 45.2$<br><em><br>2021:</em> Ebrahim RAISI elected president; percent of vote - Ebrahim RAISI (independent) 72.4%, Mohsen REZAI (RFII) 13.8%, Abbdolnaser HEMATI (ECP) 9.8%, Amir-Hosein Qazizadeh-HASHEMI (Islamic Law Party) 4%<br>
+_election results_: <em><br>2024: </em>first round results - Masoud PEZESHKIAN (independent) 44.4%, Saeed JALILI (Front of Islamic Revolution Stability) 40.4%, Mohammad Baqer QAKIBAF (Progress and Justice Population of Islamic Iran) 14.3%, other 0.9%; second round results - Masoud PEZESHKIAN elected; Masoud PEZESHKIAN 54.8%, Saeed JALILI 45.2%<br><em><br>2021:</em> Ebrahim RAISI elected president; percent of vote - Ebrahim RAISI (independent) 72.4%, Mohsen REZAI (RFII) 13.8%, Abbdolnaser HEMATI (ECP) 9.8%, Amir-Hosein Qazizadeh-HASHEMI (Islamic Law Party) 4%<br>
 <strong>Note: </strong>presidential election held early due to the death of President Ebrahim RAISI in a helicopter accident in May 2024<br>
 
 **Legislative branch**<br>
@@ -395,31 +395,31 @@ _selected World Heritage Site locales_: Persepolis (c); Tchogha Zanbil (c); Bam 
 traditionally state-controlled economy but reforming state-owned financial entities; strong oil/gas, agricultural, and service sectors; recent massive inflation due to exchange rate depreciation, international sanctions, and investor uncertainty; increasing poverty<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.369 trillion (2022 est.)<br>
-$1.319 trillion (2021 est.)<br>
-$1.26 trillion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$1.44 trillion (2023 est.)<br>
+$1.373 trillion (2022 est.)<br>
+$1.323 trillion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
+4.95% (2023 est.)<br>
 3.78% (2022 est.)<br>
 4.72% (2021 est.)<br>
-3.33% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
+$16,200 (2023 est.)<br>
 $15,500 (2022 est.)<br>
 $15,000 (2021 est.)<br>
-$14,400 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$413.493 billion (2022 est.)<br>
+$401.505 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
+44.58% (2023 est.)<br>
 43.49% (2022 est.)<br>
 43.39% (2021 est.)<br>
-30.59% (2020 est.)<br>
 <b>note:</b> annual % change based on consumer prices<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -443,17 +443,17 @@ wheat, sugarcane, milk, sugar beets, tomatoes, barley, potatoes, vegetables, ora
 petroleum, petrochemicals, gas, fertilizer, caustic soda, textiles, cement and other construction materials, food processing (particularly sugar refining and vegetable oil production), ferrous and nonferrous metal fabrication, armaments<br>
 
 **Industrial production growth rate**<br>
-7.4% (2022 est.)<br>
+8.84% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-28.641 million (2022 est.)<br>
+29.159 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-8.82% (2022 est.)<br>
+9.1% (2023 est.)<br>
+9.09% (2022 est.)<br>
 9.28% (2021 est.)<br>
-9.69% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -465,7 +465,7 @@ _female_: 41.7%<br>
 18.7% (2007 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-40.9 (2019 est.)<br>
+34.8 (2022 est.)<br>
 <b>note:</b> index (0-100) of income distribution; higher values represent greater inequality<br>
 
 **Average household expenditures**<br>
@@ -473,8 +473,8 @@ _on food_: 28.7% of household expenditures (2021 est.)<br>
 _on alcohol and tobacco_: 0.5% of household expenditures (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: 2.3%<br>
-_highest 10%_: 31.7% (2019 est.)<br>
+_lowest 10%_: 2.8% (2022 est.)<br>
+_highest 10%_: 26.8% (2022 est.)<br>
 <b>note:</b> % share of income accruing to lowest and highest 10% of population<br>
 
 **Remittances**<br>
@@ -519,7 +519,7 @@ ethylene polymers, refined copper, acyclic alcohols, aluminum, natural gas (2022
 $102.47 billion (2022 est.)<br>
 $77.33 billion (2021 est.)<br>
 $58.461 billion (2020 est.)<br>
-<strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars<br>
+<strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars<br>
 
 **Imports - partners**<br>
 China 28%, UAE 19%, Brazil 13%, Turkey 9%, India 6% (2022)<br>
@@ -539,11 +539,11 @@ $8.196 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Iranian rials (IRR) per US dollar -<br>
+42,000 (2023 est.)<br>
+42,000 (2022 est.)<br>
 42,000 (2021 est.)<br>
 42,000 (2020 est.)<br>
 42,000 (2019 est.)<br>
-40,864.329 (2018 est.)<br>
-33,226.298 (2017 est.)<br>
 
 ## Energy
 
@@ -680,11 +680,11 @@ the military forces of Iran are divided between the Islamic Republic of Iran Reg
 <strong>note 1:</strong> the Artesh Navy operates Iran’s larger warships and operates in the Gulf of Oman, the Caspian Sea, and deep waters in the region and beyond; the IRGC Navy has responsibility for the closer-in waters of the Persian Gulf and Strait of Hormuz<br><br><strong>note 2:</strong> the Basij is a volunteer paramilitary group under the IRGC with local organizations across the country, which sometimes acts as an auxiliary law enforcement unit for the IRGC; it is formally known as the Organization for the Mobilization of the Oppressed and also known as the Popular Mobilization Army<br><br><strong>note 3: </strong>the Ministry of Intelligence and Security and law enforcement forces under the Interior Ministry, which report to the president, and the IRGC, which reports to the supreme leader, share responsibility for law enforcement and maintaining order<br><br><strong>note 4:</strong> the Law Enforcement Command (FARAJA) is the uniformed police of Iran and includes branches for public security, traffic control, anti-narcotics, special forces (riot control, counterterrorism, hostage rescue, etc), intelligence, and criminal investigations; it has responsibility for border security (Border Guard Command)<br>
 
 **Military expenditures**<br>
+2.1% of GDP (2023 est.)<br>
 2.5% of GDP (2022 est.)<br>
 2.3% of GDP (2021 est.)<br>
 2.1% of GDP (2020 est.)<br>
 2.5% of GDP (2019 est.)<br>
-3.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; up to 600,000 active armed forces personnel; approximately 400,000 Islamic Republic of Iran Regular Forces (350,000 Ground Forces; 18,000 Navy; 40,000 Air Force/Air Defense Forces); approximately 150-190,000 Islamic Revolutionary Guard Corps (100-150,000 Ground Forces; 20,000 Navy; 15,000 Aerospace Force; 5-15,000 Qods Force); estimated 90,000 active Basij Paramilitary Forces (2023)<br>
@@ -713,13 +713,13 @@ Imam Khomeini Space Center (aka Semnan Space Center; Semnan province); Shahroud 
 
 **Space program overview**<br>
 has an ambitious civil and military space program focused on acquiring and operating satellites and developing indigenous satellite/space launch vehicles (SLV); designs, builds, and operates satellites, including communications, remote sensing (RS), and scientific; manufactures and operates SLVs; researching and developing other space-related capabilities and technologies in such areas as telecommunications, RS, navigation, and space situational awareness; UN Security Council and other international sanctions against Iran’s weapons of mass destruction program have severely limited Iran’s cooperation with foreign space agencies and commercial space industries; in recent years, however, it has cooperated with North Korea and Russia on space issues; Iran has also had relations with regional and international space organizations, such as the Asia-Pacific Space Cooperation Organization and the International Telecommunications Satellite Organization; it was a founding member of the UN Committee on the Peaceful Uses of Outer Space (COPUOS) established in 1958 (2024)<br>
-<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in the Space Programs reference guide<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); Jaysh al Adl (Jundallah); Kurdistan Workers' Party (PKK); al-Qa’ida<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the Terrorism reference guide<br>
 
 ## Transnational Issues
 
