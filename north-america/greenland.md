@@ -289,8 +289,8 @@ _highest court(s)_: High Court of Greenland (consists of the presiding professio
 _judge selection and term of office_: judges appointed by the monarch upon the recommendation of the Judicial Appointments Council, a 6-member independent body of judges and lawyers; judges appointed for life with retirement at age 70<br>
 _subordinate courts_: Court of Greenland; 18 district or magistrates' courts<br>
 
-**Political parties and leaders**<br>
-Democrats Party (Demokraatit) or D [Jens Frederik NIELSEN]<br>Fellowship Party (Atassut) or A [Aqqalu JERIMIASSEN]<br>Forward Party (Siumut) or S [Erik JENSEN]<br>Inuit Community (Inuit Ataqatigiit) or IA [Mute Bourup EGEDE]<br>Signpost Party (Naleraq) or N [Pele BROBERG] (formerly Partii Naleraq)<br>
+**Political parties**<br>
+Democrats Party (Demokraatit) or D <br>Fellowship Party (Atassut) or A <br>Forward Party (Siumut) or S <br>Inuit Community (Inuit Ataqatigiit) or IA <br>Signpost Party (Naleraq) or N (formerly Partii Naleraq)<br>
 
 **International organization participation**<br>
 Arctic Council, ICC, NC, NIB, UPU<br>

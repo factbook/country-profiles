@@ -349,8 +349,8 @@ _highest court(s)_: Supreme Court of Cyprus (consists of 13 judges, including th
 _judge selection and term of office_: Republic of Cyprus Supreme Court judges appointed by the president of the republic upon the recommendation of the Supreme Court judges; judges can serve until age 68; "TRNC Supreme Court" judges appointed by the "Supreme Council of Judicature," a 12-member body of judges, the attorney general, appointees by the president of the "TRNC," and by the "Legislative Assembly," and members elected by the bar association; judge tenure NA<br>
 _subordinate courts_: Republic of Cyprus district courts; Assize Courts; Administrative Court; specialized courts for issues relating to family, industrial disputes, the military, and rent control; "TRNC Assize Courts"; "district and family courts"<br>
 
-**Political parties and leaders**<br>
-<strong>area under government control:</strong> <br>Citizens' Alliance or SP [Giorgos LILLIKAS] (dissolved 2 December 2021)<br>Democratic Front or DIPA [Marios GAROYIAN]<br>Democratic Party or DIKO [Nikolas PAPADOPOULOS]<br>Democratic Rally or DISY [Annita DIMITRIOU]<br>Movement of Ecologists - Citizens' Alliance [Charalambos THEOPEMPTOU]<br>Movement of Social Democrats EDEK [Marinos SIZOPOULOS]<br>National Popular Front or ELAM [Christos CHRISTOU]<br>Progressive Party of the Working People or AKEL (Communist Party) [Stefanos STEFANOU]<br>Solidarity Movement [Eleni THEOCHAROUS]<br><br><strong>area administered by Turkish Cypriots:</strong> <br>Communal Democracy Party or TDP [Mine ATLI]<br>Communal Liberation Party - New Forces or TKP-YG [Mehmet CAKICI]<br>Cyprus Socialist Party or KSP [Mehmet BIRINCI]<br>Democratic Party or DP [Fikri ATAOGLU]<br>National Democratic Party or NDP [Buray BUSKUVUTCU]<br>National Unity Party or UBP [Faiz SUCUOGLU]<br>New Cyprus Party or YKP [Murat KANATLI]<br>People's Party or HP [Kudret OZERSAY]<br>Rebirth Party or YDP [Erhan ARIKLI]<br>Republican Turkish Party or CTP [Tufan ERHURMAN]<br>United Cyprus Party or BKP [Izzet IZCAN]<br>
+**Political parties**<br>
+<strong>area under government control:</strong> <br>Democratic Front or DIPA <br>Democratic Party or DIKO<br>Democratic Rally or DISY <br>Movement of Ecologists - Citizens' Alliance <br>Movement of Social Democrats EDEK<br>National Popular Front or ELAM <br>Progressive Party of the Working People or AKEL (Communist Party) <br>Solidarity Movement<br><br><strong>area administered by Turkish Cypriots:</strong> <br>Communal Democracy Party or TDP<br>Communal Liberation Party - New Forces or TKP-YG<br>Cyprus Socialist Party or KSP<br>Democratic Party or DP<br>National Democratic Party or NDP<br>National Unity Party or UBP <br>New Cyprus Party or YKP<br>People's Party or HP <br>Rebirth Party or YDP<br>Republican Turkish Party or CTP<br>United Cyprus Party or BKP<br>
 
 **International organization participation**<br>
 Australia Group, C, CD, CE, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -465,9 +465,10 @@ tourism, food and beverage processing, cement and gypsum, ship repair and refurb
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.8% (2021 est.)<br>
-_male_: 9.2%<br>
-_female_: 14.9%<br>
+_total_: 17.5% (2023 est.)<br>
+_male_: 19.6% (2023 est.)<br>
+_female_: 15.1% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 13.9% (2021 est.)<br>

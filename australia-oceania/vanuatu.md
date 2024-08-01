@@ -321,8 +321,8 @@ _highest court(s)_: Court of Appeal (consists of 2 or more judges of the Supreme
 _judge selection and term of office_: Supreme Court chief justice appointed by the president after consultation with the prime minister and the leader of the opposition; other judges appointed by the president on the advice of the Judicial Service Commission, a 4-member advisory body; judges serve until the age of retirement<br>
 _subordinate courts_: Magistrates Courts; Island Courts<br>
 
-**Political parties and leaders**<br>
-Iauko Group (Eagle Party) or IG [Tony NARI]<br>Laverwo Movement or LM [Seoule SIMEON]<br>Land and Justice Party (Graon mo Jastis Pati) or GJP [Ralph REGENVANU]<br>Leaders Party of Vanuatu or LVP [Nikenike VUROBARAVUJotham NAPAT] <br>Nagriamel Movement or NAG [Frankie STEVENS Pikioune LEONARD]<br>National United Party or NUP [Ham LINI Bruno Leingkon TAU]<br>Nagwasoanda Custom Movement or NCM [Ian Toakalana WILSON]<br>People's Progressive Party or PPP [Sato KILMAN]<br>People Unity Development Party or PUDP [NA]<br>Rural Development Party or RDP [Jay NGWELE, spokesman]<br>Reunification of Movement for Change or RMC [Charlot SALWAI]<br>Union of Moderate Parties or UMP [Alatoi Ishmael KALSAKAU]<br>Unity for Change Movement or UCM [Vari Peter JAMES]<br>Vanua'aku Pati (Our Land Party) or VP [Bob LOUGHMAN]<br>Vanuatu Liberal Movement or VLM [Gaetan PIKIOUNE]<br>Vanuatu National Development Party or VNDP [Robert Bohn SIKOLChristphoe EMELEE]<br>Vanuatu Progressive Development Party or VPDP [John NIL]<br>
+**Political parties**<br>
+Iauko Group (Eagle Party) or IG <br>Laverwo Movement or LM <br>Land and Justice Party (Graon mo Jastis Pati or GJP) <br>Leaders Party of Vanuatu or LVP <br>Nagriamel Movement or NAG <br>National United Party or NUP <br>Nagwasoanda Custom Movement or NCM <br>People's Progressive Party or PPP <br>People Unity Development Party or PUDP <br>Rural Development Party or RDP <br>Reunification of Movement for Change or RMC <br>Union of Moderate Parties or UMP<br>Unity for Change Movement or UCM <br>Vanua'aku Pati (Our Land Party) or VP <br>Vanuatu Liberal Movement or VLM <br>Vanuatu National Development Party or VNDP <br>Vanuatu Progressive Development Party or VPDP <br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IOM, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIF, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -422,9 +422,10 @@ food and fish freezing, wood processing, meat canning<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.4% (2021 est.)<br>
-_male_: 5.2%<br>
-_female_: 5.6%<br>
+_total_: 10.7% (2023 est.)<br>
+_male_: 8.9% (2023 est.)<br>
+_female_: 13% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 15.9% (2020 est.)<br>

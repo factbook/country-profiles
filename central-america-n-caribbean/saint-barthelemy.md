@@ -216,8 +216,8 @@ _description_: unicameral Territorial Council (19 seats; members elected by abso
 _elections_: Territorial Council - first round held on 20 March 2022 and second round held on 27 March 2022 (next to be held in 2027)<br><br>French Senate - election last held on 24 September 2023 (next to be held on 30 September 2026)<br><br>French National Assembly - election last held on 12 and 19 June 2022 (next to be held by June 2027)<br>
 _election results_: Territorial Council - percent of vote by party in first round - SBA 46.2%, Saint Barth Action Equilibre 27.1%, Unis pour Saint Barthelemy 26.8%; percent of vote by party in second round - Saint Barth Action Equilibre and Unis pour Saint Barthelemy 50.9%, SBA 49.2%, seats by party - Saint Barth Action Equilibre and Unis pour Saint Barthelemy 13, SBA 6; composition - men NA, women NA, percentage women NA%<br><br>French Senate - percent of vote by party - NA; seats by party - UMP 1<br><br>French National Assembly - percent of vote by party NA; seats by party - UMP 1<br>
 
-**Political parties and leaders**<br>
-All for Saint Barth (Tous pour Saint-Barth) [Bettina COINTRE]<br>Saint Barth Action Equilibre [Marie-Hélène BERNIER]<br>Saint Barth First! (Saint-Barth d'Abord!) or SBA [Romaric MAGRAS] (affiliated with France's Republican party, Les Republicans)<br>Saint Barth United (Unis pour Saint-Barthelemy) [Xavier LEDEE]<br>
+**Political parties**<br>
+All for Saint Barth (Tous pour Saint-Barth)<br>Saint Barth Action Equilibre<br>Saint Barth First! (Saint-Barth d'Abord!) or SBA (affiliated with France's Republican party, Les Republicans)<br>Saint Barth United (Unis pour Saint-Barthelemy)<br>
 
 **International organization participation**<br>
 ACS (associate), UPU<br>

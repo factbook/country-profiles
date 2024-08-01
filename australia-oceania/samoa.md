@@ -315,15 +315,15 @@ _election results_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi II (independent) u
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Fono (53 seats statutory, 54 (2021-25 term); members from single-seat constituencies directly elected by simple majority vote, with a minimum 10% representation of women in the Assembly required; members serve 5-year terms)<br>
 _elections_: election last held on 9 April 2021 (next election to be held in 2026)<br>
-_election results_: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independent 5%; seats by party – 35 FAST, HRPP 18, independent 1; composition - men 47, women 7, percentage women 13%<br><br><strong>note:</strong> on 29 November 2021, the Election Commissioner added two seats for women to the Legislative Assembly, bringing the HRPP’s total from 20 to 22 seats<br><strong><br></strong><br>
+_election results_: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independent 5%; seats by party – 35 FAST, HRPP 18, independent 1; composition - men 47, women 7, percentage women 13%<strong><br></strong><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and 2 Supreme Court judges and meets once or twice a year); Supreme Court (consists of the chief justice and several judges)<br>
 _judge selection and term of office_: chief justice appointed by the chief of state upon the advice of the prime minister; other Supreme Court judges appointed by the Judicial Service Commission, a 3-member body chaired by the chief justice and includes the attorney general and an appointee of the Minister of Justice; judges normally serve until retirement at age 68<br>
 _subordinate courts_: District Court; Magistrates' Courts; Land and Titles Courts; village fono or village chief councils<br>
 
-**Political parties and leaders**<br>
-Fa'atuatua i le Atua Samoa ua Tasi or FAST [FIAME Naomi Mata'afa]<br>Human Rights Protection Party or HRPP [TUILA'EPA Sailele Malielegaoi]<br>Tautua Samoa Party or TSP [Afualo Wood Uti SALELE]<br>
+**Political parties**<br>
+Fa'atuatua i le Atua Samoa ua Tasi or FAST <br>Human Rights Protection Party or HRPP <br>Tautua Samoa Party or TSP <br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, ITU, ITUC (NGOs), MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -424,9 +424,10 @@ food processing, building materials, auto parts<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.7% (2021 est.)<br>
-_male_: 16.7%<br>
-_female_: 24.5%<br>
+_total_: 19.8% (2023 est.)<br>
+_male_: 13.4% (2023 est.)<br>
+_female_: 29.9% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 21.9% (2018 est.)<br>

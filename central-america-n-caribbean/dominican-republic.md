@@ -355,8 +355,8 @@ _highest court(s)_: Supreme Court of Justice or Suprema Corte de Justicia (consi
 _judge selection and term of office_: Supreme Court and Constitutional Court judges appointed by the National Council of the Judiciary comprised of the president, the leaders of both chambers of congress, the president of the Supreme Court, and a non-governing party congressional representative; Supreme Court judges appointed for 7-year terms; Constitutional Court judges appointed for 9-year terms<br>
 _subordinate courts_: courts of appeal; courts of first instance; justices of the peace; special courts for juvenile, labor, and land cases; Contentious Administrative Court for cases filed against the government<br>
 
-**Political parties and leaders**<br>
-Alliance for Democracy or APD<br>Broad Front (Frente Amplio) [Fidel SANTANA]<br>Country Alliance or AP [Guillermo Antonio MORENO Garcia]<br>Dominican Liberation Party or PLD [Danilo MEDINA Sánchez]<br>Dominican Revolutionary Party or PRD [Miguel VARGAS Maldonado]<br>Dominicans For Change or DXC [Manuel OVIEDO Estrada]<br>Independent Revolutionary Party or PRI<br>Institutional Social Democratic Bloc or BIS<br>Liberal Reformist Party or PRL (formerly the Liberal Party of the Dominican Republic or PLRD)<br>Modern Revolutionary Party or PRM [Luis ABINADER]<br>National Progressive Front or FNP [Vinicio CASTILLO, Pelegrin CASTILLO]<br>People's First Party or PPG<br>People's Force or FP [Leonel FERNANDEZ Reyna]<br>Social Christian Reformist Party or PRSC [Federico Augusto "Quique" ANTUN Batile]<br>
+**Political parties**<br>
+Alliance for Democracy or APD<br>Broad Front (Frente Amplio)<br>Country Alliance or AP<br>Dominican Liberation Party or PLD<br>Dominican Revolutionary Party or PRD<br>Dominicans For Change or DXC<br>Independent Revolutionary Party or PRI<br>Institutional Social Democratic Bloc or BIS<br>Liberal Reformist Party or PRL (formerly the Liberal Party of the Dominican Republic or PLRD)<br>Modern Revolutionary Party or PRM<br>National Progressive Front or FNP<br>People's First Party or PPG<br>People's Force or FP<br>Social Christian Reformist Party or PRSC<br>
 
 **International organization participation**<br>
 ACP, ACS, AOSIS, BCIE, Caricom (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, MINUSMA, NAM, OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA (associated member), UN, UNCTAD, UNESCO, UNHRC, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -465,9 +465,10 @@ tourism, sugar processing, gold mining, textiles, cement, tobacco, electrical co
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.6% (2021 est.)<br>
-_male_: 16.6%<br>
-_female_: 27.9%<br>
+_total_: 11.8% (2023 est.)<br>
+_male_: 9.5% (2023 est.)<br>
+_female_: 15.4% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 23.9% (2021 est.)<br>

@@ -337,8 +337,8 @@ _highest court(s)_: Supreme Court of Ireland (consists of the chief justice, 9 j
 _judge selection and term of office_: judges nominated by the prime minister and Cabinet and appointed by the president; chief justice serves in the position for 7 years; judges can serve until age 70<br>
 _subordinate courts_: High Court, Court of Appeal; circuit and district courts; criminal courts<br>
 
-**Political parties and leaders**<br>
-Aontu [Peadar TOIBIN]<br>Solidarity-People Before Profit or PBPS [collective leadership]<br>Fianna Fail [Micheal MARTIN]<br>Fine Gael [Simon HARRIS]<br>Green Party [Eamon RYAN]<br>Human Dignity Alliance [Ronan MULLEN]<br>Labor (Labour) Party Ivana BACIK]<br>Right to Change or RTC [Joan COLLINS]<br>Sinn Fein [Mary Lou McDONALD]<br>Social Democrats [Holly CAIRNS]<br>Socialist Party [collective leadership]<br>The Workers' Party [collective leadership]<br>
+**Political parties**<br>
+Aontu <br>Solidarity-People Before Profit or PBPS <br>Fianna Fail <br>Fine Gael <br>Green Party <br>Human Dignity Alliance <br>Labor (Labour) Party <br>Right to Change or RTC<br>Sinn Fein <br>Social Democrats <br>Socialist Party<br>The Workers' Party<br>
 
 **International organization participation**<br>
 ADB (nonregional member), Australia Group, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNIFIL, UNOCI, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -449,9 +449,10 @@ pharmaceuticals, chemicals, computer hardware and software, food products, bever
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.4% (2021 est.)<br>
-_male_: 16.1%<br>
-_female_: 18.8%<br>
+_total_: 10.5% (2023 est.)<br>
+_male_: 10.5% (2023 est.)<br>
+_female_: 10.6% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 14% (2021 est.)<br>

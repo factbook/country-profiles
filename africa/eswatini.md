@@ -339,8 +339,8 @@ _highest court(s)_: Supreme Court (consists of the chief justice and at least 4 
 _judge selection and term of office_: justices of the Supreme Court and High Court appointed by the monarch on the advice of the Judicial Service Commission (JSC), a judicial advisory body consisting of the Supreme Court Chief Justice, 4 members appointed by the monarch, and the chairman of the Civil Service Commission; justices of both courts eligible for retirement at age 65 with mandatory retirement at age 75<br>
 _subordinate courts_: magistrates' courts; National Swazi Courts for administering customary/traditional laws (jurisdiction restricted to customary law for Swazi citizens)<br>
 
-**Political parties and leaders**<br>
-political parties exist but conditions for their operations, particularly in elections, are undefined, legally unclear, or culturally restricted; the following are considered political associations:<br>African United Democratic Party or AUDP [Stanley S. MALINDZISA]<br>Ngwane National Liberatory Congress or NNLC [Sibongile MAZIBUKO]<br>People's United Democratic Movement or PUDEMO [Mlungisi MAKHANYA]<br>Swazi Democratic Party or SWADEPA [Jan SITHOLE]<br>
+**Political parties**<br>
+political parties exist but conditions for their operations, particularly in elections, are undefined, legally unclear, or culturally restricted; the following are considered political associations:<br>African United Democratic Party or AUDP <br>Ngwane National Liberatory Congress or NNLC <br>People's United Democratic Movement or PUDEMO <br>Swazi Democratic Party or SWADEPA <br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -443,9 +443,10 @@ soft drink concentrates, coal, forestry, sugar processing, textiles, and apparel
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 50.9% (2021 est.)<br>
-_male_: 47.7%<br>
-_female_: 54.1%<br>
+_total_: 65% (2023 est.)<br>
+_male_: 62.4% (2023 est.)<br>
+_female_: 67.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 58.9% (2016 est.)<br>

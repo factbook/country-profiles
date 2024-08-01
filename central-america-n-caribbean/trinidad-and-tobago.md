@@ -316,8 +316,8 @@ _highest court(s)_: Supreme Court of the Judicature (consists of a chief justice
 _judge selection and term of office_: Supreme Court chief justice appointed by the president after consultation with the prime minister and the parliamentary leader of the opposition; other judges appointed by the Judicial Legal Services Commission, headed by the chief justice and 5 members with judicial experience; all judges serve for life with mandatory retirement normally at age 65<br>
 _subordinate courts_: Courts of Summary Criminal Jurisdiction; Petty Civil Courts; Family Court<br>
 
-**Political parties and leaders**<br>
-People's National Movement or PNM [Keith ROWLEY]<br>United National Congress or UNC [Kamla PERSAD-BISSESSAR]<br>Tobago People’s Party or Tobago [Farley AUGUSTINE]<br>
+**Political parties**<br>
+People's National Movement or PNM<br>United National Congress or UNC<br>Tobago People’s Party or Tobago<br>
 
 **International organization participation**<br>
 ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), Paris Club (associate), UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -422,9 +422,10 @@ petroleum and petroleum products, liquefied natural gas, methanol, ammonia, urea
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.7% (2021 est.)<br>
-_male_: 12.8%<br>
-_female_: 12.6%<br>
+_total_: 10.1% (2023 est.)<br>
+_male_: 9.4% (2023 est.)<br>
+_female_: 11.1% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 20% (2014 est.)<br>

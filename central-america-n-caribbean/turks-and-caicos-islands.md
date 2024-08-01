@@ -284,8 +284,8 @@ _highest court(s)_: Supreme Court (consists of the chief justice and other judge
 _judge selection and term of office_: Supreme Court and Appeals Court judges appointed by the governor in accordance with the Judicial Service Commission, a 3-member body of high-level judicial officials; Supreme Court judges serve until mandatory retirement at age 65, but terms can be extended to age 70; Appeals Court judge tenure determined by individual terms of appointment<br>
 _subordinate courts_: magistrates' courts<br>
 
-**Political parties and leaders**<br>
-People's Democratic Movement or PDM [Edwin ASTWOOD]<br>Progressive National Party or PNP [Washington MISICK]<br>
+**Political parties**<br>
+People's Democratic Movement or PDM<br>Progressive National Party or PNP<br>
 
 **International organization participation**<br>
 Caricom (associate), CDB, Interpol (subbureau), UPU<br>

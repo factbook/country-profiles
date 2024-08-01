@@ -317,7 +317,7 @@ _highest court(s)_: Supreme Court (consists of the chief justice and 2 associate
 _judge selection and term of office_: judges appointed by the Cabinet upon the recommendation of the Judicial Service Commission (consists of the chief justice of the High Court, the attorney general and a private citizen selected by the Cabinet) and upon approval of the Nitijela; the current chief justice, appointed in 2013, serves for 10 years; Marshallese citizens appointed as justices serve until retirement at age 72<br>
 _subordinate courts_: High Court; District Courts; Traditional Rights Court; Community Courts<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 traditionally there have been no formally organized political parties; what has existed more closely resembles factions or interest groups because they do not have party headquarters, formal platforms, or party structures<br>
 
 **International organization participation**<br>

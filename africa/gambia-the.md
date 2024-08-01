@@ -355,8 +355,8 @@ _highest court(s)_: Supreme Court of The Gambia (consists of the chief justice a
 _judge selection and term of office_: justices appointed by the president after consultation with the Judicial Service Commission, a 6-member independent body of high-level judicial officials, a presidential appointee, and a National Assembly appointee; justices appointed for life or until mandatory retirement at age 75<br>
 _subordinate courts_: Court of Appeal; High Court; Special Criminal Court; Khadis or Muslim courts; district tribunals; magistrates courts; cadi courts<br>
 
-**Political parties and leaders**<br>
-Alliance for Patriotic Reorientation and Construction or APRC [Fabakary JATTA]<br>Gambia Democratic Congress or GDC [Mama KANDEH]<br>Gambia Moral Congress or GMC [Mai FATTY]<br>National People's Party or NPP [Adama BARROW]<br>People's Progressive Party or PPP [Yaya CEESAY)]<br>United Democratic Party or UDP [Ousainou DARBOE]<br>
+**Political parties**<br>
+Alliance for Patriotic Reorientation and Construction or APRC <br>Gambia Democratic Congress or GDC <br>Gambia Moral Congress or GMC <br>National People's Party or NPP <br>People's Progressive Party or PPP <br>United Democratic Party or UDP <br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNISFA, UNMIL, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -459,9 +459,10 @@ peanuts, fish, hides, tourism, beverages, agricultural machinery assembly, woodw
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.5% (2021 est.)<br>
-_male_: 11.4%<br>
-_female_: 20.5%<br>
+_total_: 10.6% (2023 est.)<br>
+_male_: 10.9% (2023 est.)<br>
+_female_: 10.4% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 53.4% (2020 est.)<br>

@@ -343,8 +343,8 @@ _highest court(s)_: Supreme Court (consists of the court president and 37 judges
 _judge selection and term of office_: Supreme Court president and vice president appointed by the National Assembly upon the proposal of the Minister of Justice based on the opinions of the Judicial Council, an 11-member independent body elected by the National Assembly from proposals submitted by the president, attorneys, law universities, and sitting judges; other Supreme Court judges elected by the National Assembly from candidates proposed by the Judicial Council; Supreme Court judges serve for life; Constitutional Court judges appointed by the National Assembly from nominations by the president of the republic; Constitutional Court president selected from among its own membership for a 3-year term; other judges elected for single 9-year terms<br>
 _subordinate courts_: county, district, regional, and high courts; specialized labor-related and social courts; Court of Audit; Administrative Court<br>
 
-**Political parties and leaders**<br>
-Democratic Party of Pensioners of Slovenia or DeSUS [Ljubo JASNIC]<br>Freedom Movement or GS [Robert GOLOB] (formerly Greens Actions Party or Z.DEJ)<br>List of Marjan Sarec or LMS [Marjan SAREC]<br>New Slovenia - Christian Democrats or NSi [Matej TONIN]<br>Party of Alenka Bratusek or SAB [Alenka BRATUSEK] (formerly Alliance of Social Liberal Democrats or ZSD and before that Alliance of Alenka Bratusek or ZaAB)<br>Resni.ca [Zoran STEVANOVICH]<br>Slovenian Democratic Party or SDS [Janez JANSA] (formerly the Social Democratic Party of Slovenia or SDSS)<br>Slovenian National Party or SNS [Zmago JELINCIC Plemeniti]<br>Social Democrats or SD [Tanja FAJON]<br>The Left or Levica [Luka MESEC] (successor to United Left or ZL)<br>
+**Political parties**<br>
+Democratic Party of Pensioners of Slovenia or DeSUS <br>Freedom Movement or GS (formerly Greens Actions Party or Z.DEJ)<br>List of Marjan Sarec or LMS <br>New Slovenia - Christian Democrats or NSi <br>Party of Alenka Bratusek or SAB (formerly Alliance of Social Liberal Democrats or ZSD and before that Alliance of Alenka Bratusek or ZaAB)<br>Resni.ca <br>Slovenian Democratic Party or SDS (formerly the Social Democratic Party of Slovenia or SDSS)<br>Slovenian National Party or SNS <br>Social Democrats or SD<br>The Left or Levica (successor to United Left or ZL)<br>
 
 **International organization participation**<br>
 Australia Group, BIS, CD, CE, CEI, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -454,9 +454,10 @@ ferrous metallurgy and aluminum products, lead and zinc smelting; electronics (i
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.9% (2021 est.)<br>
-_male_: 12.7%<br>
-_female_: 15.5%<br>
+_total_: 9.9% (2023 est.)<br>
+_male_: 9.9% (2023 est.)<br>
+_female_: 9.9% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 12.7% (2022 est.)<br>

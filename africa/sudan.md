@@ -361,8 +361,9 @@ _highest court(s)_: National Supreme Court (consists of 70 judges organized into
 _judge selection and term of office_: National Supreme Court and Constitutional Court judges selected by the Supreme Judicial Council, which replaced the National Judicial Service Commission upon enactment of the 2019 Constitutional Declaration<br>
 _subordinate courts_: Court of Appeal; other national courts; public courts; district, town, and rural courts<br>
 
-**Political parties and leaders**<br>
-<p>Major Parties as of April 2019: <br>Democratic Unionist Party [Muhammad Uthman al-MIRGHANI]<br>Democratic Unionist Party or DUP [Babika BABIKER]<br>Federal Umma Party [Dr. Ahmed Babikir NAHAR]<br>Muslim Brotherhood or MB [Sadig Abdalla ABDELMAJID and Dr. Yousif Al-Hibir Nor-ELDAYIM]<br>National Congress Party or NCP [Umar Hassan Ahmad al-BASHIR]<br>National Umma Party or NUP [Fadlallah Baramah NASSER]<br>Popular Congress Party or PCP [Nawal Al-KHIDIR]<br>Reform Movement Now [Dr. Ghazi Salahuddin al-ATABANI]<br>Sudan National Front [Ali Mahmud HASANAYN]<br>Sudanese Communist Party or SCP [Mohammed Moktar Al-KHATEEB]<br>Sudanese Congress Party or SCoP [Omar El DIGAIR]<br>Umma Party for Reform and Development [Mubarak Al-Fadul Al-MAHDI]<br>Unionist Movement Party or UMP [led by DUP Chair Mohammed Osama Al-MERGHANI]</p> <strong>note: </strong>in November 2019, the transitional government banned the National Congress Party<br>
+**Political parties**<br>
+<p>Democratic Unionist Party<br>Democratic Unionist Party or DUP<br>Federal Umma Party<br>Muslim Brotherhood or MB<br>National Congress Party or NCP<br>National Umma Party or NUP<br>Popular Congress Party or PCP<br>Reform Movement Now<br>Sudan National Front<br>Sudanese Communist Party or SCP<br>Sudanese Congress Party or SCoP<br>Umma Party for Reform and Development<br>Unionist Movement Party or UMP</p><br>
+<strong>note:  </strong>in November 2019, the transitional government banned the National Congress Party<br>
 
 **International organization participation**<br>
 ABEDA, ACP, AfDB, AFESD, AMF, AU (suspended), CAEU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
@@ -465,9 +466,10 @@ oil, cotton ginning, textiles, cement, edible oils, sugar, soap distilling, shoe
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 35.6% (2021 est.)<br>
-_male_: 30.5%<br>
-_female_: 45.8%<br>
+_total_: 18.2% (2023 est.)<br>
+_male_: 18.5% (2023 est.)<br>
+_female_: 17.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 46.5% (2009 est.)<br>

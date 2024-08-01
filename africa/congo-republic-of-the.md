@@ -370,8 +370,8 @@ _highest court(s)_: Supreme Court or Cour Supreme (consists of NA judges); Const
 _judge selection and term of office_: Supreme Court judges elected by Parliament and serve until age 65; Constitutional Court members appointed by the president of the republic - 3 directly by the president and 6 nominated by Parliament; members appointed for renewable 9-year terms with one-third of the membership renewed every 3 years<br>
 _subordinate courts_: Court of Audit and Budgetary Discipline; courts of appeal; regional and district courts; employment tribunals; juvenile courts<br>
 
-**Political parties and leaders**<br>
-Alliance of the Presidential Majority or AMP<br>Action Movement for Renewal or MAR [Roland BOUITI-VIAUDO]<br>Citizen's Rally or RC [Claude Alphonse NSILOU]<br>Congolese Labour Party or PCT [Denis SASSOU-Nguesso]<br>Congolese Movement for Democracy and Integral Development or MCDDI (vacant)<br>Congo on the Move or LCEM [Jean Valere MBANI]<br>Movement for Unity, Solidarity, and Work or MUST [Claudine MUNARI]<br>Pan-African Union for Social Development or UPADS [Pascal Tsaty MABIALA]<br>Club 2002-Party for the Unity and the Republic or Club 2002 [Wilfrid NGUESSO]<br>Patriotic Union for Democracy and Progress or UPDP [Auguste-Celestin GONGARD NKOUA]<br>Perspectives and Realities Club or CPR [Aimé Hydevert MOUAGNI]<br>Rally for Democracy and Social Progress or RDPS [Jean-Pierre Thystère TCHICAYA]<br>Republican and Liberal Party or PRL [Bonaventure MIZIDY]<br>Union of Democratic Forces or UDF [Josué Rodrigue NGOUONIMBA]<br>Union for Democracy and Republic or UDR [Guy Kinfoussia ROMAIN]<br>Union of Humanist Democrats or UDH-YUKI [vacant]<br>Union for the Republic or UR [Michel Bidimbou POUELA]<br>
+**Political parties**<br>
+Alliance of the Presidential Majority or AMP<br>Action Movement for Renewal or MAR <br>Citizen's Rally or RC <br>Congolese Labour Party or PCT <br>Congolese Movement for Democracy and Integral Development or MCDDI <br>Congo on the Move or LCEM <br>Movement for Unity, Solidarity, and Work or MUST <br>Pan-African Union for Social Development or UPADS <br>Club 2002-Party for the Unity and the Republic or Club 2002 <br>Patriotic Union for Democracy and Progress or UPDP <br>Perspectives and Realities Club or CPR <br>Rally for Democracy and Social Progress or RDPS <br>Republican and Liberal Party or PRL <br>Union of Democratic Forces or UDF <br>Union for Democracy and Republic or UDR<br>Union of Humanist Democrats or UDH-YUKI <br>Union for the Republic or UR <br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -480,9 +480,10 @@ petroleum extraction, cement, lumber, brewing, sugar, palm oil, soap, flour, cig
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 42.3% (2021 est.)<br>
-_male_: 42.2%<br>
-_female_: 42.5%<br>
+_total_: 41.2% (2023 est.)<br>
+_male_: 42.4% (2023 est.)<br>
+_female_: 40.1% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 40.9% (2011 est.)<br>

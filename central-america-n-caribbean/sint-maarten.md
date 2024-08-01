@@ -248,8 +248,8 @@ _highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and 
 _judge selection and term of office_: Joint Court judges appointed by the monarch serve for life<br>
 _subordinate courts_: Courts in First Instance<br>
 
-**Political parties and leaders**<br>
-Democratic Party or DP [Sarah WESCOT-WILLIAMS]<br>National Alliance or NA [Silveria JACOBS]<br>National Opportunity Wealth or NOW [Christophe EMMANUEL]<br>Party for Progress or PFP [Melissa GUMBS]<br>Sint Maarten Christian Party or SMCP [Garcia ARRINDELL]<br>Unified Resilient St Maarten Movement or URSM [Luc MERCELINA]<br>United People's Party or UPP [Rolando BRISON]<br>United Sint Maarten Party or US Party [Frans RICHARDSON]<br>
+**Political parties**<br>
+Democratic Party or DP<br>National Alliance or NA<br>National Opportunity Wealth or NOW<br>Party for Progress or PFP<br>Sint Maarten Christian Party or SMCP<br>Unified Resilient St Maarten Movement or URSM<br>United People's Party or UPP<br>United Sint Maarten Party or US Party<br>
 
 **International organization participation**<br>
 <p>Caricom (observer), ILO, Interpol, UNESCO (associate), UPU, WMO</p><br>

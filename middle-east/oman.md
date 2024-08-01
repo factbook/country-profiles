@@ -335,7 +335,7 @@ _highest court(s)_: Supreme Court (consists of 5 judges)<br>
 _judge selection and term of office_: judges nominated by the 9-member Supreme Judicial Council (chaired by the monarch) and appointed by the monarch; judges appointed for life<br>
 _subordinate courts_: Courts of Appeal; Administrative Court; Courts of First Instance; sharia courts; magistrates' courts; military courts<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 none; note - organized political parties are legally banned in Oman, and loyalties tend to form around tribal affiliations<br>
 
 **International organization participation**<br>
@@ -445,9 +445,10 @@ crude oil production and refining, natural and liquefied natural gas production;
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.6% (2021 est.)<br>
-_male_: 11.6%<br>
-_female_: 29.6%<br>
+_total_: 6.8% (2023 est.)<br>
+_male_: 5.5% (2023 est.)<br>
+_female_: 13.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
 _on food_: 22.6% of household expenditures (2021 est.)<br>

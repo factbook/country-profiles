@@ -316,8 +316,8 @@ _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior c
 _judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: magistrate's court<br>
 
-**Political parties and leaders**<br>
-Saint Lucia Labor Party or SLP [Philip J. PIERRE]<br>United Workers Party or UWP [Allen M. CHASTANET]<br>
+**Political parties**<br>
+Saint Lucia Labor Party or SLP<br>United Workers Party or UWP<br>
 
 **International organization participation**<br>
 ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -416,9 +416,10 @@ tourism; clothing, assembly of electronic components, beverages, corrugated card
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38.7% (2021 est.)<br>
-_male_: 41%<br>
-_female_: 36.2%<br>
+_total_: 28.2% (2023 est.)<br>
+_male_: 29.5% (2023 est.)<br>
+_female_: 26.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 25% (2016 est.)<br>

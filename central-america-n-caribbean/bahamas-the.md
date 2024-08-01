@@ -307,8 +307,8 @@ _judge selection and term of office_: Court of Appeal president and Supreme Cour
 _subordinate courts_: Industrial Tribunal; Magistrates' Courts; Family Island Administrators (can also serve as magistrates)<br>
 <strong>note:</strong> The Bahamas is a member of the 15-member Caribbean Community but is not party to the agreement establishing the Caribbean Court of Justice as its highest appellate court; the Judicial Committee of the Privy Council (in London) serves as the final court of appeal for The Bahamas<br>
 
-**Political parties and leaders**<br>
-<p>Coalition of Independents Party or COI [Lincoln BAIN]<br>Democratic National Alliance or DNA [Arinthia KOMOLAFE]<br>Free National Movement or FNM [Michael PINTARD]<br>Progressive Liberal Party or PLP [Philip "Brave" DAVIS]</p><br>
+**Political parties**<br>
+<p>Coalition of Independents Party or COI<br>Democratic National Alliance or DNA<br>Free National Movement or FNM<br>Progressive Liberal Party or PLP</p><br>
 
 **International organization participation**<br>
 ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (correspondent), ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
@@ -413,9 +413,10 @@ tourism, banking, oil bunkering, maritime industries, transshipment and logistic
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.8% (2021 est.)<br>
-_male_: 27.5%<br>
-_female_: 35.6%<br>
+_total_: 23.6% (2023 est.)<br>
+_male_: 21.5% (2023 est.)<br>
+_female_: 26.7% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 9.3% (2010 est.)<br>

@@ -348,8 +348,8 @@ _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consi
 _judge selection and term of office_: Supreme Court magistrates elected by the Congress of the Republic from candidates proposed by the Postulation Committee, an independent body of deans of the country's university law schools, representatives of the country's law associations, and representatives of the Courts of Appeal; magistrates elected for concurrent, renewable 5-year terms; Constitutional Court judges - 1 elected by the Congress of the Republic, 1 by the Supreme Court, 1 by the president of the republic, 1 by the (public) University of San Carlos, and 1 by the Assembly of the College of Attorneys and Notaries; judges elected for renewable, consecutive 5-year terms; the presidency of the court rotates among the magistrates for a single 1-year term<br>
 _subordinate courts_: Appellate Courts of Accounts, Contentious Administrative Tribunal, courts of appeal, first instance courts, child and adolescence courts, minor or peace courts<br>
 
-**Political parties and leaders**<br>
-Bienestar Nacional or BIEN [Fidel REYES LEE]<br>Blue Party (Partido Azul) or Blue [Jorge VILLAGRÁN]<br>CABAL [Edmond MULET]<br>Cambio [Manuel BALDIZÓN]<br>Citizen Prosperity or PC [Hernan MEJIA and Jorge GARCIA SILVA]<br>Commitment, Renewal, and Order or CREO [Rodolfo NEUTZE]<br>Elephant Community (Comunidad Elefante) or Elephant [Hugo PEÑA Medina]<br>Everyone Together for Guatemala or TODOS [Felipe ALEJOS]<br>Guatemalan National Revolutionary Unity or URNG-MAIZ or URNG [Walter FELIX]<br>Humanist Party of Guatemala or PHG [Rudio MERIDA]<br>Movement for the Liberation of Peoples or MLP [Thelma CABRERA and Vincenta JERONIMO]<br>Movimiento Semilla or SEMILLA [Bernardo ARÉVALO de León]<br>National Advancement Party or PAN [Manuel CONDE]<br>National Convergence Front or FCN-NACION [Javier HERNANDEZ]<br>National Unity for Hope or UNE [Adim MALDONADO]<br>Nationalist Change Union or UCN [Carlos ROJAS and Sofia HERNANDEZ] (dissolved 16 December 2021)<br>Nosotros or PPN [Rudy GUZMAN and Nadia de LEÓN Torres]<br>PODEMOS [Jose LEON]<br>Political Movement Winaq or Winaq [Sonia GUTIERREZ Raguay]<br>TODOS [Felipe ALEJOS]<br>Value or VALOR [Zury RIOS and Lucrecia MARROQUIN]<br>Vamos por una Guatemala Diferente or VAMOS [Alejandro GIAMMATTEI]<br>Victory or VICTORIA [Juan Carlos RIVERA]<br>Vision with Values or VIVA [Armando Damian CASTILLO Alvarado]<br>Will, Opportunity and Solidarity (Voluntad, Oportunidad y Solidaridad) or VOS [Orlando BLANCO]<br>
+**Political parties**<br>
+Bienestar Nacional or BIEN<br>Blue Party (Partido Azul) or Blue<br>CABAL<br>Cambio<br>Citizen Prosperity or PC<br>Commitment, Renewal, and Order or CREO<br>Elephant Community (Comunidad Elefante) or Elephant<br>Everyone Together for Guatemala or TODOS<br>Guatemalan National Revolutionary Unity or URNG-MAIZ or URNG<br>Humanist Party of Guatemala or PHG<br>Movement for the Liberation of Peoples or MLP<br>Movimiento Semilla or SEMILLA<br>National Advancement Party or PAN<br>National Convergence Front or FCN-NACION<br>National Unity for Hope or UNE<br>Nationalist Change Union or UCN (dissolved 16 December 2021)<br>Nosotros or PPN<br>PODEMOS<br>Political Movement Winaq or Winaq<br>TODOS<br>Value or VALOR<br>Vamos por una Guatemala Diferente or VAMOS<br>Victory or VICTORIA<br>Vision with Values or VIVA<br>Will, Opportunity and Solidarity (Voluntad, Oportunidad y Solidaridad) or VOS<br>
 
 **International organization participation**<br>
 ACS, BCIE, CACM, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, Union Latina, UNISFA, UNITAR, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -461,9 +461,10 @@ sugar, textiles and clothing, furniture, chemicals, petroleum, metals, rubber, t
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.2% (2021 est.)<br>
-_male_: 6.3%<br>
-_female_: 9.4%<br>
+_total_: 5.9% (2023 est.)<br>
+_male_: 4.1% (2023 est.)<br>
+_female_: 9.6% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 59.3% (2014 est.)<br>

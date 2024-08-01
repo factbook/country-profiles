@@ -348,8 +348,8 @@ _highest court(s)_: Supreme Court or Le Cour Supr&ecirc;me, (consists of 150 jud
 _judge selection and term of office_: Supreme Court judges appointed by the High Council of Magistracy, an administrative body presided over by the president of the republic, and includes the republic vice-president and several members; judges appointed for life; Constitutional Council members - 4 appointed by the president of the republic, 2 each by the 2 houses of Parliament, 2 by the Supreme Court, and 2 by the Council of State; Council president and members appointed for single 6-year terms with half the membership renewed every 3 years<br>
 _subordinate courts_: appellate or wilaya courts; first instance or daira tribunals<br>
 
-**Political parties and leaders**<br>
-Algerian National Front or FNA [Moussa TOUATI]<br>Algerian Popular Movement or MPA [Amara BENYOUNES]<br>Algeria's Hope Rally or TAJ [Fatma Zohra ZEROUATI]<br>Dignity or El Karama [Mohamed DAOUI]<br>El-Infitah [Omar BOUACHA]<br>El Mostakbal (Future Front) [Abdelaziz BELAID]<br>Ennour El Djazairi Party (Algerian Radiance Party) or PED [Badreddine BELBAZ]<br>Equity and Proclamation Party or PEP [Naima SALHI]<br>Islamic Renaissance Movement or Ennahda Movement [Yazid BENAICHA]<br>Justice and Development Front or FJD [Abdellah DJABALLAH]<br>Movement for National Reform or El Islah [Mohamed Ben ABDESSALAM]<br>Movement of Society for Peace or MSP [Abdelali Hassani CHERIF]<br>National Construction Movement or El-Bina (Harakat El-Binaa El-Watani) [Abdelkader BENGRINA]<br>National Democratic Rally (Rassemblement National Democratique) or RND [Mustapha YAHI]<br>National Front for Social Justice or FNJS [Redouane KHELIF]<br>National Liberation Front or FLN [Abdelkrim BENMBAREK]<br>National Militancy Front or FMN [Abdallah HADDAD]<br>National Party for Solidarity and Development or PNSD [Dalila YALAQUI]<br>National Republican Alliance or ANR [Belkacem SAHLI]<br>New Dawn Party (El-Fajr El-Jadid) [Tahar BENBAIBECHE]<br>New Generation (Jil Jadid) [Soufiane DJILALI]<br>Oath of 1954 or Ahd 54 [Ali Fawzi REBAINE]<br>Party of Justice and Liberty or PLJ [Djamel BENZIADI]<br>Rally for Culture and Democracy or RCD [Atmane MAZOUZ]<br>Socialist Forces Front or FFS [Youcef AOUCHICHE]<br>Union for Change and Progress or UCP [Zoubida ASSOUL]<br>Union of Democratic and Social Forces or UFDS [Salah ABDERAHMANE]<br>Vanguard of Liberties (Talaie El Hurriyet) [Reda BENOUNANE]<br>Workers Party or PT [Louisa HANOUNE]<br>Youth Party or PJ [Hamana BOUCHARMA]<br>
+**Political parties**<br>
+Algerian National Front or FNA<br>Algerian Popular Movement or MPA<br>Algeria's Hope Rally or TAJ<br>Dignity or El Karama<br>El-Infitah<br>El Mostakbal (Future Front)<br>Ennour El Djazairi Party (Algerian Radiance Party) or PED<br>Equity and Proclamation Party or PEP<br>Islamic Renaissance Movement or Ennahda Movement<br>Justice and Development Front or FJD<br>Movement for National Reform or El Islah<br>Movement of Society for Peace or MSP<br>National Construction Movement or El-Bina (Harakat El-Binaa El-Watani)<br>National Democratic Rally (Rassemblement National Democratique) or RND<br>National Front for Social Justice or FNJS<br>National Liberation Front or FLN<br>National Militancy Front or FMN<br>National Party for Solidarity and Development or PNSD<br>National Republican Alliance or ANR<br>New Dawn Party (El-Fajr El-Jadid)<br>New Generation (Jil Jadid)<br>Oath of 1954 or Ahd 54<br>Party of Justice and Liberty or PLJ<br>Rally for Culture and Democracy or RCD<br>Socialist Forces Front or FFS<br>Union for Change and Progress or UCP<br>Union of Democratic and Social Forces or UFDS<br>Vanguard of Liberties (Talaie El Hurriyet)<br>Workers Party or PT<br>Youth Party or PJ<br>
 <strong>note:</strong> a law banning political parties based on religion was enacted in March 1997<br>
 
 **International organization participation**<br>
@@ -457,9 +457,10 @@ petroleum, natural gas, light industries, mining, electrical, petrochemical, foo
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 31.9% (2021 est.)<br>
-_male_: 27.8%<br>
-_female_: 54%<br>
+_total_: 30.8% (2023 est.)<br>
+_male_: 27.4% (2023 est.)<br>
+_female_: 46% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 5.5% (2011 est.)<br>

@@ -384,8 +384,8 @@ _highest court(s)_: Supreme Court of the Russian Federation (consists of 170 mem
 _judge selection and term of office_: all members of Russia's 3 highest courts nominated by the president and appointed by the Federation Council (the upper house of the legislature); members of all 3 courts appointed for life<br>
 _subordinate courts_: regional (kray) and provincial (oblast) courts; Moscow and St. Petersburg city courts; autonomous province and district courts; note - the 21 Russian Republics have court systems specified by their own constitutions<br>
 
-**Political parties and leaders**<br>
-A Just Russia or SRZP [Sergey MIRONOV]<br>Civic Platform or GP [Rifat SHAYKHUTDINOV]<br>Communist Party of the Russian Federation or KPRF [Gennadiy ZYUGANOV]<br>Liberal Democratic Party of Russia or LDPR [Leonid SLUTSKY]<br>New People NL [Alexey NECHAYEV]<br>Party of Growth PR [Boris TITOV]<br>Rodina [Aleksei ZHURAVLYOV]<br>United Russia ER [Dmitriy MEDVEDEV]<br>
+**Political parties**<br>
+A Just Russia or SRZP<br>Civic Platform or GP<br>Communist Party of the Russian Federation or KPRF<br>Liberal Democratic Party of Russia or LDPR<br>New People NL<br>Party of Growth PR<br>Rodina<br>United Russia ER<br>
 
 **International organization participation**<br>
 APEC, Arctic Council, ARF, ASEAN (dialogue partner), BIS, BRICS, BSEC, CBSS, CD, CE, CERN (observer), CICA, CIS, CSTO, EAEC, EAEU, EAPC, EAS, EBRD, FAO, FATF, G-20, GCTU, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OIC (observer), OPCW, OSCE, Paris Club, PCA, PFP, SCO, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UN Security Council (permanent), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -497,9 +497,10 @@ complete range of mining and extractive industries producing coal, oil, gas, che
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.9% (2021 est.)<br>
-_male_: 15.7%<br>
-_female_: 18.4%<br>
+_total_: 12.7% (2023 est.)<br>
+_male_: 12.3% (2023 est.)<br>
+_female_: 13.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 11% (2021 est.)<br>

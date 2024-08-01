@@ -373,8 +373,8 @@ _highest court(s)_: Supreme Court of Pakistan (consists of the chief justice and
 _judge selection and term of office_: justices nominated by an 8-member parliamentary committee upon the recommendation of the Judicial Commission, a 9-member body of judges and other judicial professionals, and appointed by the president; justices can serve until age 65<br>
 _subordinate courts_: High Courts; Federal Shariat Court; provincial and district civil and criminal courts; specialized courts for issues, such as taxation, banking, and customs<br>
 
-**Political parties and leaders**<br>
-Awami National Party or ANP [Asfandyar Wali KHAN]<br>Awami Muslim League or AML [Sheikh Rashid AHMED]<br>Balochistan Awami Party or BAP [Abdul Quddus BIZENJO]<br>Balochistan National Party-Awami or BNP-A [Mir Israrullah ZEHRI]<br>Balochistan National Party-Mengal or BNP-M [Sardar Akhtar Jan MENGAL]<br>Grand Democratic Alliance or GDA [Pir PAGARO] (alliance of several parties)<br>Hazara Democratic Party or HDP [Abdul Khaliq HAZARA]<br>Istehkam-e-Pakistan Party [Jahangir TAREEN]<br>Jamaat-e-Islami or JI [Siraj-ul-HAQ]<br>Jamhoori Wattan Party or JWP [Nawabzada Shahzain BUGTI]<br>Jamiat Ulema-e-Islam-Fazl or JUI-F [Maulana Fazal-ur-REHMAN]<br>Majlis Wahdat-e-Muslimeen Pakistan or MWM [Raja Nasir ABBAS]<br>Muttahida Majlis-e-Amal or MMA [Maulana Fazal-ur-REHMAN] (alliance of several parties)<br>Muttahida Qaumi Movement-Pakistan or MQM-P [Khalid Maqbool SIDDIQUI]<br>National Party or NP [Abdul Malik BALOCH]<br>Pakistan Muslim League or PML-Z (Zia-ul-Haq Shaheed)<br>Pakistan Muslim League-Functional or PML-F [Pir PAGARO]<br>Pakistan Muslim League-Nawaz or PML-N [Shehbaz SHARIF]<br>Pakistan Muslim League-Quaid-e-Azam or PML-Q [Chaudhry Shujaat HUSSAIN]<br>Pakistan Peoples Party or PPP [Bilawal BHUTTO ZARDARI, Asif Ali ZARDARI]<br>Pakistan Rah-e-Haq Party or PRHP [Muhammad Ibrahim QASMI]<br>Pakistan Tehrik-e Insaaf or PTI (Pakistan Movement for Justice) [Imran KHAN]<br>Pashtoonkhwa Milli Awami Party or PMAP or PKMAP [Mahmood Khan ACHAKZAI]<br>Tehreek-e-Labbaik Pakistan or TLP [Hafiz Muhammad Saad Hussain Rizvi MARKAZI]<br>
+**Political parties**<br>
+Awami National Party or ANP<br>Awami Muslim League or AML<br>Balochistan Awami Party or BAP<br>Balochistan National Party-Awami or BNP-A<br>Balochistan National Party-Mengal or BNP-M<br>Grand Democratic Alliance or GDA (alliance of several parties)<br>Hazara Democratic Party or HDP<br>Istehkam-e-Pakistan Party<br>Jamaat-e-Islami or JI<br>Jamhoori Wattan Party or JWP<br>Jamiat Ulema-e-Islam-Fazl or JUI-F<br>Majlis Wahdat-e-Muslimeen Pakistan or MWM<br>Muttahida Majlis-e-Amal or MMA (alliance of several parties)<br>Muttahida Qaumi Movement-Pakistan or MQM-P<br>National Party or NP<br>Pakistan Muslim League or PML-Z<br>Pakistan Muslim League-Functional or PML-F<br>Pakistan Muslim League-Nawaz or PML-N<br>Pakistan Muslim League-Quaid-e-Azam or PML-Q<br>Pakistan Peoples Party or PPP<br>Pakistan Rah-e-Haq Party or PRHP<br>Pakistan Tehrik-e Insaaf or PTI (Pakistan Movement for Justice)<br>Pashtoonkhwa Milli Awami Party or PMAP or PKMAP<br>Tehreek-e-Labbaik Pakistan or TLP<br>
 
 **International organization participation**<br>
 ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURCAT, MINURSO, MINUSCA, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNISFA, UNISFA, UNMISS, UNOOSA, UNSOS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -485,9 +485,10 @@ textiles and apparel, food processing, pharmaceuticals, surgical instruments, co
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.4% (2021 est.)<br>
-_male_: 9.7%<br>
-_female_: 8.2%<br>
+_total_: 9.7% (2023 est.)<br>
+_male_: 9.3% (2023 est.)<br>
+_female_: 10.7% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 21.9% (2018 est.)<br>

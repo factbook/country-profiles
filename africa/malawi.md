@@ -363,7 +363,7 @@ _election results_: <br><em>2020: </em>Lazarus CHAKWERA elected president; Lazar
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (193 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: last held on 21 May 2019 (next to be held in May 2024)<br>
+_elections_: last held on 21 May 2019 (next to be held in May 2025)<br>
 _election results_: percent of vote by party - DPP 26%, MCP 22.3%, UTM 9.9%, UDF 4.6%, PP 2.4%, ADF 0.5%, independent 33.4%; seats by party - DPP 62, MCP 56, UDF 10, UTM 4, PP 5, ADF 1, independent 55; composition - men 153, women 40, percentage women 20.7%<br>
 
 **Judicial branch**<br>
@@ -371,8 +371,8 @@ _highest court(s)_: Supreme Court of Appeal (consists of the chief justice and a
 _judge selection and term of office_: Supreme Court chief justice appointed by the president and confirmed by the National Assembly; other judges appointed by the president upon the recommendation of the Judicial Service Commission, which regulates judicial officers; judges serve until age 65<br>
 _subordinate courts_: High Court; magistrate courts; Industrial Relations Court; district and city traditional or local courts<br>
 
-**Political parties and leaders**<br>
-Democratic Progressive Party or DPP [Peter MUTHARIKA]<br>Malawi Congress Party or MCP [Lazarus CHAKWERA]<br>People's Party or PP [Joyce BANDA]<br>United Democratic Front or UDF<br>United Transformation Movement or UTM [Saulos CHILIMA]<br>
+**Political parties**<br>
+Democratic Progressive Party or DPP <br>Malawi Congress Party or MCP <br>People's Party or PP <br>United Democratic Front or UDF<br>United Transformation Movement or UTM <br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OPCW, SADC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNISFA, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -474,9 +474,10 @@ tobacco, tea, sugar, sawmill products, cement, consumer goods<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.9% (2021 est.)<br>
-_male_: 7.6%<br>
-_female_: 12.2%<br>
+_total_: 6.8% (2023 est.)<br>
+_male_: 6.4% (2023 est.)<br>
+_female_: 7.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 50.7% (2019 est.)<br>

@@ -350,8 +350,8 @@ _highest court(s)_: Supreme Court of the Republic (consists of the chief justice
 _judge selection and term of office_: chief justice nominated by the Constitutional Council (CC), a 9-member high-level advisory body, and appointed by the president; other justices nominated by the CC and appointed by the president on the advice of the chief justice; all justices can serve until age 65<br>
 _subordinate courts_: Court of Appeals; High Courts; Magistrates' Courts; municipal and primary courts<br>
 
-**Political parties and leaders**<br>
-Crusaders for Democracy or CFD [Ganeshalingam CHANDRALINGAM]<br>Eelam People's Democratic Party or EPDP [Douglas DEVANANDA]<br>Eelam People's Revolutionary Liberation Front or EPRLF [Suresh PREMACHANDRAN]<br>Illankai Tamil Arasu Kachchi or ITAK [Mavai SENATHIRAJAH]<br>Janatha Vimukthi Peramuna or JVP [Anura Kumara DISSANAYAKE]<br>Jathika Hela Urumaya or JHU [Udaya GAMMANPILA]<br>National People's Power or NPP (also known as Jathika Jana Balawegaya or JJB) [Anura Kumara DISSANAYAKE]<br>People's Liberation Organisation of Tamil Eelam or PLOTE [Dharmalingam SIDDARTHAN]<br>Samagi Jana Balawegaya or SJB [Sajith PREMADASA]<br>Sri Lanka Freedom Party or SLFP [Maithripala SIRISENA]<br>Sri Lanka Muslim Congress or SLMC [Rauff HAKEEM]<br>Sri Lanka People's Freedom Alliance or SLPFA [Mahinda RAJAPAKSA] (includes SLPFP, SLPP, and several smaller parties)<br>Sri Lanka Podujana Peramuna (Sri Lanka's People's Front) or SLPP [Gamini Lakshman PEIRIS]<br>Tamil Eelam Liberation Organization or TELO [Selvam ADAIKALANATHAN]<br>Tamil National Alliance or TNA [Rajavarothiam SAMPANTHAN] (includes ITAK, PLOTE, TELO)<br>Tamil National People's Front or TNPF [Gajendrakumar PONNAMBALAM]<br>Tamil People's National Alliance or TPNA [Canagasabapathy Visuvalingam VIGNESWARAN]<br>United National Front for Good Governance or UNFGG [Ranil WICKREMESINGHE] (coalition includes JHU, UNP)<br>United National Party or UNP [Ranil WICKREMESINGHE]<br>
+**Political parties**<br>
+Crusaders for Democracy or CFD<br>Eelam People's Democratic Party or EPDP<br>Eelam People's Revolutionary Liberation Front or EPRLF<br>Illankai Tamil Arasu Kachchi or ITAK<br>Janatha Vimukthi Peramuna or JVP<br>Jathika Hela Urumaya or JHU<br>National People's Power or NPP (also known as Jathika Jana Balawegaya or JJB)<br>People's Liberation Organisation of Tamil Eelam or PLOTE<br>Samagi Jana Balawegaya or SJB<br>Sri Lanka Freedom Party or SLFP<br>Sri Lanka Muslim Congress or SLMC<br>Sri Lanka People's Freedom Alliance or SLPFA (includes SLPFP, SLPP, and several smaller parties)<br>Sri Lanka Podujana Peramuna (Sri Lanka's People's Front) or SLPP<br>Tamil Eelam Liberation Organization or TELO<br>Tamil National Alliance or TNA (includes ITAK, PLOTE, TELO)<br>Tamil National People's Front or TNPF<br>Tamil People's National Alliance or TPNA<br>United National Front for Good Governance or UNFGG (coalition includes JHU, UNP)<br>United National Party or UNP<br>
 
 **International organization participation**<br>
 ABEDA, ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, FAO, G-11, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NAM, OAS (observer), OPCW, PCA, SAARC, SACEP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -462,9 +462,10 @@ processing of rubber, tea, coconuts, tobacco and other agricultural commodities;
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.1% (2021 est.)<br>
-_male_: 21.1%<br>
-_female_: 35.6%<br>
+_total_: 25.3% (2023 est.)<br>
+_male_: 20.9% (2023 est.)<br>
+_female_: 33.9% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 14.3% (2019 est.)<br>

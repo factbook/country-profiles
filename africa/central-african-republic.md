@@ -361,8 +361,8 @@ _highest court(s)_: Supreme Court or Cour Supreme (consists of NA judges); Const
 _judge selection and term of office_: Supreme Court judges appointed by the president; Constitutional Court judge appointments - 2 by the president, 1 by the speaker of the National Assembly, 2 elected by their peers, 2 are advocates elected by their peers, and 2 are law professors elected by their peers; judges serve 7-year non-renewable terms<br>
 _subordinate courts_: high courts; magistrates' courts<br>
 
-**Political parties and leaders**<br>
-Action Party for Development or PAD [Laurent GONDAB]<br>African Party for Radical Transformation and Integration of States or PATRIE [Crepin MBOLI-GOUMBA]<br>Alliance for Democracy and Progress or ADP<br>Be Africa ti e Kwe (also known as Central Africa for Us All or BTK) [Honoré DOUBA]<br>Central African Democratic Rally or RDC<br>Central African Party for Integrated Development or PCDI [Timoléon MABIKIKOUA]<br>Democratic Movement for the Renewal and Evolution of Central Africa or MDREC [Joseph BENDOUNGA]<br>Kodro Ti Mo Kozo Si Movement or MKMKS [Jean-Serges BOKASSA]<br>Movement for Democracy and Development or MDD [Louis PAPÉNIAH]<br>Movement for the Liberation of the Central African People or MLPC [Martin ZIGUÉLÉ]<br>National Convergence (also known as Kwa Na Kwa or KNK) [Christian GUÉNÉBEM-DEDIZOUM]<br>National Movement of Independents or MOUNI [Thierry KAMACH]<br>National Union for Democracy and Progress or UNDP [Michel AMINE]<br>National Union of Republican Democrats or UNADER [Laurent GOMINA-PAMPALI]<br>New Impetus for Central Africa or CANE [Sylvain PATASSE]<br>Party for Democracy and Solidarity - Kélémba or KPDS [Aurélien Simplice ZINGAS]<br>Party for Democratic Governance or PGD [Jean-Michel MANDABA]<br>Path of Hope or CDE [Karim MECKASSOUA]<br>Renaissance for Sustainable Development or RDD [Augustin AGOU]<br>Socialist Party or PS [Martin PANOU]<br>Transformation Through Action Initiative or ITA [Dominique YANDOCKA]<br>Union for Central African Renewal or URCA [Anicet-Georges DOLOGUÉLÉ]<br>Union for Renaissance and Development or URD [Auguste BOUKANGA]<br>United Hearts Movement or MCU [Faustin-Archange TOUADÉRA]<strong><br></strong><br>
+**Political parties**<br>
+Action Party for Development or PAD<br>African Party for Radical Transformation and Integration of States or PATRIE<br>Alliance for Democracy and Progress or ADP<br>Be Africa ti e Kwe (also known as Central Africa for Us All or BTK)<br>Central African Democratic Rally or RDC<br>Central African Party for Integrated Development or PCDI<br>Democratic Movement for the Renewal and Evolution of Central Africa or MDREC<br>Kodro Ti Mo Kozo Si Movement or MKMKS<br>Movement for Democracy and Development or MDD<br>Movement for the Liberation of the Central African People or MLPC<br>National Convergence (also known as Kwa Na Kwa or KNK)<br>National Movement of Independents or MOUNI<br>National Union for Democracy and Progress or UNDP<br>National Union of Republican Democrats or UNADER<br>New Impetus for Central Africa or CANE<br>Party for Democracy and Solidarity - Kélémba or KPDS<br>Party for Democratic Governance or PGD<br>Path of Hope or CDE<br>Renaissance for Sustainable Development or RDD<br>Socialist Party or PS<br>Transformation Through Action Initiative or ITA<br>Union for Central African Renewal or URCA<br>Union for Renaissance and Development or URD<br>United Hearts Movement or MCU<strong><br></strong><br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country) (suspended), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, NAM, OIC (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -465,9 +465,10 @@ gold and diamond mining, logging, brewing, sugar refining<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.8% (2021 est.)<br>
-_male_: 10.6%<br>
-_female_: 13.1%<br>
+_total_: 10.7% (2023 est.)<br>
+_male_: 9.7% (2023 est.)<br>
+_female_: 11.8% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 68.8% (2021 est.)<br>

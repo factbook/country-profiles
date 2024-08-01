@@ -360,8 +360,8 @@ _highest court(s)_: Supreme Court of Uganda (consists of the chief justice and a
 _judge selection and term of office_: justices appointed by the president of the republic in consultation with the Judicial Service Commission, an 8-member independent advisory body, and approved by the National Assembly; justices serve until mandatory retirement at age 70<br>
 _subordinate courts_: Court of Appeal (also acts as the Constitutional Court); High Court (includes 12 High Court Circuits and 8 High Court Divisions); Industrial Court; Chief Magistrate Grade One and Grade Two Courts throughout the country; qadhis courts; local council courts; family and children courts<br>
 
-**Political parties and leaders**<br>
-Democratic Party or DP [Norbert MAO]<br>Forum for Democratic Change or FDC [Patrick Oboi AMURIAT]<br>Justice Forum or JEEMA [Asuman BASALIRWA]<br>National Resistance Movement or NRM [Yoweri MUSEVENI]<br>National Unity Platform [Robert Kyagulanyi SSENTAMU, known as Bobi WINE]<br>People's Progressive Party or PPP [Jaberi Bidandi SSALI]<br>Uganda People's Congress or UPC [James AKENA]<br>
+**Political parties**<br>
+Democratic Party or DP<br>Forum for Democratic Change or FDC<br>Justice Forum or JEEMA<br>National Resistance Movement or NRM<br>National Unity Platform<br>People's Progressive Party or PPP<br>Uganda People's Congress or UPC<br>
 
 **International organization participation**<br>
 ACP, AfDB, ATMIS, AU, C, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITC, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, PCA, UN, UNCDF, UNCTAD, UNECA, UNDP, UNFPA, UNESCO, UNHCR, UNICEF, UNIDO, UNISFA, UNOCI, UNOPS, UNSOM, UNWTO, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -470,9 +470,10 @@ sugar processing, brewing, tobacco, cotton textiles; cement, steel production<br
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.3% (2021 est.)<br>
-_male_: 3.4%<br>
-_female_: 5.3%<br>
+_total_: 4.5% (2023 est.)<br>
+_male_: 3.4% (2023 est.)<br>
+_female_: 5.6% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 20.3% (2019 est.)<br>

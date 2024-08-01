@@ -383,8 +383,8 @@ _highest court(s)_: Supreme People's Court (consists of over 340 judges, includi
 _judge selection and term of office_: chief justice appointed by the People's National Congress (NPC); limited to 2 consecutive 5-year-terms; other justices and judges nominated by the chief justice and appointed by the Standing Committee of the NPC; term of other justices and judges determined by the NPC<br>
 _subordinate courts_: Higher People's Courts; Intermediate People's Courts; District and County People's Courts; Autonomous Region People's Courts; International Commercial Courts; Special People's Courts for military, maritime, transportation, and forestry issues<br>
 
-**Political parties and leaders**<br>
-Chinese Communist Party or CCP [XI Jinping]<br>
+**Political parties**<br>
+Chinese Communist Party or CCP <br>
 <strong>note:</strong> China has 8 nominally independent small parties controlled by the CCP<br>
 
 **International organization participation**<br>
@@ -499,9 +499,10 @@ world leader in gross value of industrial output; mining and ore processing, iro
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.4% (2021 est.)<br>
-_male_: 12.1%<br>
-_female_: 10.4%<br>
+_total_: 15.7% (2023 est.)<br>
+_male_: 16.9% (2023 est.)<br>
+_female_: 14.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 0% (2020 est.)<br>

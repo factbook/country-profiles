@@ -344,8 +344,8 @@ _highest court(s)_: Supreme Court or Cour Supreme (consists of NA magistrates); 
 _judge selection and term of office_: Supreme Court magistrates appointed by the president with the advice of the Superior Council of the Magistracy (CSM), a 10-member body consisting of 4 judges, 3 members (non-parliamentarians and judges) appointed by the president, and 3 appointed by the National Assembly president or speaker; magistrates appointed for life with retirement at age 65; Constitutional Council magistrate appointments - 2 by the president of the republic, 2 by the president of the National Assembly, and 2 by the CSM; magistrates appointed for 8-year, non-renewable terms<br>
 _subordinate courts_: High Court of Appeal; Courts of First Instance; customary courts; State Court (replaced sharia courts in 2003)<br>
 
-**Political parties and leaders**<br>
-Front for Restoration of Unity and Democracy (Front pour la Restauration de l'Unite Democratique) or FRUD [Ali Mohamed DAOUD]<br>National Democratic Party or PND [Abdourahman Mohamed ALLALEH]<br>People's Rally for Progress or RPP [Ismail Omar GUELLEH] (governing party)<br>Peoples Social Democratic Party or PPSD [Hasna Moumin BAHDON]<br>Union for Democracy and Justice or UDJ [Ilya Ismail GUEDI Hared]<br>Union for the Presidential Majority coalition or UMP [collective leadership] (electoral coalition includes FRUD, PND, RPP, PPSD, and UPR)<br>Union of Reform Partisans or UPR [Ibrahim Daoud CHEHEM]<br>
+**Political parties**<br>
+Front for Restoration of Unity and Democracy (Front pour la Restauration de l'Unite Democratique) or FRUD<br>National Democratic Party or PND<br>People's Rally for Progress or RPP<br>Peoples Social Democratic Party or PPSD<br>Union for Democracy and Justice or UDJ<br>Union for the Presidential Majority coalition or UMP<br>Union of Reform Partisans or UPR<br>
 
 **International organization participation**<br>
 ACP, AfDB, AFESD, AMF, ATMIS, AU, CAEU (candidates), COMESA, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -444,9 +444,10 @@ construction, agricultural processing, shipping<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 79.9% (2021 est.)<br>
-_male_: 78.6%<br>
-_female_: 82.2%<br>
+_total_: 76.5% (2023 est.)<br>
+_male_: 75.4% (2023 est.)<br>
+_female_: 78.1% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 21.1% (2017 est.)<br>

@@ -366,8 +366,8 @@ _highest court(s)_: Supreme Court (consists of the court president, vice preside
 _judge selection and term of office_: Supreme Court president appointed by the president of the republic; vice president appointed by the president in consultation with the Higher Council of the Judiciary (CSMJ) and ratified by the Assembly of the Republic; other judges elected by the Assembly; judges serve 5-year renewable terms; Constitutional Council judges appointed - 1 by the president, 5 by the Assembly, and 1 by the CSMJ; judges serve 5-year nonrenewable terms<br>
 _subordinate courts_: Administrative Court (capital city only); provincial courts or Tribunais Judicias de Provincia; District Courts or Tribunais Judicias de Districto; customs courts; maritime courts; courts marshal; labor courts; community courts<br>
 
-**Political parties and leaders**<br>
-Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM [vacant]<br>Liberation Front of Mozambique (Frente de Liberatacao de Mocambique) or FRELIMO [Filipe NYUSI]<br>Mozambican National Resistance (Resistencia Nacional Mocambicana) or RENAMO [Ossufo MOMADE]<br>
+**Political parties**<br>
+Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM<br>Liberation Front of Mozambique (Frente de Liberatacao de Mocambique) or FRELIMO<br>Mozambican National Resistance (Resistencia Nacional Mocambicana) or RENAMO<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF (observer), OPCW, SADC, UN, UNCTAD, UNDP, UNEP,&nbsp; UNESCO, UNHCR, UNIDO, UNWTO, Union Latina, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -476,9 +476,10 @@ aluminum, petroleum products, chemicals (fertilizer, soap, paints), textiles, ce
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.1% (2021 est.)<br>
-_male_: 8.1%<br>
-_female_: 8.2%<br>
+_total_: 7.6% (2023 est.)<br>
+_male_: 7.9% (2023 est.)<br>
+_female_: 7.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 46.1% (2014 est.)<br>

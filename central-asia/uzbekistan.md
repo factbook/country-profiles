@@ -356,8 +356,8 @@ _highest court(s)_: Supreme Court (consists of 67 judges organized into administ
 _judge selection and term of office_: judges of the highest courts nominated by the president and confirmed by the Senate of the Oliy Majlis; judges appointed for a single 10-year term; the court chairman and deputies appointed for 10-year terms without the right to reelection. (Article 132 of the constitution)<br>
 _subordinate courts_: regional, district, city, and town courts<br>
 
-**Political parties and leaders**<br>
-Ecological Party of Uzbekistan (O'zbekiston Ekologik Partivasi) [Narzullo OBLOMURODOV]<br>Justice (Adolat) Social Democratic Party of Uzbekistan [Bahrom ABDUKHALIMOV]<br>Liberal Democratic Party of Uzbekistan (O'zbekiston Liberal-Demokratik Partiyasi) or LDPU [Aktam HAITOV]<br>National Revival Democratic Party of Uzbekistan (O'zbekiston Milliy Tiklanish Demokratik Partiyasi) [Alisher QODIROV]<br>People's Democratic Party of Uzbekistan (Xalq Demokratik Partiyas) or PDP [Ulugbek Ilyosovich INOYATOV] (formerly Communist Party)<br>
+**Political parties**<br>
+Ecological Party of Uzbekistan (O'zbekiston Ekologik Partivasi)<br>Justice (Adolat) Social Democratic Party of Uzbekistan<br>Liberal Democratic Party of Uzbekistan (O'zbekiston Liberal-Demokratik Partiyasi) or LDPU<br>National Revival Democratic Party of Uzbekistan (O'zbekiston Milliy Tiklanish Demokratik Partiyasi)<br>People's Democratic Party of Uzbekistan (Xalq Demokratik Partiyas) or PDP (formerly Communist Party)<br>
 
 **International organization participation**<br>
 ADB, CICA, CIS, EAEU (observer), EAPC, EBRD, ECO, EEU (observer), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
@@ -467,9 +467,10 @@ textiles, food processing, machine building, metallurgy, mining, hydrocarbon ext
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16% (2021 est.)<br>
-_male_: 15.8%<br>
-_female_: 16.2%<br>
+_total_: 11% (2023 est.)<br>
+_male_: 7.1% (2023 est.)<br>
+_female_: 18.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 14.1% (2013 est.)<br>

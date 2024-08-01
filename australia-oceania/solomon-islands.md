@@ -320,8 +320,8 @@ _highest court(s)_: Court of Appeal (consists of the court president and ex offi
 _judge selection and term of office_: Court of Appeal and High Court president, chief justices, and puisne judges appointed by the governor general upon recommendation of the Judicial and Legal Service Commission, chaired by the chief justice and includes 5 members, mostly judicial officials and legal professionals; all judges serve until retirement at age 60<br>
 _subordinate courts_: Magistrates' Courts; Customary Land Appeal Court; local courts<br>
 
-**Political parties and leaders**<br>
-Democratic Alliance Party or DAP [Rick HOUENIPWELA]<br>Kadere Party of Solomon Islands or KAD [Martin HOUSANAU]<br>Ownership, Unity, and Responsibility Party (OUR Party) [Manasseh SOGAVARE]<br>People First Party or PFP [Jimmie RODGERS]<br>Solomon Islands Democratic Party or SIDP [Matthew WALE]<br>Solomon Islands Party for Rural Advancement or SIPRA [Gordon Darcy LILO]<br>Solomon Islands United Party or SIUP [Peter KENILOREA Jr]<br>United for Change Party or U4C [Daniel SUIDANI]<br><br>Coalition for Accountability Reform and Empowerment (CARE) is comprised of DAP, SIDP, and U4C<br>
+**Political parties**<br>
+Democratic Alliance Party or DAP <br>Kadere Party of Solomon Islands or KAD <br>Ownership, Unity, and Responsibility Party (OUR Party) <br>People First Party or PFP <br>Solomon Islands Democratic Party or SIDP <br>Solomon Islands Party for Rural Advancement or SIPRA <br>Solomon Islands United Party or SIUP <br>United for Change Party or U4C<br> <br>Coalition for Accountability Reform and Empowerment (CARE) is comprised of DAP, SIDP, and U4C<br>
 <strong>note:</strong> in general, Solomon Islands politics is characterized by fluid coalitions<br>
 
 **International organization participation**<br>
@@ -424,9 +424,10 @@ fish (tuna), mining, timber<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.9% (2021 est.)<br>
-_male_: 1.6%<br>
-_female_: 2.3%<br>
+_total_: 3% (2023 est.)<br>
+_male_: 2.6% (2023 est.)<br>
+_female_: 3.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 12.7% (2012 est.)<br>

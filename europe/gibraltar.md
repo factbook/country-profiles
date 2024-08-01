@@ -260,8 +260,8 @@ _highest court(s)_: Court of Appeal (consists of at least 3 judges, including th
 _judge selection and term of office_: Court of Appeal and Supreme Court judges appointed by the governor upon the advice of the Judicial Service Commission, a 7-member body of judges and appointees of the governor; tenure of the Court of Appeal president based on terms of appointment; Supreme Court chief justice and judges normally appointed until retirement at age 67 but tenure can be extended 3 years<br>
 _subordinate courts_: Court of First Instance; Magistrates' Court; specialized tribunals for issues relating to social security, taxes, and employment<br>
 
-**Political parties and leaders**<br>
-Gibraltar Liberal Party or Liberal Party of Gibraltar or LPG [Joseph GARCIA]<br>Gibraltar Social Democrats or GSD [Keith AZOPARDI]<br>Gibraltar Socialist Labor Party or GSLP [Fabian PICARDO]<br>GSLP-Liberal Alliance [Fabian PICARDO and Joseph Garcia]<br>Together Gibraltar or TG [Marlene HASSAN-NAHON]<br>
+**Political parties**<br>
+Gibraltar Liberal Party or Liberal Party of Gibraltar or LPG <br>Gibraltar Social Democrats or GSD <br>Gibraltar Socialist Labor Party or GSLP <br>GSLP-Liberal Alliance <br>Together Gibraltar or TG <br>
 
 **International organization participation**<br>
 ICC (NGOs), Interpol (subbureau), UPU<br>

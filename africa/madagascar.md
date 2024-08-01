@@ -353,8 +353,8 @@ _highest court(s)_: Supreme Court or Cour Supreme (consists of 11 members; addre
 _judge selection and term of office_: Supreme Court heads elected by the president and judiciary officials to serve 3-year, single renewable terms; High Constitutional Court members appointed - 3 each by the president, by both legislative bodies, and by the Council of Magistrates; members serve single, 7-year terms; High Court of Justice members include: first president of the Supreme Court; 2 presidents from the Court of Cassation; 2 presidents from the Court of Appeal; 2 deputies&nbsp; from the National Assembly; 2 senators from the Senate; 2 members from the High Council for the Defense of Democracy and the State of law<br>
 _subordinate courts_: Courts of Appeal; Court of Cassation; Courts of First Instance; military courts; traditional (dina) courts; Trade Court<br>
 
-**Political parties and leaders**<br>
-<p>Group of Young Malagasy Patriots (Groupe des Jeunes Malgaches Patriotes) or GJMP [Jean Nicolas RANDRIANASOLO]<br>I Love Madagascar (Tiako I Madagasikara) or TIM [Marc RAVALOMANANA]<br>Isika Rehetra Miaraka amin'i Andry Rajoelina coalition or IRD (electoral coalition includes TGV and other parties)<br>Malagasy Aware (Malagasy Tonga Saina) or MTS [Roland RATSIRAKA]<br>Malagasy Tia Tanindrazana or MATITA or ANGADY [Hyacinthe Befeno TODIMANANA]<br>Movement for Democracy in Madagascar (Mouvement pour la Démocratie à Madagascar) or MDM [Pierrot RAJAONARIVELO]<br>Rally for Democratic Socialism (Rassemblement pour Socialisme Démocratique - Nouveau) or RPSD Vaovao [Siteny RANDRIANASOLONIAIKO]<br>Young Malagasies Determined (Tanora Malagasy Vonona) or TGV [Andry RAJOELINA]</p><br>
+**Political parties**<br>
+<p>Group of Young Malagasy Patriots (Groupe des Jeunes Malgaches Patriotes) or GJMP<br>I Love Madagascar (Tiako I Madagasikara) or TIM<br>Isika Rehetra Miaraka amin'i Andry Rajoelina coalition or IRD<br>Malagasy Aware (Malagasy Tonga Saina) or MTS<br>Malagasy Tia Tanindrazana or MATITA or ANGADY<br>Movement for Democracy in Madagascar (Mouvement pour la Démocratie à Madagascar) or MDM<br>Rally for Democratic Socialism (Rassemblement pour Socialisme Démocratique - Nouveau) or RPSD Vaovao<br>Young Malagasies Determined (Tanora Malagasy Vonona) or TGV</p><br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -457,9 +457,10 @@ meat processing, seafood, soap, beer, leather, sugar, textiles, glassware, cemen
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.8% (2021 est.)<br>
-_male_: 5.2%<br>
-_female_: 4.4%<br>
+_total_: 5.5% (2023 est.)<br>
+_male_: 5.4% (2023 est.)<br>
+_female_: 5.6% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 70.7% (2012 est.)<br>

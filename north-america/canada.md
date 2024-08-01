@@ -365,8 +365,8 @@ _highest court(s)_: Supreme Court of Canada (consists of the chief justice and 8
 _judge selection and term of office_: chief justice and judges appointed by the prime minister in council; all judges appointed for life with mandatory retirement at age 75<br>
 _subordinate courts_: federal level: Federal Court of Appeal; Federal Court; Tax Court; federal administrative tribunals; Courts Martial; provincial/territorial level: provincial superior, appeals, first instance, and specialized courts; note - in 1999, the Nunavut Court - a circuit court with the power of a provincial superior court, as well as a territorial court - was established to serve isolated settlements<br>
 
-**Political parties and leaders**<br>
-Bloc Quebecois [Yves-Francois BLANCHET]<br>Conservative Party of Canada or CPC [Pierre POILIEVRE]<br>Green Party [Elizabeth MAY]<br>Liberal Party [Justin TRUDEAU]<br>New Democratic Party or NDP [Jagmeet SINGH]<br>People's Party of Canada [Maxime BERNIER]<br>
+**Political parties**<br>
+Bloc Quebecois<br>Conservative Party of Canada or CPC<br>Green Party<br>Liberal Party<br>New Democratic Party or NDP<br>People's Party of Canada<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CDB, CE (observer), EAPC, EBRD, EITI (implementing country), FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNOOSA, UNRWA, UNTSO, UPU, USMCA, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -479,9 +479,10 @@ transportation equipment, chemicals, processed and unprocessed minerals, food pr
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14% (2021 est.)<br>
-_male_: 15%<br>
-_female_: 13.1%<br>
+_total_: 10.6% (2023 est.)<br>
+_male_: 11.4% (2023 est.)<br>
+_female_: 9.8% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 9.4% (2008 est.)<br>

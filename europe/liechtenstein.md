@@ -311,8 +311,8 @@ _highest court(s)_: Supreme Court or Supreme Court or F&uuml;rstlicher Oberster 
 _judge selection and term of office_: judges of both courts elected by the Landtag and appointed by the monarch; Supreme Court judges serve 4-year renewable terms; Constitutional Court judges appointed for renewable 5-year terms<br>
 _subordinate courts_: Court of Appeal (second instance), Regional Court (first instance), Administrative Court, Tribunal Court, district courts<br>
 
-**Political parties and leaders**<br>
-Democrats for Liechtenstein (Demokraten pro Liechtenstein) or DpL [Thomas REHAK]<br>Fatherland Union (Vaterlaendische Union) or VU [Thomas ZWIEFELHOFER]<br>Progressive Citizens' Party (Fortschrittliche Buergerpartei) or FBP [Rainer GOPP]<br>The Free List (Die Freie Liste) or FL [Daniel WALSER, Joy WALSER, Mauela HALDNER-SCHIERSCHER, Sebastian MEIER, Stefan BECKER]<br>The Independents (Die Unabhaengigen) or DU [Harald "Harry" QUADERER]<br>
+**Political parties**<br>
+Democrats for Liechtenstein (Demokraten pro Liechtenstein) or DpL <br>Fatherland Union (Vaterlaendische Union) or VU <br>Progressive Citizens' Party (Fortschrittliche Buergerpartei) or FBP <br>The Free List (Die Freie Liste) or FL <br>The Independents (Die Unabhaengigen) or DU <br>
 
 **International organization participation**<br>
 CD, CE, EBRD, EFTA, IAEA, ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITSO, ITU, ITUC (NGOs), OAS (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UPU, WIPO, WTO<br>

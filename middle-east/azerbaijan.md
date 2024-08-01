@@ -349,8 +349,8 @@ _highest court(s)_: Supreme Court (consists of the chairman, vice chairman, and 
 _judge selection and term of office_: Supreme Court judges nominated by the president and appointed by the Milli Majlis; judges appointed for 10 years; Constitutional Court chairman and deputy chairman appointed by the president; other court judges nominated by the president and appointed by the Milli Majlis to serve single 15-year terms<br>
 _subordinate courts_: Courts of Appeal (replaced the Economic Court in 2002); district and municipal courts<br>
 
-**Political parties and leaders**<br>
-Azerbaijan Democratic Enlightenment Party or ADMP [Elshan MASAYEV]<br>Civic Solidarity Party or VHP [Sabir RUSTAMKHANLI]<br>Civic Unity Party or VBP [Sabir HAJIYEV]<br>Great Order Party [Fazil MUSTAFA]<br>Islamic Party of Azerbaijan or AiP [Mavsum SAMADOV]<br>Musavat (Equity) Party [Arif HAJILI]<br>Popular Front Party [Ali KARIMLI]<br>Motherland Party or AVP [Fazail AGAMALI]<br>National Front Party [Razi NURULLAYEV]<br>National Revival Movement Party [Faraj GULIYEV]<br>Party for Democratic Reforms or DIP [Asim MOLLAZADE]<br>Republican Alternative Party or REAL [Ilgar MAMMADOV]<br>Social Democratic Party [Ayaz MUTALIBOV]<br>Social Prosperity Party [Asli KAZIMOVA]<br>Unity Party or VP [Tahir KARIMLI]<br>Whole Azerbaijan Popular Front Party [Gudrat HASANGULIYEV]<br>New Azerbaijan Party (Yeni Azərbaycan Partiyasi) or YAP [Ilham ALIYEV]<br>
+**Political parties**<br>
+Civic Solidarity Party or VHP<br>Democratic Reforms Party DiP<br>Great Order Party or BQP<br>Motherland Party or AVP<br>Party for Democratic Reforms or DIP<br>Republican Alternative Party or REAL<br>Unity Party or VƏHDƏT<br>Whole Azerbaijan Popular Front Party or BAXCP<br>New Azerbaijan Party (Yeni Azərbaycan Partiyasi) or YAP<br>
 
 **International organization participation**<br>
 ADB, BSEC, CD, CE, CICA, CIS, EAPC, EBRD, ECO, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
@@ -460,9 +460,10 @@ petroleum and petroleum products, natural gas, oilfield equipment; steel, iron o
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.5% (2021 est.)<br>
-_male_: 14.4%<br>
-_female_: 18.9%<br>
+_total_: 13.5% (2023 est.)<br>
+_male_: 12% (2023 est.)<br>
+_female_: 15.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 4.9% (2015 est.)<br>

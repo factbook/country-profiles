@@ -349,8 +349,8 @@ _highest court(s)_: People's Supreme Court (consists of court president, vice pr
 _judge selection and term of office_: professional judges elected by the National Assembly are not subject to a specific term; lay judges nominated by workplace collectives and neighborhood associations and elected by municipal or provincial assemblies; lay judges appointed for 5-year terms and serve up to 30 days per year<br>
 _subordinate courts_: People's Provincial Courts; People's Regional Courts; People's Courts<br>
 
-**Political parties and leaders**<br>
-Cuban Communist Party or PCC [Miguel DIAZ-CANEL Bermudez]<br>
+**Political parties**<br>
+Cuban Communist Party or PCC<br>
 
 **International organization participation**<br>
 ACP, ACS, ALBA, AOSIS, CABEI, CELAC, EAEU (observer), FAO, G-77, IAEA, ICAO, ICC (national committees), ICRM, IFAD, IFRCS, IHO, ILO, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAES, LAIA, NAM, OAS (excluded from formal participation since 1962), OPANAL, OPCW, PCA, Petrocaribe, PIF (partner), UN, UNCTAD, UNESCO, UNHRC, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -456,9 +456,10 @@ petroleum, nickel, cobalt, pharmaceuticals, tobacco, construction, steel, cement
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.4% (2021 est.)<br>
-_male_: 7.6%<br>
-_female_: 7%<br>
+_total_: 3% (2023 est.)<br>
+_male_: 3.3% (2023 est.)<br>
+_female_: 2.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Budget**<br>
 _revenues_: $54.52 billion (2017 est.)<br>

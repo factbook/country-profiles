@@ -277,8 +277,8 @@ _highest court(s)_: Supreme Court of the Virgin Islands (consists of the chief j
 _judge selection and term of office_: justices appointed by the governor and confirmed by the Virgin Islands Senate; justices serve initial 10-year terms and upon reconfirmation, during the extent of good behavior; chief justice elected to position by peers for a 3-year term<br>
 _subordinate courts_: Superior Court (Territorial Court renamed in 2004); US Court of Appeals for the Third Circuit (has appellate jurisdiction over the District Court of the Virgin Islands; it is a territorial court and is not associated with a US federal judicial district); District Court of the Virgin Islands<br>
 
-**Political parties and leaders**<br>
-Democratic Party [Stacey PLASKETT]<br>Independent Citizens' Movement or ICM [Dale BLYDEN]<br>Republican Party [John CANEGATA]<br>
+**Political parties**<br>
+Democratic Party<br>Independent Citizens' Movement or ICM<br>Republican Party<br>
 
 **International organization participation**<br>
 AOSIS (observer), Interpol (subbureau), IOC, UPU, WFTU (NGOs)<br>
@@ -362,9 +362,10 @@ tourism, watch assembly, rum distilling, construction, pharmaceuticals, electron
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27% (2021 est.)<br>
-_male_: 24.1%<br>
-_female_: 37.3%<br>
+_total_: 25.6% (2023 est.)<br>
+_male_: 23.1% (2023 est.)<br>
+_female_: 32.7% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 28.9% (2002 est.)<br>

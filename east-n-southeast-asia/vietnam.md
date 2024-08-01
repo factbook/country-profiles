@@ -360,9 +360,9 @@ _highest court(s)_: Supreme People's Court (consists of the chief justice and 13
 _judge selection and term of office_: chief justice elected by the National Assembly upon the recommendation of the president for a 5-year, renewable term; deputy chief justice appointed by the president from among the judges for a 5-year term; judges appointed by the president and confirmed by the National Assembly for 5-year terms<br>
 _subordinate courts_: High Courts (administrative, civil, criminal, economic, labor, family, juvenile); provincial courts; district courts; Military Court; note - the National Assembly Standing Committee can establish special tribunals upon the recommendation of the chief justice<br>
 
-**Political parties and leaders**<br>
-Communist Party of Vietnam or CPV [acting General Secretary To LAM since 18 July 2024]<br>
-<strong>note:</strong> other parties proscribed<br>
+**Political parties**<br>
+Communist Party of Vietnam or CPV<br>
+<strong>note:</strong>  other parties proscribed<br>
 
 **International organization participation**<br>
 ADB, APEC, ARF, ASEAN, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (2024)<br>
@@ -474,9 +474,10 @@ food processing, garments, shoes, machine-building; mining, coal, steel; cement,
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.2% (2021 est.)<br>
-_male_: 7.1%<br>
-_female_: 7.5%<br>
+_total_: 6.2% (2023 est.)<br>
+_male_: 6.5% (2023 est.)<br>
+_female_: 5.9% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 4.8% (2020 est.)<br>

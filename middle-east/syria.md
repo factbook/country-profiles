@@ -339,8 +339,8 @@ _highest court(s)_: Court of Cassation (organized into civil, criminal, religiou
 _judge selection and term of office_: Court of Cassation judges appointed by the Supreme Judicial Council (SJC), a judicial management body headed by the minister of justice with 7 members, including the national president; judge tenure NA; Supreme Constitutional Court judges nominated by the president and appointed by the SJC; judges serve 4-year renewable terms<br>
 _subordinate courts_: courts of first instance; magistrates' courts; religious and military courts; Economic Security Court; Counterterrorism Court (established June 2012)<br>
 
-**Political parties and leaders**<br>
-<strong>legal parties/alliances:<br></strong> Arab Socialist Ba'ath Party [Bashar al-ASAD, regional secretary] <br>Arab Socialist (Ba'ath) Party – Syrian Regional [President Bashar al-ASAD]<br>Arab Socialist Ba'ath Party – Syrian Regional Branch, Socialist Unionist Democratic Party)<br>Arab Socialist Union of Syria or ASU [Safwan al-QUDSI]<br>Democratic Arab Socialist Union [Hassan Abdul AZIM, general secretary] <br>National Progressive Front or NPF [Bashar al-ASAD, Suleiman QADDAH] (alliance includes <br>Socialist Unionist Democratic Party [Fadlallah Nasr al-DIN]<br>Socialist Unionist Party [Fayiz ISMAIL]<br>Syrian Communist Party (two branches) [Wissal Farha BAKDASH, Yusuf Rashid FAYSAL] <br>Syrian Social Nationalist Party or SSNP [Ali HAIDAR]<br>Unionist Socialist Party [Fayez ISMAIL]<br><strong><br>major political organizations:<br></strong>Kurdish Democratic Union Party or PYD [Saleh MUSLIM, Asia ABDULLAH]<br>Kurdish National Council or KNC [Sa'ud MALA]] <br>Syriac Union Party [Ishow GOWRIYE]<br>Syrian Democratic Council or SDC [Ilham AHMAD]<br>Syrian Democratic Party [Mustafa QALAAJI]<br>Syrian Opposition Coalition [Hadi al-BAHRA]<br> <p><strong>de facto governance entities:<br></strong>Democratic Autonomous Administration of Northeast Syria or DAANES [Mahmoud al-MESLET, Layla QAHRAMAN] <br>Syrian Interim Government or SIG [Abdurrahman MUSTAFA]<br>Syrian Salvation Government or SSG [Ali Abdulrahman KEDA]</p><br>
+**Political parties**<br>
+<strong>legal parties/alliances:<br></strong> Arab Socialist Ba'ath Party<br>Arab Socialist (Ba'ath) Party – Syrian Regional<br>Arab Socialist Ba'ath Party – Syrian Regional Branch, Socialist Unionist Democratic Party<br>Arab Socialist Union of Syria or ASU<br>Democratic Arab Socialist Union<br>National Progressive Front or NPF<br>Socialist Unionist Democratic Party<br>Socialist Unionist Party<br>Syrian Communist Party (two branches)<br>Syrian Social Nationalist Party or SSNP<br>Unionist Socialist Party<br><strong><br>major political organizations:<br></strong>Kurdish Democratic Union Party or PYD<br>Kurdish National Council or KNC<br>Syriac Union Party<br>Syrian Democratic Council or SDC<br>Syrian Democratic Party<br>Syrian Opposition Coalition<br> <p><strong>de facto governance entities:<br></strong>Democratic Autonomous Administration of Northeast Syria or DAANES <br>Syrian Interim Government or SIG<br>Syrian Salvation Government or SSG</p><br>
 
 **International organization participation**<br>
 ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, ICSID, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WBG, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
@@ -435,9 +435,10 @@ petroleum, textiles, food processing, beverages, tobacco, phosphate rock mining,
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.2% (2021 est.)<br>
-_male_: 21.6%<br>
-_female_: 51.1%<br>
+_total_: 33.5% (2023 est.)<br>
+_male_: 29.8% (2023 est.)<br>
+_female_: 52.6% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 82.5% (2014 est.)<br>

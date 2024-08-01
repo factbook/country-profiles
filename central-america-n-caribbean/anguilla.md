@@ -264,8 +264,8 @@ _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior c
 _judge selection and term of office_: Eastern Caribbean Supreme Court chief justice appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: Magistrate's Court; Juvenile Court<br>
 
-**Political parties and leaders**<br>
-Anguilla Progressive Movement or APM [Dr. Ellis WEBSTER]; (formerly Anguilla United Movement or AUM)<br>Anguilla United Front or AUF [Cora RICHARDSON-HODGE]<br>
+**Political parties**<br>
+Anguilla Progressive Movement or APM; (formerly Anguilla United Movement or AUM)<br>Anguilla United Front or AUF<br>
 
 **International organization participation**<br>
 Caricom (associate), CDB, Interpol (subbureau), OECS, UNESCO (associate), UPU<br>

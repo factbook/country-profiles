@@ -357,8 +357,8 @@ _highest court(s)_: Supreme Court (consists of 25 judges); Constitutional Chambe
 _judge selection and term of office_: Supreme Court and Constitutional Court judges appointed by the Supreme Council on the recommendation of the president; Supreme Court judges serve for 10 years, Constitutional Court judges serve for 15 years; mandatory retirement at age 70 for judges of both courts<br>
 _subordinate courts_: Higher Court of Arbitration; oblast (provincial) and city courts<br>
 
-**Political parties and leaders**<br>
-Alyans (Alliance) [Mirlan JEENCHOROEV]<br>Ata-Jurt Kyrgyzstan (Homeland) or AJK [Aybek MATKERIMOV]<br>Butun Kyrgyzstan (United Kyrgyzstan) [Adakhan MADUMAROV]<br>Ishenim (Trust) [Rysbat AMATOV and Azamat DOROYEV]<br>Social Democrats or SDK [Temirlan SULTANBEKOV]<br>Yntymak (Unity) [Marlen MAMATALIEV]<br>Yiman Nuru (Light of Faith) [Nurjigit KADYRBEKOV]<br>
+**Political parties**<br>
+Afghan's Party<br>Alliance<br>Ata-Jurt Kyrgyzstan (Fatherland) or AJK<br>Cohesion<br>Ishenim (Trust)<br>Light of Faith<br>Mekenchil or the "Patriotic" Political Party<br>Social Democrats or SDK<br>United Kyrgyzstan<br>Yntymak (Unity)<br>
 
 **International organization participation**<br>
 ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PCA, PFP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -466,9 +466,10 @@ small machinery, textiles, food processing, cement, shoes, lumber, refrigerators
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.3% (2021 est.)<br>
-_male_: 15.6%<br>
-_female_: 27.3%<br>
+_total_: 8.2% (2023 est.)<br>
+_male_: 7.6% (2023 est.)<br>
+_female_: 9.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 33.3% (2021 est.)<br>

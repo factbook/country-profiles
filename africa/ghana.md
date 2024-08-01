@@ -362,8 +362,8 @@ _highest court(s)_: Supreme Court (consists of the chief justice and 13 justices
 _judge selection and term of office_: chief justice appointed by the president in consultation with the Council of State (a small advisory body of prominent citizens) and with the approval of Parliament; other justices appointed by the president upon the advice of the Judicial Council (an 18-member independent body of judicial, military and police officials, and presidential nominees) and on the advice of the Council of State; justices can retire at age 60, with compulsory retirement at age 70<br>
 _subordinate courts_: Court of Appeal; High Court; Circuit Court; District Court; regional tribunals<br>
 
-**Political parties and leaders**<br>
-All Peoples Congress or APC [Hassan AYARIGA]<br>Convention People's Party or CPP [Onsy Kwame NKRUMAH, acting]<br>Ghana Freedom Party or GFP [Akua DONKOR]<br>Ghana Union Movement or GUM [Christian Kwabena ANDREWS]<br>Great Consolidated Popular Party or GCPP [Henry Herbert LARTEY]<br>Liberal Party of Ghana or LPG [Kofi AKPALOO]<br>National Democratic Congress or NDC [John Dramani MAHAMA]<br>National Democratic Party or NDP [Nana Konadu Agyeman RAWLINGS]<br>New Patriotic Party or NPP [Nana Addo Dankwa AKUFO-ADDO]<br>People's National Convention or PNC [Janet NABIA]<br>Progressive People's Party or PPP [Paa Kwesi NDUOM]<br>United Front Party or UFP [Dr. Nana A. BOATENG]<br>United Progressive Party or UPP [Akwasi Addai ODIKE]<br>
+**Political parties**<br>
+All Peoples Congress or APC <br>Convention People's Party or CPP <br>Ghana Freedom Party or GFP <br>Ghana Union Movement or GUM <br>Great Consolidated Popular Party or GCPP <br>Liberal Party of Ghana or LPG <br>National Democratic Congress or NDC <br>National Democratic Party or NDP <br>New Patriotic Party or NPP <br>People's National Convention or PNC <br>Progressive People's Party or PPP <br>United Front Party or UFP <br>United Progressive Party or UPP <br>
 
 **International organization participation**<br>
 ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -473,9 +473,10 @@ mining, lumbering, light manufacturing, aluminum smelting, food processing, ceme
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.6% (2021 est.)<br>
-_male_: 9.7%<br>
-_female_: 9.4%<br>
+_total_: 5.5% (2023 est.)<br>
+_male_: 5.6% (2023 est.)<br>
+_female_: 5.4% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 23.4% (2016 est.)<br>
@@ -728,5 +729,5 @@ has a small, nascent space program focused on research in space sciences and exp
 ## Transnational Issues
 
 **Illicit drugs**<br>
-<p>Ghana is a transit and destination point for illicit drugs trafficked from Asia and South America to other African countries, Europe, and to a lesser extent North America;  not a significant source for drugs entering the United States;  limited local consumption of controlled pharmaceuticals, cocaine, and heroin from Asia and South America; cannabis cultivated and produced in large quantities in most rural areas of Ghana  </p> <p> </p><br>
+<p>Ghana is a transit and destination point for illicit drugs trafficked from Asia and South America to other African countries, Europe, and to a lesser extent North America; not a significant source for drugs entering the United States; limited local consumption of controlled pharmaceuticals, cocaine, and heroin from Asia and South America; cannabis cultivated and produced in large quantities in most rural areas of Ghana  </p> <p> </p><br>
 

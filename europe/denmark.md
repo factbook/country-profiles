@@ -347,8 +347,8 @@ _highest court(s)_: Supreme Court (consists of the court president and 18 judges
 _judge selection and term of office_: judges appointed by the monarch upon the recommendation of the Minister of Justice, with the advice of the Judicial Appointments Council, a 6-member independent body of judges and lawyers; judges appointed for life with retirement at age 70<br>
 _subordinate courts_: Special Court of Indictment and Revision; 2 High Courts; Maritime and Commercial Court; county courts<br>
 
-**Political parties and leaders**<br>
-The Alternative or AP [Franciska ROSENKILDE]<br>Conservative People's Party or DKF or C [Mona JUUL]<br>Danish People's Party or DF or O [Morten MESSERSCHMIDT]<br>Denmark Democrats or E [Inger STOJBERG]<br>Green Left or SF or F [Pia OLSEN DYHR] (formerly Socialist People's Party or SF or F)<br>Liberal Alliance or LA or I [Alex VANOPSLAGH]<br>Liberal Party (Venstre) or V [Troels LUND POULSEN]<br>Moderates or M [Lars Lokke RASMUSSEN]<br>New Right Party or NB or D [Ann Pernille VERMUND TVEDE]<br>Red-Green Alliance (Unity List) or EL [collective leadership, Mai VILLADSEN, spokesperson]<br>Social Democrats or SDP or A [Mette FREDERIKSEN]<br>Social Liberal Party or SLP or B [Martin LIDEGAARD]<br>
+**Political parties**<br>
+The Alternative or AP <br>Conservative People's Party or DKF or C <br>Danish People's Party or DF or O <br>Denmark Democrats or E <br>Green Left or SF or F (formerly Socialist People's Party or SF or F)<br>Liberal Alliance or LA or I <br>Liberal Party (Venstre) or V <br>Moderates or M <br>New Right Party or NB or D <br>Red-Green Alliance (Unity List) or EL <br>Social Democrats or SDP or A <br>Social Liberal Party or SLP or B <br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOOSA, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -459,9 +459,10 @@ wind turbines, pharmaceuticals, medical equipment, shipbuilding and refurbishmen
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.1% (2021 est.)<br>
-_male_: 9.7%<br>
-_female_: 10.6%<br>
+_total_: 11.7% (2023 est.)<br>
+_male_: 12% (2023 est.)<br>
+_female_: 11.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 12.4% (2021 est.)<br>

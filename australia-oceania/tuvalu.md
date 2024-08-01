@@ -314,7 +314,7 @@ _highest court(s)_: Court of Appeal (consists of the chief justice and not less 
 _judge selection and term of office_: Court of Appeal judges appointed by the governor general on the advice of the Cabinet; judge tenure based on terms of appointment; High Court chief justice appointed by the governor general on the advice of the Cabinet; chief justice serves for life; other judges appointed by the governor general on the advice of the Cabinet after consultation with chief justice; judge tenure set by terms of appointment<br>
 _subordinate courts_: magistrates' courts; island courts; land courts<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 there are no political parties, but members of parliament usually align themselves in informal groupings<br>
 
 **International organization participation**<br>

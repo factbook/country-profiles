@@ -273,8 +273,8 @@ _highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and 
 _judge selection and term of office_: Joint Court judges appointed by the monarch for life<br>
 _subordinate courts_: first instance courts, appeals court; specialized courts<br>
 
-**Political parties and leaders**<br>
-Korsou di Nos Tur or KdnT [Amparo dos SANTOS]<br>Korsou Esun Miho or KEM [Michelangelo MARTINES]<br>Movementu Futuro Korsou or MFK [<u>Gilmar PISAS</u>]<br>Movementu Progresivo or MP [Marylin MOSES]<br>Movishon Antia Nobo or MAN [Hensley KOEIMAN]<br>Partido Antia Restruktura or PAR [Eugene RHUGGENAATH]<br>Partido Inovashon Nashonal or PIN [Suzanne CAMELIA-ROMER]<br>Partido Nashonal di Pueblo or PNP [<u>Ruthmilda LARMONIE-CECILIA</u>]<br>Pueblo Soberano or PS <u>[Ben WHITEMAN]</u> <br>Trabou pa Kòrsou or TPK [Rennox CALMES] <br>Un Korsou Hustu [Omayra LEEFLANG]<br>
+**Political parties**<br>
+Korsou di Nos Tur or KdnT<br>Korsou Esun Miho or KEM<br>Movementu Futuro Korsou or MFK<br>Movementu Progresivo or MP<br>Movishon Antia Nobo or MAN<br>Partido Antia Restruktura or PAR<br>Partido Inovashon Nashonal or PIN<br>Partido Nashonal di Pueblo or PNP<br>Pueblo Soberano or PS<br>Trabou pa Kòrsou or TPK<br>Un Korsou Hustu<br>
 
 **International organization participation**<br>
 <p>ACS (associate), Caricom (observer), FATF, ILO, ITU, UNESCO (associate), UPU</p><br>

@@ -285,8 +285,8 @@ _election results_: Faroese Parliament percent of vote by party - JF 26.6%, B 20
 _highest court(s)_: Faroese Court or Raett (Rett - Danish) decides both civil and criminal cases; the Court is part of the Danish legal system<br>
 _subordinate courts_: Court of the First Instance or Tribunal de Premiere Instance; Court of Administrative Law or Tribunal Administratif; Mixed Commercial Court; Land Court<br>
 
-**Political parties and leaders**<br>
-Center Party or H (Midflokkurin) [Jenis av RANA]<br>People's Party or A (Folkaflokkurin) [Benir JOHANNESEN]<br>Progress Party or F (Framsokn) [Ruth VANG]<br>Republic or E (Tjodveldi) [Hogni HOYDAL] (formerly the Republican Party)<br>Self-Government Party or D (Sjalvstyri or Sjalvstyrisflokkurin) [Samal Peter I GRUND]<br>Social Democratic Party or JF (Javnadarflokkurin) or JF [Aksel V. JOHANNESEN]<br>Union Party or B (Sambandsflokkurin) [Bardur A STEIG NIELSEN]<br>
+**Political parties**<br>
+Center Party or H (Midflokkurin) <br>People's Party or A (Folkaflokkurin) <br>Progress Party or F (Framsokn) <br>Republic or E (Tjodveldi)  (formerly the Republican Party)<br>Self-Government Party or D (Sjalvstyri or Sjalvstyrisflokkurin) <br>Social Democratic Party or JF (Javnadarflokkurin) or JF <br>Union Party or B (Sambandsflokkurin) <br>
 
 **International organization participation**<br>
 Arctic Council, IMO (associate), NC, NIB, UNESCO (associate), UPU<br>

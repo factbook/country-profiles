@@ -19,7 +19,7 @@ Middle East, bordering the Persian Gulf, between Iran and Kuwait<br>
 Middle East<br>
 
 **Area**<br>
-_total_: 438,317 sq km<br>
+_total _: 438,317 sq km<br>
 _land_: 437,367 sq km<br>
 _water_: 950 sq km<br>
 
@@ -362,8 +362,8 @@ _highest court(s)_: Federal Supreme Court or FSC (consists of 9 judges); note - 
 _judge selection and term of office_: Federal Supreme Court (FSC) judges nominated by the High Judicial Council (HJC) president, the FSC chief justice, the public prosecutor's office chief, and the head of the Judicial Oversight Commission; FSC members required to retire at age 72; Court of Cassation judges appointed by the HJC and confirmed by the Council of Representatives to serve until retirement, nominally at age 63, but can be extended to age 66 by the HJC<br>
 _subordinate courts_: Courts of Appeal (governorate level); civil courts, including first instance, personal status, labor, and customs; criminal courts including felony, misdemeanor, investigative, major crimes, juvenile, and traffic courts<br>
 
-**Political parties and leaders**<br>
-Al Fatah Alliance [Hadi al-AMIRI]<br>Azm Alliance [Khamis al-KHANJAR]<br>Babiliyun Movement [Rayan al-KILDANI]<br>Imtidad [Ala al-RIKABI]<br>Ishraqat Konun [Jaafar AZIZ]<br>Kurdistan Democratic Party F [Masud BARZANI]<br>National Contract Party [Falih al-FAYYAD]<br>New Generation Movement [SHASWAR Abd al-Wahid Qadir]<br>Patriotic Union of Kurdistan [Bafel TALABANI]<br>Sadrist Bloc [Muqtada al-SADR]<br>State Forces Alliance [Haydar al-ABADI]<br>State of Law Coalition [Nuri al-MALIKI]<br>Taqadum [Muhammad al-HALBUSI]<br>Tasmim Alliance [Asad al-IDANI]<br>
+**Political parties**<br>
+Al Fatah Alliance<br>Azm Alliance<br>Babiliyun Movement<br>Imtidad<br>Ishraqat Konun<br>Kurdistan Democratic Party<br>National Contract Party<br>New Generation Movement<br>Patriotic Union of Kurdistan<br>Sadrist Bloc<br>State Forces Alliance<br>State of Law Coalition<br>Taqadum<br>Tasmim Alliance<br>
 
 **International organization participation**<br>
 ABEDA, AFESD, AIIB, AMF, CAEU, CICA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
@@ -405,25 +405,25 @@ _selected World Heritage Site locales_: Ashur (Qal'at Sherqat) (c); Babylon (c);
 highly oil-dependent Middle Eastern economy; fiscal sustainability subject to fluctuation in oil prices; rising public confidence in economic conditions; import-dependent for most sectors; persistent challenges of corruption, informal markets, banking access, and political fragility<br>
 
 **Real GDP (purchasing power parity)**<br>
-$409.321 billion (2022 est.)<br>
-$382.511 billion (2021 est.)<br>
-$376.549 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$572.939 billion (2023 est.)<br>
+$590.267 billion (2022 est.)<br>
+$548.372 billion (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-7.01% (2022 est.)<br>
-1.58% (2021 est.)<br>
--12.04% (2020 est.)<br>
+-2.94% (2023 est.)<br>
+7.64% (2022 est.)<br>
+1.5% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$9,200 (2022 est.)<br>
-$8,800 (2021 est.)<br>
-$8,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$12,600 (2023 est.)<br>
+$13,300 (2022 est.)<br>
+$12,600 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$264.182 billion (2022 est.)<br>
+$250.843 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -459,23 +459,24 @@ wheat, dates, tomatoes, maize, watermelons, grapes, potatoes, milk, cucumbers/gh
 petroleum, chemicals, textiles, leather, construction materials, food processing, fertilizer, metal fabrication/processing<br>
 
 **Industrial production growth rate**<br>
-11.15% (2022 est.)<br>
+-6.34% (2023 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-11.356 million (2022 est.)<br>
+11.812 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-15.32% (2022 est.)<br>
+15.53% (2023 est.)<br>
+15.59% (2022 est.)<br>
 16.17% (2021 est.)<br>
-15.75% (2020 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.2% (2021 est.)<br>
-_male_: 23.5%<br>
-_female_: 65.2%<br>
+_total_: 32.2% (2023 est.)<br>
+_male_: 27.8% (2023 est.)<br>
+_female_: 62% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 23% (2014 est.)<br>
@@ -492,9 +493,9 @@ _lowest 10%_: 3.6%<br>
 _highest 10%_: 25.7% (2007 est.)<br>
 
 **Remittances**<br>
-0.24% of GDP (2022 est.)<br>
+0.35% of GDP (2023 est.)<br>
+0.38% of GDP (2022 est.)<br>
 0.4% of GDP (2021 est.)<br>
-0.36% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 
 **Budget**<br>
@@ -549,9 +550,9 @@ refined petroleum, broadcasting equipment, cars, jewelry, garments (2022)<br>
 <b>note:</b> top five import commodities based on value in dollars<br>
 
 **Reserves of foreign exchange and gold**<br>
+$112.233 billion (2023 est.)<br>
 $97.009 billion (2022 est.)<br>
 $64.231 billion (2021 est.)<br>
-$54.424 billion (2020 est.)<br>
 <b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars<br>
 
 **Debt - external**<br>
@@ -560,11 +561,11 @@ $64.16 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Iraqi dinars (IQD) per US dollar -<br>
+1,312.5 (2023 est.)<br>
 1,450 (2022 est.)<br>
 1,450 (2021 est.)<br>
 1,192 (2020 est.)<br>
 1,182 (2019 est.)<br>
-1,182.75 (2018 est.)<br>
 
 ## Energy
 
@@ -683,11 +684,11 @@ Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Fo
 <strong>note: </strong>the Iraqi military and associated forces are collectively known as the Iraqi Security Forces (ISF)<br>
 
 **Military expenditures**<br>
+3% of GDP (2023 est.)<br>
 2.1% of GDP (2022 est.)<br>
 3.7% of GDP (2021 est.)<br>
 4.1% of GDP (2020 est.)<br>
 3.8% of GDP (2019 est.)<br>
-4.5% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 200,000 personnel under the Ministry of Defense (190,000 Army/Aviation Command/Special Forces; 5,000 Navy; 5,000 Air/Air Defense Forces); approximately 25,000 National-Level Security Forces; estimated 125,000 Popular Mobilization Forces<br><br>Ministry of Peshmerga: approximately 150,000 (45-50,000 Regional Guard Brigades; 40-45,000 Unit 70 Forces; 65-70,000 Unit 80 Forces) (2023)<br>

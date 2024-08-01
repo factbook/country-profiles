@@ -358,8 +358,8 @@ _highest court(s)_: Supreme Court or Cour Supreme (organized into criminal and a
 _judge selection and term of office_: Supreme Court president appointed by decree of the president of the republic upon the proposal of the Supreme Council of the Magistracy, a 9-member judicial, advisory, and disciplinary body; other judicial appointments and judge tenure NA; Constitutional Court judges appointed by the National Assembly; judge tenure NA<br>
 _subordinate courts_: Court of Assizes (sessions court); Appeal Court; tribunals of first instance (divided into civil, commercial, and correctional chambers; Court of State Security; military tribunal<br>
 
-**Political parties and leaders**<br>
-Action Committee for Renewal or CAR [Dodji APEVON]<br>Alliance of Democrats for Integral Development or ADDI [Tchaboure GOGUE]<br>Democratic Convention of African Peoples or CDPA [Léopold GNININVI]<br>Democratic Forces for the Republic or FDR [Dodji APEVON]<br>National Alliance for Change or ANC [Jean-Pierre FABRE]<br>New Togolese Commitment [Gerry TAAMA]<br>Pan-African National Party or PNP [Tikpi ATCHADAM]<br>Pan-African Patriotic Convergence or CPP (vacant)<br>Patriotic Movement for Democracy and Development or MPDD [Agbeyome KODJO] <br>Socialist Pact for Renewal or PSR [Abi TCHESSA]<br>The Togolese Party [Nathaniel OLYMPIO]<br>Union of Forces for Change or UFC [Jean-Pierre FABRE]<br>Union for the Republic or UNIR [Faure GNASSINGBE]<br>
+**Political parties**<br>
+Action Committee for Renewal or CAR <br>Alliance of Democrats for Integral Development or ADDI <br>Democratic Convention of African Peoples or CDPA <br>Democratic Forces for the Republic or FDR <br>National Alliance for Change or ANC <br>New Togolese Commitment <br>Pan-African National Party or PNP <br>Pan-African Patriotic Convergence or CPP <br>Patriotic Movement for Democracy and Development or MPDD <br>Socialist Pact for Renewal or PSR <br>The Togolese Party <br>Union of Forces for Change or UFC <br>Union for the Republic or UNIR <br>
 
 **International organization participation**<br>
 ACP, AfDB, AIIB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -468,9 +468,10 @@ phosphate mining, agricultural processing, cement, handicrafts, textiles, bevera
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.7% (2021 est.)<br>
-_male_: 12.3%<br>
-_female_: 7.7%<br>
+_total_: 3.3% (2023 est.)<br>
+_male_: 4.1% (2023 est.)<br>
+_female_: 2.6% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 45.5% (2018 est.)<br>

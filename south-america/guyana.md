@@ -348,8 +348,8 @@ _highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal
 _judge selection and term of office_: Court of Appeal and High Court chief justices appointed by the president; other judges of both courts appointed by the Judicial Service Commission, a body appointed by the president; judges appointed for life with retirement at age 65<br>
 _subordinate courts_: Land Court; magistrates' courts<br>
 
-**Political parties and leaders**<br>
-A New and United Guyana or ANUG [Ralph RAMKARRAN]<br>A Partnership for National Unity or APNU [Joseph HARMON]<br>Alliance for Change or AFC [Khemraj RAMJATTAN]<br>Justice for All Party [Chandra Narine SHARMA]<br>Liberty and Justice Party or LJP [Lenox SHUMAN]<br>National Independent Party or NIP [Saphier Husain SUBEDAR]<br>People's Progressive Party/Civic or PPP/C [Dr. Bharrat JAGDEO]<br>The New Movement or TNM [Dr. Asha KISSOON]<br>The United Force or TUF [Marissa NADIR]<br>United Republican Party or URP [Vishnu BANDHU]<br>
+**Political parties**<br>
+A New and United Guyana or ANUG<br>A Partnership for National Unity or APNU<br>Alliance for Change or AFC<br>Justice for All Party<br>Liberty and Justice Party or LJP<br>National Independent Party or NIP<br>People's Progressive Party/Civic or PPP/C<br>The New Movement or TNM<br>The United Force or TUF<br>United Republican Party or URP<br>
 
 **International organization participation**<br>
 ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (correspondent), ITU, LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, Petrocaribe, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -449,9 +449,10 @@ bauxite, sugar, rice milling, timber, textiles, gold mining<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.9% (2021 est.)<br>
-_male_: 23.5%<br>
-_female_: 39.6%<br>
+_total_: 25.9% (2023 est.)<br>
+_male_: 21.5% (2023 est.)<br>
+_female_: 32.4% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 35% (2006 est.)<br>

@@ -276,8 +276,8 @@ _highest court(s)_: Supreme Court of the Commonwealth of the Northern Mariana Is
 _judge selection and term of office_: CNMI Supreme Court judges appointed by the governor and confirmed by the CNMI Senate; judges appointed for 8-year terms and another term if directly elected in a popular election; US Federal District Court judges appointed by the US president and confirmed by the US Senate; judges appointed for renewable 10-year terms<br>
 _subordinate courts_: Superior Court<br>
 
-**Political parties and leaders**<br>
-Democratic Party [Daniel QUITUGUA]<br>Republican Party [James ADA]<br>
+**Political parties**<br>
+Democratic Party<br>Republican Party<br>
 
 **International organization participation**<br>
 PIF (observer), SPC, UPU<br>

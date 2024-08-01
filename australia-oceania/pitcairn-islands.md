@@ -161,7 +161,7 @@ _highest court(s)_: Pitcairn Court of Appeal (consists of the court president, 2
 _judge selection and term of office_: all judges of both courts appointed by the governor of the Pitcairn Islands on the instructions of the British monarch through the Secretary of State; all judges can serve until retirement, normally at age 75<br>
 _subordinate courts_: Magistrate's Court<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 none<br>
 
 **International organization participation**<br>

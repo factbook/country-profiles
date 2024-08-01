@@ -314,8 +314,8 @@ _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior c
 _judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: magistrates' courts<br>
 
-**Political parties and leaders**<br>
-New Democratic Party or NDP [Dr. Godwin L. FRIDAY]<br>SVG Green Party or SVGP [Ivan O'NEAL]<br>Unity Labor Party or ULP [Dr. Ralph GONSALVES] (formed in 1994 by the coalition of Saint Vincent Labor Party or SVLP and the Movement for National Unity or MNU)<br>
+**Political parties**<br>
+New Democratic Party or NDP<br>SVG Green Party or SVGP<br>Unity Labor Party or ULP (formed in 1994 by the coalition of Saint Vincent Labor Party or SVLP and the Movement for National Unity or MNU)<br>
 
 **International organization participation**<br>
 ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (subscriber), ITU, MIGA, NAM, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU (NGOs), WHO, WIPO, WTO<br>
@@ -414,9 +414,10 @@ tourism; food processing, cement, furniture, clothing, starch<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 41.1% (2021 est.)<br>
-_male_: 39.7%<br>
-_female_: 43.9%<br>
+_total_: 42.3% (2023 est.)<br>
+_male_: 42.5% (2023 est.)<br>
+_female_: 42% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
 6.7% of GDP (2023 est.)<br>

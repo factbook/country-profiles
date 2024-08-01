@@ -348,8 +348,8 @@ _highest court(s)_: Supreme Court or Hoyesterett (consists of the chief justice 
 _judge selection and term of office_: justices appointed by the monarch (King in Council) upon the recommendation of the Judicial Appointments Board; justices can serve until mandatory retirement at age 70<br>
 _subordinate courts_: Courts of Appeal or Lagmennsrett; regional and district courts; Conciliation Boards; ordinary and special courts; note - in addition to professionally trained judges, elected lay judges sit on the bench with professional judges in the Courts of Appeal and district courts<br>
 
-**Political parties and leaders**<br>
-<p>Center Party or Sp [Trygve Slagsvold VEDUM]<br>Christian Democratic Party or KrF [Olaug Vervik BOLLESTAD] <br>Conservative Party or H [Erna SOLBERG] <br>Green Party or MDG [Arild HERMSTAD]  <br>Labor Party or Ap [Jonas Gahr STORE] <br>Liberal Party or V [Guri MELBY]<br>Patient Focus or PF [Irene OJALA]<br>Progress Party or FrP [Sylvi LISTHAUG] <br>Red Party or R [Marie Sneve MARTINUSSEN]<br>Socialist Left Party or SV [Kristi BERGSTO]</p><br>
+**Political parties**<br>
+<p>Center Party or Sp <br>Christian Democratic Party or KrF <br>Conservative Party or H <br>Green Party or MDG <br>Labor Party or Ap <br>Liberal Party or V<br>Patient Focus or PF <br>Progress Party or FrP <br>Red Party or R <br>Socialist Left Party or SV </p><br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -459,9 +459,10 @@ petroleum and gas, shipping, fishing, aquaculture, food processing, shipbuilding
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13% (2021 est.)<br>
-_male_: 13.5%<br>
-_female_: 12.5%<br>
+_total_: 11% (2023 est.)<br>
+_male_: 11.3% (2023 est.)<br>
+_female_: 10.6% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 12.2% (2021 est.)<br>

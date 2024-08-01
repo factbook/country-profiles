@@ -301,8 +301,8 @@ _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior c
 _judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: Court of Summary Jurisdiction; magistrates' courts<br>
 
-**Political parties and leaders**<br>
-Dominica Freedom Party or DFP [Bernard HURTAULT]<br>Dominica Labor Party or DLP [Roosevelt SKERRIT]<br>Dominica United Workers Party or UWP [Lennox LINTON]<br>
+**Political parties**<br>
+Dominica Freedom Party or DFP<br>Dominica Labor Party or DLP<br>Dominica United Workers Party or UWP<br>
 
 **International organization participation**<br>
 ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, Commonwealth of Nations, ECCU, FAO, G-77, IAEA, IBRD, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WIPO, WMO, WTO<br>

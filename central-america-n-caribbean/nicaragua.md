@@ -339,8 +339,8 @@ _highest court(s)_: Supreme Court or Corte Suprema de Justicia (consists of 16 j
 _judge selection and term of office_: Supreme Court judges elected by the National Assembly to serve 5-year staggered terms<br>
 _subordinate courts_: Appeals Court; first instance civil, criminal, and labor courts; military courts are independent of the Supreme Court<br>
 
-**Political parties and leaders**<br>
-Alliance for the Republic or APRE [Carlos CANALES]<br>Alternative for Change or AC (operates in a political alliance with the FSLN) [Orlando Jose TARDENCILLA]<br>Autonomous Liberal Party or PAL [Rene Margarito BELLO ROMERO]<strong><br></strong>Caribbean Unity Movement or PAMUC [Armando Francisco ARISTA FLORES]<br>Christian Unity Party or PUC (operates in a political alliance with the FSLN) [Guillermo Daniel ORTEGA REYES]<br>Independent Liberal Party or PLI [Mario ASENSIO]<br>Liberal Constitutionalist Party or PLC [Maria Haydee OSUNA]<br>Moskitia Indigenous Progressive Movement or MOSKITIA PAWANKA (operates in a political alliance with the FSLN) [Wycliff Diego BLANDON]<br>Multiethnic Indigenous Party or PIM (operates in a political alliance with the FSLN) [Carla Elvis WHITE HODGSON]<br>Nationalist Liberal Party or PLN (operates in a political alliance with the FSLN) [Constantino Raul VELASQUEZ]<br>Nicaraguan Liberal Alliance or ALN [Alejandro MEJIA Ferreti]<br>Nicaraguan Party of the Christian Path or CCN [Guillermo OSORNO]<br>Nicaraguan Resistance Party or PRN (operates in a political alliance with the FSLN) [Julio Cesar BLANDON SANCHEZ]<strong><br></strong>Sandinista National Liberation Front or FSLN [Jose Daniel ORTEGA Saavedra]<br>Sons of Mother Earth or YATAMA [Brooklyn RIVERA]<br>The New Sons of Mother Earth Movement or MYATAMARAN (operates in a political alliance with the FSLN) [Osorno Salomon COLEMAN]<br>
+**Political parties**<br>
+Alliance for the Republic or APRE<br>Alternative for Change or AC (operates in a political alliance with the FSLN)<br>Autonomous Liberal Party or PAL<strong><br></strong>Caribbean Unity Movement or PAMUC<br>Christian Unity Party or PUC (operates in a political alliance with the FSLN)<br>Independent Liberal Party or PLI<br>Liberal Constitutionalist Party or PLC<br>Moskitia Indigenous Progressive Movement or MOSKITIA PAWANKA (operates in a political alliance with the FSLN) <br>Multiethnic Indigenous Party or PIM (operates in a political alliance with the FSLN)<br>Nationalist Liberal Party or PLN (operates in a political alliance with the FSLN)<br>Nicaraguan Liberal Alliance or ALN<br>Nicaraguan Party of the Christian Path or CCN<br>Nicaraguan Resistance Party or PRN (operates in a political alliance with the FSLN)<strong><br></strong>Sandinista National Liberation Front or FSLN<br>Sons of Mother Earth or YATAMA<br>The New Sons of Mother Earth Movement or MYATAMARAN (operates in a political alliance with the FSLN)<br>
 
 **International organization participation**<br>
 ACS, BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, NAM, OAS, OPANAL, OPCW, PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -451,9 +451,10 @@ food processing, chemicals, machinery and metal products, knit and woven apparel
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.6% (2021 est.)<br>
-_male_: 10.2%<br>
-_female_: 15.5%<br>
+_total_: 9.5% (2023 est.)<br>
+_male_: 8.3% (2023 est.)<br>
+_female_: 12.6% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 24.9% (2016 est.)<br>

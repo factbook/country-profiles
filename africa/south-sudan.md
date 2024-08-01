@@ -317,7 +317,7 @@ _judge selection and term of office_: justices appointed by the president (the 2
 _subordinate courts_: national level - Courts of Appeal; High Courts; County Courts; state level - High Courts; County Courts; customary courts; other specialized courts and tribunals<br>
 Note: in mid-2022, the Government of South Sudan inaugurated an Ad-hoc Judiciary Committee, a 12-member body led by two eminent jurists, which is charged with reviewing relevant laws, advising on judicial reform and restructuring of the judiciary<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 <p>Democratic Change or DC<br>Democratic Forum or DF<br>Labour Party or LPSS [Federico Awi VUNI]<br>South Sudan Opposition Alliance or SSOA [Hussein ABDELBAGI Ayii]<br>Sudan African National Union or SANU [Toby MADOUT]<br>Sudan People's Liberation Movement or SPLM [Salva KIIR Mayardit]<br>Sudan People’s Liberation Movement-In Opposition or SPLM-IO [Riek MACHAR Teny Dhurgon]<br>United Democratic Salvation Front or UDSF    <br>United South Sudan African Party or USSAP [Louis Pasquale ALEU, Secretary]<br>United South Sudan Party or USSP [Paulino LUKUDU Obede]</p><br>
 
 **International organization participation**<br>

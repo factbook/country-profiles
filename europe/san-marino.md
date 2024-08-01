@@ -296,8 +296,8 @@ _highest court(s)_: Council of Twelve or Consiglio dei XII (consists of 12 membe
 _judge selection and term of office_: judges elected by the Grand and General Council from among its own to serve 5-year terms<br>
 _subordinate courts_: first instance and first appeal criminal, administrative, and civil courts; Court for the Trust and Trustee Relations; justices of the peace or conciliatory judges<br>
 
-**Political parties and leaders**<br>
-Domani - Modus Liberi or DML [Lorenzo Forcellini REFFI]<br>Free San Marino (Libera San Marino) or Libera [Dalibar RICCARDI]<br>Future Republic or RF [Nicholas RENZI]<br>Party of Socialists and Democrats or PSD [Luca LAZZARI]<br>Reformist Alliance or AR [Andreina BARTOLINI]<br>RETE Movement [Gian Matteo ZEPPA]<br>Sammarinese Christian Democratic Party or PDCS [Gian Carlo VENTURINI]<br>Socialist Party or PS [Alessandro MANCINI]<br>Tomorrow in Movement coalition (includes RETE Movement, DML)<br>
+**Political parties**<br>
+Domani - Modus Liberi or DML <br>Free San Marino (Libera San Marino) or Libera <br>Future Republic or RF <br>Party of Socialists and Democrats or PSD <br>Reformist Alliance or AR <br>RETE Movement <br>Sammarinese Christian Democratic Party or PDCS <br>Socialist Party or PS <br>Tomorrow in Movement coalition (includes RETE Movement, DML)<br>
 
 **International organization participation**<br>
 CE, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ITU, ITUC (NGOs), LAIA (observer), OPCW, OSCE, Schengen Convention (de facto member), UN, UNCTAD, UNESCO, Union Latina, UNWTO, UPU, WHO, WIPO<br>

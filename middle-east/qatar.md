@@ -337,7 +337,7 @@ _highest court(s)_: Supreme Court or Court of Cassation (consists of the court p
 _judge selection and term of office_: Supreme Court judges nominated by the Supreme Judiciary Council, a 9-member independent body consisting of judiciary heads appointed by the amir; judges appointed for 3-year renewable terms; Supreme Constitutional Court members nominated by the Supreme Judiciary Council and appointed by the monarch; term of appointment NA<br>
 _subordinate courts_: Courts of Appeal; Administrative Court; Courts of First Instance; sharia courts; Courts of Justice; Qatar International Court and Dispute Resolution Center, established in 2009, provides dispute resolution services for institutions and bodies in Qatar, as well as internationally<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 political parties are banned<br>
 
 **International organization participation**<br>
@@ -449,9 +449,10 @@ liquefied natural gas, crude oil production and refining, ammonia, fertilizer, p
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.1% (2021 est.)<br>
-_male_: 0.9%<br>
-_female_: 2.1%<br>
+_total_: 0.6% (2023 est.)<br>
+_male_: 0.3% (2023 est.)<br>
+_female_: 1.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 41.1 (2007 est.)<br>

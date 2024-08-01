@@ -345,8 +345,8 @@ _judge selection and term of office_: Supreme Court judges nominated by the Supr
 _subordinate courts_: Courts of Appeal; administrative courts; Court of Audit; Housing Court; courts of first instance; lower district courts; military courts<br>
 <strong>note:</strong> the Tunisian constitution of January 2014 called for the establishment of a constitutional court by the end of 2015, but the court was never formed; the new constitution of July 2022 calls for the establishment of a constitutional court consisting of 9 members appointed by presidential decree; members to include former senior judges of other courts<br>
 
-**Political parties and leaders**<br>
-Afek Tounes [Rym MAHJOUB]<br>Al Badil Al-Tounisi (The Tunisian Alternative) [Mehdi JOMAA]<br>Al-Amal Party [Salma ELLOUMIJ]<br>Call for Tunisia Party (Nidaa Tounes) [Ali HAFSI]<br>Current of Love [Hachemi HAMDI] (formerly the Popular Petition party)<br>Democratic Current [Ghazi CHAOUACHI]<br>Democratic Patriots' Unified Party [Zied LAKHDHAR]<br>Dignity Coalition or Al Karama Coalition [Seifeddine MAKHLOUF]<br>Ennahda Movement (The Renaissance) [Rached GHANNOUCHI]<br>Ettakatol Party [Khalil ZAOUIA]<br>Free Destourian Party or PDL [Abir MOUSSI]<br>Green Tunisia Party [Abdelkader ZITOUNI]<br>Harakat Hak [Mohsen MARZOUK]<br>Heart of Tunisia (Qalb Tounes) [Nabil KAROUI]<br>July 25 Movement [Thameur BDIDA]<br>Labor and Achievement Party [Abdellatif MEKKI]<br>Long Live Tunisia (Tahya Tounes) [Youssef CHAHED]<br>Movement of Socialist Democrats or MDS [Ahmed KHASKHOUSSI]<br>National Coalition Party [Neji JALLOUL]<br>National Salvation Front [Ahmed Nejib CHEBBI]<br>New Carthage Party [Nizar CHAARI]<br>Party of the Democratic Arab Vanguard [Kheireddine SOUABNI]<br>People's Movement [Zouheir MAGHZAOUI]<br>Republican Party (Al Joumhouri) [Issam CHEBBI] <br>The Movement Party (Hizb Harak) [Moncef MARZOUKI]<br>Third Republic Party [Olfa HAMDI]<br>Tunisian Ba'ath Movement [Othmen Bel Haj AMOR]<br>Voice of the Republic [Ali HAFSI]<br>Workers' Party [Hamma HAMMAMI]<br>
+**Political parties**<br>
+Afek Tounes<br>Al Badil Al-Tounisi (The Tunisian Alternative)<br>Al-Amal Party<br>Call for Tunisia Party (Nidaa Tounes)<br>Current of Love (formerly the Popular Petition party)<br>Democratic Current<br>Democratic Patriots' Unified Party<br>Dignity Coalition or Al Karama Coalition<br>Ennahda Movement (The Renaissance)<br>Ettakatol Party<br>Free Destourian Party or PDL<br>Green Tunisia Party<br>Harakat Hak<br>Heart of Tunisia (Qalb Tounes)<br>July 25 Movement<br>Labor and Achievement Party<br>Long Live Tunisia (Tahya Tounes)<br>Movement of Socialist Democrats or MDS<br>National Coalition Party<br>National Salvation Front<br>New Carthage Party<br>Party of the Democratic Arab Vanguard<br>People's Movement<br>Republican Party (Al Joumhouri)<br>The Movement Party (Hizb Harak)<br>Third Republic Party<br>Tunisian Ba'ath Movement<br>Voice of the Republic<br>Workers' Party<br>
 <strong>note:</strong> President SAIED in 2022 issued a decree that forbids political parties' participation in legislative elections; although parties remain a facet of Tunisian political life, they have lost significant influence<br>
 
 **International organization participation**<br>
@@ -457,9 +457,10 @@ petroleum, mining (particularly phosphate, iron ore), tourism, textiles, footwea
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38.3% (2021 est.)<br>
-_male_: 37.1%<br>
-_female_: 41.2%<br>
+_total_: 37.5% (2023 est.)<br>
+_male_: 38.3% (2023 est.)<br>
+_female_: 35.6% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 16.6% (2021 est.)<br>

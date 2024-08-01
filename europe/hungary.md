@@ -359,8 +359,8 @@ _highest court(s)_: Curia or Supreme Judicial Court (consists of the president, 
 _judge selection and term of office_: Curia president elected by the National Assembly on the recommendation of the president of the republic; other Curia judges appointed by the president upon the recommendation of the National Judicial Council, a separate 15-member administrative body; judge tenure based on interim evaluations until normal retirement at age 62; Constitutional Court judges, including the president of the court, elected by the National Assembly; court vice president elected by the court itself; members serve 12-year terms with mandatory retirement at age 62<br>
 _subordinate courts_: 5 regional courts of appeal; 19 regional or county courts (including Budapest Metropolitan Court); 20 administrative-labor courts; 111 district or local courts<br>
 
-**Political parties and leaders**<br>
-Christian Democratic People's Party or KDNP [Zsolt SEMJEN]<br>Democratic Coalition or DK [Ferenc GYURCSANY]<br>Dialogue for Hungary (Parbeszed) or PM [Bence TORDAI, Rebeka SZABO]<br>Fidesz-Hungarian Civic Alliance or Fidesz [Viktor ORBAN]<br>Hungarian Socialist Party or MSZP [Bertalan TOTH, Agnes KUNHALMI]<br>LMP-Hungary's Green Party [Peter UNGAR, Erzsebet SCHMUCK]<br>Mi Hazank (Our Homeland Movement) or MHM [Laszlo TOROCZKAI]<br>Momentum Movement (Momentum Mozgalom) [Ferenc GELENCSER]<br>Movement for a Better Hungary or Jobbik [Marton GYONGYOSI]<br>National Self-Government of Germans in Hungary or LdU [Ibolya HOCK-ENGLENDER]<br>United for Hungary (a coalition of Jobbik, MSZP, Dialogue, DK, LMP, and Momentum)<br>
+**Political parties**<br>
+Christian Democratic People's Party or KDNP<br>Democratic Coalition or DK<br>Dialogue for Hungary or Párbeszéd<br>Fidesz-Hungarian Civic Alliance or Fidesz<br>Hungarian Socialist Party or MSZP<br>Jobbik - Conservatives or Jobbik<br>LMP-Hungary's Green Party or LMP<br>Mi Hazank (Our Homeland Movement) or MHM<br>Momentum Movement or Momentum<br>Movement for a Better Hungary or Jobbik<br>National Self-Government of Germans in Hungary or MNOÖ<br>On the People's Side or A Nép Pártján<br>Our Homeland Movement or Mi Hazánk<br>TISZA – Respect and Freedom Party or TISZA<br>
 
 **International organization participation**<br>
 Australia Group, BIS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA (cooperating state), EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -471,9 +471,10 @@ mining, metallurgy, construction materials, processed foods, textiles, chemicals
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.5% (2021 est.)<br>
-_male_: 11.5%<br>
-_female_: 16.2%<br>
+_total_: 12.8% (2023 est.)<br>
+_male_: 13.5% (2023 est.)<br>
+_female_: 11.8% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 12.1% (2021 est.)<br>

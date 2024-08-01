@@ -324,15 +324,15 @@ _election results_: <em><br>2021:</em> Siaosi SOVALENI elected prime minister by
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Fale Alea (30 seats statutory, 28 current); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 4-year terms)<br>
 _elections_: last held on 18 November 2021 (next to be held in November 2025)<br>
-_election results_: percent of vote - NA; seats by party - independent 11, nobles' representatives 9, DPFI 3, TPPI 3; composition - men 26, women 2, percentage women 7.1%<br>
+_election results_: percent of vote - NA; seats by party - independent 12, nobles' representatives 9, DPFI 3, TPPI 3; composition - men 26, women 2, percentage women 7.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers<br>
 _judge selection and term of office_: judge appointments and tenures made by the King in Privy Council and subject to consent of the Legislative Assembly<br>
 _subordinate courts_: Supreme Court; Magistrates' Courts; Land Courts<br>
 
-**Political parties and leaders**<br>
-Democratic Party of the Friendly Islands or DPFI or PTOA [Semisi SIKA]<br>People's Democratic Party or PDP [Tesina FUKO]<br>Tonga Democratic Labor Party (vacant)<br>Tonga Human Rights and Democracy Movement or HRDM ['Uliti UATA]<br>Tonga People's Party or PAK or TPPI (Paati ʻa e Kakai ʻo Tonga) [Pohiva TU'I'ONETOA] (split from Democratic Party of the Friendly Islands)<br>
+**Political parties**<br>
+Democratic Party of the Friendly Islands or DPFI or PTOA <br>Tonga People's Party (Paati ʻa e Kakai ʻo Tonga) or PAK or TPPI<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, IMF, IMO, IMSO, Interpol, IOC, IPU, ITU, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -428,9 +428,10 @@ tourism, construction, fishing<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.1% (2021 est.)<br>
-_male_: 7.5%<br>
-_female_: 16.3%<br>
+_total_: 6.7% (2023 est.)<br>
+_male_: 4.4% (2023 est.)<br>
+_female_: 10.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 20.6% (2021 est.)<br>

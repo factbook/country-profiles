@@ -350,8 +350,8 @@ _highest court(s)_: Superior Court of Judicature (consists of the Supreme Court 
 _judge selection and term of office_: Supreme Court chief justice and other judges of the Judicature appointed by the president on the advice of the Judicial and Legal Service Commission, a 7-member independent body of judges, presidential appointees, and the Commission chairman, and are subject to approval by Parliament; all Judicature judges serve until retirement at age 65<br>
 _subordinate courts_: magistrates' courts; District Appeals Court; local courts<br>
 
-**Political parties and leaders**<br>
-All People's Congress or APC [Samura KAMARA]<br>Sierra Leone People's Party or SLPP) [Julius Maada BIO]<br>
+**Political parties**<br>
+All People's Congress or APC <br>Sierra Leone People's Party or SLPP<br>
 
 **International organization participation**<br>
 ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -449,9 +449,10 @@ diamond mining; iron ore, rutile and bauxite mining; small-scale manufacturing (
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.8% (2021 est.)<br>
-_male_: 15.8%<br>
-_female_: 7.6%<br>
+_total_: 3.6% (2023 est.)<br>
+_male_: 4.7% (2023 est.)<br>
+_female_: 2.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 56.8% (2018 est.)<br>

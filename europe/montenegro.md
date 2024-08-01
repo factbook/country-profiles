@@ -354,8 +354,8 @@ _highest court(s)_: Supreme Court or Vrhovni Sud (consists of the court presiden
 _judge selection and term of office_: Supreme Court president proposed by general session of the Supreme Court and elected by the Judicial Council, a 9-member body consisting of judges, lawyers designated by the Assembly, and the minister of judicial affairs; Supreme Court president elected for a single renewable, 5-year term; other judges elected by the Judicial Council for life; Constitutional Court judges - 2 proposed by the president of Montenegro and 5 by the Assembly, and elected by the Assembly; court president elected from among the court members; court president elected for a 3-year term, other judges serve 9-year terms<br>
 _subordinate courts_: Administrative Courts; Appellate Court; Commercial Courts; High Courts; basic courts<br>
 
-**Political parties and leaders**<br>
-Albanian Alliance (electoral coalition includes FORCA, PD, DSCG)<br>Albanian Alternative or AA [Nik DELJOSAJ]<br>Albanian Democratic League or LDSH [Nicola CAMAJ]<br>Albanian Forum (electoral coalition includes AA, LDSH, UDSH)<br>Aleksa and Dritan - Count Bravely! [Aleksa BECIC] (electoral coalition includes Democrats, URA)<br>Bosniak Party or BS [Ervin IBRAHIMOVIC]<br>Civic Movement United Reform Action or United Reform Action or URA [Dritan ABAZOVIC]<br>Croatian Civic Initiative or HGI [Adrian VUKSANOVIC]<br>Democratic Alliance or DEMOS [Miodrag LEKIC]<br>Democratic League in Montenegro or DSCG [Mehmet BARDHI]<br>Democratic Montenegro or Democrats [Aleksa BECIC]<br>Democratic Party of Socialists or DPS [Danijel ZIVKOVIC, acting]<br>Democratic People's Party or DNP [Milan KNEZEVIC]<br>Democratic Union of Albanians or UDSH [Mehmet ZENKA]<br>Europe Now! [Milojko SPAJIC]<br>For the Future of Montenegro or ZBCG [Milan KNEZEVIC] (coalition includes NSD, DNP, RP)<br>Liberal Party or LP [Andrija POPOVIC]<br>New Democratic Power or FORCA [Nazif CUNGU]<br>New Serb Democracy or NSD or NOVA [Andrija MANDIC]<br>Social Democrats or SD [Damir SEHOVIC]<br>Socialist People's Party or SNP [Vladimir JOKOVIC]<br>Together! (electoral coalition includes DPS, SD, LP, UDSH)<br>United Montenegro or UCG [Goran DANILOVIC] (split from DEMOS)<br>Workers' Party or RP [Maksim VUCINIC]<br>
+**Political parties**<br>
+Albanian Alliance (electoral coalition includes FORCA, PD, DSCG)<br>Albanian Alternative or AA<br>Albanian Democratic League or LDSH<br>Albanian Forum (electoral coalition includes AA, LDSH, UDSH)<br>Aleksa and Dritan - Count Bravely! (electoral coalition includes Democrats, URA)<br>Bosniak Party or BS <br>Civic Movement United Reform Action or United Reform Action or URA <br>Croatian Civic Initiative or HGI <br>Democratic Alliance or DEMOS <br>Democratic League in Montenegro or DSCG<br>Democratic Montenegro or Democrats<br>Democratic Party of Socialists or DPS <br>Democratic People's Party or DNP <br>Democratic Union of Albanians or UDSH<br>Europe Now!<br>For the Future of Montenegro or ZBCG (coalition includes NSD, DNP, RP)<br>Liberal Party or LP <br>New Democratic Power or FORCA<br>New Serb Democracy or NSD or NOVA <br>Social Democrats or SD<br>Socialist People's Party or SNP <br>Together! (electoral coalition includes DPS, SD, LP, UDSH)<br>United Montenegro or UCG (split from DEMOS)<br>Workers' Party or RP <br>
 
 **International organization participation**<br>
 CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -465,9 +465,10 @@ steelmaking, aluminum, agricultural processing, consumer goods, tourism<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 31.6% (2021 est.)<br>
-_male_: 28.3%<br>
-_female_: 36.7%<br>
+_total_: 27.9% (2023 est.)<br>
+_male_: 29% (2023 est.)<br>
+_female_: 26.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 21.2% (2020 est.)<br>

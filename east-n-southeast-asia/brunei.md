@@ -331,8 +331,8 @@ _highest court(s)_: Supreme Court (consists of the Court of Appeal and the High 
 _judge selection and term of office_: Supreme Court judges appointed by the monarch to serve until age 65, and older if approved by the monarch; Sharia Court judges appointed by the monarch for life<br>
 _subordinate courts_: Intermediate Court; Magistrates' Courts; Juvenile Court; small claims courts; lower sharia courts<br>
 
-**Political parties and leaders**<br>
-National Development Party or NDP [Zainal Talib]<br>
+**Political parties**<br>
+National Development Party or NDP<br>
 <strong>note:</strong> the NDP is Brunei’s only registered party, but does not have representation in the Legislative Council, which is appointed<br>
 
 **International organization participation**<br>
@@ -433,9 +433,10 @@ petroleum, petroleum refining, liquefied natural gas, construction, agriculture,
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.4% (2021 est.)<br>
-_male_: 20.7%<br>
-_female_: 27.6%<br>
+_total_: 18.6% (2023 est.)<br>
+_male_: 16.2% (2023 est.)<br>
+_female_: 22.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
 0.01% of GDP (2023 est.)<br>

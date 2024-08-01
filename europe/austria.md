@@ -357,8 +357,8 @@ _highest court(s)_: Supreme Court of Justice or Oberster Gerichtshof (consists o
 _judge selection and term of office_: Supreme Court judges nominated by executive branch departments and appointed by the president; judges serve for life; Constitutional Court judges nominated by several executive branch departments and approved by the president; judges serve for life; Administrative Court judges recommended by executive branch departments and appointed by the president; terms of judges and members determined by the president<br>
 _subordinate courts_: Courts of Appeal (4); Regional Courts (20); district courts (120); county courts<br>
 
-**Political parties and leaders**<br>
-Austrian People's Party or OeVP [Karl NEHAMMER]<br>Freedom Party of Austria or FPOe [Herbert KICKL]<br>The Greens - The Green Alternative [Werner KOGLER]<br>NEOS - The New Austria and Liberal Forum [Beate MEINL-REISINGER]<br>Social Democratic Party of Austria or SPOe [Andreas BABLER]<br>
+**Political parties**<br>
+Austrian People's Party or OeVP <br>Freedom Party of Austria or FPOe <br>The Greens - The Green Alternative <br>NEOS - The New Austria and Liberal Forum <br>Social Democratic Party of Austria or SPOe <br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -469,9 +469,10 @@ construction, machinery, vehicles and parts, food, metals, chemicals, lumber and
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.4% (2021 est.)<br>
-_male_: 11.5%<br>
-_female_: 11.3%<br>
+_total_: 10.9% (2023 est.)<br>
+_male_: 10.6% (2023 est.)<br>
+_female_: 11.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 14.8% (2021 est.)<br>

@@ -344,7 +344,7 @@ _highest court(s)_: High Court (consists of the court chief and organized into c
 _judge selection and term of office_: High Court chief and chiefs of the High Court Circuits appointed by royal decree upon the recommendation of the Supreme Judiciary Council, a 10-member body of high-level judges and other judicial heads; new judges and assistant judges serve 1- and 2-year probations, respectively, before permanent assignment<br>
 _subordinate courts_: Court of Appeals; Specialized Criminal Court, first-degree courts composed of general, criminal, personal status, and commercial courts; Labor Court; a hierarchy of administrative courts<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 none<br>
 
 **International organization participation**<br>
@@ -457,9 +457,10 @@ crude oil production, petroleum refining, basic petrochemicals, ammonia, industr
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 28.8% (2021 est.)<br>
-_male_: 22.4%<br>
-_female_: 47.9%<br>
+_total_: 16.3% (2023 est.)<br>
+_male_: 12.9% (2023 est.)<br>
+_female_: 24.4% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 45.9 (2013 est.)<br>

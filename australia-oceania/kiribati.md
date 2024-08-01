@@ -329,8 +329,8 @@ _highest court(s)_: High Court (consists of a chief justice and other judges as 
 _judge selection and term of office_: chief justice appointed by the president on the advice of the cabinet in consultation with the Public Service Commission (PSC); other judges appointed by the president on the advice of the chief justice along with the PSC<br>
 _subordinate courts_: Court of Appeal; magistrates' courts<br>
 
-**Political parties and leaders**<br>
-Boutokaan Kiribati Moa Party (Supporting Kiribati First) or BKM [Tessie LAMBOURNE]<br>Tobwaan Kiribati Party (Embracing Kiribati) or TKP [Taneti MAAMAU]<br>
+**Political parties**<br>
+Boutokaan Kiribati Moa Party (Supporting Kiribati First) or BKM <br>Tobwaan Kiribati Party (Embracing Kiribati) or TKP <br>
 
 **International organization participation**<br>
 ABEDA, ACP, ADB, AOSIS, C, FAO, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IOC, ITU, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNDP, UNESCO, UPU, WHO, WIPO, WMO<br>

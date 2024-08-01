@@ -353,7 +353,7 @@ _election results_: <br><em>2024: </em>Matamela Cyril RAMAPHOSA (ANC) elected pr
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br><br>National Council of Provinces (90 seats; nine 10-member delegations, each with 6 permanent delegates and 4 special delegates, appointed by each of the 9 provincial legislatures to serve 5-year terms; note - the Council has special powers to protect regional interests, including safeguarding cultural and linguistic traditions among ethnic minorities)<br><br>National Assembly (400 seats; half the members directly elected in multi-seat constituencies and half in a single nationwide constituency, both by proportional representation popular vote; members serve 5-year terms)<br>
-_elections_: National Council of Provinces and National Assembly - last held on 29 May 2024 (next to be held on 30 June 2029)<br>
+_elections_: National Council of Provinces and National Assembly - last held on 15 June 2024 (next to be held on 30 June 2029)<br>
 _election results_: <p>National Council of Provinces - percent of vote by party - NA; seats by party - ANC 29, DA 13, EFF 9, FF+ 2, IFP 1; composition - men 30, women 24, percentage women 44.4%; note - 36 appointed seats not filled<br><br>National Assembly - percent of vote by party - ANC 40.1% DA 21.8%, MK 14.5%, EFF 9.5%, IFP 3.8%, PA, 2.06%, FF+ 1.3%, Action SA 1.2%, ACDP 0.60%, UCM 0.49%, RISE 0.42%, BOSA 0.041%, ATM 0.40%, Al Jam-ah 0.24%, NCC 0.23%, PAC 0.23%, UAT 0.22%, GOOD 0.18% other 4.38%; seats by party - ANC 159, DA 87, MK 58, EFF 39, IFP 17, PA 9, FF+ 6, Action SA 6, ACDP 3, UDM 3, RISE  2, BOSA 2, ATM 2, AL Jam-ah 2, NCC 2, PAC 1, UAT 1, GOOD 1; composition - men 210, women 181, percentage women 46.3%; total Parliament percentage women 46.1%</p><br>
 
 **Judicial branch**<br>
@@ -361,8 +361,8 @@ _highest court(s)_: Supreme Court of Appeals (consists of the court president, d
 _judge selection and term of office_: Supreme Court of Appeals president and vice president appointed by the national president after consultation with the Judicial Services Commission (JSC), a 23-member body chaired by the chief justice and includes other judges and judicial executives, members of parliament, practicing lawyers and advocates, a teacher of law, and several members designated by the president of South Africa; other Supreme Court judges appointed by the national president on the advice of the JSC and hold office until discharged from active service by an Act of Parliament; Constitutional Court chief and deputy chief justices appointed by the president of South Africa after consultation with the JSC and with heads of the National Assembly; other Constitutional Court judges appointed by the national president after consultation with the chief justice and leaders of the National Assembly; Constitutional Court judges serve 12-year nonrenewable terms or until age 70<br>
 _subordinate courts_: High Courts; Magistrates' Courts; labor courts; land claims courts<br>
 
-**Political parties and leaders**<br>
-African Christian Democratic Party or ACDP [Kenneth MESHOE]<br>African Independent Congress or AIC [Mandla GALO]<br>African National Congress or ANC [Cyril RAMAPHOSA]<br>African People's Convention or APC [Themba GODI] <br>Agang SA [Andries TLOUAMMA]<br>Congress of the People or COPE [Mosiuoa LEKOTA]<br>Democratic Alliance or DA [John STEENHUISEN]<br>Economic Freedom Fighters or EFF [Julius Sello MALEMA]<br>Freedom Front Plus or FF+ [Pieter GROENEWALD]<br>GOOD [Patricia de LILLE]<br>Inkatha Freedom Party or IFP [Velenkosini HLABISA]<br>National Freedom Party or NFP (vacant)<br>Pan-Africanist Congress of Azania or PAC [Mzwanele NYHONTSO]<br>United Christian Democratic Party or UCDP [Modiri Desmond SEHUME]<br>United Democratic Movement or UDM [Bantu HOLOMISA]<br>
+**Political parties**<br>
+African Christian Democratic Party or ACDP <br>African Independent Congress or AIC <br>African National Congress or ANC <br>African People's Convention or APC <br>Agang SA <br>Congress of the People or COPE <br>Democratic Alliance or DA <br>Economic Freedom Fighters or EFF <br>Freedom Front Plus or FF+ <br>GOOD <br>Inkatha Freedom Party or IFP <br>National Freedom Party or NFP <br>Pan-Africanist Congress of Azania or PAC <br>United Christian Democratic Party or UCDP <br>United Democratic Movement or UDM <br>
 
 **International organization participation**<br>
 ACP, AfDB, AIIB, AU, BIS, BRICS, C, CD, FAO, FATF, G-20, G-24, G-5, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, NSG, OECD (enhanced engagement), OPCW, Paris Club (associate), PCA, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNITAR, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -474,9 +474,10 @@ mining (world's largest producer of platinum, gold, chromium), automobile assemb
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 64.2% (2021 est.)<br>
-_male_: 59.8%<br>
-_female_: 69.3%<br>
+_total_: 49.1% (2023 est.)<br>
+_male_: 45.8% (2023 est.)<br>
+_female_: 53.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 55.5% (2014 est.)<br>

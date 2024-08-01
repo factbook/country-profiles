@@ -92,11 +92,11 @@ _noun_: Bolivian(s)<br>
 _adjective_: Bolivian<br>
 
 **Ethnic groups**<br>
-Mestizo (mixed White and Indigenous ancestry) 68%, Indigenous 20%, White 5%, Cholo/Chola 2%, African descent 1%, other 1%, unspecified 3%; 44% of respondents indicated feeling part of some Indigenous group, predominantly Quechua or Aymara (2009 est.)<br>
+Mestizo (mixed White and Indigenous ancestry) 68%, Indigenous 20%, White 5%, Cholo/Chola 2%, African descent 1%, other 1%, unspecified 3%; 44% other Indigenous group, predominantly Quechua or Aymara (2009 est.)<br>
 <strong>note:</strong> results among surveys vary based on the wording of the ethnicity question and the available response choices; the 2001 national census did not provide "Mestizo" as a response choice, resulting in a much higher proportion of respondents identifying themselves as belonging to one of the available indigenous ethnicity choices; the use of "Mestizo" and "Cholo" varies among response choices in surveys, with surveys using the terms interchangeably, providing one or the other as a response choice, or providing the two as separate response choices<br>
 
 **Languages**<br>
-Spanish (official) 68.1%, Quechua (official) 17.2%, Aymara (official) 10.5%, Guarani (official) 0.6%, other 1.5%, unspecified 2.1%; note - Bolivia's 2009 constitution designates Spanish and all Indigenous languages as official; 36 Indigenous languages are specified, including a few that are extinct (2012 est.)<br>
+Spanish (official) 68.1%, Quechua (official) 17.2%, Aymara (official) 10.5%, Guarani (official) 0.6%, other 1.5%, unspecified 2.1%; note - Spanish and all Indigenous languages are official (2012 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -347,11 +347,12 @@ _residency requirement for naturalization_: 3 years<br>
 18 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President Luis Alberto ARCE Catacora (since 8 November 2020); Vice President David CHOQUEHUANCA Cespedes (since 8 November 2020); note - the president is both chief of state and head of government<br>
-_head of government_: President Luis Alberto ARCE Catacora (since 8 November 2020); Vice President David CHOQUEHUANCA Cespedes (since 8 November 2020)<br>
+_chief of state_: President Luis Alberto ARCE Catacora (since 8 November 2020)<br>
+_head of government_: President Luis Alberto ARCE Catacora (since 8 November 2020)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot one of 3 ways: candidate wins at least 50% of the vote, or at least 40% of the vote and 10% more than the next highest candidate; otherwise a second round is held and the winner determined by simple majority vote; president and vice president are elected by majority vote to serve a 5-year term; no term limits (changed from two-consecutive-term limit by Constitutional Court in late 2017); election last held on 18 October 2020 (next to be held in October 2025)<br>
 _election results_: <br><em>2020:</em> Luis Alberto ARCE Catacora elected president; percent of vote - Luis Alberto ARCE Catacora (MAS) 55.1%; Carlos Diego MESA Gisbert (CC) 28.8%; Luis Fernando CAMACHO Vaca (Creemos) 14%; other 2.1%<br><br><em>2019:</em> Juan Evo MORALES Ayma reelected president; percent of vote - Juan Evo MORALES Ayma (MAS) 61%; Samuel DORIA MEDINA Arana (UN) 24.5%; Jorge QUIROGA Ramirez (POC) 9.1%; other 5.4%; note - MORALES resigned from office on 10 November 2019 over alleged election rigging; resignations of all his constitutionally designated successors followed, including the Vice President, President of the Senate, President of the Chamber of Deputies, and First Vice President of the Senate, leaving the Second Vice President of the Senate, Jeanine ANEZ Chavez, the highest-ranking official still in office; her appointment to the presidency was endorsed by Bolivia's Constitutional Court, and she served as interim president until the 8 November 2020 inauguration of Luis Alberto ARCE Catacora, who won the 18 October 2020 presidential election<br>
+<strong>note:</strong> the president is both chief of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: bicameral Plurinational Legislative Assembly or Asamblea Legislativa Plurinacional consists of:<br>Chamber of Senators or Camara de Senadores (36 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (130 seats; 70 members directly elected in single-seat constituencies by simple majority vote, 53 directly elected in single-seat constituencies by closed party-list proportional representation vote, and 7 (apportioned to non-contiguous, rural areas in 7 of the 9 states) directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
@@ -363,8 +364,8 @@ _highest court(s)_: Supreme Court or Tribunal Supremo de Justicia (consists of 1
 _judge selection and term of office_: Supreme Court, Plurinational Constitutional Tribunal, National Agro-Environmental Court, and Council of the Judiciary candidates pre-selected by the Plurinational Legislative Assembly and elected by direct popular vote; judges elected for 6-year terms; Plurinational Electoral Organ judges appointed - 6 by the Legislative Assembly and 1 by the president of the republic; members serve single 6-year terms<br>
 _subordinate courts_: National Electoral Court; District Courts (in each of the 9 administrative departments); agro-environmental lower courts<br>
 
-**Political parties and leaders**<br>
-Community Citizen Alliance or ACC [Carlos Diego MESA Gisbert]<br>Front for Victory or FPV [Jaime SOLIZ]<br>Movement Toward Socialism or MAS [Juan Evo MORALES Ayma]<br>National Unity or UN [Samuel DORIA MEDINA Auza]<br>Revolutionary Left Front or FRI [Edgar GÚZMAN Jáuregui]<br>Revolutionary Nationalist Movement or MNR [Luis Eduardo SILES]<br>Social Democrat Movement or MDS [Ruben COSTAS Aguilera]<br>Third System Movement or MTS [Félix PATZI]<br>We Believe or Creemos [Luis Fernando CAMACHO Vaca]<br>
+**Political parties**<br>
+Community Citizen Alliance or ACC<br>Front for Victory or FPV<br>Movement Toward Socialism or MAS<br>National Unity or UN<br>Revolutionary Left Front or FRI<br>Revolutionary Nationalist Movement or MNR<br>Social Democrat Movement or MDS<br>Third System Movement or MTS<br>We Believe or Creemos<br>
 <strong>note:</strong> We Believe or Creemos [Luis Fernando CAMACHO Vaca] is a coalition comprised of several opposition parties that participated in the 2020 election, which includes the Christian Democratic Party (PDC) and Solidarity Civic Unity (UCS)<br>
 
 **International organization participation**<br>
@@ -477,9 +478,10 @@ mining, smelting, electricity, petroleum, food and beverages, handicrafts, cloth
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.4% (2021 est.)<br>
-_male_: 16.8%<br>
-_female_: 18.4%<br>
+_total_: 5.3% (2023 est.)<br>
+_male_: 4.5% (2023 est.)<br>
+_female_: 6.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 39% (2020 est.)<br>

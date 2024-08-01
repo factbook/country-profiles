@@ -288,8 +288,8 @@ _highest court(s)_: Court of Appeal (consists of the court president and at leas
 _judge selection and term of office_: Court of Appeal justice appointed by the governor; justice tenure by individual appointment; Supreme Court judges nominated by the Judicial and Legal Services Commission and appointed by the governor; judge tenure based on terms of appointment<br>
 _subordinate courts_: commercial court (began in 2006); magistrates' courts<br>
 
-**Political parties and leaders**<br>
-Free Democratic Movement or FDM [Marc A. R. BEAN]<br>One Bermuda Alliance or OBA [N. H. Cole SIMONS]<br>Progressive Labor Party or PLP [E. David BURT]<br>
+**Political parties**<br>
+Free Democratic Movement or FDM<br>One Bermuda Alliance or OBA<br>Progressive Labor Party or PLP<br>
 
 **International organization participation**<br>
 Caricom (associate), ICC (NGOs), Interpol (subbureau), IOC, ITUC (NGOs), UPU, WCO<br>

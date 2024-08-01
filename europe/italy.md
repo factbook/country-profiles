@@ -347,8 +347,8 @@ _highest court(s)_: Supreme Court of Cassation or Corte Suprema di Cassazione (c
 _judge selection and term of office_: Supreme Court judges appointed by the High Council of the Judiciary, headed by the president of the republic; judges may serve for life; Constitutional Court judges - 5 appointed by the president, 5 elected by Parliament, 5 elected by select higher courts; judges serve up to 9 years<br>
 _subordinate courts_: various lower civil and criminal courts (primary and secondary tribunals and courts of appeal)<br>
 
-**Political parties and leaders**<br>
-<p>Action-Italia Viva [Carlo CALENDA and Matteo RENZI]<br>Associative Movement of Italians Abroad or MAIE [Ricardo Antonio MERIO]<br>Brothers of Italy or FdI [Giorgia MELONI]<br>Democratic Party or PD [Elly SCHLEIN]<br>Five Star Movement or M5S [Giuseppe CONTE]<br>Forza Italia or FI [Antonio TAJANI]<br>Free and Equal (Liberi e Uguali) or LeU [Pietro GRASSO]<br>Greens and Left Alliance or AVS [Angelo BONELLI]<br>Italexit [Gianluigi PARAGONE]]<br>League or Lega [Matteo SALVINI]<br>More Europe or +EU [Emma BONINO]<br>Popular Union or PU [Luigi DE MAGISTRIS]<br>South calls North or ScN [Cateno DE LUCA] <br>South Tyrolean Peoples Party or SVP [Philipp ACHAMMER]<br>other minor parties</p><br>
+**Political parties**<br>
+<p>Action-Italia Viva <br>Associative Movement of Italians Abroad or MAIE <br>Brothers of Italy or FdI <br>Democratic Party or PD <br>Five Star Movement or M5S <br>Forza Italia or FI <br>Free and Equal (Liberi e Uguali) or LeU <br>Greens and Left Alliance or AVS <br>Italexit <br>League or Lega <br>More Europe or +EU <br>Popular Union or PU <br>South calls North or ScN <br>South Tyrolean Peoples Party or SVP <br>other minor parties</p><br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CDB, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNMOGIP, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -461,9 +461,10 @@ tourism, machinery, iron and steel, chemicals, food processing, textiles, motor 
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.9% (2021 est.)<br>
-_male_: 29.1%<br>
-_female_: 33.8%<br>
+_total_: 22.7% (2023 est.)<br>
+_male_: 21.2% (2023 est.)<br>
+_female_: 25.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 20.1% (2021 est.)<br>

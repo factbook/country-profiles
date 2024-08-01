@@ -355,8 +355,8 @@ _highest court(s)_: High Court of Cassation and Justice (consists of 111 judges 
 _judge selection and term of office_: High Court of Cassation and Justice judges appointed by the president upon nomination by the Superior Council of Magistracy, a 19-member body of judges, prosecutors, and law specialists; judges appointed for 6-year renewable terms; Constitutional Court members - 6 elected by Parliament and 3 appointed by the president; members serve 9-year, nonrenewable terms<br>
 _subordinate courts_: Courts of Appeal; regional tribunals; first instance courts; military and arbitration courts<br>
 
-**Political parties and leaders**<br>
-2020 USR-PLUS Alliance [Dan BARNA and Dacian CIOLOS] (dissolved 16 April 2021)<br>Alliance for the Fatherland or APP [Codrin STEFANESCU]<br>Alliance for the Unity of Romanians or AUR [George SIMION]<br>Christian-Democratic National Peasants' Party or PNT-CD [Aurelian PAVELESCU]<br>Civic Hungarian Party [Zsolt BIRO]<br>Democratic Union of Hungarians in Romania or UDMR [Hunor KELEMEN]<br>Ecologist Party of Romania or PER [Danut POP]<br>Force of the Right or FD [Ludovic ORBAN]<br>Greater Romania Party or PRM [Victor IOVICI]<br>Green Party [Marius LAZAR and Lavinia COSMA]<br>National Liberal Party or PNL [Nicolae CIUCA]<br>Party of Liberty, Unity, and Solidarity or PLUS [Dacian CIOLOS] (dissolved 16 April 2021)<br>Popular Movement Party or PMP [Eugen TOMAC]<br>PRO Romania or PRO [Victor PONTA]<br>Romanian Nationhood Party or PNR [Ninel PEIA]<br>Save Romania Union Party or USR [Catalin DRULA]<br>Social Democratic Party or PSD [Marcel CIOLACU]<br>Social Liberal Humanist Party or PUSL [Daniel IONASCU] (formerly Humanist Power Party (Social-Liberal) or PPU-SL)<br>S.O.S. Romania [Diana IOVANOVICI-SOSOACA]<br>The Right Alternative or AD [Adela MIRZA]<br>United Romania Party or PRU [Robert BUGA]<br>We are Renewing the European Project in Romania or REPER [Dacian CIOLOS; Ramona STRUGARIU; Dragos PISLARU]<br>
+**Political parties**<br>
+Alliance for the Fatherland or APP <br>Alliance for the Unity of Romanians or AUR<br>Christian-Democratic National Peasants' Party or PNT-CD <br>Civic Hungarian Party<br>Democratic Union of Hungarians in Romania or UDMR <br>Ecologist Party of Romania or PER <br>Force of the Right or FD <br>Greater Romania Party or PRM <br>Green Party<br>National Liberal Party or PNL<br>Popular Movement Party or PMP <br>PRO Romania or PRO<br>Romanian Nationhood Party or PNR <br>Save Romania Union Party or USR <br>Social Democratic Party or PSD <br>Social Liberal Humanist Party or PUSL (formerly Humanist Power Party (Social-Liberal) or PPU-SL)<br>S.O.S. Romania <br>The Right Alternative or AD <br>United Romania Party or PRU <br>We are Renewing the European Project in Romania or REPER <br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CEI, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNOOSA,UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -467,9 +467,10 @@ electric machinery and equipment, auto assembly, textiles and footwear, light ma
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.6% (2021 est.)<br>
-_male_: 20.9%<br>
-_female_: 20.1%<br>
+_total_: 21.3% (2023 est.)<br>
+_male_: 21.2% (2023 est.)<br>
+_female_: 21.4% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 21.2% (2021 est.)<br>

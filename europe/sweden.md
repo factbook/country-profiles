@@ -350,8 +350,8 @@ _highest court(s)_: Supreme Court of Sweden (consists of 16 justices, including 
 _judge selection and term of office_: Supreme Court and Supreme Administrative Court justices nominated by the Judges Proposal Board, a 9-member nominating body consisting of high-level judges, prosecutors, and members of Parliament; justices appointed by the Government; following a probationary period, justices' appointments are permanent<br>
 _subordinate courts_: first instance, appellate, general, and administrative courts; specialized courts that handle cases such as land and environment, immigration, labor, markets, and patents<br>
 
-**Political parties and leaders**<br>
-Center Party (Centerpartiet) or C [Muharrem DEMIROK]<br>Christian Democrats (Kristdemokraterna) or KD [Ebba BUSCH]<br>Green Party (Miljopartiet de Grona) or MP [Amanda LIND and Daniel HELLDEN]<br>Left Party (Vansterpartiet) or V [Nooshi DADGOSTAR]<br>Moderate Party (Moderaterna) or M [Ulf KRISTERSSON]<br>Sweden Democrats (Sverigedemokraterna) or SD [Jimmie AKESSON]<br>Swedish Social Democratic Party (Socialdemokraterna) or S/SAP [Magdalena ANDERSSON]<br>The Liberals (Liberalerna) or L [Johan PEHRSON]<br>
+**Political parties**<br>
+Center Party (Centerpartiet) or C <br>Christian Democrats (Kristdemokraterna) or KD <br>Green Party (Miljopartiet de Grona) or MP <br>Left Party (Vansterpartiet) or V <br>Moderate Party (Moderaterna) or M <br>Sweden Democrats (Sverigedemokraterna) or SD <br>Swedish Social Democratic Party (Socialdemokraterna) or S/SAP <br>The Liberals (Liberalerna) or L <br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNMOGIP, UNOOSA, UNRWA, UN Security Council (temporary), UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -461,9 +461,10 @@ iron and steel, precision equipment (bearings, radio and telephone parts, armame
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.5% (2021 est.)<br>
-_male_: 26.1%<br>
-_female_: 23%<br>
+_total_: 21.6% (2023 est.)<br>
+_male_: 21.9% (2023 est.)<br>
+_female_: 21.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 16.1% (2022 est.)<br>

@@ -352,8 +352,8 @@ _highest court(s)_: Supreme Court (consists of the chairman and deputy chairman 
 _judge selection and term of office_: Supreme Court judges appointed by the president with the consent of the Council of the Republic; judges initially appointed for 5 years and evaluated for life appointment; Constitutional Court judges - 6 appointed by the president and 6 elected by the Council of the Republic; the presiding judge directly elected by the president and approved by the Council of the Republic; judges can serve for 11 years with an age limit of 70<br>
 _subordinate courts_: oblast courts; Minsk City Court; town courts; Minsk city and oblast economic courts<br>
 
-**Political parties and leaders**<br>
-<strong>pro-government parties:</strong><br>Belarusian Agrarian Party or BAP [Mikhail RUSY]<br>Belarusian Patriotic Party or BPP [Mikalay ULAKHOVICH]<br>Belarusian Social Sport Party or BSSP [Uladzimir ALEKSANDROVICH]<br>Belaya Rus [Henadz DAVYDKA]<br>Communist Party of Belarus or KPB [Alyaksey SOKOL]<br>Liberal Democratic Party or LDP [Aleh GAYDUKEVICH]<br>Republican Party [Uladzimir BELAZOR]<br>Republican Party of Labor and Justice [Alyaksandr STSYAPANAW]<br>Social Democratic Party of Popular Accord [Syarhey YERMAK]<br><strong>opposition parties:</strong> <br>Belarusian Christian Democracy Party [Paval SEVYARYNETS, Volha KAVALKOVA, Vital RYMASHEWSKI] (unregistered)<br>Belarusian Party of the Green [Dzimtry KUCHUK]<br>Belarusian Party of the Left "Just World" [Syarhey KALYAKIN]<br>Belarusian Social-Democratic Assembly or BSDH [Syarhey CHERACHEN]<br>Belarusian Social Democratic Party ("Assembly") or BSDPH [Ihar BARYSAW]<br>Belarusian Social Democratic Party (People's Assembly) or BSDP [Mikalay STATKEVICH] (unregistered)<br>BPF Party [Ryhor KASTUSYOW]<br>Christian Conservative Party-BPF [Zyanon PAZNYAK]<br>United Civic Party or UCP [Mikalay KAZLOW]<br>
+**Political parties**<br>
+Belaya Rus or BR<br>Republican Party of Labour and Justice or RPTS<br>Communist Party of Belarus or CBP<br>Liberal Democratic Party of Belarus or LDPB<br>
 
 **International organization participation**<br>
 BSEC (observer), CBSS (observer), CEI, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFC, IFRCS, ILO, IMF, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OPCW, OSCE, PCA, PFP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer), ZC<br>
@@ -462,9 +462,10 @@ metal-cutting machine tools, tractors, trucks, earthmovers, motorcycles, synthet
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.3% (2021 est.)<br>
-_male_: 14%<br>
-_female_: 8.4%<br>
+_total_: 10.2% (2023 est.)<br>
+_male_: 10.7% (2023 est.)<br>
+_female_: 9.8% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 4.8% (2020 est.)<br>

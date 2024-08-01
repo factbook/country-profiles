@@ -354,8 +354,8 @@ _highest court(s)_: Federal Supreme Court (consists of 38 justices and 19 deputy
 _judge selection and term of office_: judges elected by the Federal Assembly for 6-year terms; note - judges are affiliated with political parties and are elected according to linguistic and regional criteria in approximate proportion to the level of party representation in the Federal Assembly<br>
 _subordinate courts_: Federal Criminal Court (established in 2004); Federal Administrative Court (established in 2007); note - each of Switzerland's 26 cantons has its own courts<br>
 
-**Political parties and leaders**<br>
-The Center (Die Mitte, Alleanza del Centro, Le Centre, Allianza dal Center) [Gerhard PFISTER] (merger of the Christian Democratic People's Party and the Conservative Democratic Party)<br>Evangelical Peoples' Party or EVP/PEV [Lilian STUDER]<br>Federal Democrats or EDU [Daniel FRISCHKNECH]<br>Geneva Citizens Movement or MCR/MCG [Ana ROCH]<br>Green Liberal Party (Gruenliberale Partei or GLP, Parti vert liberale or PVL, Partito Verde-Liberale or PVL, Partida Verde Liberale or PVL) [Jurg GROSSEN]<br>Green Party (Gruene Partei der Schweiz or Gruene, Parti Ecologiste Suisse or Les Verts, Partito Ecologista Svizzero or I Verdi, Partida Ecologica Svizra or La Verda) [Balthasar GLATTLI]<br>The Liberals or FDP.The Liberals (FDP.Die Liberalen, PLR.Les Liberaux-Radicaux, PLR.I Liberali, Ils Liberals) [Thierry BURKART]<br>Social Democratic Party (Sozialdemokratische Partei der Schweiz or SP, Parti Socialiste Suisse or PSS, Partito Socialista Svizzero or PSS, Partida Socialdemocratica de la Svizra or PSS) [Cedric WERMUTH and Mattea MEYER]<br>Swiss People's Party (Schweizerische Volkspartei or SVP, Union Democratique du Centre or UDC, Unione Democratica di Centro or UDC, Uniun Democratica dal Center or UDC) [Marcel DETTLING]<br>
+**Political parties**<br>
+The Center (Die Mitte, Alleanza del Centro, Le Centre, Allianza dal Center) (merger of the Christian Democratic People's Party and the Conservative Democratic Party)<br>Evangelical Peoples' Party or EVP/PEV <br>Federal Democrats or EDU <br>Geneva Citizens Movement or MCR/MCG <br>Green Liberal Party (Gruenliberale Partei or GLP, Parti vert liberale or PVL, Partito Verde-Liberale or PVL, Partida Verde Liberale or PVL) <br>Green Party (Gruene Partei der Schweiz or Gruene, Parti Ecologiste Suisse or Les Verts, Partito Ecologista Svizzero or I Verdi, Partida Ecologica Svizra or La Verda)<br>The Liberals or FDP.The Liberals (FDP.Die Liberalen, PLR.Les Liberaux-Radicaux, PLR.I Liberali, Ils Liberals)<br>Social Democratic Party (Sozialdemokratische Partei der Schweiz or SP, Parti Socialiste Suisse or PSS, Partito Socialista Svizzero or PSS, Partida Socialdemocratica de la Svizra or PSS) <br>Swiss People's Party (Schweizerische Volkspartei or SVP, Union Democratique du Centre or UDC, Unione Democratica di Centro or UDC, Uniun Democratica dal Center or UDC) <br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNMOGIP, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -467,9 +467,10 @@ machinery, chemicals, watches, textiles, precision instruments, tourism, banking
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.1% (2021 est.)<br>
-_male_: 9.4%<br>
-_female_: 8.8%<br>
+_total_: 8% (2023 est.)<br>
+_male_: 8.3% (2023 est.)<br>
+_female_: 7.7% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 14.7% (2020 est.)<br>

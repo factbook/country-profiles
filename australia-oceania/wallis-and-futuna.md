@@ -264,8 +264,8 @@ _highest court(s)_: Court of Assizes or Cour d'Assizes (consists of 1 judge; cou
 _judge selection and term of office_: NA<br>
 _subordinate courts_: courts of first instance; labor court; note - justice generally administered under French law by the high administrator, but the 3 traditional kings administer customary law, and there is a magistrate in Mata-Utu<br>
 
-**Political parties and leaders**<br>
-Left Radical Party or PRG [Guillaume LACROIX] (formerly Radical Socialist Party or PRS and the Left Radical Movement or MRG)<br>Lua Kae Tahi (Giscardians)<br>Rally for Wallis and Futuna-The Republicans (Rassemblement pour Wallis and Futuna) or RPWF-LR [Clovis LOGOLOGOFOLAU]<br>Socialist Party or PS<br>Taumu'a Lelei [Soane Muni UHILA]<br>Union Pour la Democratie Francaise or UDF<br>
+**Political parties**<br>
+Left Radical Party or PRG (formerly Radical Socialist Party or PRS and the Left Radical Movement or MRG)<br>Lua Kae Tahi (Giscardians)<br>Rally for Wallis and Futuna-The Republicans (Rassemblement pour Wallis and Futuna) or RPWF-LR <br>Socialist Party or PS<br>Taumu'a Lelei <br>Union Pour la Democratie Francaise or UDF<br>
 
 **International organization participation**<br>
 PIF (observer), SPC, UPU<br>

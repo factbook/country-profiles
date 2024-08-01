@@ -369,8 +369,8 @@ _highest court(s)_: Supreme Court (consists of the chief justice and 15 justices
 _judge selection and term of office_: judges appointed by the president upon the recommendation of the National Judicial Council, a 23-member independent body of federal and state judicial officials; judge appointments confirmed by the Senate; judges serve until age 70<br>
 _subordinate courts_: Court of Appeal; Federal High Court; High Court of the Federal Capital Territory; Sharia Court of Appeal of the Federal Capital Territory; Customary Court of Appeal of the Federal Capital Territory; state court system similar in structure to federal system<br>
 
-**Political parties and leaders**<br>
-Accord Party or ACC [Christopher IMUMOLEN]<br>Africa Democratic Congress or ADC [Dumebi KACHIKWU] <br>All Progressives Congress or APC [Bola Ahmed TINUBU]<br>All Progressives Grand Alliance or APGA [Peter UMEADI]<br>Labor Party or LP [Peter OBI] <br>New Nigeria People’s Party or NNPP [Rabiu KWANKWASO]<br>Peoples Democratic Party or PDP [Atiku ABUBAKAR]<br>Young Progressive Party or YPP [Prince Malik ADO-IBRAHIM]<br>
+**Political parties**<br>
+Accord Party or ACC <br>Africa Democratic Congress or ADC  <br>All Progressives Congress or APC <br>All Progressives Grand Alliance or APGA <br>Labor Party or LP <br>New Nigeria People’s Party or NNPP <br>Peoples Democratic Party or PDP <br>Young Progressive Party or YPP <br>
 
 **International organization participation**<br>
 ACP, AfDB, ATMIS, AU, C, CD, D-8, ECOWAS, EITI (compliant country), FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINURSO, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -481,9 +481,10 @@ crude oil, coal, tin, columbite; rubber products, wood; hides and skins, textile
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.6% (2021 est.)<br>
-_male_: 19.8%<br>
-_female_: 19.4%<br>
+_total_: 5.8% (2023 est.)<br>
+_male_: 4.8% (2023 est.)<br>
+_female_: 7.1% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 40.1% (2018 est.)<br>

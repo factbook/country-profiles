@@ -332,8 +332,8 @@ _highest court(s)_: Court of Appeal (consists of president of the court and a mi
 _judge selection and term of office_: chief justice of the Supreme Court and president of the Court of Appeal appointed by the governor-general on the advice of the prime minister; other judges of both courts appointed by the governor-general on the advice of the Judicial Service Commission; judges of both courts serve till age 70<br>
 _subordinate courts_: resident magistrate courts, district courts, and petty sessions courts<br>
 
-**Political parties and leaders**<br>
-<p>Jamaica Labor Party or JLP [Andrew Michael HOLNESS]<br>Jamaica Progressive Party or JPP [Gilbert Alexander EDWARDS]<br>People's National Party or PNP [Mark GOLDING]<br>United Independents' Congress or UIC [Joseph L. PATTERSON]</p><br>
+**Political parties**<br>
+<p>Jamaica Labor Party or JLP<br>Jamaica Progressive Party or JPP<br>People's National Party or PNP<br>United Independents' Congress or UIC</p><br>
 
 **International organization participation**<br>
 ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -443,9 +443,10 @@ agriculture, mining, manufacture, construction, financial and insurance services
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.1% (2021 est.)<br>
-_male_: 22.1%<br>
-_female_: 31.4%<br>
+_total_: 13.8% (2023 est.)<br>
+_male_: 13.1% (2023 est.)<br>
+_female_: 14.9% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 17.1% (2016 est.)<br>

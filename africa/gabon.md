@@ -344,8 +344,8 @@ _highest court(s)_: Supreme Court (consists of 4 permanent specialized supreme c
 _judge selection and term of office_: appointment and tenure of Supreme, Administrative, Accounting, and State Security courts NA; Constitutional Court judges appointed - 3 by the national president, 3 by the president of the Senate, and 3 by the president of the National Assembly; judges serve single renewable 7-year terms<br>
 _subordinate courts_: Courts of Appeal; county courts; military courts<br>
 
-**Political parties and leaders**<br>
-Gabonese Democratic Party or PDG [Ali BONGO Ondimba]<br>Restoration of Republican Values or RV<br>The Democrats or LD [Guy NZOUBA-NDAMA]<br>
+**Political parties**<br>
+Gabonese Democratic Party or PDG <br>Restoration of Republican Values or RV<br>The Democrats or LD <br>
 Paul Mba Abessole<br>
 
 **International organization participation**<br>
@@ -456,9 +456,10 @@ petroleum extraction and refining; manganese, gold; chemicals, ship repair, food
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38.4% (2021 est.)<br>
-_male_: 33.7%<br>
-_female_: 44.4%<br>
+_total_: 36.5% (2023 est.)<br>
+_male_: 31.7% (2023 est.)<br>
+_female_: 42.9% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 33.4% (2017 est.)<br>

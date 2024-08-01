@@ -335,7 +335,7 @@ _election results_: percent of vote by party - NA; seats by party - NA; note - o
 **Judicial branch**<br>
 _highest court(s)_: Libya's judicial system consists of a supreme court, central high courts (in Tripoli, Benghazi, and Sabha), and a series of lower courts; the judicial system is factious given the ongoing tension between Libya's eastern and western regions; since 2011, Libyan political factions and armed groups have targeted judges and courthouses<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 NA<br><br>
 
 **International organization participation**<br>
@@ -439,9 +439,10 @@ petroleum, petrochemicals, aluminum, iron and steel, food processing, textiles, 
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 50.5% (2021 est.)<br>
-_male_: 41.4%<br>
-_female_: 73.8%<br>
+_total_: 49.4% (2023 est.)<br>
+_male_: 41.2% (2023 est.)<br>
+_female_: 68% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 <p><strong>note:</strong> about one third of Libyans live at or below the national poverty line</p><br>

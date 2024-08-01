@@ -349,8 +349,8 @@ _highest court(s)_: Supreme Court of Cassation (consists of a chairman and appro
 _judge selection and term of office_: Supreme Court of Cassation and Supreme Administrative judges elected by the Supreme Judicial Council or SJC (consists of 25 members with extensive legal experience) and appointed by the president; judges can serve until mandatory retirement at age 65; Constitutional Court justices elected by the National Assembly and appointed by the president and the SJC; justices appointed for 9-year terms with renewal of 4 justices every 3 years<br>
 _subordinate courts_: appeals courts; regional and district courts; administrative courts; courts martial<br>
 
-**Political parties and leaders**<br>
-BSP for Bulgaria [Korneliya NINOVA] (electoral alliance of BSP, PKT, Ecoglasnost)<br>Bulgarian Rise or BV [Stefan YANEV]<br>Bulgarian Socialist Party or BSP [Korneliya NINOVA]<br>Citizens for the European Development of Bulgaria or GERB [Boyko BORISOV] (alliance with SDS) <br>Democratic Bulgaria or DB (electoral alliance of Yes! Bulgaria, DSB, and The Greens) [Atanas ATANASOV, Hristo IVANOV]<br>Democrats for a Strong Bulgaria or DSB [Atanas ATANASOV]<br>Ecoglasnost [Emil GEORGIEV]<br>Green Movement or The Greens [Dobromira KOSTOVA, Vladislav PENEV]<br>Movement for Rights and Freedoms or DPS [Mustafa KARADAYI]<br>Political Club Thrace or PKT [Stefan NACHEZ]<br>Revival [Kostadin KOSTADINOV]<br>Stand Up.BG or IS.BG [Maya MANOLOVA]<br>There is Such a People or ITN [Slavi TRIFONOV]<br>Union of Democratic Forces or SDS [Rumen HRISTOV] (alliance with GERB) <br>Yes! Bulgaria [Hristo IVANOV]<br>We Continue the Change or PP [Kiril PETKOV and Asen VASILEV]<br>We Continue the Change and Democratic Bulgaria or PP-DB [Kiril PETKOV, Asen VASILEV, Hristo IVANOV, and Atanas ATANASOV] (electoral alliance of PP, DB, Yes! Bulgaria)<br>
+**Political parties**<br>
+BSP for Bulgaria (electoral alliance of BSP, PKT, Ecoglasnost)<br>Bulgarian Rise or BV<br>Bulgarian Socialist Party or BSP<br>Citizens for the European Development of Bulgaria or GERB (alliance with SDS) <br>Democratic Bulgaria or DB (electoral alliance of Yes! Bulgaria, DSB, and The Greens) <br>Democrats for a Strong Bulgaria or DSB<br>Ecoglasnost<br>Green Movement or The Greens <br>Movement for Rights and Freedoms or DPS<br>Political Club Thrace or PKT<br>Revival<br>Stand Up.BG or IS.BG<br>There is Such a People or ITN<br>Union of Democratic Forces or SDS (alliance with GERB) <br>Yes! Bulgaria <br>We Continue the Change or PP <br>We Continue the Change and Democratic Bulgaria or PP-DB (electoral alliance of PP, DB, Yes! Bulgaria)<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G- 9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMIL, UNOOSA,&nbsp; UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -461,9 +461,10 @@ electricity, gas, water; food, beverages, tobacco; machinery and equipment, auto
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.2% (2021 est.)<br>
-_male_: 14.3%<br>
-_female_: 14%<br>
+_total_: 12% (2023 est.)<br>
+_male_: 11.8% (2023 est.)<br>
+_female_: 12.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 20.6% (2022 est.)<br>

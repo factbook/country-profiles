@@ -346,8 +346,8 @@ _highest court(s)_: Supreme Court or Corte Suprema de Justicia (consists of 15 j
 _judge selection and term of office_: judges elected by the Legislative Assembly on the recommendation of both the National Council of the Judicature, an independent body elected by the Legislative Assembly, and the Bar Association; judges elected for 9-year terms, with renewal of one-third of membership every 3 years; consecutive reelection is allowed<br>
 _subordinate courts_: Appellate Courts; Courts of First Instance; Courts of Peace<br>
 
-**Political parties and leaders**<br>
-Christian Democratic Party or PDC [Reynaldo CARBALLO]<br>Farabundo Marti National Liberation Front or FMLN [Oscar ORTIZ]<br>Great Alliance for National Unity or GANA [Nelson GUARDADO]<br>National Coalition Party or PCN [Manuel RODRIGUEZ]<br>Nationalist Republican Alliance or ARENA [Erick SALGUERO]<br>New Ideas (Nuevas Ideas) or NI [Xavier Zablah BUKELE]<br>Our Time (Nuestro Tiempo) or NT [Juan VALIENTE]<br>Vamos or V [Josue ALVARADO Flores]<br>
+**Political parties**<br>
+Christian Democratic Party or PDC<br>Farabundo Marti National Liberation Front or FMLN<br>Great Alliance for National Unity or GANA<br>National Coalition Party or PCN<br>Nationalist Republican Alliance or ARENA<br>New Ideas (Nuevas Ideas) or NI<br>Our Time (Nuestro Tiempo) or NT<br>Vamos or V<br>
 
 **International organization participation**<br>
 ACS, BCIE, CACM, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINURSO, MINUSTAH, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, Union Latina, UNISFA, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -458,9 +458,10 @@ food processing, beverages, petroleum, chemicals, fertilizer, textiles, furnitur
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.7% (2021 est.)<br>
-_male_: 11.3%<br>
-_female_: 18.3%<br>
+_total_: 7.2% (2023 est.)<br>
+_male_: 5.3% (2023 est.)<br>
+_female_: 10.8% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 26.6% (2022 est.)<br>

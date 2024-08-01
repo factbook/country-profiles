@@ -344,8 +344,8 @@ _highest court(s)_: Supreme Court of Justice (consists of the chief judge, 3 dep
 _judge selection and term of office_: Supreme Court of Justice judges appointed by the president upon the recommendation of the Superior Council of Magistracy, an 11-member body of judicial officials; all judges serve 4-year renewable terms; Constitutional Court judges appointed 2 each by Parliament, the president, and the Higher Council of Magistracy for 6-year terms; court president elected by other court judges for a 3-year term<br>
 _subordinate courts_: Courts of Appeal; Court of Business Audit; municipal courts<br>
 
-**Political parties and leaders**<br>
-<p>Bloc of Communists and Socialists or BECS (coalition includes PCRM and PSRM)<br>Communist Party or PCRM [Vladimir VORONIN]<br>Party of Action and Solidarity or PAS [Igor GROSU]<br>Socialist Party or PSRM [Igor DODON]<br>SOR Party [llan SHOR]</p><br>
+**Political parties**<br>
+<p>Bloc of Communists and Socialists or BCS<br>Party of Action and Solidarity or PAS</p><br>
 
 **International organization participation**<br>
 BSEC, CD, CE, CEI, CIS, EAEU (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, OIF, OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -454,9 +454,10 @@ sugar processing, vegetable oil, food processing, agricultural machinery; foundr
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.6% (2021 est.)<br>
-_male_: 5.3%<br>
-_female_: 14.7%<br>
+_total_: 4.2% (2023 est.)<br>
+_male_: 5% (2023 est.)<br>
+_female_: 3.4% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 31.1% (2022 est.)<br>

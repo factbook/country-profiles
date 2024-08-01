@@ -353,8 +353,8 @@ _highest court(s)_: Supreme Court or Tribunal Supremo (consists of the court pre
 _judge selection and term of office_: Supreme Court judges appointed by the president upon recommendation of the Supreme Judicial Council, an 18-member body chaired by the president; judge tenure NA; Constitutional Court judges - 4 nominated by the president, 4 elected by National Assembly, 2 elected by Supreme National Council, 1 elected by competitive submission of curricula; judges serve single 7-year terms<br>
 _subordinate courts_: provincial and municipal courts<br>
 
-**Political parties and leaders**<br>
-Broad Convergence for the Salvation of Angola Electoral Coalition or CASA-CE [Manuel FERNANDES]<br>Humanist Party of Angola or PHI [Florbela MALAQUIAS]<br>National Front for the Liberation of Angola or FNLA; note - party has two factions; one led by Lucas NGONDA; the other by Ngola KABANGU<br>National Union for the Total Independence of Angola or UNITA [Adalberto Costa JUNIOR] (largest opposition party)<br>Popular Movement for the Liberation of Angola or MPLA [Joao LOURENCO]; note- ruling party in power since 1975<br>Social Renewal Party or PRS [Benedito DANIEL]<br>
+**Political parties**<br>
+Broad Convergence for the Salvation of Angola Electoral Coalition or CASA-CE <br>Humanist Party of Angola or PHI <br>National Front for the Liberation of Angola or FNLA; note - party has two factions<br>National Union for the Total Independence of Angola or UNITA (largest opposition party)<br>Popular Movement for the Liberation of Angola or MPLA; note- ruling party in power since 1975<br>Social Renewal Party or PRS <br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, CEMAC, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -464,9 +464,10 @@ petroleum; diamonds, iron ore, phosphates, feldspar, bauxite, uranium, and gold;
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.5% (2021 est.)<br>
-_male_: 18.2%<br>
-_female_: 18.8%<br>
+_total_: 28.2% (2023 est.)<br>
+_male_: 30.7% (2023 est.)<br>
+_female_: 25.8% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 32.3% (2018 est.)<br>

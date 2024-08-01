@@ -342,8 +342,8 @@ _highest court(s)_: Supreme Court (consists of a chief justice and 4 associate j
 _judge selection and term of office_: chief justice and associate justices appointed by the president of Liberia with consent of the Senate; judges can serve until age 70<br>
 _subordinate courts_: judicial circuit courts; special courts, including criminal, civil, labor, traffic; magistrate and traditional or customary courts<br>
 
-**Political parties and leaders**<br>
-All Liberian Party or ALP [Benoni UREY]<br>Alliance for Peace and Democracy or APD (vacant)<br>Alternative National Congress or ANC [Alexander B. CUMMINGS, JR]<br>Coalition for Democratic Change [George WEAH] (includes CDC, NPP, and LPDP)<br>Collaborating Political Parties or CPP [collective leadership] (coalition includes ANC, LP; CPP dissolved in April 2024)<br>Congress for Democratic Change or CDC [George WEAH]<br>Liberia Destiny Party or LDP [Nathaniel BARNES]<br>Liberia National Union or LINU [Dr. Clarence K. MONIBA]<br>Liberia Transformation Party or LTP [Kennedy SANDY]<br>Liberian People Democratic Party or LPDP [Alex J. TYLER]<br>Liberian People's Party or LPP [Henry FAHNBULLEH, JR] <br>Liberian Restoration Party or LRP [Gabriel SALEE]<br>Liberty Party or LP [Charles BRUMSKINE]<br>Movement for Democracy and Reconstruction or MDR [Prince Y. JOHNSON]<br>Movement for Economic Empowerment [Joseph JONES]<br>Movement for Progressive Change or MPC [Simeon FREEMAN]<br>National Democratic Coalition or NDC [Dew MAYSON]<br>National Democratic Party of Liberia or NDPL [D. Nyandeh SIEH]<br>National Patriotic Party or NPP [Jewel HOWARD TAYLOR]<br>National Reformist Party or NRP [Maximillian T. W. DIABE]<br>National Union for Democratic Progress or NUDP [Victor BARNEY]<br>People's Unification Party or PUP [Isobe GBORKORKOLLIE]<br>Unity Party or UP [Josephe BOAKAI]<br>United People's Party [MacDonald WENTO]<br>Victory for Change Party or VCP [Marcus R. JONES]<br>
+**Political parties**<br>
+All Liberian Party or ALP <br>Alliance for Peace and Democracy or APD <br>Alternative National Congress or ANC <br>Coalition for Democratic Change (includes CDC, NPP, and LPDP)<br>Collaborating Political Parties or CPP (coalition includes ANC, LP; CPP dissolved in April 2024)<br>Congress for Democratic Change or CDC <br>Liberia Destiny Party or LDP <br>Liberia National Union or LINU <br>Liberia Transformation Party or LTP <br>Liberian People Democratic Party or LPDP <br>Liberian People's Party or LPP <br>Liberian Restoration Party or LRP <br>Liberty Party or LP <br>Movement for Democracy and Reconstruction or MDR <br>Movement for Economic Empowerment <br>Movement for Progressive Change or MPC <br>National Democratic Coalition or NDC <br>National Democratic Party of Liberia or NDPL <br>National Patriotic Party or NPP <br>National Reformist Party or NRP <br>National Union for Democratic Progress or NUDP <br>People's Unification Party or PUP <br>Unity Party or UP <br>United People's Party <br>Victory for Change Party or VCP <br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -444,9 +444,10 @@ mining (iron ore and gold), rubber processing, palm oil processing, diamonds<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.2% (2021 est.)<br>
-_male_: 3.2%<br>
-_female_: 3.2%<br>
+_total_: 2.3% (2023 est.)<br>
+_male_: 2.4% (2023 est.)<br>
+_female_: 2.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 50.9% (2016 est.)<br>

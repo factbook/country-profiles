@@ -313,8 +313,8 @@ _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior c
 _judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by the His Majesty, King CHARLES III; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: Industrial Court; Magistrates' Courts<br>
 
-**Political parties and leaders**<br>
-Antigua Labor Party or ABLP [Gaston BROWNE]<br>Barbuda People's Movement or BPM [Trevor WALKER]<br>Democratic National Alliance or DNA [Joanne MASSIAH]<br>Go Green for Life or GGL [Owen GEORGE]<br>United Progressive Party or UPP [Harold LOVELL]<br>
+**Political parties**<br>
+Antigua Labor Party or ABLP<br>Barbuda People's Movement or BPM<br>Democratic National Alliance or DNA<br>Go Green for Life or GGL<br>United Progressive Party or UPP<br>
 
 **International organization participation**<br>
 ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (subscriber), ITU, ITUC (NGOs), MIGA, NAM (observer), OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UPU, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

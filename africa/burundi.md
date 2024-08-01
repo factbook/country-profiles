@@ -37,7 +37,7 @@ _border countries_: Democratic Republic of the Congo 236 km; Rwanda 315 km; Tanz
 none (landlocked)<br>
 
 **Climate**<br>
-equatorial; high plateau with considerable altitude variation (772 m to 2,670 m above sea level); average annual temperature varies with altitude from 23 to 17 degrees Celsius but is generally moderate as the average altitude is about 1,700 m; average annual rainfall is about 150 cm; two wet seasons (February to May and September to November), and two dry seasons (June to August and December to January)<br>
+equatorial; high plateau with considerable altitude variation (772 m to 2,670 m above sea level); average annual temperature varies with altitude from 23 to 17 degrees Celsius but is generally moderate; average annual rainfall is about 150 cm with two wet seasons (February to May and September to November) and two dry seasons (June to August and December to January)<br>
 
 **Terrain**<br>
 hilly and mountainous, dropping to a plateau in east, some plains<br>
@@ -255,7 +255,7 @@ _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate
 _signed, but not ratified_: Law of the Sea, Nuclear Test Ban<br>
 
 **Climate**<br>
-equatorial; high plateau with considerable altitude variation (772 m to 2,670 m above sea level); average annual temperature varies with altitude from 23 to 17 degrees Celsius but is generally moderate as the average altitude is about 1,700 m; average annual rainfall is about 150 cm; two wet seasons (February to May and September to November), and two dry seasons (June to August and December to January)<br>
+equatorial; high plateau with considerable altitude variation (772 m to 2,670 m above sea level); average annual temperature varies with altitude from 23 to 17 degrees Celsius but is generally moderate; average annual rainfall is about 150 cm with two wet seasons (February to May and September to November) and two dry seasons (June to August and December to January)<br>
 
 **Land use**<br>
 _agricultural land_: 73.3% (2018 est.)<br>
@@ -314,10 +314,11 @@ _etymology_: name derived from the pre-colonial Kingdom of Burundi (17th-19th ce
 presidential republic<br>
 
 **Capital**<br>
-_name_: Gitega (political capital), Bujumbura (commercial capital); note - in January 2019, the Burundian parliament voted to make Gitega the political capital of the country while Bujumbura would remain its economic capital; as of 2023, the government's move to Gitega remains incomplete<br>
+_name_: Gitega (political capital), Bujumbura (commercial capital)<br>
 _geographic coordinates_: 3 25 S, 29 55 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _etymology_: the naming origins for both Gitega and Bujumbura are obscure; Bujumbura's name prior to independence in 1962 was Usumbura<br>
+<strong>note:</strong> in January 2019, the Burundian parliament voted to make Gitega the political capital of the country while Bujumbura would remain its economic capital; as of 2023, the government's move to Gitega remains incomplete<br>
 
 **Administrative divisions**<br>
 18 provinces; Bubanza, Bujumbura Mairie, Bujumbura Rural, Bururi, Cankuzo, Cibitoke, Gitega, Karuzi, Kayanza, Kirundo, Makamba, Muramvya, Muyinga, Mwaro, Ngozi, Rumonge, Rutana, Ruyigi; note- a law was passed in March 2023 reducing the number of provinces to five: Buhumuza, Bujumbura, Burunga, Butanyerera, Gitega, with full implementation by 2025.<br>
@@ -364,8 +365,8 @@ _highest court(s)_: Supreme Court (consists of 9 judges and organized into judic
 _judge selection and term of office_: Supreme Court judges nominated by the Judicial Service Commission, a 15-member body of judicial and legal profession officials), appointed by the president and confirmed by the Senate; judge tenure NA; Constitutional Court judges appointed by the president and confirmed by the Senate and serve 6-year nonrenewable terms<br>
 _subordinate courts_: Courts of Appeal; County Courts; Courts of Residence; Martial Court; Commercial Court<br>
 
-**Political parties and leaders**<br>
-Council for Democracy and the Sustainable Development of Burundi or CODEBU [Keffa NIBIZI]<br>Front for Democracy in Burundi-Sahwanya or FRODEBU-Sahwanya [Patrick NKURUNZIZA]<br>National Council for the Defense of Democracy - Front for the Defense of Democracy or CNDD-FDD [Evariste NDAYISHIMIYE]<br>National Congress for Liberty or CNL [Agathon RWASA]<br>National Liberation Forces or FNL [Jacques BIGIRIMANA]<br>Union for National Progress (Union pour le Progress Nationale) or UPRONA [Olivier NKURUNZIZA] <br><br><br>
+**Political parties**<br>
+Council for Democracy and the Sustainable Development of Burundi or CODEBU <br>Front for Democracy in Burundi-Sahwanya or FRODEBU-Sahwanya <br>National Council for the Defense of Democracy - Front for the Defense of Democracy or CNDD-FDD <br>National Congress for Liberty or CNL <br>National Liberation Forces or FNL <br>Union for National Progress (Union pour le Progress Nationale) or UPRONA <br>
 
 **International organization participation**<br>
 ACP, AfDB, ATMIS, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICGLR, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -463,9 +464,10 @@ light consumer goods (sugar, shoes, soap, beer); cement, assembly of imported co
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.4% (2021 est.)<br>
-_male_: 4.6%<br>
-_female_: 2.5%<br>
+_total_: 1.7% (2023 est.)<br>
+_male_: 2.2% (2023 est.)<br>
+_female_: 1.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 64.9% (2013 est.)<br>

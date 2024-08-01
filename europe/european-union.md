@@ -226,8 +226,8 @@ _highest court(s)_: Court of Justice of the European Union, which includes the C
 _judge selection and term of office_: judges appointed by the common consent of the member states to serve 6-year renewable terms<br>
 <strong>note:</strong> the ECJ is the supreme judicial authority of the EU; it ensures that EU law is interpreted and applied uniformly throughout the EU, resolves disputes among EU institutions and member states, and reviews issues and opinions regarding questions of EU law referred by member state courts<br>
 
-**Political parties and leaders**<br>
-European United Left-Nordic Green Left or GUE/NGL [Manon AUBRY and Martin SCHIRDEWAN]<br>European Conservatives and Reformists or ECR [Nicola PROCACCINI and Ryszard LEGUTKO]<br>European Greens/European Free Alliance or Greens/EFA [Terry REINTKE and Bas EICKHOUT]<br>European People's Party or EPP [Manfred WEBER]<br>Europe of Sovereign Nations or ESN [Rene AUST and Stanislaw TYSZKA]<br>Patriots for Europe or PfE [Jordan BARDELLA]<br>Progressive Alliance of Socialists and Democrats or S&amp;D [Iraxte Garcia-PEREZ]<br>Renew Europe or RE [Valerie HAYER] (formerly Alliance of Liberals and Democrats for Europe or ALDE)<br>
+**Political parties**<br>
+European United Left-Nordic Green Left or GUE/NGL <br>European Conservatives and Reformists or ECR <br>European Greens/European Free Alliance or Greens/EFA <br>European People's Party or EPP <br>Europe of Sovereign Nations or ESN <br>Patriots for Europe or PfE <br>Progressive Alliance of Socialists and Democrats or S&amp;D <br>Renew Europe or RE (formerly Alliance of Liberals and Democrats for Europe or ALDE)<br>
 
 **International organization participation**<br>
 ARF, ASEAN (dialogue member), Australian Group, BIS, BSEC (observer), CBSS, CERN, EBRD, FAO, FATF, G-7, G-10, G-20, IDA, IEA, IGAD (partners), LAIA (observer), NSG (observer), OAS (observer), OECD, PIF (partner), SAARC (observer), SICA (observer), UN (observer), UNRWA (observer), WCO, WTO, ZC (observer)<br>
@@ -328,9 +328,10 @@ among the world's largest and most technologically advanced regions, the EU indu
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.5% (2021 est.)<br>
-_male_: 18.9%<br>
-_female_: 20.4%<br>
+_total_: 16.1% (2023 est.)<br>
+_male_: 16.4% (2023 est.)<br>
+_female_: 16% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 9.8% (2013 est.)<br>

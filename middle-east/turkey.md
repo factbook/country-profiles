@@ -361,8 +361,8 @@ _highest court(s)_: Constitutional Court or Anayasa Mahkemesi (consists of the p
 _judge selection and term of office_: Constitutional Court members - 3 appointed by the Grand National Assembly and 12 by the president of the republic; court president and 2 deputy court presidents appointed from among its members for 4-year terms; judges serve 12-year, nonrenewable terms with mandatory retirement at age 65; Court of Cassation judges appointed by the Board of Judges and Prosecutors, a 13-member body of judicial officials; Court of Cassation judges serve until retirement at age 65; Council of State members appointed by the Board and by the president of the republic; members serve renewable, 4-year terms<br>
 _subordinate courts_: regional appeals courts; basic (first instance) courts; peace courts; aggravated crime courts; specialized courts, including administrative and audit; note - a constitutional amendment in 2017 abolished military courts unless established to investigate military personnel actions during war conditions<br>
 
-**Political parties and leaders**<br>
-Democracy and Progress Party or DEVA [Ali BABACAN]<br>Democrat Party or DP [Gultekin UYSAL]<br>Democratic Regions Party or DBP [Saliha AYDENIZ, Keskin BAYINDIR]<br>Felicity Party (Saadet Party) or SP [Temel KARAMOLLAOGLU]<br>Free Cause Party or HUDA PAR [Zekeriya YAPICIOGLU]<br>Future Party (Gelecek Partisi) or GP [Ahmet DAVUTOGLU]<br>Good Party or IYI [Meral AKSENER]<br>Grand Unity Party or BBP [Mustafa DESTICI]<br>Justice and Development Party or AKP [Recep Tayyip ERDOGAN]<br>Labor and Freedom Alliance (electoral alliance includes YSGP, HDP, TIP)<br>Nation Alliance [collective leadership] (electoral alliance includes CHP, DEVA, DP, GP, IYI, SP) (dissolved 1 June 2023)<br>Nationalist Movement Party or MHP [Devlet BAHCELI]<br>New Welfare Party or YRP [Fatih ERBAKAN]<br>Party of Greens and the Left Future or YSGP [Cigfrm  Kilicgun UCAR and Ibrahim AKIN]<br>People's Alliance (electoral alliance includes AKP, BBP, MHP, YRP)<br>Peoples' Democratic Party or HDP [Pervin BULDAN, Mithat SANCAR]<br>Republican People's Party or CHP [Kemal KILICDAROGLU]<br>Workers' Party of Turkey or TIP [Erkan BAS]<br>
+**Political parties**<br>
+Democracy and Progress Party or DEVA<br>Democrat Party or DP<br>Democratic Regions Party or DBP<br>Felicity Party (Saadet Party) or SP<br>Free Cause Party or HUDA PAR<br>Future Party (Gelecek Partisi) or GP<br>Good Party or IYI<br>Grand Unity Party or BBP <br>Justice and Development Party or AKP <br>Labor and Freedom Alliance (electoral alliance includes YSGP, HDP, TIP)<br>Nationalist Movement Party or MHP <br>New Welfare Party or YRP <br>Party of Greens and the Left Future or YSGP <br>People's Alliance (electoral alliance includes AKP, BBP, MHP, YRP)<br>Peoples' Democratic Party or HDP<br>Republican People's Party or CHP <br>Workers' Party of Turkey or TIP<br>
 
 **International organization participation**<br>
 ADB (nonregional member), Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CERN (observer), CICA, CPLP (associate observer), D-8, EAPC, EBRD, ECO, EU (candidate country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIC, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SCO (dialogue member), SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -475,9 +475,10 @@ textiles, food processing, automobiles, electronics, mining (coal, chromate, cop
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.3% (2021 est.)<br>
-_male_: 21.4%<br>
-_female_: 29.9%<br>
+_total_: 17.6% (2023 est.)<br>
+_male_: 14.8% (2023 est.)<br>
+_female_: 22.9% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 14.4% (2020 est.)<br>

@@ -335,8 +335,8 @@ _highest court(s)_: High Court (consists of 20 judges and organized into civil, 
 _judge selection and term of office_: High Court judges appointed by the president<br>
 _subordinate courts_: regional/zonal courts; community courts; special courts; sharia courts (for issues dealing with Muslim marriage, inheritance, and family); military courts<br>
 
-**Political parties and leaders**<br>
-People's Front for Democracy and Justice or PFDJ [ISAIAS Afwerki] (the only party recognized by the government)<br>
+**Political parties**<br>
+People's Front for Democracy and Justice or PFDJ (the only party recognized by the government)<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IFAD, IFC, IFRCS (observer), IGAD, ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), LAS (observer), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO<br>
@@ -436,9 +436,10 @@ food processing, beverages, clothing and textiles, light manufacturing, salt, ce
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.6% (2021 est.)<br>
-_male_: 13.1%<br>
-_female_: 16.4%<br>
+_total_: 10% (2023 est.)<br>
+_male_: 8.9% (2023 est.)<br>
+_female_: 11.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 50% (2004 est.)<br>

@@ -332,7 +332,7 @@ _highest court(s)_: Federal Supreme Court (consists of the court president and 4
 _judge selection and term of office_: judges appointed by the federal president following approval by the Federal Supreme Council, the highest executive and legislative authority consisting of the 7 emirate rulers; judges serve until retirement age or the expiry of their appointment terms<br>
 _subordinate courts_: Federal Court of Cassation (determines the constitutionality of laws promulgated at the federal and emirate level; federal level courts of first instance and appeals courts); the emirates of Abu Dhabi, Dubai, and Ra's al Khaymah have parallel court systems; the other 4 emirates have incorporated their courts into the federal system; note - the Abu Dhabi Global Market Courts and the Dubai International Financial Center Courts, the country&rsquo;s two largest financial free zones, both adjudicate civil and commercial disputes.<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 none; political parties are banned; all candidates run as independents<br>
 
 **International organization participation**<br>
@@ -444,9 +444,10 @@ petroleum and petrochemicals; fishing, aluminum, cement, fertilizer, commercial 
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.7% (2021 est.)<br>
-_male_: 7.9%<br>
-_female_: 19.9%<br>
+_total_: 10.7% (2023 est.)<br>
+_male_: 6.7% (2023 est.)<br>
+_female_: 22.9% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 19.5% (2003 est.)<br>

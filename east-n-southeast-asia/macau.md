@@ -261,15 +261,15 @@ _election results_: <em>2019</em>: HO lat Seng (unopposed; received 392 out of 4
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Regiao Administrativa Especial de Macau (33 seats; 14 members directly elected by proportional representation vote, 12 indirectly elected by an electoral college of professional and commercial interest groups, and 7 appointed by the chief executive; members serve 4-year terms)<br>
 _elections_: last held on 12 September 2021 (next to be held in September 2025)<br>
-_election results_: percent of vote - ACUM 20.1%, UPD 18%, NE 13.8%, UMG 12.7%, UPP 11.4%, ABL 10.8%, PS 6.6%, other 6.6%; seats by political group - ACUM 3, UPD 2, UMG 2, UPP 2, ABL 2, NE 2, PS 1; composition - men NA, women NA, percentage women NA%<br>
+_election results_: percent of vote - ACUM 20.1%, UPD 18%, NE 13.8%, UMG 12.7%, UPP 11.4%, ABL 10.8%, PS 6.6%, other 6.6%; seats by political group - ACUM 3, UPD 2, UGM 2, UPP 2, ABL 2, NE 2, PS 1; composition - men NA, women NA, percentage women NA%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Final Appeal of Macau Special Administrative Region (consists of the court president and 2 associate justices)<br>
 _judge selection and term of office_: justices appointed by the Macau chief executive upon the recommendation of an independent commission of judges, lawyers, and "eminent" persons; judge tenure NA<br>
 _subordinate courts_: Court of Second Instance; Court of First instance; Lower Court; Administrative Court<br>
 
-**Political parties and leaders**<br>
-Alliance for a Happy Home or ABL [WONG Kit-cheng]<br>Association of Synergy of Macau ("Synergy Power" or Poder da Singeria) or PS [Vitor VAI]<br>Macau-Guangdong Union or UGM [MAK Soi-kun]<br>New Hope or NE [José Maria Pereira COUTINHO]<br>Union for Development or UPD [HO Sut Heng]<br>Union for Promoting Progress or UPP or UNIPRO [HO Ion-sang]<br>United Citizens Association of Macau or ACUM [CHAN Meng-kam]<br>
+**Political parties**<br>
+Alliance for a Happy Home or ABL<br>Association of Synergy of Macau ("Synergy Power" or Poder da Singeria) or PS <br>Macau-Guangdong Union or UGM <br>New Hope or NE <br>Union for Development or UPD <br>Union for Promoting Progress or UPP or UNIPRO <br>United Citizens Association of Macau or ACUM<br>
 <strong>note:</strong> there is no political party ordinance, so there are no registered political parties; politically active groups register as societies or companies<br>
 
 **International organization participation**<br>
@@ -363,9 +363,10 @@ tourism, gambling, clothing, textiles, electronics, footwear, toys<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.2% (2021 est.)<br>
-_male_: 11.7%<br>
-_female_: 6.6%<br>
+_total_: 7% (2023 est.)<br>
+_male_: 9% (2023 est.)<br>
+_female_: 5.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 35 (2013 est.)<br>

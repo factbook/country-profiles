@@ -333,8 +333,8 @@ _highest court(s)_: Supreme Court of Mauritius (consists of the chief justice, a
 _judge selection and term of office_: chief justice appointed by the president after consultation with the prime minister; senior puisne judge appointed by the president with the advice of the chief justice; other puisne judges appointed by the president with the advice of the Judicial and Legal Commission, a 4-member body of judicial officials including the chief justice; all judges serve until retirement at age 67<br>
 _subordinate courts_: lower regional courts known as District Courts, Court of Civil Appeal; Court of Criminal Appeal; Public Bodies Appeal Tribunal<br>
 
-**Political parties and leaders**<br>
-Alliance Morisien (Mauritian Alliance 2019; coalition includes PM, MSM, ML, and MAG) [Pravind JUGNAUTH] <br>Jean-Claude Barbier Movement (Mouvement Jean-Claude Barbier) or MJCB [Jean-Claude Barbier]<br>Mauritian Militant Movement (Mouvement Militant Mauricien) or MMM [Paul BERENGER]<br>Mauritian Social Democratic Party (Parti Mauricien Social Democrate) or PMSD [Xavier Luc DUVAL]<br>Mauritius Labor Party (Parti Travailliste) or PTR or MLP [Navinchandra RAMGOOLAM]<br>Militant Platform or PM (Plateforme Militante) [Steven OBEEGADOO]<br>Militant Socialist Movement (Mouvement Socialist Mauricien) or MSM [Pravind JUGNAUTH]<br>Muvman Liberater or ML [Ivan COLLENDAVELLOO]<br>National Alliance (coalition includes PTR, PMSD, and MJCB) [Navinchandra RAMGOOLAM]<br>Patriotic Movement (Mouvement Patriotique) or MAG [Alan GANOO]<br>Rodrigues Peoples Organization (Organisation du Peuple Rodriguais) or OPR [Serge CLAIR]<br>
+**Political parties**<br>
+Alliance Morisien (Mauritian Alliance)<br>Jean-Claude Barbier Movement (Mouvement Jean-Claude Barbier) or MJCB<br>Mauritian Militant Movement (Mouvement Militant Mauricien) or MMM<br>Mauritian Social Democratic Party (Parti Mauricien Social Democrate) or PMSD<br>Mauritius Labor Party (Parti Travailliste) or PTR or MLP<br>Militant Platform (Plateforme Militante) or PM<br>Militant Socialist Movement (Mouvement Socialist Mauricien) or MSM<br>Muvman Liberater or ML<br>National Alliance<br>Patriotic Movement (Mouvement Patriotique) or MAG<br>Rodrigues Peoples Organization (Organisation du Peuple Rodriguais) or OPR<br>
 
 **International organization participation**<br>
 ACP, AfDB, AOSIS, AU, CD, COMESA, CPLP (associate), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, SAARC (observer), SADC, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -442,9 +442,10 @@ food processing (largely sugar milling), textiles, clothing, mining, chemicals, 
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.3% (2021 est.)<br>
-_male_: 19.7%<br>
-_female_: 32.9%<br>
+_total_: 20.9% (2023 est.)<br>
+_male_: 19% (2023 est.)<br>
+_female_: 23.6% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 10.3% (2017 est.)<br>

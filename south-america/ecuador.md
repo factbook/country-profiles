@@ -360,8 +360,8 @@ _highest court(s)_: National Court of Justice or Corte Nacional de Justicia (con
 _judge selection and term of office_: candidates for the National Court of Justice evaluated and appointed justices by the Judicial Council, a 9-member independent body of law professionals; justices elected for 9-year, non-renewable terms, with one-third of the membership renewed every 3 years; candidates for the Constitutional Court evaluated and appointed judges by a 6-member independent body of law professionals; judges appointed for 4-year renewable terms<br>
 _subordinate courts_: provincial courts (one for each province except Galapagos); fiscal, criminal, and administrative tribunals; Election Dispute Settlement Courts; cantonal courts<br>
 
-**Political parties and leaders**<br>
-Actuemos Ecuador or Actuemos<br>AMIGO movement, Independent Mobilizing Action Generating Opportunities (Movimiento AMIGO (Acción Movilizadora Independiente Generando Oportunidades)) or AM16O [Victor BRAVO, acting president]<br>Avanza Party or AVANZA [Javier ORTI Torres]<br>Central Democratic Movement or CD [Jimmy JAIRALA]<br>Citizen Revolution Movement or MRC or RC5 [Luisa GONZÁLEZ]<br>Creating Opportunities Movement or CREO [Esteban BERNAL]<br>Democratic Left or ID [Analía LEDESMA]<br>Democracy Yes Movement (Movimiento Democracia Si) [Gustavo LARREA]<br>For A Country Without Fear (Por Un País Sin Miedo) (an alliance including PSC, CD, and PSP) [Jan Tomislav TOPIĆ Feraud]<br>Green Movement (Movimiento Verde<br>Movimiento Construye or Construye [María Paula ROMO]<br>National Democratic Action (Acción Democrática Nacional) or ADN [Daniel NOBOA]<br>Pachakutik Plurinational Unity Movement or MUPP [Guillermo CHURUCHUMBI]<br>Patriotic Society Party or PSP [Lucio GUTIÉRREZ Borbúa]<br>People, Equality, and Democracy Party (Partido Pueblo, Igualdad y Democracia) or PID [Arturo MORENO]<br>Popular Unity Party (Partido Unidad Popular) or UP [Geovanni ATARIHUANA]<br>Revolutionary and Democratic Ethical Green Movement (Movimiento Verde Ético Revolucionario y Democrático) or MOVER [René ESPÍN, Secretary-General]<strong><br></strong>Social Christian Party or PSC [Alfredo SERRANO]<br>Socialist Party [Gustavo VALLEJO] <br>Society United for More Action or SUMA [Guillermo CELI]<br>Total Renovation Movement (Movimiento Renovacion Total) or RETO [Eduardo SÁNCHEZ]<br>
+**Political parties**<br>
+Actuemos Ecuador or Actuemos<br>AMIGO movement, Independent Mobilizing Action Generating Opportunities (Movimiento AMIGO (Acción Movilizadora Independiente Generando Oportunidades)) or AM16O<br>Avanza Party or AVANZA<br>Central Democratic Movement or CD<br>Citizen Revolution Movement or MRC or RC5<br>Creating Opportunities Movement or CREO<br>Democratic Left or ID<br>Democracy Yes Movement (Movimiento Democracia Si)<br>For A Country Without Fear (Por Un País Sin Miedo) (an alliance including PSC, CD, and PSP)<br>Green Movement (Movimiento Verde)<br>Movimiento Construye or Construye<br>National Democratic Action (Acción Democrática Nacional) or ADN<br>Pachakutik Plurinational Unity Movement or MUPP<br>Patriotic Society Party or PSP<br>People, Equality, and Democracy Party (Partido Pueblo, Igualdad y Democracia) or PID<br>Popular Unity Party (Partido Unidad Popular) or UP<br>Revolutionary and Democratic Ethical Green Movement (Movimiento Verde Ético Revolucionario y Democrático) or MOVER<strong><br></strong>Social Christian Party or PSC<br>Socialist Party<br>Society United for More Action or SUMA<br>Total Renovation Movement (Movimiento Renovacion Total) or RETO<br>
 
 **International organization participation**<br>
 CAN, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, Pacific Alliance (observer), PCA, PROSUR, SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -472,9 +472,10 @@ petroleum, food processing, textiles, wood products, chemicals<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.2% (2021 est.)<br>
-_male_: 11.4%<br>
-_female_: 18.8%<br>
+_total_: 7.2% (2023 est.)<br>
+_male_: 5.9% (2023 est.)<br>
+_female_: 9.4% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 25.2% (2022 est.)<br>

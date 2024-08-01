@@ -341,7 +341,7 @@ _highest court(s)_: Constitutional Court (consists of 5 judges); Supreme Court o
 _judge selection and term of office_: all Kuwaiti judges appointed by the Amir upon recommendation of the Supreme Judicial Council, a consultative body comprised of Kuwaiti judges and Ministry of Justice officials<br>
 _subordinate courts_: High Court of Appeal; Court of First Instance; Summary Court<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 none; the government does not recognize any political parties or allow their formation, although no formal law bans political parties<br>
 
 **International organization participation**<br>
@@ -448,9 +448,10 @@ petroleum, petrochemicals, cement, shipbuilding and repair, water desalination, 
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.5% (2021 est.)<br>
-_male_: 17.1%<br>
-_female_: 46.2%<br>
+_total_: 15% (2023 est.)<br>
+_male_: 9.1% (2023 est.)<br>
+_female_: 29% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
 _on food_: 19.3% of household expenditures (2021 est.)<br>

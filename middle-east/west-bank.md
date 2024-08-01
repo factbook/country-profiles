@@ -350,10 +350,10 @@ small-scale manufacturing, quarrying, textiles, soap, olive-wood carvings, and m
 <b>note:</b> % of labor force seeking employment; entry includes West Bank and Gaza Strip<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 39.6% (2021 est.)<br>
-_male_: 33.7%<br>
-_female_: 69%<br>
-<strong>note:</strong> includes Gaza Strip<br>
+_total_: 36% (2022 est.)<br>
+_male_: 31.6% (2022 est.)<br>
+_female_: 56.7% (2022 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 29.2% (2016 est.)<br>

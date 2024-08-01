@@ -313,8 +313,8 @@ _highest court(s)_: Supreme Court of Justice of Andorra or Tribunal Superior de 
 _judge selection and term of office_: Supreme Court president and judges appointed by the Supreme Council of Justice, a 5-member judicial policy and administrative body appointed 1 each by the coprinces, 1 by the General Council, 1 by the executive council president, and 1 by the courts; judges serve 6-year renewable terms; Constitutional magistrates - 2 appointed by the coprinces and 2 by the General Council; magistrates' appointments limited to 2 consecutive 8-year terms<br>
 _subordinate courts_: Tribunal of Judges or Tribunal de Batlles; Tribunal of the Courts or Tribunal de Corts<br>
 
-**Political parties and leaders**<br>
-Action for Andorra or ACCIO [Judith PALLARES]<br>Committed Citizens or CC [Carles NAUDI d'ARENY PLANDOLIT]<br>Concord [Cerni ESCALE Cabre]<br>Democrats for Andorra or DA [Xavier Espot ZAMORA]<br>Forward Andorra or AE [Carine Montaner RAYNAUD]<br>Liberals of Andorra or L'A [Josep Maria CABANES]<br>Social Democratic Party or PS [Pere Barao ROCAMONDE]<br>Social Democracy and Progress or SDP [Victor NAUDI]<br>
+**Political parties**<br>
+Action for Andorra or ACCIO <br>Committed Citizens or CC <br>Concord <br>Democrats for Andorra or DA <br>Forward Andorra or AE <br>Liberals of Andorra or L'A <br>Social Democratic Party or PS <br>Social Democracy and Progress or SDP <br>
 <strong>note:</strong> Andorra has several smaller parties at the parish level (one is Lauredian Union)<br>
 
 **International organization participation**<br>

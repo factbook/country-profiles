@@ -182,7 +182,7 @@ _highest court(s)_: Supreme Court or Supreme Tribunal of the Apostolic Signatura
 _judge selection and term of office_: cardinal prefect appointed by the pope; the other 2 cardinals of the court appointed by the cardinal prefect on a yearly basis<br>
 _subordinate courts_: Appellate Court of Vatican City; Tribunal of Vatican City<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 none<br>
 
 **International organization participation**<br>

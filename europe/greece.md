@@ -341,8 +341,8 @@ _highest court(s)_: Supreme Civil and Criminal Court or Areios Pagos (consists o
 _judge selection and term of office_: Supreme Court judges appointed by presidential decree on the advice of the Supreme Judicial Council (SJC), which includes the president of the Supreme Court, other judges, and the prosecutor of the Supreme Court; judges appointed for life following a 2-year probationary period; Council of State president appointed by the Greek Cabinet to serve a 4-year term; other judge appointments and tenure NA; Court of Audit president appointed by decree of the president of the republic on the advice of the SJC; court president serves a 4-year term or until age 67; tenure of vice presidents, councilors, and judges NA<br>
 _subordinate courts_: Courts of Appeal and Courts of First Instance (district courts)<br>
 
-**Political parties and leaders**<br>
-Coalition of the Radical Left-Progressive Alliance or SYRIZA-PS [Stefanos KASSELAKIS]<br>Communist Party of Greece or KKE [Dimitrios KOUTSOUMBAS]<br>Course of Freedom [Zoe KONSTANTOPOULOU]<br>Democratic Patriotic Movement-Victory or NIKI [Dimitris NATSIOS]<br>Greek Solution [Kyriakos VELOPOULOS]<br>New Democracy or ND [Kyriakos MITSOTAKIS]<br>PASOK - Movement for Change or PASOK-KINAL [Nikolaos (Nikos) ANDROULAKIS]<br>Spartans [Vassilis STIGAS]<br>
+**Political parties**<br>
+Coalition of the Radical Left-Progressive Alliance or SYRIZA-PS <br>Communist Party of Greece or KKE <br>Course of Freedom<br>Democratic Patriotic Movement-Victory or NIKI<br>Greek Solution<br>New Democracy or ND<br>PASOK - Movement for Change or PASOK-KINAL<br>Spartans<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -455,9 +455,10 @@ tourism, food and tobacco processing, textiles, chemicals, metal products; minin
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 36.9% (2021 est.)<br>
-_male_: 33.5%<br>
-_female_: 41.5%<br>
+_total_: 26.6% (2023 est.)<br>
+_male_: 24.3% (2023 est.)<br>
+_female_: 29.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 18.8% (2021 est.)<br>

@@ -363,9 +363,9 @@ _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consi
 _judge selection and term of office_: Supreme Court judges appointed by the Supreme Court members from candidates submitted by the Superior Judiciary Council; judges elected for individual 8-year terms; Constitutional Court magistrates - nominated by the president, by the Supreme Court, and elected by the Senate; judges elected for individual 8-year terms; Council of State members appointed by the State Council plenary from lists nominated by the Superior Judiciary Council<br>
 _subordinate courts_: Superior Tribunals (appellate courts for each of the judicial districts); regional courts; civil municipal courts; Superior Military Tribunal; first instance administrative courts<br>
 
-**Political parties and leaders**<br>
-Alternative Democratic Pole or PDA [Alexander LOPEZ Maya]<br>Citizens Option (Opcion Ciudadana) or OC [Angel ALIRIO Moreno] (formerly known as the National Integration Party or PIN)<br>The Commons (formerly People's Alternative Revolutionary Force or FARC) [Rodrigo LONDONO Echeverry]<br>Conservative Party or PC [Carlos Andres TRUJILLO]<br>Democratic Center Party or CD [Alvaro URIBE Velez]<br>Fair and Free Colombia (Colombia Justa Libres) [Eduardo Canas Estrada and Ricardo Arias Mora]<br>Green Alliance [Claudia LOPEZ Hernandez]<br>Historic Pact for Colombia or PHxC (coalition composed of several left-leaning political parties and social movements)<br>Humane Colombia [Gustavo PETRO]<br>Independent Movement of Absolute Renovation or MIRA [Carlos Eduardo GUEVARA]<br>League of Anti-Corruption Rulers or LIGA [Rodolfo HERNANDEZ Suarez]<br>Liberal Party or PL [Cesar GAVIRIA]<br>People's Alternative Revolutionary Force or FARC [Rodrigo LONDONO Echeverry]<br>Radical Change or CR [German VARGAS Lleras]<br>Team for Colombia - also known as the Experience Coalition or Coalition of the Regions (coalition composed of center-right and right-wing parties)<br>Union Party for the People or U Party [Dilian Francisca TORO]<br>We Believe Colombia or CREEMOS [Federico GUTIERREZ]<br>
-<strong>note:</strong> Colombia has numerous smaller political parties and movements<br>
+**Political parties**<br>
+Alternative Democratic Pole or PDA<br>Citizens Option (Opcion Ciudadana) or OC (formerly known as the National Integration Party or PIN)<br>The Commons (formerly People's Alternative Revolutionary Force or FARC)<br>Conservative Party or PC<br>Democratic Center Party or CD<br>Fair and Free Colombia (Colombia Justa Libres)<br>Green Alliance <br>Historic Pact for Colombia or PHxC (coalition composed of several left-leaning political parties and social movements)<br>Humane Colombia<br>Independent Movement of Absolute Renovation or MIRA<br>League of Anti-Corruption Rulers or LIGA<br>Liberal Party or PL<br>People's Alternative Revolutionary Force or FARC<br>Radical Change or CR<br>Team for Colombia - also known as the Experience Coalition or Coalition of the Regions (coalition composed of center-right and right-wing parties)<br>Union Party for the People or U Party<br>We Believe Colombia or CREEMOS<br>
+<strong>note:  </strong>Colombia has numerous smaller political parties and movements<br>
 
 **International organization participation**<br>
 ACS, BCIE, BIS, CABEI, CAN, Caricom (observer), CD, CDB, CELAC, EITI (candidate country), FAO, G-3, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -476,9 +476,10 @@ textiles, food processing, oil, clothing and footwear, beverages, chemicals, cem
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.4% (2021 est.)<br>
-_male_: 21.9%<br>
-_female_: 32.8%<br>
+_total_: 19.3% (2023 est.)<br>
+_male_: 16.1% (2023 est.)<br>
+_female_: 23.7% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 36.6% (2022 est.)<br>

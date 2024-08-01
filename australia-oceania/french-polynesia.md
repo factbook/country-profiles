@@ -278,8 +278,8 @@ _highest court(s)_: Court of Appeal or Cour d'Appel (composition NA); note - app
 _judge selection and term of office_: judges assigned from France normally for 3 years<br>
 _subordinate courts_: Court of the First Instance or Tribunal de Premiere Instance; Court of Administrative Law or Tribunal Administratif<br>
 
-**Political parties and leaders**<br>
-I Love Polynesia (A here la Porinetia) [Nicole SANQUER]<br>List of the People (Tapura Huiraatira) [Edouard FRITCH]<br>People's Servant Party (Tavini Huiraatira) [Oscar TEMARU]<br>Rally of the Maohi People (Amuitahiraʻa o te Nunaʻa Maohi)  [Gaston FLOSSE] (formerly known as Popular Rally (Tahoeraa Huiraatira))<br>
+**Political parties**<br>
+I Love Polynesia (A here la Porinetia) <br>List of the People (Tapura Huiraatira) <br>People's Servant Party (Tavini Huiraatira) <br>Rally of the Maohi People (Amuitahiraʻa o te Nunaʻa Maohi) (formerly known as Popular Rally (Tahoeraa Huiraatira))<br>
 
 **International organization participation**<br>
 ITUC (NGOs), PIF, SPC, UPU, WMO<br>
@@ -375,9 +375,10 @@ tourism, pearls, agricultural processing, handicrafts, phosphates<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38.9% (2021 est.)<br>
-_male_: 35.4%<br>
-_female_: 43.9%<br>
+_total_: 37.3% (2023 est.)<br>
+_male_: 33.8% (2023 est.)<br>
+_female_: 42% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 19.7% (2009 est.)<br>

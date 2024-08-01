@@ -347,8 +347,8 @@ _highest court(s)_: Constitutional Court or Grondwettelijk Hof (in Dutch) and Co
 _judge selection and term of office_: Constitutional Court judges appointed by the monarch from candidates submitted by Parliament; judges appointed for life with mandatory retirement at age 70; Supreme Court judges appointed by the monarch from candidates submitted by the High Council of Justice, a 44-member independent body of judicial and non-judicial members; judges appointed for life<br>
 _subordinate courts_: Courts of Appeal; regional courts; specialized courts for administrative, commercial, labor, immigration, and audit issues; magistrate's courts; justices of the peace<br>
 
-**Political parties and leaders**<br>
-<strong>Flemish parties:</strong> <br>Christian Democratic and Flemish or CD&amp;V [Sammy MAHDI]<br>Vooruit or Forward [Melissa DEPRAETERE] (formerly Social Progressive Alternative or SP.A)<br>Groen or Green [Nadia NAJI and Jeremie VANEECKHOUT] (formerly AGALEV, Flemish Greens)<br>New Flemish Alliance or N-VA [Bart DE WEVER]<br>Open Flemish Liberals and Democrats or Open VLD [Tom ONGENA]<br>Vlaams Belang (Flemish Interest) or VB [Tom VAN GRIEKEN]<br><strong>Francophone parties:</strong> <br>Ecolo (Francophone Greens) [Jean-Marc NOLLET and Rajae MAOUANE]<br>Francophone Federalist Democrats or Defi [Francois DE SMET]<br>Les Engages [Maxime PREVOT] (formerly Humanist and Democratic Center or CDH)<br>Reform Movement or MR [George-Louis BOUCHEZ]<br>Socialist Party or PS [Paul MAGNETTE]<br>Workers' Party or PVDA-PTB [Raoul HEDEBOUW]<br>
+**Political parties**<br>
+<strong>Flemish parties:</strong> <br>Christian Democratic and Flemish or CD&amp;V <br>Vooruit or Forward (formerly Social Progressive Alternative or SP.A)<br>Groen or Green  (formerly AGALEV, Flemish Greens)<br>New Flemish Alliance or N-VA <br>Open Flemish Liberals and Democrats or Open VLD <br>Vlaams Belang (Flemish Interest) or VB <br><strong>Francophone parties:</strong> <br>Ecolo (Francophone Greens) <br>Francophone Federalist Democrats or Defi <br>Les Engages (formerly Humanist and Democratic Center or CDH)<br>Reform Movement or MR <br>Socialist Party or PS <br>Workers' Party or PVDA-PTB <br>
 
 **International organization participation**<br>
 ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux, BIS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -458,9 +458,10 @@ engineering and metal products, motor vehicle assembly, transportation equipment
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.6% (2021 est.)<br>
-_male_: 18.9%<br>
-_female_: 20.4%<br>
+_total_: 16.1% (2023 est.)<br>
+_male_: 17.8% (2023 est.)<br>
+_female_: 14.1% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 12.3% (2022 est.)<br>

@@ -367,8 +367,8 @@ _highest court(s)_: High Court of Australia (consists of 7 justices, including t
 _judge selection and term of office_: justices appointed by the governor-general in council for life with mandatory retirement at age 70<br>
 _subordinate courts_: subordinate courts: <em>at the federal level:</em> Federal Court; Federal Circuit and Family Court of Australia;  <em>at the state and territory level:</em> Local Court - New South Wales; Magistrates' Courts – Victoria, Queensland, South Australia, Western Australia, Tasmania, Northern Territory, Australian Capital Territory; District Courts – New South Wales, Queensland, South Australia, Western Australia; County Court – Victoria; Family Court – Western Australia; Court of Petty Sessions – Norfolk Island <p> </p> <p> </p><br>
 
-**Political parties and leaders**<br>
-Australian Greens Party or The Greens [Adam BANDT]<br>Australian Labor Party or ALP [Anthony ALBANESE]<br>Centre Alliance (formerly known as the Nick Xenophon Team or NXT) [none]<br>Jacqui Lambie Network or JLN [Jacqui LAMBIE]<br>Katter's Australian Party [Robbie KATTER]<br>Liberal Party of Australia [Peter DUTTON]<br>The Nationals [David LITTLEPROUD]<br>One Nation or ONP [Pauline HANSON]<br>United Australia Party [Clive PALMER]<br>
+**Political parties**<br>
+Australian Greens Party or The Greens <br>Australian Labor Party or ALP <br>Centre Alliance (formerly known as the Nick Xenophon Team or NXT)<br>Jacqui Lambie Network or JLN <br>Katter's Australian Party <br>Liberal Party of Australia <br>The Nationals <br>One Nation or ONP <br>United Australia Party <br>
 <strong>note:</strong> the Labor Party is Australia’s oldest political party, established federally in 1901; the present Liberal Party was formed in 1944; the Country Party was formed in 1920, renamed the National Country Party in 1975, the National Party of Australia in 1982, and since 2003 has been known as the Nationals; since the general election of 1949, the Liberal Party and the Nationals (under various names) when forming government have done so as a coalition<br>
 
 **International organization participation**<br>
@@ -480,9 +480,10 @@ mining, industrial and transportation equipment, food processing, chemicals, ste
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.8% (2021 est.)<br>
-_male_: 12.7%<br>
-_female_: 8.9%<br>
+_total_: 8.6% (2023 est.)<br>
+_male_: 9.6% (2023 est.)<br>
+_female_: 7.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 13.4% (2020 est.)<br>

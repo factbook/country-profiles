@@ -354,8 +354,8 @@ _highest court(s)_: Court of Appeal (consists of the court president, such numbe
 _judge selection and term of office_: Court of Appeal president and High Court chief justice appointed by the monarch on the advice of the prime minister; puisne judges appointed by the monarch on advice of the Judicial Service Commission, an independent body of judicial officers and officials designated by the monarch; judges of both courts can serve until age 75<br>
 _subordinate courts_: Magistrate Courts; customary or traditional courts; military courts<br>
 
-**Political parties and leaders**<br>
-All Basotho Convention or ABC [Nkaku KABI]<br>Alliance of Democrats or AD [Ntoi RAPPA]<br>Basotho Action Party or BAP [Nqosa MAHAO]<br>Basotho National Party or BNP [Machesetsa MOFOMOBE]<br>Democratic Congress or DC [Mathibeli MOKHOTHU]<br>Democratic Party of Lesotho or DPL [Limpho TAU]<br>Lesotho Congress for Democracy or LCD [Mothetjoa METSING]<br>Lesotho People's Congress or LPC [Moipone PIET]<br>Movement of Economic Change or MEC [Selibe MOCHOBOROANE]<br>National Independent Party or NIP [Kimetso MATHABA]<br>Popular Front for Democracy of PFD [Lekhetho RAKUOANE]<br>Reformed Congress of Lesotho or RCL [Keketso RANTSO]<br>
+**Political parties**<br>
+All Basotho Convention or ABC <br>Alliance of Democrats or AD <br>Basotho Action Party or BAP <br>Basotho National Party or BNP <br>Democratic Congress or DC <br>Democratic Party of Lesotho or DPL <br>Lesotho People's Congress or LPC <br>Movement of Economic Change or MEC <br>National Independent Party or NIP <br>Popular Front for Democracy of PFD<br>Reformed Congress of Lesotho or RCL <br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OPCW, SACU, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -462,9 +462,10 @@ food, beverages, textiles, apparel assembly, handicrafts, construction, tourism<
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 37.4% (2021 est.)<br>
-_male_: 32.8%<br>
-_female_: 43.8%<br>
+_total_: 24.8% (2023 est.)<br>
+_male_: 17.5% (2023 est.)<br>
+_female_: 34.8% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 49.7% (2017 est.)<br>

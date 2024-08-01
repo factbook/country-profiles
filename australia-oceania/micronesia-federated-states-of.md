@@ -304,7 +304,7 @@ _highest court(s)_: Federated States of Micronesia (FSM) Supreme Court (consists
 _judge selection and term of office_: justices appointed by the FSM president with the approval of two-thirds of Congress; justices appointed for life<br>
 _subordinate courts_: the highest state-level courts are: Chuuk Supreme Court; Korsae State Court; Pohnpei State Court; Yap State Court<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 no formal parties<br>
 
 **International organization participation**<br>

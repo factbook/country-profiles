@@ -340,8 +340,8 @@ _highest court(s)_: Supreme Court (consists of 22 judges); Constitutional Court 
 _judge selection and term of office_: Supreme Court judges nominated by the Judicial Council, a 7-member body of legal professionals, and appointed by the Assembly; judge tenure NA; Constitutional Court judges appointed by the Assembly for nonrenewable, 9-year terms<br>
 _subordinate courts_: Courts of Appeal; Basic Courts<br>
 
-**Political parties and leaders**<br>
-Alliance for Albanians or AfA or ASH [Arben TARAVARI]<br>Alternative (Alternativa) or AAA [Afrim GASHI]<br>Besa Movement or BESA [Bilal KASAMI]<br>Citizen Option for Macedonia or GROM [Stefcho JAKIMOVSKI]<br>Democratic Alliance or DS [Pavle TRAJANOV]<br>Democratic Movement or LD [Izet MEXHITI]<br>Democratic Party of Albanians or PDSH [Menduh THACI]<br>Democratic Party of Serbs or DPSM [Ivan STOILJKOVIC]<br>Democratic Renewal of Macedonia or DOM [Maja MORACHANIN]<br>Democratic Union for Integration or BDI [Ali AHMETI]<br>European Democratic Party or PDE [Arianit HOXHA]<br>Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity or VMRO-DPMNE [Hristijan MICKOSKI]<br>Internal Macedonian Revolutionary Organization - People's Party or VMRO-NP [Ljubco GEORGIEVSKI]<br>Liberal Democratic Party or LDP [Monika ZAJKOVA]<br>New Social-Democratic Party or NSDP [Goran MISOVSKI]<br>Social Democratic Union of Macedonia or SDSM [Dimitar KOVACHEVSKI]<br>Socialist Party of Macedonia or SPM [Ljupcho DIMOVSKI]<br>Srpska Stranka in Macedonia or SSM [Miroslav JOVANOVIC]<br>The Left (Levica) [Dimitar APASIEV]<br>The People Movement or LP [Skender REXHEPI]<br>Turkish Democratic Party or TDP [Beycan ILYAS]<br>Turkish Movement Party or THP [Enes IBRAHIM]<br>We Can! (coalition includes SDSM/BESA/VMRO-NP, DPT, LDP)<br>
+**Political parties**<br>
+Alliance for Albanians or AfA or ASH<br>Alternative (Alternativa) or AAA<br>Besa Movement or BESA<br>Citizen Option for Macedonia or GROM <br>Democratic Alliance or DS<br>Democratic Movement or LD <br>Democratic Party of Albanians or PDSH<br>Democratic Party of Serbs or DPSM<br>Democratic Renewal of Macedonia or DOM<br>Democratic Union for Integration or BDI<br>European Democratic Party or PDE <br>Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity or VMRO-DPMNE<br>Internal Macedonian Revolutionary Organization - People's Party or VMRO-NP<br>Liberal Democratic Party or LDP<br>New Social-Democratic Party or NSDP<br>Social Democratic Union of Macedonia or SDSM<br>Socialist Party of Macedonia or SPM<br>Srpska Stranka in Macedonia or SSM<br>The Left (Levica) <br>The People Movement or LP<br>Turkish Democratic Party or TDP <br>Turkish Movement Party or THP <br>We Can! (coalition includes SDSM/BESA/VMRO-NP, DPT, LDP)<br>
 
 **International organization participation**<br>
 BIS, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIF, OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -451,9 +451,10 @@ food processing, beverages, textiles, chemicals, iron, steel, cement, energy, ph
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 34.1% (2021 est.)<br>
-_male_: 31.6%<br>
-_female_: 38.4%<br>
+_total_: 28.6% (2023 est.)<br>
+_male_: 27% (2023 est.)<br>
+_female_: 31.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 21.8% (2019 est.)<br>

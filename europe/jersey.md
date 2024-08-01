@@ -272,8 +272,8 @@ _highest court(s)_: Jersey Court of Appeal (consists of the bailiff, deputy bail
 _judge selection and term of office_: Jersey Court of Appeal bailiffs and judges appointed by the Crown upon the advice of the Secretary of State for Justice; bailiffs and judges appointed for "extent of good behavior;" Royal Court bailiffs appointed by the Crown upon the advice of the Secretary of State for Justice; commissioners appointed by the bailiff; jurats appointed by the Electoral College; bailiffs and commissioners appointed for "extent of good behavior;" jurats appointed until retirement at age 72<br>
 _subordinate courts_: Magistrate's Court; Youth Court; Petty Debts Court; Parish Hall Enquiries (a process of preliminary investigation into youth and minor adult offenses to determine need for presentation before a court)<br>
 
-**Political parties and leaders**<br>
-Better Way or BW (group of independent candidates)<br>Jersey Alliance or JA [Mark BOLEAT]<br>Jersey Liberal Conservatives or JLC [Sir Philip BAILHACHE]<br>Progress Party or PP [Steve PALLETT]<br>Reform Jersey or RJ [Sam MEZEC]<br>
+**Political parties**<br>
+Better Way or BW (group of independent candidates)<br>Jersey Alliance or JA <br>Jersey Liberal Conservatives or JLC <br>Progress Party or PP <br>Reform Jersey or RJ<br>
 <strong>note:</strong> most deputies sit as independents<br>
 
 **International organization participation**<br>
@@ -347,9 +347,10 @@ tourism, banking and finance, dairy, electronics<br>
 <b>note:</b> % of labor force seeking employment; entry includes Jersey and Guernsey<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.8% (2021 est.)<br>
-_male_: 15.9%<br>
-_female_: 15.6%<br>
+_total_: 13.5% (2023 est.)<br>
+_male_: 13.7% (2023 est.)<br>
+_female_: 13.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 0.3 (2014 est.)<br>

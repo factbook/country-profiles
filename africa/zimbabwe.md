@@ -368,8 +368,8 @@ _highest court(s)_: Supreme Court (consists of the chief justice and 4 judges); 
 _judge selection and term of office_: Supreme Court judges appointed by the president upon recommendation of the Judicial Service Commission, an independent body consisting of the chief justice, Public Service Commission chairman, attorney general, and 2-3 members appointed by the president; judges normally serve until age 65 but can elect to serve until age 70; Constitutional Court judge appointment NA; judges serve nonrenewable 15-year terms<br>
 _subordinate courts_: High Court; Labor Court; Administrative Court; regional magistrate courts; customary law courts; special courts<br>
 
-**Political parties and leaders**<br>
-Citizens Coalition for Change (vacant) <br>Movement for Democratic Change - MDC-T [Douglas MWONZORA]<br>National People's Congress- NPC- [Wilbert MUBAIWA] <br>Zimbabwe African National Union-Patriotic Front or ZANU-PF [Emmerson Dambudzo MNANGAGWA]<br>Zimbabwe African Peoples Union or ZAPU [Michael NKOMO]<br>
+**Political parties**<br>
+Citizens Coalition for Change <br>Movement for Democratic Change - MDC-T <br>National People's Congress- NPC- <br>Zimbabwe African National Union-Patriotic Front or ZANU-PF <br>Zimbabwe African Peoples Union or ZAPU<br>
 
 **International organization participation**<br>
 ACP, AfDB, ATMIS, AU, COMESA, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -472,9 +472,10 @@ mining (coal, gold, platinum, copper, nickel, tin, diamonds, clay, numerous meta
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.3% (2021 est.)<br>
-_male_: 6.2%<br>
-_female_: 8.5%<br>
+_total_: 14.3% (2023 est.)<br>
+_male_: 13.2% (2023 est.)<br>
+_female_: 15.6% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 38.3% (2019 est.)<br>

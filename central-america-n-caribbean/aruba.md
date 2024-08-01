@@ -287,8 +287,8 @@ _highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and 
 _judge selection and term of office_: Joint Court judges appointed for life by the monarch<br>
 _subordinate courts_: &nbsp;Court in First Instance<br>
 
-**Political parties and leaders**<br>
-Accion21 [Miguel MANSUR]<br>Aruban People's Party or AVP [Michiel "Mike" EMAN]<br>Democratic Network or RED [Ricardo CROES]<br>Movimiento Aruba Soberano (Aruban Sovereignty Movement) or MAS [Marisol LOPEZ-TROMP]<br>People's Electoral Movement Party or MEP [Evelyn WEVER-CROES]<br>Pueblo Orguyoso y Respeta or POR [Alan Howell]<br>RAIZ (ROOTS) [Ursell ARENDS]<br>
+**Political parties**<br>
+Accion21<br>Aruban People's Party or AVP<br>Democratic Network or RED<br>Movimiento Aruba Soberano (Aruban Sovereignty Movement) or MAS<br>People's Electoral Movement Party or MEP<br>Pueblo Orguyoso y Respeta or POR<br>RAIZ (ROOTS)<br>
 
 **International organization participation**<br>
 ACS (associate), Caricom (observer), FATF, ILO, IMF, Interpol, IOC, ITUC (NGOs), UNESCO (associate), UNWTO (associate), UPU<br>

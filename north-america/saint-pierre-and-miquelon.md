@@ -272,8 +272,8 @@ _highest court(s)_: Superior Tribunal of Appeals or Tribunal Superieur d'Appel (
 _judge selection and term of office_: judge selection and tenure NA<br>
 _subordinate courts_: NA<br>
 
-**Political parties and leaders**<br>
-Archipelago Tomorrow (Archipel Domain) or AD (affiliated with The Republicans)<br>Focus on the Future (Cap sur l'Avenir) [Annick GIRARDIN] (affiliated with Left Radical Party)<br>Together to Build (Ensemble pour Construire) [Karine CLAIREAUX]<br>
+**Political parties**<br>
+Archipelago Tomorrow (Archipel Domain) or AD (affiliated with The Republicans)<br>Focus on the Future (Cap sur l'Avenir) (affiliated with Left Radical Party)<br>Together to Build (Ensemble pour Construire)<br>
 
 **International organization participation**<br>
 UPU, WFTU (NGOs)<br>

@@ -346,8 +346,8 @@ _highest court(s)_: Supreme Court (consists of the president, deputy president, 
 _judge selection and term of office_: judges selected by the 9-member Judicial Selection Committee, consisting of the Minister of Justice (chair), the president of the Supreme Court, two other Supreme Court justices, 1 other Cabinet minister, 2 Knesset members, and 2 representatives of the Israel Bar Association; judges can serve up to mandatory retirement at age 70<br>
 _subordinate courts_: district and magistrate courts; national and regional labor courts; family and juvenile courts; special and Rabbinical courts<br>
 
-**Political parties and leaders**<br>
-Balad [Sami Abu SHEHADEH]<br>Blue and White [Benny GANTZ]<br>Hadash [Ayman ODEH]<br>Jewish Power (Otzma Yehudit) [Itamar Ben GVIR]<br>Labor Party or HaAvoda [Merav MICHAELI]<br>Likud [Binyamin NETANYAHU]<br>Meretz [vacant]<br>National Unity [alliance includes Blue and White and New Hope]<br>New Hope [Gideon SA'AR]<br>Noam [Avi MAOZ]<br>Religious Zionism [Bezalel SMOTRICH] (election alliance of Religious Zionist Party, Jewish Power (Otzma Yehudit), and Noam)<br>Religious Zionist Party [Bezalel SMOTRICH]<br>Shas [Aryeh DERI]<br>Ta'al [Ahmad TIBI]<br>United Arab List [Mansour ABBAS]<br>United Torah Judaism or UTJ [Moshe GAFNI] (alliance includes Agudat Israel and Degel HaTorah)<br>Yesh Atid [Yair LAPID]<br>Yisrael Beiteinu [Avigdor LIEBERMAN]<br>
+**Political parties**<br>
+Balad<br>Blue and White<br>Hadash<br>Jewish Power (Otzma Yehudit)<br>Labor Party or HaAvoda<br>Likud<br>Meretz<br>National Unity (alliance includes Blue and White and New Hope)<br>New Hope<br>Noam<br>Religious Zionism (election alliance of Religious Zionist Party, Jewish Power (Otzma Yehudit), and Noam)<br>Religious Zionist Party<br>Shas<br>Ta'al<br>United Arab List<br>United Torah Judaism or UTJ (alliance includes Agudat Israel and Degel HaTorah)<br>Yesh Atid<br>Yisrael Beiteinu<br>
 
 **International organization participation**<br>
 BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -460,9 +460,10 @@ high-technology products (including aviation, communications, computer-aided des
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.8% (2021 est.)<br>
-_male_: 8.4%<br>
-_female_: 9.2%<br>
+_total_: 6% (2023 est.)<br>
+_male_: 6.1% (2023 est.)<br>
+_female_: 5.9% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 22% (2014 est.)<br>

@@ -313,8 +313,8 @@ _highest court(s)_: regionally, the Eastern Caribbean Supreme Court (ECSC) is th
 _judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, and independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: magistrates' courts; Court of Magisterial Appeals<br>
 
-**Political parties and leaders**<br>
-National Democratic Congress or NDC [Dickon MITCHELL]<br>New National Party or NNP [Keith MITCHELL]<br>
+**Political parties**<br>
+National Democratic Congress or NDC<br>New National Party or NNP<br>
 
 **International organization participation**<br>
 ACP, ACS, AOSIS, CARIFORUM, CARIBCAN, Caricom, CBI, CDB, CELAC, CSME, ECCU, EPA, FAO, G-77, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, ITUC, LAES, MIGA, NAM, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>

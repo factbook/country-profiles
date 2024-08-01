@@ -350,8 +350,8 @@ _highest court(s)_: Supreme Court (consists of 12 justices, including the court 
 _judge selection and term of office_: judge candidates selected by an independent committee of several judicial commissions, followed by their recommendations to the prime minister, and appointed by the monarch; justices serve for life<br>
 _subordinate courts_: England and Wales: Court of Appeal (civil and criminal divisions); High Court; Crown Court; County Courts; Magistrates' Courts; Scotland: Court of Sessions; Sheriff Courts; High Court of Justiciary; tribunals; Northern Ireland: Court of Appeal in Northern Ireland; High Court; county courts; magistrates' courts; specialized tribunals<br>
 
-**Political parties and leaders**<br>
-Alliance Party or APNI (Northern Ireland) [Naomi LONG] <br>Conservative and Unionist Party [Rishi SUNAK]<br>Democratic Unionist Party or DUP (Northern Ireland) [Gavin ROBINSON]<br>Green Party of England and Wales or Greens [Carla DENYER and Adrian RAMSAY]<br>Labor (Labour) Party [Sir Keir STARMER]<br>Liberal Democrats (Lib Dems) [Sir Ed DAVEY]<br>Party of Wales (Plaid Cymru) [Rhun ap LORWERTH]<br>Reform UK [Nigel FARAGE]<br>Scottish National Party or SNP [John SWINNEY]<br>Sinn Fein (Northern Ireland) [Mary Lou MCDONALD]<br>Social Democratic and Labor Party or SDLP (Northern Ireland) [Colum EASTWOOD]<br>Traditional Unionist Voice or TUV [Jim ALLISTER]<br>UK Independence Party or UKIP [Neil HAMILTON]<br>Ulster Unionist Party or UUP (Northern Ireland) [Doug BEATTIE]<br>Workers Party of Great Britian [George GALLAWAY]<br>
+**Political parties**<br>
+Alliance Party or APNI (Northern Ireland) <br>Conservative and Unionist Party <br>Democratic Unionist Party or DUP (Northern Ireland) <br>Green Party of England and Wales or Greens <br>Labor (Labour) Party <br>Liberal Democrats (Lib Dems)<br>Party of Wales (Plaid Cymru) <br>Reform UK <br>Scottish National Party or SNP <br>Sinn Fein (Northern Ireland) <br>Social Democratic and Labor Party or SDLP (Northern Ireland) <br>Traditional Unionist Voice or TUV <br>UK Independence Party or UKIP <br>Ulster Unionist Party or UUP (Northern Ireland) <br>Workers Party of Great Britian<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, C, CBSS (observer), CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNOOSA, UNRWA, UN Security Council (permanent), UNSOM, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -462,9 +462,10 @@ machine tools, electric power equipment, automation equipment, railroad equipmen
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.2% (2021 est.)<br>
-_male_: 14.6%<br>
-_female_: 11.8%<br>
+_total_: 12.5% (2023 est.)<br>
+_male_: 14.5% (2023 est.)<br>
+_female_: 10.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 18.6% (2017 est.)<br>

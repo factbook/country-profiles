@@ -353,9 +353,9 @@ _highest court(s)_: People's Supreme Court (consists of the court president and 
 _judge selection and term of office_: president of People's Supreme Court appointed by the National Assembly upon the recommendation of the president of the republic for a 5-year term; vice presidents of the People's Supreme Court appointed by the president of the republic upon the recommendation of the National Assembly; appointment of chamber judges NA; tenure of court vice presidents and chamber judges NA<br>
 _subordinate courts_: appellate courts; provincial, municipal, district, and military courts<br>
 
-**Political parties and leaders**<br>
-Lao People's Revolutionary Party or LPRP [THONGLOUN Sisoulith]<br>
-<strong>note:</strong> other parties proscribed<br>
+**Political parties**<br>
+Lao People's Revolutionary Party or LPRP<br>
+<strong>note:</strong>  other parties proscribed<br>
 
 **International organization participation**<br>
 ADB, ARF, ASEAN, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IPU, ISO (subscriber), ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -463,9 +463,10 @@ mining (copper, tin, gold, gypsum); timber, electric power, agricultural process
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.3% (2021 est.)<br>
-_male_: 3.4%<br>
-_female_: 3.2%<br>
+_total_: 2.2% (2023 est.)<br>
+_male_: 2.3% (2023 est.)<br>
+_female_: 2.1% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 18.3% (2018 est.)<br>

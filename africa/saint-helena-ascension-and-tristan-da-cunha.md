@@ -271,7 +271,7 @@ _highest court(s)_: Court of Appeal (consists of the court president and 2 justi
 _judge selection and term of office_: Court of Appeal and Supreme Court justices appointed by the governor acting upon the instructions from a secretary of state acting on behalf of King CHARLES III; justices of both courts serve until retirement at age 70, but terms can be extended<br>
 _subordinate courts_: Magistrates' Court; Small Claims Court; Juvenile Court<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 none<br>
 
 **International organization participation**<br>

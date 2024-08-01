@@ -170,8 +170,8 @@ _highest court(s)_: Supreme Court of Norfolk Island (consists of the chief justi
 _judge selection and term of office_: justices appointed by the governor general of Australia from among justices of the Federal Court of Australia; justices serve until mandatory retirement at age 70<br>
 _subordinate courts_: Petty Court of Sessions; specialized courts, including a Coroner's Court and the Employment Tribunal<br>
 
-**Political parties and leaders**<br>
-Norfolk Island Labor Party [Mike KELLY]<br>Norfolk Liberals [John BROWN]<br>
+**Political parties**<br>
+Norfolk Island Labor Party <br>Norfolk Liberals <br>
 
 **International organization participation**<br>
 UPU<br>

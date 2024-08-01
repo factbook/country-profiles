@@ -347,8 +347,8 @@ _highest court(s)_: Supreme Court (consists of the chief justice, deputy chief j
 _judge selection and term of office_: Supreme Court chief justice appointed by the governor general upon advice of the National Executive Council (cabinet) after consultation with the National Justice Administration minister; deputy chief justice and other justices appointed by the Judicial and Legal Services Commission, a 5-member body that includes the Supreme Court chief and deputy chief justices, the chief ombudsman, and a member of the National Parliament; full-time citizen judges appointed for 10-year renewable terms; non-citizen judges initially appointed for 3-year renewable terms and after first renewal can serve until age 70; appointment and tenure of National Court resident judges NA<br>
 _subordinate courts_: district, village, and juvenile courts, military courts, taxation courts, coronial courts, mining warden courts, land courts, traffic courts, committal courts, grade five courts<br>
 
-**Political parties and leaders**<br>
-Destiny Party [Marsh NAREWEC]<br>Liberal Party [John PUNDARI]<br>Melanesian Alliance Party or MAP [Joseph YOPYYOPY]<br>Melanesian Liberal Party or MLP [Dr Allan MARAT]<br>National Alliance Party or NAP [Walter SCHNAUBELT]<br>Our Development Party or ODP [Puka TEMU]<br>Papua and Niugini Union Party or PANGU PATI [James MARAPE]<br>Papua New Guinea Greens Party [Richard MASERE]<br>Papua New Guinea National Party [Kerenga KUA]<br>Papua New Guinea Party or PNGP [Belden NAMAH]<br>People's First Party or PFP [Richard MARU]<br>People's Movement for Change or PMC [Gary JUFFA]<br>People's National Congress Party or PNC [Peter Paire O'NEILL]<br>People’s National Party [Kerenga KUA]<br>People's Party or PP [Dr Lino TOM]<br>People's Progress Party or PPP [Sir Julius CHAN]<br>People's Reform Party or PRP [James DONALD]<br>PNG Party [Belden NAMAH]<br>Social Democratic Party or SDP [Powes PARKOP]<br>Triumph Heritage Empowerment Party or THE [Don POLYE]<br>United Labor Party or ULP [Koni IGUAN]<br>United Resources Party or URP [William DUMA]<br>
+**Political parties**<br>
+Destiny Party <br>Liberal Party <br>Melanesian Alliance Party or MAP <br>Melanesian Liberal Party or MLP <br>National Alliance Party or NAP <br>Our Development Party or ODP <br>Papua and Niugini Union Party or PANGU PATI <br>Papua New Guinea Greens Party <br>Papua New Guinea National Party <br>Papua New Guinea Party or PNGP <br>People's First Party or PFP <br>People's Movement for Change or PMC <br>People's National Congress Party or PNC <br>People’s National Party <br>People's Party or PP <br>People's Progress Party or PPP <br>People's Reform Party or PRP <br>PNG Party <br>Social Democratic Party or SDP <br>Triumph Heritage Empowerment Party or THE <br>United Labor Party or ULP <br>United Resources Party or URP <br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, APEC, ARF, ASEAN (observer), C, CD, CP, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -455,9 +455,10 @@ oil and gas; mining (gold, copper, and nickel); palm oil processing; plywood and
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.3% (2021 est.)<br>
-_male_: 6.3%<br>
-_female_: 4.2%<br>
+_total_: 3.7% (2023 est.)<br>
+_male_: 4.5% (2023 est.)<br>
+_female_: 2.9% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 37% (2002 est.)<br>

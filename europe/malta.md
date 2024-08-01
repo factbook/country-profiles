@@ -334,8 +334,8 @@ _highest court(s)_: Court of Appeal (consists of either 1 or 3 judges); Constitu
 _judge selection and term of office_: Court of Appeal and Constitutional Court judges appointed by the president, usually upon the advice of the prime minister; judges of both courts serve until age 65<br>
 _subordinate courts_: Civil Court (divided into the General Jurisdiction Section, Family Section, and Voluntary Section); Criminal Court; Court of Magistrates; Gozo Courts (for the islands of Gozo and Comino)<br>
 
-**Political parties and leaders**<br>
-AD+PD or ADPD [Carmel CACOPARDO] (formed from the merger of Democratic Alternative or AD and Democratic Party (Partit Demokratiku) or PD)<br>Labor Party (Partit Laburista) or PL [Robert ABELA]<br>Nationalist Party (Partit Nazzjonalista) or PN [Bernard GRECH]<br>
+**Political parties**<br>
+AD+PD or ADPD (formed from the merger of Democratic Alternative or AD and Democratic Party (Partit Demokratiku) or PD)<br>Labor Party (Partit Laburista) or PL <br>Nationalist Party (Partit Nazzjonalista) or PN <br>
 
 **International organization participation**<br>
 Australia Group, C, CD, CE, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO (partner), NSG, OAS (observer), OPCW, OSCE, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, Union Latina (observer), UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
@@ -443,9 +443,10 @@ tourism, electronics, ship building and repair, construction, food and beverages
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.8% (2021 est.)<br>
-_male_: 13.6%<br>
-_female_: 5.8%<br>
+_total_: 9.3% (2023 est.)<br>
+_male_: 13.8% (2023 est.)<br>
+_female_: 4.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 16.7% (2021 est.)<br>

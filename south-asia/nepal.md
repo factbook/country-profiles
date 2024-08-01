@@ -354,8 +354,8 @@ _highest court(s)_: Supreme Court (consists of the chief justice and up to 20 ju
 _judge selection and term of office_: Supreme Court chief justice appointed by the president upon the recommendation of the Constitutional Council, a 5-member, high-level advisory body headed by the prime minister; other judges appointed by the president upon the recommendation of the Judicial Council, a 5-member advisory body headed by the chief justice; the chief justice serves a 6-year term; judges serve until age 65<br>
 _subordinate courts_: High Court; district courts<br>
 
-**Political parties and leaders**<br>
-<p>Communist Party of Nepal (Maoist Centre) or CPN-MC [Pushpa Kamal DAHAL]<br>Communist Party of Nepal (Unified Marxist-Leninist) or CPN-UML [Khadga Prasad OLI]<br>Communist Party of Nepal (Unified Socialist) or CPN-US [Madhav Kumar NEPAL]<br>Janamat Party [Chandra Kant RAUT]<br>Janata Samajbaadi Party or JSP [Upendra YADAV]<br>Loktantrik Samajwadi Party or LSP [Mahantha THAKUR]<br>Naya Shakti Party, Nepal [Baburam BHATTARAI]<br>Nepali Congress or NC [Sher Bahadur DEUBA]<br>Nepal Mazdoor Kisan Party (Nepal Workers' and Peasants' Party) or NWPP [Narayan Man BIJUKCHHE]<br>Rastriya Janamorcha (National People's Front) [Chitra Bahadur K.C.]<br>Rastriya Prajatantra Party (National Democratic Party) or RPP [Rajendra Prasad LINGDEN]<br>Rastriya Swatantra Party or RSP [Rabi LAMICHHANE]</p><br>
+**Political parties**<br>
+<p>Communist Party of Nepal (Maoist Centre) or CPN-MC<br>Communist Party of Nepal (Unified Marxist-Leninist) or CPN-UML<br>Communist Party of Nepal (Unified Socialist) or CPN-US<br>Janamat Party<br>Janata Samajbaadi Party or JSP<br>Loktantrik Samajwadi Party or LSP<br>Naya Shakti Party, Nepal<br>Nepali Congress or NC<br>Nepal Mazdoor Kisan Party (Nepal Workers' and Peasants' Party) or NWPP<br>Rastriya Janamorcha (National People's Front)<br>Rastriya Prajatantra Party (National Democratic Party) or RPP<br>Rastriya Swatantra Party or RSP</p><br>
 
 **International organization participation**<br>
 ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNDOF, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -460,9 +460,10 @@ tourism, carpets, textiles; small rice, jute, sugar, and oilseed mills; cigarett
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.5% (2021 est.)<br>
-_male_: 10.6%<br>
-_female_: 8.6%<br>
+_total_: 20.4% (2023 est.)<br>
+_male_: 18.7% (2023 est.)<br>
+_female_: 23.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 25.2% (2011 est.)<br>

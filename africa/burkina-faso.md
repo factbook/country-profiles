@@ -361,8 +361,8 @@ _highest court(s)_: Supreme Court of Appeals or Cour de Cassation (consists of N
 _judge selection and term of office_: Supreme Court judge appointments mostly controlled by the president of Burkina Faso; judges have no term limits; Council of State judge appointment and tenure NA; Constitutional Council judges appointed by the president of Burkina Faso upon the proposal of the minister of justice and the president of the National Assembly; judges appointed for 9-year terms with one-third of membership renewed every 3 years<br>
 _subordinate courts_: Appeals Court; High Court; first instance tribunals; district courts; specialized courts relating to issues of labor, children, and juveniles; village (customary) courts<br>
 
-**Political parties and leaders**<br>
-Act Together [Kadre OUEDRAOGO]<br>African Democratic Rally/Alliance for Democracy and Federation or ADF/RDA [Gilbert Noel OUEDRAOGO]<br>Congress for Democracy and Progress or CDP [Eddie KOMBOIGO]<br>Convergence for Progress and Solidarity-Generation 3 or CPS-G3<br>Movement for the Future Burkina Faso or MBF<br>National Convention for Progress or CNP<br>New Era for Democracy or NTD [Vincent DABILGOU]<br>Pan-African Alliance for Refoundation or APR<br>Party for Democracy and Socialism/Metba or PDS/Metba [Philippe OUEDRAOGO]<br>Party for Development and Change or PDC [Aziz SEREME]<br>Patriotic Rally for Integrity or RPI<br>Peoples Movement for Progress or MPP [Roch Marc Christian KABORE]<br>Progressives United for Renewal or PUR<br>Union for Progress and Reform or UPC [Zephirin DIABRE]<br>Union for Rebirth - Sankarist Party or UNIR-PS [Benewende Stanislas SANKARA]<br>
+**Political parties**<br>
+Act Together<br>African Democratic Rally/Alliance for Democracy and Federation or ADF/RDA<br>Congress for Democracy and Progress or CDP<br>Convergence for Progress and Solidarity-Generation 3 or CPS-G3<br>Movement for the Future Burkina Faso or MBF<br>National Convention for Progress or CNP<br>New Era for Democracy or NTD<br>Pan-African Alliance for Refoundation or APR<br>Party for Democracy and Socialism/Metba or PDS/Metba<br>Party for Development and Change or PDC<br>Patriotic Rally for Integrity or RPI<br>Peoples Movement for Progress or MPP<br>Progressives United for Renewal or PUR<br>Union for Progress and Reform or UPC<br>Union for Rebirth - Sankarist Party or UNIR-PS<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU (suspended), CD, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNITAR, UNMISS, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -470,9 +470,10 @@ cotton lint, beverages, agricultural processing, soap, cigarettes, textiles, gol
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.7% (2021 est.)<br>
-_male_: 7.5%<br>
-_female_: 8%<br>
+_total_: 8% (2023 est.)<br>
+_male_: 7.6% (2023 est.)<br>
+_female_: 8.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 43.2% (2021 est.)<br>

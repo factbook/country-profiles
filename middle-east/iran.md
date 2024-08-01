@@ -346,9 +346,9 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: Supreme Leader Ali Hoseini-KHAMENEI (since 4 June 1989)<br>
-_head of government_: President-elect Masoud PEZESHKIAN (assumes office on 30 July 2024)<br>
+_head of government_: President Masoud PEZESHKIAN (assumed office on 30 July 2024)<br>
 _cabinet_: Council of Ministers selected by the president with legislative approval; the supreme leader has some control over appointments to several ministries<br>
-_elections/appointments_: supreme leader appointed for life by Assembly of Experts; president directly elected by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term and an additional nonconsecutive term); election last held on 28 June 2024 first round (runoff to be held on 5 July 2024)<br>
+_elections/appointments_: supreme leader appointed for life by Assembly of Experts; president directly elected by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term and an additional nonconsecutive term); election last held on 28 June 2024 first round (runoff held on 5 July 2024)<br>
 _election results_: <em><br>2024: </em>first round results - Masoud PEZESHKIAN (independent) 44.4%, Saeed JALILI (Front of Islamic Revolution Stability) 40.4%, Mohammad Baqer QAKIBAF (Progress and Justice Population of Islamic Iran) 14.3%, other 0.9%; second round results - Masoud PEZESHKIAN elected; Masoud PEZESHKIAN 54.8%, Saeed JALILI 45.2%<br><em><br>2021:</em> Ebrahim RAISI elected president; percent of vote - Ebrahim RAISI (independent) 72.4%, Mohsen REZAI (RFII) 13.8%, Abbdolnaser HEMATI (ECP) 9.8%, Amir-Hosein Qazizadeh-HASHEMI (Islamic Law Party) 4%<br>
 <strong>Note: </strong>presidential election held early due to the death of President Ebrahim RAISI in a helicopter accident in May 2024<br>
 
@@ -362,8 +362,8 @@ _highest court(s)_: Supreme Court (consists of the chief justice and organized i
 _judge selection and term of office_: Supreme Court president appointed by the head of the High Judicial Council (HJC), a 5-member body to include the Supreme Court chief justice, the prosecutor general, and 3 clergy, in consultation with judges of the Supreme Court; president appointed for a single, renewable 5-year term; other judges appointed by the HJC; judge tenure NA<br>
 _subordinate courts_: Penal Courts I and II; Islamic Revolutionary Courts; Courts of Peace; Special Clerical Court (functions outside the judicial system and handles cases involving clerics); military courts<br>
 
-**Political parties and leaders**<br>
-Combatant Clergy Association [Mostafa PURMOHAMMADI] (an active political group)<br>Executives of Construction Party [Hossein MARASHI]<br>Front of Islamic Revolutionary Stability [Sadegh MAHSULI, secretary general]<br>Islamic Coalition Party [Asadollah BADAMCHIAN]<br>Progress and Justice Population of Islamic Iran [Mohammad Saeed AHDIAN]<br>Militant Clerics Society (Majma-e Ruhaniyoun-e Mobarez) or MRM [Mohammad Mousavi KHOEINIHA]<br>Moderation and Development Party [Hassan RUHANI] <br>National Trust Party (Hezb-e E'temad-eMelli) or HEM [Elias HAZRATI]<br>Progress and Justice Society [Mohammad Saeed AHADIAN]<br>Union of Islamic Iran People's Party (Hezb-e Ettehad-e Iran-e Eslami) [Azar MANSURI]<br>
+**Political parties**<br>
+Combatant Clergy Association (an active political group)<br>Executives of Construction Party<br>Front of Islamic Revolutionary Stability<br>Islamic Coalition Party<br>Progress and Justice Population of Islamic Iran<br>Militant Clerics Society (Majma-e Ruhaniyoun-e Mobarez) or MRM<br>Moderation and Development Party<br>National Trust Party (Hezb-e E'temad-eMelli) or HEM<br>Progress and Justice Society<br>Union of Islamic Iran People's Party (Hezb-e Ettehad-e Iran-e Eslami)<br>
 
 **International organization participation**<br>
 BRICS, CICA, CP, D-8, ECO, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OPEC, PCA, SAARC (observer), SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
@@ -457,9 +457,10 @@ petroleum, petrochemicals, gas, fertilizer, caustic soda, textiles, cement and o
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.2% (2021 est.)<br>
-_male_: 24%<br>
-_female_: 41.7%<br>
+_total_: 22.8% (2023 est.)<br>
+_male_: 20% (2023 est.)<br>
+_female_: 35.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 18.7% (2007 est.)<br>

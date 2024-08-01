@@ -342,8 +342,8 @@ _highest court(s)_: Supreme Court (consists of the Senate with 36 judges); Const
 _judge selection and term of office_: Supreme Court judges nominated by chief justice and confirmed by the Saeima; judges serve until age 70, but term can be extended 2 years; Constitutional Court judges - 3 nominated by Saeima members, 2 by Cabinet ministers, and 2 by plenum of Supreme Court; all judges confirmed by Saeima majority vote; Constitutional Court president and vice president serve in their positions for 3 years; all judges serve 10-year terms; mandatory retirement at age 70<br>
 _subordinate courts_: district (city) and regional courts<br>
 
-**Political parties and leaders**<br>
-Development/For! or AP! [Daniels PAVLUTS, Ivars IJABS]<br>For Stability or S! [Aleksejs ROSLIKOVS]<br>Latvia First [Ainars SLESERS]<br>Latvian Green Party or LZP (Edgars TAVARS)<br>National Alliance "All For Latvia!"-"For Fatherland and Freedom/LNNK" or NA [Raivis DZINTARS] <br>New Unity or JV [Arturs Krišjānis KARINS]<br>Social Democratic Party "Harmony" or S [Janis URBANOVICS]<br>The Progressives or PRO [Kaspars BRISKENS]<br>Union of Greens and Farmers or ZZS [Aivars LEMBERGS]<br>United List or AS [Uldis PILENS] (electoral coalition including the Latvian Green Party or LZP, Latvian Association of Regions or LRA, Liepaja Party)<br>
+**Political parties**<br>
+Development/For! or AP!<br>For Stability or S!<br>For Latvia's Development LA<br>Harmony or S<br>Honor to Serve Riga! or GKR<br>Latvia First LPV<br>Latvian Green Party or LZP<br>National Alliance or NA<br>New Unity or JV<br>People, Land, Statehood TZV<br>Social Democratic Party "Harmony" or S<br>The Progressives or PRO<br>Union of Greens and Farmers or ZZS<br>United List or AS<br>We for Talsi and Municipality or MTuN<br>
 
 **International organization participation**<br>
 Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
@@ -452,9 +452,10 @@ processed foods, processed wood products, textiles, processed metals, pharmaceut
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.5% (2021 est.)<br>
-_male_: 12%<br>
-_female_: 19.6%<br>
+_total_: 12.5% (2023 est.)<br>
+_male_: 14.2% (2023 est.)<br>
+_female_: 10.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 22.5% (2022 est.)<br>

@@ -344,8 +344,8 @@ _highest court(s)_: Supreme Court (consists of the court president, 2 deputies, 
 _judge selection and term of office_: judges appointed by the Supreme Judicial Council, which is chaired by the president of the republic and includes 10 high-ranking judicial officers; judges serve for life with mandatory retirement at age 65<br>
 _subordinate courts_: appeal courts; district or first instance courts; commercial courts<br>
 
-**Political parties and leaders**<br>
-General People’s Congress or GPC (3 factions: pro-Hadi [Abdrabbi Mansur HADI], pro-Houthi [Sadeq Ameen Abu RAS], pro-Salih [Ahmed SALIH]<br>Nasserist Unionist People's Organization [Abdulmalik al-MEKHLAFI]<br>National Arab Socialist Ba'ath Party [Qassem Salam SAID]<br>Southern Transitional Council or STC [Aydarus Qasim al-ZUBAYDI] <br>Yemeni Reform Grouping or Islah [Muhammed Abdallah al-YADUMI]<br>Yemeni Socialist Party or YSP [Dr. Abd al-Rahman Umar al-SAQQAF]<br>
+**Political parties**<br>
+General People’s Congress or GPC (3 factions: pro-Hadi, pro-Houthi, pro-Salih)<br>Nasserist Unionist People's Organization<br>National Arab Socialist Ba'ath Party<br>Southern Transitional Council or STC<br>Yemeni Reform Grouping or Islah<br>Yemeni Socialist Party or YSP<br>
 
 **International organization participation**<br>
 AFESD, AMF, CAEU, CD, EITI (temporarily suspended), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMHA, UNMIL, UNMIS, UNOCI, UNVIM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -449,9 +449,10 @@ crude oil production and petroleum refining; small-scale production of cotton te
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.5% (2021 est.)<br>
-_male_: 24.3%<br>
-_female_: 36.3%<br>
+_total_: 32.7% (2023 est.)<br>
+_male_: 32.1% (2023 est.)<br>
+_female_: 38.4% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 48.6% (2014 est.)<br>

@@ -378,8 +378,8 @@ _highest court(s)_: Supreme Court (consists of 16 judges and divided into civil,
 _judge selection and term of office_: justices proposed by the National Board of Justice (a 7-member independent body), nominated by the president, and confirmed by the Congress; justices can serve until mandatory retirement at age 70<br>
 _subordinate courts_: Court of Constitutional Guarantees; Superior Courts or Cortes Superiores; specialized civil, criminal, and mixed courts; 2 types of peace courts in which professional judges and selected members of the local communities preside<br>
 
-**Political parties and leaders**<br>
-<p>Advance the Nation (Avanza País) or AvP [Aldo BORRERO Zeta]<br>Alliance for Progress (Alianza para el Progreso) or APP [Cesar ACUNA Peralta] <br>Broad Front (Frente Amplio) or FA [Marco ARANA]<br>Free Peru (Perú Libre) or PL [Vladimir CERRON Rojas]<br>Front for Hope (Frente Esperanza) [Fernando OLIVERA Vega]<br>Magisterial Block of National Concentration (Bloque Magisterial de Concertación Nacional) or BMCN [Álex PAREDES]<br>National Victory (Victoria Nacional) or VN [George FORSYTH Sommer]<br>Peru Bicentennial (Perú Bicentenario) or PB [Jorge MARTICORENA]<br>Popular Action (Acción Popular) or AP [Mesias GUEVARA Amasifuen]<br>Popular Force (Fuerza Popular) or FP [Keiko FUJIMORI Higuchi]<br>Popular Renewal (Renovación Popular) or RP [Rafael LOPEZ ALIAGA]<br>Purple Party (Partido Morado) [Luis DURAN Rojo]<br>Social Integration Party (Avanza País - Partido de Integración Social) [Aldo BORRERO]<br>Together For Perú (Juntos por el Peru) or JP [Robert SANCHEZ Palomino]<br>We Are Peru (Somos Perú) of SP [Patricia LI]<br>We Can Peru (Podemos Perú) or PP [Jose Leon LUNA Galvez]</p><br>
+**Political parties**<br>
+<p>Advance the Nation (Avanza País) or AvP<br>Alliance for Progress (Alianza para el Progreso) or APP<br>Broad Front (Frente Amplio) or FA<br>Free Peru (Perú Libre) or PL<br>Front for Hope (Frente Esperanza)<br>Magisterial Block of National Concentration (Bloque Magisterial de Concertación Nacional) or BMCN<br>National Victory (Victoria Nacional) or VN<br>Peru Bicentennial (Perú Bicentenario) or PB<br>Popular Action (Acción Popular) or AP<br>Popular Force (Fuerza Popular) or FP<br>Popular Renewal (Renovación Popular) or RP<br>Purple Party (Partido Morado)<br>Social Integration Party (Avanza País - Partido de Integración Social)<br>Together For Perú (Juntos por el Peru) or JP<br>We Are Peru (Somos Perú) of SP<br>We Can Peru (Podemos Perú) or PP</p><br>
 
 **International organization participation**<br>
 AIIB, APEC, BIS, CAN, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, SICA (observer), UN, UNAMID, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMISS, UNOCI, UNOOSA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -489,9 +489,10 @@ mining and refining of minerals; steel, metal fabrication; petroleum extraction 
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.2% (2021 est.)<br>
-_male_: 9.2%<br>
-_female_: 13.2%<br>
+_total_: 8.8% (2023 est.)<br>
+_male_: 7.8% (2023 est.)<br>
+_female_: 10% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 27.5% (2022 est.)<br>

@@ -252,8 +252,8 @@ _highest court(s)_: Guernsey Court of Appeal (consists of the Bailiff of Guernse
 _judge selection and term of office_: Royal Court Bailiff, Deputy Bailiff, and Court of Appeal justices appointed by the British Crown and hold office at Her Majesty's pleasure; jurats elected by the States of Election, a body chaired by the Bailiff and a number of jurats<br>
 _subordinate courts_: Court of Alderney; Court of the Seneschal of Sark; Magistrates' Court (includes Juvenile Court); Contracts Court; Ecclesiastical Court; Court of Chief Pleas<br>
 
-**Political parties and leaders**<br>
-Alliance Party Guernsey or APG [Barry WEIR]<br>Guernsey Partnership of Independents or GPI [Gavin ST PIER]<br>Guernsey Party or GP [Mark HEYLAR]<br>
+**Political parties**<br>
+Alliance Party Guernsey or APG <br>Guernsey Partnership of Independents or GPI <br>Guernsey Party or GP <br>
 
 **International organization participation**<br>
 UPU<br>
@@ -325,9 +325,10 @@ tourism, banking<br>
 <b>note:</b> % of labor force seeking employment; entry includes Jersey and Guernsey<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.8% (2021 est.)<br>
-_male_: 15.9%<br>
-_female_: 15.6%<br>
+_total_: 13.5% (2023 est.)<br>
+_male_: 13.7% (2023 est.)<br>
+_female_: 13.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Budget**<br>
 _revenues_: $563.6 million (2005)<br>

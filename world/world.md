@@ -345,9 +345,10 @@ _imports of goods and services_: -28.3% (2017 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.9% (2021 est.)<br>
-_male_: 17.3%<br>
-_female_: 19.7%<br>
+_total_: 13.8% (2023 est.)<br>
+_male_: 13.4% (2023 est.)<br>
+_female_: 15.4% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 37.9 (2012 est.)<br>

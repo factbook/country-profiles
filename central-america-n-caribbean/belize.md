@@ -335,8 +335,8 @@ _highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal
 _judge selection and term of office_: Court of Appeal president and justices appointed by the governor-general upon advice of the prime minister after consultation with the National Assembly opposition leader; justices' tenures vary by terms of appointment; Supreme Court chief justice appointed by the governor-general upon the advice of the prime minister and the National Assembly opposition leader; other judges appointed by the governor-general upon the advice of the Judicial and Legal Services Section of the Public Services Commission and with the concurrence of the prime minister after consultation with the National Assembly opposition leader; judges can be appointed beyond age 65 but must retire by age 75; in 2013, the Supreme Court chief justice overturned a constitutional amendment that had restricted Court of Appeal judge appointments to as short as 1 year<br>
 _subordinate courts_: Magistrates' Courts; Family Court<br>
 
-**Political parties and leaders**<br>
-Belize People’s Front or BPF [Nefretery Nancy MARIN]<br>Belize Progressive Party or BPP [Wil MAHEIA] (formed in 2015 from a merger of the People's National Party, elements of the Vision Inspired by the People, and other smaller political groups)<br>People's United Party or PUP [John BRICENO]<br>United Democratic Party or UDP [Moses “Shyne” BARROW and Hugo PATT]<br>Vision Inspired by the People or VIP [Hubert ENRIQUEZ]<br>
+**Political parties**<br>
+Belize People’s Front or BPF<br>Belize Progressive Party or BPP (formed in 2015 from a merger of the People's National Party, elements of the Vision Inspired by the People, and other smaller political groups)<br>People's United Party or PUP<br>United Democratic Party or UDP<br>Vision Inspired by the People or VIP<br>
 
 **International organization participation**<br>
 ACP, ACS, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -446,9 +446,10 @@ garment production, food processing, tourism, construction, oil<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.3% (2021 est.)<br>
-_male_: 12.2%<br>
-_female_: 31.9%<br>
+_total_: 17.4% (2023 est.)<br>
+_male_: 12.1% (2023 est.)<br>
+_female_: 26.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 41% (2013 est.)<br>

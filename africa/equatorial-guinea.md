@@ -322,8 +322,8 @@ _highest court(s)_: Supreme Court of Justice (consists of the President of the S
 _judge selection and term of office_: Supreme Court judges appointed by the president for five-year terms; Constitutional Court members appointed by the president, 2 of whom are nominated by the Chamber of Deputies; note - judges subject to dismissal by the president at any time<br>
 _subordinate courts_: Court of Guarantees; military courts; Courts of Appeal; first instance tribunals; district and county tribunals<br>
 
-**Political parties and leaders**<br>
-Center Right Union or UCD [Avelino MOCACHE Mehenga]<br>Convergence Party for Social Democracy or CPDS [Andres ESONO ONDO]<br>Democratic Party for Equatorial Guinea or PDGE [OBIANG NGUEMA MBASOGO and Jeronimo OSA OSA Ecoro ]<br>Liberal Democratic Convention or CLD [Alfonso Nsue MOKUY]<br>Liberal Party or PL [Salvador NGUEMA MANGUE]<br>National Congress of Equatorial Guinea (CNGE) [Agustin MASOKO Abegue]<br>National Democratic Party (PNDGE) [Celestino MBOMIO AKIEME]<br>National Democratic Union or UDENA [Deogracias Dueberibe EDU]<br>National Union for Democracy PUNDGE [vacant]<br>Popular Action of Equatorial Guinea or APGE [Edouardo MBA BACALE]<br>Popular Union or UP [Alfredo Mitogo MITOGO ADE]<br>Progressive Democratic Alliance or ADP [Francisco Mba OLO BAHAMONDE]<br>Social and Popular Convergence Party or CSDP [Deogracias KUNG NSUE]<br>Social Democratic Coalition Party (PCSD) [Buenaventura MONSUY ASUMU]<br>Social Democratic Party of Equatorial Guinea or PSDGE [Marcos NZE MABALE]<br>Social Democratic Union or UDS [Miguel MBA NZANG]<br>Socialist Party of Equatorial Guinea [Jusus Pablo OYONO]<br><br>
+**Political parties**<br>
+Center Right Union or UCD<br>Convergence Party for Social Democracy or CPDS <br>Democratic Party for Equatorial Guinea or PDGE <br>Liberal Democratic Convention or CLD <br>Liberal Party or PL <br>National Congress of Equatorial Guinea (CNGE) <br>National Democratic Party (PNDGE) <br>National Democratic Union or UDENA <br>National Union for Democracy PUNDGE <br>Popular Action of Equatorial Guinea or APGE <br>Popular Union or UP <br>Progressive Democratic Alliance or ADP <br>Social and Popular Convergence Party or CSDP <br>Social Democratic Coalition Party (PCSD) <br>Social Democratic Party of Equatorial Guinea or PSDGE <br>Social Democratic Union or UDS <br>Socialist Party of Equatorial Guinea <br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, CEMAC, CPLP, FAO, Francophonie, FZ, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, ITSO, ITU, MIGA, NAM, OAS (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WHO, WIPO, WTO (observer)<br>
@@ -422,9 +422,10 @@ petroleum, natural gas, sawmilling<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.3% (2021 est.)<br>
-_male_: 17.1%<br>
-_female_: 19.9%<br>
+_total_: 16.4% (2023 est.)<br>
+_male_: 15.1% (2023 est.)<br>
+_female_: 17.8% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 44% (2011 est.)<br>

@@ -352,8 +352,8 @@ _highest court(s)_: Supreme Court (consists of 19 judges, including the chief ju
 _judge selection and term of office_: Supreme Court judges appointed by the High Judicial Council with the consent of the president&nbsp;to serve single 9-year terms; Supreme Court chairman&nbsp;is elected for a single 3-year term by the court members; appointments of Constitutional Court judges are rotated among the president, Parliament, and Supreme Court from a list of pre-qualified candidates (each institution selects 3 judges), to serve single 9-year terms; candidates are pre-qualified by a randomly selected body of experienced judges and prosecutors; Constitutional Court chairman is elected by the court members for a single, renewable 3-year term<br>
 _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized courts: Court for Corruption and Organized Crime, Appeals Court for Corruption and Organized Crime (responsible for corruption, organized crime, and crimes of high officials)<br>
 
-**Political parties and leaders**<br>
-Alliance for Change (electoral coalition led by PD)<br>Democratic Party or PD [Lulzim BASHA]<br>Party for Justice, Integration and Unity or PDIU [Shpetim IDRIZI] (part of the Alliance for Change))<br>Social Democratic Party or PSD [Tom DOSHI]<br>Freedom Party of Albania or PL [Ilir META] (formerly the Socialist Movement for Integration or LSI)<br>Socialist Party or PS [Edi RAMA]<br>
+**Political parties**<br>
+Alliance for Change (electoral coalition led by PD)<br>Democratic Party or PD <br>Party for Justice, Integration and Unity or PDIU (part of the Alliance for Change)<br>Social Democratic Party or PSD<br>Freedom Party of Albania or PL (formerly the Socialist Movement for Integration or LSI)<br>Socialist Party or PS <br>
 
 **International organization participation**<br>
 BSEC, CD, CE, CEI, EAPC, EBRD, EITI (compliant country), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIC, OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -463,9 +463,10 @@ food; footwear, apparel and clothing; lumber, oil, cement, chemicals, mining, ba
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.8% (2021 est.)<br>
-_male_: 28%<br>
-_female_: 27.6%<br>
+_total_: 28.2% (2023 est.)<br>
+_male_: 29.1% (2023 est.)<br>
+_female_: 27% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 22% (2020 est.)<br>

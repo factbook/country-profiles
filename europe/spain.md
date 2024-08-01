@@ -354,8 +354,8 @@ _highest court(s)_: Supreme Court or Tribunal Supremo (consists of the court pre
 _judge selection and term of office_: Supreme Court judges appointed by the monarch from candidates proposed by the General Council of the Judiciary Power, a 20-member governing board chaired by the monarch that includes presidential appointees, lawyers, and jurists confirmed by the National Assembly; judges can serve until age 70; Constitutional Court judges nominated by the National Assembly, executive branch, and the General Council of the Judiciary, and appointed by the monarch for 9-year terms<br>
 _subordinate courts_: National High Court; High Courts of Justice (in each of the autonomous communities); provincial courts; courts of first instance<br>
 
-**Political parties and leaders**<br>
-Asturias Forum or FAC [Carmen MORIYON]<br>Basque Country Unite (Euskal Herria Bildu) or EH Bildu [Arnaldo OTEGI] (coalition of 4 Basque pro-independence parties)<br>Basque Nationalist Party or PNV or EAJ [Andoni ORTUZAR]<br>Canarian Coalition or CC [Fernando Clavijo BATLLE] (coalition of 5 parties)<br>Ciudadanos Party (Citizens Party) or Cs [Adrian Vazquez LAZARA]<br>Compromis - Compromise Coalition [Enric MORERA i Català]<br>Navarrese People's Union or UPN [Javier ESPARZA]<br>Together for Catalonia or Junts [Carles PUIGDEMONT]<br>People's Party or PP [Alberto Nunez FEIJOO]<br>Republican Left of Catalonia or ERC [Oriol JUNQUERAS]<br>Spanish Socialist Workers Party or PSOE [Pedro SANCHEZ]<br>Teruel Existe or TE [Tomas GUITARTE]<br>Unidas (Unite) or Sumar [Yolanda Diaz] (electoral coalition formed in March 2022) (formerly Unidas Podemos or UP)<br>Vox or VOX [Santiago ABASCAL]<br>
+**Political parties**<br>
+Asturias Forum or FAC <br>Basque Country Unite (Euskal Herria Bildu) or EH Bildu (coalition of 4 Basque pro-independence parties)<br>Basque Nationalist Party or PNV or EAJ <br>Canarian Coalition or CC (coalition of 5 parties)<br>Ciudadanos Party (Citizens Party) or Cs <br>Compromis - Compromise Coalition <br>Navarrese People's Union or UPN <br>Together for Catalonia or Junts <br>People's Party or PP <br>Republican Left of Catalonia or ERC <br>Spanish Socialist Workers Party or PSOE <br>Teruel Existe or TE <br>Unidas (Unite) or Sumar (electoral coalition formed in March 2022) (formerly Unidas Podemos or UP)<br>Vox or VOX<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BCIE, BIS, CABEI, CAN (observer), CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -467,9 +467,10 @@ textiles and apparel (including footwear), food and beverages, metals and metal 
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 36.9% (2021 est.)<br>
-_male_: 35.9%<br>
-_female_: 38.2%<br>
+_total_: 28.7% (2023 est.)<br>
+_male_: 28.8% (2023 est.)<br>
+_female_: 28.6% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 20.2% (2022 est.)<br>

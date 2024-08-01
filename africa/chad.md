@@ -91,10 +91,10 @@ _noun_: Chadian(s)<br>
 _adjective_: Chadian<br>
 
 **Ethnic groups**<br>
-Sara (Ngambaye/Sara/Madjingaye/Mbaye) 30.5%, Kanembu/Bornu/Buduma 9.8%, Arab 9.7%, Wadai/Maba/Masalit/Mimi 7%, Gorane 5.8%, Masa/Musseye/Musgum 4.9%, Bulala/Medogo/Kuka 3.7%, Marba/Lele/Mesme 3.5%, Mundang 2.7%, Bidiyo/Migaama/Kenga/Dangleat 2.5%, Dadjo/Kibet/Muro 2.4%, Tupuri/Kera 2%, Gabri/Kabalaye/Nanchere/Somrai 2%, Fulani/Fulbe/Bodore 1.8%, Karo/Zime/Peve 1.3%, Baguirmi/Barma 1.2%, Zaghawa/Bideyat/Kobe 1.1%, Tama/Assongori/Mararit 1.1%, Mesmedje/Massalat/Kadjakse 0.8%, other Chadian ethnicities 3.4%, Chadians of foreign ethnicities 0.9%, foreign nationals 0.3%, unspecified 1.7% (2014-15 est.)<br>
+Sara (Ngambaye/Sara/Madjingaye/Mbaye) 30.5%, Kanembu/Bornu/Buduma 9.8%, Arab 9.7%, Wadai/Maba/Masalit/Mimi 7%, Gorane 5.8%, Masa/Musseye/Musgum 4.9%, Bulala/Medogo/Kuka 3.7%, Marba/Lele/Mesme 3.5%, Mundang 2.7%, Bidiyo/Migaama/Kenga/Dangleat 2.5%, Dadjo/Kibet/Muro 2.4%, Tupuri/Kera 2%, Gabri/Kabalaye/Nanchere/Somrai 2%, Fulani/Fulbe/Bodore 1.8%, Karo/Zime/Peve 1.3%, Baguirmi/Barma 1.2%, Zaghawa/Bideyat/Kobe 1.1%, Tama/Assongori/Mararit 1.1%, Mesmedje/Massalat/Kadjakse 0.8%, other&nbsp; 4.6%, unspecified 1.7% (2014-15 est.)<br>
 
 **Languages**<br>
-French (official), Arabic (official), Sara (in south), more than 120 different languages and dialects<br>
+French (official), Arabic (official), Sara (in south), more than 120 languages and dialects<br>
 _major-language sample(s)_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -369,9 +369,9 @@ _highest court(s)_: Supreme Court (consists of the chief justice, 3 chamber pres
 _judge selection and term of office_: Supreme Court chief justice selected by the president; councilors - 8 designated by the president and 7 by the speaker of the National Assembly; chief justice and councilors appointed for life; Supreme Council of the Judiciary - with the exception of the Judiciary president and vice president, members are elected for single renewable 4-year terms<br>
 _subordinate courts_: High Court of Justice; Courts of Appeal; tribunals; justices of the peace<br>
 
-**Political parties and leaders**<br>
-Chadian Convention for Peace and Development or CTPD [Laoukein Kourayo MEDARD]<br>Federation Action for the Republic or FAR [Ngarledjy YORONGAR]<br>National Rally for Development and Progress or Viva-RNDP [Dr. Nouradine Delwa Kassire COUMAKOYE]<br>National Union for Democracy and Renewal or UNDR [Saleh KEBZABO]<br>Party for Unity and Reconstruction or PUR<br>Patriotic Salvation Movement or MPS [formerly Idriss DEBY] <br>Rally for Democracy and Progress or RDP [Mahamat Allahou TAHER]<br>Rally of Chadian Nationalists/Awakening or RNDT/Le Reveil [Albert Pahimi PADACKE]<br>Social Democratic Party for a Change-over of Power or PDSA [Malloum YOBODA]<br>Union for Democracy and the Republic or UDR<br>Union for Renewal and Democracy or URD [Felix Romadoumngar NIALBE]<br>Transformers [Succès MASRA]<br> <br><strong>note 1:</strong> 19 additional parties each contributed one member<strong><br></strong><br>
-<strong>note 2:</strong> on 5 October 2021, Interim President Mahamat Idriss DEBY appointed 93 members to the interim National Transitional Council (NTC); 30% of the NTC members were retained from parties previously represented in the National Assembly<br>
+**Political parties**<br>
+Chadian Convention for Peace and Development or CTPD<br>Federation Action for the Republic or FAR<br>National Rally for Development and Progress or Viva-RNDP<br>National Union for Democracy and Renewal or UNDR<br>Party for Unity and Reconstruction or PUR<br>Patriotic Salvation Movement or MPS <br>Rally for Democracy and Progress or RDP<br>Rally of Chadian Nationalists/Awakening or RNDT/Le Reveil<br>Social Democratic Party for a Change-over of Power or PDSA<br>Union for Democracy and the Republic or UDR<br>Union for Renewal and Democracy or URD<br>Transformers<strong><br></strong><br>
+<strong>note 1: </strong> 19 additional parties each contributed one member<br><strong><br>note 2: </strong> on 5 October 2021, Interim President Mahamat Idriss DEBY appointed 93 members to the interim National Transitional Council (NTC); 30% of the NTC members were retained from parties previously represented in the National Assembly<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MNJTF, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -410,7 +410,7 @@ _selected World Heritage Site locales_: Lakes of Ounianga (n); Ennedi Massif: Na
 ## Economy
 
 **Economic overview**<br>
-primarily oil-based economy, vulnerable to regional competition and international price shocks; increasing extreme poverty and minimal human capital capacities; one of the most environmentally disrupted economies; high maternal and infant mortality rates destabilizing labor force potentials<br>
+primarily oil-based economy, vulnerable to competition and price shocks; increasing extreme poverty and minimal human capital capacities; one of the most environmentally disrupted economies; high maternal/infant mortality rates destabilizing labor force potential<br>
 
 **Real GDP (purchasing power parity)**<br>
 $32.446 billion (2023 est.)<br>
@@ -475,9 +475,10 @@ oil, cotton textiles, brewing, natron (sodium carbonate), soap, cigarettes, cons
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 2.4% (2021 est.)<br>
-_male_: 3.3%<br>
-_female_: 1.4%<br>
+_total_: 1.5% (2023 est.)<br>
+_male_: 2.1% (2023 est.)<br>
+_female_: 0.7% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 42.3% (2018 est.)<br>

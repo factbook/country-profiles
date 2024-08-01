@@ -270,8 +270,8 @@ _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior c
 _judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, and independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: magistrate's court<br>
 
-**Political parties and leaders**<br>
-Movement for Change and Prosperity or MCAP [Easton Taylor FARRELL]<br>People's Democratic Movement or PDM [Paul LEWIS]<br>
+**Political parties**<br>
+Movement for Change and Prosperity or MCAP <br>People's Democratic Movement or PDM<br>
 
 **International organization participation**<br>
 Caricom, CDB, Interpol (subbureau), OECS, UPU<br>

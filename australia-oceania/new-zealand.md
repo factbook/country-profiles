@@ -345,8 +345,8 @@ _highest court(s)_: Supreme Court (consists of 5 justices, including the chief j
 _judge selection and term of office_: justices appointed by the governor-general upon the recommendation of the attorney- general; justices appointed until compulsory retirement at age 70<br>
 _subordinate courts_: Court of Appeal; High Court; tribunals and authorities; district courts; specialized courts for issues related to employment, environment, family, Maori lands, youth, military; tribunals<br>
 
-**Political parties and leaders**<br>
-ACT New Zealand [David SEYMOUR]<br>Green Party [Marama DAVIDSON and James SHAW]<br>New Zealand First Party or NZ First [Winston PETERS]<br>New Zealand Labor Party [Chris HIPKINS]<br>New Zealand National Party [Christopher LUXON]<br>Te Pāti Māori [Debbie NGAREWA-PACKER and Rawiri WAITITI]<br>
+**Political parties**<br>
+ACT New Zealand <br>Green Party <br>New Zealand First Party or NZ First <br>New Zealand Labor Party <br>New Zealand National Party <br>Te Pāti Māori <br>
 
 **International organization participation**<br>
 ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OECD, OPCW, Pacific Alliance (observer), Paris Club (associate), PCA, PIF, SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNOOSA, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -457,9 +457,10 @@ agriculture, forestry, fishing, logs and wood articles, manufacturing, mining, c
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.4% (2021 est.)<br>
-_male_: 12.2%<br>
-_female_: 10.6%<br>
+_total_: 10.7% (2023 est.)<br>
+_male_: 10.9% (2023 est.)<br>
+_female_: 10.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 36.2 (1997)<br>

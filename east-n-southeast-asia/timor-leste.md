@@ -344,8 +344,8 @@ _judge selection and term of office_: court president appointed by the president
 _subordinate courts_: Court of Appeal; High Administrative, Tax, and Audit Court; district courts; magistrates' courts; military courts<br>
 <strong>note:</strong> the UN Justice System Programme, launched in 2003 and being rolled out in 4 phases through 2018, is helping strengthen the country's justice system; the Programme is aligned with the country's long-range Justice Sector Strategic Plan, which includes legal reforms<br>
 
-**Political parties and leaders**<br>
-Democratic Party or PD [Mariano Assanami SABINO Lopes]<br>National Congress for Timorese Reconstruction or CNRT [Kay Rala Xanana GUSMAO]<br>National Unity of the Sons of Timor (Haburas Unidade Nasional Timor Oan or KHUNTO) [Armanda BERTA DOS SANTOS]<br>People's Liberation Party or PLP [Taur Matan RUAK]<br>Revolutionary Front of Independent Timor-Leste or FRETILIN [Franciso GUTERRES]<br>
+**Political parties**<br>
+Democratic Party or PD <br>National Congress for Timorese Reconstruction or CNRT <br>National Unity of the Sons of Timor (Haburas Unidade Nasional Timor Oan or KHUNTO) <br>People's Liberation Party or PLP <br>Revolutionary Front of Independent Timor-Leste or FRETILIN<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, ARF, ASEAN (observer), CPLP, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OPCW, PIF (observer), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WMO<br>
@@ -444,9 +444,10 @@ printing, soap manufacturing, handicrafts, woven cloth<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.8% (2021 est.)<br>
-_male_: 11.4%<br>
-_female_: 16.8%<br>
+_total_: 3.2% (2023 est.)<br>
+_male_: 3.1% (2023 est.)<br>
+_female_: 3.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 41.8% (2014 est.)<br>

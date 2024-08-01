@@ -276,8 +276,8 @@ _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior c
 _judge selection and term of office_: Eastern Caribbean Supreme Court chief justice appointed by His Majesty, King Charles III; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: Magistrates' Courts<br>
 
-**Political parties and leaders**<br>
-National Democratic Party or NDP [Marlon PENN]<br>Progressive Virgin Islands Movement or PVIM [Ronnie SKELTON]<br>Progressives United or PU [Julian FRASER]<br>Virgin Islands Party or VIP [Natalio WHEATLEY]<br>
+**Political parties**<br>
+National Democratic Party or NDP<br>Progressive Virgin Islands Movement or PVIM<br>Progressives United or PU<br>Virgin Islands Party or VIP<br>
 
 **International organization participation**<br>
 ACS (associate), Caricom (associate), CDB, Interpol (subbureau), IOC, OECS, UNESCO (associate), UPU<br>

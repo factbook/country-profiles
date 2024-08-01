@@ -360,8 +360,8 @@ _highest court(s)_: Supreme Court or Sad Najwyzszy (consists of the first presid
 _judge selection and term of office_: president of the Supreme Court nominated by the General Assembly of the Supreme Court and selected by the president of Poland; other judges nominated by the 25-member National Judicial Council and appointed by the president of Poland; judges serve until retirement, usually at age 65, but tenure can be extended; Constitutional Tribunal judges chosen by the Sejm for single 9-year terms<br>
 _subordinate courts_: administrative courts; military courts; local, regional and appellate courts subdivided into military, civil, criminal, labor, and family courts<br>
 
-**Political parties and leaders**<br>
-Agreement [Jaroslaw GOWIN]<br>Civic Platform or PO [Donald TUSK]<br>Konfederacja [Krzysztof BOSAK]<br>Law and Justice or PiS [Jaroslaw KACZYNSKI]<br>New Left or NL [Wlodzimierz CZARZASTY and Robert BIEDRON]<br>Poland 2050 [Szymon HOLOWNIA]<br>Polish People's Party or PSL [Wladyslaw KOSINIAK-KAMYSZ]<br>Republican Party or R [Adam BIELAN]<br>United Poland or SP [Zbigniew ZIOBRO]<br>
+**Political parties**<br>
+AGROunion or AU<br>Center for Poland or CdP<br>Civic Platform or PO<br>Confederation of the Polish Crown or KKP<br>Kukiz' 15 or K'15<br>Labor Union or UP<br>Law and Justice or PiS<br>Left Together or LR<br>Modern or .N<br>National Movement or NN<br>New Hope or RN<br>New Left or NL<br>Poland 2050 or PL2050<br>Polish Initiative or iPL<br>Polish People's Party or PSL<br>Polish Socialist Party or PPS<br>Renewal of the Republic of Poland or ON RP<br>Sovereign Poland or SP<br>The Greens or Zieloni<br>Union of European Democrats or UED<br>Yes! For Poland or T!DPL<br>
 
 **International organization participation**<br>
 Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMIL, UNMISS, UNOCI, UNOOSA, UN Security Council (temporary), UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -473,9 +473,10 @@ machine building, iron and steel, coal mining, chemicals, shipbuilding, food pro
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.4% (2021 est.)<br>
-_male_: 12.3%<br>
-_female_: 15%<br>
+_total_: 11.6% (2023 est.)<br>
+_male_: 12% (2023 est.)<br>
+_female_: 11.1% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 11.8% (2022 est.)<br>

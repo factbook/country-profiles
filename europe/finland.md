@@ -353,8 +353,8 @@ _highest court(s)_: Supreme Court or Korkein Oikeus (consists of the court presi
 _judge selection and term of office_: Supreme Court and Supreme Administrative Court judges appointed by the president of the republic; judges serve until mandatory retirement at age 68<br>
 _subordinate courts_: 6 Courts of Appeal; 8 regional administrative courts; 27 district courts; special courts for issues relating to markets, labor, insurance, impeachment, land, tenancy, and water rights<br>
 
-**Political parties and leaders**<br>
-Aland Coalition (a coalition of several political parties on the Aland Islands)<br>Center Party or Kesk [Annika SAARIKKO]<br>Christian Democrats or KD [Sari ESSAYAH]<br>Finns Party or PS [Riikka PURRA]<br>Green League or Vihr [Sofia VIRTA]<br>Left Alliance or Vas [Li ANDERSSON]<br>Movement Now or Liike Nyt [Harry HARKIMO]<br>National Coalition Party or Kok [Petteri ORPO]<br>Social Democratic Party or SDP [Antti LINDTMAN]<br>Swedish People's Party or RKP or SFP [Anna-Maja HENRIKSSON]<br>
+**Political parties**<br>
+Aland Coalition (a coalition of several political parties on the Aland Islands)<br>Center Party or Kesk <br>Christian Democrats or KD <br>Finns Party or PS <br>Green League or Vihr <br>Left Alliance or Vas <br>Movement Now or Liike Nyt <br>National Coalition Party or Kok <br>Social Democratic Party or SDP <br>Swedish People's Party or RKP or SFP <br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNOOSA, UNRWA, UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -464,9 +464,10 @@ metals and metal products, electronics, machinery and scientific instruments, sh
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.1% (2021 est.)<br>
-_male_: 19%<br>
-_female_: 17.1%<br>
+_total_: 15.9% (2023 est.)<br>
+_male_: 16.4% (2023 est.)<br>
+_female_: 15.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 12.2% (2022 est.)<br>

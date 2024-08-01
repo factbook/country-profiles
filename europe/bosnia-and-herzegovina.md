@@ -340,8 +340,8 @@ _highest court(s)_: Bosnia and Herzegovina (BiH) Constitutional Court (consists 
 _judge selection and term of office_: BiH Constitutional Court judges - 4 selected by the Federation of Bosnia and Herzegovina House of Representatives, 2 selected by the Republika Srpska's National Assembly, and 3 non-Bosnian judges selected by the president of the European Court of Human Rights; Court of BiH president and national judges appointed by the High Judicial and Prosecutorial Council; Court of BiH president appointed for renewable 6-year term; other national judges appointed to serve until age 70; international judges recommended by the president of the Court of BiH and appointed by the High Representative for Bosnia and Herzegovina; international judges appointed to serve until age 70<br>
 _subordinate courts_: the Federation has 10 cantonal courts plus a number of municipal courts; the Republika Srpska has a supreme court, 5 district courts, and a number of municipal courts<br>
 
-**Political parties and leaders**<br>
-Alliance of Independent Social Democrats or SNSD [Milorad DODIK]<br>Bosnian-Herzegovinian Initiative or BHI KF [Fuad KASUMOVIC]<br>Civic Alliance or GS [Reuf BAJROVIC]<br>Croatian Democratic Union of Bosnia and Herzegovina or HDZ-BiH [Dragan COVIC]<br>Democratic Front or DF [Zeljko KOMSIC]<br>Democratic Union or DEMOS [Nedeljko CUBRILOVIC]<br>For Justice and Order [Nebojsa VUKANOVIC]<br>Our Party or NS/HC [Edin FORTO]<br>Party for Democratic Action or SDA [Bakir IZETBEGOVIC]<br>Party of Democratic Progress or PDP [Branislav BORENOVIC]<br>People and Justice Party or NiP [Elmedin KONAKOVIC]<br>People's European Union of Bosnia and Herzegovina or NES [Nermin OGRESEVIC]<br>Serb Democratic Party or SDS [Milan MILICEVIC]<br>Social Democratic Party or SDP [Nermin NIKSIC]<br>United Srpska or US [Nenad STEVANDIC]<br>
+**Political parties**<br>
+Alliance of Independent Social Democrats or SNSD <br>Bosnian-Herzegovinian Initiative or BHI KF <br>Civic Alliance or GS <br>Croatian Democratic Union of Bosnia and Herzegovina or HDZ-BiH <br>Democratic Front or DF <br>Democratic Union or DEMOS<br>For Justice and Order<br>Our Party or NS/HC <br>Party for Democratic Action or SDA <br>Party of Democratic Progress or PDP <br>People and Justice Party or NiP <br>People's European Union of Bosnia and Herzegovina or NES <br>Serb Democratic Party or SDS <br>Social Democratic Party or SDP<br>United Srpska or US<br>
 
 **International organization participation**<br>
 BIS, CD, CE, CEI, EAPC, EBRD, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM (observer), OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
@@ -452,9 +452,10 @@ steel, coal, iron ore, lead, zinc, manganese, bauxite, aluminum, motor vehicle a
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 32.9% (2021 est.)<br>
-_male_: 28.2%<br>
-_female_: 39.9%<br>
+_total_: 26.5% (2023 est.)<br>
+_male_: 24.6% (2023 est.)<br>
+_female_: 30.1% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 16.9% (2015 est.)<br>

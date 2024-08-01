@@ -367,8 +367,8 @@ _highest court(s)_: Supreme Constitutional Court (SCC) (consists of the court pr
 _judge selection and term of office_: under the 2014 constitution, all judges and justices selected and appointed by the Supreme Judiciary Council and approved as a formality by the president of the Republic; judges appointed for life; under the 2019 amendments, the president has the power to appoint heads of judiciary authorities and courts, the prosecutor general, and the head of the Supreme Constitutional Court<br>
 _subordinate courts_: Courts of Appeal; Courts of First Instance; courts of limited jurisdiction; Family Court (established in 2004)<br>
 
-**Political parties and leaders**<br>
-Al-Nour [Yunis MAKHYUN]<br>Arab Democratic Nasserist Party [El Etehad el Masri el ARABI]<br>Congress Party [Omar Al-Mokhtar SEMIDA]<br>Conservative Party [El Mohafezin]<br>Democratic Peace Party [Ahmed FADALY]<br>Egyptian National Movement Party [Gen. Raouf EL SAYED]<br>Egyptian Social Democratic Party [Farid ZAHRAN]<br>El Ghad Party [Moussa Mostafa MOUSSA]<br>El Serh El Masry el Hor [Tarek Ahmed Abbas NADIM]<br>Eradet Geel Party [Tayseer MATAR]<br>Free Egyptians Party [Essam KHALIL]<br>Freedom Party [Mamdouuh HASSAN]<br>Justice Party<br>Homeland’s Protector Party [Lt. Gen. (retired) Galal AL-HARIDI]<br>Modern Egypt Party [Nabil DEIBIS]<br>My Homeland Egypt Party [Gen. Seif El Islam ABDEL BARY ]<br>Nation's Future Party (Mostaqbal Watan) [Abdel Wahab Abdel RAZEQ]<br>National Progressive Unionist (Tagammu) Party [Sayed Abdel AAL]<br>Reform and Development Party [Mohamad Anwar al-SADAT]<br>Republican People’s Party [Hazam OMAR]<br>Revolutionary Guards Party [Magdy EL-SHARIF]<br>Wafd Party [Abdel Sanad YAMAMA]<br>
+**Political parties**<br>
+Al-Nour<br>Arab Democratic Nasserist Party<br>Congress Party<br>Conservative Party<br>Democratic Peace Party<br>Egyptian National Movement Party<br>Egyptian Social Democratic Party<br>El Ghad Party<br>El Serh El Masry el Hor<br>Eradet Geel Party<br>Free Egyptians Party<br>Freedom Party<br>Justice Party<br>Homeland’s Protector Party<br>Modern Egypt Party<br>My Homeland Egypt Party<br>Nation's Future Party (Mostaqbal Watan)<br>National Progressive Unionist (Tagammu) Party<br>Reform and Development Party<br>Republican People’s Party<br>Revolutionary Guards Party<br>Wafd Party<br>
 
 **International organization participation**<br>
 ABEDA, AfDB, AFESD, AMF, AU, BRICS, BSEC (observer), CAEU, CD, CICA, COMESA, D-8, EBRD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, LCBC (observer), MIGA, MINURSO, MONUSCO, NAM, OAPEC, OAS (observer), OIC, OIF, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -480,9 +480,10 @@ textiles, food processing, tourism, chemicals, pharmaceuticals, hydrocarbons, co
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.3% (2021 est.)<br>
-_male_: 15.6%<br>
-_female_: 59.5%<br>
+_total_: 19% (2023 est.)<br>
+_male_: 12.6% (2023 est.)<br>
+_female_: 49.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 29.7% (2019 est.)<br>

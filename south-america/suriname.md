@@ -339,8 +339,8 @@ _highest court(s)_: High Court of Justice of Suriname (consists of the court pre
 _judge selection and term of office_: court judges appointed by the national president in consultation with the National Assembly, the State Advisory Council, and the Order of Private Attorneys; judges serve for life<br>
 _subordinate courts_: cantonal courts<br>
 
-**Political parties and leaders**<br>
-Brotherhood and Unity in Politics or BEP [Ronnie ASABINA]<br>Democratic Alternative '91 or DA91 [Angelique DEL CASTILHO]<br>General Liberation and Development Party or ABOP [Ronnie BRUNSWIJK}<br>National Democratic Party or NDP [Desire Delano BOUTERSE]<br>National Party of Suriname or NPS [Gregory RUSLAND]<br>Party for Democracy and Development in Unity or DOE [Steven ALFAISI]<br>Party for National Unity and Solidarity or KTPI [Iwan GANGA]<br>People's Alliance (Pertjajah Luhur) or PL [Paul SOMOHARDJO]<br>Progressive Workers' and Farmers' Union or PALU [Jim HOK]<br>Progressive Reform Party or VHP [Chandrikapersad SANTOKHI]<br>Reform and Renewal Movement or HVB [Mike NOERSALIM]<br>Surinamese Labor Party or SPA [Guno CASTELEN]<br>
+**Political parties**<br>
+Brotherhood and Unity in Politics or BEP<br>Democratic Alternative '91 or DA91<br>General Liberation and Development Party or ABOP<br>National Democratic Party or NDP<br>National Party of Suriname or NPS<br>Party for Democracy and Development in Unity or DOE<br>Party for National Unity and Solidarity or KTPI<br>People's Alliance (Pertjajah Luhur) or PL<br>Progressive Workers' and Farmers' Union or PALU<br>Progressive Reform Party or VHP<br>Reform and Renewal Movement or HVB<br>Surinamese Labor Party or SPA<br>
 
 **International organization participation**<br>
 ACP, ACS, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, Petrocaribe, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO, WTO<br>
@@ -450,9 +450,10 @@ gold mining, oil, lumber, food processing, fishing<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.5% (2021 est.)<br>
-_male_: 22.1%<br>
-_female_: 46.1%<br>
+_total_: 25.3% (2023 est.)<br>
+_male_: 17.8% (2023 est.)<br>
+_female_: 37.8% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 70% (2002 est.)<br>

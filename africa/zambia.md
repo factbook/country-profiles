@@ -368,8 +368,8 @@ _highest court(s)_: Supreme Court (consists of the chief justice, deputy chief j
 _judge selection and term of office_: Supreme Court and Constitutional Court judges appointed by the president of the republic upon the advice of the 9-member Judicial Service Commission, which is headed by the chief justice, and ratified by the National Assembly; judges normally serve until age 65<br>
 _subordinate courts_: Court of Appeal; High Court; Industrial Relations Court; subordinate courts (3 levels, based on upper limit of money involved); Small Claims Court; local courts (2 grades, based on upper limit of money involved)<br>
 
-**Political parties and leaders**<br>
-Alliance for Democracy and Development or ADD [Charles MILUPI]<br>Forum for Democracy and Development or FDD [Edith NAWAKWI]<br>Movement for Multiparty Democracy or MMD [Dr. Nevers MUMBA]<br>Party of National Unity and Progress or PNUP [Highvie HAMUDUDU]<br>Patriotic Front or PF [Edgar LUNGU]<br>United Party for National Development or UPND [Hakainde HICHILEMA]<br>
+**Political parties**<br>
+Alliance for Democracy and Development or ADD <br>Forum for Democracy and Development or FDD <br>Movement for Multiparty Democracy or MMD <br>Party of National Unity and Progress or PNUP <br>Patriotic Front or PF <br>United Party for National Development or UPND <br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, COMESA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, PCA, SADC, UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -478,9 +478,10 @@ copper mining and processing, emerald mining, construction, foodstuffs, beverage
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.1% (2021 est.)<br>
-_male_: 26.7%<br>
-_female_: 25.4%<br>
+_total_: 9.8% (2023 est.)<br>
+_male_: 9.7% (2023 est.)<br>
+_female_: 9.8% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 60% (2022 est.)<br>

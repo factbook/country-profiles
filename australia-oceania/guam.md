@@ -278,8 +278,8 @@ _highest court(s)_: Supreme Court of Guam (consists of 3 justices); note - appea
 _judge selection and term of office_: justices appointed by the governor and confirmed by the Guam legislature; justices appointed for life subject to retention election every 10 years<br>
 _subordinate courts_: Superior Court of Guam - includes several divisions; US Federal District Court for the District of Guam (a US territorial court; appeals beyond this court are heard before the US Court of Appeals for the Ninth Circuit)<br>
 
-**Political parties and leaders**<br>
-Democratic Party [Anthony "Tony" M. BABAUTA]<br>Republican Party [Juan Carlos BENITEZ]<br>
+**Political parties**<br>
+Democratic Party<br>Republican Party<br>
 
 **International organization participation**<br>
 AOSIS (observer), IOC, PIF (observer), SPC, UPU<br>
@@ -365,9 +365,10 @@ national defense, tourism, construction, transshipment services, concrete produc
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.3% (2021 est.)<br>
-_male_: 14.7%<br>
-_female_: 16.1%<br>
+_total_: 12.9% (2023 est.)<br>
+_male_: 12.6% (2023 est.)<br>
+_female_: 13.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 23% (2001 est.)<br>

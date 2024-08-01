@@ -344,8 +344,8 @@ _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consi
 _judge selection and term of office_: magistrates appointed by the president for staggered 10-year terms<br>
 _subordinate courts_: appellate courts or Tribunal Superior; Labor Supreme Courts; Court of Audit; circuit courts or Tribunal Circuital (2 each in 9 of the 10 provinces); municipal courts; electoral, family, maritime, and adolescent courts<br>
 
-**Political parties and leaders**<br>
-Alliance Party or PA [Jose MUNOZ Molina]<br>Alternative Independent Socialist Party or PAIS [Jose ALVAREZ]<br>Another Way Movement or MOCA [Ricardo Alberto LOMBANA González]<br>Democratic Change or CD [Romulo ROUX]<br>Democratic Revolutionary Party or PRD [Benicio ROBINSON]<br>Nationalist Republican Liberal Movement or MOLIRENA [Francisco "Pancho" ALEMAN]<br>Panameñista Party [Jose Isabel BLANDON Figueroa] (formerly the Arnulfista Party)<br>Popular Party or PP [Daniel Javier BREA Clavel] (formerly Christian Democratic Party or PDC)<br>Realizing Goals Party or RM [Ricardo Alberto MARTINELLI Berrocal]<br>
+**Political parties**<br>
+Alliance Party or PA<br>Alternative Independent Socialist Party or PAIS<br>Another Way Movement or MOCA<br>Democratic Change or CD<br>Democratic Revolutionary Party or PRD<br>Nationalist Republican Liberal Movement or MOLIRENA<br>Panameñista Party (formerly the Arnulfista Party)<br>Popular Party or PP (formerly Christian Democratic Party or PDC)<br>Realizing Goals Party or RM<br>
 
 **International organization participation**<br>
 ACS, BCIE, CAN (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA, UN, UNASUR (observer), UNCTAD, UNESCO, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -455,9 +455,10 @@ construction, brewing, cement and other construction materials, sugar milling<br
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30% (2021 est.)<br>
-_male_: 21.8%<br>
-_female_: 43.6%<br>
+_total_: 16.6% (2023 est.)<br>
+_male_: 13.5% (2023 est.)<br>
+_female_: 22% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 21.5% (2019 est.)<br>

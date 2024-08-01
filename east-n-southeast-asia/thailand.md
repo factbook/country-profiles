@@ -361,7 +361,7 @@ _elections/appointments_: the monarchy is hereditary; prime minister candidate a
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Ratthasapha consists of:<br>Senate or Wuthisapha (200 seats; members indirectly elected in a three-step process (district, provincial, and national) from 20 eligible groups of professionals (see note) and then certified by Election Commission for a single 5-year term)<br>House of Representatives or Saphaphuthan Ratsadon (500 seats; 400 members directly elected in single-seat constituencies by simple majority vote and 100 members elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: Senate - last election dates 9, 16, and 26 June 2024; certified on 10 July 2024 (next to be held in June 2029)<br>House of Representatives - last held on 14 May 2023 (next to be held in May 2027)<br>
-_election results_: Senate - percent of vote by party - independents; seats by party - NA; composition - NA<br><br>House of Representatives - percent of vote by party - MFP 36.2%, PTP 27.7%, UTN 11.9%, PJT 2.9%, DP 2.3%, PPRP 1.4%, PCC 1.5%, other 16%; seats by party - MFP 152, PTP 141, PJT 71, PPRP 41, UTN 36, DP 24, PCC 9, CTP 10, Thai Sang Thai 6, other 11; composition - 403 men, 97 women, percentage women 19.4%<br>
+_election results_: Senate - percent of vote by party - independents; seats by party - NA; composition - NA<br><br>House of Representatives - percent of vote by party - MFP 36.2%, PTP 27.7%, UTN 11.9%, BJT/PJT 2.9%, DP 2.3%, PPRP 1.4%, PCC 1.5%, other 16%; seats by party - MFP 152, PTP 141, BJT/PJT 71, PPRP 41, UTN 36, DP 24, PCC 9, CTP 10, Thai Sang Thai 6, other 11; composition - 403 men, 97 women, percentage women 19.4%<br>
 <strong>note: </strong>the 20 groups of professionals include agriculture, artists or athletes, business owners, education, employees or workers, independent professionals, industrialists, law and justice, mass communication, public health, science and technology, tourism-related professions, women, and elderly, disabled, or ethnic groups<br>
 
 **Judicial branch**<br>
@@ -369,8 +369,8 @@ _highest court(s)_: Supreme Court of Justice (consists of the court president, 6
 _judge selection and term of office_: Supreme Court judges selected by the Judicial Commission of the Courts of Justice and approved by the monarch; judge term determined by the monarch; Constitutional Court justices - 3 judges drawn from the Supreme Court, 2 judges drawn from the Administrative Court, and 4 judge candidates selected by the Selective Committee for Judges of the Constitutional Court, and confirmed by the Senate; judges appointed by the monarch serve single 9-year terms; Supreme Administrative Court judges selected by the Judicial Commission of the Administrative Courts and appointed by the monarch; judges serve for life<br>
 _subordinate courts_: courts of first instance and appeals courts within both the judicial and administrative systems; military courts<br>
 
-**Political parties and leaders**<br>
-Bhumjaithai Party (aka Phumchai Thai Party or PJT; aka Thai Pride Party) or BJT [ANUTIN Chanwirakun]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [VARAWUT Silpa-archa]<br>Move Forward Party or MFP [CHAITHAWAT Tulathon] <br>Palang Pracharat Party (People's State Power Party) or PPRP [PRAWIT Wongsuwan] <br>Pheu (Puea) Thai Party (For Thais Party) or PTP [PAETONGTARN Shinawatra (aka Ung In)]<br>Prachachat Party or PCC [THAWEE Sodsong]<br>Prachathipat Party (Democrat Party) or DP [CHALERMCHAI Sri-on] <br>Thai Sang Thai Party [SUDARAT Keyuraphan]<br>United Thai Nation (Ruam Thai Sang Chat) or UTN [PHIRAPHAN Saliratthawiphak]<br>
+**Political parties**<br>
+Bhumjaithai Party or BJT (aka Phumchai Thai Party or PJT; aka Thai Pride Party) <br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP<br>Move Forward Party or MFP <br>Palang Pracharat Party (People's State Power Party) or PPRP <br>Pheu (Puea) Thai Party (For Thais Party) or PTP <br>Prachachat Party or PCC <br>Prachathipat Party (Democrat Party) or DP <br>Thai Sang Thai Party <br>United Thai Nation (Ruam Thai Sang Chat) or UTN<br>
 
 **International organization participation**<br>
 ADB, APEC, ARF, ASEAN, BIMSTEC, BIS, CD, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE (partner), PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMOGIP, UNOOSA, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -482,9 +482,10 @@ tourism, textiles and garments, agricultural processing, beverages, tobacco, cem
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7% (2021 est.)<br>
-_male_: 6.2%<br>
-_female_: 8.1%<br>
+_total_: 5.3% (2023 est.)<br>
+_male_: 3.9% (2023 est.)<br>
+_female_: 7.4% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 6.3% (2021 est.)<br>

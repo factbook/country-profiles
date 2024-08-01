@@ -362,8 +362,8 @@ _highest court(s)_: Supreme Court of Bangladesh (organized into the Appellate Di
 _judge selection and term of office_: chief justice and justices appointed by the president; justices serve until retirement at age 67<br>
 _subordinate courts_: civil courts include: Assistant Judge's Court; Joint District Judge's Court; Additional District Judge's Court; District Judge's Court; criminal courts include: Court of Sessions; Court of Metropolitan Sessions; Metropolitan Magistrate Courts; Magistrate Court; special courts/tribunals<br>
 
-**Political parties and leaders**<br>
-<p>Awami League or AL [Sheikh HASINA]<br>Bangladesh Jamaat-i-Islami or JIB [Shafiqur RAHMAN]]<br>Bangladesh Nationalist Party or BNP [Tarique RAHMAN, acting chairperson; Khaleda ZIA]<br>Islami Andolan Bangladesh [Syed Rezaul KARIM]<br>Jatiya Party or JP (Ershad faction) [Ghulam Muhammed QUADER]<br>Jatiya Party or JP (Manju faction) [Anwar Hossain MANJU]<br>National Socialist Party (Jatiya Samajtantrik Dal) or JSD [Hasanul Haque INU]<br>Workers Party or WP [Rashed Khan MENON]</p> <p> </p><br>
+**Political parties**<br>
+<p>Awami League or AL<br>Bangladesh Jamaat-i-Islami or JIB<br>Bangladesh Nationalist Party or BNP<br>Islami Andolan Bangladesh<br>Jatiya Party or JP (Ershad faction)<br>Jatiya Party or JP (Manju faction)<br>National Socialist Party (Jatiya Samajtantrik Dal) or JSD<br>Workers Party or WP</p> <p> </p><br>
 
 **International organization participation**<br>
 ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSCA, MONUSCO, NAM, OIC, OPCW, PCA, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNIFIL, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -473,9 +473,10 @@ cotton, textiles and clothing, jute, tea, paper, cement, fertilizer, sugar, ligh
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.7% (2021 est.)<br>
-_male_: 12.5%<br>
-_female_: 19.6%<br>
+_total_: 15.7% (2023 est.)<br>
+_male_: 13.5% (2023 est.)<br>
+_female_: 20.4% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 18.7% (2022 est.)<br>

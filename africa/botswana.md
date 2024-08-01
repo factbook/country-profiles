@@ -356,8 +356,8 @@ _highest court(s)_: Court of Appeal, High Court (each consists of a chief justic
 _judge selection and term of office_: Court of Appeal and High Court chief justices appointed by the president and other judges appointed by the president upon the advice of the Judicial Service Commission; all judges appointed to serve until age 70<br>
 _subordinate courts_: Industrial Court (with circuits scheduled monthly in the capital city and in 3 districts); Magistrates Courts (1 in each district); Customary Court of Appeal; Paramount Chief's Court/Urban Customary Court; Senior Chief's Representative Court; Chief's Representative’s Court; Headman's Court<br>
 
-**Political parties and leaders**<br>
-Alliance of Progressives or AP [Ndaba GAOLATHE]<br>Botswana Congress Party or BCP [Dumelang SALESHANDO]<br>Botswana Democratic Party or BDP [Mokgweetsi MASISI]<br>Botswana National Front or BNF [Duma BOKO]<br>Botswana Patriotic Front or BPF [Mephato REATILE]<br>Botswana Peoples Party or BPP [Motlatsi MOLAPISI]<br>Botswana Republic Party or BRP [Biggie BUTALE]<br>Umbrella for Democratic Change or UDC [Duma BOKO] (various times the coalition has included the BPP, BCP, BNF and other parties)<br>
+**Political parties**<br>
+Alliance of Progressives or AP <br>Botswana Congress Party or BCP <br>Botswana Democratic Party or BDP <br>Botswana National Front or BNF [Duma BOKO]Botswana Patriotic Front or BPF <br>Botswana Peoples Party or BPP <br>Botswana Republic Party or BRP <br>Umbrella for Democratic Change or UDC (various times the coalition has included the BPP, BCP, BNF and other parties)<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -465,9 +465,10 @@ diamonds, copper, nickel, salt, soda ash, potash, coal, iron ore, silver; beef p
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 41.2% (2021 est.)<br>
-_male_: 39.5%<br>
-_female_: 43.3%<br>
+_total_: 45.4% (2023 est.)<br>
+_male_: 40.5% (2023 est.)<br>
+_female_: 51.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 16.1% (2015 est.)<br>

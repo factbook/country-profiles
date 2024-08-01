@@ -337,8 +337,8 @@ _judge selection and term of office_: Court of Cassation judges appointed by roy
 _subordinate courts_: Civil High Courts of Appeal; middle and lower civil courts; High Sharia Court of Appeal; Senior Sharia Court; Administrative Courts of Appeal; military courts<br>
 <strong>note:</strong> the judiciary of Bahrain is divided into civil law courts and sharia law courts; sharia courts (involving personal status and family law) are further divided into Sunni Muslim and Shia Muslim; the Courts are supervised by the Supreme Judicial Council.<br>
 
-**Political parties and leaders**<br>
-<p><strong>note:</strong> political parties are prohibited, but political societies were legalized under a July 2005 law</p><br>
+**Political parties**<br>
+<p><strong>note:</strong>  political parties are prohibited, but political societies were legalized under a July 2005 law</p><br>
 
 **International organization participation**<br>
 ABEDA, AFESD, AMF, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -449,9 +449,10 @@ petroleum processing and refining, aluminum smelting, iron pelletization, fertil
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.9% (2021 est.)<br>
-_male_: 6.1%<br>
-_female_: 20.5%<br>
+_total_: 5.8% (2023 est.)<br>
+_male_: 2.9% (2023 est.)<br>
+_female_: 12.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Average household expenditures**<br>
 _on food_: 13.1% of household expenditures (2021 est.)<br>

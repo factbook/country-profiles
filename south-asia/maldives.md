@@ -336,8 +336,8 @@ _highest court(s)_: Supreme Court (consists of the chief justice and 6 justices<
 _judge selection and term of office_: Supreme Court judges appointed by the president in consultation with the Judicial Service Commission - a 10-member body of selected high government officials and the public - and upon confirmation by voting members of the People's Majlis; judges serve until mandatory retirement at age 70<br>
 _subordinate courts_: High Court; Criminal, Civil, Family, Juvenile, and Drug Courts; Magistrate Courts (on each of the inhabited islands)<br>
 
-**Political parties and leaders**<br>
-<p>Adhaalath (Justice) Party or AP [Sheikh Imran ABDULLA]<br>Dhivehi Rayyithunge Party or DRP [Ibrahim Mohamed SOLITH]<br>Maldives Development Alliance or MDA [Ahmed Shiyam MOHAMED]<br>Maldivian Democratic Party or MDP [Mohamed NASHEED]<br>Maldives Third Way Democrats or MTD [Ahmed ADEEB]<br>People's National Congress or PNC [Abdul Raheem ABDULLA]<br>People's National Front [Abdulla YAMEEN Abdul Gayoom]<br>Republican (Jumhooree) Party or JP [Qasim IBRAHIM]</p><br>
+**Political parties**<br>
+<p>Adhaalath (Justice) Party or AP<br>Dhivehi Rayyithunge Party or DRP<br>Maldives Development Alliance or MDA<br>Maldivian Democratic Party or MDP<br>Maldives Third Way Democrats or MTD<br>People's National Congress or PNC<br>People's National Front<br>Republican (Jumhooree) Party or JP</p><br>
 
 **International organization participation**<br>
 ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -438,9 +438,10 @@ tourism, fish processing, shipping, boat building, coconut processing, woven mat
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.7% (2021 est.)<br>
-_male_: 19.9%<br>
-_female_: 12.6%<br>
+_total_: 14.9% (2023 est.)<br>
+_male_: 18.6% (2023 est.)<br>
+_female_: 9.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 5.4% (2019 est.)<br>

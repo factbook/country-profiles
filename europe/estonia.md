@@ -346,8 +346,8 @@ _highest court(s)_: Supreme Court (consists of 19 justices, including the chief 
 _judge selection and term of office_: the chief justice is proposed by the president of the republic and appointed by the Riigikogu; other justices proposed by the chief justice and appointed by the Riigikogu; justices appointed for life<br>
 _subordinate courts_: circuit (appellate) courts; administrative, county, city, and specialized courts<br>
 
-**Political parties and leaders**<br>
-Center Party of Estonia (Keskerakond) or K [Juri RATAS]<br>Estonia 200 [Kristina KALLAS]<br>Estonian Conservative People's Party (Konservatiivne Rahvaerakond) or EKRE [Martin HELME]<br>Estonian Greens (Greens/EFA) [Marko KAASIK &amp; Johanna Maria TOUGU]<br>Estonian Reform Party (Reformierakond) or RE [Kaja KALLAS]<br>Pro Patria (Isamaa) [Helir-Valdor SEEDER]<br>Social Democratic Party or SDE [Lauri LAANEMETS]<br>
+**Political parties**<br>
+Conservative People's Party (Konservatiivne Rahvaerakond) or EKRE<br>Estonia 200 or E200<br>Estonia Centre Party of (Keskerakond) or KE<br>Estonian Free Party or VAP<br>Estonian Greens or EER<br>Estonian Nationalists and Conservatives or ERK <br>Estonian Reform Party (Reformierakond) or RE<br>Estonian United Left Party or EÜVP<br>Fatherland or I<br>Pro Patria (Isamaa)<br>The Right or PP<br>Social Democratic Party or SDE<br>
 
 **International organization participation**<br>
 Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
@@ -457,9 +457,10 @@ food, engineering, electronics, wood and wood products, textiles; information te
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.1% (2021 est.)<br>
-_male_: 16.5%<br>
-_female_: 17.8%<br>
+_total_: 17.1% (2023 est.)<br>
+_male_: 18.2% (2023 est.)<br>
+_female_: 16% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 22.5% (2022 est.)<br>

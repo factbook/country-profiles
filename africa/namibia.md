@@ -363,8 +363,8 @@ _highest court(s)_: Supreme Court (consists of the chief justice and at least 3 
 _judge selection and term of office_: judges appointed by the president of Namibia upon the recommendation of the Judicial Service Commission; judges serve until age 65, but terms can be extended by the president until age 70<br>
 _subordinate courts_: High Court; Electoral Court, Labor Court; regional and district magistrates' courts; community courts<br>
 
-**Political parties and leaders**<br>
-All People's Party or APP (Erastus SHUUMBWA)<br>Christian Democratic Voice or CDV [Gothard KANDUME]<br>Landless People's Movement or LPM [Bernadus SWARTBOOI]<br>National Unity Democratic Organization or NUDO [Esther MUINJANGUE]<br>Namibian Economic Freedom Fighters or NEFF [Epafras MUKWIILONGO]<br>Popular Democratic Movement or PDM [McHenry VENAANI] (formerly Democratic Turnhalle Alliance or DTA) <br>Rally for Democracy and Progress or RDP [Mike KAVEKOTORA]<br>Republican Party or RP [Henk MUDGE]<br>South West Africa National Union or SWANU [Charles KATJIVIRUE]<br>South West Africa People's Organization or SWAPO [Hage GEINGOB]<br>United Democratic Front or UDF [Apius AUCHAB]<br>United People's Movement or UPM [Jan J. VAN WYK]<br>
+**Political parties**<br>
+All People's Party or APP <br>Christian Democratic Voice or CDV <br>Landless People's Movement or LPM <br>National Unity Democratic Organization or NUDO <br>Namibian Economic Freedom Fighters or NEFF <br>Popular Democratic Movement or PDM (formerly Democratic Turnhalle Alliance or DTA) <br>Rally for Democracy and Progress or RDP <br>Republican Party or RP<br>South West Africa National Union or SWANU <br>South West Africa People's Organization or SWAPO <br>United Democratic Front or UDF <br>United People's Movement or UPM<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, CPLP (associate observer), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -472,9 +472,10 @@ mining, tourism, fishing, agriculture<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 40.4% (2021 est.)<br>
-_male_: 39.4%<br>
-_female_: 41.7%<br>
+_total_: 38% (2023 est.)<br>
+_male_: 37.4% (2023 est.)<br>
+_female_: 38.8% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 17.4% (2015 est.)<br>

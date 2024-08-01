@@ -280,8 +280,8 @@ _highest court(s)_: Supreme Court (consists of the court president, vice preside
 _judge selection and term of office_: Supreme Court justices appointed by the president; Constitutional Court justices appointed by the president, with approval of the Legislative Yuan; Supreme Court justices serve for life; Constitutional Court justices appointed for 8-year terms, with half the membership renewed every 4 years<br>
 _subordinate courts_: high courts; district courts; hierarchy of administrative courts<br>
 
-**Political parties and leaders**<br>
-Democratic Progressive Party or DPP [LAI Ching-te]<br>Kuomintang or KMT (Nationalist Party) [Eric CHU Li-luan]<br>Taiwan People's Party or TPP [KO Wen-je]<br>
+**Political parties**<br>
+Democratic Progressive Party or DPP <br>Kuomintang or KMT (Nationalist Party) <br>Taiwan People's Party or TPP <br>
 <strong>note:</strong> the DPP and the KMT are the two major political parties; more than 30 parties garnered votes in the 2024 election<br>
 
 **International organization participation**<br>

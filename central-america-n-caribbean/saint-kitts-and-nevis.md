@@ -317,8 +317,8 @@ _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior c
 _judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by His Majesty, King Charles III; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: magistrates' courts<br>
 
-**Political parties and leaders**<br>
-Concerned Citizens Movement or CCM [Mark BRANTLEY]<br>Nevis Reformation Party or NRP [Dr. Janice DANIEL-HODGE]<br>People's Action Movement or PAM [Shawn K. RICHARDS]<br>People's Labour Party or PLP [Dr. Timothy HARRIS]<br>Saint Kitts and Nevis Labor Party or SKNLP [Dr. Terrance DREW]<br>
+**Political parties**<br>
+Concerned Citizens Movement or CCM<br>Nevis Reformation Party or NRP<br>People's Action Movement or PAM<br>People's Labour Party or PLP<br>Saint Kitts and Nevis Labor Party or SKNLP<br>
 
 **International organization participation**<br>
 ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, MIGA, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>

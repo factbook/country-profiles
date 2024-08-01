@@ -361,7 +361,7 @@ _description_: before August 2021, Afghanistan had a bicameral National Assembly
 _highest court(s)_: the Taliban are purported to have appointed clerics, including a "Chief Justice", to Afghanistan's Supreme Court<br>
 _subordinate courts_: provincial courts, religious courts, and specialty courts<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 the Taliban Government enforces an authoritarian state and has banned other political parties; note - before 15 August 2021, the Ministry of Justice had licensed 72 political parties as of April 2019<br><br>the Taliban have banned other political parties but have allowed some party leaders, including the head of Hezb-e-Islami, Gulbuddin Hekmatyar, to continue to live and work in Afghanistan; Hekmatyar likely continues to enjoy some political support from loyalists; leaders of other parties, including Jamiat-e-Islami’s Salahuddin Rabbani and Jumbesh’s Rashid Dostum, operate from abroad but likely also command some following within Afghanistan; note - before 15 August 2021, the Ministry of Justice had licensed 72 political parties as of April 2019<br>
 
 **International organization participation**<br>
@@ -459,9 +459,10 @@ small-scale production of bricks, textiles, soap, furniture, shoes, fertilizer, 
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.2% (2021 est.)<br>
-_male_: 18.6%<br>
-_female_: 26.4%<br>
+_total_: 18.1% (2023 est.)<br>
+_male_: 16.8% (2023 est.)<br>
+_female_: 30.4% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 54.5% (2016 est.)<br>

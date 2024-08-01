@@ -346,8 +346,8 @@ _highest court(s)_: Court of Cassation or Appeals Court (consists of the Crimina
 _judge selection and term of office_: Court of Cassation judges nominated by the Supreme Judicial Council, a 10-member body of selected judges and legal scholars; judges appointed by the president; judges can serve until age 65; Constitutional Court judges - 4 appointed by the president, and 5 elected by the National Assembly; judges can serve until age 70<br>
 _subordinate courts_: criminal and civil appellate courts; administrative appellate court; first instance courts; specialized administrative and bankruptcy courts<br>
 
-**Political parties and leaders**<br>
-5165 National Conservative Movement Party [Karin TONOYAN]<br>Alliance of Democrats [Arman BABAJANYAN]<br>Armenia Alliance or HD [Robert KOCHARYAN]<br>(formerly known as the Armenian Revolutionary Federation)<br>Armenian National Congress or ANC [Levon TER-PETROSSIAN] (bloc of independent and opposition parties)<br>Bright Armenia [Edmon MARUKYAN]<br>Civil Contract or KP [Nikol PASHINYAN]<br>Country To Live In [Mane TANDILYAN]<br>Homeland of Armenians [Artak GALSTYAN]<br>Homeland Party [Artur VANETSYAN]<br>I Have Honor Alliance (formerly known as the Republican Party of Armenia, [Serzh SARGSIAN]<br>Liberal Party [Samvel BABAYAN]<br>National Democratic Party [Vahe GASPARYAN]<br>Prosperous Armenia or BHK [Gagik TSARUKYAN]<br>Republic Party (Hanrapetutyun Party) [Aram SARGSYAN]<br>
+**Political parties**<br>
+Armenia Alliance or HD<br>Armenian National Congress or ANC<br>Bright Armenia<br>Civil Contract or KP<br>Country To Live In<br>Homeland of Armenians<br>Homeland Party<br>I Have Honor Alliance (formerly known as the Republican Party of Armenia) PUD<br>Liberal Party<br>National Democratic Party<br>Prosperous Armenia or BHK<br>Republic Party (Hanrapetutyun Party)<br>
 
 **International organization participation**<br>
 ADB, BSEC, CD, CE, CIS, CSTO, EAEC (observer), EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM (observer), OAS (observer), OIF, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -456,9 +456,10 @@ brandy, mining, diamond processing, metal-cutting machine tools, forging and pre
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 36.1% (2021 est.)<br>
-_male_: 34%<br>
-_female_: 38.7%<br>
+_total_: 19% (2023 est.)<br>
+_male_: 21.5% (2023 est.)<br>
+_female_: 16% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 24.8% (2022 est.)<br>

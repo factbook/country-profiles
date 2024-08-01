@@ -370,8 +370,8 @@ _highest court(s)_: Supreme Court or Cour Supreme (subdivided into 7 chambers: 2
 _judge selection and term of office_: Supreme Court president appointed by the president of the republic to serve a 5-year renewable term; Constitutional Council members appointed - 3 by the president of the republic, 2 by the president of the National Assembly, 1 by the prime minister, 1 by the leader of the democratic opposition, 1 by the largest opposition party in the National Assembly, and 1 by the second largest party in the National Assembly; members serve single, 9-year terms with one-third of membership renewed every 3 years; High Court of Justice members appointed by Parliament - 6 by the ruling Coalition of Majority Parties and 3 by opposition parties<br>
 _subordinate courts_: Courts of Appeal; courts of first instance or wilya courts are established in the regions' headquarters and include commercial and labor courts, criminal courts, Moughataa (district) Courts, and informal/customary courts<br>
 
-**Political parties and leaders**<br>
-Alliance for Justice and Democracy/Movement for Renewal or AJD/MR [Ibrahima Moctar SARR]<br>El Insaf or Equity Party [Mohamed Melainine Ould EYIH]<br>El Islah or Reform Party [Mohamed Ould TALEBNA]<br>El Karama or Dignity Party [Cheikhna Ould Mohamed Ould HAJBOU]<br>El Vadila or Virtue Party [Ethmane Ould Cheikh Ahmed Eboul MEALY]<br>Mauritanian Party of Union and Change or HATEM [Saleh Ould HANENNA]<br>National Democratic Alliance or AND [Yacoub Ould MOINE]<br>National Rally for Reform and Development or RNRD or TAWASSOUL [Hamadi Ould Sidi MOKHTAR]<br>Nida El-Watan [Daoud Ould Ahmed AICHA]<br>Party for Conciliation and Prosperity or HIWAR [Valle Mint MINI]<br>Party of the Mauritanian Masses or Hakam [El Khalil Ould ENNAHOUI]<br>Republican Front for Unity and Democracy or FRUD [Kadiata Malick DIALLO]<br>Sawab Party [Ahmed Salem Ould HORMA]<br>Union for Democracy and Progress or UDP [Naha Mint MOUKNASS]<br>Union of Planning and Construction or UPC [Qari Ould Mohamed ABDALLAHI]<br>
+**Political parties**<br>
+Alliance for Justice and Democracy/Movement for Renewal or AJD/MR<br>El Insaf or Equity Party<br>El Islah or Reform Party<br>El Karama or Dignity Party<br>El Vadila or Virtue Party<br>Mauritanian Party of Union and Change or HATEM<br>National Democratic Alliance or AND<br>National Rally for Reform and Development or RNRD or TAWASSOUL<br>Nida El-Watan<br>Party for Conciliation and Prosperity or HIWAR<br>Party of the Mauritanian Masses or Hakam<br>Republican Front for Unity and Democracy or FRUD<br>Sawab Party<br>Union for Democracy and Progress or UDP<br>Union of Planning and Construction or UPC<br>
 
 **International organization participation**<br>
 ABEDA, ACP, AfDB, AFESD, AIIB, AMF, AMU, AU, CAEU, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -475,9 +475,10 @@ fish processing, oil production, mining (iron ore, gold, copper)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23% (2021 est.)<br>
-_male_: 20.8%<br>
-_female_: 27.9%<br>
+_total_: 23.7% (2023 est.)<br>
+_male_: 20.3% (2023 est.)<br>
+_female_: 30.9% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 31.8% (2019 est.)<br>

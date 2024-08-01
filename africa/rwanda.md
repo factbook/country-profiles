@@ -344,15 +344,15 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Paul KAGAME (since 22 April 2000)<br>
-_head of government_: Prime Minister Edouard NGIRENTE (since 30 August 2017)&nbsp;<br>
+_head of government_: Prime Minister Edouard NGIRENTE (since 30 August 2017)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second term); note - a constitutional amendment approved in December 2016 reduced the presidential term from 7 to 5 years but included an exception that allowed President KAGAME to serve another 7-year term in 2017, potentially followed by two additional 5-year terms; election last held on 4 August 2017 (next to be held on 15 July 2024); prime minister appointed by the president<br>
-_election results_: <br><em>2017:</em> Paul KAGAME reelected president; Paul KAGAME (RPF) 98.8%, Philippe MPAYIMANA (independent), other 1.2%<br><br><em>2010:</em> Paul KAGAME reelected president; Paul KAGAME (RPF) 93.1%, Jean NTAWUKURIRYAYO (PSD) 5.1%, other 1.8%  <p> </p><br>
+_election results_: <em>2024: </em>Paul KAGAME reelected president; Paul KAGAME (RPF) 99.2%, Frank HABINEZA (DGPR) 0.50%, Philippe MPAYIMANA (independent) 0.32%<br><br><em>2017:</em> Paul KAGAME reelected president; Paul KAGAME (RPF) 98.8%, Philippe MPAYIMANA (independent), other 1.2%<br><br> <p> </p><br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Senat (26 seats; 12 members indirectly elected by local councils, 8 appointed by the president, 4 appointed by the Political Organizations Forum - a body of registered political parties, and 2 selected by institutions of higher learning; members serve 8-year terms)<br><br>Chamber of Deputies or Chambre des Deputes (80 seats; 53 members directly elected by proportional representation vote, 24 women selected by special interest groups, and 3 selected by youth and disability organizations; members serve 5-year terms)<br>
-_elections_: Senate - last held on 16-18 September 2019 (next to be held in 2027)<br>Chamber of Deputies - last held on 3 September 2018 (next to be held 15 July 2024)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 17, women 9, percentage women 34.6%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - Rwandan Patriotic Front Coalition 40, PSD 5, PL 4, other 4, indirectly elected 27; composition - men 31, women 49, percentage women 61.3%; total Parliament percentage women 54.7% <p> </p><br>
+_elections_: Senate - last held on 16-18 September 2019 (next to be held 30 September 2024)<br>Chamber of Deputies - last held on 15 July 2024 (next to be held 31 July 2029)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 17, women 9, percentage women 34.6%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - FPR 37, PSD 5, PL 5, DGPR 2, PDI 2, PS 2 composition - men 36, women 44, percentage women 55%; total Parliament percentage women 50% <p> </p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief and deputy chief justices and 5 judges; normally organized into 3-judge panels); High Court (consists of the court president, vice president, and a minimum of 24 judges and organized into 5 chambers)<br>
@@ -360,8 +360,8 @@ _judge selection and term of office_: Supreme Court judges nominated by the pres
 _subordinate courts_: High Court of the Republic; commercial courts including the High Commercial Court; intermediate courts; primary courts; and military specialized courts<strong><br></strong><br>
 <strong> </strong><br>
 
-**Political parties and leaders**<br>
-Democratic Green Party of Rwanda or DGPR [Frank HABINEZA]<br>Liberal Party or PL [Donatille MUKABALISA]<br>Party for Progress and Concord or PPC [Dr. Alivera MUKABARAMBA]<br>Rwandan Patriotic Front or RPF [Paul KAGAME]<br>Rwandan Patriotic Front Coalition (includes RPF, PPC, PSP, UDPR, PDI, PSR, PDC) [Paul KAGAME]<br>Social Democratic Party or PSD [Vincent BIRUTA]<br>Social Party Imberakuri or PS-Imberakuri [Christine MUKABUNANI]<br>
+**Political parties**<br>
+Democratic Green Party of Rwanda or DGPR <br>Liberal Party or PL <br>Party for Progress and Concord or PPC <br>Rwandan Patriotic Front or RPF <br>Rwandan Patriotic Front Coalition (includes RPF, PPC, PSP, UDPR, PDI, PSR, PDC) <br>Social Democratic Party or PSD <br>Social Party Imberakuri or PS-Imberakuri <br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, CEPGL, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -470,9 +470,10 @@ cement, agricultural products, small-scale beverages, soap, furniture, shoes, pl
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 2.9% (2021 est.)<br>
-_male_: 2.2%<br>
-_female_: 3.6%<br>
+_total_: 22% (2023 est.)<br>
+_male_: 20.8% (2023 est.)<br>
+_female_: 23.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 38.2% (2016 est.)<br>
@@ -678,7 +679,7 @@ approximately 2,200 Central African Republic (MINUSCA; plus about 700 police); a
 <strong>note:</strong> in December 2020, Rwanda sent an additional 1,200 to the Central African Republic under a bilateral agreement to support and train Central African Republic military forces, but their status as of 2024 was unclear)<br>
 
 **Military - note**<br>
-<p>the RDF is widely regarded as one of East Africa’s best trained and most experienced militaries; its principle responsibilities are ensuring territorial integrity and national sovereignty and preventing infiltrations of illegal armed groups from neighboring countries, particularly the Democratic Republic of the Congo (DRC); since 2021, Rwanda has deployed troops to the border region with the DRC to combat the rebel Democratic Forces for the Liberation of Rwanda (FDLR), which it has accused the DRC of backing; the RDF has been accused by the DRC, the UN, and the US of making incursions into the DRC and providing material support to the March 23 Movement (M23, aka Congolese Revolutionary Army) rebel group, which has been fighting with DRC troops and UN peacekeeping forces; the RDF also participates in UN and regional military operations; over 6,000 RDF personnel are deployed in the Central African Republic, Mozambique, and South Sudan </p> the Rwandan Armed Forces (FAR) were established following independence in 1962; after the 1990-1994 civil war and genocide, the victorious Tutsi-dominated Rwandan Patriotic Front's military wing, the Rwandan Patriotic Army (RPA), became the country's military force; the RPA participated in the First (1996-1997) and Second (1998-2003) Congolese Wars; the RPA was renamed the Rwanda Defense Force (RDF) in 2003, by which time it had assumed a more national character with the inclusion of many former Hutu officers as well as newly recruited soldiers (2023)<br>
+<p>the RDF is widely regarded as one of East Africa’s best trained and most experienced militaries; its principle responsibilities are ensuring territorial integrity and national sovereignty and preventing infiltrations of illegal armed groups from neighboring countries, particularly the Democratic Republic of the Congo (DRC); since 2021, Rwanda has deployed troops to the border region with the DRC to combat the rebel Democratic Forces for the Liberation of Rwanda (FDLR), which it has accused the DRC of backing; the RDF has been accused by the DRC, the UN, and the US of making incursions into the DRC and providing material support to the March 23 Movement (M23, aka Congolese Revolutionary Army) rebel group, which has been fighting with DRC troops and UN peacekeeping forces; the RDF also participates in UN and regional military operations</p> the Rwandan Armed Forces (FAR) were established following independence in 1962; after the 1990-1994 civil war and genocide, the victorious Tutsi-dominated Rwandan Patriotic Front's military wing, the Rwandan Patriotic Army (RPA), became the country's military force; the RPA participated in the First (1996-1997) and Second (1998-2003) Congolese Wars; the RPA was renamed the Rwanda Defense Force (RDF) in 2003, by which time it had assumed a more national character with the inclusion of many former Hutu officers as well as newly recruited soldiers (2023)<br>
 
 ## Space
 

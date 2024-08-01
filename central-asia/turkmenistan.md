@@ -19,7 +19,7 @@ Central Asia, bordering the Caspian Sea, between Iran and Kazakhstan<br>
 Asia<br>
 
 **Area**<br>
-_total_: 488,100 sq km<br>
+_total _: 488,100 sq km<br>
 _land_: 469,930 sq km<br>
 _water_: 18,170 sq km<br>
 
@@ -359,8 +359,8 @@ _highest court(s)_: Supreme Court of Turkmenistan (consists of the court preside
 _judge selection and term of office_: judges appointed by the president for 5-year terms<br>
 _subordinate courts_: High Commercial Court; appellate courts; provincial, district, and city courts; military courts<br>
 
-**Political parties and leaders**<br>
-Agrarian Party of Turkmenistan or APT [Bashim ANNAGURBANOV]<br>Democratic Party of Turkmenistan or DPT [Ata SERDAROV]<br>Party of Industrialists and Entrepreneurs or PIE [Saparmurat OVGANOV]<br>
+**Political parties**<br>
+Agrarian Party of Turkmenistan or APT<br>Democratic Party of Turkmenistan or DPT<br>Party of Industrialists and Entrepreneurs or PIE<br>
 <strong>note:</strong> all of these parties support President BERDIMUHAMEDOV; a law authorizing the registration of political parties went into effect in January 2012; unofficial, small opposition movements exist abroad<br>
 
 **International organization participation**<br>
@@ -409,9 +409,9 @@ $89.192 billion (2020 est.)<br>
 <b>note:</b> data in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.7% (2022 est.)<br>
-4.5% (2021 est.)<br>
--3.4% (2020 est.)<br>
+6.3% (2023 est.)<br>
+6.2% (2022 est.)<br>
+6.2% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
@@ -421,7 +421,7 @@ $14,300 (2020 est.)<br>
 <b>note:</b> data in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$56.543 billion (2022 est.)<br>
+$59.887 billion (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -453,19 +453,20 @@ natural gas, oil, petroleum products, textiles, food processing<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
-2.117 million (2022 est.)<br>
+2.163 million (2023 est.)<br>
 <b>note:</b> number of people ages 15 or older who are employed or seeking work<br>
 
 **Unemployment rate**<br>
-4.13% (2022 est.)<br>
-4.53% (2021 est.)<br>
-4.55% (2020 est.)<br>
+4.12% (2023 est.)<br>
+4.12% (2022 est.)<br>
+4.45% (2021 est.)<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11% (2021 est.)<br>
-_male_: 13.4%<br>
-_female_: 7.6%<br>
+_total_: 9.1% (2023 est.)<br>
+_male_: 13.9% (2023 est.)<br>
+_female_: 5.7% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 0.2% (2012 est.)<br>

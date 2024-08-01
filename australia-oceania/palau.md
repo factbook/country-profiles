@@ -310,7 +310,7 @@ _highest court(s)_: Supreme Court (consists of the chief justice and 3 associate
 _judge selection and term of office_: justices nominated by a 7-member independent body consisting of judges, presidential appointees, and lawyers and appointed by the president; judges can serve until mandatory retirement at age 65<br>
 _subordinate courts_: National Court and other 'inferior' courts<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 none<br>
 
 **International organization participation**<br>

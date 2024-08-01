@@ -19,7 +19,7 @@ Caribbean, three-island group (Grand Cayman, Cayman Brac, Little Cayman) in Cari
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 264 sq km<br>
+_total _: 264 sq km<br>
 _land_: 264 sq km<br>
 _water_: 0 sq km<br>
 
@@ -279,8 +279,8 @@ _highest court(s)_: Court of Appeal (consists of the court president and at leas
 _judge selection and term of office_: Court of Appeal and Grand Court judges appointed by the governor on the advice of the Judicial and Legal Services Commission, an 8-member independent body consisting of governor appointees, Court of Appeal president, and attorneys; Court of Appeal judges' tenure based on their individual instruments of appointment; Grand Court judges normally appointed until retirement at age 65 but can be extended until age 70<br>
 _subordinate courts_: Summary Court<br>
 
-**Political parties and leaders**<br>
-Cayman Islands Peoples Party or CIPP [Ezzard MILLER]<br>People's Progressive Movement or PPM [Roy McTAGGART]<br>
+**Political parties**<br>
+Cayman Islands Peoples Party or CIPP<br>People's Progressive Movement or PPM<br>
 
 **International organization participation**<br>
 Caricom (associate), CDB, Interpol (subbureau), IOC, UNESCO (associate), UPU<br>
@@ -308,25 +308,25 @@ _lyrics/music_: Leila E. ROSS<br>
 dominant offshore banking territory; services sector accounts for over 85% of economic activity; recently adopted a fiscal responsibility framework to combat tax evasion and money laundering; large tourism sector; does not have any welfare system; high standard of living<br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.902 billion (2022 est.)<br>
-$4.729 billion (2021 est.)<br>
-$4.546 billion (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$5.467 billion (2022 est.)<br>
+$5.199 billion (2021 est.)<br>
+$4.956 billion (2020 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-3.67% (2022 est.)<br>
-4.03% (2021 est.)<br>
--5.11% (2020 est.)<br>
+5.16% (2022 est.)<br>
+4.9% (2021 est.)<br>
+-4.95% (2020 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$71,400 (2022 est.)<br>
-$69,400 (2021 est.)<br>
-$67,500 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$79,600 (2022 est.)<br>
+$76,300 (2021 est.)<br>
+$73,600 (2020 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$6.845 billion (2022 est.)<br>
+$6.601 billion (2022 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -359,7 +359,7 @@ vegetables, fruit; livestock; turtle farming<br>
 tourism, banking, insurance and finance, construction, construction materials, furniture<br>
 
 **Industrial production growth rate**<br>
-6.89% (2021 est.)<br>
+3.45% (2022 est.)<br>
 <b>note:</b> annual % change in industrial value added based on constant local currency<br>
 
 **Labor force**<br>
@@ -376,8 +376,8 @@ _male_: 16.4%<br>
 _female_: 11.4%<br>
 
 **Remittances**<br>
-0.13% of GDP (2022 est.)<br>
-0.15% of GDP (2021 est.)<br>
+0.15% of GDP (2022 est.)<br>
+0.17% of GDP (2021 est.)<br>
 0.16% of GDP (2020 est.)<br>
 <b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities<br>
 

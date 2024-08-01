@@ -361,8 +361,8 @@ _highest court(s)_: Supreme Court of the Republic (consists of 44 members); Cons
 _judge selection and term of office_: Supreme Court judges proposed by the president of the republic on recommendation of the Supreme Judicial Council and confirmed by the Senate; judges normally serve until age 65 but can be extended to age 70; Constitutional Council - the president of the republic, the Senate chairperson, and the Mazhilis chairperson each appoints 2 members for a 6-year term; chairperson of the Constitutional Council appointed by the president for a 6-year term<br>
 _subordinate courts_: regional and local courts<br>
 
-**Political parties and leaders**<br>
-Ak Zhol (Bright Path) Party or Democratic Party of Kazakhstan Ak Zhol [Azat PERUASHEV]<br>Amanat Party [Yerlan KOSHANOV] (formerly Nur Otan (Radiant Fatherland))<br>Baytak (Boundless) Party [Azamatkhan AMIRTAY]<br>National Social Democratic Party or NSDP [Askhat RAKHIMZHANOV]<br>People's Democratic (Patriotic) Party or Auyl or AHDPP [Ali BEKTAYEV]<br>People's Party of Kazakhstan or QHP [Yermkhamet YERTYSBAYEV]<br>Respublica Party [Avdarbek KHODZHANAZAROV]<br>
+**Political parties**<br>
+Ak Zhol Democratic Party or Ak Zhol<br>Amanat Party (formerly Nur Otan (Radiant Fatherland))<br>Auyl People's Democratic Patriotic Party or Auyl<br>Baytak (Boundless) Party<br>National Social Democratic Party or NSDP<br>People's Democratic (Patriotic) Party or Auyl or AHDPP<br>People's Party of Kazakhstan or PPK<br>Respublica<br>
 
 **International organization participation**<br>
 ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, MINURSO, NAM (observer), NSG, OAS (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -473,9 +473,10 @@ oil, coal, iron ore, manganese, chromite, lead, zinc, copper, titanium, bauxite,
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.7% (2021 est.)<br>
-_male_: 3.3%<br>
-_female_: 4.3%<br>
+_total_: 3.8% (2023 est.)<br>
+_male_: 2.9% (2023 est.)<br>
+_female_: 5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 5.2% (2022 est.)<br>

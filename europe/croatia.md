@@ -357,14 +357,14 @@ _highest court(s)_: Supreme Court (consists of the court president and vice pres
 _judge selection and term of office_: president of Supreme Court nominated by the president of Croatia and elected by the Sabor for a 4-year term; other Supreme Court justices appointed by the National Judicial Council; all judges serve until age 70<br>
 _subordinate courts_: Administrative Court; county, municipal, and specialized courts; note - there is an 11-member Constitutional Court with jurisdiction limited to constitutional issues but is outside of the judicial system<br>
 
-**Political parties and leaders**<br>
-Bosniaks Together<br>The Bridge or MOST [Bozo PETROV] (formerly the Bridge of Independent Lists)<br>Croatia Romani Union Kali Sara (SRRH)<br>Croatian Democratic Union or HDZ [Andrej PLENKOVIC]<br>Democratic Union of Hungarians in Croatia (DZMH) [Robert JANKOVICS]<br>Focus or Fokus [Davor NADI]<br>Homeland Movement or DP [Ivan PENAVA] (also known as Miroslav Škoro Homeland Movement or DPMS)<br>Independent Democratic Serb Party or SDSS [Milorad PUPOVAC]<br>Independent Platform of the North (NPS) [Matija POSAVEC]<br>Istrian Democratic Assembly or IDS [Dalibor PAUS]<br>Social Democratic Party of Croatia or SDP [Peda GRBIN]<br>We Can! or Mozemo! [collective leadership]<br>
+**Political parties**<br>
+Bosniaks Together<br>The Bridge or MOST (formerly the Bridge of Independent Lists)<br>Croatia Romani Union Kali Sara (SRRH)<br>Croatian Democratic Union or HDZ<br>Democratic Union of Hungarians in Croatia (DZMH)<br>Focus or Fokus<br>Homeland Movement or DP (also known as Miroslav Škoro Homeland Movement or DPMS)<br>Independent Democratic Serb Party or SDSS <br>Independent Platform of the North (NPS)<br>Istrian Democratic Assembly or IDS<br>Social Democratic Party of Croatia or SDP<br>We Can! or Mozemo! <br>
 
 **International organization participation**<br>
 AIIB, Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FAO, G-11, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM (observer), NATO, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: <br>Ambassador Pjer ŠIMUNOVIĆ (since 8 September 2017)<br>
+_chief of mission_: Ambassador Pjer &Scaron;IMUNOVIĆ (since 8 September 2017)<br>
 _chancery_: 2343 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 588-5899<br>
 _FAX_: [1] (202) 588-8937<br>
@@ -470,9 +470,10 @@ chemicals and plastics, machine tools, fabricated metal, electronics, pig iron a
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.6% (2021 est.)<br>
-_male_: 21.8%<br>
-_female_: 26.3%<br>
+_total_: 19.2% (2023 est.)<br>
+_male_: 17.3% (2023 est.)<br>
+_female_: 22.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 18% (2021 est.)<br>

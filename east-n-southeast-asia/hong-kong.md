@@ -285,7 +285,7 @@ _election results_: <em><br>2022: </em>John LEE was the only candidate and won w
 **Legislative branch**<br>
 _description_: unicameral Legislative Council or LegCo (90 seats); 20 members directly elected in 2-seat constituencies, 30 indirectly elected by the approximately 220,000 members of various functional constituencies based on a variety of methods, and 50 indirectly elected by the 1,500-member Election Committee; members serve 4-year terms; note - in March 2021, China's National People's Congress amended the electoral rules and system for the LegCo; the total number of seats increased from 70 to 90, directly elected geographical constituencies were reduced from 35 to 20 seats, while trade-based indirectly elected functional constituencies remained at 30; an additional 40 seats were elected by the 1,500-member Election Commission; all political candidates are evaluated by the Candidate Eligibility Review Committee (CERC), established in April 2022; the CERC consists of the chairperson, 2-4 official members, and 1-3 non-official members, all appointed by the chief executive<br>
 _elections_: last held on 19 Dec 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by bloc: pro-Beijing 93.8%, non-establishment 6.2%; seats by association/bloc/party - pro-Beijing 89 (DAB 19, FTU 8, BPA 7, NPP 5, Liberal Party 4, NTAS 4, HKFEW 2, HKFLU 2, CF 2, RT 1, PP 1, KWND 1, NPHK 1, NCF-1; other/independent 41), non-aligned 1 (Third Side); composition - men 73, women 17, percentage women 18.9%; note - Hong Kong's leading pro-democracy political parties boycotted the 2021 election<br>
+_election results_: percent of vote by bloc: pro-Beijing 93.8%, non-establishment 6.2%; seats by association/bloc/party - pro-Beijing 89 (DAB 19, HKFTU 8, BPA 7, NPP 5, LP 4, NTAS 4, HKFEW 2, HKFLU 2, CF 2, RT 1, PP 1, KWND 1, NPHK 1, NCF-1; other/independent 41), non-aligned 1 (Third Side); composition - men 73, women 17, percentage women 18.9%; note - Hong Kong's leading pro-democracy political parties boycotted the 2021 election<br>
 <strong>note:</strong> in July 2023, Hong Kong lawmakers reduced the proportion of directly elected seats on local district councils from some 90% to about 20%; under the new law, the majority of the 470 seats are now filled by members appointed by the chief executive, rural committee chairpersons, and others elected by local committees that are packed with pro-establishment figures<br>
 
 **Judicial branch**<br>
@@ -293,8 +293,8 @@ _highest court(s)_: Court of Final Appeal (consists of the chief justice, 3 perm
 _judge selection and term of office_: all judges appointed by the Hong Kong Chief Executive upon the recommendation of the Judicial Officers Recommendation Commission, an independent body consisting of the Secretary for Justice, other judges, and judicial and legal professionals; permanent judges serve until normal retirement at age 65, but term can be extended; non-permanent judges appointed for renewable 3-year terms without age limit<br>
 _subordinate courts_: High Court (consists of the Court of Appeal and Court of First Instance); District Courts (includes Family and Land Courts); magistrates' courts; specialized tribunals<br>
 
-**Political parties and leaders**<br>
-Business and Professionals Alliance for Hong Kong or BPA [LO Wai-kwok]<br>Civil Force or CF [PUN Kwok-shan]<br>Democratic Alliance for the Betterment and Progress of Hong Kong or DAB [Starry LEE Wai-king]<br>Federation of Hong Kong and Kowloon Labour Unions or HKFLU [LAM Chun-sing]<br>Hong Kong Federation of Education Workers or HKFEW [LAU Chi-pang]<br>Hong Kong Federation of Trade Unions or HKFTU [NG Chau-pei]<br>Kowloon West New Dynamic or KWND [Priscilla LEUNG]<br>Liberal Party or LP [Tommy CHEUNG]<br>New Century Forum or NCF [MA Fung-kwak]<br>New People's Party or NPP [Regina IP]<br>New Prospect for Hong Kong or NPHK [Gary ZHANG Xinyu]<br>New Territories Association of Societies or NTAS [CHAN Yung]<br>Professional Power or PP [Christine FONG Kwok Shan]<br>Roundtable or RT [Michael TIEN Puk-sun]<br>Third Side or TS [TIK Chi-yeun]<br>
+**Political parties**<br>
+Business and Professionals Alliance for Hong Kong or BPA <br>Civil Force or CF <br>Democratic Alliance for the Betterment and Progress of Hong Kong or DAB <br>Federation of Hong Kong and Kowloon Labour Unions or HKFLU <br>Hong Kong Federation of Education Workers or HKFEW <br>Hong Kong Federation of Trade Unions or HKFTU <br>Kowloon West New Dynamic or KWND<br>Liberal Party or LP <br>New Century Forum or NCF <br>New People's Party or NPP<br>New Prospect for Hong Kong or NPHK <br>New Territories Association of Societies or NTAS <br>Professional Power or PP <br>Roundtable or RT <br>Third Side or TS<br>
 <strong>note 1:</strong> there is no political party ordinance, so there are no registered political parties; politically active groups register as societies or companies<br><br><strong>note 2:</strong> by the end of 2021, the leading pro-democracy figures in Hong Kong had been effectively removed from the political arena under the provisions of Beijing's 2021 electoral changes or via charges under the 2020 national security law; in addition, dozens of pro-democracy organizations, including political parties, unions, churches, civil rights groups, and media organizations have disbanded or closed; as of 2023, nearly all politically active groups were pro-Beijing<br>
 
 **International organization participation**<br>
@@ -395,9 +395,10 @@ trading and logistics, financial services, professional services, tourism, cultu
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15% (2021 est.)<br>
-_male_: 16.3%<br>
-_female_: 13.6%<br>
+_total_: 10.5% (2023 est.)<br>
+_male_: 11.3% (2023 est.)<br>
+_female_: 9.6% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 19.9% (2016 est.)<br>

@@ -340,8 +340,8 @@ _highest court(s)_: Supreme Court or Haestirettur (consists of 7 judges)<br>
 _judge selection and term of office_: judges proposed by Ministry of Interior selection committee and appointed by the president; judges appointed for an indefinite period<br>
 _subordinate courts_: Appellate Court or Landsrettur; 8 district courts; Labor Court<br>
 
-**Political parties and leaders**<br>
-<p>Centrist Party (Midflokkurinn) or CP [Sigmundur David GUNNLAUGSSON] <br>Independence Party (Sjalfstaedisflokkurinn) or IP [Bjarni BENEDIKTSSON]  <br>Left-Green Movement (Vinstrihreyfingin-graent frambod) or LGM [Katrin JAKOBSDOTTIR] <br>People's Party (Flokkur Folksins) [Inga SAELAND] <br>Pirate Party (Piratar) [Thorhildur Sunna AEVARSDOTTIR] <br>Progressive Party (Framsoknarflokkurinn) or PP [Sigurdur Ingi JOHANNSSON]<br>Reform Party (Vidreisn) [Thorgerdur Katrin GUNNARSDOTTIR] <br>Social Democratic Alliance (Samfylkingin) or SDA [Kristrun FROSTADOTTIR]</p><br>
+**Political parties**<br>
+<p>Centrist Party (Midflokkurinn) or CP <br>Independence Party (Sjalfstaedisflokkurinn) or IP <br>Left-Green Movement (Vinstrihreyfingin-graent frambod) or LGM <br>People's Party (Flokkur Folksins) <br>Pirate Party (Piratar) <br>Progressive Party (Framsoknarflokkurinn) or PP <br>Reform Party (Vidreisn) <br>Social Democratic Alliance (Samfylkingin) or SDA </p><br>
 
 **International organization participation**<br>
 Arctic Council, Australia Group, BIS, CBSS, CD, CE, EAPC, EBRD, EFTA, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -450,9 +450,10 @@ tourism, fish processing; aluminum smelting; geothermal power, hydropower; medic
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.4% (2021 est.)<br>
-_male_: 13%<br>
-_female_: 13.7%<br>
+_total_: 9.2% (2023 est.)<br>
+_male_: 10.5% (2023 est.)<br>
+_female_: 7.9% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 8.8% (2017 est.)<br>

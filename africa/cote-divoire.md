@@ -365,8 +365,8 @@ _highest court(s)_: Supreme Court or Cour Supreme (organized into Judicial, Audi
 _judge selection and term of office_: judges nominated by the Superior Council of the Magistrature, a 7-member body consisting of the national president (chairman), 3 "bench" judges, and 3 public prosecutors; judges appointed for life<br>
 _subordinate courts_: Courts of Appeal (organized into civil, criminal, and social chambers); first instance courts; peace courts<br>
 
-**Political parties and leaders**<br>
-African Peoples' Party-Cote d'Ivoire or PPA-CI [Laurent GBAGBO]<br>Democratic Party of Cote d'Ivoire or PDCI [Henri Konan BEDIE]<br>Ivorian Popular Front or FPI [Pascal Affi N'GUESSAN]<br>Liberty and Democracy for the Republic or LIDER [Mamadou KOULIBALY]<br>Movement of the Future Forces or MFA [Innocent Augustin ANAKY KOBENA]<br>Pan-African Congress for People's Justice and Equality or COJEP [Charles BLE GOUDE]<br>Rally of Houphouetists for Democracy and Peace or RHDP [Alassane Dramane OUATTARA] <br>Rally of the Republicans or RDR [Henriette DIABATE]<br>Together for Democracy and Sovereignty or EDS [Georges Armand OUEGNIN]<br>Together to Build (UDPCI, FPI,and allies) [Toikeuse MABRI]<br>Union for Cote d'Ivoire or UPCI [Gnamien KONAN]<br>Union for Democracy and Peace in Cote d'Ivoire or UDPCI [Albert Toikeusse MABRI]<br>
+**Political parties**<br>
+African Peoples' Party-Cote d'Ivoire or PPA-CI <br>Democratic Party of Cote d'Ivoire or PDCI <br>Ivorian Popular Front or FPI <br>Liberty and Democracy for the Republic or LIDER <br>Movement of the Future Forces or MFA <br>Pan-African Congress for People's Justice and Equality or COJEP <br>Rally of Houphouetists for Democracy and Peace or RHDP <br>Rally of the Republicans or RDR<br>Together for Democracy and Sovereignty or EDS <br>Together to Build (UDPCI, FPI,and allies) <br>Union for Cote d'Ivoire or UPCI <br>Union for Democracy and Peace in Cote d'Ivoire or UDPCI<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, Union Latina, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -475,9 +475,10 @@ foodstuffs, beverages; wood products, oil refining, gold mining, truck and bus a
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.7% (2021 est.)<br>
-_male_: 4.8%<br>
-_female_: 6.8%<br>
+_total_: 4% (2023 est.)<br>
+_male_: 3.3% (2023 est.)<br>
+_female_: 4.9% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 37.5% (2021 est.)<br>

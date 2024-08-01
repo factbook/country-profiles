@@ -351,8 +351,8 @@ _highest court(s)_: Supreme Court (consists of the chairman, deputy chairmen, an
 _judge selection and term of office_: Supreme Court, Constitutional Court, and High Economic Court judges nominated by the president and approved by the National Assembly; judges of all 3 courts appointed for 10-year renewable terms with no term limits, but the last appointment must occur before the age of 65<br>
 _subordinate courts_: regional and district courts; Dushanbe City Court; viloyat (province level) courts; Court of Gorno-Badakhshan Autonomous Region<br>
 
-**Political parties and leaders**<br>
-Agrarian Party of Tajikistan or APT [Rustam LATIFZODA]<br>Communist Party of Tajikistan or CPT [Miroj ABDULLOEV]<br>Democratic Party of Tajikistan or DPT [Saidjafar USMONZODA]<br>Party of Economic Reform of Tajikistan or PERT [Rustam RAHMATZODA]<br>People's Democratic Party of Tajikistan or PDPT [Emomali RAHMON]<br>Social Democratic Party of Tajikistan or SDPT (vacant)<br>Socialist Party of Tajikistan or SPT [Abduhalim GHAFFORZODA]<br>
+**Political parties**<br>
+Agrarian Party of Tajikistan or APT<br>Communist Party of Tajikistan or CPT<br>Democratic Party of Tajikistan or DPT<br>Party of Economic Reform of Tajikistan or PERT<br>People's Democratic Party of Tajikistan or PDPT<br>Social Democratic Party of Tajikistan or SDPT<br>Socialist Party of Tajikistan or SPT<br>
 
 **International organization participation**<br>
 ADB, CICA, CIS, CSTO, EAEC, EAPC, EBRD, ECO, EITI (candidate country), FAO, G-77, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -460,9 +460,10 @@ aluminum, cement, coal, gold, silver, antimony, textile, vegetable oil<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.4% (2021 est.)<br>
-_male_: 19.4%<br>
-_female_: 14.4%<br>
+_total_: 16.9% (2023 est.)<br>
+_male_: 19.5% (2023 est.)<br>
+_female_: 13.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 22.5% (2022 est.)<br>

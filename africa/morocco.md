@@ -377,8 +377,8 @@ _highest court(s)_: Supreme Court or Court of Cassation (consists of 5-judge pan
 _judge selection and term of office_: Supreme Court judges appointed by the Superior Council of Judicial Power, a 20-member body presided over by the monarch, which includes the Supreme Court president, the prosecutor general, representatives of the appeals and first instance courts&nbsp; (among them 1 woman magistrate), the president of the National Council for Human Rights (CNDH), and 5 "notable persons" appointed by the monarch; judges appointed for life; Constitutional Court members - 6 designated by the monarch and 6 elected by Parliament; court president appointed by the monarch from among the court members; members serve 9-year nonrenewable terms<br>
 _subordinate courts_: courts of appeal; High Court of Justice; administrative and commercial courts; regional and Sadad courts (for religious, civil and administrative, and penal adjudication); first instance courts<br>
 
-**Political parties and leaders**<br>
-Action Party or PA [Mohammed EL IDRISSI]<br>Amal (hope) Party [Mohamed BANI]<br>An-Nahj Ad-Dimocrati or An-Nahj or Democratic Way [Mustapha BRAHMA]<br>Authenticity and Modernity Party or PAM [Abdellatif OUAHBI]<br>Constitutional Union Party or UC [Mohamed JOUDAR]<br>Democratic and Social Movement or MDS [Abdessamad ARCHANE]<br>Democratic Forces Front or FFD [Mustapha BENALI]<br>Environment and Sustainable Development Party or PEDD [Karim HRITANE]<br>Federation of the Democratic Left or FGD [Abdesalam EL AZIZ]<br>Green Left Party or PGV [Mohamed FARES]<br>Istiqlal (Independence) Party or PI [Nizar BARAKA]<br>Moroccan Liberal Party or PML [Isaac CHARIA]<br>Moroccan Union for Democracy or UMD [Jamal MANDRI]<br>National Democratic Party [Moussa SAADI]<br>National Rally of Independents or RNI [Aziz AKHANNOUCH]<br>Neo-Democrats Party [Mohamed DARIF]<br>Party of Development Reform or PRD [Abderrahmane EL KOHEN]<br>Party of Justice and Development or PJD [Abdelilah BENKIRANE]<br>Party of Liberty and Social Justice or PLJS [Miloud MOUSSAOUI]<br>Party of Progress and Socialism or PPS [Nabil BENABDELLAH]<br>Popular Movement or MP [Mohammed OUZZINE]<br>Renaissance and Virtue Party or PRV [Mohamed KHALIDI]<br>Renaissance Party [Said EL GHENNIOUI]<br>Renewal and Equity Party or PRE [Chakir ACHEHABAR]<br>Shoura (consultation) and Istiqlal Party [Ahmed BELGHAZI]<br>Socialist Union of Popular Forces or USFP [Driss LACHGAR]<br>Unified Socialist Party or GSU [Nabila MOUNIB]<br>Unity and Democracy Party [Ahmed FITRI]<br>
+**Political parties**<br>
+Action Party or PA<br>Amal (hope) Party<br>An-Nahj Ad-Dimocrati or An-Nahj or Democratic Way<br>Authenticity and Modernity Party or PAM<br>Constitutional Union Party or UC<br>Democratic and Social Movement or MDS<br>Democratic Forces Front or FFD<br>Environment and Sustainable Development Party or PEDD<br>Federation of the Democratic Left or FGD<br>Green Left Party or PGV<br>Istiqlal (Independence) Party or PI<br>Moroccan Liberal Party or PML<br>Moroccan Union for Democracy or UMD<br>National Democratic Party<br>National Rally of Independents or RNI<br>Neo-Democrats Party<br>Party of Development Reform or PRD<br>Party of Justice and Development or PJD<br>Party of Liberty and Social Justice or PLJS<br>Party of Progress and Socialism or PPS<br>Popular Movement or MP<br>Renaissance and Virtue Party or PRV<br>Renaissance Party<br>Renewal and Equity Party or PRE<br>Shoura (consultation) and Istiqlal Party<br>Socialist Union of Popular Forces or USFP<br>Unified Socialist Party or GSU<br>Unity and Democracy Party<br>
 
 **International organization participation**<br>
 ABEDA, AfDB, AFESD, AIIB, AMF, AMU, AU, CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNOOSA, UNSC (temporary), UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -489,10 +489,10 @@ automotive parts, phosphate mining and processing, aerospace, food processing, l
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.2% (2021 est.)<br>
-_male_: 26.7%<br>
-_female_: 28.7%<br>
-<strong>note: </strong>does not include data from the former Western Sahara<br>
+_total_: 22.6% (2023 est.)<br>
+_male_: 22.5% (2023 est.)<br>
+_female_: 23% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 4.8% (2013 est.)<br>

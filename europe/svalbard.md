@@ -141,8 +141,8 @@ _election results_: seats by party - Liberal 7, Labor 3, Social Liberal 3, Conse
 **Judicial branch**<br>
 _highest court(s)_: none; note - Svalbard is subordinate to Norway's Nord-Troms District Court and Halogaland Court of Appeal, both located in Tromso<br>
 
-**Political parties and leaders**<br>
-Conservative [Celine ANDERSSEN]<br>Labor [Svein Jonny ALBRIGHTSEN ]<br>Liberal [Terje AUVENIK]<br>Progress [Sylvi LISTHAUG]<br>Socialist Left<br>
+**Political parties**<br>
+Conservative <br>Labor <br>Liberal <br>Progress <br>Socialist Left<br>
 
 **International organization participation**<br>
 none<br>

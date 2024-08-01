@@ -296,8 +296,8 @@ _highest court(s)_: Supreme Court (consists of 5 permanent members and 2 substit
 _judge selection and term of office_: Supreme Court members appointed by the monarch upon the proposals of the National Council, State Council, Crown Council, Court of Appeal, and Trial Court<br>
 _subordinate courts_: Court of Appeal; Civil Court of First Instance<br>
 
-**Political parties and leaders**<br>
-Monegasque National Union [Brigitte BOCCONE-PAGES] (includes Horizon Monaco, Primo!, Union Monegasque)<br>Horizon Monaco [Laurent NOUVION]<br>Priorite Monaco or Primo! [Stephane VALERI]<br>Union Monegasque [Jean-Francois ROBILLON]<br>
+**Political parties**<br>
+Monegasque National Union (includes Horizon Monaco, Primo!, Union Monegasque)<br>Horizon Monaco <br>Priorite Monaco or Primo! <br>Union Monegasque <br>
 
 **International organization participation**<br>
 CD, CE, FAO, IAEA, ICAO, ICC (national committees), ICRM, IFRCS, IHO, IMO, IMSO, Interpol, IOC, IPU, ITSO, ITU, OAS (observer), OIF, OPCW, OSCE, Schengen Convention (de facto member), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WHO, WIPO, WMO<br>

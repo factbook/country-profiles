@@ -319,8 +319,8 @@ _highest court(s)_: Supreme Court (consists of the High Court with 8 justices) a
 _judge selection and term of office_: Supreme Court chief justice appointed by the president on the recommendation of the prime minister and opposition leader of Parliament; other justices appointed by the president on the recommendation of the Judicial and Legal Service Commission, a 5-member independent body consisting of the Supreme Court chief justice, the commission head, and presidential appointees recommended by the prime minister; justices serve until mandatory retirement at age 65<br>
 _subordinate courts_: Magistrates' Courts<br>
 
-**Political parties and leaders**<br>
-Alliance Party for Progress or APP [Joseph ATHERLEY]<br>Barbados Labor Party or BLP [Mia MOTTLEY]<br>Democratic Labor Party or DLP [Ronnie YEARWOOD]<br>
+**Political parties**<br>
+Alliance Party for Progress or APP<br>Barbados Labor Party or BLP<br>Democratic Labor Party or DLP<br>
 
 **International organization participation**<br>
 ACP, ACS, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OPANAL, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -429,9 +429,10 @@ tourism, sugar, light manufacturing, component assembly for export<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.6% (2021 est.)<br>
-_male_: 34.8%<br>
-_female_: 25.6%<br>
+_total_: 24.9% (2023 est.)<br>
+_male_: 28.9% (2023 est.)<br>
+_female_: 20.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Remittances**<br>
 1.33% of GDP (2023 est.)<br>

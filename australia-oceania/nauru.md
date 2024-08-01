@@ -19,7 +19,7 @@ Oceania, island in the South Pacific Ocean, south of the Marshall Islands<br>
 Oceania<br>
 
 **Area**<br>
-_total_: 21 sq km<br>
+_total _: 21 sq km<br>
 _land_: 21 sq km<br>
 _water_: 0 sq km<br>
 
@@ -298,7 +298,7 @@ _highest court(s)_: Supreme Court (consists of the chief justice and several jus
 _judge selection and term of office_: judges appointed by the president to serve until age 65<br>
 _subordinate courts_: District Court, Family Court<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 Nauru does not have formal political parties; alliances within the government are often formed based on extended family ties<br>
 
 **International organization participation**<br>
@@ -331,25 +331,25 @@ _lyrics/music_: Margaret HENDRIE/Laurence Henry HICKS<br>
 upper-middle-income Pacific island country; phosphate resource exhaustion made island interior uninhabitable; licenses fishing rights; houses Australia&rsquo;s Regional Processing Centre; former tax haven; largely dependent on foreign subsidies<br>
 
 **Real GDP (purchasing power parity)**<br>
-$139.656 million (2022 est.)<br>
-$137.491 million (2021 est.)<br>
-$133.161 million (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$145.958 million (2023 est.)<br>
+$144.937 million (2022 est.)<br>
+$141.875 million (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **Real GDP growth rate**<br>
-1.57% (2022 est.)<br>
-3.25% (2021 est.)<br>
-4.24% (2020 est.)<br>
+0.7% (2023 est.)<br>
+2.16% (2022 est.)<br>
+7.75% (2021 est.)<br>
 <b>note:</b> annual GDP % growth based on constant local currency<br>
 
 **Real GDP per capita**<br>
-$11,000 (2022 est.)<br>
-$11,000 (2021 est.)<br>
-$10,800 (2020 est.)<br>
-<b>note:</b> data in 2017 dollars<br>
+$11,400 (2023 est.)<br>
+$11,400 (2022 est.)<br>
+$11,300 (2021 est.)<br>
+<b>note:</b> data in 2021 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$151.648 million (2022 est.)<br>
+$154.128 million (2023 est.)<br>
 <b>note:</b> data in current dollars at official exchange rate<br>
 
 **Inflation rate (consumer prices)**<br>
@@ -451,11 +451,11 @@ $33.3 million (2004 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>
+1.505 (2023 est.)<br>
 1.442 (2022 est.)<br>
 1.331 (2021 est.)<br>
 1.453 (2020 est.)<br>
 1.439 (2019 est.)<br>
-1.338 (2018 est.)<br>
 
 ## Energy
 

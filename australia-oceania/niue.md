@@ -216,7 +216,7 @@ _judge selection and term of office_: Niue chief justice appointed by the govern
 _subordinate courts_: High Court<br>
 <strong>note:</strong> Niue is a participant in the Pacific Judicial Development Program, which is designed to build governance and the rule of law in 15 Pacific island countries<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 none<br>
 
 **International organization participation**<br>

@@ -361,8 +361,8 @@ _highest court(s)_: Supreme Court of Justice (consists of 5 judges)<br>
 _judge selection and term of office_: judges nominated by the president and appointed by two-thirds vote in joint conference of the General Assembly; judges serve 10-year terms, with reelection possible after a lapse of 5 years following the previous term<br>
 _subordinate courts_: Courts of Appeal; District Courts (Juzgados Letrados); Peace Courts (Juzgados de Paz); Rural Courts (Juzgados Rurales)<br>
 
-**Political parties and leaders**<br>
-Broad Front or FA (Frente Amplio) [Fernando PEREIRA] - (a broad governing coalition that comprises 34 factions including Popular Participation Movement or MPP [Jose MUJICA], Uruguay Assembly [founded by the late Danilo ASTORI], Progressive Alliance [Rodolfo NIN NOVOA], Broad Social Democratic Space [Rafael MICHELINI], Socialist Party [Gonzalo CIVILA], Vertiente Artiguista [Enrique RUBIO], Christian Democratic Party [Jorge RODRIGUEZ], Big House [Constanza MOREIRA], Communist Party [Juan CASTILLO], The Federal League [Sergio MIER], Fuerza Renovadora [Mario BERGARA])<br>Colorado Party (including Batllistas [Julio Maria SANGUINETTI] and Ciudadanos [Adrian PENA])<br>Intransigent Radical Ecologist Party (Partido Ecologista Radical Intransigente) or PERI [César VEGA]<br>Independent Party [Pablo MIERES]<br>National Party or PN (including Todos (Everyone) [Luis LACALLE POU] and National Alliance [Carlos CAMY])<br>Open Cabildo [Guido MANINI RIOS]<br>Popular Unity [Gonzalo ABELLA]<br>
+**Political parties**<br>
+Broad Front or FA (Frente Amplio) - (a broad governing coalition that comprises 34 factions including Popular Participation Movement or MPP, Uruguay Assembly, Progressive Alliance, Broad Social Democratic Space, Socialist Party, Vertiente Artiguista, Christian Democratic Party, Big House, Communist Party, The Federal League, Fuerza Renovadora)<br>Colorado Party (including Batllistas and Ciudadanos)<br>Intransigent Radical Ecologist Party (Partido Ecologista Radical Intransigente) or PERI<br>Independent Party<br>National Party or PN (including Todos (Everyone) and National Alliance)<br>Open Cabildo<br>Popular Unity<br>
 
 **International organization participation**<br>
 CAN (associate), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAES, LAIA, Mercosur, MIGA, MINUSTAH, MONUSCO, NAM (observer), OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNIDO, Union Latina, UNISFA, UNMOGIP, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -473,9 +473,10 @@ food processing, electrical machinery, transportation equipment, petroleum produ
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 32.9% (2021 est.)<br>
-_male_: 28.3%<br>
-_female_: 38.7%<br>
+_total_: 26.2% (2023 est.)<br>
+_male_: 24.4% (2023 est.)<br>
+_female_: 28.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 9.9% (2022 est.)<br>

@@ -357,8 +357,8 @@ _highest court(s)_: Supreme Court or Cour Supreme (consists of the chief justice
 _judge selection and term of office_: Supreme Court president and judges appointed by the president of the republic&nbsp;upon the advice of the National Assembly; judges appointed for single renewable 5-year terms; Constitutional Court members - 4 appointed by the National Assembly and 3 by the president of the republic; members appointed for single renewable 5-year terms; other members of the High Court of Justice elected by the National Assembly; member tenure NA<br>
 _subordinate courts_: Court of Appeal or Cour d'Appel; Court for the Repression of Economic and Terrorism Infractions (CRIET) or Cour de Repression des Infractions Economiques et du Terrorisme; district courts; village courts; Assize courts<br>
 
-**Political parties and leaders**<br>
-African Movement for Development and Progress or MADEP [Sefou FAGBOHOUN]<br>Benin Renaissance or RB [Lehady SOGLO]<br>Cowrie Force for an Emerging Benin or FCBE [Thomas Boni YAYI]<br>Democratic Renewal Party or PRD [Adrien HOUNGBEDJI]<br>Progressive Union for Renewal [Joseph DJOGBENOU]<br>Republican Bloc [Abdoulaye BIO TCHANE]<br>Sun Alliance or AS [Sacca LAFIA]<br>The Democrats [Boni YAY]<br>Union Makes the Nation or UN [Adrien HOUNGBEDJI] (includes PRD, MADEP)<br>
+**Political parties**<br>
+African Movement for Development and Progress or MADEP <br>Benin Renaissance or RB <br>Cowrie Force for an Emerging Benin or FCBE <br>Democratic Renewal Party or PRD <br>Progressive Union for Renewal <br>Republican Bloc <br>Sun Alliance or AS <br>The Democrats <br>Union Makes the Nation or UN (includes PRD, MADEP)<br>
 <strong>note:</strong> approximately 20 additional minor parties<br>
 
 **International organization participation**<br>
@@ -469,9 +469,10 @@ textiles, food processing, construction materials, cement<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.9% (2021 est.)<br>
-_male_: 3.1%<br>
-_female_: 4.6%<br>
+_total_: 3.9% (2023 est.)<br>
+_male_: 3.2% (2023 est.)<br>
+_female_: 4.6% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 38.5% (2019 est.)<br>

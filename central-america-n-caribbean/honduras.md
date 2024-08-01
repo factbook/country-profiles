@@ -350,8 +350,8 @@ _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (15 pr
 _judge selection and term of office_: court president elected by his peers; judges elected by the National Congress from candidates proposed by the Nominating Board, a diverse 7-member group of judicial officials and other government and non-government officials nominated by each of their organizations; judges elected by Congress for renewable, 7-year terms<br>
 _subordinate courts_: courts of appeal; courts of first instance; justices of the peace<br>
 
-**Political parties and leaders**<br>
-Anti-Corruption Party or PAC [Marlene ALVARENGA] <br>Christian Democratic Party or DC [Carlos PORTILLO] <br>Democratic Liberation of Honduras or Liderh [Lempira VIANA]<br>Democratic Unification Party or UD [Alfonso DIAZ Narvaez] <br>The Front or El Frente [Kelin PEREZ]<br>Honduran Patriotic Alliance or AP [Romeo VASQUEZ Velasquez] <br>Innovation and Unity Party or PINU [Guillermo VALLE]<br>Liberal Party or PL [Yani Benjamin ROSENTHAL Hidalgo] <br>Liberty and Refoundation Party or LIBRE [Jose Manuel ZELAYA Rosales]<br>National Party of Honduras or PNH [Juan Nasry ASFURA] <br>New Route or NR [Esdras Amado LOPEZ] <br>Opposition Alliance against the Dictatorship or Alianza de Oposicion contra la Dictadura [Salvador NASRALLA] (electoral coalition)<br>Savior Party of Honduras or PSH [Salvador Alejandro Cesar NASRALLA Salum]<br>Vamos or Let’s Go [Jose COTO]<br>We Are All Honduras (Todos Somos Honduras) or TSH [Marlon Oniel ESCOTO Valerio]<br>
+**Political parties**<br>
+Anti-Corruption Party or PAC<br>Christian Democratic Party or DC<br>Democratic Liberation of Honduras or Liderh<br>Democratic Unification Party or UD<br>The Front or El Frente<br>Honduran Patriotic Alliance or AP<br>Innovation and Unity Party or PINU<br>Liberal Party or PL<br>Liberty and Refoundation Party or LIBRE<br>National Party of Honduras or PNH<br>New Route or NR<br>Opposition Alliance against the Dictatorship or Alianza de Oposicion contra la Dictadura (electoral coalition)<br>Savior Party of Honduras or PSH<br>Vamos or Let’s Go<br>We Are All Honduras (Todos Somos Honduras) or TSH<br>
 
 **International organization participation**<br>
 ACS, BCIE, CACM, CD, CELAC, EITI (candidate country), FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC (suspended), IOM, IPU, ISO (subscriber), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINURSO, MINUSTAH, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNHRC, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO (suspended), WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -461,9 +461,10 @@ sugar processing, coffee, woven and knit apparel, wood products, cigars<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.5% (2021 est.)<br>
-_male_: 11.4%<br>
-_female_: 24.6%<br>
+_total_: 11% (2023 est.)<br>
+_male_: 7.5% (2023 est.)<br>
+_female_: 17% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 48% (2019 est.)<br>

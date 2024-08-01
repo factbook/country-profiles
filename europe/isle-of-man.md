@@ -275,8 +275,8 @@ _highest court(s)_: Isle of Man High Court of Justice (consists of 3 permanent j
 _judge selection and term of office_: deemsters appointed by the Lord Chancellor of England on the nomination of the lieutenant governor; deemsters can serve until age 70<br>
 _subordinate courts_: High Court; Court of Summary Gaol Delivery; Summary Courts; Magistrate's Court; specialized courts<br>
 
-**Political parties and leaders**<br>
-Green Party [Andrew LANGAN-NEWTON]<br>Liberal Vannin Party or LVP [Lawrie HOOPER]<br>Manx Labor Party [Joney FARAGHER] <br>Mec Vannin [Mark KERMODE] (sometimes referred to as the Manx Nationalist Party)<br>
+**Political parties**<br>
+Green Party <br>Liberal Vannin Party or LVP <br>Manx Labor Party<br>Mec Vannin (sometimes referred to as the Manx Nationalist Party)<br>
 <strong>note:</strong> most members sit as independents<br>
 
 **International organization participation**<br>

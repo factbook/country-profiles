@@ -350,8 +350,8 @@ _highest court(s)_: Supreme Court (organized into Civil Law and Commercial Divis
 _judge selection and term of office_: Supreme Court judges proposed by the Chamber of Deputies and appointed by the president; judges appointed for life; Constitutional Court judges appointed by the president and confirmed by the Senate; judges appointed for 10-year, renewable terms; Supreme Administrative Court judges selected by the president of the Court; unlimited terms<br>
 _subordinate courts_: High Court; regional and district courts<br>
 
-**Political parties and leaders**<br>
-Christian Democratic Union-Czechoslovak People's Party or KDU-CSL [Marian JURECKA]<br>Civic Democratic Party or ODS [Petr FIALA]<br>Communist Party of Bohemia and Moravia or KSCM [Katerina KONECNA]<br>Czech Social Democratic Party or CSSD [Michal SMARDA]<br>Freedom and Direct Democracy or SPD [Tomio OKAMURA]<br>Mayors and Independents or STAN [Vit RAKUSAN]<br>Mayors for the Liberec Region [Martin PUTA]<br>Action of Dissatisfied Citizens or ANO (<em lang="cs">Akce nespokojených občanů)</em> [Andrej BABIS]<br>Party of Free Citizens Svobodni [Libor VONDRACEK]<br>Pirate Party or Pirates [Ivan BARTOS]<br>Senator 21 [Vaclav LASKA]<br>Tradition Responsibility Prosperity 09 or TOP 09 [Marketa PEKAROVA ADAMOVA]<br>
+**Political parties**<br>
+Action of Dissatisfied Citizens or ANO (<em lang="cs">Akce nespokojených občanů)<br></em>Christian and Democratic Union - Czechoslovak People's Party or<em lang="cs"> KDU-ČSL</em><br>Civic Democratic Party or ODS<br>Communist Party of Bohemia and Moravia or KSČM<br>Czech Pirate Party or Piráti<br>ForMOST or ProMOST<br>Freedom and Direct Democracy or SPD<br>Independents or NEZ<br>Mayors and Independents or STAN<br>Mayors for the Liberec Region or SLK<br>Ostravak<br>Přísaha<br>Senator 21 or SEN 21<br>Social Democracy SOCDEM<br>Svobodni<br>Tradition Responsibility Prosperity 09 or TOP 09<br>Tábor 2020 or T2020<br>United Democrats - Association of Independents or SD-SN<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -462,9 +462,10 @@ motor vehicles, metallurgy, machinery and equipment, glass, armaments<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.6% (2021 est.)<br>
-_male_: 6.9%<br>
-_female_: 8.7%<br>
+_total_: 8.3% (2023 est.)<br>
+_male_: 7.8% (2023 est.)<br>
+_female_: 9% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 10.2% (2021 est.)<br>

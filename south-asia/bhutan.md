@@ -316,8 +316,8 @@ _highest court(s)_: Supreme Court (consists of the chief justice and 4 associate
 _judge selection and term of office_: Supreme Court chief justice appointed by the monarch upon the advice of the National Judicial Commission, a 4-member body to include the Legislative Committee of the National Assembly, the attorney general, the Chief Justice of Bhutan and the senior Associate Justice of the Supreme Court; other judges (drangpons) appointed by the monarch from among the High Court judges selected by the National Judicial Commission; chief justice serves a 5-year term or until reaching age 65 years, whichever is earlier; the 4 other judges serve 10-year terms or until age 65, whichever is earlier<br>
 _subordinate courts_: High Court (first appellate court); District or Dzongkhag Courts; sub-district or Dungkhag Courts<br>
 
-**Political parties and leaders**<br>
-<p>Bhutan Peace and Prosperity Party (Druk Phuensum Tshogpa) or DPT [Dorji WANGDI]<br>Bhutan Tendrel Party or BTP (Pema CHEWANG)<br>Druk Thuendrel Tshogpa or DTT [Kinga TSHERING]<br>People's Democratic Party or PDP [Tshering TOBGAY]<br>United Party of Bhutan (Druk Nyamrup Tshogpa) or DNT [Lotay TSHERING]</p><br>
+**Political parties**<br>
+<p>Bhutan Peace and Prosperity Party (Druk Phuensum Tshogpa) or DPT<br>Bhutan Tendrel Party or BTP<br>Druk Thuendrel Tshogpa or DTT<br>People's Democratic Party or PDP<br>United Party of Bhutan (Druk Nyamrup Tshogpa) or DNT</p><br>
 
 **International organization participation**<br>
 ADB, BIMSTEC, CP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IMF, Interpol, IOC, IOM (observer), IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
@@ -412,9 +412,10 @@ cement, wood products, processed fruits, alcoholic beverages, calcium carbide, t
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.8% (2021 est.)<br>
-_male_: 15.6%<br>
-_female_: 22%<br>
+_total_: 29.2% (2023 est.)<br>
+_male_: 25.1% (2023 est.)<br>
+_female_: 33.1% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 12.4% (2022 est.)<br>

@@ -344,8 +344,8 @@ _highest court(s)_: Supreme Court or Supremo Tribunal Justica (consists of 5 jud
 _judge selection and term of office_: Supreme Court judges appointed by the National Assembly; judge tenure NA; Constitutional Court judges nominated by the president and elected by the National Assembly for 5-year terms<br>
 _subordinate courts_: Court of First Instance; Audit Court<br>
 
-**Political parties and leaders**<br>
-BASTA Movement [Salvador RAMOS]<br>Independent Democratic Action or ADI [Patrice TROVADA]<br>Movement for the Liberation of Sao Tome and Principe-Social Democratic Party or MLSTP-PSD [Jorge Lopes Bom JESUS]<br>Movement of Independent Citizens of São Tomé and Príncipe - Socialist Party or MCI-PS [António Monteiro]<br>National Unity Party or PUN<br>
+**Political parties**<br>
+BASTA Movement <br>Independent Democratic Action or ADI <br>Movement for the Liberation of Sao Tome and Principe-Social Democratic Party or MLSTP-PSD <br>Movement of Independent Citizens of São Tomé and Príncipe - Socialist Party or MCI-PS <br>National Unity Party or PUN<br>
 
 **International organization participation**<br>
 ACP, AfDB, AOSIS, AU, CD, CEMAC, CPLP, EITI (candidate country), FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
@@ -441,9 +441,10 @@ light construction, textiles, soap, beer, fish processing, timber<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 22.9% (2021 est.)<br>
-_male_: 18%<br>
-_female_: 34.3%<br>
+_total_: 21.1% (2023 est.)<br>
+_male_: 15.3% (2023 est.)<br>
+_female_: 33.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 55.5% (2017 est.)<br>

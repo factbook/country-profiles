@@ -341,8 +341,8 @@ _highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of 9 
 _judge selection and term of office_: judges nominated by the Higher Council of the Magistrate, a major government organ responsible for judge appointments, dismissals, and judiciary discipline; judges appointed by the president for life<br>
 _subordinate courts_: Appeals Court; regional (first instance) courts; military court<br>
 
-**Political parties and leaders**<br>
-African Party for the Independence of Guinea and Cabo Verde or PAIGC [Domingos SIMOES PEREIRA]<br>Democratic Convergence Party or PCD [Vicente FERNANDES]<br>Movement for Democratic Alternation Group of 15 or MADEM-G15 [Braima CAMARA]<br>National People’s Assembly – Democratic Party of Guinea Bissau or APU-PDGB [Nuno Gomes NABIAM]<br>New Democracy Party or PND [Mamadu Iaia DJALO]<br>Party for Social Renewal or PRS [Alberto NAMBEIA]<br>Republican Party for Independence and Development or PRID [Aristides GOMES]<br>Union for Change or UM [Agnelo REGALA]<br>
+**Political parties**<br>
+African Party for the Independence of Guinea and Cabo Verde or PAIGC <br>Democratic Convergence Party or PCD <br>Movement for Democratic Alternation Group of 15 or MADEM-G15 <br>National People’s Assembly – Democratic Party of Guinea Bissau or APU-PDGB <br>New Democracy Party or PND <br>Party for Social Renewal or PRS <br>Republican Party for Independence and Development or PRID <br>Union for Change or UM <br>
 
 **International organization participation**<br>
 ACP, AfDB, AOSIS, AU, CPLP, ECOWAS, FAO, FZ, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -435,9 +435,10 @@ agricultural products processing, beer, soft drinks<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.8% (2021 est.)<br>
-_male_: 11.6%<br>
-_female_: 14.2%<br>
+_total_: 4% (2023 est.)<br>
+_male_: 3.9% (2023 est.)<br>
+_female_: 4.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 47.7% (2018 est.)<br>

@@ -355,8 +355,8 @@ _highest court(s)_: Supreme Court or Hoge Raad (consists of 41 judges: the presi
 _judge selection and term of office_: justices appointed by the monarch from a list provided by the House of Representatives of the States General; justices appointed for life or until mandatory retirement at age 70<br>
 _subordinate courts_: courts of appeal; district courts, each with up to 5 subdistrict courts; Netherlands Commercial Court<br>
 
-**Political parties and leaders**<br>
-Christian Democratic Appeal or CDA [Henri BONTENBAI]<br>Christian Union or CU [Mirjam BIKKER]<br>Correct Answer 2021 or JA21 [Joost EEDERMANS]<br>Democrats 66 or D66 [Rob JETTEN]<br>Denk [Stephan van BAARLE]<br>Farmer-Citizen Movement or BBB [Caroline van der PLAS]<br>50Plus [Martin van ROOIJEN]<br>Forum for Democracy or FvD [Thierry BAUDET]<br>Green Left (GroenLinks) or GL [Jesse KLAVER]<br>Labor Party or PvdA [Attje KUIKEN]<br>New Social Contract or NSC [Pieter OMTZIGT]<br>Party for Freedom or PVV [Geert WILDERS]<br>Party for the Animals or PvdD [Esther OUWENHAND]<br>People's Party for Freedom and Democracy or VVD [Dilan YESILGOZ]<br>Reformed Political Party or SGP [Chris STOFFER]<br>Socialist Party or SP [Lilian MARIJNISSEN]<br>Together or BIJ1 [Edson OLF]<br>Volt Netherlands or Volt [Laurens DASSEN]<br>
+**Political parties**<br>
+Christian Democratic Appeal or CDA <br>Christian Union or CU<br>Correct Answer 2021 or JA21<br>Democrats 66 or D66 <br>Denk <br>Farmer-Citizen Movement or BBB <br>50Plus <br>Forum for Democracy or FvD <br>Green Left (GroenLinks) or GL <br>Labor Party or PvdA <br>New Social Contract or NSC <br>Party for Freedom or PVV <br>Party for the Animals or PvdD <br>People's Party for Freedom and Democracy or VVD <br>Reformed Political Party or SGP <br>Socialist Party or SP <br>Together or BIJ1 <br>Volt Netherlands or Volt <br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, Benelux, BIS, CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, UNOOSA, UNRWA, UN Security Council (temporary), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -467,9 +467,10 @@ agroindustries, metal and engineering products, electrical machinery and equipme
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.6% (2021 est.)<br>
-_male_: 10%<br>
-_female_: 9.2%<br>
+_total_: 8.9% (2023 est.)<br>
+_male_: 9.4% (2023 est.)<br>
+_female_: 8.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 14.5% (2021 est.)<br>

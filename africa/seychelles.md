@@ -328,8 +328,8 @@ _highest court(s)_: Seychelles Court of Appeal (consists of the court president 
 _judge selection and term of office_: all judges appointed by the president of the republic upon the recommendation of the Constitutional Appointments Authority, a 3-member body, with 1 member appointed by the president of the republic, 1 by the opposition leader in the National Assembly, and 1 by the other 2 appointees; judges serve until retirement at age 70<br>
 _subordinate courts_: Magistrates' Courts of Seychelles; Family Tribunal for issues such as domestic violence, child custody, and maintenance; Employment Tribunal for labor-related disputes<br>
 
-**Political parties and leaders**<br>
-Seychelles Party for Social Justice and Democracy or SPSJD [Vesna RAKIC]<br>Seychellois Democratic Alliance or LDS (Linyon Demokratik Seselwa/Union Démocratique Seychelloise) (coalition includes SNP and SPSJD) [Roger MANCIENNE]<br>Seychelles National Party or SNP [Wavel RAMKALAWAN]<br>United Seychelles or US [Patrick HERMINIE]<br>
+**Political parties**<br>
+Seychelles Party for Social Justice and Democracy or SPSJD<br>Seychellois Democratic Alliance or LDS (Linyon Demokratik Seselwa/Union Démocratique Seychelloise)<br>Seychelles National Party or SNP<br>United Seychelles or US<br>
 
 **International organization participation**<br>
 ACP, AfDB, AOSIS, AU, C, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

@@ -372,8 +372,8 @@ _highest court(s)_: Supreme Court or Mahkamah Agung (51 judges divided into 8 ch
 _judge selection and term of office_: Supreme Court judges nominated by Judicial Commission, appointed by president with concurrence of parliament; judges serve until retirement at age 65; Constitutional Court judges - 3 nominated by president, 3 by Supreme Court, and 3 by parliament; judges appointed by the president; judges serve until mandatory retirement at age 70<br>
 _subordinate courts_: High Courts of Appeal, district courts, religious courts<br>
 
-**Political parties and leaders**<br>
-Democrat Party or PD [Agus Harimurti YUDHOYONO]<br>Functional Groups Party or GOLKAR [Airlangga HARTARTO]<br>Great Indonesia Movement Party or GERINDRA [PRABOWO Subianto Djojohadikusumo]<br>Indonesia Democratic Party-Struggle or PDI-P [MEGAWATI Sukarnoputri]<br>National Awakening Party or PKB [Muhaiman ISKANDAR]<br>National Democratic Party or NasDem [Surya PALOH]<br>National Mandate Party or PAN [Zulkifli HASAN]<br>Prosperous Justice Party or PKS [Ahmad SYAIKHU]<br>United Development Party or PPP [Muhamad MARDIONO]<br>
+**Political parties**<br>
+Democrat Party or PD <br>Functional Groups Party or GOLKAR <br>Great Indonesia Movement Party or GERINDRA <br>Indonesia Democratic Party-Struggle or PDI-P <br>National Awakening Party or PKB <br>National Democratic Party or NasDem <br>National Mandate Party or PAN <br>Prosperous Justice Party or PKS <br>
 
 **International organization participation**<br>
 ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, D-8, EAS, EITI (compliant country), FAO, G-11, G-15, G-20, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IORA, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, MSG (associate member), NAM, OECD (enhanced engagement), OIC, OPCW, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -486,9 +486,10 @@ petroleum and natural gas, textiles, automotive, electrical appliances, apparel,
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.1% (2021 est.)<br>
-_male_: 16.3%<br>
-_female_: 15.7%<br>
+_total_: 13.9% (2023 est.)<br>
+_male_: 14.2% (2023 est.)<br>
+_female_: 13.6% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 9.4% (2023 est.)<br>

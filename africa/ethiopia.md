@@ -381,8 +381,8 @@ _highest court(s)_: Federal Supreme Court (consists of 11 judges); note - the Ho
 _judge selection and term of office_: president and vice president of Federal Supreme Court recommended by the prime minister and appointed by the House of People's Representatives; other Supreme Court judges nominated by the Federal Judicial Administrative Council (a 10-member body chaired by the president of the Federal Supreme Court) and appointed by the House of People's Representatives; judges serve until retirement at age 60<br>
 _subordinate courts_: federal high courts and federal courts of first instance; state court systems (mirror structure of federal system); sharia courts and customary and traditional courts<br>
 
-**Political parties and leaders**<br>
-House of People's Representatives:<br>Ethiopian Citizens for Social Justice and Democracy or EZEMA [BERHANU Nega]   <br>Gedeo People's Democratic Party<br>Independent [n/a]<br>Kucha People Democratic Party <br>National Movement of Amhara or NAMA [BELETE Molla]<br>Prosperity Party or PP [ABIY Ahmed Ali]<br>
+**Political parties**<br>
+Ethiopian Citizens for Social Justice and Democracy or EZEMA   <br>Gedeo People's Democratic Party<br>Independent<br>Kucha People Democratic Party <br>National Movement of Amhara or NAMA<br>Prosperity Party or PP<br>
 
 **International organization participation**<br>
 ACP, AfDB, ATMIS, AU, BRICS, COMESA, EITI, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (accession candidate)<br>
@@ -493,9 +493,10 @@ food processing, beverages, textiles, leather, garments, chemicals, metals proce
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.7% (2021 est.)<br>
-_male_: 4.4%<br>
-_female_: 7.2%<br>
+_total_: 5.6% (2023 est.)<br>
+_male_: 4% (2023 est.)<br>
+_female_: 7.4% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 23.5% (2015 est.)<br>

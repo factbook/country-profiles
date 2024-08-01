@@ -345,8 +345,8 @@ _highest court(s)_: Supreme Court of Justice (consists of 22 judges organized in
 _judge selection and term of office_: Supreme Court of Justice judges elected by the National Assembly for 8-year terms with renewal decided by the National Assembly<br>
 _subordinate courts_: appellate courts; trial courts; first instance and justice of the peace courts; Superior Electoral Tribunal<br>
 
-**Political parties and leaders**<br>
-<p>Accessibility Without Exclusion or PASE [Oscar Andres LOPEZ Arias]<br>Broad Front (Frente Amplio) or PFA [Ana Patricia MORA Castellanos]<br>Citizen Action Party or PAC [Fabian SOLANO Fernandez]<br>Costa Rican Renewal Party or PRC [Justo OROZCO Alvarez]<br>Here Costa Rica Commands Party or ACRM [Federico CRUZ Saravanja]<br>Liberal Progressive Party or PLP [Eliecer FEINZAIG Mintz]<br>Libertarian Movement Party or ML [Victor Danilo CUBERO Corrales]<br>National Integration Party or PIN [Walter MUNOZ Cespedes]<br>National Liberation Party or PLN [Ricardo SANCHO Chavarría]<br>National Restoration Party or PRN [Carlos Luis AVENDANO Calvo]<br>New Generation or PNG [Rodolfo SOLIS Herrera]<br>New Republic Party or PNR [Fabricio ALVARADO Muñoz]<br>Social Christian Republican Party or PRSC [Otto ROBERTO Vargas]<br>Social Christian Unity Party or PUSC of UNIDAD [Juan Carlos HIDALGO Bogantes]<br>Social Democratic Progress Party or PPSD [Luz Mary ALPIZAR Loaiza]</p><br>
+**Political parties**<br>
+<p>Accessibility Without Exclusion or PASE<br>Broad Front (Frente Amplio) or PFA<br>Citizen Action Party or PAC<br>Costa Rican Renewal Party or PRC<br>Here Costa Rica Commands Party or ACRM<br>Liberal Progressive Party or PLP <br>Libertarian Movement Party or ML<br>National Integration Party or PIN<br>National Liberation Party or PLN<br>National Restoration Party or PRN<br>New Generation or PNG<br>New Republic Party or PNR<br>Social Christian Republican Party or PRSC<br>Social Christian Unity Party or PUSC of UNIDAD<br>Social Democratic Progress Party or PPSD</p><br>
 
 **International organization participation**<br>
 ACS, BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, NAM (observer), OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -457,9 +457,10 @@ medical equipment, food processing, textiles and clothing, construction material
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 45.4% (2021 est.)<br>
-_male_: 37%<br>
-_female_: 56.3%<br>
+_total_: 24.1% (2023 est.)<br>
+_male_: 21% (2023 est.)<br>
+_female_: 28.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 25.5% (2022 est.)<br>

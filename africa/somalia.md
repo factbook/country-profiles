@@ -335,8 +335,8 @@ _highest court(s)_: the provisional constitution stipulates the establishment of
 _judge selection and term of office_: judges appointed by the president upon proposal of the Judicial Service Commission, a 9-member judicial and administrative body; judge tenure NA<br>
 _subordinate courts_: federal courts; federal member state-level courts; military courts; sharia courts<br>
 
-**Political parties and leaders**<br>
-<p>select National Independent Electoral Commission (NIEC) approved parties (as of 2020):</p> <p>Cosmopolitan Democratic Party [Yarow Sharef ADEN]<br>Green Party [Ahmed HAJI]<br>Himilo Qaran Party [Sharif SHEIKH AHMED]<br>Ilays Party [Abdulkadir OSOBLE]<br>Justice and Reconciliation Party<br>National Progressive Party<br>Peace and Unity Party [Asha ABDALLA]<br>Qaransoor Party [Abdijabaar SHEIKH AHMED]<br>Qiimo Qaran Party<br>Security and Justice Party<br>Social Justice Party [Mohamed NUR, chairman]<br>Somali Labour Party[Ali Mohamed APOLLO, chairman]<br>Somali Republic Party [Abdinur Ahmed DARMAN, chairman]<br>Somali Social Unity Party or SSUP [Yaasiin Maaxi MACALIN]<br>Union for Peace and Development Party or PDP [HASSAN SHEIKH Mohamud]<br>Wadajir Party [Abdirahman Abdishakur WARSAME]</p> <p><br><br><br></p><br>
+**Political parties**<br>
+<p>Cosmopolitan Democratic Party<br>Green Party<br>Himilo Qaran Party<br>Ilays Party<br>Justice and Reconciliation Party<br>National Progressive Party<br>Peace and Unity Party<br>Qaransoor Party<br>Qiimo Qaran Party<br>Security and Justice Party<br>Social Justice Party<br>Somali Labour Party<br>Somali Republic Party<br>Somali Social Unity Party or SSUP<br>Union for Peace and Development Party or PDP<br>Wadajir Party</p> <p><br><br><br></p><br>
 <strong>note:</strong> in 2017 an independent electoral commission (the NIEC) was inaugurated with a mandate to oversee the process of registration of political parties in the country; as of 2021, the NIEC had registered a total of 110 parties<br>
 
 **International organization participation**<br>
@@ -435,9 +435,10 @@ light industries, including sugar refining, textiles, wireless communication<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 34.7% (2021 est.)<br>
-_male_: 32.5%<br>
-_female_: 38.5%<br>
+_total_: 34.3% (2023 est.)<br>
+_male_: 32.4% (2023 est.)<br>
+_female_: 37.4% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 54.4% (2022 est.)<br>

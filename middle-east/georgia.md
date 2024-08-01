@@ -346,8 +346,8 @@ _highest court(s)_: Supreme Court (consists of 28 judges organized into several 
 _judge selection and term of office_: Supreme Court judges nominated by the High Council of Justice (a 14-member body consisting of the Supreme Court chairperson, common court judges, and appointees of the president of Georgia) and appointed by Parliament; judges appointed for life; Constitutional Court judges appointed 3 each by the president, by Parliament, and by the Supreme Court judges; judges appointed for 10-year terms<br>
 _subordinate courts_: Courts of Appeal; regional (town) and district courts<br>
 
-**Political parties and leaders**<br>
-Alliance of Patriots [Davit TARKHAN-MOURAVI]<br>Citizens Party [Aleko ELISASHVILI]<br>Democratic Movement-United Georgia or DM-UC [Nino BURJANADZE] <br>European Georgia-Movement for Liberty [Giga BOKERIA]<br>European Socialists [Fridon INJIA]<br>For Georgia [Giorgi GAKHARIA]<br>Georgian Dream-Democratic Georgia [Irakli KOBAKHIDZE]<br>Girchi-More Freedom [Zurab JAPARIDZE]<br>Labor Party [Shalva NATELASHVILI]<br>Lelo for Georgia [Mamuka KHAZARADZE]<br>New Political Centre-Girchi [Iago KHVICHIA]<br>Republican Party [Khatuna SAMNIDZE]<br>Strategy Aghmashenebeli [Giorgi VASHADZE]<br>United National Movement or UNM [Levan KHABEISHVILI]<br>
+**Political parties**<br>
+Citizens<br>European Socialists<br>For Georgia<br>Georgian Dream<br>Girchi<br>Law and Justice<br>Lelo for Georgia<br>National Democratic Party<br>People's Power<br>Progress and Freedom<br>Republican Party<br>State for the People<br>Strategy Aghmashenebeli<br>United National Movement or UNM<br>Victorious Georgia<br>
 
 **International organization participation**<br>
 ADB, BSEC, CD, CE, CPLP (associate), EAPC, EBRD, FAO, G-11, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OIF (observer), OPCW, OSCE, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -457,9 +457,10 @@ steel, machine tools, electrical appliances, mining (manganese, copper, gold), c
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 28.3% (2021 est.)<br>
-_male_: 27.4%<br>
-_female_: 29.9%<br>
+_total_: 30.2% (2023 est.)<br>
+_male_: 28.7% (2023 est.)<br>
+_female_: 32.7% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 15.6% (2022 est.)<br>

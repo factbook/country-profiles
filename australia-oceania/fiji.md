@@ -330,8 +330,8 @@ _highest court(s)_: Supreme Court (consists of the chief justice, all justices o
 _judge selection and term of office_: chief justice appointed by the president of Fiji on the advice of the prime minister following consultation with the parliamentary leader of the opposition; judges of the Supreme Court, the president of the Court of Appeal, the justices of the Court of Appeal, and puisne judges of the High Court appointed by the president of Fiji upon the nomination of the Judicial Service Commission after consulting with the cabinet minister and the committee of the House of Representatives responsible for the administration of justice; the chief justice, Supreme Court judges and justices of Appeal generally required to retire at age 70, but this requirement may be waived for one or more sessions of the court; puisne judges appointed for not less than 4 years nor more than 7 years, with mandatory retirement at age 65<br>
 _subordinate courts_: Magistrates' Court (organized into civil, criminal, juvenile, and small claims divisions)<br>
 
-**Political parties and leaders**<br>
-Fiji First [Voroqe "Frank" BAINIMARAMA]<br>Fiji Labor Party or FLP [Mahendra CHAUDHRY]<br>Freedom Alliance [Jagath KARUNARATNE] (formerly Fiji United Freedom Party or FUFP)<br>National Federation Party or NFP [Biman PRASAD] (primarily Indian)<br>People's Alliance [Sitiveni RABUKA]<br>Peoples Democratic Party or PDP [Lynda TABUYA]<br>Social Democratic Liberal Party or SODELPA [Lenaitasi DURU, general secretary]<br>Unity Fiji [Savenaca NARUBE]<br>
+**Political parties**<br>
+Fiji First <br>Fiji Labor Party or FLP <br>Freedom Alliance (formerly Fiji United Freedom Party or FUFP)<br>National Federation Party or NFP <br>People's Alliance <br>Peoples Democratic Party or PDP <br>Social Democratic Liberal Party or SODELPA <br>Unity Fiji <br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, CP, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OPCW, PCA, PIF, Sparteca (suspended), SPC, UN, UNCTAD, UNDOF, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -439,9 +439,10 @@ tourism, sugar processing, clothing, copra, gold, silver, lumber<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.1% (2021 est.)<br>
-_male_: 14.1%<br>
-_female_: 25.9%<br>
+_total_: 15.2% (2023 est.)<br>
+_male_: 11.7% (2023 est.)<br>
+_female_: 22.1% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 24.1% (2019 est.)<br>

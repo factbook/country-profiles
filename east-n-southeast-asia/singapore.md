@@ -339,8 +339,8 @@ _highest court(s)_: Supreme Court (although the number of judges varies - as of 
 _judge selection and term of office_: judges appointed by the president from candidates recommended by the prime minister after consultation with the chief justice; judges usually serve until retirement at age 65, but terms can be extended<br>
 _subordinate courts_: district, magistrates', juvenile, family, community, and coroners' courts; small claims tribunals; employment claims tribunals<br>
 
-**Political parties and leaders**<br>
-People's Action Party or PAP [LEE Hsien Loong]<br>Progress Singapore Party or PSP [Francis YUEN]<br>Workers' Party or WP [Pritam SINGH]<br>
+**Political parties**<br>
+People's Action Party or PAP <br>Progress Singapore Party or PSP <br>Workers' Party or WP <br>
 <strong>note: </strong>the PAP has won every general election since the end of the British colonial era in 1959<br>
 
 **International organization participation**<br>
@@ -452,9 +452,10 @@ electronics, chemicals, financial services, oil drilling equipment, petroleum re
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.1% (2021 est.)<br>
-_male_: 7%<br>
-_female_: 11.8%<br>
+_total_: 8.3% (2023 est.)<br>
+_male_: 6.5% (2023 est.)<br>
+_female_: 10.4% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 45.9 (2017)<br>

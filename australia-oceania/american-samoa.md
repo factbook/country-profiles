@@ -276,8 +276,8 @@ _highest court(s)_: High Court of American Samoa (consists of the chief justice,
 _judge selection and term of office_: chief justice and associate chief justice appointed by the US Secretary of the Interior to serve for life; Samoan associate judges appointed by the governor to serve for life<br>
 _subordinate courts_: district and village courts<br>
 
-**Political parties and leaders**<br>
-Democratic Party [T'ia REID, chairman]<br>Republican Party [Taulapapa William SWORD, chairman]<br>
+**Political parties**<br>
+Democratic Party<br>Republican Party<br>
 
 **International organization participation**<br>
 AOSIS (observer), Interpol (subbureau), IOC, PIF (observer), SPC<br>

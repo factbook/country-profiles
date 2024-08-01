@@ -362,7 +362,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Samia Suluhu HASSAN (since 19 March 2021)<br>
-_head of government_: President Samia Suluhu HASSAN (since 19 March 2021); Prime Minister Kassim MAJALIWA (since 20 November 2015) has authority over the day-to-day functions of the government, is the leader of government business in the National Assembly, and is head of the Cabinet<br>
+_head of government_: President Samia Suluhu HASSAN (since 19 March 2021)<br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 28 October 2020 (next to be held in October 2025); prime minister appointed by the president<br>
 _election results_: <br><em>2020</em>: John MAGUFULI reelected president; percent of vote - John MAGUFULI (CCM) 84.4%, Tundu LISSU (CHADEMA) 13%, other 2.6%; note - President MAGUFULI died on 17 March 2021 and his Vice President, Samia Suluhu HASSAN, assumed the office of the President on 19 March 2021<br><br><em>2015</em>: John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5%<br>
@@ -378,8 +378,8 @@ _highest court(s)_: Court of Appeal of the United Republic of Tanzania (consists
 _judge selection and term of office_: Court of Appeal and High Court justices appointed by the national president after consultation with the Judicial Service Commission for Tanzania, a judicial body of high level judges and 2 members appointed by the national president; Court of Appeal and High Court judges serve until mandatory retirement at age 60, but terms can be extended; High Court of Zanzibar judges appointed by the national president after consultation with the Judicial Commission of Zanzibar; judges can serve until mandatory retirement at age 65<br>
 _subordinate courts_: Resident Magistrates Courts; Kadhi courts (for Islamic family matters); district and primary courts<br>
 
-**Political parties and leaders**<br>
-Alliance for Change and Transparency (Wazalendo) or ACT-Wazalendo [Zitto Zuberi KABWE]<br>Civic United Front (Chama Cha Wananchi) or CUF [Ibrahim Haruna LIPUMBA]<br>Party of Democracy and Development (Chama Cha Demokrasia na Maendeleo) or CHADEMA [Freeman Aikael MBOWE]<br>Revolutionary Party of Tanzania (Chama Cha Mapinduzi) or CCM [Samia Suluhu HASSAN]<br>
+**Political parties**<br>
+Alliance for Change and Transparency (Wazalendo) or ACT-Wazalendo<br>Civic United Front (Chama Cha Wananchi) or CUF<br>Party of Democracy and Development (Chama Cha Demokrasia na Maendeleo) or CHADEMA<br>Revolutionary Party of Tanzania (Chama Cha Mapinduzi) or CCM<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, EAC, EADB, EITI, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SADC, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -486,9 +486,10 @@ agricultural processing (sugar, beer, cigarettes, sisal twine); mining (diamonds
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.6% (2021 est.)<br>
-_male_: 3.7%<br>
-_female_: 5.5%<br>
+_total_: 3.5% (2023 est.)<br>
+_male_: 2.6% (2023 est.)<br>
+_female_: 4.4% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 26.4% (2018 est.)<br>

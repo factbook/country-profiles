@@ -169,7 +169,7 @@ _election results_: percent of vote - NA; seats by party - independent 9; compos
 **Judicial branch**<br>
 _highest court(s)_: under the terms of the Territorial Law Reform Act 1992, Western Australia provides court services as needed for the island, including the Supreme Court and subordinate courts (District Court, Magistrate Court, Family Court, Children's Court, and Coroners' Court)<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 none<br>
 
 **International organization participation**<br>

@@ -347,8 +347,8 @@ _highest court(s)_: Supreme Court (consists of 37 judges); Constitutional Court 
 _judge selection and term of office_: Supreme Court judges nominated by the president and appointed by the Seimas; judges serve 5-year renewable terms; Constitutional Court judges appointed by the Seimas from nominations - 3 each by the president of the republic, the Seimas speaker, and the Supreme Court president; judges serve 9-year, nonrenewable terms; one-third of membership reconstituted every 3 years<br>
 _subordinate courts_: Court of Appeals; district and local courts<br>
 
-**Political parties and leaders**<br>
-Democrats for Lithuania [Saulius SKVERNELIS]<br>Electoral Action of Lithuanian Poles or LLRA [Valdemar TOMASEVSKI]<br>Freedom and Justice Party or LT [Remigijus ZEMAITAITIS] (formerly Lithuanian Freedom Union (Liberals))<br>Freedom Party or LP [Ausrine ARMONAITE]<br>Homeland Union-Lithuanian Christian Democrats or TS-LKD [Gabrielius LANDSBERGIS]<br>Labor Party or DP [Andrius MAZURONIS]<br>Lithuanian Center Party or LCP [Naglis PUTEIKIS]<br>Lithuanian Farmers and Greens Union or LVZS [Ramunas KARBAUSKIS]<br>Lithuanian Green Party or LZP [Remigijus LAPINSKAS]<br>Lithuanian Liberal Movement or LS or LRLS [Viktorija CMILYTE-NIELSEN]<br>Lithuanian List or LL [Darius KUOLYS]<br>Lithuanian Regions Party or LRP [Jonas PINSKUS] (formerly Lithuanian Social Democratic Labor Party or LSDDP)<br>Lithuanian Social Democratic Party or LSDP [Vilija BLINKEVICIUTE]<br>
+**Political parties**<br>
+Dawn of Nemunas or NA<br>Electoral Action of Poles in Lithuania or LLRA–KŠS<br>Freedom and Justice Party or LT (formerly Lithuanian Freedom Union (Liberals))<br>Freedom Party or LP<br>Homeland Union-Lithuanian Christian Democrats or TS-LKD<br>Labour Party or DP<br>Lithuanian Center Party or LCP<br>Lithuanian Christian Democracy Party or LKDP<br>Lithuanian Farmers and Greens Union or LVZS<br>Lithuanian Green Party or LZP<br>Liberals' Movement or LRLS<br>Lithuanian List or LL<br>Lithuanian Regions Party or LRP<br>Social Democratic Party of Lithuania or LSDP<br>Union of Democrats for Lithuania or DSVL<br>
 
 **International organization participation**<br>
 Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
@@ -458,9 +458,10 @@ metal-cutting machine tools, electric motors, televisions, refrigerators and fre
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19% (2021 est.)<br>
-_male_: 18.5%<br>
-_female_: 19.6%<br>
+_total_: 13.9% (2023 est.)<br>
+_male_: 16.3% (2023 est.)<br>
+_female_: 11.3% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 20.9% (2021 est.)<br>

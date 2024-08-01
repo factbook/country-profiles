@@ -341,8 +341,8 @@ _highest court(s)_: Supreme Court of Justice includes Court of Appeal and Court 
 _judge selection and term of office_: judges of both courts appointed by the monarch for life<br>
 _subordinate courts_: Court of Accounts; district and local tribunals and courts<br>
 
-**Political parties and leaders**<br>
-Alternative Democratic Reform Party or ADR [Fred KEUP]<br>Christian Social People's Party or CSV [Claude WISELER]<br>Democratic Party or DP [Lex DELLES]<br>Green Party [Djuna BERNARD, Meris SEHOVIC]<br>Luxembourg Socialist Workers' Party or LSAP [Dan BIANCALANA, Francine CLOSENER]<br>Pirate Party [Starsky FLOR, Rebecca LAU]<br>The Left (dei Lenk/la Gauche) [collective leadership, Central Committee]<br>
+**Political parties**<br>
+Alternative Democratic Reform Party or ADR <br>Christian Social People's Party or CSV <br>Democratic Party or DP <br>Green Party <br>Luxembourg Socialist Workers' Party or LSAP <br>Pirate Party <br>The Left (dei Lenk/la Gauche) <br>
 
 **International organization participation**<br>
 ADB (nonregional member), Australia Group, Benelux, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNOOSA, UNRWA, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -452,9 +452,10 @@ banking and financial services, construction, real estate services, iron, metals
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.2% (2021 est.)<br>
-_male_: 16.3%<br>
-_female_: 14.1%<br>
+_total_: 19% (2023 est.)<br>
+_male_: 15.7% (2023 est.)<br>
+_female_: 22.9% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 17.3% (2021 est.)<br>

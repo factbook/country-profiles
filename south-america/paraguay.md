@@ -358,8 +358,8 @@ _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consi
 _judge selection and term of office_: justices proposed by the Council of Magistrates or Consejo de la Magistratura, a 6-member independent body, and appointed by the Chamber of Senators with presidential concurrence; judges can serve until mandatory retirement at age 75<br>
 _subordinate courts_: appellate courts; first instance courts; minor courts, including justices of the peace<br>
 
-**Political parties and leaders**<br>
-Asociacion Nacional Republicana (National Republican Association) - Colorado Party or ANR [Mario ABDO BENITEZ]<br>Avanza Pais coalition or AP [Adolfo FERREIRO]<br>Frente Guasu (Broad Front coalition) or FG [Fernando Armindo LUGO Mendez]<br>GANAR Alliance (Great Renewed National Alliance) (alliance between PLRA and Guasú Front)<br>Movimiento Hagamos or MH [Antonio "Tony" APURIL]<br>Movimiento Union Nacional de Ciudadanos Eticos (National Union of Ethical Citizens) or UNACE [Jorge OVIEDO MATTO]<br>Partido Cruzada Nacional (National Crusade Party) or PCN [Paraguayo "Payo" CUBAS Colomés]; note - formerly Movimiento Cruzada Nacional<br>Partido del Movimiento al Socialismo or P-MAS [Camilo Ernesto SOARES Machado]<br>Partido Democratica Progresista (Progressive Democratic Party) or PDP [Rafael FILIZZOLA]<br>Partido Encuentro Nacional or PEN [Fernando CAMACHO]<br>Partido Liberal Radical Autentico (Authentic Radical Liberal Party) or PLRA [Efrain ALEGRE]<br>Partido Pais Solidario or PPS [Carlos Alberto FILIZZOLA Pallares]<br>Partido Popular Tekojoja or PPT [Sixto PEREIRA Galeano]<br>Patria Querida (Beloved Fatherland Party) or PPQ [Miguel CARRIZOSA]<br>
+**Political parties**<br>
+Asociacion Nacional Republicana (National Republican Association) - Colorado Party or ANR<br>Avanza Pais coalition or AP<br>Frente Guasu (Broad Front coalition) or FG<br>GANAR Alliance (Great Renewed National Alliance) (alliance between PLRA and Guasú Front)<br>Movimiento Hagamos or MH<br>Movimiento Union Nacional de Ciudadanos Eticos (National Union of Ethical Citizens) or UNACE<br>Partido Cruzada Nacional (National Crusade Party) or PCN; note - formerly Movimiento Cruzada Nacional<br>Partido del Movimiento al Socialismo or P-MAS<br>Partido Democratica Progresista (Progressive Democratic Party) or PDP<br>Partido Encuentro Nacional or PEN<br>Partido Liberal Radical Autentico (Authentic Radical Liberal Party) or PLRA<br>Partido Pais Solidario or PPS<br>Partido Popular Tekojoja or PPT<br>Patria Querida (Beloved Fatherland Party) or PPQ<br>
 
 **International organization participation**<br>
 CAN (associate), CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHRC, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -470,9 +470,10 @@ sugar processing, cement, textiles, beverages, wood products, steel, base metals
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.3% (2021 est.)<br>
-_male_: 12.7%<br>
-_female_: 21.9%<br>
+_total_: 13% (2023 est.)<br>
+_male_: 10.4% (2023 est.)<br>
+_female_: 16.9% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 24.7% (2022 est.)<br>

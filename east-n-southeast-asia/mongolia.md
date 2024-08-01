@@ -353,8 +353,8 @@ _highest court(s)_: Supreme Court (consists of the Chief Justice and 24 judges o
 _judge selection and term of office_: Supreme Court chief justice and judges appointed by the president upon recommendation by the General Council of Courts - a 14-member body of judges and judicial officials - to the State Great Hural; appointment is for life; chairman of the Constitutional Court elected from among its members; members appointed from nominations by the State Great Hural - 3 each by the president, the State Great Hural, and the Supreme Court; appointment is 6 years; chairmanship limited to a single renewable 3-year term<br>
 _subordinate courts_: aimag (provincial) and capital city appellate courts; soum, inter-soum, and district courts; Administrative Cases Courts<br>
 
-**Political parties and leaders**<br>
-Democratic Party or DP [ Luvsannyamyn GANTOMOR]<br>Mongolian People's Party or MPP [ Luvsannamsrain OYUN-ERDENE] <br>National Coalition [Nyamtaishiriin NOMTOIBAYAR]  <br>National Labor Party or HUN [Togmidyn DORJKHAND] <br>Civil Will-Green Party or CWGP [Batyn BATBAATAR] <br><br>National Coalition consists of the Mongolian Green Party (MGP) and the Mongolian National Democratic Party (MNDP)<br>
+**Political parties**<br>
+Democratic Party or DP<br>Mongolian People's Party or MPP <br>National Coalition (consists of Mongolian Green Party or MGP and the Mongolian National Democratic Party or MNDP)<br>National Labor Party or HUN <br>Civil Will-Green Party or CWGP<br>
 
 **International organization participation**<br>
 ADB, ARF, CD, CICA, CP, EBRD, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, MONUSCO, NAM, OPCW, OSCE, SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMISS, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -464,9 +464,10 @@ construction and construction materials; mining (coal, copper, molybdenum, fluor
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21% (2021 est.)<br>
-_male_: 20.1%<br>
-_female_: 22.4%<br>
+_total_: 11.4% (2023 est.)<br>
+_male_: 10.3% (2023 est.)<br>
+_female_: 12.9% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 27.8% (2020 est.)<br>

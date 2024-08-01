@@ -296,8 +296,8 @@ _highest court(s)_: Court of Appeal (consists of the chief justice and 3 judges 
 _judge selection and term of office_: High Court chief justice appointed by the Queen's Representative on the advice of the Executive Council tendered by the prime minister; other judges appointed by the Queen's Representative, on the advice of the Executive Council tendered by the chief justice, High Court chief justice, and the minister of justice; chief justice and judges appointed for 3-year renewable terms<br>
 _subordinate courts_: justices of the peace<br>
 
-**Political parties and leaders**<br>
-Cook Islands Party or CIP [Mark BROWN]<br>Cook Islands United Party [Teariki HEATHER]<br>Democratic Party or Demo [Tina BROWNE]<br>One Cook Islands Movement or OCI [George TURIA]<br>
+**Political parties**<br>
+Cook Islands Party or CIP<br>Cook Islands United Party <br>Democratic Party or Demo<br>One Cook Islands Movement or OCI<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, FAO, ICAO, ICCt, ICRM, IFAD, IFRCS, IMO, IMSO, IOC, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UNESCO, UPU, WHO, WMO<br>

@@ -349,8 +349,8 @@ _highest court(s)_: Supreme Court of the Slovak Republic (consists of the court 
 _judge selection and term of office_: Supreme Court judge candidates nominated by the Judicial Council of the Slovak Republic, an 18-member self-governing body that includes the Supreme Court chief justice and presidential, governmental, parliamentary, and judiciary appointees; judges appointed by the president serve for life subject to removal by the president at age 65; Constitutional Court judges nominated by the National Council of the Republic and appointed by the president; judges serve 12-year terms<br>
 _subordinate courts_: regional and district civil courts; Special Criminal Court; Higher Military Court; military district courts; Court of Audit;<br>
 
-**Political parties and leaders**<br>
-Alliance-Szovetseg or A-S [Krisztian FORRO]<br>Christian Union or KÚ [Anna ZABORSKA]<br>Civic Conservative Party or OKS [Ondrej DOSTAL]<br>Democrats [Eduard HEGER]<br>Direction-Social Democracy or Smer-SSD [Robert FICO]<br>For the People or Za Ludi [Veronika REMISOVA]<br>Freedom and Solidarity or SaS [Richard SULIK]<br>Life National Party or Život–NS [Tomáš TARABA] (formerly Christian Democracy - Life and Prosperity - Alliance for Slovkia)<br>New Majority or NOVA [Gábor GRENDEL]<br>Ordinary People and Independent Personalities - New Majority or OLaNO-NOVA [Igor MATOVIC]<br>People's Party Our Slovakia or LSNS [Marian KOTLEBA]<br>Progressive Slovakia or PS [Michal SIMECKA]<br>Republic [Milan UHRIK]<br>Slovak National Party or SNS [Andrej DANKO]<br>Voice - Social Democracy or Hlas-SD [Petr PELLIGRINI]<br>We Are Family or Sme-Rodina [Boris KOLLAR] (formerly Party of Citizens of Slovakia)<br>
+**Political parties**<br>
+Alliance-Szovetseg or A-S<br>Christian Union or KÚ<br>Civic Conservative Party or OKS<br>Democrats<br>Direction-Social Democracy or Smer-SSD<br>For the People or Za Ludi<br>Freedom and Solidarity or SaS<br>Life National Party or Život–NS (formerly Christian Democracy - Life and Prosperity - Alliance for Slovkia)<br>New Majority or NOVA<br>Ordinary People and Independent Personalities - New Majority or OLaNO-NOVA<br>People's Party Our Slovakia or LSNS<br>Progressive Slovakia or PS<br>Republic<br>Slovak National Party or SNS<br>Voice - Social Democracy or Hlas-SD<br>We Are Family or Sme-Rodina (formerly Party of Citizens of Slovakia)<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -461,9 +461,10 @@ automobiles; metal and metal products; electricity, gas, coke, oil, nuclear fuel
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.5% (2021 est.)<br>
-_male_: 19.6%<br>
-_female_: 24.6%<br>
+_total_: 19.4% (2023 est.)<br>
+_male_: 21.6% (2023 est.)<br>
+_female_: 15.8% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 13.7% (2021 est.)<br>

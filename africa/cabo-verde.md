@@ -330,8 +330,8 @@ _highest court(s)_: Supreme Court of Justice (consists of the chief justice and 
 _judge selection and term of office_: judge appointments - 1 by the president of the republic, 1 elected by the National Assembly, and 3 by the Superior Judicial Council (SJC), a 16-member independent body chaired by the chief justice and includes the attorney general, 8 private citizens, 2 judges, 2 prosecutors, the senior legal inspector of the Attorney General's office, and a representative of the Ministry of Justice; chief justice appointed by the president of the republic from among peers of the Supreme Court of Justice and in consultation with the SJC; judges appointed for life<br>
 _subordinate courts_: appeals courts, first instance (municipal) courts; audit, military, and fiscal and customs courts<br>
 
-**Political parties and leaders**<br>
-African Party for Independence of Cabo Verde or PAICV [Jose Maria Pereira NEVES]<br>Democratic and Independent Cabo Verdean Union or UCID [João DOS SANTOS LUIS]<br>Democratic Christian Party or PDC [Manuel RODRIGUES]<br>Democratic Renewal Party or PRD [Victor FIDALGO]<br>Movement for Democracy or MPD [Ulisses CORREIA E SILVA]<br>Party for Democratic Convergence or PCD [Dr. Eurico MONTEIRO]<br>Party of Work and Solidarity or PTS [Anibal MEDINA]<br>Social Democratic Party or PSD [Joao ALEM]<br>
+**Political parties**<br>
+African Party for Independence of Cabo Verde or PAICV <br>Democratic and Independent Cabo Verdean Union or UCID <br>Democratic Christian Party or PDC <br>Democratic Renewal Party or PRD <br>Movement for Democracy or MPD <br>Party for Democratic Convergence or PCD <br>Party of Work and Solidarity or PTS <br>Social Democratic Party or PSD <br>
 
 **International organization participation**<br>
 ACP, AfDB, AOSIS, AU, CD, CPLP, ECOWAS, FAO, G-77, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -440,9 +440,10 @@ food and beverages, fish processing, shoes and garments, salt mining, ship repai
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 34.3% (2021 est.)<br>
-_male_: 29.9%<br>
-_female_: 40.7%<br>
+_total_: 28.7% (2023 est.)<br>
+_male_: 24.9% (2023 est.)<br>
+_female_: 34.1% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 35.2% (2015 est.)<br>

@@ -359,7 +359,7 @@ _highest court(s)_: Court of Cassation or Supreme Court (consists of 15 members,
 _judge selection and term of office_: Supreme Court chief justice appointed by the king; other judges nominated by the Judicial Council, an 11-member judicial policymaking body consisting of high-level judicial officials and judges, and approved by the king; judge tenure not limited; Constitutional Court members appointed by the king for 6-year non-renewable terms with one-third of the membership renewed every 2 years<br>
 _subordinate courts_: Courts of Appeal; Great Felonies Court; religious courts; military courts; juvenile courts; Land Settlement Courts; Income Tax Court; Higher Administrative Court; Customs Court; special courts including the State Security Court<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 political reforms required all existing parties to re-register by May 2023, which resulted in changes to the number of registered parties and the number of seats held by those parties for the anticipated 2024 election<br>
 
 **International organization participation**<br>
@@ -469,9 +469,10 @@ tourism, information technology, clothing, fertilizer, potash, phosphate mining,
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 40.5% (2021 est.)<br>
-_male_: 37.4%<br>
-_female_: 53.8%<br>
+_total_: 40.8% (2023 est.)<br>
+_male_: 39.3% (2023 est.)<br>
+_female_: 47.1% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 15.7% (2018 est.)<br>

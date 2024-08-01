@@ -362,8 +362,8 @@ _highest court(s)_: Federal Court of Justice (court consists of 127 judges, incl
 _judge selection and term of office_: Federal Court of Justice judges selected by the Judges Election Committee, which consists of the Secretaries of Justice from each of the 16 federated states and 16 members appointed by the Federal Parliament; judges appointed by the president; judges serve until mandatory retirement at age 65; Federal Constitutional Court judges - one-half elected by the House of Representatives and one-half by the Senate; judges appointed for 12-year terms with mandatory retirement at age 68<br>
 _subordinate courts_: Federal Administrative Court; Federal Finance Court; Federal Labor Court; Federal Social Court; each of the 16 federated states or Land has its own constitutional court and a hierarchy of ordinary (civil, criminal, family) and specialized (administrative, finance, labor, social) courts; two English-speaking commercial courts opened in late 2020 in the state of Baden-Wuerttemberg - English-speaking Stuttgart Commercial Court and English-speaking Mannheim Commercial Court<br>
 
-**Political parties and leaders**<br>
-Alliance '90/Greens [Ricarda LANG and Omid NOURIPOUR]<br>Alternative for Germany or AfD [Alice WEIDEL and Tino CHRUPALLA]<br>Christian Democratic Union or CDU [Friedrich MERZ]<br>Christian Social Union or CSU [Markus SOEDER]<br>Free Democratic Party or FDP [Christian LINDNER]<br>Free Voters [Hubert AIWANGER]<br>The Left or Die Linke [Janine WISSLER and Martin SCHIRDEWAN]<br>Social Democratic Party or SPD [Saskia ESKEN and Lars KLINGBEIL]<br>
+**Political parties**<br>
+Alliance '90/Greens <br>Alternative for Germany or AfD <br>Christian Democratic Union or CDU <br>Christian Social Union or CSU <br>Free Democratic Party or FDP <br>Free Voters <br>The Left or Die Linke <br>Social Democratic Party or SPD <br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNMISS, UNOOSA, UNRWA, UNSOM, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -474,9 +474,10 @@ milk, sugar beets, wheat, barley, potatoes, pork, rapeseed, maize, rye, tritical
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7% (2021 est.)<br>
-_male_: 7.2%<br>
-_female_: 6.6%<br>
+_total_: 6% (2023 est.)<br>
+_male_: 6.7% (2023 est.)<br>
+_female_: 5.1% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 14.8% (2021 est.)<br>

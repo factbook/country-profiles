@@ -219,7 +219,7 @@ _highest court(s)_: Court of Appeal (consists of the court president, the chief 
 _judge selection and term of office_: chief justice, court of appeal president, and justices appointed by the governor; tenure specified in each justice's instrument of appointment<br>
 _subordinate courts_: Magistrate's Court (senior magistrate presides over civil and criminal divisions); Court of Summary Jurisdiction<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 none; all independents<br>
 
 **International organization participation**<br>

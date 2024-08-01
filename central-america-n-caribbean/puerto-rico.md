@@ -299,8 +299,8 @@ _highest court(s)_: Supreme Court (consists of the chief justice and 8 associate
 _judge selection and term of office_: justices appointed by the governor and confirmed by majority Senate vote; judges serve until compulsory retirement at age 70<br>
 _subordinate courts_: Court of Appeals; First Instance Court comprised of superior and municipal courts<br>
 
-**Political parties and leaders**<br>
-Citizens' Victory Movement (Movimiento Victoria Ciudadana) or MVC [Manuel NATAL Albelo]<br>Democratic Party of Puerto Rico [Charlie RODRIGUEZ]<br>New Progressive Party or PNP [Pedro PIERLUISI Urrutia] (pro-US statehood)<br>Popular Democratic Party or PPD [Jose Luis DALMAU] (pro-commonwealth)<br>Project Dignity (Projecto Dignidad) or PD [Cesar VASQUEZ Muniz]<br>Puerto Rican Independence Party or PIP [Ruben BERRIOS Martinez] (pro-independence)<br>Republican Party of Puerto Rico [Jenniffer GONZALEZ]<br>
+**Political parties**<br>
+Citizens' Victory Movement (Movimiento Victoria Ciudadana) or MVC<br>Democratic Party of Puerto Rico<br>New Progressive Party or PNP (pro-US statehood)<br>Popular Democratic Party or PPD (pro-commonwealth)<br>Project Dignity (Projecto Dignidad) or PD<br>Puerto Rican Independence Party or PIP (pro-independence)<br>Republican Party of Puerto Rico<br>
 
 **International organization participation**<br>
 AOSIS (observer), Caricom (observer), Interpol (subbureau), IOC, UNWTO (associate), UPU, WFTU (NGOs)<br>
@@ -397,9 +397,10 @@ pharmaceuticals, electronics, apparel, food products, tourism<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.5% (2021 est.)<br>
-_male_: 19.4%<br>
-_female_: 15.6%<br>
+_total_: 13.7% (2023 est.)<br>
+_male_: 14.9% (2023 est.)<br>
+_female_: 10.5% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Budget**<br>
 _revenues_: $9.268 billion (2017 est.)<br>

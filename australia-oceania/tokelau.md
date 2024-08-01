@@ -206,7 +206,7 @@ _highest court(s)_: Court of Appeal (in New Zealand) (consists of the court pres
 _judge selection and term of office_: judges nominated by the Judicial Selection Committee and approved by three-quarters majority of the Parliament; judges serve for life<br>
 _subordinate courts_: High Court (in New Zealand); Council of Elders or Taupulega<br>
 
-**Political parties and leaders**<br>
+**Political parties**<br>
 none<br>
 
 **International organization participation**<br>

@@ -343,8 +343,8 @@ _highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of 12
 _judge selection and term of office_: Supreme Court justices nominated by the president and appointed by the Assembly of the Republic; judges can serve for life; Constitutional Court judges - 10 elected by the Assembly and 3 elected by the other Constitutional Court judges; judges elected for 6-year nonrenewable terms<br>
 _subordinate courts_: Supreme Administrative Court (Supremo Tribunal Administrativo); Audit Court (Tribunal de Contas); appellate, district, and municipal courts<br>
 
-**Political parties and leaders**<br>
-Democratic Alliance or AD (2024 electoral alliance in the Azores, includes PSD, CDS-PP, PPM)<br>Democratic and Social Center/People's Party (Partido do Centro Democratico Social-Partido Popular) or CDS-PP [Nuno MELO]<br>Ecologist Party "The Greens" or "Os Verdes" (Partido Ecologista-Os Verdes) or PEV [Heloisa APOLONIA]<br>Enough (Chega) [Andre VENTURA]<br>Liberal Initiative (Iniciativa Liberal) or IL [Rui ROCHA]<br>LIVRE or L [Ru TAVARES &amp; Teresea MOTA]<br>People-Animals-Nature Party (Pessoas-Animais-Natureza) or PAN [Ines SOUSA REAL]<br>People's Monarchist Party or PPM [Gonçalo DA CAMARA PEREIRA]<br>Portuguese Communist Party (Partido Comunista Portugues) or PCP [Paulo RAIMUNDO]<br>Social Democratic Party (Partido Social Democrata) or PSD [Luis MONTENEGRO] (formerly the Partido Popular Democratico or PPD)<br>Socialist Party (Partido Socialista) or PS [Pedro Nunes SANTOS]<br>The Left Bloc (Bloco de Esquerda) or BE or O Bloco [Mariana MORTAGUA]<br>Unitary Democratic Coalition (Coligacao Democratica Unitaria) or CDU [Paulo RAIMUNDO] (includes PCP and PEV) (2024)<br>
+**Political parties**<br>
+Democratic Alliance or AD (2024 electoral alliance in the Azores, includes PSD, CDS-PP, PPM)<br>Democratic and Social Center/People's Party (Partido do Centro Democratico Social-Partido Popular) or CDS-PP<br>Ecologist Party "The Greens" or "Os Verdes" (Partido Ecologista-Os Verdes) or PEV<br>Enough (Chega)<br>Liberal Initiative (Iniciativa Liberal) or IL<br>LIVRE or L<br>People-Animals-Nature Party (Pessoas-Animais-Natureza) or PAN<br>People's Monarchist Party or PPM<br>Portuguese Communist Party (Partido Comunista Portugues) or PCP<br>Social Democratic Party (Partido Social Democrata) or PSD (formerly the Partido Popular Democratico or PPD)<br>Socialist Party (Partido Socialista) or PS<br>The Left Bloc (Bloco de Esquerda) or BE or O Bloco<br>Unitary Democratic Coalition (Coligacao Democratica Unitaria) or CDU (includes PCP and PEV) (2024)<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, CPLP, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -456,9 +456,10 @@ textiles, clothing, footwear, wood and cork, paper and pulp, chemicals, fuels an
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.1% (2021 est.)<br>
-_male_: 20.6%<br>
-_female_: 26.2%<br>
+_total_: 20.2% (2023 est.)<br>
+_male_: 20.6% (2023 est.)<br>
+_female_: 19.9% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 16.4% (2021 est.)<br>

@@ -374,8 +374,8 @@ _highest court(s)_: Supreme Court (consists of 28 judges, including the chief ju
 _judge selection and term of office_: justices appointed by the president to serve until age 65<br>
 _subordinate courts_: High Courts; District Courts; Labour Court<br>
 
-**Political parties and leaders**<br>
-Aam Aadmi Party or AAP [Arvind KEJRIWAL]<br>All India Trinamool Congress or AITC [Mamata BANERJEE]<br>Bahujan Samaj Party or BSP [MAYAWATI]<br>Bharatiya Janata Party or BJP [Jagat Prakash NADDA]<br>Biju Janata Dal or BJD [Naveen PATNAIK]<br>Communist Party of India-Marxist or CPI(M) [Sitaram YECHURY]<br>Dravida Munnetra Khazhagam [Muthuvel Karunanidhi STALIN]<br>Indian National Congress or INC [Mallikarjun KHARGE]<br>Nationalist Congress Party or NCP [Sharad PAWAR]<br>Rashtriya Janata Dal or RJD [Lalu Prasad YADAV]<br>Samajwadi Party or SP [Akhilesh YADAV]<br>Shiromani Akali Dal or SAD [Sukhbir Singh BADAL]<br>Shiv Sena or SS [Uddhav THACKERAY]<br>Telegana Rashtra Samithi or TRS [K. Chandrashekar RAO]<br>Telugu Desam Party or TDP [N. Chandrababu NAIDU]<br>YSR Congress or YSRCP or YCP [Y.S. Jaganmohan REDDY]<br>
+**Political parties**<br>
+Aam Aadmi Party or AAP<br>All India Trinamool Congress or AITC<br>Bahujan Samaj Party or BSP<br>Bharatiya Janata Party or BJP<br>Biju Janata Dal or BJD<br>Communist Party of India-Marxist or CPI(M)<br>Dravida Munnetra Khazhagam<br>Indian National Congress or INC<br>Nationalist Congress Party or NCP<br>Rashtriya Janata Dal or RJD<br>Samajwadi Party or SP<br>Shiromani Akali Dal or SAD<br>Shiv Sena or SS<br>Telegana Rashtra Samithi or TRS<br>Telugu Desam Party or TDP<br>YSR Congress or YSRCP or YCP<br>
 
 **International organization participation**<br>
 ADB, AfDB (nonregional member), Arctic Council (observer), ARF, ASEAN (dialogue partner), BIMSTEC, BIS, BRICS, C, CD, CERN (observer), CICA, CP, EAS, FAO, FATF, G-15, G-20, G-24, G-5, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS (observer), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OECD, OPCW, Pacific Alliance (observer), PCA, PIF (partner), Quad, SAARC, SACEP, SCO (observer), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNITAR, UNMISS, UNOCI, UNOOSA, UNSOM, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -487,9 +487,10 @@ textiles, chemicals, food processing, steel, transportation equipment, cement, m
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 28.3% (2021 est.)<br>
-_male_: 28.6%<br>
-_female_: 26.7%<br>
+_total_: 15.8% (2023 est.)<br>
+_male_: 15.8% (2023 est.)<br>
+_female_: 15.7% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 21.9% (2011 est.)<br>

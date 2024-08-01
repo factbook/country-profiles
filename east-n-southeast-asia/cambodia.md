@@ -358,8 +358,8 @@ _highest court(s)_: Supreme Council (organized into 5- and 9-judge panels and in
 _judge selection and term of office_: Supreme Court and Constitutional Council judge candidates recommended by the Supreme Council of Magistracy, a 17-member body chaired by the monarch and includes other high-level judicial officers; judges of both courts appointed by the monarch; Supreme Court judges appointed for life; Constitutional Council judges appointed for 9-year terms with one-third of the court renewed every 3 years<br>
 _subordinate courts_: Appellate Court; provincial and municipal courts; Military Court<br>
 
-**Political parties and leaders**<br>
-Candlelight Party or CP [TEAV Vannol]<br>Cambodian People's Party or CPP [HUN SEN]<br>Khmer Will Party or KWP [KONG Monika]<br>
+**Political parties**<br>
+Candlelight Party or CP<br>Cambodian People's Party or CPP <br>Khmer Will Party or KWP<br>
 <strong>note 1: </strong>18 parties registered to run in the 2023 parliamentary election<br><br><strong>note 2:</strong>  the Cambodian Government disqualified the Candlelight Party, the main opposition party, from the July 2023 election<br>
 
 **International organization participation**<br>
@@ -469,9 +469,10 @@ tourism, garments, construction, rice milling, fishing, wood and wood products, 
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.8% (2021 est.)<br>
-_male_: 1.6%<br>
-_female_: 2.1%<br>
+_total_: 0.8% (2023 est.)<br>
+_male_: 0.7% (2023 est.)<br>
+_female_: 0.9% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 16.5% (2016 est.)<br>

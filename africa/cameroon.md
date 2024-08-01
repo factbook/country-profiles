@@ -373,8 +373,8 @@ _highest court(s)_: Supreme Court of Cameroon (consists of 9 titular and 6 surro
 _judge selection and term of office_: Supreme Court judges appointed by the president with the advice of the Higher Judicial Council of Cameroon, a body chaired by the president and includes the minister of justice, selected magistrates, and representatives of the National Assembly; judge term NA; Constitutional Council members appointed by the president for renewable 6-year terms<br>
 _subordinate courts_: Parliamentary Court of Justice (jurisdiction limited to cases involving the president and prime minister); appellate and first instance courts; circuit and magistrates' courts<br>
 
-**Political parties and leaders**<br>
-Alliance for Democracy and Development [Garga Haman ADJI]<br>Cameroon People's Democratic Movement or CPDM [Paul BIYA]<br>Cameroon People's Party or CPP [Edith Kah WALLA]<br>Cameroon Renaissance Movement or MRC [Maurice KAMTO]<br>Cameroonian Democratic Union or UDC [Hermine Patricia TOMAINO]<br>Cameroonian Party for National Reconciliation or PCRN [Cabral LIBII]<br>Front for the National Salvation of Cameroon or FSNC [Issa Tchiroma BAKARY]<br>Movement for the Defense of the Republic or MDR [Paulin DJOWRWE]<br>Movement for the Liberation and Development of Cameroon or MLDC [Marcel YONDO]<br>National Union for Democracy and Progress or UNDP [Maigari BELLO BOUBA]<br>Progressive Movement or MP [Jean-Jacques EKINDI]<br>Social Democratic Front or SDF [Joshua OSIH]<br>Union of Peoples of Cameroon or UPC [Pierre Baleguel NKOT] <br>Union of Socialist Movements [Pierre KWEMO] <br>
+**Political parties**<br>
+Alliance for Democracy and Development <br>Cameroon People's Democratic Movement or CPDM <br>Cameroon People's Party or CPP <br>Cameroon Renaissance Movement or MRC <br>Cameroonian Democratic Union or UDC <br>Cameroonian Party for National Reconciliation or PCRN <br>Front for the National Salvation of Cameroon or FSNC <br>Movement for the Defense of the Republic or MDR <br>Movement for the Liberation and Development of Cameroon or MLDC <br>National Union for Democracy and Progress or UNDP <br>Progressive Movement or MP <br>Social Democratic Front or SDF <br>Union of Peoples of Cameroon or UPC <br>Union of Socialist Movements <br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, C, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -485,9 +485,10 @@ petroleum production and refining, aluminum production, food processing, light c
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.6% (2021 est.)<br>
-_male_: 6%<br>
-_female_: 7.3%<br>
+_total_: 6.4% (2023 est.)<br>
+_male_: 6% (2023 est.)<br>
+_female_: 7% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 37.5% (2014 est.)<br>

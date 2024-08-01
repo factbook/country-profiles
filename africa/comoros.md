@@ -331,8 +331,8 @@ _judge selection and term of office_: Supreme Court judges - selection and term 
 _subordinate courts_: Court of Appeals (in Moroni); Tribunal de premiere instance; island village (community) courts; religious courts<br>
 <br>   <br><br> <br>
 
-**Political parties and leaders**<br>
-Convention for the Renewal of the Comoros or CRC [AZALI Assoumani]<br>Juwa Party (Parti Juwa) or PJ [Ahmed Abdallah Mohamed SAMBI]<br>Orange Party [Mohamed DAOUDOU] (2020)<br>
+**Political parties**<br>
+Convention for the Renewal of the Comoros or CRC<br>Juwa Party (Parti Juwa) or PJ<br>Orange Party (2020)<br>
 
 **International organization participation**<br>
 ACP, AfDB, AMF, AOSIS, AU, CAEU (candidates), COMESA, FAO, FZ, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
@@ -427,9 +427,10 @@ fishing, tourism, perfume distillation<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.7% (2021 est.)<br>
-_male_: 21.8%<br>
-_female_: 21.5%<br>
+_total_: 10.9% (2023 est.)<br>
+_male_: 9.9% (2023 est.)<br>
+_female_: 12.2% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 42.4% (2013 est.)<br>

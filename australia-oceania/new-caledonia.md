@@ -277,8 +277,8 @@ _highest court(s)_: Court of Appeal in Noumea or Cour d'Appel; organized into ci
 _judge selection and term of office_: judge appointment and tenure based on France's judicial system<br>
 _subordinate courts_: Courts of First Instance include: civil, juvenile, commercial, labor, police, criminal, assizes, and also a pre-trial investigation chamber; Joint Commerce Tribunal; administrative courts<br>
 
-**Political parties and leaders**<br>
-Caledonia Together or CE [Philippe GOMES]<br>Caledonian Union or UC [Daniel GOA]<br>Future With Confidence or AEC [Virginie RUFFENACH]<br>Kanak Socialist Front for National Liberation or FLNKS (alliance includes PALIKA, UNI, UC, and UPM) [Victor TUTUGORO]<br>Labor Party or PT [Louis Kotra UREGEI]<br>National Union for Independence or UNI [Louis MAPOU]<br>Oceanian Awakening [Milakulo TUKUMULI]<br>Party of Kanak Liberation or PALIKA [Paul NEAOUTYINE]<br>Socialist Kanak Liberation or LKS [Basile CITRE]<br>The Republicans (formerly The Rally or UMP) [Sonia BACKES]<br>
+**Political parties**<br>
+Caledonia Together or CE <br>Caledonian Union or UC <br>Future With Confidence or AEC <br>Kanak Socialist Front for National Liberation or FLNKS (alliance includes PALIKA, UNI, UC, and UPM) <br>Labor Party or PT <br>National Union for Independence or UNI <br>Oceanian Awakening <br>Party of Kanak Liberation or PALIKA <br>Socialist Kanak Liberation or LKS <br>The Republicans (formerly The Rally or UMP) <br>
 
 **International organization participation**<br>
 ITUC (NGOs), PIF, SPC, UPU, WFTU (NGOs), WMO<br>
@@ -371,9 +371,10 @@ nickel mining and smelting<br>
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 41% (2021 est.)<br>
-_male_: 39.2%<br>
-_female_: 43.2%<br>
+_total_: 32.6% (2023 est.)<br>
+_male_: 29.8% (2023 est.)<br>
+_female_: 35.7% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 17% (2008)<br>

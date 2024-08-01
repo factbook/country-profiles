@@ -341,8 +341,8 @@ _highest court(s)_: Court of Cassation or Supreme Court (organized into 8 chambe
 _judge selection and term of office_: Court of Cassation judges appointed by Supreme Judicial Council, a 10-member body headed by the chief justice, and includes other judicial officials; judge tenure NA; Constitutional Council members appointed - 5 by the Council of Ministers and 5 by parliament; members serve 5-year terms<br>
 _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized tribunals, religious courts; military courts<br>
 
-**Political parties and leaders**<br>
-<p>Al-Ahbash (Association of Islamic Charitable Projects) or AICP [Shaykh Hussam QARAQIRA]<br>Amal Movement ("Hope Movement") [Nabih BERRI]<br>Azm Movement [Najib MIQATI]<br>Ba’th Arab Socialist Party of Lebanon [leader disputed]<br>Free Patriotic Movement or FPM [Gibran BASSIL]<br>Future Movement Bloc or FM [Sa'ad al-HARIRI] (resigned from politics in January 2022)<br>Hizballah [Hassan NASRALLAH]<br>Islamic Action Front or IAF [Sheikh Zuhayr al-JU’AYD]<br>Kata'ib Party [Sami GEMAYEL]<br>Lebanese Democratic Party [Talal ARSLAN]<br>Lebanese Forces or LF [Samir JA'JA]<br>Marada Movement [Sulayman FRANJIEH]<br>Progressive Socialist Party or PSP [Taymour JUMBLATT] (JUMBLATT is also a member of Parliament)<br>Social Democrat Hunshaqian Party [Sabuh KALPAKIAN]<br>Syrian Social Nationalist Party or SSNP [Rabi BANAT]<br>Tashnaq or Armenian Revolutionary Federation [Hagop PAKRADOUNIAN]</p><br>
+**Political parties**<br>
+<p>Al-Ahbash (Association of Islamic Charitable Projects) or AICP<br>Amal Movement ("Hope Movement")<br>Azm Movement<br>Ba’th Arab Socialist Party of Lebanon<br>Free Patriotic Movement or FPM<br>Future Movement Bloc or FM (resigned from politics in January 2022)<br>Hizballah<br>Islamic Action Front or IAF<br>Kata'ib Party<br>Lebanese Democratic Party<br>Lebanese Forces or LF<br>Marada Movement<br>Progressive Socialist Party or PSP<br>Social Democrat Hunshaqian Party<br>Syrian Social Nationalist Party or SSNP<br>Tashnaq or Armenian Revolutionary Federation</p><br>
 
 **International organization participation**<br>
 ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
@@ -452,9 +452,10 @@ banking, tourism, real estate and construction, food processing, wine, jewelry, 
 <b>note:</b> % of labor force seeking employment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.6% (2021 est.)<br>
-_male_: 30.8%<br>
-_female_: 26.7%<br>
+_total_: 23.7% (2023 est.)<br>
+_male_: 24.6% (2023 est.)<br>
+_female_: 22% (2023 est.)<br>
+<b>note:</b> % of labor force ages 15-24 seeking employment<br>
 
 **Population below poverty line**<br>
 27.4% (2011 est.)<br>
